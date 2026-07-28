@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAACe8QGIDXt3Oo/BnmDnb3dx",
+  "snapshot_id": "amVOAAAAAADxdN4L9HNHe4x1D+akYBp6",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Texada (Original Score)",
-        "url": "https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5"
+        "name": "Earth Focus (Original Score)",
+        "url": "https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 132000,
-      "name": "How Big Is Time",
-      "url": "https://open.spotify.com/track/20V47MWSX8TPqQ0Rudb7HQ"
+      "duration_ms": 121000,
+      "name": "Architectural Plans",
+      "url": "https://open.spotify.com/track/2rdH4Nn2qne7ZzjTJ6YkaE"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Earth Focus (Original Score)",
-        "url": "https://open.spotify.com/album/4CXZqn8Jlw6czJ8SIjWTxA"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 121000,
-      "name": "Architectural Plans",
-      "url": "https://open.spotify.com/track/2rdH4Nn2qne7ZzjTJ6YkaE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Texada (Original Score)",
         "url": "https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5"
       },
@@ -360,45 +344,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 144000,
-      "name": "The Quarry",
-      "url": "https://open.spotify.com/track/5PiKI2BYCbQmfPbvuVqnqE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seeing Is Forgetting",
-        "url": "https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        },
-        {
-          "name": "Henry Solomon",
-          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
-        }
-      ],
-      "duration_ms": 416000,
-      "name": "Heart",
-      "url": "https://open.spotify.com/track/5IyrOfZhWm90lqIqyNpRY9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blue of Distance",
-        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
-      },
-      "artists": [
-        {
-          "name": "Elori Saxl",
-          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
-        }
-      ],
-      "duration_ms": 596330,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2vKIle8Cz6jOaRjQwpVSR3"
+      "duration_ms": 132000,
+      "name": "How Big Is Time",
+      "url": "https://open.spotify.com/track/20V47MWSX8TPqQ0Rudb7HQ"
     },
     {
       "added_at": null,
@@ -419,8 +367,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drifts and Surfaces",
-        "url": "https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA"
+        "name": "Seeing Is Forgetting",
+        "url": "https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        }
+      ],
+      "duration_ms": 378000,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/3XiGOMIKcuPEpunKBq5Piv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blue of Distance",
+        "url": "https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy"
       },
       "artists": [
         {
@@ -428,9 +396,25 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 328165,
-      "name": "Drifts II",
-      "url": "https://open.spotify.com/track/143Uu2ssw2p9to2BNXcdjV"
+      "duration_ms": 596330,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2vKIle8Cz6jOaRjQwpVSR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Texada (Original Score)",
+        "url": "https://open.spotify.com/album/6k5BAI9sWhz4wCeIXx7Qv5"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "The Quarry",
+      "url": "https://open.spotify.com/track/5PiKI2BYCbQmfPbvuVqnqE"
     },
     {
       "added_at": null,
@@ -447,6 +431,22 @@
       "duration_ms": 138000,
       "name": "Alternative Futures",
       "url": "https://open.spotify.com/track/5L9GKrpvOXHB9Zwk4TvWLh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drifts and Surfaces",
+        "url": "https://open.spotify.com/album/6CRaegrVWfzQ6wneCbUoxA"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        }
+      ],
+      "duration_ms": 328165,
+      "name": "Drifts II",
+      "url": "https://open.spotify.com/track/143Uu2ssw2p9to2BNXcdjV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,860 likes - 173 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,919 likes - 173 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

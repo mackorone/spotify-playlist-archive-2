@@ -2,9 +2,9 @@
 
 ### [Hot Hits Česká republika](https://open.spotify.com/playlist/37i9dQZF1DX1kQODfnjf4u)
 
-> 50 nejžhavějších hitů v České republice\. Cover: Ewa Farna
+> 50 nejžhavějších hitů v České republice\. Cover: ADÉLA
 
-245 songs - 11 hr 57 min
+247 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [ADHD POP](https://open.spotify.com/track/2nFk1X6uJcJkHnOgMDep0a) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [ADHD POP](https://open.spotify.com/album/3P4vUalpTqo6xixUQ5eZTx) | 3:03 | 2026-06-22 |  |
 | [Adikts](https://open.spotify.com/track/6o4cDECLikccxhiW4401fN) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Adikts](https://open.spotify.com/album/29pEqr9x4I74wLGUPDq68i) | 2:42 | 2024-07-01 | 2024-10-15 |
 | [AENE](https://open.spotify.com/track/0TavlW2wgiYIFucM8n5XEu) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [SMART](https://open.spotify.com/artist/1gS0tZhuMXgCvYdvZGErWf), [Dame](https://open.spotify.com/artist/3AK5bCDWwrpsweYJq3mjNs) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 4:55 | 2025-05-05 | 2026-06-16 |
+| [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 | 2026-07-27 |  |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-22 | 2024-12-10 |
 | [AMAMRAD](https://open.spotify.com/track/23gaprHz5HF1T4ImWwTxpF) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [EXIT U PALICE](https://open.spotify.com/album/4O1zXnKumXCyMx0blYB7fi) | 3:13 | 2026-06-22 |  |
 | [Antarktida](https://open.spotify.com/track/1IeSKALeTrDx7H17xqxlXT) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i) | [Antarktida](https://open.spotify.com/album/5Lqf0bTrNHE8eayjDEP7EO) | 3:30 | 2025-09-29 | 2026-03-03 |
@@ -42,7 +43,7 @@
 | [Body to body](https://open.spotify.com/track/58Kx48jdexHfT7reFY1TVE) | [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Peter Pann](https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X) | [NEVIEM](https://open.spotify.com/album/5wFxSYPYbdzPagxJ4n3uyC) | 3:12 | 2025-04-07 | 2026-02-04 |
 | [Brick na brick](https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [Brick na brick](https://open.spotify.com/album/6TX0UkYw0QXF3T7tRXhRBs) | 2:53 | 2024-07-01 | 2025-08-05 |
 | [Cassiopea](https://open.spotify.com/track/1XWaH5Lz5FXgf6JbfclwNB) | [Rohony](https://open.spotify.com/artist/3FgZ0agsmQ50Y9VflHdcio), [mdmx](https://open.spotify.com/artist/0F2wMgHb1xp9HlWN4rt5Ke), [Pavel Machát](https://open.spotify.com/artist/0eWttDUfPVwCAA8bo83iGI) | [Superfly](https://open.spotify.com/album/71hXzRGKVQeRnv2YKvzbfo) | 2:45 | 2024-07-01 | 2024-09-24 |
-| [CCTV](https://open.spotify.com/track/0RYDIaHbbRmA5jHzwbRO5l) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [Matty Supreme](https://open.spotify.com/album/4Vi40ZhEh7oTEpBuJJoFNE) | 2:11 | 2026-06-15 |  |
+| [CCTV](https://open.spotify.com/track/0RYDIaHbbRmA5jHzwbRO5l) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton) | [Matty Supreme](https://open.spotify.com/album/4Vi40ZhEh7oTEpBuJJoFNE) | 2:11 | 2026-06-15 | 2026-07-28 |
 | [CELOU NOC 2](https://open.spotify.com/track/2SdeE22RomGIWq3xZwk7aF) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [AstralKid22](https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ), [Shimmi](https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck) | [DEBARAS](https://open.spotify.com/album/0Tkld1ukBsVD8IQgtr4hB4) | 2:45 | 2025-02-03 | 2025-03-11 |
 | [Chiary Svět](https://open.spotify.com/track/4JxpY16R7m9JDv9HYCivfk) | [Chiara](https://open.spotify.com/artist/0ltuGKZd8ksBTPbkXpZYgu) | [Chiary Svět](https://open.spotify.com/album/4OvnMAXGza7ET0YVvVQ2uK) | 2:45 | 2025-10-27 | 2026-01-15 |
 | [Cigarety](https://open.spotify.com/track/1XIbDyk2cYuhmPa0cO0zqN) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo), [Matej Turcer](https://open.spotify.com/artist/1P1NFb4HKvz4xpSPlkgLlF) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 4:41 | 2025-05-01 | 2026-03-03 |
@@ -51,6 +52,7 @@
 | [CROSSROADS](https://open.spotify.com/track/3X6cfvG2xgtx47V03hKxjG) | [Daniel Žižka](https://open.spotify.com/artist/03igozcHSdgnU1Z1aZ20aS) | [CROSSROADS](https://open.spotify.com/album/0ynt6Fz8qqlGIdUFVhPoqL) | 3:00 | 2026-05-19 | 2026-06-09 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-02-03 | 2025-03-11 |
 | [Cígo a káva \(feat\. Saul\)](https://open.spotify.com/track/2UD4l3evthKlDOM6HSrc9N) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 3:03 | 2024-12-09 | 2025-11-18 |
+| [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-07-27 |  |
 | [Další kapitola](https://open.spotify.com/track/1oubd2VIVeurm35QkG03X7) | [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Další kapitola](https://open.spotify.com/album/2rnrJ3KKF1VKgwspYXS2oI) | 2:30 | 2024-07-01 | 2024-07-23 |
 | [Den a noc](https://open.spotify.com/track/04zZaxfyIcri7AO7efBeZ7) | [KOJO](https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY) | [Den a noc](https://open.spotify.com/album/12u8ai9zrYYXVtmaSgDCXD) | 2:23 | 2026-03-02 | 2026-05-12 |
 | [Dial](https://open.spotify.com/track/1cPNECEaVkXbEoxBJgtk2c) | [NAUME](https://open.spotify.com/artist/4nN9KPvDyJUChakaoY9AXv), [ANASTÁZIE](https://open.spotify.com/artist/65Fpk83fEyrfdMnuqMyyzl) | [SUKUBA](https://open.spotify.com/album/3zv7ZJXh8zv34gR1Av0pvs) | 2:39 | 2026-06-08 |  |
@@ -118,7 +120,7 @@
 | [KICKIN’ DOORS](https://open.spotify.com/track/0Fdlt45ZC5yioKm90ERE86) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ) | [KICKIN’ DOORS](https://open.spotify.com/album/4DGtuOnJ6ghDx0hKHIAxOb) | 2:57 | 2024-07-01 | 2024-12-31 |
 | [Kiki](https://open.spotify.com/track/4zBNmCPinwFF4mGgN8WqfN) | [Trabo](https://open.spotify.com/artist/19HPN1TcUQ4L5gPdRIELlr) | [Kiki](https://open.spotify.com/album/6jnEQrCjjByCACb1Q7Gx7y) | 2:53 | 2024-11-12 | 2025-02-11 |
 | [Klenot](https://open.spotify.com/track/07w0b0rg01V4K4V81bv17X) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Můj sport / Klenot](https://open.spotify.com/album/1lawAF7gDuMHRLjj7IMPf3) | 2:55 | 2026-01-19 | 2026-02-24 |
-| [KOPRETINA](https://open.spotify.com/track/6pRO78el36tftyXnMDPRK7) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [KOPRETINA](https://open.spotify.com/album/3XxKczAhW9LhX1GJCGBvgB) | 2:09 | 2026-07-01 |  |
+| [KOPRETINA](https://open.spotify.com/track/6pRO78el36tftyXnMDPRK7) | [Ben Cristovao](https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8) | [KOPRETINA](https://open.spotify.com/album/3XxKczAhW9LhX1GJCGBvgB) | 2:09 | 2026-07-01 | 2026-07-28 |
 | [Krejčí](https://open.spotify.com/track/0asvJbktxKogEMdrOkf3hk) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [NobodyListen](https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C) | [Krejčí](https://open.spotify.com/album/1nHqyt1xWzf5m7gMf4H0Ek) | 2:38 | 2026-06-15 |  |
 | [Království](https://open.spotify.com/track/1BE9PBZnXNbc6xh8jdbC7i) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Planeta opic](https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl) | 3:10 | 2024-07-01 | 2024-11-05 |
 | [KSN](https://open.spotify.com/track/7AlwfbJ4nhr7JnYwoSgAkM) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Painkillers](https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp) | 3:01 | 2024-11-25 | 2025-09-02 |

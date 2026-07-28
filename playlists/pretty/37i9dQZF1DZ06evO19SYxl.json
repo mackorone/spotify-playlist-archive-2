@@ -1,12 +1,12 @@
 {
   "description": "This is Tex Tex. The essential tracks, all in one playlist.",
-  "num_followers": 10256,
+  "num_followers": 10260,
   "original_name": "This Is Tex Tex",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAAjZZVYLeL3Yng2MHGmuLkI",
+  "snapshot_id": "amVOAAAAAAC3lJLisKw/Pp3mbDYhnX1D",
   "tracks": [
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esp\u00edritu del Rock (30 Aniversario)",
-        "url": "https://open.spotify.com/album/4LK54gmmwCo3XczNXE3eTV"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Me Haces Volar",
-      "url": "https://open.spotify.com/track/5FSwwcIQYjXcqb2TiBOHiH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00fabete al Tren",
         "url": "https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 234386,
       "name": "La \u00daltima Vez",
       "url": "https://open.spotify.com/track/0QfBQKzl6W16mlsSQFQvT7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Esp\u00edritu del Rock (30 Aniversario)",
+        "url": "https://open.spotify.com/album/4LK54gmmwCo3XczNXE3eTV"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Me Haces Volar",
+      "url": "https://open.spotify.com/track/5FSwwcIQYjXcqb2TiBOHiH"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Toque M\u00e1gico",
-        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 342439,
-      "name": "D\u00e9jame",
-      "url": "https://open.spotify.com/track/5s7HtPMmg3KSlu7x3HpC73"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 201133,
       "name": "Asesinos del Rock",
       "url": "https://open.spotify.com/track/5PrzzhjU0EiN2ryEdVnsDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Toque M\u00e1gico",
+        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 342439,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/5s7HtPMmg3KSlu7x3HpC73"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Toque M\u00e1gico",
-        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 321776,
-      "name": "La Calle 16",
-      "url": "https://open.spotify.com/track/4wJhC82CH8gDqvdlcGxFPI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mu\u00f1ecos Desenchufados (En Vivo) [Serie Alive]",
         "url": "https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 264480,
       "name": "Dinero - En Vivo",
       "url": "https://open.spotify.com/track/5C82BHmoJImku3MZbDaITZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Toque M\u00e1gico",
+        "url": "https://open.spotify.com/album/3zzCO3IF6stGacEWhcQch4"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 321776,
+      "name": "La Calle 16",
+      "url": "https://open.spotify.com/track/4wJhC82CH8gDqvdlcGxFPI"
     },
     {
       "added_at": null,

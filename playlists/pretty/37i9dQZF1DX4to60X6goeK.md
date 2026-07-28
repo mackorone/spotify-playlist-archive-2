@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Kanine
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,199 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,211 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 13 | [Patience](https://open.spotify.com/track/1GkGL2dQjZ1PYj3ZJk0jii) | [Levela](https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib) | [Patience](https://open.spotify.com/album/1StN2iNJ26sRO0AVIpX9NZ) | 2:57 |
 | 14 | [High Energy](https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [High Energy](https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4) | 3:03 |
 | 15 | [Hijack](https://open.spotify.com/track/0GHfI7rdYSibiQTR8D1lTl) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Hijack](https://open.spotify.com/album/4Tzxhm1EfOEUu6VelOuS3h) | 2:35 |
-| 16 | [On The Gas](https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [On The Gas](https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO) | 2:58 |
-| 17 | [Gas](https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ), [SUUNE](https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu), [Phantom](https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a) | [Gas](https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S) | 3:06 |
+| 16 | [Gas](https://open.spotify.com/track/2sJKDHPYn5lZmVQhhMoStI) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ), [SUUNE](https://open.spotify.com/artist/7cl5oQykszelcZt2HZlbbu), [Phantom](https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a) | [Gas](https://open.spotify.com/album/3X9a2fO7SiOsTxzXpOG98S) | 3:06 |
+| 17 | [On The Gas](https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [On The Gas](https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO) | 2:58 |
 | 18 | [CHARGIE \- Rendah Edit](https://open.spotify.com/track/4IEoKCEWcLCwsIhW2d3mxA) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Jamakabi](https://open.spotify.com/artist/0kUmhavjjgQdru7TRPlLAC), [Rendah](https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX) | [DAY ONE \(Edits\)](https://open.spotify.com/album/5jG7UTE2ugocI8hbKXejuT) | 3:31 |
 | 19 | [Do U Feel It Now?](https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Do U Feel It Now?](https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL) | 3:51 |
 | 20 | [BODY DROP \(Won't Stop\)](https://open.spotify.com/track/6k65tpDYrP39jUPQcxvhmy) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [BODY DROP \(Won't Stop\)](https://open.spotify.com/album/02YJzamF4j3mvuxsKHaq5A) | 3:44 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 45 | [Bad Boy Horns](https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8) | [Kelvin 373](https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD), [Waeys](https://open.spotify.com/artist/2I5WzC6NbIiTydDnvGGTu9), [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [Bad Boy Horns](https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt) | 4:12 |
 | 46 | [Posra](https://open.spotify.com/track/1IuehNv6oLuj1fUb68go9V) | [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M) | [Posra](https://open.spotify.com/album/3UvGVvCAJc1YHf6o8LgkR2) | 3:25 |
 | 47 | [Violence](https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Maëlie](https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4) | [Violence](https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB) | 2:41 |
-| 48 | [Outta Order](https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Outta Order](https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r) | 3:55 |
-| 49 | [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 |
+| 48 | [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 |
+| 49 | [Outta Order](https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Outta Order](https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r) | 3:55 |
 | 50 | [Go Hard](https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ) | [T\-Lex](https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL) | [Go Hard / Wednesday](https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB) | 4:27 |
 | 51 | [Axiom](https://open.spotify.com/track/0mfWwsSnGt4mED2vz3CBUB) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl), [Kasra](https://open.spotify.com/artist/3W1ubrHvNSMltB1l7zo6xt) | [Axiom / Intuition](https://open.spotify.com/album/34WMLUUQVe28cku9U7rRO4) | 4:27 |
 | 52 | [Love Me Right](https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP) | [Spag Bol](https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq) | 3:22 |

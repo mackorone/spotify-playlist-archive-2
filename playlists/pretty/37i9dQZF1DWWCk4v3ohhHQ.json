@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 226409,
+  "num_followers": 226428,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "I Lived",
-      "url": "https://open.spotify.com/track/3IQF4xCQUPicbA4hWfTxPo"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Raise Your Glass",
         "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/20lOt6G8MHv8ZO7ViOmiP7"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "I Lived",
+      "url": "https://open.spotify.com/track/3IQF4xCQUPicbA4hWfTxPo"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Everything This Way",
-        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
-      },
-      "artists": [
-        {
-          "name": "Walking On Cars",
-          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
-        }
-      ],
-      "duration_ms": 242092,
-      "name": "Speeding Cars",
-      "url": "https://open.spotify.com/track/4wLvmlgcHW5ZkNERDIDv5H"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "What We Live For",
         "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 169026,
       "name": "Go Big Or Go Home",
       "url": "https://open.spotify.com/track/1obisQNOcikRvTdStbW3pG"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Everything This Way",
+        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
+      },
+      "artists": [
+        {
+          "name": "Walking On Cars",
+          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
+        }
+      ],
+      "duration_ms": 242092,
+      "name": "Speeding Cars",
+      "url": "https://open.spotify.com/track/4wLvmlgcHW5ZkNERDIDv5H"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Everything This Way",
-        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
-      },
-      "artists": [
-        {
-          "name": "Walking On Cars",
-          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
-        }
-      ],
-      "duration_ms": 261491,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/0llbJISuonEwIS4hmdaTz1"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "TALKING IS HARD",
         "url": "https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 222053,
       "name": "Different Colors",
       "url": "https://open.spotify.com/track/3RRRDZig4RNJhVGfwwOOFZ"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Everything This Way",
+        "url": "https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3"
+      },
+      "artists": [
+        {
+          "name": "Walking On Cars",
+          "url": "https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg"
+        }
+      ],
+      "duration_ms": 261491,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/0llbJISuonEwIS4hmdaTz1"
     },
     {
       "added_at": "2024-07-05 23:46:34",

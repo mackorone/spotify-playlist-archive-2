@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "\"forever\"",
+        "url": "https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK"
+      },
+      "artists": [
+        {
+          "name": "Alicia Moffet",
+          "url": "https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210263,
+      "name": "\"forever\"",
+      "url": "https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW"
+    },
+    {
+      "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
@@ -8112,7 +8130,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 197435,
       "name": "Mademoiselle",
       "url": "https://open.spotify.com/track/6l6bh1BetpFBtKZRhNIN2v"

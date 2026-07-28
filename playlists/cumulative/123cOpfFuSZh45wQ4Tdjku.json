@@ -4019,6 +4019,24 @@
     },
     {
       "album": {
+        "name": "Special effects",
+        "url": "https://open.spotify.com/album/1kGMuFPK5ukv5f0j0ZzmiT"
+      },
+      "artists": [
+        {
+          "name": "Michel Jussiau",
+          "url": "https://open.spotify.com/artist/659RSDprKSvbBjZSpdi2h7"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151199,
+      "name": "King of the sparks",
+      "url": "https://open.spotify.com/track/3XirwekeRGUrmDXwbIs1KK"
+    },
+    {
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8"
       },

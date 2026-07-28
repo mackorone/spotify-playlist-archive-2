@@ -4470,6 +4470,24 @@
     {
       "album": {
         "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202933,
+      "name": "Tell It to My Heart",
+      "url": "https://open.spotify.com/track/0RxGa6ou9V1ANxQvSxYvf0"
+    },
+    {
+      "album": {
+        "name": "The Suicide Handbook",
         "url": "https://open.spotify.com/album/1bnmgcr535fzJ3eBrz54gh"
       },
       "artists": [
@@ -4480,7 +4498,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 202933,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/3dh14wbU3UZzvxNfm1JUdk"

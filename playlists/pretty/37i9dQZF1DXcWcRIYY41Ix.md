@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Paco Pecado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,222 likes - 106 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,231 likes - 106 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

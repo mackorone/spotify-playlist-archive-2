@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec disiz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,258 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,251 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [mAnIAc](https://open.spotify.com/track/1uMISOROzvfKs1i2292HOn) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [mAnIAc](https://open.spotify.com/album/5AmHvTK4lO5DLy8mHZN8RM) | 3:24 |
 | 2 | [Sur la piste](https://open.spotify.com/track/4bcuCoIXefyjaHK3TDe6k3) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Sur la piste](https://open.spotify.com/album/16vXhWhUZhSLmRDuljs5ui) | 2:52 |
 | 3 | [Insomnie](https://open.spotify.com/track/14fGqHU130ooeNSBmCsJIC) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Insomnie](https://open.spotify.com/album/25rhWIctOA5FgMXZHAbtpc) | 2:31 |
-| 4 | [bellevie](https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [bellevie](https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778) | 3:01 |
+| 4 | [bellevie](https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [bellevie](https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778) | 3:02 |
 | 5 | [Libertà](https://open.spotify.com/track/0pAdIWqcWYbeQeYsSgitia) | [César](https://open.spotify.com/artist/29QLxgXz1rdMvaVK2aWFlU) | [Libertà](https://open.spotify.com/album/68bhRlQAHBfPvrFVFLiw1E) | 3:01 |
 | 6 | [Soleil dans ma tête](https://open.spotify.com/track/62j5dQuXwRnUOZGoDhwBOd) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Soleil dans ma tête](https://open.spotify.com/album/4wtfS8im6vop0N1u5EsDMj) | 2:30 |
 | 7 | [Boosté](https://open.spotify.com/track/16IuR7rJKqCkeOfr5jpD4o) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Boosté](https://open.spotify.com/album/5GJC5yrXFNPyQ2TXNiC8j2) | 2:45 |

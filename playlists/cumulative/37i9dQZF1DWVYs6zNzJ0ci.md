@@ -4,11 +4,11 @@
 
 > Vibraciones rastafari con Danny Ocean y Ryan Castro.
 
-445 songs - 1 day 5 hr 9 min
+446 songs - 1 day 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [+ UNIDAD](https://open.spotify.com/track/6anJzxYYM8gkFhjE6CKlP8) | [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [+ UNIDAD](https://open.spotify.com/album/3z3IHTyAZP2EtRP7B2AwiG) | 3:05 | 2025-05-29 |  |
+| [+ UNIDAD](https://open.spotify.com/track/6anJzxYYM8gkFhjE6CKlP8) | [Tiano Bless](https://open.spotify.com/artist/35B3K7HUycrePapFhO8X5v), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [+ UNIDAD](https://open.spotify.com/album/3z3IHTyAZP2EtRP7B2AwiG) | 3:05 | 2025-05-29 | 2026-07-28 |
 | [3 Caras](https://open.spotify.com/track/2lk6cFN10oFbEQyJ07VHyx) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV) | [3 Caras](https://open.spotify.com/album/4Ri4oLcXbyqs3rNs6s1mrs) | 2:14 | 2023-05-05 | 2024-01-27 |
 | [7 Vidas](https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc), [Son del Arroyo](https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se) | [7 Vidas](https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B) | 3:21 | 2022-09-30 |  |
 | [A 80 Voy](https://open.spotify.com/track/1MVs17VUqFdrXcXZ9cemB1) | [Jadi Espinoza](https://open.spotify.com/artist/47y6DYhbwUOGFTGFRROAVK) | [A 80 Voy](https://open.spotify.com/album/1GoOHBm7kJ2vbrucL9TgX8) | 2:19 | 2021-12-10 | 2022-07-11 |
@@ -77,6 +77,7 @@
 | [Caminando](https://open.spotify.com/track/5hirK8wva1Nh38fVwWdLlc) | [Ganja](https://open.spotify.com/artist/1BqQRFZhXGMUtOlGS1IvLt) | [Reggae Mexicano](https://open.spotify.com/album/5XtLOVnEN46fgRZOI216R4) | 4:21 | 2022-07-08 | 2024-04-19 |
 | [Caminante](https://open.spotify.com/track/2WIYYgfanuLj3Pped97mGf) | [La Tribu Royale](https://open.spotify.com/artist/1bcfJhvSlyCZpBtsmXyNoV), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [La Tribu Royale](https://open.spotify.com/album/3Xc8NHu8CFixhcdpX5Ck8y) | 3:25 | 2025-04-24 | 2025-07-31 |
 | [Caney](https://open.spotify.com/track/1iy127mskdnMF5mC5kicFF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Jambene](https://open.spotify.com/artist/1iVjhPA4VTxJ17IfxcYHGH) | [Caney](https://open.spotify.com/album/1x8IWBHGkrxSuHZibxOvgc) | 3:50 | 2021-12-10 |  |
+| [Canto](https://open.spotify.com/track/3lKHnXk6KqUOzFJaR0jJ7H) | [Necrojocker](https://open.spotify.com/artist/1kZRe2EGMf2w9616umnci4), [Plagio](https://open.spotify.com/artist/7yftS12f0mRDNuZTLbOJd1) | [Canto](https://open.spotify.com/album/2b1qYGHOdzkrnhTxnTX9W0) | 2:09 | 2026-05-15 |  |
 | [Carnival \(feat\. Solis & Randy Valentine\)](https://open.spotify.com/track/3FEN1Usl4Z4IceFbBZ1rmI) | [Mista Savona](https://open.spotify.com/artist/4Y6SrIz24cWZIWuG28CVgz), [Randy Valentine](https://open.spotify.com/artist/6qPjo0iKI9TQoc4vlCzYk1), [Solis](https://open.spotify.com/artist/6r1mTkA9wK0gKEXP2I50F1) | [Havana Meets Kingston](https://open.spotify.com/album/0icwh2eJpzUu9HiTHF4MzL) | 5:06 | 2021-12-10 | 2022-07-23 |
 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 | 2021-12-10 |  |
 | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC) | [Celebration \(feat\. Ky\-Mani Marley\)](https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E) | 3:51 | 2022-04-01 |  |

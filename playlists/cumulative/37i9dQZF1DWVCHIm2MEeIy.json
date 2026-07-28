@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 214849,
       "name": "Aura",
       "url": "https://open.spotify.com/track/3RJpwYdLSiSYzUlHn4fRZw"
@@ -1765,6 +1765,24 @@
     },
     {
       "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/6vR8bleJOELtPElrr98mlA"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/4RWY8DxNRBMxXKOzxGOxC7"
+    },
+    {
+      "album": {
         "name": "Blaze",
         "url": "https://open.spotify.com/album/0yzwuCt5GjlnUgNDROF4ls"
       },
@@ -2064,6 +2082,24 @@
       "duration_ms": 210142,
       "name": "Broken",
       "url": "https://open.spotify.com/track/6jcgxGVtyMC79ZIkeDFqK8"
+    },
+    {
+      "album": {
+        "name": "Brutal",
+        "url": "https://open.spotify.com/album/1bq74q9vv37J6v75M9uJZR"
+      },
+      "artists": [
+        {
+          "name": "Oliver Huntemann",
+          "url": "https://open.spotify.com/artist/0NBGssQpgDczTsVEp4pCbR"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Brutal - Edit",
+      "url": "https://open.spotify.com/track/2Psdb0NyeIUUNYS6uryXGG"
     },
     {
       "album": {
@@ -3413,6 +3449,28 @@
     },
     {
       "album": {
+        "name": "Did You Finally Lose Yourself",
+        "url": "https://open.spotify.com/album/2Dyc4Q2hs43G5TCSjxU5I5"
+      },
+      "artists": [
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        },
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240983,
+      "name": "Did You Finally Lose Yourself",
+      "url": "https://open.spotify.com/track/4rSW3n7QpMqI9fZWEuVkmg"
+    },
+    {
+      "album": {
         "name": "Diet Coke",
         "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
       },
@@ -4488,7 +4546,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 214161,
       "name": "For the Music",
       "url": "https://open.spotify.com/track/36OMSWCG4S0OOnqSbEHmq0"
@@ -4772,7 +4830,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 236625,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/15CXWtEaOlVG2Yj5L77zc8"
@@ -5184,7 +5242,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 227117,
       "name": "Healing",
       "url": "https://open.spotify.com/track/1tRD1LXAAy2VPKwdVoHIMI"
@@ -5382,6 +5440,24 @@
       "duration_ms": 493440,
       "name": "Himmelblau",
       "url": "https://open.spotify.com/track/6ZRwn9JqdtRQyrHT0tKIgy"
+    },
+    {
+      "album": {
+        "name": "Hitech Evolution",
+        "url": "https://open.spotify.com/album/1iaQqK98F48ewjAW3CJFwK"
+      },
+      "artists": [
+        {
+          "name": "Lampe",
+          "url": "https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289139,
+      "name": "Hitech Evolution",
+      "url": "https://open.spotify.com/track/1Wqzjg8RMC5R74pkenHtq8"
     },
     {
       "album": {
@@ -6626,6 +6702,24 @@
       "duration_ms": 201259,
       "name": "Let Em' Know",
       "url": "https://open.spotify.com/track/3bf3tNE3IjOtBsUzUVc9gs"
+    },
+    {
+      "album": {
+        "name": "Let Me Drown",
+        "url": "https://open.spotify.com/album/0sg7WuMB5PY2pMS5kzofzn"
+      },
+      "artists": [
+        {
+          "name": "James De Torres",
+          "url": "https://open.spotify.com/artist/3V2xA860a9cLBlJEpVbgsP"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341102,
+      "name": "Let Me Drown",
+      "url": "https://open.spotify.com/track/5J9xFOrUDLTb6Y3KBVHefU"
     },
     {
       "album": {
@@ -8096,6 +8190,28 @@
       "duration_ms": 166874,
       "name": "Murder Mystery",
       "url": "https://open.spotify.com/track/7LsVN5B04U0wwZAGqOlQlw"
+    },
+    {
+      "album": {
+        "name": "Musica Elettrica",
+        "url": "https://open.spotify.com/album/1xudRh6xQor6l0w3PuUylf"
+      },
+      "artists": [
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
+        },
+        {
+          "name": "Joyce Muniz",
+          "url": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307898,
+      "name": "Musica Elettrica",
+      "url": "https://open.spotify.com/track/3QKVdh0ofbej1QW0KRHnwk"
     },
     {
       "album": {
@@ -9594,6 +9710,24 @@
     {
       "album": {
         "name": "Pressure",
+        "url": "https://open.spotify.com/album/2Q04bFy18RDdfa7PxTa8w7"
+      },
+      "artists": [
+        {
+          "name": "Apophis",
+          "url": "https://open.spotify.com/artist/6Sz3s1OLPiCr3cniHuCSoK"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4D9ZeZjNYvEvAPs24AMfuZ"
+    },
+    {
+      "album": {
+        "name": "Pressure",
         "url": "https://open.spotify.com/album/3LKzgCd8XZzsRRi3CRRsv7"
       },
       "artists": [
@@ -10078,7 +10212,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 346209,
       "name": "Reserva",
       "url": "https://open.spotify.com/track/1XQ7cb5Ta5XDXAnX2eF52I"
@@ -10352,7 +10486,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 211543,
       "name": "Rock Like This",
       "url": "https://open.spotify.com/track/2PCu3SAbFOR3xf05PIvla4"
@@ -11657,6 +11791,24 @@
     },
     {
       "album": {
+        "name": "Space Dance",
+        "url": "https://open.spotify.com/album/038f0hyz1ABcew4NRR2TQa"
+      },
+      "artists": [
+        {
+          "name": "Deer Jade",
+          "url": "https://open.spotify.com/artist/0QJ6lXlYOHexjfIg4CQrgv"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215806,
+      "name": "Space Dance",
+      "url": "https://open.spotify.com/track/5HTuh8Z6whri3Ns1GKenDe"
+    },
+    {
+      "album": {
         "name": "Space Sheriff",
         "url": "https://open.spotify.com/album/15S8OxjcFIOQiJD4khUydW"
       },
@@ -11832,7 +11984,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 176483,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/7gGf1lpYd8AiibjYIh2ups"
@@ -12415,6 +12567,28 @@
     },
     {
       "album": {
+        "name": "The Realm",
+        "url": "https://open.spotify.com/album/17fphJG2iSPRDIXKZtaweO"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "KASIA",
+          "url": "https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "The Realm",
+      "url": "https://open.spotify.com/track/2KtVx4lNWEgRW7UXGxJZwO"
+    },
+    {
+      "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/6KW528cMftBmJE4k6R1Kvv"
       },
@@ -12712,7 +12886,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 161311,
       "name": "Titatite - Radio Edit",
       "url": "https://open.spotify.com/track/2K0oKmsSeBoCp6dEjfv98T"

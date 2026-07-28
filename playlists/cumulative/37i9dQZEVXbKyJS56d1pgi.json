@@ -15508,7 +15508,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 194607,
       "name": "Golden",
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
@@ -37207,6 +37207,24 @@
     },
     {
       "album": {
+        "name": "A Dor do Cupido",
+        "url": "https://open.spotify.com/album/2sqHk5hjK7GCwlEb37rjF7"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189106,
+      "name": "Tas no Ponto",
+      "url": "https://open.spotify.com/track/63v7dOuj1AIvZrKh5n53aM"
+    },
+    {
+      "album": {
         "name": "Tasas Jan",
         "url": "https://open.spotify.com/album/34aWiUwIsVubnHetwHCRKx"
       },
@@ -42450,7 +42468,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -42468,7 +42486,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

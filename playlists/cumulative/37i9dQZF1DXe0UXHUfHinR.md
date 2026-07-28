@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-872 songs - 2 day 22 hr 16 min
+873 songs - 2 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Blues My Naughty Sweetie Gives To Me](https://open.spotify.com/track/26zJinKqbORQyrDyMFLQhS) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [The Fabulous Sidney Bechet](https://open.spotify.com/album/3vfghXH6XIugrTCCNQfQTS) | 5:43 | 2025-12-04 |  |
 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 | 2022-10-27 |  |
 | [Body & Soul](https://open.spotify.com/track/12Ykc8GW0kQJURPlxZgyXM) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Joshua Redman](https://open.spotify.com/album/58y5aHbnGlzb1npFhXI1j1) | 4:50 | 2023-01-18 |  |
-| [Body And Soul](https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 4:10 | 2024-07-17 |  |
+| [Body And Soul](https://open.spotify.com/track/0BKNINLyNmQUvs9biD0ynB) | [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Further Definitions](https://open.spotify.com/album/3dGCBOJgxxUO8roYSTCc8k) | 4:10 | 2024-07-17 | 2026-07-28 |
 | [Body and Soul](https://open.spotify.com/track/2xm9ihELo6xwrRKrBbPql9) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Body & Soul](https://open.spotify.com/album/6Ieo4Lrku0sQ63Pd9G8j3L) | 3:02 | 2022-10-27 | 2024-04-19 |
 | [Body and Soul](https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 3:20 | 2022-10-27 |  |
 | [Boo's Blues](https://open.spotify.com/track/1bnnJsnSGD4hmNG7J0BMFG) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Squint](https://open.spotify.com/album/4eomOt6YKFtZhFPyoSwrSC) | 3:25 | 2025-12-04 | 2026-05-28 |
@@ -165,6 +165,7 @@
 | [Cherokee](https://open.spotify.com/track/0BNrLm5na6f7witHj8769E) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Max Roach Quintet](https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3) | [Study In Brown](https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1) | 5:44 | 2023-06-21 | 2026-07-20 |
 | [Chicago](https://open.spotify.com/track/5TjO0GOOon3R6YOnRFPwzk) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [The Best Of Benny Goodman](https://open.spotify.com/album/1I1E1ZUYFDK0Dn4DK5YmrH) | 2:59 | 2022-10-27 |  |
 | [Chicken](https://open.spotify.com/track/4IDdUssauEYJ9kTit6tOU6) | [Jaco Pastorius](https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX), [Peter Lübke](https://open.spotify.com/artist/0YktrlH17JaZBzywJCcNma), [Biréli Lagrène](https://open.spotify.com/artist/0G3ug1mpFw0I50kvAIxNhS) | [Broadway Blues](https://open.spotify.com/album/7sZtHAjAPbZmch3HLiA3g7) | 5:51 | 2022-10-27 |  |
+| [Chill](https://open.spotify.com/track/32QBONl2by0oSvqUDcOIrs) | [Joshua Redman Quartet](https://open.spotify.com/artist/53HPdlKWDIGFF4GvVrCtEV) | [MoodSwing](https://open.spotify.com/album/2pGsmKvSJPyv8sjJ7fzdGp) | 7:43 | 2025-12-04 |  |
 | [Ching Miau \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6oarR9NsZJOlYxDi17S9iS) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 3:14 | 2023-01-18 | 2023-03-12 |
 | [Chitlins Con Carne](https://open.spotify.com/track/18A1V1vsy5YgHFqb4galTw) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Midnight Blue \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl) | 5:30 | 2022-10-27 |  |
 | [Chloe](https://open.spotify.com/track/0cNc2tivyPqzgp13BSM7St) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Intercontinental](https://open.spotify.com/album/2zdmAZybFyUmIMPDok4y6A) | 5:21 | 2022-10-27 |  |

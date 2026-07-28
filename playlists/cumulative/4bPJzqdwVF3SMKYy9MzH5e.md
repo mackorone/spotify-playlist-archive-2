@@ -4,7 +4,7 @@
 
 > 
 
-2,429 songs - 5 day 10 hr 38 min
+2,434 songs - 5 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Death of a Bachelor](https://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:23 | 2021-08-05 |  |
 | [DEATH RATTLE](https://open.spotify.com/track/5NCXIjreIgVsGEaDpclbVs) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [DEATH RATTLE](https://open.spotify.com/album/189IFXJK0O6orcVrUDwU7d) | 2:40 | 2024-09-18 |  |
 | [Debugged](https://open.spotify.com/track/0iW299Y3Vs8hawWYLwnQrS) | [C!erra My$t](https://open.spotify.com/artist/49xeZQkZtyvt4xAuZCKYwk) | [Witness of Another World](https://open.spotify.com/album/3C3XEC0CDqfGZY6XPkxAJO) | 1:24 | 2023-02-22 |  |
+| [Deceitful Eyes](https://open.spotify.com/track/3EspPNbxpFNYbPwlyAs8rJ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/1HXwvX1Ph4yoGRZ51ssBH2) | 2:24 | 2026-07-27 |  |
 | [Deceptacon](https://open.spotify.com/track/4yeILpRczJAXG6kAsE7pGk) | [Le Tigre](https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 3:04 | 2021-08-05 |  |
 | [Decibel Tool](https://open.spotify.com/track/4ePHFEaLIVruU7IG8zKv9O) | [Element](https://open.spotify.com/artist/7hb1BiulwZ6lAflLQeQVJU), [Kruelty](https://open.spotify.com/artist/30sKm4Zacgq8mC0l7vNmuD) | [Decibel Tool](https://open.spotify.com/album/1TOyCfDoaIBKF87fRTekqb) | 2:42 | 2023-05-17 |  |
 | [Deep Lake](https://open.spotify.com/track/4yKQnfdhb8m5vwcTo2WuE8) | [Bovskey](https://open.spotify.com/artist/2z5MSIstgHtruYoMdI0eKu) | [12B3](https://open.spotify.com/album/4RcKkOMITjGeBgB0w8MlGO) | 3:08 | 2025-06-27 |  |
@@ -1300,6 +1301,7 @@
 | [Luv Note](https://open.spotify.com/track/4wnvVlqdz6o7eLtbeS5sYR) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Rabbit Hearted.](https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz) | 3:30 | 2021-08-05 |  |
 | [Luxurious](https://open.spotify.com/track/3UQmoVQJqBYauTZLVPs3uo) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Love\. Angel\. Music\. Baby\. \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 4:24 | 2021-11-14 |  |
 | [Luxury](https://open.spotify.com/track/7IzN1BfaQ8fmTHYPRPhNws) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 2:48 | 2021-08-05 |  |
+| [Lychnis](https://open.spotify.com/track/416Nvr6vUng5BOnX5QrXmx) | [Myria](https://open.spotify.com/artist/1pCJrXxmxUAm5tiYmhdY6A) | [Lychnis](https://open.spotify.com/album/5aUwwmR8JduLc9iUiBlq0S) | 1:30 | 2026-07-27 |  |
 | [M'Lady](https://open.spotify.com/track/2i9yWmgHVqWW1vmXtxUaN9) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 1:27 | 2022-07-11 |  |
 | [M'Lady \- S3RL Remix](https://open.spotify.com/track/327Y6xTmonBO9FY01ZKuti) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT), [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [M'Lady \(S3RL Remix\)](https://open.spotify.com/album/21uV6Pz6uv2LTdDRt81WB2) | 2:35 | 2022-06-12 |  |
 | [M.I.A.](https://open.spotify.com/track/6gttjO6hxvBiPI9YcQtG4g) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Invitation](https://open.spotify.com/album/4tvURFzWBbtEs50K8Q4u92) | 3:03 | 2021-08-05 |  |
@@ -1586,6 +1588,7 @@
 | [Pain \- LSDXOXO Remix](https://open.spotify.com/track/4p7euivNtllV68CZSbso2I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 2:27 | 2025-12-18 |  |
 | [Pain 1993 \(with Playboi Carti\)](https://open.spotify.com/track/6Kj17Afjo1OKJYpf5VzCeo) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 2:29 | 2026-01-06 |  |
 | [Painkiller](https://open.spotify.com/track/1abFkY2jm6KDFMZ7RD9YJh) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Painkiller](https://open.spotify.com/album/68WyGdXBIZQZLezPVSDrxC) | 3:33 | 2021-08-05 |  |
+| [PALETA](https://open.spotify.com/track/4C1wgr96INpecKLtaTirlw) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3) | [PALETA](https://open.spotify.com/album/5XbgmPegvInyYKB2Ju76ID) | 1:28 | 2026-07-28 |  |
 | [Panic Room](https://open.spotify.com/track/7uUahoeqGNRMbpdeiLj1rS) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Panic Room](https://open.spotify.com/album/3F83QiIRImUneMzZdSaTTM) | 3:57 | 2021-08-05 |  |
 | [Paper](https://open.spotify.com/track/60sE6u77Uuwsf7w4GbPwgf) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [Paper](https://open.spotify.com/album/2OuZduHr2CqQK6gvflPIKW) | 2:37 | 2021-08-05 |  |
 | [Paper Planes](https://open.spotify.com/track/64vv8CmBPaxya187jS6KhT) | [Voluptuöus](https://open.spotify.com/artist/0Op5CNaLTuYdXiB3rFesg8) | [Paper Planes](https://open.spotify.com/album/1aIaQoqhZhm7p4CNnPdXCQ) | 2:36 | 2024-08-29 |  |
@@ -1801,6 +1804,7 @@
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:50 | 2022-02-18 |  |
 | [Sail](https://open.spotify.com/track/57Nez0yOaE9h7HuPObxDJP) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Decade](https://open.spotify.com/album/5nVWi9N2LrOLIZ1aKBmqwe) | 2:42 | 2021-12-30 |  |
 | [Sailin' Da South \(Screwed\)](https://open.spotify.com/track/7cUoXJUcbba7lzQ937Mq7M) | [DJ Screw](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul), [E.S.G.](https://open.spotify.com/artist/2HeV7SaeXiEdRp9mwu3D6e) | [3 'N The Mornin’ Part Two \(Screwed\)](https://open.spotify.com/album/2F7xZ22zn1KZRlM4v6M9de) | 3:24 | 2025-08-20 |  |
+| [Sailor Neptune](https://open.spotify.com/track/5KRuVURw5XmwTJ2PJZuoZc) | [asoookha](https://open.spotify.com/artist/5d1n0kBkkvnk1r5CnaWOWe) | [Marigold](https://open.spotify.com/album/478YUCcpYyi5KS8XqMHocM) | 1:30 | 2026-07-28 |  |
 | [Sakura no eda](https://open.spotify.com/track/78DynEbRmPghcmQ4o1jOOv) | [Rory in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N), [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [Sakura no eda](https://open.spotify.com/album/5gTpIw4eWWrxopwG0njMem) | 2:45 | 2022-02-04 |  |
 | [Sally Walker](https://open.spotify.com/track/7dsEsd0rlVs6PddRJj64ho) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Sally Walker](https://open.spotify.com/album/23aioVCY8KAQbx5ntk7rmV) | 2:58 | 2021-08-05 |  |
 | [Salvatore](https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:41 | 2022-11-10 |  |
@@ -2363,6 +2367,7 @@
 | [Widow](https://open.spotify.com/track/5BIXwdtG36ryxU9gLug2p4) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Sorry, Mom](https://open.spotify.com/album/3aqOg25BCgwMQOel1TsE4V) | 2:40 | 2021-11-30 |  |
 | [Wifey Riddim \(feat\. Jorja Smith & SadBoi\) \- George Daniel Remix](https://open.spotify.com/track/6aG0JW87HgZcYF7XZDBb6w) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Room 2 RMX](https://open.spotify.com/album/1GwsBdB1RtOwYtE5rbrEkg) | 2:48 | 2025-07-06 |  |
 | [wish you were gay](https://open.spotify.com/track/3Fj47GNK2kUF0uaEDgXLaD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:41 | 2021-08-05 |  |
+| [WITH ME](https://open.spotify.com/track/7CEqlMvyAJGPNtaEdCNIOz) | [Paris Prestige](https://open.spotify.com/artist/5KJbpQbPAeUkb34K73J6Sj) | [WITH ME](https://open.spotify.com/album/6u2iRjHkKMCiJdpnkYyEsk) | 1:59 | 2026-07-27 |  |
 | [With My Hoe!](https://open.spotify.com/track/6r3Wa1lkJVEuc67aZhwO61) | [C2d](https://open.spotify.com/artist/2KewEocognk3bL1lQZe45G) | [With My Hoe!](https://open.spotify.com/album/4x5IxYlK9AunYmDEYuW9AX) | 1:22 | 2021-08-05 |  |
 | [With Or Without](https://open.spotify.com/track/4aobh4j9xhG08Yb7VkcCzd) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [With Or Without](https://open.spotify.com/album/4OPRKb28mSim18LxaWMErZ) | 3:30 | 2021-08-05 |  |
 | [Witness](https://open.spotify.com/track/1VdAWlvKSEe7nDd1zYok9O) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [How I Learned to Stop Giving a Shit and Love Mindless Self Indulgence](https://open.spotify.com/album/6LaVH1njSyg2fzS1MucTg7) | 3:16 | 2021-08-05 |  |

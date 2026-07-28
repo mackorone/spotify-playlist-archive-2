@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 89910,
+  "num_followers": 89922,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,34 @@
     {
       "added_at": "2025-12-22 11:16:50",
       "album": {
+        "name": "Verdi: Nabucco",
+        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Piero Cappuccilli",
+          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
+        },
+        {
+          "name": "Orchester der Deutschen Oper Berlin",
+          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Nabucco / Act 4: Dio di Giuda!",
+      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
+    },
+    {
+      "added_at": "2025-12-22 11:16:50",
+      "album": {
         "name": "Kiri - A Portrait",
         "url": "https://open.spotify.com/album/4zqtZ8uDOrhSL0Yi2CYne4"
       },
@@ -719,34 +747,6 @@
       "duration_ms": 277640,
       "name": "La traviata / Act 1: \"Follie! Delirio vano \u00e8 questo!\" - \"Sempre libera\"",
       "url": "https://open.spotify.com/track/1sHxx6JFlwNEZqQl55eOOI"
-    },
-    {
-      "added_at": "2025-12-22 11:16:50",
-      "album": {
-        "name": "Verdi: Nabucco",
-        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Piero Cappuccilli",
-          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
-        },
-        {
-          "name": "Orchester der Deutschen Oper Berlin",
-          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Nabucco / Act 4: Dio di Giuda!",
-      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/5MoELXFkrkYdWaeBk8rQ94"
         }
       ],
-      "duration_ms": 160333,
-      "name": "Aida: Act IV, Scene 2: La fatal pietra sovra me si chiuse",
-      "url": "https://open.spotify.com/track/0l4JdUkWKjK00NcKEx1dWZ"
+      "duration_ms": 222933,
+      "name": "Aida: Preludio",
+      "url": "https://open.spotify.com/track/2gYfLYgEXoxbjcS79M2j55"
     },
     {
       "added_at": "2025-12-22 11:16:50",
@@ -944,9 +944,9 @@
           "url": "https://open.spotify.com/artist/5MoELXFkrkYdWaeBk8rQ94"
         }
       ],
-      "duration_ms": 222933,
-      "name": "Aida: Preludio",
-      "url": "https://open.spotify.com/track/2gYfLYgEXoxbjcS79M2j55"
+      "duration_ms": 160333,
+      "name": "Aida: Act IV, Scene 2: La fatal pietra sovra me si chiuse",
+      "url": "https://open.spotify.com/track/0l4JdUkWKjK00NcKEx1dWZ"
     },
     {
       "added_at": "2025-12-22 11:16:50",

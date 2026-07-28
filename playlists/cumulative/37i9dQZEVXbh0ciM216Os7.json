@@ -70308,6 +70308,28 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302944,
+      "name": "The Tao of Glass: 1. Newspaper",
+      "url": "https://open.spotify.com/track/3EKUXSxgBSWD0aTrouawmY"
+    },
+    {
+      "album": {
+        "name": "Tao of Glass",
+        "url": "https://open.spotify.com/album/3iSM4LMZBF9h7CoCokoUaU"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Phelim McDermott",
+          "url": "https://open.spotify.com/artist/4UDqVKbv6HO1eJ09B5IRQG"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
       "date_removed": "2026-07-27",
       "duration_ms": 711888,
       "name": "The Tao of Glass: 4. Coma",
@@ -70330,7 +70352,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 509208,
       "name": "The Tao of Glass: 5. Closing",
       "url": "https://open.spotify.com/track/09BrXW7ZFz1Oo2wSDoFPFR"

@@ -5203,6 +5203,68 @@
     },
     {
       "album": {
+        "name": "Verde (Jerome Isma-Ae Remix)",
+        "url": "https://open.spotify.com/album/4ymVvT1qGWS1BqcWga2VeT"
+      },
+      "artists": [
+        {
+          "name": "Boxer",
+          "url": "https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276607,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/1ytKAWkeT6Ol5OdBAPWq7a"
+    },
+    {
+      "album": {
+        "name": "Verde (Jerome Isma-Ae Remix)",
+        "url": "https://open.spotify.com/album/4ymVvT1qGWS1BqcWga2VeT"
+      },
+      "artists": [
+        {
+          "name": "Boxer",
+          "url": "https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG"
+        },
+        {
+          "name": "Jerome Isma-Ae",
+          "url": "https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380487,
+      "name": "Verde - Jerome Isma-Ae Extended Remix",
+      "url": "https://open.spotify.com/track/3zh5FctBW9UH1ZlVw6VCcC"
+    },
+    {
+      "album": {
+        "name": "Verde (Jerome Isma-Ae Remix)",
+        "url": "https://open.spotify.com/album/4ymVvT1qGWS1BqcWga2VeT"
+      },
+      "artists": [
+        {
+          "name": "Boxer",
+          "url": "https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG"
+        },
+        {
+          "name": "Jerome Isma-Ae",
+          "url": "https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195627,
+      "name": "Verde - Jerome Isma-Ae Remix",
+      "url": "https://open.spotify.com/track/16kavRQaINC8MtLtqVL7Cz"
+    },
+    {
+      "album": {
         "name": "Infinita (Remixes)",
         "url": "https://open.spotify.com/album/2A1DqUO1wkrA1oXgQLvC1u"
       },

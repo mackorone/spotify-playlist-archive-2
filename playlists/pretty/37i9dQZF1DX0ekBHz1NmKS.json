@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195243,
+  "num_followers": 195232,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Fantiserar",
-        "url": "https://open.spotify.com/album/1I5rl1epHuk0wEahddMPfL"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 156724,
-      "name": "Fantiserar",
-      "url": "https://open.spotify.com/track/6Iacj2942oCDNmDrcr51nu"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Sciura",
         "url": "https://open.spotify.com/album/5ZXEMjNP17Sq4etVaWJWfP"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 232280,
       "name": "Min vita kanin",
       "url": "https://open.spotify.com/track/6ZGxJeIhyKOchbEuK8JBXa"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Fantiserar",
+        "url": "https://open.spotify.com/album/1I5rl1epHuk0wEahddMPfL"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 156724,
+      "name": "Fantiserar",
+      "url": "https://open.spotify.com/track/6Iacj2942oCDNmDrcr51nu"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Livet kommer d\u00f6da oss, vi lever det \u00e4nd\u00e5",
-        "url": "https://open.spotify.com/album/0Go4LuZjdNYuwmyT7S3VlO"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 160973,
-      "name": "Packa alla v\u00e4skor Louise",
-      "url": "https://open.spotify.com/track/5fKUEcUMEHj0dDUgCOeSlj"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Ju Mer Dom Spottar",
         "url": "https://open.spotify.com/album/24AvUXtwmM8TqNMRVYPnw8"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 175578,
       "name": "Ju Mer Dom Spottar",
       "url": "https://open.spotify.com/track/6COVBu4T7r9eeTUU9ptVsN"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Livet kommer d\u00f6da oss, vi lever det \u00e4nd\u00e5",
+        "url": "https://open.spotify.com/album/0Go4LuZjdNYuwmyT7S3VlO"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 160973,
+      "name": "Packa alla v\u00e4skor Louise",
+      "url": "https://open.spotify.com/track/5fKUEcUMEHj0dDUgCOeSlj"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Happy Now",
-        "url": "https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 162317,
-      "name": "Happy Now",
-      "url": "https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Bara du \u00e4r d\u00e4r (feat. Von Disco)",
         "url": "https://open.spotify.com/album/6ipXmZ7rwqcrKf6ZZcb3Bo"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 171040,
       "name": "Bara du \u00e4r d\u00e4r (feat. Von Disco)",
       "url": "https://open.spotify.com/track/3No7Damf9LQeDkxQwW7NmM"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 162317,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "You Got The Look",
-        "url": "https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R"
-      },
-      "artists": [
-        {
-          "name": "A*Teens",
-          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
-        }
-      ],
-      "duration_ms": 181693,
-      "name": "You Got The Look",
-      "url": "https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/2elYWaFUqlA9QmNP1xygoG"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "BEAUTIFUL MADNESS",
-        "url": "https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv"
+        "name": "You Got The Look",
+        "url": "https://open.spotify.com/album/09yaAfP25nx0lDev4REZ5R"
       },
       "artists": [
         {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+          "name": "A*Teens",
+          "url": "https://open.spotify.com/artist/5zMgvYBz4AW0gFyPtg7fR9"
         }
       ],
-      "duration_ms": 213880,
-      "name": "LOVESONGS",
-      "url": "https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR"
+      "duration_ms": 181693,
+      "name": "You Got The Look",
+      "url": "https://open.spotify.com/track/1upR4RGAXKQQMKxjzkZr6g"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1191,6 +1175,22 @@
       "duration_ms": 217560,
       "name": "groby",
       "url": "https://open.spotify.com/track/1MdhtHbpepgG5b88ZPWX0s"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "BEAUTIFUL MADNESS",
+        "url": "https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "LOVESONGS",
+      "url": "https://open.spotify.com/track/2VxbZ0V7UK4tR17FVDwIPR"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Vem t\u00e4nder stj\u00e4rnorna",
-        "url": "https://open.spotify.com/album/2TIWuudsbu8Uv3pzWOuOk7"
+        "name": "Te Dua",
+        "url": "https://open.spotify.com/album/3xMa4qt4EZrhR8H2y55Kke"
       },
       "artists": [
         {
-          "name": "Genom Natten",
-          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
         }
       ],
-      "duration_ms": 244600,
-      "name": "Vem t\u00e4nder stj\u00e4rnorna",
-      "url": "https://open.spotify.com/track/2diLUHXEzYePMVM7PW3ouE"
+      "duration_ms": 169297,
+      "name": "Te Dua",
+      "url": "https://open.spotify.com/track/0ZP0ORBePjiADojgQS0s4p"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Te Dua",
-        "url": "https://open.spotify.com/album/3xMa4qt4EZrhR8H2y55Kke"
+        "name": "Vem t\u00e4nder stj\u00e4rnorna",
+        "url": "https://open.spotify.com/album/2TIWuudsbu8Uv3pzWOuOk7"
       },
       "artists": [
         {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+          "name": "Genom Natten",
+          "url": "https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9"
         }
       ],
-      "duration_ms": 169297,
-      "name": "Te Dua",
-      "url": "https://open.spotify.com/track/0ZP0ORBePjiADojgQS0s4p"
+      "duration_ms": 244600,
+      "name": "Vem t\u00e4nder stj\u00e4rnorna",
+      "url": "https://open.spotify.com/track/2diLUHXEzYePMVM7PW3ouE"
     },
     {
       "added_at": "2026-07-23 22:00:34",

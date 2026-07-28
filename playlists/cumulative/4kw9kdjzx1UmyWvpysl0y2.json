@@ -25787,6 +25787,28 @@
     },
     {
       "album": {
+        "name": "Whiplash",
+        "url": "https://open.spotify.com/album/5Kvs6QtVAMvmrAaOdkvZY4"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        },
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154291,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/6nRw81vRRVM2cuU0yB08q3"
+    },
+    {
+      "album": {
         "name": "White Lie",
         "url": "https://open.spotify.com/album/6g3FQBSHayd37yO3a77AIH"
       },

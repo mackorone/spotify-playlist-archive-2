@@ -1,6 +1,6 @@
 {
   "description": "Old school jams to kick nostalgia up a notch. ",
-  "num_followers": 22886,
+  "num_followers": 22895,
   "original_name": "Ghana Throwback Party ",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-03-16 11:45:06",
       "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "KK Fosu",
+          "url": "https://open.spotify.com/artist/3LJawO6XULI4SZT5dVHEYO"
+        }
+      ],
+      "duration_ms": 278308,
+      "name": "Anadwo Yede",
+      "url": "https://open.spotify.com/track/7BcXZP856gok2P9nVp0hD6"
+    },
+    {
+      "added_at": "2026-03-16 11:45:06",
+      "album": {
         "name": "Sorkode",
         "url": "https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 345547,
       "name": "Meyere ne me mpena",
       "url": "https://open.spotify.com/track/23ihDMqcmFHFviUdndXeld"
-    },
-    {
-      "added_at": "2026-03-16 11:45:06",
-      "album": {
-        "name": "Tokrom",
-        "url": "https://open.spotify.com/album/0h9HOdisNz9nGybOMStt4g"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 387053,
-      "name": "Tokrom",
-      "url": "https://open.spotify.com/track/1cAYP34Yw3LJ8EsO9qoWA6"
     }
   ],
   "unique_name": "Ghana Throwback Party ",

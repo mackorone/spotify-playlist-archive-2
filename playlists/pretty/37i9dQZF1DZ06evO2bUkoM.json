@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49197,
+  "num_followers": 49196,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAATFWqHy6r/unhob8SIOksu",
+  "snapshot_id": "amVOAAAAAAAOf0Zm05BUS4QoGJZNfPsa",
   "tracks": [
     {
       "added_at": null,
@@ -771,26 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory Days (feat. Hayley Kiyoko) [Party Pupils Remix]",
-        "url": "https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu"
+        "name": "Phantoms",
+        "url": "https://open.spotify.com/album/0UhmXh4kJDbIhL9EeEcxCA"
       },
       "artists": [
         {
-          "name": "Sweater Beats",
-          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
+          "name": "Phantoms",
+          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
         },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Party Pupils",
-          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
         }
       ],
-      "duration_ms": 168344,
-      "name": "Glory Days (feat. Hayley Kiyoko) - Party Pupils Remix",
-      "url": "https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO"
+      "duration_ms": 252973,
+      "name": "Need You Closer",
+      "url": "https://open.spotify.com/track/4ogCiDj7Np9jurdXceYg5a"
     },
     {
       "added_at": null,
@@ -843,22 +839,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantoms",
-        "url": "https://open.spotify.com/album/0UhmXh4kJDbIhL9EeEcxCA"
+        "name": "Glory Days (feat. Hayley Kiyoko) [Party Pupils Remix]",
+        "url": "https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu"
       },
       "artists": [
         {
-          "name": "Phantoms",
-          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
+          "name": "Sweater Beats",
+          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
         },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
         }
       ],
-      "duration_ms": 252973,
-      "name": "Need You Closer",
-      "url": "https://open.spotify.com/track/4ogCiDj7Np9jurdXceYg5a"
+      "duration_ms": 168344,
+      "name": "Glory Days (feat. Hayley Kiyoko) - Party Pupils Remix",
+      "url": "https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO"
     },
     {
       "added_at": null,

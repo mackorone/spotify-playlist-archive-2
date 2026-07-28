@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-474 songs - 22 hr 22 min
+475 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Cleared Minds](https://open.spotify.com/track/3mtc57f0uNe2l10030GdhY) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Cleared Minds](https://open.spotify.com/album/0NRTDJY07T7InXgDq35qJd) | 2:37 | 2026-04-03 |  |
 | [Clearing](https://open.spotify.com/track/4zFgXfvzNt7Nj7ccOGQEab) | [dYb](https://open.spotify.com/artist/5J2i1y9d9QrAVdBi92SX3r) | [Clearing](https://open.spotify.com/album/7twiHDo5Hf1DJPsWGHERTw) | 3:46 | 2023-04-28 | 2026-04-02 |
 | [Clearing Away](https://open.spotify.com/track/3mT1CQmG7ndvpqDLidJ7rf) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Clearing Away](https://open.spotify.com/album/3ioIRza0mtQiHvBfnZnIqk) | 2:51 | 2026-04-03 | 2026-06-27 |
+| [Cloudgaze](https://open.spotify.com/track/4Ju8S5l7FJdgX6JYJKrCBd) | [Toni Ludwig\-Graphaüs](https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG) | [Cloudgaze](https://open.spotify.com/album/7yVLlGcIToRjLtR2aZxlSX) | 3:07 | 2026-07-03 |  |
 | [Comfortable under the Surface](https://open.spotify.com/track/3W63szGlVtLFTkmrA8dgXJ) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Comfortable under the Surface](https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg) | 3:05 | 2023-04-28 | 2025-05-22 |
 | [Condensation](https://open.spotify.com/track/4DOqRbz7WqlvueNRCkTdCZ) | [Asteeõs](https://open.spotify.com/artist/59r2DpcsbqkntoA9Xfkw9K) | [Condensation](https://open.spotify.com/album/5FH8oQ5l8qq8Twv0kr20lp) | 2:30 | 2025-05-28 |  |
 | [Connection \(Nature\)](https://open.spotify.com/track/72psxjeHs75ZxMNbsCEwD7) | [The Destination](https://open.spotify.com/artist/5LqmDSsJGx12mu0u8vmj1w) | [Connection](https://open.spotify.com/album/3vaTeBzkNTKF3hxABPlo04) | 2:48 | 2023-06-16 | 2025-03-23 |
@@ -394,7 +395,7 @@
 | [Still Meadow](https://open.spotify.com/track/3kRCB3hatlhH04TJd3mc5t) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Still Meadow](https://open.spotify.com/album/4A9oX0bimFi9jrIbMKXonL) | 2:36 | 2026-01-08 | 2026-04-04 |
 | [Stillness Within](https://open.spotify.com/track/49nLhd2akfHVZaYLgEg5lD) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Stillness Within](https://open.spotify.com/album/1fs79wJdEOXxyv0GUxfOuJ) | 2:29 | 2026-01-08 | 2026-04-04 |
 | [Stone Lantern](https://open.spotify.com/track/3gGi0C9QGLwZmN2vbYorCB) | [Drimnix](https://open.spotify.com/artist/00Vox7JpuHc7lSrjY8zfSd) | [Stone Lantern](https://open.spotify.com/album/3Jl4h0y1fq5lpmPUejIzyu) | 2:25 | 2025-07-22 | 2026-04-04 |
-| [Stream of Harmony](https://open.spotify.com/track/2vsrtWukHPNJq6T0rt38rk) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Stream of Harmony](https://open.spotify.com/album/76eHssQQ8jisSTZwuiqC0R) | 2:57 | 2024-04-01 |  |
+| [Stream of Harmony](https://open.spotify.com/track/2vsrtWukHPNJq6T0rt38rk) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Stream of Harmony](https://open.spotify.com/album/76eHssQQ8jisSTZwuiqC0R) | 2:57 | 2024-04-01 | 2026-07-28 |
 | [Stream of Stars](https://open.spotify.com/track/1CRJnMODdN3FgF3bRz8Qa2) | [Far North](https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P) | [Stream of Stars](https://open.spotify.com/album/46FtPwAKC6t2sSJdrw6zqm) | 2:38 | 2026-07-03 |  |
 | [Sub Nubibus](https://open.spotify.com/track/7IoL1mOhd9J4yRQx5Rvq2n) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Sub Nubibus](https://open.spotify.com/album/5ruwT199WJvJDnlTRxfIk3) | 2:27 | 2023-04-28 | 2024-08-24 |
 | [Summer Haze](https://open.spotify.com/track/5e2uQeP2XzYVvvF74jKs9Y) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Summer Haze](https://open.spotify.com/album/6461BTT1Fhnku0P2qKfqdq) | 3:04 | 2026-07-03 |  |

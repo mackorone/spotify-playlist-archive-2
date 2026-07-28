@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > splashing around with Jennie
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,090,339 likes - 113 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,090,228 likes - 113 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

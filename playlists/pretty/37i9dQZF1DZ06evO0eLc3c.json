@@ -1,12 +1,12 @@
 {
   "description": "This is Patti Smith. The essential tracks, all in one playlist.",
-  "num_followers": 55025,
+  "num_followers": 55038,
   "original_name": "This Is Patti Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAABXVNJSkZuYnkelO1LoE6mg",
+  "snapshot_id": "amVOAAAAAADR/L5S3mr6Wli7+kpAOsSi",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 260533,
-      "name": "Paths That Cross",
-      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Ethiopia",
         "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 201800,
       "name": "Pumping",
       "url": "https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 260533,
+      "name": "Paths That Cross",
+      "url": "https://open.spotify.com/track/7du504gsgnBEdLP08tdEmp"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Of Life",
-        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 327026,
-      "name": "The Jackson Song",
-      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Ethiopia",
         "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve",
-        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
+        "name": "Dream Of Life",
+        "url": "https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 377240,
-      "name": "Everybody Hurts",
-      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
+      "duration_ms": 327026,
+      "name": "The Jackson Song",
+      "url": "https://open.spotify.com/track/5VQgrcLsb4C712tVEa3rm9"
     },
     {
       "added_at": null,
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+        "name": "Twelve",
+        "url": "https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta"
       },
       "artists": [
         {
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 253330,
-      "name": "After the Gold Rush",
-      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
+      "duration_ms": 377240,
+      "name": "Everybody Hurts",
+      "url": "https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 426466,
       "name": "Poppies",
       "url": "https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 253330,
+      "name": "After the Gold Rush",
+      "url": "https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 312440,
-      "name": "Citizen Ship",
-      "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Radio Ethiopia",
         "url": "https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 396360,
       "name": "Ain't It Strange",
       "url": "https://open.spotify.com/track/4Q0gexDyqLyLHmnktsn0KQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 312440,
+      "name": "Citizen Ship",
+      "url": "https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 340050,
-      "name": "Seneca",
-      "url": "https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Things You Leave Behind",
         "url": "https://open.spotify.com/album/76r48qbKagwsOdO8ACngdJ"
       },
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "These Are The Words (From \"Pope Francis: A Man of His Word\")",
-        "url": "https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6"
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 265293,
-      "name": "These Are The Words - From \"Pope Francis: A Man of His Word\"",
-      "url": "https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18"
+      "duration_ms": 340050,
+      "name": "Seneca",
+      "url": "https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m"
     },
     {
       "added_at": null,
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gone Again",
-        "url": "https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi"
+        "name": "These Are The Words (From \"Pope Francis: A Man of His Word\")",
+        "url": "https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6"
       },
       "artists": [
         {
@@ -792,9 +776,25 @@
           "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
         }
       ],
-      "duration_ms": 235810,
-      "name": "Farewell Reel",
-      "url": "https://open.spotify.com/track/7AkwMCk98VbcsYqy9EzlG6"
+      "duration_ms": 265293,
+      "name": "These Are The Words - From \"Pope Francis: A Man of His Word\"",
+      "url": "https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hey Joe / Piss Factory",
+        "url": "https://open.spotify.com/album/6fPPFPRXxoXNCc3LaotmQM"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 308173,
+      "name": "Hey Joe - Version",
+      "url": "https://open.spotify.com/track/6PPGLz9XPEA69vuC0FUnBl"
     },
     {
       "added_at": null,

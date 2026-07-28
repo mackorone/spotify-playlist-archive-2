@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 179026,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N"
@@ -6584,6 +6584,24 @@
       "duration_ms": 206107,
       "name": "\u98df\u5353",
       "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
+    },
+    {
+      "album": {
+        "name": "\u9ad8\u3076\u308b\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/1wt2mvFgIHQheMkv83YAwm"
+      },
+      "artists": [
+        {
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "\u9ad8\u3076\u308b\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/6h4Z4yVMkOwudz8V7KAfDe"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSAJ2OGLglOP"

@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 45223,
+  "num_followers": 45232,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAB5c7vu+HdW0SJQx0py+hrl",
+  "snapshot_id": "amVOAAAAAAA5t/9uqwvoVxa7euiGYOMR",
   "tracks": [
     {
       "added_at": null,
@@ -423,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golpes De La Vida",
-        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
+        "name": "Ni\u00f1o De Oro",
+        "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
       },
       "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 163225,
-      "name": "Hablen",
-      "url": "https://open.spotify.com/track/6g5tBAygpCM1RSF4igf5j9"
+      "duration_ms": 177704,
+      "name": "Relojito Adiamantado",
+      "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
     },
     {
       "added_at": null,
@@ -459,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1o De Oro",
-        "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
+        "name": "Golpes De La Vida",
+        "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
       },
       "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        },
         {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 177704,
-      "name": "Relojito Adiamantado",
-      "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
+      "duration_ms": 163225,
+      "name": "Hablen",
+      "url": "https://open.spotify.com/track/6g5tBAygpCM1RSF4igf5j9"
     },
     {
       "added_at": null,

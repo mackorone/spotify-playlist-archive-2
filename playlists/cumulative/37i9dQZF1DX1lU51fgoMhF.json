@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: BBGIRLS(\ube0c\ube0c\uac78))",
+  "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: BOL4(\ubcfc\ube68\uac04\uc0ac\ucd98\uae30))",
   "name": "Summer K-Pop Hits (\uc378\uba38 \ud788\ud2b8)",
   "tracks": [
     {
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 182439,
       "name": "Impossible",
       "url": "https://open.spotify.com/track/2cN2qkaSnO5KKAMSa5ZfIm"
@@ -5540,6 +5540,24 @@
       "duration_ms": 197355,
       "name": "PLAYING WITH FIRE",
       "url": "https://open.spotify.com/track/7e7VjLxO5xJINHvnRytrqi"
+    },
+    {
+      "album": {
+        "name": "Please Summer!",
+        "url": "https://open.spotify.com/album/4PdIcl4swrv6gta9ZSzLZG"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Please Summer!",
+      "url": "https://open.spotify.com/track/2D5IrHXQhnltOsi0gE9YqV"
     },
     {
       "album": {

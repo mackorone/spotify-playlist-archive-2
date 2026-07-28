@@ -1,6 +1,6 @@
 {
   "description": "The Detty December anthems over the years ",
-  "num_followers": 8230,
+  "num_followers": 8231,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
+        "name": "Otoolege",
+        "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
+      },
+      "artists": [
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "duration_ms": 400960,
+      "name": "Otoolege",
+      "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
         "name": "AKWAABA",
         "url": "https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 206829,
       "name": "AKWAABA",
       "url": "https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
-        "name": "Otoolege",
-        "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
-      },
-      "artists": [
-        {
-          "name": "Ofori Amponsah",
-          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
-        }
-      ],
-      "duration_ms": 400960,
-      "name": "Otoolege",
-      "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
     },
     {
       "added_at": "2025-12-23 16:53:12",

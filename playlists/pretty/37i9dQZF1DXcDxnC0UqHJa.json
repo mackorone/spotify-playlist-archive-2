@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 440110,
+  "num_followers": 440077,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/44w53chsw9RSUKkKeN3aw7"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Harvest",
-      "url": "https://open.spotify.com/track/7GSqPshxQCT92AV7ROD9VE"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Shotgun Willie",
         "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 260040,
       "name": "A Song for You",
       "url": "https://open.spotify.com/track/20T1K4gvaX8c7FbA7ljoau"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/44w53chsw9RSUKkKeN3aw7"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/7GSqPshxQCT92AV7ROD9VE"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -971,26 +971,18 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Southern Family",
-        "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
+        "name": "BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine",
+        "url": "https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B"
       },
       "artists": [
         {
-          "name": "Morgane Stapleton",
-          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Southern Family",
-          "url": "https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x"
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
         }
       ],
-      "duration_ms": 373266,
-      "name": "You Are My Sunshine (with Chris Stapleton)",
-      "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
+      "duration_ms": 187724,
+      "name": "Walking on Sunshine",
+      "url": "https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1011,18 +1003,26 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine",
-        "url": "https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B"
+        "name": "Southern Family",
+        "url": "https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi"
       },
       "artists": [
         {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+          "name": "Morgane Stapleton",
+          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Southern Family",
+          "url": "https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x"
         }
       ],
-      "duration_ms": 187724,
-      "name": "Walking on Sunshine",
-      "url": "https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz"
+      "duration_ms": 373266,
+      "name": "You Are My Sunshine (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Try Me",
-        "url": "https://open.spotify.com/album/3ZGEmuETvQJpjmf9XXRgRK"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Try Me",
-      "url": "https://open.spotify.com/track/1jyOattakzLkXbJfiP157V"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
         "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 216773,
       "name": "Remembering Mountains",
       "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Try Me",
+        "url": "https://open.spotify.com/album/3ZGEmuETvQJpjmf9XXRgRK"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Try Me",
+      "url": "https://open.spotify.com/track/1jyOattakzLkXbJfiP157V"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/38Ur6GR1sCE8tKzqLQ2l39"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Edwards",
-          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
-        },
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
-        }
-      ],
-      "duration_ms": 291423,
-      "name": "Traveling Alone (feat. Jason Isbell)",
-      "url": "https://open.spotify.com/track/6ESuXCVIksTM4ojIbAWcud"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Love At The Five & Dime",
         "url": "https://open.spotify.com/album/3h3OflWVSlb7gvhVQ2qJQn"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 289186,
       "name": "Love At The Five & Dime",
       "url": "https://open.spotify.com/track/1XwqNMe7dcylnzQD4w8Ctk"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/38Ur6GR1sCE8tKzqLQ2l39"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "duration_ms": 291423,
+      "name": "Traveling Alone (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/6ESuXCVIksTM4ojIbAWcud"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 264930,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Crooked Tree (Deluxe Edition)",
         "url": "https://open.spotify.com/album/03FcU0bBSsfRgn6bSObIY6"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 212251,
       "name": "Dire Wolf - Bonus Track",
       "url": "https://open.spotify.com/track/7JMZ6bCzD1nENedrV3njJi"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 264930,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Talk to Me of Mendocino",
-        "url": "https://open.spotify.com/album/0ntpjEfIKTQAZbC7fqBYts"
-      },
-      "artists": [
-        {
-          "name": "John Smith",
-          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
-        },
-        {
-          "name": "Katherine Priddy",
-          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Talk to Me of Mendocino",
-      "url": "https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 251057,
       "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Talk to Me of Mendocino",
+        "url": "https://open.spotify.com/album/0ntpjEfIKTQAZbC7fqBYts"
+      },
+      "artists": [
+        {
+          "name": "John Smith",
+          "url": "https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2"
+        },
+        {
+          "name": "Katherine Priddy",
+          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Talk to Me of Mendocino",
+      "url": "https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d"
     },
     {
       "added_at": "2026-05-01 04:03:53",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2026-05-01 04:03:53",
       "album": {
-        "name": "Ways To Be Wicked",
-        "url": "https://open.spotify.com/album/3hP7NXCmcLrvkSVGmv9yoz"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Mike Campbell",
-          "url": "https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V"
-        }
-      ],
-      "duration_ms": 207511,
-      "name": "Ways To Be Wicked",
-      "url": "https://open.spotify.com/track/7JmNMyrZC20KNu3TvWjvzd"
-    },
-    {
-      "added_at": "2026-05-01 04:03:53",
-      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
+    },
+    {
+      "added_at": "2026-05-01 04:03:53",
+      "album": {
+        "name": "Ways To Be Wicked",
+        "url": "https://open.spotify.com/album/3hP7NXCmcLrvkSVGmv9yoz"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Mike Campbell",
+          "url": "https://open.spotify.com/artist/2rEZEkmqo6o4rbEoXQlD3V"
+        }
+      ],
+      "duration_ms": 207511,
+      "name": "Ways To Be Wicked",
+      "url": "https://open.spotify.com/track/7JmNMyrZC20KNu3TvWjvzd"
     },
     {
       "added_at": "2026-05-01 04:03:53",

@@ -1,12 +1,12 @@
 {
   "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 38698,
+  "num_followers": 38700,
   "original_name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAC+Sks18v6zB3O1KNqXh3Xa",
+  "snapshot_id": "amVOAAAAAADyQ+BXQJgCP7Fq2CzEyReB",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Se Arm\u00f3 el Rock and Roll, Vol. 3",
-        "url": "https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p"
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
       },
       "artists": [
         {
           "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Pacheco Blues",
-          "url": "https://open.spotify.com/artist/4gvTLC38QLmVDteNnW968V"
         }
       ],
-      "duration_ms": 155213,
-      "name": "Barata y Descont\u00f3n",
-      "url": "https://open.spotify.com/track/0jsGTzBhJa3NODssNxOUK5"
+      "duration_ms": 170866,
+      "name": "Pi\u00e9nsalo Bien",
+      "url": "https://open.spotify.com/track/7fPPYqgfosDlvpKlmU6UHj"
     },
     {
       "added_at": null,
@@ -519,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Que Se Comparte",
-        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+        "name": "Y Se Arm\u00f3 el Rock and Roll, Vol. 3",
+        "url": "https://open.spotify.com/album/7Ke3ZzxM4Wj10x09phcL6p"
       },
       "artists": [
         {
           "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
           "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Pacheco Blues",
+          "url": "https://open.spotify.com/artist/4gvTLC38QLmVDteNnW968V"
         }
       ],
-      "duration_ms": 170866,
-      "name": "Pi\u00e9nsalo Bien",
-      "url": "https://open.spotify.com/track/7fPPYqgfosDlvpKlmU6UHj"
+      "duration_ms": 155213,
+      "name": "Barata y Descont\u00f3n",
+      "url": "https://open.spotify.com/track/0jsGTzBhJa3NODssNxOUK5"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Alg\u00fan Lugar en el Cielo",
-        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 263640,
-      "name": "Campe\u00f3n",
-      "url": "https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesiones Ac\u00fasticas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 267059,
       "name": "El Camino del Coraz\u00f3n - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 263640,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC"
     },
     {
       "added_at": null,

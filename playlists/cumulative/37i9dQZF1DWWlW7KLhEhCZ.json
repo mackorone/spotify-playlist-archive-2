@@ -4358,7 +4358,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 138750,
       "name": "Baila",
       "url": "https://open.spotify.com/track/4ufqbwGmY6gKt77VHW5yrV"
@@ -7168,7 +7168,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 199543,
       "name": "Caminho$ (feat. Frajadx)",
       "url": "https://open.spotify.com/track/378XtJcF7ZmvOpsrXQzUJh"
@@ -26770,6 +26770,32 @@
     {
       "album": {
         "name": "Momento",
+        "url": "https://open.spotify.com/album/0UnVsS0wa2D91iUpzhwQiF"
+      },
+      "artists": [
+        {
+          "name": "Cordeiro",
+          "url": "https://open.spotify.com/artist/2yMTlcrLja7mjJnYVTY1Sb"
+        },
+        {
+          "name": "LEVIW",
+          "url": "https://open.spotify.com/artist/352voRhULH4lKIl8rbHQki"
+        },
+        {
+          "name": "PL Ferreira",
+          "url": "https://open.spotify.com/artist/5KLBNWTLmuoadSYlzyaGRf"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155105,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/5iROgBaZeC2JQbPM3eH5tx"
+    },
+    {
+      "album": {
+        "name": "Momento",
         "url": "https://open.spotify.com/album/4HbDWn2a7qpzvnnPA2l0p8"
       },
       "artists": [
@@ -32102,6 +32128,56 @@
       "duration_ms": 196923,
       "name": "Pimenta",
       "url": "https://open.spotify.com/track/0bIRYR5msUJXnheN7DYo2n"
+    },
+    {
+      "album": {
+        "name": "F.A.Q. LUV",
+        "url": "https://open.spotify.com/album/3uPRLUodZXaqFgDpOZO3rY"
+      },
+      "artists": [
+        {
+          "name": "TheJovemJota",
+          "url": "https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV"
+        },
+        {
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+        },
+        {
+          "name": "Fontes",
+          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
+        },
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Deluca",
+          "url": "https://open.spotify.com/artist/0Gz4hLahmvjsPYwsDdbAI7"
+        },
+        {
+          "name": "Matteo",
+          "url": "https://open.spotify.com/artist/7kciSzJDv01OwFxtxCp4Ru"
+        },
+        {
+          "name": "prodyans",
+          "url": "https://open.spotify.com/artist/2CkSJsVNYUgTsSfHt5LImW"
+        },
+        {
+          "name": "Bymd.wav",
+          "url": "https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ"
+        },
+        {
+          "name": "CASA 11",
+          "url": "https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "pintura (bonus track)",
+      "url": "https://open.spotify.com/track/1QvbOIlIMvtZe3VycP1wUV"
     },
     {
       "album": {
@@ -38328,7 +38404,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 199746,
       "name": "Shittground - Speed Up",
       "url": "https://open.spotify.com/track/76B5T1wzENCtJJUA4ANfnK"
@@ -39704,6 +39780,28 @@
       "duration_ms": 149647,
       "name": "SUV PRATA",
       "url": "https://open.spotify.com/track/0pMpTL5FukBIuPQiUZJVom"
+    },
+    {
+      "album": {
+        "name": "Swag Nivel 10",
+        "url": "https://open.spotify.com/album/1gJH9q4XUhcQpQSbasR1kk"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Rucinni",
+          "url": "https://open.spotify.com/artist/7JGJNUGGZl51b98oCJErGj"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125217,
+      "name": "Swag Nivel 10",
+      "url": "https://open.spotify.com/track/22hcDD3dKH6kuc6AMLXNOl"
     },
     {
       "album": {

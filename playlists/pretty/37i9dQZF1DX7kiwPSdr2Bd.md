@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Fabiana Sinfrônio
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,516 likes - 80 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,539 likes - 80 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tempo de Crescer \(Voz e Violão Ao Vivo\)](https://open.spotify.com/track/32T9jAzS72oqP9Jw5XtrHK) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Tempo de Crescer \(Voz e Violão Ao Vivo\)](https://open.spotify.com/album/5MtKkZ0ARtYTmNd6D8P8Dp) | 4:00 |
 | 2 | [Quem É Esse? \- Ao Vivo](https://open.spotify.com/track/7JtJjh9WfxUOpjFhurxVRW) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Quem É Esse? \(Ao Vivo\)](https://open.spotify.com/album/4ysHV53D57phSxmT72HZXx) | 7:48 |
-| 3 | [Reacende a Chama \- Ao Vivo](https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Reacende a Chama \(Ao Vivo\)](https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc) | 7:57 |
-| 4 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 |
+| 3 | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/track/2lKiWWoeqOHhXwyZT8flw6) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Ovelhinha \(Ao Vivo\)](https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y) | 4:36 |
+| 4 | [Reacende a Chama \- Ao Vivo](https://open.spotify.com/track/0O358QfVCqB6oN2HP7abkg) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Reacende a Chama \(Ao Vivo\)](https://open.spotify.com/album/2tunJMjY4NomsHKyRpoqgc) | 7:57 |
 | 5 | [Toda Terra \- Ao Vivo](https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Toda Terra \(Ao Vivo\)](https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt) | 8:39 |
 | 6 | [Eis\-me Aqui \- Ao Vivo](https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Eis\-me Aqui \(Ao Vivo\)](https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW) | 7:39 |
 | 7 | [Lindo Momento \- Ao Vivo](https://open.spotify.com/track/6QxaJjXCxZSGKq98arP8Nw) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Lindo Momento](https://open.spotify.com/album/1aVMRmkdrJe3UXprRvPZqV) | 14:53 |

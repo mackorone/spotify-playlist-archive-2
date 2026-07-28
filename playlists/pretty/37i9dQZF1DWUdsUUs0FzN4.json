@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con Karlo hasta el amanecer ",
-  "num_followers": 24530,
+  "num_followers": 24532,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Jenni Rivera",
-        "url": "https://open.spotify.com/album/3TxgKrJOzELj9jp06lytkm"
-      },
-      "artists": [
-        {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
-        },
-        {
-          "name": "Fhany Santin",
-          "url": "https://open.spotify.com/artist/7pymJP5fuOGdIIJ4RbtG9h"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Jenni Rivera",
-      "url": "https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "nueveonceamarillo",
         "url": "https://open.spotify.com/album/16khlP9Sq4I2Ksg7FpOv2s"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 212000,
       "name": "nueveonceamarillo",
       "url": "https://open.spotify.com/track/1zJs0zwqadmFbh0zFflvAp"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "Jenni Rivera",
+        "url": "https://open.spotify.com/album/3TxgKrJOzELj9jp06lytkm"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Fhany Santin",
+          "url": "https://open.spotify.com/artist/7pymJP5fuOGdIIJ4RbtG9h"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Jenni Rivera",
+      "url": "https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3"
     },
     {
       "added_at": "2026-06-26 06:00:38",

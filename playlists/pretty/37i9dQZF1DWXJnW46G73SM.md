@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أجدد الفنانين في مصر وأصوات جديدة من الفنانين اللي بتحبهم\. الغلاف: خفاش
 
-[Spotify](https://open.spotify.com/user/spotify) - 602 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 622 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

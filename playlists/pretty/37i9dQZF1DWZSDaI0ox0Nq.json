@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 22502,
+  "num_followers": 22503,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -464,17 +464,13 @@
           "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
         },
         {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        },
-        {
-          "name": "Sebasti\u00e1n Barbui",
-          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
+          "name": "Aldo Saralegui",
+          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
         }
       ],
-      "duration_ms": 154951,
-      "name": "Ser\u00eda Facil Decir",
-      "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
+      "duration_ms": 209866,
+      "name": "Fruta Amarga",
+      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -572,13 +568,17 @@
           "url": "https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk"
         },
         {
-          "name": "Aldo Saralegui",
-          "url": "https://open.spotify.com/artist/3DkOmSI4zaX4mVCZQC7Fm1"
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        },
+        {
+          "name": "Sebasti\u00e1n Barbui",
+          "url": "https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh"
         }
       ],
-      "duration_ms": 209866,
-      "name": "Fruta Amarga",
-      "url": "https://open.spotify.com/track/7dsCiWTBKpyI8UYPxicyCu"
+      "duration_ms": 154951,
+      "name": "Ser\u00eda Facil Decir",
+      "url": "https://open.spotify.com/track/51j44z3Qr2HnSnBhrEwpvm"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "El Amor Ese Loco Berretin",
+        "url": "https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj"
+      },
+      "artists": [
+        {
+          "name": "Rita Cortese",
+          "url": "https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3"
+        }
+      ],
+      "duration_ms": 218033,
+      "name": "Nunca Tuvo Novio",
+      "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Pobre Flor (Primera Ilusi\u00f3n)",
         "url": "https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 126460,
       "name": "Pobre Flor (Primera Ilusi\u00f3n)",
       "url": "https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "El Amor Ese Loco Berretin",
-        "url": "https://open.spotify.com/album/7rzG340MhMBiAhIdCGiZdj"
-      },
-      "artists": [
-        {
-          "name": "Rita Cortese",
-          "url": "https://open.spotify.com/artist/6tWIoufIHPpvUk8NEiwwp3"
-        }
-      ],
-      "duration_ms": 218033,
-      "name": "Nunca Tuvo Novio",
-      "url": "https://open.spotify.com/track/2zaCDm7hyv35FUxA2nGueu"
     },
     {
       "added_at": "2024-08-02 17:18:29",

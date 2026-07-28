@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,982 songs - 4 day 14 hr 49 min
+1,984 songs - 4 day 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Basic](https://open.spotify.com/track/7Hkf08j1vDBHYijn3wGDiq) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 3:20 | 2025-08-03 |  |
 | [Bastards Reign](https://open.spotify.com/track/610FhcvhxP4AtrUShyKyPn) | [We Made God](https://open.spotify.com/artist/1WjKBxFohkwZBgXHiVlVg7) | [Select/Restart](https://open.spotify.com/album/7I464LAWOJzToXlIMt0JbA) | 2:54 | 2025-12-11 | 2026-01-06 |
 | [Bataclan](https://open.spotify.com/track/5VOROxYkFKI2xucoJGC5DJ) | [Dancalia](https://open.spotify.com/artist/5TWeW4Lehv7sMrtBBVDNsD) | [Bataclan](https://open.spotify.com/album/4GTVEPNTFCzPti59ofn2S0) | 3:31 | 2025-12-21 | 2026-01-15 |
-| [Batting Practice](https://open.spotify.com/track/1t504uSC7of6InLVFb2HJO) | [Aviation Lane](https://open.spotify.com/artist/4TxwOjLbKes4kiVvgIusUb) | [Batting Practice](https://open.spotify.com/album/7wzaUis8pTyH89mIRixNKb) | 2:39 | 2026-06-26 |  |
+| [Batting Practice](https://open.spotify.com/track/1t504uSC7of6InLVFb2HJO) | [Aviation Lane](https://open.spotify.com/artist/4TxwOjLbKes4kiVvgIusUb) | [Batting Practice](https://open.spotify.com/album/7wzaUis8pTyH89mIRixNKb) | 2:39 | 2026-06-26 | 2026-07-28 |
 | [Be Fine](https://open.spotify.com/track/7lttj4mFsIhjaFYBiSJ1SF) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Americana On A Lagos Blue Rock](https://open.spotify.com/album/18vgIsRwf4u17Vk7DNBOM1) | 3:21 | 2025-12-11 | 2026-01-06 |
 | [beartrap](https://open.spotify.com/track/12XJ3ch8aJRhOOchvSfU5k) | [everything ending!](https://open.spotify.com/artist/52avG1ZL5tD2hg7nFY35Kw), [p London](https://open.spotify.com/artist/7bHjA5RBMEYR2pii1FjJV4) | [animal](https://open.spotify.com/album/6k6BrRl4pdpNKk94SRUUbA) | 1:59 | 2026-03-20 | 2026-04-17 |
 | [Beast](https://open.spotify.com/track/5XhSIUgEOmgV2x7KCCiOvL) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 3:29 | 2025-08-03 |  |
@@ -262,6 +262,7 @@
 | [Burn It Down](https://open.spotify.com/track/5Jg2FrSKNd02dFQw2LSIeb) | [Pancho C.](https://open.spotify.com/artist/2lfHYeT4Bu5fv1DxKNbpv1) | [Frozen Underground](https://open.spotify.com/album/2OU7YWgnj28d8mKSkEIzBy) | 2:42 | 2026-01-22 | 2026-02-12 |
 | [Burn It To The Ground](https://open.spotify.com/track/4KX4F7PeP0b3Uzr96LQcLC) | [Lorena](https://open.spotify.com/artist/4pStfnSpzp0yB5DoEyGxjq) | [Rebel Soul](https://open.spotify.com/album/7sEUDIFYDGv6lrHeaY61KH) | 3:14 | 2026-03-20 | 2026-04-17 |
 | [Burn The Boats](https://open.spotify.com/track/6iWf8nIPY949D9hPEtTeto) | [Rebelmatic](https://open.spotify.com/artist/6CUYmBUaJokq3auKhAzHXR) | [Burn The Boats](https://open.spotify.com/album/5DNFITsnbs3eTdRxxV2OCK) | 1:50 | 2026-04-22 | 2026-05-22 |
+| [Burn the Signal](https://open.spotify.com/track/1Q8g3b4wf1NmFP0QFTruS8) | [Glitch CT](https://open.spotify.com/artist/31462OWixSRK8v6UxstsnE) | [Neon Heart Riot](https://open.spotify.com/album/1C7uOyNgZhKlRRhtPo4md7) | 3:28 | 2026-07-27 |  |
 | [Burning Out](https://open.spotify.com/track/50KAqJtgzmmJQchmTbNujK) | [Killus](https://open.spotify.com/artist/0c44C54LrAHha0u92agfHM) | [Burning Out](https://open.spotify.com/album/203pYIDebdckYqr3QLc75T) | 3:08 | 2025-12-15 | 2026-01-06 |
 | [BURNING OUT](https://open.spotify.com/track/5nPKQKmygbro6AmpE554iu) | [WAVE OFF](https://open.spotify.com/artist/1HJ62851dPaqzT5u2qXKBO) | [BURNING OUT](https://open.spotify.com/album/18bFuRE0MDNuzu4p3kbRqS) | 3:48 | 2026-01-22 | 2026-02-23 |
 | [Burnout and Fadeaway](https://open.spotify.com/track/7hZLdFCeEXC0LppYYoh2M7) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 3:27 | 2026-01-14 | 2026-02-03 |
@@ -1796,6 +1797,7 @@
 | [TV Technicolor](https://open.spotify.com/track/0kuw0IIdgLjQceO9CGNT1b) | [Playtime Rabbit](https://open.spotify.com/artist/2jABCTYYvOJbp97twDmS7k) | [TV Technicolor](https://open.spotify.com/album/1yhSoB68eJVz4f14T59kHX) | 2:59 | 2026-03-08 | 2026-03-31 |
 | [Two for Diving](https://open.spotify.com/track/0LjsGoGad9uFIhyUIYDwj9) | [sleepingbagzzz](https://open.spotify.com/artist/1illHVPAUojDCwd2Po8GV3) | [Two for Diving](https://open.spotify.com/album/6ERi1BUpSQ0g8Cpmtk7WFI) | 3:00 | 2026-01-06 | 2026-01-29 |
 | [Tyrant](https://open.spotify.com/track/6cYTIPWewJFKxIH8nmYxOq) | [New Modern](https://open.spotify.com/artist/2IarEJt3Swyk0jP38ARpPP) | [Tyrant](https://open.spotify.com/album/1OZnEr3yvpZv8CtbWmyrAS) | 4:03 | 2026-07-09 |  |
+| [U&U](https://open.spotify.com/track/7nzAOWzvtEhKM9BxzKt9Y9) | [TRAUMAN](https://open.spotify.com/artist/2OtR126KvKWHZf5lOR6SJl) | [U&U \(Acapella & Instrumental\)](https://open.spotify.com/album/7vpkgu3ciGzCe7SUeoTpsC) | 3:00 | 2026-07-27 |  |
 | [U.S\. Soldier \- U.S\. Soldier Alternate](https://open.spotify.com/track/61tBAASH0ngAnzbndnRBii) | [Dark Lamb](https://open.spotify.com/artist/6tEZeu4E9wxWUs1Mux6xHx) | [The U.S\. Soldier](https://open.spotify.com/album/4RiUhyyiDgYwDMRT14QY6F) | 3:46 | 2026-07-26 |  |
 | [UN OSITO DE PELUCHE DE TAIWAN \- Cover](https://open.spotify.com/track/6N1AhDO4GHvZ0Z9BYNf33g) | [RÁU](https://open.spotify.com/artist/0vdkKp2Zn8X2Vi6VXo19iX) | [UN OSITO DE PELUCHE DE TAIWAN](https://open.spotify.com/album/4OsLrjWgSpPCcxNqNVrc0S) | 3:04 | 2026-03-27 | 2026-04-17 |
 | [Unbreakable](https://open.spotify.com/track/5D7RAguYiG8VYocqgaCt25) | [Backbite](https://open.spotify.com/artist/190tXONoWX8WcoveP8RuLL) | [Unbreakable](https://open.spotify.com/album/5mtDADisRmMc9JgCrEwQMO) | 4:00 | 2026-04-29 | 2026-05-22 |

@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-187 songs - 10 hr 52 min
+188 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 | 2025-11-17 | 2026-03-15 |
 | [Ain't My First Rodeo](https://open.spotify.com/track/2DUNte3JP5CCArzjlF2nnb) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Ain't My First Rodeo](https://open.spotify.com/album/26tiR7ucWjO4JssSc2zs6C) | 4:09 | 2025-11-12 | 2026-03-15 |
 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-31 |  |
+| [Almost](https://open.spotify.com/track/2or6CHW3WWgqVF661h1FsO) | [Claire Hack](https://open.spotify.com/artist/7pqmpRMNXCv6dEKPHWdPMT) | [Almost](https://open.spotify.com/album/3f29YZftbtG4RrmTe7fVLn) | 3:33 | 2026-07-27 |  |
 | [Alone In LA](https://open.spotify.com/track/6hezehHsgXu0FvNzOMOLWK) | [Andrew Cärter](https://open.spotify.com/artist/5hng4ZEPzBFLEY0jfmFCdt) | [Alone In LA](https://open.spotify.com/album/1j8p383R5oRrfA6l48XZxH) | 3:05 | 2025-10-29 | 2025-12-09 |
 | [Altrove](https://open.spotify.com/track/2FNRYJGLsE6xPa8TumCQj4) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/1nOS4aWxRbGAYI06aSH2Rk) | 3:24 | 2026-05-29 |  |
 | [Anne Halt Durch!](https://open.spotify.com/track/7JFZ2FDCG2NOKPy8OmU9jt) | [DerBen](https://open.spotify.com/artist/2ROKHEeIFHnxoXlHcngvp3) | [Anne Halt Durch!](https://open.spotify.com/album/0ywlMcNDzmlScH3LAu6Eus) | 4:46 | 2025-10-29 | 2025-12-09 |

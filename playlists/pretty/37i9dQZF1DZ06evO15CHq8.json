@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 677997,
+  "num_followers": 678032,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAB3uyfitKursSB5Vhp8RrIW",
+  "snapshot_id": "amVOAAAAAAAXFuA5YRklWZ6ZDDaC2i4E",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long Term Effects of SUFFERING",
-        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 140858,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/19n8izXThARSuQAXrOKNbO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KILL YOURSELF Part XX: The Infinity Saga",
         "url": "https://open.spotify.com/album/1sbKmnLvYSP6o6iPCjmCVd"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 156069,
       "name": "For the Last Time",
       "url": "https://open.spotify.com/track/5m61GgCY2vUmDBlOCfNRX9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long Term Effects of SUFFERING",
+        "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 140858,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/19n8izXThARSuQAXrOKNbO"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
-        "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 123468,
-      "name": "2nd Hand",
-      "url": "https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Long Term Effects of SUFFERING",
         "url": "https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 178131,
       "name": "Ugliest",
       "url": "https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
+        "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 123468,
+      "name": "2nd Hand",
+      "url": "https://open.spotify.com/track/3YeQsJs1FdLI3w0BqWwpmk"
     },
     {
       "added_at": null,

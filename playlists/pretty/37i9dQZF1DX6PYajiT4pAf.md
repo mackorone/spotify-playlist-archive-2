@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Charli xcx, Cano con Yapi, Metrika, Barry B y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,893 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,890 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 58 | [KERALA](https://open.spotify.com/track/3Faq4qZOlgxLvaBxhFOJ84) | [Marina Sabadell](https://open.spotify.com/artist/6gjf3pjPxXu7VUaj3fDt2V) | [KERALA](https://open.spotify.com/album/3BnqjgSiSoWbmVtGLHzkZJ) | 3:33 |
 | 59 | [EMBUSTERO](https://open.spotify.com/track/7rcroTAq55UJXJppGF3kNe) | [Chicle](https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU) | [EMBUSTERO](https://open.spotify.com/album/3YhFNucKZiABtkmczIxeDe) | 2:26 |
 
-Snapshot ID: `AAAAAObsCYEYvPTGOqFN6r3q2J3uKeoD`
+Snapshot ID: `AAAAALs3IdtpPqflwTj4oo/ZNrbqrGRz`

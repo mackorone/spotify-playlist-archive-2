@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Isac Elliot, Charli xcx.\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,941 likes - 71 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,940 likes - 71 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 36 | [Pre\-Raphaelite](https://open.spotify.com/track/29c7ide0e4bt5a0csdPOPU) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Pre\-Raphaelite](https://open.spotify.com/album/4ecmqq3oqOh1y1qS7sn8px) | 4:22 |
 | 37 | [Blue Shadows \(feat\. Karen O\)](https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz) | [Blue Shadows \(feat\. Karen O\)](https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7) | 2:40 |
 | 38 | [Only One](https://open.spotify.com/track/5LkXJVuNpcG5nLw3SXdY0D) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Only One](https://open.spotify.com/album/6dxHcJizTBUnujhu6ck68U) | 2:58 |
-| 39 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:27 |
+| 39 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:00 |
 | 40 | [bones](https://open.spotify.com/track/5cCrD2c8F9RiDRmuIYKton) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [spilling my guts](https://open.spotify.com/album/7phn0SadS5635xhyXthk02) | 2:28 |
 | 41 | [OH NO!! ALL THE BOYS!!](https://open.spotify.com/track/1t11AUjoBZNOALrDXCpvJa) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [OH NO!! ALL THE BOYS!!](https://open.spotify.com/album/1CcvgioY3omIjudg8ggWvF) | 3:10 |
 | 42 | [Hyperfocus](https://open.spotify.com/track/2wwuBrjLEspAMSoeYPJw2H) | [Isä Kuokkanen](https://open.spotify.com/artist/27CDyynOyg1JyM9cUm2Zjh), [Jari Sarasvuo](https://open.spotify.com/artist/3sOILct0l25q5ZQVDRC8Rk) | [Hyperfocus](https://open.spotify.com/album/4UrGQDcz24EaubGlk69wt7) | 3:10 |

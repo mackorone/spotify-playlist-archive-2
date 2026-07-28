@@ -6325,6 +6325,36 @@
     },
     {
       "album": {
+        "name": "Moovanthi",
+        "url": "https://open.spotify.com/album/5FHFajFKCOwcmygpPhye96"
+      },
+      "artists": [
+        {
+          "name": "Prasanth Mohan M P",
+          "url": "https://open.spotify.com/artist/4iRnyI9etZoMtxWH3FUox3"
+        },
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        },
+        {
+          "name": "Kavithasreepanicker",
+          "url": "https://open.spotify.com/artist/4oi7pU6JdAMCnxn63MW2Sv"
+        },
+        {
+          "name": "Shyam Mangalath",
+          "url": "https://open.spotify.com/artist/1IDtDkumhPsQOeQxggeHo8"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291586,
+      "name": "Moovanthi",
+      "url": "https://open.spotify.com/track/3r88b4dis76sk8v0CkNA0J"
+    },
+    {
+      "album": {
         "name": "Moula Mere",
         "url": "https://open.spotify.com/album/7vC74xe0DHiQeEk0lldKh8"
       },

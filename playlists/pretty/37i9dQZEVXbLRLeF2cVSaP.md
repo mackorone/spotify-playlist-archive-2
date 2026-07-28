@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,642 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,649 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 21 | [распять](https://open.spotify.com/track/3pUbDaO5cBfRCZHxSCVMh8) | [greyrock](https://open.spotify.com/artist/3Z2TLso4pM7QrgMgkKVPZB), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L), [madk1d](https://open.spotify.com/artist/1Q5COYHgA7ch0y3HqCNgwt) | [распять](https://open.spotify.com/album/3hzcccGZBceumBuBtCNP6P) | 1:59 |
 | 22 | [МЫ](https://open.spotify.com/track/2dbo6x4AooofYUDcymWlLQ) | [IOWA](https://open.spotify.com/artist/7E865RNZIpmNQ81lDfRWLl) | [МЫ](https://open.spotify.com/album/0N0Q0UUm3LhtEZJ1q6S3ne) | 3:15 |
 | 23 | [GAZ](https://open.spotify.com/track/7jUxSkMJDyu0gEbDsuiN13) | [Zivert](https://open.spotify.com/artist/1pvmXh50KezixmCHnp9XvV) | [GAZ](https://open.spotify.com/album/5UfHNvToLF11HENoyCp1rm) | 3:01 |
-| 24 | [Супермаркет](https://open.spotify.com/track/0e7fQFxNi91TGwf0ezB8qj) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:34 |
+| 24 | [Супермаркет](https://open.spotify.com/track/5UW6yvwo3nVA609NgprdhK) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:34 |
 | 25 | [Юра, Юра](https://open.spotify.com/track/60rhfD30Cpfj4SY5A7ft4Z) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [Как испортить вечеринку?](https://open.spotify.com/album/2JvSSXtfGp3QIv1VWxIr4J) | 2:08 |
-| 26 | [Нон стоп](https://open.spotify.com/track/2nmRH8nkluAFr3qI1ryavs) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/68cjRurvUJS5KYJdZL9ckS) | 3:33 |
+| 26 | [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 |
 | 27 | [Шадэ](https://open.spotify.com/track/6GiiGC1f90eZdYwyg0NEJl) | [By Индия](https://open.spotify.com/artist/0BPOpRKw4vLwPFp4LsFRpO), [Xcho](https://open.spotify.com/artist/774od4b04zDMQMGxrJDeuB), [МОТ](https://open.spotify.com/artist/6OTMjaRQ9kxdwoPRYTmyOM) | [Шадэ](https://open.spotify.com/album/6DBQO6xPJEwKISFHrlYkjI) | 2:48 |
 | 28 | [агентство насилия™](https://open.spotify.com/track/6W3Psuj5yAWF2EQ4xRv6Ut) | [gotlibgotlibgotlib](https://open.spotify.com/artist/60BuDy9NuubibSQWzvE3w1), [Sabu](https://open.spotify.com/artist/7sg61WJ1RMuH3Yxtysrxny) | [агентство насилия™](https://open.spotify.com/album/4X9phIzro92X1TOjmQd7QE) | 2:15 |
 | 29 | [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Пьяный дождь](https://open.spotify.com/track/5BFADKJgtL2eZ4XZJq8zEc) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Малый повзрослел, Ч\. 2](https://open.spotify.com/album/3iKJSrtfk7d5XjhfYp46RB) | 3:15 |
 | 50 | [Банкомат](https://open.spotify.com/track/3rGOoMEEIBonQBGOX48yjB) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [СПЛЕТНИЦА](https://open.spotify.com/album/3KdIGJs1B4TarMpwCw6481) | 3:19 |
 
-Snapshot ID: `Mfl6eAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MfrJoAAAAAAAAAAAAAAAAAAAAAAAAGVu`

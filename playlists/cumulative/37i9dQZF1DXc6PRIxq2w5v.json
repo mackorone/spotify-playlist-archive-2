@@ -2764,7 +2764,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 203215,
       "name": "Devolva a Minha Igrejinha",
       "url": "https://open.spotify.com/track/6KU6BTFgbLzjLjHwPbzES3"
@@ -6038,7 +6038,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 172239,
       "name": "Me Guia Em Tua Luz",
       "url": "https://open.spotify.com/track/5kkHPzZDXCVFBz1SlJurmW"
@@ -8180,6 +8180,24 @@
       "duration_ms": 261333,
       "name": "Possivel \u00c9",
       "url": "https://open.spotify.com/track/7Gn9M2Gt4wcjzW9Se0esmO"
+    },
+    {
+      "album": {
+        "name": "PRA N\u00c3O TE PERDER (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7eM6SkCF5Aqu26T8uUs5b9"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266546,
+      "name": "PRA N\u00c3O TE PERDER - Ao Vivo",
+      "url": "https://open.spotify.com/track/6qp8kfSwKFgHtilt1lRidQ"
     },
     {
       "album": {
@@ -11204,6 +11222,28 @@
       "duration_ms": 168221,
       "name": "Virando a Mesa",
       "url": "https://open.spotify.com/track/4Q7oPUaeKlqDwB41yvbpqh"
+    },
+    {
+      "album": {
+        "name": "Vista do Alto",
+        "url": "https://open.spotify.com/album/71DLrdhbqoQA3xPN9pYwlY"
+      },
+      "artists": [
+        {
+          "name": "Insanou",
+          "url": "https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3"
+        },
+        {
+          "name": "Pacificadores",
+          "url": "https://open.spotify.com/artist/2uwIwpXUSnFLDvw6tfiX43"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207804,
+      "name": "Vista do Alto",
+      "url": "https://open.spotify.com/track/5hQA0TDIdHYJgveIxJammF"
     },
     {
       "album": {

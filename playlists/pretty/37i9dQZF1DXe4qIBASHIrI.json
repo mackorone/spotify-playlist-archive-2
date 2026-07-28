@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 182387,
+  "num_followers": 182420,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Ya Lo Dijo Rufis Taylor",
-        "url": "https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B"
-      },
-      "artists": [
-        {
-          "name": "Los Romanticos de Zacatecas",
-          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
-        }
-      ],
-      "duration_ms": 145306,
-      "name": "Es por Ti",
-      "url": "https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Bengala",
         "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 259253,
       "name": "Carretera",
       "url": "https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Ya Lo Dijo Rufis Taylor",
+        "url": "https://open.spotify.com/album/1UVQ73QdbLYP7Zc1qObo9B"
+      },
+      "artists": [
+        {
+          "name": "Los Romanticos de Zacatecas",
+          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
+        }
+      ],
+      "duration_ms": 145306,
+      "name": "Es por Ti",
+      "url": "https://open.spotify.com/track/46RX9nBiD5Ygqeiwz4Hl6C"
     },
     {
       "added_at": "2023-09-01 16:42:45",

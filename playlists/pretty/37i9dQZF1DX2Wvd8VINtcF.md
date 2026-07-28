@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Kelela & PinkPantheress✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,557 likes - 257 songs - 14 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,571 likes - 257 songs - 14 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
-| 2 | [Flock Of Swans Fly in V's](https://open.spotify.com/track/5fvkdCParRnWBRzze91RS6) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Flock Of Swans Fly in V's](https://open.spotify.com/album/7x2Wr7Abyr1fZslYVUxriM) | 2:36 |
-| 3 | [doom](https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 4:52 |
-| 4 | [Magic Metal Montana](https://open.spotify.com/track/7p2raGiQopzdSeYnWLwehY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:30 |
-| 5 | [When I’m Home](https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 5:26 |
-| 6 | [For Your Eyes Only](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 2:57 |
-| 7 | [speedboat](https://open.spotify.com/track/1horiWF2fc97Q0uBdb8CAE) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [speedboat](https://open.spotify.com/album/3RoBaqNNyDm9NEhUiiVM9V) | 3:12 |
-| 8 | [Train Of Thought](https://open.spotify.com/track/1zhowQgLDBGUy9WrPzNbv3) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Emotional Junglist](https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S) | 2:31 |
-| 9 | [Special](https://open.spotify.com/track/0fPHG8oIpgycft4a2vrk2I) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Special](https://open.spotify.com/album/7diAA6oce7YgHmAxl6xiew) | 3:00 |
-| 10 | [niu bi](https://open.spotify.com/track/30rghBUS6FM25ojA0G5Htm) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [niu bi](https://open.spotify.com/album/346SIh1chn8qqm7FiBd6lh) | 2:19 |
-| 11 | [Sunday Afternoon](https://open.spotify.com/track/5c81ZZDMHloha09FQ207EI) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Sunday Afternoon](https://open.spotify.com/album/5jbogtfl96yGMlL5gDKu4B) | 4:17 |
+| 1 | [For Your Eyes Only](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 2:57 |
+| 2 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
+| 3 | [Flock Of Swans Fly in V's](https://open.spotify.com/track/5fvkdCParRnWBRzze91RS6) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Flock Of Swans Fly in V's](https://open.spotify.com/album/7x2Wr7Abyr1fZslYVUxriM) | 2:36 |
+| 4 | [doom](https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 4:52 |
+| 5 | [Sunday Afternoon](https://open.spotify.com/track/5c81ZZDMHloha09FQ207EI) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Sunday Afternoon](https://open.spotify.com/album/5jbogtfl96yGMlL5gDKu4B) | 4:17 |
+| 6 | [Magic Metal Montana](https://open.spotify.com/track/7p2raGiQopzdSeYnWLwehY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:30 |
+| 7 | [When I’m Home](https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 5:26 |
+| 8 | [speedboat](https://open.spotify.com/track/1horiWF2fc97Q0uBdb8CAE) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [speedboat](https://open.spotify.com/album/3RoBaqNNyDm9NEhUiiVM9V) | 3:12 |
+| 9 | [Train Of Thought](https://open.spotify.com/track/1zhowQgLDBGUy9WrPzNbv3) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Emotional Junglist](https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S) | 2:31 |
+| 10 | [Special](https://open.spotify.com/track/0fPHG8oIpgycft4a2vrk2I) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Special](https://open.spotify.com/album/7diAA6oce7YgHmAxl6xiew) | 3:00 |
+| 11 | [niu bi](https://open.spotify.com/track/30rghBUS6FM25ojA0G5Htm) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [niu bi](https://open.spotify.com/album/346SIh1chn8qqm7FiBd6lh) | 2:19 |
 | 12 | [Relief](https://open.spotify.com/track/3F1GqUJ5lVJGl3j1CKSEqc) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Relief](https://open.spotify.com/album/3x7DruPONfvi5lVuQ68TG7) | 2:32 |
 | 13 | [Sarah Jessica Parker](https://open.spotify.com/track/7F2Yl1aIrS57wy0CpfekLN) | [Glayden](https://open.spotify.com/artist/5GsNEQd9Q8J3Yi721r1Tsj) | [Sarah Jessica Parker](https://open.spotify.com/album/5MsgGwZ649JiyQa9b9j6yA) | 4:04 |
 | 14 | [Hurt](https://open.spotify.com/track/3mDdkv8881MzLmSB7z8Ogy) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Hurt](https://open.spotify.com/album/6JIMB5E0g8XgwXd0sdS83S) | 2:47 |
@@ -266,4 +266,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 256 | [last man standing – lauren’s version](https://open.spotify.com/track/0VgwfJanW8QjhJ7f0EdFsA) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [last man standing – lauren’s version](https://open.spotify.com/album/0jS3L39Cq4qz8dJApN2Eb5) | 3:35 |
 | 257 | [peach](https://open.spotify.com/track/1lBi4AcyxeJyoe8Qhx4Hye) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [peach](https://open.spotify.com/album/6ea02No4KgESvZYXEp1RVH) | 2:19 |
 
-Snapshot ID: `AAAAAH60c/Pdppmcix6pl+PZQJRFtZHZ`
+Snapshot ID: `AAAAALn2oJDRK2bj7REKO77oEY7PK1Y5`

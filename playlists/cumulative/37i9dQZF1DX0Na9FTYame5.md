@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Mucco
 
-393 songs - 17 hr 45 min
+395 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Do you lie](https://open.spotify.com/track/6xLxMr7gbDdz7VWSx0IBt7) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Do you lie](https://open.spotify.com/album/7rME8YpoxJ0bpSI8r8tLWI) | 2:35 | 2024-06-28 | 2025-01-17 |
 | [Drunk in Love](https://open.spotify.com/track/7MMIqKbRvpFSfF3WaJ7IdW) | [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB), [Young Mesh](https://open.spotify.com/artist/5YaK0DIsPwmvRYaadmVKys), [DXVE](https://open.spotify.com/artist/5WaWH4bt6sGHjuQaFYQAWJ), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [Drunk in Love](https://open.spotify.com/album/5j8myFVGmuDLHHVNGamVer) | 2:44 | 2026-02-19 | 2026-04-05 |
 | [Dschungelbuch](https://open.spotify.com/track/31hngzxYLPCNJEUaYvHVQb) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Dschungelbuch](https://open.spotify.com/album/2btc4wUHco7gn7bTIMyfCN) | 3:04 | 2025-04-10 | 2025-07-15 |
-| [Du & Ich](https://open.spotify.com/track/2JqugrOxS9f2AXmclSCGfA) | [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [Du & Ich](https://open.spotify.com/album/3R9rWl7SWlpp10pwLi8RtU) | 2:51 | 2026-04-30 |  |
+| [Du & Ich](https://open.spotify.com/track/2JqugrOxS9f2AXmclSCGfA) | [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [Du & Ich](https://open.spotify.com/album/3R9rWl7SWlpp10pwLi8RtU) | 2:51 | 2026-04-30 | 2026-07-28 |
 | [Du bist das Beste](https://open.spotify.com/track/0z6072QweZ2Id62A4CcMb8) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Du bist das Beste](https://open.spotify.com/album/01qisonHMpguE3K1JddI4a) | 2:27 | 2025-04-10 | 2025-11-14 |
 | [Du Fehlst](https://open.spotify.com/track/5reUV4Jv5GBY1W15E4J9w9) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Du Fehlst](https://open.spotify.com/album/64qMewtyTkU86GlyUdDrwF) | 2:35 | 2024-06-28 | 2025-03-25 |
 | [Du fühlst genauso](https://open.spotify.com/track/0NGXJiKkVxW5ZZxeSHjDpl) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Du fühlst genauso](https://open.spotify.com/album/1KQ1QphaXts0aLrp0Okj8J) | 2:55 | 2026-07-02 |  |
@@ -148,7 +148,7 @@
 | [Hannah Montana](https://open.spotify.com/track/7fidUHHPzuVuN6ECBsp2vJ) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3), [Bazzazian](https://open.spotify.com/artist/7k403TjkSs0KANqh7pe9Vn) | [Moth Music](https://open.spotify.com/album/0LM5Rb2wxnsyPBKA6unakp) | 3:38 | 2026-01-30 | 2026-04-10 |
 | [Happy Birthday](https://open.spotify.com/track/2IEsTp4cFNOZVBNshXLB6k) | [SANNA](https://open.spotify.com/artist/7yCKN6vsAdJeyG5J7wGhFd), [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE) | [Happy Birthday](https://open.spotify.com/album/38Ooz0yzDGiiRA7tzZq580) | 3:36 | 2024-06-28 | 2025-01-27 |
 | [Happy ohne dich](https://open.spotify.com/track/39RD5peOciUGQEHzYt3rJe) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Happy ohne dich](https://open.spotify.com/album/2lJ71g8MyDBA21XD06TiTV) | 2:13 | 2024-09-16 | 2025-04-13 |
-| [HAUS AM SEE](https://open.spotify.com/track/7qUgmfp9AoqOIj9Yrbr7ue) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [LORI TYPE SHIT](https://open.spotify.com/album/65UeRr5yIfjhwjefojDbPK) | 2:50 | 2026-07-02 |  |
+| [HAUS AM SEE](https://open.spotify.com/track/7qUgmfp9AoqOIj9Yrbr7ue) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [LORI TYPE SHIT](https://open.spotify.com/album/65UeRr5yIfjhwjefojDbPK) | 2:50 | 2026-07-02 | 2026-07-28 |
 | [HAUS MIT BOOT](https://open.spotify.com/track/5LhlFA9WBKwAVWHd6bdpsQ) | [Cave](https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9) | [HAUS MIT BOOT](https://open.spotify.com/album/1jVb7l0YvazooEGMOn5YpQ) | 2:35 | 2026-02-18 |  |
 | [Heartbreaks](https://open.spotify.com/track/3NC8Zs1B4RZijkvFzXEMAa) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [SANTOS](https://open.spotify.com/album/340mhMLU57SVVGqZ9SMVUP) | 2:04 | 2025-10-16 | 2025-12-11 |
 | [HEARTBROKEN](https://open.spotify.com/track/6RiVW19zzZYS1N9Z2F1IM0) | [Achtabahn](https://open.spotify.com/artist/2bnHA3uft5ff7aFQLvscV5), [ART](https://open.spotify.com/artist/4P3RXClUWZnQAO6BfrEQXb) | [HEARTBROKEN](https://open.spotify.com/album/6KwJEV8Z9Zy4HtAHqy6jKV) | 1:56 | 2025-08-07 | 2025-10-11 |
@@ -241,6 +241,7 @@
 | [Mein Traum](https://open.spotify.com/track/5bl6OGSUnPWX2xWDESe5xZ) | [Rosc](https://open.spotify.com/artist/4vEIMa1vuh2eKBryiepN8c) | [Mein Traum](https://open.spotify.com/album/5G9FpnTDMMf2q5wdPy7AMD) | 2:32 | 2025-12-19 | 2026-01-24 |
 | [Mein Type](https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M) | [Matterz](https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP) | [Mein Type](https://open.spotify.com/album/7gOI3Tzkyi6cytldUFot2J) | 2:34 | 2024-08-30 |  |
 | [Meine Augen](https://open.spotify.com/track/5MnpPgnUEiJMMa5WzbLOWe) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Meine Augen](https://open.spotify.com/album/4aM7Vsa3PIsMm2qarPJ4Is) | 2:16 | 2024-06-28 | 2025-11-23 |
+| [Meine Welt](https://open.spotify.com/track/00m8Dz5zDd1joPYxkHGKEl) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Meine Welt](https://open.spotify.com/album/3uCXw3zomzkSPHe9LX3HXB) | 2:29 | 2026-07-27 |  |
 | [Memories](https://open.spotify.com/track/4PFe51A35tfRKVzAl5Jzig) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Memories](https://open.spotify.com/album/63mqkFwL6GiyvqXAweVeHT) | 3:37 | 2025-10-02 | 2026-03-09 |
 | [MISS YOU](https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [MISS YOU](https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB) | 2:09 | 2024-06-28 | 2024-09-16 |
 | [MISSED CALLS](https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [MISSED CALLS](https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH) | 2:12 | 2024-06-28 | 2024-12-03 |
@@ -317,6 +318,7 @@
 | [Schöne Dinge](https://open.spotify.com/track/5ddeAZkgc1JMI9glEwHAOx) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [Schöne Dinge](https://open.spotify.com/album/6ovsDQNSiLosfbEKaGtkKl) | 2:39 | 2025-09-18 | 2026-05-29 |
 | [Sehnsucht](https://open.spotify.com/track/1eFsgzBlLNKrOcJfnNbDLp) | [Dorian](https://open.spotify.com/artist/3Wxidvy1joh0HaRNyvpIdb) | [Sehnsucht](https://open.spotify.com/album/0noQsWzkwjjsrIhGu9kUWP) | 2:31 | 2026-02-12 | 2026-04-02 |
 | [Sehnsucht](https://open.spotify.com/track/5PFZFkJScGwK1mmyFtjBqK) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Sehnsucht](https://open.spotify.com/album/0raPoCRve4riLbX1ctCjv3) | 3:03 | 2024-08-26 | 2025-08-07 |
+| [Seite an Seite](https://open.spotify.com/track/7FwiW63H6Ului0e2nDhlkc) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Seite an Seite](https://open.spotify.com/album/56he14BpKsirM76ZLonOa1) | 3:30 | 2026-07-27 |  |
 | [Selber Schuld](https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi) | [Teven](https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0) | [Selber Schuld](https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg) | 2:21 | 2024-08-01 | 2025-02-08 |
 | [Shawty](https://open.spotify.com/track/0epOvY19U7PF0d96EB3bkl) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Shawty](https://open.spotify.com/album/4Qjtz9UiZQybB6Y5TZa5Ck) | 2:24 | 2025-11-27 | 2025-12-06 |
 | [Siehst du's auch so](https://open.spotify.com/track/6GFGIBvEfBama5eAcjvfyi) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Siehst du's auch so](https://open.spotify.com/album/4GSPITkPHjJjEMVmHZWjGW) | 2:44 | 2025-04-24 | 2025-10-17 |

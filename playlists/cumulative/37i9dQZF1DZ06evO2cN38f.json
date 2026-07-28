@@ -505,6 +505,28 @@
     },
     {
       "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/72asUETHX1ueZx7rC0j6vz"
+      },
+      "artists": [
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152540,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/6datuEqdjvYeS3cMaWCxKM"
+    },
+    {
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },

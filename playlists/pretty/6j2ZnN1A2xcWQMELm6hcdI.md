@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Latto
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 312,184 likes - 150 songs - 7 hr 28 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 312,090 likes - 150 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 | 21 | [Quiéreme Menos](https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Quiéreme Menos](https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic) | 3:33 |
 | 22 | [LIGHTS OUT](https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LIGHTS OUT](https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv) | 3:18 |
 | 23 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 |
-| 24 | [Soul Ties \(Don't Give It Up\)](https://open.spotify.com/track/4VkTElZt9lyKdMhFjYiKC1) | [H3rizon](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Soul Ties \(Don't Give It Up\)](https://open.spotify.com/album/0h5L0xiQeeP6L564wLKmsM) | 2:48 |
+| 24 | [Soul Ties \(Don't Give It Up\)](https://open.spotify.com/track/4VkTElZt9lyKdMhFjYiKC1) | [H3RIZON](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Soul Ties \(Don't Give It Up\)](https://open.spotify.com/album/0h5L0xiQeeP6L564wLKmsM) | 2:48 |
 | 25 | [Haunted](https://open.spotify.com/track/7cioKB5CHVzk09SOtTyn0T) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 6:09 |
 | 26 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 | 27 | [Starlight](https://open.spotify.com/track/05yOyXHzBYAFMvVdCogZH7) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [The Script](https://open.spotify.com/album/29KTRSG2aS38JNI3oS7SnV) | 2:12 |
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 | 112 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
 | 113 | [Make Up](https://open.spotify.com/track/0uzoJnQhD2VYx9zL4cybP5) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Make Up](https://open.spotify.com/album/2ZWwd1cj98gwwtfOSMWoTp) | 3:33 |
 | 114 | [running water](https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [running water](https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq) | 3:04 |
-| 115 | [Naughty](https://open.spotify.com/track/16riImh0ERdUi9qQz4jimg) | [H3rizon](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Naughty + Wanna Love You](https://open.spotify.com/album/6I4UTLON8myJP43oyluaMu) | 2:39 |
+| 115 | [Naughty](https://open.spotify.com/track/16riImh0ERdUi9qQz4jimg) | [H3RIZON](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Naughty + Wanna Love You](https://open.spotify.com/album/6I4UTLON8myJP43oyluaMu) | 2:39 |
 | 116 | [Enamórate](https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Enamórate](https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32) | 2:27 |
 | 117 | [Blick](https://open.spotify.com/track/0ZCfZ4o34HQiFvJAW7HyG6) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [Blick](https://open.spotify.com/album/6JB6RYhuWSOOISlJ5sMfvq) | 2:14 |
 | 118 | [Sand](https://open.spotify.com/track/3HYUKa1HkaSRk4C0xK4O5q) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Sand](https://open.spotify.com/album/6K8VcnG6HUSp59xNOpEJhP) | 3:39 |

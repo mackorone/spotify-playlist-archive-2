@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 188353,
+  "num_followers": 188376,
   "original_name": "Canzoni d'amore italiane",
   "owner": {
     "name": "Spotify",
@@ -87,18 +87,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Gemelli",
-        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
+        "name": "Amarsi \u00e8 la rivoluzione",
+        "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
       },
       "artists": [
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+          "name": "Eddie Brock",
+          "url": "https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR"
         }
       ],
-      "duration_ms": 172200,
-      "name": "Superclassico",
-      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
+      "duration_ms": 187698,
+      "name": "Non \u00e8 mica te",
+      "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -139,34 +139,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Amarsi \u00e8 la rivoluzione",
-        "url": "https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP"
+        "name": "Gemelli",
+        "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
       },
       "artists": [
         {
-          "name": "Eddie Brock",
-          "url": "https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
         }
       ],
-      "duration_ms": 187698,
-      "name": "Non \u00e8 mica te",
-      "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
-        "name": "Possibili Scenari",
-        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
-      },
-      "artists": [
-        {
-          "name": "Cesare Cremonini",
-          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Poetica",
-      "url": "https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"
+      "duration_ms": 172200,
+      "name": "Superclassico",
+      "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -183,6 +167,22 @@
       "duration_ms": 236417,
       "name": "Pastello Bianco",
       "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Possibili Scenari",
+        "url": "https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "duration_ms": 293960,
+      "name": "Poetica",
+      "url": "https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 237880,
-      "name": "Un'emozione per sempre",
-      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Fuori dall'Hype Ringo Starr",
         "url": "https://open.spotify.com/album/56JsicBPrw88plclhKK74J"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 214733,
       "name": "Ridere",
       "url": "https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 237880,
+      "name": "Un'emozione per sempre",
+      "url": "https://open.spotify.com/track/1Hd8GLavCUUUx3GJdunJ4E"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Buoni O Cattivi (Remastered 2017)",
-        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "E...",
-      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 214926,
       "name": "Scrivile Scemo",
       "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Buoni O Cattivi (Remastered 2017)",
+        "url": "https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "E...",
+      "url": "https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Cari Amori Miei",
-        "url": "https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY"
-      },
-      "artists": [
-        {
-          "name": "Gianni Togni",
-          "url": "https://open.spotify.com/artist/1VeH892FTsVyB6XAnMvEbL"
-        }
-      ],
-      "duration_ms": 287466,
-      "name": "Giulia",
-      "url": "https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Cinquemilaquarantatre (2001 Remastered Version)",
         "url": "https://open.spotify.com/album/1c7fpydgzXm9gSXHZ228et"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 238386,
       "name": "Parole parole - 2001 Remastered Version",
       "url": "https://open.spotify.com/track/7LZDbABGg2NfnGsyIs2SeB"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Cari Amori Miei",
+        "url": "https://open.spotify.com/album/2WVwn7K7dnhZzqQ0dcjVeY"
+      },
+      "artists": [
+        {
+          "name": "Gianni Togni",
+          "url": "https://open.spotify.com/artist/1VeH892FTsVyB6XAnMvEbL"
+        }
+      ],
+      "duration_ms": 287466,
+      "name": "Giulia",
+      "url": "https://open.spotify.com/track/5w8k4vqhqz2qYr7WI7eP0X"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Alla Mia Et\u00e0",
-        "url": "https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj"
-      },
-      "artists": [
-        {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
-        }
-      ],
-      "duration_ms": 228600,
-      "name": "Il Regalo Pi\u00f9 Grande",
-      "url": "https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Bagus",
         "url": "https://open.spotify.com/album/6WbUYB2fDctcuzTsQXWcF6"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 253626,
       "name": "Vieni A Vedere Perch\u00e8",
       "url": "https://open.spotify.com/track/7LYUIppHHkuKeIyfWwUEvj"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Alla Mia Et\u00e0",
+        "url": "https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 228600,
+      "name": "Il Regalo Pi\u00f9 Grande",
+      "url": "https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 207802,
-      "name": "La storia infinita",
-      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Lucio Dalla",
         "url": "https://open.spotify.com/album/1QV9aAN5P2Tw1ODM9hiC8E"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 221093,
       "name": "Anna E Marco",
       "url": "https://open.spotify.com/track/6OVTR9jqJj6tlJiADrNq0F"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 207802,
+      "name": "La storia infinita",
+      "url": "https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -875,18 +875,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Diari Aperti",
-        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
+        "name": "Safari",
+        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
       },
       "artists": [
         {
-          "name": "Elisa",
-          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
         }
       ],
-      "duration_ms": 239693,
-      "name": "Anche Fragile",
-      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
+      "duration_ms": 264240,
+      "name": "A Te",
+      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Safari",
-        "url": "https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK"
+        "name": "Diari Aperti",
+        "url": "https://open.spotify.com/album/4MmmI8sqP83TZzmg0AyTae"
       },
       "artists": [
         {
-          "name": "Jovanotti",
-          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23"
         }
       ],
-      "duration_ms": 264240,
-      "name": "A Te",
-      "url": "https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv"
+      "duration_ms": 239693,
+      "name": "Anche Fragile",
+      "url": "https://open.spotify.com/track/05G23JkXHRv3NJ9hENaafi"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "BELLA DAVVERO",
-        "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 178883,
-      "name": "BELLA DAVVERO",
-      "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Sorriso (Milano Dateo)",
         "url": "https://open.spotify.com/album/5U5pvv8NQHjb4UEhMozHRz"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 177145,
       "name": "Sorriso (Milano Dateo)",
       "url": "https://open.spotify.com/track/6Rg0AJvt1xa4hR2QH2fUhb"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "BELLA DAVVERO",
+        "url": "https://open.spotify.com/album/4ufSiXGrmtlVKXhyDi2UEe"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 178883,
+      "name": "BELLA DAVVERO",
+      "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Alba",
-        "url": "https://open.spotify.com/album/5KlWvjXQsetLk8KqvtCaJw"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 209657,
-      "name": "Alba",
-      "url": "https://open.spotify.com/track/3slQ550jA1udn2keXTvu1U"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Lucio Battisti",
         "url": "https://open.spotify.com/album/6L6jMyEspy4a4B2V3Jafn7"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 190634,
       "name": "Un'avventura",
       "url": "https://open.spotify.com/track/7B09xj4jnG1763TWkVxazM"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Alba",
+        "url": "https://open.spotify.com/album/5KlWvjXQsetLk8KqvtCaJw"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 209657,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/3slQ550jA1udn2keXTvu1U"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Il giorno in cui ho smesso di pensare",
-        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        }
-      ],
-      "duration_ms": 200428,
-      "name": "Ovunque Sarai",
-      "url": "https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Concerto Per Margherita",
         "url": "https://open.spotify.com/album/5cXd8lH3e53AtK7VXpA1Pe"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 270786,
       "name": "Margherita",
       "url": "https://open.spotify.com/track/3OmkSLoCJEX505kQOZJg1K"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Il giorno in cui ho smesso di pensare",
+        "url": "https://open.spotify.com/album/2bL1yZKdgMo1syeyCYDwhq"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "duration_ms": 200428,
+      "name": "Ovunque Sarai",
+      "url": "https://open.spotify.com/track/75mCCeBwjfoZtfAPE0SxwO"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Nome e cognome [Remastered Version]",
-        "url": "https://open.spotify.com/album/4ykRF2gZsuZmUVBeVMFnnT"
-      },
-      "artists": [
-        {
-          "name": "Ligabue",
-          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
-        }
-      ],
-      "duration_ms": 263173,
-      "name": "L'amore conta",
-      "url": "https://open.spotify.com/track/1ms3QC6CO8vN4100SgrG70"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Zero Gravity",
         "url": "https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 209400,
       "name": "D'improvviso",
       "url": "https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Nome e cognome [Remastered Version]",
+        "url": "https://open.spotify.com/album/4ykRF2gZsuZmUVBeVMFnnT"
+      },
+      "artists": [
+        {
+          "name": "Ligabue",
+          "url": "https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz"
+        }
+      ],
+      "duration_ms": 263173,
+      "name": "L'amore conta",
+      "url": "https://open.spotify.com/track/1ms3QC6CO8vN4100SgrG70"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "VASCONONSTOP",
-        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
-      },
-      "artists": [
-        {
-          "name": "Vasco Rossi",
-          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Come Nelle Favole",
-      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Mina (2001 Remaster)",
         "url": "https://open.spotify.com/album/60BdC9E02JUjXK5KaycUWg"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 240933,
       "name": "Grande, grande, grande - 2001 Remaster",
       "url": "https://open.spotify.com/track/7djxemkRcsWAqrWTye4Vxt"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "VASCONONSTOP",
+        "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
+      },
+      "artists": [
+        {
+          "name": "Vasco Rossi",
+          "url": "https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Come Nelle Favole",
+      "url": "https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R"
     },
     {
       "added_at": "2026-04-21 16:02:40",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-04-21 16:02:40",
       "album": {
-        "name": "Giovani per sempre",
-        "url": "https://open.spotify.com/album/3zV92qqfkqOO30bMkyoiKE"
-      },
-      "artists": [
-        {
-          "name": "Irama",
-          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
-        }
-      ],
-      "duration_ms": 222101,
-      "name": "La ragazza con il cuore di latta",
-      "url": "https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf"
-    },
-    {
-      "added_at": "2026-04-21 16:02:40",
-      "album": {
         "name": "Come Thelma E Louise",
         "url": "https://open.spotify.com/album/3TkPJ0VZJnHBQ5jWk8Y0lj"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 300306,
       "name": "Come saprei",
       "url": "https://open.spotify.com/track/1mJQoOICr4UlV6nG3EI4NN"
+    },
+    {
+      "added_at": "2026-04-21 16:02:40",
+      "album": {
+        "name": "Giovani per sempre",
+        "url": "https://open.spotify.com/album/3zV92qqfkqOO30bMkyoiKE"
+      },
+      "artists": [
+        {
+          "name": "Irama",
+          "url": "https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK"
+        }
+      ],
+      "duration_ms": 222101,
+      "name": "La ragazza con il cuore di latta",
+      "url": "https://open.spotify.com/track/0NmyHZZMfVBiUSOfDmz9Bf"
     },
     {
       "added_at": "2026-04-21 16:02:40",

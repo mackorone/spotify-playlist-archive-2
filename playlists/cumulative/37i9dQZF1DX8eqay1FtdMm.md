@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: sunwoojunga\(선우정아\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-663 songs - 1 day 19 hr 16 min
+664 songs - 1 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [Should′ve known](https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w) | [2AM](https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos) | [Ballad 21 F/W](https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq) | 3:41 | 2021-12-20 | 2023-11-01 |
 | [Simple is the best](https://open.spotify.com/track/0CuWEtjM6WSMOZaUe25qRX) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 3:43 | 2022-03-24 | 2022-04-21 |
 | [Snow Flower](https://open.spotify.com/track/0t3lRe5onWuDCm5533MRZ1) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Snow Flower](https://open.spotify.com/album/3GeRwFsu0S9PKpbzerXDt5) | 5:43 | 2023-01-25 | 2023-02-21 |
+| [So Good](https://open.spotify.com/track/7pSCUtyGIOL1nS5QlT3ZU9) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [BORDERLINE](https://open.spotify.com/album/0bpDtTyYODcT2QaqtU6XT6) | 2:35 | 2026-07-24 |  |
 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 | 2022-03-24 |  |
 | [Solo Christmas](https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Solo Christmas](https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h) | 3:36 | 2021-12-20 | 2026-01-03 |
 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 | 2022-07-25 | 2024-04-19 |
@@ -560,7 +561,7 @@
 | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/track/36ua7Cbt724p1RFlOVy9up) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Two Faced \(The Forbidden Marriage X Ailee\)](https://open.spotify.com/album/6go9sISRH2r8yCT5UDUDKh) | 3:41 | 2022-03-11 | 2022-07-03 |
 | [understand](https://open.spotify.com/track/3J1SWo1MyGSR6dwjv1jdlT) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [understand](https://open.spotify.com/album/0RluOrRGTkAJ6Z8jtj11Ru) | 4:41 | 2021-12-27 | 2022-07-06 |
 | [Unforgettable](https://open.spotify.com/track/2y0fZIKYpjN8ZCylkttePB) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [THE LETTER](https://open.spotify.com/album/5uCKvyWTxVemL1hFXpVLx9) | 3:28 | 2021-12-27 | 2022-07-18 |
-| [Unforgettable Love](https://open.spotify.com/track/6nC0meiqIoorz6Lb7Ufte8) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [My Dearest \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/3kcfskSR4RWXWelADGzNli) | 3:42 | 2023-11-16 |  |
+| [Unforgettable Love](https://open.spotify.com/track/6nC0meiqIoorz6Lb7Ufte8) | [YANG YO SEOP](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [My Dearest \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/3kcfskSR4RWXWelADGzNli) | 3:42 | 2023-11-16 | 2026-07-28 |
 | [Universe](https://open.spotify.com/track/0WfGe9wV6Dz8ygraMCI7wU) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [D's WAVE](https://open.spotify.com/album/0mCLRMszIUX4W1JAvOJcN1) | 3:47 | 2025-04-09 |  |
 | [Us, then](https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX) | [Hong Jin Ho](https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Modern Cello](https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4) | 5:05 | 2022-08-03 | 2022-08-13 |
 | [vain hope](https://open.spotify.com/track/0KTepZj73Gl6oJQwdSx5fi) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [LEECHANGSUB PRE\-RELEASE <1991>](https://open.spotify.com/album/10EMWG95AX2RCFkLiMhQEL) | 4:02 | 2024-09-02 | 2024-11-28 |

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 48831,
+  "num_followers": 48837,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,18 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
-        "name": "Shy Lover",
-        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+        "name": "M$NEY Live in London (Spotify Live)",
+        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Shy Lover",
-      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
+      "duration_ms": 244749,
+      "name": "Ako - Live in London",
+      "url": "https://open.spotify.com/track/42enlqjY1SvHHUNmyaBy7f"
     },
     {
       "added_at": "2026-07-24 00:01:49",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
+        "name": "Shy Lover",
+        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Shy Lover",
+      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 140367,
       "name": "Moving",
       "url": "https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
-        "name": "M$NEY Live in London (Spotify Live)",
-        "url": "https://open.spotify.com/album/3o0KBqscfhaIoqYJ6EnCzB"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 244749,
-      "name": "Ako - Live in London",
-      "url": "https://open.spotify.com/track/42enlqjY1SvHHUNmyaBy7f"
     },
     {
       "added_at": "2026-07-24 00:01:49",
@@ -911,6 +911,34 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
+        "name": "Tonight (with Blaqbonez, Major AJ & Noon Dave)",
+        "url": "https://open.spotify.com/album/1vUCTdPUb0hFi3CsE0aPqn"
+      },
+      "artists": [
+        {
+          "name": "Chocolate City",
+          "url": "https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Major AJ",
+          "url": "https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT"
+        },
+        {
+          "name": "Noon Dave",
+          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
+        }
+      ],
+      "duration_ms": 169301,
+      "name": "Tonight (with Blaqbonez, Major AJ & Noon Dave)",
+      "url": "https://open.spotify.com/track/2OBS1RvTy6qlzwEKDzdZcW"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
         "name": "Some Days I\u2019m Good, Some Days I\u2019m Not",
         "url": "https://open.spotify.com/album/6CyD8cVpx9f8uJT9ZpJHRG"
       },
@@ -947,54 +975,6 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
-        "name": "Tonight (with Blaqbonez, Major AJ & Noon Dave)",
-        "url": "https://open.spotify.com/album/1vUCTdPUb0hFi3CsE0aPqn"
-      },
-      "artists": [
-        {
-          "name": "Chocolate City",
-          "url": "https://open.spotify.com/artist/3Ub0Cq3b0cXfIUoWP7Swnv"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Major AJ",
-          "url": "https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT"
-        },
-        {
-          "name": "Noon Dave",
-          "url": "https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm"
-        }
-      ],
-      "duration_ms": 169301,
-      "name": "Tonight (with Blaqbonez, Major AJ & Noon Dave)",
-      "url": "https://open.spotify.com/track/2OBS1RvTy6qlzwEKDzdZcW"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
-        "name": "Compose",
-        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Compose",
-      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
         "name": "Arike (Remix)",
         "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
@@ -1019,22 +999,22 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
-        "name": "MAGAA",
-        "url": "https://open.spotify.com/album/10BL9nd3OGaX5s47NWNIPA"
+        "name": "Compose",
+        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
       },
       "artists": [
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
         }
       ],
-      "duration_ms": 181289,
-      "name": "MAGAA",
-      "url": "https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl"
+      "duration_ms": 144000,
+      "name": "Compose",
+      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
     },
     {
       "added_at": "2026-07-24 00:01:49",
@@ -1055,6 +1035,26 @@
       "duration_ms": 144000,
       "name": "Understand Me",
       "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
+        "name": "MAGAA",
+        "url": "https://open.spotify.com/album/10BL9nd3OGaX5s47NWNIPA"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 181289,
+      "name": "MAGAA",
+      "url": "https://open.spotify.com/track/1uXIywdXW2eaFnD3zJbfpl"
     },
     {
       "added_at": "2026-07-24 00:01:49",
@@ -1231,78 +1231,6 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
-        "name": "Exopa",
-        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Odunsi (The Engine)",
-          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "Exopa",
-      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
-        "name": "Hashtag",
-        "url": "https://open.spotify.com/album/0ORYGBhSHeVpjKoslUKZas"
-      },
-      "artists": [
-        {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        },
-        {
-          "name": "255",
-          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Hashtag",
-      "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
-        "name": "CKay The Second",
-        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "forever",
-      "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
-        "name": "Yori yori",
-        "url": "https://open.spotify.com/album/50wmIHgKLfTkZowFcxlKaF"
-      },
-      "artists": [
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Yori yori",
-      "url": "https://open.spotify.com/track/3J7tMLaRYC6J8b2lBKEalx"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/6Cc8Wz02Yz6fOdk7myVXT4"
       },
@@ -1335,6 +1263,62 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
+        "name": "Exopa",
+        "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Odunsi (The Engine)",
+          "url": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+        }
+      ],
+      "duration_ms": 190515,
+      "name": "Exopa",
+      "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
+        "name": "CKay The Second",
+        "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "forever",
+      "url": "https://open.spotify.com/track/4CSUyrPDqDTkn9ybo4aUoj"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
+        "name": "Hashtag",
+        "url": "https://open.spotify.com/album/0ORYGBhSHeVpjKoslUKZas"
+      },
+      "artists": [
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Hashtag",
+      "url": "https://open.spotify.com/track/5TWz9SGcGlMuVFLmtUY1v8"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
         "name": "adedamola",
         "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 212107,
       "name": "ecstasy",
       "url": "https://open.spotify.com/track/1hBvCXXnLsXwlS7Qx2xdAh"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
+        "name": "Yori yori",
+        "url": "https://open.spotify.com/album/50wmIHgKLfTkZowFcxlKaF"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Yori yori",
+      "url": "https://open.spotify.com/track/3J7tMLaRYC6J8b2lBKEalx"
     },
     {
       "added_at": "2026-07-24 00:01:49",

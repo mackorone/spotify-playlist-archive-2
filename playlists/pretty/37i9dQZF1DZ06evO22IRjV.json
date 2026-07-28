@@ -1,12 +1,12 @@
 {
   "description": "This is FLOW. The essential tracks, all in one playlist.",
-  "num_followers": 31223,
+  "num_followers": 31222,
   "original_name": "This Is FLOW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAA7nbBAKdbSojrxYAlQZFfB",
+  "snapshot_id": "amVOAAAAAABXtFFoRG2q5N/jTZAXD/vD",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30a4\u30eb",
-        "url": "https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 279733,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/0lDEkAEv0QuxJGZ1nn4JIx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alright!!!",
         "url": "https://open.spotify.com/album/2LAtZAVqBu5mwWOXuvecxs"
       },
@@ -471,22 +455,6 @@
       "duration_ms": 219160,
       "name": "Alright!!!",
       "url": "https://open.spotify.com/track/3tPk1doXdKGzwHP3HsghPg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
-        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
-      },
-      "artists": [
-        {
-          "name": "FLOW",
-          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        }
-      ],
-      "duration_ms": 243640,
-      "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
-      "url": "https://open.spotify.com/track/6iWvPnegQ0KyaqgpTxmwGc"
     },
     {
       "added_at": null,
@@ -507,22 +475,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOW ANIME BEST \u6975",
-        "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
       },
       "artists": [
         {
           "name": "FLOW",
           "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
-        },
-        {
-          "name": "Diana Garnet",
-          "url": "https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD"
         }
       ],
-      "duration_ms": 235813,
-      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ"
+      "duration_ms": 243640,
+      "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/6iWvPnegQ0KyaqgpTxmwGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "duration_ms": 279733,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/0lDEkAEv0QuxJGZ1nn4JIx"
     },
     {
       "added_at": null,
@@ -539,6 +519,26 @@
       "duration_ms": 245693,
       "name": "\u30e1\u30ed\u30b9",
       "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLOW ANIME BEST \u6975",
+        "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "Diana Garnet",
+          "url": "https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ"
     },
     {
       "added_at": null,

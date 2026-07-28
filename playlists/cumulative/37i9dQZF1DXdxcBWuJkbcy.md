@@ -4,7 +4,7 @@
 
 > Pumping tracks for pumping iron!
 
-1,024 songs - 2 day 2 hr 38 min
+1,025 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2024-08-29 |  |
 | [Fire Blazing](https://open.spotify.com/track/2R81XYNFqkLyemIxYb9aF7) | [Dropgun](https://open.spotify.com/artist/3nAdmhth5AczU6YwCJOlYh) | [Fire Blazing](https://open.spotify.com/album/1OjpBGht6p8FgiitecLkOc) | 2:20 | 2021-03-08 | 2021-03-23 |
 | [Fire In My Soul](https://open.spotify.com/track/0M0FvSNRZmDz0Z769rewlI) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Fire In My Soul](https://open.spotify.com/album/06TsYXlEgyZa8Z8DkguJy5) | 2:55 | 2021-03-06 | 2021-10-14 |
+| [Fireflies](https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Fireflies](https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23) | 4:23 | 2026-07-24 |  |
 | [First Class Jazz](https://open.spotify.com/track/5IrbesAJuMbOooeJZXI6qs) | [AronChupa](https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh) | [First Class Jazz](https://open.spotify.com/album/40R6GPBNyIOiVlZGQTFr9u) | 4:37 | 2020-08-14\* | 2021-10-12 |
 | [Flashback](https://open.spotify.com/track/3m7ujh5Wws7bTCbesg7GQK) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Flashback](https://open.spotify.com/album/70fRnyz6NqVivoOngE85R6) | 2:29 | 2026-02-12 | 2026-03-06 |
 | [Flex](https://open.spotify.com/track/43p1IlKF0PBgwkqzS2EdCk) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Funk Machine](https://open.spotify.com/artist/6U9Xz6BOxbkbQpkSHvquzz), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Flex](https://open.spotify.com/album/7pYGbijbUxA3i2bS6v9aQL) | 2:35 | 2021-03-10 | 2021-03-22 |
@@ -666,7 +667,7 @@
 | [One Night \- D.O.D Remix](https://open.spotify.com/track/5Q0VxlFh80F3LmbGnuDE4M) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Wealth](https://open.spotify.com/artist/1utXsaZCyYuvAtBgMIxTUp), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [One Night \(D.O.D Remix\)](https://open.spotify.com/album/7HKRaH5YcCJF1BrlLSuCVs) | 4:12 | 2021-03-07 | 2021-07-31 |
 | [OneHundred](https://open.spotify.com/track/5SNvyCJJ5OLKDLQza2EPLP) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [OneHundred](https://open.spotify.com/album/34vgp24d0jYG1SzSkgP3uE) | 3:09 | 2024-01-18 | 2024-07-27 |
 | [Only Want You \- Martin Jensen Remix](https://open.spotify.com/track/5dC3Cv6uGfyr16zJtr6n1n) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Only Want You \(Martin Jensen Remix\)](https://open.spotify.com/album/1GwH97kX3Gxa2emwty0RTA) | 2:53 | 2020-10-20 | 2022-04-21 |
-| [Orla](https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Orla](https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O) | 3:25 | 2026-03-13 |  |
+| [Orla](https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Orla](https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O) | 3:25 | 2026-03-13 | 2026-07-28 |
 | [Out My Head](https://open.spotify.com/track/6ZorLNYsF1KjjV9M2OSxAF) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Out My Head](https://open.spotify.com/album/3MS98RpRmeMZjjffoKUGln) | 2:44 | 2024-04-25 | 2024-09-23 |
 | [Out Of Control \- Pat Vocal Mix](https://open.spotify.com/track/6wCsrMyI3DavGvodBx8A7h) | [Lupe Fuentes](https://open.spotify.com/artist/1HMFleDucpe8cNSDlx1SY5) | [Out Of Control EP](https://open.spotify.com/album/65TpWWXPYc968zlU9DO94w) | 3:13 | 2021-03-06 | 2021-03-21 |
 | [Out Of This Town](https://open.spotify.com/track/5iFCdVNg0X6ElfYAsd7RiE) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Cam Meekins](https://open.spotify.com/artist/0wNuUG1alVKXEEiwEypprs) | [Out Of This Town](https://open.spotify.com/album/072aeFu5oAACx69asU07F4) | 3:15 | 2021-03-06 | 2021-10-14 |

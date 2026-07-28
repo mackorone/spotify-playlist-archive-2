@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 55365,
+  "num_followers": 55377,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAAit1/9/6Z/sZi/uG/miRuM",
+  "snapshot_id": "amVOAAAAAAAjDID0R9CtiYVSC8fY4qEa",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+        "name": "From Tokyo with Love",
+        "url": "https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 253400,
-      "name": "koi geba",
-      "url": "https://open.spotify.com/track/4Vvz2vcRqx8tYyl4QdOjoA"
+      "duration_ms": 217751,
+      "name": "TTTTOKYO",
+      "url": "https://open.spotify.com/track/1oVXwkGfDKJXnCkOlVwQez"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Tokyo with Love",
-        "url": "https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB"
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 217751,
-      "name": "TTTTOKYO",
-      "url": "https://open.spotify.com/track/1oVXwkGfDKJXnCkOlVwQez"
+      "duration_ms": 253400,
+      "name": "koi geba",
+      "url": "https://open.spotify.com/track/4Vvz2vcRqx8tYyl4QdOjoA"
     },
     {
       "added_at": null,
@@ -211,18 +211,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sailor, Sail On",
-        "url": "https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P"
+        "name": "\u653e\u751f\u4f1a",
+        "url": "https://open.spotify.com/album/37asoWjHlM134Da94j5kAc"
       },
       "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 248136,
-      "name": "Sailor, Sail On",
-      "url": "https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC"
+      "duration_ms": 183000,
+      "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
+      "url": "https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6"
     },
     {
       "added_at": null,
@@ -243,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u653e\u751f\u4f1a",
-        "url": "https://open.spotify.com/album/37asoWjHlM134Da94j5kAc"
+        "name": "Sailor, Sail On",
+        "url": "https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P"
       },
       "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        },
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 183000,
-      "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
-      "url": "https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6"
+      "duration_ms": 248136,
+      "name": "Sailor, Sail On",
+      "url": "https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "From Tokyo with Love",
+        "url": "https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 232360,
+      "name": "Take Me with You",
+      "url": "https://open.spotify.com/track/537nH5KmoBpj5sOGVzxVEa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HEAVYWEIGHT",
         "url": "https://open.spotify.com/album/5QKhO1oazf6uGVPM2jEV71"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go Wild / Miyao",
-        "url": "https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 164267,
-      "name": "Go Wild",
-      "url": "https://open.spotify.com/track/7k0S7glb0p9AX7jj4a6w0J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AG! Calling",
         "url": "https://open.spotify.com/album/1UpfO8bGeIFAqQTByuwonb"
       },
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Go Wild / Miyao",
+        "url": "https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 164267,
+      "name": "Go Wild",
+      "url": "https://open.spotify.com/track/7k0S7glb0p9AX7jj4a6w0J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "From Tokyo with Love",
         "url": "https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB"
       },
@@ -356,9 +372,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 232360,
-      "name": "Take Me with You",
-      "url": "https://open.spotify.com/track/537nH5KmoBpj5sOGVzxVEa"
+      "duration_ms": 213936,
+      "name": "Catch That Train",
+      "url": "https://open.spotify.com/track/2bAZynPxk8YwUivqasm4GD"
     },
     {
       "added_at": null,
@@ -420,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 213936,
-      "name": "Catch That Train",
-      "url": "https://open.spotify.com/track/2bAZynPxk8YwUivqasm4GD"
+      "duration_ms": 186516,
+      "name": "Waiting for Good Time",
+      "url": "https://open.spotify.com/track/24mnst2XQsRErPjhYekShL"
     },
     {
       "added_at": null,
@@ -463,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+        "name": "SNACKTIME",
+        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
       },
       "artists": [
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        },
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 251866,
-      "name": "amayo no seppun",
-      "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
+      "duration_ms": 165354,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN"
     },
     {
       "added_at": null,
@@ -515,18 +527,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNACKTIME",
-        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
       },
       "artists": [
         {
           "name": "ATARASHII GAKKO!",
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        },
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
         }
       ],
-      "duration_ms": 165354,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/61TJ4Gr1Erkmai1Y5R9XUN"
+      "duration_ms": 251866,
+      "name": "amayo no seppun",
+      "url": "https://open.spotify.com/track/6a8v2Mef7VdpFEpS04TSzM"
     },
     {
       "added_at": null,
@@ -560,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 186516,
-      "name": "Waiting for Good Time",
-      "url": "https://open.spotify.com/track/24mnst2XQsRErPjhYekShL"
+      "duration_ms": 158538,
+      "name": "Kore de E",
+      "url": "https://open.spotify.com/track/1k8tCq3v7ixPBTzgSHKMu3"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
       "duration_ms": 221676,
       "name": "HANAKO",
       "url": "https://open.spotify.com/track/6Eu4wGgfcXwiVxu6FSmJ2K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Tokyo with Love",
-        "url": "https://open.spotify.com/album/67RBmns85bU6kicPfb7fwB"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 158538,
-      "name": "Kore de E",
-      "url": "https://open.spotify.com/track/1k8tCq3v7ixPBTzgSHKMu3"
     },
     {
       "added_at": null,

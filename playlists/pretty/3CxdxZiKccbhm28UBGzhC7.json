@@ -6,7 +6,7 @@
     "name": "Evan",
     "url": "https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l"
   },
-  "snapshot_id": "AAAA7k1Xyc/Yg2554ybxgTHu1gTGHP0a",
+  "snapshot_id": "AAAA74sRnNEnh/9UnCPJFE1bsxx1q0Aw",
   "tracks": [
     {
       "added_at": "2021-12-01 17:59:34",
@@ -2075,6 +2075,22 @@
       "duration_ms": 108733,
       "name": "God! Show Me Magic",
       "url": "https://open.spotify.com/track/6iIE1l1QopHXcDTfbLE9oI"
+    },
+    {
+      "added_at": "2026-07-27 21:33:12",
+      "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/4w3NeXtywU398NYW4903rY"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 352453,
+      "name": "Song For The Dead",
+      "url": "https://open.spotify.com/track/37gG4GPeTRPKKdXYx3zTRC"
     }
   ],
   "unique_name": "white girl indie",

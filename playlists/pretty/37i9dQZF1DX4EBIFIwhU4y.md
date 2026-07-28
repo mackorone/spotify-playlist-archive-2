@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EBIFIwhU4y.md) - [plain]
 
 > This is a normal day playlist with SUGA\. Vote for the NORMAL day song that best suits SUGA! Then, the NORMAL Day BTS playlist will be complete!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,373 likes - 20 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,422 likes - 20 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

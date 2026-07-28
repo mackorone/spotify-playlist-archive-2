@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di G.Mineiro, Glocky, Vaz Tè, Lele Blade e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,903 likes - 102 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,897 likes - 102 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Individualista Visionario](https://open.spotify.com/track/0hYlJHHVPgzKjRuZrV4ohs) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/7y1QKfqQApaYcwwMRV6KGH) | 1:34 |
+| 1 | [INDIVIDUALISTA VISIONARIO](https://open.spotify.com/track/0hYlJHHVPgzKjRuZrV4ohs) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/7y1QKfqQApaYcwwMRV6KGH) | 1:34 |
 | 2 | [Si o No .](https://open.spotify.com/track/1OiRlWD3XstCy7biUybzt0) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [FREESTYLE](https://open.spotify.com/album/5mC5671gyxFUnJVLq8RhPm) | 3:11 |
 | 3 | [010](https://open.spotify.com/track/6HYB2Tlz9NgU4W0I9Ywl6F) | [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY) | [010](https://open.spotify.com/album/1xPy8n9abOSsCJm4NDPdzf) | 2:14 |
 | 4 | [A ROT GIR](https://open.spotify.com/track/3twNLjZOcirgWcvGyFLpwL) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Dele](https://open.spotify.com/artist/58bdmuoVnCLzq3gqATaLLB), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [A ROT GIR](https://open.spotify.com/album/5w2hY4S6123K7xE3tEHWNw) | 2:11 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
-  "num_followers": 99113,
+  "num_followers": 99142,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAABr+7gP3e3LYNZzGmmbKskM",
+  "snapshot_id": "amVOAAAAAADg42t5zi8Ux/dhNwi+q1gx",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La 701",
-        "url": "https://open.spotify.com/album/00lwONC16IRZSXe2CBNDFr"
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 180101,
-      "name": "La 701",
-      "url": "https://open.spotify.com/track/5o6QIe2OCatBibTsNCZNoq"
+      "duration_ms": 168552,
+      "name": "Hay Unos Ojos - En Vivo",
+      "url": "https://open.spotify.com/track/5XYqS4FF4WSfyhiGvn1dkh"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/4MlTW5nN0Ao1cPqudPiCnE"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "Hay Unos Ojos - En Vivo",
-      "url": "https://open.spotify.com/track/5XYqS4FF4WSfyhiGvn1dkh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TRAVES\u00cdA",
         "url": "https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 140876,
       "name": "Colombiana",
       "url": "https://open.spotify.com/track/039aOHBd1WzJdbN2RVVNAG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La 701",
+        "url": "https://open.spotify.com/album/00lwONC16IRZSXe2CBNDFr"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180101,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/5o6QIe2OCatBibTsNCZNoq"
     },
     {
       "added_at": null,

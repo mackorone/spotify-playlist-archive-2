@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cx0q5Jn2vp.md) - [plain]
 
 > <3<3<3<3
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,834 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,708 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Certified Lover Girl](https://open.spotify.com/track/5YEkMWE1gDq8NJm0ZpRy22) | [H3rizon](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Certified Lover Girl](https://open.spotify.com/album/2dHmPBAdAem0jne9czNYWz) | 3:11 |
+| 1 | [Certified Lover Girl](https://open.spotify.com/track/5YEkMWE1gDq8NJm0ZpRy22) | [H3RIZON](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Certified Lover Girl](https://open.spotify.com/album/2dHmPBAdAem0jne9czNYWz) | 3:11 |
 | 2 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 3 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 4 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |

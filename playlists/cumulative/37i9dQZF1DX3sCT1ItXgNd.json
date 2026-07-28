@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Juan Mag\u00e1n, Maikel Delacalle.",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena, Lola Indigo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -144,6 +144,28 @@
       "duration_ms": 210000,
       "name": "19 de Abril",
       "url": "https://open.spotify.com/track/5fA5pGOXQRW8JBqSz9ssVW"
+    },
+    {
+      "album": {
+        "name": "21 de enero",
+        "url": "https://open.spotify.com/album/75Rwbds79sTzF4BLxH5stI"
+      },
+      "artists": [
+        {
+          "name": "Ana Farelo",
+          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
+        },
+        {
+          "name": "M\u00eda Berl\u00edn",
+          "url": "https://open.spotify.com/artist/6pHlNGKW4LocYmaU9DFVTX"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "21 de enero",
+      "url": "https://open.spotify.com/track/6bN2gia9DIeUImuOuQDwH8"
     },
     {
       "album": {
@@ -604,7 +626,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 207310,
       "name": "Agarra mi mano",
       "url": "https://open.spotify.com/track/5YE1gftd3Bf8kQSp8eksZm"
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 152000,
       "name": "Amor Real",
       "url": "https://open.spotify.com/track/3Usg5iaA0EJH5l4QwXOUXD"
@@ -3006,7 +3028,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 166867,
       "name": "como un im\u00e1n",
       "url": "https://open.spotify.com/track/1WH1IXd0XeuubBL7BtC0b0"
@@ -6930,7 +6952,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 217435,
       "name": "g3lato y f3sta",
       "url": "https://open.spotify.com/track/1uoBNm35D05k09aIJ4aSxN"
@@ -7266,6 +7288,28 @@
       "duration_ms": 180881,
       "name": "HASTA QUE ME ENAMORO",
       "url": "https://open.spotify.com/track/1x2NX2wwyb47DINKGe314l"
+    },
+    {
+      "album": {
+        "name": "Hay Hombres y Mujeres",
+        "url": "https://open.spotify.com/album/1dRHoYMquoz5whykUxHCW7"
+      },
+      "artists": [
+        {
+          "name": "MELER",
+          "url": "https://open.spotify.com/artist/6Gc7QYqGBo1f1KtZJtJHda"
+        },
+        {
+          "name": "Neva",
+          "url": "https://open.spotify.com/artist/07rUqT6UZM6mOPZEiwcASC"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176797,
+      "name": "Hay Hombres y Mujeres",
+      "url": "https://open.spotify.com/track/3D3w309Wupp5WlubM2f7sS"
     },
     {
       "album": {
@@ -7716,7 +7760,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 177062,
       "name": "Isla Bonita",
       "url": "https://open.spotify.com/track/67m0xwFa4Yl81RJ645Bouh"
@@ -13173,6 +13217,24 @@
     },
     {
       "album": {
+        "name": "Pa\u2019 Que Te Acostumbres",
+        "url": "https://open.spotify.com/album/6fWh6v8V9JdpAVpVRnp8iZ"
+      },
+      "artists": [
+        {
+          "name": "Gynebra",
+          "url": "https://open.spotify.com/artist/0YHoxAOvaw3jWmqv8SzZih"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119280,
+      "name": "Pa\u2019 Que Te Acostumbres",
+      "url": "https://open.spotify.com/track/4n4d6ItnzWSHtYJ4RI9TYh"
+    },
+    {
+      "album": {
         "name": "Pa\u2019 Qu\u00e9 Volviste?",
         "url": "https://open.spotify.com/album/4XaqqBH97CiSaqizhTViur"
       },
@@ -14042,6 +14104,24 @@
       "duration_ms": 166406,
       "name": "princess peach",
       "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+    },
+    {
+      "album": {
+        "name": "principiante",
+        "url": "https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU"
+      },
+      "artists": [
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "principiante",
+      "url": "https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM"
     },
     {
       "album": {
@@ -15943,6 +16023,24 @@
     },
     {
       "album": {
+        "name": "sobrenatural",
+        "url": "https://open.spotify.com/album/3ODZs4l30LVhxwOd2DEJJz"
+      },
+      "artists": [
+        {
+          "name": "Alex Wall",
+          "url": "https://open.spotify.com/artist/4ea330FfNhtiTABdSJZthp"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181144,
+      "name": "sobrenatural",
+      "url": "https://open.spotify.com/track/0UvSZRwN53DyDoHaOZZLBg"
+    },
+    {
+      "album": {
         "name": "Sobreviviste",
         "url": "https://open.spotify.com/album/1TpmuLGyFw9tVtuBIt7t6u"
       },
@@ -16978,7 +17076,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 154088,
       "name": "Tiempos bonitos",
       "url": "https://open.spotify.com/track/258hs8zltfhkeItvntuQQp"
@@ -17254,6 +17352,24 @@
       "duration_ms": 248127,
       "name": "Todos Estamos Bailando La Misma Canci\u00f3n",
       "url": "https://open.spotify.com/track/6j23hE057HmBxUErUjoEt9"
+    },
+    {
+      "album": {
+        "name": "TODOS PARA M\u00cd",
+        "url": "https://open.spotify.com/album/44mied7cj0F8JwQWcELxLF"
+      },
+      "artists": [
+        {
+          "name": "DENNA",
+          "url": "https://open.spotify.com/artist/0giXcUshXQbUZmiKFMlHEs"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151370,
+      "name": "TODOS PARA M\u00cd",
+      "url": "https://open.spotify.com/track/1bPG1Xak40krijTcKNNrO1"
     },
     {
       "album": {
@@ -17622,6 +17738,28 @@
       "duration_ms": 235150,
       "name": "TUS INICIALES",
       "url": "https://open.spotify.com/track/3odYzp9kA4Iai3eEuLi0v3"
+    },
+    {
+      "album": {
+        "name": "Tutu Tur\u00fa",
+        "url": "https://open.spotify.com/album/0hosGQBPOxpeyYHTtENNVd"
+      },
+      "artists": [
+        {
+          "name": "Siderland",
+          "url": "https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru"
+        },
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184172,
+      "name": "Tutu Tur\u00fa",
+      "url": "https://open.spotify.com/track/5BXxvB6TURHXVKektslnJd"
     },
     {
       "album": {
@@ -18818,7 +18956,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 193679,
       "name": "Y te olvidaste (feat. Alvaro Diaz)",
       "url": "https://open.spotify.com/track/0682TWsQ7kK1XP6rBLCsG6"

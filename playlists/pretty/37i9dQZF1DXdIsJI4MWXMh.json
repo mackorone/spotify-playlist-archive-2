@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 81781,
+  "num_followers": 81794,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Estoy Con Otro en la Cama",
-        "url": "https://open.spotify.com/album/7xECaOAPUu81Mz8AQCgwY1"
-      },
-      "artists": [
-        {
-          "name": "Las Patronas de Chile",
-          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
-        }
-      ],
-      "duration_ms": 199140,
-      "name": "Estoy Con Otro en la Cama",
-      "url": "https://open.spotify.com/track/5LOhedbcSswrPBsfMpRGnN"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Palomita de Alas Blancas",
         "url": "https://open.spotify.com/album/3ntXjITCrt7BlOgTVith78"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 115466,
       "name": "Palomita de Alas Blancas",
       "url": "https://open.spotify.com/track/3Zh8ZpBFRe8OBSNdxTY4VG"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Estoy Con Otro en la Cama",
+        "url": "https://open.spotify.com/album/7xECaOAPUu81Mz8AQCgwY1"
+      },
+      "artists": [
+        {
+          "name": "Las Patronas de Chile",
+          "url": "https://open.spotify.com/artist/08a5CYvnnoJmAw6fy2fFLk"
+        }
+      ],
+      "duration_ms": 199140,
+      "name": "Estoy Con Otro en la Cama",
+      "url": "https://open.spotify.com/track/5LOhedbcSswrPBsfMpRGnN"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
+        "name": "Los Mandados",
+        "url": "https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw"
+      },
+      "artists": [
+        {
+          "name": "Alexia Lillo",
+          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+        }
+      ],
+      "duration_ms": 197110,
+      "name": "Los Mandados",
+      "url": "https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
         "name": "La Micaela",
         "url": "https://open.spotify.com/album/63JxxwL5j49odPATTA2PPT"
       },
@@ -1487,18 +1503,18 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Los Mandados",
-        "url": "https://open.spotify.com/album/0DKgDIESuYHyMCRtoPrSjw"
+        "name": "Corridos de Rancho",
+        "url": "https://open.spotify.com/album/56gfVFY5SibVSqOBWigNc0"
       },
       "artists": [
         {
-          "name": "Alexia Lillo",
-          "url": "https://open.spotify.com/artist/0kCPdfcspHbuEplkmEGBgU"
+          "name": "Los Prisioneros del Sur",
+          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
         }
       ],
-      "duration_ms": 197110,
-      "name": "Los Mandados",
-      "url": "https://open.spotify.com/track/0Lwi83xdc4c31ACSrezAqT"
+      "duration_ms": 246325,
+      "name": "Elenita",
+      "url": "https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1519,22 +1535,6 @@
       "duration_ms": 196862,
       "name": "Tu Amor Barato",
       "url": "https://open.spotify.com/track/4aqFAEwxpD3UFFjZUXNIOx"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
-        "name": "Corridos de Rancho",
-        "url": "https://open.spotify.com/album/56gfVFY5SibVSqOBWigNc0"
-      },
-      "artists": [
-        {
-          "name": "Los Prisioneros del Sur",
-          "url": "https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw"
-        }
-      ],
-      "duration_ms": 246325,
-      "name": "Elenita",
-      "url": "https://open.spotify.com/track/2zGqdm3UcCjy1crKuCVoDI"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Vivo en Tinieblas",
-        "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
-      },
-      "artists": [
-        {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
-        }
-      ],
-      "duration_ms": 226727,
-      "name": "Vivo en Tinieblas",
-      "url": "https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "El Solovino",
         "url": "https://open.spotify.com/album/39XXGFyiyzZMo3fbj1jnbV"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 169012,
       "name": "En las Cantinas",
       "url": "https://open.spotify.com/track/119sdfjLdMUYwDenaxhcjF"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Vivo en Tinieblas",
+        "url": "https://open.spotify.com/album/6ixTedoHSZlAvXdoGqxjCZ"
+      },
+      "artists": [
+        {
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+        }
+      ],
+      "duration_ms": 226727,
+      "name": "Vivo en Tinieblas",
+      "url": "https://open.spotify.com/track/7gsqaAQnw82QZAkTWVc8Dt"
     },
     {
       "added_at": "2026-02-19 20:52:53",

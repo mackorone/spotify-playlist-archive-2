@@ -558,7 +558,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 216000,
       "name": "Angels and Demons",
       "url": "https://open.spotify.com/track/3YdXRS9Mecl4G97R11yTkl"
@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 249285,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/3gMbmefKN6mgl9pwyaAoCV"
@@ -2995,6 +2995,24 @@
     },
     {
       "album": {
+        "name": "Drag Me to Hell",
+        "url": "https://open.spotify.com/album/0clxsNKWKCHSVntFn0eWkc"
+      },
+      "artists": [
+        {
+          "name": "VINTERGRAV",
+          "url": "https://open.spotify.com/artist/0IYU8yHsIGv0JHIgs8rTle"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306375,
+      "name": "Drag Me to Hell",
+      "url": "https://open.spotify.com/track/0OgHz5cn4QUTzqW9FHEHvj"
+    },
+    {
+      "album": {
         "name": "Drag Me Under",
         "url": "https://open.spotify.com/album/7v3OyvUHveikvfZr24lvRB"
       },
@@ -3312,7 +3330,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 497500,
       "name": "Ecos do Passado",
       "url": "https://open.spotify.com/track/37PZySszRFWvAPXpz8FE11"
@@ -4768,7 +4786,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 253909,
       "name": "Genom sm\u00e4rta",
       "url": "https://open.spotify.com/track/79OhJsAo6NtdoFPB4f0wnH"
@@ -6146,7 +6164,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 167285,
       "name": "Iron Line",
       "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
@@ -7006,7 +7024,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-21",
+      "date_removed": null,
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -8374,7 +8392,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -8468,7 +8486,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 171428,
       "name": "Neskaries, neapdedzinies",
       "url": "https://open.spotify.com/track/3BojUaC5hi4R7SZCmLRaml"
@@ -8822,7 +8840,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -8916,7 +8934,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 287800,
       "name": "N\u00e1tthagi",
       "url": "https://open.spotify.com/track/5CqFBcZyQGu2EfUGAUvfWa"
@@ -11502,7 +11520,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 270000,
       "name": "Spiral of the One",
       "url": "https://open.spotify.com/track/6GNiOmyqRA2RUNpcbIS5RF"
@@ -14088,7 +14106,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 212741,
       "name": "Veisla hertogans",
       "url": "https://open.spotify.com/track/5EKwK0SjNxxTAIOIUGdsGJ"
@@ -15264,7 +15282,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Your way only looks better from your side",
       "url": "https://open.spotify.com/track/6UuRP24v7QsGid9g0znh46"

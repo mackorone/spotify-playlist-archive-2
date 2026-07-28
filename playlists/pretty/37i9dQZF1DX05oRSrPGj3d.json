@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 290454,
+  "num_followers": 290475,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "My Heroes Have Always Been Cowboys",
-      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "The Blue Light Live",
         "url": "https://open.spotify.com/album/32kw0Q3HsL4Wv1xYlryLL5"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 275106,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/5XlN58Ay3R3cE7P7c9XjaC"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/3YD1UC4LwnmtJoJMxrWWKx"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 176826,
-      "name": "Delta Dawn",
-      "url": "https://open.spotify.com/track/26O47HvtANzG1c2Uv6eW5H"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "I Got the Guns",
         "url": "https://open.spotify.com/album/5EdH9V1WdL9hRKEqHKiD4N"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 230746,
       "name": "Love",
       "url": "https://open.spotify.com/track/0cif0x9Pl03qzN02YiwCzm"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/3YD1UC4LwnmtJoJMxrWWKx"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/26O47HvtANzG1c2Uv6eW5H"
     },
     {
       "added_at": "2026-02-11 22:47:27",

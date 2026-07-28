@@ -1,6 +1,6 @@
 {
   "description": "Music for enjoying your space",
-  "num_followers": 59343,
+  "num_followers": 59347,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
+        "name": "SO GOOD (ft. Simone Ashley)",
+        "url": "https://open.spotify.com/album/3k5pLFKcTX8VbxuC4YTNB6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        },
+        {
+          "name": "Simone Ashley",
+          "url": "https://open.spotify.com/artist/4pPJVe0DnEat9EC8L0mzZ0"
+        }
+      ],
+      "duration_ms": 136533,
+      "name": "SO GOOD (ft. Simone Ashley)",
+      "url": "https://open.spotify.com/track/0aEvKe7Am20nBkT6MzcNRR"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
         "name": "juliet",
         "url": "https://open.spotify.com/album/5xDgBZvS8EFi4kh4jKcpP9"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 187910,
       "name": "juliet",
       "url": "https://open.spotify.com/track/20QpnulmuflvwCjXnDW8I2"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
-        "name": "SO GOOD (ft. Simone Ashley)",
-        "url": "https://open.spotify.com/album/3k5pLFKcTX8VbxuC4YTNB6"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        },
-        {
-          "name": "Simone Ashley",
-          "url": "https://open.spotify.com/artist/4pPJVe0DnEat9EC8L0mzZ0"
-        }
-      ],
-      "duration_ms": 136533,
-      "name": "SO GOOD (ft. Simone Ashley)",
-      "url": "https://open.spotify.com/track/0aEvKe7Am20nBkT6MzcNRR"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "On Wires",
-        "url": "https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 202989,
-      "name": "On Wires",
-      "url": "https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
         "name": "Not At This Party",
         "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 217440,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
+        "name": "On Wires",
+        "url": "https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 202989,
+      "name": "On Wires",
+      "url": "https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "Sweet Fortune",
-        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 264837,
-      "name": "White Lightning",
-      "url": "https://open.spotify.com/track/3K6GgBsxAcSc9bG1kWoaRh"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 155563,
       "name": "Genius",
       "url": "https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
+        "name": "Sweet Fortune",
+        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 264837,
+      "name": "White Lightning",
+      "url": "https://open.spotify.com/track/3K6GgBsxAcSc9bG1kWoaRh"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
+        "name": "Bittersweet Escape",
+        "url": "https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 167860,
+      "name": "Bittersweet Escape",
+      "url": "https://open.spotify.com/track/7m048jBthqhBF62d67E1kM"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
         "name": "What It Gave Me",
         "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 215307,
       "name": "French Riviera",
       "url": "https://open.spotify.com/track/1narRB8YDs0h77LwNvCDPv"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
-        "name": "Bittersweet Escape",
-        "url": "https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 167860,
-      "name": "Bittersweet Escape",
-      "url": "https://open.spotify.com/track/7m048jBthqhBF62d67E1kM"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "Hug",
-        "url": "https://open.spotify.com/album/30B9lQxsP8u8lbUp6hBNNJ"
+        "name": "Life 2",
+        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
       },
       "artists": [
         {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
         }
       ],
-      "duration_ms": 133253,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/0fNwos4bmDKOuPS2ldALiU"
+      "duration_ms": 203157,
+      "name": "Life 2",
+      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "Life 2",
-        "url": "https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e"
+        "name": "Hug",
+        "url": "https://open.spotify.com/album/30B9lQxsP8u8lbUp6hBNNJ"
       },
       "artists": [
         {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
         }
       ],
-      "duration_ms": 203157,
-      "name": "Life 2",
-      "url": "https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da"
+      "duration_ms": 133253,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/0fNwos4bmDKOuPS2ldALiU"
     },
     {
       "added_at": "2026-07-10 00:00:27",

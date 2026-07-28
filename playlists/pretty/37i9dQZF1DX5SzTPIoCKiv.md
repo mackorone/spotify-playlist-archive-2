@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent hits from your favorite Christian Contemporary artists\.  Cover: Megan Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 854,821 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,897 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 49 | [Find You](https://open.spotify.com/track/3YziXpvMKC74a9bVF7EDsY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Find You](https://open.spotify.com/album/6xCw4dK6PgNA26EEux2Phu) | 2:42 |
 | 50 | [My Hope Is Jesus](https://open.spotify.com/track/3Wqc6im6bBdgm1ppqPKRbr) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [My Hope Is Jesus](https://open.spotify.com/album/0suKwr6W4OBe14hvXCTFpS) | 4:02 |
 
-Snapshot ID: `AAAAAN/prSISAivmqC/mPXAE4MDsS//b`
+Snapshot ID: `AAAAAMI7HFM9mwLFeeJd3OTi4+XcHs2y`

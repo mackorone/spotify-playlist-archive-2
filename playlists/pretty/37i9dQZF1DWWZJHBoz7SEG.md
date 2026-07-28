@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Pongamonos sentimentales con las novedades de esta semana, Eden Muñoz y Alfredito Olivas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,298 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,271 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 22 | [Lonely in the Future](https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 3:20 |
 | 23 | [Mala de Profesión](https://open.spotify.com/track/0tYD7s7exvZsdmbLkzJgqa) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mala de Profesión](https://open.spotify.com/album/74iUSIdgl8rOh9YJjKrC58) | 2:59 |
 | 24 | [Fireflies](https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Fireflies](https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23) | 4:23 |
-| 25 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:27 |
+| 25 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:00 |
 | 26 | [Nomás Los Recuerdos](https://open.spotify.com/track/4qtP8dH4jt8lywfgfDuNVQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Nomás Los Recuerdos](https://open.spotify.com/album/6T6sBfhpBEkxRQ6Va0YUIs) | 3:24 |
 | 27 | [Q.E.P.D.](https://open.spotify.com/track/7LLea7R47xKkYpFU2af7Ie) | [Christian Ponce](https://open.spotify.com/artist/4Xhe8s10yLiuTzG7k1Kq4W), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o), [Fronti](https://open.spotify.com/artist/6NAPpG5ZvPRTe239T3LElr) | [Q.E.P.D.](https://open.spotify.com/album/60obrehwYp2YlLNl2TIF9N) | 5:42 |
 | 28 | [Tell Me](https://open.spotify.com/track/6iXIvHGsLMJ89TuW1S9E3C) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Tell Me](https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz) | 2:40 |

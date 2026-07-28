@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375859,
+  "num_followers": 375868,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAACjOzqedvGUmgjigiNa9pqA",
+  "snapshot_id": "amVOAAAAAAAtI5uHmeHwtbdE8QsFwyO5",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 208408,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/6a44RET0b0enJMb5PVQlr8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All 'N All",
         "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 262748,
       "name": "Love's Holiday",
       "url": "https://open.spotify.com/track/2Am4TMJcqfQtr79278nZjj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 208408,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/6a44RET0b0enJMb5PVQlr8"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Open Our Eyes",
-        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 290005,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All 'N All",
         "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 230674,
       "name": "Serpentine Fire",
       "url": "https://open.spotify.com/track/0KDc8l4VNTu6OkMYK9D7HC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Open Our Eyes",
+        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 290005,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Head To The Sky",
-        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 311002,
-      "name": "Keep Your Head to the Sky",
-      "url": "https://open.spotify.com/track/0iPy1MWCrOT7SjGs14zSSv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All 'N All",
         "url": "https://open.spotify.com/album/0w0eT42Gyq6G9yXB0RirWh"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 80760,
       "name": "Beijo (Interlude)",
       "url": "https://open.spotify.com/track/2RaN7kGPxuT3wvpdw9dyND"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Head To The Sky",
+        "url": "https://open.spotify.com/album/01c1PLpIdfwy47yid7GqKB"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 311002,
+      "name": "Keep Your Head to the Sky",
+      "url": "https://open.spotify.com/track/0iPy1MWCrOT7SjGs14zSSv"
     },
     {
       "added_at": null,

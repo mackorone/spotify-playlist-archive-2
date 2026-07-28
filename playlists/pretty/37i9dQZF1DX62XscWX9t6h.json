@@ -1,6 +1,6 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 225821,
+  "num_followers": 225866,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
+        "name": "Elegancia Tropical",
+        "url": "https://open.spotify.com/album/3hmKL47fvTuB0pDQP45aY4"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 301173,
+      "name": "El Alma y el Cuerpo",
+      "url": "https://open.spotify.com/track/5a8xzrQxVNRrQbgkzYCkTb"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
         "name": "Amatssou",
         "url": "https://open.spotify.com/album/6midUauH9WLxQllqEAvqhM"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 211533,
       "name": "Kek Alghalm",
       "url": "https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
-        "name": "Elegancia Tropical",
-        "url": "https://open.spotify.com/album/3hmKL47fvTuB0pDQP45aY4"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 301173,
-      "name": "El Alma y el Cuerpo",
-      "url": "https://open.spotify.com/track/5a8xzrQxVNRrQbgkzYCkTb"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -419,22 +419,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Aman Iman: Water Is Life",
-        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 267533,
-      "name": "Cler Achel",
-      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
         "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 479546,
       "name": "Atomic Bomb",
       "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Aman Iman: Water Is Life",
+        "url": "https://open.spotify.com/album/2kV0ipibYRkAjrcxCd1Co0"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 267533,
+      "name": "Cler Achel",
+      "url": "https://open.spotify.com/track/1sXLitmQULzwiWR8D38Ekw"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "The Trip",
-        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
-      },
-      "artists": [
-        {
-          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
-          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "The Trip",
-      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "TANDEM",
         "url": "https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 174882,
       "name": "PERLA",
       "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "The Trip",
+        "url": "https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ"
+      },
+      "artists": [
+        {
+          "name": "Derya Y\u0131ld\u0131r\u0131m & Grup \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT"
+        }
+      ],
+      "duration_ms": 257972,
+      "name": "The Trip",
+      "url": "https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
-        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
-      },
-      "artists": [
-        {
-          "name": "Dur-Dur Band",
-          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
-        }
-      ],
-      "duration_ms": 357480,
-      "name": "Yabaal",
-      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Could We Be More Remixes",
         "url": "https://open.spotify.com/album/1lLEKH0KEbDDW6Wgw4EEDA"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 189480,
       "name": "Home (anaiis Remix)",
       "url": "https://open.spotify.com/track/2baU4gZ7YltWBxO5kveHCK"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
+        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
+      },
+      "artists": [
+        {
+          "name": "Dur-Dur Band",
+          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+        }
+      ],
+      "duration_ms": 357480,
+      "name": "Yabaal",
+      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Harumi",
-        "url": "https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi"
-      },
-      "artists": [
-        {
-          "name": "Harumi",
-          "url": "https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Fire By The River",
-      "url": "https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Gur\u00fa",
         "url": "https://open.spotify.com/album/4oLp2nNArfwJ0JsMT3eHMq"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 218360,
       "name": "Totomami",
       "url": "https://open.spotify.com/track/1H5TTRStrhzQW3w0LpqhVU"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Harumi",
+        "url": "https://open.spotify.com/album/6OTWrVumdh9JL7ReKtlPMi"
+      },
+      "artists": [
+        {
+          "name": "Harumi",
+          "url": "https://open.spotify.com/artist/4ultVGMWqvHvwRHnogpymO"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Fire By The River",
+      "url": "https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Unconscious Collective",
-        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
-      },
-      "artists": [
-        {
-          "name": "PS5",
-          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
-        }
-      ],
-      "duration_ms": 353965,
-      "name": "Makeda",
-      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Khun Narin's Electric Phin Band",
         "url": "https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Unconscious Collective",
+        "url": "https://open.spotify.com/album/3IVOpoj5MwZ3TE2iWM0FNL"
+      },
+      "artists": [
+        {
+          "name": "PS5",
+          "url": "https://open.spotify.com/artist/7nFGSs3Km6Li7tJocJbLdO"
+        }
+      ],
+      "duration_ms": 353965,
+      "name": "Makeda",
+      "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
     },
     {
       "added_at": "2025-09-02 19:54:46",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-09-02 19:54:46",
       "album": {
-        "name": "Junchuch",
-        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
-      },
-      "artists": [
-        {
-          "name": "Tunkuy",
-          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
-        }
-      ],
-      "duration_ms": 276800,
-      "name": "Junchuch",
-      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
-    },
-    {
-      "added_at": "2025-09-02 19:54:46",
-      "album": {
         "name": "Fiat Lux",
         "url": "https://open.spotify.com/album/4hjKxlkH171FW6UmzpOD36"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 242500,
       "name": "El su\u00efcidi i el cant",
       "url": "https://open.spotify.com/track/7GquvFJQ0RKEOgH6uNAhkU"
+    },
+    {
+      "added_at": "2025-09-02 19:54:46",
+      "album": {
+        "name": "Junchuch",
+        "url": "https://open.spotify.com/album/5RYTRBOAJE7KlDb1cJ0bBY"
+      },
+      "artists": [
+        {
+          "name": "Tunkuy",
+          "url": "https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0"
+        }
+      ],
+      "duration_ms": 276800,
+      "name": "Junchuch",
+      "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
     },
     {
       "added_at": "2025-09-02 19:54:46",

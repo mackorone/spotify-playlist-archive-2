@@ -4599,6 +4599,24 @@
     },
     {
       "album": {
+        "name": "Mem\u00f3rias P\u00f3stumas",
+        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221134,
+      "name": "Catedral",
+      "url": "https://open.spotify.com/track/3mzJgriFYY654vVhzwCepw"
+    },
+    {
+      "album": {
         "name": "Cavalo de Troia",
         "url": "https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J"
       },

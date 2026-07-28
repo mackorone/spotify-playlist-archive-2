@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: Sunship",
-  "num_followers": 686360,
+  "num_followers": 686452,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-03-11 09:40:56",
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/3084CrngEXCmjpox0sNJqS"
+      },
+      "artists": [
+        {
+          "name": "Mis-Teeq",
+          "url": "https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn"
+        }
+      ],
+      "duration_ms": 200906,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/4KVqDHIZYuAk7CObeTlYSU"
+    },
+    {
+      "added_at": "2026-03-11 09:40:56",
+      "album": {
         "name": "Girls Like Us",
         "url": "https://open.spotify.com/album/2hmf2BtDupXSYz3TbXq2be"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 356106,
       "name": "Girls Like Us - Radio Edit",
       "url": "https://open.spotify.com/track/2OiFLUUvtJg03Zh2xr7HOU"
-    },
-    {
-      "added_at": "2026-03-11 09:40:56",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/3084CrngEXCmjpox0sNJqS"
-      },
-      "artists": [
-        {
-          "name": "Mis-Teeq",
-          "url": "https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn"
-        }
-      ],
-      "duration_ms": 200906,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/4KVqDHIZYuAk7CObeTlYSU"
     },
     {
       "added_at": "2026-03-11 09:40:56",

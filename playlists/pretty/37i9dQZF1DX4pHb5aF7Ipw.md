@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Sardara, Dhaliwal, Yung Delic and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,804 likes - 74 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,815 likes - 74 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 497887,
+  "num_followers": 497892,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAAgznl/tal2/PyterGAcsXi",
+  "snapshot_id": "amVOAAAAAACe9r9j7RkfSoYIH+6AA446",
   "tracks": [
     {
       "added_at": null,
@@ -799,22 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
       },
       "artists": [
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         },
         {
-          "name": "Jamie Foxx",
-          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 155277,
-      "name": "She Feelin Nice",
-      "url": "https://open.spotify.com/track/2xK83yJoJob1HLJ6brDtef"
+      "duration_ms": 269248,
+      "name": "Light It Up (feat. Pop Smoke)",
+      "url": "https://open.spotify.com/track/5rIjbX7rQMj8Gh9Oxd4Vrc"
     },
     {
       "added_at": null,
@@ -863,22 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
       },
       "artists": [
         {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         }
       ],
-      "duration_ms": 269248,
-      "name": "Light It Up (feat. Pop Smoke)",
-      "url": "https://open.spotify.com/track/5rIjbX7rQMj8Gh9Oxd4Vrc"
+      "duration_ms": 155277,
+      "name": "She Feelin Nice",
+      "url": "https://open.spotify.com/track/2xK83yJoJob1HLJ6brDtef"
     },
     {
       "added_at": null,

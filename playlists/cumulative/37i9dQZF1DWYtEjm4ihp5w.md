@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: 7ari
+> Cover: Dizzy DROS
 
 539 songs - 1 day 3 hr 56 min
 

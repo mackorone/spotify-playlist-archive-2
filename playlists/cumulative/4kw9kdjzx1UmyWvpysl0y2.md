@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,274 songs - 2 day 22 hr 42 min
+1,275 songs - 2 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1241,6 +1241,7 @@
 | [Where Does The Light Go](https://open.spotify.com/track/1ISIClvWD9oMrOL5BLBoal) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [Holochrome](https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ) | [Where Does The Light Go](https://open.spotify.com/album/10fHBAh5NqGghBoiBGTiz3) | 3:42 | 2024-01-23 | 2024-04-12 |
 | [Where My Heart Is](https://open.spotify.com/track/3DEs5CDPtlpBx0NelrxXTE) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Where My Heart Is / Time Is On Our Side](https://open.spotify.com/album/0aiSLg8rZBW1fJWZzzLV6j) | 3:26 | 2025-02-13 | 2025-05-08 |
 | [Wherever You Go](https://open.spotify.com/track/3azfPD8DGtZRjcYNjPA8HR) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ) | [Wherever You Go](https://open.spotify.com/album/0keuvwVV0uuUmaMZX9C6o6) | 4:27 | 2023-07-17 | 2023-12-14 |
+| [Whiplash](https://open.spotify.com/track/6nRw81vRRVM2cuU0yB08q3) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Whiplash](https://open.spotify.com/album/5Kvs6QtVAMvmrAaOdkvZY4) | 2:34 | 2026-07-27 |  |
 | [White Lie](https://open.spotify.com/track/05W5WSaPyW5GCiNY5gOuyH) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [White Lie](https://open.spotify.com/album/6g3FQBSHayd37yO3a77AIH) | 3:18 | 2023-11-16 | 2024-02-29 |
 | [Who Knew](https://open.spotify.com/track/7cXmJP7TDbzzf9ONkSOhtt) | [Jay Mark](https://open.spotify.com/artist/2Rbank5DKhxfNuUmlszjX6), [Livvy Lauren](https://open.spotify.com/artist/7H525GcgGfiktDgxDHGcX1) | [Who Knew](https://open.spotify.com/album/4F2I2ZBLo2ncuhMIA1Dlr2) | 2:41 | 2026-05-14 |  |
 | [who we are](https://open.spotify.com/track/6oYZHydjksy35AkbxIu3eZ) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 1](https://open.spotify.com/album/2ZYx16Jx0qzuMfBbZPojrA) | 2:45 | 2022-11-19 | 2022-11-22 |

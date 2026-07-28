@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Asco, Fredo
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,311 likes - 46 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,306 likes - 46 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 27 | [CA$H](https://open.spotify.com/track/4GLvLbQQoPEQffHefaMR7j) | [Josi](https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4), [Tkandz](https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO) | [CA$H](https://open.spotify.com/album/3DO5rcuvfkccqfg6k8PLRJ) | 1:44 |
 | 28 | [Pink Rosé](https://open.spotify.com/track/2eNI0JVRmaZLZs0OL61u1b) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Pink Rosé](https://open.spotify.com/album/5eroDVcIAV0ZAPCn1rQ3Ks) | 2:34 |
 | 29 | [BETS](https://open.spotify.com/track/3cek0FmZI39YmXs6khL1rX) | [CEE5IVE](https://open.spotify.com/artist/2ktRMWS8SU1AYM6PkEyb3I), [Hixor](https://open.spotify.com/artist/75LUUNgJb4o60hhSzGV92M) | [BETS](https://open.spotify.com/album/5mCxkjDKUAkzhaAwlFdy0V) | 1:57 |
-| 30 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:19 |
+| 30 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:16 |
 | 31 | [Slow](https://open.spotify.com/track/2lkWbvwdxXlC93cXaSLnfI) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Business](https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI) | 3:13 |
 | 32 | [Rotation](https://open.spotify.com/track/3trwITwxHvA1czm7s2OYc3) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Rotation](https://open.spotify.com/album/5P4uTvKPmT9QeETRf0Aj72) | 2:47 |
 | 33 | [Dey Play!](https://open.spotify.com/track/1UdXctPW1oHqtl4yV6d8QK) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [Dey Play! / Gbona](https://open.spotify.com/album/0cL05UP1I0hwQAdiO3aaHF) | 2:07 |

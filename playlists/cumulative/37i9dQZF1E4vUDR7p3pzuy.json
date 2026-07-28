@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With David Von Beahm, MIK's Reaction, Motor Ballet and more",
+  "description": "With Motor Ballet, David Von Beahm, MIK's Reaction and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -894,7 +894,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-20",
+      "date_removed": null,
       "duration_ms": 262000,
       "name": "Ancestral Cry",
       "url": "https://open.spotify.com/track/5wOv3JGrgCa9aPFe8iIHlK"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 219789,
       "name": "Angels Have No Wings",
       "url": "https://open.spotify.com/track/4T1IDZ1Mh8idHzzdv10zX0"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 309410,
       "name": "Barking at the Sun",
       "url": "https://open.spotify.com/track/2LZZFoUonV4oO9vKCxVBAP"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 192269,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Blood God",
       "url": "https://open.spotify.com/track/2E8AaeOkYGfyGKkpEkBkG6"
@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 269538,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 209493,
       "name": "Dark Charm",
       "url": "https://open.spotify.com/track/1zjK2NHeqw2fUiOT0YAcrv"
@@ -6378,7 +6378,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
@@ -8958,7 +8958,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 216774,
       "name": "Keep The Light On",
       "url": "https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u"
@@ -9204,7 +9204,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -9500,7 +9500,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -11298,7 +11298,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 270545,
       "name": "Noise in a Vacuum",
       "url": "https://open.spotify.com/track/1ksCDjk68HY25hpBa3tOab"
@@ -12767,6 +12767,24 @@
     },
     {
       "album": {
+        "name": "SCARECROWS",
+        "url": "https://open.spotify.com/album/7GDPIeAgdefoU9gU9RJ49v"
+      },
+      "artists": [
+        {
+          "name": "Alexander King",
+          "url": "https://open.spotify.com/artist/1V2Izta7uyUGFHwPKyPM9i"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215706,
+      "name": "Romeo & Juliet",
+      "url": "https://open.spotify.com/track/5ER4aOIHY5WvFnFiLDYrUO"
+    },
+    {
+      "album": {
         "name": "The Tree of Knowledge",
         "url": "https://open.spotify.com/album/3rkmfpKy8agm2yTw6Uhkkr"
       },
@@ -13427,6 +13445,24 @@
     },
     {
       "album": {
+        "name": "A Chorus For The Wasteland",
+        "url": "https://open.spotify.com/album/1nXZW5f7XYogUwS9W9mOBN"
+      },
+      "artists": [
+        {
+          "name": "Killer Antz",
+          "url": "https://open.spotify.com/artist/2ts3ZOHdqsSE1yPQfjeX4k"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243477,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/4IfDzgoeK8NEMfUUUyrra9"
+    },
+    {
+      "album": {
         "name": "Murmurs Under Memphis",
         "url": "https://open.spotify.com/album/6wXj10Qn1MdBqVVSRZIGcW"
       },
@@ -13500,7 +13536,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 214344,
       "name": "Shadowplay",
       "url": "https://open.spotify.com/track/2DHPhbTDMIcMBa6Nxrt3NC"
@@ -14044,7 +14080,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 267400,
       "name": "Smoke and Mirrors",
       "url": "https://open.spotify.com/track/26s2AEv7vlwoyrUGQMaZPA"
@@ -14622,7 +14658,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 608833,
       "name": "Star Scream",
       "url": "https://open.spotify.com/track/2RWEDjpidI5bdbYIVoP8Ag"
@@ -15102,7 +15138,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 243142,
       "name": "Superphotonics",
       "url": "https://open.spotify.com/track/0FfD05OJgwrBESLOxxvpwF"
@@ -16208,7 +16244,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 227779,
       "name": "The Rope",
       "url": "https://open.spotify.com/track/1qOmWviuwaL63qusP9ctX1"
@@ -16548,7 +16584,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 191351,
       "name": "The World We've Made",
       "url": "https://open.spotify.com/track/3pZ45NC1ORKqyxVxMgDNI7"
@@ -16772,7 +16808,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Thrive",
       "url": "https://open.spotify.com/track/4GUZCVqPJAcH0qDkkAWEoT"
@@ -17706,7 +17742,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 240744,
       "name": "Velvet Black",
       "url": "https://open.spotify.com/track/5Qw3Xscsima9Mecp2uVDjN"
@@ -18624,7 +18660,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
@@ -18952,7 +18988,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 273345,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/2J2hSMxK0E3nQikGpVbpyS"
@@ -19042,7 +19078,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 199915,
       "name": "Yielding And Melting",
       "url": "https://open.spotify.com/track/1cOjn8QDRIDGxCb8H1q4vC"

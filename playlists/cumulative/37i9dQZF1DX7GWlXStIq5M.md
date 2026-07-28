@@ -4,7 +4,7 @@
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Lucas Pretti
 
-1,189 songs - 2 day 10 hr 57 min
+1,190 songs - 2 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Casi Casi](https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:13 | 2023-08-22 | 2024-11-23 |
 | [Caso de Amor](https://open.spotify.com/track/0aq5sraSVIpEHY9MZWZDyG) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP) | [EQUILIBRIVM](https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5) | 3:02 | 2026-04-17 | 2026-06-26 |
 | [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 | 2023-05-05 | 2023-07-15 |
+| [Catedral](https://open.spotify.com/track/3mzJgriFYY654vVhzwCepw) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Memórias Póstumas](https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3) | 3:41 | 2026-07-27 |  |
 | [Cavalo de Troia](https://open.spotify.com/track/2RlqNmjyNfVDQLNQN0DV4k) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Gabeu](https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe) | [Cavalo de Troia](https://open.spotify.com/album/1YjiqXB4sbhxzUcPzpMq0J) | 2:45 | 2024-06-14 | 2024-07-06 |
 | [Caça Like](https://open.spotify.com/track/1uX5G2MoccoKX1aCDVcX2y) | [Wanessa Camargo](https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P) | [Caça Like](https://open.spotify.com/album/02pElJdfdIZJLF1y5O1stv) | 2:08 | 2024-04-19 | 2024-05-09 |
 | [Caçando Tesouro](https://open.spotify.com/track/4RC7vpeUYzx6kChixUpTNs) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Caçando Tesouro](https://open.spotify.com/album/17NmjYO2JSc0E4bLFhBMQA) | 3:44 | 2020-10-20 | 2022-07-26 |

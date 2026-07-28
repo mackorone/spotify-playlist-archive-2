@@ -1,6 +1,6 @@
 {
   "description": "Ghanaian Highlife Classics",
-  "num_followers": 9668,
+  "num_followers": 9672,
   "original_name": " Ghana Highlife Party",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Evergreen Tunes, Vol. 4",
-        "url": "https://open.spotify.com/album/7acUZRPhxC1uP259oRu4NJ"
-      },
-      "artists": [
-        {
-          "name": "Nana Kwame Ampadu",
-          "url": "https://open.spotify.com/artist/2tne5cj1SZrx1Xm1lNEWzb"
-        }
-      ],
-      "duration_ms": 570254,
-      "name": "Agatha",
-      "url": "https://open.spotify.com/track/0zM6h92IpK2GCcIVmrqaTq"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/0g60elM8DKMcjusfaaQi8x"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 295413,
       "name": "Abiba",
       "url": "https://open.spotify.com/track/6F0D7wS8XbrClBxhC4Okex"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Evergreen Tunes, Vol. 4",
+        "url": "https://open.spotify.com/album/7acUZRPhxC1uP259oRu4NJ"
+      },
+      "artists": [
+        {
+          "name": "Nana Kwame Ampadu",
+          "url": "https://open.spotify.com/artist/2tne5cj1SZrx1Xm1lNEWzb"
+        }
+      ],
+      "duration_ms": 570254,
+      "name": "Agatha",
+      "url": "https://open.spotify.com/track/0zM6h92IpK2GCcIVmrqaTq"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
+        "name": "Owo Moti",
+        "url": "https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO"
+      },
+      "artists": [
+        {
+          "name": "Micheal Dwamena",
+          "url": "https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB"
+        }
+      ],
+      "duration_ms": 334893,
+      "name": "Ngozi",
+      "url": "https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
         "name": "Afia Donkor",
         "url": "https://open.spotify.com/album/52I8bvUNNV7N7N4ZpZKD3R"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 374770,
       "name": "Afia Donkor (feat. Bradez)",
       "url": "https://open.spotify.com/track/7ofWueS4D4RHRR8uhdKqmL"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
-        "name": "Owo Moti",
-        "url": "https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO"
-      },
-      "artists": [
-        {
-          "name": "Micheal Dwamena",
-          "url": "https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB"
-        }
-      ],
-      "duration_ms": 334893,
-      "name": "Ngozi",
-      "url": "https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Ultimate Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
-      },
-      "artists": [
-        {
-          "name": "Daasebre Gyamenah",
-          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
-        }
-      ],
-      "duration_ms": 351346,
-      "name": "Wodo Enda",
-      "url": "https://open.spotify.com/track/1kZ2nECfkHK77kHC1Nq3BD"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Akoo Te Brofo",
         "url": "https://open.spotify.com/album/6j9WYjUpnKSyuOSL3F6Bhw"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 573440,
       "name": "Akoo Te Brofo",
       "url": "https://open.spotify.com/track/3TYgzjwlcpEdN1GufC9C2U"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "duration_ms": 351346,
+      "name": "Wodo Enda",
+      "url": "https://open.spotify.com/track/1kZ2nECfkHK77kHC1Nq3BD"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Ultimate Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
-      },
-      "artists": [
-        {
-          "name": "Daasebre Gyamenah",
-          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
-        }
-      ],
-      "duration_ms": 322481,
-      "name": "Still I Love You",
-      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Asew",
         "url": "https://open.spotify.com/album/6gGbScQPeTSBSsytwrzmD5"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 362173,
       "name": "Asew",
       "url": "https://open.spotify.com/track/7LK9ricpfETVGSvMIKbmWZ"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "duration_ms": 322481,
+      "name": "Still I Love You",
+      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
     },
     {
       "added_at": "2026-02-20 08:28:52",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-02-20 08:28:52",
       "album": {
-        "name": "Ultimate Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
-      },
-      "artists": [
-        {
-          "name": "Daasebre Gyamenah",
-          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
-        }
-      ],
-      "duration_ms": 344790,
-      "name": "Wafom",
-      "url": "https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC"
-    },
-    {
-      "added_at": "2026-02-20 08:28:52",
-      "album": {
         "name": "Sweet Talks",
         "url": "https://open.spotify.com/album/7phBCJGc2TJGS9pYwbsOnu"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 352536,
       "name": "Juliana",
       "url": "https://open.spotify.com/track/2MvreSWPJVvtwk2ijWolDZ"
+    },
+    {
+      "added_at": "2026-02-20 08:28:52",
+      "album": {
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "duration_ms": 344790,
+      "name": "Wafom",
+      "url": "https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC"
     },
     {
       "added_at": "2026-02-20 08:28:52",

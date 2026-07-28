@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 74535,
+  "num_followers": 74553,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,26 @@
     {
       "added_at": "2024-07-13 01:11:49",
       "album": {
-        "name": "Orgullo (Remix)",
-        "url": "https://open.spotify.com/album/1EuXZnb0shsqFPzQvb2g0q"
+        "name": "Candy Perreo",
+        "url": "https://open.spotify.com/album/0zbfqXk5o567KzNdATeOqj"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Dj Peligro",
+          "url": "https://open.spotify.com/artist/59WHbFutFDJyaUAcwYd1kh"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Mr Candy Kazu",
+          "url": "https://open.spotify.com/artist/3j2xZ5qiSevCbQT914rIPS"
+        },
+        {
+          "name": "DJ Kelvin El Sacamostro",
+          "url": "https://open.spotify.com/artist/6DJyhClLATkdn3UhSDbrtv"
         }
       ],
-      "duration_ms": 214282,
-      "name": "Orgullo - Remix",
-      "url": "https://open.spotify.com/track/71XBAAd0QPBq3vTgARLh8O"
+      "duration_ms": 272677,
+      "name": "Candy Perreo",
+      "url": "https://open.spotify.com/track/2UxUyhlnc3yHLTRAt2Xa8I"
     }
   ],
   "unique_name": "Latin Hits 2014",

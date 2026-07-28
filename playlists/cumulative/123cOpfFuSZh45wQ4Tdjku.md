@@ -4,7 +4,7 @@
 
 > mostly furry
 
-473 songs - 22 hr 58 min
+474 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Just Let Go](https://open.spotify.com/track/4feZEeR7rlX0ieNAD53bEG) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [On My Way](https://open.spotify.com/album/1l9aUUdoUKf9dKZyoNaTPy) | 2:25 | 2025-04-22 |  |
 | [KATAMARI](https://open.spotify.com/track/1lAQkl0GrOlTi5zREtyH9V) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [KATAMARI](https://open.spotify.com/album/6wjbmZMsDypQDhrdTmDcrx) | 2:38 | 2026-07-17 |  |
 | [Kid Again](https://open.spotify.com/track/71xsIJOqLiH544H7RbeHrc) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 2:55 | 2024-12-07 |  |
+| [King of the sparks](https://open.spotify.com/track/3XirwekeRGUrmDXwbIs1KK) | [Michel Jussiau](https://open.spotify.com/artist/659RSDprKSvbBjZSpdi2h7) | [Special effects](https://open.spotify.com/album/1kGMuFPK5ukv5f0j0ZzmiT) | 2:31 | 2026-07-27 |  |
 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 | 2026-07-17 |  |
 | [Kiwi](https://open.spotify.com/track/7svT1mat9Lbsl2HKkojqYT) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Song Every Day For 30 Days](https://open.spotify.com/album/7qAWecHdD8NKV3saBi38Qe) | 2:11 | 2025-04-22 |  |
 | [Kiwi Fox](https://open.spotify.com/track/1EGC4Ze8pgbZjDsdzw8Foy) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Furry Youtubers](https://open.spotify.com/album/5oJOcMbnsMH3BMIalIc8ix) | 3:06 | 2024-05-15 |  |

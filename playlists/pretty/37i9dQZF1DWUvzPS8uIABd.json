@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132479,
+  "num_followers": 132476,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
+        "name": "Kuudes aisti",
+        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "Kuudes aisti",
+      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
         "name": "Sata syyt",
         "url": "https://open.spotify.com/album/183AuvnOZ1x5FdRUuSGzEQ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 174000,
       "name": "Sata syyt",
       "url": "https://open.spotify.com/track/5utmpdm2S5HNpdvz1Fve8L"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "Kuudes aisti",
-        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
-      },
-      "artists": [
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Kuudes aisti",
-      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
+        "name": "Kuka nauraa nyt",
+        "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
+      },
+      "artists": [
+        {
+          "name": "ABREU",
+          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "Kuka nauraa nyt",
+      "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
         "name": "No Haav No Love",
         "url": "https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 209941,
       "name": "Ulkopuolinen (feat. ibe)",
       "url": "https://open.spotify.com/track/040oMi7bs0Rmz7HZ2xcP96"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "Kuka nauraa nyt",
-        "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
-      },
-      "artists": [
-        {
-          "name": "ABREU",
-          "url": "https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7"
-        }
-      ],
-      "duration_ms": 175609,
-      "name": "Kuka nauraa nyt",
-      "url": "https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
+        "name": "Ihan kohta ohi",
+        "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
+      },
+      "artists": [
+        {
+          "name": "KUUMAA",
+          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
+        },
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Ihan kohta ohi",
+      "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
         "name": "T\u00e4\u00e4 tunne",
         "url": "https://open.spotify.com/album/6ydY2zebn5LfMlQjNNCyxg"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 200000,
       "name": "Viaton",
       "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "Ihan kohta ohi",
-        "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
-      },
-      "artists": [
-        {
-          "name": "KUUMAA",
-          "url": "https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr"
-        },
-        {
-          "name": "emma & matilda",
-          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Ihan kohta ohi",
-      "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
+        "name": "Hullu nainen",
+        "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
+      },
+      "artists": [
+        {
+          "name": "Aliisa Syrj\u00e4",
+          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Hullu nainen",
+      "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
         "name": "Entiseen el\u00e4m\u00e4\u00e4n",
         "url": "https://open.spotify.com/album/1JHx48hhuAxO1HSsQb2KWw"
       },
@@ -1243,34 +1259,18 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Hullu nainen",
-        "url": "https://open.spotify.com/album/1WBwJFbYM4G9EqEOvBrt8n"
+        "name": "T\u00e4\u00e4l m\u00e4 oon",
+        "url": "https://open.spotify.com/album/7GxY87m2q8I7WiUkYTfyxk"
       },
       "artists": [
         {
-          "name": "Aliisa Syrj\u00e4",
-          "url": "https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd"
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
         }
       ],
-      "duration_ms": 177360,
-      "name": "Hullu nainen",
-      "url": "https://open.spotify.com/track/2G5KUqFFdIQKq0bXsxt4p4"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "4Life",
-        "url": "https://open.spotify.com/album/0i3GgbzTfsaeEm36TupNCM"
-      },
-      "artists": [
-        {
-          "name": "Mikael Gabriel",
-          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
-        }
-      ],
-      "duration_ms": 156683,
-      "name": "4Life",
-      "url": "https://open.spotify.com/track/7I923uLFwvvvHU6z3zuuTd"
+      "duration_ms": 148152,
+      "name": "T\u00e4\u00e4l m\u00e4 oon",
+      "url": "https://open.spotify.com/track/4BQpIP9GV6B4xrwgOBmit4"
     }
   ],
   "unique_name": "#vainsuomihitit",

@@ -1,6 +1,6 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 128951,
+  "num_followers": 128979,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
@@ -275,8 +275,8 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Jaula De Oro",
-        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
+        "name": "Corridos Prohibidos",
+        "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
       },
       "artists": [
         {
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 193106,
-      "name": "Pedro Y Pablo",
-      "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
+      "duration_ms": 195613,
+      "name": "La Camioneta Gris",
+      "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -355,8 +355,8 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Corridos Prohibidos",
-        "url": "https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw"
+        "name": "Jaula De Oro",
+        "url": "https://open.spotify.com/album/4xfHI8aqhWroOghjZ7NqkO"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 195613,
-      "name": "La Camioneta Gris",
-      "url": "https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS"
+      "duration_ms": 193106,
+      "name": "Pedro Y Pablo",
+      "url": "https://open.spotify.com/track/5XgIkYlSVby03NmqREd5Sf"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Con Banda Y De Parranda",
-        "url": "https://open.spotify.com/album/784Mrg7xgVFTYk0qAAxMWR"
-      },
-      "artists": [
-        {
-          "name": "Los Razos",
-          "url": "https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "M\u00e1s Ching\u00f3n Que Ese Buey",
-      "url": "https://open.spotify.com/track/5fA7H8n3zhNsoSQSYA3DLz"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
         "name": "Pistoleros Famosos",
         "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 169973,
       "name": "Arturo Garza Trevino",
       "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
+        "name": "Con Banda Y De Parranda",
+        "url": "https://open.spotify.com/album/784Mrg7xgVFTYk0qAAxMWR"
+      },
+      "artists": [
+        {
+          "name": "Los Razos",
+          "url": "https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "M\u00e1s Ching\u00f3n Que Ese Buey",
+      "url": "https://open.spotify.com/track/5fA7H8n3zhNsoSQSYA3DLz"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Quince Madrazos Con Sus Compas",
-        "url": "https://open.spotify.com/album/5avrr5irqBn8LlbMlagxz2"
-      },
-      "artists": [
-        {
-          "name": "Los Razos",
-          "url": "https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ"
-        }
-      ],
-      "duration_ms": 209773,
-      "name": "Chingon De Chingones",
-      "url": "https://open.spotify.com/track/5lduUBDO2K74wlWcReMTJ8"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
         "name": "Se Me Canso El Corazon",
         "url": "https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 168026,
       "name": "Los Tres Gallos",
       "url": "https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
+        "name": "Quince Madrazos Con Sus Compas",
+        "url": "https://open.spotify.com/album/5avrr5irqBn8LlbMlagxz2"
+      },
+      "artists": [
+        {
+          "name": "Los Razos",
+          "url": "https://open.spotify.com/artist/7HYgqp51TBXZdtjinjkQuZ"
+        }
+      ],
+      "duration_ms": 209773,
+      "name": "Chingon De Chingones",
+      "url": "https://open.spotify.com/track/5lduUBDO2K74wlWcReMTJ8"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
+        "name": "Los Corridos Favoritos Del Jefe",
+        "url": "https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH"
       },
       "artists": [
         {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
         }
       ],
-      "duration_ms": 218044,
-      "name": "Los Tequileros",
-      "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
+      "duration_ms": 219360,
+      "name": "El Bazucazo",
+      "url": "https://open.spotify.com/track/6yl1gnJWeVOio73J9Ij3Mo"
     },
     {
       "added_at": "2026-04-26 03:10:51",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-04-26 03:10:51",
       "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 218044,
+      "name": "Los Tequileros",
+      "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
+    },
+    {
+      "added_at": "2026-04-26 03:10:51",
+      "album": {
         "name": "Corridos de Caballos Famosos",
         "url": "https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 241346,
       "name": "Caballo Patas Blancas",
       "url": "https://open.spotify.com/track/2O7chSnV0xD28SehY19Uzb"
-    },
-    {
-      "added_at": "2026-04-26 03:10:51",
-      "album": {
-        "name": "Los Corridos Favoritos Del Jefe",
-        "url": "https://open.spotify.com/album/2STlqGKuUD6xxsncxLrnVH"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 219360,
-      "name": "El Bazucazo",
-      "url": "https://open.spotify.com/track/6yl1gnJWeVOio73J9Ij3Mo"
     },
     {
       "added_at": "2026-04-26 03:10:51",

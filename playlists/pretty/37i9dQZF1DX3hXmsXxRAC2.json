@@ -435,22 +435,6 @@
     {
       "added_at": "2026-07-16 22:14:48",
       "album": {
-        "name": "En Acustico",
-        "url": "https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 319306,
-      "name": "Debo Hacerlo / Caray / Querida / Me Nace del Coraz\u00f3n (Popurri Juan Gabriel)",
-      "url": "https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ"
-    },
-    {
-      "added_at": "2026-07-16 22:14:48",
-      "album": {
         "name": "Juan Gabriel - 40 Aniversario",
         "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 179000,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/3OlThkWM0wZzhnQYIh56p6"
+    },
+    {
+      "added_at": "2026-07-16 22:14:48",
+      "album": {
+        "name": "En Acustico",
+        "url": "https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 319306,
+      "name": "Debo Hacerlo / Caray / Querida / Me Nace del Coraz\u00f3n (Popurri Juan Gabriel)",
+      "url": "https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ"
     },
     {
       "added_at": "2026-07-16 22:14:48",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-07-16 22:14:48",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 270860,
-      "name": "Yo No Naci Para Amar",
-      "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"
-    },
-    {
-      "added_at": "2026-07-16 22:14:48",
-      "album": {
         "name": "Juan Gabriel, el Divo y Sus Divas",
         "url": "https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 218920,
       "name": "La M\u00e1s Querida",
       "url": "https://open.spotify.com/track/1QD42LwLanJizUu2qosih2"
+    },
+    {
+      "added_at": "2026-07-16 22:14:48",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 270860,
+      "name": "Yo No Naci Para Amar",
+      "url": "https://open.spotify.com/track/7qQMiNcXYmkx6G3sZ5ljDm"
     },
     {
       "added_at": "2026-07-16 22:14:48",

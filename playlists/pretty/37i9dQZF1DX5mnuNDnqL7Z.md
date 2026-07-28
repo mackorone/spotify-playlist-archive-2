@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 
 > Who run the world? Cover: GIRLSET
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,732 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,739 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 | 13 | [Angel\(s\)](https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Angel\(s\)](https://open.spotify.com/album/71W6HyKdt6FDhVYChmamZ4) | 3:03 |
 | 14 | [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 |
 | 15 | [WHAT ELSE?](https://open.spotify.com/track/3h2OSS7nnFnEuZ57F2BmVF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [WHAT ELSE?](https://open.spotify.com/album/7gFZKtpOHMIvkVhXSJ9z7f) | 2:20 |
-| 16 | [Certified Lover Girl](https://open.spotify.com/track/5YEkMWE1gDq8NJm0ZpRy22) | [H3rizon](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Certified Lover Girl](https://open.spotify.com/album/2dHmPBAdAem0jne9czNYWz) | 3:11 |
+| 16 | [Certified Lover Girl](https://open.spotify.com/track/5YEkMWE1gDq8NJm0ZpRy22) | [H3RIZON](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Certified Lover Girl](https://open.spotify.com/album/2dHmPBAdAem0jne9czNYWz) | 3:11 |
 | 17 | [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 |
 | 18 | [LOCA](https://open.spotify.com/track/1t6A6AZZ8RyVPWrrO6aX3b) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [LOCA](https://open.spotify.com/album/2wnaEz6OTA8VUzQSpR7i2E) | 3:11 |
 | 19 | [Hot Wet Delirious](https://open.spotify.com/track/30WDZKen0s4FtFe2EyqaCN) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Hot Wet Delirious](https://open.spotify.com/album/48RvnMcydial0X4i7D4X8N) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 | 99 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
 | 100 | [Promise?](https://open.spotify.com/track/6Or4gNQC2EkixDGiufQ3F4) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [Promise?](https://open.spotify.com/album/4C0Jn8EWIX77dDQum3oNJO) | 3:12 |
 
-Snapshot ID: `AAAAAOY2aXbHOyhmiYZLnvurW7yksqhm`
+Snapshot ID: `AAAAACMwIO5ilmnJFzjGrFLypLI51dPo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 239 songs - 22 hr 26 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 241 songs - 22 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -247,5 +247,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 237 | [The Fool](https://open.spotify.com/track/3qadzDCaO7fPtSIG86a5L5) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [III \(Deluxe Edition\)](https://open.spotify.com/album/64sE3WgwkDH8VMgIr7PhdF) | 4:12 |
 | 238 | [There's Hope In Your Eyes](https://open.spotify.com/track/4cR6cgInYHfRsgLSl4VlyM) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [There's Hope In Your Eyes](https://open.spotify.com/album/6NTcK9N518nRlmJ7h5daHz) | 3:59 |
 | 239 | [Hurricane \- Extended Mix](https://open.spotify.com/track/1sWT14jzdy9AoLg8jjWj1o) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Kingstarlight](https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx) | [Hurricane](https://open.spotify.com/album/5gPQStZ112bHjLB4Gx4JFj) | 4:49 |
+| 240 | [Satisfied](https://open.spotify.com/track/2BirbjcIsHDyoNTfzAfkyG) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied](https://open.spotify.com/album/6CImRMVY60VHBVCGysxFff) | 5:17 |
+| 241 | [Vergeben](https://open.spotify.com/track/1pxn9vFQkHsVutQKoEcAzd) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Vergeben](https://open.spotify.com/album/0OnnJO0iBVLbqfaYHtyY2s) | 5:23 |
 
-Snapshot ID: `AAABPrvst8rIUGdTEqI53vXaHMn//04x`
+Snapshot ID: `AAABQNvBSBpUolnIg1Yu0qNv6cPrdItZ`

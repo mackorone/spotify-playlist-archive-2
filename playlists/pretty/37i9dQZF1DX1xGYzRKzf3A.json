@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 174506,
+  "num_followers": 174548,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 161906,
       "name": "Pong\u00e1monos De Acuerdo",
       "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "AURORA",
+        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 262309,
+      "name": "AMOR DE CINE",
+      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Pelotero A La Bola",
         "url": "https://open.spotify.com/album/51HYdUR0UOPZuxVMDKELN6"
       },
@@ -207,22 +223,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "AURORA",
-        "url": "https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs"
-      },
-      "artists": [
-        {
-          "name": "HUMBE",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 262309,
-      "name": "AMOR DE CINE",
-      "url": "https://open.spotify.com/track/0v9UztY5A12cJUsWD7PZzS"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Bordada a Mano",
         "url": "https://open.spotify.com/album/1dyd7hJkMWDJnU10UGKphB"
       },
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Con La Fuerza Del Destino",
-        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
-      },
-      "artists": [
-        {
-          "name": "Liberaci\u00f3n",
-          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
-        }
-      ],
-      "duration_ms": 177106,
-      "name": "C\u00f3mo Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Se Quitan El Sombrero",
         "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 206733,
       "name": "Compr\u00e9ndala",
       "url": "https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Con La Fuerza Del Destino",
+        "url": "https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY"
+      },
+      "artists": [
+        {
+          "name": "Liberaci\u00f3n",
+          "url": "https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "C\u00f3mo Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "El regreso de los reyes",
+        "url": "https://open.spotify.com/album/21pqkG5DDm78wlxhXJkZ9Q"
+      },
+      "artists": [
+        {
+          "name": "Cruz Martinez presenta Los Super Reyes",
+          "url": "https://open.spotify.com/artist/1mEYmsbKTfxfLbyyjvgEId"
+        }
+      ],
+      "duration_ms": 234733,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/6aD9eiMPS1zn9rmvIMZbJq"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "ATP",
         "url": "https://open.spotify.com/album/5YAMa7LhSMdWOs1dF93g4V"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 180000,
       "name": "MIATA \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
       "url": "https://open.spotify.com/track/1k15ZgRhn8OxFalYbeaZ1h"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "El regreso de los reyes",
-        "url": "https://open.spotify.com/album/21pqkG5DDm78wlxhXJkZ9Q"
-      },
-      "artists": [
-        {
-          "name": "Cruz Martinez presenta Los Super Reyes",
-          "url": "https://open.spotify.com/artist/1mEYmsbKTfxfLbyyjvgEId"
-        }
-      ],
-      "duration_ms": 234733,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/6aD9eiMPS1zn9rmvIMZbJq"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 180826,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Palabras Tristes",
         "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 190813,
       "name": "Mary Lee",
       "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "ERROR",
-        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 231854,
-      "name": "CHOKE",
-      "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Algo en ti",
         "url": "https://open.spotify.com/album/3oZu2VPa8zKrrcWk6VXTqi"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 248666,
       "name": "Hay Algo en ti",
       "url": "https://open.spotify.com/track/5xNqXLwdG5m5RrJfFkigVW"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "ERROR",
+        "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 231854,
+      "name": "CHOKE",
+      "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Coraz\u00f3n : Classics",
-      "url": "https://open.spotify.com/track/6V0NuH6KjxjR1GPHPtro53"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Fuego Eterno",
         "url": "https://open.spotify.com/album/4WrhrIl5r8G26F9Woj3W1J"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 163906,
       "name": "Vete Ya",
       "url": "https://open.spotify.com/track/6EZsucUbKS1mmWohoHXtJW"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 275226,
+      "name": "Coraz\u00f3n : Classics",
+      "url": "https://open.spotify.com/track/6V0NuH6KjxjR1GPHPtro53"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Bot\u00e1nica",
-        "url": "https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "\u00c1rbol De Manzanas",
-      "url": "https://open.spotify.com/track/6H5UMkAnweqb4cKIsAzUh9"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/3GA3RoW04gWXZYTw3dHdRN"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 184893,
       "name": "Debajo del Sombrero (feat. Pancho Uresti)",
       "url": "https://open.spotify.com/track/1WxHPhfIClKbpSnPPHnkF4"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Bot\u00e1nica",
+        "url": "https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "\u00c1rbol De Manzanas",
+      "url": "https://open.spotify.com/track/6H5UMkAnweqb4cKIsAzUh9"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 186769,
-      "name": "El Tiempo Que Necesites",
-      "url": "https://open.spotify.com/track/3BqIGyhQL2wMCm7ySVc633"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Ser Como T\u00fa",
         "url": "https://open.spotify.com/album/6wDGjaHs0dLNcF31n25LZo"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 183400,
       "name": "En Tu Basura",
       "url": "https://open.spotify.com/track/0hA8FSVXGdkCcT6T1OtA3f"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 186769,
+      "name": "El Tiempo Que Necesites",
+      "url": "https://open.spotify.com/track/3BqIGyhQL2wMCm7ySVc633"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "A Pesar De Todo (15 Super Temas)",
-        "url": "https://open.spotify.com/album/3XapO9H88P5D5TevLszVIp"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "T\u00fa Me Quieres Lastimar",
-      "url": "https://open.spotify.com/track/5cPfTRCvx7fu5twZh2BOny"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Cari\u00f1o Santo",
         "url": "https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 200213,
       "name": "Cuando Nadie Te Quiera",
       "url": "https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "A Pesar De Todo (15 Super Temas)",
+        "url": "https://open.spotify.com/album/3XapO9H88P5D5TevLszVIp"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "T\u00fa Me Quieres Lastimar",
+      "url": "https://open.spotify.com/track/5cPfTRCvx7fu5twZh2BOny"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1891,6 +1891,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 138640,
+      "name": "Recordando Monterrey",
+      "url": "https://open.spotify.com/track/6Fibv5E2GYxaH9HQCqxu9w"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Boleros de Hoy",
         "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
@@ -1923,22 +1939,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 138640,
-      "name": "Recordando Monterrey",
-      "url": "https://open.spotify.com/track/6Fibv5E2GYxaH9HQCqxu9w"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Regalo Caro",
         "url": "https://open.spotify.com/album/4D6UIG5sjJUN1VQn5v1AvE"
       },
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Te Sorprender\u00e1s",
         "url": "https://open.spotify.com/album/6KK83cdEilYMgI8uHPR4Rk"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 208266,
       "name": "Por Que Te Tengo Que Olvidar",
       "url": "https://open.spotify.com/track/4yV699yWj5OnboFsF2eHtR"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2026-06-08 18:17:51",

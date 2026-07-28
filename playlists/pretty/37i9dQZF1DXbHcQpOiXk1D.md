@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Yazmin Lacey
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,574 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,587 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 30 | [Shelter](https://open.spotify.com/track/0RkudKUCGvubwnw8yjvza9) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Shelter](https://open.spotify.com/album/1quwj92sSkORVSqtpi13tf) | 3:24 |
 | 31 | [Twang](https://open.spotify.com/track/5W50Z9xVwrr0zPzZKXhEJp) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi) | [DJ\-Kicks: Quantic](https://open.spotify.com/album/2GgclfMMPdemb5gQHvtHiL) | 3:49 |
 | 32 | [Grand Prix](https://open.spotify.com/track/0MANz8JX5P50SdvkGWVVY6) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [The Smashing Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LPmqGCKhFHS5Fw8WyaKY8) | 4:01 |
-| 33 | [Dawning Dusk](https://open.spotify.com/track/56BHtvEwxMoyqm1FVzm5kE) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS), [Dudù Kouate](https://open.spotify.com/artist/0Xo3oN2nAmlPHaMBePP96w) | [Terra Incognita](https://open.spotify.com/album/0uNaDvqUwpRcuE0kEyUrAx) | 6:32 |
-| 34 | [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 |
+| 33 | [Tracy Beaker](https://open.spotify.com/track/05TozN4UwwoZQDBoTj3Vsu) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC) | [Tracy Beaker](https://open.spotify.com/album/0XUreXCfVUmvoERNXyGS8s) | 2:57 |
+| 34 | [Dawning Dusk](https://open.spotify.com/track/56BHtvEwxMoyqm1FVzm5kE) | [Akusmi](https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS), [Dudù Kouate](https://open.spotify.com/artist/0Xo3oN2nAmlPHaMBePP96w) | [Terra Incognita](https://open.spotify.com/album/0uNaDvqUwpRcuE0kEyUrAx) | 6:32 |
 | 35 | [Mean To Me](https://open.spotify.com/track/4Tp6SPIAAwGMuRZBzMZh1c) | [Jeff Goldblum & The Mildred Snitzer Orchestra](https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Mean To Me](https://open.spotify.com/album/5tlr80pnA12qL8t47TNUbK) | 3:04 |
 | 36 | [What We Do](https://open.spotify.com/track/4oMAEqrhyRwGL1d2iLTVxU) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [What We Do](https://open.spotify.com/album/5PvZJH5xtKDchKS7viqgov) | 3:19 |
-| 37 | [Step Lightly](https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Of The Earth](https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ) | 4:24 |
-| 38 | [Azimuth](https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Azimuth](https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA) | 4:26 |
+| 37 | [Azimuth](https://open.spotify.com/track/0IbfVp3NAjPFW5NpA9e2I3) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [eniola](https://open.spotify.com/artist/5EsMaB2W2psSvdrcbWkhDY) | [Azimuth](https://open.spotify.com/album/7ICY4AzOwrAx2WkPYZmSrA) | 4:26 |
+| 38 | [Step Lightly](https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Of The Earth](https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ) | 4:24 |
 | 39 | [ViewFinder: Nature's Ratio](https://open.spotify.com/track/7CvlfDGNYSirNXQI9aV11Z) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [ViewFinder: Nature's Ratio](https://open.spotify.com/album/4WvSDAVLsjAR09nHgoEZSS) | 3:06 |
 | 40 | [We Have Each Other \- Marla Kether Remix](https://open.spotify.com/track/24ZAd38hq1QWkbvu5UMfbW) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Plumm](https://open.spotify.com/artist/17goxueRDomjijRHKaaQpT), [Marla Kether](https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU) | [We Have Each Other: Remixed](https://open.spotify.com/album/3PsNU2NkYqaAOYqlCChIHu) | 3:48 |
 | 41 | [Pink](https://open.spotify.com/track/3q1uWf6BulnqldbYrDJ45U) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Pink](https://open.spotify.com/album/0utv7DeJSHoEHBYu0kol5R) | 3:18 |

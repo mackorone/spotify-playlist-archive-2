@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Niklas Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,047 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,057 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 10 | [Whisper To Me](https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Modern Tales](https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k) | [Whisper To Me](https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv) | 3:46 |
 | 11 | [i'm way too self aware](https://open.spotify.com/track/62cC7C7e8buEM15ReSWjff) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [i'm way too self aware](https://open.spotify.com/album/0pDU9QXpxlhrQMm7hS5T4P) | 2:29 |
 | 12 | [Turn The Tide \(ft\. Sylver\)](https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy), [Pat B](https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb) | [Turn The Tide \(ft\. Sylver\)](https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW) | 2:15 |
-| 13 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:27 |
+| 13 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:00 |
 | 14 | [Allein](https://open.spotify.com/track/4B1qnuNGtFSwuCUg7U7FCI) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Allein](https://open.spotify.com/album/5UlWq5479iD0AFiygiNMrU) | 2:58 |
 | 15 | [Gangsta Lean](https://open.spotify.com/track/3bRGAxdSsQsHiKXjpX8XGs) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Gangsta Lean](https://open.spotify.com/album/3UCgJtbhKCjVtOnbUot8lA) | 2:02 |
 | 16 | [La Révolution](https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [La Révolution](https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU) | 2:12 |

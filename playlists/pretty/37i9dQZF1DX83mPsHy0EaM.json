@@ -1,15 +1,123 @@
 {
   "description": "Let's rewind to the OPM Rock Hits. Music videos available for Spotify premium subscribers! Cover: Ely Buendia",
-  "num_followers": 13351,
+  "num_followers": 13396,
   "original_name": "OPM Rock Video Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHCSg5zolZgODmPr+Qy+yXU9FJr0",
+  "snapshot_id": "AAAAANDymPNGz66xL3Q8OJUO8embacUf",
   "tracks": [
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
+      "album": {
+        "name": "Halina Sa Parokya",
+        "url": "https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        },
+        {
+          "name": "Allan Bordeus",
+          "url": "https://open.spotify.com/artist/1IGCiK4jevrmcLaBWY5skx"
+        },
+        {
+          "name": "Jay Contreras",
+          "url": "https://open.spotify.com/artist/1TIiTdp6HVhVK6RXzEhb6C"
+        },
+        {
+          "name": "Jomal Linao",
+          "url": "https://open.spotify.com/artist/70OQ7QromUdbw1P7kVI0su"
+        }
+      ],
+      "duration_ms": 245386,
+      "name": "The Ordertaker",
+      "url": "https://open.spotify.com/track/0Wfc9IelxyVWkbgMmMmxr4"
+    },
+    {
+      "added_at": "2026-07-27 04:01:33",
+      "album": {
+        "name": "Palabas & Transit Collection",
+        "url": "https://open.spotify.com/album/004uzq476rDPXmHoWLLJyX"
+      },
+      "artists": [
+        {
+          "name": "Sponge Cola",
+          "url": "https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye"
+        }
+      ],
+      "duration_ms": 322933,
+      "name": "Jeepney",
+      "url": "https://open.spotify.com/track/4XBVANYES6enLW1ooQ78qO"
+    },
+    {
+      "added_at": "2026-07-27 04:01:33",
+      "album": {
+        "name": "Maharot",
+        "url": "https://open.spotify.com/album/0tIuSD3ZKUjrTJ2g052fMl"
+      },
+      "artists": [
+        {
+          "name": "Kamikazee",
+          "url": "https://open.spotify.com/artist/4GBFKKuwmZUnAJt6nBal7A"
+        }
+      ],
+      "duration_ms": 284986,
+      "name": "Narda",
+      "url": "https://open.spotify.com/track/7pFoQ4rWKHaTUuoVCcIECH"
+    },
+    {
+      "added_at": "2026-07-27 04:01:33",
+      "album": {
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/3vOZWNlxaSPobWl7Xd8cDZ"
+      },
+      "artists": [
+        {
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "The Day You Said Goodnight",
+      "url": "https://open.spotify.com/track/2cjp6qXf56En6dSHKfF8NE"
+    },
+    {
+      "added_at": "2026-07-27 04:01:33",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/6zQgFMVjE1LpUGyMDA7K8h"
+      },
+      "artists": [
+        {
+          "name": "Imago",
+          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
+        }
+      ],
+      "duration_ms": 243653,
+      "name": "Sundo",
+      "url": "https://open.spotify.com/track/25mXcC6MeDYaJPjVj5GCWu"
+    },
+    {
+      "added_at": "2026-07-27 04:01:33",
+      "album": {
+        "name": "Five on the Floor",
+        "url": "https://open.spotify.com/album/0imHXv7zJtTVIzHMpvg6XC"
+      },
+      "artists": [
+        {
+          "name": "Sandwich",
+          "url": "https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Sugod",
+      "url": "https://open.spotify.com/track/5orEZV8fPCLGqO7HLOrReo"
+    },
+    {
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "Cutterpillow",
         "url": "https://open.spotify.com/album/6JbcJM51TZIX8nkjns3M4U"
@@ -25,7 +133,7 @@
       "url": "https://open.spotify.com/track/135ggzbjOogZ75IQ0LQi8r"
     },
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "Ulan",
         "url": "https://open.spotify.com/album/0QvYnpqqLEbNCTzye904rm"
@@ -41,7 +149,7 @@
       "url": "https://open.spotify.com/track/2HtTihT2sL0On3bdSY9OR9"
     },
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "So Far Away (And Out of Sight)",
         "url": "https://open.spotify.com/album/4U4OY7sqPQNrsX05kZpZdA"
@@ -57,7 +165,7 @@
       "url": "https://open.spotify.com/track/79dKVqhFeFPoO75QuLSlJR"
     },
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/1IalzI8USuu4PB679HVV5C"
@@ -73,7 +181,7 @@
       "url": "https://open.spotify.com/track/1NopgVCMVhCKIm64tF7auX"
     },
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/0YydJV3mc5KkCZhqnSvzjO"
@@ -89,7 +197,7 @@
       "url": "https://open.spotify.com/track/0oSpCoA0I9wg2UAKT4XGTX"
     },
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "Destination XYZ",
         "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
@@ -105,7 +213,7 @@
       "url": "https://open.spotify.com/track/6aDYL0klsShJ1NDScruk2G"
     },
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "Todo Combo",
         "url": "https://open.spotify.com/album/0rw3b1VJPAMs9zq4ncP43K"
@@ -121,7 +229,7 @@
       "url": "https://open.spotify.com/track/7sW3f7PqDV7BQ7qqeVBJIA"
     },
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "Self-Titled",
         "url": "https://open.spotify.com/album/0AVsHyk0UfZO65pzOUegLP"
@@ -137,7 +245,7 @@
       "url": "https://open.spotify.com/track/6ND4moqxMDIu8kHBvBJT2H"
     },
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "Destination XYZ",
         "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
@@ -153,7 +261,7 @@
       "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "Self-Titled",
         "url": "https://open.spotify.com/album/0AVsHyk0UfZO65pzOUegLP"
@@ -169,7 +277,7 @@
       "url": "https://open.spotify.com/track/3n7IsMb9APYIftXmdRTjRB"
     },
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "Soapdish Reloaded",
         "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
@@ -185,7 +293,7 @@
       "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
     },
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "Back To Me",
         "url": "https://open.spotify.com/album/0aesFsBOaeljPfH76CsrN1"
@@ -201,7 +309,7 @@
       "url": "https://open.spotify.com/track/4rmxojAE3CI7vuIvKVBCkT"
     },
     {
-      "added_at": "2026-05-06 08:33:30",
+      "added_at": "2026-07-27 04:01:33",
       "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1Im5BTDBghgM0NG75SaiC3"

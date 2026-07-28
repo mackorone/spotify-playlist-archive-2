@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-190 songs - 9 hr 15 min
+192 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Islanda](https://open.spotify.com/track/0JiJbbKU6RTYJXMBI34UzM) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:37 | 2025-08-27 |  |
 | [Joanne](https://open.spotify.com/track/60cfIuNFwncEEJOCWoFxx8) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 3:19 | 2024-04-29 |  |
 | [Katholisch Erzogen](https://open.spotify.com/track/3XJWENXsyuxRwSdCT57z6f) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Katholisch Erzogen](https://open.spotify.com/album/1G00lF8JYRNgpzQDfFdIXD) | 2:13 | 2024-04-29 |  |
+| [ko musica](https://open.spotify.com/track/4PHNOUxmjBotWtAlaFVaZd) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:11 | 2026-07-27 |  |
 | [LA NOTTE](https://open.spotify.com/track/3dK7LjirF5LVopSoO45dgN) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 3:05 | 2024-04-29 |  |
 | [La Verità](https://open.spotify.com/track/4zsg78rgHmPCw4IqQ5w0ME) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:57 | 2024-06-10 |  |
 | [Labbra blu \(feat\. YTAM\)](https://open.spotify.com/track/19IZq1j2WflYlidjB26DpU) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DEFAULT](https://open.spotify.com/album/3i83xKoFsymSxIkxoKm9pB) | 2:34 | 2025-08-22 |  |
@@ -193,6 +194,7 @@
 | [Un buon inizio](https://open.spotify.com/track/1VlJaPRbfyyOkEVaWJhRdg) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Anime parallele](https://open.spotify.com/album/3hM5S9Gfx0ihdizWu5dgWF) | 3:10 | 2024-04-29 |  |
 | [una bella canzone](https://open.spotify.com/track/5OuXhUBx0w4ruJymbEFgYJ) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [poké melodrama](https://open.spotify.com/album/2wTktpdvwoQdSYVhw54Lbz) | 2:39 | 2024-07-23 |  |
 | [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 | 2025-08-22 |  |
+| [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 | 2026-07-27 |  |
 | [Universo](https://open.spotify.com/track/1l3WQM4gqyzywyrc0AYrFi) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 3:43 | 2024-04-29 |  |
 | [Voglia di vivere](https://open.spotify.com/track/7x4JF2p31MBdOv922q7ClU) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/43JfFH8IVf0q2jRzzE9JNG) | 2:24 | 2024-04-29 |  |
 | [Wah Wah](https://open.spotify.com/track/4ENsfBs38JiwX96HasFH78) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [Wah Wah](https://open.spotify.com/album/7hW0lNWIc1ll7RjjCn0k64) | 2:28 | 2024-04-29 |  |

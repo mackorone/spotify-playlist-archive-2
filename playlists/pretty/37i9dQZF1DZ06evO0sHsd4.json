@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 23718,
+  "num_followers": 23746,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAB1lIOqFSqkc64v92Z9ZM79",
+  "snapshot_id": "amVOAAAAAACfuMW/79URwWTyEtB2PA/z",
   "tracks": [
     {
       "added_at": null,
@@ -346,15 +346,11 @@
         {
           "name": "Jasiel Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Omar Camacho",
-          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
         }
       ],
-      "duration_ms": 199444,
-      "name": "La Cara",
-      "url": "https://open.spotify.com/track/7KyeSBhU80eRvdHav7jsKA"
+      "duration_ms": 261093,
+      "name": "Jap\u00f3n",
+      "url": "https://open.spotify.com/track/5guJSVFfWTCkD1w7kfQJZA"
     },
     {
       "added_at": null,
@@ -379,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobo Me Tienes / Suave",
-        "url": "https://open.spotify.com/album/4FJGLIc25LqXXlcavslW4M"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 180130,
-      "name": "Bobo Me Tienes",
-      "url": "https://open.spotify.com/track/6ctnraVtRAZQiL10tuSpl4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Aprend\u00ed En La Lleca",
         "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
       },
@@ -411,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00d3MADA",
-        "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
+        "name": "Bobo Me Tienes / Suave",
+        "url": "https://open.spotify.com/album/4FJGLIc25LqXXlcavslW4M"
       },
       "artists": [
         {
@@ -420,9 +400,29 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 261093,
-      "name": "Jap\u00f3n",
-      "url": "https://open.spotify.com/track/5guJSVFfWTCkD1w7kfQJZA"
+      "duration_ms": 180130,
+      "name": "Bobo Me Tienes",
+      "url": "https://open.spotify.com/track/6ctnraVtRAZQiL10tuSpl4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00d3MADA",
+        "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        }
+      ],
+      "duration_ms": 199444,
+      "name": "La Cara",
+      "url": "https://open.spotify.com/track/7KyeSBhU80eRvdHav7jsKA"
     },
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Es Diferente",
-        "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 200254,
-      "name": "Todo Es Diferente",
-      "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Aprend\u00ed En La Lleca",
         "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 184269,
       "name": "La Lleca",
       "url": "https://open.spotify.com/track/737UTu0th7F2LGAisD0cKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Es Diferente",
+        "url": "https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 200254,
+      "name": "Todo Es Diferente",
+      "url": "https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lo Aprend\u00ed En La Lleca",
+        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 185285,
+      "name": "Vida Cara",
+      "url": "https://open.spotify.com/track/5skxWD3azxROcaZAnTeWWl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LEYENDA",
         "url": "https://open.spotify.com/album/1wsPO4l5EFeVpmZESwYWnY"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 214410,
       "name": "VIAJA CONMIGO (feat. Jasiel Nu\u00f1ez, Yng Naz) - Remix",
       "url": "https://open.spotify.com/track/3jUi2kxcsmnc23QtgXve4p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Aprend\u00ed En La Lleca",
-        "url": "https://open.spotify.com/album/3HBxwtKVmVAoaeQBzDumZI"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 185285,
-      "name": "Vida Cara",
-      "url": "https://open.spotify.com/track/5skxWD3azxROcaZAnTeWWl"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
       "duration_ms": 141034,
       "name": "Jalados",
       "url": "https://open.spotify.com/track/45zTxOZyCSV7G7N1cWRZwa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/2ErW404SVZ8KbcA5y1t33T"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 176573,
-      "name": "Old Money",
-      "url": "https://open.spotify.com/track/0qdtB6uRpQHCdrSrpbrId5"
     },
     {
       "added_at": null,

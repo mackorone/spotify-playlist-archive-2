@@ -2,7 +2,7 @@
 
 ### [Punjabi Pyaar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Sukha & Tanu Grewal
+> The very best of Punjabi romance featuring Diljit Dosanjh
 
 1,183 songs - 2 day 15 hr 49 min
 

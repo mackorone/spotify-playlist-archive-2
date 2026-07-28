@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including RIN, Charli xcx, Loredana, Pashanim, LEA & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,637 likes - 91 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,630 likes - 91 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 40 | [Tonight](https://open.spotify.com/track/57ZUOsF6vCae0j2OCSk0nn) | [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [Tonight](https://open.spotify.com/album/0P9VV4CzxLC5TKB4UVZ6OR) | 2:21 |
 | 41 | [DADDY ISSUES](https://open.spotify.com/track/1FpUzSrHMlqZQyCJCRSWgo) | [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [DADDY ISSUES](https://open.spotify.com/album/29I2acz0RATAvGJBjipJ63) | 2:42 |
 | 42 | [Best Days](https://open.spotify.com/track/09RFYn5eMvQZ43FcdD8O39) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Best Days](https://open.spotify.com/album/1MMpRJDmELFQAwO3sSKDbv) | 3:31 |
-| 43 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:27 |
+| 43 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:00 |
 | 44 | [ynnaX](https://open.spotify.com/track/64rkObOdlCLSs2oSvHXtEg) | [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Free Kidd](https://open.spotify.com/album/6SaqJuzDx5JtQCkJVmtixt) | 4:12 |
 | 45 | [FAGNA BOOSTÉ](https://open.spotify.com/track/2dcBRiPqAr4Irr6uEbW1hI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [Lebeey](https://open.spotify.com/artist/05jPthzyvBE9uC3kdKOMbb), [Le Bigs](https://open.spotify.com/artist/6hUO748gw9O0chu3X60wRN) | [DRAKKAR](https://open.spotify.com/album/0ekxNE5PbWZCU68P1pLucd) | 3:14 |
 | 46 | [BABY](https://open.spotify.com/track/7gK04VqpO5iznmYkXT0AAF) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [BABY](https://open.spotify.com/album/6fvBamYQXKR2cva8wjAIME) | 2:31 |
@@ -98,6 +98,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 88 | [c.260611](https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [c.260611](https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu) | 1:45 |
 | 89 | [hello hello](https://open.spotify.com/track/3hadpAb0vS5uYSrfidLaDr) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [hello hello](https://open.spotify.com/album/6vTUTcZylB1hjrVPBtqU5Z) | 3:32 |
 | 90 | [3ady Sahla \- By Remix](https://open.spotify.com/track/2XMQPut031KtcM1qcQH55H) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [3ady Sahla \(By Remix\)](https://open.spotify.com/album/2I4TmQdZQmzTMha8iewVrD) | 3:27 |
-| 91 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:19 |
+| 91 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:16 |
 
 Snapshot ID: `AAAAADGKUDJXWRz5lqTN3G0/iuHy0Nu8`

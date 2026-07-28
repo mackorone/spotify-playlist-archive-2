@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von RIN, Charli xcx, Tokio Hotel, Pashanim, LEA & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 927,687 likes - 79 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 927,628 likes - 79 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 32 | [Tonight](https://open.spotify.com/track/57ZUOsF6vCae0j2OCSk0nn) | [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [Tonight](https://open.spotify.com/album/0P9VV4CzxLC5TKB4UVZ6OR) | 2:21 |
 | 33 | [DADDY ISSUES](https://open.spotify.com/track/1FpUzSrHMlqZQyCJCRSWgo) | [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [DADDY ISSUES](https://open.spotify.com/album/29I2acz0RATAvGJBjipJ63) | 2:42 |
 | 34 | [Best Days](https://open.spotify.com/track/09RFYn5eMvQZ43FcdD8O39) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Best Days](https://open.spotify.com/album/1MMpRJDmELFQAwO3sSKDbv) | 3:31 |
-| 35 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:27 |
+| 35 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:00 |
 | 36 | [ynnaX](https://open.spotify.com/track/64rkObOdlCLSs2oSvHXtEg) | [Sierra Kidd](https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT) | [Free Kidd](https://open.spotify.com/album/6SaqJuzDx5JtQCkJVmtixt) | 4:12 |
 | 37 | [bones](https://open.spotify.com/track/5cCrD2c8F9RiDRmuIYKton) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [spilling my guts](https://open.spotify.com/album/7phn0SadS5635xhyXthk02) | 2:28 |
 | 38 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |
@@ -86,6 +86,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 76 | [c.260611](https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [c.260611](https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu) | 1:45 |
 | 77 | [hello hello](https://open.spotify.com/track/3hadpAb0vS5uYSrfidLaDr) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [hello hello](https://open.spotify.com/album/6vTUTcZylB1hjrVPBtqU5Z) | 3:32 |
 | 78 | [3ady Sahla \- By Remix](https://open.spotify.com/track/2XMQPut031KtcM1qcQH55H) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [3ady Sahla \(By Remix\)](https://open.spotify.com/album/2I4TmQdZQmzTMha8iewVrD) | 3:27 |
-| 79 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:19 |
+| 79 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:16 |
 
 Snapshot ID: `AAAAAJslyipjYJoxrcepXyTmpO/4kw0u`

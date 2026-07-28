@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 85696,
+  "num_followers": 85721,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAADzBHTiMuw/d5eb5dZ9YyDD",
+  "snapshot_id": "amVOAAAAAACj2bcrLnBtEh+3x1eDafG4",
   "tracks": [
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Truth",
-        "url": "https://open.spotify.com/album/0zLMp5cTwpAVp4QikmvOfF"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/7pw5j6dSDGQ9uYwATsdhdi"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/1toXLw1ovkDGC9bIQEn4RR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set In Stone",
         "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 148547,
       "name": "Living Large",
       "url": "https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Truth",
+        "url": "https://open.spotify.com/album/0zLMp5cTwpAVp4QikmvOfF"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/7pw5j6dSDGQ9uYwATsdhdi"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/1toXLw1ovkDGC9bIQEn4RR"
     },
     {
       "added_at": null,
@@ -819,38 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Stepper",
-        "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 130774,
-      "name": "Big Stepper",
-      "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Left Eye",
-      "url": "https://open.spotify.com/track/4M6wwQvRKBKV6DPLEjEeKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEET THE 6IXERS",
         "url": "https://open.spotify.com/album/4eRm5B4jHC8zJhQizo15w5"
       },
@@ -875,6 +843,38 @@
       "duration_ms": 137896,
       "name": "Meet The 6ixers",
       "url": "https://open.spotify.com/track/0Ta2fVj5VeLL49IZQ9JCO5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Left Eye",
+      "url": "https://open.spotify.com/track/4M6wwQvRKBKV6DPLEjEeKJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Stepper",
+        "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 130774,
+      "name": "Big Stepper",
+      "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
     },
     {
       "added_at": null,

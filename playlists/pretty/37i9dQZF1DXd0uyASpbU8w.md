@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Tyla, Xduppy, Sam Smith, Blxckie, DJ Zinhle and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,659 likes - 96 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,684 likes - 96 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 63 | [Chelete ke target](https://open.spotify.com/track/6sNMIaZbMHRSkEZbdKmbuM) | [Clement](https://open.spotify.com/artist/4YWErt8PJydomEvJP2EZWr), [Ba Bethe Gashoazen](https://open.spotify.com/artist/0HX88eTlictNvgUjBLn03r), [DIL Brill](https://open.spotify.com/artist/3HjziHaVRekc1oHl5hh4hF) | [Chelete ke target](https://open.spotify.com/album/0yPatiKybuM9vBXPseJxT3) | 4:00 |
 | 64 | [Uyangithanda uDarli](https://open.spotify.com/track/7Du3dLFA7jHLF4FCxyC5gw) | [Lington](https://open.spotify.com/artist/1px0sAtPicYWJbMN3yoa94), [ilovelethu](https://open.spotify.com/artist/6s6sk1cuHD56i0iF6d2107) | [Cycles](https://open.spotify.com/album/0OY8yEQAzHrktep8VheLfn) | 3:17 |
 | 65 | [are they disappointed?](https://open.spotify.com/track/5aZ0QKnfS383m0HknaKSX3) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [I’ll Cry Tomorrow](https://open.spotify.com/album/0Tz4WhNCTBiDB0zPnrCkFe) | 1:48 |
-| 66 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:19 |
+| 66 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:16 |
 | 67 | [Vuka \- Radio Edit](https://open.spotify.com/track/6cgtAegF5VEHvnihN12c7S) | [Lesego M](https://open.spotify.com/artist/2iyasLW1Ei5nroB96ynres), [Leandra.Vert](https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp) | [Vuka \(Radio Edit\)](https://open.spotify.com/album/6ktCvUbnGzi92z6H5FyoWa) | 3:23 |
 | 68 | [When I'm Gone](https://open.spotify.com/track/5PNPDoHBM4aMwwAyEaKOo8) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [Alléa](https://open.spotify.com/artist/7jL1eP19QAY6tFnPoaZVxB) | [When I'm Gone](https://open.spotify.com/album/13CQXp6ZxkhZihRKMReExa) | 4:05 |
 | 69 | [Human](https://open.spotify.com/track/4S4Fgzxpg7LcurqjD3YF9H) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [Human](https://open.spotify.com/album/1iWDmayyAqfr5VZTD6hDsd) | 1:40 |

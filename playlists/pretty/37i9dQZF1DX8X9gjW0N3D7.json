@@ -1,6 +1,6 @@
 {
   "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: A Girl Named Sue",
-  "num_followers": 69898,
+  "num_followers": 69921,
   "original_name": "Qu\u00e9b\u00e9cois Contemporain",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-07-24 04:03:23",
       "album": {
-        "name": "Inuktitut",
-        "url": "https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd"
-    },
-    {
-      "added_at": "2026-07-24 04:03:23",
-      "album": {
         "name": "ATMANS",
         "url": "https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 128634,
       "name": "BURN LIKE FYA",
       "url": "https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13"
+    },
+    {
+      "added_at": "2026-07-24 04:03:23",
+      "album": {
+        "name": "Inuktitut",
+        "url": "https://open.spotify.com/album/2KbPO54sRdryZvAXbr2IE2"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/6K3i6NYZqQDePOofuC6ETd"
     },
     {
       "added_at": "2026-07-24 04:03:23",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-07-24 04:03:23",
       "album": {
+        "name": "Excuse-moi",
+        "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
+      },
+      "artists": [
+        {
+          "name": "Lilou Morin",
+          "url": "https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM"
+        }
+      ],
+      "duration_ms": 197145,
+      "name": "Excuse-moi",
+      "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
+    },
+    {
+      "added_at": "2026-07-24 04:03:23",
+      "album": {
         "name": "Deux places au cimeti\u00e8re",
         "url": "https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 163374,
       "name": "Demain \u00e7a ira",
       "url": "https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE"
-    },
-    {
-      "added_at": "2026-07-24 04:03:23",
-      "album": {
-        "name": "Excuse-moi",
-        "url": "https://open.spotify.com/album/0hziyn9hQdtTqWEDAfdEKG"
-      },
-      "artists": [
-        {
-          "name": "Lilou Morin",
-          "url": "https://open.spotify.com/artist/0zeDRRRMxoMKLznVClrbjM"
-        }
-      ],
-      "duration_ms": 197145,
-      "name": "Excuse-moi",
-      "url": "https://open.spotify.com/track/1zBcZyyfuWRosUIGfuuoEA"
     },
     {
       "added_at": "2026-07-24 04:03:23",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-07-24 04:03:23",
       "album": {
-        "name": "Courtside",
-        "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
-      },
-      "artists": [
-        {
-          "name": "Luis Clavis",
-          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
-        }
-      ],
-      "duration_ms": 182961,
-      "name": "Courtside",
-      "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
-    },
-    {
-      "added_at": "2026-07-24 04:03:23",
-      "album": {
         "name": "Deux places au cimeti\u00e8re",
         "url": "https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 213064,
       "name": "Cimeti\u00e8re",
       "url": "https://open.spotify.com/track/4ATBchsxcAjYF9fd8cNfIr"
+    },
+    {
+      "added_at": "2026-07-24 04:03:23",
+      "album": {
+        "name": "Courtside",
+        "url": "https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq"
+      },
+      "artists": [
+        {
+          "name": "Luis Clavis",
+          "url": "https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO"
+        }
+      ],
+      "duration_ms": 182961,
+      "name": "Courtside",
+      "url": "https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv"
     },
     {
       "added_at": "2026-07-24 04:03:23",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-07-24 04:03:23",
       "album": {
-        "name": "Westfalia",
-        "url": "https://open.spotify.com/album/443lfcpqPXNytv4Om5VQwl"
-      },
-      "artists": [
-        {
-          "name": "Statzz",
-          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
-        }
-      ],
-      "duration_ms": 117333,
-      "name": "Tout c\u2019qui faut",
-      "url": "https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff"
-    },
-    {
-      "added_at": "2026-07-24 04:03:23",
-      "album": {
         "name": "Demain",
         "url": "https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 229047,
       "name": "Demain",
       "url": "https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi"
+    },
+    {
+      "added_at": "2026-07-24 04:03:23",
+      "album": {
+        "name": "Westfalia",
+        "url": "https://open.spotify.com/album/443lfcpqPXNytv4Om5VQwl"
+      },
+      "artists": [
+        {
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+        }
+      ],
+      "duration_ms": 117333,
+      "name": "Tout c\u2019qui faut",
+      "url": "https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff"
     },
     {
       "added_at": "2026-07-24 04:03:23",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-07-24 04:03:23",
       "album": {
-        "name": "Ya s\u00e9 ya s\u00e9",
-        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
-      },
-      "artists": [
-        {
-          "name": "Gabriella Olivo",
-          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
-        }
-      ],
-      "duration_ms": 223689,
-      "name": "Ya s\u00e9 ya s\u00e9",
-      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
-    },
-    {
-      "added_at": "2026-07-24 04:03:23",
-      "album": {
         "name": "Paranormal",
         "url": "https://open.spotify.com/album/4QBVqCaysiWAvUl7aDIuRO"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 177106,
       "name": "Paranormal",
       "url": "https://open.spotify.com/track/6KWNRNo0dN82Tt1PUWhX5L"
+    },
+    {
+      "added_at": "2026-07-24 04:03:23",
+      "album": {
+        "name": "Ya s\u00e9 ya s\u00e9",
+        "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "duration_ms": 223689,
+      "name": "Ya s\u00e9 ya s\u00e9",
+      "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
     },
     {
       "added_at": "2026-07-24 04:03:23",
@@ -1135,6 +1135,22 @@
       "duration_ms": 134213,
       "name": "Qu'est-ce que je viens faire ici ?",
       "url": "https://open.spotify.com/track/12omaM1NjMB7wHz6RASo3R"
+    },
+    {
+      "added_at": "2026-07-24 04:03:23",
+      "album": {
+        "name": "Revenir",
+        "url": "https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ"
+      },
+      "artists": [
+        {
+          "name": "Rick Pagano",
+          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
+        }
+      ],
+      "duration_ms": 156079,
+      "name": "Revenir",
+      "url": "https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl"
     },
     {
       "added_at": "2026-07-24 04:03:23",
@@ -1183,22 +1199,6 @@
       "duration_ms": 244320,
       "name": "Tour \u00e0 tour",
       "url": "https://open.spotify.com/track/4j4tyrrwdc0YLwhxxVDv6D"
-    },
-    {
-      "added_at": "2026-07-24 04:03:23",
-      "album": {
-        "name": "Revenir",
-        "url": "https://open.spotify.com/album/66mIwDNXEoaZWWpnkbcuEQ"
-      },
-      "artists": [
-        {
-          "name": "Rick Pagano",
-          "url": "https://open.spotify.com/artist/7kvfne8CQPhLpfCrxDPJlQ"
-        }
-      ],
-      "duration_ms": 156079,
-      "name": "Revenir",
-      "url": "https://open.spotify.com/track/6FJ3eEvANQ8OLONsPv7Ufl"
     },
     {
       "added_at": "2026-07-24 04:03:23",

@@ -3747,6 +3747,24 @@
     },
     {
       "album": {
+        "name": "Funkin Blues",
+        "url": "https://open.spotify.com/album/25QR5rLpR6jg4wYH9LSdeh"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Cats",
+          "url": "https://open.spotify.com/artist/2WctWN3DeyAvtYI1sKvvJi"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203173,
+      "name": "Funkin Blues",
+      "url": "https://open.spotify.com/track/6wqlg869am54Wqbct45PYF"
+    },
+    {
+      "album": {
         "name": "Future #1 (2026 Remix)",
         "url": "https://open.spotify.com/album/1QshWiDT9xENuvx0yyeVYa"
       },
@@ -7612,6 +7630,24 @@
       "duration_ms": 307692,
       "name": "Oneida",
       "url": "https://open.spotify.com/track/7qtMKgEM37EINe75ATzRgE"
+    },
+    {
+      "album": {
+        "name": "Takin it all",
+        "url": "https://open.spotify.com/album/3C1OezOI61eFvLXipftoWZ"
+      },
+      "artists": [
+        {
+          "name": "Black Hound",
+          "url": "https://open.spotify.com/artist/3snFZIyWovDIXyPo2K83qV"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Only words",
+      "url": "https://open.spotify.com/track/0WyuNAuLJgYadDsq1TSHpD"
     },
     {
       "album": {

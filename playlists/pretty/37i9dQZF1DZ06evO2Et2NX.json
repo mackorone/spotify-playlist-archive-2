@@ -1,12 +1,12 @@
 {
   "description": "This is Sleater-Kinney. The essential tracks, all in one playlist.",
-  "num_followers": 9023,
+  "num_followers": 9024,
   "original_name": "This Is Sleater-Kinney",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAAkijYh0hLDP8muw7EvtQXr",
+  "snapshot_id": "amVOAAAAAABg3Je3QTU2vngVTXVHQFYb",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleater-Kinney (Remastered)",
-        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "The Day I Went Away",
-      "url": "https://open.spotify.com/track/2OCEjdPPYORoncuWfGzOUf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Path of Wellness",
         "url": "https://open.spotify.com/album/46Yku4K5V0lhqSosqu8GLR"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 231783,
       "name": "Worry With You",
       "url": "https://open.spotify.com/track/47FsO3C9qgAC3W9ZOGkCfj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleater-Kinney (Remastered)",
+        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "The Day I Went Away",
+      "url": "https://open.spotify.com/track/2OCEjdPPYORoncuWfGzOUf"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Rope",
-        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Untidy Creature",
-      "url": "https://open.spotify.com/track/2RNw5tEPBdJ2oT6Gp8Ws7M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Beat (Remastered)",
         "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
       },
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleater-Kinney (Remastered)",
-        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
+        "name": "Little Rope",
+        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 120173,
-      "name": "Slow Song",
-      "url": "https://open.spotify.com/track/3My2zpDpU8ugTIdsH30fwH"
+      "duration_ms": 208906,
+      "name": "Untidy Creature",
+      "url": "https://open.spotify.com/track/2RNw5tEPBdJ2oT6Gp8Ws7M"
     },
     {
       "added_at": null,
@@ -731,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sleater-Kinney (Remastered)",
+        "url": "https://open.spotify.com/album/4BT2qMQcDmjNIIyLHik2lM"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 120173,
+      "name": "Slow Song",
+      "url": "https://open.spotify.com/track/3My2zpDpU8ugTIdsH30fwH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Hands on the Bad One (Remastered)",
         "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 183640,
       "name": "#1 Must Have",
       "url": "https://open.spotify.com/track/2HqV8Jvi5K5QSpSPp91E9A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Beat (Remastered)",
+        "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 167480,
+      "name": "Funeral Song",
+      "url": "https://open.spotify.com/track/4599gPXYzgwfSXwBjoGb6S"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Beat (Remastered)",
-        "url": "https://open.spotify.com/album/6rLlfZB9OWMPHzXL04DusD"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 167480,
-      "name": "Funeral Song",
-      "url": "https://open.spotify.com/track/4599gPXYzgwfSXwBjoGb6S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Hands on the Bad One (Remastered)",
         "url": "https://open.spotify.com/album/0N3mpvC0ZOypiyuaGARa8s"
       },
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
         }
       ],
-      "duration_ms": 174786,
-      "name": "Milkshake n' Honey",
-      "url": "https://open.spotify.com/track/76HBSwLyjfhPDZbtxgYoHz"
+      "duration_ms": 195853,
+      "name": "Was It a Lie?",
+      "url": "https://open.spotify.com/track/43vktok5h1vpc5w2Iwbbqq"
     }
   ],
   "unique_name": "This Is Sleater-Kinney",

@@ -2263,6 +2263,28 @@
     },
     {
       "album": {
+        "name": "Fato Consumado / Amanh\u00e3 / Ponto Final (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7486zmaQ7r1DlbALOzkCvc"
+      },
+      "artists": [
+        {
+          "name": "Robinho",
+          "url": "https://open.spotify.com/artist/0FKMbv813ULLLmjFPZ19wp"
+        },
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286757,
+      "name": "Fato Consumado / Amanh\u00e3 / Ponto Final - Ao Vivo",
+      "url": "https://open.spotify.com/track/5lhjF7ABlNFGi8Vyr5tyPf"
+    },
+    {
+      "album": {
         "name": "TDP20 - Nossa Hist\u00f3ria - EP4 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1SvPh4OD7jQD4NuRGYGhxF"
       },
@@ -6476,7 +6498,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 330000,
       "name": "Um Sinal / Telegrama / Sem Raz\u00e3o / Homem Perfeito - Ao Vivo",
       "url": "https://open.spotify.com/track/24xc9VWDL7MHcdh38zNvLK"

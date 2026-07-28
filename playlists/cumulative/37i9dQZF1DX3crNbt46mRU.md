@@ -4,7 +4,7 @@
 
 > This week's top new releases, including RIN, Charli xcx, Loredana, Pashanim, LEA & many more!
 
-23,505 songs - 48 day 14 hr 4 min
+23,505 songs - 48 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -11886,7 +11886,7 @@
 | [Let Me Down Easy \(Lie\)](https://open.spotify.com/track/4w9qnwPPJRWPOw6DHhNtIc) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Let Me Down Easy \(Lie\)](https://open.spotify.com/album/3jJZCkZWJxe7dbYTOqXuV2) | 2:31 | 2022-04-14 | 2022-04-22 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-09 | 2023-02-17 |
 | [Let Me Go](https://open.spotify.com/track/6GsvmxfWZzmzlGrTsvJ1qR) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Let Me Go](https://open.spotify.com/album/2I2I645AIvlOM49lUYQPlW) | 2:36 | 2024-06-06 | 2024-06-14 |
-| [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:19 | 2026-07-23 |  |
+| [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:16 | 2026-07-23 |  |
 | [Let Me Go](https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Let Me Go](https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee) | 3:03 | 2023-06-08 | 2023-06-16 |
 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 | 2025-03-13 | 2025-03-21 |
 | [Let Me Love You](https://open.spotify.com/track/2ei8KxDjnEENopWVnxGWEs) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Let Me Love You](https://open.spotify.com/album/64iyyuuiiPT2DtwRo4mNG8) | 3:32 | 2025-08-21 | 2025-08-30 |
@@ -15769,7 +15769,7 @@
 | [Paperhearts](https://open.spotify.com/track/2g32bDB4sA3zGuQ5iyqewv) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Paperhearts](https://open.spotify.com/album/7lqC3fVa3AQhI7aF5lkwuj) | 3:03 | 2025-01-09 | 2025-01-17 |
 | [papi](https://open.spotify.com/track/0LSIotnbg11uvuP4aQ06vh) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [papi](https://open.spotify.com/album/2lt8FksjKnX7Wv78LYpCmn) | 1:29 | 2026-02-27 | 2026-03-06 |
 | [PAPI CHULO](https://open.spotify.com/track/74xBH3Rv3fE5dLyi9O3npt) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [KIDS WITH ATTITUDE](https://open.spotify.com/album/54cTUMcICp6BAEk5G49m3z) | 2:14 | 2022-11-24 | 2022-12-02 |
-| [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:27 | 2026-07-23 |  |
+| [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:00 | 2026-07-23 |  |
 | [Papier rose](https://open.spotify.com/track/1aRvYNhG8UWZoKOacSjkfJ) | [100 Blaze](https://open.spotify.com/artist/0JxUh8qDlG3xflSV9Of500), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Blow](https://open.spotify.com/album/1VLRTBE1ppxnbxSwOFtwq1) | 2:51 | 2022-04-14 | 2022-04-22 |
 | [PAPIERFLIEGER](https://open.spotify.com/track/3It9ACCFKc7Mm0bUkKMvAN) | [Fard](https://open.spotify.com/artist/7iZ5x5fwRwROoX3iRWpVgN) | [PAPIERFLIEGER](https://open.spotify.com/album/0Od6sE1X1tLjMKSU6yAttE) | 2:40 | 2022-09-29 | 2022-10-07 |
 | [Papillon](https://open.spotify.com/track/7h1tB4DIanO22TlRxbnTcc) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Papillon](https://open.spotify.com/album/5k2ytou7kc4qjcmQQ0uaRr) | 3:20 | 2026-06-25 | 2026-07-03 |

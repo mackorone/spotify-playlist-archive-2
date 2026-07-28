@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Viva Belgrado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,156 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,158 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 3 | [Ven \(dónde estás\)](https://open.spotify.com/track/2tCmocAp3QSuzze6uGezCi) | [Nepal Nepal](https://open.spotify.com/artist/5IgKw66ky3FmSx4GZftWvc), [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [Ven \(dónde estás\)](https://open.spotify.com/album/32mZ5OtQJV7MttAiERaiEO) | 3:07 |
 | 4 | [Barro](https://open.spotify.com/track/6HUvZJPij7HhU2nyBMoBdI) | [Chicle](https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU) | [Barro](https://open.spotify.com/album/5Ej715h0WyeMNleYBPM99u) | 2:01 |
 | 5 | [TIPOS DUROS](https://open.spotify.com/track/6O5EF55NTj7Pf8dkTvs9GL) | [RATA](https://open.spotify.com/artist/28xI1L1VYJXU9XnhzWmHdR) | [TIPOS DUROS](https://open.spotify.com/album/5kUpKxg9udGOi8sliS9z4m) | 3:39 |
-| 6 | [EMBUSTERO](https://open.spotify.com/track/7rcroTAq55UJXJppGF3kNe) | [Chicle](https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU) | [EMBUSTERO](https://open.spotify.com/album/3YhFNucKZiABtkmczIxeDe) | 2:26 |
-| 7 | [TURISTA](https://open.spotify.com/track/3YUOzmeXftEYkcEKMjctDQ) | [Wet Iguanas](https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC) | [TURISTA](https://open.spotify.com/album/3PywphFNNtfKzSwWDFRpW4) | 2:32 |
+| 6 | [TURISTA](https://open.spotify.com/track/3YUOzmeXftEYkcEKMjctDQ) | [Wet Iguanas](https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC) | [TURISTA](https://open.spotify.com/album/3PywphFNNtfKzSwWDFRpW4) | 2:32 |
+| 7 | [EMBUSTERO](https://open.spotify.com/track/7rcroTAq55UJXJppGF3kNe) | [Chicle](https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU) | [EMBUSTERO](https://open.spotify.com/album/3YhFNucKZiABtkmczIxeDe) | 2:26 |
 | 8 | [DtMF](https://open.spotify.com/track/1W1eBWJdSwv5fXoDyDRlyO) | [Capros](https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM) | [DtMF](https://open.spotify.com/album/1fdsmehSRG0Z20gxiDb7ue) | 3:17 |
 | 9 | [Bigger Splash](https://open.spotify.com/track/1Iglg0BzSGKUh1bdoloFpb) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Bigger Splash](https://open.spotify.com/album/3FQsXp0okLvibv2KLf56f6) | 4:30 |
 | 10 | [Tú Me Dejaste De Querer](https://open.spotify.com/track/2TEORcb3kMFCmc4dwAF7Ik) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/5CezIfYlHiZ374VhyZWyuN) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [No te atreves](https://open.spotify.com/track/26DQhrcaSnBzg256xbxnQf) | [Dear Joanne](https://open.spotify.com/artist/2JIPw69fHWYALCdZDDphpa) | [No te atreves](https://open.spotify.com/album/5FJMzwDqkkMSc7bOVE9H9p) | 1:00 |
 | 100 | [SUAAVE](https://open.spotify.com/track/4YWoZ0RD8NjvTNclzCsBok) | [Puño Dragón](https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK) | [SUAAVE](https://open.spotify.com/album/4TMkzaJi1N5N65sxQ2cVq9) | 2:50 |
 
-Snapshot ID: `AAAAALZHoD70Vxz9zmIj+im7pyTSdmfQ`
+Snapshot ID: `AAAAAKv3j1G9S/531cOPvedMtu4pe6No`

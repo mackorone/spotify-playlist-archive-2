@@ -1,6 +1,6 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 387023,
+  "num_followers": 387035,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/4HucnJEyRrftVJCYfMzWDp"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 153333,
       "name": "She Thinks I Still Care - Single Version",
       "url": "https://open.spotify.com/track/5pwqtpAazoPh1G3txEIPAB"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
-        "name": "Honey - The Best of Bobby Goldsboro",
-        "url": "https://open.spotify.com/album/16QapBbCMXHEekBXfUCiKp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Goldsboro",
-          "url": "https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o"
-        }
-      ],
-      "duration_ms": 239066,
-      "name": "Honey - 1991 - Remaster",
-      "url": "https://open.spotify.com/track/3ZnlYvqCnjJ7OeZhVKkWPg"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+        "name": "Honey - The Best of Bobby Goldsboro",
+        "url": "https://open.spotify.com/album/16QapBbCMXHEekBXfUCiKp"
       },
       "artists": [
         {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+          "name": "Bobby Goldsboro",
+          "url": "https://open.spotify.com/artist/5gPEo032lzARtzuVqJIm9o"
         }
       ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
+      "duration_ms": 239066,
+      "name": "Honey - 1991 - Remaster",
+      "url": "https://open.spotify.com/track/3ZnlYvqCnjJ7OeZhVKkWPg"
     },
     {
       "added_at": "2026-02-17 04:47:51",

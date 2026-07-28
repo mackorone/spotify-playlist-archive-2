@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: Cö shu Nie
 
-2,064 songs - 5 day 7 hr 45 min
+2,065 songs - 5 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1684,7 +1684,7 @@
 | [嫌気](https://open.spotify.com/track/7xdegvXweLYWlkxhEG2Wqp) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [嫌気](https://open.spotify.com/album/3yGVq8AYAVgx3aEgjkzY1t) | 3:03 | 2025-09-23 | 2025-12-24 |
 | [季節のはじまり](https://open.spotify.com/track/4Xclo97cFoJaFCq70gVPm0) | [Crispy Camera Club](https://open.spotify.com/artist/3qEb8wuWUimyFEe3a8kF90) | [季節のはじまり](https://open.spotify.com/album/66lO0ZZKlECx4OUblrX1n2) | 4:50 | 2022-06-07 | 2022-07-02 |
 | [孤独](https://open.spotify.com/track/6ndWUlXOg6EwE4Pq5LUhIW) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [今、私は19歳](https://open.spotify.com/album/3ToNqq3rAeJ3XMHFX9DxqM) | 2:59 | 2023-03-07 | 2023-03-09 |
-| [宇宙船ハート号](https://open.spotify.com/track/5mysqbzC0rd2v0ntHjBnY0) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [宇宙船ハート号](https://open.spotify.com/album/2sKDkD5geCtKjHDbrKdcMJ) | 3:38 | 2026-06-09 |  |
+| [宇宙船ハート号](https://open.spotify.com/track/5mysqbzC0rd2v0ntHjBnY0) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [宇宙船ハート号](https://open.spotify.com/album/2sKDkD5geCtKjHDbrKdcMJ) | 3:38 | 2026-06-09 | 2026-07-28 |
 | [安酒にロマンス](https://open.spotify.com/track/7KJFUB6JS0MSn2Xv3PpUcV) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [ふたりでいたい。](https://open.spotify.com/album/5JZktNV6tloXMRGKlZYRbZ) | 2:55 | 2024-07-30 | 2024-08-07 |
 | [宝物を探して](https://open.spotify.com/track/1iCmaoArriFC1tl6AVWDN2) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [宝物を探して](https://open.spotify.com/album/0QMVdecFQ6xf1HGexKqUzH) | 3:49 | 2022-09-27 | 2022-10-28 |
 | [寿司とTシャツのあたし](https://open.spotify.com/track/6DrKOrOBRwxN8kjd5J8FiQ) | [LYRIC YANKEE](https://open.spotify.com/artist/1wE4TpdVduLdTIGPi2gE0O) | [寿司とTシャツのあたし](https://open.spotify.com/album/6RNRcdTuodO1dZNWk2WcP1) | 3:14 | 2022-06-23 | 2022-07-27 |
@@ -2068,6 +2068,7 @@
 | [魔法使いは二度死ぬ](https://open.spotify.com/track/5Vq0AO2035rN0NmF4WkuDT) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [超天獄](https://open.spotify.com/album/1bQdf81b8Akd262qhyd1xo) | 4:29 | 2022-10-25 | 2022-11-09 |
 | [魔物](https://open.spotify.com/track/5nRqxMtMJMeZQJOEeBty2R) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [魔物](https://open.spotify.com/album/3PrpOWglrhSFUSFXZmNIUl) | 3:06 | 2025-05-13 | 2025-08-06 |
 | [魔王様](https://open.spotify.com/track/66DYdcpqt9M0HStiJDMR2V) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [DOKI](https://open.spotify.com/album/7p0YAxcwl70MPrzlraOSE5) | 3:25 | 2024-02-13 | 2024-02-15 |
+| [魚](https://open.spotify.com/track/3c98GZdP2qgTOr4zxLLbZL) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [魚](https://open.spotify.com/album/1a8sZEko8yhWxhtF1nrVIb) | 3:12 | 2026-07-21 |  |
 | [魚を追いかけて](https://open.spotify.com/track/3rOmeh2KOIvbEGGBQKm15W) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [魚を追いかけて](https://open.spotify.com/album/0BIQ7RwLDzgYhpWNMc0we2) | 3:58 | 2024-01-16 | 2024-02-28 |
 | [鴉](https://open.spotify.com/track/0rHkKHRpSiaXf2VYoToWOE) | [epi frag beater](https://open.spotify.com/artist/4wD8Ve8rKZfQKeAp9OVqvq), [Auver Ride](https://open.spotify.com/artist/3u2aMivIT0Drja3c81CWgb) | [epi frag beater](https://open.spotify.com/album/3heXw8x4LVyEHHVyCdGIHD) | 3:52 | 2024-06-12 | 2024-06-19 |
 | [黄色い](https://open.spotify.com/track/2Pzo1bYmtWfAVcPHUD6Ypm) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [なんてHAPPY LUCKY](https://open.spotify.com/album/1NTvfq8M9U8vEBmY0rQwo3) | 2:14 | 2026-04-21 | 2026-04-30 |

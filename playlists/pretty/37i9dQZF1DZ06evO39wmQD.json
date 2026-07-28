@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3371,
+  "num_followers": 3372,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAADwwAvTohwbe7uMPafdjEv4",
+  "snapshot_id": "amVOAAAAAAARCazc4wd/zBSz8wrS5d/x",
   "tracks": [
     {
       "added_at": null,
@@ -144,21 +144,25 @@
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Villagers of Motunui",
-          "url": "https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm"
+          "name": "Hual\u0101lai Chung",
+          "url": "https://open.spotify.com/artist/2yQnOZL6KBqo4Ar4glh6F0"
         },
         {
-          "name": "Te Vaka",
-          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
+          "name": "Rose Matafeo",
+          "url": "https://open.spotify.com/artist/6XsikqEx9qFXIAquVK1akU"
+        },
+        {
+          "name": "David Fane",
+          "url": "https://open.spotify.com/artist/5gwLn7twOXJfXjf0oJ7W2D"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 191746,
-      "name": "We're Back",
-      "url": "https://open.spotify.com/track/7rzMGJGXXkuw2IbyHqdZlp"
+      "duration_ms": 179040,
+      "name": "What Could Be Better Than This?",
+      "url": "https://open.spotify.com/track/0dKpTh3oDHuBTwPlKiCxAF"
     },
     {
       "added_at": null,
@@ -244,25 +248,21 @@
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Hual\u0101lai Chung",
-          "url": "https://open.spotify.com/artist/2yQnOZL6KBqo4Ar4glh6F0"
+          "name": "Villagers of Motunui",
+          "url": "https://open.spotify.com/artist/5IxJyEUqhBte1rRbViGjNm"
         },
         {
-          "name": "Rose Matafeo",
-          "url": "https://open.spotify.com/artist/6XsikqEx9qFXIAquVK1akU"
-        },
-        {
-          "name": "David Fane",
-          "url": "https://open.spotify.com/artist/5gwLn7twOXJfXjf0oJ7W2D"
+          "name": "Te Vaka",
+          "url": "https://open.spotify.com/artist/5sClZWCp2BelTSEB9cU51M"
         },
         {
           "name": "Disney",
           "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 179040,
-      "name": "What Could Be Better Than This?",
-      "url": "https://open.spotify.com/track/0dKpTh3oDHuBTwPlKiCxAF"
+      "duration_ms": 191746,
+      "name": "We're Back",
+      "url": "https://open.spotify.com/track/7rzMGJGXXkuw2IbyHqdZlp"
     },
     {
       "added_at": null,
@@ -607,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hailey's On It! (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
-      },
-      "artists": [
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Manny Jacinto",
-          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
-        }
-      ],
-      "duration_ms": 88284,
-      "name": "You Fit Me Perfectly",
-      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
         "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 181644,
       "name": "The Perfect Me (Finale)",
       "url": "https://open.spotify.com/track/0RXgQc5EtRMQHs9jveAcPk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hailey's On It! (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ilGEvay7lGWOhzdRhZysF"
+      },
+      "artists": [
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Manny Jacinto",
+          "url": "https://open.spotify.com/artist/1fGRFzOGmJH0BtpXvQ8NPz"
+        }
+      ],
+      "duration_ms": 88284,
+      "name": "You Fit Me Perfectly",
+      "url": "https://open.spotify.com/track/1J7H4msE4xhXAdCNPMfB6i"
     },
     {
       "added_at": null,
@@ -699,30 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Word Of Your Body (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
-      },
-      "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "The Word Of Your Body - Rise Cast Version",
-      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lulu Is a Rhinoceros (Soundtrack from the Apple Original)",
         "url": "https://open.spotify.com/album/4yLstI8rWhwy7AKwq5jVGg"
       },
@@ -743,6 +719,30 @@
       "duration_ms": 148557,
       "name": "Rhino Proof",
       "url": "https://open.spotify.com/track/5ustWk7KMW0rryXpJfYI2i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Word Of Your Body (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "The Word Of Your Body - Rise Cast Version",
+      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
     },
     {
       "added_at": null,

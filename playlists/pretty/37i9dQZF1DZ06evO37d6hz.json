@@ -1,12 +1,12 @@
 {
   "description": "This is Laurie Spiegel. The essential tracks, all in one playlist.",
-  "num_followers": 509,
+  "num_followers": 508,
   "original_name": "This Is Laurie Spiegel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAAkX307ZmZHt0RD768jphgH",
+  "snapshot_id": "amVOAAAAAAB4iH6NJ4A6N1UL/taL07Pk",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
+        "name": "Prsnt",
+        "url": "https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4"
       },
       "artists": [
-        {
-          "name": "VooCha",
-          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
-        },
         {
           "name": "Laurie Spiegel",
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 158500,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r"
+      "duration_ms": 35005,
+      "name": "FlyBy",
+      "url": "https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8"
     },
     {
       "added_at": null,
@@ -179,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prsnt",
-        "url": "https://open.spotify.com/album/4oUVYdKhIW3QPFes8gwHv4"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 35005,
-      "name": "FlyBy",
-      "url": "https://open.spotify.com/track/4MoAIzqi4Vicj6gWC80YO8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
       },
@@ -208,9 +188,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 171874,
-      "name": "Taking It Further",
-      "url": "https://open.spotify.com/track/6Ph3sAJMW1MXr0X6tAltVp"
+      "duration_ms": 158500,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r"
     },
     {
       "added_at": null,
@@ -312,9 +292,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4"
+      "duration_ms": 171874,
+      "name": "Taking It Further",
+      "url": "https://open.spotify.com/track/6Ph3sAJMW1MXr0X6tAltVp"
     },
     {
       "added_at": null,
@@ -347,6 +327,26 @@
       "duration_ms": 322960,
       "name": "Appalachian Grove I",
       "url": "https://open.spotify.com/track/58ODorNYopmxNhZnWdjQjO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
+      },
+      "artists": [
+        {
+          "name": "VooCha",
+          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
+        },
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4"
     }
   ],
   "unique_name": "This Is Laurie Spiegel",

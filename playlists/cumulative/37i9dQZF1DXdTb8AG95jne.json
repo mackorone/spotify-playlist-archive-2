@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: LIM KIM) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: kwacamolee(\uacfc\uce74\ubab0\ub9ac)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -4533,6 +4533,24 @@
     },
     {
       "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/6OHUIjVYP12r5212ioJtRI"
+      },
+      "artists": [
+        {
+          "name": "Alice Syndrome",
+          "url": "https://open.spotify.com/artist/7fNeWBcx24ttY7l6TxFDJx"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/2BWqnsiMhGNpNa9NGLv9VC"
+    },
+    {
+      "album": {
         "name": "?!",
         "url": "https://open.spotify.com/album/1uhyHd8foilSr6qLYjzEwc"
       },
@@ -7531,6 +7549,28 @@
     },
     {
       "album": {
+        "name": "The Axis",
+        "url": "https://open.spotify.com/album/7riPD8f4L7HRJEv212Ildn"
+      },
+      "artists": [
+        {
+          "name": "kwacamolee",
+          "url": "https://open.spotify.com/artist/0rTxTUZTuPGp4faAnCgcxM"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195792,
+      "name": "Fruits (Feat. Gemini)",
+      "url": "https://open.spotify.com/track/4XNkq4wCao7xQSpU84oVTZ"
+    },
+    {
+      "album": {
         "name": "Funky Drive",
         "url": "https://open.spotify.com/album/1nE2YT12F7GD0IVD7O8Rci"
       },
@@ -8802,7 +8842,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 283024,
       "name": "Heart of Gold",
       "url": "https://open.spotify.com/track/3ei1nPTxRlGUWYfNMTCds9"
@@ -18018,7 +18058,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 179909,
       "name": "Sanha Express",
       "url": "https://open.spotify.com/track/2RrPNyH9ncokySNU3wJnQ1"
@@ -22806,7 +22846,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 220000,
       "name": "victim mentality",
       "url": "https://open.spotify.com/track/48GvrfUWFnrxOxkiSthRIO"
@@ -23160,6 +23200,24 @@
       "duration_ms": 357685,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/3etI6U4FQnHmsSDjrCi2f2"
+    },
+    {
+      "album": {
+        "name": "The Axis",
+        "url": "https://open.spotify.com/album/7riPD8f4L7HRJEv212Ildn"
+      },
+      "artists": [
+        {
+          "name": "kwacamolee",
+          "url": "https://open.spotify.com/artist/0rTxTUZTuPGp4faAnCgcxM"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149269,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/27MjCWV60aUNS4ZEfgWr72"
     },
     {
       "album": {

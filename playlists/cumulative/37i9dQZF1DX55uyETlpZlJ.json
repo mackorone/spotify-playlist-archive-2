@@ -2791,6 +2791,28 @@
     },
     {
       "album": {
+        "name": "Dhuni",
+        "url": "https://open.spotify.com/album/5nX5LrXewpibmNocAyf1qm"
+      },
+      "artists": [
+        {
+          "name": "Manvith Karkera",
+          "url": "https://open.spotify.com/artist/6lGuqxlQ4esOsUzZNZ1Pkw"
+        },
+        {
+          "name": "Anviksha Dayanand",
+          "url": "https://open.spotify.com/artist/5HKDJaeh3NYCqBTaAB3YR7"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148313,
+      "name": "Dhuni",
+      "url": "https://open.spotify.com/track/3qMfhlZDBmaBitonbmpo0d"
+    },
+    {
+      "album": {
         "name": "Dhwamsa",
         "url": "https://open.spotify.com/album/7gfsBikbTwo0UhYsWoKWzp"
       },
@@ -5432,7 +5454,7 @@
       ],
       "date_added": "2026-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 153396,
       "name": "Iruve Nee Nannalli",
       "url": "https://open.spotify.com/track/2PcqYjhJmC3dmOSPeft1Qp"
@@ -5806,7 +5828,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 150134,
       "name": "JUST US (Kannada)",
       "url": "https://open.spotify.com/track/1BqDuxYKnngiQhOCCivKhL"

@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 171089,
       "name": "Du & Ich",
       "url": "https://open.spotify.com/track/2JqugrOxS9f2AXmclSCGfA"
@@ -2816,7 +2816,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 170973,
       "name": "HAUS AM SEE",
       "url": "https://open.spotify.com/track/7qUgmfp9AoqOIj9Yrbr7ue"
@@ -4643,6 +4643,24 @@
     },
     {
       "album": {
+        "name": "Meine Welt",
+        "url": "https://open.spotify.com/album/3uCXw3zomzkSPHe9LX3HXB"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149061,
+      "name": "Meine Welt",
+      "url": "https://open.spotify.com/track/00m8Dz5zDd1joPYxkHGKEl"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/63mqkFwL6GiyvqXAweVeHT"
       },
@@ -6176,6 +6194,32 @@
       "duration_ms": 183000,
       "name": "Sehnsucht",
       "url": "https://open.spotify.com/track/5PFZFkJScGwK1mmyFtjBqK"
+    },
+    {
+      "album": {
+        "name": "Seite an Seite",
+        "url": "https://open.spotify.com/album/56he14BpKsirM76ZLonOa1"
+      },
+      "artists": [
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210418,
+      "name": "Seite an Seite",
+      "url": "https://open.spotify.com/track/7FwiW63H6Ului0e2nDhlkc"
     },
     {
       "album": {

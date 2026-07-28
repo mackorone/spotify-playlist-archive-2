@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 58205,
+  "num_followers": 58215,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "The Geeks and the Jerkin' Socks",
-        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "I'm Picky",
-      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Vari\u00e9ty",
         "url": "https://open.spotify.com/album/0tjC4Z1dqSoWZ22pA4zSZL"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 219933,
       "name": "Ding Dang Dong (Ringing at Your Bell)",
       "url": "https://open.spotify.com/track/5SMv636dHIy8h1TXjoboue"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "The Geeks and the Jerkin' Socks",
+        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "I'm Picky",
+      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "The Geeks and the Jerkin' Socks",
-        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 207132,
-      "name": "My Name Is Stain",
-      "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 180666,
       "name": "Je cours",
       "url": "https://open.spotify.com/track/15RN1rfzBWaAv6B9RBWLGu"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "The Geeks and the Jerkin' Socks",
+        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 207132,
+      "name": "My Name Is Stain",
+      "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "La cerise",
-        "url": "https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC"
-      },
-      "artists": [
-        {
-          "name": "Matmatah",
-          "url": "https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "La cerise",
-      "url": "https://open.spotify.com/track/2quLcKfpSNzpnqSnR41MA5"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Matador",
         "url": "https://open.spotify.com/album/7ELKvakLxSb8aesWRLdYo7"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 186440,
       "name": "Matador",
       "url": "https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "La cerise",
+        "url": "https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC"
+      },
+      "artists": [
+        {
+          "name": "Matmatah",
+          "url": "https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "La cerise",
+      "url": "https://open.spotify.com/track/2quLcKfpSNzpnqSnR41MA5"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Notre Epoque",
-        "url": "https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo"
-      },
-      "artists": [
-        {
-          "name": "Tarmac",
-          "url": "https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "Notre Epoque",
-      "url": "https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Aucun mal ne vous sera fait",
         "url": "https://open.spotify.com/album/67KzexkVZ1xJZH5ZjNBVKW"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Revolution.com",
-        "url": "https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo"
+        "name": "Notre Epoque",
+        "url": "https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo"
       },
       "artists": [
         {
-          "name": "No One Is Innocent",
-          "url": "https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3"
+          "name": "Tarmac",
+          "url": "https://open.spotify.com/artist/7jj1zcBEwp0Joqfb9Bdk7J"
         }
       ],
-      "duration_ms": 207173,
-      "name": "revolution.com",
-      "url": "https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg"
+      "duration_ms": 214666,
+      "name": "Notre Epoque",
+      "url": "https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -715,6 +699,22 @@
       "duration_ms": 199960,
       "name": "Je me souviens, je me rappelle",
       "url": "https://open.spotify.com/track/3vgmRlBi986YeWV95UNgJ6"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "Revolution.com",
+        "url": "https://open.spotify.com/album/2ARdTJwLcGdw0GGhbeEfSo"
+      },
+      "artists": [
+        {
+          "name": "No One Is Innocent",
+          "url": "https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3"
+        }
+      ],
+      "duration_ms": 207173,
+      "name": "revolution.com",
+      "url": "https://open.spotify.com/track/7ciDK4wg2Lmk7KaoWWYtgg"
     },
     {
       "added_at": "2025-11-13 09:07:41",

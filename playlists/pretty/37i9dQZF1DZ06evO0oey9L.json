@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 101007,
+  "num_followers": 101031,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAABp/Jf+I6+Aw3wNnViPvEzA",
+  "snapshot_id": "amVOAAAAAABdadAX2jK4HguPjKC01oGz",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LENTES LV",
-        "url": "https://open.spotify.com/album/2jVrGYAzQEi2N5gI1ekfoh"
+        "name": "Toxico",
+        "url": "https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 155303,
-      "name": "LENTES LV",
-      "url": "https://open.spotify.com/track/5ArRI9Pc9u42Zwiz4oKMBK"
+      "duration_ms": 192728,
+      "name": "Toxico",
+      "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxico",
-        "url": "https://open.spotify.com/album/4I0R8OWIPyys8QLD8QBxvh"
+        "name": "LENTES LV",
+        "url": "https://open.spotify.com/album/2jVrGYAzQEi2N5gI1ekfoh"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 192728,
-      "name": "Toxico",
-      "url": "https://open.spotify.com/track/2o7e5mcEqUzAhrLIqBAFKv"
+      "duration_ms": 155303,
+      "name": "LENTES LV",
+      "url": "https://open.spotify.com/track/5ArRI9Pc9u42Zwiz4oKMBK"
     },
     {
       "added_at": null,

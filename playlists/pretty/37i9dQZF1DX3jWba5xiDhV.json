@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 418010,
+  "num_followers": 418184,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+      },
+      "artists": [
+        {
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "One for You, One for Me",
+      "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
+    },
+    {
+      "added_at": "2026-07-09 22:02:42",
+      "album": {
         "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
         "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 244075,
       "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
       "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
-    },
-    {
-      "added_at": "2026-07-09 22:02:42",
-      "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
-      },
-      "artists": [
-        {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "One for You, One for Me",
-      "url": "https://open.spotify.com/track/6I12Vl7TiKpYckZaezSEui"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "ITVLO",
-        "url": "https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR"
-      },
-      "artists": [
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 287267,
-      "name": "ITVLO",
-      "url": "https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr"
-    },
-    {
-      "added_at": "2026-07-09 22:02:42",
-      "album": {
         "name": "I Need You Tonite / Tonight",
         "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 390127,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+    },
+    {
+      "added_at": "2026-07-09 22:02:42",
+      "album": {
+        "name": "ITVLO",
+        "url": "https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 287267,
+      "name": "ITVLO",
+      "url": "https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "Tacchini",
-        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        }
-      ],
-      "duration_ms": 289815,
-      "name": "Tacchini",
-      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
-    },
-    {
-      "added_at": "2026-07-09 22:02:42",
-      "album": {
         "name": "Insieme",
         "url": "https://open.spotify.com/album/2UyUMOvrS4GzC8Zrc7UYLm"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 185401,
       "name": "Insieme",
       "url": "https://open.spotify.com/track/4DSjwylMkecSMTG4Xxa0Bj"
+    },
+    {
+      "added_at": "2026-07-09 22:02:42",
+      "album": {
+        "name": "Dedicated To The Moon",
+        "url": "https://open.spotify.com/album/7yph4dnSdjHs2ke5ZZU2Lu"
+      },
+      "artists": [
+        {
+          "name": "Ivana Spagna",
+          "url": "https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno"
+        }
+      ],
+      "duration_ms": 290866,
+      "name": "Easy Lady",
+      "url": "https://open.spotify.com/track/2tHiQoEBpbwpoPJQ435LJ8"
     },
     {
       "added_at": "2026-07-09 22:02:42",
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-07-09 22:02:42",
       "album": {
-        "name": "Dedicated To The Moon",
-        "url": "https://open.spotify.com/album/7yph4dnSdjHs2ke5ZZU2Lu"
+        "name": "Tacchini",
+        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
       },
       "artists": [
         {
-          "name": "Ivana Spagna",
-          "url": "https://open.spotify.com/artist/6RA9iJdNW5Lt7xTJhUBAno"
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
         }
       ],
-      "duration_ms": 290866,
-      "name": "Easy Lady",
-      "url": "https://open.spotify.com/track/2tHiQoEBpbwpoPJQ435LJ8"
+      "duration_ms": 289815,
+      "name": "Tacchini",
+      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
     },
     {
       "added_at": "2026-07-09 22:02:42",

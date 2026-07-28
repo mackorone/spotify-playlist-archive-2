@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Ton Carfi
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,776 likes - 48 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,823 likes - 48 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

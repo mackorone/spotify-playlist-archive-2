@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 107133,
       "name": "As the Sun Kissed the Horizon",
       "url": "https://open.spotify.com/track/7k1SYL49hsMcFgIPsG0FmO"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 308175,
       "name": "Black Lamb and Grey Falcon",
       "url": "https://open.spotify.com/track/0lhkLqfUNI2B4eCpsp12B8"
@@ -2976,6 +2976,24 @@
           "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
         }
       ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188493,
+      "name": "Stordjupta",
+      "url": "https://open.spotify.com/track/4Px3C56StrFkcNsAjjJ7AQ"
+    },
+    {
+      "album": {
+        "name": "The Senja Recordings",
+        "url": "https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
       "date_removed": "2023-12-22",
@@ -3432,7 +3450,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-12",
+      "date_removed": null,
       "duration_ms": 224400,
       "name": "Times When I Know You'll Be Sad",
       "url": "https://open.spotify.com/track/1WgRcGb2uxmRvCcbPsz4kw"
@@ -3468,7 +3486,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 291828,
       "name": "Too Fragile to Walk On",
       "url": "https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks"
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 190403,
       "name": "Two Ocean Plateau",
       "url": "https://open.spotify.com/track/2PJAh9IeZhEDWMa08xZVIf"

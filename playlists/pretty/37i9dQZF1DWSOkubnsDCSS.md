@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 
 > Flow so good, it deserved a reload\.  Cover: Yizzy, Jme
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,565 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,486 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 28 | [Check Dis](https://open.spotify.com/track/1lyIwetPEavr3TuSVwaHxN) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Check Dis](https://open.spotify.com/album/5BW7q1epzfJ3JWplkTqk6m) | 2:29 |
 | 29 | [Falling Into Place](https://open.spotify.com/track/1Pmz95JwdCItjhPzOCpyga) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [scruz](https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn) | [signature sound](https://open.spotify.com/album/3q07K9HBN5xuTHJViysGrF) | 2:30 |
 | 30 | [Dreaming](https://open.spotify.com/track/3XvYLYepT6vVwbEFdW51ws) | [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ), [Numa Crew](https://open.spotify.com/artist/1tov99lRWyoWgwcnrBFADL), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp) | [Killing Time](https://open.spotify.com/album/7aeGkSrHin7gULg31SzIen) | 2:36 |
-| 31 | [TUFF](https://open.spotify.com/track/0BdOk4wHgmou8pQAVmot5W) | [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy), [Paul Stephan](https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF), [t.o](https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [TUFF](https://open.spotify.com/album/2PGtIrYSJiy5bw7Tcad6HN) | 3:15 |
-| 32 | [Active](https://open.spotify.com/track/0S4v7cMGdVr3wpxtbsVnVQ) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Active](https://open.spotify.com/album/2k7Ug9KFqKGbLjXoVRDhwI) | 3:40 |
+| 31 | [Active](https://open.spotify.com/track/0S4v7cMGdVr3wpxtbsVnVQ) | [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Active](https://open.spotify.com/album/2k7Ug9KFqKGbLjXoVRDhwI) | 3:40 |
+| 32 | [TUFF](https://open.spotify.com/track/0BdOk4wHgmou8pQAVmot5W) | [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy), [Paul Stephan](https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF), [t.o](https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [TUFF](https://open.spotify.com/album/2PGtIrYSJiy5bw7Tcad6HN) | 3:15 |
 | 33 | [Somebody Help?](https://open.spotify.com/track/4nVlovvJ5GnA7JgSBhNs7e) | [Twenty'8](https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu) | [Somebody Help?](https://open.spotify.com/album/5sUHs8jEOc4nwJkeWgfssW) | 2:44 |
 | 34 | [premium wear](https://open.spotify.com/track/6pKJ4KJfFW1M56NhlSm77e) | [namesbliss](https://open.spotify.com/artist/69NBSJxkHyagyCv9K902iM), [BexBlu](https://open.spotify.com/artist/5pXt1B1htTEbkBbQrgNbhy) | [premium wear](https://open.spotify.com/album/3mCq1Ij05M5IpEneuQPdu8) | 2:31 |
 | 35 | [Putting on Weight](https://open.spotify.com/track/4RuSxcgeanxhLik8LIx3ND) | [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Putting on Weight](https://open.spotify.com/album/4IbnHED3BCP9bjIu68xghy) | 3:03 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 63 | [Bring N Kill](https://open.spotify.com/track/0um0oJHWDBqSLlRF2DCa0D) | [Jus Rival](https://open.spotify.com/artist/1wY9yYakCnVKNEaMSCTe6k) | [Bring N Kill](https://open.spotify.com/album/0Ng3EqYDKU74SZfz5O1yT2) | 2:48 |
 | 64 | [Something Brand New](https://open.spotify.com/track/5M7VKkdDthDs1j9FTum292) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Something Brand New](https://open.spotify.com/album/5KqsKEisnzTiHKhI5AijVY) | 2:03 |
 | 65 | [NO SENSE](https://open.spotify.com/track/6KarkNK3MGxD5xd8NXCIXN) | [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Frost](https://open.spotify.com/artist/4sBgFjTJnHREKsqj14m8LF) | [NO SENSE](https://open.spotify.com/album/4ZQ9aXylRGbQoxe0vTbBIQ) | 3:15 |
-| 66 | [Run Tings](https://open.spotify.com/track/318AWQRiTge3MzdejcatY1) | [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Logan From The OtherSide](https://open.spotify.com/album/79rN0G0CjbKjcKUBAIWhqL) | 3:16 |
-| 67 | [Big Shaq](https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb) | [Shxdow](https://open.spotify.com/artist/53Fh7I0tinM6Ak1rH8lHY8), [+44](https://open.spotify.com/artist/24XhmjozLPqyHFtatU3uqo), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [Blas4Me](https://open.spotify.com/album/5eiODld2WhZdYBvyT1iB6d) | 2:53 |
+| 66 | [Big Shaq](https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb) | [Shxdow](https://open.spotify.com/artist/53Fh7I0tinM6Ak1rH8lHY8), [+44](https://open.spotify.com/artist/24XhmjozLPqyHFtatU3uqo), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [Blas4Me](https://open.spotify.com/album/5eiODld2WhZdYBvyT1iB6d) | 2:53 |
+| 67 | [Run Tings](https://open.spotify.com/track/318AWQRiTge3MzdejcatY1) | [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Logan From The OtherSide](https://open.spotify.com/album/79rN0G0CjbKjcKUBAIWhqL) | 3:16 |
 | 68 | [In My Corner](https://open.spotify.com/track/4JjFRMvjHhNe8Cb1LYWNBY) | [Bruza](https://open.spotify.com/artist/75NoDuNVpPxgRoxyySofSx) | [We're All On TV](https://open.spotify.com/album/2tEJ1zWcGczSfkctYnD0SQ) | 3:42 |
 | 69 | [spirit, pt\. 1](https://open.spotify.com/track/0AONpN0TCxQyLKJeruAV2d) | [Kwoli Black](https://open.spotify.com/artist/4munQWPVKYZ9uQHepLM1qn) | [spirit, pt\. 1](https://open.spotify.com/album/1Hj2yjReH6s8vRCzsNQgNi) | 1:49 |
 | 70 | [Jenova](https://open.spotify.com/track/7sj716ZVpLv3YDCM3ULFsc) | [Just\-B](https://open.spotify.com/artist/6tQKpWqFbZTGXKCrdHJkTh) | [Just\-B](https://open.spotify.com/album/6wosb2TsbT4POqP17ll5R3) | 3:02 |

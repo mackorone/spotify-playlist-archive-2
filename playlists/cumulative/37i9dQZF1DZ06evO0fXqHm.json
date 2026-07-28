@@ -2421,6 +2421,40 @@
     },
     {
       "album": {
+        "name": "RITMADA DO OURO",
+        "url": "https://open.spotify.com/album/6C0SzxXp2Kh1PGefhOwr9p"
+      },
+      "artists": [
+        {
+          "name": "DJ Lp",
+          "url": "https://open.spotify.com/artist/4XOIm4tOnLBiWcGXxsZEiT"
+        },
+        {
+          "name": "Pansa Beats",
+          "url": "https://open.spotify.com/artist/4oxPArmOSLN23wu2qy72xZ"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "MC B7",
+          "url": "https://open.spotify.com/artist/7ir6y8H6PGcwvMSJC5VBMh"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125658,
+      "name": "RITMADA DO OURO",
+      "url": "https://open.spotify.com/track/0ily4YHJe6MrWGfK4eQBro"
+    },
+    {
+      "album": {
         "name": "RomantiDog",
         "url": "https://open.spotify.com/album/00kVv1eVa8WDdhUrGg9yAW"
       },
@@ -3358,7 +3392,7 @@
       ],
       "date_added": "2025-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 124984,
       "name": "Unha Curtinha",
       "url": "https://open.spotify.com/track/46aU21eAWMOQN6RpP7kLkk"

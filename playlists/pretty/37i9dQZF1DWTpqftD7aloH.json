@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 484080,
+  "num_followers": 484180,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,30 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
+        "name": "Clamo Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Marsena",
+          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
+        },
+        {
+          "name": "O Canto das Igrejas",
+          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
+        }
+      ],
+      "duration_ms": 437426,
+      "name": "Clamo Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
         "name": "Santo Pra Sempre (Ao Vivo no Mineir\u00e3o)",
         "url": "https://open.spotify.com/album/3hji0VKEnN3DUK2Zydyr0i"
       },
@@ -111,30 +135,6 @@
       "duration_ms": 624000,
       "name": "O Fogo Arder\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
-        "name": "Clamo Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4Wjcs71kOvbTCLYuqZqXjC"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Marsena",
-          "url": "https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7"
-        },
-        {
-          "name": "O Canto das Igrejas",
-          "url": "https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB"
-        }
-      ],
-      "duration_ms": 437426,
-      "name": "Clamo Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/3Ns4xzoj5d1r0K5pc9uq64"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 327318,
-      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "Avenida do Arrependimento",
         "url": "https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 294457,
       "name": "Castelo Forte - Ao Vivo",
       "url": "https://open.spotify.com/track/3rY3TNiZAvSZoIcxniDROl"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Tua Gl\u00f3ria Me Abra\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 327318,
+      "name": "Tua Gl\u00f3ria Me Abra\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "Si\u00e3o / Derrama (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 508733,
-      "name": "Si\u00e3o / Derrama - Ao Vivo",
-      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "\u00danico (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 412747,
       "name": "Brasa Viva - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Si\u00e3o / Derrama (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 508733,
+      "name": "Si\u00e3o / Derrama - Ao Vivo",
+      "url": "https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 605638,
-      "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore - Ao Vivo",
-      "url": "https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "Era a M\u00e3o de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/5MesMCBT0UOFd8F05266dW"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 170000,
       "name": "Era a M\u00e3o de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/4lOmvsPliiQYrzOu7E2cFA"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 605638,
+      "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore - Ao Vivo",
+      "url": "https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
-        "url": "https://open.spotify.com/album/1h1axBoJHetIHgTIF2ikLw"
-      },
-      "artists": [
-        {
-          "name": "Leandro Soares",
-          "url": "https://open.spotify.com/artist/5QiowaqBJe5wxa8S1c2Xhr"
-        }
-      ],
-      "duration_ms": 218424,
-      "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/5B6IQuwgmq1oVJksv0IUNQ"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "Verdadeira Adora\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/4mll9sU4DycQsglDjkOwek"
       },
@@ -1715,6 +1699,22 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
+        "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
+        "url": "https://open.spotify.com/album/1h1axBoJHetIHgTIF2ikLw"
+      },
+      "artists": [
+        {
+          "name": "Leandro Soares",
+          "url": "https://open.spotify.com/artist/5QiowaqBJe5wxa8S1c2Xhr"
+        }
+      ],
+      "duration_ms": 218424,
+      "name": "N\u00e3o \u00c9 o Fim da Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5B6IQuwgmq1oVJksv0IUNQ"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
         "name": "Doce Voz",
         "url": "https://open.spotify.com/album/7kStmovEGTihQ1Wgndtj2h"
       },
@@ -1731,22 +1731,6 @@
       "duration_ms": 278507,
       "name": "Doce Voz",
       "url": "https://open.spotify.com/track/7LL1Lw9Aqih55x7ur1D3JU"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
-        "name": "Deus de Milagres (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Deus de Milagres - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1775,6 +1759,22 @@
       "duration_ms": 484837,
       "name": "Seja o Centro - Ao Vivo",
       "url": "https://open.spotify.com/track/58JGBmbh8BAraMsBxmIBWj"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "Deus de Milagres (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "duration_ms": 348773,
+      "name": "Deus de Milagres - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba"
     },
     {
       "added_at": "2026-04-10 17:18:15",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-04-10 17:18:15",
       "album": {
-        "name": "N\u00e3o Me Esconderei de Ti",
-        "url": "https://open.spotify.com/album/6fOmrb6SXy3UGzfnPRZ1ms"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 498897,
-      "name": "N\u00e3o Me Esconderei de Ti",
-      "url": "https://open.spotify.com/track/3Gp4BFOewWTBGldUTqTYLV"
-    },
-    {
-      "added_at": "2026-04-10 17:18:15",
-      "album": {
         "name": "O Centro \u00c9s Tu (Ao Vivo)",
         "url": "https://open.spotify.com/album/7jMiatBufmLEb6cMB97g7c"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 345041,
       "name": "O Centro \u00c9s Tu - Ao Vivo",
       "url": "https://open.spotify.com/track/3BooiRxnlIRshivXqwuaGU"
+    },
+    {
+      "added_at": "2026-04-10 17:18:15",
+      "album": {
+        "name": "N\u00e3o Me Esconderei de Ti",
+        "url": "https://open.spotify.com/album/6fOmrb6SXy3UGzfnPRZ1ms"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 498897,
+      "name": "N\u00e3o Me Esconderei de Ti",
+      "url": "https://open.spotify.com/track/3Gp4BFOewWTBGldUTqTYLV"
     },
     {
       "added_at": "2026-04-10 17:18:15",

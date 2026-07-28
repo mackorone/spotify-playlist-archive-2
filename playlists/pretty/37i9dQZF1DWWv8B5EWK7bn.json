@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 208446,
+  "num_followers": 208458,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "If I Promise To Miss You, Will You Go Away",
+        "url": "https://open.spotify.com/album/5l22b8qA3UUkrYFLfVWsnI"
+      },
+      "artists": [
+        {
+          "name": "SEES00000",
+          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
+        }
+      ],
+      "duration_ms": 173626,
+      "name": "RAL2222 - Radio Edit",
+      "url": "https://open.spotify.com/track/3FInZ2hV2VEfiX6GL5xmNL"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "a.s.o.",
         "url": "https://open.spotify.com/album/491ULACRrTCXK4ZTPwRCPa"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 174893,
       "name": "Go On",
       "url": "https://open.spotify.com/track/1mPbccRuO7FwxAWECKveTh"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "If I Promise To Miss You, Will You Go Away",
-        "url": "https://open.spotify.com/album/5l22b8qA3UUkrYFLfVWsnI"
-      },
-      "artists": [
-        {
-          "name": "SEES00000",
-          "url": "https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "RAL2222 - Radio Edit",
-      "url": "https://open.spotify.com/track/3FInZ2hV2VEfiX6GL5xmNL"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "To Unknownia",
-        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 243872,
-      "name": "To Unknownia",
-      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Ghosts",
         "url": "https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 308186,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5CBO4dDJIJlYpicO7HNyFI"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "To Unknownia",
+        "url": "https://open.spotify.com/album/55ScptS5oIVplKya1URUXP"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 243872,
+      "name": "To Unknownia",
+      "url": "https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Mouth Full of Glass",
-        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
-      },
-      "artists": [
-        {
-          "name": "Macie Stewart",
-          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Garter Snake",
-      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Don't Get Me Started",
         "url": "https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 355733,
       "name": "Don't Get Me Started",
       "url": "https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Mouth Full of Glass",
+        "url": "https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq"
+      },
+      "artists": [
+        {
+          "name": "Macie Stewart",
+          "url": "https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Garter Snake",
+      "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "PHASOR",
-        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Mahi Mahi",
         "url": "https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "PHASOR",
+        "url": "https://open.spotify.com/album/0iIfsqcMuRwzmseYvSZw9S"
+      },
+      "artists": [
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/2289HHKbvNgNPobou0Dexl"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
-      },
-      "artists": [
-        {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "High January",
         "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
+      },
+      "artists": [
+        {
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
+        }
+      ],
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
-      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Al Sur",
         "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Space Jumps",
-        "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
       },
       "artists": [
         {
-          "name": "Memory Of Jane",
-          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 211386,
-      "name": "Space Jumps",
-      "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
+      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1307,6 +1291,22 @@
       "duration_ms": 194200,
       "name": "Processional",
       "url": "https://open.spotify.com/track/3leOjmmcUGrjEwpkxVQn3R"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Space Jumps",
+        "url": "https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM"
+      },
+      "artists": [
+        {
+          "name": "Memory Of Jane",
+          "url": "https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM"
+        }
+      ],
+      "duration_ms": 211386,
+      "name": "Space Jumps",
+      "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+      },
+      "artists": [
+        {
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "Sekwar",
+      "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "love is not the poison",
         "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
       },
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
       },
       "artists": [
         {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
         }
       ],
-      "duration_ms": 274626,
-      "name": "Sekwar",
-      "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1403,18 +1419,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+        "name": "Dog's Life",
+        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
       },
       "artists": [
         {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+          "name": "plantoid",
+          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
         }
       ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
+      "duration_ms": 237702,
+      "name": "Dog's Life",
+      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1431,22 +1447,6 @@
       "duration_ms": 300866,
       "name": "Dividual Individual",
       "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Dog's Life",
-        "url": "https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX"
-      },
-      "artists": [
-        {
-          "name": "plantoid",
-          "url": "https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd"
-        }
-      ],
-      "duration_ms": 237702,
-      "name": "Dog's Life",
-      "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Songs To Whistle When Strolling Along The Abyss",
+        "url": "https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle"
+      },
+      "artists": [
+        {
+          "name": "Mayuko",
+          "url": "https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe"
+        }
+      ],
+      "duration_ms": 252557,
+      "name": "Cholericly Yours",
+      "url": "https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "For You, Please",
         "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 197500,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Songs To Whistle When Strolling Along The Abyss",
-        "url": "https://open.spotify.com/album/1gAHzOsqvW1jV7lJCCrkle"
-      },
-      "artists": [
-        {
-          "name": "Mayuko",
-          "url": "https://open.spotify.com/artist/3QmghTihReRudKflr4UlTe"
-        }
-      ],
-      "duration_ms": 252557,
-      "name": "Cholericly Yours",
-      "url": "https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI"
     },
     {
       "added_at": "2025-11-18 17:38:22",

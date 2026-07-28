@@ -32849,6 +32849,24 @@
     },
     {
       "album": {
+        "name": "Now That I've Got Your Attention",
+        "url": "https://open.spotify.com/album/5H2KlFbEV4FghumwplejHl"
+      },
+      "artists": [
+        {
+          "name": "Dew",
+          "url": "https://open.spotify.com/artist/0GPymBah0o8KwaPCJcqNXy"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179275,
+      "name": "End of Myself",
+      "url": "https://open.spotify.com/track/1W6S93RSllWVmIWqxvBzyK"
+    },
+    {
+      "album": {
         "name": "SEAMS.",
         "url": "https://open.spotify.com/album/7nH0y4NPxC4EX8ZHFfjxwN"
       },
@@ -57687,6 +57705,28 @@
     },
     {
       "album": {
+        "name": "Landmine",
+        "url": "https://open.spotify.com/album/0HD07D0x6QMvnjNz6JEJkw"
+      },
+      "artists": [
+        {
+          "name": "Shikaari",
+          "url": "https://open.spotify.com/artist/5DGaWIko5aIbDdAPGJjEoz"
+        },
+        {
+          "name": "Rxmbo",
+          "url": "https://open.spotify.com/artist/6VwPTd4ychTXAvO1bDJyuz"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100048,
+      "name": "Landmine",
+      "url": "https://open.spotify.com/track/5fsjMF7ixd4H85uSnEsvDH"
+    },
+    {
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/3miDgg3VZm0rbTUIDO2WLA"
       },
@@ -59348,6 +59388,28 @@
       "duration_ms": 153900,
       "name": "LIAR",
       "url": "https://open.spotify.com/track/7AdSqDJ0cEciEAGs3Tnnvn"
+    },
+    {
+      "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/1xIQuCKk562KFDPuGAzfgi"
+      },
+      "artists": [
+        {
+          "name": "MNIB",
+          "url": "https://open.spotify.com/artist/5lKWiFsG07JzfOqEDUizem"
+        },
+        {
+          "name": "Rolyat",
+          "url": "https://open.spotify.com/artist/3bEqD45Unz3Eo3hv5FsBVs"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184329,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/4DfUCIIJWvjy9wis24J15P"
     },
     {
       "album": {

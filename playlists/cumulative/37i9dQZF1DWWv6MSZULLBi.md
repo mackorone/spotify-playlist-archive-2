@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Sam Drysdale
 
-1,740 songs - 4 day 8 hr 32 min
+1,741 songs - 4 day 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1441,6 +1441,7 @@
 | [tangerine!](https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR) | [Jahson Paynter](https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8) | [tangerine!](https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl) | 2:38 | 2026-04-10 |  |
 | [Tapestry](https://open.spotify.com/track/5JiuSzggHmnuvNoq6z8c7T) | [Sam Weber](https://open.spotify.com/artist/5S7A3k8YvGhc78LKeqe8gl) | [Tapestry](https://open.spotify.com/album/3jNwI4amcM2iaGYBO4wDNa) | 4:29 | 2026-05-15 |  |
 | [Taylor](https://open.spotify.com/track/49Ya4VAhgiUgABC0XnDhOE) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc) | [So The Sun Can Pour](https://open.spotify.com/album/2FJNdtergBuQ1q2qOo5IBe) | 4:15 | 2026-04-17 | 2026-07-04 |
+| [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj) | 3:01 | 2026-07-24 |  |
 | [Tear in the Tide](https://open.spotify.com/track/3avfg2tRKOBcC6NhpnXkW3) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Tear in the Tide](https://open.spotify.com/album/3KABPyNYjL0K2r7rjgDZFo) | 2:32 | 2025-09-19 | 2025-11-14 |
 | [Tear It All Apart](https://open.spotify.com/track/2paY84rEBVDm46rdPaQY88) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Tear It All Apart](https://open.spotify.com/album/2rhfMTNeenYPxfTjqTLaBW) | 3:06 | 2024-06-21 | 2024-10-26 |
 | [Telephone](https://open.spotify.com/track/4aMvvTwXEHxKFgFMby914A) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Telephone](https://open.spotify.com/album/5DIkA9zeM271JhByT2Go6W) | 3:32 | 2022-05-13 | 2022-06-18 |

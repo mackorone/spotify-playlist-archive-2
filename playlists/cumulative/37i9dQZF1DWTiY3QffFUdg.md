@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-347 songs - 18 hr 2 min
+348 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-18 |  |
 | [Naughty](https://open.spotify.com/track/6LB6mDGNJVCJ7ZtQDoFwLI) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Naughty](https://open.spotify.com/album/4tMowGKEFfG4GUwIPpgd10) | 1:53 | 2026-04-17 | 2026-05-30 |
 | [Naughty](https://open.spotify.com/track/0vInsMdMmLOCrAQkwlymyO) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Naughty](https://open.spotify.com/album/0yEEruerpgU6vBbZlQ9QjA) | 2:54 | 2026-05-01 |  |
+| [New Bass New Kick](https://open.spotify.com/track/0pNuOeCk1z0BpRWVWlglIm) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [New Bass New Kick](https://open.spotify.com/album/20S0A1VJ47VjPI6ifA3r8l) | 3:00 | 2026-07-24 |  |
 | [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 | 2024-05-31 | 2024-07-16 |
 | [New Phone Who Dis?](https://open.spotify.com/track/2BvIM3SbricsKs4ECnnsMF) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [New Phone Who Dis?](https://open.spotify.com/album/66dctQsI7Ra8bP5uUJ3eej) | 2:00 | 2024-10-11 | 2024-11-20 |
 | [No Division \(feat\. XSALT\)](https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [XSALT](https://open.spotify.com/artist/3kB5SoiItFAJjHRlcXGcUC) | [No Division](https://open.spotify.com/album/6pSk6j1v5FrWh74Rygv367) | 6:06 | 2025-06-06 | 2025-11-08 |
@@ -253,7 +254,7 @@
 | [Pulse](https://open.spotify.com/track/5IWZWLUlFAKT2NJBwnN7NO) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Pulse](https://open.spotify.com/album/4tm7JzxqqnqzzjDwvf0jAj) | 1:59 | 2024-11-29 | 2024-12-07 |
 | [PURA VIDA \- Wehbba Remix](https://open.spotify.com/track/1ch4P5LTDHoHulGC5lhNYT) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Wehbba](https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [PURA VIDA \(Wehbba Remix\)](https://open.spotify.com/album/5g3umWr9sJoUut6pOoyWUb) | 3:53 | 2023-08-11 | 2023-08-18 |
 | [Push It](https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Push It](https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL) | 4:08 | 2023-11-10 | 2024-06-08 |
-| [Push It \- Ueberrest Remix](https://open.spotify.com/track/6XZQXS0D9wwI24I3hQZFrw) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [Push It \(Ueberrest Remix\)](https://open.spotify.com/album/5uLOMJab207RjQBtayElnE) | 3:34 | 2026-05-01 |  |
+| [Push It \- Ueberrest Remix](https://open.spotify.com/track/6XZQXS0D9wwI24I3hQZFrw) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [Push It \(Ueberrest Remix\)](https://open.spotify.com/album/5uLOMJab207RjQBtayElnE) | 3:34 | 2026-05-01 | 2026-07-28 |
 | [Put Your Hands Up](https://open.spotify.com/track/3SEAdzMgWA07duJbbGS0mI) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Put Your Hands Up](https://open.spotify.com/album/57gISdh88rRrVUiA19CQlU) | 2:51 | 2025-12-05 |  |
 | [Pyramid Rave](https://open.spotify.com/track/3qjER0dcHhcWX2HSEPneF2) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [Pyramid Rave / Feel The Energy](https://open.spotify.com/album/4V5x8rW9r78KGjFcgpwbPR) | 2:36 | 2024-07-12 | 2024-11-11 |
 | [Rapture](https://open.spotify.com/track/4z6ygaxvCR8osXCgT2IZa7) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [The Bossline](https://open.spotify.com/artist/2mqLyztNOo3DF8seytuHzE) | [Rapture](https://open.spotify.com/album/0KppS35Sn3pnHM0Sap5bBs) | 2:26 | 2023-11-17 | 2024-06-07 |

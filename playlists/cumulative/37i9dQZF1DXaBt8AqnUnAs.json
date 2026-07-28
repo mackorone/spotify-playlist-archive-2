@@ -15281,6 +15281,32 @@
     },
     {
       "album": {
+        "name": "Cartas de Amor",
+        "url": "https://open.spotify.com/album/2S2GaP0MJZRSVgDVKgfSTp"
+      },
+      "artists": [
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98630,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/40d7BZDkbrLJZ6tD4aTE89"
+    },
+    {
+      "album": {
         "name": "Rom\u00e2ntico, Pt. 1",
         "url": "https://open.spotify.com/album/7iGK5BUubDY6GZrxADD9Gy"
       },
@@ -18862,7 +18888,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 131775,
       "name": "YSL",
       "url": "https://open.spotify.com/track/5OaJE18FphzIsdQZMbov2g"

@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 900744,
+  "num_followers": 900933,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Ain't With That (Late Night Callin')",
-        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
-      },
-      "artists": [
-        {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Ain't With That (Late Night Callin')",
-      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/1Giq4kCBXCOqpJYaKGdVoo"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 187272,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Ain't With That (Late Night Callin')",
+        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
+      },
+      "artists": [
+        {
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Ain't With That (Late Night Callin')",
+      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Lemme Dance",
-        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 223660,
-      "name": "Lemme Dance",
-      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Gets Like That (Jamie Jones Remix)",
         "url": "https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 223384,
       "name": "Gets Like That - Jamie Jones Remix",
       "url": "https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Lemme Dance",
+        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 223660,
+      "name": "Lemme Dance",
+      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
+      },
+      "artists": [
+        {
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+        }
+      ],
+      "duration_ms": 239246,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "Bubbling",
         "url": "https://open.spotify.com/album/7oFs9LZzoW0DD3eaitu1Jz"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 209092,
       "name": "Bubbling",
       "url": "https://open.spotify.com/track/6GvfH6m9biXR8bL6WW8YX7"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
-      },
-      "artists": [
-        {
-          "name": "M-High",
-          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
-        }
-      ],
-      "duration_ms": 239246,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1175,6 +1175,26 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "duration_ms": 207764,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "Work Your Body",
         "url": "https://open.spotify.com/album/1OlYbgVXWSq1LtM1S7VWii"
       },
@@ -1211,26 +1231,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Luke Alessi",
-          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
-        }
-      ],
-      "duration_ms": 207764,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Too Bright",
         "url": "https://open.spotify.com/album/6PjvdJpbSe7iBxkN3bNm6m"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 221439,
       "name": "make your move",
       "url": "https://open.spotify.com/track/5DLDirJKT4feWxCH686VM1"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1307,22 +1323,6 @@
       "duration_ms": 336567,
       "name": "I See You Baby (feat. Gramma Funk) - DJ BORING Remix",
       "url": "https://open.spotify.com/track/3RaOSNfKdHUMfrbBpzcnJ6"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Bad Bara",
-        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        }
-      ],
-      "duration_ms": 245571,
-      "name": "Bad Bara",
-      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "M\u00e1s Tiempo Vol. 2",
-        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
-      },
-      "artists": [
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 380625,
-      "name": "The Whistle Tune",
-      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "And When Love Speaks",
         "url": "https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb"
       },
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "M\u00e1s Tiempo Vol. 2",
+        "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 380625,
+      "name": "The Whistle Tune",
+      "url": "https://open.spotify.com/track/5P51136ZswyO6Qp6HCOUqx"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "Soul Makossa",
         "url": "https://open.spotify.com/album/30wwWuPe6wVYs4kqL7pccX"
       },
@@ -1579,6 +1579,26 @@
       "duration_ms": 237084,
       "name": "Soul Makossa",
       "url": "https://open.spotify.com/track/6bsqMYkD6nKaC0Z7tv17R5"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Energy Crew Pt. 2",
+        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        },
+        {
+          "name": "Ellia Jaya",
+          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Dream or Fantasy",
+      "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1695,26 +1715,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Drums Keep Calling",
-        "url": "https://open.spotify.com/album/1IWXvOPBMtk7fVzb9yNaP3"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        },
-        {
-          "name": "Flagrant Drvms",
-          "url": "https://open.spotify.com/artist/55kBvzKEORCymfAWcBzGSb"
-        }
-      ],
-      "duration_ms": 227812,
-      "name": "Drums Keep Calling",
-      "url": "https://open.spotify.com/track/4242cbONa04ZeHNTWtzzND"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Activated (I Just Wanna)",
         "url": "https://open.spotify.com/album/48ksaIe53knzMdF3Zvl8dc"
       },
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "Drums Keep Calling",
+        "url": "https://open.spotify.com/album/1IWXvOPBMtk7fVzb9yNaP3"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        },
+        {
+          "name": "Flagrant Drvms",
+          "url": "https://open.spotify.com/artist/55kBvzKEORCymfAWcBzGSb"
+        }
+      ],
+      "duration_ms": 227812,
+      "name": "Drums Keep Calling",
+      "url": "https://open.spotify.com/track/4242cbONa04ZeHNTWtzzND"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "Hold Me Closer",
         "url": "https://open.spotify.com/album/6m7ecbmjXPDNVcPz5RYnAR"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 180875,
       "name": "Hold Me Closer",
       "url": "https://open.spotify.com/track/20GqcQXULI3N04sVXYzmV7"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Energy Crew Pt. 2",
-        "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
-      },
-      "artists": [
-        {
-          "name": "Gaskin",
-          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
-        },
-        {
-          "name": "Ellia Jaya",
-          "url": "https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Dream or Fantasy",
-      "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Road To Miami EP",
-        "url": "https://open.spotify.com/album/2r01SIHbvXUHQkKAAw4PWQ"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Poco Poco",
-      "url": "https://open.spotify.com/track/04N9V07H365hcJSytxYstU"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Loca EP",
         "url": "https://open.spotify.com/album/3wnwbQ8IeSBNcQe3cRvdoi"
       },
@@ -1871,18 +1855,18 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Danca",
-        "url": "https://open.spotify.com/album/4q7vgxW9x6ySjuYTb9IeGh"
+        "name": "Road To Miami EP",
+        "url": "https://open.spotify.com/album/2r01SIHbvXUHQkKAAw4PWQ"
       },
       "artists": [
         {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
         }
       ],
-      "duration_ms": 169250,
-      "name": "Danca",
-      "url": "https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk"
+      "duration_ms": 178604,
+      "name": "Poco Poco",
+      "url": "https://open.spotify.com/track/04N9V07H365hcJSytxYstU"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1899,6 +1883,22 @@
       "duration_ms": 192383,
       "name": "Superstitious",
       "url": "https://open.spotify.com/track/7iwxJiYZb6KCcE4dq4bGI2"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Danca",
+        "url": "https://open.spotify.com/album/4q7vgxW9x6ySjuYTb9IeGh"
+      },
+      "artists": [
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        }
+      ],
+      "duration_ms": 169250,
+      "name": "Danca",
+      "url": "https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk"
     },
     {
       "added_at": "2026-07-23 23:00:38",

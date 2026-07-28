@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Jonny Nash × Tomo Katsurada
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,383 likes - 189 songs - 13 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,423 likes - 189 songs - 13 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Alexis Ffrench. The essential tracks, all in one playlist.",
-  "num_followers": 27128,
+  "num_followers": 27131,
   "original_name": "This Is Alexis Ffrench",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAACsimHVaH+8VhwT806m+9lx",
+  "snapshot_id": "amVOAAAAAABR3SftakTh1bQXMPnIv3OZ",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Truth",
-        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
-      },
-      "artists": [
-        {
-          "name": "Alexis Ffrench",
-          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
-        }
-      ],
-      "duration_ms": 170032,
-      "name": "Evermore",
-      "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Solo Piano Collection",
         "url": "https://open.spotify.com/album/3xrOGtm0QQAX4VsWWKOgGK"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 233530,
       "name": "Heartbeats - Solo Piano Version",
       "url": "https://open.spotify.com/track/2MLNOCTrPGCgnfiBCosdB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "duration_ms": 170032,
+      "name": "Evermore",
+      "url": "https://open.spotify.com/track/15AZSOh1vE8gmwdhLrfaQM"
     },
     {
       "added_at": null,

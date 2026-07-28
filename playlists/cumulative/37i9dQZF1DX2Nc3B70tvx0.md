@@ -4,7 +4,7 @@
 
 > A delicious mix of new songs in high rotation\. Cover: Lizzy McAlpine
 
-3,112 songs - 7 day 20 hr 2 min
+3,113 songs - 7 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1379,7 +1379,7 @@
 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/1BiRaCcUqWpLLb4LZpvRMF) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/album/3VGiUssrBkq8DKNdnbZRBR) | 2:49 | 2021-09-02 | 2022-01-26 |
 | [If You Ever Leave, I'm Coming with You \- Roosevelt Remix](https://open.spotify.com/track/30k5z3e9VqlkfJuW4cYqvW) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [If You Ever Leave, I'm Coming with You \(Roosevelt Remix\)](https://open.spotify.com/album/08Y1kohczdii3C0YCiBQh5) | 3:30 | 2021-09-23 | 2022-04-02 |
 | [If You Know Me](https://open.spotify.com/track/1QnFKAPgZ7GI9sYITPuYyL) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me / Wild Horses](https://open.spotify.com/album/6BTPGJ3IgfRa43UKmD0Nw8) | 3:23 | 2025-11-21 | 2026-06-06 |
-| [if you wanna party, come over to my house](https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [if you wanna party, come over to my house](https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT) | 2:51 | 2026-03-13 |  |
+| [if you wanna party, come over to my house](https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [if you wanna party, come over to my house](https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT) | 2:51 | 2026-03-13 | 2026-07-28 |
 | [If You Want It](https://open.spotify.com/track/2geZQEcNUBN5nvGjdZtxkz) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/6ufXh8u7kIJE5EiutbOjyj) | 3:13 | 2019-09-27 | 2020-04-03 |
 | [im so happy](https://open.spotify.com/track/76EfqbJHiagsv41TNAf4Ko) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [misery](https://open.spotify.com/album/6yV72GH0QevmcUDNrRmaNd) | 2:19 | 2022-10-07 | 2022-12-10 |
 | [Imaginationcy](https://open.spotify.com/track/3vQYcH9krDAkYqPJILas3J) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Imaginationcy](https://open.spotify.com/album/7m9rnbf4zM8BuHE3Llmyj0) | 3:28 | 2019-06-21 | 2019-12-07 |
@@ -2703,6 +2703,7 @@
 | [The Place Where He Inserted the Blade](https://open.spotify.com/track/3k2kIiJqUiIP49iUcOLpWT) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 7:13 | 2023-01-06 | 2023-05-12 |
 | [The Princess and the Clock](https://open.spotify.com/track/0awsB9ACtbWMxhgNVx6GRW) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [The Princess and the Clock](https://open.spotify.com/album/6qSZk7WnfIunKMAxo3RngF) | 3:49 | 2021-04-30 | 2021-10-16 |
 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 | 2025-02-28 | 2025-06-14 |
+| [The Reason](https://open.spotify.com/track/0zyMLOsWbWQmeq9PIIKiFk) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [I Can See](https://open.spotify.com/album/1rMOXraKzL6qY0Ig1KOMvX) | 6:57 | 2026-07-27 |  |
 | [The Rest Of Me](https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [The Rest Of Me](https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh) | 3:50 | 2024-10-25 | 2025-01-16 |
 | [The River](https://open.spotify.com/track/0ZSNmNgMmYT7o9cn57MESt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [The River](https://open.spotify.com/album/4ACrGzTgs016EkxPHMIGfQ) | 3:52 | 2020-03-06 | 2020-10-13 |
 | [The Room](https://open.spotify.com/track/3Xci1c096KD2T1A3rHBGYa) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [The Room](https://open.spotify.com/album/4BmVEUx3ViQkBVg85O20p3) | 2:17 | 2022-07-15 | 2022-08-05 |

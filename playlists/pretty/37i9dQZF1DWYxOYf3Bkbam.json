@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 66013,
+  "num_followers": 66024,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
+        "name": "20 Super\u00e9xitos Originales, Vol. 2",
+        "url": "https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt"
+      },
+      "artists": [
+        {
+          "name": "Trio Cocomarola",
+          "url": "https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe"
+        }
+      ],
+      "duration_ms": 177213,
+      "name": "Retorno",
+      "url": "https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
         "name": "Alguien Mejor Que Yo",
         "url": "https://open.spotify.com/album/5izCgXmLdwGlU1Zg7zTyPJ"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 201247,
       "name": "Alguien Mejor Que Yo",
       "url": "https://open.spotify.com/track/2hmWVUzKNZH0nYa1OAR5oT"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
-        "name": "20 Super\u00e9xitos Originales, Vol. 2",
-        "url": "https://open.spotify.com/album/43Lh5dNFomrbhmIPbMm6Qt"
-      },
-      "artists": [
-        {
-          "name": "Trio Cocomarola",
-          "url": "https://open.spotify.com/artist/2IrQFSnzKz4Jb6S1EM3Nqe"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "Retorno",
-      "url": "https://open.spotify.com/track/6JjBdNgzozYjhQ0Ph8oL8V"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "El Legado Continua",
-        "url": "https://open.spotify.com/album/4UYhTHjigibnhwwVJVRf2h"
-      },
-      "artists": [
-        {
-          "name": "Los Majestuosos Del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
-        }
-      ],
-      "duration_ms": 183159,
-      "name": "La yerra",
-      "url": "https://open.spotify.com/track/50J0SkPv1fmGKhdgei7083"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "Yo Te Entiendo Mejor",
         "url": "https://open.spotify.com/album/5Vx6x2f68bw9T1xqrgM7RG"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 184521,
       "name": "Yo Te Entiendo Mejor",
       "url": "https://open.spotify.com/track/1auj5iyTVPB4xyln9rTp6M"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "El Legado Continua",
+        "url": "https://open.spotify.com/album/4UYhTHjigibnhwwVJVRf2h"
+      },
+      "artists": [
+        {
+          "name": "Los Majestuosos Del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp"
+        }
+      ],
+      "duration_ms": 183159,
+      "name": "La yerra",
+      "url": "https://open.spotify.com/track/50J0SkPv1fmGKhdgei7083"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Costera",
-        "url": "https://open.spotify.com/album/5e9kuKpWgRMwtkY6mzVgat"
-      },
-      "artists": [
-        {
-          "name": "Priscila Colom",
-          "url": "https://open.spotify.com/artist/1MK7hK0Xyu7006q2NHUcFo"
-        }
-      ],
-      "duration_ms": 169391,
-      "name": "Granja San Antonio",
-      "url": "https://open.spotify.com/track/0HiOLvZcuQV33hRwJBINLM"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "Consagraci\u00f3n del Chamam\u00e9",
         "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 142320,
       "name": "Sargento Sapo",
       "url": "https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Costera",
+        "url": "https://open.spotify.com/album/5e9kuKpWgRMwtkY6mzVgat"
+      },
+      "artists": [
+        {
+          "name": "Priscila Colom",
+          "url": "https://open.spotify.com/artist/1MK7hK0Xyu7006q2NHUcFo"
+        }
+      ],
+      "duration_ms": 169391,
+      "name": "Granja San Antonio",
+      "url": "https://open.spotify.com/track/0HiOLvZcuQV33hRwJBINLM"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
+        "name": "Las Nuevas Estrellas del Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Barrios",
+          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
+        }
+      ],
+      "duration_ms": 167592,
+      "name": "Por Tus Besos",
+      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
         "name": "Refugio de So\u00f1adores",
         "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 202025,
       "name": "Refugio de So\u00f1adores",
       "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
-        "name": "Las Nuevas Estrellas del Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Barrios",
-          "url": "https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X"
-        }
-      ],
-      "duration_ms": 167592,
-      "name": "Por Tus Besos",
-      "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Con Alma y Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
-      },
-      "artists": [
-        {
-          "name": "Los Dioses del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
-        }
-      ],
-      "duration_ms": 339000,
-      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
-      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "Colgando en tus Manos",
         "url": "https://open.spotify.com/album/0gpVfE431dfXOesgMuA1oq"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 204360,
       "name": "Colgando en tus Manos",
       "url": "https://open.spotify.com/track/7AuksYLEtoCWg3fzUJAHaH"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Con Alma y Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5IoHxn4YI7ahW3xGT38MlZ"
+      },
+      "artists": [
+        {
+          "name": "Los Dioses del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/6iWJsmEJHFU5x8u4185XwN"
+        }
+      ],
+      "duration_ms": 339000,
+      "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
+      "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Monchito Merlo",
+          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
+        }
+      ],
+      "duration_ms": 195146,
+      "name": "Siento haberte perdido",
+      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
         "name": "P\u00e1jaro Chog\u00fc\u00ed",
         "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 138893,
       "name": "P\u00e1jaro Chog\u00fc\u00ed",
       "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
-        "name": "Chamame los 100 mejores temas Vol 1",
-        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
-      },
-      "artists": [
-        {
-          "name": "Monchito Merlo",
-          "url": "https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3"
-        }
-      ],
-      "duration_ms": 195146,
-      "name": "Siento haberte perdido",
-      "url": "https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Chamame - Los 100 mejores temas - Vol 4",
-        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
-      },
-      "artists": [
-        {
-          "name": "Los Taitas",
-          "url": "https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Bien picadito",
-      "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "Los 20 A\u00f1os de Rosendo y Ofelia",
         "url": "https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 143466,
       "name": "Jam\u00e1s Te Podr\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Chamame - Los 100 mejores temas - Vol 4",
+        "url": "https://open.spotify.com/album/508BWmmIii80gEwzMMckYa"
+      },
+      "artists": [
+        {
+          "name": "Los Taitas",
+          "url": "https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Bien picadito",
+      "url": "https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Por Siempre Chamam\u00e9",
-        "url": "https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu"
-      },
-      "artists": [
-        {
-          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
-        }
-      ],
-      "duration_ms": 145840,
-      "name": "Por Siempre Chamam\u00e9",
-      "url": "https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 124360,
       "name": "Porque te fuiste",
       "url": "https://open.spotify.com/track/1bjm33yl3ulDy3NZuKlr3D"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Por Siempre Chamam\u00e9",
+        "url": "https://open.spotify.com/album/0KQtJNmeSj88kxgtresuLu"
+      },
+      "artists": [
+        {
+          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
+        }
+      ],
+      "duration_ms": 145840,
+      "name": "Por Siempre Chamam\u00e9",
+      "url": "https://open.spotify.com/track/4jTm8wb7chFcVFwcWXhHpN"
     },
     {
       "added_at": "2026-07-24 16:38:20",

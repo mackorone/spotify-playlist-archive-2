@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > All the vibes, enjoyment and future hits right here
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,693 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,743 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [NGEKE \(feat\. Scotts Maphuma\)](https://open.spotify.com/track/6Rr4HJll7Yckt0sGDokse9) | [N T S A K O XVI](https://open.spotify.com/artist/4nZhRvCMJPp7Y9t64bHAPb), [Shaun 101](https://open.spotify.com/artist/1wPZgHAIMRbPLCj2mgBRUY), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1), [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS) | [NGEKE \(feat\. Scotts Maphuma\)](https://open.spotify.com/album/7A80PqJPyj1xBt3l4iLQb0) | 7:09 |
 | 50 | [Mopepe](https://open.spotify.com/track/41JAaLs2uJB2JZoabE5jnO) | [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [Bukzin Keyz](https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ), [Tango Supreme](https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD) | [Mopepe](https://open.spotify.com/album/1n4lYZEGlftSGg9pXpbHjQ) | 4:32 |
 
-Snapshot ID: `AAAAACFEz7Ab8uhBN46MkKO8LF2DfbpM`
+Snapshot ID: `AAAAAFJ82BBMrkmUp2Sa3998Z6DydgU2`

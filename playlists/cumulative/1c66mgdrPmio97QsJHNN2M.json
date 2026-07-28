@@ -1475,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "All Summer Long",
+        "url": "https://open.spotify.com/album/2IgNaO9dfLGVpyeRjHPfSe"
+      },
+      "artists": [
+        {
+          "name": "Solm\u00e8re",
+          "url": "https://open.spotify.com/artist/2j6uANShaXxrs6GyB24g6u"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162909,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/1o5UGfEuzYmBIRXa5h3fOc"
+    },
+    {
+      "album": {
         "name": "All That I Have",
         "url": "https://open.spotify.com/album/43LR0bZ2Rjh4s6A30idSRb"
       },
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 205914,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ"
@@ -2568,7 +2586,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 185103,
       "name": "At the End, Now",
       "url": "https://open.spotify.com/track/2bYPWNOoKqLXe7MXOD2DZO"
@@ -4104,7 +4122,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 226153,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/3lgs9gHw7nWXM0pShdSsCp"
@@ -4952,7 +4970,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 194920,
       "name": "Body Power",
       "url": "https://open.spotify.com/track/0bto95qFPAqug52zt5G1IF"
@@ -6982,6 +7000,24 @@
       "duration_ms": 125500,
       "name": "CITRUS - Radio Edit",
       "url": "https://open.spotify.com/track/6bqOlBECCKZoj3h6Ldpy7W"
+    },
+    {
+      "album": {
+        "name": "Previsioni del tempo incerto",
+        "url": "https://open.spotify.com/album/1dGHz8Il3laRkEtzjZyV6i"
+      },
+      "artists": [
+        {
+          "name": "DONELLI A.I. ENSEMBLE",
+          "url": "https://open.spotify.com/artist/2CjHl2lzn8lVIjs9L0VGdZ"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241768,
+      "name": "Citt\u00e0 futura",
+      "url": "https://open.spotify.com/track/292IPLaa3Z5r0EI5pnatYa"
     },
     {
       "album": {
@@ -9120,7 +9156,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 196500,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/5TXQMA6vxkPsWrSI8oL3b6"
@@ -12542,7 +12578,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 160852,
       "name": "Fall 4 U?",
       "url": "https://open.spotify.com/track/1DZVuvRaflePwj0i21rGJK"
@@ -13106,7 +13142,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 186661,
       "name": "fell in love with the same eyes C:",
       "url": "https://open.spotify.com/track/2LDdPelzueXvUMJoNXg7HQ"
@@ -13240,7 +13276,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 217719,
       "name": "Fill My Heart",
       "url": "https://open.spotify.com/track/3Jdk6l7TF3vhcWmNIak7OA"
@@ -15088,6 +15124,24 @@
       "duration_ms": 155897,
       "name": "Girllll._1",
       "url": "https://open.spotify.com/track/5xypPVQYGSuyRh2gj8kxt1"
+    },
+    {
+      "album": {
+        "name": "bedroom party",
+        "url": "https://open.spotify.com/album/5zE1yrOf5tvEnAAyH1zWuz"
+      },
+      "artists": [
+        {
+          "name": "Lanssonnn",
+          "url": "https://open.spotify.com/artist/0EqxnmuxSUf5ZRcHAKAohR"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196417,
+      "name": "give me that - midnight",
+      "url": "https://open.spotify.com/track/0hwgqLO6JbOhb6TdIsHINx"
     },
     {
       "album": {
@@ -17192,7 +17246,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 186320,
       "name": "HIS LAST VOICEMAIL",
       "url": "https://open.spotify.com/track/1TCexhcXQt7ZKYZulu6lrX"
@@ -21360,7 +21414,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 206934,
       "name": "Killing Me Softly with His Song",
       "url": "https://open.spotify.com/track/296P1fLQbi3Jdku1sFS2Ti"
@@ -25026,7 +25080,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 204024,
       "name": "may or june",
       "url": "https://open.spotify.com/track/14gDJ4vmEVv3n41ZTrT9Ok"
@@ -25734,7 +25788,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 137993,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/3Bqp4AlMFgKoSIHbfhVV7i"
@@ -31152,7 +31206,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 208560,
       "name": "Popcorn Swayze",
       "url": "https://open.spotify.com/track/5G8iOxPMUmcvuSM2oAee5l"
@@ -31434,6 +31488,24 @@
       "duration_ms": 132000,
       "name": "pretty when i break",
       "url": "https://open.spotify.com/track/4mLJvZ9gn6biubmfDkmvFL"
+    },
+    {
+      "album": {
+        "name": "Previsioni del tempo incerto",
+        "url": "https://open.spotify.com/album/1dGHz8Il3laRkEtzjZyV6i"
+      },
+      "artists": [
+        {
+          "name": "DONELLI A.I. ENSEMBLE",
+          "url": "https://open.spotify.com/artist/2CjHl2lzn8lVIjs9L0VGdZ"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274830,
+      "name": "Previsioni del tempo incerto",
+      "url": "https://open.spotify.com/track/3CRRvBE6EPahicdCvSBH9h"
     },
     {
       "album": {
@@ -34970,7 +35042,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 238075,
       "name": "Shockwave",
       "url": "https://open.spotify.com/track/4zWRdirRDv4yvu0Gw4J4PB"
@@ -44508,7 +44580,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 250490,
       "name": "White Cemetery",
       "url": "https://open.spotify.com/track/341NpHioKZK3pID6EWKPEh"

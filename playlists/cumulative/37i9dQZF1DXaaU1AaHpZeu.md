@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie en español, con Barry B en portada.
 
-7,659 songs - 17 day 11 hr 14 min
+7,660 songs - 17 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6660,6 +6660,7 @@
 | [Te Sigo Buscando](https://open.spotify.com/track/26XiKU35Cs3TnPKvX0Oamf) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Te Sigo Buscando](https://open.spotify.com/album/0MxoRjinPNdShp76AEPGmo) | 4:01 | 2022-07-22 | 2022-07-30 |
 | [Te Vas](https://open.spotify.com/track/5DDj557iEbjCZ0VASanzjM) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Te Vas](https://open.spotify.com/album/4AnSUTT13Nlrqqu2JmgMon) | 3:00 | 2022-06-10 | 2022-06-19 |
 | [Te Vas](https://open.spotify.com/track/7HhpjBV6uW97Ai5P6hwnwF) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Muelas De Gallo](https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD), [Bianca Meraz](https://open.spotify.com/artist/2XTwqZYsP3uobJFv9pfJUi) | [Te Vas](https://open.spotify.com/album/21PsMvRRbvWaDDPCYLv8IJ) | 4:47 | 2024-04-12 | 2024-04-26 |
+| [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Te Vas A Arrepentir \(Don't Hurt Him\)](https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj) | 3:01 | 2026-07-24 |  |
 | [te vas a lamentar :'\(](https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ), [Nan Que](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [te vas a lamentar :'\(](https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8) | 3:09 | 2023-09-22 | 2023-09-30 |
 | [Te Veo](https://open.spotify.com/track/6OZizm6AUaDlSSAwXs84FM) | [Borque](https://open.spotify.com/artist/0hgeFex8FxWR21ZNb2iOIC), [Alberto Jiménez](https://open.spotify.com/artist/2vatwv7v4N8qGprzbk72W7) | [Te Veo](https://open.spotify.com/album/0vwhyWmVM8Rm4q4kijcxGN) | 4:28 | 2022-09-23 | 2022-10-01 |
 | [Te Veré Después](https://open.spotify.com/track/3JzV4AeVLPgVpJ2Vcinbgg) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Te Veré Después](https://open.spotify.com/album/1T7sz0xIcQ4CrTE8wS81pT) | 2:09 | 2024-11-22 | 2024-11-30 |

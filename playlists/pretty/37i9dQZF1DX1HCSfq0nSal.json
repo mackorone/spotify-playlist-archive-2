@@ -1,31 +1,15 @@
 {
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Anuel",
-  "num_followers": 1490179,
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. mvrk",
+  "num_followers": 1490118,
   "original_name": "PEGAO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO1GajU4uja+gZUDZVTWI9ZUyWci",
+  "snapshot_id": "AAAAAI9RKJqmEhsF5Jxr00UfEA10MBIp",
   "tracks": [
     {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "Las mas bonitas son p#tas",
-        "url": "https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 159840,
-      "name": "Las mas bonitas son p#tas",
-      "url": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "After",
         "url": "https://open.spotify.com/album/3mAJ5jUoRMYCEjGBW0AclQ"
@@ -41,23 +25,39 @@
       "url": "https://open.spotify.com/track/44PL9CqmxZ3tcbNJgrsqzb"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
-        "name": "La Voz Favorita",
-        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+        "name": "Please Behave Radio Vol.2",
+        "url": "https://open.spotify.com/album/4QpExkNMNpOydvI8Oh73Oq"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "mvrk",
+          "url": "https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0"
         }
       ],
-      "duration_ms": 181277,
-      "name": "Fuga",
-      "url": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41"
+      "duration_ms": 164324,
+      "name": "DAALE",
+      "url": "https://open.spotify.com/track/1O4S7iSaxFJh6SuUvFrdvJ"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "Las mas bonitas son p#tas",
+        "url": "https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 159840,
+      "name": "Las mas bonitas son p#tas",
+      "url": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "NO ME GUILLO v2",
         "url": "https://open.spotify.com/album/0cYF1DJpl1oizxiRmBYuZJ"
@@ -81,7 +81,39 @@
       "url": "https://open.spotify.com/track/0vHJupzsREkNskbkuSiwF1"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "La Voz Favorita",
+        "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 181277,
+      "name": "Fuga",
+      "url": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "MATADORA",
+        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144650,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "\u00c9xitos Espa\u00f1a",
         "url": "https://open.spotify.com/album/0JE2ZcJ7u8wtoc1RCVkuhU"
@@ -97,7 +129,55 @@
       "url": "https://open.spotify.com/track/1Ok4aiD2OUO6AyhrlvF98b"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "Dime Baby",
+        "url": "https://open.spotify.com/album/3ORiiEK2HQQYUAA9IFmtQJ"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Dime Baby",
+      "url": "https://open.spotify.com/track/4Du97m5kFIyMZ1nTekYlnh"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "AIRE",
+        "url": "https://open.spotify.com/album/5X1QJwRKRpyteu2TsPiLJx"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 141180,
+      "name": "AIRE",
+      "url": "https://open.spotify.com/track/6nloIaklTZd2Sbpk4laaeJ"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "Real G4 Life Vol. 3",
+        "url": "https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0"
+      },
+      "artists": [
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 194838,
+      "name": "Baby Lover",
+      "url": "https://open.spotify.com/track/3kWMm2iFysQf0j1857c1vk"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "UNA NA MAS",
         "url": "https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ"
@@ -113,7 +193,23 @@
       "url": "https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "TuuuuuUuu tu tu tu",
+        "url": "https://open.spotify.com/album/2zgK451W9nKsc0DenzMlud"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "TuuuuuUuu tu tu tu",
+      "url": "https://open.spotify.com/track/6p2fQMh1CRJ6QKjbAbDEet"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "LOS ANGELITOS",
         "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
@@ -133,87 +229,7 @@
       "url": "https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "TuuuuuUuu tu tu tu",
-        "url": "https://open.spotify.com/album/2zgK451W9nKsc0DenzMlud"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "TuuuuuUuu tu tu tu",
-      "url": "https://open.spotify.com/track/6p2fQMh1CRJ6QKjbAbDEet"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "Ronaldinho",
-        "url": "https://open.spotify.com/album/7fHbWeOobnCOqnJuGlmTGQ"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 122639,
-      "name": "Ronaldinho",
-      "url": "https://open.spotify.com/track/3VDI8lCdXb3OklHu2TVQLt"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "Please Behave Radio Vol.2",
-        "url": "https://open.spotify.com/album/4QpExkNMNpOydvI8Oh73Oq"
-      },
-      "artists": [
-        {
-          "name": "mvrk",
-          "url": "https://open.spotify.com/artist/6WCTfR8dIuTqWrFrzt2yl0"
-        }
-      ],
-      "duration_ms": 164324,
-      "name": "DAALE",
-      "url": "https://open.spotify.com/track/1O4S7iSaxFJh6SuUvFrdvJ"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "AIRE",
-        "url": "https://open.spotify.com/album/5X1QJwRKRpyteu2TsPiLJx"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 141180,
-      "name": "AIRE",
-      "url": "https://open.spotify.com/track/6nloIaklTZd2Sbpk4laaeJ"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "Dime Baby",
-        "url": "https://open.spotify.com/album/3ORiiEK2HQQYUAA9IFmtQJ"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Dime Baby",
-      "url": "https://open.spotify.com/track/4Du97m5kFIyMZ1nTekYlnh"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "La Voz Favorita",
         "url": "https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ"
@@ -233,67 +249,79 @@
       "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL"
+        "name": "Ronaldinho",
+        "url": "https://open.spotify.com/album/7fHbWeOobnCOqnJuGlmTGQ"
       },
       "artists": [
         {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        },
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Panda Black",
-          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
         }
       ],
-      "duration_ms": 140307,
-      "name": "666",
-      "url": "https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20"
+      "duration_ms": 122639,
+      "name": "Ronaldinho",
+      "url": "https://open.spotify.com/track/3VDI8lCdXb3OklHu2TVQLt"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
-        "name": "EL VENDEDOR DE ROSAS",
-        "url": "https://open.spotify.com/album/0BfyrvKdq69jR1HuHEn6cR"
+        "name": "NYX00 (with JC Reyes)",
+        "url": "https://open.spotify.com/album/76vkxtGwUplBS3sW3doHK8"
       },
       "artists": [
         {
-          "name": "Raul Clyde",
-          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         },
         {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
         }
       ],
-      "duration_ms": 171250,
-      "name": "TU D\u00daO FAVORITO",
-      "url": "https://open.spotify.com/track/2PgzfI3gOPNZqC2hzI2KnK"
+      "duration_ms": 180000,
+      "name": "NYX00 (with JC Reyes)",
+      "url": "https://open.spotify.com/track/0FI11LoJ41qud3TkFEYlzI"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
-        "name": "A Xon De Que",
-        "url": "https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP"
+        "name": "Olvidarnos De To' :)",
+        "url": "https://open.spotify.com/album/1M6aeywMM8v55sGPL3WkTc"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         }
       ],
-      "duration_ms": 141465,
-      "name": "A Xon De Que",
-      "url": "https://open.spotify.com/track/7LehzyyXmCYjxw3DHX6vyZ"
+      "duration_ms": 200625,
+      "name": "Olvidarnos De To' :)",
+      "url": "https://open.spotify.com/track/113qKxW6LitRIPAaUeHhyw"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "Manhattan II",
+        "url": "https://open.spotify.com/album/2Se1qWIRcHDKlX8F1rfYS0"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 135019,
+      "name": "Manhattan II",
+      "url": "https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "Los Gangsters Tambien Lloran",
         "url": "https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR"
@@ -317,7 +345,7 @@
       "url": "https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "POR TI",
         "url": "https://open.spotify.com/album/0NnW0UN9DFuNIzJHgUdaJa"
@@ -337,111 +365,27 @@
       "url": "https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
-        "name": "Golfista",
-        "url": "https://open.spotify.com/album/1JHZfKL76qZjPRmX92wAay"
+        "name": "EL VENDEDOR DE ROSAS",
+        "url": "https://open.spotify.com/album/0BfyrvKdq69jR1HuHEn6cR"
       },
       "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 147001,
-      "name": "Golfista",
-      "url": "https://open.spotify.com/track/2R0RvdGFAOCznsB85KN0f4"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "Belladonna",
-        "url": "https://open.spotify.com/album/279QwBqCJMO7irKwrB7024"
-      },
-      "artists": [
-        {
-          "name": "Xiyo",
-          "url": "https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ"
-        },
-        {
-          "name": "Fernandezz",
-          "url": "https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
         {
           "name": "Raul Clyde",
           "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
-        }
-      ],
-      "duration_ms": 242823,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/2cu9stofbXbOFmaIFJzItd"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "Manhattan II",
-        "url": "https://open.spotify.com/album/2Se1qWIRcHDKlX8F1rfYS0"
-      },
-      "artists": [
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 135019,
-      "name": "Manhattan II",
-      "url": "https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "NYX00 (with JC Reyes)",
-        "url": "https://open.spotify.com/album/76vkxtGwUplBS3sW3doHK8"
-      },
-      "artists": [
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
         },
         {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
-      "duration_ms": 180000,
-      "name": "NYX00 (with JC Reyes)",
-      "url": "https://open.spotify.com/track/0FI11LoJ41qud3TkFEYlzI"
+      "duration_ms": 171250,
+      "name": "TU D\u00daO FAVORITO",
+      "url": "https://open.spotify.com/track/2PgzfI3gOPNZqC2hzI2KnK"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "No vuelve a suceder (calentamiento pre \u00e1lbum)",
-        "url": "https://open.spotify.com/album/13w7ZVbjnSHgp6xEER3KJB"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 224664,
-      "name": "ESTA VIDA",
-      "url": "https://open.spotify.com/track/1FmJbkz8Sij2C0mIpw612c"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
@@ -469,7 +413,75 @@
       "url": "https://open.spotify.com/track/01xWRzLhSgANX9CGgBzssk"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "Golfista",
+        "url": "https://open.spotify.com/album/1JHZfKL76qZjPRmX92wAay"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 147001,
+      "name": "Golfista",
+      "url": "https://open.spotify.com/track/2R0RvdGFAOCznsB85KN0f4"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "BARRIO FINO",
+        "url": "https://open.spotify.com/album/3e6X9B9YYhCkT6tlUbEkYJ"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "BARRIO FINO",
+      "url": "https://open.spotify.com/track/6gk3QJ3UmDm7cu1CbePrxk"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "Belladonna",
+        "url": "https://open.spotify.com/album/279QwBqCJMO7irKwrB7024"
+      },
+      "artists": [
+        {
+          "name": "Xiyo",
+          "url": "https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ"
+        },
+        {
+          "name": "Fernandezz",
+          "url": "https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Raul Clyde",
+          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
+        }
+      ],
+      "duration_ms": 242823,
+      "name": "Fantasia",
+      "url": "https://open.spotify.com/track/2cu9stofbXbOFmaIFJzItd"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2"
@@ -485,51 +497,31 @@
       "url": "https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
-        "name": "Olvidarnos De To' :)",
-        "url": "https://open.spotify.com/album/1M6aeywMM8v55sGPL3WkTc"
+        "name": "666",
+        "url": "https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL"
       },
       "artists": [
         {
-          "name": "Cano",
-          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Panda Black",
+          "url": "https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL"
         }
       ],
-      "duration_ms": 200625,
-      "name": "Olvidarnos De To' :)",
-      "url": "https://open.spotify.com/track/113qKxW6LitRIPAaUeHhyw"
+      "duration_ms": 140307,
+      "name": "666",
+      "url": "https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "ELLAELLA",
-        "url": "https://open.spotify.com/album/66uYOoKTzYSaPr319MyZ2K"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Zion",
-          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
-        },
-        {
-          "name": "Yapi",
-          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
-        }
-      ],
-      "duration_ms": 254666,
-      "name": "ELLAELLA",
-      "url": "https://open.spotify.com/track/2w97t3qb1okuXy2wJdr1Ew"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "POR SI MA\u00d1ANA NO ESTOY",
         "url": "https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f"
@@ -549,27 +541,103 @@
       "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
-        "name": "VOLVI\u00d3 EL PERREO (with DJ Luian)",
-        "url": "https://open.spotify.com/album/519kAGpWRfLu916UM2wXqA"
+        "name": "A Xon De Que",
+        "url": "https://open.spotify.com/album/1OzctavGYNKD9Tu5W0dOYP"
       },
       "artists": [
         {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 181917,
-      "name": "VOLVI\u00d3 EL PERREO (with DJ Luian)",
-      "url": "https://open.spotify.com/track/3Qk8BwdlfhxQgbsbirMWmD"
+      "duration_ms": 141465,
+      "name": "A Xon De Que",
+      "url": "https://open.spotify.com/track/7LehzyyXmCYjxw3DHX6vyZ"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "Pa que Brinque",
+        "url": "https://open.spotify.com/album/5srt4LiR1gIsLjkqwIrEII"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Pa que Brinque",
+      "url": "https://open.spotify.com/track/4QA4aj2J7IHs729QxUSQSR"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "TOORA",
+        "url": "https://open.spotify.com/album/2qfQjlIupLSGNWG13Wv9gh"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "duration_ms": 187555,
+      "name": "TOORA",
+      "url": "https://open.spotify.com/track/2OFojHt8s5grbY3Dq5ifkp"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "MUCHACHA",
+        "url": "https://open.spotify.com/album/3ATVZVuF9q5phfA8Fwl96O"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "MUCHACHA",
+      "url": "https://open.spotify.com/track/4rDCRcln8WCHWPRt0YTFLs"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "No vuelve a suceder (calentamiento pre \u00e1lbum)",
+        "url": "https://open.spotify.com/album/13w7ZVbjnSHgp6xEER3KJB"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 224664,
+      "name": "ESTA VIDA",
+      "url": "https://open.spotify.com/track/1FmJbkz8Sij2C0mIpw612c"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "WO OH OH",
         "url": "https://open.spotify.com/album/61JbOabPeXdG7X8zGkKxex"
@@ -589,7 +657,7 @@
       "url": "https://open.spotify.com/track/34bgCQVr0Wfuthiv8NeSQO"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "Falsas Promesas (Remix)",
         "url": "https://open.spotify.com/album/14FAowouxDrPZQOhqrH2SM"
@@ -625,47 +693,7 @@
       "url": "https://open.spotify.com/track/09djeJtz8wrtQFs5YtwgD4"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "Pa que Brinque",
-        "url": "https://open.spotify.com/album/5srt4LiR1gIsLjkqwIrEII"
-      },
-      "artists": [
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        },
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Pa que Brinque",
-      "url": "https://open.spotify.com/track/4QA4aj2J7IHs729QxUSQSR"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "BARRIO FINO",
-        "url": "https://open.spotify.com/album/3e6X9B9YYhCkT6tlUbEkYJ"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "BARRIO FINO",
-      "url": "https://open.spotify.com/track/6gk3QJ3UmDm7cu1CbePrxk"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "Myke Towers: Bzrp Music Sessions, Vol. 42/66",
         "url": "https://open.spotify.com/album/2Ke2hlEudtDT0KDaNIZY9Z"
@@ -685,55 +713,7 @@
       "url": "https://open.spotify.com/track/6ixCgwWOAN6C07ozzRm9pj"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "MUCHACHA",
-        "url": "https://open.spotify.com/album/3ATVZVuF9q5phfA8Fwl96O"
-      },
-      "artists": [
-        {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        },
-        {
-          "name": "Kreamly",
-          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "MUCHACHA",
-      "url": "https://open.spotify.com/track/4rDCRcln8WCHWPRt0YTFLs"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "Te Entiendo (Remix)",
-        "url": "https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB"
-      },
-      "artists": [
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 335104,
-      "name": "Te Entiendo - Remix",
-      "url": "https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "FLAITEERA",
         "url": "https://open.spotify.com/album/4IuwTipm83UsyGlgQclqW8"
@@ -761,7 +741,47 @@
       "url": "https://open.spotify.com/track/2mh6vP7zo6mDXXKLnpHLPt"
     },
     {
-      "added_at": "2026-07-20 11:20:54",
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "ELLAELLA",
+        "url": "https://open.spotify.com/album/66uYOoKTzYSaPr319MyZ2K"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
+        }
+      ],
+      "duration_ms": 254666,
+      "name": "ELLAELLA",
+      "url": "https://open.spotify.com/track/2w97t3qb1okuXy2wJdr1Ew"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
+      "album": {
+        "name": "EL BAIFO",
+        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "EL BAIFO",
+      "url": "https://open.spotify.com/track/3e9zgP2N318DmC6qP7kdNj"
+    },
+    {
+      "added_at": "2026-07-27 10:06:26",
       "album": {
         "name": "5 Estrellas - W Sound 23",
         "url": "https://open.spotify.com/album/4L6MTI7UEE1kF0zHprnx3S"
@@ -783,38 +803,6 @@
       "duration_ms": 191397,
       "name": "5 Estrellas - W Sound 23",
       "url": "https://open.spotify.com/track/7hYlC6s0SXSIwtFlW6NgjT"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "TOORA",
-        "url": "https://open.spotify.com/album/2qfQjlIupLSGNWG13Wv9gh"
-      },
-      "artists": [
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-        }
-      ],
-      "duration_ms": 187555,
-      "name": "TOORA",
-      "url": "https://open.spotify.com/track/2OFojHt8s5grbY3Dq5ifkp"
-    },
-    {
-      "added_at": "2026-07-20 11:20:54",
-      "album": {
-        "name": "EL BAIFO",
-        "url": "https://open.spotify.com/album/7a8QhNYgKmcaulK82zQjR5"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "EL BAIFO",
-      "url": "https://open.spotify.com/track/3e9zgP2N318DmC6qP7kdNj"
     }
   ],
   "unique_name": "PEGAO",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Ave, Farrel Hilal
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,376 likes - 104 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,378 likes - 104 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

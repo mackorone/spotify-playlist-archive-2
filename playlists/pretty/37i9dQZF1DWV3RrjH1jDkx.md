@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Charli xcx, oskar med k, Morgan Wallen og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,686 likes - 72 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,684 likes - 72 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 60 | [Crestfallen](https://open.spotify.com/track/15tdjaSaSNFxjrKtj52kDZ) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Crestfallen](https://open.spotify.com/album/4Gh2aBuvIo91syfV3IaeYb) | 4:04 |
 | 61 | [God Damn Beautiful](https://open.spotify.com/track/7sIvrylzxRakoiOOVAIOxk) | [Audrey Horne](https://open.spotify.com/artist/7HudjH2VxKdpK8nj2U6yls) | [God Damn Beautiful](https://open.spotify.com/album/1iPRO2nDL1uMjBy5B90XJ5) | 3:38 |
 | 62 | [I See Why](https://open.spotify.com/track/3lsOd2UXiKRZalwRVqvQsD) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I See Why](https://open.spotify.com/album/4HzdDbgWaDHLkLbhOuBb82) | 3:03 |
-| 63 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:27 |
+| 63 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:00 |
 | 64 | [World Away](https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [World Away](https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx) | 3:07 |
 | 65 | [Watching You Fall](https://open.spotify.com/track/1Njj1W3WFYYWtW92dhmrEL) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Watching You Fall](https://open.spotify.com/album/3IheTWizyRIC2jibKVOmbm) | 3:05 |
 | 66 | [Ge dig världen](https://open.spotify.com/track/0fjwRDqrIjNH4iGnaTlFGt) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Ge dig världen](https://open.spotify.com/album/2tICZPnl5KWBGGBcmKuiCT) | 3:10 |

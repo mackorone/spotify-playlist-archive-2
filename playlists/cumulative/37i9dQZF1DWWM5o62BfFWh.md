@@ -4,7 +4,7 @@
 
 > ¡Música que representa a Cuba! Cover: Dany Ome & Kevincito El 13
 
-197 songs - 11 hr 14 min
+198 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Q'lona](https://open.spotify.com/track/18qAAYXV9LmnLgO81cscAQ) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Q'lona](https://open.spotify.com/album/44rOSsMvLYhd9PL1TFcbOq) | 3:48 | 2022-02-25 | 2026-07-01 |
 | [Que Locura](https://open.spotify.com/track/2DKyYH0AV19kMOjhqSqsgF) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Que Locura](https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8) | 3:17 | 2022-02-25 | 2026-07-01 |
 | [Que Nochesita](https://open.spotify.com/track/5XrR90q1CW1yLwIs0Zzvpo) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Que Nochesita](https://open.spotify.com/album/6c481sxR5sfIYhKbc3lc2k) | 3:40 | 2022-02-25 | 2026-07-01 |
+| [Que Rico](https://open.spotify.com/track/1gjvVHf3r602TsTJNsTLgD) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Yakarta](https://open.spotify.com/artist/7a639C80zwLMF0NYMpMxzG), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Que Rico](https://open.spotify.com/album/7xJGLrj1n76LPjJordD6Hd) | 2:37 | 2026-07-17 |  |
 | [Quiéreme](https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp) | [Invicto](https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh) | 3:10 | 2022-02-25 |  |
 | [Quiérete](https://open.spotify.com/track/2O16sRdYyu4POSZklWErrb) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Nesty](https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg) | [Quiérete](https://open.spotify.com/album/0ZS3u4DW0yl21jzb8CipES) | 3:10 | 2023-05-12 | 2026-07-01 |
 | [Rica y Pegá \- Remix](https://open.spotify.com/track/0mogth6Cnq4RoqDEfyCptQ) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Rica y Pegá \(Remix\)](https://open.spotify.com/album/3SPACHwmJ0uhgwsi9hjtTp) | 2:52 | 2023-05-12 | 2026-07-01 |
@@ -165,7 +166,7 @@
 | [Sola \- Remix](https://open.spotify.com/track/7dkxnJqINepdJQKrM6Pf8f) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y), [EL DEY](https://open.spotify.com/artist/3WzQYqbFJ40FsLCFYwZxeF), [El Jean](https://open.spotify.com/artist/4jsfPs9ADxi4kUzQUbVg29) | [Sola \(Remix\)](https://open.spotify.com/album/2askI94d5uFdVYfazFH4YZ) | 3:19 | 2023-05-12 | 2026-07-01 |
 | [Sola Se Va](https://open.spotify.com/track/3iscKh3JLIMzYljBPcEg4X) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Apartamento 33](https://open.spotify.com/album/28ZfScNhokihJvkgp6WmWX) | 2:32 | 2024-09-13 | 2026-07-01 |
 | [Soltera](https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Soltera](https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee) | 2:51 | 2023-02-10 | 2026-07-01 |
-| [Stupida](https://open.spotify.com/track/1nXAJekMyzc98RABqZarAt) | [Nany La Kbra](https://open.spotify.com/artist/2sERwzDyPHN7IP1XPlTchU) | [Stupida](https://open.spotify.com/album/6sGFiVC4ka6WZwcmVFJb1U) | 3:33 | 2026-06-30 |  |
+| [Stupida](https://open.spotify.com/track/1nXAJekMyzc98RABqZarAt) | [Nany La Kbra](https://open.spotify.com/artist/2sERwzDyPHN7IP1XPlTchU) | [Stupida](https://open.spotify.com/album/6sGFiVC4ka6WZwcmVFJb1U) | 3:33 | 2026-06-30 | 2026-07-28 |
 | [Suave y Rico](https://open.spotify.com/track/3TdooQZlUdFfzpzqA7ASix) | [Chucho Flash](https://open.spotify.com/artist/5pkJj3IFFJBgzNYJsGR57Y), [Wildey](https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS) | [Suave y Rico](https://open.spotify.com/album/28K7rHuEfpzECBHiXDdk6i) | 3:09 | 2026-06-30 |  |
 | [Superbien](https://open.spotify.com/track/3598bQbF7rR2rG65nHnz0E) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [Superbien](https://open.spotify.com/album/0slbbrD1hMc25xgCjEuy39) | 3:41 | 2022-02-25 | 2026-07-01 |
 | [Taxi Rutero](https://open.spotify.com/track/5oHyyhoSSwYdDlrzWzCZfP) | [Wampi](https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf), [El Dray](https://open.spotify.com/artist/300pxhl4nt1dFDwNcOYYIT), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw), [Seikan Anikila](https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8), [Adonis MC](https://open.spotify.com/artist/593Of0KHzqbTfImhHskrJr) | [Taxi Rutero](https://open.spotify.com/album/10Kjb9SrS23ELP1Lvyf0jZ) | 3:12 | 2026-06-30 |  |

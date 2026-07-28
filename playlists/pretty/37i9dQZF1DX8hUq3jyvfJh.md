@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,168 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,190 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 23 | [Leve](https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Améfrica](https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE) | 3:27 |
 | 24 | [Pagode de Mulher](https://open.spotify.com/track/6LeFKU9Jl3tdfrhKZzBwqu) | [Mannda Lym](https://open.spotify.com/artist/78WvOgIBo2emAnJLbv7nXO), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd), [BEA](https://open.spotify.com/artist/1ibVD2wOxgrsrbsOQbJCCy), [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN) | [Pagode de Mulher](https://open.spotify.com/album/3k3Jo3udbIGxfaneTsUNfB) | 3:42 |
 | 25 | [belo horizonte](https://open.spotify.com/track/5vOX7DaMTkk8jtO4b7Y5jJ) | [Gabi Melim](https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [escapismo](https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb) | 2:47 |
-| 26 | [Segura Minha Mão](https://open.spotify.com/track/6aktgiF9qEDr2c7MX3kBJY) | [Lais Bianchessi](https://open.spotify.com/artist/07VC3ObjCMjhPFwAJxs1Nj) | [Segura Minha Mão](https://open.spotify.com/album/0URk62oupLW4NWsBJYjWhp) | 2:51 |
-| 27 | [Ainda é pouco](https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Ainda é pouco](https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol) | 2:54 |
+| 26 | [Ainda é pouco](https://open.spotify.com/track/6AGC7ecYM61Mbpw3g9akOB) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Ainda é pouco](https://open.spotify.com/album/1m2nWpGkENRy7whHk6REol) | 2:54 |
+| 27 | [Segura Minha Mão](https://open.spotify.com/track/6aktgiF9qEDr2c7MX3kBJY) | [Lais Bianchessi](https://open.spotify.com/artist/07VC3ObjCMjhPFwAJxs1Nj) | [Segura Minha Mão](https://open.spotify.com/album/0URk62oupLW4NWsBJYjWhp) | 2:51 |
 | 28 | [A Menina Dança](https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [A Menina Dança](https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq) | 2:57 |
 | 29 | [Pedaco De Ilusão](https://open.spotify.com/track/2FEUQ8P09HoJPgKnv2BFLH) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Pagode De Mesa \(Ao Vivo\)](https://open.spotify.com/album/1ru3xsV3Q957Kjzz81oo8m) | 3:08 |
 | 30 | [Depois do Fim](https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Depois do Fim](https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc) | 2:04 |

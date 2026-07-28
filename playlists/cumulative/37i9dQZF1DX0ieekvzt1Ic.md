@@ -2,7 +2,7 @@
 
 ### [Hot Hits India](https://open.spotify.com/playlist/37i9dQZF1DX0ieekvzt1Ic)
 
-> The hottest tracks in India\. <br/>Cover: Justin Bieber
+> The hottest tracks in India\. <br/>Cover: Ariana Grande
 
 152 songs - 8 hr 8 min
 

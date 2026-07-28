@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> ❤️‍🔥 <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">read our substack! </a>
+> ❤️‍🔥 featuring girlsweetvoiced <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">read our substack! </a>
 
-3,900 songs - 8 day 21 hr 40 min
+3,901 songs - 8 day 21 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3367,6 +3367,7 @@
 | [The Actor](https://open.spotify.com/track/3BnXwrGZwJ2kDtACt4TOIX) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [The Actor](https://open.spotify.com/album/4cuqUw4Z17ym8fvzgkrOOm) | 2:50 | 2025-04-18 | 2025-08-02 |
 | [The Afterparty](https://open.spotify.com/track/4CjoseT1Sf0lrWnd8dAttA) | [Portraits Of Tracy](https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE) | [The Afterparty](https://open.spotify.com/album/62WN4KZgA7iRqzx5lbOMNi) | 3:34 | 2023-03-17 | 2023-04-09 |
 | [The aisle](https://open.spotify.com/track/6SjxVgMjH3b3AI4wVviZfi) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:45 | 2023-11-17 | 2024-01-11 |
+| [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 | 2026-07-27 |  |
 | [The Ballad of Matt & Mica](https://open.spotify.com/track/4j9WdbfKvyx7fBQb4qygYr) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 4:00 | 2024-08-23 | 2025-01-18 |
 | [The Beginning](https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:01 | 2022-12-07 | 2023-03-18 |
 | [The Blonde](https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:47 | 2023-04-05 | 2023-07-13 |

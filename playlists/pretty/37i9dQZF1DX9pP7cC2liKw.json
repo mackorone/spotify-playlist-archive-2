@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 464762,
+  "num_followers": 464973,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -609,26 +609,6 @@
       "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Laberinto (Bosq Remix)",
-        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        }
-      ],
-      "duration_ms": 224211,
-      "name": "Laberinto - Bosq Remix",
-      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
-    },
-    {
       "added_at": "2022-08-19 01:51:18",
       "album": {
         "name": "Caf\u00e9 del Mar XXVIII (Vol. 28)",
@@ -659,6 +639,26 @@
       "duration_ms": 122331,
       "name": "quiz\u00e1s en otra vida",
       "url": "https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Laberinto (Bosq Remix)",
+        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        }
+      ],
+      "duration_ms": 224211,
+      "name": "Laberinto - Bosq Remix",
+      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
     },
     {
       "added_at": "2024-07-20 14:57:35",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 273946,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Apolinar",
         "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T"
+        "name": "Grind / Prelims",
+        "url": "https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Les Sins",
+          "url": "https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL"
         }
       ],
-      "duration_ms": 273946,
-      "name": "Ahora",
-      "url": "https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F"
+      "duration_ms": 318014,
+      "name": "Grind",
+      "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -867,22 +883,6 @@
       "duration_ms": 213453,
       "name": "Better When We're Close",
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Grind / Prelims",
-        "url": "https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs"
-      },
-      "artists": [
-        {
-          "name": "Les Sins",
-          "url": "https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL"
-        }
-      ],
-      "duration_ms": 318014,
-      "name": "Grind",
-      "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
     },
     {
       "added_at": "2022-06-15 04:26:09",

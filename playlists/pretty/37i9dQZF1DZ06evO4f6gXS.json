@@ -1,12 +1,12 @@
 {
   "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
-  "num_followers": 3633,
+  "num_followers": 3632,
   "original_name": "This Is The Jones Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAADXvZPARj8AWJvx+3yU3BG",
+  "snapshot_id": "amVOAAAAAABxlbeVSXsT1FPx+u74AUmw",
   "tracks": [
     {
       "added_at": null,
@@ -127,18 +127,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get as Much Love as You Can",
-        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+        "name": "I Need Some",
+        "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
       },
       "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
         {
           "name": "The Jones Girls",
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 244560,
-      "name": "The World Will Sing Our Song",
-      "url": "https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz"
+      "duration_ms": 142200,
+      "name": "I Need Some",
+      "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
     },
     {
       "added_at": null,
@@ -191,22 +195,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Need Some",
-        "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
       },
       "artists": [
-        {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
-        },
         {
           "name": "The Jones Girls",
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 142200,
-      "name": "I Need Some",
-      "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
+      "duration_ms": 244560,
+      "name": "The World Will Sing Our Song",
+      "url": "https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflections: In Loving Memory",
-        "url": "https://open.spotify.com/album/7dhvs5QbajnXYUY5NETIGY"
+        "name": "On Target (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 324960,
-      "name": "Baby Don't Go Yet",
-      "url": "https://open.spotify.com/track/6NKNogU1zrD9jNj4aPNdQV"
+      "duration_ms": 254533,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "On Target (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri"
+        "name": "Reflections: In Loving Memory",
+        "url": "https://open.spotify.com/album/7dhvs5QbajnXYUY5NETIGY"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
         }
       ],
-      "duration_ms": 254533,
-      "name": "Baby I'm Yours",
-      "url": "https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v"
+      "duration_ms": 324960,
+      "name": "Baby Don't Go Yet",
+      "url": "https://open.spotify.com/track/6NKNogU1zrD9jNj4aPNdQV"
     },
     {
       "added_at": null,

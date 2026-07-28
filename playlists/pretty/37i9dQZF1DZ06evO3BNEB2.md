@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,828 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,833 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 47 | [Caramel](https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:21 |
 | 48 | [This Thing of Ours \(feat\. Rick Ross & Nas\)](https://open.spotify.com/track/4Izv8YcbPkIXOZW76h68hG) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [MMG Presents: Self Made, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/6i5RM49EP7GbJiHX7D2eV6) | 4:09 |
 | 49 | [Beautiful Bliss](https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Attention Deficit \(Explicit Version\)](https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI) | 5:04 |
-| 50 | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/track/5OFKWrKbS8iTIGxgjyHDzW) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Coffee \(F\*\*\*ing\) \(feat\. Wale\)](https://open.spotify.com/album/2oEZTAlDdKGJoeNSlbkXOy) | 5:14 |
+| 50 | [Peace Of Mind \(feat\. Wale & J'TA\)](https://open.spotify.com/track/7miRYKcr0lYSb0zCRVKc5d) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [J'TA](https://open.spotify.com/artist/4dstHylx9MVsv0QmpvCLct) | [Peace Of Mind \(feat\. Wale & J'TA\)](https://open.spotify.com/album/04IK5ajZvrJ2oAt9VqBLSX) | 3:37 |
 
-Snapshot ID: `amP8gAAAAABeNTOripjEqcjZwXx2Hpiv`
+Snapshot ID: `amVOAAAAAACn/FY29Em4oF02Ep6hxm7H`

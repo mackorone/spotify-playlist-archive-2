@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Canci\u00f3n Con Todos",
+        "url": "https://open.spotify.com/album/1blaaz6HWqTzn3ky6DlVPe"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292522,
+      "name": "Canci\u00f3n Con Todos",
+      "url": "https://open.spotify.com/track/3lzIgHRWd6ky0qpPbIaQF7"
+    },
+    {
+      "album": {
         "name": "En Vivo en Argentina, Vol. 2",
         "url": "https://open.spotify.com/album/7CRO8hkgX3b6s07QWkSR61"
       },
@@ -3268,7 +3286,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 250120,
       "name": "La Villerita",
       "url": "https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh"

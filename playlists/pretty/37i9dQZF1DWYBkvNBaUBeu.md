@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,617 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,602 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 | 29 | [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 |
 | 30 | [WHAT ELSE?](https://open.spotify.com/track/3h2OSS7nnFnEuZ57F2BmVF) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [WHAT ELSE?](https://open.spotify.com/album/7gFZKtpOHMIvkVhXSJ9z7f) | 2:20 |
 | 31 | [Fluent](https://open.spotify.com/track/5RmvYROdCmvdUsO1AFNd3q) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Fluent](https://open.spotify.com/album/4xVe4dRqYKxxzx4HmoV7WA) | 1:52 |
-| 32 | [Certified Lover Girl](https://open.spotify.com/track/5YEkMWE1gDq8NJm0ZpRy22) | [H3rizon](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Certified Lover Girl](https://open.spotify.com/album/2dHmPBAdAem0jne9czNYWz) | 3:11 |
+| 32 | [Certified Lover Girl](https://open.spotify.com/track/5YEkMWE1gDq8NJm0ZpRy22) | [H3RIZON](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Certified Lover Girl](https://open.spotify.com/album/2dHmPBAdAem0jne9czNYWz) | 3:11 |
 | 33 | [Angel\(s\)](https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Angel\(s\)](https://open.spotify.com/album/71W6HyKdt6FDhVYChmamZ4) | 3:03 |
 | 34 | [Danceteria](https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:55 |
 | 35 | [Pretty Eyes \(feat\. FLO\)](https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Pretty Eyes](https://open.spotify.com/album/1XqkZ8GL8MHY3RG5B6IXBZ) | 3:09 |
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 | 64 | [Tastes So Good](https://open.spotify.com/track/1zpv7um6Ukk3pkNMtfaYM7) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 3:05 |
 | 65 | [Hurts So Good](https://open.spotify.com/track/5EQFlXjVAQEv39DKvHSmdv) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [God Must Really Love Me](https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL) | 3:18 |
 | 66 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 |
-| 67 | [Future Self](https://open.spotify.com/track/3Z2gMj8OfJUmCn0LQ0uDsj) | [H3rizon](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Future Self](https://open.spotify.com/album/5CRUtNqQNQsjIfYodLi4q5) | 2:30 |
+| 67 | [Future Self](https://open.spotify.com/track/3Z2gMj8OfJUmCn0LQ0uDsj) | [H3RIZON](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Future Self](https://open.spotify.com/album/5CRUtNqQNQsjIfYodLi4q5) | 2:30 |
 | 68 | [lucky](https://open.spotify.com/track/09Xku6uFYDi5AhhLfkPQtV) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [lucky](https://open.spotify.com/album/0Gz9Mtftc90Yke3ydIZsPY) | 3:37 |
 | 69 | [Dance With Me](https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:39 |
 | 70 | [Knew Better Part Two](https://open.spotify.com/track/789c3DD8obKdAWe1In9Fp5) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman \(Tenth Anniversary Edition\)](https://open.spotify.com/album/0JPItniR1C7tjd4ac2R1Vk) | 2:44 |

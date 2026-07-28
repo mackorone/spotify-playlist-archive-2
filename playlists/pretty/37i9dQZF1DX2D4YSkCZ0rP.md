@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Victor Aupecle
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,797 likes - 39 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,801 likes - 39 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 7 | [\#BGP](https://open.spotify.com/track/7m2oXUvAtrsMxGarL62Hq1) | [AYMCE](https://open.spotify.com/artist/1ovoVBIGwzatbn4eJuyJcv) | [\#BGP](https://open.spotify.com/album/2UBCtI3EM6QkS91zk2Xw8B) | 3:50 |
 | 8 | [Virile](https://open.spotify.com/track/0y2YZSSY6BtzP6L489fMrb) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Millénium](https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot) | 2:38 |
 | 9 | [Amour Amore](https://open.spotify.com/track/7MoYKHLO2kBdBwR8fzjvho) | [Victoria Sio](https://open.spotify.com/artist/1J7lHgGg73LSlEOGZL7XAl) | [Amour Amore](https://open.spotify.com/album/1QNFe13n2nM1pZlzDmZ1uK) | 3:01 |
-| 10 | [bellevie](https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [bellevie](https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778) | 3:01 |
+| 10 | [bellevie](https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [bellevie](https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778) | 3:02 |
 | 11 | [OLALA](https://open.spotify.com/track/5hyPI9MvNnjhLfZvNKSqwp) | [CHÉRI](https://open.spotify.com/artist/2ueYa1egeXuQXK4QPfd3cF) | [OLALA](https://open.spotify.com/album/6fcHgkUE2wJTAAvIDEfB1V) | 2:19 |
 | 12 | [Love Noir](https://open.spotify.com/track/3QSfWyXeGEpEoMpufPPtot) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Love Noir](https://open.spotify.com/album/4q3khzl3yEiqMcry65Q4ZW) | 2:51 |
 | 13 | [Estafette](https://open.spotify.com/track/3DNz1uS5Z5Qw5XHFZmxL9I) | [Sexy Sushi](https://open.spotify.com/artist/6yNXUzxIakMVY5LoVgZGHG), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4), [Mitch Silver](https://open.spotify.com/artist/585FeCXfQKceH2hCHn5SKO) | [Estafette](https://open.spotify.com/album/2jlIufCIWbnn0x9f00pL8I) | 2:38 |

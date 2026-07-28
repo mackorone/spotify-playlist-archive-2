@@ -4,7 +4,7 @@
 
 > Let's go! 💪
 
-178 songs - 8 hr 5 min
+179 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Boyz In Paris \(with VINAI\)](https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0) | 2:31 | 2023-10-06 |  |
 | [Breakin' Dishes](https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS) | 2:13 | 2025-10-23 |  |
 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 | 2024-12-16 | 2025-11-30 |
-| [call me back](https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f) | [Ordinary Kid](https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9) | [call me back](https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1) | 1:54 | 2026-06-11 |  |
+| [call me back](https://open.spotify.com/track/5oBuuXTgVVLuIYaJlELm0f) | [Ordinary Kid](https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9) | [call me back](https://open.spotify.com/album/22koXUTCFwgnWoeJSFizT1) | 1:54 | 2026-06-11 | 2026-07-28 |
 | [Coconut](https://open.spotify.com/track/1aUr1M92RnRVNFWrAPq64Q) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [GRY](https://open.spotify.com/artist/6lLzPz5M6NWkN9FiN4Wcfe) | [Coconut](https://open.spotify.com/album/1bk3ObntSufsULFDAS3h3c) | 2:37 | 2023-09-01 | 2023-10-07 |
 | [Coming Home](https://open.spotify.com/track/3T4LnWo07y2jlJoe4kedly) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Coming Home](https://open.spotify.com/album/2CcgpiaIAMwGLXUAP7Geax) | 2:48 | 2026-05-18 | 2026-07-02 |
 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 | 2024-02-08 |  |
@@ -143,6 +143,7 @@
 | [River Flows in You](https://open.spotify.com/track/6TcTpJT1dvSwrrUTJrJgOj) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Jasper Forks](https://open.spotify.com/artist/5QCZ46GMAwu0DXQUC7n7DH), [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq) | [River Flows in You](https://open.spotify.com/album/2Jh2pGXG4o5yVr7YxpucGT) | 2:33 | 2024-04-10 | 2024-08-23 |
 | [Rock My Body \(with INNA\) \[Sam Feldt Remix\]](https://open.spotify.com/track/7iLximGIlwAFgB5J7KG7pJ) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Rock My Body \(with INNA\) \[Sam Feldt Remix\]](https://open.spotify.com/album/5AD2PA4Cef5qsJZGsyj0xZ) | 2:49 | 2023-09-01 | 2023-09-29 |
 | [Run Free \(Countdown\)](https://open.spotify.com/track/4KB66xUZWvRDej628vf2J8) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Run Free \(Countdown\)](https://open.spotify.com/album/3RbeHKH3mbJ4wQ4Y9fcF3f) | 2:32 | 2023-11-28 | 2024-08-23 |
+| [Self Aware](https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Self Aware](https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv) | 2:31 | 2026-07-27 |  |
 | [Set Me Free](https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Set Me Free](https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF) | 3:04 | 2025-10-23 |  |
 | [Shake That](https://open.spotify.com/track/3t854jxXLppSGbOEYGQ3mI) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [okafuwa](https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj) | [Shake That](https://open.spotify.com/album/5fopLePPfYk56Ei99jOmLv) | 2:00 | 2025-04-17 | 2025-05-19 |
 | [She The Last One](https://open.spotify.com/track/1OGikFMQXWG41hK6QWIGjK) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [She The Last One](https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ) | 3:22 | 2025-01-20 | 2025-03-04 |

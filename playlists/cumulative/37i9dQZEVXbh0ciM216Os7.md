@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,600 songs - 9 day 10 hr 9 min
+3,601 songs - 9 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3122,8 +3122,9 @@
 | [The Star Room \(OG Version\) \- Bonus Track](https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Watching Movies with the Sound Off \(10th Anniversary\)](https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp) | 4:24 | 2023-06-23 | 2023-07-01 |
 | [The Storm](https://open.spotify.com/track/0GrQ3TWmLvKlUEWhm19eSB) | [Elly Cooke](https://open.spotify.com/artist/5DqNmryn6SyOwDjfSbwOGe) | [The Storm](https://open.spotify.com/album/61w0SxDVRXWxOdsHUt2uBf) | 5:56 | 2024-03-08 | 2024-04-06 |
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-01 | 2025-08-23 |
+| [The Tao of Glass: 1\. Newspaper](https://open.spotify.com/track/3EKUXSxgBSWD0aTrouawmY) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Phelim McDermott](https://open.spotify.com/artist/4UDqVKbv6HO1eJ09B5IRQG) | [Tao of Glass](https://open.spotify.com/album/3iSM4LMZBF9h7CoCokoUaU) | 5:02 | 2026-07-24 |  |
 | [The Tao of Glass: 4\. Coma](https://open.spotify.com/track/6KQZvSvCvfhmFKiv5s6lad) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Phelim McDermott](https://open.spotify.com/artist/4UDqVKbv6HO1eJ09B5IRQG) | [Tao of Glass](https://open.spotify.com/album/3iSM4LMZBF9h7CoCokoUaU) | 11:51 | 2026-07-24 | 2026-07-27 |
-| [The Tao of Glass: 5\. Closing](https://open.spotify.com/track/09BrXW7ZFz1Oo2wSDoFPFR) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Phelim McDermott](https://open.spotify.com/artist/4UDqVKbv6HO1eJ09B5IRQG) | [Tao of Glass](https://open.spotify.com/album/3iSM4LMZBF9h7CoCokoUaU) | 8:29 | 2026-07-24 |  |
+| [The Tao of Glass: 5\. Closing](https://open.spotify.com/track/09BrXW7ZFz1Oo2wSDoFPFR) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Phelim McDermott](https://open.spotify.com/artist/4UDqVKbv6HO1eJ09B5IRQG) | [Tao of Glass](https://open.spotify.com/album/3iSM4LMZBF9h7CoCokoUaU) | 8:29 | 2026-07-24 | 2026-07-28 |
 | [The Theme \- Dusseldorf March 1960 \- Restauración 2024](https://open.spotify.com/track/3hFFfkl3A0aBPmKKrPbmcD) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [John Coltrane Quartet + Stan Getz + Oscar Peterson: Live Dusseldorf 1960 \(Live Restauración 2024\)](https://open.spotify.com/album/3VcGwRasSIkWfFJjADQsIa) | 3:30 | 2024-03-29 | 2024-04-03 |
 | [The Town I Loved So Well](https://open.spotify.com/track/5RO9nhkQvlbmy9PGVEGBRR) | [Dervish](https://open.spotify.com/artist/08DRTASY1wyduMevINkClA), [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt) | [The Town I Loved So Well](https://open.spotify.com/album/7yfvse8LXS3xkqm3JinFA3) | 5:43 | 2026-05-19 | 2026-05-23 |
 | [The Trial](https://open.spotify.com/track/5oPlmrWQ9QcFvZKWFOaWW7) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO), [Reek da Villian](https://open.spotify.com/artist/41gxhG2jLBD3CEn3QI0EwL), [Pills](https://open.spotify.com/artist/7nJJ8baq6bGxkmnJXbZBrj) | [Supreme Clientele 2](https://open.spotify.com/album/0SHlsKruygN9cOfAnaLxvM) | 3:12 | 2025-08-22 | 2025-09-21 |

@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: M'DEP, DESSIIIK ",
-  "num_followers": 149976,
+  "num_followers": 150060,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -955,30 +955,6 @@
     {
       "added_at": "2026-07-20 18:43:47",
       "album": {
-        "name": "PRETO DE VITRINE",
-        "url": "https://open.spotify.com/album/3YDq0DisiOVRN4khwWJH6X"
-      },
-      "artists": [
-        {
-          "name": "Druhh e Drehh",
-          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
-        },
-        {
-          "name": "Miranda On The Trk!",
-          "url": "https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc"
-        },
-        {
-          "name": "MixbyGaijin",
-          "url": "https://open.spotify.com/artist/5yiQQsEuh10OhXClxBtYMM"
-        }
-      ],
-      "duration_ms": 173852,
-      "name": "PRETO DE VITRINE",
-      "url": "https://open.spotify.com/track/5gvLZphACEQd8O49b0dvac"
-    },
-    {
-      "added_at": "2026-07-20 18:43:47",
-      "album": {
         "name": "IMP\u00c9RIO",
         "url": "https://open.spotify.com/album/4HQ1aKcnPhlsHawRiBBs7S"
       },
@@ -999,6 +975,30 @@
       "duration_ms": 150794,
       "name": "IMP\u00c9RIO",
       "url": "https://open.spotify.com/track/5DC5J4ki3mJHGjbaegsD3L"
+    },
+    {
+      "added_at": "2026-07-20 18:43:47",
+      "album": {
+        "name": "PRETO DE VITRINE",
+        "url": "https://open.spotify.com/album/3YDq0DisiOVRN4khwWJH6X"
+      },
+      "artists": [
+        {
+          "name": "Druhh e Drehh",
+          "url": "https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf"
+        },
+        {
+          "name": "Miranda On The Trk!",
+          "url": "https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc"
+        },
+        {
+          "name": "MixbyGaijin",
+          "url": "https://open.spotify.com/artist/5yiQQsEuh10OhXClxBtYMM"
+        }
+      ],
+      "duration_ms": 173852,
+      "name": "PRETO DE VITRINE",
+      "url": "https://open.spotify.com/track/5gvLZphACEQd8O49b0dvac"
     },
     {
       "added_at": "2026-07-20 18:43:47",

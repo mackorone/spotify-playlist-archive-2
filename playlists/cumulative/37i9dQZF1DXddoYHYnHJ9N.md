@@ -2,9 +2,9 @@
 
 ### [Hot Hits Magyarország](https://open.spotify.com/playlist/37i9dQZF1DXddoYHYnHJ9N)
 
-> Az 50 legnépszerűbb dal Magyarországon\. Cover: Dzsúdló
+> Az 50 legnépszerűbb dal Magyarországon\. Cover: T\. Danny, RZMVS
 
-244 songs - 12 hr 4 min
+245 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 | 2025-02-03 | 2026-03-03 |
 | [Dada](https://open.spotify.com/track/2tdh0309QZInDRthTNxjZ1) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [Dada](https://open.spotify.com/album/5SYUF1nUTuqOgRFrj6x2VN) | 3:40 | 2026-03-23 |  |
 | [DADDY](https://open.spotify.com/track/4MQmgboYHKTI8Nfxd0nDjA) | [Mirror Glimpse](https://open.spotify.com/artist/6ugNgaIlOKz7Sy8wlEQDif) | [HATALMASABB, MINT GONDOLNÁD](https://open.spotify.com/album/4hV5BVV3paYc0R019cwl3O) | 2:17 | 2025-12-01 | 2026-07-14 |
+| [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-07-27 |  |
 | [Dealer](https://open.spotify.com/track/2wMFX5mdyz7RVzxUr8o9Ql) | [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [Dealer](https://open.spotify.com/album/75K2OKdnhDWARooA6QCwRe) | 2:09 | 2024-07-01 | 2024-08-20 |
 | [Demo](https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Demo](https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ) | 2:51 | 2025-08-04 | 2026-03-17 |
 | [Deák Ferenc](https://open.spotify.com/track/3g74RtlTrykdLNebTNmChG) | [mollywood](https://open.spotify.com/artist/4JUoajUgI0mmICMBpV6iEP) | [Deák Ferenc](https://open.spotify.com/album/0Iz9AykGeXueVYNburpmYz) | 2:34 | 2026-06-20 |  |
@@ -80,7 +81,7 @@
 | [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 | 2025-08-19 | 2026-04-01 |
 | [furcsa](https://open.spotify.com/track/4RQny0WnIyGTLCWVxxYsc0) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [elterelés](https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc) | 2:03 | 2026-03-31 | 2026-06-16 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 | 2024-10-22 |
-| [Gate Closed](https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Four Seasons \- Spring](https://open.spotify.com/album/4iDm13QQDysn1H3w0cZypc) | 2:29 | 2026-04-27 |  |
+| [Gate Closed](https://open.spotify.com/track/4pPGHHybZH45ETSGROCMwg) | [BSW](https://open.spotify.com/artist/5Zwlr28h134D0OzxzUfVCA) | [Four Seasons \- Spring](https://open.spotify.com/album/4iDm13QQDysn1H3w0cZypc) | 2:29 | 2026-04-27 | 2026-07-28 |
 | [Gengetek ellen](https://open.spotify.com/track/3mfSO4e6l0mlsjcNpqrktC) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Gengetek ellen](https://open.spotify.com/album/1sNJvYsvXA0QAkfb1DfrHY) | 2:49 | 2024-07-01 | 2024-08-14 |
 | [GIN TONIC](https://open.spotify.com/track/3ObcOmEWDsBKLeqxoyxVzu) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [GIN TONIC](https://open.spotify.com/album/5Gn66d9b7excbeLZuZygB9) | 3:28 | 2025-05-05 | 2025-11-18 |
 | [Golden](https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:14 | 2025-06-30 | 2026-01-06 |

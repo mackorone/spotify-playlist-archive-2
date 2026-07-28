@@ -4,10 +4,11 @@
 
 > Voici les hits du moment avec Céline Dion
 
-727 songs - 1 day 14 hr 18 min
+728 songs - 1 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ["forever"](https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | ["forever"](https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK) | 3:30 | 2026-07-27 |  |
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-07-07 | 2024-01-05 |
 | [1+1 \(feat\. Amir\) \- Banx & Ranx Remix](https://open.spotify.com/track/1OWLQ4FQrO13w6ssWgP8tk) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [1+1 \(feat\. Amir\) \[Banx & Ranx Remix\]](https://open.spotify.com/album/6FsQVRlDW4YyTRtGMQrST7) | 3:16 | 2022-07-09 | 2023-04-01 |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-06 | 2023-09-09 |
@@ -416,7 +417,7 @@
 | [Ma pref](https://open.spotify.com/track/6Jk0HOH7Qrr6xbNf5xTKGi) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu), [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Ma pref](https://open.spotify.com/album/1r18lQrF1s9xhZecqOUJ2d) | 3:17 | 2024-09-13 | 2024-10-26 |
 | [Ma Way](https://open.spotify.com/track/5YUmEBCcg6hu8lpNegrZ7n) | [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Ma Way](https://open.spotify.com/album/4CdBkVYkTRu3IT2N4s5X8i) | 2:31 | 2022-07-09 | 2023-11-11 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-12-09 | 2023-04-12 |
-| [Mademoiselle](https://open.spotify.com/track/6l6bh1BetpFBtKZRhNIN2v) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mademoiselle](https://open.spotify.com/album/5OCHnxfcb5Rgi3SmDsZJEJ) | 3:17 | 2026-06-19 | 2026-07-18 |
+| [Mademoiselle](https://open.spotify.com/track/6l6bh1BetpFBtKZRhNIN2v) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mademoiselle](https://open.spotify.com/album/5OCHnxfcb5Rgi3SmDsZJEJ) | 3:17 | 2026-06-19 |  |
 | [Make It Alright](https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Make It Alright](https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6) | 2:13 | 2023-06-16 | 2023-11-11 |
 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 | 2023-06-23 | 2024-04-19 |
 | [Maladie](https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM) | 3:12 | 2026-05-22 |  |

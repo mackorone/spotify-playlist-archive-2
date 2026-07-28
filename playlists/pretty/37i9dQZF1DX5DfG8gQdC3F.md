@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Releases from Shania Twain, Charli xcx, Morgan Wallen, Tyla, JENNIE, girlsweetvoiced, and  more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,347 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,314 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 28 | [Change](https://open.spotify.com/track/1VExL9vUxqkfytmPpnmS8K) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6), [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Change](https://open.spotify.com/album/0OHcWj5QdMxe7CNXK9La86) | 3:52 |
 | 29 | [Too Little, Too Late](https://open.spotify.com/track/5wbN8wztvxqI5jsgrFDuM2) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Too Little, Too Late](https://open.spotify.com/album/0o8K4r2kU6Jv6XUJiX5r3P) | 2:52 |
 | 30 | [Don't Touch](https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [LOVE IS THE LAW](https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0) | 3:25 |
-| 31 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:19 |
+| 31 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:16 |
 | 32 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 |
 | 33 | [It Takes A Woman \(Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/track/21j1XZJ9p7gq5I1U3MtDLJ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [It Takes A Woman \(Cover\) \(Live\) \- Spotify Live Room](https://open.spotify.com/album/5pI8iJPUyoxaMbxVnYt59A) | 4:06 |
 | 34 | [Love More](https://open.spotify.com/track/2HvosJSSymdFQUr3A56LO5) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/0rWbNSGvvCGSZBLftxM1pc) | 5:56 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 65 | [Stoned On You](https://open.spotify.com/track/4uOeXIgzdSjVKh5RZxoIOv) | [Matt Lang](https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW) | [Stoned On You](https://open.spotify.com/album/3h1ZdoAXhBhIXWu3mMwv8p) | 3:25 |
 | 66 | [DOPAMINE](https://open.spotify.com/track/0BVMBaoH7C0OO9yu3TOG6E) | [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU), [Cody Ko](https://open.spotify.com/artist/51etCwhy3kaQLY5Tj06PW5), [audiodrugz](https://open.spotify.com/artist/4PMllC4qzDmmdqVGrlJjQJ) | [DOPAMINE](https://open.spotify.com/album/75TrrvY3V0hDp7J7AIfWrI) | 2:42 |
 | 67 | [Pa la Maña](https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Pa la Maña](https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC) | 2:39 |
-| 68 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:27 |
+| 68 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:00 |
 | 69 | [relapse](https://open.spotify.com/track/4U79JUWOHrww52hBySHL8T) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [relapse](https://open.spotify.com/album/3Xlls9vCfkFRNgvTrqk1zZ) | 3:23 |
 | 70 | [Every Age](https://open.spotify.com/track/4j7OedJfJyq3HHtwvyQAu7) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Every Age](https://open.spotify.com/album/1uT1o6hSvgaBGvDpiHlGGw) | 2:58 |
 | 71 | [Eye to Eye](https://open.spotify.com/track/2bFegGBidnjXkqqq7dH5QY) | [yaego](https://open.spotify.com/artist/3F5cNbKjtYHvv43yu5BhKp), [skrta](https://open.spotify.com/artist/1gZR1OO6ifGDdeVos9ZV3O) | [Eye to Eye](https://open.spotify.com/album/6mHos75cPoGLm8dq9bThOo) | 3:51 |

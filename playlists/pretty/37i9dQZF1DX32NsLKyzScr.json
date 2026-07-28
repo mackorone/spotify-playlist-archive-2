@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2593604,
+  "num_followers": 2593543,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,30 @@
     {
       "added_at": "2026-07-24 04:01:20",
       "album": {
+        "name": "World Away",
+        "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "In\u00e9z",
+          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
+        }
+      ],
+      "duration_ms": 187686,
+      "name": "World Away",
+      "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
+    },
+    {
+      "added_at": "2026-07-24 04:01:20",
+      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/1YbqV9ng7vfzgGbhjR2FfQ"
       },
@@ -1055,30 +1079,6 @@
     {
       "added_at": "2026-07-24 04:01:20",
       "album": {
-        "name": "World Away",
-        "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        },
-        {
-          "name": "In\u00e9z",
-          "url": "https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5"
-        }
-      ],
-      "duration_ms": 187686,
-      "name": "World Away",
-      "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
-    },
-    {
-      "added_at": "2026-07-24 04:01:20",
-      "album": {
         "name": "Melodia",
         "url": "https://open.spotify.com/album/5ibwloBOv2GUuh8TKVllmL"
       },
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-07-24 04:01:20",
       "album": {
-        "name": "Help I'm Alive (BYNX Rework)",
-        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        },
-        {
-          "name": "BYNX",
-          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
-        }
-      ],
-      "duration_ms": 169305,
-      "name": "Help I'm Alive - BYNX Rework",
-      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
-    },
-    {
-      "added_at": "2026-07-24 04:01:20",
-      "album": {
         "name": "Come To Life",
         "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 192209,
       "name": "Come To Life",
       "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
+    },
+    {
+      "added_at": "2026-07-24 04:01:20",
+      "album": {
+        "name": "Help I'm Alive (BYNX Rework)",
+        "url": "https://open.spotify.com/album/4JlaaaXai3SkY4aOzGyz1f"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        },
+        {
+          "name": "BYNX",
+          "url": "https://open.spotify.com/artist/2HDr90mJP3k5gaCkPIKdEn"
+        }
+      ],
+      "duration_ms": 169305,
+      "name": "Help I'm Alive - BYNX Rework",
+      "url": "https://open.spotify.com/track/6cc4X3CBJhdPbARRbyaJkP"
     },
     {
       "added_at": "2026-07-24 04:01:20",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2026-07-24 04:01:20",
       "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
+      },
+      "artists": [
+        {
+          "name": "Koti\u0113r",
+          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
+    },
+    {
+      "added_at": "2026-07-24 04:01:20",
+      "album": {
         "name": "Rivers",
         "url": "https://open.spotify.com/album/1RtBxchPVfar3NI1jY35O8"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 261958,
       "name": "Ain't Letting You Down",
       "url": "https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB"
-    },
-    {
-      "added_at": "2026-07-24 04:01:20",
-      "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
-      },
-      "artists": [
-        {
-          "name": "Koti\u0113r",
-          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
     },
     {
       "added_at": "2026-07-24 04:01:20",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-07-24 04:01:20",
       "album": {
+        "name": "GIRLBOSS",
+        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "GIRLBOSS",
+      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
+    },
+    {
+      "added_at": "2026-07-24 04:01:20",
+      "album": {
         "name": "Fight Machine (feat. NAIIM)",
         "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 169090,
       "name": "DONA",
       "url": "https://open.spotify.com/track/30Z6Dp5Ddy6FN3xjm1XXLS"
-    },
-    {
-      "added_at": "2026-07-24 04:01:20",
-      "album": {
-        "name": "GIRLBOSS",
-        "url": "https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "GIRLBOSS",
-      "url": "https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa"
     },
     {
       "added_at": "2026-07-24 04:01:20",
@@ -1943,6 +1943,30 @@
     {
       "added_at": "2026-07-24 04:01:20",
       "album": {
+        "name": "On My Own (Feat. Darla Jade)",
+        "url": "https://open.spotify.com/album/5H8LVL9u4hjO3pm9QzJB9m"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "duration_ms": 220439,
+      "name": "On My Own (Feat. Darla Jade)",
+      "url": "https://open.spotify.com/track/6hIrJ88yxwqnvdvnnXHVkC"
+    },
+    {
+      "added_at": "2026-07-24 04:01:20",
+      "album": {
         "name": "Turn Up The Dose",
         "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
       },
@@ -2119,30 +2143,6 @@
     {
       "added_at": "2026-07-24 04:01:20",
       "album": {
-        "name": "On My Own (Feat. Darla Jade)",
-        "url": "https://open.spotify.com/album/5H8LVL9u4hjO3pm9QzJB9m"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Reinier Zonneveld",
-          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
-        },
-        {
-          "name": "Darla Jade",
-          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
-        }
-      ],
-      "duration_ms": 220439,
-      "name": "On My Own (Feat. Darla Jade)",
-      "url": "https://open.spotify.com/track/6hIrJ88yxwqnvdvnnXHVkC"
-    },
-    {
-      "added_at": "2026-07-24 04:01:20",
-      "album": {
         "name": "Enjoy the Silence (Don Diablo Version)",
         "url": "https://open.spotify.com/album/4QsFjDF4p71D1fkmC1Foh9"
       },
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2026-07-24 04:01:20",
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 163664,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
+    },
+    {
+      "added_at": "2026-07-24 04:01:20",
+      "album": {
         "name": "Arp12",
         "url": "https://open.spotify.com/album/7Co7HPNp3CaE10oPWCGth4"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 260053,
       "name": "Arp12",
       "url": "https://open.spotify.com/track/1uAqEwBLKdJw8N5T7qAWMX"
-    },
-    {
-      "added_at": "2026-07-24 04:01:20",
-      "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/4bfFEP8XU77Tqw96oIzd8i"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 163664,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/0xlQ5dXJSP39ojg3vZ1o1S"
     },
     {
       "added_at": "2026-07-24 04:01:20",
@@ -2275,6 +2275,26 @@
       "duration_ms": 260039,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN"
+    },
+    {
+      "added_at": "2026-07-24 04:01:20",
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/7wIlJaB1s21YFwKkMBlDY0"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 226976,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4xqKh9ZcFLssHKQWtnj6jl"
     },
     {
       "added_at": "2026-07-24 04:01:20",
@@ -2367,26 +2387,6 @@
       "duration_ms": 184000,
       "name": "Move",
       "url": "https://open.spotify.com/track/7dSQzNuXUFq9uZ4Xujv83C"
-    },
-    {
-      "added_at": "2026-07-24 04:01:20",
-      "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/7wIlJaB1s21YFwKkMBlDY0"
-      },
-      "artists": [
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 226976,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/4xqKh9ZcFLssHKQWtnj6jl"
     },
     {
       "added_at": "2026-07-24 04:01:20",
@@ -2559,26 +2559,22 @@
     {
       "added_at": "2026-07-24 04:01:20",
       "album": {
-        "name": "Sun Goes Down (feat. Camden Cox)",
-        "url": "https://open.spotify.com/album/16sGFu6kYUl8S1Au9enD7k"
+        "name": "ALL OVER AGAIN",
+        "url": "https://open.spotify.com/album/6IOcXv652Y2jDpFT8LLA6S"
       },
       "artists": [
         {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
         },
         {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "LUMI",
+          "url": "https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5"
         }
       ],
-      "duration_ms": 346904,
-      "name": "Sun Goes Down (feat. Camden Cox)",
-      "url": "https://open.spotify.com/track/6foHOZ75gZg19BphIKEFw4"
+      "duration_ms": 181035,
+      "name": "ALL OVER AGAIN",
+      "url": "https://open.spotify.com/track/12pdzk71yPp6sxzWXOchIC"
     }
   ],
   "unique_name": "Power Hour",

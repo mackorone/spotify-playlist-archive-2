@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Finn Wolfhard
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,017 likes - 125 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,023 likes - 125 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

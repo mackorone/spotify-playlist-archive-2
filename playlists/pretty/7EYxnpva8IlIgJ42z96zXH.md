@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting + more
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,386 likes - 99 songs - 5 hr 12 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,463 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

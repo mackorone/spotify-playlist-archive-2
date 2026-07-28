@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-6,068 songs - 13 day 7 hr 8 min
+6,071 songs - 13 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1672,6 +1672,7 @@
 | [Encadenados](https://open.spotify.com/track/3aPnkdiW439cSW0NrqqYaj) | [Maikcel](https://open.spotify.com/artist/7ztqGuOjym3CJ0pYlFHLaK), [Atta Babilans](https://open.spotify.com/artist/2hadRbeW6K4ijqoDIIKKos) | [Encadenados](https://open.spotify.com/album/4AqjzVTM9wPUfAGe2j2DSg) | 3:02 | 2022-08-26 | 2022-09-10 |
 | [Encas](https://open.spotify.com/track/7aeQEahIMIb7fhu0E23KBc) | [Ouss Wayne](https://open.spotify.com/artist/1ryPZmq4dEy3efIH0Fv7cV) | [Encas](https://open.spotify.com/album/42OE4g8Z8tSpFDQw7d9LGP) | 3:06 | 2024-07-12 | 2024-07-27 |
 | [Encrucijada](https://open.spotify.com/track/3MXTKZwrprNX41kNc8WmRp) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x) | [Encrucijada](https://open.spotify.com/album/6PGLD12DUPs8fRESapOVCX) | 3:39 | 2023-04-21 | 2023-05-13 |
+| [End of Myself](https://open.spotify.com/track/1W6S93RSllWVmIWqxvBzyK) | [Dew](https://open.spotify.com/artist/0GPymBah0o8KwaPCJcqNXy) | [Now That I've Got Your Attention](https://open.spotify.com/album/5H2KlFbEV4FghumwplejHl) | 2:59 | 2026-07-27 |  |
 | [End Of The World](https://open.spotify.com/track/2DZmu9e87kWQOsn2QukVKM) | [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [SEAMS.](https://open.spotify.com/album/7nH0y4NPxC4EX8ZHFfjxwN) | 3:19 | 2024-06-14 | 2024-07-06 |
 | [End of Time](https://open.spotify.com/track/4JvKI3xxGxjemkhkEydnHs) | [Tizzy](https://open.spotify.com/artist/5dNJd5adjqccYseJtv8wZ9) | [End of Time](https://open.spotify.com/album/0ZluEbIQoF96uSdTodxB69) | 1:43 | 2024-05-31 | 2024-06-22 |
 | [End of You](https://open.spotify.com/track/0H93ysLhIX9JpJ9CVnRoka) | [NICOLOSI](https://open.spotify.com/artist/7fexYDMRWxJ25mYGdblXWW) | [End of You](https://open.spotify.com/album/2QAc72i2Jtb3GEVJyBet2o) | 2:55 | 2024-07-19 | 2024-08-24 |
@@ -2939,6 +2940,7 @@
 | [Lamento Borincano](https://open.spotify.com/track/1Io636rNwAdYV1IKw2ptMN) | [Barbie Williams](https://open.spotify.com/artist/56v6nmscLs2EGMSvg3JrQI) | [Lamento Borincano](https://open.spotify.com/album/05tCQIJxPGIjNdYcBsttD1) | 3:46 | 2024-04-12 | 2024-04-27 |
 | [Lamento colombiano](https://open.spotify.com/track/1NzZbQHnqmRZUoH4GtKn6o) | [AL\-BLANCO](https://open.spotify.com/artist/48l6q9lka8lOrmHjXZBCEJ), [EL PELI](https://open.spotify.com/artist/5Hul7b8J8NUh7W8QuOfPNx) | [Lamento colombiano](https://open.spotify.com/album/6tFrh6cPmWcd168gtd4Rv9) | 3:05 | 2024-07-19 | 2024-08-03 |
 | [Landed in Zurich](https://open.spotify.com/track/1uFZTrAPNed90Ehc3ycDaS) | [Keanu](https://open.spotify.com/artist/2DLHZ28eAcr6zDVYqlujDq), [Niels](https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg) | [Landed in Zurich](https://open.spotify.com/album/6iQiTPag4kPTmgqNLs8QEa) | 2:28 | 2024-06-14 | 2024-07-06 |
+| [Landmine](https://open.spotify.com/track/5fsjMF7ixd4H85uSnEsvDH) | [Shikaari](https://open.spotify.com/artist/5DGaWIko5aIbDdAPGJjEoz), [Rxmbo](https://open.spotify.com/artist/6VwPTd4ychTXAvO1bDJyuz) | [Landmine](https://open.spotify.com/album/0HD07D0x6QMvnjNz6JEJkw) | 1:40 | 2026-07-27 |  |
 | [Landslide](https://open.spotify.com/track/4WTM2J18q8o1qn7XcjViKg) | [Pink Skies](https://open.spotify.com/artist/52hSI2C4N5tiTqSRIvWfyV) | [Landslide](https://open.spotify.com/album/3miDgg3VZm0rbTUIDO2WLA) | 3:26 | 2022-01-20 | 2022-02-26 |
 | [Langelihle \(Beautiful Day\)](https://open.spotify.com/track/4LblGEFA3LlNAqkNS5ZwLi) | [Lungi Naidoo](https://open.spotify.com/artist/66qfrvIX87ukAaAgxE5inz) | [Langelihle \(Beautiful Day\)](https://open.spotify.com/album/3SzEKzbAwPpZRx2uEAigsX) | 3:30 | 2024-08-02 | 2024-08-31 |
 | [Laraaji](https://open.spotify.com/track/16FAYkEsOXF3RXJWhkSrx0) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Mercy](https://open.spotify.com/album/71RjBvPDD4U19ZeMermdUi) | 2:23 | 2025-11-07 | 2025-11-15 |
@@ -3021,6 +3023,7 @@
 | [Levitation](https://open.spotify.com/track/1TM0vpC47eMDn36JcS9T2e) | [I Me Mine](https://open.spotify.com/artist/49Aanvac9LY0no4ysTsYvw) | [SUSPENSION \(Ellipsis Outtakes\)](https://open.spotify.com/album/2Qh0s85rIYaKKGQHHx3MNk) | 3:26 | 2023-06-30 | 2023-07-22 |
 | [Ley de Gravedad](https://open.spotify.com/track/32ujKFS2r4BtH5kd6MAg0Z) | [Café Pa' Dos](https://open.spotify.com/artist/0rq6f3yQuHT5GQO35iXUVQ) | [Ley de Gravedad](https://open.spotify.com/album/2bE4Ba9kXEwZihvMfclsAN) | 4:33 | 2022-04-22 | 2022-04-29 |
 | [LIAR](https://open.spotify.com/track/7AdSqDJ0cEciEAGs3Tnnvn) | [Conor Matthews](https://open.spotify.com/artist/5iWU68xnsNiacwbt1fYEcq) | [LIAR](https://open.spotify.com/album/6Yd4B2RFsR4TTB3rgAgi3o) | 2:33 | 2025-06-13 | 2025-08-09 |
+| [Liar](https://open.spotify.com/track/4DfUCIIJWvjy9wis24J15P) | [MNIB](https://open.spotify.com/artist/5lKWiFsG07JzfOqEDUizem), [Rolyat](https://open.spotify.com/artist/3bEqD45Unz3Eo3hv5FsBVs) | [Liar](https://open.spotify.com/album/1xIQuCKk562KFDPuGAzfgi) | 3:04 | 2026-07-27 |  |
 | [Liar in Love](https://open.spotify.com/track/06lMWuKmn6pMp3rUiR3T3h) | [Orla Rae](https://open.spotify.com/artist/0AUDHx1z026BGD4s4uASxt) | [Liar in Love](https://open.spotify.com/album/7y2wroHTbDqhrG7848YNdx) | 4:13 | 2025-03-21 | 2025-04-19 |
 | [Libra](https://open.spotify.com/track/6j2Dch1FCPDINjSkGeXZ3D) | [Madz](https://open.spotify.com/artist/1IZVVvEW6khAj8YbA1BMzS) | [Libra](https://open.spotify.com/album/7s36Pa8KvQXIhn8IS7pogG) | 2:59 | 2022-08-26 | 2022-09-17 |
 | [Libre y en Movimiento](https://open.spotify.com/track/36wsAx4PhbhVOCay8RLADO) | [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Libre y en Movimiento](https://open.spotify.com/album/7xlWizan3Ft3hemqXUTvU0) | 3:03 | 2023-04-14 | 2023-04-29 |

@@ -782,7 +782,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 193000,
       "name": "Atmos",
       "url": "https://open.spotify.com/track/1bjz9qoRONw86dmlcPZD9f"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 188000,
       "name": "Baby Flower",
       "url": "https://open.spotify.com/track/1ET5lou3teBMA3a5cYeYzN"
@@ -1811,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "BODY WAVE",
+        "url": "https://open.spotify.com/album/0dyTUphUR3fYciR6Br4KNs"
+      },
+      "artists": [
+        {
+          "name": "BBGIRLS",
+          "url": "https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "BODY WAVE",
+      "url": "https://open.spotify.com/track/6b4pAgNdvX3oB8JU8cfUck"
+    },
+    {
+      "album": {
         "name": "2ND FULL ALBUM 'REBOOT'",
         "url": "https://open.spotify.com/album/4gQx8IC4zESV506dgNs0vR"
       },
@@ -2692,6 +2710,24 @@
       "duration_ms": 182670,
       "name": "Chasing That Feeling",
       "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
+    },
+    {
+      "album": {
+        "name": "CHAT",
+        "url": "https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0"
+      },
+      "artists": [
+        {
+          "name": "GIRLSET",
+          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171958,
+      "name": "CHAT",
+      "url": "https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz"
     },
     {
       "album": {
@@ -5224,6 +5260,24 @@
       "duration_ms": 202533,
       "name": "FOREVER 1",
       "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
+    },
+    {
+      "album": {
+        "name": "Forever July",
+        "url": "https://open.spotify.com/album/09ezJN3vs0L0G7hpJmBeZl"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Forever July",
+      "url": "https://open.spotify.com/track/1f60HJakuqEkfqLijRZkt0"
     },
     {
       "album": {
@@ -8926,6 +8980,24 @@
       "duration_ms": 177186,
       "name": "LOVE DIVE",
       "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+    },
+    {
+      "album": {
+        "name": "Love Got Me Ooh",
+        "url": "https://open.spotify.com/album/1EmfhyS1btZFBq3RbxUn9b"
+      },
+      "artists": [
+        {
+          "name": "A2O MAY",
+          "url": "https://open.spotify.com/artist/6MHvscbuui67TvYTr3ZpV4"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Love Got Me Ooh",
+      "url": "https://open.spotify.com/track/3oiikhWraUTZVfGBF0OtFx"
     },
     {
       "album": {
@@ -12749,6 +12821,24 @@
     },
     {
       "album": {
+        "name": "YOUNGEST",
+        "url": "https://open.spotify.com/album/6CEAKGPPKCVDnpSZ0VEhi1"
+      },
+      "artists": [
+        {
+          "name": "Young K",
+          "url": "https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171853,
+      "name": "Shut The Door",
+      "url": "https://open.spotify.com/track/0EbfMfuMAPyFtv07DrRauE"
+    },
+    {
+      "album": {
         "name": "The 1st full album [BLISS]",
         "url": "https://open.spotify.com/album/6Ez3OGFT3yV9zRkKEs2S6d"
       },
@@ -15022,7 +15112,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 122986,
       "name": "TNT",
       "url": "https://open.spotify.com/track/7diH1qnFziArYzynk3vkr6"

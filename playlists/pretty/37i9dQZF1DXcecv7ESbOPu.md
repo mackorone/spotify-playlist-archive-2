@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Charli xcx,  LOAM och Sunnan med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,105 likes - 73 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,093 likes - 73 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 60 | [Avalon](https://open.spotify.com/track/0GDnXgjHqkOdpxDByNIgSL) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Avalon](https://open.spotify.com/album/01ck5xnTJqgV3o8EhTsSLW) | 4:31 |
 | 61 | [Brother Från En Annan Mother](https://open.spotify.com/track/6z3qn9qxO6I4rjMQTzmvPC) | [Ronny & Ragge](https://open.spotify.com/artist/5pyF7nerLdGc4ZV3U72tdQ) | [Pökalicious](https://open.spotify.com/album/2hxmTqqD9eJnBRBQuPMBSI) | 4:05 |
 | 62 | [Best Days](https://open.spotify.com/track/09RFYn5eMvQZ43FcdD8O39) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Best Days](https://open.spotify.com/album/1MMpRJDmELFQAwO3sSKDbv) | 3:31 |
-| 63 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:27 |
+| 63 | [PAPI OF PHONK](https://open.spotify.com/track/03QAp4XVKUUv91MBAoXHSG) | [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ), [TXURK](https://open.spotify.com/artist/6ASJmK4JG3MVEZpalMsMVc) | [PAPI OF PHONK](https://open.spotify.com/album/0QTsczP4b1U7P6O7UlGtOX) | 1:00 |
 | 64 | [World Away](https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [World Away](https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx) | 3:07 |
 | 65 | [OH NO!! ALL THE BOYS!!](https://open.spotify.com/track/1t11AUjoBZNOALrDXCpvJa) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [OH NO!! ALL THE BOYS!!](https://open.spotify.com/album/1CcvgioY3omIjudg8ggWvF) | 3:10 |
 | 66 | [BAG](https://open.spotify.com/track/3LTtOFT7o993MdONiq0cTm) | [REZ](https://open.spotify.com/artist/696zQFO96oCTBWlLqXuqQ0), [THEE](https://open.spotify.com/artist/2l5RJ2uCGYPKkfRzNVAlov) | [BAG](https://open.spotify.com/album/0WvlFS2Rz8xxgbYwXrPZ1U) | 2:01 |

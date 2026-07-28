@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1474729,
+  "num_followers": 1474699,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
+        "name": "Meus Caros Amigos",
+        "url": "https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "O Que Ser\u00e1 (A Flor Da Terra)",
+      "url": "https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
         "name": "Rosa Morena",
         "url": "https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq"
       },
@@ -1287,26 +1307,6 @@
       "duration_ms": 173586,
       "name": "Depois",
       "url": "https://open.spotify.com/track/6nMFcVqjimSo5mj7Btfkym"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
-        "name": "Meus Caros Amigos",
-        "url": "https://open.spotify.com/album/7e7MmJSUmMt9fQ7f9BHD6s"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        }
-      ],
-      "duration_ms": 166573,
-      "name": "O Que Ser\u00e1 (A Flor Da Terra)",
-      "url": "https://open.spotify.com/track/5bHaPfY8vAnCeHDObKCYT4"
     },
     {
       "added_at": "2026-05-22 11:20:59",

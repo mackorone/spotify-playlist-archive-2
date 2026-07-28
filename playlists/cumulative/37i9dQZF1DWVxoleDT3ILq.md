@@ -4,7 +4,7 @@
 
 > Niños Del Cerro en portada.
 
-587 songs - 1 day 11 hr 18 min
+590 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [No Somos](https://open.spotify.com/track/1tfY7N4vOPKTX4zNWXgGxY) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov), [Chini.png](https://open.spotify.com/artist/2rV1GKAvHpXO40w4lLhplz) | [No Somos](https://open.spotify.com/album/5nVtq8um3R7pjoMO7euLu7) | 3:21 | 2022-04-15 | 2022-07-28 |
 | [No Tendré Poder \(Pero Tengo Energía\)](https://open.spotify.com/track/0D29Bz4VRQNPygyIVBlf8f) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [No Tendré Poder \(Pero Tengo Energía\)](https://open.spotify.com/album/3MvdAyZT7mGMrPFi9OgD2y) | 3:13 | 2022-08-26 | 2023-10-28 |
 | [no, gracias](https://open.spotify.com/track/4yMdNHASrVIrfyzvcnaT2I) | [elmalamía](https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM) | [lo que me queda](https://open.spotify.com/album/73QipU676KiGVghsD9nyMO) | 3:16 | 2024-10-14 | 2024-12-07 |
+| [Noche Estrellada](https://open.spotify.com/track/50MsmVsoFSoCJXlM159mtB) | [Columpios Al Suelo](https://open.spotify.com/artist/3F0CSoPGpHfiKtyEdKOOrQ) | [Noche Estrellada](https://open.spotify.com/album/6SZYnlj8DUMeKNZ49Rrfho) | 8:33 | 2026-07-27 |  |
 | [Nochecita en B.A](https://open.spotify.com/track/2AHOVEc4QaYvSx6t5vLqvf) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Nochecita en B.A](https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc) | 2:34 | 2023-09-22 | 2024-06-08 |
 | [Noches Perdidas](https://open.spotify.com/track/6v7yCYhjRSZjyLjO9yjEJI) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Noches Perdidas](https://open.spotify.com/album/2sGMCd4mkocvnD1DwlbWCR) | 3:08 | 2022-08-05 | 2023-01-28 |
 | [nopidomucho \(feat Francisco Victoria\)](https://open.spotify.com/track/32iqQUezUp37J8bjUY5SFm) | [elmalamía](https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM), [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [nopidomucho \(feat\. Francisco Victoria\)](https://open.spotify.com/album/7sfenIXF6Q5TTEDXnBae2q) | 3:07 | 2022-04-15 | 2022-12-10 |
@@ -424,6 +425,7 @@
 | [Provenza](https://open.spotify.com/track/74EyCgYnEH3ARfgpLh0Cdq) | [Glup!](https://open.spotify.com/artist/6BrWnoM0y0Viv3DVEcT8GE) | [Provenza](https://open.spotify.com/album/67ihyeAL1wwakz5tBP2rLo) | 3:49 | 2022-12-09 | 2023-02-25 |
 | [Provincia](https://open.spotify.com/track/582VsBLMS0DkFoyf62jofJ) | [Nico Carreño](https://open.spotify.com/artist/1r5S8uRE70Zeacs0wSIIjl) | [Provincia](https://open.spotify.com/album/3e7zM7BE3POOfq1lGY7OL9) | 4:51 | 2023-09-29 | 2023-10-13 |
 | [PYXIS](https://open.spotify.com/track/5UNhpgdMW62Il2hH4Roy2I) | [Planetario](https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga), [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [PYXIS](https://open.spotify.com/album/2QcWzzvS6nxIpAcn7Pb2NM) | 4:07 | 2024-04-26 | 2026-07-25 |
+| [pájaro herido](https://open.spotify.com/track/1n6xXtyn1CqRV8maiR7fYC) | [Alexia Naomi](https://open.spotify.com/artist/6f9J2VhTUt61qMX87UtIqn) | [pájaro herido](https://open.spotify.com/album/7IDDCbPSP7150P5eS2Mpb3) | 4:10 | 2026-07-27 |  |
 | [pétalos](https://open.spotify.com/track/3GGyzRplHTFujmGYnbGm48) | [Yaima Cat](https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI), [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU) | [pétalos](https://open.spotify.com/album/1z0XIoA6KwsJo7zPoopLqI) | 3:30 | 2024-01-12 | 2024-04-04 |
 | [Que no se corte la cadena](https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Que no se corte la cadena](https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu) | 2:36 | 2023-04-21 | 2024-05-18 |
 | [Que Nunca Pare](https://open.spotify.com/track/2NxkEcNyNzRJHFDexivH7E) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Que Nunca Pare](https://open.spotify.com/album/3u793IkGzcD8JhdcIyvL6v) | 3:24 | 2023-11-10 | 2026-07-25 |
@@ -535,6 +537,7 @@
 | [Tu Olor](https://open.spotify.com/track/3cNzf5t9uQbLIwfWEOfpTF) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Tu Olor](https://open.spotify.com/album/0zUXB3xuiKMQRlY8xHyyH3) | 3:06 | 2023-06-02 | 2024-06-08 |
 | [Tu Pirata Soy Yo](https://open.spotify.com/track/6O1o9VfjMgZEZeir5Ws6pF) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Tu Pirata Soy Yo](https://open.spotify.com/album/3CK1MWQvuf8LVJWhmldkUU) | 2:47 | 2022-04-15 | 2022-12-10 |
 | [tu voz en mis audífonos](https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [tu voz en mis audífonos](https://open.spotify.com/album/6rHOYthUpZN3ZaHnwqNgQS) | 3:13 | 2022-04-15 | 2024-06-08 |
+| [Tu y Yo en la Nube](https://open.spotify.com/track/2Svldl4pB0S7F3JBaRTYMz) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe) | [Tu y Yo en la Nube](https://open.spotify.com/album/6s2M3TddAm5MxYZvOcybnH) | 2:56 | 2026-07-27 |  |
 | [Tur Blues](https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Tur Blues](https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg) | 3:33 | 2022-04-29 | 2025-05-31 |
 | [Turista](https://open.spotify.com/track/0RWzD9ilb1cKJaEOXo2jTZ) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Turista](https://open.spotify.com/album/1FlOBZrwiGCjsrb0KXVaPj) | 3:33 | 2022-04-15 | 2022-08-13 |
 | [Tus Nombres](https://open.spotify.com/track/1K4LO0GcZuJxh9fc7P2C2g) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Tus Nombres](https://open.spotify.com/album/2SAIUBhSifmEWXNLtlfsaS) | 3:20 | 2022-04-15 | 2022-12-10 |

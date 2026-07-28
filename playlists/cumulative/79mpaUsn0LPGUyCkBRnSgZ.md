@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,186 songs - 3 day 4 hr 37 min
+1,187 songs - 3 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [BLACK OPPS](https://open.spotify.com/track/3YnYMjDHxPs5WsKjGJwZEE) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [LOWER](https://open.spotify.com/album/01UBvt33eTksshPiwljpBn) | 3:48 | 2025-01-29 | 2025-02-03 |
 | [Black Rum](https://open.spotify.com/track/5sX8XyI1pdReiCbSpOjCaf) | [Cake Pop](https://open.spotify.com/artist/4MpQ6BLMo0fDNTZhY7ohRJ), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC), [Lewis Grant](https://open.spotify.com/artist/5hn4bbaAkdXOwk8160xTpj) | [Cake Pop 2](https://open.spotify.com/album/03hIzrguBWOYV7Osb3FGU8) | 2:26 | 2024-01-03 | 2024-02-12 |
 | [Black Sand](https://open.spotify.com/track/4kEKiGbQ0wCVhEwE3GkeRe) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Acid Tongue](https://open.spotify.com/album/7qri8zA09EXNsQU7eBgCae) | 2:53 | 2023-12-13 |  |
-| [Blackberry Marmalade](https://open.spotify.com/track/2QOTLNlbpsTJq074uw3yLY) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Cry Baby](https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs) | 3:52 | 2026-06-12 |  |
+| [Blackberry Marmalade](https://open.spotify.com/track/2QOTLNlbpsTJq074uw3yLY) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Cry Baby](https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs) | 3:52 | 2026-06-12 | 2026-07-28 |
 | [Blackstrap](https://open.spotify.com/track/0uPk8BMGZIRNzrsFER80l8) | [The Besnard Lakes](https://open.spotify.com/artist/2hMif9QK1Knz7gD5XIUsER) | [The Besnard Lakes Are The Last Of The Great Thunderstom Warnings](https://open.spotify.com/album/5rGiRjTQSLOEpwLuvoepg7) | 6:35 | 2022-09-13 |  |
 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 | 2023-04-07 | 2023-04-19 |
 | [Blue](https://open.spotify.com/track/6lp6YWBzpPj1oaGZiTD5x2) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP) | [Miles](https://open.spotify.com/album/7J3XAN9vV4smAoiz1TQwHB) | 2:18 | 2022-01-13 |  |
@@ -633,6 +633,7 @@
 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 | 2024-01-23 | 2024-10-24 |
 | [Mahashmashana](https://open.spotify.com/track/1wSzyIk6YisAMGtvbDEsuU) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Mahashmashana](https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw) | 9:19 | 2024-11-22 | 2024-11-28 |
 | [Main Titles](https://open.spotify.com/track/5TTPUpjBOycZtQYyxjOshu) | [Wes Borland](https://open.spotify.com/artist/3Uzo5Y5sjGlwxNjfZDtGLF) | [Crystal Machete](https://open.spotify.com/album/6RrfC1hxrS4ANiOQPTtCs3) | 6:29 | 2024-01-18 |  |
+| [Malka Moma](https://open.spotify.com/track/2ZPzIZGqhm613bqOj3evQv) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Heavenly Body: If I'm The Bottle You’re The Message](https://open.spotify.com/album/6NjXeIwjKdVEkJHvom1m3x) | 3:14 | 2026-07-27 |  |
 | [Manhattan](https://open.spotify.com/track/0dYTYyBD0j1neoklCctt1s) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Winterreise](https://open.spotify.com/album/23tjIW6fzlYMWfc55QHSAs) | 7:26 | 2024-03-25 | 2024-06-10 |
 | [Manifesto](https://open.spotify.com/track/5i2859ZJXGPOzDwdZSOMiH) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Manifesto](https://open.spotify.com/album/1LDD2nUQ17tm1WMchsevtp) | 5:29 | 2026-04-17 |  |
 | [Manning Fireworks](https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Manning Fireworks](https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN) | 2:59 | 2024-09-09 | 2025-01-04 |

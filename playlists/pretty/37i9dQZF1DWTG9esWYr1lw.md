@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 
 > Celebrate Ramadan with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,591 likes - 39 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,599 likes - 39 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG9esWYr1lw.md) - [plain]
 | 35 | [Ramadan](https://open.spotify.com/track/5wxOXYEcn0AZVvsHNH1OhM) | [Najwa Farouk](https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq) | [Ramadan](https://open.spotify.com/album/1bb3zUun6pqrtGwM738su4) | 3:27 |
 | 36 | [Sebhet Ramadan](https://open.spotify.com/track/6jDdzsOWs4wreunHUnzGQe) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 4:40 |
 | 37 | [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 |
-| 38 | [Ahlan Ya Ramadan](https://open.spotify.com/track/7zjP56QAqew2Vq1KUlGKiN) | [Mukhlish Latasi](https://open.spotify.com/artist/5grH33zcwCaBwl08deU8tQ) | [Ahlan Ya Ramadan](https://open.spotify.com/album/3MQd4hzxBDcLgTb8ZlRKa4) | 3:31 |
-| 39 | [Ramadan Kareem](https://open.spotify.com/track/3nuHLgsBAfputkBxMzYNqa) | [Safia Ali](https://open.spotify.com/artist/2hbUUCwOHSSjEws8gNhN7N) | [Ramadan Kareem](https://open.spotify.com/album/6rZi9DL9UMx6IkgFvwvKA6) | 2:59 |
+| 38 | [Ramadan Kareem](https://open.spotify.com/track/3nuHLgsBAfputkBxMzYNqa) | [Safia Ali](https://open.spotify.com/artist/2hbUUCwOHSSjEws8gNhN7N) | [Ramadan Kareem](https://open.spotify.com/album/6rZi9DL9UMx6IkgFvwvKA6) | 2:59 |
+| 39 | [Ahlan Ya Ramadan](https://open.spotify.com/track/7zjP56QAqew2Vq1KUlGKiN) | [Mukhlish Latasi](https://open.spotify.com/artist/5grH33zcwCaBwl08deU8tQ) | [Ahlan Ya Ramadan](https://open.spotify.com/album/3MQd4hzxBDcLgTb8ZlRKa4) | 3:31 |
 
 Snapshot ID: `AAAAAO95ztByRl1ImAZt8pIhsnhwB+j2`

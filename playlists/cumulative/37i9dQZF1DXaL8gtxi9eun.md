@@ -4,7 +4,7 @@
 
 > كل ما هو جديد في عالم البوب المصري\. الغلاف: محمد شاهين وحوده
 
-499 songs - 1 day 5 hr 39 min
+500 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Law Hatsib](https://open.spotify.com/track/7h7FKF2JBDa6xChi3z9KxC) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2022-07-14 | 2023-05-18 |
 | [Law Tseeb Haseeb](https://open.spotify.com/track/7jFS9fKFHqgEGlrz7YUDNv) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Law Tseeb Haseeb](https://open.spotify.com/album/0rTXCEzys2Opo7pQ6R1xux) | 2:59 | 2026-07-06 |  |
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2022-10-24 | 2022-12-27 |
+| [Leebat Al Ayam](https://open.spotify.com/track/2xpUFDmcokjBEx8zWDPJv8) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Leebat Al Ayam](https://open.spotify.com/album/32HaLHT6mqvleKQv8LrWYG) | 4:09 | 2026-07-27 |  |
 | [Leh](https://open.spotify.com/track/0188UV5nlwUYejX3HKhphw) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [Leh](https://open.spotify.com/album/2Uf6xHsAZVMKqie8koQSfC) | 3:59 | 2022-05-04 | 2022-07-15 |
 | [Lem Ashamak](https://open.spotify.com/track/0dvjvNU9disvGnOFlZ3pMF) | [Soma](https://open.spotify.com/artist/4lVEjRrFtykgXkHL1YFEZN) | [Lem Ashamak](https://open.spotify.com/album/28zYSQHpPeUnvE0OJxHZVt) | 4:04 | 2024-07-29 | 2024-12-12 |
 | [Lessa El Kalam Zaalan](https://open.spotify.com/track/399Q2o51ye2iv9X8ZYK9ur) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Lessa El Kalam Zaalan](https://open.spotify.com/album/6wDgTjqUMDomxXqifhSUGT) | 4:35 | 2022-05-04 | 2023-05-18 |
@@ -289,7 +290,7 @@
 | [Tamer Hosny Haytna](https://open.spotify.com/track/05DURibuW9rLPy7Ix8ahuA) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Tamer Hosny Haytna](https://open.spotify.com/album/3expu7zhDu0OcrDgwKEm4v) | 4:51 | 2022-09-26 | 2022-10-21 |
 | [TARQEES](https://open.spotify.com/track/36Yh3W7CVaM6ccGntNTDO2) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [TARQEES](https://open.spotify.com/album/2oiSur6voqu9Tpr8wnToYj) | 3:05 | 2025-05-15 | 2026-04-16 |
 | [Tawel Balak](https://open.spotify.com/track/3JfEyytMu9XuUf8NdVwPMG) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Awal Kelmi](https://open.spotify.com/album/2TdxqR34fvEuXo6gnLzrvr) | 2:52 | 2023-09-08 | 2024-02-10 |
-| [Tayeh Fel Amaken](https://open.spotify.com/track/3DWEmKglQcWrxnABIUd36d) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Tayeh Fel Amaken](https://open.spotify.com/album/3jagFWx4p0C3rav6lkHZ32) | 3:49 | 2026-04-22 |  |
+| [Tayeh Fel Amaken](https://open.spotify.com/track/3DWEmKglQcWrxnABIUd36d) | [Nabil](https://open.spotify.com/artist/4Rl8onVZp4QFiYARW298WD) | [Tayeh Fel Amaken](https://open.spotify.com/album/3jagFWx4p0C3rav6lkHZ32) | 3:49 | 2026-04-22 | 2026-07-28 |
 | [Tearaf Bahebak Leh](https://open.spotify.com/track/4J91ULN1DJ1FHPRD1G4FYN) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Tearaf Bahebak Leh](https://open.spotify.com/album/1ioz7toy8ZetQuqIH8cT1j) | 2:45 | 2022-05-04 | 2022-07-13 |
 | [Tegy Nenbeset](https://open.spotify.com/track/2olgmxnrsz48q2lodyL9YI) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Tegy Nenbeset](https://open.spotify.com/album/4Y0PokkjwBKB44WxXwK8I2) | 3:18 | 2023-08-11 | 2024-02-07 |
 | [Tegy Ntrahn](https://open.spotify.com/track/2NF0gMDLnJSaqIfj0SvrDi) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:00 | 2022-07-14 | 2023-05-31 |

@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: F3miii
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,265 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,324 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Swell](https://open.spotify.com/track/6QUuLk63S1azIQbmDEvpfS) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Swell](https://open.spotify.com/album/5B3s2wHvYBUrZIzo5J5C8y) | 3:27 |
 | 2 | [NOBLE](https://open.spotify.com/track/36jgline0lR83kGP9YFXcE) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/7kSO56we07fodbcyHOSCps) | 3:05 |
 | 3 | [Invisible](https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj) | [Invisible](https://open.spotify.com/album/0y63Qrt20QcFwxq3M7B7SK) | 3:16 |
-| 4 | [Comes and Goes](https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Comes and Goes](https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs) | 4:22 |
-| 5 | [The Sun Will Never Settle](https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Sun Will Never Settle](https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH) | 2:28 |
-| 6 | [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 |
+| 4 | [Hanging Out To Dry](https://open.spotify.com/track/1GZ5KqHOdkU0cZoz1JfQo8) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Spring Forward](https://open.spotify.com/album/61NGKj9SdXHHxDWU8ZsnaS) | 3:32 |
+| 5 | [Comes and Goes](https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Comes and Goes](https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs) | 4:22 |
+| 6 | [The Sun Will Never Settle](https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Sun Will Never Settle](https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH) | 2:28 |
 | 7 | [FENIAN](https://open.spotify.com/track/6ge8SJfGh8Z2EfhGn4lIba) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [FENIAN](https://open.spotify.com/album/0z5uyAUrflFAnjBR2EhW9J) | 3:14 |
 | 8 | [day's end](https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [day's end](https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam) | 3:01 |
 | 9 | [Look Into My Eyes](https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Look Into My Eyes](https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9) | 2:56 |
 | 10 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
 | 11 | [bobinov](https://open.spotify.com/track/6ZaSKP0IY1A3YRkJu9Cl1M) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [bobinov](https://open.spotify.com/album/5PHuY5AW0Emk7RmBuhVbQG) | 3:10 |
-| 12 | [remember my name](https://open.spotify.com/track/5xmNuWZX1YTmuqH0V8Nlw3) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [remember my name](https://open.spotify.com/album/5xylOGmCjHPVBpPpo0SpbN) | 3:41 |
-| 13 | [Easy Does It](https://open.spotify.com/track/0Vu83oUXy0mRy9PBLaAYeg) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [Easy Does It](https://open.spotify.com/album/3GFs7Ptq8dohpYJxywo8Va) | 2:56 |
-| 14 | [Choose or Lose](https://open.spotify.com/track/5jUIGwxb8jznbYXL64nIX0) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Choose or Lose](https://open.spotify.com/album/0hmDWOMPU5YSDLa0IpzUs2) | 2:57 |
+| 12 | [Dinner Party](https://open.spotify.com/track/2fiX9ZABxD0mrhI9DKZOrt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z) | 2:34 |
+| 13 | [Kick The Curb](https://open.spotify.com/track/0VjvyzMoleGvCVtGnJQI6O) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Kick The Curb](https://open.spotify.com/album/5mr4cqipb96XwX12Flio21) | 4:11 |
+| 14 | [remember my name](https://open.spotify.com/track/5xmNuWZX1YTmuqH0V8Nlw3) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [remember my name](https://open.spotify.com/album/5xylOGmCjHPVBpPpo0SpbN) | 3:41 |
 | 15 | [PROJECT X](https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [PROJECT X](https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E) | 3:48 |
-| 16 | [Dinner Party](https://open.spotify.com/track/2fiX9ZABxD0mrhI9DKZOrt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z) | 2:34 |
-| 17 | [Kick The Curb](https://open.spotify.com/track/0VjvyzMoleGvCVtGnJQI6O) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Kick The Curb](https://open.spotify.com/album/5mr4cqipb96XwX12Flio21) | 4:11 |
+| 16 | [Street Of Dreams](https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Street Of Dreams](https://open.spotify.com/album/1ivlBe4lilutfAmOoQWxxS) | 3:54 |
+| 17 | [Easy Does It](https://open.spotify.com/track/0Vu83oUXy0mRy9PBLaAYeg) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [Easy Does It](https://open.spotify.com/album/3GFs7Ptq8dohpYJxywo8Va) | 2:56 |
 | 18 | [I Swear To You](https://open.spotify.com/track/3XmsMWfd2N3plqAF3vtiSS) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [I Swear To You](https://open.spotify.com/album/6HCFqKEFsrtk40y7NYfEn4) | 2:21 |
-| 19 | [Still I Love Him](https://open.spotify.com/track/1PbuDuVr1YqxVTk3jv4LTl) | [Radie Peat](https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji) | [Still I Love Him](https://open.spotify.com/album/0ENfPSVn8uvUIytzWFwvat) | 6:16 |
-| 20 | [Street Of Dreams](https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Street Of Dreams](https://open.spotify.com/album/1ivlBe4lilutfAmOoQWxxS) | 3:54 |
+| 19 | [Choose or Lose](https://open.spotify.com/track/5jUIGwxb8jznbYXL64nIX0) | [Tomike](https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI) | [Choose or Lose](https://open.spotify.com/album/0hmDWOMPU5YSDLa0IpzUs2) | 2:57 |
+| 20 | [Still I Love Him](https://open.spotify.com/track/1PbuDuVr1YqxVTk3jv4LTl) | [Radie Peat](https://open.spotify.com/artist/2HzXwEzn6g3waLTIufC1Ji) | [Still I Love Him](https://open.spotify.com/album/0ENfPSVn8uvUIytzWFwvat) | 6:16 |
 | 21 | [So Perfect](https://open.spotify.com/track/2ghQex1XgicbaZg3t6n3Ty) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co), [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Trying: Season 5 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/0ekvgvmf5fF1h5KIFr8BzB) | 3:18 |
 | 22 | [Landlord's Demise](https://open.spotify.com/track/1hKaKw4jY8HHNhNW47xhcR) | [The Mary Wallopers](https://open.spotify.com/artist/7aLfd5azGVKmim6H38mZk2) | [Landlord's Demise](https://open.spotify.com/album/3Re8BXxsOQO2a8JeXA9FIZ) | 1:51 |
 | 23 | [ACE!](https://open.spotify.com/track/3oHrVxPWSNEHXbKcOUIaV6) | [Ahmed, With Love.](https://open.spotify.com/artist/1qYmvB1zTqFQRaRL6j2ZuK) | [ACE!](https://open.spotify.com/album/7mZ98a0PVl9RqCPrqN2UU7) | 2:34 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 100 | [Slow It Down](https://open.spotify.com/track/6wNsQL63SDzUv3AWjiBL0c) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Slow It Down / She Don't Wanna Go Tape](https://open.spotify.com/album/6Rf7Cqeih99GsskCOn9oEl) | 1:38 |
 | 101 | [I Like You](https://open.spotify.com/track/1F3M1n8k9AzmqqPiJVyZju) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [I Like You](https://open.spotify.com/album/50sVHuzirT8bCwAqYJnmSJ) | 4:14 |
 
-Snapshot ID: `AAAAAMZ4TFfyg5XxEHXSfcuBTPLL75SF`
+Snapshot ID: `AAAAAP/KVosi4XCVgSPTfYLYZGAxY2ZC`

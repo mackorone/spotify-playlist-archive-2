@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari JENNIE, Charli xcx , Tyla, Daun Jatuh, The Jansen dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,890 likes - 102 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,883 likes - 102 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 88 | [WET](https://open.spotify.com/track/0TWdf9wemg4DUzOTErf5Vo) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | [WET](https://open.spotify.com/album/7ecEhFaBthDmI7z72KDoTf) | 2:39 |
 | 89 | [Hollow](https://open.spotify.com/track/3ywfR2tUoo1We4dgnVXEmz) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Hollow](https://open.spotify.com/album/0RdAutXGrAeWaEGBlr9hEn) | 3:34 |
 | 90 | [bathroom stalls](https://open.spotify.com/track/2dwUj2I1aek40MbhJgYz3v) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [bathroom stalls](https://open.spotify.com/album/4muZo3emWSPEYxEV0QHrXt) | 3:21 |
-| 91 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:19 |
+| 91 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:16 |
 | 92 | [B2B](https://open.spotify.com/track/2TalsuBazv4JesNUWj1QTh) | [EFI](https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw) | [B2B](https://open.spotify.com/album/2EwLT20LcBAALdkeciGW9P) | 2:20 |
 | 93 | [understand](https://open.spotify.com/track/0RGgyo8YDsoVQv3RENA5HJ) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [understand](https://open.spotify.com/album/4ybAYL1PTArEn9ATXzCTYt) | 3:45 |
 | 94 | [143](https://open.spotify.com/track/5tkyPx7aCQ9f7N0Y0qmz2v) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [143](https://open.spotify.com/album/6J636qRw7XgBSXvlCk0q6D) | 2:15 |

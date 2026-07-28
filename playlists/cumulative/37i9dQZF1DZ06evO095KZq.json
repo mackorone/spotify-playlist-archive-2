@@ -605,6 +605,28 @@
     },
     {
       "album": {
+        "name": "El De Las Artilladas",
+        "url": "https://open.spotify.com/album/2nBQ9GQcml324VeeguWl4P"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257956,
+      "name": "El De Las Artilladas",
+      "url": "https://open.spotify.com/track/2XD79HazZ2iYDcuF2bYLSw"
+    },
+    {
+      "album": {
         "name": "El Exitoso",
         "url": "https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh"
       },
@@ -1458,7 +1480,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 167470,
       "name": "Los Cuervos",
       "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"

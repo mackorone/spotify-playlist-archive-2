@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: THE DO",
-  "num_followers": 86264,
+  "num_followers": 86323,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,22 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "When the lights turn on",
-        "url": "https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi"
+        "name": "CONTACTO CONTACTO",
+        "url": "https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9"
       },
       "artists": [
         {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
         }
       ],
-      "duration_ms": 209267,
-      "name": "Your favorite flowers",
-      "url": "https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux"
+      "duration_ms": 117300,
+      "name": "CONTACTO CONTACTO",
+      "url": "https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -171,6 +175,22 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
+        "name": "When the lights turn on",
+        "url": "https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "duration_ms": 209267,
+      "name": "Your favorite flowers",
+      "url": "https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
         "name": "Wishing Stone",
         "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
       },
@@ -183,26 +203,6 @@
       "duration_ms": 228395,
       "name": "Wishing Stone",
       "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
-        "name": "CONTACTO CONTACTO",
-        "url": "https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9"
-      },
-      "artists": [
-        {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
-        }
-      ],
-      "duration_ms": 117300,
-      "name": "CONTACTO CONTACTO",
-      "url": "https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Al\u0131\u015ft\u0131m",
-        "url": "https://open.spotify.com/album/7LrRZONcEPYPRDvwLC1U8M"
-      },
-      "artists": [
-        {
-          "name": "\u00fc\u00e7kuru\u015f",
-          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Al\u0131\u015ft\u0131m",
-      "url": "https://open.spotify.com/track/3JTIs7oWHrhfJ9zmF7ALzR"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR"
       },
@@ -383,22 +367,6 @@
       "duration_ms": 176153,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
-        "name": "Something Out Of Nothing",
-        "url": "https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2"
-      },
-      "artists": [
-        {
-          "name": "Bye Parula",
-          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
-        }
-      ],
-      "duration_ms": 206338,
-      "name": "Something Out Of Nothing",
-      "url": "https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -419,18 +387,34 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "failed tailors",
-        "url": "https://open.spotify.com/album/5WtwPe85WwbgAi3z2fnv05"
+        "name": "Al\u0131\u015ft\u0131m",
+        "url": "https://open.spotify.com/album/7LrRZONcEPYPRDvwLC1U8M"
       },
       "artists": [
         {
-          "name": "MISTER TWO FIVE",
-          "url": "https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o"
+          "name": "\u00fc\u00e7kuru\u015f",
+          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
         }
       ],
-      "duration_ms": 162680,
-      "name": "failed tailors",
-      "url": "https://open.spotify.com/track/1Wo0SG49zVdZMR72F7N554"
+      "duration_ms": 177600,
+      "name": "Al\u0131\u015ft\u0131m",
+      "url": "https://open.spotify.com/track/3JTIs7oWHrhfJ9zmF7ALzR"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Something Out Of Nothing",
+        "url": "https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "duration_ms": 206338,
+      "name": "Something Out Of Nothing",
+      "url": "https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -447,6 +431,22 @@
       "duration_ms": 188181,
       "name": "Bury It",
       "url": "https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "failed tailors",
+        "url": "https://open.spotify.com/album/5WtwPe85WwbgAi3z2fnv05"
+      },
+      "artists": [
+        {
+          "name": "MISTER TWO FIVE",
+          "url": "https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o"
+        }
+      ],
+      "duration_ms": 162680,
+      "name": "failed tailors",
+      "url": "https://open.spotify.com/track/1Wo0SG49zVdZMR72F7N554"
     },
     {
       "added_at": "2026-07-24 13:00:01",

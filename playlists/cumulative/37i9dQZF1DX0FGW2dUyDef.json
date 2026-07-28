@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 163809,
       "name": "Amat\u00f6r",
       "url": "https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm"
@@ -4678,6 +4678,32 @@
       "duration_ms": 243779,
       "name": "pVg",
       "url": "https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe"
+    },
+    {
+      "album": {
+        "name": "pVg (Manifest Live Remix)",
+        "url": "https://open.spotify.com/album/1AS7ut0bE1qNWxxsCHiHpA"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        },
+        {
+          "name": "Pango",
+          "url": "https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245669,
+      "name": "pVg - Manifest Live Remix",
+      "url": "https://open.spotify.com/track/2cUZpjUvGWtVrMMEUrx1YP"
     },
     {
       "album": {

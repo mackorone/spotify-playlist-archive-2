@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > life too short love the one you got
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,100 songs - 2 day 14 hr 17 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,105 songs - 2 day 14 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1108,5 +1108,10 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1098 | [Notting Hill](https://open.spotify.com/track/0DDsSbVaPO76UdbWLe95cA) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Notting Hill](https://open.spotify.com/album/7zAYZLmTr2H1npTp0jZthc) | 3:10 |
 | 1099 | [18](https://open.spotify.com/track/2Df5ZX1R04fIp5uIyxrA8D) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland \(Bonus Track Version\)](https://open.spotify.com/album/6rLBGig7awR8nRMt0suKbv) | 3:01 |
 | 1100 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 |
+| 1101 | [Cosmic Dancer](https://open.spotify.com/track/5gOnivVq0hLxPvIPC00ZhF) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Electric Warrior](https://open.spotify.com/album/2wnq5e000z2hT7qS2F8jZ5) | 4:26 |
+| 1102 | [Jesus Was a Cross Maker](https://open.spotify.com/track/0YA6BYi1Fwv58UfX3M1z7f) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Judee Sill](https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf) | 3:29 |
+| 1103 | [Asleep and Dreaming](https://open.spotify.com/track/66Tub5XM7NDpUwE4WTICi8) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/0K5FvRzJl6iTKikI9tMdAB) | 1:53 |
+| 1104 | [Some Velvet Morning](https://open.spotify.com/track/6SEMWLEAQs90K4XSacidwM) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2), [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [Nancy & Lee](https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl) | 3:41 |
+| 1105 | [God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:54 |
 
-Snapshot ID: `AAALQ7QvhG2GlcRNSOyPTZ3oGf5IACtN`
+Snapshot ID: `AAALSPNKtl2nb6CvqmW4MAvHrDllDoWw`

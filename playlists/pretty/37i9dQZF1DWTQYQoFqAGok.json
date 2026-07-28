@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65671,
+  "num_followers": 65673,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,22 @@
       "duration_ms": 244682,
       "name": "Entrega Total",
       "url": "https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC"
+    },
+    {
+      "added_at": "2022-01-11 02:50:37",
+      "album": {
+        "name": "Con Sabor a M\u00e9xico",
+        "url": "https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6"
+      },
+      "artists": [
+        {
+          "name": "Big Band Jazz de M\u00e9xico",
+          "url": "https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c"
+        }
+      ],
+      "duration_ms": 271053,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -55,22 +71,6 @@
       "duration_ms": 260000,
       "name": "Cumbiero",
       "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
-    },
-    {
-      "added_at": "2022-01-11 02:50:37",
-      "album": {
-        "name": "Con Sabor a M\u00e9xico",
-        "url": "https://open.spotify.com/album/5z4hL561LGU1WGXyURy6V6"
-      },
-      "artists": [
-        {
-          "name": "Big Band Jazz de M\u00e9xico",
-          "url": "https://open.spotify.com/artist/4o5ePOzgsCeFTqN6Ypiu0c"
-        }
-      ],
-      "duration_ms": 271053,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -403,6 +403,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
+        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
         "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
@@ -425,20 +441,24 @@
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2022-08-09 18:38:23",
       "album": {
-        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
-        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+        "name": "Tukumtak",
+        "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
       },
       "artists": [
         {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        },
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 148786,
-      "name": "Charleston",
-      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+      "duration_ms": 182970,
+      "name": "Tukumtak",
+      "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -459,26 +479,6 @@
       "duration_ms": 217840,
       "name": "Deb\u00ed Llorar",
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
-    },
-    {
-      "added_at": "2022-08-09 18:38:23",
-      "album": {
-        "name": "Tukumtak",
-        "url": "https://open.spotify.com/album/0h4jpUdtOWrmksifqBVxf7"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        },
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 182970,
-      "name": "Tukumtak",
-      "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -635,22 +635,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "La Instituci\u00f3n Te Reclama",
-        "url": "https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ"
-      },
-      "artists": [
-        {
-          "name": "David Chanson",
-          "url": "https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK"
-        }
-      ],
-      "duration_ms": 349008,
-      "name": "Entronque",
-      "url": "https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Orquesta Moderna",
         "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 285508,
       "name": "Guapanguito",
       "url": "https://open.spotify.com/track/276aMT3jt0qKDT216Thn3c"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "La Instituci\u00f3n Te Reclama",
+        "url": "https://open.spotify.com/album/2qbZ50OI8C91YGXQ5rqSzJ"
+      },
+      "artists": [
+        {
+          "name": "David Chanson",
+          "url": "https://open.spotify.com/artist/1NYxYqauPah8OfHsrKJbaK"
+        }
+      ],
+      "duration_ms": 349008,
+      "name": "Entronque",
+      "url": "https://open.spotify.com/track/1bLIbV6gNiG9qxLNdmWVKf"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -739,6 +739,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
+      },
+      "artists": [
+        {
+          "name": "Cha/Co Project",
+          "url": "https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK"
+        }
+      ],
+      "duration_ms": 384415,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Triology",
         "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 428720,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
-      },
-      "artists": [
-        {
-          "name": "Cha/Co Project",
-          "url": "https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK"
-        }
-      ],
-      "duration_ms": 384415,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
     },
     {
       "added_at": "2023-04-13 19:45:15",
@@ -829,6 +829,30 @@
       "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Orquesta Moderna",
+        "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
+      },
+      "artists": [
+        {
+          "name": "Rosino Serrano",
+          "url": "https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ"
+        },
+        {
+          "name": "Orquesta Moderna",
+          "url": "https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob"
+        },
+        {
+          "name": "Emiliano Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1CPoOuYF5kXsOOaEySPkir"
+        }
+      ],
+      "duration_ms": 343705,
+      "name": "Caf\u00e9 con Leche",
+      "url": "https://open.spotify.com/track/45BndJTmTwLysmgTBSAGJq"
+    },
+    {
       "added_at": "2023-11-23 03:14:06",
       "album": {
         "name": "Mosquita Muerta (Versi\u00f3n Mariachi)",
@@ -843,22 +867,6 @@
       "duration_ms": 323800,
       "name": "Mosquita Muerta - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "KonFussion",
-        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
-      },
-      "artists": [
-        {
-          "name": "Lalo Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
-        }
-      ],
-      "duration_ms": 304213,
-      "name": "Nada Es Para Siempre",
-      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
     },
     {
       "added_at": "2024-08-29 03:09:23",

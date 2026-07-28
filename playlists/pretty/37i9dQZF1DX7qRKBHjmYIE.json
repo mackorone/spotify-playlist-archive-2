@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Cultura Prof\u00e9tica.",
-  "num_followers": 741548,
+  "num_followers": 741490,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "T O M A !",
-        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "T O M A !",
-      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "Morfina",
         "url": "https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 350919,
       "name": "Morfina",
       "url": "https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "T O M A !",
+        "url": "https://open.spotify.com/album/1YSjnTrxtytIj4OHDXzaWI"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "T O M A !",
+      "url": "https://open.spotify.com/track/7IodjW5qSbvOpeIBIlVOwF"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "D U L C E",
-        "url": "https://open.spotify.com/album/6L9ASSKb4Y5vRmNTJqRfMV"
-      },
-      "artists": [
-        {
-          "name": "Zulia",
-          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
-        }
-      ],
-      "duration_ms": 192195,
-      "name": "D U L C E",
-      "url": "https://open.spotify.com/track/5wJyNrj7pygsFIwqsO5jjX"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "ROCCO / TENTACION",
         "url": "https://open.spotify.com/album/3rr98x5OTi71bp9NAfHZaS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 186616,
       "name": "ROCCO",
       "url": "https://open.spotify.com/track/1QAulqNUI1RBfBco1PxqXv"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "D U L C E",
+        "url": "https://open.spotify.com/album/6L9ASSKb4Y5vRmNTJqRfMV"
+      },
+      "artists": [
+        {
+          "name": "Zulia",
+          "url": "https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp"
+        }
+      ],
+      "duration_ms": 192195,
+      "name": "D U L C E",
+      "url": "https://open.spotify.com/track/5wJyNrj7pygsFIwqsO5jjX"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "1-800",
-        "url": "https://open.spotify.com/album/1n1XDhzFAGyjMva7QArIv7"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Isabel",
-          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
-        }
-      ],
-      "duration_ms": 151808,
-      "name": "1-800",
-      "url": "https://open.spotify.com/track/0AkmDhmbHBkKcw4Upq1NqQ"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "ALTER EGO",
         "url": "https://open.spotify.com/album/6usRXLPp6yfNrzYrnLxXQ8"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 220964,
       "name": "PUERTA DEL SOL",
       "url": "https://open.spotify.com/track/6ERdA2L6d0aKnd0Pd7Tqox"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "1-800",
+        "url": "https://open.spotify.com/album/1n1XDhzFAGyjMva7QArIv7"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "duration_ms": 151808,
+      "name": "1-800",
+      "url": "https://open.spotify.com/track/0AkmDhmbHBkKcw4Upq1NqQ"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
+        "name": "La Noche Que No Hab\u00eda Uber",
+        "url": "https://open.spotify.com/album/5wpenRu8SHRkQyoIRgKRzi"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "La Noche Que No Hab\u00eda Uber",
+      "url": "https://open.spotify.com/track/410SEtWKVzELYu9KuQSvza"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
         "name": "Distinto",
         "url": "https://open.spotify.com/album/0a505H49Qu64xAf5mfNMB7"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 165110,
       "name": "Distinto",
       "url": "https://open.spotify.com/track/3ozopXR7pzz7Mr5z04rK1U"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
-        "name": "La Noche Que No Hab\u00eda Uber",
-        "url": "https://open.spotify.com/album/5wpenRu8SHRkQyoIRgKRzi"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "La Noche Que No Hab\u00eda Uber",
-      "url": "https://open.spotify.com/track/410SEtWKVzELYu9KuQSvza"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "N\u00edtido",
-        "url": "https://open.spotify.com/album/4jvLDuUoWJRUWcMc6VZk41"
-      },
-      "artists": [
-        {
-          "name": "Soultade",
-          "url": "https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV"
-        }
-      ],
-      "duration_ms": 165529,
-      "name": "Ecos",
-      "url": "https://open.spotify.com/track/6OcofGGF5dzeql46GJbG3k"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "BES4ME",
         "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 153176,
       "name": "BES4ME",
       "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "N\u00edtido",
+        "url": "https://open.spotify.com/album/4jvLDuUoWJRUWcMc6VZk41"
+      },
+      "artists": [
+        {
+          "name": "Soultade",
+          "url": "https://open.spotify.com/artist/6W7QkdmLk3AtXkfrKH5ZDV"
+        }
+      ],
+      "duration_ms": 165529,
+      "name": "Ecos",
+      "url": "https://open.spotify.com/track/6OcofGGF5dzeql46GJbG3k"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "love that stains",
-        "url": "https://open.spotify.com/album/0v14JEuz0kiG13RHgqUUER"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "love that stains",
-      "url": "https://open.spotify.com/track/6sFUlgljN8JyvqI5mDJUUF"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "Se Amaba As\u00ed",
         "url": "https://open.spotify.com/album/6oH9zF3t0iy2WhxLXwHrZK"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 194973,
       "name": "Miraverah\u00ed",
       "url": "https://open.spotify.com/track/1SAXS6YuktTyNF39cADeU9"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "love that stains",
+        "url": "https://open.spotify.com/album/0v14JEuz0kiG13RHgqUUER"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "love that stains",
+      "url": "https://open.spotify.com/track/6sFUlgljN8JyvqI5mDJUUF"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "OK.",
-        "url": "https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4"
-      },
-      "artists": [
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
-        }
-      ],
-      "duration_ms": 156794,
-      "name": "OK.",
-      "url": "https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj"
-    },
-    {
-      "added_at": "2026-07-10 04:01:46",
-      "album": {
         "name": "ColdS3x",
         "url": "https://open.spotify.com/album/7s1ODT1foSajGhpwGAslFA"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 190084,
       "name": "ColdS3x",
       "url": "https://open.spotify.com/track/7uiCWibg26j4fe51KUa0ZZ"
+    },
+    {
+      "added_at": "2026-07-10 04:01:46",
+      "album": {
+        "name": "OK.",
+        "url": "https://open.spotify.com/album/0AANQfneLU0IRecx5ORTR4"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 156794,
+      "name": "OK.",
+      "url": "https://open.spotify.com/track/7EecUGxRZUTQI6nnm1sMbj"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1343,18 +1343,22 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "Mi Casita",
-        "url": "https://open.spotify.com/album/1liyupp5i1sa8MR0epkUCr"
+        "name": "Camas Separadas (ft. Disco Bah\u00eda)",
+        "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
       },
       "artists": [
         {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
         }
       ],
-      "duration_ms": 249579,
-      "name": "Mi Casita",
-      "url": "https://open.spotify.com/track/5MQPlCMoRXxIg1waL0Keo8"
+      "duration_ms": 235136,
+      "name": "Camas Separadas - ft. Disco Bah\u00eda",
+      "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
     },
     {
       "added_at": "2026-07-10 04:01:46",
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2026-07-10 04:01:46",
       "album": {
-        "name": "Camas Separadas (ft. Disco Bah\u00eda)",
-        "url": "https://open.spotify.com/album/3aDyz75eU1Jx02DNYP00Or"
+        "name": "Mi Casita",
+        "url": "https://open.spotify.com/album/1liyupp5i1sa8MR0epkUCr"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
         }
       ],
-      "duration_ms": 235136,
-      "name": "Camas Separadas - ft. Disco Bah\u00eda",
-      "url": "https://open.spotify.com/track/22gaXio7PCkNc8ODKW9v2p"
+      "duration_ms": 249579,
+      "name": "Mi Casita",
+      "url": "https://open.spotify.com/track/5MQPlCMoRXxIg1waL0Keo8"
     },
     {
       "added_at": "2026-07-10 04:01:46",

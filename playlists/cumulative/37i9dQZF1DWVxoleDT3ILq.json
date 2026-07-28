@@ -6709,6 +6709,24 @@
     },
     {
       "album": {
+        "name": "Noche Estrellada",
+        "url": "https://open.spotify.com/album/6SZYnlj8DUMeKNZ49Rrfho"
+      },
+      "artists": [
+        {
+          "name": "Columpios Al Suelo",
+          "url": "https://open.spotify.com/artist/3F0CSoPGpHfiKtyEdKOOrQ"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513086,
+      "name": "Noche Estrellada",
+      "url": "https://open.spotify.com/track/50MsmVsoFSoCJXlM159mtB"
+    },
+    {
+      "album": {
         "name": "Nochecita en B.A",
         "url": "https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc"
       },
@@ -8094,6 +8112,24 @@
       "duration_ms": 247500,
       "name": "PYXIS",
       "url": "https://open.spotify.com/track/5UNhpgdMW62Il2hH4Roy2I"
+    },
+    {
+      "album": {
+        "name": "p\u00e1jaro herido",
+        "url": "https://open.spotify.com/album/7IDDCbPSP7150P5eS2Mpb3"
+      },
+      "artists": [
+        {
+          "name": "Alexia Naomi",
+          "url": "https://open.spotify.com/artist/6f9J2VhTUt61qMX87UtIqn"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250142,
+      "name": "p\u00e1jaro herido",
+      "url": "https://open.spotify.com/track/1n6xXtyn1CqRV8maiR7fYC"
     },
     {
       "album": {
@@ -10220,6 +10256,24 @@
       "duration_ms": 193786,
       "name": "tu voz en mis aud\u00edfonos",
       "url": "https://open.spotify.com/track/5zqtoxy1HqbePISvz9j2Rt"
+    },
+    {
+      "album": {
+        "name": "Tu y Yo en la Nube",
+        "url": "https://open.spotify.com/album/6s2M3TddAm5MxYZvOcybnH"
+      },
+      "artists": [
+        {
+          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
+          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176721,
+      "name": "Tu y Yo en la Nube",
+      "url": "https://open.spotify.com/track/2Svldl4pB0S7F3JBaRTYMz"
     },
     {
       "album": {

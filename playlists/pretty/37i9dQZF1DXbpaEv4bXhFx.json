@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 17171,
+  "num_followers": 17172,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-07-03 07:30:31",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "My Ceiling Disappeared",
-      "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
-    },
-    {
-      "added_at": "2026-07-03 07:30:31",
-      "album": {
         "name": "\"L\"",
         "url": "https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 260682,
       "name": "\"L\"",
       "url": "https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM"
+    },
+    {
+      "added_at": "2026-07-03 07:30:31",
+      "album": {
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "My Ceiling Disappeared",
+      "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
     },
     {
       "added_at": "2026-07-03 07:30:31",

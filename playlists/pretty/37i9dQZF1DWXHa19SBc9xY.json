@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 128404,
+  "num_followers": 128421,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -199,8 +199,8 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "C\u00e9u Ros\u00e9",
-        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
+        "name": "Bateu",
+        "url": "https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz"
       },
       "artists": [
         {
@@ -208,13 +208,17 @@
           "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         },
         {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        },
+        {
+          "name": "Mul\u00fa",
+          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
         }
       ],
-      "duration_ms": 164237,
-      "name": "C\u00e9u Ros\u00e9",
-      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
+      "duration_ms": 206511,
+      "name": "Bateu",
+      "url": "https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -295,8 +299,8 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "Bateu",
-        "url": "https://open.spotify.com/album/4z66LMouo4tlRmuc8xKWKz"
+        "name": "C\u00e9u Ros\u00e9",
+        "url": "https://open.spotify.com/album/4prSTxTaqEuv7EkAtdd5MR"
       },
       "artists": [
         {
@@ -304,17 +308,13 @@
           "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
         },
         {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        },
-        {
-          "name": "Mul\u00fa",
-          "url": "https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ"
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
         }
       ],
-      "duration_ms": 206511,
-      "name": "Bateu",
-      "url": "https://open.spotify.com/track/0p6hzDZGqSC86vjGF5VhEK"
+      "duration_ms": 164237,
+      "name": "C\u00e9u Ros\u00e9",
+      "url": "https://open.spotify.com/track/2GbG2PFAtSHFT6ncTCWSmS"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "\u00c1gua Salgada",
-        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
-      },
-      "artists": [
-        {
-          "name": "Benzi\u00ea",
-          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
-        }
-      ],
-      "duration_ms": 201558,
-      "name": "\u00c1gua Salgada",
-      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
         "name": "Vai sacudir, vai abalar",
         "url": "https://open.spotify.com/album/25C430Kr2rS1YAkmTUqdTN"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 236640,
       "name": "amores v\u00eam e v\u00e3o",
       "url": "https://open.spotify.com/track/6EJT6JMDqVAlxBkCsMhBFi"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
+        "name": "\u00c1gua Salgada",
+        "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
+      },
+      "artists": [
+        {
+          "name": "Benzi\u00ea",
+          "url": "https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH"
+        }
+      ],
+      "duration_ms": 201558,
+      "name": "\u00c1gua Salgada",
+      "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
+        "name": "cheia de vontade",
+        "url": "https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv"
+      },
+      "artists": [
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 146700,
+      "name": "cheia de vontade",
+      "url": "https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz"
+    },
+    {
+      "added_at": "2026-06-17 15:55:41",
+      "album": {
         "name": "PREAMAR",
         "url": "https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2026-06-17 15:55:41",
       "album": {
-        "name": "cheia de vontade",
-        "url": "https://open.spotify.com/album/45ALQndFdgxFNUTtJ6GWNv"
+        "name": "Pode Acreditar",
+        "url": "https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf"
       },
       "artists": [
         {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+          "name": "Alma Djem",
+          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
         }
       ],
-      "duration_ms": 146700,
-      "name": "cheia de vontade",
-      "url": "https://open.spotify.com/track/4mJ3pcf1OjSiF0ugzIJNKz"
+      "duration_ms": 219103,
+      "name": "Pode Acreditar",
+      "url": "https://open.spotify.com/track/03oe8zQqvokacoYMOlI4Ah"
     },
     {
       "added_at": "2026-06-17 15:55:41",
@@ -1003,22 +1019,6 @@
       "duration_ms": 213617,
       "name": "Estrelas",
       "url": "https://open.spotify.com/track/6okZQfNorLbQlOamnbuCjB"
-    },
-    {
-      "added_at": "2026-06-17 15:55:41",
-      "album": {
-        "name": "Pode Acreditar",
-        "url": "https://open.spotify.com/album/5esE23Donw6EIj3knQeGhf"
-      },
-      "artists": [
-        {
-          "name": "Alma Djem",
-          "url": "https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0"
-        }
-      ],
-      "duration_ms": 219103,
-      "name": "Pode Acreditar",
-      "url": "https://open.spotify.com/track/03oe8zQqvokacoYMOlI4Ah"
     },
     {
       "added_at": "2026-06-17 15:55:41",

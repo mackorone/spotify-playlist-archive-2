@@ -9562,7 +9562,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 222456,
       "name": "Bucket Girls",
       "url": "https://open.spotify.com/track/6R20f4uEa4ufirdaQ06ZBz"
@@ -42888,7 +42888,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 123626,
       "name": "Nothing We Can't Do That Can't Be Done",
       "url": "https://open.spotify.com/track/5JOKwt5Vfr6PSlybgd5jBm"
@@ -56929,6 +56929,32 @@
     },
     {
       "album": {
+        "name": "Metal Health",
+        "url": "https://open.spotify.com/album/06uVHb5vadazfMziLqyljm"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Buckethead",
+          "url": "https://open.spotify.com/artist/0fDF0jjmdouCIeWhNnblwV"
+        },
+        {
+          "name": "Tobotius",
+          "url": "https://open.spotify.com/artist/69xW70dNlYx7k695hagx5p"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336602,
+      "name": "Street People",
+      "url": "https://open.spotify.com/track/4q0Gr44LnzR7dpVxOAFbXI"
+    },
+    {
+      "album": {
         "name": "Streets of Minneapolis (Bob Clearmountain Radio Mix)",
         "url": "https://open.spotify.com/album/5fto6noZ6cH98MASeDxMed"
       },
@@ -64534,7 +64560,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 198560,
       "name": "Tonight In Babylon",
       "url": "https://open.spotify.com/track/0FHPtpyyceaIVKFG7M5p2p"

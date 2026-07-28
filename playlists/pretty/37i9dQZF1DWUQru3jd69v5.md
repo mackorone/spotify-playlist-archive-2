@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > JELECROIS in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,970 likes - 71 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,961 likes - 71 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Individualista Visionario](https://open.spotify.com/track/0hYlJHHVPgzKjRuZrV4ohs) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/7y1QKfqQApaYcwwMRV6KGH) | 1:34 |
+| 1 | [INDIVIDUALISTA VISIONARIO](https://open.spotify.com/track/0hYlJHHVPgzKjRuZrV4ohs) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/7y1QKfqQApaYcwwMRV6KGH) | 1:34 |
 | 2 | [PRESIDENTE](https://open.spotify.com/track/4QND8Cw1eFUdnyvvobmWHE) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [DEMONIO](https://open.spotify.com/album/2VPualNpVXNRL8DajVkbP8) | 2:50 |
 | 3 | [ACCENDINO](https://open.spotify.com/track/5Tji6xF6sSTunstcj1zVNR) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Sau27](https://open.spotify.com/artist/1KZF3e9QB6eO3h6Nt5pA4P) | [ACCENDINO](https://open.spotify.com/album/1a66lWLWEHE9FuZZ1JVFEH) | 2:28 |
 | 4 | [Selena Gomez](https://open.spotify.com/track/22pDDaPCT3zthpC73iy5ui) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [Selena Gomez](https://open.spotify.com/album/2JrawLPb3QRBr3Jp2XU2yb) | 2:55 |

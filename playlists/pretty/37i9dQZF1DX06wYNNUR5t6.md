@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 
 > Recent hits from all your favorite Christian Rock artists!  Cover: Jeremy Camp
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,106 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,214 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 | 49 | [Closer](https://open.spotify.com/track/5dVODyGWLMoBPlmgtm86PU) | [Silversyde](https://open.spotify.com/artist/6J0UNeDm5txVjvcI7Pxqz4) | [Casting Shadows](https://open.spotify.com/album/539lpEirrlTBHMsQHgSZzm) | 3:12 |
 | 50 | [Bottom Feed](https://open.spotify.com/track/1juIgyx6a8G5O1Tnlnf4IB) | [Mawcore](https://open.spotify.com/artist/04vYfdkQAWRKmqmsitQbea) | [Where Breaking Begins](https://open.spotify.com/album/3bsRpywxqsiSORItREzXUN) | 3:32 |
 
-Snapshot ID: `AAAAAP8lflg+6s0WY+qRMq3MDTgdz7Xh`
+Snapshot ID: `AAAAAKKVuYoEPkrFenlf/dWOFgHZHZpm`

@@ -1,6 +1,6 @@
 {
   "description": "2026 yaz\u0131n\u0131n \u015fark\u0131lar\u0131. Kapak: G\u00fcl\u015fen",
-  "num_followers": 291607,
+  "num_followers": 291642,
   "original_name": "Yaz Hitleri 2026",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-07-23 21:00:19",
       "album": {
+        "name": "Bana Ne Bu Sevdalardan",
+        "url": "https://open.spotify.com/album/57y0kEd09cinYeE9JPHCwJ"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "duration_ms": 137512,
+      "name": "Bana Ne Bu Sevdalardan",
+      "url": "https://open.spotify.com/track/5j7ypeN8HkyGKRNjRagPrR"
+    },
+    {
+      "added_at": "2026-07-23 21:00:19",
+      "album": {
         "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
         "url": "https://open.spotify.com/album/5t4zxaoJRFxNBnzXQeSWIO"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 227428,
       "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
       "url": "https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI"
-    },
-    {
-      "added_at": "2026-07-23 21:00:19",
-      "album": {
-        "name": "Bana Ne Bu Sevdalardan",
-        "url": "https://open.spotify.com/album/57y0kEd09cinYeE9JPHCwJ"
-      },
-      "artists": [
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        }
-      ],
-      "duration_ms": 137512,
-      "name": "Bana Ne Bu Sevdalardan",
-      "url": "https://open.spotify.com/track/5j7ypeN8HkyGKRNjRagPrR"
     },
     {
       "added_at": "2026-07-23 21:00:19",

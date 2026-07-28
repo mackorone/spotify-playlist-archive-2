@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Love Spells
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290,654 likes - 201 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,290,598 likes - 201 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

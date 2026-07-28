@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 123488,
+  "num_followers": 123503,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 296071,
-      "name": "Y la Felicidad Qu\u00e9",
-      "url": "https://open.spotify.com/track/24HYU0MQmeUQ6YLjl1o2NV"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Frenesi",
         "url": "https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 276307,
       "name": "Singular (feat. El Chojin)",
       "url": "https://open.spotify.com/track/6tG8CCrLgeiS26z8eW6uoU"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29N9nfcvov8KfyF2X8Mj6P"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 296071,
+      "name": "Y la Felicidad Qu\u00e9",
+      "url": "https://open.spotify.com/track/24HYU0MQmeUQ6YLjl1o2NV"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -903,26 +903,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Esquirlas",
-        "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
-      },
-      "artists": [
-        {
-          "name": "Lirika Inverza",
-          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
-        },
-        {
-          "name": "Montebel",
-          "url": "https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Esquirlas",
-      "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "LA VIDA ES TAN DURA",
         "url": "https://open.spotify.com/album/7lmYMSoJZ252EmcVmRrjrP"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 160000,
       "name": "LA VIDA ES TAN DURA",
       "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Esquirlas",
+        "url": "https://open.spotify.com/album/5I9JiAxaMBqrWqwoTa1VKi"
+      },
+      "artists": [
+        {
+          "name": "Lirika Inverza",
+          "url": "https://open.spotify.com/artist/214wdmDstodTL0SEEPDyxb"
+        },
+        {
+          "name": "Montebel",
+          "url": "https://open.spotify.com/artist/3n3xqTWiJ5cThzS3UsDQUV"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Esquirlas",
+      "url": "https://open.spotify.com/track/4uGERRF2SWPcfSVfvNq2Jd"
     },
     {
       "added_at": "2025-05-23 06:00:30",

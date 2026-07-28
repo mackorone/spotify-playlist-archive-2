@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300 \ub304\uc2a4\ub97c \uc990\uae30\uace0 \uc2f6\uc740 \uc0ac\ub78c \uc190!",
-  "num_followers": 11022,
+  "num_followers": 11030,
   "original_name": "\ud1a0\ud1a0\uac00! \ucd94\uc5b5\uc758 \ub304\uc2a4 \ubba4\uc9c1",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-04-04 20:06:12",
       "album": {
+        "name": "All Details",
+        "url": "https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z"
+      },
+      "artists": [
+        {
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB"
+        }
+      ],
+      "duration_ms": 216224,
+      "name": "The Rose of Betrayal",
+      "url": "https://open.spotify.com/track/08NeKzNpojEoIjiGVVZMh4"
+    },
+    {
+      "added_at": "2024-04-04 20:06:12",
+      "album": {
         "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.33",
         "url": "https://open.spotify.com/album/58KgXF6gkzxLtu19adWtZL"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 237029,
       "name": "\uc77c\uacfc \uc774\ubd84\uc758 \uc77c",
       "url": "https://open.spotify.com/track/0QxCpNGS8ZgDAx5aZldkgi"
-    },
-    {
-      "added_at": "2024-04-04 20:06:12",
-      "album": {
-        "name": "All Details",
-        "url": "https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z"
-      },
-      "artists": [
-        {
-          "name": "Uhm Jung Hwa",
-          "url": "https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB"
-        }
-      ],
-      "duration_ms": 216224,
-      "name": "The Rose of Betrayal",
-      "url": "https://open.spotify.com/track/08NeKzNpojEoIjiGVVZMh4"
     },
     {
       "added_at": "2024-04-04 20:06:12",

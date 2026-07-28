@@ -1,6 +1,6 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12863,
+  "num_followers": 12879,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-07-24 08:47:44",
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 244909,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/21oJ1K99GBJrE2GVQGVjA0"
-    },
-    {
-      "added_at": "2026-07-24 08:47:44",
-      "album": {
         "name": "WHOEVER",
         "url": "https://open.spotify.com/album/4j878Utyg4KAXw0vAKuaSj"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 266499,
       "name": "Love Shine",
       "url": "https://open.spotify.com/track/467zSU1hr4OF3Zq5zVX3Dt"
+    },
+    {
+      "added_at": "2026-07-24 08:47:44",
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 244909,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/21oJ1K99GBJrE2GVQGVjA0"
     },
     {
       "added_at": "2026-07-24 08:47:44",

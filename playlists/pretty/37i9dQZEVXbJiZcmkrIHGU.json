@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Germany.",
-  "num_followers": 2037821,
+  "num_followers": 2037772,
   "original_name": "Top 50 - Germany",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mfl6eAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MfrHSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "KILLY MANJARO",
         "url": "https://open.spotify.com/album/2iYCjwIYCULB69wNmigHlg"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4rcQuHo8PhGshmvEVJZ4T5"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "Lounge Musik",
         "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
@@ -65,31 +65,59 @@
       "url": "https://open.spotify.com/track/1qfwmUz3Zj5WkLoAHXgskK"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "Twenty One",
-        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 142200,
-      "name": "Movin' To The Sun",
-      "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
+      "duration_ms": 227986,
+      "name": "Beauty And A Beat",
+      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 222973,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Self Aware",
+        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
+      },
+      "artists": [
+        {
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "duration_ms": 180740,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "KITSCHKRIEG ZWEI",
         "url": "https://open.spotify.com/album/778QaCfUiirKHFrXJuJGIL"
@@ -113,59 +141,31 @@
       "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 227986,
-      "name": "Beauty And A Beat",
-      "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
+          "name": "Imael Angel",
+          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+        },
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
         }
       ],
-      "duration_ms": 222973,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+      "duration_ms": 142200,
+      "name": "Movin' To The Sun",
+      "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Self Aware",
-        "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
-      },
-      "artists": [
-        {
-          "name": "Temper City",
-          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
-        }
-      ],
-      "duration_ms": 180740,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "Lounge Musik",
         "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/17WXmsUDHzaNZlSlB3xR6b"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
@@ -197,7 +197,55 @@
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Don't Forget About Me, Demos",
+        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 97960,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "Jamaican (Bam Bam)",
         "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
@@ -217,7 +265,7 @@
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "Hin und Her",
         "url": "https://open.spotify.com/album/0pvSH2gyRSweJqDSelxPNK"
@@ -233,139 +281,7 @@
       "url": "https://open.spotify.com/track/5PcZTsUAo5ZH9JcTmBNy5t"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 200646,
-      "name": "Lush Life",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2cHhcN6iNLNXc7FByWBGi5"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Hips Don't Lie (feat. Wyclef Jean)",
-      "url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Lounge Musik",
-        "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 138666,
-      "name": "Goldrichtig",
-      "url": "https://open.spotify.com/track/4wbxmgL7HLl2wr7LXCJDon"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "url": "https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 97960,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/0P9VV4CzxLC5TKB4UVZ6OR"
-      },
-      "artists": [
-        {
-          "name": "Mucco",
-          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
-        }
-      ],
-      "duration_ms": 141918,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/57ZUOsF6vCae0j2OCSk0nn"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 258296,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Lounge Musik",
-        "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 91785,
-      "name": "Boss Green",
-      "url": "https://open.spotify.com/track/4Ma5RsRMMaqF5HMhsDGCoM"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "FREAKED OUT",
         "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
@@ -385,47 +301,91 @@
       "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "Withness",
-        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
+        "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2cHhcN6iNLNXc7FByWBGi5"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "54 Ultra",
-          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
         }
       ],
-      "duration_ms": 191076,
-      "name": "Talk To You (ft. 54 Ultra)",
-      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
+      "duration_ms": 220360,
+      "name": "Hips Don't Lie (feat. Wyclef Jean)",
+      "url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 198773,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+      "duration_ms": 258296,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Lounge Musik",
+        "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 91785,
+      "name": "Boss Green",
+      "url": "https://open.spotify.com/track/4Ma5RsRMMaqF5HMhsDGCoM"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Lounge Musik",
+        "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
+      },
+      "artists": [
+        {
+          "name": "Pashanim",
+          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+        }
+      ],
+      "duration_ms": 138666,
+      "name": "Goldrichtig",
+      "url": "https://open.spotify.com/track/4wbxmgL7HLl2wr7LXCJDon"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/0P9VV4CzxLC5TKB4UVZ6OR"
+      },
+      "artists": [
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "duration_ms": 141918,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/57ZUOsF6vCae0j2OCSk0nn"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "(What's The Story) Morning Glory? [Remastered]",
         "url": "https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk"
@@ -441,91 +401,39 @@
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "Escape (2022 Remaster)",
-        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Don't Stop Believin' (2022 Remaster)",
-      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
         }
       ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+      "duration_ms": 185746,
+      "name": "Kapitel 10: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/4PocK4Gx8eNGUpcPP1up9W"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Lounge Musik",
-        "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 118211,
-      "name": "Lounge City",
-      "url": "https://open.spotify.com/track/77edDDeo7gh25s1YUEenxX"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Love?",
-        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 284866,
-      "name": "On The Floor",
-      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Lounge Musik",
-        "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 96750,
-      "name": "Kalter Krieg",
-      "url": "https://open.spotify.com/track/2qmLwxDzP1omZqi0oM13So"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
@@ -553,7 +461,55 @@
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Kapitel 09: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/1fGcepqRv6T6bTLnyI7p1n"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "duration_ms": 183653,
+      "name": "Kapitel 08: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/0wv8nQhtJdfC15SR8c8ZQM"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Kapitel 11: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/6XVjetdzDvox6eo2it1LpZ"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "Hybrid Theory (Bonus Edition)",
         "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
@@ -569,7 +525,39 @@
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "duration_ms": 182186,
+      "name": "Kapitel 07: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/6GXrYoAzFEFJmFpKugmo6C"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Kapitel 12: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/1TDiYSja3GQTIt4McnS5w5"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "Lounge Musik",
         "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
@@ -580,92 +568,84 @@
           "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
         }
       ],
-      "duration_ms": 86700,
-      "name": "Gucci Tom Ford",
-      "url": "https://open.spotify.com/track/1xuAI2eoGsXdw0jiZKbaZE"
+      "duration_ms": 96750,
+      "name": "Kalter Krieg",
+      "url": "https://open.spotify.com/track/2qmLwxDzP1omZqi0oM13So"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "THIS MUSIC MAY CONTAIN HOPE.",
-        "url": "https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9"
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
         }
       ],
-      "duration_ms": 197142,
-      "name": "WHERE IS MY HUSBAND!",
-      "url": "https://open.spotify.com/track/7eYzn1CuiJK6VvUhf8zA6k"
+      "duration_ms": 198773,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "Dream Your Life Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
+      "duration_ms": 181920,
+      "name": "Kapitel 13: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/2ci10KPHCU3ILcuRzFQuS9"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "DIRTY BLONDE",
-        "url": "https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG"
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
         }
       ],
-      "duration_ms": 174400,
-      "name": "New Religion",
-      "url": "https://open.spotify.com/track/78BBuc8L0Li1nnCsLaI0vL"
+      "duration_ms": 184240,
+      "name": "Kapitel 06: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/0GaLG2quyV214JaFWYVEbT"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "I Adore You (feat. Daecolm)",
-        "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
+        "name": "Withness",
+        "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
       },
       "artists": [
         {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Arash",
-          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
         }
       ],
-      "duration_ms": 214000,
-      "name": "I Adore You (feat. Daecolm)",
-      "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+      "duration_ms": 191076,
+      "name": "Talk To You (ft. 54 Ultra)",
+      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "You'll Be Alright, Kid (Chapter 1)",
         "url": "https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo"
@@ -681,7 +661,71 @@
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "misery.",
+        "url": "https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2"
+      },
+      "artists": [
+        {
+          "name": "pupsies",
+          "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
+        }
+      ],
+      "duration_ms": 166401,
+      "name": "misery.",
+      "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Kapitel 14: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/78s3PRrJYJLpeJGaby55eL"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "Kapitel 05: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/2GbAecpyZt3YnQ7magIYJw"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Escape (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4guAwaniEAEQSW0NCpo4gm"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Don't Stop Believin' (2022 Remaster)",
+      "url": "https://open.spotify.com/track/5RKQ5NdjSh2QzD4MaunT91"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "Lounge Musik",
         "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
@@ -692,140 +736,12 @@
           "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
         }
       ],
-      "duration_ms": 128659,
-      "name": "RondoNumbaNine",
-      "url": "https://open.spotify.com/track/4pTok5e3wChxIdOmhoVZPm"
+      "duration_ms": 118211,
+      "name": "Lounge City",
+      "url": "https://open.spotify.com/track/77edDDeo7gh25s1YUEenxX"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Keine Angst",
-        "url": "https://open.spotify.com/album/15d6XT5XuVWkYrFrFaGgfv"
-      },
-      "artists": [
-        {
-          "name": "Danger Dan",
-          "url": "https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a"
-        }
-      ],
-      "duration_ms": 427565,
-      "name": "Keine Angst",
-      "url": "https://open.spotify.com/track/3JZQu2KQwQ0mwtzZEaKB0W"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Lounge Musik",
-        "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 110000,
-      "name": "Maradona",
-      "url": "https://open.spotify.com/track/4qAcyDcFErnKMjKt3s6uEj"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
-      },
-      "artists": [
-        {
-          "name": "The Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Lounge Musik",
-        "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
-      },
-      "artists": [
-        {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
-        }
-      ],
-      "duration_ms": 87920,
-      "name": "90 Minuten",
-      "url": "https://open.spotify.com/track/2Uqi7v6xVcIkAfsZYbnbym"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Makina Time",
-        "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "Dj Konik",
-          "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
-        },
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Like Mike",
-          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
-        }
-      ],
-      "duration_ms": 130090,
-      "name": "Makina Time",
-      "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -841,55 +757,55 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "Lounge Musik",
-        "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 123925,
-      "name": "Light Blue",
-      "url": "https://open.spotify.com/track/49an7J2qycDAxHs4ZjT16Z"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "L'undertaker, Pt. 1",
-        "url": "https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR"
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
       },
       "artists": [
         {
-          "name": "Mauvais djo",
-          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
         }
       ],
-      "duration_ms": 156076,
-      "name": "Pil\u00e9",
-      "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
+      "duration_ms": 182186,
+      "name": "Kapitel 15: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/23qm6KFqjgQ2b4NTM7XOHw"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
-        "name": "Lounge Musik",
-        "url": "https://open.spotify.com/album/1pLdJggyPTWxxbmxTQBJi8"
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
       },
       "artists": [
         {
-          "name": "Pashanim",
-          "url": "https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg"
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
         }
       ],
-      "duration_ms": 90000,
-      "name": "giorgio armani flow",
-      "url": "https://open.spotify.com/track/70RXKOMIMnSPlCmenDR6Yz"
+      "duration_ms": 182986,
+      "name": "Kapitel 04: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/5CN1RxkdwaOL3PFMIyRTBG"
     },
     {
-      "added_at": "2026-07-26 15:06:44",
+      "added_at": "2026-07-27 14:38:27",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -903,6 +819,58 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Love?",
+        "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 284866,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "added_at": "2026-07-27 14:38:27",
+      "album": {
+        "name": "Folge 240: und die schwarze Rose",
+        "url": "https://open.spotify.com/album/55djiROmSQZWDVzzUwyKFc"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "Kapitel 16: und die schwarze Rose - Folge 240",
+      "url": "https://open.spotify.com/track/231BH9GOYUEn3WcXmF57Sh"
     }
   ],
   "unique_name": "Top 50 - Germany",

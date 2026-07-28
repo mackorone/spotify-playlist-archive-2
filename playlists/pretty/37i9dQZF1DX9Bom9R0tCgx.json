@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 457538,
+  "num_followers": 457552,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "OIIA OIIA (Spinning Cat)",
+        "url": "https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 133600,
+      "name": "OIIA OIIA (Spinning Cat)",
+      "url": "https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
         "url": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 253433,
       "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
       "url": "https://open.spotify.com/track/4ptnQ0kQnN1U1Ig8TSslj6"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "OIIA OIIA (Spinning Cat)",
-        "url": "https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 133600,
-      "name": "OIIA OIIA (Spinning Cat)",
-      "url": "https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Hit The Road Jack",
-        "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
       },
       "artists": [
         {
           "name": "Bisken",
           "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
-        },
-        {
-          "name": "Millows",
-          "url": "https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG"
         }
       ],
-      "duration_ms": 126428,
-      "name": "Hit The Road Jack",
-      "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
+      "duration_ms": 134357,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1495,18 +1491,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/7ioeb14iIitWm03e7K9eXq"
+        "name": "Hit The Road Jack",
+        "url": "https://open.spotify.com/album/4fD0XHv8zNDpLZWt8lPNtu"
       },
       "artists": [
         {
           "name": "Bisken",
           "url": "https://open.spotify.com/artist/1g78KNbyP5nmgmrLnWIOYf"
+        },
+        {
+          "name": "Millows",
+          "url": "https://open.spotify.com/artist/5GQeYhFPfFWauYWJXMJ1BG"
         }
       ],
-      "duration_ms": 134357,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/2kQ853vf9Z5rxjJCQRRQIL"
+      "duration_ms": 126428,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/5r6SF3GZpuEagE9JcXPVuV"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1623,30 +1623,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "2004",
-        "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
-      },
-      "artists": [
-        {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
-        }
-      ],
-      "duration_ms": 188888,
-      "name": "2004",
-      "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Pedro (W&W Remix)",
         "url": "https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A"
       },
@@ -1671,6 +1647,30 @@
       "duration_ms": 159483,
       "name": "Pedro - W&W Remix",
       "url": "https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "2004",
+        "url": "https://open.spotify.com/album/19UhqfH7LM4Kflbm7F09Us"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "duration_ms": 188888,
+      "name": "2004",
+      "url": "https://open.spotify.com/track/2BGMLlSNVlsRFQcaQCbNiC"
     },
     {
       "added_at": "2025-06-26 22:00:24",

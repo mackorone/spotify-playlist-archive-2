@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Vacations
 
-693 songs - 1 day 14 hr 45 min
+694 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 | 2026-04-23 | 2026-06-18 |
 | [It's Kinda Hot](https://open.spotify.com/track/71fNiEeFDm4jNuk15rh4Wf) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [It's Kinda Hot](https://open.spotify.com/album/5pCdGf426pZVgJTrSjRWxs) | 2:37 | 2026-06-26 |  |
 | [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-03-12 | 2026-04-16 |
-| [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 | 2025-06-26 |  |
+| [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 | 2025-06-26 | 2026-07-28 |
 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 | 2025-07-31 | 2025-09-10 |
 | [Jaded](https://open.spotify.com/track/4Drglu14K2DPKmUBCmQzoC) | [Paulina](https://open.spotify.com/artist/4za5fbTdW3zQbV0pQ1ZMhI), [Tom Thum](https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B) | [Jaded](https://open.spotify.com/album/2VlOUIDEK7G2hhggMVpUr6) | 2:47 | 2025-04-17 | 2025-04-25 |
 | [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-24 | 2025-02-19 |
@@ -479,6 +479,7 @@
 | [PQC](https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [PQC](https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY) | 3:32 | 2026-06-18 |  |
 | [Pressed](https://open.spotify.com/track/4J1511BNhGrfsDYut0TDSs) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Pressed](https://open.spotify.com/album/4KGLVBHwJiDdpYkJcoV6VN) | 2:53 | 2026-05-07 | 2026-05-15 |
 | [Prove](https://open.spotify.com/track/3b0xNfVAT1xj3hRkl23PD6) | [Dylan Atlantis](https://open.spotify.com/artist/1OIwR0QnsHzPZrC1pTN1UO) | [It Starts Again](https://open.spotify.com/album/6Pgc6rfkN8tH7Di52bEXnQ) | 3:04 | 2025-10-09 | 2025-10-17 |
+| [Pull Up \- feat\. Pino D’Angiò & Scrufizzer](https://open.spotify.com/track/6XTQZwVaLM1hu2kvEPeRnZ) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Pull Up \(feat\. Pino D’Angiò & Scrufizzer\)](https://open.spotify.com/album/1yVo8JFEoUIsOvzNlM5iUB) | 2:55 | 2026-07-23 |  |
 | [Punch Drunk Love](https://open.spotify.com/track/3pw0oGsWWY9vUVFcUlHq4O) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Punch Drunk Love](https://open.spotify.com/album/460d5gDLVH1L54u9wOyhbY) | 3:17 | 2025-09-18 | 2025-09-26 |
 | [queen of the season](https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [last night you said you missed me](https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2) | 3:19 | 2025-09-11 |  |
 | [Quiet When You’re Listening](https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Marginalia](https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot) | 2:58 | 2026-06-18 | 2026-07-26 |

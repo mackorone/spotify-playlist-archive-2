@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-126 songs - 8 hr 5 min
+127 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,10 +95,11 @@
 | [Two High](https://open.spotify.com/track/1uizY6qe73rHo1gduRqvy8) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 3:39 | 2024-01-29 | 2024-03-14 |
 | [Ukulele Bros](https://open.spotify.com/track/4xbOzbF4ziyqyxLU4vOQzV) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 3:03 | 2024-05-19 | 2025-12-18 |
 | [Under The Sea](https://open.spotify.com/track/2APVreU7PPG721p8xte07l) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:49 | 2024-01-29 |  |
+| [Vampire](https://open.spotify.com/track/4eU4pp9ycpqnA6NYy9a9U9) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Pop Experience](https://open.spotify.com/album/1nZGYKgarNbqKpUAXJb3si) | 2:49 | 2026-07-28 |  |
 | [Wai\` Alae](https://open.spotify.com/track/0wot61MFMO2SLEKpjjyfqX) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Nolan Verner](https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl), [Dave Preston](https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk) | [Trio](https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4) | 2:28 | 2024-01-29 |  |
 | [Wailau](https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 2:55 | 2026-02-01 |  |
 | [Waterfall](https://open.spotify.com/track/00Qj11ClumxCZEvfT7ZXnI) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 3:08 | 2026-02-02 | 2026-03-24 |
-| [We Can't Be Friends](https://open.spotify.com/track/1QgG1FMeqMRKYdoeICpdg0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Pop Experience](https://open.spotify.com/album/1nZGYKgarNbqKpUAXJb3si) | 2:38 | 2026-07-26 |  |
+| [We Can't Be Friends](https://open.spotify.com/track/1QgG1FMeqMRKYdoeICpdg0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Pop Experience](https://open.spotify.com/album/1nZGYKgarNbqKpUAXJb3si) | 2:38 | 2026-07-26 | 2026-07-28 |
 | [When The Masks Come Down](https://open.spotify.com/track/7mTJIPUtg4TWGm3PiKvyh4) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live With Jake Shimabukuro](https://open.spotify.com/album/2PwQ4z0rIku4NEEkIVL0so) | 3:59 | 2025-02-19 | 2025-05-07 |
 | [Whiter Shade Of Pale](https://open.spotify.com/track/6lWAHVsfTiO6WFGv4qy6Ba) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 5:13 | 2024-11-11 | 2024-12-23 |
 | [Why Not](https://open.spotify.com/track/26bSYa16phJmcgVm3IhXfK) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 3:39 | 2024-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,632 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,637 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 26 | [Rei sem coroa \(ao vivo no Sesc\)](https://open.spotify.com/track/5CD3QaGXZElKiGUIVwMxo6) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Relicário: João Gilberto \(Ao Vivo no Sesc 1998\)](https://open.spotify.com/album/1R7yz8QjyklFlMcbJtqldt) | 2:46 |
 | 27 | [Amor Em Paz \(Love in Peace\)](https://open.spotify.com/track/4zADXJ2g8AlAwshQAhLsRI) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Do the Bossa Nova](https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX) | 2:38 |
 | 28 | [Triste](https://open.spotify.com/track/7gYM9I0k3OTAh2RHlspaxN) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 4:19 |
-| 29 | [Eu Sambo Mesmo](https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 4:08 |
-| 30 | [Bim Bom \- Live At Carnegie Hall/1964](https://open.spotify.com/track/1HB3wCRjnQQI1e860vFfs9) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Summer Samba](https://open.spotify.com/album/04DUrFW9BaCSFn8w7gKbAc) | 2:09 |
+| 29 | [Bim Bom \- Live At Carnegie Hall/1964](https://open.spotify.com/track/1HB3wCRjnQQI1e860vFfs9) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Summer Samba](https://open.spotify.com/album/04DUrFW9BaCSFn8w7gKbAc) | 2:09 |
+| 30 | [Eu Sambo Mesmo](https://open.spotify.com/track/5Fx820lVuAT6bI3Dj5kfpk) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Joao](https://open.spotify.com/album/64nNH3zUc8rmxLu7235fSK) | 4:08 |
 | 31 | [One Note Samba](https://open.spotify.com/track/5xTt7WCmlfdSa9aP3MV56A) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Do the Bossa Nova](https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX) | 3:21 |
 | 32 | [Besame Mucho](https://open.spotify.com/track/2yEpIibskkd64N9l5NsuJC) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Amoroso](https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH) | 8:46 |
 | 33 | [Falsa Baiana](https://open.spotify.com/track/7nis0pALSkz4Tai1hJilet) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 49 | [Undiú](https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 6:37 |
 | 50 | [Brigas, Nunca Mais \- Ultimate Mix](https://open.spotify.com/track/0V8PQaUAS4Q8Rud4663dqZ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7) | 2:06 |
 
-Snapshot ID: `amP8gAAAAABCks+SCFbzL2NQe7kB1ScR`
+Snapshot ID: `amVOAAAAAADu02vlb6Nd6cYxmY+/Goh3`

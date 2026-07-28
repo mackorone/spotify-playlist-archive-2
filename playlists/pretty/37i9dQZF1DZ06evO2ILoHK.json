@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAAXnzoMbGeusVylOvfqUitP",
+  "snapshot_id": "amVOAAAAAAD89LCgtkw6Ur+0GWiOt8ot",
   "tracks": [
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 123589,
-      "name": "Skip Town",
-      "url": "https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ"
+      "duration_ms": 37421,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 37421,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6HQazh5h0nLMuKR3R6lauX"
+      "duration_ms": 123589,
+      "name": "Skip Town",
+      "url": "https://open.spotify.com/track/1o3Y7eA193VOMIt1CLnERJ"
     },
     {
       "added_at": null,

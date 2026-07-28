@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,818 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,854 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [easier to stare](https://open.spotify.com/track/2x4DdNTxdZBHs0ceMpucXN) | [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU) | [easier to stare](https://open.spotify.com/album/26va7PoLwSz0LOrEC0f0yg) | 2:49 |
-| 2 | [There's A Lot To Forget](https://open.spotify.com/track/7djbDzrM3f2lwGuS2QqhbP) | [Bjéar](https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo) | [There's A Lot To Forget](https://open.spotify.com/album/4G8nDv573BCMFHqkff4avd) | 5:04 |
-| 3 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 |
-| 4 | [Swimming, Crying](https://open.spotify.com/track/2UGflaT34H95OkhndWi9GN) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Swimming, Crying](https://open.spotify.com/album/7dNgXVt7jCd5QchLE701GX) | 4:33 |
-| 5 | [light up](https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [light up](https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS) | 3:35 |
-| 6 | [carry](https://open.spotify.com/track/2zaeUBQObunKCSOzgfBc3g) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [carry](https://open.spotify.com/album/1TUKElLn4QSQ73qdpcoYvk) | 2:40 |
-| 7 | [Tied](https://open.spotify.com/track/5JUZTcOfcZ2Rej9SqdRUB5) | [CAITLIN](https://open.spotify.com/artist/37yYoQiIfgAgxKimAy9Rx8) | [Guardrails](https://open.spotify.com/album/0jNVzQnxaQEUR9XApL8bOI) | 2:36 |
-| 8 | [Karaoke Bar](https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Karaoke Bar](https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa) | 3:24 |
+| 1 | [Karaoke Bar](https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Karaoke Bar](https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa) | 3:24 |
+| 2 | [Hanging on Hope](https://open.spotify.com/track/2VlikHNvR4PcBzQwJBGqzt) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Hanging on Hope](https://open.spotify.com/album/7G19bGALEOrsvf2BRqVckz) | 3:43 |
+| 3 | [light up](https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [light up](https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS) | 3:35 |
+| 4 | [easier to stare](https://open.spotify.com/track/2x4DdNTxdZBHs0ceMpucXN) | [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU) | [easier to stare](https://open.spotify.com/album/26va7PoLwSz0LOrEC0f0yg) | 2:49 |
+| 5 | [carry](https://open.spotify.com/track/2zaeUBQObunKCSOzgfBc3g) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [carry](https://open.spotify.com/album/1TUKElLn4QSQ73qdpcoYvk) | 2:40 |
+| 6 | [There's A Lot To Forget](https://open.spotify.com/track/7djbDzrM3f2lwGuS2QqhbP) | [Bjéar](https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo) | [There's A Lot To Forget](https://open.spotify.com/album/4G8nDv573BCMFHqkff4avd) | 5:04 |
+| 7 | [Swimming, Crying](https://open.spotify.com/track/2UGflaT34H95OkhndWi9GN) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Swimming, Crying](https://open.spotify.com/album/7dNgXVt7jCd5QchLE701GX) | 4:33 |
+| 8 | [Tied](https://open.spotify.com/track/5JUZTcOfcZ2Rej9SqdRUB5) | [CAITLIN](https://open.spotify.com/artist/37yYoQiIfgAgxKimAy9Rx8) | [Guardrails](https://open.spotify.com/album/0jNVzQnxaQEUR9XApL8bOI) | 2:36 |
 | 9 | [Sweet Fortune](https://open.spotify.com/track/6kJT9PjWFAeUl68dZLv6wf) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 2:56 |
 | 10 | [Running To](https://open.spotify.com/track/3GpopR6hCJ2m9LYgO7czZZ) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx), [Yannick Lowack](https://open.spotify.com/artist/4jKjq3qWxfwNoijxhD57fu) | [Running To](https://open.spotify.com/album/3BJvOQFOkeSVnO0bTD3HLN) | 3:52 |
 | 11 | [Wanna Get Free](https://open.spotify.com/track/5xOwaw30UPg9u1yJOQFujy) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Sweet Thief](https://open.spotify.com/album/6GbmTCqvdEbaKmsCIvdXYz) | 3:50 |
-| 12 | [You & We](https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W) | 4:28 |
-| 13 | [Human Beings](https://open.spotify.com/track/107icQkNcqwZ7D8k9JNjGM) | [Mark Wilkinson](https://open.spotify.com/artist/2xotqeudHAi6eXva57U5nK) | [Human Beings](https://open.spotify.com/album/5V6sYT9FMHeFQQGqheyz8p) | 3:02 |
-| 14 | [You Were There](https://open.spotify.com/track/5UT4Kb2glnF5IS7rEu48wN) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Whenever I Go](https://open.spotify.com/album/7sX23NUtAyg82G2H7hX91R) | 2:50 |
-| 15 | [I Don't Need You Anymore](https://open.spotify.com/track/7f7Y1MOfBg6XQobBdja4Rj) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [I Don't Need You Anymore](https://open.spotify.com/album/1ylGXWfqRZ9TlyOZOQZQxA) | 3:41 |
-| 16 | [Better](https://open.spotify.com/track/6D2kbomhEQ84KjbMOexvz0) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Better](https://open.spotify.com/album/4eqjMjMiYCs2b9gG1m446s) | 4:01 |
-| 17 | [My Love](https://open.spotify.com/track/34BOFpRdhkmFsVu2yUAgMY) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [My Love](https://open.spotify.com/album/5SQVlmRmuP89gnW6c12bfQ) | 3:23 |
-| 18 | [Ancestors](https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Tripping Over Time](https://open.spotify.com/album/0Qv7CQ2vU9vcUqqcODFs4i) | 2:56 |
-| 19 | [Monsters](https://open.spotify.com/track/7b6wt5FZgNLBHEteC7Ugh8) | [Mountain Boy](https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7) | [Monsters](https://open.spotify.com/album/6JDb1qRjuItQsVhpzgCUPP) | 4:13 |
+| 12 | [Better](https://open.spotify.com/track/6D2kbomhEQ84KjbMOexvz0) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Better](https://open.spotify.com/album/4eqjMjMiYCs2b9gG1m446s) | 4:01 |
+| 13 | [You & We](https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W) | 4:28 |
+| 14 | [Monsters](https://open.spotify.com/track/7b6wt5FZgNLBHEteC7Ugh8) | [Mountain Boy](https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7) | [Monsters](https://open.spotify.com/album/6JDb1qRjuItQsVhpzgCUPP) | 4:13 |
+| 15 | [Human Beings](https://open.spotify.com/track/107icQkNcqwZ7D8k9JNjGM) | [Mark Wilkinson](https://open.spotify.com/artist/2xotqeudHAi6eXva57U5nK) | [Human Beings](https://open.spotify.com/album/5V6sYT9FMHeFQQGqheyz8p) | 3:02 |
+| 16 | [You Were There](https://open.spotify.com/track/5UT4Kb2glnF5IS7rEu48wN) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Whenever I Go](https://open.spotify.com/album/7sX23NUtAyg82G2H7hX91R) | 2:50 |
+| 17 | [I Don't Need You Anymore](https://open.spotify.com/track/7f7Y1MOfBg6XQobBdja4Rj) | [Azure Ryder](https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8) | [I Don't Need You Anymore](https://open.spotify.com/album/1ylGXWfqRZ9TlyOZOQZQxA) | 3:41 |
+| 18 | [My Love](https://open.spotify.com/track/34BOFpRdhkmFsVu2yUAgMY) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [My Love](https://open.spotify.com/album/5SQVlmRmuP89gnW6c12bfQ) | 3:23 |
+| 19 | [Ancestors](https://open.spotify.com/track/4dxgtby0I8aUiN46PaxwIH) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Tripping Over Time](https://open.spotify.com/album/0Qv7CQ2vU9vcUqqcODFs4i) | 2:56 |
 | 20 | [Not Enough](https://open.spotify.com/track/59VWVBr0dMHL5JQTnYVC7m) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Not Enough](https://open.spotify.com/album/75KlvQHAuditOEGyQShRiL) | 3:21 |
 | 21 | [Bloodline](https://open.spotify.com/track/40ZNzxRpzGOnLw0ylcVueQ) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 3:00 |
 | 22 | [Solitaire \(for Madi\)](https://open.spotify.com/track/4ctqa7c5W5pUzfSWa9vAAN) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Portraits](https://open.spotify.com/album/1I7eDiRLvNzAWqgMl1Wux3) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 99 | [First Breath](https://open.spotify.com/track/318w7tTXrLWyNBFokyumUh) | [Tully John & Liza\-Jane](https://open.spotify.com/artist/1hENmUFTXkckLPb7sF16nV) | [First Breath](https://open.spotify.com/album/5BM8EIcNMdIpzd5of7jR7Q) | 6:11 |
 | 100 | [To The Sea](https://open.spotify.com/track/59xuMjR7wd72Is5LUc9cUn) | [Jesse Taylor](https://open.spotify.com/artist/1xHNZLqKxllolDgthwlYbW) | [To The Sea](https://open.spotify.com/album/6cap09cFRHQ5H24rxhDSEN) | 2:31 |
 
-Snapshot ID: `AAAAALLRdRCEQA10tGhQlw4Z9Luj2PJ9`
+Snapshot ID: `AAAAAORCy+4QI1zy8rBNHKRvxobevM1y`

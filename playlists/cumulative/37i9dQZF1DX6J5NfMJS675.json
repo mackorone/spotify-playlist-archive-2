@@ -121,6 +121,28 @@
     },
     {
       "album": {
+        "name": "303 Beams",
+        "url": "https://open.spotify.com/album/0AWWqP75c3HE3WgB9bjx6y"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Mattia Trani",
+          "url": "https://open.spotify.com/artist/0eQjVfBtEcSZ16oAq0V4mk"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "303 Beams",
+      "url": "https://open.spotify.com/track/45ijtuoESaAG8RkTY7npbo"
+    },
+    {
+      "album": {
         "name": "303 State",
         "url": "https://open.spotify.com/album/2Rk7WeMa2O3KhtTlKbg4vH"
       },
@@ -194,6 +216,28 @@
       "duration_ms": 396623,
       "name": "6 or 7",
       "url": "https://open.spotify.com/track/4Fr5MFYR0dg4Qdt281ElYP"
+    },
+    {
+      "album": {
+        "name": "600 Degrees",
+        "url": "https://open.spotify.com/album/1iKcGN0r8ME0BChC4VX5Gq"
+      },
+      "artists": [
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        },
+        {
+          "name": "DeLorean Black",
+          "url": "https://open.spotify.com/artist/4plo7rEUdfyIE3Vfjw07qH"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205893,
+      "name": "600 Degrees",
+      "url": "https://open.spotify.com/track/7kgGQ0mASiY6dLks30cUY5"
     },
     {
       "album": {
@@ -438,7 +482,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 238195,
       "name": "Acid Fire",
       "url": "https://open.spotify.com/track/1QHTjXPnZ9gyPMFRXjQYSS"
@@ -1388,7 +1432,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 286400,
       "name": "Analogue Jam",
       "url": "https://open.spotify.com/track/7zzuyddqn7EK7msWaTgcp0"
@@ -5859,6 +5903,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Mess With Us",
+        "url": "https://open.spotify.com/album/2v0hdlwY4ZlfWy4uDkHGAZ"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Kaufmann (DE)",
+          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403384,
+      "name": "Don\u2019t Mess With Us",
+      "url": "https://open.spotify.com/track/7aYuudVpLDpY3d3I4YoXUQ"
+    },
+    {
+      "album": {
         "name": "Dooms Night",
         "url": "https://open.spotify.com/album/1gXOorzuKBK9WnfX7AU5wc"
       },
@@ -8142,7 +8208,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 238222,
       "name": "Forsaken",
       "url": "https://open.spotify.com/track/0wwg3hxmNMX2askrmogOb8"
@@ -9072,7 +9138,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 156555,
       "name": "Gog",
       "url": "https://open.spotify.com/track/5MlM3x87qf1h3kDhwMX6O7"
@@ -9990,7 +10056,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 204554,
       "name": "Hyena - Hertz Remix",
       "url": "https://open.spotify.com/track/3DwwfjpCj8COT3WxcFBhxe"
@@ -13560,7 +13626,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 303428,
       "name": "Moneypulated",
       "url": "https://open.spotify.com/track/0WzqpQOonA6SdSKrUMKA73"
@@ -15379,6 +15445,32 @@
     },
     {
       "album": {
+        "name": "One Reason",
+        "url": "https://open.spotify.com/album/0g9RmIKOLej4A9IkiRgeIg"
+      },
+      "artists": [
+        {
+          "name": "THOMM",
+          "url": "https://open.spotify.com/artist/5dYTI0a9mTwRdRD4IWZh7L"
+        },
+        {
+          "name": "Charlie Sparks (UK)",
+          "url": "https://open.spotify.com/artist/1lsjQdGrRe2D1nmvCVB7JZ"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197600,
+      "name": "One Reason",
+      "url": "https://open.spotify.com/track/2NYA4tspSM9YuGMwY7KElC"
+    },
+    {
+      "album": {
         "name": "Ooh!",
         "url": "https://open.spotify.com/album/2rvw3jcPrxuHflauUIEq1S"
       },
@@ -15749,6 +15841,28 @@
     },
     {
       "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/2KBR6OgT4ggiFf6ByE8opJ"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        },
+        {
+          "name": "Thomas Schumacher",
+          "url": "https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373333,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/1Z6ATl1884bjW8hl2cSFWR"
+    },
+    {
+      "album": {
         "name": "Kyd\u00e0ios EP",
         "url": "https://open.spotify.com/album/3ByGVPeiGEBt947mFOZO4X"
       },
@@ -15948,7 +16062,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 218486,
       "name": "People Are Strange",
       "url": "https://open.spotify.com/track/1JZTOdIWnFFeAcJf0k7nYL"
@@ -16611,6 +16725,28 @@
     },
     {
       "album": {
+        "name": "Proton",
+        "url": "https://open.spotify.com/album/3jzdQpVYQqHgfFbyYm5Pub"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Proton",
+      "url": "https://open.spotify.com/track/2AzAamWZi47Fv7nds8h7AM"
+    },
+    {
+      "album": {
         "name": "PSYCHO",
         "url": "https://open.spotify.com/album/1OUjnvnnTKS7ShEuPSQlCt"
       },
@@ -17012,7 +17148,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 154153,
       "name": "Rave Alarm",
       "url": "https://open.spotify.com/track/5UFM1gAWd2ePfsQU8w6RwW"
@@ -18132,7 +18268,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 173202,
       "name": "Roll with Me",
       "url": "https://open.spotify.com/track/25QshgtHhkRXbNVh16hkkm"
@@ -20919,6 +21055,28 @@
     },
     {
       "album": {
+        "name": "That Feeling",
+        "url": "https://open.spotify.com/album/0TGrTxdSuwakTJCpSyX9sB"
+      },
+      "artists": [
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+        },
+        {
+          "name": "Joyhauser",
+          "url": "https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "That Feeling",
+      "url": "https://open.spotify.com/track/7hNcBQYwyWZTfEwSEkV0xw"
+    },
+    {
+      "album": {
         "name": "The Abyss",
         "url": "https://open.spotify.com/album/2qqXh9MaZzgaGfw4PCGtOS"
       },
@@ -22371,6 +22529,24 @@
     },
     {
       "album": {
+        "name": "Extrasenso 002",
+        "url": "https://open.spotify.com/album/3H9GMgvEFAWxtxlEPEoBtD"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Delle Piane",
+          "url": "https://open.spotify.com/artist/0mhZ5SNHguOsD6Yiu69pdL"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236712,
+      "name": "Torsion - Original Mix",
+      "url": "https://open.spotify.com/track/7KzSp4KdOW0P4jAbbncdPO"
+    },
+    {
+      "album": {
         "name": "Toter Schmetterling",
         "url": "https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2"
       },
@@ -23161,6 +23337,24 @@
     },
     {
       "album": {
+        "name": "Velocity",
+        "url": "https://open.spotify.com/album/1VUjdKrunLNhIRVKBe6hmp"
+      },
+      "artists": [
+        {
+          "name": "YellowHeads",
+          "url": "https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328238,
+      "name": "Velocity - Peak Mode Mix",
+      "url": "https://open.spotify.com/track/6h0fbanGJd97WLp7J4FAo3"
+    },
+    {
+      "album": {
         "name": "Venezia",
         "url": "https://open.spotify.com/album/2FUWJ7gqHGihl19vdlxjuy"
       },
@@ -23382,6 +23576,28 @@
       "duration_ms": 444100,
       "name": "Visual Distortion",
       "url": "https://open.spotify.com/track/3JnIp5smGpZoBZ1KKx7rb9"
+    },
+    {
+      "album": {
+        "name": "Vixen",
+        "url": "https://open.spotify.com/album/7Lin2GhHvsA8hgbspJCvAC"
+      },
+      "artists": [
+        {
+          "name": "Daxson",
+          "url": "https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "Vixen",
+      "url": "https://open.spotify.com/track/0spnMEFDuWTQRTsI941Q5n"
     },
     {
       "album": {
@@ -23898,7 +24114,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 229411,
       "name": "What We Say - Radio-Edit",
       "url": "https://open.spotify.com/track/1xr9eRb1UFwebKKdXSrVOk"

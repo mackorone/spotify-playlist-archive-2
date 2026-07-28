@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1074745,
+  "num_followers": 1074659,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Howl",
-        "url": "https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj"
-      },
-      "artists": [
-        {
-          "name": "The Bones of J.R. Jones",
-          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "Howl",
-      "url": "https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Strawberry",
         "url": "https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 189200,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "Howl",
+      "url": "https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "Precious Days",
-        "url": "https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC"
-      },
-      "artists": [
-        {
-          "name": "Forest Sun",
-          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
-        }
-      ],
-      "duration_ms": 165829,
-      "name": "Precious Days",
-      "url": "https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "always you",
         "url": "https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 188799,
       "name": "always you",
       "url": "https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "Precious Days",
+        "url": "https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "duration_ms": 165829,
+      "name": "Precious Days",
+      "url": "https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68"
     },
     {
       "added_at": "2024-08-23 14:59:54",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-08-23 14:59:54",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Jealous Sun",
-      "url": "https://open.spotify.com/track/70wMwfp8wAqaxip65R8Hkf"
-    },
-    {
-      "added_at": "2024-08-23 14:59:54",
-      "album": {
         "name": "Nervous At Night",
         "url": "https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 187133,
       "name": "Planet With Water",
       "url": "https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp"
+    },
+    {
+      "added_at": "2024-08-23 14:59:54",
+      "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 158306,
+      "name": "Jealous Sun",
+      "url": "https://open.spotify.com/track/70wMwfp8wAqaxip65R8Hkf"
     },
     {
       "added_at": "2024-08-23 14:59:54",

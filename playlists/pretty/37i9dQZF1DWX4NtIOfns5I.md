@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > meet renny conti 💌
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,144 likes - 119 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,182 likes - 119 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

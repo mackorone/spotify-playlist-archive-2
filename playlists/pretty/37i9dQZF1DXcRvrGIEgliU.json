@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 18589,
+  "num_followers": 18610,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Lamhey",
+        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
+      },
+      "artists": [
+        {
+          "name": "Anubha Bajaj",
+          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
+        }
+      ],
+      "duration_ms": 148966,
+      "name": "Lamhey",
+      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Robin Hood",
         "url": "https://open.spotify.com/album/0mVaxvFtKPMSLCNmyEmh6l"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 150186,
       "name": "Fuckthepopulation",
       "url": "https://open.spotify.com/track/0XfsT6rbC7myipngFhWa9T"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Lamhey",
-        "url": "https://open.spotify.com/album/1jZWNePo4dPSElLKJ0I2zA"
-      },
-      "artists": [
-        {
-          "name": "Anubha Bajaj",
-          "url": "https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H"
-        }
-      ],
-      "duration_ms": 148966,
-      "name": "Lamhey",
-      "url": "https://open.spotify.com/track/5Z2GQ0eBKoatNYqbGayihP"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Twenties",
         "url": "https://open.spotify.com/album/4PMJ1YwlsWRJYCxr1S8LX9"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 226153,
       "name": "Sweet (feat. Landon Sears)",
       "url": "https://open.spotify.com/track/3IPBftcOHWxzLFyH5svvnY"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "fishmonger",
-        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Second hand embarrassment",
-      "url": "https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Can't Hide",
         "url": "https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 184000,
       "name": "Can't Hide",
       "url": "https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "fishmonger",
+        "url": "https://open.spotify.com/album/5o9aTepLhqQL2gXuKPhd8g"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Second hand embarrassment",
+      "url": "https://open.spotify.com/track/1PEPcLm2QEo0HCRIhQjPq1"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Shotta Flow 2",
+        "url": "https://open.spotify.com/album/1FxcC9sPtPHDs7EW5m8ji2"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 132986,
+      "name": "Shotta Flow 2",
+      "url": "https://open.spotify.com/track/26X0iVtpSOySWPTcQAc5ul"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Midnight Snack",
         "url": "https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 227231,
       "name": "Midnight Snack",
       "url": "https://open.spotify.com/track/3e6ysBefdwwkpdA7ciaN5i"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Shotta Flow 2",
-        "url": "https://open.spotify.com/album/1FxcC9sPtPHDs7EW5m8ji2"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 132986,
-      "name": "Shotta Flow 2",
-      "url": "https://open.spotify.com/track/26X0iVtpSOySWPTcQAc5ul"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 190249,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "34Corine",
         "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
       },
@@ -2467,18 +2451,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Daughter Of The Sun",
-        "url": "https://open.spotify.com/album/2vyy1M855VK7gP1yQF6AbS"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0x6S6Ym4obKr2dz23OvDyd"
       },
       "artists": [
         {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
         }
       ],
-      "duration_ms": 237473,
-      "name": "Daughter Of The Sun",
-      "url": "https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B"
+      "duration_ms": 190249,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2499,6 +2483,22 @@
       "duration_ms": 129429,
       "name": "Pound Town",
       "url": "https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Daughter Of The Sun",
+        "url": "https://open.spotify.com/album/2vyy1M855VK7gP1yQF6AbS"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 237473,
+      "name": "Daughter Of The Sun",
+      "url": "https://open.spotify.com/track/07x5IGHde3C9DdVGojqG5B"
     }
   ],
   "unique_name": "10 Years of Fresh Finds",

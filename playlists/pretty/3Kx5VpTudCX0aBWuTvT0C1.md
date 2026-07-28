@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,969 likes - 82 songs - 4 hr 57 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,971 likes - 83 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 80 | [Backseat Polaroids](https://open.spotify.com/track/1JriHYTjpwdbG5UAH0RKHU) | [The Nightfall](https://open.spotify.com/artist/1SImrCTeQXeP3b7ZQ5ODKo) | [Backseat Polaroids](https://open.spotify.com/album/245ZhCG2h6slLxHhvgniyh) | 3:31 |
 | 81 | [WishaBich Woods \- Full Band Version](https://open.spotify.com/track/3sW1sOM2N6XI2TCvnZN0JK) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [WishaBich Woods \(Full Band Version\)](https://open.spotify.com/album/57O0Tb7laMbm0lPz9lAEy0) | 4:03 |
 | 82 | [INSTINTOS](https://open.spotify.com/track/2dz1D6WQn8nZUVCxVuftas) | [REGIO](https://open.spotify.com/artist/0s0flUIzQsZF0HKCrqX2xL) | [INSTINTOS](https://open.spotify.com/album/5qA7tHnprPBLmki6WXQKk9) | 4:22 |
+| 83 | [Almost](https://open.spotify.com/track/2or6CHW3WWgqVF661h1FsO) | [Claire Hack](https://open.spotify.com/artist/7pqmpRMNXCv6dEKPHWdPMT) | [Almost](https://open.spotify.com/album/3f29YZftbtG4RrmTe7fVLn) | 3:33 |
 
-Snapshot ID: `AAACxuc7Kp9mKkV3IqPhKT720fn6m7E1`
+Snapshot ID: `AAACx3qInLbrbcQrsugfCyC3IUzsAgOz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,235 likes - 461 songs - 22 hr 33 min
+[kiara](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,236 likes - 462 songs - 22 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -469,5 +469,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 459 | [So Long](https://open.spotify.com/track/2MgaMXXCn8RxNDcQnaRO3h) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [So Long](https://open.spotify.com/album/6UckHp9kYhvgynn2zSjXuz) | 4:15 |
 | 460 | [what the](https://open.spotify.com/track/6QY4EGyvY1sKaIUEJAk00e) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [what the](https://open.spotify.com/album/5oJwI2DMsXCCq0tiinA843) | 1:53 |
 | 461 | [Just a Little Better](https://open.spotify.com/track/13jSiZCcJYHaBYUWYdc637) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Forgive Me Please](https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7) | 3:08 |
+| 462 | [King of the sparks](https://open.spotify.com/track/3XirwekeRGUrmDXwbIs1KK) | [Michel Jussiau](https://open.spotify.com/artist/659RSDprKSvbBjZSpdi2h7) | [Special effects](https://open.spotify.com/album/1kGMuFPK5ukv5f0j0ZzmiT) | 2:31 |
 
-Snapshot ID: `AAAB5rTreSS6lXV7iE7Gr4WA+fFHWkfT`
+Snapshot ID: `AAAB5/KQah1jQ+pMmuTXRYXE/nW5HQYQ`

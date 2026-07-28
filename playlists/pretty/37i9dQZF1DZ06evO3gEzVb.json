@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAABR3THV0FEBf7nf6egtqFQ5",
+  "snapshot_id": "amVOAAAAAACHfv+pL0TOrtUPswHx8xKg",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obi Ate Meso Buo",
-        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "Ankwanoma",
-      "url": "https://open.spotify.com/track/4zebbqA9c1EGg2sj54PEYB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awarepa Ye Anibre",
         "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 327906,
       "name": "Enti Se Adee Ankye Me'a",
       "url": "https://open.spotify.com/track/0JgBTw4N6Amg1CHI4pp15k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obi Ate Meso Buo",
+        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "Ankwanoma",
+      "url": "https://open.spotify.com/track/4zebbqA9c1EGg2sj54PEYB"
     },
     {
       "added_at": null,
@@ -407,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classic Tunes of Daddy Lumba",
-        "url": "https://open.spotify.com/album/7pxS9bxhwlDoeBGigJqBay"
+        "name": "Awarepa Ye Anibre",
+        "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 329133,
-      "name": "Sika Asem",
-      "url": "https://open.spotify.com/track/5ppx88DqziFPGV3qucuwxK"
+      "duration_ms": 372840,
+      "name": "Eye N'adom",
+      "url": "https://open.spotify.com/track/60ABB1dCbHvUFNSDJfuV9Q"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awarepa Ye Anibre",
-        "url": "https://open.spotify.com/album/7Ld47eF2icOZ6c9hJrbZo2"
+        "name": "Classic Tunes of Daddy Lumba",
+        "url": "https://open.spotify.com/album/7pxS9bxhwlDoeBGigJqBay"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 372840,
-      "name": "Eye N'adom",
-      "url": "https://open.spotify.com/track/60ABB1dCbHvUFNSDJfuV9Q"
+      "duration_ms": 329133,
+      "name": "Sika Asem",
+      "url": "https://open.spotify.com/track/5ppx88DqziFPGV3qucuwxK"
     },
     {
       "added_at": null,
@@ -515,38 +515,6 @@
       "duration_ms": 371453,
       "name": "Enye Nyame Den",
       "url": "https://open.spotify.com/track/3kzWyIfre7bl5jbZ86xKLc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back for Good",
-        "url": "https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "Eye Onoa",
-      "url": "https://open.spotify.com/track/20gvKF0b1OWTG2IPcygA9h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesee Wo Se",
-        "url": "https://open.spotify.com/album/3OXL5uXWzMUyayoGZKkeBM"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 317701,
-      "name": "Anidaso Woho Ma Obiara",
-      "url": "https://open.spotify.com/track/3foSzTyAH65I38QAUl3GQs"
     },
     {
       "added_at": null,
@@ -616,29 +584,25 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 386089,
-      "name": "S\u025bsee Wo Se",
-      "url": "https://open.spotify.com/track/3bm3TifQ8suct6OfRd0lJM"
+      "duration_ms": 317701,
+      "name": "Anidaso Woho Ma Obiara",
+      "url": "https://open.spotify.com/track/3foSzTyAH65I38QAUl3GQs"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Yee Ye Aka Akwantuom",
-        "url": "https://open.spotify.com/album/5B9l9CRF3kEvH2kQ8qySLP"
+        "name": "Back for Good",
+        "url": "https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX"
       },
       "artists": [
         {
           "name": "Daddy Lumba",
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        },
-        {
-          "name": "Nana Acheampong",
-          "url": "https://open.spotify.com/artist/4cXlKyzDbtIT2IXX4zcHN1"
         }
       ],
-      "duration_ms": 611108,
-      "name": "Yee Ye Aka Akwantuom",
-      "url": "https://open.spotify.com/track/5GuGQomjgvLo9gIM8ZWP40"
+      "duration_ms": 269893,
+      "name": "Eye Onoa",
+      "url": "https://open.spotify.com/track/20gvKF0b1OWTG2IPcygA9h"
     },
     {
       "added_at": null,
@@ -679,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aben Wo Aha",
-        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
+        "name": "Sesee Wo Se",
+        "url": "https://open.spotify.com/album/3OXL5uXWzMUyayoGZKkeBM"
       },
       "artists": [
         {
@@ -688,9 +652,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 330730,
-      "name": "Nyame Nhyira Mmaa",
-      "url": "https://open.spotify.com/track/3av5ImdM6r2kZjECEy1BJP"
+      "duration_ms": 386089,
+      "name": "S\u025bsee Wo Se",
+      "url": "https://open.spotify.com/track/3bm3TifQ8suct6OfRd0lJM"
     },
     {
       "added_at": null,
@@ -747,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yee Ye Aka Akwantuom",
+        "url": "https://open.spotify.com/album/5B9l9CRF3kEvH2kQ8qySLP"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        },
+        {
+          "name": "Nana Acheampong",
+          "url": "https://open.spotify.com/artist/4cXlKyzDbtIT2IXX4zcHN1"
+        }
+      ],
+      "duration_ms": 611108,
+      "name": "Yee Ye Aka Akwantuom",
+      "url": "https://open.spotify.com/track/5GuGQomjgvLo9gIM8ZWP40"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aben Wo Aha",
         "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
       },
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 308106,
-      "name": "Fakye",
-      "url": "https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT"
+      "duration_ms": 330730,
+      "name": "Nyame Nhyira Mmaa",
+      "url": "https://open.spotify.com/track/3av5ImdM6r2kZjECEy1BJP"
     },
     {
       "added_at": null,
@@ -812,9 +796,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 383346,
-      "name": "Hye Woho Den",
-      "url": "https://open.spotify.com/track/5cZx8lSVEsibdjbsy5iUFM"
+      "duration_ms": 308106,
+      "name": "Fakye",
+      "url": "https://open.spotify.com/track/03bhHIE1TyZag5a671BKiT"
     },
     {
       "added_at": null,
@@ -831,6 +815,22 @@
       "duration_ms": 355840,
       "name": "Back For Good",
       "url": "https://open.spotify.com/track/5MyI2UKJhYFJsWMjjjUuuk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aben Wo Aha",
+        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 383346,
+      "name": "Hye Woho Den",
+      "url": "https://open.spotify.com/track/5cZx8lSVEsibdjbsy5iUFM"
     }
   ],
   "unique_name": "This Is Daddy Lumba",

@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 145545,
+  "num_followers": 145562,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAABQL08S6A84TqUtoRCpectM",
+  "snapshot_id": "amVOAAAAAABdUDHvhfeTxCo2Q6WpQbuL",
   "tracks": [
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Children of the Grave",
+        "url": "https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 287780,
+      "name": "Children of the Grave",
+      "url": "https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Floods of Triton",
         "url": "https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 269583,
       "name": "Floods of Triton",
       "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Children of the Grave",
-        "url": "https://open.spotify.com/album/2josSbpUs4UMzSoCVcXRau"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 287780,
-      "name": "Children of the Grave",
-      "url": "https://open.spotify.com/track/5pdb4UFAWnuiepRAyAUvsd"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 126423,
+  "num_followers": 126445,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
+      },
+      "artists": [
+        {
+          "name": "Bossk",
+          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "White Stork",
+      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Forgotten Light",
         "url": "https://open.spotify.com/album/79wYMiI8DcvwFdCrhh7NsM"
       },
@@ -687,18 +703,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2jkfppW61KLmzyFEYLym63"
+        "name": "Looking at the World Through a Window",
+        "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
       },
       "artists": [
         {
-          "name": "Bossk",
-          "url": "https://open.spotify.com/artist/6KPlPSPeF5BndJ7P888uSh"
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
         }
       ],
-      "duration_ms": 355506,
-      "name": "White Stork",
-      "url": "https://open.spotify.com/track/2fC4TDzOjxfz8PDgCrDExM"
+      "duration_ms": 385000,
+      "name": "Looking at the World Through a Window",
+      "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -715,22 +731,6 @@
       "duration_ms": 209115,
       "name": "Release",
       "url": "https://open.spotify.com/track/1UmB2g2Ibz7E7OltVQuJcq"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Looking at the World Through a Window",
-        "url": "https://open.spotify.com/album/5uSadjfUdEaWhB1zs4m3TQ"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 385000,
-      "name": "Looking at the World Through a Window",
-      "url": "https://open.spotify.com/track/1bsSaYmy0vOUH8tux2hAYV"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Blowback",
-        "url": "https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5"
-      },
-      "artists": [
-        {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
-        }
-      ],
-      "duration_ms": 309200,
-      "name": "Blowback - Edit",
-      "url": "https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Dust Bowl",
         "url": "https://open.spotify.com/album/7JdA2JLTWnDf0IQfqALmN5"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Blowback",
+        "url": "https://open.spotify.com/album/7qalD6mlYYh5lFxaEQ5qS5"
+      },
+      "artists": [
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "duration_ms": 309200,
+      "name": "Blowback - Edit",
+      "url": "https://open.spotify.com/track/4sARF0lHRj1dnK7twhxSJy"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "VIII",
         "url": "https://open.spotify.com/album/4GZGWKhIii0zxZZWOnBQB5"
       },
@@ -911,26 +911,6 @@
       "duration_ms": 123000,
       "name": "VIII",
       "url": "https://open.spotify.com/track/5iucxdKLbKZG3Q5KbjQpBK"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Farewell, Stars (The American Dollar Rework)",
-        "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
-      },
-      "artists": [
-        {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        },
-        {
-          "name": "The American Dollar",
-          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
-        }
-      ],
-      "duration_ms": 228973,
-      "name": "Farewell, Stars - The American Dollar Rework",
-      "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -951,6 +931,26 @@
       "duration_ms": 254000,
       "name": "Keep The Orange Sun",
       "url": "https://open.spotify.com/track/40rVSnon5rqxnNbZoyMwWG"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Farewell, Stars (The American Dollar Rework)",
+        "url": "https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW"
+      },
+      "artists": [
+        {
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        },
+        {
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
+        }
+      ],
+      "duration_ms": 228973,
+      "name": "Farewell, Stars - The American Dollar Rework",
+      "url": "https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "The American Dollar",
-        "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
-      },
-      "artists": [
-        {
-          "name": "The American Dollar",
-          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
-        }
-      ],
-      "duration_ms": 199813,
-      "name": "Peterson",
-      "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "I Dreamt Our Whole City Burned",
         "url": "https://open.spotify.com/album/2pI6eAuMCPZAT8czjR02RN"
       },
@@ -1135,18 +1119,18 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Dragoon",
-        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
+        "name": "The American Dollar",
+        "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
       },
       "artists": [
         {
-          "name": "Amparo",
-          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
+          "name": "The American Dollar",
+          "url": "https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb"
         }
       ],
-      "duration_ms": 183050,
-      "name": "Dragoon",
-      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
+      "duration_ms": 199813,
+      "name": "Peterson",
+      "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1163,6 +1147,22 @@
       "duration_ms": 279197,
       "name": "(not) alone",
       "url": "https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Dragoon",
+        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
+      },
+      "artists": [
+        {
+          "name": "Amparo",
+          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Dragoon",
+      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1295,6 +1295,26 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
+        "name": "Lifelike",
+        "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
+      },
+      "artists": [
+        {
+          "name": "Amulets",
+          "url": "https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt"
+        },
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "duration_ms": 278067,
+      "name": "Lifelike",
+      "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
         "name": "Momentary Ghosts",
         "url": "https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI"
       },
@@ -1331,26 +1351,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Lifelike",
-        "url": "https://open.spotify.com/album/3I0Vuo5qaEIKB5OL6KIIRL"
-      },
-      "artists": [
-        {
-          "name": "Amulets",
-          "url": "https://open.spotify.com/artist/5e96t65iOLrmqH2gzEXhIt"
-        },
-        {
-          "name": "Midwife",
-          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
-        }
-      ],
-      "duration_ms": 278067,
-      "name": "Lifelike",
-      "url": "https://open.spotify.com/track/0YODMi7BpALFBJFGeydCDN"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Hy-Brasil",
         "url": "https://open.spotify.com/album/4t9ezLYdrfdwL042DhSPVI"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 232026,
       "name": "Back To Dangerous",
       "url": "https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "A Place to Breathe",
+        "url": "https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ"
+      },
+      "artists": [
+        {
+          "name": "Lumestria",
+          "url": "https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "A Place to Breathe",
+      "url": "https://open.spotify.com/track/6buddStONGyZPOSDaYODVU"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1419,22 +1435,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "A Place to Breathe",
-        "url": "https://open.spotify.com/album/1MfQ1WJQ5IihFUkqusIgxQ"
-      },
-      "artists": [
-        {
-          "name": "Lumestria",
-          "url": "https://open.spotify.com/artist/2EgAcyKbKswfRo9sHGG3xC"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "A Place to Breathe",
-      "url": "https://open.spotify.com/track/6buddStONGyZPOSDaYODVU"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Next Level",
         "url": "https://open.spotify.com/album/730ZiEFjOgwMKmcluqeOpu"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 214000,
       "name": "Next Level",
       "url": "https://open.spotify.com/track/25g05W1gVEUtF6BRMEZYMK"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
-        "name": "Bloom II",
-        "url": "https://open.spotify.com/album/7qVGmNKYVBhK566xhc6Z0C"
-      },
-      "artists": [
-        {
-          "name": "Lights & Motion",
-          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "Live This Moment",
-      "url": "https://open.spotify.com/track/471MksSg1ykR0CrI6ydcQQ"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1487,22 +1471,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
-      },
-      "artists": [
-        {
-          "name": "McLarnan",
-          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
-        }
-      ],
-      "duration_ms": 420330,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "Cura",
         "url": "https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU"
       },
@@ -1515,6 +1483,38 @@
       "duration_ms": 439449,
       "name": "Cura",
       "url": "https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Bloom II",
+        "url": "https://open.spotify.com/album/7qVGmNKYVBhK566xhc6Z0C"
+      },
+      "artists": [
+        {
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Live This Moment",
+      "url": "https://open.spotify.com/track/471MksSg1ykR0CrI6ydcQQ"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/442jVeJ7yvYb1EiTcrKc7f"
+      },
+      "artists": [
+        {
+          "name": "McLarnan",
+          "url": "https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt"
+        }
+      ],
+      "duration_ms": 420330,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/5d24GkUJLwNLhmWC0MYNQP"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "Chronos",
-        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
-      },
-      "artists": [
-        {
-          "name": "Ausklang",
-          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
-        }
-      ],
-      "duration_ms": 355360,
-      "name": "Abschied",
-      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "growing up",
         "url": "https://open.spotify.com/album/4pvgtTIF9WIWyvtUs3AD2y"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 157755,
       "name": "growing up",
       "url": "https://open.spotify.com/track/3PWVoUzYBlcHDlAgR0Zz5d"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "Chronos",
+        "url": "https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn"
+      },
+      "artists": [
+        {
+          "name": "Ausklang",
+          "url": "https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z"
+        }
+      ],
+      "duration_ms": 355360,
+      "name": "Abschied",
+      "url": "https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy"
     },
     {
       "added_at": "2026-05-29 04:00:33",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-05-29 04:00:33",
       "album": {
-        "name": "No Clearings, No Wide Open Fields",
-        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
-      },
-      "artists": [
-        {
-          "name": "Floor Overhead",
-          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
-        }
-      ],
-      "duration_ms": 367717,
-      "name": "No Clearings, No Wide Open Fields",
-      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
-    },
-    {
-      "added_at": "2026-05-29 04:00:33",
-      "album": {
         "name": "In a Sad Red Dusk, We Were Finally Leaving",
         "url": "https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 318240,
       "name": "Secret Colours",
       "url": "https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA"
+    },
+    {
+      "added_at": "2026-05-29 04:00:33",
+      "album": {
+        "name": "No Clearings, No Wide Open Fields",
+        "url": "https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4"
+      },
+      "artists": [
+        {
+          "name": "Floor Overhead",
+          "url": "https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9"
+        }
+      ],
+      "duration_ms": 367717,
+      "name": "No Clearings, No Wide Open Fields",
+      "url": "https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W"
     },
     {
       "added_at": "2026-05-29 04:00:33",

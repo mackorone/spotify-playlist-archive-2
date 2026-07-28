@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! July ambassador: <a href="spotify:artist:7c4xb6WHJ6NhTQqgTQnbDN">IDA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,324 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,325 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 42 | [The In\-Between](https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF) | [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [The In\-Between](https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok) | 2:45 |
 | 43 | [Would I Be Friends With Me?](https://open.spotify.com/track/2j6JmvPcRQiQtF567Oii1N) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Would I Be Friends With Me?](https://open.spotify.com/album/0ADozcAmX6ng2S5tv5OBYL) | 3:18 |
 | 44 | [Dans Je Toch Met Mij](https://open.spotify.com/track/7bxx1OY6p8RqPkpDLa7FEc) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Dans Je Toch Met Mij](https://open.spotify.com/album/26b69aI5w4vQcWwpmIQOin) | 2:56 |
-| 45 | [Wat Is Love](https://open.spotify.com/track/0zYfoEJDSDdZM6fJWH14zH) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf) | [Wat Is Love](https://open.spotify.com/album/0tl1OWmcKTLB3we3VrEa1J) | 2:07 |
-| 46 | [ALLE JONGENS ZIJN GEMEEN TEGEN MIJ](https://open.spotify.com/track/6NRhEDvT2WpJhW59Jz1a9j) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [ALLE JONGENS ZIJN GEMEEN TEGEN MIJ](https://open.spotify.com/album/54tymMCKb16zvTx7YvLrro) | 2:42 |
-| 47 | [The End of The Beginning \(feat\. philine\)](https://open.spotify.com/track/4r31nl7vyzEo0xWseEKP5R) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC), [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [The End of The Beginning \(feat\. philine\)](https://open.spotify.com/album/1BR7R76AaVfEr9lJmXr7Yv) | 3:19 |
-| 48 | [Thoughts](https://open.spotify.com/track/5TimVS2mjlTKSkmkB4BGfk) | [Janet Livv](https://open.spotify.com/artist/4kbrRWBDBTf1g4waN4fg6n) | [Underthink It](https://open.spotify.com/album/1HRvuPg7XXwWmaRATNKk0B) | 2:30 |
-| 49 | [Figure Me Out](https://open.spotify.com/track/09c2a3vT1KBsbROet7Nxxm) | [Julia Adriana](https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc) | [Figure Me Out](https://open.spotify.com/album/44DxmrynYCH8Q76eKyatBb) | 2:46 |
+| 45 | [Figure Me Out](https://open.spotify.com/track/09c2a3vT1KBsbROet7Nxxm) | [Julia Adriana](https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc) | [Figure Me Out](https://open.spotify.com/album/44DxmrynYCH8Q76eKyatBb) | 2:46 |
+| 46 | [Wat Is Love](https://open.spotify.com/track/0zYfoEJDSDdZM6fJWH14zH) | [I am Aisha](https://open.spotify.com/artist/1fTPAgBH6gCQZU9bBWVaOf) | [Wat Is Love](https://open.spotify.com/album/0tl1OWmcKTLB3we3VrEa1J) | 2:07 |
+| 47 | [ALLE JONGENS ZIJN GEMEEN TEGEN MIJ](https://open.spotify.com/track/6NRhEDvT2WpJhW59Jz1a9j) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp) | [ALLE JONGENS ZIJN GEMEEN TEGEN MIJ](https://open.spotify.com/album/54tymMCKb16zvTx7YvLrro) | 2:42 |
+| 48 | [The End of The Beginning \(feat\. philine\)](https://open.spotify.com/track/4r31nl7vyzEo0xWseEKP5R) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC), [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [The End of The Beginning \(feat\. philine\)](https://open.spotify.com/album/1BR7R76AaVfEr9lJmXr7Yv) | 3:19 |
+| 49 | [Thoughts](https://open.spotify.com/track/5TimVS2mjlTKSkmkB4BGfk) | [Janet Livv](https://open.spotify.com/artist/4kbrRWBDBTf1g4waN4fg6n) | [Underthink It](https://open.spotify.com/album/1HRvuPg7XXwWmaRATNKk0B) | 2:30 |
 | 50 | [Meneer](https://open.spotify.com/track/12WtLEIJActUr28YASWcTu) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [Meneer](https://open.spotify.com/album/5QOXAdATHK2KI67RaGWeAt) | 3:00 |
 | 51 | [Ik Ben Nog Lang Niet Klaar](https://open.spotify.com/track/6WN2QFqYxQOe9uGRb63sg9) | [Imca Marina](https://open.spotify.com/artist/43xjJMxn9QG0jEiBO3Hxe5) | [Ik Ben Nog Lang Niet Klaar](https://open.spotify.com/album/7jHtm1l6HGuqfAF3RmyRD1) | 2:53 |
 | 52 | [Binnensmonds](https://open.spotify.com/track/5qKMHYEUa9DEHFLTtIva4I) | [Roosbeef](https://open.spotify.com/artist/5W6gRzU3M4IpIWjy8D52i5) | [Binnensmonds](https://open.spotify.com/album/43MY2yMCXwwQTW1DAP8VJa) | 3:31 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 55 | [Too Too](https://open.spotify.com/track/6RIxE0QUgwS0HOmZmZJZHT) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Too Too](https://open.spotify.com/album/3aNXMSNOx2HvH0CJ74ZYrh) | 5:01 |
 | 56 | [my name](https://open.spotify.com/track/7tfDCXjWMh14zPhGRqvkEy) | [Zoë Love Smith](https://open.spotify.com/artist/4emTiCvaHi6f9oiK3PhliN), [May](https://open.spotify.com/artist/1qUYX7PH6ubHnoCGWbjEW6) | [my name](https://open.spotify.com/album/4kPA4SkzvnmoEnYRSh8CeR) | 2:52 |
 | 57 | [Written](https://open.spotify.com/track/43ySPwc23wYI4tNjGP85fY) | [Veya](https://open.spotify.com/artist/1BmOO49fZVNsNhWIW1l6nU) | [Written](https://open.spotify.com/album/03kzwN1RhkMW6icnlqnA32) | 3:17 |
-| 58 | [Stories](https://open.spotify.com/track/6O3XtKJnK48VpkADFBlEzG) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5) | [Stories](https://open.spotify.com/album/0E61AtszJGzeIuJ32i4AJs) | 2:59 |
-| 59 | [who will take care of me](https://open.spotify.com/track/2DVqoGkj6syphzQJZJoa48) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [who will take care of me](https://open.spotify.com/album/6VStNRG7Yok8XT0jGTeLay) | 2:17 |
+| 58 | [who will take care of me](https://open.spotify.com/track/2DVqoGkj6syphzQJZJoa48) | [Penny Roox](https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg) | [who will take care of me](https://open.spotify.com/album/6VStNRG7Yok8XT0jGTeLay) | 2:17 |
+| 59 | [Stories](https://open.spotify.com/track/6O3XtKJnK48VpkADFBlEzG) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5) | [Stories](https://open.spotify.com/album/0E61AtszJGzeIuJ32i4AJs) | 2:59 |
 | 60 | [sober heart \(feat\. RUBEN\)](https://open.spotify.com/track/0kBsJDzkJCTmtUiocGXuM9) | [Lisa Ploeger](https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh), [RUBEN](https://open.spotify.com/artist/1YLSWZRz7nViV13nyr5VCg) | [sober heart \(feat\. RUBEN\)](https://open.spotify.com/album/72p122WyrS06ET0AHXltd9) | 3:05 |
 | 61 | [Peace Of Mind](https://open.spotify.com/track/6hdKutCSrVkZclHixR5Lcx) | [MAUDÉ](https://open.spotify.com/artist/0RzoaKMylQNZWq5PBwa6ZI) | [Peace Of Mind](https://open.spotify.com/album/6BrBGDyc3LESUqEGbZeiwr) | 9:14 |
 | 62 | [Call the Shots](https://open.spotify.com/track/70TdYMGzs2t2JrNAe8aL7J) | [Caro](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Call the Shots](https://open.spotify.com/album/3oKsEfDL4uAbtEuLMMeWbZ) | 3:02 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 68 | [Takes A Million](https://open.spotify.com/track/4dJQwHuv4LqCvDqq3zazWt) | [Loïs Lane](https://open.spotify.com/artist/6XtqgoAYl2mXQhn9ZmDEdt) | [Takes A Million](https://open.spotify.com/album/2B8dQZbZ4oPDO7WL1Vu7xd) | 2:56 |
 | 69 | [Picture Perfect](https://open.spotify.com/track/3fFBRFXlWByewZT7yfke8v) | [JEN](https://open.spotify.com/artist/0EZPJDbK2vKYgDisXtBHUY) | [Picture Perfect](https://open.spotify.com/album/5ZpBtBZ9NephAZfbdAAAB2) | 2:23 |
 | 70 | [janken op het feestje](https://open.spotify.com/track/1MfoP5J4OhCNscDzxF9ym5) | [Zoë Low](https://open.spotify.com/artist/7suO7fpI2Z4B1Ok40mvkec) | [janken op het feestje](https://open.spotify.com/album/7Eb2rHgiSr3nKKfeMUBF5l) | 2:39 |
-| 71 | [2012](https://open.spotify.com/track/3XGz4bbUWZs9JlWlM1I5nJ) | [Emma Luca](https://open.spotify.com/artist/3ijcW9QMa7wkBs1ACGpdcs) | [2012](https://open.spotify.com/album/2fzIjZiqaM01BKfhc2ujUg) | 3:02 |
-| 72 | [Alma](https://open.spotify.com/track/2RT0xRtzULmymzIYh2puLl) | [NAÉ](https://open.spotify.com/artist/0EyUhdpBF22OrhzmTd40p5) | [Alma](https://open.spotify.com/album/6KUjgZ5vfFIaH8EHf8AJKG) | 3:46 |
+| 71 | [Alma](https://open.spotify.com/track/2RT0xRtzULmymzIYh2puLl) | [NAÉ](https://open.spotify.com/artist/0EyUhdpBF22OrhzmTd40p5) | [Alma](https://open.spotify.com/album/6KUjgZ5vfFIaH8EHf8AJKG) | 3:46 |
+| 72 | [2012](https://open.spotify.com/track/3XGz4bbUWZs9JlWlM1I5nJ) | [Emma Luca](https://open.spotify.com/artist/3ijcW9QMa7wkBs1ACGpdcs) | [2012](https://open.spotify.com/album/2fzIjZiqaM01BKfhc2ujUg) | 3:02 |
 | 73 | [Hipocresía](https://open.spotify.com/track/11mn5BJM6Gijm5nMNkMheh) | [Julia Sabaté](https://open.spotify.com/artist/31rI390sTNfG8xZmBZ0tgA) | [Hipocresía](https://open.spotify.com/album/1a3nkdffcebavx40DryfRE) | 2:44 |
 | 74 | [Wie de Toekomst Ziet](https://open.spotify.com/track/1F10OG3Y5gyUp6naFTgGFo) | [FRÉ](https://open.spotify.com/artist/7cFNGgU48VYaTwv7lDQVaf) | [Wie de Toekomst Ziet](https://open.spotify.com/album/5vGygvC8xtQhz5woMKvUcF) | 3:18 |
 | 75 | [Vrij Zijn](https://open.spotify.com/track/28crHrMFhSMTrew3C9rJel) | [Josivnne](https://open.spotify.com/artist/0Ab2EGJGbzcueKeHr6xV8k) | [Vrij Zijn](https://open.spotify.com/album/0UJlgGsxJvCfpcR7sO7oRH) | 2:54 |

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Bharat Chauhan,  Pineapple Express, Prateek Harbola and other exciting artists.
 
-1,531 songs - 3 day 12 hr 15 min
+1,532 songs - 3 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,7 +376,7 @@
 | [Don't Cut Me Down](https://open.spotify.com/track/5cphONhhYqXTgIwfhkzvDu) | [Parikrama](https://open.spotify.com/artist/5I6pG3raoZlKYMjgGa6eFn) | [Don't Cut Me Down](https://open.spotify.com/album/5WsE1d5oHfcnihzETt9mRf) | 5:34 | 2024-09-27 | 2024-11-09 |
 | [Don't Even Text](https://open.spotify.com/track/0pMACt1jSBlH8mKdaE1TSv) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Don't Even Text](https://open.spotify.com/album/0pfQ6IPkE1tcpRoBtuDgDb) | 2:59 | 2025-08-29 | 2025-11-14 |
 | [Don't Know Where Else](https://open.spotify.com/track/3cmw6gkiodCtSwnsWhFp39) | [Takar Nabam](https://open.spotify.com/artist/5S4oZfZgjC2YVb7ezLoN0H) | [Don't Know Where Else](https://open.spotify.com/album/7bB7ufqbgTFMxwhUC8Gase) | 3:40 | 2025-11-28 | 2025-12-17 |
-| [Don't Say That](https://open.spotify.com/track/6u6q5bLgJhb04upf8EFhdW) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Don't Say That](https://open.spotify.com/album/5OGHihQglHpyoGmIzZyQRk) | 2:00 | 2026-07-03 |  |
+| [Don't Say That](https://open.spotify.com/track/6u6q5bLgJhb04upf8EFhdW) | [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb) | [Don't Say That](https://open.spotify.com/album/5OGHihQglHpyoGmIzZyQRk) | 2:00 | 2026-07-03 | 2026-07-28 |
 | [Don't Wanna Be](https://open.spotify.com/track/1kHiVVtGYYE5ZhiyvgP399) | [Temsu Clover](https://open.spotify.com/artist/1QZD3yzCgj7qHKqG2eC31g) | [Don't Wanna Be](https://open.spotify.com/album/3u3oBOlUVfy7CT7kfaBhRv) | 3:20 | 2026-01-09 | 2026-03-27 |
 | [Doob Doob\-Doob Raha \- From "Phir Se Rock & Roll"](https://open.spotify.com/track/0FHsCg7VYzXJ1KEtpqh5b6) | [Leslee Lewis](https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV) | [Doob Doob\-Doob Raha \(From "Phir Se Rock & Roll"\)](https://open.spotify.com/album/0v7MKFW2Jb55ELqN5iE2Gf) | 2:47 | 2024-04-05 | 2024-05-18 |
 | [Doob Jaane De](https://open.spotify.com/track/1rYeEKg74fv2vfaQASo665) | [Kunal Pandit](https://open.spotify.com/artist/2X38jO2RYETr4jcb77rAnr) | [Doob Jaane De](https://open.spotify.com/album/3gxJFtWQO3wshwWaQCaaEM) | 4:44 | 2026-01-30 | 2026-04-04 |
@@ -773,6 +773,7 @@
 | [Koi Aur](https://open.spotify.com/track/7J0jyUZ4nHSPorCmKnbiN4) | [Aditya Kalway](https://open.spotify.com/artist/4Bv0svSVwUEjKsuFpxuJBR) | [Koi Aur](https://open.spotify.com/album/57uBg5wffmgGl9ltQcjoRk) | 2:49 | 2023-06-23 | 2023-07-29 |
 | [Koi Matlab Nahi](https://open.spotify.com/track/44UJTphbSUJX2K7Ba6KBtm) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Doie](https://open.spotify.com/artist/61WxZKiXbPoi7rMp1beJf6) | [Koi Matlab Nahi](https://open.spotify.com/album/2VDW1QYt24MvQL92aqP6hM) | 2:57 | 2023-10-13 | 2023-11-25 |
 | [Koi Tumsa Nahi](https://open.spotify.com/track/3eggOTb2ZE0UvLl0U3KFq3) | [Arunima Wali](https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT) | [Koi Tumsa Nahi](https://open.spotify.com/album/4h2uK5D43Q68jiwaQb4Tz0) | 2:54 | 2023-04-14 | 2023-06-24 |
+| [Kone Kone](https://open.spotify.com/track/5QVRcPe3BoLWaoAugb1aRv) | [Ashwini Vocals](https://open.spotify.com/artist/01qu7FisKSgdPhZ77gov1B) | [Kone Kone](https://open.spotify.com/album/2GtHmGNVe6gipd5JHSJqrK) | 2:30 | 2026-07-24 |  |
 | [Koyaliya](https://open.spotify.com/track/6Vv1rS5OeR1NeGoScEilOz) | [Apurva Nisshad](https://open.spotify.com/artist/6tG0yoFntJvbl7fScSJsVQ), [Abhishek Bonthu](https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5), [Pranav Barange](https://open.spotify.com/artist/1XWKVQFj0cr91jLKaz1jHI) | [Koyaliya](https://open.spotify.com/album/1cJt7BpJ2cTCVC7vaH43Af) | 4:18 | 2026-05-08 | 2026-07-25 |
 | [Kuch Na Rahe](https://open.spotify.com/track/5fHW6IdvmeJYzOCXJdWuX8) | [Sanyanth Naroth](https://open.spotify.com/artist/1BwWT5CEluf0Stu2vMG8WR), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Kuch Na Rahe](https://open.spotify.com/album/485QMYuNdZseHm2VOrxuGi) | 3:12 | 2025-08-11 | 2025-11-08 |
 | [Kuch Pal Yahin](https://open.spotify.com/track/6I2m7HjkJpRrkBp8Kah5Lm) | [Anand Bhaskar Collective](https://open.spotify.com/artist/45m11y8OUyx5EgHiKvEC3c) | [Kuch Pal Yahin](https://open.spotify.com/album/3XsFxIsctoljjoiTEwLFi4) | 4:09 | 2025-06-27 | 2025-07-05 |

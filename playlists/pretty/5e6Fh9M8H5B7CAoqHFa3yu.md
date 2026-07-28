@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 346 likes - 2,499 songs - 6 day 3 hr 4 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 346 likes - 2,506 songs - 6 day 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1354,7 +1354,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1344 | [Power Meditation](https://open.spotify.com/track/6DWibdlGGle96CpBdKrhV6) | [Tor.Ma In DuB](https://open.spotify.com/artist/6hJVyOMMo1A3XN8yz8neiy) | [Full Circle](https://open.spotify.com/album/11w3N6BlPCKYZqC394rMOj) | 4:28 |
 | 1345 | [Ride Home](https://open.spotify.com/track/58LpmworkJRhceB2n5AK47) | [Tor.Ma In DuB](https://open.spotify.com/artist/6hJVyOMMo1A3XN8yz8neiy) | [Full Circle](https://open.spotify.com/album/11w3N6BlPCKYZqC394rMOj) | 5:13 |
 | 1346 | [Lights Off](https://open.spotify.com/track/4ZTj4DkrGKYTXU1RsO3NHH) | [Tor.Ma In DuB](https://open.spotify.com/artist/6hJVyOMMo1A3XN8yz8neiy) | [Full Circle](https://open.spotify.com/album/11w3N6BlPCKYZqC394rMOj) | 4:13 |
-| 1347 | [Labiracja](https://open.spotify.com/track/2y2AS19DFQAspmVk73ZkWh) | [Sierpu](https://open.spotify.com/artist/3KMXxgdgbehB8ELRqunraF), [PishOne](https://open.spotify.com/artist/48Sw5IejXQeAJr5WT0eyZ7) | [Labiracja](https://open.spotify.com/album/49TzYyUWz4QCmlxlZXwkrx) | 3:14 |
+| 1347 | [Labiracja](https://open.spotify.com/track/2y2AS19DFQAspmVk73ZkWh) | [Sierpu](https://open.spotify.com/artist/3KMXxgdgbehB8ELRqunraF), [Łukasz Piszczek](https://open.spotify.com/artist/1r8Vw9ItwBujF8wFRrcctX) | [Labiracja](https://open.spotify.com/album/49TzYyUWz4QCmlxlZXwkrx) | 3:14 |
 | 1348 | [Disconec](https://open.spotify.com/track/4rn9AUPDzqJHDNY9HbmhFf) | [Charl´s Tone](https://open.spotify.com/artist/0pmheYtMCd7dDJsAfDEAcn) | [Disconec](https://open.spotify.com/album/0XEzIcN8aIeanM70vNC0iF) | 4:25 |
 | 1349 | [Starborn](https://open.spotify.com/track/1bz4mwUQvk2TOyGMZHr9SR) | [Julia Vasiliev](https://open.spotify.com/artist/4gPg2YgLb608Yn02rXzDKT) | [Starborn](https://open.spotify.com/album/3Gvz4w6oEdg3SUgDOpWKrc) | 4:20 |
 | 1350 | [Semesta Menggila](https://open.spotify.com/track/6lnIySh1RqakQgC713tPsG) | [Insiden Ruang Legar](https://open.spotify.com/artist/2K8UAczIizDsAy6isQ4r9w) | [Semesta Menggila](https://open.spotify.com/album/6lyP8gp9QM9YFKK4TlGaRI) | 3:52 |
@@ -2507,5 +2507,12 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2497 | [Catch Me On The Breeze](https://open.spotify.com/track/7sYdKo9tx906zjpdU38xD2) | [Every Other Thursday](https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR) | [In Between The Covers](https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3) | 4:00 |
 | 2498 | [With or Without You](https://open.spotify.com/track/4HixkgPLtWXURZnCSDOoWE) | [HARA](https://open.spotify.com/artist/6CNaRojfCps5UxTg0tXZar) | [With or Without You](https://open.spotify.com/album/2tH1draarqDKssu6dalvYa) | 2:57 |
 | 2499 | [Vuelo \(Non\-Stop\)](https://open.spotify.com/track/4toCDhhPMeBICgnJkaUdDM) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Vuelo \(Non\-Stop\)](https://open.spotify.com/album/6AOyfBLxs4i2oxoIP2Juv2) | 3:01 |
+| 2500 | [Realise](https://open.spotify.com/track/0Db0iPyGKZv4w4fBaIfs4g) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Realise](https://open.spotify.com/album/5NUO2ci09fmOZhe7dRfVxs) | 3:07 |
+| 2501 | [calm](https://open.spotify.com/track/0Lx0BUHMOuVhg2NjzbEBFw) | [Lofi u](https://open.spotify.com/artist/7tOkG8CZx1DrlER0naUlOr) | [calm](https://open.spotify.com/album/4vPn9ha7SxeLJ56oLTrQse) | 2:38 |
+| 2502 | [La linea del mare](https://open.spotify.com/track/1VEyJSdJeyiPSZ1b66c0EV) | [Terso](https://open.spotify.com/artist/68UQjiFaI4yhJwhK9DfLYf) | [La linea del mare](https://open.spotify.com/album/0hxA5eezHkjrbUXd9tteC2) | 2:57 |
+| 2503 | [as it is](https://open.spotify.com/track/1jxALFuUf7APZqQdNaMrc2) | [Lofi u](https://open.spotify.com/artist/7tOkG8CZx1DrlER0naUlOr) | [celia](https://open.spotify.com/album/5agxtye59cweuqAUm65oj3) | 3:14 |
+| 2504 | [Pensando en ti](https://open.spotify.com/track/1n9NT3UPg3O2AxNhx4zBJd) | [KEVRA](https://open.spotify.com/artist/1jzfJ40gUGYrwJuk1d7cOM) | [Pensando en ti](https://open.spotify.com/album/4j7B4hZU8CoZXgoE1LOEiZ) | 2:48 |
+| 2505 | [DUELE QUERERTE](https://open.spotify.com/track/1Dt7MBL51x8SOhwBmVoZuj) | [KEVRA](https://open.spotify.com/artist/1jzfJ40gUGYrwJuk1d7cOM) | [DUELE QUERERTE](https://open.spotify.com/album/33jcVi1fGgSsmADFlk1TaS) | 2:26 |
+| 2506 | [YA NO](https://open.spotify.com/track/3YHn1nZHlQq3VZhn8NrGde) | [KEVRA](https://open.spotify.com/artist/1jzfJ40gUGYrwJuk1d7cOM) | [YA NO](https://open.spotify.com/album/1lw60vP82j4KKBZ4Jh68KB) | 2:30 |
 
-Snapshot ID: `AAAKlCHYmp4dsCbUBXN52U4SScCVpbaE`
+Snapshot ID: `AAAKoZvRsxkSyev1GdBwuo8c9HbPSegh`

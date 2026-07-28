@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 65063,
+  "num_followers": 65070,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAADNdeKYk8suNM4Imd/eJv9e",
+  "snapshot_id": "amVOAAAAAADPDjSRLuBn7nJYkfU70fpJ",
   "tracks": [
     {
       "added_at": null,
@@ -722,11 +722,19 @@
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        },
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
         }
       ],
-      "duration_ms": 148680,
-      "name": "Caballito De Otate - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
+      "duration_ms": 219093,
+      "name": "Culpable Soy Yo - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB"
     },
     {
       "added_at": null,
@@ -786,19 +794,11 @@
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        },
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        },
-        {
-          "name": "Geru y Su Legion 7",
-          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
         }
       ],
-      "duration_ms": 219093,
-      "name": "Culpable Soy Yo - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/5GJQBcLwgSldwHYgQJLIgB"
+      "duration_ms": 148680,
+      "name": "Caballito De Otate - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
     },
     {
       "added_at": null,

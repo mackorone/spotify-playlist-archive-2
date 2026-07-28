@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5nEbufTK1GscqQUw0AL6wp">JonTheProducer</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 696 likes - 117 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 696 likes - 118 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,5 +125,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZUVUe4PgUG.md) - [plain]
 | 115 | [Chao Pescao](https://open.spotify.com/track/7HeTBeNFgBujftPnidYZH2) | [Gabriel Coronel](https://open.spotify.com/artist/1KtKduyNmAGRrBwwY2wye7) | [Chao Pescao](https://open.spotify.com/album/0cqBEBhlQ98hmvko3XAO36) | 3:28 |
 | 116 | [De Tu Cama Pa' Mi Cama \- Reina de la Canción Performance](https://open.spotify.com/track/1QNqWxuEvi43R9SUYzQYtX) | [Yennis](https://open.spotify.com/artist/3s7NHfZvVaqP2dnLfqk6ND) | [De Tu Cama Pa' Mi Cama \(Reina de la Canción Performance\)](https://open.spotify.com/album/2xnhqRIwWBJMNaU5nx6DJE) | 2:26 |
 | 117 | [Hay Un Feeling](https://open.spotify.com/track/5boc1C7pVFM2Ub1PVqZVk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [KOATI Original Soundtrack](https://open.spotify.com/album/30RgJ2qSHc37DgnJcdVaAb) | 3:24 |
+| 118 | [Pinterest](https://open.spotify.com/track/58InYX4kAReWUgWJnnKnM2) | [Hiana Oliveira](https://open.spotify.com/artist/2OUpNibGCUfNgGK48YVb1i) | [Ressaca de São João](https://open.spotify.com/album/38wuE9DRLDyFsSxoVg4qc6) | 2:17 |
 
-Snapshot ID: `AcX6ygAAAAC+NrPWcdwdjmksdvKCM4rh`
+Snapshot ID: `AcYAagAAAADx5wOO4ywBmBiP7D5pnGUL`

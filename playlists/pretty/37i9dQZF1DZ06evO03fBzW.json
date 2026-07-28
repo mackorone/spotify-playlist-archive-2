@@ -1,12 +1,12 @@
 {
   "description": "This is No Doubt. The essential tracks, all in one playlist.",
-  "num_followers": 122327,
+  "num_followers": 122334,
   "original_name": "This Is No Doubt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAADyVFkFv/6vOvA7Zd5hFRBm",
+  "snapshot_id": "amVOAAAAAAAmNHznn16E00A4HhusD5lH",
   "tracks": [
     {
       "added_at": null,
@@ -255,18 +255,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Doubt",
-        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
+        "name": "Push And Shove",
+        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
       },
       "artists": [
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         }
       ],
-      "duration_ms": 202293,
-      "name": "Trapped In A Box",
-      "url": "https://open.spotify.com/track/0aqmgKRH04ItzeBUxlujCD"
+      "duration_ms": 306986,
+      "name": "Push And Shove",
+      "url": "https://open.spotify.com/track/1fvGs20dhb5eyiAurPO75y"
     },
     {
       "added_at": null,
@@ -319,26 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Push And Shove",
-        "url": "https://open.spotify.com/album/6W78bbz5FHWg8HmFzQoP4K"
+        "name": "No Doubt",
+        "url": "https://open.spotify.com/album/06TxLryI6Hnk1PP9oc0rwF"
       },
       "artists": [
         {
           "name": "No Doubt",
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
         }
       ],
-      "duration_ms": 306986,
-      "name": "Push And Shove",
-      "url": "https://open.spotify.com/track/1fvGs20dhb5eyiAurPO75y"
+      "duration_ms": 202293,
+      "name": "Trapped In A Box",
+      "url": "https://open.spotify.com/track/0aqmgKRH04ItzeBUxlujCD"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 43395,
+  "num_followers": 43391,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "I Won't Give Up",
-        "url": "https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 240165,
-      "name": "I Won't Give Up",
-      "url": "https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/4N04d4lvre3E3IbXugDWcA"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 197893,
       "name": "Sober",
       "url": "https://open.spotify.com/track/0STK94RxUulYqWzwFlyAb5"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "I Won't Give Up",
+        "url": "https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 240165,
+      "name": "I Won't Give Up",
+      "url": "https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
+        "name": "Unconditional (Acoustic)",
+        "url": "https://open.spotify.com/album/3U3O0OFKyL9gY9bFPuDuz7"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "duration_ms": 226895,
+      "name": "Unconditional - Acoustic",
+      "url": "https://open.spotify.com/track/0aj6nonctejtaipI1jctFL"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
         "name": "Kingmaker (with Julia Michaels)",
         "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 188106,
       "name": "Kingmaker (with Julia Michaels)",
       "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
-        "name": "Unconditional (Acoustic)",
-        "url": "https://open.spotify.com/album/3U3O0OFKyL9gY9bFPuDuz7"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        }
-      ],
-      "duration_ms": 226895,
-      "name": "Unconditional - Acoustic",
-      "url": "https://open.spotify.com/track/0aj6nonctejtaipI1jctFL"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "Watermarks",
-        "url": "https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc"
-      },
-      "artists": [
-        {
-          "name": "Sven Cilliers",
-          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Watermarks",
-      "url": "https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
         "name": "The Love You Left Behind",
         "url": "https://open.spotify.com/album/0UFUk1X0rVy6ZeySz0RrH6"
       },
@@ -2043,18 +2027,18 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "Universe",
-        "url": "https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx"
+        "name": "Watermarks",
+        "url": "https://open.spotify.com/album/24Q2Om5Tsh3kz8EdEOTpWc"
       },
       "artists": [
         {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
         }
       ],
-      "duration_ms": 166941,
-      "name": "Universe",
-      "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"
+      "duration_ms": 191266,
+      "name": "Watermarks",
+      "url": "https://open.spotify.com/track/4xAK7JDrcYG9qD7UPr10wL"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -2075,6 +2059,22 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/1nmF0O0ff5o47buSCKTWrx"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 166941,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/6qJXOI2wHjE98wEOruUd0w"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
         "name": "Do You Want To Be Honest?",
         "url": "https://open.spotify.com/album/4mO3V9u8oISHSL33i3AivQ"
       },
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "All The Things",
-        "url": "https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "All The Things",
-      "url": "https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/4FCruvsrPX51W87OJudg3M"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 211706,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0J1P4EF3LvP3br9u9CjsxJ"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "All The Things",
+        "url": "https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "All The Things",
+      "url": "https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -2379,18 +2379,18 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "We're Not The Same",
-        "url": "https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb"
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
       },
       "artists": [
         {
-          "name": "Bea",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 196814,
-      "name": "We're Not The Same",
-      "url": "https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw"
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -2411,18 +2411,18 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
+        "name": "We're Not The Same",
+        "url": "https://open.spotify.com/album/5LOJuIdDNs51jfgc3EeBKb"
       },
       "artists": [
         {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+          "name": "Bea",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
         }
       ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+      "duration_ms": 196814,
+      "name": "We're Not The Same",
+      "url": "https://open.spotify.com/track/4A458rZ1ZNOtnY3BQqD0dw"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -2439,6 +2439,22 @@
       "duration_ms": 228442,
       "name": "Happiest Year",
       "url": "https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "IDK You Yet",
+        "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 184638,
+      "name": "IDK You Yet",
+      "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -2523,22 +2539,6 @@
     {
       "added_at": "2026-07-02 22:01:20",
       "album": {
-        "name": "IDK You Yet",
-        "url": "https://open.spotify.com/album/2BcmdSV1kyss7KFuSpobeS"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 184638,
-      "name": "IDK You Yet",
-      "url": "https://open.spotify.com/track/47EWMOElkkbMp5m9SBkx7d"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
         "name": "7 Years",
         "url": "https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO"
       },
@@ -2615,6 +2615,22 @@
       "duration_ms": 209687,
       "name": "Hungry",
       "url": "https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT"
+    },
+    {
+      "added_at": "2026-07-02 22:01:20",
+      "album": {
+        "name": "Loma Vista",
+        "url": "https://open.spotify.com/album/2KEx3awHyBmHhOvsImrPFI"
+      },
+      "artists": [
+        {
+          "name": "Family of the Year",
+          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/0cgeX9qE93uZ1OeIaacGqx"
     },
     {
       "added_at": "2026-07-02 22:01:20",
@@ -2715,22 +2731,6 @@
       "duration_ms": 214285,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/58GufL5ouunj41e6QV65bw"
-    },
-    {
-      "added_at": "2026-07-02 22:01:20",
-      "album": {
-        "name": "Loma Vista",
-        "url": "https://open.spotify.com/album/2KEx3awHyBmHhOvsImrPFI"
-      },
-      "artists": [
-        {
-          "name": "Family of the Year",
-          "url": "https://open.spotify.com/artist/7zsin6IgVsR1rqSRCNYDwq"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/0cgeX9qE93uZ1OeIaacGqx"
     },
     {
       "added_at": "2026-07-02 22:01:20",

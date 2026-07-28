@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: REMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,825 likes - 198 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,832 likes - 198 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 12 | [Coming Home \(with G Herbo\)](https://open.spotify.com/track/3acmzjQZIKY6mwMiQ5vW4f) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Coming Home \(with G Herbo\)](https://open.spotify.com/album/4DDwMmoet9t03wznydkh0j) | 3:32 |
 | 13 | [Spray](https://open.spotify.com/track/2mGxhluEmuB06abqZBzVUK) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 3:33 |
 | 14 | [FANTASY](https://open.spotify.com/track/7uhdZBj0BNNai1J28n0NuR) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [FANTASY](https://open.spotify.com/album/39WcoB78hmt7AjgGjLf9Av) | 2:12 |
-| 15 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:19 |
+| 15 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:16 |
 | 16 | [I Like It](https://open.spotify.com/track/12lFre37kpLgK56sQUIMOH) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK), [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [I Like It](https://open.spotify.com/album/0kobuTWXZAe2LoxuiE0xJ9) | 3:24 |
 | 17 | [Body](https://open.spotify.com/track/6qoZAmXo12RLxqy829tiJm) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [DUMBCRAZYSTUPID \(Deluxe\)](https://open.spotify.com/album/4nxDOlPHCqcgrIvYksn12N) | 2:42 |
 | 18 | [cease & desist](https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Feels Like Home](https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS) | 3:07 |

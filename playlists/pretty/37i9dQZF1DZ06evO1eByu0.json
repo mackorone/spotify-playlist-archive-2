@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162696,
+  "num_followers": 162699,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAB2WR1Mo3f06rpbpw5JeLdB",
+  "snapshot_id": "amVOAAAAAAD3NNnQrJuZNu+5tJeb+SNu",
   "tracks": [
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 178329,
+      "name": "A Dan\u00e7a do Quaquito",
+      "url": "https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simples Assim (Ao Vivo)",
         "url": "https://open.spotify.com/album/1L7kgbWgsfOvuBLWvN78bW"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 233795,
       "name": "Hoje \u00e9 tempo de louvar a Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/3v3XN3EZ6ZyylRNt7yOzVu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 178329,
-      "name": "A Dan\u00e7a do Quaquito",
-      "url": "https://open.spotify.com/track/3o7vf9FujS4DkcDOMVMTug"
     },
     {
       "added_at": null,
@@ -831,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 153205,
+      "name": "Crian\u00e7a de Jesus",
+      "url": "https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 287120,
       "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
       "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 153205,
-      "name": "Crian\u00e7a de Jesus",
-      "url": "https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD"
     }
   ],
   "unique_name": "This Is Aline Barros",

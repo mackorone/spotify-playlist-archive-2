@@ -1647,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/3yk6eaVohNwQAXjcdfP0KV"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187844,
+      "name": "Bad boy",
+      "url": "https://open.spotify.com/track/0RE4crnT3jRms1xxVlEZx2"
+    },
+    {
+      "album": {
         "name": "Tokooos",
         "url": "https://open.spotify.com/album/6IeIf8IVQfLGaYSckKPPsN"
       },
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 149786,
       "name": "BB BRINGUE",
       "url": "https://open.spotify.com/track/5soAhRxbSV61OhWAc8l5xj"
@@ -3862,7 +3880,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 213576,
       "name": "Catchu Catchu",
       "url": "https://open.spotify.com/track/1Y1eE1YgbF60sHlWC89Uzd"
@@ -4644,7 +4662,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 130800,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/65lCFhOz5RyYH52JryAf10"
@@ -7308,6 +7326,28 @@
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
+    },
+    {
+      "album": {
+        "name": "Fendi Gang",
+        "url": "https://open.spotify.com/album/2a3O5qqfu691nrTKSMVz4g"
+      },
+      "artists": [
+        {
+          "name": "Marwa Loud",
+          "url": "https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV"
+        },
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177154,
+      "name": "Fendi Gang",
+      "url": "https://open.spotify.com/track/683LQJzTRemt1ZhCYxixwx"
     },
     {
       "album": {
@@ -11256,7 +11296,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 141068,
       "name": "Le Maillot",
       "url": "https://open.spotify.com/track/0IpAgbdPtaczCktPuiNJEY"
@@ -11346,7 +11386,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 129000,
       "name": "Le Petit P\u00eacheur",
       "url": "https://open.spotify.com/track/3iIakZIJaIpxxpQuDN7ETx"
@@ -12090,7 +12130,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 159831,
       "name": "LUNA&MONICA",
       "url": "https://open.spotify.com/track/2YkoIehrZRoCCRimB3Ru6z"
@@ -15253,6 +15293,24 @@
     },
     {
       "album": {
+        "name": "Nowhere 2",
+        "url": "https://open.spotify.com/album/3i136AqIrEBCxxlmNletJB"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179301,
+      "name": "Nowhere 2",
+      "url": "https://open.spotify.com/track/2zpcE21SuB8FsuwcYZMArD"
+    },
+    {
+      "album": {
         "name": "Nti nti mon amour",
         "url": "https://open.spotify.com/album/7z5d1Q43sf3kcwnvc3VViq"
       },
@@ -16436,7 +16494,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 156000,
       "name": "Pas Jalouse",
       "url": "https://open.spotify.com/track/0ZNRQrgOtYCNEWHBGl1F3E"
@@ -17856,6 +17914,24 @@
       "duration_ms": 357706,
       "name": "Riri / No camera",
       "url": "https://open.spotify.com/track/5gIw1KJiXhrpnKGPcIY3YC"
+    },
+    {
+      "album": {
+        "name": "RMB (Ring My Bell)",
+        "url": "https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "RMB (Ring My Bell)",
+      "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"
     },
     {
       "album": {
@@ -21359,6 +21435,24 @@
     },
     {
       "album": {
+        "name": "Ategban",
+        "url": "https://open.spotify.com/album/3mYubnzYXs2bgV5cd9Ajyn"
+      },
+      "artists": [
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352973,
+      "name": "Tu m'as menti",
+      "url": "https://open.spotify.com/track/1DpXS9b1F41FQD3j0us3P5"
+    },
+    {
+      "album": {
         "name": "Zombie Life",
         "url": "https://open.spotify.com/album/4xtjyr3GAf3uQFyl3VSSWK"
       },
@@ -21927,6 +22021,24 @@
     },
     {
       "album": {
+        "name": "VIENS VOIR",
+        "url": "https://open.spotify.com/album/5f5hrFuaJhYc7BW23Wuvur"
+      },
+      "artists": [
+        {
+          "name": "Ashvma",
+          "url": "https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "VIENS VOIR",
+      "url": "https://open.spotify.com/track/6c5ognUdZPoE8Ou4BMpLwk"
+    },
+    {
+      "album": {
         "name": "Mill\u00e9nium",
         "url": "https://open.spotify.com/album/2ouSVI0YALXE1GjD1pHoot"
       },
@@ -22378,6 +22490,24 @@
       "duration_ms": 232374,
       "name": "Y a une meuf",
       "url": "https://open.spotify.com/track/3hBR7YFqumGQAGUkrjv8C3"
+    },
+    {
+      "album": {
+        "name": "EMDP (The Last Album)",
+        "url": "https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163759,
+      "name": "Y Que Fue?",
+      "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
     },
     {
       "album": {

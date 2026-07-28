@@ -331,6 +331,32 @@
     },
     {
       "album": {
+        "name": "Orquesta Moderna",
+        "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
+      },
+      "artists": [
+        {
+          "name": "Rosino Serrano",
+          "url": "https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ"
+        },
+        {
+          "name": "Orquesta Moderna",
+          "url": "https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob"
+        },
+        {
+          "name": "Emiliano Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1CPoOuYF5kXsOOaEySPkir"
+        }
+      ],
+      "date_added": "2021-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343705,
+      "name": "Caf\u00e9 con Leche",
+      "url": "https://open.spotify.com/track/45BndJTmTwLysmgTBSAGJq"
+    },
+    {
+      "album": {
         "name": "Calladito Te Ves Mejor",
         "url": "https://open.spotify.com/album/2idfSG1FdrwZ9VFkBPBo3C"
       },
@@ -1482,7 +1508,7 @@
       ],
       "date_added": "2021-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 304213,
       "name": "Nada Es Para Siempre",
       "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from JENNIE, KATSEYE, charli xcx, FLO, Syamel, NAKI, Aufahanie, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,743 likes - 107 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,735 likes - 107 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 72 | [Conversations](https://open.spotify.com/track/0DAYGnA7XlkWlajNTbncQ8) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Conversations](https://open.spotify.com/album/6wWLZNNrRCxw6LvNc9GKYk) | 2:45 |
 | 73 | [night night](https://open.spotify.com/track/5QThXrWkC8E6n2kY9CEmWm) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [Whys Young](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SKIN](https://open.spotify.com/album/2VwACWY14BDAQ6so8zIL07) | 3:59 |
 | 74 | [與其不如](https://open.spotify.com/track/28kmOUAJYCyI2RTPrU0krk) | [Jing Xuan](https://open.spotify.com/artist/2a0sVco1HJutTPKN9oFQv4) | [與其不如](https://open.spotify.com/album/5nMSZaMP2fo5FcQHEH5Rcg) | 3:52 |
-| 75 | [Atomic Love](https://open.spotify.com/track/1gbtxH8QEBKZFcGEBRMIaU) | [Yang Yan](https://open.spotify.com/artist/7HKs6UPi2L4pxVHDDCuGWr) | [Atomic Love](https://open.spotify.com/album/40gbRUFm7LcGd8riczXjgl) | 3:24 |
+| 75 | [Atomic Love](https://open.spotify.com/track/1gbtxH8QEBKZFcGEBRMIaU) | [Yang Yan](https://open.spotify.com/artist/7HKs6UPi2L4pxVHDDCuGWr) | [Atomic Love](https://open.spotify.com/album/40gbRUFm7LcGd8riczXjgl) | 3:19 |
 | 76 | [Black Mirror](https://open.spotify.com/track/4IHnEEFZe3qh5GXKemKvcf) | [JustJaewin](https://open.spotify.com/artist/1f6N8jV8uXpdnTCEt6Y8H6), [BEEdaBST](https://open.spotify.com/artist/6VJsj91Bd5q9EexV7zOsn6) | [Black Mirror](https://open.spotify.com/album/7bIjBcZWmXi0uAwJVlRiyl) | 1:57 |
 | 77 | [老地方 \- 电视剧《青春老鸟》暖心主题曲](https://open.spotify.com/track/0Bh901QQWJIgqEEVap3Q64) | [Zheng Jianxing](https://open.spotify.com/artist/7i9rpL6vAfqTh1nyVN2t35) | [老地方 \(电视剧《青春老鸟》 暖心主题曲\)](https://open.spotify.com/album/17bsiPGUICdt8wPvRZzix0) | 4:13 |
 | 78 | [你要我如何去说 Goodbye](https://open.spotify.com/track/2c0AruArQwi2z98UiiExnp) | [Kenji Ng \(黄 • 阳诚率\)](https://open.spotify.com/artist/742M5EdILmS6Vk5HjVx230) | [你要我如何去说 Goodbye](https://open.spotify.com/album/4EydZ5bRNRQy8YfldWQLHM) | 3:43 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 93 | [WET](https://open.spotify.com/track/0TWdf9wemg4DUzOTErf5Vo) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B) | [WET](https://open.spotify.com/album/7ecEhFaBthDmI7z72KDoTf) | 2:39 |
 | 94 | [Hollow](https://open.spotify.com/track/3ywfR2tUoo1We4dgnVXEmz) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Hollow](https://open.spotify.com/album/0RdAutXGrAeWaEGBlr9hEn) | 3:34 |
 | 95 | [bathroom stalls](https://open.spotify.com/track/2dwUj2I1aek40MbhJgYz3v) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [bathroom stalls](https://open.spotify.com/album/4muZo3emWSPEYxEV0QHrXt) | 3:21 |
-| 96 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:19 |
+| 96 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:16 |
 | 97 | [Call It Love](https://open.spotify.com/track/6JYvZvvdq8SbZUdtZyBur2) | [RACH?](https://open.spotify.com/artist/2Ha1m0lk3Eo8FyDa6eNfgd), [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [Call It Love](https://open.spotify.com/album/7HzZ1plRLt2ZE5w1sYdteR) | 3:40 |
 | 98 | [understand](https://open.spotify.com/track/0RGgyo8YDsoVQv3RENA5HJ) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [understand](https://open.spotify.com/album/4ybAYL1PTArEn9ATXzCTYt) | 3:45 |
 | 99 | [143](https://open.spotify.com/track/5tkyPx7aCQ9f7N0Y0qmz2v) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [143](https://open.spotify.com/album/6J636qRw7XgBSXvlCk0q6D) | 2:15 |

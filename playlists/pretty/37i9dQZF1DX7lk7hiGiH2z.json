@@ -1,6 +1,6 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 61323,
+  "num_followers": 61333,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "HIGHFIVE!",
-        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
-      },
-      "artists": [
-        {
-          "name": "KID CLIO",
-          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
-        }
-      ],
-      "duration_ms": 116826,
-      "name": "Das Lied Vom Sommer",
-      "url": "https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE"
-    },
-    {
-      "added_at": "2026-07-09 22:01:19",
-      "album": {
         "name": "Das Sommertier",
         "url": "https://open.spotify.com/album/6UrVYi2MFIOvkwH2pcshrz"
       },
@@ -947,22 +931,18 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "Giraffenaffen",
-        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
+        "name": "HIGHFIVE!",
+        "url": "https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S"
       },
       "artists": [
         {
-          "name": "Ulla Meinecke",
-          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+          "name": "KID CLIO",
+          "url": "https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
-      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
+      "duration_ms": 116826,
+      "name": "Das Lied Vom Sommer",
+      "url": "https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -983,6 +963,26 @@
       "duration_ms": 191400,
       "name": "M\u00fccken nerven Leute",
       "url": "https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w"
+    },
+    {
+      "added_at": "2026-07-09 22:01:19",
+      "album": {
+        "name": "Giraffenaffen",
+        "url": "https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD"
+      },
+      "artists": [
+        {
+          "name": "Ulla Meinecke",
+          "url": "https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Was m\u00fcssen das f\u00fcr B\u00e4ume sein",
+      "url": "https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO"
     },
     {
       "added_at": "2026-07-09 22:01:19",

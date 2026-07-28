@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 709060,
+  "num_followers": 709058,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 248013,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "What a Wonderful World",
         "url": "https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 162907,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 248013,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "More Than a Woman",
-        "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
-      },
-      "artists": [
-        {
-          "name": "The Shadowboxers",
-          "url": "https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4"
-        }
-      ],
-      "duration_ms": 224666,
-      "name": "More Than a Woman",
-      "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "Helplessly Hoping",
         "url": "https://open.spotify.com/album/3StDwAhArvL2O43axaJCSA"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 159229,
       "name": "Helplessly Hoping",
       "url": "https://open.spotify.com/track/3p3wBH07OgxSIxyGUmqNl4"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "More Than a Woman",
+        "url": "https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM"
+      },
+      "artists": [
+        {
+          "name": "The Shadowboxers",
+          "url": "https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4"
+        }
+      ],
+      "duration_ms": 224666,
+      "name": "More Than a Woman",
+      "url": "https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "Lunafied",
-        "url": "https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of"
-      },
-      "artists": [
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq"
-        }
-      ],
-      "duration_ms": 320693,
-      "name": "Season of the Witch",
-      "url": "https://open.spotify.com/track/2GaQr1kOxgrzcfHWuDLIqu"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
         "name": "When The Levee Breaks",
         "url": "https://open.spotify.com/album/3IEVZmB4jiRhirv2VVMuSL"
       },
@@ -1571,6 +1555,22 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
+        "name": "Lunafied",
+        "url": "https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of"
+      },
+      "artists": [
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/2AACqFGo8offvHCKGvrWxq"
+        }
+      ],
+      "duration_ms": 320693,
+      "name": "Season of the Witch",
+      "url": "https://open.spotify.com/track/2GaQr1kOxgrzcfHWuDLIqu"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
         "name": "Born To Run",
         "url": "https://open.spotify.com/album/6JTj9IVdUqDd39M7UZLfGX"
       },
@@ -1583,38 +1583,6 @@
       "duration_ms": 184386,
       "name": "Born To Run",
       "url": "https://open.spotify.com/track/0JHBf66hHh8N3Cj3uiTPYE"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
-        "name": "Bell Bottom Blues",
-        "url": "https://open.spotify.com/album/3dvynRPvKrgZWuNHzhzQ55"
-      },
-      "artists": [
-        {
-          "name": "Wesley Schultz",
-          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "Bell Bottom Blues",
-      "url": "https://open.spotify.com/track/2bo2FJBYgcNCfs2NZcVZuN"
-    },
-    {
-      "added_at": "2026-05-08 04:01:55",
-      "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/6vm31Kdb2VRrtMLIdV0VQh"
-      },
-      "artists": [
-        {
-          "name": "Pete Yorn",
-          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
-        }
-      ],
-      "duration_ms": 210914,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/7FU341yLQyBaWMWHk4hxuR"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1643,6 +1611,38 @@
       "duration_ms": 261096,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/1g0ekwyuJFuZLda5w90ptf"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/6vm31Kdb2VRrtMLIdV0VQh"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        }
+      ],
+      "duration_ms": 210914,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/7FU341yLQyBaWMWHk4hxuR"
+    },
+    {
+      "added_at": "2026-05-08 04:01:55",
+      "album": {
+        "name": "Bell Bottom Blues",
+        "url": "https://open.spotify.com/album/3dvynRPvKrgZWuNHzhzQ55"
+      },
+      "artists": [
+        {
+          "name": "Wesley Schultz",
+          "url": "https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX"
+        }
+      ],
+      "duration_ms": 218893,
+      "name": "Bell Bottom Blues",
+      "url": "https://open.spotify.com/track/2bo2FJBYgcNCfs2NZcVZuN"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
+        "name": "With A Little Help From My Friends",
+        "url": "https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
         }
       ],
-      "duration_ms": 212040,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ"
+      "duration_ms": 312173,
+      "name": "With A Little Help From My Friends",
+      "url": "https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81"
     },
     {
       "added_at": "2026-05-08 04:01:55",
@@ -1811,18 +1811,18 @@
     {
       "added_at": "2026-05-08 04:01:55",
       "album": {
-        "name": "With A Little Help From My Friends",
-        "url": "https://open.spotify.com/album/3C5cW9dAz11OXXsavHNR7N"
+        "name": "19",
+        "url": "https://open.spotify.com/album/6Pb3K1oPXdhsqFXtzKe3Z1"
       },
       "artists": [
         {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 312173,
-      "name": "With A Little Help From My Friends",
-      "url": "https://open.spotify.com/track/1yOPFin76ojxOnecsV3v81"
+      "duration_ms": 212040,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/7rPLZ8Krm6CZIbraFUlnWZ"
     },
     {
       "added_at": "2026-05-08 04:01:55",

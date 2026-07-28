@@ -958,7 +958,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 208000,
       "name": "La Viviana",
       "url": "https://open.spotify.com/track/6UsGCiKi5RwwosYEsVwQz3"
@@ -1518,6 +1518,24 @@
       "duration_ms": 157066,
       "name": "Para Que Te Explico",
       "url": "https://open.spotify.com/track/08tHBseKFFGXzLJhJkRo20"
+    },
+    {
+      "album": {
+        "name": "Corazon De Piedra",
+        "url": "https://open.spotify.com/album/1SDosnFpz6uZOhwHaP0rJL"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Para Ti Mi Amor",
+      "url": "https://open.spotify.com/track/147hEIlyEM0ZIgNuP2kOJG"
     },
     {
       "album": {

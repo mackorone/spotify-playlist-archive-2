@@ -440,7 +440,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 294893,
       "name": "Ave Maria, Op. 52 No. 6, D. 839 (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/2o7J3w4ii6FN5ikgLty48C"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 59733,
       "name": "Broadcast Commentary",
       "url": "https://open.spotify.com/track/06UdNlrbPzDtAD7SGKqr9u"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 179106,
       "name": "Habanera",
       "url": "https://open.spotify.com/track/0DskqWflD3kX9cqMYcNKXg"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 256466,
       "name": "Song of Grusia, Op. 4, No. 4",
       "url": "https://open.spotify.com/track/2TnvOf9Ez0MK7Qp6at8UXz"
@@ -2802,6 +2802,32 @@
       "duration_ms": 176560,
       "name": "Water Boy (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/4ILXJ89otmn3bE6FIrDaVA"
+    },
+    {
+      "album": {
+        "name": "Dvo\u0159\u00e1k, Ravel, Gershwin & Others: Chamber Works",
+        "url": "https://open.spotify.com/album/4QbxpKyEkQsw2q95AGIMfH"
+      },
+      "artists": [
+        {
+          "name": "Avery Robinson",
+          "url": "https://open.spotify.com/artist/5RQDvjMgri1nMLF8tXZzTM"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        },
+        {
+          "name": "Nadia Reisenberg",
+          "url": "https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176560,
+      "name": "Water Boy (Arr. for Theremin & Piano)",
+      "url": "https://open.spotify.com/track/56lWzOvxxranPHLZclerVb"
     },
     {
       "album": {

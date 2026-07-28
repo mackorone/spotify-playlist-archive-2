@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: WATERPARKS",
-  "num_followers": 604628,
+  "num_followers": 604625,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Free Yourself",
-        "url": "https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8"
-      },
-      "artists": [
-        {
-          "name": "Karen Di\u00f3",
-          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
-        }
-      ],
-      "duration_ms": 145458,
-      "name": "Free Yourself",
-      "url": "https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "X\u2019s For Eyes",
         "url": "https://open.spotify.com/album/2W4xgzMCme2M6yGeLFTCTi"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 198977,
       "name": "Perfection",
       "url": "https://open.spotify.com/track/1WbMj3nxjiPgx2UFsijV5r"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Free Yourself",
+        "url": "https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "duration_ms": 145458,
+      "name": "Free Yourself",
+      "url": "https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 193166,
-      "name": "Oh No!",
-      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Sad",
         "url": "https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Still There\u2019s a Glow",
-        "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi"
       },
       "artists": [
         {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 168365,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
+      "duration_ms": 193166,
+      "name": "Oh No!",
+      "url": "https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1135,6 +1119,38 @@
       "duration_ms": 155668,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Still There\u2019s a Glow",
+        "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 168365,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Give or Take",
+        "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
+      },
+      "artists": [
+        {
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+        }
+      ],
+      "duration_ms": 203444,
+      "name": "Give or Take",
+      "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1159,22 +1175,6 @@
       "duration_ms": 233040,
       "name": "I Don't Like Who I Was Then (feat. Ryland Heagy of Origami Angel)",
       "url": "https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
-        "name": "Give or Take",
-        "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
-      },
-      "artists": [
-        {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
-        }
-      ],
-      "duration_ms": 203444,
-      "name": "Give or Take",
-      "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
-      },
-      "artists": [
-        {
-          "name": "iNTeRNeT FReNDz",
-          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
-        }
-      ],
-      "duration_ms": 160726,
-      "name": "Back To Basics",
-      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "As It Is",
         "url": "https://open.spotify.com/album/4SwZk5yMVhVTy2QV98w7mK"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 213364,
       "name": "Do You Remember?",
       "url": "https://open.spotify.com/track/3CyB1pFsEIqtlDw61JzWEm"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/5xkVNzkiYUJzQexj8ttogc"
+      },
+      "artists": [
+        {
+          "name": "iNTeRNeT FReNDz",
+          "url": "https://open.spotify.com/artist/39cwLbXiKVLL1EOQmQd0kJ"
+        }
+      ],
+      "duration_ms": 160726,
+      "name": "Back To Basics",
+      "url": "https://open.spotify.com/track/5a0FFALsaJhjMFpYgNKc9O"
     },
     {
       "added_at": "2026-07-24 04:02:31",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-07-24 04:02:31",
       "album": {
-        "name": "INMYFEELINGS",
-        "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
-      },
-      "artists": [
-        {
-          "name": "Hungover",
-          "url": "https://open.spotify.com/artist/6OyPLQperd2Pfhmlco0M0e"
-        }
-      ],
-      "duration_ms": 212464,
-      "name": "INMYFEELINGS",
-      "url": "https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy"
-    },
-    {
-      "added_at": "2026-07-24 04:02:31",
-      "album": {
         "name": "Fields Behind The House",
         "url": "https://open.spotify.com/album/7v2BjRHb8j9D90khy7VPJF"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 162666,
       "name": "Fields Behind the House",
       "url": "https://open.spotify.com/track/56S9xo3qIGOeLAhcYJzWxt"
+    },
+    {
+      "added_at": "2026-07-24 04:02:31",
+      "album": {
+        "name": "INMYFEELINGS",
+        "url": "https://open.spotify.com/album/4GMw4vhhPD9wKsXqwea0jM"
+      },
+      "artists": [
+        {
+          "name": "Hungover",
+          "url": "https://open.spotify.com/artist/6OyPLQperd2Pfhmlco0M0e"
+        }
+      ],
+      "duration_ms": 212464,
+      "name": "INMYFEELINGS",
+      "url": "https://open.spotify.com/track/4br5oM0ghCiF8jACvn3zUy"
     },
     {
       "added_at": "2026-07-24 04:02:31",

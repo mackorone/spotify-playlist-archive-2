@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 ### [Pop Focus \| Pop Music for ADHD, Studying, Stress, and Anxiety](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
 
-> 🎧 Chill Pop Focus 🧠\. Enhance concentration &amp; minimize distractions for studying, ADHD, exams &amp; deep work\. Relaxing Pop creates a calm study atmosphere\. Feat\. Lizzy McAlpine, Phoebe Bridgers, FINNEAS &amp; rising pop artists\. Updated weekly! Like &amp; Follow for your ultimate academic soundtrack!
+> 🎧 Focus Pop Study Grooves 🧠\. Unlock peak focus &amp; mental clarity with Chill Pop\. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration\. Feat\. Conan Gray, Olivia Rodrigo, beabadoobee &amp; rising indie pop\. Updated weekly\. Follow for a steady stream of focus\-boosting tunes!
 
 [Topsify](https://open.spotify.com/user/topsify) - 9,654 likes - 100 songs - 5 hr 30 min
 
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 99 | [Those Eyes \(feat\. Zeph\)](https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn), [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [Those Eyes](https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN) | 4:04 |
 | 100 | [Lose](https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:16 |
 
-Snapshot ID: `AAAGhx+9z7Qe59Ccl310CHnI4k4rXPmD`
+Snapshot ID: `AAAGiMiylSMxY5DmDb93eL5upaatbai4`

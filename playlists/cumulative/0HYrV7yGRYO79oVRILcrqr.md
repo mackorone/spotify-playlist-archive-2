@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-654 songs - 1 day 16 hr 41 min
+656 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Frange](https://open.spotify.com/track/0GJiPCIUEyl5tqbjo53Qbk) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Frange](https://open.spotify.com/album/3n1xVpqvWtn31Ju321fY2U) | 3:23 | 2026-05-08 | 2026-05-26 |
 | [Free Way Out](https://open.spotify.com/track/7gSjuNcfiqLaUDYS5jEBPD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Free Way Out](https://open.spotify.com/album/0KppBhyakdpAXmc9HAi6hM) | 4:11 | 2025-09-22 | 2025-12-17 |
 | [Fuiste tú](https://open.spotify.com/track/4MDNiQSfuDW61sZZWybM45) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Fuiste tú](https://open.spotify.com/album/4VD4xgeA2A4IyVc3zoHzun) | 3:23 | 2026-03-22 | 2026-04-21 |
+| [Funkin Blues](https://open.spotify.com/track/6wqlg869am54Wqbct45PYF) | [The Cadillac Cats](https://open.spotify.com/artist/2WctWN3DeyAvtYI1sKvvJi) | [Funkin Blues](https://open.spotify.com/album/25QR5rLpR6jg4wYH9LSdeh) | 3:23 | 2026-07-27 |  |
 | [Future \#1 \- 2026 Remix](https://open.spotify.com/track/2koZXrV4sFHisAwTR36H6s) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Future \#1 \(2026 Remix\)](https://open.spotify.com/album/1QshWiDT9xENuvx0yyeVYa) | 3:21 | 2026-06-15 | 2026-06-25 |
 | [Für Immer \- Remix](https://open.spotify.com/track/2hpl1n59KTXajtBcP0ZTxI) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Blick nach vorn](https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0) | 3:12 | 2025-10-06 | 2025-11-28 |
 | [Ganho Ou Perco?](https://open.spotify.com/track/7A5YUDJZjBHV7pU71cEFW4) | [J.V\. Ferreira](https://open.spotify.com/artist/71IyZPuWgamI0vGHr0YKj7) | [Ganho Ou Perco?](https://open.spotify.com/album/0KFl9FoQhS7YNvok86360L) | 5:41 | 2025-12-24 | 2026-03-18 |
@@ -419,6 +420,7 @@
 | [One Way Out](https://open.spotify.com/track/1NRMj5AyU0Mxni02NSuv6S) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [Insomnia EP](https://open.spotify.com/album/4ljfufJ969vKljLvyifOh0) | 3:54 | 2025-10-22 | 2025-11-28 |
 | [One Way Ticket](https://open.spotify.com/track/4xSvbsAmTdRAybIlgSxmgm) | [ThorE.E.K](https://open.spotify.com/artist/3X9i2Xfpf4CQjCeV6QMEps) | [One Way Ticket](https://open.spotify.com/album/05AC5D5nHXEdMa2Sq0k2Hd) | 3:58 | 2026-06-29 | 2026-07-12 |
 | [Oneida](https://open.spotify.com/track/7qtMKgEM37EINe75ATzRgE) | [HELLIPSYS](https://open.spotify.com/artist/4BNGDq3fwPHY9QpGdqrAML) | [B.o.t.](https://open.spotify.com/album/3Sse1MujegzywJElFcX4x6) | 5:07 | 2025-09-21 | 2025-11-28 |
+| [Only words](https://open.spotify.com/track/0WyuNAuLJgYadDsq1TSHpD) | [Black Hound](https://open.spotify.com/artist/3snFZIyWovDIXyPo2K83qV) | [Takin it all](https://open.spotify.com/album/3C1OezOI61eFvLXipftoWZ) | 4:31 | 2026-07-27 |  |
 | [Onomanosphere](https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Onomanosphere](https://open.spotify.com/album/2dohHJ6ZCqeKfve1MqbiSA) | 2:50 | 2026-06-22 | 2026-07-12 |
 | [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 | 2026-05-11 | 2026-05-26 |
 | [Ordinary Man](https://open.spotify.com/track/2wFieyyXVumeUtn5qdHx61) | [June 101](https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD) | [Collection, Vol\. 1](https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT) | 4:06 | 2025-11-25 | 2025-12-17 |

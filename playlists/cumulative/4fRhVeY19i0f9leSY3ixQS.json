@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 159106,
       "name": "Batting Practice",
       "url": "https://open.spotify.com/track/1t504uSC7of6InLVFb2HJO"
@@ -4650,6 +4650,24 @@
       "duration_ms": 110718,
       "name": "Burn The Boats",
       "url": "https://open.spotify.com/track/6iWf8nIPY949D9hPEtTeto"
+    },
+    {
+      "album": {
+        "name": "Neon Heart Riot",
+        "url": "https://open.spotify.com/album/1C7uOyNgZhKlRRhtPo4md7"
+      },
+      "artists": [
+        {
+          "name": "Glitch CT",
+          "url": "https://open.spotify.com/artist/31462OWixSRK8v6UxstsnE"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208839,
+      "name": "Burn the Signal",
+      "url": "https://open.spotify.com/track/1Q8g3b4wf1NmFP0QFTruS8"
     },
     {
       "album": {
@@ -32706,6 +32724,24 @@
       "duration_ms": 243937,
       "name": "Tyrant",
       "url": "https://open.spotify.com/track/6cYTIPWewJFKxIH8nmYxOq"
+    },
+    {
+      "album": {
+        "name": "U&U (Acapella & Instrumental)",
+        "url": "https://open.spotify.com/album/7vpkgu3ciGzCe7SUeoTpsC"
+      },
+      "artists": [
+        {
+          "name": "TRAUMAN",
+          "url": "https://open.spotify.com/artist/2OtR126KvKWHZf5lOR6SJl"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "U&U",
+      "url": "https://open.spotify.com/track/7nzAOWzvtEhKM9BxzKt9Y9"
     },
     {
       "album": {

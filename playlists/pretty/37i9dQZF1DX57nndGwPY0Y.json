@@ -1,13 +1,29 @@
 {
   "description": "Today's R&B hits only. Music videos only available on Premium.",
-  "num_followers": 3271,
+  "num_followers": 3324,
   "original_name": "R&B Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEJcnLYZWChUZraBC8/or3EuWVKy",
+  "snapshot_id": "AAAAAMP26tt5pvCgVsXOMM62X2OzX45L",
   "tracks": [
+    {
+      "added_at": "2026-07-27 23:19:48",
+      "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"
+    },
     {
       "added_at": "2026-06-28 23:57:33",
       "album": {

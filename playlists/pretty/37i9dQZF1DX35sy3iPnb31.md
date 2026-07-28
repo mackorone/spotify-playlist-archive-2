@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,109 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,116 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 47 | [Doomed](https://open.spotify.com/track/1eSADzvm7DFVwRUOXpAmdf) | [Avery Laird](https://open.spotify.com/artist/3kwAG9BYmYer35EEMZHadZ) | [Doomed](https://open.spotify.com/album/29RCGtgIZKezj1TQuG60eq) | 5:38 |
 | 48 | [21 Freestyle](https://open.spotify.com/track/1b2bIUcvo6JWWDu5FucKEh) | [Kai Banks](https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP) | [21 Freestyle](https://open.spotify.com/album/5Mnj6WTQeteXwx3GQqhwzd) | 1:06 |
 | 49 | [222](https://open.spotify.com/track/1JffGbCr4wlGDPf0WPistB) | [Beaux Léon](https://open.spotify.com/artist/18L8wzQmX9vmU7wxW2Bpde) | [Beaux Léon](https://open.spotify.com/album/60yrLtaDquVD28nqR2GLB6) | 3:00 |
-| 50 | [big dog](https://open.spotify.com/track/1KeSvI6TNMd4VUS0FdsFyR) | [bombe](https://open.spotify.com/artist/2nIB3sr0BUuzxwzT0mPzkJ) | [big dog](https://open.spotify.com/album/0YWX331XqcoGeiPjvK9on1) | 2:31 |
+| 50 | [HATEHATEHATEHATEHATEHATE \- Special Version](https://open.spotify.com/track/7KqJTVXNShP5ecGO0YiqQc) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [EARWAX](https://open.spotify.com/album/6qQMtZalhpGadhq43sSn76) | 3:08 |
 
 Snapshot ID: `AAAAAD/gRP+gTvjzUAsxAl6BLW6sFry1`

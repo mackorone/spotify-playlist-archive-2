@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui sent le sapin pis la joie!",
-  "num_followers": 63190,
+  "num_followers": 63185,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Six heures d'avion nous s\u00e9parent",
-        "url": "https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u"
-      },
-      "artists": [
-        {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
-        },
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Six heures d'avion nous s\u00e9parent",
-      "url": "https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "J'ai vu maman embrasser le p\u00e8re No\u00ebl",
         "url": "https://open.spotify.com/album/5ReyWZwqRMiEc21kMeoW7w"
       },
@@ -419,6 +399,22 @@
       "duration_ms": 191933,
       "name": "J'ai vu maman embrasser le p\u00e8re No\u00ebl",
       "url": "https://open.spotify.com/track/4rEmPwDqff0iLL0cEXD1GU"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
+        "url": "https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC"
+      },
+      "artists": [
+        {
+          "name": "Villeray",
+          "url": "https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
+      "url": "https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -439,18 +435,22 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
-        "url": "https://open.spotify.com/album/2XGNMqMs4jnaNm6c2dIZAC"
+        "name": "Six heures d'avion nous s\u00e9parent",
+        "url": "https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u"
       },
       "artists": [
         {
-          "name": "Villeray",
-          "url": "https://open.spotify.com/artist/3TpVDpx6jmUNyU7KqP4nYP"
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        },
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
         }
       ],
-      "duration_ms": 147080,
-      "name": "Joyeux No\u00ebl et bonne ann\u00e9e!",
-      "url": "https://open.spotify.com/track/10chugYLrW9d5HzLcpm0w2"
+      "duration_ms": 168400,
+      "name": "Six heures d'avion nous s\u00e9parent",
+      "url": "https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "2 janvier",
-        "url": "https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk"
-      },
-      "artists": [
-        {
-          "name": "Thom\u00e9 Young",
-          "url": "https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk"
-        }
-      ],
-      "duration_ms": 167248,
-      "name": "2 janvier",
-      "url": "https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "Winter Song",
         "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
       },
@@ -523,22 +507,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Mam pis Pap",
-        "url": "https://open.spotify.com/album/0pEfXJfb8TlMbGTaW12le9"
-      },
-      "artists": [
-        {
-          "name": "Les Hay Babies",
-          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
-        }
-      ],
-      "duration_ms": 197105,
-      "name": "Mam pis Pap",
-      "url": "https://open.spotify.com/track/40PopCi4jnQmuTWpDPKyyw"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "Marie-Mich\u00e8le Desrosiers Chante Les Classiques De No\u00ebl",
         "url": "https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 189666,
       "name": "Mon Beau Sapin",
       "url": "https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "2 janvier",
+        "url": "https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk"
+      },
+      "artists": [
+        {
+          "name": "Thom\u00e9 Young",
+          "url": "https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk"
+        }
+      ],
+      "duration_ms": 167248,
+      "name": "2 janvier",
+      "url": "https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Mam pis Pap",
+        "url": "https://open.spotify.com/album/0pEfXJfb8TlMbGTaW12le9"
+      },
+      "artists": [
+        {
+          "name": "Les Hay Babies",
+          "url": "https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx"
+        }
+      ],
+      "duration_ms": 197105,
+      "name": "Mam pis Pap",
+      "url": "https://open.spotify.com/track/40PopCi4jnQmuTWpDPKyyw"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Chic de ville (avec \"Pour le r\u00e9veillon\")",
-        "url": "https://open.spotify.com/album/4hHQBjNa12D0rlhZLCeazr"
-      },
-      "artists": [
-        {
-          "name": "Daniel B\u00e9langer",
-          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
-        }
-      ],
-      "duration_ms": 182733,
-      "name": "Pour le r\u00e9veillon",
-      "url": "https://open.spotify.com/track/6X76NCrLBhddSKT0KcaOWH"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "Minuit",
         "url": "https://open.spotify.com/album/6eDELS5HayAn9hW6vQt8QI"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 171960,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/2blIgt4vJfPXuWp4axbSd1"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Chic de ville (avec \"Pour le r\u00e9veillon\")",
+        "url": "https://open.spotify.com/album/4hHQBjNa12D0rlhZLCeazr"
+      },
+      "artists": [
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "Pour le r\u00e9veillon",
+      "url": "https://open.spotify.com/track/6X76NCrLBhddSKT0KcaOWH"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Les Plus Beaux Noels Du Monde",
-        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
-      },
-      "artists": [
-        {
-          "name": "Nana Mouskouri",
-          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "Petit gar\u00e7on",
-      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
         "url": "https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 242506,
       "name": "Jolis sapins",
       "url": "https://open.spotify.com/track/6qH7KJZXbfjmTlz0d18R7n"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Les Plus Beaux Noels Du Monde",
+        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
+      },
+      "artists": [
+        {
+          "name": "Nana Mouskouri",
+          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "Petit gar\u00e7on",
+      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
+        "name": "Ma liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lissa B\u00e9dard",
+          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+        }
+      ],
+      "duration_ms": 144826,
+      "name": "P\u00e8re No\u00ebl arrive ce soir",
+      "url": "https://open.spotify.com/track/2hv3iAKUZwNobiXKUmaqTz"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
         "name": "Jeanick Fournier (Deluxe)",
         "url": "https://open.spotify.com/album/1bYuXeONR1wR8g8B44aoCn"
       },
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Ma liste de No\u00ebl",
-        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+        "name": "No\u00ebl sur la 40",
+        "url": "https://open.spotify.com/album/3AbtsGf9hJCS5ibXhqqduU"
       },
       "artists": [
         {
-          "name": "M\u00e9lissa B\u00e9dard",
-          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+          "name": "Funambule",
+          "url": "https://open.spotify.com/artist/6XwCy7IIhLGlzxdjyNH4LE"
         }
       ],
-      "duration_ms": 144826,
-      "name": "P\u00e8re No\u00ebl arrive ce soir",
-      "url": "https://open.spotify.com/track/2hv3iAKUZwNobiXKUmaqTz"
+      "duration_ms": 168360,
+      "name": "No\u00ebl sur la 40",
+      "url": "https://open.spotify.com/track/6qFElyl2Eidg58D6FYWvrU"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1075,22 +1091,6 @@
       "duration_ms": 188522,
       "name": "No\u00ebl chez moi, No\u00ebl chez toi",
       "url": "https://open.spotify.com/track/0ViEmfufEQpRsEp16sxNi1"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
-        "name": "No\u00ebl sur la 40",
-        "url": "https://open.spotify.com/album/3AbtsGf9hJCS5ibXhqqduU"
-      },
-      "artists": [
-        {
-          "name": "Funambule",
-          "url": "https://open.spotify.com/artist/6XwCy7IIhLGlzxdjyNH4LE"
-        }
-      ],
-      "duration_ms": 168360,
-      "name": "No\u00ebl sur la 40",
-      "url": "https://open.spotify.com/track/6qFElyl2Eidg58D6FYWvrU"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Joyeux No\u00ebl (Live)",
-        "url": "https://open.spotify.com/album/19kLfZz5niWnL35nzP6dXz"
-      },
-      "artists": [
-        {
-          "name": "Suzie Villeneuve",
-          "url": "https://open.spotify.com/artist/1LwihJaOQLGpPb9ue7euvj"
-        }
-      ],
-      "duration_ms": 145109,
-      "name": "C'est l'hiver - Live",
-      "url": "https://open.spotify.com/track/75FP9LzNnCPxa8PnCgK46A"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "No\u00ebl en famille",
         "url": "https://open.spotify.com/album/1ErcaPRj2K89GSZNkPymj8"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "\u00c0 la fin d\u00e9cembre",
-        "url": "https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3"
+        "name": "Joyeux No\u00ebl (Live)",
+        "url": "https://open.spotify.com/album/19kLfZz5niWnL35nzP6dXz"
       },
       "artists": [
         {
-          "name": "Lydia&Sebastien",
-          "url": "https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse"
+          "name": "Suzie Villeneuve",
+          "url": "https://open.spotify.com/artist/1LwihJaOQLGpPb9ue7euvj"
         }
       ],
-      "duration_ms": 189916,
-      "name": "\u00c0 la fin d\u00e9cembre",
-      "url": "https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV"
+      "duration_ms": 145109,
+      "name": "C'est l'hiver - Live",
+      "url": "https://open.spotify.com/track/75FP9LzNnCPxa8PnCgK46A"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
+        "name": "\u00c0 la fin d\u00e9cembre",
+        "url": "https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3"
+      },
+      "artists": [
+        {
+          "name": "Lydia&Sebastien",
+          "url": "https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse"
+        }
+      ],
+      "duration_ms": 189916,
+      "name": "\u00c0 la fin d\u00e9cembre",
+      "url": "https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
         "name": "Ma liste de No\u00ebl",
         "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Au Royaume du Bonhomme Hiver",
-        "url": "https://open.spotify.com/album/0bWkK8GLsvjOaawg6LFd85"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 151594,
-      "name": "Au Royaume du Bonhomme Hiver",
-      "url": "https://open.spotify.com/track/3xzjWsVxspvyGefnsPlUn9"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "La plus belle nuit du monde",
         "url": "https://open.spotify.com/album/0Mlk0QjRez0bQ0nKdjgvhh"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 178009,
       "name": "La plus belle nuit du monde",
       "url": "https://open.spotify.com/track/1t3qRY9QZ1llGXqGYy4g02"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Au Royaume du Bonhomme Hiver",
+        "url": "https://open.spotify.com/album/0bWkK8GLsvjOaawg6LFd85"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 151594,
+      "name": "Au Royaume du Bonhomme Hiver",
+      "url": "https://open.spotify.com/track/3xzjWsVxspvyGefnsPlUn9"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "No\u00ebl (Remasteris\u00e9, 2022)",
-        "url": "https://open.spotify.com/album/1uhdbnXxKpvWUZWcJySBd5"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Gagnon",
-          "url": "https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "O Little Town of Bethlehem - Remasteris\u00e9, 2022",
-      "url": "https://open.spotify.com/track/5yzJiA5KMrtb6i6zaem073"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "No\u00ebl, c\u2019est l\u2019amour",
         "url": "https://open.spotify.com/album/6PO5IuWzxOJwEEb0ycOBte"
       },
@@ -1415,66 +1399,18 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Quand j\u2019ai embrass\u00e9 le P\u00e8re No\u00ebl",
-        "url": "https://open.spotify.com/album/26N8IUfBTT5StJsvgMCcqE"
+        "name": "No\u00ebl (Remasteris\u00e9, 2022)",
+        "url": "https://open.spotify.com/album/1uhdbnXxKpvWUZWcJySBd5"
       },
       "artists": [
         {
-          "name": "Fallenium",
-          "url": "https://open.spotify.com/artist/5MoKpr0a1MfK5wQI6XVXxd"
+          "name": "Andr\u00e9 Gagnon",
+          "url": "https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV"
         }
       ],
-      "duration_ms": 224959,
-      "name": "Quand j\u2019ai embrass\u00e9 le P\u00e8re No\u00ebl",
-      "url": "https://open.spotify.com/track/4VxlGbuKwoaa3VNMTycdcl"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
-        "name": "No\u00ebl, C'est L'amour",
-        "url": "https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V"
-      },
-      "artists": [
-        {
-          "name": "Boum Ding Band",
-          "url": "https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG"
-        }
-      ],
-      "duration_ms": 397400,
-      "name": "No\u00ebl C'est L'amour",
-      "url": "https://open.spotify.com/track/4vfW9FJV4RBEYpfyyTy0JW"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
-        "name": "Joyeux No\u00ebl et bonne ann\u00e9e",
-        "url": "https://open.spotify.com/album/4rwdFdwkoCgsc4wlyFKzG3"
-      },
-      "artists": [
-        {
-          "name": "Raffy",
-          "url": "https://open.spotify.com/artist/5PW85Meg3JSYjhl9aOOZRz"
-        }
-      ],
-      "duration_ms": 236908,
-      "name": "Promenade en tra\u00eeneau",
-      "url": "https://open.spotify.com/track/47CEnviJEZLJ0e7LstG1rx"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
-        "name": "Nostalgia No\u00ebl",
-        "url": "https://open.spotify.com/album/1H654Ne8tMzOKOAmNPUxLn"
-      },
-      "artists": [
-        {
-          "name": "Marc Hervieux",
-          "url": "https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5"
-        }
-      ],
-      "duration_ms": 152040,
-      "name": "C'est l'hiver",
-      "url": "https://open.spotify.com/track/3qYBK9Xs5EId22LsobGeNX"
+      "duration_ms": 237360,
+      "name": "O Little Town of Bethlehem - Remasteris\u00e9, 2022",
+      "url": "https://open.spotify.com/track/5yzJiA5KMrtb6i6zaem073"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1495,6 +1431,86 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
+        "name": "Joyeux No\u00ebl et bonne ann\u00e9e",
+        "url": "https://open.spotify.com/album/4rwdFdwkoCgsc4wlyFKzG3"
+      },
+      "artists": [
+        {
+          "name": "Raffy",
+          "url": "https://open.spotify.com/artist/5PW85Meg3JSYjhl9aOOZRz"
+        }
+      ],
+      "duration_ms": 236908,
+      "name": "Promenade en tra\u00eeneau",
+      "url": "https://open.spotify.com/track/47CEnviJEZLJ0e7LstG1rx"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Quand j\u2019ai embrass\u00e9 le P\u00e8re No\u00ebl",
+        "url": "https://open.spotify.com/album/26N8IUfBTT5StJsvgMCcqE"
+      },
+      "artists": [
+        {
+          "name": "Fallenium",
+          "url": "https://open.spotify.com/artist/5MoKpr0a1MfK5wQI6XVXxd"
+        }
+      ],
+      "duration_ms": 224959,
+      "name": "Quand j\u2019ai embrass\u00e9 le P\u00e8re No\u00ebl",
+      "url": "https://open.spotify.com/track/4VxlGbuKwoaa3VNMTycdcl"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Nostalgia No\u00ebl",
+        "url": "https://open.spotify.com/album/1H654Ne8tMzOKOAmNPUxLn"
+      },
+      "artists": [
+        {
+          "name": "Marc Hervieux",
+          "url": "https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5"
+        }
+      ],
+      "duration_ms": 152040,
+      "name": "C'est l'hiver",
+      "url": "https://open.spotify.com/track/3qYBK9Xs5EId22LsobGeNX"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "No\u00ebl, C'est L'amour",
+        "url": "https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V"
+      },
+      "artists": [
+        {
+          "name": "Boum Ding Band",
+          "url": "https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG"
+        }
+      ],
+      "duration_ms": 397400,
+      "name": "No\u00ebl C'est L'amour",
+      "url": "https://open.spotify.com/track/4vfW9FJV4RBEYpfyyTy0JW"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "As-tu vu le p\u00e8re No\u00ebl?",
+        "url": "https://open.spotify.com/album/6IxBQyMO6SzCQJdBYR99kv"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 110250,
+      "name": "As-tu vu le p\u00e8re No\u00ebl?",
+      "url": "https://open.spotify.com/track/2jOKMjecDbuD3TE80yjtL4"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
         "name": "No\u00ebl mille feux",
         "url": "https://open.spotify.com/album/1CDPIsDorKUmv1vavzAFAT"
       },
@@ -1511,34 +1527,18 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "La radio me chante No\u00ebl",
-        "url": "https://open.spotify.com/album/2uCD6HjiTx60g2j9pGgURi"
+        "name": "L'\u00e9trange No\u00ebl d'Amandine et de G\u00e9d\u00e9on",
+        "url": "https://open.spotify.com/album/4Dlto9hf8TyXoiX3ASO2Rv"
       },
       "artists": [
         {
-          "name": "Jack Lavoie Band",
-          "url": "https://open.spotify.com/artist/2ocfdVJ57aYAsQbyMGBIiy"
-        },
-        {
-          "name": "Anick Gagnon",
-          "url": "https://open.spotify.com/artist/0x55oXaXp1JHhcc6eqRvxi"
-        },
-        {
-          "name": "Hervey Hovington",
-          "url": "https://open.spotify.com/artist/7kLlafg2wLz0JInE1QkJyD"
-        },
-        {
-          "name": "Manon B\u00e9dard",
-          "url": "https://open.spotify.com/artist/5JoYRYncSVvlVFogfeN2TP"
-        },
-        {
-          "name": "S.V. Ray",
-          "url": "https://open.spotify.com/artist/4ky3llEPQC8KbYZ8xTtfZo"
+          "name": "Guylaine Tremblay",
+          "url": "https://open.spotify.com/artist/0xoUoGFFPr2ll9d6kXA0sq"
         }
       ],
-      "duration_ms": 170052,
-      "name": "La radio me chante No\u00ebl",
-      "url": "https://open.spotify.com/track/22huwaaCC4duxZSUXugPpJ"
+      "duration_ms": 134120,
+      "name": "Chanson du rigodon",
+      "url": "https://open.spotify.com/track/3rmSypow6s4obdwBJMwOkR"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1575,18 +1575,34 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "As-tu vu le p\u00e8re No\u00ebl?",
-        "url": "https://open.spotify.com/album/6IxBQyMO6SzCQJdBYR99kv"
+        "name": "La radio me chante No\u00ebl",
+        "url": "https://open.spotify.com/album/2uCD6HjiTx60g2j9pGgURi"
       },
       "artists": [
         {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+          "name": "Jack Lavoie Band",
+          "url": "https://open.spotify.com/artist/2ocfdVJ57aYAsQbyMGBIiy"
+        },
+        {
+          "name": "Anick Gagnon",
+          "url": "https://open.spotify.com/artist/0x55oXaXp1JHhcc6eqRvxi"
+        },
+        {
+          "name": "Hervey Hovington",
+          "url": "https://open.spotify.com/artist/7kLlafg2wLz0JInE1QkJyD"
+        },
+        {
+          "name": "Manon B\u00e9dard",
+          "url": "https://open.spotify.com/artist/5JoYRYncSVvlVFogfeN2TP"
+        },
+        {
+          "name": "S.V. Ray",
+          "url": "https://open.spotify.com/artist/4ky3llEPQC8KbYZ8xTtfZo"
         }
       ],
-      "duration_ms": 110250,
-      "name": "As-tu vu le p\u00e8re No\u00ebl?",
-      "url": "https://open.spotify.com/track/2jOKMjecDbuD3TE80yjtL4"
+      "duration_ms": 170052,
+      "name": "La radio me chante No\u00ebl",
+      "url": "https://open.spotify.com/track/22huwaaCC4duxZSUXugPpJ"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1603,22 +1619,6 @@
       "duration_ms": 206211,
       "name": "Joyeux No\u00ebl",
       "url": "https://open.spotify.com/track/2tfT9JHn0MmI1hYwwk4hiv"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
-        "name": "L'\u00e9trange No\u00ebl d'Amandine et de G\u00e9d\u00e9on",
-        "url": "https://open.spotify.com/album/4Dlto9hf8TyXoiX3ASO2Rv"
-      },
-      "artists": [
-        {
-          "name": "Guylaine Tremblay",
-          "url": "https://open.spotify.com/artist/0xoUoGFFPr2ll9d6kXA0sq"
-        }
-      ],
-      "duration_ms": 134120,
-      "name": "Chanson du rigodon",
-      "url": "https://open.spotify.com/track/3rmSypow6s4obdwBJMwOkR"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1655,18 +1655,22 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Un martini pour No\u00ebl",
-        "url": "https://open.spotify.com/album/5MvSAY3oVRuSmaqRuc92VX"
+        "name": "La liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/2ASFaE4IJyBMyXxd0BQ2By"
       },
       "artists": [
         {
-          "name": "Fr\u00e9d\u00e9rick De Grandpr\u00e9",
-          "url": "https://open.spotify.com/artist/0MxJegOHKWGMmIrWjjAp4J"
+          "name": "Damoizeaux",
+          "url": "https://open.spotify.com/artist/06XE6owWsrgqBiLd9nGej9"
+        },
+        {
+          "name": "VoxA4",
+          "url": "https://open.spotify.com/artist/4t3amHinUf5SzX1XfPuLIs"
         }
       ],
-      "duration_ms": 176333,
-      "name": "Toi pour No\u00ebl",
-      "url": "https://open.spotify.com/track/358of8Qu6dOkzJbyjcmOlp"
+      "duration_ms": 239287,
+      "name": "Lettre \u00e0 Papa No\u00ebl",
+      "url": "https://open.spotify.com/track/1uireIIloJlNEjY9YqMWf6"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1691,22 +1695,18 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "La liste de No\u00ebl",
-        "url": "https://open.spotify.com/album/2ASFaE4IJyBMyXxd0BQ2By"
+        "name": "Un martini pour No\u00ebl",
+        "url": "https://open.spotify.com/album/5MvSAY3oVRuSmaqRuc92VX"
       },
       "artists": [
         {
-          "name": "Damoizeaux",
-          "url": "https://open.spotify.com/artist/06XE6owWsrgqBiLd9nGej9"
-        },
-        {
-          "name": "VoxA4",
-          "url": "https://open.spotify.com/artist/4t3amHinUf5SzX1XfPuLIs"
+          "name": "Fr\u00e9d\u00e9rick De Grandpr\u00e9",
+          "url": "https://open.spotify.com/artist/0MxJegOHKWGMmIrWjjAp4J"
         }
       ],
-      "duration_ms": 239287,
-      "name": "Lettre \u00e0 Papa No\u00ebl",
-      "url": "https://open.spotify.com/track/1uireIIloJlNEjY9YqMWf6"
+      "duration_ms": 176333,
+      "name": "Toi pour No\u00ebl",
+      "url": "https://open.spotify.com/track/358of8Qu6dOkzJbyjcmOlp"
     }
   ],
   "unique_name": "No\u00ebl, No\u00ebl, No\u00ebl",

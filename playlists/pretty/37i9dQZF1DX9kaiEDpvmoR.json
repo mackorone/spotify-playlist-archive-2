@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93880,
+  "num_followers": 93877,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -419,18 +419,22 @@
     {
       "added_at": "2026-07-16 22:00:27",
       "album": {
-        "name": "VM-guld",
-        "url": "https://open.spotify.com/album/4O5Ni5OfiYKSzKtffOj2bf"
+        "name": "Glasshouse",
+        "url": "https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36"
       },
       "artists": [
         {
-          "name": "Magnus Uggla",
-          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        },
+        {
+          "name": "Ingrid",
+          "url": "https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6"
         }
       ],
-      "duration_ms": 191840,
-      "name": "VM-guld",
-      "url": "https://open.spotify.com/track/0y6nkY9s1tF0voO0DBZnfm"
+      "duration_ms": 181440,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2"
     },
     {
       "added_at": "2026-07-16 22:00:27",
@@ -451,22 +455,18 @@
     {
       "added_at": "2026-07-16 22:00:27",
       "album": {
-        "name": "Glasshouse",
-        "url": "https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36"
+        "name": "VM-guld",
+        "url": "https://open.spotify.com/album/4O5Ni5OfiYKSzKtffOj2bf"
       },
       "artists": [
         {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        },
-        {
-          "name": "Ingrid",
-          "url": "https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6"
+          "name": "Magnus Uggla",
+          "url": "https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq"
         }
       ],
-      "duration_ms": 181440,
-      "name": "Glasshouse",
-      "url": "https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2"
+      "duration_ms": 191840,
+      "name": "VM-guld",
+      "url": "https://open.spotify.com/track/0y6nkY9s1tF0voO0DBZnfm"
     },
     {
       "added_at": "2026-07-16 22:00:27",
@@ -931,6 +931,26 @@
     {
       "added_at": "2026-07-16 22:00:27",
       "album": {
+        "name": "Can't Frame the Moonlight",
+        "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
+      },
+      "artists": [
+        {
+          "name": "Petra Marklund",
+          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
+        },
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 205896,
+      "name": "Can't Frame the Moonlight",
+      "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
+    },
+    {
+      "added_at": "2026-07-16 22:00:27",
+      "album": {
         "name": "R\u00f6k i dina \u00f6gon",
         "url": "https://open.spotify.com/album/2Fn6Q9UqLJKmHGHzbjjrW6"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 333200,
       "name": "R\u00f6k i dina \u00f6gon",
       "url": "https://open.spotify.com/track/4JnyGZxCIbMJKQ60u7qYor"
-    },
-    {
-      "added_at": "2026-07-16 22:00:27",
-      "album": {
-        "name": "Can't Frame the Moonlight",
-        "url": "https://open.spotify.com/album/6D3Pzr2mWkMoMVSBf0RUWP"
-      },
-      "artists": [
-        {
-          "name": "Petra Marklund",
-          "url": "https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh"
-        },
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 205896,
-      "name": "Can't Frame the Moonlight",
-      "url": "https://open.spotify.com/track/0o7TU4ysA7q39FChpwVv0G"
     },
     {
       "added_at": "2026-07-16 22:00:27",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-07-16 22:00:27",
       "album": {
-        "name": "Nu \u00e4r det sommar",
-        "url": "https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA"
-      },
-      "artists": [
-        {
-          "name": "Sven-Ingvars",
-          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
-        }
-      ],
-      "duration_ms": 187604,
-      "name": "Nu \u00e4r det sommar",
-      "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
-    },
-    {
-      "added_at": "2026-07-16 22:00:27",
-      "album": {
         "name": "Stronger Than",
         "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
       },
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2026-07-16 22:00:27",
       "album": {
-        "name": "Midsommarafton igen",
-        "url": "https://open.spotify.com/album/4DEwW9MuZa1XLkc2FXa4b3"
+        "name": "Nu \u00e4r det sommar",
+        "url": "https://open.spotify.com/album/2vod2jSRKgWviLJ4o9N3HA"
       },
       "artists": [
         {
-          "name": "Larz-Kristerz",
-          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+          "name": "Sven-Ingvars",
+          "url": "https://open.spotify.com/artist/1nYKikHu8WWMKYVTcNyyzs"
         }
       ],
-      "duration_ms": 212426,
-      "name": "Midsommarafton igen",
-      "url": "https://open.spotify.com/track/7do8KbnUYU4BbwUzW3tjnG"
+      "duration_ms": 187604,
+      "name": "Nu \u00e4r det sommar",
+      "url": "https://open.spotify.com/track/2BSV2wwILPT33uyNq6JeDC"
     },
     {
       "added_at": "2026-07-16 22:00:27",
@@ -1215,6 +1199,22 @@
       "duration_ms": 200183,
       "name": "D\u00e4r huden \u00e4r tunnast",
       "url": "https://open.spotify.com/track/2zGO4BqNdOZgC6MrppnS2K"
+    },
+    {
+      "added_at": "2026-07-16 22:00:27",
+      "album": {
+        "name": "Midsommarafton igen",
+        "url": "https://open.spotify.com/album/4DEwW9MuZa1XLkc2FXa4b3"
+      },
+      "artists": [
+        {
+          "name": "Larz-Kristerz",
+          "url": "https://open.spotify.com/artist/17KXKtZXlDTWr7lHCsnNQ3"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Midsommarafton igen",
+      "url": "https://open.spotify.com/track/7do8KbnUYU4BbwUzW3tjnG"
     },
     {
       "added_at": "2026-07-16 22:00:27",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-07-16 22:00:27",
       "album": {
-        "name": "Valborg hela veckan",
-        "url": "https://open.spotify.com/album/5fPB7xU8dckN204Tnfml7H"
-      },
-      "artists": [
-        {
-          "name": "Timbuktu",
-          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
-        }
-      ],
-      "duration_ms": 166511,
-      "name": "Valborg hela veckan",
-      "url": "https://open.spotify.com/track/4ofntrRzWXBr9eT0aSnR3c"
-    },
-    {
-      "added_at": "2026-07-16 22:00:27",
-      "album": {
         "name": "Greczula",
         "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2026-07-16 22:00:27",
       "album": {
-        "name": "Honey Honey",
-        "url": "https://open.spotify.com/album/4mC9GZ6gSoSBDZ9ApAvqkO"
+        "name": "Valborg hela veckan",
+        "url": "https://open.spotify.com/album/5fPB7xU8dckN204Tnfml7H"
       },
       "artists": [
         {
-          "name": "Robin Bengtsson",
-          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
         }
       ],
-      "duration_ms": 179444,
-      "name": "Honey Honey",
-      "url": "https://open.spotify.com/track/0QcDwx1r5HXsxyMstgvHSm"
+      "duration_ms": 166511,
+      "name": "Valborg hela veckan",
+      "url": "https://open.spotify.com/track/4ofntrRzWXBr9eT0aSnR3c"
     },
     {
       "added_at": "2026-07-16 22:00:27",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2026-07-16 22:00:27",
       "album": {
+        "name": "Honey Honey",
+        "url": "https://open.spotify.com/album/4mC9GZ6gSoSBDZ9ApAvqkO"
+      },
+      "artists": [
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "duration_ms": 179444,
+      "name": "Honey Honey",
+      "url": "https://open.spotify.com/track/0QcDwx1r5HXsxyMstgvHSm"
+    },
+    {
+      "added_at": "2026-07-16 22:00:27",
+      "album": {
         "name": "Margaretas s\u00e5ng",
         "url": "https://open.spotify.com/album/7jdHRsFJot5BpyNcwskvNn"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-07-16 22:00:27",
       "album": {
-        "name": "Blindg\u00e5ngare / Du \u00e4r vid liv",
-        "url": "https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV"
-      },
-      "artists": [
-        {
-          "name": "Joakim Berg",
-          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Du \u00e4r vid liv",
-      "url": "https://open.spotify.com/track/2pyPEuPvXdvJMr7CjN0cUA"
-    },
-    {
-      "added_at": "2026-07-16 22:00:27",
-      "album": {
         "name": "G\u00f6teborg",
         "url": "https://open.spotify.com/album/71pxG9wcH5tpumzPTrREIK"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 228561,
       "name": "G\u00f6teborg",
       "url": "https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9"
+    },
+    {
+      "added_at": "2026-07-16 22:00:27",
+      "album": {
+        "name": "Blindg\u00e5ngare / Du \u00e4r vid liv",
+        "url": "https://open.spotify.com/album/6eQFzMf0W6BniBkrWdR4yV"
+      },
+      "artists": [
+        {
+          "name": "Joakim Berg",
+          "url": "https://open.spotify.com/artist/5Z3qZD6rDNxloqapoa1QUC"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Du \u00e4r vid liv",
+      "url": "https://open.spotify.com/track/2pyPEuPvXdvJMr7CjN0cUA"
     },
     {
       "added_at": "2026-07-16 22:00:27",

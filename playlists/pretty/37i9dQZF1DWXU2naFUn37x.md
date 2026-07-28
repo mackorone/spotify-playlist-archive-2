@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Artie 5ive in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,200 likes - 55 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,191 likes - 55 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 17 | [Peccati](https://open.spotify.com/track/1V8SElaiJmR7SJiGELr6Rc) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:12 |
 | 18 | [Babyface](https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 2:57 |
 | 19 | [Selena Gomez](https://open.spotify.com/track/22pDDaPCT3zthpC73iy5ui) | [Lubi](https://open.spotify.com/artist/6RS8ydeeuOdtRNMI6sdWQy) | [Selena Gomez](https://open.spotify.com/album/2JrawLPb3QRBr3Jp2XU2yb) | 2:55 |
-| 20 | [Individualista Visionario](https://open.spotify.com/track/0hYlJHHVPgzKjRuZrV4ohs) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/7y1QKfqQApaYcwwMRV6KGH) | 1:34 |
+| 20 | [INDIVIDUALISTA VISIONARIO](https://open.spotify.com/track/0hYlJHHVPgzKjRuZrV4ohs) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/7y1QKfqQApaYcwwMRV6KGH) | 1:34 |
 | 21 | [SONO IO IL PASS \(feat\. Lazza\)](https://open.spotify.com/track/2qPmfC6698p228q3F1Zlbk) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MILLION DOLLAR BABE](https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5) | 2:15 |
 | 22 | [SEX TRAP REPEAT](https://open.spotify.com/track/7jhVsioCwQDGQSXFL35cEF) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [SEX TRAP REPEAT](https://open.spotify.com/album/5nPq2Nmm3NU2BNCrWBcFep) | 2:25 |
 | 23 | [Mu'Ammar Gheddafi \(feat\. Simba La Rue\)](https://open.spotify.com/track/6Nr1XULPuJgumCyXBEfcgx) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 2:29 |

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 417768,
+  "num_followers": 417801,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
@@ -499,8 +499,8 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "EXIT TUNES PRESENTS Supernova(\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1)2 \u30b8\u30e3\u30b1\u30c3\u30c8\u30a4\u30e9\u30b9\u30c8:redjuice",
-        "url": "https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q"
+        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
+        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
         }
       ],
-      "duration_ms": 194000,
-      "name": "\u30ed\u30fc\u30ea\u30f3\u30ac\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/3CNptmi6HPZj6lgglUafW7"
+      "duration_ms": 223280,
+      "name": "\u30ef\u30fc\u30eb\u30ba\u30a8\u30f3\u30c9\u30fb\u30c0\u30f3\u30b9\u30db\u30fc\u30eb -MIKUNOPOLIS in LOS ANGELES Live-",
+      "url": "https://open.spotify.com/track/3mMurBEHetvgoEOJRa3biN"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -603,8 +603,8 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "MIKUNOPOLIS in LOS ANGELES \u201c\u306f\u3058\u3081\u307e\u3057\u3066\u3001\u521d\u97f3\u30df\u30af\u3067\u3059\u201d",
-        "url": "https://open.spotify.com/album/5orTbWsJiKdiKYivCwZz2Y"
+        "name": "EXIT TUNES PRESENTS Supernova(\u30b9\u30fc\u30d1\u30fc\u30ce\u30f4\u30a1)2 \u30b8\u30e3\u30b1\u30c3\u30c8\u30a4\u30e9\u30b9\u30c8:redjuice",
+        "url": "https://open.spotify.com/album/3nDClftBJB2I49GD4RQo3q"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT"
         }
       ],
-      "duration_ms": 223280,
-      "name": "\u30ef\u30fc\u30eb\u30ba\u30a8\u30f3\u30c9\u30fb\u30c0\u30f3\u30b9\u30db\u30fc\u30eb -MIKUNOPOLIS in LOS ANGELES Live-",
-      "url": "https://open.spotify.com/track/3mMurBEHetvgoEOJRa3biN"
+      "duration_ms": 194000,
+      "name": "\u30ed\u30fc\u30ea\u30f3\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/3CNptmi6HPZj6lgglUafW7"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "crystaL",
-        "url": "https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu"
-      },
-      "artists": [
-        {
-          "name": "HzEdge(crystal P)",
-          "url": "https://open.spotify.com/artist/0idqlrYbdTP772SjNOX18T"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "erase or zero",
-      "url": "https://open.spotify.com/track/396tVnKqmG32TeMtSBvUS2"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
         "url": "https://open.spotify.com/album/3wax4DbbZb6N4SfK9dgSkc"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 277700,
       "name": "\u6df1\u6d77\u30b7\u30c6\u30a3\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9",
       "url": "https://open.spotify.com/track/0ErUwH3IBAKt1612x1vixS"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "crystaL",
+        "url": "https://open.spotify.com/album/5KbkciUfwXhdcicglLMQDu"
+      },
+      "artists": [
+        {
+          "name": "HzEdge(crystal P)",
+          "url": "https://open.spotify.com/artist/0idqlrYbdTP772SjNOX18T"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "erase or zero",
+      "url": "https://open.spotify.com/track/396tVnKqmG32TeMtSBvUS2"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
-        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
-      },
-      "artists": [
-        {
-          "name": "HoneyWorks",
-          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
-        }
-      ],
-      "duration_ms": 285813,
-      "name": "\u30b9\u30ad\u30ad\u30e9\u30a4",
-      "url": "https://open.spotify.com/track/43571bfzMoPeXhUCVWayue"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "39\u307f\u3085\u30fc\u3058\u3063\u304f!",
         "url": "https://open.spotify.com/album/6EjzwcflTxIFvHlOhyb9m8"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 265846,
       "name": "39\u307f\u3085\u30fc\u3058\u3063\u304f!",
       "url": "https://open.spotify.com/track/11NoD6DdxrVB8LGUSIzadp"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
+        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
+      },
+      "artists": [
+        {
+          "name": "HoneyWorks",
+          "url": "https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd"
+        }
+      ],
+      "duration_ms": 285813,
+      "name": "\u30b9\u30ad\u30ad\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/43571bfzMoPeXhUCVWayue"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "\u5fd8\u5374\u5fc3\u4e2d",
+        "url": "https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG"
+      },
+      "artists": [
+        {
+          "name": "0-9",
+          "url": "https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn"
+        }
+      ],
+      "duration_ms": 253954,
+      "name": "\u5fd8\u5374\u5fc3\u4e2d",
+      "url": "https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "in the BOX",
         "url": "https://open.spotify.com/album/2FoMuaPWntFNyIZl5XqJRW"
       },
@@ -1407,18 +1423,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u5fd8\u5374\u5fc3\u4e2d",
-        "url": "https://open.spotify.com/album/7CzTwUKnta2odwvoD9nldG"
+        "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8/\u672a\u6765\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/1UHOCAkTabO99PIaH3FGPU"
       },
       "artists": [
         {
-          "name": "0-9",
-          "url": "https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn"
+          "name": "Malo",
+          "url": "https://open.spotify.com/artist/0wiJ19KvpWKVOTUd99lLQ2"
         }
       ],
-      "duration_ms": 253954,
-      "name": "\u5fd8\u5374\u5fc3\u4e2d",
-      "url": "https://open.spotify.com/track/0ljbxctL8zAiBwDMFZ75xg"
+      "duration_ms": 302135,
+      "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8",
+      "url": "https://open.spotify.com/track/71NH427DUc6APJ2kQ8sVZf"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8/\u672a\u6765\u306e\u6b4c",
-        "url": "https://open.spotify.com/album/1UHOCAkTabO99PIaH3FGPU"
-      },
-      "artists": [
-        {
-          "name": "Malo",
-          "url": "https://open.spotify.com/artist/0wiJ19KvpWKVOTUd99lLQ2"
-        }
-      ],
-      "duration_ms": 302135,
-      "name": "\u30cf\u30b8\u30e1\u30c6\u30ce\u30aa\u30c8",
-      "url": "https://open.spotify.com/track/71NH427DUc6APJ2kQ8sVZf"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "Conti New",
         "url": "https://open.spotify.com/album/1XoKyOWzKCe40zGmSjNpqt"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "ReRections",
-        "url": "https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t"
-      },
-      "artists": [
-        {
-          "name": "Dios/signalP",
-          "url": "https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1"
-        }
-      ],
-      "duration_ms": 277137,
-      "name": "\u30b5\u30f3\u30c9\u30ea\u30e8\u30f3",
-      "url": "https://open.spotify.com/track/6BxbQXUzkX0dv4UjAhclHo"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "Lots of Love (feat. \u521d\u97f3\u30df\u30af)",
         "url": "https://open.spotify.com/album/3ZhfLBpwToW4bUQP28LCUn"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
-        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
+        "name": "ReRections",
+        "url": "https://open.spotify.com/album/55df1Sydx1sZxEbLQY2G1t"
       },
       "artists": [
         {
-          "name": "Ginsaku",
-          "url": "https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz"
+          "name": "Dios/signalP",
+          "url": "https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1"
         }
       ],
-      "duration_ms": 245333,
-      "name": "\u3044\u308d\u306f\u5504",
-      "url": "https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY"
+      "duration_ms": 277137,
+      "name": "\u30b5\u30f3\u30c9\u30ea\u30e8\u30f3",
+      "url": "https://open.spotify.com/track/6BxbQXUzkX0dv4UjAhclHo"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1559,6 +1543,22 @@
       "duration_ms": 178412,
       "name": "\u7247\u60f3\u3044\u30b5\u30f3\u30d0",
       "url": "https://open.spotify.com/track/0Eg4oaHuQY9GGn7YMjIvpu"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
+        "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
+      },
+      "artists": [
+        {
+          "name": "Ginsaku",
+          "url": "https://open.spotify.com/artist/4qK0qz2xdkIubLelIVOjsz"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "\u3044\u308d\u306f\u5504",
+      "url": "https://open.spotify.com/track/4ZYp6mlFg37la87zyI7PvY"
     },
     {
       "added_at": "2021-05-26 02:37:36",

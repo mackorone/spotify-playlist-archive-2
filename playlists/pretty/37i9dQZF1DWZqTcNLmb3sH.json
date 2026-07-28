@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Toxic",
-  "num_followers": 71213,
+  "num_followers": 71369,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACbQyhdHvXVBFSaiCMWAR9kVyQoi",
+  "snapshot_id": "AAAAABNP+gtDm8rpljFplIvHIBggFpa5",
   "tracks": [
     {
       "added_at": "2026-07-21 08:31:10",
@@ -133,6 +133,30 @@
       "url": "https://open.spotify.com/track/1BmEoyUraBGzH5Gml7BpY5"
     },
     {
+      "added_at": "2026-07-27 07:28:09",
+      "album": {
+        "name": "Rowdy Hero (From \"Jolly\")",
+        "url": "https://open.spotify.com/album/4iBfLaNvnlC5rk97d9VPdD"
+      },
+      "artists": [
+        {
+          "name": "Nithinraj",
+          "url": "https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD"
+        },
+        {
+          "name": "Tarush",
+          "url": "https://open.spotify.com/artist/5Hft45F4zFi88xVTA2Br0z"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        }
+      ],
+      "duration_ms": 163012,
+      "name": "Rowdy Hero (From \"Jolly\")",
+      "url": "https://open.spotify.com/track/6OiG8X6zWvJBknrJsJ5ZhF"
+    },
+    {
       "added_at": "2026-06-29 11:20:08",
       "album": {
         "name": "Baa KARAVALIGE (From \"KARAVALI\")",
@@ -255,6 +279,30 @@
       "duration_ms": 219661,
       "name": "Mandaadi Mandaadi (From \"Mandaadi - Kannada\")",
       "url": "https://open.spotify.com/track/1nMcD4d0hsMTMX6r74dUFS"
+    },
+    {
+      "added_at": "2026-07-27 07:28:09",
+      "album": {
+        "name": "Uride Ni Baduke (From \"Jolly\")",
+        "url": "https://open.spotify.com/album/1gYD30XCgoRtfz4KIUH9Hn"
+      },
+      "artists": [
+        {
+          "name": "Nithinraj",
+          "url": "https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD"
+        },
+        {
+          "name": "Suman Raj",
+          "url": "https://open.spotify.com/artist/0ytmVaH0P5HsIviYCG6yNX"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "duration_ms": 189603,
+      "name": "Uride Ni Baduke (From \"Jolly\")",
+      "url": "https://open.spotify.com/track/1kHJGIPNHogkOTCaJwjYqz"
     },
     {
       "added_at": "2026-05-04 11:03:23",
@@ -1755,82 +1803,6 @@
       "duration_ms": 364000,
       "name": "Vibe Of Graamaayana (From \"Graamaayana\")",
       "url": "https://open.spotify.com/track/4iJGuZLvyso0QIqApCLQMG"
-    },
-    {
-      "added_at": "2026-04-30 09:33:19",
-      "album": {
-        "name": "KD (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/52HB4F6DHU7Mxwyn1F03Ao"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Manjunath B S",
-          "url": "https://open.spotify.com/artist/18tf8gc9uQDYnlzhAR3Jwl"
-        },
-        {
-          "name": "Prem's",
-          "url": "https://open.spotify.com/artist/0gbdi05gJIGYtDMiQ5kbN5"
-        },
-        {
-          "name": "Kailash Kher",
-          "url": "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
-        }
-      ],
-      "duration_ms": 208557,
-      "name": "Shiva Shiva",
-      "url": "https://open.spotify.com/track/2O7Y9WOk0WF7CnLJj1PCQM"
-    },
-    {
-      "added_at": "2026-04-30 09:32:32",
-      "album": {
-        "name": "Allondu Illondu (From \"Shrimathi Sindhoora\")",
-        "url": "https://open.spotify.com/album/514HS5Ogx2qMVLnj9l3Ns8"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Ramnath",
-          "url": "https://open.spotify.com/artist/16LPsxS42glKWRU6GVoaTC"
-        },
-        {
-          "name": "Kaviraj",
-          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
-        },
-        {
-          "name": "Hemanth",
-          "url": "https://open.spotify.com/artist/0qAzLiq8xpR9JbRRehpbja"
-        }
-      ],
-      "duration_ms": 254874,
-      "name": "Allondu Illondu (From \"Shrimathi Sindhoora\")",
-      "url": "https://open.spotify.com/track/5CM14jcrvDDXcdoMIN9eZh"
-    },
-    {
-      "added_at": "2026-04-28 08:43:50",
-      "album": {
-        "name": "Come On Kaali (From \"KD\")",
-        "url": "https://open.spotify.com/album/4wNKOLqP8FyvU79gAKHwSF"
-      },
-      "artists": [
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Prem's",
-          "url": "https://open.spotify.com/artist/0gbdi05gJIGYtDMiQ5kbN5"
-        },
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        }
-      ],
-      "duration_ms": 195005,
-      "name": "Come On Kaali (From \"KD\")",
-      "url": "https://open.spotify.com/track/0Sgt0eh1nims14hSpO3IVQ"
     }
   ],
   "unique_name": "Latest Kannada",

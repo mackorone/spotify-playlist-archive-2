@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,005 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,027 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 40 | [The Hum \- Radio Edit](https://open.spotify.com/track/1CcLIsxjZKL2jJhGfH0SoK) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [The Hum](https://open.spotify.com/album/0sK48g2fPqMKsCCHN8aO6h) | 3:31 |
 | 41 | [Wizard](https://open.spotify.com/track/4hfYGVqQ0ElgeibMocRUvi) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Gold Skies](https://open.spotify.com/album/4EV2HGPHQpUu4cPxJTP0OT) | 4:41 |
 | 42 | [How We Party](https://open.spotify.com/track/0Zv45bSIvDc1d8iJlJvwc3) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [How We Party](https://open.spotify.com/album/5LUI1FG3ObfrJGMTUJBtvw) | 3:31 |
-| 43 | [Raise Your Hands \- Radio Edit](https://open.spotify.com/track/7LdTalCN5cwD2XHTzuYufv) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Raise Your Hands \(Radio Edit\)](https://open.spotify.com/album/4B0E4mJA0NB9kZ2mayW3eY) | 4:26 |
+| 43 | [Snake](https://open.spotify.com/track/2kFCLPMtn29QkjjoZOXCK5) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Snake](https://open.spotify.com/album/4PQXsVrs27wnKkdF7nswo6) | 5:11 |
 | 44 | [Retrograde](https://open.spotify.com/track/1TxOJErR8b3SsCDdiVkYsx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Retrograde](https://open.spotify.com/album/7ygmx5PY4EF86hkkXLazAf) | 4:11 |
-| 45 | [Snake](https://open.spotify.com/track/2kFCLPMtn29QkjjoZOXCK5) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Snake](https://open.spotify.com/album/4PQXsVrs27wnKkdF7nswo6) | 5:11 |
+| 45 | [Raise Your Hands \- Radio Edit](https://open.spotify.com/track/7LdTalCN5cwD2XHTzuYufv) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Raise Your Hands \(Radio Edit\)](https://open.spotify.com/album/4B0E4mJA0NB9kZ2mayW3eY) | 4:26 |
 | 46 | [Again And Again \- Radio Edit](https://open.spotify.com/track/6GAp8kyxBdSF6BYbgByAhh) | [Basto](https://open.spotify.com/artist/2BJTwV4IpFe2gWL46KKlji) | [Again And Again](https://open.spotify.com/album/1y0smpOM2fmgsNL9l5dQCd) | 3:02 |
 | 47 | [G.I.P.S.Y.](https://open.spotify.com/track/5Xhhp2oYeueCjTI06r6LHC) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ) | [G.I.P.S.Y.](https://open.spotify.com/album/3hIa94ZQqFgQSFg1aA9ShB) | 3:41 |
 

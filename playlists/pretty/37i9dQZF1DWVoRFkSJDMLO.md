@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > The latest in world music\. From the continent, to the islands with Buju Banton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,373 likes - 89 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,393 likes - 89 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

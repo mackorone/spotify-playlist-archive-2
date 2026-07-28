@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 1523,
+  "num_followers": 1525,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAACuopnaO2N4TlbG/YwJjmnX",
+  "snapshot_id": "amVOAAAAAACktbd+HIB+AAfJIQYkB5cP",
   "tracks": [
     {
       "added_at": null,
@@ -691,30 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ready When You Are",
-        "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
-      },
-      "artists": [
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Kojey Radical",
-          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 175526,
-      "name": "ELEVATOR",
-      "url": "https://open.spotify.com/track/2MZulN534Fv0S6PXNySzVg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BARE SUGAR",
         "url": "https://open.spotify.com/album/1FEv4lzzX2jNBvFpWX8InD"
       },
@@ -739,6 +715,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ready When You Are",
+        "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 175526,
+      "name": "ELEVATOR",
+      "url": "https://open.spotify.com/track/2MZulN534Fv0S6PXNySzVg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What's A Diamond To A Baby - The Remixes Vol. 1",
         "url": "https://open.spotify.com/album/6dP1NZlwdwdzrfnlkNlrTv"
       },
@@ -759,30 +759,6 @@
       "duration_ms": 254000,
       "name": "Uh Huh Okay (Remix)",
       "url": "https://open.spotify.com/track/5haqYf5lnZ8urUL7riUe2U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambrosia",
-        "url": "https://open.spotify.com/album/02HL5yDyMnfyhw1Wgi45xj"
-      },
-      "artists": [
-        {
-          "name": "EMIL",
-          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
-        },
-        {
-          "name": "King Kay",
-          "url": "https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB"
-        },
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Perfect Peace",
-      "url": "https://open.spotify.com/track/0taUesXNdcrBxJBUR4FXYg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4odPobAM8zzccoqFwAVeBW.md) - [plain]
 
 > Check out our latest Cargo digital distributed tracks! Updated weekly
 
-[Cargo Independent Distribution](https://open.spotify.com/user/cargorecords) - 640 likes - 80 songs - 6 hr 41 min
+[Cargo Independent Distribution](https://open.spotify.com/user/cargorecords) - 640 likes - 80 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/4odPobAM8zzccoqFwAVeBW.md) - [plain]
 | 5 | [Riki Rachtman](https://open.spotify.com/track/3jlHIVesYOymZzSmbT9S24) | [Nick Mitchell Maiato](https://open.spotify.com/artist/5xVDCUwaCgq92kjaXoypqS) | [Riki Rachtman](https://open.spotify.com/album/5IUTLwqv7spqvqWn7TqETP) | 6:51 |
 | 6 | [Criticize \- Future mix 2030](https://open.spotify.com/track/1oqvF7yJWZq9UO9iyxRcW2) | [Pete Spiby](https://open.spotify.com/artist/4BQTEFK3yEDeeJ2haGQbsl) | [Cheap Flights to a sublime future](https://open.spotify.com/album/28ePY1slLeEuL3XA4xSIGs) | 3:41 |
 | 7 | [Toku No Minato \- DJ Trystero All Frills Remix](https://open.spotify.com/track/3HGgX59XOeWsFbp4xt1EDc) | [CxBxT](https://open.spotify.com/artist/6b3mAMqETY2saNhbieaKur), [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l), [Adrian Corker](https://open.spotify.com/artist/0vGBRguVWc2xLgn6crZtQH), [DJ Trystero](https://open.spotify.com/artist/4ZgLP2i0RUqqcbOxMor2rI) | [.After Again](https://open.spotify.com/album/4tC1LtanoYgOZfYvBnHFT1) | 7:22 |
-| 8 | [Drunk Like Me](https://open.spotify.com/track/5TriZEuSvuMM41bIXGmI6K) | [Tyla J\. Pallas](https://open.spotify.com/artist/5XvE4cDJeE0DGkIWGMsqkp) | [Classical Dogs](https://open.spotify.com/album/5RL4Or0zen6bCdXJjiKEys) | 2:52 |
+| 8 | [Drunk Like Me](https://open.spotify.com/track/5TriZEuSvuMM41bIXGmI6K) | [Tyla J\. Pallas](https://open.spotify.com/artist/5XvE4cDJeE0DGkIWGMsqkp) | [Classical Dogs](https://open.spotify.com/album/5RL4Or0zen6bCdXJjiKEys) | 4:57 |
 | 9 | [All We Got Is Us](https://open.spotify.com/track/6B8lezUCIvWnhceYuf8Cdw) | [Nekra](https://open.spotify.com/artist/58m7ayz4XwscODlKampXsw) | [All We Got Is Us](https://open.spotify.com/album/20yA1cnQV6yWaMFmoLK0uK) | 1:35 |
 | 10 | [Hand Me Down](https://open.spotify.com/track/5iPOiqQch4N8ZUKtK7dJPB) | [Lone Bison](https://open.spotify.com/artist/61OWpiozb1YFD4T8IhoJGB) | [Longshore Drifting](https://open.spotify.com/album/3i3ZRXMtaWAJSEhMalmyzD) | 2:42 |
 | 11 | [Babylon](https://open.spotify.com/track/3aCoA6omcaSDjRNItSfBp6) | [Lola Pony](https://open.spotify.com/artist/220TdFBGDcqRON4FVSiVJQ) | [Pink Trash Chicken](https://open.spotify.com/album/0i5Ms1usprATdgAXwI9xYl) | 2:50 |

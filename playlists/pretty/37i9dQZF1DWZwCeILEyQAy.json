@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: PLUTO",
-  "num_followers": 454638,
+  "num_followers": 454611,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
+        "name": "50/50",
+        "url": "https://open.spotify.com/album/1Fv4D4aMB6GPfOTDe4Gh0F"
+      },
+      "artists": [
+        {
+          "name": "Yung Miami",
+          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
+        }
+      ],
+      "duration_ms": 100745,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/1DwW4mn2dVLJxGJzdvAcls"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
         "name": "Finesse (feat. GloRilla)",
         "url": "https://open.spotify.com/album/0RRvy9tpjR19zKnM0xhRW4"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 192567,
       "name": "Finesse (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6zdGkPEBTBojHWZmEDU8zE"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
-        "name": "50/50",
-        "url": "https://open.spotify.com/album/1Fv4D4aMB6GPfOTDe4Gh0F"
-      },
-      "artists": [
-        {
-          "name": "Yung Miami",
-          "url": "https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki"
-        }
-      ],
-      "duration_ms": 100745,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/1DwW4mn2dVLJxGJzdvAcls"
     },
     {
       "added_at": "2025-06-20 04:00:58",

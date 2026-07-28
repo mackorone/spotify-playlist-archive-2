@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,605 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,640 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 47 | [Moratata \(feat\. Leemckrazy & TitoM\)](https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k) | [DALI DALI](https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc) | 6:25 |
 | 48 | [Woza La](https://open.spotify.com/track/6XK0BdLYoXJyfb1JfuN4BQ) | [King P](https://open.spotify.com/artist/47afOpYr8n2njpPNQKuQfc), [Tumilemang](https://open.spotify.com/artist/0zdAH79ZRnudDRbmuSJFHl) | [Woza La](https://open.spotify.com/album/0uszDQSCIPfgXo8nEAPnaA) | 6:56 |
 | 49 | [Groove](https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh) | [Groove](https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU) | 5:51 |
-| 50 | [Rekisa Kapela \(feat\. Certified Dyan\)](https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT) | [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Certified Dyan](https://open.spotify.com/artist/5lD4Tgz3swAAOiKq5F5f9Q) | [The EEQualizer](https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U) | 6:01 |
+| 50 | [Pure Bliss](https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe) | [Luzyo Keys](https://open.spotify.com/artist/4xejznKspg2TLQn2KOXbNk), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l) | [Pure Bliss](https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn) | 7:30 |
 
 Snapshot ID: `AAAAAJ8dlng/MsGGZ13op3R60YfA5PYI`

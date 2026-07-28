@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 23552,
+  "num_followers": 23691,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Pleasure",
-        "url": "https://open.spotify.com/album/5lkg7o5NcXN7PcfwBBv7sm"
-      },
-      "artists": [
-        {
-          "name": "Girls At Our Best!",
-          "url": "https://open.spotify.com/artist/5DYT0cYfntdC8sxyIOAhiC"
-        }
-      ],
-      "duration_ms": 120573,
-      "name": "Getting Nowhere Fast",
-      "url": "https://open.spotify.com/track/6sSYt3AFE99M6cqzD4xq3i"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Stepping Out of Line - The Anthology",
         "url": "https://open.spotify.com/album/1rQBMMOdTHjqRcg3mD54VK"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 377026,
       "name": "It's Obvious",
       "url": "https://open.spotify.com/track/5gPOiq7h6NydcfXEv2XiYg"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Pleasure",
+        "url": "https://open.spotify.com/album/5lkg7o5NcXN7PcfwBBv7sm"
+      },
+      "artists": [
+        {
+          "name": "Girls At Our Best!",
+          "url": "https://open.spotify.com/artist/5DYT0cYfntdC8sxyIOAhiC"
+        }
+      ],
+      "duration_ms": 120573,
+      "name": "Getting Nowhere Fast",
+      "url": "https://open.spotify.com/track/6sSYt3AFE99M6cqzD4xq3i"
     },
     {
       "added_at": "2026-07-01 16:22:16",

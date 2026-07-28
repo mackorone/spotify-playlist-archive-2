@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11586,
+  "num_followers": 11585,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAACgoG2j4FvtI8JXXLWazMOE",
+  "snapshot_id": "amVOAAAAAABlFFMqFEBpgHfIPFJrII5P",
   "tracks": [
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 275198,
-      "name": "Save Me From You",
-      "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
+      "duration_ms": 207750,
+      "name": "Best For Me",
+      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everytime You Go Away (From the Documentary \u201cJohn Candy: I Like Me\")",
-        "url": "https://open.spotify.com/album/1WdHwykRftuLBoD4LlzOBg"
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 308948,
-      "name": "Everytime You Go Away - From the Documentary \u201cJohn Candy: I Like Me\"",
-      "url": "https://open.spotify.com/track/2m32Fp49p0F3ojwUJ295WC"
+      "duration_ms": 209893,
+      "name": "The Good",
+      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
     },
     {
       "added_at": null,
@@ -608,15 +608,15 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 207750,
-      "name": "Best For Me",
-      "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
+      "duration_ms": 275198,
+      "name": "Save Me From You",
+      "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+        "name": "Everytime You Go Away (From the Documentary \u201cJohn Candy: I Like Me\")",
+        "url": "https://open.spotify.com/album/1WdHwykRftuLBoD4LlzOBg"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 209893,
-      "name": "The Good",
-      "url": "https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3"
+      "duration_ms": 308948,
+      "name": "Everytime You Go Away - From the Documentary \u201cJohn Candy: I Like Me\"",
+      "url": "https://open.spotify.com/track/2m32Fp49p0F3ojwUJ295WC"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wicked: For Good \u2013 The Soundtrack (Commentary)",
-        "url": "https://open.spotify.com/album/1R5nuRHEJTGMMN9wy6FdfD"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 41861,
-      "name": "No Place Like Home - Commentary",
-      "url": "https://open.spotify.com/track/7jCUml0R1F8TRi7dXyYoLc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wicked: For Good \u2013 The Soundtrack (Commentary)",
+        "url": "https://open.spotify.com/album/1R5nuRHEJTGMMN9wy6FdfD"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 41861,
+      "name": "No Place Like Home - Commentary",
+      "url": "https://open.spotify.com/track/7jCUml0R1F8TRi7dXyYoLc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ocean In The Desert",
         "url": "https://open.spotify.com/album/07nZoKl1t2TWlXhTuN0GsR"
       },
@@ -951,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+        "name": "The Color Purple (New Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 244804,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/2sgqTwYVgjQT3scjsefjDP"
+      "duration_ms": 77077,
+      "name": "Somebody Gonna Love You",
+      "url": "https://open.spotify.com/track/1dKsRmAjZ8HAvdVMZYEval"
     }
   ],
   "unique_name": "This Is Cynthia Erivo",

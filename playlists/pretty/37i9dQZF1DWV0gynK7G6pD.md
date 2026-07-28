@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Lavinia Meijer
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,709 likes - 88 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,726 likes - 87 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,10 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 81 | [Lyric Pieces, Book I, Op\. 12: No\. 4, Fairy Dance](https://open.spotify.com/track/2zf9LAeQOITcEQ2PiVXaVf) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Anna Koller](https://open.spotify.com/artist/0XICTiuqjOZ7t6hXal1LpD) | [Grieg: Lyric Pieces, Book I, Op\. 12: No\. 4, Fairy Dance](https://open.spotify.com/album/3EQ6FWZYhMYOpgCjGby5Ax) | 1:03 |
 | 82 | [Prelude no.1 in C major](https://open.spotify.com/track/1Ybb8VKpjwC2Hs8V3AoNGC) | [Tom Donald](https://open.spotify.com/artist/3IQaJTfEyvDouw8o7LMqoN) | [My Tempered Clavier](https://open.spotify.com/album/1u2eZV7zAIY8mYkNLTxxzH) | 2:30 |
 | 83 | [Praeludium in D minor op. 36/1](https://open.spotify.com/track/4D8frniOhwAciyfDM5Vpsl) | [Richard Bartmuß](https://open.spotify.com/artist/2ZBwMqEvb0C9SDtmYCIPP6), [Friedhelm Flamme](https://open.spotify.com/artist/0XlwhYAgL3mxYjAX99t22b) | [Richard Bartmuß: Praeludium in D minor op. 36/1](https://open.spotify.com/album/1lFWybqVyjxHd8ogPO6HOp) | 3:42 |
-| 84 | [Op\. 11 Three Toccata of Triumph, No\. 5](https://open.spotify.com/track/1Ohv5v4586uBJsCpLyfe7g) | [Joe Diederiks](https://open.spotify.com/artist/5WgHURT17pfYnTBzaeBf4J), [Organ Works](https://open.spotify.com/artist/0Kg7i2h8tJQ6zrvRqL0KX6) | [Op\. 11 Three Toccatas of Triumph](https://open.spotify.com/album/6nbmS7ShfRLeiddjlc0t2y) | 2:39 |
-| 85 | [How dear to me](https://open.spotify.com/track/19GWSoWKUoLlHHDwQK9Rey) | [Michael Finnissy](https://open.spotify.com/artist/2tsOm9CPRD4SbZagsqAhj4), [Joseph Havlat](https://open.spotify.com/artist/27OOE3ev1ynCZYBvSr8OMJ) | [How dear to me](https://open.spotify.com/album/663HaxIl1BlNpZ9Uyh8WdD) | 5:09 |
-| 86 | [Sonate pour orgue: III\. Danse](https://open.spotify.com/track/383fditYJU7xPqe2nbkYbs) | [David Maw](https://open.spotify.com/artist/7GEazKryNMHzujODEWIGQ5), [Stephen Farr](https://open.spotify.com/artist/4JmDKpOLyJ207R15xJ18Eq) | [Accende Lumen Sensibus: Organ Music By David Maw](https://open.spotify.com/album/2uDj9n39gklpOfWkjzT9Do) | 7:15 |
-| 87 | [Piano Sonata No\. 1, Op\. 53: I\. Lento \- Più allegro](https://open.spotify.com/track/3JpQEB1r0gr9JECPARYJFm) | [Anthony Hedges](https://open.spotify.com/artist/5OzqYKFdEYiAHxXQwi70p4), [Adam Davies](https://open.spotify.com/artist/2IbPAZ1lCSmmgIte1zQdJG) | [Sonata No\. 1, Op\. 53: I\. Lento – Più allegro](https://open.spotify.com/album/4mOqsThsFwv4Ze4n9BAGBb) | 6:51 |
-| 88 | [6 Organ Sonatas, Op\. 65: Organ Sonata No\. 4 in B\-Flat Major, MWV W 59: I\. Allegro con brio](https://open.spotify.com/track/3KrYSIDS48jWE7DBN5OSDt) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Samuel Bristow](https://open.spotify.com/artist/3Bh4ssjS0NfqNimMmgBQ6B) | [Mendelssohn: 6 Organ Sonatas, Op\. 65](https://open.spotify.com/album/2JeHLW9ui7x76XVaWAEoN1) | 3:22 |
+| 84 | [How dear to me](https://open.spotify.com/track/19GWSoWKUoLlHHDwQK9Rey) | [Michael Finnissy](https://open.spotify.com/artist/2tsOm9CPRD4SbZagsqAhj4), [Joseph Havlat](https://open.spotify.com/artist/27OOE3ev1ynCZYBvSr8OMJ) | [How dear to me](https://open.spotify.com/album/663HaxIl1BlNpZ9Uyh8WdD) | 5:09 |
+| 85 | [Sonate pour orgue: III\. Danse](https://open.spotify.com/track/383fditYJU7xPqe2nbkYbs) | [David Maw](https://open.spotify.com/artist/7GEazKryNMHzujODEWIGQ5), [Stephen Farr](https://open.spotify.com/artist/4JmDKpOLyJ207R15xJ18Eq) | [Accende Lumen Sensibus: Organ Music By David Maw](https://open.spotify.com/album/2uDj9n39gklpOfWkjzT9Do) | 7:15 |
+| 86 | [Piano Sonata No\. 1, Op\. 53: I\. Lento \- Più allegro](https://open.spotify.com/track/3JpQEB1r0gr9JECPARYJFm) | [Anthony Hedges](https://open.spotify.com/artist/5OzqYKFdEYiAHxXQwi70p4), [Adam Davies](https://open.spotify.com/artist/2IbPAZ1lCSmmgIte1zQdJG) | [Sonata No\. 1, Op\. 53: I\. Lento – Più allegro](https://open.spotify.com/album/4mOqsThsFwv4Ze4n9BAGBb) | 6:51 |
+| 87 | [6 Organ Sonatas, Op\. 65: Organ Sonata No\. 4 in B\-Flat Major, MWV W 59: I\. Allegro con brio](https://open.spotify.com/track/3KrYSIDS48jWE7DBN5OSDt) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Samuel Bristow](https://open.spotify.com/artist/3Bh4ssjS0NfqNimMmgBQ6B) | [Mendelssohn: 6 Organ Sonatas, Op\. 65](https://open.spotify.com/album/2JeHLW9ui7x76XVaWAEoN1) | 3:22 |
 
-Snapshot ID: `AAAAAAhM5ReQXCSwkVqo4ECgTLdetU60`
+Snapshot ID: `AAAAAMfXCMJkGwje2jcDvIHuyCqIGvke`

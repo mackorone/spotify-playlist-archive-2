@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-407 songs - 1 day 5 hr 14 min
+408 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [8・31](https://open.spotify.com/track/5MBJ5sufk0wQdkmLMUmv5Q) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 2:35 | 2022-12-30 |  |
 | [A Daybreak of Autumn](https://open.spotify.com/track/01KMczzUMVQ2NqcaCnL80F) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [A Daybreak of Autumn](https://open.spotify.com/album/00UHLbZ1HP7rFzTio0sDKH) | 3:11 | 2022-01-07 | 2026-07-02 |
 | [A Dream Floating Like a Goldfish](https://open.spotify.com/track/3U1ec2jSAJzZMDOO5nRMsI) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [A Dream Floating Like a Goldfish](https://open.spotify.com/album/1E9415IbHBoQ52mdZ4w5F5) | 2:08 | 2026-03-25 | 2026-04-16 |
-| [A Fleeting Place](https://open.spotify.com/track/4lq1X8B9hKV2l2LvhXZ70A) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [A Fleeting Place](https://open.spotify.com/album/5aw6cIKxoGQsg8V3WX6z8M) | 2:30 | 2025-11-11 |  |
+| [A Fleeting Place](https://open.spotify.com/track/4lq1X8B9hKV2l2LvhXZ70A) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [A Fleeting Place](https://open.spotify.com/album/5aw6cIKxoGQsg8V3WX6z8M) | 2:30 | 2025-11-11 | 2026-07-28 |
 | [A Light Snow](https://open.spotify.com/track/2eEvzoLyLK6OVlegteDtiJ) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Void XXII](https://open.spotify.com/album/7kglN4QQK5KVbotPVHpkYQ) | 5:16 | 2022-01-07 |  |
 | [A Light That Never Goes Out](https://open.spotify.com/track/4G5N7J6dXJ1xEjGuOpjtzc) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Perennial Grace](https://open.spotify.com/album/4QcvV1Nw1H3652zxVnPbnZ) | 3:22 | 2025-02-21 |  |
 | [A Tale](https://open.spotify.com/track/7xCVZnISlnQ2v30xD6qGY1) | [Synagetic Voice Orchestra](https://open.spotify.com/artist/4ajIjToZA6Hfqo3U2vQqeN) | [Heisei No Oto: Japanese Left\-field Pop From The CD Age, 1989\-1996](https://open.spotify.com/album/6EosUnPLduZ3HV9BKJBdts) | 5:35 | 2024-03-07 | 2025-01-25 |
@@ -94,6 +94,7 @@
 | [Dear \- Haruhisa Tanaka Remix](https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD), [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Dear \(Haruhisa Tanaka Remix\)](https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3) | 2:10 | 2023-08-24 |  |
 | [Deep Slope](https://open.spotify.com/track/3vnxDCohhQne2ae9RYbTZ6) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/6Odd0pQof21z3lkmu1ncZz) | 6:43 | 2022-08-19 | 2025-01-25 |
 | [Deep Slope](https://open.spotify.com/track/7eMuRAkos8JufYmNwjxshE) | [Shinji Wakasa](https://open.spotify.com/artist/0Z0FNsj58WHvVPj5RTkrNO) | [Deep Slope](https://open.spotify.com/album/5iAC5AAza3lS6gUIpCuz6N) | 6:43 | 2023-01-06 | 2024-04-19 |
+| [Dim Light](https://open.spotify.com/track/2EmAidvtoBJ2FghwnhmMh5) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Dim Light](https://open.spotify.com/album/7GqOGHa2rxi8eUncQBM437) | 2:54 | 2026-07-18 |  |
 | [drizzle](https://open.spotify.com/track/7uMejNc2Z9zbLQtDjBiaJc) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [drizzle](https://open.spotify.com/album/1HhtP45ahsxWLgOVO56VaJ) | 1:13 | 2026-03-09 | 2026-05-05 |
 | [Ear Dreamin'](https://open.spotify.com/track/2b7h7hMkxj5hDorhGfTGoU) | [Yoshiaki Ochi](https://open.spotify.com/artist/13mbePwXckXt3I7My0oypo) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 4:45 | 2022-12-30 | 2025-03-07 |
 | [Early Morning](https://open.spotify.com/track/4QMTjiyxQZyHkJkd5kOVjo) | [Yuki Ishii](https://open.spotify.com/artist/7uNHU1YLG5NsxBgwkx60SR) | [REFLECTION](https://open.spotify.com/album/2X2kWxa1i0mMX07XFgmgW2) | 1:32 | 2022-01-07 | 2025-06-13 |

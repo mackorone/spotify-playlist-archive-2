@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: The Revivalists
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,216 likes - 99 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,219 likes - 99 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 
 > This is Outsiders\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,888 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,896 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO01ZMJO.md) - [plain]
 | 43 | [Thunderbolt \(Outsiders Remix\)](https://open.spotify.com/track/6tgLeIVLBgYuV1WnN7yJdB) | [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Sidney Samson](https://open.spotify.com/artist/3XonXgjEAAXVl0WKLF1Z4g), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Thunderbolt \(Outsiders Remix\)](https://open.spotify.com/album/2VIle6GvNBwToC8zX2aDZL) | 2:27 |
 | 44 | [Pullover \(feat\. J.D.A.\)](https://open.spotify.com/track/0lhpUzuy55cSFC44B143I2) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [J.D.A.](https://open.spotify.com/artist/2JDi9za9u6zXMmUwSZGPZs) | [Pullover \(feat\. J.D.A.\)](https://open.spotify.com/album/0ehvryl4ZSycpdBU54I5Ak) | 3:02 |
 | 45 | [Magnifico \- Jump Remix](https://open.spotify.com/track/3sFZe3Y4rvMmIdxpektQfV) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Magnifico \(Jump Remix\)](https://open.spotify.com/album/17fsAHAovXmpHcXuESaJfh) | 2:39 |
-| 46 | [Never Die](https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Never Die](https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu) | 3:20 |
-| 47 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
+| 46 | [Das Armas](https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Das Armas](https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc) | 3:02 |
+| 47 | [Never Die](https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Never Die](https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu) | 3:20 |
 | 48 | [KUTMUZIEK](https://open.spotify.com/track/12hnvrted7ORllAafrUiao) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [NZGÛL](https://open.spotify.com/artist/0dgxigpP5eh4WUaIxXBYgH) | [KUTMUZIEK](https://open.spotify.com/album/1LvdeBpWj05dDC4Xh7zd3o) | 2:30 |
 | 49 | [Me Emborrachare \- Hardstyle Original Remix](https://open.spotify.com/track/5mO5l8aCXDEw7qFNcPUtf4) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS) | [Me Emborrachare \(Hardstyle Original Remix\)](https://open.spotify.com/album/0iSyYIPSg9ov8R5bgxFu0t) | 4:11 |
 | 50 | [Zimmer Frei](https://open.spotify.com/track/2sEJ7YtIK2qpEu7aGQMzia) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Immer Hansi](https://open.spotify.com/artist/5pUX4FpriGXvWLiOdcugUH), [Jody Bernal](https://open.spotify.com/artist/7oKJmnPaABXLPkw3gT7rIa) | [Zimmer Frei](https://open.spotify.com/album/32scrhlBaSowEpVQBkO1e5) | 2:53 |
 
-Snapshot ID: `amP8gAAAAABSXiGWiRWR+KIET35sIf+c`
+Snapshot ID: `amVOAAAAAAC4TtqoBgkAbnBcb+wwTPH8`

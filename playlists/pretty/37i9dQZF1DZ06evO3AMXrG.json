@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 251434,
+  "num_followers": 251464,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAB5676kjhCKiBZp2tG7GRuk",
+  "snapshot_id": "amVOAAAAAACmPKo49k0gwZvbLwTkmnAJ",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fuiste Cruel",
+        "url": "https://open.spotify.com/album/7DLDlPtke6T1IE6Ln5YYJj"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 297738,
+      "name": "Fuiste Cruel",
+      "url": "https://open.spotify.com/track/18hSUDDtjfrM5viZI02hfe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M. O. T. A.",
         "url": "https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7"
       },
@@ -427,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuiste Cruel",
-        "url": "https://open.spotify.com/album/7DLDlPtke6T1IE6Ln5YYJj"
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB"
       },
       "artists": [
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 297738,
-      "name": "Fuiste Cruel",
-      "url": "https://open.spotify.com/track/18hSUDDtjfrM5viZI02hfe"
+      "duration_ms": 229150,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN"
     },
     {
       "added_at": null,

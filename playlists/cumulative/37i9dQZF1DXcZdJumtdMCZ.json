@@ -159,6 +159,24 @@
     },
     {
       "album": {
+        "name": "I-Popstar Tamil | Ep 03",
+        "url": "https://open.spotify.com/album/2rEAcLoRlmzSwrVkCLk6Pv"
+      },
+      "artists": [
+        {
+          "name": "Aadhithan",
+          "url": "https://open.spotify.com/artist/6nRSfhyWpWjUj8t4dPencq"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Aadhithan Varuvaan",
+      "url": "https://open.spotify.com/track/6DKt5AFrGFE9ChLMaW2cLS"
+    },
+    {
+      "album": {
         "name": "aadra",
         "url": "https://open.spotify.com/album/6RMwuxhRcZDQWRyP5ke0Or"
       },
@@ -1464,6 +1482,24 @@
       "duration_ms": 258644,
       "name": "Death Molam",
       "url": "https://open.spotify.com/track/1cWkNAI04ZAmHeSIGfXRsW"
+    },
+    {
+      "album": {
+        "name": "I-Popstar Tamil | Ep 02",
+        "url": "https://open.spotify.com/album/1H4XAUBpojjbzOlg94Tipk"
+      },
+      "artists": [
+        {
+          "name": "Dosa Kallu",
+          "url": "https://open.spotify.com/artist/0UV8GmHrMz7yAWyjsgYMBo"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Dosa Kallu Entry",
+      "url": "https://open.spotify.com/track/0LU2HsVMYgMDxEz3wUppJ4"
     },
     {
       "album": {
@@ -4542,7 +4578,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 140346,
       "name": "NK",
       "url": "https://open.spotify.com/track/2pYul2HnwAZLgjRD0rmtJS"
@@ -5248,7 +5284,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 203647,
       "name": "Phone Na Hello",
       "url": "https://open.spotify.com/track/7kqNJswXZELtnqz0cszKnn"

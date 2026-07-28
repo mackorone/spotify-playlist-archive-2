@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky\. Cover: Roska
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,293 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,295 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 33 | [Ravers](https://open.spotify.com/track/1Zk2e5gEbJbAqjC1HIozCc) | [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y), [European 305](https://open.spotify.com/artist/1UB3q4Ly1A7pOno5OMLENU) | [Ravers](https://open.spotify.com/album/6AOBVhxdU833s723ef7IrE) | 2:28 |
 | 34 | [African Warrior](https://open.spotify.com/track/6dL3LxoLp1NBK4DsoE6phw) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Party Hard](https://open.spotify.com/album/4HkdumZIdnXHQMYgwtG1VV) | 4:18 |
 | 35 | [T\-Shirt \- Crazy Cousinz Vocal Remix](https://open.spotify.com/track/5skRvPNGdQMBORLv1UTt0c) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [T\-Shirt \(UK remixes\)](https://open.spotify.com/album/7yqRpx812OgyuspBHWbPzn) | 5:35 |
-| 36 | [Bust Your Windows \(feat\. Gracious K\) \- DJ Naughty \(UK Funky Remix\)](https://open.spotify.com/track/4ENaM9gBkb3jB2wkY8kq2g) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Gracious K](https://open.spotify.com/artist/6V1DvxiIkIOvjTK2yzLNyy), [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Bust Your Windows](https://open.spotify.com/album/5aaup0npZmZo3FO2Hm1d8Y) | 6:39 |
-| 37 | [Emotions](https://open.spotify.com/track/2RMg1XOdQPxDesC5ihYk90) | [Zinc](https://open.spotify.com/artist/2XbmF8oDG2rPuuWfnrCGPF), [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx), [Nikki](https://open.spotify.com/artist/0jMnOC6Aa7ayV4nBZrGEwm) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:05 |
+| 36 | [Emotions](https://open.spotify.com/track/2RMg1XOdQPxDesC5ihYk90) | [Zinc](https://open.spotify.com/artist/2XbmF8oDG2rPuuWfnrCGPF), [Geeneus](https://open.spotify.com/artist/6ejhSoIRxxVXEDJTR3kAVx), [Nikki](https://open.spotify.com/artist/0jMnOC6Aa7ayV4nBZrGEwm) | [Volumes:One](https://open.spotify.com/album/5P8MqL3LWOQ8mHLVA8wd6h) | 7:05 |
+| 37 | [Bust Your Windows \(feat\. Gracious K\) \- DJ Naughty \(UK Funky Remix\)](https://open.spotify.com/track/4ENaM9gBkb3jB2wkY8kq2g) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Gracious K](https://open.spotify.com/artist/6V1DvxiIkIOvjTK2yzLNyy), [DJ Naughty](https://open.spotify.com/artist/5SThGnsHuNHE99IzvbfKgo) | [Bust Your Windows](https://open.spotify.com/album/5aaup0npZmZo3FO2Hm1d8Y) | 6:39 |
 | 38 | [Lush \- Fuzzy Logik Remix](https://open.spotify.com/track/70sPvzZcGOYK0CnxzYrGC7) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Fuzzy Logik](https://open.spotify.com/artist/4piotdMysykYFW82NqRaLy) | [Lush](https://open.spotify.com/album/3ECz7PCncaV9aWNA9XVWVv) | 4:44 |
 | 39 | [De Siegalizer](https://open.spotify.com/track/05oRAIJvKCJ5Vku1RLldwB) | [Apple](https://open.spotify.com/artist/0cLE7Rf26nPEpDrm20OrHf) | [Appocolipto](https://open.spotify.com/album/2hKShqGKTrmyKECCD6VX5G) | 3:57 |
 | 40 | [Gabryelle \(Refix\)](https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh) | [D\-Malice](https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT) | [Gabryelle \(Refix\)](https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO) | 4:51 |

@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:4D2PCg640w5R8SGfAlO2ZR\">Kuba Kamik</a>",
-  "num_followers": 42295,
+  "num_followers": 42292,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "Miasto wspomnie\u0144",
-        "url": "https://open.spotify.com/album/73OMxD88DJE7maW9WpK6Pk"
-      },
-      "artists": [
-        {
-          "name": "Kuba Grochmalski",
-          "url": "https://open.spotify.com/artist/3fA28l83dDIKSllVELHUpM"
-        }
-      ],
-      "duration_ms": 183111,
-      "name": "Miasto wspomnie\u0144",
-      "url": "https://open.spotify.com/track/63m8HierHWgOsL98aymlgh"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
         "name": "Chodzili\u015bmy nocami",
         "url": "https://open.spotify.com/album/1TzeQF6yFHilcxCpMiqlRu"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 251586,
       "name": "Chodzili\u015bmy nocami",
       "url": "https://open.spotify.com/track/69uRisdCC3xO68sokXIo6U"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
+        "name": "Miasto wspomnie\u0144",
+        "url": "https://open.spotify.com/album/73OMxD88DJE7maW9WpK6Pk"
+      },
+      "artists": [
+        {
+          "name": "Kuba Grochmalski",
+          "url": "https://open.spotify.com/artist/3fA28l83dDIKSllVELHUpM"
+        }
+      ],
+      "duration_ms": 183111,
+      "name": "Miasto wspomnie\u0144",
+      "url": "https://open.spotify.com/track/63m8HierHWgOsL98aymlgh"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "Poczt\u00f3wka z wakacji",
-        "url": "https://open.spotify.com/album/1aGcXa2O61ytcoceh7xOu6"
+        "name": "Pani Baudelaire",
+        "url": "https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6"
       },
       "artists": [
         {
-          "name": "Pan Mariuszek",
-          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
         }
       ],
-      "duration_ms": 164666,
-      "name": "Poczt\u00f3wka z wakacji",
-      "url": "https://open.spotify.com/track/6SeSb3T7vLDxCueDJOTHQA"
+      "duration_ms": 177846,
+      "name": "Pani Baudelaire",
+      "url": "https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "Pani Baudelaire",
-        "url": "https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6"
+        "name": "Poczt\u00f3wka z wakacji",
+        "url": "https://open.spotify.com/album/1aGcXa2O61ytcoceh7xOu6"
       },
       "artists": [
         {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+          "name": "Pan Mariuszek",
+          "url": "https://open.spotify.com/artist/3aIzQGnu1l0eCZSNTsl3W9"
         }
       ],
-      "duration_ms": 177846,
-      "name": "Pani Baudelaire",
-      "url": "https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8"
+      "duration_ms": 164666,
+      "name": "Poczt\u00f3wka z wakacji",
+      "url": "https://open.spotify.com/track/6SeSb3T7vLDxCueDJOTHQA"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "Panienka",
-        "url": "https://open.spotify.com/album/0pXaZr73ujYW4B0QgUUZ4x"
+        "name": "warszawa",
+        "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
       },
       "artists": [
         {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
         }
       ],
-      "duration_ms": 169063,
-      "name": "Panienka",
-      "url": "https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg"
+      "duration_ms": 152275,
+      "name": "warszawa",
+      "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1399,6 +1399,22 @@
       "duration_ms": 189287,
       "name": "ciszej",
       "url": "https://open.spotify.com/track/4mPZBA527PlYtLpyZzzQjY"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
+        "name": "Panienka",
+        "url": "https://open.spotify.com/album/0pXaZr73ujYW4B0QgUUZ4x"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
+        }
+      ],
+      "duration_ms": 169063,
+      "name": "Panienka",
+      "url": "https://open.spotify.com/track/1Lgg81BvOvFYjup8x9Gqeg"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1423,38 +1439,38 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "warszawa",
-        "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
+      },
+      "artists": [
+        {
+          "name": "Agata Karczewska",
+          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
+        }
+      ],
+      "duration_ms": 255060,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
+        "name": "usa",
+        "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
       },
       "artists": [
         {
           "name": "god.wifi",
           "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        }
-      ],
-      "duration_ms": 152275,
-      "name": "warszawa",
-      "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Occultica",
-        "url": "https://open.spotify.com/album/5OVBDlyWOI2PKFo4baSFbi"
-      },
-      "artists": [
-        {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
         },
         {
-          "name": "Aquarius",
-          "url": "https://open.spotify.com/artist/6wOOlnxULlk47Bw5qIyEgm"
+          "name": "nath",
+          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
         }
       ],
-      "duration_ms": 209596,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3HCSFXzgoXVNqeajP9YJmp"
+      "duration_ms": 129032,
+      "name": "usa",
+      "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1471,22 +1487,6 @@
       "duration_ms": 194880,
       "name": "bia\u0142y szum",
       "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/0e71KflqBG790HkG7j5DgL"
-      },
-      "artists": [
-        {
-          "name": "Agata Karczewska",
-          "url": "https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2"
-        }
-      ],
-      "duration_ms": 255060,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/7757YVXBXfK8wF82Lkfc92"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1515,22 +1515,22 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "usa",
-        "url": "https://open.spotify.com/album/5936AQNkhWX56AIuejoKQp"
+        "name": "Occultica",
+        "url": "https://open.spotify.com/album/5OVBDlyWOI2PKFo4baSFbi"
       },
       "artists": [
         {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
         },
         {
-          "name": "nath",
-          "url": "https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd"
+          "name": "Aquarius",
+          "url": "https://open.spotify.com/artist/6wOOlnxULlk47Bw5qIyEgm"
         }
       ],
-      "duration_ms": 129032,
-      "name": "usa",
-      "url": "https://open.spotify.com/track/5funIcHMQlkEU1U0IygYjN"
+      "duration_ms": 209596,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3HCSFXzgoXVNqeajP9YJmp"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
+        "name": "Nice from Poland (DJ BLIK remix)",
+        "url": "https://open.spotify.com/album/0Z2QjI0qvAwHOVbH2W7LIL"
+      },
+      "artists": [
+        {
+          "name": "DJ BLIK",
+          "url": "https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE"
+        },
+        {
+          "name": "vgtbl.pl",
+          "url": "https://open.spotify.com/artist/2kMcRNBgbx6szpteePrGew"
+        }
+      ],
+      "duration_ms": 236444,
+      "name": "Nice from Poland - DJ BLIK remix",
+      "url": "https://open.spotify.com/track/49NWBgKq5JxteqNIQ6IVhu"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
         "name": "Doskonale",
         "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 157621,
       "name": "piosenka o smutnych ludziach",
       "url": "https://open.spotify.com/track/1EXS8qtTTCUZlwfyXiqMSn"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
-        "name": "Nice from Poland (DJ BLIK remix)",
-        "url": "https://open.spotify.com/album/0Z2QjI0qvAwHOVbH2W7LIL"
-      },
-      "artists": [
-        {
-          "name": "DJ BLIK",
-          "url": "https://open.spotify.com/artist/7xVjiA11JIFZzGlj9AEAgE"
-        },
-        {
-          "name": "vgtbl.pl",
-          "url": "https://open.spotify.com/artist/2kMcRNBgbx6szpteePrGew"
-        }
-      ],
-      "duration_ms": 236444,
-      "name": "Nice from Poland - DJ BLIK remix",
-      "url": "https://open.spotify.com/track/49NWBgKq5JxteqNIQ6IVhu"
     },
     {
       "added_at": "2026-07-13 22:00:04",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "Hikikomori",
-        "url": "https://open.spotify.com/album/4ytOqAsRx90yR9LxF2zEHO"
-      },
-      "artists": [
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
-        }
-      ],
-      "duration_ms": 167642,
-      "name": "Hikikomori",
-      "url": "https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
         "name": "Biegn\u0119",
         "url": "https://open.spotify.com/album/51J98zaqTmcrQJbUJyXobQ"
       },
@@ -1695,6 +1679,22 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
+        "name": "Hikikomori",
+        "url": "https://open.spotify.com/album/4ytOqAsRx90yR9LxF2zEHO"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 167642,
+      "name": "Hikikomori",
+      "url": "https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
         "name": "Chwila",
         "url": "https://open.spotify.com/album/6eZDRKtNj3UI3TOkWI7LTt"
       },
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-07-13 22:00:04",
       "album": {
-        "name": "glorious",
-        "url": "https://open.spotify.com/album/0ZpLYh6IYYig3Dc7jKTFv3"
-      },
-      "artists": [
-        {
-          "name": "Kuba Kluza",
-          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "glorious",
-      "url": "https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2"
-    },
-    {
-      "added_at": "2026-07-13 22:00:04",
-      "album": {
         "name": "W Pary\u017cu",
         "url": "https://open.spotify.com/album/1TdT7jaAZq2e4jP6S2lSrm"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 156079,
       "name": "W Pary\u017cu",
       "url": "https://open.spotify.com/track/7JLC44spPEXR3knMyTyT8V"
+    },
+    {
+      "added_at": "2026-07-13 22:00:04",
+      "album": {
+        "name": "glorious",
+        "url": "https://open.spotify.com/album/0ZpLYh6IYYig3Dc7jKTFv3"
+      },
+      "artists": [
+        {
+          "name": "Kuba Kluza",
+          "url": "https://open.spotify.com/artist/1I0FVrxB03evIF9eTEwsVa"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "glorious",
+      "url": "https://open.spotify.com/track/4JCdgMHGrBFcEhRm3Knch2"
     }
   ],
   "unique_name": "GLOW Polska",

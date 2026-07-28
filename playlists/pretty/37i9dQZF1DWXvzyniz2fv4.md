@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,344 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,340 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 20 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 |
 | 21 | [Brisa Errada](https://open.spotify.com/track/3vZIAzOfhegGoTE9ey6ox5) | [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DaluzzZ](https://open.spotify.com/artist/5M8Jd9ueA7tszYqpkNGCdA), [DJ Dael](https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp) | [Brisa Errada](https://open.spotify.com/album/2ZhXjAPYq6SkrG4LI81Gct) | 2:03 |
 | 22 | [sintetizar](https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X) | [sazack](https://open.spotify.com/artist/6Xvmre2lrs6Rl0IdJlmVz1), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Matt](https://open.spotify.com/artist/4l1lw74M2WiTks3caXBtl9) | [cinco noites em sp](https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm) | 2:26 |
-| 23 | [Drogas e Sanfona](https://open.spotify.com/track/5OVfyWUnDUmCCoNvz0wYN9) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [DUPÊ](https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm), [Drake D.N](https://open.spotify.com/artist/1vzDo7jFkbW3beWrNYDB27), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Drogas e Sanfona](https://open.spotify.com/album/7sdSlxyUNrYIGnr7Gjtd7r) | 2:28 |
-| 24 | [Pode falar \- Acústico](https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [UM44K Acústico](https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh) | 2:43 |
+| 23 | [Pode falar \- Acústico](https://open.spotify.com/track/6r87fPeXYiKvG9Wa6oFcUP) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [UM44K Acústico](https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh) | 2:43 |
+| 24 | [Drogas e Sanfona](https://open.spotify.com/track/5OVfyWUnDUmCCoNvz0wYN9) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [DUPÊ](https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm), [Drake D.N](https://open.spotify.com/artist/1vzDo7jFkbW3beWrNYDB27), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Drogas e Sanfona](https://open.spotify.com/album/7sdSlxyUNrYIGnr7Gjtd7r) | 2:28 |
 | 25 | [Mundo Louco, Nós Também](https://open.spotify.com/track/7HZ2vnYJeKhByc42E57EEo) | [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm), [Thiago Castanho](https://open.spotify.com/artist/0r7OBphuxWbq7yxyDmalER), [Marcão Britto](https://open.spotify.com/artist/5jKJ8fkQJwbAb8z0cFpaWe) | [OCANV](https://open.spotify.com/album/4Bikfxcrqxu8mVuGPkkJ0D) | 3:45 |
 | 26 | [RASTAFARI](https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [RASTAFARI](https://open.spotify.com/album/63qxJ2WUYGI97N0litTHEG) | 2:07 |
 | 27 | [Jangada](https://open.spotify.com/track/04s5nBXVzrFSmpQYsU1AvH) | [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Jangada](https://open.spotify.com/album/45Mu8p9khZQVZCgO0PE23f) | 2:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 59 | [Fim de Semana](https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt) | [1Kilo](https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE), [DoisP](https://open.spotify.com/artist/4xcFNIVM3qTAXKmGRcBxx2), [BORIS FARIAS](https://open.spotify.com/artist/6Cp5dpCP8rgtVSEYewU6xF), [Mozart Mz](https://open.spotify.com/artist/5IpCG7K8h5YfPavIWLf2ne), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Fim de Semana](https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM) | 2:43 |
 | 60 | [Proposital \(Citação Aquele Abraço\)](https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Ato 3: TODAMANHÃ](https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw) | 2:48 |
 
-Snapshot ID: `AAAAAFL1sGrzJ45eSkjKdipMgqLZ444B`
+Snapshot ID: `AAAAADNE+PU/NXVnOeYd9xsldfVYY5zD`

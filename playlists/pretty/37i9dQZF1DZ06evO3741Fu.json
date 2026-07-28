@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAAB1kzaxDlU0WWaKjJUxRYzv",
+  "snapshot_id": "amVOAAAAAAC9LxK6/7RXmf46Rpfn2LY+",
   "tracks": [
     {
       "added_at": null,
@@ -272,17 +272,13 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         },
         {
-          "name": "Magz Hall",
-          "url": "https://open.spotify.com/artist/1fIKX12a64bAWp0wp2X5cl"
-        },
-        {
-          "name": "Mieko Shimizu",
-          "url": "https://open.spotify.com/artist/3IZbQSCjwUbC4sNNMjZZXr"
+          "name": "Nwando Ebizie",
+          "url": "https://open.spotify.com/artist/2iQRDca7GuLPCGAA8e3Ksx"
         }
       ],
-      "duration_ms": 237920,
-      "name": "Folly Tower Blooms",
-      "url": "https://open.spotify.com/track/5fVz9HTP6A3wAjLTLyuRvw"
+      "duration_ms": 229120,
+      "name": "The Art Of Living",
+      "url": "https://open.spotify.com/track/2R1qYqW4g1Ns5ubEGtZL6v"
     },
     {
       "added_at": null,
@@ -420,13 +416,17 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         },
         {
-          "name": "Nwando Ebizie",
-          "url": "https://open.spotify.com/artist/2iQRDca7GuLPCGAA8e3Ksx"
+          "name": "Magz Hall",
+          "url": "https://open.spotify.com/artist/1fIKX12a64bAWp0wp2X5cl"
+        },
+        {
+          "name": "Mieko Shimizu",
+          "url": "https://open.spotify.com/artist/3IZbQSCjwUbC4sNNMjZZXr"
         }
       ],
-      "duration_ms": 229120,
-      "name": "The Art Of Living",
-      "url": "https://open.spotify.com/track/2R1qYqW4g1Ns5ubEGtZL6v"
+      "duration_ms": 237920,
+      "name": "Folly Tower Blooms",
+      "url": "https://open.spotify.com/track/5fVz9HTP6A3wAjLTLyuRvw"
     },
     {
       "added_at": null,
@@ -456,17 +456,17 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         },
         {
-          "name": "Andrea Parker",
-          "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
-        },
-        {
           "name": "Daz Quayle",
           "url": "https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk"
+        },
+        {
+          "name": "Andrea Parker",
+          "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
         }
       ],
-      "duration_ms": 169973,
-      "name": "Oddments",
-      "url": "https://open.spotify.com/track/36Ru9HH7cs09sDiy9n3r2y"
+      "duration_ms": 844733,
+      "name": "Frightened of Myself",
+      "url": "https://open.spotify.com/track/7Lr072A5uJTm7xj2mUiUvP"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
         }
       ],
-      "duration_ms": 844733,
-      "name": "Frightened of Myself",
-      "url": "https://open.spotify.com/track/7Lr072A5uJTm7xj2mUiUvP"
+      "duration_ms": 582173,
+      "name": "Ghost Hamlet",
+      "url": "https://open.spotify.com/track/6u0mEmA2x5MQtLT2q1GS6Y"
     },
     {
       "added_at": null,
@@ -560,17 +560,17 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         },
         {
-          "name": "Daz Quayle",
-          "url": "https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk"
-        },
-        {
           "name": "Andrea Parker",
           "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
+        },
+        {
+          "name": "Daz Quayle",
+          "url": "https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk"
         }
       ],
-      "duration_ms": 582173,
-      "name": "Ghost Hamlet",
-      "url": "https://open.spotify.com/track/6u0mEmA2x5MQtLT2q1GS6Y"
+      "duration_ms": 169973,
+      "name": "Oddments",
+      "url": "https://open.spotify.com/track/36Ru9HH7cs09sDiy9n3r2y"
     },
     {
       "added_at": null,

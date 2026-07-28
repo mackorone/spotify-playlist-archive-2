@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. R\u00d8Z en portada ",
-  "num_followers": 859713,
+  "num_followers": 859728,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "Cham\u00e1n",
-        "url": "https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi"
-      },
-      "artists": [
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 167968,
-      "name": "Cham\u00e1n",
-      "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "N\u00d3MADA",
         "url": "https://open.spotify.com/album/0hiYnoXVcYRUDP9E8sPyf6"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 233733,
       "name": "Adicci\u00f3n",
       "url": "https://open.spotify.com/track/3qv6l0SkmPSQmTpMtaRRUH"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "Cham\u00e1n",
+        "url": "https://open.spotify.com/album/0TPmQlQqf3SJuw4iXBd3yi"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 167968,
+      "name": "Cham\u00e1n",
+      "url": "https://open.spotify.com/track/3bfLsmZWYctP2j2ZrPRGHA"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "T\u00fa Ni En Cuenta",
-        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 203801,
-      "name": "T\u00fa Ni En Cuenta",
-      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "Ya No Me Duele Tanto",
         "url": "https://open.spotify.com/album/0gWb3xqFfk27f5emLC111j"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 169537,
       "name": "Ya No Me Duele Tanto",
       "url": "https://open.spotify.com/track/0iNIe5802Xv0U5S7yxKNA1"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "T\u00fa Ni En Cuenta",
+        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 203801,
+      "name": "T\u00fa Ni En Cuenta",
+      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "Agu\u00e1ntame",
-        "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 128409,
-      "name": "Agu\u00e1ntame",
-      "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "Reminiscencia",
         "url": "https://open.spotify.com/album/1iE4WOrDA6qhVTAYwgOrKK"
       },
@@ -1079,6 +1059,26 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
+        "name": "Agu\u00e1ntame",
+        "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 128409,
+      "name": "Agu\u00e1ntame",
+      "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
         "name": "SINALOKA",
         "url": "https://open.spotify.com/album/0HrSq9bMMXc79CizTD1k6A"
       },
@@ -1091,38 +1091,6 @@
       "duration_ms": 156000,
       "name": "SINALOKA",
       "url": "https://open.spotify.com/track/23meQ8JXeFHiInKkO1jyV2"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
-        "name": "Bandido Estrella",
-        "url": "https://open.spotify.com/album/0OLPOAwkV37eY0jslcZkN8"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 188273,
-      "name": "Bandido Estrella",
-      "url": "https://open.spotify.com/track/0JqahM9ASQYOvyd0h5uNRq"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
-        "name": "Con dolor",
-        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 172218,
-      "name": "Pary",
-      "url": "https://open.spotify.com/track/1vuv2tN0AWun2LYnJIkCe0"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1143,6 +1111,38 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
+        "name": "Con dolor",
+        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 172218,
+      "name": "Pary",
+      "url": "https://open.spotify.com/track/1vuv2tN0AWun2LYnJIkCe0"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "Bandido Estrella",
+        "url": "https://open.spotify.com/album/0OLPOAwkV37eY0jslcZkN8"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 188273,
+      "name": "Bandido Estrella",
+      "url": "https://open.spotify.com/track/0JqahM9ASQYOvyd0h5uNRq"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
         "name": "Tu Falta De Querer",
         "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 193684,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
-        "name": "Un Vals",
-        "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 189791,
-      "name": "Un Vals",
-      "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "Estilo R'S Vol. 4",
-        "url": "https://open.spotify.com/album/6CUjEk5E7YGQbfob4X1Z2u"
+        "name": "Un Vals",
+        "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
       },
       "artists": [
         {
-          "name": "El De Las R's",
-          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 124764,
-      "name": "Pajuelazo",
-      "url": "https://open.spotify.com/track/7v9L3VNQjmRKZ4DjGd7OLT"
+      "duration_ms": 189791,
+      "name": "Un Vals",
+      "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1223,6 +1207,22 @@
       "duration_ms": 171880,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "Estilo R'S Vol. 4",
+        "url": "https://open.spotify.com/album/6CUjEk5E7YGQbfob4X1Z2u"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 124764,
+      "name": "Pajuelazo",
+      "url": "https://open.spotify.com/track/7v9L3VNQjmRKZ4DjGd7OLT"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "Lun\u00e1tico",
-        "url": "https://open.spotify.com/album/02BPiYExX59wG1pR0ZPGHP"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Lun\u00e1tico",
-      "url": "https://open.spotify.com/track/39ygkwmco9bC9czuEmOAC0"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "a\u00f1os, no meses",
         "url": "https://open.spotify.com/album/5O4uOZL9D8L6HXlSmqZwKV"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 162333,
       "name": "a\u00f1os, no meses",
       "url": "https://open.spotify.com/track/3eQjXNfkhr6bAr8sPvXJlr"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "Lun\u00e1tico",
+        "url": "https://open.spotify.com/album/02BPiYExX59wG1pR0ZPGHP"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Lun\u00e1tico",
+      "url": "https://open.spotify.com/track/39ygkwmco9bC9czuEmOAC0"
     },
     {
       "added_at": "2026-07-24 06:00:37",

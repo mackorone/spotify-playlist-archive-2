@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 469810,
+  "num_followers": 469817,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+        "name": "Yesterday Faded (Edit)",
+        "url": "https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf"
       },
       "artists": [
         {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
         }
       ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
+      "duration_ms": 242784,
+      "name": "Yesterday Faded - Edit",
+      "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Yesterday Faded (Edit)",
-        "url": "https://open.spotify.com/album/2lBEcttfPvSH71VyBfIqSf"
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
       },
       "artists": [
         {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
         }
       ],
-      "duration_ms": 242784,
-      "name": "Yesterday Faded - Edit",
-      "url": "https://open.spotify.com/track/3JPWqObEAfm1gS4ifpV1Gp"
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -827,26 +827,6 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Blumenfantasie",
-        "url": "https://open.spotify.com/album/10nHSPjnaJXh4SB89xVAjU"
-      },
-      "artists": [
-        {
-          "name": "Xylitol",
-          "url": "https://open.spotify.com/artist/4m6lKZU5qS7ZIPFhYx5bEx"
-        },
-        {
-          "name": "Sculpture",
-          "url": "https://open.spotify.com/artist/3kOR6n2cPPPILMsWmKqpHk"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Chromophoria",
-      "url": "https://open.spotify.com/track/6US4JteSqL2pR5te7QZ152"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
         "name": "Ingenting Forblir",
         "url": "https://open.spotify.com/album/1898t6IRJVcR5mxx3mfDuJ"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 193655,
       "name": "realcopy",
       "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
+        "name": "Blumenfantasie",
+        "url": "https://open.spotify.com/album/10nHSPjnaJXh4SB89xVAjU"
+      },
+      "artists": [
+        {
+          "name": "Xylitol",
+          "url": "https://open.spotify.com/artist/4m6lKZU5qS7ZIPFhYx5bEx"
+        },
+        {
+          "name": "Sculpture",
+          "url": "https://open.spotify.com/artist/3kOR6n2cPPPILMsWmKqpHk"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Chromophoria",
+      "url": "https://open.spotify.com/track/6US4JteSqL2pR5te7QZ152"
     }
   ],
   "unique_name": "Genre Glitch",

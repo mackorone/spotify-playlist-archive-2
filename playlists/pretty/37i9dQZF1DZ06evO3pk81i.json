@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 9913,
+  "num_followers": 9918,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAACXE48cwk07iPomgfeGgDg+",
+  "snapshot_id": "amVOAAAAAACq5OHn2ZMsFNgXmlHNUMbi",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dulce Amargo",
+        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "MEJOR SIN TI",
+      "url": "https://open.spotify.com/track/4Fur4oAdC65ki4GiIGx18b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conexi\u00f3n",
         "url": "https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 146659,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dulce Amargo",
-        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "MEJOR SIN TI",
-      "url": "https://open.spotify.com/track/4Fur4oAdC65ki4GiIGx18b"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 122752,
-      "name": "POR TI",
-      "url": "https://open.spotify.com/track/3fODXlS9gVOz4rZpPEafPJ"
+      "duration_ms": 167260,
+      "name": "ME MUERO",
+      "url": "https://open.spotify.com/track/0M7sYHAZNHOaYe7mTCAkH5"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 167260,
-      "name": "ME MUERO",
-      "url": "https://open.spotify.com/track/0M7sYHAZNHOaYe7mTCAkH5"
+      "duration_ms": 122752,
+      "name": "POR TI",
+      "url": "https://open.spotify.com/track/3fODXlS9gVOz4rZpPEafPJ"
     },
     {
       "added_at": null,

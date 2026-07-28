@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,922 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,918 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't Touch](https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [LOVE IS THE LAW](https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0) | 3:25 |
-| 2 | [Only Moon](https://open.spotify.com/track/36Q60wlaCKJKVPWtIu3zcN) | [Lockimara](https://open.spotify.com/artist/6drdBXL5XPxCQnOdBz6rJx) | [Only Sun, Only Moon](https://open.spotify.com/album/7d3DkRBTSsbnFLtNzeWhi4) | 4:46 |
-| 3 | [Home Depot](https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Home Depot](https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is) | 3:13 |
-| 4 | [Cranberry](https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Lovesweet](https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa) | 3:14 |
+| 1 | [Cranberry](https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Lovesweet](https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa) | 3:14 |
+| 2 | [Don't Touch](https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [LOVE IS THE LAW](https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0) | 3:25 |
+| 3 | [Only Moon](https://open.spotify.com/track/36Q60wlaCKJKVPWtIu3zcN) | [Lockimara](https://open.spotify.com/artist/6drdBXL5XPxCQnOdBz6rJx) | [Only Sun, Only Moon](https://open.spotify.com/album/7d3DkRBTSsbnFLtNzeWhi4) | 4:46 |
+| 4 | [Home Depot](https://open.spotify.com/track/0CaoTxpMO29nsMXQXSfPTY) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Home Depot](https://open.spotify.com/album/7whQfUpiPPsEt05CmwK4Is) | 3:13 |
 | 5 | [Only The Good I Keep](https://open.spotify.com/track/4zbYQmI3s9tMTCdOVIZgOD) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Remember The Humans](https://open.spotify.com/album/6skQ2cM5dafp4UdvvN0Xf9) | 3:27 |
 | 6 | [Real Here Now](https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Real Here Now / Water](https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp) | 5:00 |
 | 7 | [Tremolo](https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Romanticize The Dive](https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu) | 3:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 |
 | 100 | [Shakedown.](https://open.spotify.com/track/7jRdd08q5lLu8atK6J5IxS) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Shakedown.](https://open.spotify.com/album/5wK0gnVKt6tbnyxpKAeY66) | 2:22 |
 
-Snapshot ID: `AAAAAOgwFrX/IMEhB/smkZJ8ekjJ804m`
+Snapshot ID: `AAAAAL5IW/bndcAgAgtoZVCPtDIBGpFt`

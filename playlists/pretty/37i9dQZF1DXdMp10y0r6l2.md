@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > AAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHH\. Beartooth en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,777 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,774 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

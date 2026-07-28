@@ -4,7 +4,7 @@
 
 > Tyla, Franglish x UZI et Charli xcx au top des nouveautés de la semaine !
 
-10,318 songs - 22 day 5 hr 41 min
+10,318 songs - 22 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5193,7 +5193,7 @@
 | [Let It Transform You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/track/4bPc6kFwklv6xbjlIkSCsT) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Let It Transform You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2BjTQtu7pJSFwr5MeTLXDM) | 3:33 | 2025-09-04 | 2025-09-12 |
 | [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 | 2026-02-12 | 2026-02-20 |
 | [Let Me Go](https://open.spotify.com/track/4M8a60X9qBfIjJ0rDfNQUc) | [Diva Faune](https://open.spotify.com/artist/39l75cUNbVMpHgykQLyOUT), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Let Me Go](https://open.spotify.com/album/1PuCjuF1fBuuh6SwLclfns) | 2:50 | 2025-11-06 | 2025-11-14 |
-| [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:19 | 2026-07-23 |  |
+| [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:16 | 2026-07-23 |  |
 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 | 2025-03-13 | 2025-03-21 |
 | [Let Me Know](https://open.spotify.com/track/2qd53W3teTo3Oa6CYu0yxJ) | [Jabberwocky](https://open.spotify.com/artist/7xfdx6PiB50V9VWI4Mq70R) | [Let Me Know](https://open.spotify.com/album/0eQRu9UdL7BF9FB984WOJj) | 3:20 | 2024-06-06 | 2024-06-14 |
 | [Let The Good Times Roll \(feat\. The Offspring\)](https://open.spotify.com/track/2pdls2qWOcB33HveBJdS2f) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc), [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Good Times Roll \(feat\. The Offspring\)](https://open.spotify.com/album/3DYNEZppvFYlMwHri5UrXt) | 3:30 | 2026-06-04 | 2026-06-12 |

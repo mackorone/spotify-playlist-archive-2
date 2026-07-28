@@ -1,13 +1,93 @@
 {
   "description": "The essential entrance themes for the Superstars of <a href=\"https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX\">WWE</a>. #MakeAnEntrance",
-  "num_followers": 93484,
+  "num_followers": 93491,
   "original_name": "WWE: Make An Entrance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFOpKC/KdqjPpZaJpbmUFKUvp5zz",
+  "snapshot_id": "AAAAAFtFENFauzyeSAOo5k+JKZsnN/Jt",
   "tracks": [
+    {
+      "added_at": "2026-07-27 04:00:03",
+      "album": {
+        "name": "WWE: Acknowledge Me (Roman Reigns)",
+        "url": "https://open.spotify.com/album/0lzC5VxkJoRymSLYc4jvw4"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "duration_ms": 250302,
+      "name": "WWE: Acknowledge Me (Roman Reigns)",
+      "url": "https://open.spotify.com/track/53AFODDfkGCdrKCUt00BUP"
+    },
+    {
+      "added_at": "2026-07-27 04:00:03",
+      "album": {
+        "name": "WWE: Demon In Your Dreams (Rhea Ripley) [feat. Motionless In White]",
+        "url": "https://open.spotify.com/album/2JE9mts5wJjxhasArqkEw8"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        },
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        }
+      ],
+      "duration_ms": 141754,
+      "name": "WWE: Demon In Your Dreams (Rhea Ripley) [feat. Motionless In White]",
+      "url": "https://open.spotify.com/track/3fipbHYZTVsHT0gucFe1Xi"
+    },
+    {
+      "added_at": "2026-04-13 15:11:23",
+      "album": {
+        "name": "Cult of Personality (Remastered 2023)",
+        "url": "https://open.spotify.com/album/5mIvL5y70jIqMoWwmnZ8KL"
+      },
+      "artists": [
+        {
+          "name": "Living Colour",
+          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+        }
+      ],
+      "duration_ms": 297391,
+      "name": "Cult of Personality (Remastered 2023)",
+      "url": "https://open.spotify.com/track/5gRUFpRflutZDXSmp2rv32"
+    },
+    {
+      "added_at": "2026-07-27 04:00:03",
+      "album": {
+        "name": "WWE: Trouble (Liv Morgan)",
+        "url": "https://open.spotify.com/album/35SCRke1wEbX7AA4dFWMF7"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "duration_ms": 149886,
+      "name": "WWE: Trouble (Liv Morgan)",
+      "url": "https://open.spotify.com/track/2eJqBALWKjMETUXb6sviic"
+    },
     {
       "added_at": "2026-04-13 15:11:23",
       "album": {
@@ -43,22 +123,6 @@
       "duration_ms": 194366,
       "name": "WWE: A Storm Is Coming (Jade Cargill)",
       "url": "https://open.spotify.com/track/1hXtTWyXxHO9xJjb8npz93"
-    },
-    {
-      "added_at": "2026-04-13 15:11:23",
-      "album": {
-        "name": "Cult of Personality (Remastered 2023)",
-        "url": "https://open.spotify.com/album/5mIvL5y70jIqMoWwmnZ8KL"
-      },
-      "artists": [
-        {
-          "name": "Living Colour",
-          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
-        }
-      ],
-      "duration_ms": 297391,
-      "name": "Cult of Personality (Remastered 2023)",
-      "url": "https://open.spotify.com/track/5gRUFpRflutZDXSmp2rv32"
     },
     {
       "added_at": "2026-04-13 15:11:23",
@@ -221,10 +285,10 @@
       "url": "https://open.spotify.com/track/5k1ya7zW3FsVvrTLjrryRm"
     },
     {
-      "added_at": "2026-04-13 15:11:23",
+      "added_at": "2026-07-27 04:00:03",
       "album": {
-        "name": "WWE: Hands Of Fate (Oba Femi)",
-        "url": "https://open.spotify.com/album/5PBtuJ1YG3igOJ9gIg2LmW"
+        "name": "WWE: Stars In The Night (Paige)",
+        "url": "https://open.spotify.com/album/3RPVvgjXyQGMdqGF66Hx51"
       },
       "artists": [
         {
@@ -232,13 +296,13 @@
           "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
         },
         {
-          "name": "def rebel",
-          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+          "name": "CFO$",
+          "url": "https://open.spotify.com/artist/4aemlCxfmvFjJa8YKvaiJI"
         }
       ],
-      "duration_ms": 173040,
-      "name": "WWE: Hands Of Fate (Oba Femi)",
-      "url": "https://open.spotify.com/track/2JsnG08UfdFsYRYt0j1i7P"
+      "duration_ms": 174436,
+      "name": "Stars in the Night (Paige)",
+      "url": "https://open.spotify.com/track/4j8mTUeotDi1d3yMmjeGGl"
     },
     {
       "added_at": "2026-04-13 15:11:23",
@@ -279,6 +343,26 @@
       "duration_ms": 179598,
       "name": "WWE: Let's Light It Up (AJ Lee)",
       "url": "https://open.spotify.com/track/0l0hWndMeub9ZWx9cosR53"
+    },
+    {
+      "added_at": "2026-07-27 04:00:03",
+      "album": {
+        "name": "WWE: Hands Of Fate (2026) [Oba Femi]",
+        "url": "https://open.spotify.com/album/6LKRDYNzvh4zquysVv0WG0"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "duration_ms": 177267,
+      "name": "WWE: Hands Of Fate (2026) [Oba Femi]",
+      "url": "https://open.spotify.com/track/6rwEbfI8fCjCM5utECkt40"
     },
     {
       "added_at": "2026-04-13 15:11:23",
@@ -361,6 +445,26 @@
       "url": "https://open.spotify.com/track/18oLIhHW9TBsCP3WifYgcd"
     },
     {
+      "added_at": "2026-07-27 04:00:03",
+      "album": {
+        "name": "WWE: Take Everything (Royce Keys)",
+        "url": "https://open.spotify.com/album/1wHhDEqNLoEs9tYJFycH2L"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "duration_ms": 177118,
+      "name": "WWE: Take Everything (Royce Keys)",
+      "url": "https://open.spotify.com/track/255qI3m5jozMBX6NMl8rUm"
+    },
+    {
       "added_at": "2026-04-13 15:11:23",
       "album": {
         "name": "WWE: Mascara (El Grande Americano)",
@@ -379,6 +483,26 @@
       "duration_ms": 145562,
       "name": "WWE: Mascara (El Grande Americano)",
       "url": "https://open.spotify.com/track/6PXHjKeooa9d2ttdkVrsnb"
+    },
+    {
+      "added_at": "2026-07-27 04:00:03",
+      "album": {
+        "name": "WWE: Feel It (Shiloh Hill)",
+        "url": "https://open.spotify.com/album/3N5FaJZ8ItqUsUDloJuN1Y"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "duration_ms": 131274,
+      "name": "WWE: Feel It (Shiloh Hill)",
+      "url": "https://open.spotify.com/track/5liisp1mz9GBjmoFTthD0H"
     },
     {
       "added_at": "2026-04-13 15:11:23",
@@ -439,6 +563,26 @@
       "duration_ms": 169293,
       "name": "WWE: Tokyo Shock (IYO SKY)",
       "url": "https://open.spotify.com/track/45Tiq4h8zCzvgXBX0DBkx7"
+    },
+    {
+      "added_at": "2026-07-27 04:00:03",
+      "album": {
+        "name": "WWE: Harmony (Sol Ruca)",
+        "url": "https://open.spotify.com/album/2BiHkoZ0d5uW7TJey9B9jl"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "duration_ms": 100500,
+      "name": "WWE: Harmony (Sol Ruca)",
+      "url": "https://open.spotify.com/track/28JuPsNPBXOSjq6jMP2XgB"
     },
     {
       "added_at": "2026-04-13 15:11:23",
@@ -505,10 +649,10 @@
       "url": "https://open.spotify.com/track/69AQ6zOKOIZWd7GBsBaESi"
     },
     {
-      "added_at": "2026-04-13 15:11:23",
+      "added_at": "2026-07-27 04:00:03",
       "album": {
-        "name": "WWE: El Grande (El Grande Americano)",
-        "url": "https://open.spotify.com/album/3z0OzFyrZi84ancEFIqW9c"
+        "name": "WWE: With A Smile (2026) [Ethan Page]",
+        "url": "https://open.spotify.com/album/3pIX49cd41hg60JlQ7klY8"
       },
       "artists": [
         {
@@ -520,29 +664,9 @@
           "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
         }
       ],
-      "duration_ms": 161863,
-      "name": "WWE: El Grande (El Grande Americano)",
-      "url": "https://open.spotify.com/track/7kVTZlnX4GrinnHMzTIaxj"
-    },
-    {
-      "added_at": "2026-04-13 15:11:23",
-      "album": {
-        "name": "WWE: Raise Your Fist (Motor City Machine Guns)",
-        "url": "https://open.spotify.com/album/6o6VIcUBs4Gf6Tjx9mPzvn"
-      },
-      "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
-        {
-          "name": "def rebel",
-          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
-        }
-      ],
-      "duration_ms": 113657,
-      "name": "WWE: Raise Your Fist (Motor City Machine Guns)",
-      "url": "https://open.spotify.com/track/60qRgd5nELUuMBgHS92TMm"
+      "duration_ms": 104000,
+      "name": "WWE: With A Smile (2026) [Ethan Page]",
+      "url": "https://open.spotify.com/track/2Jmb44OhXeltDsDpv7BWsc"
     },
     {
       "added_at": "2026-04-13 15:11:23",
@@ -563,6 +687,26 @@
       "duration_ms": 156711,
       "name": "WWE: Bring It (Nattie)",
       "url": "https://open.spotify.com/track/56XBCsD4XJk9UByn0lrX0j"
+    },
+    {
+      "added_at": "2026-07-27 04:00:03",
+      "album": {
+        "name": "WWE: Destroyer (Talla Tonga)",
+        "url": "https://open.spotify.com/album/1IW2wHy4SbFutDAEQueN9m"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "duration_ms": 125781,
+      "name": "WWE: Destroyer (Talla Tonga)",
+      "url": "https://open.spotify.com/track/2jtxSguosdPgtHvnWulwAH"
     },
     {
       "added_at": "2026-04-13 15:11:23",
@@ -623,6 +767,26 @@
       "duration_ms": 158620,
       "name": "WWE: Two Bosses (The Irresistible Forces)",
       "url": "https://open.spotify.com/track/6kp75zuCdcfGZkVA6guHL1"
+    },
+    {
+      "added_at": "2026-07-27 04:00:03",
+      "album": {
+        "name": "WWE: You And Me, Uce (The Usos)",
+        "url": "https://open.spotify.com/album/7xTaMgZRTsM951TxuI27bM"
+      },
+      "artists": [
+        {
+          "name": "WWE",
+          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
+        },
+        {
+          "name": "def rebel",
+          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
+        }
+      ],
+      "duration_ms": 152331,
+      "name": "WWE: You And Me, Uce (The Usos)",
+      "url": "https://open.spotify.com/track/6eb1JH6xmY56t1PtYYBizi"
     },
     {
       "added_at": "2026-04-13 15:11:23",
@@ -691,34 +855,6 @@
     {
       "added_at": "2026-04-13 15:11:23",
       "album": {
-        "name": "WWE: New Day's World (The New Day) [feat. Mega Ran & Sayzee]",
-        "url": "https://open.spotify.com/album/41Kvm3yQssAKp2LRBoFpnk"
-      },
-      "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
-        {
-          "name": "def rebel",
-          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
-        },
-        {
-          "name": "Mega Ran",
-          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
-        },
-        {
-          "name": "Sayzee",
-          "url": "https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa"
-        }
-      ],
-      "duration_ms": 171739,
-      "name": "WWE: New Day's World (The New Day) [feat. Mega Ran & Sayzee]",
-      "url": "https://open.spotify.com/track/76riqGN1f46WlNSK05QLE8"
-    },
-    {
-      "added_at": "2026-04-13 15:11:23",
-      "album": {
         "name": "WWE: The Fury (Alexa Bliss)",
         "url": "https://open.spotify.com/album/2X7Uf6B6dzXAJzjanBn7WX"
       },
@@ -775,26 +911,6 @@
       "duration_ms": 174595,
       "name": "WWE: Glamour Is Forever (Blake Monroe)",
       "url": "https://open.spotify.com/track/3XUlfaGuJMGkTD3cqRaEHR"
-    },
-    {
-      "added_at": "2026-04-13 15:11:23",
-      "album": {
-        "name": "WWE: Liv Gone Mad (Liv Morgan)",
-        "url": "https://open.spotify.com/album/3I9Oal8X11aL44yAKSZf03"
-      },
-      "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
-        {
-          "name": "def rebel",
-          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
-        }
-      ],
-      "duration_ms": 127452,
-      "name": "WWE: Liv Gone Mad (Liv Morgan)",
-      "url": "https://open.spotify.com/track/4Wt7aiVdOhpQ6s5IVgUHSy"
     },
     {
       "added_at": "2026-04-13 15:11:23",
@@ -947,26 +1063,6 @@
     {
       "added_at": "2026-04-13 15:11:23",
       "album": {
-        "name": "WWE: Reigning Warriors (The Kabuki Warriors)",
-        "url": "https://open.spotify.com/album/3sAR2NWnDNIUp0wF11ycz3"
-      },
-      "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
-        {
-          "name": "def rebel",
-          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
-        }
-      ],
-      "duration_ms": 168290,
-      "name": "WWE: Reigning Warriors (The Kabuki Warriors)",
-      "url": "https://open.spotify.com/track/2hZWzjx6iSEU7kfGjSwgNa"
-    },
-    {
-      "added_at": "2026-04-13 15:11:23",
-      "album": {
         "name": "WWE: Locked In (Trick Williams)",
         "url": "https://open.spotify.com/album/60j6Hts1NieH4C8jMu0bkq"
       },
@@ -1027,26 +1123,6 @@
     {
       "added_at": "2026-04-13 15:11:23",
       "album": {
-        "name": "WWE: I Am Greatness (Roman Reigns)",
-        "url": "https://open.spotify.com/album/7AUTjAiup56GzAFcFJ4xc0"
-      },
-      "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
-        {
-          "name": "def rebel",
-          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
-        }
-      ],
-      "duration_ms": 137792,
-      "name": "WWE: I Am Greatness (Roman Reigns)",
-      "url": "https://open.spotify.com/track/2h3yu4iJc9werclYUYGyfH"
-    },
-    {
-      "added_at": "2026-04-13 15:11:23",
-      "album": {
         "name": "WWE: CHAOS (DarkState)",
         "url": "https://open.spotify.com/album/0i9jo3D08a342NAdNLlh6M"
       },
@@ -1087,26 +1163,6 @@
     {
       "added_at": "2026-04-13 15:11:23",
       "album": {
-        "name": "WWE: With A Smile (Ethan Page)",
-        "url": "https://open.spotify.com/album/3yqrE5RFVfYnGF4lBIX3dA"
-      },
-      "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
-        {
-          "name": "def rebel",
-          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
-        }
-      ],
-      "duration_ms": 164666,
-      "name": "WWE: With A Smile (Ethan Page)",
-      "url": "https://open.spotify.com/track/2xUKMa23rkBxkHhVGiabLC"
-    },
-    {
-      "added_at": "2026-04-13 15:11:23",
-      "album": {
         "name": "WWE: Samoan Destroyer (Jacob Fatu)",
         "url": "https://open.spotify.com/album/4kVjA0eGcX2zDeyYA97R44"
       },
@@ -1143,30 +1199,6 @@
       "duration_ms": 201750,
       "name": "WWE: The Rising Sun (Shinsuke Nakamura)",
       "url": "https://open.spotify.com/track/74OQ8faaSDuMOuLRyPstd5"
-    },
-    {
-      "added_at": "2026-04-13 15:11:23",
-      "album": {
-        "name": "WWE: Root Of All Evil (Aleister Black) [feat. Incendiary]",
-        "url": "https://open.spotify.com/album/7g9VxN7ZmU3Tb2kj8H7Kc4"
-      },
-      "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
-        {
-          "name": "def rebel",
-          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
-        },
-        {
-          "name": "Incendiary",
-          "url": "https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC"
-        }
-      ],
-      "duration_ms": 146142,
-      "name": "WWE: Root Of All Evil (Aleister Black) [feat. Incendiary]",
-      "url": "https://open.spotify.com/track/4PTLW0eJdXlifpKNn0WMN3"
     },
     {
       "added_at": "2026-04-13 15:11:23",
@@ -1295,30 +1327,6 @@
       "duration_ms": 162350,
       "name": "WWE: Brother's Keeper (\"MFT\" Tama Tonga)",
       "url": "https://open.spotify.com/track/1x9YayLqtIpfvwEL2Obwos"
-    },
-    {
-      "added_at": "2026-04-13 15:11:23",
-      "album": {
-        "name": "WWE: Demon In Your Dreams (Rhea Ripley) [feat. Motionless In White]",
-        "url": "https://open.spotify.com/album/67BlsBWnjfl4oJbY6kL7Yo"
-      },
-      "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
-        {
-          "name": "def rebel",
-          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
-        },
-        {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        }
-      ],
-      "duration_ms": 141754,
-      "name": "WWE: Demon In Your Dreams (Rhea Ripley) [feat. Motionless In White]",
-      "url": "https://open.spotify.com/track/5pngP9Zq5dv0jrdvDk08ou"
     },
     {
       "added_at": "2026-04-13 15:11:23",
@@ -1611,26 +1619,6 @@
     {
       "added_at": "2026-04-13 15:11:23",
       "album": {
-        "name": "WWE: Our World (LWO)",
-        "url": "https://open.spotify.com/album/3GxRAIwctyOJdreNsmWI9M"
-      },
-      "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
-        {
-          "name": "def rebel",
-          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
-        }
-      ],
-      "duration_ms": 120032,
-      "name": "WWE: Our World (LWO)",
-      "url": "https://open.spotify.com/track/3J51StEb6g7CCnxQNMKU9m"
-    },
-    {
-      "added_at": "2026-04-13 15:11:23",
-      "album": {
         "name": "WWE: All Hail The Queen (Charlotte Flair)",
         "url": "https://open.spotify.com/album/6hmNitfDfYkcZZzMCgQebG"
       },
@@ -1915,26 +1903,6 @@
       "duration_ms": 134482,
       "name": "WWE: Feel the Power (Big E)",
       "url": "https://open.spotify.com/track/0qHls5hkIs5jqVlKZuRvy3"
-    },
-    {
-      "added_at": "2026-04-13 15:11:23",
-      "album": {
-        "name": "WWE: Soul March (Santos Escobar)",
-        "url": "https://open.spotify.com/album/19BG1o1qSLkBtzUnHG3HDT"
-      },
-      "artists": [
-        {
-          "name": "WWE",
-          "url": "https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX"
-        },
-        {
-          "name": "def rebel",
-          "url": "https://open.spotify.com/artist/4vlqLg5ZE0VPW7RAi5JXfg"
-        }
-      ],
-      "duration_ms": 152227,
-      "name": "WWE: Soul March (Santos Escobar)",
-      "url": "https://open.spotify.com/track/1vNStl1A5EYQdbgnTpfhBX"
     },
     {
       "added_at": "2026-04-13 15:11:23",

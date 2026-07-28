@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-409 songs - 1 day 12 hr 56 min
+411 songs - 1 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [DIGITAL ANIMAL](https://open.spotify.com/track/009NVh13DVQlXjkodfkdRW) | [DONT BLINK](https://open.spotify.com/artist/1AD6JUzgEvTAI8TLGwlrba) | [DIGITAL ANIMAL](https://open.spotify.com/album/2i0XXFCLY4I7YOgxVYRKIN) | 3:01 | 2026-07-10 |  |
 | [Dimension](https://open.spotify.com/track/2kWWPlO74XtWFY0xiaFFqH) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Dimension](https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg) | 8:01 | 2023-11-24 | 2024-05-11 |
 | [Dirty Beat](https://open.spotify.com/track/3DSY7B0roAopGKkCQGut3K) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt) | [Dirty Beat](https://open.spotify.com/album/2uZkvxbfbloSSWoST9x1IP) | 3:04 | 2026-07-17 |  |
+| [Dirty Beat \- Frieder & Jakob Remix](https://open.spotify.com/track/1CzmLJRIb4G2SonyE5xaa2) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [MC Flipside](https://open.spotify.com/artist/1kprV7ls7rdPboF4LtuOgt), [Frieder & Jakob](https://open.spotify.com/artist/0rngZQF9IoOPgAXhJmF35V) | [Dirty Beat \(Frieder & Jakob Remix\)](https://open.spotify.com/album/2jBRTYgD9m9V84QhyWmdy8) | 3:52 | 2026-07-27 |  |
 | [Distance](https://open.spotify.com/track/2c3TM6Zp1IHd3insEzf9ar) | [Sikora](https://open.spotify.com/artist/4cKdwlnRYAkd3MFwN4AJvj) | [New Electronic Folk and the Floor](https://open.spotify.com/album/5pROYlIuHsXwxFV6PWRtnW) | 5:38 | 2023-02-10 | 2023-03-04 |
 | [Distant Love](https://open.spotify.com/track/2l0emhOFWPN5sMc8DWybB3) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Distant Love](https://open.spotify.com/album/5IeEHN7JoSqqaxl7TZFs6p) | 3:28 | 2023-10-27 |  |
 | [Disturbing Paradise](https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [44024](https://open.spotify.com/album/1s2FHooyT4QaTOvHC61QMf) | 3:50 | 2026-04-17 |  |
@@ -253,6 +254,7 @@
 | [Music Is The Answer \- Mark Reeve Remix](https://open.spotify.com/track/5NNDC4CgDCZfh5IfC8yeO7) | [Dr\. Motte](https://open.spotify.com/artist/16XHmIkkg5P1YR2EoBFPOp), [Jam El Mar](https://open.spotify.com/artist/0UmSf9lDFeavYgD65VrtHs), [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ) | [Rave the Planet: Supporter Series, Vol\. 017](https://open.spotify.com/album/23quYCxH4q3QPzaLhCAmww) | 6:19 | 2023-11-24 | 2024-01-27 |
 | [My Favourite Stranger \- Boris Brejcha Remix](https://open.spotify.com/track/4mh4D2lIo6kkhaqTh111De) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [My Favourite Stranger \(Remixes\)](https://open.spotify.com/album/4sKi74JyzjNzfrb1KYNtue) | 7:06 | 2023-10-20 | 2025-06-28 |
 | [Nahar](https://open.spotify.com/track/6Mr9RKIgliPnqBUDGeLUOg) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Nahar](https://open.spotify.com/album/49UofVTgrdjTpAW931oCix) | 3:28 | 2022-09-30 | 2023-01-21 |
+| [Nervous Swarm](https://open.spotify.com/track/5MininIKnRS66wywVRaBQp) | [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs) | [Nervous Swarm](https://open.spotify.com/album/3t5kdLpCrbTSmtqskO7TtU) | 6:33 | 2026-07-27 |  |
 | [Never Forget](https://open.spotify.com/track/4qq3PGw2BJWBtdTUVwLQkd) | [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21) | [Never Forget](https://open.spotify.com/album/1yWQWTfL2nmGvjaOXFFFeR) | 3:03 | 2023-04-06 | 2023-09-02 |
 | [Never Stop](https://open.spotify.com/track/7tM5oIOzdcgxCS7mY4wqBh) | [Rose Ringed](https://open.spotify.com/artist/1KML3dPprByep3tRnYSJDj) | [Never Stop](https://open.spotify.com/album/7q7ywDcSsx8TtcUJ56Irw5) | 7:23 | 2022-12-02 | 2023-03-04 |
 | [no cash](https://open.spotify.com/track/4uiNlx5Bcs11EFfm25Gg1h) | [shot by stanley](https://open.spotify.com/artist/5jVEGx3UP7jXfHzVoaZOuJ) | [no cash](https://open.spotify.com/album/1c5Rfb4ZXGxQ687ogtmcCG) | 3:20 | 2026-04-03 |  |

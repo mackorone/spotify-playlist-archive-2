@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108784,
+  "num_followers": 108793,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAACiYR1QXNxYl20v+vw3FnwV",
+  "snapshot_id": "amVOAAAAAADnlcfMEYY+DcwRLt4yvvZd",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Op De Schoorsteen Staat Een Foto",
+        "url": "https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "Op De Schoorsteen Staat Een Foto",
+      "url": "https://open.spotify.com/track/5ewmVlEnJYVa0iNGQ522vn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorry (Holland Zingt Hazes)",
         "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 220879,
       "name": "Sorry - Holland Zingt Hazes",
       "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Op De Schoorsteen Staat Een Foto",
-        "url": "https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Op De Schoorsteen Staat Een Foto",
-      "url": "https://open.spotify.com/track/5ewmVlEnJYVa0iNGQ522vn"
     },
     {
       "added_at": null,

@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158494,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
+    },
+    {
+      "album": {
         "name": "Anxiety",
         "url": "https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA"
       },
@@ -3848,7 +3866,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 116024,
       "name": "MA TOT INTREABA",
       "url": "https://open.spotify.com/track/3CJ7UqwE4jpQOBu08FHrQf"
@@ -4362,7 +4380,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 147368,
       "name": "mr. idcash",
       "url": "https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt"
@@ -7146,6 +7164,28 @@
       "duration_ms": 146938,
       "name": "\u00cemi place c\u00e2nd - From \"Situationship\"",
       "url": "https://open.spotify.com/track/7rW05NyJEhmDDSmSP0Lt0L"
+    },
+    {
+      "album": {
+        "name": "\u0218tiu ce vrea",
+        "url": "https://open.spotify.com/album/69BwQOKhEo8yl3kH3QoOY2"
+      },
+      "artists": [
+        {
+          "name": "AlbertNbn",
+          "url": "https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139687,
+      "name": "\u0218tiu ce vrea",
+      "url": "https://open.spotify.com/track/45hU35nsO2MS8coV6qN4ns"
     },
     {
       "album": {

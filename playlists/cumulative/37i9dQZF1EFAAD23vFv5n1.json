@@ -1523,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "ko mixtape",
+        "url": "https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191433,
+      "name": "ko musica",
+      "url": "https://open.spotify.com/track/4PHNOUxmjBotWtAlaFVaZd"
+    },
+    {
+      "album": {
         "name": "LA NOTTE",
         "url": "https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA"
       },
@@ -3412,6 +3430,24 @@
       "duration_ms": 162539,
       "name": "Una come te",
       "url": "https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C"
+    },
+    {
+      "album": {
+        "name": "Incidenti Di Percorso",
+        "url": "https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml"
+      },
+      "artists": [
+        {
+          "name": "Claudym",
+          "url": "https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166343,
+      "name": "Una Serie Di Sfortunati Eventi",
+      "url": "https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG"
     },
     {
       "album": {

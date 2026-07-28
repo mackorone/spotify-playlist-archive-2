@@ -4,7 +4,7 @@
 
 > Lo mejor del folklore nacional 📸  Sele Vera.
 
-291 songs - 16 hr 52 min
+292 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Caballo Que No Galopa](https://open.spotify.com/track/2CljEveFdykiGGUOgg7djM) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 2:11 | 2021-07-23 |  |
 | [Camino al Amor](https://open.spotify.com/track/0RvY0zu9rB1CKW0FwNr627) | [Peteco Carabajal](https://open.spotify.com/artist/2v28P580xseflEKfwYtIb6) | [Grandes Exitos \(Serie De Oro\)](https://open.spotify.com/album/3rEBrFbu2Gf4jeg6Rjzo0T) | 2:25 | 2021-07-23 | 2024-11-14 |
 | [Cancion del Adios](https://open.spotify.com/track/6BklLF2QyVlNyKVj41yEFf) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Horacio Guarany](https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT) | 3:09 | 2021-07-23 | 2025-08-15 |
+| [Canción Con Todos](https://open.spotify.com/track/3lzIgHRWd6ky0qpPbIaQF7) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Canción Con Todos](https://open.spotify.com/album/1blaaz6HWqTzn3ky6DlVPe) | 4:52 | 2026-07-27 |  |
 | [Canción Con Todos \(En Vivo\)](https://open.spotify.com/track/6fT6G52U6LSLchKQDVx9ai) | [Antonio Tarragó Ros](https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI), [César Isella](https://open.spotify.com/artist/0osALJViiVHMcS8sFEaRTv), [Cuarteto Zupay](https://open.spotify.com/artist/05uOsFLijt0mUTxSD7OaLw), [Piero](https://open.spotify.com/artist/0kavuvnHTeqwjKLV7qPpQm), [Victor Heredia](https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [En Vivo en Argentina, Vol\. 2](https://open.spotify.com/album/7CRO8hkgX3b6s07QWkSR61) | 4:45 | 2021-07-23 | 2024-11-26 |
 | [Canción del Amor En Zapatillas](https://open.spotify.com/track/6qM3zhKdj7VA8y4xuO27OR) | [Eduardo Falú](https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [El Sueño de Mi Guitarra](https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR) | 4:12 | 2022-02-21 | 2024-11-12 |
 | [Canción en Nuestra Casa](https://open.spotify.com/track/4mNF1bgifjsoEifrRW0aZU) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [Canción en Nuestra Casa](https://open.spotify.com/album/4acj7Ja3ihQwCOnKvvDjuM) | 3:21 | 2022-02-21 | 2024-11-26 |
@@ -180,7 +181,7 @@
 | [La Tempranera](https://open.spotify.com/track/0znYHtilgBJqNwtiB5oOqc) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/1Wh6RCE1LgMHO6jP1xLNXG) | 4:53 | 2021-07-23 | 2024-11-14 |
 | [La Tempranera](https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 4:53 | 2022-02-21 | 2024-04-19 |
 | [La Vida Del Chaqueño](https://open.spotify.com/track/3na11WHjTAUWeJ8uT2ropz) | [Alma Chaqueña](https://open.spotify.com/artist/3fPh0oV5t5u5MzfAHOT1iD), [Chaqueño Palavecino](https://open.spotify.com/artist/7rKVT8rl7NaToVnE9w7U76) | [La Vida Del Chaqueño](https://open.spotify.com/album/3CDZfiu9MzdrWqWWPIHqfv) | 2:30 | 2021-07-23 | 2024-11-14 |
-| [La Villerita](https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Idolo De Multitudes](https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN) | 4:10 | 2021-07-23 |  |
+| [La Villerita](https://open.spotify.com/track/4lfw4m1ovrPVi2OeaY9FEh) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Idolo De Multitudes](https://open.spotify.com/album/6Vz1jhm0zmxs7oz2OOadaN) | 4:10 | 2021-07-23 | 2026-07-28 |
 | [La Yapa](https://open.spotify.com/track/0gcZzig5VyR2MHSjCM5FbV) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP) | 2:50 | 2022-02-21 | 2022-11-12 |
 | [La Yapa](https://open.spotify.com/track/6M3c5mTRfuT4E8hbyAXrLU) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/56iNtYlcmkViyQhjah60Kb) | 2:50 | 2021-07-23 | 2024-11-26 |
 | [La Zamba](https://open.spotify.com/track/2RUG2nP32VkyvNF2lFnbIM) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [La Zamba](https://open.spotify.com/album/5gnE0MnxT7eHoFvAg3PJBp) | 3:32 | 2025-07-04 | 2026-06-25 |

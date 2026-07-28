@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This is a prediction playlist, based on Obama&\#x27;s taste.
 
-6,318 songs - 14 day 17 hr 12 min
+6,320 songs - 14 day 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [A Better Man](https://open.spotify.com/track/4NpvWCfJyYXBtBaUTAtjHm) | [SYRE](https://open.spotify.com/artist/5UIqY300a4OVCPzbbKWLn3) | [A Better Man](https://open.spotify.com/album/44wIqGa5EOUA1WRSKI2WQS) | 2:51 | 2026-01-30 | 2026-03-02 |
 | [A Better Place](https://open.spotify.com/track/4bMN5DIPF2qGKOnCfBduD8) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [A Better Place](https://open.spotify.com/album/7zJh3qYcjLVCDDg1jDowJg) | 4:44 | 2025-10-28 | 2025-11-28 |
 | [A Couple Runaways](https://open.spotify.com/track/57LTzLyTcGFctMw2mS6ylb) | [ØZWALD](https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk) | [Future Wars](https://open.spotify.com/album/1HKVUp4PyLJVpCvVdhEQI1) | 4:01 | 2022-05-29 | 2022-06-29 |
+| [A Different Age](https://open.spotify.com/track/22p8X4T50Bsu00ahA4qa4p) | [Vacation Generation](https://open.spotify.com/artist/0tQjhoeLh7bDnYxcVsOL8P) | [A Different Age](https://open.spotify.com/album/6aLkzQNyKvOhTtA8eJ4jmm) | 6:57 | 2026-07-27 |  |
 | [A Dinner Out](https://open.spotify.com/track/2Lig6x6Wr1LsVBmMLdscz4) | [Sacramento](https://open.spotify.com/artist/0ovT4fn9cuMxfhRNGPUzON) | [Latte / The Italian Breakfast](https://open.spotify.com/album/1dO5cpEOoa2ORCwazxkFUv) | 4:27 | 2022-02-18 | 2022-03-07 |
 | [A Dreamer](https://open.spotify.com/track/2odz4s5CDDODlVh1P00H6V) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [A Dreamer](https://open.spotify.com/album/76zFj3JcVuBwRxnirC9y3r) | 4:53 | 2023-01-15 | 2023-02-12 |
 | [A Feminist March](https://open.spotify.com/track/3pCxrpxD6CAvnNBhPdUVoZ) | [RÜ](https://open.spotify.com/artist/725jZTtXKFvIYhyWaeFaQI) | [A Feminist March](https://open.spotify.com/album/50YyQdGIF32364RZ4EFWNE) | 3:09 | 2023-05-16 | 2023-06-04 |
@@ -2217,6 +2218,7 @@
 | [GOODTIME](https://open.spotify.com/track/0e0IxBXAVjgKoqnTLrxNL3) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [GOODTIME](https://open.spotify.com/album/7jGQpd0KmBcLJ0iCw2C7VP) | 2:13 | 2022-09-02 | 2022-09-18 |
 | [Goofy Face](https://open.spotify.com/track/35rwAythOgFEUXudtKCqdI) | [Plyer](https://open.spotify.com/artist/2iakGKLbFFRduLEgIJaUNt) | [ABSURED](https://open.spotify.com/album/6bUQlPPo9AvGZQMAbN7GBc) | 3:52 | 2026-03-30 | 2026-05-03 |
 | [Gooseberry](https://open.spotify.com/track/0R38pdHLCfs8ZosHp2UsIJ) | [arinakuchmina](https://open.spotify.com/artist/63GAwdURar99eTRh8KODpn) | [Gooseberry](https://open.spotify.com/album/18zx5U8dqOUiN9tMfopTcT) | 3:44 | 2025-11-14 | 2025-12-19 |
+| [GORDIAN KNOT](https://open.spotify.com/track/6fTBMdEZ7Xys9P2LZRSXMR) | [Johanna Nauraine](https://open.spotify.com/artist/3qluQ1q2gNLpaf6PT3oeQZ) | [GORDIAN KNOT](https://open.spotify.com/album/4p8RktgNhrAopww4B8XhUJ) | 2:09 | 2026-07-27 |  |
 | [Gostar do Mundo](https://open.spotify.com/track/2j60V272qgAufKU7Y89gHL) | [Sessa](https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ) | [Estrela Acesa](https://open.spotify.com/album/5pH4N97k9zZmHAc3ketHcT) | 2:21 | 2022-11-04 | 2022-11-27 |
 | [Got 'Til It's Gone](https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 4:01 | 2023-07-20 |  |
 | [Got It](https://open.spotify.com/track/1uXbzPKhhISe1J6w1ri3ue) | [Roy Avital](https://open.spotify.com/artist/5xW4VISMaki3MkseMU3vPP), [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [Got It](https://open.spotify.com/album/1FzHz1sMaLoseEEIafDyuV) | 3:19 | 2024-11-12 | 2024-11-24 |

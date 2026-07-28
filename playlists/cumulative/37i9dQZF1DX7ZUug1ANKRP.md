@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Cover: Bebe Rexha
 
-1,022 songs - 1 day 23 hr 5 min
+1,023 songs - 1 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,7 +564,7 @@
 | [Love All Night](https://open.spotify.com/track/2OiDl6bWeHjHBXC97Uzuby) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Love All Night](https://open.spotify.com/album/0hBdeY8XlSoOuuZ12rXu3d) | 3:32 | 2023-09-27 | 2023-12-07 |
 | [Love Is Gone](https://open.spotify.com/track/4fkFsB17kyzq27QhOVt19V) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Matthew Clanton](https://open.spotify.com/artist/2dZXivub7kYr8u7cAIfFpT) | [Love Is Gone](https://open.spotify.com/album/7vLMMt463YXKB8zph3zbKU) | 2:37 | 2021-12-15 | 2022-02-03 |
 | [Love is Gonna Save Us](https://open.spotify.com/track/3FalZDi95sW3TW5JvOFsPc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Love is Gonna Save Us](https://open.spotify.com/album/2pQnpla2pzezunSSprrdCQ) | 3:26 | 2025-03-27 | 2025-05-20 |
-| [Love Tonight](https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Love Tonight](https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz) | 3:30 | 2026-05-31 |  |
+| [Love Tonight](https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Love Tonight](https://open.spotify.com/album/79vtgsdBED0GbYTgojKZvz) | 3:30 | 2026-05-31 | 2026-07-28 |
 | [Love U So](https://open.spotify.com/track/70uMBmsS1R4JEIENfW84re) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Love U So](https://open.spotify.com/album/2vuYtPzauu2A6F7AqUPouJ) | 2:35 | 2021-12-15 | 2022-03-08 |
 | [Love We Lost \(with R3HAB\)](https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Love We Lost \(with R3HAB\)](https://open.spotify.com/album/2IlpXQUD25LyrLQ5anXjZG) | 2:16 | 2022-03-16 | 2022-06-16 |
 | [Love We Lost \(with R3HAB\)](https://open.spotify.com/track/7wnjC6zkte3AFTDQVyP5jg) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Feel Again, Pt\. 1](https://open.spotify.com/album/3bL8145MZhmj2DFeqoPfOk) | 2:16 | 2022-06-15 | 2022-07-07 |
@@ -794,6 +794,7 @@
 | [Seek Love \(On The Beach\)](https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Tazi](https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF), [Samuele Sartini](https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh), [Amanda Wilson](https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1), [YORK](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q) | [Seek Love \(On The Beach\) \(feat\. Amanda Wilson & York\)](https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O) | 2:30 | 2024-04-17 | 2024-08-03 |
 | [Seelenf\*cker](https://open.spotify.com/track/7fx06lQhSj6VPZyOzNPMs9) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Seelenf\*cker](https://open.spotify.com/album/6N4rnVWRSscD9bWCExrbWv) | 2:42 | 2025-12-10 | 2026-03-11 |
 | [Sektdusche](https://open.spotify.com/track/5KshXltNcN7gxAQpaZJYBd) | [Acud](https://open.spotify.com/artist/6nkfC5ET7sPeZHTZN5X78N) | [Sektdusche](https://open.spotify.com/album/3PGIuP2wjDFYaLpH6vlckt) | 6:11 | 2022-12-30 | 2023-01-03 |
+| [Self Aware](https://open.spotify.com/track/6xupcsJHo3wW2tSVKwu4mf) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Self Aware](https://open.spotify.com/album/5A94ZGE648fjXkHHSfh1xv) | 2:31 | 2026-07-27 |  |
 | [Self Control](https://open.spotify.com/track/2OgXqA5XJcrc5duK7nF3qd) | [Pachanta](https://open.spotify.com/artist/6JJbKj7rr0akgMZ9gBevrU), [Gestört aber GeiL](https://open.spotify.com/artist/7KAGJwWQQui8b0uqwXRkSr), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Self Control](https://open.spotify.com/album/7hgfhxgbUKVFSNSCbEfpR8) | 2:08 | 2023-11-01 | 2024-05-29 |
 | [Seratonin](https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Seratonin](https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj) | 1:55 | 2026-05-18 |  |
 | [Set Me Free](https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Set Me Free](https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF) | 3:04 | 2025-10-13 | 2026-03-11 |

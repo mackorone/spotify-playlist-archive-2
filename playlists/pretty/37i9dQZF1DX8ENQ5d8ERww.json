@@ -515,6 +515,22 @@
     {
       "added_at": "2026-03-19 09:16:31",
       "album": {
+        "name": "Fresh Stuff 3",
+        "url": "https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF"
+      },
+      "artists": [
+        {
+          "name": "EKR",
+          "url": "https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL"
+        }
+      ],
+      "duration_ms": 299520,
+      "name": "Ein Koenig Regiert",
+      "url": "https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0"
+    },
+    {
+      "added_at": "2026-03-19 09:16:31",
+      "album": {
         "name": "Uhrsprung",
         "url": "https://open.spotify.com/album/6OpzGy7N8uv0BB7BJnDHPb"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 253353,
       "name": "Vom Feinste",
       "url": "https://open.spotify.com/track/5KwBrbPh4g6JH4OzQ8vb2b"
-    },
-    {
-      "added_at": "2026-03-19 09:16:31",
-      "album": {
-        "name": "Fresh Stuff 3",
-        "url": "https://open.spotify.com/album/1tKRkMvEIbImAElUAEVGWF"
-      },
-      "artists": [
-        {
-          "name": "EKR",
-          "url": "https://open.spotify.com/artist/7zuDLo0n0dSSeGWtT2xPVL"
-        }
-      ],
-      "duration_ms": 299520,
-      "name": "Ein Koenig Regiert",
-      "url": "https://open.spotify.com/track/0cqPlbcY2DUsusJyO59zV0"
     },
     {
       "added_at": "2026-03-19 09:16:31",

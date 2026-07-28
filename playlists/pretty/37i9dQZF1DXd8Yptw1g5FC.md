@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Özgün ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,395 likes - 123 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,378 likes - 123 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

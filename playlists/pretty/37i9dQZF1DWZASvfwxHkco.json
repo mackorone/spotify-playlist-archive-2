@@ -1,6 +1,6 @@
 {
   "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: CHYL x Alan Shirahama",
-  "num_followers": 68893,
+  "num_followers": 68892,
   "original_name": "mint Japan",
   "owner": {
     "name": "Spotify",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-07-23 15:00:34",
       "album": {
-        "name": "Free (You Got To Live)",
-        "url": "https://open.spotify.com/album/0V07kae1K63UGyBDfiTDDU"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 173658,
-      "name": "Free (You Got To Live)",
-      "url": "https://open.spotify.com/track/7igzyhUbcM75ETumhe4nzO"
-    },
-    {
-      "added_at": "2026-07-23 15:00:34",
-      "album": {
         "name": "1-800",
         "url": "https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 209515,
       "name": "1-800",
       "url": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
+    },
+    {
+      "added_at": "2026-07-23 15:00:34",
+      "album": {
+        "name": "Free (You Got To Live)",
+        "url": "https://open.spotify.com/album/0V07kae1K63UGyBDfiTDDU"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 173658,
+      "name": "Free (You Got To Live)",
+      "url": "https://open.spotify.com/track/7igzyhUbcM75ETumhe4nzO"
     },
     {
       "added_at": "2026-07-23 15:00:34",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2026-07-23 15:00:34",
       "album": {
+        "name": "La R\u00e9volution",
+        "url": "https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 132492,
+      "name": "La R\u00e9volution",
+      "url": "https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR"
+    },
+    {
+      "added_at": "2026-07-23 15:00:34",
+      "album": {
         "name": "Release The Pressure",
         "url": "https://open.spotify.com/album/3mFlg0trNYSCnTd0RcN0wx"
       },
@@ -1331,38 +1351,26 @@
     {
       "added_at": "2026-07-23 15:00:34",
       "album": {
-        "name": "La R\u00e9volution",
-        "url": "https://open.spotify.com/album/5UNLFMFAZsh7oS55RA2bWU"
+        "name": "Sweet Nothing (2025 Edit)",
+        "url": "https://open.spotify.com/album/4i8AwmJIMxxO8RrXOkjm3p"
       },
       "artists": [
         {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 132492,
-      "name": "La R\u00e9volution",
-      "url": "https://open.spotify.com/track/3P443IW4yLpi7kbD6O6RwR"
-    },
-    {
-      "added_at": "2026-07-23 15:00:34",
-      "album": {
-        "name": "Return To Bhibo",
-        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
-      },
-      "artists": [
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Florence Welch",
+          "url": "https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg"
         }
       ],
-      "duration_ms": 157840,
-      "name": "Return To Bhibo",
-      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
+      "duration_ms": 202176,
+      "name": "Sweet Nothing - 2025 Edit",
+      "url": "https://open.spotify.com/track/4ClVzfSYEea03HjEoDYOX3"
     },
     {
       "added_at": "2026-07-23 15:00:34",
@@ -1387,26 +1395,18 @@
     {
       "added_at": "2026-07-23 15:00:34",
       "album": {
-        "name": "Sweet Nothing (2025 Edit)",
-        "url": "https://open.spotify.com/album/4i8AwmJIMxxO8RrXOkjm3p"
+        "name": "Return To Bhibo",
+        "url": "https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc"
       },
       "artists": [
         {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Florence Welch",
-          "url": "https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 202176,
-      "name": "Sweet Nothing - 2025 Edit",
-      "url": "https://open.spotify.com/track/4ClVzfSYEea03HjEoDYOX3"
+      "duration_ms": 157840,
+      "name": "Return To Bhibo",
+      "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
     },
     {
       "added_at": "2026-07-23 15:00:34",
@@ -1451,6 +1451,26 @@
     {
       "added_at": "2026-07-23 15:00:34",
       "album": {
+        "name": "Beside Of Me",
+        "url": "https://open.spotify.com/album/2e03J5UadYijtdrdEfBLFL"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 207005,
+      "name": "Beside Of Me",
+      "url": "https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI"
+    },
+    {
+      "added_at": "2026-07-23 15:00:34",
+      "album": {
         "name": "Recollect",
         "url": "https://open.spotify.com/album/6IdC8Pr6SJL3lzeZXSBmKn"
       },
@@ -1471,26 +1491,6 @@
       "duration_ms": 190965,
       "name": "Recollect",
       "url": "https://open.spotify.com/track/3Ltu1EsS0IiHNJcJYwfTkL"
-    },
-    {
-      "added_at": "2026-07-23 15:00:34",
-      "album": {
-        "name": "Beside Of Me",
-        "url": "https://open.spotify.com/album/2e03J5UadYijtdrdEfBLFL"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 207005,
-      "name": "Beside Of Me",
-      "url": "https://open.spotify.com/track/58o0HSUXC0oHTU7UvhyWuI"
     },
     {
       "added_at": "2026-07-23 15:00:34",
@@ -1575,26 +1575,6 @@
     {
       "added_at": "2026-07-23 15:00:34",
       "album": {
-        "name": "WORSHIP",
-        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        }
-      ],
-      "duration_ms": 163055,
-      "name": "WORSHIP",
-      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
-    },
-    {
-      "added_at": "2026-07-23 15:00:34",
-      "album": {
         "name": "ALL THE TIME",
         "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
       },
@@ -1619,22 +1599,22 @@
     {
       "added_at": "2026-07-23 15:00:34",
       "album": {
-        "name": "Now Or Never",
-        "url": "https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA"
+        "name": "WORSHIP",
+        "url": "https://open.spotify.com/album/5VYH03sAzxNYEb3MZWOeWi"
       },
       "artists": [
         {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         },
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Now Or Never",
-      "url": "https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS"
+      "duration_ms": 163055,
+      "name": "WORSHIP",
+      "url": "https://open.spotify.com/track/7L1uMx4wG2A9pnRgb7hjQO"
     },
     {
       "added_at": "2026-07-23 15:00:34",
@@ -1659,6 +1639,46 @@
     {
       "added_at": "2026-07-23 15:00:34",
       "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 263767,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq"
+    },
+    {
+      "added_at": "2026-07-23 15:00:34",
+      "album": {
+        "name": "Now Or Never",
+        "url": "https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Now Or Never",
+      "url": "https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS"
+    },
+    {
+      "added_at": "2026-07-23 15:00:34",
+      "album": {
         "name": "Orla",
         "url": "https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O"
       },
@@ -1671,22 +1691,6 @@
       "duration_ms": 205190,
       "name": "Orla",
       "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
-    },
-    {
-      "added_at": "2026-07-23 15:00:34",
-      "album": {
-        "name": "Embers",
-        "url": "https://open.spotify.com/album/0bJj4VUm90sLGDcfl69ZM4"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/3OGmnOgg3NQ4uwerCW3GXE"
     }
   ],
   "unique_name": "mint Japan",

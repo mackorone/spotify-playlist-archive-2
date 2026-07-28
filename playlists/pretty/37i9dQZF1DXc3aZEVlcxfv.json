@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21719,
+  "num_followers": 21729,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -549,20 +549,24 @@
       "url": "https://open.spotify.com/track/0JdqdYIpLzDycj6k6SyGqj"
     },
     {
-      "added_at": "2026-03-13 00:01:18",
+      "added_at": "2024-09-30 14:25:52",
       "album": {
-        "name": "Reckless Lover",
-        "url": "https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB"
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
       },
       "artists": [
         {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 537386,
-      "name": "Reckless Lover",
-      "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
+      "duration_ms": 296320,
+      "name": "Nara",
+      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     },
     {
       "added_at": "2024-09-30 14:25:52",
@@ -605,24 +609,20 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
-      "added_at": "2024-09-30 14:25:52",
+      "added_at": "2026-03-13 00:01:18",
       "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
+        "name": "Reckless Lover",
+        "url": "https://open.spotify.com/album/6P1Sbx3KoBeJpLCc7PllDB"
       },
       "artists": [
         {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
         }
       ],
-      "duration_ms": 296320,
-      "name": "Nara",
-      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
+      "duration_ms": 537386,
+      "name": "Reckless Lover",
+      "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
     },
     {
       "added_at": "2026-01-30 00:01:25",
@@ -713,22 +713,6 @@
       "url": "https://open.spotify.com/track/25WsThhuvxiv7i2G0qMv0h"
     },
     {
-      "added_at": "2026-05-22 00:01:37",
-      "album": {
-        "name": "Want to Grow",
-        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        }
-      ],
-      "duration_ms": 189557,
-      "name": "Want to Grow",
-      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
-    },
-    {
       "added_at": "2025-02-14 00:01:09",
       "album": {
         "name": "Man Of Galilee",
@@ -743,6 +727,22 @@
       "duration_ms": 257644,
       "name": "Omemma",
       "url": "https://open.spotify.com/track/4YfOEXttugon5YXM3TjJGz"
+    },
+    {
+      "added_at": "2026-05-22 00:01:37",
+      "album": {
+        "name": "Want to Grow",
+        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "duration_ms": 189557,
+      "name": "Want to Grow",
+      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
     },
     {
       "added_at": "2026-02-27 00:01:20",
@@ -913,26 +913,6 @@
       "url": "https://open.spotify.com/track/3d0LYyvQwDKG3h4R7dCZW3"
     },
     {
-      "added_at": "2026-05-29 00:01:36",
-      "album": {
-        "name": "Subscribed (Live)",
-        "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 198518,
-      "name": "Subscribed - Live",
-      "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
-    },
-    {
       "added_at": "2026-05-01 00:02:08",
       "album": {
         "name": "Will Be Done",
@@ -955,6 +935,26 @@
       "duration_ms": 221874,
       "name": "Will Be Done",
       "url": "https://open.spotify.com/track/0xgqTe1zh9FZa1x8zpvs9H"
+    },
+    {
+      "added_at": "2026-05-29 00:01:36",
+      "album": {
+        "name": "Subscribed (Live)",
+        "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 198518,
+      "name": "Subscribed - Live",
+      "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
     },
     {
       "added_at": "2026-05-15 00:01:23",
@@ -1129,6 +1129,26 @@
       "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
     },
     {
+      "added_at": "2026-07-17 00:01:08",
+      "album": {
+        "name": "Yours Truly",
+        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
+      },
+      "artists": [
+        {
+          "name": "Saelem",
+          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
+        },
+        {
+          "name": "Ugoaelo",
+          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
+        }
+      ],
+      "duration_ms": 173153,
+      "name": "Yours Truly",
+      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
+    },
+    {
       "added_at": "2026-02-20 00:01:25",
       "album": {
         "name": "Your Love II",
@@ -1225,26 +1245,6 @@
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
     },
     {
-      "added_at": "2026-07-17 00:01:08",
-      "album": {
-        "name": "Yours Truly",
-        "url": "https://open.spotify.com/album/46UJrtPx6i6Xia26H4aER2"
-      },
-      "artists": [
-        {
-          "name": "Saelem",
-          "url": "https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb"
-        },
-        {
-          "name": "Ugoaelo",
-          "url": "https://open.spotify.com/artist/4q4QPKG2CblSLln7Eb3XKT"
-        }
-      ],
-      "duration_ms": 173153,
-      "name": "Yours Truly",
-      "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"
-    },
-    {
       "added_at": "2026-03-13 00:01:18",
       "album": {
         "name": "Miracle Walking (Radio Edit)",
@@ -1259,6 +1259,22 @@
       "duration_ms": 217333,
       "name": "Miracle Walking - Radio Edit",
       "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
+    },
+    {
+      "added_at": "2026-07-24 00:01:56",
+      "album": {
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
     },
     {
       "added_at": "2026-05-01 00:02:08",
@@ -1309,30 +1325,6 @@
       "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
     },
     {
-      "added_at": "2026-06-26 00:01:41",
-      "album": {
-        "name": "If E No Be You Jesus",
-        "url": "https://open.spotify.com/album/6WV20H3NhF71GS2PDb2wPw"
-      },
-      "artists": [
-        {
-          "name": "Blessings Ng",
-          "url": "https://open.spotify.com/artist/7pEGK08h9Nk2NyhuiZ2u9m"
-        },
-        {
-          "name": "Tkeyz",
-          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
-        },
-        {
-          "name": "Elijah Daniel Omo Majemu",
-          "url": "https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "If E No Be You Jesus",
-      "url": "https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv"
-    },
-    {
       "added_at": "2026-07-10 00:01:15",
       "album": {
         "name": "Grace (Remix)",
@@ -1369,24 +1361,28 @@
       "url": "https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6"
     },
     {
-      "added_at": "2026-05-29 00:01:36",
+      "added_at": "2026-06-26 00:01:41",
       "album": {
-        "name": "I See The Lord (Live)",
-        "url": "https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3"
+        "name": "If E No Be You Jesus",
+        "url": "https://open.spotify.com/album/6WV20H3NhF71GS2PDb2wPw"
       },
       "artists": [
         {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+          "name": "Blessings Ng",
+          "url": "https://open.spotify.com/artist/7pEGK08h9Nk2NyhuiZ2u9m"
         },
         {
-          "name": "Ibquake",
-          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
+          "name": "Tkeyz",
+          "url": "https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI"
+        },
+        {
+          "name": "Elijah Daniel Omo Majemu",
+          "url": "https://open.spotify.com/artist/4lq5l1U6f3A8KwEOsvyTlG"
         }
       ],
-      "duration_ms": 610039,
-      "name": "I See The Lord - Live",
-      "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
+      "duration_ms": 234500,
+      "name": "If E No Be You Jesus",
+      "url": "https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv"
     },
     {
       "added_at": "2026-03-06 00:01:07",
@@ -1409,6 +1405,42 @@
       "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
     },
     {
+      "added_at": "2026-05-29 00:01:36",
+      "album": {
+        "name": "I See The Lord (Live)",
+        "url": "https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Ibquake",
+          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
+        }
+      ],
+      "duration_ms": 610039,
+      "name": "I See The Lord - Live",
+      "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
+    },
+    {
+      "added_at": "2026-07-03 00:01:27",
+      "album": {
+        "name": "Jesus",
+        "url": "https://open.spotify.com/album/3XB80hfj7QMeWFCzlEqDQp"
+      },
+      "artists": [
+        {
+          "name": "Veekeyz",
+          "url": "https://open.spotify.com/artist/57xgBBHoYZN5vMioJSSOcw"
+        }
+      ],
+      "duration_ms": 278778,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/2X1KhBy93qsWLWmuYjDyTF"
+    },
+    {
       "added_at": "2026-03-13 00:01:18",
       "album": {
         "name": "Amen Amen, Blessing and Glory",
@@ -1429,20 +1461,28 @@
       "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
     },
     {
-      "added_at": "2026-07-03 00:01:27",
+      "added_at": "2026-07-10 00:01:15",
       "album": {
-        "name": "Jesus",
-        "url": "https://open.spotify.com/album/3XB80hfj7QMeWFCzlEqDQp"
+        "name": "L.I.E (Life Is Easy)",
+        "url": "https://open.spotify.com/album/0alUYDdwWaDhGh5aaTGHEM"
       },
       "artists": [
         {
-          "name": "Veekeyz",
-          "url": "https://open.spotify.com/artist/57xgBBHoYZN5vMioJSSOcw"
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        },
+        {
+          "name": "Glitzbeatz",
+          "url": "https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK"
+        },
+        {
+          "name": "SOD MUSIQ",
+          "url": "https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY"
         }
       ],
-      "duration_ms": 278778,
-      "name": "Jesus",
-      "url": "https://open.spotify.com/track/2X1KhBy93qsWLWmuYjDyTF"
+      "duration_ms": 168824,
+      "name": "L.I.E (Life Is Easy)",
+      "url": "https://open.spotify.com/track/2Y0d5FqwqsTLhZeM7XQguW"
     },
     {
       "added_at": "2026-04-17 00:01:26",
@@ -1479,30 +1519,6 @@
       "duration_ms": 147452,
       "name": "Happy Song",
       "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
-    },
-    {
-      "added_at": "2026-07-10 00:01:15",
-      "album": {
-        "name": "L.I.E (Life Is Easy)",
-        "url": "https://open.spotify.com/album/0alUYDdwWaDhGh5aaTGHEM"
-      },
-      "artists": [
-        {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
-        },
-        {
-          "name": "Glitzbeatz",
-          "url": "https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK"
-        },
-        {
-          "name": "SOD MUSIQ",
-          "url": "https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY"
-        }
-      ],
-      "duration_ms": 168824,
-      "name": "L.I.E (Life Is Easy)",
-      "url": "https://open.spotify.com/track/2Y0d5FqwqsTLhZeM7XQguW"
     },
     {
       "added_at": "2026-06-19 00:01:33",
@@ -1545,40 +1561,20 @@
       "url": "https://open.spotify.com/track/6NYcrgToyDj04al4ZMtHxz"
     },
     {
-      "added_at": "2026-07-24 00:01:56",
-      "album": {
-        "name": "What A Life",
-        "url": "https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "What A Life",
-      "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
-        "name": "O\u2019ZA",
-        "url": "https://open.spotify.com/album/3fm9sxaFUxXGLzxqAcrdPW"
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/2FljmMMzvw2pJ9jqgm8Fml"
       },
       "artists": [
         {
-          "name": "Gerald Bishung",
-          "url": "https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I"
-        },
-        {
-          "name": "Masterkraft",
-          "url": "https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m"
+          "name": "Toria Etuk",
+          "url": "https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR"
         }
       ],
-      "duration_ms": 155789,
-      "name": "O\u2019ZA",
-      "url": "https://open.spotify.com/track/2zFo8f4kW4TrLE7HzpY4yk"
+      "duration_ms": 138620,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ"
     }
   ],
   "unique_name": "Blessed",

@@ -1,12 +1,12 @@
 {
   "description": "This is Outsiders. The essential tracks, all in one playlist.",
-  "num_followers": 26888,
+  "num_followers": 26896,
   "original_name": "This Is Outsiders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amP8gAAAAABSXiGWiRWR+KIET35sIf+c",
+  "snapshot_id": "amVOAAAAAAC4TtqoBgkAbnBcb+wwTPH8",
   "tracks": [
     {
       "added_at": null,
@@ -987,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Die",
-        "url": "https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu"
-      },
-      "artists": [
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "Never Die",
-      "url": "https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Das Armas",
         "url": "https://open.spotify.com/album/5CMZOf6H2qTRv8HBN6Bxwc"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 182709,
       "name": "Das Armas",
       "url": "https://open.spotify.com/track/4uQsTQZng8i9YcHUbNjEjC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Die",
+        "url": "https://open.spotify.com/album/0nMvTctnNySXjBarPW4zeu"
+      },
+      "artists": [
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 200620,
+      "name": "Never Die",
+      "url": "https://open.spotify.com/track/3HlfIAAzfqRsAfaRwt85PF"
     },
     {
       "added_at": null,

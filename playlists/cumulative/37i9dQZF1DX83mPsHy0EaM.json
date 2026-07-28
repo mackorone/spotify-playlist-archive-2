@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Palabas & Transit Collection",
+        "url": "https://open.spotify.com/album/004uzq476rDPXmHoWLLJyX"
+      },
+      "artists": [
+        {
+          "name": "Sponge Cola",
+          "url": "https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322933,
+      "name": "Jeepney",
+      "url": "https://open.spotify.com/track/4XBVANYES6enLW1ooQ78qO"
+    },
+    {
+      "album": {
         "name": "Destination XYZ",
         "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
       },
@@ -178,7 +196,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 284986,
       "name": "Narda",
       "url": "https://open.spotify.com/track/7pFoQ4rWKHaTUuoVCcIECH"
@@ -293,6 +311,42 @@
     },
     {
       "album": {
+        "name": "Five on the Floor",
+        "url": "https://open.spotify.com/album/0imHXv7zJtTVIzHMpvg6XC"
+      },
+      "artists": [
+        {
+          "name": "Sandwich",
+          "url": "https://open.spotify.com/artist/6baezjDaGyBqrW8xGqw3a5"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Sugod",
+      "url": "https://open.spotify.com/track/5orEZV8fPCLGqO7HLOrReo"
+    },
+    {
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/6zQgFMVjE1LpUGyMDA7K8h"
+      },
+      "artists": [
+        {
+          "name": "Imago",
+          "url": "https://open.spotify.com/artist/6MXu7TWZnmykwkXiRJeUMh"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243653,
+      "name": "Sundo",
+      "url": "https://open.spotify.com/track/25mXcC6MeDYaJPjVj5GCWu"
+    },
+    {
+      "album": {
         "name": "Soapdish Reloaded",
         "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
       },
@@ -322,10 +376,40 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 291320,
       "name": "The Day You Said Goodnight",
       "url": "https://open.spotify.com/track/2cjp6qXf56En6dSHKfF8NE"
+    },
+    {
+      "album": {
+        "name": "Halina Sa Parokya",
+        "url": "https://open.spotify.com/album/7g5RBMWC3jvPVmytLEZLZL"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        },
+        {
+          "name": "Allan Bordeus",
+          "url": "https://open.spotify.com/artist/1IGCiK4jevrmcLaBWY5skx"
+        },
+        {
+          "name": "Jay Contreras",
+          "url": "https://open.spotify.com/artist/1TIiTdp6HVhVK6RXzEhb6C"
+        },
+        {
+          "name": "Jomal Linao",
+          "url": "https://open.spotify.com/artist/70OQ7QromUdbw1P7kVI0su"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245386,
+      "name": "The Ordertaker",
+      "url": "https://open.spotify.com/track/0Wfc9IelxyVWkbgMmMmxr4"
     },
     {
       "album": {

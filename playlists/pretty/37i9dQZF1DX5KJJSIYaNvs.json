@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Twinkle Aggrwal",
-  "num_followers": 106669,
+  "num_followers": 106707,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -27,30 +27,6 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
-        "name": "Raanjhan (From \"Do Patti\")",
-        "url": "https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW"
-      },
-      "artists": [
-        {
-          "name": "Sachet-Parampara",
-          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Kausar Munir",
-          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Raanjhan (From \"Do Patti\")",
-      "url": "https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms"
-    },
-    {
-      "added_at": "2026-07-23 04:49:42",
-      "album": {
         "name": "Inaam (Ft. Badshah)",
         "url": "https://open.spotify.com/album/5TMWAUvmDF6XPK2P0TH0tp"
       },
@@ -71,6 +47,30 @@
       "duration_ms": 178124,
       "name": "Inaam (Ft. Badshah)",
       "url": "https://open.spotify.com/track/5haZbtveqI9v1svcc5IDx6"
+    },
+    {
+      "added_at": "2026-07-23 04:49:42",
+      "album": {
+        "name": "Raanjhan (From \"Do Patti\")",
+        "url": "https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW"
+      },
+      "artists": [
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Raanjhan (From \"Do Patti\")",
+      "url": "https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms"
     },
     {
       "added_at": "2026-07-23 04:49:42",
@@ -261,7 +261,7 @@
         }
       ],
       "duration_ms": 135093,
-      "name": "Rozzana",
+      "name": "Rozaana",
       "url": "https://open.spotify.com/track/21GRCs9bqfC14Q5PB5Nggw"
     },
     {
@@ -607,34 +607,6 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
-        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
-        }
-      ],
-      "duration_ms": 216054,
-      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
-    },
-    {
-      "added_at": "2026-07-23 04:49:42",
-      "album": {
         "name": "Queen",
         "url": "https://open.spotify.com/album/2Rz2QGoRiNq2FcrW0bVXkj"
       },
@@ -659,6 +631,34 @@
       "duration_ms": 271586,
       "name": "Hungamaa Ho Gaya",
       "url": "https://open.spotify.com/track/3gv6ZRvumAlDJufUM93hfv"
+    },
+    {
+      "added_at": "2026-07-23 04:49:42",
+      "album": {
+        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "duration_ms": 216054,
+      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
     },
     {
       "added_at": "2026-07-23 04:49:42",
@@ -735,30 +735,6 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
-        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 255584,
-      "name": "Chand Mera Dil - Shreya Ghoshal",
-      "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
-    },
-    {
-      "added_at": "2026-07-23 04:49:42",
-      "album": {
         "name": "Tum Yun Mile Ho",
         "url": "https://open.spotify.com/album/052pSKybwSyiymo8WlFzqR"
       },
@@ -779,6 +755,30 @@
       "duration_ms": 153124,
       "name": "Tum Yun Mile Ho",
       "url": "https://open.spotify.com/track/7w6sxU9PQT8nJYzqGswOvM"
+    },
+    {
+      "added_at": "2026-07-23 04:49:42",
+      "album": {
+        "name": "Chand Mera Dil (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25P7cDY867Ph2kZKOlMZjb"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 255584,
+      "name": "Chand Mera Dil - Shreya Ghoshal",
+      "url": "https://open.spotify.com/track/5cSqQfaMvqzHGEaNwixO0E"
     },
     {
       "added_at": "2026-07-23 04:49:42",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
+        "name": "Phir Aur Kya Chahiye - Asees Version",
+        "url": "https://open.spotify.com/album/05yKAO9uqdAuIPw0woHFsG"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Phir Aur Kya Chahiye - Asees Version",
+      "url": "https://open.spotify.com/track/7jETHbaPh8RFgScgbcrvJP"
+    },
+    {
+      "added_at": "2026-07-23 04:49:42",
+      "album": {
         "name": "Saanware",
         "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 214400,
       "name": "Saanware",
       "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"
-    },
-    {
-      "added_at": "2026-07-23 04:49:42",
-      "album": {
-        "name": "Phir Aur Kya Chahiye - Asees Version",
-        "url": "https://open.spotify.com/album/05yKAO9uqdAuIPw0woHFsG"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Phir Aur Kya Chahiye - Asees Version",
-      "url": "https://open.spotify.com/track/7jETHbaPh8RFgScgbcrvJP"
     },
     {
       "added_at": "2026-07-23 04:49:42",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
-        "name": "Kaise Hum",
-        "url": "https://open.spotify.com/album/4dBKpBxxdLlV9o1aI8dbjc"
-      },
-      "artists": [
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "JUNO",
-          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
-        }
-      ],
-      "duration_ms": 234166,
-      "name": "Kaise Hum",
-      "url": "https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV"
-    },
-    {
-      "added_at": "2026-07-23 04:49:42",
-      "album": {
         "name": "Aaja Ve",
         "url": "https://open.spotify.com/album/5jfYSuL9WHSzTcI7LAVhmN"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 202109,
       "name": "Aaja Ve",
       "url": "https://open.spotify.com/track/47JvQUCqIDjfcH74eP77eI"
+    },
+    {
+      "added_at": "2026-07-23 04:49:42",
+      "album": {
+        "name": "Kaise Hum",
+        "url": "https://open.spotify.com/album/4dBKpBxxdLlV9o1aI8dbjc"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "duration_ms": 234166,
+      "name": "Kaise Hum",
+      "url": "https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV"
     },
     {
       "added_at": "2026-07-23 04:49:42",

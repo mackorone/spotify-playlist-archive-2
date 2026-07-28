@@ -1,6 +1,6 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1414470,
+  "num_followers": 1414533,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Soul Folk In Action",
-        "url": "https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 275640,
-      "name": "The Weight",
-      "url": "https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
         "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 288653,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/4fZDZMgyWBxTg2Rc4OHVtB"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "Soul Folk In Action",
+        "url": "https://open.spotify.com/album/6zv0vPPNWxgi8UvKsSWztL"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 275640,
+      "name": "The Weight",
+      "url": "https://open.spotify.com/track/00bOhb4584JjyfTiXX81mO"
     },
     {
       "added_at": "2024-06-24 11:23:29",

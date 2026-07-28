@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,656 likes - 121 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,651 likes - 121 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Intimissimi](https://open.spotify.com/track/0THy1i8TInnyMWzRMsbOOy) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [Intimissimi](https://open.spotify.com/album/568LgsRWtVZOetf6vyq53w) | 2:51 |
 | 2 | [Take Me Back](https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Take Me Back](https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju) | 3:21 |
-| 3 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
-| 4 | [See You in the Summer](https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [See You in the Summer](https://open.spotify.com/album/0T7sPKFNVkOgawv6t6U1IM) | 3:05 |
-| 5 | [Camera](https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Camera](https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc) | 2:31 |
-| 6 | [For Your Eyes Only](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 2:57 |
-| 7 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 |
-| 8 | [Yellow Top](https://open.spotify.com/track/57MNWjHcvTGTliv298LfS5) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Yellow Top](https://open.spotify.com/album/6bni6exoOWeXnaytmn8z9S) | 2:41 |
-| 9 | [Ge dig världen](https://open.spotify.com/track/0fjwRDqrIjNH4iGnaTlFGt) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Ge dig världen](https://open.spotify.com/album/2tICZPnl5KWBGGBcmKuiCT) | 3:10 |
-| 10 | [Been By Now](https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Been By Now](https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4) | 3:33 |
+| 3 | [See You in the Summer](https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [See You in the Summer](https://open.spotify.com/album/0T7sPKFNVkOgawv6t6U1IM) | 3:05 |
+| 4 | [i deserve better.](https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [My Reckless Abandon](https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM) | 3:17 |
+| 5 | [Ge dig världen](https://open.spotify.com/track/0fjwRDqrIjNH4iGnaTlFGt) | [Melwin Wid](https://open.spotify.com/artist/4NaHJb2Q1WaWdU4IIHKcdb) | [Ge dig världen](https://open.spotify.com/album/2tICZPnl5KWBGGBcmKuiCT) | 3:10 |
+| 6 | [Been By Now](https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Been By Now](https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4) | 3:33 |
+| 7 | [For Your Eyes Only](https://open.spotify.com/track/7uYLYKdG6hY688nDXDUnlq) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [For Your Eyes Only](https://open.spotify.com/album/56Z4S9aA0fSNtcz3TIEMhX) | 2:57 |
+| 8 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
+| 9 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
+| 10 | [Yellow Top](https://open.spotify.com/track/57MNWjHcvTGTliv298LfS5) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Yellow Top](https://open.spotify.com/album/6bni6exoOWeXnaytmn8z9S) | 2:41 |
 | 11 | [Stockholm](https://open.spotify.com/track/2OY0TuFhYouP4aPaMHtVf7) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Stockholm](https://open.spotify.com/album/6wTfGjzZyk0lGi784bSZe8) | 3:02 |
-| 12 | [Oh Mother](https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [The TwoCity Chorus](https://open.spotify.com/artist/03G8tzT77pojVBafVhOm3n) | [Oh Mother](https://open.spotify.com/album/7FDLvqBfXWVElySyTJa0om) | 3:32 |
-| 13 | [Break Up in Reverse](https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Break Up in Reverse](https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg) | 3:25 |
-| 14 | [Good Times](https://open.spotify.com/track/2bpxHht751EzvYMtshniQb) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Good Times](https://open.spotify.com/album/4DQ02ewBv77utFJEC7uXZX) | 3:04 |
-| 15 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
+| 12 | [Camera](https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Camera](https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc) | 2:31 |
+| 13 | [Oh Mother](https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [The TwoCity Chorus](https://open.spotify.com/artist/03G8tzT77pojVBafVhOm3n) | [Oh Mother](https://open.spotify.com/album/7FDLvqBfXWVElySyTJa0om) | 3:32 |
+| 14 | [Break Up in Reverse](https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Break Up in Reverse](https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg) | 3:25 |
+| 15 | [Good Times](https://open.spotify.com/track/2bpxHht751EzvYMtshniQb) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Good Times](https://open.spotify.com/album/4DQ02ewBv77utFJEC7uXZX) | 3:04 |
 | 16 | [Special](https://open.spotify.com/track/0fPHG8oIpgycft4a2vrk2I) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Special](https://open.spotify.com/album/7diAA6oce7YgHmAxl6xiew) | 3:00 |
 | 17 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
 | 18 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 120 | [Hälsa satan](https://open.spotify.com/track/5ZooL3IGyiI12IPHI4JQyS) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Ett hjärta utan adress](https://open.spotify.com/album/3IJ5PO3fEF6zNActgpsMYO) | 3:16 |
 | 121 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 |
 
-Snapshot ID: `AAAAAIuwFSzP/O8llqRHB8aOqAmy7rQO`
+Snapshot ID: `AAAAAKyTyBbiBNtFRsBTw1ADlcTKb/n2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Remers & Jay Wheeler, KAROL G, Lunay & Omar Courtz, Ryan Castro, ARIA VEGA & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,933 likes - 43 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,984 likes - 43 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

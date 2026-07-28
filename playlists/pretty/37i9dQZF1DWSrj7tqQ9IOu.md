@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Folie's
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,052 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,059 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 7 | [des fleurs x stromae](https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [des fleurs x stromae](https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB) | 2:52 |
 | 8 | [Sun Has Set](https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sun Has Set](https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR) | 2:21 |
 | 9 | [Dis\-le](https://open.spotify.com/track/58H3IsZi2NemGRCttisETY) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Dis\-le](https://open.spotify.com/album/27cdPx9msMd1V64HzU4DyF) | 4:07 |
-| 10 | [bellevie](https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [bellevie](https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778) | 3:01 |
+| 10 | [bellevie](https://open.spotify.com/track/5gLrC8G7RwfxsiX2ICNZTa) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [bellevie](https://open.spotify.com/album/23vv5Kj5UbC7uT2cjbe778) | 3:02 |
 | 11 | [SIMON SAYS feat isaiah falls, odeal & sasha keable](https://open.spotify.com/track/5IeZUCk0iexBelsswgPjFz) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 4:20 |
 | 12 | [Love & Tears](https://open.spotify.com/track/0USF54f34DPnAn9nEmqNIN) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Love & Tears](https://open.spotify.com/album/3Gmq5AFwR3eXaf59Kbwgk8) | 3:38 |
 | 13 | [RAPID FYAH \(feat\. Skillibeng\)](https://open.spotify.com/track/2liaCKyzID20FGfWslwWHA) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [RAPID FYAH \(feat\. Skillibeng\)](https://open.spotify.com/album/5e4EiQFjBNnd1UGx3tnJ5W) | 2:49 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 23 | [Ma mère va me tuer](https://open.spotify.com/track/2ovxLH2PYpesPw1gnBe8lz) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [La Favorite, suite et fin](https://open.spotify.com/album/21cNAngHUeUUJWI4Lrh3PX) | 2:28 |
 | 24 | [OAMPD](https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [OAMPD](https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl) | 2:00 |
 | 25 | [Stone Over Water](https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Stone Over Water](https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58) | 3:14 |
-| 26 | [Offerings](https://open.spotify.com/track/1A2uwr1Zpdd467Vzue8bXV) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Offerings](https://open.spotify.com/album/0KKhGegQzdFh8ZWKqXDdiC) | 2:14 |
-| 27 | [Osimhen .OP\_6](https://open.spotify.com/track/6x2PkNJw2mfko2i9h0oRX6) | [Assaf](https://open.spotify.com/artist/1KGon0Ouf2sVDUghQCOigS), [Zeu](https://open.spotify.com/artist/36MWnDH4kn3Sx79LLtLpjF) | [Osimhen .OP\_6](https://open.spotify.com/album/7AUoDL9m27TyDF6xwZpE3V) | 3:10 |
+| 26 | [Osimhen .OP\_6](https://open.spotify.com/track/6x2PkNJw2mfko2i9h0oRX6) | [Assaf](https://open.spotify.com/artist/1KGon0Ouf2sVDUghQCOigS), [Zeu](https://open.spotify.com/artist/36MWnDH4kn3Sx79LLtLpjF) | [Osimhen .OP\_6](https://open.spotify.com/album/7AUoDL9m27TyDF6xwZpE3V) | 3:10 |
+| 27 | [Offerings](https://open.spotify.com/track/1A2uwr1Zpdd467Vzue8bXV) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Offerings](https://open.spotify.com/album/0KKhGegQzdFh8ZWKqXDdiC) | 2:14 |
 | 28 | [Laurie Sky](https://open.spotify.com/track/2RzuYXqdKw0IevkQWDoUrt) | [Arnold Turboust](https://open.spotify.com/artist/3z8iQqWLPw51mizHQ3Qu3U), [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Laurie Sky](https://open.spotify.com/album/77PmIyP4hIX6IphsV2rMn9) | 3:04 |
 | 29 | [Je ne reviendrai pas](https://open.spotify.com/track/1ow5dtpQkTtAmHZoZ4Qwe7) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Je ne reviendrai pas](https://open.spotify.com/album/53bMY8rm48WqjhBGnzyAOE) | 2:43 |
 | 30 | [Les Abeilles](https://open.spotify.com/track/1mS4dKIpZbQRclIIfUmt5J) | [Kÿfy](https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB), [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Les Abeilles](https://open.spotify.com/album/1kAtPqcZ1HyN1n3Y0W7t9o) | 3:34 |

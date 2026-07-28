@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Charli xcx, Tyla, The Strokes, WILLOW, JENNIE and more!
 
-14,519 songs - 33 day 18 hr 48 min
+14,520 songs - 33 day 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6683,7 +6683,7 @@
 | [Let Me Down Easy](https://open.spotify.com/track/74YyVH1E6gSlZCbtN6OgJN) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [Let Me Down Easy](https://open.spotify.com/album/0vfLqxkAHmpgjTsxCk33cs) | 3:24 | 2023-08-10 | 2023-08-18 |
 | [Let Me Down Slow](https://open.spotify.com/track/01Posy6lTFjJShK8UffWi9) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Let Me Down Slow](https://open.spotify.com/album/51cYBBrQJNRTpwFXzxg7Pi) | 2:32 | 2025-06-26 | 2025-07-04 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-09 | 2023-02-17 |
-| [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:19 | 2026-07-23 |  |
+| [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:16 | 2026-07-23 |  |
 | [Let Me Go](https://open.spotify.com/track/6L35B2ydbabuLe9q7diEq7) | [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Let Me Go](https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee) | 3:03 | 2023-06-08 | 2023-06-16 |
 | [Let Me Grow and You'll See the Fruit](https://open.spotify.com/track/5SsRe29Ua89yh6vVJHJC6x) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Let Me Grow and You'll See the Fruit](https://open.spotify.com/album/24Ux2vjaotkgNhZvpn29Kk) | 3:09 | 2025-12-11 | 2025-12-19 |
 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 | 2025-03-14 | 2025-03-21 |
@@ -7388,6 +7388,7 @@
 | [MASTERPIECE](https://open.spotify.com/track/6LeXODbhlorIYhCnoxWT6Y) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [JOŸA](https://open.spotify.com/album/0SJBBBjB3kZwMpHCPw5v4O) | 4:51 | 2026-05-15 | 2026-05-22 |
 | [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-26 | 2024-05-03 |
 | [matadokokade](https://open.spotify.com/track/6sNk0VZa78oZk6jTiJJiuF) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [netemosametemo](https://open.spotify.com/album/3ZtEKkkYYFwYHzxVQm5QH4) | 3:26 | 2024-12-26 | 2025-01-10 |
+| [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 | 2026-07-28 |  |
 | [Match My Mood](https://open.spotify.com/track/1p0lMyesaiu6CH9iqZna0J) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Same Day Cleaning](https://open.spotify.com/album/3cK1SNCDJcYQUBc8t6EgMT) | 2:51 | 2025-09-18 | 2025-09-26 |
 | [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 | 2026-04-30 | 2026-05-08 |
 | [Mates](https://open.spotify.com/track/7caHa8cZXqyzCv0JGwzL12) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Mates](https://open.spotify.com/album/7GW3JPpqLTzy7LjSujyWPT) | 4:57 | 2023-06-29 | 2023-07-07 |

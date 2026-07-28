@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kayla Shyx
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,954 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,957 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pretty Boys](https://open.spotify.com/track/1z9rJxTL0tQX3XyCY9xNDf) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Pretty Boys](https://open.spotify.com/album/4Srash43o3uZAC0y9q4kwe) | 2:20 |
 | 2 | [Mein Babe](https://open.spotify.com/track/6bv7sIDsYTAiieEVYR21d9) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Mein Babe](https://open.spotify.com/album/2aIkMJNj8CWocvsxh9Pvlb) | 2:04 |
 | 3 | [sterne](https://open.spotify.com/track/1QDU1uv3AXds91OLk3ElxT) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [sterne](https://open.spotify.com/album/32Tob9NZPAvExxg66FY53y) | 3:27 |
-| 4 | [Das perfekte Problem](https://open.spotify.com/track/4n7e6okY5RND1tqDCivn9E) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Das perfekte Problem](https://open.spotify.com/album/47PHeJe9JiWJoyfAz70b9F) | 2:46 |
-| 5 | [german language](https://open.spotify.com/track/7gME8ZRbz8I5aaM4ujUUqQ) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [german language](https://open.spotify.com/album/0AyknuMVyJyR54473Ey9y4) | 2:55 |
-| 6 | [Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Kaputte Diamanten](https://open.spotify.com/album/7hpe6nTNGDMGvCwdTwQsNB) | 3:11 |
-| 7 | [Ich hasse die Sonne](https://open.spotify.com/track/5nxq7zSGWdE9RZYolZaxdt) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Ich hasse die Sonne](https://open.spotify.com/album/18rA6WaQpeQ9900eATDeuA) | 2:44 |
-| 8 | [Kleinstadtpropaganda \(feat\. EALA\)](https://open.spotify.com/track/6ZsnJoFt11a0pmmZSaK7ov) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo), [EALA](https://open.spotify.com/artist/0cGH3EskO1vx9loNjpBZnl) | [Kleinstadtpropaganda \(feat\. EALA\)](https://open.spotify.com/album/6O1THNnK9WzwDzXNpAUFeW) | 2:30 |
+| 4 | [Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Kaputte Diamanten](https://open.spotify.com/album/7hpe6nTNGDMGvCwdTwQsNB) | 3:11 |
+| 5 | [Ich hasse die Sonne](https://open.spotify.com/track/5nxq7zSGWdE9RZYolZaxdt) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Ich hasse die Sonne](https://open.spotify.com/album/18rA6WaQpeQ9900eATDeuA) | 2:44 |
+| 6 | [Kleinstadtpropaganda \(feat\. EALA\)](https://open.spotify.com/track/6ZsnJoFt11a0pmmZSaK7ov) | [Marlo Grosshardt](https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo), [EALA](https://open.spotify.com/artist/0cGH3EskO1vx9loNjpBZnl) | [Kleinstadtpropaganda \(feat\. EALA\)](https://open.spotify.com/album/6O1THNnK9WzwDzXNpAUFeW) | 2:30 |
+| 7 | [Das perfekte Problem](https://open.spotify.com/track/4n7e6okY5RND1tqDCivn9E) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Das perfekte Problem](https://open.spotify.com/album/47PHeJe9JiWJoyfAz70b9F) | 2:46 |
+| 8 | [german language](https://open.spotify.com/track/7gME8ZRbz8I5aaM4ujUUqQ) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B) | [german language](https://open.spotify.com/album/0AyknuMVyJyR54473Ey9y4) | 2:55 |
 | 9 | [IM NACHGANG](https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [IM NACHGANG](https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw) | 2:33 |
 | 10 | [c.260611](https://open.spotify.com/track/6Lv6GBv5FGEANBQ3a5eXF4) | [elimako](https://open.spotify.com/artist/5PbQkJwrwzRkwW7uAj7dy0) | [c.260611](https://open.spotify.com/album/2LclI5yd7z9ZmyFMDFXFsu) | 1:45 |
-| 11 | [Erwachsen sein](https://open.spotify.com/track/779LWJmYqpcRH4TDPtha7k) | [yara](https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C) | [wenn ich groß bin](https://open.spotify.com/album/1nB1S7XGDC9jrnMYSA5GFK) | 3:22 |
+| 11 | [einmal um die Welt mit dir](https://open.spotify.com/track/0CLQTEJgtzvT5wkDUwSkW5) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [einmal um die Welt mit dir](https://open.spotify.com/album/4F3nq1TgWq80H0tuKQsWIB) | 2:30 |
 | 12 | [ich will nicht dass du mich wieder loslässt](https://open.spotify.com/track/6WpDeRASFi6GZ558glUoKz) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [ich will nicht dass du mich wieder loslässt](https://open.spotify.com/album/3jHziwYnTyIhRvbgTQ1DY2) | 3:27 |
-| 13 | [einmal um die Welt mit dir](https://open.spotify.com/track/0CLQTEJgtzvT5wkDUwSkW5) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [einmal um die Welt mit dir](https://open.spotify.com/album/4F3nq1TgWq80H0tuKQsWIB) | 2:30 |
-| 14 | [Monochroma](https://open.spotify.com/track/5bn3SCmiaJJTAI7h8iy2TJ) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Monochroma](https://open.spotify.com/album/5brDN4sBt1TXJdVFknqS1X) | 2:32 |
-| 15 | [Was dein Type?](https://open.spotify.com/track/2GLXGsU7YS9lAYD4Rdpgv6) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [Was dein Type?](https://open.spotify.com/album/3XvSzyBmYti6dWFY4irDpV) | 2:01 |
+| 13 | [Erwachsen sein](https://open.spotify.com/track/779LWJmYqpcRH4TDPtha7k) | [yara](https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C) | [wenn ich groß bin](https://open.spotify.com/album/1nB1S7XGDC9jrnMYSA5GFK) | 3:22 |
+| 14 | [Was dein Type?](https://open.spotify.com/track/2GLXGsU7YS9lAYD4Rdpgv6) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [Was dein Type?](https://open.spotify.com/album/3XvSzyBmYti6dWFY4irDpV) | 2:01 |
+| 15 | [Monochroma](https://open.spotify.com/track/5bn3SCmiaJJTAI7h8iy2TJ) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Monochroma](https://open.spotify.com/album/5brDN4sBt1TXJdVFknqS1X) | 2:32 |
 | 16 | [Druck Auf Meiner Lunge](https://open.spotify.com/track/2Sv3E8IkyLzW9xcomvJz6K) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Druck Auf Meiner Lunge](https://open.spotify.com/album/3jwFNS0ioF43fozZPon3ZK) | 3:52 |
 | 17 | [Schnapsidee](https://open.spotify.com/track/6ZKusOBCeFn42U8fYAAR5x) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Schnapsidee](https://open.spotify.com/album/0agehA1P9Rv8S0KB01NnA9) | 2:42 |
 | 18 | [Sommerregen](https://open.spotify.com/track/5obmQ5Xt3F7QcfboGtOusg) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9), [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a) | [Sommerregen](https://open.spotify.com/album/5yLEbty03cRjd8gFP8G5i5) | 2:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Genauso allein](https://open.spotify.com/track/0bjarKTUb3IrD9yFuB4DKQ) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Genauso allein](https://open.spotify.com/album/6o0HGWZdCSM8K7J1buILoK) | 3:33 |
 | 75 | [Wohnung](https://open.spotify.com/track/35mvNtmbZaKJ0CHI9166Ch) | [TEMMIS](https://open.spotify.com/artist/0zJI6wuVa9gi4ir8zlU6Km) | [Wohnung](https://open.spotify.com/album/0xBCyx02z7QrALyZ7dPDCj) | 2:34 |
 
-Snapshot ID: `AAAAAGuXggVN0O5+zD4I/whjt1kAODtk`
+Snapshot ID: `AAAAAKPgIVy12xStWxIN2q1VDVyuvtP9`

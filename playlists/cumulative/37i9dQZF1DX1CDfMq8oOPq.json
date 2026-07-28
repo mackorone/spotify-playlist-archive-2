@@ -1397,6 +1397,28 @@
     },
     {
       "album": {
+        "name": "Mix Como Eu",
+        "url": "https://open.spotify.com/album/54gHk4k81lwAihjMHxOCMB"
+      },
+      "artists": [
+        {
+          "name": "LETT",
+          "url": "https://open.spotify.com/artist/7lk4zeklQt13A8QX1IzxcJ"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "Chefona",
+      "url": "https://open.spotify.com/track/53FEgvDSOvHHKt8tIgF3U9"
+    },
+    {
+      "album": {
         "name": "Meu Karma",
         "url": "https://open.spotify.com/album/0Ju3ufvgYk3ONV4qzoE5a9"
       },
@@ -2459,6 +2481,36 @@
     },
     {
       "album": {
+        "name": "N\u00d3S CONTRA O MUNDO",
+        "url": "https://open.spotify.com/album/2Cs5AiZ8KTYGWPA5vqIMni"
+      },
+      "artists": [
+        {
+          "name": "RIRI",
+          "url": "https://open.spotify.com/artist/3rxmvehXBhivLmpy0wBUgS"
+        },
+        {
+          "name": "SlimeCunha",
+          "url": "https://open.spotify.com/artist/6aFo1ie5TeHMbcuffLkw7a"
+        },
+        {
+          "name": "Cashley",
+          "url": "https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC"
+        },
+        {
+          "name": "NXRTHFACE14X",
+          "url": "https://open.spotify.com/artist/1tFeb1mSWakaz6SPK5fwF2"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167575,
+      "name": "EU SOU A FONTE",
+      "url": "https://open.spotify.com/track/7DvBUHXM86WjVQiDLASMyy"
+    },
+    {
+      "album": {
         "name": "Mate Ou Morra",
         "url": "https://open.spotify.com/album/344humbhc6gfKZdZLqCRdY"
       },
@@ -3200,7 +3252,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 184896,
       "name": "FUTURO DO PA\u00cdS",
       "url": "https://open.spotify.com/track/5bWGglIdnSSCScb4ddDGRM"
@@ -4502,7 +4554,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 201379,
       "name": "Marrom Cacau",
       "url": "https://open.spotify.com/track/0G2lnXfbf8vSexHcQTB5pz"
@@ -7222,7 +7274,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 198323,
       "name": "Sativa",
       "url": "https://open.spotify.com/track/22PIIiZqbZzHhH9TNI2JbS"
@@ -8042,6 +8094,36 @@
       "duration_ms": 218978,
       "name": "Susuave",
       "url": "https://open.spotify.com/track/5Gy7iZkGRIY8zUYXzuuvi3"
+    },
+    {
+      "album": {
+        "name": "S\u00cdNDROME DE REF",
+        "url": "https://open.spotify.com/album/0jpSx2igDLja6sFsIEmBJ0"
+      },
+      "artists": [
+        {
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "name": "Vitonez",
+          "url": "https://open.spotify.com/artist/3NAgETVTsxnmj2KDoRWiiL"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176106,
+      "name": "S\u00cdNDROME DE REF",
+      "url": "https://open.spotify.com/track/4UzNmje7TGyeU5Mv1QzzVd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-266 songs - 15 hr 6 min
+269 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,9 @@
 | [Transmission \- Joris Voorn Remix](https://open.spotify.com/track/6ziqWx82jgkQYhyIALoraH) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Transmission \(Joris Voorn Remix\)](https://open.spotify.com/album/0140Vqwx9gWCGWQKTsQ8Cx) | 3:44 | 2025-07-11 | 2025-09-16 |
 | [Traveller](https://open.spotify.com/track/7oPo4eJs7t98KSjgWbMkGW) | [SAFARIS](https://open.spotify.com/artist/3RiHxXc29CvWq8VKWLFMj7) | [Traveller](https://open.spotify.com/album/2LkcxweHuApdXB9v0f5gWC) | 3:26 | 2026-01-12 |  |
 | [Turn Up The Dose](https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [SCRIPT](https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz) | [Turn Up The Dose](https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P) | 2:52 | 2026-04-10 |  |
+| [Verde](https://open.spotify.com/track/1ytKAWkeT6Ol5OdBAPWq7a) | [Boxer](https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG) | [Verde \(Jerome Isma\-Ae Remix\)](https://open.spotify.com/album/4ymVvT1qGWS1BqcWga2VeT) | 4:36 | 2026-07-27 |  |
+| [Verde \- Jerome Isma\-Ae Extended Remix](https://open.spotify.com/track/3zh5FctBW9UH1ZlVw6VCcC) | [Boxer](https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG), [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA) | [Verde \(Jerome Isma\-Ae Remix\)](https://open.spotify.com/album/4ymVvT1qGWS1BqcWga2VeT) | 6:20 | 2026-07-27 |  |
+| [Verde \- Jerome Isma\-Ae Remix](https://open.spotify.com/track/16kavRQaINC8MtLtqVL7Cz) | [Boxer](https://open.spotify.com/artist/2BCF7CstRXVyyH72etqztG), [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA) | [Verde \(Jerome Isma\-Ae Remix\)](https://open.spotify.com/album/4ymVvT1qGWS1BqcWga2VeT) | 3:15 | 2026-07-27 |  |
 | [Via Infinita \- Marsh Remix](https://open.spotify.com/track/3UkQIp7rWtfxk10DJ3s5Mo) | [Estiva](https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE), [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Infinita \(Remixes\)](https://open.spotify.com/album/2A1DqUO1wkrA1oXgQLvC1u) | 4:46 | 2025-07-11 | 2025-07-26 |
 | [Walk Away](https://open.spotify.com/track/3DZSzV8HXsjJvryliMHmfp) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy) | [Walk Away / MoMa](https://open.spotify.com/album/26q8oJiQ8N8tcgOjEi9Wcw) | 4:04 | 2026-07-10 |  |
 | [Walk Away](https://open.spotify.com/track/5bojLjdOOw3J6R595koBrd) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Walk Away](https://open.spotify.com/album/7pfwOHCIY1nB8Oaa4AzyQB) | 3:30 | 2026-03-17 |  |

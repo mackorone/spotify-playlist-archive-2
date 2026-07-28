@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"http://tbhits.com/\">Tommy Brown</a>",
-  "num_followers": 23109,
+  "num_followers": 23115,
   "original_name": "Tommy Brown's Taste",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-10-01 04:00:00",
       "album": {
+        "name": "Total Reggae: Summer Hits",
+        "url": "https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD"
+    },
+    {
+      "added_at": "2022-10-01 04:00:00",
+      "album": {
         "name": "Club Classics Vol. One",
         "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 219521,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7fis60AUmZQI3maiU08Whd"
-    },
-    {
-      "added_at": "2022-10-01 04:00:00",
-      "album": {
-        "name": "Total Reggae: Summer Hits",
-        "url": "https://open.spotify.com/album/57SG08WoZOKoxvf0w01GG4"
-      },
-      "artists": [
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/6YvP6BkFG912BHoq7ZNrLD"
     },
     {
       "added_at": "2022-10-01 04:00:00",

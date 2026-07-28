@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 
 > ¡Aceptémoslo! Esa camiseta ya apesta y tienes poco tiempo para que se seque.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,041 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,089 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP6zmGbwfYH.md) - [plain]
 | 45 | [Negra Ron y Velas](https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI) | [Morgan Blanco](https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w) | [Negra Ron y Velas](https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD) | 4:36 |
 | 46 | [TRR TAC TAC](https://open.spotify.com/track/4BmSms8iycKEFP8HVL1mlu) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Los Morales](https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h) | [TRR TAC TAC](https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT) | 3:07 |
 | 47 | [Corazón Enamorado](https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:08 |
-| 48 | [Cómo Me Duele Amor](https://open.spotify.com/track/0yrIXInoV5XQU3k7BFEZSQ) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:10 |
-| 49 | [El cafetero](https://open.spotify.com/track/2p0dAybBIdHwLEizVAz4ql) | [Los Guacharacos de Colombia](https://open.spotify.com/artist/5ebyRyRMat0MDvrmIwh1ow) | [Peerless 80 Aniversario \- 24 Cumbias Pa' Bailar](https://open.spotify.com/album/2gZbn5CcZQ0mny27gbV8Ve) | 2:41 |
+| 48 | [El cafetero](https://open.spotify.com/track/2p0dAybBIdHwLEizVAz4ql) | [Los Guacharacos de Colombia](https://open.spotify.com/artist/5ebyRyRMat0MDvrmIwh1ow) | [Peerless 80 Aniversario \- 24 Cumbias Pa' Bailar](https://open.spotify.com/album/2gZbn5CcZQ0mny27gbV8Ve) | 2:41 |
+| 49 | [Cómo Me Duele Amor](https://open.spotify.com/track/0yrIXInoV5XQU3k7BFEZSQ) | [La Mafia](https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs) | [20th Anniversary Series](https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX) | 3:10 |
 | 50 | [Dulcemente Enamorada](https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Viva el Amor](https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN) | 2:39 |
 | 51 | [Te Quiero A Tí](https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Amor, Familia Y Respeto](https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ) | 3:14 |
-| 52 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
-| 53 | [Nuestra Pobreza](https://open.spotify.com/track/3jRkFiUmUKlF0jMzI2NMc6) | [Joe Rodriguez](https://open.spotify.com/artist/72OLjE8BPRg2SZOeGjV2PW) | [Pídeme](https://open.spotify.com/album/1RrDX24HHQ1d8kpg2urVZM) | 3:19 |
+| 52 | [Nuestra Pobreza](https://open.spotify.com/track/3jRkFiUmUKlF0jMzI2NMc6) | [Joe Rodriguez](https://open.spotify.com/artist/72OLjE8BPRg2SZOeGjV2PW) | [Pídeme](https://open.spotify.com/album/1RrDX24HHQ1d8kpg2urVZM) | 3:19 |
+| 53 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
 | 54 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 4:47 |
 | 55 | [Mi Buen Corazon](https://open.spotify.com/track/1wEIkyWSHXm6U7LXO1jZWi) | [Orquesta La Unica](https://open.spotify.com/artist/6SUAzFL6tfEFWtGRoO25YO) | [Mi Buen Corazon](https://open.spotify.com/album/0FC5quGwnqP9EnSOFWyzfZ) | 3:51 |
 | 56 | [La Charamusca](https://open.spotify.com/track/5FhS4o00eET27gljoXscDw) | [Sonido La Conga](https://open.spotify.com/artist/46OZl3GCx6gVfyqMIbS1ex) | [La Charamusca](https://open.spotify.com/album/4aKNeN2AAU4alvDmtUJOCG) | 3:36 |

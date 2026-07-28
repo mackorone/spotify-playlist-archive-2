@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 
 > 2023
 
-[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 128 songs - 7 hr 33 min
+[Evan](https://open.spotify.com/user/sn313e4ludhgj8lelf5kmxk1l) - 0 likes - 129 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,6 @@ pretty - [cumulative](/playlists/cumulative/3CxdxZiKccbhm28UBGzhC7.md) - [plain]
 | 126 | [What Went Down](https://open.spotify.com/track/78tgXRq9Q6tPNP9hKCpgwB) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 5:00 |
 | 127 | [One at a Time](https://open.spotify.com/track/5BN3a7rzQaLgVmI9QJKgHx) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [II \(10 Year Anniversary Edition\)](https://open.spotify.com/album/1boMSpoKkFe901QZaU7Gb3) | 2:28 |
 | 128 | [God! Show Me Magic](https://open.spotify.com/track/6iIE1l1QopHXcDTfbLE9oI) | [Super Furry Animals](https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ) | [Fuzzy Logic](https://open.spotify.com/album/4E9neQ6TnlFxMaLoboETua) | 1:48 |
+| 129 | [Song For The Dead](https://open.spotify.com/track/37gG4GPeTRPKKdXYx3zTRC) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 5:52 |
 
-Snapshot ID: `AAAA7k1Xyc/Yg2554ybxgTHu1gTGHP0a`
+Snapshot ID: `AAAA74sRnNEnh/9UnCPJFE1bsxx1q0Aw`

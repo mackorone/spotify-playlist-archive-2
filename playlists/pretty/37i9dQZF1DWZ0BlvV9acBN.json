@@ -423,6 +423,22 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
+        "name": "Deixa Vir - Vol II (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        }
+      ],
+      "duration_ms": 281760,
+      "name": "Grita! (Shout!) - Ao Vivo",
+      "url": "https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
         "name": "For\u00e7a",
         "url": "https://open.spotify.com/album/7nrtt50btKPI4SgZbHFzAc"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 240704,
       "name": "For\u00e7a",
       "url": "https://open.spotify.com/track/1CzEqBiNTDY6JRysJhGlTR"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
-        "name": "Deixa Vir - Vol II (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5qjk2btAEazVwm5MtrMcSE"
-      },
-      "artists": [
-        {
-          "name": "Thalles Roberto",
-          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        }
-      ],
-      "duration_ms": 281760,
-      "name": "Grita! (Shout!) - Ao Vivo",
-      "url": "https://open.spotify.com/track/37h3VwFhtyxPp3jHD5sVXv"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -751,22 +751,18 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "O Meu Lugar",
-        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
+        "name": "Diz - Ddg Reloaded Tour (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3PKRtLZxf1EcJxqVC6LvWP"
       },
       "artists": [
         {
-          "name": "Judas O Outro",
-          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
-        },
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+          "name": "Oficina G3",
+          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
         }
       ],
-      "duration_ms": 245912,
-      "name": "O Meu Lugar",
-      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
+      "duration_ms": 339354,
+      "name": "Diz - Ddg Reloaded Tour - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jIS6gYPgjgCBv89phRxCj"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -787,18 +783,22 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Diz - Ddg Reloaded Tour (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3PKRtLZxf1EcJxqVC6LvWP"
+        "name": "O Meu Lugar",
+        "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
       },
       "artists": [
         {
-          "name": "Oficina G3",
-          "url": "https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH"
+          "name": "Judas O Outro",
+          "url": "https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         }
       ],
-      "duration_ms": 339354,
-      "name": "Diz - Ddg Reloaded Tour - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jIS6gYPgjgCBv89phRxCj"
+      "duration_ms": 245912,
+      "name": "O Meu Lugar",
+      "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Sou Teu",
-        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
-      },
-      "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 350664,
-      "name": "Sou Teu",
-      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Boom!",
         "url": "https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 182976,
       "name": "Boom!",
       "url": "https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Sou Teu",
+        "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 350664,
+      "name": "Sou Teu",
+      "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Minha Esperan\u00e7a",
-        "url": "https://open.spotify.com/album/0VGHwJPGZYKmlB6noaeDoq"
-      },
-      "artists": [
-        {
-          "name": "Tarik Mohallem",
-          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
-        }
-      ],
-      "duration_ms": 321696,
-      "name": "Minha Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/0302SCCtovTOMWh2R56ICI"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "S\u00f3 na Sua Gra\u00e7a",
         "url": "https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 258282,
       "name": "S\u00f3 na Sua Gra\u00e7a",
       "url": "https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Minha Esperan\u00e7a",
+        "url": "https://open.spotify.com/album/0VGHwJPGZYKmlB6noaeDoq"
+      },
+      "artists": [
+        {
+          "name": "Tarik Mohallem",
+          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
+        }
+      ],
+      "duration_ms": 321696,
+      "name": "Minha Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/0302SCCtovTOMWh2R56ICI"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Ele \u00e9 o Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9 Music",
-          "url": "https://open.spotify.com/artist/5LSZWUUeqVk0kctoZYKjoL"
-        }
-      ],
-      "duration_ms": 461500,
-      "name": "Ele \u00e9 o Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/3fPesZ6cCEpqAF2oerxrHm"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Imerecido Amor",
         "url": "https://open.spotify.com/album/38qJ3aPWI0uvOL3XNOEk9E"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 190967,
       "name": "Imerecido Amor",
       "url": "https://open.spotify.com/track/05CPcYZ1VPoKuXUVuL8TNZ"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Ele \u00e9 o Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AqEPiz5W54fluQeT2c2IU"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9 Music",
+          "url": "https://open.spotify.com/artist/5LSZWUUeqVk0kctoZYKjoL"
+        }
+      ],
+      "duration_ms": 461500,
+      "name": "Ele \u00e9 o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/3fPesZ6cCEpqAF2oerxrHm"
     },
     {
       "added_at": "2026-04-24 19:01:02",

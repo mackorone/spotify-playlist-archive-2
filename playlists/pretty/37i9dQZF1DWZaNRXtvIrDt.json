@@ -1,6 +1,6 @@
 {
   "description": "A new world of alternative electronic music. Cover: Pretty Girl",
-  "num_followers": 129307,
+  "num_followers": 129298,
   "original_name": "Portal",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-05-06 00:22:41",
       "album": {
-        "name": "The Right",
-        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "The Right",
-      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
-    },
-    {
-      "added_at": "2026-05-06 00:22:41",
-      "album": {
         "name": "Heaven Scent",
         "url": "https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 283424,
       "name": "Heaven Scent",
       "url": "https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY"
+    },
+    {
+      "added_at": "2026-05-06 00:22:41",
+      "album": {
+        "name": "The Right",
+        "url": "https://open.spotify.com/album/4CyulwPn7kwxzAuVfKIGIE"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "The Right",
+      "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
     },
     {
       "added_at": "2026-05-06 00:22:41",

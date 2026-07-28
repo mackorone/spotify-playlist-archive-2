@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,176 likes - 90 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,177 likes - 90 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 7 | [Mama](https://open.spotify.com/track/27WUGJFJngruacvu2JmHAF) | [Heintje](https://open.spotify.com/artist/2V4AS8qG0fOsXkH1AgLlB8) | [Dit is Heintje](https://open.spotify.com/album/38abCgAMAs8vbbrhNkqvtN) | 2:31 |
 | 8 | [De Troubadour](https://open.spotify.com/track/2KCMlWqxxevzBWAsxRPXjH) | [Lenny Kuhr](https://open.spotify.com/artist/42SCqZAVnFo3ocAyO0tDTj) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:58 |
 | 9 | [Op Een Mooie Pinksterdag](https://open.spotify.com/track/7JQszt5pkJe43vlr0MUtLJ) | [Andre Van Den Heuvel](https://open.spotify.com/artist/761xE3Wn7hz2BXKeKxccx2), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:25 |
-| 10 | [Sammy](https://open.spotify.com/track/2yeViE7XgsOare6ypIIXsB) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses Shaffy \- Laat Me](https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73) | 2:14 |
+| 10 | [Kom van dat dak af](https://open.spotify.com/track/4I07xdkqgw91HqlP4t5h9B) | [Peter Koelewijn en Zijn Rockets](https://open.spotify.com/artist/4inB4rmxwWnwbszg23w4yj) | [Favorieten van Toen](https://open.spotify.com/album/3cFCIbnr6p0ITYXEmsA2Y1) | 2:39 |
 | 11 | [Het Land Van Maas En Waal](https://open.spotify.com/track/2nk4SnUS6xe1iB5SeIBbgo) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:58 |
-| 12 | [Kom van dat dak af](https://open.spotify.com/track/4I07xdkqgw91HqlP4t5h9B) | [Peter Koelewijn en Zijn Rockets](https://open.spotify.com/artist/4inB4rmxwWnwbszg23w4yj) | [Favorieten van Toen](https://open.spotify.com/album/3cFCIbnr6p0ITYXEmsA2Y1) | 2:39 |
+| 12 | [Sammy](https://open.spotify.com/track/2yeViE7XgsOare6ypIIXsB) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses Shaffy \- Laat Me](https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73) | 2:14 |
 | 13 | [Eenzaam Zonder Jou](https://open.spotify.com/track/7LGNLoTk2YjtEdgoRELelP) | [Will Tura](https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8) | [The Real..\. Will Tura](https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6) | 2:28 |
 | 14 | [Mijn Vlakke Land](https://open.spotify.com/track/1UlztlUKod6mibYwJEWbsp) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [De Vertedering \- De 60 Mooiste Luisterliedjes](https://open.spotify.com/album/7wychIhuEA1yc9YClKzR17) | 2:52 |
 | 15 | [Kom Uit De Bedstee M'n Liefste](https://open.spotify.com/track/4DRM9sJB3gThCiic3nH01l) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:21 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 56 | [Geweldig](https://open.spotify.com/track/6Xjg93yoJu0h64r8SKRtld) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 1:57 |
 | 57 | [Frater Venantius \- Live](https://open.spotify.com/track/7nnjpu2Cbh9DUdSSp8hFJA) | [Wim Sonneveld](https://open.spotify.com/artist/6PeXy9NJcXE6CUH12YsboM) | [Een Avond Met Wim Sonneveld](https://open.spotify.com/album/3Loxvfv6tOPhOoQBmLBrDI) | 8:19 |
 | 58 | [De Winter Was Lang](https://open.spotify.com/track/1TY5YJ3gWVF1iBLcXRKwM1) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 2:17 |
-| 59 | [Je Bent Nog Niet Gelukkig Met Een Mooie Vrouw](https://open.spotify.com/track/5Ov14kIrKrGbIdmwZcyT5A) | [Max Woiski Jr.](https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF) | [Rijst Met Kouseband \(En Andere Poku's\)](https://open.spotify.com/album/56aQwxkpYt8PWWbOqLZuMz) | 2:04 |
-| 60 | [Een glaasje madeira](https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd) | [Ted De Braak](https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF) | [Hollands Glorie Liedjes van vroeger Top 100](https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX) | 5:15 |
+| 59 | [Een glaasje madeira](https://open.spotify.com/track/6vFcFphdp1XPKuGMmnGLFd) | [Ted De Braak](https://open.spotify.com/artist/2fi6R2NPeUn8jfbUfXk6QF) | [Hollands Glorie Liedjes van vroeger Top 100](https://open.spotify.com/album/6WvfGdqBJHKPkBlxRQJBmX) | 5:15 |
+| 60 | [Je Bent Nog Niet Gelukkig Met Een Mooie Vrouw](https://open.spotify.com/track/5Ov14kIrKrGbIdmwZcyT5A) | [Max Woiski Jr.](https://open.spotify.com/artist/5S2Y2OyMuLYbua54iv2QNF) | [Rijst Met Kouseband \(En Andere Poku's\)](https://open.spotify.com/album/56aQwxkpYt8PWWbOqLZuMz) | 2:04 |
 | 61 | [Iedere Avond](https://open.spotify.com/track/27K4ItIdSmWm9VKiteM5m2) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 2:36 |
 | 62 | [Vrijgezellenflat](https://open.spotify.com/track/2GHLGh39XwbBAjcdx13ojX) | [Ria Valk](https://open.spotify.com/artist/087pgpL9oSvARP9nTP7x5j) | [Vroeger \- 20 Liedjes Uit Die Goeie Ouwe Tijd, Deel 1](https://open.spotify.com/album/6ENEIx4kuriPCwKq4ZwmyO) | 3:09 |
 | 63 | [Mijn Dagboek](https://open.spotify.com/track/1ivPaxFyaHT8rlphPx5vO8) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Het Mooiste Van Willeke Alberti](https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl) | 3:00 |

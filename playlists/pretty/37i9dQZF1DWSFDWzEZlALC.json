@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Kayla Shyx",
-  "num_followers": 460954,
+  "num_followers": 460957,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGuXggVN0O5+zD4I/whjt1kAODtk",
+  "snapshot_id": "AAAAAKPgIVy12xStWxIN2q1VDVyuvtP9",
   "tracks": [
     {
       "added_at": "2026-07-23 22:01:11",
@@ -55,38 +55,6 @@
       "duration_ms": 207424,
       "name": "sterne",
       "url": "https://open.spotify.com/track/1QDU1uv3AXds91OLk3ElxT"
-    },
-    {
-      "added_at": "2026-07-23 22:01:11",
-      "album": {
-        "name": "Das perfekte Problem",
-        "url": "https://open.spotify.com/album/47PHeJe9JiWJoyfAz70b9F"
-      },
-      "artists": [
-        {
-          "name": "error",
-          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
-        }
-      ],
-      "duration_ms": 166571,
-      "name": "Das perfekte Problem",
-      "url": "https://open.spotify.com/track/4n7e6okY5RND1tqDCivn9E"
-    },
-    {
-      "added_at": "2026-07-23 22:01:11",
-      "album": {
-        "name": "german language",
-        "url": "https://open.spotify.com/album/0AyknuMVyJyR54473Ey9y4"
-      },
-      "artists": [
-        {
-          "name": "Tiavo",
-          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
-        }
-      ],
-      "duration_ms": 175717,
-      "name": "german language",
-      "url": "https://open.spotify.com/track/7gME8ZRbz8I5aaM4ujUUqQ"
     },
     {
       "added_at": "2026-07-23 22:01:11",
@@ -147,6 +115,38 @@
     {
       "added_at": "2026-07-23 22:01:11",
       "album": {
+        "name": "Das perfekte Problem",
+        "url": "https://open.spotify.com/album/47PHeJe9JiWJoyfAz70b9F"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "duration_ms": 166571,
+      "name": "Das perfekte Problem",
+      "url": "https://open.spotify.com/track/4n7e6okY5RND1tqDCivn9E"
+    },
+    {
+      "added_at": "2026-07-23 22:01:11",
+      "album": {
+        "name": "german language",
+        "url": "https://open.spotify.com/album/0AyknuMVyJyR54473Ey9y4"
+      },
+      "artists": [
+        {
+          "name": "Tiavo",
+          "url": "https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B"
+        }
+      ],
+      "duration_ms": 175717,
+      "name": "german language",
+      "url": "https://open.spotify.com/track/7gME8ZRbz8I5aaM4ujUUqQ"
+    },
+    {
+      "added_at": "2026-07-23 22:01:11",
+      "album": {
         "name": "IM NACHGANG",
         "url": "https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw"
       },
@@ -179,18 +179,18 @@
     {
       "added_at": "2026-07-23 22:01:11",
       "album": {
-        "name": "wenn ich gro\u00df bin",
-        "url": "https://open.spotify.com/album/1nB1S7XGDC9jrnMYSA5GFK"
+        "name": "einmal um die Welt mit dir",
+        "url": "https://open.spotify.com/album/4F3nq1TgWq80H0tuKQsWIB"
       },
       "artists": [
         {
-          "name": "yara",
-          "url": "https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C"
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
         }
       ],
-      "duration_ms": 202782,
-      "name": "Erwachsen sein",
-      "url": "https://open.spotify.com/track/779LWJmYqpcRH4TDPtha7k"
+      "duration_ms": 150218,
+      "name": "einmal um die Welt mit dir",
+      "url": "https://open.spotify.com/track/0CLQTEJgtzvT5wkDUwSkW5"
     },
     {
       "added_at": "2026-07-23 22:01:11",
@@ -211,34 +211,18 @@
     {
       "added_at": "2026-07-23 22:01:11",
       "album": {
-        "name": "einmal um die Welt mit dir",
-        "url": "https://open.spotify.com/album/4F3nq1TgWq80H0tuKQsWIB"
+        "name": "wenn ich gro\u00df bin",
+        "url": "https://open.spotify.com/album/1nB1S7XGDC9jrnMYSA5GFK"
       },
       "artists": [
         {
-          "name": "frytz",
-          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+          "name": "yara",
+          "url": "https://open.spotify.com/artist/1TJg4CWFRqYluxpJ8iR82C"
         }
       ],
-      "duration_ms": 150218,
-      "name": "einmal um die Welt mit dir",
-      "url": "https://open.spotify.com/track/0CLQTEJgtzvT5wkDUwSkW5"
-    },
-    {
-      "added_at": "2026-07-23 22:01:11",
-      "album": {
-        "name": "Monochroma",
-        "url": "https://open.spotify.com/album/5brDN4sBt1TXJdVFknqS1X"
-      },
-      "artists": [
-        {
-          "name": "fiio",
-          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
-        }
-      ],
-      "duration_ms": 152500,
-      "name": "Monochroma",
-      "url": "https://open.spotify.com/track/5bn3SCmiaJJTAI7h8iy2TJ"
+      "duration_ms": 202782,
+      "name": "Erwachsen sein",
+      "url": "https://open.spotify.com/track/779LWJmYqpcRH4TDPtha7k"
     },
     {
       "added_at": "2026-07-23 22:01:11",
@@ -255,6 +239,22 @@
       "duration_ms": 121207,
       "name": "Was dein Type?",
       "url": "https://open.spotify.com/track/2GLXGsU7YS9lAYD4Rdpgv6"
+    },
+    {
+      "added_at": "2026-07-23 22:01:11",
+      "album": {
+        "name": "Monochroma",
+        "url": "https://open.spotify.com/album/5brDN4sBt1TXJdVFknqS1X"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Monochroma",
+      "url": "https://open.spotify.com/track/5bn3SCmiaJJTAI7h8iy2TJ"
     },
     {
       "added_at": "2026-07-23 22:01:11",

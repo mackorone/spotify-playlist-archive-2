@@ -2,7 +2,7 @@
 
 ### [Pop Focus \| Pop Music for ADHD, Studying, Stress, and Anxiety](https://open.spotify.com/playlist/24U0Ot6ffyRdCjR8IdPLTo)
 
-> 🎧 Chill Pop Focus 🧠\. Enhance concentration &amp; minimize distractions for studying, ADHD, exams &amp; deep work\. Relaxing Pop creates a calm study atmosphere\. Feat\. Lizzy McAlpine, Phoebe Bridgers, FINNEAS &amp; rising pop artists\. Updated weekly! Like &amp; Follow for your ultimate academic soundtrack!
+> 🎧 Focus Pop Study Grooves 🧠\. Unlock peak focus &amp; mental clarity with Chill Pop\. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration\. Feat\. Conan Gray, Olivia Rodrigo, beabadoobee &amp; rising indie pop\. Updated weekly\. Follow for a steady stream of focus\-boosting tunes!
 
 409 songs - 22 hr 27 min
 

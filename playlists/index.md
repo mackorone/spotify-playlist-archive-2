@@ -1,4 +1,4 @@
-## Playlists \(9297\)
+## Playlists \(9298\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - ["Wuthering Heights" Official Playlist](/playlists/pretty/37i9dQZF1DWXeFtiUMSxKD.md)
@@ -3459,7 +3459,7 @@
 - [Josh Hart's Taste](/playlists/pretty/37i9dQZF1DX54YRIeLlleD.md)
 - [Joy Ride Official Playlist](/playlists/pretty/37i9dQZF1DX2MkAygND7Vq.md)
 - [JuJu Watkins Taste](/playlists/pretty/37i9dQZF1DX2DiIDykg1Rd.md)
-- [Juan Gabriel & Harry Styles](/playlists/pretty/37i9dQZF1DXanhKC7V8ubd.md)
+- [Juan Gabriel: Debo, Puedo y Quiero Playlist Oficial](/playlists/pretty/37i9dQZF1DXanhKC7V8ubd.md)
 - [Juan Gabriel: Ranchero](/playlists/pretty/37i9dQZF1DX7NpTNK48oe2.md)
 - [Jugando y Cantando](/playlists/pretty/37i9dQZF1DX0uGJ6hmelbT.md)
 - [Jujutsu Kaisen](/playlists/pretty/37i9dQZF1DWYFFegQlq0Hb.md)
@@ -8345,6 +8345,7 @@
 - [Written By Finn Keane](/playlists/pretty/37i9dQZF1EFJT3BBqsirp2.md)
 - [Written By Finneas O'Connell](/playlists/pretty/37i9dQZF1EFzBT6K0SgeCs.md)
 - [Written By GRACEY](/playlists/pretty/37i9dQZF1EFLKM90w7qiQs.md)
+- [Written By Gabe Simon](/playlists/pretty/37i9dQZF1EFJ0Vxn2uDf89.md)
 - [Written By Gaby Music](/playlists/pretty/37i9dQZF1EFLhxeP4NjhU5.md)
 - [Written By George Gershwin](/playlists/pretty/37i9dQZF1EFQ7aAZ6BFHpN.md)
 - [Written By Gianluca Buccellati](/playlists/pretty/37i9dQZF1EFxZW2LNzoiFP.md)

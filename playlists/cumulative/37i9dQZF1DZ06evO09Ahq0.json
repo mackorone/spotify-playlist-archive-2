@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "STATICA",
+        "url": "https://open.spotify.com/album/10B4tVS3yJcETgj53m5Lcu"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262872,
+      "name": "REJOICE",
+      "url": "https://open.spotify.com/track/2VLHrjWZQW3uFKoO5AEJ7W"
+    },
+    {
+      "album": {
         "name": "Waking The Fallen",
         "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
       },
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2023-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 375026,
       "name": "We Love You",
       "url": "https://open.spotify.com/track/0JUZetZb7lxLsmT7HwNCQv"

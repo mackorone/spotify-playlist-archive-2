@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,840 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,842 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 15 | [Give Up and See](https://open.spotify.com/track/7oeDsbL96qpvc19iGFp59f) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Give Up and See](https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf) | 3:36 |
 | 16 | [Glory](https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Yung L](https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq) | [Highest](https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au) | 3:21 |
 | 17 | [Favourite Story](https://open.spotify.com/track/3KybqFROlrZOhTwyrByBPV) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [True To Self](https://open.spotify.com/album/3s7ciU4LPvI3mb8yufHJZ5) | 3:56 |
-| 18 | [Till We Die](https://open.spotify.com/track/1HB8OHKrGHl1jUfIzCMLxY) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die](https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV) | 3:00 |
-| 19 | [Put It On God](https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Put It On God](https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH) | 3:34 |
+| 18 | [Put It On God](https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [AlorG](https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb) | [Put It On God](https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH) | 3:34 |
+| 19 | [Till We Die](https://open.spotify.com/track/1HB8OHKrGHl1jUfIzCMLxY) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Till We Die](https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV) | 3:00 |
 | 20 | [AMEN](https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 3:23 |
 | 21 | [Lavida Loca \(feat\. Lasmid\)](https://open.spotify.com/track/1u0z0PIBWpwoMtHef097fN) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Lavida Loca \(feat\. Lasmid\)](https://open.spotify.com/album/36tSpQ2NiV5tpcQdXzTimB) | 2:39 |
 | 22 | [Better Days](https://open.spotify.com/track/0CE5rrrM0UqlbtVzDb4kTT) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Jamz](https://open.spotify.com/album/3mm3G4m0vpZyJQHkbkjgjp) | 3:26 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 42 | [CCTV](https://open.spotify.com/track/6t2gwKDfIKmpB52te0mmXM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [As Promised](https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX) | 4:13 |
 | 43 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 |
 | 44 | [Rollies and Cigars](https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j) | 3:27 |
-| 45 | [Anadwo](https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN) | 3:11 |
-| 46 | [Original](https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB) | 4:06 |
+| 45 | [Original](https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Sarkology](https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB) | 4:06 |
+| 46 | [Anadwo](https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN) | 3:11 |
 | 47 | [U Go Kill Me](https://open.spotify.com/track/5teexiiQGCgYUrZX1WUKsH) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Rapperholic](https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8) | 3:45 |
 | 48 | [M3Gye Wo Girl](https://open.spotify.com/track/1GrasNMqiO24le1C5KTeKN) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [M3Gye Wo Girl](https://open.spotify.com/album/0Hj7mjkuVK8u6Lf4sGrV4t) | 3:26 |
 | 49 | [Tonga](https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Tonga](https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8) | 3:22 |
 | 50 | [BRAG](https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [BRAG](https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR) | 2:29 |
 
-Snapshot ID: `amP8gAAAAAC+d+rqSnau2XZbPk+sC0Bd`
+Snapshot ID: `amVOAAAAAAC0zgk51jg3JLvPFeqDvQsp`

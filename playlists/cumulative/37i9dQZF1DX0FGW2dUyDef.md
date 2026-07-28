@@ -4,7 +4,7 @@
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Hadise
 
-342 songs - 16 hr 37 min
+343 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [AM2TERDAM](https://open.spotify.com/track/67iO9G1Z8bWtKvlmtzqK1j) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [AM2TERDAM](https://open.spotify.com/album/0JA60B83iRHDkadcLEKh4C) | 3:26 | 2024-12-16 | 2025-02-19 |
 | [Ama Başaramadım](https://open.spotify.com/track/6Ecfg2Bd6Ctomk6GBwZF3V) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ama Başaramadım](https://open.spotify.com/album/2Fa67TjwSF8nXfqMEY49cm) | 2:24 | 2026-02-16 | 2026-03-18 |
 | [Ama Yine Sen](https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Ama Yine Sen](https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj) | 2:14 | 2024-11-28 | 2025-06-04 |
-| [Amatör](https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Amatör](https://open.spotify.com/album/1XfKv2avb7ICbTN97X58Bc) | 2:43 | 2025-12-10 |  |
+| [Amatör](https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Amatör](https://open.spotify.com/album/1XfKv2avb7ICbTN97X58Bc) | 2:43 | 2025-12-10 | 2026-07-28 |
 | [ANKARA TATANGALAR](https://open.spotify.com/track/4MkndNZKOkfiasYF06RiWx) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [BABAYLA ZOR YARIŞIRLAR](https://open.spotify.com/album/1R6sKgyd2XGs5KUnQ7rBij) | 2:21 | 2026-05-11 | 2026-06-16 |
 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 | 2024-10-21 | 2025-02-19 |
 | [AQUAFINA](https://open.spotify.com/track/2cbgLYxRK6exbeKyz4YrD3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [AQUAFINA](https://open.spotify.com/album/2y43Y78ueoesO5T4mtvsXj) | 2:27 | 2025-07-29 | 2025-08-15 |
@@ -244,6 +244,7 @@
 | [PSYCHO](https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Drama](https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X) | 2:33 | 2025-01-02 | 2025-05-02 |
 | [pUTA](https://open.spotify.com/track/0nSgiI4vDSLUCA4GcQDAtp) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [BIGBAT](https://open.spotify.com/artist/2UHnfpUKzvlJPRPk7lNLix) | [pUTA](https://open.spotify.com/album/4qu7sfvwNCwuqOReUcPIOd) | 1:44 | 2025-05-01 | 2025-07-17 |
 | [pVg](https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [pVg](https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6) | 4:03 | 2026-07-17 |  |
+| [pVg \- Manifest Live Remix](https://open.spotify.com/track/2cUZpjUvGWtVrMMEUrx1YP) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [pVg \(Manifest Live Remix\)](https://open.spotify.com/album/1AS7ut0bE1qNWxxsCHiHpA) | 4:05 | 2026-07-27 |  |
 | [RanDuman](https://open.spotify.com/track/49lLBkUqdjCFuLAlDIteRF) | [BGR](https://open.spotify.com/artist/6umb60Q2lGAXahIvuPiOHi) | [RanDuman](https://open.spotify.com/album/2slL47sGIv2wRv9P4Wo9Xy) | 2:32 | 2025-05-29 | 2025-06-12 |
 | [RDM](https://open.spotify.com/track/1f2c5aRUD2yyU2jmjvDSzr) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [RDM](https://open.spotify.com/album/5wrTc1B12K6DCxGk7EYHkn) | 2:01 | 2026-04-27 |  |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-07-02 | 2024-10-03 |

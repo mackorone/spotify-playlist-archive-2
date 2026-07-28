@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover: Teni",
-  "num_followers": 264944,
+  "num_followers": 264955,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-07-24 00:01:42",
       "album": {
+        "name": "Candor",
+        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
+      },
+      "artists": [
+        {
+          "name": "Monaky",
+          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
+        }
+      ],
+      "duration_ms": 175666,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
+    },
+    {
+      "added_at": "2026-07-24 00:01:42",
+      "album": {
         "name": "Till The Wheels Fall Off",
         "url": "https://open.spotify.com/album/6TxDe2gHUaquCy80v8aFQm"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 169655,
       "name": "Till The Wheels Fall Off",
       "url": "https://open.spotify.com/track/2L3CJQFfnVTewLPdQ0iR19"
-    },
-    {
-      "added_at": "2026-07-24 00:01:42",
-      "album": {
-        "name": "Candor",
-        "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
-      },
-      "artists": [
-        {
-          "name": "Monaky",
-          "url": "https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q"
-        }
-      ],
-      "duration_ms": 175666,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
     },
     {
       "added_at": "2026-07-24 00:01:42",
@@ -699,26 +699,22 @@
     {
       "added_at": "2026-07-24 00:01:42",
       "album": {
-        "name": "TATTUU",
-        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
+        "name": "catharsis",
+        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
       "artists": [
         {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 194734,
-      "name": "TATTUU",
-      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
+      "duration_ms": 162587,
+      "name": "golibe",
+      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
     },
     {
       "added_at": "2026-07-24 00:01:42",
@@ -743,22 +739,26 @@
     {
       "added_at": "2026-07-24 00:01:42",
       "album": {
-        "name": "catharsis",
-        "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
+        "name": "TATTUU",
+        "url": "https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
         },
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 162587,
-      "name": "golibe",
-      "url": "https://open.spotify.com/track/0WjpZZPLAAADeY9Hdam4Nr"
+      "duration_ms": 194734,
+      "name": "TATTUU",
+      "url": "https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM"
     },
     {
       "added_at": "2026-07-24 00:01:42",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-07-24 00:01:42",
       "album": {
+        "name": "All Over You",
+        "url": "https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb"
+      },
+      "artists": [
+        {
+          "name": "Deobi",
+          "url": "https://open.spotify.com/artist/2VFjhFAJd6PHcwVG4eo9EI"
+        }
+      ],
+      "duration_ms": 145519,
+      "name": "All Over You",
+      "url": "https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv"
+    },
+    {
+      "added_at": "2026-07-24 00:01:42",
+      "album": {
         "name": "REAL, Vol. 1",
         "url": "https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 156696,
       "name": "Iskolodo",
       "url": "https://open.spotify.com/track/2mUuEPVacpJ2UFgFTe63Av"
-    },
-    {
-      "added_at": "2026-07-24 00:01:42",
-      "album": {
-        "name": "All Over You",
-        "url": "https://open.spotify.com/album/7m2pHHLujtRpWFnz3aLSdb"
-      },
-      "artists": [
-        {
-          "name": "Deobi",
-          "url": "https://open.spotify.com/artist/2VFjhFAJd6PHcwVG4eo9EI"
-        }
-      ],
-      "duration_ms": 145519,
-      "name": "All Over You",
-      "url": "https://open.spotify.com/track/6EzsUkZqhkXet4vVTc7kKv"
     },
     {
       "added_at": "2026-07-24 00:01:42",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-07-24 00:01:42",
       "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Blame U",
+      "url": "https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83"
+    },
+    {
+      "added_at": "2026-07-24 00:01:42",
+      "album": {
         "name": "MENU",
         "url": "https://open.spotify.com/album/2W6hDvOtf3AloLmKkoiXpt"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 159183,
       "name": "MENU",
       "url": "https://open.spotify.com/track/7gPfcWLq41GtuvwHNWGnZe"
-    },
-    {
-      "added_at": "2026-07-24 00:01:42",
-      "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Blame U",
-      "url": "https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83"
     },
     {
       "added_at": "2026-07-24 00:01:42",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-07-24 00:01:42",
       "album": {
-        "name": "Uche Jumbo",
-        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
-      },
-      "artists": [
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 148269,
-      "name": "Uche Jumbo",
-      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
-    },
-    {
-      "added_at": "2026-07-24 00:01:42",
-      "album": {
         "name": "Money (feat. Scottyolorin)",
         "url": "https://open.spotify.com/album/19LOy9jhWSbcmKU50Ql196"
       },
@@ -1311,6 +1295,54 @@
       "duration_ms": 157714,
       "name": "Money (feat. Scottyolorin)",
       "url": "https://open.spotify.com/track/5xHTQE15LbvdqtfNdBTIqF"
+    },
+    {
+      "added_at": "2026-07-24 00:01:42",
+      "album": {
+        "name": "All for You",
+        "url": "https://open.spotify.com/album/2oRxw8c555SnVKZ3ljNDZQ"
+      },
+      "artists": [
+        {
+          "name": "Boi Chase",
+          "url": "https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/1W6jbXrUrPQXHFbdiwPMmG"
+    },
+    {
+      "added_at": "2026-07-24 00:01:42",
+      "album": {
+        "name": "Uche Jumbo",
+        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 148269,
+      "name": "Uche Jumbo",
+      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
+    },
+    {
+      "added_at": "2026-07-24 00:01:42",
+      "album": {
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     },
     {
       "added_at": "2026-07-24 00:01:42",
@@ -1343,38 +1375,6 @@
       "duration_ms": 150000,
       "name": "Call Me (feat. Tu Musica)",
       "url": "https://open.spotify.com/track/0AaelNpgby0eOH8Z6QvBbd"
-    },
-    {
-      "added_at": "2026-07-24 00:01:42",
-      "album": {
-        "name": "All for You",
-        "url": "https://open.spotify.com/album/2oRxw8c555SnVKZ3ljNDZQ"
-      },
-      "artists": [
-        {
-          "name": "Boi Chase",
-          "url": "https://open.spotify.com/artist/3oDfCf5QvkoeVhPr5ixgZb"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "All for You",
-      "url": "https://open.spotify.com/track/1W6jbXrUrPQXHFbdiwPMmG"
-    },
-    {
-      "added_at": "2026-07-24 00:01:42",
-      "album": {
-        "name": "May 10th",
-        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00f8tonin",
-          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "May 10th",
-      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     },
     {
       "added_at": "2026-07-24 00:01:42",

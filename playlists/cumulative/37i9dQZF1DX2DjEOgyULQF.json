@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Cloudgaze",
+        "url": "https://open.spotify.com/album/7yVLlGcIToRjLtR2aZxlSX"
+      },
+      "artists": [
+        {
+          "name": "Toni Ludwig-Grapha\u00fcs",
+          "url": "https://open.spotify.com/artist/6SmAiryzbcGCXqPxeCDZKG"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187059,
+      "name": "Cloudgaze",
+      "url": "https://open.spotify.com/track/4Ju8S5l7FJdgX6JYJKrCBd"
+    },
+    {
+      "album": {
         "name": "Comfortable under the Surface",
         "url": "https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg"
       },
@@ -6980,7 +6998,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-28",
       "duration_ms": 177201,
       "name": "Stream of Harmony",
       "url": "https://open.spotify.com/track/2vsrtWukHPNJq6T0rt38rk"

@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: La Pegatina\n",
-  "num_followers": 72004,
+  "num_followers": 72031,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Siempre Fingiste Amarme",
-        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 237527,
-      "name": "Siempre Fingiste Amarme",
-      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Action (VS. \u7a32\u8449\u6d69\u5fd7)",
         "url": "https://open.spotify.com/album/6JqWeJGes6UDLV5kAgWNIs"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 228533,
       "name": "Action (VS. \u7a32\u8449\u6d69\u5fd7)",
       "url": "https://open.spotify.com/track/2rwkaFdBNUlYHEpInYEeM0"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
-      },
-      "artists": [
-        {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
-        }
-      ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Nice One",
         "url": "https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 152173,
       "name": "Call Your Bluff",
       "url": "https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+      },
+      "artists": [
+        {
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+        }
+      ],
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "Random Hand",
-        "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
-      },
-      "artists": [
-        {
-          "name": "Random Hand",
-          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
-        }
-      ],
-      "duration_ms": 192193,
-      "name": "Devil With a Microphone",
-      "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "STAY YOUNG STAY PUNK",
         "url": "https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 123000,
       "name": "STAY YOUNG STAY PUNK",
       "url": "https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "Random Hand",
+        "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
+      },
+      "artists": [
+        {
+          "name": "Random Hand",
+          "url": "https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb"
+        }
+      ],
+      "duration_ms": 192193,
+      "name": "Devil With a Microphone",
+      "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
     },
     {
       "added_at": "2026-03-20 06:00:11",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-03-20 06:00:11",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
-    },
-    {
-      "added_at": "2026-03-20 06:00:11",
-      "album": {
         "name": "Weit, weit weg",
         "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 157626,
       "name": "Weit, weit weg",
       "url": "https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc"
+    },
+    {
+      "added_at": "2026-03-20 06:00:11",
+      "album": {
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2026-03-20 06:00:11",
