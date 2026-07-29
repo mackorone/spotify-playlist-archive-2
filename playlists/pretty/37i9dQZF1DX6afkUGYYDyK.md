@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,082 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,109 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 48 | [Give Thanks](https://open.spotify.com/track/0NZnbmbjxWKDGAUZYGDB2m) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [Nothing Else Matters](https://open.spotify.com/album/0w9GZohthFktowKLWmBEYq) | 5:27 |
 | 49 | [Thank You](https://open.spotify.com/track/1Wj32fZIMMp1RM7DhvIWrF) | [RMC Worship](https://open.spotify.com/artist/7o5QzjcZvDSIXTZ94p7wPu), [Aaron Williams](https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz), [Billy DiMirra](https://open.spotify.com/artist/4fpWQv7fnc8KZOCQfB81nN) | [Thank You](https://open.spotify.com/album/0ldSyj9TMo9nrfz4xYoDvs) | 5:46 |
 | 50 | [Give Thanks To God](https://open.spotify.com/track/4Ox0ZgzigtRmNipYiZrY9h) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Give Thanks To God](https://open.spotify.com/album/4sp4pvAi81nztpcuPWNa3g) | 3:34 |
-| 51 | [Thank The Lord](https://open.spotify.com/track/17twfk8FZ0DX7obvyGyoS8) | [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53), [Noah Hinshaw](https://open.spotify.com/artist/5G6xDPshmI9d5TObWw0VJM) | [Thank The Lord](https://open.spotify.com/album/7gjCfoCmp00bvGVYQzg8JB) | 4:39 |
+| 51 | [Fire & Ice](https://open.spotify.com/track/2f5J7LPpzma7IrSnOwchjE) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Fire & Ice](https://open.spotify.com/album/4EwS6P5GehLBYW9znh6P77) | 2:31 |
 | 52 | [Thank You](https://open.spotify.com/track/7bepx5i8LoFzHKinpEWuUM) | [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Thank You](https://open.spotify.com/album/2ocrwBpvEWwXfjL6eZdkk7) | 2:25 |
-| 53 | [Fire & Ice](https://open.spotify.com/track/2f5J7LPpzma7IrSnOwchjE) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Fire & Ice](https://open.spotify.com/album/4EwS6P5GehLBYW9znh6P77) | 2:31 |
+| 53 | [Thank The Lord](https://open.spotify.com/track/17twfk8FZ0DX7obvyGyoS8) | [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53), [Noah Hinshaw](https://open.spotify.com/artist/5G6xDPshmI9d5TObWw0VJM) | [Thank The Lord](https://open.spotify.com/album/7gjCfoCmp00bvGVYQzg8JB) | 4:39 |
 | 54 | [Thank You Lord \- Live](https://open.spotify.com/track/0UOyOUzF8iUMiOE4GwyhqX) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Thank You Lord \(Live\)](https://open.spotify.com/album/4hCrCVaCuc9JSAtjdGhHEE) | 4:56 |
 | 55 | [Oh Give Thanks \(Psalm 136\)](https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Spirit Of David](https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h) | 4:55 |
 | 56 | [Thank You Jesus](https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Thank You Jesus](https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4) | 9:22 |

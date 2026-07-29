@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-972 songs - 2 day 16 hr 5 min
+973 songs - 2 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,7 +449,7 @@
 | [round and round](https://open.spotify.com/track/79Glv2oOljXTYJkAKsddNL) | [sangdei](https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI) | [Such is life](https://open.spotify.com/album/3SppLYDvuBYIn30ISyEZlm) | 2:59 | 2023-07-25 | 2023-08-02 |
 | [Runaway](https://open.spotify.com/track/4htG3gOGHW407No6WuwBqA) | [アマリリス](https://open.spotify.com/artist/00gU0eai5DATOHiWPrvd9b) | [Runaway](https://open.spotify.com/album/7AIvcXHWY1IVRNr76Gg1ZF) | 4:30 | 2022-05-31 | 2022-07-26 |
 | [Runner's High](https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Runner's High](https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia) | 3:42 | 2023-07-25 | 2023-12-19 |
-| [RUST](https://open.spotify.com/track/3eWMVr8Z0lyRr6iBQpeRrc) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [RUST](https://open.spotify.com/album/5mWy40lILGCjSt2XAvszWP) | 3:17 | 2026-01-20 |  |
+| [RUST](https://open.spotify.com/track/3eWMVr8Z0lyRr6iBQpeRrc) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [RUST](https://open.spotify.com/album/5mWy40lILGCjSt2XAvszWP) | 3:17 | 2026-01-20 | 2026-07-29 |
 | [Ryan](https://open.spotify.com/track/7EqZo0mLgUYO3fD4GyNvcH) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [Ryan](https://open.spotify.com/album/6whSVN6VIiYfyTQeRCuV35) | 4:45 | 2022-07-21 | 2022-07-23 |
 | [Ryuseitoshi \- Cover](https://open.spotify.com/track/4VY8uxHw5nXemCWbPyvLmw) | [JUNK FUJIYAMA](https://open.spotify.com/artist/076lb5j50WT6XliToD53ZY) | [Shokeitoshi City Pop Covers](https://open.spotify.com/album/489wnQeK62ioolhGrqXUZx) | 4:38 | 2024-03-05 | 2024-04-19 |
 | [saekdallian](https://open.spotify.com/track/6i2bypuzfzhz5CSCMQl22K) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [saekdallian](https://open.spotify.com/album/74kaiVuHhGXXLEOxAieZMR) | 3:24 | 2022-05-24 | 2022-06-01 |
@@ -624,6 +624,7 @@
 | [Wave](https://open.spotify.com/track/13PXd4wMUClL9J2uNSgmZh) | [ynkmr.](https://open.spotify.com/artist/0zWJ8seaNkOrZYzmO0twXU), [YELIKK](https://open.spotify.com/artist/0VpOZTcCUCHMj5RMrEwwVp) | [MIDVILLAGE](https://open.spotify.com/album/1Zr7OgLfgJn70uNwtWXOTv) | 3:54 | 2022-07-26 | 2022-07-29 |
 | [Wave](https://open.spotify.com/track/2ZRFVRgQwYKViuStRrVKHH) | [ynkmr.](https://open.spotify.com/artist/0zWJ8seaNkOrZYzmO0twXU), [YELIKK](https://open.spotify.com/artist/0VpOZTcCUCHMj5RMrEwwVp) | [MIDVILLAGE](https://open.spotify.com/album/3XargbtSTIiQBDjE2HLwnc) | 3:54 | 2022-07-27 | 2022-08-03 |
 | [waver](https://open.spotify.com/track/6mRb7nMsWrekmnXP0PrbL9) | [AKIRA](https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv), [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [waver](https://open.spotify.com/album/46ybrTqtnh7GOQ5tGVdvII) | 3:44 | 2023-10-10 | 2023-11-11 |
+| [Waves](https://open.spotify.com/track/3b0wdHyUphrHacRitrnqPp) | [Toki Asako](https://open.spotify.com/artist/7uzOFoMo1Jqo4dKCVmvO0v) | [Waves](https://open.spotify.com/album/70nbORib9vP7CQaaUJQHym) | 3:17 | 2026-07-28 |  |
 | [what a night](https://open.spotify.com/track/0cWB8AR320o8psJVtRRqYs) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [what a night](https://open.spotify.com/album/4GpAO4MymtdM13BW6DaUrD) | 3:47 | 2025-12-02 | 2026-03-04 |
 | [What the Hell](https://open.spotify.com/track/3Sio6hsXRUhhd6Hk4W1c7Y) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [What the Hell](https://open.spotify.com/album/1qfBbSPj9GQjS8xNGyJqoN) | 4:08 | 2023-12-12 | 2023-12-20 |
 | [What the Hell \(feat\. おかもとえみ\)](https://open.spotify.com/track/4mj9u28GzR6B6fgM45ritm) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li) | [What the Hell \(feat\. おかもとえみ\)](https://open.spotify.com/album/5NRA5maQZSLOWVKQsHSOpb) | 4:08 | 2026-06-09 |  |

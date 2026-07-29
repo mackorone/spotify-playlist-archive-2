@@ -1,6 +1,6 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 165828,
+  "num_followers": 166193,
   "original_name": "Calming Nature Music",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
+        "name": "Saliva",
+        "url": "https://open.spotify.com/album/6q5WdUSmzP4MWsXnlXI4gE"
+      },
+      "artists": [
+        {
+          "name": "Quiet Tones",
+          "url": "https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z"
+        }
+      ],
+      "duration_ms": 130134,
+      "name": "Saliva",
+      "url": "https://open.spotify.com/track/5FzvjheRfr4uThMkG60JK6"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
         "name": "Where the Rain Begins to Sing",
         "url": "https://open.spotify.com/album/4nA7eft1WMWMBNRqOLJsIR"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 196000,
       "name": "Paladin Diversum",
       "url": "https://open.spotify.com/track/60r8LX6fGaLQYjYCdBB2Kp"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
-        "name": "Saliva",
-        "url": "https://open.spotify.com/album/6q5WdUSmzP4MWsXnlXI4gE"
-      },
-      "artists": [
-        {
-          "name": "Quiet Tones",
-          "url": "https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z"
-        }
-      ],
-      "duration_ms": 130134,
-      "name": "Saliva",
-      "url": "https://open.spotify.com/track/5FzvjheRfr4uThMkG60JK6"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Nature's Heart",
-        "url": "https://open.spotify.com/album/7zmcX2OiYE6yZf4FDk1W9o"
-      },
-      "artists": [
-        {
-          "name": "BlunD",
-          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Nature's Heart",
-      "url": "https://open.spotify.com/track/7yIzdeMsJ8Ao3E4WReINYu"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "by our brook",
         "url": "https://open.spotify.com/album/6gsmlzO7pBVwDq6NBpDKTB"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Peaceful Oasis",
-        "url": "https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP"
+        "name": "Nature's Heart",
+        "url": "https://open.spotify.com/album/7zmcX2OiYE6yZf4FDk1W9o"
       },
       "artists": [
         {
-          "name": "Harlow Moss",
-          "url": "https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE"
+          "name": "BlunD",
+          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Peaceful Oasis",
-      "url": "https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil"
+      "duration_ms": 165500,
+      "name": "Nature's Heart",
+      "url": "https://open.spotify.com/track/7yIzdeMsJ8Ao3E4WReINYu"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -775,6 +759,22 @@
       "duration_ms": 194692,
       "name": "Level Ground",
       "url": "https://open.spotify.com/track/6PBjsnOTKDeZga28tSx6Pq"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Peaceful Oasis",
+        "url": "https://open.spotify.com/album/6iM47rcVv5oeECBmoqgjDP"
+      },
+      "artists": [
+        {
+          "name": "Harlow Moss",
+          "url": "https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Peaceful Oasis",
+      "url": "https://open.spotify.com/track/31DnMj7hs5zUQcT82WSfil"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Lumenfall",
-        "url": "https://open.spotify.com/album/5c9FYuBl5lMgNrf9IQBrQZ"
-      },
-      "artists": [
-        {
-          "name": "Paia Mooni",
-          "url": "https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Lumenfall",
-      "url": "https://open.spotify.com/track/1RKYSkXDcG2xrvTVTl0jP5"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Grounding Springs",
         "url": "https://open.spotify.com/album/7G5UgVeeGvUCn1fmuMltil"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
+        "name": "Lumenfall",
+        "url": "https://open.spotify.com/album/5c9FYuBl5lMgNrf9IQBrQZ"
+      },
+      "artists": [
+        {
+          "name": "Paia Mooni",
+          "url": "https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Lumenfall",
+      "url": "https://open.spotify.com/track/1RKYSkXDcG2xrvTVTl0jP5"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
         "name": "Lay the Foundation",
         "url": "https://open.spotify.com/album/166aV9lE2KR5UHh28N05m2"
       },
@@ -955,18 +955,18 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Panorama Sky",
-        "url": "https://open.spotify.com/album/6f7mYP43UkkoHAHYPvRRYw"
+        "name": "Auralen",
+        "url": "https://open.spotify.com/album/54ewdSbyx4aVHbDCrIt2Vz"
       },
       "artists": [
         {
-          "name": "Willow Skies",
-          "url": "https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc"
+          "name": "floating echoes",
+          "url": "https://open.spotify.com/artist/1ai55OO2IZmkx2Eeze4bbe"
         }
       ],
-      "duration_ms": 172528,
-      "name": "Panorama Sky",
-      "url": "https://open.spotify.com/track/7l17NcC5dUhh2ZnYHUCcoA"
+      "duration_ms": 210731,
+      "name": "Auralen",
+      "url": "https://open.spotify.com/track/2gOA6HcLxjLjcwNmjDinkV"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Auralen",
-        "url": "https://open.spotify.com/album/54ewdSbyx4aVHbDCrIt2Vz"
+        "name": "Panorama Sky",
+        "url": "https://open.spotify.com/album/6f7mYP43UkkoHAHYPvRRYw"
       },
       "artists": [
         {
-          "name": "floating echoes",
-          "url": "https://open.spotify.com/artist/1ai55OO2IZmkx2Eeze4bbe"
+          "name": "Willow Skies",
+          "url": "https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Auralen",
-      "url": "https://open.spotify.com/track/2gOA6HcLxjLjcwNmjDinkV"
+      "duration_ms": 172528,
+      "name": "Panorama Sky",
+      "url": "https://open.spotify.com/track/7l17NcC5dUhh2ZnYHUCcoA"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx"
-      },
-      "artists": [
-        {
-          "name": "Solace Sonique",
-          "url": "https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/6SrGcbpvB216sv4XrtL2Pq"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Drifted Roots",
         "url": "https://open.spotify.com/album/5qFw7xLFqM8smKkcSQAXbP"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 167773,
       "name": "Drifted Roots",
       "url": "https://open.spotify.com/track/0bHg0FMaPM01Nfw7dc1JuH"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx"
+      },
+      "artists": [
+        {
+          "name": "Solace Sonique",
+          "url": "https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6SrGcbpvB216sv4XrtL2Pq"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Guided by water",
-        "url": "https://open.spotify.com/album/6aaiU2um6gI6AoZxo03wxB"
-      },
-      "artists": [
-        {
-          "name": "Ljusnan",
-          "url": "https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe"
-        }
-      ],
-      "duration_ms": 217317,
-      "name": "Guided by water",
-      "url": "https://open.spotify.com/track/5l7sHk5p9YnwW8WjdYPz3K"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Overflow",
         "url": "https://open.spotify.com/album/7DTOJ3s4IVnCZcQVOXtQ9E"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 159422,
       "name": "Aeolian",
       "url": "https://open.spotify.com/track/5x2OsAflQhIXyAQ1zeTFII"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Guided by water",
+        "url": "https://open.spotify.com/album/6aaiU2um6gI6AoZxo03wxB"
+      },
+      "artists": [
+        {
+          "name": "Ljusnan",
+          "url": "https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe"
+        }
+      ],
+      "duration_ms": 217317,
+      "name": "Guided by water",
+      "url": "https://open.spotify.com/track/5l7sHk5p9YnwW8WjdYPz3K"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
+        "name": "Eden's Twilight",
+        "url": "https://open.spotify.com/album/644DxTa0f7DUPilf8u2wRQ"
+      },
+      "artists": [
+        {
+          "name": "Orbit Of Zen",
+          "url": "https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs"
+        }
+      ],
+      "duration_ms": 150535,
+      "name": "Eden's Twilight",
+      "url": "https://open.spotify.com/track/4tvXduo2sBOLHwfQzsBNGr"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
         "name": "Hands In The Sky",
         "url": "https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Eden's Twilight",
-        "url": "https://open.spotify.com/album/644DxTa0f7DUPilf8u2wRQ"
+        "name": "Lyricon",
+        "url": "https://open.spotify.com/album/38HetolTHRgUmozgeyGgb1"
       },
       "artists": [
         {
-          "name": "Orbit Of Zen",
-          "url": "https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs"
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
         }
       ],
-      "duration_ms": 150535,
-      "name": "Eden's Twilight",
-      "url": "https://open.spotify.com/track/4tvXduo2sBOLHwfQzsBNGr"
+      "duration_ms": 192075,
+      "name": "Lyricon",
+      "url": "https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Lyricon",
-        "url": "https://open.spotify.com/album/38HetolTHRgUmozgeyGgb1"
-      },
-      "artists": [
-        {
-          "name": "Gleework",
-          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "Lyricon",
-      "url": "https://open.spotify.com/track/58bpuOIVh1z048wxmryOv1"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Birds of Lydia",
         "url": "https://open.spotify.com/album/4x9TbSI7FAwZlBLJ8NU1PC"
       },
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Vibo Nuovo",
-        "url": "https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i"
-      },
-      "artists": [
-        {
-          "name": "Bliss Phenomena",
-          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Vibo Nuovo",
-      "url": "https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Raindrop Manor",
         "url": "https://open.spotify.com/album/4xARhHojltdgbg3F0Eb2zO"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 157404,
       "name": "Raindrop Manor",
       "url": "https://open.spotify.com/track/3xFNORPASQf8H8UyDFUMWC"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Vibo Nuovo",
+        "url": "https://open.spotify.com/album/2rCtZcfFt7svYlB7xuAn5i"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Vibo Nuovo",
+      "url": "https://open.spotify.com/track/5MP7fS5PCPoQhQdggjW3md"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
-        "name": "Sailing Home",
-        "url": "https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F"
-      },
-      "artists": [
-        {
-          "name": "Undis",
-          "url": "https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Sailing Home",
-      "url": "https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
         "name": "Passing",
         "url": "https://open.spotify.com/album/4NMvHwdcqZ9mJoYBj31oRo"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 162000,
       "name": "Passing",
       "url": "https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
+        "name": "Sailing Home",
+        "url": "https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F"
+      },
+      "artists": [
+        {
+          "name": "Undis",
+          "url": "https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Sailing Home",
+      "url": "https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb"
     },
     {
       "added_at": "2026-06-18 15:22:41",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2026-06-18 15:22:41",
       "album": {
+        "name": "Droplets",
+        "url": "https://open.spotify.com/album/5VOXya4ZeAVZdLwTdTwK1O"
+      },
+      "artists": [
+        {
+          "name": "Solfjord",
+          "url": "https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Droplets",
+      "url": "https://open.spotify.com/track/2N8YZv6azakZK17PRFFOTS"
+    },
+    {
+      "added_at": "2026-06-18 15:22:41",
+      "album": {
         "name": "Glint",
         "url": "https://open.spotify.com/album/5jm4rOPGLF04RP1d9cuxbi"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 167692,
       "name": "Imaginations",
       "url": "https://open.spotify.com/track/0M24HOVMxZNVjv2MRvyGIW"
-    },
-    {
-      "added_at": "2026-06-18 15:22:41",
-      "album": {
-        "name": "Droplets",
-        "url": "https://open.spotify.com/album/5VOXya4ZeAVZdLwTdTwK1O"
-      },
-      "artists": [
-        {
-          "name": "Solfjord",
-          "url": "https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Droplets",
-      "url": "https://open.spotify.com/track/2N8YZv6azakZK17PRFFOTS"
     },
     {
       "added_at": "2026-06-18 15:22:41",

@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 88241,
+  "num_followers": 88268,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAAAAUgWoGkAchYmh72PMEeIx",
+  "snapshot_id": "amafgAAAAADuSInozBCxsn7h/9tgxOEU",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "Beyond Oblivion",
-      "url": "https://open.spotify.com/track/2xOwDv18iuRmDI7akoJ250"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Don't Wanna Be Me",
         "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 228712,
       "name": "I Don't Wanna Be Me",
       "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sin and the Sentence",
+        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "Beyond Oblivion",
+      "url": "https://open.spotify.com/track/2xOwDv18iuRmDI7akoJ250"
     },
     {
       "added_at": null,

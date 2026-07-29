@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 222000,
       "name": "Blood God",
       "url": "https://open.spotify.com/track/2E8AaeOkYGfyGKkpEkBkG6"
@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 258181,
       "name": "Bloodletting (The Vampire Song)",
       "url": "https://open.spotify.com/track/238hAZxVczUt7QYYQuiyxT"
@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 209493,
       "name": "Dark Charm",
       "url": "https://open.spotify.com/track/1zjK2NHeqw2fUiOT0YAcrv"
@@ -4892,7 +4892,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 227746,
       "name": "Dying to Stay Young",
       "url": "https://open.spotify.com/track/4TwKZv8WEb5X4BeRHUjyyG"
@@ -5590,7 +5590,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 276372,
       "name": "Family",
       "url": "https://open.spotify.com/track/23Sm5nJOPTD0uXvVE7xu0H"
@@ -6378,7 +6378,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 206000,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2FHoqKj496yDpU1lRLS0Dv"
@@ -6746,7 +6746,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 294068,
       "name": "Grenn Eyes",
       "url": "https://open.spotify.com/track/7d8owlmuILQ1APlw5fyApY"
@@ -10994,7 +10994,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 244800,
       "name": "Necromantic",
       "url": "https://open.spotify.com/track/4vs2lgSfRqonxxsumPueKr"
@@ -11298,7 +11298,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 270545,
       "name": "Noise in a Vacuum",
       "url": "https://open.spotify.com/track/1ksCDjk68HY25hpBa3tOab"
@@ -11334,7 +11334,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 229692,
       "name": "Not At All",
       "url": "https://open.spotify.com/track/7CU0Z6zcqVVZbCYnGDD3h6"
@@ -11558,7 +11558,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 228914,
       "name": "On Your Way",
       "url": "https://open.spotify.com/track/0drRHKIwH1MdX2cXrev92c"
@@ -12778,7 +12778,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 215706,
       "name": "Romeo & Juliet",
       "url": "https://open.spotify.com/track/5ER4aOIHY5WvFnFiLDYrUO"
@@ -13456,7 +13456,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 243477,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/4IfDzgoeK8NEMfUUUyrra9"
@@ -13666,6 +13666,42 @@
       "duration_ms": 231683,
       "name": "Shame",
       "url": "https://open.spotify.com/track/5Z3lFkjee759xBGg88bwIJ"
+    },
+    {
+      "album": {
+        "name": "sharp knife!",
+        "url": "https://open.spotify.com/album/7a7a2R1xco7q8RI6Zz51S9"
+      },
+      "artists": [
+        {
+          "name": "ZRVANI",
+          "url": "https://open.spotify.com/artist/1DcEvngp6nkjhrw7rDpaJD"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146136,
+      "name": "sharp knife!",
+      "url": "https://open.spotify.com/track/5t5WtKIJrTUNQLdsjvqIEP"
+    },
+    {
+      "album": {
+        "name": "Shattered Echoes",
+        "url": "https://open.spotify.com/album/24juuMEKabngIlCEGvFB1t"
+      },
+      "artists": [
+        {
+          "name": "Nicola Zanna",
+          "url": "https://open.spotify.com/artist/4bIu7KVVptfeDw4937c5Tk"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228280,
+      "name": "Shattered Echoes",
+      "url": "https://open.spotify.com/track/69SbPfrbFW8GuFTwylOQY4"
     },
     {
       "album": {
@@ -14344,7 +14380,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 264456,
       "name": "Solitude And I",
       "url": "https://open.spotify.com/track/57FXZ1jw6tha17ZYQb0MWc"
@@ -14658,7 +14694,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 608833,
       "name": "Star Scream",
       "url": "https://open.spotify.com/track/2RWEDjpidI5bdbYIVoP8Ag"
@@ -16244,7 +16280,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 227779,
       "name": "The Rope",
       "url": "https://open.spotify.com/track/1qOmWviuwaL63qusP9ctX1"
@@ -17630,7 +17666,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Unhappy Days",
       "url": "https://open.spotify.com/track/2nMUFI5YXNLMRgbx276JOS"
@@ -18248,7 +18284,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 263000,
       "name": "Watch them scream and Shout (No doubt)",
       "url": "https://open.spotify.com/track/62DAHNTKYHXwhYOC4dssVa"
@@ -18660,7 +18696,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"

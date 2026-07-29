@@ -2171,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Temporale",
+        "url": "https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0"
+      },
+      "artists": [
+        {
+          "name": "Heygregg",
+          "url": "https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Temporale",
+      "url": "https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk"
+    },
+    {
+      "album": {
         "name": "The Kingdom of Trees",
         "url": "https://open.spotify.com/album/6rUJAze2ADreCV5kLqWmea"
       },

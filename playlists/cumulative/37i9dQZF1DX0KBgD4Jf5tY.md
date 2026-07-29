@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:5x9yExrQoWWxIruKCWIMip">JANAKI</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:36GKpvoEgJCwtYR7tmSBGL">Angelo Kras</a> in cover.
 
-2,226 songs - 4 day 14 hr 48 min
+2,228 songs - 4 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [baobab](https://open.spotify.com/track/3u7xYZM188HCbHX9chFHU4) | [Foreverboymush](https://open.spotify.com/artist/7tkxzgoJwU4tMdyMSPxkxE), [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [baobab](https://open.spotify.com/album/69M24IhGU4DWskgw7hVNiR) | 2:13 | 2022-06-02 | 2022-07-08 |
 | [Barman](https://open.spotify.com/track/5IyY5hticbnFBR5ztmZ7cV) | [Divietø](https://open.spotify.com/artist/6xSpoFgkCHOIcy7egIhKhN) | [Barman](https://open.spotify.com/album/2ZV2tXJRNnVZ8G8K9Ng4ez) | 2:30 | 2023-02-16 | 2023-02-25 |
 | [BASTA](https://open.spotify.com/track/656XTZS0FdVrLDBWQov6HC) | [SOPHIE](https://open.spotify.com/artist/46NtlO5LCUJ67d5lFsbSYo) | [BASTA](https://open.spotify.com/album/7DFmmXclmvTf9smfmDj0TZ) | 2:54 | 2022-10-14 | 2022-11-11 |
+| [bathroom stalls](https://open.spotify.com/track/2dwUj2I1aek40MbhJgYz3v) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [bathroom stalls](https://open.spotify.com/album/4muZo3emWSPEYxEV0QHrXt) | 3:21 | 2026-07-28 |  |
 | [Battelli d'ori](https://open.spotify.com/track/3jFwiYYXZvLmlMJkJmtyQQ) | [FOLKTRONICA](https://open.spotify.com/artist/3220Npaff3LqTFyPcD0S1G), [Domenico Celiberti](https://open.spotify.com/artist/76XuQ9ynqua4ebqxxjXFit), [Rosario Nido](https://open.spotify.com/artist/6kuV2oT3QLHhYUAiaY9D5q), [Trevize](https://open.spotify.com/artist/3lj95u1ucs9JlEjAPO3f06), [Giovanni Chirico](https://open.spotify.com/artist/7JQTuqjmXsmsQcyAMhAo7u), [Vincenzo Gagliani](https://open.spotify.com/artist/3CWSJ8bQnramzct9hcWpgl), [Gianni Sciambarruto](https://open.spotify.com/artist/4QeQquAPAC21nt9W9viM8s), [Gioele Nuzzo](https://open.spotify.com/artist/4s98H8RwhP0JsobO3VacSw) | [Battelli d'ori](https://open.spotify.com/album/680Ex28pczCYi1z9cspaLC) | 4:39 | 2025-06-18 | 2025-07-16 |
 | [Battito Polemico](https://open.spotify.com/track/1W5IaCPdFqSMZUhw5IcIj7) | [Miriah](https://open.spotify.com/artist/1nHS3UJE5YCtLMKm6Tgs7J) | [Battito Polemico](https://open.spotify.com/album/4Qjs0qnJ4NiyO7gCbbX4ub) | 3:00 | 2025-11-18 | 2025-12-17 |
 | [Batto i piedi](https://open.spotify.com/track/1tw88eMtPdiW1Mcna6zrqE) | [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [Batto i piedi](https://open.spotify.com/album/29ugj5LiZDBKuCbu7vm8Y7) | 3:00 | 2022-01-06 | 2022-02-18 |
@@ -876,7 +877,7 @@
 | [I want to believe](https://open.spotify.com/track/5rsWEQHRjj79IdYimUC5zz) | [SCORTESI](https://open.spotify.com/artist/3SelukOgib6BdRCzzlPymS) | [I want to believe](https://open.spotify.com/album/5onOlkRsEBpzHbHM564cpb) | 3:32 | 2022-03-03 | 2022-03-25 |
 | [i want to stay, you want to leave](https://open.spotify.com/track/6I6IVFZpNeDET2b29lOLXz) | [CORE MATO](https://open.spotify.com/artist/6kKPuf7rsBk0pJnZMxDLkC) | [i want to stay, you want to leave](https://open.spotify.com/album/1PSyJ1o532GVUJSuvBTcHy) | 2:55 | 2025-07-15 | 2025-09-03 |
 | [i wish i was here first](https://open.spotify.com/track/0gGC5ImVLnfwwaZIzh6ooe) | [Blue Alaska](https://open.spotify.com/artist/6IZCiqTePdDDwTzm25rSKN) | [i wish i was here first](https://open.spotify.com/album/0mBwWspqqTgpK65iwSnM0t) | 3:40 | 2023-10-03 | 2023-11-01 |
-| [I'll be different](https://open.spotify.com/track/3rZrKLeYRDfslSrdUa3gmV) | [a nice noise](https://open.spotify.com/artist/0DLoI8l8Q2Pm4iPnk6H6RJ) | [I'll be different](https://open.spotify.com/album/0quZLEsTru6FnklFLXRhkT) | 4:28 | 2026-05-26 |  |
+| [I'll be different](https://open.spotify.com/track/3rZrKLeYRDfslSrdUa3gmV) | [a nice noise](https://open.spotify.com/artist/0DLoI8l8Q2Pm4iPnk6H6RJ) | [I'll be different](https://open.spotify.com/album/0quZLEsTru6FnklFLXRhkT) | 4:28 | 2026-05-26 | 2026-07-29 |
 | [Icaro](https://open.spotify.com/track/6pgsGlnlF8qF2OIH6WN2zW) | [Alec Temple](https://open.spotify.com/artist/0vRy2jN13Cf9RzO9yt5p4k), [VAGO XVII](https://open.spotify.com/artist/0WJZ557GAEx6zv9e21A6QG) | [Icaro](https://open.spotify.com/album/4ogUI4J0TwUg4SuoRH6mzn) | 2:43 | 2022-11-10 | 2022-11-25 |
 | [iCloud](https://open.spotify.com/track/2p0Jel9n5xuXh4J0fZT2cr) | [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8), [10k watt](https://open.spotify.com/artist/5lyfVXXAUVOAf9rBhMwxZw) | [iCloud](https://open.spotify.com/album/0pzXvG704WN0iQINQmogF5) | 2:17 | 2025-11-25 | 2025-12-31 |
 | [ICONICISSIMI](https://open.spotify.com/track/3nefvo52kQYGQqYT7NYsjk) | [AMSI](https://open.spotify.com/artist/2lYoyllLwqdW5mjvgOnLGw), [Giupo](https://open.spotify.com/artist/0BoI7C0LoBWSR0lnL75SJR) | [ICONICISSIMI](https://open.spotify.com/album/5wyVlssiWjauW7vDt369OQ) | 2:04 | 2025-06-10 | 2025-07-09 |
@@ -921,6 +922,7 @@
 | [In Aria](https://open.spotify.com/track/7qN3JGuvDdkyVOzB9WBBqY) | [Fringuello](https://open.spotify.com/artist/1edHaSYr10CZ9jmCHK9OVl) | [In Aria](https://open.spotify.com/album/4S2SzhLnM2zqHQBrLqQAeD) | 3:37 | 2025-12-16 | 2026-01-15 |
 | [In Bilico](https://open.spotify.com/track/4oYerxUi4oBUrZLSCrgci6) | [COBALTO](https://open.spotify.com/artist/61X1lMtIfYeX91D3s8ouov) | [In Bilico](https://open.spotify.com/album/5wxSZz1vvi07LpbNo2GzXr) | 3:02 | 2023-10-18 | 2023-11-23 |
 | [In Bilico](https://open.spotify.com/track/6N8EtHuolhtssYJH2cE1Sl) | [Luvi!](https://open.spotify.com/artist/690tqqfa78b8LrE7wazaHi) | [In Bilico](https://open.spotify.com/album/34YlHYFdR9tXK98MfcmafS) | 3:02 | 2025-07-22 | 2025-09-10 |
+| [In Controluce](https://open.spotify.com/track/24uzeacrpKm4EZdytA3b4x) | [Carlotta Ceraudo](https://open.spotify.com/artist/3NcOkSIiPkRXd3UT7DUey5) | [Sottovoce](https://open.spotify.com/album/6iXf1E4DHrI810uBWDlrgS) | 3:06 | 2026-07-28 |  |
 | [In Fissa \(feat\. Moonet, Zo Vivaldi, Hank\)](https://open.spotify.com/track/4xhCoCq3YTfp2Jzw4xjBfC) | [Loggia West Milano](https://open.spotify.com/artist/5isUAPOR83d2pZ2VRZi7Lv), [Hank](https://open.spotify.com/artist/212ZH0VQsr0lRbBFsJUPCh), [Moonet](https://open.spotify.com/artist/1NPVr13pYtGGQv6tQX1zWT), [Zo Vivaldi](https://open.spotify.com/artist/6Z3e8q2O7PGU16V88JKT1q) | [In Fissa \(feat\. Moonet, Zo Vivaldi, Hank\)](https://open.spotify.com/album/65pNuMCYZ9jpFdy3Z7mpsf) | 2:57 | 2022-06-23 | 2022-09-07 |
 | [in loop](https://open.spotify.com/track/2yfTs9jXTKNAxRZ9X3BlSU) | [ALLE](https://open.spotify.com/artist/31198cNlkvUbsM84iYyIdm) | [in loop](https://open.spotify.com/album/24BztsotMHiqpArEei5Y3f) | 3:28 | 2022-06-23 | 2022-07-15 |
 | [In luce](https://open.spotify.com/track/6SyBMIzp8zKqqVK335BCEO) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [Al suo riposo, In luce](https://open.spotify.com/album/36s9HaLZdbHhAj9p5cVUUz) | 4:44 | 2026-04-14 | 2026-06-24 |
@@ -1319,7 +1321,7 @@
 | [Niente di buono](https://open.spotify.com/track/7FiSMFy9h9cik2wK0zqFhK) | [Peripezie](https://open.spotify.com/artist/5d5CRw67pU1hNJDnbPwGHt) | [Niente di buono](https://open.spotify.com/album/0IP7oGpoFblfoOlF4nawjO) | 2:24 | 2024-07-18 | 2024-08-22 |
 | [niente di speciale](https://open.spotify.com/track/3Bjl1ZriqnJS6etKY1qKTU) | [L.E.D.](https://open.spotify.com/artist/4UhqPigaNqvYJkg1i4sXcv) | [niente di speciale](https://open.spotify.com/album/121tASoMn62GcgnsLbNaYc) | 2:50 | 2023-02-16 | 2023-03-03 |
 | [NIENTE HA SENSO](https://open.spotify.com/track/5YxnT6Tcn1H7DABdH16EEJ) | [MIKE ONE](https://open.spotify.com/artist/6Gcelxx8sUFyCYeF7wKDtd) | [NIENTE HA SENSO](https://open.spotify.com/album/3ic6yRY8LSLXpJuUenfOXb) | 1:16 | 2022-09-01 | 2022-09-12 |
-| [NIGHTS](https://open.spotify.com/track/6VixlHKJOoG9d8RjxmzIWo) | [Aures](https://open.spotify.com/artist/39xkt555pu4TqjWuwdDl3E) | [NIGHTS](https://open.spotify.com/album/3yktl175IVtAhz5g8erbfh) | 3:35 | 2026-05-26 |  |
+| [NIGHTS](https://open.spotify.com/track/6VixlHKJOoG9d8RjxmzIWo) | [Aures](https://open.spotify.com/artist/39xkt555pu4TqjWuwdDl3E) | [NIGHTS](https://open.spotify.com/album/3yktl175IVtAhz5g8erbfh) | 3:35 | 2026-05-26 | 2026-07-29 |
 | [NIRVANA](https://open.spotify.com/track/66w2dE3KZeM5XsGbzag8uW) | [Glazyhaze](https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5) | [NIRVANA](https://open.spotify.com/album/6Iz33PqDJUwVI2lz7P7pKY) | 3:13 | 2025-02-18 | 2025-04-16 |
 | [Nn è un gioco](https://open.spotify.com/track/2w8ejXsrVLaPDNvICPPqN4) | [tretreaura](https://open.spotify.com/artist/1EhU56ndTtTBZjoo77GscN), [Olli](https://open.spotify.com/artist/6TjVxYjWKkg9kI8tsg8zDi) | [Nn è un gioco](https://open.spotify.com/album/5FZJHTqQMII1mkUbZ0ToT5) | 1:45 | 2026-01-13 | 2026-02-25 |
 | [No Confidence](https://open.spotify.com/track/6XebDOvdSMKT3rpqs8whQ2) | [Adriana](https://open.spotify.com/artist/2h7JR7HbfDuNKibkk9GkDq) | [No Confidence](https://open.spotify.com/album/4z621rLkXMXAVVIRucEc5p) | 3:36 | 2023-04-04 | 2023-05-03 |

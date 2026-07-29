@@ -6,8 +6,24 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAO412PbGv3ppkXSNTxvtkfR/aOQoyM",
+  "snapshot_id": "AAAO5F5jH7Ms6xfrlGsankMjrQGRc3jQ",
   "tracks": [
+    {
+      "added_at": "2026-07-28 15:35:58",
+      "album": {
+        "name": "Temporale",
+        "url": "https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0"
+      },
+      "artists": [
+        {
+          "name": "Heygregg",
+          "url": "https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "Temporale",
+      "url": "https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk"
+    },
     {
       "added_at": "2026-07-26 11:51:33",
       "album": {

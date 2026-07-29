@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: HUGEL
+> 50 Hits in einer Playlist! Cover: Pashanim
 
-394 songs - 18 hr 46 min
+396 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Als du gingst \- edit](https://open.spotify.com/track/1MDyUzZgyrdeQVmV1FU3WQ) | [Contec](https://open.spotify.com/artist/2BFFFDU8cOaMWt7i2BHLtX), [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk) | [Als du gingst \(edit\)](https://open.spotify.com/album/24CMRdb9SWlm08gBNhWD3F) | 3:59 | 2025-05-06 |  |
 | [AMA DOREN](https://open.spotify.com/track/31IhzT94l1iqqTcwohZzbY) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [AMA DOREN](https://open.spotify.com/album/05pc4LDuUnuroq0J9yFmUO) | 2:41 | 2024-09-10 | 2024-11-13 |
 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-10 |  |
+| [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 | 2026-07-28 |  |
 | [Anxiety](https://open.spotify.com/track/1musbempyJAw5gfSKZHXP9) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/706mYHElAsR2MfcehZt2PA) | 4:09 | 2025-03-06 | 2025-08-14 |
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-04 | 2025-03-07 |
 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-23 | 2026-02-25 |
@@ -68,6 +69,7 @@
 | [Bleib stark](https://open.spotify.com/track/6JbVRviSipLkiY3khQjBWs) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Bleib stark](https://open.spotify.com/album/2mBw0hNgfE4lvYgajed54n) | 3:04 | 2025-10-28 | 2025-11-19 |
 | [Blessed](https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Blessed](https://open.spotify.com/album/1fu1KcaqGJUP8BjVLtQtC7) | 2:34 | 2026-03-24 | 2026-04-15 |
 | [Blessings](https://open.spotify.com/track/78nx0HDJIFD5xDq2L5420Z) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Blessings](https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52) | 3:39 | 2025-05-20 | 2026-03-25 |
+| [bloodstream](https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [bloodstream](https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q) | 2:57 | 2026-07-28 |  |
 | [Body](https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:35 | 2026-02-03 | 2026-03-11 |
 | [Borderline](https://open.spotify.com/track/5LrWZ8K4SPr1Qe0ZBqJGTq) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Borderline](https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf) | 1:58 | 2025-05-06 |  |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-11 | 2025-02-26 |
@@ -136,7 +138,7 @@
 | [Gegenteil von Glück](https://open.spotify.com/track/6hHrfh59hQJyfxGjGtMQ0h) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/31Q0RTl2JFPyexVMgwub3B) | 2:39 | 2025-11-26 | 2026-02-04 |
 | [Geschlossene Augen](https://open.spotify.com/track/4qdGZUy2bzM8GB2qBaMWpR) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Geschlossene Augen](https://open.spotify.com/album/3855i0YuxSfGiZcWvZq4Og) | 2:45 | 2024-10-16 | 2025-01-29 |
 | [Gesegnet](https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Gesegnet](https://open.spotify.com/album/28znTBZh9uV0BCoJ0w6xuk) | 3:11 | 2025-01-16 | 2025-03-26 |
-| [Ghetto Superstars](https://open.spotify.com/track/6UmX6507xaem9KkRmaMs5S) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Ghetto Superstars](https://open.spotify.com/album/3iAU42MwjGxRtUf5HtaWUH) | 3:05 | 2026-07-07 |  |
+| [Ghetto Superstars](https://open.spotify.com/track/6UmX6507xaem9KkRmaMs5S) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Ghetto Superstars](https://open.spotify.com/album/3iAU42MwjGxRtUf5HtaWUH) | 3:05 | 2026-07-07 | 2026-07-29 |
 | [Gib uns niemals auf](https://open.spotify.com/track/25ZtcdNKE1WBjMrizwlWhO) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Gib uns niemals auf](https://open.spotify.com/album/0mcxYIR8wOT5GVKhkqm2eC) | 2:44 | 2025-09-09 | 2025-09-24 |
 | [GIFTMORD](https://open.spotify.com/track/5RhjhMiL2D209ujIdVyajJ) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [GIFTMORD](https://open.spotify.com/album/3HMCSckxnIJuVr9arEVRGh) | 2:48 | 2025-11-26 | 2026-03-11 |
 | [gimme luv <3](https://open.spotify.com/track/1UeTyrfK5QChYU0kOJqv1z) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [gimme luv <3](https://open.spotify.com/album/53ihPT5MZWX8CX317eTSNe) | 3:00 | 2026-07-10 |  |
@@ -389,7 +391,7 @@
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-29 | 2025-05-28 |
 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2026-01-13 |  |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-09-23 |  |
-| [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2026-02-24 |  |
+| [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2026-02-24 | 2026-07-29 |
 | [WHO'S THAT](https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [WHO'S THAT](https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL) | 2:20 | 2025-06-24 | 2025-10-08 |
 | [Wie?](https://open.spotify.com/track/36w8f4Cl7JqTbFDamAdq8Q) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Wie?](https://open.spotify.com/album/3WjhvJaQYvDdud4lPBtrlH) | 2:53 | 2025-02-20 | 2026-02-04 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-11-05 | 2024-12-05 |

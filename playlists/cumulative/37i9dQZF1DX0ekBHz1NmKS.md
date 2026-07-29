@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,315 songs - 5 day 0 hr 5 min
+2,316 songs - 5 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1710,6 +1710,7 @@
 | [SECONDS 2 SUNRISE](https://open.spotify.com/track/3EZ2wPfs5QpjQejdd6KXVX) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa), [SALTI](https://open.spotify.com/artist/7Ky7z39i1sO85ZQCRBz16e) | [SECONDS 2 SUNRISE](https://open.spotify.com/album/4T7BbFDYDSFMx8TKdsO8Lq) | 2:53 | 2022-06-23 | 2022-07-21 |
 | [Secrets](https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Secrets](https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE) | 3:44 | 2024-08-22 | 2024-11-13 |
 | [See Me Happy](https://open.spotify.com/track/2EaRH0SnLQVb4bmpNrGI4j) | [AmenA](https://open.spotify.com/artist/6mfgihCd1Fk17tHBnvt2mo) | [Guidebook](https://open.spotify.com/album/4wb10EDsvCrbcoiVplFz9H) | 3:38 | 2024-02-08 | 2024-03-17 |
+| [See You in the Summer](https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [See You in the Summer](https://open.spotify.com/album/0T7sPKFNVkOgawv6t6U1IM) | 3:05 | 2026-07-23 |  |
 | [Segeltorp](https://open.spotify.com/track/676HgKUjR0fKQxPBmNDe5u) | [Reflektion](https://open.spotify.com/artist/1GzkzasUtKs6qCJQikDmiJ) | [Segeltorp](https://open.spotify.com/album/6DncLd5TqDR4NLLm9uxnt2) | 3:35 | 2024-04-18 | 2024-04-20 |
 | [Seiko](https://open.spotify.com/track/6TMIcpNnhkg1hzwfeWGdVx) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Seiko](https://open.spotify.com/album/41DEIBqikMJW924W2KUaG0) | 2:49 | 2025-07-03 | 2025-08-01 |
 | [Selfish Lies \(Laudanum\)](https://open.spotify.com/track/7JgtzJ7LfrqejT438nZ5tx) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g) | [Pink Cloud EP](https://open.spotify.com/album/5OGKTqF0cpjVK70i0hjibj) | 3:16 | 2023-10-05 | 2023-11-03 |
@@ -1826,7 +1827,7 @@
 | [Space](https://open.spotify.com/track/0w88RbYHwVDAbLGSJzsRa9) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Space](https://open.spotify.com/album/6KQgOvQJ1NoFUXX1BuAzfZ) | 4:02 | 2026-03-19 | 2026-05-15 |
 | [space](https://open.spotify.com/track/4nstXEMLPc7P3lZcGuHKUI) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI) | [space / emma](https://open.spotify.com/album/7zKoHoObscvApk5HXFMJi1) | 2:48 | 2022-09-15 | 2022-12-25 |
 | [SPACEBOY](https://open.spotify.com/track/0340AFk1HE5Za7urTUwk18) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [SPACEBOY](https://open.spotify.com/album/0klNLXWxb8FA4wknzVRr2J) | 3:07 | 2025-04-03 | 2025-07-11 |
-| [Sparat bilder](https://open.spotify.com/track/4Y63RjAxXoZ8eRhnikr1Ck) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Sparat bilder](https://open.spotify.com/album/41v1i2twkMoaMs7QrYT2MH) | 2:20 | 2026-05-07 |  |
+| [Sparat bilder](https://open.spotify.com/track/4Y63RjAxXoZ8eRhnikr1Ck) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Sparat bilder](https://open.spotify.com/album/41v1i2twkMoaMs7QrYT2MH) | 2:20 | 2026-05-07 | 2026-07-29 |
 | [Sparks](https://open.spotify.com/track/2pk58ypvSyuuZXYd3TRfwA) | [Charlie South](https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e) | [Sparks](https://open.spotify.com/album/0VNonTIFVaBXmKo3GLktRQ) | 3:34 | 2024-08-29 | 2024-09-29 |
 | [Spartas Svarta Hjärta](https://open.spotify.com/track/3Ezo5xeahAV0s0JBiHlEey) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Vita Skelett](https://open.spotify.com/album/3DSky97p2svAX6gNnyqUOl) | 3:03 | 2025-03-20 | 2025-04-25 |
 | [Sparvöga](https://open.spotify.com/track/7Ad48doEcyyr91oRgTg2sz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Sparvöga / I skydd av mörkret](https://open.spotify.com/album/3fmuDEVEgtEIYqEYEaDF1f) | 3:20 | 2025-01-23 | 2025-05-23 |

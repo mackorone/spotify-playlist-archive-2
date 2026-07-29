@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Ysa C",
-  "num_followers": 143826,
+  "num_followers": 143818,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
-        "name": "SEND\u00c9",
-        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "yo viendo",
-      "url": "https://open.spotify.com/track/13YKsJInLyGiJdEZEqqnzt"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
         "name": "KTM",
         "url": "https://open.spotify.com/album/1NXAld0zegArVKl00nTSpv"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 177447,
       "name": "KTM",
       "url": "https://open.spotify.com/track/3XXofal1zx616qGCutchgq"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
+        "name": "SEND\u00c9",
+        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "yo viendo",
+      "url": "https://open.spotify.com/track/13YKsJInLyGiJdEZEqqnzt"
     },
     {
       "added_at": "2026-06-26 04:01:41",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
-        "name": "AFRO RED 2",
-        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
-      },
-      "artists": [
-        {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
-        }
-      ],
-      "duration_ms": 143914,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
         "name": "Todav\u00eda",
         "url": "https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 183278,
       "name": "todav\u00edA",
       "url": "https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 143914,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
     },
     {
       "added_at": "2026-06-26 04:01:41",

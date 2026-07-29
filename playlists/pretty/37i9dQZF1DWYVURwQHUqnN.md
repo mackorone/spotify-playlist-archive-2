@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Jul
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,161,002 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,160,993 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 13 | [ZWINA](https://open.spotify.com/track/4MqcDRrRwMNp36DwTYROXB) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ZWINA](https://open.spotify.com/album/2pqja6AoxcApkY1XuzZODt) | 2:26 |
 | 14 | [Caméra](https://open.spotify.com/track/3ce6Eus0sTzTOIUXcDsm2z) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Caméra](https://open.spotify.com/album/3J27ku44gf99hjfZSx30Y6) | 2:21 |
 | 15 | [Séminaire](https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Sarah B.](https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7) | 2:33 |
-| 16 | [CHETOU](https://open.spotify.com/track/1jbwN9AZtCyct4pWOuDUhL) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN), [JKDM](https://open.spotify.com/artist/1ZnkQoMIqX3MOMYju1boa5) | [CHETOU](https://open.spotify.com/album/4Z7mcih5os6vGp9Wa4xfdG) | 2:48 |
+| 16 | [CHETOU](https://open.spotify.com/track/1jbwN9AZtCyct4pWOuDUhL) | [Black Cat](https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU), [JKDM](https://open.spotify.com/artist/1ZnkQoMIqX3MOMYju1boa5) | [CHETOU](https://open.spotify.com/album/4Z7mcih5os6vGp9Wa4xfdG) | 2:48 |
 | 17 | [18 Carats](https://open.spotify.com/track/2ovfSyXEj6RgIx6Ks5eIWr) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [18 Carats](https://open.spotify.com/album/3RYEWh0gq099GirskEcKVD) | 3:00 |
 | 18 | [À jamais](https://open.spotify.com/track/0hkAgyjEhEhutkeQaBCo8q) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [À jamais](https://open.spotify.com/album/5mpjQagvAboYeL85j1mp34) | 2:44 |
 | 19 | [RENÉ CAOVILLA](https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [RENÉ CAOVILLA](https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR) | 2:17 |

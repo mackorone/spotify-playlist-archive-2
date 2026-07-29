@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 22217,
+  "num_followers": 22219,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAADbOhEulN1VgPDPd3GGHZuP",
+  "snapshot_id": "amafgAAAAACHPVs1WdrVwFlE6D5IVW/4",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Adentro Hacia Afuera",
-        "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 307173,
-      "name": "De Adentro Hacia Afuera",
-      "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Em Fervente Ora\u00e7\u00e3o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2UDhovqN5gXcEa3E3lzQRx"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 293426,
       "name": "Em Fervente Ora\u00e7\u00e3o - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2Kmp00B3C2ytM0AmBGUpZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Adentro Hacia Afuera",
+        "url": "https://open.spotify.com/album/0GFxgsVUk6MzDh4BPXSeEE"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "De Adentro Hacia Afuera",
+      "url": "https://open.spotify.com/track/4NnUFTaoZOQBOyB3wG4S5g"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Restaura o Teu Altar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7lIAe7WjmKuBrhiBYIUFbF"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 418695,
+      "name": "Restaura o Teu Altar - Ao Vivo",
+      "url": "https://open.spotify.com/track/4wrh7ga7os62COyIENj1mf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/7rqwOt599tdxGOWCuWbOZx"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 327866,
       "name": "Voaremos (Soaring in Surrender) (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/1YwGCGodh84xQv2yKJPhMc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Restaura o Teu Altar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7lIAe7WjmKuBrhiBYIUFbF"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 418695,
-      "name": "Restaura o Teu Altar - Ao Vivo",
-      "url": "https://open.spotify.com/track/4wrh7ga7os62COyIENj1mf"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perto Eu Quero Estar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 252866,
-      "name": "Perto Eu Quero Estar - Ao Vivo",
-      "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alfa e \u00d4mega (Ao Vivo)",
         "url": "https://open.spotify.com/album/4OLP7B5cichGSIii0rvyri"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 417426,
       "name": "Alfa e \u00d4mega - Ao Vivo",
       "url": "https://open.spotify.com/track/351wtqG1ya5eCEtW1jPJfn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perto Eu Quero Estar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4YJCr4MpR5LE6WBMMcBT4x"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 252866,
+      "name": "Perto Eu Quero Estar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qcVbrMV3FW3BnKOadt3Xw"
     },
     {
       "added_at": null,

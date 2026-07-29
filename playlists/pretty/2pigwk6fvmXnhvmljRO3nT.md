@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,544 songs - 21 day 17 hr 39 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,546 songs - 21 day 17 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8552,5 +8552,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8542 | [Lift Me Up to the Sky](https://open.spotify.com/track/0I9D8AG9brwrJESKosmA52) | [Takeshi Nakatsuka](https://open.spotify.com/artist/20NsQIQXOKSrclmLOeZLIF), [ディネッサ](https://open.spotify.com/artist/4gFugNNEclDPZjlUZ73NQC) | [JOY](https://open.spotify.com/album/2wDMiyjUzYo0gW96J3kcKl) | 3:45 |
 | 8543 | [What's Going On?](https://open.spotify.com/track/0E5xQjFiOXHd7SbWdkrix7) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [PERSONA5 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/4pJT0WKggr4xk149X8A6KC) | 2:06 |
 | 8544 | [Kitsch](https://open.spotify.com/track/5q6A4nzo0VY57NjeMY6eZn) | [TEKKEN Project](https://open.spotify.com/artist/4jBUhTlqlLZtan3C1PCJSs), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TEKKEN 4 \(Original Soundtrack\)](https://open.spotify.com/album/0ldA7UlWNdVfnImmX4pSUd) | 3:49 |
+| 8545 | [KiLLKiSS](https://open.spotify.com/track/469KRyxbgklNcb6iLhbztB) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Completeness](https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX) | 3:28 |
+| 8546 | [Ave Mujica](https://open.spotify.com/track/2W99f2JxL6d2myh7nKAJKg) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Alea jacta est](https://open.spotify.com/album/4B7EDOo57FODEUirLkpNrZ) | 4:15 |
 
-Snapshot ID: `AAAMd/SvrttO/atwRjUVfcuIKj/fm+JU`
+Snapshot ID: `AAAMeSx3BZgPoY01nKKQ+T9T1z6pntN3`

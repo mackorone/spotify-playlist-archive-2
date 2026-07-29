@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-2,262 songs - 4 day 9 hr 46 min
+2,263 songs - 4 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1667,9 +1667,10 @@
 | [Кухни](https://open.spotify.com/track/69zCrlRTLn4sLeU4fJOzmE) | [Бонд с кнопкой](https://open.spotify.com/artist/2JrtkA0Z0JxBfEmxL25cP6) | [Кухни](https://open.spotify.com/album/3NWC2YAlqHpmm46wOxAxDJ) | 2:20 | 2025-06-02 | 2025-07-06 |
 | [кхм\-кхм](https://open.spotify.com/track/2Br49Z6ckGKdcnDGLj2L8q) | [ПОЛМАТЕРИ](https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1) | [позорники в прямом эфире](https://open.spotify.com/album/4FBGAhGDpokjezkHBYIL9S) | 2:02 | 2025-07-03 | 2025-09-10 |
 | [КЭН](https://open.spotify.com/track/1ugL6Atu9ZjlANNEAg1vSF) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:28 | 2022-04-30 | 2022-05-03 |
-| [ЛАБИРИНТ](https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [12](https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg) | 2:49 | 2022-02-20 |  |
+| [ЛАБИРИНТ](https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [12](https://open.spotify.com/album/12gG6thCtApE8B1nKcowOg) | 2:49 | 2022-02-20 | 2026-07-29 |
 | [ЛАБУДА](https://open.spotify.com/track/6EyI07FJXdGQ4a0lXLg0L1) | [NORD DIVISION](https://open.spotify.com/artist/1MQrUVl8fu6oQqAe3wQ1ap) | [ЛАБУДА](https://open.spotify.com/album/1crRIyWCvbsXKdTFkMDteo) | 13:16 | 2026-05-13 | 2026-05-15 |
 | [Лавэ \(feat\. ANIKV & БИЛИК\)](https://open.spotify.com/track/5SIWet1hcYBuPd6l36NlZG) | [SALUKI](https://open.spotify.com/artist/07tFgedhta5b5WaF0Yj4bH), [104](https://open.spotify.com/artist/3Th60WEZwIWceINQVE4Ipx), [ANIKV](https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B), [BILIK](https://open.spotify.com/artist/3A4xVUf4pH2xCtIjctgdFd) | [Лавэ \(feat\. ANIKV & БИЛИК\)](https://open.spotify.com/album/7buTJibChOq9YQAbXQu0Uh) | 2:55 | 2021-04-04 | 2021-04-11 |
+| [Лампочки](https://open.spotify.com/track/6c1ly1qdZbILblTz94usFG) | [ARTIK & ASTI](https://open.spotify.com/artist/4ywf1iH1ruKEcfpCgfJvyA) | [Миллениум Х](https://open.spotify.com/album/3kQuzrtCgpviID0Upusjw2) | 3:15 | 2026-07-28 |  |
 | [Ластівки](https://open.spotify.com/track/489WGIBYPf4nallnJOHpK6) | [Chico](https://open.spotify.com/artist/1nfldcDRGChHzFqBJpI472), [Qatoshi](https://open.spotify.com/artist/6eKpVRfpYxP0LtEuzJISI7) | [Ластівки](https://open.spotify.com/album/3CX7DQUapv7QJm75jjLzpR) | 2:55 | 2022-06-20 | 2022-12-22 |
 | [Лига Опасного Интернета](https://open.spotify.com/track/7B4napIhOn1s4qnwgcXBCl) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Лига Опасного Интернета](https://open.spotify.com/album/2BcD3y93sg63zQ8lJHCu3d) | 2:20 | 2023-08-13 | 2023-08-24 |
 | [Лиза](https://open.spotify.com/track/69E0PXED6MvClnqED4d7f5) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Hate Love](https://open.spotify.com/album/5UKIxEdQDFQztvCEfK5QME) | 3:00 | 2021-10-20 | 2025-10-08 |

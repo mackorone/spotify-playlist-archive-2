@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,274 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,270 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 15 | [Christmas Comes But Once A Year](https://open.spotify.com/track/1dW0NVuJJ1iIvJFUoWSDJ6) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [A Christmas Celebration Of Hope](https://open.spotify.com/album/3MkUwOzT4VEsTiq9XasaKu) | 4:14 |
 | 16 | [Santa Claus Go Straight To The Ghetto](https://open.spotify.com/track/74v7A5HZcadRT9c5Dea6b6) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Complete James Brown Christmas](https://open.spotify.com/album/0c33HCppp4S1OxiImIY6FC) | 3:01 |
 | 17 | [Christmas Boogie](https://open.spotify.com/track/3tvmH5gJUY90CaCCA3kEv0) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:16 |
-| 18 | [Dirty Ol' Christmas Blues](https://open.spotify.com/track/0WE9iKOAPnnXnifXm5VXGJ) | [Yes Maam](https://open.spotify.com/artist/4PiCEcoo8d1Yf2Sjw3bDIl), [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:06 |
-| 19 | [It's Bad to Have the Blues \(At Christmas Time\)](https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [Southern Rock Christmas](https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO) | 4:52 |
+| 18 | [It's Bad to Have the Blues \(At Christmas Time\)](https://open.spotify.com/track/75B9kd4YOgbc9vT5Uclp0l) | [Charlie Daniels](https://open.spotify.com/artist/6UpFUXmXvDV7Qj1SPymamh) | [Southern Rock Christmas](https://open.spotify.com/album/48G9jrvpW5HUuDlm0oRYjO) | 4:52 |
+| 19 | [Dirty Ol' Christmas Blues](https://open.spotify.com/track/0WE9iKOAPnnXnifXm5VXGJ) | [Yes Maam](https://open.spotify.com/artist/4PiCEcoo8d1Yf2Sjw3bDIl), [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:06 |
 | 20 | [You're A Mean One Mr\. Grinch](https://open.spotify.com/track/5AyuHCOC5gmJ8DrPIqMoaZ) | [Shine Delphi](https://open.spotify.com/artist/4P5ULEfqCWkQD5fZ9YYWgv), [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:56 |
 | 21 | [Empty Stocking Blues](https://open.spotify.com/track/6SwZ76VAKMj9pUDlTExTTQ) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [His Complete Aladdin Recordings](https://open.spotify.com/album/4CrJDn8HDnuIkCqfgUOmNh) | 3:01 |
 | 22 | [Christmas Time Blues](https://open.spotify.com/track/659ac5HeJ5aG6ihR8lCtBe) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [The Very Best of Roy Milton](https://open.spotify.com/album/47FXnQf2Q3UL2tIP82nMSv) | 3:05 |

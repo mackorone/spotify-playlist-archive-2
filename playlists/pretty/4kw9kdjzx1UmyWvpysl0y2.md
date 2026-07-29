@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 123,422 likes - 64 songs - 3 hr 16 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 123,419 likes - 64 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Whiplash](https://open.spotify.com/track/6nRw81vRRVM2cuU0yB08q3) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Whiplash](https://open.spotify.com/album/5Kvs6QtVAMvmrAaOdkvZY4) | 2:34 |
+| 1 | [WHIPLASH](https://open.spotify.com/track/6nRw81vRRVM2cuU0yB08q3) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [WHIPLASH](https://open.spotify.com/album/5Kvs6QtVAMvmrAaOdkvZY4) | 2:34 |
 | 2 | [Maxxin](https://open.spotify.com/track/0G6wBcaXMqoGcwfM6Rsd4s) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Maxxin](https://open.spotify.com/album/1qhoVk6YeDk8E4g1OpDZlt) | 3:46 |
 | 3 | [Midnight Drift](https://open.spotify.com/track/7C1UDppYPW3PiVHKbhHiRu) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Midnight Drift](https://open.spotify.com/album/7peNgjxpnh0ePTmBmUhufB) | 3:10 |
 | 4 | [Everyday \- VIP](https://open.spotify.com/track/6yOOnGQHjdxbEAs6DBvN01) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [Everyday \(VIP\)](https://open.spotify.com/album/5u8LAtgQ9vcp6vTiONUYyJ) | 3:07 |

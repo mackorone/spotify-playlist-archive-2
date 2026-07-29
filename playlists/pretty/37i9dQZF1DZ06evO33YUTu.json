@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 134377,
+  "num_followers": 134391,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAACfGG4Lm7u9WZG6DCZyz6NS",
+  "snapshot_id": "amafgAAAAAA3GzYt8TSwctZYnrX1AWYp",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Est\u00e1s Enamorando de M\u00ed",
+        "url": "https://open.spotify.com/album/6dIOyfEblWiLaoRfJkNdLY"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 165680,
+      "name": "Te Est\u00e1s Enamorando de M\u00ed",
+      "url": "https://open.spotify.com/track/0VKNy1fBPb3ZcMJE3v17VF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
         "url": "https://open.spotify.com/album/0f7eKFD7GWis0BuKXaikB5"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 218981,
       "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
       "url": "https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Est\u00e1s Enamorando de M\u00ed",
-        "url": "https://open.spotify.com/album/6dIOyfEblWiLaoRfJkNdLY"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 165680,
-      "name": "Te Est\u00e1s Enamorando de M\u00ed",
-      "url": "https://open.spotify.com/track/0VKNy1fBPb3ZcMJE3v17VF"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 182533,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 153707,
       "name": "En Tu Marea",
       "url": "https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 182533,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb"
     },
     {
       "added_at": null,

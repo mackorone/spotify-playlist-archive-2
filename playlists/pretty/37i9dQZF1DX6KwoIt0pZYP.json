@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 261290,
+  "num_followers": 261306,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
+        "name": "love you twice",
+        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 172189,
+      "name": "love you twice",
+      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
         "name": "Room For You",
         "url": "https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 183373,
       "name": "Room For You",
       "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
-        "name": "love you twice",
-        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 172189,
-      "name": "love you twice",
-      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "life update",
-        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
       },
       "artists": [
         {
-          "name": "Arash Buana",
-          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
         }
       ],
-      "duration_ms": 245647,
-      "name": "hey, i'm tired",
-      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
+      "duration_ms": 201533,
+      "name": "when the rain stops",
+      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "when the rain stopped following me",
-        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+        "name": "life update",
+        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
       },
       "artists": [
         {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
         }
       ],
-      "duration_ms": 201533,
-      "name": "when the rain stops",
-      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
+      "duration_ms": 245647,
+      "name": "hey, i'm tired",
+      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "THRIFTED",
-        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "THRIFTED",
-      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "keepyousafe",
         "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 261673,
       "name": "keepyousafe",
       "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
+        "name": "THRIFTED",
+        "url": "https://open.spotify.com/album/5OM7oXECyQH2QM6YQcnpMq"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "THRIFTED",
+      "url": "https://open.spotify.com/track/3c2cj9EqxPVMNEKdEexCX0"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
         "name": "BINIverse",
         "url": "https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 204650,
       "name": "Secrets (feat. eaJ)",
       "url": "https://open.spotify.com/track/0hzFVTCkNnMgRrBiTgRuXC"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 241458,
+      "name": "grateful",
+      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
         "name": "sad face :(",
         "url": "https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 208051,
       "name": "sad face :(",
       "url": "https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 241458,
-      "name": "grateful",
-      "url": "https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
-        "name": "my love my love my love",
-        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 158312,
-      "name": "my love my love my love",
-      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
         "name": "put it on me",
         "url": "https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 131061,
       "name": "put it on me",
       "url": "https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
+        "name": "my love my love my love",
+        "url": "https://open.spotify.com/album/0cKKpc9Cig7raogpgLFRrY"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "duration_ms": 158312,
+      "name": "my love my love my love",
+      "url": "https://open.spotify.com/track/5BsGNwy7xeUylco6Jj6VyP"
     },
     {
       "added_at": "2026-03-19 19:58:12",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2026-03-19 19:58:12",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ"
+      },
+      "artists": [
+        {
+          "name": "niko rain",
+          "url": "https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV"
+        },
+        {
+          "name": "EJEAN",
+          "url": "https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz"
+        }
+      ],
+      "duration_ms": 130097,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7"
+    },
+    {
+      "added_at": "2026-03-19 19:58:12",
+      "album": {
         "name": "For No Reason",
         "url": "https://open.spotify.com/album/0YxfTVkwTEk8XiRyC6G2WQ"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 168053,
       "name": "someone will love you better - Zack Tabudlo Version",
       "url": "https://open.spotify.com/track/5vYv4cboyu9XJvk2CQPuyh"
-    },
-    {
-      "added_at": "2026-03-19 19:58:12",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6G8uxObNHG7b09p8EUVEFZ"
-      },
-      "artists": [
-        {
-          "name": "niko rain",
-          "url": "https://open.spotify.com/artist/3bIDVpODlxr80Gj7EAEXkV"
-        },
-        {
-          "name": "EJEAN",
-          "url": "https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz"
-        }
-      ],
-      "duration_ms": 130097,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7eSD3OvRfbCrkEIN3VYFv7"
     },
     {
       "added_at": "2026-03-19 19:58:12",

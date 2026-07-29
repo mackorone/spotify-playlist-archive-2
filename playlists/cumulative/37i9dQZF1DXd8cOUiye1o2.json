@@ -6287,6 +6287,32 @@
     },
     {
       "album": {
+        "name": "God Knows!",
+        "url": "https://open.spotify.com/album/3zXSzkx3uOIIAIHhEw0TWx"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Faiz",
+          "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        },
+        {
+          "name": "Samay",
+          "url": "https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl"
+        },
+        {
+          "name": "Armaan Lahoria",
+          "url": "https://open.spotify.com/artist/4KLQtsULex87FN5sg05g8C"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "God Knows!",
+      "url": "https://open.spotify.com/track/5yc050oPGKzbzXCnqLA7JP"
+    },
+    {
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/0IMkG7GGjZmK1340bp7zHF"
       },
@@ -22154,7 +22180,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 167390,
       "name": "Zakhmi",
       "url": "https://open.spotify.com/track/1rL4P9Rv4HyO9mLCWbAfHZ"

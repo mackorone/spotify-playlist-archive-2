@@ -2,7 +2,7 @@
 
 ### [Terra Incognita](https://open.spotify.com/playlist/37i9dQZF1DX1lnB9anGfHa)
 
-> a journey into the unknown, dark, and experimental 🌑 Cover: Chelsea Wolfe.
+> ⚸⚸⚸ a journey into the unknown, dark, and experimental ⚸⚸⚸ featuring Chelsea Wolfe
 
 328 songs - 22 hr 19 min
 

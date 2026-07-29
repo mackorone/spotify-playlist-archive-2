@@ -2,7 +2,7 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Curry
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Adhvik
 
 703 songs - 1 day 15 hr 52 min
 

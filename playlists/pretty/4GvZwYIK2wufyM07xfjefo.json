@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAHSmZMUmYhuGAYl3ddXZj5UKnd+KLh",
+  "snapshot_id": "AAAHWd7gY9ATJzSlOq2vWuw+jdcIadwj",
   "tracks": [
+    {
+      "added_at": "2026-07-28 08:00:42",
+      "album": {
+        "name": "\u30df\u30e5\u30b2\u3068\u30bf\u30b8\u30a7\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/5KB69YygNWM4e3MFljFix9"
+      },
+      "artists": [
+        {
+          "name": "YUZY",
+          "url": "https://open.spotify.com/artist/7ddYo20mqfV4Xxzn81fmiw"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 185165,
+      "name": "\u30a6\u30fc\u30eb\u30fb\u30c6\u30ec\u30d1\u30b7\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3WzNkUw9Mynoy0XBzW9ZnR"
+    },
+    {
+      "added_at": "2026-07-28 08:00:53",
+      "album": {
+        "name": "COLLAGE",
+        "url": "https://open.spotify.com/album/7E2fnsMK2TQvEDMHuVEWxF"
+      },
+      "artists": [
+        {
+          "name": "BCNO",
+          "url": "https://open.spotify.com/artist/24phm8J2V68m162CRCIw7b"
+        }
+      ],
+      "duration_ms": 211962,
+      "name": "Lie and Confession",
+      "url": "https://open.spotify.com/track/4wPOBaDgDBONbveqNwiltW"
+    },
+    {
+      "added_at": "2026-07-28 08:01:06",
+      "album": {
+        "name": "\u30a2\u30f3\u30b5\u30f3\u30b0\u30fb\u30e9\u30d6\u30bd\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/2RKlkQRW1kIKbxj7IbP0cd"
+      },
+      "artists": [
+        {
+          "name": "Re:nG",
+          "url": "https://open.spotify.com/artist/5Ua6rqltTYOracDNoMsg3L"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 261490,
+      "name": "\u30b7\u30ac\u30fc\u30ad\u30b9 (feat. KAITO)",
+      "url": "https://open.spotify.com/track/0SRyRSYZn7aNEmrZAi3EtU"
+    },
+    {
+      "added_at": "2026-07-28 08:01:19",
+      "album": {
+        "name": "\u30ea\u30ea\u30e5\u30fc\u30b8\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/2XZSbEW84nQ3fIr2GWSBs4"
+      },
+      "artists": [
+        {
+          "name": "\u305b\u304d\u3053\u307f\u3054\u306f\u3093",
+          "url": "https://open.spotify.com/artist/0Ob20i2XjAOSyVQGdJP0IS"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "\u30ea\u30ea\u30e5\u30fc\u30b8\u30e7\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/5Dz76jslkLu9sahKuAOf2b"
+    },
+    {
+      "added_at": "2026-07-28 08:01:29",
+      "album": {
+        "name": "\u307c\u304f\u305f\u3061\u306e\u3046\u305f\u3044\u304b\u305f\u3001",
+        "url": "https://open.spotify.com/album/2sSCPIizHobZSrvJpM3ISu"
+      },
+      "artists": [
+        {
+          "name": "\u6d77\u98a8\u592a\u967d",
+          "url": "https://open.spotify.com/artist/3C6YK9PmwFy9SGXTW3uC2i"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 146323,
+      "name": "\u307c\u304f\u305f\u3061\u306e\u3046\u305f\u3044\u304b\u305f\u3001 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/35goD89aMzDaEjHbFiOqRv"
+    },
     {
       "added_at": "2026-07-14 07:06:06",
       "album": {
@@ -735,102 +831,6 @@
       "duration_ms": 261333,
       "name": "\u82b1\u3005\u6625\u306f\u307e\u305f\u5efb\u308b 2026ver (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3&\u5de1\u97f3\u30eb\u30ab&MEIKO&KAITO)",
       "url": "https://open.spotify.com/track/54lzSFphgJubUHpSdFWiDp"
-    },
-    {
-      "added_at": "2026-04-14 07:53:30",
-      "album": {
-        "name": "NECESSARY",
-        "url": "https://open.spotify.com/album/042RYnhimfWpAOvIHocBbn"
-      },
-      "artists": [
-        {
-          "name": "TKP",
-          "url": "https://open.spotify.com/artist/0r5kij6fA4UbUbpnfJHAd2"
-        },
-        {
-          "name": "\u5c0f\u6625\u516d\u82b1",
-          "url": "https://open.spotify.com/artist/7rE0Qc348DdkkLCV81rNce"
-        }
-      ],
-      "duration_ms": 185794,
-      "name": "under the eaves (feat. \u5c0f\u6625\u516d\u82b1)",
-      "url": "https://open.spotify.com/track/0t6eyiz9SDj1zZO7qPSUt3"
-    },
-    {
-      "added_at": "2026-04-14 07:53:47",
-      "album": {
-        "name": "BLOOM IN THE SAME BOAT",
-        "url": "https://open.spotify.com/album/6IpVPSyR3hFr4ggQ4jC4yf"
-      },
-      "artists": [
-        {
-          "name": "HarryP",
-          "url": "https://open.spotify.com/artist/4dXpZ1dOV2dyad3ev3Cnm5"
-        }
-      ],
-      "duration_ms": 323500,
-      "name": "\u5f92\u82b1\u306e\u6d99 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/7cQL9sV5TD8xHOBEmNZy7J"
-    },
-    {
-      "added_at": "2026-04-14 07:54:00",
-      "album": {
-        "name": "\u5922\u82b1\u30d6\u30eb\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/3k6W9hfRuhsvAJiQMt8c7q"
-      },
-      "artists": [
-        {
-          "name": "Kid P",
-          "url": "https://open.spotify.com/artist/3ZpU4v2TxHDybEBEh0Y15U"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 196924,
-      "name": "\u5922\u82b1\u30d6\u30eb\u30fc\u30e0 (feat. KAITO)",
-      "url": "https://open.spotify.com/track/3RXyeIBllcbab259OFUs75"
-    },
-    {
-      "added_at": "2026-04-14 07:54:15",
-      "album": {
-        "name": "HELLO",
-        "url": "https://open.spotify.com/album/33Q9azlNW8vyRYUS0EoOwG"
-      },
-      "artists": [
-        {
-          "name": "LELELEP",
-          "url": "https://open.spotify.com/artist/7hrjvOBGbgVQCyfwwU1392"
-        },
-        {
-          "name": "Kagamine Len",
-          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
-        }
-      ],
-      "duration_ms": 277399,
-      "name": "\u706b\u82b1 (feat. \u93e1\u97f3\u30ec\u30f3)",
-      "url": "https://open.spotify.com/track/4toPVLLOy75cL5IqGKixWa"
-    },
-    {
-      "added_at": "2026-04-14 07:54:29",
-      "album": {
-        "name": "\u30da\u30c8\u30ea\u30b3\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6OOV462Jb2VldDDJiqzERy"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u64ab\u5bfa",
-          "url": "https://open.spotify.com/artist/5wvPfEco9mG8kzdMnhL3ct"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 123250,
-      "name": "\u96e8\u8857\u30af\u30a4\u30f3\u30c6\u30c3\u30c8 (feat. \u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/2Cas8sGWkovgLlANOCfhsp"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

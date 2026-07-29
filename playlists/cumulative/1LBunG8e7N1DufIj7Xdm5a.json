@@ -344,7 +344,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 137209,
       "name": "17",
       "url": "https://open.spotify.com/track/6F7Kf22yizAeUHFvvyxljb"
@@ -38420,7 +38420,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 519198,
       "name": "Kashmir - Cover",
       "url": "https://open.spotify.com/track/6fcdXw2LyBCyump8JRCGfo"
@@ -38786,6 +38786,24 @@
       "duration_ms": 174279,
       "name": "Kiss Me Back",
       "url": "https://open.spotify.com/track/5AIuFd2UV67ckptE8CqWkq"
+    },
+    {
+      "album": {
+        "name": "Kiss Me Instead",
+        "url": "https://open.spotify.com/album/7gjMtv12EFS4jsqKwh5vxy"
+      },
+      "artists": [
+        {
+          "name": "Towse",
+          "url": "https://open.spotify.com/artist/0l79yamGYkMV3FBef8PDug"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173088,
+      "name": "Kiss Me Instead",
+      "url": "https://open.spotify.com/track/1b1zD9M9drnjWio0Am0MjS"
     },
     {
       "album": {
@@ -41474,7 +41492,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 172272,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/1oRFOjU1bsCO4BlgqpoI5w"
@@ -54285,6 +54303,24 @@
     },
     {
       "album": {
+        "name": "Paper Airplanes",
+        "url": "https://open.spotify.com/album/21dFdoPAErCbxLnnyDQ9rV"
+      },
+      "artists": [
+        {
+          "name": "The Thundercracks",
+          "url": "https://open.spotify.com/artist/7ASdBF3BAerPO7pd4KEs1I"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177648,
+      "name": "Paper Airplanes",
+      "url": "https://open.spotify.com/track/3FUPowNEgNLCmrgvyF6fsm"
+    },
+    {
+      "album": {
         "name": "Paper Crown",
         "url": "https://open.spotify.com/album/3s25WkNElrzbzhIzNVZeYa"
       },
@@ -64778,6 +64814,24 @@
       "duration_ms": 259079,
       "name": "SLOW DOWN",
       "url": "https://open.spotify.com/track/4rpe04c0h4Kw13uGn0XEiD"
+    },
+    {
+      "album": {
+        "name": "Sludge",
+        "url": "https://open.spotify.com/album/3CAbspgWNyomYonFoxiBFZ"
+      },
+      "artists": [
+        {
+          "name": "EverFelt",
+          "url": "https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309257,
+      "name": "Sludge",
+      "url": "https://open.spotify.com/track/3BEK0HDmVAjaH3pkbzXG3R"
     },
     {
       "album": {
@@ -78740,6 +78794,24 @@
       "duration_ms": 166000,
       "name": "Walking on Air (another)",
       "url": "https://open.spotify.com/track/3dpwY9av6G1oWKccraCuY6"
+    },
+    {
+      "album": {
+        "name": "Wall of Time",
+        "url": "https://open.spotify.com/album/2Vp5pQUQq5bePmQd7h0ob3"
+      },
+      "artists": [
+        {
+          "name": "Karmaphala",
+          "url": "https://open.spotify.com/artist/2j9cvMEomhQw36RHVC1kzU"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Wall of Time",
+      "url": "https://open.spotify.com/track/5ccQwkmUkGs0KWSyxzRnzG"
     },
     {
       "album": {

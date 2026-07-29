@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-321 songs - 23 hr 16 min
+322 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [all the things i got](https://open.spotify.com/track/6v23NC6jtRJaAZJehAfxoZ) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe), [Ceren Toksöz](https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT) | [all the things i got](https://open.spotify.com/album/5aoS1dovoz26u81WOSE3nz) | 2:25 | 2020-12-13 | 2022-07-29 |
 | [all the things i got](https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe), [Ceren Toksöz](https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT) | [all the things i got](https://open.spotify.com/album/6YDWYDGrrEIrTc4mC32b06) | 2:25 | 2022-06-27 | 2024-04-19 |
 | [Alone](https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I), [Elnur Mikayilov](https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi) | [Alone](https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU) | 3:45 | 2020-10-18\* | 2025-07-21 |
+| [Aman](https://open.spotify.com/track/6xgYffMV8qvyxqRc7QuENp) | [NODUS](https://open.spotify.com/artist/1Z9YnRJkDgL44LM2ErTd9O) | [Aman](https://open.spotify.com/album/7Eo6K5Z719L59LvUQr85Ng) | 3:42 | 2026-07-28 |  |
 | [Amelia](https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f) | 3:13 | 2023-07-21 | 2024-02-05 |
 | [Amelia](https://open.spotify.com/track/6GSuQUeRCOEQ5JRnI8iZYo) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/1bQuCY8PIVLbvSl0cHyivO) | 3:13 | 2024-01-31 | 2024-04-19 |
 | [Amelia](https://open.spotify.com/track/6QFe6vJhkqlHEgejKYc992) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/5cYxKr8O3AnJs17QeF6M9t) | 3:13 | 2022-09-29 | 2023-07-17 |
@@ -309,7 +310,7 @@
 | [Watra](https://open.spotify.com/track/2I8VvuKBEdag61gH7B8qy2) | [D33pSoul](https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL) | [Watra](https://open.spotify.com/album/0WlXjTba77k6VRM8iXzdZg) | 2:21 | 2023-06-09 |  |
 | [Weyna \- DJ Phellix Remix](https://open.spotify.com/track/6ukHZyw9OSWYb4xnxjamB6) | [Mel7em](https://open.spotify.com/artist/2kA5fHfCu63JFihHuda5Oi), [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV) | [Weyna \(DJ Phellix Remix\)](https://open.spotify.com/album/5DSKC1TtOIYbGVk1X8T43I) | 6:26 | 2023-06-08 | 2023-07-14 |
 | [Whenever You Go \(La La La\)](https://open.spotify.com/track/3YVnOK6dOqXFXbbPKOmmBB) | [The Suncatchers](https://open.spotify.com/artist/0ciYYtVA4U5kas1Q3CJeTA), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [Whenever You Go \(La La La\)](https://open.spotify.com/album/4KbvlXJCOQpYjwVMSSWZ4p) | 3:02 | 2020-10-18\* | 2022-06-19 |
-| [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 | 2022-12-05 |  |
+| [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 | 2022-12-05 | 2026-07-29 |
 | [Will You Stay \(feat\. Georgia Alexandra\) \[Rivo Remix\]](https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV) | [Melih Aydogan](https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM), [Georgia Alexandra](https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz), [Rivo](https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY) | [Will You Stay \(feat\. Georgia Alexandra\) \[Rivo Remix\]](https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT) | 2:46 | 2022-06-27 | 2024-04-19 |
 | [Will You Stay \- Rivo Remix](https://open.spotify.com/track/5fktYPyklwA6zScbpyti0X) | [Melih Aydogan](https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM), [Georgia Alexandra](https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz), [Rivo](https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY) | [Will You Stay \(Rivo Remix\)](https://open.spotify.com/album/386Pl8HoGXswgsMrvCEqOh) | 2:46 | 2021-04-19 | 2022-07-29 |
 | [Ya Ghayeb](https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt) | [DJ Maximus](https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE), [Bob Zoabi](https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW) | [Ya Ghayeb](https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F) | 3:37 | 2020-10-18\* |  |

@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 337714,
       "name": "Bem a Tempo - Yemanjo Remix",
       "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
@@ -2570,6 +2570,24 @@
       "duration_ms": 412537,
       "name": "Distopia",
       "url": "https://open.spotify.com/track/24ZVytjb1R8ojaa4u1lRNW"
+    },
+    {
+      "album": {
+        "name": "Doin' It All For The Culture",
+        "url": "https://open.spotify.com/album/4pCW6biKpm6hJbQUwVMD2w"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343414,
+      "name": "Doin' It All For The Culture",
+      "url": "https://open.spotify.com/track/40fHcs9WzWosKvLO0dq3O8"
     },
     {
       "album": {
@@ -4589,6 +4607,32 @@
     },
     {
       "album": {
+        "name": "Kadhalan",
+        "url": "https://open.spotify.com/album/0T1TvwQouoafwmhBsiCl5L"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        },
+        {
+          "name": "Nadeem Karim",
+          "url": "https://open.spotify.com/artist/6AAytbOXZu5W6P0dFCCgDa"
+        },
+        {
+          "name": "Pritt",
+          "url": "https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211830,
+      "name": "Kadhalan",
+      "url": "https://open.spotify.com/track/5Hgy1fbnRHGqlihV2KjZjE"
+    },
+    {
+      "album": {
         "name": "Water Elements",
         "url": "https://open.spotify.com/album/2pSt4WkO1z5pyNM673d9g9"
       },
@@ -5260,7 +5304,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 182500,
       "name": "Lete Sound (Restore Local Sessions 001)",
       "url": "https://open.spotify.com/track/0SU9TnI7NcHKxiPa7TGxOO"
@@ -7706,7 +7750,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 164000,
       "name": "Perreo (Edit)",
       "url": "https://open.spotify.com/track/7zAnkRwQJYaWA6LiHeyai3"
@@ -8396,7 +8440,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 173637,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"

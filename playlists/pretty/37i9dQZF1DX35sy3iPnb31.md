@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,116 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,121 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,14 +22,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 12 | [Energizer](https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Energizer](https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs) | 2:31 |
 | 13 | [Stuff](https://open.spotify.com/track/7bGFbEzrG66G5oah25BnHw) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [A Sign In The Weather](https://open.spotify.com/album/17nzheejzWjrbPH3DjOcmz) | 3:23 |
 | 14 | [If This Is It](https://open.spotify.com/track/2hLx0WFXsTDlts2AX4MPwS) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Concrete](https://open.spotify.com/album/12WmSlyAWcmNEyxz2SyBr0) | 3:18 |
-| 15 | [Wish Upon A Sun](https://open.spotify.com/track/74P1WBAgAaY2UgOieoFtkn) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [I understand you sometimes](https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R) | 3:01 |
-| 16 | [Otis](https://open.spotify.com/track/15UBUtrFnpS9fcPbil0xzv) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Heart So Open](https://open.spotify.com/album/1r0AuBhbjA8ax7mKTIh1zu) | 2:47 |
+| 15 | [Otis](https://open.spotify.com/track/15UBUtrFnpS9fcPbil0xzv) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Heart So Open](https://open.spotify.com/album/1r0AuBhbjA8ax7mKTIh1zu) | 2:47 |
+| 16 | [Wish Upon A Sun](https://open.spotify.com/track/74P1WBAgAaY2UgOieoFtkn) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [I understand you sometimes](https://open.spotify.com/album/7zZ19yOpQtttHW3EbP5j6R) | 3:01 |
 | 17 | [I Haven’t Forgotten You](https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Eternal BAM Nation](https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ) | 2:24 |
 | 18 | [Black Lavender \(ft\. Brittney Spencer\)](https://open.spotify.com/track/3AXNE72mnKIkaT3kigz7q9) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Black Lavender \(ft\. Brittney Spencer\)](https://open.spotify.com/album/3Z7VohZSNBdMa3qk67PQ0a) | 3:01 |
 | 19 | [Another Heartbreak](https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Another Heartbreak](https://open.spotify.com/album/0PY6nhGDYTVIQdf2XmRFhj) | 3:37 |
 | 20 | [Dancing Nonstop](https://open.spotify.com/track/4T3FFjfzTvVtP7vXHl9CmY) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Dancing Nonstop](https://open.spotify.com/album/73oBCUqIN9iqsXdsfEQefi) | 4:33 |
-| 21 | [Waiting](https://open.spotify.com/track/4ZuWgH2xw0T3vbkHDGchXv) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Overture](https://open.spotify.com/album/173YEGDpbqDZ6FFd5N9oiy) | 2:46 |
-| 22 | [Schala](https://open.spotify.com/track/0JXEShek5xlpkhJlxSkKOz) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Seda](https://open.spotify.com/artist/0c6JTU2XbJoy79ECLuYw1Q), [ewik\_42](https://open.spotify.com/artist/70gsrdszTQUBnZYoMpk5Hi) | [Schala](https://open.spotify.com/album/53QlNgkCPfFSwyKfBgz0oi) | 3:38 |
+| 21 | [Schala](https://open.spotify.com/track/0JXEShek5xlpkhJlxSkKOz) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Seda](https://open.spotify.com/artist/0c6JTU2XbJoy79ECLuYw1Q), [ewik\_42](https://open.spotify.com/artist/70gsrdszTQUBnZYoMpk5Hi) | [Schala](https://open.spotify.com/album/53QlNgkCPfFSwyKfBgz0oi) | 3:38 |
+| 22 | [Waiting](https://open.spotify.com/track/4ZuWgH2xw0T3vbkHDGchXv) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Overture](https://open.spotify.com/album/173YEGDpbqDZ6FFd5N9oiy) | 2:46 |
 | 23 | [across the line](https://open.spotify.com/track/1HAcWxQUHS5iKhAjW41XH6) | [nowhere else to be](https://open.spotify.com/artist/5NfvuQIqXTZotSdszPEpHw) | [across the line](https://open.spotify.com/album/5BYIa7vnIZKaBPeP63VyDH) | 3:33 |
 | 24 | [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 |
 | 25 | [Centerfold](https://open.spotify.com/track/1DZExFaytfOj1iFJW6XbvT) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Centerfold](https://open.spotify.com/album/1tXMKm3r18f0712G4sQKFK) | 3:08 |

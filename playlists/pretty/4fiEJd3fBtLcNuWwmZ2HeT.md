@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 506 songs - 1 day 5 hr 0 min
+[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 507 songs - 1 day 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -514,5 +514,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 504 | [ぜいたくランドリー](https://open.spotify.com/track/6COdEzPxjCaaQqOH4KA24c) | [句るり](https://open.spotify.com/artist/1X70BUiqwYlEkmF2bkMv72), [塩瀬ろぴ](https://open.spotify.com/artist/0XM0u3UELmLJD8EKSvYUlU) | [ぜいたくランドリー](https://open.spotify.com/album/4nj3xQCgIszFESdNvb4jKc) | 2:39 |
 | 505 | [Because the red crows chirped](https://open.spotify.com/track/3t5EtarT9l3Lh8PNJCOduC) | [NY channel](https://open.spotify.com/artist/2Fy1pKQurNXDSG9kYzXS32) | [Because the red crows chirped](https://open.spotify.com/album/6XlcJFpM9YQjNmacm3xeJH) | 2:09 |
 | 506 | [アルカリレットウセイ](https://open.spotify.com/track/4omwS3Lmbfbc6gAHQfX4aW) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [アルカリレットウセイ](https://open.spotify.com/album/2g8NCUxGjOVCs2BkqwosQS) | 3:29 |
+| 507 | [Koukatsu](https://open.spotify.com/track/6EMhoEetT9w5segZQeyBEW) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 3:46 |
 
-Snapshot ID: `AAAKUOyQ51kveE2eWL6+EGRNeQKKOZ/W`
+Snapshot ID: `AAAKUa/ebouTMw7xzQD001xI500ixd7j`

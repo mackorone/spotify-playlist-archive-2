@@ -1,15 +1,111 @@
 {
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: BEASTIE",
-  "num_followers": 38525,
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: Rio Tashan",
+  "num_followers": 38533,
   "original_name": "Fresh Finds UK & IE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOdtdY9Ah+ttJBCkxRr4lwrxl7Iy",
+  "snapshot_id": "AAAAALfoYSsFq7MjyAvNmmNWSfwq1FCc",
   "tracks": [
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
+      "album": {
+        "name": "One & Only",
+        "url": "https://open.spotify.com/album/1In4MpJozb9h0525jhEdee"
+      },
+      "artists": [
+        {
+          "name": "Rio Tashan",
+          "url": "https://open.spotify.com/artist/62fNRc1B7PXFC32lgbtzi2"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/3eE5KGR1D2E3bROi9fivg7"
+    },
+    {
+      "added_at": "2026-07-28 23:00:05",
+      "album": {
+        "name": "ON THE MAP",
+        "url": "https://open.spotify.com/album/2A0tTwkZZ6BNFimtAI6qQv"
+      },
+      "artists": [
+        {
+          "name": "T3llz",
+          "url": "https://open.spotify.com/artist/5ggwFBnUu4OuTaA9QqmRDH"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "ON THE MAP",
+      "url": "https://open.spotify.com/track/44hOIuDj5tYJ0d8XDpzVbp"
+    },
+    {
+      "added_at": "2026-07-28 23:00:05",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/3cOeBPj0pBqJxGeanwCtMv"
+      },
+      "artists": [
+        {
+          "name": "Alice Barlow",
+          "url": "https://open.spotify.com/artist/7m2aLIvLQUQUvPZeFLIsfT"
+        }
+      ],
+      "duration_ms": 209658,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/4AM4PderK5MCo35OZMvq0t"
+    },
+    {
+      "added_at": "2026-07-28 23:00:05",
+      "album": {
+        "name": "step 2 light 3",
+        "url": "https://open.spotify.com/album/012NDDqjEX9NuZ8g9cqcUw"
+      },
+      "artists": [
+        {
+          "name": "elyiz",
+          "url": "https://open.spotify.com/artist/5fWnIsC9dKnStmF5glnqFn"
+        }
+      ],
+      "duration_ms": 257391,
+      "name": "step 2 light 3",
+      "url": "https://open.spotify.com/track/4YiGjvEgbsdL2SexhxCxwn"
+    },
+    {
+      "added_at": "2026-07-28 23:00:05",
+      "album": {
+        "name": "Hoping as a Coping Mechanism",
+        "url": "https://open.spotify.com/album/7jlf6FLd0NjnQ51OQDgtqm"
+      },
+      "artists": [
+        {
+          "name": "MOULD",
+          "url": "https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo"
+        }
+      ],
+      "duration_ms": 263560,
+      "name": "Hatching",
+      "url": "https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky"
+    },
+    {
+      "added_at": "2026-07-28 23:00:05",
+      "album": {
+        "name": "Cashmere",
+        "url": "https://open.spotify.com/album/0QZP92yZkQSDQTItXTDbcn"
+      },
+      "artists": [
+        {
+          "name": "KinKai",
+          "url": "https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "Cashmere",
+      "url": "https://open.spotify.com/track/1yUusaa1hyYWRwWoRf7HPG"
+    },
+    {
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "too many days i've spent waiting",
         "url": "https://open.spotify.com/album/41RwHIbfWogg6NWsdotsvV"
@@ -25,7 +121,7 @@
       "url": "https://open.spotify.com/track/6NaWF1PFEmq0dSv4GDq6Aj"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Weight",
         "url": "https://open.spotify.com/album/5uL2HmRbjG1sWLiyTiK61c"
@@ -41,7 +137,7 @@
       "url": "https://open.spotify.com/track/0Vy5lBIis9n1yw4nwh1rE9"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Asteroid",
         "url": "https://open.spotify.com/album/3qHuza8G6g3jfhOlYn84vL"
@@ -57,7 +153,7 @@
       "url": "https://open.spotify.com/track/6hugJArY6CCwT6iuXA5O3d"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Isn't He Funny?",
         "url": "https://open.spotify.com/album/4eyqwoo5mTFEGgyvaCTnDp"
@@ -73,7 +169,7 @@
       "url": "https://open.spotify.com/track/4RLCHXFRTWiAYUhdacWmSx"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Something Infinite",
         "url": "https://open.spotify.com/album/0JR0YQR6CEulqos2l22bkL"
@@ -89,7 +185,7 @@
       "url": "https://open.spotify.com/track/4miuDgDJTSi3wsuhv8m6yV"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/5QCsD6oD7L2Bmn9mdIGG7Z"
@@ -105,7 +201,7 @@
       "url": "https://open.spotify.com/track/5W9GYaW9EHNUGgPPLjlK9f"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "London Tonight",
         "url": "https://open.spotify.com/album/47M0OMLQ5G5AFgwqkKXDUf"
@@ -121,7 +217,7 @@
       "url": "https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/57dp3wTJO7GspD9EqGXQPF"
@@ -141,7 +237,7 @@
       "url": "https://open.spotify.com/track/7k7LWZrsCic16PiZJidKdL"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Far Away Grass",
         "url": "https://open.spotify.com/album/3ZwBGCPjYBtpyS6z55IWU3"
@@ -161,7 +257,7 @@
       "url": "https://open.spotify.com/track/6yhRDR8pjoEIXJBOxsijW0"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Sweeter",
         "url": "https://open.spotify.com/album/369QPZw7fhFbPXVqaXTogD"
@@ -177,7 +273,7 @@
       "url": "https://open.spotify.com/track/0SYjEiPyndroLEBElOtWdH"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Feeling It All",
         "url": "https://open.spotify.com/album/3t9kxmfp13QYD7aBBNihWF"
@@ -193,7 +289,7 @@
       "url": "https://open.spotify.com/track/4QvE2zr6HWLZ0SCW4JPzKP"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Clip Empty",
         "url": "https://open.spotify.com/album/2YLNzEcDE3v8rE2T121RHA"
@@ -209,7 +305,7 @@
       "url": "https://open.spotify.com/track/71tXfgTNTxwVMZRM6wEm0K"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Feel It!",
         "url": "https://open.spotify.com/album/5qCh0Tp9jPq6UoFj3VnalT"
@@ -225,7 +321,7 @@
       "url": "https://open.spotify.com/track/5fcORwPCsbWOuucHazmRjR"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Vinyl Spinning",
         "url": "https://open.spotify.com/album/3o9I6K90GAd4L0Yh6DdnTp"
@@ -241,7 +337,7 @@
       "url": "https://open.spotify.com/track/4VG0Pd2MaaoBZprgUJV2Nn"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "solo + ways",
         "url": "https://open.spotify.com/album/15YRI0nyUzfHLHt3uwBnsf"
@@ -257,7 +353,7 @@
       "url": "https://open.spotify.com/track/5tmv0I8TqzOie4jLCf0za0"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Won't You Ever Need Me",
         "url": "https://open.spotify.com/album/1kxILFM47rGHBPgdyU06sb"
@@ -273,7 +369,7 @@
       "url": "https://open.spotify.com/track/0gO6fILDlRAjpjidGPPT8s"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Best of My Life",
         "url": "https://open.spotify.com/album/2A655KuqrRKvubOOgukzQ0"
@@ -289,7 +385,7 @@
       "url": "https://open.spotify.com/track/3QtC8qwynQY5foKoVKUOPE"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/1ePAwDQiQ6XL4YCkVP8xSv"
@@ -309,7 +405,7 @@
       "url": "https://open.spotify.com/track/4OVEhK3OmAKyTzJBDKEgF1"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "The Drugs Don't Work Anymore",
         "url": "https://open.spotify.com/album/2iLE0p4uqI9Mj4n5qZfHch"
@@ -325,7 +421,7 @@
       "url": "https://open.spotify.com/track/1xCcro54yyumRjWFBD6b0D"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "love you like crazy",
         "url": "https://open.spotify.com/album/2ywvXLe9fDMeLy2Wtt2nGw"
@@ -341,7 +437,7 @@
       "url": "https://open.spotify.com/track/7H6e2h4XUtxkIXtkXUPsSA"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Reaching",
         "url": "https://open.spotify.com/album/1QbU6iDI8cC2RNJyMUqPXj"
@@ -357,7 +453,7 @@
       "url": "https://open.spotify.com/track/6Kjgp8Fcmyvqn2sfZcs0nN"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Swings & Roundabouts",
         "url": "https://open.spotify.com/album/0i24zGzwq9gqLey87ylT1y"
@@ -373,7 +469,7 @@
       "url": "https://open.spotify.com/track/7JafQIY6uBAdhDfuIbL6J3"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Do It Like That",
         "url": "https://open.spotify.com/album/0PDSDiHj0Aa9h0EMZcVsST"
@@ -393,7 +489,7 @@
       "url": "https://open.spotify.com/track/76zNHQL2eF4haoZ3tJ2x3M"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/2U07xqRus8Vm96YT2YZsSy"
@@ -409,7 +505,7 @@
       "url": "https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "18th c. bbygrl",
         "url": "https://open.spotify.com/album/3PxPOKzYlJatAtRLQrGFBE"
@@ -425,7 +521,7 @@
       "url": "https://open.spotify.com/track/57a9aM5oiaDCfWTfUwmz82"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "DTA",
         "url": "https://open.spotify.com/album/74NhvvhTG2hIYdQxqMFl3x"
@@ -445,7 +541,7 @@
       "url": "https://open.spotify.com/track/5KcfN5xtnQb9M2HWh1tog3"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "THE GOOD SIDE OF THINGS",
         "url": "https://open.spotify.com/album/2L1ARTeGZ31DWtuPS9FJ2j"
@@ -461,7 +557,7 @@
       "url": "https://open.spotify.com/track/0NDkfrZxZUVrN1iLI96zIE"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "DREAMON",
         "url": "https://open.spotify.com/album/2Hme0pMDpEqriJWDS1oNEe"
@@ -477,7 +573,7 @@
       "url": "https://open.spotify.com/track/4k1E1hioBtPXmxPnx6qaRG"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "did you ask for this",
         "url": "https://open.spotify.com/album/2kgmqkVTM042WBup51sARO"
@@ -493,7 +589,7 @@
       "url": "https://open.spotify.com/track/5ytBJVsVok9yWBQca56Ewx"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "A Moment of Bliss",
         "url": "https://open.spotify.com/album/6WTOLhKIPOgKG5eOQWmBV2"
@@ -509,7 +605,7 @@
       "url": "https://open.spotify.com/track/5Gv86AOnhq2tWxTvdaYuKa"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "worry",
         "url": "https://open.spotify.com/album/3jzwGIMyA6yKDoExHbiaG8"
@@ -525,7 +621,7 @@
       "url": "https://open.spotify.com/track/78WOOr6bbJDyJHkcrXte9z"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "stained.",
         "url": "https://open.spotify.com/album/4mp7D1urRCNVN2QGFY3SgK"
@@ -541,7 +637,7 @@
       "url": "https://open.spotify.com/track/5qeScgeJ0WMucU07zx7zBB"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Like U",
         "url": "https://open.spotify.com/album/5xx3iZ2XAjgMXNMNaj5SkT"
@@ -557,7 +653,7 @@
       "url": "https://open.spotify.com/track/4PXTxHV6BmmPa1249aSej9"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "off grid",
         "url": "https://open.spotify.com/album/3v0R3blOs494f9U0ukPMiO"
@@ -573,7 +669,7 @@
       "url": "https://open.spotify.com/track/7GCinGrq47kexX0wuHyJ08"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "polaroids // wishbone",
         "url": "https://open.spotify.com/album/6OIoelx5aXZaNroQQew2Ov"
@@ -589,7 +685,7 @@
       "url": "https://open.spotify.com/track/2YuxwmOKSzhdmWb2KHXUUa"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "SIMP 4 U",
         "url": "https://open.spotify.com/album/4oqQMSGJ8PImETmerljN5Q"
@@ -605,7 +701,7 @@
       "url": "https://open.spotify.com/track/1VrREfQ1MXoiRULw3eYl3N"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "no more nostalgia.",
         "url": "https://open.spotify.com/album/6Tk7ldAIIVj1enbMoffE72"
@@ -637,7 +733,7 @@
       "url": "https://open.spotify.com/track/2P58L8iRKiwZ0UcDkqJVpz"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "In Yr Right Hand Reveal Heaven",
         "url": "https://open.spotify.com/album/0Dhknp1ZINLIp1TV8QJpH2"
@@ -653,7 +749,7 @@
       "url": "https://open.spotify.com/track/5XupJq5fBAe68ZTNP6056a"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "punch",
         "url": "https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4"
@@ -669,7 +765,7 @@
       "url": "https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "In Your Head",
         "url": "https://open.spotify.com/album/3hqQUj4B1togXhQXlQhmiv"
@@ -685,7 +781,7 @@
       "url": "https://open.spotify.com/track/2xceOgYP6jcQ4aci4J17Jw"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Tough Love",
         "url": "https://open.spotify.com/album/3uiSHQI9R8cuIpN1oasisp"
@@ -701,7 +797,7 @@
       "url": "https://open.spotify.com/track/3DRzJ6iwA37xqR02WGIoQ1"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/47ioqnKHpIJSfoshcYXCvX"
@@ -717,7 +813,7 @@
       "url": "https://open.spotify.com/track/59Y4JbxCmTSvYLoNt1A7kz"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Prang",
         "url": "https://open.spotify.com/album/58oShmjtbxdrrRiU9T9Gi4"
@@ -733,7 +829,7 @@
       "url": "https://open.spotify.com/track/6vqSvnpMuFxuXDctv46Ss3"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "u, him & me",
         "url": "https://open.spotify.com/album/0fUWL4QtK7QhCChO1uV5O8"
@@ -749,7 +845,7 @@
       "url": "https://open.spotify.com/track/2RUNEELdHcRzttVS7JH2gD"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Just",
         "url": "https://open.spotify.com/album/7gbAWb22OT8VotyMzYpFjO"
@@ -769,7 +865,7 @@
       "url": "https://open.spotify.com/track/0A2e8STVNFky2l228Pct1J"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Good Enough",
         "url": "https://open.spotify.com/album/78KrEPkj2YtKwUIf28mbSk"
@@ -785,7 +881,7 @@
       "url": "https://open.spotify.com/track/1eFRNhkIbgraWITQdGs6Vl"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Die For Us",
         "url": "https://open.spotify.com/album/1YcTqv6ld4xwjXkpHGu2qS"
@@ -801,7 +897,7 @@
       "url": "https://open.spotify.com/track/4O7w6psI3AXxBNDdQCF7UI"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "M25",
         "url": "https://open.spotify.com/album/0SvTbNp5axtNVWdeV1rger"
@@ -817,7 +913,7 @@
       "url": "https://open.spotify.com/track/071HvdV7mzG1nbqbxbsHUe"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Docs",
         "url": "https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6"
@@ -833,7 +929,7 @@
       "url": "https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs"
     },
     {
-      "added_at": "2026-07-21 23:00:31",
+      "added_at": "2026-07-28 23:00:05",
       "album": {
         "name": "Earthworm",
         "url": "https://open.spotify.com/album/543k82dYTEPXCyzse0Gg7v"

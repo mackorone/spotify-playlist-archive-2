@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,898 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,914 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cuida do Pet](https://open.spotify.com/track/1eQPyvKkbJgS7orgKr802Y) | [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Mc Iguinho Ct](https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ), [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH) | [Cuida do Pet](https://open.spotify.com/album/6vzfvxCFgDhWJdL2f2enCG) | 7:39 |
+| 1 | [Cuida do Pet](https://open.spotify.com/track/2gbEvM5IwVIwJFpTVPUXV5) | [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Mc Iguinho Ct](https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo), [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [Aaron Modesto](https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DU'L](https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS), [Dj Aladin GDB](https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ) | [Cuida do Pet](https://open.spotify.com/album/3NzIzRMF8NaWNqTHmS7R3a) | 7:39 |
 | 2 | [Peão Todo Tatuado](https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ) | [Jeninho](https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os), [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Peão Todo Tatuado](https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL) | 2:13 |
 | 3 | [Eu Te Seguro \- Ao Vivo](https://open.spotify.com/track/4V2rUOmaevK0C1bKAkeFf5) | [Panda](https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz), [MJ Records](https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf) | [Panda Sem Moderação 2, Vol.3](https://open.spotify.com/album/2sDHEgQXJv3VxmitGB0wh3) | 2:28 |
 | 4 | [Pau Pra Toda Obra](https://open.spotify.com/track/2zUC2BnjdVkB0OWvFQkKHa) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN) | [Pau Pra Toda Obra](https://open.spotify.com/album/0W66hHCN1cRJitO1dHEbUQ) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 |
 | 50 | [Planos Impossíveis \- Ao Vivo](https://open.spotify.com/track/7oqARxK7yPG9U0M3dG0VrR) | [Jads & Jadson](https://open.spotify.com/artist/3HxTMZ6kZ9OuvFfwcYJwov) | [Ao Vivo](https://open.spotify.com/album/7sBOA37GtbVvMChjvF8omF) | 4:07 |
 
-Snapshot ID: `MfrJoAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MfwbIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Marina Dom\u00ednguez.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: Juan Anselmo.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -90080,7 +90080,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 166717,
       "name": "MEMATA",
       "url": "https://open.spotify.com/track/6wcb2afpGPIwMQsaXpaZqS"
@@ -103830,6 +103830,24 @@
       "duration_ms": 165000,
       "name": "no s\u00e9 c\u00f3mo has hecho para que te odie mi vieja",
       "url": "https://open.spotify.com/track/52goxnWg8l92iszVfpOSCP"
+    },
+    {
+      "album": {
+        "name": "No s\u00e9 dividir",
+        "url": "https://open.spotify.com/album/6msTQ38HEejYTstonSBgNt"
+      },
+      "artists": [
+        {
+          "name": "Marx ha muerto",
+          "url": "https://open.spotify.com/artist/0watWgCrXGEkwgyI4ZmeSE"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215522,
+      "name": "No s\u00e9 dividir",
+      "url": "https://open.spotify.com/track/1mVpuGMC95DADQIazzNh9b"
     },
     {
       "album": {
@@ -129426,7 +129444,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 128437,
       "name": "saudade do embruxo",
       "url": "https://open.spotify.com/track/4l5miDI9KzZ3VjejX8QRQy"
@@ -132806,7 +132824,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 186356,
       "name": "Siempre me enfado cuando pierdo",
       "url": "https://open.spotify.com/track/3Vd10SXvxc78cif2AEzjSL"
@@ -155263,6 +155281,24 @@
     },
     {
       "album": {
+        "name": "Vida Id\u00edlica",
+        "url": "https://open.spotify.com/album/0muXoFRSOoiR356dxCUAle"
+      },
+      "artists": [
+        {
+          "name": "Que Te Jodan Pablo",
+          "url": "https://open.spotify.com/artist/7CYtSkXbTL5k5YjrXVmwoi"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174036,
+      "name": "Vida Id\u00edlica",
+      "url": "https://open.spotify.com/track/6Xbo0ElvcqwyWucCniAk7s"
+    },
+    {
+      "album": {
         "name": "Vida Perfecta",
         "url": "https://open.spotify.com/album/3ngcFy10pzMPgWp5IBNfio"
       },
@@ -160194,6 +160230,24 @@
       "duration_ms": 122732,
       "name": "you.",
       "url": "https://open.spotify.com/track/6wPkpubaYenGLWz6xG7EMk"
+    },
+    {
+      "album": {
+        "name": "D'PARAISO",
+        "url": "https://open.spotify.com/album/3R8Hz1OonRHuhddMWrdjJ6"
+      },
+      "artists": [
+        {
+          "name": "d.dram\u00e1tico",
+          "url": "https://open.spotify.com/artist/16r4uM9iMu5Td76JkbzpK3"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155789,
+      "name": "YOUNG MONEY",
+      "url": "https://open.spotify.com/track/39pmZUqWrjjUdP5JOnmojJ"
     },
     {
       "album": {

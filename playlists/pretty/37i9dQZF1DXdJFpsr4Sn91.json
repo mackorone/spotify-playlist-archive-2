@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59876,
+  "num_followers": 59873,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Pallo jalast",
-        "url": "https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8"
+        "name": "Amarantti",
+        "url": "https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw"
       },
       "artists": [
         {
-          "name": "Ramses II",
-          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
+          "name": "Coevisto",
+          "url": "https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr"
         }
       ],
-      "duration_ms": 138773,
-      "name": "Pallo jalast",
-      "url": "https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d"
+      "duration_ms": 212096,
+      "name": "Amarantti",
+      "url": "https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
+        "name": "Pallo jalast",
+        "url": "https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8"
+      },
+      "artists": [
+        {
+          "name": "Ramses II",
+          "url": "https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC"
+        }
+      ],
+      "duration_ms": 138773,
+      "name": "Pallo jalast",
+      "url": "https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
         "name": "Lehmitytt\u00f6",
         "url": "https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 195564,
       "name": "Lehmitytt\u00f6",
       "url": "https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
-        "name": "Amarantti",
-        "url": "https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw"
-      },
-      "artists": [
-        {
-          "name": "Coevisto",
-          "url": "https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr"
-        }
-      ],
-      "duration_ms": 212096,
-      "name": "Amarantti",
-      "url": "https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo"
     },
     {
       "added_at": "2026-06-25 21:00:31",

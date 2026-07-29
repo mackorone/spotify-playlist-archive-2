@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 
 ### [Crayon Shinchan](https://open.spotify.com/playlist/37i9dQZF1DXcZVKo4DZT9G)
 
-> Theme songs from TV/ movie series of "Crayon Shinchan"! ©臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2025
+> Theme songs from TV/ movie series of "Crayon Shinchan"! ©臼井儀人／双葉社・シンエイ・テレビ朝日・ADK 2026
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,461 likes - 32 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,477 likes - 32 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ](https://open.spotify.com/track/2GYVhVkXc4UADWWi9f4qRc) | [クレヨンしんちゃん／Saucy Dog](https://open.spotify.com/artist/154ZGlUsIFIhsqV5bPTfDw) | [映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ](https://open.spotify.com/album/7DjjJbp9LDDIEqiMYyT31p) | 1:09 |
+| 1 | [Still Here](https://open.spotify.com/track/5bfc8VisE4j5SDmNiK27m8) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Still Here](https://open.spotify.com/album/68NWLfkwoqHl2uDnFlr5mm) | 3:42 |
 | 2 | [スパイス](https://open.spotify.com/track/1wotgHglpJRCf5aRFQpn9X) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [スパイス](https://open.spotify.com/album/1JEeiw5l60mhnZCk8AtSEA) | 4:34 |
 | 3 | [思い出をかけぬけて](https://open.spotify.com/track/6tJFjFarvig3AqDNqeH8Yy) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [ghosts](https://open.spotify.com/album/56Vj2K6rfWoPwLHnF9KUWv) | 3:51 |
 | 4 | [Future is Yours](https://open.spotify.com/track/2HPLnsjFWrBe3X2DcUEAVb) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Future is Yours](https://open.spotify.com/album/0ydm0gjxuNauzHArr4Hztt) | 4:26 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZVKo4DZT9G.md) - [plain]
 | 31 | [Cry Baby](https://open.spotify.com/track/4wBRnMhL0N3wQQA37HdEza) | [SEAMO](https://open.spotify.com/artist/1txC4MvuCHFRrtRiy4cwnR) | [Round About](https://open.spotify.com/album/6wOuP7POMHeiufkKd5O6SV) | 5:15 |
 | 32 | [オメデトウ](https://open.spotify.com/track/4Oc33k0BCjHdR3xoRodYMD) | [Mihimaru GT](https://open.spotify.com/artist/29PeG6G6C986jnRPBECm4D) | [mihimaballads](https://open.spotify.com/album/0ZaTSzme8kRUUokVJFfzQP) | 5:24 |
 
-Snapshot ID: `AAAAAHUl/KCeqdEB7Pnxz271bi8DP9LN`
+Snapshot ID: `AAAAAOq6KRR2YYD6i/ttyGJ1AVX0B2fR`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover: Planetshakers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,625,047 likes - 80 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,625,149 likes - 80 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Less Of Me, More Of You \- Live](https://open.spotify.com/track/72XVeL0IFIDNrMGYoNPqqw) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Mighty God \(Live\)](https://open.spotify.com/album/2cK4A2pD9at2Ozrzc6SyYC) | 7:34 |
 | 2 | [What A God](https://open.spotify.com/track/4eTLdVkDPeJRwvS5T5YrVd) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [What A God](https://open.spotify.com/album/6pD1fqZb2FRZmpgbOmtgen) | 6:18 |
-| 3 | [give + take](https://open.spotify.com/track/1IJE2gUInKnEGb1n8ejasF) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [give + take](https://open.spotify.com/album/5JdrLRSKjDwu0FUz7MlmO3) | 7:07 |
+| 3 | [give + take \- Live](https://open.spotify.com/track/1IJE2gUInKnEGb1n8ejasF) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [give + take \(Live\)](https://open.spotify.com/album/5JdrLRSKjDwu0FUz7MlmO3) | 7:07 |
 | 4 | [All Authority](https://open.spotify.com/track/3jj38E2krZgQWNmnP587Ux) | [Bethany Wohrle](https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e) | [Reason That I Sing](https://open.spotify.com/album/1RnhRvL2UWDZg7LUyifCiH) | 3:52 |
 | 5 | [There Is One](https://open.spotify.com/track/7408Z8PcclJd61xyyYHv9I) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Yours Alone](https://open.spotify.com/album/7u5QmS8MY4vimEpmb1fPui) | 3:32 |
 | 6 | [AMAZING!](https://open.spotify.com/track/6sBqTPsiudzkESXDpPI6t5) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [WASHED](https://open.spotify.com/album/5ADw2IQlPkheuMun7AuYBc) | 4:22 |

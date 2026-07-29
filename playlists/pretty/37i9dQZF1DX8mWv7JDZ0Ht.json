@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  GIANA",
-  "num_followers": 434145,
+  "num_followers": 434142,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2026-07-27 15:06:50",
       "album": {
+        "name": "Mem\u00f3rias P\u00f3stumas",
+        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 151822,
+      "name": "Jo\u00e3o",
+      "url": "https://open.spotify.com/track/521WMbpYlYCaARdbsk3XQl"
+    },
+    {
+      "added_at": "2026-07-27 15:06:50",
+      "album": {
         "name": "FOR\u00c7A DA JUVENTUDE",
         "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
       },
@@ -183,26 +199,6 @@
     {
       "added_at": "2026-07-27 15:06:50",
       "album": {
-        "name": "Faz de Conta",
-        "url": "https://open.spotify.com/album/2pMhNADuJV4PfdYZhdCLUh"
-      },
-      "artists": [
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        },
-        {
-          "name": "Paula Schneider",
-          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
-        }
-      ],
-      "duration_ms": 273525,
-      "name": "Encontro das Mar\u00e9s",
-      "url": "https://open.spotify.com/track/5U0lNrAPMBvgWs6nlo7MuV"
-    },
-    {
-      "added_at": "2026-07-27 15:06:50",
-      "album": {
         "name": "escapismo",
         "url": "https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ"
       },
@@ -219,6 +215,26 @@
       "duration_ms": 180343,
       "name": "escapismo",
       "url": "https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS"
+    },
+    {
+      "added_at": "2026-07-27 15:06:50",
+      "album": {
+        "name": "Faz de Conta",
+        "url": "https://open.spotify.com/album/2pMhNADuJV4PfdYZhdCLUh"
+      },
+      "artists": [
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        },
+        {
+          "name": "Paula Schneider",
+          "url": "https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS"
+        }
+      ],
+      "duration_ms": 273525,
+      "name": "Encontro das Mar\u00e9s",
+      "url": "https://open.spotify.com/track/5U0lNrAPMBvgWs6nlo7MuV"
     },
     {
       "added_at": "2026-07-27 15:06:50",
@@ -311,26 +327,6 @@
     {
       "added_at": "2026-07-27 15:06:50",
       "album": {
-        "name": "Emaranhei",
-        "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Emaranhei",
-      "url": "https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP"
-    },
-    {
-      "added_at": "2026-07-27 15:06:50",
-      "album": {
         "name": "BRava",
         "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
       },
@@ -351,18 +347,22 @@
     {
       "added_at": "2026-07-27 15:06:50",
       "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+        "name": "Emaranhei",
+        "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
         }
       ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
+      "duration_ms": 171692,
+      "name": "Emaranhei",
+      "url": "https://open.spotify.com/track/4cN88WMuH5CAVg6YhnBCIP"
     },
     {
       "added_at": "2026-07-27 15:06:50",
@@ -387,22 +387,18 @@
     {
       "added_at": "2026-07-27 15:06:50",
       "album": {
-        "name": "NOVA: Surpresa",
-        "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
       },
       "artists": [
         {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 255333,
-      "name": "NOVA: Surpresa",
-      "url": "https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN"
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
     },
     {
       "added_at": "2026-07-27 15:06:50",
@@ -419,6 +415,26 @@
       "duration_ms": 176409,
       "name": "Desassossego",
       "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+    },
+    {
+      "added_at": "2026-07-27 15:06:50",
+      "album": {
+        "name": "NOVA: Surpresa",
+        "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 255333,
+      "name": "NOVA: Surpresa",
+      "url": "https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN"
     },
     {
       "added_at": "2026-07-27 15:06:50",
@@ -691,26 +707,6 @@
     {
       "added_at": "2026-07-27 15:06:50",
       "album": {
-        "name": "Um Doce, Uma Flor",
-        "url": "https://open.spotify.com/album/6stvMGOqnhUpXi4MAr1lSL"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        }
-      ],
-      "duration_ms": 145602,
-      "name": "Um Doce, Uma Flor",
-      "url": "https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN"
-    },
-    {
-      "added_at": "2026-07-27 15:06:50",
-      "album": {
         "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
         "url": "https://open.spotify.com/album/57v6btGGS9RdtVGzG088jj"
       },
@@ -727,6 +723,26 @@
       "duration_ms": 139250,
       "name": "Sa\u00ed pra Ver Se a Saudade Fica em Casa",
       "url": "https://open.spotify.com/track/2baE0gIKX4cDBjDifNuw1O"
+    },
+    {
+      "added_at": "2026-07-27 15:06:50",
+      "album": {
+        "name": "Um Doce, Uma Flor",
+        "url": "https://open.spotify.com/album/6stvMGOqnhUpXi4MAr1lSL"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        }
+      ],
+      "duration_ms": 145602,
+      "name": "Um Doce, Uma Flor",
+      "url": "https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN"
     },
     {
       "added_at": "2026-07-27 15:06:50",
@@ -783,6 +799,26 @@
     {
       "added_at": "2026-07-27 15:06:50",
       "album": {
+        "name": "Quero Descobrir",
+        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        }
+      ],
+      "duration_ms": 177647,
+      "name": "Quero Descobrir",
+      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
+    },
+    {
+      "added_at": "2026-07-27 15:06:50",
+      "album": {
         "name": "Eu s\u00f3 quero um xod\u00f3",
         "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
       },
@@ -803,26 +839,6 @@
       "duration_ms": 119340,
       "name": "Eu s\u00f3 quero um xod\u00f3",
       "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
-    },
-    {
-      "added_at": "2026-07-27 15:06:50",
-      "album": {
-        "name": "Quero Descobrir",
-        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        }
-      ],
-      "duration_ms": 177647,
-      "name": "Quero Descobrir",
-      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
     },
     {
       "added_at": "2026-07-27 15:06:50",
@@ -859,26 +875,6 @@
     {
       "added_at": "2026-07-27 15:06:50",
       "album": {
-        "name": "Branca",
-        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
-      },
-      "artists": [
-        {
-          "name": "Zecca Gomes",
-          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
-        },
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
-        }
-      ],
-      "duration_ms": 168051,
-      "name": "Branca",
-      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
-    },
-    {
-      "added_at": "2026-07-27 15:06:50",
-      "album": {
         "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
         "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
       },
@@ -907,6 +903,26 @@
       "duration_ms": 181666,
       "name": "Manh\u00e3 de Sol",
       "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+    },
+    {
+      "added_at": "2026-07-27 15:06:50",
+      "album": {
+        "name": "Branca",
+        "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
+      },
+      "artists": [
+        {
+          "name": "Zecca Gomes",
+          "url": "https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ"
+        },
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        }
+      ],
+      "duration_ms": 168051,
+      "name": "Branca",
+      "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
     },
     {
       "added_at": "2026-07-27 15:06:50",
@@ -1119,26 +1135,6 @@
     {
       "added_at": "2026-07-27 15:06:50",
       "album": {
-        "name": "BALAN\u00c7O",
-        "url": "https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 136575,
-      "name": "BALAN\u00c7O",
-      "url": "https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu"
-    },
-    {
-      "added_at": "2026-07-27 15:06:50",
-      "album": {
         "name": "Daqui pra sempre",
         "url": "https://open.spotify.com/album/6z895LsvePQNR3ADZkiO0N"
       },
@@ -1155,6 +1151,26 @@
       "duration_ms": 160230,
       "name": "Daqui pra sempre",
       "url": "https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q"
+    },
+    {
+      "added_at": "2026-07-27 15:06:50",
+      "album": {
+        "name": "BALAN\u00c7O",
+        "url": "https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 136575,
+      "name": "BALAN\u00c7O",
+      "url": "https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu"
     },
     {
       "added_at": "2026-07-27 15:06:50",
@@ -1263,22 +1279,6 @@
       "duration_ms": 145079,
       "name": "P\u00f4r Do Sol Avisa",
       "url": "https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8"
-    },
-    {
-      "added_at": "2026-07-27 15:06:50",
-      "album": {
-        "name": "Mem\u00f3rias P\u00f3stumas",
-        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 151822,
-      "name": "Jo\u00e3o",
-      "url": "https://open.spotify.com/track/521WMbpYlYCaARdbsk3XQl"
     }
   ],
   "unique_name": "Pop Leve",

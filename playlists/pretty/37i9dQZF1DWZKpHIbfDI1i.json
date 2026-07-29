@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. R\u00d8Z en portada ",
-  "num_followers": 859728,
+  "num_followers": 859756,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
+        "name": "Eres Mi Nada / Tu Pasado y T\u00fa",
+        "url": "https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 171062,
+      "name": "Eres Mi Nada",
+      "url": "https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
         "name": "Chaparrita (Remix)",
         "url": "https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 266400,
       "name": "Chaparrita (Remix)",
       "url": "https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
-        "name": "Eres Mi Nada / Tu Pasado y T\u00fa",
-        "url": "https://open.spotify.com/album/0BZ3dO6C8OGRRyXfV9FLhE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 171062,
-      "name": "Eres Mi Nada",
-      "url": "https://open.spotify.com/track/0c0NnNE5ZDrR09ss5tM13G"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "Un Vals",
-        "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 189791,
-      "name": "Un Vals",
-      "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 171880,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "Un Vals",
+        "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 189791,
+      "name": "Un Vals",
+      "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "Otro Abrigo",
-        "url": "https://open.spotify.com/album/1MjzhfXAHq75qYVw4XnIFs"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 165162,
-      "name": "Otro Abrigo",
-      "url": "https://open.spotify.com/track/4gzMku4VVN3AKGtbrXE527"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "La Misi\u00f3n",
         "url": "https://open.spotify.com/album/3XfkiU4vr6q5kbBgI5ibPL"
       },
@@ -1387,22 +1367,50 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "Norte\u00f1a",
-        "url": "https://open.spotify.com/album/3VBpaVReuh97r9Fb7gwxUQ"
+        "name": "Otro Abrigo",
+        "url": "https://open.spotify.com/album/1MjzhfXAHq75qYVw4XnIFs"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
         },
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
         }
       ],
-      "duration_ms": 227413,
-      "name": "Volver a Ti",
-      "url": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"
+      "duration_ms": 165162,
+      "name": "Otro Abrigo",
+      "url": "https://open.spotify.com/track/4gzMku4VVN3AKGtbrXE527"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "Soy Luna: Volver a rodar (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO"
+      },
+      "artists": [
+        {
+          "name": "Elenco de Soy Luna",
+          "url": "https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l"
+        },
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        },
+        {
+          "name": "Ruggero Pasquarelli",
+          "url": "https://open.spotify.com/artist/7uMsrJMSZWhL8IXO6YArQL"
+        },
+        {
+          "name": "Michael Ronda",
+          "url": "https://open.spotify.com/artist/0TRtXrrdp0uEmcdg5amrLt"
+        }
+      ],
+      "duration_ms": 202426,
+      "name": "De ti me enamor\u00e9",
+      "url": "https://open.spotify.com/track/3FWD1jZwNuEk7SJOt1R8MV"
     },
     {
       "added_at": "2026-07-24 06:00:37",

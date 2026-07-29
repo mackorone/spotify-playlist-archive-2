@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 37353,
+  "num_followers": 37352,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Amorcito coraz\u00f3n lofi",
-        "url": "https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y"
+        "name": "Un Final",
+        "url": "https://open.spotify.com/album/1mZdIgakWgOWhiTUq6nIg1"
       },
       "artists": [
         {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 109322,
-      "name": "Amorcito coraz\u00f3n lofi",
-      "url": "https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3"
+      "duration_ms": 235863,
+      "name": "Un Final",
+      "url": "https://open.spotify.com/track/00YOjUb6jOzPwBK0aqhvK0"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -471,18 +467,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Un Final",
-        "url": "https://open.spotify.com/album/1mZdIgakWgOWhiTUq6nIg1"
+        "name": "Amorcito coraz\u00f3n lofi",
+        "url": "https://open.spotify.com/album/1uBtp6SGewPwolxGDige7Y"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 235863,
-      "name": "Un Final",
-      "url": "https://open.spotify.com/track/00YOjUb6jOzPwBK0aqhvK0"
+      "duration_ms": 109322,
+      "name": "Amorcito coraz\u00f3n lofi",
+      "url": "https://open.spotify.com/track/1bg8nG4ULoyzXb0EJcoRs3"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -659,6 +659,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Jardines, Vol.1",
+        "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "lightheart",
+          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
+        }
+      ],
+      "duration_ms": 153162,
+      "name": "jazmin",
+      "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Saguaro",
         "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 132631,
       "name": "Saguaro",
       "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "que chulada",
-        "url": "https://open.spotify.com/album/1VL31Ov2UyihVGEDQSoptV"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
-        }
-      ],
-      "duration_ms": 134261,
-      "name": "que chulada",
-      "url": "https://open.spotify.com/track/6H58pGPGHVWaoK2JOe0r5y"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "que chulada",
+        "url": "https://open.spotify.com/album/1VL31Ov2UyihVGEDQSoptV"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        }
+      ],
+      "duration_ms": 134261,
+      "name": "que chulada",
+      "url": "https://open.spotify.com/track/6H58pGPGHVWaoK2JOe0r5y"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Sugar Leafs",
         "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
       },
@@ -763,22 +783,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Jardines, Vol.1",
-        "url": "https://open.spotify.com/album/1mTuEZ6UOl9sgTaEpn1Noc"
+        "name": "Birria",
+        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
       },
       "artists": [
         {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "lightheart",
-          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
         }
       ],
-      "duration_ms": 153162,
-      "name": "jazmin",
-      "url": "https://open.spotify.com/track/0LP3XkCr5KNLKIeBc0huI4"
+      "duration_ms": 119527,
+      "name": "Birria",
+      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -799,22 +815,6 @@
       "duration_ms": 103562,
       "name": "Chupacabras",
       "url": "https://open.spotify.com/track/2nWORwmocK5bMkgwDTPhyd"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Birria",
-        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 119527,
-      "name": "Birria",
-      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Atacama",
-        "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
+        "name": "Good things take time",
+        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
       },
       "artists": [
         {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
         }
       ],
-      "duration_ms": 128571,
-      "name": "Atacama",
-      "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
+      "duration_ms": 99428,
+      "name": "Good things take time",
+      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Atacama",
+        "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Atacama",
+      "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Lofi En La Mamalona",
         "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 116666,
       "name": "Lofi En La Mamalona",
       "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Good things take time",
-        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Good things take time",
-      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Summer Purr",
+        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
+      },
+      "artists": [
+        {
+          "name": "Kissa Kat",
+          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Summer Purr",
+      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Lost Memories",
         "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 146845,
       "name": "Lost Memories",
       "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Summer Purr",
-        "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
-      },
-      "artists": [
-        {
-          "name": "Kissa Kat",
-          "url": "https://open.spotify.com/artist/5RBVGLlx8CYsrGdTadI0lL"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Summer Purr",
-      "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "alone alone",
-        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
-      },
-      "artists": [
-        {
-          "name": "Thragg",
-          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
-        }
-      ],
-      "duration_ms": 90933,
-      "name": "alone alone",
-      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Taco Envenenado",
         "url": "https://open.spotify.com/album/01i1uBVnhTtDgKY4Id0IAW"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 118285,
       "name": "Taco Envenenado",
       "url": "https://open.spotify.com/track/5xFvLixW7T1OZXlppo6WP4"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "alone alone",
+        "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
+      },
+      "artists": [
+        {
+          "name": "Thragg",
+          "url": "https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H"
+        }
+      ],
+      "duration_ms": 90933,
+      "name": "alone alone",
+      "url": "https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Canciones Para Ver Las Nubes Pasar",
-        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Canci\u00f3n en Forma de Elefante",
-      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "Dusk Jazz Delight",
         "url": "https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 121000,
       "name": "Dusk Jazz Delight",
       "url": "https://open.spotify.com/track/63rZ23bWkFYg1zjrQkkGW7"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Canciones Para Ver Las Nubes Pasar",
+        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Canci\u00f3n en Forma de Elefante",
+      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1795,26 +1795,6 @@
       "duration_ms": 117580,
       "name": "Playa del amor",
       "url": "https://open.spotify.com/track/5fwxiLkBHjivfTUhiHb6gm"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "only in memories",
-        "url": "https://open.spotify.com/album/11nJ7IKgzmvujw4i6nfhPr"
-      },
-      "artists": [
-        {
-          "name": "cxlt.",
-          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
-        },
-        {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "only in memories",
-      "url": "https://open.spotify.com/track/3uUoxbVM6uEj1RnftUKZZp"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1863,6 +1843,26 @@
       "duration_ms": 112663,
       "name": "i shouldn't have done that...",
       "url": "https://open.spotify.com/track/4Fl52C3mzmr66yD022Sj4r"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "only in memories",
+        "url": "https://open.spotify.com/album/11nJ7IKgzmvujw4i6nfhPr"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "only in memories",
+      "url": "https://open.spotify.com/track/3uUoxbVM6uEj1RnftUKZZp"
     }
   ],
   "unique_name": "LoFi mexa",

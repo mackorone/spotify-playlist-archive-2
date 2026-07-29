@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 346 likes - 2,506 songs - 6 day 3 hr 24 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 347 likes - 2,512 songs - 6 day 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2514,5 +2514,11 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2504 | [Pensando en ti](https://open.spotify.com/track/1n9NT3UPg3O2AxNhx4zBJd) | [KEVRA](https://open.spotify.com/artist/1jzfJ40gUGYrwJuk1d7cOM) | [Pensando en ti](https://open.spotify.com/album/4j7B4hZU8CoZXgoE1LOEiZ) | 2:48 |
 | 2505 | [DUELE QUERERTE](https://open.spotify.com/track/1Dt7MBL51x8SOhwBmVoZuj) | [KEVRA](https://open.spotify.com/artist/1jzfJ40gUGYrwJuk1d7cOM) | [DUELE QUERERTE](https://open.spotify.com/album/33jcVi1fGgSsmADFlk1TaS) | 2:26 |
 | 2506 | [YA NO](https://open.spotify.com/track/3YHn1nZHlQq3VZhn8NrGde) | [KEVRA](https://open.spotify.com/artist/1jzfJ40gUGYrwJuk1d7cOM) | [YA NO](https://open.spotify.com/album/1lw60vP82j4KKBZ4Jh68KB) | 2:30 |
+| 2507 | [I won't miss your love](https://open.spotify.com/track/209RrSiJAMLzAYqPJlzvyt) | [Yerevano](https://open.spotify.com/artist/1BqVDWK7PBR22ARnaBVRCB) | [I won't miss your love](https://open.spotify.com/album/59oh3OScYWBYAoFFAygixX) | 3:58 |
+| 2508 | [In Meinem Kopf](https://open.spotify.com/track/7vWpn4gVEGFl3MwOUEVWoB) | [N2E](https://open.spotify.com/artist/03zPTdtQkZYMZ4YKhaaEX2) | [In Meinem Kopf](https://open.spotify.com/album/1aExyxKkDRNaTeP3k0c6m0) | 4:50 |
+| 2509 | [Chasing Daylight](https://open.spotify.com/track/7CzvilbrwlLzVpQGVXPN6k) | [Summer Signals](https://open.spotify.com/artist/5X4r6sqrLaIk0T0mwnpXoq) | [Chasing Daylight](https://open.spotify.com/album/22BKT7lJr4ya7Fc4UmGgh8) | 3:12 |
+| 2510 | [Decadence](https://open.spotify.com/track/0rRewFIunN0RngAqfwd1RF) | [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Decadence](https://open.spotify.com/album/6oge9aN1X3Fl6IIXLUq8EI) | 3:18 |
+| 2511 | [The Weekend \- Instrumental](https://open.spotify.com/track/3JjUm4kaHKZYdakw0g6dRf) | [Metok Maximus](https://open.spotify.com/artist/5YTX9oJVrxwWJuVbRdxNK1) | [The Weekend \(Instrumental\)](https://open.spotify.com/album/6BqZxVnaPZEsLNsVO5m5BS) | 2:32 |
+| 2512 | [convenient](https://open.spotify.com/track/1BXDjv5BqlC52TrjKfnP0y) | [RINNIE](https://open.spotify.com/artist/2d6vYkXPElcFB8XVtt1eI3) | [convenient](https://open.spotify.com/album/6UMpZ0ihDKy9tkC2353r0K) | 4:20 |
 
-Snapshot ID: `AAAKoZvRsxkSyev1GdBwuo8c9HbPSegh`
+Snapshot ID: `AAAKp0m9btx6aqqs0HpGqNw51R3CEzbS`

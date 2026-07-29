@@ -1,6 +1,6 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 201612,
+  "num_followers": 201623,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-07-23 15:00:23",
       "album": {
+        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
+        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 198971,
+      "name": "\u305f\u3060\u541b\u306b\u6674\u308c",
+      "url": "https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz"
+    },
+    {
+      "added_at": "2026-07-23 15:00:23",
+      "album": {
         "name": "NIGHT DANCER",
         "url": "https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 168135,
       "name": "Bling-Bang-Bang-Born",
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
-    },
-    {
-      "added_at": "2026-07-23 15:00:23",
-      "album": {
-        "name": "\u8ca0\u3051\u72ac\u306b\u30a2\u30f3\u30b3\u30fc\u30eb\u306f\u3044\u3089\u306a\u3044",
-        "url": "https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 198971,
-      "name": "\u305f\u3060\u541b\u306b\u6674\u308c",
-      "url": "https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz"
     },
     {
       "added_at": "2026-07-23 15:00:23",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-07-23 15:00:23",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/7F8ppyVavEzGbDHyKey3h3"
-      },
-      "artists": [
-        {
-          "name": "ARASHI",
-          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
-        }
-      ],
-      "duration_ms": 285459,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/3r6Am8NvUDbuS2Yqv76ivi"
-    },
-    {
-      "added_at": "2026-07-23 15:00:23",
-      "album": {
         "name": "\u30a4\u30f3\u30c7\u30a3\u30b4\u5730\u5e73\u7dda",
         "url": "https://open.spotify.com/album/0GB573iZ4z6gre3eUJc56N"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 193593,
       "name": "Yet To Come",
       "url": "https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ"
+    },
+    {
+      "added_at": "2026-07-23 15:00:23",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/7F8ppyVavEzGbDHyKey3h3"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "duration_ms": 285459,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/3r6Am8NvUDbuS2Yqv76ivi"
     },
     {
       "added_at": "2026-07-23 15:00:23",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-07-23 15:00:23",
       "album": {
+        "name": "You!Joy!Parade!",
+        "url": "https://open.spotify.com/album/1HVcgwuswaCmIkYX41jRxT"
+      },
+      "artists": [
+        {
+          "name": "M!LK",
+          "url": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ"
+        }
+      ],
+      "duration_ms": 181693,
+      "name": "You!Joy!Parade!",
+      "url": "https://open.spotify.com/track/74ThDjhS3BXmghci7Qbhv9"
+    },
+    {
+      "added_at": "2026-07-23 15:00:23",
+      "album": {
         "name": "Dream\"A\"live",
         "url": "https://open.spotify.com/album/4YKOpfYbcshIEHfxHZm2ta"
       },
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2026-07-23 15:00:23",
       "album": {
-        "name": "\u4e00\u9014",
-        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 190606,
-      "name": "\u4e00\u9014",
-      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
-    },
-    {
-      "added_at": "2026-07-23 15:00:23",
-      "album": {
         "name": "Bad Girl",
         "url": "https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH"
       },
@@ -1387,6 +1387,22 @@
       "duration_ms": 214045,
       "name": "Bad Girl",
       "url": "https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo"
+    },
+    {
+      "added_at": "2026-07-23 15:00:23",
+      "album": {
+        "name": "\u4e00\u9014",
+        "url": "https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 190606,
+      "name": "\u4e00\u9014",
+      "url": "https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK"
     },
     {
       "added_at": "2026-07-23 15:00:23",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2026-07-23 15:00:23",
       "album": {
-        "name": "You!Joy!Parade!",
-        "url": "https://open.spotify.com/album/1HVcgwuswaCmIkYX41jRxT"
-      },
-      "artists": [
-        {
-          "name": "M!LK",
-          "url": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ"
-        }
-      ],
-      "duration_ms": 181693,
-      "name": "You!Joy!Parade!",
-      "url": "https://open.spotify.com/track/74ThDjhS3BXmghci7Qbhv9"
-    },
-    {
-      "added_at": "2026-07-23 15:00:23",
-      "album": {
         "name": "\u9006\u5922",
         "url": "https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 307644,
       "name": "\u9006\u5922",
       "url": "https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY"
-    },
-    {
-      "added_at": "2026-07-23 15:00:23",
-      "album": {
-        "name": "LOVE COOK",
-        "url": "https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ"
-      },
-      "artists": [
-        {
-          "name": "Ai Otsuka",
-          "url": "https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd"
-        }
-      ],
-      "duration_ms": 307833,
-      "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a6\u30e0",
-      "url": "https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02"
     },
     {
       "added_at": "2026-07-23 15:00:23",
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2026-07-23 15:00:23",
       "album": {
-        "name": "\u9006\u8f38\u5165 \u301c\u822a\u7a7a\u5c40\u301c",
-        "url": "https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj"
+        "name": "LOVE COOK",
+        "url": "https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ"
       },
       "artists": [
         {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+          "name": "Ai Otsuka",
+          "url": "https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd"
         }
       ],
-      "duration_ms": 192680,
-      "name": "\u8584\u3089\u6c37\u5fc3\u4e2d",
-      "url": "https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT"
+      "duration_ms": 307833,
+      "name": "\u30d7\u30e9\u30cd\u30bf\u30ea\u30a6\u30e0",
+      "url": "https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02"
     },
     {
       "added_at": "2026-07-23 15:00:23",
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2026-07-23 15:00:23",
       "album": {
+        "name": "\u9006\u8f38\u5165 \u301c\u822a\u7a7a\u5c40\u301c",
+        "url": "https://open.spotify.com/album/4IyZbkR6R4oIcuckwSrJQj"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 192680,
+      "name": "\u8584\u3089\u6c37\u5fc3\u4e2d",
+      "url": "https://open.spotify.com/track/1DxOabtnI3W4ouECc6AdyT"
+    },
+    {
+      "added_at": "2026-07-23 15:00:23",
+      "album": {
         "name": "\u6b8b\u97ff\u6563\u6b4c",
         "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
       },
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-07-23 15:00:23",
       "album": {
-        "name": "\u58f1",
-        "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
-      },
-      "artists": [
-        {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
-        }
-      ],
-      "duration_ms": 286360,
-      "name": "\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
-      "url": "https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA"
-    },
-    {
-      "added_at": "2026-07-23 15:00:23",
-      "album": {
         "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
         "url": "https://open.spotify.com/album/2CmupdP2p1BOYVYh2cjtJc"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 199333,
       "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
       "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"
+    },
+    {
+      "added_at": "2026-07-23 15:00:23",
+      "album": {
+        "name": "\u58f1",
+        "url": "https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 286360,
+      "name": "\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
+      "url": "https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA"
     },
     {
       "added_at": "2026-07-23 15:00:23",

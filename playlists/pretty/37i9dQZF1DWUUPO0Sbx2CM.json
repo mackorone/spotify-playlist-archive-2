@@ -1,6 +1,6 @@
 {
   "description": "Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!",
-  "num_followers": 237336,
+  "num_followers": 237354,
   "original_name": "Christian Party",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "playlist",
-        "url": "https://open.spotify.com/album/49QQCvYksBNEaGIyoAgrtQ"
-      },
-      "artists": [
-        {
-          "name": "Tenroc",
-          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
-        }
-      ],
-      "duration_ms": 164850,
-      "name": "playlist",
-      "url": "https://open.spotify.com/track/3rivgaDvBS7AtGLUq0hAEd"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "GRACE!",
         "url": "https://open.spotify.com/album/1sKNlt0ATgaUIlxfh9k5ND"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 208845,
       "name": "GRACE!",
       "url": "https://open.spotify.com/track/1f89q0MxUcKom3ACcbSfFR"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "playlist",
+        "url": "https://open.spotify.com/album/49QQCvYksBNEaGIyoAgrtQ"
+      },
+      "artists": [
+        {
+          "name": "Tenroc",
+          "url": "https://open.spotify.com/artist/2vjr6uTQVOzLdsNIWaqy2i"
+        }
+      ],
+      "duration_ms": 164850,
+      "name": "playlist",
+      "url": "https://open.spotify.com/track/3rivgaDvBS7AtGLUq0hAEd"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/3OPoxCkmoIe96rtyVpEopw"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 189206,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/5xdPonunrBkmwGkWNFcKhV"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 213333,
       "name": "Jump",
       "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/3OPoxCkmoIe96rtyVpEopw"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 189206,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/5xdPonunrBkmwGkWNFcKhV"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -891,6 +891,26 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1m14FZAOUPoSBjBxl6QHZ7"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
+        }
+      ],
+      "duration_ms": 146254,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6p82wKhnbSRJ5UZhua9ENg"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "I'LL BELIEVE YOU",
         "url": "https://open.spotify.com/album/60Hdn7vnZayAHFbpv46TP3"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 171428,
       "name": "I'LL BELIEVE YOU",
       "url": "https://open.spotify.com/track/3dNNFFxTqoZQw0gGdeHgzf"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1m14FZAOUPoSBjBxl6QHZ7"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "CASS",
-          "url": "https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM"
-        }
-      ],
-      "duration_ms": 146254,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6p82wKhnbSRJ5UZhua9ENg"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "FOUGHT 4 LOVE",
-        "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
-      },
-      "artists": [
-        {
-          "name": "Vision of Leo",
-          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "FOUGHT 4 LOVE",
-      "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "Down (Remix)",
         "url": "https://open.spotify.com/album/6MP2d8QD6j3K9xAETIKxPD"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 185510,
       "name": "Down (Remix)",
       "url": "https://open.spotify.com/track/5mmmjhQjqh7HxmAcVbKn4u"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "FOUGHT 4 LOVE",
+        "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
+      },
+      "artists": [
+        {
+          "name": "Vision of Leo",
+          "url": "https://open.spotify.com/artist/21HnuUEkcsr902YIGJRL2e"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "FOUGHT 4 LOVE",
+      "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD"
-      },
-      "artists": [
-        {
-          "name": "Marie Love",
-          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
-        },
-        {
-          "name": "Saint James",
-          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/7K0EeJpsv14BmQvW3uizuD"
       },
@@ -1295,6 +1275,26 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD"
+      },
+      "artists": [
+        {
+          "name": "Marie Love",
+          "url": "https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h"
+        },
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/7FyWFjrhwLE07TfheKpZmm"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "New Normal",
-        "url": "https://open.spotify.com/album/27dzEpotrYbxsiC022uNwT"
-      },
-      "artists": [
-        {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        }
-      ],
-      "duration_ms": 229658,
-      "name": "New Normal",
-      "url": "https://open.spotify.com/track/1JSjQMTkSTQrZjXYKVEEFc"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "I AM",
         "url": "https://open.spotify.com/album/0wiIzRzhsidJL1k4dWFS7w"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 202083,
       "name": "I AM",
       "url": "https://open.spotify.com/track/0sUPsWMFICkSCbWL2WCzxi"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "New Normal",
+        "url": "https://open.spotify.com/album/27dzEpotrYbxsiC022uNwT"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 229658,
+      "name": "New Normal",
+      "url": "https://open.spotify.com/track/1JSjQMTkSTQrZjXYKVEEFc"
     },
     {
       "added_at": "2026-04-25 05:41:41",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-04-25 05:41:41",
       "album": {
-        "name": "Smell The Roses",
-        "url": "https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 253940,
-      "name": "Smell The Roses",
-      "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
-    },
-    {
-      "added_at": "2026-04-25 05:41:41",
-      "album": {
         "name": "Can't Stop Me Now (Gregatron Remix)",
         "url": "https://open.spotify.com/album/3K2wuCt4XibD9h49gkbKPn"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 142588,
       "name": "Can't Stop Me Now - Gregatron Remix",
       "url": "https://open.spotify.com/track/3UMrk48HddibQGSFS9Q6T8"
+    },
+    {
+      "added_at": "2026-04-25 05:41:41",
+      "album": {
+        "name": "Smell The Roses",
+        "url": "https://open.spotify.com/album/0s8jsjHp6xAzZfre4Nzm8f"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 253940,
+      "name": "Smell The Roses",
+      "url": "https://open.spotify.com/track/1esEL6SOBktZDjIpieZiFg"
     },
     {
       "added_at": "2026-04-25 05:41:41",

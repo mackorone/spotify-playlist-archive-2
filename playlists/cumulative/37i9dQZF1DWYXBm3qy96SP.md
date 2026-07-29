@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: The Strokes
 
-2,174 songs - 5 day 6 hr 43 min
+2,175 songs - 5 day 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,6 +439,7 @@
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-05-29 | 2025-07-29 |
 | [Crack!](https://open.spotify.com/track/5fdcRU4NnzoQDvUaITXU8n) | [Summer Whales](https://open.spotify.com/artist/3hkum3WiqHnQUdMicxAsS8) | [Doughy](https://open.spotify.com/album/3awx1iBGigpJlxHssiFSjA) | 3:14 | 2024-07-18 | 2024-08-16 |
 | [crash](https://open.spotify.com/track/2eGGf6bIyhZPd9fPuE5kMb) | [bunii](https://open.spotify.com/artist/6mx3Y8XNLPaS2pjJbQFq3W) | [crash](https://open.spotify.com/album/4zhau6qTOQkCzyEwzaccNv) | 2:34 | 2026-03-12 | 2026-04-21 |
+| [Crawl](https://open.spotify.com/track/3UgwgUdUwaye5nMThMbPyA) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Crawl](https://open.spotify.com/album/3uQg2GyVbEcegEaGdt4KJa) | 3:51 | 2026-07-24 |  |
 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 | 2024-01-25 | 2024-02-23 |
 | [Creature In The Black Night](https://open.spotify.com/track/4kMBP4BSFB0vNYQDVGiJq6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Creature In The Black Night](https://open.spotify.com/album/2YWEecYJkLwMbNOG1o4cap) | 3:48 | 2025-07-10 | 2025-10-31 |
 | [Creep \- Spotify Singles](https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 5:02 | 2023-11-09 | 2023-11-17 |
@@ -535,7 +536,7 @@
 | [Dodging Sunshine \(Fever Dreams\)](https://open.spotify.com/track/1ln5j3zS7KDa4IYHJb2HyN) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Robert DeLong](https://open.spotify.com/artist/42crL07E4WPfVovyUtMpvC) | [Dodging Sunshine \(Fever Dreams\)](https://open.spotify.com/album/44WZJyA2WFQyFoXvczQXGc) | 3:36 | 2023-06-01 | 2023-06-09 |
 | [Dog](https://open.spotify.com/track/1MwBrXBadrxeRBC6wr1aFG) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:27 | 2023-08-10 | 2023-08-18 |
 | [Dog Song](https://open.spotify.com/track/3X610Y3QXfGMKc5zG45EJ4) | [Dolo Tonight](https://open.spotify.com/artist/3ED1AG2E67Epo3MBFVOFj9) | [Dog Song](https://open.spotify.com/album/05hpBiCDUiQ2R8tmTCLXKl) | 1:43 | 2023-12-07 | 2023-12-15 |
-| [Dogs](https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Dogs](https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC) | 4:56 | 2026-03-26 |  |
+| [Dogs](https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Dogs](https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC) | 4:56 | 2026-03-26 | 2026-07-29 |
 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-04-11 | 2024-07-19 |
 | [doll](https://open.spotify.com/track/6tM3TfDXxXWxb6ZACxO897) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [doll](https://open.spotify.com/album/1Do3N6dQQH4vcRpRoSIjnI) | 3:29 | 2025-09-18 | 2025-10-17 |
 | [Don't Eat Don't Sleep](https://open.spotify.com/track/3iCmsC8iMWP1y4dxZNEw1L) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK) | [Don't Eat Don't Sleep](https://open.spotify.com/album/4jmEE2QQTJJOPTFAZOs4kn) | 3:32 | 2026-07-24 |  |

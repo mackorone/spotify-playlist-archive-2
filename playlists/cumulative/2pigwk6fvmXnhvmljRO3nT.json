@@ -11245,6 +11245,24 @@
     },
     {
       "album": {
+        "name": "Alea jacta est",
+        "url": "https://open.spotify.com/album/4B7EDOo57FODEUirLkpNrZ"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255960,
+      "name": "Ave Mujica",
+      "url": "https://open.spotify.com/track/2W99f2JxL6d2myh7nKAJKg"
+    },
+    {
+      "album": {
         "name": "Watching Movies with the Sound Off (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3T02fCxAjApu18taJLLbyN"
       },
@@ -70394,6 +70412,24 @@
       "duration_ms": 233546,
       "name": "Killing Time",
       "url": "https://open.spotify.com/track/7fvld2LGlUhz15CjeaLewh"
+    },
+    {
+      "album": {
+        "name": "Completeness",
+        "url": "https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208772,
+      "name": "KiLLKiSS",
+      "url": "https://open.spotify.com/track/469KRyxbgklNcb6iLhbztB"
     },
     {
       "album": {

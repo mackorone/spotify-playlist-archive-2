@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Barnim
 
-917 songs - 1 day 20 hr 41 min
+918 songs - 1 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [jeśli pozwolisz](https://open.spotify.com/track/6qz5YC7w9zHvbo8idA2eZu) | [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl), [20tune](https://open.spotify.com/artist/6n5vxeBa60Rm5Bv2QNUtEZ) | [jeśli pozwolisz](https://open.spotify.com/album/52NTrPLQ6CjIXbJ8c2zhmE) | 2:12 | 2026-07-16 |  |
 | [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 | 2025-05-08 | 2025-05-23 |
 | [jutro będzie furtką](https://open.spotify.com/track/7CKoaVBHrzovd5lRLnpHAi) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [jutro będzie furtką](https://open.spotify.com/album/10EBsg405gpFD2LpUnv6ES) | 3:08 | 2024-06-28 | 2024-07-05 |
+| [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/track/6fAjclJ49KZBzgOwhkpTqH) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [stas](https://open.spotify.com/artist/72Vq7ugNRnMWOnFZkvj3zd) | [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/album/26ko8YSiHDYAyoanRXJ1Gl) | 4:37 | 2026-07-16 |  |
 | [Już nie szkoda](https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Już nie szkoda](https://open.spotify.com/album/4rfPIIZxl5G2O5UcuxZlvh) | 2:48 | 2024-06-28 | 2024-11-29 |
 | [Kalifornia](https://open.spotify.com/track/2s33rfHUFAxiTh9AzSUloU) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Kalifornia](https://open.spotify.com/album/7kD8PQnZQ5WetSlvANmeQk) | 4:33 | 2025-04-24 | 2025-08-20 |
 | [Kamień z serca](https://open.spotify.com/track/7zbQXoTGpZWpTekjTxfv7L) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Kamień z serca](https://open.spotify.com/album/748zCQqQwaa18ZqOExNGon) | 3:52 | 2024-06-28 | 2024-08-02 |
@@ -783,7 +784,7 @@
 | [Tonę \(w skateparku\)](https://open.spotify.com/track/7Dr0N7ABvgd89mSuAjcBSB) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Tonę \(w skateparku\)](https://open.spotify.com/album/2WPsbVoKOg9g4nqUQQ6i57) | 3:22 | 2025-12-05 | 2025-12-12 |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-27 | 2025-05-09 |
 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 | 2025-03-06 | 2025-06-20 |
-| [TopOff](https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [TopOff](https://open.spotify.com/album/6hIBQMP2jZYOZHf9UTWwZb) | 2:39 | 2026-05-21 |  |
+| [TopOff](https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [TopOff](https://open.spotify.com/album/6hIBQMP2jZYOZHf9UTWwZb) | 2:39 | 2026-05-21 | 2026-07-29 |
 | [Toskania](https://open.spotify.com/track/019YTP6v9YSy1CjEkizSAm) | [Julia Przybylska](https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP) | [Toskania](https://open.spotify.com/album/2AX0qNiRGEtVeQiL9EHZ4W) | 2:19 | 2025-08-19 | 2025-09-03 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2025-01-23 | 2025-01-31 |
 | [tracimy sens](https://open.spotify.com/track/6wpF3A7b91RGelXpRvcDNr) | [nefrea](https://open.spotify.com/artist/0LDHuGDQljiQdkLri5BSAW), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [tracimy sens](https://open.spotify.com/album/7cjyOgy8HEkt6Dwu0Gytjz) | 2:30 | 2025-07-17 | 2025-07-25 |

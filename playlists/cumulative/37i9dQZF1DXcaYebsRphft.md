@@ -2,7 +2,7 @@
 
 ### [On Tour Japan: ILLIT](https://open.spotify.com/playlist/37i9dQZF1DXcaYebsRphft)
 
-> 『ILLIT LIVE 'PRESS START︎︎❤' in JAPANE』のメンバーボイス入りセットリスト
+> 『ILLIT LIVE 'PRESS START︎︎❤' in JAPAN』のメンバーボイス入りセットリスト
 
 451 songs - 21 hr 15 min
 

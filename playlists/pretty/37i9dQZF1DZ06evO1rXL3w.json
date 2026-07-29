@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAACUAhGSuL3dS3gvgNPnhqif",
+  "snapshot_id": "amafgAAAAAATWCTff7yAYGGNTdqvN9mT",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 206185,
-      "name": "Meet Dr. Monro - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j"
+      "duration_ms": 152429,
+      "name": "Thank You - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 152429,
-      "name": "Thank You - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ"
+      "duration_ms": 206185,
+      "name": "Meet Dr. Monro - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j"
     }
   ],
   "unique_name": "This Is Kris Bowers",

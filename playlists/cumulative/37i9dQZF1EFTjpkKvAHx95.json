@@ -765,6 +765,28 @@
     },
     {
       "album": {
+        "name": "Coming Home (with G Herbo)",
+        "url": "https://open.spotify.com/album/4DDwMmoet9t03wznydkh0j"
+      },
+      "artists": [
+        {
+          "name": "BJRNCK",
+          "url": "https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212221,
+      "name": "Coming Home (with G Herbo)",
+      "url": "https://open.spotify.com/track/3acmzjQZIKY6mwMiQ5vW4f"
+    },
+    {
+      "album": {
         "name": "Confujawn (feat. Nija)",
         "url": "https://open.spotify.com/album/1ruWQM9ZBDvP9RFwfV6DHA"
       },
@@ -4138,7 +4160,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"

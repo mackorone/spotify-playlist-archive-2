@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: After
 
-2,480 songs - 5 day 12 hr 13 min
+2,481 songs - 5 day 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1265,7 +1265,7 @@
 | [laurel](https://open.spotify.com/track/7rzkDmONjg7i8vkoATsW8f) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [laurel](https://open.spotify.com/album/554EELvFi0hyJGwv2tvZ54) | 2:09 | 2022-05-13 | 2022-06-29 |
 | [Lazy Love](https://open.spotify.com/track/7IrkGTwDPicWAnCflbeicD) | [Mr Little Jeans](https://open.spotify.com/artist/0B2SlMW40Hs9mijOi1cDyf) | [Lazy Love](https://open.spotify.com/album/2FMsm3iooQQOMJGIgNR2Op) | 3:02 | 2022-01-28 | 2022-04-17 |
 | [Learn To Let You Go](https://open.spotify.com/track/2NtP0dLpEhB6VVfMJuo9ib) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX), [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Learn To Let You Go](https://open.spotify.com/album/0nGDoN9CsbIWbvDxA1b9ew) | 3:11 | 2025-04-25 | 2025-07-07 |
-| [leave it all behind, Mike](https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [portals//polarities](https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb) | 4:16 | 2025-12-12 |  |
+| [leave it all behind, Mike](https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [portals//polarities](https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb) | 4:16 | 2025-12-12 | 2026-07-29 |
 | [LEAVE ME](https://open.spotify.com/track/1ljQ8uKlwqJeyb007xeH8i) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [LEAVE ME](https://open.spotify.com/album/15hucP1bAk7CRRNtM2kzQH) | 2:14 | 2021-03-08 | 2022-04-16 |
 | [leave this party](https://open.spotify.com/track/3m0Z0qQb4hQhivHx7rrdKB) | [pj frantz](https://open.spotify.com/artist/1lhIL1YVgF6X1I8IMluKZi) | [leave this party](https://open.spotify.com/album/6juFKH4dgbV2aPC2q4IQuX) | 2:59 | 2023-01-23 | 2023-03-06 |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-10-25 | 2025-06-28 |
@@ -2174,6 +2174,7 @@
 | [Thank U](https://open.spotify.com/track/1w5J5CBuvT36kt2OtHa8ts) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Thank U](https://open.spotify.com/album/4xTL6WvU1XquiSZ1ibPHyB) | 4:02 | 2020-11-10 | 2021-05-25 |
 | [Thank You for Leaving](https://open.spotify.com/track/6PyZoxxYmlZpXprkGuErY6) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Thank You for Leaving](https://open.spotify.com/album/2eMBvvLGZB3gIefvuMziYY) | 3:17 | 2024-05-24 | 2024-06-20 |
 | [thank you i guess](https://open.spotify.com/track/6T1klWs7QMnkPOJGnSpL26) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [thank you i guess](https://open.spotify.com/album/6LsUUMkKGoxJTsYtZ3IQ5v) | 1:58 | 2026-05-01 |  |
+| [That's Fine](https://open.spotify.com/track/3Gmd8YZFXbo7N1PfZw1o0E) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [I Hope You Don't Remember Me](https://open.spotify.com/album/4ZLW7yBp3Hsoy5qLr81Yil) | 3:21 | 2026-07-24 |  |
 | [That's My Floor](https://open.spotify.com/track/2mJI78wsFOQfLvrrlR0H3H) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [That's My Floor](https://open.spotify.com/album/5dGhpX3W12hDDip1gniXfK) | 3:29 | 2024-08-23 | 2024-11-02 |
 | [That's My Girl](https://open.spotify.com/track/6oM46RZxmCvcaaHP3n5TXX) | [Carol Ades](https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr) | [That's My Girl](https://open.spotify.com/album/0E2xTVpLqdXz4xyVYXKwBs) | 2:56 | 2026-02-13 | 2026-05-02 |
 | [That's Where I Am](https://open.spotify.com/track/4f1KkbXHnfIVZ9vmIExByJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [That's Where I Am](https://open.spotify.com/album/1gBMpfSlQWoMIsR48U7DLr) | 4:12 | 2022-04-08 | 2022-07-23 |

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > this hyperpop playlist features algorave queen DJ\_Dave
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,092 likes - 115 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,304 likes - 115 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 |
 | 2 | [Dis\-Moi](https://open.spotify.com/track/5GgRZOMxH4Uly3nZa3BPWA) | [Cannelle](https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg) | [CINNA](https://open.spotify.com/album/4zPfDnzz6TWxxhITxpoYBf) | 2:27 |
 | 3 | [Creep](https://open.spotify.com/track/0sVwFUDyDI5ZVFuS3bl3NE) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Tweaker Poem](https://open.spotify.com/album/2fzKiP2hfzKll1QlXNzojx) | 4:00 |
-| 4 | [CONSTANTLY](https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [CONSTANTLY](https://open.spotify.com/album/213P10SLkkkRltYI9bbh2V) | 3:02 |
-| 5 | [work](https://open.spotify.com/track/5t9uZJUSpZ4tKrAyFFqZ1Y) | [SUUNCAAT](https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7) | [work](https://open.spotify.com/album/0rYaE3uuSJC6lTRhTXfaCe) | 4:25 |
-| 6 | [Pop Sound](https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Pop Sound](https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql) | 2:51 |
-| 7 | [Kiss](https://open.spotify.com/track/4jZUTV3lMCxllZiIvWte9X) | [Westwood](https://open.spotify.com/artist/3ROUUVgC0l5pYp3wLQQ05v) | [Kiss](https://open.spotify.com/album/5bq0T1HikXAfh4Psg75aFL) | 2:10 |
-| 8 | [U&ME](https://open.spotify.com/track/4Ng4JMlg97GYcW7eDZ0ij0) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x) | [U&ME](https://open.spotify.com/album/2f4fFPtXYPZdLR6aaVsKXf) | 2:39 |
-| 9 | [POP GIRL \(with Yves\)](https://open.spotify.com/track/03ttvvZTWJnuVNFxd8Faap) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [POP GIRLS CLUB](https://open.spotify.com/album/3rrHA39a9wiiwedaML0jvO) | 2:27 |
-| 10 | [Bridgerton](https://open.spotify.com/track/4RKtDDOYsm6864QgAziwdW) | [gloss\*](https://open.spotify.com/artist/2VU7LWcdl4rXJZpS4tQZUI) | [Bridgerton](https://open.spotify.com/album/1Ok9MkN9HydNOM0RIt0LfA) | 1:57 |
-| 11 | [FIANCHI](https://open.spotify.com/track/4Mrmo8tcADYG7lNU00lOWk) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [FIANCHI](https://open.spotify.com/album/1LNpW6xFwBPn8gnMlsr9hx) | 2:26 |
+| 4 | [FIANCHI](https://open.spotify.com/track/4Mrmo8tcADYG7lNU00lOWk) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [FIANCHI](https://open.spotify.com/album/1LNpW6xFwBPn8gnMlsr9hx) | 2:26 |
+| 5 | [CONSTANTLY](https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [CONSTANTLY](https://open.spotify.com/album/213P10SLkkkRltYI9bbh2V) | 3:02 |
+| 6 | [work](https://open.spotify.com/track/5t9uZJUSpZ4tKrAyFFqZ1Y) | [SUUNCAAT](https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7) | [work](https://open.spotify.com/album/0rYaE3uuSJC6lTRhTXfaCe) | 4:25 |
+| 7 | [POP GIRL \(with Yves\)](https://open.spotify.com/track/03ttvvZTWJnuVNFxd8Faap) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [POP GIRLS CLUB](https://open.spotify.com/album/3rrHA39a9wiiwedaML0jvO) | 2:27 |
+| 8 | [Pop Sound](https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Pop Sound](https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql) | 2:51 |
+| 9 | [Kiss](https://open.spotify.com/track/4jZUTV3lMCxllZiIvWte9X) | [Westwood](https://open.spotify.com/artist/3ROUUVgC0l5pYp3wLQQ05v) | [Kiss](https://open.spotify.com/album/5bq0T1HikXAfh4Psg75aFL) | 2:10 |
+| 10 | [U&ME](https://open.spotify.com/track/4Ng4JMlg97GYcW7eDZ0ij0) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x) | [U&ME](https://open.spotify.com/album/2f4fFPtXYPZdLR6aaVsKXf) | 2:39 |
+| 11 | [Bridgerton](https://open.spotify.com/track/4RKtDDOYsm6864QgAziwdW) | [gloss\*](https://open.spotify.com/artist/2VU7LWcdl4rXJZpS4tQZUI) | [Bridgerton](https://open.spotify.com/album/1Ok9MkN9HydNOM0RIt0LfA) | 1:57 |
 | 12 | [I Like](https://open.spotify.com/track/4uzkJXMs6PjmJ5wAQLzflw) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W), [Warpstr](https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc) | [I Like](https://open.spotify.com/album/2HSr0Ar9OrNYCm9fyx9YHf) | 2:23 |
 | 13 | [Love Love \(Love Love\)](https://open.spotify.com/track/4gm8rReH16d2OHgIqMMdAX) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Love Love \(Love Love\)](https://open.spotify.com/album/7Mi2jctLtxnHi631v2zelF) | 3:07 |
 | 14 | [pictures](https://open.spotify.com/track/3DRd90F0ZQUqykRyygDMja) | [kuudere](https://open.spotify.com/artist/1OhN2StoiEjQmsLCbjpgpa) | [pictures](https://open.spotify.com/album/5MT18i1LkPsKk76ZeH2Tz8) | 2:52 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 114 | [nice](https://open.spotify.com/track/5QD9PUqyVz8syPaZL4HAbB) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 2:22 |
 | 115 | [Hot Fun](https://open.spotify.com/track/2E3p2VCXYQMgxtwDt9dLDO) | [The Hellp](https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4) | [Hot Fun](https://open.spotify.com/album/4PzhTCrRTncrgOvGcOYpud) | 3:14 |
 
-Snapshot ID: `AAAAAIZDiACuElZruUCY6hZRqpuRbdgp`
+Snapshot ID: `AAAAAJlmJwuq0MVaLHF+f+FPiCZ0tUIp`

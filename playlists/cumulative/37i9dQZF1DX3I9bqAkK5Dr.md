@@ -2,7 +2,7 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Oliver Kim
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Akash Ravuru
 
 561 songs - 1 day 9 hr 26 min
 

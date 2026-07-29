@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day\. Cover: Kenyon Dixon
 
-984 songs - 2 day 10 hr 28 min
+985 songs - 2 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,6 +754,7 @@
 | [Show Her The Way](https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Show Her The Way](https://open.spotify.com/album/5l7H2sueEPAHGGly08PkJS) | 4:02 | 2023-04-21 | 2023-12-11 |
 | [Show Me](https://open.spotify.com/track/0mR4HVXgk7Zku2WRX2Ndp5) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [WAITING on YOU](https://open.spotify.com/album/0OtjbHExx0ZAYi6TptDujz) | 4:32 | 2025-03-21 | 2025-06-16 |
 | [Show Me](https://open.spotify.com/track/4PT6iFaqj8tLcwqYjHI2MY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Show Me](https://open.spotify.com/album/2SDGe9MmzvbDwmQ6wvHFb8) | 3:37 | 2024-12-13 | 2025-02-22 |
+| [SHOW&PROVE](https://open.spotify.com/track/5q111ttCRv7SEHUyFAsVVR) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [EGO RUINS EVERYTHING](https://open.spotify.com/album/1qQoqhO6w4lfMNI7rSqz49) | 3:00 | 2026-07-24 |  |
 | [SIDE OF YOU](https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [SIDE OF YOU](https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG) | 2:45 | 2022-09-23 | 2024-02-24 |
 | [Sign And Signal](https://open.spotify.com/track/1QpPefY7AVM2Y67CGROj39) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:22 | 2023-03-03 | 2023-09-17 |
 | [Silent Treatment](https://open.spotify.com/track/2EUUu4O0loy3PvwEHmdOZ2) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Silent Treatment](https://open.spotify.com/album/0uWQFPszr6SJZ695zVp029) | 3:13 | 2026-07-24 |  |
@@ -769,7 +770,7 @@
 | [Smile](https://open.spotify.com/track/5fnOfJ4Gm43UQzYpfZuAaZ) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Smile](https://open.spotify.com/album/5rXfcrwzK7aozli0g8ARif) | 2:39 | 2023-07-28 | 2024-07-20 |
 | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9) | [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [SMILE \(feat\. Xavier Omär, DAISY WORLD & ROMderful\)](https://open.spotify.com/album/3bDCfRa4XXnxPEaAGYGvd9) | 3:18 | 2023-06-09 | 2024-03-15 |
 | [Smoke](https://open.spotify.com/track/6Z0yKCHpLXoDVqFSlWh9OM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Smoke](https://open.spotify.com/album/6NAkwbwMRxCBhjyVokuuSf) | 3:03 | 2024-10-18 | 2025-03-18 |
-| [So Beautiful](https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [So Beautiful](https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb) | 3:47 | 2025-02-28 |  |
+| [SO BEAUTIFUL](https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [SO BEAUTIFUL](https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb) | 3:47 | 2025-02-28 |  |
 | [So Distracted](https://open.spotify.com/track/0ngHbClCf9nU3XhflzdLuo) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo) | [Duets](https://open.spotify.com/album/34lwRHpFW4m8x0bxfSoiBO) | 4:10 | 2024-08-23 | 2024-08-31 |
 | [So Fine](https://open.spotify.com/track/2aFiUHeO8qy6LoWpjUUCQV) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [MyGuyMars](https://open.spotify.com/artist/0oH03sDsnxkWo7jFl6nZQ6) | [2BHONEST](https://open.spotify.com/album/14a2wFgqpnKtMmQUtHMcpZ) | 3:45 | 2025-08-22 | 2026-01-24 |
 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 | 2023-08-25 | 2023-10-01 |
@@ -917,7 +918,7 @@
 | [W8](https://open.spotify.com/track/2Bpky4PIUsFM5RetNZk1w1) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf), [DrewTheRew](https://open.spotify.com/artist/6v88vKZue57e76Pes3aZkv) | [W8](https://open.spotify.com/album/570MYwKWpYzH9WDITiHcb7) | 3:40 | 2023-04-14 | 2023-07-15 |
 | [Wait](https://open.spotify.com/track/0pK06O8LE1NoTKqVmgUaOj) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [The R&B You Love](https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr) | 3:35 | 2023-09-29 | 2024-03-16 |
 | [Wait A Little Longer](https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Wait A Little Longer](https://open.spotify.com/album/3V7mjfuYQKZK13uH9rjPxv) | 3:28 | 2023-08-18 | 2024-09-28 |
-| [Waiting](https://open.spotify.com/track/4ZuWgH2xw0T3vbkHDGchXv) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Overture](https://open.spotify.com/album/173YEGDpbqDZ6FFd5N9oiy) | 2:46 | 2026-07-24 |  |
+| [Waiting](https://open.spotify.com/track/4ZuWgH2xw0T3vbkHDGchXv) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Overture](https://open.spotify.com/album/173YEGDpbqDZ6FFd5N9oiy) | 2:46 | 2026-07-24 | 2026-07-29 |
 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 | 2023-09-16 |  |
 | [Waiting on the Right Time](https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Waiting on the Right Time](https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1) | 3:39 | 2024-09-13 | 2025-02-01 |
 | [Waiting On You](https://open.spotify.com/track/1lsX78ds0jYRhrDZeqRLvp) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [WAITING on YOU](https://open.spotify.com/album/0OtjbHExx0ZAYi6TptDujz) | 4:12 | 2025-03-21 | 2025-06-01 |

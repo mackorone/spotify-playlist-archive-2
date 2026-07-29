@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-145 songs - 9 hr 22 min
+146 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Tattoo Graveyard](https://open.spotify.com/track/3kmG45gXLrTfZqC8IPDcDY) | [Thirsty Curses](https://open.spotify.com/artist/3H2SNIWzM4KVAuKBC5i5f0) | [Music Is a Scam](https://open.spotify.com/album/1FxsajJ8Bvmv9U3NRo65KA) | 4:25 | 2025-12-17 | 2026-02-07 |
 | [Tell me](https://open.spotify.com/track/7Kii5doWDpS5BlMb8ZinhX) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [Tell me](https://open.spotify.com/album/128I92xeAqGBMdLzBqCGdR) | 2:16 | 2026-07-14 |  |
 | [Tell Me Why](https://open.spotify.com/track/0BjA7kC1AjbGuoNV1xcvPS) | [\#R!sK](https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q) | [Tell Me Why](https://open.spotify.com/album/3UhghdeJ61tvS5CBACFWi5) | 3:07 | 2026-02-06 | 2026-04-05 |
+| [Temporale](https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Temporale](https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0) | 2:32 | 2026-07-28 |  |
 | [Terrestrial](https://open.spotify.com/track/1gkS2fy9B3j8puwIS22DmR) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [The Kingdom of Trees](https://open.spotify.com/album/6rUJAze2ADreCV5kLqWmea) | 4:33 | 2025-10-19 | 2026-05-16 |
 | [Tesla](https://open.spotify.com/track/6iJSBzhwuo10snNpJPlT6o) | [Errant Shadow](https://open.spotify.com/artist/32yImafufTQRCNtMvD4YSN) | [Tesla](https://open.spotify.com/album/7fPZmtfCwbZfbMZNk5o4KG) | 4:44 | 2025-11-02 |  |
 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 | 2026-04-04 |  |

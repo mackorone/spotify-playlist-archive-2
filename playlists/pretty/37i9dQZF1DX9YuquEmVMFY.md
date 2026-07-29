@@ -1,32 +1,29 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain](/playlists/plain/37i9dQZF1DX9YuquEmVMFY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9YuquEmVMFY)
 
-### [On Tour Korea: The xx](https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY)
+### [On Tour Korea: lullaboy](https://open.spotify.com/playlist/37i9dQZF1DX9YuquEmVMFY)
 
-> One Universe Festival 2026, July 26th\(Sat\) @PARADISE CITY
+> Aug 4th \(Tue\) @Rolling Hall,  Seoul
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,865 likes - 20 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,859 likes - 17 songs - 56 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Crystalised](https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:21 |
-| 2 | [Say Something Loving](https://open.spotify.com/track/2C5YDhSJqLFCHrymIBzNSg) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:58 |
-| 3 | [Islands](https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:40 |
-| 4 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
-| 5 | [Night Time](https://open.spotify.com/track/0ibXYHIS1vPqpkm1LoIWZR) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 3:36 |
-| 6 | [Sunset](https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 3:38 |
-| 7 | [Fiction](https://open.spotify.com/track/40Gp0YR5kj8vT7Z55YzTFM) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:56 |
-| 8 | [I'll Take Care of U](https://open.spotify.com/track/3uFVyg61HeKCMbL5N6LuSA) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Jamie Smith](https://open.spotify.com/artist/2PZO2EvqY5QjyW65YSKj7F) | [We're New Here](https://open.spotify.com/album/7BuwwZzrJCAJaC12QKkDOh) | 4:42 |
-| 9 | [Shelter \- Live Remix 2017](https://open.spotify.com/track/05wchP5ISggJEECvXNDpQn) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Shelter \(Live Remix 2017\)](https://open.spotify.com/album/0HF2b91QfZVxmJ2zIBEtGV) | 5:15 |
-| 10 | [Infinity](https://open.spotify.com/track/2qKioq4HNraWk0DXH4Rdut) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 5:13 |
-| 11 | [VCR](https://open.spotify.com/track/0Cr3j6qhDItBeFbAzdXtN2) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:57 |
-| 12 | [Loud Places](https://open.spotify.com/track/1jy7SkRcmBCTcv4ZMtwz29) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/4gaNWHu5Caj3ItkYZ5i6uh) | 4:43 |
-| 13 | [Enjoy Your Life](https://open.spotify.com/track/2wwXXUy6P0TCqDNsU0ygm5) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 4:00 |
-| 14 | [Wanna](https://open.spotify.com/track/7uLBdV19ad7kAjU2oB1l6p) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 2:15 |
-| 15 | [Treat Each Other Right](https://open.spotify.com/track/3pjX4hC8adabkXGu3X9GTC) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 4:00 |
-| 16 | [GMT](https://open.spotify.com/track/0Y3dpX5KtEdMknoP9DKWaL) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Hideous Bastard](https://open.spotify.com/album/4l3zlqIjR8K1tB1b8Yyn0f) | 3:08 |
-| 17 | [On Hold](https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:44 |
-| 18 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/513Ndbo32DnhMfZdiUKnQW) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [I See You \(Remixes\)](https://open.spotify.com/album/53QnY8X6gaMHYWIu9LmpaQ) | 6:11 |
-| 19 | [I Dare You](https://open.spotify.com/track/3pAw0BXL8acShtjUwLosw8) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You](https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU) | 3:53 |
-| 20 | [Intro](https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:07 |
+| 1 | [shortcut to heaven](https://open.spotify.com/track/3ynNOuFyjyhzfKVYbWM8dp) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:04 |
+| 2 | [human](https://open.spotify.com/track/18HNObj1XPck15rgIJ3Dlo) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [hotels & heartbreaks](https://open.spotify.com/album/7cxy3F7p8iX977IPiyoxD5) | 2:22 |
+| 3 | [life with u](https://open.spotify.com/track/00FncmbU5PCKfrSXmRE0AS) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:25 |
+| 4 | [van gogh](https://open.spotify.com/track/72kFgF0HJpAggrbNA8UTta) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 2:53 |
+| 5 | [me without you](https://open.spotify.com/track/0Mb1hrTPpjH6OdQY86HAQb) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [hotels & heartbreaks](https://open.spotify.com/album/7cxy3F7p8iX977IPiyoxD5) | 3:13 |
+| 6 | [finger hearts](https://open.spotify.com/track/60W8OGMZKiX3BGUjtZFGUl) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [finger hearts](https://open.spotify.com/album/4pWmyeKwKsdKADt2NnwyJv) | 3:15 |
+| 7 | [live with it](https://open.spotify.com/track/0nq1kL5uEyXJDusq5UNEvs) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [hotels & heartbreaks](https://open.spotify.com/album/7cxy3F7p8iX977IPiyoxD5) | 2:42 |
+| 8 | [heaven](https://open.spotify.com/track/32ygL7hogsW5q8W6SLSnuL) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [hotels & heartbreaks](https://open.spotify.com/album/7cxy3F7p8iX977IPiyoxD5) | 3:15 |
+| 9 | [someone like u](https://open.spotify.com/track/6VMuD05WDxorQZJr5e9sDI) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [chapters of you](https://open.spotify.com/album/18eOvYtQDGoNqP8Cnn2GF4) | 3:52 |
+| 10 | [can we start again?](https://open.spotify.com/track/5KLsWrx2OWuW8FAWX0lsNl) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Glenn Yong](https://open.spotify.com/artist/30OV13xhfDuLD5dIMT3GNA) | [can we start again?](https://open.spotify.com/album/5rnh9GR2iyypl6D1ffifhO) | 4:28 |
+| 11 | [beautiful disaster](https://open.spotify.com/track/1LMYoMkISpBuySn4NCwmCO) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [beautiful disaster](https://open.spotify.com/album/5p10dXl0Ydb49Yb5VnsqId) | 3:24 |
+| 12 | [Time](https://open.spotify.com/track/3Ths3AX8KIMrVGXJRrkBDy) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [Time](https://open.spotify.com/album/769w0FnPuehiePv6Mve1Cz) | 3:20 |
+| 13 | [serotonin sky](https://open.spotify.com/track/3aPV8V7gy1F8sA1KhsCIXx) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [serotonin sky](https://open.spotify.com/album/0d8B3wUsJbiC4CPvtCgxNQ) | 3:23 |
+| 14 | [my forever](https://open.spotify.com/track/4n0IpO6YVYDPae13KGberd) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [hotels & heartbreaks](https://open.spotify.com/album/7cxy3F7p8iX977IPiyoxD5) | 3:16 |
+| 15 | [amazing grace](https://open.spotify.com/track/142Kd8CDWSL7dz9hCRvUDV) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [hotels & heartbreaks](https://open.spotify.com/album/7cxy3F7p8iX977IPiyoxD5) | 3:32 |
+| 16 | [time with myself](https://open.spotify.com/track/4ffDArfIwz860wAUypa8aL) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [time with myself](https://open.spotify.com/album/1v4C6G5j2UCKyDxb8msCCN) | 3:04 |
+| 17 | [nervous](https://open.spotify.com/track/1IoFHQNdaIlQWR9tJ9Oj5Q) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nervous](https://open.spotify.com/album/76D3s0Tyv80NQISLIIryEx) | 3:34 |
 
-Snapshot ID: `AAAAAKQUAmuRNicTrQh0zxvOEn4ip2N1`
+Snapshot ID: `AAAAAKXvG4U2KYLLWgOIUA+8cMv3oI70`

@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Ayo Maff",
-  "num_followers": 149431,
+  "num_followers": 149596,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -491,8 +491,8 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "Bank Alert",
-        "url": "https://open.spotify.com/album/6gbIE8I2TYRVU23PoIltaS"
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
       },
       "artists": [
         {
@@ -500,21 +500,13 @@
           "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         },
         {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        },
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 142487,
-      "name": "Bank Alert",
-      "url": "https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a"
+      "duration_ms": 140606,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -587,8 +579,8 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "Instagram",
-        "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
+        "name": "Bank Alert",
+        "url": "https://open.spotify.com/album/6gbIE8I2TYRVU23PoIltaS"
       },
       "artists": [
         {
@@ -596,13 +588,21 @@
           "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         },
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         }
       ],
-      "duration_ms": 140606,
-      "name": "Instagram",
-      "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
+      "duration_ms": 142487,
+      "name": "Bank Alert",
+      "url": "https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "Formation",
-        "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 156666,
-      "name": "Formation",
-      "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
         "name": "Kilometer II",
         "url": "https://open.spotify.com/album/2FJH9gV7isBuUno0lqGYBQ"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 123185,
       "name": "Kilogram",
       "url": "https://open.spotify.com/track/0viaQlHq5KHyywH6rQyNjB"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
+        "name": "Formation",
+        "url": "https://open.spotify.com/album/3kVrx9gltuUKLXgAToVjWx"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Formation",
+      "url": "https://open.spotify.com/track/687RJSOAS8xDed1hoFxum1"
     },
     {
       "added_at": "2026-07-24 00:01:38",

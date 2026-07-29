@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78446,
+  "num_followers": 78447,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Call Me Babe",
-        "url": "https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM"
-      },
-      "artists": [
-        {
-          "name": "mischluft",
-          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
-        }
-      ],
-      "duration_ms": 164121,
-      "name": "Call Me Babe",
-      "url": "https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/4RTIEyK3R3HFkm4WY7HxC7"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 172400,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/09YIQFg8QleQknfduk71HE"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Call Me Babe",
+        "url": "https://open.spotify.com/album/0XT6dwcKjCSwQDwrFgsKeM"
+      },
+      "artists": [
+        {
+          "name": "mischluft",
+          "url": "https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF"
+        }
+      ],
+      "duration_ms": 164121,
+      "name": "Call Me Babe",
+      "url": "https://open.spotify.com/track/4PFkJXTUZVEsKIZ01n4rev"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 249140,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Hallucinating Love",
         "url": "https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 210994,
       "name": "Peace Talk",
       "url": "https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1M5wUrormWAz4REo5hAwDs"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 249140,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0zKGqyfegTfDT2ZwKCiSW9"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -815,26 +815,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Azimuth",
-        "url": "https://open.spotify.com/album/1slnJE8ptgpAnNMyE83rcg"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 226606,
-      "name": "Azimuth",
-      "url": "https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "yo,",
         "url": "https://open.spotify.com/album/2rRdfUZtXxNdY2Qlc2pBgB"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 143313,
       "name": "skyskysky",
       "url": "https://open.spotify.com/track/06Nlp5oqdxzvTiZL99lxP8"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Azimuth",
+        "url": "https://open.spotify.com/album/1slnJE8ptgpAnNMyE83rcg"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 226606,
+      "name": "Azimuth",
+      "url": "https://open.spotify.com/track/5eLQyZ8kZKFRukO1mIAXKQ"
     },
     {
       "added_at": "2025-12-03 12:15:55",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3"
+      },
+      "artists": [
+        {
+          "name": "Indira Paganotto",
+          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 181099,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Big Boy Tracks",
         "url": "https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 221520,
       "name": "Big Boy Tracks",
       "url": "https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3"
-      },
-      "artists": [
-        {
-          "name": "Indira Paganotto",
-          "url": "https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 181099,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k"
     },
     {
       "added_at": "2025-12-03 12:15:55",

@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-06-29 08:23:18",
       "album": {
-        "name": "Crush on You",
-        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        }
-      ],
-      "duration_ms": 222860,
-      "name": "Hug Me",
-      "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
-    },
-    {
-      "added_at": "2026-06-29 08:23:18",
-      "album": {
         "name": "WHAT HAVE WE DONE",
         "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
       },
@@ -1071,18 +1051,42 @@
     {
       "added_at": "2026-06-29 08:23:18",
       "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
         }
       ],
-      "duration_ms": 196986,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
+      "duration_ms": 222860,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
+    },
+    {
+      "added_at": "2026-06-29 08:23:18",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
+      },
+      "artists": [
+        {
+          "name": "YANGHONGWON",
+          "url": "https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM"
+        },
+        {
+          "name": "kuzi",
+          "url": "https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj"
+        }
+      ],
+      "duration_ms": 143315,
+      "name": "At Night (feat. Kuzi)",
+      "url": "https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

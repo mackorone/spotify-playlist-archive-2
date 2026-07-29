@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,407 songs - 5 day 9 hr 5 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,410 songs - 5 day 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2408,12 +2408,15 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2398 | [Homie Don’t Shake](https://open.spotify.com/track/3jlacMjHZ9VGCOmz5CjHE0) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Homie Don’t Shake](https://open.spotify.com/album/137AbUv6B2FQth3LqCOS7w) | 2:56 |
 | 2399 | [GIIRLSWORLD](https://open.spotify.com/track/47AVZ6U30HmixCjSfFQFda) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [GIIRLSWORLD](https://open.spotify.com/album/3OZtJ85LivFVjC7chz2Ker) | 2:44 |
 | 2400 | [Left for USA](https://open.spotify.com/track/62JNG84aYlIXH2bFDd4LXt) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [What The Feng](https://open.spotify.com/album/73neMdanvqkjdVrR2hzzfQ) | 1:59 |
-| 2401 | [Arc de Triomphe](https://open.spotify.com/track/1kHUc1GdwFl5QMwIsdVGc3) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:46 |
-| 2402 | [Lexapro Delirium](https://open.spotify.com/track/2LtWGOsyqmd88HCHX3hNn6) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Draining Love Story](https://open.spotify.com/album/3yQqw6ZJDHey6HZCpsrFTb) | 7:15 |
-| 2403 | [Deceitful Eyes](https://open.spotify.com/track/3EspPNbxpFNYbPwlyAs8rJ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/1HXwvX1Ph4yoGRZ51ssBH2) | 2:24 |
-| 2404 | [Lychnis](https://open.spotify.com/track/416Nvr6vUng5BOnX5QrXmx) | [Myria](https://open.spotify.com/artist/1pCJrXxmxUAm5tiYmhdY6A) | [Lychnis](https://open.spotify.com/album/5aUwwmR8JduLc9iUiBlq0S) | 1:30 |
-| 2405 | [WITH ME](https://open.spotify.com/track/7CEqlMvyAJGPNtaEdCNIOz) | [Paris Prestige](https://open.spotify.com/artist/5KJbpQbPAeUkb34K73J6Sj) | [WITH ME](https://open.spotify.com/album/6u2iRjHkKMCiJdpnkYyEsk) | 1:59 |
-| 2406 | [Sailor Neptune](https://open.spotify.com/track/5KRuVURw5XmwTJ2PJZuoZc) | [asoookha](https://open.spotify.com/artist/5d1n0kBkkvnk1r5CnaWOWe) | [Marigold](https://open.spotify.com/album/478YUCcpYyi5KS8XqMHocM) | 1:30 |
-| 2407 | [PALETA](https://open.spotify.com/track/4C1wgr96INpecKLtaTirlw) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3) | [PALETA](https://open.spotify.com/album/5XbgmPegvInyYKB2Ju76ID) | 1:28 |
+| 2401 | [home2hide](https://open.spotify.com/track/08nerOhK5AVYPSKhBr1uz3) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [home2hide](https://open.spotify.com/album/5aF9YbOB33YQY4B5nYOOnE) | 4:00 |
+| 2402 | [Arc de Triomphe](https://open.spotify.com/track/1kHUc1GdwFl5QMwIsdVGc3) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/5B4zpYhcIOJXQO7YWBh0LE) | 2:46 |
+| 2403 | [Lexapro Delirium](https://open.spotify.com/track/2LtWGOsyqmd88HCHX3hNn6) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Draining Love Story](https://open.spotify.com/album/3yQqw6ZJDHey6HZCpsrFTb) | 7:15 |
+| 2404 | [Deceitful Eyes](https://open.spotify.com/track/3EspPNbxpFNYbPwlyAs8rJ) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [April Mixtape 3](https://open.spotify.com/album/1HXwvX1Ph4yoGRZ51ssBH2) | 2:24 |
+| 2405 | [Lychnis](https://open.spotify.com/track/416Nvr6vUng5BOnX5QrXmx) | [Myria](https://open.spotify.com/artist/1pCJrXxmxUAm5tiYmhdY6A) | [Lychnis](https://open.spotify.com/album/5aUwwmR8JduLc9iUiBlq0S) | 1:30 |
+| 2406 | [WITH ME](https://open.spotify.com/track/7CEqlMvyAJGPNtaEdCNIOz) | [Paris Prestige](https://open.spotify.com/artist/5KJbpQbPAeUkb34K73J6Sj) | [WITH ME](https://open.spotify.com/album/6u2iRjHkKMCiJdpnkYyEsk) | 1:59 |
+| 2407 | [Sailor Neptune](https://open.spotify.com/track/5KRuVURw5XmwTJ2PJZuoZc) | [asoookha](https://open.spotify.com/artist/5d1n0kBkkvnk1r5CnaWOWe) | [Marigold](https://open.spotify.com/album/478YUCcpYyi5KS8XqMHocM) | 1:30 |
+| 2408 | [PALETA](https://open.spotify.com/track/4C1wgr96INpecKLtaTirlw) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3) | [PALETA](https://open.spotify.com/album/5XbgmPegvInyYKB2Ju76ID) | 1:28 |
+| 2409 | [DISSOLVING GIRL](https://open.spotify.com/track/3ckvDM5dUV06Cpna6KxGKk) | [Rosaliedu38](https://open.spotify.com/artist/5vkbTElqrLRvkM3SoheTQj), [Lili Castiglioni](https://open.spotify.com/artist/0FbauK4BpXbSL71RlgD5NU) | [DISSOLVING GIRL](https://open.spotify.com/album/6rForAoXK0boVeUGGO9ybb) | 2:03 |
+| 2410 | [French Boys](https://open.spotify.com/track/3hCT8pt9PMNBl1iej7NQBu) | [Alyzée](https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Yazida](https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw) | [French Boys](https://open.spotify.com/album/1YcB3dHmmnNZBvGHzDrRaz) | 3:00 |
 
-Snapshot ID: `AAAFbtwBGcp6WnNCypI4fHYJMkP05vA7`
+Snapshot ID: `AAAFcpbs7fGctPMH63IHlxcnhtpFYsKD`

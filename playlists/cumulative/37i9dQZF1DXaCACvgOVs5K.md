@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-571 songs - 1 day 9 hr 40 min
+572 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Can’t Fight The Feeling](https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Can’t Fight The Feeling](https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt) | 2:51 | 2023-04-04 | 2025-04-18 |
 | [Carnaval de Paris](https://open.spotify.com/track/5b58AS0u6Xr4vaxWnY2C1n) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Carnaval de Paris](https://open.spotify.com/album/75yY2YZoi4iMQQqXCj4fW3) | 3:15 | 2024-04-19 | 2024-07-14 |
 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 | 2024-04-19 | 2024-05-17 |
+| [Cash On Cash](https://open.spotify.com/track/47jJPapQVVa28JRx6SzYR9) | [Mojjo](https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j), [No One Knows](https://open.spotify.com/artist/0CsrD49IvI8cUEEZMLkwc4), [SARRIA](https://open.spotify.com/artist/2jMjEfmxCxpI6aXa4qEMeY) | [Cash On Cash](https://open.spotify.com/album/5xyl70wiAv4AAtWYmNheQW) | 3:43 | 2026-07-23 |  |
 | [Change](https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Change](https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs) | 3:27 | 2026-07-23 |  |
 | [Changes \(feat\. Hayze\)](https://open.spotify.com/track/5TCRUxemPlPxOVWIIk5Dsk) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Sandy Rivera](https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3), [Hayze](https://open.spotify.com/artist/18AwII7HfpkvyTYPw7sp6L) | [Changes \(feat\. Hayze\)](https://open.spotify.com/album/0HfuHJSkr3RGmUpiBcuvfo) | 4:31 | 2024-09-18 | 2024-10-05 |
 | [Chica](https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1) | [Ben Evers](https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43), [Najeh](https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7) | [Chica](https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9) | 2:36 | 2026-06-11 |  |
@@ -168,7 +169,7 @@
 | [Everytime](https://open.spotify.com/track/5uaHSOou5ernQBKhfVse1f) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT), [Lustral](https://open.spotify.com/artist/0dkFacPMrWkrQzjjhcMHb7) | [Everytime](https://open.spotify.com/album/3mSHcMzJwojPzTVubh9MuN) | 3:25 | 2025-09-18 | 2026-07-17 |
 | [Explore Your Future](https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:40 | 2023-07-26 | 2024-04-19 |
 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-04-04 | 2023-08-18 |
-| [Expressions \(feat\. Kosmo Kint\)](https://open.spotify.com/track/7pDOfEWXhRY6L2JXkGl3Ap) | [Rio Tashan](https://open.spotify.com/artist/62fNRc1B7PXFC32lgbtzi2), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Expressions \(feat\. Kosmo Kint\)](https://open.spotify.com/album/4puy8244T6ejwnvusrLoo4) | 3:00 | 2026-04-30 |  |
+| [Expressions \(feat\. Kosmo Kint\)](https://open.spotify.com/track/7pDOfEWXhRY6L2JXkGl3Ap) | [Rio Tashan](https://open.spotify.com/artist/62fNRc1B7PXFC32lgbtzi2), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Expressions \(feat\. Kosmo Kint\)](https://open.spotify.com/album/4puy8244T6ejwnvusrLoo4) | 3:00 | 2026-04-30 | 2026-07-29 |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/2VuzBUB5V9AlpniCUhaszP) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/33UfArB1wqUntTPUbsFmUD) | 2:06 | 2023-10-19 | 2024-04-19 |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-05-19 | 2023-12-24 |
 | [Famax](https://open.spotify.com/track/4yhqQAKFiHNCXpxxFVhxRq) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/1wwVoTyNUWFP6BAOcGWbZI) | 5:35 | 2024-04-19 | 2024-07-05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Martin Garrix & U2, Charli xcx, Frsh, Marco Schuitmaker, RONDÉ en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,032 likes - 95 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,016 likes - 95 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 13 | [We Zijn Er](https://open.spotify.com/track/5ugSvzED7o85U4TaMktaqk) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [We Zijn Er](https://open.spotify.com/album/49LywfHBRIWur1tPzZJ6gJ) | 2:42 |
 | 14 | [Disgruntled \(feat\. J Hus & IRAH\)](https://open.spotify.com/track/0N5tx4jH20cdFnI8jgz90l) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [Disgruntled \(feat\. J Hus & IRAH\)](https://open.spotify.com/album/7BDOkdqkK9nXk5jRoccHty) | 3:12 |
 | 15 | [Lose My Life](https://open.spotify.com/track/4EAQsGj6Dzi2f2G0rErm5P) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Lose My Life](https://open.spotify.com/album/04UfQYNCD4QsnauEyaSgVg) | 3:07 |
-| 16 | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
+| 16 | [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
 | 17 | [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 |
 | 18 | [Kapot!](https://open.spotify.com/track/6XpsDlZQrUsB8QRLoajauE) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [Kapot!](https://open.spotify.com/album/1hsW17CIs8xcW5r6vcLEoL) | 2:11 |
 | 19 | [Remedied](https://open.spotify.com/track/0kjt7clFnD75MjoN4mhdcj) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Remedied](https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV) | 2:08 |

@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 233173,
       "name": "1968",
       "url": "https://open.spotify.com/track/2y6Mqnz8rc73kzoGw4MxnL"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 323200,
       "name": "Allegri",
       "url": "https://open.spotify.com/track/4gfwkR7XoKv6G5OCN8jeHC"
@@ -570,7 +570,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 287213,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/4AH6HqEAbzmZaDqwcc5Ljm"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 242705,
       "name": "Blind Sun",
       "url": "https://open.spotify.com/track/2Yd4m4c0ZlKrFYfJ1wUxMX"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 413658,
       "name": "By the Brook",
       "url": "https://open.spotify.com/track/1CxkJzZB7IDqE5HtevW6JT"
@@ -1236,7 +1236,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 308000,
       "name": "Detached Motion",
       "url": "https://open.spotify.com/track/6r6tSIfVPVC4nZf6NbiENB"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 337920,
       "name": "Dissociative",
       "url": "https://open.spotify.com/track/4oNnLEVCRyD3Into7UwOKy"
@@ -1576,7 +1576,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/2ehoTvb37kWJP22sbd8OM6"
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 253859,
       "name": "Et le vent ?",
       "url": "https://open.spotify.com/track/26v12OEtCCX4CWObkeNzay"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 318719,
       "name": "Fior Di Macchia",
       "url": "https://open.spotify.com/track/1HKT7N5bCvuete8irgxbUj"
@@ -2366,7 +2366,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 170625,
       "name": "in pursuit of connection",
       "url": "https://open.spotify.com/track/0kPBcaY5fjP1KHu903DECC"
@@ -2760,7 +2760,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 296153,
       "name": "Lost in the Dark",
       "url": "https://open.spotify.com/track/54DFv47nlgvD0cGxZXF3lz"
@@ -3042,7 +3042,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 272744,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/6czF5qNlJt65HYtfGQK2u1"
@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 371859,
       "name": "Movement",
       "url": "https://open.spotify.com/track/4qbk7CaLjQIjuQpebRnyFN"
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 279440,
       "name": "Nuclear Fission",
       "url": "https://open.spotify.com/track/7MEcVIZxNQOxRmaafMVvId"
@@ -3725,6 +3725,28 @@
     },
     {
       "album": {
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/4g3MstLJUccjMJMxLTRm5Y"
+      },
+      "artists": [
+        {
+          "name": "Joachim Pastor",
+          "url": "https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ"
+        },
+        {
+          "name": "PACT",
+          "url": "https://open.spotify.com/artist/5EDgmVBq5IjxAumbWRazCA"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219375,
+      "name": "Perseverance",
+      "url": "https://open.spotify.com/track/7DLmnCToTHfr9O0LKvWojH"
+    },
+    {
+      "album": {
         "name": "Apnea",
         "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
       },
@@ -4046,7 +4068,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "rise//ruin",
       "url": "https://open.spotify.com/track/6e4AZNf3eOxqCa1UVjeNFd"
@@ -4234,7 +4256,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 239453,
       "name": "Sans \u00e0-coups",
       "url": "https://open.spotify.com/track/4sJTtXcxqguusPFVOu6e3R"
@@ -4404,7 +4426,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 209024,
       "name": "Smitten",
       "url": "https://open.spotify.com/track/4oAswMNs6OiP6ikeVnWIRY"
@@ -4498,7 +4520,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 219317,
       "name": "Sooner or Later",
       "url": "https://open.spotify.com/track/1iCPxpiD6HT7es28nNKtjn"
@@ -4516,7 +4538,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 184320,
       "name": "Space",
       "url": "https://open.spotify.com/track/3Sc1sXkHQeGgs5125wLfqD"
@@ -4700,7 +4722,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 222857,
       "name": "Still",
       "url": "https://open.spotify.com/track/0geU6xmEUcLBxOXSc2yntJ"
@@ -4834,6 +4856,24 @@
       "duration_ms": 259523,
       "name": "Tacoma - Gone Remix",
       "url": "https://open.spotify.com/track/6MdquCVCI0a0Fqfr1Effkx"
+    },
+    {
+      "album": {
+        "name": "Taikotim",
+        "url": "https://open.spotify.com/album/7tdjy9VTasakMQYqCTPiO1"
+      },
+      "artists": [
+        {
+          "name": "Ron Flatter",
+          "url": "https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402437,
+      "name": "Taikotim",
+      "url": "https://open.spotify.com/track/7rDbgts7AB7TBmby1VHljJ"
     },
     {
       "album": {
@@ -5072,7 +5112,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 209906,
       "name": "THE MOON // 3:49AM",
       "url": "https://open.spotify.com/track/72lUxaRRDEmKungYLgLXOS"
@@ -5108,7 +5148,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 234773,
       "name": "THE NOOK // 4:28AM",
       "url": "https://open.spotify.com/track/57OZL6BkJT0YfA67LUT5Uv"
@@ -5444,7 +5484,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 206341,
       "name": "Verbier",
       "url": "https://open.spotify.com/track/7f8SsMWNbWM5Fyg9duonkz"
@@ -5520,7 +5560,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 249000,
       "name": "Wadi Dana",
       "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
@@ -5560,7 +5600,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 234390,
       "name": "Wardenclyffe - Mees Salom\u00e9 Remix",
       "url": "https://open.spotify.com/track/59s4wikOZ2H0YpHVz9Bfsu"

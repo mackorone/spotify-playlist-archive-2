@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 296541,
+  "num_followers": 296595,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -923,18 +923,22 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+        "name": "Stereo Love",
+        "url": "https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk"
       },
       "artists": [
         {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Vika Jigulina",
+          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
         }
       ],
-      "duration_ms": 244773,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
+      "duration_ms": 184573,
+      "name": "Stereo Love",
+      "url": "https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI"
     }
   ],
   "unique_name": "Dancefloor Classics",

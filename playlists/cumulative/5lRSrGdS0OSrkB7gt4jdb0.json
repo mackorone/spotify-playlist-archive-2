@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Thumpaverse",
+        "url": "https://open.spotify.com/album/7ps0rVhNghO82IhDctJNCi"
+      },
+      "artists": [
+        {
+          "name": "Thumpasaurus",
+          "url": "https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194893,
+      "name": "I'm Pissed",
+      "url": "https://open.spotify.com/track/1lLQ2ZP5gNu4Iq35CXLwAt"
+    },
+    {
+      "album": {
         "name": "Too Low For Zero",
         "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
       },

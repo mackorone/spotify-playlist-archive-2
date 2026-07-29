@@ -327,6 +327,32 @@
     },
     {
       "album": {
+        "name": "Bringin' The Noise",
+        "url": "https://open.spotify.com/album/22ZaloEXHlgUG2rYnLBLwn"
+      },
+      "artists": [
+        {
+          "name": "Que Parks",
+          "url": "https://open.spotify.com/artist/4dAfBjRmZ3v6kakh2NgWpW"
+        },
+        {
+          "name": "REVANANT",
+          "url": "https://open.spotify.com/artist/0mtyYr4bY9ZQFJLywIchFp"
+        },
+        {
+          "name": "TLN",
+          "url": "https://open.spotify.com/artist/7hKw3cTvePBYUBWWTlV3WS"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150666,
+      "name": "Bringin' The Noise",
+      "url": "https://open.spotify.com/track/2OXk2fMW8AFDTaY5Ql945X"
+    },
+    {
+      "album": {
         "name": "Color You In",
         "url": "https://open.spotify.com/album/68UjqIFdQTumu4G1YCDWc5"
       },
@@ -1713,6 +1739,24 @@
     },
     {
       "album": {
+        "name": "Sinner's Hand",
+        "url": "https://open.spotify.com/album/3wPIYtEDO9bEfZ3ssw43RE"
+      },
+      "artists": [
+        {
+          "name": "The Tennessee Drive",
+          "url": "https://open.spotify.com/artist/7HPDMaJDCukPrg5wtw7imU"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164278,
+      "name": "Sinner's Hand",
+      "url": "https://open.spotify.com/track/7C3ECsdHl9gZZudyJ4vNDk"
+    },
+    {
+      "album": {
         "name": "$10 Cowboy",
         "url": "https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za"
       },
@@ -1764,6 +1808,28 @@
       "duration_ms": 163050,
       "name": "Sunset Views",
       "url": "https://open.spotify.com/track/3AD253qLm75IJ6GpVkRKk2"
+    },
+    {
+      "album": {
+        "name": "Surrender (Whatever Happens)",
+        "url": "https://open.spotify.com/album/3haLqngYBI8ORMqBFxNS9z"
+      },
+      "artists": [
+        {
+          "name": "BNJMNN",
+          "url": "https://open.spotify.com/artist/7guwpiFaBXNGgNwyrjUidn"
+        },
+        {
+          "name": "Charli Adams",
+          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "Surrender (Whatever Happens)",
+      "url": "https://open.spotify.com/track/4PApvSgyYshDs0phxN6wTm"
     },
     {
       "album": {
@@ -1879,6 +1945,28 @@
     },
     {
       "album": {
+        "name": "The Open",
+        "url": "https://open.spotify.com/album/6BlBi2P0PytpiBZgomnSy8"
+      },
+      "artists": [
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        },
+        {
+          "name": "Sea Saint",
+          "url": "https://open.spotify.com/artist/2weM8AH4zDEOvFPizzkiRg"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "The Open",
+      "url": "https://open.spotify.com/track/5tnueKMmiSK5ESo6CGHMSu"
+    },
+    {
+      "album": {
         "name": "There Are Lines",
         "url": "https://open.spotify.com/album/3R2QhJ69ohxgbDXIIZTXjP"
       },
@@ -1912,6 +2000,24 @@
       "duration_ms": 210200,
       "name": "There Are No Words",
       "url": "https://open.spotify.com/track/4bYnxMZwEvLwgGmyShoCY9"
+    },
+    {
+      "album": {
+        "name": "there for you",
+        "url": "https://open.spotify.com/album/6diOOZ7tCVFCOtARGRXtrN"
+      },
+      "artists": [
+        {
+          "name": "The Band Willa",
+          "url": "https://open.spotify.com/artist/1IX8IgFPoeMCn9Ep4rSkSm"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245812,
+      "name": "there for you",
+      "url": "https://open.spotify.com/track/7GlV2zR7NDBqLvvlVcf0ed"
     },
     {
       "album": {

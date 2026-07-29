@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,414 songs - 2 day 12 hr 52 min
+1,415 songs - 2 day 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,6 +794,7 @@
 | [Magic](https://open.spotify.com/track/4iP7wcTu7BX4JnpwlPxJKk) | [Nexeri](https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU), [J.A.E](https://open.spotify.com/artist/6Ly2uwod1jDkU2I8otUnWa) | [Magic](https://open.spotify.com/album/4Qk20lFrjC7z1B4hcY1pC0) | 2:24 | 2025-09-21 | 2025-12-02 |
 | [Magic](https://open.spotify.com/track/19PWHVgbnzUZjwKlkQwL5S) | [Shoby](https://open.spotify.com/artist/1VF2jmv5aWGszBtIVPt2fT), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Magic](https://open.spotify.com/album/0RsT0bsW3tu6FYdIFEakpn) | 3:00 | 2025-09-28 | 2025-12-02 |
 | [Magical place \(feat\. IOVA\) \- Dj Dark & MD Dj Remix](https://open.spotify.com/track/6fuJ46PG4wJyOQdDPcLSk8) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42), [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD), [IOVA](https://open.spotify.com/artist/6ywdLBfxLvrNw4l25x4Q0O) | [Magical place \(feat\. IOVA\) \[Remixes\]](https://open.spotify.com/album/36gFYJadJDxWNwvo2zwNp7) | 3:08 | 2024-07-30 | 2025-04-22 |
+| [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 | 2026-07-28 |  |
 | [Make It Last](https://open.spotify.com/track/61L5AdFhG0o9JqdubW6uaf) | [Curdz](https://open.spotify.com/artist/3zKKp7w1aPxxA93GCkVbO4), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Make It Last](https://open.spotify.com/album/1cJcA72FdB0IEyj3MmOH1P) | 2:43 | 2025-01-17 | 2025-06-30 |
 | [Make It Up To You](https://open.spotify.com/track/4RODkN4UR4wHsQAxAZmdB3) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B) | [Make It Up To You](https://open.spotify.com/album/3mqqgH5xFQva15hTeR2i5R) | 2:32 | 2023-09-22 | 2024-01-28 |
 | [Make This Last](https://open.spotify.com/track/4tmj9VS29WKSq56ONqkjjs) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [Make This Last](https://open.spotify.com/album/5dBWzddC9YrLlqRHUXjqXZ) | 2:10 | 2024-11-24 | 2025-01-05 |

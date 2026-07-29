@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 266346,
+  "num_followers": 266378,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
+      },
+      "artists": [
+        {
+          "name": "La Oreja de Van Gogh",
+          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
+        }
+      ],
+      "duration_ms": 262840,
+      "name": "El Primer D\u00eda del Resto de Mi Vida - Directo Primera Fila",
+      "url": "https://open.spotify.com/track/3ozuHMral4k7ALNOgPdxQ8"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 247866,
       "name": "Tu Recuerdo (feat. Chambao & Tommy Torres) - MTV Unplugged Version",
       "url": "https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh"
-      },
-      "artists": [
-        {
-          "name": "La Oreja de Van Gogh",
-          "url": "https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "El Primer D\u00eda del Resto de Mi Vida - Directo Primera Fila",
-      "url": "https://open.spotify.com/track/3ozuHMral4k7ALNOgPdxQ8"
     },
     {
       "added_at": "2026-03-06 03:00:23",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-03-06 03:00:23",
       "album": {
-        "name": "Dos Mundos Revoluci\u00f3n En Vivo (Live At El Lunario En La Ciudad De M\u00e9xico/2010)",
-        "url": "https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 257773,
-      "name": "Vamos A Darnos Tiempo - Live At El Lunario En La Ciudad De M\u00e9xico/2010",
-      "url": "https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3"
-    },
-    {
-      "added_at": "2026-03-06 03:00:23",
-      "album": {
         "name": "Primera Fila (En Vivo)",
         "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 205320,
       "name": "Resp\u00f3ndeme T\u00fa (Primera Fila) (feat. Pepe Aguilar) - En Vivo",
       "url": "https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7"
+    },
+    {
+      "added_at": "2026-03-06 03:00:23",
+      "album": {
+        "name": "Dos Mundos Revoluci\u00f3n En Vivo (Live At El Lunario En La Ciudad De M\u00e9xico/2010)",
+        "url": "https://open.spotify.com/album/00toeVbLBW5ZFWTzKZfQ9n"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 257773,
+      "name": "Vamos A Darnos Tiempo - Live At El Lunario En La Ciudad De M\u00e9xico/2010",
+      "url": "https://open.spotify.com/track/6DnpQbM6kELQYZ3jXCayo3"
     },
     {
       "added_at": "2026-03-06 03:00:23",

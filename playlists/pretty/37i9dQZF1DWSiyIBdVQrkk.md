@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in classic and contemporary Reggae\. Cover: Protoje
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,135,465 likes - 110 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,135,272 likes - 110 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 87 | [Inna Di Ghetto](https://open.spotify.com/track/1yKqoyJmeLymK6dLd1Tt9P) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm), [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM) | [Nectar of the Gods](https://open.spotify.com/album/7fTqjHVugWluTJ8Ih9sLeC) | 3:20 |
 | 88 | [Stereo](https://open.spotify.com/track/6LP7QdPw4Ly6neYg4zLKGO) | [Rik Jam](https://open.spotify.com/artist/5s8Z7hEzedh3vepd7dckZv), [Eric Rachmany](https://open.spotify.com/artist/7fLTVZfdwBPBgGkAYdSprM) | [Stereo](https://open.spotify.com/album/1JanzxNHyIWF1fFcqAWxLg) | 4:07 |
 | 89 | [Burn It To The Ground](https://open.spotify.com/track/5AeNzsPgqpZcAYRTdfLRYj) | [Mortimer](https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv), [Paris La Mont](https://open.spotify.com/artist/5vo2PcCvrUAkwDq3QFWI2e) | [Burn It To The Ground](https://open.spotify.com/album/7JIlW2igRiyuOPEUrD8eGg) | 4:44 |
-| 90 | [Bad Dreams](https://open.spotify.com/track/0iYz835jZ1PKFs8BAwikFz) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Crawba Genius](https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf) | [Bad Dreams](https://open.spotify.com/album/2fXdXcYiFoDrb8VKXPDRQY) | 2:58 |
-| 91 | [World Citizen \(with Kabaka Pyramid\)](https://open.spotify.com/track/5dtRT20P8nkuqHKAOqUYNt) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [World Citizen \(with Kabaka Pyramid\)](https://open.spotify.com/album/3HaSEyHGfuqx6AEwQql9BC) | 3:10 |
+| 90 | [World Citizen \(with Kabaka Pyramid\)](https://open.spotify.com/track/5dtRT20P8nkuqHKAOqUYNt) | [Irie Souljah](https://open.spotify.com/artist/1Qfee1zwAFUrtaaPMbkpsw), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [World Citizen \(with Kabaka Pyramid\)](https://open.spotify.com/album/3HaSEyHGfuqx6AEwQql9BC) | 3:10 |
+| 91 | [Bad Dreams](https://open.spotify.com/track/0iYz835jZ1PKFs8BAwikFz) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Crawba Genius](https://open.spotify.com/artist/3mHwREJlcPKL8zgLzVUGHf) | [Bad Dreams](https://open.spotify.com/album/2fXdXcYiFoDrb8VKXPDRQY) | 2:58 |
 | 92 | [Long Way](https://open.spotify.com/track/2i6JorkVOB5j2jomwn3gdK) | [Akina Eman](https://open.spotify.com/artist/3D7ASE3XdxMcDku4h2XLIV) | [Long Way](https://open.spotify.com/album/3piQF9NVrTMKZtht7or25Y) | 2:48 |
 | 93 | [Don't Show Off](https://open.spotify.com/track/6g1OFTxXHuWE1kJQ8qlXhH) | [Willi Williams](https://open.spotify.com/artist/2ZC3u6r4u6ELXjiAjI6qNe), [Roberto Sanchez](https://open.spotify.com/artist/0YZyBm5ikMVwt7ulExBTPk) | [Don't Show Off](https://open.spotify.com/album/7iQGwbsoke1zy9TXtXrWhm) | 4:00 |
 | 94 | [Pressure Drop](https://open.spotify.com/track/7gNIW0iH8pm2OeLnt5t50s) | [The Kingston Lions](https://open.spotify.com/artist/2qpNhfxg0P5LfaFZu3Fbuj), [MitchDiSinga](https://open.spotify.com/artist/2JN43oD21CvXIH5OD0RqNp) | [Pressure Drop](https://open.spotify.com/album/4tndZMWvAQHLGll8cQ6Z7J) | 3:05 |
@@ -112,11 +112,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 102 | [Beach In Hawaii](https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI) | 3:40 |
 | 103 | [I Wish You Were Here](https://open.spotify.com/track/4AVIdds2A4E4UsZcVU0Uso) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/7CoH3Na9J73DUay9gLU4fk) | 4:27 |
 | 104 | [Turn Your Lights Down Low](https://open.spotify.com/track/1ILZVxd4FCgURhwRRNKQ85) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [Chant Down Babylon](https://open.spotify.com/album/3P9TIaf3gZfBhIIUpAqbBD) | 5:46 |
-| 105 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
-| 106 | [Israelites](https://open.spotify.com/track/0di7hMT6o1ogeUN1XDB9Ft) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Israelites](https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX) | 2:35 |
-| 107 | [Welcome To Jamrock](https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5) | 3:33 |
-| 108 | [World A Reggae Music](https://open.spotify.com/track/3Gym3Rtm6FHpTrLlJTcz3j) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Black Star](https://open.spotify.com/album/4vwPhmk9UeW85CnLXexdrB) | 3:44 |
+| 105 | [Israelites](https://open.spotify.com/track/0di7hMT6o1ogeUN1XDB9Ft) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Israelites](https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX) | 2:35 |
+| 106 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
+| 107 | [World A Reggae Music](https://open.spotify.com/track/3Gym3Rtm6FHpTrLlJTcz3j) | [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Black Star](https://open.spotify.com/album/4vwPhmk9UeW85CnLXexdrB) | 3:44 |
+| 108 | [Welcome To Jamrock](https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5) | 3:33 |
 | 109 | [Could You Be Loved](https://open.spotify.com/track/3yoWBFuanYVmwbJ4jF0AQi) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(The Definitive Remasters\)](https://open.spotify.com/album/4qsXcmAgPNSliu6oMQGOQ9) | 3:57 |
-| 110 | [Murder She Wrote \(Original Mix\)](https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Murder She Wrote Single](https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ) | 4:07 |
+| 110 | [You Can Get It If You Really Want](https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Harder They Come](https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K) | 2:38 |
 
 Snapshot ID: `AAAAAHiwbR+4ntnw96cZ+FRbbqNcm3rI`

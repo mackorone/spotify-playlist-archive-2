@@ -1,6 +1,6 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: The Smiths",
-  "num_followers": 1276537,
+  "num_followers": 1276564,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
-    },
-    {
-      "added_at": "2025-01-14 03:34:33",
-      "album": {
         "name": "Gold - The Best of Spandau Ballet",
         "url": "https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2025-01-14 03:34:33",
       "album": {
-        "name": "Pretenders",
-        "url": "https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw"
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 322906,
-      "name": "Mystery Achievement - 2006 Remaster",
-      "url": "https://open.spotify.com/track/2xTk109VtSva8rmQvb2Esn"
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
     },
     {
       "added_at": "2025-01-14 03:34:33",
@@ -1211,6 +1195,22 @@
       "duration_ms": 151520,
       "name": "Janitor",
       "url": "https://open.spotify.com/track/4qIrNr9OnHrQhpODZcmulH"
+    },
+    {
+      "added_at": "2025-01-14 03:34:33",
+      "album": {
+        "name": "Pretenders",
+        "url": "https://open.spotify.com/album/6AFFu3ilmlEDz1I9ZaNOZw"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 322906,
+      "name": "Mystery Achievement - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2xTk109VtSva8rmQvb2Esn"
     }
   ],
   "unique_name": "Early Alternative",

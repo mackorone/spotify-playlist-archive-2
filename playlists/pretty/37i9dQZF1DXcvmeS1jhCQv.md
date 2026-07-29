@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: F3miii
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,324 likes - 101 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,389 likes - 101 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 5 | [Comes and Goes](https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Comes and Goes](https://open.spotify.com/album/4hKZm0EEZeOi7tbUhXTeCs) | 4:22 |
 | 6 | [The Sun Will Never Settle](https://open.spotify.com/track/23SqhGYsqaZJNbDSc17wqA) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [The Sun Will Never Settle](https://open.spotify.com/album/5ybKWN5Ak1M3x0AOirxdaH) | 2:28 |
 | 7 | [FENIAN](https://open.spotify.com/track/6ge8SJfGh8Z2EfhGn4lIba) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [FENIAN](https://open.spotify.com/album/0z5uyAUrflFAnjBR2EhW9J) | 3:14 |
-| 8 | [day's end](https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [day's end](https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam) | 3:01 |
-| 9 | [Look Into My Eyes](https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Look Into My Eyes](https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9) | 2:56 |
+| 8 | [Dinner Party](https://open.spotify.com/track/2fiX9ZABxD0mrhI9DKZOrt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z) | 2:34 |
+| 9 | [day's end](https://open.spotify.com/track/1tTnHwzbrZ0oQHsCCE0RaT) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [day's end](https://open.spotify.com/album/0g2mNIPGRMkRESJFDTgnam) | 3:01 |
 | 10 | [When A Good Man Cries](https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [EURO\-COUNTRY](https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag) | 4:32 |
-| 11 | [bobinov](https://open.spotify.com/track/6ZaSKP0IY1A3YRkJu9Cl1M) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [bobinov](https://open.spotify.com/album/5PHuY5AW0Emk7RmBuhVbQG) | 3:10 |
-| 12 | [Dinner Party](https://open.spotify.com/track/2fiX9ZABxD0mrhI9DKZOrt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/51ihz2jRNQwzVyqtFQRN3Z) | 2:34 |
+| 11 | [Look Into My Eyes](https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Look Into My Eyes](https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9) | 2:56 |
+| 12 | [bobinov](https://open.spotify.com/track/6ZaSKP0IY1A3YRkJu9Cl1M) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd) | [bobinov](https://open.spotify.com/album/5PHuY5AW0Emk7RmBuhVbQG) | 3:10 |
 | 13 | [Kick The Curb](https://open.spotify.com/track/0VjvyzMoleGvCVtGnJQI6O) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [Kick The Curb](https://open.spotify.com/album/5mr4cqipb96XwX12Flio21) | 4:11 |
 | 14 | [remember my name](https://open.spotify.com/track/5xmNuWZX1YTmuqH0V8Nlw3) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [remember my name](https://open.spotify.com/album/5xylOGmCjHPVBpPpo0SpbN) | 3:41 |
 | 15 | [PROJECT X](https://open.spotify.com/track/6bUDwiziH8FPZWse4qsZbM) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [PROJECT X](https://open.spotify.com/album/6NoHuyyFKP4bN80iQJ8s9E) | 3:48 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 100 | [Slow It Down](https://open.spotify.com/track/6wNsQL63SDzUv3AWjiBL0c) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Slow It Down / She Don't Wanna Go Tape](https://open.spotify.com/album/6Rf7Cqeih99GsskCOn9oEl) | 1:38 |
 | 101 | [I Like You](https://open.spotify.com/track/1F3M1n8k9AzmqqPiJVyZju) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [I Like You](https://open.spotify.com/album/50sVHuzirT8bCwAqYJnmSJ) | 4:14 |
 
-Snapshot ID: `AAAAAP/KVosi4XCVgSPTfYLYZGAxY2ZC`
+Snapshot ID: `AAAAAK8oJtxJRgDlKuvY6KxC6Kk3aLJ+`

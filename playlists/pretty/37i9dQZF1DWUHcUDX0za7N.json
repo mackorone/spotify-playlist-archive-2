@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Zaylevelten",
-  "num_followers": 84898,
+  "num_followers": 84915,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 193087,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/2lkWbvwdxXlC93cXaSLnfI"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -883,22 +899,6 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
-        "name": "Business",
-        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 193087,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/2lkWbvwdxXlC93cXaSLnfI"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
         "name": "Never Fold",
         "url": "https://open.spotify.com/album/6gBxO7tfLHurwBh11efMwq"
       },
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-07-24 00:01:49",
       "album": {
-        "name": "Many People",
-        "url": "https://open.spotify.com/album/70JkP23kQm8ufn4XS6Bv0q"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
-        }
-      ],
-      "duration_ms": 175448,
-      "name": "Many People",
-      "url": "https://open.spotify.com/track/33Bn3hhHkfVFKojsg41kb2"
-    },
-    {
-      "added_at": "2026-07-24 00:01:49",
-      "album": {
         "name": "Children of Africa",
         "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 134265,
       "name": "Aimoye",
       "url": "https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES"
+    },
+    {
+      "added_at": "2026-07-24 00:01:49",
+      "album": {
+        "name": "Many People",
+        "url": "https://open.spotify.com/album/70JkP23kQm8ufn4XS6Bv0q"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "duration_ms": 175448,
+      "name": "Many People",
+      "url": "https://open.spotify.com/track/33Bn3hhHkfVFKojsg41kb2"
     },
     {
       "added_at": "2026-07-24 00:01:49",

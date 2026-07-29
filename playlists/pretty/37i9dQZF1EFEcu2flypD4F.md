@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,543 likes - 345 songs - 21 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,545 likes - 345 songs - 21 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,8 +195,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 185 | [Warrior](https://open.spotify.com/track/5EpvQcpMPOJbIAdbtDmxxS) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [The Architect \(Zeitgeist Edition\)](https://open.spotify.com/album/6jXWfehoSTsRDXExVJMeAh) | 3:44 |
 | 186 | [Moonquake Lake](https://open.spotify.com/track/5k6nO1xvzgfktS4Ay9iQrC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW) | 2:53 |
 | 187 | [The Pageant Of The Bizarre](https://open.spotify.com/track/6Um14Fu4pSrC2SXVyk0EpT) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden](https://open.spotify.com/album/4tHTOAOfnaxjdLZud0rS5o) | 4:21 |
-| 188 | [Let Your Tears Fall](https://open.spotify.com/track/6rpEn1b8ompD8bDLNCgcsE) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON) | 3:55 |
-| 189 | [My Love](https://open.spotify.com/track/12fhoVZVdkivt1em7B90Hi) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 5:11 |
+| 188 | [My Love](https://open.spotify.com/track/12fhoVZVdkivt1em7B90Hi) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 5:11 |
+| 189 | [Let Your Tears Fall](https://open.spotify.com/track/6rpEn1b8ompD8bDLNCgcsE) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Piece By Piece \(Deluxe Version\)](https://open.spotify.com/album/7oKtXc3FkeOZTCB88YugON) | 3:55 |
 | 190 | [Don't Bring Me Down](https://open.spotify.com/track/5NnE3oUpSAqu6l0Ykh17Aq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:24 |
 | 191 | [Cloud](https://open.spotify.com/track/2FJbI3eMCaEmvNFpcmDLys) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 3:43 |
 | 192 | [The Co\-Dependent](https://open.spotify.com/track/3YmGYGEvtVYxOH0cjNKf2I) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [We Are Born](https://open.spotify.com/album/2sefE1XYR7ox1JTKCPerSI) | 2:55 |
@@ -293,8 +293,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 283 | [Insidiously](https://open.spotify.com/track/5TG35p7Ns9LJYa7Wkfcujf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Healing Is Difficult \(10th Anniversary Edition\)](https://open.spotify.com/album/0v1UhTkwjhmUYOFotlws6c) | 8:50 |
 | 284 | [Dim The Lights](https://open.spotify.com/track/7EvMgSKZFwMKyu7IhvBlC8) | [Creep](https://open.spotify.com/artist/7uxdd0kdUdXLwkJKBQkVtP) | [Echoes](https://open.spotify.com/album/7N2cWgNd4fFlaMKmiK61N5) | 3:26 |
 | 285 | [EKG](https://open.spotify.com/track/55S2afBJphP7SDXpvy3MJb) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 2:32 |
-| 286 | [Blame \- Remix](https://open.spotify.com/track/4YpFggSyngPlmanTE8N1wx) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [100 Gym & Fitness Workout Hits! Playlist](https://open.spotify.com/album/2dtcOB8BUBr0QPjTBvn2VF) | 4:23 |
-| 287 | [Chakzilla](https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH) | 3:27 |
+| 286 | [Chakzilla](https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH) | 3:27 |
+| 287 | [Blame \- Remix](https://open.spotify.com/track/4YpFggSyngPlmanTE8N1wx) | [Workout Music](https://open.spotify.com/artist/5njMahLKD1tLJ5bejvqseV) | [100 Gym & Fitness Workout Hits! Playlist](https://open.spotify.com/album/2dtcOB8BUBr0QPjTBvn2VF) | 4:23 |
 | 288 | [Arrested](https://open.spotify.com/track/4QyLWuSvxBPuB9xCh6UzmV) | [Love Thy Brother](https://open.spotify.com/artist/5dCJGRjhOrGxfKKGJCpsCg), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Arrested](https://open.spotify.com/album/446Cf1gow9Pw3OtrdpTVFJ) | 3:57 |
 | 289 | [So Bored](https://open.spotify.com/track/14qXiDDx2O55oH06iH9j3W) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One \(Deluxe Edition\)](https://open.spotify.com/album/5ywlzsK6ga8Drc8RbSI0KX) | 3:09 |
 | 290 | [The Day That You Moved On](https://open.spotify.com/track/1CYMElUHejbDrAkPx6g7ZR) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [TQX](https://open.spotify.com/artist/1kDuoI1Eqt7R8xXuUAGAd7), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Global Intimacy](https://open.spotify.com/album/6vRNDhVToXjZbxKyyIajWM) | 3:21 |
@@ -311,8 +311,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 301 | [Titanium \(Nina Sofie Version\)](https://open.spotify.com/track/6JVj1kLMutHGrDDP1vsdys) | [Nina Sofie](https://open.spotify.com/artist/3lJmsswS82rAa5qaOyrICa) | [Titanium \(Nina Sofie Version\)](https://open.spotify.com/album/5KDJEzHwSvD9yi7f8XQ7z8) | 3:32 |
 | 302 | [Plaster](https://open.spotify.com/track/2pofAwAUipRcvvlMDS8Ftq) | [Marco Carola](https://open.spotify.com/artist/2p8O7NCyfWf1sIZamrU9N1) | [The Tribe](https://open.spotify.com/album/1AsyuED8iHFezYSTEDNVkV) | 7:46 |
 | 303 | [I Will Get Over You](https://open.spotify.com/track/2EuVDGZ3aLtGen3jiYUHlE) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [When You Grow Up](https://open.spotify.com/album/40VVhYrRI1I7OWWIJwhtcw) | 3:42 |
-| 304 | [Galaxy \- Gawler Remix / Radio Edit](https://open.spotify.com/track/3FQhlhZK98XKIPEyZ1AySj) | [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6), [Gawler](https://open.spotify.com/artist/0ZWeSRSlrHHs0thSzvAfyp) | [Galaxy \(Gawler Remix\)](https://open.spotify.com/album/3WLcNk9ZWrMry1tKdSjBGH) | 3:44 |
-| 305 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 304 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 305 | [Galaxy \- Gawler Remix / Radio Edit](https://open.spotify.com/track/3FQhlhZK98XKIPEyZ1AySj) | [Dannii Minogue](https://open.spotify.com/artist/6XCS9JCn56Q252cMOTbeq6), [Gawler](https://open.spotify.com/artist/0ZWeSRSlrHHs0thSzvAfyp) | [Galaxy \(Gawler Remix\)](https://open.spotify.com/album/3WLcNk9ZWrMry1tKdSjBGH) | 3:44 |
 | 306 | [Private Girl](https://open.spotify.com/track/0y32B17hxkjYNo79sovw5F) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 3:38 |
 | 307 | [Secrets](https://open.spotify.com/track/6y1ewbLHpJNL9LIA1lX4HM) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw) | [For Lovers, Dreamers & Me](https://open.spotify.com/album/71lxWlnwM9mIm2RBT4yPnG) | 4:54 |
 | 308 | [Thistles](https://open.spotify.com/track/1DG2Y8FQFxV9JF910iwvRy) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Garden \(Special Edition\)](https://open.spotify.com/album/0rE1U1JpelacpberZnhXT0) | 3:38 |
@@ -354,4 +354,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 344 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 345 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcYAagAAAADfpFPPFmEycH6taZVATlVk`
+Snapshot ID: `AcYGCgAAAACLf67hPAR7uWp2Igm01xMv`

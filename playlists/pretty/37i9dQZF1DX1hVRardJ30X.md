@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Remers & Jay Wheeler, KAROL G, Lunay & Omar Courtz, Ryan Castro, ARIA VEGA & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,984 likes - 43 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,018 likes - 43 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 2 | [que te vaya bien](https://open.spotify.com/track/58LiAJyT6hMMUzW0npHfzY) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [que te vaya bien](https://open.spotify.com/album/1vlompiT1FQLKGUnUTKHme) | 3:14 |
 | 3 | [MI BB](https://open.spotify.com/track/6bmhecXBNupQjLC1QnvLxU) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [MI BB](https://open.spotify.com/album/2Jr3nTZOyITGzoZJ98LODA) | 3:52 |
 | 4 | [MILLONETA](https://open.spotify.com/track/2DNN1f2MOdTYWY1GnST9kr) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Raven la R](https://open.spotify.com/artist/0CfmWLXx6Ttp9rNUggslVq) | [MILLONETA](https://open.spotify.com/album/24GhQrJxVWIbnRNLCrvdLx) | 2:40 |
-| 5 | [Azul](https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 3:22 |
+| 5 | [Azul \(Spanish\)](https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 3:22 |
 | 6 | [Pa la Maña](https://open.spotify.com/track/0ggQhh7y2cWtud9Wg45tvl) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Pa la Maña](https://open.spotify.com/album/0Nqi2OJOdFPu9MzUudp9MC) | 2:39 |
 | 7 | [TOTOTO \(+4\)](https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TOTOTO \(+4\)](https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab) | 2:18 |
 | 8 | [principiante](https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [principiante](https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU) | 3:25 |

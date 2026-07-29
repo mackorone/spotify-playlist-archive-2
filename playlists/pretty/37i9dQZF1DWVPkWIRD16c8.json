@@ -1,6 +1,6 @@
 {
   "description": "Let Jesus take the wheel...and the aux cord! ",
-  "num_followers": 263166,
+  "num_followers": 263274,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-07-25 02:22:47",
       "album": {
-        "name": "Everything I Thought Was Pleasure",
-        "url": "https://open.spotify.com/album/2yRSWoDOE8OJUEVA0ZugIq"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 205882,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/5PrEButzavdedQm4euqZFd"
-    },
-    {
-      "added_at": "2026-07-25 02:22:47",
-      "album": {
         "name": "Everything Good",
         "url": "https://open.spotify.com/album/0WmDtpLTNOAW1PANlncdBE"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 202164,
       "name": "Can't Lose",
       "url": "https://open.spotify.com/track/2PjC4t9Kp4hIJ2h9DkL5Dp"
+    },
+    {
+      "added_at": "2026-07-25 02:22:47",
+      "album": {
+        "name": "Everything I Thought Was Pleasure",
+        "url": "https://open.spotify.com/album/2yRSWoDOE8OJUEVA0ZugIq"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 205882,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/5PrEButzavdedQm4euqZFd"
     },
     {
       "added_at": "2026-07-25 02:22:47",
@@ -687,38 +687,6 @@
     {
       "added_at": "2026-07-25 02:22:47",
       "album": {
-        "name": "APPETITE",
-        "url": "https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 209376,
-      "name": "APPETITE",
-      "url": "https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO"
-    },
-    {
-      "added_at": "2026-07-25 02:22:47",
-      "album": {
-        "name": "eyes on Him",
-        "url": "https://open.spotify.com/album/16MHfnw3yjWsdgXk5Y0cbI"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 192002,
-      "name": "eyes on Him",
-      "url": "https://open.spotify.com/track/34f6dHA4FwE1yrmBcKiV73"
-    },
-    {
-      "added_at": "2026-07-25 02:22:47",
-      "album": {
         "name": "Twenty Something",
         "url": "https://open.spotify.com/album/22QHxalHn2nMiSqQXhulPh"
       },
@@ -735,6 +703,22 @@
     {
       "added_at": "2026-07-25 02:22:47",
       "album": {
+        "name": "APPETITE",
+        "url": "https://open.spotify.com/album/01eQX7mtZbpWuEjsV9Hizf"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 209376,
+      "name": "APPETITE",
+      "url": "https://open.spotify.com/track/07IXgUhCqweDxkuhZ5XLqO"
+    },
+    {
+      "added_at": "2026-07-25 02:22:47",
+      "album": {
         "name": "Well Done",
         "url": "https://open.spotify.com/album/71FvmMr5uZoUuYSaRHwSo3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 166000,
       "name": "Well Done",
       "url": "https://open.spotify.com/track/5GNTb6qrTZr20saXzuamt6"
+    },
+    {
+      "added_at": "2026-07-25 02:22:47",
+      "album": {
+        "name": "eyes on Him",
+        "url": "https://open.spotify.com/album/16MHfnw3yjWsdgXk5Y0cbI"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 192002,
+      "name": "eyes on Him",
+      "url": "https://open.spotify.com/track/34f6dHA4FwE1yrmBcKiV73"
     },
     {
       "added_at": "2026-07-25 02:22:47",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2026-07-25 02:22:47",
       "album": {
+        "name": "The Way Up",
+        "url": "https://open.spotify.com/album/4opJFfHqBjhRZsOZwQgG4j"
+      },
+      "artists": [
+        {
+          "name": "Neal Carpenter",
+          "url": "https://open.spotify.com/artist/2hdb7np5QuW5y5fPG7Dnp8"
+        },
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 252521,
+      "name": "The Way Up",
+      "url": "https://open.spotify.com/track/596sgQk0ouzDnaXouhLRPX"
+    },
+    {
+      "added_at": "2026-07-25 02:22:47",
+      "album": {
         "name": "Everything_",
         "url": "https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1"
       },
@@ -1227,22 +1247,6 @@
     {
       "added_at": "2026-07-25 02:22:47",
       "album": {
-        "name": "Oklahoma",
-        "url": "https://open.spotify.com/album/6TryrnzGC2Ud4DorIe5gZq"
-      },
-      "artists": [
-        {
-          "name": "Ryan Stevenson",
-          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
-        }
-      ],
-      "duration_ms": 232804,
-      "name": "Oklahoma",
-      "url": "https://open.spotify.com/track/1WXHHQim1F23dML0yFIUt5"
-    },
-    {
-      "added_at": "2026-07-25 02:22:47",
-      "album": {
         "name": "Why Do You Love Me?",
         "url": "https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh"
       },
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2026-07-25 02:22:47",
       "album": {
-        "name": "The Way Up",
-        "url": "https://open.spotify.com/album/4opJFfHqBjhRZsOZwQgG4j"
+        "name": "Oklahoma",
+        "url": "https://open.spotify.com/album/6TryrnzGC2Ud4DorIe5gZq"
       },
       "artists": [
         {
-          "name": "Neal Carpenter",
-          "url": "https://open.spotify.com/artist/2hdb7np5QuW5y5fPG7Dnp8"
-        },
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
         }
       ],
-      "duration_ms": 252521,
-      "name": "The Way Up",
-      "url": "https://open.spotify.com/track/596sgQk0ouzDnaXouhLRPX"
+      "duration_ms": 232804,
+      "name": "Oklahoma",
+      "url": "https://open.spotify.com/track/1WXHHQim1F23dML0yFIUt5"
     },
     {
       "added_at": "2026-07-25 02:22:47",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-07-25 02:22:47",
       "album": {
-        "name": "Brighter Days (New Day Edition)",
-        "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 185874,
-      "name": "Brighter Days - New Day Edition",
-      "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
-    },
-    {
-      "added_at": "2026-07-25 02:22:47",
-      "album": {
         "name": "Don't Let The Darkness",
         "url": "https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 196960,
       "name": "Don't Let The Darkness",
       "url": "https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF"
+    },
+    {
+      "added_at": "2026-07-25 02:22:47",
+      "album": {
+        "name": "Brighter Days (New Day Edition)",
+        "url": "https://open.spotify.com/album/1PdlFt6ydY874VcFSz3ZlL"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 185874,
+      "name": "Brighter Days - New Day Edition",
+      "url": "https://open.spotify.com/track/04Hzyc0EwQxRcDpoYP0yct"
     },
     {
       "added_at": "2026-07-25 02:22:47",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-07-25 02:22:47",
       "album": {
-        "name": "getting somewhere",
-        "url": "https://open.spotify.com/album/7ga4VEdipwbDU0CdjmyGQ9"
-      },
-      "artists": [
-        {
-          "name": "Cross Gray",
-          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "getting somewhere",
-      "url": "https://open.spotify.com/track/3zlH1V1AgpsbqANEgWUz6k"
-    },
-    {
-      "added_at": "2026-07-25 02:22:47",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 213717,
       "name": "The Heat",
       "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
+    },
+    {
+      "added_at": "2026-07-25 02:22:47",
+      "album": {
+        "name": "getting somewhere",
+        "url": "https://open.spotify.com/album/7ga4VEdipwbDU0CdjmyGQ9"
+      },
+      "artists": [
+        {
+          "name": "Cross Gray",
+          "url": "https://open.spotify.com/artist/1jmJ7gGsC5tgoQYXDnXArP"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "getting somewhere",
+      "url": "https://open.spotify.com/track/3zlH1V1AgpsbqANEgWUz6k"
     },
     {
       "added_at": "2026-07-25 02:22:47",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2026-07-25 02:22:47",
       "album": {
-        "name": "oasis for my soul",
-        "url": "https://open.spotify.com/album/0vJOrqWFbDnsSUXGRrkPyt"
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
       },
       "artists": [
         {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 136839,
-      "name": "oasis for my soul",
-      "url": "https://open.spotify.com/track/5OO0LZ2apmNZE3j6LFfLqf"
+      "duration_ms": 248960,
+      "name": "We Could Run Away",
+      "url": "https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk"
     }
   ],
   "unique_name": "Christian Road Trip",

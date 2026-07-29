@@ -1,6 +1,6 @@
 {
   "description": "The Biggest Afrobeats festival in World ",
-  "num_followers": 25268,
+  "num_followers": 25346,
   "original_name": "Afro Nation 2026",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 143644,
-      "name": "Wa",
-      "url": "https://open.spotify.com/track/5KX0YeCNKaOc3XhhDHi3mI"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "While We Wait",
         "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 201787,
       "name": "Nights Like This (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 143644,
+      "name": "Wa",
+      "url": "https://open.spotify.com/track/5KX0YeCNKaOc3XhhDHi3mI"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "M$NEY",
-        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 167349,
-      "name": "Oba",
-      "url": "https://open.spotify.com/track/59zlaPDhvE414BZ82AFjH5"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 202414,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "M$NEY",
+        "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 167349,
+      "name": "Oba",
+      "url": "https://open.spotify.com/track/59zlaPDhvE414BZ82AFjH5"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 182142,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
         "name": "HEARTS SOLD SEPARATELY",
         "url": "https://open.spotify.com/album/0gZVv6enPZhdDz7vrzwhZP"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 182142,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -423,6 +423,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "HEARTS SOLD SEPARATELY",
+        "url": "https://open.spotify.com/album/7iCUKkBNdsO1KP4RWWSao2"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 206027,
+      "name": "Burning Blue",
+      "url": "https://open.spotify.com/track/1WBD2KNkYu880G7ElAituh"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "M$NEY",
         "url": "https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 143575,
       "name": "BADMAN GANGSTA",
       "url": "https://open.spotify.com/track/13tBZxRsywcJPDo4w7DtEd"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "HEARTS SOLD SEPARATELY",
-        "url": "https://open.spotify.com/album/7iCUKkBNdsO1KP4RWWSao2"
-      },
-      "artists": [
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 206027,
-      "name": "Burning Blue",
-      "url": "https://open.spotify.com/track/1WBD2KNkYu880G7ElAituh"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1371,18 +1371,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Mondongo",
-        "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
+        "name": "Gentility",
+        "url": "https://open.spotify.com/album/5xHAJFZs4692uGn0j79eRZ"
       },
       "artists": [
         {
-          "name": "Awilo Longomba",
-          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 272213,
-      "name": "Karolina",
-      "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
+      "duration_ms": 225729,
+      "name": "Gentility",
+      "url": "https://open.spotify.com/track/2Zyayzb8BPHBXZk14W4HPn"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1411,22 +1415,18 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
-        "name": "Gentility",
-        "url": "https://open.spotify.com/album/5xHAJFZs4692uGn0j79eRZ"
+        "name": "Mondongo",
+        "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
       },
       "artists": [
         {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Awilo Longomba",
+          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
         }
       ],
-      "duration_ms": 225729,
-      "name": "Gentility",
-      "url": "https://open.spotify.com/track/2Zyayzb8BPHBXZk14W4HPn"
+      "duration_ms": 272213,
+      "name": "Karolina",
+      "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
     },
     {
       "added_at": "2026-06-30 14:51:43",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-06-30 14:51:43",
       "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 152824,
+      "name": "Kilometre",
+      "url": "https://open.spotify.com/track/6xwQng3m1S1xwZR8afMzHI"
+    },
+    {
+      "added_at": "2026-06-30 14:51:43",
+      "album": {
         "name": "Coup\u00e9 bibamba",
         "url": "https://open.spotify.com/album/5LmpNCsae8Eti1itcgku5b"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 263933,
       "name": "Coup\u00e9 bibamba",
       "url": "https://open.spotify.com/track/3zhPISNwKZVIQ4Td0U3mah"
-    },
-    {
-      "added_at": "2026-06-30 14:51:43",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 152824,
-      "name": "Kilometre",
-      "url": "https://open.spotify.com/track/6xwQng3m1S1xwZR8afMzHI"
     },
     {
       "added_at": "2026-06-30 14:51:43",

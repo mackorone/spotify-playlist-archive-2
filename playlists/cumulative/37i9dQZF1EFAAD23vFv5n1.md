@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-192 songs - 9 hr 21 min
+198 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,12 @@
 | [Islanda](https://open.spotify.com/track/0JiJbbKU6RTYJXMBI34UzM) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:37 | 2025-08-27 |  |
 | [Joanne](https://open.spotify.com/track/60cfIuNFwncEEJOCWoFxx8) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/3F8GHkZjiGX9djLFSAGgW9) | 3:19 | 2024-04-29 |  |
 | [Katholisch Erzogen](https://open.spotify.com/track/3XJWENXsyuxRwSdCT57z6f) | [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN) | [Katholisch Erzogen](https://open.spotify.com/album/1G00lF8JYRNgpzQDfFdIXD) | 2:13 | 2024-04-29 |  |
+| [ko eco](https://open.spotify.com/track/1bt6MOJL5vrzcUXBEorDiN) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:55 | 2026-07-28 |  |
+| [ko espira](https://open.spotify.com/track/2XtDmNRz3wyGDLqyCyN38u) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 2:36 | 2026-07-28 |  |
+| [ko follia](https://open.spotify.com/track/2aUm2CWgU1y90FBiz4GVlH) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:07 | 2026-07-28 |  |
+| [ko improvviso](https://open.spotify.com/track/6Mp0N2s3xfqnyx9feDmJ0z) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:03 | 2026-07-28 |  |
 | [ko musica](https://open.spotify.com/track/4PHNOUxmjBotWtAlaFVaZd) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:11 | 2026-07-27 |  |
+| [ko penso](https://open.spotify.com/track/2KV0yWfr01Lgo8VeGbBIet) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:18 | 2026-07-28 |  |
 | [LA NOTTE](https://open.spotify.com/track/3dK7LjirF5LVopSoO45dgN) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 3:05 | 2024-04-29 |  |
 | [La Verità](https://open.spotify.com/track/4zsg78rgHmPCw4IqQ5w0ME) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:57 | 2024-06-10 |  |
 | [Labbra blu \(feat\. YTAM\)](https://open.spotify.com/track/19IZq1j2WflYlidjB26DpU) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DEFAULT](https://open.spotify.com/album/3i83xKoFsymSxIkxoKm9pB) | 2:34 | 2025-08-22 |  |
@@ -115,6 +120,7 @@
 | [Mommy](https://open.spotify.com/track/7uZc3XPxJgJj1eOFFNIuyN) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [In Memoria](https://open.spotify.com/album/2JpboxeGrgW2joLcSNmXht) | 1:59 | 2024-04-29 |  |
 | [MOSTRO v1](https://open.spotify.com/track/0ZdUODyFd2KvPe1kt9sW7Q) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [ANATOMIA CRISTALLO](https://open.spotify.com/album/1N415WHcfPHdYbqDGh711H) | 3:11 | 2025-01-09 |  |
 | [Mr\. Nobody](https://open.spotify.com/track/2nKAJsGygU8lWxd8VE6kjU) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [1998](https://open.spotify.com/album/5nQff1e9q2Tcsa4bEyWXMa) | 3:03 | 2025-09-12 |  |
+| [nelle tue piscine \(okgiorgio rework\)](https://open.spotify.com/track/3ypRJXKSJRWeYX8cbRoJtp) | [Giorgio Poi](https://open.spotify.com/artist/422Vo1v0NaW7ZVU8EwvhKW), [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [Schegge \(reworks\)](https://open.spotify.com/album/25vPu3n3hPmCtjFvEMUr6f) | 3:44 | 2026-07-28 |  |
 | [Nessuno](https://open.spotify.com/track/3GjK6xL9L2u0DTZtJ17hyp) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [Nessuno](https://open.spotify.com/album/5Ev6Kga0Mc8swJ7u9JPSPU) | 2:19 | 2024-04-29 |  |
 | [Nevica](https://open.spotify.com/track/3xPLkr2ZxSsIBxbTv0zluy) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Hello World](https://open.spotify.com/album/79HurwZ9TQ8y5jrWlUDrIE) | 3:08 | 2025-08-26 |  |
 | [Ninna Nanna Triste](https://open.spotify.com/track/2bthDKc7nePa2aChDXjiMB) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:19 | 2024-06-06 |  |

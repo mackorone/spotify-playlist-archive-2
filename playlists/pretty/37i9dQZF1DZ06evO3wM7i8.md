@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,581 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,587 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 5 | [Django's Tiger](https://open.spotify.com/track/7D0Vzk7rZ6ncTFZj3AqT84) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol15 / 1946 \- 1947](https://open.spotify.com/album/1sUg8G0j9lPHSQExj5Q797) | 2:38 |
 | 6 | [Honeysuckle Rose](https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Hawkins C\. All Star Jam Band](https://open.spotify.com/artist/5X1Mxd7SrBRbdsT9i1AxN4) | [Djangologie Vol.4 / 1937](https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI) | 2:46 |
 | 7 | [What a Difference a Day Makes](https://open.spotify.com/track/3C9bNCnxHvUEVELsUvKGyy) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [All Star Sessions](https://open.spotify.com/album/1xUtY0bgOkiu3CS96r6pi3) | 3:23 |
-| 8 | [Farewell Blues](https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Djangologie Vol7 / 1937 \- 1938](https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F) | 3:14 |
-| 9 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangology 49](https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq) | 4:16 |
+| 8 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangology 49](https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq) | 4:16 |
+| 9 | [Farewell Blues](https://open.spotify.com/track/18UTGJRLXYN0MwH1UeZUF0) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [Djangologie Vol7 / 1937 \- 1938](https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F) | 3:14 |
 | 10 | [St\. Louis Blues](https://open.spotify.com/track/2EnHd4gc4u4Ks9hhuNuy5B) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol5 / 1937](https://open.spotify.com/album/4zXNqwdURbAjxf3lngaosQ) | 2:42 |
 | 11 | [Coucou](https://open.spotify.com/track/0e7Ad0iVKsuzU3K7LU5v08) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn) | [War Clouds 1940](https://open.spotify.com/album/3EBERH7EzZK7zFN2PvOoEx) | 2:43 |
 | 12 | [Billets Doux](https://open.spotify.com/track/2BsOqXWv9LMNBaSzaznPFv) | [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [St\. Louis Blues](https://open.spotify.com/album/2SxfFHnplHp6pDzFXhBNn2) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 49 | [Swingtime in Springtime](https://open.spotify.com/track/2agAxheoBhskd2Od2No85G) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Souvenirs de Django Reinhardt \(Jazz Connoisseur\)](https://open.spotify.com/album/3gG6ulFkKUeWw39WEazp4F) | 3:07 |
 | 50 | [Lover Man \(Oh, Where Can You Be?\) \(feat\. Stéphane Grappelli\) \- Remastered 2002](https://open.spotify.com/track/4w473yXLEtb4tVQ592R8dE) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG) | [Djangology \(feat\. Stéphane Grappelli\)](https://open.spotify.com/album/3bMdsH6llaI2OTGulHDYEK) | 3:10 |
 
-Snapshot ID: `amVOAAAAAAD7Q0wzKWHOtM5GuzwiTts/`
+Snapshot ID: `amafgAAAAABKUwiJM+2C0qx600BpwI5D`

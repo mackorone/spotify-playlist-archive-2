@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Drake
 
-869 songs - 1 day 20 hr 52 min
+870 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Bank Account](https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Issa Album](https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU) | 3:40 | 2022-04-01 | 2022-04-13 |
 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 | 2022-04-29 |  |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-09-15 | 2024-01-13 |
-| [Bazooka](https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa) | [Miami XO](https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz) | [Bazooka](https://open.spotify.com/album/6cM8Ky6V5piRMcuePn2H4L) | 1:48 | 2026-06-23 |  |
+| [Bazooka](https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa) | [Miami XO](https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz) | [Bazooka](https://open.spotify.com/album/6cM8Ky6V5piRMcuePn2H4L) | 1:48 | 2026-06-23 | 2026-07-29 |
 | [Beat the Odds](https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Beat the Odds](https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv) | 2:30 | 2022-11-10 | 2024-07-27 |
 | [Belly, The Weeknd \- Die For It \(ft\. Nas\)](https://open.spotify.com/track/2Nc1v8I86FUGorwjXKo0in) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [See You Next Wednesday](https://open.spotify.com/album/7jJsNB4u538DpyZckBEKsB) | 3:19 | 2022-01-07 | 2022-07-29 |
 | [BELMONT BOYZ](https://open.spotify.com/track/6HtU4LvAxha0O78sj6SQsZ) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [HOU WOULDA THOUGHT](https://open.spotify.com/album/0VH9X5DT6mMGbgbgiVdNUr) | 2:28 | 2022-04-01 | 2022-04-19 |
@@ -375,6 +375,7 @@
 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 | 2022-12-29 | 2023-10-06 |
 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 | 2022-12-09 | 2024-01-13 |
 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 | 2022-04-29 | 2025-01-24 |
+| [In My Lifetime](https://open.spotify.com/track/4BgGvnwGSkFVLO2od8FNUX) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [In My Lifetime](https://open.spotify.com/album/7Am0PvxtFWNhK3s1L2iz6C) | 4:27 | 2026-07-28 |  |
 | [In The UK](https://open.spotify.com/track/7kWXW1tYyE2cOR11TPkKT7) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [In The UK](https://open.spotify.com/album/7ueX2aPzPqbryfJKHnJPTh) | 3:03 | 2022-12-02 | 2022-12-10 |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2022-01-21 | 2024-01-13 |
 | [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 | 2024-12-05 | 2026-06-24 |

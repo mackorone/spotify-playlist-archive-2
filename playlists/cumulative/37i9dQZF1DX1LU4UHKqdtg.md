@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: aespa
+> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: ILLIT
 
-1,777 songs - 3 day 21 hr 32 min
+1,780 songs - 3 day 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Chase](https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [CHASE \- The 1st Mini Album](https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S) | 3:26 | 2022-12-06 | 2023-02-03 |
 | [Chasing That Feeling](https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 3:02 | 2023-10-12 | 2024-04-27 |
 | [CHAT](https://open.spotify.com/track/1hNixpTJ3KtIQGYIdGWLoz) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [CHAT](https://open.spotify.com/album/0PclhANYWtETZ53KYoEGo0) | 2:51 | 2026-07-21 |  |
+| [ChecK](https://open.spotify.com/track/03OWSvT8tWcUSpUlke4buk) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [OriginaLyn](https://open.spotify.com/album/6jV8UkMbnfG7vU9yKl3n60) | 2:38 | 2026-07-28 |  |
 | [Checkmate \(Prod\. Czaer\)](https://open.spotify.com/track/2CvP09dI7LvW1CMy2Lus76) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [STAGE FIGHTER\(STF\) Original, Vol\. 6](https://open.spotify.com/album/3Um5z06z6WnOLXq6XS79Tb) | 3:14 | 2024-11-29 | 2025-01-18 |
 | [Cheeky Icy Thang](https://open.spotify.com/track/3BhyxulZ13uWZS6LqiYiCj) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Metamorphic](https://open.spotify.com/album/6eTCq3XOz0rVJnelXro3Vk) | 2:30 | 2024-07-02 | 2024-08-21 |
 | [Cheese](https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Cheese](https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj) | 3:26 | 2023-09-01 | 2023-09-21 |
@@ -1272,7 +1273,7 @@
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-16 | 2023-07-26 |
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-14 | 2024-04-24 |
 | [Sexy In The Air](https://open.spotify.com/track/3wluV5HGCW1Dq1CYsjIdLu) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [ETERNAL](https://open.spotify.com/album/13M8K1l146FLdFoObJIVj9) | 3:14 | 2024-08-20 | 2024-09-25 |
-| [Shake!](https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Shake!](https://open.spotify.com/album/28ZtOK3BBS5hujeAamNmfX) | 3:12 | 2026-04-09 |  |
+| [Shake!](https://open.spotify.com/track/6wdKMBPEUhdIE7Xhxb8ynP) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Shake!](https://open.spotify.com/album/28ZtOK3BBS5hujeAamNmfX) | 3:12 | 2026-04-09 | 2026-07-29 |
 | [Shaking My Head](https://open.spotify.com/track/37Kn4OZyeGaMXWOXp4sLam) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl), [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [Shaking My Head](https://open.spotify.com/album/7um95MJ2CQlGFWibM13MRd) | 2:33 | 2025-09-05 | 2025-12-02 |
 | [ShaLala](https://open.spotify.com/track/7JSBM7BSHafBx7RwV5waxR) | [SAY MY NAME](https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS) | [My Name Is…](https://open.spotify.com/album/46axlrG3csbSmbRci3j8ON) | 3:00 | 2025-03-11 | 2025-07-07 |
 | [SHALALA](https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR) | [TAEYONG](https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm) | [SHALALA \- The 1st Mini Album](https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp) | 3:21 | 2023-06-06 | 2023-08-04 |
@@ -1294,7 +1295,7 @@
 | [SHOOTING STAR \- BARS REMIXX FEAT\. RICO NASTY](https://open.spotify.com/track/5v3qDpknNxse3vx19aJ6RX) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [SHOOTING STAR REMIXX \(PROD BY JAKOPS\)](https://open.spotify.com/album/7FlCBCFnKH1J5ud88NfjzC) | 3:23 | 2023-04-06 | 2023-04-11 |
 | [Shopper](https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:35 | 2024-02-20 | 2024-05-24 |
 | [Shout it out](https://open.spotify.com/track/0LVZgEoVis1hCRKTHTCJ1Z) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Gibberish](https://open.spotify.com/album/5pZFs7Yt5xDHQW6gXSFtqm) | 4:30 | 2024-07-19 | 2024-10-02 |
-| [SHOW DOWN](https://open.spotify.com/track/6bJHDnYgkIjmg8xao0aJbB) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [SHOW DOWN](https://open.spotify.com/album/0utXaTMHxah2lKr3TBPF1i) | 3:13 | 2026-07-07 |  |
+| [SHOW DOWN](https://open.spotify.com/track/6bJHDnYgkIjmg8xao0aJbB) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [SHOW DOWN](https://open.spotify.com/album/0utXaTMHxah2lKr3TBPF1i) | 3:13 | 2026-07-07 | 2026-07-29 |
 | [Show Time](https://open.spotify.com/track/7hxN0o1cVf72nnyIJQw92u) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Show Time](https://open.spotify.com/album/4uVWubQu7a4IjEv6B0n6R0) | 2:52 | 2024-06-13 | 2024-07-24 |
 | [SHOW YOU CAN \(Prod\. Czaer, JAKOPS\)](https://open.spotify.com/track/5XdxtGNFQTxDiTygagtrWi) | [MAYA](https://open.spotify.com/artist/4DtZvrKaqY0kYanvk27CMR), [COCONA](https://open.spotify.com/artist/3isFRALGdJtyQQZPHqIGcf), [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Street Woman Fighter2 \(SWF2\) Crew Songs](https://open.spotify.com/album/5oXPwd7Cn2q3bJ3pdmtiWY) | 3:14 | 2023-08-23 | 2023-11-04 |
 | [Shut Down](https://open.spotify.com/track/0ARKW62l9uWIDYMZTUmJHF) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 2:55 | 2022-09-16 | 2023-02-03 |
@@ -1426,7 +1427,7 @@
 | [Super Lady](https://open.spotify.com/track/105qee9D4ARiRZPZDvGDoH) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0AxwDje2klNIOVKvMTtwdZ) | 2:32 | 2024-04-18 | 2024-08-30 |
 | [Super Lady](https://open.spotify.com/track/5qI5EUqfDJpQ7w6sMECK7U) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [2](https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3) | 2:32 | 2024-01-29 | 2024-04-19 |
 | [Super Luna](https://open.spotify.com/track/7KzvRJThUDhHZmhvHbbngi) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [Super Luna](https://open.spotify.com/album/4WeJZrYQVlypCWog50MUSl) | 3:12 | 2025-11-11 | 2025-12-16 |
-| [Super Obvious](https://open.spotify.com/track/077jEiOrEal1E7iGANgexy) | [MADEIN](https://open.spotify.com/artist/5Sso2rRE8bs9Ff6bkfqUKe) | [Girl Meets Boy](https://open.spotify.com/album/3Ea4taL21BnrmGDUsPIE56) | 3:16 | 2026-02-09 |  |
+| [Super Obvious](https://open.spotify.com/track/077jEiOrEal1E7iGANgexy) | [MADEIN](https://open.spotify.com/artist/5Sso2rRE8bs9Ff6bkfqUKe) | [Girl Meets Boy](https://open.spotify.com/album/3Ea4taL21BnrmGDUsPIE56) | 3:16 | 2026-02-09 | 2026-07-29 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-07 | 2024-02-07 |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-24 |  |
 | [Supernova](https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Supernova](https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H) | 2:58 | 2024-05-13 | 2024-10-30 |
@@ -1515,6 +1516,7 @@
 | [TILT](https://open.spotify.com/track/1etiDVN61JMXErlRMia2oR) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [TILT \- The 2nd Mini Album](https://open.spotify.com/album/706xdC5SJBOk85HoJSFJeq) | 3:04 | 2025-05-26 | 2026-02-27 |
 | [TIPI\-TAP](https://open.spotify.com/track/5ufLXgP0f4GTghZO05XMpy) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1er The 6th Mini Album <TIPI\-TAP>](https://open.spotify.com/album/1mNCEsMLc2YkZt22rhNdg7) | 2:52 | 2024-11-01 | 2025-04-07 |
 | [Tippy Toes](https://open.spotify.com/track/1MKmSbQfJpEVnC3XfGywyF) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [Tippy Toes](https://open.spotify.com/album/6P9erpHs7hgJlca7Tj3F0w) | 3:08 | 2022-03-18 | 2023-02-22 |
+| [To Be Continued](https://open.spotify.com/track/51wHM2Xc0m8BtD3OTifjxZ) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [To Be Continued](https://open.spotify.com/album/0qVLboIquXt3xdBG1VbhYa) | 3:18 | 2026-07-28 |  |
 | [To Me From Me \(Prod\. TABLO\)](https://open.spotify.com/track/5qnKbP6x2SyUbsLem897iL) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [To Me From Me \(Prod\. TABLO\)](https://open.spotify.com/album/45M61dR59iKzmL7wMfOK6G) | 3:18 | 2025-11-05 | 2026-01-27 |
 | [To The Light](https://open.spotify.com/track/47mWmPCFk9qGyU7MSQi5EU) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [To The Light](https://open.spotify.com/album/1Qiv9XYyI3KlBAOZtuvkE6) | 3:29 | 2021-12-23 | 2022-01-19 |
 | [To\. X](https://open.spotify.com/track/2gyCwrOcC6JBoaJ8JGJ7T8) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 2:50 | 2023-12-01 | 2024-08-30 |
@@ -1724,6 +1726,7 @@
 | [ZOOM](https://open.spotify.com/track/0qIs4x4LRxGPaA1lP4IS18) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [ZOOM](https://open.spotify.com/album/3sBVNx0uoo6vAzlosi8RhM) | 2:48 | 2025-01-31 | 2025-07-28 |
 | [ZOOM](https://open.spotify.com/track/1BB29yzN0aKzyxiNFMveuA) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [ZOOM](https://open.spotify.com/album/1AHut3kK0ewXAhujWEhnhF) | 2:48 | 2024-11-19 | 2025-02-01 |
 | [ZOOM ZOOM](https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ZOOM ZOOM](https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP) | 3:12 | 2023-10-06 | 2024-01-19 |
+| [หงุดหงิด \(tsk\)](https://open.spotify.com/track/2pQmtrfkmOCq5cvo4SqYJx) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [หงุดหงิด \(tsk\)](https://open.spotify.com/album/26XCV8Fkwbr7Rz8S1J1f96) | 2:38 | 2026-07-28 |  |
 | [♡Emotion](https://open.spotify.com/track/4iO9jhr2M1mwWKcszwFpk7) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [♡Emotion](https://open.spotify.com/album/2zCqs1mLztvaNN9a6Tcue5) | 3:39 | 2025-10-16 | 2026-04-01 |
 | [あいのちから](https://open.spotify.com/track/3I5W8iA8iZAyO62UVceK3F) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [あいのちから](https://open.spotify.com/album/3fqYnHqWRVePkZzPQpxclM) | 3:50 | 2021-12-23 | 2022-01-26 |
 | [あなたがいることで](https://open.spotify.com/track/1KRiLcsOgWg5B2Og97VqCj) | [J\-JUN](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [あなたがいることで](https://open.spotify.com/album/0N5eCVXJi53QdpnD3AjsdA) | 5:14 | 2023-10-10 | 2023-10-18 |

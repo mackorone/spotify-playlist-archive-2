@@ -2,9 +2,9 @@
 
 ### [K\-트롯 스타 \(K\-Trot Stars\)](https://open.spotify.com/playlist/37i9dQZF1DX6i7txhF59QA)
 
-> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 송가인\)<br/>Let's party with cheerful Korean trot medley.
+> 신나는 트로트 멜로디를 즐겨보세요! \(커버: 김산하\)<br/>Let's party with cheerful Korean trot medley.
 
-1,105 songs - 2 day 15 hr 14 min
+1,106 songs - 2 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Hit the Jackpot](https://open.spotify.com/track/2f3yTugqxeGn7pKUh8hy64) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/3u6Jsvbd9AZYQDj9ljMd8q) | 3:01 | 2022-04-07 | 2022-07-28 |
 | [Hoeryongpo](https://open.spotify.com/track/06mc74UD8KeVZ5ZRhZYcBG) | [Da Hyun Kim](https://open.spotify.com/artist/2bq9xwaiwirI0rMNQ9MKgX) | [MISS TROT2 Death match PART1](https://open.spotify.com/album/6YCn2HNNSVLOnG31b0BTaT) | 3:54 | 2022-04-22 |  |
 | [Hoeryongpo](https://open.spotify.com/track/69JQCvxs1mvxfeMVZAdXMy) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART11](https://open.spotify.com/album/04bfMKJM8TmBmuB4uhAaMW) | 3:39 | 2022-04-22 | 2022-07-24 |
+| [Hold Me](https://open.spotify.com/track/0i6M6YNf9CxnC4QiSpepmr) | [KIM SAN HA](https://open.spotify.com/artist/3n6xdzQihzOjsSgxM40de6) | [Hold Me](https://open.spotify.com/album/5aSYkXAAtMbKMt6yGl2nPF) | 3:09 | 2026-07-28 |  |
 | [Hometown heartless](https://open.spotify.com/track/2rrAR22jzX5J0Ln8TRH1vQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART4](https://open.spotify.com/album/3cCGXsqslsRzZhBiKWKhWB) | 3:41 | 2022-04-22 | 2022-06-08 |
 | [Hometown station](https://open.spotify.com/track/0VdNvSUCTvPXT4ST10MMQw) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART8](https://open.spotify.com/album/5foFjCTKaWf5je3HLOvx8C) | 2:40 | 2022-04-07 | 2022-05-09 |
 | [Honey](https://open.spotify.com/track/1RDS14QNHm7LEsszz8TEn6) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART19](https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb) | 3:16 | 2022-04-22 | 2022-07-23 |

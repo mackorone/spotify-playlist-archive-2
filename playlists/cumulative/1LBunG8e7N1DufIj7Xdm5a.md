@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,561 songs - 10 day 4 hr 42 min
+4,565 songs - 10 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [100k notti](https://open.spotify.com/track/0nV38qVfxPsQXpXzJIZPru) | [Jerry Spaggiari](https://open.spotify.com/artist/373KRO4MSO2oVp6GdqRunP) | [100k notti](https://open.spotify.com/album/6VLx0mKilNn27T0JbHHgGp) | 3:23 | 2026-01-04 |  |
 | [122](https://open.spotify.com/track/29Unpsj8867bTZHmKEnp4l) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [NON SONO IL PAPA \(Deluxe Edition\)](https://open.spotify.com/album/29s0ZAydytxQoqxqEhI4Mv) | 2:01 | 2025-04-04 |  |
 | [13 inviernos y una primavera](https://open.spotify.com/track/5LmRuuIjZx1exRHaFUh8Rh) | [CAPITÁN MOSCÚ](https://open.spotify.com/artist/2lsoOFuNDdLyToS0R3M05p) | [13 inviernos y una primavera](https://open.spotify.com/album/40i8yNTfyY3XhJ7TxVCCL2) | 3:45 | 2025-06-25 |  |
-| [17](https://open.spotify.com/track/6F7Kf22yizAeUHFvvyxljb) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [17](https://open.spotify.com/album/6cqTnHM7ETkdqXo0fW0ui9) | 2:17 | 2026-01-04 |  |
+| [17](https://open.spotify.com/track/6F7Kf22yizAeUHFvvyxljb) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [17](https://open.spotify.com/album/6cqTnHM7ETkdqXo0fW0ui9) | 2:17 | 2026-01-04 | 2026-07-29 |
 | [2 Mondi](https://open.spotify.com/track/6PxuHRxJozA3e8aQPCRh2f) | [Civico97](https://open.spotify.com/artist/4iS1xr1BJF12FN1QWb2A21) | [ЯEWIND](https://open.spotify.com/album/47XFlQXQtC3meDw6qDEV85) | 3:16 | 2025-10-23 |  |
 | [2 Picky](https://open.spotify.com/track/6d0doCDApofpA7ZjeLQjzZ) | [Foolish Ty](https://open.spotify.com/artist/61VaOK9lViIQilboP9JEPw) | [Planet Foolie](https://open.spotify.com/album/4lNgbpyvrKkuJIRPRfLrSV) | 2:00 | 2025-03-03 |  |
 | [2 Sides](https://open.spotify.com/track/0xBhNgojs7vbreYwTasT6n) | [SAINT PARIS BABY](https://open.spotify.com/artist/7E26m6GE0DFcwrJLEIjBYA) | [Resurgence: RE\-CUT](https://open.spotify.com/album/3Rket4UWmba64M4W6tZjaf) | 2:03 | 2025-06-23 |  |
@@ -2104,7 +2104,7 @@
 | [Kaos](https://open.spotify.com/track/5Gv6JRKCGzdhBXDyMRMXv0) | [Againstide](https://open.spotify.com/artist/7qEOhbkxfx5d24fF5vEjpI) | [Kaos](https://open.spotify.com/album/3Kk9Jiio0xLE4FOuvY0kvx) | 4:37 | 2025-07-26 |  |
 | [Karpa Koi](https://open.spotify.com/track/5wNaTEXJt42mrir0krH5Z6) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Karpa Koi](https://open.spotify.com/album/4G1JLl7b1jjnjAlNyu9Tzb) | 1:57 | 2025-12-25 |  |
 | [Karst](https://open.spotify.com/track/2kRsYGQkSzB6xRu6W8DJvb) | [OSSIFER](https://open.spotify.com/artist/7hpGCrRqtmaoDuQ98GKWdx) | [Karst](https://open.spotify.com/album/7doOzUTBMSiODNOZ4sF9wm) | 4:41 | 2025-04-26 |  |
-| [Kashmir \- Cover](https://open.spotify.com/track/6fcdXw2LyBCyump8JRCGfo) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 8:39 | 2025-08-27 |  |
+| [Kashmir \- Cover](https://open.spotify.com/track/6fcdXw2LyBCyump8JRCGfo) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 8:39 | 2025-08-27 | 2026-07-29 |
 | [Ke quiere hacer](https://open.spotify.com/track/5G2lTc0aqQDDRlnEUkPWBS) | [octa](https://open.spotify.com/artist/35AmfyA3wiyeGfwX84QwVy), [Dearriba](https://open.spotify.com/artist/38VgmuXdTEYy63tcL1E5oV) | [Ke quiere hacer](https://open.spotify.com/album/1rLRlbJS1LvRdbwDHdrDYB) | 2:33 | 2026-07-12 |  |
 | [Keep It Up](https://open.spotify.com/track/0X8HKkjRUdBqIuSkP3hy1J) | [Prince MSK](https://open.spotify.com/artist/2uBjCmm2Y4L5UeYwe4JvL8), [Yungcrxss](https://open.spotify.com/artist/3fdZ6VcAI1XkiPnOUXeMdC), [Asaboy DaSupreme](https://open.spotify.com/artist/422fRoBCOIIxMMPW7rPy57) | [For Us By Us](https://open.spotify.com/album/4dV17FfYyYFFm9raWRvtR6) | 3:03 | 2025-06-04 |  |
 | [Keep Running](https://open.spotify.com/track/0l2EatGlh3Sk7IsAQnhvjd) | [The Vegas Pigeon's](https://open.spotify.com/artist/1j3fgTPoallIrXgGDdGNCY) | [Keep Running](https://open.spotify.com/album/25W4m4L0TVRuX12aWKobca) | 3:55 | 2026-03-20 |  |
@@ -2124,6 +2124,7 @@
 | [Kiss 3 Times](https://open.spotify.com/track/1egS9E4TdFhWTYTWiXgLgP) | [Devil's Degree](https://open.spotify.com/artist/0zGOAhPOYhMCw7er97nMer) | [19Hz](https://open.spotify.com/album/7gOO3LABrfDSW9P1OAXqop) | 2:47 | 2025-07-02 |  |
 | [Kiss Me](https://open.spotify.com/track/5atpWkUN5l35WShWOG4BbU) | [Gaya Mor](https://open.spotify.com/artist/5EONJe23bpzzu8MgLhsTXU) | [Syncable 90's Covers](https://open.spotify.com/album/3OBlnuexLwSq46V7bFdR1E) | 3:21 | 2026-01-04 |  |
 | [Kiss Me Back](https://open.spotify.com/track/5AIuFd2UV67ckptE8CqWkq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 2:54 | 2025-09-20 |  |
+| [Kiss Me Instead](https://open.spotify.com/track/1b1zD9M9drnjWio0Am0MjS) | [Towse](https://open.spotify.com/artist/0l79yamGYkMV3FBef8PDug) | [Kiss Me Instead](https://open.spotify.com/album/7gjMtv12EFS4jsqKwh5vxy) | 2:53 | 2026-07-28 |  |
 | [Kiss of Chaos \#Music \#NewMusic \#Viral](https://open.spotify.com/track/1wCcnCRRiqYCofQS3cqx6j) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 3:10 | 2025-09-15 |  |
 | [KITTY](https://open.spotify.com/track/0MpA7P0YKOiOENrKTJXN5g) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV), [Misty](https://open.spotify.com/artist/7zD0iVZyZo4stvwavuu7i0) | [KITTY](https://open.spotify.com/album/2TL7CLDNkMxB20Gi5AzuPJ) | 2:34 | 2026-01-04 |  |
 | [KOFFIN](https://open.spotify.com/track/5eQDHVe4sINNQU5DHgnRP2) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [KOFFIN](https://open.spotify.com/album/2JmTjfYuJztSXJRgqPVqTu) | 2:28 | 2025-07-03 |  |
@@ -2265,7 +2266,7 @@
 | [Life Must Go On](https://open.spotify.com/track/6NREVVbzpJgpRfEmQCPxPe) | [Modjo Atmodjo](https://open.spotify.com/artist/28QDPpgHwt46auRYwz9679) | [Life Must Go On](https://open.spotify.com/album/43QlQLCUn4dbQBPhJJnDXh) | 3:21 | 2025-05-30 |  |
 | [Life So Crazy](https://open.spotify.com/track/1iKx45Uo9uQc6Kc6NY37Nt) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Life So Crazy](https://open.spotify.com/album/2kquRyWJgXH7894vcWgM3O) | 1:48 | 2025-07-28 |  |
 | [Life to Live](https://open.spotify.com/track/0sRMsos2Nffme5qUPAHIpL) | [Sosino](https://open.spotify.com/artist/3N3Fm0hNW4lWeYysGAzFhL) | [Life to Live](https://open.spotify.com/album/4rPeGiiH82voW60JJKJAMT) | 3:54 | 2025-06-04 |  |
-| [Lifeline](https://open.spotify.com/track/1oRFOjU1bsCO4BlgqpoI5w) | [HOLYMAMI](https://open.spotify.com/artist/1GTxrZqye2o8lcovuaygFe) | [Lifeline](https://open.spotify.com/album/6SZxtcWdtM7WGZWLJfqGUs) | 2:52 | 2025-08-18 |  |
+| [Lifeline](https://open.spotify.com/track/1oRFOjU1bsCO4BlgqpoI5w) | [HOLYMAMI](https://open.spotify.com/artist/1GTxrZqye2o8lcovuaygFe) | [Lifeline](https://open.spotify.com/album/6SZxtcWdtM7WGZWLJfqGUs) | 2:52 | 2025-08-18 | 2026-07-29 |
 | [Lift Me Higher](https://open.spotify.com/track/6QSSJsS0gOYHoZJqMgI6S6) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 3:29 | 2025-09-19 |  |
 | [Lift Me Higher \(another\)](https://open.spotify.com/track/1MgiZ3RuSXeANikoEqN6lM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Soulful Music](https://open.spotify.com/album/74KvoKbHt97ryXl7sunKaH) | 3:02 | 2025-09-19 |  |
 | [Light and Shade](https://open.spotify.com/track/7sa5gI0Y7esnxauSo8GyAz) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Light and Shade](https://open.spotify.com/album/4ivcLwXDhTVKPoCTxqBNUe) | 3:27 | 2025-10-16 |  |
@@ -2966,6 +2967,7 @@
 | [Panic Attack](https://open.spotify.com/track/09hVCP186IellGdBu2IYuz) | [Zerchronika](https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2) | [Scattered Memories](https://open.spotify.com/album/3LdurMICJIuXrQkipmVRw1) | 3:08 | 2025-06-30 |  |
 | [Panic Attacks](https://open.spotify.com/track/6zGrEcrSqc9Oif35EOGLVu) | [Brittany Mackie](https://open.spotify.com/artist/0LgTBAM4hYH6tlqaDXPTc2) | [Panic Attacks](https://open.spotify.com/album/22HRJh3DnSkYr2HLHGl48a) | 2:32 | 2025-09-01 |  |
 | [Panopticon](https://open.spotify.com/track/1FZY79GTgKZvI1v805ZoAD) | [Unità di Produzione](https://open.spotify.com/artist/0rRsE3wADulMq6yY14Ef4z) | [Panopticon](https://open.spotify.com/album/5V7Ppc4ITW2ZxCXa5X2pFb) | 4:17 | 2025-11-12 |  |
+| [Paper Airplanes](https://open.spotify.com/track/3FUPowNEgNLCmrgvyF6fsm) | [The Thundercracks](https://open.spotify.com/artist/7ASdBF3BAerPO7pd4KEs1I) | [Paper Airplanes](https://open.spotify.com/album/21dFdoPAErCbxLnnyDQ9rV) | 2:57 | 2026-07-28 |  |
 | [Paper Crown](https://open.spotify.com/track/01LrJl6lx46YyYuCOru9hu) | [Woytinek AI Music](https://open.spotify.com/artist/6klSDm3TJW4K2iJgXhOShO) | [Paper Crown](https://open.spotify.com/album/3s25WkNElrzbzhIzNVZeYa) | 3:47 | 2026-03-31 |  |
 | [Paper Wings](https://open.spotify.com/track/2WlmA9KXlNwaDa5Dryf9B7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Symphonic pop](https://open.spotify.com/album/55sXe34L5I1rtImXzi4bCR) | 4:19 | 2025-09-13 |  |
 | [Paper Wings \(another\)](https://open.spotify.com/track/58I9cMIVVYscZsW1OwXOpG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Symphonic pop](https://open.spotify.com/album/55sXe34L5I1rtImXzi4bCR) | 3:08 | 2025-09-13 |  |
@@ -3540,6 +3542,7 @@
 | [Sleesh](https://open.spotify.com/track/4UHL6lqpCs9MdwqWoTJcy9) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 3:16 | 2025-08-28 |  |
 | [Slow Burn](https://open.spotify.com/track/0SxdicIbMhORL9rAdKujOG) | [Thirty Seconds](https://open.spotify.com/artist/3ngDPIubjXf7wfE0oN6zoh) | [Slow Burn](https://open.spotify.com/album/7sn1viT482pLSRx20ErvEK) | 2:13 | 2025-05-16 |  |
 | [SLOW DOWN](https://open.spotify.com/track/4rpe04c0h4Kw13uGn0XEiD) | [Ghostshaft](https://open.spotify.com/artist/5wxd8HLXD387D9PedWRLw8) | [SLOW DOWN](https://open.spotify.com/album/3TEYxk5CLucLCzVmGaiVry) | 4:19 | 2026-02-14 |  |
+| [Sludge](https://open.spotify.com/track/3BEK0HDmVAjaH3pkbzXG3R) | [EverFelt](https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX) | [Sludge](https://open.spotify.com/album/3CAbspgWNyomYonFoxiBFZ) | 5:09 | 2026-07-28 |  |
 | [Smail Repairs](https://open.spotify.com/track/52mU4L93uVEW8d1xiUeycE) | [Mari Andri](https://open.spotify.com/artist/1hwSTTmts2CZ4Zf2z7DuSI) | [Smail Repairs](https://open.spotify.com/album/1TctB1UrjnVOQRyoHds3xp) | 3:02 | 2026-01-06 |  |
 | [Smile](https://open.spotify.com/track/3qMrbdTzbfK102InfVi43d) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Smile](https://open.spotify.com/album/1cG64IGY9YHPWvOdGGuuCY) | 1:52 | 2025-06-05 |  |
 | [Smoke & Mirrors](https://open.spotify.com/track/7zjOFk9le4tiTWvq3hYYuF) | [Jodi Stapler](https://open.spotify.com/artist/4WdzM51AF4SAryiDVc4RvK) | [Smoke & Mirrors](https://open.spotify.com/album/5ckSJdh2stkM5Z6CkQpqcJ) | 4:06 | 2026-01-08 |  |
@@ -4307,6 +4310,7 @@
 | [WALK IT OFF](https://open.spotify.com/track/31QkpuGiQQiu6AxchCWYNV) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:16 | 2025-09-08 |  |
 | [Walking on Air](https://open.spotify.com/track/77JKb2d4oLkGa6SMe7ihjl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Indie Music Style](https://open.spotify.com/album/5d5v2cAyrOm0sSQd9O8gx6) | 3:10 | 2025-09-19 |  |
 | [Walking on Air \(another\)](https://open.spotify.com/track/3dpwY9av6G1oWKccraCuY6) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Indie Music Style](https://open.spotify.com/album/5d5v2cAyrOm0sSQd9O8gx6) | 2:46 | 2025-09-19 |  |
+| [Wall of Time](https://open.spotify.com/track/5ccQwkmUkGs0KWSyxzRnzG) | [Karmaphala](https://open.spotify.com/artist/2j9cvMEomhQw36RHVC1kzU) | [Wall of Time](https://open.spotify.com/album/2Vp5pQUQq5bePmQd7h0ob3) | 2:59 | 2026-07-28 |  |
 | [Wandering Souls](https://open.spotify.com/track/2bDvjnr0iO0JujzCRBV1xr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Acoustic and Melodic Indie Music](https://open.spotify.com/album/1g4bWG0VlAcdzSqqUqE2AD) | 2:30 | 2025-09-19 |  |
 | [Wandering Souls \(another\)](https://open.spotify.com/track/27TWtYbtH1qr3YFWZynN8f) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Acoustic and Melodic Indie Music](https://open.spotify.com/album/1g4bWG0VlAcdzSqqUqE2AD) | 3:17 | 2025-09-19 |  |
 | [Wandering Through Echoes](https://open.spotify.com/track/2mv49h9rQENXRa8O3IzQ9I) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 2:48 | 2025-09-19 |  |

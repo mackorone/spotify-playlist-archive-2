@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAAC/iukdK6RZp8i43sLXHqjr",
+  "snapshot_id": "amafgAAAAABXmc6myWi+CaazkWi/Lg1B",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+        "name": "Believe In Love",
+        "url": "https://open.spotify.com/album/1XeZv5r6fvi3lT9vTKNGjN"
       },
       "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 210186,
-      "name": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z"
+      "duration_ms": 258680,
+      "name": "Believe In Love - Phat Phili Mix",
+      "url": "https://open.spotify.com/track/2Rz1tf1gORr5LGGCP4sVyp"
     },
     {
       "added_at": null,
@@ -799,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe In Love",
-        "url": "https://open.spotify.com/album/1XeZv5r6fvi3lT9vTKNGjN"
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
       "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 258680,
-      "name": "Believe In Love - Phat Phili Mix",
-      "url": "https://open.spotify.com/track/2Rz1tf1gORr5LGGCP4sVyp"
+      "duration_ms": 210186,
+      "name": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z"
     },
     {
       "added_at": null,

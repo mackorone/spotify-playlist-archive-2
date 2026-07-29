@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: THE DO
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,323 likes - 29 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,375 likes - 29 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,12 +14,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 4 | [What’s My Name](https://open.spotify.com/track/1DiYtw14V82ASsVBDXQnEo) | [THE DO](https://open.spotify.com/artist/7cACgXY0k1OI20mxoBw0XC) | [What’s My Name](https://open.spotify.com/album/0F97eiQZrjwFrppiujrarT) | 2:06 |
 | 5 | [Summer Nights](https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Nights](https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ) | 3:40 |
 | 6 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
-| 7 | [TENSION](https://open.spotify.com/track/5FjO5xZr8oVLjKKnQc68VN) | [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [TENSION](https://open.spotify.com/album/4Y7MMxcITCwv0W2k3EYrMA) | 2:56 |
-| 8 | [CONTACTO CONTACTO](https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl) | [CONTACTO CONTACTO](https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9) | 1:57 |
-| 9 | [Nattamthiri](https://open.spotify.com/track/08EvZ9JF4jwBfqiu9i4750) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [Vaakkath](https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW) | 3:37 |
-| 10 | [Your favorite flowers](https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on](https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi) | 3:29 |
-| 11 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
-| 12 | [No pega igual \(Stuck on replay\)](https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [No pega igual \(Stuck on replay\)](https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y) | 3:05 |
+| 7 | [CONTACTO CONTACTO](https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl) | [CONTACTO CONTACTO](https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9) | 1:57 |
+| 8 | [TENSION](https://open.spotify.com/track/5FjO5xZr8oVLjKKnQc68VN) | [Armaan Gill](https://open.spotify.com/artist/419l4iEymGkojTyDzVYA7j), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Arnaaz Gill](https://open.spotify.com/artist/23NCKM83KhH4vEK4JHTGfx) | [TENSION](https://open.spotify.com/album/4Y7MMxcITCwv0W2k3EYrMA) | 2:56 |
+| 9 | [No pega igual \(Stuck on replay\)](https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [No pega igual \(Stuck on replay\)](https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y) | 3:05 |
+| 10 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
+| 11 | [Nattamthiri](https://open.spotify.com/track/08EvZ9JF4jwBfqiu9i4750) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [Vaakkath](https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW) | 3:37 |
+| 12 | [Your favorite flowers](https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on](https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi) | 3:29 |
 | 13 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 |
 | 14 | [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 |
 | 15 | [NYC](https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Hunna G](https://open.spotify.com/artist/3K1jwN2afVgJiqwgoT38GP) | [NYC](https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93) | 2:05 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 21 | [Lonely](https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [Lonely](https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR) | 2:56 |
 | 22 | [Speed](https://open.spotify.com/track/62UDdS1BuZ30tJFbBasLN4) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Speed](https://open.spotify.com/album/2HEMlzGu6QXi75lilR5m2S) | 2:25 |
 | 23 | [Alıştım](https://open.spotify.com/track/3JTIs7oWHrhfJ9zmF7ALzR) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Alıştım](https://open.spotify.com/album/7LrRZONcEPYPRDvwLC1U8M) | 2:57 |
-| 24 | [Something Out Of Nothing](https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Something Out Of Nothing](https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2) | 3:26 |
-| 25 | [Bury It](https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Bury It](https://open.spotify.com/album/33W0mcGpZis0alt3swinMu) | 3:08 |
+| 24 | [Bury It](https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Bury It](https://open.spotify.com/album/33W0mcGpZis0alt3swinMu) | 3:08 |
+| 25 | [Something Out Of Nothing](https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [Something Out Of Nothing](https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2) | 3:26 |
 | 26 | [failed tailors](https://open.spotify.com/track/1Wo0SG49zVdZMR72F7N554) | [MISTER TWO FIVE](https://open.spotify.com/artist/3ktfXasHfUIS1KgXvjkg1o) | [failed tailors](https://open.spotify.com/album/5WtwPe85WwbgAi3z2fnv05) | 2:42 |
 | 27 | [read your mind](https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [read your mind](https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt) | 2:03 |
 | 28 | [Rumah](https://open.spotify.com/track/42cTAPfWxsDzPEjc9X0vMc) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Rumah](https://open.spotify.com/album/5ewRhRooQ4J93Mz4vzaPkX) | 3:20 |

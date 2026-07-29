@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 93363,
+  "num_followers": 93371,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Obvio No",
-        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
-      },
-      "artists": [
-        {
-          "name": "Viviann Baeza",
-          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
-        }
-      ],
-      "duration_ms": 196166,
-      "name": "Obvio No",
-      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "PEKORITAS VOL.1",
         "url": "https://open.spotify.com/album/62NyBs8dQmOtKYZUmdex6A"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 198437,
       "name": "t a l v e z : /",
       "url": "https://open.spotify.com/track/2RbECLIYUcdKUYi8FK1NaO"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "Obvio No",
+        "url": "https://open.spotify.com/album/5ZG8d0cWqDDzJHsKhxaz0Z"
+      },
+      "artists": [
+        {
+          "name": "Viviann Baeza",
+          "url": "https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "Obvio No",
+      "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -739,26 +739,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Te Llevo A D\u00f3nde Quieras",
-        "url": "https://open.spotify.com/album/4Xl7jqz3vr2eNjxaQDh3G9"
-      },
-      "artists": [
-        {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        },
-        {
-          "name": "Victor Rivera Y Su Nuevo Estilo",
-          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
-        }
-      ],
-      "duration_ms": 144098,
-      "name": "Te Llevo A D\u00f3nde Quieras",
-      "url": "https://open.spotify.com/track/59LU3KyaBPQohgDdaHL58Q"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "a la mitad",
         "url": "https://open.spotify.com/album/7BKm5M8gOpJIdxi5tdvdwY"
       },
@@ -799,18 +779,22 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "sobrio",
-        "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
+        "name": "Te Llevo A D\u00f3nde Quieras",
+        "url": "https://open.spotify.com/album/4Xl7jqz3vr2eNjxaQDh3G9"
       },
       "artists": [
         {
-          "name": "sobresdylan",
-          "url": "https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL"
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
         }
       ],
-      "duration_ms": 240687,
-      "name": "besos de esquimal",
-      "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
+      "duration_ms": 144098,
+      "name": "Te Llevo A D\u00f3nde Quieras",
+      "url": "https://open.spotify.com/track/59LU3KyaBPQohgDdaHL58Q"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -831,6 +815,22 @@
       "duration_ms": 255605,
       "name": "Tempestad",
       "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "sobrio",
+        "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
+      },
+      "artists": [
+        {
+          "name": "sobresdylan",
+          "url": "https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL"
+        }
+      ],
+      "duration_ms": 240687,
+      "name": "besos de esquimal",
+      "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
     },
     {
       "added_at": "2026-07-17 06:00:21",

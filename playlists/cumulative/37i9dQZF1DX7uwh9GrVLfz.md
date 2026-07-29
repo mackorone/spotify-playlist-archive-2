@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: JUNKY58％
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: WANIMA
 
-909 songs - 1 day 23 hr 54 min
+910 songs - 1 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,7 +331,7 @@
 | [MANIAC IV](https://open.spotify.com/track/03qtuCCNq1Yl4GfdcDAHW6) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [MANIAC IV](https://open.spotify.com/album/0CXFdhWYq4JiJ72lAnrtOH) | 3:34 | 2022-05-12 | 2022-07-29 |
 | [Manifest for a New Average](https://open.spotify.com/track/0R3B5VMV8tEAjw3UrgEfCj) | [LOBSTER](https://open.spotify.com/artist/09LIsBVBw0w9ALpqyQTRZQ) | [Manifest for a New Average](https://open.spotify.com/album/4miHktZHb5pite8cVELcDW) | 4:51 | 2023-02-14 | 2023-04-19 |
 | [MARIGOLD](https://open.spotify.com/track/2lPzFCH7YezNtVekqfKUU6) | [WATER CLOSET](https://open.spotify.com/artist/2TsHZGAX5xMjZTcy37QzGi) | [WATERCLOSET MUSIC](https://open.spotify.com/album/2NkjtvZKEum2sKqUOLC7CG) | 2:37 | 2022-05-31 | 2022-07-09 |
-| [Matatabi](https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Matatabi](https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG) | 2:48 | 2025-07-08 |  |
+| [Matatabi](https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Matatabi](https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG) | 2:48 | 2025-07-08 | 2026-07-29 |
 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 | 2023-12-19 | 2024-04-26 |
 | [medicine](https://open.spotify.com/track/6mddG5wTM56n3P6UKVdUrb) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [FLAKES](https://open.spotify.com/album/59Bqe2aDWUFBTBVDpOl4TM) | 2:45 | 2022-05-12 | 2022-07-28 |
 | [MEMENTO MORI](https://open.spotify.com/track/00SROMpQqY9J5tsZyEVrR3) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [LUCKY CHARMS](https://open.spotify.com/album/2QdmuLUR6anfHrH7kX5xt2) | 2:25 | 2022-05-12 | 2022-07-29 |
@@ -694,6 +694,7 @@
 | [ほっこりニュース大集合](https://open.spotify.com/track/0vJo23qMLSdOGgTKW1BELt) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [ほっこりニュース大集合](https://open.spotify.com/album/6NaLLVi2lgMqnlBMqIsOXN) | 1:42 | 2025-09-02 | 2025-10-21 |
 | [ぼーんず・あんど・おーる](https://open.spotify.com/track/43uwyemoEPYGTxpefuifMt) | [Su凸ko D凹koi](https://open.spotify.com/artist/1nPzXqUlZz6YJAiyepAY51) | [ぼーんず・あんど・おーる](https://open.spotify.com/album/5hNo3JFjY8ViYmxNIEu0fd) | 3:19 | 2024-02-27 | 2024-02-29 |
 | [まくれ](https://open.spotify.com/track/40qPqGR1Lwf8YfApoeQ7yh) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [まくれ](https://open.spotify.com/album/0Mf93Ot20G7jXn1dzLYSLm) | 4:18 | 2022-05-24 | 2022-07-29 |
+| [またな](https://open.spotify.com/track/5FZ32cd2cviCR4c9dba7TR) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [またな](https://open.spotify.com/album/5SKqpV3v5PYM5soTFl4ueG) | 3:09 | 2026-07-28 |  |
 | [もういい](https://open.spotify.com/track/3nnNpU81vjbflYXsmuf23R) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [もういい](https://open.spotify.com/album/7LdT35U05IlLByMoo9NJ8q) | 3:22 | 2022-05-12 | 2022-07-21 |
 | [もしも君が泣くならば](https://open.spotify.com/track/1xCQa1dJC3jIXGHaTo7273) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 3:46 | 2022-05-24 |  |
 | [ゆびきり](https://open.spotify.com/track/2rWjdoSvdwI0NvC7cBInH7) | [ONE'S TRUTH](https://open.spotify.com/artist/1aVy58ZrcvKm6QQj0KtGg7) | [ALL FOR ONE’S](https://open.spotify.com/album/5oO3I3i71SNDgDHi8T63gj) | 3:14 | 2022-05-12 | 2022-07-28 |

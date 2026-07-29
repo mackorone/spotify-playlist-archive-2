@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 
 > neler yaşamışım ben ya...
 
-[Çodur](https://open.spotify.com/user/mertcodur) - 408 likes - 43 songs - 2 hr 3 min
+[Çodur](https://open.spotify.com/user/mertcodur) - 410 likes - 43 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,6 +50,6 @@ pretty - [cumulative](/playlists/cumulative/7l9UKjnGuGw5ZR7Lw66uIe.md) - [plain]
 | 40 | [Suç Olur Mu?](https://open.spotify.com/track/0MbNxNddm6PEBT7n2BVfjm) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Suç Olur Mu?](https://open.spotify.com/album/5m0mAtur2cQZgd75ULo7eU) | 2:52 |
 | 41 | [Rüzgar](https://open.spotify.com/track/75LtlhYeSASffU7076kxqX) | [Cansu Esin](https://open.spotify.com/artist/1uoDHmd2nPKxqxh1bDKU6j) | [Rüzgar](https://open.spotify.com/album/7aGfnRVxMdMgaKKiHi4Nvw) | 3:06 |
 | 42 | [Vurgunum](https://open.spotify.com/track/1c6eJEK4sM98qjRcHkswQf) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Vurgunum](https://open.spotify.com/album/5KGbhBsixH1hWtN3Rwjt7K) | 2:06 |
-| 43 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 |
+| 43 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [SELIN ](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 |
 
 Snapshot ID: `AAAA1Mcoj/4n4jCq8PdiBww9eHKibDxH`

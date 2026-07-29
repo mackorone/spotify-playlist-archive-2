@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > In celebration of Black music, we're highlighting Black women who are redefining pop on the global stage\. Click into the feed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,145,359 likes - 151 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,145,340 likes - 151 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 49 | [Just Like You](https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Just Like You](https://open.spotify.com/album/7Ebv6UYPniNO0T7ufT9hby) | 3:14 |
 | 50 | [i wish you were here](https://open.spotify.com/track/4da08w8PKJ0bJIh7nAmgJM) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [i wish you were here](https://open.spotify.com/album/2KNQjlJsIHmvYKYG2EbQIv) | 3:23 |
 | 51 | [GOOD TIME](https://open.spotify.com/track/6Tocd3n3dRJZa87VYisa0F) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid) | [GOOD TIME](https://open.spotify.com/album/69rnjsuGhixJD8TdtwXMEZ) | 2:24 |
-| 52 | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
+| 52 | [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
 | 53 | [Mine \(In Love with You\)](https://open.spotify.com/track/5DoBQPUPzyMa6GX8W4JUPo) | [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Mine \(In Love with You\)](https://open.spotify.com/album/6lDFKeWnoT7BuQBEphyrTD) | 3:48 |
 | 54 | [Up Out & Gone](https://open.spotify.com/track/7cZWDSWe2F6eFuEw6PLWOV) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Up Out & Gone](https://open.spotify.com/album/5wQV2yzSVcLdvVCRyTqAiV) | 2:56 |
 | 55 | [Point of View](https://open.spotify.com/track/5sBxWkq2qsA5duwonnm3Tv) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Point of View](https://open.spotify.com/album/1rI6OT45iNO83oKJwP34JK) | 3:16 |

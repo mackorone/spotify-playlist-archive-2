@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "A Parallel World (from Forgotten Island)",
+        "url": "https://open.spotify.com/album/1fpU3p9VuH941YMEVXaiqE"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217920,
+      "name": "A Parallel World (from Forgotten Island)",
+      "url": "https://open.spotify.com/track/5B7Aeln3v0fMgJh8MhxTw0"
+    },
+    {
+      "album": {
         "name": "A Series of Unfortunate Events",
         "url": "https://open.spotify.com/album/2l9ZNGlbuDNgehXIfnF9yw"
       },
@@ -1302,6 +1320,28 @@
       "duration_ms": 203883,
       "name": "Atin Ang Walang Hanggan",
       "url": "https://open.spotify.com/track/3wyps5olGora4qX2g02DuK"
+    },
+    {
+      "album": {
+        "name": "Atin Lang",
+        "url": "https://open.spotify.com/album/7EJJ736dZpyEsSZzaOwWyY"
+      },
+      "artists": [
+        {
+          "name": "STEF",
+          "url": "https://open.spotify.com/artist/0DgheKnMZrZrtmvuf0ajkD"
+        },
+        {
+          "name": "Joseph Ama",
+          "url": "https://open.spotify.com/artist/2CGYcI3ufgXqXY1iUG3Puz"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Atin Lang",
+      "url": "https://open.spotify.com/track/76Mpyc732jtMXkL3TIjaDD"
     },
     {
       "album": {
@@ -2870,6 +2910,24 @@
       "duration_ms": 235026,
       "name": "Comets (with Petra Sihombing)",
       "url": "https://open.spotify.com/track/4DORdPh0YOYXrOlPi1qRG5"
+    },
+    {
+      "album": {
+        "name": "Conversations",
+        "url": "https://open.spotify.com/album/6wWLZNNrRCxw6LvNc9GKYk"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165033,
+      "name": "Conversations",
+      "url": "https://open.spotify.com/track/0DAYGnA7XlkWlajNTbncQ8"
     },
     {
       "album": {
@@ -5040,6 +5098,24 @@
       "duration_ms": 172983,
       "name": "Habang Buhay",
       "url": "https://open.spotify.com/track/3s21z37MM3tbVmRA9c1tuL"
+    },
+    {
+      "album": {
+        "name": "Habang Tumatagal",
+        "url": "https://open.spotify.com/album/1N9SuTOUAdVUa0Po4ch1Lf"
+      },
+      "artists": [
+        {
+          "name": "Ice Seguerra",
+          "url": "https://open.spotify.com/artist/19X3R5eJguNYE8lwDZZWV9"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212430,
+      "name": "Habang Tumatagal",
+      "url": "https://open.spotify.com/track/3ubGwsslaMPiAiHueKBlnB"
     },
     {
       "album": {
@@ -8343,6 +8419,24 @@
     },
     {
       "album": {
+        "name": "Lasang Seryoso",
+        "url": "https://open.spotify.com/album/3kbESAcAfZ1cr1709q6cii"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ramos",
+          "url": "https://open.spotify.com/artist/15O0YfpWiSYUMsaJJkoZMI"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204848,
+      "name": "Lasang Seryoso",
+      "url": "https://open.spotify.com/track/2t4x9AVN7boGiLX6ALLCqd"
+    },
+    {
+      "album": {
         "name": "Curiosity Killed the Cat",
         "url": "https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd"
       },
@@ -8572,7 +8666,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 239625,
       "name": "Lihim",
       "url": "https://open.spotify.com/track/4vptnzXC93pl0hdSWEHWze"
@@ -8752,7 +8846,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 275753,
       "name": "Listahan",
       "url": "https://open.spotify.com/track/5S7Deakw4SQd7FsNbtzyoe"
@@ -10346,7 +10440,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 117176,
       "name": "my crush and i will crush the system baby",
       "url": "https://open.spotify.com/track/3X97K3qe31iHwbZTiib3tQ"
@@ -13132,7 +13226,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 213000,
       "name": "Pinay Pa Rin",
       "url": "https://open.spotify.com/track/4lPqbA5d6wrgMfxdAOgJPf"
@@ -13436,6 +13530,24 @@
       "duration_ms": 223636,
       "name": "Puntirya",
       "url": "https://open.spotify.com/track/7fHgK24OXJ4tcZaGyERyFT"
+    },
+    {
+      "album": {
+        "name": "Puso",
+        "url": "https://open.spotify.com/album/6INNQlbCinKJOVMURzn5Kz"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262560,
+      "name": "Puso",
+      "url": "https://open.spotify.com/track/6bL1905He8qzy48DcXO1Xt"
     },
     {
       "album": {
@@ -14126,7 +14238,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 214000,
       "name": "sa'yo lang ako",
       "url": "https://open.spotify.com/track/6gl8db5gr51ITIwYosHnTG"
@@ -14295,6 +14407,24 @@
     },
     {
       "album": {
+        "name": "Saglit Lang",
+        "url": "https://open.spotify.com/album/7o6mls2aMcrqpBpqSwqsJo"
+      },
+      "artists": [
+        {
+          "name": "Julie Anne San Jose",
+          "url": "https://open.spotify.com/artist/4NeCu267LZemnoq44lZYKy"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Saglit Lang",
+      "url": "https://open.spotify.com/track/773eGrCsYhOyubb33IFVOL"
+    },
+    {
+      "album": {
         "name": "Saksi Ang Langit",
         "url": "https://open.spotify.com/album/7CVVDg2G6mpYwH6B45SKuK"
       },
@@ -14396,7 +14526,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 340500,
       "name": "Sampaguita",
       "url": "https://open.spotify.com/track/3JD2ksnyfhhkOW0z6eINx9"
@@ -15025,6 +15155,28 @@
     },
     {
       "album": {
+        "name": "Selepono",
+        "url": "https://open.spotify.com/album/7DQY4ujkExEZGCJDVoKlDN"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        },
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163672,
+      "name": "Selepono",
+      "url": "https://open.spotify.com/track/0t2b2Dc7sI3J2quYJ0aWwj"
+    },
+    {
+      "album": {
         "name": "SENYALES",
         "url": "https://open.spotify.com/album/5AgZFtKhktEhJ0K3Jg1zaf"
       },
@@ -15553,6 +15705,24 @@
     },
     {
       "album": {
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "SPEECHLESS",
+      "url": "https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta"
+    },
+    {
+      "album": {
         "name": "Spell It Out",
         "url": "https://open.spotify.com/album/1TcPBkyRs4buC8NxiKIJ3s"
       },
@@ -15564,7 +15734,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 160334,
       "name": "Spell It Out",
       "url": "https://open.spotify.com/track/0eeQJzdeppwBUhUphmH0V6"
@@ -16208,7 +16378,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 198367,
       "name": "TABI",
       "url": "https://open.spotify.com/track/08eZIOB9t9wZHHwwXQT4cu"
@@ -17714,20 +17884,20 @@
       },
       "artists": [
         {
-          "name": "Jrldm",
-          "url": "https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB"
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
         },
         {
           "name": "Guddhist Gunatita",
           "url": "https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL"
         },
         {
-          "name": "Alisson Shore",
-          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+          "name": "Jrldm",
+          "url": "https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB"
         },
         {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
         }
       ],
       "date_added": "2026-07-03",
@@ -18302,7 +18472,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 224666,
       "name": "We Belong",
       "url": "https://open.spotify.com/track/4G7FHIRVLJRzJ7SzaViFXN"

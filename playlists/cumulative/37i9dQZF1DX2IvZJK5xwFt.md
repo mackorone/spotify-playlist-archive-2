@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-1,135 songs - 2 day 22 hr 9 min
+1,136 songs - 2 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Darkest Lullaby](https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Darkest Lullaby](https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH) | 3:10 | 2024-06-20 | 2024-09-20 |
 | [Darkness Turns to Light \(Opening Theme Song\) \[From "Beyblade Burst QuadStrike"\]](https://open.spotify.com/track/6J9DuvcPLzivD98KsXSJHu) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Darkness Turns to Light \(Opening Theme Song\) \[From "Beyblade Burst QuadStrike"\]](https://open.spotify.com/album/2t9BAAn4EeMEkwRbxsP1Ou) | 2:03 | 2023-02-09 | 2023-02-24 |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-16 | 2025-05-16 |
+| [Date Night](https://open.spotify.com/track/3kddxpf7WLApBv8pRTCn49) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Date Night](https://open.spotify.com/album/4rSBYJKVfytsfeXw2PYjNv) | 3:47 | 2026-07-25 |  |
 | [Davies and Wales](https://open.spotify.com/track/5eNdtVT6h1Sr7Q6xdv5Ptu) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [POPtical Illusion](https://open.spotify.com/album/4Y47DeNLz30h7AyLtGdqtT) | 4:15 | 2024-06-13 | 2024-06-21 |
 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 | 2025-06-27 | 2025-07-18 |
 | [Daylight](https://open.spotify.com/track/6LleMnUceskUsmszoOlODl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Daylight](https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m) | 4:00 | 2022-06-02 | 2023-02-17 |

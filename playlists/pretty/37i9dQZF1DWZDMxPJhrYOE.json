@@ -1,6 +1,6 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105667,
+  "num_followers": 105661,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-07-16 22:01:35",
       "album": {
+        "name": "My Reckless Abandon",
+        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 197032,
+      "name": "i deserve better.",
+      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
+    },
+    {
+      "added_at": "2026-07-16 22:01:35",
+      "album": {
         "name": "Twenty One",
         "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 147269,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
-    },
-    {
-      "added_at": "2026-07-16 22:01:35",
-      "album": {
-        "name": "My Reckless Abandon",
-        "url": "https://open.spotify.com/album/3Es4jQPv1emwM2zP1ZisIM"
-      },
-      "artists": [
-        {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
-        }
-      ],
-      "duration_ms": 197032,
-      "name": "i deserve better.",
-      "url": "https://open.spotify.com/track/243hKd6kjvVuFBWLzgK35P"
     },
     {
       "added_at": "2026-07-16 22:01:35",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-07-16 22:01:35",
       "album": {
+        "name": "Break Up in Reverse",
+        "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 205523,
+      "name": "Break Up in Reverse",
+      "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
+    },
+    {
+      "added_at": "2026-07-16 22:01:35",
+      "album": {
         "name": "Sad Girls",
         "url": "https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 168771,
       "name": "Sad Girls",
       "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"
-    },
-    {
-      "added_at": "2026-07-16 22:01:35",
-      "album": {
-        "name": "Break Up in Reverse",
-        "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 205523,
-      "name": "Break Up in Reverse",
-      "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
     },
     {
       "added_at": "2026-07-16 22:01:35",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-07-16 22:01:35",
       "album": {
-        "name": "From Down Here",
-        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 241470,
-      "name": "From Down Here",
-      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
-    },
-    {
-      "added_at": "2026-07-16 22:01:35",
-      "album": {
         "name": "Silver Lines (feat. Emily Warren)",
         "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2026-07-16 22:01:35",
       "album": {
+        "name": "From Down Here",
+        "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 241470,
+      "name": "From Down Here",
+      "url": "https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox"
+    },
+    {
+      "added_at": "2026-07-16 22:01:35",
+      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/1AUrq5meJLITlFgraUVuE5"
       },
@@ -903,46 +903,6 @@
       "duration_ms": 160468,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/4YAMMJJOKgNlIOtrYlvvNp"
-    },
-    {
-      "added_at": "2026-07-16 22:01:35",
-      "album": {
-        "name": "WAVY",
-        "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        },
-        {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
-        }
-      ],
-      "duration_ms": 163437,
-      "name": "Hold Mit Tempo",
-      "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
-    },
-    {
-      "added_at": "2026-07-16 22:01:35",
-      "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-07-16 22:01:35",
@@ -967,6 +927,46 @@
       "duration_ms": 326909,
       "name": "When I\u2019m Home",
       "url": "https://open.spotify.com/track/5nigMKgXqeNvaiqEBWwo9s"
+    },
+    {
+      "added_at": "2026-07-16 22:01:35",
+      "album": {
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
+    },
+    {
+      "added_at": "2026-07-16 22:01:35",
+      "album": {
+        "name": "WAVY",
+        "url": "https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 163437,
+      "name": "Hold Mit Tempo",
+      "url": "https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM"
     },
     {
       "added_at": "2026-07-16 22:01:35",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-07-16 22:01:35",
       "album": {
+        "name": "Happiness Anytime: Part 1",
+        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 211562,
+      "name": "Light the Way",
+      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
+    },
+    {
+      "added_at": "2026-07-16 22:01:35",
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 153245,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG"
-    },
-    {
-      "added_at": "2026-07-16 22:01:35",
-      "album": {
-        "name": "Happiness Anytime: Part 1",
-        "url": "https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 211562,
-      "name": "Light the Way",
-      "url": "https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j"
     },
     {
       "added_at": "2026-07-16 22:01:35",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2026-07-16 22:01:35",
       "album": {
-        "name": "Here With Me Now",
-        "url": "https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf"
-      },
-      "artists": [
-        {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 260023,
-      "name": "Here With Me Now",
-      "url": "https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n"
-    },
-    {
-      "added_at": "2026-07-16 22:01:35",
-      "album": {
         "name": "Joven y Salvaje (with Bb trickz)",
         "url": "https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk"
       },
@@ -1339,22 +1319,22 @@
     {
       "added_at": "2026-07-16 22:01:35",
       "album": {
-        "name": "Den lange vej",
-        "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
+        "name": "Here With Me Now",
+        "url": "https://open.spotify.com/album/1yGhvmVC9eJXFO1xs3ttwf"
       },
       "artists": [
         {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
         },
         {
-          "name": "ozzy",
-          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 178695,
-      "name": "Hvis v\u00e6ggene kunne tale",
-      "url": "https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9"
+      "duration_ms": 260023,
+      "name": "Here With Me Now",
+      "url": "https://open.spotify.com/track/1Hu1QammuVLqU6IvvmbV2n"
     },
     {
       "added_at": "2026-07-16 22:01:35",
@@ -1371,6 +1351,26 @@
       "duration_ms": 209763,
       "name": "Portugal",
       "url": "https://open.spotify.com/track/1nCEAmmOXmXmODiY5KnEHX"
+    },
+    {
+      "added_at": "2026-07-16 22:01:35",
+      "album": {
+        "name": "Den lange vej",
+        "url": "https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf"
+      },
+      "artists": [
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "duration_ms": 178695,
+      "name": "Hvis v\u00e6ggene kunne tale",
+      "url": "https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9"
     },
     {
       "added_at": "2026-07-16 22:01:35",
@@ -1447,22 +1447,18 @@
     {
       "added_at": "2026-07-16 22:01:35",
       "album": {
-        "name": "Sign From God",
-        "url": "https://open.spotify.com/album/52wtfF7dc3lrllLzMhEQ3I"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0LpaPfCPzVuQPhN1N8u8dp"
       },
       "artists": [
         {
-          "name": "Cobrah",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 200200,
-      "name": "Sign From God",
-      "url": "https://open.spotify.com/track/465ZH6T2yFlcvb7B4J4M05"
+      "duration_ms": 190666,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1lfoj5wpj5GYGDse0rh453"
     }
   ],
   "unique_name": "De nye",

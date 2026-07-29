@@ -4,18 +4,19 @@
 
 > This is Kara\-Lis Coverdale\. The essential tracks, all in one playlist.
 
-57 songs - 5 hr 18 min
+58 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2c](https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts \(Expanded Reissue\)](https://open.spotify.com/album/2sB7YlLZuBhoQjovV8bZTW) | 7:52 | 2026-03-19 |  |
 | [A 476](https://open.spotify.com/track/3DtqWpoU1uRjyltYDqr4GL) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 2:02 | 2026-03-25 |  |
+| [A 477](https://open.spotify.com/track/1zpArFIlQ4ZS2j5PFa86al) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 15:51 | 2026-07-29 |  |
 | [A 478](https://open.spotify.com/track/6CBVE62tXTPwSHBNIRQ5eK) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 4:51 | 2026-03-19 |  |
 | [A 479](https://open.spotify.com/track/3hJgoqoik98ctXroEVMPvA) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 23:03 | 2026-05-29 |  |
 | [A 480](https://open.spotify.com/track/59fgjCn7ebqw8l3tl93Hfr) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [A 480](https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm) | 2:37 | 2026-04-22 |  |
 | [Ad\_renaline](https://open.spotify.com/track/0IGp5CumAZRD3pbgi7NQxu) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 4:29 | 2026-03-19 |  |
 | [Arcane](https://open.spotify.com/track/65rOBJYKAZeBnd1WuWXrRk) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Aftertouches](https://open.spotify.com/album/7Fe43zwjkO6cMNrP8HdDoN) | 5:22 | 2026-04-27 | 2026-06-06 |
-| [Between](https://open.spotify.com/track/5j5VDv8LB0pTvcewHO7b2q) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 3:35 | 2026-05-31 |  |
+| [Between](https://open.spotify.com/track/5j5VDv8LB0pTvcewHO7b2q) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 3:35 | 2026-05-31 | 2026-07-29 |
 | [Borrowed Memory \(from\)](https://open.spotify.com/track/1PyACtmfSCqwDeMl9a4P4x) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 2:59 | 2026-03-19 | 2026-06-29 |
 | [Boundlessness](https://open.spotify.com/track/11EfRHeiSHBynrX6IKpugx) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 4:37 | 2026-03-19 |  |
 | [Buffering landscape](https://open.spotify.com/track/0DeNECMRpIJFEhPNR0Uf9l) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 5:34 | 2026-03-20 |  |
@@ -26,7 +27,7 @@
 | [Curve Traces of Held Space](https://open.spotify.com/track/6owxzv6fdXeMfqFRtjuUgB) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 7:57 | 2026-03-19 |  |
 | [Daze](https://open.spotify.com/track/2S8Qc0lIVObqMrymPz5WP8) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 5:16 | 2026-03-19 |  |
 | [Disney](https://open.spotify.com/track/5MkuEX1acmkliCnJggxXgo) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA), [LXV](https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY) | [Sirens](https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol) | 8:14 | 2026-03-19 |  |
-| [Equal Exchange](https://open.spotify.com/track/76oCgSqT7J9T6UlSUtPD1Q) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 2:03 | 2026-03-22 | 2026-07-12 |
+| [Equal Exchange](https://open.spotify.com/track/76oCgSqT7J9T6UlSUtPD1Q) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 2:03 | 2026-03-22 |  |
 | [Eternity](https://open.spotify.com/track/2EFrVQIBtydHgQd8S6Ftrz) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [From Where You Came](https://open.spotify.com/album/7ngtNHKrtpN37n5Sr2lwQV) | 3:31 | 2026-03-19 |  |
 | [Fantas Morbida \- Kara\-Lis Coverdale](https://open.spotify.com/track/6zrfr1RV9IM7SKUdYHU4UX) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/63QmA6FQwtoHIDP3m43UgS) | 3:07 | 2026-03-19 |  |
 | [Fireflight](https://open.spotify.com/track/106Kuzs6vIiW908vLAOm0G) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fireflight](https://open.spotify.com/album/28vw89lvpwrlfi54Rgvv8S) | 3:04 | 2026-03-19 |  |

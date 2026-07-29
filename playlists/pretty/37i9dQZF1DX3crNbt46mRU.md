@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including RIN, Charli xcx, Loredana, Pashanim, LEA & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,630 likes - 91 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,625 likes - 91 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 35 | [It Often Be](https://open.spotify.com/track/0KtUXyyYREwnkSoXcslJIp) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM), [Kail Parker](https://open.spotify.com/artist/7oIRE1C1KbyYnr7AVDevWA) | [It Often Be](https://open.spotify.com/album/4MVsBsbmWkptY1TrSA6bFp) | 3:04 |
 | 36 | [Fründe](https://open.spotify.com/track/3RROp5Ayom6rsLIm3yhKK5) | [Baschi](https://open.spotify.com/artist/6XzAV5lONpTgoSJDsF2Ubz) | [Fründe](https://open.spotify.com/album/2taNtgAEuvKF78s3yLr9zk) | 3:10 |
 | 37 | [HOT AS A BIC](https://open.spotify.com/track/0KykicNBk9kGkvydoKdKeR) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [HOT AS A BIC](https://open.spotify.com/album/7CmtWx7f2EydR0o4bJUcdw) | 2:53 |
-| 38 | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
+| 38 | [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
 | 39 | [Cubanlinks](https://open.spotify.com/track/7FRLmSSAPzwREENRTmrNtQ) | [Ryan87](https://open.spotify.com/artist/6BzPt6ue95AG1kg9TaJ4LJ), [EAZ](https://open.spotify.com/artist/03Vz1qy4oauKKM9kJKy5DW) | [Cubanlinks](https://open.spotify.com/album/5jEpzpbX1VoFLZzTFK1ZY2) | 2:48 |
 | 40 | [Tonight](https://open.spotify.com/track/57ZUOsF6vCae0j2OCSk0nn) | [Mucco](https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y) | [Tonight](https://open.spotify.com/album/0P9VV4CzxLC5TKB4UVZ6OR) | 2:21 |
 | 41 | [DADDY ISSUES](https://open.spotify.com/track/1FpUzSrHMlqZQyCJCRSWgo) | [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [DADDY ISSUES](https://open.spotify.com/album/29I2acz0RATAvGJBjipJ63) | 2:42 |

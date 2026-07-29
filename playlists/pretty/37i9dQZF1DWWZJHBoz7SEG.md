@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Pongamonos sentimentales con las novedades de esta semana, Eden Muñoz y Alfredito Olivas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,271 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,252 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 10 | [Gigante \- A COLORS SHOW](https://open.spotify.com/track/03QlAtjQCaDM051hJ7qgD7) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Gigante \- A COLORS SHOW](https://open.spotify.com/album/63mrBSIe7fAxER3CyKVSDs) | 4:02 |
 | 11 | [La Mera Verdura](https://open.spotify.com/track/4tu4meJwua2TMNYU0gh3oV) | [Superiores de Nuevo Leon](https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Mera Verdura](https://open.spotify.com/album/76XJZfWXmSTja9OkkEhvJ3) | 2:20 |
 | 12 | [que te vaya bien](https://open.spotify.com/track/58LiAJyT6hMMUzW0npHfzY) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [que te vaya bien](https://open.spotify.com/album/1vlompiT1FQLKGUnUTKHme) | 3:14 |
-| 13 | [Azul](https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 3:22 |
+| 13 | [Azul \(Spanish\)](https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 3:22 |
 | 14 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 | 15 | [Camera](https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Camera](https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc) | 2:31 |
 | 16 | [Estamos Listos](https://open.spotify.com/track/6ybJCiSbTxvLXWmgCIxtQJ) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Dios Bendiga](https://open.spotify.com/album/4NiQalkIqQLwIvu7WtwIlH) | 2:36 |

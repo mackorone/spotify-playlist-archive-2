@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Ambr\u00e8",
-  "num_followers": 1314701,
+  "num_followers": 1314614,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1401,6 +1401,22 @@
       "url": "https://open.spotify.com/track/5yE7OnSteFeItR1YlmV9WI"
     },
     {
+      "added_at": "2026-07-17 05:33:57",
+      "album": {
+        "name": "Sunshine / P4P",
+        "url": "https://open.spotify.com/album/4eg0VWHDfihjCNunMqW1PT"
+      },
+      "artists": [
+        {
+          "name": "anaiis",
+          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
+        }
+      ],
+      "duration_ms": 220044,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa"
+    },
+    {
       "added_at": "2026-06-21 21:45:09",
       "album": {
         "name": "Still Be Mine",
@@ -1423,22 +1439,6 @@
       "duration_ms": 156666,
       "name": "Still Be Mine",
       "url": "https://open.spotify.com/track/5NKy0rXZGsuHnVCpuomcul"
-    },
-    {
-      "added_at": "2026-07-17 05:33:57",
-      "album": {
-        "name": "Sunshine / P4P",
-        "url": "https://open.spotify.com/album/4eg0VWHDfihjCNunMqW1PT"
-      },
-      "artists": [
-        {
-          "name": "anaiis",
-          "url": "https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl"
-        }
-      ],
-      "duration_ms": 220044,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1557,22 +1557,6 @@
       "url": "https://open.spotify.com/track/025c4zVMZmyLrSPtsmXA7x"
     },
     {
-      "added_at": "2026-06-21 21:45:09",
-      "album": {
-        "name": "Go To Hell",
-        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Go To Hell",
-      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
-    },
-    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "I Had a Dream She Took My Hand",
@@ -1603,6 +1587,22 @@
       "duration_ms": 207950,
       "name": "Another Baby!",
       "url": "https://open.spotify.com/track/6rTge3gYWYkluC9MsXDZoV"
+    },
+    {
+      "added_at": "2026-06-21 21:45:09",
+      "album": {
+        "name": "Go To Hell",
+        "url": "https://open.spotify.com/album/1WtrlQC3TsKAOTlWjxVdkt"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Go To Hell",
+      "url": "https://open.spotify.com/track/55oEeRm8eGPqQODbj4iE6q"
     },
     {
       "added_at": "2024-08-16 04:08:50",
@@ -1673,22 +1673,6 @@
       "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
     },
     {
-      "added_at": "2024-08-23 05:28:40",
-      "album": {
-        "name": "Someone Asked Me How I've Been",
-        "url": "https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq"
-      },
-      "artists": [
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Someone Asked Me How I've Been",
-      "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
-    },
-    {
       "added_at": "2025-08-22 10:33:51",
       "album": {
         "name": "To Dry a Tear",
@@ -1703,6 +1687,22 @@
       "duration_ms": 240263,
       "name": "Lord, Forgive Me",
       "url": "https://open.spotify.com/track/6OoRRvJWQdAL4nOIFrVKv9"
+    },
+    {
+      "added_at": "2024-08-23 05:28:40",
+      "album": {
+        "name": "Someone Asked Me How I've Been",
+        "url": "https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq"
+      },
+      "artists": [
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Someone Asked Me How I've Been",
+      "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
     },
     {
       "added_at": "2025-06-27 04:16:56",
@@ -1721,22 +1721,6 @@
       "url": "https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r"
     },
     {
-      "added_at": "2026-05-15 07:04:17",
-      "album": {
-        "name": "Real Here Now / Water",
-        "url": "https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 300764,
-      "name": "Real Here Now",
-      "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
-    },
-    {
       "added_at": "2025-02-14 07:50:47",
       "album": {
         "name": "CUT UP",
@@ -1751,6 +1735,22 @@
       "duration_ms": 176785,
       "name": "CUT UP",
       "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
+    },
+    {
+      "added_at": "2026-05-15 07:04:17",
+      "album": {
+        "name": "Real Here Now / Water",
+        "url": "https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 300764,
+      "name": "Real Here Now",
+      "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -1801,6 +1801,22 @@
       "url": "https://open.spotify.com/track/6jOZXCgbIsBZiYJGpRsL5O"
     },
     {
+      "added_at": "2024-12-13 05:00:40",
+      "album": {
+        "name": "W1LL U L13?",
+        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 139399,
+      "name": "W1LL U L13?",
+      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
+    },
+    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "Flood / Glow",
@@ -1819,22 +1835,6 @@
       "duration_ms": 179586,
       "name": "Flood (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
-    },
-    {
-      "added_at": "2024-12-13 05:00:40",
-      "album": {
-        "name": "W1LL U L13?",
-        "url": "https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS"
-      },
-      "artists": [
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 139399,
-      "name": "W1LL U L13?",
-      "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
     },
     {
       "added_at": "2025-10-17 06:22:08",
@@ -1949,22 +1949,6 @@
       "url": "https://open.spotify.com/track/356A6LLhntlbIxP8h0Lf3Q"
     },
     {
-      "added_at": "2026-05-08 06:11:38",
-      "album": {
-        "name": "is anybody home!?",
-        "url": "https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 257561,
-      "name": "clear blue!",
-      "url": "https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI"
-    },
-    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "raindance",
@@ -1981,6 +1965,30 @@
       "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
     },
     {
+      "added_at": "2026-07-17 05:33:57",
+      "album": {
+        "name": "MEMORIES FOR SALE ---AT---> 66 GREENE ST SOHO NY (DELUXE)",
+        "url": "https://open.spotify.com/album/6c0f6ZFbj8gorryzyI6xx7"
+      },
+      "artists": [
+        {
+          "name": "_BY.ALEXANDER",
+          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
+        },
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        },
+        {
+          "name": "HAWA",
+          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
+        }
+      ],
+      "duration_ms": 206060,
+      "name": "the truth at a distance",
+      "url": "https://open.spotify.com/track/2VUabKSbAUgD4sLDf3EQhI"
+    },
+    {
       "added_at": "2024-06-21 07:44:39",
       "album": {
         "name": "Petra",
@@ -1995,6 +2003,22 @@
       "duration_ms": 212000,
       "name": "Petra",
       "url": "https://open.spotify.com/track/5CQf5DPpyqKwn2wueBEd2g"
+    },
+    {
+      "added_at": "2026-05-08 06:11:38",
+      "album": {
+        "name": "is anybody home!?",
+        "url": "https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 257561,
+      "name": "clear blue!",
+      "url": "https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI"
     },
     {
       "added_at": "2024-06-14 07:30:32",
@@ -2035,26 +2059,18 @@
     {
       "added_at": "2026-07-17 05:33:57",
       "album": {
-        "name": "MEMORIES FOR SALE ---AT---> 66 GREENE ST SOHO NY (DELUXE)",
-        "url": "https://open.spotify.com/album/6c0f6ZFbj8gorryzyI6xx7"
+        "name": "COMMUNICATION",
+        "url": "https://open.spotify.com/album/3a25myZiwOQD2QsWJvbMni"
       },
       "artists": [
         {
-          "name": "_BY.ALEXANDER",
-          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
-        },
-        {
-          "name": "Nali",
-          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
-        },
-        {
-          "name": "HAWA",
-          "url": "https://open.spotify.com/artist/2YwiHXMC3iIiXZEQZ5PUJG"
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
         }
       ],
-      "duration_ms": 206060,
-      "name": "the truth at a distance",
-      "url": "https://open.spotify.com/track/2VUabKSbAUgD4sLDf3EQhI"
+      "duration_ms": 177902,
+      "name": "COMMUNICATION",
+      "url": "https://open.spotify.com/track/61A4BwzpEF02PBNJN5pA2a"
     },
     {
       "added_at": "2025-03-28 04:00:52",
@@ -2091,22 +2107,6 @@
       "duration_ms": 184227,
       "name": "LUV IN DA 6 (with Smino)",
       "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
-    },
-    {
-      "added_at": "2026-07-17 05:33:57",
-      "album": {
-        "name": "COMMUNICATION",
-        "url": "https://open.spotify.com/album/3a25myZiwOQD2QsWJvbMni"
-      },
-      "artists": [
-        {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
-        }
-      ],
-      "duration_ms": 177902,
-      "name": "COMMUNICATION",
-      "url": "https://open.spotify.com/track/61A4BwzpEF02PBNJN5pA2a"
     },
     {
       "added_at": "2024-10-20 00:14:41",
@@ -2457,22 +2457,6 @@
       "url": "https://open.spotify.com/track/7FmXal4bWDvKFIpZw7VTiB"
     },
     {
-      "added_at": "2024-08-30 06:47:05",
-      "album": {
-        "name": "intention 4 u",
-        "url": "https://open.spotify.com/album/5xouGwfdwpVnhldVCy9L57"
-      },
-      "artists": [
-        {
-          "name": "Rowena Fysx",
-          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
-        }
-      ],
-      "duration_ms": 240912,
-      "name": "intention 4 u",
-      "url": "https://open.spotify.com/track/4Xn4gMIwy5bpgbE7HAOKTq"
-    },
-    {
       "added_at": "2024-07-19 15:05:24",
       "album": {
         "name": "Satellite Business 2.0",
@@ -2493,6 +2477,22 @@
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
     },
     {
+      "added_at": "2024-08-30 06:47:05",
+      "album": {
+        "name": "intention 4 u",
+        "url": "https://open.spotify.com/album/5xouGwfdwpVnhldVCy9L57"
+      },
+      "artists": [
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p"
+        }
+      ],
+      "duration_ms": 240912,
+      "name": "intention 4 u",
+      "url": "https://open.spotify.com/track/4Xn4gMIwy5bpgbE7HAOKTq"
+    },
+    {
       "added_at": "2025-10-17 06:22:08",
       "album": {
         "name": "Closer Than Close",
@@ -2509,20 +2509,20 @@
       "url": "https://open.spotify.com/track/1aPqhSBA6xYd3NOJLouQE5"
     },
     {
-      "added_at": "2025-06-27 04:16:56",
+      "added_at": "2025-05-02 04:00:39",
       "album": {
-        "name": "Homerun 2021",
-        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
+        "name": "LVRS PARADISE (SIDE A)",
+        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
       },
       "artists": [
         {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
         }
       ],
-      "duration_ms": 201666,
-      "name": "Homerun 2021",
-      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
+      "duration_ms": 140104,
+      "name": "GET YA MONEY",
+      "url": "https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR"
     },
     {
       "added_at": "2025-04-04 04:43:43",
@@ -2545,20 +2545,20 @@
       "url": "https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs"
     },
     {
-      "added_at": "2025-05-02 04:00:39",
+      "added_at": "2025-06-27 04:16:56",
       "album": {
-        "name": "LVRS PARADISE (SIDE A)",
-        "url": "https://open.spotify.com/album/4X6ri4Hmw1NyTHLYMERhAG"
+        "name": "Homerun 2021",
+        "url": "https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR"
       },
       "artists": [
         {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
         }
       ],
-      "duration_ms": 140104,
-      "name": "GET YA MONEY",
-      "url": "https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR"
+      "duration_ms": 201666,
+      "name": "Homerun 2021",
+      "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
     },
     {
       "added_at": "2024-06-14 07:30:32",

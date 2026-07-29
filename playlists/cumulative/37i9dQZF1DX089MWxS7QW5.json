@@ -481,6 +481,28 @@
     },
     {
       "album": {
+        "name": "Ain't Good",
+        "url": "https://open.spotify.com/album/1COvneAJhKJgdD4lof33Ka"
+      },
+      "artists": [
+        {
+          "name": "siso",
+          "url": "https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry"
+        },
+        {
+          "name": "ALICE U",
+          "url": "https://open.spotify.com/artist/3DwCWZ5Zgo2ePZZM5cC8lT"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184325,
+      "name": "Ain't Good",
+      "url": "https://open.spotify.com/track/7FVPqMlNjyhp6J91NlDtvI"
+    },
+    {
+      "album": {
         "name": "Track 03",
         "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
       },
@@ -3486,7 +3508,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 219813,
       "name": "emoji",
       "url": "https://open.spotify.com/track/2jriOP3Vos1V2dsxNkdu18"
@@ -6803,6 +6825,28 @@
     },
     {
       "album": {
+        "name": "love me not (feat. Wonstein)",
+        "url": "https://open.spotify.com/album/7KpCgT23aD7sF3B1gKJfos"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "love me not (feat. Wonstein)",
+      "url": "https://open.spotify.com/track/5wwLEmOTkShwvkzu621069"
+    },
+    {
+      "album": {
         "name": "Me, Stranger",
         "url": "https://open.spotify.com/album/6mwMDz7oz9yFxybYAszv4n"
       },
@@ -7108,7 +7152,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 152613,
       "name": "Marshmallow",
       "url": "https://open.spotify.com/track/0CdKCMl8tnEFRnAKOwG2DL"
@@ -10095,6 +10139,32 @@
     },
     {
       "album": {
+        "name": "SPEEED",
+        "url": "https://open.spotify.com/album/4pBSk3ZDDmsKkYvBNJGAO3"
+      },
+      "artists": [
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/6FYDXXEMicr6w55KTboFOH"
+        },
+        {
+          "name": "Justin Park",
+          "url": "https://open.spotify.com/artist/4egd57eyEccqfOkHxoQqAj"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "SPEEED (feat. JUSTHIS, Justin Park)",
+      "url": "https://open.spotify.com/track/0oGriEaQ1Bvo31FsIVmEMf"
+    },
+    {
+      "album": {
         "name": "Spi-cy (feat. Soo-Yeony)",
         "url": "https://open.spotify.com/album/5wSgsjV4Wb93tcuM75oIEC"
       },
@@ -12062,7 +12132,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 187501,
       "name": "When Spring Comes",
       "url": "https://open.spotify.com/track/6zQrcQ7jXnlvj9Q8WBrMCf"

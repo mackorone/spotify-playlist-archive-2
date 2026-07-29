@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34883,
+  "num_followers": 34893,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "Sogni",
         "url": "https://open.spotify.com/album/6lJgCTjg837PfMyZfVaOi4"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 154223,
       "name": "Sogni",
       "url": "https://open.spotify.com/track/5COTWvzOGG0GecoHevfAvK"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
+      },
+      "artists": [
+        {
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "1000 Smiles",
-        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
-      },
-      "artists": [
-        {
-          "name": "Alsogood",
-          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "New Game Plus",
         "url": "https://open.spotify.com/album/6tmZs6mC32XYxX7roqBsFd"
       },
@@ -1515,22 +1499,18 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Joyful",
-        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
+        "name": "1000 Smiles",
+        "url": "https://open.spotify.com/album/2coGljzacUFergWPnD8hoF"
       },
       "artists": [
         {
-          "name": "Flavio Boltro",
-          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
-        },
-        {
-          "name": "Alex Ligertwood",
-          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
+          "name": "Alsogood",
+          "url": "https://open.spotify.com/artist/5OysFKzPrUU0KnLdCLCkSG"
         }
       ],
-      "duration_ms": 241966,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
+      "duration_ms": 132413,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/3YkfBiiNDyedGy9iCX1f5r"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1551,6 +1531,26 @@
       "duration_ms": 323533,
       "name": "Impronte",
       "url": "https://open.spotify.com/track/6dlMTPMkePiZ4YFn95Tcgv"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "Joyful",
+        "url": "https://open.spotify.com/album/4fBaQJruwDEhSU5aNnsF43"
+      },
+      "artists": [
+        {
+          "name": "Flavio Boltro",
+          "url": "https://open.spotify.com/artist/70dgzJKQ07dYCEsVYyU9jw"
+        },
+        {
+          "name": "Alex Ligertwood",
+          "url": "https://open.spotify.com/artist/09EXBdxGvRyakIrU1ag9fV"
+        }
+      ],
+      "duration_ms": 241966,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1wAWk4UszlXtx5RaOHbxgC"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Ma Gnossienne",
-        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        }
-      ],
-      "duration_ms": 270513,
-      "name": "Ma Gnossienne",
-      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "Trama Latina",
         "url": "https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 370960,
       "name": "chiquil\u00edn de bach\u00edn",
       "url": "https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "Ma Gnossienne",
+        "url": "https://open.spotify.com/album/4VsS8QWKg2kOjqVOeWMwfc"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        }
+      ],
+      "duration_ms": 270513,
+      "name": "Ma Gnossienne",
+      "url": "https://open.spotify.com/track/3rplUj7APNJWeKkDflOkNV"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
-        "name": "Contigo Mi Vida",
-        "url": "https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1"
-      },
-      "artists": [
-        {
-          "name": "Gabriele Poso",
-          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Contigo Mi Vida",
-      "url": "https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
         "name": "New York Days",
         "url": "https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 653973,
       "name": "Certi angoli segreti",
       "url": "https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
+        "name": "Contigo Mi Vida",
+        "url": "https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Poso",
+          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Contigo Mi Vida",
+      "url": "https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G"
     },
     {
       "added_at": "2026-06-25 22:02:45",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2026-06-25 22:02:45",
       "album": {
+        "name": "Freaky People",
+        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
+      },
+      "artists": [
+        {
+          "name": "Al Doum & The Faryds",
+          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
+        }
+      ],
+      "duration_ms": 348375,
+      "name": "Here We Gong",
+      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
+    },
+    {
+      "added_at": "2026-06-25 22:02:45",
+      "album": {
         "name": "La Strada Invisibile",
         "url": "https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 288616,
       "name": "Tuareg",
       "url": "https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU"
-    },
-    {
-      "added_at": "2026-06-25 22:02:45",
-      "album": {
-        "name": "Freaky People",
-        "url": "https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44"
-      },
-      "artists": [
-        {
-          "name": "Al Doum & The Faryds",
-          "url": "https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5"
-        }
-      ],
-      "duration_ms": 348375,
-      "name": "Here We Gong",
-      "url": "https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj"
     },
     {
       "added_at": "2026-06-25 22:02:45",

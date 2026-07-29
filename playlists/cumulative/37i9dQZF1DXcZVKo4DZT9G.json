@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-01",
-  "description": "Theme songs from TV/ movie series of \"Crayon Shinchan\"! \u00a9\u81fc\u4e95\u5100\u4eba\uff0f\u53cc\u8449\u793e\u30fb\u30b7\u30f3\u30a8\u30a4\u30fb\u30c6\u30ec\u30d3\u671d\u65e5\u30fb\uff21\uff24\uff2b 2025",
+  "description": "Theme songs from TV/ movie series of \"Crayon Shinchan\"! \u00a9\u81fc\u4e95\u5100\u4eba\uff0f\u53cc\u8449\u793e\u30fb\u30b7\u30f3\u30a8\u30a4\u30fb\u30c6\u30ec\u30d3\u671d\u65e5\u30fbADK 2026",
   "name": "Crayon Shinchan",
   "tracks": [
     {
@@ -218,6 +218,24 @@
       "duration_ms": 278493,
       "name": "Shounen yo Uso wo Tsuke!",
       "url": "https://open.spotify.com/track/6N9HY8PRz2EUTBzpQiXLkL"
+    },
+    {
+      "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/68NWLfkwoqHl2uDnFlr5mm"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/5bfc8VisE4j5SDmNiK27m8"
     },
     {
       "album": {
@@ -762,7 +780,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 69845,
       "name": "\u6620\u753b\u30af\u30ec\u30e8\u30f3\u3057\u3093\u3061\u3083\u3093 \u8d85\u83ef\u9e97\uff01\u707c\u71b1\u306e\u30ab\u30b9\u30ab\u30d9\u30c0\u30f3\u30b5\u30fc\u30ba",
       "url": "https://open.spotify.com/track/2GYVhVkXc4UADWWi9f4qRc"

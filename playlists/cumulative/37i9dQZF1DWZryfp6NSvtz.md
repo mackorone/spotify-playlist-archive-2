@@ -4,7 +4,7 @@
 
 > The best new rock & alternative tracks every week\. Cover: Protomartyr
 
-11,232 songs - 26 day 16 hr 28 min
+11,233 songs - 26 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4678,6 +4678,7 @@
 | [I Feel Hope Coming](https://open.spotify.com/track/6yFkQeeTv3DDhTQynN2WVV) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Feel Hope Coming](https://open.spotify.com/album/1lnUiFfaZhH6YHZpeWzyBZ) | 5:11 | 2026-07-10 |  |
 | [I Feel Sad For The Happiness Boys](https://open.spotify.com/track/7myQwZWeD0ZoTLZDnDfmx0) | [The Elephant](https://open.spotify.com/artist/0DoWJgmqrYGay5SQYudUqY) | [I Feel Sad For The Happiness Boys](https://open.spotify.com/album/6JbIXErSIldxzBs1E2cLAH) | 3:33 | 2023-03-24 | 2023-04-01 |
 | [I Feel So Cold But It's Warm Outside](https://open.spotify.com/track/7jAQxWVBVAuKmVjlERODpc) | [Baby Strange](https://open.spotify.com/artist/0rOadSgjgHpAXqcEq4D0xS) | [World Below](https://open.spotify.com/album/0rxXVzueM7PnAjecoPYg2i) | 2:54 | 2022-06-16 | 2022-06-24 |
+| [I Feel So Mad](https://open.spotify.com/track/42ZQFIkcmUsOJKPZoPisxb) | [Annabelle Chairlegs](https://open.spotify.com/artist/1Fr1a6j80ISD0UonvFM5V6) | [I Feel So Mad](https://open.spotify.com/album/1peFNMCyuDgana3cbgkx0Y) | 2:06 | 2026-07-28 |  |
 | [I Feel The Love](https://open.spotify.com/track/67eYI9jbt7DZQgKfo7A2Kg) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [I Feel The Love](https://open.spotify.com/album/0MPJo2L3RIXShVMtBkZTMS) | 2:59 | 2023-02-17 | 2023-02-25 |
 | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/track/337hH1EiSJ7Sqqz6weaUmq) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [I Fell in Love With Someone I Shouldn't Have](https://open.spotify.com/album/6pGIeDt94yC7vG4TnAYXbA) | 3:21 | 2022-07-15 | 2022-07-23 |
 | [I felt all there is to feel](https://open.spotify.com/track/4uYdwdPQQqgIdsWY43UV3o) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [I felt all there is to feel](https://open.spotify.com/album/3sRm6ZhRGz2P7826NhIcBt) | 3:22 | 2025-06-13 | 2025-06-28 |

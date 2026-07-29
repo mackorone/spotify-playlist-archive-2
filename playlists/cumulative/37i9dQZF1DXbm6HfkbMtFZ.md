@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-684 songs - 1 day 17 hr 0 min
+685 songs - 1 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Lament for the Sky](https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy) | [Acidslop](https://open.spotify.com/artist/0BZg8Kjli49s7olznI1vs8) | [Freedom to Talk](https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf) | 3:53 | 2022-03-30 |  |
 | [Last Chance to Dance](https://open.spotify.com/track/0kcMbjFbeSH0QAJYtesUnf) | [Ekkah](https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb) | [Last Chance to Dance](https://open.spotify.com/album/2jBkl3sD8s1dFjFbrDj8M8) | 3:42 | 2022-03-30 | 2022-04-18 |
 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 | 2022-02-23 |  |
+| [Last Time](https://open.spotify.com/track/6EWbV0FVnL9CHiSrMyhtpR) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Last Time](https://open.spotify.com/album/3UGeIKs2PcNCp4nphu9BMf) | 3:34 | 2026-07-28 |  |
 | [Last Train \- 2003 Remaster](https://open.spotify.com/track/1zFkWtm4zmjB4O3qAokRBX) | [Allen Toussaint](https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy) | [Southern Nights](https://open.spotify.com/album/4x1gp0YZRosiMcM0f1WGls) | 3:01 | 2022-03-30 | 2024-08-23 |
 | [Late Night Morning Light](https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD) | [Har Mar Superstar](https://open.spotify.com/artist/5wjWLK4KMqmRbdUtTEV1BG) | [Bye Bye 17](https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1) | 2:05 | 2023-06-05 |  |
 | [Laurence](https://open.spotify.com/track/3kVukBQ3JeKNxcI89pi5xL) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [David Numwami](https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel) | [Laurence](https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5) | 3:32 | 2022-05-12 | 2026-01-24 |
@@ -526,7 +527,7 @@
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-05-24 |  |
 | [Sol](https://open.spotify.com/track/3c3VaKO06oPEFlantuWWTz) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:16 | 2024-04-10 | 2025-04-30 |
 | [Somebody Made For Me](https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq) | [Emitt Rhodes](https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y) | [The Emitt Rhodes Recordings \(1969\-1973\)](https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB) | 2:26 | 2021-12-16 | 2024-08-23 |
-| [Somebody New](https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie Sings \(45th Anniversary Edition\)](https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A) | 2:56 | 2022-03-30 |  |
+| [Somebody New](https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie Sings \(45th Anniversary Edition\)](https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A) | 2:56 | 2022-03-30 | 2026-07-29 |
 | [Someone Else](https://open.spotify.com/track/5sGub8Btll3qnMlKinrpz4) | [Henry Wolfe](https://open.spotify.com/artist/2YFql5yrx8t4yrCVzvD8Cn) | [Linda Vista](https://open.spotify.com/album/3EVXpkAnYCI2YhlRAceg5g) | 4:04 | 2022-01-21 | 2026-01-29 |
 | [Something Beautiful](https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [Closer](https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE) | 3:58 | 2022-06-21 | 2025-04-30 |
 | [Something New](https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:13 | 2022-07-26 | 2026-04-19 |

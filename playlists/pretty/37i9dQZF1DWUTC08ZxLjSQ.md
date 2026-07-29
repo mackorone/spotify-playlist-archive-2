@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Mazyn\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Veintiuno\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,673 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,675 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DAWAMA](https://open.spotify.com/track/5NZ8tIcWKIyrJvSJBOc485) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [HOWA](https://open.spotify.com/album/4NkoVXTwjGoMCdVfc54w6p) | 2:43 |
-| 2 | [Ala Babek](https://open.spotify.com/track/1Nsa6NekAdqfr3cQRUV3fx) | [Elias Setta](https://open.spotify.com/artist/1mp2J36BLQVfD9nEgGRWVC), [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [Ala Babek](https://open.spotify.com/album/5z8xJi1cBR3p4lyjo1yIno) | 4:35 |
-| 3 | [Eclipse](https://open.spotify.com/track/6PLlafCH5IqQkJHX3pBllr) | [Ryukk](https://open.spotify.com/artist/6W3wT7AX1kxceaifuk54iP) | [Eclipse](https://open.spotify.com/album/26do3rDYRpKSptiGGBEKPy) | 3:45 |
-| 4 | [ZI](https://open.spotify.com/track/15B5pkBRRFluY6s34CVBTh) | [Alshaikh](https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2), [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C) | [KARMA](https://open.spotify.com/album/00VAMSqhWhHZS9aEQzChce) | 3:04 |
-| 5 | [AD KALAMI](https://open.spotify.com/track/1qWPluFaHkzQPGwP7LuehO) | [JUNIOR](https://open.spotify.com/artist/4gS38VxzflJMo9yt0wrlfv) | [AD KALAMI](https://open.spotify.com/album/4SguTAovECiutkq4lfOs3o) | 2:57 |
-| 6 | [Mi amore](https://open.spotify.com/track/3W6UUGz9IOYmdgH2sDP7dW) | [KAPO](https://open.spotify.com/artist/4wBIRnApFLa3Bg0kCwSM1k) | [Chambre 7](https://open.spotify.com/album/0lYmNBWy9mfUf42Wlk7RYs) | 2:41 |
-| 7 | [Love & Hayt](https://open.spotify.com/track/30RCUXZSDyLOqAeuAujSu5) | [Aziz Konkrite](https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok) | [Siba Sawt\-System \#2](https://open.spotify.com/album/0o6l9J6NUWLeAjyLjvyaIr) | 7:21 |
-| 8 | [Fekra Gowa Dmaghy](https://open.spotify.com/track/4ijT8yTatmxES3yc4j2ZNI) | [Vest](https://open.spotify.com/artist/7a3ylB0pQzc4E853hNdCKX), [Hila](https://open.spotify.com/artist/3A3pot8KOSN2Yozwl0NLuU) | [KIWI](https://open.spotify.com/album/5NrB1piyq6CiK7XE8dgBgt) | 1:39 |
-| 9 | [As2ela](https://open.spotify.com/track/4e2TJUe9uUjBjc6fbnWHtH) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [As2ela](https://open.spotify.com/album/3IY5PQ1fXwxQgB37D12wf5) | 3:41 |
-| 10 | [matgily tany ماتجيلي تاني](https://open.spotify.com/track/5ZBL2z5hjFtaAsE2hZFnAs) | [Pink Seasalt](https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D) | [matgily tany ماتجيلي تاني](https://open.spotify.com/album/4HZze1w2BihEUjCGypObpm) | 3:37 |
-| 11 | [Dance Alone](https://open.spotify.com/track/3sc82QBKHxvlrfViVcB0Y3) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Dance Alone](https://open.spotify.com/album/0Ts002kjMTggkzlrM0oaVa) | 2:29 |
-| 12 | [LAMA AB’A MAAK](https://open.spotify.com/track/4ETJnYTY8P5TIjU5oWgFrh) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP) | [LAMA AB’A MAAK](https://open.spotify.com/album/7gQKuDwWXNmWgU1raWjr9Q) | 2:59 |
-| 13 | [ANA O YAK](https://open.spotify.com/track/5qgV6qJoQrBZ4CHHJy9Yuy) | [NA NADIN](https://open.spotify.com/artist/3MavIKLm4WaqPiHyNRouxK) | [HOB CYCLE](https://open.spotify.com/album/1c1FgOqKp5KlZaFifjlwmo) | 3:03 |
-| 14 | [wonder why](https://open.spotify.com/track/15WRWgiuNlB0cVJk3WST1c) | [Veintiuno](https://open.spotify.com/artist/6DWkZYGQNrv0tr1BCN0qzF), [Caspr](https://open.spotify.com/artist/2jZhkzr1I3z5DYQoULIVm7) | [Fúria](https://open.spotify.com/album/1zQnmEwJFvw6N4OdfDoRTf) | 2:09 |
+| 1 | [wonder why](https://open.spotify.com/track/15WRWgiuNlB0cVJk3WST1c) | [Veintiuno](https://open.spotify.com/artist/6DWkZYGQNrv0tr1BCN0qzF), [Caspr](https://open.spotify.com/artist/2jZhkzr1I3z5DYQoULIVm7) | [Fúria](https://open.spotify.com/album/1zQnmEwJFvw6N4OdfDoRTf) | 2:09 |
+| 2 | [DAWAMA](https://open.spotify.com/track/5NZ8tIcWKIyrJvSJBOc485) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [HOWA](https://open.spotify.com/album/4NkoVXTwjGoMCdVfc54w6p) | 2:43 |
+| 3 | [Ala Babek](https://open.spotify.com/track/1Nsa6NekAdqfr3cQRUV3fx) | [Elias Setta](https://open.spotify.com/artist/1mp2J36BLQVfD9nEgGRWVC), [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [Ala Babek](https://open.spotify.com/album/5z8xJi1cBR3p4lyjo1yIno) | 4:35 |
+| 4 | [Eclipse](https://open.spotify.com/track/6PLlafCH5IqQkJHX3pBllr) | [Ryukk](https://open.spotify.com/artist/6W3wT7AX1kxceaifuk54iP) | [Eclipse](https://open.spotify.com/album/26do3rDYRpKSptiGGBEKPy) | 3:45 |
+| 5 | [ZI](https://open.spotify.com/track/15B5pkBRRFluY6s34CVBTh) | [Alshaikh](https://open.spotify.com/artist/7MgFtgGEvXlgQOVw07qHJ2), [Alyoung](https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C) | [KARMA](https://open.spotify.com/album/00VAMSqhWhHZS9aEQzChce) | 3:04 |
+| 6 | [AD KALAMI](https://open.spotify.com/track/1qWPluFaHkzQPGwP7LuehO) | [JUNIOR](https://open.spotify.com/artist/4gS38VxzflJMo9yt0wrlfv) | [AD KALAMI](https://open.spotify.com/album/4SguTAovECiutkq4lfOs3o) | 2:57 |
+| 7 | [Mi amore](https://open.spotify.com/track/3W6UUGz9IOYmdgH2sDP7dW) | [KAPO](https://open.spotify.com/artist/4wBIRnApFLa3Bg0kCwSM1k) | [Chambre 7](https://open.spotify.com/album/0lYmNBWy9mfUf42Wlk7RYs) | 2:41 |
+| 8 | [Love & Hayt](https://open.spotify.com/track/30RCUXZSDyLOqAeuAujSu5) | [Aziz Konkrite](https://open.spotify.com/artist/7s8PJjvTY4nc7BCgCpB4Ok) | [Siba Sawt\-System \#2](https://open.spotify.com/album/0o6l9J6NUWLeAjyLjvyaIr) | 7:21 |
+| 9 | [Fekra Gowa Dmaghy](https://open.spotify.com/track/4ijT8yTatmxES3yc4j2ZNI) | [Vest](https://open.spotify.com/artist/7a3ylB0pQzc4E853hNdCKX), [Hila](https://open.spotify.com/artist/3A3pot8KOSN2Yozwl0NLuU) | [KIWI](https://open.spotify.com/album/5NrB1piyq6CiK7XE8dgBgt) | 1:39 |
+| 10 | [As2ela](https://open.spotify.com/track/4e2TJUe9uUjBjc6fbnWHtH) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [As2ela](https://open.spotify.com/album/3IY5PQ1fXwxQgB37D12wf5) | 3:41 |
+| 11 | [matgily tany ماتجيلي تاني](https://open.spotify.com/track/5ZBL2z5hjFtaAsE2hZFnAs) | [Pink Seasalt](https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D) | [matgily tany ماتجيلي تاني](https://open.spotify.com/album/4HZze1w2BihEUjCGypObpm) | 3:37 |
+| 12 | [Dance Alone](https://open.spotify.com/track/3sc82QBKHxvlrfViVcB0Y3) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Dance Alone](https://open.spotify.com/album/0Ts002kjMTggkzlrM0oaVa) | 2:29 |
+| 13 | [LAMA AB’A MAAK](https://open.spotify.com/track/4ETJnYTY8P5TIjU5oWgFrh) | [ESS](https://open.spotify.com/artist/4Ac6dsXygagJvXowyX9btP) | [LAMA AB’A MAAK](https://open.spotify.com/album/7gQKuDwWXNmWgU1raWjr9Q) | 2:59 |
+| 14 | [ANA O YAK](https://open.spotify.com/track/5qgV6qJoQrBZ4CHHJy9Yuy) | [NA NADIN](https://open.spotify.com/artist/3MavIKLm4WaqPiHyNRouxK) | [HOB CYCLE](https://open.spotify.com/album/1c1FgOqKp5KlZaFifjlwmo) | 3:03 |
 | 15 | [weily weily weily](https://open.spotify.com/track/29iUFCOui4EQiOOdjozX6e) | [Remenkimi](https://open.spotify.com/artist/2a74TnBcE6jS42Rt1VeDFw) | [weily weily weily](https://open.spotify.com/album/0mbFYz2BHc098iFKNghOrQ) | 2:14 |
 | 16 | [VENTURA](https://open.spotify.com/track/3tiGLYpEDZMOjY1dbDJZHg) | [QABNAS](https://open.spotify.com/artist/2ls5CVpyJcz3tmMkwIBIlu), [Vest](https://open.spotify.com/artist/7a3ylB0pQzc4E853hNdCKX) | [V \(VOL.1\)](https://open.spotify.com/album/068ORCN5H54XpJvqaSTRQE) | 1:52 |
 | 17 | [Bab Sba3](https://open.spotify.com/track/4Z9rSA5jRY6fy5hcbuVW4T) | [Lala Tamar](https://open.spotify.com/artist/10f7DRewxOc63etYN3tevr) | [BAB SBA3](https://open.spotify.com/album/0SXlcXpQ7G4cf1conajLn4) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 74 | [RASSMA](https://open.spotify.com/track/2BLuMnfGLbLfpyHuWAIwEe) | [AyeLee](https://open.spotify.com/artist/6QwrTKHDZ15WyIBSAoF854) | [APORIA](https://open.spotify.com/album/4q9nP2q2Y816WLbWItT1Qw) | 2:43 |
 | 75 | [Why?](https://open.spotify.com/track/7qFf6SSOAMxcg504aH6B24) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [Stargirl](https://open.spotify.com/album/0qmt9MtZFWsxzxh53yxiH7) | 3:45 |
 
-Snapshot ID: `AAAAAFtyv+uSwxJg8qDUGGN7laYGNXoH`
+Snapshot ID: `AAAAADoeSKG3NjF/JSccAx0kWZn9o1i/`

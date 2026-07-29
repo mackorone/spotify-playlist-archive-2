@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 66024,
+  "num_followers": 66033,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
+        "name": "Yo Te Entiendo Mejor",
+        "url": "https://open.spotify.com/album/5Vx6x2f68bw9T1xqrgM7RG"
+      },
+      "artists": [
+        {
+          "name": "Maite Guzm\u00e1n y Su Estilo Campero",
+          "url": "https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz"
+        }
+      ],
+      "duration_ms": 184521,
+      "name": "Yo Te Entiendo Mejor",
+      "url": "https://open.spotify.com/track/1auj5iyTVPB4xyln9rTp6M"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 166480,
       "name": "Amanecer Campero",
       "url": "https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
-        "name": "Yo Te Entiendo Mejor",
-        "url": "https://open.spotify.com/album/5Vx6x2f68bw9T1xqrgM7RG"
-      },
-      "artists": [
-        {
-          "name": "Maite Guzm\u00e1n y Su Estilo Campero",
-          "url": "https://open.spotify.com/artist/6KiwVOfbuzvDmlR4BbvjEz"
-        }
-      ],
-      "duration_ms": 184521,
-      "name": "Yo Te Entiendo Mejor",
-      "url": "https://open.spotify.com/track/1auj5iyTVPB4xyln9rTp6M"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Mi Primer Amor - Version Chamam\u00e9",
-        "url": "https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE"
-      },
-      "artists": [
-        {
-          "name": "Luciano Pereyra",
-          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
-        }
-      ],
-      "duration_ms": 163109,
-      "name": "Mi Primer Amor - Versi\u00f3n Chamam\u00e9",
-      "url": "https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "El Guachito",
         "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 181493,
       "name": "Ca\u00f1a Doble para Mi Padre",
       "url": "https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Mi Primer Amor - Version Chamam\u00e9",
+        "url": "https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "duration_ms": 163109,
+      "name": "Mi Primer Amor - Versi\u00f3n Chamam\u00e9",
+      "url": "https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
+        "name": "Festejando los 30 A\u00f1os",
+        "url": "https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY"
+      },
+      "artists": [
+        {
+          "name": "Los Criollos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu"
+        }
+      ],
+      "duration_ms": 142320,
+      "name": "Sargento Sapo",
+      "url": "https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
         "name": "Consagraci\u00f3n del Chamam\u00e9",
         "url": "https://open.spotify.com/album/0kEF93WZ8CIPwwNeqCRaq1"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 163920,
       "name": "A\u00f1oranzas",
       "url": "https://open.spotify.com/track/6ctYrtmkOhEulwp0OgFRrq"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
-        "name": "Festejando los 30 A\u00f1os",
-        "url": "https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY"
-      },
-      "artists": [
-        {
-          "name": "Los Criollos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu"
-        }
-      ],
-      "duration_ms": 142320,
-      "name": "Sargento Sapo",
-      "url": "https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Virgencita de Itat\u00ed",
-      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "Las Nuevas Estrellas del Chamam\u00e9",
         "url": "https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 202025,
       "name": "Refugio de So\u00f1adores",
       "url": "https://open.spotify.com/track/4NMcaDDKzlK2fKwdaMX6Km"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Virgencita de Itat\u00ed",
+      "url": "https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked"
     },
     {
       "added_at": "2026-07-24 16:38:20",
@@ -983,26 +983,6 @@
     {
       "added_at": "2026-07-24 16:38:20",
       "album": {
-        "name": "Segundo Contacto",
-        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
-      },
-      "artists": [
-        {
-          "name": "Herencia Chamamecera",
-          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
-        },
-        {
-          "name": "Ricardo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "Para Volver a So\u00f1ar",
-      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
-    },
-    {
-      "added_at": "2026-07-24 16:38:20",
-      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 147986,
       "name": "Siete Higueras",
       "url": "https://open.spotify.com/track/0qMgxlql8mqgFA0EDwKQGf"
+    },
+    {
+      "added_at": "2026-07-24 16:38:20",
+      "album": {
+        "name": "Segundo Contacto",
+        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
+      },
+      "artists": [
+        {
+          "name": "Herencia Chamamecera",
+          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
+        },
+        {
+          "name": "Ricardo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Para Volver a So\u00f1ar",
+      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
     },
     {
       "added_at": "2026-07-24 16:38:20",

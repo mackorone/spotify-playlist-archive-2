@@ -1,12 +1,12 @@
 {
   "description": "This is D'Angelo. The essential tracks, all in one playlist.",
-  "num_followers": 77846,
+  "num_followers": 77888,
   "original_name": "This Is D'Angelo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAACEApYdkq6Hfr1T/8Hv33oO",
+  "snapshot_id": "amafgAAAAAAyKtYIeDmDyKGVuGfh6uE3",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Instant Vintage",
-        "url": "https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov"
+        "name": "Tical 2000: Judgement Day",
+        "url": "https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa"
       },
       "artists": [
         {
-          "name": "Raphael Saadiq",
-          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 228973,
-      "name": "Be Here",
-      "url": "https://open.spotify.com/track/7x6ev0H9OAmvuDnyuItBZS"
+      "duration_ms": 233933,
+      "name": "Break Ups 2 Make Ups",
+      "url": "https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX"
     },
     {
       "added_at": null,
@@ -303,22 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tical 2000: Judgement Day",
-        "url": "https://open.spotify.com/album/5EGi6pUMlx1UfSCrfYUisa"
+        "name": "Instant Vintage",
+        "url": "https://open.spotify.com/album/2Dfk3iSj303wZD28aXq5ov"
       },
       "artists": [
         {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+          "name": "Raphael Saadiq",
+          "url": "https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo"
         },
         {
           "name": "D'Angelo",
           "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
         }
       ],
-      "duration_ms": 233933,
-      "name": "Break Ups 2 Make Ups",
-      "url": "https://open.spotify.com/track/5jlVndwOZVzbAfGVHtetDX"
+      "duration_ms": 228973,
+      "name": "Be Here",
+      "url": "https://open.spotify.com/track/7x6ev0H9OAmvuDnyuItBZS"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best So Far",
+        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Heaven Must Be Like This",
+      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deuces Wild",
         "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 299533,
       "name": "Ain't Nobody Home",
       "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best So Far",
-        "url": "https://open.spotify.com/album/1MXR2vMRldZITKc1Zk6bLe"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "Heaven Must Be Like This",
-      "url": "https://open.spotify.com/track/6NA2IIPkgNN9johIhFrByb"
     },
     {
       "added_at": null,

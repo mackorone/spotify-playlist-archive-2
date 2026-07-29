@@ -85909,6 +85909,24 @@
     },
     {
       "album": {
+        "name": "I Feel So Mad",
+        "url": "https://open.spotify.com/album/1peFNMCyuDgana3cbgkx0Y"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Chairlegs",
+          "url": "https://open.spotify.com/artist/1Fr1a6j80ISD0UonvFM5V6"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126266,
+      "name": "I Feel So Mad",
+      "url": "https://open.spotify.com/track/42ZQFIkcmUsOJKPZoPisxb"
+    },
+    {
+      "album": {
         "name": "I Feel The Love",
         "url": "https://open.spotify.com/album/0MPJo2L3RIXShVMtBkZTMS"
       },

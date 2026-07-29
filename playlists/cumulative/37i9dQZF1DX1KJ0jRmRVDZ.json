@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: suis from \u30e8\u30eb\u30b7\u30ab",
+  "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u751f\u307e\u308c\u305f\u30b5\u30a6\u30f3\u30c9\u306e\u8a18\u9332\u3002A collection of sounds shaped by internet culture. \nCover: \u6c34\u69fd",
   "name": "Cloud Archive\uff5c\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30df\u30e5\u30fc\u30b8\u30c3\u30af",
   "tracks": [
     {
@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 203592,
       "name": "BLUE MOON",
       "url": "https://open.spotify.com/track/0SKSjL22ps9UPlBx5ClTGi"
@@ -2260,6 +2260,24 @@
       "duration_ms": 167533,
       "name": "celeste feat. \u6625\u91ce",
       "url": "https://open.spotify.com/track/1xD7JuI2jpGFFZYMtcmuC9"
+    },
+    {
+      "album": {
+        "name": "CERAMIC SKIN",
+        "url": "https://open.spotify.com/album/16OOy72ylgpYApdICqIEPp"
+      },
+      "artists": [
+        {
+          "name": "suisoh",
+          "url": "https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205904,
+      "name": "CERAMIC SKIN",
+      "url": "https://open.spotify.com/track/4Ik4DOn8tqyZVNpIgQMMbO"
     },
     {
       "album": {
@@ -6862,7 +6880,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 149000,
       "name": "LoveXposer",
       "url": "https://open.spotify.com/track/21HFzQoAX8BQdJncyeY9R0"
@@ -7426,7 +7444,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 183733,
       "name": "MONOCHROME",
       "url": "https://open.spotify.com/track/38U8IA8734YUV3wfD1tMer"
@@ -7784,7 +7802,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 177190,
       "name": "Navy",
       "url": "https://open.spotify.com/track/6CqlTwtPM4yK2GpdXtEzvB"
@@ -10626,10 +10644,32 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 180773,
       "name": "SOS",
       "url": "https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh"
+    },
+    {
+      "album": {
+        "name": "SOUND ONLY",
+        "url": "https://open.spotify.com/album/620JUoBD1hdv7CIKtzvRQj"
+      },
+      "artists": [
+        {
+          "name": "Crab \u87f9 Club",
+          "url": "https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6"
+        },
+        {
+          "name": "\u3046\u3064\u3064\u3002",
+          "url": "https://open.spotify.com/artist/40ZMtboMbynjRb7vIQLVic"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268978,
+      "name": "SOUND ONLY",
+      "url": "https://open.spotify.com/track/2K6rll2tgBkytN9sICAbze"
     },
     {
       "album": {
@@ -11280,7 +11320,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 167360,
       "name": "the white room inside my head",
       "url": "https://open.spotify.com/track/0Ekf81RRGBDqMsnpxExRT6"
@@ -12380,6 +12420,24 @@
       "duration_ms": 237642,
       "name": "Whale-fall Community",
       "url": "https://open.spotify.com/track/1zpKI5PcbL4s45a8XlJ7Z7"
+    },
+    {
+      "album": {
+        "name": "where 2\u4eba",
+        "url": "https://open.spotify.com/album/7b1kfK1jS2YXjEoom8QCof"
+      },
+      "artists": [
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112992,
+      "name": "where 2\u4eba",
+      "url": "https://open.spotify.com/track/6eRzqPeVhhHcg6VU4Kstxh"
     },
     {
       "album": {
@@ -16784,7 +16842,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 135000,
       "name": "\u30a4\u4e09",
       "url": "https://open.spotify.com/track/1LCyQXGVdKh0UBjXhnxSdr"
@@ -18616,7 +18674,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 152913,
       "name": "\u30b7\u30e7\u30fc\u30c8\u30b1\u30fc\u30ad",
       "url": "https://open.spotify.com/track/5CI2ZCiGJdU0Wy9CJ7bVZa"
@@ -22323,6 +22381,24 @@
     },
     {
       "album": {
+        "name": "\u30e1\u30b7\u30a2",
+        "url": "https://open.spotify.com/album/6IhQ2FZnTZlBytW5TtUJn6"
+      },
+      "artists": [
+        {
+          "name": "Nanatsukaze",
+          "url": "https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195666,
+      "name": "\u30e1\u30b7\u30a2",
+      "url": "https://open.spotify.com/track/3tB9Jgk7T2UO5EIqOp7GNM"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30ba\u30de\u30e9\u30a4\u30b6\u30fc",
         "url": "https://open.spotify.com/album/3DkZ625ZGRV80f5aFnlPCL"
       },
@@ -23606,6 +23682,24 @@
       "duration_ms": 169378,
       "name": "\u30ed\u30f3\u30ea\u30fc\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/3qyIoz6PZkAu2o8R0r0OK6"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30fc\u30d5\u30a1\u30a4\u30d6",
+        "url": "https://open.spotify.com/album/1YWNFNM0ceSqZU3L4fXrtK"
+      },
+      "artists": [
+        {
+          "name": "\u6893\u5ddd",
+          "url": "https://open.spotify.com/artist/2iydjGtDnXejF2L1pgsBB8"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169900,
+      "name": "\u30ed\u30fc\u30d5\u30a1\u30a4\u30d6",
+      "url": "https://open.spotify.com/track/4nFyfLl6GIqFmDobDwdXUU"
     },
     {
       "album": {
@@ -27702,7 +27796,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 218244,
       "name": "\u611b\u5305\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
       "url": "https://open.spotify.com/track/0xgcNz442ZEz4djFVp1wWB"
@@ -27838,6 +27932,24 @@
       "duration_ms": 204600,
       "name": "\u61a7\u308c\u306e\u307e\u307e\u306b",
       "url": "https://open.spotify.com/track/7LXjgEPK0QDh2yAZDRwVTs"
+    },
+    {
+      "album": {
+        "name": "\u30d6\u30eb\u30fc\u30a2\u30fc\u30ab\u30a4\u30d6\u300c\u61a7\u308c\u306e\u6b8b\u97ff\u300d",
+        "url": "https://open.spotify.com/album/7wksNfoPTFNkqP1pNgncGo"
+      },
+      "artists": [
+        {
+          "name": "DAZBEE",
+          "url": "https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268384,
+      "name": "\u61a7\u308c\u306e\u6b8b\u97ff",
+      "url": "https://open.spotify.com/track/2mGhZrU6BLWxOHf0CU7VE5"
     },
     {
       "album": {
@@ -28052,6 +28164,24 @@
       "duration_ms": 267066,
       "name": "\u653e\u8ab2\u5f8c\u30dc\u30fc\u30c0\u30fc\u30e9\u30a4\u30f3",
       "url": "https://open.spotify.com/track/4IFflYu7VHz6xxVnyvOlb8"
+    },
+    {
+      "album": {
+        "name": "\u653e\u9001",
+        "url": "https://open.spotify.com/album/0jf4tQVuSEIcrJRkepzQJU"
+      },
+      "artists": [
+        {
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107812,
+      "name": "\u653e\u9001",
+      "url": "https://open.spotify.com/track/14OXQziwIkpL3wGTCLBJiP"
     },
     {
       "album": {
@@ -30600,6 +30730,24 @@
     {
       "album": {
         "name": "\u767e\u9b3c\u591c\u884c",
+        "url": "https://open.spotify.com/album/6sKvuQAoSaQHsqRmwqxO75"
+      },
+      "artists": [
+        {
+          "name": "Nakimushi",
+          "url": "https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156751,
+      "name": "\u767e\u9b3c\u591c\u884c",
+      "url": "https://open.spotify.com/track/6Wv6djactnaJ4zG48hBzG5"
+    },
+    {
+      "album": {
+        "name": "\u767e\u9b3c\u591c\u884c",
         "url": "https://open.spotify.com/album/3FBrCecKShQFfSxBrcCmAK"
       },
       "artists": [
@@ -32232,6 +32380,24 @@
       "duration_ms": 242000,
       "name": "\u878d\u89e3sink",
       "url": "https://open.spotify.com/track/1m7lHpniqlJyCac7dJgyYJ"
+    },
+    {
+      "album": {
+        "name": "\u87ba\u65cb - RASEN",
+        "url": "https://open.spotify.com/album/0i1YOAjHzr0X8sqJ9l9vx3"
+      },
+      "artists": [
+        {
+          "name": "9Lana",
+          "url": "https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190421,
+      "name": "\u87ba\u65cb - RASEN",
+      "url": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: NouerA\)
 
-1,792 songs - 3 day 23 hr 36 min
+1,793 songs - 3 day 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -731,6 +731,7 @@
 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 | 2020-10-13\* | 2020-11-12 |
 | [hug me tight](https://open.spotify.com/track/1Ev5WziK8PYoSpNYJKd5qg) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [hug me tight](https://open.spotify.com/album/5RhnakiAQ918ouBJxadpyY) | 2:07 | 2022-12-15 | 2023-02-10 |
 | [Hundred Reasons](https://open.spotify.com/track/2A1YVk2cVTJt2luDUnbEsW) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [Angel](https://open.spotify.com/album/3tbIma0WBMW2aClgAwYfqA) | 2:50 | 2025-07-14 | 2025-08-12 |
+| [HUNGRY \(Side A\)](https://open.spotify.com/track/2VtyGQFxbJMOF6MRU07ild) | [OURBIRTHDAY](https://open.spotify.com/artist/1mXRWMer8YDbBPbj872tmo) | [HUNGRY \(Side A\)](https://open.spotify.com/album/7kRrsdT9O7U4BXyziyea2S) | 2:17 | 2026-07-28 |  |
 | [HUNTER](https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [HUNTER \- The 3rd Album](https://open.spotify.com/album/6fPWZQDk1qrrfK0y3Pls6i) | 2:43 | 2025-08-11 | 2025-09-25 |
 | [HUSH](https://open.spotify.com/track/3ytqIDBXmnKD62m2ezyH5I) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [Won't Forget You](https://open.spotify.com/album/5YAKoVELgEDXMao7RHtft9) | 3:42 | 2021-03-31 | 2021-06-09 |
 | [HUSH RUSH](https://open.spotify.com/track/0P2LW3jbuJLpH2mwg0lLzn) | [LEE CHAE YEON](https://open.spotify.com/artist/2nkZR6LwPxaAVtaVitNIPT) | [HUSH RUSH](https://open.spotify.com/album/6ksAgHMbcJbfxwwO799483) | 3:27 | 2022-10-14 | 2023-01-05 |
@@ -1515,7 +1516,7 @@
 | [TAXI](https://open.spotify.com/track/0LMqywHzZAAwSPWCfyfz9t) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [LOVE ALL](https://open.spotify.com/album/48XkMlSp71d4SzQsxiaij2) | 2:48 | 2023-08-13 | 2023-09-12 |
 | [Taxi Blurr \(Feat\. NATTY of KISS OF LIFE\)](https://open.spotify.com/track/5IY8i6WnkqvmRnIrF4lqDx) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [NATTY](https://open.spotify.com/artist/1Y3klzPXyHrinIk3tQ20Se) | [Jay Park Season 2](https://open.spotify.com/album/0MazhZi5jQbkueKX52rkaR) | 3:50 | 2024-05-31 | 2024-07-19 |
 | [TEAMO](https://open.spotify.com/track/54J9MTzvuomk0V78FBDTXR) | [MINZY](https://open.spotify.com/artist/1ql28OzmgulHG2ldXFrbWp) | [TEAMO](https://open.spotify.com/album/4b744AKQ78M5SBdo7Wxzm5) | 3:08 | 2021-07-16 | 2021-09-07 |
-| [Tear Drop](https://open.spotify.com/track/58LrWUfLf4BWdMx1PNPefc) | [CLASSy](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [RE:BOOT \[AFTER TEARS\]](https://open.spotify.com/album/5mD8EE3lOGlxx8p6a3x3wy) | 2:57 | 2026-06-27 |  |
+| [Tear Drop](https://open.spotify.com/track/58LrWUfLf4BWdMx1PNPefc) | [CLASSy](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [RE:BOOT \[AFTER TEARS\]](https://open.spotify.com/album/5mD8EE3lOGlxx8p6a3x3wy) | 2:57 | 2026-06-27 | 2026-07-29 |
 | [Tear Drop](https://open.spotify.com/track/5T6UFJ0AtAU7gXGybQ0HH7) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [TURN OVER](https://open.spotify.com/album/5zt8nriwNFRlrZD3Gi4NRI) | 3:17 | 2021-07-06 | 2021-09-07 |
 | [Teddy Bear](https://open.spotify.com/track/6FprQS3RsJ0Y4JSzjzbhht) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [CHO:RD](https://open.spotify.com/album/5ruXBpuu335VFUynH3a1VU) | 2:47 | 2024-09-20 | 2024-12-06 |
 | [Telepathy](https://open.spotify.com/track/1xbxSb7zTHysqWZmjFdJ2n) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Under the Oak Tree \(Original Soundtrack\), Part\. 4](https://open.spotify.com/album/5zJVeHgHrwJ3m24sSMSrTV) | 3:12 | 2022-06-17 | 2022-07-14 |

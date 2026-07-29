@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: GUS
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Ambré
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,591 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,072,536 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
+| 1 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
 | 2 | [Careless](https://open.spotify.com/track/4JP5g7hhIZjvquzHfa3Ebz) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Careless](https://open.spotify.com/album/66bTdjG8C6q9KtB9GlD7Mz) | 2:25 |
-| 3 | [7AM \(เนรคุณ\)](https://open.spotify.com/track/3jEjupGqz8ONiK7bNPYNfA) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q), [BaebiBetti](https://open.spotify.com/artist/4oiwl2OEdv9bmQZSPD5RB9) | [7AM \(เนรคุณ\)](https://open.spotify.com/album/1xCLnfT8IlZ3krwJtjphlu) | 2:42 |
-| 4 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
+| 3 | [Vivian](https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [First Times](https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V) | 3:16 |
+| 4 | [7AM \(เนรคุณ\)](https://open.spotify.com/track/3jEjupGqz8ONiK7bNPYNfA) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q), [BaebiBetti](https://open.spotify.com/artist/4oiwl2OEdv9bmQZSPD5RB9) | [7AM \(เนรคุณ\)](https://open.spotify.com/album/1xCLnfT8IlZ3krwJtjphlu) | 2:42 |
 | 5 | [Song and dance man](https://open.spotify.com/track/1oflMqWYnceFzbIDdOM1fr) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and dance man + Let's go camping](https://open.spotify.com/album/0K3erRyIjMqza5oWHTv86c) | 2:17 |
 | 6 | [Putinho piru rodado](https://open.spotify.com/track/2xWZoSILC4KIwaoX2Z1xGe) | [Bia Soull](https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [DJ CARLOZS](https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU) | [Putinho piru rodado](https://open.spotify.com/album/0GVlkwFO5lmv6xLD7YpqTo) | 3:30 |
 | 7 | [Satisfied](https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [The Nightlife](https://open.spotify.com/album/4wTgu0ne0ihggsMbAOGX8x) | 4:04 |
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 11 | [BIG EGO](https://open.spotify.com/track/0NCUDhC7plQ3PO294m7F8z) | [MOONGA K.](https://open.spotify.com/artist/0bGetjEIDayY9BFzeCZL0d) | [BIG EGO](https://open.spotify.com/album/0rSqxLqcaZpl380IQ2pnwd) | 3:50 |
 | 12 | [On the Floor](https://open.spotify.com/track/05HElY3EVth4SMuOJOGusl) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 5:03 |
 | 13 | [Folded](https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Folded](https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm) | 3:58 |
-| 14 | [The Owner Of Sweetness](https://open.spotify.com/track/4Dx2uWCCtCmZBtT1GCf6Jq) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [HaHa And The Hairpins](https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs) | [The Owner of Sweetness](https://open.spotify.com/album/2qOVMiBbwTN2KWtUCOagYY) | 4:02 |
-| 15 | [I <3 HOT GUYS](https://open.spotify.com/track/0bNIh0Aexy8T8q1F5Kyqpp) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [RAMUELO](https://open.spotify.com/album/2eVzxquNqAcHdXv82Syc5K) | 2:51 |
-| 16 | [life](https://open.spotify.com/track/6ozYUMhIxt34AqHVqamnwH) | [REDD.](https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9) | [life](https://open.spotify.com/album/6vNpv2j8aHWFxRP0TrI1cJ) | 2:58 |
+| 14 | [I <3 HOT GUYS](https://open.spotify.com/track/0bNIh0Aexy8T8q1F5Kyqpp) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [RAMUELO](https://open.spotify.com/album/2eVzxquNqAcHdXv82Syc5K) | 2:51 |
+| 15 | [life](https://open.spotify.com/track/6ozYUMhIxt34AqHVqamnwH) | [REDD.](https://open.spotify.com/artist/57P5LrPq0ndI2MXkwVeDa9) | [life](https://open.spotify.com/album/6vNpv2j8aHWFxRP0TrI1cJ) | 2:58 |
+| 16 | [The Owner Of Sweetness](https://open.spotify.com/track/4Dx2uWCCtCmZBtT1GCf6Jq) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi), [HaHa And The Hairpins](https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs) | [The Owner of Sweetness](https://open.spotify.com/album/2qOVMiBbwTN2KWtUCOagYY) | 4:02 |
 | 17 | [Music](https://open.spotify.com/track/2BcOZ4vOeu2qZowIHrvTYy) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Music](https://open.spotify.com/album/3e3PxWKqv7lyZaR5d02abW) | 3:45 |
 | 18 | [Dreams](https://open.spotify.com/track/027FB2H1jgk836hvP51VIB) | [Sofía Cristo](https://open.spotify.com/artist/1BVrVRzHPqy06rF8fA6MSU) | [Dreams](https://open.spotify.com/album/5c4CmOk8xmipo337QGA40R) | 2:06 |
 | 19 | [La llorona \- Remastered](https://open.spotify.com/track/62OZDXB3uhPX26bHzv0zbA) | [Chavela Vargas](https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c) | [La Llorona \(Remastered\)](https://open.spotify.com/album/6STu4IifGmMPwDA9PFUch7) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Avant\-Garde](https://open.spotify.com/track/1HD47Yxz6wBBDDBzNt29mO) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [b0dy c0un1](https://open.spotify.com/album/6BoHLJKs4A259rPClVixzv) | 2:18 |
 | 50 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 |
 
-Snapshot ID: `AAAAAD2edsvLsu/mEj7egNarH8F+rRwC`
+Snapshot ID: `AAAAAD+4884WRMl6GVJ+aTJuRoiOVjWo`

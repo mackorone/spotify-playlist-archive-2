@@ -1627,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219302,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj"
+    },
+    {
+      "album": {
         "name": "confession",
         "url": "https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ"
       },

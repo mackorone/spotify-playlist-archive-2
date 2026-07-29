@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 7383,
+  "num_followers": 7387,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAAD/HKGCLmtvPwThTvoHsWih",
+  "snapshot_id": "amafgAAAAABiW7+XAzqUbYaVpBo1repb",
   "tracks": [
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Od\u00f9",
-        "url": "https://open.spotify.com/album/7JKwYd8flm40rVT6vBkV5O"
+        "name": "Sunny Ade, Vol. 1 (Re-Mastered)",
+        "url": "https://open.spotify.com/album/451tu4BZrkyaK68jhITSWW"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 362289,
-      "name": "Easy Motion Tourist",
-      "url": "https://open.spotify.com/track/5yHTv77ECb71F1iZgWqR5c"
+      "duration_ms": 301574,
+      "name": "Eni Nbinu Wa - Re-Mastered",
+      "url": "https://open.spotify.com/track/6TfJRvvkHBCRGizvticbBG"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Od\u00f9",
+        "url": "https://open.spotify.com/album/7JKwYd8flm40rVT6vBkV5O"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 362289,
+      "name": "Easy Motion Tourist",
+      "url": "https://open.spotify.com/track/5yHTv77ECb71F1iZgWqR5c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "E Dide [Get Up]",
         "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 256133,
       "name": "E Dide E Mujo",
       "url": "https://open.spotify.com/track/5sHSZQIZhpjXjVmOAagkPt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sunny Ade, Vol. 1 (Re-Mastered)",
-        "url": "https://open.spotify.com/album/451tu4BZrkyaK68jhITSWW"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 301574,
-      "name": "Eni Nbinu Wa - Re-Mastered",
-      "url": "https://open.spotify.com/track/6TfJRvvkHBCRGizvticbBG"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 148520,
+      "name": "Omo Se Koko",
+      "url": "https://open.spotify.com/track/4G7H7RygxVOueRUdBsYYF9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "E Dide [Get Up]",
         "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 212775,
       "name": "Komi Komi",
       "url": "https://open.spotify.com/track/4Rpna21W80qkJwyg1WtuAw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Check \"E\"",
-        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 148520,
-      "name": "Omo Se Koko",
-      "url": "https://open.spotify.com/track/4G7H7RygxVOueRUdBsYYF9"
     },
     {
       "added_at": null,

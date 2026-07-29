@@ -1,12 +1,12 @@
 {
   "description": "This is Oliver Tree. The essential tracks, all in one playlist.",
-  "num_followers": 175201,
+  "num_followers": 175377,
   "original_name": "This Is Oliver Tree",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAABeUfeR95O6XscO3GTcNKhO",
+  "snapshot_id": "amafgAAAAADXTzcwqIB2+XMZ4r2boIYo",
   "tracks": [
     {
       "added_at": null,
@@ -175,42 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miss You (Sped Up Version)",
-        "url": "https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        }
-      ],
-      "duration_ms": 171701,
-      "name": "Miss You - Sped Up Version",
-      "url": "https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ugly is Beautiful",
-        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 135020,
-      "name": "Jerk",
-      "url": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alone In A Crowd",
         "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
@@ -231,6 +195,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ugly is Beautiful",
+        "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 135020,
+      "name": "Jerk",
+      "url": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miss You (Sped Up Version)",
+        "url": "https://open.spotify.com/album/7EM9FAc6VnTpn8enoucp5q"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "duration_ms": 171701,
+      "name": "Miss You - Sped Up Version",
+      "url": "https://open.spotify.com/track/4pH8cIlMI9NrTWcDiQbuRe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love You Madly Hate You Badly",
         "url": "https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt"
       },
@@ -247,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do You Feel Me?",
-        "url": "https://open.spotify.com/album/61ySPdOmnFtNhA8M7HIBLV"
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
       "artists": [
         {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
         }
       ],
-      "duration_ms": 187754,
-      "name": "Do You Feel Me?",
-      "url": "https://open.spotify.com/track/2O7itneeXoILR304z8zzev"
+      "duration_ms": 166582,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l"
     },
     {
       "added_at": null,
@@ -283,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+        "name": "Do You Feel Me?",
+        "url": "https://open.spotify.com/album/61ySPdOmnFtNhA8M7HIBLV"
       },
       "artists": [
         {
           "name": "Oliver Tree",
           "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
         }
       ],
-      "duration_ms": 166582,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l"
+      "duration_ms": 187754,
+      "name": "Do You Feel Me?",
+      "url": "https://open.spotify.com/track/2O7itneeXoILR304z8zzev"
     },
     {
       "added_at": null,

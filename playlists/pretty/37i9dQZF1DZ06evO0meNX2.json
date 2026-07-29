@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 45232,
+  "num_followers": 45240,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAAA5t/9uqwvoVxa7euiGYOMR",
+  "snapshot_id": "amafgAAAAAAvvbfgShQjIeZTqwFJL5ib",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfPara Qu\u00e9 Hacernos Da\u00f1o?",
-        "url": "https://open.spotify.com/album/36QxJlstLErfxZ2m1HI1jg"
+        "name": "El Disney",
+        "url": "https://open.spotify.com/album/71pONzODuum62WjG779fN1"
       },
       "artists": [
         {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         },
         {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 160484,
-      "name": "\u00bfPara Qu\u00e9 Hacernos Da\u00f1o?",
-      "url": "https://open.spotify.com/track/5GLGvYyZDnfsMM0UP5Q8uu"
+      "duration_ms": 149624,
+      "name": "El Disney",
+      "url": "https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj"
     },
     {
       "added_at": null,
@@ -383,22 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Disney",
-        "url": "https://open.spotify.com/album/71pONzODuum62WjG779fN1"
+        "name": "\u00bfPara Qu\u00e9 Hacernos Da\u00f1o?",
+        "url": "https://open.spotify.com/album/36QxJlstLErfxZ2m1HI1jg"
       },
       "artists": [
         {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
           "name": "Codiciado",
           "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         }
       ],
-      "duration_ms": 149624,
-      "name": "El Disney",
-      "url": "https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj"
+      "duration_ms": 160484,
+      "name": "\u00bfPara Qu\u00e9 Hacernos Da\u00f1o?",
+      "url": "https://open.spotify.com/track/5GLGvYyZDnfsMM0UP5Q8uu"
     },
     {
       "added_at": null,

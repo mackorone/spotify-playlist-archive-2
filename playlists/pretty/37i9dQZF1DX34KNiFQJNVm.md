@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Matheus & Kauan, Anitta, Tyla, L7NNON, WILLOW e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,317,986 likes - 76 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,317,730 likes - 76 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 16 | [Toca o Tamborzão](https://open.spotify.com/track/5UcvM4VQQXqwPL3LznS9AT) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Toca o Tamborzão](https://open.spotify.com/album/7tQP789piu1jYtJueOfCaJ) | 2:33 |
 | 17 | [Fogueira \- Ao Vivo](https://open.spotify.com/track/7qkA9R7sIljovFNucQml8R) | [Fiduma & Jeca](https://open.spotify.com/artist/2h73KyGixa4A1xlhcxjpG1) | [O Country Vive \(Ao Vivo\)](https://open.spotify.com/album/5DwnRlynxPfgoVjYC3Nb6O) | 2:56 |
 | 18 | [Stranger Things](https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:18 |
-| 19 | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
+| 19 | [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
 | 20 | [Fireflies](https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Fireflies](https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23) | 4:23 |
 | 21 | [Roleta Favela](https://open.spotify.com/track/3TAYYVNjoc6gq2dBfhGPWp) | [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Roleta Favela](https://open.spotify.com/album/5Sh7hMdLOaJlcGdCMFgnAu) | 3:22 |
 | 22 | [Experimenta ver](https://open.spotify.com/track/4q9t6Vmyipzfbddbt6KsbN) | [Libna Winnie](https://open.spotify.com/artist/6J3zMMWxQLbS10TxRiiJAN), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Experimenta ver](https://open.spotify.com/album/4Kvwmeg2wtdSwBOINZeApF) | 3:23 |

@@ -4,7 +4,7 @@
 
 > 
 
-2,434 songs - 5 day 10 hr 46 min
+2,437 songs - 5 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,6 +584,7 @@
 | [Disguise](https://open.spotify.com/track/49Uj7to7tltsauzvbvDUZ1) | [Somewhere Special](https://open.spotify.com/artist/2uzCJprANXTMHARrvOIlWq) | [Disguise](https://open.spotify.com/album/7MVTglonJzo6LgHJI8MA92) | 2:20 | 2024-08-01 |  |
 | [Disinfect](https://open.spotify.com/track/2XzvZOfZPriniHLBEvGC6b) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Written & Directed](https://open.spotify.com/album/6hODMaWCw1sz39hkaSWgMW) | 2:49 | 2021-08-05 |  |
 | [Disparate Youth](https://open.spotify.com/track/0t2QiRkpag0fAgs9zuCPlH) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Master of My Make\-Believe](https://open.spotify.com/album/58ZjpgafuBeQ0JVxIt0hdr) | 4:44 | 2025-05-30 |  |
+| [DISSOLVING GIRL](https://open.spotify.com/track/3ckvDM5dUV06Cpna6KxGKk) | [Rosaliedu38](https://open.spotify.com/artist/5vkbTElqrLRvkM3SoheTQj), [Lili Castiglioni](https://open.spotify.com/artist/0FbauK4BpXbSL71RlgD5NU) | [DISSOLVING GIRL](https://open.spotify.com/album/6rForAoXK0boVeUGGO9ybb) | 2:03 | 2026-07-28 |  |
 | [Ditty](https://open.spotify.com/track/7hARdySaXWuTLeqBrYP2xf) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Ditty](https://open.spotify.com/album/7pTr1AQkGqPlyZl9tS8Xg8) | 2:09 | 2021-08-05 |  |
 | [Divertida](https://open.spotify.com/track/5Urocwjl0iuHmUUC9zNF1H) | [MissLupe](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [Reset](https://open.spotify.com/album/2nGKc4syMB4SzeEXRIh6X4) | 4:05 | 2025-07-17 |  |
 | [Divertissement 1er Mvt Allegro Vivo](https://open.spotify.com/track/07kqNUCVoVHZNhE1D1PIsV) | [Frédérique Lagarde](https://open.spotify.com/artist/022znMs7fYi3CmLtcm9mUj), [Philippe Portejoie](https://open.spotify.com/artist/6w88R0VFj4qKbMlbTDr7hy) | [Musique Francaise Du XX° Siècle Saxophone Et Piano](https://open.spotify.com/album/2CmoPU3J2QXigHGIH5KTYn) | 2:22 | 2021-12-30 |  |
@@ -794,6 +795,7 @@
 | [FREAKYGIRL](https://open.spotify.com/track/1sscAD9ROdWJxAdWhfZbTZ) | [Mila La Morena](https://open.spotify.com/artist/3Z9effQtaUBYCz0P0Sup6P), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [FREAKYGIRL](https://open.spotify.com/album/5utT3ttXCihfhH2LyE813r) | 2:46 | 2025-08-06 | 2025-08-19 |
 | [Free](https://open.spotify.com/track/5o6GnHeA8voabKhVBT8Og3) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Only The Beginning](https://open.spotify.com/album/6z1qeT7vI9YUsCHqufGWJy) | 2:52 | 2021-08-05 |  |
 | [Freight Yard](https://open.spotify.com/track/12IZSRtnjulqIUX3Sad4gG) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [HORSESHIT ON ROUTE 66](https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF) | 2:27 | 2022-12-25 |  |
+| [French Boys](https://open.spotify.com/track/3hCT8pt9PMNBl1iej7NQBu) | [Alyzée](https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Yazida](https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw) | [French Boys](https://open.spotify.com/album/1YcB3dHmmnNZBvGHzDrRaz) | 3:00 | 2026-07-28 |  |
 | [French Girl](https://open.spotify.com/track/72Hh1GP6yxzD8XlVlMdfz9) | [roro](https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs) | [French Girl](https://open.spotify.com/album/4N8sHmZLrlfaYVyVL0GeL4) | 1:26 | 2024-03-25 |  |
 | [Frenesi \- Machine Girl GabberTrap Mix](https://open.spotify.com/track/66zfqY6WHytwZRxyeWl4dk) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 2:06 | 2022-04-26 |  |
 | [Fresh](https://open.spotify.com/track/7IMv1xEA2NIrP8mvz3ln6L) | [Funkin' Sound Team](https://open.spotify.com/artist/4fqDivs0BnIje4XZ10cF2d), [Kawai Sprite](https://open.spotify.com/artist/19nnKeOt6Vo1g0ijPcFxdu) | [Friday Night Funkin', Vol\. 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/0FUY1iMeo3mzcbdsEZOIfV) | 1:24 | 2021-08-05 |  |
@@ -966,6 +968,7 @@
 | [holy angel](https://open.spotify.com/track/7uIA3pMftnSUHxhuzT45Rj) | [DJ Kuroneko](https://open.spotify.com/artist/1utT39CwCZruFdvmbvDusl) | [kuroneko](https://open.spotify.com/album/1a9GKdu2sPv7bvGg1efnx4) | 2:43 | 2022-02-04 |  |
 | [Hombres y Mujeres](https://open.spotify.com/track/6RcGfVTAMeUONOC39N50xi) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 2:28 | 2025-05-31 |  |
 | [Home](https://open.spotify.com/track/2JGSYOFs3qNgd4hhvhrkf8) | [Islandis](https://open.spotify.com/artist/4GJ0oJKgvJmxX4BEBIT2pa) | [Home](https://open.spotify.com/album/5e7PSpJob1NERxuYBzgpfH) | 3:50 | 2021-08-05 |  |
+| [home2hide](https://open.spotify.com/track/08nerOhK5AVYPSKhBr1uz3) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [home2hide](https://open.spotify.com/album/5aF9YbOB33YQY4B5nYOOnE) | 4:00 | 2026-07-28 |  |
 | [Homecoming](https://open.spotify.com/track/6vxU64pcIuQ38O015Zy4qj) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Eternal Atake](https://open.spotify.com/album/7IyoGB8J31fvQDwGtHAq9m) | 3:33 | 2025-04-08 |  |
 | [homeswitcher](https://open.spotify.com/track/0QVjM0jL1OwDxUw4KfATKy) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [Teen Week](https://open.spotify.com/album/0I4Mj0o5tw56sHVYkS6pm3) | 2:25 | 2022-04-03 |  |
 | [hometown](https://open.spotify.com/track/6p8DGrcAUBuLUgDIKcUn0P) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [hometown](https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni) | 4:16 | 2022-02-04 |  |

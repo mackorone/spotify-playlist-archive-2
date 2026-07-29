@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 149504,
       "name": "BRAG",
       "url": "https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F"
@@ -2996,6 +2996,28 @@
       "duration_ms": 297000,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/4zB6pw3SOjK3Gkz5ESssgd"
+    },
+    {
+      "album": {
+        "name": "LOMO (League On My Own)",
+        "url": "https://open.spotify.com/album/1270NwzRh39zsb43lqGPMh"
+      },
+      "artists": [
+        {
+          "name": "Strongman",
+          "url": "https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224052,
+      "name": "LOMO (League On My Own)",
+      "url": "https://open.spotify.com/track/7Im6qCPwCter92NXAUDdvr"
     },
     {
       "album": {

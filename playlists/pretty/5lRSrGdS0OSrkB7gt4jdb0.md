@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 
 > We all need an angry playlist
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 65 songs - 3 hr 45 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 66 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,6 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 | 63 | [Whose Eye Is It Anyway???](https://open.spotify.com/track/480xcT2WmBvhMtKd9jj7ey) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [To Mend the Sun](https://open.spotify.com/album/2ujYOS6J7C4t2j7kz8F0xm) | 2:43 |
 | 64 | [Novocaine](https://open.spotify.com/track/5F0bmCjKUufNz1bHXfgRwe) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:46 |
 | 65 | [Choke](https://open.spotify.com/track/37mfTcSlX60JtAvAETytGs) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Choke](https://open.spotify.com/album/2KwVOjuUAYp2qtdBcFDfCn) | 3:15 |
+| 66 | [I'm Pissed](https://open.spotify.com/track/1lLQ2ZP5gNu4Iq35CXLwAt) | [Thumpasaurus](https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ) | [Thumpaverse](https://open.spotify.com/album/7ps0rVhNghO82IhDctJNCi) | 3:14 |
 
-Snapshot ID: `AAAAUA+gTRL7zu1q2bEOb+Q48CDF4syc`
+Snapshot ID: `AAAAUawwG8P7FxxW9rjscgEgAEKIwOaG`

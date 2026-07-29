@@ -4,7 +4,7 @@
 
 > Love and adventure under the Texas sun\. Listen to the music from, and inspired by, Ransom Canyon, now streaming on Netflix.
 
-117 songs - 6 hr 24 min
+122 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Blood and Custard](https://open.spotify.com/track/1tFZkkJ6xCjGL2TuVWpiFx) | [MIRADOR](https://open.spotify.com/artist/3PWTasKZcsDr9mMGeEPMeo) | [MIRADOR](https://open.spotify.com/album/2Xkb22PHyeBwe6Rv42yysq) | 3:43 | 2026-07-23 |  |
 | [Boomerang](https://open.spotify.com/track/2nPcJO0OTLC21Bcim7dYvL) | [EJ Sarà](https://open.spotify.com/artist/4ygcZiKOGZxg8B4GLWzS71) | [Boomerang](https://open.spotify.com/album/56exsnjLt1OvtOOom7FRLb) | 2:35 | 2025-04-28 |  |
 | [Boots](https://open.spotify.com/track/12ic6nhKqNSnK5ApmmX4Rs) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman](https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG) | 2:25 | 2026-07-23 |  |
+| [Bringin' The Noise](https://open.spotify.com/track/2OXk2fMW8AFDTaY5Ql945X) | [Que Parks](https://open.spotify.com/artist/4dAfBjRmZ3v6kakh2NgWpW), [REVANANT](https://open.spotify.com/artist/0mtyYr4bY9ZQFJLywIchFp), [TLN](https://open.spotify.com/artist/7hKw3cTvePBYUBWWTlV3WS) | [Bringin' The Noise](https://open.spotify.com/album/22ZaloEXHlgUG2rYnLBLwn) | 2:30 | 2026-07-28 |  |
 | [Color You In](https://open.spotify.com/track/5l5cb3SS61OU1k2zhGD23X) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Color You In](https://open.spotify.com/album/68UjqIFdQTumu4G1YCDWc5) | 3:19 | 2025-04-28 |  |
 | [Countryside](https://open.spotify.com/track/6ppG1IFrMM6B7AIOQcs9UO) | [Charlie Marie](https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj) | [Charlie Marie](https://open.spotify.com/album/54LWjQMKJ0PFvGkMceZw8r) | 3:08 | 2026-07-23 |  |
 | [Cows Come Home](https://open.spotify.com/track/7jt2l2uTC2OYWugfqudR7O) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Me and My Religion](https://open.spotify.com/album/4o1kY62nKQdB8kA1hyz8Gr) | 2:53 | 2026-07-23 |  |
@@ -100,17 +101,21 @@
 | [Rodeo](https://open.spotify.com/track/15zNC5SQxdF61ZqEKCg13d) | [Black River Delta](https://open.spotify.com/artist/6wuLyOna5Zjh2OYb0ZtLey) | [Vol\. II](https://open.spotify.com/album/6FAkuqhjLYxxN9uekAC2m5) | 3:27 | 2025-04-28 |  |
 | [Second One To Know](https://open.spotify.com/track/0SGtTj42fIgMZXIQ34Ys01) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Second One To Know](https://open.spotify.com/album/3lQb5uFazZjTPGGdUm9oxC) | 2:56 | 2025-04-28 |  |
 | [Show Me What You Got](https://open.spotify.com/track/6CIo2GPOc5kNN5wbtfD0AL) | [Beacon Light](https://open.spotify.com/artist/2qAgO1fmg936BPG08NvxPk), [Club Danger](https://open.spotify.com/artist/7ei6fqMrGZYiu2SgQXzSkF) | [Show Me What You Got](https://open.spotify.com/album/6UI8SnU19PW4mFMwCxdEW6) | 2:49 | 2025-04-28 |  |
+| [Sinner's Hand](https://open.spotify.com/track/7C3ECsdHl9gZZudyJ4vNDk) | [The Tennessee Drive](https://open.spotify.com/artist/7HPDMaJDCukPrg5wtw7imU) | [Sinner's Hand](https://open.spotify.com/album/3wPIYtEDO9bEfZ3ssw43RE) | 2:44 | 2026-07-28 |  |
 | [Spade](https://open.spotify.com/track/1Gk3yprNIzkG8gQH8VIgVk) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 2:29 | 2025-04-28 |  |
 | [Stay](https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Wanderer](https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em) | 3:58 | 2025-04-28 |  |
 | [Sunset Views](https://open.spotify.com/track/3AD253qLm75IJ6GpVkRKk2) | [Bradley Denniston](https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh) | [Sunset Views](https://open.spotify.com/album/0RZNEmibeU5Y8Rky9WqpQG) | 2:43 | 2025-04-28 |  |
+| [Surrender \(Whatever Happens\)](https://open.spotify.com/track/4PApvSgyYshDs0phxN6wTm) | [BNJMNN](https://open.spotify.com/artist/7guwpiFaBXNGgNwyrjUidn), [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2) | [Surrender \(Whatever Happens\)](https://open.spotify.com/album/3haLqngYBI8ORMqBFxNS9z) | 3:23 | 2026-07-28 |  |
 | [Swoon](https://open.spotify.com/track/7A7fOyNse690VUFDSaATI5) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha) | [Emily Wolfe](https://open.spotify.com/album/0g29Kfki3uQXe80dTdWhxD) | 3:30 | 2026-07-23 |  |
 | [Teardrop](https://open.spotify.com/track/02C433ZVoi5cPFOSEKKzUX) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [In Our Nature](https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv) | 3:20 | 2025-04-28 |  |
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2025-04-28 |  |
 | [That Ship Has Sailed](https://open.spotify.com/track/2GrQLjZvaGI3VcqZVo8HPG) | [Jeff Cardoni](https://open.spotify.com/artist/6z9vVCxeBfXZfS5FEzUnu0) | [Ransom Canyon: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6PnTczIwmyn1EiaTUeT6b1) | 1:41 | 2026-07-23 |  |
 | [The Heart & The Hope](https://open.spotify.com/track/2OZKkJ7j2g7ofzsdSksfbq) | [Peacemode](https://open.spotify.com/artist/5D6xERKDE4AjAJ2WKGw85Q) | [The Heart & The Hope](https://open.spotify.com/album/3UJsf2JVmO2PvAlOALSYbt) | 2:57 | 2026-07-23 |  |
 | [The Kinda Woman I Like](https://open.spotify.com/track/0TPe22ufPEWbyKdZMpiwG6) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 2:38 | 2025-04-28 |  |
+| [The Open](https://open.spotify.com/track/5tnueKMmiSK5ESo6CGHMSu) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Sea Saint](https://open.spotify.com/artist/2weM8AH4zDEOvFPizzkiRg) | [The Open](https://open.spotify.com/album/6BlBi2P0PytpiBZgomnSy8) | 3:42 | 2026-07-28 |  |
 | [There Are Lines](https://open.spotify.com/track/1f3KtSWSdmoUw7E80MeRXb) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN) | [There Are Lines](https://open.spotify.com/album/3R2QhJ69ohxgbDXIIZTXjP) | 3:55 | 2026-07-23 |  |
 | [There Are No Words](https://open.spotify.com/track/4bYnxMZwEvLwgGmyShoCY9) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Solstices EP](https://open.spotify.com/album/6AsV9I6SchpPWD0iG0uvUl) | 3:30 | 2026-07-23 |  |
+| [there for you](https://open.spotify.com/track/7GlV2zR7NDBqLvvlVcf0ed) | [The Band Willa](https://open.spotify.com/artist/1IX8IgFPoeMCn9Ep4rSkSm) | [there for you](https://open.spotify.com/album/6diOOZ7tCVFCOtARGRXtrN) | 4:05 | 2026-07-28 |  |
 | [Thinking About You](https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Thinking About You](https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec) | 3:37 | 2025-04-28 |  |
 | [Tom\-Tom](https://open.spotify.com/track/2wSkcaslDWhLQPpsFAKzCc) | [Amanda Stone](https://open.spotify.com/artist/6BkzONqyXB96pBWdjnIDqh) | [Tom\-Tom](https://open.spotify.com/album/2orysIYHQETawMiDAsjZiO) | 1:57 | 2025-04-28 |  |
 | [Tonight, Tonight \- Remastered 2012](https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:14 | 2025-04-28 |  |

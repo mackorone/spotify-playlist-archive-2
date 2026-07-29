@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 51304,
+  "num_followers": 51315,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAADOdnwZibUw0T0HnWdJxa4k",
+  "snapshot_id": "amafgAAAAAApoMfD7+35HA9IJDwQP4NL",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 245146,
-      "name": "The Killing Jar",
-      "url": "https://open.spotify.com/track/1j0UWLVjMbBEQdqfI1CSQf"
+      "duration_ms": 229146,
+      "name": "Ornaments Of Gold",
+      "url": "https://open.spotify.com/track/7tomZBMWdeFHTIitQ5Eyar"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 229146,
-      "name": "Ornaments Of Gold",
-      "url": "https://open.spotify.com/track/7tomZBMWdeFHTIitQ5Eyar"
+      "duration_ms": 245146,
+      "name": "The Killing Jar",
+      "url": "https://open.spotify.com/track/1j0UWLVjMbBEQdqfI1CSQf"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Swimming Horses",
-      "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of...",
         "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 342800,
       "name": "This Wheel's On Fire",
       "url": "https://open.spotify.com/track/1JRDjdUYViUZPGDue1CENL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Swimming Horses",
+      "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Kiss In The Dreamhouse",
-        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "Fireworks - 12\" Version",
-      "url": "https://open.spotify.com/track/7MyA3s6o5MnoneWELTjW9J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of...",
         "url": "https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 277173,
       "name": "Placebo Effect",
       "url": "https://open.spotify.com/track/3KRbrv6dHumhyyYTu97OqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Kiss In The Dreamhouse",
+        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "Fireworks - 12\" Version",
+      "url": "https://open.spotify.com/track/7MyA3s6o5MnoneWELTjW9J"
     }
   ],
   "unique_name": "This Is Siouxsie and the Banshees",

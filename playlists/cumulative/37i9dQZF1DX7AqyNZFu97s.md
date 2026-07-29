@@ -2,9 +2,9 @@
 
 ### [Fresh Finds UK & IE](https://open.spotify.com/playlist/37i9dQZF1DX7AqyNZFu97s)
 
-> The best new music from independent artists in the UK and Ireland\. Cover: BEASTIE
+> The best new music from independent artists in the UK and Ireland\. Cover: Rio Tashan
 
-3,646 songs - 8 day 0 hr 36 min
+3,652 songs - 8 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Before We Were Us](https://open.spotify.com/track/04ag2eala9ZAxtmDCCWNxx) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J) | [Before We Were Us](https://open.spotify.com/album/0VqPBtd4Jr05sOiZkNYeEK) | 2:57 | 2022-03-08 | 2022-03-09 |
 | [BEG](https://open.spotify.com/track/6lDnQf5fGYyqGdCwgwVgZs) | [Lex Amor](https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14) | [BEG](https://open.spotify.com/album/70EpH8QX7XLGwT2RmExT7T) | 2:40 | 2024-09-03 | 2024-10-02 |
 | [beginners' krav maga](https://open.spotify.com/track/73cVv3i5m47vfiNnhaxTQ8) | [deep tan](https://open.spotify.com/artist/019NHPyN9SM5PRiEWs4X8D) | [beginners' krav maga](https://open.spotify.com/album/5U0iDRNChDuXvbRWtx7yKu) | 2:38 | 2022-01-28 | 2022-03-17 |
+| [Behind](https://open.spotify.com/track/4AM4PderK5MCo35OZMvq0t) | [Alice Barlow](https://open.spotify.com/artist/7m2aLIvLQUQUvPZeFLIsfT) | [Behind](https://open.spotify.com/album/3cOeBPj0pBqJxGeanwCtMv) | 3:29 | 2026-07-28 |  |
 | [behind those tears](https://open.spotify.com/track/0w7Zmk5SlHJtDIMeWfdgUV) | [Dylan Flynn and the Dead Poets](https://open.spotify.com/artist/38RdXLqHcghUbaMAM1EPka) | [caught up in delusion](https://open.spotify.com/album/2yYssd2xtkEMIqJwdkuaq3) | 3:59 | 2024-06-04 | 2024-07-10 |
 | [Beige](https://open.spotify.com/track/06uCqIkWqwxBDWVGzYXICN) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Beige](https://open.spotify.com/album/2ep49soIT8mJN77rwA0n78) | 3:22 | 2022-01-05 | 2022-03-11 |
 | [Beige](https://open.spotify.com/track/3OBhDSxocfqs9knOUWYkBF) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Contours of a Cliff](https://open.spotify.com/album/7uciZ3IT8hht9S0Gmk8Ls0) | 3:22 | 2022-11-30 | 2023-01-05 |
@@ -552,6 +553,7 @@
 | [cartoon network](https://open.spotify.com/track/3JAYQjMRf4iw8GFFcfrwV0) | [Rio Rainz](https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C) | [boy overboard](https://open.spotify.com/album/2OL6bx0KiB2MoBUO1EeWyi) | 2:31 | 2026-01-21 | 2026-02-25 |
 | [Casa Los Abuelos](https://open.spotify.com/track/6xmg79kolFscm71nzySV86) | [beachtown](https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI) | [Casa Los Abuelos](https://open.spotify.com/album/4I2OJjQCVfqIrqpkzlJYrn) | 2:51 | 2024-05-21 | 2024-06-12 |
 | [Casableu](https://open.spotify.com/track/62Og36IHCGO6MqmxUqU58B) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [Casableu](https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk) | 3:38 | 2025-10-21 | 2025-12-04 |
+| [Cashmere](https://open.spotify.com/track/1yUusaa1hyYWRwWoRf7HPG) | [KinKai](https://open.spotify.com/artist/2v3z0sSTauju6TA1GMqiQj) | [Cashmere](https://open.spotify.com/album/0QZP92yZkQSDQTItXTDbcn) | 2:26 | 2026-07-28 |  |
 | [Casino](https://open.spotify.com/track/06uYUAHDAlo2Jxuv9zCWZn) | [Niels](https://open.spotify.com/artist/67Aux8pNOScNMgB0cA2Gwg) | [Casino](https://open.spotify.com/album/1tqu1wm7xjQz6GBmIUfGOP) | 2:23 | 2023-07-04 | 2023-08-02 |
 | [Cast Out](https://open.spotify.com/track/1ixSvMpiQVaOtW0Ev4pW9k) | [Moses Ideka](https://open.spotify.com/artist/3wXkwKekKUy1Hfi60sxB8s) | [Cast Out](https://open.spotify.com/album/1CyCdLdkbnueNcrobNWwkm) | 2:49 | 2023-05-17 | 2023-06-22 |
 | [casual sex](https://open.spotify.com/track/4CgVO6FqgRffpEUFNzoXGc) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj), [JT FOLEY](https://open.spotify.com/artist/1h5BwdyJ0LOpYZwECGo58q) | [casual sex](https://open.spotify.com/album/44MQMdnj6fu3ywomiNLCmp) | 3:08 | 2025-08-13 | 2025-09-24 |
@@ -1360,6 +1362,7 @@
 | [Hard To Love](https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0) | [Better Joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Hard To Love](https://open.spotify.com/album/0js8jOahyQcDzhAV1xpdnd) | 2:48 | 2023-10-24 | 2023-11-30 |
 | [Hard Too](https://open.spotify.com/track/3iF2Z0L5NQ1bVMGgMV2PHb) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Hard Too](https://open.spotify.com/album/74cRcwKNCpi26cMIdyP8Dc) | 2:29 | 2024-05-07 | 2024-06-12 |
 | [Hardest Part](https://open.spotify.com/track/1UfTyCj6UOukb7RBBOHCyn) | [Dalia](https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p) | [Hardest Part](https://open.spotify.com/album/5yN5e4c17Skg5QlQZcRigl) | 3:20 | 2025-07-15 | 2025-08-22 |
+| [Hatching](https://open.spotify.com/track/3RPcW2nl89W2tcCkKbEgky) | [MOULD](https://open.spotify.com/artist/4YKVTOc7KjZfuAfvaCHKqo) | [Hoping as a Coping Mechanism](https://open.spotify.com/album/7jlf6FLd0NjnQ51OQDgtqm) | 4:23 | 2026-07-28 |  |
 | [Hate You For Good](https://open.spotify.com/track/7ruwOuoT8Z5ZDFZLFv22Lv) | [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [Hate You For Good](https://open.spotify.com/album/5rodnhQusK8onjS7En6KpX) | 2:44 | 2024-07-30 | 2024-09-04 |
 | [Have I Ever Been](https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Same Streets But I Don't See You Around](https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg) | 2:53 | 2023-04-12 | 2024-01-03 |
 | [Have I Ever Been](https://open.spotify.com/track/4yRS5wjodEe28wyWcTM5up) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Have I Ever Been](https://open.spotify.com/album/2NB8LDy6LsycfkiFHr8Nwv) | 2:53 | 2023-01-04 | 2023-04-15 |
@@ -2392,10 +2395,12 @@
 | [On The Internet](https://open.spotify.com/track/0JGFEJFVfBqJrlHL3tjKwj) | [Midé](https://open.spotify.com/artist/1G7hgFTdqcExPWkc9FmYrg) | [On The Internet](https://open.spotify.com/album/6CZzKQq3ylQv7idQOrrdqg) | 3:32 | 2023-08-29 | 2023-09-27 |
 | [on the line](https://open.spotify.com/track/2HBJaBtNHmQkoC1y9AL9mi) | [easy days](https://open.spotify.com/artist/4O1v5pabU9l4Zk5l2yDvlH) | [on the line](https://open.spotify.com/album/3RqAUE7Q5Tw1UsPwGwvNQO) | 3:29 | 2024-01-03 | 2024-01-24 |
 | [On The Low](https://open.spotify.com/track/1Lb8Twn3H7CHBKGwc0KfYH) | [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [On The Low](https://open.spotify.com/album/1paMQZxPBZygQ2dnylI7Qx) | 4:03 | 2025-07-01 | 2025-08-06 |
+| [ON THE MAP](https://open.spotify.com/track/44hOIuDj5tYJ0d8XDpzVbp) | [T3llz](https://open.spotify.com/artist/5ggwFBnUu4OuTaA9QqmRDH) | [ON THE MAP](https://open.spotify.com/album/2A0tTwkZZ6BNFimtAI6qQv) | 2:41 | 2026-07-28 |  |
 | [On The Same Side](https://open.spotify.com/track/3fhrTWF3EhEBXenjQ7w6BN) | [Everyone Says Hi](https://open.spotify.com/artist/4sGoAzUUT1W6GuzLVEbuBa) | [On The Same Side](https://open.spotify.com/album/7BOs2bteI1F46j86wpIaso) | 3:42 | 2024-09-10 | 2024-10-16 |
 | [Once In A While \(In Love Again\)](https://open.spotify.com/track/46YB8tMchkueRMEi7OEKkZ) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Once In A While \(In Love Again\)](https://open.spotify.com/album/4P4KEJP28j9eEW3B41f9Rh) | 2:32 | 2025-11-12 | 2025-12-04 |
 | [One](https://open.spotify.com/track/43y4bvWHydIDn1DV5VqZRr) | [DEJA](https://open.spotify.com/artist/42VmdS8ipHlJdnjfeT3Hnp) | [One](https://open.spotify.com/album/2QK8nPSMDqX4GR9fbYhqpy) | 2:41 | 2023-04-12 | 2023-05-24 |
 | [One](https://open.spotify.com/track/5AgxNEeCCdVQzOjoVrA14h) | [Kiiymm](https://open.spotify.com/artist/5w7HWy9zH0wfVzpgK228zs) | [One](https://open.spotify.com/album/1eBWLIvVZPTF6xPredXm7T) | 2:31 | 2024-10-01 | 2024-10-30 |
+| [One & Only](https://open.spotify.com/track/3eE5KGR1D2E3bROi9fivg7) | [Rio Tashan](https://open.spotify.com/artist/62fNRc1B7PXFC32lgbtzi2) | [One & Only](https://open.spotify.com/album/1In4MpJozb9h0525jhEdee) | 3:28 | 2026-07-28 |  |
 | [One Flow](https://open.spotify.com/track/6H1GDPMA0MjpC5s24EoP96) | [RB](https://open.spotify.com/artist/5B7g6rz4LfxYDh24T9issl) | [One Flow](https://open.spotify.com/album/4xe15MGc9PCHKqHfpLkZE4) | 2:46 | 2025-02-26 | 2025-03-26 |
 | [One Hunna](https://open.spotify.com/track/6PyGkFil1cw6rrd9RXepio) | [King Kay](https://open.spotify.com/artist/5QS58BjJTzNzvVsUiFR4zB) | [One Hunna](https://open.spotify.com/album/3qee8cGklHXZfOUUdCHJCU) | 3:12 | 2022-08-03 | 2022-08-25 |
 | [One in a Million](https://open.spotify.com/track/11LWZ84MDmH3HLveORzySL) | [Tarun Puri](https://open.spotify.com/artist/5KB05NrNS3ns9mDIfPj65D) | [One in a Million](https://open.spotify.com/album/3h4Yu6OPqYqh7VvMWMvkQX) | 2:50 | 2022-02-16 | 2022-03-17 |
@@ -3006,6 +3011,7 @@
 | [stay.](https://open.spotify.com/track/2CCexSaM6Cay5ZSyAOAEL9) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [genr.es \(let go/what breaks\-1\)](https://open.spotify.com/album/5xTiGK5L7tstao6DuxOIpn) | 2:28 | 2023-11-29 | 2023-12-11 |
 | [stay.](https://open.spotify.com/track/4JwC4M4YmshZxvsVzkj2xv) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [stay.](https://open.spotify.com/album/04bOrLC4ssihnkmLlkoAz6) | 2:28 | 2023-09-26 | 2023-12-17 |
 | [Steel](https://open.spotify.com/track/0Zhw9s4q6VaOGaNgh7eKnf) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [Steel](https://open.spotify.com/album/2E0wj5FvZG0zC0vOJoR6jJ) | 3:58 | 2023-07-04 | 2023-08-23 |
+| [step 2 light 3](https://open.spotify.com/track/4YiGjvEgbsdL2SexhxCxwn) | [elyiz](https://open.spotify.com/artist/5fWnIsC9dKnStmF5glnqFn) | [step 2 light 3](https://open.spotify.com/album/012NDDqjEX9NuZ8g9cqcUw) | 4:17 | 2026-07-28 |  |
 | [step on the train](https://open.spotify.com/track/3KW3wD9FYgJtd1YPupES2l) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G) | [step on the train](https://open.spotify.com/album/5s6qNhNVgVtwbPYMv2NAKw) | 2:16 | 2025-09-30 | 2025-11-19 |
 | [Stepping into Light](https://open.spotify.com/track/14XqayIfASXOOQ9cHMrBul) | [Jeff Darko](https://open.spotify.com/artist/3sBwgjV04Bb5QrEvOZp1Nd) | [Stepping into Light](https://open.spotify.com/album/4YSDsuVPQ8apTWo93IhHml) | 3:08 | 2024-04-23 | 2024-05-22 |
 | [Stereo Games](https://open.spotify.com/track/3huEMTGeCgT2i4fdAeDgCl) | [Kynsy](https://open.spotify.com/artist/1GUxDXleGCxG9ibsZjASo6) | [Stereo Games](https://open.spotify.com/album/4c9wfNNq0vlh540itChXrP) | 2:31 | 2024-07-16 | 2024-08-14 |

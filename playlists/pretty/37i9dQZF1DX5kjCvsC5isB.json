@@ -1,6 +1,6 @@
 {
   "description": "the bold women of rock & alternative today. Cover: The Warning",
-  "num_followers": 317186,
+  "num_followers": 317189,
   "original_name": "Fierce Femmes",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "you were good to me (deluxe)",
-        "url": "https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T"
-      },
-      "artists": [
-        {
-          "name": "Chloe Lilac",
-          "url": "https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx"
-        }
-      ],
-      "duration_ms": 151088,
-      "name": "sound in my head",
-      "url": "https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Letter to Self",
         "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 207409,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "you were good to me (deluxe)",
+        "url": "https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T"
+      },
+      "artists": [
+        {
+          "name": "Chloe Lilac",
+          "url": "https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx"
+        }
+      ],
+      "duration_ms": 151088,
+      "name": "sound in my head",
+      "url": "https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe"
     },
     {
       "added_at": "2024-07-05 22:18:14",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Subaru",
-        "url": "https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91"
-      },
-      "artists": [
-        {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
-        }
-      ],
-      "duration_ms": 173049,
-      "name": "Subaru",
-      "url": "https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Why Am I Like This? / Ipecac",
         "url": "https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq"
       },
@@ -1211,22 +1195,6 @@
     {
       "added_at": "2024-07-05 22:18:14",
       "album": {
-        "name": "Don't",
-        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
-      },
-      "artists": [
-        {
-          "name": "Honeyglaze",
-          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
-        }
-      ],
-      "duration_ms": 165510,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
-    },
-    {
-      "added_at": "2024-07-05 22:18:14",
-      "album": {
         "name": "Self Doubt",
         "url": "https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt"
       },
@@ -1239,6 +1207,38 @@
       "duration_ms": 174226,
       "name": "Self Doubt",
       "url": "https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Subaru",
+        "url": "https://open.spotify.com/album/7guvApCNYwEuxPmrdw6Q91"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 173049,
+      "name": "Subaru",
+      "url": "https://open.spotify.com/track/0gk5BT44sWRHeiSJ0frTGO"
+    },
+    {
+      "added_at": "2024-07-05 22:18:14",
+      "album": {
+        "name": "Don't",
+        "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
+      },
+      "artists": [
+        {
+          "name": "Honeyglaze",
+          "url": "https://open.spotify.com/artist/0IJZjR1tj2EudGR8jvxZtM"
+        }
+      ],
+      "duration_ms": 165510,
+      "name": "Don't",
+      "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
     },
     {
       "added_at": "2024-07-05 22:18:14",

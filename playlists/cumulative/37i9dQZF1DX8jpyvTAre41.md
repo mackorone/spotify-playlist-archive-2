@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: Protomartyr
 
-1,982 songs - 4 day 15 hr 47 min
+1,983 songs - 4 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1512,6 +1512,7 @@
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2022-12-23 | 2023-03-18 |
 | [Slip](https://open.spotify.com/track/7rKmdNlYcVJZ0OFPmXZ5li) | [Ellevator](https://open.spotify.com/artist/617IdGJR4ElBnDD2cXiBUt) | [Slip](https://open.spotify.com/album/1jNfYTMnromITdfUbvtwfu) | 3:26 | 2022-02-11 | 2022-03-12 |
 | [Slip the Noose](https://open.spotify.com/track/4a0GY70CJ9hGQzhbDyPnXZ) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1) | [Hum of Hurt](https://open.spotify.com/album/26mI8fRaaNWASMbfS98L43) | 1:43 | 2026-06-05 |  |
+| [Slower](https://open.spotify.com/track/0XsDM1A1TXchT9dBnL9GsA) | [Dragonflies](https://open.spotify.com/artist/0xP89fSSbcFQPbeS63JQyN), [Dhani Harrison](https://open.spotify.com/artist/0BNG5EOWoNlIE1Q1c4L0Kh), [Nigel Godrich](https://open.spotify.com/artist/0g7gHEXKEHU4snTwOZSxNO) | [Dragonflies](https://open.spotify.com/album/1P5XM1qmltxdnu9CoqJgC6) | 5:01 | 2026-07-24 |  |
 | [Slumber Party](https://open.spotify.com/track/1HG6WZVTLQQh6VmEojUMM0) | [Brigitte Calls Me Baby](https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN) | [Slumber Party](https://open.spotify.com/album/00t69Vno7qzoiT21WCzpnz) | 4:01 | 2026-01-16 | 2026-03-14 |
 | [Small Talk](https://open.spotify.com/track/2VSDgY45ztAF4R4TJHKVOu) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Small Talk](https://open.spotify.com/album/4Ha96DYTUm4ln6dnTqMVkf) | 2:32 | 2022-01-28 | 2022-04-09 |
 | [Small Talk](https://open.spotify.com/track/3FMudXjXtacIvLP4D00KF9) | [Dear Rouge](https://open.spotify.com/artist/0YkjOpIntNmlG1PNF2dqSy) | [Spirit](https://open.spotify.com/album/2cHEgxUAhTE0WcSC4QFvEm) | 2:32 | 2022-04-08 | 2022-04-16 |

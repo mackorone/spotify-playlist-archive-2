@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment avec Céline Dion
+> Voici les hits du moment avec Alicia Moffet
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,439 likes - 52 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,451 likes - 52 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Scotch & poches](https://open.spotify.com/track/6MvBA4qUPzHQd6PMt9tA5i) | [Bleu Jeans Bleu](https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq) | [Record n°V](https://open.spotify.com/album/10J5WwzpLF6FRz7MABkLps) | 2:56 |
-| 2 | [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 |
-| 3 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
-| 4 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
-| 5 | [Kingdom of Fear](https://open.spotify.com/track/5NIrBJ64wXc8eZB317cmqZ) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:41 |
-| 6 | [Le bon choix](https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Qui je suis](https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1) | 2:15 |
-| 7 | [Mademoiselle](https://open.spotify.com/track/6l6bh1BetpFBtKZRhNIN2v) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mademoiselle](https://open.spotify.com/album/5OCHnxfcb5Rgi3SmDsZJEJ) | 3:17 |
-| 8 | ["forever"](https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | ["forever"](https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK) | 3:30 |
+| 1 | ["forever"](https://open.spotify.com/track/4gjGFK3zf2I3Rq6topLZQW) | [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | ["forever"](https://open.spotify.com/album/03GwlzAfUKRGtr1jI8mSVK) | 3:30 |
+| 2 | [Scotch & poches](https://open.spotify.com/track/6MvBA4qUPzHQd6PMt9tA5i) | [Bleu Jeans Bleu](https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq) | [Record n°V](https://open.spotify.com/album/10J5WwzpLF6FRz7MABkLps) | 2:56 |
+| 3 | [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 |
+| 4 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
+| 5 | [Choosin' Texas](https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi) | 3:52 |
+| 6 | [Kingdom of Fear](https://open.spotify.com/track/5NIrBJ64wXc8eZB317cmqZ) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Deep Water](https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78) | 2:41 |
+| 7 | [Le bon choix](https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Qui je suis](https://open.spotify.com/album/4GUr2nwOgVYxFAslKpFlw1) | 2:15 |
+| 8 | [Mademoiselle](https://open.spotify.com/track/6l6bh1BetpFBtKZRhNIN2v) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mademoiselle](https://open.spotify.com/album/5OCHnxfcb5Rgi3SmDsZJEJ) | 3:17 |
 | 9 | [Où on dansait autrefois](https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [L'amour](https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5) | 2:55 |
 | 10 | [Illégal](https://open.spotify.com/track/6xjGT0wCJvMU77T9SQUOlo) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [MONSTRE](https://open.spotify.com/album/0PIKu8Kbqbef0MsIlb4GNV) | 2:59 |
 | 11 | [VAISSEAU](https://open.spotify.com/track/23yAISMj2p7m9oGDkyITmM) | [Jgamalielz Official](https://open.spotify.com/artist/1C4WMvh3mxQKt1KGZo7AlO), [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [VAISSEAU](https://open.spotify.com/album/1QstXo6Qdpkmg3v74b7jgR) | 2:58 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 51 | [Tu seul](https://open.spotify.com/track/3YNMOtv15BakUjuZT6ADoR) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [Qu'acoustis\-je Qu'ouïs\-je Qu'entends\-je](https://open.spotify.com/album/5TLDAGC0vjuDSg1GCuRfPq) | 5:21 |
 | 52 | [Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT) | 2:40 |
 
-Snapshot ID: `AAAAAP0vU3bRhruDP3SjjLnq/p/DNNnz`
+Snapshot ID: `AAAAAGTRl/dxjNnClTFdFQy0jwwyZMRV`

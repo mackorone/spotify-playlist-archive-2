@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover - Twinkle Aggrwal",
-  "num_followers": 106707,
+  "num_followers": 106746,
   "original_name": "EQUAL India",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,50 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
+        "name": "giraft",
+        "url": "https://open.spotify.com/album/1qmVKxb0th57tObxxwaoLw"
+      },
+      "artists": [
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        }
+      ],
+      "duration_ms": 168075,
+      "name": "giraft",
+      "url": "https://open.spotify.com/track/7xAAZ00Ijvf3sHQFjW39Nh"
+    },
+    {
+      "added_at": "2026-07-23 04:49:42",
+      "album": {
+        "name": "Balma",
+        "url": "https://open.spotify.com/album/0cIUcddrziyaJ8I8WIqLjT"
+      },
+      "artists": [
+        {
+          "name": "Bhoomi",
+          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
+        },
+        {
+          "name": "RK",
+          "url": "https://open.spotify.com/artist/67SWJbjPx8M3562Ewl4Ygx"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        }
+      ],
+      "duration_ms": 180728,
+      "name": "Balma",
+      "url": "https://open.spotify.com/track/2Ao7j1XOc6CdC1Nehjatzo"
+    },
+    {
+      "added_at": "2026-07-23 04:49:42",
+      "album": {
         "name": "Jindua",
         "url": "https://open.spotify.com/album/4g2sRBNskak775SL1Qidoo"
       },
@@ -1007,50 +1051,6 @@
       "duration_ms": 176938,
       "name": "Jindua",
       "url": "https://open.spotify.com/track/5Efx3o1NB0vfFDBusFYjqh"
-    },
-    {
-      "added_at": "2026-07-23 04:49:42",
-      "album": {
-        "name": "Balma",
-        "url": "https://open.spotify.com/album/0cIUcddrziyaJ8I8WIqLjT"
-      },
-      "artists": [
-        {
-          "name": "Bhoomi",
-          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
-        },
-        {
-          "name": "RK",
-          "url": "https://open.spotify.com/artist/67SWJbjPx8M3562Ewl4Ygx"
-        },
-        {
-          "name": "Naaz",
-          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
-        },
-        {
-          "name": "Saaheal",
-          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
-        }
-      ],
-      "duration_ms": 180728,
-      "name": "Balma",
-      "url": "https://open.spotify.com/track/2Ao7j1XOc6CdC1Nehjatzo"
-    },
-    {
-      "added_at": "2026-07-23 04:49:42",
-      "album": {
-        "name": "giraft",
-        "url": "https://open.spotify.com/album/1qmVKxb0th57tObxxwaoLw"
-      },
-      "artists": [
-        {
-          "name": "Shalmali Kholgade",
-          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
-        }
-      ],
-      "duration_ms": 168075,
-      "name": "giraft",
-      "url": "https://open.spotify.com/track/7xAAZ00Ijvf3sHQFjW39Nh"
     },
     {
       "added_at": "2026-07-23 04:49:42",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
+        "name": "Seven And a Half Dates",
+        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Duniya",
+      "url": "https://open.spotify.com/track/0EkErlhqHxhJmEd5SZJvc1"
+    },
+    {
+      "added_at": "2026-07-23 04:49:42",
+      "album": {
         "name": "Kya Batayein",
         "url": "https://open.spotify.com/album/46ex4EWYffcfyxQdHGMcht"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 260640,
       "name": "Kya Batayein",
       "url": "https://open.spotify.com/track/54DMShI0aIJm8LZTHJH6qG"
-    },
-    {
-      "added_at": "2026-07-23 04:49:42",
-      "album": {
-        "name": "Seven And a Half Dates",
-        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
-      },
-      "artists": [
-        {
-          "name": "Hansika Pareek",
-          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Duniya",
-      "url": "https://open.spotify.com/track/0EkErlhqHxhJmEd5SZJvc1"
     },
     {
       "added_at": "2026-07-23 04:49:42",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
-        "name": "Birha",
-        "url": "https://open.spotify.com/album/0kAAQTEEYsQ162uDSs0ncv"
-      },
-      "artists": [
-        {
-          "name": "Tanishka Bahl",
-          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
-        },
-        {
-          "name": "Naaz",
-          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
-        }
-      ],
-      "duration_ms": 157931,
-      "name": "Birha",
-      "url": "https://open.spotify.com/track/34qQefRo1gvABSijPg2v9G"
-    },
-    {
-      "added_at": "2026-07-23 04:49:42",
-      "album": {
         "name": "Behtar",
         "url": "https://open.spotify.com/album/2pK7DPxzdkF0LMpVpiYxTm"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 172405,
       "name": "Behtar",
       "url": "https://open.spotify.com/track/5dibYPxeDw00ClnPUpmlVS"
+    },
+    {
+      "added_at": "2026-07-23 04:49:42",
+      "album": {
+        "name": "Birha",
+        "url": "https://open.spotify.com/album/0kAAQTEEYsQ162uDSs0ncv"
+      },
+      "artists": [
+        {
+          "name": "Tanishka Bahl",
+          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
+        }
+      ],
+      "duration_ms": 157931,
+      "name": "Birha",
+      "url": "https://open.spotify.com/track/34qQefRo1gvABSijPg2v9G"
     },
     {
       "added_at": "2026-07-23 04:49:42",
@@ -1427,26 +1427,22 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
-        "name": "Bandish Bandits Season 2 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF"
+        "name": "Tum Mere Hona",
+        "url": "https://open.spotify.com/album/3tnEdFjBzdoCugmz3ZC76x"
       },
       "artists": [
         {
-          "name": "Siddharth Pandit",
-          "url": "https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG"
+          "name": "Yashashree Venkatesh",
+          "url": "https://open.spotify.com/artist/6vm6Dz0pOPUo7tmTFHQPWu"
         },
         {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        },
-        {
-          "name": "Alok Ranjan Srivastava",
-          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+          "name": "ANKUSH",
+          "url": "https://open.spotify.com/artist/77o1JYELsxlyy19Z3WOiLv"
         }
       ],
-      "duration_ms": 272384,
-      "name": "Khaamakha",
-      "url": "https://open.spotify.com/track/0GPCJqtDyJPVpdVLgp9lfx"
+      "duration_ms": 189356,
+      "name": "Tum Mere Hona",
+      "url": "https://open.spotify.com/track/7qjXz8fcLnc9pmzfP1UlH2"
     },
     {
       "added_at": "2026-07-23 04:49:42",
@@ -1467,22 +1463,26 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
-        "name": "Tum Mere Hona",
-        "url": "https://open.spotify.com/album/3tnEdFjBzdoCugmz3ZC76x"
+        "name": "Bandish Bandits Season 2 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0Atz7wNsDiGgiPZ1qrq7bF"
       },
       "artists": [
         {
-          "name": "Yashashree Venkatesh",
-          "url": "https://open.spotify.com/artist/6vm6Dz0pOPUo7tmTFHQPWu"
+          "name": "Siddharth Pandit",
+          "url": "https://open.spotify.com/artist/4lG93AH2UqEYBZKlpxkZAG"
         },
         {
-          "name": "ANKUSH",
-          "url": "https://open.spotify.com/artist/77o1JYELsxlyy19Z3WOiLv"
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
         }
       ],
-      "duration_ms": 189356,
-      "name": "Tum Mere Hona",
-      "url": "https://open.spotify.com/track/7qjXz8fcLnc9pmzfP1UlH2"
+      "duration_ms": 272384,
+      "name": "Khaamakha",
+      "url": "https://open.spotify.com/track/0GPCJqtDyJPVpdVLgp9lfx"
     },
     {
       "added_at": "2026-07-23 04:49:42",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
+        "name": "Seven And a Half Dates",
+        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
+      },
+      "artists": [
+        {
+          "name": "Simran Choudhary",
+          "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
+        }
+      ],
+      "duration_ms": 193124,
+      "name": "Aye Kyon The",
+      "url": "https://open.spotify.com/track/7xg20yggdJbh63cJYqwmO8"
+    },
+    {
+      "added_at": "2026-07-23 04:49:42",
+      "album": {
         "name": "Mohabbat Kisi Aur Se",
         "url": "https://open.spotify.com/album/6PQlFEjN7wU9Yyj8NXghRI"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 186666,
       "name": "Mohabbat Kisi Aur Se",
       "url": "https://open.spotify.com/track/5UDqd1spTXBqEai60mjyGK"
-    },
-    {
-      "added_at": "2026-07-23 04:49:42",
-      "album": {
-        "name": "Seven And a Half Dates",
-        "url": "https://open.spotify.com/album/15GsrorhwfBSmrTSIDzDtM"
-      },
-      "artists": [
-        {
-          "name": "Simran Choudhary",
-          "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
-        }
-      ],
-      "duration_ms": 193124,
-      "name": "Aye Kyon The",
-      "url": "https://open.spotify.com/track/7xg20yggdJbh63cJYqwmO8"
     },
     {
       "added_at": "2026-07-23 04:49:42",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
-        "name": "Kaise Hum",
-        "url": "https://open.spotify.com/album/4dBKpBxxdLlV9o1aI8dbjc"
-      },
-      "artists": [
-        {
-          "name": "Madhubanti Bagchi",
-          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-        },
-        {
-          "name": "JUNO",
-          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
-        }
-      ],
-      "duration_ms": 234166,
-      "name": "Kaise Hum",
-      "url": "https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV"
-    },
-    {
-      "added_at": "2026-07-23 04:49:42",
-      "album": {
         "name": "umraan",
         "url": "https://open.spotify.com/album/0RYVngJi1hWo7yqsy2dzN7"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 151874,
       "name": "umraan",
       "url": "https://open.spotify.com/track/5BbkLWMmRsEVEbgVkuoIab"
+    },
+    {
+      "added_at": "2026-07-23 04:49:42",
+      "album": {
+        "name": "Kaise Hum",
+        "url": "https://open.spotify.com/album/4dBKpBxxdLlV9o1aI8dbjc"
+      },
+      "artists": [
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "JUNO",
+          "url": "https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj"
+        }
+      ],
+      "duration_ms": 234166,
+      "name": "Kaise Hum",
+      "url": "https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV"
     },
     {
       "added_at": "2026-07-23 04:49:42",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-07-23 04:49:42",
       "album": {
-        "name": "Madhaniya",
-        "url": "https://open.spotify.com/album/4nRwLnyRapoBH2tmde8RPV"
-      },
-      "artists": [
-        {
-          "name": "Ragini Tandan",
-          "url": "https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA"
-        }
-      ],
-      "duration_ms": 169014,
-      "name": "Madhaniya",
-      "url": "https://open.spotify.com/track/2G2Hj6kWQbD81whGiagW99"
-    },
-    {
-      "added_at": "2026-07-23 04:49:42",
-      "album": {
         "name": "Ankhiyan Roye",
         "url": "https://open.spotify.com/album/28jr23QVPgioV3LcXCkr7M"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 195789,
       "name": "Ankhiyan Roye",
       "url": "https://open.spotify.com/track/4gjSfkLdSKAxsDZ4aj0RXb"
+    },
+    {
+      "added_at": "2026-07-23 04:49:42",
+      "album": {
+        "name": "Madhaniya",
+        "url": "https://open.spotify.com/album/4nRwLnyRapoBH2tmde8RPV"
+      },
+      "artists": [
+        {
+          "name": "Ragini Tandan",
+          "url": "https://open.spotify.com/artist/2yuGX61xWhx2Mhhmu1i5WA"
+        }
+      ],
+      "duration_ms": 169014,
+      "name": "Madhaniya",
+      "url": "https://open.spotify.com/track/2G2Hj6kWQbD81whGiagW99"
     }
   ],
   "unique_name": "EQUAL India",

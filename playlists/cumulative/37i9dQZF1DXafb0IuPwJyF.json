@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: Mrs. GREEN APPLE",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002The hottest hits in Japan right now. Cover: \u305a\u3063\u3068\u771f\u591c\u4e2d\u3067\u3044\u3044\u306e\u306b\u3002",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -662,7 +662,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 215858,
       "name": "AIZO",
       "url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
@@ -2544,6 +2544,28 @@
       "duration_ms": 235000,
       "name": "California coconuts",
       "url": "https://open.spotify.com/track/0lNrG9JiNQIrSQJ3vzQdcx"
+    },
+    {
+      "album": {
+        "name": "Calling Back (feat. Tete)",
+        "url": "https://open.spotify.com/album/7gMg2erxTyNXPKybcmDlOQ"
+      },
+      "artists": [
+        {
+          "name": "IO",
+          "url": "https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd"
+        },
+        {
+          "name": "Tete",
+          "url": "https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177697,
+      "name": "Calling Back (feat. Tete)",
+      "url": "https://open.spotify.com/track/1W091F98b45eE2dL7kgsng"
     },
     {
       "album": {
@@ -5170,7 +5192,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 195673,
       "name": "Fiction Love",
       "url": "https://open.spotify.com/track/7FsaBZwRNWlXVCIgI2QMqL"
@@ -6176,6 +6198,24 @@
       "duration_ms": 232284,
       "name": "Go back",
       "url": "https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi"
+    },
+    {
+      "album": {
+        "name": "GO GHOST",
+        "url": "https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170100,
+      "name": "GO GHOST",
+      "url": "https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB"
     },
     {
       "album": {
@@ -8053,6 +8093,24 @@
     },
     {
       "album": {
+        "name": "I-BULL - iburu - BLEACH: Thousand-Year Blood War - The Calamity",
+        "url": "https://open.spotify.com/album/5SxwYJiJUV8p0EinXqbBjM"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240233,
+      "name": "I-BULL - iburu",
+      "url": "https://open.spotify.com/track/6EhMAfr1NhCAURSnzrtkbL"
+    },
+    {
+      "album": {
         "name": "ia",
         "url": "https://open.spotify.com/album/61ON4UP1najrsFvPXTt7j8"
       },
@@ -9293,6 +9351,24 @@
     },
     {
       "album": {
+        "name": "Lamipus",
+        "url": "https://open.spotify.com/album/06Nez4jC1Edi5nTlukpLqJ"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173833,
+      "name": "Lamipus",
+      "url": "https://open.spotify.com/track/6stqPwBoOCNKSJxjPM9NPT"
+    },
+    {
+      "album": {
         "name": "Landscape",
         "url": "https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl"
       },
@@ -10186,7 +10262,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 270626,
       "name": "lulu.",
       "url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih"
@@ -19309,6 +19385,24 @@
     },
     {
       "album": {
+        "name": "WHATCHA DOIN",
+        "url": "https://open.spotify.com/album/5bUWg5P0OFvGtGT0ePJsEb"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202725,
+      "name": "WHATCHA DOIN",
+      "url": "https://open.spotify.com/track/0jIdJN8ZjQNVLmikkg0mnF"
+    },
+    {
+      "album": {
         "name": "What\u2019s going on?",
         "url": "https://open.spotify.com/album/5FSfuTfvfVR3iWmHuwEDl6"
       },
@@ -23840,7 +23934,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 245893,
       "name": "\u30b9\u30ad\u30f3\u30ba - Skins",
       "url": "https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ"
@@ -28815,6 +28909,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u7a7a\u6e2f",
+        "url": "https://open.spotify.com/album/7iB2FdbAgTdHcaFRRefY4i"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287840,
+      "name": "\u5927\u7a7a\u6e2f",
+      "url": "https://open.spotify.com/track/25PSTQG3ib1bWyyoCU1Dpl"
+    },
+    {
+      "album": {
         "name": "\u5929\u4f7f\u3068\u60aa\u9b54",
         "url": "https://open.spotify.com/album/5NZlBgPBgInls0xXbeLxUW"
       },
@@ -30402,7 +30514,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 220138,
       "name": "\u666f\u8272",
       "url": "https://open.spotify.com/track/3eQnYrSRYJzfTukiYFwsgb"
@@ -32560,7 +32672,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 229372,
       "name": "\u7d42\u5bb5",
       "url": "https://open.spotify.com/track/77ve5M5MUltW9VvydkxvT7"
@@ -33878,7 +33990,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 286417,
       "name": "\u91d1\u5b57\u5854",
       "url": "https://open.spotify.com/track/0G0FQEoNawD8i0LCrDMAl4"
@@ -34124,6 +34236,24 @@
       "duration_ms": 187040,
       "name": "\u9752\u3044\u30bd\u30d5\u30a1\u306e\u4e0a\u3067",
       "url": "https://open.spotify.com/track/5VCadjLcPpvYvPAFt6kouF"
+    },
+    {
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270026,
+      "name": "\u9752\u3068\u590f",
+      "url": "https://open.spotify.com/track/5BC6kr6etk2Y9J62AyI4i3"
     },
     {
       "album": {
@@ -34538,7 +34668,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 162000,
       "name": "\u9ad8\u3076\u308b\u30d6\u30eb\u30fc",
       "url": "https://open.spotify.com/track/6h4Z4yVMkOwudz8V7KAfDe"
@@ -34578,6 +34708,24 @@
       "duration_ms": 175998,
       "name": "\u9b3c\u30ce\u5bb4",
       "url": "https://open.spotify.com/track/096KHkONhQm4MQNH35mU22"
+    },
+    {
+      "album": {
+        "name": "\u9b3c\u4e8b",
+        "url": "https://open.spotify.com/album/7IxbIYQOOQKgoQZzpFTArJ"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180097,
+      "name": "\u9b3c\u4e8b",
+      "url": "https://open.spotify.com/track/4P0BIgJzLRQXooTDJFakwU"
     },
     {
       "album": {

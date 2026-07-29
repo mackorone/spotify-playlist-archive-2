@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Kamdenboy & Kyraboo
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,153 likes - 99 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,163 likes - 99 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 9 | [Ice Water \(From "Camp Snoopy"\)](https://open.spotify.com/track/0QGIo08hbjLybcLXVlRSKr) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O), [Peanuts](https://open.spotify.com/artist/58JT424axIaKJNvUgVonOY) | [Ice Water \(From "Camp Snoopy"\)](https://open.spotify.com/album/0gv3zTZK1vtbLVRRB8by9w) | 2:23 |
 | 10 | [Shark ABC](https://open.spotify.com/track/7sKF5bZwbWg3qtw8lW8vL1) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [2021 신나는 핑크퐁 영어 인기동요 60분](https://open.spotify.com/album/5zS8xDI7BNXxALFJfNwxaf) | 0:43 |
 | 11 | [Famously You](https://open.spotify.com/track/2svvZoE4SJmY4D7SmK1tyA) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [Famously You \(Original TV Soundtrack\)](https://open.spotify.com/album/2vNE6JnS2J2qzjpadzBJCz) | 1:06 |
-| 12 | [Wake Up, Sleepy Lions!](https://open.spotify.com/track/0A5WW3VrlzEsEpc0VGNKlu) | [Ms Appleberry](https://open.spotify.com/artist/7gjGsSnJnSzAnh6wxZCqBQ), [Teacher Peter](https://open.spotify.com/artist/4qK4Sehk0WdkDGP80zo4xY), [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Wake Up, Sleepy Lions!](https://open.spotify.com/album/5Q03zSGUoTfyZAcr6PHfjS) | 2:31 |
+| 12 | [Wake Up, Sleepy Lions!](https://open.spotify.com/track/0A5WW3VrlzEsEpc0VGNKlu) | [Ms\. Appleberry](https://open.spotify.com/artist/7gjGsSnJnSzAnh6wxZCqBQ), [Teacher Peter](https://open.spotify.com/artist/4qK4Sehk0WdkDGP80zo4xY), [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Wake Up, Sleepy Lions!](https://open.spotify.com/album/5Q03zSGUoTfyZAcr6PHfjS) | 2:31 |
 | 13 | [Grumpy Mushrooms](https://open.spotify.com/track/4L06yhmppUvZ8JJIA7wo3Z) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Grumpy Mushrooms](https://open.spotify.com/album/1HuAHFM7s0nesbNoZBiKUb) | 0:44 |
 | 14 | [10 Little Dinosaurs](https://open.spotify.com/track/4pJPDR4hopk1c2YRxpfLGk) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [10 Little Dinosaurs](https://open.spotify.com/album/0SvPbKeTGj4MYJIjFla8tN) | 2:05 |
 | 15 | [Galumph Went The Little Green Frog](https://open.spotify.com/track/7LNlXvieqsURHt3BHtyr32) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Galumph Went The Little Green Frog](https://open.spotify.com/album/5R26e1ugyCOL7NKmQMxWWN) | 3:47 |

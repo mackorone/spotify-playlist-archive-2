@@ -4,7 +4,7 @@
 
 > A new shade of Country\. Cover: Patrick Droney
 
-841 songs - 2 day 2 hr 55 min
+842 songs - 2 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -724,6 +724,7 @@
 | [The Great Divide](https://open.spotify.com/track/3q3lSbfT5BnQlIvGwahgAD) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [The Great Divide](https://open.spotify.com/album/1KUJKWXmE95TPXxeJecop9) | 3:31 | 2021-12-17 | 2022-02-19 |
 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-01-30 | 2026-06-06 |
 | [The Greatest Day of My Life](https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [The Greatest Day of My Life](https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7) | 3:58 | 2022-11-11 | 2023-04-15 |
+| [The Heidelberg Fisherman's Ball](https://open.spotify.com/track/36vZum6jdjadeXbi2qfiUZ) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [The Heidelberg Fisherman's Ball](https://open.spotify.com/album/3vc1Vo1JXgjTnMdal0eGTW) | 2:49 | 2026-07-24 |  |
 | [The Highway Song](https://open.spotify.com/track/3vNsIsqM1MdTT1z4jNUf46) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning in Dreams, Pt\. 1](https://open.spotify.com/album/0FqqzkczFHMqkfVPzs7Ev8) | 3:23 | 2021-12-17 | 2023-04-09 |
 | [The Last Resort](https://open.spotify.com/track/7f5z4IzFsYYhUyxBXbFXcr) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort](https://open.spotify.com/album/37oKdfR8Pp7h6f5ovGHGew) | 3:56 | 2022-03-04 | 2022-04-29 |
 | [The Last Tear](https://open.spotify.com/track/1dUQUX4jRmE8PROZ4Xw49C) | [Lilly Hiatt](https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90) | [Lately](https://open.spotify.com/album/1azugHkoKRDBfIsCac10z9) | 3:31 | 2021-12-17 | 2022-02-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 
 > Mga nangunguna sa mundo ng OPM\. Cover: Maki
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,068,969 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,068,769 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0iFfuXuP4Pm.md) - [plain]
 | 38 | [Dun Ka Na](https://open.spotify.com/track/49EciH2ERqVPlBmXpg6y2o) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Dash Calzado](https://open.spotify.com/artist/3CsvOKrHAkWV1ABxia2kJW) | [Dun Ka Na](https://open.spotify.com/album/256bni8wpTNegtFKPCrMUe) | 3:19 |
 | 39 | [Nasa Ulap](https://open.spotify.com/track/2QL0YcVoACpQrfVeMSfDfR) | [The Red Strings](https://open.spotify.com/artist/1OReprh6WpboerPxNxuQjO) | [Nasa Ulap](https://open.spotify.com/album/4UcDLHwuR5hEKlpTx1SEA5) | 3:18 |
 | 40 | [PARA SAKIN](https://open.spotify.com/track/3YhZYAFOcKzZWuRV2gR1M9) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [PARA SAKIN](https://open.spotify.com/album/18yRGEbP6GSITMWFsaK6OV) | 3:29 |
-| 41 | [ULAP](https://open.spotify.com/track/0eS0KVhvXkklVVzdhmOrHp) | [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB), [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [ULAP](https://open.spotify.com/album/3u4bBpOV8OOSCAcZhcgP6c) | 4:50 |
+| 41 | [ULAP](https://open.spotify.com/track/0eS0KVhvXkklVVzdhmOrHp) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [ULAP](https://open.spotify.com/album/3u4bBpOV8OOSCAcZhcgP6c) | 4:50 |
 | 42 | [Sa'yo Bumabalik](https://open.spotify.com/track/35YfRQNWOs5xxkfOkP1LsG) | [Ice Seguerra](https://open.spotify.com/artist/19X3R5eJguNYE8lwDZZWV9) | [Sa'yo Bumabalik](https://open.spotify.com/album/3yLYzhoE0Sbk6dQoBO8xVq) | 3:47 |
 | 43 | [Summer Crush](https://open.spotify.com/track/6dz4FTaIgrPIk7lfphecQh) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [Summer Crush](https://open.spotify.com/album/5kfTZHSs9x8z0oMOoXiqw2) | 3:14 |
 | 44 | [Limot](https://open.spotify.com/track/7HOEqncRxY4CC7HUMp4kPa) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Limot](https://open.spotify.com/album/575QXywmTHxwPP93o04Uqi) | 4:01 |

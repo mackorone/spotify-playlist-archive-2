@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Bonobo",
-  "num_followers": 43673,
+  "num_followers": 43678,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Lockup",
-        "url": "https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 271835,
-      "name": "Lockup",
-      "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 196813,
       "name": "All Night",
       "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Lockup",
+        "url": "https://open.spotify.com/album/1wZBrUG91Caq1CFVP2fqb7"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 271835,
+      "name": "Lockup",
+      "url": "https://open.spotify.com/track/0iONV7wVA3odk4r4MuQO7w"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -663,6 +663,26 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
+        "name": "Blue Shadows (feat. Karen O)",
+        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Blue Shadows (feat. Karen O)",
+      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
         "name": "Round The Block",
         "url": "https://open.spotify.com/album/78DEb7OzxItyfsHEUpedmo"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 200192,
       "name": "mangetout - The Dare remix",
       "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "Blue Shadows (feat. Karen O)",
-        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Karen O",
-          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Blue Shadows (feat. Karen O)",
-      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "ROUND & ROUND",
-        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 224841,
-      "name": "ROUND & ROUND",
-      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "Say\u014dnara",
         "url": "https://open.spotify.com/album/4sSuFuXvMNnml7USWeCiQ9"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 184734,
       "name": "Say\u014dnara",
       "url": "https://open.spotify.com/track/5gNzx8gPSmvZRmC7GqDlkI"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "ROUND & ROUND",
+        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 224841,
+      "name": "ROUND & ROUND",
+      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "JOY (Light In The Dark)",
-        "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
+        "name": "Last October",
+        "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
       },
       "artists": [
         {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
         }
       ],
-      "duration_ms": 296045,
-      "name": "JOY (Light In The Dark)",
-      "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
+      "duration_ms": 188452,
+      "name": "Last October",
+      "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Last October",
-        "url": "https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4"
+        "name": "JOY (Light In The Dark)",
+        "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
       },
       "artists": [
         {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
         }
       ],
-      "duration_ms": 188452,
-      "name": "Last October",
-      "url": "https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU"
+      "duration_ms": 296045,
+      "name": "JOY (Light In The Dark)",
+      "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "ITVLO",
-        "url": "https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR"
-      },
-      "artists": [
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 287267,
-      "name": "ITVLO",
-      "url": "https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 151763,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "ITVLO",
+        "url": "https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 287267,
+      "name": "ITVLO",
+      "url": "https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 137493,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 266129,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 137493,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI"
     }
   ],
   "unique_name": "Indie Electronic ",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: BKTHERULA
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,061 likes - 99 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,017 likes - 99 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 53 | [M.O.M.](https://open.spotify.com/track/6iIpGsEuUIuapBssJ8sFC2) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 2:45 |
 | 54 | [New Ebonics](https://open.spotify.com/track/0e9Efw1iRH3q9SNaKcdDFG) | [Yonny](https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ) | [New Ebonics](https://open.spotify.com/album/2ZRDs5161FP2nvMMwsG62P) | 2:51 |
 | 55 | [Family Business](https://open.spotify.com/track/3kfnktW6XQxgiyEGlKXiB4) | [Jay Veno](https://open.spotify.com/artist/20c3HVlnRiTRZcDFlbgJPg), [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Family Business](https://open.spotify.com/album/2LCO6GrzBTWNmEXXFnYEVw) | 2:43 |
-| 56 | [QUEEN](https://open.spotify.com/track/72fk9qLkTXi2FUJoC24ggi) | [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [QUEEN](https://open.spotify.com/album/16PNYwqHZXB84sKzvzahSj) | 2:07 |
+| 56 | [QUEEN](https://open.spotify.com/track/72fk9qLkTXi2FUJoC24ggi) | [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [QUEEN](https://open.spotify.com/album/16PNYwqHZXB84sKzvzahSj) | 2:07 |
 | 57 | [Lights](https://open.spotify.com/track/797VSqbtTiNuxMFIgcGAuo) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EXPERIMENTAL RAP](https://open.spotify.com/album/5LmWpQ3tnLtX0kOm2SxB22) | 3:02 |
 | 58 | [2025LOVESTORY \(Digital\)](https://open.spotify.com/track/7BDxIQSoV6ESO3UCGpRXKI) | [ERISTHEPLANET](https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3) | [2025LOVESTORY \(Digital\)](https://open.spotify.com/album/0V7ax0SGR6nxCtGtgnMiex) | 1:42 |
 | 59 | [PUNK B!TCH](https://open.spotify.com/track/2EBaXWK5WkRKAnVeQVJcqU) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3), [Jadagrace](https://open.spotify.com/artist/1C3vUa0iC1bkCTvZTzQxyk), [SWIM](https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB) | [AMERIKA’S NEXT TOP PARTY! \(EXTENDED CUT\)](https://open.spotify.com/album/5RhIfIxaYxEaMw9schZt0I) | 2:49 |

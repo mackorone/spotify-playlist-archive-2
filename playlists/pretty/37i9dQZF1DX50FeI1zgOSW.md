@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Joshua Aaron
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,003 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,002 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 8 | [Superhero](https://open.spotify.com/track/3LWzYA7qw4gbWyI148zLaf) | [Joshua Aaron](https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq) | [Superhero](https://open.spotify.com/album/2VgaTCQSIGOYFNWK3W0RCP) | 2:36 |
 | 9 | [Vaazhkai](https://open.spotify.com/track/7ldYjcY8zGYKqi5IJ7i7Jp) | [Simeon Telfer](https://open.spotify.com/artist/4vkn9dybP20UlSOEXxO0ak), [A\-Gan](https://open.spotify.com/artist/3Npa3oPCYQ8BXQ9QzZsseH) | [Vaazhkai](https://open.spotify.com/album/0jvEkr6SlckdP35OG6MQp6) | 3:23 |
 | 10 | [Anbin Nadhiye](https://open.spotify.com/track/6aNNNwoULBgMkO2QfrPc1X) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Anbin Nadhiye](https://open.spotify.com/album/4Cx3sNXn94a97lcbP6bL2i) | 3:21 |
-| 11 | [Bodha Kannadi](https://open.spotify.com/track/2ZXFfdzEDMhDR718lRhiNv) | [Hemi](https://open.spotify.com/artist/2MbAvke8Bf9bhqvc628qaN) | [I\-Popstar Tamil \| Ep 01](https://open.spotify.com/album/7vI2aiu7ChxhLKwXMnhgjD) | 2:54 |
+| 11 | [Bodha Kannadi](https://open.spotify.com/track/2ZXFfdzEDMhDR718lRhiNv) | [Hemi](https://open.spotify.com/artist/2MbAvke8Bf9bhqvc628qaN), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [I\-Popstar Tamil \| Ep 01](https://open.spotify.com/album/7vI2aiu7ChxhLKwXMnhgjD) | 2:54 |
 | 12 | [Thatti Utta](https://open.spotify.com/track/5n5rAjhMXmHDaHJc84zngQ) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [sachu Madrasi](https://open.spotify.com/artist/5cTDZIXnv13h05pY6zTQjN) | [Thatti Utta](https://open.spotify.com/album/4t1bTNaAOrV2ECsaCk0UDq) | 3:09 |
-| 13 | [Bachelorette Party](https://open.spotify.com/track/4KTFOANiDY5YSxWVfTQOpD) | [Rockzane](https://open.spotify.com/artist/6yEdB2QEKNpCfhSmBfSxD1) | [I\-Popstar Tamil \| Ep 01](https://open.spotify.com/album/7vI2aiu7ChxhLKwXMnhgjD) | 2:41 |
+| 13 | [Bachelorette Party](https://open.spotify.com/track/4KTFOANiDY5YSxWVfTQOpD) | [Rockzane](https://open.spotify.com/artist/6yEdB2QEKNpCfhSmBfSxD1), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [I\-Popstar Tamil \| Ep 01](https://open.spotify.com/album/7vI2aiu7ChxhLKwXMnhgjD) | 2:41 |
 | 14 | [Mayile Mantharame](https://open.spotify.com/track/0PqDmBZcOVk31wRtlPFVuq) | [Anthakudi Ilayaraja](https://open.spotify.com/artist/1admShgbxLv5sOpHseFd0d) | [Mayile Mantharame](https://open.spotify.com/album/2LiCtE6U5MGRESXJlMm2cn) | 3:49 |
 | 15 | [The Vex Song](https://open.spotify.com/track/2zqCudaM6gfePaJRR9Uz33) | [Valluvan](https://open.spotify.com/artist/5KMPMUPGGsLolQrX5iIiNF) | [The Vex Song](https://open.spotify.com/album/1ltmSbinJ37Wd888zsz0lJ) | 4:25 |
 | 16 | [Atti Poda Vaa Mame](https://open.spotify.com/track/35jglKbFFjw0CoGTnjWvVY) | [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF), [Swathi](https://open.spotify.com/artist/72S4mb0MZM5unEBKWzqRP3), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Atti Poda Vaa Mame](https://open.spotify.com/album/0vZUP0HDUcApozVoAxZS2a) | 3:09 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:1cMwAkW75xurkmm79aLqnb\">Metrosexual</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:6hPQKMhpljngmSjaxRJJfg\">Margo</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -1442,6 +1442,24 @@
       "duration_ms": 272712,
       "name": "6:23",
       "url": "https://open.spotify.com/track/0UaWdPLwBwXZGNPhtU0VPn"
+    },
+    {
+      "album": {
+        "name": "7 DNI",
+        "url": "https://open.spotify.com/album/6DYWeGg54xhbb3owtbkySO"
+      },
+      "artists": [
+        {
+          "name": "n0c",
+          "url": "https://open.spotify.com/artist/4LNUj6IOsJc8M6KvmNcwhp"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207179,
+      "name": "7 DNI",
+      "url": "https://open.spotify.com/track/5sfQ2NYOevDSpcschuMbmH"
     },
     {
       "album": {
@@ -6694,7 +6712,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 213818,
       "name": "bright",
       "url": "https://open.spotify.com/track/5ONqkSbebAuNh8e9l1bMQA"
@@ -8528,7 +8546,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 246930,
       "name": "Chcia\u0142abym",
       "url": "https://open.spotify.com/track/2WRZYGTJN0KtPLeN4Mw2ev"
@@ -19588,7 +19606,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 164596,
       "name": "gdzie kwitnie bez",
       "url": "https://open.spotify.com/track/59CWUzz48Bpr3Psa9yttpz"
@@ -24042,7 +24060,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 148000,
       "name": "Jak autobus po mie\u015bcie",
       "url": "https://open.spotify.com/track/6xN1I0OusRB4q49oFxzasz"
@@ -29203,6 +29221,24 @@
     },
     {
       "album": {
+        "name": "kr\u00f3tki film",
+        "url": "https://open.spotify.com/album/7hBvp98LcXZOA5PUThSLYG"
+      },
+      "artists": [
+        {
+          "name": "Tomaszewski",
+          "url": "https://open.spotify.com/artist/2NBkgxO5XeM6mYmNXsImBv"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149189,
+      "name": "kr\u00f3tki film",
+      "url": "https://open.spotify.com/track/0mWlebIV5sifLTivDvQaSg"
+    },
+    {
+      "album": {
         "name": "Kr\u00f3tko o Przyja\u017ani",
         "url": "https://open.spotify.com/album/0VnC2HRvNpVzQpiFPSGRsX"
       },
@@ -31572,6 +31608,24 @@
       "duration_ms": 319517,
       "name": "Letni dzie\u0144",
       "url": "https://open.spotify.com/track/11nQz8Lq8KGCfCNE7lLPhP"
+    },
+    {
+      "album": {
+        "name": "Letni film",
+        "url": "https://open.spotify.com/album/1hoKhQ3odz5FZbbe4vdwym"
+      },
+      "artists": [
+        {
+          "name": "Krystian Embradora",
+          "url": "https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147272,
+      "name": "Letni film",
+      "url": "https://open.spotify.com/track/7jf98oX41YnhjndheFmc16"
     },
     {
       "album": {
@@ -54992,7 +55046,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 228910,
       "name": "radiatio",
       "url": "https://open.spotify.com/track/2cHNZSK2N5vXkTXN4UyNck"
@@ -66197,6 +66251,24 @@
     },
     {
       "album": {
+        "name": "Tkanka Miasta",
+        "url": "https://open.spotify.com/album/093fNqnDAZXQ3zFjijWpLi"
+      },
+      "artists": [
+        {
+          "name": "Margo",
+          "url": "https://open.spotify.com/artist/6hPQKMhpljngmSjaxRJJfg"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268125,
+      "name": "Tkanka Miasta",
+      "url": "https://open.spotify.com/track/5NRKE5dlvOhAZbE7ZmlxZv"
+    },
+    {
+      "album": {
         "name": "Tlen",
         "url": "https://open.spotify.com/album/5UAQeFpqKe31gJgbVZezzk"
       },
@@ -74866,7 +74938,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 174000,
       "name": "Wrak",
       "url": "https://open.spotify.com/track/5MAw7TYR8eiUlGYw0gK2fu"
@@ -79741,6 +79813,24 @@
     },
     {
       "album": {
+        "name": "Zostawiam",
+        "url": "https://open.spotify.com/album/5jbshjYelXWW1pEpHyrcal"
+      },
+      "artists": [
+        {
+          "name": "Weronika Juszczak",
+          "url": "https://open.spotify.com/artist/2nMfo5WgsomaC0Zhnjk5jS"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166846,
+      "name": "Zostawiam",
+      "url": "https://open.spotify.com/track/5NwuChRS3XXxxCj9Agc1zU"
+    },
+    {
+      "album": {
         "name": "Zostawiam ubrania na pod\u0142odze",
         "url": "https://open.spotify.com/album/3wHmDqPfHAcXpiMOHLPg4F"
       },
@@ -80814,6 +80904,24 @@
       "duration_ms": 160181,
       "name": "\u015amie\u0107",
       "url": "https://open.spotify.com/track/3q5QfqkIoEorV9Sp2aApcK"
+    },
+    {
+      "album": {
+        "name": "\u015anieg ju\u017c stopnia\u0142",
+        "url": "https://open.spotify.com/album/1MPcZUkP0oXZoLjs7WXuPe"
+      },
+      "artists": [
+        {
+          "name": "Marysia Feduniewicz",
+          "url": "https://open.spotify.com/artist/75nt5r5M34TVEGjx3EHEMy"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205689,
+      "name": "\u015anieg ju\u017c stopnia\u0142",
+      "url": "https://open.spotify.com/track/5GNH7L6kAXFEDOvRdHFunw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Barnim",
-  "num_followers": 26282,
+  "num_followers": 26278,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "glitter in the night",
-        "url": "https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        }
-      ],
-      "duration_ms": 159974,
-      "name": "glitter in the night",
-      "url": "https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2"
-    },
-    {
-      "added_at": "2026-07-16 22:01:22",
-      "album": {
         "name": "halo Houston",
         "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 143048,
       "name": "halo Houston",
       "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
+    },
+    {
+      "added_at": "2026-07-16 22:01:22",
+      "album": {
+        "name": "glitter in the night",
+        "url": "https://open.spotify.com/album/561e1X8Xgfwm4RYct6abQ6"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "duration_ms": 159974,
+      "name": "glitter in the night",
+      "url": "https://open.spotify.com/track/4JLB0VDIuNsOrZrAIlNri2"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "Ile?",
-        "url": "https://open.spotify.com/album/1VSFrjY2T84viVWqVqtJox"
-      },
-      "artists": [
-        {
-          "name": "Ania Szlagowska",
-          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Ile?",
-      "url": "https://open.spotify.com/track/0XJvZK2nhyVwfwhwMF1Z8L"
-    },
-    {
-      "added_at": "2026-07-16 22:01:22",
-      "album": {
         "name": "z tob\u0105 nie my\u015bl\u0119 o ex",
         "url": "https://open.spotify.com/album/6a6JfOMttbeVYsCaKN5Ruo"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 172058,
       "name": "z tob\u0105 nie my\u015bl\u0119 o ex",
       "url": "https://open.spotify.com/track/2FoIW8dYXSyAIcqEKpJ8qC"
+    },
+    {
+      "added_at": "2026-07-16 22:01:22",
+      "album": {
+        "name": "Ile?",
+        "url": "https://open.spotify.com/album/1VSFrjY2T84viVWqVqtJox"
+      },
+      "artists": [
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Ile?",
+      "url": "https://open.spotify.com/track/0XJvZK2nhyVwfwhwMF1Z8L"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "Esmeralda (we wsp\u00f3\u0142pracy z PZU)",
-        "url": "https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl"
-      },
-      "artists": [
-        {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
-        }
-      ],
-      "duration_ms": 171516,
-      "name": "Esmeralda - we wsp\u00f3\u0142pracy z PZU",
-      "url": "https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P"
-    },
-    {
-      "added_at": "2026-07-16 22:01:22",
-      "album": {
         "name": "hyperl\u00f8ve",
         "url": "https://open.spotify.com/album/5o3OssxepuFDEanRLOmZX6"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 157714,
       "name": "hyperl\u00f8ve",
       "url": "https://open.spotify.com/track/3gN55NN5HOAxpqaR8Cwvqz"
+    },
+    {
+      "added_at": "2026-07-16 22:01:22",
+      "album": {
+        "name": "Esmeralda (we wsp\u00f3\u0142pracy z PZU)",
+        "url": "https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
+        }
+      ],
+      "duration_ms": 171516,
+      "name": "Esmeralda - we wsp\u00f3\u0142pracy z PZU",
+      "url": "https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "SPOK\u00d3J",
-        "url": "https://open.spotify.com/album/3jRpk7Mhai8Zsv8TOtNAvi"
-      },
-      "artists": [
-        {
-          "name": "Janek Szynal",
-          "url": "https://open.spotify.com/artist/0zfMLxMTUG0TdQ6t90yHfA"
-        }
-      ],
-      "duration_ms": 163687,
-      "name": "SPOK\u00d3J",
-      "url": "https://open.spotify.com/track/2G072HrgSDTCDkf66aXPZl"
-    },
-    {
-      "added_at": "2026-07-16 22:01:22",
-      "album": {
         "name": "K\u0141AM",
         "url": "https://open.spotify.com/album/68IBj6EKlltEWhqnKpVZGT"
       },
@@ -695,18 +679,18 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "TRYSK",
-        "url": "https://open.spotify.com/album/5A5b9CLivXyFVXaaP4Uv4X"
+        "name": "SPOK\u00d3J",
+        "url": "https://open.spotify.com/album/3jRpk7Mhai8Zsv8TOtNAvi"
       },
       "artists": [
         {
-          "name": "IKARVS",
-          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+          "name": "Janek Szynal",
+          "url": "https://open.spotify.com/artist/0zfMLxMTUG0TdQ6t90yHfA"
         }
       ],
-      "duration_ms": 177454,
-      "name": "noktowizja",
-      "url": "https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL"
+      "duration_ms": 163687,
+      "name": "SPOK\u00d3J",
+      "url": "https://open.spotify.com/track/2G072HrgSDTCDkf66aXPZl"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -723,6 +707,22 @@
       "duration_ms": 275593,
       "name": "Ziemia",
       "url": "https://open.spotify.com/track/43b6YCVseA2Ueb80ef1XT4"
+    },
+    {
+      "added_at": "2026-07-16 22:01:22",
+      "album": {
+        "name": "TRYSK",
+        "url": "https://open.spotify.com/album/5A5b9CLivXyFVXaaP4Uv4X"
+      },
+      "artists": [
+        {
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+        }
+      ],
+      "duration_ms": 177454,
+      "name": "noktowizja",
+      "url": "https://open.spotify.com/track/0DIv99kVsswFdhqaLwBEJL"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "Back To Your Hands",
-        "url": "https://open.spotify.com/album/4yESGVh0sy7EIIgt5HRBZi"
-      },
-      "artists": [
-        {
-          "name": "Kuba Szmajkowsky",
-          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Back To Your Hands",
-      "url": "https://open.spotify.com/track/1i5LtlPvzpwbYhEEpyVOLT"
-    },
-    {
-      "added_at": "2026-07-16 22:01:22",
-      "album": {
         "name": "Szk\u0142o",
         "url": "https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 242443,
       "name": "Szk\u0142o",
       "url": "https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7"
+    },
+    {
+      "added_at": "2026-07-16 22:01:22",
+      "album": {
+        "name": "Back To Your Hands",
+        "url": "https://open.spotify.com/album/4yESGVh0sy7EIIgt5HRBZi"
+      },
+      "artists": [
+        {
+          "name": "Kuba Szmajkowsky",
+          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "Back To Your Hands",
+      "url": "https://open.spotify.com/track/1i5LtlPvzpwbYhEEpyVOLT"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -1079,22 +1079,22 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "miss me, babe?",
-        "url": "https://open.spotify.com/album/2x7NA1oGO1wKbWFvzbhdaK"
+        "name": "jutro spoczniemy na dnie odleg\u0142ego morza",
+        "url": "https://open.spotify.com/album/26ko8YSiHDYAyoanRXJ1Gl"
       },
       "artists": [
         {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
         },
         {
-          "name": "Hera Lind",
-          "url": "https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we"
+          "name": "stas",
+          "url": "https://open.spotify.com/artist/72Vq7ugNRnMWOnFZkvj3zd"
         }
       ],
-      "duration_ms": 183750,
-      "name": "miss me, babe?",
-      "url": "https://open.spotify.com/track/51kgPfVqfuHq05QT5kUP1m"
+      "duration_ms": 277509,
+      "name": "jutro spoczniemy na dnie odleg\u0142ego morza",
+      "url": "https://open.spotify.com/track/6fAjclJ49KZBzgOwhkpTqH"
     },
     {
       "added_at": "2026-07-16 22:01:22",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2026-07-16 22:01:22",
       "album": {
-        "name": "TopOff",
-        "url": "https://open.spotify.com/album/6hIBQMP2jZYOZHf9UTWwZb"
+        "name": "miss me, babe?",
+        "url": "https://open.spotify.com/album/2x7NA1oGO1wKbWFvzbhdaK"
       },
       "artists": [
         {
-          "name": "Zale\u015b",
-          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        },
+        {
+          "name": "Hera Lind",
+          "url": "https://open.spotify.com/artist/3PZ3vAfXQJEABZKKsAO6we"
         }
       ],
-      "duration_ms": 159473,
-      "name": "TopOff",
-      "url": "https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm"
+      "duration_ms": 183750,
+      "name": "miss me, babe?",
+      "url": "https://open.spotify.com/track/51kgPfVqfuHq05QT5kUP1m"
     }
   ],
   "unique_name": "up next",

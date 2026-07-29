@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Bharat Chauhan,  Pineapple Express, Prateek Harbola and other exciting artists.
 
-1,532 songs - 3 day 12 hr 17 min
+1,533 songs - 3 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -829,7 +829,7 @@
 | [Left Alone](https://open.spotify.com/track/3KsMBjhfj4qEIhInnKu01b) | [Utope](https://open.spotify.com/artist/7vv9ZatuDKlxihVvSbLHbN), [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Left Alone](https://open.spotify.com/album/6dYmfArvR1XN3W7OMX5sBR) | 2:27 | 2024-03-01 | 2024-03-16 |
 | [Leher](https://open.spotify.com/track/1pip69c3zep9RvjTBZCbLn) | [Sarthak Saksena](https://open.spotify.com/artist/3rGPKj1qScQgEsDyL8PKfu), [Moin](https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti) | [Leher](https://open.spotify.com/album/4MBOf5Jqvbfz9eFKCE9I1r) | 3:04 | 2025-12-19 | 2026-02-07 |
 | [Lifafey](https://open.spotify.com/track/2jYibhnPksqxoHE4ayFS2t) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Lifafey](https://open.spotify.com/album/5GExlGBfZVy3avzGPAYa2X) | 3:03 | 2024-03-08 | 2024-06-01 |
-| [Life and Times of Pinocchio](https://open.spotify.com/track/2uebQmjQ1wrrPa3C1b8lzK) | [Shashwat Bulusu](https://open.spotify.com/artist/0OxO7c4K0ozx5CTPDhFOXO) | [Life and Times of Pinocchio](https://open.spotify.com/album/3Lds3f9UqdKGRuR1csX61m) | 2:59 | 2026-07-10 |  |
+| [Life and Times of Pinocchio](https://open.spotify.com/track/2uebQmjQ1wrrPa3C1b8lzK) | [Shashwat Bulusu](https://open.spotify.com/artist/0OxO7c4K0ozx5CTPDhFOXO) | [Life and Times of Pinocchio](https://open.spotify.com/album/3Lds3f9UqdKGRuR1csX61m) | 2:59 | 2026-07-10 | 2026-07-29 |
 | [Life Is Certain](https://open.spotify.com/track/3TBCLwcRX4I4cd4Wc0UzMv) | [Parikrama](https://open.spotify.com/artist/5I6pG3raoZlKYMjgGa6eFn) | [Life Is Certain](https://open.spotify.com/album/2LzWmQaeUY3rh0ok7THjLq) | 4:34 | 2024-01-26 | 2024-02-17 |
 | [Listen](https://open.spotify.com/track/4heuLQuyeST64cfOXQpxL9) | [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [Listen](https://open.spotify.com/album/2cMDOueosDY7NUegSENIN6) | 3:21 | 2023-07-07 | 2023-08-05 |
 | [little things](https://open.spotify.com/track/2rfHzzJly9NRjFLc3eBGMh) | [Keshuv Huria](https://open.spotify.com/artist/43uO9cJvNgdhonRDXdRjsa), [Shariva Parulkar](https://open.spotify.com/artist/24mPm1zXXsdJBQc4lok9Jc) | [little things](https://open.spotify.com/album/5EuOEycZWVKFOUfjhsBouu) | 2:50 | 2025-10-10 | 2025-10-17 |
@@ -1352,6 +1352,7 @@
 | [Teri Roshni Pakad Lun](https://open.spotify.com/track/19nBUwaWim7X9Bp1HhWIKK) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk), [Shivam Sengupta](https://open.spotify.com/artist/3p9iqVv8YUPK53CfSdS9uq) | [Teri Roshni Pakad Lun](https://open.spotify.com/album/6QvT5eQ8xlA1euDj67Q7D6) | 4:09 | 2023-10-27 | 2023-12-02 |
 | [Teri Sau](https://open.spotify.com/track/39JXliQLrFFK1PgyhK8LTV) | [Ronit Vinta](https://open.spotify.com/artist/0FHOJryrpHtkKAZMKULXXn), [Dj Ruchir](https://open.spotify.com/artist/6OeXoPovtn3M7xl6pbjZ4E) | [Teri Sau](https://open.spotify.com/album/6gZNv2BzaJQFuviyTBmm9V) | 2:32 | 2024-02-05 | 2024-03-02 |
 | [Teri Yaad Mein](https://open.spotify.com/track/2aiFwTLjAPGyqoiOL5AQ0t) | [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [Teri Yaad Mein](https://open.spotify.com/album/3tvaiYj2MUbAcCmgDn6Jku) | 2:40 | 2023-07-14 | 2023-08-19 |
+| [Teri Yaadon Ke Saaye](https://open.spotify.com/track/3PwDRxbPUUWcS8KHej60IX) | [Shradha Mishra](https://open.spotify.com/artist/4nhFZoBTFnDpi17pbaDgd7), [Yash Mishra](https://open.spotify.com/artist/70sU4yuUbhERtc7LQWuTQi) | [Teri Yaadon Ke Saaye](https://open.spotify.com/album/7DOQGNZwNBTgkrLJWXbKXv) | 3:01 | 2026-07-24 |  |
 | [Teri Yeh Adah](https://open.spotify.com/track/4yQEzSYRWTNCC0NwkGJTej) | [Krishna Patel](https://open.spotify.com/artist/4uHCrfkZ7hRDkQujuVpQx3) | [Teri Yeh Adah](https://open.spotify.com/album/4mw4bPzTdEbTBuRqOqlVVs) | 2:56 | 2024-06-07 | 2024-07-06 |
 | [Text Me](https://open.spotify.com/track/1d0pNlWNyje1mVv5GpUPMi) | [Yunan](https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Text Me](https://open.spotify.com/album/6J1x6kYYdW0NslywM0Gxph) | 2:42 | 2024-02-16 | 2024-03-23 |
 | [TEYI](https://open.spotify.com/track/5qxep3UEIsMZoxpU578GuO) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [TEYI](https://open.spotify.com/album/5dEjicNx9Wc7zuBwxZccvn) | 3:27 | 2026-06-19 |  |

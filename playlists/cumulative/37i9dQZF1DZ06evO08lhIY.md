@@ -4,7 +4,7 @@
 
 > This is Limoblaze\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 13 min
+77 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/track/66lY1eeYhJeQKrrLLFkddD) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Do It Now \(Agbanilagbatan\)](https://open.spotify.com/album/4tk0aBwh1JrVWyPwoJzlCw) | 4:39 | 2025-10-05 |  |
 | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Elijah Level \(with Limoblaze\)](https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9) | 2:53 | 2025-07-15 |  |
 | [Esé](https://open.spotify.com/track/27kSeZe95U7n14Jfv0jnb7) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Esé](https://open.spotify.com/album/6t44fZYo3wngPz0MX7vOqH) | 3:14 | 2025-11-09 |  |
-| [Eternal](https://open.spotify.com/track/1pFFPEQN4EzdcbeMpF8P45) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Eternal](https://open.spotify.com/album/64yotkQgRqiboT1Sc9uRUQ) | 3:45 | 2025-07-15 |  |
+| [ETERNAL](https://open.spotify.com/track/181B5ZTSwhfJYzFOndIttV) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Flames Of A Wildfire](https://open.spotify.com/album/21wuL307v10SocLogEugfv) | 3:45 | 2026-07-29 |  |
+| [Eternal](https://open.spotify.com/track/1pFFPEQN4EzdcbeMpF8P45) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Eternal](https://open.spotify.com/album/64yotkQgRqiboT1Sc9uRUQ) | 3:45 | 2025-07-15 | 2026-07-29 |
 | [Fade Away](https://open.spotify.com/track/1pscjrBlPPkzYwNgOmSj1T) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Fade Away](https://open.spotify.com/album/5o934KiJcvWwFhhPbPINvz) | 2:57 | 2025-07-15 |  |
 | [For Me](https://open.spotify.com/track/6lnXNuAixFoNuoEe2dXb6d) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Afrobeats Rap and Jesus](https://open.spotify.com/album/5wvR79qT3pzfMDS54lSpBe) | 3:14 | 2025-07-15 |  |
 | [Freedom](https://open.spotify.com/track/2xxh6dcKTUvMdC5LyvHD5d) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Freedom](https://open.spotify.com/album/7u2n5mIicMVuI9g1Pg7jMt) | 2:40 | 2026-06-19 |  |

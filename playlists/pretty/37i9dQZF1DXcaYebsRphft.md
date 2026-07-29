@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 ### [On Tour Japan: ILLIT](https://open.spotify.com/playlist/37i9dQZF1DXcaYebsRphft)
 
-> 『ILLIT LIVE 'PRESS START︎︎❤' in JAPANE』のメンバーボイス入りセットリスト
+> 『ILLIT LIVE 'PRESS START︎︎❤' in JAPAN』のメンバーボイス入りセットリスト
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,303 likes - 26 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,340 likes - 26 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 25 | [oops!](https://open.spotify.com/track/1tO6hb9Ym7aTV8hJ31tLjr) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 2:41 |
 | 26 | [Message from IROHA](https://open.spotify.com/track/1jPda57cKSslt4R6mv64RN) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Message from ILLIT](https://open.spotify.com/album/2ObocO8p64NG4F1GKfdoQn) | 0:14 |
 
-Snapshot ID: `AAAAADUAPlORYv3sOG3OHIA68gKPJFv7`
+Snapshot ID: `AAAAAB0mrfNoIU+/QMzvqI2ptt6UTVHs`

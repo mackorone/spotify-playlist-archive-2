@@ -1197,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Hotel Rock Bottom (Deluxe)",
+        "url": "https://open.spotify.com/album/5QmpBvbxMNgvB1ttqBEkcu"
+      },
+      "artists": [
+        {
+          "name": "Frankie Grande",
+          "url": "https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195705,
+      "name": "Hotel Rock Bottom (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/3m0AFZnXVMkd8ppGuxLJxW"
+    },
+    {
+      "album": {
         "name": "Charlie's Angels (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4NBuascXb3uK0mFUYuJ63f"
       },
@@ -2440,7 +2462,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 163381,
       "name": "supernatural",
       "url": "https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa"

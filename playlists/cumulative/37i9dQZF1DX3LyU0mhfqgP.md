@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: GUS
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Ambré
 
 1,873 songs - 4 day 5 hr 41 min
 

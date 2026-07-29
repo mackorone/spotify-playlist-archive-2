@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di G.Mineiro, Glocky, Vaz Tè, Lele Blade e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,897 likes - 102 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,893 likes - 102 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 41 | [OCCHIALI BALENCI](https://open.spotify.com/track/2vVNAWkK4lbZZtXi9X82ll) | [fxs](https://open.spotify.com/artist/75E46nbLjmQvjO478IsXAZ) | [OCCHIALI BALENCI](https://open.spotify.com/album/5y9zRsHp2FLT5iKApa6Esb) | 1:57 |
 | 42 | [VALENTINA NAPPI \(feat\. Naver, Basti\)](https://open.spotify.com/track/0sHk9tq3YyHKWP89IlPwEQ) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb), [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep), [Basti](https://open.spotify.com/artist/6UvUvAAN80uvFs2T4th3rM) | [IO NON SONO SPENDER](https://open.spotify.com/album/33rYT0Uxu1e1ZFfKiegFM0) | 3:28 |
 | 43 | [bontà \(feat\. rooc lee\)](https://open.spotify.com/track/3x2PvayEPkgCdXdczvzwis) | [10k watt](https://open.spotify.com/artist/5lyfVXXAUVOAf9rBhMwxZw), [rooc lee](https://open.spotify.com/artist/5J9oExne65TylhJLUsnSQ8) | [bontà \(feat\. rooc lee\)](https://open.spotify.com/album/4pmu6gjSSmn3zovFcb36eB) | 2:09 |
-| 44 | [AVE MARIA \(feat\. DANTE\)](https://open.spotify.com/track/4Ewk1YS3kINhp0BRoLBvym) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj), [STERZA](https://open.spotify.com/artist/1rpfzldcGt2S3WMfG60r8j) | [AVE MARIA \(feat\. DANTE\)](https://open.spotify.com/album/24caiGyQsA1GU0nbYxBfq9) | 3:10 |
+| 44 | [AVE MARIA \(feat\. DANTE\)](https://open.spotify.com/track/4Ewk1YS3kINhp0BRoLBvym) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ), [DANTE](https://open.spotify.com/artist/24wf3HIkBrQyXagDgNSeTj) | [AVE MARIA \(feat\. DANTE\)](https://open.spotify.com/album/24caiGyQsA1GU0nbYxBfq9) | 3:10 |
 | 45 | [Oh Girl](https://open.spotify.com/track/6YDvapXRhfJUAGe1hGMU2X) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [PeakLifeNostalgia](https://open.spotify.com/album/45wqreGwwSyYf42gvc8rJH) | 2:20 |
 | 46 | [Kids Freestyle](https://open.spotify.com/track/1e2QRPvDjfewUcBIEL3N47) | [Angelo Kras](https://open.spotify.com/artist/36GKpvoEgJCwtYR7tmSBGL) | [Kids Freestyle / 2008](https://open.spotify.com/album/14A0etIV6a2sJH5606053C) | 2:17 |
 | 47 | [MILLION DOLLAR BABE](https://open.spotify.com/track/4uzXo3sUkY7xXelBvj1L7A) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [MILLION DOLLAR BABE](https://open.spotify.com/album/6uVCRhqA2UNk3308wh9UY5) | 2:53 |

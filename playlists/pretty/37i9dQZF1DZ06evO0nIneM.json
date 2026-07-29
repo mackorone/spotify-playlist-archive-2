@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 95098,
+  "num_followers": 95122,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAAC1a2nfnl3YkExutx7WHXbs",
+  "snapshot_id": "amafgAAAAAA56huEtB+u5cL34mJlNcql",
   "tracks": [
     {
       "added_at": null,
@@ -239,22 +239,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt",
-        "url": "https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3"
+        "name": "Blauwe Ruis",
+        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
       },
       "artists": [
-        {
-          "name": "S10",
-          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
-        },
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 238083,
-      "name": "Laat Me Los",
-      "url": "https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k"
+      "duration_ms": 261133,
+      "name": "Dichterbij Dan Ooit",
+      "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
     },
     {
       "added_at": null,
@@ -275,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blauwe Ruis",
-        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
+        "name": "Ik Besta Voor Altijd Zolang Jij Aan Mij Denkt",
+        "url": "https://open.spotify.com/album/0g6FAxEKgMT5mZMQuEVAQ3"
       },
       "artists": [
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        },
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 261133,
-      "name": "Dichterbij Dan Ooit",
-      "url": "https://open.spotify.com/track/7GUINjT9Hi5zxqL4MgVtwY"
+      "duration_ms": 238083,
+      "name": "Laat Me Los",
+      "url": "https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k"
     },
     {
       "added_at": null,

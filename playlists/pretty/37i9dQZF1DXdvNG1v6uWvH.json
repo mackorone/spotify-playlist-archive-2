@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Charli XCX og m\u00f6rgum fleirum!",
-  "num_followers": 9686,
+  "num_followers": 9687,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -116,8 +116,8 @@
           "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 251389,
-      "name": "Burn It Down (feat. Leon Bridges)",
+      "duration_ms": 251032,
+      "name": "Burn it Down (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
     },
     {
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
+        "name": "i'm way too self aware",
+        "url": "https://open.spotify.com/album/0pDU9QXpxlhrQMm7hS5T4P"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "i'm way too self aware",
+      "url": "https://open.spotify.com/track/62cC7C7e8buEM15ReSWjff"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
         "name": "Dance Dance Dance!",
         "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 198331,
       "name": "Stranger Things",
       "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
-        "name": "i'm way too self aware",
-        "url": "https://open.spotify.com/album/0pDU9QXpxlhrQMm7hS5T4P"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "i'm way too self aware",
-      "url": "https://open.spotify.com/track/62cC7C7e8buEM15ReSWjff"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6YFaYE4vLLXtXZVQ7v6k93"
-      },
-      "artists": [
-        {
-          "name": "Tokio Hotel",
-          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
-        }
-      ],
-      "duration_ms": 170345,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2VfoAHtv3PFisHpqFkmvfp"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
         "name": "Slow Dance (For A Minute)",
         "url": "https://open.spotify.com/album/7koTRiQmLO0hvhkg2unWF0"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 214960,
       "name": "Slow Dance (For A Minute)",
       "url": "https://open.spotify.com/track/3aMVeM9Bgdme3POWcdG6Tw"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6YFaYE4vLLXtXZVQ7v6k93"
+      },
+      "artists": [
+        {
+          "name": "Tokio Hotel",
+          "url": "https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa"
+        }
+      ],
+      "duration_ms": 170345,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2VfoAHtv3PFisHpqFkmvfp"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
+        "name": "ONE CALL AWAY.",
+        "url": "https://open.spotify.com/album/74HeqRFYHB73CkzjBAvH1a"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        }
+      ],
+      "duration_ms": 176050,
+      "name": "ONE CALL AWAY.",
+      "url": "https://open.spotify.com/track/1AfzOqpfrefN6d5dhAwgXL"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
         "name": "Blue Shadows (feat. Karen O)",
         "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "ONE CALL AWAY.",
-        "url": "https://open.spotify.com/album/74HeqRFYHB73CkzjBAvH1a"
+        "name": "Rocket",
+        "url": "https://open.spotify.com/album/4EIVhy9IO28A79FIsVGcEd"
       },
       "artists": [
         {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
         }
       ],
-      "duration_ms": 176050,
-      "name": "ONE CALL AWAY.",
-      "url": "https://open.spotify.com/track/1AfzOqpfrefN6d5dhAwgXL"
+      "duration_ms": 163333,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/5MR4yF90kILGAksLchUtuH"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -599,22 +615,6 @@
       "duration_ms": 177225,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/3tlp0uCJYzXztr2vIZ19Lv"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
-        "name": "Rocket",
-        "url": "https://open.spotify.com/album/4EIVhy9IO28A79FIsVGcEd"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/5MR4yF90kILGAksLchUtuH"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/1MMpRJDmELFQAwO3sSKDbv"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Best Days",
+      "url": "https://open.spotify.com/track/09RFYn5eMvQZ43FcdD8O39"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
         "name": "Still Dangerous",
         "url": "https://open.spotify.com/album/7s4NBjgfxAAOETtqwRIvRV"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 180397,
       "name": "ION KNOW YALL (feat. LIL YACHTY)",
       "url": "https://open.spotify.com/track/39xJttnYfy3N2AYmCF6Iha"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/1MMpRJDmELFQAwO3sSKDbv"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Best Days",
-      "url": "https://open.spotify.com/track/09RFYn5eMvQZ43FcdD8O39"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -747,6 +747,22 @@
       "duration_ms": 176444,
       "name": "Impressions (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
+        "name": "After The Love",
+        "url": "https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 220708,
+      "name": "After The Love",
+      "url": "https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -795,18 +811,18 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "After The Love",
-        "url": "https://open.spotify.com/album/2cb27N2hwLXbJcwAp6AezO"
+        "name": "Kind",
+        "url": "https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 220708,
-      "name": "After The Love",
-      "url": "https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA"
+      "duration_ms": 247372,
+      "name": "Kind",
+      "url": "https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -823,22 +839,6 @@
       "duration_ms": 149740,
       "name": "just my luck",
       "url": "https://open.spotify.com/track/09YSyefcTSh7sajvodaDcQ"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
-        "name": "Kind",
-        "url": "https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 247372,
-      "name": "Kind",
-      "url": "https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Flock Of Swans Fly in V's",
-        "url": "https://open.spotify.com/album/7x2Wr7Abyr1fZslYVUxriM"
-      },
-      "artists": [
-        {
-          "name": "Murex",
-          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
-        }
-      ],
-      "duration_ms": 156236,
-      "name": "Flock Of Swans Fly in V's",
-      "url": "https://open.spotify.com/track/5fvkdCParRnWBRzze91RS6"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
         "name": "Sunday Afternoon",
         "url": "https://open.spotify.com/album/5jbogtfl96yGMlL5gDKu4B"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 257735,
       "name": "Sunday Afternoon",
       "url": "https://open.spotify.com/track/5c81ZZDMHloha09FQ207EI"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
+        "name": "Flock Of Swans Fly in V's",
+        "url": "https://open.spotify.com/album/7x2Wr7Abyr1fZslYVUxriM"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "duration_ms": 156236,
+      "name": "Flock Of Swans Fly in V's",
+      "url": "https://open.spotify.com/track/5fvkdCParRnWBRzze91RS6"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "THE SCARIEST PART !",
-        "url": "https://open.spotify.com/album/5uRt5y4Kq78o7DtnOA8nhB"
-      },
-      "artists": [
-        {
-          "name": "Chrissi",
-          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "THE SCARIEST PART !",
-      "url": "https://open.spotify.com/track/04EUp7IZUomln2noaHvwRw"
-    },
-    {
-      "added_at": "2026-07-24 06:00:31",
-      "album": {
         "name": "Ain't No Party",
         "url": "https://open.spotify.com/album/2fy9STAEXigXFiAP5A5eMG"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 174000,
       "name": "Ain't No Party",
       "url": "https://open.spotify.com/track/53Clg1wqIoVvjydOW6UjqA"
+    },
+    {
+      "added_at": "2026-07-24 06:00:31",
+      "album": {
+        "name": "THE SCARIEST PART !",
+        "url": "https://open.spotify.com/album/5uRt5y4Kq78o7DtnOA8nhB"
+      },
+      "artists": [
+        {
+          "name": "Chrissi",
+          "url": "https://open.spotify.com/artist/6dKtberVRbUX3Azn8gt2mt"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "THE SCARIEST PART !",
+      "url": "https://open.spotify.com/track/04EUp7IZUomln2noaHvwRw"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Easier",
-        "url": "https://open.spotify.com/album/3UOAWkmPmyiqZ74FSZlHNH"
+        "name": "Watching You Fall",
+        "url": "https://open.spotify.com/album/3IheTWizyRIC2jibKVOmbm"
       },
       "artists": [
         {
-          "name": "Benny Morrell",
-          "url": "https://open.spotify.com/artist/1s4B6fb9iNflnlOFKIn5q9"
+          "name": "SKAYA",
+          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
         }
       ],
-      "duration_ms": 181028,
-      "name": "Easier",
-      "url": "https://open.spotify.com/track/0R7vgtCjsS6mlPdg3FLVdv"
+      "duration_ms": 185365,
+      "name": "Watching You Fall",
+      "url": "https://open.spotify.com/track/1Njj1W3WFYYWtW92dhmrEL"
     },
     {
       "added_at": "2026-07-24 06:00:31",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-07-24 06:00:31",
       "album": {
-        "name": "Watching You Fall",
-        "url": "https://open.spotify.com/album/3IheTWizyRIC2jibKVOmbm"
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/3UOAWkmPmyiqZ74FSZlHNH"
       },
       "artists": [
         {
-          "name": "SKAYA",
-          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
+          "name": "Benny Morrell",
+          "url": "https://open.spotify.com/artist/1s4B6fb9iNflnlOFKIn5q9"
         }
       ],
-      "duration_ms": 185365,
-      "name": "Watching You Fall",
-      "url": "https://open.spotify.com/track/1Njj1W3WFYYWtW92dhmrEL"
+      "duration_ms": 181028,
+      "name": "Easier",
+      "url": "https://open.spotify.com/track/0R7vgtCjsS6mlPdg3FLVdv"
     },
     {
       "added_at": "2026-07-24 06:00:31",

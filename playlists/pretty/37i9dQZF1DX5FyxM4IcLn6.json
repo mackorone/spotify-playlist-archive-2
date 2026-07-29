@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166045,
+  "num_followers": 166033,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -2283,22 +2283,26 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Poison In My Well",
-        "url": "https://open.spotify.com/album/1lQPaWzjstwG1X3hWZb11A"
+        "name": "Chapter III: We Return to Light",
+        "url": "https://open.spotify.com/album/10y2phPg1DNcq2YALjzABR"
       },
       "artists": [
         {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
         },
         {
-          "name": "Grace Potter",
-          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+          "name": "Alam Khan",
+          "url": "https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG"
+        },
+        {
+          "name": "Sarathy Korwar",
+          "url": "https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk"
         }
       ],
-      "duration_ms": 188936,
-      "name": "Poison In My Well",
-      "url": "https://open.spotify.com/track/5sTW2d86vNwfiJ2VNjUsrq"
+      "duration_ms": 278130,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/5yTsposXxnk1rJVETaXS4N"
     }
   ],
   "unique_name": "The GRAMMYs Official Playlist",

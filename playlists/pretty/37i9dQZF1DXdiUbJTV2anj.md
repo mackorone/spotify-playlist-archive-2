@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > bands and tracks on the rise in heavy music\. Cover: Castle Rat
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,934 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,989 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 39 | [Grasp](https://open.spotify.com/track/3l1Bi0S9B7aBv2ECaJ3ahD) | [Empty Shell Casing](https://open.spotify.com/artist/2k180xyVia1kQlgNbmQuwK) | [Grasp](https://open.spotify.com/album/5P8Iz56JaTOQP986f3a7Ju) | 2:54 |
 | 40 | [Smoking Mirrors](https://open.spotify.com/track/1N6IRPRoQMOzGvPuEwJpgf) | [Cold Steel](https://open.spotify.com/artist/2inu89bjNrWjp92nEqloP2), [Two\-Piece](https://open.spotify.com/artist/0T0o14UhrT9HnvmzQShxfR) | [Smoking Mirrors](https://open.spotify.com/album/1RL7cftAIjVfE6b4oQljpu) | 2:45 |
 | 41 | [Nothing Else Frail](https://open.spotify.com/track/1XoBoivCDtdYMeJMs3pcBY) | [lowheaven](https://open.spotify.com/artist/0LCI5aIo6Wd80D1AzHEu0F) | [Ritual Decay](https://open.spotify.com/album/1LHORbi0gszA1P4ZaZx59r) | 4:17 |
-| 42 | [BUILT DIFFERENT](https://open.spotify.com/track/4A6x4xysSZRxf5IUgENLLA) | [Lucifena](https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9), [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP) | [BUILT DIFFERENT](https://open.spotify.com/album/1UGqouXxBQzMDunRFbIoca) | 2:01 |
+| 42 | [BUILT DIFFERENT](https://open.spotify.com/track/4A6x4xysSZRxf5IUgENLLA) | [Lucifena](https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9), [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP) | [BUILT DIFFERENT](https://open.spotify.com/album/1UGqouXxBQzMDunRFbIoca) | 2:06 |
 | 43 | [Mutt](https://open.spotify.com/track/79srQ6xBvXMmCNiTVaI35z) | [Resistor](https://open.spotify.com/artist/52lTghPxufssfXy3Z9rBtA) | [Mutt](https://open.spotify.com/album/5uMib9undb8tLueURTDtnf) | 2:41 |
 | 44 | [Just a Vision](https://open.spotify.com/track/03QQ9ssP37QV2EGQkzaRiG) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Just a Vision](https://open.spotify.com/album/4jp1EHLBxFqTdA6YG2HHP1) | 4:57 |
 | 45 | [SMOKEBOMB](https://open.spotify.com/track/5KC9cGQ3Dp4v3L74zd2b4n) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [SMOKEBOMB](https://open.spotify.com/album/3lx3v0kykUvlPgQoicVvhh) | 2:58 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 25432,
+  "num_followers": 25444,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAADCAHKtHQrLeOPjo23LTa4q",
+  "snapshot_id": "amafgAAAAABYmSyMhjQTs6dz+YVzVOfZ",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wangedrag",
-        "url": "https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 121889,
-      "name": "Wangedrag",
-      "url": "https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/4Tl02H0tgYPsKORUb338Kt"
       },
@@ -219,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Je Blik Richting Mij",
-        "url": "https://open.spotify.com/album/6LqbmPYQTNC7mEuQ9Kejtl"
+        "name": "Wangedrag",
+        "url": "https://open.spotify.com/album/25BoRvIE0KFoZyc7L7pxhc"
       },
       "artists": [
         {
@@ -228,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
         }
       ],
-      "duration_ms": 145500,
-      "name": "Je Blik Richting Mij",
-      "url": "https://open.spotify.com/track/5bdBg1Gc6IrDRCFM1BiQx7"
+      "duration_ms": 121889,
+      "name": "Wangedrag",
+      "url": "https://open.spotify.com/track/69RtYziGoEPCttknYGNcS1"
     },
     {
       "added_at": null,
@@ -247,6 +231,22 @@
       "duration_ms": 132600,
       "name": "Fluitend naar Huis",
       "url": "https://open.spotify.com/track/6Swd0Th7cvQH4bywi4eHak"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Je Blik Richting Mij",
+        "url": "https://open.spotify.com/album/6LqbmPYQTNC7mEuQ9Kejtl"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Je Blik Richting Mij",
+      "url": "https://open.spotify.com/track/5bdBg1Gc6IrDRCFM1BiQx7"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Dat Nou Echt?",
-        "url": "https://open.spotify.com/album/4J9MKVm8wPNDG7Pf6VgLHD"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Is Dat Nou Echt?",
-      "url": "https://open.spotify.com/track/5EOsxrIPmTaQUohn4LVNUT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5 Sterren",
         "url": "https://open.spotify.com/album/3URNtvf5sEMGr7bq4vjiox"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 135023,
       "name": "Tijdmachine",
       "url": "https://open.spotify.com/track/3DMcsloRh5Rbf0oMBeMOhY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is Dat Nou Echt?",
+        "url": "https://open.spotify.com/album/4J9MKVm8wPNDG7Pf6VgLHD"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Is Dat Nou Echt?",
+      "url": "https://open.spotify.com/track/5EOsxrIPmTaQUohn4LVNUT"
     },
     {
       "added_at": null,

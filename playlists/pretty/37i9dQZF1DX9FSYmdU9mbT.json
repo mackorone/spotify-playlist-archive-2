@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1474699,
+  "num_followers": 1474709,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Cores, Nomes",
-        "url": "https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm"
+        "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
+        "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         }
       ],
-      "duration_ms": 263373,
-      "name": "Queixa",
-      "url": "https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ"
+      "duration_ms": 300333,
+      "name": "Reconvexo - Ao Vivo",
+      "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -295,18 +295,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Amor Festa Devo\u00e7\u00e3o Ao Vivo",
-        "url": "https://open.spotify.com/album/1st1nLzI6XNEZOy0iIyx38"
+        "name": "Cores, Nomes",
+        "url": "https://open.spotify.com/album/1xAQ6kW7DQZxTghyepHtzm"
       },
       "artists": [
         {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
         }
       ],
-      "duration_ms": 300333,
-      "name": "Reconvexo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
+      "duration_ms": 263373,
+      "name": "Queixa",
+      "url": "https://open.spotify.com/track/1NIAQbzrcpqoaZd3sNFFKJ"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -343,26 +343,22 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
+        "name": "Que Falta Voc\u00ea Me Faz",
+        "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
       },
       "artists": [
         {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
         },
         {
-          "name": "Elba Ramalho",
-          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
-        },
-        {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+          "name": "Marcel Powell",
+          "url": "https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR"
         }
       ],
-      "duration_ms": 327946,
-      "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
+      "duration_ms": 182160,
+      "name": "Samba da B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -383,22 +379,26 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Que Falta Voc\u00ea Me Faz",
-        "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
+        "name": "O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/33HKZh4hP8FmsVmPGoaDYC"
       },
       "artists": [
         {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
         },
         {
-          "name": "Marcel Powell",
-          "url": "https://open.spotify.com/artist/6lBcd5Fz4Tq0EO97KpPLgR"
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
         }
       ],
-      "duration_ms": 182160,
-      "name": "Samba da B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
+      "duration_ms": 327946,
+      "name": "Anuncia\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JrFuUhcNLHiD3hJPVaHTy"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1427,22 +1427,18 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
+        "name": "Marisa Monte",
+        "url": "https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L"
       },
       "artists": [
         {
-          "name": "Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 229013,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
+      "duration_ms": 182466,
+      "name": "A Sua / Sampler: Coqueiro De Itapoan",
+      "url": "https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7"
     },
     {
       "added_at": "2026-05-22 11:20:59",
@@ -1463,22 +1459,6 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
-        "name": "Marisa Monte",
-        "url": "https://open.spotify.com/album/3Wn2Mf4xgevclfZL1uF82L"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "A Sua / Sampler: Coqueiro De Itapoan",
-      "url": "https://open.spotify.com/track/0sg4cLghBr70wAc7I05nZ7"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
         "name": "P\u00e1ssaro Proibido",
         "url": "https://open.spotify.com/album/2cRw1H1XHHS9VHxQkbz0Y5"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 275906,
       "name": "Olhos Nos Olhos",
       "url": "https://open.spotify.com/track/30F630HDvFOckjhqBZfl9L"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr"
+      },
+      "artists": [
+        {
+          "name": "Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 229013,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK"
     },
     {
       "added_at": "2026-05-22 11:20:59",

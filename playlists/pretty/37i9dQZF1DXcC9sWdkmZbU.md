@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,735 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,758 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 15 | [I'm So Blessed \(Kids Version\)](https://open.spotify.com/track/68hSNh609axwveqPvsPgGQ) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [I'm So Blessed \(Kids Version\)](https://open.spotify.com/album/6u8pIu6yjPPcKGKCS1Q3wQ) | 3:48 |
 | 16 | [Brave](https://open.spotify.com/track/4IpWEf6JwSGVSW3nC1SG10) | [Saddleback Kids Worship](https://open.spotify.com/artist/3JmOsw9Th41J8BDZ7QGM63), [Temree Miller](https://open.spotify.com/artist/11gZoyWLqqzejm5tmoDZke) | [Brave Performance Tracks](https://open.spotify.com/album/38i0L7rD9dn8eW9LlBXjvc) | 3:28 |
 | 17 | [Hes Got the Whole World in His Hands](https://open.spotify.com/track/3pihU0E5xgZ5JIAnsBdC71) | [Sunday School Songs](https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R), [Shout Praises Kids](https://open.spotify.com/artist/0lDtW3w1jcZ5GUGSdgkBNJ) | [Hes Got the Whole World in His Hands](https://open.spotify.com/album/0Xw01vBCWorR0ILodrB9TS) | 2:28 |
-| 18 | [That's My King](https://open.spotify.com/track/1WyzN9L3060M4gNa4cD8Sw) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [That's My King](https://open.spotify.com/album/0hlXwtjHODFgSMJ4BTaIjU) | 3:48 |
-| 19 | [God Be With You Til We Meet Again](https://open.spotify.com/track/1z7pM2McaOzIhwbac3NqM0) | [Sing Hosanna](https://open.spotify.com/artist/0DAvDMISBhtMkP4XIMMCs4) | [God Be With You Til We Meet Again](https://open.spotify.com/album/4lUY2FB6ypdlFrxzC5Z4Yg) | 3:12 |
+| 18 | [God Be With You Til We Meet Again](https://open.spotify.com/track/1z7pM2McaOzIhwbac3NqM0) | [Sing Hosanna](https://open.spotify.com/artist/0DAvDMISBhtMkP4XIMMCs4) | [God Be With You Til We Meet Again](https://open.spotify.com/album/4lUY2FB6ypdlFrxzC5Z4Yg) | 3:12 |
+| 19 | [That's My King](https://open.spotify.com/track/1WyzN9L3060M4gNa4cD8Sw) | [Yancy](https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu) | [That's My King](https://open.spotify.com/album/0hlXwtjHODFgSMJ4BTaIjU) | 3:48 |
 | 20 | [Blessed Be Your Name](https://open.spotify.com/track/1QctzVu5HOS1wJounaXEmb) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 25 Kids' Praise Songs 2012](https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ) | 3:40 |
 | 21 | [Noah’s Tool Song](https://open.spotify.com/track/5O0xXWn6F22vREhajrP4Nc) | [Good News Guys](https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY) | [Noah's Ark](https://open.spotify.com/album/2d2QmUb4A24jKT8XOuYWup) | 4:07 |
 | 22 | [Christ The Lord Is Risen Today](https://open.spotify.com/track/5uQTIFIqXyx17f99UbPSKX) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sing: Spring Songs](https://open.spotify.com/album/7i2nlqerXQ3KhZzXzcY1cR) | 3:12 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 59 | [Books of the Bible \(New Testament\)](https://open.spotify.com/track/5fa31FMLK0fKw4JOlTW3Hc) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [100 Songs from the Bible](https://open.spotify.com/album/7oGhvfmDTZ6ULhIF28Piky) | 2:14 |
 | 60 | [\(Blessed Be\) The Name of the Lord](https://open.spotify.com/track/42TyWK07EJU2uvOJgTQHp7) | [African Children's Choir](https://open.spotify.com/artist/5nbhCNXWLMuNiXyPwTK0ud) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 2:55 |
 | 61 | [Awesome God \(Your Voice\) \- Kids Version](https://open.spotify.com/track/0cmSswi24ufP4W1eqBRyoN) | [Here I Am To Worship For Kids Performers](https://open.spotify.com/artist/4swSTrcaD1kMk6B0QhYgrW) | [Here I Am To Worship For Kids](https://open.spotify.com/album/2XZz6o7NDi2NsTpuN6qjHX) | 4:26 |
-| 62 | [Wibbly Wobbly World](https://open.spotify.com/track/0Vl6QU641TX42GNyu2F3YQ) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T) | [Hope For The Wobbly World](https://open.spotify.com/album/212VIFg5oHDU7J8K8Iol2K) | 3:04 |
-| 63 | [When I Talk to God](https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 2:37 |
+| 62 | [When I Talk to God](https://open.spotify.com/track/4XD21YQfW2VO5gXcUe4DiA) | [Chrissy Metz](https://open.spotify.com/artist/1UxVEV7mxsSuRZG7niH70a) | [Prayed for This Day](https://open.spotify.com/album/13Ii0A5r6l30sUK74lMsYS) | 2:37 |
+| 63 | [Wibbly Wobbly World](https://open.spotify.com/track/0Vl6QU641TX42GNyu2F3YQ) | [Colin Buchanan](https://open.spotify.com/artist/10EDEcSwzdTCLhI3hTNG5T) | [Hope For The Wobbly World](https://open.spotify.com/album/212VIFg5oHDU7J8K8Iol2K) | 3:04 |
 | 64 | [If You're Saved and You Know It](https://open.spotify.com/track/4fBymO23KqavJifkRrMQDE) | [The Wonder Kids](https://open.spotify.com/artist/7GkPZD0O1btf2e5dtRZyfI) | [Toddler 1 Minute Bible Songs](https://open.spotify.com/album/6gZct2nbpNAPIHQiozAjx5) | 1:04 |
 | 65 | [The Arky Arky Song](https://open.spotify.com/track/6rUOtgCuKhp53kuX6TBhNl) | [Sticky Kids](https://open.spotify.com/artist/76vBk1P2JmNY2HSfWZGNjD) | [Praise God: Worship Songs for Kids](https://open.spotify.com/album/3kENdwPZgcVfdrMK4CiSpA) | 2:57 |
 | 66 | [Heaven Is A Wonderful Place/When I Get To Heaven](https://open.spotify.com/track/6iINEWo79e3Ao1MYoHGg7n) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [The First Sunday Singalong](https://open.spotify.com/album/3ZSxL7JnNVTWi9yyNFuTHa) | 1:35 |

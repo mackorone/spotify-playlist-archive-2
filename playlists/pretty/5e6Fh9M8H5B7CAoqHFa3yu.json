@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 346,
+  "num_followers": 347,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKoZvRsxkSyev1GdBwuo8c9HbPSegh",
+  "snapshot_id": "AAAKp0m9btx6aqqs0HpGqNw51R3CEzbS",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -42575,6 +42575,102 @@
       "duration_ms": 150048,
       "name": "YA NO",
       "url": "https://open.spotify.com/track/3YHn1nZHlQq3VZhn8NrGde"
+    },
+    {
+      "added_at": "2026-07-28 08:41:16",
+      "album": {
+        "name": "I won't miss your love",
+        "url": "https://open.spotify.com/album/59oh3OScYWBYAoFFAygixX"
+      },
+      "artists": [
+        {
+          "name": "Yerevano",
+          "url": "https://open.spotify.com/artist/1BqVDWK7PBR22ARnaBVRCB"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "I won't miss your love",
+      "url": "https://open.spotify.com/track/209RrSiJAMLzAYqPJlzvyt"
+    },
+    {
+      "added_at": "2026-07-28 08:44:11",
+      "album": {
+        "name": "In Meinem Kopf",
+        "url": "https://open.spotify.com/album/1aExyxKkDRNaTeP3k0c6m0"
+      },
+      "artists": [
+        {
+          "name": "N2E",
+          "url": "https://open.spotify.com/artist/03zPTdtQkZYMZ4YKhaaEX2"
+        }
+      ],
+      "duration_ms": 290848,
+      "name": "In Meinem Kopf",
+      "url": "https://open.spotify.com/track/7vWpn4gVEGFl3MwOUEVWoB"
+    },
+    {
+      "added_at": "2026-07-28 08:44:33",
+      "album": {
+        "name": "Chasing Daylight",
+        "url": "https://open.spotify.com/album/22BKT7lJr4ya7Fc4UmGgh8"
+      },
+      "artists": [
+        {
+          "name": "Summer Signals",
+          "url": "https://open.spotify.com/artist/5X4r6sqrLaIk0T0mwnpXoq"
+        }
+      ],
+      "duration_ms": 192548,
+      "name": "Chasing Daylight",
+      "url": "https://open.spotify.com/track/7CzvilbrwlLzVpQGVXPN6k"
+    },
+    {
+      "added_at": "2026-07-28 10:13:38",
+      "album": {
+        "name": "Decadence",
+        "url": "https://open.spotify.com/album/6oge9aN1X3Fl6IIXLUq8EI"
+      },
+      "artists": [
+        {
+          "name": "Aural Nouveau",
+          "url": "https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "Decadence",
+      "url": "https://open.spotify.com/track/0rRewFIunN0RngAqfwd1RF"
+    },
+    {
+      "added_at": "2026-07-28 10:18:23",
+      "album": {
+        "name": "The Weekend (Instrumental)",
+        "url": "https://open.spotify.com/album/6BqZxVnaPZEsLNsVO5m5BS"
+      },
+      "artists": [
+        {
+          "name": "Metok Maximus",
+          "url": "https://open.spotify.com/artist/5YTX9oJVrxwWJuVbRdxNK1"
+        }
+      ],
+      "duration_ms": 152762,
+      "name": "The Weekend - Instrumental",
+      "url": "https://open.spotify.com/track/3JjUm4kaHKZYdakw0g6dRf"
+    },
+    {
+      "added_at": "2026-07-28 23:51:54",
+      "album": {
+        "name": "convenient",
+        "url": "https://open.spotify.com/album/6UMpZ0ihDKy9tkC2353r0K"
+      },
+      "artists": [
+        {
+          "name": "RINNIE",
+          "url": "https://open.spotify.com/artist/2d6vYkXPElcFB8XVtt1eI3"
+        }
+      ],
+      "duration_ms": 260001,
+      "name": "convenient",
+      "url": "https://open.spotify.com/track/1BXDjv5BqlC52TrjKfnP0y"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

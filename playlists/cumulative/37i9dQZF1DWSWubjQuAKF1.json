@@ -6347,6 +6347,28 @@
     },
     {
       "album": {
+        "name": "jutro spoczniemy na dnie odleg\u0142ego morza",
+        "url": "https://open.spotify.com/album/26ko8YSiHDYAyoanRXJ1Gl"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        },
+        {
+          "name": "stas",
+          "url": "https://open.spotify.com/artist/72Vq7ugNRnMWOnFZkvj3zd"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277509,
+      "name": "jutro spoczniemy na dnie odleg\u0142ego morza",
+      "url": "https://open.spotify.com/track/6fAjclJ49KZBzgOwhkpTqH"
+    },
+    {
+      "album": {
         "name": "Ju\u017c nie szkoda",
         "url": "https://open.spotify.com/album/4rfPIIZxl5G2O5UcuxZlvh"
       },
@@ -14854,7 +14876,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 159473,
       "name": "TopOff",
       "url": "https://open.spotify.com/track/6EmqcmEbc9XHhleW2rBfvm"

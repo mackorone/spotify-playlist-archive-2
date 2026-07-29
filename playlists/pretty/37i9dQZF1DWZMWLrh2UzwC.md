@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from JENNIE, KATSEYE, charli xcx, FLO, Syamel, NAKI, Aufahanie, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,735 likes - 107 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,731 likes - 107 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 11 | [Lekas \- From "Tiket Sehala"](https://open.spotify.com/track/77YjR5TBTjHuHCGvTwFGFd) | [Zaki Yamani](https://open.spotify.com/artist/7lVwbjc1mRozUnCAP90KTk) | [Lekas \(From "Tiket Sehala"\)](https://open.spotify.com/album/38njo4PGfKl5e3LAtctaEi) | 3:24 |
 | 12 | [Bury It](https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Bury It](https://open.spotify.com/album/33W0mcGpZis0alt3swinMu) | 3:08 |
 | 13 | [Lonely](https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [Lonely](https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR) | 2:56 |
-| 14 | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
+| 14 | [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
 | 15 | [ChecK](https://open.spotify.com/track/03OWSvT8tWcUSpUlke4buk) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [OriginaLyn](https://open.spotify.com/album/6jV8UkMbnfG7vU9yKl3n60) | 2:38 |
 | 16 | [Never Gonna Be Alone](https://open.spotify.com/track/0rDW156yWatvF7WF4R5QQN) | [LIM KIM](https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv) | [Exit to Nowhere](https://open.spotify.com/album/4YEBMgKfdXZUHd8CUyhoSy) | 3:25 |
 | 17 | [Vitamin ME](https://open.spotify.com/track/70RQYCjVacuJgeYAmU2sXd) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Glow ME](https://open.spotify.com/album/5TavW70ILrvXyPabrm5z29) | 3:10 |

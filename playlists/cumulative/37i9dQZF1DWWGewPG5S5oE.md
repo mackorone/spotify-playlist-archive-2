@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 石若 駿
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 石川紅奈
 
-561 songs - 1 day 21 hr 42 min
+562 songs - 1 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Ladies Love Mercedes](https://open.spotify.com/track/6U1b0PMdLncRbYWxKWIAkE) | [akiko](https://open.spotify.com/artist/27ykGL8CGbRE5LOT3K9IUp) | [Revisited!](https://open.spotify.com/album/4X7rmRm4qONLH4815bRdse) | 3:22 | 2026-06-25 |  |
 | [Last Recollection](https://open.spotify.com/track/1i5dlXpWm2qyygCqeaGPD5) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj) | [We'll be always on your side](https://open.spotify.com/album/5qD1q5sIgRJaU1mnvtdwHT) | 3:38 | 2022-09-06 | 2022-12-21 |
 | [Left Eye](https://open.spotify.com/track/4SK4LWklb4hZn58MB3uXKq) | [西口明宏](https://open.spotify.com/artist/7cfJQuXW7ehOs7SixLZJhC) | [Left Eye](https://open.spotify.com/album/5rJ7aRujo2w9txa1m7Fy8t) | 6:40 | 2024-06-11 | 2024-09-18 |
+| [Les Fleurs](https://open.spotify.com/track/5qZlBTwuQDR2FUB6cWQeDY) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Les Fleurs](https://open.spotify.com/album/65G0cgLf48rPAtl9GmZEec) | 5:12 | 2026-07-28 |  |
 | [Life](https://open.spotify.com/track/1foVQBPHeze4jhdKtQCFFs) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [多和田えみ](https://open.spotify.com/artist/75lvsN9jSpGRWcQhERynWS) | [Life](https://open.spotify.com/album/3kMapkyqMsAi6Hi5I5lfbc) | 3:56 | 2024-07-09 | 2024-08-28 |
 | [Life Is Beautiful](https://open.spotify.com/track/243O6DF6CLbvpDaTLel2Bk) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [Life Is Beautiful](https://open.spotify.com/album/6NuhtNddVOorha4bfhfmjv) | 5:06 | 2026-07-17 |  |
 | [Light](https://open.spotify.com/track/03kj4nn1CBAlGLwfQAnb6f) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2), [Yu\-ri Tanaka](https://open.spotify.com/artist/4ncMVbzL2pGrGtcejiUk0r) | [Light](https://open.spotify.com/album/130u0oM6Q8NiuF69xB20Bj) | 3:58 | 2023-05-30 | 2023-09-13 |

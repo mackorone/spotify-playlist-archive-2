@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Jabulile Majola
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,027 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,072 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 63 | [Ngizohlala Nawe \(feat\. Princess Meloh\)](https://open.spotify.com/track/5lfeivPGO7gXCbMfxKGAlH) | [NKR](https://open.spotify.com/artist/3thrhTKemjuoEqfhGZu3i6), [Ayarhkay](https://open.spotify.com/artist/1MD4g1fBpnN0xXpQiQt8pf), [Olefied Khetha](https://open.spotify.com/artist/7encSKpRGCkRR4yF13Shr9), [Princess Meloh](https://open.spotify.com/artist/0KW7KKNYz8POQOtq6Ps6jj) | [Ngizohlala Nawe \(feat\. Princess Meloh\)](https://open.spotify.com/album/6xOYZWbIr7js9wii3B14fv) | 5:01 |
 | 64 | [Ngizmisele](https://open.spotify.com/track/0sSFSV3NiP2i9PzSk65BPa) | [Puleng Phoofolo](https://open.spotify.com/artist/4PV6IJwluKGjXmKLhKFa0E), [Phoka Ea Boroa](https://open.spotify.com/artist/40fbBPZplM3WZsGD658nXI) | [Ngizmisele](https://open.spotify.com/album/3PQg91Te4i6mqvN3hzoZTH) | 3:45 |
 | 65 | [Deda](https://open.spotify.com/track/5Qnm8kfRqAO7uYl18opkUE) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm) | [Deda](https://open.spotify.com/album/1oUq2TPAtuKtPuV5pvRdhV) | 4:58 |
-| 66 | [Uthando nguwe](https://open.spotify.com/track/5klchI3pdBqkD93X99NJrC) | [Nonny Muji](https://open.spotify.com/artist/08aBSBkDfgrusrkPYKJhGX), [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o) | [Uthando nguwe](https://open.spotify.com/album/6WFXHsr8iQlfKLH5jwQgtc) | 4:09 |
+| 66 | [Uthando nguwe](https://open.spotify.com/track/5klchI3pdBqkD93X99NJrC) | [Nonny Mthiya](https://open.spotify.com/artist/6k9Beuyxy8BboPYMfXHWvd), [Maverick Muji](https://open.spotify.com/artist/3cKNrj7HVDPesBMpcHUI3o) | [Uthando nguwe](https://open.spotify.com/album/6WFXHsr8iQlfKLH5jwQgtc) | 4:09 |
 | 67 | [Ivaka](https://open.spotify.com/track/3UpG2Cth6uhfQpQjiMH6mR) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Imac Soul](https://open.spotify.com/artist/3vbmV1oSje6xEjk6iImZjg) | [Ivaka](https://open.spotify.com/album/1DlPssNUJQlJXqS5ES5jNu) | 5:09 |
 | 68 | [Abazazi Bafunani](https://open.spotify.com/track/0spmIF7xn9SuE5hH5ubT8f) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Icala Le Mpumelelo](https://open.spotify.com/album/61J1H6eXGo2MrfDQ2iBhfo) | 3:49 |
 | 69 | [Ubuhle Obungaka](https://open.spotify.com/track/1suLe6X8s2fxJ777GvJT8S) | [Ovuyonke](https://open.spotify.com/artist/1PUJY8Y2zROwux5qnaGb9O), [Yolophonik](https://open.spotify.com/artist/3LwIKF4bPDZylPWbHlNeOf), [Jaedon Daniels](https://open.spotify.com/artist/5EaNhWHyEwa0nHjsJqdniH) | [Ubuhle Obungaka](https://open.spotify.com/album/26NtnzpB9akhyOHypfPzLq) | 3:15 |

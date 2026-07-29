@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAAC/RO7dpV9jEED1jnQ8NHi9",
+  "snapshot_id": "amafgAAAAAAo8zdadkRuSCjFcxRMOkLK",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Piano Republik",
         "url": "https://open.spotify.com/album/4EPyqparNEvWk2gbHgXPzO"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 236379,
       "name": "Mamgobhozi",
       "url": "https://open.spotify.com/track/4SJW5gKYzROFzzgsJlVFov"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 270133,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
     },
     {
       "added_at": null,

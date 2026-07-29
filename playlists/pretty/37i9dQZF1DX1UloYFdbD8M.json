@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Gowry Lekshmi",
-  "num_followers": 40988,
+  "num_followers": 40996,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKY2ZCdVrCaQRZKjeXNglzoilqmO",
+  "snapshot_id": "AAAAAH3vWSyNHQsFxdltmPvpGZOYw33O",
   "tracks": [
     {
       "added_at": "2026-06-24 11:39:34",
@@ -267,6 +267,34 @@
       "duration_ms": 154000,
       "name": "Athirilla Mohangal",
       "url": "https://open.spotify.com/track/0wpuRk4VLhHL6KFF4rUJdV"
+    },
+    {
+      "added_at": "2026-07-28 10:12:28",
+      "album": {
+        "name": "Biriyani Bro",
+        "url": "https://open.spotify.com/album/6Z3wA19XgBAq8HWegkFUar"
+      },
+      "artists": [
+        {
+          "name": "Riyas Payyoli",
+          "url": "https://open.spotify.com/artist/0DuLEsbtMfO47FYJn6uQjV"
+        },
+        {
+          "name": "Zia Ul Haq",
+          "url": "https://open.spotify.com/artist/3kPqgCCGlCGS9owID1l5n9"
+        },
+        {
+          "name": "Rijiya Riyas",
+          "url": "https://open.spotify.com/artist/0SE1uwy9ckDVpXkneyBWFf"
+        },
+        {
+          "name": "Nidheesh Naderi",
+          "url": "https://open.spotify.com/artist/1meoMjEGBPOmoHsxTniFQJ"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "Biriyani Bro",
+      "url": "https://open.spotify.com/track/4IQ2G8ZomrBM2O7FTW80S1"
     },
     {
       "added_at": "2026-05-04 12:01:04",
@@ -607,6 +635,34 @@
       "duration_ms": 214910,
       "name": "Meenangadi",
       "url": "https://open.spotify.com/track/00yANyBR41gfG4r92pBu8I"
+    },
+    {
+      "added_at": "2026-07-28 10:12:28",
+      "album": {
+        "name": "Manithan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DJsqgmok3ag4GxDWkcIlb"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Priya Hemesh",
+          "url": "https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/34alE9zN7dTT9s6s1j8bJC"
+        }
+      ],
+      "duration_ms": 266639,
+      "name": "Aval",
+      "url": "https://open.spotify.com/track/4LK8863ScRhhT6hitFfBI5"
     },
     {
       "added_at": "2026-06-29 09:32:40",

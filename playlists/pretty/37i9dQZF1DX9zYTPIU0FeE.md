@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: SPARTZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,421 likes - 60 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,426 likes - 60 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,10 +36,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 26 | [Thixo Akunangqalelo](https://open.spotify.com/track/7hZsc0THR1IshMDE0VlTua) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [African Time](https://open.spotify.com/album/5WBAzcalp0upbOBakABp6s) | 2:53 |
 | 27 | [Idabi Labantu](https://open.spotify.com/track/6qi5vAQlXgBjWPJfvqFo5u) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Idabi Labantu](https://open.spotify.com/album/16gWRJdfbaNMbTDIuUtp21) | 5:05 |
 | 28 | [indlela](https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:52 |
-| 29 | [Let The Sky Open Under Your Feet](https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Let The Sky Open Under Your Feet](https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec) | 6:35 |
+| 29 | [Walk Away](https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 4:17 |
 | 30 | [Modeh Ani](https://open.spotify.com/track/3u1zpgT2edkhYKSoO0aTy8) | [Yosef Gutman](https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr) | [Modeh Ani](https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx) | 3:59 |
 | 31 | [Wozani Nonke Sizothandaza](https://open.spotify.com/track/5JlzEk3QTex3bOELO59xi1) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [At This Point in Time: Voices in Volumes](https://open.spotify.com/album/0Nm6Bc09bsazARFqzfemzr) | 8:04 |
-| 32 | [Walk Away](https://open.spotify.com/track/1v0x492mSc227x9PSJWfw7) | [Nomfundo Xaluva](https://open.spotify.com/artist/71N9TXfexGfLXxPDJec5iE) | [Ndilapha](https://open.spotify.com/album/794Pfh9JnYrNIVox3OVtax) | 4:17 |
+| 32 | [Let The Sky Open Under Your Feet](https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Let The Sky Open Under Your Feet](https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec) | 6:35 |
 | 33 | [Clarion Call](https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [In The Wake](https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq) | 6:58 |
 | 34 | [The Anchor](https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [The Seed](https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8) | 4:31 |
 | 35 | [Teardrop](https://open.spotify.com/track/25Ucl6VZIn1hCcYVCdFor8) | [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [A Dance More Sweetly Played](https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7) | 6:24 |

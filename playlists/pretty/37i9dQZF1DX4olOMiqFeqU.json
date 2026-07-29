@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2479624,
+  "num_followers": 2479334,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,18 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Palaisipan",
-        "url": "https://open.spotify.com/album/78krpREp3Hu6cfhbTJVNW0"
+        "name": "Kalimutan Ka",
+        "url": "https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R"
       },
       "artists": [
         {
-          "name": "Loonie",
-          "url": "https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc"
-        },
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
         }
       ],
-      "duration_ms": 241237,
-      "name": "Palaisipan",
-      "url": "https://open.spotify.com/track/5Qsa2a1GStao34PdmEJUN2"
+      "duration_ms": 288000,
+      "name": "Kalimutan Ka",
+      "url": "https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -303,18 +299,22 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Kalimutan Ka",
-        "url": "https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R"
+        "name": "Palaisipan",
+        "url": "https://open.spotify.com/album/78krpREp3Hu6cfhbTJVNW0"
       },
       "artists": [
         {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+          "name": "Loonie",
+          "url": "https://open.spotify.com/artist/552jNI1kUtB1FPRZFliQxc"
+        },
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Kalimutan Ka",
-      "url": "https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w"
+      "duration_ms": 241237,
+      "name": "Palaisipan",
+      "url": "https://open.spotify.com/track/5Qsa2a1GStao34PdmEJUN2"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Imahe",
-        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
-      },
-      "artists": [
-        {
-          "name": "Magnus Haven",
-          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
-        }
-      ],
-      "duration_ms": 321817,
-      "name": "Imahe",
-      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
-    },
-    {
-      "added_at": "2026-05-20 10:30:00",
-      "album": {
         "name": "Marilag",
         "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
       },
@@ -371,22 +355,6 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Pagsamo",
-        "url": "https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 297001,
-      "name": "Pagsamo",
-      "url": "https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a"
-    },
-    {
-      "added_at": "2026-05-20 10:30:00",
-      "album": {
         "name": "Ikaw Lang Patutunguhan",
         "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
       },
@@ -399,6 +367,38 @@
       "duration_ms": 326896,
       "name": "Ikaw Lang Patutunguhan",
       "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
+    },
+    {
+      "added_at": "2026-05-20 10:30:00",
+      "album": {
+        "name": "Imahe",
+        "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
+      },
+      "artists": [
+        {
+          "name": "Magnus Haven",
+          "url": "https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6"
+        }
+      ],
+      "duration_ms": 321817,
+      "name": "Imahe",
+      "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
+    },
+    {
+      "added_at": "2026-05-20 10:30:00",
+      "album": {
+        "name": "Pagsamo",
+        "url": "https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy"
+      },
+      "artists": [
+        {
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
+        }
+      ],
+      "duration_ms": 297001,
+      "name": "Pagsamo",
+      "url": "https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Love And Soul",
-        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
+        "name": "Oksihina",
+        "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
       },
       "artists": [
         {
-          "name": "Jireh Lim",
-          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
         }
       ],
-      "duration_ms": 236705,
-      "name": "Magkabilang Mundo",
-      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
+      "duration_ms": 204051,
+      "name": "Oksihina",
+      "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Oksihina",
-        "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
+        "name": "Love And Soul",
+        "url": "https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl"
       },
       "artists": [
         {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+          "name": "Jireh Lim",
+          "url": "https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q"
         }
       ],
-      "duration_ms": 204051,
-      "name": "Oksihina",
-      "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
+      "duration_ms": 236705,
+      "name": "Magkabilang Mundo",
+      "url": "https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -851,30 +851,18 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Titig",
-        "url": "https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W"
+        "name": "Twelve: Fifty One (International Version)",
+        "url": "https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ"
       },
       "artists": [
         {
-          "name": "MC Einstein",
-          "url": "https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK"
-        },
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        },
-        {
-          "name": "Jekkpot",
-          "url": "https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p"
+          "name": "krissy & ericka",
+          "url": "https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V"
         }
       ],
-      "duration_ms": 259114,
-      "name": "Titig",
-      "url": "https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci"
+      "duration_ms": 246280,
+      "name": "12:51",
+      "url": "https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q"
     }
   ],
   "unique_name": "OPM Favorites",

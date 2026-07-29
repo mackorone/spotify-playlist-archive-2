@@ -1,12 +1,12 @@
 {
   "description": "This is Mastodon. The essential tracks, all in one playlist.",
-  "num_followers": 63848,
+  "num_followers": 63853,
   "original_name": "This Is Mastodon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAACod/VLXSF6ylx1RzQjDFrI",
+  "snapshot_id": "amafgAAAAACipWSSwiWcx7C6b/oFGJfw",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Mountain",
-        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
-      },
-      "artists": [
-        {
-          "name": "Mastodon",
-          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
-        }
-      ],
-      "duration_ms": 259693,
-      "name": "Colony of Birchmen",
-      "url": "https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hushed and Grim",
         "url": "https://open.spotify.com/album/5xnZl7sdxxIb4rkDcbD4IC"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 209932,
       "name": "Pushing the Tides",
       "url": "https://open.spotify.com/track/0svFlmFdw4sxlJzsLTXeTo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blood Mountain",
+        "url": "https://open.spotify.com/album/1n8QZFcwx5aQ2LIIlj0iYe"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "duration_ms": 259693,
+      "name": "Colony of Birchmen",
+      "url": "https://open.spotify.com/track/6nmsnhkJYvyYu8TheUa0Xf"
     },
     {
       "added_at": null,

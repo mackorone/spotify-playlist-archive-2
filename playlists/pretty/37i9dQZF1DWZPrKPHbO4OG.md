@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,478 likes - 43 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,486 likes - 43 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZPrKPHbO4OG.md) - [plain]
 | 5 | [Dolby Walya](https://open.spotify.com/track/0jKX3Y9SxdqBBFJ3oz2cyR) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Earl Edgar](https://open.spotify.com/artist/42hSYLTMRQgvLZnE1E5YyS) | [Jau Dya Na Balasaheb \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zRLneJPeKVFVGhJxGFLIK) | 5:35 |
 | 6 | [Ved Lavlay](https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR) | 3:51 |
 | 7 | [Kaarte Nibaar](https://open.spotify.com/track/3u3CjdwU5kCT5JIWctnSfW) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Kaarte Nibaar](https://open.spotify.com/album/0HNnUBVc98sYEzDMBnwVxJ) | 3:03 |
-| 8 | [Govyachya Kinaryav](https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Rajneesh Patel](https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF) | [Govyachya Kinaryav](https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv) | 3:34 |
-| 9 | [Shitti Wajali Gaadi Sutali](https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy) | [Anand Shinde](https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd), [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Rege \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP) | 5:07 |
+| 8 | [Shitti Wajali Gaadi Sutali](https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy) | [Anand Shinde](https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd), [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock) | [Rege \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP) | 5:07 |
+| 9 | [Govyachya Kinaryav](https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Rajneesh Patel](https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF) | [Govyachya Kinaryav](https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv) | 3:34 |
 | 10 | [Hey Pavlaay](https://open.spotify.com/track/35LJQhz82wUfSztjpHV4ss) | [Preet Bandre](https://open.spotify.com/artist/53vx7sCjX8Ll1I0H59ZDr2), [Dhruvan Moorthy](https://open.spotify.com/artist/3psleO4ViEBEsBsLHNF1Iu) | [Hey Pavlaay](https://open.spotify.com/album/3sgeiiKEmNqOW2A5uphB4P) | 1:53 |
 | 11 | [Angaat Aalaya](https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT) | [Rohan Pradhan](https://open.spotify.com/artist/5OvvUIcEWpnKuP0F3HoRce), [Rohan Rohan](https://open.spotify.com/artist/6wnx3CHIWmuaOWubIXn6UE) | [Angaat Aalaya \- Zombivli](https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx) | 3:46 |
 | 12 | [Koliwada Jhingla](https://open.spotify.com/track/3lhpuZdgqKdcX0WocldP8e) | [Siddhi Ture](https://open.spotify.com/artist/5wesFSpvU7ZDe0pnXFziA1) | [Koliwada Jhingla](https://open.spotify.com/album/6MApVLobvbC1PzRIVkouUo) | 3:47 |

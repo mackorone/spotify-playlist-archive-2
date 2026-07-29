@@ -173,6 +173,28 @@
     },
     {
       "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/76peazkhZj5eNDTTAQyyU4"
+      },
+      "artists": [
+        {
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+        },
+        {
+          "name": "Alessia Labate",
+          "url": "https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198967,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/5BWCKHfQvqFISwyynSaD1P"
+    },
+    {
+      "album": {
         "name": "Adrenaline",
         "url": "https://open.spotify.com/album/6GpObLu9wOkf8LZTlRlAtE"
       },

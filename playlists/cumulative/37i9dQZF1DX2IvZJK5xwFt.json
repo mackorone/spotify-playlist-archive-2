@@ -4397,6 +4397,24 @@
     },
     {
       "album": {
+        "name": "Date Night",
+        "url": "https://open.spotify.com/album/4rSBYJKVfytsfeXw2PYjNv"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "date_added": "2026-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227116,
+      "name": "Date Night",
+      "url": "https://open.spotify.com/track/3kddxpf7WLApBv8pRTCn49"
+    },
+    {
+      "album": {
         "name": "POPtical Illusion",
         "url": "https://open.spotify.com/album/4Y47DeNLz30h7AyLtGdqtT"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
-  "num_followers": 12157,
+  "num_followers": 12162,
   "original_name": "This Is Joy Oladokun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAADO/UVO3kap4h4LE8BcTjy7",
+  "snapshot_id": "amafgAAAAABn5BtTzI80VXRV1OiDpC02",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outer Banks: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 242714,
+      "name": "Out on the Weekend",
+      "url": "https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 230744,
       "name": "You At The Table (with Manchester Orchestra)",
       "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outer Banks: Season 3 (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 242714,
-      "name": "Out on the Weekend",
-      "url": "https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 235047,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
+      "duration_ms": 242811,
+      "name": "Carry",
+      "url": "https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 242811,
-      "name": "Carry",
-      "url": "https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7"
+      "duration_ms": 235047,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
     },
     {
       "added_at": null,
@@ -787,38 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carry",
-        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 279614,
-      "name": "Animals & Angels",
-      "url": "https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OBSERVATIONS FROM A CROWDED ROOM",
-        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 133679,
-      "name": "LETTER FROM A BLACKBIRD",
-      "url": "https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be Careful",
         "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 342272,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 133679,
+      "name": "LETTER FROM A BLACKBIRD",
+      "url": "https://open.spotify.com/track/4LZ8uQgHZKAk9KCQa32dNF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carry",
+        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 279614,
+      "name": "Animals & Angels",
+      "url": "https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c"
     },
     {
       "added_at": null,

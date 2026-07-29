@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 69100,
+  "num_followers": 69131,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAABYcicwPw6cBa6CpwZQQ+j9",
+  "snapshot_id": "amafgAAAAAAisgBvHo4eXOd08vFNpWLr",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burn It Down (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 251032,
+      "name": "Burn it Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Took A Walk (from \"The Long Walk\")",
         "url": "https://open.spotify.com/album/0xOz0twDcTFReXDArM1uKe"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 163863,
       "name": "A Bar Song (Tipsy) [Remix}",
       "url": "https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burn It Down (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 251389,
-      "name": "Burn It Down (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
     },
     {
       "added_at": null,

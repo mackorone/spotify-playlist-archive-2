@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 536928,
+  "num_followers": 536979,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Doppelganger",
-        "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
-      },
-      "artists": [
-        {
-          "name": "The Fall of Troy",
-          "url": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "F.C.P.R.E.M.I.X.",
-      "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "Define The Great Line",
         "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 242413,
       "name": "Writing On The Walls",
       "url": "https://open.spotify.com/track/313yF0VXTCmFFoYEJF7nBQ"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Doppelganger",
+        "url": "https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE"
+      },
+      "artists": [
+        {
+          "name": "The Fall of Troy",
+          "url": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "F.C.P.R.E.M.I.X.",
+      "url": "https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Ready To Fall",
-      "url": "https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "They're Only Chasing Safety",
         "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 262573,
       "name": "Reinventing Your Exit",
       "url": "https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "Ready To Fall",
+      "url": "https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Dream to Make Believe",
-        "url": "https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk"
-      },
-      "artists": [
-        {
-          "name": "Armor For Sleep",
-          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Dream to Make Believe",
-      "url": "https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "I'm Only A Man",
         "url": "https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 211453,
       "name": "The Party Song",
       "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Dream to Make Believe",
+        "url": "https://open.spotify.com/album/2BpTMalKI3yhZ2tVATUPXk"
+      },
+      "artists": [
+        {
+          "name": "Armor For Sleep",
+          "url": "https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Dream to Make Believe",
+      "url": "https://open.spotify.com/track/33kiSXAy1GBwqOh4O7v9Lv"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "Trainwreck",
-        "url": "https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P"
-      },
-      "artists": [
-        {
-          "name": "Boys Night Out",
-          "url": "https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ"
-        }
-      ],
-      "duration_ms": 240186,
-      "name": "Medicating",
-      "url": "https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "The Big Dirty",
         "url": "https://open.spotify.com/album/6Bl4e9l92OjIZIGYMVR4AN"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 203426,
       "name": "No Son Of Mine",
       "url": "https://open.spotify.com/track/6vQ4wyy3AKpajRqqZxyJaW"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "Trainwreck",
+        "url": "https://open.spotify.com/album/1uFmJTSJEEm0mdjDERdg8P"
+      },
+      "artists": [
+        {
+          "name": "Boys Night Out",
+          "url": "https://open.spotify.com/artist/4wM8eTlGUeleEqowJc2iiZ"
+        }
+      ],
+      "duration_ms": 240186,
+      "name": "Medicating",
+      "url": "https://open.spotify.com/track/7FTORbr7wFdglftJdbz1dw"
     },
     {
       "added_at": "2025-11-24 12:49:27",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2025-11-24 12:49:27",
       "album": {
-        "name": "A Static Lullaby",
-        "url": "https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ"
-      },
-      "artists": [
-        {
-          "name": "A Static Lullaby",
-          "url": "https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Hang 'Em High",
-      "url": "https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp"
-    },
-    {
-      "added_at": "2025-11-24 12:49:27",
-      "album": {
         "name": "There For Tomorrow (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ZRygrECnzHvuOjRXnQtkd"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 211933,
       "name": "Pages",
       "url": "https://open.spotify.com/track/1xJULOj0c01wovNn42lOsC"
+    },
+    {
+      "added_at": "2025-11-24 12:49:27",
+      "album": {
+        "name": "A Static Lullaby",
+        "url": "https://open.spotify.com/album/3H3bVSRPq92GpMDVzPMxyJ"
+      },
+      "artists": [
+        {
+          "name": "A Static Lullaby",
+          "url": "https://open.spotify.com/artist/0nrcqEG1EEnOwpAfIv0UIb"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Hang 'Em High",
+      "url": "https://open.spotify.com/track/5nDtweR08DoAARclRxt9Gp"
     },
     {
       "added_at": "2025-11-24 12:49:27",

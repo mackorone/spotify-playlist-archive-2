@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Charli xcx, oskar med k, Morgan Wallen og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,684 likes - 72 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,671 likes - 72 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 16 | [Fireflies](https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Fireflies](https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23) | 4:23 |
 | 17 | [Anhedonia](https://open.spotify.com/track/1DbvTAcHsf1JHnHRC54FzQ) | [Blonde Rose](https://open.spotify.com/artist/27XxeKTct9Sj2KHLmIfKuA) | [Anhedonia](https://open.spotify.com/album/6Rs5v7zyUNhiORn8ukHoPO) | 4:10 |
 | 18 | [paradis hotell](https://open.spotify.com/track/6XMZAgRnAk6PDsYqXgQX2z) | [martin eff](https://open.spotify.com/artist/2mA1UDF41K9T6aHyGJiVPC), [ERIK](https://open.spotify.com/artist/2PkSHEopOB4qUF3gQqcJvQ) | [Funambulist](https://open.spotify.com/album/5QcfaCILNrzyTG4hNUMVoP) | 2:49 |
-| 19 | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
+| 19 | [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
 | 20 | [Pre\-Raphaelite](https://open.spotify.com/track/29c7ide0e4bt5a0csdPOPU) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Pre\-Raphaelite](https://open.spotify.com/album/4ecmqq3oqOh1y1qS7sn8px) | 4:22 |
 | 21 | [Backside](https://open.spotify.com/track/5dnQpnRgD5Ssc76e9QPFux) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [Backside](https://open.spotify.com/album/5eyeetaAQJzD7FaunBWJ04) | 2:27 |
 | 22 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |

@@ -661,6 +661,36 @@
     },
     {
       "album": {
+        "name": "All The Earth",
+        "url": "https://open.spotify.com/album/2a6QyOHyF3kFvr3GBqXBQ8"
+      },
+      "artists": [
+        {
+          "name": "Pelumi Deborah",
+          "url": "https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "Thepeterjacobs",
+          "url": "https://open.spotify.com/artist/30ikjsa4ad1hwe7NJsfh8Z"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 657500,
+      "name": "All The Earth",
+      "url": "https://open.spotify.com/track/57h4CZ2g2FD0hMFMwMIeIY"
+    },
+    {
+      "album": {
         "name": "All The Way",
         "url": "https://open.spotify.com/album/6UkFSOzDVAsJkXjmOG3iwB"
       },
@@ -10971,6 +11001,24 @@
     },
     {
       "album": {
+        "name": "No Name Like Jesus (Album)",
+        "url": "https://open.spotify.com/album/1zN0PSktBR1SJftrzS4G2G"
+      },
+      "artists": [
+        {
+          "name": "Godswill Oyor",
+          "url": "https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "No name like Jesus",
+      "url": "https://open.spotify.com/track/0GbBUrdg2Nh86k5g43yaNJ"
+    },
+    {
+      "album": {
         "name": "NO TURNING BACK",
         "url": "https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID"
       },
@@ -14724,7 +14772,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 199023,
       "name": "Titilailai II",
       "url": "https://open.spotify.com/track/1rg8E4pDltX9oZXAC2mR0r"
@@ -16950,7 +16998,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 440000,
       "name": "You Are Worthy",
       "url": "https://open.spotify.com/track/0KvOZwao4GyQ1WZm56EFx0"

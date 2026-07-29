@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 65673,
+  "num_followers": 65681,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/4a9acDlfLVTQFe6jDlkVUi"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "No Corro, No Grito, No Empujo",
-        "url": "https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy"
-      },
-      "artists": [
-        {
-          "name": "Triciclo Circus Band",
-          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Excusez-Moi",
-      "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
-    },
-    {
       "added_at": "2023-04-12 01:24:34",
       "album": {
         "name": "El Patio",
@@ -71,6 +55,22 @@
       "duration_ms": 260000,
       "name": "Cumbiero",
       "url": "https://open.spotify.com/track/0s5YhDYLPpCoGiGiksxDtm"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "No Corro, No Grito, No Empujo",
+        "url": "https://open.spotify.com/album/0Gl73ICTO0K3h8f1E9cdZy"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Circus Band",
+          "url": "https://open.spotify.com/artist/6Kkbu7QNMwiSeQxTJ8hFZt"
+        }
+      ],
+      "duration_ms": 156960,
+      "name": "Excusez-Moi",
+      "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -403,22 +403,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
-        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
-      },
-      "artists": [
-        {
-          "name": "Luis Arcaraz Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "Charleston",
-      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
         "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
+        "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
+      },
+      "artists": [
+        {
+          "name": "Luis Arcaraz Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Charleston",
+      "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
     },
     {
       "added_at": "2022-08-09 18:38:23",
@@ -483,18 +483,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "D\u00edas Lentos",
-        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
+        "name": "Bienvenidos",
+        "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
       },
       "artists": [
         {
-          "name": "Ingrid Beaujean",
-          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
+          "name": "Palapa",
+          "url": "https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0"
+        },
+        {
+          "name": "Francisco Lelo de Larrea",
+          "url": "https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Chorinho Blanco",
-      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
+      "duration_ms": 343187,
+      "name": "5:PM",
+      "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -515,22 +519,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Bienvenidos",
-        "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
+        "name": "D\u00edas Lentos",
+        "url": "https://open.spotify.com/album/53squJdAH3nKDaHsHbpU38"
       },
       "artists": [
         {
-          "name": "Palapa",
-          "url": "https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0"
-        },
-        {
-          "name": "Francisco Lelo de Larrea",
-          "url": "https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP"
+          "name": "Ingrid Beaujean",
+          "url": "https://open.spotify.com/artist/4fFGOtELDbrT61dFyeESp1"
         }
       ],
-      "duration_ms": 343187,
-      "name": "5:PM",
-      "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
+      "duration_ms": 214000,
+      "name": "Chorinho Blanco",
+      "url": "https://open.spotify.com/track/4NmNqCyG0J8ZYeurxooAil"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -739,22 +739,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
-      },
-      "artists": [
-        {
-          "name": "Cha/Co Project",
-          "url": "https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK"
-        }
-      ],
-      "duration_ms": 384415,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Triology",
         "url": "https://open.spotify.com/album/5C5oSHXWJZW48TAhCkPnuS"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 428720,
       "name": "Once I Loved",
       "url": "https://open.spotify.com/track/3NNk5X50Cf1BuGXLedKv5K"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
+      },
+      "artists": [
+        {
+          "name": "Cha/Co Project",
+          "url": "https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK"
+        }
+      ],
+      "duration_ms": 384415,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
     },
     {
       "added_at": "2023-04-13 19:45:15",
@@ -853,20 +853,20 @@
       "url": "https://open.spotify.com/track/45BndJTmTwLysmgTBSAGJq"
     },
     {
-      "added_at": "2023-11-23 03:14:06",
+      "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mosquita Muerta (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv"
+        "name": "KonFussion",
+        "url": "https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu"
       },
       "artists": [
         {
-          "name": "Troker",
-          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
+          "name": "Lalo Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc"
         }
       ],
-      "duration_ms": 323800,
-      "name": "Mosquita Muerta - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841"
+      "duration_ms": 304213,
+      "name": "Nada Es Para Siempre",
+      "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
     },
     {
       "added_at": "2024-08-29 03:09:23",

@@ -2,9 +2,9 @@
 
 ### [أقوى المهرجانات](https://open.spotify.com/playlist/37i9dQZF1DX4qF0846GNk8)
 
-> أجمد المهرجانات في مصر! الغلاف: مصطفي الجن و هادي الصغير \- تيم الابداع
+> أجمد المهرجانات في مصر! الغلاف: الباور العالي
 
-397 songs - 1 day 0 hr 48 min
+398 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [فتره و هتعدي](https://open.spotify.com/track/0eAQPO9lxQqc7F4BOy85As) | [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8), [Samara Now](https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0) | [فتره و هتعدي](https://open.spotify.com/album/12sDRnt0r4O3pua8zStqni) | 3:51 | 2022-11-17 | 2023-08-21 |
 | [فتش فتش](https://open.spotify.com/track/6TuMXB9iHua2rzUmRtuwiY) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [فتش فتش](https://open.spotify.com/album/3CMjbLQe3GRt0SMh8r0Ycm) | 3:58 | 2022-07-19 | 2022-10-25 |
 | [فتش فتش](https://open.spotify.com/track/6xT8RMc5S88Rfs82YZwmXm) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [فتش فتش](https://open.spotify.com/album/78b0ANL8qcCLnUr39MK2bt) | 3:58 | 2021-12-16 | 2022-10-28 |
+| [فلوسي](https://open.spotify.com/track/5fFin42tRibTmLADteF1fv) | [Elpower El3aly](https://open.spotify.com/artist/7h4vmBjL6JkQDHe5BbZ5AY), [عدوية شعبان عبدالرحيم](https://open.spotify.com/artist/3WGUpjRhDaXJpmhCRpIMkX) | [طلعة](https://open.spotify.com/album/2BbOSpuiqS3M4jKrWzTegU) | 2:50 | 2026-07-28 |  |
 | [فى زنزانتى يانفسي تعبتى واتهانتى](https://open.spotify.com/track/7dJquFdunElI5hwj8HVnZ6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [فى زنزانتى يانفسي تعبتى واتهانتى](https://open.spotify.com/album/4XPO8gzXlXmUehFmOlw4Df) | 3:53 | 2025-04-07 | 2026-04-22 |
 | [في داهية](https://open.spotify.com/track/3MmWMJvNipkaHJYEGHM5j0) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Eslam Saso](https://open.spotify.com/artist/5wqG0tvzxTrS4iGciGGIDk) | [في داهية](https://open.spotify.com/album/4xWr4AHJ1Y2h2P3bQA8uNz) | 2:39 | 2023-09-05 | 2024-02-01 |
 | [في منامي شوفت الموت](https://open.spotify.com/track/5fE1GyXfyrNze2FFNo8MnV) | [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [في منامي شوفت الموت](https://open.spotify.com/album/46fkyGCwA2geznOFnXYwEu) | 4:59 | 2023-09-14 | 2024-02-01 |
@@ -291,7 +292,7 @@
 | [كل سنه وانتم من جوه صفاركو معبي قلوبكو \( خاف من الاسد \)](https://open.spotify.com/track/48Zyxf3HHBQ6kbDGGDHLfo) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كل سنه وانتم من جوه صفاركو معبي قلوبكو \( خاف من الاسد \)](https://open.spotify.com/album/3ULKj40rMRsFskOZftfZE5) | 4:04 | 2026-04-07 |  |
 | [كل ليله دموع \( بتشاف ضعيف مانا حبيتك \)](https://open.spotify.com/track/2cwwNrIG3cSvsHjeMYK3ec) | [Kimo El Deep](https://open.spotify.com/artist/1W836Zmt4TaE29DVRF5zKF), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كل ليله دموع \( بتشاف ضعيف مانا حبيتك \)](https://open.spotify.com/album/3Fy4VeKs4RUzZ2cgmFZl5T) | 3:32 | 2024-03-08 | 2024-03-29 |
 | [كل ما افوق انا لحالي \( قالو بقي تاجر من الاشرار \)](https://open.spotify.com/track/4KZsmZahAQe1V57PeLeoM2) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [كل ما افوق انا لحالي \( قالو بقي تاجر من الاشرار \)](https://open.spotify.com/album/0T4dVwXKjatW61roAQjEfe) | 4:44 | 2026-05-05 |  |
-| [كلبي المجنون خطر](https://open.spotify.com/track/4KZt3Q1srQVim6q8IayOFn) | [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كلبي المجنون خطر](https://open.spotify.com/album/1ubarCiljbhUoIjtLPX8l8) | 3:18 | 2026-05-21 |  |
+| [كلبي المجنون خطر](https://open.spotify.com/track/4KZt3Q1srQVim6q8IayOFn) | [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كلبي المجنون خطر](https://open.spotify.com/album/1ubarCiljbhUoIjtLPX8l8) | 3:18 | 2026-05-21 | 2026-07-29 |
 | [كلك غرام](https://open.spotify.com/track/6CVM9gIrpVJyoYdwfMAE2G) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [كلك غرام](https://open.spotify.com/album/25YIcugrVu5yzMt8Tmfeq5) | 2:35 | 2023-01-06 | 2023-05-11 |
 | [كلمة مني للي سلموني \( فيك نفس يا حلو \)](https://open.spotify.com/track/6nsFMVApgSBsVjXD7mDWIP) | [Ahmed Moza](https://open.spotify.com/artist/4vOfY5JSqJJPspHqGp4EZl) | [كلمة مني للي سلموني \( فيك نفس يا حلو \)](https://open.spotify.com/album/1UsuuqYvlXm2JuIAHVYdmW) | 3:38 | 2026-07-06 |  |
 | [كله اتساوس واتكالب \( انا عندي حاسه سابعه \)](https://open.spotify.com/track/538ZZliV033eFsUJHjXeQN) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [كله اتساوس واتكالب \( انا عندي حاسه سابعه \)](https://open.spotify.com/album/5g1eBWcXeR6AtLpGBbRMEK) | 4:17 | 2026-02-11 |  |

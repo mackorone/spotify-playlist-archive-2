@@ -4,7 +4,7 @@
 
 > This is Cultura Profética\. The essential tracks, all in one playlist.
 
-116 songs - 9 hr 30 min
+117 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [En bucle](https://open.spotify.com/track/7lU3uhjjv9PBpgYQNSaHlr) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [En bucle](https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2) | 5:16 | 2026-07-24 |  |
 | [Enyoyando](https://open.spotify.com/track/6ySSJb08nj05F4zqcUtFBx) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 1:11 | 2023-04-29 | 2025-05-20 |
 | [Enyoyando / Can Truenos Hay Que Hablar / Despertar \- En Vivo](https://open.spotify.com/track/57xci6chV37mY1GS1BcHPO) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Cultura en Vivo](https://open.spotify.com/album/62VgrbgZu3QeB8a3p1yYz8) | 17:26 | 2022-05-25 | 2022-10-21 |
-| [Flaca](https://open.spotify.com/track/12QOz99BmQf6niecivifM7) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [En bucle](https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u) | 4:15 | 2026-06-14 |  |
+| [Flaca](https://open.spotify.com/track/12QOz99BmQf6niecivifM7) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [En bucle](https://open.spotify.com/album/3vdljVkOeuLzEXbUHvPp1u) | 4:15 | 2026-06-14 | 2026-07-29 |
+| [Flaca](https://open.spotify.com/track/1rANpxB9ZtlcGTvandJAzI) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [En bucle](https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2) | 4:15 | 2026-07-29 |  |
 | [Fruto de la Tierra](https://open.spotify.com/track/7DIqCBEuvWohLKYNoRLSkN) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/3oJiSZ1Ie8WNPs8hfj5ejV) | 4:23 | 2025-05-19 |  |
 | [Fruto de la Tierra](https://open.spotify.com/track/7L0E4HQmpPLDIWhpDqYJez) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Canción de Alerta](https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q) | 4:23 | 2022-05-25 | 2025-05-19 |
 | [Fuiste Cruel](https://open.spotify.com/track/18hSUDDtjfrM5viZI02hfe) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Fuiste Cruel](https://open.spotify.com/album/7DLDlPtke6T1IE6Ln5YYJj) | 4:57 | 2025-05-20 |  |

@@ -1904,7 +1904,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 255615,
       "name": "\u3078\u3073",
       "url": "https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz"
@@ -2214,6 +2214,24 @@
       "duration_ms": 336880,
       "name": "\u30dc\u30af\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9"
+    },
+    {
+      "album": {
+        "name": "\u68ee\u5c71\u826f\u5b50\u3000THE BEST",
+        "url": "https://open.spotify.com/album/0Q3luKdx5wNNb1deCnoWft"
+      },
+      "artists": [
+        {
+          "name": "Ryoko Moriyama",
+          "url": "https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141813,
+      "name": "\u4eca\u65e5\u306e\u65e5\u306f\u3055\u3088\u3046\u306a\u3089",
+      "url": "https://open.spotify.com/track/3IWNiORy6MsChBDce2Fhjn"
     },
     {
       "album": {

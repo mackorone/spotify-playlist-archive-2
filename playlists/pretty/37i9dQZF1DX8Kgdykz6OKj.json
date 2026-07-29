@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1587835,
+  "num_followers": 1587954,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -247,18 +247,26 @@
     {
       "added_at": "2026-07-24 04:00:48",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+        "name": "Konbini Wars",
+        "url": "https://open.spotify.com/album/1mCk7AHyKfC93rJ8tjhRZg"
       },
       "artists": [
         {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Cookin Soul",
+          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
+        },
+        {
+          "name": "Cruzzi",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
         }
       ],
-      "duration_ms": 275342,
-      "name": "Where I'm From",
-      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
+      "duration_ms": 173414,
+      "name": "Konbini Wars",
+      "url": "https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk"
     },
     {
       "added_at": "2026-07-24 04:00:48",
@@ -283,26 +291,18 @@
     {
       "added_at": "2026-07-24 04:00:48",
       "album": {
-        "name": "Konbini Wars",
-        "url": "https://open.spotify.com/album/1mCk7AHyKfC93rJ8tjhRZg"
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
       },
       "artists": [
         {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        },
-        {
-          "name": "Cookin Soul",
-          "url": "https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW"
-        },
-        {
-          "name": "Cruzzi",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
         }
       ],
-      "duration_ms": 173414,
-      "name": "Konbini Wars",
-      "url": "https://open.spotify.com/track/4G6fhntNzO01jPr2jV8TAk"
+      "duration_ms": 275342,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/1962ZwEY7WNQLcmYFn3eR9"
     },
     {
       "added_at": "2026-07-24 04:00:48",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-07-24 04:00:48",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
-      },
-      "artists": [
-        {
-          "name": "Samara Cyn",
-          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
-    },
-    {
-      "added_at": "2026-07-24 04:00:48",
-      "album": {
         "name": "Train Of Thought",
         "url": "https://open.spotify.com/album/2PbWFmysd3j9MEacjjhozx"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2026-07-24 04:00:48",
       "album": {
-        "name": "Figure Numatic",
-        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/2IsHNgaoDSMsP2SKtjkxnU"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "Samara Cyn",
+          "url": "https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0"
         }
       ],
-      "duration_ms": 370610,
-      "name": "Figure Numatic",
-      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+      "duration_ms": 183269,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/0H2hMmyFEClouiasOX6taq"
     },
     {
       "added_at": "2026-07-24 04:00:48",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2026-07-24 04:00:48",
       "album": {
+        "name": "Figure Numatic",
+        "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 370610,
+      "name": "Figure Numatic",
+      "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+    },
+    {
+      "added_at": "2026-07-24 04:00:48",
+      "album": {
         "name": "POETRY JAM (feat. Foggieraw)",
         "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
       },
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-07-24 04:00:48",
       "album": {
+        "name": "A Fine African Man",
+        "url": "https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "MASQUERADE",
+      "url": "https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V"
+    },
+    {
+      "added_at": "2026-07-24 04:00:48",
+      "album": {
         "name": "vitamins n minerals",
         "url": "https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0"
       },
@@ -1147,18 +1163,22 @@
     {
       "added_at": "2026-07-24 04:00:48",
       "album": {
-        "name": "A Fine African Man",
-        "url": "https://open.spotify.com/album/5U3QsEVbwluoPEPIElii3d"
+        "name": "Todas Son Iguales",
+        "url": "https://open.spotify.com/album/7zklsb4VVTzrEHWlA2GiPm"
       },
       "artists": [
         {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
         }
       ],
-      "duration_ms": 163666,
-      "name": "MASQUERADE",
-      "url": "https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V"
+      "duration_ms": 194677,
+      "name": "Me Tiene Enamorao",
+      "url": "https://open.spotify.com/track/1oL5pW7Kq6NhoJI8VXt3A9"
     },
     {
       "added_at": "2026-07-24 04:00:48",
@@ -1179,30 +1199,6 @@
       "duration_ms": 156342,
       "name": "One of Those Feelings",
       "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
-    },
-    {
-      "added_at": "2026-07-24 04:00:48",
-      "album": {
-        "name": "e.t.d.s. A Mixtape by .idk.",
-        "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        },
-        {
-          "name": "Likkle Jordee",
-          "url": "https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB"
-        }
-      ],
-      "duration_ms": 178342,
-      "name": "P.O",
-      "url": "https://open.spotify.com/track/7KIriYANPEsBGTZoF5WwUB"
     },
     {
       "added_at": "2026-07-24 04:00:48",
@@ -1239,6 +1235,30 @@
       "duration_ms": 190116,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/5CTaFr3yPs4SEtCMt70Hfv"
+    },
+    {
+      "added_at": "2026-07-24 04:00:48",
+      "album": {
+        "name": "e.t.d.s. A Mixtape by .idk.",
+        "url": "https://open.spotify.com/album/0CfaDINhy5bFTz9UwM7WAF"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Likkle Jordee",
+          "url": "https://open.spotify.com/artist/67nc9inFEDdyhAXaFXqUZB"
+        }
+      ],
+      "duration_ms": 178342,
+      "name": "P.O",
+      "url": "https://open.spotify.com/track/7KIriYANPEsBGTZoF5WwUB"
     },
     {
       "added_at": "2026-07-24 04:00:48",
@@ -1311,26 +1331,6 @@
     {
       "added_at": "2026-07-24 04:00:48",
       "album": {
-        "name": "Todas Son Iguales",
-        "url": "https://open.spotify.com/album/7zklsb4VVTzrEHWlA2GiPm"
-      },
-      "artists": [
-        {
-          "name": "Gonzalo Genek",
-          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
-        },
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 194677,
-      "name": "Me Tiene Enamorao",
-      "url": "https://open.spotify.com/track/1oL5pW7Kq6NhoJI8VXt3A9"
-    },
-    {
-      "added_at": "2026-07-24 04:00:48",
-      "album": {
         "name": "Scarecrows",
         "url": "https://open.spotify.com/album/0z9u5EIOVhX6DPtmw3DiAj"
       },
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2026-07-24 04:00:48",
       "album": {
+        "name": "Simple Days",
+        "url": "https://open.spotify.com/album/08wljO3sx1lEWVLfjULeD8"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 125720,
+      "name": "Simple Days",
+      "url": "https://open.spotify.com/track/76d3DYrQGyPy0QYodY4R6T"
+    },
+    {
+      "added_at": "2026-07-24 04:00:48",
+      "album": {
         "name": "Everything's Beautiful",
         "url": "https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh"
       },
@@ -1415,26 +1435,6 @@
       "duration_ms": 203687,
       "name": "Violets (feat. Phonte)",
       "url": "https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv"
-    },
-    {
-      "added_at": "2026-07-24 04:00:48",
-      "album": {
-        "name": "Simple Days",
-        "url": "https://open.spotify.com/album/08wljO3sx1lEWVLfjULeD8"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 125720,
-      "name": "Simple Days",
-      "url": "https://open.spotify.com/track/76d3DYrQGyPy0QYodY4R6T"
     },
     {
       "added_at": "2026-07-24 04:00:48",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2026-07-24 04:00:48",
       "album": {
-        "name": "Modal Soul",
-        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Shing02",
-          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
-        }
-      ],
-      "duration_ms": 336866,
-      "name": "Luv(sic.) pt3 (feat. Shing02)",
-      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
-    },
-    {
-      "added_at": "2026-07-24 04:00:48",
-      "album": {
         "name": "The Kaible",
         "url": "https://open.spotify.com/album/3NM31JGVfzlBBbfZYww3Ah"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 144805,
       "name": "Gilgamesh",
       "url": "https://open.spotify.com/track/449JKvl3cCFdkwQZqreV79"
+    },
+    {
+      "added_at": "2026-07-24 04:00:48",
+      "album": {
+        "name": "Modal Soul",
+        "url": "https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Shing02",
+          "url": "https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9"
+        }
+      ],
+      "duration_ms": 336866,
+      "name": "Luv(sic.) pt3 (feat. Shing02)",
+      "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
     },
     {
       "added_at": "2026-07-24 04:00:48",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2026-07-24 04:00:48",
       "album": {
+        "name": "Mi Casa, Su Casa",
+        "url": "https://open.spotify.com/album/3wQtB5CllwkpIZSJgF52QW"
+      },
+      "artists": [
+        {
+          "name": "insyt.",
+          "url": "https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O"
+        }
+      ],
+      "duration_ms": 117933,
+      "name": "Truth Serum",
+      "url": "https://open.spotify.com/track/0LN4VqDvWyG9XNHLmnMVq0"
+    },
+    {
+      "added_at": "2026-07-24 04:00:48",
+      "album": {
         "name": "Scottie Pippen",
         "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
       },
@@ -2003,30 +2019,6 @@
       "duration_ms": 233154,
       "name": "Scottie Pippen",
       "url": "https://open.spotify.com/track/2xzcjOTPZmWY4S8iyhTcds"
-    },
-    {
-      "added_at": "2026-07-24 04:00:48",
-      "album": {
-        "name": "Jazzmatazz: The New Reality",
-        "url": "https://open.spotify.com/album/4muPpXUkiFbHhEQG7OugQV"
-      },
-      "artists": [
-        {
-          "name": "Guru",
-          "url": "https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW"
-        },
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        },
-        {
-          "name": "iNi Kamoze",
-          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
-        }
-      ],
-      "duration_ms": 259533,
-      "name": "Insert A (Mental Relaxation) / Medicine",
-      "url": "https://open.spotify.com/track/6xtJxtnu4IWDMOn824Dd7i"
     }
   ],
   "unique_name": "Jazz Rap",

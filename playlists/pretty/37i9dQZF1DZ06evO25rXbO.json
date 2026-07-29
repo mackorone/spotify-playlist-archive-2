@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1249030,
+  "num_followers": 1249143,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAACU4d0Q5iLaBHrRW12dZsDI",
+  "snapshot_id": "amafgAAAAAAufyEQOuuUOGXZnCuHMnDn",
   "tracks": [
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Fire Flies",
+      "url": "https://open.spotify.com/track/4A5FLaZI3Ni5eT0c9fqi8F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 155973,
       "name": "Ascension (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/2bBMODHVTXGwE2aZYfbgCt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 233373,
-      "name": "Fire Flies",
-      "url": "https://open.spotify.com/track/4A5FLaZI3Ni5eT0c9fqi8F"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Magic City",
+      "url": "https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 272666,
       "name": "Strobelite (feat. Peven Everett)",
       "url": "https://open.spotify.com/track/6XGddj522FQRHXEhBtjiJu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Magic City",
-      "url": "https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi"
     },
     {
       "added_at": null,
@@ -967,6 +967,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Doncamatic (feat. Daley) [The Joker Remix]",
         "url": "https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 202066,
       "name": "Doncamatic (feat. Daley)",
       "url": "https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "Kansas",
-      "url": "https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC"
     },
     {
       "added_at": null,

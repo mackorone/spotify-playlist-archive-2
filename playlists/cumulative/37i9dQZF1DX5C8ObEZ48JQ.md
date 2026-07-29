@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9?si=a5\-6C\-sfRsa66sbzJhdn8Q&nd=1&dlsi=1e3090e5994546aa">SERRO</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO?si=B1WHxFg5QECP2si9pOpKHA">Shad Mziki</a>\. Artwork: Isu Kim.
 
 1,499 songs - 3 day 3 hr 5 min
 

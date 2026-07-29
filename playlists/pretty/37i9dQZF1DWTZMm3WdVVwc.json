@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 27227,
+  "num_followers": 27226,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -673,6 +673,22 @@
       "url": "https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1"
     },
     {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "orion",
+        "url": "https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 283333,
+      "name": "orion",
+      "url": "https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG"
+    },
+    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "\u3072\u3068\u3064\u306b\u306a\u308b\u3068\u304d",
@@ -691,22 +707,6 @@
       "duration_ms": 299666,
       "name": "\u3086\u308c\u308b",
       "url": "https://open.spotify.com/track/5KqIUmgtUmFGlylW0cRiwc"
-    },
-    {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "orion",
-        "url": "https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 283333,
-      "name": "orion",
-      "url": "https://open.spotify.com/track/6FHEL65apB44ucTqTfbhtG"
     },
     {
       "added_at": "2025-10-24 07:45:46",

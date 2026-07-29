@@ -1963,6 +1963,28 @@
     },
     {
       "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223994,
+      "name": "Eyes of the World featuring Sky Ferreira",
+      "url": "https://open.spotify.com/track/1md8v8FG46KecYiMap2XTD"
+    },
+    {
+      "album": {
         "name": "SUCKER",
         "url": "https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2"
       },

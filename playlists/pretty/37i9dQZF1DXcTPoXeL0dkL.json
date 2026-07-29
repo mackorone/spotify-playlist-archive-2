@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 225707,
+  "num_followers": 225728,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -387,18 +387,18 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+        "name": "Nace Del Alma",
+        "url": "https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Busca Un Confidente",
-      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+      "duration_ms": 285640,
+      "name": "Una Hoja En Blanco",
+      "url": "https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/1XIbVdp8h98ZTtRKmsHeBy"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
         "name": "Grandes Hits - Los Chiches Vallenatos",
         "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 288194,
       "name": "Tierra Mala",
       "url": "https://open.spotify.com/track/0fVroVR0FTRID4WoeQ6Jko"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
-        "name": "Nace Del Alma",
-        "url": "https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po"
-      },
-      "artists": [
-        {
-          "name": "Omar Geles",
-          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
-        }
-      ],
-      "duration_ms": 285640,
-      "name": "Una Hoja En Blanco",
-      "url": "https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -683,8 +683,8 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Versi\u00f3n Original",
-        "url": "https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 266573,
-      "name": "Me Tiraste Al Mar",
-      "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
+      "duration_ms": 283853,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -767,8 +767,8 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+        "name": "Versi\u00f3n Original",
+        "url": "https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 283853,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
+      "duration_ms": 266573,
+      "name": "Me Tiraste Al Mar",
+      "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
-        },
-        {
-          "name": "Los Gigantes",
-          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
-        }
-      ],
-      "duration_ms": 246726,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "Diomedes Diaz, La Ventana Marroncita y 15 \u00c9xitos M\u00e1s!",
         "url": "https://open.spotify.com/album/4bqctdZq7FUy0C397pcguV"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 275040,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/0pPJL3LP1YRXlalklDNwpt"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/3XrDzVJBrwbiwJ0uBZQIEB"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        },
+        {
+          "name": "Los Gigantes",
+          "url": "https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1"
+        }
+      ],
+      "duration_ms": 246726,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/2DKXcgSqDp14reKcA0sURL"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "Perd\u00f3name la Vida",
-      "url": "https://open.spotify.com/track/1MdKgwGs2hW1cJUzsIxWVV"
-    },
-    {
-      "added_at": "2025-06-06 05:39:08",
-      "album": {
         "name": "Lo Mejor 17 Grandes Exitos",
         "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 300333,
       "name": "Sin Medir Distancias",
       "url": "https://open.spotify.com/track/01hWPDDBph6Lndib76j8mn"
+    },
+    {
+      "added_at": "2025-06-06 05:39:08",
+      "album": {
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Perd\u00f3name la Vida",
+      "url": "https://open.spotify.com/track/1MdKgwGs2hW1cJUzsIxWVV"
     },
     {
       "added_at": "2025-06-06 05:39:08",
@@ -1047,18 +1047,22 @@
     {
       "added_at": "2025-06-06 05:39:08",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+        "name": "Lo Mejor 17 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
       },
       "artists": [
         {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 305826,
-      "name": "Buscar\u00e9 Otro Amor",
-      "url": "https://open.spotify.com/track/70H3UAl0roL8yFX47BOnNC"
+      "duration_ms": 252800,
+      "name": "Tu Eres La Reina",
+      "url": "https://open.spotify.com/track/4WqHkXEie9gJXUn524bIq4"
     }
   ],
   "unique_name": "Vallenato Full Bacano",

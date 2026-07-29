@@ -1,6 +1,6 @@
 {
   "description": "Eletr\u00f4nico energ\u00e9tico para acompanhar a sua malha\u00e7\u00e3o di\u00e1ria. ",
-  "num_followers": 355280,
+  "num_followers": 355346,
   "original_name": "Treino Eletr\u00f4nico",
   "owner": {
     "name": "Spotify",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-06-19 03:03:09",
       "album": {
-        "name": "You & Me (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/1FOMConpwgbEszaYCh8O3y"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "You & Me - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/4zedwYjb2LIdPBmfOeyXW5"
-    },
-    {
-      "added_at": "2026-06-19 03:03:09",
-      "album": {
         "name": "Believe (Sevenn Remix)",
         "url": "https://open.spotify.com/album/49yDdt1BfGEMyQPKQYvjDz"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 217920,
       "name": "Believe - Sevenn Remix",
       "url": "https://open.spotify.com/track/22iaFFYkob3pvTyDmBwxIi"
+    },
+    {
+      "added_at": "2026-06-19 03:03:09",
+      "album": {
+        "name": "You & Me (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/1FOMConpwgbEszaYCh8O3y"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 234461,
+      "name": "You & Me - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/4zedwYjb2LIdPBmfOeyXW5"
     },
     {
       "added_at": "2026-06-19 03:03:09",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-06-19 03:03:09",
       "album": {
-        "name": "079",
-        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
-      },
-      "artists": [
-        {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
-        },
-        {
-          "name": "Block Notice",
-          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "079",
-      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
-    },
-    {
-      "added_at": "2026-06-19 03:03:09",
-      "album": {
         "name": "No Roots (Radio Mix)",
         "url": "https://open.spotify.com/album/0hL1wrX9moH4mtTTpBcGso"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 173145,
       "name": "No Roots (Radio Mix)",
       "url": "https://open.spotify.com/track/4Zk8WXgdRz6iYVkrYt77nX"
+    },
+    {
+      "added_at": "2026-06-19 03:03:09",
+      "album": {
+        "name": "079",
+        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
+      },
+      "artists": [
+        {
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        },
+        {
+          "name": "Block Notice",
+          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
+        }
+      ],
+      "duration_ms": 168200,
+      "name": "079",
+      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
     },
     {
       "added_at": "2026-06-19 03:03:09",

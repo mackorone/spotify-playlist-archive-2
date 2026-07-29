@@ -1,6 +1,6 @@
 {
   "description": "canciones para chillear con D\u00ebnver y Ruzzi",
-  "num_followers": 29024,
+  "num_followers": 29022,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-07-24 19:48:57",
       "album": {
+        "name": "Querida Yo",
+        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 148037,
+      "name": "Devu\u00e9lvemela",
+      "url": "https://open.spotify.com/track/50jUh49jUa3UDt1h7xoyLU"
+    },
+    {
+      "added_at": "2026-07-24 19:48:57",
+      "album": {
         "name": "PEL\u00cdCULA",
         "url": "https://open.spotify.com/album/6lT06CuWfp72mTbXZsnN9L"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 178041,
       "name": "PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/77A3xEknQEC8hPgGVnXycm"
-    },
-    {
-      "added_at": "2026-07-24 19:48:57",
-      "album": {
-        "name": "Querida Yo",
-        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 148037,
-      "name": "Devu\u00e9lvemela",
-      "url": "https://open.spotify.com/track/50jUh49jUa3UDt1h7xoyLU"
     },
     {
       "added_at": "2026-07-24 19:48:57",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-07-24 19:48:57",
       "album": {
-        "name": "fan\u00e1tico",
-        "url": "https://open.spotify.com/album/2VpV0C1mS6pyD9hupq4RKF"
-      },
-      "artists": [
-        {
-          "name": "FaceBrooklyn",
-          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "fan\u00e1tico",
-      "url": "https://open.spotify.com/track/5V6sOlpHihLkrCWIIwHoJA"
-    },
-    {
-      "added_at": "2026-07-24 19:48:57",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2026-07-24 19:48:57",
       "album": {
+        "name": "fan\u00e1tico",
+        "url": "https://open.spotify.com/album/2VpV0C1mS6pyD9hupq4RKF"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "fan\u00e1tico",
+      "url": "https://open.spotify.com/track/5V6sOlpHihLkrCWIIwHoJA"
+    },
+    {
+      "added_at": "2026-07-24 19:48:57",
+      "album": {
         "name": "Salvando las Distancias",
         "url": "https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 235500,
       "name": "Te So\u00f1aba",
       "url": "https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE"
-    },
-    {
-      "added_at": "2026-07-24 19:48:57",
-      "album": {
-        "name": "Antes de saltar",
-        "url": "https://open.spotify.com/album/0s0qKu5A9V7uwxiAjs0Cig"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 229622,
-      "name": "Rotonda",
-      "url": "https://open.spotify.com/track/5pyrz5N78YAqu8lRWqeTTw"
     },
     {
       "added_at": "2026-07-24 19:48:57",
@@ -823,6 +807,22 @@
       "duration_ms": 148421,
       "name": "EL MENSAJERO",
       "url": "https://open.spotify.com/track/4xaA635jWzBlMROrqtaa1j"
+    },
+    {
+      "added_at": "2026-07-24 19:48:57",
+      "album": {
+        "name": "Antes de saltar",
+        "url": "https://open.spotify.com/album/0s0qKu5A9V7uwxiAjs0Cig"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 229622,
+      "name": "Rotonda",
+      "url": "https://open.spotify.com/track/5pyrz5N78YAqu8lRWqeTTw"
     },
     {
       "added_at": "2026-07-24 19:48:57",
@@ -1131,18 +1131,22 @@
     {
       "added_at": "2026-07-24 19:48:57",
       "album": {
-        "name": "Loquero Viejo",
-        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+        "name": "De M\u00ed",
+        "url": "https://open.spotify.com/album/23h6icLPD6r3lXwFIJWqEO"
       },
       "artists": [
         {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
+          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
         }
       ],
-      "duration_ms": 211460,
-      "name": "Loquero Viejo",
-      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
+      "duration_ms": 180073,
+      "name": "De M\u00ed",
+      "url": "https://open.spotify.com/track/6kaadx17OCu6h4E92Gqpu7"
     },
     {
       "added_at": "2026-07-24 19:48:57",
@@ -1163,22 +1167,18 @@
     {
       "added_at": "2026-07-24 19:48:57",
       "album": {
-        "name": "De M\u00ed",
-        "url": "https://open.spotify.com/album/23h6icLPD6r3lXwFIJWqEO"
+        "name": "Loquero Viejo",
+        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
       },
       "artists": [
         {
-          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
-          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
         }
       ],
-      "duration_ms": 180073,
-      "name": "De M\u00ed",
-      "url": "https://open.spotify.com/track/6kaadx17OCu6h4E92Gqpu7"
+      "duration_ms": 211460,
+      "name": "Loquero Viejo",
+      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
     },
     {
       "added_at": "2026-07-24 19:48:57",
@@ -1447,6 +1447,30 @@
     {
       "added_at": "2026-07-24 19:48:57",
       "album": {
+        "name": "QUIZ\u00c1S LAS HORAS SUMAN MESES",
+        "url": "https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg"
+      },
+      "artists": [
+        {
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        },
+        {
+          "name": "Donttt",
+          "url": "https://open.spotify.com/artist/65ccg4Y8XDJrm9d79pkB9D"
+        },
+        {
+          "name": "Ninja Nigro",
+          "url": "https://open.spotify.com/artist/6pHg6fuPN3sHxijUHeXiSu"
+        }
+      ],
+      "duration_ms": 178160,
+      "name": "oda al canto",
+      "url": "https://open.spotify.com/track/6gTGpSWDuLak6pyKAmuLe9"
+    },
+    {
+      "added_at": "2026-07-24 19:48:57",
+      "album": {
         "name": "YA TE CANSASTE DE MI???",
         "url": "https://open.spotify.com/album/4UcD2NoR0I5CkNRDO2Q24A"
       },
@@ -1459,26 +1483,6 @@
       "duration_ms": 162500,
       "name": "YA TE CANSASTE DE MI???",
       "url": "https://open.spotify.com/track/5MAMS7hSgxurBcNKBcRTmU"
-    },
-    {
-      "added_at": "2026-07-24 19:48:57",
-      "album": {
-        "name": "Hasta la Ra\u00edz",
-        "url": "https://open.spotify.com/album/1VtUxICnjH6N5kQTIIDXM5"
-      },
-      "artists": [
-        {
-          "name": "N1za",
-          "url": "https://open.spotify.com/artist/4d8ZfnxnDiXAMT65RrzgBa"
-        },
-        {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
-        }
-      ],
-      "duration_ms": 159285,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH"
     },
     {
       "added_at": "2026-07-24 19:48:57",
@@ -1499,6 +1503,26 @@
       "duration_ms": 232071,
       "name": "La Torpeza - Reversi\u00f3n",
       "url": "https://open.spotify.com/track/4sIakhIDONACHNWGMkTgqG"
+    },
+    {
+      "added_at": "2026-07-24 19:48:57",
+      "album": {
+        "name": "Hasta la Ra\u00edz",
+        "url": "https://open.spotify.com/album/1VtUxICnjH6N5kQTIIDXM5"
+      },
+      "artists": [
+        {
+          "name": "N1za",
+          "url": "https://open.spotify.com/artist/4d8ZfnxnDiXAMT65RrzgBa"
+        },
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 159285,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/2vfd6L6TH2H5VHIMV1rBSH"
     },
     {
       "added_at": "2026-07-24 19:48:57",
@@ -1531,30 +1555,6 @@
       "duration_ms": 247015,
       "name": "Las Cosas Simples",
       "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
-    },
-    {
-      "added_at": "2026-07-24 19:48:57",
-      "album": {
-        "name": "QUIZ\u00c1S LAS HORAS SUMAN MESES",
-        "url": "https://open.spotify.com/album/6RynSNM95iXqnzxU3UpeJg"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        },
-        {
-          "name": "Donttt",
-          "url": "https://open.spotify.com/artist/65ccg4Y8XDJrm9d79pkB9D"
-        },
-        {
-          "name": "Ninja Nigro",
-          "url": "https://open.spotify.com/artist/6pHg6fuPN3sHxijUHeXiSu"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "oda al canto",
-      "url": "https://open.spotify.com/track/6gTGpSWDuLak6pyKAmuLe9"
     },
     {
       "added_at": "2026-07-24 19:48:57",

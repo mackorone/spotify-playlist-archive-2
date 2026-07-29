@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres.\. Cover: Jason Crabb
 
-1,439 songs - 3 day 15 hr 43 min
+1,440 songs - 3 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -916,6 +916,7 @@
 | [OBSESSED](https://open.spotify.com/track/1P8d7DlFSl1M8EENCmQQ6V) | [bodie](https://open.spotify.com/artist/692n9oP6XtKux7LbSOnkSC) | [OBSESSED](https://open.spotify.com/album/3F2UElJknY4a349YxClEDE) | 2:38 | 2026-04-17 | 2026-05-30 |
 | [Oh Child](https://open.spotify.com/track/7eWB5IEjltqKJTx5nbibhk) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Real](https://open.spotify.com/album/7Jaiy3v9v7pTkamkvTxO5l) | 2:41 | 2025-09-14 | 2025-11-16 |
 | [Oh Death](https://open.spotify.com/track/1U8KGvV3UNBYomNP7taETr) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Oh Death](https://open.spotify.com/album/4nMkF8ILHhE2AUqH7sFNGZ) | 3:30 | 2025-05-17 | 2025-07-20 |
+| [Oh My Soul](https://open.spotify.com/track/4kvRVDFQazhqMk5ox7fhoB) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q) | [Oh My Soul + I Know A Name](https://open.spotify.com/album/7oqCcj5CucrhmdGA3AuXbb) | 3:55 | 2026-07-17 |  |
 | [Oh What A Friend](https://open.spotify.com/track/6Me57rRHSblLtoexHpPw7n) | [John Wesley](https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq) | [Oh What A Friend](https://open.spotify.com/album/1i2J6zD8932uZXrhrnqFhj) | 3:46 | 2024-07-26 | 2024-10-12 |
 | [OKAY!](https://open.spotify.com/track/3AqhSTSYYOm8EVMkD8tRaW) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [OKAY!](https://open.spotify.com/album/3i6UnjFI76QC3zakPBApV7) | 4:34 | 2026-05-19 | 2026-06-20 |
 | [Oklahoma](https://open.spotify.com/track/1WXHHQim1F23dML0yFIUt5) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Oklahoma](https://open.spotify.com/album/6TryrnzGC2Ud4DorIe5gZq) | 3:52 | 2026-05-29 | 2026-07-04 |
@@ -1041,7 +1042,7 @@
 | [Runs In The Blood](https://open.spotify.com/track/0VRNfCYpbLDM2QJapqw9aC) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Runs In The Blood](https://open.spotify.com/album/2koZ327e01iwRUcOEzWd69) | 3:04 | 2026-04-17 | 2026-05-30 |
 | [Rushing](https://open.spotify.com/track/7b0FkHlN93w2hyW8bBDgd7) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Rushing](https://open.spotify.com/album/2B2cpJbsP8Rx52InsAwqQk) | 1:46 | 2026-05-01 | 2026-07-04 |
 | [S.O.S.](https://open.spotify.com/track/5sokFOC8fmkSuUTb7rbOYX) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [S.O.S.](https://open.spotify.com/album/67ckMFbzbW9Xi9corJwScp) | 3:25 | 2022-10-29 | 2023-04-02 |
-| [Sacred Cross](https://open.spotify.com/track/6VVUOtppdkNUw2hlcFw9EN) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj), [Eric Lee Brumley](https://open.spotify.com/artist/4WMo8ghmpwr16jTTxWPMDx) | [Sacred Cross](https://open.spotify.com/album/3A4jDFYQgQb4xk2JesUqUr) | 3:30 | 2026-07-03 |  |
+| [Sacred Cross](https://open.spotify.com/track/6VVUOtppdkNUw2hlcFw9EN) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj), [Eric Lee Brumley](https://open.spotify.com/artist/4WMo8ghmpwr16jTTxWPMDx) | [Sacred Cross](https://open.spotify.com/album/3A4jDFYQgQb4xk2JesUqUr) | 3:30 | 2026-07-03 | 2026-07-29 |
 | [SACRED HEART](https://open.spotify.com/track/0XOlRD5Q2foFN2hCOOyZc1) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Kala](https://open.spotify.com/artist/1u94nEnxIMhDOMOScTHVTr) | [M.I.7](https://open.spotify.com/album/6TGoIu9hPSLt2fYgdThVKD) | 2:51 | 2026-04-17 | 2026-05-30 |
 | [Safe](https://open.spotify.com/track/4pOlyNWBQeWZwYoqnQHwEB) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Journey](https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ) | 4:38 | 2022-10-29 | 2024-01-25 |
 | [Safe \(Valley of the Shadows\)](https://open.spotify.com/track/5fkUB4deSswcEKywDpLqf0) | [Michael Boggs](https://open.spotify.com/artist/0MaRReMCf3gva8ztJid7Le) | [Safe \(Valley of the Shadows\)](https://open.spotify.com/album/4tKgtYtA4iIdGLcX0RIXoq) | 3:38 | 2026-07-03 | 2026-07-18 |

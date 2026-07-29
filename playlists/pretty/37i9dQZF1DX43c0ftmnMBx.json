@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto s\u00ed es Bachata! Portada: Manuel Turizo",
-  "num_followers": 272869,
+  "num_followers": 272920,
   "original_name": "Bachat\u00e9ame",
   "owner": {
     "name": "Spotify",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-08-23 04:59:00",
       "album": {
-        "name": "Ironia",
-        "url": "https://open.spotify.com/album/6KjK5fJcSWe7sayESVW6VB"
-      },
-      "artists": [
-        {
-          "name": "Andy Andy",
-          "url": "https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "A Quien Le Importa (Versi\u00f3n Bachata)",
-      "url": "https://open.spotify.com/track/0PjlzKDwfuFVpvCT2Ev7KO"
-    },
-    {
-      "added_at": "2024-08-23 04:59:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 194481,
       "name": "Decid\u00ed",
       "url": "https://open.spotify.com/track/3njDbyJILSgFmUkvztIw4h"
+    },
+    {
+      "added_at": "2024-08-23 04:59:00",
+      "album": {
+        "name": "Ironia",
+        "url": "https://open.spotify.com/album/6KjK5fJcSWe7sayESVW6VB"
+      },
+      "artists": [
+        {
+          "name": "Andy Andy",
+          "url": "https://open.spotify.com/artist/6uEyybDR7K1r88t6iT1oBw"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "A Quien Le Importa (Versi\u00f3n Bachata)",
+      "url": "https://open.spotify.com/track/0PjlzKDwfuFVpvCT2Ev7KO"
     },
     {
       "added_at": "2024-08-23 04:59:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Hayku Kyah",
+  "description": "The best new music by independent artists and labels. Cover: kuudere",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -1946,6 +1946,24 @@
       "duration_ms": 205264,
       "name": "Ae Fond Kiss",
       "url": "https://open.spotify.com/track/6ljx6NhqAQmeNKyDF7KysB"
+    },
+    {
+      "album": {
+        "name": "AERO",
+        "url": "https://open.spotify.com/album/27ZmXQD01qcyQt0IzqejoU"
+      },
+      "artists": [
+        {
+          "name": "Jack Slade",
+          "url": "https://open.spotify.com/artist/2r06l2uzBPilIAxHkx9QG6"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "AERO",
+      "url": "https://open.spotify.com/track/0EHp2LcDveg4D2VftxHVXP"
     },
     {
       "album": {
@@ -5418,6 +5436,24 @@
       "duration_ms": 224762,
       "name": "Back To Texas",
       "url": "https://open.spotify.com/track/0DQnd5ztyLJWc4TCZCDaC1"
+    },
+    {
+      "album": {
+        "name": "back to that",
+        "url": "https://open.spotify.com/album/6sEPukZElEr0TENWNVVpOi"
+      },
+      "artists": [
+        {
+          "name": "RENA\u00c9",
+          "url": "https://open.spotify.com/artist/7N3wFi8QWEFeUQrtBJpmpq"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148474,
+      "name": "back to that",
+      "url": "https://open.spotify.com/track/0L8BBM0QZ9TuvC0Vq1Mmhw"
     },
     {
       "album": {
@@ -17592,7 +17628,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 263762,
       "name": "Daydreams In School",
       "url": "https://open.spotify.com/track/7pIzIBdyEG7pwL6eSkmtp3"
@@ -22752,6 +22788,28 @@
       "duration_ms": 162069,
       "name": "Eternal Crush",
       "url": "https://open.spotify.com/track/0ZLCrlcKHqNrH9j3WExZah"
+    },
+    {
+      "album": {
+        "name": "etsy spells (feat. thatboykwame)",
+        "url": "https://open.spotify.com/album/1eGv3qVMDl6vSS4gigOvjP"
+      },
+      "artists": [
+        {
+          "name": "Medhanit",
+          "url": "https://open.spotify.com/artist/6d47pDeW16qbk4CiGFkmW7"
+        },
+        {
+          "name": "thatboykwame",
+          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "etsy spells (feat. thatboykwame)",
+      "url": "https://open.spotify.com/track/45YnTjcj5Y7HcklUJNG9lX"
     },
     {
       "album": {
@@ -31732,7 +31790,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 186635,
       "name": "Hard To Love",
       "url": "https://open.spotify.com/track/4t8I0XRryTQ5Db3bBvbtDj"
@@ -38442,6 +38500,28 @@
     {
       "album": {
         "name": "In Your Arms",
+        "url": "https://open.spotify.com/album/2BcOKl6jn0CtTA0qIn94Sb"
+      },
+      "artists": [
+        {
+          "name": "Homage",
+          "url": "https://open.spotify.com/artist/6JmKRNKDLwfCtf5pUn6vRN"
+        },
+        {
+          "name": "Brent Honey",
+          "url": "https://open.spotify.com/artist/0UQQORhMGFClKpoARZLTP9"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "In Your Arms",
+      "url": "https://open.spotify.com/track/0EM9cSzmxq37esPRggDy8h"
+    },
+    {
+      "album": {
+        "name": "In Your Arms",
         "url": "https://open.spotify.com/album/1P6oYn2wbWX4P6iGNaBvNU"
       },
       "artists": [
@@ -38662,7 +38742,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 203141,
       "name": "ingrained",
       "url": "https://open.spotify.com/track/0z8c9tITOflVHvum6znURZ"
@@ -44620,7 +44700,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 223919,
       "name": "Lose My Faith",
       "url": "https://open.spotify.com/track/6aMkYzUS4zih0w3ZDmRaHj"
@@ -57516,7 +57596,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 189391,
       "name": "Pick Up The Pace",
       "url": "https://open.spotify.com/track/6yP1PjlAXzDEdJfmjXDlcf"
@@ -57538,6 +57618,24 @@
       "duration_ms": 227813,
       "name": "Picture Me",
       "url": "https://open.spotify.com/track/6B1HGmcGiLmDOvD96J9cKP"
+    },
+    {
+      "album": {
+        "name": "pictures",
+        "url": "https://open.spotify.com/album/5MT18i1LkPsKk76ZeH2Tz8"
+      },
+      "artists": [
+        {
+          "name": "kuudere",
+          "url": "https://open.spotify.com/artist/1OhN2StoiEjQmsLCbjpgpa"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172307,
+      "name": "pictures",
+      "url": "https://open.spotify.com/track/3DRd90F0ZQUqykRyygDMja"
     },
     {
       "album": {
@@ -61168,7 +61266,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 185742,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/66PKx8UjBJtOsZFUytpUns"
@@ -63666,7 +63764,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 323198,
       "name": "Sanity",
       "url": "https://open.spotify.com/track/0yGZWIBojuCCebat8AA0HW"
@@ -64920,6 +65018,24 @@
       "duration_ms": 152181,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/66CRYyByTdOJzujDah4J0e"
+    },
+    {
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/7DJJ33l9mlkWE3cuMUaR1Y"
+      },
+      "artists": [
+        {
+          "name": "GRUB",
+          "url": "https://open.spotify.com/artist/66GRbUYE1YuX6pkchfN64v"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182252,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5a9uDWFBjgv51iODOnxRAx"
     },
     {
       "album": {
@@ -68945,6 +69061,24 @@
     },
     {
       "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/16Q3WVNCgCYR0lZLGebpmO"
+      },
+      "artists": [
+        {
+          "name": "Jaycee",
+          "url": "https://open.spotify.com/artist/4WdCJv1slB2FtXiCbBz9tZ"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224625,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/7rGUjiE56gyaOA9DRe4XUn"
+    },
+    {
+      "album": {
         "name": "Speed Dial",
         "url": "https://open.spotify.com/album/1BCfFtC7MA5CB7OAXyA1aP"
       },
@@ -71601,6 +71735,28 @@
     },
     {
       "album": {
+        "name": "surfers paradise",
+        "url": "https://open.spotify.com/album/1PukevV7jTGnykNCL2WIzW"
+      },
+      "artists": [
+        {
+          "name": "Jamie Rose",
+          "url": "https://open.spotify.com/artist/3IPL3c3bGlUphVSWCPmYQa"
+        },
+        {
+          "name": "Rose Woods",
+          "url": "https://open.spotify.com/artist/2oBLjp9Npiv8h4wFliugcw"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137533,
+      "name": "surfers paradise",
+      "url": "https://open.spotify.com/track/5PjWmgbeMBiidppGE0oVxX"
+    },
+    {
+      "album": {
         "name": "Suspended Disbelief",
         "url": "https://open.spotify.com/album/5ocoNwK1sr0lgLaY8Gz6Xo"
       },
@@ -73210,6 +73366,24 @@
       "duration_ms": 247112,
       "name": "Tenpin Haven",
       "url": "https://open.spotify.com/track/037GCaGsFkiqvMRRszTMrk"
+    },
+    {
+      "album": {
+        "name": "Tequila & Mexico",
+        "url": "https://open.spotify.com/album/5nYwKPwrQMQiPI1kGYmbdh"
+      },
+      "artists": [
+        {
+          "name": "Sarah Grace Buckley",
+          "url": "https://open.spotify.com/artist/1R6FiDaGeY3QAOW2mrlZwe"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184989,
+      "name": "Tequila & Mexico",
+      "url": "https://open.spotify.com/track/1kcpnSNyviMBWCIQgRL8sN"
     },
     {
       "album": {
@@ -77890,7 +78064,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 308545,
       "name": "Turning Point",
       "url": "https://open.spotify.com/track/0dPJFiFtHFNOMpcXg7iWY5"
@@ -82256,7 +82430,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 210000,
       "name": "What You Do",
       "url": "https://open.spotify.com/track/6Yc79MqvwiUdekS4Gs83xa"

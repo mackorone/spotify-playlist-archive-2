@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Camilo & Evaluna Montaner
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,759 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,703 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 45 | [Cómo Poder Olvidar \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 |
 | 46 | [Volvernos a Encontrar](https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Volvernos a Encontrar](https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1) | 3:06 |
 | 47 | [Doy Gracias Por Ti](https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Emily Estefan](https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya), [Sasha Estefan\-Coppola](https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN) | [Estefan Family Christmas](https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk) | 4:03 |
-| 48 | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4) | 4:02 |
-| 49 | [Navidad Contigo](https://open.spotify.com/track/481jZRK94eCVslwavhdY8n) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Jean & Alex](https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V) | [Navidad Contigo](https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn) | 3:08 |
+| 48 | [Navidad Contigo](https://open.spotify.com/track/481jZRK94eCVslwavhdY8n) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Jean & Alex](https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V) | [Navidad Contigo](https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn) | 3:08 |
+| 49 | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Emanuel \- Spotify Singles Holiday](https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4) | 4:02 |
 | 50 | [Una Noche Especial](https://open.spotify.com/track/0qcZMcD883yjJEhtLGFGld) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [Jos Canela](https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie), [Jan Toussaint](https://open.spotify.com/artist/06P2GxwZopjaQnNABcoPSE) | [Una Noche Especial](https://open.spotify.com/album/7B9p0KkvYqajCmj2jZFkUd) | 3:09 |
 | 51 | [Querido Santa Claus](https://open.spotify.com/track/1pCmabA7RFtLkDv4wQLtZn) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Querido Santa Claus](https://open.spotify.com/album/2VsVlL1ru5VlJm6WBO3vxI) | 3:22 |
 | 52 | [La Navidad Comenzó](https://open.spotify.com/track/0EUjKWaJ3CgAWbNDJ2DkDd) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [La Navidad Comenzó](https://open.spotify.com/album/0hAbjmOFoi35grgTjnQjU2) | 3:19 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 56 | [Con Mi Coqueta](https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Con Mi Coqueta](https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj) | 3:36 |
 | 57 | [A La Nanita Nana](https://open.spotify.com/track/2yQFbnF3c4ttqx5G02ub49) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya Es Navidad](https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf) | 2:18 |
 | 58 | [Contigo](https://open.spotify.com/track/6bCrvUh7PWvHn1Wnbu4Vsi) | [selines](https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb) | [Contigo](https://open.spotify.com/album/6zo0N2JbFT7dfaHpY5ShpX) | 2:23 |
-| 59 | [El Año Que Vendrá Querido Amigo](https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Emmanuel Jingle Bell Rocks](https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55) | 5:25 |
-| 60 | [triste navidad](https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [triste navidad](https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z) | 3:15 |
+| 59 | [triste navidad](https://open.spotify.com/track/4jqg6EpmCWFrBMxlamseYv) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [triste navidad](https://open.spotify.com/album/1MarJFeivJhtymWJdzQs6z) | 3:15 |
+| 60 | [El Año Que Vendrá Querido Amigo](https://open.spotify.com/track/18eH7YZhoIrTX0vp5mLjM9) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Emmanuel Jingle Bell Rocks](https://open.spotify.com/album/0H4AsgaAU7WqbtTvj2ah55) | 5:25 |
 | 61 | [Duende](https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [La Marisoul](https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE) | [Duende](https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq) | 2:46 |
 | 62 | [Navidad](https://open.spotify.com/track/2Qb16NRF8oWi7TMlt8vlQS) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Navidad](https://open.spotify.com/album/25k4Ptse4uzo6Oiy9Vnmgu) | 3:01 |
 | 63 | [Muñeco de Nieve](https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV) | [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [Muñeco de Nieve](https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ) | 2:50 |

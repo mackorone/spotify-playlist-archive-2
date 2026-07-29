@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 470 likes - 262 songs - 13 hr 34 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 469 likes - 289 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -270,5 +270,32 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 260 | [Afterglow](https://open.spotify.com/track/6joZMaA0jgErUZYz4XATrs) | [Thyna](https://open.spotify.com/artist/6oI2fuOQd9B1Zd6RRhXGSs) | [Afterglow](https://open.spotify.com/album/4lGr5BV37Uhmt51OQqCdsV) | 4:01 |
 | 261 | [God & Man](https://open.spotify.com/track/5L4om6Aajeqw1osUWnh2OR) | [EMCKON](https://open.spotify.com/artist/2izdUHqabTlKjf3AnMuFNU) | [God & Man](https://open.spotify.com/album/4TjaWcZCZP4nHXf7jPf5hc) | 2:52 |
 | 262 | [GARDEN PARADISE \- Prod\. Marc Qzh](https://open.spotify.com/track/03LNDRC1VcAA7CofqOnisU) | [KING BALAM](https://open.spotify.com/artist/0QEjQD5QCqqLQmc77TdsHI), [Mc Foyeck](https://open.spotify.com/artist/1AdHO4SiLUjmczfkAgGCSI) | [GARDEN PARADISE \(Prod\. Marc Qzh\)](https://open.spotify.com/album/0YPcmdHiExeKyqq6ZfIElh) | 2:01 |
+| 263 | [Sinking](https://open.spotify.com/track/3Z3K1JV97cygR4JJ0Z3fWn) | [The Mars Glasses](https://open.spotify.com/artist/78BEvlS7UuXEJnyY7XMqG1) | [Sinking](https://open.spotify.com/album/6baxVe1yaBAAYovSjx7Wkq) | 5:01 |
+| 264 | [Serve It Up 4 U](https://open.spotify.com/track/78XmhF2QfN3rHwQOt5cyNu) | [SPADE](https://open.spotify.com/artist/3bOblp39nDiOMSVuNClZLa) | [Magnolia](https://open.spotify.com/album/2xykzGdLfbV2dz3TuaP8jW) | 2:46 |
+| 265 | [For My City](https://open.spotify.com/track/3EyTjNeeWp3sBhB1hsnaNc) | [Youngtrev](https://open.spotify.com/artist/4RxCayrocidQJiZi9uFUn5) | [For My City](https://open.spotify.com/album/2KCtC3HZNLUYNeT1VPLysT) | 2:20 |
+| 266 | [Cantos y cantaletas](https://open.spotify.com/track/151vspuLzCEDlM3xgN1vl4) | [wezconzeta](https://open.spotify.com/artist/1eIFyGwFvtvyKGCX5ACYK5), [Eddy Ballester](https://open.spotify.com/artist/31uTlsIzQtJfv6j1EaE6on) | [Cantos y cantaletas](https://open.spotify.com/album/389yZRH8cEjUYanHPEQMI9) | 2:41 |
+| 267 | [Let's Start It Over, That's What You Said in My Dreams](https://open.spotify.com/track/5MyZUjW43LldfdZFEOC3LG) | [Tom Ishizuka](https://open.spotify.com/artist/0eqRo2tB43csWnhKsWUCNS) | [Let's Start It Over, That's What You Said in My Dreams](https://open.spotify.com/album/5itpHjZki7CrKei3aQcUpn) | 3:48 |
+| 268 | [MIRAGE](https://open.spotify.com/track/3s2ZglPu4Wo3HHBgtc8lbN) | [Harshit Sankhla](https://open.spotify.com/artist/3Eig60AHDc5J7tJW2JgH1D) | [MIRAGE](https://open.spotify.com/album/3C7pz7TRStHQcp317aM6If) | 2:48 |
+| 269 | [BIMMA](https://open.spotify.com/track/0N3ay0NW33bsbfOds4HD4j) | [AME](https://open.spotify.com/artist/6QoVi8LaBxXTAXZVVfJpLV) | [BIMMA](https://open.spotify.com/album/6lYIWN98PypZoOdoGyvg2v) | 2:57 |
+| 270 | [Way](https://open.spotify.com/track/6KLOrYcWx5D4fm3oGvTBEP) | [Foad Jafari](https://open.spotify.com/artist/0bD1tTxPLVkAFvaHliwAnk) | [Way](https://open.spotify.com/album/5DyrBT1slzCwNfjsSy96CS) | 2:47 |
+| 271 | [La prospettiva](https://open.spotify.com/track/5tintKyv4YymJK9l0tl2lY) | [Olda](https://open.spotify.com/artist/02Yce6Eg1kyRM4c20hNQac) | [La prospettiva](https://open.spotify.com/album/2aTXvKeSCpc20J1pfT8BiD) | 2:43 |
+| 272 | [Gaji Numpang Lewat](https://open.spotify.com/track/6Hldvw3YBpbTVp2fPPxBqV) | [Ekzyn](https://open.spotify.com/artist/5dOwX8MwOo9ukIh3hZOMFS) | [Gaji Numpang Lewat](https://open.spotify.com/album/6KfBPj44uugIQNaOHPGBzu) | 1:58 |
+| 273 | [Evolving](https://open.spotify.com/track/6CaRpsX1ADOKkLgQf6QZWq) | [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU), [Swell Fellow](https://open.spotify.com/artist/3M1JXFJCHoTm0hzU46Lrc5) | [Evolving](https://open.spotify.com/album/6NYtwgykgqykifPTat5MXa) | 1:55 |
+| 274 | [I Need U Remix \- Halceon Daze Remix](https://open.spotify.com/track/5Qs5XJfVOhPgEMNKCCWqkd) | [Caitlin Min Fa](https://open.spotify.com/artist/565069ngyR6iaT7IWzIwyr), [Halceon Daze](https://open.spotify.com/artist/4AwHm1rrq2TByfh29gD6Mg) | [I Need U Remix \(Halceon Daze Remix\)](https://open.spotify.com/album/6egPzh8RzXt3F2yW1mYPQ0) | 3:34 |
+| 275 | [Hikari no Kaze](https://open.spotify.com/track/0swQBumvtaTnO1Vt1uZXAZ) | [Oscar Salguero](https://open.spotify.com/artist/2HeIyb1sLJQoDPGLQmDNBo) | [Hikari no Kaze](https://open.spotify.com/album/2rYKqg3Q0Ee6pmdegO8rdu) | 3:04 |
+| 276 | [Classic](https://open.spotify.com/track/7GtZYfji5w8ixI0z0z3tsx) | [Sid Severino](https://open.spotify.com/artist/6coP1aOT3tEsfwbIjGRRB7), [Slice](https://open.spotify.com/artist/3gBVPJA5ddwWRf5mmk4Zyr) | [Classic](https://open.spotify.com/album/616jo69nQHsTVkk5lcsSce) | 3:35 |
+| 277 | [If i head the power](https://open.spotify.com/track/688DMcmA8litf0E32GchvH) | [Nick Spek](https://open.spotify.com/artist/1s6jcfFgHTn4MRxGhxm0qF) | [In to the club](https://open.spotify.com/album/34it9LTA4PnmsPx1H5ZZTl) | 4:08 |
+| 278 | [Vice City](https://open.spotify.com/track/4WoI1ohaP3Xq1BHTac9iIX) | [Nwayo](https://open.spotify.com/artist/4stTSydnRBYfIIT87BKuvV), [Mwana Pyro](https://open.spotify.com/artist/3qyUiasqvoWM5DMuF8y3uK), [Amarouka](https://open.spotify.com/artist/6lEUIMlGdAE7PHdg1tPxgt), [Semzo](https://open.spotify.com/artist/6B5ZIMPRas4DEOC5j9mGii) | [Space](https://open.spotify.com/album/1fSwrlTYvwleVdZDU62lt0) | 2:40 |
+| 279 | [ROCK LEE V3](https://open.spotify.com/track/5BH5tAz0M9G9KkU0calSvY) | [NINE](https://open.spotify.com/artist/403x50nGEcXVzPA7DNt2hW) | [ROCK LEE V3](https://open.spotify.com/album/40QqObNcBBkMx2oTYbWQDf) | 1:56 |
+| 280 | [Red](https://open.spotify.com/track/1nHbcuZgDFlzl3nSzyKDP8) | [Traibal](https://open.spotify.com/artist/4i0IuCytfQc31TpUfEkHDH) | [Red](https://open.spotify.com/album/29Pgnwt520inhPBgYzKOy4) | 2:35 |
+| 281 | [Mindscape](https://open.spotify.com/track/6ejxbViQKGi9qCshrYHSXV) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Mindscape](https://open.spotify.com/album/78DGsfpSzT2rCWwc88mSja) | 1:49 |
+| 282 | [Killua](https://open.spotify.com/track/6mgFssnrdG7RI1devrQpdA) | [P.A.C\. 7](https://open.spotify.com/artist/4xYTZFwBIsZqSuYLRzNIGF), [RD'RUA](https://open.spotify.com/artist/3OXf6n1Ia1Lrx41WQBr1A4), [MV PTK](https://open.spotify.com/artist/1UfHfs7fNHz0C1lomxWFSH) | [Killua](https://open.spotify.com/album/3uWnuaEGm93RWuAa3n6tFm) | 3:41 |
+| 283 | [Jogador](https://open.spotify.com/track/3xZAQ7dHASXGXqZt8MfQek) | [RD'RUA](https://open.spotify.com/artist/3OXf6n1Ia1Lrx41WQBr1A4) | [Jogador](https://open.spotify.com/album/75Jj4zOcPd2DmsbwfTOlpr) | 2:40 |
+| 284 | [Another Dollar](https://open.spotify.com/track/2gByax68LtQEIehb8PLAqM) | [Scottychams](https://open.spotify.com/artist/0RIgbSGmvIIbvL2yjQxcfm) | [If I Wasn't Me](https://open.spotify.com/album/6jhE0HsUeFFIhlTlNqd5ek) | 4:01 |
+| 285 | [FAMILY AND FOES](https://open.spotify.com/track/58vXnVJ38CIN4EE2hyAJU5) | [Maffy Miller](https://open.spotify.com/artist/5KJRm0D0rqtorpRX137abW) | [Emotions & Pain](https://open.spotify.com/album/0px3LsRHDYyklAZNKGwqGb) | 2:30 |
+| 286 | [Abastecendo o Estoque](https://open.spotify.com/track/4K6R3Z5wfscmLr3yAXKPko) | [Tchurran](https://open.spotify.com/artist/4SSe2iJKwLBp6LKtWpyFiX) | [Abastecendo o Estoque](https://open.spotify.com/album/2rQwmQSsSYCAyoNRWBlisP) | 2:22 |
+| 287 | [Hustle Mood](https://open.spotify.com/track/6VluHnIhqJVfI3AaYEKbx0) | [Chi Official](https://open.spotify.com/artist/0W2H1inrVCfZv8jt7az3gf), [Vidic](https://open.spotify.com/artist/0Nr1t4Ftzzt6fXTuXspYJZ) | [Hustle Mood](https://open.spotify.com/album/3fZJIeUlGBa8bFP8keD69H) | 2:25 |
+| 288 | [Bul](https://open.spotify.com/track/0tBb9eu461pXFKov9n6eJz) | [Falko](https://open.spotify.com/artist/3lGrOeydURHEYbkYguZOi4) | [Bul](https://open.spotify.com/album/43GDmTHoGwoLZNg6LnpoHq) | 1:22 |
+| 289 | [When It Comes My Way](https://open.spotify.com/track/57hVO6knZIXkHRV1nxYGAP) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [When It Comes My Way](https://open.spotify.com/album/1mvmlh5yZgm1W7IMnAhVV3) | 3:10 |
 
-Snapshot ID: `AAAeHy4eDVzFUgzUfVMyxy9GY1Dx1S36`
+Snapshot ID: `AAAeOifhvL/cMJWfE//No+NsRc6oH4TV`

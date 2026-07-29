@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAACLGztdiDm3kmGPUOsPqo+U",
+  "snapshot_id": "amafgAAAAAC7Qv+UvQ9gFFjiDChBtOYX",
   "tracks": [
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 477000,
-      "name": "Curve Traces of Held Space",
-      "url": "https://open.spotify.com/track/6owxzv6fdXeMfqFRtjuUgB"
+      "duration_ms": 730477,
+      "name": "Strait of Phase",
+      "url": "https://open.spotify.com/track/4IywKZMcRrWHSmDeGekJB2"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 730477,
-      "name": "Strait of Phase",
-      "url": "https://open.spotify.com/track/4IywKZMcRrWHSmDeGekJB2"
+      "duration_ms": 477000,
+      "name": "Curve Traces of Held Space",
+      "url": "https://open.spotify.com/track/6owxzv6fdXeMfqFRtjuUgB"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
         }
       ],
-      "duration_ms": 215686,
-      "name": "Between",
-      "url": "https://open.spotify.com/track/5j5VDv8LB0pTvcewHO7b2q"
+      "duration_ms": 123903,
+      "name": "Equal Exchange",
+      "url": "https://open.spotify.com/track/76oCgSqT7J9T6UlSUtPD1Q"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inscriptions, Vol. 3",
-        "url": "https://open.spotify.com/album/4xjqtaDrXhWVPHZzB5pMfq"
-      },
-      "artists": [
-        {
-          "name": "Kara-Lis Coverdale",
-          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Buried Trig",
-      "url": "https://open.spotify.com/track/0cmTYyCmYFOQjrR94Qph4A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A 480",
         "url": "https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Inscriptions, Vol. 3",
+        "url": "https://open.spotify.com/album/4xjqtaDrXhWVPHZzB5pMfq"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Buried Trig",
+      "url": "https://open.spotify.com/track/0cmTYyCmYFOQjrR94Qph4A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A 480",
         "url": "https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm"
       },
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 494634,
-      "name": "Disney",
-      "url": "https://open.spotify.com/track/5MkuEX1acmkliCnJggxXgo"
+      "duration_ms": 334750,
+      "name": "Buffering landscape",
+      "url": "https://open.spotify.com/track/0DeNECMRpIJFEhPNR0Uf9l"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A 480",
+        "url": "https://open.spotify.com/album/4vYhuBSKCeJ6DcARcvS1Fm"
+      },
+      "artists": [
+        {
+          "name": "Kara-Lis Coverdale",
+          "url": "https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA"
+        }
+      ],
+      "duration_ms": 951999,
+      "name": "A 477",
+      "url": "https://open.spotify.com/track/1zpArFIlQ4ZS2j5PFa86al"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/6en5BWb6TtVh1g7LqMIXol"
       },
@@ -704,9 +720,9 @@
           "url": "https://open.spotify.com/artist/1hPsIMuL2e8gJ0CvjoVYTY"
         }
       ],
-      "duration_ms": 334750,
-      "name": "Buffering landscape",
-      "url": "https://open.spotify.com/track/0DeNECMRpIJFEhPNR0Uf9l"
+      "duration_ms": 494634,
+      "name": "Disney",
+      "url": "https://open.spotify.com/track/5MkuEX1acmkliCnJggxXgo"
     }
   ],
   "unique_name": "This Is Kara-Lis Coverdale",

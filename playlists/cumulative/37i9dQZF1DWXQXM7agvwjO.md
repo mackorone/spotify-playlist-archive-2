@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Andr \(Taiwan\)
 
-2,720 songs - 6 day 22 hr 3 min
+2,721 songs - 6 day 22 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -806,6 +806,7 @@
 | [Giấc Mơ Của Loài Người](https://open.spotify.com/track/5YIUwtuaP3UXrYP8igpgKI) | [Dấu Vân Tay](https://open.spotify.com/artist/5kaUXaq4b8Zx541TKeNSIR) | [Giấc Mơ Của Loài Người](https://open.spotify.com/album/30Le3CdtrAkUfqGV0H5zhB) | 4:21 | 2024-02-15 | 2024-04-05 |
 | [Glacial](https://open.spotify.com/track/4tidPc7OulW5mIUc17zQ5q) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn), [Tesla Manaf](https://open.spotify.com/artist/6LkomW0B7xs6zolDBJRUFt) | [Behind Closed Doors](https://open.spotify.com/album/7bkkv7vSkSYtgfQOb8nF0X) | 4:29 | 2025-10-16 | 2025-11-08 |
 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-02-08 | 2024-06-01 |
+| [Globster](https://open.spotify.com/track/6wzqRDp5s7g7zkR8k6r4Gw) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [健忘者たち（Dry Echoes Remix）](https://open.spotify.com/album/72Vxn5utzTQ3SNJAcKODXs) | 2:43 | 2026-07-24 |  |
 | [Glossolalia](https://open.spotify.com/track/0e3M8id1IbLwmh9GbqmyGD) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg), [Motion Graphics](https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi) | [Glossolalia](https://open.spotify.com/album/3TPLvW4xsgo9V3ce3fPaY2) | 4:19 | 2025-02-13 | 2025-02-28 |
 | [glow](https://open.spotify.com/track/5mZo3Q91x343f30VaNGN5q) | [ddbb](https://open.spotify.com/artist/1E4s0fq7husnFP7LVQCtPm) | [glow](https://open.spotify.com/album/4lVFscTohMpTPU2DLT0gyo) | 2:58 | 2025-07-03 | 2025-08-29 |
 | [GLOW](https://open.spotify.com/track/1MRhw4HEvW91cQjI8RJY4I) | [OJ Law](https://open.spotify.com/artist/6tjfwkm7IWjpqtMBWckfHd) | [GLOW](https://open.spotify.com/album/0Ve0dsgwKoAZy5lRdIhpha) | 3:49 | 2025-02-13 | 2025-03-07 |

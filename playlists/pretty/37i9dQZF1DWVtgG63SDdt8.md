@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Koryn Hawthorne
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,669 likes - 99 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,694 likes - 99 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 18 | [Give Me Joy](https://open.spotify.com/track/65g5hAMnsr9Zug4vGWrPgS) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Give Me Joy](https://open.spotify.com/album/6sTnl17phWJeWoEMOm3wQ7) | 4:43 |
 | 19 | [Road Less Traveled](https://open.spotify.com/track/4B9rtS3inS4qsmbEB8ysGl) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Road Less Traveled](https://open.spotify.com/album/3N003bQiYF4NymTauky8B3) | 3:03 |
 | 20 | [I Choose You](https://open.spotify.com/track/4ImYwWNSHx1jL4dbkTkBGq) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [I Choose You](https://open.spotify.com/album/4oQRJhp3GE6X6HS9r0LdIb) | 4:17 |
-| 21 | [give + take](https://open.spotify.com/track/1IJE2gUInKnEGb1n8ejasF) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [give + take](https://open.spotify.com/album/5JdrLRSKjDwu0FUz7MlmO3) | 7:07 |
+| 21 | [give + take \- Live](https://open.spotify.com/track/1IJE2gUInKnEGb1n8ejasF) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [give + take \(Live\)](https://open.spotify.com/album/5JdrLRSKjDwu0FUz7MlmO3) | 7:07 |
 | 22 | [Only My God Can \(feat\. Destiny Barber\)](https://open.spotify.com/track/0clCuD4xxFJhpkJbMDyDYF) | [Seacoast](https://open.spotify.com/artist/0x6XZndsBaAe2jNT5j3VHv), [Destiny Barber](https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq) | [Only My God Can \(feat\. Destiny Barber\)](https://open.spotify.com/album/7FgOdOqaJe4Rsjfr65QFHC) | 4:38 |
 | 23 | [O God my God](https://open.spotify.com/track/10zxoAPBl9U10713hGEWJu) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Katy Weirich](https://open.spotify.com/artist/3QubzJpthCbzrOI1bisB0d) | [Psalm 43](https://open.spotify.com/album/4DDud46cZi73evn1oHAiP6) | 4:28 |
 | 24 | [The Lifter Of My Head \- Live](https://open.spotify.com/track/6uugwAHGRKmCGX7muVsRK5) | [Noah Paul Harrison](https://open.spotify.com/artist/3n04pKYj4LrOJ9eUsQGXn4), [Aubree Archibeck](https://open.spotify.com/artist/604TmIQowwYB89ZXdgnc8t) | [The Lifter Of My Head \(Live\)](https://open.spotify.com/album/2zvlCmBu5TGycxbBvvkicN) | 4:15 |

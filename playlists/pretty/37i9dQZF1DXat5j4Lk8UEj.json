@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 474676,
+  "num_followers": 474642,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "My Morning Jacket",
+        "url": "https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "duration_ms": 222093,
+      "name": "Love Love Love",
+      "url": "https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Strangers No More, Vol. 2",
         "url": "https://open.spotify.com/album/4Ua7vrpUY0iD6DaP2qyyQb"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 198266,
       "name": "Green Light",
       "url": "https://open.spotify.com/track/1Dwe3stHagI1NLezeHLK9k"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "My Morning Jacket",
-        "url": "https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl"
-      },
-      "artists": [
-        {
-          "name": "My Morning Jacket",
-          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
-        }
-      ],
-      "duration_ms": 222093,
-      "name": "Love Love Love",
-      "url": "https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
+        "name": "Never Makes a Sound",
+        "url": "https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Terrell",
+          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
+        }
+      ],
+      "duration_ms": 240260,
+      "name": "Never Makes a Sound",
+      "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
         "name": "Passage Du Desir",
         "url": "https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 317333,
       "name": "Right Kind of Dream",
       "url": "https://open.spotify.com/track/4bvsXc61sKgQ8eqrb6Mqhr"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
-        "name": "Never Makes a Sound",
-        "url": "https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Terrell",
-          "url": "https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3"
-        }
-      ],
-      "duration_ms": 240260,
-      "name": "Never Makes a Sound",
-      "url": "https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV"
     },
     {
       "added_at": "2025-02-07 05:00:32",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-02-07 05:00:32",
       "album": {
-        "name": "Strange to Explain [More Strange (Deluxe Edition)]",
-        "url": "https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG"
-      },
-      "artists": [
-        {
-          "name": "Woods",
-          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
-        }
-      ],
-      "duration_ms": 231359,
-      "name": "Daylight Push",
-      "url": "https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV"
-    },
-    {
-      "added_at": "2025-02-07 05:00:32",
-      "album": {
         "name": "Starting from Scratch",
         "url": "https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 189425,
       "name": "Starting from Scratch",
       "url": "https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs"
+    },
+    {
+      "added_at": "2025-02-07 05:00:32",
+      "album": {
+        "name": "Strange to Explain [More Strange (Deluxe Edition)]",
+        "url": "https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG"
+      },
+      "artists": [
+        {
+          "name": "Woods",
+          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
+        }
+      ],
+      "duration_ms": 231359,
+      "name": "Daylight Push",
+      "url": "https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV"
     },
     {
       "added_at": "2025-02-07 05:00:32",

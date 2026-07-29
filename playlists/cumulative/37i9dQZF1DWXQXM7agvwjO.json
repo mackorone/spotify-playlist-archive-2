@@ -15021,6 +15021,24 @@
     },
     {
       "album": {
+        "name": "\u5065\u5fd8\u8005\u305f\u3061\uff08Dry Echoes Remix\uff09",
+        "url": "https://open.spotify.com/album/72Vxn5utzTQ3SNJAcKODXs"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163041,
+      "name": "Globster",
+      "url": "https://open.spotify.com/track/6wzqRDp5s7g7zkR8k6r4Gw"
+    },
+    {
+      "album": {
         "name": "Glossolalia",
         "url": "https://open.spotify.com/album/3TPLvW4xsgo9V3ce3fPaY2"
       },

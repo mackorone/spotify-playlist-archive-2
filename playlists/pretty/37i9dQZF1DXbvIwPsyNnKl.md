@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: kiddotin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,603 likes - 52 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,670 likes - 52 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ayoko Maging Kaibigan](https://open.spotify.com/track/6AIACiACh45NhUyAWKwqql) | [kiddotin](https://open.spotify.com/artist/3xiz68yzDrgtVF0ikJ3dQL) | [Ayoko Maging Kaibigan](https://open.spotify.com/album/4Ys1gxmMQim8Zay3p9UNhf) | 2:46 |
 | 2 | [FeedxCortez](https://open.spotify.com/track/4dTovK6UrUCl1cCGUtL1FH) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [FeedxCortez](https://open.spotify.com/album/1nBs3ecbaEt2Lhv1t9XMXa) | 5:23 |
-| 3 | [ULAP](https://open.spotify.com/track/0eS0KVhvXkklVVzdhmOrHp) | [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB), [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [ULAP](https://open.spotify.com/album/3u4bBpOV8OOSCAcZhcgP6c) | 4:50 |
+| 3 | [ULAP](https://open.spotify.com/track/0eS0KVhvXkklVVzdhmOrHp) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd), [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL), [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [ULAP](https://open.spotify.com/album/3u4bBpOV8OOSCAcZhcgP6c) | 4:50 |
 | 4 | [Sayang](https://open.spotify.com/track/2zL2rMvXqOoPpabiBcjKjX) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Kael Guerrero](https://open.spotify.com/artist/3Lcxk1qxmoKXVMxKSR4aWQ) | [Contrast](https://open.spotify.com/album/0iRmsK7HRnk2sS4UXOE6Oq) | 3:05 |
 | 5 | [Meron Siyang Class](https://open.spotify.com/track/7vBfUPu4C7tvm9Vu6njwzp) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU) | [Meron Siyang Class](https://open.spotify.com/album/099tImoG47eIXfm5mD6lh1) | 4:23 |
 | 6 | [Driftstar](https://open.spotify.com/track/4FuM2scDnJbWn6Az9UQ6aD) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Driftstar](https://open.spotify.com/album/0i4ZN9hKhb9sSM9ovAoZG4) | 2:51 |

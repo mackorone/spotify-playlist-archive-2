@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3900553,
+  "num_followers": 3900451,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-07-24 04:00:44",
       "album": {
-        "name": "Into The Night",
-        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 423006,
-      "name": "Into The Night",
-      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
-    },
-    {
-      "added_at": "2026-07-24 04:00:44",
-      "album": {
         "name": "Staring at the Sun",
         "url": "https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 212707,
       "name": "Staring at the Sun",
       "url": "https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj"
+    },
+    {
+      "added_at": "2026-07-24 04:00:44",
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 423006,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB"
     },
     {
       "added_at": "2026-07-24 04:00:44",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2026-07-24 04:00:44",
       "album": {
-        "name": "edges",
-        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "edges",
-      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
-    },
-    {
-      "added_at": "2026-07-24 04:00:44",
-      "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 203572,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+    },
+    {
+      "added_at": "2026-07-24 04:00:44",
+      "album": {
+        "name": "edges",
+        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "edges",
+      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
     },
     {
       "added_at": "2026-07-24 04:00:44",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-07-24 04:00:44",
       "album": {
-        "name": "White Lies",
-        "url": "https://open.spotify.com/album/1aAjXZ9y33UvjrDBVXaVXX"
-      },
-      "artists": [
-        {
-          "name": "Nils Hoffmann",
-          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/43B2IaiA1jE8oPIVbUfJYU"
-    },
-    {
-      "added_at": "2026-07-24 04:00:44",
-      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 361080,
       "name": "Memories",
       "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
+    },
+    {
+      "added_at": "2026-07-24 04:00:44",
+      "album": {
+        "name": "White Lies",
+        "url": "https://open.spotify.com/album/1aAjXZ9y33UvjrDBVXaVXX"
+      },
+      "artists": [
+        {
+          "name": "Nils Hoffmann",
+          "url": "https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/43B2IaiA1jE8oPIVbUfJYU"
     },
     {
       "added_at": "2026-07-24 04:00:44",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-07-24 04:00:44",
       "album": {
-        "name": "No Way Out",
-        "url": "https://open.spotify.com/album/3MC1XET81JT8nChk0UTDtg"
-      },
-      "artists": [
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "No Way Out",
-      "url": "https://open.spotify.com/track/78Tuh53Z1R1H99xVFJoffE"
-    },
-    {
-      "added_at": "2026-07-24 04:00:44",
-      "album": {
         "name": "the art of letting go",
         "url": "https://open.spotify.com/album/5WCpvkfEHDsZ1dF63DwLcG"
       },
@@ -1763,6 +1747,22 @@
     {
       "added_at": "2026-07-24 04:00:44",
       "album": {
+        "name": "No Way Out",
+        "url": "https://open.spotify.com/album/3MC1XET81JT8nChk0UTDtg"
+      },
+      "artists": [
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "No Way Out",
+      "url": "https://open.spotify.com/track/78Tuh53Z1R1H99xVFJoffE"
+    },
+    {
+      "added_at": "2026-07-24 04:00:44",
+      "album": {
         "name": "Perseverance",
         "url": "https://open.spotify.com/album/4g3MstLJUccjMJMxLTRm5Y"
       },
@@ -1779,6 +1779,26 @@
       "duration_ms": 219375,
       "name": "Perseverance",
       "url": "https://open.spotify.com/track/7DLmnCToTHfr9O0LKvWojH"
+    },
+    {
+      "added_at": "2026-07-24 04:00:44",
+      "album": {
+        "name": "How Will I Know?",
+        "url": "https://open.spotify.com/album/5EXB5oYUClbbNjqWbMb3N0"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+        }
+      ],
+      "duration_ms": 252693,
+      "name": "How Will I Know?",
+      "url": "https://open.spotify.com/track/0jgvWGiQSdnjsK74KyIAEa"
     },
     {
       "added_at": "2026-07-24 04:00:44",
@@ -1819,26 +1839,6 @@
     {
       "added_at": "2026-07-24 04:00:44",
       "album": {
-        "name": "How Will I Know?",
-        "url": "https://open.spotify.com/album/5EXB5oYUClbbNjqWbMb3N0"
-      },
-      "artists": [
-        {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "LeyeT",
-          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
-        }
-      ],
-      "duration_ms": 252693,
-      "name": "How Will I Know?",
-      "url": "https://open.spotify.com/track/0jgvWGiQSdnjsK74KyIAEa"
-    },
-    {
-      "added_at": "2026-07-24 04:00:44",
-      "album": {
         "name": "The Thought of You",
         "url": "https://open.spotify.com/album/6d0iQSicRabPDucJ2YspZD"
       },
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-07-24 04:00:44",
       "album": {
-        "name": "My Reflection",
-        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 257608,
-      "name": "My Reflection",
-      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
-    },
-    {
-      "added_at": "2026-07-24 04:00:44",
-      "album": {
         "name": "Fall Apart",
         "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 188454,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
+    },
+    {
+      "added_at": "2026-07-24 04:00:44",
+      "album": {
+        "name": "My Reflection",
+        "url": "https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 257608,
+      "name": "My Reflection",
+      "url": "https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht"
     },
     {
       "added_at": "2026-07-24 04:00:44",

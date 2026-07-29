@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,427 likes - 62 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,451 likes - 62 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 49 | [\(Ooh\-Wee\) He's Killing Me](https://open.spotify.com/track/1doc4es6AjX9WRuifoDZqt) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:26 |
 | 50 | [Pipeline](https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd) | [Bruce Johnston](https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:57 |
 | 51 | [Let's Groove](https://open.spotify.com/track/6ZFMq8W8dyUbTee0GDb08X) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Boogie Wonderland: The Best Of Earth, Wind & Fire](https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb) | 5:36 |
-| 52 | [Call Me](https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 6:22 |
-| 53 | [You Should Be Dancing \- 2009 Remastered Version](https://open.spotify.com/track/5VAKsbOWGdBbg1VFlu9W8o) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9) | 4:16 |
+| 52 | [You Should Be Dancing \- 2009 Remastered Version](https://open.spotify.com/track/5VAKsbOWGdBbg1VFlu9W8o) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [The Ultimate Bee Gees](https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9) | 4:16 |
+| 53 | [Call Me](https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 6:22 |
 | 54 | [Shake Your Body \(Down To The Ground\) \- Single Version](https://open.spotify.com/track/6yhVPXKXRblL2T4jFfz7mw) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Can You Feel It: The Jacksons Collection](https://open.spotify.com/album/2CvbITS0dlUwUtXoWD4OwS) | 3:45 |
 | 55 | [What Cha Gonna Do With My Lovin'](https://open.spotify.com/track/4U5M6NrgEFATHAFUDFwUGN) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Feel The Fire: The 20th Century Collection](https://open.spotify.com/album/3cIFhcTolvO7QxZOc0CnIX) | 4:05 |
 | 56 | [September](https://open.spotify.com/track/5hHm4e3dYYduLfxPnOY1TA) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Boogie Wonderland: The Best Of Earth, Wind & Fire](https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb) | 3:35 |

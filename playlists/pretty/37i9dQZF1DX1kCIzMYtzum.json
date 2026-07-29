@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is.. wherever the Tomorrowland main stage is \ud83d\ude09",
-  "num_followers": 538763,
+  "num_followers": 539254,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1527,6 +1527,26 @@
     {
       "added_at": "2026-07-24 04:02:29",
       "album": {
+        "name": "Deep In Your Love",
+        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Deep In Your Love",
+      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
+    },
+    {
+      "added_at": "2026-07-24 04:02:29",
+      "album": {
         "name": "Meet Again",
         "url": "https://open.spotify.com/album/6DOWj1TYplUhV2QDRsVupR"
       },
@@ -1547,26 +1567,6 @@
       "duration_ms": 206363,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/4XQqAGRG3jRH0fVmVpyOms"
-    },
-    {
-      "added_at": "2026-07-24 04:02:29",
-      "album": {
-        "name": "Deep In Your Love",
-        "url": "https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Deep In Your Love",
-      "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
     },
     {
       "added_at": "2026-07-24 04:02:29",
@@ -1611,6 +1611,30 @@
     {
       "added_at": "2026-07-24 04:02:29",
       "album": {
+        "name": "Danza Kuduro (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Danza Kuduro - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o"
+    },
+    {
+      "added_at": "2026-07-24 04:02:29",
+      "album": {
         "name": "Our Time",
         "url": "https://open.spotify.com/album/1R0CAZwCU6rRvMsmaerCjz"
       },
@@ -1639,30 +1663,6 @@
     {
       "added_at": "2026-07-24 04:02:29",
       "album": {
-        "name": "Danza Kuduro (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Danza Kuduro - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o"
-    },
-    {
-      "added_at": "2026-07-24 04:02:29",
-      "album": {
         "name": "Can't Forget You",
         "url": "https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC"
       },
@@ -1683,8 +1683,8 @@
     {
       "added_at": "2026-07-24 04:02:29",
       "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV"
       },
       "artists": [
         {
@@ -1692,13 +1692,13 @@
           "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "LAUV",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
+      "duration_ms": 199804,
+      "name": "MAD",
+      "url": "https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH"
     },
     {
       "added_at": "2026-07-24 04:02:29",
@@ -1783,8 +1783,8 @@
     {
       "added_at": "2026-07-24 04:02:29",
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/6e3hxK9NnMP08e6GBC1WIV"
+        "name": "Repeat It",
+        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
       },
       "artists": [
         {
@@ -1792,29 +1792,13 @@
           "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
         },
         {
-          "name": "LAUV",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 199804,
-      "name": "MAD",
-      "url": "https://open.spotify.com/track/6vM1GSndPtQk7AmqEmNAPH"
-    },
-    {
-      "added_at": "2026-07-24 04:02:29",
-      "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP"
-      },
-      "artists": [
-        {
-          "name": "Tomas Grey",
-          "url": "https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS"
-        }
-      ],
-      "duration_ms": 162755,
-      "name": "Rumors",
-      "url": "https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF"
+      "duration_ms": 191716,
+      "name": "Repeat It",
+      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
     },
     {
       "added_at": "2026-07-24 04:02:29",
@@ -1843,6 +1827,42 @@
     {
       "added_at": "2026-07-24 04:02:29",
       "album": {
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/7MCh5H7UlknUzDlBiSdQPP"
+      },
+      "artists": [
+        {
+          "name": "Tomas Grey",
+          "url": "https://open.spotify.com/artist/324KqmU4J1mdKnHdFUE3pS"
+        }
+      ],
+      "duration_ms": 162755,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/4AHW7Q2TGKwfndbbQvjXmF"
+    },
+    {
+      "added_at": "2026-07-24 04:02:29",
+      "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
+    },
+    {
+      "added_at": "2026-07-24 04:02:29",
+      "album": {
         "name": "Clarity (BUNT. Remix)",
         "url": "https://open.spotify.com/album/6K2nE1dbUqfQSvYvpI0FK7"
       },
@@ -1867,26 +1887,6 @@
       "duration_ms": 204110,
       "name": "Clarity - BUNT. Remix",
       "url": "https://open.spotify.com/track/13fVuFWEQOGlYY6EaxfQyj"
-    },
-    {
-      "added_at": "2026-07-24 04:02:29",
-      "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
     },
     {
       "added_at": "2026-07-24 04:02:29",
@@ -2059,26 +2059,6 @@
     {
       "added_at": "2026-07-24 04:02:29",
       "album": {
-        "name": "Love Is Kind",
-        "url": "https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Love Is Kind",
-      "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
-    },
-    {
-      "added_at": "2026-07-24 04:02:29",
-      "album": {
         "name": "Butterflies",
         "url": "https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S"
       },
@@ -2103,26 +2083,46 @@
     {
       "added_at": "2026-07-24 04:02:29",
       "album": {
-        "name": "Like A Child",
-        "url": "https://open.spotify.com/album/21kP7foJu4VQRhlnkVgrgC"
+        "name": "Love Is Kind",
+        "url": "https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Marlo Rex",
-          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+          "name": "Oaks",
+          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
         }
       ],
-      "duration_ms": 183181,
-      "name": "Like A Child",
-      "url": "https://open.spotify.com/track/0wGlXAZU2OQlOiCghAOCqm"
+      "duration_ms": 247384,
+      "name": "Love Is Kind",
+      "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
+    },
+    {
+      "added_at": "2026-07-24 04:02:29",
+      "album": {
+        "name": "Listen To Me",
+        "url": "https://open.spotify.com/album/0lJlw16y8q0tfo9P6uZu5w"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "CIEL.",
+          "url": "https://open.spotify.com/artist/7k3cId1oZqUxRM5QgjMKJU"
+        },
+        {
+          "name": "Radio Cargo",
+          "url": "https://open.spotify.com/artist/2DlWR4iwXq2J7SUpqPdQbE"
+        }
+      ],
+      "duration_ms": 162214,
+      "name": "Listen To Me",
+      "url": "https://open.spotify.com/track/3fPXv60Pp9jLGYrjd1RoNd"
     }
   ],
   "unique_name": "EDM 2026",

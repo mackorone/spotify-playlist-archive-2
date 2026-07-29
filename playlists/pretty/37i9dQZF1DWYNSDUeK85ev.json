@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 696870,
+  "num_followers": 696862,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Tu Turrito",
+        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 164701,
+      "name": "Tu Turrito",
+      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 158447,
       "name": "Ya No M\u00e1s",
       "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Tu Turrito",
-        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 164701,
-      "name": "Tu Turrito",
-      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1487,6 +1487,30 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
+        "name": "Vikingos",
+        "url": "https://open.spotify.com/album/50fDCiIhdGoiJLSYXdLbt9"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 166963,
+      "name": "Vikingos",
+      "url": "https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
         "name": "Pistola Remix",
         "url": "https://open.spotify.com/album/5uvaIwoUvjtR3wETfwB95T"
       },
@@ -1511,30 +1535,6 @@
       "duration_ms": 136806,
       "name": "Pistola Remix",
       "url": "https://open.spotify.com/track/10cA6m379GINGe7ZF6g3q1"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
-        "name": "Vikingos",
-        "url": "https://open.spotify.com/album/50fDCiIhdGoiJLSYXdLbt9"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 166963,
-      "name": "Vikingos",
-      "url": "https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1799,18 +1799,22 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/519NM1nvGS2JZwji1k6g9z"
+        "name": "Me Extra\u00f1aras",
+        "url": "https://open.spotify.com/album/0Kj7jOpzVhmV1LBfrrszGr"
       },
       "artists": [
         {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+          "name": "Kevo DJ",
+          "url": "https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z"
+        },
+        {
+          "name": "DJ Roma Oficial",
+          "url": "https://open.spotify.com/artist/6kPvFQoD8mzPv5IkOV8PUi"
         }
       ],
-      "duration_ms": 61518,
-      "name": "Pideme la Luna - Remix",
-      "url": "https://open.spotify.com/track/53h0I0zOgs1KntA5lel3EF"
+      "duration_ms": 196315,
+      "name": "Me Extra\u00f1aras",
+      "url": "https://open.spotify.com/track/0Ky063B3IgHlrRnzwXzGpP"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1831,22 +1835,18 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Me Extra\u00f1aras",
-        "url": "https://open.spotify.com/album/0Kj7jOpzVhmV1LBfrrszGr"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/519NM1nvGS2JZwji1k6g9z"
       },
       "artists": [
         {
-          "name": "Kevo DJ",
-          "url": "https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z"
-        },
-        {
-          "name": "DJ Roma Oficial",
-          "url": "https://open.spotify.com/artist/6kPvFQoD8mzPv5IkOV8PUi"
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
         }
       ],
-      "duration_ms": 196315,
-      "name": "Me Extra\u00f1aras",
-      "url": "https://open.spotify.com/track/0Ky063B3IgHlrRnzwXzGpP"
+      "duration_ms": 61518,
+      "name": "Pideme la Luna - Remix",
+      "url": "https://open.spotify.com/track/53h0I0zOgs1KntA5lel3EF"
     },
     {
       "added_at": "2026-06-19 03:00:21",
@@ -1879,26 +1879,6 @@
     {
       "added_at": "2026-06-19 03:00:21",
       "album": {
-        "name": "Conmigo Te Gust\u00f3 (Remix)",
-        "url": "https://open.spotify.com/album/2HXFOExRpfkFVr1ITCjKJX"
-      },
-      "artists": [
-        {
-          "name": "Nico Mattioli",
-          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
-        },
-        {
-          "name": "La Repandilla",
-          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
-        }
-      ],
-      "duration_ms": 193728,
-      "name": "Conmigo Te Gust\u00f3 - Remix",
-      "url": "https://open.spotify.com/track/5B1lEFQdwgP8xiS9fizQZK"
-    },
-    {
-      "added_at": "2026-06-19 03:00:21",
-      "album": {
         "name": "DJ ALEX, L-GANTE - ANDA SOLA | E10",
         "url": "https://open.spotify.com/album/20jtIUp8bNLreDyvfw7P85"
       },
@@ -1915,6 +1895,26 @@
       "duration_ms": 143874,
       "name": "DJ ALEX, L-GANTE - ANDA SOLA | E10",
       "url": "https://open.spotify.com/track/5gRQJ2wGJdIWE8CsvBQI2E"
+    },
+    {
+      "added_at": "2026-06-19 03:00:21",
+      "album": {
+        "name": "Conmigo Te Gust\u00f3 (Remix)",
+        "url": "https://open.spotify.com/album/2HXFOExRpfkFVr1ITCjKJX"
+      },
+      "artists": [
+        {
+          "name": "Nico Mattioli",
+          "url": "https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1"
+        },
+        {
+          "name": "La Repandilla",
+          "url": "https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub"
+        }
+      ],
+      "duration_ms": 193728,
+      "name": "Conmigo Te Gust\u00f3 - Remix",
+      "url": "https://open.spotify.com/track/5B1lEFQdwgP8xiS9fizQZK"
     },
     {
       "added_at": "2026-06-19 03:00:21",

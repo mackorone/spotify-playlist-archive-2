@@ -1902,7 +1902,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 747625,
       "name": "AH, JESUS / CORA\u00c7\u00c3O IGUAL AO TEU",
       "url": "https://open.spotify.com/track/2wwEjucN8zj8MuZ7ZYoxiH"
@@ -3692,7 +3692,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 180832,
       "name": "Arrependida\u00e7o (Onde Voc\u00ea Anda)",
       "url": "https://open.spotify.com/track/4rvk9VCJDbB4oSQJATrces"
@@ -4016,6 +4016,24 @@
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias P\u00f3stumas",
+        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220376,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/6PPB5jKQ257UqzP7tgmozP"
     },
     {
       "album": {
@@ -4634,7 +4652,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 218107,
       "name": "Bala Alojada",
       "url": "https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq"
@@ -4996,7 +5014,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 146750,
       "name": "Baqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
@@ -5156,7 +5174,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 247980,
       "name": "Beatriz",
       "url": "https://open.spotify.com/track/3RDv5uDgHJS8wBdPkoCXUF"
@@ -5258,7 +5276,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 156536,
       "name": "Bebe, Beija e Trai - Ao Vivo",
       "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
@@ -7661,6 +7679,24 @@
     },
     {
       "album": {
+        "name": "Mem\u00f3rias P\u00f3stumas",
+        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221134,
+      "name": "Catedral",
+      "url": "https://open.spotify.com/track/3mzJgriFYY654vVhzwCepw"
+    },
+    {
+      "album": {
         "name": "CAVALINHO",
         "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
       },
@@ -8395,6 +8431,24 @@
     },
     {
       "album": {
+        "name": "Mem\u00f3rias P\u00f3stumas",
+        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220534,
+      "name": "Coincid\u00eancias",
+      "url": "https://open.spotify.com/track/6Nhfb01I0ceS1yVgIDykqm"
+    },
+    {
+      "album": {
         "name": "Coisas Naturais",
         "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
       },
@@ -9124,48 +9178,6 @@
     {
       "album": {
         "name": "Cuida do Pet",
-        "url": "https://open.spotify.com/album/3NzIzRMF8NaWNqTHmS7R3a"
-      },
-      "artists": [
-        {
-          "name": "Oldilla",
-          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
-        },
-        {
-          "name": "Mc Iguinho Ct",
-          "url": "https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo"
-        },
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "Aaron Modesto",
-          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
-        },
-        {
-          "name": "DU'L",
-          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
-        },
-        {
-          "name": "Dj Aladin GDB",
-          "url": "https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ"
-        },
-        {
-          "name": "MC Willian",
-          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
-        }
-      ],
-      "date_added": "2026-06-07",
-      "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
-      "duration_ms": 459212,
-      "name": "Cuida do Pet",
-      "url": "https://open.spotify.com/track/2gbEvM5IwVIwJFpTVPUXV5"
-    },
-    {
-      "album": {
-        "name": "Cuida do Pet",
         "url": "https://open.spotify.com/album/6vzfvxCFgDhWJdL2f2enCG"
       },
       "artists": [
@@ -9200,10 +9212,52 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 459212,
       "name": "Cuida do Pet",
       "url": "https://open.spotify.com/track/1eQPyvKkbJgS7orgKr802Y"
+    },
+    {
+      "album": {
+        "name": "Cuida do Pet",
+        "url": "https://open.spotify.com/album/3NzIzRMF8NaWNqTHmS7R3a"
+      },
+      "artists": [
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        },
+        {
+          "name": "Mc Iguinho Ct",
+          "url": "https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo"
+        },
+        {
+          "name": "MC Willian",
+          "url": "https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "Dj Aladin GDB",
+          "url": "https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ"
+        }
+      ],
+      "date_added": "2026-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459212,
+      "name": "Cuida do Pet",
+      "url": "https://open.spotify.com/track/2gbEvM5IwVIwJFpTVPUXV5"
     },
     {
       "album": {
@@ -11094,7 +11148,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 158589,
       "name": "Displicente - Ao Vivo",
       "url": "https://open.spotify.com/track/7cYwK2NkBOMpKs44d6HroI"
@@ -11466,7 +11520,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 191154,
       "name": "Dois Gumes (Ao Vivo)",
       "url": "https://open.spotify.com/track/6Exec6nPRIwvAEu3N8pVnT"
@@ -13726,7 +13780,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 162406,
       "name": "Eu N\u00e3o Sou Terapia - Ao Vivo",
       "url": "https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men"
@@ -13802,6 +13856,24 @@
       "duration_ms": 185586,
       "name": "Eu Sei de Cor - Ao Vivo",
       "url": "https://open.spotify.com/track/4SjkLzyFBVXaxuB6SbJyJN"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias P\u00f3stumas",
+        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264276,
+      "name": "Eu Sempre Volto",
+      "url": "https://open.spotify.com/track/2jGD8X5FhO9PJvJhYw9jSs"
     },
     {
       "album": {
@@ -15878,7 +15950,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 205586,
       "name": "Foi por Conveni\u00eancia",
       "url": "https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB"
@@ -18402,7 +18474,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 203177,
       "name": "Inseguran\u00e7a / Fim de Noite - Ao Vivo",
       "url": "https://open.spotify.com/track/0UbftifCuaos8xnNT1K8Us"
@@ -18588,7 +18660,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 251840,
       "name": "Irm\u00e3o da Lua, Amigo das Estrelas",
       "url": "https://open.spotify.com/track/1PW3LjmxJqVoQ9nmdbxF9f"
@@ -18614,6 +18686,24 @@
       "duration_ms": 285000,
       "name": "Isso \u00e9 S\u00e9rio",
       "url": "https://open.spotify.com/track/3Sa2gVQioE31DcG4nKNDqD"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias P\u00f3stumas",
+        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195575,
+      "name": "Jabuticabeira",
+      "url": "https://open.spotify.com/track/3HBIHTgDPLk0qKa4qTqeEl"
     },
     {
       "album": {
@@ -18812,6 +18902,24 @@
       "duration_ms": 189638,
       "name": "JOLENE",
       "url": "https://open.spotify.com/track/1VxEaXbIq3xAvqh80xP67w"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias P\u00f3stumas",
+        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151822,
+      "name": "Jo\u00e3o",
+      "url": "https://open.spotify.com/track/521WMbpYlYCaARdbsk3XQl"
     },
     {
       "album": {
@@ -19892,6 +20000,24 @@
       "duration_ms": 208495,
       "name": "Like This!",
       "url": "https://open.spotify.com/track/49gGZLLm1d7fBFQkTqskXo"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias P\u00f3stumas",
+        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303397,
+      "name": "Literatura",
+      "url": "https://open.spotify.com/track/4Rphxy5MoU5bf50GQYIDN4"
     },
     {
       "album": {
@@ -23202,7 +23328,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 179595,
       "name": "Meu Sil\u00eancio - Ao Vivo",
       "url": "https://open.spotify.com/track/0ycQtDnc4mOcefV6yyV6dm"
@@ -26216,7 +26342,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 155697,
       "name": "N\u00e3o Me Cutuca",
       "url": "https://open.spotify.com/track/02BhbpQKWCVjqVBUsvOL7i"
@@ -26832,6 +26958,24 @@
       "duration_ms": 164956,
       "name": "O Alvo (feat. Henrique & Juliano) - Ao Vivo",
       "url": "https://open.spotify.com/track/4HQByPPgZOGbzvgJFZX61K"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias P\u00f3stumas",
+        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "O Amor",
+      "url": "https://open.spotify.com/track/2BRYHmPbc5BUffYcAtRhv8"
     },
     {
       "album": {
@@ -28830,7 +28974,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 162325,
       "name": "Pela \u00daltima Vez - Ao Vivo",
       "url": "https://open.spotify.com/track/6B7ot6Wlqf7zt3FCkYl2FJ"
@@ -30250,6 +30394,24 @@
       "duration_ms": 186698,
       "name": "Por Supuesto",
       "url": "https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias P\u00f3stumas",
+        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211737,
+      "name": "Por Voc\u00ea",
+      "url": "https://open.spotify.com/track/1jBmw9hizoiIpxqFy8hNS2"
     },
     {
       "album": {
@@ -32956,7 +33118,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 151596,
       "name": "Sal Grosso",
       "url": "https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL"
@@ -33162,7 +33324,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 153103,
       "name": "Saudade De Quem Eu Sou (Ao Vivo)",
       "url": "https://open.spotify.com/track/3xgrWGYrqZVL7aAvZTm2MA"
@@ -33846,7 +34008,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 192034,
       "name": "Seja Ex (Ao Vivo)",
       "url": "https://open.spotify.com/track/5jP9oqulg2Dz6yLwLYj5KO"
@@ -39340,7 +39502,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 162580,
       "name": "Tubar\u00f5es - Ao Vivo",
       "url": "https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H"
@@ -39366,6 +39528,24 @@
       "duration_ms": 183013,
       "name": "Tudo Indica (feat. Jorge & Mateus) - Ao Vivo",
       "url": "https://open.spotify.com/track/0eoMMLrWtXbLk64baeESkc"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias P\u00f3stumas",
+        "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219483,
+      "name": "Tudo Me Lembra",
+      "url": "https://open.spotify.com/track/6RymIoLeuynKmFtk2IAw2g"
     },
     {
       "album": {
@@ -41604,7 +41784,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 164511,
       "name": "Voc\u00ea Ja Sabe",
       "url": "https://open.spotify.com/track/0kcS3YhPRQnpUOUSiHDW1R"

@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: THE DO",
-  "num_followers": 86323,
+  "num_followers": 86375,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,26 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
+        "name": "CONTACTO CONTACTO",
+        "url": "https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9"
+      },
+      "artists": [
+        {
+          "name": "Metrika",
+          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
+        },
+        {
+          "name": "SINAKA",
+          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+        }
+      ],
+      "duration_ms": 117300,
+      "name": "CONTACTO CONTACTO",
+      "url": "https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
         "name": "TENSION",
         "url": "https://open.spotify.com/album/4Y7MMxcITCwv0W2k3EYrMA"
       },
@@ -135,22 +155,34 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "CONTACTO CONTACTO",
-        "url": "https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9"
+        "name": "No pega igual (Stuck on replay)",
+        "url": "https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y"
       },
       "artists": [
         {
-          "name": "Metrika",
-          "url": "https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy"
-        },
-        {
-          "name": "SINAKA",
-          "url": "https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl"
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
         }
       ],
-      "duration_ms": 117300,
-      "name": "CONTACTO CONTACTO",
-      "url": "https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h"
+      "duration_ms": 185118,
+      "name": "No pega igual (Stuck on replay)",
+      "url": "https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Wishing Stone",
+        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 228395,
+      "name": "Wishing Stone",
+      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -187,38 +219,6 @@
       "duration_ms": 209267,
       "name": "Your favorite flowers",
       "url": "https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
-        "name": "Wishing Stone",
-        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 228395,
-      "name": "Wishing Stone",
-      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
-        "name": "No pega igual (Stuck on replay)",
-        "url": "https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 185118,
-      "name": "No pega igual (Stuck on replay)",
-      "url": "https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -403,22 +403,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Something Out Of Nothing",
-        "url": "https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2"
-      },
-      "artists": [
-        {
-          "name": "Bye Parula",
-          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
-        }
-      ],
-      "duration_ms": 206338,
-      "name": "Something Out Of Nothing",
-      "url": "https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "Bury It",
         "url": "https://open.spotify.com/album/33W0mcGpZis0alt3swinMu"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 188181,
       "name": "Bury It",
       "url": "https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Something Out Of Nothing",
+        "url": "https://open.spotify.com/album/5DzYearmFZj5MF36mNJpl2"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "duration_ms": 206338,
+      "name": "Something Out Of Nothing",
+      "url": "https://open.spotify.com/track/1SpUMOyvEtvjWa4xWqFlAv"
     },
     {
       "added_at": "2026-07-24 13:00:01",

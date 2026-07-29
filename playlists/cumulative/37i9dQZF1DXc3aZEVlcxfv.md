@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-654 songs - 1 day 19 hr 52 min
+655 songs - 1 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,12 +430,13 @@
 | [My Lover \(Live\)](https://open.spotify.com/track/2GYMuD74LVwPQRz5KrFzid) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [My Lover \(Live\)](https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq) | 7:15 | 2025-02-14 |  |
 | [My Pillar](https://open.spotify.com/track/5K18ZkoykiQ3Uag98eolys) | [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [My Pillar](https://open.spotify.com/album/0vuFyq5Bq4zZ5Mz70KY9JS) | 3:32 | 2025-12-05 | 2026-01-15 |
 | [My Provider](https://open.spotify.com/track/6oq8KX1V0nCwOLXuKplM4h) | [Rachel K](https://open.spotify.com/artist/5l8RuqUL0kJ3w14uWdPB2p) | [My Provider](https://open.spotify.com/album/1glzHahEYSlcvQZNiGkvfJ) | 6:13 | 2025-02-07 | 2025-03-21 |
+| [My Soul Sings](https://open.spotify.com/track/3Ty3SsKmaV4F6JO9N9dnrW) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Hallelu](https://open.spotify.com/album/0ZIZgcU4bji9Dlp8Bkd7Xt) | 2:35 | 2026-07-24 |  |
 | [My Thank You](https://open.spotify.com/track/2ZhFqLe4RLezTAfR8idwzX) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4) | [My Thank You](https://open.spotify.com/album/4wsf5yxLcfZFjLrvkij6qI) | 3:33 | 2026-06-19 |  |
 | [My Worship](https://open.spotify.com/track/2DYO2AVcFlSlO7AjDWZz0k) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [A Tribe Apart](https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21) | [My Worship](https://open.spotify.com/album/5PUyR9iA9CoQVeRe6HWFLx) | 3:36 | 2025-10-03 | 2025-11-07 |
 | [Na Only Me Know](https://open.spotify.com/track/1Dqzildz8aeOKsVWdPZOjH) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Na Only Me Know](https://open.spotify.com/album/6ESZpB5iJUCma2fBqJZzl3) | 6:10 | 2025-12-05 | 2026-01-15 |
 | [Na Who You Be](https://open.spotify.com/track/5HeTS1sl4kfR8IC34EvQPK) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Come and See / Na Who You Be](https://open.spotify.com/album/7y06rcPwJmbHVibiNWEjCa) | 2:43 | 2025-03-28 | 2025-06-20 |
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2024-09-27 | 2025-02-28 |
-| [Nakupenda](https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ) | [Toria Etuk](https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR) | [Nakupenda](https://open.spotify.com/album/2FljmMMzvw2pJ9jqgm8Fml) | 2:18 | 2026-06-26 |  |
+| [Nakupenda](https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ) | [Toria Etuk](https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR) | [Nakupenda](https://open.spotify.com/album/2FljmMMzvw2pJ9jqgm8Fml) | 2:18 | 2026-06-26 | 2026-07-29 |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2024-09-27 |  |
 | [Nara Ekele \- Remix](https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [Nara Ekele \(Remix\)](https://open.spotify.com/album/3Y0QLwcmeLDBihKK027qD9) | 6:32 | 2026-05-22 | 2026-07-18 |
 | [Narekele](https://open.spotify.com/track/3aL0swlBPcBfUHatzrn9n8) | [Exouxia Wilson](https://open.spotify.com/artist/2OsGK8NBce8Tmx6Cyuc974) | [Narekele](https://open.spotify.com/album/5gyBvRvXbbelbUEPBg7QCm) | 6:24 | 2025-06-20 | 2025-07-11 |

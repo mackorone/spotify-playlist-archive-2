@@ -2568,7 +2568,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 82291,
       "name": "Ando Muy Galactico",
       "url": "https://open.spotify.com/track/1DkFEg2pfRtzkYCTIf60Qj"
@@ -11338,7 +11338,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 229360,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
@@ -19712,7 +19712,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 199114,
       "name": "KLOuFRENS",
       "url": "https://open.spotify.com/track/4MUrUT38U98olfnyzMBCzm"
@@ -24674,7 +24674,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 105091,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/2WNPfZJA4tUJw4FF47YTl4"
@@ -26724,7 +26724,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 213868,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/37BkJJ6JR2qBmt5PRJaPHi"
@@ -30226,7 +30226,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 214120,
       "name": "Pa' Que La Pases Bien",
       "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
@@ -43941,6 +43941,36 @@
     },
     {
       "album": {
+        "name": "Un Tin",
+        "url": "https://open.spotify.com/album/09O95K9qFd4XjwXbNBGL2p"
+      },
+      "artists": [
+        {
+          "name": "Payaso x Ley",
+          "url": "https://open.spotify.com/artist/0ZbitUHy4wYrvbCiRPS1qA"
+        },
+        {
+          "name": "ROWELL URBAN",
+          "url": "https://open.spotify.com/artist/3U7jalS24p7JJRJs95Sktl"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        },
+        {
+          "name": "Befocus Music",
+          "url": "https://open.spotify.com/artist/6ovtk2HgICEX3iFpQrw4rn"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209342,
+      "name": "Un Tin",
+      "url": "https://open.spotify.com/track/07Q92PJZXSZrdwM0Xm5aBd"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -46522,7 +46552,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 264727,
       "name": "Ya Me Enter\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/4zqAuyPZKQCxG6c6SBiXDv"

@@ -1,6 +1,6 @@
 {
   "description": "Indiepop in het Nederlands. Cover: Igor",
-  "num_followers": 11458,
+  "num_followers": 11459,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
+        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
+        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
+      },
+      "artists": [
+        {
+          "name": "Igor",
+          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
+        }
+      ],
+      "duration_ms": 234633,
+      "name": "Kan Ik Zoveel?",
+      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
+    },
+    {
+      "added_at": "2026-05-28 11:50:51",
+      "album": {
         "name": "Mommy",
         "url": "https://open.spotify.com/album/4SbZYtl7lHyPGrG7OuXpaU"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 174352,
       "name": "Mommy",
       "url": "https://open.spotify.com/track/0GGkVcWMpldFL1LXWPEvjD"
-    },
-    {
-      "added_at": "2026-05-28 11:50:51",
-      "album": {
-        "name": "Maskers",
-        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
-      },
-      "artists": [
-        {
-          "name": "Elias Mazian",
-          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
-        }
-      ],
-      "duration_ms": 201627,
-      "name": "Maskers",
-      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
     },
     {
       "added_at": "2026-05-28 11:50:51",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-05-28 11:50:51",
       "album": {
-        "name": "Kan Ik Zoveel? / Dingen Mis Met De Auto",
-        "url": "https://open.spotify.com/album/5KqpYFAhXnE7EjX9C3yjDC"
+        "name": "Maskers",
+        "url": "https://open.spotify.com/album/0TvdN8ncPvY4AtYSZ0Q6aO"
       },
       "artists": [
         {
-          "name": "Igor",
-          "url": "https://open.spotify.com/artist/3bhBM7OA3aCdsNVzRzkBPq"
+          "name": "Elias Mazian",
+          "url": "https://open.spotify.com/artist/5bcee1i2yLpnhwm5Nbz3vU"
         }
       ],
-      "duration_ms": 234633,
-      "name": "Kan Ik Zoveel?",
-      "url": "https://open.spotify.com/track/2OETcNMac8rz2i8DTk6MV2"
+      "duration_ms": 201627,
+      "name": "Maskers",
+      "url": "https://open.spotify.com/track/56510xIkdWoRHk5CJAx6NG"
     },
     {
       "added_at": "2026-05-28 11:50:51",

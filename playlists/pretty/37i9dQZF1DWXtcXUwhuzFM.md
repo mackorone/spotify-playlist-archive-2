@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Isac Elliot, Charli xcx.\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,940 likes - 71 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,935 likes - 71 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 5 | [Mitä meil on? \(feat\. M//O\)](https://open.spotify.com/track/2M33Y1oytu6HsPtKNTXZbS) | [Hussa](https://open.spotify.com/artist/2qBuynC2GNPJW9s4tNBQoG), [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [Mitä meil on? \(feat\. M//O\)](https://open.spotify.com/album/7zt2kCgEWGjz60xs1QaZgx) | 3:28 |
 | 6 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 | 7 | [Fireflies](https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Fireflies](https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23) | 4:23 |
-| 8 | [Bakteeri](https://open.spotify.com/track/6PqMvU6zH13QMLPbPfC0Hx) | [BLOCKSTAR](https://open.spotify.com/artist/78wn7Lu3sfZFblrpJf7uXp), [Habson](https://open.spotify.com/artist/1oTR448XOPP7T54lMD6BGa), [BADU](https://open.spotify.com/artist/1Jk1cvypSpE6TQAJX1kZGe), [YGI](https://open.spotify.com/artist/1p7pwjgacAqNrNVEuHVuV0) | [Bakteeri](https://open.spotify.com/album/0X9kvGuOtmudBrGGAkYpvE) | 2:43 |
+| 8 | [Bakteeri](https://open.spotify.com/track/6PqMvU6zH13QMLPbPfC0Hx) | [BLOCKSTAR](https://open.spotify.com/artist/78wn7Lu3sfZFblrpJf7uXp), [Habson](https://open.spotify.com/artist/1oTR448XOPP7T54lMD6BGa), [BADU](https://open.spotify.com/artist/1Jk1cvypSpE6TQAJX1kZGe), [Ygi](https://open.spotify.com/artist/02mXkgjKcgMcXwPoymQDku) | [Bakteeri](https://open.spotify.com/album/0X9kvGuOtmudBrGGAkYpvE) | 2:43 |
 | 9 | [Pelkkää hymyy](https://open.spotify.com/track/0FO71p0dSVxtJ5bzFBOOKd) | [219osok](https://open.spotify.com/artist/7pa9yV91OIhOYb3BGAYvjC) | [Pelkkää hymyy](https://open.spotify.com/album/0NwJolPfVwNfJIyjgaNR9P) | 3:06 |
 | 10 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 |
 | 11 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 |

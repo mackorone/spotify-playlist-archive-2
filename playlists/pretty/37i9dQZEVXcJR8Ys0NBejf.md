@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain]
 | 29 | [Good Love](https://open.spotify.com/track/1v9GohSUQKJ7SVwkPHuAPv) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Ten Years \(Deluxe\)](https://open.spotify.com/album/6wrerJNUPqdgzzxFMvpQQh) | 4:13 |
 | 30 | [Invisible Chains](https://open.spotify.com/track/1ksODCBCw4UEuWC0yRHpPZ) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Invisible Chains](https://open.spotify.com/album/4beju5a07BHjSpqB0I61Qd) | 3:20 |
 
-Snapshot ID: `al2dQAAAAADAAi2VTzKb5mSyFT73JZcC`
+Snapshot ID: `ambXwAAAAACasQDN2Nat66qysqBNUGIx`

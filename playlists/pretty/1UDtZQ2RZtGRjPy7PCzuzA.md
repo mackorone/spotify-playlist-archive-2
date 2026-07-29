@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > life too short love the one you got
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,105 songs - 2 day 14 hr 34 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,114 songs - 2 day 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1113,5 +1113,14 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1103 | [Asleep and Dreaming](https://open.spotify.com/track/66Tub5XM7NDpUwE4WTICi8) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/0K5FvRzJl6iTKikI9tMdAB) | 1:53 |
 | 1104 | [Some Velvet Morning](https://open.spotify.com/track/6SEMWLEAQs90K4XSacidwM) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2), [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [Nancy & Lee](https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl) | 3:41 |
 | 1105 | [God Only Knows](https://open.spotify.com/track/0ObrXLrfrqJUNc8RfmIBHP) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:54 |
+| 1106 | [Heavy Feet](https://open.spotify.com/track/4TUQDDHkqLQPo9tasbvOak) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/0YMNHZKlcuPWPe6hcArKzk) | 4:06 |
+| 1107 | [You & I](https://open.spotify.com/track/0LNcEIsa62f89v7VY4BE14) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/0YMNHZKlcuPWPe6hcArKzk) | 4:21 |
+| 1108 | [Ceilings](https://open.spotify.com/track/0QwdLzWxqYL3oiLqcakFBH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/0YMNHZKlcuPWPe6hcArKzk) | 2:56 |
+| 1109 | [I Remember](https://open.spotify.com/track/1tXa8MEpxKUIyB9cERW4is) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Odd Blood](https://open.spotify.com/album/3yfOxXDy6AbOduHoo1653D) | 4:23 |
+| 1110 | [Bowery](https://open.spotify.com/track/6X2lKVho4roVbM1GYQKEjj) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/0YMNHZKlcuPWPe6hcArKzk) | 4:37 |
+| 1111 | [Colombia](https://open.spotify.com/track/4UK1FzhAtEavbZlGRdq70P) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/0YMNHZKlcuPWPe6hcArKzk) | 4:50 |
+| 1112 | [Inside Out](https://open.spotify.com/track/7HKW2F9UqwMVPdByorotm1) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [They Want My Soul](https://open.spotify.com/album/7oBe4s2OCYUBLixJw3lpFT) | 5:03 |
+| 1113 | [Black Balloons](https://open.spotify.com/track/0Yp6CHC41D5fQg5g8EOpsh) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/0YMNHZKlcuPWPe6hcArKzk) | 3:07 |
+| 1114 | [Three Months](https://open.spotify.com/track/6Xc2oXYio3m8uoB5IACBa3) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/0YMNHZKlcuPWPe6hcArKzk) | 4:30 |
 
-Snapshot ID: `AAALSPNKtl2nb6CvqmW4MAvHrDllDoWw`
+Snapshot ID: `AAALUfNh9RumY0sp6IP32xwcRwd55H17`

@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109593,
+  "num_followers": 109580,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Lost & Found",
-        "url": "https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC"
-      },
-      "artists": [
-        {
-          "name": "Abnormal Sleepz",
-          "url": "https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i"
-        },
-        {
-          "name": "Ruby Wood",
-          "url": "https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK"
-        }
-      ],
-      "duration_ms": 138750,
-      "name": "Lost & Found",
-      "url": "https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "duck duck goose",
         "url": "https://open.spotify.com/album/3EGJXUpFU5kTCodBBwe1TR"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 192000,
       "name": "duck duck goose",
       "url": "https://open.spotify.com/track/1FnQSKasVdtcON8N4eGKFr"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/6LBp2zkebMZPIlxvUqrrDC"
+      },
+      "artists": [
+        {
+          "name": "Abnormal Sleepz",
+          "url": "https://open.spotify.com/artist/0XAonyGKenXLN78RnyD44i"
+        },
+        {
+          "name": "Ruby Wood",
+          "url": "https://open.spotify.com/artist/14FrbNpLYAjES262b8kphK"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/6j8x4QZEC2NTJqFC2Bgi4D"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1183,6 +1183,30 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Mad About Bars - S5-E8",
+        "url": "https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd"
+      },
+      "artists": [
+        {
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        },
+        {
+          "name": "Kenny Allstar",
+          "url": "https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV"
+        }
+      ],
+      "duration_ms": 125995,
+      "name": "Mad About Bars - S5-E8 Pt2",
+      "url": "https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "One Cool Dude",
         "url": "https://open.spotify.com/album/5zbuTBV17VxQ1v1VT0kNqv"
       },
@@ -1267,30 +1291,6 @@
       "duration_ms": 112340,
       "name": "Less Is More",
       "url": "https://open.spotify.com/track/677M1x0HytsRU50w3UzOIP"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Mad About Bars - S5-E8",
-        "url": "https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        },
-        {
-          "name": "Kenny Allstar",
-          "url": "https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV"
-        }
-      ],
-      "duration_ms": 125995,
-      "name": "Mad About Bars - S5-E8 Pt2",
-      "url": "https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1539,18 +1539,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
       },
       "artists": [
         {
           "name": "Ronzo",
           "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
         }
       ],
-      "duration_ms": 174545,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1623,22 +1627,18 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/5I4QSaqKhNLjvyZ9AAPXuG"
       },
       "artists": [
         {
           "name": "Ronzo",
           "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/4Cmz2YwIAQo6N7vT5rhJKe"
+      "duration_ms": 174545,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/0aA0NgRHcV0mVKyTE5wjGq"
     },
     {
       "added_at": "2025-10-10 12:01:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Cassol
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,876 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,857 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 11 | [Coisas Que Não Foram Ditas](https://open.spotify.com/track/1PgOJJqxzaZBptfsZt2zgn) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0) | [Coisas Que Não Foram Ditas](https://open.spotify.com/album/43gtNiB0zkFCmBpGQuurNT) | 1:59 |
 | 12 | [Rewind](https://open.spotify.com/track/662AR0cLZ2ME9V0nK59y2r) | [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Rewind](https://open.spotify.com/album/0B1cCh61xTE9E64Z5lWM0o) | 2:40 |
 | 13 | [COMO Q OFUSCA O BRILHO?](https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf) | [Ruas Mc](https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [COMO Q OFUSCA O BRILHO? \(STUDIO\#9\)](https://open.spotify.com/album/4TVYzJGGuEIEGFfN9sfoA6) | 2:16 |
-| 14 | [Uma Rapper Gangster](https://open.spotify.com/track/5woiLYYNtgLJHI9ij3l3BY) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Chris Silva](https://open.spotify.com/artist/7eAe2m8z7Nkl8SLafzqunq) | [Uma Rapper Gangster](https://open.spotify.com/album/1zBM6RP3qvtjuHBACi0UJM) | 3:27 |
+| 14 | [Uma Rapper Gangster](https://open.spotify.com/track/5woiLYYNtgLJHI9ij3l3BY) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Chris Silva](https://open.spotify.com/artist/0GldIdq1mfJ4q4BiUvxRMy) | [Uma Rapper Gangster](https://open.spotify.com/album/1zBM6RP3qvtjuHBACi0UJM) | 3:27 |
 | 15 | [Bungee Jump](https://open.spotify.com/track/4MR4cil2SSrNnTCWBLNnyu) | [Scarp](https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Heitor Gomes](https://open.spotify.com/artist/3aAnnSl8dwEO2UvxptirhZ) | [Bungee Jump](https://open.spotify.com/album/6SIKq1CsQRXqIAomcyn6Po) | 3:00 |
 | 16 | [Babilônia Brasil](https://open.spotify.com/track/76QRTYQpU55aefCL7PhzC4) | [Síntese](https://open.spotify.com/artist/44A7vIMeuMh3AhjFTkj8B5), [Teo Guedx](https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M), [Pedro Brando](https://open.spotify.com/artist/3dl4oP7XELyU1Oe6nIU81H), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Babilônia Brasil](https://open.spotify.com/album/5Wud3GCtI17gf1licUSlRu) | 2:54 |
 | 17 | [BARRIL DOBRADO \- Spotify Sessions](https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy) | [Matchola](https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X) | [Matchola \- Spotify Sessions](https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL) | 2:52 |

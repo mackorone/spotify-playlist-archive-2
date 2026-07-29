@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. COSME TADEO en portada.",
-  "num_followers": 439167,
+  "num_followers": 439263,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -639,8 +639,8 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
-        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 188693,
-      "name": "La culebra",
-      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+      "duration_ms": 195920,
+      "name": "Las Nachas",
+      "url": "https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
-      },
-      "artists": [
-        {
-          "name": "Banda Brava",
-          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
-        }
-      ],
-      "duration_ms": 231375,
-      "name": "Y Nos Dieron Las Diez",
-      "url": "https://open.spotify.com/track/5VkxZvqAG7uJNWB9ZuP2ok"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
         "name": "Gold Collection, Vol.1",
         "url": "https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 221857,
       "name": "Solo T\u00fa",
       "url": "https://open.spotify.com/track/7cA72Gk1dqN6w5j0azVHYR"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/6TpXaOqDOfQgvItf3Fe0v5"
+      },
+      "artists": [
+        {
+          "name": "Banda Brava",
+          "url": "https://open.spotify.com/artist/7r6kHYuxetBFp0EEKnLHmk"
+        }
+      ],
+      "duration_ms": 231375,
+      "name": "Y Nos Dieron Las Diez",
+      "url": "https://open.spotify.com/track/5VkxZvqAG7uJNWB9ZuP2ok"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/2X5Zbdd3iO6mBcf0VcVTAT"
+      },
+      "artists": [
+        {
+          "name": "Banda Pachuco",
+          "url": "https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Mitad T\u00fa, Mitad Yo",
+      "url": "https://open.spotify.com/track/6WeCdQhiHkPqCS5omDgylH"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
         "name": "Africanos Al Ataque",
         "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/2X5Zbdd3iO6mBcf0VcVTAT"
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
       },
       "artists": [
         {
-          "name": "Banda Pachuco",
-          "url": "https://open.spotify.com/artist/70IN0LkJ8uOb9MxQ7Tatzb"
+          "name": "Jorge Luis Cabrera con Banda Tierra Blanca",
+          "url": "https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Mitad T\u00fa, Mitad Yo",
-      "url": "https://open.spotify.com/track/6WeCdQhiHkPqCS5omDgylH"
+      "duration_ms": 134186,
+      "name": "Estrellita Marinera",
+      "url": "https://open.spotify.com/track/0NatF9wNvUjWVOVGaYKDuf"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1247,22 +1263,6 @@
       "duration_ms": 212857,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/1s0Jzgg7S6yR4PAvmJOSfB"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
-        "name": "M\u00fasica Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
-      },
-      "artists": [
-        {
-          "name": "Jorge Luis Cabrera con Banda Tierra Blanca",
-          "url": "https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr"
-        }
-      ],
-      "duration_ms": 134186,
-      "name": "Estrellita Marinera",
-      "url": "https://open.spotify.com/track/0NatF9wNvUjWVOVGaYKDuf"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
+      },
+      "artists": [
+        {
+          "name": "Jorge Luis Cabrera con Banda Tierra Blanca",
+          "url": "https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr"
+        }
+      ],
+      "duration_ms": 143426,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/1uuGSnwSJOJsNW9iN4uskZ"
+    },
+    {
+      "added_at": "2026-02-09 16:44:15",
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 196429,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/2wCgY4izSH5k8Dy6bUaO7H"
-    },
-    {
-      "added_at": "2026-02-09 16:44:15",
-      "album": {
-        "name": "M\u00fasica Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD"
-      },
-      "artists": [
-        {
-          "name": "Jorge Luis Cabrera con Banda Tierra Blanca",
-          "url": "https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr"
-        }
-      ],
-      "duration_ms": 143426,
-      "name": "Tus Desprecios",
-      "url": "https://open.spotify.com/track/1uuGSnwSJOJsNW9iN4uskZ"
     },
     {
       "added_at": "2026-02-09 16:44:15",
@@ -2107,8 +2107,8 @@
     {
       "added_at": "2026-02-09 16:44:15",
       "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
       },
       "artists": [
         {
@@ -2116,9 +2116,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 195920,
-      "name": "Las Nachas",
-      "url": "https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak"
+      "duration_ms": 188693,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
     },
     {
       "added_at": "2026-02-09 16:44:15",

@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 68284,
+  "num_followers": 68307,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Kulungile Baba",
+        "url": "https://open.spotify.com/album/7iZJDcW68iks6zXB6x14Mb"
+      },
+      "artists": [
+        {
+          "name": "S'fiso Ncwane",
+          "url": "https://open.spotify.com/artist/3S8kh2omzAwuqU2wac2xES"
+        }
+      ],
+      "duration_ms": 284853,
+      "name": "Kulungile Baba",
+      "url": "https://open.spotify.com/track/1lVle6qDY5DRMiJFgHyd3i"
+    },
+    {
       "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Ohlonishwayo",
@@ -947,30 +963,6 @@
       "duration_ms": 484000,
       "name": "Ohlonishwayo",
       "url": "https://open.spotify.com/track/1wbUhqVaUooVOryYgwZd4z"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Spirit of Praise, Vol. 5 (Live)",
-        "url": "https://open.spotify.com/album/5Et0R7qd6D6SupvR8TScaD"
-      },
-      "artists": [
-        {
-          "name": "Spirit Of Praise",
-          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
-        },
-        {
-          "name": "Tshepiso",
-          "url": "https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I"
-        },
-        {
-          "name": "Thando",
-          "url": "https://open.spotify.com/artist/3bQm9hhUUYYmq9RHfReyhn"
-        }
-      ],
-      "duration_ms": 406600,
-      "name": "Xa Ndiyekelelwa (Live)",
-      "url": "https://open.spotify.com/track/3hWGj0qXuKwjyM3Lf9ATMI"
     }
   ],
   "unique_name": "Gospel Greatness",

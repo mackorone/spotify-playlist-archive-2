@@ -20401,24 +20401,6 @@
     },
     {
       "album": {
-        "name": "EQUILIBRIVM II",
-        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "date_added": "2026-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 202817,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw"
-    },
-    {
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/1UhzWnFPrhn178PkkD5Cbf"
       },
@@ -20470,6 +20452,24 @@
       "duration_ms": 169548,
       "name": "Azul",
       "url": "https://open.spotify.com/track/3OwVh7EcRjaFjXXoUSQOWg"
+    },
+    {
+      "album": {
+        "name": "EQUILIBRIVM II",
+        "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202817,
+      "name": "Azul (Spanish)",
+      "url": "https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw"
     },
     {
       "album": {

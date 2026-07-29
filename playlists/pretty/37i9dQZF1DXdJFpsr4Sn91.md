@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,876 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,873 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 62 | [Viimeiseen hengenvetoon](https://open.spotify.com/track/4t3vRAfFDA9vuXE6iFAT7q) | [Vilma Alina](https://open.spotify.com/artist/5zmBbgxO5dvb4sbsX6dL19) | [Viimeiseen hengenvetoon](https://open.spotify.com/album/22h46Y8b4gQkLi5vrVT9HZ) | 3:21 |
 | 63 | [Tilulilulauluja](https://open.spotify.com/track/2MPahaLGhk0lFBJCmBbRy9) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Tilulilulauluja](https://open.spotify.com/album/1PonGDfHC7GS5OFkPxOcRP) | 4:07 |
 | 64 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |
-| 65 | [Pallo jalast](https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Pallo jalast](https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8) | 2:18 |
+| 65 | [Amarantti](https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo) | [Coevisto](https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr) | [Amarantti](https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw) | 3:32 |
 | 66 | [Talking Heads](https://open.spotify.com/track/5roZf9zbPUZ8n7c2kgfLBS) | [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Camouflage](https://open.spotify.com/album/6Y3KydMkPpUYGvhImvEASo) | 3:46 |
-| 67 | [Lehmityttö](https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om) | [Lehmityttö](https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw) | 3:15 |
-| 68 | [Amarantti](https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo) | [Coevisto](https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr) | [Amarantti](https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw) | 3:32 |
+| 67 | [Pallo jalast](https://open.spotify.com/track/4f6PlhctwuxoKdbkw0dJ3d) | [Ramses II](https://open.spotify.com/artist/0PI47Yot4sf9TVpnINMnPC) | [Pallo jalast](https://open.spotify.com/album/3faUCwH6s8olakIMxp7ps8) | 2:18 |
+| 68 | [Lehmityttö](https://open.spotify.com/track/1TAKLDnzz9IdQFLu7sozWO) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om) | [Lehmityttö](https://open.spotify.com/album/09GBZbGAUDnoMvUcdrI4fw) | 3:15 |
 | 69 | [Kevätkiima](https://open.spotify.com/track/6G2WYA3PdKa7lvgtwP6Ui0) | [Sebastian Visa](https://open.spotify.com/artist/5KGtBCbmfrpTqAq1ISbi1D), [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [Kevätkiima](https://open.spotify.com/album/0IcYHhXS5oi0F6sJmgy0pT) | 2:33 |
 | 70 | [Värit](https://open.spotify.com/track/0wvcMn4YYcmdAzvcvJkRZQ) | [BENI](https://open.spotify.com/artist/0yVKqanLFd6BLlbkfYOnqX) | [Värit](https://open.spotify.com/album/2lihJzuMtlNJASqgaIKFRA) | 2:49 |
 | 71 | [Vastaa](https://open.spotify.com/track/2MtGLKmYpAhXu87AOsT0V6) | [Immanuel](https://open.spotify.com/artist/57KAL3JM9mmp29xb8dUvpr), [Josua Leier](https://open.spotify.com/artist/7nHWq6kiJzbw2fQnh2bUgh), [Alttari](https://open.spotify.com/artist/0jT5BgEouLHKd0xk9fcVpj) | [Jumalanmiehii III](https://open.spotify.com/album/5I9bIAX4iyPrHSWZ646M8e) | 4:28 |

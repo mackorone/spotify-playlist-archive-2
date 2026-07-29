@@ -623,6 +623,28 @@
     },
     {
       "album": {
+        "name": "Atin Lang",
+        "url": "https://open.spotify.com/album/7EJJ736dZpyEsSZzaOwWyY"
+      },
+      "artists": [
+        {
+          "name": "STEF",
+          "url": "https://open.spotify.com/artist/0DgheKnMZrZrtmvuf0ajkD"
+        },
+        {
+          "name": "Joseph Ama",
+          "url": "https://open.spotify.com/artist/2CGYcI3ufgXqXY1iUG3Puz"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "Atin Lang",
+      "url": "https://open.spotify.com/track/76Mpyc732jtMXkL3TIjaDD"
+    },
+    {
+      "album": {
         "name": "AYOS LANG",
         "url": "https://open.spotify.com/album/1kDAyu74Or1EPw4rHRojlH"
       },
@@ -758,7 +780,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 179300,
       "name": "Babalik Sa'yo",
       "url": "https://open.spotify.com/track/3r4CJwnU85C7vehWeytzNf"
@@ -4588,7 +4610,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 288000,
       "name": "Kalimutan Ka",
       "url": "https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w"
@@ -8635,6 +8657,24 @@
     },
     {
       "album": {
+        "name": "LOVE AGAIN",
+        "url": "https://open.spotify.com/album/7HOUHt4q0cUR4R8x0j6F1G"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "SPEECHLESS",
+      "url": "https://open.spotify.com/track/3M7uz13jTfGb7RNttRApta"
+    },
+    {
+      "album": {
         "name": "Spell It Out",
         "url": "https://open.spotify.com/album/1TcPBkyRs4buC8NxiKIJ3s"
       },
@@ -8896,7 +8936,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 175000,
       "name": "SWERTE KA NA NGA",
       "url": "https://open.spotify.com/track/4T3CBzGcWCBXstkek0eLJ4"
@@ -9664,7 +9704,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 175080,
       "name": "Usok",
       "url": "https://open.spotify.com/track/1DgAcp83SL4Hjqylu0U7YL"
@@ -9798,7 +9838,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 204687,
       "name": "WALANG HIYA",
       "url": "https://open.spotify.com/track/1nBMosd9XZaJnpXTk5tHee"
@@ -9922,7 +9962,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 168041,
       "name": "WENNA",
       "url": "https://open.spotify.com/track/4inWT7wUgLQhWoIhE23WVE"

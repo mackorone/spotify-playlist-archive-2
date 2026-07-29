@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Tyla, Franglish x UZI, Charli xcx and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,581 likes - 104 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,588 likes - 104 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 69 | [Emmenez\-moi](https://open.spotify.com/track/0VVIlrHxYU8QK18xPyPTvP) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Emmenez\-moi](https://open.spotify.com/album/5YUeTX7Eki5v8SXj3PU7pn) | 3:00 |
 | 70 | [MI BB](https://open.spotify.com/track/6bmhecXBNupQjLC1QnvLxU) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [MI BB](https://open.spotify.com/album/2Jr3nTZOyITGzoZJ98LODA) | 3:52 |
 | 71 | [LE CÖDE](https://open.spotify.com/track/1TmwVkgrxvVyV4xljlPVSe) | [Ajar](https://open.spotify.com/artist/46OlTXwi8hanoxXHTE7E5z) | [LE CÖDE](https://open.spotify.com/album/0TkdoG1Hk38py45pXBoW3f) | 2:33 |
-| 72 | [CHETOU](https://open.spotify.com/track/1jbwN9AZtCyct4pWOuDUhL) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN), [JKDM](https://open.spotify.com/artist/1ZnkQoMIqX3MOMYju1boa5) | [CHETOU](https://open.spotify.com/album/4Z7mcih5os6vGp9Wa4xfdG) | 2:48 |
+| 72 | [CHETOU](https://open.spotify.com/track/1jbwN9AZtCyct4pWOuDUhL) | [Black Cat](https://open.spotify.com/artist/3YiFVUColvEK1dQAqDKYzU), [JKDM](https://open.spotify.com/artist/1ZnkQoMIqX3MOMYju1boa5) | [CHETOU](https://open.spotify.com/album/4Z7mcih5os6vGp9Wa4xfdG) | 2:48 |
 | 73 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 |
 | 74 | [Hurt](https://open.spotify.com/track/3mDdkv8881MzLmSB7z8Ogy) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [Hurt](https://open.spotify.com/album/6JIMB5E0g8XgwXd0sdS83S) | 2:47 |
 | 75 | [Rise Up](https://open.spotify.com/track/6UyTG7dDTWgNJWHpGqKiJE) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Idris Elba](https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Rise Up](https://open.spotify.com/album/21QSlqG2fDOa5WTrRHuUdt) | 3:26 |

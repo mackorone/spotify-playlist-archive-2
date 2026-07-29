@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 380358,
+  "num_followers": 380498,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Greece 2000",
-        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
-      },
-      "artists": [
-        {
-          "name": "Three Drives On A Vinyl",
-          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
-        },
-        {
-          "name": "Three Drives",
-          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
-        }
-      ],
-      "duration_ms": 234773,
-      "name": "Greece 2000",
-      "url": "https://open.spotify.com/track/0TZL4krCFcuTlYZ8J9kcBX"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Poetica (feat. Nadia Ali)",
         "url": "https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 253586,
       "name": "Rapture (feat.Nadia Ali)",
       "url": "https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
+      },
+      "artists": [
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Greece 2000",
+      "url": "https://open.spotify.com/track/0TZL4krCFcuTlYZ8J9kcBX"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/3cGR7Z78GMRPXetD6cFGjG"
+        "name": "Upstairs at Eric's",
+        "url": "https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3"
       },
       "artists": [
         {
-          "name": "The Beloved",
-          "url": "https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg"
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
         }
       ],
-      "duration_ms": 305800,
-      "name": "The Sun Rising",
-      "url": "https://open.spotify.com/track/4pCvvYLj3N4kdz0jvR33Dw"
+      "duration_ms": 345626,
+      "name": "Situation - 12\" Remix",
+      "url": "https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD"
     }
   ],
   "unique_name": "Ibiza Classics",

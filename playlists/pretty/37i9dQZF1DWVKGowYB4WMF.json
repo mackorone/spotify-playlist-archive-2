@@ -1,6 +1,6 @@
 {
   "description": "Jelly, arcades and a man on the moon, this one's for you!",
-  "num_followers": 98842,
+  "num_followers": 98853,
   "original_name": "Born in the 60s",
   "owner": {
     "name": "Spotify",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Samantha Fox Greatest Hits",
-        "url": "https://open.spotify.com/album/2MLEz0a0JzhNpbqXn2UxgG"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fox",
-          "url": "https://open.spotify.com/artist/0ym94xKp2PIOJtTZKpxbAa"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "Touch Me (I Want Your Body)",
-      "url": "https://open.spotify.com/track/13s6dCsNpSZflwVu2uzzPi"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "Platinum & Gold Collection",
         "url": "https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 220226,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Samantha Fox Greatest Hits",
+        "url": "https://open.spotify.com/album/2MLEz0a0JzhNpbqXn2UxgG"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fox",
+          "url": "https://open.spotify.com/artist/0ym94xKp2PIOJtTZKpxbAa"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Touch Me (I Want Your Body)",
+      "url": "https://open.spotify.com/track/13s6dCsNpSZflwVu2uzzPi"
     },
     {
       "added_at": "2024-03-26 13:49:34",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-03-26 13:49:34",
       "album": {
-        "name": "Dead Ringer",
-        "url": "https://open.spotify.com/album/2Y9CaNn1xUX2EJWIiBG45i"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        },
-        {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
-        }
-      ],
-      "duration_ms": 260693,
-      "name": "Dead Ringer for Love (with Cher)",
-      "url": "https://open.spotify.com/track/6LR5yuN6XStHDZiusCxqYe"
-    },
-    {
-      "added_at": "2024-03-26 13:49:34",
-      "album": {
         "name": "A Woman Needs Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/38993ejU6at3J4b0fxIien"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 249053,
       "name": "A Woman Needs Love (Just Like You Do)",
       "url": "https://open.spotify.com/track/0DEwNI2DgasX1eprqCivJk"
+    },
+    {
+      "added_at": "2024-03-26 13:49:34",
+      "album": {
+        "name": "Dead Ringer",
+        "url": "https://open.spotify.com/album/2Y9CaNn1xUX2EJWIiBG45i"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        },
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 260693,
+      "name": "Dead Ringer for Love (with Cher)",
+      "url": "https://open.spotify.com/track/6LR5yuN6XStHDZiusCxqYe"
     },
     {
       "added_at": "2024-03-26 13:49:34",

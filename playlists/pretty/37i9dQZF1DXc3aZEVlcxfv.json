@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21729,
+  "num_followers": 21735,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -1129,6 +1129,22 @@
       "url": "https://open.spotify.com/track/2Nnj7poR9QgUPCP17r3PLP"
     },
     {
+      "added_at": "2026-07-24 00:01:56",
+      "album": {
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
+    },
+    {
       "added_at": "2026-07-17 00:01:08",
       "album": {
         "name": "Yours Truly",
@@ -1225,6 +1241,22 @@
       "url": "https://open.spotify.com/track/4jRaM74PxaKqtnjfT8Ba01"
     },
     {
+      "added_at": "2026-03-13 00:01:18",
+      "album": {
+        "name": "Miracle Walking (Radio Edit)",
+        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Miracle Walking - Radio Edit",
+      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
+    },
+    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "DO",
@@ -1243,38 +1275,6 @@
       "duration_ms": 145531,
       "name": "DO",
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
-    },
-    {
-      "added_at": "2026-03-13 00:01:18",
-      "album": {
-        "name": "Miracle Walking (Radio Edit)",
-        "url": "https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih"
-      },
-      "artists": [
-        {
-          "name": "Freke Umoh",
-          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Miracle Walking - Radio Edit",
-      "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
-    },
-    {
-      "added_at": "2026-07-24 00:01:56",
-      "album": {
-        "name": "What A Life",
-        "url": "https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "What A Life",
-      "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
     },
     {
       "added_at": "2026-05-01 00:02:08",
@@ -1325,6 +1325,22 @@
       "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
     },
     {
+      "added_at": "2026-07-24 00:01:56",
+      "album": {
+        "name": "Hallelu",
+        "url": "https://open.spotify.com/album/0ZIZgcU4bji9Dlp8Bkd7Xt"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "duration_ms": 155688,
+      "name": "My Soul Sings",
+      "url": "https://open.spotify.com/track/3Ty3SsKmaV4F6JO9N9dnrW"
+    },
+    {
       "added_at": "2026-07-10 00:01:15",
       "album": {
         "name": "Grace (Remix)",
@@ -1361,6 +1377,26 @@
       "url": "https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6"
     },
     {
+      "added_at": "2026-03-06 00:01:07",
+      "album": {
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/2n1yJgNXwvsE5SY3Q1gm9l"
+      },
+      "artists": [
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "Serviteur Pierre",
+          "url": "https://open.spotify.com/artist/1JjFSYv0PaKKlK1ImatxLh"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
+    },
+    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "If E No Be You Jesus",
@@ -1385,44 +1421,20 @@
       "url": "https://open.spotify.com/track/0RlbvNt1jx208AZAdsMpBv"
     },
     {
-      "added_at": "2026-03-06 00:01:07",
+      "added_at": "2026-04-24 00:01:08",
       "album": {
-        "name": "Overflow",
-        "url": "https://open.spotify.com/album/2n1yJgNXwvsE5SY3Q1gm9l"
-      },
-      "artists": [
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        },
-        {
-          "name": "Serviteur Pierre",
-          "url": "https://open.spotify.com/artist/1JjFSYv0PaKKlK1ImatxLh"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Overflow",
-      "url": "https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt"
-    },
-    {
-      "added_at": "2026-05-29 00:01:36",
-      "album": {
-        "name": "I See The Lord (Live)",
-        "url": "https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3"
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
       },
       "artists": [
         {
           "name": "Folabi Nuel",
           "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
-        },
-        {
-          "name": "Ibquake",
-          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
         }
       ],
-      "duration_ms": 610039,
-      "name": "I See The Lord - Live",
-      "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
     },
     {
       "added_at": "2026-07-03 00:01:27",
@@ -1505,20 +1517,24 @@
       "url": "https://open.spotify.com/track/7yErAxvmSIVzWb0BFH0U4n"
     },
     {
-      "added_at": "2026-04-24 00:01:08",
+      "added_at": "2026-05-29 00:01:36",
       "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+        "name": "I See The Lord (Live)",
+        "url": "https://open.spotify.com/album/3EbJqKDeDsAX4wv1RZ5Za3"
       },
       "artists": [
         {
           "name": "Folabi Nuel",
           "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Ibquake",
+          "url": "https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u"
         }
       ],
-      "duration_ms": 147452,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+      "duration_ms": 610039,
+      "name": "I See The Lord - Live",
+      "url": "https://open.spotify.com/track/38kUGVC4ZLfg6ekJ08IcUh"
     },
     {
       "added_at": "2026-06-19 00:01:33",
@@ -1559,22 +1575,6 @@
       "duration_ms": 299013,
       "name": "Citizen",
       "url": "https://open.spotify.com/track/6NYcrgToyDj04al4ZMtHxz"
-    },
-    {
-      "added_at": "2026-06-26 00:01:41",
-      "album": {
-        "name": "Nakupenda",
-        "url": "https://open.spotify.com/album/2FljmMMzvw2pJ9jqgm8Fml"
-      },
-      "artists": [
-        {
-          "name": "Toria Etuk",
-          "url": "https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR"
-        }
-      ],
-      "duration_ms": 138620,
-      "name": "Nakupenda",
-      "url": "https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ"
     }
   ],
   "unique_name": "Blessed",

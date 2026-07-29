@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,753 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,754 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 9 | [Guantanamera \(feat\. Ms\. Lauryn Hill, Celia Cruz & Jeni Fujita\)](https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Jeni Fujita](https://open.spotify.com/artist/4jispKkgFHkoH9imP874K2) | [Wyclef Jean presents The Carnival featuring Refugee Allstars \(feat\. Refugee All Stars\)](https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU) | 4:30 |
 | 10 | [Tu Voz](https://open.spotify.com/track/1lQWRMxlvahpRLzrwSIXNH) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 3:10 |
 | 11 | [Que Le Den Candela](https://open.spotify.com/track/52IqB6OzcLMRDuW2mAUNq6) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Irrepetible](https://open.spotify.com/album/6qtA79Q8hCq9XJTZiR4iQS) | 3:52 |
-| 12 | [Yo Viviré \- I Will Survive](https://open.spotify.com/track/2btnzgT8ARxKjcdOTdqj37) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Regalo Del Alma](https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q) | 4:31 |
-| 13 | [Quizás, Quizás, Quizás \- Remastered 2025](https://open.spotify.com/track/5EWAjQSjo8SZ2fbVKfCrcu) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [The Queen Of Salsa \(Remastered 2025\)](https://open.spotify.com/album/0dgFgOU1v9fqUZBIEcse7g) | 2:29 |
+| 12 | [Quizás, Quizás, Quizás \- Remastered 2025](https://open.spotify.com/track/5EWAjQSjo8SZ2fbVKfCrcu) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [The Queen Of Salsa \(Remastered 2025\)](https://open.spotify.com/album/0dgFgOU1v9fqUZBIEcse7g) | 2:29 |
+| 13 | [Yo Viviré \- I Will Survive](https://open.spotify.com/track/2btnzgT8ARxKjcdOTdqj37) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Regalo Del Alma](https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q) | 4:31 |
 | 14 | [Dile Que Por Mí No Tema](https://open.spotify.com/track/2nti8TuVhtp3Gk53WUnnM4) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Boleros](https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj) | 2:33 |
 | 15 | [Celia's Oye Como Va \(Oye Como Va\)](https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh) | 4:17 |
 | 16 | [Azúcar Negra](https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Vida Es Un Carnaval \(Baile Total\)](https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rwPYs.md) - [plain]
 | 49 | [Juancito Trucupey](https://open.spotify.com/track/2QPG2p6h37YhkJCzceqrrP) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Las Guarachas De La Guarachera](https://open.spotify.com/album/0tEngAyPWimFTRtVrbbvGB) | 2:46 |
 | 50 | [Tres Gotas De Agua Bendita \(feat\. Celia Cruz\)](https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Alma Caribeña](https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np) | 4:17 |
 
-Snapshot ID: `amVOAAAAAABWGdQU5OnctjqKwajymSZC`
+Snapshot ID: `amafgAAAAAAXAp1O/PGThrstJW4bj/vW`

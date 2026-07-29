@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 75992,
+  "num_followers": 76001,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -319,18 +319,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Lady Pank",
-        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
+        "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
+        "url": "https://open.spotify.com/album/0Q3TBllCSiPaWH6VBITiP0"
       },
       "artists": [
         {
-          "name": "Lady Pank",
-          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
         }
       ],
-      "duration_ms": 240080,
-      "name": "Kryzysowa narzeczona",
-      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
+      "duration_ms": 243706,
+      "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
+      "url": "https://open.spotify.com/track/4SDTgdnpGs2CH27ECddcAu"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -371,18 +371,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
-        "url": "https://open.spotify.com/album/0Q3TBllCSiPaWH6VBITiP0"
+        "name": "Lady Pank",
+        "url": "https://open.spotify.com/album/1HrCTAe0ejQtd7xIGuwMTN"
       },
       "artists": [
         {
-          "name": "Ania D\u0105browska",
-          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+          "name": "Lady Pank",
+          "url": "https://open.spotify.com/artist/0PkkQfDUJZuR2PcQ6uEV8j"
         }
       ],
-      "duration_ms": 243706,
-      "name": "Z Tob\u0105 Nie Umiem Wygra\u0107",
-      "url": "https://open.spotify.com/track/4SDTgdnpGs2CH27ECddcAu"
+      "duration_ms": 240080,
+      "name": "Kryzysowa narzeczona",
+      "url": "https://open.spotify.com/track/55IzVZdFOu4gS5U5RDO4g8"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -403,30 +403,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Nim Zajdzie S\u0142o\u0144ce",
-        "url": "https://open.spotify.com/album/5WnfW3ixclewUIAMAFfiDO"
+        "name": "Porady Na Zdrady [Dreszcze]",
+        "url": "https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82"
       },
       "artists": [
         {
-          "name": "Smolasty",
-          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
-        },
-        {
-          "name": "Doda",
-          "url": "https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A"
-        },
-        {
-          "name": "Filip Leon",
-          "url": "https://open.spotify.com/artist/3iBwYiThZoCMOWt0Vc69gv"
-        },
-        {
-          "name": "WIKTOR",
-          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+          "name": "Ania D\u0105browska",
+          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
         }
       ],
-      "duration_ms": 147109,
-      "name": "Nim Zajdzie S\u0142o\u0144ce",
-      "url": "https://open.spotify.com/track/1NtvjagHJRLQogzWVhpghv"
+      "duration_ms": 210662,
+      "name": "Porady Na Zdrady [Dreszcze]",
+      "url": "https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -467,18 +455,30 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Porady Na Zdrady [Dreszcze]",
-        "url": "https://open.spotify.com/album/3XC6o7PTm3SiamWBrYVo82"
+        "name": "Nim Zajdzie S\u0142o\u0144ce",
+        "url": "https://open.spotify.com/album/5WnfW3ixclewUIAMAFfiDO"
       },
       "artists": [
         {
-          "name": "Ania D\u0105browska",
-          "url": "https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO"
+          "name": "Smolasty",
+          "url": "https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP"
+        },
+        {
+          "name": "Doda",
+          "url": "https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A"
+        },
+        {
+          "name": "Filip Leon",
+          "url": "https://open.spotify.com/artist/3iBwYiThZoCMOWt0Vc69gv"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
         }
       ],
-      "duration_ms": 210662,
-      "name": "Porady Na Zdrady [Dreszcze]",
-      "url": "https://open.spotify.com/track/5MVK9Up4ORQdmOdBuk0MIy"
+      "duration_ms": 147109,
+      "name": "Nim Zajdzie S\u0142o\u0144ce",
+      "url": "https://open.spotify.com/track/1NtvjagHJRLQogzWVhpghv"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Ballady",
-        "url": "https://open.spotify.com/album/7odRFyosv4azI3uenvDJq0"
-      },
-      "artists": [
-        {
-          "name": "Bajm",
-          "url": "https://open.spotify.com/artist/1ckVZCWKKoeh5GhtidoU4D"
-        }
-      ],
-      "duration_ms": 319346,
-      "name": "Dwa serca, dwa smutki",
-      "url": "https://open.spotify.com/track/0hmuqBnZVaud5KU7lMRJlE"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Monkey Business",
         "url": "https://open.spotify.com/album/5Ig1N32hUUC4dZFltNQtjb"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 180394,
       "name": "Byle jak",
       "url": "https://open.spotify.com/track/6cdL3GhIlJZaAXo4Khijwg"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Ballady",
+        "url": "https://open.spotify.com/album/7odRFyosv4azI3uenvDJq0"
+      },
+      "artists": [
+        {
+          "name": "Bajm",
+          "url": "https://open.spotify.com/artist/1ckVZCWKKoeh5GhtidoU4D"
+        }
+      ],
+      "duration_ms": 319346,
+      "name": "Dwa serca, dwa smutki",
+      "url": "https://open.spotify.com/track/0hmuqBnZVaud5KU7lMRJlE"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "\u015awiat si\u0119 pomyli\u0142",
-        "url": "https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf"
+        "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
+        "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
       },
       "artists": [
         {
-          "name": "Patrycja Markowska",
-          "url": "https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf"
+          "name": "Maciej Musia\u0142owski",
+          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
+        },
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
         }
       ],
-      "duration_ms": 210333,
-      "name": "\u015awiat si\u0119 pomyli\u0142",
-      "url": "https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH"
+      "duration_ms": 249046,
+      "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
+      "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1263,22 +1267,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
-        "url": "https://open.spotify.com/album/0z6QIndzIRBS2pDAL1XECw"
+        "name": "\u015awiat si\u0119 pomyli\u0142",
+        "url": "https://open.spotify.com/album/1HUlehVstUZpB4DenSLVTf"
       },
       "artists": [
         {
-          "name": "Maciej Musia\u0142owski",
-          "url": "https://open.spotify.com/artist/6MlVGjgieHwMJCPBjU41dN"
-        },
-        {
-          "name": "Julia Wieniawa",
-          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+          "name": "Patrycja Markowska",
+          "url": "https://open.spotify.com/artist/0Jl6TFKAJR7zIv2kvA1RNf"
         }
       ],
-      "duration_ms": 249046,
-      "name": "Zabierz t\u0119 mi\u0142o\u015b\u0107 (Storytel \"Random\")",
-      "url": "https://open.spotify.com/track/25vX1mMJilMWIc5Ht6hkGj"
+      "duration_ms": 210333,
+      "name": "\u015awiat si\u0119 pomyli\u0142",
+      "url": "https://open.spotify.com/track/3o9ZcjNqDxa6HGdHew2AaH"
     },
     {
       "added_at": "2025-10-16 09:34:51",

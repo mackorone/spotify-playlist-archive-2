@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > The latest in world music\. From the continent, to the islands with Buju Banton.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,393 likes - 89 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,428 likes - 89 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 23 | [On my mind](https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [On my mind](https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT) | 2:43 |
 | 24 | [Dweet & Done](https://open.spotify.com/track/3flrUNxaX5GNPvA8PQ3vXX) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [Dweet & Done](https://open.spotify.com/album/1OQSrRNseSypWakkabr0zB) | 2:45 |
 | 25 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 |
-| 26 | [Sea Body](https://open.spotify.com/track/0xvqzDpLDDNdAzEfARvsZc) | [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08), [Sun Dej](https://open.spotify.com/artist/6Cq3opPY47yml2iWeN9Tg7) | [Sea Body](https://open.spotify.com/album/04CYneuNFb2XW3gLnUox0s) | 2:30 |
+| 26 | [Sea Body](https://open.spotify.com/track/0xvqzDpLDDNdAzEfARvsZc) | [Friyie](https://open.spotify.com/artist/3eXSznGfQxOSL8TGWUiV08), [SunDej](https://open.spotify.com/artist/2eQuA8A5SkYtKWmqXF0n36) | [Sea Body](https://open.spotify.com/album/04CYneuNFb2XW3gLnUox0s) | 2:30 |
 | 27 | [Talk To Me Nuh](https://open.spotify.com/track/57OHpXh84fu4FwL02ykMoI) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Talk To Me Nuh](https://open.spotify.com/album/2m47uENn2jQv3q5muu3z1S) | 2:06 |
 | 28 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 |
 | 29 | [Lambo](https://open.spotify.com/track/1rpShKnZmMlS1myDAtC0c8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Dre Skull](https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Lambo](https://open.spotify.com/album/1dCxh6mKSGZ4s6bq9TDQmG) | 2:36 |

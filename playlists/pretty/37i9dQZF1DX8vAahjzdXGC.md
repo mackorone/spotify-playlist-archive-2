@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari JENNIE, Charli xcx , Tyla, Daun Jatuh, The Jansen dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,883 likes - 102 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,862 likes - 102 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 4 | [Animal](https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Animal](https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83) | 2:38 |
 | 5 | [Remedied](https://open.spotify.com/track/3tu3WIgcHYck8A7csEKyUM) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Remedied](https://open.spotify.com/album/3FuGxnQ5whfiCx1sPOpc2g) | 2:08 |
 | 6 | [Oh Mother](https://open.spotify.com/track/75XBJLey4l5zwRIAk3LAWl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [The TwoCity Chorus](https://open.spotify.com/artist/03G8tzT77pojVBafVhOm3n) | [Oh Mother](https://open.spotify.com/album/7FDLvqBfXWVElySyTJa0om) | 3:32 |
-| 7 | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
+| 7 | [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
 | 8 | [bukan tentangmu](https://open.spotify.com/track/7dbtgxZtAZPHsqAHATSWmu) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [bukan tentangmu](https://open.spotify.com/album/1mdmuZ24c1v292h8LAodRr) | 3:54 |
 | 9 | [Semoga Lagu Ini Jadi Kenyataan](https://open.spotify.com/track/6NX6dLzojPPb5uJc6Y8jDF) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Semoga Lagu Ini Jadi Kenyataan](https://open.spotify.com/album/76WjgX3nzZyfaSqGsjueqE) | 4:03 |
 | 10 | [Cahaya Hati](https://open.spotify.com/track/50DXcMbkazPLcD8gL0068O) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Eross Candra](https://open.spotify.com/artist/42EkE4cxhsHq2hJwnmfgn2), [Joey Penny](https://open.spotify.com/artist/6c61KWwMh7qXh4E2SXASIj), [Batavia Madrigal Singers](https://open.spotify.com/artist/7ghuu6GR6hbeKHwrVvnle6), [Yuyun Arfah](https://open.spotify.com/artist/0jKvgeLp4HE4aqrUYviBrz), [Elwin Hendrijanto](https://open.spotify.com/artist/3ihbMNMokh3vXD7iXsIUpm), [Dunung Basuki](https://open.spotify.com/artist/320zzmrKAaRgsb3efJ1HfQ) | [Cahaya Hati](https://open.spotify.com/album/6jXv9Ipv3R9xAVkFjH1r8V) | 4:18 |

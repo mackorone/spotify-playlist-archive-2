@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "The Book Of Thump",
+        "url": "https://open.spotify.com/album/0qre5bEcpwkYBHUMdIU1iu"
+      },
+      "artists": [
+        {
+          "name": "Thumpasaurus",
+          "url": "https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157010,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/2ks3PTNx1woPAl27AkDAk8"
+    },
+    {
+      "album": {
         "name": "Ugly is Beautiful",
         "url": "https://open.spotify.com/album/1HmWQo43Gt8BR2dylfv3o4"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,204,017 likes - 353 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,204,527 likes - 352 songs - 15 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -355,11 +355,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 345 | [Affections](https://open.spotify.com/track/1RN8RzzOQMgPuLbyUMYrj7) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Affections](https://open.spotify.com/album/6MMTdk9uojOlZgNZzrT8Fk) | 2:44 |
 | 346 | [Glimpses](https://open.spotify.com/track/2EQ7YLdGJiPL9G87B19b68) | [SCVLPTURE](https://open.spotify.com/artist/5XVMPbPClGH8Xp9UjUUht6) | [Glimpses](https://open.spotify.com/album/3yo1l4w83g3kmLYL8qjy5d) | 2:19 |
 | 347 | [Heartspace](https://open.spotify.com/track/1NAFJtBsai6MFYLQEw3Lhs) | [Evolutionists](https://open.spotify.com/artist/4bRpigkT2Z3Sq7CjnVN1QD) | [Heartspace](https://open.spotify.com/album/6aAbot37KJ7NOsUNm7p3YX) | 2:27 |
-| 348 | [Continuum](https://open.spotify.com/track/3sFxPTtTC6s8O2KMslNuji) | [Mikkel Boyer](https://open.spotify.com/artist/1HhdV78nBxhhXAnJKVDEu8) | [Continuum](https://open.spotify.com/album/4EQ1fmpdkB59cIOqxTtGSC) | 2:04 |
-| 349 | [Sonnecchiare](https://open.spotify.com/track/3pGWoQJTIQrFgN4DKqGYLn) | [Eomir](https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx) | [Sonnecchiare](https://open.spotify.com/album/1pXhbGDfD3IMn0LcIEKVi6) | 2:48 |
-| 350 | [Partially Present](https://open.spotify.com/track/1xeZCLIfUBEHdbpO9sJbDP) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Partially Present](https://open.spotify.com/album/4DmbOBmECGk9NAR9EgtTeZ) | 2:45 |
-| 351 | [Sea Whispers](https://open.spotify.com/track/3oSH4255HrKKOJOA8k0H6G) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Sea Whispers](https://open.spotify.com/album/32ioZkFFp2rCAmUqCsV29m) | 2:43 |
-| 352 | [Lost In Yesterday](https://open.spotify.com/track/1vtoQy0Bltfse2ZTMSUdfY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Lost In Yesterday](https://open.spotify.com/album/6AmGlVejoRSFNIT18eo7R3) | 2:40 |
-| 353 | [Contemplation](https://open.spotify.com/track/3VFmHInobdXT3lAYhQoKJi) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Contemplation](https://open.spotify.com/album/3i02hPApQdUfXhQHH2ifCp) | 3:25 |
+| 348 | [Sonnecchiare](https://open.spotify.com/track/3pGWoQJTIQrFgN4DKqGYLn) | [Eomir](https://open.spotify.com/artist/6MPefoqWwiigHX975Qxuhx) | [Sonnecchiare](https://open.spotify.com/album/1pXhbGDfD3IMn0LcIEKVi6) | 2:48 |
+| 349 | [Partially Present](https://open.spotify.com/track/1xeZCLIfUBEHdbpO9sJbDP) | [Imperial Atlas](https://open.spotify.com/artist/76BYMatrC95a7MaFSxeU9g) | [Partially Present](https://open.spotify.com/album/4DmbOBmECGk9NAR9EgtTeZ) | 2:45 |
+| 350 | [Sea Whispers](https://open.spotify.com/track/3oSH4255HrKKOJOA8k0H6G) | [Aquatic Dreamer](https://open.spotify.com/artist/5J0V2NU23Rfh99C1bQJMiM) | [Sea Whispers](https://open.spotify.com/album/32ioZkFFp2rCAmUqCsV29m) | 2:43 |
+| 351 | [Lost In Yesterday](https://open.spotify.com/track/1vtoQy0Bltfse2ZTMSUdfY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Lost In Yesterday](https://open.spotify.com/album/6AmGlVejoRSFNIT18eo7R3) | 2:40 |
+| 352 | [Contemplation](https://open.spotify.com/track/3VFmHInobdXT3lAYhQoKJi) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Contemplation](https://open.spotify.com/album/3i02hPApQdUfXhQHH2ifCp) | 3:25 |
 
-Snapshot ID: `AAAAAO4HRmS0pk+B3dog74wPm8z1QOeK`
+Snapshot ID: `AAAAAN7d4XHfOvouo9NLqdBkomEfWGCd`

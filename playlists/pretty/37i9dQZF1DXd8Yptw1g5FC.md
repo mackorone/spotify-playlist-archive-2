@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Özgün ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,378 likes - 123 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,372 likes - 123 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 37 | [Dive Into Deep](https://open.spotify.com/track/7BSim1RDhhlLiGvlApG3On) | [Serdar Bayram](https://open.spotify.com/artist/3Pw01quXhPlltbQMxBTjTO), [Lightning Effect](https://open.spotify.com/artist/36DrPK0b61Ptyzl8tAfImz), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Dive Into Deep](https://open.spotify.com/album/1nJn8Pr3n8nnsoM7GTYZAV) | 6:31 |
 | 38 | [Olacak](https://open.spotify.com/track/2l9MAo55WXtJT8ruKztiKr) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD) | [Olacak](https://open.spotify.com/album/5JCDIVgnFmuo6sziJTBkeq) | 2:16 |
 | 39 | [Yolları Ayıralım](https://open.spotify.com/track/4z5kjypv2WKxilTI5WG2gf) | [Melisa Karakurt](https://open.spotify.com/artist/73DiISVOqWg54BVFHLiCPH), [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Yolları Ayıralım](https://open.spotify.com/album/65LeZQUe3K0huDGlN8HWnz) | 3:12 |
-| 40 | [ESCALADE](https://open.spotify.com/track/5nDHWSRDVYfprG8EuKqSFk) | [cudi](https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP), [OFY](https://open.spotify.com/artist/3E7GopxC0CINF5IIajYeo9) | [ESCALADE](https://open.spotify.com/album/7ljEFPZKqXfmU3tN37LneE) | 1:55 |
+| 40 | [ESCALADE](https://open.spotify.com/track/5nDHWSRDVYfprG8EuKqSFk) | [cudi](https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP), [OFY](https://open.spotify.com/artist/3E7GopxC0CINF5IIajYeo9), [GLOCK61](https://open.spotify.com/artist/2i41JV4imqdacTUzy3G7Ow) | [ESCALADE](https://open.spotify.com/album/7ljEFPZKqXfmU3tN37LneE) | 1:55 |
 | 41 | [Çok Geç](https://open.spotify.com/track/3rZeMTYLkHeMrOu7ouZLUj) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9), [Rebel Musique](https://open.spotify.com/artist/7l9tIiikUJRpZao2Gz3fML), [NEEQ](https://open.spotify.com/artist/1DHPZsIfy1TSPqLxplObKk), [J.Bet](https://open.spotify.com/artist/6PQfVOXwzvn2mFzxBkFs76) | [Çok Geç](https://open.spotify.com/album/3hIkEn2MKwSGLurt2FTYwY) | 2:38 |
 | 42 | [Bulamadım](https://open.spotify.com/track/0hdGVnBgspOTyDFE4dPcGw) | [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T), [Ceylan Koynat](https://open.spotify.com/artist/4o9kilxirh6nRSrNfOHCXb) | [Bulamadım](https://open.spotify.com/album/4RHk6YmZvtckbG0j1x7I9N) | 2:24 |
 | 43 | [Bi Rüyaymış](https://open.spotify.com/track/2SYOG16lDpWvmLZd2KK3i6) | [ATE](https://open.spotify.com/artist/1gta8KxWev006kmzUCM0a5) | [Bi Rüyaymış](https://open.spotify.com/album/4w3hqOKfgvrCwyLMsOfO01) | 2:51 |

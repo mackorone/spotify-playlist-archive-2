@@ -4,7 +4,7 @@
 
 > New music from Tyla, Xduppy, Sam Smith, Blxckie, DJ Zinhle and more.
 
-11,111 songs - 32 day 10 hr 19 min
+11,113 songs - 32 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7880,6 +7880,7 @@
 | [Re jimile](https://open.spotify.com/track/3ioQ37hSHqq5u21fTH5Tja) | [DJ DADAMAN](https://open.spotify.com/artist/6ju6BoDzlFPDxI9ghiSL4H), [Thathile](https://open.spotify.com/artist/1tSpvXKReZjBrhfWVmeJQ2), [Gentle Vito](https://open.spotify.com/artist/2FMaYUI2Mzw4CAWEObLfYZ) | [3AM In Pitori](https://open.spotify.com/album/5KrazlEC7gugwcJVi3uSqv) | 5:28 | 2026-05-15 | 2026-05-22 |
 | [Re Romilwe](https://open.spotify.com/track/4wCP6oOPwbFetTKiZEcTpw) | [Tshepang Ramoba](https://open.spotify.com/artist/2MmU0xFFmDGDONtHlPHUXh) | [Re Romilwe](https://open.spotify.com/album/66TbtAqn9qIrQt5Qi8PUMW) | 4:28 | 2024-06-06 | 2024-06-14 |
 | [Re\-Amathambo \- Remix](https://open.spotify.com/track/192uCvkHdM8IXxC3zYcBjF) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Fka Mash](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Anna Widauer](https://open.spotify.com/artist/0a6EIFJe4gQqo49dHs0oGQ) | [Re\-Amathambo \(Remix\)](https://open.spotify.com/album/1Bf6HFljKzaSUAb4fx8bJS) | 8:42 | 2025-03-21 | 2025-03-29 |
+| [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 | 2026-07-28 |  |
 | [Reaching](https://open.spotify.com/track/4qk6A4ZnRzkOfrNwJpgmxv) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Reaching](https://open.spotify.com/album/4xmUlfu8OMsdh6XGlvA12F) | 3:12 | 2025-04-24 | 2025-05-02 |
 | [Read All About It, Pt\. III](https://open.spotify.com/track/0QHL4t83Vjn4NkQCfHktjz) | [Stefan Torres](https://open.spotify.com/artist/2KWUuG8hsBCtlWqyI2EpFO), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Read All About It, Pt\. III](https://open.spotify.com/album/1vC5SB0iOQJH37TgXWrcbl) | 2:54 | 2026-07-02 | 2026-07-10 |
 | [read your mind](https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [read your mind](https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt) | 2:03 | 2026-06-25 | 2026-07-03 |
@@ -10667,6 +10668,7 @@
 | [Where I'm Going](https://open.spotify.com/track/4p2lzAr7YrWPK3seRMZAIj) | [Gemma Griffiths](https://open.spotify.com/artist/1ho07fAwkrMIMAJId6DbCG) | [Where I'm Going](https://open.spotify.com/album/6ezLso9TzdiFtj02Lmzzd9) | 3:04 | 2024-05-03 | 2024-05-10 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 | 2025-09-18 | 2025-09-27 |
 | [Where Oh Where](https://open.spotify.com/track/03zlFzKWT8YwVNYMUL32Bq) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Victory Lap](https://open.spotify.com/album/1HLdraTS3m3PgDkbJdFNXh) | 4:01 | 2025-05-22 | 2025-05-30 |
+| [Where She Come From](https://open.spotify.com/track/2W9cgPhvERaeE0BnM3CsKd) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Where She Come From](https://open.spotify.com/album/3ErrdBA5ZiII9WOb4QbJiD) | 2:30 | 2026-07-28 |  |
 | [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-18 | 2023-05-26 |
 | [Where the Wind Will Blow](https://open.spotify.com/track/2UHltNRCZgSeFLuJ2NtuM0) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq) | [The Reign of the Heart](https://open.spotify.com/album/0embk14m8ul3vtgoXQrpmB) | 3:45 | 2026-05-15 | 2026-05-22 |
 | [Where Them Girls At](https://open.spotify.com/track/2OUK5td58k4BV2GvFdfdzr) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 3:11 | 2024-06-28 | 2024-07-05 |

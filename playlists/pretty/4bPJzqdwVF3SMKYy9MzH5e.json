@@ -6,7 +6,7 @@
     "name": "mg",
     "url": "https://open.spotify.com/user/yom8mary"
   },
-  "snapshot_id": "AAAFbtwBGcp6WnNCypI4fHYJMkP05vA7",
+  "snapshot_id": "AAAFcpbs7fGctPMH63IHlxcnhtpFYsKD",
   "tracks": [
     {
       "added_at": "2021-08-05 02:05:05",
@@ -40877,6 +40877,22 @@
       "url": "https://open.spotify.com/track/62JNG84aYlIXH2bFDd4LXt"
     },
     {
+      "added_at": "2026-07-28 14:28:02",
+      "album": {
+        "name": "home2hide",
+        "url": "https://open.spotify.com/album/5aF9YbOB33YQY4B5nYOOnE"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 240221,
+      "name": "home2hide",
+      "url": "https://open.spotify.com/track/08nerOhK5AVYPSKhBr1uz3"
+    },
+    {
       "added_at": "2026-07-18 00:56:25",
       "album": {
         "name": "13 Months of Sunshine",
@@ -40987,6 +41003,50 @@
       "duration_ms": 88421,
       "name": "PALETA",
       "url": "https://open.spotify.com/track/4C1wgr96INpecKLtaTirlw"
+    },
+    {
+      "added_at": "2026-07-28 21:35:23",
+      "album": {
+        "name": "DISSOLVING GIRL",
+        "url": "https://open.spotify.com/album/6rForAoXK0boVeUGGO9ybb"
+      },
+      "artists": [
+        {
+          "name": "Rosaliedu38",
+          "url": "https://open.spotify.com/artist/5vkbTElqrLRvkM3SoheTQj"
+        },
+        {
+          "name": "Lili Castiglioni",
+          "url": "https://open.spotify.com/artist/0FbauK4BpXbSL71RlgD5NU"
+        }
+      ],
+      "duration_ms": 123798,
+      "name": "DISSOLVING GIRL",
+      "url": "https://open.spotify.com/track/3ckvDM5dUV06Cpna6KxGKk"
+    },
+    {
+      "added_at": "2026-07-28 21:39:16",
+      "album": {
+        "name": "French Boys",
+        "url": "https://open.spotify.com/album/1YcB3dHmmnNZBvGHzDrRaz"
+      },
+      "artists": [
+        {
+          "name": "Alyz\u00e9e",
+          "url": "https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO"
+        },
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Yazida",
+          "url": "https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "French Boys",
+      "url": "https://open.spotify.com/track/3hCT8pt9PMNBl1iej7NQBu"
     }
   ],
   "unique_name": "\ud835\ude5b\ud835\ude68\ud835\ude5d \ud835\ude63\ud835\ude59 \ud835\ude58\ud835\ude5d\ud835\ude65 \ud835\ude5f\ud835\ude62\ud835\ude68 ",

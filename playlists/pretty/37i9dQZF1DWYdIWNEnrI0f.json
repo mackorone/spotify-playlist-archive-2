@@ -1,6 +1,6 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 30944,
+  "num_followers": 30995,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2026-07-18 07:02:21",
       "album": {
+        "name": "Chess Flow",
+        "url": "https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2"
+      },
+      "artists": [
+        {
+          "name": "Slowmo Friends",
+          "url": "https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH"
+        }
+      ],
+      "duration_ms": 140651,
+      "name": "Chess Flow",
+      "url": "https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk"
+    },
+    {
+      "added_at": "2026-07-18 07:02:21",
+      "album": {
         "name": "Resonance",
         "url": "https://open.spotify.com/album/247WIvYS7i53FjiPEdCw6H"
       },
@@ -243,38 +259,6 @@
     {
       "added_at": "2026-07-18 07:02:21",
       "album": {
-        "name": "Chess Flow",
-        "url": "https://open.spotify.com/album/0EsTiQtGZxSovqo6Y5EhP2"
-      },
-      "artists": [
-        {
-          "name": "Slowmo Friends",
-          "url": "https://open.spotify.com/artist/1GPDa2aInN4QlYRrD6qnLH"
-        }
-      ],
-      "duration_ms": 140651,
-      "name": "Chess Flow",
-      "url": "https://open.spotify.com/track/3HtEAL9JC5o1aaS0drr4fk"
-    },
-    {
-      "added_at": "2026-07-18 07:02:21",
-      "album": {
-        "name": "Contrast",
-        "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
-      },
-      "artists": [
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        }
-      ],
-      "duration_ms": 219207,
-      "name": "Conflicted",
-      "url": "https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY"
-    },
-    {
-      "added_at": "2026-07-18 07:02:21",
-      "album": {
         "name": "FLIP & DRAW II",
         "url": "https://open.spotify.com/album/3bOb4olmZMw8jigZrZVCtd"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 154773,
       "name": "Everything",
       "url": "https://open.spotify.com/track/1UlwVFnl6JaQBL0tujTFJ8"
+    },
+    {
+      "added_at": "2026-07-18 07:02:21",
+      "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/1UCeyBq2MJ7jjh7JG5IKMb"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        }
+      ],
+      "duration_ms": 219207,
+      "name": "Conflicted",
+      "url": "https://open.spotify.com/track/1JZqTki6yClAdFr7tVq4YY"
     },
     {
       "added_at": "2026-07-18 07:02:21",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-07-18 07:02:21",
       "album": {
-        "name": "2nd Collection",
-        "url": "https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/7KMm1zF2QOTSw2t01IAFif"
-    },
-    {
-      "added_at": "2026-07-18 07:02:21",
-      "album": {
         "name": "20250327",
         "url": "https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 144498,
       "name": "20250327",
       "url": "https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ"
+    },
+    {
+      "added_at": "2026-07-18 07:02:21",
+      "album": {
+        "name": "2nd Collection",
+        "url": "https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/7KMm1zF2QOTSw2t01IAFif"
     },
     {
       "added_at": "2026-07-18 07:02:21",
@@ -783,6 +783,22 @@
       "duration_ms": 207882,
       "name": "\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0 (Algorithm)",
       "url": "https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv"
+    },
+    {
+      "added_at": "2026-07-18 07:02:21",
+      "album": {
+        "name": "insideout",
+        "url": "https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW"
+      },
+      "artists": [
+        {
+          "name": "Pleij",
+          "url": "https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "insideout",
+      "url": "https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9"
     },
     {
       "added_at": "2026-07-18 07:02:21",
@@ -859,22 +875,6 @@
     {
       "added_at": "2026-07-18 07:02:21",
       "album": {
-        "name": "insideout",
-        "url": "https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW"
-      },
-      "artists": [
-        {
-          "name": "Pleij",
-          "url": "https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN"
-        }
-      ],
-      "duration_ms": 145263,
-      "name": "insideout",
-      "url": "https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9"
-    },
-    {
-      "added_at": "2026-07-18 07:02:21",
-      "album": {
         "name": "Panorama",
         "url": "https://open.spotify.com/album/3upwVLg8Z1mH1Ffd8JSysx"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 146014,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6qYZdU3w9SikFhajI8IRsS"
+    },
+    {
+      "added_at": "2026-07-18 07:02:21",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 200061,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
     },
     {
       "added_at": "2026-07-18 07:02:21",
@@ -907,22 +923,6 @@
       "duration_ms": 326000,
       "name": "\u8ff7\u3044\u306e\u68ee",
       "url": "https://open.spotify.com/track/5hyzs0L6FPxvdJIZLN5eyn"
-    },
-    {
-      "added_at": "2026-07-18 07:02:21",
-      "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 200061,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
     },
     {
       "added_at": "2026-07-18 07:02:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,881 likes - 93 songs - 6 hr 1 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,881 likes - 94 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,5 +101,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 91 | [Kneel Before the Light \(Humilitas\)](https://open.spotify.com/track/2SUzUZ3o1wmwUmeUW8RuaE) | [Hasamura](https://open.spotify.com/artist/1bbe83p1En6vfNkPTvTErG) | [Soulwave](https://open.spotify.com/album/4CblvjKa4GZ2ZBhKShQ2Vb) | 4:52 |
 | 92 | [Funkin Blues](https://open.spotify.com/track/6wqlg869am54Wqbct45PYF) | [The Cadillac Cats](https://open.spotify.com/artist/2WctWN3DeyAvtYI1sKvvJi) | [Funkin Blues](https://open.spotify.com/album/25QR5rLpR6jg4wYH9LSdeh) | 3:23 |
 | 93 | [Only words](https://open.spotify.com/track/0WyuNAuLJgYadDsq1TSHpD) | [Black Hound](https://open.spotify.com/artist/3snFZIyWovDIXyPo2K83qV) | [Takin it all](https://open.spotify.com/album/3C1OezOI61eFvLXipftoWZ) | 4:31 |
+| 94 | [Life \(You Saved Me\)](https://open.spotify.com/track/1lZ1Sh1rz8b0lscfMkPEVD) | [The K.I.J Experience](https://open.spotify.com/artist/67HdfJ5atBe2crSt6ohfWB) | [Life \(You Saved Me\)](https://open.spotify.com/album/4FRCPWM4JildwwplokEkh8) | 3:01 |
 
-Snapshot ID: `AAAMIFQVX8CyAkYrCldnwe3Xy3q2TFBq`
+Snapshot ID: `AAAMIbzmham6mNPj+HOTO4L1up4ZikGa`

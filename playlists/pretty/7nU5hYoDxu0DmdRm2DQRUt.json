@@ -1,13 +1,197 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 8038,
+  "num_followers": 8040,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAPXGQPhxkIKz7H8eoNDi97bCwbHx6A",
+  "snapshot_id": "AAAPaNS1I6D2k1ke/GqyCpsPHR1nCLc6",
   "tracks": [
+    {
+      "added_at": "2026-07-28 09:00:37",
+      "album": {
+        "name": "Paired Works",
+        "url": "https://open.spotify.com/album/3grs2Jp8yh0DkP0rg5FESK"
+      },
+      "artists": [
+        {
+          "name": "Justine Perry",
+          "url": "https://open.spotify.com/artist/2KFKVQfg4ZoBeb1O5rFMdA"
+        }
+      ],
+      "duration_ms": 333913,
+      "name": "Beyond The Line",
+      "url": "https://open.spotify.com/track/5Yjx9De5NogsxrZsPLvbPt"
+    },
+    {
+      "added_at": "2026-07-28 09:00:57",
+      "album": {
+        "name": "I Will Never",
+        "url": "https://open.spotify.com/album/2L6mVFp7sYSt6sTLCxy03q"
+      },
+      "artists": [
+        {
+          "name": "Lauer",
+          "url": "https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4"
+        }
+      ],
+      "duration_ms": 305869,
+      "name": "I Will Never",
+      "url": "https://open.spotify.com/track/3OgyZahkJleSwqdD1YAWJ3"
+    },
+    {
+      "added_at": "2026-07-28 09:01:37",
+      "album": {
+        "name": "Quiet Distortion (Bart Skils Remix)",
+        "url": "https://open.spotify.com/album/0tAE6OieagjJzcssAi2ISi"
+      },
+      "artists": [
+        {
+          "name": "Gregor Tresher",
+          "url": "https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC"
+        },
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        }
+      ],
+      "duration_ms": 314769,
+      "name": "Quiet Distortion - Bart Skils Remix",
+      "url": "https://open.spotify.com/track/2Dp0PXgdEfQSZSGIzYe4N9"
+    },
+    {
+      "added_at": "2026-07-28 09:01:55",
+      "album": {
+        "name": "CROWD011: Other Side",
+        "url": "https://open.spotify.com/album/4erlIqRb37jhEUOf9w3pFY"
+      },
+      "artists": [
+        {
+          "name": "Gina Demarchi",
+          "url": "https://open.spotify.com/artist/7hqmhjZKJeV1zIxWcpBKNY"
+        }
+      ],
+      "duration_ms": 314209,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/7qPIbBLcIuI1JELDt3EKUt"
+    },
+    {
+      "added_at": "2026-07-28 09:02:11",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/62QnARB5k9ekwnjoDHNF0Q"
+      },
+      "artists": [
+        {
+          "name": "Joe Milli",
+          "url": "https://open.spotify.com/artist/14ZRScgK6da0aYKkjAfUIO"
+        }
+      ],
+      "duration_ms": 270944,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/3XcwZiOQHibuJtArdcVoWo"
+    },
+    {
+      "added_at": "2026-07-28 09:02:33",
+      "album": {
+        "name": "Vision Mission",
+        "url": "https://open.spotify.com/album/0kbXxUsCKp33kiSFVW7veh"
+      },
+      "artists": [
+        {
+          "name": "Raxon",
+          "url": "https://open.spotify.com/artist/6gp9WP1OleU89x2gF9w2ID"
+        }
+      ],
+      "duration_ms": 310445,
+      "name": "Vision Mission",
+      "url": "https://open.spotify.com/track/2xYo5luVam4WS95449IPmJ"
+    },
+    {
+      "added_at": "2026-07-28 09:02:52",
+      "album": {
+        "name": "Maeve 035",
+        "url": "https://open.spotify.com/album/53QPBGLXq3jswbZy58oCUQ"
+      },
+      "artists": [
+        {
+          "name": "Mano Le Tough",
+          "url": "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 236226,
+      "name": "Real, You Know?!",
+      "url": "https://open.spotify.com/track/32Ez45rZKgElBDmKbkETmB"
+    },
+    {
+      "added_at": "2026-07-28 09:03:25",
+      "album": {
+        "name": "Prefig",
+        "url": "https://open.spotify.com/album/04qRP7MxO7dWHjQoZIp6QE"
+      },
+      "artists": [
+        {
+          "name": "Oceanic",
+          "url": "https://open.spotify.com/artist/7sANqRox5nKK9vc7MZrg81"
+        }
+      ],
+      "duration_ms": 431200,
+      "name": "Prefig",
+      "url": "https://open.spotify.com/track/1i9ccDQnPoaFIzh9ow4r0g"
+    },
+    {
+      "added_at": "2026-07-28 09:04:17",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/5885vDE0Ibf8cqtMUWemqO"
+      },
+      "artists": [
+        {
+          "name": "Beatrice M.",
+          "url": "https://open.spotify.com/artist/4VqxDVyNXrmZiNDwELNbgQ"
+        }
+      ],
+      "duration_ms": 343384,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/60CFa6FTjoaqtcWDmgAhta"
+    },
+    {
+      "added_at": "2026-07-28 09:04:38",
+      "album": {
+        "name": "Bean Soup",
+        "url": "https://open.spotify.com/album/2vGRJ3zRGbiZBBUjRho65o"
+      },
+      "artists": [
+        {
+          "name": "Romansoff",
+          "url": "https://open.spotify.com/artist/1y2nGD97ClVmvdvLzGKCtB"
+        }
+      ],
+      "duration_ms": 335109,
+      "name": "Inclusion",
+      "url": "https://open.spotify.com/track/1mfNl6mbBagUzVdpogVHCo"
+    },
+    {
+      "added_at": "2026-07-28 09:05:05",
+      "album": {
+        "name": "Opponent Stims",
+        "url": "https://open.spotify.com/album/3mPAuPIuwQ7HQ7ZWVdubqA"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 458507,
+      "name": "Relentless Opponent",
+      "url": "https://open.spotify.com/track/3bdTRBKOSM0zujvlUvyx3g"
+    },
     {
       "added_at": "2026-07-15 09:15:44",
       "album": {

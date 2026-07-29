@@ -1,12 +1,12 @@
 {
   "description": "This is Chxrry. The essential tracks, all in one playlist.",
-  "num_followers": 648,
+  "num_followers": 649,
   "original_name": "This Is Chxrry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAABOTgFoaj6F4cE4IbpKLAy9",
+  "snapshot_id": "amafgAAAAADGy+mZXjMaGwmkOKqW4jwq",
   "tracks": [
     {
       "added_at": null,
@@ -86,11 +86,15 @@
         {
           "name": "Chxrry",
           "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
+        },
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 173076,
-      "name": "Bible",
-      "url": "https://open.spotify.com/track/72muCO9onwLshiUj0ni7jq"
+      "duration_ms": 205714,
+      "name": "Bottles & Lights",
+      "url": "https://open.spotify.com/track/5SmgfoGrzf8y6FWvQtBhlt"
     },
     {
       "added_at": null,
@@ -150,15 +154,11 @@
         {
           "name": "Chxrry",
           "url": "https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Bottles & Lights",
-      "url": "https://open.spotify.com/track/5SmgfoGrzf8y6FWvQtBhlt"
+      "duration_ms": 173076,
+      "name": "Bible",
+      "url": "https://open.spotify.com/track/72muCO9onwLshiUj0ni7jq"
     },
     {
       "added_at": null,

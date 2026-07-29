@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3b2p5bqgVUvcoYInmwMBH3">Nathan Galante</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-156 songs - 7 hr 51 min
+157 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,8 +99,9 @@
 | [No Era De Tu Talla](https://open.spotify.com/track/4sHJngV1yusJSmevbZYMrT) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:24 | 2024-03-17 |  |
 | [No Eras Tú, Era Yo](https://open.spotify.com/track/3UyMfum9jrotsNdhRSGcEF) | [César Navarro](https://open.spotify.com/artist/072Txba915k6CIHd6hoC5G) | [El Malo Del Cuento](https://open.spotify.com/album/3pexMzHFquZjuNaXVzPD0g) | 3:04 | 2025-08-26 |  |
 | [No me va a pesar](https://open.spotify.com/track/1C9g6Rh1gu3ZZt4BTVjlis) | [Banda Tierra Mojada](https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci) | [No me va a pesar](https://open.spotify.com/album/7GFevK7RiA55xhsLHPshDE) | 2:36 | 2026-06-01 |  |
+| [No Que No](https://open.spotify.com/track/73WRd7Az9FvsDc3zKgBAkY) | [Grupo Restaurado](https://open.spotify.com/artist/47ryVplCCIIsbwcBFcg8Oc) | [Mi Rompecabezas](https://open.spotify.com/album/7AZBCeb9JWGrSzTn2pte70) | 2:37 | 2026-07-28 |  |
 | [No Que No](https://open.spotify.com/track/2PBZeVvkiZ1VZef46e9hRr) | [Inolvidables Jrs](https://open.spotify.com/artist/28WGwBiOwpR2elcc4JOvSn) | [Mi Rancho Querido](https://open.spotify.com/album/59gJhuVtFK9Szi2PrJQ3NT) | 2:32 | 2026-07-02 | 2026-07-07 |
-| [No que no](https://open.spotify.com/track/0S3JIABbtTvtxBdsxjzo5u) | [Porte De Reyes](https://open.spotify.com/artist/2OPzZenul0qNHyijxPfi2d) | [Por el puro gusto](https://open.spotify.com/album/0teGppVU0P5u4ru75LvTrc) | 2:22 | 2026-07-06 |  |
+| [No que no](https://open.spotify.com/track/0S3JIABbtTvtxBdsxjzo5u) | [Porte De Reyes](https://open.spotify.com/artist/2OPzZenul0qNHyijxPfi2d) | [Por el puro gusto](https://open.spotify.com/album/0teGppVU0P5u4ru75LvTrc) | 2:22 | 2026-07-06 | 2026-07-29 |
 | [No Se Dice](https://open.spotify.com/track/5fzeebAg9ZJUwCbhkIIgiZ) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [El Rey del Despecho](https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt) | 3:22 | 2025-03-02 | 2025-04-20 |
 | [No Se Dice](https://open.spotify.com/track/7I0jAVymRNBhPkz2XQV0bl) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [No Se Dice](https://open.spotify.com/album/29LyF83XhiMW3aPYuYTHEw) | 3:22 | 2025-02-14 | 2025-03-03 |
 | [Nos Ganó El Amor](https://open.spotify.com/track/4DFFXmo4Dj30hcVEm3IU0L) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila \(Deluxe\)](https://open.spotify.com/album/1CWzi6omgWhMTbaeSzraSr) | 3:07 | 2024-08-21 |  |

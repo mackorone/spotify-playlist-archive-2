@@ -5624,7 +5624,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 284708,
       "name": "Maquiav\u00e9lico",
       "url": "https://open.spotify.com/track/447r2keRxpkINmWYp83MlH"
@@ -8790,6 +8790,10 @@
         {
           "name": "Jon Z",
           "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Duran The Coach",
+          "url": "https://open.spotify.com/artist/3pdwvqKNXC6mz3b0KpfUvA"
         }
       ],
       "date_added": "2021-11-16",
@@ -9610,13 +9614,13 @@
           "url": "https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu"
         },
         {
-          "name": "SQB",
-          "url": "https://open.spotify.com/artist/6aMeTQMYEBSGnp34gku2QB"
+          "name": "Sqb",
+          "url": "https://open.spotify.com/artist/751KWo9OE8EhdTgXVCKMOs"
         }
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-05",
+      "date_removed": null,
       "duration_ms": 137197,
       "name": "Viejos Habitantes",
       "url": "https://open.spotify.com/track/6f55wLyPhb1OwaNd0pXRmm"

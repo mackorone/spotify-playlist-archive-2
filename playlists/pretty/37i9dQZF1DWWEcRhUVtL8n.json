@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: After",
-  "num_followers": 1666181,
+  "num_followers": 1666107,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -273,22 +273,6 @@
       "url": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
     },
     {
-      "added_at": "2026-05-25 17:48:56",
-      "album": {
-        "name": "SS26",
-        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "SS26",
-      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
-    },
-    {
       "added_at": "2026-06-19 04:01:13",
       "album": {
         "name": "Do That Again",
@@ -303,6 +287,22 @@
       "duration_ms": 158693,
       "name": "Malcolm In The Middle",
       "url": "https://open.spotify.com/track/6fLWI86qpzbxvAQO90tiwR"
+    },
+    {
+      "added_at": "2026-05-25 17:48:56",
+      "album": {
+        "name": "SS26",
+        "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "SS26",
+      "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
     },
     {
       "added_at": "2026-06-05 04:02:01",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/1AIDXxGVErYEjI3dJ6KNJY"
     },
     {
-      "added_at": "2026-06-19 04:01:13",
-      "album": {
-        "name": "Whatever You Wanna",
-        "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
-      },
-      "artists": [
-        {
-          "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
-        }
-      ],
-      "duration_ms": 211486,
-      "name": "Whatever You Wanna",
-      "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "I Saw Your Face",
@@ -383,6 +367,22 @@
       "duration_ms": 189569,
       "name": "I Saw Your Face",
       "url": "https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx"
+    },
+    {
+      "added_at": "2026-06-19 04:01:13",
+      "album": {
+        "name": "Whatever You Wanna",
+        "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "duration_ms": 211486,
+      "name": "Whatever You Wanna",
+      "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -613,22 +613,6 @@
       "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
     },
     {
-      "added_at": "2026-06-22 21:48:31",
-      "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/7Ebv6UYPniNO0T7ufT9hby"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 194773,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m"
-    },
-    {
       "added_at": "2026-05-15 16:17:55",
       "album": {
         "name": "SWAG II",
@@ -647,6 +631,22 @@
       "duration_ms": 165733,
       "name": "DON'T WANNA",
       "url": "https://open.spotify.com/track/5hplO2Sk1SaZgSaR05m6Nn"
+    },
+    {
+      "added_at": "2026-06-22 21:48:31",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/7Ebv6UYPniNO0T7ufT9hby"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 194773,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/2DjiUfyKFUjR93c28MBX5m"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -893,6 +893,22 @@
       "url": "https://open.spotify.com/track/35mvYlF92JzRqB2PYA9DIU"
     },
     {
+      "added_at": "2026-06-19 04:01:13",
+      "album": {
+        "name": "Pool Water Confessions",
+        "url": "https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88"
+      },
+      "artists": [
+        {
+          "name": "SUM SUN",
+          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+        }
+      ],
+      "duration_ms": 206158,
+      "name": "Pool Water Confessions",
+      "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
+    },
+    {
       "added_at": "2026-06-26 04:55:44",
       "album": {
         "name": "Water The Flowers",
@@ -909,20 +925,20 @@
       "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
     },
     {
-      "added_at": "2026-06-19 04:01:13",
+      "added_at": "2026-07-17 04:02:10",
       "album": {
-        "name": "Pool Water Confessions",
-        "url": "https://open.spotify.com/album/6Qf7f5ijkPyixOl3yuUM88"
+        "name": "PIXIE",
+        "url": "https://open.spotify.com/album/3fD8T84B7ANtch0bbaKJvq"
       },
       "artists": [
         {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
         }
       ],
-      "duration_ms": 206158,
-      "name": "Pool Water Confessions",
-      "url": "https://open.spotify.com/track/1ahZDBeXgSjbo31UyKh7w6"
+      "duration_ms": 203728,
+      "name": "Dream Girl",
+      "url": "https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -941,20 +957,20 @@
       "url": "https://open.spotify.com/track/33UMuadJsuFnZ0qcgVAOs1"
     },
     {
-      "added_at": "2026-07-17 04:02:10",
+      "added_at": "2026-05-15 19:54:37",
       "album": {
-        "name": "PIXIE",
-        "url": "https://open.spotify.com/album/3fD8T84B7ANtch0bbaKJvq"
+        "name": "Better Than Before",
+        "url": "https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1"
       },
       "artists": [
         {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+          "name": "Pamela.",
+          "url": "https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE"
         }
       ],
-      "duration_ms": 203728,
-      "name": "Dream Girl",
-      "url": "https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX"
+      "duration_ms": 162768,
+      "name": "Better Than Before",
+      "url": "https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1011,22 +1027,6 @@
       "duration_ms": 214597,
       "name": "Suburbia",
       "url": "https://open.spotify.com/track/5zYpWznknMJkx7ovNZLbuk"
-    },
-    {
-      "added_at": "2026-05-15 19:54:37",
-      "album": {
-        "name": "Better Than Before",
-        "url": "https://open.spotify.com/album/1kVSSdzCIZ4IXxPwI2ORk1"
-      },
-      "artists": [
-        {
-          "name": "Pamela.",
-          "url": "https://open.spotify.com/artist/1ebkjsjkD29YxAgD6h8TmE"
-        }
-      ],
-      "duration_ms": 162768,
-      "name": "Better Than Before",
-      "url": "https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X"
     },
     {
       "added_at": "2026-07-17 04:02:10",
@@ -1093,38 +1093,6 @@
       "url": "https://open.spotify.com/track/3Bbmipb8KY7goBdBplMZ3b"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Maybe Not Tonight",
-        "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 160917,
-      "name": "Cross My Heart",
-      "url": "https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7"
-    },
-    {
-      "added_at": "2026-06-12 04:02:00",
-      "album": {
-        "name": "Vertical",
-        "url": "https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 156041,
-      "name": "Vertical",
-      "url": "https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q"
-    },
-    {
       "added_at": "2026-07-17 04:02:10",
       "album": {
         "name": "Romanticize",
@@ -1143,6 +1111,22 @@
       "duration_ms": 215013,
       "name": "Romanticize",
       "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Maybe Not Tonight",
+        "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 160917,
+      "name": "Cross My Heart",
+      "url": "https://open.spotify.com/track/2uEWM5lSQsl0ubzbxFd6U7"
     },
     {
       "added_at": "2026-07-06 20:29:59",
@@ -1175,6 +1159,22 @@
       "duration_ms": 221000,
       "name": "Vampire at the Beach",
       "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
+    },
+    {
+      "added_at": "2026-06-12 04:02:00",
+      "album": {
+        "name": "Vertical",
+        "url": "https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 156041,
+      "name": "Vertical",
+      "url": "https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
     },
     {
-      "added_at": "2026-06-12 04:02:00",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/3GcXs4OJPRieUpoTZabyHP"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 228904,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/1Scf7pyUoj6g4gMHd1O5Uk"
-    },
-    {
       "added_at": "2026-07-10 16:27:35",
       "album": {
         "name": "Not For A Lack Of Trying",
@@ -1275,6 +1259,22 @@
       "duration_ms": 154813,
       "name": "Not For A Lack Of Trying",
       "url": "https://open.spotify.com/track/7up1fKKwZSVVQJsfcVGPeo"
+    },
+    {
+      "added_at": "2026-06-12 04:02:00",
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/3GcXs4OJPRieUpoTZabyHP"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 228904,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/1Scf7pyUoj6g4gMHd1O5Uk"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1357,20 +1357,20 @@
       "url": "https://open.spotify.com/track/2oD5n6V9bhvyUEdwFGvnu0"
     },
     {
-      "added_at": "2026-05-15 16:17:55",
+      "added_at": "2026-07-24 14:58:57",
       "album": {
-        "name": "Housekeeping",
-        "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
+        "name": "FLOWERS",
+        "url": "https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4"
       },
       "artists": [
         {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
         }
       ],
-      "duration_ms": 205841,
-      "name": "Housekeeping",
-      "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
+      "duration_ms": 194592,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1391,6 +1391,22 @@
       "duration_ms": 169776,
       "name": "Geezer",
       "url": "https://open.spotify.com/track/3KPN41U5Im8VH2ZuFl9PHT"
+    },
+    {
+      "added_at": "2026-05-15 16:17:55",
+      "album": {
+        "name": "Housekeeping",
+        "url": "https://open.spotify.com/album/36TdhxyuiOIeDyAZuAgpBE"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "duration_ms": 205841,
+      "name": "Housekeeping",
+      "url": "https://open.spotify.com/track/2sPIXS51PCnYWY8lPtS0oP"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1481,20 +1497,20 @@
       "url": "https://open.spotify.com/track/4cW17k9yriRkF6j2hz4LPY"
     },
     {
-      "added_at": "2026-07-24 14:58:57",
+      "added_at": "2026-07-17 04:02:10",
       "album": {
-        "name": "FLOWERS",
-        "url": "https://open.spotify.com/album/6BVYE5jv8v6QjO6p5Wthj4"
+        "name": "Isn't it sweeter?",
+        "url": "https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ"
       },
       "artists": [
         {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
         }
       ],
-      "duration_ms": 194592,
-      "name": "FLOWERS",
-      "url": "https://open.spotify.com/track/2UcutGXLrhCokGVY4V70lE"
+      "duration_ms": 150901,
+      "name": "A Little More Fun",
+      "url": "https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR"
     },
     {
       "added_at": "2026-06-12 04:02:00",
@@ -1529,20 +1545,20 @@
       "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
     },
     {
-      "added_at": "2026-07-17 04:02:10",
+      "added_at": "2026-07-10 16:27:35",
       "album": {
-        "name": "Isn't it sweeter?",
-        "url": "https://open.spotify.com/album/2krUDWgXUjP9FXeqXX3XtZ"
+        "name": "Girl, Intentions",
+        "url": "https://open.spotify.com/album/0zam2ZW2T22AhELRLudgoF"
       },
       "artists": [
         {
-          "name": "Ally Salort",
-          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
         }
       ],
-      "duration_ms": 150901,
-      "name": "A Little More Fun",
-      "url": "https://open.spotify.com/track/45LXgSpxX65IKbWSOT9XQR"
+      "duration_ms": 227127,
+      "name": "Girl, Intentions",
+      "url": "https://open.spotify.com/track/3vSUyBAQm9SVlnPWT3IT7v"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1561,20 +1577,20 @@
       "url": "https://open.spotify.com/track/7tWnp2xzGbZXPSARvtu3ba"
     },
     {
-      "added_at": "2026-07-10 16:27:35",
+      "added_at": "2026-07-24 04:02:39",
       "album": {
-        "name": "Girl, Intentions",
-        "url": "https://open.spotify.com/album/0zam2ZW2T22AhELRLudgoF"
+        "name": "I Hope You Don't Remember Me",
+        "url": "https://open.spotify.com/album/4ZLW7yBp3Hsoy5qLr81Yil"
       },
       "artists": [
         {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
         }
       ],
-      "duration_ms": 227127,
-      "name": "Girl, Intentions",
-      "url": "https://open.spotify.com/track/3vSUyBAQm9SVlnPWT3IT7v"
+      "duration_ms": 201508,
+      "name": "That's Fine",
+      "url": "https://open.spotify.com/track/3Gmd8YZFXbo7N1PfZw1o0E"
     },
     {
       "added_at": "2026-05-15 16:17:55",
@@ -1659,22 +1675,6 @@
       "duration_ms": 221717,
       "name": "Naked Chess",
       "url": "https://open.spotify.com/track/3H245jcnY44ovCFlXMXRtV"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "portals//polarities",
-        "url": "https://open.spotify.com/album/3J8mi01ldw6yQef6XnNVEb"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 256481,
-      "name": "leave it all behind, Mike",
-      "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
     }
   ],
   "unique_name": "Indie Pop",

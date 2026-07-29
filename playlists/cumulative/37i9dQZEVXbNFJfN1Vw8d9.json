@@ -14808,7 +14808,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 182908,
       "name": "G\u00c1LDAR",
       "url": "https://open.spotify.com/track/64uFpeiHU2cTog7oWCuDW9"
@@ -17148,7 +17148,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -21011,6 +21011,24 @@
     },
     {
       "album": {
+        "name": "Malandrin",
+        "url": "https://open.spotify.com/album/4UWaEmLxBAyqsSzwfs25ht"
+      },
+      "artists": [
+        {
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111500,
+      "name": "Malandrin",
+      "url": "https://open.spotify.com/track/2W6dZnGx3NaCk2P3bEoC1m"
+    },
+    {
+      "album": {
         "name": "Desde el Fin del Mundo",
         "url": "https://open.spotify.com/album/3MKQjYpaES80tFP7Qo2zH0"
       },
@@ -24238,7 +24256,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 145428,
       "name": "NO LE DIGO QUE NO",
       "url": "https://open.spotify.com/track/5NOVfpl0Xm8D6vIl0sKJeL"
@@ -28690,6 +28708,24 @@
       "duration_ms": 222348,
       "name": "Quiero Decirte",
       "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
+    },
+    {
+      "album": {
+        "name": "Quiero m\u00e1s",
+        "url": "https://open.spotify.com/album/6X4uBmtXQoR3wYLCpr76Sw"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151048,
+      "name": "Quiero m\u00e1s",
+      "url": "https://open.spotify.com/track/0P95y11fiaArEEDcT995WF"
     },
     {
       "album": {
@@ -34454,7 +34490,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 175681,
       "name": "TOCATE SOLA",
       "url": "https://open.spotify.com/track/1ouj0AkMXny8V1su2tuoci"

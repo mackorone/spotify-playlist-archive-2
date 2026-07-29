@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 24267,
+  "num_followers": 24283,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAACLL5BxFg2RSJAeoiYNvOnX",
+  "snapshot_id": "amafgAAAAAD7CR9lx/ygz45dxDyNemFQ",
   "tracks": [
     {
       "added_at": null,
@@ -43,26 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BELOVED: ACT II",
-        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
-      },
-      "artists": [
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 198812,
-      "name": "FOOL ME ONCE (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Summer That Saved Me",
         "url": "https://open.spotify.com/album/02x8WhpXJ9lVDBJAxBxl3Z"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 216493,
       "name": "Miami (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/2egIlhalVEVQhvt9W11u82"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BELOVED: ACT II",
+        "url": "https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 198812,
+      "name": "FOOL ME ONCE (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK"
     },
     {
       "added_at": null,
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PHOLKS",
+        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 190863,
+      "name": "5MoreMinutes",
+      "url": "https://open.spotify.com/track/5mf4gJaGjD5VAjOHDOo3mU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still Shinin",
         "url": "https://open.spotify.com/album/5NUNaj9pyIjcNd5e9ObgzE"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 137066,
       "name": "act xi: she ain\u2019t no angel",
       "url": "https://open.spotify.com/track/0hRE77xggFCr9fDitZgBE0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PHOLKS",
-        "url": "https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 190863,
-      "name": "5MoreMinutes",
-      "url": "https://open.spotify.com/track/5mf4gJaGjD5VAjOHDOo3mU"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "move it along (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 195454,
-      "name": "move it along (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Why Not More? (MORE!)",
         "url": "https://open.spotify.com/album/6mG2LhKSQ8H5DxmaC1vZ8M"
       },
@@ -679,22 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Could Be Worse",
-        "url": "https://open.spotify.com/album/5aqP6FmBBfO01EOa0nSbh9"
+        "name": "move it along (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR"
       },
       "artists": [
         {
-          "name": "Bizzy Crook",
-          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 140892,
-      "name": "Could Be Worse",
-      "url": "https://open.spotify.com/track/2nvlYOCCCAsaCdY1kx5cGs"
+      "duration_ms": 195454,
+      "name": "move it along (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk"
     },
     {
       "added_at": null,
@@ -719,22 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Only Die 1nce (Deluxe)",
-        "url": "https://open.spotify.com/album/11iqEmiRj6IJ0eXj4VrhQq"
+        "name": "Could Be Worse",
+        "url": "https://open.spotify.com/album/5aqP6FmBBfO01EOa0nSbh9"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Bizzy Crook",
+          "url": "https://open.spotify.com/artist/3IE9OtMFMZFj8CEgflFlPw"
         },
         {
           "name": "Leon Thomas",
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 240600,
-      "name": "Ruthless Remix - feat. Leon Thomas",
-      "url": "https://open.spotify.com/track/3V8pYffGrp5kGXO9sB8DTs"
+      "duration_ms": 140892,
+      "name": "Could Be Worse",
+      "url": "https://open.spotify.com/track/2nvlYOCCCAsaCdY1kx5cGs"
     },
     {
       "added_at": null,
@@ -751,6 +731,26 @@
       "duration_ms": 234809,
       "name": "PLW",
       "url": "https://open.spotify.com/track/6IWCYw5tcnEZfX5HPa8O5Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Only Die 1nce (Deluxe)",
+        "url": "https://open.spotify.com/album/11iqEmiRj6IJ0eXj4VrhQq"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Ruthless Remix - feat. Leon Thomas",
+      "url": "https://open.spotify.com/track/3V8pYffGrp5kGXO9sB8DTs"
     },
     {
       "added_at": null,

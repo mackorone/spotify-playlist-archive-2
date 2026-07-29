@@ -2,9 +2,9 @@
 
 ### [Crayon Shinchan](https://open.spotify.com/playlist/37i9dQZF1DXcZVKo4DZT9G)
 
-> Theme songs from TV/ movie series of "Crayon Shinchan"! ©臼井儀人／双葉社・シンエイ・テレビ朝日・ＡＤＫ 2025
+> Theme songs from TV/ movie series of "Crayon Shinchan"! ©臼井儀人／双葉社・シンエイ・テレビ朝日・ADK 2026
 
-44 songs - 2 hr 43 min
+45 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ola!!](https://open.spotify.com/track/6FVJc3JnfLvtpEtQC9FuXX) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [Towa](https://open.spotify.com/album/0SJZLC4rrnMg4YgdWvUK9J) | 3:27 | 2023-07-30 | 2024-04-19 |
 | [RPG](https://open.spotify.com/track/7facNrW6VRW8s3ICZ8G1uW) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Tree](https://open.spotify.com/album/1NF6OvO7LcY8f7m5rVxU1T) | 4:51 | 2023-07-30 |  |
 | [Shounen yo Uso wo Tsuke!](https://open.spotify.com/track/6N9HY8PRz2EUTBzpQiXLkL) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [Shounen yo Uso wo Tsuke! \(First Edition C\)](https://open.spotify.com/album/21QQWIp5xMyqMCh5kK59dG) | 4:38 | 2023-07-30 | 2024-04-19 |
+| [Still Here](https://open.spotify.com/track/5bfc8VisE4j5SDmNiK27m8) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Still Here](https://open.spotify.com/album/68NWLfkwoqHl2uDnFlr5mm) | 3:42 | 2026-07-28 |  |
 | [SUPER SHIRO](https://open.spotify.com/track/4I06IqH4OPB6Ah1OXlBBZD) | [mewhan](https://open.spotify.com/artist/13tttiaoECFPQKEigVnYU6) | [SUPER SHIRO](https://open.spotify.com/album/6EWm97Xd7mrZWSXFQ1dX02) | 2:23 | 2023-07-30 |  |
 | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』まもなく公開](https://open.spotify.com/track/2kKVUTLDGmE8l8Vn9tdQLq) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』まもなく公開](https://open.spotify.com/album/20D0DFc7SZvfqyFG3h1Eu3) | 0:27 | 2023-07-30 | 2023-08-05 |
 | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』大ヒット上映中](https://open.spotify.com/track/07ez3b5FLN4HmXOeRkBnjO) | [クレヨンしんちゃん](https://open.spotify.com/artist/3VMX5c6MzmRUzs2ek9l6vN) | [『しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 〜とべとべ手巻き寿司〜』大ヒット上映中](https://open.spotify.com/album/3UBd09f4vBZnKGaB2O4Zpu) | 0:35 | 2023-08-03 | 2024-08-02 |
@@ -49,7 +50,7 @@
 | [少年よ 嘘をつけ!](https://open.spotify.com/track/0vS2O49M0kUZCHQIyI10KA) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [少年よ 嘘をつけ!](https://open.spotify.com/album/0CvqNTdZMZbW5b5pQ0R6jo) | 4:38 | 2023-08-03 |  |
 | [希望山脈](https://open.spotify.com/track/4qznC3GkC2Tr1VBXKPg0lz) | [渡り廊下走り隊7](https://open.spotify.com/artist/5gauvPoxEs5GOAcs0tdW6K) | [希望山脈](https://open.spotify.com/album/2oZzO3qIV95g6SHzOuFl5I) | 3:55 | 2023-08-03 |  |
 | [思い出をかけぬけて](https://open.spotify.com/track/6tJFjFarvig3AqDNqeH8Yy) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [ghosts](https://open.spotify.com/album/56Vj2K6rfWoPwLHnF9KUWv) | 3:51 | 2024-08-01 |  |
-| [映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ](https://open.spotify.com/track/2GYVhVkXc4UADWWi9f4qRc) | [クレヨンしんちゃん／Saucy Dog](https://open.spotify.com/artist/154ZGlUsIFIhsqV5bPTfDw) | [映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ](https://open.spotify.com/album/7DjjJbp9LDDIEqiMYyT31p) | 1:09 | 2025-08-07 |  |
+| [映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ](https://open.spotify.com/track/2GYVhVkXc4UADWWi9f4qRc) | [クレヨンしんちゃん／Saucy Dog](https://open.spotify.com/artist/154ZGlUsIFIhsqV5bPTfDw) | [映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ](https://open.spotify.com/album/7DjjJbp9LDDIEqiMYyT31p) | 1:09 | 2025-08-07 | 2026-07-29 |
 | [笑一笑　～シャオイーシャオ！～](https://open.spotify.com/track/5MxjNwjjBW9PtYreT0bV2B) | [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [笑一笑 ～シャオイーシャオ!～](https://open.spotify.com/album/6vseW0alPTH35JsSsY0CdQ) | 4:39 | 2023-07-30 |  |
 | [陽はまた昇るから](https://open.spotify.com/track/1dRpScsBwVPG7c57gx5dSY) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/2UFCuaFyUfOuudIuzQRNeB) | 4:26 | 2023-07-30 |  |
 

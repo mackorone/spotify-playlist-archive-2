@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195232,
+  "num_followers": 195222,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Ocean House",
-        "url": "https://open.spotify.com/album/59UdqKsd9U4NRaeurIPmRR"
-      },
-      "artists": [
-        {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        }
-      ],
-      "duration_ms": 125039,
-      "name": "Ocean House",
-      "url": "https://open.spotify.com/track/2ndsXnYPnrkMRMPigIUZ9j"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "\u00c4r det h\u00e4r det \u00e4r party",
         "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 202011,
       "name": "\u00c4r det h\u00e4r det \u00e4r party",
       "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Ocean House",
+        "url": "https://open.spotify.com/album/59UdqKsd9U4NRaeurIPmRR"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        }
+      ],
+      "duration_ms": 125039,
+      "name": "Ocean House",
+      "url": "https://open.spotify.com/track/2ndsXnYPnrkMRMPigIUZ9j"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Midsommarregn",
-        "url": "https://open.spotify.com/album/4lsbgqoNTEO987jBWDAh8w"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 191304,
-      "name": "Midsommarregn",
-      "url": "https://open.spotify.com/track/43IOnIz4jMrU6qjPgiTtVL"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Eyes Don't Lie",
         "url": "https://open.spotify.com/album/1xsEi04labtfeYTv7D6uAZ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 148000,
       "name": "Man",
       "url": "https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Midsommarregn",
+        "url": "https://open.spotify.com/album/4lsbgqoNTEO987jBWDAh8w"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 191304,
+      "name": "Midsommarregn",
+      "url": "https://open.spotify.com/track/43IOnIz4jMrU6qjPgiTtVL"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Fantiserar",
-        "url": "https://open.spotify.com/album/1I5rl1epHuk0wEahddMPfL"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 156724,
-      "name": "Fantiserar",
-      "url": "https://open.spotify.com/track/6Iacj2942oCDNmDrcr51nu"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "\u00c4ngel",
         "url": "https://open.spotify.com/album/1cyjEwB4j8WOmCINyOJar3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 197033,
       "name": "\u00c4ngel",
       "url": "https://open.spotify.com/track/0d6mO47LaMpXo3mclp9FKc"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Fantiserar",
+        "url": "https://open.spotify.com/album/1I5rl1epHuk0wEahddMPfL"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 156724,
+      "name": "Fantiserar",
+      "url": "https://open.spotify.com/track/6Iacj2942oCDNmDrcr51nu"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Den b\u00e4sta tiden v\u00e4ntar p\u00e5 dig",
-        "url": "https://open.spotify.com/album/4yJdG4tO1FbNtwCuslGTQ5"
-      },
-      "artists": [
-        {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
-        }
-      ],
-      "duration_ms": 186341,
-      "name": "Den b\u00e4sta tiden v\u00e4ntar p\u00e5 dig",
-      "url": "https://open.spotify.com/track/57ndpw7ws6dmXinpgXL9DA"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Arg och frustrerad",
         "url": "https://open.spotify.com/album/0kEE2525KmF0rxNuAsaaDn"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 209125,
       "name": "Arg och frustrerad",
       "url": "https://open.spotify.com/track/3AJTFCvjpsMSk0XB85dUp0"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Den b\u00e4sta tiden v\u00e4ntar p\u00e5 dig",
+        "url": "https://open.spotify.com/album/4yJdG4tO1FbNtwCuslGTQ5"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 186341,
+      "name": "Den b\u00e4sta tiden v\u00e4ntar p\u00e5 dig",
+      "url": "https://open.spotify.com/track/57ndpw7ws6dmXinpgXL9DA"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Ett hj\u00e4rta utan adress",
-        "url": "https://open.spotify.com/album/3IJ5PO3fEF6zNActgpsMYO"
-      },
-      "artists": [
-        {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
-        }
-      ],
-      "duration_ms": 196901,
-      "name": "H\u00e4lsa satan",
-      "url": "https://open.spotify.com/track/5ZooL3IGyiI12IPHI4JQyS"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Dansa med mig sj\u00e4lv",
         "url": "https://open.spotify.com/album/69N1nO4Tc8Xcyp3MKJU0xc"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 210292,
       "name": "Dansa med mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/3n3Ltm3NcITJwJLLDvFpSi"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Ett hj\u00e4rta utan adress",
+        "url": "https://open.spotify.com/album/3IJ5PO3fEF6zNActgpsMYO"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "duration_ms": 196901,
+      "name": "H\u00e4lsa satan",
+      "url": "https://open.spotify.com/track/5ZooL3IGyiI12IPHI4JQyS"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "H\u00f6gsbo Riviera",
-        "url": "https://open.spotify.com/album/2aBTX786uODU6398tiT9F9"
-      },
-      "artists": [
-        {
-          "name": "Valter Nilsson",
-          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
-        }
-      ],
-      "duration_ms": 265452,
-      "name": "H\u00e4nder",
-      "url": "https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "ett minne i taget",
         "url": "https://open.spotify.com/album/5r46KvNGLqpJ2YNPuEvUW7"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 186402,
       "name": "n\u00e4ra n\u00e5t s\u00e5 bra",
       "url": "https://open.spotify.com/track/314slNVWu8k7xw773zLLIu"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "H\u00f6gsbo Riviera",
+        "url": "https://open.spotify.com/album/2aBTX786uODU6398tiT9F9"
+      },
+      "artists": [
+        {
+          "name": "Valter Nilsson",
+          "url": "https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln"
+        }
+      ],
+      "duration_ms": 265452,
+      "name": "H\u00e4nder",
+      "url": "https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "V\u00e4lkommen hem",
-        "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 198796,
-      "name": "Sagolik",
-      "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Fotografi",
         "url": "https://open.spotify.com/album/23yExxirXZ9LER8nXWuRlP"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 201680,
       "name": "Fotografi",
       "url": "https://open.spotify.com/track/0uSazPtH03tqUxtT3EF9ew"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "V\u00e4lkommen hem",
+        "url": "https://open.spotify.com/album/5xa9ItPBGEmhciNBLU9Vyp"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 198796,
+      "name": "Sagolik",
+      "url": "https://open.spotify.com/track/24oAjahzc5cQkZV6k22qvZ"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Sick Of Love",
-        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Sick Of Love",
-      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Tuff Brud",
         "url": "https://open.spotify.com/album/58dL9W1zuLlbxk5QNtheQQ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 198250,
       "name": "Tuff Brud",
       "url": "https://open.spotify.com/track/3vGm3VIYPPwutGcbpN3SsI"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Sick Of Love",
+        "url": "https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Sick Of Love",
+      "url": "https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Hela v\u00e4rlden",
-        "url": "https://open.spotify.com/album/2tqvHHHZaIqPmesiaxmhRP"
-      },
-      "artists": [
-        {
-          "name": "Korsv\u00e4gen",
-          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
-        }
-      ],
-      "duration_ms": 206333,
-      "name": "Hela v\u00e4rlden",
-      "url": "https://open.spotify.com/track/3uOz4RtO8A0etLzetCpwC8"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "Memory Be a Blade",
         "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 221066,
       "name": "Memory Be a Blade",
       "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Hela v\u00e4rlden",
+        "url": "https://open.spotify.com/album/2tqvHHHZaIqPmesiaxmhRP"
+      },
+      "artists": [
+        {
+          "name": "Korsv\u00e4gen",
+          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+        }
+      ],
+      "duration_ms": 206333,
+      "name": "Hela v\u00e4rlden",
+      "url": "https://open.spotify.com/track/3uOz4RtO8A0etLzetCpwC8"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
+        "name": "See You in the Summer",
+        "url": "https://open.spotify.com/album/0T7sPKFNVkOgawv6t6U1IM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Stembridge",
+          "url": "https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9"
+        }
+      ],
+      "duration_ms": 185301,
+      "name": "See You in the Summer",
+      "url": "https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
         "name": "Better Man",
         "url": "https://open.spotify.com/album/0v9rHxhxnFi9sEkWbtghGx"
       },
@@ -1735,22 +1751,6 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Song and dance man + Let's go camping",
-        "url": "https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 137700,
-      "name": "Song and dance man",
-      "url": "https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
         "name": "F\u00f6r n\u00e4ra solen",
         "url": "https://open.spotify.com/album/2p4nOd5AP57bPjXXennG1E"
       },
@@ -1763,6 +1763,22 @@
       "duration_ms": 216520,
       "name": "F\u00f6r n\u00e4ra solen",
       "url": "https://open.spotify.com/track/6J71OcLTKjZIIH9AlYu0LW"
+    },
+    {
+      "added_at": "2026-07-23 22:00:34",
+      "album": {
+        "name": "Song and dance man + Let's go camping",
+        "url": "https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 137700,
+      "name": "Song and dance man",
+      "url": "https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1787,22 +1803,6 @@
       "duration_ms": 215327,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/4raslbaoG46LuL6wsB35qA"
-    },
-    {
-      "added_at": "2026-07-23 22:00:34",
-      "album": {
-        "name": "Tomma l\u00e4ppar",
-        "url": "https://open.spotify.com/album/00q31p6qqDvVBNi7Y0oYv4"
-      },
-      "artists": [
-        {
-          "name": "Kid",
-          "url": "https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8"
-        }
-      ],
-      "duration_ms": 178863,
-      "name": "Tomma l\u00e4ppar",
-      "url": "https://open.spotify.com/track/5oTwWYGGvz9c5S2kcQCYxf"
     },
     {
       "added_at": "2026-07-23 22:00:34",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2026-07-23 22:00:34",
       "album": {
-        "name": "Sparat bilder",
-        "url": "https://open.spotify.com/album/41v1i2twkMoaMs7QrYT2MH"
+        "name": "Tomma l\u00e4ppar",
+        "url": "https://open.spotify.com/album/00q31p6qqDvVBNi7Y0oYv4"
       },
       "artists": [
         {
-          "name": "Petter",
-          "url": "https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r"
+          "name": "Kid",
+          "url": "https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8"
         }
       ],
-      "duration_ms": 140749,
-      "name": "Sparat bilder",
-      "url": "https://open.spotify.com/track/4Y63RjAxXoZ8eRhnikr1Ck"
+      "duration_ms": 178863,
+      "name": "Tomma l\u00e4ppar",
+      "url": "https://open.spotify.com/track/5oTwWYGGvz9c5S2kcQCYxf"
     }
   ],
   "unique_name": "Made in Sweden",

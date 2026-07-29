@@ -2609,6 +2609,28 @@
     },
     {
       "album": {
+        "name": "Some Day I Will",
+        "url": "https://open.spotify.com/album/7kDOOZMDmpwsaDIFG9PGEC"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "hawi",
+          "url": "https://open.spotify.com/artist/26IMKo1iEaPH2g8UlfW1DG"
+        }
+      ],
+      "date_added": "2025-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205351,
+      "name": "Some Day I Will",
+      "url": "https://open.spotify.com/track/1gXzaTjAxXs0wbGPm7MTQu"
+    },
+    {
+      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -3064,7 +3086,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 190249,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/21HxYsyuuXZNqB1Dme5PQN"

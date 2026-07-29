@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,683 likes - 588 songs - 1 day 16 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,686 likes - 588 songs - 1 day 16 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -263,8 +263,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 253 | [The Sun Ain't Gonna Shine](https://open.spotify.com/track/5T3z4DZm07eEPFJixAfZju) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 4:58 |
 | 254 | [You Are My Home](https://open.spotify.com/track/4I5gpBUfTcqJHO93byBpj3) | [Vanessa L\. Williams](https://open.spotify.com/artist/2LaI36n7EVNlR6SSqv9cKg), [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Dance With Me Music From The Motion Picture](https://open.spotify.com/album/4bos6gNopheWkjbVnf6sGj) | 5:09 |
 | 255 | [I'll Get Through It](https://open.spotify.com/track/29i42LGWRMt8JaNo6YFdTn) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Franky Perez](https://open.spotify.com/artist/5thMiyWHTQFVgttOjJVEHa), [Geezer Butler](https://open.spotify.com/artist/3Ezdddx6OeiOX7xLtfG48W) | [I'll Get Through It](https://open.spotify.com/album/1SbhxCMizdXux9rf9YlQoZ) | 4:17 |
-| 256 | [Rescue](https://open.spotify.com/track/0U8mYB7HCn5JOKdK6Z3FGp) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Seventy Two & Sunny](https://open.spotify.com/album/2zZwVIJj6sknvA1Fn4zhhQ) | 4:04 |
-| 257 | [Can't Stop My Heart From Loving You \(The Rain Song\)](https://open.spotify.com/track/1SdG61anvsCv8hffXPU8FD) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Tattooed Heart](https://open.spotify.com/album/1NpgemlEpDwLQeKnZTsTZz) | 4:17 |
+| 256 | [Can't Stop My Heart From Loving You \(The Rain Song\)](https://open.spotify.com/track/1SdG61anvsCv8hffXPU8FD) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Tattooed Heart](https://open.spotify.com/album/1NpgemlEpDwLQeKnZTsTZz) | 4:17 |
+| 257 | [Rescue](https://open.spotify.com/track/0U8mYB7HCn5JOKdK6Z3FGp) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Seventy Two & Sunny](https://open.spotify.com/album/2zZwVIJj6sknvA1Fn4zhhQ) | 4:04 |
 | 258 | [How Do I Live \(Plié\)](https://open.spotify.com/track/1VWZBRhJCy2TAQBO9nryWi) | [Nate Fifield](https://open.spotify.com/artist/1G1Aqwpne900Zzhw3nxNol) | [Pop Hits for Ballet Class, Vol\. 1](https://open.spotify.com/album/2hS9jwGmDYaQiZAZdoJTnf) | 3:41 |
 | 259 | [Questo Amore \(I Don't Want To Miss A Thing\)](https://open.spotify.com/track/5syMPvI7vcgTwTPiOXhClh) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [We Are Love \(Deluxe\)](https://open.spotify.com/album/5CzzuE9XUREa6PyHGgucmC) | 4:34 |
 | 260 | [Me Leve Com Você](https://open.spotify.com/track/6ILEjq8z3T80lt4Onfi3l7) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Sandy & Júnior](https://open.spotify.com/album/7IEHSL719POBQXuI0m4Tu3) | 4:07 |
@@ -281,8 +281,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 271 | [I Bring You To My Senses](https://open.spotify.com/track/0hNwpx4xQSsA4F7By1ZvlQ) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [We Are Love \(Deluxe\)](https://open.spotify.com/album/5CzzuE9XUREa6PyHGgucmC) | 4:04 |
 | 272 | [Your Baby Never Looked Good In Blue \- 7" Version](https://open.spotify.com/track/5fQzLMW97XnJhzvjpCT905) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [What You Don't Know \(Expanded Edition\)](https://open.spotify.com/album/4i9i6CnfbXVOY7rb33K35I) | 3:53 |
 | 273 | [If I Can't Have Your Love](https://open.spotify.com/track/0U2prZwiP37p7xF1ohH5sk) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Richie Sambora](https://open.spotify.com/artist/6uNjT2PKDfR7t48JKhajkh) | [100,000,000 Bon Jovi Fans Can't Be Wrong](https://open.spotify.com/album/3bYv3vaHxACS0O2fUbKSKk) | 4:14 |
-| 274 | [Love Is The Power](https://open.spotify.com/track/7LtxFSHMxHYZGDea3fVZaD) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [This Is The Time \- The Christmas Album](https://open.spotify.com/album/0yoeDitbqfgUDBDZ5J93V8) | 5:34 |
-| 275 | [You Go First](https://open.spotify.com/track/0qVoSr1jArDkdB78QgKKTH) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:31 |
+| 274 | [You Go First](https://open.spotify.com/track/0qVoSr1jArDkdB78QgKKTH) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:31 |
+| 275 | [Love Is The Power](https://open.spotify.com/track/7LtxFSHMxHYZGDea3fVZaD) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [This Is The Time \- The Christmas Album](https://open.spotify.com/album/0yoeDitbqfgUDBDZ5J93V8) | 5:34 |
 | 276 | [Borrowed Angels](https://open.spotify.com/track/4uaQpLvejMjjW5ve8JbAXl) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 4:03 |
 | 277 | [I'll Get There \(The Other Side\)](https://open.spotify.com/track/3Kpj2yYjpc86WrkifbiuDz) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [I’ll Get There \(The Other Side\)](https://open.spotify.com/album/5qQ0VD5av5UFSZrfIcgXbA) | 3:28 |
 | 278 | [Breaking Out](https://open.spotify.com/track/0uLJIlGqtpEWhJ5xS7zSfO) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 3:44 |
@@ -597,4 +597,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 587 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 588 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcYAiAAAAABcZ1+mso8RENTCejPx4hpj`
+Snapshot ID: `AcYGKAAAAABgIhXbnm2h0ZObu8xyUMUG`

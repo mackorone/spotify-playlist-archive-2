@@ -4,7 +4,7 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 0 min
+86 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,9 +45,10 @@
 | [I Just Might](https://open.spotify.com/track/5rcHN0ApxrVS6F6nq3uyGc) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [No Label Vol\. 2](https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj) | 3:44 | 2026-05-12 |  |
 | [I Know \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/22BwaoGHQOTfFhHTndm7DQ) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I Am](https://open.spotify.com/album/57gO7DyFyvl59GdBHtjI74) | 4:19 | 2024-09-07 |  |
 | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/1GPWHf45DwSziB91p9Phbm) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [I'm Sayin' \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/4kiBGPnmexgABakZacTOMp) | 3:22 | 2024-09-07 |  |
-| [Imma Ride](https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt) | 4:47 | 2024-09-07 |  |
+| [Imma Ride](https://open.spotify.com/track/0FwezIaHwoxFy8IOLbF2UQ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt) | 4:47 | 2024-09-07 | 2026-07-29 |
 | [Intro](https://open.spotify.com/track/4ivbsok0LJFpPkFauN0vfF) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Forever Goin In](https://open.spotify.com/album/2ckUVZOABzUQhe3nwihUrh) | 4:12 | 2024-10-08 | 2025-05-19 |
 | [Investment](https://open.spotify.com/track/45qBK268Mjy6JnOE6mx179) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Goin In](https://open.spotify.com/album/5RhyJl0ok0NDKiHjDVg9Z9) | 3:40 | 2024-09-09 | 2024-11-14 |
+| [Keep It Goin](https://open.spotify.com/track/1XYOVvfSbn1Ez4p6pwUsia) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Rich Homie Cartel Vol 1](https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt) | 4:23 | 2026-07-29 |  |
 | [Klay Thompson](https://open.spotify.com/track/7D1nmzV1FOscrL8UyIuXDY) | [Ricch Bastard](https://open.spotify.com/artist/4VOt7QE8yAzTKOD3SL3Yfz), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Klay Thompson](https://open.spotify.com/album/7743H4b8PvziadCljbC05U) | 2:27 | 2025-04-08 | 2025-04-16 |
 | [Krazy](https://open.spotify.com/track/7xhOLtSMUUfZHTK0QVLFnU) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Family & Mula](https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa) | 2:24 | 2024-09-07 | 2025-04-01 |
 | [Lifestyle](https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl) | [Rich Gang](https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Lifestyle](https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l) | 4:29 | 2024-09-07 |  |

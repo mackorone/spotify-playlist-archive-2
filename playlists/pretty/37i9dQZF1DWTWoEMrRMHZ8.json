@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: L\u00f4 Borges",
-  "num_followers": 355017,
+  "num_followers": 355003,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "Vende-se Lembran\u00e7a",
-        "url": "https://open.spotify.com/album/6LoRbQcRtIG8vyUEDm3Y9L"
-      },
-      "artists": [
-        {
-          "name": "Pedro Em\u00edlio",
-          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Tanto Voc\u00ea",
-      "url": "https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "A vida se revela",
         "url": "https://open.spotify.com/album/2u2cnOWa1vI7pAZ94Y91GF"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 216153,
       "name": "A vida se revela",
       "url": "https://open.spotify.com/track/4AGMxN4dW6U7uHrykhsXTC"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "Vende-se Lembran\u00e7a",
+        "url": "https://open.spotify.com/album/6LoRbQcRtIG8vyUEDm3Y9L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Em\u00edlio",
+          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Tanto Voc\u00ea",
+      "url": "https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "Feira de Mangaio",
-        "url": "https://open.spotify.com/album/4cWi4ErDXvCgd9L4u6asfA"
-      },
-      "artists": [
-        {
-          "name": "Bruna Black",
-          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
-        }
-      ],
-      "duration_ms": 133566,
-      "name": "Feira de Mangaio",
-      "url": "https://open.spotify.com/track/490ktUB68RgDOWmRRzJNyl"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "Minha Hist\u00f3ria",
         "url": "https://open.spotify.com/album/4FWLl1pS44LvnwLe5C51tE"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 219942,
       "name": "Criaturas da Noite",
       "url": "https://open.spotify.com/track/4Ei3Nv53tUWbhityquzSWA"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "Feira de Mangaio",
+        "url": "https://open.spotify.com/album/4cWi4ErDXvCgd9L4u6asfA"
+      },
+      "artists": [
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        }
+      ],
+      "duration_ms": 133566,
+      "name": "Feira de Mangaio",
+      "url": "https://open.spotify.com/track/490ktUB68RgDOWmRRzJNyl"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "Sabi\u00e1",
-        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
-      },
-      "artists": [
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
-        }
-      ],
-      "duration_ms": 169595,
-      "name": "Sabi\u00e1",
-      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "Homem com H",
         "url": "https://open.spotify.com/album/1JuIrijsL2hOyW8n49xRuR"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 121015,
       "name": "O Mundo \u00e9 um Moinho",
       "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "Sabi\u00e1",
+        "url": "https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD"
+      },
+      "artists": [
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+        }
+      ],
+      "duration_ms": 169595,
+      "name": "Sabi\u00e1",
+      "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -967,6 +967,22 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
+        "name": "Lugar Comum",
+        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
+      },
+      "artists": [
+        {
+          "name": "Michael Pipoquinha",
+          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
+        }
+      ],
+      "duration_ms": 278212,
+      "name": "Lugar Comum",
+      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
         "name": "Sembal",
         "url": "https://open.spotify.com/album/3jb0i7cPqumhnn9vSJRLiy"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 212853,
       "name": "Sembal",
       "url": "https://open.spotify.com/track/5pJfwJZBwzJDhBP8pKeORU"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
-        "name": "Lugar Comum",
-        "url": "https://open.spotify.com/album/5fspAjJP9fDSjo5q63JUcV"
-      },
-      "artists": [
-        {
-          "name": "Michael Pipoquinha",
-          "url": "https://open.spotify.com/artist/3vT4VjcxsNrmnyk9UjYa6N"
-        }
-      ],
-      "duration_ms": 278212,
-      "name": "Lugar Comum",
-      "url": "https://open.spotify.com/track/7pGxkRuxLhftPUeur7O3e6"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "Me Quedo Por Ti",
-        "url": "https://open.spotify.com/album/1K6yA4zSBJJcG1WjmOGgTq"
-      },
-      "artists": [
-        {
-          "name": "J\u00f4natas Belgrande",
-          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
-        }
-      ],
-      "duration_ms": 235238,
-      "name": "Me Quedo Por Ti",
-      "url": "https://open.spotify.com/track/2D3ZBmZU1ue8I5NcuU4frk"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "Pensei que fosse o c\u00e9u (Ao vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/2fVaO6cRhhbg9MIqsYGU0o"
       },
@@ -1087,22 +1071,18 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "25 Anos de M\u00fasica",
-        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
+        "name": "Me Quedo Por Ti",
+        "url": "https://open.spotify.com/album/1K6yA4zSBJJcG1WjmOGgTq"
       },
       "artists": [
         {
-          "name": "Gabriel Sater",
-          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
-        },
-        {
-          "name": "Ivan Lins",
-          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+          "name": "J\u00f4natas Belgrande",
+          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Me Ajuda",
-      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
+      "duration_ms": 235238,
+      "name": "Me Quedo Por Ti",
+      "url": "https://open.spotify.com/track/2D3ZBmZU1ue8I5NcuU4frk"
     },
     {
       "added_at": "2026-07-17 19:35:24",
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
+        "name": "25 Anos de M\u00fasica",
+        "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sater",
+          "url": "https://open.spotify.com/artist/5MsxOIfsWuPgRUutDsT0PI"
+        },
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        }
+      ],
+      "duration_ms": 220826,
+      "name": "Me Ajuda",
+      "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
         "name": "Charme Do Mundo",
         "url": "https://open.spotify.com/album/5hZeK56neuhdhzune4QtYu"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-07-17 19:35:24",
       "album": {
-        "name": "Agudo Grave",
-        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9lia Duncan",
-          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
-        }
-      ],
-      "duration_ms": 190873,
-      "name": "Agudo Grave",
-      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
-    },
-    {
-      "added_at": "2026-07-17 19:35:24",
-      "album": {
         "name": "VAMO COM CALMA, MALANDRA",
         "url": "https://open.spotify.com/album/7BLHba6D1V2Qgl82dIHoZu"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 125193,
       "name": "VAMO COM CALMA, MALANDRA",
       "url": "https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm"
+    },
+    {
+      "added_at": "2026-07-17 19:35:24",
+      "album": {
+        "name": "Agudo Grave",
+        "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        }
+      ],
+      "duration_ms": 190873,
+      "name": "Agudo Grave",
+      "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
     },
     {
       "added_at": "2026-07-17 19:35:24",

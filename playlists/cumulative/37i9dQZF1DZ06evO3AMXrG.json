@@ -582,10 +582,32 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 255875,
       "name": "Flaca",
       "url": "https://open.spotify.com/track/12QOz99BmQf6niecivifM7"
+    },
+    {
+      "album": {
+        "name": "En bucle",
+        "url": "https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255875,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/1rANpxB9ZtlcGTvandJAzI"
     },
     {
       "album": {

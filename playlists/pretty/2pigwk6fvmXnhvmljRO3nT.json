@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAMd/SvrttO/atwRjUVfcuIKj/fm+JU",
+  "snapshot_id": "AAAMeSx3BZgPoY01nKKQ+T9T1z6pntN3",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -151731,6 +151731,38 @@
       "duration_ms": 229746,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/5q6A4nzo0VY57NjeMY6eZn"
+    },
+    {
+      "added_at": "2026-07-28 08:09:41",
+      "album": {
+        "name": "Completeness",
+        "url": "https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "duration_ms": 208772,
+      "name": "KiLLKiSS",
+      "url": "https://open.spotify.com/track/469KRyxbgklNcb6iLhbztB"
+    },
+    {
+      "added_at": "2026-07-28 08:13:37",
+      "album": {
+        "name": "Alea jacta est",
+        "url": "https://open.spotify.com/album/4B7EDOo57FODEUirLkpNrZ"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "duration_ms": 255960,
+      "name": "Ave Mujica",
+      "url": "https://open.spotify.com/track/2W99f2JxL6d2myh7nKAJKg"
     }
   ],
   "unique_name": "Purge",

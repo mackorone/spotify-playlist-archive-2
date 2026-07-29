@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 ### [Terra Incognita](https://open.spotify.com/playlist/37i9dQZF1DX1lnB9anGfHa)
 
-> a journey into the unknown, dark, and experimental 🌑 Cover: Chelsea Wolfe.
+> ⚸⚸⚸ a journey into the unknown, dark, and experimental ⚸⚸⚸ featuring Chelsea Wolfe
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,219 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,220 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 15 | [Crisopoli](https://open.spotify.com/track/1LaEAzGgmOYrS9ZNzYHtwY) | [Adriano Zanni](https://open.spotify.com/artist/0kjAa0r1yMBKEmYq4dFE4j) | [Crisopoli](https://open.spotify.com/album/7eYPOqja8dCM0QvDKWW55O) | 3:56 |
 | 16 | [Plenty For All The Masses](https://open.spotify.com/track/6DHV44sKNB0hchQaGCq4Hv) | [Dagmar Zuniga](https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q) | [in filth your mystery is kingdom / far smile peasant in yellow music](https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO) | 2:01 |
 | 17 | [Illa Sera](https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 4:03 |
-| 18 | [The Heaven of our Misery](https://open.spotify.com/track/2HbbBoEhX4ubTlLThzHMcg) | [Bill Orcutt](https://open.spotify.com/artist/49ECnwhYzm6Nu97puMvwjG), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Almost Waking](https://open.spotify.com/album/2Eepx7kt4gbeqYIOGjUOw2) | 4:07 |
-| 19 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
+| 18 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
+| 19 | [The Heaven of our Misery](https://open.spotify.com/track/2HbbBoEhX4ubTlLThzHMcg) | [Bill Orcutt](https://open.spotify.com/artist/49ECnwhYzm6Nu97puMvwjG), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Almost Waking](https://open.spotify.com/album/2Eepx7kt4gbeqYIOGjUOw2) | 4:07 |
 | 20 | [RÀRECHE](https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj) | [RÀRECHE](https://open.spotify.com/album/5irYFPsqPMiV6ramtSx3al) | 2:51 |
 | 21 | [Everything is unreal \- Valentina Magaletti EDIT](https://open.spotify.com/track/7ltVPWL8GUXUbKJiBYZgPq) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 4:08 |
 | 22 | [Lauda](https://open.spotify.com/track/7cmI7fqL8FodgrCyvlLLrU) | [Mykalle](https://open.spotify.com/artist/6mgKqE0FKpgUK4Yf9ZBxi0) | [Lauda](https://open.spotify.com/album/2k8PnWL7bidqIWzi4v4ZuZ) | 5:30 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 64 | [Karada](https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Karada](https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk) | 4:38 |
 | 65 | [Grief](https://open.spotify.com/track/1WvlzTLQuAzhAWgnWQFydt) | [Mai Mai Mai](https://open.spotify.com/artist/5qVRuanPGaUlDLpcS4l7b3), [Maya Al Khaldi](https://open.spotify.com/artist/3prfEtBarVhjO942w5f6T6) | [Grief](https://open.spotify.com/album/1QucVHnWfS3U2IjEMnEd54) | 4:32 |
 | 66 | [Good Grounds](https://open.spotify.com/track/6PWkv2o1eN0zwCjv84RgtL) | [Fallwander](https://open.spotify.com/artist/2WcqiTkQbwFH3hHZ0Xrfl9) | [Good Grounds](https://open.spotify.com/album/4NnMcBS50RFGzf2Fe49qvO) | 5:05 |
-| 67 | [Empty space](https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 3:47 |
-| 68 | [An Embroidery](https://open.spotify.com/track/3fGOSGKCGV4WTnDIOhD22M) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Life of the Forbidden](https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R) | 4:09 |
+| 67 | [An Embroidery](https://open.spotify.com/track/3fGOSGKCGV4WTnDIOhD22M) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Life of the Forbidden](https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R) | 4:09 |
+| 68 | [Empty space](https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 3:47 |
 | 69 | [ANIMAL SEEKING](https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. II](https://open.spotify.com/album/5BVjkQyN80FvN61CGaY5bl) | 3:19 |
 | 70 | [First Swim, A Water Chant](https://open.spotify.com/track/3CRLEMYQG6PMUnbTqfeKVM) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva \(Deluxe Edition\)](https://open.spotify.com/album/5RlbXZBXYwJJ8fmIysFdrV) | 3:43 |
 | 71 | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/track/0c8mwvjTYUZUMwiLn4vhbX) | [Maladé](https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl), [Orelle](https://open.spotify.com/artist/759n9HvatPa0PARbAtn6Cs), [Martina Primavera](https://open.spotify.com/artist/1f7xLN7zodIwUg2W2McjNn) | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/album/4FrLdV5HORBNYmyFTHgQhF) | 2:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 74 | [Thou Art Mortal \- Julia Holter Rework](https://open.spotify.com/track/6wt6su6c5kE2igsgHPs4Sj) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [OPVS NOVUM: A Requiem Reworked](https://open.spotify.com/album/0BDOnuEIPCcya95B82Z3RY) | 4:26 |
 | 75 | [Squid For A Day](https://open.spotify.com/track/129NkktWJoqa7S7PutQpYc) | [Panoram](https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7) | [Squid For A Day](https://open.spotify.com/album/0dCecSOQZTiP5Db8qxye7P) | 2:56 |
 
-Snapshot ID: `AAAAACGp4ZgAQiqjqJGuhiByqz/4YxQJ`
+Snapshot ID: `AAAAAH0+05CZPdK10P10q2FStg0kxnK2`

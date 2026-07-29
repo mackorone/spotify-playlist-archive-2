@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8777,
+  "num_followers": 8774,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAAAiIReeVDFhzcPbsnI1FqFg",
+  "snapshot_id": "amafgAAAAACiJmJZCFtrp68Xi+9lf+WZ",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosmic Intoxication",
-        "url": "https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 218506,
-      "name": "Smoke & Mirrors",
-      "url": "https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desiderium",
         "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 260617,
       "name": "Steal My Attention",
       "url": "https://open.spotify.com/track/0tbrfWifXRO0HVwfjUBYvF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cosmic Intoxication",
+        "url": "https://open.spotify.com/album/3DQ3JWmMfSaSr7ebt3ML8o"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/5mwfkFzjO16jnWY5A8oqvz"
     },
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI"
-      },
-      "artists": [
-        {
-          "name": "Attacca Quartet",
-          "url": "https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 168213,
-      "name": "Remind U (feat. TOKiMONSTA)",
-      "url": "https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 212811,
       "name": "Get Me Some",
       "url": "https://open.spotify.com/track/02uIosVt2J6YyX5OWVLPKG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/12U0Y5Wm08gdsrd92i50vI"
+      },
+      "artists": [
+        {
+          "name": "Attacca Quartet",
+          "url": "https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 168213,
+      "name": "Remind U (feat. TOKiMONSTA)",
+      "url": "https://open.spotify.com/track/6ZpBVrJWKsgTNSoZs4BbSI"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 220032,
-      "name": "Lovely Soul",
-      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eternal Reverie (Instrumentals)",
         "url": "https://open.spotify.com/album/38IgamewgVd1PgPUmxBu7A"
       },
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 280022,
-      "name": "Up and Out",
-      "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
+      "duration_ms": 220032,
+      "name": "Lovely Soul",
+      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
       "duration_ms": 202965,
       "name": "Bibimbap",
       "url": "https://open.spotify.com/track/4CO7oeYMJeu8DRqXJtl7LV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 280022,
+      "name": "Up and Out",
+      "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
     },
     {
       "added_at": null,
@@ -895,26 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 191233,
-      "name": "Fried for the Night",
-      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno (Remixed)",
         "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 248907,
       "name": "Come and Go - Halogenix Remix",
       "url": "https://open.spotify.com/track/20vmuTwxzhupT4hQhAtdtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 191233,
+      "name": "Fried for the Night",
+      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
     },
     {
       "added_at": null,

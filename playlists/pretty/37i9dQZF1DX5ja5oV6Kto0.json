@@ -1,6 +1,6 @@
 {
   "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Taves",
-  "num_followers": 112394,
+  "num_followers": 112405,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "EGER",
-        "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
-      },
-      "artists": [
-        {
-          "name": "Egertton",
-          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Obokhian",
-      "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
         "name": "\u00d4'sassin",
         "url": "https://open.spotify.com/album/140Eql7bC0A0l8kDret5Tw"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 154111,
       "name": "\u00d4'sassin",
       "url": "https://open.spotify.com/track/0g06jpN64q2uNXwRT03qtz"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
+        "name": "EGER",
+        "url": "https://open.spotify.com/album/0rXA7RIMpNBraCKDP2kX5S"
+      },
+      "artists": [
+        {
+          "name": "Egertton",
+          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Obokhian",
+      "url": "https://open.spotify.com/track/4SPYssky8OHoPevhpRAY00"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/3EZETRmlze91iyz6HoyHfX"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/7r9qkWxCONSuZ3tDYrIBFi"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP"
       },
@@ -783,18 +799,22 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "Heaven On Earth",
-        "url": "https://open.spotify.com/album/3EZETRmlze91iyz6HoyHfX"
+        "name": "Enemies Cry",
+        "url": "https://open.spotify.com/album/3C83IGMIxHuI0p2LADPncs"
       },
       "artists": [
         {
-          "name": "IkeN",
-          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+          "name": "Kali Claire",
+          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         }
       ],
-      "duration_ms": 235636,
-      "name": "Heaven On Earth",
-      "url": "https://open.spotify.com/track/7r9qkWxCONSuZ3tDYrIBFi"
+      "duration_ms": 167031,
+      "name": "Enemies Cry",
+      "url": "https://open.spotify.com/track/0KBNrZg9LLaE92YpuTDMXV"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -819,22 +839,6 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "Do Not Disturb (DND)",
-        "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 172035,
-      "name": "Do Not Disturb (DND)",
-      "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
         "name": "SAY Yours",
         "url": "https://open.spotify.com/album/5AIArg9AYwFRfvjh6QPkyv"
       },
@@ -847,6 +851,22 @@
       "duration_ms": 165333,
       "name": "TNGHT",
       "url": "https://open.spotify.com/track/5oWZFpX95oaCZ69WWZNZzc"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
+        "name": "Do Not Disturb (DND)",
+        "url": "https://open.spotify.com/album/3uoKJof8T6N1Tkfr1nwfNy"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 172035,
+      "name": "Do Not Disturb (DND)",
+      "url": "https://open.spotify.com/track/31sL8nRhXMo4wtBNSMtrho"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -923,26 +943,6 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "Enemies Cry",
-        "url": "https://open.spotify.com/album/3C83IGMIxHuI0p2LADPncs"
-      },
-      "artists": [
-        {
-          "name": "Kali Claire",
-          "url": "https://open.spotify.com/artist/21S3j7WjnZmXyhXrNif84x"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 167031,
-      "name": "Enemies Cry",
-      "url": "https://open.spotify.com/track/0KBNrZg9LLaE92YpuTDMXV"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
         "name": "Greedy",
         "url": "https://open.spotify.com/album/5o0ihDGjIdUQIafvtiDek1"
       },
@@ -979,6 +979,34 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
+        "name": "Sunset Drive",
+        "url": "https://open.spotify.com/album/03XuTpwc98BUxIAGRumQcE"
+      },
+      "artists": [
+        {
+          "name": "Laime",
+          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
+        },
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        },
+        {
+          "name": "Jimohsoundz",
+          "url": "https://open.spotify.com/artist/0Jt3O4jM9QL5Atkl3WRhCJ"
+        },
+        {
+          "name": "Sante SVM",
+          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
+        }
+      ],
+      "duration_ms": 190588,
+      "name": "Matcha Latte",
+      "url": "https://open.spotify.com/track/33mghr8JmQy7V0tyBVt1bv"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
         "name": "PRETTY WOMAN (WICKED)",
         "url": "https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj"
       },
@@ -1011,6 +1039,22 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 158537,
+      "name": "ROCK & SLIDE",
+      "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
         "name": "TRU$T FUND",
         "url": "https://open.spotify.com/album/2IjvgyB9qg2znW2mX1JdNJ"
       },
@@ -1035,50 +1079,6 @@
       "duration_ms": 187118,
       "name": "TRU$T FUND",
       "url": "https://open.spotify.com/track/7fUD6s55nUdOWo4l7IzoFR"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 158537,
-      "name": "ROCK & SLIDE",
-      "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
-        "name": "Sunset Drive",
-        "url": "https://open.spotify.com/album/03XuTpwc98BUxIAGRumQcE"
-      },
-      "artists": [
-        {
-          "name": "Laime",
-          "url": "https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA"
-        },
-        {
-          "name": "Dremo",
-          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
-        },
-        {
-          "name": "Jimohsoundz",
-          "url": "https://open.spotify.com/artist/0Jt3O4jM9QL5Atkl3WRhCJ"
-        },
-        {
-          "name": "Sante SVM",
-          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
-        }
-      ],
-      "duration_ms": 190588,
-      "name": "Matcha Latte",
-      "url": "https://open.spotify.com/track/33mghr8JmQy7V0tyBVt1bv"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
+        "name": "Bad Decision",
+        "url": "https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A"
+      },
+      "artists": [
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Bad Decision",
+      "url": "https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
         "name": "Only Water (Feat. Lady Donli)",
         "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 187500,
       "name": "Only Water (Feat. Lady Donli)",
       "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
-        "name": "Bad Decision",
-        "url": "https://open.spotify.com/album/6H5P86FsOUGSNamxMUYk2A"
-      },
-      "artists": [
-        {
-          "name": "Maali",
-          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Bad Decision",
-      "url": "https://open.spotify.com/track/7BkG45C1yI14XPRkGQckqo"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
+        "name": "Sex on the Beach",
+        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 171205,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
         "name": "Para Para",
         "url": "https://open.spotify.com/album/4GfU2WhBitkhYa0MaDG93q"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 147744,
       "name": "Para Para",
       "url": "https://open.spotify.com/track/2hsEI2Au5dxV6xIi2fDZbu"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
-        "name": "Sex on the Beach",
-        "url": "https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 171205,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
     },
     {
       "added_at": "2026-07-24 00:01:38",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "FOTM (Running)",
-        "url": "https://open.spotify.com/album/7yl1WnKiLCaYuwY4uXkxUJ"
-      },
-      "artists": [
-        {
-          "name": "KwesiSoul",
-          "url": "https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr"
-        },
-        {
-          "name": "Taitan",
-          "url": "https://open.spotify.com/artist/4g1BJchdm4bno5b4MD9fxf"
-        }
-      ],
-      "duration_ms": 147391,
-      "name": "FOTM (Running)",
-      "url": "https://open.spotify.com/track/2QR0JM3xIQ2CRFsUuagSWs"
-    },
-    {
-      "added_at": "2026-07-24 00:01:38",
-      "album": {
         "name": "MEGAPHUNK",
         "url": "https://open.spotify.com/album/4aPlsCZksh87iYXvqQCUKb"
       },
@@ -1499,22 +1479,38 @@
     {
       "added_at": "2026-07-24 00:01:38",
       "album": {
-        "name": "Don't Chase Me Away",
-        "url": "https://open.spotify.com/album/3DeMDwnfny4OTTfSdkStY0"
+        "name": "FOTM (Running)",
+        "url": "https://open.spotify.com/album/7yl1WnKiLCaYuwY4uXkxUJ"
       },
       "artists": [
         {
-          "name": "Cheruu",
-          "url": "https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB"
+          "name": "KwesiSoul",
+          "url": "https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr"
         },
         {
-          "name": "Chris Barr",
-          "url": "https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo"
+          "name": "Taitan",
+          "url": "https://open.spotify.com/artist/4g1BJchdm4bno5b4MD9fxf"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Don't Chase Me Away",
-      "url": "https://open.spotify.com/track/41UIC44Fw79UUdwlt9Vgqs"
+      "duration_ms": 147391,
+      "name": "FOTM (Running)",
+      "url": "https://open.spotify.com/track/2QR0JM3xIQ2CRFsUuagSWs"
+    },
+    {
+      "added_at": "2026-07-24 00:01:38",
+      "album": {
+        "name": "20nothing",
+        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+      },
+      "artists": [
+        {
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Regular Shmegular Girl",
+      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
     }
   ],
   "unique_name": "Alt\u00e9 Cruise",

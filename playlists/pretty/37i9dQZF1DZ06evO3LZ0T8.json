@@ -1,12 +1,12 @@
 {
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
-  "num_followers": 8905,
+  "num_followers": 8911,
   "original_name": "This Is SUBSHIFT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAABn+Ka+LBiVJN0Ce+DSZm7F",
+  "snapshot_id": "amafgAAAAABuOluph1CMJuXP5ZPIwbLt",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Is It Me",
         "url": "https://open.spotify.com/album/6HhGVvJDOagok3JtTcuS4X"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 169687,
       "name": "Blink",
       "url": "https://open.spotify.com/track/4VkKITpuA7aiGtMWst0hk4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/3Wblo1hg81cfadtYE2A582"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 172757,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/7dJt10sVsSo2Uy5afY2P4i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After Party",
         "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
       },
@@ -683,34 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/3Wblo1hg81cfadtYE2A582"
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
       },
       "artists": [
         {
           "name": "SUBSHIFT",
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 172757,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/7dJt10sVsSo2Uy5afY2P4i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money Zone",
-        "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
-      },
-      "artists": [
+        },
         {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+          "name": "Fantom Freq",
+          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
         }
       ],
-      "duration_ms": 171502,
-      "name": "Money Zone",
-      "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
+      "duration_ms": 219344,
+      "name": "U Know It",
+      "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
     },
     {
       "added_at": null,
@@ -731,22 +735,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Decisions",
-        "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
+        "name": "Money Zone",
+        "url": "https://open.spotify.com/album/2QMsIeLfwPPKpAMsTuKTwP"
       },
       "artists": [
         {
           "name": "SUBSHIFT",
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Fantom Freq",
-          "url": "https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM"
         }
       ],
-      "duration_ms": 219344,
-      "name": "U Know It",
-      "url": "https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F"
+      "duration_ms": 171502,
+      "name": "Money Zone",
+      "url": "https://open.spotify.com/track/74Bc5e2EtbMTyBiJiFNN3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Mind / Let Me",
+        "url": "https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 188322,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn"
     },
     {
       "added_at": null,
@@ -787,6 +803,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raise It Up",
+        "url": "https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE"
+      },
+      "artists": [
+        {
+          "name": "Makla",
+          "url": "https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M"
+        },
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "MC Kane",
+          "url": "https://open.spotify.com/artist/7nwtn0dNIn3H879bbwJTwt"
+        }
+      ],
+      "duration_ms": 235650,
+      "name": "Raise It Up",
+      "url": "https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/1jPkspAoB7SIEPvoH8hS6b"
       },
@@ -799,22 +839,6 @@
       "duration_ms": 187263,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/7w9NUVZgPliQv7BKjaGFoU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Mind / Let Me",
-        "url": "https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 188322,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn"
     },
     {
       "added_at": null,
@@ -839,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Discoth\u00e8que Records Vol. 5",
-        "url": "https://open.spotify.com/album/3vhAcOznjYIbVQXfZnVcyI"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Confession",
-          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Shaka",
-      "url": "https://open.spotify.com/track/4JjsTeJOcfvpj5t3IJijXr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Club 95",
         "url": "https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA"
       },
@@ -875,26 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raise It Up",
-        "url": "https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE"
+        "name": "Discoth\u00e8que Records Vol. 5",
+        "url": "https://open.spotify.com/album/3vhAcOznjYIbVQXfZnVcyI"
       },
       "artists": [
-        {
-          "name": "Makla",
-          "url": "https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M"
-        },
         {
           "name": "SUBSHIFT",
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         },
         {
-          "name": "MC Kane",
-          "url": "https://open.spotify.com/artist/7nwtn0dNIn3H879bbwJTwt"
+          "name": "Confession",
+          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
         }
       ],
-      "duration_ms": 235650,
-      "name": "Raise It Up",
-      "url": "https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV"
+      "duration_ms": 153000,
+      "name": "Shaka",
+      "url": "https://open.spotify.com/track/4JjsTeJOcfvpj5t3IJijXr"
     },
     {
       "added_at": null,

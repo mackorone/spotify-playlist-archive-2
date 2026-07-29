@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \u2764\ufe0f\u200d\ud83d\udd25 with Lizdek",
-  "num_followers": 877489,
+  "num_followers": 877446,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
+        "name": "change my mind",
+        "url": "https://open.spotify.com/album/6a2hTHbTAodgtnysbaMzaH"
+      },
+      "artists": [
+        {
+          "name": "Altare",
+          "url": "https://open.spotify.com/artist/3W3dTmUEXbo2D9CQzNTSaI"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "change my mind",
+      "url": "https://open.spotify.com/track/2htiiQZqJKqY6mFUF9wh0d"
+    },
+    {
+      "added_at": "2026-07-17 04:01:45",
+      "album": {
         "name": "KEEP SEEING THINGS",
         "url": "https://open.spotify.com/album/3p0SgYAxSOCDWPrqstmWme"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 160000,
       "name": "KEEP SEEING THINGS",
       "url": "https://open.spotify.com/track/6mbnJDEeaXI0a6ExGumVMX"
-    },
-    {
-      "added_at": "2026-07-17 04:01:45",
-      "album": {
-        "name": "change my mind",
-        "url": "https://open.spotify.com/album/6a2hTHbTAodgtnysbaMzaH"
-      },
-      "artists": [
-        {
-          "name": "Altare",
-          "url": "https://open.spotify.com/artist/3W3dTmUEXbo2D9CQzNTSaI"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "change my mind",
-      "url": "https://open.spotify.com/track/2htiiQZqJKqY6mFUF9wh0d"
     },
     {
       "added_at": "2026-07-17 04:01:45",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
+        "name": "MONSOON",
+        "url": "https://open.spotify.com/album/5A60sszN1Cgkt9kWXme7HT"
+      },
+      "artists": [
+        {
+          "name": "FLY",
+          "url": "https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "MONSOON",
+      "url": "https://open.spotify.com/track/4uc8mEDBX656KlHMGxK1UV"
+    },
+    {
+      "added_at": "2026-07-17 04:01:45",
+      "album": {
         "name": "RIDDEM",
         "url": "https://open.spotify.com/album/6K0oLtutn78F9CXO6IOQ2g"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 207428,
       "name": "RIDDEM",
       "url": "https://open.spotify.com/track/1bkjMSYQVJJtxIZTykflfg"
-    },
-    {
-      "added_at": "2026-07-17 04:01:45",
-      "album": {
-        "name": "MONSOON",
-        "url": "https://open.spotify.com/album/5A60sszN1Cgkt9kWXme7HT"
-      },
-      "artists": [
-        {
-          "name": "FLY",
-          "url": "https://open.spotify.com/artist/5uzvRvcTtbA3JqZxglgTda"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "MONSOON",
-      "url": "https://open.spotify.com/track/4uc8mEDBX656KlHMGxK1UV"
     },
     {
       "added_at": "2026-07-17 04:01:45",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
-    },
-    {
-      "added_at": "2026-07-17 04:01:45",
-      "album": {
         "name": "Keep It Moving",
         "url": "https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 160551,
       "name": "Keep It Moving",
       "url": "https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft"
+    },
+    {
+      "added_at": "2026-07-17 04:01:45",
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf"
     },
     {
       "added_at": "2026-07-17 04:01:45",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2026-07-17 04:01:45",
       "album": {
-        "name": "Jesus Loves Trap Music",
-        "url": "https://open.spotify.com/album/7BKAq3ux4qhQXwGdGxSv5r"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Aida Sofia",
-          "url": "https://open.spotify.com/artist/0QxPOCNkDNs3qaA1p5PzQu"
-        }
-      ],
-      "duration_ms": 188721,
-      "name": "Lucid",
-      "url": "https://open.spotify.com/track/6qTzPNNmXsGy5aq7EHs0S4"
-    },
-    {
-      "added_at": "2026-07-17 04:01:45",
-      "album": {
         "name": "WONKY",
         "url": "https://open.spotify.com/album/5fnyNsCy9D1m1NWxoG0Hae"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 172682,
       "name": "WONKY",
       "url": "https://open.spotify.com/track/1PqDk7xj3S2IUrvt7y8JMw"
+    },
+    {
+      "added_at": "2026-07-17 04:01:45",
+      "album": {
+        "name": "Jesus Loves Trap Music",
+        "url": "https://open.spotify.com/album/7BKAq3ux4qhQXwGdGxSv5r"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Aida Sofia",
+          "url": "https://open.spotify.com/artist/0QxPOCNkDNs3qaA1p5PzQu"
+        }
+      ],
+      "duration_ms": 188721,
+      "name": "Lucid",
+      "url": "https://open.spotify.com/track/6qTzPNNmXsGy5aq7EHs0S4"
     },
     {
       "added_at": "2026-07-17 04:01:45",

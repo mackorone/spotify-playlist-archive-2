@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "UN POSTO DOVE ANDARE",
+        "url": "https://open.spotify.com/album/6hWE6qtN7dH991wZMXEIHM"
+      },
+      "artists": [
+        {
+          "name": "Nicol\u00f2 Filippucci",
+          "url": "https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186964,
+      "name": "4:30",
+      "url": "https://open.spotify.com/track/5Nn6eNhRdxBAOY1EbgwoA3"
+    },
+    {
+      "album": {
         "name": "6 PM",
         "url": "https://open.spotify.com/album/7hrXbPpSWQ4xd1uuOnAuT5"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,223 likes - 174 songs - 15 hr 58 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,209 likes - 174 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 25 | [Looking](https://open.spotify.com/track/3czGXdoslTCmd8IL7zPjyx) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Jason Ingram](https://open.spotify.com/artist/5YTcOomGzlsfsLmqO553CR) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 5:33 |
 | 26 | [Something Beautiful](https://open.spotify.com/track/4wnKG1BVR918F3oTLyHtdh) | [The Heritage](https://open.spotify.com/artist/7MHGumVnrmZttVe3ez5VSJ) | [Something Beautiful](https://open.spotify.com/album/4MI5ORaiOFK5lVm894GbkN) | 4:40 |
 | 27 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
-| 28 | [give + take](https://open.spotify.com/track/1IJE2gUInKnEGb1n8ejasF) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [give + take](https://open.spotify.com/album/5JdrLRSKjDwu0FUz7MlmO3) | 7:07 |
+| 28 | [give + take \- Live](https://open.spotify.com/track/1IJE2gUInKnEGb1n8ejasF) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [give + take \(Live\)](https://open.spotify.com/album/5JdrLRSKjDwu0FUz7MlmO3) | 7:07 |
 | 29 | [I Was Dead, Now I'm Alive \- Live](https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6) | [Awakening MVMT](https://open.spotify.com/artist/6PuUeoGERfFCcCOGzf7IN4), [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Abby Klinge](https://open.spotify.com/artist/6Fcd2uYQsHq7JGap2HULij) | [I Was Dead, Now I'm Alive \(Live\)](https://open.spotify.com/album/5M1zIktnqOYB8WYOj136tu) | 5:23 |
 | 30 | [The Lord Will Provide \- Live](https://open.spotify.com/track/7AMVI5WFc7oDJESW6ko2JF) | [Canaan Baca](https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q) | [The Lord Will Provide \(Live\)](https://open.spotify.com/album/511MBeeCq1drhVGTfks8LI) | 5:12 |
 | 31 | [Send Me](https://open.spotify.com/track/7yca9osKyzoeswk1kKkDSz) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Michael Ketterer](https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo), [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Ethan Kress](https://open.spotify.com/artist/2a9MVHo2PK9VeSg8QwUQhM) | [Send Me](https://open.spotify.com/album/2qrxXOsyR5HsmLlFhuxnpF) | 4:40 |

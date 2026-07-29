@@ -1847,6 +1847,32 @@
     },
     {
       "album": {
+        "name": "Dans vos m\u00e8res",
+        "url": "https://open.spotify.com/album/0FguPQ1rnIvTpieD5mq3xi"
+      },
+      "artists": [
+        {
+          "name": "DVM",
+          "url": "https://open.spotify.com/artist/6Tzkt668w24f7uHLTiq6tr"
+        },
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170240,
+      "name": "Torride",
+      "url": "https://open.spotify.com/track/7r64CAKOo5uH5rGt2dZKtw"
+    },
+    {
+      "album": {
         "name": "NOV",
         "url": "https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts"
       },

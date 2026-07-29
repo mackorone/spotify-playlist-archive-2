@@ -13537,6 +13537,24 @@
     },
     {
       "album": {
+        "name": "The Heidelberg Fisherman's Ball",
+        "url": "https://open.spotify.com/album/3vc1Vo1JXgjTnMdal0eGTW"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "The Heidelberg Fisherman's Ball",
+      "url": "https://open.spotify.com/track/36vZum6jdjadeXbi2qfiUZ"
+    },
+    {
+      "album": {
         "name": "Drowning in Dreams, Pt. 1",
         "url": "https://open.spotify.com/album/0FqqzkczFHMqkfVPzs7Ev8"
       },

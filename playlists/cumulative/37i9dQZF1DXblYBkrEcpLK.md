@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Daoko
 
-878 songs - 2 day 9 hr 36 min
+880 songs - 2 day 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/track/5lpuUXJrebI7zTMCJvkw2c) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/album/7dNZvllHiZ4x3z89gM9JoJ) | 4:49 | 2023-09-05 | 2023-09-22 |
 | [Kataomoi \- From CrosSing](https://open.spotify.com/track/5ZZrQwgtdm0pGC8YA3qO50) | [Hasegawa Ikumi](https://open.spotify.com/artist/2ry3SeF9037A5uPeb8FaYx) | [Kataomoi \- From CrosSing](https://open.spotify.com/album/42oVq6U7nskgpDQNdjCGga) | 3:25 | 2023-11-07 | 2023-11-18 |
 | [Kawaii \(Prod\. Gen Hoshino\)](https://open.spotify.com/track/0M47xHUyYQvhSnso8GFHSA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/0XBFnNqFyAKPJoo3ikzvBe) | 3:20 | 2025-07-04 | 2026-02-25 |
-| [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 | 2025-07-04 |  |
+| [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 | 2025-07-04 | 2026-07-29 |
 | [KEY of Like！](https://open.spotify.com/track/2hQkYgyZfIcmDgIHMcidvB) | [スリーズブーケ](https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM), [DOLLCHESTRA](https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh), [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [KEY of Like！](https://open.spotify.com/album/5dwr0fHNYlLzbZqTqMwotl) | 4:11 | 2025-02-11 | 2025-03-12 |
 | [Kibou no namae](https://open.spotify.com/track/1ldgALd36lkNKA9MkEjQcF) | [家入レオ×麻倉もも](https://open.spotify.com/artist/2sQ533RKXQvXLT66OkfEqw), [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc), [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [Kibou no namae](https://open.spotify.com/album/1nc8iam2SFPEwHqfrIG9dB) | 3:26 | 2024-02-20 | 2024-04-17 |
 | [KiLLKiSS](https://open.spotify.com/track/4m9bU1ifWPGprAtAab3VZn) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [KiLLKiSS](https://open.spotify.com/album/54Hg1DhcIcnRz3BeqUew1p) | 3:28 | 2025-01-08 | 2025-06-22 |
@@ -383,6 +383,7 @@
 | [STAR☆T☆RAIN \- NEW ARRANGE VER.](https://open.spotify.com/track/6bV75xSoY9WPjjvd88cQnQ) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.2\)](https://open.spotify.com/album/4MLXH5rVUsSl0nbmuljoVv) | 3:52 | 2023-07-04 | 2024-01-24 |
 | [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 | 2025-06-12 | 2026-02-25 |
 | [stay with me](https://open.spotify.com/track/5jL2iJzLhS4PNsLtc4ltgw) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [stay with me](https://open.spotify.com/album/4SWgA2dCYmu6shSGPmnh37) | 3:03 | 2026-04-03 | 2026-06-24 |
+| [Still Here](https://open.spotify.com/track/5bfc8VisE4j5SDmNiK27m8) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Still Here](https://open.spotify.com/album/68NWLfkwoqHl2uDnFlr5mm) | 3:42 | 2026-07-28 |  |
 | [STONE OCEAN](https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE) | [ichigo from 岸田教団&THE明星ロケッツ](https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm) | [STONE OCEAN](https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x) | 3:29 | 2022-07-28 | 2023-10-04 |
 | [StrangeX](https://open.spotify.com/track/1qwPJiw1QCZHdDtkUxXtm3) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [StrangeX](https://open.spotify.com/album/5Ra9EsYjAtlh7TfzLrhO7L) | 3:32 | 2023-06-29 | 2023-07-05 |
 | [Strobe Memory](https://open.spotify.com/track/67w7LRacfJu0OcQsZb7HK5) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Hikari](https://open.spotify.com/album/7B4RA5lKKIbw5sTj9Sce3B) | 4:44 | 2022-06-12 | 2022-07-24 |
@@ -541,7 +542,7 @@
 | [アドレナ](https://open.spotify.com/track/6RlkEHM3PohEge8Lfhe9Cs) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アドレナ](https://open.spotify.com/album/2QgUUmu8JSrgsuacr6dI6x) | 3:05 | 2026-02-05 |  |
 | [アンダンテ](https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p) | 3:36 | 2024-04-16 | 2024-06-23 |
 | [アンチテーゼ](https://open.spotify.com/track/6gaTXvxDp4auqdGnAbE8tQ) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [コンポジット](https://open.spotify.com/album/7c13AoYp8d1co832E46kqU) | 4:18 | 2022-06-24 | 2022-07-04 |
-| [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-02-13 |  |
+| [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-02-13 | 2026-07-29 |
 | [イツカノキオク](https://open.spotify.com/track/6H89asd35YNQJ3Ga0B41Je) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [イツカノキオク / 透明のペダル](https://open.spotify.com/album/4DF9D7Tg8ciZg63yAdKvtu) | 3:55 | 2022-06-09 | 2022-07-20 |
 | [イマココ](https://open.spotify.com/track/26apmjQrRKz3Q8h5MzJgxo) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [Rainbow](https://open.spotify.com/album/73Ap5dXU3ZP9FNcY4F8R9K) | 3:42 | 2022-06-12 | 2022-07-14 |
 | [イロドリ](https://open.spotify.com/track/4OqUFJkoUZA7RNtEyvilS1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [イロドリ](https://open.spotify.com/album/2DJBLrJSA045LLJGhtFqgP) | 3:15 | 2024-05-21 | 2024-07-08 |
@@ -683,6 +684,7 @@
 | [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はｉに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 | 2022-07-28 | 2024-02-14 |
 | [五等分の軌跡](https://open.spotify.com/track/2x8LTwwFltPH8kjOThZaWu) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡](https://open.spotify.com/album/1LwNX4lCrDG1LJpFSMT11Z) | 4:09 | 2022-06-21 | 2022-06-23 |
 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 | 2022-07-07 | 2023-01-11 |
+| [今日の日はさようなら](https://open.spotify.com/track/3IWNiORy6MsChBDce2Fhjn) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [森山良子　THE BEST](https://open.spotify.com/album/0Q3luKdx5wNNb1deCnoWft) | 2:21 | 2026-07-28 |  |
 | [今晩の喧嘩](https://open.spotify.com/track/5BJNsJTrmjn21Y3K0eTxfK) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [今晩の喧嘩](https://open.spotify.com/album/3yjTA6CkYo5kvlZCvIIdDb) | 3:41 | 2024-04-16 | 2024-05-29 |
 | [僕らが愚かだなんて誰が言った](https://open.spotify.com/track/1iXdAh0ctEUnzfr307V3mB) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [僕らが愚かだなんて誰が言った](https://open.spotify.com/album/7tVIIansxs3RkgIGhrLBZk) | 4:26 | 2022-06-09 | 2022-07-15 |
 | [僕らが愚かだなんて誰が言った](https://open.spotify.com/track/4IdIiPXZ0nzs7fn2RQuKLv) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [僕らが愚かだなんて誰が言った](https://open.spotify.com/album/3e9QtEHcwrweYA2Vtpplf2) | 4:26 | 2022-06-21 | 2022-06-26 |

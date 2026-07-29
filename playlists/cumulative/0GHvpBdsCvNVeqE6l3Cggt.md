@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-139 songs - 8 hr 0 min
+140 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Initium Concentus](https://open.spotify.com/track/4VNYxI40qpkawwl9acl7ni) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Initium Concentus](https://open.spotify.com/album/4cPut66O77JkNsoYPi1I3E) | 2:42 | 2025-12-02 | 2026-01-15 |
 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 | 2021-03-29 |  |
 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 | 2021-03-29 |  |
+| [Is there a chance of love in outer space? \- live](https://open.spotify.com/track/0J4r8L8PIgBHPMFH2bKUKk) | [Vitamin Dream](https://open.spotify.com/artist/3miIpoYoSTSZK65dHLXRlE) | [Is there a chance of love in outer space? \(live\)](https://open.spotify.com/album/3TREYrIvrCqg7vZkqYIZ3u) | 4:50 | 2026-07-28 |  |
 | [It's Inside](https://open.spotify.com/track/5H7NtbhuEfMQdLWwMrlEh5) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:35 | 2026-03-16 |  |
 | [JEAN SHORTS](https://open.spotify.com/track/3L2Na5XhAajI0KVaQp7qFu) | [Val Texas](https://open.spotify.com/artist/7spILdiaFh8D2O1yiGNGrA) | [DIRT](https://open.spotify.com/album/2y6jtOEkZXgrtbkvcXdfrG) | 2:41 | 2026-06-01 |  |
 | [Jump](https://open.spotify.com/track/4UM6wTL92CDDHpN3dzaVBu) | [Monkey The Dog](https://open.spotify.com/artist/1la7SQE26l6ZhwpOLx5QiC) | [Jump](https://open.spotify.com/album/6ZMr3nj1g6MKbNmexo4KcB) | 3:17 | 2026-01-27 | 2026-02-22 |

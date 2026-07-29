@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-99 songs - 5 hr 10 min
+100 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Terminer](https://open.spotify.com/track/6fHYEeB30chvQLqEpm89pR) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 3:03 | 2024-06-07 |  |
 | [Terrain](https://open.spotify.com/track/6NsKnkuSupS2slL2UKDYMG) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Prime](https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ) | 3:08 | 2025-07-17 |  |
 | [Ton love](https://open.spotify.com/track/7d3tcVaz3RIEV4gzy21Kp7) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:18 | 2024-06-07 |  |
+| [Torride](https://open.spotify.com/track/7r64CAKOo5uH5rGt2dZKtw) | [DVM](https://open.spotify.com/artist/6Tzkt668w24f7uHLTiq6tr), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Dans vos mères](https://open.spotify.com/album/0FguPQ1rnIvTpieD5mq3xi) | 2:50 | 2026-07-28 |  |
 | [Toxic girl](https://open.spotify.com/track/0ablx62qidZIBtYjafLcNg) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [NOV](https://open.spotify.com/album/5FInfFJ91JyCpSgJdp5hts) | 3:33 | 2026-02-05 |  |
 | [Verre de trop](https://open.spotify.com/track/3xWrtnQ5KF0PCf477iLpoz) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan : La Gelée Royale](https://open.spotify.com/album/192Df1MyinzzC8CfiIy1Dt) | 2:39 | 2024-12-11 |  |
 | [VHR](https://open.spotify.com/track/0YgPC4UQhot3W5WkC1o2jM) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 3:33 | 2024-06-07 |  |

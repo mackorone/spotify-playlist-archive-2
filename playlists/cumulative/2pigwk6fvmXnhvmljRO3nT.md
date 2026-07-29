@@ -4,7 +4,7 @@
 
 > 
 
-8,757 songs - 22 day 6 hr 43 min
+8,759 songs - 22 day 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,6 +576,7 @@
 | [Aurora](https://open.spotify.com/track/7dIh8FF0EzYKS8STv3v4F4) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 5:49 | 2025-01-03 |  |
 | [AUTOMATIC](https://open.spotify.com/track/2TqfASuL5JRds7bJX01PdZ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [ZUU](https://open.spotify.com/album/6PkSBdx19zarn4ae1D08gA) | 3:02 | 2025-01-03 |  |
 | [Automatic](https://open.spotify.com/track/3OtnLig2ZlBqNxRMPI78C0) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Freddie](https://open.spotify.com/album/6JaEv20qGvSgIHQbxwtjUu) | 2:32 | 2025-01-03 |  |
+| [Ave Mujica](https://open.spotify.com/track/2W99f2JxL6d2myh7nKAJKg) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Alea jacta est](https://open.spotify.com/album/4B7EDOo57FODEUirLkpNrZ) | 4:15 | 2026-07-28 |  |
 | [Avian](https://open.spotify.com/track/1NXoydcTFSIJ1ikmFEXmDc) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Watching Movies with the Sound Off \(Deluxe Edition\)](https://open.spotify.com/album/3T02fCxAjApu18taJLLbyN) | 3:16 | 2025-01-04 |  |
 | [Avid](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [mizuki](https://open.spotify.com/artist/0Pt3k7cpeOysqGGiw3tQcS) | [Avid](https://open.spotify.com/album/1OpeVvRFxOPSydD2IrOepC) | 4:10 | 2025-09-07 |  |
 | [Avocado](https://open.spotify.com/track/7G4A6sxCGt31pfAoJM12SO) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [Avocado](https://open.spotify.com/album/4sCUY2uA52MMOu57PtqfOm) | 3:15 | 2025-04-29 |  |
@@ -3542,6 +3543,7 @@
 | [Killing In The Name](https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:13 | 2025-01-15 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 | 2025-01-03 |  |
 | [Killing Time](https://open.spotify.com/track/7fvld2LGlUhz15CjeaLewh) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:53 | 2025-05-19 |  |
+| [KiLLKiSS](https://open.spotify.com/track/469KRyxbgklNcb6iLhbztB) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Completeness](https://open.spotify.com/album/5i7bsC8RBELXhGeMViNwZX) | 3:28 | 2026-07-28 |  |
 | [Kills](https://open.spotify.com/track/31HzVBCXNRgBWlD5bZg94O) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Dedication](https://open.spotify.com/album/1cu8gZDe4a71AQgSlBHOAC) | 2:49 | 2024-12-14 |  |
 | [Killshot](https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc) | 3:56 | 2025-05-19 |  |
 | [Killuminati](https://open.spotify.com/track/2PxwwqB4f9x72jbw6AgR1s) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Capital Steez](https://open.spotify.com/artist/0oQuXVLDJB7J4wNff4F99l) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 2:33 | 2025-01-03 |  |

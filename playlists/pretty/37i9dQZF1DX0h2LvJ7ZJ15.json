@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1647537,
+  "num_followers": 1647741,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -27,26 +27,6 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
-        "name": "TIKI TIKI",
-        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
-      },
-      "artists": [
-        {
-          "name": "QMIIR",
-          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
-        },
-        {
-          "name": "SALIMA CHICA",
-          "url": "https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw"
-        }
-      ],
-      "duration_ms": 121739,
-      "name": "TIKI TIKI - Slowed",
-      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
-    },
-    {
-      "added_at": "2026-06-11 16:08:55",
-      "album": {
         "name": "worry",
         "url": "https://open.spotify.com/album/6jyJS5ZnqJfKi1jHQGsQML"
       },
@@ -63,6 +43,26 @@
       "duration_ms": 201908,
       "name": "worry - Slowed",
       "url": "https://open.spotify.com/track/5zE2NfNO04DYlvdUrp4tQk"
+    },
+    {
+      "added_at": "2026-06-11 16:08:55",
+      "album": {
+        "name": "TIKI TIKI",
+        "url": "https://open.spotify.com/album/1QoAulC1zrMPe57TY2kZ8k"
+      },
+      "artists": [
+        {
+          "name": "QMIIR",
+          "url": "https://open.spotify.com/artist/20grbXINI9PPalsRLgh9oP"
+        },
+        {
+          "name": "SALIMA CHICA",
+          "url": "https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw"
+        }
+      ],
+      "duration_ms": 121739,
+      "name": "TIKI TIKI - Slowed",
+      "url": "https://open.spotify.com/track/4lXsvpjLhG7YqEehJFqpKV"
     },
     {
       "added_at": "2026-06-11 16:08:55",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
-        "name": "sex money feelings die (slowed version)",
-        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 168810,
-      "name": "sex money feelings die - slowed version",
-      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
-    },
-    {
-      "added_at": "2026-06-11 16:08:55",
-      "album": {
         "name": "Mary On A Cross (slowed + reverb)",
         "url": "https://open.spotify.com/album/3uMnHBe9kSpru8jFG4bzB8"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 274783,
       "name": "Mary On A Cross - slowed + reverb",
       "url": "https://open.spotify.com/track/6xWbpC8KpcItoGd8ZOKJlU"
+    },
+    {
+      "added_at": "2026-06-11 16:08:55",
+      "album": {
+        "name": "sex money feelings die (slowed version)",
+        "url": "https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 168810,
+      "name": "sex money feelings die - slowed version",
+      "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
     },
     {
       "added_at": "2026-06-11 16:08:55",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
-        "name": "drowning (remixes)",
-        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
-      },
-      "artists": [
-        {
-          "name": "Vague003",
-          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
-        }
-      ],
-      "duration_ms": 132576,
-      "name": "drowning (slowed + reverb)",
-      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
-    },
-    {
-      "added_at": "2026-06-11 16:08:55",
-      "album": {
         "name": "Vision (Slowed)",
         "url": "https://open.spotify.com/album/6kKao8k8is0gfZ2LtrnUMh"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 299572,
       "name": "Vision - Slowed",
       "url": "https://open.spotify.com/track/1NFqszFNaYFCTjdGb3TfSh"
+    },
+    {
+      "added_at": "2026-06-11 16:08:55",
+      "album": {
+        "name": "drowning (remixes)",
+        "url": "https://open.spotify.com/album/5DOv3as7WaM0yGmCYthyHd"
+      },
+      "artists": [
+        {
+          "name": "Vague003",
+          "url": "https://open.spotify.com/artist/6dJ1iY51ZgNt93gelvdF3k"
+        }
+      ],
+      "duration_ms": 132576,
+      "name": "drowning (slowed + reverb)",
+      "url": "https://open.spotify.com/track/59xqg5ECo9VHh9L6CKL3Fs"
     },
     {
       "added_at": "2026-06-11 16:08:55",

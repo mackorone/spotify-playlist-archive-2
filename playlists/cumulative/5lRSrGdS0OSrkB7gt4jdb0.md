@@ -4,7 +4,7 @@
 
 > We all need an angry playlist
 
-65 songs - 3 hr 45 min
+66 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Hey I Don't Work Here](https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 4:55 | 2023-01-04 |  |
 | [House of Wolves](https://open.spotify.com/track/4qPbHPTHniTcYt6oeboB7r) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:04 | 2023-01-11 |  |
 | [I Hate You](https://open.spotify.com/track/4i6xqPtcyz470NNO2LzFZ4) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:42 | 2024-10-03 |  |
+| [I'm Pissed](https://open.spotify.com/track/1lLQ2ZP5gNu4Iq35CXLwAt) | [Thumpasaurus](https://open.spotify.com/artist/13peDbMKVZpn5nanRC96WJ) | [Thumpaverse](https://open.spotify.com/album/7ps0rVhNghO82IhDctJNCi) | 3:14 | 2026-07-29 |  |
 | [I'm Still Standing](https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 3:03 | 2022-05-06 |  |
 | [Leave Me Alone](https://open.spotify.com/track/0IJhEGdLKeJq40hy6OOMgD) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [New Invention](https://open.spotify.com/album/4gE7IRYnGotrPeyHNeP4CZ) | 3:35 | 2022-05-13 |  |
 | [LEMONS \(with Cavetown\)](https://open.spotify.com/track/7hRgBIc6DHSAup9lH11VNZ) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [LEMONS \(with Cavetown\)](https://open.spotify.com/album/1MT5z1J27ERqGpyErAVeMc) | 3:52 | 2022-09-18 |  |

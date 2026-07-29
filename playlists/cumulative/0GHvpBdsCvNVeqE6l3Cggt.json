@@ -1141,6 +1141,24 @@
     },
     {
       "album": {
+        "name": "Is there a chance of love in outer space? (live)",
+        "url": "https://open.spotify.com/album/3TREYrIvrCqg7vZkqYIZ3u"
+      },
+      "artists": [
+        {
+          "name": "Vitamin Dream",
+          "url": "https://open.spotify.com/artist/3miIpoYoSTSZK65dHLXRlE"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Is there a chance of love in outer space? - live",
+      "url": "https://open.spotify.com/track/0J4r8L8PIgBHPMFH2bKUKk"
+    },
+    {
+      "album": {
         "name": "Ad Astra",
         "url": "https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj"
       },

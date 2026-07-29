@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAADzWY0F4QhoalRI5tquhsNI",
+  "snapshot_id": "amafgAAAAADRVBPrx3zOha9SPLSTGImz",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 216266,
-      "name": "Bound",
-      "url": "https://open.spotify.com/track/7sySSvITN4b66p0fDZ53bh"
+      "duration_ms": 213986,
+      "name": "Keeper",
+      "url": "https://open.spotify.com/track/1CHVMZOzCUr7ytuyM3Mclb"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
         }
       ],
-      "duration_ms": 213986,
-      "name": "Keeper",
-      "url": "https://open.spotify.com/track/1CHVMZOzCUr7ytuyM3Mclb"
+      "duration_ms": 216266,
+      "name": "Bound",
+      "url": "https://open.spotify.com/track/7sySSvITN4b66p0fDZ53bh"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comfortably Numb",
-        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
-      },
-      "artists": [
-        {
-          "name": "Lonely The Brave",
-          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
-        }
-      ],
-      "duration_ms": 379103,
-      "name": "Comfortably Numb",
-      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Days EP",
         "url": "https://open.spotify.com/album/3YrL32bzITJ2R6LWqSFcjs"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 218533,
       "name": "Two Heads",
       "url": "https://open.spotify.com/track/2d3QPzIxf4TRyoXrsujY8S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comfortably Numb",
+        "url": "https://open.spotify.com/album/446Mbnz7IvnGi90uZdc5de"
+      },
+      "artists": [
+        {
+          "name": "Lonely The Brave",
+          "url": "https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId"
+        }
+      ],
+      "duration_ms": 379103,
+      "name": "Comfortably Numb",
+      "url": "https://open.spotify.com/track/6SVUDu857QbuF1O6qKjCqc"
     },
     {
       "added_at": null,

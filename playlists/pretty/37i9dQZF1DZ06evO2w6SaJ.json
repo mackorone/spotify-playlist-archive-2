@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7613,
+  "num_followers": 7616,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAABzG3myZOgTB/+FCOfHuZYz",
+  "snapshot_id": "amafgAAAAACM5hIQYJh5orwlNrt+aafe",
   "tracks": [
     {
       "added_at": null,
@@ -139,30 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starry Eyed Surprise",
-        "url": "https://open.spotify.com/album/6LGtuZFdd21xvIUHlsNPSl"
-      },
-      "artists": [
-        {
-          "name": "Paul Oakenfold",
-          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
-        },
-        {
-          "name": "Shifty Shellshock",
-          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
-        },
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 191039,
-      "name": "Starry Eyed Surprise",
-      "url": "https://open.spotify.com/track/77Fm9iQsEgoNmYnPOK8WMc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GlitchGang (Remix)",
         "url": "https://open.spotify.com/album/3jC4WP0yUxkvqAipg0l6Pb"
       },
@@ -187,6 +163,30 @@
       "duration_ms": 144818,
       "name": "GlitchGang (Remix)",
       "url": "https://open.spotify.com/track/1Oq1BuID6k7oySD33H48ax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starry Eyed Surprise",
+        "url": "https://open.spotify.com/album/6LGtuZFdd21xvIUHlsNPSl"
+      },
+      "artists": [
+        {
+          "name": "Paul Oakenfold",
+          "url": "https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq"
+        },
+        {
+          "name": "Shifty Shellshock",
+          "url": "https://open.spotify.com/artist/0uw3mzuWJ55YOdKZNi7YJO"
+        },
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 191039,
+      "name": "Starry Eyed Surprise",
+      "url": "https://open.spotify.com/track/77Fm9iQsEgoNmYnPOK8WMc"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Harvest",
-        "url": "https://open.spotify.com/album/3yPR90KJOLOvnWqoQHsmAH"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 211880,
-      "name": "Tattoo Dreams",
-      "url": "https://open.spotify.com/track/2TMiO4a3idv2vBOpIa7AQ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "darkhorse",
         "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 224760,
       "name": "Change",
       "url": "https://open.spotify.com/track/632Ph3SO4KPqoCFviG1sa6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Harvest",
+        "url": "https://open.spotify.com/album/3yPR90KJOLOvnWqoQHsmAH"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "Tattoo Dreams",
+      "url": "https://open.spotify.com/track/2TMiO4a3idv2vBOpIa7AQ3"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 181909,
+      "name": "Trigger Happy",
+      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/3Je2lBhHDy2fokqXDJjjyN"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 227794,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/7np2dkTK85z7i6GPjimhNO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 181909,
-      "name": "Trigger Happy",
-      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "darkhorse",
-        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "Candy Coated",
-      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Flirting With Disaster",
         "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 234022,
       "name": "99 Bottles",
       "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "darkhorse",
+        "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "Candy Coated",
+      "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
     },
     {
       "added_at": null,

@@ -595,6 +595,22 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
+        "name": "KINTSUGI (DELUXE)",
+        "url": "https://open.spotify.com/album/0R8zowO1xL1LgHcwiKgcoc"
+      },
+      "artists": [
+        {
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+        }
+      ],
+      "duration_ms": 166812,
+      "name": "No Princ\u00edpio",
+      "url": "https://open.spotify.com/track/0aFNhLg6YmxGuuyAi7BVgp"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
         "name": "NAVES IMPERIAIS",
         "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 314137,
       "name": "NAVES IMPERIAIS",
       "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
-        "name": "KINTSUGI (DELUXE)",
-        "url": "https://open.spotify.com/album/0R8zowO1xL1LgHcwiKgcoc"
-      },
-      "artists": [
-        {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
-        }
-      ],
-      "duration_ms": 166812,
-      "name": "No Princ\u00edpio",
-      "url": "https://open.spotify.com/track/0aFNhLg6YmxGuuyAi7BVgp"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Grito de Katsbarnea",
         "url": "https://open.spotify.com/album/3Yo7DTjcdfAx2c2L3tsGbK"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 208695,
       "name": "Grito de Katsbarnea",
       "url": "https://open.spotify.com/track/0CUFvYXqHH1kdrrmxf6JeR"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Autor da Vida",
-        "url": "https://open.spotify.com/album/3r90gAJbiSrxVhBS1UVVcn"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Autor da Vida",
-      "url": "https://open.spotify.com/track/6KowLLbNDFuXBPgQCLrJ72"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "O Meu Lugar",
         "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 245912,
       "name": "O Meu Lugar",
       "url": "https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Autor da Vida",
+        "url": "https://open.spotify.com/album/3r90gAJbiSrxVhBS1UVVcn"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Autor da Vida",
+      "url": "https://open.spotify.com/track/6KowLLbNDFuXBPgQCLrJ72"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "Boom!",
-        "url": "https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC"
-      },
-      "artists": [
-        {
-          "name": "Lenha Music",
-          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
-        }
-      ],
-      "duration_ms": 182976,
-      "name": "Boom!",
-      "url": "https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Sou Teu",
         "url": "https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 350664,
       "name": "Sou Teu",
       "url": "https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "Boom!",
+        "url": "https://open.spotify.com/album/7xho4sAoA3YS6DJxZpL7lC"
+      },
+      "artists": [
+        {
+          "name": "Lenha Music",
+          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
+        }
+      ],
+      "duration_ms": 182976,
+      "name": "Boom!",
+      "url": "https://open.spotify.com/track/3kTzGASJtWjghgB6CmMJDl"
     },
     {
       "added_at": "2026-04-24 19:01:02",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-04-24 19:01:02",
       "album": {
-        "name": "S\u00f3 na Sua Gra\u00e7a",
-        "url": "https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0"
-      },
-      "artists": [
-        {
-          "name": "Lenha Music",
-          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
-        }
-      ],
-      "duration_ms": 258282,
-      "name": "S\u00f3 na Sua Gra\u00e7a",
-      "url": "https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod"
-    },
-    {
-      "added_at": "2026-04-24 19:01:02",
-      "album": {
         "name": "Minha Esperan\u00e7a",
         "url": "https://open.spotify.com/album/0VGHwJPGZYKmlB6noaeDoq"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 321696,
       "name": "Minha Esperan\u00e7a",
       "url": "https://open.spotify.com/track/0302SCCtovTOMWh2R56ICI"
+    },
+    {
+      "added_at": "2026-04-24 19:01:02",
+      "album": {
+        "name": "S\u00f3 na Sua Gra\u00e7a",
+        "url": "https://open.spotify.com/album/6LqOhXmRoUhw7qRKHyYsN0"
+      },
+      "artists": [
+        {
+          "name": "Lenha Music",
+          "url": "https://open.spotify.com/artist/2xxdCRAjSrO9HF3lziz4hO"
+        }
+      ],
+      "duration_ms": 258282,
+      "name": "S\u00f3 na Sua Gra\u00e7a",
+      "url": "https://open.spotify.com/track/6EzTkC9KcqpK8nKVJxQrod"
     },
     {
       "added_at": "2026-04-24 19:01:02",

@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 9233,
+  "num_followers": 9234,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amVOAAAAAACrpUIfTGujatd0hJz2m89j",
+  "snapshot_id": "amafgAAAAAC5LmCDFc1ixfEuOhZkVEKD",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blockbuster",
         "url": "https://open.spotify.com/album/0t2VEsrGPdJxAzPU4A6dB2"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 189310,
       "name": "Quiero Quedarme para Siempre",
       "url": "https://open.spotify.com/track/2XEDYl5q9pfbNBxkI0p85L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": null,
@@ -99,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 195720,
-      "name": "Extra\u00f1os de Nuevo",
-      "url": "https://open.spotify.com/track/1HJ0lo09YjPsvlCLBiCmtF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intenciones",
         "url": "https://open.spotify.com/album/6UInVEPu90rc9kk8ijJux3"
       },
@@ -135,8 +119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Acaba Aqu\u00ed",
-        "url": "https://open.spotify.com/album/5ehg9gtQkJ7c2XWbbLbADj"
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
       "artists": [
         {
@@ -144,9 +128,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 198987,
-      "name": "No Acaba Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7flYEgZTehOZSxqW10Cq0K"
+      "duration_ms": 195720,
+      "name": "Extra\u00f1os de Nuevo",
+      "url": "https://open.spotify.com/track/1HJ0lo09YjPsvlCLBiCmtF"
     },
     {
       "added_at": null,
@@ -171,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+        "name": "No Acaba Aqu\u00ed",
+        "url": "https://open.spotify.com/album/5ehg9gtQkJ7c2XWbbLbADj"
       },
       "artists": [
         {
@@ -180,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 143173,
-      "name": "Si T\u00fa Quisieras",
-      "url": "https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ"
+      "duration_ms": 198987,
+      "name": "No Acaba Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7flYEgZTehOZSxqW10Cq0K"
     },
     {
       "added_at": null,
@@ -203,6 +187,22 @@
       "duration_ms": 182481,
       "name": "for good (with RENEE)",
       "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 143173,
+      "name": "Si T\u00fa Quisieras",
+      "url": "https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "El Disfraz",
-      "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Quiero Estar",
         "url": "https://open.spotify.com/album/6w0nW1QepJjE6wlDD3FQFd"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 187786,
       "name": "Sin Plan B",
       "url": "https://open.spotify.com/track/6wEzspgToSQT9zBzDWIThd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152560,
-      "name": "Dame Chance (Rayuela)",
-      "url": "https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rakata",
         "url": "https://open.spotify.com/album/3NU2lWZGlLBk3ojxy0yE2E"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 182384,
       "name": "Rakata",
       "url": "https://open.spotify.com/track/14JaytPzvtwvCxCpsEVyYE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152560,
+      "name": "Dame Chance (Rayuela)",
+      "url": "https://open.spotify.com/track/4cTZXPvu2LB6yev8imUWsU"
     },
     {
       "added_at": null,
@@ -387,6 +387,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sigo Buscando",
+        "url": "https://open.spotify.com/album/4KMZmsGlXKUTfd1Uf1CMvP"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 143996,
+      "name": "Sigo Buscando",
+      "url": "https://open.spotify.com/track/0fbj2shzxswLJ4hPnpxoFy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -415,26 +435,6 @@
       "duration_ms": 180720,
       "name": "Ojal\u00e1 Te Vaya Mal",
       "url": "https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sigo Buscando",
-        "url": "https://open.spotify.com/album/4KMZmsGlXKUTfd1Uf1CMvP"
-      },
-      "artists": [
-        {
-          "name": "The Mills",
-          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 143996,
-      "name": "Sigo Buscando",
-      "url": "https://open.spotify.com/track/0fbj2shzxswLJ4hPnpxoFy"
     },
     {
       "added_at": null,

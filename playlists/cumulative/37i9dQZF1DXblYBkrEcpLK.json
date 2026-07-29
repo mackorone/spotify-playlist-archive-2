@@ -3942,7 +3942,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 153230,
       "name": "Kawaii Kaiwai",
       "url": "https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl"
@@ -7123,6 +7123,24 @@
     },
     {
       "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/68NWLfkwoqHl2uDnFlr5mm"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222893,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/5bfc8VisE4j5SDmNiK27m8"
+    },
+    {
+      "album": {
         "name": "STONE OCEAN",
         "url": "https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x"
       },
@@ -10162,7 +10180,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 242495,
       "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
       "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
@@ -12884,6 +12902,24 @@
       "duration_ms": 247506,
       "name": "\u4eba\u829d\u5c45",
       "url": "https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP"
+    },
+    {
+      "album": {
+        "name": "\u68ee\u5c71\u826f\u5b50\u3000THE BEST",
+        "url": "https://open.spotify.com/album/0Q3luKdx5wNNb1deCnoWft"
+      },
+      "artists": [
+        {
+          "name": "Ryoko Moriyama",
+          "url": "https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141813,
+      "name": "\u4eca\u65e5\u306e\u65e5\u306f\u3055\u3088\u3046\u306a\u3089",
+      "url": "https://open.spotify.com/track/3IWNiORy6MsChBDce2Fhjn"
     },
     {
       "album": {

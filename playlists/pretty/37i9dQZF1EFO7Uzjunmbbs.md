@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,090 likes - 218 songs - 12 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,091 likes - 218 songs - 12 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 95 | [Our Love Glows \(feat\. Lady Antebellum\)](https://open.spotify.com/track/3QUtbFgjjnAHTtLup31xVa) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Neon Future III](https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV) | 2:53 |
 | 96 | [Country In Me](https://open.spotify.com/track/6lQ8oqbyVAp8nNPQAKELFq) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Getting Good](https://open.spotify.com/album/4dKNidNDeT9LaPwjzrKv6c) | 3:20 |
 | 97 | [Fine](https://open.spotify.com/track/7hIrgsg6Krb5dbNMFyXuPO) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Fine](https://open.spotify.com/album/3UxX8rPUgVZA2auFNFH9QB) | 3:25 |
-| 98 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 |
-| 99 | [Stronger Than We Think \- Bryan Todd Remix](https://open.spotify.com/track/1DjwMsNXUCrcSYlqsaCo6r) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Bryan Todd](https://open.spotify.com/artist/7yJeHSz1S2NKnNwONqETZ5) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:52 |
+| 98 | [Stronger Than We Think \- Bryan Todd Remix](https://open.spotify.com/track/1DjwMsNXUCrcSYlqsaCo6r) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Bryan Todd](https://open.spotify.com/artist/7yJeHSz1S2NKnNwONqETZ5) | [Rise](https://open.spotify.com/album/1qCUfjDUf4kJUl4nJv6bVz) | 3:52 |
+| 99 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 |
 | 100 | [You See Me](https://open.spotify.com/track/7vcW06rPkpF7RRFP40XQrz) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 3:16 |
 | 101 | [Temporary Feeling](https://open.spotify.com/track/4G6EM7lW6jCUb0p7ZmcBxa) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Hannah Ellis](https://open.spotify.com/album/7lVEZS5JAm6gmm5Vo0KwQF) | 2:59 |
 | 102 | [Outlaw Love](https://open.spotify.com/track/0WdDt6MDfrsp7kVXhyKKhv) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Outlaw Love](https://open.spotify.com/album/4NWSNWO1EfJvB8Af7Gb0nu) | 2:55 |
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 217 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 218 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcYAfgAAAABNrizo3FpI+MfiaGQj/fHf`
+Snapshot ID: `AcYGHgAAAAD6PfcPvxUkjYW0xbuONq3f`

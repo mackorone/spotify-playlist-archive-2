@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 
 > Dans pisti hazır! Mix yalnızca Premium'da\. Kapak: Mahmut Orhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,642 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,634 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 | 26 | [Ay Ay Ay](https://open.spotify.com/track/4RcB7AthmJA3kQbCBEcdBS) | [Ben Hims](https://open.spotify.com/artist/2xChRGmRz7vH7Z0x7GLAZ6), [Merve Ekinci](https://open.spotify.com/artist/75W38iHuJolKCZDgl2vh20), [Baris Turna](https://open.spotify.com/artist/4lsdKwzGkJkmC7b68Myb6Q) | [Ay Ay Ay](https://open.spotify.com/album/0NdY2CFq3wr7lXPCCqHOW1) | 3:36 |
 | 27 | [Waves of Luv](https://open.spotify.com/track/4kmxETbclaI5PF9uqKKM8q) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4) | [Waves of Luv](https://open.spotify.com/album/58QnUMgXPJy7Dm1pXSardY) | 2:33 |
 | 28 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 |
-| 29 | [BURN WITH YOU \- Kijo Remix](https://open.spotify.com/track/3W8mAmdDUA9jHe3RxXxiol) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Kijo](https://open.spotify.com/artist/1B7a9juKKXTXhW0hcKQTL8) | [BURN WITH YOU \(Kijo Remix\)](https://open.spotify.com/album/2EXSnmMnnLAijMpANh3mjx) | 3:13 |
+| 29 | [BURN WITH YOU \- Kijo Remix](https://open.spotify.com/track/3W8mAmdDUA9jHe3RxXxiol) | [SELIN ](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Kijo](https://open.spotify.com/artist/1B7a9juKKXTXhW0hcKQTL8) | [BURN WITH YOU \(Kijo Remix\)](https://open.spotify.com/album/2EXSnmMnnLAijMpANh3mjx) | 3:13 |
 | 30 | [HOT](https://open.spotify.com/track/19QgxKIlEB5J8z5tVWcBHs) | [Barlas & Mert](https://open.spotify.com/artist/7EUoayuA45Swh5j4TYxrYd) | [HOT](https://open.spotify.com/album/2DllYAD5p9tGiAfxQmMAFw) | 2:23 |
 | 31 | [All Around](https://open.spotify.com/track/5vEEoMR7JHosdUPcfR50tU) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Offcuts](https://open.spotify.com/album/4bFMPj86EIvOKaWeL1jRjO) | 3:37 |
 | 32 | [Ay Que Me Quema](https://open.spotify.com/track/0RWnpQ7jCb4BtvBI6N13by) | [Ben Hims](https://open.spotify.com/artist/2xChRGmRz7vH7Z0x7GLAZ6), [Merve Ekinci](https://open.spotify.com/artist/75W38iHuJolKCZDgl2vh20), [Baris Turna](https://open.spotify.com/artist/4lsdKwzGkJkmC7b68Myb6Q) | [Ay Que Me Quema](https://open.spotify.com/album/42aKghPwfuK8zTOLsoZVGd) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 | 49 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 |
 | 50 | [Bubblegum Moonlight](https://open.spotify.com/track/6xP0ntDwDUHZPtdrKJfBDx) | [Cagan Tunali](https://open.spotify.com/artist/4J4jrBN4VwLUYCrZ0I0L69) | [Bubblegum Moonlight](https://open.spotify.com/album/4AkOPYDLYRHcPj9nkxwUe5) | 4:08 |
 
-Snapshot ID: `AAAAAK/UBlD0INofnQrfXf9i19JF4K4M`
+Snapshot ID: `AAAAAFL1CrEQZWYeC9OY2hyxyXsOGXXl`

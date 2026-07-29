@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vishwanath & Sons
 
-2,543 songs - 6 day 8 hr 55 min
+2,544 songs - 6 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Akkaru Bakkaru](https://open.spotify.com/track/35Tgp1XxssFa9evVdWpbzC) | [Gold Devaraj](https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Miss You](https://open.spotify.com/album/4wMNVt7LrNgixdogpG2BkF) | 3:48 | 2024-12-11 | 2024-12-28 |
 | [Akkaru Bakkaru \(From "Miss You"\)](https://open.spotify.com/track/5EyAoWj09OtA84ldNu9zCS) | [Gold Devaraj](https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Akkaru Bakkaru \(From "Miss You"\)](https://open.spotify.com/album/2Apvfd4gOevWJmDgXWf6LB) | 3:48 | 2024-11-26 | 2024-12-12 |
 | [Akkrinai Naan \- From "Captain"](https://open.spotify.com/track/7CRrENz4lVWe1kFYxn1WgQ) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Joewin Shamalina](https://open.spotify.com/artist/4YpclnrUJpslzlowW26LOn) | [Akkrinai Naan \(From "Captain"\)](https://open.spotify.com/album/51HbJ9d3dsBatTaYKEsLzR) | 3:51 | 2022-08-27 | 2022-09-23 |
+| [Alaakaa Loova \(From "OM Chapter 1: Udhiram \- The Blood Wood"\) \[Tamil\]](https://open.spotify.com/track/0JiGoqPHbvK65rBHadXYoB) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Alaakaa Loova \(From "OM Chapter 1: Udhiram \- The Blood Wood"\) \[Tamil\]](https://open.spotify.com/album/1QxshnBv2N7xiC2OmGpldW) | 3:30 | 2026-07-28 |  |
 | [Alaikadal](https://open.spotify.com/track/7kcMEKsmqgfq68gSQk6F9c) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Antara Nandy](https://open.spotify.com/artist/5t0Sf8M5KByD2fIBiVKavT) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 5:14 | 2022-09-13 | 2022-10-17 |
 | [Alapuzha Sandhayila](https://open.spotify.com/track/3YXUfn4kljfJ41eKvhQmg1) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Ken Karunaas](https://open.spotify.com/artist/6f9pTlTRRreLGq9gIonZOA), [Karunaas](https://open.spotify.com/artist/4mwV1WYAU6qaAyQ1plR9ro), [Grace Karunaas](https://open.spotify.com/artist/2zEQ0pc1VWUHsXv5gXXBHO) | [Youth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6F3YA8G80h2ibHt6SMIcRx) | 2:02 | 2026-03-26 | 2026-06-25 |
 | [Alayaaga Vanthaai Neeye \(From "BEHINDD"\) \(Tamil\)](https://open.spotify.com/track/4LE4BUcrDqfSStt2oJisqb) | [Arif Ansar](https://open.spotify.com/artist/3nkD8hzJSx5c4sfx2Pg309), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1) | [Alayaaga Vanthaai Neeye \(From "BEHINDD"\) \(Tamil\)](https://open.spotify.com/album/5p7WZrGX2fMayZKQjc19Vk) | 3:30 | 2024-05-03 | 2024-08-04 |

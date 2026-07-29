@@ -1,6 +1,6 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49",
-  "num_followers": 125419,
+  "num_followers": 125427,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
-        "url": "https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw"
-      },
-      "artists": [
-        {
-          "name": "NuNew",
-          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
-        }
-      ],
-      "duration_ms": 195500,
-      "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
-      "url": "https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e22\u0e34\u0e19\u0e14\u0e35 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23\u0e21\u0e32\u0e15\u0e32\u0e25\u0e14\u0e32 \u0e0a\u0e48\u0e2d\u0e07 3)",
         "url": "https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK"
       },
@@ -431,18 +415,34 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
-        "url": "https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv"
+        "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
+        "url": "https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw"
       },
       "artists": [
         {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          "name": "NuNew",
+          "url": "https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5"
         }
       ],
-      "duration_ms": 281933,
-      "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
-      "url": "https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO"
+      "duration_ms": 195500,
+      "name": "\u0e24\u0e14\u0e39\u0e02\u0e2d\u0e07\u0e40\u0e18\u0e2d (Your Season)",
+      "url": "https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
+        "url": "https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm"
+      },
+      "artists": [
+        {
+          "name": "PURPEECH",
+          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+        }
+      ],
+      "duration_ms": 259721,
+      "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
+      "url": "https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -463,18 +463,18 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
-        "url": "https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm"
+        "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
+        "url": "https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv"
       },
       "artists": [
         {
-          "name": "PURPEECH",
-          "url": "https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu"
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
         }
       ],
-      "duration_ms": 259721,
-      "name": "\u0e23\u0e31\u0e01\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e44\u0e21\u0e48\u0e44\u0e01\u0e25",
-      "url": "https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU"
+      "duration_ms": 281933,
+      "name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e40\u0e18\u0e2d (Dopamine)",
+      "url": "https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
-        "url": "https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x"
-      },
-      "artists": [
-        {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
-        }
-      ],
-      "duration_ms": 247398,
-      "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
-      "url": "https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e15\u0e31\u0e49\u0e07\u0e41\u0e15\u0e48\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e09\u0e31\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e2a\u0e38\u0e02 (This Time)",
         "url": "https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 238000,
       "name": "\u0e40\u0e2b\u0e15\u0e38\u0e1c\u0e25\u0e02\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e21\u0e35\u0e0a\u0e35\u0e27\u0e34\u0e15\u0e2d\u0e22\u0e39\u0e48 \u0e04\u0e37\u0e2d\u0e01\u0e32\u0e23\u0e44\u0e14\u0e49\u0e1e\u0e1a\u0e01\u0e31\u0e1a\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
+        "url": "https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x"
+      },
+      "artists": [
+        {
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+        }
+      ],
+      "duration_ms": 247398,
+      "name": "\u0e42\u0e15\u0e4a\u0e30\u0e23\u0e34\u0e21",
+      "url": "https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 (Too Cute)",
-        "url": "https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o"
-      },
-      "artists": [
-        {
-          "name": "PiXXiE",
-          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 - Too Cute",
-      "url": "https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
         "url": "https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 289777,
       "name": "\u0e1a\u0e32\u0e19\u0e1b\u0e25\u0e32\u0e22 (best wishes)",
       "url": "https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 (Too Cute)",
+        "url": "https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "\u0e40\u0e01\u0e34\u0e19\u0e15\u0e49\u0e32\u0e19 - Too Cute",
+      "url": "https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "YOU YOU YOU - Single",
-        "url": "https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx"
-      },
-      "artists": [
-        {
-          "name": "Earth Patravee",
-          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
-        },
-        {
-          "name": "Ammy The Bottom Blues",
-          "url": "https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "YOU YOU YOU",
-      "url": "https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
         "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 194842,
       "name": "1001 (You're Lovely)",
       "url": "https://open.spotify.com/track/4X6pR4sgSGXG1lSX7nxWEM"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "YOU YOU YOU - Single",
+        "url": "https://open.spotify.com/album/3iz6z2BBom6ssqUtHYj1Bx"
+      },
+      "artists": [
+        {
+          "name": "Earth Patravee",
+          "url": "https://open.spotify.com/artist/5reN867iZWqzoNE7p78ShV"
+        },
+        {
+          "name": "Ammy The Bottom Blues",
+          "url": "https://open.spotify.com/artist/4mNN31oshOzZr3yx4aXI3n"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "YOU YOU YOU",
+      "url": "https://open.spotify.com/track/2rse2ZT8eV8MT3nuglWeEb"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
-        "url": "https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl"
-      },
-      "artists": [
-        {
-          "name": "Whal & Dolph",
-          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
-        }
-      ],
-      "duration_ms": 229250,
-      "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
-      "url": "https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love - Single",
         "url": "https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 215238,
       "name": "\u0e23\u0e31\u0e01\u0e41\u0e17\u0e49 - True Love (\u0e40\u0e1e\u0e25\u0e07\u0e08\u0e32\u0e01\u0e25\u0e30\u0e04\u0e23 \u0e04\u0e38\u0e13\u0e0a\u0e32\u0e22)",
       "url": "https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
+        "url": "https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl"
+      },
+      "artists": [
+        {
+          "name": "Whal & Dolph",
+          "url": "https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh"
+        }
+      ],
+      "duration_ms": 229250,
+      "name": "\u0e43\u0e08\u0e40\u0e14\u0e35\u0e22\u0e27",
+      "url": "https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "Best of MR.TEAM",
-        "url": "https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl"
-      },
-      "artists": [
-        {
-          "name": "Mr.Team",
-          "url": "https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH"
-        }
-      ],
-      "duration_ms": 243946,
-      "name": "\u0e04\u0e19\u0e43\u0e19\u0e1d\u0e31\u0e19 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e1d\u0e31\u0e19\u0e40\u0e1f\u0e37\u0e48\u0e2d\u0e07)",
-      "url": "https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "Melbourne",
         "url": "https://open.spotify.com/album/24u4TYFCGbRZA6t19j4B8w"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 182125,
       "name": "Melbourne",
       "url": "https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "Best of MR.TEAM",
+        "url": "https://open.spotify.com/album/2fCIKdtXMGGbDzZXerpLXl"
+      },
+      "artists": [
+        {
+          "name": "Mr.Team",
+          "url": "https://open.spotify.com/artist/3idQlYHIpkPc7NjGqeCerH"
+        }
+      ],
+      "duration_ms": 243946,
+      "name": "\u0e04\u0e19\u0e43\u0e19\u0e1d\u0e31\u0e19 (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e25\u0e30\u0e04\u0e23 \u0e1d\u0e31\u0e19\u0e40\u0e1f\u0e37\u0e48\u0e2d\u0e07)",
+      "url": "https://open.spotify.com/track/5wAiiV03L8YP5HnH0ePMON"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1615,22 +1615,18 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a",
-        "url": "https://open.spotify.com/album/4LzRiXhlrvnKR2WcRoeBlJ"
+        "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e01\u0e33\u0e25\u0e31\u0e07\u0e01\u0e48\u0e2d\u0e15\u0e31\u0e27",
+        "url": "https://open.spotify.com/album/3ID6amkiCsnNwYEEvZg5DD"
       },
       "artists": [
         {
-          "name": "Zom Marie",
-          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
-        },
-        {
-          "name": "Oat Pramote",
-          "url": "https://open.spotify.com/artist/6IjkVLH49YhlZiz4TOHJZv"
+          "name": "NONT TANONT",
+          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
         }
       ],
-      "duration_ms": 197338,
-      "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a (feat. \u0e42\u0e2d\u0e4a\u0e15 \u0e1b\u0e23\u0e32\u0e42\u0e21\u0e17\u0e22\u0e4c)",
-      "url": "https://open.spotify.com/track/48hZrIt6isIvgbWfvvGgjI"
+      "duration_ms": 321699,
+      "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e01\u0e33\u0e25\u0e31\u0e07\u0e01\u0e48\u0e2d\u0e15\u0e31\u0e27",
+      "url": "https://open.spotify.com/track/4EgdU9qfAfHC8ZsGd7dnac"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1651,18 +1647,22 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e01\u0e33\u0e25\u0e31\u0e07\u0e01\u0e48\u0e2d\u0e15\u0e31\u0e27",
-        "url": "https://open.spotify.com/album/3ID6amkiCsnNwYEEvZg5DD"
+        "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a",
+        "url": "https://open.spotify.com/album/4LzRiXhlrvnKR2WcRoeBlJ"
       },
       "artists": [
         {
-          "name": "NONT TANONT",
-          "url": "https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz"
+          "name": "Zom Marie",
+          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
+        },
+        {
+          "name": "Oat Pramote",
+          "url": "https://open.spotify.com/artist/6IjkVLH49YhlZiz4TOHJZv"
         }
       ],
-      "duration_ms": 321699,
-      "name": "\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01\u0e01\u0e33\u0e25\u0e31\u0e07\u0e01\u0e48\u0e2d\u0e15\u0e31\u0e27",
-      "url": "https://open.spotify.com/track/4EgdU9qfAfHC8ZsGd7dnac"
+      "duration_ms": 197338,
+      "name": "\u0e42\u0e25\u0e01\u0e2d\u0e35\u0e01\u0e43\u0e1a (feat. \u0e42\u0e2d\u0e4a\u0e15 \u0e1b\u0e23\u0e32\u0e42\u0e21\u0e17\u0e22\u0e4c)",
+      "url": "https://open.spotify.com/track/48hZrIt6isIvgbWfvvGgjI"
     },
     {
       "added_at": "2026-04-29 14:03:34",

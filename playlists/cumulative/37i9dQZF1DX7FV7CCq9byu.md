@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,865 songs - 3 day 23 hr 25 min
+1,866 songs - 3 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1590,6 +1590,7 @@
 | [Talk talk featuring troye sivan](https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Talk talk featuring troye sivan](https://open.spotify.com/album/4hSYRtDjN1XbTqBKTw33sj) | 2:53 | 2024-09-13 | 2024-10-25 |
 | [Talk To Me](https://open.spotify.com/track/6rY4CO2ko4iWpSIm93fWJv) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Sexistential / Talk To Me](https://open.spotify.com/album/5aBcnDmgAwjKxJRnEG6gvk) | 3:19 | 2026-01-12 | 2026-03-13 |
 | [Talk to Me \(feat\. Tyla, Nile Rodgers\)](https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [FUNNY little FEARS \(DREAMS\)](https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5) | 3:13 | 2025-09-11 | 2025-11-21 |
+| [Talk To Me, Zara](https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Talk To Me, Zara](https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM) | 3:13 | 2026-07-28 |  |
 | [Tappar det](https://open.spotify.com/track/5ArAFFE3QQ1LzYi1o3sEGT) | [Arwin](https://open.spotify.com/artist/5g1qrgALYhfRMMUGPNGc9Q) | [Tappar det](https://open.spotify.com/album/3IOVBn9cNPMXmdXUaB1N4C) | 2:35 | 2025-07-03 | 2025-08-15 |
 | [Tappare](https://open.spotify.com/track/5o4a0CKkF1OFEslxSMdbIx) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Tappare](https://open.spotify.com/album/5m4FhBErSse9X046Dh2EaC) | 2:53 | 2025-03-06 | 2025-04-18 |
 | [Tar mig alltid upp](https://open.spotify.com/track/0wDWPM5nK9CSqEKXwMQTWy) | [Näääk](https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Tar mig alltid upp](https://open.spotify.com/album/6YYDsbyNPB8G1HbnsOrKpg) | 2:24 | 2025-11-06 | 2026-01-30 |
