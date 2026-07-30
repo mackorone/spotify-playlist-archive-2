@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-3,021 songs - 6 day 13 hr 5 min
+3,022 songs - 6 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Actually Romantic](https://open.spotify.com/track/2x3mwb96B6TquRqMtbxUE1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 2:43 | 2025-10-04 | 2025-10-19 |
 | [Actually Romantic](https://open.spotify.com/track/6ZSxG2QvGmwXbTfn7iDq7a) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl \(Track by Track Version\)](https://open.spotify.com/album/4tFsJC9jQ0Qjj7HSExhAdm) | 2:43 | 2025-10-08 | 2025-10-12 |
 | [Adrenalina](https://open.spotify.com/track/5sckZhskSmeF8TFJ05oSCB) | [Senhit](https://open.spotify.com/artist/0kgOnYSaZeTf3ZnErgwkGT), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Adrenalina](https://open.spotify.com/album/7aEMUNrcbMQtaVsBvJUGlO) | 2:59 | 2021-05-25 | 2021-05-26 |
-| [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2025-12-31 |  |
+| [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2025-12-31 | 2026-07-30 |
 | [Ahumma](https://open.spotify.com/track/3FekVM62XSKijk621AAaP3) | [C\-Joe](https://open.spotify.com/artist/2relalSIlRWsTuc6YMXG7l) | [Ahumma](https://open.spotify.com/album/14NOxOFVGIJaZWXBS5zpTe) | 2:56 | 2024-02-12 | 2024-03-12 |
 | [Aiko](https://open.spotify.com/track/3jEU1V6aIJR8cQWiKT8BNT) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Aiko](https://open.spotify.com/album/4HXJUqCo77UmYUR4USxu3F) | 2:26 | 2024-08-31 | 2024-11-30 |
 | [Ain't Today](https://open.spotify.com/track/6jUSZ7pXIrPXAUusFXA5Iy) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Ain't Today](https://open.spotify.com/album/6GexyDP7V43ceAa1PqKTEq) | 2:40 | 2026-02-14 | 2026-04-08 |
@@ -543,6 +543,7 @@
 | [Dancing On A Sunny Day](https://open.spotify.com/track/3UF6EXPvr6pxN8NW1zt6LV) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/132gMGh5RhiR5XC0jkc4nD) | 2:56 | 2022-06-18 | 2022-06-22 |
 | [Dancing On A Sunny Day](https://open.spotify.com/track/4QNxalh2dYirUjd7yGPlfu) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dancing On A Sunny Day](https://open.spotify.com/album/2o9Whn3LIpFQeD1f3vNZJJ) | 2:56 | 2022-06-11 | 2022-06-16 |
 | [Dancing On My Own](https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y) | 4:45 | 2022-01-01 | 2026-01-03 |
+| [Dancing on My Own](https://open.spotify.com/track/2UT3iEU7uQAXNUxCKfiZAj) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk, Pt.1](https://open.spotify.com/album/0uQvFZsNoC7MZpcZZLtlYs) | 4:48 | 2026-07-29 |  |
 | [Dancing Queen](https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Arrival](https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9) | 3:50 | 2021-09-05 | 2026-01-03 |
 | [Dandi dansa](https://open.spotify.com/track/41iZhFesLQ6JLjyPxI4LLL) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Dandi dansa](https://open.spotify.com/album/4b4LGue9EPEclYIXoLdC8m) | 2:59 | 2021-03-27\* | 2021-04-17 |
 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 | 2023-09-23 | 2024-04-21 |
@@ -1828,7 +1829,7 @@
 | [Move \(Ensam\) \- Spotify Singles](https://open.spotify.com/track/0uxMjXTK2DrJjAPGTJyiwh) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Move \(Ensam\) \- Spotify Singles](https://open.spotify.com/album/6xPqs77IVNVKLw0t62ktAp) | 2:27 | 2024-01-20 | 2024-02-06 |
 | [Moving Like That](https://open.spotify.com/track/780E9OsxVwOjhwxCxTurU3) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Moving Like That](https://open.spotify.com/album/32FC7UO1DuuzlTgkoLP7VJ) | 2:49 | 2022-02-07 | 2022-03-16 |
 | [MOËT](https://open.spotify.com/track/3Ij7FMVf5IzNoPcmyC4sFc) | [G3B](https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4), [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [MOËT](https://open.spotify.com/album/7lzqZ0rZOn7wNjY08T6RMo) | 2:19 | 2026-04-11 | 2026-04-23 |
-| [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2026-01-01 |  |
+| [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2026-01-01 | 2026-07-30 |
 | [Mr\. Crowley](https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:02 | 2025-07-24 | 2025-07-26 |
 | [Mr\. Know It All](https://open.spotify.com/track/0GuyH5MDxEx54wg1Rhe5on) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/2WFulOVpYFDYBQ4GtoClfz) | 3:18 | 2026-04-17 | 2026-04-19 |
 | [Mr\. Know It All](https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Mr\. Know It All](https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1) | 3:18 | 2026-04-11 | 2026-04-27 |
@@ -2859,7 +2860,7 @@
 | [Vvvalsta](https://open.spotify.com/track/2muh7P8rylTiI0IJIn2d3z) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Vvvalsta](https://open.spotify.com/album/5dLKndnZiYa2YzHKcIoLpH) | 2:37 | 2021-07-28 | 2022-01-08 |
 | [Väck mig när det är över](https://open.spotify.com/track/5AYhM2SSr2fVC7Yh8qt8By) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Jag önskar jag brydde mig mer](https://open.spotify.com/album/5TPuPsRCf4FN29mAYqTToD) | 3:29 | 2024-05-11 | 2024-05-13 |
 | [Välkommen hem](https://open.spotify.com/track/4WfSDuJ4MrpdSSCEOanwzD) | [E.M.D.](https://open.spotify.com/artist/76Dn4GvguIMU4Gbcx155dg) | [Välkommen hem](https://open.spotify.com/album/6AKGh8BsUAvUZmelHIxSGe) | 3:28 | 2021-11-28 | 2025-12-29 |
-| [Välkommen in](https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:32 | 2022-03-21 | 2026-07-29 |
+| [Välkommen in](https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Satan i gatan \(Bonus Version\)](https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH) | 3:32 | 2022-03-21 |  |
 | [Välkommen ner](https://open.spotify.com/track/29YN98sTVSpfYMpPzFXaGU) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Välkommen ner](https://open.spotify.com/album/2g6uhhynepaJyUn5eFR4qN) | 2:38 | 2024-04-11 | 2025-01-28 |
 | [VÄLKOMMEN TILL SÖDRA](https://open.spotify.com/track/4ygFhEjbNInflnSHfCOOxE) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [VÄLKOMMEN TILL SÖDRA](https://open.spotify.com/album/6Ov9IoG4DndKVgilC20UY3) | 3:05 | 2023-01-10 | 2023-01-12 |
 | [Välkommen Åter](https://open.spotify.com/track/4q2nejfnJpmHqr2GAi09ph) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq), [Junie](https://open.spotify.com/artist/3Jy86CVPHDVN858HitaK1N) | [Välkommen Åter](https://open.spotify.com/album/38ApGKtXK58w6N7DRfJ1kX) | 2:55 | 2022-05-25 | 2022-09-28 |

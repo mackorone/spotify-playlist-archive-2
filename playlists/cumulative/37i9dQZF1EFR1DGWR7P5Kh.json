@@ -755,6 +755,24 @@
     },
     {
       "album": {
+        "name": "BERNARR.",
+        "url": "https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189625,
+      "name": "RIVER",
+      "url": "https://open.spotify.com/track/1hnRkRdtKrlslR707GAUQR"
+    },
+    {
+      "album": {
         "name": "This Kind of Ocean",
         "url": "https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18"
       },

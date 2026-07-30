@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 754 likes - 39 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 754 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 35 | [Black Jesus \(feat\. Symba, Kaydence, Deion Gill & WorldWide Fresh\)](https://open.spotify.com/track/2wZCIjijiD4WsFg79RtKXV) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2), [Deion Gill](https://open.spotify.com/artist/0Lf5rJG1V3FTMTRPwDyXCG), [WorldWide Fresh](https://open.spotify.com/artist/40kAWYgoxqesnb9Tg2ciPd) | [Godfather of Harlem: Season 3 \(Original Series Soundtrack\)](https://open.spotify.com/album/5iViiTpRnW92VTxZqIdn61) | 4:35 |
 | 36 | [One Time](https://open.spotify.com/track/4izDzEzyImtM7pnatHpj03) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [With Opened Eyes](https://open.spotify.com/album/5ECjc1swRz9eytd7z1TKkW) | 4:22 |
 | 37 | [Never Give Up On Me](https://open.spotify.com/track/0t3q49mmUsXV1s7k29Pls0) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Gratitude](https://open.spotify.com/album/3Sq6H7MlYzeXe9bIV4KPgF) | 3:17 |
-| 38 | [She Roam](https://open.spotify.com/track/0B0D7eu4ofuVlD8Jt0f8Up) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [This Kind of Ocean](https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18) | 3:32 |
-| 39 | [Uh Oh \(Bonus Studio Track\)](https://open.spotify.com/track/0w5rxccF7Jksd3qRu8T986) | [Void Contact](https://open.spotify.com/artist/5k2EFZH6G1mDTQA4l0Sn3m) | [Live from Lockdown](https://open.spotify.com/album/0znMasMwrCk0drY9nK70XI) | 4:09 |
+| 38 | [RIVER](https://open.spotify.com/track/1hnRkRdtKrlslR707GAUQR) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 3:09 |
+| 39 | [She Roam](https://open.spotify.com/track/0B0D7eu4ofuVlD8Jt0f8Up) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [This Kind of Ocean](https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18) | 3:32 |
+| 40 | [Uh Oh \(Bonus Studio Track\)](https://open.spotify.com/track/0w5rxccF7Jksd3qRu8T986) | [Void Contact](https://open.spotify.com/artist/5k2EFZH6G1mDTQA4l0Sn3m) | [Live from Lockdown](https://open.spotify.com/album/0znMasMwrCk0drY9nK70XI) | 4:09 |
 
-Snapshot ID: `AcYGFAAAAADrAZ0PKqpC5oYPQj54/Hc3`
+Snapshot ID: `AcYLtAAAAADydJfPMF9+PEoYncVe7cMT`

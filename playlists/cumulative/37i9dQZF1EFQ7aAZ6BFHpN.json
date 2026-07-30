@@ -842,32 +842,6 @@
     {
       "album": {
         "name": "Piano Trios: Bernstein - Schnyder - Gershwin - Kapustin - Pritsker",
-        "url": "https://open.spotify.com/album/1yoqjoz7kXkDzQj2nqeYV4"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Gudrun Pagel",
-          "url": "https://open.spotify.com/artist/6cwH3Dh0UoRfFYYYpn7dZh"
-        },
-        {
-          "name": "Julia Vaisberg",
-          "url": "https://open.spotify.com/artist/52KsyMFUtxDTM4GRDiScNP"
-        }
-      ],
-      "date_added": "2026-05-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 919986,
-      "name": "Concert Fantasie (Arr. G. Pagel, S. Asselhofen and J. Vaisberg)",
-      "url": "https://open.spotify.com/track/1Ws0r1gDNnAeXnDTcLjxYy"
-    },
-    {
-      "album": {
-        "name": "Piano Trios: Bernstein - Schnyder - Gershwin - Kapustin - Pritsker",
         "url": "https://open.spotify.com/album/2yoOmDD5QWGgYirElo9rQo"
       },
       "artists": [
@@ -4466,6 +4440,32 @@
       "duration_ms": 1434040,
       "name": "Porgy and Bess, Symphonic Picture (Arr. Robert Russell Bennett)",
       "url": "https://open.spotify.com/track/6rS85lyKUXcJE5fBMze00w"
+    },
+    {
+      "album": {
+        "name": "Piano Trios: Bernstein - Schnyder - Gershwin - Kapustin - Pritsker",
+        "url": "https://open.spotify.com/album/1yoqjoz7kXkDzQj2nqeYV4"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Gudrun Pagel",
+          "url": "https://open.spotify.com/artist/6cwH3Dh0UoRfFYYYpn7dZh"
+        },
+        {
+          "name": "Julia Vaisberg",
+          "url": "https://open.spotify.com/artist/52KsyMFUtxDTM4GRDiScNP"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 919986,
+      "name": "Porgy and Bess: Concert Fantasie (Arr. G. Pagel, S. Asselhofen and J. Vaisberg)",
+      "url": "https://open.spotify.com/track/1Ws0r1gDNnAeXnDTcLjxYy"
     },
     {
       "album": {

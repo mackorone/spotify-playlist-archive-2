@@ -1,12 +1,12 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Maya Donovan",
-  "num_followers": 99655,
+  "num_followers": 99688,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD0yjQUON9kg2ULSSFVinLTgHCWF",
+  "snapshot_id": "AAAAAIxPSDyTl9bTguEJyoh0Y7/h2PoT",
   "tracks": [
     {
       "added_at": "2026-07-22 13:05:27",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/418czu4odsJIt9JabJYg2u"
     },
     {
+      "added_at": "2026-07-29 19:41:46",
+      "album": {
+        "name": "Wandering Arrow",
+        "url": "https://open.spotify.com/album/6uTEoaDoCkx0x8XB1AAnGv"
+      },
+      "artists": [
+        {
+          "name": "Curiosity Shop",
+          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
+        }
+      ],
+      "duration_ms": 201890,
+      "name": "Wandering Arrow",
+      "url": "https://open.spotify.com/track/6pM2fT3fBVDA8MLW2wfXic"
+    },
+    {
       "added_at": "2026-07-16 15:18:39",
       "album": {
         "name": "Ceremony",
@@ -41,6 +57,26 @@
       "url": "https://open.spotify.com/track/4qwZ29tDAmGKmNTA9YVbGw"
     },
     {
+      "added_at": "2026-07-29 19:41:46",
+      "album": {
+        "name": "Luvbomb",
+        "url": "https://open.spotify.com/album/7sCote39aunhZIWNJIinGy"
+      },
+      "artists": [
+        {
+          "name": "Daisi",
+          "url": "https://open.spotify.com/artist/611KLmpU1yaxamd1JC2PdN"
+        },
+        {
+          "name": "Hrubesky",
+          "url": "https://open.spotify.com/artist/0qNa1kxSdmgBGsfPE88j36"
+        }
+      ],
+      "duration_ms": 126771,
+      "name": "Luvbomb",
+      "url": "https://open.spotify.com/track/5A0rbbC8fosaRl9hGBPDXb"
+    },
+    {
       "added_at": "2026-07-22 13:05:27",
       "album": {
         "name": "coreshadow",
@@ -55,6 +91,22 @@
       "duration_ms": 189869,
       "name": "coreshadow",
       "url": "https://open.spotify.com/track/1LpG1YWOoihZSi8LlXMExb"
+    },
+    {
+      "added_at": "2026-07-29 19:41:46",
+      "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/0mh4dzmIPnIBwbfLoihwf0"
+      },
+      "artists": [
+        {
+          "name": "vern matz",
+          "url": "https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj"
+        }
+      ],
+      "duration_ms": 170099,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/3MAaZKo0cUzoIfruSltt9l"
     },
     {
       "added_at": "2026-07-22 13:05:27",
@@ -119,6 +171,22 @@
       "duration_ms": 144356,
       "name": "You're Never Alone",
       "url": "https://open.spotify.com/track/3r2mLZ18tU8WH6XF7bUOqZ"
+    },
+    {
+      "added_at": "2026-07-29 19:41:46",
+      "album": {
+        "name": "Raging Storms Turned to Beach Weather",
+        "url": "https://open.spotify.com/album/5BZbnRd4Xc4bPAowC39ur1"
+      },
+      "artists": [
+        {
+          "name": "Lorana",
+          "url": "https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA"
+        }
+      ],
+      "duration_ms": 173375,
+      "name": "Coming up for Air",
+      "url": "https://open.spotify.com/track/3xjtL3xd3VYg7qSLSGlH0A"
     },
     {
       "added_at": "2026-07-16 15:18:39",
@@ -205,6 +273,22 @@
       "url": "https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF"
     },
     {
+      "added_at": "2026-07-29 19:41:46",
+      "album": {
+        "name": "Ocean Mother",
+        "url": "https://open.spotify.com/album/2qO9msXl2nKihLE9s7oZqo"
+      },
+      "artists": [
+        {
+          "name": "Luca Wilding",
+          "url": "https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL"
+        }
+      ],
+      "duration_ms": 263577,
+      "name": "Ocean Mother",
+      "url": "https://open.spotify.com/track/6qwOdEszCVGF0sGNXXUfYw"
+    },
+    {
       "added_at": "2026-07-16 15:18:39",
       "album": {
         "name": "Levers and Pulleys",
@@ -219,6 +303,38 @@
       "duration_ms": 273840,
       "name": "Levers and Pulleys",
       "url": "https://open.spotify.com/track/4Lb8OAcJUZgJLj9rWh9zDs"
+    },
+    {
+      "added_at": "2026-07-29 19:41:46",
+      "album": {
+        "name": "Shelley",
+        "url": "https://open.spotify.com/album/4aGDiz9howHfZpKJ2qsSEe"
+      },
+      "artists": [
+        {
+          "name": "Flora Hibberd",
+          "url": "https://open.spotify.com/artist/5EFG7rqfVfdyaXiRZbRkpS"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Shelley",
+      "url": "https://open.spotify.com/track/29ZNtU2ywgOYrUR6VFDzhs"
+    },
+    {
+      "added_at": "2026-07-29 19:41:46",
+      "album": {
+        "name": "The Dog",
+        "url": "https://open.spotify.com/album/2DJ8bsKENysB7M5hfzHDDQ"
+      },
+      "artists": [
+        {
+          "name": "Alaina May",
+          "url": "https://open.spotify.com/artist/2ajMOVSXSjHyFhSnzBKBTb"
+        }
+      ],
+      "duration_ms": 213526,
+      "name": "The Dog",
+      "url": "https://open.spotify.com/track/5WPw1FoA2S5ivwlNJ5rDo6"
     },
     {
       "added_at": "2026-06-24 22:08:07",
@@ -1099,118 +1215,6 @@
       "duration_ms": 228942,
       "name": "picking petals",
       "url": "https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B"
-    },
-    {
-      "added_at": "2026-04-29 18:31:34",
-      "album": {
-        "name": "Bonnie",
-        "url": "https://open.spotify.com/album/1A5qFIzy9Ixg2r973UrcmU"
-      },
-      "artists": [
-        {
-          "name": "Stepford Wives",
-          "url": "https://open.spotify.com/artist/7thGGaBpXKyyCsmHD5kYXL"
-        }
-      ],
-      "duration_ms": 232833,
-      "name": "After Red 40",
-      "url": "https://open.spotify.com/track/2xiCC6Dy8FeWWz7Z98lxSO"
-    },
-    {
-      "added_at": "2026-04-15 17:14:04",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/0Wi1YKnlOHLUm3AlA7dGGW"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 248148,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
-    },
-    {
-      "added_at": "2026-04-22 16:18:30",
-      "album": {
-        "name": "Ghost / Embers",
-        "url": "https://open.spotify.com/album/2GncSUchBvdU6DIkSbWet0"
-      },
-      "artists": [
-        {
-          "name": "e4444e",
-          "url": "https://open.spotify.com/artist/6LZ9PLlrea4f1JZycPxsyC"
-        }
-      ],
-      "duration_ms": 176436,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/7hSmujtJglQ0cXd0aDnLlU"
-    },
-    {
-      "added_at": "2026-04-22 16:18:30",
-      "album": {
-        "name": "Dandelions",
-        "url": "https://open.spotify.com/album/0ehkiwlcpGfMa7ylNvPS7z"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Kemplay",
-          "url": "https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ"
-        }
-      ],
-      "duration_ms": 211059,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/1pcdYtroFnCW20yfUJxffT"
-    },
-    {
-      "added_at": "2026-04-22 16:18:30",
-      "album": {
-        "name": "Gladly Lost in Love",
-        "url": "https://open.spotify.com/album/20JO3Z9L647vfRO5GKQYsB"
-      },
-      "artists": [
-        {
-          "name": "Thomas Flynn",
-          "url": "https://open.spotify.com/artist/74cT8MAv0JwkUku9MKJtZj"
-        }
-      ],
-      "duration_ms": 121053,
-      "name": "Gladly Lost in Love",
-      "url": "https://open.spotify.com/track/29UT6heUG7vUeeMTsL6mgb"
-    },
-    {
-      "added_at": "2026-04-22 16:18:30",
-      "album": {
-        "name": "Little Bird In A Big Sky",
-        "url": "https://open.spotify.com/album/4FqFSWqv4oeGpk3cVaV02I"
-      },
-      "artists": [
-        {
-          "name": "Bonner Black",
-          "url": "https://open.spotify.com/artist/2VqvExXMDEoDd0EgDUw8kz"
-        }
-      ],
-      "duration_ms": 197754,
-      "name": "Little Bird In A Big Sky",
-      "url": "https://open.spotify.com/track/0A0AX5cmshKvQuQwJnSn5X"
-    },
-    {
-      "added_at": "2026-04-08 18:54:44",
-      "album": {
-        "name": "Friendship Is The Truth",
-        "url": "https://open.spotify.com/album/6lMArNErrmtXlfSQnu38kQ"
-      },
-      "artists": [
-        {
-          "name": "Truthpaste",
-          "url": "https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Friendship Is The Truth",
-      "url": "https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4"
     }
   ],
   "unique_name": "Fresh Finds Folk",

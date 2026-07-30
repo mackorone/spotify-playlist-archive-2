@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,183 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,232 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 25 | [Embêtée](https://open.spotify.com/track/6ROfu4XzhHBmaxYqjCr8rY) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Embêtée](https://open.spotify.com/album/6Z7mJy4VsmuIFFOejFzXNs) | 1:52 |
 | 26 | [BB Lifestyle](https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [BB Lifestyle](https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE) | 3:08 |
 | 27 | [Paparazzi](https://open.spotify.com/track/662kXym3EfWBhRvevjYv3g) | [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Paparazzi](https://open.spotify.com/album/6vubUxTvzpnhLVGIrLnhoN) | 3:00 |
-| 28 | [BOUCANTIER](https://open.spotify.com/track/0cyIbRfL8NNkAz9QgQ61mi) | [Dalso](https://open.spotify.com/artist/0zAXRPAuLqtMW3lmLrn3T5), [L I B](https://open.spotify.com/artist/7Ij70AqQaRRiBNSxcJrZUa) | [BOUCANTIER](https://open.spotify.com/album/4tjw7ywwiDUZQVe3QN0339) | 2:26 |
+| 28 | [BOUCANTIER](https://open.spotify.com/track/0cyIbRfL8NNkAz9QgQ61mi) | [Dalso](https://open.spotify.com/artist/0zAXRPAuLqtMW3lmLrn3T5), [LIB](https://open.spotify.com/artist/7Ij70AqQaRRiBNSxcJrZUa) | [BOUCANTIER](https://open.spotify.com/album/4tjw7ywwiDUZQVe3QN0339) | 2:26 |
 | 29 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
 | 30 | [Pépin](https://open.spotify.com/track/6GEBHcjoJkUIccDac8LeaY) | [La Folie](https://open.spotify.com/artist/1a0V1vMdLVOZguN8iSJHoc), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Pépin](https://open.spotify.com/album/3CtMWQgzKAnC1r46FHSUHF) | 2:23 |
 | 31 | [Elumelu](https://open.spotify.com/track/7aCW8Q337ACIFUmziqKGQd) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Elumelu](https://open.spotify.com/album/3cR2qRqYSeOiLIPPEokaXg) | 2:13 |

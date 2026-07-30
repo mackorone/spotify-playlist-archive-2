@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,338 likes - 100 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,359 likes - 100 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 88 | [Delicately in the Sunlight](https://open.spotify.com/track/6wwJpnx8QOlKhooSOp4I8I) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [An Act of Love](https://open.spotify.com/album/7iVg6RDW5EdYQ6zs0BzGzl) | 3:07 |
 | 89 | [Never Give Up \- Vril Remix](https://open.spotify.com/track/7EAHb7b3ZlEUmthme75PwN) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Vril](https://open.spotify.com/artist/1nOi03kPUAMbOCl4lX9Avp) | [Never Give Up \(Vril Remix\)](https://open.spotify.com/album/0zN0nsDnNCiaP2YpfxbAlY) | 5:48 |
 | 90 | [Becoming](https://open.spotify.com/track/6ph9UH93G5BfN7VdgVXGjm) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Becoming](https://open.spotify.com/album/5tT6tt9lzkn205BbqstafQ) | 5:44 |
-| 91 | [Longing For U \- Priori Remix](https://open.spotify.com/track/1JAtFMjeinlNwgq4kWixQD) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Longing For U \(Priori Remix\)](https://open.spotify.com/album/3R8vyXTOjgjcqMBEHi1sFm) | 5:39 |
-| 92 | [Solid State Rain](https://open.spotify.com/track/1ZOsVzvEQxbId9cGSagZdx) | [Kangding Ray](https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26) | [Polar EP](https://open.spotify.com/album/39sJr4ODaxsa9LrmL5XeJQ) | 4:52 |
+| 91 | [Solid State Rain](https://open.spotify.com/track/1ZOsVzvEQxbId9cGSagZdx) | [Kangding Ray](https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26) | [Polar EP](https://open.spotify.com/album/39sJr4ODaxsa9LrmL5XeJQ) | 4:52 |
+| 92 | [Longing For U \- Priori Remix](https://open.spotify.com/track/1JAtFMjeinlNwgq4kWixQD) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Longing For U \(Priori Remix\)](https://open.spotify.com/album/3R8vyXTOjgjcqMBEHi1sFm) | 5:39 |
 | 93 | [Autumn \- Original Mix](https://open.spotify.com/track/3c2jXCxdXZLY3HXzdzrmES) | [Izzat Man](https://open.spotify.com/artist/2TJqlwyMRNWecsnAaI7Mes) | [Third Dive](https://open.spotify.com/album/1CMGPzaXavvbjRi4k1ILG2) | 5:10 |
 | 94 | [Deep Stare](https://open.spotify.com/track/2gZot3iNjcZVaAV8YmM2bf) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound \- Pt\. 2](https://open.spotify.com/album/3WdGXHFwYIyQ8cyZ4Di0rX) | 7:17 |
 | 95 | [Tramuntana \- Efdemin Remix](https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT) | [Ben Kaczor](https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL), [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Petrovo Uho Remixes Part I/III](https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84) | 7:00 |

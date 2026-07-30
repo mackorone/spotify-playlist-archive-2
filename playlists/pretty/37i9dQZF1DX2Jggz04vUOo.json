@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:3iT6d90Vy630068736OgW8\">Foxall</a>'s favorite tracks. Updated regularly. Curated by Foxall. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.\n",
-  "num_followers": 34309,
+  "num_followers": 34360,
   "original_name": "Foxall's track IDs",
   "owner": {
     "name": "Spotify",
@@ -1700,12 +1700,12 @@
       },
       "artists": [
         {
-          "name": "AKASHA MX",
-          "url": "https://open.spotify.com/artist/721EuEbzImpF3q72RR9rCP"
-        },
-        {
           "name": "R\u00fcdiger Eisberg",
           "url": "https://open.spotify.com/artist/4MzjNjClAQ31VRbiuaITpg"
+        },
+        {
+          "name": "AKASHA MX",
+          "url": "https://open.spotify.com/artist/721EuEbzImpF3q72RR9rCP"
         }
       ],
       "duration_ms": 418986,

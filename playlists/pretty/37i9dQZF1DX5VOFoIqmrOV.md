@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : 35 Chinna katha kadu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,420 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,494 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 87 | [Pareshanura](https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3) | [Padmalatha Vishnu Priya](https://open.spotify.com/artist/7txK3ILyvvPyNhFJ8BzG8R) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:13 |
 | 88 | [Yellipoke Shyamala](https://open.spotify.com/track/6x0uurbe3O3v7ogFWdEjYa) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Aa Aaa](https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY) | 3:35 |
 | 89 | [Jatha Kalise](https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Srimanthudu](https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS) | 3:44 |
-| 90 | [Samajavaragamana](https://open.spotify.com/track/0h5wFi2R8a9ReSIDbXzZgy) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 3:39 |
-| 91 | [Choolenge Aasma](https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Veena Ghantasala](https://open.spotify.com/artist/79q31PNsYAnl0QN4doZFFp) | [Temper](https://open.spotify.com/album/64aQTxaAVppQw0m5qSkzvS) | 4:10 |
-| 92 | [Buttabomma](https://open.spotify.com/track/1gT9sc5997gi82JBxoUTYp) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 3:18 |
+| 90 | [Choolenge Aasma](https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [Veena Ghantasala](https://open.spotify.com/artist/79q31PNsYAnl0QN4doZFFp) | [Temper](https://open.spotify.com/album/64aQTxaAVppQw0m5qSkzvS) | 4:10 |
+| 91 | [Buttabomma](https://open.spotify.com/track/1gT9sc5997gi82JBxoUTYp) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 3:18 |
+| 92 | [Samajavaragamana](https://open.spotify.com/track/0h5wFi2R8a9ReSIDbXzZgy) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 3:39 |
 | 93 | [Crazy Feeling](https://open.spotify.com/track/4cEhCuw7sLZsLIQA1EBvxZ) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR) | [Nenu Sailaja](https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp) | 3:29 |
 | 94 | [Andamaina Lokam](https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [Shivam](https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7) | 3:59 |
 | 95 | [Yenno Yenno](https://open.spotify.com/track/6jaQom4BBYEoylc4NSMcga) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Malli Malli Idi Rani Roju](https://open.spotify.com/album/53U9SGBZng53hsthxE6cP7) | 4:31 |

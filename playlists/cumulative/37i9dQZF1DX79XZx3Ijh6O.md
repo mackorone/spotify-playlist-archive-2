@@ -4,7 +4,7 @@
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:0RD9SzfRYxzcvoxBcYJcNc">SEXTUR</a>
 
-554 songs - 1 day 3 hr 47 min
+557 songs - 1 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Азовське море](https://open.spotify.com/track/1izb94OEP2eLxjNHQR2XZk) | [субота](https://open.spotify.com/artist/1ZlBkkkwlQvRZkGjfzBcJo) | [Ломбард 24/7](https://open.spotify.com/album/4xm1j2GKa6WKrXYq3uqxZD) | 2:21 | 2026-01-13 | 2026-02-12 |
 | [Акула](https://open.spotify.com/track/3vt6lhcsk3Cnobd0YmZM8h) | [Artistka Chuprynenko](https://open.spotify.com/artist/099tHc1nWooG9wPtUYX9Mi) | [Акула](https://open.spotify.com/album/1lpSIisfy6b1BpnruBZEjH) | 4:26 | 2025-12-09 | 2026-01-21 |
 | [акустична](https://open.spotify.com/track/6txONIrli5Lsauh0SYi8kE) | [АНТАЙТЛД](https://open.spotify.com/artist/51sorqTCLKHjgaHQkYaxwD), [Omana](https://open.spotify.com/artist/2ZSCvBBi07pkUv7SK2nCrh) | [ІПІ×2](https://open.spotify.com/album/60qCEuXYuQO8JNslk9Yf1m) | 3:33 | 2025-11-04 | 2025-12-18 |
+| [Алгоритм](https://open.spotify.com/track/1GLqbQ3rQpQnqlQlvOhDTo) | [DRUG](https://open.spotify.com/artist/6RYQSRnV6dr9S45xN2ZwlV) | [Алгоритм](https://open.spotify.com/album/4HE4dek1c3BNA6db8xp9ns) | 3:51 | 2026-07-29 |  |
 | [Аліна](https://open.spotify.com/track/13UFLpXjAoVNW3IKCW6Hzf) | [Woman Based Mechanics](https://open.spotify.com/artist/0HAHqBJrbpBocXeVJ90NoO) | [Аліна](https://open.spotify.com/album/4zaouS8SBbcM4T4Tqqz749) | 3:03 | 2026-06-16 |  |
 | [Ангедонія](https://open.spotify.com/track/0p6wmVMt3CGG25TPpjOefz) | [15номер3](https://open.spotify.com/artist/3vWlmceCdqPsWCOHTw1ZBz) | [Ангедонія](https://open.spotify.com/album/6AUnCZWjXEOncEyCyr0J15) | 3:28 | 2026-01-13 | 2026-03-26 |
 | [Ангел](https://open.spotify.com/track/0GT3QF4GFOZhpF42bBb7YP) | [Dmytro Kod](https://open.spotify.com/artist/2enZNbbp8gTet6jZI9Rbfa) | [Ангел](https://open.spotify.com/album/7nj1cHA7h79WPnlYkzl0eO) | 3:26 | 2026-02-03 | 2026-04-01 |
@@ -95,6 +96,7 @@
 | [Безодня](https://open.spotify.com/track/5TUrhnGfB0GngF13ywYwns) | [Де реалізація?](https://open.spotify.com/artist/5GIQYdczg1lPYfG7oTEffD) | [Безодня](https://open.spotify.com/album/0CIjP5rxGafuOyoAAdJEhz) | 3:07 | 2026-03-03 | 2026-04-08 |
 | [Бейслайн](https://open.spotify.com/track/67KmO9nPY5cQ0kInUXAMrD) | [echotone](https://open.spotify.com/artist/0YQ9c42XhofXXLfvzYQJFA), [FL¥XER](https://open.spotify.com/artist/5dfbWMupW51JQubE7c1xOP) | [Бейслайн](https://open.spotify.com/album/0iqmsREoUXuM28V8mwQnFf) | 2:22 | 2025-10-07 | 2025-10-22 |
 | [Бентежно](https://open.spotify.com/track/5v8PRuSYnjtvabdHU93jHl) | [Lefor](https://open.spotify.com/artist/6hzblzXPu0wV7T1L8io0o5) | [Бентежно](https://open.spotify.com/album/4ApOxYHOMPLcXvs3ST7OTe) | 2:41 | 2025-11-26 | 2026-01-15 |
+| [березняки](https://open.spotify.com/track/6SUi1MIlF9QalMt7NqZmx7) | [KILLGRAPE](https://open.spotify.com/artist/110n6f7Pj3Qa1KGwksmVmc) | [березняки](https://open.spotify.com/album/0if0kMAYGR94sTtMRlsvss) | 2:38 | 2026-07-29 |  |
 | [близько](https://open.spotify.com/track/046ERUWAwdnR38O1u5RX3X) | [M1SHKA](https://open.spotify.com/artist/6x6LoUxvX9ScaOW5oP0P8i) | [близько](https://open.spotify.com/album/7q2VWcG3TxXsm1HByBJtOF) | 2:27 | 2025-10-21 | 2025-11-27 |
 | [Блискавка](https://open.spotify.com/track/2rRDd6ZqbxRPLkl4ofNoU8) | [SPALAXX](https://open.spotify.com/artist/5kHiaxHsDiHQ1RYnlZhRhO) | [Блискавка](https://open.spotify.com/album/1BYEqXKoJNTHHQ3mmwdXs9) | 2:53 | 2025-10-28 | 2025-12-03 |
 | [блукатиму\-шукатиму](https://open.spotify.com/track/6JoEOEdXTkVwNqyOnlSJ5s) | [fairyboy](https://open.spotify.com/artist/0pU6ovbcYEgoBkssC6z9Sr) | [блукатиму\-шукатиму](https://open.spotify.com/album/4hJAoLUhtJ7Xc58bfGSasq) | 1:50 | 2025-11-04 | 2025-12-10 |
@@ -247,7 +249,7 @@
 | [Криничка](https://open.spotify.com/track/6ycYZijy9XgSdN4CWA8efV) | [TRINY T](https://open.spotify.com/artist/151WSLorWES5ccXH79H8H3) | [Криничка](https://open.spotify.com/album/608pcMHqtQlQNIWPdAhvwK) | 1:40 | 2025-10-14 | 2025-10-22 |
 | [кров'ю](https://open.spotify.com/track/5pG7NAGzOMwvQMVDVBfUQ1) | [mercurikill](https://open.spotify.com/artist/2TlE3Qe38b9xHDrjTkO2Kl) | [кров'ю](https://open.spotify.com/album/1bQnpyyyN8NmlEHDcDgBfc) | 2:40 | 2026-04-14 | 2026-06-03 |
 | [Кссанакс](https://open.spotify.com/track/4uuf4QKUIuMbQoLdn9bRu7) | [Худбудинок](https://open.spotify.com/artist/6AwwB9fZzj1Y8AZWxpkara) | [Кссанакс](https://open.spotify.com/album/7DQXFFsy7wFrUiuIXDQjhA) | 2:40 | 2025-11-19 | 2025-12-18 |
-| [Кусай](https://open.spotify.com/track/0VyCyGyGohWUjdnuyXm3Bb) | [двадцять пʼятий кадр](https://open.spotify.com/artist/2aXx0TET4pIkte3WuFhUMM) | [Кусай](https://open.spotify.com/album/5JXDhe4ca8r2BmO2cFh7B7) | 3:34 | 2026-06-02 |  |
+| [Кусай](https://open.spotify.com/track/0VyCyGyGohWUjdnuyXm3Bb) | [двадцять пʼятий кадр](https://open.spotify.com/artist/2aXx0TET4pIkte3WuFhUMM) | [Кусай](https://open.spotify.com/album/5JXDhe4ca8r2BmO2cFh7B7) | 3:34 | 2026-06-02 | 2026-07-30 |
 | [кухня](https://open.spotify.com/track/0GaDfYxxE71T9vSWMtNDWV) | [ripcity](https://open.spotify.com/artist/5llGjZdNOIUf6T0ewEbSeK) | [кухня](https://open.spotify.com/album/5h1wSpNLeWKK1Bwtmwntzn) | 2:42 | 2026-07-15 |  |
 | [Кімната](https://open.spotify.com/track/0iNniikUj5hb2TutNOVn9x) | [Spiraka](https://open.spotify.com/artist/4XGcjlnvHFYyiA7Htr5fUD) | [Кімната](https://open.spotify.com/album/5pyXYoRCMo7hC1dpJ6ZiAb) | 2:00 | 2025-11-19 | 2025-12-18 |
 | [Кітті](https://open.spotify.com/track/3zsgHTR97KUXPgoa6W1wB2) | [Tongi Joi](https://open.spotify.com/artist/55giOLseXZAOzEcx622ljL) | [Кітті](https://open.spotify.com/album/0zJUHxNEaQxhEK1L7VQ13M) | 3:17 | 2025-10-14 | 2025-11-27 |
@@ -308,6 +310,7 @@
 | [не вистачає хвилини](https://open.spotify.com/track/4tmWXAnzZGWzIfTT0wfpu5) | [Teddy Trapped](https://open.spotify.com/artist/6issWlB0WQ2yaapGpLntdo) | [не вистачає хвилини](https://open.spotify.com/album/3ndOJDR64LJq39FaUvDQyF) | 3:08 | 2025-12-09 | 2026-01-28 |
 | [Не втримаю більше](https://open.spotify.com/track/7tk7JTxcVfeodTc654ismh) | [homepunkk](https://open.spotify.com/artist/1Iojpi4JD9BGWR3hUCfeao) | [Не втримаю більше](https://open.spotify.com/album/6UgvU8L0hvqhMhFs4AOUHU) | 2:55 | 2025-12-17 | 2026-02-04 |
 | [Не відпускай](https://open.spotify.com/track/6QAQC17vpf8atZmVS9VNwc) | [e\-ho](https://open.spotify.com/artist/7fVPnu1qcLQXHKZKgA3hXu) | [Не відпускай](https://open.spotify.com/album/4UiPJ5usyIpB7Cpggo8K9o) | 2:43 | 2025-11-19 | 2025-12-18 |
+| [Не залиш \(Szívverés\)](https://open.spotify.com/track/7Kg5NNe2qShtffdgkCfGtu) | [Marie Hellstein](https://open.spotify.com/artist/5mP5e9ZxmR6c3NUQTI5PIA) | [Не залиш \(Szívverés\)](https://open.spotify.com/album/01BI1pvdBHFTaI1r53BCPN) | 3:02 | 2026-07-29 |  |
 | [Не зникни](https://open.spotify.com/track/6sqSjcG7eUKbzAAdCXW4oy) | [dari march](https://open.spotify.com/artist/5n4I8EuJLtIR6nxCiz8ZzN) | [Не зникни](https://open.spotify.com/album/6U6ILEgk5zaowWUAKXZQbT) | 3:20 | 2025-12-02 | 2026-01-15 |
 | [не комплімент](https://open.spotify.com/track/1FzLBpiW6p6fOUn06ObPRz) | [sisterlybid](https://open.spotify.com/artist/21i6jx2WiaohwOQQBDoRm5) | [не комплімент](https://open.spotify.com/album/1AbCfy5g4pBHA3K8R8P5ma) | 3:27 | 2026-07-01 |  |
 | [Не може бути](https://open.spotify.com/track/2mda46fFwt7rwlWAkC6I7M) | [e\-ho](https://open.spotify.com/artist/7fVPnu1qcLQXHKZKgA3hXu) | [Не може бути](https://open.spotify.com/album/6spIHFHBPWdMwMq0IYIzDG) | 3:03 | 2025-10-07 | 2025-11-05 |
@@ -512,7 +515,7 @@
 | [Цілуй мене](https://open.spotify.com/track/0HVS6JytL0GoskOCPvtwrB) | [Valeriia Vovk](https://open.spotify.com/artist/2JujXZh274ctLCsqh0E6l8) | [Цілуй мене](https://open.spotify.com/album/0XAFm1MiaZ4c8EXviiRugP) | 3:09 | 2025-10-14 | 2025-11-20 |
 | [Цілунок](https://open.spotify.com/track/1igRimJ2paDUeR6IO9joTU) | [SYDOR](https://open.spotify.com/artist/5mCLSzdZkJ2PgQ0EGkIIgK) | [Цілунок](https://open.spotify.com/album/0jHDXmmP1PHb8DPOYgwYhH) | 2:10 | 2025-10-07 | 2025-10-22 |
 | [чай](https://open.spotify.com/track/6KtbsEXivhEGxJMmCiEmxh) | [Melancholydi](https://open.spotify.com/artist/01gFGpB3Lew9liOqNthKBe) | [чай](https://open.spotify.com/album/75ll53TalcnBCCGIcKTHrY) | 3:35 | 2026-03-11 | 2026-05-20 |
-| [Чайка на крижині](https://open.spotify.com/track/1hBkzxoHLaYi3d6PIzM1bh) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he) | [Чайка на крижині](https://open.spotify.com/album/47CGLQjDoQQzecVUxpmMKP) | 2:46 | 2026-03-03 |  |
+| [Чайка на крижині](https://open.spotify.com/track/1hBkzxoHLaYi3d6PIzM1bh) | [POPIL](https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he) | [Чайка на крижині](https://open.spotify.com/album/47CGLQjDoQQzecVUxpmMKP) | 2:46 | 2026-03-03 | 2026-07-30 |
 | [Час](https://open.spotify.com/track/2OK9NOsBb4G83uIxgz8pAa) | [U2U](https://open.spotify.com/artist/5x7IAINB3M3qYkFSmteGv2) | [Час](https://open.spotify.com/album/4lh8Avzn4gljoAHcxiSSLM) | 3:35 | 2026-06-02 |  |
 | [час покидати](https://open.spotify.com/track/1hV2owNNvHYfh42lQalHrp) | [поживна цінність](https://open.spotify.com/artist/2mYQmSezl3tFUIAr8UDCP8), [W8till](https://open.spotify.com/artist/1TNNJb6ZQt8eW0zncZSNoH) | [час покидати](https://open.spotify.com/album/1DJtvyJvSAetKIxhJCdcms) | 2:40 | 2025-11-11 | 2025-12-10 |
 | [ЧЕРВОНИЙ СНІГ](https://open.spotify.com/track/77JeHApcF0Qi7is6BmBY3K) | [Гексен](https://open.spotify.com/artist/2gZ2AIhYxP4c8hs8trjKra) | [ЧЕРВОНИЙ СНІГ](https://open.spotify.com/album/3FRT1APe2OmMxrcEJJZ5WP) | 3:22 | 2026-01-13 | 2026-03-12 |
@@ -551,7 +554,7 @@
 | [як горить любов](https://open.spotify.com/track/4JaKkXoZGymFca83XW5bYu) | [ОНІСУКА ТАЙГЕР](https://open.spotify.com/artist/77mZBnU5El6iexxLv2qhWM) | [як горить любов](https://open.spotify.com/album/74c01fXrITjnXNyvlQZsga) | 3:05 | 2025-10-14 | 2025-11-12 |
 | [Як завжди](https://open.spotify.com/track/4bNWMcXQoVq8AyAJbU8JWF) | [Потікша Фляга](https://open.spotify.com/artist/5o00M6Lgt3BMqA0Uh07Aty) | [Як завжди](https://open.spotify.com/album/3eAJD2uBNEZ2Z868UbfZLb) | 3:05 | 2026-07-01 |  |
 | [Як я мала була](https://open.spotify.com/track/0DcCt6AMTl5fMGw7odjn4l) | [Ana Pri](https://open.spotify.com/artist/5jIUNXzQR7F0uULOwRV9If) | [Як я мала була](https://open.spotify.com/album/68Oi1pBTZka32otL30qcOV) | 2:50 | 2026-05-12 |  |
-| [яріматілатвала](https://open.spotify.com/track/0F7lDCwHWGluScpXPatHGa) | [пуленбір](https://open.spotify.com/artist/3a0KMTr7p0eHISBvONnkae) | [яріматілатвала](https://open.spotify.com/album/5F4thnoF6WUjnYQOyqHDmI) | 3:11 | 2026-05-06 |  |
+| [яріматілатвала](https://open.spotify.com/track/0F7lDCwHWGluScpXPatHGa) | [пуленбір](https://open.spotify.com/artist/3a0KMTr7p0eHISBvONnkae) | [яріматілатвала](https://open.spotify.com/album/5F4thnoF6WUjnYQOyqHDmI) | 3:11 | 2026-05-06 | 2026-07-30 |
 | [Єдиний](https://open.spotify.com/track/3siNujvPoyJWMKlEG6A3Ib) | [Село Близнюків](https://open.spotify.com/artist/4LJ22l3ZLbWlu94VInorcK), [плерома](https://open.spotify.com/artist/7CfQEhZGy9ib4mrf6hXgtQ) | [Єдиний](https://open.spotify.com/album/0Jijm1CAkzTCvw6cg8dARn) | 5:21 | 2025-10-07 | 2025-11-05 |
 | [Єретик](https://open.spotify.com/track/2XDgB962Z9p1EdJVjZpxNJ) | [o.hroza](https://open.spotify.com/artist/35t5PBQsmMVZnS57wAg8ek) | [Тарас vol.1](https://open.spotify.com/album/3smHuo9Ni7u7SxFpVp4D96) | 1:34 | 2025-11-26 | 2026-01-15 |
 | [і інше все](https://open.spotify.com/track/2FH7XjSzx3D1oCbHhf8rEo) | [meerkur](https://open.spotify.com/artist/6EVgBhYmX16ZoPGZG0HdIl) | [і інше все](https://open.spotify.com/album/1XGw5cknstwNwT2e3lF5QY) | 4:29 | 2025-11-04 | 2025-12-10 |

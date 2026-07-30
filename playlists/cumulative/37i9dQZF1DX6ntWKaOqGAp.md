@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Penthouse
 
-3,431 songs - 8 day 21 hr 50 min
+3,431 songs - 8 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1670,7 +1670,6 @@
 | [TORYANSE](https://open.spotify.com/track/6j8wkhXAvbdfiVGglqHMQQ) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1), [須藤寿](https://open.spotify.com/artist/4yLohhRvV9WAxPAuIafhyx) | [TORYANSE](https://open.spotify.com/album/4by9Ztn9u4W3PjjIFUfwNQ) | 3:56 | 2026-02-10 | 2026-07-15 |
 | [Toumeiningen](https://open.spotify.com/track/1aSSUbMAjJwOmYRhN5xD6k) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Sora Ni Kaoru Wa Natsu No Kage](https://open.spotify.com/album/6YsVn5cWsGEU51eWuc9iRo) | 4:36 | 2025-05-27 | 2025-07-16 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2025-10-22 |
-| [Track 1](https://open.spotify.com/track/7zL7va69I79IYwDGBpGls5) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [eff](https://open.spotify.com/album/3plqZDMNCoqLWkcaRiW94G) | 0:00 | 2026-07-28 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-06-04 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI) | 3:53 | 2023-02-14 | 2023-02-16 |
 | [TRAIN\-TRAIN](https://open.spotify.com/track/5PUNRSIFNxWimFJ1r9vgkl) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/4c3iop1ngWgS6LZNcMYpI5) | 3:53 | 2023-02-14 | 2023-04-26 |
@@ -2721,6 +2720,7 @@
 | [光を迎えに行こう](https://open.spotify.com/track/0xqySIjnf29mmmt4YPCSJw) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [光を迎えに行こう](https://open.spotify.com/album/2CjIqVUiomIdPor6EB39dN) | 3:58 | 2024-09-10 | 2024-10-02 |
 | [克己心](https://open.spotify.com/track/6yFMWYm58u166jylc5T1vZ) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [克己心](https://open.spotify.com/album/0Wlqk9zfvANGyN3ipKKe9F) | 3:06 | 2023-09-26 | 2023-09-28 |
 | [全力少年](https://open.spotify.com/track/2UQlnlufT4f07D2NKGjaZP) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SUKIMASWITCH 20th Anniversary Tribute Album『みんなのスキマスイッチ』](https://open.spotify.com/album/5sVfcsT0j9S6Um1TG2PQKw) | 3:58 | 2024-05-28 | 2024-06-19 |
+| [八月](https://open.spotify.com/track/7zL7va69I79IYwDGBpGls5) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [eff](https://open.spotify.com/album/3plqZDMNCoqLWkcaRiW94G) | 3:30 | 2026-07-28 |  |
 | [八月の匂い](https://open.spotify.com/track/2HrlGNDXTLmzjF1BYle8sn) | [山内総一郎](https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3), [KREVA](https://open.spotify.com/artist/6lAinPkC2U1Huibu6Vfr9R) | [八月の匂い](https://open.spotify.com/album/5nRJI8tYJvDTkVafyJbXmt) | 4:25 | 2026-06-02 | 2026-06-17 |
 | [六ノ輪](https://open.spotify.com/track/0RDHzL3m6eK2wSuCou4sAW) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [六ノ輪](https://open.spotify.com/album/7wX1l5Bu8H2sCbkBqy7XPe) | 3:27 | 2026-06-23 | 2026-07-22 |
 | [六号線](https://open.spotify.com/track/3taGT26WKIm8im08YLArTU) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [六号線](https://open.spotify.com/album/2Dwnn6vVBJ0DmxAfF5yTGw) | 3:28 | 2024-01-23 | 2024-02-28 |

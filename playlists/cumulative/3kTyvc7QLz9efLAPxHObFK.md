@@ -4,7 +4,7 @@
 
 > 
 
-3,160 songs - 6 day 18 hr 40 min
+3,161 songs - 6 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Bassline](https://open.spotify.com/track/6p6PxFeeVuTYjPrsET0Xen) | [Required](https://open.spotify.com/artist/1g05P4Ua1FzC0cQxSlgmyu) | [Bassline](https://open.spotify.com/album/1LZhcdi5mFd0HEmM2BU1xy) | 2:25 | 2023-09-07 |  |
 | [Bassline Breaker](https://open.spotify.com/track/2UsuaSK91xyXRxbjPH8BeN) | [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr), [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Bassline Breaker](https://open.spotify.com/album/45jLKb3skKjKw5XMKFxOHT) | 2:29 | 2023-05-25 |  |
 | [Bassline Crack](https://open.spotify.com/track/4RCvKi887zSgHQTivwcYgw) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [Bassline Crack](https://open.spotify.com/album/2HS0E2a317110c9yYi8mo6) | 2:06 | 2025-12-28 |  |
+| [Bassline Dealer](https://open.spotify.com/track/7uzqiQGmqhxRWpoADhNjGU) | [Mosmoz](https://open.spotify.com/artist/4MyHcRaJ3tAi4DKvNGWXtx) | [Bassline Dealer](https://open.spotify.com/album/1xt1KHxIKMycgKIdhGC9Ut) | 4:09 | 2026-07-29 |  |
 | [BASSLINE KILLAH](https://open.spotify.com/track/2f2NbW3VGp5hCwMWuJMrm7) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [BASSLINE KILLAH](https://open.spotify.com/album/3GuU21S3h1Lx6NQAGPlVfE) | 3:18 | 2025-02-01 |  |
 | [Bassride](https://open.spotify.com/track/7Hx4LfiaOZ8O89PVa1RpTl) | [E\-Force](https://open.spotify.com/artist/77faXTf6wXs3L2CVol0c8C) | [Dark Reality](https://open.spotify.com/album/1cOYWau4urMqLvpZGdy0CV) | 3:50 | 2023-10-19 |  |
 | [BATTLE](https://open.spotify.com/track/3zscopCeIVV8yMLJxq0hxI) | [SL Complex](https://open.spotify.com/artist/1K24lyixWU3NZMhevM0UQW) | [BATTLE](https://open.spotify.com/album/4ZOTVLztiBXM588Nuw7VJK) | 3:25 | 2026-02-03 |  |

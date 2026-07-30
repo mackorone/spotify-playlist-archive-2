@@ -1,6 +1,6 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 1352539,
+  "num_followers": 1353541,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
@@ -3127,6 +3127,22 @@
     {
       "added_at": "2026-06-09 16:05:19",
       "album": {
+        "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/2Kbo8nu3JuyamYBZoO5ltG"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 138842,
+      "name": "Are You With Me - Radio Edit",
+      "url": "https://open.spotify.com/track/477daPpd3DnneaHhvjM35l"
+    },
+    {
+      "added_at": "2026-06-09 16:05:19",
+      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/4qugvZbeFLghKN67aQ6PAb"
       },
@@ -3143,22 +3159,6 @@
       "duration_ms": 262000,
       "name": "My Love",
       "url": "https://open.spotify.com/track/0idc0XRnLRovVqpWnGQ6hC"
-    },
-    {
-      "added_at": "2026-06-09 16:05:19",
-      "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/2Kbo8nu3JuyamYBZoO5ltG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 138842,
-      "name": "Are You With Me - Radio Edit",
-      "url": "https://open.spotify.com/track/477daPpd3DnneaHhvjM35l"
     },
     {
       "added_at": "2026-06-09 16:05:19",

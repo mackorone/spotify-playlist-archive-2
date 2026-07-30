@@ -6,7 +6,7 @@
     "name": "raincandy",
     "url": "https://open.spotify.com/user/megaalexpro3000"
   },
-  "snapshot_id": "AAAKUa/ebouTMw7xzQD001xI500ixd7j",
+  "snapshot_id": "AAAKUwOswmB1BMkBcrEvD3C1LbdQcSRp",
   "tracks": [
     {
       "added_at": "2021-08-04 04:53:44",
@@ -8679,6 +8679,42 @@
       "duration_ms": 226310,
       "name": "Koukatsu",
       "url": "https://open.spotify.com/track/6EMhoEetT9w5segZQeyBEW"
+    },
+    {
+      "added_at": "2026-07-29 05:17:54",
+      "album": {
+        "name": "SonobashinogiEP",
+        "url": "https://open.spotify.com/album/7AAjKp4YcGvElvWy9CVCxG"
+      },
+      "artists": [
+        {
+          "name": "syudou",
+          "url": "https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa"
+        }
+      ],
+      "duration_ms": 208348,
+      "name": "Call Boy",
+      "url": "https://open.spotify.com/track/5Xo861ZHKMGHJx8yJR0zIt"
+    },
+    {
+      "added_at": "2026-07-29 05:19:43",
+      "album": {
+        "name": "Madonosoto",
+        "url": "https://open.spotify.com/album/2OdO7kE96j5661nPePNUAq"
+      },
+      "artists": [
+        {
+          "name": "Nashimoto Ui",
+          "url": "https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 167800,
+      "name": "Shinitagari (feat. HATSUNE MIKU)",
+      "url": "https://open.spotify.com/track/6x7eohae2lVhyuWrT73Q0P"
     }
   ],
   "unique_name": "KristaLenz",

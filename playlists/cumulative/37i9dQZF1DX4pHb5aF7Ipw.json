@@ -5059,6 +5059,28 @@
     },
     {
       "album": {
+        "name": "Brotherhood",
+        "url": "https://open.spotify.com/album/5WvaR1XrNI8Ql6FU7pDOaT"
+      },
+      "artists": [
+        {
+          "name": "Kang",
+          "url": "https://open.spotify.com/artist/3h0HNxNcvkEl3iNT7CE7Tn"
+        },
+        {
+          "name": "Rass",
+          "url": "https://open.spotify.com/artist/2KPdBgEiHuvPhAxUcbpYL5"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/5moB8c8fpD4NqXDNsCx7dd"
+    },
+    {
+      "album": {
         "name": "FOR4VER",
         "url": "https://open.spotify.com/album/3HWIa6IvSgnZIhMTOhldu1"
       },

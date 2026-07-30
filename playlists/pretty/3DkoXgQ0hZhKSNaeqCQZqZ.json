@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1188,
+  "num_followers": 1187,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFnA+mwsnLdFtnVNhVZs+lEmcsB6R/",
+  "snapshot_id": "AAAFnaQaiiPucRfm7wrN9zXDuIdMfv08",
   "tracks": [
+    {
+      "added_at": "2026-07-30 03:25:42",
+      "album": {
+        "name": "Latte",
+        "url": "https://open.spotify.com/album/6b0iVHLDB8ZBFGdOsTCwMg"
+      },
+      "artists": [
+        {
+          "name": "Glyde",
+          "url": "https://open.spotify.com/artist/0oJfEzOOeGWo67yKatVhNl"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Latte",
+      "url": "https://open.spotify.com/track/1E0MGqNz5PosVXzGHcf0a5"
+    },
     {
       "added_at": "2026-07-17 07:43:03",
       "album": {

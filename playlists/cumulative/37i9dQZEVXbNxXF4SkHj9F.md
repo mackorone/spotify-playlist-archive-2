@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-2,143 songs - 4 day 21 hr 21 min
+2,144 songs - 4 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -999,6 +999,7 @@
 | [KISS KISS KISS \(Feat\. SUNWOO \(THE BOYZ\)\) \(Prod\. by Hukky Shibaseki\)](https://open.spotify.com/track/1alWuqrk1v7xzECNR8ovRo) | [NOWIMYOUNG](https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G), [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [SUNWOO](https://open.spotify.com/artist/27Uaxd3EmAW0Hl3Atpf74q) | [Show Me The Money 12 Episode 2](https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ) | 3:38 | 2026-03-21 |  |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:28 | 2021-06-27 | 2022-04-10 |
 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 | 2021-04-11 | 2021-06-27 |
+| [KISS N TELL](https://open.spotify.com/track/3Fse9qXqMNey4TL5mLy8IF) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [KISS N TELL](https://open.spotify.com/album/5pwhf4kv2qX10i6k2uJsFp) | 2:46 | 2026-07-29 |  |
 | [Kitsch](https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/12p68ehzb26xvidlV2ypur) | 3:15 | 2023-03-28 | 2023-03-30 |
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-29 | 2023-04-13 |
 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 | 2023-04-12 | 2023-08-21 |
@@ -2145,7 +2146,7 @@
 | [섬찟 \(Hypnosis\)](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:26 | 2023-04-12 | 2023-04-14 |
 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 | 2022-03-14 | 2022-04-26 |
 | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/track/2GMKQPMXdOGXsQkDYBN6wF) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [시작의 아이 ハジマリのコ \(Starting With You\)](https://open.spotify.com/album/7zt4FeVEYc2QuMPI11WIoO) | 4:16 | 2025-06-09 | 2025-11-17 |
-| [아크라포빅 \(Akrapovic\)](https://open.spotify.com/track/3YVcnTV3v6DEFJeAnxGTBj) | [hamo](https://open.spotify.com/artist/7bQHemX2QBqGaERdrfraNW) | [시정잡배의 18번 \(The Riffraff’s Signature\)](https://open.spotify.com/album/4KEMROEYkFdX6tqUcIYtWy) | 2:15 | 2026-03-03 |  |
+| [아크라포빅 \(Akrapovic\)](https://open.spotify.com/track/3YVcnTV3v6DEFJeAnxGTBj) | [hamo](https://open.spotify.com/artist/7bQHemX2QBqGaERdrfraNW) | [시정잡배의 18번 \(The Riffraff’s Signature\)](https://open.spotify.com/album/4KEMROEYkFdX6tqUcIYtWy) | 2:15 | 2026-03-03 | 2026-07-30 |
 | [약속해](https://open.spotify.com/track/6O86YukB0xS89FMVi6NW9I) | [SYSTEM SEOUL](https://open.spotify.com/artist/1YBOO3E40cq9VVNUHeQGDm), [kira](https://open.spotify.com/artist/2WOLpHxnKUlKnEMk62SLuX), [sn7](https://open.spotify.com/artist/2uDWYOc4r1uGmlOhaFfR8x), [ycs](https://open.spotify.com/artist/15Wmgj7GkO1EPXq9hZPnh6), [hawks](https://open.spotify.com/artist/6r8dyOpcKwTCIgekGqgCsm) | [SS\-POP 3](https://open.spotify.com/album/3JYSv64ZaFK2qHEBZ3suUD) | 3:26 | 2026-07-16 | 2026-07-18 |
 | [예뻤어](https://open.spotify.com/track/3HAkoNmThZhyFejhpRXXYI) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/0XAkvjvpmtHRaOtjKn60HS) | 4:43 | 2024-10-13 | 2024-10-15 |
 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 | 2026-04-10 | 2026-04-12 |

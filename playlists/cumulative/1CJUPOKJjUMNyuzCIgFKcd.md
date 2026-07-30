@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-619 songs - 1 day 4 hr 1 min
+620 songs - 1 day 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,6 +601,7 @@
 | [WE BACK!](https://open.spotify.com/track/6HyG7L7ZrSYosbckk6Tg0g) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Tommy Zuko](https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ) | [WE BACK!](https://open.spotify.com/album/2t1b5sGLhj7d07DiFJ6jBU) | 2:44 | 2025-11-10 | 2026-01-27 |
 | [WE DA OPPS](https://open.spotify.com/track/0Uvw6k5LFxe5Quufiic8EH) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [WE DA OPPS](https://open.spotify.com/album/1MthsJN8v9M4oWTyKQi85b) | 2:54 | 2024-07-22 | 2025-02-25 |
 | [Weight Class](https://open.spotify.com/track/6Ps0PiM1yfdAa0OGxJDPge) | [Mgm Lett](https://open.spotify.com/artist/0IVKVUhWVCVX8jyHXN6IOb) | [Weight Class](https://open.spotify.com/album/2rkuJWu9saMhpZn7ZmVBbX) | 2:24 | 2024-01-12 | 2024-05-21 |
+| [Wein Abdul?](https://open.spotify.com/track/4OOUv5ZpeYkmf0Q9FzSu3T) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Wein Abdul?](https://open.spotify.com/album/6WGU3F6yC0OeZePEFT2CR9) | 2:49 | 2026-07-29 |  |
 | [WHAT U SPEND](https://open.spotify.com/track/4xDurVXryaUoRnAoltkeDi) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx), [Zillionaire Doe](https://open.spotify.com/artist/1bKQ0QmmCQ2JJFMtypP0xm) | [WHAT U SPEND](https://open.spotify.com/album/0w1apnzbNdKj8DpPRLiDRE) | 2:30 | 2025-07-30 | 2025-10-28 |
 | [WHAT'S HATNIN](https://open.spotify.com/track/2i160IyYwq8s3dwZHZNtnk) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [WHAT'S HATNIN](https://open.spotify.com/album/3W30Vrsnl4ZD9wPpBEXnF0) | 2:26 | 2023-11-03 | 2024-02-24 |
 | [Where You Been?](https://open.spotify.com/track/43rNJMam5NGy4GUUMaFip7) | [Danny Towers](https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu) | [Where You Been?](https://open.spotify.com/album/7c0Ok1h8Z5qmFWHMwJgRMS) | 1:31 | 2024-02-20 | 2024-05-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Bia Soull
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,103 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,095 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 65 | [Receita](https://open.spotify.com/track/2oVWlKVMpnwgMst98oAeQh) | [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Madre Beatz](https://open.spotify.com/artist/4GU1CeOF51IJbREWohSNBj), [HERvolution](https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt) | [Receita](https://open.spotify.com/album/7cbSSJogZZiNcjjyYriIud) | 2:03 |
 | 66 | [AMOR PROIBIDO](https://open.spotify.com/track/0IYpbxDn2SzqblvhHFYlgH) | [Gael Vicci](https://open.spotify.com/artist/4UvtyhDzRrxhiUB90syNQw), [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [AMOR PROIBIDO](https://open.spotify.com/album/0yx6KV0T94PNSOyq4aYILS) | 2:22 |
 | 67 | [Funk Triste](https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc) | [Funk Triste](https://open.spotify.com/album/4Uuyx6mIRKziWkhaqS8pzE) | 2:52 |
-| 68 | [na minha mente](https://open.spotify.com/track/3d417Hpt0CvBjXhB1Gyh3u) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [na minha mente](https://open.spotify.com/album/37GoCoDgWWqsGUl0NAjSLx) | 2:12 |
-| 69 | [ATITUDE](https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc) | [MUCHO SEXY \- ASTRO SESSIONS](https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC) | 2:24 |
-| 70 | [Bom Demais](https://open.spotify.com/track/29Jk3zMKGd3iQiPNRbleNo) | [leffs](https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs) | [Bom Demais](https://open.spotify.com/album/6jDyFTVuHjSAzCKrjtEqLF) | 2:23 |
+| 68 | [f:\)da\-se](https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [f:\)da\-se](https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY) | 2:43 |
+| 69 | [Bom Demais](https://open.spotify.com/track/29Jk3zMKGd3iQiPNRbleNo) | [leffs](https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs) | [Bom Demais](https://open.spotify.com/album/6jDyFTVuHjSAzCKrjtEqLF) | 2:23 |
+| 70 | [ATITUDE](https://open.spotify.com/track/2ISptglwFfnB0x3x5c47fd) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc) | [MUCHO SEXY \- ASTRO SESSIONS](https://open.spotify.com/album/5U4BednDs0GNo5B0eYTcNC) | 2:24 |
 | 71 | [LUA CHEIA](https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [LUA CHEIA](https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp) | 2:50 |
 | 72 | [Pra te amar as vezes](https://open.spotify.com/track/7kkHKnWWTKAq1pHOxXVtOF) | [Victor Cali](https://open.spotify.com/artist/2ZWCKKr8IDfkWL54yTLBVt), [Flowdi](https://open.spotify.com/artist/5Y5g7A0AbcaRgHBWB8r3B7) | [Pra te amar às vezes](https://open.spotify.com/album/4MiPpcMI523JiIsVt9fDMk) | 2:20 |
-| 73 | [f:\)da\-se](https://open.spotify.com/track/2UBAm99YG2MubgLymHqXOl) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [f:\)da\-se](https://open.spotify.com/album/3vMYpDQKiuAxtHzj6R5QSY) | 2:43 |
+| 73 | [na minha mente](https://open.spotify.com/track/3d417Hpt0CvBjXhB1Gyh3u) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [na minha mente](https://open.spotify.com/album/37GoCoDgWWqsGUl0NAjSLx) | 2:12 |
 | 74 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
 | 75 | [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 |
 | 76 | [AKOÇA](https://open.spotify.com/track/3z8aghokqoqjtLXsUS0H4H) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8) | [MOVEDIÇA II](https://open.spotify.com/album/20bkV5MFa22V3Zq1QqkJ96) | 2:26 |

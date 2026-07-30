@@ -167,6 +167,32 @@
     },
     {
       "album": {
+        "name": "Ascetic Milieus",
+        "url": "https://open.spotify.com/album/33LxI0j9x4Iif6nLbCXUpr"
+      },
+      "artists": [
+        {
+          "name": "Know",
+          "url": "https://open.spotify.com/artist/51qsZGszGUZvWIhargHyJV"
+        },
+        {
+          "name": "Santosh Nanduri",
+          "url": "https://open.spotify.com/artist/5SqFfCIRYR4PPgD4zX3UQM"
+        },
+        {
+          "name": "Annada Prasanna Pattanaik",
+          "url": "https://open.spotify.com/artist/18HQ2H5BsLUka3Xbtc8ayC"
+        }
+      ],
+      "date_added": "2026-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195592,
+      "name": "Ascetic Milieus",
+      "url": "https://open.spotify.com/track/3QL7uAwFOrL1gdXfFqtk0O"
+    },
+    {
+      "album": {
         "name": "Floating, Always",
         "url": "https://open.spotify.com/album/6JeuzF0f5ALtSsXnXVBckB"
       },
@@ -1864,7 +1890,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 148987,
       "name": "The Ones Left Behind",
       "url": "https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731"

@@ -5349,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "Latte",
+        "url": "https://open.spotify.com/album/6b0iVHLDB8ZBFGdOsTCwMg"
+      },
+      "artists": [
+        {
+          "name": "Glyde",
+          "url": "https://open.spotify.com/artist/0oJfEzOOeGWo67yKatVhNl"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Latte",
+      "url": "https://open.spotify.com/track/1E0MGqNz5PosVXzGHcf0a5"
+    },
+    {
+      "album": {
         "name": "LDR",
         "url": "https://open.spotify.com/album/0ZUMp0bjDNyL86cIBDeArO"
       },

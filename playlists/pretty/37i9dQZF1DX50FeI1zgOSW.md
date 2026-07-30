@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Joshua Aaron
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,002 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,003 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 | 15 | [The Vex Song](https://open.spotify.com/track/2zqCudaM6gfePaJRR9Uz33) | [Valluvan](https://open.spotify.com/artist/5KMPMUPGGsLolQrX5iIiNF) | [The Vex Song](https://open.spotify.com/album/1ltmSbinJ37Wd888zsz0lJ) | 4:25 |
 | 16 | [Atti Poda Vaa Mame](https://open.spotify.com/track/35jglKbFFjw0CoGTnjWvVY) | [V2 Vijay Vicky](https://open.spotify.com/artist/7zyTYIiNKFMRW0NlZZAeBF), [Swathi](https://open.spotify.com/artist/72S4mb0MZM5unEBKWzqRP3), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Atti Poda Vaa Mame](https://open.spotify.com/album/0vZUP0HDUcApozVoAxZS2a) | 3:09 |
 | 17 | [Aathadi](https://open.spotify.com/track/3EzGEMuDVJF8pxbWnNJWNx) | [R.Madhan Mohan](https://open.spotify.com/artist/299hZFMTm60ri5cIlUzIoy), [Neha Girish](https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv) | [Aathadi](https://open.spotify.com/album/0cKwRlkY5EeN0NkUvwAceP) | 4:27 |
-| 18 | [Pudhu Pudhu Payaname](https://open.spotify.com/track/4UTWmbqELwp7zUugvpylA6) | [Sai Prashob](https://open.spotify.com/artist/4bDKaWnbN8ESEhZkFBd1wc) | [I\-Popstar Tamil \| Ep 03](https://open.spotify.com/album/2rEAcLoRlmzSwrVkCLk6Pv) | 2:56 |
+| 18 | [Pudhu Pudhu Payaname](https://open.spotify.com/track/4UTWmbqELwp7zUugvpylA6) | [Sai Prashob](https://open.spotify.com/artist/4bDKaWnbN8ESEhZkFBd1wc), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn) | [I\-Popstar Tamil \| Ep 03](https://open.spotify.com/album/2rEAcLoRlmzSwrVkCLk6Pv) | 2:56 |
 | 19 | [En Pondatti Oorukku Poita](https://open.spotify.com/track/1NFrdhtRBfh6PjRqNWjymV) | [Capt Seelan](https://open.spotify.com/artist/0iUJSgshpJ5DSt8rS4EeBD), [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [En Pondatti Oorukku Poita](https://open.spotify.com/album/1T2vz7qI9saHHKWSG8hEMP) | 3:19 |
 | 20 | [Sambavam Startu](https://open.spotify.com/track/4W295YjbF0883qgI5WBFVD) | [Abishek Vasagan](https://open.spotify.com/artist/32Nq1omkpqoA0ZtaZ2eApI), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2), [Viji Kannan](https://open.spotify.com/artist/1rulPO5G7jVHfbeuuk9mP6) | [Sambavam Startu](https://open.spotify.com/album/7yeFhdPrA5yfXNtkjrmR7L) | 4:06 |
 | 21 | [Podhaadho?](https://open.spotify.com/track/38uon1nYNzQelci58PtnMp) | [Madrashe](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm) | [Podhaadho?](https://open.spotify.com/album/7xyb8CVOy6LSJOaEm4mOjw) | 2:55 |

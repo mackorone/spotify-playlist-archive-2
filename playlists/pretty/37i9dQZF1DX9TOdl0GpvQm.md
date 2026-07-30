@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 
 > deep dark ambient and half\-remembered hypnagogic soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,102 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,152 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 | 71 | [Velluto](https://open.spotify.com/track/0RQ0QSEuVZJkW4Sr48vW9p) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Magda](https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl) | 8:42 |
 | 72 | [Nowe Przebudzenie](https://open.spotify.com/track/1maCbZFc6vWashG0Sut5B1) | [Wiktor Stribog](https://open.spotify.com/artist/70TrF9S9a212DRhvhjbZYs) | [Poradnik Uśmiechu \(Original Soundtrack\)](https://open.spotify.com/album/1MQtxIbW80AU5LDMqhyKON) | 7:09 |
 | 73 | [Under the Midnight Sun](https://open.spotify.com/track/1f6eXoO4z7MBCkhdGyMDH9) | [Jeremiah Chiu](https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa), [Marta Sofia Honer](https://open.spotify.com/artist/0No4kFHG4fdYselL7OcAjv) | [Recordings from the Åland Islands](https://open.spotify.com/album/7uJLi3TtRhHKD7LtlRoEem) | 3:42 |
-| 74 | [Shimmer and Disappear](https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Across The Meridian](https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg) | 3:15 |
-| 75 | [Cielo repleto de naves extraterrestres](https://open.spotify.com/track/0n7S1BxSt6BoM0iXixxi63) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Cielo repleto de naves extraterrestres](https://open.spotify.com/album/1c4Rtyw42IAbMw7PklGOnL) | 2:49 |
-| 76 | [Flight of the Raven](https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 3:05 |
+| 74 | [Cielo repleto de naves extraterrestres](https://open.spotify.com/track/0n7S1BxSt6BoM0iXixxi63) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Cielo repleto de naves extraterrestres](https://open.spotify.com/album/1c4Rtyw42IAbMw7PklGOnL) | 2:49 |
+| 75 | [Flight of the Raven](https://open.spotify.com/track/6PVBbkAbQVb9PxordrVHa8) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 3:05 |
+| 76 | [Shimmer and Disappear](https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Across The Meridian](https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg) | 3:15 |
 | 77 | [The Willows](https://open.spotify.com/track/0e9Zk8SwtlzNJ27ch4HIsY) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Willows](https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU) | 4:43 |
 | 78 | [Decision Point](https://open.spotify.com/track/1WnTdKCaXBWVGppcN8xttt) | [Pye Corner Audio](https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL) | [The Endless Echo](https://open.spotify.com/album/0XAjiCwyC9ykPOn8k8Gy18) | 4:32 |
 | 79 | [Young Archimedes \(feat\. BBC National Orchestra Of Wales\)](https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc) | [Will Gregory Moog Ensemble](https://open.spotify.com/artist/6DTcZj1lWLJB690Y65Aa9l), [Will Gregory](https://open.spotify.com/artist/32KmawYmxJ5tcL7Qkbegff), [BBC National Orchestra Of Wales](https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf) | [Heat Ray: The Archimedes Project](https://open.spotify.com/album/26jUvZEETVKfAZQe7XwygQ) | 3:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fidS28dvfw5PquLev6xtQ.md) - [plain]
 
 > This chart is hella sus but we gettin some changes unlike top 300 albums for real
 
-[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 53 likes - 100 songs - 13 hr 11 min
+[jimmyswagz](https://open.spotify.com/user/jimmyswagz) - 52 likes - 100 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

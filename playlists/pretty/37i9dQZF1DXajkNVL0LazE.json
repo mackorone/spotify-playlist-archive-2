@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 124462,
+  "num_followers": 124533,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-03-25 16:58:35",
       "album": {
+        "name": "The Flying Club Cup",
+        "url": "https://open.spotify.com/album/0MhyPFZNeRRP0ian13SOTp"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 230200,
+      "name": "Nantes",
+      "url": "https://open.spotify.com/track/4JvclO8lNugobD1afavcYS"
+    },
+    {
+      "added_at": "2024-03-25 16:58:35",
+      "album": {
         "name": "The Head and the Heart",
         "url": "https://open.spotify.com/album/3MhJ8lLj98SPgtiH16ZmXo"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 284000,
       "name": "Rivers and Roads",
       "url": "https://open.spotify.com/track/7d1GPc45c9wtmYxNSwLXTy"
-    },
-    {
-      "added_at": "2024-03-25 16:58:35",
-      "album": {
-        "name": "Civilian",
-        "url": "https://open.spotify.com/album/2IWn2PFFPhYexWP8fBDNp9"
-      },
-      "artists": [
-        {
-          "name": "Wye Oak",
-          "url": "https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB"
-        }
-      ],
-      "duration_ms": 220917,
-      "name": "Civilian",
-      "url": "https://open.spotify.com/track/7630alXL5HfQAHQhBam5pJ"
     }
   ],
   "unique_name": "00s Indie Folk",

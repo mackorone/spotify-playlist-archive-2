@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Kelela & PinkPantheress✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,576 likes - 257 songs - 14 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,582 likes - 257 songs - 14 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 43 | [CPR \- horsegiirL remix](https://open.spotify.com/track/7zqKqQAH2UNmlmMTxBFlvo) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [CPR \(horsegiirL remix\)](https://open.spotify.com/album/4lrANjEunaeYNOQDiUYgvC) | 3:21 |
 | 44 | [Heart](https://open.spotify.com/track/0p7xa6EfNLHiwcf130aQRT) | [Dogs I Know](https://open.spotify.com/artist/659NKYZdNCCOnkKwedxXcQ) | [Heart](https://open.spotify.com/album/6fWscyRXz4JJ58c3E2Xhpe) | 4:08 |
 | 45 | [Bubble](https://open.spotify.com/track/3vOYhr9Krj2KnFyQ0hGa84) | [Peder Mannerfelt](https://open.spotify.com/artist/3IuyAl5gMAvYhn0VjRzC1g) | [Bubble](https://open.spotify.com/album/3LfV3pbtKG7qYp5OlccE1v) | 5:30 |
-| 46 | [DID IT AGAIN](https://open.spotify.com/track/2MfWz9bUFvQyxK2lGygobj) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [DID IT AGAIN](https://open.spotify.com/album/4SAiYbnAeG0Y8jPJj51HbA) | 2:32 |
+| 46 | [DID IT AGAIN \(feat\. Fred again..\)](https://open.spotify.com/track/2MfWz9bUFvQyxK2lGygobj) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly), [Elzzz](https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [DID IT AGAIN \(feat\. Fred again..\)](https://open.spotify.com/album/4SAiYbnAeG0Y8jPJj51HbA) | 2:32 |
 | 47 | [Blue Flame](https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Play](https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx) | 3:03 |
 | 48 | [lts here](https://open.spotify.com/track/1KpkbuhBrbk3e9hO8xFWjL) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Easy EP](https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH) | 2:34 |
 | 49 | [for once](https://open.spotify.com/track/28Gw3YgKmd5hFftDJv3ktx) | [Baileyrp](https://open.spotify.com/artist/7Lbj5S2sccMdn7yDzFn5oz) | [for once](https://open.spotify.com/album/3RtuTFCCcvfwfwpxl2Ejhg) | 3:42 |

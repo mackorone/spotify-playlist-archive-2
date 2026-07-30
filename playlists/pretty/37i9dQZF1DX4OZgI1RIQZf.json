@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140923,
+  "num_followers": 140911,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
+        "name": "Screen Violence: Director's Cut",
+        "url": "https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 269640,
+      "name": "Final Girl",
+      "url": "https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
         "name": "Halloween",
         "url": "https://open.spotify.com/album/54FyAqa3iLISVu717hD05y"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 524693,
       "name": "Struggle With the Beast",
       "url": "https://open.spotify.com/track/798vsh2RF4vx5UG0ez9QBn"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
-        "name": "Screen Violence: Director's Cut",
-        "url": "https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Final Girl",
-      "url": "https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
+        "name": "To Lose My Life ...",
+        "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
+      },
+      "artists": [
+        {
+          "name": "White Lies",
+          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "To Lose My Life",
+      "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
         "name": "A Weekend In the City",
         "url": "https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 246186,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
-        "name": "To Lose My Life ...",
-        "url": "https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE"
-      },
-      "artists": [
-        {
-          "name": "White Lies",
-          "url": "https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "To Lose My Life",
-      "url": "https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt"
     },
     {
       "added_at": "2026-04-24 13:27:34",

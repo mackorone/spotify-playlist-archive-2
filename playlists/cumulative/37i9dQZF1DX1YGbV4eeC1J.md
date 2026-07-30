@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Darassa
 
-375 songs - 21 hr 0 min
+376 songs - 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Moyo](https://open.spotify.com/track/1YArqyMSdTD0Mimmk75MDq) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Moyo](https://open.spotify.com/album/5aK1AgHlTRh8yBEzubHXLB) | 2:55 | 2025-02-13 | 2025-10-17 |
 | [Moyo](https://open.spotify.com/track/4d6BHR0B4oyD7EeJ3L7qCs) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ) | [Seven](https://open.spotify.com/album/3YnzIAt9m9SJt039NYW7Gs) | 2:35 | 2026-03-27 |  |
 | [Moyo](https://open.spotify.com/track/75A2GOq6uxZsdkJGPRU5FH) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6) | [Dedication](https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg) | 3:55 | 2022-11-07 | 2023-03-18 |
+| [MOYO](https://open.spotify.com/track/2xxoFcwteaps8BFBabgIRB) | [Stans](https://open.spotify.com/artist/1rOZ12AaA5RqBYuFpJWJpR), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [MOYO](https://open.spotify.com/album/2FmE4N63p2D4niFQwqMB9G) | 3:32 | 2026-07-23 |  |
 | [Moyo](https://open.spotify.com/track/0YsbBzLZiOXFwTQ0mFYSX5) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Moyo](https://open.spotify.com/album/4OEjsxaYkOs9T5rR5uqSMu) | 3:33 | 2026-04-23 |  |
 | [Moyo](https://open.spotify.com/track/22COxRY6jsNPJDtCSX7xUd) | [Vanessa Mdee](https://open.spotify.com/artist/3RCH5MEaTPKsJwPzqGQ1w7) | [Moyo](https://open.spotify.com/album/6G4pydEf93kthE5qJlxQ8i) | 2:26 | 2022-05-26 | 2022-11-18 |
 | [Moyo](https://open.spotify.com/track/4p7r68fFE5bXHgcTrlokp0) | [Whozu](https://open.spotify.com/artist/1swMdo3gNazUp0Jao7AHy3) | [Moyo](https://open.spotify.com/album/2uwXA4cezt9I7b9oNeE0Un) | 3:02 | 2025-02-20 | 2025-08-15 |

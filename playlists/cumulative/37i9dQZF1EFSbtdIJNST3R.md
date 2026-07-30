@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oEa7f0DcvJhreGq1I3Zwe">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-83 songs - 3 hr 44 min
+84 songs - 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [501](https://open.spotify.com/track/2pAH3VEtFved36wEMIn51X) | [Bilal Wahib](https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [El Mehdi](https://open.spotify.com/album/56dovSBK0zVwjDBFgvGL3r) | 2:07 | 2022-05-25 |  |
 | [Addicted](https://open.spotify.com/track/3ngW4Y9sxBoK8abawMEZ9C) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Sevn Alias](https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc) | [Addicted](https://open.spotify.com/album/0nOUrDieoBSKrXdK43me9u) | 2:36 | 2022-05-25 |  |
 | [All or Nothing \- X Factor Recording](https://open.spotify.com/track/01Adil20VieB0bjZF6AaLe) | [No Love Lost](https://open.spotify.com/artist/5vdu6xU4LXUH3JZqAkPTsD) | [All or Nothing \(X Factor Recording\)](https://open.spotify.com/album/2fvFbxuoKBsJehXPavvQWN) | 2:02 | 2025-09-26 |  |
-| [All the Way Up](https://open.spotify.com/track/3sTRivU9ZqprFmT0e7rD5b) | [Reggie ‘N’ Bollie](https://open.spotify.com/artist/3qCIifFHqOTzTAC1Sww8ms), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Uncommon Favours](https://open.spotify.com/album/4fMDLidbvqm2HbSYGaxgva) | 3:21 | 2025-01-09 |  |
+| [All the Way Up](https://open.spotify.com/track/3sTRivU9ZqprFmT0e7rD5b) | [Reggie ‘N’ Bollie](https://open.spotify.com/artist/3qCIifFHqOTzTAC1Sww8ms), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Uncommon Favours](https://open.spotify.com/album/4fMDLidbvqm2HbSYGaxgva) | 3:21 | 2025-01-09 | 2026-07-30 |
+| [All the Way Up \- Afromix by Victizzle](https://open.spotify.com/track/1i8yp9eC5osY3kDdPPvUpF) | [Reggie ‘N’ Bollie](https://open.spotify.com/artist/3qCIifFHqOTzTAC1Sww8ms), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Victizzle](https://open.spotify.com/artist/26ysY3T9kQzZGDsESHl7fS) | [On the Floor \(Afromix by Victizzle\)](https://open.spotify.com/album/6BXFY3zYqTppO8evVfXQUO) | 3:28 | 2026-07-29 |  |
 | [Alle Mannen Zijn Honden](https://open.spotify.com/track/5g3zVSmOnKKXBgbTM4l1ea) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Alle Mannen Zijn Honden](https://open.spotify.com/album/4ZBDiEfJCFnEDmGCGy9tFt) | 2:36 | 2025-12-04 |  |
 | [Als Ik Haar Was](https://open.spotify.com/track/0mOdv3w3W9ZkAsTmlJ3rUs) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:45 | 2023-07-28 |  |
 | [Als Ik Haar Was](https://open.spotify.com/track/5IBW1Rni8F0CRSCuHQhVRr) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet \(Als Ik Haar Was\)](https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I) | 2:45 | 2023-07-20 | 2023-07-29 |

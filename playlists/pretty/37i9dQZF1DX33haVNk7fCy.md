@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,478 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,571 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 49 | [Jiyaa](https://open.spotify.com/track/3zeoa4xhudPrJ2trQarPB5) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [I Loved You](https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq) | 3:23 |
 | 50 | [Bechari](https://open.spotify.com/track/6VVMuz3uTe7EYEmBglksGb) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Bechari](https://open.spotify.com/album/6wAUIl8geX8NIrYlBLe2Xj) | 4:43 |
 
-Snapshot ID: `AAAAAB1E5cmqwYPBwv2b8CYVB9cl7oZ2`
+Snapshot ID: `AAAAALWjhaDS8F18TbyaYGA/rm18Z4kL`

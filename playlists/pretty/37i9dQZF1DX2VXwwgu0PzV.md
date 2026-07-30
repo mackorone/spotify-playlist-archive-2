@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Rotimi Keys & Greatman Takit
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,921 likes - 149 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,938 likes - 149 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 51 | [Forever](https://open.spotify.com/track/3SNJP6cLLCofkKucLeuuLq) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Worship & Rap \(WAR\)](https://open.spotify.com/album/43SIoLKM59lL603KWslN8D) | 3:51 |
 | 52 | [Ikeze](https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Ikeze](https://open.spotify.com/album/6vPMxNFkNChotelcABKFpJ) | 1:46 |
 | 53 | [WE GONNA CHANGE THE WORLD](https://open.spotify.com/track/5PkLXkED4mhBciMK44K4BL) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [WE GONNA CHANGE THE WORLD](https://open.spotify.com/album/1oplA0hjyGaViv5gCo6WkL) | 3:32 |
-| 54 | [No Worries](https://open.spotify.com/track/03f8OvJswTWQfPzYdz0PGr) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [No Worries](https://open.spotify.com/album/4wNMUQXqzdt9XR0R89Pg67) | 3:54 |
+| 54 | [No Worries](https://open.spotify.com/track/03f8OvJswTWQfPzYdz0PGr) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [No Worries](https://open.spotify.com/album/4wNMUQXqzdt9XR0R89Pg67) | 3:56 |
 | 55 | [Ran mi lowo](https://open.spotify.com/track/7vqoJt4EBWSXa5ndSAsVC5) | [WINNER WAYS.](https://open.spotify.com/artist/29L1pzmDzW3P2FmQBovIFK), [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Be nn](https://open.spotify.com/artist/4xAwAuH1fyr2NSBuKMcW7O) | [Ran mi lowo](https://open.spotify.com/album/1R2tT5MDpmdz6pQLgDgkBs) | 2:49 |
 | 56 | [EZI CHINEKE \(DRILL\)](https://open.spotify.com/track/4LNulzWo7heM1Kznwfrm0t) | [Trenches Man](https://open.spotify.com/artist/4RqMgE1wtKcbcV7n6t5zPa), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [EZI CHINEKE \(DRILL\)](https://open.spotify.com/album/5VLznNKBObYkZUtvfjFe6j) | 3:12 |
 | 57 | [My Lovaa](https://open.spotify.com/track/6CMNOeLoFrtoLJ0tOyqjD4) | [StraTeGee](https://open.spotify.com/artist/4utqTLxdOhcJAAq0DXL6PR) | [My Lovaa](https://open.spotify.com/album/1Kebf3KL7OYy9DMhNETrKk) | 3:27 |

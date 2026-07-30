@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,433 songs - 5 day 23 hr 15 min
+2,435 songs - 5 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [DON JOSÉ](https://open.spotify.com/track/6PnyBXXOnhM0cumDIy4He3) | [El Punto Cardinal](https://open.spotify.com/artist/6vEp4t3ZjlmWYJbzc6OTUE) | [DON JOSÉ](https://open.spotify.com/album/58uAz87OfcgRwB0o5evMPY) | 4:24 | 2026-04-18 |  |
 | [Don't Give Up](https://open.spotify.com/track/7FjhQCzRb6Gosec1DzVgCV) | [Bagjuice](https://open.spotify.com/artist/4oWnABl83YPO88wXnPflld) | [Reggae Sunjam](https://open.spotify.com/album/6kYiNLr72LY5Wdz98ArSi2) | 4:18 | 2024-03-23 |  |
 | [Don't Look Back in Anger](https://open.spotify.com/track/2FBkcodY7UuGAhXibIyAGC) | [Shadows Become Substance](https://open.spotify.com/artist/7D2Dx35nAzENA8TqOTeVUm) | [The Land Of Ambiguity](https://open.spotify.com/album/0Ci7sRw04ZlOaRvYjnLGsC) | 4:32 | 2025-12-20 |  |
+| [Don't Say Goodbye](https://open.spotify.com/track/6DtJ6Nyuhr50ooAAnzeQUP) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Don't Say Goodbye](https://open.spotify.com/album/6rZrZwQZpy20yw9RoEfnlY) | 3:46 | 2026-07-29 |  |
 | [Don't Wanna Leave](https://open.spotify.com/track/0DgRl8r8V2I64OJHswUHTg) | [Matt B](https://open.spotify.com/artist/5UIhurWmSlzXbfilRY4DPd) | [Don't Wanna Leave](https://open.spotify.com/album/14mV820Kf9b5W1UVaE8iHY) | 3:26 | 2025-10-07 |  |
 | [Donde Caben Mis Sueños](https://open.spotify.com/track/2JbLGmbohs2648kDXsqJD9) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [Donde Caben Mis Sueños](https://open.spotify.com/album/2Agar5A3Iwtqs2JdXhX0qb) | 1:37 | 2026-03-12 |  |
 | [Donna](https://open.spotify.com/track/66sdHutyhAscFkVzSW4TIA) | [LadyCatFree](https://open.spotify.com/artist/1QOBbwFFEiby0ceGMMwzRO) | [Freedom](https://open.spotify.com/album/3tsDWU8dCCgwpBloj9AVG0) | 3:22 | 2024-06-24 |  |
@@ -1306,6 +1307,7 @@
 | [Meditherranea \- Extended Mix](https://open.spotify.com/track/3nXIC0ZTnJWq5Cz8VEPSHf) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Meditherranea](https://open.spotify.com/album/1uthMs99V5UMokSF7FNyIH) | 4:03 | 2026-05-28 |  |
 | [Meglio \(feat\. Pinguini Tattici Nucleari\)](https://open.spotify.com/track/0FWI6Glw2QagTUM8XI2d9U) | [Bugo](https://open.spotify.com/artist/01U4yWwtUKMckbI55OiT7g), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Bugatti Cristian](https://open.spotify.com/album/2JFwpVw1ZdevcYCWPrOZKF) | 3:28 | 2023-03-15 |  |
 | [Mejorar la Especie](https://open.spotify.com/track/2fHnu29xq4544B0aXdwAow) | [KOT3](https://open.spotify.com/artist/7DqmUSavZkieKNaHxVSaCM) | [Mejorar la Especie](https://open.spotify.com/album/27awH2vQ8fb0UH2e7rVA9Q) | 2:54 | 2025-08-05 |  |
+| [Melancholic Lo\-Fi \(Viral Beats for Your Sad Day\)](https://open.spotify.com/track/4kRhvuIfb8XJXLxUFqkNBo) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Melancholic Lo\-Fi \(Viral Beats for Your Sad Day\)](https://open.spotify.com/album/0mO1SOaqVHn8z8hXm01f1M) | 2:58 | 2026-07-29 |  |
 | [Mellow](https://open.spotify.com/track/2CVk6XYIXcjx6YuAJSMW2p) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 2:43 | 2026-02-05 |  |
 | [Melodica Cut](https://open.spotify.com/track/16fOuh5pqIfPMebJIFc8lU) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh) | [Leaving Babylon Behind](https://open.spotify.com/album/4AnzOMT8dJ11pxrIx09IqG) | 3:27 | 2024-10-20 |  |
 | [Melodica Cut](https://open.spotify.com/track/1dhPSoTFXjjuSb0vdTK7XY) | [dub cmd](https://open.spotify.com/artist/0rmgh8IDlWiipBDcm51cPw), [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh) | [Blessed](https://open.spotify.com/album/7FidJA5VFOziqJcXAs8Q3c) | 3:39 | 2024-05-01 |  |

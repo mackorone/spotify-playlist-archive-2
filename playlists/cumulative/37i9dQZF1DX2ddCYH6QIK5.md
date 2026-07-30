@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Amigo Altmark, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: zway, Artwork: Isu Kim
 
-1,691 songs - 3 day 21 hr 59 min
+1,693 songs - 3 day 22 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Apotropaion](https://open.spotify.com/track/6wjHOZzykb9tf3C8RqI9xT) | [Teng](https://open.spotify.com/artist/60me2hl1vytSupEYLQ5zSn) | [Apotropaion](https://open.spotify.com/album/5Tw2yUJwfEKPgpVdLDdiKI) | 2:16 | 2022-03-16 | 2022-03-24 |
 | [Arbeit und Struktur](https://open.spotify.com/track/1xhxXNRDW0FjkCxPQPxVa3) | [Hotel Rimini](https://open.spotify.com/artist/7biB33wdoy2Kz0sKoGfj53) | [Arbeit und Struktur](https://open.spotify.com/album/3mQjdSK4HcsB61Vf7W0Slm) | 4:08 | 2022-05-04 | 2023-01-05 |
 | [Archive Folder](https://open.spotify.com/track/7KmkP7LfMIH4FLP4MNgmCq) | [FINE.](https://open.spotify.com/artist/4asOB3NDvX82XNePNZpqQj) | [Archive Folder](https://open.spotify.com/album/19Ld6Z8NDFSvDfJbwZLsx7) | 2:44 | 2026-04-15 |  |
-| [Aren't You Tired](https://open.spotify.com/track/5T3xo6PR0KfpbxPZ8MeMAf) | [Deer Anna](https://open.spotify.com/artist/5hABsIK82aH9pts5yoZO6V) | [Aren't You Tired](https://open.spotify.com/album/4OchpAq4iR4nlUt1i3SDVK) | 3:36 | 2026-07-15 |  |
+| [Aren't You Tired](https://open.spotify.com/track/5T3xo6PR0KfpbxPZ8MeMAf) | [Deer Anna](https://open.spotify.com/artist/5hABsIK82aH9pts5yoZO6V) | [Aren't You Tired](https://open.spotify.com/album/4OchpAq4iR4nlUt1i3SDVK) | 3:36 | 2026-07-15 | 2026-07-30 |
 | [ARM](https://open.spotify.com/track/5SEj49J7GiVe26ZV6FEUUW) | [xena](https://open.spotify.com/artist/1Y95RMBfKhdP7ura9dM82W) | [ARM](https://open.spotify.com/album/1DTo5HHJtXd09C1qCkpEd2) | 2:54 | 2024-02-21 | 2024-06-27 |
 | [Art und Weise](https://open.spotify.com/track/1yh0I7f6gMQLZF5wr7RHLx) | [JUPYTER](https://open.spotify.com/artist/4rmUcQqtKz1NLA2f23W041) | [Art und Weise](https://open.spotify.com/album/0f9er9ha0bbTwoZsdP5myK) | 3:29 | 2023-05-31 | 2024-01-04 |
 | [Artist](https://open.spotify.com/track/0KE7stt2dZpcovegDpJoik) | [EsRAP](https://open.spotify.com/artist/3vmdW6YyGDEMYioWljS74k) | [Artist](https://open.spotify.com/album/1bFsQ1HqrYUmtWyZ3lSVBN) | 2:08 | 2022-01-05 | 2022-01-13 |
@@ -415,6 +415,7 @@
 | [Du Bist Hier](https://open.spotify.com/track/2mMMDJM85hhd5vtoQK75U7) | [Skydrips](https://open.spotify.com/artist/2XGDgA9EWonvKbyRwQazTF), [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3) | [Du Bist Hier](https://open.spotify.com/album/04wCKH2hb2simGmejgKYux) | 5:08 | 2023-08-16 | 2023-10-26 |
 | [Du bist wie](https://open.spotify.com/track/4RjV7KgAaGvujkv1rpifRU) | [Laurenz Nikolaus](https://open.spotify.com/artist/0Sml2R0cEKWDqHaVLavNQq) | [Du bist wie](https://open.spotify.com/album/68wZ1sJlRYXPCZKXW3lhdH) | 2:24 | 2025-07-30 | 2026-02-06 |
 | [du bleibst](https://open.spotify.com/track/7riZdelgc5zAYScR0s8Aq7) | [JOPPE](https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE) | [du bleibst](https://open.spotify.com/album/42iPVnvfAxk67gW298MDet) | 2:27 | 2024-04-24 | 2024-09-26 |
+| [Du drehst dich](https://open.spotify.com/track/4OnGS7x3t1Uh0Uyskg7cVJ) | [ELEO](https://open.spotify.com/artist/4uVx18pmKi2qLX0vLKfhfC) | [Du drehst dich](https://open.spotify.com/album/2Kv1Ss5NwYnVpPdP3obmE8) | 2:38 | 2026-07-29 |  |
 | [Duality](https://open.spotify.com/track/5NoIDaacAEA4UEWn9qXIhA) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG) | [Duality](https://open.spotify.com/album/5t4AQmpVHpPk8vEoLRTlGJ) | 3:26 | 2023-03-08 | 2023-09-07 |
 | [Dumbo](https://open.spotify.com/track/2W1AFZlcRJVkWvHcILJ723) | [Qeller](https://open.spotify.com/artist/1jgKcBppoulN7OroLDnzTM) | [Dumbo](https://open.spotify.com/album/5f1YaBzIRarXKA8jTxvU3z) | 3:25 | 2025-05-07 | 2026-01-15 |
 | [Dunkelheit](https://open.spotify.com/track/2s6seqO1Jn4hAWVUfBQJgc) | [DAS MAER](https://open.spotify.com/artist/6vKS2FutGrrrapam0RDd4T) | [Momoko](https://open.spotify.com/album/346vi2eDqGG0twwDaGgBBH) | 5:29 | 2022-08-24 | 2022-10-26 |
@@ -840,6 +841,7 @@
 | [Klein Maria](https://open.spotify.com/track/1uuSZilbBbnCIIboGrUU7k) | [Lilli Belle](https://open.spotify.com/artist/5gH1N6dCnL6tqDJzB05iSt) | [Klein Maria](https://open.spotify.com/album/7q8MswmeFi3csKyGGOrMSj) | 5:00 | 2024-10-16 | 2024-11-14 |
 | [Kleine Dinge](https://open.spotify.com/track/3UG6OJYtVAVNi8fNiOCz1c) | [ALIVEMAEX](https://open.spotify.com/artist/0aiBlkcHQ2Nqta7K7JBS3d) | [Kleine Dinge](https://open.spotify.com/album/4eVZKoCeqqqZzgWlvLjESs) | 3:17 | 2024-07-16 | 2024-12-05 |
 | [Kleine Welt](https://open.spotify.com/track/7DBd11oIU57fsJE5lNDKbV) | [gereon](https://open.spotify.com/artist/565n6lo7aHtnqFDCN8HVtP) | [Kleine Welt](https://open.spotify.com/album/2JxT9diBNS5zMeBJDMfmsP) | 3:10 | 2025-07-16 | 2025-09-11 |
+| [Kleiner Drei <3](https://open.spotify.com/track/1tNSVqJZreLeRSNrqgAKo9) | [zway](https://open.spotify.com/artist/0882UwyjJw0gyvAarU3PlB) | [Kleiner Drei <3](https://open.spotify.com/album/4sjtC4aO6g3pRiepMVMNqq) | 2:09 | 2026-07-29 |  |
 | [Know For Sure](https://open.spotify.com/track/5MwCStvgi7bAaIAJejufaA) | [Lorena Handschin](https://open.spotify.com/artist/2fpEUSUvWoU53RPcSCuaLo) | [Know For Sure](https://open.spotify.com/album/54ZfbbaiYJHukPVtMlCLFr) | 3:42 | 2024-05-29 | 2024-10-24 |
 | [Koksen](https://open.spotify.com/track/1AoduvZ64JqQdxU5YqBfNx) | [Kitti Ciao](https://open.spotify.com/artist/0UE7B3yCMnx5xUKjfe9oJk) | [Koksen](https://open.spotify.com/album/0paibEqEGgJwcc4a6nq1Qo) | 3:05 | 2025-01-22 | 2025-07-31 |
 | [Kommst du mit?](https://open.spotify.com/track/0CdXC4Jg7ZBaDplObNSedz) | [NIKRA](https://open.spotify.com/artist/4KMMyH96yGknUQZZ6MDFmt) | [Kommst du mit?](https://open.spotify.com/album/6A8F9XM9ASRnUnqSq6abqX) | 2:47 | 2022-04-20 | 2022-06-01 |
@@ -1235,7 +1237,7 @@
 | [Rosenkohl](https://open.spotify.com/track/2cJYzrox3QphJpiwqAVwis) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Rosenkohl](https://open.spotify.com/album/3NQOMc1QfESj79ZSzfA0C5) | 2:42 | 2023-09-27 | 2024-03-09 |
 | [Rosenkohl](https://open.spotify.com/track/5imD5rZGzUiekhPFNy87m7) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Rosenkohl](https://open.spotify.com/album/5srSpRi5eecnIzIWU3dxlQ) | 2:42 | 2024-02-21 | 2024-03-28 |
 | [rot](https://open.spotify.com/track/1SgZsKhdUZMfzlDn0m2Zxp) | [yuice](https://open.spotify.com/artist/3HzRdBRqO4fYCxe50wLXx7), [THANI](https://open.spotify.com/artist/5jHALRUt9wOCZcJVyLPdRh) | [rot](https://open.spotify.com/album/3VXcIEL0dPR7GIiw6hqRMp) | 2:30 | 2025-11-12 | 2026-04-16 |
-| [rote augen](https://open.spotify.com/track/05rLYOXgp7FhUjtiIv2ywI) | [JAY](https://open.spotify.com/artist/4QtAqd6KkuysCHWw96R9pe) | [rote augen](https://open.spotify.com/album/2nJX5vtDUHJFPLK5FbGmQy) | 3:02 | 2026-04-29 |  |
+| [rote augen](https://open.spotify.com/track/05rLYOXgp7FhUjtiIv2ywI) | [JAY](https://open.spotify.com/artist/4QtAqd6KkuysCHWw96R9pe) | [rote augen](https://open.spotify.com/album/2nJX5vtDUHJFPLK5FbGmQy) | 3:02 | 2026-04-29 | 2026-07-30 |
 | [Roter Panda](https://open.spotify.com/track/5o0eyaSST2DOLTklv4wbi1) | [puni.](https://open.spotify.com/artist/7HdTH40abg8Vzc6b1paN6a) | [Roter Panda](https://open.spotify.com/album/7m98nn7oSdKbFUdKaflITi) | 2:21 | 2024-03-20 | 2024-04-11 |
 | [Rough](https://open.spotify.com/track/6BoJLaVyVxyVRuUOqnTaYt) | [TONI MOR](https://open.spotify.com/artist/42BwyMTFHszNwXEnPc8gIJ) | [Rough](https://open.spotify.com/album/0DWhVS9ANfq3s1g6rMaDg0) | 2:34 | 2026-02-18 |  |
 | [Round Around](https://open.spotify.com/track/1zPssv4lqLQEm1AawunhoS) | [JA:CK](https://open.spotify.com/artist/33roiDwMgXEydzvBwn9NR7) | [Round Around](https://open.spotify.com/album/5zimKf9QPGPHWY6bpz4CDp) | 7:40 | 2023-02-08 | 2023-03-23 |

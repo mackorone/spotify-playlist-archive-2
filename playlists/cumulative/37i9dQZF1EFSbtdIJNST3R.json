@@ -214,10 +214,36 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 201230,
       "name": "All the Way Up",
       "url": "https://open.spotify.com/track/3sTRivU9ZqprFmT0e7rD5b"
+    },
+    {
+      "album": {
+        "name": "On the Floor (Afromix by Victizzle)",
+        "url": "https://open.spotify.com/album/6BXFY3zYqTppO8evVfXQUO"
+      },
+      "artists": [
+        {
+          "name": "Reggie \u2018N\u2019 Bollie",
+          "url": "https://open.spotify.com/artist/3qCIifFHqOTzTAC1Sww8ms"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Victizzle",
+          "url": "https://open.spotify.com/artist/26ysY3T9kQzZGDsESHl7fS"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "All the Way Up - Afromix by Victizzle",
+      "url": "https://open.spotify.com/track/1i8yp9eC5osY3kDdPPvUpF"
     },
     {
       "album": {

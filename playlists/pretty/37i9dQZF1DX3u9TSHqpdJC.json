@@ -1,13 +1,193 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.   Cover: Mercer Artwork by Paola Saliby",
-  "num_followers": 242260,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Babe America Artwork by Paola Saliby",
+  "num_followers": 242262,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB4M1iqGz0GeN4BKuM5H7ST867Sn",
+  "snapshot_id": "AAAAACgKhrn7tw/u+J62XGT6idn6Zea6",
   "tracks": [
+    {
+      "added_at": "2026-07-29 04:00:18",
+      "album": {
+        "name": "ANGELFOODCAKE",
+        "url": "https://open.spotify.com/album/2X1juJXzvB8YVuioMOH848"
+      },
+      "artists": [
+        {
+          "name": "Babe America",
+          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "CANDYNECKLACE",
+      "url": "https://open.spotify.com/track/0OCNB7aZHcl4FmBjfvR844"
+    },
+    {
+      "added_at": "2026-07-29 04:00:18",
+      "album": {
+        "name": "kill switch",
+        "url": "https://open.spotify.com/album/7vpGv35o4wXu23WqywsRCy"
+      },
+      "artists": [
+        {
+          "name": "Sophia Willingham",
+          "url": "https://open.spotify.com/artist/1uL7IYgtoRk00bosKsnBVg"
+        },
+        {
+          "name": "Elisheva",
+          "url": "https://open.spotify.com/artist/5wygSRMx1cdP30d3IkZTsD"
+        }
+      ],
+      "duration_ms": 132983,
+      "name": "kill switch",
+      "url": "https://open.spotify.com/track/2lvz3o16FUDuGOQyr83Afm"
+    },
+    {
+      "added_at": "2026-07-29 04:00:18",
+      "album": {
+        "name": "See You in the Summer",
+        "url": "https://open.spotify.com/album/0T7sPKFNVkOgawv6t6U1IM"
+      },
+      "artists": [
+        {
+          "name": "Oscar Stembridge",
+          "url": "https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9"
+        }
+      ],
+      "duration_ms": 185301,
+      "name": "See You in the Summer",
+      "url": "https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7"
+    },
+    {
+      "added_at": "2026-07-29 15:13:04",
+      "album": {
+        "name": "Before The Magic Shattered",
+        "url": "https://open.spotify.com/album/29otka7XAGxlcvkSBL52Ts"
+      },
+      "artists": [
+        {
+          "name": "Sophie Saint",
+          "url": "https://open.spotify.com/artist/5CRJ8xa1BJNgONmWsL8tva"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Before The Magic Shattered",
+      "url": "https://open.spotify.com/track/2cpuXUKtONY2WoxjuxgbF8"
+    },
+    {
+      "added_at": "2026-07-29 04:00:18",
+      "album": {
+        "name": "Boystore",
+        "url": "https://open.spotify.com/album/4J4wj2xK35OtyhVQpKATGf"
+      },
+      "artists": [
+        {
+          "name": "Cate Tomlinson",
+          "url": "https://open.spotify.com/artist/44JI8Kf7e9qDhfEebdD2Y2"
+        }
+      ],
+      "duration_ms": 163552,
+      "name": "Boystore",
+      "url": "https://open.spotify.com/track/3fAa3Wl8wDwcfDlWMad5PY"
+    },
+    {
+      "added_at": "2026-07-29 04:00:18",
+      "album": {
+        "name": "Experiment",
+        "url": "https://open.spotify.com/album/3rn9DuGpBKyFHesuTFMdHa"
+      },
+      "artists": [
+        {
+          "name": "EMMMA",
+          "url": "https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd"
+        }
+      ],
+      "duration_ms": 154029,
+      "name": "Experiment",
+      "url": "https://open.spotify.com/track/1vavMPmK52RKpWUvKWgpL2"
+    },
+    {
+      "added_at": "2026-07-29 04:00:18",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/0zL2XiJgWo3Hck6lF97oCS"
+      },
+      "artists": [
+        {
+          "name": "Ruby Poole",
+          "url": "https://open.spotify.com/artist/4NOjKCalI88oi54IV7vJ7o"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/5E0hXNBZHBVNa67rIzlACp"
+    },
+    {
+      "added_at": "2026-07-29 04:00:18",
+      "album": {
+        "name": "Through generations",
+        "url": "https://open.spotify.com/album/31DzAhee5Df46BvPQW2QxH"
+      },
+      "artists": [
+        {
+          "name": "Dalia",
+          "url": "https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p"
+        }
+      ],
+      "duration_ms": 243287,
+      "name": "Through generations",
+      "url": "https://open.spotify.com/track/6hM2tgX36Cd8zCq3hIpo1p"
+    },
+    {
+      "added_at": "2026-07-29 04:00:18",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/3EGmOnZbEZvvrLzVpplOZn"
+      },
+      "artists": [
+        {
+          "name": "Girl Next Door",
+          "url": "https://open.spotify.com/artist/2GcwnRAvAnt22dhoXTJidP"
+        }
+      ],
+      "duration_ms": 180242,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/0V8BL2RzUCp1ZpRJ4YAhjO"
+    },
+    {
+      "added_at": "2026-07-29 04:00:18",
+      "album": {
+        "name": "Slipping Away",
+        "url": "https://open.spotify.com/album/0n1gphXlh9IiNbikGL0rDN"
+      },
+      "artists": [
+        {
+          "name": "Aiden Kroll",
+          "url": "https://open.spotify.com/artist/4AH4IR4NtlSI9JN1y7Qz96"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/24sKXsgCVOc75p7eRPSWMW"
+    },
+    {
+      "added_at": "2026-07-29 04:00:18",
+      "album": {
+        "name": "Dog Eat Dog",
+        "url": "https://open.spotify.com/album/4bILNAXwcGihDUjmVgAhEm"
+      },
+      "artists": [
+        {
+          "name": "Blythe Davis",
+          "url": "https://open.spotify.com/artist/6RNermUlnKUObFevCqWilw"
+        }
+      ],
+      "duration_ms": 95914,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/0gRz83ZKPFM7mI0DFu1bRD"
+    },
     {
       "added_at": "2026-07-15 04:00:28",
       "album": {
@@ -555,22 +735,6 @@
     {
       "added_at": "2026-06-24 06:43:25",
       "album": {
-        "name": "She Belongs To Me",
-        "url": "https://open.spotify.com/album/7KanoDd12S4DNUH8wRoOjP"
-      },
-      "artists": [
-        {
-          "name": "Sophie Saint",
-          "url": "https://open.spotify.com/artist/5CRJ8xa1BJNgONmWsL8tva"
-        }
-      ],
-      "duration_ms": 170998,
-      "name": "She Belongs To Me",
-      "url": "https://open.spotify.com/track/6bu0R7UPZyibLGCoeOs1tH"
-    },
-    {
-      "added_at": "2026-06-24 06:43:25",
-      "album": {
         "name": "I Wish I Didn't Care",
         "url": "https://open.spotify.com/album/2fwufOZ2Gyk3Vh3XQZIxnu"
       },
@@ -985,22 +1149,6 @@
       "url": "https://open.spotify.com/track/4xR7d9UnjwGR4v3EVvQPuZ"
     },
     {
-      "added_at": "2026-05-06 15:27:46",
-      "album": {
-        "name": "TIMESNEWROMAN",
-        "url": "https://open.spotify.com/album/4lKEiscDZnEjDAZUBNdNHk"
-      },
-      "artists": [
-        {
-          "name": "Babe America",
-          "url": "https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z"
-        }
-      ],
-      "duration_ms": 158101,
-      "name": "TIMESNEWROMAN",
-      "url": "https://open.spotify.com/track/0bnSXl0lY92annYcbgo1T2"
-    },
-    {
       "added_at": "2026-04-29 04:00:30",
       "album": {
         "name": "All Over It",
@@ -1017,22 +1165,6 @@
       "url": "https://open.spotify.com/track/4bYdCaoSdIMwDCyE4IqUnr"
     },
     {
-      "added_at": "2026-04-29 04:00:30",
-      "album": {
-        "name": "papercut",
-        "url": "https://open.spotify.com/album/1fIkrh2MTVQs928bBy8AQK"
-      },
-      "artists": [
-        {
-          "name": "ENNA",
-          "url": "https://open.spotify.com/artist/1TbnLBzj5rSZeoM522CwhS"
-        }
-      ],
-      "duration_ms": 183543,
-      "name": "papercut",
-      "url": "https://open.spotify.com/track/4f3O9Ws3QdyaCUmye01Rmk"
-    },
-    {
       "added_at": "2026-03-04 05:00:33",
       "album": {
         "name": "Aren't You Curious?",
@@ -1047,150 +1179,6 @@
       "duration_ms": 184294,
       "name": "Curious",
       "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
-    },
-    {
-      "added_at": "2026-04-22 04:00:09",
-      "album": {
-        "name": "001",
-        "url": "https://open.spotify.com/album/5c9FP6mRrhRbCNLrP3NqBC"
-      },
-      "artists": [
-        {
-          "name": "mra",
-          "url": "https://open.spotify.com/artist/5ICv05L4fcvG3i8l6yEoWA"
-        }
-      ],
-      "duration_ms": 220655,
-      "name": "Critical",
-      "url": "https://open.spotify.com/track/4TYZUb95asPHvyT5mfrJ2y"
-    },
-    {
-      "added_at": "2026-04-22 04:00:09",
-      "album": {
-        "name": "Overwhelmed",
-        "url": "https://open.spotify.com/album/0M1WroYGkSi8IJ8lKVT691"
-      },
-      "artists": [
-        {
-          "name": "Ava Ro",
-          "url": "https://open.spotify.com/artist/3dtibWWBFanW0n3GYu8NIU"
-        }
-      ],
-      "duration_ms": 212811,
-      "name": "Overwhelmed",
-      "url": "https://open.spotify.com/track/1cY7aYp1ioUC4mkPTT2qpf"
-    },
-    {
-      "added_at": "2026-04-22 04:00:09",
-      "album": {
-        "name": "MANIFESTO",
-        "url": "https://open.spotify.com/album/7FjnhKX5JtkOwuEOO7GbGg"
-      },
-      "artists": [
-        {
-          "name": "Claar",
-          "url": "https://open.spotify.com/artist/2GTZtqW1zQ1KGf4KvRPBXa"
-        }
-      ],
-      "duration_ms": 145344,
-      "name": "MANIFESTO",
-      "url": "https://open.spotify.com/track/1UsW8IrC76C6iC9uHTvKne"
-    },
-    {
-      "added_at": "2026-04-15 04:00:17",
-      "album": {
-        "name": "From My Side",
-        "url": "https://open.spotify.com/album/5vmJ1xWkA9gU8IBSn6gAck"
-      },
-      "artists": [
-        {
-          "name": "Karly Bowman",
-          "url": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6"
-        }
-      ],
-      "duration_ms": 186334,
-      "name": "Next To Me",
-      "url": "https://open.spotify.com/track/2JkJ3ju8snOnciAw7YRC92"
-    },
-    {
-      "added_at": "2026-04-08 04:00:32",
-      "album": {
-        "name": "Angelina",
-        "url": "https://open.spotify.com/album/200LAacp5mXwgFAr490iKq"
-      },
-      "artists": [
-        {
-          "name": "Tsatsamis",
-          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Angelina",
-      "url": "https://open.spotify.com/track/5UKlKiy1ijaCNFNPJxExa7"
-    },
-    {
-      "added_at": "2026-04-08 04:00:32",
-      "album": {
-        "name": "Roam",
-        "url": "https://open.spotify.com/album/2HUP3QfEt4xyrpWdD7nYEq"
-      },
-      "artists": [
-        {
-          "name": "Tabi Gervis",
-          "url": "https://open.spotify.com/artist/6OSOFnMPlyn8gHxIhEpSyI"
-        }
-      ],
-      "duration_ms": 211305,
-      "name": "Roam",
-      "url": "https://open.spotify.com/track/7y2ZhWbOT2exeBNFlTOcs2"
-    },
-    {
-      "added_at": "2026-04-08 04:00:32",
-      "album": {
-        "name": "Anotha' Way",
-        "url": "https://open.spotify.com/album/0a21FxjkTpMhJ2GRRdV5Fm"
-      },
-      "artists": [
-        {
-          "name": "Addison Dean",
-          "url": "https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Anotha' Way",
-      "url": "https://open.spotify.com/track/6boBNBU8DOlmhiX6CHlz4i"
-    },
-    {
-      "added_at": "2026-04-01 04:00:18",
-      "album": {
-        "name": "Ladder",
-        "url": "https://open.spotify.com/album/4v1tuyoBHh0F60UbAo7NcZ"
-      },
-      "artists": [
-        {
-          "name": "Sky Li",
-          "url": "https://open.spotify.com/artist/48A3DvHsdcfA9Ethck3DcI"
-        }
-      ],
-      "duration_ms": 194895,
-      "name": "Ladder",
-      "url": "https://open.spotify.com/track/3vRVeGYoJGYSkbka121cx2"
-    },
-    {
-      "added_at": "2026-04-01 04:00:18",
-      "album": {
-        "name": "E2E",
-        "url": "https://open.spotify.com/album/31tmdkhoxjChUpoe6x4wsd"
-      },
-      "artists": [
-        {
-          "name": "EARTH TO EMILY",
-          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
-        }
-      ],
-      "duration_ms": 156067,
-      "name": "HANDS",
-      "url": "https://open.spotify.com/track/6LERtOJrTXTKq5J391pDLA"
     },
     {
       "added_at": "2026-03-25 04:00:19",

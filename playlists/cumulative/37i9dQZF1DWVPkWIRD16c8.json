@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Devil In The Water",
+        "url": "https://open.spotify.com/album/2qkjXIonO3FZbiZsAnU53O"
+      },
+      "artists": [
+        {
+          "name": "Hailey Hutcheson",
+          "url": "https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176162,
+      "name": "Devil In The Water",
+      "url": "https://open.spotify.com/track/2JNQDnUAuL9HAsbDt8wGbQ"
+    },
+    {
+      "album": {
         "name": "Do It All Alone",
         "url": "https://open.spotify.com/album/65x0XC9A6bz7O81n67Sxjy"
       },
@@ -5332,7 +5350,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 248960,
       "name": "We Could Run Away",
       "url": "https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk"

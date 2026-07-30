@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Adhvik
 
-703 songs - 1 day 15 hr 52 min
+704 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Ninna Benna Haadi](https://open.spotify.com/track/7rJKZAjD15dDMyogLzmcRN) | [Pavan Kumar N R](https://open.spotify.com/artist/3bU2PMblhilv78x5bCCimy), [Pavan Kumar](https://open.spotify.com/artist/0O9NcedvhpUsBKGKFgFdfF) | [Ninna Benna Haadi](https://open.spotify.com/album/0rZA4ah0v6KbsJB9JyYmOV) | 2:36 | 2024-12-12 | 2025-03-20 |
 | [Ninna Bitre](https://open.spotify.com/track/6L5O8chJfyrfCAdLgAB9Ux) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Ninna Bitre](https://open.spotify.com/album/1IPsEqLhi5ZM8j2XFowtIs) | 3:26 | 2026-06-11 |  |
 | [Ninna Daari Kaayutali](https://open.spotify.com/track/3ooOeJYHc8J2xwJpmN5jmo) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr) | [Ninna Daari Kaayutali](https://open.spotify.com/album/3LJwZsVk3zi3uhVIg3R0kC) | 3:09 | 2026-05-08 |  |
+| [Ninna Kandaga](https://open.spotify.com/track/1q9bn33EOuq7SREVbXP5jo) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Ninna Kandaga](https://open.spotify.com/album/55iZSyfPnWk0yMEiFN64uo) | 2:48 | 2026-07-29 |  |
 | [Ninna Maatu](https://open.spotify.com/track/3ZYUDXKEHiZt165iWMHoiT) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Genius 7.0](https://open.spotify.com/artist/2nUMj3rQJbYwn47xH0UYnV) | [Ninna Maatu](https://open.spotify.com/album/3wx0ENl8ddRFBiHdmLDOIX) | 3:46 | 2023-04-06 | 2023-12-23 |
 | [Ninna Maduveyali](https://open.spotify.com/track/2RIO50cubGPxhSaf7lbA21) | [Sabik Sabi Puttur](https://open.spotify.com/artist/0ZUVnvAf9j1zQ8PVrROBQG), [Niyaz Nijju](https://open.spotify.com/artist/70VuXJ5CAUJyuYTBHfTnt7) | [Ninna Maduveyali](https://open.spotify.com/album/2v4iLTmeYe1J3WFQN9Qyzr) | 5:10 | 2023-02-24 | 2023-06-08 |
 | [Ninna Mai Chataka Preetsilla](https://open.spotify.com/track/2nu10EEqoqRdEA9MTtNv04) | [Malu Nipanal Singer](https://open.spotify.com/artist/1neweBRDB8wCNzQjUYmJwx) | [Ninna Mai Chataka Preetsilla](https://open.spotify.com/album/2NIdPr9XEAJ6IJJ5jcTq4T) | 7:35 | 2025-12-18 | 2026-04-14 |

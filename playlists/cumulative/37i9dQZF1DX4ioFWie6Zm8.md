@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound.
 
-258 songs - 18 hr 57 min
+259 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ambasel](https://open.spotify.com/track/0lBQx9FFtx6O7EG4CGp9Wc) | [Bahiru Kegne](https://open.spotify.com/artist/5MWO4tYXfx2szzq8i9Jtn1) | [Best of Baheru Kegne](https://open.spotify.com/album/5uqt4fnNS9R7HNSrYzcZca) | 5:59 | 2024-05-07 | 2025-03-08 |
 | [Ambassèl](https://open.spotify.com/track/0x70fYeng2HdGI0wDUnJdh) | [Getatchew Mekurya](https://open.spotify.com/artist/3BJKbr8p7ED6GzAf1OeExO) | [Gétatchèw Mékuria and His Saxophone](https://open.spotify.com/album/5G4iEzL5EnRsHsExyfeHpi) | 5:44 | 2024-05-07 |  |
 | [Amsterdam](https://open.spotify.com/track/4CDY1Lx0Pn4rEyG0srJ8a5) | [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [Amsterdam](https://open.spotify.com/album/57vji5ZAPiH5nYzBFnXBZw) | 2:48 | 2026-02-27 |  |
+| [Ana Maria](https://open.spotify.com/track/7mNW931E1aNdMgaWxmHlzS) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9) | [Ana Maria](https://open.spotify.com/album/1pcXpkdePbeHh7BmFw0WOV) | 5:34 | 2026-07-30 |  |
 | [Anoshereketa](https://open.spotify.com/track/1UaE0evxjER3qq9YNyHMb6) | [Oliver & The Black Spirits](https://open.spotify.com/artist/1qP9JcDox6QQqGv9hCE9Ew) | [Anoshereketa](https://open.spotify.com/album/2NVic6PE6KZ81RPUx4mofJ) | 2:52 | 2025-03-07 |  |
 | [Apathie Mortelle](https://open.spotify.com/track/5Qc72dNfJme4XfEfhddkMP) | [Bokanté](https://open.spotify.com/artist/14nSwnnRivPDPNGGOZjwk6) | [Strange Circles](https://open.spotify.com/album/4jy0qfVL2jNJOXFHsVf7WF) | 5:45 | 2022-08-05 |  |
 | [Aschilosh](https://open.spotify.com/track/1C8MtTy5tH8yk2J3gaHJXY) | [Dawit Tsige](https://open.spotify.com/artist/0er7UYZjJL3ack3JOGzq5q) | [Yene Zema](https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf) | 6:49 | 2024-05-07 | 2026-02-28 |
@@ -160,7 +161,7 @@
 | [Mogre](https://open.spotify.com/track/0o2BUgkstqJoA6L8eebVqS) | [Samuel Cosmic](https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Mogre](https://open.spotify.com/album/7c5HUxOGSnBeyX9MGwCiD1) | 3:38 | 2024-09-24 | 2026-02-28 |
 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 | 2022-08-05 | 2024-05-08 |
 | [Muziqawi silt \- instrumental](https://open.spotify.com/track/4nQm99PPXFjr67oMLO7B1H) | [Wallias Band](https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui) | [Ethiopiques, Vol\. 13: The Golden Seventies \(Ethiopian Groove\)](https://open.spotify.com/album/0rLSJW9TMqqxTHRulbkL82) | 3:46 | 2024-05-07 |  |
-| [Ndakaaru](https://open.spotify.com/track/6ZyVEyjzi1PYFaEAY7eJLg) | [SAHAD](https://open.spotify.com/artist/2ZjoekvMs8aDES0jFp37IT), [Khalifa Gueye](https://open.spotify.com/artist/0KytCBegoEPzs78lECpWgN) | [Ndakaaru](https://open.spotify.com/album/4lyXV4fNsqvrUttayqFzab) | 4:44 | 2025-02-19 |  |
+| [Ndakaaru](https://open.spotify.com/track/6ZyVEyjzi1PYFaEAY7eJLg) | [SAHAD](https://open.spotify.com/artist/2ZjoekvMs8aDES0jFp37IT), [Khalifa Gueye](https://open.spotify.com/artist/0KytCBegoEPzs78lECpWgN) | [Ndakaaru](https://open.spotify.com/album/4lyXV4fNsqvrUttayqFzab) | 4:44 | 2025-02-19 | 2026-07-30 |
 | [Ndeketeyoo](https://open.spotify.com/track/2kFGfCMd60vv0L7tpNTMIu) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Maame](https://open.spotify.com/album/2rvkp4MkA0p0pM7cECZcIJ) | 3:42 | 2026-05-25 |  |
 | [Ndule](https://open.spotify.com/track/1mqnZFrgtfMA65seHgMrH3) | [Jaja](https://open.spotify.com/artist/5wZ658GMIOlfxqAyABd1W3) | [Ndule](https://open.spotify.com/album/6lnThR6HzhkQUv577UqWhG) | 3:42 | 2023-12-22 | 2024-04-19 |
 | [Ndule](https://open.spotify.com/track/1z0iOMCfT7b5Wk9P8TR0cG) | [Jaja Bashengezi](https://open.spotify.com/artist/17JrE5cw1UXZbRylwys1Tb) | [Putumayo Presents African Café](https://open.spotify.com/album/1hbhZdfJFRJsWttOQVlNMD) | 3:42 | 2022-08-05 |  |

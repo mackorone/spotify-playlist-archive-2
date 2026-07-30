@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Rio Tashan
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,533 likes - 56 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,539 likes - 56 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

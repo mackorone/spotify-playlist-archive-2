@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,795 likes - 264 songs - 13 hr 36 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,801 likes - 267 songs - 13 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -272,5 +272,8 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 262 | [Echoes](https://open.spotify.com/track/7KBWVj0xum49ZN6KsKGSWN) | [Ted Vendramin](https://open.spotify.com/artist/2pGbnqIYakvCqQSEzjuRRf) | [Echoes](https://open.spotify.com/album/0424IBhZH1RGueyygXGld5) | 4:02 |
 | 263 | [Charot](https://open.spotify.com/track/1LYc9NkpBRppZEGCtbMdr4) | [Tamtax](https://open.spotify.com/artist/63avwgm3xCK2Lxp0sn1JGi) | [Charot](https://open.spotify.com/album/6eSIcLzarh6LTx6a2tRqwf) | 2:36 |
 | 264 | [In Control](https://open.spotify.com/track/4SF7XiA0s0UfHbCodV9y3a) | [Ape Uprise](https://open.spotify.com/artist/07qFkTpndToHzW8athG3g2) | [In Control \(Extended Mix\)](https://open.spotify.com/album/2rOQGc65N74AAC9NhRSQxN) | 3:19 |
+| 265 | [Why Don't They Care?](https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Why Don't They Care?](https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM) | 3:04 |
+| 266 | [I Love the NiteTime \- Instrumental](https://open.spotify.com/track/71EtEiC81m2XGqTtbIho9t) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [I Love the NiteTime \(Instrumental\)](https://open.spotify.com/album/3l4SxjWPTqCkfk3do9lvPC) | 2:30 |
+| 267 | [What's Your Name](https://open.spotify.com/track/2BsMM0JK46pnkv6dNHK4Ck) | [Trendsetter](https://open.spotify.com/artist/2r6KOzzHhbWaMwP2EwmUEM), [Magnus Deus](https://open.spotify.com/artist/2ucNjOKWBIEBnzvFgmJAn3), [Katty G](https://open.spotify.com/artist/5AzDXioaAPrx8SzjCyFnIB) | [What's Your Name](https://open.spotify.com/album/2donQPGwDxsAnuciY9F6VI) | 2:46 |
 
-Snapshot ID: `AAA6+HFZgLjt2TmAs2g2OII08TrVYpUp`
+Snapshot ID: `AAA6+/7nMy55n9UO9nYobIjLhtdEY0O1`

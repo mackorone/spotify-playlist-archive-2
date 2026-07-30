@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks only\. Cover: Witch Club Satan
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,192 likes - 125 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,180 likes - 125 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 99 | [Bloodied Teeth](https://open.spotify.com/track/53i5EQC8vYXcUXRhfmXPxC) | [Mors Verum](https://open.spotify.com/artist/4e0CTjo2gPvkoSQpmNklfc) | [Canvas](https://open.spotify.com/album/3AG4Pql3VE6hZL6YGhuwZq) | 4:19 |
 | 100 | [Ruinous Gateways](https://open.spotify.com/track/1vw1iGrilLiYJWUxgn35rM) | [Gutvoid](https://open.spotify.com/artist/5enSUzaSNiZEn8cSDP61vm) | [Liminal Shrines](https://open.spotify.com/album/37VNpg5fKzSsZ84EZZbfYx) | 2:43 |
 | 101 | [Ortopraxia](https://open.spotify.com/track/3HSlq0Nu1sxvlMtkAiRIOk) | [Curse Upon A Prayer](https://open.spotify.com/artist/5no9Bm5hDQGhQimia4dcDv) | [The Worship: Orthoprax Satanism](https://open.spotify.com/album/538ZNL0YDVkiLtJ9Vtl19r) | 8:27 |
-| 102 | [Theosphoros](https://open.spotify.com/track/4yWt5rYczFWCJLA1OQXPp1) | [Frozen Winds](https://open.spotify.com/artist/6P4YwXodPAveymkrew4qVI) | [Keys to Eschaton](https://open.spotify.com/album/6gQzvAZlvZg7aUGkWNBAk6) | 10:52 |
-| 103 | [Dissonance Corporeum](https://open.spotify.com/track/2oDcmeFbu1va3pG19tmMAa) | [Ectovoid](https://open.spotify.com/artist/2PZf8GtVKiIBKsSVoNd6At) | [In Unreality's Coffin](https://open.spotify.com/album/0HeuVBxe32rJAdCocmshLt) | 4:23 |
+| 102 | [Dissonance Corporeum](https://open.spotify.com/track/2oDcmeFbu1va3pG19tmMAa) | [Ectovoid](https://open.spotify.com/artist/2PZf8GtVKiIBKsSVoNd6At) | [In Unreality's Coffin](https://open.spotify.com/album/0HeuVBxe32rJAdCocmshLt) | 4:23 |
+| 103 | [Theosphoros](https://open.spotify.com/track/4yWt5rYczFWCJLA1OQXPp1) | [Frozen Winds](https://open.spotify.com/artist/6P4YwXodPAveymkrew4qVI) | [Keys to Eschaton](https://open.spotify.com/album/6gQzvAZlvZg7aUGkWNBAk6) | 10:52 |
 | 104 | [Altar of Devoted Slaughter](https://open.spotify.com/track/0Q8sBj5fwuMETxeGMuy4wT) | [INVICTUS](https://open.spotify.com/artist/44nPUL0BgSd21WaEVjA80Z) | [Nocturnal Visions](https://open.spotify.com/album/4Rp7sSeJyAvoqPLtxFixFY) | 3:49 |
 | 105 | [Stranglehold](https://open.spotify.com/track/4IDuHBtmZk8oWIWXy5zh7f) | [Molotov Solution](https://open.spotify.com/artist/0XwUuXb2vhFXXBMtQ3SJPa) | [Void](https://open.spotify.com/album/76Hx5AFZz1nmZK5HW0fpOe) | 4:32 |
 | 106 | [Extinction Burst](https://open.spotify.com/track/06XWv9fTEqqnthPcHpYAHB) | [Nightmarer](https://open.spotify.com/artist/6MqL55fccEqCvqitp4Nfbx) | [Hell Interface](https://open.spotify.com/album/3PF45z4y4Nf4NiRXQE2qaE) | 4:58 |
@@ -118,13 +118,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 108 | [Well, I Tried Drowning](https://open.spotify.com/track/7N1ZbckLziE0KKnMdcrrUD) | [Ghost Bath](https://open.spotify.com/artist/37Vukf7o6CBPG68BRDpStb) | [Well, I Tried Drowning](https://open.spotify.com/album/5Oe2jeFrn2XqirKkYxXhhx) | 4:22 |
 | 109 | [Fucked With A Broken Bottle](https://open.spotify.com/track/6Zj74696VJItmBZES80kI6) | [Fulci](https://open.spotify.com/artist/5rK5iEoGaC5LtoBCiXpCet) | [Fucked with a Broken Bottle](https://open.spotify.com/album/1ZJgXgyMi2CwONoPmS0l8r) | 2:03 |
 | 110 | [Voice on The West Wind](https://open.spotify.com/track/5kqVKWyFLRMK92SiQBBgam) | [Egregore](https://open.spotify.com/artist/6gXSZZSHFSSzqh4proZsbX) | [It Echoes In The Wild](https://open.spotify.com/album/4sQVCv1PiPjgTtjSvePOwk) | 5:42 |
-| 111 | [No Less Than Death](https://open.spotify.com/track/6W65pru3ixPre7Nz9rgUMO) | [Abigail Williams](https://open.spotify.com/artist/4VkWISgUF5AccCSs92mauh) | [No Less Than Death](https://open.spotify.com/album/6t1aGTf7yFYnVq3jUaj4Cz) | 9:24 |
-| 112 | [Schmutzliebe](https://open.spotify.com/track/2hZpva43iZT1fFn6MNNghM) | [Eisregen](https://open.spotify.com/artist/3peZFZBRhRGd1lTTsNmaPM) | [Schmutzliebe](https://open.spotify.com/album/18L0qYW1hjLLbVEMwCabUu) | 4:39 |
+| 111 | [Schmutzliebe](https://open.spotify.com/track/2hZpva43iZT1fFn6MNNghM) | [Eisregen](https://open.spotify.com/artist/3peZFZBRhRGd1lTTsNmaPM) | [Schmutzliebe](https://open.spotify.com/album/18L0qYW1hjLLbVEMwCabUu) | 4:39 |
+| 112 | [No Less Than Death](https://open.spotify.com/track/6W65pru3ixPre7Nz9rgUMO) | [Abigail Williams](https://open.spotify.com/artist/4VkWISgUF5AccCSs92mauh) | [No Less Than Death](https://open.spotify.com/album/6t1aGTf7yFYnVq3jUaj4Cz) | 9:24 |
 | 113 | [Hun](https://open.spotify.com/track/42qRYnaRzeBePIpdBVIrfa) | [Bizarrekult](https://open.spotify.com/artist/6Cj4Bc1WpdNZhGcKyQfWci) | [Alt Som Finnes](https://open.spotify.com/album/3h1vG8SCrpleNcAL0AsGvz) | 2:57 |
 | 114 | [The Fallen Lament, Paralytikus Ascends](https://open.spotify.com/track/6J43i45mcCni085e5crkil) | [Onchocerciasis Esophagogastroduodenoscopy](https://open.spotify.com/artist/0Gqxb76GoORyYDzPTY4v3S) | [Fugue Gnawed from the Scabbed God Cerebrum](https://open.spotify.com/album/6juaUBUyGgQnfDLYJBKpgf) | 1:21 |
 | 115 | [\(Entering the Vortex Temporum\) \- Pre\-mortem Phosphenes](https://open.spotify.com/track/6a1d2AgSm04VFlXaH0aviH) | [Cosmic Putrefaction](https://open.spotify.com/artist/7w2cQkraSNaYeHe5nHgvA8) | [Emerald Fires Atop The Farewell Mountains](https://open.spotify.com/album/7IaiGxv40f0gEd9Y1BCgS1) | 5:56 |
-| 116 | [Still Nights](https://open.spotify.com/track/6dRjwEI0mXduhrLaMiIeEQ) | [Abigail Williams](https://open.spotify.com/artist/4VkWISgUF5AccCSs92mauh) | [Still Nights](https://open.spotify.com/album/7kUgdQAJ6tBtKBQjyDu7tF) | 4:21 |
-| 117 | [Ordo Diabolicum](https://open.spotify.com/track/24xTU43zeJFbfBiUq3c2JD) | [Aran Angmar](https://open.spotify.com/artist/3V1SvF0AHR3RXsyEnZBV3e) | [Ordo Diabolicum](https://open.spotify.com/album/3BnmFsYcyhPUIKdfzaZntu) | 4:26 |
+| 116 | [Ordo Diabolicum](https://open.spotify.com/track/24xTU43zeJFbfBiUq3c2JD) | [Aran Angmar](https://open.spotify.com/artist/3V1SvF0AHR3RXsyEnZBV3e) | [Ordo Diabolicum](https://open.spotify.com/album/3BnmFsYcyhPUIKdfzaZntu) | 4:26 |
+| 117 | [Still Nights](https://open.spotify.com/track/6dRjwEI0mXduhrLaMiIeEQ) | [Abigail Williams](https://open.spotify.com/artist/4VkWISgUF5AccCSs92mauh) | [Still Nights](https://open.spotify.com/album/7kUgdQAJ6tBtKBQjyDu7tF) | 4:21 |
 | 118 | [Scars of Light](https://open.spotify.com/track/3wtJCLvTRtV4F72NHmQTxU) | [Bedsore](https://open.spotify.com/artist/5voYmbejb8Nj564tCDZTBG) | [Dreaming the Strife for Love](https://open.spotify.com/album/3dI4ogkcAKYLp199rg7wVP) | 6:17 |
 | 119 | [Summoning Shadows](https://open.spotify.com/track/6PY4T2fNJHMeKbt541Hmnu) | [Black Lava](https://open.spotify.com/artist/1KnUaYbFhPHqEgEvySQYxw) | [The Savage Winds To Wisdom](https://open.spotify.com/album/2IIVq2NoIWOnzp91ZLdFIq) | 6:03 |
 | 120 | [Claw Back](https://open.spotify.com/track/6uqAf6CRO5Dpmig0QAV0CN) | [Insomnis Fulgor](https://open.spotify.com/artist/6e0z3cRICaJlAibbyZoCWy) | [Claw Back](https://open.spotify.com/album/4pOcgvsH3Ibripiq69pDzW) | 4:54 |

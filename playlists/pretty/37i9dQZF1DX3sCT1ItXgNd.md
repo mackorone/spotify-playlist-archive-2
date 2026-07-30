@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Ana Mena, Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,743 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,704 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 25 | [Apambichao](https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Apambichao](https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B) | 2:27 |
 | 26 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 |
 | 27 | [Ayer La Vi \(BPA26\)](https://open.spotify.com/track/50SSJV9VPpvO7bZwK5ZjRa) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Ayer La Vi \(BPA26\)](https://open.spotify.com/album/7zasVgESdwTXibF73T9QE6) | 2:50 |
-| 28 | [Tutu Turú](https://open.spotify.com/track/5BXxvB6TURHXVKektslnJd) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru), [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Tutu Turú](https://open.spotify.com/album/0hosGQBPOxpeyYHTtENNVd) | 3:04 |
+| 28 | [Tutu Turú](https://open.spotify.com/track/5BXxvB6TURHXVKektslnJd) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru), [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Tutu Turú](https://open.spotify.com/album/0hosGQBPOxpeyYHTtENNVd) | 3:01 |
 | 29 | [7 RASPAO](https://open.spotify.com/track/0HotYACZDDOJmfc6t1OURQ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [7 RASPAO](https://open.spotify.com/album/3a7JKtTPYi1dWqFm33Z8vV) | 2:13 |
 | 30 | [Si Juegas Conmigo \(ASA25\)](https://open.spotify.com/track/0DnvacS8XlxKg08ujiNOn2) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Si Juegas Conmigo \(ASA25\)](https://open.spotify.com/album/1fBQ8cyJ9rAETL5lXem3JX) | 3:26 |
 | 31 | [Lo Que Pasó, Pasó \- feat\. Marta Santos](https://open.spotify.com/track/5uJYKNFVkPEjWi8sXuBoUq) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Lo Que Pasó, Pasó \(feat\. Marta Santos\)](https://open.spotify.com/album/0Z2joo0ZTmHXIAeqE2X6BW) | 2:42 |

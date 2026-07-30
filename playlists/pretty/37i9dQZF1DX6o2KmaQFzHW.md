@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Lo mejor del folklore nacional 📸  Sele Vera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,515 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,539 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 31 | [Dejame Que Me Vaya](https://open.spotify.com/track/0i06kFKnrk6AXb2qibUNq9) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [El Alma de Felipito](https://open.spotify.com/album/6oseJeN4BFwVimlioxegF5) | 2:53 |
 | 32 | [Jangadero](https://open.spotify.com/track/1LDoIeOs48v4UWzYUORAaL) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 4:30 |
 | 33 | [Y Te Voy a Olvidar](https://open.spotify.com/track/5EX01mOn3Jyk4nQ6atdRws) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Y Te Voy a Olvidar](https://open.spotify.com/album/2S7xibCVdXuPhJj9vltcbS) | 4:00 |
-| 34 | [Sube, Sube, Sube](https://open.spotify.com/track/4YrnVwR7GpfWYKLJtoQczf) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Raul Olarte](https://open.spotify.com/artist/7MMG0wFNM3j9ZPzFwJAOvU) | [Escondido En Mi País](https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj) | 4:08 |
+| 34 | [Sube, Sube, Sube](https://open.spotify.com/track/4YrnVwR7GpfWYKLJtoQczf) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Escondido En Mi País](https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj) | 4:08 |
 | 35 | [Y Va Pasando la Vida](https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [El Estilo Romántico](https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2) | 3:40 |
 | 36 | [Oración del remanso](https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd) | [Jorge Fandermole](https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet) | [Navega](https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx) | 5:06 |
 | 37 | [Bajo la Sombra de un Árbol](https://open.spotify.com/track/0XIwh9vtNbnXEhmRMcfMGa) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Ckayna Cunan Vol\. II](https://open.spotify.com/album/75IDvIit5HUmdaIylKPR7t) | 3:38 |

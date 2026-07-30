@@ -1,6 +1,6 @@
 {
   "description": "That real soulful house sound.",
-  "num_followers": 131655,
+  "num_followers": 131673,
   "original_name": "Soulful House",
   "owner": {
     "name": "Spotify",
@@ -1250,6 +1250,10 @@
         {
           "name": "Micky Hurts",
           "url": "https://open.spotify.com/artist/75jeQwcmgpHK3w5Gz3vknq"
+        },
+        {
+          "name": "Drabes",
+          "url": "https://open.spotify.com/artist/1r4L8lBEtlgGjcwKJ4b1to"
         }
       ],
       "duration_ms": 203325,
@@ -2955,22 +2959,6 @@
     {
       "added_at": "2026-05-04 11:38:19",
       "album": {
-        "name": "The Child In My Heart",
-        "url": "https://open.spotify.com/album/6hvgqSknLDzyrTv2aXJOp8"
-      },
-      "artists": [
-        {
-          "name": "Dean Baker",
-          "url": "https://open.spotify.com/artist/1jK0e0MgGuKLhyQSz8zXBH"
-        }
-      ],
-      "duration_ms": 377419,
-      "name": "Child In My Heart - Original Mix",
-      "url": "https://open.spotify.com/track/2fHmuo8dYRpFZvpjM5bjSc"
-    },
-    {
-      "added_at": "2026-05-04 11:38:19",
-      "album": {
         "name": "Random Acts Of Kindness",
         "url": "https://open.spotify.com/album/4VL9iWxf2Y5hF2kfW1vnn8"
       },
@@ -2987,6 +2975,22 @@
       "duration_ms": 354278,
       "name": "Our Day",
       "url": "https://open.spotify.com/track/02zBGzV5rgKbEEiqJsTVpL"
+    },
+    {
+      "added_at": "2026-05-04 11:38:19",
+      "album": {
+        "name": "The Child In My Heart",
+        "url": "https://open.spotify.com/album/6hvgqSknLDzyrTv2aXJOp8"
+      },
+      "artists": [
+        {
+          "name": "Dean Baker",
+          "url": "https://open.spotify.com/artist/1jK0e0MgGuKLhyQSz8zXBH"
+        }
+      ],
+      "duration_ms": 377419,
+      "name": "Child In My Heart - Original Mix",
+      "url": "https://open.spotify.com/track/2fHmuo8dYRpFZvpjM5bjSc"
     },
     {
       "added_at": "2026-05-04 11:38:19",

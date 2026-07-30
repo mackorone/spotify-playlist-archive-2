@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: justseow. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Soya \u8a31\u7d20\u7444.\n  Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -1822,6 +1822,24 @@
       "duration_ms": 181838,
       "name": "AWAY.",
       "url": "https://open.spotify.com/track/5U58qF1Cf8DZttTf2JQnMf"
+    },
+    {
+      "album": {
+        "name": "B2B",
+        "url": "https://open.spotify.com/album/2EwLT20LcBAALdkeciGW9P"
+      },
+      "artists": [
+        {
+          "name": "EFI",
+          "url": "https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140347,
+      "name": "B2B",
+      "url": "https://open.spotify.com/track/2TalsuBazv4JesNUWj1QTh"
     },
     {
       "album": {
@@ -8913,6 +8931,24 @@
     },
     {
       "album": {
+        "name": "Head Inside",
+        "url": "https://open.spotify.com/album/5mHB0OLAy1ctulu51ILj7i"
+      },
+      "artists": [
+        {
+          "name": "Last Minute",
+          "url": "https://open.spotify.com/artist/2ZYrspk56dQKcbXRXFEiGp"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213040,
+      "name": "Head Inside",
+      "url": "https://open.spotify.com/track/3UWLMqGeWFay7BECP4EgHN"
+    },
+    {
+      "album": {
         "name": "Headlights",
         "url": "https://open.spotify.com/album/6qprebsrPKbfyR2nMZTJev"
       },
@@ -13618,7 +13654,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 192226,
       "name": "Love Me (He Says)",
       "url": "https://open.spotify.com/track/2GQUyTtitbusUGfTyyOrhZ"
@@ -19791,6 +19827,24 @@
     },
     {
       "album": {
+        "name": "Secret Affair",
+        "url": "https://open.spotify.com/album/4fY1Jqi2yh8QRa2DCu7OpM"
+      },
+      "artists": [
+        {
+          "name": "Hoji",
+          "url": "https://open.spotify.com/artist/6ojkoqqD7ClYPzRlHVBt0O"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207338,
+      "name": "Secret Affair",
+      "url": "https://open.spotify.com/track/23FJBnPCynZfJdO2V30cSq"
+    },
+    {
+      "album": {
         "name": "see you soon",
         "url": "https://open.spotify.com/album/26K1hiMLrnuU63gdD19471"
       },
@@ -19918,6 +19972,24 @@
       "duration_ms": 203666,
       "name": "Self-timer",
       "url": "https://open.spotify.com/track/4vt3w1xZKwzC8XtBkDPQeI"
+    },
+    {
+      "album": {
+        "name": "Semanis Gula",
+        "url": "https://open.spotify.com/album/6dRwSyvXEdgcti74lOUaon"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/680T4nKcKEhbzyygKpJA43"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Semanis Gula",
+      "url": "https://open.spotify.com/track/74P4Lhfr96kWIdU6fw8Suy"
     },
     {
       "album": {
@@ -27830,6 +27902,24 @@
       "duration_ms": 153529,
       "name": "\u6668\u5149\u4e0e\u665a\u98ce",
       "url": "https://open.spotify.com/track/7Ans8pYif5NLfl1394AGkE"
+    },
+    {
+      "album": {
+        "name": "\u6700\u5f8c\u4e00\u6b21\u5728\u96e8\u88e1\u60f3\u8d77\u4f60",
+        "url": "https://open.spotify.com/album/4plMFCM9gY9NuByTh6lgWt"
+      },
+      "artists": [
+        {
+          "name": "Soya \u8a31\u7d20\u7444",
+          "url": "https://open.spotify.com/artist/4jpBObbAiOf1Zi55MIKgJr"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214843,
+      "name": "\u6700\u5f8c\u4e00\u6b21\u5728\u96e8\u88e1\u60f3\u8d77\u4f60",
+      "url": "https://open.spotify.com/track/2XJhu9DoqcCUkJGI8DFMsX"
     },
     {
       "album": {

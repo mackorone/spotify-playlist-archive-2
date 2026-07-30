@@ -2,9 +2,9 @@
 
 ### [Back To School 2026: For Students of All Ages 🍎 ✏️📘](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Your back to school soundtrack is here: lots of fun, a little bit of sass, and a ton of heart to keep students motivated and power you through all the usage of brainpower \- and ALL the feelings \- to start the new year of learning ahead! For students of all ages: it's the 2026 Back To School playlist
+> Your back to school soundtrack is here: lots of fun, a little bit of sass, &amp; a ton of heart to keep students motivated and power you through all the usage of brainpower \- and ALL the feelings \- to start the new year of learning ahead! For students of all ages: it's the 2026 Back To School playlist!
 
-1,512 songs - 3 day 18 hr 16 min
+1,513 songs - 3 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -886,6 +886,7 @@
 | [Northern Attitude](https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:27 | 2025-09-16 | 2025-11-22 |
 | [Northern Attitude](https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4) | 4:27 | 2024-04-19 | 2025-11-21 |
 | [Not A Day Goes By](https://open.spotify.com/track/3LIMYZiYqdqszrLADNnuBs) | [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Not A Day Goes By](https://open.spotify.com/album/43n9pvIHe2EW3PB01OURIv) | 3:07 | 2022-10-10 | 2022-12-06 |
+| [Not Afraid](https://open.spotify.com/track/2JXlRVBgLHqhfphmjXyVBZ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/2bn6QpvG94QJkQTETzjTCs) | 4:08 | 2026-07-29 |  |
 | [Not Afraid](https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:08 | 2026-07-01 | 2026-07-29 |
 | [Not Fair](https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ) | 2:43 | 2023-07-06 | 2023-11-08 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2025-01-20 | 2026-03-04 |

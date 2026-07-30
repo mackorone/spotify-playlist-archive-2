@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 ### [بوب جديد](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> كل ما هو جديد في عالم البوب المصري\. الغلاف: محمد شاهين وحوده
+> كل ما هو جديد في عالم البوب المصري\. الغلاف: إليسا
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,314 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,340 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 49 | [Ala Fen](https://open.spotify.com/track/39qK2uLE92BCmZmirN089P) | [Hend Abdelhalim](https://open.spotify.com/artist/2S9BsC20KfslztksdN6L84) | [Ala Fen](https://open.spotify.com/album/4ObOTrMd4XQcUa9kSwxUBK) | 3:38 |
 | 50 | [بتوحشيني](https://open.spotify.com/track/0wOlCignkHTKvv8WgqMyva) | [Umar Diaa](https://open.spotify.com/artist/4VBsKBm5pCJ9FYIhSk7mmR) | [بتوحشيني](https://open.spotify.com/album/3i7164QmeNFB6z6hxH1rlq) | 2:48 |
 
-Snapshot ID: `AAAAAEtuqL2E/rYoWJ9vZOHL8WI37gN8`
+Snapshot ID: `AAAAAPlhMR+QiTFSbUtofm2IO9mzIeAn`

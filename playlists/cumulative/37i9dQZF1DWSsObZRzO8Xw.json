@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 182920,
       "name": "Fifzteen",
       "url": "https://open.spotify.com/track/0rhPij0wU67nYjY94HJiJa"
@@ -2744,6 +2744,24 @@
       "duration_ms": 169080,
       "name": "The Barnacle Beach",
       "url": "https://open.spotify.com/track/6XdQGjYnnVjcDmvVrY10Vg"
+    },
+    {
+      "album": {
+        "name": "the chair mountain",
+        "url": "https://open.spotify.com/album/0jHMqebCabRnMvCsFH8ddG"
+      },
+      "artists": [
+        {
+          "name": "cowboyy",
+          "url": "https://open.spotify.com/artist/65TVwNWUoKyfvlaxLLJQGh"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122333,
+      "name": "the chair mountain",
+      "url": "https://open.spotify.com/track/3kNQCI4aEo7rgslZhNxCWq"
     },
     {
       "album": {

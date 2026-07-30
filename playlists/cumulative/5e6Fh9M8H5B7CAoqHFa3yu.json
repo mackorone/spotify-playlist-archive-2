@@ -9863,6 +9863,24 @@
     },
     {
       "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/6rZrZwQZpy20yw9RoEfnlY"
+      },
+      "artists": [
+        {
+          "name": "Julience",
+          "url": "https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/6DtJ6Nyuhr50ooAAnzeQUP"
+    },
+    {
+      "album": {
         "name": "Don't Wanna Leave",
         "url": "https://open.spotify.com/album/14mV820Kf9b5W1UVaE8iHY"
       },
@@ -24734,6 +24752,24 @@
       "duration_ms": 174315,
       "name": "Mejorar la Especie",
       "url": "https://open.spotify.com/track/2fHnu29xq4544B0aXdwAow"
+    },
+    {
+      "album": {
+        "name": "Melancholic Lo-Fi (Viral Beats for Your Sad Day)",
+        "url": "https://open.spotify.com/album/0mO1SOaqVHn8z8hXm01f1M"
+      },
+      "artists": [
+        {
+          "name": "Celo Relax",
+          "url": "https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Melancholic Lo-Fi (Viral Beats for Your Sad Day)",
+      "url": "https://open.spotify.com/track/4kRhvuIfb8XJXLxUFqkNBo"
     },
     {
       "album": {

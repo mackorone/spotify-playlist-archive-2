@@ -131,6 +131,32 @@
     },
     {
       "album": {
+        "name": "This Is the Day: Music on Royal Occasions",
+        "url": "https://open.spotify.com/album/7gYaIlPziwQg0dZLoJa34n"
+      },
+      "artists": [
+        {
+          "name": "Maurice Durufl\u00e9",
+          "url": "https://open.spotify.com/artist/7Fph7U6qidZ2E97xKKsD4m"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154743,
+      "name": "4 Motets on Gregorian Themes, Op. 10: Ubi caritas",
+      "url": "https://open.spotify.com/track/4Xcyb4JzPuGbN4KvNianfL"
+    },
+    {
+      "album": {
         "name": "Poulenc: Sacred Music",
         "url": "https://open.spotify.com/album/2fcUZ7rDmOGK5FejvheQRU"
       },
@@ -1650,36 +1676,6 @@
     {
       "album": {
         "name": "Rutter: Requiem & Magnificat",
-        "url": "https://open.spotify.com/album/5nxI9OQNtMN2vmwS43cLav"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "Caroline Ashton",
-          "url": "https://open.spotify.com/artist/6vSVcjZkMkhFfAeqjUVhxS"
-        },
-        {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        }
-      ],
-      "date_added": "2026-06-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 251053,
-      "name": "III. Pie Jesu",
-      "url": "https://open.spotify.com/track/0SodfUqErJuowEQmNf8gjW"
-    },
-    {
-      "album": {
-        "name": "Rutter: Requiem & Magnificat",
         "url": "https://open.spotify.com/album/1pFZzH9NbzR5mI5gn3WmdW"
       },
       "artists": [
@@ -1758,44 +1754,6 @@
       "duration_ms": 322733,
       "name": "III. Quia fecit mihi magna",
       "url": "https://open.spotify.com/track/5o94yXRb2Y4cdyucr8sy0f"
-    },
-    {
-      "album": {
-        "name": "Faur\u00e9: Requiem & Other Sacred Music",
-        "url": "https://open.spotify.com/album/1Kjx52r3MgXoYLwf5ZDUO0"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Simon Standage",
-          "url": "https://open.spotify.com/artist/2jIBkRzVUboTbp05rJnKeT"
-        },
-        {
-          "name": "John Scott",
-          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
-        },
-        {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        }
-      ],
-      "date_added": "2026-06-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188426,
-      "name": "III. Sanctus",
-      "url": "https://open.spotify.com/track/0zzAnuYmKMJJFcRHpNSHW6"
     },
     {
       "album": {
@@ -1954,44 +1912,6 @@
       "duration_ms": 214213,
       "name": "IV. Pie Jesu",
       "url": "https://open.spotify.com/track/1oYIaSVdCweLHUdJvtU3iu"
-    },
-    {
-      "album": {
-        "name": "Faur\u00e9: Requiem & Other Sacred Music",
-        "url": "https://open.spotify.com/album/1Kjx52r3MgXoYLwf5ZDUO0"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Simon Standage",
-          "url": "https://open.spotify.com/artist/2jIBkRzVUboTbp05rJnKeT"
-        },
-        {
-          "name": "John Scott",
-          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
-        },
-        {
-          "name": "City of London Sinfonia",
-          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
-        },
-        {
-          "name": "Caroline Ashton",
-          "url": "https://open.spotify.com/artist/6vSVcjZkMkhFfAeqjUVhxS"
-        }
-      ],
-      "date_added": "2026-06-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214213,
-      "name": "IV. Pie Jesu",
-      "url": "https://open.spotify.com/track/5s5U9wkbRLgnsupyq3wFBc"
     },
     {
       "album": {
@@ -2803,6 +2723,142 @@
     },
     {
       "album": {
+        "name": "Faur\u00e9: Requiem & Other Sacred Music",
+        "url": "https://open.spotify.com/album/1Kjx52r3MgXoYLwf5ZDUO0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Simon Standage",
+          "url": "https://open.spotify.com/artist/2jIBkRzVUboTbp05rJnKeT"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188426,
+      "name": "Requiem in D Minor, Op. 48: III. Sanctus",
+      "url": "https://open.spotify.com/track/0zzAnuYmKMJJFcRHpNSHW6"
+    },
+    {
+      "album": {
+        "name": "Faur\u00e9: Requiem & Other Sacred Music",
+        "url": "https://open.spotify.com/album/1Kjx52r3MgXoYLwf5ZDUO0"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Simon Standage",
+          "url": "https://open.spotify.com/artist/2jIBkRzVUboTbp05rJnKeT"
+        },
+        {
+          "name": "John Scott",
+          "url": "https://open.spotify.com/artist/5kcQ9Unglia5GTp5NESsWh"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Caroline Ashton",
+          "url": "https://open.spotify.com/artist/6vSVcjZkMkhFfAeqjUVhxS"
+        }
+      ],
+      "date_added": "2026-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214213,
+      "name": "Requiem in D Minor, Op. 48: IV. Pie Jesu",
+      "url": "https://open.spotify.com/track/5s5U9wkbRLgnsupyq3wFBc"
+    },
+    {
+      "album": {
+        "name": "Rutter: Requiem & Magnificat",
+        "url": "https://open.spotify.com/album/5nxI9OQNtMN2vmwS43cLav"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Caroline Ashton",
+          "url": "https://open.spotify.com/artist/6vSVcjZkMkhFfAeqjUVhxS"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        }
+      ],
+      "date_added": "2026-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251053,
+      "name": "Requiem: III. Pie Jesu",
+      "url": "https://open.spotify.com/track/0SodfUqErJuowEQmNf8gjW"
+    },
+    {
+      "album": {
+        "name": "John Rutter: Visions & Requiem",
+        "url": "https://open.spotify.com/album/75P4gXyGi2EFvcAPnEKTEA"
+      },
+      "artists": [
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        },
+        {
+          "name": "Aurora Orchestra",
+          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "Thomas Barber",
+          "url": "https://open.spotify.com/artist/73kZPuuV8CvpSMhOBblHWz"
+        }
+      ],
+      "date_added": "2026-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310800,
+      "name": "Requiem: VI. The Lord Is My Shepherd",
+      "url": "https://open.spotify.com/track/33wcUoT3MCdGaZncoJj25p"
+    },
+    {
+      "album": {
         "name": "Gloria: The Sacred Music Of John Rutter",
         "url": "https://open.spotify.com/album/7iKIB27EdiiiFBIffhCgFr"
       },
@@ -3556,32 +3612,6 @@
     {
       "album": {
         "name": "This Is the Day: Music on Royal Occasions",
-        "url": "https://open.spotify.com/album/7gYaIlPziwQg0dZLoJa34n"
-      },
-      "artists": [
-        {
-          "name": "Maurice Durufl\u00e9",
-          "url": "https://open.spotify.com/artist/7Fph7U6qidZ2E97xKKsD4m"
-        },
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        }
-      ],
-      "date_added": "2026-06-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 154743,
-      "name": "Ubi caritas",
-      "url": "https://open.spotify.com/track/4Xcyb4JzPuGbN4KvNianfL"
-    },
-    {
-      "album": {
-        "name": "This Is the Day: Music on Royal Occasions",
         "url": "https://open.spotify.com/album/4wx1IdItffFBbmt7oCIFl8"
       },
       "artists": [
@@ -3802,7 +3832,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 245716,
-      "name": "V. Laudate Dominum",
+      "name": "Vesperae solennes de confessore, K. 339: V. Laudate Dominum",
       "url": "https://open.spotify.com/track/74ko3t2auk4LsL4RXAOglS"
     },
     {
@@ -3894,36 +3924,6 @@
       "duration_ms": 169333,
       "name": "VI. Rondeau",
       "url": "https://open.spotify.com/track/6TiRcgT12wUdFKSSJaKS7p"
-    },
-    {
-      "album": {
-        "name": "John Rutter: Visions & Requiem",
-        "url": "https://open.spotify.com/album/75P4gXyGi2EFvcAPnEKTEA"
-      },
-      "artists": [
-        {
-          "name": "John Rutter",
-          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
-        },
-        {
-          "name": "Aurora Orchestra",
-          "url": "https://open.spotify.com/artist/0nrZ1B05azLrMkhTOFaoGJ"
-        },
-        {
-          "name": "The Cambridge Singers",
-          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
-        },
-        {
-          "name": "Thomas Barber",
-          "url": "https://open.spotify.com/artist/73kZPuuV8CvpSMhOBblHWz"
-        }
-      ],
-      "date_added": "2026-07-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 310800,
-      "name": "VI. The Lord Is My Shepherd",
-      "url": "https://open.spotify.com/track/33wcUoT3MCdGaZncoJj25p"
     },
     {
       "album": {

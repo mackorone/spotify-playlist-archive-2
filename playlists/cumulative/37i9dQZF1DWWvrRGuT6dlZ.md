@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: justseow\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Soya 許素瑄.<br/>  Artwork: Isu Kim.
 
-1,492 songs - 3 day 9 hr 48 min
+1,497 songs - 3 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Away](https://open.spotify.com/track/1nsZptxinH1LMW7sFVcMl2) | [Ari X](https://open.spotify.com/artist/4WuERKNagD0MNhFCeGEMPm), [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt) | [Away](https://open.spotify.com/album/6MKEHFauaw2efWn1D9nTcm) | 3:02 | 2025-04-03 | 2025-05-17 |
 | [Away from Here](https://open.spotify.com/track/0mbxB7mjbFLZeo2L3m2lHQ) | [Obviously We!](https://open.spotify.com/artist/4UWbpj1tOeV8gCieopCCop) | [Right Here, Right Now](https://open.spotify.com/album/428bgcOLYy5ioiiFYesLgj) | 3:53 | 2022-01-13 | 2023-01-13 |
 | [AWAY.](https://open.spotify.com/track/5U58qF1Cf8DZttTf2JQnMf) | [Arai\. The Grape](https://open.spotify.com/artist/2O2H2M9Acb7xwYXTqYHeog) | [AWAY.](https://open.spotify.com/album/2jqJyAzZ4QwsoCk4y8xcrV) | 3:01 | 2022-01-13 | 2022-06-17 |
+| [B2B](https://open.spotify.com/track/2TalsuBazv4JesNUWj1QTh) | [EFI](https://open.spotify.com/artist/4h3xRZkaRJhrLs6cxtShbw) | [B2B](https://open.spotify.com/album/2EwLT20LcBAALdkeciGW9P) | 2:20 | 2026-07-29 |  |
 | [Baby Blue](https://open.spotify.com/track/5FZsJeAOphubEbGEzHATlq) | [Soong](https://open.spotify.com/artist/1hKtrBDlkEWMZuu6clRxKc) | [Baby Blue](https://open.spotify.com/album/7rFLaq2TZuwO3piSQXhHtr) | 3:16 | 2023-06-22 | 2024-02-16 |
 | [baby it's 3am](https://open.spotify.com/track/03ZCnhL8OZJlt0XPA5ZFAl) | [phyllzx](https://open.spotify.com/artist/3pGw79Q5CfoBgwYw4vHfS2) | [baby it's 3am](https://open.spotify.com/album/2d2ljzKGRNT2hNuT5krIor) | 3:00 | 2025-08-21 | 2025-10-17 |
 | [Back Again](https://open.spotify.com/track/7mVhCCnQRXJqve9rRGPTdg) | [Feez.](https://open.spotify.com/artist/1gImDIQMDSpY9JqQihMlcz), [Syaz Smooth](https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ), [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Back Again](https://open.spotify.com/album/6nkSOsFPPKsMkLn8JOvwUD) | 4:38 | 2023-03-16 | 2023-10-20 |
@@ -476,6 +477,7 @@
 | [hatin' on ok](https://open.spotify.com/track/48zyNX8WTgDkpn4e0GIhcx) | [Jean Tan](https://open.spotify.com/artist/5E1YsH5XziUDdfp5wCfazJ) | [hatin' on ok](https://open.spotify.com/album/3ooZSPtOFEhfnqFMrjKqDT) | 2:29 | 2023-02-03 | 2023-05-27 |
 | [havelock](https://open.spotify.com/track/4XgtMkpCcRdH6b5bkj5nJ1) | [KAI.ZEN](https://open.spotify.com/artist/2TMub1vgKdjAFlEjBC3Trx) | [havelock](https://open.spotify.com/album/06nerL1BSQjHrskov357cx) | 4:00 | 2025-09-26 | 2025-11-14 |
 | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/track/2GkRcyxXrcK1N69fTvh41V) | [Qastalani](https://open.spotify.com/artist/66WdsOJqSYj93d2tDRygaj) | [He'll Never Love You \(The Way I Did\)](https://open.spotify.com/album/12tStuD8cBgyYlLGuNt1un) | 3:08 | 2021-12-01 | 2022-01-14 |
+| [Head Inside](https://open.spotify.com/track/3UWLMqGeWFay7BECP4EgHN) | [Last Minute](https://open.spotify.com/artist/2ZYrspk56dQKcbXRXFEiGp) | [Head Inside](https://open.spotify.com/album/5mHB0OLAy1ctulu51ILj7i) | 3:33 | 2026-07-29 |  |
 | [Headlights](https://open.spotify.com/track/16jRqbonEpZ9lU0xhQCEdO) | [The New Modern Lights](https://open.spotify.com/artist/7fwPJniDEJ1ld3lzqZhs1D) | [Headlights](https://open.spotify.com/album/6qprebsrPKbfyR2nMZTJev) | 3:22 | 2022-09-09 | 2023-03-18 |
 | [Heart On Fire](https://open.spotify.com/track/6tvl88OEmUpw4uAh9nNI9S) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Heart On Fire](https://open.spotify.com/album/178NsqOrpIbqpOQtJparp5) | 3:46 | 2022-02-10 | 2023-01-13 |
 | [heartache frenzy](https://open.spotify.com/track/44p8wciyijJeF0XilqySox) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [heartache frenzy](https://open.spotify.com/album/2fwoaNiBXqMnVRafSrause) | 3:40 | 2023-06-15 | 2023-11-18 |
@@ -721,7 +723,7 @@
 | [Love I Won't Show](https://open.spotify.com/track/2iHasHlT7ZRnKhTbs7wJPy) | [Zafrin Izham](https://open.spotify.com/artist/7ui5d2vzoHu3xI1k5cM3cb), [Lolaophy](https://open.spotify.com/artist/6gaxcywgaksI4Xl5G2acKe) | [Love I Won't Show](https://open.spotify.com/album/4lc3SJXew90wEegmwYsvzb) | 3:49 | 2023-11-09 | 2024-02-16 |
 | [Love Letter](https://open.spotify.com/track/2NFrrlNAGBNmjggdSQhBZz) | [Nao Zumar](https://open.spotify.com/artist/2SLtYTUjIbXeXlY7MxisjV) | [Love Letter](https://open.spotify.com/album/68Oau1h2TQejso7NUTPbhg) | 3:17 | 2025-05-09 | 2025-06-27 |
 | [Love Like You](https://open.spotify.com/track/6fzcTivgSDZqKzkK1CKlKA) | [Strange Alias](https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj) | [Love Like You](https://open.spotify.com/album/1omPIAZK12fqM3qxcwdfQK) | 2:30 | 2022-05-05 | 2023-02-10 |
-| [Love Me \(He Says\)](https://open.spotify.com/track/2GQUyTtitbusUGfTyyOrhZ) | [Hoji](https://open.spotify.com/artist/6ojkoqqD7ClYPzRlHVBt0O) | [Love Me \(He Says\)](https://open.spotify.com/album/1eI6ypwhPnXyeu9GFFQOGD) | 3:12 | 2026-05-06 |  |
+| [Love Me \(He Says\)](https://open.spotify.com/track/2GQUyTtitbusUGfTyyOrhZ) | [Hoji](https://open.spotify.com/artist/6ojkoqqD7ClYPzRlHVBt0O) | [Love Me \(He Says\)](https://open.spotify.com/album/1eI6ypwhPnXyeu9GFFQOGD) | 3:12 | 2026-05-06 | 2026-07-30 |
 | [Love of Mine](https://open.spotify.com/track/20MZzZvDNhcdtdKjJiR8hc) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Love of Mine](https://open.spotify.com/album/3dlguyiLkT311RvdMXSIoX) | 3:49 | 2024-11-21 | 2025-03-14 |
 | [Love Quizzes](https://open.spotify.com/track/3AnCQUv83JUHosFh9OVmLp) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Love Quizzes](https://open.spotify.com/album/3bhofzk3jj1AH0mzuksbDK) | 3:32 | 2022-11-10 | 2023-05-12 |
 | [Love That's Right](https://open.spotify.com/track/1rIZG8xnML2YtpYb46exji) | [Elsa Mickayla](https://open.spotify.com/artist/7HA7Xpc6jxV0orcFXWJDe7) | [SZN1](https://open.spotify.com/album/4AFjbrJoxtPQ2hwo8X5lX4) | 1:09 | 2026-03-20 | 2026-05-07 |
@@ -1045,6 +1047,7 @@
 | [SCREENS](https://open.spotify.com/track/0GnyoMhoi97JqyzoUJY1my) | [Thy Howler](https://open.spotify.com/artist/2Kr78QLQVRSpFReViapiXf) | [SCREENS](https://open.spotify.com/album/1IXnUNIfVaEMLo9rGUgIRv) | 3:14 | 2026-02-06 | 2026-03-21 |
 | [search](https://open.spotify.com/track/5Te9aHJTkpiKwa34WWbeLE) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [lightbringer](https://open.spotify.com/album/6eO4PXGE23svRI186EEEUC) | 2:55 | 2025-07-11 | 2025-09-06 |
 | [Seasons](https://open.spotify.com/track/7rS4MCfrx3velm8SWMBbYT) | [Ki Biru](https://open.spotify.com/artist/5mXfpkZBZsW5tiMzj7isCU) | [Seasons](https://open.spotify.com/album/3EtHr1wSXDi2xgl1yG3dud) | 3:04 | 2023-09-14 | 2024-01-19 |
+| [Secret Affair](https://open.spotify.com/track/23FJBnPCynZfJdO2V30cSq) | [Hoji](https://open.spotify.com/artist/6ojkoqqD7ClYPzRlHVBt0O) | [Secret Affair](https://open.spotify.com/album/4fY1Jqi2yh8QRa2DCu7OpM) | 3:27 | 2026-07-29 |  |
 | [see you soon](https://open.spotify.com/track/6NRZ7rvVhYhMUF575qdzcR) | [Darryl Sim](https://open.spotify.com/artist/0FbejZR1UoamwHNaZUXIDN), [Wren](https://open.spotify.com/artist/5l2UPekSc9efPGnfa43lKQ) | [see you soon](https://open.spotify.com/album/26K1hiMLrnuU63gdD19471) | 3:04 | 2022-09-15 | 2023-03-18 |
 | [see\-thru](https://open.spotify.com/track/0f5QoMbJDcxyGHSngaFfT4) | [Pseudo](https://open.spotify.com/artist/4HqIcgpeGKabzBYczmfFgZ) | [see\-thru](https://open.spotify.com/album/3kY6p7XFk5wl77guJjdRWp) | 2:23 | 2023-06-30 | 2024-02-16 |
 | [Selagi](https://open.spotify.com/track/3IKY523Yda8ZnUSxz49Q99) | [Riev Wafa](https://open.spotify.com/artist/2074hpIiJdGljBp7TwcqSP) | [Selagi](https://open.spotify.com/album/3RZw9OjaCWKD5soVHmbrje) | 3:30 | 2025-09-12 | 2025-11-08 |
@@ -1052,6 +1055,7 @@
 | [Selamat Malam](https://open.spotify.com/track/61tvkjvNzMCl91wY9qElOE) | [Van Kelvin](https://open.spotify.com/artist/745QVTET1X9xqdgyRt1qnT) | [Selamat Malam](https://open.spotify.com/album/4ltGyAQCDnezcSQCp2KibA) | 3:32 | 2025-06-12 | 2025-08-01 |
 | [Selangkah](https://open.spotify.com/track/78EfUlQxOYJzwFBYImrU5Y) | [Ceddy Ang](https://open.spotify.com/artist/1JOyhkBlrW19gycZ2B5kS1) | [Selangkah](https://open.spotify.com/album/0B0chd6JY4Q3fazFxtl6G3) | 3:23 | 2026-01-14 | 2026-05-07 |
 | [Self\-timer](https://open.spotify.com/track/4vt3w1xZKwzC8XtBkDPQeI) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ) | [Self\-timer](https://open.spotify.com/album/5w5IpCq4TvuGzuNd6LAZac) | 3:23 | 2025-07-04 | 2026-01-15 |
+| [Semanis Gula](https://open.spotify.com/track/74P4Lhfr96kWIdU6fw8Suy) | [Lasso](https://open.spotify.com/artist/680T4nKcKEhbzyygKpJA43) | [Semanis Gula](https://open.spotify.com/album/6dRwSyvXEdgcti74lOUaon) | 3:10 | 2026-07-29 |  |
 | [Semekar Bunga \(Kau Aku Suka\)](https://open.spotify.com/track/71kSBRgwPAs2pJOUDhe8yW) | [Late Night Frequency](https://open.spotify.com/artist/6KlCDsQyOKX5daro8Eq66N) | [Semekar Bunga \(Kau Aku Suka\)](https://open.spotify.com/album/5gy8sPg19mX2yACgqpnMOY) | 3:23 | 2025-05-09 | 2025-06-27 |
 | [Senja](https://open.spotify.com/track/4DXcg0TUUpwXGNjtJ7bqnO) | [Araf Aziz](https://open.spotify.com/artist/1pdIfabp2hvXm2C99DypHr) | [Senja](https://open.spotify.com/album/1z1mvNzs4skjMpONIvP1OR) | 3:56 | 2025-06-06 | 2025-08-01 |
 | [Senja](https://open.spotify.com/track/2uFOlba0U1j5hsAS5JqHy9) | [Khodi](https://open.spotify.com/artist/2e3lW79sSCTJmE9U5AcYFE) | [Senja](https://open.spotify.com/album/2iTZIga0u8maZvC6jQNsZf) | 2:44 | 2025-08-07 | 2026-01-15 |
@@ -1464,6 +1468,7 @@
 | [新年来我家](https://open.spotify.com/track/4DeAqQ45DmF7klFZQUhQJN) | [Estelle & Xiao Jiu](https://open.spotify.com/artist/1kCMmKzaQ94wbxfqKuYi4J), [Ah Lee](https://open.spotify.com/artist/6b1yP20ZbfSvPmoFjWwiY1) | [新年来我家](https://open.spotify.com/album/1Cie4MP0twi0Iuxr1Kd5gQ) | 3:13 | 2026-01-30 | 2026-03-21 |
 | [昏暗中的等待 \(SG:SW 2024 新加坡華族文化中心跨樂獎\)](https://open.spotify.com/track/76Ni7VsNyUoWzkmqLfJHio) | [陳銀雪](https://open.spotify.com/artist/3k1MXmOBhBvabRvj8Si6H5), [Ridzwan Latiff](https://open.spotify.com/artist/3tC0ALojQPwgCZgYutWbUU) | [昏暗中的等待 \(SG:SW 2024 新加坡華族文化中心跨樂獎\)](https://open.spotify.com/album/0gRqjsCGNvtuB3oq3iipyr) | 4:46 | 2025-04-03 | 2025-05-17 |
 | [晨光与晚风](https://open.spotify.com/track/7Ans8pYif5NLfl1394AGkE) | [Haze哈泽](https://open.spotify.com/artist/0O6GJprb1FbUFhv9yks1lq) | [晨光与晚风](https://open.spotify.com/album/3ZdglVL4LFtsISDrvs0GRO) | 2:33 | 2025-07-31 | 2025-09-06 |
+| [最後一次在雨裡想起你](https://open.spotify.com/track/2XJhu9DoqcCUkJGI8DFMsX) | [Soya 許素瑄](https://open.spotify.com/artist/4jpBObbAiOf1Zi55MIKgJr) | [最後一次在雨裡想起你](https://open.spotify.com/album/4plMFCM9gY9NuByTh6lgWt) | 3:34 | 2026-07-29 |  |
 | [有一盏灯等着我回家](https://open.spotify.com/track/5QOrBXBwepw22K5ZNZSMng) | [蔡瀞萱](https://open.spotify.com/artist/5Wdp9Ri5mJcc7rkK6CgEpP) | [有一盏灯等着我回家](https://open.spotify.com/album/3il3jgl9CZYQmvqtk6b2c6) | 3:27 | 2025-05-22 | 2025-07-18 |
 | [有你的地方](https://open.spotify.com/track/5mv96WdBRnGhVMATgdd0nA) | [Shi En](https://open.spotify.com/artist/7rukFwrEq79EAUe7X5DJRB) | [有你的地方](https://open.spotify.com/album/7fFFeJK8ALksHRfXPDZ8ch) | 3:55 | 2025-05-09 | 2025-07-05 |
 | [样 Young](https://open.spotify.com/track/6LbAXTkBb8BM3kh54D8tCm) | [鍾汶芳](https://open.spotify.com/artist/2QSh7SsfVcNJKI2d614Uim) | [样 Young](https://open.spotify.com/album/2CYvORKWlYMp467GQGO5mw) | 3:35 | 2025-06-26 | 2025-09-06 |

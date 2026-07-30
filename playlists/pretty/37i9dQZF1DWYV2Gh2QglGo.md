@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Shania Twain
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,183 likes - 175 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,193 likes - 175 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

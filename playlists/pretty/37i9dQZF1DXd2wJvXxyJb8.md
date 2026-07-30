@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > as gigas da net
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,648,060 likes - 59 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,648,074 likes - 59 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 58 | [Ele Carrega Minha Bolsa](https://open.spotify.com/track/78PIC5Mc1gNKio8TL6y0Yr) | [dj andreoli](https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa), [TOMAS](https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [DJ Ws da Igrejinha](https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF), [DJ Kayque](https://open.spotify.com/artist/6nNrD1epadXGS9JVOWf0x2) | [Ele Carrega Minha Bolsa](https://open.spotify.com/album/3Qrmx9hrVlLzCULW9H5rxl) | 2:13 |
 | 59 | [MTG PASSA PASSA PRA EU SARRAR](https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP) | [MTG PASSA PASSA PRA EU SARRAR](https://open.spotify.com/album/0oIoNUs6nCleWflBj6tSPY) | 2:21 |
 
-Snapshot ID: `AAAAAIigFiM7wDA3UvTqUHFHsXI9kooh`
+Snapshot ID: `AAAAANmgEEi6bGuszZNOdvDBok+QhOeg`

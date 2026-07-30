@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Penthouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,471 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,484 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 95 | [PUNKTUARY](https://open.spotify.com/track/0GFkOdz5OUwEtr3deUuSID) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [PUNKTUARY](https://open.spotify.com/album/5p6xdUceIX8zFZuEWJMG5j) | 5:59 |
 | 96 | [MAGiC VoX](https://open.spotify.com/track/4PK9DCpb5RquvL8xpQ6sm7) | [NEK!](https://open.spotify.com/artist/69bgop9pQQD8inX5vVOl5r) | [MAGiC VoX](https://open.spotify.com/album/6ed2yfNy9rIXI4OzV0zJNr) | 3:17 |
 | 97 | [Non\-REM Love](https://open.spotify.com/track/6SNhnM7ufsuU396PEcoWj1) | [Slump Girl](https://open.spotify.com/artist/5qPgLl5YU4UkxzltaWmX15) | [Non\-REM Love](https://open.spotify.com/album/3h4lxAp2yCGwlxBYY8fjrD) | 3:25 |
-| 98 | [Track 1](https://open.spotify.com/track/7zL7va69I79IYwDGBpGls5) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [eff](https://open.spotify.com/album/3plqZDMNCoqLWkcaRiW94G) | 0:00 |
+| 98 | [八月](https://open.spotify.com/track/7zL7va69I79IYwDGBpGls5) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [eff](https://open.spotify.com/album/3plqZDMNCoqLWkcaRiW94G) | 3:30 |
 | 99 | [What’s waiting for us \- feat.XAI](https://open.spotify.com/track/1ahlKqvo5ca6qRD3FKVbRA) | [YOURNESS](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N) | [TWIN](https://open.spotify.com/album/2aUgLtsq49l2AkRtZ8Geob) | 4:00 |
 | 100 | [次](https://open.spotify.com/track/681NR7zRtTE5UAMLk598aj) | [The Beatmotors](https://open.spotify.com/artist/1sYNWSA1ujWFv5w36lXCFd) | [次](https://open.spotify.com/album/30MM1ecJcKmnWgCVZvl2Aj) | 4:00 |
 

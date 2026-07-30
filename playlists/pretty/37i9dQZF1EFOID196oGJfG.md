@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 29 | [LA](https://open.spotify.com/track/5nRuGEeeqRQZ71fwIBLMxl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:20 |
 | 30 | [Ruin](https://open.spotify.com/track/5Vox7L6Cw47f26umXwDQ53) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Ruin](https://open.spotify.com/album/2ZCT35yKJ0HLLmQcuXzfk4) | 3:24 |
 | 31 | [New Trick](https://open.spotify.com/track/5goujnab2lLFg4mYfYRFE6) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [New Trick](https://open.spotify.com/album/1tTmm9wofKTikenwiATM4j) | 3:13 |
-| 32 | [Arizona](https://open.spotify.com/track/1mY2tkkszwkFccupfkOXe5) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Arizona](https://open.spotify.com/album/0t7Jb4Pk8yl7811JG5Khgg) | 2:57 |
-| 33 | [Pieces](https://open.spotify.com/track/60X8wf919CCv2oveCWuZ0P) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Pieces](https://open.spotify.com/album/7mfv2wp9VaGJ1IFedC0I5G) | 3:13 |
-| 34 | [Closure](https://open.spotify.com/track/3AZflkRCUsOQuB18C0Ws0y) | [Blake Proehl](https://open.spotify.com/artist/1RgYPu8VR3b5sXupFPGMAO) | [Closure](https://open.spotify.com/album/6lDn8FPgegASII2XD9objP) | 2:30 |
+| 32 | [Closure](https://open.spotify.com/track/3AZflkRCUsOQuB18C0Ws0y) | [Blake Proehl](https://open.spotify.com/artist/1RgYPu8VR3b5sXupFPGMAO) | [Closure](https://open.spotify.com/album/6lDn8FPgegASII2XD9objP) | 2:30 |
+| 33 | [Arizona](https://open.spotify.com/track/1mY2tkkszwkFccupfkOXe5) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Arizona](https://open.spotify.com/album/0t7Jb4Pk8yl7811JG5Khgg) | 2:57 |
+| 34 | [Pieces](https://open.spotify.com/track/60X8wf919CCv2oveCWuZ0P) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Pieces](https://open.spotify.com/album/7mfv2wp9VaGJ1IFedC0I5G) | 3:13 |
 | 35 | [Cigarette](https://open.spotify.com/track/7GZLygk4Du3yIEKEghYrZB) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Cigarette](https://open.spotify.com/album/1I1CYjHRBFu1utJpfj4Osq) | 2:38 |
 | 36 | [Standing In The Fire](https://open.spotify.com/track/51xtT2Bxh8W3V5kSqPKB4P) | [Michael Gerow](https://open.spotify.com/artist/3Wbs390oASVP3AFZz937tl) | [you taught me to read between the lines](https://open.spotify.com/album/7zfRFOppB570UYNLe3wgkU) | 2:55 |
 | 37 | [Rock Bottom](https://open.spotify.com/track/1ocK7qsRyyTRXzSFNO9qFY) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rock Bottom](https://open.spotify.com/album/0HSGtJsJzZQHLYh5fR7z5k) | 2:42 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 41 | [Spit It Out](https://open.spotify.com/track/4fmsiOsBZyez2ifpSQ8kLR) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Between The Lines](https://open.spotify.com/album/5h7N7CY3WjH0WdgaYdMu6Q) | 2:30 |
 | 42 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `AcYGCgAAAAB+vqo2wZTTLRiVjWDbanbc`
+Snapshot ID: `AcYLqgAAAAD2DpNfSvEqjineZWOpEmpw`

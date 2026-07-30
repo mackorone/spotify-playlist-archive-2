@@ -12099,6 +12099,24 @@
     },
     {
       "album": {
+        "name": "Wein Abdul?",
+        "url": "https://open.spotify.com/album/6WGU3F6yC0OeZePEFT2CR9"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Wein Abdul?",
+      "url": "https://open.spotify.com/track/4OOUv5ZpeYkmf0Q9FzSu3T"
+    },
+    {
+      "album": {
         "name": "WHAT U SPEND",
         "url": "https://open.spotify.com/album/0w1apnzbNdKj8DpPRLiDRE"
       },

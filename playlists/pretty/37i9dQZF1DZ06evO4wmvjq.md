@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,770 likes - 50 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,769 likes - 50 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 44 | [The Harp of New Albion: V\. Premonition Rag](https://open.spotify.com/track/58Y3YZZvx40tu9FHI1kVoa) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 6:36 |
 | 45 | [Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968](https://open.spotify.com/track/4dDdGh1VQTPYLm2bLl4M5m) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Poppy Nogood and the Phantom Band All Night Flight: SUNY Buffalo, New York, 22 March 1968](https://open.spotify.com/album/3cFjiTCXi7SYwyoEii2ERi) | 39:48 |
 | 46 | [Plum Stones](https://open.spotify.com/track/5zsuuF9LbOFjlbEjiCvjoS) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [\*Michael McClure](https://open.spotify.com/artist/0pEXXYU5Ygc0Mk4unN8FfZ) | [I Like Your Eyes Liberty](https://open.spotify.com/album/2lGodELWQLcCvbAfC5STpx) | 3:06 |
-| 47 | [IV\. The Miracle](https://open.spotify.com/track/4S9eAXN75ryj8ZvJxXUzQt) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Terry Riley: Autodreamographical Tales](https://open.spotify.com/album/5LGRUl20oRoOYEV6cZuNBv) | 2:19 |
+| 47 | [Autodreamographical Tales \(Arr\. G\. Riley for Chamber Ensemble\): IV\. The Miracle](https://open.spotify.com/track/4S9eAXN75ryj8ZvJxXUzQt) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Bang On A Can All\-Stars](https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ) | [Terry Riley: Autodreamographical Tales](https://open.spotify.com/album/5LGRUl20oRoOYEV6cZuNBv) | 2:19 |
 | 48 | [The Harp of New Albion: VI\. Return of the Ancestors](https://open.spotify.com/track/1BfjSZH8MBJKHa34FfGoKL) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 10:04 |
 | 49 | [Negro Hall](https://open.spotify.com/track/3gHjihtOVa9PxhjnZGBLSK) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 14:31 |
 | 50 | [Coming](https://open.spotify.com/track/6eINOLaSeuRVdkxZcgRVnj) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [\*Michael McClure](https://open.spotify.com/artist/0pEXXYU5Ygc0Mk4unN8FfZ) | [I Like Your Eyes Liberty](https://open.spotify.com/album/2lGodELWQLcCvbAfC5STpx) | 6:38 |

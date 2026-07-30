@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 665140,
+  "num_followers": 665230,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -879,6 +879,22 @@
     {
       "added_at": "2025-10-17 18:07:08",
       "album": {
+        "name": "Restitui\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 447960,
+      "name": "Restitui - Ao Vivo",
+      "url": "https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD"
+    },
+    {
+      "added_at": "2025-10-17 18:07:08",
+      "album": {
         "name": "Fernandinho Ac\u00fastico",
         "url": "https://open.spotify.com/album/7MaBAP7yuoxXP2vGDOC3Je"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 513960,
       "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
       "url": "https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT"
-    },
-    {
-      "added_at": "2025-10-17 18:07:08",
-      "album": {
-        "name": "Restitui\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 447960,
-      "name": "Restitui - Ao Vivo",
-      "url": "https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD"
     },
     {
       "added_at": "2025-10-17 18:07:08",

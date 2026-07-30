@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie en español, con Barry B en portada.
 
-7,660 songs - 17 day 11 hr 17 min
+7,661 songs - 17 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1164,6 +1164,7 @@
 | [Causalidad](https://open.spotify.com/track/3ZMRMXU3CjRJwMDmIFJxGz) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Causalidad](https://open.spotify.com/album/5Ky00MXNZVDIQ5ueiszCLN) | 4:23 | 2026-02-06 | 2026-02-28 |
 | [CAYENDO](https://open.spotify.com/track/1lG0I5DUe9TwFzBKoF1yOt) | [Averzzo](https://open.spotify.com/artist/5hohpxQLHh4HN0fscSns4v), [Manu Oliva](https://open.spotify.com/artist/5VEOXoMPXBZNibIUOh7i1P), [Rotea](https://open.spotify.com/artist/3OKVcQdRVWwfLZNnqcQ8XN) | [CAYENDO](https://open.spotify.com/album/0rOEXovzH8XZFeN3ZRMRQm) | 3:09 | 2025-11-27 | 2025-12-13 |
 | [Cazafantasmas](https://open.spotify.com/track/5D7hBCYtWRsb92mwpl9hJd) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Cazafantasmas](https://open.spotify.com/album/0E7yhHwUt5nX0ZeX3xDPBl) | 2:53 | 2025-04-25 | 2025-05-09 |
+| [CAÍ DE CARA AYER](https://open.spotify.com/track/2y2804DWFwtlb72KHAhLrm) | [Drizzle](https://open.spotify.com/artist/2oV8WT02s409c2Jlc7zrlg) | [CAÍ DE CARA AYER](https://open.spotify.com/album/5lRY9nBU9bRMJZ27bNvBMi) | 2:58 | 2026-07-24 |  |
 | [Caímos las dos](https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 2:45 | 2023-01-13 | 2023-01-28 |
 | [Caña Brava](https://open.spotify.com/track/0hy6YsimguNescPjjijro0) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Caña Brava](https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42) | 3:01 | 2023-03-03 | 2023-03-11 |
 | [Cebolla](https://open.spotify.com/track/2gfuOzB9tTCOSwxhVM3lLf) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Dualismo Mágico](https://open.spotify.com/album/4Y1Fqu8m46YL22sT4YJcMI) | 2:58 | 2026-05-01 | 2026-05-15 |

@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-535 songs - 1 day 7 hr 9 min
+537 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Brain Revolution Girl 2016 ver.](https://open.spotify.com/track/0yb2qOhzja2F2KMuIgcr6L) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 3:40 | 2022-08-18 |  |
 | [Burn My Dread \-Reload\-](https://open.spotify.com/track/1NG7bEQxL6ZfRuqHb1DFm8) | [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload Original Soundtrack](https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv) | 4:40 | 2024-04-26 |  |
 | [Burning Pile](https://open.spotify.com/track/0zMAvsQmaQ4DGsmXtKixpn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 4:22 | 2022-08-02 |  |
+| [Call Boy](https://open.spotify.com/track/5Xo861ZHKMGHJx8yJR0zIt) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [SonobashinogiEP](https://open.spotify.com/album/7AAjKp4YcGvElvWy9CVCxG) | 3:28 | 2026-07-29 |  |
 | [Can't save you now \(feat\. Rei Adachi\)](https://open.spotify.com/track/5KcPSo0XHlv5XbPkVJJasI) | [WAWON](https://open.spotify.com/artist/6IkW1IwGsEsf2cGljOpDK9), [Rei Adachi](https://open.spotify.com/artist/7vbAMAwQcKX1LHv2QAI7Re) | [Can't save you now \(feat\. Rei Adachi\)](https://open.spotify.com/album/5K5HRfrmS47poP5sXTXyd9) | 4:14 | 2026-05-19 |  |
 | [Cantarella](https://open.spotify.com/track/2VD4DrLIkfItv7grWXCXpW) | [KurousaP](https://open.spotify.com/artist/5MXgcxigANkVcaDC670CU1), [Michaon](https://open.spotify.com/artist/2oC9pyZuesjV6X3NFksKgh) | [Meet Your Only World](https://open.spotify.com/album/3zepiSGgf7ErRVhlGqlSi4) | 3:02 | 2025-12-10 |  |
 | [Can′t Slow Me Down](https://open.spotify.com/track/66wSpvsxSBGBBnHax8VB9S) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [VALORANT / Can′t Slow Me Down](https://open.spotify.com/album/0KcTPJHY7Icv9WYHXmcun1) | 2:18 | 2023-09-16 |  |
@@ -275,6 +276,7 @@
 | [Shaded Cream](https://open.spotify.com/track/1fpjGTg8RUJOCsgckomeYm) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Exit Tunes Presents Supernova 8](https://open.spotify.com/album/3xpShqDPXoIalJ0ULfcssW) | 3:54 | 2026-04-07 |  |
 | [Shake It Now.](https://open.spotify.com/track/5PQt3xVYvS9kE2N7r8eHxW) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [rendez\-vous](https://open.spotify.com/album/3Oks0VL5KDShvcuNS4LSSJ) | 3:16 | 2023-11-27 |  |
 | [She looks kind of sleepy](https://open.spotify.com/track/4nDsiaMcZwD1fQ8uYC5QyM) | [issey](https://open.spotify.com/artist/6NOuhUhXshepSHcBqwwZJt) | [She looks kind of sleepy](https://open.spotify.com/album/4JUsEqaGD9kmzYWZjgK1j2) | 3:08 | 2025-08-25 |  |
+| [Shinitagari \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/6x7eohae2lVhyuWrT73Q0P) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Madonosoto](https://open.spotify.com/album/2OdO7kE96j5661nPePNUAq) | 2:47 | 2026-07-29 |  |
 | [Show](https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Show](https://open.spotify.com/album/0cVYRAqfYmIquJbmgUMTXH) | 3:09 | 2023-10-14 |  |
 | [SickS ckS](https://open.spotify.com/track/2NEUbfNRmFYxd4tlcYgBfF) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [THIS IS JAPANESE GIRL](https://open.spotify.com/album/1uOwGiCEqP2wzogsNBSsiS) | 5:02 | 2025-10-28 | 2026-03-29 |
 | [sifflet](https://open.spotify.com/track/426JELf4IKUDygeeSC2p5Q) | [rillrail](https://open.spotify.com/artist/7poCU746QVt1c794QGAO5d) | [sifflet / identity](https://open.spotify.com/album/5FCe9DeF7McTUnx8Z7msUW) | 3:34 | 2025-04-21 |  |

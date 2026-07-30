@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,762 songs - 4 day 10 hr 34 min
+1,763 songs - 4 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [GOOD GAME](https://open.spotify.com/track/36JbwNJsWAX6okCVh0Bwbo) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [GOOD GAME](https://open.spotify.com/album/0bjtXbZa2wuFABI2UiTlTc) | 3:19 | 2023-01-12 | 2023-04-05 |
 | [Good Life \- feat\. mimiko](https://open.spotify.com/track/15vktwvhLlloOkXlyvxZn1) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [mimiko](https://open.spotify.com/artist/455lBfYUwxeXcAnya8Aa9M) | [Traveling Without Moving](https://open.spotify.com/album/6VHlFWg2dznxkqwj6TadSZ) | 3:47 | 2023-07-14 | 2023-07-26 |
 | [good morning](https://open.spotify.com/track/4SvfH8npN9nXPUHOqA67c5) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [GENE](https://open.spotify.com/album/02YMpTWtl4ZYGwyDtDpSKl) | 4:04 | 2024-07-12 | 2024-09-05 |
-| [Good Morning](https://open.spotify.com/track/3vi0jFVbY21SJNbidnZLam) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Good Morning](https://open.spotify.com/album/4AmIYFw5LrSEvcVMh5GEYw) | 3:52 | 2026-04-15 |  |
+| [Good Morning](https://open.spotify.com/track/3vi0jFVbY21SJNbidnZLam) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Good Morning](https://open.spotify.com/album/4AmIYFw5LrSEvcVMh5GEYw) | 3:52 | 2026-04-15 | 2026-07-30 |
 | [Good Time In Disguise \- ft\. Chocoholic](https://open.spotify.com/track/2opO61VvinRaGiBGpWamGv) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Good Time In Disguise](https://open.spotify.com/album/2rEX0BniB4v4PaRGa5bsDE) | 2:42 | 2024-02-27 | 2024-04-03 |
 | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/track/3h17LvrGeu5QGVd1wC6lGX) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/album/4wiMHuITVjOFHhJPS7vtFv) | 3:38 | 2022-11-22 | 2022-12-07 |
 | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/track/6EBmpXG6b4RQU0I9OyBg4u) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [Good Times \(feat\. MÖSHI\)](https://open.spotify.com/album/38qm33jlDmm0RPJ1PjO9M3) | 3:38 | 2022-11-22 | 2022-11-24 |
@@ -1304,6 +1304,7 @@
 | [When I Feel You](https://open.spotify.com/track/5TyOOFGwABSR6OoX3k65j4) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [When I Feel You](https://open.spotify.com/album/5pJU06vlP1sffr47RXgF3n) | 3:28 | 2023-02-21 | 2023-03-01 |
 | [When I Feel You](https://open.spotify.com/track/6bMGySvDyXOTw9fhM5x8TF) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [When I Feel You](https://open.spotify.com/album/3SF3cXFyoG4CwN2ppbGk9N) | 3:28 | 2023-02-21 | 2023-02-23 |
 | [WHEN YOUR OWN INITIALS ARE ENOUGH](https://open.spotify.com/track/0huE46kfj5EC4TqEWw5Be5) | [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [SUNDANCE FOR BOTTEGA VENETA](https://open.spotify.com/album/4Ds0rPkwGrxsHSqysy8IoR) | 3:09 | 2025-08-20 | 2025-08-30 |
+| [where 2人](https://open.spotify.com/track/6eRzqPeVhhHcg6VU4Kstxh) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5) | [where 2人](https://open.spotify.com/album/7b1kfK1jS2YXjEoom8QCof) | 1:52 | 2026-07-29 |  |
 | [Whiskey](https://open.spotify.com/track/1oIZe3U574XwPSHCKw1CuX) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Whiskey](https://open.spotify.com/album/4vDnDGOvWhIXdRBB3B8IFW) | 3:54 | 2022-07-05 | 2022-07-27 |
 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 | 2022-07-21 | 2024-01-24 |
 | [Whole of Flower](https://open.spotify.com/track/3ovwLoowye9dVmbfhz1nEV) | [Suchmos](https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24) | [Whole of Flower](https://open.spotify.com/album/3K67zHSgeaMoQV7dtog8rS) | 4:09 | 2025-05-28 | 2025-11-08 |

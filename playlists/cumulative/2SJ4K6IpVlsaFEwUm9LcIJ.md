@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-1,058 songs - 2 day 16 hr 46 min
+1,060 songs - 2 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -938,6 +938,7 @@
 | [There's Your Trouble](https://open.spotify.com/track/69m9WDPBvemwujQwdONslk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Wide Open Spaces](https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj) | 3:13 | 2025-09-25 | 2025-11-15 |
 | [Things To You](https://open.spotify.com/track/1HkPnxK2lzKyDlzfOyiHE4) | [Skeeter Davis](https://open.spotify.com/artist/5b2OzvLaL6nyxw5pbVbSdy), [NRBQ](https://open.spotify.com/artist/5PpcyAkdpuo9a08HiU6yfi) | [She Sings, They Play \(Deluxe Edition\)](https://open.spotify.com/album/6VOmn4CoyJ9iHaWRv20Q1c) | 3:03 | 2025-05-08 | 2025-07-04 |
 | [This and That](https://open.spotify.com/track/2be4e2JQH0O2JdGdfuOsuA) | [The Maybellines](https://open.spotify.com/artist/1JvhzOsfMYwQHRB9cSYaBu) | [You’re Still Young At Heart](https://open.spotify.com/album/4khidwLMn0qGScYDSpM8J7) | 2:34 | 2025-05-08 | 2025-05-14 |
+| [This Morning You Take a Stroll out to the Pictish Stone](https://open.spotify.com/track/6xO1y57RRX1OM9BPYXcCJm) | [Aidan O'Rourke](https://open.spotify.com/artist/0PBTXsGBjdX8llmfBQyDOi), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [365 Complete Works 3](https://open.spotify.com/album/0ZH2CnksuVlh4NqToYDtUV) | 3:19 | 2026-07-29 |  |
 | [THOSE WERE THE DAYS](https://open.spotify.com/track/4O7DIqWNghdeixSGiVK8CZ) | [POiSON GiRL FRiEND](https://open.spotify.com/artist/5Yur3Z4Wrte4GfVCAbxObl) | [MELTING MOMENT](https://open.spotify.com/album/6asP1OdgPUjc7fSTvZxnaM) | 6:23 | 2026-07-18 |  |
 | [Threads of Soul](https://open.spotify.com/track/0oM7egZ2SwvjXeXs1mbCPh) | [Nagisa Ni Te](https://open.spotify.com/artist/2p8trEjUiEIXGKbT5n41C1) | [The Same As A Flower](https://open.spotify.com/album/140XeX1MjYRdex0dfe5mSS) | 4:50 | 2025-08-07 | 2025-09-11 |
 | [Threat of Joy](https://open.spotify.com/track/37ZgsOy8t4vMnGtMExr6ah) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Future Present Past](https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D) | 4:24 | 2025-07-03 | 2025-07-05 |
@@ -1065,6 +1066,7 @@
 | [東京幻想曲](https://open.spotify.com/track/2bWBTC67ELpbnwMHTN8lhg) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [A PRETTY DANCE](https://open.spotify.com/album/2AMTMvJufxxKc6xJoRht9t) | 4:27 | 2025-12-24 | 2026-01-15 |
 | [甜蜜蜜](https://open.spotify.com/track/0aIQZBntZW3LCptADbkfKZ) | [Teresa Teng](https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ) | [BTB 鄧麗君15週年](https://open.spotify.com/album/5joHY66NwcFkf0ho0u4Kym) | 3:28 | 2024-04-23 | 2024-05-16 |
 | [風をあつめて](https://open.spotify.com/track/4mDoYdwFGi5nPwwGIKqQnF) | [はっぴいえんど](https://open.spotify.com/artist/5cE4zmLUDdmvlYp8TP1YRn) | [風街ろまん](https://open.spotify.com/album/3N3NdhXkyIKauv6xkoUpwE) | 4:06 | 2026-07-21 |  |
+| [風来坊](https://open.spotify.com/track/16TP4YtbpExH4PYTEJ2yaC) | [Shione Yukawa](https://open.spotify.com/artist/7IFf66bWoJsaAmMXRUR3vG) | [映画「リンダ リンダ リンダ」 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4mYQrJxldeKaHf8GDTmNYf) | 3:19 | 2026-07-29 |  |
 | [麻醉](https://open.spotify.com/track/43ETKz3JIboOOOxtYOqFa9) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [王菲97](https://open.spotify.com/album/5AeqIizTW4zfHAdqljMseu) | 4:00 | 2025-08-23 | 2025-09-11 |
 
 \*This playlist was first scraped on 2024-02-12. Prior content cannot be recovered.

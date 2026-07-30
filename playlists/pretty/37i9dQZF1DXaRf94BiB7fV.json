@@ -1,13 +1,65 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Noush!",
-  "num_followers": 62273,
+  "description": "The best new music by independent artists and labels in India. Cover - Hayensa",
+  "num_followers": 62294,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPWnZ8R0s4TXDk4EG2KfgI8glvjS",
+  "snapshot_id": "AAAAAIJ+55HKrtGvMeAjj1+bhj+zZGyx",
   "tracks": [
+    {
+      "added_at": "2026-07-29 07:30:17",
+      "album": {
+        "name": "Shahar Nagar",
+        "url": "https://open.spotify.com/album/3ja8v2sJUdrj4Xynew2Up0"
+      },
+      "artists": [
+        {
+          "name": "Hayensa",
+          "url": "https://open.spotify.com/artist/1T9YYXd0EKevv9lA4z5bfh"
+        }
+      ],
+      "duration_ms": 238611,
+      "name": "Shahar Nagar",
+      "url": "https://open.spotify.com/track/6nT8HnwIR5YSGgakmowL18"
+    },
+    {
+      "added_at": "2026-07-29 07:30:17",
+      "album": {
+        "name": "Gehna",
+        "url": "https://open.spotify.com/album/74QAHkEmX1PlmNI0erVB4Q"
+      },
+      "artists": [
+        {
+          "name": "Arul Seth",
+          "url": "https://open.spotify.com/artist/2GHxhIZLapwD1R5nltITFL"
+        },
+        {
+          "name": "ZRYA",
+          "url": "https://open.spotify.com/artist/3rXwnEWqZbpPVPL1mAKot7"
+        }
+      ],
+      "duration_ms": 309333,
+      "name": "Gehna",
+      "url": "https://open.spotify.com/track/0BdR0WtdfmwyS5LnNoJ5wf"
+    },
+    {
+      "added_at": "2026-07-29 07:30:17",
+      "album": {
+        "name": "Mil Ja Tu",
+        "url": "https://open.spotify.com/album/0Q9mwKVZjDoh7icpoLNa4Q"
+      },
+      "artists": [
+        {
+          "name": "Ankita Barwad",
+          "url": "https://open.spotify.com/artist/5TFZxLxVzFec55swRGsGdO"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Mil Ja Tu",
+      "url": "https://open.spotify.com/track/1IdmjEkJ4VahCtEXcfnxXi"
+    },
     {
       "added_at": "2026-07-15 08:00:14",
       "album": {
@@ -535,22 +587,6 @@
     {
       "added_at": "2026-07-15 08:00:14",
       "album": {
-        "name": "Hey June",
-        "url": "https://open.spotify.com/album/1GSMyCTYOXy5lM0cUzVA7d"
-      },
-      "artists": [
-        {
-          "name": "KL Pamei",
-          "url": "https://open.spotify.com/artist/10JY3GePCb2FoUtokVcMCT"
-        }
-      ],
-      "duration_ms": 187050,
-      "name": "Hey June",
-      "url": "https://open.spotify.com/track/27bUIbEoE5wR5TSOKwbJwU"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
         "name": "Illusions",
         "url": "https://open.spotify.com/album/22MxarLyVJJAEnToRzrjEu"
       },
@@ -615,22 +651,6 @@
     {
       "added_at": "2026-07-15 08:00:14",
       "album": {
-        "name": "Wahh",
-        "url": "https://open.spotify.com/album/1Dp4p1MR8ygBdJajznnIAo"
-      },
-      "artists": [
-        {
-          "name": "Bawari Basanti",
-          "url": "https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8"
-        }
-      ],
-      "duration_ms": 263570,
-      "name": "Seekh",
-      "url": "https://open.spotify.com/track/1D0Kpfdafedi0GGALpvCLF"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
         "name": "Jaadu",
         "url": "https://open.spotify.com/album/0fU1AmZ0eG7mYAouc4BU1M"
       },
@@ -667,22 +687,6 @@
       "duration_ms": 226043,
       "name": "Daag.",
       "url": "https://open.spotify.com/track/3JQcP0Lf3FkVIP758wdkMX"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Fasaana",
-        "url": "https://open.spotify.com/album/1aXkbjRSWxyBZOujzSE8Wj"
-      },
-      "artists": [
-        {
-          "name": "Kuhu Gracia",
-          "url": "https://open.spotify.com/artist/4ebleKdf8oHmy6tyB0W6cq"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Fasaana",
-      "url": "https://open.spotify.com/track/69UVWiMCXMNnj6bKLc2Bi6"
     },
     {
       "added_at": "2026-07-15 08:00:14",
@@ -871,22 +875,6 @@
       "duration_ms": 176869,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/5cTYkfhZWoyXs7j4WD0j1J"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Zikr Tera",
-        "url": "https://open.spotify.com/album/0H2bmRxFpDPv4QVJ7fC7qo"
-      },
-      "artists": [
-        {
-          "name": "Ummeed",
-          "url": "https://open.spotify.com/artist/2xEft5R8UkOaKA2fgsT9Kq"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Zikr Tera",
-      "url": "https://open.spotify.com/track/1M9u5kPU8aio16038y4qPX"
     },
     {
       "added_at": "2026-07-15 08:00:14",

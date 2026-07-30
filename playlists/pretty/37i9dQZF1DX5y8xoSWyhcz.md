@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,796 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,785 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 45 | [Man of McGill](https://open.spotify.com/track/2VIb64fIV3ln6ldUWoqAtw) | [Neighbour Andy](https://open.spotify.com/artist/0p9ozwnqaVgVFSLMJAST4O) | [Man of McGill](https://open.spotify.com/album/6sM7bDkBFvTEjagUSdgHnn) | 2:52 |
 | 46 | [Otis](https://open.spotify.com/track/15UBUtrFnpS9fcPbil0xzv) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Heart So Open](https://open.spotify.com/album/1r0AuBhbjA8ax7mKTIh1zu) | 2:47 |
 | 47 | [Tout ce qui dépasse](https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC) | [Tout ce qui dépasse](https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc) | 2:50 |
-| 48 | [delete you.](https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [delete you.](https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3) | 3:08 |
+| 48 | [Delete You.](https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Delete You.](https://open.spotify.com/album/1vRZ4rFrTNNgeyBmBqFdf3) | 3:08 |
 | 49 | [easy tiger](https://open.spotify.com/track/3ulNNb7ox9CcwPPi3AqmAc) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [easy tiger](https://open.spotify.com/album/6IovnQ5usg4qD2AHCgO6dN) | 2:48 |
 | 50 | [How Will I Ever Fall In Love Again](https://open.spotify.com/track/3WdtzUeysX0Q06O2qFVDaY) | [Bombargo](https://open.spotify.com/artist/5gcuakqbbCNnx9fBZWCFfW) | [How Will I Ever Fall In Love Again](https://open.spotify.com/album/1b7ajqZ12QLl55apQQ7Svu) | 2:50 |
 | 51 | [Delaware Days](https://open.spotify.com/track/0NUeiHMFchwb5wBGAW16WN) | [Benja](https://open.spotify.com/artist/36Bs5vvvt4AfdIvApt1Rid) | [Delaware Days](https://open.spotify.com/album/3smLlmjmBZ5YAjEqjAFq6b) | 2:21 |

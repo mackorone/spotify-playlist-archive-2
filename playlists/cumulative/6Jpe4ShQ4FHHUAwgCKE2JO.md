@@ -4,7 +4,7 @@
 
 > This country is a corpse
 
-54 songs - 3 hr 17 min
+56 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,12 +48,14 @@
 | [Quiet as a Rat](https://open.spotify.com/track/16k3poCtMzSsrlYEGwFX1O) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Born Against](https://open.spotify.com/album/4XEgfcc6oEc9KT1T9T4dn8) | 3:14 | 2024-12-09 |  |
 | [Redesign Your Logo](https://open.spotify.com/track/6BVpvP8cxaBlYS1x6u01Sq) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [The Fump, Vol\. 20: March \- April 2010](https://open.spotify.com/album/795ErcyPhr0Trsq0a4SauM) | 4:19 | 2025-01-21 |  |
 | [Resist The Temptation](https://open.spotify.com/track/2MYy0p8fjsfwmlIe3EafUj) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 5:44 | 2025-04-12 |  |
+| [Rich People](https://open.spotify.com/track/5hK5lhsnwzrVrBZpDgD1wM) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Rich People](https://open.spotify.com/album/3cBqmSdjrdk4DoFcLt6PMX) | 2:38 | 2026-07-29 |  |
 | [Scooby](https://open.spotify.com/track/7FgzUrj1BpgYc4cQrmxoBC) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [Scooby](https://open.spotify.com/album/3edm79zZr6X8YesYYew0F8) | 3:41 | 2026-06-10 |  |
 | [Sideshow](https://open.spotify.com/track/4hFMy4uUSJ4hFfYpAVd1OI) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Swords](https://open.spotify.com/album/2oTWDmzqeri1WOvpSH5J4g) | 5:29 | 2024-04-08 |  |
 | [Sixteen Tons](https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d) | [Geoff Castellucci](https://open.spotify.com/artist/1TIQZBUSqWPrBZuh80x6Rz) | [Sixteen Tons](https://open.spotify.com/album/1TYeSHzqyRK8gfn8I0drTr) | 2:50 | 2023-11-15 |  |
 | [Solidarity Forever](https://open.spotify.com/track/5NShvMH3lRmQPW4qc0hYKY) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:54 | 2024-09-16 |  |
 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 | 2023-07-23 |  |
 | [The Ballad of Crowfoot](https://open.spotify.com/track/0gFggOFUXynJtprBeJ1rTy) | [Willie Dunn](https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6) | [Creation Never Sleeps, Creation Never Dies: The Willie Dunn Anthology](https://open.spotify.com/album/5qr30I1zoVNzWmApcC2e3m) | 9:54 | 2023-05-15 |  |
+| [The Beehive State](https://open.spotify.com/track/11jbwaXDDNk0zRWfQkqv3b) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Sings Newman](https://open.spotify.com/album/3iIaJ5KOzksixKpJwdpQnz) | 2:08 | 2026-07-29 |  |
 | [The Hand That Feeds](https://open.spotify.com/track/1ejQlif5hMrqgnfnZztCsN) | [The Crane Wives](https://open.spotify.com/artist/5U6leWxYKsuTkd4kXcF1a6) | [Coyote Stories](https://open.spotify.com/album/7LhR1u0oyu001ADfAxEtsS) | 4:27 | 2025-04-27 |  |
 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 | 2024-01-02 |  |
 | [Trapped](https://open.spotify.com/track/6DT5d8o7ojxXs1dKwLXRRp) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:44 | 2025-04-04 |  |

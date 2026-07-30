@@ -1,6 +1,6 @@
 {
   "description": "Bedroom bootlegs and electroclash gems. Cover: MGMT",
-  "num_followers": 81003,
+  "num_followers": 81014,
   "original_name": "Bloghouse",
   "owner": {
     "name": "Spotify",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-08-08 18:53:25",
       "album": {
-        "name": "Boy From School (The Mixes)",
-        "url": "https://open.spotify.com/album/2R9LoJZvTlVPzqK6AmcHf8"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        },
-        {
-          "name": "Erol Alkan",
-          "url": "https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5"
-        }
-      ],
-      "duration_ms": 619786,
-      "name": "Boy From School - Erol Alkan's Extended Re-Work",
-      "url": "https://open.spotify.com/track/7m7XMDBYgLFauv82VGqM44"
-    },
-    {
-      "added_at": "2024-08-08 18:53:25",
-      "album": {
         "name": "Waves / Death Suite",
         "url": "https://open.spotify.com/album/48lTirKJr3KPyjFKS0AjM4"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 522718,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1Gc1jlpUAG98SYmec611A2"
+    },
+    {
+      "added_at": "2024-08-08 18:53:25",
+      "album": {
+        "name": "Boy From School (The Mixes)",
+        "url": "https://open.spotify.com/album/2R9LoJZvTlVPzqK6AmcHf8"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Erol Alkan",
+          "url": "https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5"
+        }
+      ],
+      "duration_ms": 619786,
+      "name": "Boy From School - Erol Alkan's Extended Re-Work",
+      "url": "https://open.spotify.com/track/7m7XMDBYgLFauv82VGqM44"
     },
     {
       "added_at": "2024-08-08 18:53:25",

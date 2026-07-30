@@ -2,7 +2,7 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: John Park\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: siso & ALICE U\)
 
 662 songs - 1 day 11 hr 25 min
 
@@ -452,7 +452,7 @@
 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 | 2023-10-27 | 2024-01-09 |
 | [PLOP! \(feat\. Ja Mezz\)](https://open.spotify.com/track/1oAHZbOqxuObwQDBpEM028) | [YOUS](https://open.spotify.com/artist/2QqoL1AFpV7fyOMBuVmITB), [Ja Mezz](https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi) | [PLOP!](https://open.spotify.com/album/56jnNGjXaeqKayetMZrute) | 2:52 | 2025-08-05 | 2026-01-23 |
 | [Plus n Minus](https://open.spotify.com/track/0usiwkXqoWNX3yqGFfRBAu) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Plus n Minus](https://open.spotify.com/album/2ZJoZrfVVAKpt798ti3Qdc) | 2:36 | 2022-05-28 | 2022-07-28 |
-| [POSE \(with\. Chloe Kim\)](https://open.spotify.com/track/6sTslEqIBZq9G3pzYeuMpF) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa), [Chloe Kim](https://open.spotify.com/artist/6RyDv3qEgsPkLBvcLiKn3E) | [POSE](https://open.spotify.com/album/29pBCwnwfAtxq4vcsOYPTk) | 2:40 | 2026-07-17 |  |
+| [POSE \(with\. Chloe Kim\)](https://open.spotify.com/track/6sTslEqIBZq9G3pzYeuMpF) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa), [Chloe Kim](https://open.spotify.com/artist/6Yzgf7VD94ioqqVX8ZcTm1) | [POSE](https://open.spotify.com/album/29pBCwnwfAtxq4vcsOYPTk) | 2:40 | 2026-07-17 |  |
 | [Power](https://open.spotify.com/track/13diDrHSmIrX0ybi3Bi3eN) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8) | [Power](https://open.spotify.com/album/2NMeQY7x3Asnp48FvZzHlX) | 2:49 | 2024-03-19 | 2024-07-11 |
 | [Private Language](https://open.spotify.com/track/5PXbAtE5H3e3SkWXenu07T) | [Pil Kyo](https://open.spotify.com/artist/2ZVOkp4yAY6v4mD4YR8Chw) | [Private Language](https://open.spotify.com/album/7z7fiojUks8WesV42xMf4r) | 4:11 | 2022-05-28 | 2022-07-28 |
 | [prod by Ra.D 5 \(Vocal\. Do yeon\)](https://open.spotify.com/track/3EVL3dbvpgMmHwgPJmCgkI) | [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S), [Do yeon](https://open.spotify.com/artist/3US4SsYFOQPaIdmwc3Rzxr) | [prod by Ra.D 5](https://open.spotify.com/album/08sxEQNkKHyLWbhjHGU5mb) | 2:27 | 2022-05-28 | 2022-07-28 |

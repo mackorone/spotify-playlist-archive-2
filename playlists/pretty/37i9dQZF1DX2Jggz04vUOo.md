@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,309 likes - 93 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,360 likes - 93 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 87 | [Guava \- Extended Mix](https://open.spotify.com/track/5foz4U3rwtDfEgnBsxWFIi) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage \(Remixed\)](https://open.spotify.com/album/7foBIxNuDrS5OZZHS8zGhH) | 4:28 |
 | 88 | [Pankobabaunka](https://open.spotify.com/track/3A3ajsjijV89D9gcSMwyGo) | [ORANGE](https://open.spotify.com/artist/3GCL5c4VCnoSojNcRQHXF8) | [Hu](https://open.spotify.com/album/5YGxjtG4r6iRMhmDP4gXDV) | 5:35 |
 | 89 | [Micro e Macro](https://open.spotify.com/track/0AtIUf3tJjPVm1eCv97YZf) | [Y E L A G U A](https://open.spotify.com/artist/40Zk95YDoHpArI74cXxvsR) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/5j6v7TGXqQnxAo5njwHXUd) | 5:22 |
-| 90 | [Oumuamua](https://open.spotify.com/track/3pxVmjB9N8fcRvbueDSAAu) | [AKASHA MX](https://open.spotify.com/artist/721EuEbzImpF3q72RR9rCP), [Rüdiger Eisberg](https://open.spotify.com/artist/4MzjNjClAQ31VRbiuaITpg) | [Projektion](https://open.spotify.com/album/79lQaXwDSWXrEep5gJ7PDv) | 6:58 |
+| 90 | [Oumuamua](https://open.spotify.com/track/3pxVmjB9N8fcRvbueDSAAu) | [Rüdiger Eisberg](https://open.spotify.com/artist/4MzjNjClAQ31VRbiuaITpg), [AKASHA MX](https://open.spotify.com/artist/721EuEbzImpF3q72RR9rCP) | [Projektion](https://open.spotify.com/album/79lQaXwDSWXrEep5gJ7PDv) | 6:58 |
 | 91 | [La Campanera](https://open.spotify.com/track/0AVoDNqfSnqqZjHgdqmj10) | [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [La Trayectoria](https://open.spotify.com/album/5XglLEgjNV5EiA5EF6KAxT) | 3:59 |
 | 92 | [Adir Adirim \(feat\. Victoria Hanna\)](https://open.spotify.com/track/6VxSZtJSur7288x4F6Ky2S) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Victoria Hanna](https://open.spotify.com/artist/5nVeL2VpRWBOmH5oN8nuqv) | [Balkan Beat Box](https://open.spotify.com/album/3kpfXAnyZmUXmjnVe8u1G2) | 5:19 |
 | 93 | [Mosquitos](https://open.spotify.com/track/602YwqlTMbDvTY4s75iiBi) | [JPattersson](https://open.spotify.com/artist/3Rn7rHuGSE7KzIwVFz2qHK) | [On The Fly](https://open.spotify.com/album/5O3R2MBtK0afRKPMlzjR5c) | 3:32 |

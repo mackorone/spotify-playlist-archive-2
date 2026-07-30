@@ -4,7 +4,7 @@
 
 > Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
-269 songs - 8 hr 25 min
+270 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [miss my call \(cover\)](https://open.spotify.com/track/6V74ZHQefH40T9oKzsCfTl) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [miss my call \(cover\)](https://open.spotify.com/album/6GTEWE9XV0aygoVvQvvDRO) | 1:39 | 2023-12-05 |  |
 | [My Best Friend](https://open.spotify.com/track/1Jm8NcQznEVoaJKTo55lWu) | [Blurain](https://open.spotify.com/artist/1qoYHtGe1GYUzFpoRIse8y), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [What Life Really Means](https://open.spotify.com/album/7q0PCPBP03V5hwyspBIGZv) | 4:32 | 2024-09-07 |  |
 | [my wedding vows \(bandlab draft\)](https://open.spotify.com/track/20tyjhMlh86gHLvWEglLwc) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [my wedding vows \(bandlab draft\)](https://open.spotify.com/album/4Kj2mizREDHrPPu4e7KSsg) | 1:51 | 2025-01-07 |  |
+| [Naked \(Take It Off\)](https://open.spotify.com/track/7JK1S7nir9iTilzLYnJMun) | [Ari Angel](https://open.spotify.com/artist/1ghLMZERLxfWGY22QMtTfv), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [ANGEL](https://open.spotify.com/album/6mYJ8HjTRs8fvLryZyEnmb) | 2:50 | 2026-07-29 |  |
 | [never die](https://open.spotify.com/track/0M7Z4htoGZy9vlasYOCiru) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kittydog music album](https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk) | 0:34 | 2023-12-05 |  |
 | [no inbetween](https://open.spotify.com/track/0oZ40mVIogyQEXwzPHwofi) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [no inbetween](https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp) | 1:51 | 2023-12-05 |  |
 | [no inbetween \- Instrumental](https://open.spotify.com/track/7qW4ZzmIIAjW40jZ38REGf) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [no inbetween](https://open.spotify.com/album/58Dg0MAg2CiZqfT0c8GtUp) | 1:51 | 2023-12-05 |  |

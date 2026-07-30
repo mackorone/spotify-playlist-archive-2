@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1327,
+  "num_followers": 1328,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAWg94xdsKFFuCczNvyUPV/UoFGlCeW",
+  "snapshot_id": "AAAWjN8GEwsZ2mR2QrNqdOGyGeji1n+I",
   "tracks": [
     {
       "added_at": "2026-07-02 22:11:30",
@@ -1831,6 +1831,166 @@
       "duration_ms": 177054,
       "name": "Cereus",
       "url": "https://open.spotify.com/track/4JFWectEdp4IlPfAhvMpLJ"
+    },
+    {
+      "added_at": "2026-07-29 09:08:40",
+      "album": {
+        "name": "Boldly Piano Remake",
+        "url": "https://open.spotify.com/album/3L6SigtNYKcjDl2dyckOrv"
+      },
+      "artists": [
+        {
+          "name": "eKbeats",
+          "url": "https://open.spotify.com/artist/1gpShRgOkgvzSV822BqQ50"
+        },
+        {
+          "name": "Eastman",
+          "url": "https://open.spotify.com/artist/6sVZtMLp71Ky4TFGdz97yZ"
+        }
+      ],
+      "duration_ms": 139565,
+      "name": "Boldly Piano Remake",
+      "url": "https://open.spotify.com/track/2vrDMBBmTFGxhjGGktCv30"
+    },
+    {
+      "added_at": "2026-07-29 09:08:43",
+      "album": {
+        "name": "Ad Astra",
+        "url": "https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj"
+      },
+      "artists": [
+        {
+          "name": "Constant Vertex",
+          "url": "https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM"
+        }
+      ],
+      "duration_ms": 131185,
+      "name": "Lost 4 Words",
+      "url": "https://open.spotify.com/track/4gSWjxchEthEOJOKvO3LrY"
+    },
+    {
+      "added_at": "2026-07-29 09:08:45",
+      "album": {
+        "name": "Last rodeo",
+        "url": "https://open.spotify.com/album/4XHy4WlsrfeHMWDufDoYkg"
+      },
+      "artists": [
+        {
+          "name": "Torfevas",
+          "url": "https://open.spotify.com/artist/0XBartTCLbhKPDOZsOgwG1"
+        }
+      ],
+      "duration_ms": 191045,
+      "name": "Last rodeo",
+      "url": "https://open.spotify.com/track/266WcmftXBccJkcTOl3tWU"
+    },
+    {
+      "added_at": "2026-07-29 09:08:51",
+      "album": {
+        "name": "Tu sei importante",
+        "url": "https://open.spotify.com/album/5ZpVTnIRUJAsK1SQSJmBdZ"
+      },
+      "artists": [
+        {
+          "name": "Nailuz",
+          "url": "https://open.spotify.com/artist/75eTPvGYXVQkPzo0kVk6mg"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Tu sei importante",
+      "url": "https://open.spotify.com/track/5UlwYVqgbY13cVlWx70udU"
+    },
+    {
+      "added_at": "2026-07-29 09:08:54",
+      "album": {
+        "name": "You Just Want Sex",
+        "url": "https://open.spotify.com/album/0bgSwyYZRCbSs1gDmWz1ns"
+      },
+      "artists": [
+        {
+          "name": "Trendsetter",
+          "url": "https://open.spotify.com/artist/2r6KOzzHhbWaMwP2EwmUEM"
+        },
+        {
+          "name": "Magnus Deus",
+          "url": "https://open.spotify.com/artist/2ucNjOKWBIEBnzvFgmJAn3"
+        },
+        {
+          "name": "Katty G",
+          "url": "https://open.spotify.com/artist/5AzDXioaAPrx8SzjCyFnIB"
+        }
+      ],
+      "duration_ms": 212245,
+      "name": "You Just Want Sex",
+      "url": "https://open.spotify.com/track/1gKUHmmt034rVgEJa331K4"
+    },
+    {
+      "added_at": "2026-07-29 09:08:59",
+      "album": {
+        "name": "TRENDSETTER",
+        "url": "https://open.spotify.com/album/6JWcKuOYeKNlp9h8MPYJNg"
+      },
+      "artists": [
+        {
+          "name": "Zaya Love",
+          "url": "https://open.spotify.com/artist/7MBtJesquNBluPqKJyW6W1"
+        },
+        {
+          "name": "Mark Holiday",
+          "url": "https://open.spotify.com/artist/0c2te8OzhhVjiqXaAku4Hx"
+        }
+      ],
+      "duration_ms": 132726,
+      "name": "Winnin",
+      "url": "https://open.spotify.com/track/2HPCqbMp7VDmYhUrS2gbjk"
+    },
+    {
+      "added_at": "2026-07-29 09:09:00",
+      "album": {
+        "name": "Pal Bhar",
+        "url": "https://open.spotify.com/album/5QmCu8GISp4vpe5oW5wXCJ"
+      },
+      "artists": [
+        {
+          "name": "Prachi",
+          "url": "https://open.spotify.com/artist/0aGQ8kYrK0HH2lNiQcb9kG"
+        }
+      ],
+      "duration_ms": 106153,
+      "name": "Pal Bhar",
+      "url": "https://open.spotify.com/track/2Z6s7fZKcaO65QCkwvIIpv"
+    },
+    {
+      "added_at": "2026-07-29 09:09:46",
+      "album": {
+        "name": "Vola Leggera",
+        "url": "https://open.spotify.com/album/0h3LnXhQjcgeqZsPMJ34Mo"
+      },
+      "artists": [
+        {
+          "name": "Giofly",
+          "url": "https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp"
+        }
+      ],
+      "duration_ms": 294288,
+      "name": "Vola Leggera",
+      "url": "https://open.spotify.com/track/6kzM8uw61dGVDElx6EW0Vf"
+    },
+    {
+      "added_at": "2026-07-29 09:10:09",
+      "album": {
+        "name": "Keep On",
+        "url": "https://open.spotify.com/album/6p3z9hLzS3UdK9Hr0F3Dfz"
+      },
+      "artists": [
+        {
+          "name": "Urban Psalm",
+          "url": "https://open.spotify.com/artist/5ljCY9HMtCo072z28PCuHK"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Keep On",
+      "url": "https://open.spotify.com/track/2EeGM8HJAcABdRJlUD2zNp"
     }
   ],
   "unique_name": "New Indie Music",

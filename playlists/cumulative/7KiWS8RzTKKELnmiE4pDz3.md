@@ -4,7 +4,7 @@
 
 > 
 
-1,534 songs - 3 day 10 hr 51 min
+1,535 songs - 3 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Black Magic \(Make It Better\)](https://open.spotify.com/track/19Dqy71XekURex0XMKvfR8) | [Little Brother](https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO) | [May the Lord Watch](https://open.spotify.com/album/5uyW47qYkSkjoh6WT6I89k) | 2:33 | 2026-06-25 |  |
 | [black mirror](https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 2:17 | 2023-08-21 |  |
 | [Black Petunia](https://open.spotify.com/track/2f83a8dYxb43CK1V6F89t9) | [Capital STEEZ Archive](https://open.spotify.com/artist/4LHyVZgCe5QLSmCILz5Fvy) | [AmeriKKKan Korruption](https://open.spotify.com/album/77btIQG6LDaCWiWmWtnCXr) | 3:29 | 2023-02-01 | 2023-04-12 |
+| [Black Sheep](https://open.spotify.com/track/0b5Ck9iMhTNpnmUjdbsfsQ) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Water \(S\)](https://open.spotify.com/album/39yAlNzbQD6MAvveqeY3IP) | 3:17 | 2026-07-29 |  |
 | [Black Smif\-n\-Wessun](https://open.spotify.com/track/3SQaG07nuKDVneBJnK9z3U) | [Black Moon](https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb), [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Enta Da Stage](https://open.spotify.com/album/5Di7sTCL8zU5rHMl98qliQ) | 4:21 | 2025-09-24 | 2026-03-08 |
 | [Black Tame](https://open.spotify.com/track/2nAEYxNIEC5vh1HrLUbH7L) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Don't Go Tellin' Your Momma](https://open.spotify.com/album/1EieCilyiR9fOnjbV8sTEm) | 4:12 | 2026-05-20 |  |
 | [Blakk Rokkstar](https://open.spotify.com/track/1LsisG6aoqfsF1r6M4LpMO) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:50 | 2025-06-01 | 2026-03-08 |

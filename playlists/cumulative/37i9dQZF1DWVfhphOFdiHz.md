@@ -2,9 +2,9 @@
 
 ### [GLOW US & Canada](https://open.spotify.com/playlist/37i9dQZF1DWVfhphOFdiHz)
 
-> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Victoria Monét
+> Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Next of Kin
 
-619 songs - 1 day 9 hr 1 min
+620 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Diamond Eyes](https://open.spotify.com/track/0MNVHfB2u3cVfT4L2vXR86) | [Gregory Dillon](https://open.spotify.com/artist/2Tn88QCFtNhPRnqzwYtrP1), [Strange Talk](https://open.spotify.com/artist/0trBqRcZ4lXqh8FERL5ZMa) | [Diamond Eyes](https://open.spotify.com/album/3YhBNq6O4MOE42HRkc8JXa) | 3:17 | 2023-12-15 | 2024-06-01 |
 | [die 4 u](https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [girls like girls the album](https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi) | 3:52 | 2026-06-16 |  |
 | [Dildo Machine](https://open.spotify.com/track/2I9x0XMsntFsDPpsR02KN4) | [ShyBoy](https://open.spotify.com/artist/7ffd31YbzS82DddmRc5p3v), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Queer for Fear: The History of Queer Horror \(Original Score and Soundtrack\)](https://open.spotify.com/album/2ipiLNbC5npVA1woNdCmJT) | 4:22 | 2023-12-15 | 2024-03-09 |
+| [Dimestore Jesus](https://open.spotify.com/track/2hQGYhRG5GoIu0joUsB0nn) | [Next of Kin](https://open.spotify.com/artist/668OF7yLpmsPIL10HHKPFC) | [Dimestore Jesus](https://open.spotify.com/album/3rLZ5UUHqXH0B9qHVJ5dco) | 3:37 | 2026-07-29 |  |
 | [DISNEY PRINCESS](https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DISNEY PRINCESS](https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H) | 4:05 | 2026-03-03 | 2026-03-28 |
 | [Dog](https://open.spotify.com/track/7EhOrPGj3Tfc4CPoDiA8rl) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Gentleman](https://open.spotify.com/album/1I82HtlqS1Fdb6zp7R0deo) | 3:08 | 2026-05-15 | 2026-07-04 |
 | [DOG SAY?](https://open.spotify.com/track/0xTqIJji8CjGwkqDtJm0BX) | [BRONZE AVERY](https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW) | [DOG SAY?](https://open.spotify.com/album/2e0snPCSyAUfwRyx8DLyPu) | 2:18 | 2026-06-16 | 2026-07-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 469 likes - 289 songs - 14 hr 52 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 471 likes - 302 songs - 15 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -297,5 +297,18 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 287 | [Hustle Mood](https://open.spotify.com/track/6VluHnIhqJVfI3AaYEKbx0) | [Chi Official](https://open.spotify.com/artist/0W2H1inrVCfZv8jt7az3gf), [Vidic](https://open.spotify.com/artist/0Nr1t4Ftzzt6fXTuXspYJZ) | [Hustle Mood](https://open.spotify.com/album/3fZJIeUlGBa8bFP8keD69H) | 2:25 |
 | 288 | [Bul](https://open.spotify.com/track/0tBb9eu461pXFKov9n6eJz) | [Falko](https://open.spotify.com/artist/3lGrOeydURHEYbkYguZOi4) | [Bul](https://open.spotify.com/album/43GDmTHoGwoLZNg6LnpoHq) | 1:22 |
 | 289 | [When It Comes My Way](https://open.spotify.com/track/57hVO6knZIXkHRV1nxYGAP) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [When It Comes My Way](https://open.spotify.com/album/1mvmlh5yZgm1W7IMnAhVV3) | 3:10 |
+| 290 | [Toda](https://open.spotify.com/track/1noazSDRV2QZKgc3z8d1eU) | [AGØ](https://open.spotify.com/artist/58aw7BQNLlq2b9WyR9MBtd), [Nittsuga](https://open.spotify.com/artist/3LORUDLxbOAQfglcxQjQ7k) | [Toda](https://open.spotify.com/album/23HJu1trKa0LjqA5NA7YzH) | 2:48 |
+| 291 | [Ragazzi Fragili](https://open.spotify.com/track/0JYeN0lVxtX8Ls4oA7zK79) | [Elys](https://open.spotify.com/artist/1XsYoEthLWyd7i1G4MDzrk) | [Ragazzi Fragili](https://open.spotify.com/album/72aKm9WRFk0ennrGoUdNXE) | 3:14 |
+| 292 | [Blodwyn](https://open.spotify.com/track/5UFmMdHSFqbWXQJoAbppSm) | [Moss Meredith](https://open.spotify.com/artist/3DL8xk1UlC6kPkrlbTHA56) | [Blodwyn](https://open.spotify.com/album/6UUxFXo46hihB0aOxV5kPq) | 3:20 |
+| 293 | [No He Tenido Tiempo](https://open.spotify.com/track/3ad00Dqte1G0DR5FKkwyHy) | [LuisEnrique NR](https://open.spotify.com/artist/4n8ZCRYPCJshSuomDy6HIz) | [No He Tenido Tiempo](https://open.spotify.com/album/0dvOUiGITBaZ0J0TIBgXph) | 2:06 |
+| 294 | [Give It Up](https://open.spotify.com/track/4RycHxmOfMVUwEbjQvHjpM) | [Kunnel Dtag](https://open.spotify.com/artist/0HXuhB5PCSq1LE1ZIZIA2k), [Swaggboss](https://open.spotify.com/artist/3UOdnyIqfJdOovR4F6AMbM) | [Give It Up](https://open.spotify.com/album/5EsWu7goTDcqlcVPP9CrX4) | 2:41 |
+| 295 | [Fly Away](https://open.spotify.com/track/4uMmfYswq0PZlVhXAJz9We) | [Tokyo Skinny Boys](https://open.spotify.com/artist/2vFdYtxx6udXrYgRmDRIki), [アシュリー・ジャナ](https://open.spotify.com/artist/5pkn84el4kBpJbqKqo8c37), [リー・ホーガンズ](https://open.spotify.com/artist/4eAK2KzzSnaZleZBvBxVUX) | [Fly Away](https://open.spotify.com/album/5owhjpMIk4BeruzvhigTGe) | 5:09 |
+| 296 | [We're Ok](https://open.spotify.com/track/02YKUMpXPdPd05IGpgcvtr) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC) | [We're Ok](https://open.spotify.com/album/6D0q6dY0gC9c9tGKRYlQmp) | 2:56 |
+| 297 | [If I Were Born Again \(feat\. Samsam\) \- Alternate Mix](https://open.spotify.com/track/5gvww44UscPDAsjqZ7XiAA) | [Tom Ishizuka](https://open.spotify.com/artist/0eqRo2tB43csWnhKsWUCNS), [SamSam](https://open.spotify.com/artist/2ete2rPrIXjihL1NIzkq42) | [If I Were Born Again \(feat\. Samsam\) \[Alternate Mix\]](https://open.spotify.com/album/6dhHnkJhzD7HUHzIGxb8D8) | 3:40 |
+| 298 | [Traumatized](https://open.spotify.com/track/6mXXrKN85AXWQOZCGLHBLM) | [Tubez](https://open.spotify.com/artist/6M3ZsMuBPybfM8fEWba11w) | [Traumatized](https://open.spotify.com/album/2oYJqf56dQY1MSrjb7CDai) | 2:11 |
+| 299 | [Come Love Me](https://open.spotify.com/track/1ni7OjG0TFkkgYXcr5XnWd) | [awilli9004](https://open.spotify.com/artist/6nQMOiWajkm9VmGDc7otaM) | [Come Love Me](https://open.spotify.com/album/5nvJaBiL9d2u40TPkXZsJW) | 4:33 |
+| 300 | [Out of Love](https://open.spotify.com/track/1lOmZOmTOMEHCDMeLjWonq) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd) | [Out of Love](https://open.spotify.com/album/0SPQ2rU3A1caU3TZEGakAq) | 4:04 |
+| 301 | [Reset](https://open.spotify.com/track/3LzAKSVsahHNlCQ0huI9Nh) | [yunqxe](https://open.spotify.com/artist/0NJYBkIsHqrsbhnEwye6K9) | [rewind](https://open.spotify.com/album/5rW4efG2boIPw4JNblBbXj) | 2:54 |
+| 302 | [Chissa se](https://open.spotify.com/track/4H4IgJlmBtimq7OsJdEr5E) | [Double V](https://open.spotify.com/artist/5HsC7pLTz4L8fw7ZYabOzP) | [Chissa se](https://open.spotify.com/album/0ziNCa6V2Cew4AcFcGyi0H) | 3:35 |
 
-Snapshot ID: `AAAeOifhvL/cMJWfE//No+NsRc6oH4TV`
+Snapshot ID: `AAAeRwxocS6iEoOIaiMnTdr+Ie/EXSmp`

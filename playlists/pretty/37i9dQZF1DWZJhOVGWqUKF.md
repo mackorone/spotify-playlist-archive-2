@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 
 > Sechs Saiten für ein Halleluja\. Cover: Chaosbay
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,876 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,857 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 | 81 | [1x1](https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [1x1](https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts) | 3:56 |
 | 82 | [For I Am Death](https://open.spotify.com/track/3K85nEutdOPbJuAJgoe2O4) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [For I Am Death](https://open.spotify.com/album/7LnfxsUCMGkJfwQm969CKM) | 3:39 |
 | 83 | [Unshatter](https://open.spotify.com/track/0D7RVmTlKkmRchqKA4zJht) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Unshatter](https://open.spotify.com/album/56zX5d4lPMLS5dkjLXpOd7) | 3:16 |
-| 84 | [BLINDFOLD](https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:14 |
+| 84 | [Blindfold](https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:14 |
 | 85 | [Separate](https://open.spotify.com/track/61ebglogYwWK4aBLr7AHi3) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Separate](https://open.spotify.com/album/0g7GoM0FyngljVs9mBSKKx) | 3:56 |
 | 86 | [G.O.D\. And The Broken Ribs](https://open.spotify.com/track/21UKOMGmKw9bqoHq7p9woU) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [G.O.D\. And The Broken Ribs / Derecho Demonico](https://open.spotify.com/album/1BUodZgT8bLd2c22axeeJR) | 3:43 |
 | 87 | [She Does It Right](https://open.spotify.com/track/1pO3dqvwGvCQzRQV67xfZd) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Peaches!](https://open.spotify.com/album/4wl0lStE236Kc7pJ7eTpgq) | 3:43 |

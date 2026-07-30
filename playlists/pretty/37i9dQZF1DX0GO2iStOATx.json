@@ -1,6 +1,6 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 234906,
+  "num_followers": 234950,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -395,26 +395,6 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Best of Punjabi Superstar Diljit Dosanjh",
-        "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Tarannum Malik Jain",
-          "url": "https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa"
-        }
-      ],
-      "duration_ms": 142203,
-      "name": "Veer Vaar - From \"Sardaarji\"",
-      "url": "https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
         "name": "Raat Di Gedi",
         "url": "https://open.spotify.com/album/0o0DkE6Z8UbdRF67DafGAJ"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 198783,
       "name": "Raat Di Gedi",
       "url": "https://open.spotify.com/track/1v7nvuF8Or7nTX0hqNg2FA"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "Best of Punjabi Superstar Diljit Dosanjh",
+        "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Tarannum Malik Jain",
+          "url": "https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa"
+        }
+      ],
+      "duration_ms": 142203,
+      "name": "Veer Vaar - From \"Sardaarji\"",
+      "url": "https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy"
     },
     {
       "added_at": "2026-06-12 05:30:19",

@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 338533,
+  "num_followers": 338573,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -2063,6 +2063,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The EMI Years - Best Of The Swinging Blue Jeans",
+        "url": "https://open.spotify.com/album/7fpIPCHQxBjahH7mfMiylL"
+      },
+      "artists": [
+        {
+          "name": "The Swinging Blue Jeans",
+          "url": "https://open.spotify.com/artist/5gNduPlUGHsgy1w7f71obH"
+        }
+      ],
+      "duration_ms": 106066,
+      "name": "The Hippy Hippy Shake",
+      "url": "https://open.spotify.com/track/3CQRcM0crUAiZUf1n51ecD"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Best Of Elvis Presley",
         "url": "https://open.spotify.com/album/7Hx0xRn0UTaEOe5LhcLjwU"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 314133,
       "name": "Luck Be A Lady",
       "url": "https://open.spotify.com/track/3MIEsuQuZQeLSfD2EnM2BS"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The EMI Years - Best Of The Swinging Blue Jeans",
-        "url": "https://open.spotify.com/album/7fpIPCHQxBjahH7mfMiylL"
-      },
-      "artists": [
-        {
-          "name": "The Swinging Blue Jeans",
-          "url": "https://open.spotify.com/artist/5gNduPlUGHsgy1w7f71obH"
-        }
-      ],
-      "duration_ms": 106066,
-      "name": "The Hippy Hippy Shake",
-      "url": "https://open.spotify.com/track/3CQRcM0crUAiZUf1n51ecD"
     },
     {
       "added_at": "2022-06-16 22:02:00",

@@ -1,6 +1,6 @@
 {
   "description": "Only the best rock in the world. Cover: M\u00e5neskin",
-  "num_followers": 218383,
+  "num_followers": 218401,
   "original_name": "Just Rock!",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-07-25 14:53:00",
       "album": {
+        "name": "Here She Comes",
+        "url": "https://open.spotify.com/album/2PsO4ubRoqCjG4URWW6ul1"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 250878,
+      "name": "Here She Comes",
+      "url": "https://open.spotify.com/track/32MotHClwKZeElUM66SHsW"
+    },
+    {
+      "added_at": "2026-07-25 14:53:00",
+      "album": {
         "name": "Safe And Sound",
         "url": "https://open.spotify.com/album/5pjhsuaeucO3IHGviSCzGN"
       },
@@ -369,7 +385,7 @@
         }
       ],
       "duration_ms": 194827,
-      "name": "BLINDFOLD",
+      "name": "Blindfold",
       "url": "https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6"
     },
     {

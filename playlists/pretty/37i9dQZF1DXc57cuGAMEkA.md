@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Charli xcx, Tyla, The Strokes, WILLOW, JENNIE and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,132 likes - 93 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,143 likes - 93 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 61 | [ココロ](https://open.spotify.com/track/1W4DJgllFesx8mKttxezqr) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [ココロ](https://open.spotify.com/album/5QXjZJVVnSTz4yc4lNDu4P) | 4:01 |
 | 62 | [Along The Way \- From "Moana"/Japanese Soundtrack Version](https://open.spotify.com/track/0tTKPpBg5UGvOT6HSmEyIE) | [Tomona Yabiku](https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz), [TSUZUMI \(ME:I\)](https://open.spotify.com/artist/7zJbY9oWwc3NIivxbVWnlz), [Matsuya Onoe](https://open.spotify.com/artist/1oscjydxGcEEGBDMwkjHBl) | [Along The Way \(From "Moana"/Japanese Soundtrack Version\)](https://open.spotify.com/album/1sKltM4fx2u48j66EGg2ZO) | 4:17 |
 | 63 | [Cowboy Matsuri \(feat.土屋アンナ\)](https://open.spotify.com/track/5WyedqYMVsThYTBJpwgoHI) | [Emi Meyer](https://open.spotify.com/artist/6f4y1h4jbvEDZXMojr4hNn), [Anna Tsuchiya](https://open.spotify.com/artist/1XTqQwcJw9D1bo0cuO8Oq2) | [Cowboy Matsuri \(feat.土屋アンナ\)](https://open.spotify.com/album/2YrAiY8vILG1UsB8gBMDmv) | 3:36 |
-| 64 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:16 |
+| 64 | [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:18 |
 | 65 | [can't be without you](https://open.spotify.com/track/2GbduroFTuALtTJpi0FnWP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [can't be without you](https://open.spotify.com/album/62LiDJ3ztVaV4chE1EUjzk) | 2:44 |
 | 66 | [Call It Love](https://open.spotify.com/track/6JYvZvvdq8SbZUdtZyBur2) | [RACH?](https://open.spotify.com/artist/2Ha1m0lk3Eo8FyDa6eNfgd), [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx) | [Call It Love](https://open.spotify.com/album/7HzZ1plRLt2ZE5w1sYdteR) | 3:40 |
 | 67 | [weights of the world](https://open.spotify.com/track/4KyOHjX2gRIU9OfkcvDEaF) | [mindfreakk!](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [weights of the world](https://open.spotify.com/album/6zNhkRXyGjiwO4QUvVLC4j) | 3:44 |

@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170540,
+  "num_followers": 170537,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "Manchester Air",
+        "url": "https://open.spotify.com/album/6J5XzblZhX17EZKFYnie89"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 247328,
+      "name": "Manchester Air",
+      "url": "https://open.spotify.com/track/3DR0HjNmqlQ2mDmI8AuP2l"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/5vIo3myTJ8fmttU2wARlYB"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/6FHmHZgliJRNz6L16y60V1"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "Manchester Air",
-        "url": "https://open.spotify.com/album/6J5XzblZhX17EZKFYnie89"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 247328,
-      "name": "Manchester Air",
-      "url": "https://open.spotify.com/track/3DR0HjNmqlQ2mDmI8AuP2l"
     }
   ],
   "unique_name": "Contemporary Folk",

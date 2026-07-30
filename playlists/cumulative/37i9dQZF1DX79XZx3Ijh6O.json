@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c",
+        "url": "https://open.spotify.com/album/4HE4dek1c3BNA6db8xp9ns"
+      },
+      "artists": [
+        {
+          "name": "DRUG",
+          "url": "https://open.spotify.com/artist/6RYQSRnV6dr9S45xN2ZwlV"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231481,
+      "name": "\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c",
+      "url": "https://open.spotify.com/track/1GLqbQ3rQpQnqlQlvOhDTo"
+    },
+    {
+      "album": {
         "name": "\u0410\u043b\u0456\u043d\u0430",
         "url": "https://open.spotify.com/album/4zaouS8SBbcM4T4Tqqz749"
       },
@@ -1608,6 +1626,24 @@
       "duration_ms": 161428,
       "name": "\u0411\u0435\u043d\u0442\u0435\u0436\u043d\u043e",
       "url": "https://open.spotify.com/track/5v8PRuSYnjtvabdHU93jHl"
+    },
+    {
+      "album": {
+        "name": "\u0431\u0435\u0440\u0435\u0437\u043d\u044f\u043a\u0438",
+        "url": "https://open.spotify.com/album/0if0kMAYGR94sTtMRlsvss"
+      },
+      "artists": [
+        {
+          "name": "KILLGRAPE",
+          "url": "https://open.spotify.com/artist/110n6f7Pj3Qa1KGwksmVmc"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "\u0431\u0435\u0440\u0435\u0437\u043d\u044f\u043a\u0438",
+      "url": "https://open.spotify.com/track/6SUi1MIlF9QalMt7NqZmx7"
     },
     {
       "album": {
@@ -4446,7 +4482,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 214961,
       "name": "\u041a\u0443\u0441\u0430\u0439",
       "url": "https://open.spotify.com/track/0VyCyGyGohWUjdnuyXm3Bb"
@@ -5582,6 +5618,24 @@
       "duration_ms": 163960,
       "name": "\u041d\u0435 \u0432\u0456\u0434\u043f\u0443\u0441\u043a\u0430\u0439",
       "url": "https://open.spotify.com/track/6QAQC17vpf8atZmVS9VNwc"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0435 \u0437\u0430\u043b\u0438\u0448 (Sz\u00edvver\u00e9s)",
+        "url": "https://open.spotify.com/album/01BI1pvdBHFTaI1r53BCPN"
+      },
+      "artists": [
+        {
+          "name": "Marie Hellstein",
+          "url": "https://open.spotify.com/artist/5mP5e9ZxmR6c3NUQTI5PIA"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "\u041d\u0435 \u0437\u0430\u043b\u0438\u0448 (Sz\u00edvver\u00e9s)",
+      "url": "https://open.spotify.com/track/7Kg5NNe2qShtffdgkCfGtu"
     },
     {
       "album": {
@@ -9368,7 +9422,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 166000,
       "name": "\u0427\u0430\u0439\u043a\u0430 \u043d\u0430 \u043a\u0440\u0438\u0436\u0438\u043d\u0456",
       "url": "https://open.spotify.com/track/1hBkzxoHLaYi3d6PIzM1bh"
@@ -10086,7 +10140,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 191711,
       "name": "\u044f\u0440\u0456\u043c\u0430\u0442\u0456\u043b\u0430\u0442\u0432\u0430\u043b\u0430",
       "url": "https://open.spotify.com/track/0F7lDCwHWGluScpXPatHGa"

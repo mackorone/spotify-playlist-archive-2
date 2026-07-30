@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Happy Imaeda. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Ancient Infinity Orchestra. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 176003,
       "name": "Beauty Doesn't Know What It Looks Like",
       "url": "https://open.spotify.com/track/6F5He29YI85e8MLXVca4JO"
@@ -8544,7 +8544,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 267313,
       "name": "Eclosion",
       "url": "https://open.spotify.com/track/5lS4tzwoU6e6hu83Rh2W3C"
@@ -13462,6 +13462,24 @@
       "duration_ms": 181629,
       "name": "Il Sogno",
       "url": "https://open.spotify.com/track/5mWTu2PBwjreYBmGF05SfH"
+    },
+    {
+      "album": {
+        "name": "It's Always About Liberation",
+        "url": "https://open.spotify.com/album/5CoFVte50DP2dAMp5F18mV"
+      },
+      "artists": [
+        {
+          "name": "Ancient Infinity Orchestra",
+          "url": "https://open.spotify.com/artist/3dGPvXs2gnNuw2RkIQKPqR"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429840,
+      "name": "Illuminations",
+      "url": "https://open.spotify.com/track/0ZuJUoiKtgolfQdfyZ4WBX"
     },
     {
       "album": {
@@ -19363,6 +19381,24 @@
     },
     {
       "album": {
+        "name": "Needlerooser",
+        "url": "https://open.spotify.com/album/5V1Wiq5xFC1qR44GAzc24l"
+      },
+      "artists": [
+        {
+          "name": "Kelly Doyle",
+          "url": "https://open.spotify.com/artist/3pQnuyiTp6EaZWiTRmtkb6"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221060,
+      "name": "Needlerooser",
+      "url": "https://open.spotify.com/track/3Jfw9eN1tH2mBEVOCzihV6"
+    },
+    {
+      "album": {
         "name": "NEEDLES OF ICE",
         "url": "https://open.spotify.com/album/4XsOqDAuyula3HyzsSUzja"
       },
@@ -19512,7 +19548,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 407911,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/1qRP7btviLVpl1fONIMvYt"
@@ -19626,6 +19662,24 @@
       "duration_ms": 230297,
       "name": "Nilgiri Hills",
       "url": "https://open.spotify.com/track/3Xe0PSuaI5ewHGyTHZrDcB"
+    },
+    {
+      "album": {
+        "name": "In Search Of Beauty",
+        "url": "https://open.spotify.com/album/5anLZBAhqEw1h9j0RRwJCL"
+      },
+      "artists": [
+        {
+          "name": "Leif Kaner-Lidstr\u00f6m",
+          "url": "https://open.spotify.com/artist/1zgrVzDDzgoBXdxRdd7TsC"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153260,
+      "name": "Nine Lights",
+      "url": "https://open.spotify.com/track/3dgSxzyLOq3n55JLMaGpzb"
     },
     {
       "album": {

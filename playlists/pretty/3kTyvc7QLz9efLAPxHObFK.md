@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,152 songs - 6 day 18 hr 12 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,153 songs - 6 day 18 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3160,5 +3160,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3150 | [PARANOIA](https://open.spotify.com/track/1BC3FNWuB6ikhM3q88LmG2) | [ONYX](https://open.spotify.com/artist/7LDgld7Fj9yqmGskMG8Pro), [Dejection](https://open.spotify.com/artist/6zZaIorzBeHeXNSEb7JB1u) | [PARANOIA](https://open.spotify.com/album/70mg99AORW4dgkEPoj3XNQ) | 2:45 |
 | 3151 | [This Feeling](https://open.spotify.com/track/7FEek31MAYDD301G55GAeB) | [Krause](https://open.spotify.com/artist/6P4IBgSaCo8hhyP7IeTsSa), [Schlot](https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw) | [This Feeling](https://open.spotify.com/album/3epM8xiJcnbU0TDC0gq12z) | 2:24 |
 | 3152 | [IN ANOTHER LIFE](https://open.spotify.com/track/0Omf3r50bnZYeoa9dUKNQD) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [IN ANOTHER LIFE](https://open.spotify.com/album/6oNA0gEEEwbQegqRn1YpxN) | 2:53 |
+| 3153 | [Bassline Dealer](https://open.spotify.com/track/7uzqiQGmqhxRWpoADhNjGU) | [Mosmoz](https://open.spotify.com/artist/4MyHcRaJ3tAi4DKvNGWXtx) | [Bassline Dealer](https://open.spotify.com/album/1xt1KHxIKMycgKIdhGC9Ut) | 4:09 |
 
-Snapshot ID: `AAAMq4upOHd9kkmALfcQRXRwkmFRJdXO`
+Snapshot ID: `AAAMrBb1EQL1P6bpMg9pIaN2D/3pgbzo`

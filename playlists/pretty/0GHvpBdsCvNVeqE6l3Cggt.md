@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,290 likes - 52 songs - 3 hr 16 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,290 likes - 41 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,20 +45,9 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 35 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 36 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
 | 37 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
-| 38 | [SuperNatural Man](https://open.spotify.com/track/4EyLW8sJKRY7kaUOwG6dOr) | [Hope Noel](https://open.spotify.com/artist/4K4odNjWzexJSElZI2hfKf) | [SuperNatural Man](https://open.spotify.com/album/3HArl6pz8rXfdlpsqZGGaX) | 3:49 |
-| 39 | [Beautiful Life](https://open.spotify.com/track/0D8tiMBCjym2xlrZtNwfNO) | [Atomic Ritual](https://open.spotify.com/artist/5miCWiVah5iRMvoaNmkDWc) | [Beautiful Life](https://open.spotify.com/album/4gm2ra9K1zYB21USPZxLKv) | 2:39 |
-| 40 | [Turn Around](https://open.spotify.com/track/3wCxOZWqln1SNnUqfuXymu) | [Duke Mahone](https://open.spotify.com/artist/4b7nAPf8YpkU5Y21aQEN3e) | [Turn Around](https://open.spotify.com/album/45qD4s12bVDIGHGNyTrHtA) | 2:44 |
-| 41 | [In My Dreams](https://open.spotify.com/track/6Nar5xC0OUuOTpUxkUmqg8) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [In My Dreams](https://open.spotify.com/album/6hJS82VvESy6OtHP3nLkPV) | 3:21 |
-| 42 | [JEAN SHORTS](https://open.spotify.com/track/3L2Na5XhAajI0KVaQp7qFu) | [Val Texas](https://open.spotify.com/artist/7spILdiaFh8D2O1yiGNGrA) | [DIRT](https://open.spotify.com/album/2y6jtOEkZXgrtbkvcXdfrG) | 2:41 |
-| 43 | [POPSTAR](https://open.spotify.com/track/5eKWnk0CuVzBoJNNMDRilZ) | [Snowflake Maker](https://open.spotify.com/artist/2sQohLh8eFMnXitpz2yoM5) | [POPSTAR](https://open.spotify.com/album/5k6yAsfYV423IPbGwG6BMn) | 2:56 |
-| 44 | [DOPAMINE DRESS](https://open.spotify.com/track/08iYmhYHH14MoD6RMrdwb0) | [Mira Rouge](https://open.spotify.com/artist/68s1cpHfNyQlaV0p2XCxia) | [DOPAMINE DRESS](https://open.spotify.com/album/3G2VsUkF9bUnZTNpD3W1ph) | 4:17 |
-| 45 | [Elysian Fields](https://open.spotify.com/track/5R2WeAM9axE8EMAMbPchzO) | [Stratafield](https://open.spotify.com/artist/1VuViStzi9Ag49k1Hxm9xA) | [Sympathetic Waveforms](https://open.spotify.com/album/5NH23YnT1jzDMkSC2b9AdK) | 4:51 |
-| 46 | [Torn Apart](https://open.spotify.com/track/51OI5w469NmM9ryTo4NUnQ) | [Elastic Skies](https://open.spotify.com/artist/4jkUxKT4fAB0Dl63hZqiNc) | [II](https://open.spotify.com/album/3jEGsiUz61h7REHkE2cMJt) | 2:18 |
-| 47 | [I Have Myself](https://open.spotify.com/track/23VrT5eYArnddWOUZNwxVK) | [Brave The Storm](https://open.spotify.com/artist/6DPd6AkhKbj2qYKHULOU77), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [I Have Myself](https://open.spotify.com/album/34v9wtjbxHZ1qz4SY6UbPl) | 3:07 |
-| 48 | [Lost And Found](https://open.spotify.com/track/7mppllyJK82vQ7MlSJxjvc) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Lost And Found](https://open.spotify.com/album/4W8kpUIeh0Rj8nxOgdTabC) | 2:19 |
-| 49 | [Oops!](https://open.spotify.com/track/4WyQyVjkmKTfx2R5cM0utK) | [Nessa Blake](https://open.spotify.com/artist/2h0XRI0fBH4bZcTeNzVbpv) | [Oops!](https://open.spotify.com/album/6XF8BILHXtmvZKLmqWcSfR) | 2:37 |
-| 50 | [I'll Let You Go](https://open.spotify.com/track/1zCeMFUHGZli0eXTfbuM8z) | [Braddock Lee](https://open.spotify.com/artist/58MoohBMI6K1NhQhioD8AB) | [I'll Let You Go](https://open.spotify.com/album/6Go3mjh8Z8iWAqnHPr3mMj) | 3:32 |
-| 51 | [Encore](https://open.spotify.com/track/5eZSfaYMxkv5ewOQZ0ym3A) | [Dead Cig](https://open.spotify.com/artist/40exCTjWyMDi5Dz2EjdQJk), [Yukari](https://open.spotify.com/artist/47ON3kEf9Ju9wgGSKlANVW) | [Encore](https://open.spotify.com/album/0ejCM55cONRZ8sn1ovtwoi) | 3:55 |
-| 52 | [Is there a chance of love in outer space? \- live](https://open.spotify.com/track/0J4r8L8PIgBHPMFH2bKUKk) | [Vitamin Dream](https://open.spotify.com/artist/3miIpoYoSTSZK65dHLXRlE) | [Is there a chance of love in outer space? \(live\)](https://open.spotify.com/album/3TREYrIvrCqg7vZkqYIZ3u) | 4:50 |
+| 38 | [Oops!](https://open.spotify.com/track/4WyQyVjkmKTfx2R5cM0utK) | [Nessa Blake](https://open.spotify.com/artist/2h0XRI0fBH4bZcTeNzVbpv) | [Oops!](https://open.spotify.com/album/6XF8BILHXtmvZKLmqWcSfR) | 2:37 |
+| 39 | [I'll Let You Go](https://open.spotify.com/track/1zCeMFUHGZli0eXTfbuM8z) | [Braddock Lee](https://open.spotify.com/artist/58MoohBMI6K1NhQhioD8AB) | [I'll Let You Go](https://open.spotify.com/album/6Go3mjh8Z8iWAqnHPr3mMj) | 3:32 |
+| 40 | [Encore](https://open.spotify.com/track/5eZSfaYMxkv5ewOQZ0ym3A) | [Dead Cig](https://open.spotify.com/artist/40exCTjWyMDi5Dz2EjdQJk), [Yukari](https://open.spotify.com/artist/47ON3kEf9Ju9wgGSKlANVW) | [Encore](https://open.spotify.com/album/0ejCM55cONRZ8sn1ovtwoi) | 3:55 |
+| 41 | [Is there a chance of love in outer space? \- live](https://open.spotify.com/track/0J4r8L8PIgBHPMFH2bKUKk) | [Vitamin Dream](https://open.spotify.com/artist/3miIpoYoSTSZK65dHLXRlE) | [Is there a chance of love in outer space? \(live\)](https://open.spotify.com/album/3TREYrIvrCqg7vZkqYIZ3u) | 4:50 |
 
-Snapshot ID: `AAAkTwNHKj4cUBqtFcRqiLVGDYfQXpeW`
+Snapshot ID: `AAAkWstF9JYrX4xnsqezHineRrxi3EwM`

@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-571 songs - 1 day 6 hr 13 min
+572 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Koi](https://open.spotify.com/track/3XtSSTaxwntJrzsiArZQHt) | [silverism](https://open.spotify.com/artist/7ofEwjKaoYr5I4S9glSWPr) | [Koi](https://open.spotify.com/album/7BCHUJWYCG8ywLhpS0MNPZ) | 3:39 | 2024-02-09 | 2026-03-01 |
 | [Korrent City Streets](https://open.spotify.com/track/4GDi16UNFP1jxo5hTjQvMu) | [JAMIEvx](https://open.spotify.com/artist/0gL0yv87B01UdAXjrkjSIP) | [In Flux](https://open.spotify.com/album/0UyM7Rn7PZNt1UghxPvnWE) | 4:33 | 2025-04-03 |  |
 | [Last Knight \(Final Girl\)](https://open.spotify.com/track/4KgcyoJSoDq8FuQsewrvNi) | [Sergeant Hare Apollo](https://open.spotify.com/artist/0KsMGLqXgzIqQp9QWg1PRQ) | [Last Knight \(Final Girl\)](https://open.spotify.com/album/53IpGt3nY72iJFneRIdpJB) | 3:52 | 2024-11-18 | 2026-03-01 |
+| [Latte](https://open.spotify.com/track/1E0MGqNz5PosVXzGHcf0a5) | [Glyde](https://open.spotify.com/artist/0oJfEzOOeGWo67yKatVhNl) | [Latte](https://open.spotify.com/album/6b0iVHLDB8ZBFGdOsTCwMg) | 3:02 | 2026-07-30 |  |
 | [LDR](https://open.spotify.com/track/4cX5v8mjtmvMJivWTJlQE5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [LDR](https://open.spotify.com/album/0ZUMp0bjDNyL86cIBDeArO) | 3:02 | 2024-06-15 | 2026-03-01 |
 | [let's touch grass together](https://open.spotify.com/track/3XBWgopNs7PPK5e7MG8hxv) | [flower.puppy](https://open.spotify.com/artist/0jjZSbhJWA1exGhWKwQ2hM) | [outside time](https://open.spotify.com/album/7IMIrH52yvx2lQmcrKQtSu) | 3:26 | 2025-10-20 |  |
 | [LETMEGO](https://open.spotify.com/track/5m61G9851cDaXlwvTvX5es) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 4:24 | 2025-11-11 |  |

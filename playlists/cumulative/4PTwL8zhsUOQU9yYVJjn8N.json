@@ -3349,6 +3349,28 @@
     },
     {
       "album": {
+        "name": "ANGEL",
+        "url": "https://open.spotify.com/album/6mYJ8HjTRs8fvLryZyEnmb"
+      },
+      "artists": [
+        {
+          "name": "Ari Angel",
+          "url": "https://open.spotify.com/artist/1ghLMZERLxfWGY22QMtTfv"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170806,
+      "name": "Naked (Take It Off)",
+      "url": "https://open.spotify.com/track/7JK1S7nir9iTilzLYnJMun"
+    },
+    {
+      "album": {
         "name": "kittydog music album",
         "url": "https://open.spotify.com/album/3XA84Ccaw20UzDfJuGEkyk"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of current & contemporary Reggae.  Cover: Buju Banton",
+  "description": "The best of current & contemporary Reggae.  Cover: Kelissa",
   "name": "Irie",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 176000,
       "name": "40 Days & 40 Nights (Pt. 2)",
       "url": "https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES"
@@ -674,7 +674,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 168169,
       "name": "By Any Mean$ (with Jesse Royal)",
       "url": "https://open.spotify.com/track/6bFbSluNoeF83UVJRi6YiG"
@@ -802,6 +802,24 @@
       "duration_ms": 235626,
       "name": "Cast The First Stone",
       "url": "https://open.spotify.com/track/5uzTR4TOgukTnD5SScz1H7"
+    },
+    {
+      "album": {
+        "name": "Caught Up",
+        "url": "https://open.spotify.com/album/0coNT26cuo56qNdLPLvGh2"
+      },
+      "artists": [
+        {
+          "name": "Zion Marley",
+          "url": "https://open.spotify.com/artist/3NfvGqN0IZIAKcpuxVhOsx"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232367,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/3dKCTkWdVP43ambj4hh4RW"
     },
     {
       "album": {
@@ -1560,6 +1578,24 @@
       "duration_ms": 211346,
       "name": "Fire Bun A Weak Heart",
       "url": "https://open.spotify.com/track/4QumLUYa2UlWZId8QcKqYu"
+    },
+    {
+      "album": {
+        "name": "FIYAH",
+        "url": "https://open.spotify.com/album/2E1UGRJKwUyZxyn4Szf8mm"
+      },
+      "artists": [
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192783,
+      "name": "FIYAH",
+      "url": "https://open.spotify.com/track/1C5e6MyQXLY5npQiE1FRbl"
     },
     {
       "album": {
@@ -2794,7 +2830,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 222000,
       "name": "Light Of Mine",
       "url": "https://open.spotify.com/track/27OJkWLoSTF6JcQXUoiJw1"
@@ -4242,7 +4278,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 204809,
       "name": "Refund",
       "url": "https://open.spotify.com/track/6s872MNfACS2J05Q1MEIuq"
@@ -4492,6 +4528,24 @@
       "duration_ms": 209856,
       "name": "Rose Petal",
       "url": "https://open.spotify.com/track/7xywfSEGrXeONik3afbjLf"
+    },
+    {
+      "album": {
+        "name": "Rotation",
+        "url": "https://open.spotify.com/album/5P4uTvKPmT9QeETRf0Aj72"
+      },
+      "artists": [
+        {
+          "name": "Kabaka Pyramid",
+          "url": "https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167097,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/3trwITwxHvA1czm7s2OYc3"
     },
     {
       "album": {
@@ -6049,6 +6103,24 @@
     },
     {
       "album": {
+        "name": "THE GOOD SIDE OF THINGS",
+        "url": "https://open.spotify.com/album/2L1ARTeGZ31DWtuPS9FJ2j"
+      },
+      "artists": [
+        {
+          "name": "Kelissa",
+          "url": "https://open.spotify.com/artist/7yO5rUbDIUN1RDKMJcHeeg"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239971,
+      "name": "Way You Make Me Feel",
+      "url": "https://open.spotify.com/track/0klwLVttbL6wZxrR77kKvp"
+    },
+    {
+      "album": {
         "name": "Way You Make Me Feel",
         "url": "https://open.spotify.com/album/1xSwH7uxVv63vA6I5D5kqc"
       },
@@ -6060,7 +6132,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 239971,
       "name": "Way You Make Me Feel",
       "url": "https://open.spotify.com/track/7liPPCJ2159T02PnqyhhuY"
@@ -6130,6 +6202,28 @@
       "duration_ms": 255839,
       "name": "What Do You Say (Move It Baby) - Damian \u201cJr. Gong\" Marley Remix",
       "url": "https://open.spotify.com/track/7jpublhStv0bwUo3ZdC0PS"
+    },
+    {
+      "album": {
+        "name": "What It Feels Like",
+        "url": "https://open.spotify.com/album/0DqMZ3ToWJsTs5z8QcJVvc"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189873,
+      "name": "What It Feels Like",
+      "url": "https://open.spotify.com/track/2v1amskPjMOOAZZc1VGPoT"
     },
     {
       "album": {

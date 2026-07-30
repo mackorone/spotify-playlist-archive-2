@@ -1,15 +1,15 @@
 {
   "description": "\u0632\u0628\u062f\u0629 \u0627\u0644\u0631\u0627\u0628 \u0627\u0644\u0635\u0627\u0641\u064a\u0629. \u0661\u0660\u0660\u066a \u0635\u0646\u0627\u0639\u0629 \u0645\u062d\u0644\u064a\u0651\u0629",
-  "num_followers": 40859,
+  "num_followers": 40862,
   "original_name": "\u0647\u064a\u0628 \u0647\u0648\u0628\u0646\u0627",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFa+107VM/Pxe7mHkzGyvscXA91b",
+  "snapshot_id": "AAAAAEhNCs8nQ+d84G7OcXR0xflrlvYu",
   "tracks": [
     {
-      "added_at": "2026-07-16 12:58:50",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Shift",
         "url": "https://open.spotify.com/album/7aY1uHmcbbKdNZe3vLmUf5"
@@ -29,7 +29,27 @@
       "url": "https://open.spotify.com/track/7Il7dirZYENWLPUMvYxLTC"
     },
     {
-      "added_at": "2026-07-16 12:58:50",
+      "added_at": "2026-07-29 09:52:51",
+      "album": {
+        "name": "R2",
+        "url": "https://open.spotify.com/album/4WLDfug8AMnPH1gh0QVwq2"
+      },
+      "artists": [
+        {
+          "name": "Alyoung",
+          "url": "https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C"
+        },
+        {
+          "name": "Randar",
+          "url": "https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "R2",
+      "url": "https://open.spotify.com/track/48lACJStcQmd2WO1qMnqOF"
+    },
+    {
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "CULTURE",
         "url": "https://open.spotify.com/album/2BL4uJw64vXfWTfAUNNR20"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/5mdg0oP9YXVLd3D6s5Y3uJ"
     },
     {
-      "added_at": "2026-07-16 12:58:50",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "\u0627\u0634\u0646\u0627\u0643",
         "url": "https://open.spotify.com/album/28eIWKEmIgz7Kcg4rZM6xu"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/0ZehBprB7kEqrboKujaVVg"
     },
     {
-      "added_at": "2026-02-27 20:15:18",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Jabaha Le Ahlo",
         "url": "https://open.spotify.com/album/0sy0PPYClrTSRGz8CCFmTT"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/5Wran1wG54f2w0tnV8BmBI"
     },
     {
-      "added_at": "2026-01-15 08:01:01",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Mission Impossible",
         "url": "https://open.spotify.com/album/3XmfpNqMTVw1htr6lv1RgR"
@@ -101,7 +121,7 @@
       "url": "https://open.spotify.com/track/4dTXktFpSZC6remucId05v"
     },
     {
-      "added_at": "2026-01-08 11:08:45",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "FTRA",
         "url": "https://open.spotify.com/album/5iOJ9VwsEJZBj4fN4MFCvZ"
@@ -117,7 +137,7 @@
       "url": "https://open.spotify.com/track/5NC1zZGyIHnXNiOfZslM62"
     },
     {
-      "added_at": "2026-06-11 15:27:46",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "\u062a\u0627\u0643\u0644 \u062e\u0634\u0628",
         "url": "https://open.spotify.com/album/2fFKDW0fAZEe16pHFMhV70"
@@ -133,7 +153,7 @@
       "url": "https://open.spotify.com/track/6F3nkMMR3lrBmy87e4TMDa"
     },
     {
-      "added_at": "2026-02-12 13:25:59",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Y20",
         "url": "https://open.spotify.com/album/6KB2ail4OHmi7hLE9sO9x6"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/1UDiiOdFUs3MdV9uAo8cYe"
     },
     {
-      "added_at": "2026-02-09 08:22:06",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "TABOOT",
         "url": "https://open.spotify.com/album/66ZgAfsd41sy3kRELM40N3"
@@ -173,7 +193,7 @@
       "url": "https://open.spotify.com/track/6motnIl1IffKpaWvHGAk1w"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Ala El Hadi",
         "url": "https://open.spotify.com/album/2rRFYwugXgccV96X5OlzzH"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/59RJkigbf7igBzNQJ56NQF"
     },
     {
-      "added_at": "2026-01-26 08:30:40",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "NASEHAT MUSHFIQ",
         "url": "https://open.spotify.com/album/23zOEXioEzkBPCRc8gTznD"
@@ -213,7 +233,7 @@
       "url": "https://open.spotify.com/track/607JmfmWDTOgacXpWYFmNW"
     },
     {
-      "added_at": "2025-12-18 11:42:04",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Esmaa Alhagega",
         "url": "https://open.spotify.com/album/3t6JQ82i9tw9Stm3rLHs4U"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/2wtF7gIR51J7ZFfsuDISjb"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Dabbaba",
         "url": "https://open.spotify.com/album/4DDutVKDyQFI7Hq0MV6Nyv"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/2m4BGrqCUVV73BAK3FdnVh"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
         "url": "https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Tshreen",
         "url": "https://open.spotify.com/album/61WWFyA8saUrpGq5XXz9iI"
@@ -281,7 +301,7 @@
       "url": "https://open.spotify.com/track/7EJDlQCVE0LzicekfXBKpA"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Valhalla",
         "url": "https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/3Jg5wpauPWxfXA0uP2XJ8B"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Alhamdullah",
         "url": "https://open.spotify.com/album/3Gs23JBSqQR7YIXzsyTg6Y"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/2SPbO7VAo7JPHV1aQVNNn4"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Valhalla",
         "url": "https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/006vXYYcdL1MTbMjlY61ro"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "7azeen Elwat (Saudi)",
         "url": "https://open.spotify.com/album/5fUE8SvrynJU3oJFCcIlhn"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/0DfpLTGoLeQAU8zj4La5Jf"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "\u0627\u0644\u0645\u0643\u062a\u0648\u0628",
         "url": "https://open.spotify.com/album/10EkLcK0m7rpoThtN23D3d"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/5GFxMEv0vSTt0OsZ2dt9br"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Barcelona (Freedom Music)",
         "url": "https://open.spotify.com/album/22TUuXdegJvCmxNbDMuxls"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/2KoOkiq0tNszGh8QcpP6ES"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Valhalla",
         "url": "https://open.spotify.com/album/6P2ujZCQky3YyrACFXBUfH"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/6K1B3I4nTdtMqqOsgJvmLD"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Ween Yabu",
         "url": "https://open.spotify.com/album/1Fa0JCaLqGpUctiOcABxY5"
@@ -437,7 +457,7 @@
       "url": "https://open.spotify.com/track/2JvrzoueEOcl6cYhnnI8XS"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Mercedes Benz",
         "url": "https://open.spotify.com/album/3Um5hfjMHDs6V2nIVP546g"
@@ -453,7 +473,7 @@
       "url": "https://open.spotify.com/track/5KIDoiS20Gm0DDTDMyTPgt"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Kitab",
         "url": "https://open.spotify.com/album/1ao9V5no6rbr7QGNFUE5LI"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/5t7c62O8KkO9pdcBS6OpLQ"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "\u0643\u0627\u0646\u062a \u0627\u064a\u0627\u0645 \u064a\u0627\u0648\u0637\u0646\u064a",
         "url": "https://open.spotify.com/album/1uYjlVjakLYY0Eteqso1PF"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/6gll1Wx3D5fA7YbGryZ4x9"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Apocalypto",
         "url": "https://open.spotify.com/album/7c84xKcwZ06RQgsd3HoOl2"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/3RTdo0zHATe4q1FI6iPTng"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Deja Vu",
         "url": "https://open.spotify.com/album/5kYZncxSpmU0nldbzyHw6q"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/1NtSwFwDEaQkM1QvKzaa7c"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Ducati",
         "url": "https://open.spotify.com/album/7gaCM4sEj6b9OD55PNoXH4"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/0OC2UpjodBLVz1xFHt0a1H"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Rawq Elmanga",
         "url": "https://open.spotify.com/album/24i5mi7wRZIZATTQCWipGC"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/2hB2WISY87CjgjY3YNaJpt"
     },
     {
-      "added_at": "2025-10-07 07:52:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Km Wahed",
         "url": "https://open.spotify.com/album/2yZ27FdxGaM69G3jUkDDVn"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/1rukCHBt95a58Mb4cXzaAV"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "DOMA",
         "url": "https://open.spotify.com/album/1mMvVmB0dpOWxJvIIF564a"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/4cPz71LZVkKTdIzP3CwJM8"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Ola'la",
         "url": "https://open.spotify.com/album/3BBE6OidTsZ5PWPXinBxf3"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/1wqTfg4UMAQel3GcHFwLSA"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "HEPTA",
         "url": "https://open.spotify.com/album/3JQgobucm5cegRkCt202JN"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/3eXWngGDvtPMFcBPfuWqW7"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Aswat (feat. Walgz)",
         "url": "https://open.spotify.com/album/3hu5RGsbSyrodAy2asW2Mv"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/3wSS3x6klMRqgXzhufL5my"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Leh",
         "url": "https://open.spotify.com/album/6GtedZwGjK8hK3OuN6VDwG"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/3AitDtX8v5llBxeXDjx1ld"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "\u0627\u0646\u062a\u0631\u0648",
         "url": "https://open.spotify.com/album/0xRUHDEuShsfDJfPzfYAK7"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/1sFyZPz49MR7xin3LiJqin"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Ama Ba'ad (Shathar Mathar)",
         "url": "https://open.spotify.com/album/1oOFKHuth7o9cNeAZp3ms0"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/2WMGvPpnSOk3YW8AjwkWiv"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "\u0623\u0647\u0644 \u0627\u0644\u0639\u0645\u0627\u0631 (feat. Ali Naseraldeen)",
         "url": "https://open.spotify.com/album/2OUH1uzap9sVVbo9D5DBpS"
@@ -721,7 +741,7 @@
       "url": "https://open.spotify.com/track/1poqei4HbPw5lN3UL1rWKv"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Oss",
         "url": "https://open.spotify.com/album/3QGmyRGSJl9i4NpGuSs7Kj"
@@ -745,7 +765,7 @@
       "url": "https://open.spotify.com/track/2n3TIdIXujwIEsyaOVHshS"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Mshmashi",
         "url": "https://open.spotify.com/album/38pYJTpi4i4UPCWcRkmrUu"
@@ -765,7 +785,7 @@
       "url": "https://open.spotify.com/track/23DUn6f2TWzzc1JGuswwfB"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "\u0646\u0648\u0631 \u0648 \u0638\u0644\u0645\u0629",
         "url": "https://open.spotify.com/album/2RBEKWZkAz61GIKJCKG8fz"
@@ -785,7 +805,7 @@
       "url": "https://open.spotify.com/track/7Ch8thcNJEUIPZX607DNtu"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Memento",
         "url": "https://open.spotify.com/album/5TxnFtqYxSTOjh7B5SKaZH"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/4uWwdosghKo3SrsTACvvFc"
     },
     {
-      "added_at": "2025-07-15 07:06:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "SHOOTA",
         "url": "https://open.spotify.com/album/2pSwKpprTbV2QveOywXmjy"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/3nfWzTTxqbjHvALssUUKGb"
     },
     {
-      "added_at": "2025-10-02 08:53:38",
+      "added_at": "2026-07-29 09:52:51",
       "album": {
         "name": "Batn Al Shaer",
         "url": "https://open.spotify.com/album/3TJe6YsGmLSZSsoQKLdcM8"

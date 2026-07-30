@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Native James",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Grace of Arc",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 204324,
       "name": "AFTERTHOUGHT (ROT)",
       "url": "https://open.spotify.com/track/7xWGWFYFVyOJS90YnVX48b"
@@ -1396,7 +1396,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 203098,
       "name": "Bitter Dose",
       "url": "https://open.spotify.com/track/5PZCSyH0DnO8IqDJrfJLve"
@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Bonded By Blood",
+        "url": "https://open.spotify.com/album/2vwyipji6A3p8tRYqLciaS"
+      },
+      "artists": [
+        {
+          "name": "Kage Archer",
+          "url": "https://open.spotify.com/artist/4J5yNPryyCxOYnOLt6gdsR"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Bonded By Blood",
+      "url": "https://open.spotify.com/track/26JxnEEcpZPM693BqMdcLh"
+    },
+    {
+      "album": {
         "name": "Bottom Feeder",
         "url": "https://open.spotify.com/album/61KI02dJ1qjbehSZAOVXYH"
       },
@@ -2130,7 +2148,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 146666,
       "name": "Built On Your Blood",
       "url": "https://open.spotify.com/track/3bOaPu8ITk0sY0zug2YsbB"
@@ -2206,6 +2224,24 @@
       "duration_ms": 221250,
       "name": "BULLET",
       "url": "https://open.spotify.com/track/32xIbI883oY1BB4vpJeNuY"
+    },
+    {
+      "album": {
+        "name": "This Will End",
+        "url": "https://open.spotify.com/album/34mugT1XU0pniopBFiHzdb"
+      },
+      "artists": [
+        {
+          "name": "nightdive",
+          "url": "https://open.spotify.com/artist/4fj1S90XaV5d5V1RZNlzKL"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238634,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/0srXVRA9eR7Md4iIbWQkrB"
     },
     {
       "album": {
@@ -2397,6 +2433,24 @@
     },
     {
       "album": {
+        "name": "EXES",
+        "url": "https://open.spotify.com/album/7r66ilnjauQyM8QtLz7jBA"
+      },
+      "artists": [
+        {
+          "name": "Sorry X",
+          "url": "https://open.spotify.com/artist/1iUS1TbK8JyjsC4ZhMRzaT"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197072,
+      "name": "CAN YOU HEAR ME?",
+      "url": "https://open.spotify.com/track/68XI5GvyxIe7yhUWedWUnh"
+    },
+    {
+      "album": {
         "name": "Can't Stand No One",
         "url": "https://open.spotify.com/album/3dLRTX5OG8U2dfvNC94t9d"
       },
@@ -2484,7 +2538,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 173990,
       "name": "Carry The Weight",
       "url": "https://open.spotify.com/track/68OwvHG4vUHckIvzWWSKZS"
@@ -3688,7 +3742,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 272000,
       "name": "Death To Something",
       "url": "https://open.spotify.com/track/691foVXBeyjG2KPY4PGeFy"
@@ -4252,6 +4306,24 @@
       "duration_ms": 399026,
       "name": "Doomsday Profit",
       "url": "https://open.spotify.com/track/6f6xqwxDtmE36JrgbF79Sx"
+    },
+    {
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/6oTjjYaQ00VMKCej16HLrd"
+      },
+      "artists": [
+        {
+          "name": "Enemy Inside",
+          "url": "https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212156,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/477O0aV2ffs4Ee50oVorBv"
     },
     {
       "album": {
@@ -5503,6 +5575,24 @@
     },
     {
       "album": {
+        "name": "Fear Is The New Belief",
+        "url": "https://open.spotify.com/album/5Q0H621oDA2eC1WATJeLzH"
+      },
+      "artists": [
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167953,
+      "name": "Fear Is The New Belief",
+      "url": "https://open.spotify.com/track/75WK5aoRBPF1dYwOIorBoD"
+    },
+    {
+      "album": {
         "name": "Fed by Violence",
         "url": "https://open.spotify.com/album/0dAdjwMqwqDU8TZuryA2Os"
       },
@@ -5781,6 +5871,24 @@
     },
     {
       "album": {
+        "name": "Foulmouth",
+        "url": "https://open.spotify.com/album/4bvoVmpfy5vLykGXZQibSl"
+      },
+      "artists": [
+        {
+          "name": "No Life",
+          "url": "https://open.spotify.com/artist/1AV6c2X9NdJqzPpSr7JziK"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Foulmouth",
+      "url": "https://open.spotify.com/track/2hdVXfUNQWDVNgmuPabASW"
+    },
+    {
+      "album": {
         "name": "Four Wars",
         "url": "https://open.spotify.com/album/1rCx658OhxYyLsl7Nf5foT"
       },
@@ -5832,6 +5940,28 @@
       "duration_ms": 224514,
       "name": "Fractures",
       "url": "https://open.spotify.com/track/6lcHJqb5k4w7dGsBpB9rJn"
+    },
+    {
+      "album": {
+        "name": "Fractures",
+        "url": "https://open.spotify.com/album/42hVV0FB5JIiRnQ12Gxuwt"
+      },
+      "artists": [
+        {
+          "name": "Fronti\u00e8res",
+          "url": "https://open.spotify.com/artist/4LQCWMBhE1888kPXrl55Gc"
+        },
+        {
+          "name": "George Loller",
+          "url": "https://open.spotify.com/artist/45ecqguxWL8lLPZP48DY4f"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Fractures",
+      "url": "https://open.spotify.com/track/4Wz0K1m1800BxZ44eUOYjB"
     },
     {
       "album": {
@@ -6478,7 +6608,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 156000,
       "name": "Goodnight",
       "url": "https://open.spotify.com/track/6GnPkQZxse8JIrz8G7zI4V"
@@ -7462,7 +7592,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 210951,
       "name": "I Killed Satan",
       "url": "https://open.spotify.com/track/2yLodN25W5PJVheWxj7Dtz"
@@ -8314,7 +8444,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 200000,
       "name": "Kiss The Dice",
       "url": "https://open.spotify.com/track/1ESHWKQu1i2WUZDj7PSWVE"
@@ -8442,6 +8572,24 @@
       "duration_ms": 163520,
       "name": "L.O.F.",
       "url": "https://open.spotify.com/track/5gzbNwdVv0g0VhgmDyezEa"
+    },
+    {
+      "album": {
+        "name": "La fin",
+        "url": "https://open.spotify.com/album/5IuaeN0TAUV2I3g3QNXEq4"
+      },
+      "artists": [
+        {
+          "name": "Grace of Arc",
+          "url": "https://open.spotify.com/artist/7k1Z0Z008CgLqUYMrdtt8t"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "La fin",
+      "url": "https://open.spotify.com/track/4v5IWJ2Z5ArbTZ3HvEQYTn"
     },
     {
       "album": {
@@ -9164,6 +9312,24 @@
       "duration_ms": 250695,
       "name": "Lying Figures",
       "url": "https://open.spotify.com/track/21I8rQSWJBXKVgQHS20zCU"
+    },
+    {
+      "album": {
+        "name": "Melancholia II",
+        "url": "https://open.spotify.com/album/3onhm5qgT5yFzMpJoKwGJ2"
+      },
+      "artists": [
+        {
+          "name": "Dead/Awake",
+          "url": "https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105333,
+      "name": "L\u2019appel du Vide",
+      "url": "https://open.spotify.com/track/6VFRBRKzgmCmnt0rIMSFRY"
     },
     {
       "album": {
@@ -10348,7 +10514,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 185500,
       "name": "nothing but pain",
       "url": "https://open.spotify.com/track/0gqsjAaOCDVn9owqTysO4p"
@@ -12166,7 +12332,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 214000,
       "name": "Safety in Darkness",
       "url": "https://open.spotify.com/track/5wnRJuERtp5mrdXzVU8MOV"
@@ -12556,6 +12722,24 @@
       "duration_ms": 198461,
       "name": "Seraphim",
       "url": "https://open.spotify.com/track/3MTwuLHJb492JIQ2KUrQxK"
+    },
+    {
+      "album": {
+        "name": "Seraphim",
+        "url": "https://open.spotify.com/album/1XVWZrMKWwtDeqLq4NKfMj"
+      },
+      "artists": [
+        {
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203522,
+      "name": "Seraphim",
+      "url": "https://open.spotify.com/track/7p7KXqzi34e2KEdYGWWNHD"
     },
     {
       "album": {
@@ -15272,7 +15456,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 220363,
       "name": "Tomorrow's Over",
       "url": "https://open.spotify.com/track/36S8CmFSpFNXvf8bAEna3g"
@@ -16400,6 +16584,24 @@
       "duration_ms": 224571,
       "name": "WHEN THE PANIC SETS IN",
       "url": "https://open.spotify.com/track/25kR37i0l28ag3RIAyFFIg"
+    },
+    {
+      "album": {
+        "name": "Where The Light Doesn\u2019t Reach",
+        "url": "https://open.spotify.com/album/1D3o5sWntlw0lC1PcTtd5r"
+      },
+      "artists": [
+        {
+          "name": "Secrets",
+          "url": "https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248582,
+      "name": "Where The Light Doesn't Reach",
+      "url": "https://open.spotify.com/track/0WAls2bPnq68oeaaxGgiUi"
     },
     {
       "album": {

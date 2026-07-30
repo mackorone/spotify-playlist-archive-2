@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4tfR7pI5SYMM.md) - [plain]
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With Facula, Motor Ballet, Jon Drake and more
+> With Dan Fearon, Jon Drake, Facula and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 23 likes - 50 songs - 3 hr 8 min
 

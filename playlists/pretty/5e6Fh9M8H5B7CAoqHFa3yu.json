@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKp0m9btx6aqqs0HpGqNw51R3CEzbS",
+  "snapshot_id": "AAAKqUqHv/aekzRtcN1HuhcSujyZyPxg",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -42671,6 +42671,38 @@
       "duration_ms": 260001,
       "name": "convenient",
       "url": "https://open.spotify.com/track/1BXDjv5BqlC52TrjKfnP0y"
+    },
+    {
+      "added_at": "2026-07-29 10:51:56",
+      "album": {
+        "name": "Don't Say Goodbye",
+        "url": "https://open.spotify.com/album/6rZrZwQZpy20yw9RoEfnlY"
+      },
+      "artists": [
+        {
+          "name": "Julience",
+          "url": "https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Don't Say Goodbye",
+      "url": "https://open.spotify.com/track/6DtJ6Nyuhr50ooAAnzeQUP"
+    },
+    {
+      "added_at": "2026-07-29 19:37:24",
+      "album": {
+        "name": "Melancholic Lo-Fi (Viral Beats for Your Sad Day)",
+        "url": "https://open.spotify.com/album/0mO1SOaqVHn8z8hXm01f1M"
+      },
+      "artists": [
+        {
+          "name": "Celo Relax",
+          "url": "https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw"
+        }
+      ],
+      "duration_ms": 178080,
+      "name": "Melancholic Lo-Fi (Viral Beats for Your Sad Day)",
+      "url": "https://open.spotify.com/track/4kRhvuIfb8XJXLxUFqkNBo"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 
 > This country is a corpse
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 54 songs - 3 hr 17 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 56 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 | 52 | [Dust Bowl Dance](https://open.spotify.com/track/5iJBjhM554BK4p7CofsM99) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:43 |
 | 53 | [Hullabaloo](https://open.spotify.com/track/1L2MyJvWX5TCEGUWR2LdRJ) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Rare Americans 2](https://open.spotify.com/album/3XaGggSCmE8nuUWMm1G5CU) | 3:17 |
 | 54 | [Scooby](https://open.spotify.com/track/7FgzUrj1BpgYc4cQrmxoBC) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [Scooby](https://open.spotify.com/album/3edm79zZr6X8YesYYew0F8) | 3:41 |
+| 55 | [The Beehive State](https://open.spotify.com/track/11jbwaXDDNk0zRWfQkqv3b) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Sings Newman](https://open.spotify.com/album/3iIaJ5KOzksixKpJwdpQnz) | 2:08 |
+| 56 | [Rich People](https://open.spotify.com/track/5hK5lhsnwzrVrBZpDgD1wM) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Rich People](https://open.spotify.com/album/3cBqmSdjrdk4DoFcLt6PMX) | 2:38 |
 
-Snapshot ID: `AAAASP6fCJtWI5ePsoHPL5STUlyk4qe5`
+Snapshot ID: `AAAASqxVzIeTcTEuk5/Q3ktOiVt5PyfK`

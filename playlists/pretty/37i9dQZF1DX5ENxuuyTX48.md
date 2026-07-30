@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > After all, we are all siblings\. Cover: NAKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,326 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,329 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 82 | [Bodohnya Aku](https://open.spotify.com/track/0u4FQAomxIzy56IEh3bhCy) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Bodohnya Aku](https://open.spotify.com/album/4vVOsn3g5jQup5Kc9FhiQI) | 4:00 |
 | 83 | [Andai Saja](https://open.spotify.com/track/2hb8n44vpefszgLwkEVXhU) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Obrolan Jam 3 Pagi](https://open.spotify.com/album/0jDClrox8tW0f2g82gVc3D) | 3:57 |
 | 84 | [Mungkin di Depan Buram](https://open.spotify.com/track/7Jg5lblHcvzWRHppWHa7ff) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mungkin di Depan Buram](https://open.spotify.com/album/7A2XPc9WgnKN3S4yGUJVLo) | 2:37 |
-| 85 | [TAGULING\-GULING](https://open.spotify.com/track/3kpyfir8JelHtZosulYtBm) | [Silet Open Up](https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36), [Jacson Zeran](https://open.spotify.com/artist/5YAtyYCXXQ7YPuowGWuqPp), [Ecko Show](https://open.spotify.com/artist/3oh5PUaDZkd57Yp1jsA6gp), [Diva Aurel](https://open.spotify.com/artist/5aOpLMYo7aOOxoXBFkiJ4u) | [TAGULING\-GULING](https://open.spotify.com/album/2PEL4HwjE2RMwLCnqZvjna) | 4:41 |
+| 85 | [TAGULING\-GULING](https://open.spotify.com/track/3kpyfir8JelHtZosulYtBm) | [Silet Open Up](https://open.spotify.com/artist/5naPJsWUJ6y22yKXA6dX36), [Jacson Zeran](https://open.spotify.com/artist/1uOADvPVs6mVlTeXojXVdW), [Diva Aurel](https://open.spotify.com/artist/5aOpLMYo7aOOxoXBFkiJ4u), [Ecko Show](https://open.spotify.com/artist/37kknSqtVAWnUdOnbrDPkV) | [TAGULING\-GULING](https://open.spotify.com/album/2PEL4HwjE2RMwLCnqZvjna) | 4:41 |
 | 86 | [Dalam Diam](https://open.spotify.com/track/2eGp0zNLHCMaCltJ7fKdZ8) | [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi), [Zamir Harith](https://open.spotify.com/artist/053dJUug3KoJGNH4q2B1Vu), [Mojack Hafiz](https://open.spotify.com/artist/6b7Sx8k12iNt7JGHURdR3E), [Bel Janni](https://open.spotify.com/artist/5l7c6Bfkb3sHeDOOojVqvB) | [Dalam Diam](https://open.spotify.com/album/6cJwxVhJ789g6G0YrLVSVk) | 3:43 |
 | 87 | [Tulips](https://open.spotify.com/track/358ebpX0j2KttZ9IxzEjKB) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [Tulips](https://open.spotify.com/album/5Dzekft2Oi1AkJKLBhJrcs) | 4:14 |
 | 88 | [seketika](https://open.spotify.com/track/432AvgkVqNjwXiN5xjuOuu) | [Rizwan Fadilah](https://open.spotify.com/artist/6usptTdSkyzOX8rWIE4Y12), [RnBoyz\*](https://open.spotify.com/artist/2bM5A9TJgQx73gk2f7dNbK), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [seketika](https://open.spotify.com/album/2A7jRtmtLimeOUVAKRlaog) | 2:50 |

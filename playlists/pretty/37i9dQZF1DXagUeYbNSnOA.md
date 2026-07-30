@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Rigoazulado\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,490 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,504 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [LINDO RECUERDO](https://open.spotify.com/track/7FdKQZc4lm49oESCOeabIJ) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [LINDO RECUERDO](https://open.spotify.com/album/3EOqKGsz5PKVgxjbmXzT5Y) | 2:43 |
 | 50 | [MARATÓN](https://open.spotify.com/track/0RXaOOXgnJEggNryOdyOOj) | [Sam Eli](https://open.spotify.com/artist/5aCYTJsL6VosOwnCkxYRaG) | [MARATÓN](https://open.spotify.com/album/6CM5kf3dg3IQntsZGFR9vw) | 3:00 |
 
-Snapshot ID: `AAAAAI54xP3LkKB8kSZeehryxHwBYcVd`
+Snapshot ID: `AAAAAGchvU5wYQf4MFWz0JmCTbIxSwwg`

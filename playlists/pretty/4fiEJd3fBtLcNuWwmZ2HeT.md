@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 507 songs - 1 day 5 hr 4 min
+[raincandy](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 509 songs - 1 day 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -515,5 +515,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 505 | [Because the red crows chirped](https://open.spotify.com/track/3t5EtarT9l3Lh8PNJCOduC) | [NY channel](https://open.spotify.com/artist/2Fy1pKQurNXDSG9kYzXS32) | [Because the red crows chirped](https://open.spotify.com/album/6XlcJFpM9YQjNmacm3xeJH) | 2:09 |
 | 506 | [アルカリレットウセイ](https://open.spotify.com/track/4omwS3Lmbfbc6gAHQfX4aW) | [Kairikibear](https://open.spotify.com/artist/6PpaQ5s7sGyfCCL6l3yptE) | [アルカリレットウセイ](https://open.spotify.com/album/2g8NCUxGjOVCs2BkqwosQS) | 3:29 |
 | 507 | [Koukatsu](https://open.spotify.com/track/6EMhoEetT9w5segZQeyBEW) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [SIU](https://open.spotify.com/album/3H4KputrhYs3q5Dm8hC7DQ) | 3:46 |
+| 508 | [Call Boy](https://open.spotify.com/track/5Xo861ZHKMGHJx8yJR0zIt) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [SonobashinogiEP](https://open.spotify.com/album/7AAjKp4YcGvElvWy9CVCxG) | 3:28 |
+| 509 | [Shinitagari \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/6x7eohae2lVhyuWrT73Q0P) | [Nashimoto Ui](https://open.spotify.com/artist/1heQsFLwQ0sehuPqU4jdyk), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Madonosoto](https://open.spotify.com/album/2OdO7kE96j5661nPePNUAq) | 2:47 |
 
-Snapshot ID: `AAAKUa/ebouTMw7xzQD001xI500ixd7j`
+Snapshot ID: `AAAKUwOswmB1BMkBcrEvD3C1LbdQcSRp`

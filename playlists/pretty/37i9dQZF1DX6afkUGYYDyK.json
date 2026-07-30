@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 74109,
+  "num_followers": 74144,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -1727,6 +1727,26 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
+        "name": "Thank You So Much Jesus",
+        "url": "https://open.spotify.com/album/1yZ4Dt7Cpkc0f1jdud6ppH"
+      },
+      "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        },
+        {
+          "name": "Paul Klein",
+          "url": "https://open.spotify.com/artist/26xOBpJWygkOHPDsvLlbtb"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Thank You So Much Jesus",
+      "url": "https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
         "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2",
         "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
       },
@@ -1811,26 +1831,6 @@
       "duration_ms": 312586,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/2E671HNXR5AfhnbhEhX9u6"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
-        "name": "Thanks In Advance",
-        "url": "https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH"
-      },
-      "artists": [
-        {
-          "name": "Evan Ford",
-          "url": "https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk"
-        },
-        {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Thanks In Advance",
-      "url": "https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz"
     }
   ],
   "unique_name": "Give Thanks",

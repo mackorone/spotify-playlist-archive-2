@@ -2,7 +2,7 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Back Spygo, 3 Finer
+> Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo, 3 Finer
 
 693 songs - 1 day 15 hr 50 min
 

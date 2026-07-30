@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: King Gnu \*👉 <a href="https://spice.eplus.jp/articles/347889">連動記事</a>をSPICEでチェック!
 
-15,612 songs - 41 day 10 hr 30 min
+15,612 songs - 41 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9386,7 +9386,6 @@
 | [TOY BOY \- feat\. DEAN FUJIOKA](https://open.spotify.com/track/14yRr1nJ716iiFgaQRhQMV) | [HONEST BOYZ\(R\)](https://open.spotify.com/artist/6CaiCjxA5ZVcsfF0ApJsG8), [DEAN FUJIOKA](https://open.spotify.com/artist/59m6Auk4r76d16XDpOznCY) | [TOY BOY \(feat\. DEAN FUJIOKA\)](https://open.spotify.com/album/6PcrzdDNXqW7IxLjHf1u6v) | 4:04 | 2024-02-27 | 2024-03-06 |
 | [Toyfriend](https://open.spotify.com/track/5PJRILmiqzK9V63MBTd1QZ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Wakas At Simula](https://open.spotify.com/album/6PLZOVdjyDjbsuMMUdXJ7W) | 3:21 | 2026-03-31 | 2026-04-08 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 | 2026-03-11 |
-| [Track 1](https://open.spotify.com/track/7zL7va69I79IYwDGBpGls5) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [eff](https://open.spotify.com/album/3plqZDMNCoqLWkcaRiW94G) | 0:00 | 2026-07-28 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-05-29 |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-05-07 |
 | [Tragedy](https://open.spotify.com/track/3USyknoDIPjjPn2rxJQQCL) | [JAPANDA](https://open.spotify.com/artist/0pWjgVjEsnv3AREqtGYbdx) | [Tragedy](https://open.spotify.com/album/41ZfDkmAE82KPR7b8ulmcC) | 3:56 | 2024-01-23 | 2024-01-31 |
@@ -13177,6 +13176,7 @@
 | [全知全能](https://open.spotify.com/track/7ifyDRt3eiPoc4Dz20988o) | [Ghost like girlfriend](https://open.spotify.com/artist/0FXJ7e5WRLaSMZvKhZDZx2) | [全知全能](https://open.spotify.com/album/64aU1lMTZR3fG2wbtX2Fhq) | 5:02 | 2024-07-23 | 2024-07-31 |
 | [全裸](https://open.spotify.com/track/5nD57E8xurJsrfYcgqJ0Aj) | [MHRJ](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [全裸](https://open.spotify.com/album/6iiX3fHOwjHYKBdd6ettSP) | 3:00 | 2026-01-14 | 2026-01-21 |
 | [全身前礼](https://open.spotify.com/track/5zoprj5Fno5is2UVHEuJwC) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [全身前礼](https://open.spotify.com/album/2M7ynUGk2tRD9VcoFNQ9ay) | 2:53 | 2025-06-11 | 2025-06-18 |
+| [八月](https://open.spotify.com/track/7zL7va69I79IYwDGBpGls5) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [eff](https://open.spotify.com/album/3plqZDMNCoqLWkcaRiW94G) | 3:30 | 2026-07-28 |  |
 | [八月の匂い](https://open.spotify.com/track/2HrlGNDXTLmzjF1BYle8sn) | [山内総一郎](https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3), [KREVA](https://open.spotify.com/artist/6lAinPkC2U1Huibu6Vfr9R) | [八月の匂い](https://open.spotify.com/album/5nRJI8tYJvDTkVafyJbXmt) | 4:25 | 2026-06-02 | 2026-06-10 |
 | [八月の花火](https://open.spotify.com/track/1pHGmUo0pXW9jfH0h48ppN) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [八月の花火](https://open.spotify.com/album/4zqGczzlyDIugumlcH6ePr) | 4:06 | 2025-08-26 | 2025-09-03 |
 | [六つの橋](https://open.spotify.com/track/5EusjMYNGvfnEwt60OVqaq) | [SOMAOTA](https://open.spotify.com/artist/7iDt6acAAE3tr0bfHM5h3O) | [六つの橋](https://open.spotify.com/album/7b81wxZxyENklF2nZCbduH) | 4:00 | 2024-05-14 | 2024-05-22 |

@@ -125739,7 +125739,7 @@
     },
     {
       "album": {
-        "name": "Beat: Fractal Dance",
+        "name": "Vortex Beat: Fractal Dance",
         "url": "https://open.spotify.com/album/0BopDpuQHudXJes1ptDNpA"
       },
       "artists": [
@@ -262889,28 +262889,6 @@
     },
     {
       "album": {
-        "name": "Rachmaninoff & Debussy",
-        "url": "https://open.spotify.com/album/4Bn6zrfCY8NIMqmSQubiq4"
-      },
-      "artists": [
-        {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
-        },
-        {
-          "name": "Makoto Ueno",
-          "url": "https://open.spotify.com/artist/6x8QYgZ02lJpSb32ersWsf"
-        }
-      ],
-      "date_added": "2026-07-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180013,
-      "name": "Preludes, Livre 2, CD 131: No. 5, Bruyeres",
-      "url": "https://open.spotify.com/track/5pzjNDdNgPcDVKHFc2xCet"
-    },
-    {
-      "album": {
         "name": "The Chopin Collection: Preludes & Impromptus",
         "url": "https://open.spotify.com/album/1l32EP3YQOJj8r0QJ5h14V"
       },
@@ -266056,6 +266034,28 @@
       "duration_ms": 202360,
       "name": "Pr\u00e9ludes, Book 2: VIII. Ondine",
       "url": "https://open.spotify.com/track/2xKYWFxnpzDPEIf6hKhQSd"
+    },
+    {
+      "album": {
+        "name": "Rachmaninoff & Debussy: Piano Works",
+        "url": "https://open.spotify.com/album/4Bn6zrfCY8NIMqmSQubiq4"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Makoto Ueno",
+          "url": "https://open.spotify.com/artist/6x8QYgZ02lJpSb32ersWsf"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180013,
+      "name": "Pr\u00e9ludes, Book II, CD 131: No. 5, Bruy\u00e8res",
+      "url": "https://open.spotify.com/track/5pzjNDdNgPcDVKHFc2xCet"
     },
     {
       "album": {

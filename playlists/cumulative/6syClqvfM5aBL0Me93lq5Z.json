@@ -759,6 +759,24 @@
     },
     {
       "album": {
+        "name": "Rich People",
+        "url": "https://open.spotify.com/album/3cBqmSdjrdk4DoFcLt6PMX"
+      },
+      "artists": [
+        {
+          "name": "Carsie Blanton",
+          "url": "https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158441,
+      "name": "Rich People",
+      "url": "https://open.spotify.com/track/5hK5lhsnwzrVrBZpDgD1wM"
+    },
+    {
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/3SLCd2QfOJ1c1gqKZRWVI8"
       },

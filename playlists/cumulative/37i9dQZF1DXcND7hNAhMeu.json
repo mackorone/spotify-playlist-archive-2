@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 168133,
       "name": "N'olur Gelsen",
       "url": "https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP"
@@ -1548,6 +1548,24 @@
       "duration_ms": 194782,
       "name": "TELK\u0130N",
       "url": "https://open.spotify.com/track/2A2y2qdwQaylXZBT2ctwJ5"
+    },
+    {
+      "album": {
+        "name": "Tenimde",
+        "url": "https://open.spotify.com/album/0GxVgWfzOYUEyz1nF4Tc95"
+      },
+      "artists": [
+        {
+          "name": "\u00fc\u00e7kuru\u015f",
+          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183692,
+      "name": "Tenimde",
+      "url": "https://open.spotify.com/track/0TEJJwES30zONcfTX7dXja"
     },
     {
       "album": {

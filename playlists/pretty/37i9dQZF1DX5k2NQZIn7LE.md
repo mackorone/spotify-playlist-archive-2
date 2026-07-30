@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 
 > Fusion hits from Coke Studio Pakistan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,770 likes - 67 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,774 likes - 67 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 49 | [Sab Maya Hai](https://open.spotify.com/track/0685F40CUzVJMbvKkEdlKa) | [Attaullah Esakhelvi](https://open.spotify.com/artist/5YwFSSuNHMPHphcrs5BQoH), [Sanwal Esakhelvi](https://open.spotify.com/artist/3FYhwCfuCVljjb0YsavLGT) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 6:45 |
 | 50 | [Ballay Ballay](https://open.spotify.com/track/0oTc1HOfVDuqGU3DrohNWm) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA) | [Coke Studio Season 11](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 5:25 |
 | 51 | [Latthay Di Chaadar](https://open.spotify.com/track/58AkcBdW5NpM2TBbkKbdK3) | [Farhan Saeed](https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Coke Studio Season 10: Episode 4](https://open.spotify.com/album/47IayN7LlLIu6A2RuzhbrX) | 7:58 |
-| 52 | [Baazi](https://open.spotify.com/track/1jjwcee83tvrgLRcNUQNuD) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 7:14 |
+| 52 | [Baazi](https://open.spotify.com/track/1jjwcee83tvrgLRcNUQNuD) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Sahir Ali Bagga](https://open.spotify.com/artist/5HhOwOzDwca0Xd34K0GgHU) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 7:14 |
 | 53 | [Tinak Dhin](https://open.spotify.com/track/4mwptr3AR1inr9QzBHVQLC) | [Ali Hamza](https://open.spotify.com/artist/0O7Iu0NZE2lU74tHPcel7c), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Waqar Ehsin](https://open.spotify.com/artist/1TMAEF0zoOSMGptmLx3SnX) | [Coke Studio Season 10: Episode 2](https://open.spotify.com/album/0WJn9oPJOjaZenZ4OVQEgy) | 5:52 |
 | 54 | [Aurangzeb](https://open.spotify.com/track/48wMVinMbKbym6Ql6eSJx7) | [Mughal\-E\-Funk](https://open.spotify.com/artist/0FMFfSdbjQi08hUB2KqUyx) | [Coke Studio Season 11](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 4:42 |
 | 55 | [Luddi Hay Jamalo](https://open.spotify.com/track/4bgnqcQr1FJ9KX41gdtep5) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Humaira Arshad](https://open.spotify.com/artist/3jJRl9bVaEMShvhvxzlQWh) | [Coke Studio Season 11](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 5:30 |

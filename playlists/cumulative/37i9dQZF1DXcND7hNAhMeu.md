@@ -4,7 +4,7 @@
 
 > Geleceğin seslerini dinle! Kapak: Melis Karaduman
 
-112 songs - 5 hr 24 min
+113 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [MERABA](https://open.spotify.com/track/1Z3e9ckGYuIoH6jdvyqMv8) | [KAAN](https://open.spotify.com/artist/73IruPtnQ79QO4CR8Osgyp), [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [MERABA](https://open.spotify.com/album/2PxZuvHFvsQwFGb4qD3enP) | 3:04 | 2025-11-07 | 2026-04-14 |
 | [MUTLU SON](https://open.spotify.com/track/6RMli1QPSWUgw0b1q9goK8) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [SENDEN ÖNCE BEN KİMDİM](https://open.spotify.com/album/4B9gmTwPxd5qMbTzQc0HDW) | 2:27 | 2026-04-13 |  |
 | [N'aptım Ben Sana?](https://open.spotify.com/track/3yMa3jz5ivK0QrUUlT4Npx) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [N'aptım Ben Sana?](https://open.spotify.com/album/7FTnDptilAIZCpQ2Z6Yqj7) | 2:33 | 2024-06-20 |  |
-| [N'olur Gelsen](https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK), [Gizem Orhan](https://open.spotify.com/artist/6NuJHmxmFEempARh9fp3qy) | [N'olur Gelsen](https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr) | 2:48 | 2024-10-23 |  |
+| [N'olur Gelsen](https://open.spotify.com/track/7gh5AmydKfR9wfTQOyRZrP) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK), [Gizem Orhan](https://open.spotify.com/artist/6NuJHmxmFEempARh9fp3qy) | [N'olur Gelsen](https://open.spotify.com/album/1LRfz2siYTDHkYfZNkGDEr) | 2:48 | 2024-10-23 | 2026-07-30 |
 | [NE SENLE NE SENSİZ](https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn) | [SELIN ](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [NE SENLE NE SENSİZ](https://open.spotify.com/album/67KVsFKWwM07Xeg3WOXFCU) | 3:42 | 2024-06-20 |  |
 | [neden](https://open.spotify.com/track/0xLUenokW0efdVZoxtRI3s) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [neden](https://open.spotify.com/album/0UwpSPaQXWVpT3wTEMvdti) | 3:06 | 2025-06-16 | 2026-05-02 |
 | [Nehir](https://open.spotify.com/track/4pVlO2clQr2IvLUtd0F2rs) | [Beyza Doğuç](https://open.spotify.com/artist/58hQlMTfVuyOTvJihGj5Te) | [Nehir](https://open.spotify.com/album/4YbYoMr2f3EP8vMn2Ocyhl) | 2:48 | 2024-10-23 |  |
@@ -91,6 +91,7 @@
 | [Sonum Ol](https://open.spotify.com/track/3waipLozRiAKg6Ad0o40xg) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Sonum Ol](https://open.spotify.com/album/0x5Cz4GC7HnNmvr6kUmJx5) | 3:39 | 2026-07-02 |  |
 | [Sorma](https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Sorma](https://open.spotify.com/album/4O003iwIM20pmtKKJQ55Pr) | 3:54 | 2024-06-20 |  |
 | [TELKİN](https://open.spotify.com/track/2A2y2qdwQaylXZBT2ctwJ5) | [Billur Battal](https://open.spotify.com/artist/3mWHQa3vlJRkvIyw87YFTu), [Valfi](https://open.spotify.com/artist/36UGIRe1bc27QQnLgym03q) | [TELKİN](https://open.spotify.com/album/63E5fNUxgRcprFlkELgtVZ) | 3:14 | 2024-10-23 |  |
+| [Tenimde](https://open.spotify.com/track/0TEJJwES30zONcfTX7dXja) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Tenimde](https://open.spotify.com/album/0GxVgWfzOYUEyz1nF4Tc95) | 3:03 | 2026-07-29 |  |
 | [UNTZ UNTZ](https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [UNTZ UNTZ](https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9) | 2:26 | 2024-06-20 | 2024-10-24 |
 | [Unutturamaz İhanetini](https://open.spotify.com/track/0t5FqehcILFau9guTZ4IIk) | [rody dünyada](https://open.spotify.com/artist/2PPVH8rUFlN2zzJrrP8Cjg) | [Unutturamaz İhanetini](https://open.spotify.com/album/1mWIpe3hQuxo3peujX1jj5) | 2:44 | 2024-06-20 |  |
 | [Unutulur Değil Mi?](https://open.spotify.com/track/5tGp0BntYrg5aVBkUiGqhQ) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Unutulur Değil Mi?](https://open.spotify.com/album/16VaDufn3R9KOxKm0xFuRp) | 3:35 | 2024-10-23 | 2025-11-08 |

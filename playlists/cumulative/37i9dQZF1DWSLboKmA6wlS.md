@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: TACE\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: ax’an\. Artwork: Isu Kim
 
-2,673 songs - 6 day 23 hr 45 min
+2,674 songs - 6 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,7 @@
 | [กุมมือ \(Good Mornin'\)](https://open.spotify.com/track/2NVmAY0LP39gAhoPzT5JYb) | [ซัน ชีวานนท์](https://open.spotify.com/artist/2ejyohFUZRCAjHErgKESEv) | [กุมมือ \(Good Mornin'\)](https://open.spotify.com/album/2VWj9QVEET4VK8oIOsN1p0) | 3:36 | 2023-03-03 | 2023-03-11 |
 | [กุหลาบ แมสเสจ ของขวัญ](https://open.spotify.com/track/35HeDjK989h1I0WAMg5ydt) | [NITA](https://open.spotify.com/artist/1Ljn5m4AWhAQinH43fNrXW) | [กุหลาบ แมสเสจ ของขวัญ](https://open.spotify.com/album/6kxlCeJLyJZ7wc6EDIFdeo) | 1:00 | 2025-02-14 | 2025-02-28 |
 | [ก็พอ](https://open.spotify.com/track/2Mvc40jG0xFu4UeXZn4mBH) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [ก็พอ](https://open.spotify.com/album/7g2qsT0aiBFininXgePcfE) | 3:27 | 2025-01-09 | 2025-01-17 |
-| [ก็มาดิ \(Come Through\)](https://open.spotify.com/track/3R1ljs19rvNmKS60diqclP) | [Mafiaaaa](https://open.spotify.com/artist/64kNAzLq0sTxb05zo4bKbo) | [ก็มาดิ \(Come Through\)](https://open.spotify.com/album/4qK7w7wQVi3C387nn3ooGJ) | 3:13 | 2026-05-13 |  |
+| [ก็มาดิ \(Come Through\)](https://open.spotify.com/track/3R1ljs19rvNmKS60diqclP) | [Mafiaaaa](https://open.spotify.com/artist/64kNAzLq0sTxb05zo4bKbo) | [ก็มาดิ \(Come Through\)](https://open.spotify.com/album/4qK7w7wQVi3C387nn3ooGJ) | 3:13 | 2026-05-13 | 2026-07-30 |
 | [ก็เธอคือ](https://open.spotify.com/track/4jvouiVpQBGCqiC1Dskb3g) | [3919](https://open.spotify.com/artist/5r6joqRCSqvakrjfr0hMgd) | [ก็เธอคือ](https://open.spotify.com/album/0ChgEhbYtiNjh20d5AoZuH) | 3:01 | 2023-09-22 | 2023-09-30 |
 | [ก็เธอไม่ยอมตอบแชทอะ](https://open.spotify.com/track/2YXtEaFDazXSf7ZAO84YGa) | [KRAEDOSS](https://open.spotify.com/artist/2uWrzqcZOBmLe5eVdKdKOo) | [ก็เธอไม่ยอมตอบแชทอะ](https://open.spotify.com/album/6T16eE9UW9Zdsqk3vzea0i) | 3:33 | 2024-03-08 | 2024-04-19 |
 | [ก็เป็นเธอที่ใจเพ้อฝัน](https://open.spotify.com/track/5J5jsdNy0dboPvS2q5239X) | [3919](https://open.spotify.com/artist/5r6joqRCSqvakrjfr0hMgd) | [ก็เป็นเธอที่ใจเพ้อฝัน](https://open.spotify.com/album/24jG1ujrIyiBQGBfUQCTba) | 4:04 | 2023-05-12 | 2023-06-10 |
@@ -2444,6 +2444,7 @@
 | [โคตรคิดถึง](https://open.spotify.com/track/41TaJNKF1YGZ5vdWZewPE4) | [Porch Pathaseth](https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve) | [โคตรคิดถึง](https://open.spotify.com/album/49uSWlOJYw8B5TRhiIEEk2) | 4:12 | 2023-05-05 | 2023-05-27 |
 | [โคตรคิดถึง](https://open.spotify.com/track/2lmmmalFVCrwqZDJfEFAk1) | [ZLAD](https://open.spotify.com/artist/3B3EU9qAvsyensN23oOmpD) | [โคตรคิดถึง](https://open.spotify.com/album/7yrnEO9JEzOuUqOUfrcchv) | 4:48 | 2023-08-25 | 2023-09-02 |
 | [โคตรดีเลย](https://open.spotify.com/track/0lYH7xhdEwNMVNiVfnu4UN) | [Jom Jager](https://open.spotify.com/artist/1oShxO7dLutsnJpnxYL7I1), [Tom Isara](https://open.spotify.com/artist/7HMuruYOBljjjsit1De1nm) | [โคตรดีเลย](https://open.spotify.com/album/6WgLDyTJZTBJVq996jjJZq) | 3:47 | 2025-08-21 | 2025-08-30 |
+| [โคตรสวย โคตรอันตราย](https://open.spotify.com/track/0j235rUOTOJnGDiq4Ez16S) | [ax’an](https://open.spotify.com/artist/6ZpMsyqO6kymsc0cyPpRuB) | [โคตรสวย โคตรอันตราย](https://open.spotify.com/album/2qKLhYSQRbBQoH6WzwaEAr) | 3:17 | 2026-07-29 |  |
 | [โคตรเบื่อ](https://open.spotify.com/track/7iK16XLoqQ6swzOsmwG5vR) | [NSL](https://open.spotify.com/artist/1ivcHK8EtQIER7f6zAzujL) | [โคตรเบื่อ](https://open.spotify.com/album/3rPJ5XUkJJNZolQ6LWMroc) | 3:46 | 2022-10-21 | 2022-10-29 |
 | [โคตรไม่โอเค](https://open.spotify.com/track/60vbEC6zp0gBMlRPCIXJEL) | [KANOOM](https://open.spotify.com/artist/7AnPCUa9YPwbsIci8iAw10) | [โคตรไม่โอเค](https://open.spotify.com/album/1YC1kjcpuSDzaAxrPwiRNg) | 3:30 | 2023-05-05 | 2023-05-27 |
 | [โค้ช](https://open.spotify.com/track/6KBTgyNsoKL87oQ3NdOz0e) | [Ta noppawit](https://open.spotify.com/artist/5kswkZgA6CkuBWfm0YL11s) | [โค้ช](https://open.spotify.com/album/4mRocMAx2P3zGUEmEWRtwP) | 3:20 | 2024-02-16 | 2024-03-25 |

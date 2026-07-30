@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "BALLET BILLY",
+        "url": "https://open.spotify.com/album/1HUnj0XuLs6AQ6TxKrNr37"
+      },
+      "artists": [
+        {
+          "name": "Cut Manners",
+          "url": "https://open.spotify.com/artist/1OXL2MCFMKck1RMwKvcvNT"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106923,
+      "name": "BALLET BILLY",
+      "url": "https://open.spotify.com/track/6s75SQOvQynztfiYTc5mrC"
+    },
+    {
+      "album": {
         "name": "BECAUSE OF YOU",
         "url": "https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2"
       },

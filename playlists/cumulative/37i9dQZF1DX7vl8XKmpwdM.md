@@ -2,7 +2,7 @@
 
 ### [Latest Dance Tamil](https://open.spotify.com/playlist/37i9dQZF1DX7vl8XKmpwdM)
 
-> Dance Machi Dance<br/>Cover : Karuppu
+> Dance Machi Dance<br/>Cover : OM Chapter 1
 
 300 songs - 17 hr 35 min
 

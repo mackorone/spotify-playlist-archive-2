@@ -616,7 +616,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 196431,
       "name": "Beer Song - From \"Diesel\"",
       "url": "https://open.spotify.com/track/6uHuw5ynf6PFpJ2adWprxu"
@@ -4776,6 +4776,24 @@
       "duration_ms": 209500,
       "name": "Vaathi Raid",
       "url": "https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB"
+    },
+    {
+      "album": {
+        "name": "Vari Vari (Unna Kaadhaliche)",
+        "url": "https://open.spotify.com/album/3f2c0mrTvbNj50xM6o6Vbe"
+      },
+      "artists": [
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201756,
+      "name": "Vari Vari (Unna Kaadhaliche)",
+      "url": "https://open.spotify.com/track/1KJ8JKkGayN6BJ2kX3FGUj"
     },
     {
       "album": {

@@ -22369,6 +22369,24 @@
     },
     {
       "album": {
+        "name": "CA\u00cd DE CARA AYER",
+        "url": "https://open.spotify.com/album/5lRY9nBU9bRMJZ27bNvBMi"
+      },
+      "artists": [
+        {
+          "name": "Drizzle",
+          "url": "https://open.spotify.com/artist/2oV8WT02s409c2Jlc7zrlg"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178852,
+      "name": "CA\u00cd DE CARA AYER",
+      "url": "https://open.spotify.com/track/2y2804DWFwtlb72KHAhLrm"
+    },
+    {
+      "album": {
         "name": "Pensando mucho y mal",
         "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
       },

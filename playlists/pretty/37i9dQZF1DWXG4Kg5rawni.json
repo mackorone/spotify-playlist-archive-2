@@ -923,6 +923,22 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
+        "name": "N\u00e3o H\u00e1 Limites",
+        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 254676,
+      "name": "N\u00e3o H\u00e1 Limites",
+      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
         "name": "Chave do Amor",
         "url": "https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 190377,
       "name": "Chave do Amor",
       "url": "https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
-        "name": "N\u00e3o H\u00e1 Limites",
-        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 254676,
-      "name": "N\u00e3o H\u00e1 Limites",
-      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
     },
     {
       "added_at": "2026-06-12 03:01:50",

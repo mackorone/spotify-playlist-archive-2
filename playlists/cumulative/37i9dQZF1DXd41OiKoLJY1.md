@@ -4,7 +4,7 @@
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Ian Penn\]\. Artwork: Isu Kim.
 
-4,126 songs - 10 day 1 hr 1 min
+4,128 songs - 10 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3064,6 +3064,7 @@
 | [Resume \- Remix](https://open.spotify.com/track/02NJG9Tu6rcWouAaLH3Et0) | [MJ.G](https://open.spotify.com/artist/7GP7pyoLjDnm7N1V9WkT1Z), [Rhon](https://open.spotify.com/artist/2w2b70N2dixTIFsBwQgVu3) | [Resume \(Remix\)](https://open.spotify.com/album/3WzhMSgKnRMmHXQaezHXdb) | 3:14 | 2023-02-09 | 2023-02-24 |
 | [Retired Babaero](https://open.spotify.com/track/6CwWKHmn3ECTTdjhddCxef) | [Dirty Week](https://open.spotify.com/artist/71IT9mUqVPnqFjhL8PtAik) | [Retired Babaero](https://open.spotify.com/album/6MNd72d17eQqPPMqk5ZgJs) | 3:31 | 2025-10-30 | 2025-12-04 |
 | [Retro Sin City](https://open.spotify.com/track/1tvSKUKRwn56j8LoD0vjDq) | [Sejo](https://open.spotify.com/artist/4YUaR9qa7tsNgFfZ0PuMqu), [J\. Blaze](https://open.spotify.com/artist/359rMfsFjnJHLrkSB61xP2), [Aud](https://open.spotify.com/artist/0XUAq6mwMlrsRzEysedzRq) | [Retro Sin City](https://open.spotify.com/album/1ODIW8BdvMvFHGU7Jr8mO3) | 3:21 | 2025-07-10 | 2025-09-26 |
+| [Retsina](https://open.spotify.com/track/2TqP5fkkTKhxAkCifNop0F) | [Leona](https://open.spotify.com/artist/40ulg2TTFpUOcGVyDu6iJO) | [Retsina](https://open.spotify.com/album/4R7GwVgx1BdJ4lN8NGAo1L) | 4:23 | 2026-07-29 |  |
 | [Revival](https://open.spotify.com/track/00Oglw1GsvoTF9aPezy09R) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Revival](https://open.spotify.com/album/0JhahxgVnxfX37roRNCx0Y) | 2:30 | 2024-02-29 | 2024-03-29 |
 | [Reyna](https://open.spotify.com/track/6u8AEUICbMfg3kGt6PtaD2) | [The Kin Serotonin Geeks](https://open.spotify.com/artist/2FMOMbrklxqTwAtUvp19YA) | [Reyna](https://open.spotify.com/album/6lHI7OpN21Zw3n9lakneYf) | 3:30 | 2022-03-10 | 2022-04-01 |
 | [Rhinestones](https://open.spotify.com/track/21HO1Ci6urB0ZJTSAZmysg) | [KINIL](https://open.spotify.com/artist/6ejwRQk9J2eUHzKHILAXOi) | [Rhinestones](https://open.spotify.com/album/3vNIW5xzvNg78JzSgGreWD) | 2:33 | 2025-11-20 | 2026-03-06 |
@@ -3784,6 +3785,7 @@
 | [Tula](https://open.spotify.com/track/7s8InEfb9qHTvnkm2bZFck) | [Crash](https://open.spotify.com/artist/3LW1eQe3ffuPef1ChH9sPY) | [Tula](https://open.spotify.com/album/18aFsIYXt5FlNiYbZSJc7k) | 5:20 | 2025-07-10 | 2025-09-26 |
 | [Tula Para Sa'yo](https://open.spotify.com/track/1Vq9W66Z54xRAs9UR4S7Fz) | [Kobe Silvestre](https://open.spotify.com/artist/2iky61v2fEDuLWXKcuyMqX) | [Tula Para Sa'yo](https://open.spotify.com/album/2yewS9G9jQcJaik5YlMcpa) | 3:37 | 2025-04-24 | 2025-06-13 |
 | [Tulala](https://open.spotify.com/track/6lFfqayocNrY6a2awdNR0q) | [Anjannette](https://open.spotify.com/artist/0hHBm2Ouj9uRRfXtmf7Upr) | [Tulala](https://open.spotify.com/album/6x3k0fMGy8oUpskf83bWAC) | 3:25 | 2026-03-05 | 2026-05-07 |
+| [Tulala](https://open.spotify.com/track/4t6oxXMe7nMT7so5zvayBT) | [Kim Leo](https://open.spotify.com/artist/1xrEK9wTluzytuuBW2U7Iu) | [Tulala](https://open.spotify.com/album/7Ct8aRZ7H6jiSbb7KqN9x3) | 4:41 | 2026-07-29 |  |
 | [Tulala](https://open.spotify.com/track/1h4HjBPTY2crZXkfyh86EU) | [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [Tulala](https://open.spotify.com/album/3ka5uNHtmufUj96APhPy7P) | 3:26 | 2025-07-10 | 2025-09-26 |
 | [Tulip](https://open.spotify.com/track/30234qbar8ZRxk1CJZ512b) | [Stockroom Daddy](https://open.spotify.com/artist/1V7ozpr68bYEztxJB8t1Nu) | [STAR](https://open.spotify.com/album/5Pe7wc1rRap7NIaWBDyGFF) | 3:55 | 2023-02-09 | 2023-02-24 |
 | [Tuloy Lang Ang Pag\-Ikot Ng Mundo](https://open.spotify.com/track/2WFkxXnPpQgSACvxlsmrmT) | [Monolog](https://open.spotify.com/artist/1lFZVpc8Zg0D2JXr11BVrk) | [Tuloy Lang Ang Pag\-Ikot Ng Mundo](https://open.spotify.com/album/4SKTGLfSjjt1aZ3p63K42f) | 3:43 | 2022-07-21 | 2022-08-20 |

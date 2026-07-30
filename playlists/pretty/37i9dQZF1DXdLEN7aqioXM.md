@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101,384 likes - 150 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101,610 likes - 150 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 144 | [Intelli](https://open.spotify.com/track/5nr4V4qlRTEJvhCjIeZr0K) | [Damon Jee](https://open.spotify.com/artist/0nyA3iBk3cFZvBsQalv78d) | [Unknown Memories](https://open.spotify.com/album/7nFASYumUoZr10jLO1jald) | 5:57 |
 | 145 | [Uni\-Verse](https://open.spotify.com/track/2GNktRlF6uSSDBpecepGCe) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [The Florentian Cabaret](https://open.spotify.com/artist/3lCSDhZueO35GkIKaI3DRS) | [Uni\-Verse](https://open.spotify.com/album/3lgJunX75g6tt5X19HtOlW) | 5:50 |
 | 146 | [Hanami](https://open.spotify.com/track/3spPYsIHsMPi7WkdjRhNCo) | [Hagen Feetly](https://open.spotify.com/artist/3mnrTDPzT8EwZSFAhFprnC) | [Hanami](https://open.spotify.com/album/4SOrsOos05CDpeBbtDV3tm) | 3:00 |
-| 147 | [Pathfinder](https://open.spotify.com/track/1FabIctyu6k0cDMk640Iwf) | [Odyssette](https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ) | [Pathfinder](https://open.spotify.com/album/7M7VL9seSZrzPwHlti9DBy) | 3:44 |
-| 148 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 |
+| 147 | [Darkness](https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Darkness](https://open.spotify.com/album/1fw9QzRLdH01FAInVNT702) | 4:17 |
+| 148 | [Pathfinder](https://open.spotify.com/track/1FabIctyu6k0cDMk640Iwf) | [Odyssette](https://open.spotify.com/artist/1dPJi2zdu8rhtTRbbce9vJ) | [Pathfinder](https://open.spotify.com/album/7M7VL9seSZrzPwHlti9DBy) | 3:44 |
 | 149 | [Lost in the Cloud](https://open.spotify.com/track/40JOgWqmM7B3RX76psrb8N) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Lost in the Cloud](https://open.spotify.com/album/3Y71j9EecKvuSiU4zfmJhx) | 3:45 |
 | 150 | [Run Away](https://open.spotify.com/track/4cMUbSP1Ihp3W3ngjQyHzn) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb), [Subwave](https://open.spotify.com/artist/19UDaks6aMVPdEp8qhO4T9), [Karina Ramage](https://open.spotify.com/artist/08lRbqt7evEbYvgUlbSgYb) | [Renaissance](https://open.spotify.com/album/0YsTLgX6gWgmJux1Sk97D8) | 3:17 |
 

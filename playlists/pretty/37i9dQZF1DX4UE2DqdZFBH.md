@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,198 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,212 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,16 +73,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 63 | [The Last Cadenza](https://open.spotify.com/track/3j0AwklIEeYW7AjOPFMkt4) | [Bhaskar Dutta](https://open.spotify.com/artist/5WmWSEl2YZs5TgVsFFDXBk) | [The Violin Player \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZVQVSIMR5231HVPUYJWTo) | 5:47 |
 | 64 | [Indra's Necklace](https://open.spotify.com/track/6D1PgbnMCFNQcAVAr0wqE8) | [Prasanna](https://open.spotify.com/artist/2r6h7HtxCQtmG3jfXs2ZmZ) | [Electric Ganesha Land](https://open.spotify.com/album/2e55LkHl4NoGHJgaWqm699) | 3:46 |
 | 65 | [Emotive Conversation](https://open.spotify.com/track/4TtP5t0uihrLtFbnDV2ImP) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [Emotive Conversation](https://open.spotify.com/album/2Ig7cVIgBMpH2i4myl0NT1) | 2:52 |
-| 66 | [Mazaar](https://open.spotify.com/track/0PfL3lUBmyxd2aVVykDTrc) | [Susmit Sen](https://open.spotify.com/artist/05dWvaSp7ABuXclHkVPi5s), [Gayathri Natarajan](https://open.spotify.com/artist/6LlHigNKvwRVVHohJ2zHBh) | [AZAADI](https://open.spotify.com/album/5shYocGFdwVo9F1Yd9kKpz) | 9:37 |
-| 67 | [Rise](https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB) | [The Gap](https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g) | [Moving On](https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo) | 2:53 |
+| 66 | [Rise](https://open.spotify.com/track/2fNzV86ZTgfnl845KzyTaB) | [The Gap](https://open.spotify.com/artist/7Hg022H1GhPzbegtrM8c9g) | [Moving On](https://open.spotify.com/album/4Vusp4EKvs4vTCJ3mGKIfo) | 2:53 |
+| 67 | [Mazaar](https://open.spotify.com/track/0PfL3lUBmyxd2aVVykDTrc) | [Susmit Sen](https://open.spotify.com/artist/05dWvaSp7ABuXclHkVPi5s), [Gayathri Natarajan](https://open.spotify.com/artist/6LlHigNKvwRVVHohJ2zHBh) | [AZAADI](https://open.spotify.com/album/5shYocGFdwVo9F1Yd9kKpz) | 9:37 |
 | 68 | [Metro](https://open.spotify.com/track/2m4G3UGgNhqDHsPSdRNAxi) | [RAF](https://open.spotify.com/artist/5FaVA9ythVhqkH6LtGUvsR), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Sheldon D'Silva](https://open.spotify.com/artist/3ZHZrMtppSnOHkS1c6IByz), [Gino Banks](https://open.spotify.com/artist/2wZjVRal2ABf9OWGiNLUBZ), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK), [Satyajit Talwalkar](https://open.spotify.com/artist/12i115642dNlreloDOzrtK), [Sanjoy Das](https://open.spotify.com/artist/17BFGrrdmA4wu1KyGvN7pJ) | [Metro](https://open.spotify.com/album/2E6SwlQqBsurEb5XrPBXsZ) | 5:56 |
 | 69 | [Uncooked Blues](https://open.spotify.com/track/10tlq5YUvPL5b0amy5nUL3) | [Pratik Tushar](https://open.spotify.com/artist/2p1KvPYsNNgLBfLhicmUvG) | [Uncooked Blues](https://open.spotify.com/album/5OoWWUk8HCldCaNslqZhF2) | 2:59 |
 | 70 | [Mind Games](https://open.spotify.com/track/25huDxLSCWw37NB5J2lkS5) | [Vinay Kaushal](https://open.spotify.com/artist/397mfo5Gp4jT72aYLnnSDZ), [Shirish Malhotra](https://open.spotify.com/artist/09BRSkC9du5CQy9r6u6Bv2) | [Duality](https://open.spotify.com/album/39btMG9DNAir8fkFT7OcXN) | 5:28 |
 | 71 | [Legacy Makers](https://open.spotify.com/track/65skfrGCGs0RCaGC3cHOaH) | [Darshan Doshi](https://open.spotify.com/artist/3X4vjJ8zC0OF2CkqB44oMy), [Mark Hartsuch](https://open.spotify.com/artist/0YHxyyD4PHmFZipMtvH5K5) | [Better Than Sax](https://open.spotify.com/album/4WIsMlGITAMy1QUYUY1zx2) | 4:29 |
 | 72 | [Mon Kharaper Bristi](https://open.spotify.com/track/208iNU2i8NjvYMEixOlJh7) | [Avik Ganguly](https://open.spotify.com/artist/1s7nL5CIkeynD4qB8lDbks) | [My Journey with Ebony & Ivory](https://open.spotify.com/album/0jYC7EqVYPulYcPz3SyGbk) | 3:03 |
 | 73 | [Back to One](https://open.spotify.com/track/4yEXxzaeY1QfEfRVXTNqi9) | [Chris Jason](https://open.spotify.com/artist/2V2s3Ojx8fA8C0kZhyWmkl) | [Back to One](https://open.spotify.com/album/5r2rB9OynhQbvJeBE24z28) | 3:10 |
-| 74 | [La Lune \(Prelude\)](https://open.spotify.com/track/0UBhlyZ8UVLQJRJYeuWZAN) | [Leprofici](https://open.spotify.com/artist/6XAnDeLRV9ex4EGbqnJafd) | [J'ai Fame](https://open.spotify.com/album/7ANN5Eoq5PUKMAnwh2q8tp) | 3:33 |
-| 75 | [Mone Ki Dwidha](https://open.spotify.com/track/5jRxDq3gSXqxZoDy6O8jL3) | [Sayandeep Roy](https://open.spotify.com/artist/2MLDiUrNZrHeXWMzlkjQGF) | [Ode To My Beloved \(Bhalobeshe Shokhi\)](https://open.spotify.com/album/2gaJaqnhluGbirPSDqJsyg) | 4:16 |
+| 74 | [Mone Ki Dwidha](https://open.spotify.com/track/5jRxDq3gSXqxZoDy6O8jL3) | [Sayandeep Roy](https://open.spotify.com/artist/2MLDiUrNZrHeXWMzlkjQGF) | [Ode To My Beloved \(Bhalobeshe Shokhi\)](https://open.spotify.com/album/2gaJaqnhluGbirPSDqJsyg) | 4:16 |
+| 75 | [La Lune \(Prelude\)](https://open.spotify.com/track/0UBhlyZ8UVLQJRJYeuWZAN) | [Leprofici](https://open.spotify.com/artist/6XAnDeLRV9ex4EGbqnJafd) | [J'ai Fame](https://open.spotify.com/album/7ANN5Eoq5PUKMAnwh2q8tp) | 3:33 |
 | 76 | [Maybe Someday](https://open.spotify.com/track/3bOBQatV3miQwshPF6sqHy) | [Abhishek Bonthu](https://open.spotify.com/artist/2Npi8Fvuiey2YK0sWreWl5) | [Maybe Someday](https://open.spotify.com/album/2Tt6FvcQmkFXo0vAIpWIM1) | 2:42 |
 | 77 | [Change Is Constant](https://open.spotify.com/track/6cMH2fGXa2mnVmpH5ZJQ9r) | [Celestial Teapot](https://open.spotify.com/artist/6aHtkeW2toEgtMdYoiaVg8) | [One Big Sky](https://open.spotify.com/album/1zUsQok0rVwhy3ay8UD3Mw) | 6:44 |
 | 78 | [Valencia](https://open.spotify.com/track/4u0eNhPfra8m1BpOwtYVRr) | [Apoorva Krishna](https://open.spotify.com/artist/3Eg09zCuagz6r7ZGQwj6Zv) | [Valencia](https://open.spotify.com/album/12WTQanIkVo2kml0e4O2EG) | 4:54 |

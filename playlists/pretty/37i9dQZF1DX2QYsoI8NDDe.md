@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Nora Gonzalez
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,698 likes - 107 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,686 likes - 107 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 85 | [Ya Pa' Que](https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs) | [Gabby Tamez](https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2) | [Ya Pa' Que](https://open.spotify.com/album/7kgKRDFg2WO765Y79C9Yim) | 2:37 |
 | 86 | [Mamá](https://open.spotify.com/track/15CdulcFCtGJxQQInb8pEg) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Mamá](https://open.spotify.com/album/4Q90bq3WQA6cVK03PZTy3A) | 3:49 |
 | 87 | [Tanto Lo Queria](https://open.spotify.com/track/0h0G81yuaXj3Sa51NpcRys) | [Laura Denisse y Los Brillantes](https://open.spotify.com/artist/2l3rQuhAwI4rxZryE8Zze5) | [Tanto Lo Queria](https://open.spotify.com/album/76Pb1sdHP2YZxS3fx9CvE1) | 4:04 |
-| 88 | [No Me Queda Más \(En Vivo\)](https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Me Queda Más \(En Vivo\)](https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao) | 3:21 |
+| 88 | [Ay María](https://open.spotify.com/track/1pVYyhDLnK8nUf2kNFmAVc) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Ay María](https://open.spotify.com/album/0kMB100laHgatol6jxokqE) | 2:48 |
 | 89 | [24/7](https://open.spotify.com/track/3Tsf8uT2BbrUcU3xD0IpLy) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [24/7](https://open.spotify.com/album/2z5quznnIIbXoNhNelaFWP) | 2:58 |
-| 90 | [Ay María](https://open.spotify.com/track/1pVYyhDLnK8nUf2kNFmAVc) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Ay María](https://open.spotify.com/album/0kMB100laHgatol6jxokqE) | 2:48 |
+| 90 | [No Me Queda Más \(En Vivo\)](https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Me Queda Más \(En Vivo\)](https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao) | 3:21 |
 | 91 | [Sufriendo a Solas](https://open.spotify.com/track/0iXi968cTVRo7QP7S6VegQ) | [Kaylanie Barrera](https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN) | [Sufriendo a Solas \(Versión Mariachi\)](https://open.spotify.com/album/3m2moauAcI7193V5YzVdIO) | 4:54 |
 | 92 | [Ahora Somos](https://open.spotify.com/track/4M6r7BwrNtSyAGfYOOmcln) | [Vilax](https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr) | [Ahora Somos](https://open.spotify.com/album/25lxJgm2RDoAwbXZY0Y8Lt) | 3:13 |
 | 93 | [Se Me Sigue Olvidando](https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu) | [Grupo Triunfadores](https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ), [Las Posada](https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll) | [Se Me Sigue Olvidando](https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg) | 2:59 |

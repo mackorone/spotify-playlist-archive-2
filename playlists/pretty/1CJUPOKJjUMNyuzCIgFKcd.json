@@ -1,12 +1,12 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 21778,
+  "num_followers": 21776,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAn0CLF3zEmFGGWcStKtwNmgGuKOrXv",
+  "snapshot_id": "AAAn0+Wvjh7lALSKuxH2ypF9j8ov6EtW",
   "tracks": [
     {
       "added_at": "2026-07-20 21:09:28",
@@ -23,6 +23,22 @@
       "duration_ms": 155460,
       "name": "Better Decisions",
       "url": "https://open.spotify.com/track/77ygXE90XoyZSWgIb8CokQ"
+    },
+    {
+      "added_at": "2026-07-29 20:24:13",
+      "album": {
+        "name": "Wein Abdul?",
+        "url": "https://open.spotify.com/album/6WGU3F6yC0OeZePEFT2CR9"
+      },
+      "artists": [
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Wein Abdul?",
+      "url": "https://open.spotify.com/track/4OOUv5ZpeYkmf0Q9FzSu3T"
     },
     {
       "added_at": "2026-07-20 21:10:10",

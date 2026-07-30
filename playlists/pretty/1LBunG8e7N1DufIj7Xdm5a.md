@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,631 songs - 10 day 8 hr 18 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,634 songs - 10 day 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4639,5 +4639,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4629 | [Paper Airplanes](https://open.spotify.com/track/3FUPowNEgNLCmrgvyF6fsm) | [The Thundercracks](https://open.spotify.com/artist/7ASdBF3BAerPO7pd4KEs1I) | [Paper Airplanes](https://open.spotify.com/album/21dFdoPAErCbxLnnyDQ9rV) | 2:57 |
 | 4630 | [Wall of Time](https://open.spotify.com/track/5ccQwkmUkGs0KWSyxzRnzG) | [Karmaphala](https://open.spotify.com/artist/2j9cvMEomhQw36RHVC1kzU) | [Wall of Time](https://open.spotify.com/album/2Vp5pQUQq5bePmQd7h0ob3) | 2:59 |
 | 4631 | [Kiss Me Instead](https://open.spotify.com/track/1b1zD9M9drnjWio0Am0MjS) | [Towse](https://open.spotify.com/artist/0l79yamGYkMV3FBef8PDug) | [Kiss Me Instead](https://open.spotify.com/album/7gjMtv12EFS4jsqKwh5vxy) | 2:53 |
+| 4632 | [Ravenheart](https://open.spotify.com/track/29qf1NdaKsmXDAe1WDiyCl) | [MantuLa](https://open.spotify.com/artist/2U9rKhwaHS2DVPMKTbR2iR) | [Ravenheart](https://open.spotify.com/album/2vT7tcmIOVRD3n51eWe4Sb) | 4:03 |
+| 4633 | [Minor](https://open.spotify.com/track/2hUFTMMDBg1aFcB4WTOyeH) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Minor](https://open.spotify.com/album/4pVvmobCRUtv2W3oLtENZ7) | 4:49 |
+| 4634 | [Minor \- Instrumental](https://open.spotify.com/track/4iueX3n23phxmUct2zEHgL) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Minor](https://open.spotify.com/album/4pVvmobCRUtv2W3oLtENZ7) | 4:49 |
 
-Snapshot ID: `AAAJaMyzJOlWIgJ+KxaOykQbzg2Zt6wr`
+Snapshot ID: `AAAJaoboTbgUG8Rz4SzB3yVRVnD5CB6k`

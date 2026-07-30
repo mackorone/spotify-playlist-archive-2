@@ -4,7 +4,7 @@
 
 > I am horrifically aware of my spine
 
-71 songs - 3 hr 57 min
+72 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Reaganomics](https://open.spotify.com/track/6ForyBso37QPHoEM06IDwK) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [Spirit Phone](https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI) | 3:31 | 2022-08-01 |  |
 | [Reasons To Never Date Again](https://open.spotify.com/track/4cSfEOM8k3j6xV8jNNGebE) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Spring](https://open.spotify.com/album/0FKUaMZRABK2f7HjJuyAfT) | 3:24 | 2023-07-09 |  |
 | [Rest \(with Samm Henshaw\)](https://open.spotify.com/track/7kFICSTArh1ayxdTgrEXmd) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Now, Not Yet](https://open.spotify.com/album/2KSWrd22LGc0Hmqs2Z5i7z) | 3:29 | 2022-06-14 |  |
+| [Rich People](https://open.spotify.com/track/5hK5lhsnwzrVrBZpDgD1wM) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Rich People](https://open.spotify.com/album/3cBqmSdjrdk4DoFcLt6PMX) | 2:38 | 2026-07-29 |  |
 | [Rivers Is A Vampire](https://open.spotify.com/track/5Ej4QdOFpwulV2GPWbfp6T) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp), [Dan E.T.](https://open.spotify.com/artist/5h1O6B6ycnrerdsrJKd5EV) | [Rivers Is A Vampire](https://open.spotify.com/album/17gIgdbmLodIJ970KnPJeS) | 3:05 | 2023-08-10 |  |
 | [Role Models](https://open.spotify.com/track/2sDjsX3RCmWXSxRntg7LXz) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Click \(Deluxe Edition\)](https://open.spotify.com/album/51iPchT1rPmDNT5FYGoPn5) | 3:12 | 2022-05-07 |  |
 | [Rule \#3 \- Paperwork](https://open.spotify.com/track/7zIQ0E2DKYagBxrKbvR5CB) | [Fish in a Birdcage](https://open.spotify.com/artist/3AFsnAC0H9hes71BeRypbq) | [Fish in a Birdcage](https://open.spotify.com/album/3JT5Riw2oTx8W6ZnLim5i2) | 5:08 | 2022-06-27 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Take down the tempo but keep the dance party going with the biggest tropical house jams.",
-  "num_followers": 2351788,
+  "num_followers": 2351926,
   "original_name": "Tropical House",
   "owner": {
     "name": "Spotify",
@@ -3899,6 +3899,26 @@
     {
       "added_at": "2026-07-10 04:00:55",
       "album": {
+        "name": "Sweetly",
+        "url": "https://open.spotify.com/album/0uwLohooG33NWGKJyCwfcy"
+      },
+      "artists": [
+        {
+          "name": "Honey",
+          "url": "https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9"
+        },
+        {
+          "name": "Summer Vibes",
+          "url": "https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Sweetly",
+      "url": "https://open.spotify.com/track/3Wmvjczz3FOjOdzZL2246L"
+    },
+    {
+      "added_at": "2026-07-10 04:00:55",
+      "album": {
         "name": "Never Be Alone",
         "url": "https://open.spotify.com/album/6txkQhn6sQct44Uc3LPZdy"
       },
@@ -3919,26 +3939,6 @@
       "duration_ms": 182000,
       "name": "Never Be Alone",
       "url": "https://open.spotify.com/track/0Kn1X518zDKy02CQoVP5c3"
-    },
-    {
-      "added_at": "2026-07-10 04:00:55",
-      "album": {
-        "name": "Sweetly",
-        "url": "https://open.spotify.com/album/0uwLohooG33NWGKJyCwfcy"
-      },
-      "artists": [
-        {
-          "name": "Honey",
-          "url": "https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9"
-        },
-        {
-          "name": "Summer Vibes",
-          "url": "https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Sweetly",
-      "url": "https://open.spotify.com/track/3Wmvjczz3FOjOdzZL2246L"
     },
     {
       "added_at": "2026-07-10 04:00:55",

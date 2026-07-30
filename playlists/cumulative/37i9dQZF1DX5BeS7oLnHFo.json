@@ -1089,6 +1089,28 @@
     },
     {
       "album": {
+        "name": "R2",
+        "url": "https://open.spotify.com/album/4WLDfug8AMnPH1gh0QVwq2"
+      },
+      "artists": [
+        {
+          "name": "Alyoung",
+          "url": "https://open.spotify.com/artist/0cCdSqBWH0WY1rg6yFTA3C"
+        },
+        {
+          "name": "Randar",
+          "url": "https://open.spotify.com/artist/0yaac3M9Xna3EgrANm9qnk"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "R2",
+      "url": "https://open.spotify.com/track/48lACJStcQmd2WO1qMnqOF"
+    },
+    {
+      "album": {
         "name": "Rawq Elmanga",
         "url": "https://open.spotify.com/album/24i5mi7wRZIZATTQCWipGC"
       },

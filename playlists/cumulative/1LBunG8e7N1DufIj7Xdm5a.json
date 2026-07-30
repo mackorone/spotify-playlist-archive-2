@@ -46143,6 +46143,42 @@
     },
     {
       "album": {
+        "name": "Minor",
+        "url": "https://open.spotify.com/album/4pVvmobCRUtv2W3oLtENZ7"
+      },
+      "artists": [
+        {
+          "name": "Halera",
+          "url": "https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289530,
+      "name": "Minor",
+      "url": "https://open.spotify.com/track/2hUFTMMDBg1aFcB4WTOyeH"
+    },
+    {
+      "album": {
+        "name": "Minor",
+        "url": "https://open.spotify.com/album/4pVvmobCRUtv2W3oLtENZ7"
+      },
+      "artists": [
+        {
+          "name": "Halera",
+          "url": "https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289530,
+      "name": "Minor - Instrumental",
+      "url": "https://open.spotify.com/track/4iueX3n23phxmUct2zEHgL"
+    },
+    {
+      "album": {
         "name": "RAGIONE e SENTIMENTO",
         "url": "https://open.spotify.com/album/70wL7Os7BJR41xUZtpKbWv"
       },
@@ -57940,6 +57976,24 @@
       "duration_ms": 138187,
       "name": "rattusi",
       "url": "https://open.spotify.com/track/0KhIPdUlIS9HBdQZ4t5gDI"
+    },
+    {
+      "album": {
+        "name": "Ravenheart",
+        "url": "https://open.spotify.com/album/2vT7tcmIOVRD3n51eWe4Sb"
+      },
+      "artists": [
+        {
+          "name": "MantuLa",
+          "url": "https://open.spotify.com/artist/2U9rKhwaHS2DVPMKTbR2iR"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243694,
+      "name": "Ravenheart",
+      "url": "https://open.spotify.com/track/29qf1NdaKsmXDAe1WDiyCl"
     },
     {
       "album": {

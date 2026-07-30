@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:0EyWwpunTSY8VHFDCFTkU1">Dossiê de Orí</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,064 likes - 12 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,063 likes - 12 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [se não tem troca, é roubo \- ep 05](https://open.spotify.com/episode/2xWmaDnuKhOmUapUCNqePe) | [Dossiê de Orí](https://open.spotify.com/show/0EyWwpunTSY8VHFDCFTkU1) | [Dossiê de Orí](https://open.spotify.com/album/0EyWwpunTSY8VHFDCFTkU1) | 3:16 |
+| 1 | [se não tem troca, é roubo \- episódio 05](https://open.spotify.com/episode/2xWmaDnuKhOmUapUCNqePe) | [Dossiê de Orí](https://open.spotify.com/show/0EyWwpunTSY8VHFDCFTkU1) | [Dossiê de Orí](https://open.spotify.com/album/0EyWwpunTSY8VHFDCFTkU1) | 3:16 |
 | 2 | [Cansei de fazer a escolha certa\. \| S.2 Ep.1](https://open.spotify.com/episode/3zeNr1b7e1umV6ylqu8kDW) | [Café Frio Show com Victor Vaz](https://open.spotify.com/show/5WlYDuAy95HR70mLGMoH4X) | [Café Frio Show com Victor Vaz](https://open.spotify.com/album/5WlYDuAy95HR70mLGMoH4X) | 15:20 |
 | 3 | [Querem a minha versão que se sacrifica, é invencível e pobre](https://open.spotify.com/episode/6ExztlxM68tlNA4YTQjYpl) | [Em Voz Alta com @moniqueevelle](https://open.spotify.com/show/6Odjx7srT3MbDB8NoDsySU) | [Em Voz Alta com @moniqueevelle](https://open.spotify.com/album/6Odjx7srT3MbDB8NoDsySU) | 14:22 |
 | 4 | [Os segredos de sono dos nossos ancestrais.](https://open.spotify.com/episode/5aEtmRWxGUuvLmPhpcIWLD) | [Uma Tupá no Tempo](https://open.spotify.com/show/5g9cA7pE0CKJPphPMkD0fF) | [Uma Tupá no Tempo](https://open.spotify.com/album/5g9cA7pE0CKJPphPMkD0fF) | 59:42 |

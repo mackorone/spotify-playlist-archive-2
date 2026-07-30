@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,316 songs - 5 day 0 hr 8 min
+2,317 songs - 5 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Asfalt & nikotin](https://open.spotify.com/track/4MNsh1rqaRAZUhNm6ATAbR) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Asfalt & nikotin](https://open.spotify.com/album/1vTvWoiNkKShlx4fZXo8BT) | 2:52 | 2025-05-01 | 2025-10-17 |
 | [Aska](https://open.spotify.com/track/1cahT3TKkFmggbAoL6sRQO) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Aska](https://open.spotify.com/album/0hDiIyy8derMbYJ9N4Eghx) | 3:54 | 2022-01-13 | 2022-07-29 |
 | [Aska](https://open.spotify.com/track/7IDJTVebvZSHH5coPgvxIq) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [Vi](https://open.spotify.com/album/7jzxFogzrtyfr0QSxWUBIX) | 3:54 | 2022-07-28 | 2022-09-16 |
+| [Asleep Talking](https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Asleep Talking](https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3) | 2:36 | 2026-07-29 |  |
 | [Atlantic](https://open.spotify.com/track/5kIxyCOaIx7wxWnbVva9Nt) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Misemotional](https://open.spotify.com/album/3FaYgjSf0JzLIcrRcldU6s) | 3:14 | 2024-08-22 | 2024-09-30 |
 | [Atom](https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Atom](https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB) | 2:41 | 2026-05-28 |  |
 | [Att vara själv och inte ensam alls](https://open.spotify.com/track/2kg9iuONImcFwLYanWJfvp) | [Den svenska björnstammen](https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G) | [Att vara själv och inte ensam alls](https://open.spotify.com/album/49dwPU6YrNSCtMEP1RyXQZ) | 3:42 | 2021-12-16 | 2022-03-10 |
@@ -2046,7 +2047,7 @@
 | [Together](https://open.spotify.com/track/1Z5LUX0cHKI6V3aAQ9AfNQ) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Together](https://open.spotify.com/album/4NuQmXyWmVWl7vaFtWSp81) | 2:59 | 2023-12-08 | 2024-03-08 |
 | [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 | 2023-10-20 |
 | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/album/2zSpEzpWaPkCjjFLXtM1JP) | 2:22 | 2026-06-11 |  |
-| [Tomma läppar](https://open.spotify.com/track/5oTwWYGGvz9c5S2kcQCYxf) | [Kid](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [Tomma läppar](https://open.spotify.com/album/00q31p6qqDvVBNi7Y0oYv4) | 2:58 | 2026-05-14 |  |
+| [Tomma läppar](https://open.spotify.com/track/5oTwWYGGvz9c5S2kcQCYxf) | [Kid](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [Tomma läppar](https://open.spotify.com/album/00q31p6qqDvVBNi7Y0oYv4) | 2:58 | 2026-05-14 | 2026-07-30 |
 | [Tonårsdröm](https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Lijam](https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN) | [Tonårsdröm](https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ) | 3:34 | 2025-12-29 | 2026-03-20 |
 | [Too Kind](https://open.spotify.com/track/5EbEsJFurAUO2WrMjr5ppZ) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [Too Kind](https://open.spotify.com/album/5VCfwebiNPDB2Zgi4rSvbH) | 2:54 | 2024-01-25 | 2024-01-28 |
 | [Torka dina tårar](https://open.spotify.com/track/1J1IL6aC8k8q64ecwOUlSw) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Torka dina tårar](https://open.spotify.com/album/2GK7kCZljQxjGzDSnlq91N) | 3:12 | 2024-05-30 | 2024-06-28 |

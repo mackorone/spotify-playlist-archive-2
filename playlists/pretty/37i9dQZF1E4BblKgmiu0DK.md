@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4BblKgmiu0DK.md) - [plain]
 
 ### [Renee Cassar Radio](https://open.spotify.com/playlist/37i9dQZF1E4BblKgmiu0DK)
 
-> With Die Mannequin, Gin Wigmore, Mia Morris and more
+> With Die Mannequin, Jinx & The Royals, Rebel Rebel Barbie and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 6 likes - 50 songs - 2 hr 50 min
 

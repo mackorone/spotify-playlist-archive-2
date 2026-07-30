@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Leon Bridges, James Morrison and more
+> With John Mayer, Leon Bridges, Wild Rivers and more
 
 1,601 songs - 4 day 3 hr 27 min
 

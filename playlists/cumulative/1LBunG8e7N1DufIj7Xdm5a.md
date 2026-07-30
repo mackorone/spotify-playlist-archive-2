@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,565 songs - 10 day 4 hr 56 min
+4,568 songs - 10 day 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2521,6 +2521,8 @@
 | [Mindshrooms](https://open.spotify.com/track/5Iuk6uVkN0jmvu2jD330Kf) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Mindshrooms](https://open.spotify.com/album/0kWEGE2InIV8B5FeWUHy06) | 2:57 | 2025-12-25 |  |
 | [Mine \- Remix](https://open.spotify.com/track/5lHd35yEPJJ9txb2o5op0T) | [DayEyez](https://open.spotify.com/artist/1aQedVQXAyjHdMzJbCUeAG), [Shaun Dayman](https://open.spotify.com/artist/33U4wuMpmtGxKKsSfXJIpU) | [Mine \(Remix\)](https://open.spotify.com/album/3m3kr2jwqEEcgt9k5W68Pl) | 4:08 | 2025-07-26 |  |
 | [Minha Canção Vai Te Tocar](https://open.spotify.com/track/2DNdccmDGY4UUtXSeOhbBN) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Dueto](https://open.spotify.com/album/6od0qOZJPuGeXp1Bi5y3vX) | 4:29 | 2025-05-04 |  |
+| [Minor](https://open.spotify.com/track/2hUFTMMDBg1aFcB4WTOyeH) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Minor](https://open.spotify.com/album/4pVvmobCRUtv2W3oLtENZ7) | 4:49 | 2026-07-29 |  |
+| [Minor \- Instrumental](https://open.spotify.com/track/4iueX3n23phxmUct2zEHgL) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Minor](https://open.spotify.com/album/4pVvmobCRUtv2W3oLtENZ7) | 4:49 | 2026-07-29 |  |
 | [MIRACOLO \(RIP\)](https://open.spotify.com/track/39I8mcs3nMG7ctWyk3GM70) | [Maximilian](https://open.spotify.com/artist/2ysBLiVHbTXWPcYXNE9U4m) | [RAGIONE e SENTIMENTO](https://open.spotify.com/album/70wL7Os7BJR41xUZtpKbWv) | 3:10 | 2026-02-13 |  |
 | [Mirror Souls](https://open.spotify.com/track/1SZdPi4H7lo09CfU7E6YzY) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:36 | 2026-04-13 |  |
 | [Mirror Souls \(fomo mode\)](https://open.spotify.com/track/5Hr2bIswIe1jshBzLEU6wv) | [The second coast](https://open.spotify.com/artist/7IeM0Uh8vOpOFvhp8StwWi) | [SEMIQUINCENTENNIAL VOICES](https://open.spotify.com/album/4q3D0mA0dP458GXE7Z6NIE) | 2:49 | 2026-04-13 |  |
@@ -3165,6 +3167,7 @@
 | [Ratio](https://open.spotify.com/track/4MbDluyiFkfSXG8Rb5Whlh) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:14 | 2025-09-17 |  |
 | [Rattlesnake](https://open.spotify.com/track/5l7dS18SkGuzYTfHmPMMI8) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [Rattlesnake](https://open.spotify.com/album/7FKvWEwg3s5sbDbV4o5fgo) | 3:07 | 2025-06-10 |  |
 | [rattusi](https://open.spotify.com/track/0KhIPdUlIS9HBdQZ4t5gDI) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [acustica](https://open.spotify.com/album/6lQngfE6PQjzuAQgJzw70b) | 2:18 | 2026-02-01 |  |
+| [Ravenheart](https://open.spotify.com/track/29qf1NdaKsmXDAe1WDiyCl) | [MantuLa](https://open.spotify.com/artist/2U9rKhwaHS2DVPMKTbR2iR) | [Ravenheart](https://open.spotify.com/album/2vT7tcmIOVRD3n51eWe4Sb) | 4:03 | 2026-07-29 |  |
 | [Razor's Edge](https://open.spotify.com/track/7MSlttIhBxGdcLEuModzlr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 4:24 | 2025-09-17 |  |
 | [RE\-EVOLUTION](https://open.spotify.com/track/4mvjLwWfW504MRhiKN4gVg) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [YOGYETY & AI](https://open.spotify.com/album/4iXiqES3b6P7toYWq2ZCpd) | 3:59 | 2026-02-01 |  |
 | [Ready to fly](https://open.spotify.com/track/2yjmO1IGZLy3cFrjpEWm1S) | [Kakawa](https://open.spotify.com/artist/1FyVInLSoA06fjVYfPUfeN) | [Ready to fly](https://open.spotify.com/album/1mfycqZ0WsBd5HSfgY55rh) | 3:28 | 2025-03-31 |  |

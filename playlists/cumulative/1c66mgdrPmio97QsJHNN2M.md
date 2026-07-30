@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,551 songs - 5 day 15 hr 2 min
+2,554 songs - 5 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1016,6 +1016,7 @@
 | [I killed a man](https://open.spotify.com/track/6hs2b6fFcU6LCD89DPBl0N) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [I killed a man](https://open.spotify.com/album/3emeU6vy3K8dkX3UNwAaCQ) | 3:16 | 2025-11-11 | 2025-12-13 |
 | [i know](https://open.spotify.com/track/0O6YOPWxxdoMtSx4umN8Eu) | [Sonny](https://open.spotify.com/artist/738VomCKBWF7qPA1ZfenH2) | [i know](https://open.spotify.com/album/4tl16bCJiggvbdeMV9TwD8) | 3:27 | 2026-07-14 |  |
 | [I know he was](https://open.spotify.com/track/2AsWONFdZM5unwVKDCSO4U) | [Si Rusty](https://open.spotify.com/artist/1VbhbjoDwIar84obeTCV2M) | [I know he was](https://open.spotify.com/album/3c6DVRc21XqgHrhbiiDX7n) | 2:49 | 2026-04-20 | 2026-05-22 |
+| [I Love the NiteTime \- Instrumental](https://open.spotify.com/track/71EtEiC81m2XGqTtbIho9t) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [I Love the NiteTime \(Instrumental\)](https://open.spotify.com/album/3l4SxjWPTqCkfk3do9lvPC) | 2:30 | 2026-07-29 |  |
 | [I Love You Still](https://open.spotify.com/track/3C055vbHmlckZhjtTekZrt) | [Brave New Animals](https://open.spotify.com/artist/00TOO0Cc7Q8F7xv05t0rTF) | [LUST ≠ LOVE](https://open.spotify.com/album/03srMks3akAypDoqixWb2N) | 3:34 | 2025-11-17 | 2025-12-19 |
 | [I Mean It This Time](https://open.spotify.com/track/33NnmwnFnxI1sjaFdZINrQ) | [Ella Slone](https://open.spotify.com/artist/0HOQnpgbTlEjVdcgun1FdB) | [This Is Fine](https://open.spotify.com/album/5qETSdVXH2f675oThRNhfk) | 3:12 | 2026-04-15 | 2026-05-16 |
 | [I Miss You](https://open.spotify.com/track/1eOKhyrLngwYxGKtqB1zFI) | [ILEKTRA](https://open.spotify.com/artist/1KSXF3RslyOfUJzkaxb6o1) | [I Miss You](https://open.spotify.com/album/7pQNFSf3imjlVyMrusJpMZ) | 2:48 | 2026-04-07 | 2026-05-08 |
@@ -2402,6 +2403,7 @@
 | [What U Freakin'](https://open.spotify.com/track/625Vv9jlZ3UNrEb16buqZq) | [Joshua Pearlstein](https://open.spotify.com/artist/1RH04nlMw0TTpC3tRTbwwZ) | [What U Freakin'](https://open.spotify.com/album/6iw8DZSf9NmvTR2SZC8mjB) | 2:06 | 2026-03-14 | 2026-04-15 |
 | [What We Used To Be](https://open.spotify.com/track/6pxD5o42vrhpq1NtlAvqnf) | [Kelaiah](https://open.spotify.com/artist/1XDsNG8zvrijGuv7neT4Wg) | [What We Used To Be](https://open.spotify.com/album/6eOOpQswoiIdxNXPvTpULy) | 4:43 | 2025-12-30 | 2026-02-03 |
 | [what you want](https://open.spotify.com/track/5iVs4X6pL9FvemLW8qEcFj) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [what you want](https://open.spotify.com/album/5rncqxKNvPAqA1nZFZ7yCy) | 2:34 | 2026-02-09 | 2026-03-12 |
+| [What's Your Name](https://open.spotify.com/track/2BsMM0JK46pnkv6dNHK4Ck) | [Trendsetter](https://open.spotify.com/artist/2r6KOzzHhbWaMwP2EwmUEM), [Magnus Deus](https://open.spotify.com/artist/2ucNjOKWBIEBnzvFgmJAn3), [Katty G](https://open.spotify.com/artist/5AzDXioaAPrx8SzjCyFnIB) | [What's Your Name](https://open.spotify.com/album/2donQPGwDxsAnuciY9F6VI) | 2:46 | 2026-07-29 |  |
 | [whatever happened to US?](https://open.spotify.com/track/5StfR09C6SjhDmnWAkxTm8) | [Nathan Oswalt](https://open.spotify.com/artist/1p3fViLAZhmYFaZu2EPAFO) | [whatever happened to US?](https://open.spotify.com/album/6UOtGk08ilBwvqOoIGDEZD) | 3:00 | 2026-06-28 |  |
 | [Whats going on?!](https://open.spotify.com/track/20iNQnYugyKpJ1okXHwdtN) | [Robert Low](https://open.spotify.com/artist/0AdYvPNfgDlZ0PxFLy39pq) | [Play again](https://open.spotify.com/album/6HX8lmXtxR0vL3kVaFvv19) | 2:57 | 2026-01-06 | 2026-02-07 |
 | [When I Fall](https://open.spotify.com/track/7gMLfb1NbOeDgmWZ6qZt7V) | [Hudson Murray](https://open.spotify.com/artist/64Ytpz9KrL0P7WQaMVPPy3) | [Stars Aligned](https://open.spotify.com/album/2IWGP4nPo5BcBuUTNEZzWG) | 2:54 | 2026-02-04 | 2026-03-08 |
@@ -2450,6 +2452,7 @@
 | [WHY \- Remastered 2025](https://open.spotify.com/track/2VOn1dLZ5PTGPreHj2YKlJ) | [heiWr](https://open.spotify.com/artist/6TZKTfOi2QbFa3BH34e7jY) | [WHY \(Remastered 2025\)](https://open.spotify.com/album/3w7pPAbXaOaHl7WHdhEAbt) | 2:08 | 2026-04-24 | 2026-05-25 |
 | [Why Am I The Only One?](https://open.spotify.com/track/2fTPAtI8PCXX1Gu2Ig4ijB) | [Vane](https://open.spotify.com/artist/574EpCX5szDnIiCiyntBAO) | [Why Am I The Only One?](https://open.spotify.com/album/0Q9DizlKs33u43W6IVb6UQ) | 2:44 | 2026-07-08 |  |
 | [why do i do the things i do?](https://open.spotify.com/track/4abpVQVjFr3Yq5rvhTZctm) | [Anna Eisch](https://open.spotify.com/artist/5MYYasUECYozwr6cSGP7JM) | [BLAME](https://open.spotify.com/album/4OvpV9iEJKzBHhxpq7pQOy) | 2:12 | 2026-01-23 | 2026-02-24 |
+| [Why Don't They Care?](https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Why Don't They Care?](https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM) | 3:04 | 2026-07-29 |  |
 | [Why Don't You?](https://open.spotify.com/track/3ZwziPw6tfa2uqVO3kb00x) | [Donnie Dynamite](https://open.spotify.com/artist/2jF2ZJPCeAL4UTrWa1Z78f), [FiVe \(The Infinite\)](https://open.spotify.com/artist/2iI7c8fENFVoSANPTWVTup) | [Why Don't You?](https://open.spotify.com/album/0PhTPtXquw0iXDsTzL4aCD) | 2:31 | 2026-03-02 | 2026-04-03 |
 | [Wide Awake](https://open.spotify.com/track/4b34QqJbXageXnFaBkEmWm) | [Chronic Dream](https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Wide Awake](https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq) | 3:33 | 2025-11-10 | 2025-12-11 |
 | [Wifey Material](https://open.spotify.com/track/6sll6APTnjY4dhp1Xqdu6y) | [BERENICE](https://open.spotify.com/artist/4jETzCgqCaZ7DemKihsrZG) | [Wifey Material](https://open.spotify.com/album/1KsLj4rQ13QbcVxe3QbMWq) | 3:11 | 2026-02-09 | 2026-03-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,556 likes - 150 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,553 likes - 150 songs - 11 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,13 +148,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 138 | [Just The Cross](https://open.spotify.com/track/37dWqUi7xIJ4HH4dsgxDDh) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [Reborn](https://open.spotify.com/album/70x3zMErhDJEzh7pGw6ICv) | 5:57 |
 | 139 | [What Do You See?](https://open.spotify.com/track/3JH5WC01VGxAjTLJHVNL8v) | [The Cross Movement](https://open.spotify.com/artist/6PnUytjwfexMb295xYEDbi), [The Ambassador ](https://open.spotify.com/artist/7CsXxTT7EPJbBT0FaIDVWJ) | [Human Emergency](https://open.spotify.com/album/0L1qTUGKBZjnTDGnxFZiHk) | 5:25 |
 | 140 | [Still My Little Boy](https://open.spotify.com/track/7pH0SM8tsclIBgRX7Al1zm) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Still My Little Boy](https://open.spotify.com/album/0s00dylb9jlVwZOct1rief) | 4:32 |
-| 141 | [Worthy Is The Lamb \- Easter Version](https://open.spotify.com/track/16Ctqq2ZkzjE2f7HbLSJMt) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Easter](https://open.spotify.com/album/3nJxen033HMnvySxcnSiJh) | 5:33 |
-| 142 | [RESURRECTION HERE](https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [RESURRECTION HERE](https://open.spotify.com/album/4QfZ0A7R1ciDP8ZucNZYfb) | 4:16 |
-| 143 | [Crown Him With Many Crowns](https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd) | [Nathan Drake](https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr) | [Crown Him With Many Crowns](https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU) | 4:14 |
-| 144 | [The Wonderful Cross](https://open.spotify.com/track/023AkI7rxNRoAc75druPXP) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 4:46 |
+| 141 | [RESURRECTION HERE](https://open.spotify.com/track/4vdHySGP8UmHbkf4JXqhUB) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [RESURRECTION HERE](https://open.spotify.com/album/4QfZ0A7R1ciDP8ZucNZYfb) | 4:16 |
+| 142 | [Worthy Is The Lamb \- Easter Version](https://open.spotify.com/track/16Ctqq2ZkzjE2f7HbLSJMt) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Easter](https://open.spotify.com/album/3nJxen033HMnvySxcnSiJh) | 5:33 |
+| 143 | [The Wonderful Cross](https://open.spotify.com/track/023AkI7rxNRoAc75druPXP) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 4:46 |
+| 144 | [Crown Him With Many Crowns](https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd) | [Nathan Drake](https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr) | [Crown Him With Many Crowns](https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU) | 4:14 |
 | 145 | [Stay With Me Here](https://open.spotify.com/track/74Xfijo7ERntrhBdgLsicn) | [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [The Crucifixion of Jesus](https://open.spotify.com/album/34fmXMkIlFqWXAe5vqBQZq) | 4:21 |
-| 146 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
-| 147 | [We Shall Behold Him/Behold The Lamb](https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Autumn Nelon](https://open.spotify.com/artist/5BaM4PGPMYNtU2rH2LHgTe) | [We Shall Behold Him/Behold The Lamb](https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg) | 8:00 |
+| 146 | [We Shall Behold Him/Behold The Lamb](https://open.spotify.com/track/7mINdftFHnJOOO2ur4ZFzS) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Autumn Nelon](https://open.spotify.com/artist/5BaM4PGPMYNtU2rH2LHgTe) | [We Shall Behold Him/Behold The Lamb](https://open.spotify.com/album/6CpNgIYmLAgZmvgPoynCzg) | 8:00 |
+| 147 | [Who Could \(Live\)](https://open.spotify.com/track/5VcdC4ECqjaqJMRxlt7foA) | [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Faith And Wonder \(Live\)](https://open.spotify.com/album/4NKae9eE7Tk69T53x7mQHj) | 5:59 |
 | 148 | [In The Resurrection](https://open.spotify.com/track/5y7UcB9uyzE1xZFaTLVICF) | [iAmSon](https://open.spotify.com/artist/1T8Be2Meq3EPh7WUBlW11E), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [In The Resurrection](https://open.spotify.com/album/0G6iRcuMTbCkvK1mtiiCXW) | 4:27 |
 | 149 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 | 150 | [He Lives](https://open.spotify.com/track/6HRrYSbJHcy4oKdgU1pqzs) | [Jonathan Turner](https://open.spotify.com/artist/2UN7nXiNisIAnnun9WZ1qJ), [Brian Connelly](https://open.spotify.com/artist/568sD5Ea5m8svijwp9cmZe) | [He Lives](https://open.spotify.com/album/6TPj51KKvfmiRtwcEJ3Sid) | 4:24 |

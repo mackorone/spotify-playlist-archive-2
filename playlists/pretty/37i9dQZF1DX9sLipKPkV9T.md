@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר:ניר כנען
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,117 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,124 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [תמיד רציתי עוד](https://open.spotify.com/track/7JthqxqRulP1lxrSM0fNlh) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [תמיד רציתי עוד](https://open.spotify.com/album/6r6e6Fu2aGJLPIoqSRqRlm) | 3:22 |
 | 2 | [חושב שאתה מסי](https://open.spotify.com/track/3Pj0N7pQNa0zJQPbac2zN8) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [חושב שאתה מסי](https://open.spotify.com/album/2PgYa45gNf3GJuHmrdQGTZ) | 2:15 |
 | 3 | [סטארבקס](https://open.spotify.com/track/4LcvV8xxA3oYpvOoaZa59o) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5), [ShrekDiMC](https://open.spotify.com/artist/01r7peBt7lJhz42nE04rpM) | [סטארבקס](https://open.spotify.com/album/2qN1BFwlE4CfnZWmO1STIz) | 2:31 |
-| 4 | [מי כמוני](https://open.spotify.com/track/60jZw0EvmLnqE13JhJTzpY) | [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe), [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd) | [מי כמוני](https://open.spotify.com/album/1ed3CvgAAykqByumMoqmUm) | 2:50 |
+| 4 | [מי כמוני](https://open.spotify.com/track/60jZw0EvmLnqE13JhJTzpY) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [מי כמוני](https://open.spotify.com/album/1ed3CvgAAykqByumMoqmUm) | 2:50 |
 | 5 | [אוי ואבוי לי](https://open.spotify.com/track/6Rppr2lp9dAJroOR7GEsrM) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [נקודת תורפה](https://open.spotify.com/album/7nyNw2tp7KborpcOYqVSiJ) | 2:37 |
 | 6 | [שבלי](https://open.spotify.com/track/01H3UZZdTfu73MAbxnk0E3) | [רביב כנר](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [פרידה](https://open.spotify.com/album/2h6tsQJ8zcfEt4jgN8xYAe) | 3:08 |
 | 7 | [קח אותי לתאילנד](https://open.spotify.com/track/7qzKiAkASRzrb9EXZ0HXcN) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [קח אותי לתאילנד](https://open.spotify.com/album/2Eg18KQt1RZYeA84Z496o7) | 2:49 |

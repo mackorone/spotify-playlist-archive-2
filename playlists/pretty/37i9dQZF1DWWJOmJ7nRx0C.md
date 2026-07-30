@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: The HU
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,752 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,744 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 89 | [Boat Garage](https://open.spotify.com/track/4iMztkHIUoyrc5budQ1fOk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Boat Garage](https://open.spotify.com/album/0SUMGjHajl25ox0yApi0DK) | 2:59 |
 | 90 | [Sweet Escape](https://open.spotify.com/track/3TIcdBMwO0edjegqERapnm) | [Return to Dust](https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS) | [Sweet Escape](https://open.spotify.com/album/3eHChYoYd4IKPDnflk5fWo) | 3:11 |
 | 91 | [Words Are Worthless](https://open.spotify.com/track/1FwQ5seq3gFcqLAsIu8QpE) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Afterglow](https://open.spotify.com/album/5VFCZaivqUDRJq34ylEbt5) | 3:41 |
-| 92 | [BLINDFOLD](https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:14 |
+| 92 | [Blindfold](https://open.spotify.com/track/14CHUiA5TOvpYvIl63TSI6) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:14 |
 | 93 | [DEADMEAT](https://open.spotify.com/track/4XCuMPrNAoO1Rw4AcNFSlV) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [DEADMEAT](https://open.spotify.com/album/75Nrza4VqqVE4sbKdrHBwZ) | 2:52 |
 | 94 | [No Surprise](https://open.spotify.com/track/5vZw0zHPkxMYr8cHleEf9k) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Bleech 9:3](https://open.spotify.com/album/6LnK2cmnchsy0iSsLJE9ib) | 3:11 |
 | 95 | [Chaos Ball](https://open.spotify.com/track/3OYDaKkG4dgfyGLHLAvGzY) | [Bike Routes](https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA) | [Prairie](https://open.spotify.com/album/0rYKyoUPaD9R3VxZOPZEKD) | 4:18 |

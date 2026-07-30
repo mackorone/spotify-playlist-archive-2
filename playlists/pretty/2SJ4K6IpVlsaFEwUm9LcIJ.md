@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,366 likes - 33 songs - 2 hr 29 min
+[margeaux](https://open.spotify.com/user/1220511975) - 24,364 likes - 35 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,5 +41,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 31 | [風をあつめて](https://open.spotify.com/track/4mDoYdwFGi5nPwwGIKqQnF) | [はっぴいえんど](https://open.spotify.com/artist/5cE4zmLUDdmvlYp8TP1YRn) | [風街ろまん](https://open.spotify.com/album/3N3NdhXkyIKauv6xkoUpwE) | 4:06 |
 | 32 | [暗闇坂むささび変化](https://open.spotify.com/track/60JZapt4cncqQ0xG1iM6nM) | [はっぴいえんど](https://open.spotify.com/artist/5cE4zmLUDdmvlYp8TP1YRn) | [風街ろまん](https://open.spotify.com/album/3N3NdhXkyIKauv6xkoUpwE) | 1:58 |
 | 33 | [To Sleep](https://open.spotify.com/track/4yHw6toZyUBFXPnqcq3NpE) | [A.C\. Marias](https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU) | [One Of Our Girls \(Has Gone Missing\)](https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ) | 5:44 |
+| 34 | [風来坊](https://open.spotify.com/track/16TP4YtbpExH4PYTEJ2yaC) | [Shione Yukawa](https://open.spotify.com/artist/7IFf66bWoJsaAmMXRUR3vG) | [映画「リンダ リンダ リンダ」 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4mYQrJxldeKaHf8GDTmNYf) | 3:19 |
+| 35 | [This Morning You Take a Stroll out to the Pictish Stone](https://open.spotify.com/track/6xO1y57RRX1OM9BPYXcCJm) | [Aidan O'Rourke](https://open.spotify.com/artist/0PBTXsGBjdX8llmfBQyDOi), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [365 Complete Works 3](https://open.spotify.com/album/0ZH2CnksuVlh4NqToYDtUV) | 3:19 |
 
-Snapshot ID: `AAAOpEhqVEVV5kUbSbUib9B+htrBq5Bs`
+Snapshot ID: `AAAOpre8caZ/VPitzcqi/IYs7rygcpMw`

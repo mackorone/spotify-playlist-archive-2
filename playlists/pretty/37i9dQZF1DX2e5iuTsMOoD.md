@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2e5iuTsMOoD.md) - [plain]
 
 > Uma viagem no tempo através de grandes clássicos do Rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,304 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,296 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,582 likes - 150 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,612 likes - 150 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 137 | [Forever Yours](https://open.spotify.com/track/3A8ZJNLPBYKLt2r1pbRKeQ) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Retro Forward](https://open.spotify.com/album/6UHWGNhNxr24TCqUVUkUTh) | 4:09 |
 | 138 | [High Five](https://open.spotify.com/track/7ma00O08o0Lt5GZNwvJndk) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [\#1 Smooth Jazz Radio Hits!](https://open.spotify.com/album/6xHtFEfao5zXEbu1BJXFyY) | 4:57 |
 | 139 | [Charlemagne](https://open.spotify.com/track/7IoguPlcKyVkf9t0nUE5YV) | [Brian Tarquin](https://open.spotify.com/artist/2giMW0q2qh3k6ZIrFEsux2) | [Smooth Operators: Great Smooth Jazz Moments](https://open.spotify.com/album/0fRFvT84F2MtzqccEsplpv) | 3:48 |
-| 140 | [Encantadora \(feat\. Najee\)](https://open.spotify.com/track/5iFDAezQ6Tg4rmTlN8rntx) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Encantadora \(feat\. Najee\)](https://open.spotify.com/album/06Q5kbMS2XxLG03OAtYgGz) | 4:09 |
-| 141 | [Just Dance \(feat\. Dave Koz\)](https://open.spotify.com/track/5S6EHC45If9NSN5jIHVzP1) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Double Vision](https://open.spotify.com/album/6KmbBezsEykMwmMmxgqRuY) | 4:23 |
+| 140 | [Just Dance \(feat\. Dave Koz\)](https://open.spotify.com/track/5S6EHC45If9NSN5jIHVzP1) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Double Vision](https://open.spotify.com/album/6KmbBezsEykMwmMmxgqRuY) | 4:23 |
+| 141 | [Encantadora \(feat\. Najee\)](https://open.spotify.com/track/5iFDAezQ6Tg4rmTlN8rntx) | [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [Encantadora \(feat\. Najee\)](https://open.spotify.com/album/06Q5kbMS2XxLG03OAtYgGz) | 4:09 |
 | 142 | [Workin'](https://open.spotify.com/track/73PMlacQVhln12IqZi16ep) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np) | 4:06 |
 | 143 | [What The Wind Knows](https://open.spotify.com/track/0PrN59cfD9Dkvtnsmje9WE) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Unified](https://open.spotify.com/album/5CHXhccisUukWWv9yGxq5f) | 3:34 |
 | 144 | [Feels Like Friday Night](https://open.spotify.com/track/28sKYtJT2YHLyhevt94R1m) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Shakedown](https://open.spotify.com/album/6ft9InAWvNoaKFlYn7WOlq) | 4:19 |

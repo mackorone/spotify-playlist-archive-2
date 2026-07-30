@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Pirlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,959 likes - 61 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,975 likes - 61 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 26 | [Nitiwey](https://open.spotify.com/track/6nz9wJiuRIIydZYLCbfs7h) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Nitiwey](https://open.spotify.com/album/7IrMfVF2uh7Uesibaa52kl) | 3:09 |
 | 27 | [Malo H \- Remix](https://open.spotify.com/track/4tAxviSnEboFWHkvIyRo88) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Leandro Santos](https://open.spotify.com/artist/72taM7sOzAaGZ301OJahR4) | [Malo H \(Remix\)](https://open.spotify.com/album/5Z7a7ImvcLHz61suUaIQkJ) | 3:18 |
 | 28 | [TBT](https://open.spotify.com/track/4Pg6wwrHnrM9WqRgcpEBIV) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [LA M RECORDS](https://open.spotify.com/artist/2TsUM63Y94F6lFK0kDbM9X), [LA X27](https://open.spotify.com/artist/0xdUgji7b1jMGaCCZWJ8KK), [Slick La Mina](https://open.spotify.com/artist/6skLfn2ojiEKJN89maIR8n), [Blackinny](https://open.spotify.com/artist/2T0HIl9gOfBS7Z2GgNu7c3) | [TBT](https://open.spotify.com/album/5DT754rqI4CDH9PFEZWbVP) | 5:34 |
-| 29 | [Parche Tranqui](https://open.spotify.com/track/2ROj8GoI45RQouYomaLDTm) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [Parche Tranqui](https://open.spotify.com/album/62pPVP5bcY133KxtFPw8zx) | 3:41 |
+| 29 | [Parche Tranqui](https://open.spotify.com/track/2ROj8GoI45RQouYomaLDTm) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Flame 火炎](https://open.spotify.com/artist/31eYHfjltzC2VyNsoVHHR9) | [Parche Tranqui](https://open.spotify.com/album/62pPVP5bcY133KxtFPw8zx) | 3:41 |
 | 30 | [369](https://open.spotify.com/track/66Y8VogvBzn2AAZkk5qHFJ) | [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg), [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [369](https://open.spotify.com/album/0b0ke1kcFlyDu9xTsDOCxe) | 3:02 |
 | 31 | [LA MAYBACH](https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA MAYBACH](https://open.spotify.com/album/1jz29Rm1NMO3xpeMotUgff) | 4:00 |
 | 32 | [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 |

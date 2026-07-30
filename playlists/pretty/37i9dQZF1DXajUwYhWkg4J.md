@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 
 > Top Sufi tracks of Coke Studio Pakistan\. Cover: Naseebo Lal
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,835 likes - 46 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,853 likes - 46 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 | 14 | [Dastaan\-e\-Moomal Rano](https://open.spotify.com/track/253ISN2sxDJwIfSl1aQIQz) | [The Sketches](https://open.spotify.com/artist/0OIVrDfMAAvg2ZrKI9zSHh), [Fakir Zulfiqar](https://open.spotify.com/artist/1X0TQ9wrY9jNgeHAiY3Zod), [Bhagat Bhooro Laal](https://open.spotify.com/artist/6PqziJkldGFdq9RMbllR7h) | [Coke Studio Season 11](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 10:11 |
 | 15 | [Balaghal Ula Be Kamalihi](https://open.spotify.com/track/3bMpN3xG4bcPm94FYq7vLG) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Coke Studio Season 11](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 8:48 |
 | 16 | [Allahu Akbar](https://open.spotify.com/track/0oulvgKe81qlq8UvIW3uha) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm), [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 8:39 |
-| 17 | [Laal Meri Pat](https://open.spotify.com/track/29UhqX83vWJ1jTRCmV3Ozy) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Akbar Ali](https://open.spotify.com/artist/7oI0MZCqPpPF8z4ThsDwHl), [Arieb Azhar](https://open.spotify.com/artist/1KjLKN1BFLWDWx6r8fWqdy) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 8:20 |
+| 17 | [Laal Meri Pat](https://open.spotify.com/track/29UhqX83vWJ1jTRCmV3Ozy) | [Quratulain Balouch](https://open.spotify.com/artist/5qLPwJWMkvZeosL6sOyFhO), [Akbar Ali](https://open.spotify.com/artist/6fhdGlarVEHgy5YPqyJSNC), [Arieb Azhar](https://open.spotify.com/artist/5Hpns8dEsjoJ2qqQ2IlAVj) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 8:20 |
 | 18 | [Dam Mast Qalandar](https://open.spotify.com/track/4U586Ia3RscaHJGkPSVNId) | [Jabbar Abbas](https://open.spotify.com/artist/2cthHttWnQCNDd3O3GQKKm), [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u) | [Coke Studio Season 10: Epsiode 6](https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY) | 6:30 |
 | 19 | [Maula Tera Noor](https://open.spotify.com/track/43MM7jOLwi9QQRbGXcz6Tx) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Coke Studio Season 10: Episode 7](https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3) | 8:28 |
 | 20 | [Aaqa](https://open.spotify.com/track/57NE6qOSPxGVRy5B4ZL6SK) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 8:27 |

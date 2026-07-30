@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Andr \(Taiwan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,794 likes - 98 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,814 likes - 98 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -852,7 +852,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 232833,
       "name": "After Red 40",
       "url": "https://open.spotify.com/track/2xiCC6Dy8FeWWz7Z98lxSO"
@@ -4553,6 +4553,24 @@
     },
     {
       "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/0mh4dzmIPnIBwbfLoihwf0"
+      },
+      "artists": [
+        {
+          "name": "vern matz",
+          "url": "https://open.spotify.com/artist/3ueZVX55ehCZVl46S1YTcj"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170099,
+      "name": "Bombs Away",
+      "url": "https://open.spotify.com/track/3MAaZKo0cUzoIfruSltt9l"
+    },
+    {
+      "album": {
         "name": "Bone",
         "url": "https://open.spotify.com/album/2gVPQYKwnLBN0aaXeMT8b1"
       },
@@ -6951,6 +6969,24 @@
     },
     {
       "album": {
+        "name": "Raging Storms Turned to Beach Weather",
+        "url": "https://open.spotify.com/album/5BZbnRd4Xc4bPAowC39ur1"
+      },
+      "artists": [
+        {
+          "name": "Lorana",
+          "url": "https://open.spotify.com/artist/5f0UvwT0IueZUyTblRVwKA"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173375,
+      "name": "Coming up for Air",
+      "url": "https://open.spotify.com/track/3xjtL3xd3VYg7qSLSGlH0A"
+    },
+    {
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/1LPDFRZJQ3f3jmhSZF5bKB"
       },
@@ -7986,7 +8022,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 211059,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1pcdYtroFnCW20yfUJxffT"
@@ -8714,7 +8750,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 248148,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/3NkeZlXfEYXhvzVVrT6GrZ"
@@ -12926,7 +12962,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 336000,
       "name": "Friendship Is The Truth",
       "url": "https://open.spotify.com/track/1cS1w3qvaehzsKCnLatbW4"
@@ -13402,7 +13438,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 176436,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/7hSmujtJglQ0cXd0aDnLlU"
@@ -13582,7 +13618,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 121053,
       "name": "Gladly Lost in Love",
       "url": "https://open.spotify.com/track/29UT6heUG7vUeeMTsL6mgb"
@@ -20992,7 +21028,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-30",
       "duration_ms": 197754,
       "name": "Little Bird In A Big Sky",
       "url": "https://open.spotify.com/track/0A0AX5cmshKvQuQwJnSn5X"
@@ -21900,6 +21936,28 @@
       "duration_ms": 255499,
       "name": "Lunch",
       "url": "https://open.spotify.com/track/5ZIenhLODzGK8d5wwPPjOz"
+    },
+    {
+      "album": {
+        "name": "Luvbomb",
+        "url": "https://open.spotify.com/album/7sCote39aunhZIWNJIinGy"
+      },
+      "artists": [
+        {
+          "name": "Daisi",
+          "url": "https://open.spotify.com/artist/611KLmpU1yaxamd1JC2PdN"
+        },
+        {
+          "name": "Hrubesky",
+          "url": "https://open.spotify.com/artist/0qNa1kxSdmgBGsfPE88j36"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126771,
+      "name": "Luvbomb",
+      "url": "https://open.spotify.com/track/5A0rbbC8fosaRl9hGBPDXb"
     },
     {
       "album": {
@@ -25340,6 +25398,24 @@
       "duration_ms": 223625,
       "name": "ocean",
       "url": "https://open.spotify.com/track/0438JvChCToYHZer7mdAZ9"
+    },
+    {
+      "album": {
+        "name": "Ocean Mother",
+        "url": "https://open.spotify.com/album/2qO9msXl2nKihLE9s7oZqo"
+      },
+      "artists": [
+        {
+          "name": "Luca Wilding",
+          "url": "https://open.spotify.com/artist/3IMal2orfDZIifVZjFOLLL"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263577,
+      "name": "Ocean Mother",
+      "url": "https://open.spotify.com/track/6qwOdEszCVGF0sGNXXUfYw"
     },
     {
       "album": {
@@ -29817,6 +29893,24 @@
     },
     {
       "album": {
+        "name": "Shelley",
+        "url": "https://open.spotify.com/album/4aGDiz9howHfZpKJ2qsSEe"
+      },
+      "artists": [
+        {
+          "name": "Flora Hibberd",
+          "url": "https://open.spotify.com/artist/5EFG7rqfVfdyaXiRZbRkpS"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Shelley",
+      "url": "https://open.spotify.com/track/29ZNtU2ywgOYrUR6VFDzhs"
+    },
+    {
+      "album": {
         "name": "Hunting Season",
         "url": "https://open.spotify.com/album/6p4ZnK7kF9sfdwMoO0qyfD"
       },
@@ -33583,6 +33677,24 @@
     },
     {
       "album": {
+        "name": "The Dog",
+        "url": "https://open.spotify.com/album/2DJ8bsKENysB7M5hfzHDDQ"
+      },
+      "artists": [
+        {
+          "name": "Alaina May",
+          "url": "https://open.spotify.com/artist/2ajMOVSXSjHyFhSnzBKBTb"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213526,
+      "name": "The Dog",
+      "url": "https://open.spotify.com/track/5WPw1FoA2S5ivwlNJ5rDo6"
+    },
+    {
+      "album": {
         "name": "The Door",
         "url": "https://open.spotify.com/album/1Z1JVA6UNNKRpp00E5HRvE"
       },
@@ -36794,6 +36906,24 @@
       "duration_ms": 235374,
       "name": "Walk The Streets On Sunrise",
       "url": "https://open.spotify.com/track/4ntU4sdYYE3j0I8qLeEHAx"
+    },
+    {
+      "album": {
+        "name": "Wandering Arrow",
+        "url": "https://open.spotify.com/album/6uTEoaDoCkx0x8XB1AAnGv"
+      },
+      "artists": [
+        {
+          "name": "Curiosity Shop",
+          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201890,
+      "name": "Wandering Arrow",
+      "url": "https://open.spotify.com/track/6pM2fT3fBVDA8MLW2wfXic"
     },
     {
       "album": {

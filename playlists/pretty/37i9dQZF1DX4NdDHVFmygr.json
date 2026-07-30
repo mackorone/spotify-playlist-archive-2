@@ -1,12 +1,12 @@
 {
   "description": "Les hits marocains du moment. Cover: Manal, Stormy",
-  "num_followers": 141827,
+  "num_followers": 142025,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM19TuoMkXDwZy2wS/kM4qx6aeg+",
+  "snapshot_id": "AAAAAC5y5O6VRpiCp4+s4ZLTdplbT2QA",
   "tracks": [
     {
       "added_at": "2026-06-25 23:00:26",
@@ -67,22 +67,6 @@
     {
       "added_at": "2026-06-25 23:00:26",
       "album": {
-        "name": "AGOGO",
-        "url": "https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        }
-      ],
-      "duration_ms": 187969,
-      "name": "AGOGO",
-      "url": "https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q"
-    },
-    {
-      "added_at": "2026-06-25 23:00:26",
-      "album": {
         "name": "Chlahbiya",
         "url": "https://open.spotify.com/album/0YXWg7nVytp6QE9yjKJU4S"
       },
@@ -95,6 +79,54 @@
       "duration_ms": 194366,
       "name": "Chlahbiya",
       "url": "https://open.spotify.com/track/30U031LnjvezZQZu9eSexR"
+    },
+    {
+      "added_at": "2026-06-25 23:00:26",
+      "album": {
+        "name": "GENDARMIA",
+        "url": "https://open.spotify.com/album/1DNqeO3UCKB4ly2mtvQHtR"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        },
+        {
+          "name": "Benny Adam",
+          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
+        },
+        {
+          "name": "Maestro",
+          "url": "https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF"
+        },
+        {
+          "name": "Ayoub Anbaoui",
+          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
+        },
+        {
+          "name": "Sofia Marikh",
+          "url": "https://open.spotify.com/artist/0WxY1I56V69ZoSGFNmn77d"
+        }
+      ],
+      "duration_ms": 263363,
+      "name": "GENDARMIA",
+      "url": "https://open.spotify.com/track/0Ue7OnQYG5r3S8Q3o0HF2L"
+    },
+    {
+      "added_at": "2026-06-25 23:00:26",
+      "album": {
+        "name": "AGOGO",
+        "url": "https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl"
+      },
+      "artists": [
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+        }
+      ],
+      "duration_ms": 187969,
+      "name": "AGOGO",
+      "url": "https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q"
     },
     {
       "added_at": "2026-06-25 23:00:26",
@@ -211,38 +243,6 @@
       "duration_ms": 191326,
       "name": "LALLAMOULATI",
       "url": "https://open.spotify.com/track/4POLmYRdKueIekaWLPZsEu"
-    },
-    {
-      "added_at": "2026-06-25 23:00:26",
-      "album": {
-        "name": "GENDARMIA",
-        "url": "https://open.spotify.com/album/1DNqeO3UCKB4ly2mtvQHtR"
-      },
-      "artists": [
-        {
-          "name": "Lartiste",
-          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
-        },
-        {
-          "name": "Benny Adam",
-          "url": "https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA"
-        },
-        {
-          "name": "Maestro",
-          "url": "https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF"
-        },
-        {
-          "name": "Ayoub Anbaoui",
-          "url": "https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ"
-        },
-        {
-          "name": "Sofia Marikh",
-          "url": "https://open.spotify.com/artist/0WxY1I56V69ZoSGFNmn77d"
-        }
-      ],
-      "duration_ms": 263363,
-      "name": "GENDARMIA",
-      "url": "https://open.spotify.com/track/0Ue7OnQYG5r3S8Q3o0HF2L"
     },
     {
       "added_at": "2026-06-25 23:00:26",

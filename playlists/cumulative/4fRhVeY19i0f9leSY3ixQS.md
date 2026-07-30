@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,993 songs - 4 day 15 hr 29 min
+1,994 songs - 4 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1297,6 +1297,7 @@
 | [Porcelain Rock](https://open.spotify.com/track/37gUrRnnPipQMrKiqjdCIP) | [Levan](https://open.spotify.com/artist/3aDk0vlXAOCaoCTT5EBJFP) | [Porcelain Rock](https://open.spotify.com/album/51meOUvESe8AKupbEvrfO5) | 3:29 | 2026-01-08 | 2026-01-29 |
 | [Porco Fascista](https://open.spotify.com/track/6quVcdbKaPDcpNxL9JuE3K) | [Manual de Intervenção](https://open.spotify.com/artist/5Xo3DSAWvjrjC77Zn4GziD) | [DEMO](https://open.spotify.com/album/220T4LF6xWOgVR4Y1s1tzp) | 1:58 | 2026-03-02 | 2026-03-21 |
 | [Porcos](https://open.spotify.com/track/7aXNmspHUa0aF9KvjSqLin) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Little Angel In An Empty Room](https://open.spotify.com/album/3Jwcyqo1TRK9BtqTPeYhlf) | 2:16 | 2025-12-15 | 2026-01-06 |
+| [Power](https://open.spotify.com/track/3tfHumqKKjYOGC0DlfjM49) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Power](https://open.spotify.com/album/7IkJYzGSBxOuoidbs9a4vw) | 2:04 | 2026-07-29 |  |
 | [Power In My Hands](https://open.spotify.com/track/5vJci1ULiqg8OJ6XS0YcW1) | [IRON RISE](https://open.spotify.com/artist/2Tk4OOFuulub3NLId48c9M) | [Power In My Hands](https://open.spotify.com/album/1on84a4A1Q4nLWm8zYEIz5) | 2:01 | 2026-03-07 | 2026-03-31 |
 | [Powerlines](https://open.spotify.com/track/4qA1i9mx49Z7njF2aBhZuf) | [Five Minutes Out](https://open.spotify.com/artist/6u3mmXqaE9iB3SqUp784og) | [Fashionably Late](https://open.spotify.com/album/1VDOOXL2V7Dvs1VAXkSTa4) | 3:36 | 2026-04-20 | 2026-05-30 |
 | [Prairie \- Bonus Track](https://open.spotify.com/track/5GrwAUOxAfE0LwclSnNXx6) | [Fire in the Radio](https://open.spotify.com/artist/0LLmOIYowHeia7zEKdm6dc) | [Red Static Action](https://open.spotify.com/album/7djaugSiwxAMqBMXD93A6P) | 2:41 | 2026-01-20 | 2026-02-21 |

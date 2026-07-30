@@ -4,7 +4,7 @@
 
 > Turn this playlist all the way up! Featuring T.I., Fenix Flexin, Shaboozey &amp; more.
 
-242 songs - 10 hr 49 min
+243 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-09-23 |  |
 | [Wavy Crete](https://open.spotify.com/track/5bOSYjwa25Oko5ZJPNhnu9) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Wavy Crete](https://open.spotify.com/album/3DVkH8mqscQXvXizos3RcW) | 2:34 | 2025-08-13 | 2026-06-09 |
 | [Way Bigga](https://open.spotify.com/track/5JAUQsLfN5WJ0qL8KJan8l) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer Den Ever](https://open.spotify.com/album/5XOuzRTrs00lsfbH1zXrIn) | 2:01 | 2023-11-03 | 2025-02-01 |
+| [Wein Abdul?](https://open.spotify.com/track/4OOUv5ZpeYkmf0Q9FzSu3T) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Wein Abdul?](https://open.spotify.com/album/6WGU3F6yC0OeZePEFT2CR9) | 2:49 | 2026-07-29 |  |
 | [West Coast Weekend](https://open.spotify.com/track/3qnznOzVFYuDWjidDAxEV4) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [West Coast Weekend](https://open.spotify.com/album/0JGkeI57qkg0jZbqPzzc25) | 3:19 | 2023-06-09 |  |
 | [White Trash](https://open.spotify.com/track/0cQtd2V9vn8shmJVx6svT0) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Break The Rules Or Stay Broke](https://open.spotify.com/album/43Ai5wtKATvq8hgEhUKP5a) | 2:41 | 2026-04-22 | 2026-06-09 |
 | [whoa \(mind in awe\) \- Remix](https://open.spotify.com/track/4lkpfY2wfmHj958Fr32kHS) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [whoa \(mind in awe\) \[Remix\]](https://open.spotify.com/album/55lzDv6LGUMY1CdxWGAtic) | 3:16 | 2025-05-30 |  |

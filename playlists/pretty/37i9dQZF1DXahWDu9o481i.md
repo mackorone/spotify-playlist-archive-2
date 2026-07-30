@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Rose Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,113 likes - 66 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,110 likes - 66 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 65 | [AN ELEPHANT NEVER FORGETS](https://open.spotify.com/track/5KiIH8xcGoBdpj7oUJHjDH) | [KatzPascale](https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H) | [ELEGY](https://open.spotify.com/album/3RSbclUQoSu7wVmSYa7Bd8) | 5:00 |
 | 66 | [Quick!](https://open.spotify.com/track/783ZfLVvxPRcSOzLmsxk7E) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Quick!](https://open.spotify.com/album/0UPXDCCxvncoCCmBxoakpK) | 5:18 |
 
-Snapshot ID: `AAAAACRJgc+Qlj/BA+ZN+BqcD7o3Hdp6`
+Snapshot ID: `AAAAAH9pFVmNIUKsLQWdq+Mg5u8y5K+r`

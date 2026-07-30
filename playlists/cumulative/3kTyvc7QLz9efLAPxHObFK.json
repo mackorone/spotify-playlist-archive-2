@@ -4841,6 +4841,24 @@
     },
     {
       "album": {
+        "name": "Bassline Dealer",
+        "url": "https://open.spotify.com/album/1xt1KHxIKMycgKIdhGC9Ut"
+      },
+      "artists": [
+        {
+          "name": "Mosmoz",
+          "url": "https://open.spotify.com/artist/4MyHcRaJ3tAi4DKvNGWXtx"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Bassline Dealer",
+      "url": "https://open.spotify.com/track/7uzqiQGmqhxRWpoADhNjGU"
+    },
+    {
+      "album": {
         "name": "BASSLINE KILLAH",
         "url": "https://open.spotify.com/album/3GuU21S3h1Lx6NQAGPlVfE"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,578 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,597 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 78 | [Johnny B\. Goode](https://open.spotify.com/track/2dEAao1ozL1u3uFKtqS6Hq) | [Seth Mulder & Midnight Run](https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp) | [Johnny B\. Goode](https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv) | 3:17 |
 | 79 | [In Tall Buildings](https://open.spotify.com/track/56Rzb0EaeMfwhIU2VLygtf) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [In Tall Buildings](https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D) | 3:28 |
 | 80 | [Graceland \(Live Session\)](https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4) | [Ramsey Thornton](https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL) | [Graceland \(Live Session\)](https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A) | 3:06 |
-| 81 | [Wildflowers](https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Maggie O'Connor](https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH) | [Wildflowers](https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ) | 4:23 |
-| 82 | [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q) | 2:47 |
+| 81 | [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Norwegian Wood \(This Bird Has Flown\)](https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q) | 2:47 |
+| 82 | [Wildflowers](https://open.spotify.com/track/1B2qeZynbSvMxTzGjorlrs) | [Mark O'Connor](https://open.spotify.com/artist/5zfaMrd5q4szVTxVYWuoDV), [Maggie O'Connor](https://open.spotify.com/artist/4Q8UgP0qdFTSIKJLfwmqCH) | [Wildflowers](https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ) | 4:23 |
 | 83 | [Both Sides Now](https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT), [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Those Were the Days](https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1) | 3:34 |
 | 84 | [Can't Let Go](https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Can't Let Go](https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr) | 3:05 |
 | 85 | [Elderly Woman Behind the Counter in a Small Town \- Radio Edit](https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli) | [Drunken Hearts](https://open.spotify.com/artist/65L4dreDHXasm3Qb6idKiH), [Andy Thorn](https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713), [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ), [Silas Herman](https://open.spotify.com/artist/5RQxNMfbRLcSBPUj2jkTzt) | [Elderly Woman Behind the Counter in a Small Town](https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg) | 3:41 |

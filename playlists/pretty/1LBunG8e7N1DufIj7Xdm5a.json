@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJaMyzJOlWIgJ+KxaOykQbzg2Zt6wr",
+  "snapshot_id": "AAAJaoboTbgUG8Rz4SzB3yVRVnD5CB6k",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -75579,6 +75579,54 @@
       "duration_ms": 173088,
       "name": "Kiss Me Instead",
       "url": "https://open.spotify.com/track/1b1zD9M9drnjWio0Am0MjS"
+    },
+    {
+      "added_at": "2026-07-29 08:47:52",
+      "album": {
+        "name": "Ravenheart",
+        "url": "https://open.spotify.com/album/2vT7tcmIOVRD3n51eWe4Sb"
+      },
+      "artists": [
+        {
+          "name": "MantuLa",
+          "url": "https://open.spotify.com/artist/2U9rKhwaHS2DVPMKTbR2iR"
+        }
+      ],
+      "duration_ms": 243694,
+      "name": "Ravenheart",
+      "url": "https://open.spotify.com/track/29qf1NdaKsmXDAe1WDiyCl"
+    },
+    {
+      "added_at": "2026-07-29 20:30:17",
+      "album": {
+        "name": "Minor",
+        "url": "https://open.spotify.com/album/4pVvmobCRUtv2W3oLtENZ7"
+      },
+      "artists": [
+        {
+          "name": "Halera",
+          "url": "https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ"
+        }
+      ],
+      "duration_ms": 289530,
+      "name": "Minor",
+      "url": "https://open.spotify.com/track/2hUFTMMDBg1aFcB4WTOyeH"
+    },
+    {
+      "added_at": "2026-07-29 20:30:17",
+      "album": {
+        "name": "Minor",
+        "url": "https://open.spotify.com/album/4pVvmobCRUtv2W3oLtENZ7"
+      },
+      "artists": [
+        {
+          "name": "Halera",
+          "url": "https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ"
+        }
+      ],
+      "duration_ms": 289530,
+      "name": "Minor - Instrumental",
+      "url": "https://open.spotify.com/track/4iueX3n23phxmUct2zEHgL"
     }
   ],
   "unique_name": "playlist spotify free",

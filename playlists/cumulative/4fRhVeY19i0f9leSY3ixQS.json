@@ -23591,6 +23591,28 @@
     },
     {
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/7IkJYzGSBxOuoidbs9a4vw"
+      },
+      "artists": [
+        {
+          "name": "Emily Wolfe",
+          "url": "https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/3tfHumqKKjYOGC0DlfjM49"
+    },
+    {
+      "album": {
         "name": "Power In My Hands",
         "url": "https://open.spotify.com/album/1on84a4A1Q4nLWm8zYEIz5"
       },

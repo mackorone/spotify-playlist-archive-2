@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,005 likes - 200 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,011 likes - 200 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,10 +176,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 166 | [Witchhunter](https://open.spotify.com/track/3TwPSVjOCFJaYKAjY433NX) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Witchhunter](https://open.spotify.com/album/3q5rsWlCgNVijvttFxyVS2) | 3:13 |
 | 167 | [The Ending](https://open.spotify.com/track/5wg8llj8KWPje67TGtXYK2) | [Cerberus](https://open.spotify.com/artist/2X801wW31GQU9xgVESz7hY) | [The Ending](https://open.spotify.com/album/1hBimLkEmBtVyn1s4xQZgu) | 3:33 |
 | 168 | [Phantom Force](https://open.spotify.com/track/1KeXxoAqApT6LiH9GQw0tR) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Phantom Force](https://open.spotify.com/album/2CqYBNqVw8stCxhxRaohUH) | 2:59 |
-| 169 | [Pyhä Vitutus](https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Pyhä Vitutus](https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT) | 3:21 |
-| 170 | [Dear Diary](https://open.spotify.com/track/21zfxfNLaNqQuGX0MSwvh7) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO) | [Dear Diary](https://open.spotify.com/album/1TyE20y8uKLbd6cPPjaeZj) | 2:36 |
-| 171 | [The Affair of the Poisons](https://open.spotify.com/track/2az8J0QlRLJXCTrXedgsCi) | [Hellripper](https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R) | [The Affair of the Poisons](https://open.spotify.com/album/72u2NjAYxQZMP9Infns04n) | 4:55 |
-| 172 | [Sodom & Gomorrah](https://open.spotify.com/track/3uPYITcnVb9RZ7d8aKMV3r) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Sodom & Gomorrah](https://open.spotify.com/album/4C1zs0n33qMNPMiXN8Fy70) | 4:06 |
+| 169 | [Dear Diary](https://open.spotify.com/track/21zfxfNLaNqQuGX0MSwvh7) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO) | [Dear Diary](https://open.spotify.com/album/1TyE20y8uKLbd6cPPjaeZj) | 2:36 |
+| 170 | [Pyhä Vitutus](https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk) | [Mokoma](https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB) | [Pyhä Vitutus](https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT) | 3:21 |
+| 171 | [Sodom & Gomorrah](https://open.spotify.com/track/3uPYITcnVb9RZ7d8aKMV3r) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Sodom & Gomorrah](https://open.spotify.com/album/4C1zs0n33qMNPMiXN8Fy70) | 4:06 |
+| 172 | [The Affair of the Poisons](https://open.spotify.com/track/2az8J0QlRLJXCTrXedgsCi) | [Hellripper](https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R) | [The Affair of the Poisons](https://open.spotify.com/album/72u2NjAYxQZMP9Infns04n) | 4:55 |
 | 173 | [Freedom](https://open.spotify.com/track/76GuF96xWQSP1sCalY3tJ6) | [Rage](https://open.spotify.com/artist/5TJVsWPUaJxBxWfVZQEt2x) | [Freedom](https://open.spotify.com/album/5A1PP7qT0HqxEFAl97mrEM) | 3:10 |
 | 174 | [Shoot for the Sun](https://open.spotify.com/track/03gS9ZSLBYSsMS9Z9b1uU4) | [Paladin](https://open.spotify.com/artist/3qQtwCBsbL4gkvUfaI4KyQ) | [Shoot for the Sun](https://open.spotify.com/album/5pkqghvbwhbLvDS8jn94Uq) | 4:01 |
 | 175 | [Bow Down To the Clowns](https://open.spotify.com/track/5kpeEEIRD13CzU8ZSTdJPy) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Bow Down To the Clowns](https://open.spotify.com/album/3CeajsMj209XmQSWgdzPJ1) | 4:50 |
@@ -193,9 +193,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 183 | [Brace for Impact](https://open.spotify.com/track/6nqhwI9sRHsGAtMYUkGo0j) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Brace for Impact](https://open.spotify.com/album/60F8SQR15qRIpJV24q0gX1) | 4:33 |
 | 184 | [Metal Forces \- Remastered 2011](https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [The Force \(Remastered 2011\)](https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ) | 6:36 |
 | 185 | [Killer Of Killers](https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v) | [Zig Zags](https://open.spotify.com/artist/5Na7fSSXoKezg6Q1ebPqs3) | [Killer Of Killers](https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk) | 3:48 |
-| 186 | [Casket](https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Casket](https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS) | 1:53 |
-| 187 | [Leave Nothing Behind](https://open.spotify.com/track/26iWpcFzOyxgQWqlozKdsa) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Leave Nothing Behind](https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl) | 4:11 |
-| 188 | [Prove Them Wrong](https://open.spotify.com/track/3W557pYlVALCtGHlCJEgIa) | [Jenner](https://open.spotify.com/artist/1kWUEqAWJpVOFU654bkxzU) | [Prove Them Wrong](https://open.spotify.com/album/7rqwoZ4g2cBEAnAyEYUbE7) | 4:57 |
+| 186 | [Leave Nothing Behind](https://open.spotify.com/track/26iWpcFzOyxgQWqlozKdsa) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Leave Nothing Behind](https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl) | 4:11 |
+| 187 | [Prove Them Wrong](https://open.spotify.com/track/3W557pYlVALCtGHlCJEgIa) | [Jenner](https://open.spotify.com/artist/1kWUEqAWJpVOFU654bkxzU) | [Prove Them Wrong](https://open.spotify.com/album/7rqwoZ4g2cBEAnAyEYUbE7) | 4:57 |
+| 188 | [Casket](https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Casket](https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS) | 1:53 |
 | 189 | [Egyptron](https://open.spotify.com/track/46pYNjo4mtvlVg9E8WMZTj) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN), [The Egyptian Lover](https://open.spotify.com/artist/4iiBwQutE2Bh3bJ5N7jXnP) | [BATS](https://open.spotify.com/album/2AChbUajQYVEq5lntoghx3) | 5:00 |
 | 190 | [A Bitter Pill](https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb) | [Razor](https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B) | [A Bitter Pill](https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr) | 2:47 |
 | 191 | [Reap What You Sow](https://open.spotify.com/track/0PbOpIcpyKYKfL3Iuz4g9S) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Reap What You Sow](https://open.spotify.com/album/1PuGGc7XpxBaAlizciA24e) | 3:58 |

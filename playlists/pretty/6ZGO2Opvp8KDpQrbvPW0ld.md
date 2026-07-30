@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 73,489 likes - 350 songs - 12 hr 11 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 73,487 likes - 350 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 90 | [Beijo Do Sol](https://open.spotify.com/track/5v094QyfxtjYZJ2iIs68KI) | [Acco](https://open.spotify.com/artist/3Zro0pGcmNIHBkm2pY0DW4), [The Fox](https://open.spotify.com/artist/6T8X5Dh4G7RaLINqzqlkV3) | [Beijo Do Sol](https://open.spotify.com/album/2H4WyrDN0m6rfMLsmRbVdU) | 2:32 |
 | 91 | [Simple Things](https://open.spotify.com/track/0jiHFSq49GpQ9BPhFeAuS4) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Simple Things](https://open.spotify.com/album/74aTs51SbBqXaA1yEwBs8q) | 2:09 |
 | 92 | [Summertime](https://open.spotify.com/track/1pEQLB56ANRVEbFEa9t1gL) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Summertime](https://open.spotify.com/album/2dEkBUS3oaE5LG6iZdT4wG) | 2:04 |
-| 93 | [Outset Island \(lofi\)](https://open.spotify.com/track/4ZpQ9Pzl1NqyhlchSfa2Hg) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [The Deku Trio](https://open.spotify.com/artist/5et56haDj7EgBmGrXG8uex) | [Outset Island \(lofi\)](https://open.spotify.com/album/6mcXb26KVJJ3UNdzsCde3S) | 2:14 |
+| 93 | [Outset Island](https://open.spotify.com/track/4ZpQ9Pzl1NqyhlchSfa2Hg) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [The Deku Trio](https://open.spotify.com/artist/5et56haDj7EgBmGrXG8uex) | [Outset Island](https://open.spotify.com/album/6mcXb26KVJJ3UNdzsCde3S) | 2:14 |
 | 94 | [Another One](https://open.spotify.com/track/3MCroFCVgWlZcH8rPSiecz) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8) | [Another One](https://open.spotify.com/album/4MSsiCaHWQL9tdwLszScGA) | 2:26 |
 | 95 | [Kater](https://open.spotify.com/track/2ouSd5eDDawCVxFHXEPGUd) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Kater](https://open.spotify.com/album/1cIUKP7opzS2s3Q0uk0Oco) | 1:44 |
 | 96 | [hummingbird](https://open.spotify.com/track/7cRHttCOKV8JZPnA0PE2kd) | [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [hummingbird](https://open.spotify.com/album/5qCFUlftlTBolI68wUjkgT) | 1:54 |

@@ -2,7 +2,7 @@
 
 ### [Renee Cassar Radio](https://open.spotify.com/playlist/37i9dQZF1E4BblKgmiu0DK)
 
-> With Die Mannequin, Gin Wigmore, Mia Morris and more
+> With Die Mannequin, Jinx & The Royals, Rebel Rebel Barbie and more
 
 621 songs - 1 day 9 hr 9 min
 

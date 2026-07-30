@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: WILYWNKA \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,763 songs - 5 day 18 hr 25 min
+2,765 songs - 5 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,6 +637,7 @@
 | [Drugs](https://open.spotify.com/track/01g974Te4DzVGimxFmv0B0) | [RY0N4](https://open.spotify.com/artist/3krxQ7NwEXM0Ba8Dzsln2g) | [Drugs](https://open.spotify.com/album/2jGY1bc5vXDXgzICPue6KT) | 2:13 | 2023-12-20 | 2024-01-05 |
 | [Drunk \(feat\. Hideyohi & MIYACHI\) \- Remix](https://open.spotify.com/track/4xc5tBYbcVpHh4znmOp3oP) | [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q), [Hideyohi](https://open.spotify.com/artist/0qyGLQXWA9dbDWIMZshasE), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P), [J\-ViewCycle](https://open.spotify.com/artist/5irPYZpelg85M1aYH8beGp), [THESIXDAYTONA](https://open.spotify.com/artist/2oSMdfBBGHPIhLYGLRW08m) | [Drunk \(feat\. Hideyohi & MIYACHI\) \[Remix\]](https://open.spotify.com/album/5JKNzWcduB7mUwgVaqz0H2) | 2:45 | 2025-12-11 | 2026-01-28 |
 | [DTK](https://open.spotify.com/track/1gDfenC2OcQvbEDygK4CTK) | [Kenayeboi](https://open.spotify.com/artist/2cdhPAmzK6fgdQwUAoAEgi), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [DTK](https://open.spotify.com/album/2fLLUWN8A5ZTDMIomhk2jN) | 2:37 | 2024-01-09 | 2024-02-21 |
+| [Duality](https://open.spotify.com/track/3gACYiMnZx4WD8rG5OhyZd) | [Kzyboost](https://open.spotify.com/artist/4zJ19jYGUpEGwnTVEYDPil) | [Duality](https://open.spotify.com/album/7JO9TvfkfWLe6IfhbCk5oL) | 3:13 | 2026-07-29 |  |
 | [DUDE](https://open.spotify.com/track/57UtHttemgNKZ2PIu0jEnN) | [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [Mi Yama](https://open.spotify.com/album/5UuC4NqmG8DgGAzceRq5Xa) | 2:49 | 2023-12-07 | 2024-02-14 |
 | [Dum Diggy Diggy Dumb](https://open.spotify.com/track/3YlrZRgo6luyFmCeWc3CWO) | [me2](https://open.spotify.com/artist/1bLpAMszAGByoGRRVdZsuh) | [Filtration \- EP](https://open.spotify.com/album/1gDxaVq7gsFSBM3ZuZCmpY) | 2:20 | 2024-10-09 | 2024-11-27 |
 | [DUMP!](https://open.spotify.com/track/6DmK3A22PshWUdGioiQvzs) | [Joe Cupertino](https://open.spotify.com/artist/7GPbYvtgh7IeS2vZMEz1Xe), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [DE:](https://open.spotify.com/album/7tou2D4mgvVzPYgfVwB1uh) | 3:08 | 2025-02-25 | 2025-04-23 |
@@ -861,6 +862,7 @@
 | [Good Love](https://open.spotify.com/track/2hv1w70K8VnUrU0VupfymA) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [YOUNG COCO](https://open.spotify.com/artist/6aYRuxYMfdbvk39bBuBIA7), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Blood & Bones \(BONES\)](https://open.spotify.com/album/3xWPqGNbvm3tieDXkhkNx8) | 3:13 | 2024-02-17 | 2024-05-29 |
 | [Good Love](https://open.spotify.com/track/4xi0VX5l2b0PorJuWtD9Th) | [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [YOUNG COCO](https://open.spotify.com/artist/6aYRuxYMfdbvk39bBuBIA7), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Blood & Bones \(BONES\)](https://open.spotify.com/album/71wSyAlJPLhRy8AIqhvNvi) | 3:13 | 2024-02-17 | 2024-04-19 |
 | [GOOD MORNING TOKYO \(feat\. $till.J.Cark & Roy's club\)](https://open.spotify.com/track/0DAWNCkvByZpqyI55POkmd) | [TIVE](https://open.spotify.com/artist/076ugb3nsE17KdWkyFjDJI), [$till.J.Cark](https://open.spotify.com/artist/7Ib2pqwSqhPdgsRV28N9gt), [Roy's club](https://open.spotify.com/artist/1qNlrCkP1VKzi2WN7GuJwk) | [GOOD MORNING TOKYO \(feat\. $till.J.Cark & Roy's club\)](https://open.spotify.com/album/0vVv6HWxxkjGOnKE8WTGEY) | 3:10 | 2026-05-26 | 2026-06-10 |
+| [goodgirl](https://open.spotify.com/track/7zds0CUFBChr2IT8L8bfVc) | [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [DADA](https://open.spotify.com/album/0d9pdRt03IxYgOjqvYQXME) | 3:07 | 2026-07-29 |  |
 | [Goofy](https://open.spotify.com/track/1oY5ZxYdICMef7DkjrXQPa) | [AI jacky](https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU) | [Goofy](https://open.spotify.com/album/2LUsxKAvjC4cZi1AuVi6li) | 1:48 | 2025-06-03 | 2025-06-20 |
 | [Gorgeous](https://open.spotify.com/track/6oOKVKK5LAjKRJ3p9TLouk) | [WILYWNKA](https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH), [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [90's Baby](https://open.spotify.com/album/7Eo9osHQV8E3lCp7e1yRYJ) | 2:24 | 2024-05-07 | 2024-07-31 |
 | [GORILLA](https://open.spotify.com/track/1mCOIZ9bgvXOC0PDsTzqE2) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [DONGURI ZOO](https://open.spotify.com/album/6oyRi1OJMpPhUtvNGd3zNL) | 2:19 | 2026-01-20 | 2026-02-18 |

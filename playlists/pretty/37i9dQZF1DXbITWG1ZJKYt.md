@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in Jazz history.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,994,700 likes - 250 songs - 21 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,995,389 likes - 250 songs - 21 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,7 +167,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 157 | [Comin' Home Baby](https://open.spotify.com/track/6OH7UCFY7SEJxxQkaYfAv8) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo) | [Atlantic Jazz: Soul](https://open.spotify.com/album/5Pi9gvFQLlXGdgI19hb6IR) | 8:39 |
 | 158 | [Goodbye, Old Girl](https://open.spotify.com/track/5eFFsShr8vchESCk8HGxvn) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 4:34 |
 | 159 | [Solitude](https://open.spotify.com/track/6W25U2EbDixQbLbqpjz0TT) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Way Out West \(OJC Remaster\)](https://open.spotify.com/album/6pWgCHxQp3DYbPKxduwvmC) | 7:51 |
-| 160 | [Blue Monk \- Rudy Van Gelder Remaster](https://open.spotify.com/track/2C3rh8eX5vltOmwrz9I78n) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Thelonious Monk](https://open.spotify.com/album/65gbGjDanfWMb20SCZziu8) | 7:36 |
+| 160 | [Blue Monk \- Rudy Van Gelder Remastered 2007](https://open.spotify.com/track/2C3rh8eX5vltOmwrz9I78n) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Thelonious Monk](https://open.spotify.com/album/65gbGjDanfWMb20SCZziu8) | 7:36 |
 | 161 | [How Long Has This Been Going On](https://open.spotify.com/track/10El9hxviSBm7pChWxG1ib) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Ben And "Sweets"](https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk) | 5:30 |
 | 162 | [Louise](https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h) | [Lionel Hampton](https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP), [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Hamp & Getz](https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o) | 6:47 |
 | 163 | [Night Dreamer \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/2HbpOucCYcPyVEBpjTiJK8) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:15 |

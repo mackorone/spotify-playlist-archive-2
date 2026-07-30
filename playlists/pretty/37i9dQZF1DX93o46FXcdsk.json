@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 51895,
+  "num_followers": 51911,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,18 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Blijf Bij Mij",
-        "url": "https://open.spotify.com/album/0Mkh5WW9ANje9bRegoK3B5"
+        "name": "Alle 40 Goed - Hollandse Hits",
+        "url": "https://open.spotify.com/album/5o5LwqlmNTP1XM5t6fEgub"
       },
       "artists": [
         {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        },
-        {
-          "name": "Gerard Joling",
-          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+          "name": "Veldhuis & Kemper",
+          "url": "https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U"
         }
       ],
-      "duration_ms": 241946,
-      "name": "Blijf Bij Mij",
-      "url": "https://open.spotify.com/track/0yIzbIUyiJnTkByb2ryhtv"
+      "duration_ms": 236493,
+      "name": "Ik Wou Dat Ik Jou Was",
+      "url": "https://open.spotify.com/track/6lthfwI9TuT2xWnWpv8JUF"
     },
     {
       "added_at": "2020-02-10 14:27:21",
@@ -695,6 +691,26 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Blijf Bij Mij",
+        "url": "https://open.spotify.com/album/0Mkh5WW9ANje9bRegoK3B5"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        },
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "duration_ms": 241946,
+      "name": "Blijf Bij Mij",
+      "url": "https://open.spotify.com/track/0yIzbIUyiJnTkByb2ryhtv"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "Het Land Van",
         "url": "https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 262728,
       "name": "Het Land Van - Live",
       "url": "https://open.spotify.com/track/2l8NsdEw2CS0vvd773OXLT"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Alle 40 Goed - Hollandse Hits",
-        "url": "https://open.spotify.com/album/5o5LwqlmNTP1XM5t6fEgub"
-      },
-      "artists": [
-        {
-          "name": "Veldhuis & Kemper",
-          "url": "https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "Ik Wou Dat Ik Jou Was",
-      "url": "https://open.spotify.com/track/6lthfwI9TuT2xWnWpv8JUF"
     },
     {
       "added_at": "2020-02-10 14:27:21",

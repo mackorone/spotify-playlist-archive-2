@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 ### [Back To School 2026: For Students of All Ages 🍎 ✏️📘](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Your back to school soundtrack is here: lots of fun, a little bit of sass, and a ton of heart to keep students motivated and power you through all the usage of brainpower \- and ALL the feelings \- to start the new year of learning ahead! For students of all ages: it's the 2026 Back To School playlist
+> Your back to school soundtrack is here: lots of fun, a little bit of sass, &amp; a ton of heart to keep students motivated and power you through all the usage of brainpower \- and ALL the feelings \- to start the new year of learning ahead! For students of all ages: it's the 2026 Back To School playlist!
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 110,534 likes - 92 songs - 5 hr 21 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 110,512 likes - 93 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,8 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 88 | [Kung Fu Fighting](https://open.spotify.com/track/7eGAQnxbIHHFtS1p9rmAZ0) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [Kung Fu Fighting](https://open.spotify.com/album/1e1TXaL2BLrWwtLD3vteNo) | 2:29 |
 | 89 | [Hello, Goodbye \- Remastered 2015](https://open.spotify.com/track/0hqjsgWRfMBf2s8xsvRq1M) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [1 \(Remastered\)](https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh) | 3:27 |
 | 90 | [Life Is A Highway](https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT) | 4:26 |
-| 91 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
-| 92 | [Fame](https://open.spotify.com/track/7yBl8YmvcgwwYlazJcvowE) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Fame: The Original Soundtrack from the Motion Picture](https://open.spotify.com/album/2nE5WmbSq3qbyDrOpSTlnq) | 5:16 |
+| 91 | [Not Afraid](https://open.spotify.com/track/2JXlRVBgLHqhfphmjXyVBZ) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/2bn6QpvG94QJkQTETzjTCs) | 4:08 |
+| 92 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
+| 93 | [Fame](https://open.spotify.com/track/7yBl8YmvcgwwYlazJcvowE) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [Fame: The Original Soundtrack from the Motion Picture](https://open.spotify.com/album/2nE5WmbSq3qbyDrOpSTlnq) | 5:16 |
 
-Snapshot ID: `AAAbU2kZeUAYDBzm6g/dD/QAp2m1VF4Q`
+Snapshot ID: `AAAbVj49g9S4+FmA6NDULm3/8Ez0c9wW`

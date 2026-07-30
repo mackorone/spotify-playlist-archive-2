@@ -1,13 +1,61 @@
 {
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: Happy Imaeda. Artwork: Joy Yamusangie.",
-  "num_followers": 243780,
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Ancient Infinity Orchestra. Artwork: Joy Yamusangie.",
+  "num_followers": 243794,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOUcdst+ez13snAGZXvRLo+SjRrA",
+  "snapshot_id": "AAAAABqsDAGA0gb3JT3Ia/eKxeBuMKZq",
   "tracks": [
+    {
+      "added_at": "2026-07-29 14:14:40",
+      "album": {
+        "name": "It's Always About Liberation",
+        "url": "https://open.spotify.com/album/5CoFVte50DP2dAMp5F18mV"
+      },
+      "artists": [
+        {
+          "name": "Ancient Infinity Orchestra",
+          "url": "https://open.spotify.com/artist/3dGPvXs2gnNuw2RkIQKPqR"
+        }
+      ],
+      "duration_ms": 429840,
+      "name": "Illuminations",
+      "url": "https://open.spotify.com/track/0ZuJUoiKtgolfQdfyZ4WBX"
+    },
+    {
+      "added_at": "2026-07-29 14:14:40",
+      "album": {
+        "name": "Needlerooser",
+        "url": "https://open.spotify.com/album/5V1Wiq5xFC1qR44GAzc24l"
+      },
+      "artists": [
+        {
+          "name": "Kelly Doyle",
+          "url": "https://open.spotify.com/artist/3pQnuyiTp6EaZWiTRmtkb6"
+        }
+      ],
+      "duration_ms": 221060,
+      "name": "Needlerooser",
+      "url": "https://open.spotify.com/track/3Jfw9eN1tH2mBEVOCzihV6"
+    },
+    {
+      "added_at": "2026-07-29 14:14:40",
+      "album": {
+        "name": "In Search Of Beauty",
+        "url": "https://open.spotify.com/album/5anLZBAhqEw1h9j0RRwJCL"
+      },
+      "artists": [
+        {
+          "name": "Leif Kaner-Lidstr\u00f6m",
+          "url": "https://open.spotify.com/artist/1zgrVzDDzgoBXdxRdd7TsC"
+        }
+      ],
+      "duration_ms": 153260,
+      "name": "Nine Lights",
+      "url": "https://open.spotify.com/track/3dgSxzyLOq3n55JLMaGpzb"
+    },
     {
       "added_at": "2026-07-22 19:14:00",
       "album": {
@@ -789,22 +837,6 @@
       "url": "https://open.spotify.com/track/4AtvX4PqTMt4JtCZqEbqK7"
     },
     {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "Beauty Doesn't Know What It Looks Like / We Won't Go Searching",
-        "url": "https://open.spotify.com/album/4aeK30hlYgkGq3cro2UR8x"
-      },
-      "artists": [
-        {
-          "name": "Sarathy Korwar",
-          "url": "https://open.spotify.com/artist/5GzH8EsRPqgNjNo3oBfRvk"
-        }
-      ],
-      "duration_ms": 176003,
-      "name": "Beauty Doesn't Know What It Looks Like",
-      "url": "https://open.spotify.com/track/6F5He29YI85e8MLXVca4JO"
-    },
-    {
       "added_at": "2026-03-04 14:28:02",
       "album": {
         "name": "I Grew Up",
@@ -835,50 +867,6 @@
       "duration_ms": 296928,
       "name": "Arrakis",
       "url": "https://open.spotify.com/track/1Jy7Z4rnkbkzminfmHQYz1"
-    },
-    {
-      "added_at": "2025-11-05 15:29:49",
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/6FV3tV80w4WF3MPTUhkGxd"
-      },
-      "artists": [
-        {
-          "name": "Azamiah",
-          "url": "https://open.spotify.com/artist/0q4P4opctE6mHRUnm9PHD8"
-        }
-      ],
-      "duration_ms": 407911,
-      "name": "New Moon",
-      "url": "https://open.spotify.com/track/1qRP7btviLVpl1fONIMvYt"
-    },
-    {
-      "added_at": "2025-09-17 04:00:03",
-      "album": {
-        "name": "PROTEUS",
-        "url": "https://open.spotify.com/album/0aQVlVk1bjpmZn2A2ILSro"
-      },
-      "artists": [
-        {
-          "name": "Andrii Pokaz",
-          "url": "https://open.spotify.com/artist/2fZ6SyGO76IltbDHjBMItC"
-        },
-        {
-          "name": "Oleksandr Poliakov",
-          "url": "https://open.spotify.com/artist/2fspYQRqRVD3JWbA39OScD"
-        },
-        {
-          "name": "Ruslan Semenov",
-          "url": "https://open.spotify.com/artist/4PAVdWhCzWPS7w435ydyMx"
-        },
-        {
-          "name": "Miroslav Pyatnikov",
-          "url": "https://open.spotify.com/artist/7g1nQRB53SYUSAF7J2Hxay"
-        }
-      ],
-      "duration_ms": 267313,
-      "name": "Eclosion",
-      "url": "https://open.spotify.com/track/5lS4tzwoU6e6hu83Rh2W3C"
     },
     {
       "added_at": "2026-01-14 05:00:01",

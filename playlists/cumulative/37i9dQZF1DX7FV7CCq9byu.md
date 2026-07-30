@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,866 songs - 3 day 23 hr 29 min
+1,867 songs - 3 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Armani](https://open.spotify.com/track/5avYou6QKMsC1nnbOkqqm9) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [YEMAYA](https://open.spotify.com/album/0fgZAQlnfw5ryaq9LAMGQx) | 3:02 | 2024-11-18 | 2025-01-24 |
 | [Arms](https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf) | [Arms](https://open.spotify.com/album/45RmBblWxH5E6WA2YcASZ5) | 4:39 | 2025-11-27 | 2026-02-06 |
 | [Asfalt & nikotin](https://open.spotify.com/track/4MNsh1rqaRAZUhNm6ATAbR) | [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Asfalt & nikotin](https://open.spotify.com/album/1vTvWoiNkKShlx4fZXo8BT) | 2:52 | 2025-05-01 | 2025-06-13 |
+| [Asleep Talking](https://open.spotify.com/track/7CY8b7fwDQfYvlRegNGITC) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Asleep Talking](https://open.spotify.com/album/5zj7gmiu7g1xDyHbs5yUX3) | 2:36 | 2026-07-29 |  |
 | [At Least It's Something](https://open.spotify.com/track/6uRVLWTAxNL9aa7tsqRniO) | [Coria](https://open.spotify.com/artist/4wdtB6s3W9H46b7ESavill) | [At Least It's Something](https://open.spotify.com/album/0jNQxCC5FAAmyyK7wbmyqm) | 2:32 | 2025-11-20 | 2026-02-06 |
 | [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [YEBO](https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7) | 2:42 | 2025-11-06 | 2026-01-30 |
 | [Atom](https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Atom](https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB) | 2:41 | 2026-05-28 |  |

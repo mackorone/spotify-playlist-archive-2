@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: King Gnu \*👉 <a href="https://spice.eplus.jp/articles/347889">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,953 likes - 94 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,963 likes - 94 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 61 | [百鬼夜行](https://open.spotify.com/track/6Wv6djactnaJ4zG48hBzG5) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [百鬼夜行](https://open.spotify.com/album/6sKvuQAoSaQHsqRmwqxO75) | 2:36 |
 | 62 | [CERAMIC SKIN](https://open.spotify.com/track/4Ik4DOn8tqyZVNpIgQMMbO) | [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [CERAMIC SKIN](https://open.spotify.com/album/16OOy72ylgpYApdICqIEPp) | 3:25 |
 | 63 | [someone in the flower](https://open.spotify.com/track/4fJrVB66T2KPbge9KQqT6D) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [someone in the flower](https://open.spotify.com/album/6LYZbTPO2UmpUtMHpV9S5b) | 4:51 |
-| 64 | [Track 1](https://open.spotify.com/track/7zL7va69I79IYwDGBpGls5) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [eff](https://open.spotify.com/album/3plqZDMNCoqLWkcaRiW94G) | 0:00 |
+| 64 | [八月](https://open.spotify.com/track/7zL7va69I79IYwDGBpGls5) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [eff](https://open.spotify.com/album/3plqZDMNCoqLWkcaRiW94G) | 3:30 |
 | 65 | [シーグラス \- DECADE EMO MIX](https://open.spotify.com/track/6vZuZ1UvwJSeLws6ezVo4n) | [Straightener](https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG) | [シーグラス \(DECADE EMO MIX\)](https://open.spotify.com/album/3gXQlYxoMOWe6uGPx5zpuD) | 3:32 |
 | 66 | [What’s waiting for us \- feat.XAI](https://open.spotify.com/track/1ahlKqvo5ca6qRD3FKVbRA) | [YOURNESS](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N) | [TWIN](https://open.spotify.com/album/2aUgLtsq49l2AkRtZ8Geob) | 4:00 |
 | 67 | [Non\-REM Love](https://open.spotify.com/track/6SNhnM7ufsuU396PEcoWj1) | [Slump Girl](https://open.spotify.com/artist/5qPgLl5YU4UkxzltaWmX15) | [Non\-REM Love](https://open.spotify.com/album/3h4lxAp2yCGwlxBYY8fjrD) | 3:25 |

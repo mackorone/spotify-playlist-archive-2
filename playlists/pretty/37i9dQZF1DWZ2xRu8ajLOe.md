@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2xRu8ajLOe.md) - [plain]
 
 > Your ultimate running soundtrack!
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,429 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,412 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

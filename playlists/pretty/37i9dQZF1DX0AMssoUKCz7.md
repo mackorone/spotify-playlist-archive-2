@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,351,788 likes - 200 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,351,926 likes - 200 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,8 +204,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 | 194 | [One Headlight](https://open.spotify.com/track/72gWe2ylvTGOfvYqhZkCPP) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Bayshore Court](https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg) | [One Headlight](https://open.spotify.com/album/4IF9h4GCADDPRJKs8avQvi) | 2:28 |
 | 195 | [Coming With You](https://open.spotify.com/track/37dOHwcr6tqyELw6SH8uxw) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Coming With You](https://open.spotify.com/album/6oRJdhphLtxg8IaTIWYjXP) | 2:19 |
 | 196 | [Find Paradise](https://open.spotify.com/track/63NfJVW76BRuph6WFmTZo2) | [Sunset Oasis](https://open.spotify.com/artist/4id2I8vbOlykCeD2GTkZua), [Sean Blanc](https://open.spotify.com/artist/5zOgJO7Uyh5ALdB7Ts9vxt), [Femi](https://open.spotify.com/artist/5Vbv7OzVGfjFx60pwBEDke) | [Find Paradise](https://open.spotify.com/album/6CofROrbKT9g5kE05T97YE) | 2:43 |
-| 197 | [Never Be Alone](https://open.spotify.com/track/0Kn1X518zDKy02CQoVP5c3) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Mindblow](https://open.spotify.com/artist/721X4xLFS5AiHb6GeuuKvF), [Zaga](https://open.spotify.com/artist/5UX6ZbI8ssCFSTNaaQD1JK) | [Never Be Alone](https://open.spotify.com/album/6txkQhn6sQct44Uc3LPZdy) | 3:02 |
-| 198 | [Sweetly](https://open.spotify.com/track/3Wmvjczz3FOjOdzZL2246L) | [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Sweetly](https://open.spotify.com/album/0uwLohooG33NWGKJyCwfcy) | 2:36 |
+| 197 | [Sweetly](https://open.spotify.com/track/3Wmvjczz3FOjOdzZL2246L) | [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Sweetly](https://open.spotify.com/album/0uwLohooG33NWGKJyCwfcy) | 2:36 |
+| 198 | [Never Be Alone](https://open.spotify.com/track/0Kn1X518zDKy02CQoVP5c3) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Mindblow](https://open.spotify.com/artist/721X4xLFS5AiHb6GeuuKvF), [Zaga](https://open.spotify.com/artist/5UX6ZbI8ssCFSTNaaQD1JK) | [Never Be Alone](https://open.spotify.com/album/6txkQhn6sQct44Uc3LPZdy) | 3:02 |
 | 199 | [In My Way](https://open.spotify.com/track/1XrpbLvm4drbdpIRGd9uhr) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a), [Justin Rhodes](https://open.spotify.com/artist/1UnFIMbh19hkqi7kAUXEXt) | [In My Way](https://open.spotify.com/album/71yhE98trvrGzJjH0QpPnz) | 2:23 |
 | 200 | [Stop Us Now](https://open.spotify.com/track/7lIQp87wKTaJNCn6BMOw9j) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Stop Us Now](https://open.spotify.com/album/45eCC67dVHSsRuK3WKCXhO) | 2:13 |
 

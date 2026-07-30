@@ -133524,6 +133524,10 @@
       },
       "artists": [
         {
+          "name": "DJ WILL TN",
+          "url": "https://open.spotify.com/artist/7uVgmtaje8DlNep6BGuVgX"
+        },
+        {
           "name": "DJ Japa NK",
           "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
         },
@@ -280066,7 +280070,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 171934,
-      "name": "Para\u00edso Permanente - Ao Vivo",
+      "name": "Para\u00edso Permanente - Ao Vivo no #Quintou",
       "url": "https://open.spotify.com/track/3SRc1ZJYXXGKAu8AqBRt4q"
     },
     {
@@ -417079,6 +417083,24 @@
     },
     {
       "album": {
+        "name": "Voc\u00ea Jurou pra Mim",
+        "url": "https://open.spotify.com/album/5Bh1t4YgGyW1nUC6fZYXOp"
+      },
+      "artists": [
+        {
+          "name": "Noda de Caju",
+          "url": "https://open.spotify.com/artist/51CQp5ElwBRRMnwZU02MLI"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 162934,
+      "name": "Voc\u00ea Jurou pra Mim",
+      "url": "https://open.spotify.com/track/3GbO0EvKOqREZxNHoHxn54"
+    },
+    {
+      "album": {
         "name": "EQUILIBRIVM II",
         "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
       },
@@ -417096,26 +417118,8 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164511,
-      "name": "Voc\u00ea Ja Sabe",
+      "name": "Voc\u00ea J\u00e1 Sabe",
       "url": "https://open.spotify.com/track/0kcS3YhPRQnpUOUSiHDW1R"
-    },
-    {
-      "album": {
-        "name": "Voc\u00ea Jurou pra Mim",
-        "url": "https://open.spotify.com/album/5Bh1t4YgGyW1nUC6fZYXOp"
-      },
-      "artists": [
-        {
-          "name": "Noda de Caju",
-          "url": "https://open.spotify.com/artist/51CQp5ElwBRRMnwZU02MLI"
-        }
-      ],
-      "date_added": "2022-07-15",
-      "date_added_asterisk": false,
-      "date_removed": "2022-07-23",
-      "duration_ms": 162934,
-      "name": "Voc\u00ea Jurou pra Mim",
-      "url": "https://open.spotify.com/track/3GbO0EvKOqREZxNHoHxn54"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Showing Teeth are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,653,942 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,654,205 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 38 | [Pure Leaf](https://open.spotify.com/track/4jyG58O8zHggRN8A3mT6oh) | [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Deo Gratias](https://open.spotify.com/album/0FiZOFkh6fw3C4DTD5cyKF) | 4:55 |
 | 39 | [STFA](https://open.spotify.com/track/22PxFCtgAQgAOG1xBwXKBz) | [Moodring](https://open.spotify.com/artist/75gi4UlMiDGTClCgtZVpH0) | [death fetish](https://open.spotify.com/album/2LQrLVV5y9YFji7Z2fYdg9) | 3:39 |
 | 40 | [Crying Fire](https://open.spotify.com/track/2u6rLo8cuQ91qse20KNPT8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Crying Fire](https://open.spotify.com/album/4U6mCQ4jD6gdJaUCllxwg0) | 4:08 |
-| 41 | [SONG OF THE SWAMP](https://open.spotify.com/track/4AbGzxD4kxvdoCX55DLumA) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:18 |
+| 41 | [Song Of The Swamp](https://open.spotify.com/track/4AbGzxD4kxvdoCX55DLumA) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [IT CALLS ME BY NAME](https://open.spotify.com/album/0dGjNVNmtc3ZkrK6YgwjLL) | 3:18 |
 | 42 | [True Believers \(Feat\. Sam Carter\)](https://open.spotify.com/track/6bzbBeqibhl70svGOboJDN) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia), [Sam Carter](https://open.spotify.com/artist/1uPi1JTam729B87k1h5q0o) | [Nightmare Tripping](https://open.spotify.com/album/5PrXYFUyJMPvpGLFg1cqOe) | 3:32 |
 | 43 | [Brain Matter Displacement](https://open.spotify.com/track/7s5uYrEUnFbV0IZ3h4NyK3) | [No Cure](https://open.spotify.com/artist/3nw6phs4P8q7lncRq3uurU), [Bayway NJ](https://open.spotify.com/artist/2XCRqHvWppzACWDCE95Xer) | [It Is Going To Get Dark](https://open.spotify.com/album/3PN7t181uXPtRrIOkrcKXN) | 2:49 |
 | 44 | [Cut](https://open.spotify.com/track/5DDN7RGlnJSDGF5abfvoqp) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs), [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [VINDICATE](https://open.spotify.com/album/2bvKgi1cdJbaURY2bN7y4p) | 3:59 |

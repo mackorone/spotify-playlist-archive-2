@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Periphery
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,845 likes - 150 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,873 likes - 150 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,10 +142,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 132 | [How To Swim Down](https://open.spotify.com/track/3ck8dO1Mmm9Q8nd0yZlJLZ) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [How To Swim Down](https://open.spotify.com/album/2NAGNdsP9P04YDX312nDbE) | 4:05 |
 | 133 | [The Straight And Narrow](https://open.spotify.com/track/6xVwiDBGpTrnJ8wS7ZGbsq) | [The Wind Covenant](https://open.spotify.com/artist/2CL5ITHrtJ1JVCCthWw1fs) | [Hiraeth](https://open.spotify.com/album/41itIUZyYlXVHBI15N6ZuH) | 3:12 |
 | 134 | [Our Time is Now \(feat\. The Anix\) \- Extended](https://open.spotify.com/track/6wph3xiQIXwpcVRhhXzsik) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq), [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [humAnIty](https://open.spotify.com/album/27UpDVJhVwusFYfSomvS2j) | 5:22 |
-| 135 | [Overwhelming Love](https://open.spotify.com/track/4Debc38ny5Sz1kJ0X9SU8X) | [Lee McKinney](https://open.spotify.com/artist/5CotvGkMRk09lfNGt4i7nn) | [Overwhelming Love](https://open.spotify.com/album/7AKhS9gGnRyTEh6gsdnXpn) | 3:44 |
-| 136 | [Salamander in Two Worlds](https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH) | [Sleepytime Gorilla Museum](https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC) | [of the Last Human Being](https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv) | 6:30 |
+| 135 | [Salamander in Two Worlds](https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH) | [Sleepytime Gorilla Museum](https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC) | [of the Last Human Being](https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv) | 6:30 |
+| 136 | [Subatlantic](https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Subatlantic](https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21) | 6:55 |
 | 137 | [Shallow Ecstasy](https://open.spotify.com/track/1aFu1TSeBdfx4eknxNWTB9) | [Tómarúm](https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ) | [Beyond Obsidian Euphoria](https://open.spotify.com/album/2PoczEqH999hvznpNC5TMs) | 7:02 |
-| 138 | [Subatlantic](https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Subatlantic](https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21) | 6:55 |
+| 138 | [Overwhelming Love](https://open.spotify.com/track/4Debc38ny5Sz1kJ0X9SU8X) | [Lee McKinney](https://open.spotify.com/artist/5CotvGkMRk09lfNGt4i7nn) | [Overwhelming Love](https://open.spotify.com/album/7AKhS9gGnRyTEh6gsdnXpn) | 3:44 |
 | 139 | [淨化 Purge \(feat\. Devin Townsend\)](https://open.spotify.com/track/1ghjSbOICxweO2X9toPij4) | [OU](https://open.spotify.com/artist/3jErOJR4avnhfZuyHogWRb), [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [蘇醒 II: Frailty](https://open.spotify.com/album/3Qqr84sZDMRNuDeIdqIbMH) | 5:02 |
 | 140 | [I Am Time](https://open.spotify.com/track/3SRTMe1bmFbs1ZEFom9AOC) | [Green Carnation](https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc) | [I Am Time](https://open.spotify.com/album/42jnID8h4u6a1qCINvVCRl) | 5:39 |
 | 141 | [Fear](https://open.spotify.com/track/4Sly8l7P3M4jyItnrCszeB) | [Tayne](https://open.spotify.com/artist/0YhYfoCTZKEw5VwaC7dasF), [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [James Spence](https://open.spotify.com/artist/4xkFkSduLRpzxrVpZMpvVv) | [Fear](https://open.spotify.com/album/1YyIQsF7te1vM4EBz2h1Bg) | 3:52 |
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 147 | [Fragile Space](https://open.spotify.com/track/3jqbSOib3SFAp6hYSH0m18) | [Poh Hock](https://open.spotify.com/artist/0KBR26P2goagfV6qJWctFB), [Robert Edens](https://open.spotify.com/artist/2EmddVdQjFPPvnm1Xx5NfK) | [Gallimaufry](https://open.spotify.com/album/5TqrK0OA6CcOtei9BmUHKK) | 4:15 |
 | 148 | [Last Words](https://open.spotify.com/track/56yYEdtCwFKmDi8AxIE0kr) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Last Words](https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr) | 2:58 |
 | 149 | [Borderline Syndrome](https://open.spotify.com/track/5iaJDLrxZ80mIvH4oveRZb) | [Monosphere](https://open.spotify.com/artist/0JDTWjgSmPVG76tIIvwPoW) | [Sentience](https://open.spotify.com/album/6iRzTS4biCbb2VukIwB9nT) | 6:48 |
-| 150 | [Hotel Sphinx](https://open.spotify.com/track/0I4KEXWHq6jgx2VC0yq2ut) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [Hotel Sphinx](https://open.spotify.com/album/4BhW8SgM0s7j5e4fG2nXVu) | 4:49 |
+| 150 | [Piros kocsi, fekete éj](https://open.spotify.com/track/5n4TEThz5HOTIohhi2PBr5) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Piros kocsi, fekete éj](https://open.spotify.com/album/0jLHOyvimhtp1UQEGfTF9z) | 4:12 |
 
 Snapshot ID: `AAAAALNa7fyZ+N2MZBF+p3Ut6w2VhBBY`

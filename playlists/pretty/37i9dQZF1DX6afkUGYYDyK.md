@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,109 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,144 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 92 | [Praise God For That](https://open.spotify.com/track/4pzEeXT5WheKAndcLI5OG0) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Praise God For That](https://open.spotify.com/album/0tG451tu6ZxZg8J3xPP8ww) | 3:12 |
 | 93 | [My Tribute](https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classic Gold: Best of Andrae: Andrae Crouch and the Disciples](https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf) | 3:37 |
 | 94 | [Thank You](https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [Thank You](https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV) | 2:24 |
-| 95 | [We Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Unchanging God: Songs from the Book of Psalms, Vol\. 2](https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt) | 4:10 |
-| 96 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 |
-| 97 | [That Thank You Song!](https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [That Thank You Song!](https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR) | 3:06 |
-| 98 | [Thank You \- Radio Version](https://open.spotify.com/track/2oQdsStjfSg02UIM3sR5ra) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Thank You \(Radio Version\)](https://open.spotify.com/album/5FaWyVNdvnGV1vmNnnXHYf) | 3:26 |
-| 99 | [Give Thanks](https://open.spotify.com/track/2E671HNXR5AfhnbhEhX9u6) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jasmine Mullen](https://open.spotify.com/artist/4OxSdUYHCbfXU6J84jskDj) | [Give Thanks](https://open.spotify.com/album/4wjd6BFKLP7vQLbtFTeGT0) | 5:12 |
-| 100 | [Thanks In Advance](https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Thanks In Advance](https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH) | 2:21 |
+| 95 | [Thank You So Much Jesus](https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Paul Klein](https://open.spotify.com/artist/26xOBpJWygkOHPDsvLlbtb) | [Thank You So Much Jesus](https://open.spotify.com/album/1yZ4Dt7Cpkc0f1jdud6ppH) | 4:09 |
+| 96 | [We Give Thanks \(Psalm 107\) \- Live](https://open.spotify.com/track/2HHI1ZtuLVPP49CpegOLjU) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Unchanging God: Songs from the Book of Psalms, Vol\. 2](https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt) | 4:10 |
+| 97 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 |
+| 98 | [That Thank You Song!](https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [That Thank You Song!](https://open.spotify.com/album/1kcfrHqrLUynZr18RCm6rR) | 3:06 |
+| 99 | [Thank You \- Radio Version](https://open.spotify.com/track/2oQdsStjfSg02UIM3sR5ra) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [Thank You \(Radio Version\)](https://open.spotify.com/album/5FaWyVNdvnGV1vmNnnXHYf) | 3:26 |
+| 100 | [Give Thanks](https://open.spotify.com/track/2E671HNXR5AfhnbhEhX9u6) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Jasmine Mullen](https://open.spotify.com/artist/4OxSdUYHCbfXU6J84jskDj) | [Give Thanks](https://open.spotify.com/album/4wjd6BFKLP7vQLbtFTeGT0) | 5:12 |
 
 Snapshot ID: `AAAAALPWMaNTBB9Bjnw5hkbPYtWQ/qTp`

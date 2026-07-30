@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥  featuring Zingara
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,445 likes - 199 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,390 likes - 199 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

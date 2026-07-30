@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 722627,
+  "num_followers": 722677,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Come, Heavy Breath",
+        "url": "https://open.spotify.com/album/1HrLzhNTNkDNzzDlo3trDi"
+      },
+      "artists": [
+        {
+          "name": "Violent Life Violent Death",
+          "url": "https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ"
+        }
+      ],
+      "duration_ms": 170320,
+      "name": "Rot",
+      "url": "https://open.spotify.com/track/7osC19M6Eeo3Z9F2iQeRhi"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "I Am Your God",
         "url": "https://open.spotify.com/album/2YhFaHQr1Li7hVHGsOzEVw"
       },
@@ -1903,18 +1919,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Come, Heavy Breath",
-        "url": "https://open.spotify.com/album/1HrLzhNTNkDNzzDlo3trDi"
+        "name": "Bad to My World",
+        "url": "https://open.spotify.com/album/5ysQoh4zeljDcOwgFZnNQS"
       },
       "artists": [
         {
-          "name": "Violent Life Violent Death",
-          "url": "https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ"
+          "name": "Backtrack",
+          "url": "https://open.spotify.com/artist/71N7xIvnaOFGetZL5nhWsl"
         }
       ],
-      "duration_ms": 170320,
-      "name": "Rot",
-      "url": "https://open.spotify.com/track/7osC19M6Eeo3Z9F2iQeRhi"
+      "duration_ms": 149160,
+      "name": "One with You",
+      "url": "https://open.spotify.com/track/2ChqOkTSX0SRqVoiEFvTU9"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1947,22 +1963,6 @@
       "duration_ms": 328379,
       "name": "Cosmic Maelstrom",
       "url": "https://open.spotify.com/track/0qUi4EcvYS5FBJXv1AGGJn"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Bad to My World",
-        "url": "https://open.spotify.com/album/5ysQoh4zeljDcOwgFZnNQS"
-      },
-      "artists": [
-        {
-          "name": "Backtrack",
-          "url": "https://open.spotify.com/artist/71N7xIvnaOFGetZL5nhWsl"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "One with You",
-      "url": "https://open.spotify.com/track/2ChqOkTSX0SRqVoiEFvTU9"
     },
     {
       "added_at": "2023-01-18 15:54:17",

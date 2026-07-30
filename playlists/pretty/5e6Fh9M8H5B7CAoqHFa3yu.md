@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 347 likes - 2,512 songs - 6 day 3 hr 46 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 347 likes - 2,514 songs - 6 day 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2520,5 +2520,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2510 | [Decadence](https://open.spotify.com/track/0rRewFIunN0RngAqfwd1RF) | [Aural Nouveau](https://open.spotify.com/artist/0su1VTrnP1IEDCdcsn7C8i) | [Decadence](https://open.spotify.com/album/6oge9aN1X3Fl6IIXLUq8EI) | 3:18 |
 | 2511 | [The Weekend \- Instrumental](https://open.spotify.com/track/3JjUm4kaHKZYdakw0g6dRf) | [Metok Maximus](https://open.spotify.com/artist/5YTX9oJVrxwWJuVbRdxNK1) | [The Weekend \(Instrumental\)](https://open.spotify.com/album/6BqZxVnaPZEsLNsVO5m5BS) | 2:32 |
 | 2512 | [convenient](https://open.spotify.com/track/1BXDjv5BqlC52TrjKfnP0y) | [RINNIE](https://open.spotify.com/artist/2d6vYkXPElcFB8XVtt1eI3) | [convenient](https://open.spotify.com/album/6UMpZ0ihDKy9tkC2353r0K) | 4:20 |
+| 2513 | [Don't Say Goodbye](https://open.spotify.com/track/6DtJ6Nyuhr50ooAAnzeQUP) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Don't Say Goodbye](https://open.spotify.com/album/6rZrZwQZpy20yw9RoEfnlY) | 3:46 |
+| 2514 | [Melancholic Lo\-Fi \(Viral Beats for Your Sad Day\)](https://open.spotify.com/track/4kRhvuIfb8XJXLxUFqkNBo) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Melancholic Lo\-Fi \(Viral Beats for Your Sad Day\)](https://open.spotify.com/album/0mO1SOaqVHn8z8hXm01f1M) | 2:58 |
 
-Snapshot ID: `AAAKp0m9btx6aqqs0HpGqNw51R3CEzbS`
+Snapshot ID: `AAAKqUqHv/aekzRtcN1HuhcSujyZyPxg`

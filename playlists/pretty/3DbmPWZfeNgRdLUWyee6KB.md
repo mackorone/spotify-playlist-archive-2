@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,327 likes - 110 songs - 6 hr 26 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,328 likes - 119 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,5 +118,14 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 108 | [Body Party](https://open.spotify.com/track/6zlLeBm2IBiFaYwckiq8Hs) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Body Party](https://open.spotify.com/album/2ZHrT8qKtovOZuEE9gKdye) | 2:47 |
 | 109 | [know u](https://open.spotify.com/track/0FdlZcn2Km4fiiWfnmr9tP) | [only tears](https://open.spotify.com/artist/6AaJR9N3Z2Ot4HGNdM4rlM) | [know u](https://open.spotify.com/album/0HtiFYZGeXmRTURgRf6vJK) | 4:14 |
 | 110 | [Cereus](https://open.spotify.com/track/4JFWectEdp4IlPfAhvMpLJ) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [Cereus](https://open.spotify.com/album/5QDGWGHGKp7RNZ4XHWP8tL) | 2:57 |
+| 111 | [Boldly Piano Remake](https://open.spotify.com/track/2vrDMBBmTFGxhjGGktCv30) | [eKbeats](https://open.spotify.com/artist/1gpShRgOkgvzSV822BqQ50), [Eastman](https://open.spotify.com/artist/6sVZtMLp71Ky4TFGdz97yZ) | [Boldly Piano Remake](https://open.spotify.com/album/3L6SigtNYKcjDl2dyckOrv) | 2:19 |
+| 112 | [Lost 4 Words](https://open.spotify.com/track/4gSWjxchEthEOJOKvO3LrY) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:11 |
+| 113 | [Last rodeo](https://open.spotify.com/track/266WcmftXBccJkcTOl3tWU) | [Torfevas](https://open.spotify.com/artist/0XBartTCLbhKPDOZsOgwG1) | [Last rodeo](https://open.spotify.com/album/4XHy4WlsrfeHMWDufDoYkg) | 3:11 |
+| 114 | [Tu sei importante](https://open.spotify.com/track/5UlwYVqgbY13cVlWx70udU) | [Nailuz](https://open.spotify.com/artist/75eTPvGYXVQkPzo0kVk6mg) | [Tu sei importante](https://open.spotify.com/album/5ZpVTnIRUJAsK1SQSJmBdZ) | 2:42 |
+| 115 | [You Just Want Sex](https://open.spotify.com/track/1gKUHmmt034rVgEJa331K4) | [Trendsetter](https://open.spotify.com/artist/2r6KOzzHhbWaMwP2EwmUEM), [Magnus Deus](https://open.spotify.com/artist/2ucNjOKWBIEBnzvFgmJAn3), [Katty G](https://open.spotify.com/artist/5AzDXioaAPrx8SzjCyFnIB) | [You Just Want Sex](https://open.spotify.com/album/0bgSwyYZRCbSs1gDmWz1ns) | 3:32 |
+| 116 | [Winnin](https://open.spotify.com/track/2HPCqbMp7VDmYhUrS2gbjk) | [Zaya Love](https://open.spotify.com/artist/7MBtJesquNBluPqKJyW6W1), [Mark Holiday](https://open.spotify.com/artist/0c2te8OzhhVjiqXaAku4Hx) | [TRENDSETTER](https://open.spotify.com/album/6JWcKuOYeKNlp9h8MPYJNg) | 2:12 |
+| 117 | [Pal Bhar](https://open.spotify.com/track/2Z6s7fZKcaO65QCkwvIIpv) | [Prachi](https://open.spotify.com/artist/0aGQ8kYrK0HH2lNiQcb9kG) | [Pal Bhar](https://open.spotify.com/album/5QmCu8GISp4vpe5oW5wXCJ) | 1:46 |
+| 118 | [Vola Leggera](https://open.spotify.com/track/6kzM8uw61dGVDElx6EW0Vf) | [Giofly](https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp) | [Vola Leggera](https://open.spotify.com/album/0h3LnXhQjcgeqZsPMJ34Mo) | 4:54 |
+| 119 | [Keep On](https://open.spotify.com/track/2EeGM8HJAcABdRJlUD2zNp) | [Urban Psalm](https://open.spotify.com/artist/5ljCY9HMtCo072z28PCuHK) | [Keep On](https://open.spotify.com/album/6p3z9hLzS3UdK9Hr0F3Dfz) | 4:17 |
 
-Snapshot ID: `AAAWg94xdsKFFuCczNvyUPV/UoFGlCeW`
+Snapshot ID: `AAAWjN8GEwsZ2mR2QrNqdOGyGeji1n+I`
