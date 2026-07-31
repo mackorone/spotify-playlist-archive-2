@@ -1,12 +1,12 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 116918,
+  "num_followers": 116942,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIlx0S4h4pI0WGcFAGR7FJAmhAQd",
+  "snapshot_id": "AAAAAA74TKq1QQzjK+X7Kwu54rJbfERq",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:42",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
-        "name": "Crusades Of The Restless Knights",
-        "url": "https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 294053,
-      "name": "Conversation With The Devil",
-      "url": "https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
         "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
         "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 316506,
       "name": "Star Witness",
       "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
+        "name": "Crusades Of The Restless Knights",
+        "url": "https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 294053,
+      "name": "Conversation With The Devil",
+      "url": "https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m"
     },
     {
       "added_at": "2026-06-19 04:01:42",

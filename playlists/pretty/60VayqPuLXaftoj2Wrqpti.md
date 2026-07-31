@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 4,262 likes - 89 songs - 5 hr 28 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 4,268 likes - 89 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 17 | [Hard Beat](https://open.spotify.com/track/2yksZVaKYIbh4IEEAa2kJV) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Hard Beat](https://open.spotify.com/album/3atdDfI9FcTZhrZQeOi8W0) | 3:45 |
 | 18 | [Feeling For You \- Fcukers & Junior Sanchez Remix](https://open.spotify.com/track/2SpViBCYQMXwS6OrTTWG3u) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Feeling For You \(Fcukers & Junior Sanchez Remix\)](https://open.spotify.com/album/7t9tDtV33PmsISIR0ymsaD) | 3:48 |
 | 19 | [Misdirection](https://open.spotify.com/track/0i2n33sCV3wVJLMy1YwFsR) | [Cat Nap](https://open.spotify.com/artist/0gEoB64LOcE9DGD11enkZ4) | [Free In Anarchy](https://open.spotify.com/album/3ZVgFDFHmx81mLbF1MYrfR) | 3:32 |
-| 20 | [Cristalina](https://open.spotify.com/track/4jvCmbHuee4RMHlii4SU6M) | [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Cristalina](https://open.spotify.com/album/6kyl37QBe1FC2KU8GT17ck) | 2:53 |
+| 20 | [Cristalina](https://open.spotify.com/track/4jvCmbHuee4RMHlii4SU6M) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Cristalina](https://open.spotify.com/album/6kyl37QBe1FC2KU8GT17ck) | 2:53 |
 | 21 | [Change](https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Change](https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs) | 3:27 |
 | 22 | [IJUSTIDONTKNOW](https://open.spotify.com/track/44A3GN7Hhqxk7Wry9r5XZQ) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [IJUSTIDONTKNOW](https://open.spotify.com/album/26jm3a6bcsXFrnJVt0ovjU) | 3:56 |
 | 23 | [Bem Querer](https://open.spotify.com/track/0bWMIVkJzf9aFF4jQ0Rx71) | [Curió Curió](https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a) | [Curió Curió](https://open.spotify.com/album/6h6tgc1Z4RGqMYeV4O7KT1) | 3:41 |

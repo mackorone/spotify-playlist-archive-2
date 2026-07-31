@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Showing Teeth are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,654,205 likes - 80 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,654,512 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [Cut From God](https://open.spotify.com/track/0PKG4DeFYDB68bgvw5XmM9) | [Guilt Trip](https://open.spotify.com/artist/07mhRucOGu6NJvRNVzqoxU) | [Armour Of Angels](https://open.spotify.com/album/4ZEtAdGoESebTf6Dc1ydhz) | 2:46 |
 | 80 | [A Blaze of Nihilism](https://open.spotify.com/track/1Gj7O01k7FbghPN0Pb2Odk) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [A Blaze of Nihilism](https://open.spotify.com/album/3ve1oUyQcEmazFTcB7voYD) | 2:52 |
 
-Snapshot ID: `AAAAAKvBQ4wKBTJkG+O5vzAxjF3+GpXD`
+Snapshot ID: `AAAAAJMyGYCUHej1wLMye1NcVcauwJxG`

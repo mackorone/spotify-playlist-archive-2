@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
-  "num_followers": 168370,
+  "num_followers": 168372,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALNScjxUiuuP+wltQUyJShHjpa5n",
+  "snapshot_id": "AAAAAPI1+RsxtO+bYn3g+hHI35gHX1wJ",
   "tracks": [
     {
       "added_at": "2026-03-27 04:00:14",
@@ -223,18 +223,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+        "name": "Reboot II",
+        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
       },
       "artists": [
         {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        },
+        {
+          "name": "The Earls Of Leicester",
+          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
         }
       ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+      "duration_ms": 236401,
+      "name": "How Long Gone (with The Earls of Leicester)",
+      "url": "https://open.spotify.com/track/78bMEgX1auUxc9cSJ4WgLR"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -259,26 +263,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Reboot II",
-        "url": "https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        },
-        {
-          "name": "The Earls Of Leicester",
-          "url": "https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm"
-        }
-      ],
-      "duration_ms": 236401,
-      "name": "How Long Gone (with The Earls of Leicester)",
-      "url": "https://open.spotify.com/track/78bMEgX1auUxc9cSJ4WgLR"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/14BFkK2Rq7IQ01qnFqIwth"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 235920,
       "name": "Boom",
       "url": "https://open.spotify.com/track/0TUHqN9omctG8MsSwJMhej"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Small Towns",
-        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
-      },
-      "artists": [
-        {
-          "name": "Stillhouse Junkies",
-          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Colorado Bound",
-      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Songs from Horizon",
         "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
       },
@@ -469,6 +453,22 @@
       "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
     },
     {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Small Towns",
+        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
+      },
+      "artists": [
+        {
+          "name": "Stillhouse Junkies",
+          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Colorado Bound",
+      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
+    },
+    {
       "added_at": "2026-05-14 19:56:42",
       "album": {
         "name": "Gas and Oil",
@@ -483,26 +483,6 @@
       "duration_ms": 227786,
       "name": "Gas and Oil",
       "url": "https://open.spotify.com/track/2sQ8RGC3DHAecvS5nd2lbF"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Will You Ever Be Mine",
-        "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
-      },
-      "artists": [
-        {
-          "name": "Bronwyn Keith-Hynes",
-          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
-        },
-        {
-          "name": "Dudley Connell",
-          "url": "https://open.spotify.com/artist/6K4SmbOcd8TU3crY4wkMr0"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Will You Ever Be Mine",
-      "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -543,6 +523,26 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "Will You Ever Be Mine",
+        "url": "https://open.spotify.com/album/3hCrcdxBsHCItEVaPhNbdb"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Dudley Connell",
+          "url": "https://open.spotify.com/artist/6K4SmbOcd8TU3crY4wkMr0"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "Will You Ever Be Mine",
+      "url": "https://open.spotify.com/track/0NXt6ZREUKitG4ZLPcS0n1"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Powder Day",
         "url": "https://open.spotify.com/album/5wUug6ZsELo2yLA9sU8BPB"
       },
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Heading East to West Virginia",
         "url": "https://open.spotify.com/album/7LHuigW10cgAx81EuO2AVX"
       },
@@ -595,22 +579,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Granite Mills",
-        "url": "https://open.spotify.com/album/4mEWJk9xqbyMMN1btlIGFM"
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
       },
       "artists": [
         {
-          "name": "Alison Krauss & Union Station",
-          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
         }
       ],
-      "duration_ms": 220212,
-      "name": "Granite Mills",
-      "url": "https://open.spotify.com/track/3MiSYmtNM9z7SIsNFLuSGN"
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -639,6 +619,26 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "Granite Mills",
+        "url": "https://open.spotify.com/album/4mEWJk9xqbyMMN1btlIGFM"
+      },
+      "artists": [
+        {
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "Granite Mills",
+      "url": "https://open.spotify.com/track/3MiSYmtNM9z7SIsNFLuSGN"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Never Losing Me",
         "url": "https://open.spotify.com/album/23MHdoOY8YrvORHbpPEQl7"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Willow",
-        "url": "https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Willow",
-      "url": "https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "Hubbardville Store",
         "url": "https://open.spotify.com/album/4jOWMsnhJOITyjzorFE9oS"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 252520,
       "name": "Hubbardville Store",
       "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Willow",
+        "url": "https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Willow",
+      "url": "https://open.spotify.com/track/0xa49uKD6IdtaXgvLud3Bi"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 256878,
-      "name": "Whiskey Drinking Man - Live",
-      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "The New Modern Hymns",
         "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 226901,
       "name": "American Tune",
       "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 256878,
+      "name": "Whiskey Drinking Man - Live",
+      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Wall Guitar (Since You Said Goodbye)",
         "url": "https://open.spotify.com/album/2a15WcuEBGzKhPzvJ4Dhzm"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 199026,
       "name": "Wall Guitar (Since You Said Goodbye)",
       "url": "https://open.spotify.com/track/1NkoCD7N4J4X3V1t38LVOz"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/56voaeBUVgb4inHaFJXSGz"
     },
     {
-      "added_at": "2026-05-14 19:56:42",
-      "album": {
-        "name": "Long Way Around",
-        "url": "https://open.spotify.com/album/7kLUZ0VHGE2BByWmbwk29F"
-      },
-      "artists": [
-        {
-          "name": "The Del McCoury Band",
-          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
-        }
-      ],
-      "duration_ms": 177858,
-      "name": "Long Way Around",
-      "url": "https://open.spotify.com/track/0s7eLvThs95MHCa1ie5FXT"
-    },
-    {
       "added_at": "2026-03-27 04:00:14",
       "album": {
         "name": "Mr. Charlie",
@@ -1035,6 +1019,22 @@
       "duration_ms": 173237,
       "name": "Railroadin' & Gamblin'",
       "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
+    },
+    {
+      "added_at": "2026-05-14 19:56:42",
+      "album": {
+        "name": "Long Way Around",
+        "url": "https://open.spotify.com/album/7kLUZ0VHGE2BByWmbwk29F"
+      },
+      "artists": [
+        {
+          "name": "The Del McCoury Band",
+          "url": "https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt"
+        }
+      ],
+      "duration_ms": 177858,
+      "name": "Long Way Around",
+      "url": "https://open.spotify.com/track/0s7eLvThs95MHCa1ie5FXT"
     },
     {
       "added_at": "2026-05-14 19:56:42",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
         "name": "Squareneck Soul",
         "url": "https://open.spotify.com/album/7xsg8EUd4x66zZbn8Z6hLY"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Runaway Train",
-        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
         "name": "I'll Blame It on the Rain",
         "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 272326,
       "name": "Please Mr Please",
       "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
-    },
-    {
-      "added_at": "2026-03-27 04:00:14",
-      "album": {
-        "name": "Circling the Drain",
-        "url": "https://open.spotify.com/album/0I1nAsqzVfsHdUcubvExCM"
-      },
-      "artists": [
-        {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
-        }
-      ],
-      "duration_ms": 198375,
-      "name": "Circling the Drain",
-      "url": "https://open.spotify.com/track/4lt6XYUxU6r5qUhGroEhQw"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1295,6 +1279,22 @@
       "duration_ms": 175835,
       "name": "Keepers of the Flame",
       "url": "https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g"
+    },
+    {
+      "added_at": "2026-03-27 04:00:14",
+      "album": {
+        "name": "Circling the Drain",
+        "url": "https://open.spotify.com/album/0I1nAsqzVfsHdUcubvExCM"
+      },
+      "artists": [
+        {
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+        }
+      ],
+      "duration_ms": 198375,
+      "name": "Circling the Drain",
+      "url": "https://open.spotify.com/track/4lt6XYUxU6r5qUhGroEhQw"
     },
     {
       "added_at": "2026-03-27 04:00:14",
@@ -1339,26 +1339,18 @@
     {
       "added_at": "2026-03-27 04:00:14",
       "album": {
-        "name": "Lovin' Of The Game",
-        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+        "name": "Kentucky Highway",
+        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
       },
       "artists": [
         {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        },
-        {
-          "name": "Jeff White",
-          "url": "https://open.spotify.com/artist/4Wvs9HiWoih3ogGufHwY48"
+          "name": "Williamson Branch",
+          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
         }
       ],
-      "duration_ms": 191813,
-      "name": "Sunny Days (Are Comin' Once Again)",
-      "url": "https://open.spotify.com/track/1YvyvvCAgGxxxg5RFG7sL8"
+      "duration_ms": 219493,
+      "name": "Kentucky Highway",
+      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
     }
   ],
   "unique_name": "Grass Roots",

@@ -1,12 +1,12 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 945476,
+  "num_followers": 945556,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPNAyh04XCLAg+lHQ3gQCFlcB4zz",
+  "snapshot_id": "AAAAAN+7az6tfyIelekp0obpr9tjcE1f",
   "tracks": [
     {
       "added_at": "2026-04-24 04:01:49",
@@ -315,22 +315,6 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
         "name": "Nimrod",
         "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 153466,
       "name": "Good Riddance (Time of Your Life)",
       "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2026-04-24 04:01:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "From Zero",
-        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 170445,
-      "name": "Over Each Other",
-      "url": "https://open.spotify.com/track/3k4gjmYNJugQRlh2aounZ9"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 264706,
       "name": "It's Been Awhile",
       "url": "https://open.spotify.com/track/1BExV8JprNJLvLeDE9qdEW"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
+        "name": "From Zero",
+        "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3k4gjmYNJugQRlh2aounZ9"
     },
     {
       "added_at": "2026-04-24 04:01:49",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
         "name": "Nothing But Thieves (Track by Track)",
         "url": "https://open.spotify.com/album/0vBxqUHwetFn5jCwAKX7Uk"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 248640,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2026-04-24 04:01:49",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "Polly",
-      "url": "https://open.spotify.com/track/2SJ38LDlkNjwWSUq98r4Q5"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
         "name": "Break the Cycle",
         "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 293133,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5D6rk7Zr7FRy5m2fDte5fp"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "Polly",
+      "url": "https://open.spotify.com/track/2SJ38LDlkNjwWSUq98r4Q5"
     },
     {
       "added_at": "2026-04-24 04:01:49",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "Three Six Five / Dance, Kid, Dance",
-        "url": "https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 220312,
-      "name": "Three Six Five",
-      "url": "https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
         "name": "Showbiz",
         "url": "https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 237026,
       "name": "Unintended",
       "url": "https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
+        "name": "Three Six Five / Dance, Kid, Dance",
+        "url": "https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 220312,
+      "name": "Three Six Five",
+      "url": "https://open.spotify.com/track/2nrY3Snk7Tqf2QOwzLAWQf"
     },
     {
       "added_at": "2026-04-24 04:01:49",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "Sixteen",
-        "url": "https://open.spotify.com/album/3cZ1wUsjtA7rdd4imnyd2i"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 206137,
-      "name": "Sixteen",
-      "url": "https://open.spotify.com/track/03mN5X7xFtv6uuBGsB43aY"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
         "name": "Scream Above the Sounds (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3BiwYdv0OQRdCFB4OqUMiI"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 317186,
       "name": "All In One Night",
       "url": "https://open.spotify.com/track/5JZdu2fK7qvJgg0DfVmJe5"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
+        "name": "Sixteen",
+        "url": "https://open.spotify.com/album/3cZ1wUsjtA7rdd4imnyd2i"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 206137,
+      "name": "Sixteen",
+      "url": "https://open.spotify.com/track/03mN5X7xFtv6uuBGsB43aY"
     },
     {
       "added_at": "2026-04-24 04:01:49",

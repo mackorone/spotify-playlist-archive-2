@@ -13693,6 +13693,24 @@
     },
     {
       "album": {
+        "name": "lastig :(",
+        "url": "https://open.spotify.com/album/4RLeuOclPtyk7RBkgJmkXk"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Low",
+          "url": "https://open.spotify.com/artist/7suO7fpI2Z4B1Ok40mvkec"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173870,
+      "name": "lastig :(",
+      "url": "https://open.spotify.com/track/1YFqduTRbwsxPWXa3d3Fe4"
+    },
+    {
+      "album": {
         "name": "Laten",
         "url": "https://open.spotify.com/album/7CJvT8RllN7wENyeCKiaSw"
       },
@@ -17490,6 +17508,24 @@
       "duration_ms": 186048,
       "name": "Oh Zo Dom",
       "url": "https://open.spotify.com/track/1WMJUUAvfMxPtx9SXkOWlo"
+    },
+    {
+      "album": {
+        "name": "Oh Zo Hopeloos",
+        "url": "https://open.spotify.com/album/4UEP0PWLVj8kPoXcIrEOik"
+      },
+      "artists": [
+        {
+          "name": "Renee Rose",
+          "url": "https://open.spotify.com/artist/6DjAfOheehIKX6VdcJpLDI"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166693,
+      "name": "Oh Zo Hopeloos",
+      "url": "https://open.spotify.com/track/2tA6LB7Cyh8Z4oI3LY6AnH"
     },
     {
       "album": {

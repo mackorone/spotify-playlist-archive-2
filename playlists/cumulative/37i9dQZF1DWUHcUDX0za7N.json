@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Zaylevelten",
+  "description": "Hip hop and rap music from Nigeria. Cover: Wave$tar",
   "name": "Naija Bars ",
   "tracks": [
+    {
+      "album": {
+        "name": "#flowstate",
+        "url": "https://open.spotify.com/album/6MWeAxK9tsH3ozNCcy1lfH"
+      },
+      "artists": [
+        {
+          "name": "Zen Univrse",
+          "url": "https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112741,
+      "name": "#toomuchswag",
+      "url": "https://open.spotify.com/track/1STZzSByzeHohDFEQbe7Vn"
+    },
     {
       "album": {
         "name": "Fim\u00ed With The Flow",
@@ -118,7 +140,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 150508,
       "name": "1942",
       "url": "https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B"
@@ -876,6 +898,32 @@
       "duration_ms": 212500,
       "name": "AMERICA",
       "url": "https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R"
+    },
+    {
+      "album": {
+        "name": "AMIRI",
+        "url": "https://open.spotify.com/album/1ZdrMSPDz6nhzMtm7jxdmu"
+      },
+      "artists": [
+        {
+          "name": "Tiphe",
+          "url": "https://open.spotify.com/artist/42qOy9uBsoFpQQgawI8dIZ"
+        },
+        {
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
+        },
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "AMIRI",
+      "url": "https://open.spotify.com/track/0rr63wJFZJNILXcdpHTrD0"
     },
     {
       "album": {
@@ -2883,6 +2931,28 @@
     },
     {
       "album": {
+        "name": "By Now",
+        "url": "https://open.spotify.com/album/5Pd5gF3Icv4G5zj22bhPVT"
+      },
+      "artists": [
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/4hDJudkT1bs6e7USICB6WJ"
+    },
+    {
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/1ultX70qZ116mlkFOCIsgM"
       },
@@ -3198,7 +3268,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 113089,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/3bmC1rv9EFucw3pNxVCa2z"
@@ -3540,7 +3610,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 144000,
       "name": "Compose",
       "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
@@ -4660,6 +4730,24 @@
       "duration_ms": 156256,
       "name": "DSC",
       "url": "https://open.spotify.com/track/7HwSQoHXqMX3JlAh2qnDgd"
+    },
+    {
+      "album": {
+        "name": "DUM",
+        "url": "https://open.spotify.com/album/7DGdsVLaKxm97NaRn6XX1j"
+      },
+      "artists": [
+        {
+          "name": "Fimi",
+          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128925,
+      "name": "DUM",
+      "url": "https://open.spotify.com/track/3i2t3pOBrvdX3B9j66ss2A"
     },
     {
       "album": {
@@ -8843,6 +8931,28 @@
     },
     {
       "album": {
+        "name": "Life is Slo II",
+        "url": "https://open.spotify.com/album/0rCi3TpqhknIXahZYImAGy"
+      },
+      "artists": [
+        {
+          "name": "EF Moon",
+          "url": "https://open.spotify.com/artist/0fFQ89LOIU2Bc8bRacEyv9"
+        },
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140285,
+      "name": "Life is Slo II",
+      "url": "https://open.spotify.com/track/3xCPXDqOccN4MtnXWX3qPy"
+    },
+    {
+      "album": {
         "name": "Lifestyle",
         "url": "https://open.spotify.com/album/4Zg6fQKeY8NZfPa27af2hq"
       },
@@ -9872,7 +9982,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 211885,
       "name": "Moviestar",
       "url": "https://open.spotify.com/track/4kmGiR8yUvjlf94arvTFLy"
@@ -10596,7 +10706,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 240301,
       "name": "No Level",
       "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
@@ -12057,6 +12167,28 @@
     },
     {
       "album": {
+        "name": "party animal$ interlude (with suono sai)",
+        "url": "https://open.spotify.com/album/39dvgXUbrqtndPoc4TYwtq"
+      },
+      "artists": [
+        {
+          "name": "ARTSALGHUL",
+          "url": "https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf"
+        },
+        {
+          "name": "Suono Sai",
+          "url": "https://open.spotify.com/artist/14sJMBcF035eGzDwdxEcSX"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "party animal$ interlude (with suono sai)",
+      "url": "https://open.spotify.com/track/2Ug1ARrqDUr3lVvoF4n8Ag"
+    },
+    {
+      "album": {
         "name": "Pass By",
         "url": "https://open.spotify.com/album/4tQXRSWzl4XdaUjjixyJye"
       },
@@ -12234,7 +12366,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 193066,
       "name": "PERFECTION (feat. C.S. Armstrong)",
       "url": "https://open.spotify.com/track/3Sv5trzGlBMLYFJGpuOBxG"
@@ -15533,6 +15665,28 @@
     },
     {
       "album": {
+        "name": "tyla",
+        "url": "https://open.spotify.com/album/7ypQZocQ0GRlxeGs8z1oJk"
+      },
+      "artists": [
+        {
+          "name": "Mayordre",
+          "url": "https://open.spotify.com/artist/0AIHXBRjcweqHDS595ZM4T"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "tyla",
+      "url": "https://open.spotify.com/track/13lk0e1B4qsyWzZFaeX16x"
+    },
+    {
+      "album": {
         "name": "Type Sh*t",
         "url": "https://open.spotify.com/album/67pWb0xvEAFSaKPRnG98ep"
       },
@@ -15588,7 +15742,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 144000,
       "name": "Understand Me",
       "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"
@@ -16900,7 +17054,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 125217,
       "name": "Yeye Talk",
       "url": "https://open.spotify.com/track/1DEl9eFVBBRD9YuICnJ4QE"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 
 > Music wellness for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 590,267 likes - 200 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 590,306 likes - 200 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q2SnB3glnP.md) - [plain]
 | 199 | [Circles](https://open.spotify.com/track/0OVprHBYn8CWiNwqlJDobw) | [Solar Collective](https://open.spotify.com/artist/4VcgkoUJgvBLieWpQWaiDC) | [Circles](https://open.spotify.com/album/7cLHzFKZJE6oVaZ3Rc19Xl) | 2:24 |
 | 200 | [Effimero](https://open.spotify.com/track/2gBTT0x8FYQ8nfxYGUqQoy) | [Nebula Somni](https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV) | [Effimero](https://open.spotify.com/album/3Cff3wflTxaArjbDOHFhzt) | 2:28 |
 
-Snapshot ID: `AAAAAKqNkk4s9dZNH/MiMjhVmuQgg1ii`
+Snapshot ID: `AAAAAHXl1U1mBjPDAv0ai2Ec3CoIBZlg`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Valentino Merlo & Marama",
-  "num_followers": 1115309,
+  "num_followers": 1115132,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALL7kkPAZ9+K3hMkkRkHok08iL5o",
+  "snapshot_id": "AAAAAHKPRKhSrAP/Nlo+plNTzEhzW20d",
   "tracks": [
     {
       "added_at": "2026-06-19 03:00:25",
@@ -535,26 +535,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "DE PE A PA",
-        "url": "https://open.spotify.com/album/35eTVPVSs5D7VFOjUFsHHh"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 153260,
-      "name": "DE PE A PA",
-      "url": "https://open.spotify.com/track/4UXZQJEMZMhTDiZfDRJJQ0"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Pa\u00b4 Que Te Acuerdes | CROSSOVER #8",
         "url": "https://open.spotify.com/album/6Es6kN0L82XnLAaKV02ZoC"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 172800,
       "name": "Pa\u00b4Que Te Acuerdes | CROSSOVER #8",
       "url": "https://open.spotify.com/track/5aZ8rf2aPfZrnRWLA7bByo"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "DE PE A PA",
+        "url": "https://open.spotify.com/album/35eTVPVSs5D7VFOjUFsHHh"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 153260,
+      "name": "DE PE A PA",
+      "url": "https://open.spotify.com/track/4UXZQJEMZMhTDiZfDRJJQ0"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
+        "name": "Domingo",
+        "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 156422,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
         "name": "T\u00edpica Argentina",
         "url": "https://open.spotify.com/album/3HBd40il87H552v0UdXkUv"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 156118,
       "name": "T\u00edpica Argentina",
       "url": "https://open.spotify.com/track/2mEkK1rOvO4UJWhqEPZiP9"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Domingo",
-        "url": "https://open.spotify.com/album/1nkAFp2Pk9kOj6hP0tF7SI"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 156422,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/0v7ahDn1L5j60YZZHeVocU"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
+        "name": "Vos y Yo",
+        "url": "https://open.spotify.com/album/0rOgo14OGQSISmPyG5uXmx"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "duration_ms": 139058,
+      "name": "Vos y Yo",
+      "url": "https://open.spotify.com/track/45mSkRFdOQwCz1N3uSpVIa"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 158447,
       "name": "Ya No M\u00e1s",
       "url": "https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Vos y Yo",
-        "url": "https://open.spotify.com/album/0rOgo14OGQSISmPyG5uXmx"
-      },
-      "artists": [
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 139058,
-      "name": "Vos y Yo",
-      "url": "https://open.spotify.com/track/45mSkRFdOQwCz1N3uSpVIa"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
+        "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
+        "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
+      },
+      "artists": [
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        }
+      ],
+      "duration_ms": 356261,
+      "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
+      "url": "https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
         "name": "SALE SOLA",
         "url": "https://open.spotify.com/album/5mWt90aqfwx2SoepYXeOuk"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 201483,
       "name": "Tu Sacaganas (Remix)",
       "url": "https://open.spotify.com/track/6D0GnVYWhjJXBeVYsRqANW"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
-        "url": "https://open.spotify.com/album/095xvXfYBWnxcyeSTsViVC"
-      },
-      "artists": [
-        {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
-        }
-      ],
-      "duration_ms": 356261,
-      "name": "Cuidado Que Te Supero / Calumnia / Tattoo",
-      "url": "https://open.spotify.com/track/455hX0tW8TGEzwAuuhWfbd"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
+        "name": "Quiero Olvidarte",
+        "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "duration_ms": 206432,
+      "name": "Quiero Olvidarte",
+      "url": "https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
         "name": "Si Me Tomo una Cerveza (Remix)",
         "url": "https://open.spotify.com/album/7lDnwvTQGoFOCRD7GGRpks"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 237521,
       "name": "Si Me Tomo una Cerveza - Remix",
       "url": "https://open.spotify.com/track/7oySelE0Cb5q1TBBSPZJT2"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Quiero Olvidarte",
-        "url": "https://open.spotify.com/album/0DD1hxF6r2Wvu0T5MIqk9l"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 206432,
-      "name": "Quiero Olvidarte",
-      "url": "https://open.spotify.com/track/2M3aKNbIEr9GjjalZJMVkB"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "CUMBIA DE BARRIO",
-        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
-      },
-      "artists": [
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 181354,
-      "name": "CUMBIA DE BARRIO",
-      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Chica Brasile\u00f1a Remix",
         "url": "https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 167553,
       "name": "Chica Brasile\u00f1a Remix",
       "url": "https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "CUMBIA DE BARRIO",
+        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 181354,
+      "name": "CUMBIA DE BARRIO",
+      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
-        "url": "https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 326437,
-      "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
-      "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "Copacabana (Remix)",
         "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 153133,
       "name": "Copacabana - Remix",
       "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
+        "url": "https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 326437,
+      "name": "Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Enga\u00f1es Mas",
+      "url": "https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1875,58 +1875,6 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 177786,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Pechito Partido",
-        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        }
-      ],
-      "duration_ms": 147109,
-      "name": "Pechito Partido",
-      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
-        "name": "Notitas Tristes",
-        "url": "https://open.spotify.com/album/4imWv9LdyTelgqxKyfliMC"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Max Carra",
-          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
-        }
-      ],
-      "duration_ms": 136555,
-      "name": "Notitas Tristes",
-      "url": "https://open.spotify.com/track/3Fl5HPEn0HKbwC4h19Nya7"
-    },
-    {
-      "added_at": "2026-06-19 03:00:25",
-      "album": {
         "name": "\u00daltima Noche",
         "url": "https://open.spotify.com/album/790KUJY6zHaq2K18B3PvxK"
       },
@@ -1951,22 +1899,54 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "Te Regalo Amores",
-        "url": "https://open.spotify.com/album/2ljTaOrStZUe1MD2iVGgIv"
+        "name": "Pechito Partido",
+        "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
       },
       "artists": [
         {
-          "name": "Ian Lucas",
-          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
-        },
-        {
-          "name": "Flor Alvarez",
-          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
         }
       ],
-      "duration_ms": 182616,
-      "name": "Te Regalo Amores",
-      "url": "https://open.spotify.com/track/5FK7198AnbdywXfS4JI6sc"
+      "duration_ms": 147109,
+      "name": "Pechito Partido",
+      "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 177786,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "Notitas Tristes",
+        "url": "https://open.spotify.com/album/4imWv9LdyTelgqxKyfliMC"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "duration_ms": 136555,
+      "name": "Notitas Tristes",
+      "url": "https://open.spotify.com/track/3Fl5HPEn0HKbwC4h19Nya7"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -1991,18 +1971,22 @@
     {
       "added_at": "2026-06-19 03:00:25",
       "album": {
-        "name": "D\u00eda de Enero",
-        "url": "https://open.spotify.com/album/47XYg0bJ7zGeBv2o12Z22B"
+        "name": "Te Regalo Amores",
+        "url": "https://open.spotify.com/album/2ljTaOrStZUe1MD2iVGgIv"
       },
       "artists": [
         {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Flor Alvarez",
+          "url": "https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa"
         }
       ],
-      "duration_ms": 145626,
-      "name": "D\u00eda de Enero",
-      "url": "https://open.spotify.com/track/7KlKHAIzWjtGnKNYCJNdYw"
+      "duration_ms": 182616,
+      "name": "Te Regalo Amores",
+      "url": "https://open.spotify.com/track/5FK7198AnbdywXfS4JI6sc"
     },
     {
       "added_at": "2026-06-19 03:00:25",
@@ -2027,6 +2011,22 @@
       "duration_ms": 144666,
       "name": "VAS A VOLVER",
       "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
+    },
+    {
+      "added_at": "2026-06-19 03:00:25",
+      "album": {
+        "name": "D\u00eda de Enero",
+        "url": "https://open.spotify.com/album/47XYg0bJ7zGeBv2o12Z22B"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 145626,
+      "name": "D\u00eda de Enero",
+      "url": "https://open.spotify.com/track/7KlKHAIzWjtGnKNYCJNdYw"
     },
     {
       "added_at": "2026-06-19 03:00:25",

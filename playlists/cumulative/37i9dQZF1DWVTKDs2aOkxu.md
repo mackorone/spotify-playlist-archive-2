@@ -4,7 +4,7 @@
 
 > The best indie music of the moment\. Cover: Remi Wolf
 
-1,098 songs - 2 day 17 hr 1 min
+1,102 songs - 2 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [i don't wanna die today](https://open.spotify.com/track/4oKUWM85yPB6Q4HNXxD1n4) | [Kilu](https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow) | [i don't wanna die today](https://open.spotify.com/album/45Q5tj3SdmdDwXZUp5P5Ml) | 2:55 | 2025-10-31 | 2026-02-13 |
 | [I Don’t Know What I’m Doing on Earth, I Don’t Know What on Earth I’m Doing](https://open.spotify.com/track/1O4zixkyiwrCX6JvgcXzpY) | [Sofia and the Antoinettes](https://open.spotify.com/artist/2Wmot0sq6wOOjvcYD4NRD7) | [I Don’t Know What I’m Doing on Earth, I Don’t Know What on Earth I’m Doing](https://open.spotify.com/album/1oR7phi6WIVtvFN67axdUX) | 3:45 | 2026-04-17 | 2026-06-26 |
 | [I Don’t Wanna](https://open.spotify.com/track/4hHizy49Hzl7QfP3mGVJOY) | [Sydney Minsky Sargeant](https://open.spotify.com/artist/67XmpPOLIuRRGNUfXxyZ8J) | [I Don't Wanna](https://open.spotify.com/album/4yD8wtm8g2bo78ZVpBIBAp) | 3:19 | 2025-07-17 | 2025-08-15 |
+| [I Don’t Wanna Lose You](https://open.spotify.com/track/2Fg4oGxDBNhTUxOTqXF5eO) | [Cj Pandit](https://open.spotify.com/artist/1nj5nrlKa0trBmdgilmG8G) | [I Don’t Wanna Lose You](https://open.spotify.com/album/4TFbfbkTLucn5SI4ra5HkH) | 4:19 | 2026-07-30 |  |
 | [I Expect Better](https://open.spotify.com/track/5GR30tXyjrKUb5LcWya8zn) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [I Expect Better](https://open.spotify.com/album/2ZogXq5ZB7L97sPQWmIl5a) | 2:19 | 2026-04-16 | 2026-06-26 |
 | [I Feel You](https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS) | [KAWALA](https://open.spotify.com/artist/58bHgbHOExsHSOGlf0uUkL) | [I Feel You](https://open.spotify.com/album/5nO3sdRL4yMFlmFtl7TMJB) | 2:36 | 2024-07-18 | 2024-09-21 |
 | [I Gotta](https://open.spotify.com/track/2R7UKptnQM1ZHSYKb035aG) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [Music For Lovers](https://open.spotify.com/album/00JviBshCN82s36PJNpMcX) | 3:37 | 2026-03-27 | 2026-04-10 |
@@ -703,6 +704,7 @@
 | [One Thing At A Time](https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [One Thing At A Time](https://open.spotify.com/album/0iGHI45DWOOb5QG7aDlzvm) | 4:42 | 2026-03-27 | 2026-06-05 |
 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-01-17 | 2025-02-07 |
 | [Only Girl](https://open.spotify.com/track/5r3AMNwlDPffDLGnTkiGMP) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Only Girl](https://open.spotify.com/album/0JHiCW6hFsIMiHIww3bnDb) | 3:35 | 2025-11-21 | 2026-03-06 |
+| [only one way to know](https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [only one way to know](https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS) | 2:46 | 2026-07-30 |  |
 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 | 2024-12-06 | 2025-01-24 |
 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 | 2026-01-23 | 2026-04-24 |
 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 | 2025-07-17 | 2025-10-10 |
@@ -774,6 +776,7 @@
 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 | 2025-03-14 | 2025-04-04 |
 | [retrograde](https://open.spotify.com/track/1R4EhWbWc44SYWyVzRD0yq) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [Permanent Retrograde](https://open.spotify.com/album/1zh2lev0hl9C7YrmxFo3Bn) | 2:24 | 2025-11-21 | 2026-02-20 |
 | [RIDE](https://open.spotify.com/track/12RWoYcPeMb42JOLu7Xzp8) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [RIDE](https://open.spotify.com/album/4kUR2d4Y8Do3wInxBxMFnk) | 2:05 | 2024-09-05 | 2024-11-01 |
+| [Right On Time](https://open.spotify.com/track/15gbrNPteUKN5gNuoRnhY2) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Right On Time](https://open.spotify.com/album/0pgqi9s9qkIGjCbN5vGbNq) | 3:29 | 2026-07-30 |  |
 | [righttttraaack](https://open.spotify.com/track/7p9QPnwr6INKhwFhZwuooX) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse \(Anniversary Edition\)](https://open.spotify.com/album/5yLkXPDu9HKrJBKz0yFFSI) | 3:43 | 2026-03-06 | 2026-05-08 |
 | [Ripple](https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Ripple](https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB) | 2:41 | 2025-01-24 | 2025-04-04 |
 | [Rock Bottom](https://open.spotify.com/track/4IMUNFZqhkRJp7X8PAOrZ9) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Rock Bottom / Octopus](https://open.spotify.com/album/6QtKyp4Hgq87SA1sV5b52d) | 4:10 | 2026-02-06 | 2026-05-01 |
@@ -1018,6 +1021,7 @@
 | [Try Try Try](https://open.spotify.com/track/37S6RNloIxDDNRkydQflwU) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Try Try Try](https://open.spotify.com/album/7twihH4moGgU0lmsVQFHG7) | 3:54 | 2026-07-09 |  |
 | [Tunnels](https://open.spotify.com/track/6YPCE9MLZegYj9mV03RXU3) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Tunnels](https://open.spotify.com/album/0tf2qpHEEELAYR6LKsPjuR) | 2:48 | 2026-06-11 | 2026-07-10 |
 | [TV Car Chase](https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [TV Car Chase](https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn) | 4:44 | 2024-07-11 | 2024-08-16 |
+| [Twiggy](https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Twiggy](https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb) | 3:29 | 2026-07-30 |  |
 | [Two Times](https://open.spotify.com/track/3nqo6oCIDGVCQseDGeSPy5) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Two Times](https://open.spotify.com/album/1VLDDFEzUDKAGt4Y13zdvm) | 3:46 | 2025-02-21 | 2025-04-04 |
 | [Tyler Richard](https://open.spotify.com/track/1z6gxaOoSkvzXpkb0s6sdh) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Your Day Will Come](https://open.spotify.com/album/2e1eja8MYlw9fn7v48ZFlU) | 3:01 | 2026-06-25 | 2026-07-30 |
 | [Tyrants](https://open.spotify.com/track/7oTvcGyX0llNf9X3pFy8sd) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Tyrants](https://open.spotify.com/album/2J5LhXxCmpSFkg8OA3BLTW) | 3:14 | 2025-04-24 | 2025-06-27 |

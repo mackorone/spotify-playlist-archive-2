@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-458 songs - 1 day 2 hr 35 min
+459 songs - 1 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Sevacabar](https://open.spotify.com/track/59uzj20MpOXj6B5dNoDS8P) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Sevacabar](https://open.spotify.com/album/7nGg22E4Ui2IydfmdrsNNm) | 2:50 | 2026-03-21 | 2026-04-21 |
 | [Shadow Spun](https://open.spotify.com/track/0HHqWEbz06O9f0WVhQWfEH) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Shadow Spun](https://open.spotify.com/album/2YV7pbZSFmQoNB9wlGS8YQ) | 4:14 | 2026-07-22 |  |
 | [Shadows on the floor](https://open.spotify.com/track/5527T3ToohQ1PYWneOj7lF) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Shadows on the floor](https://open.spotify.com/album/4ACvbc2kkeyXHb1QC1pK56) | 3:28 | 2026-01-12 | 2026-02-20 |
+| [She's Like The Sea](https://open.spotify.com/track/0B0HKK954dM1diGqHqmdKa) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [Nervous Systems](https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml) | 4:03 | 2026-07-30 |  |
 | [Shoot For Stars](https://open.spotify.com/track/6tchwVTKe8GxhWJdSVBPwA) | [Norma Siggs & The Numettes](https://open.spotify.com/artist/02dI7i7CLTR8LPwTXHw72G) | [A Wall Of Numsig](https://open.spotify.com/album/7xjSF0Ja2REUo95IZAV8sc) | 3:18 | 2025-10-24 | 2025-12-12 |
 | [Sick of Myself](https://open.spotify.com/track/4AcTSN3jrGYKnDhlPvU5Ws) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Sick of Myself](https://open.spotify.com/album/5Z7he63upehCw75oRrZvuN) | 4:16 | 2026-05-10 | 2026-07-24 |
 | [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 | 2026-02-06 | 2026-03-20 |

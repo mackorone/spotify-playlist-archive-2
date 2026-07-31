@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: REMI
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,847 likes - 197 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,858 likes - 197 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 37 | [PushPlay](https://open.spotify.com/track/6ziVvzCJejkyZ75nncyvel) | [Jordyn Simone](https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb) | [PushPlay](https://open.spotify.com/album/6jutBM7dDHY1EXXaqybH5k) | 2:49 |
 | 38 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
 | 39 | [Down Bad](https://open.spotify.com/track/49hvtfulvEJ3kiac97TNNL) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI), [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Alchemy](https://open.spotify.com/album/5tRH929SEHDYOHg4Ky1Y0a) | 4:02 |
-| 40 | [Just For A Moment \(feat\. Dende\) \(Acoustic\)](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
+| 40 | [Just For A Moment \(feat\. Dende\) \- \(Acoustic\)](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
 | 41 | [Another Heartbreak](https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Another Heartbreak](https://open.spotify.com/album/0PY6nhGDYTVIQdf2XmRFhj) | 3:37 |
 | 42 | [Nobody Nobody](https://open.spotify.com/track/7gyZG8D3U8kYFqvju6QFU1) | [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [Nobody Nobody](https://open.spotify.com/album/5OeWWL9h4ujWCSoqSKcbX8) | 2:01 |
 | 43 | [Stuntin](https://open.spotify.com/track/0kOIgPakbZqEDMoUX1qiSR) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Payback Is A Dog](https://open.spotify.com/album/0wcQqcmAoYqsp835JHZ6rV) | 3:18 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 196 | [Therapy](https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Therapy](https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z) | 2:03 |
 | 197 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 |
 
-Snapshot ID: `AAAAAKnayAbxpfVAFGp/CU3CcYCE38DY`
+Snapshot ID: `AAAAAHa1axecYyKi1Hb8lHl0T3wsMpei`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Jamback
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,996 likes - 120 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,039 likes - 120 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 119 | [Rock Ya Soul](https://open.spotify.com/track/3JgIW0wTM4OnYCdB681PwR) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Rock Ya Soul EP](https://open.spotify.com/album/5Ys7C0Wc4qLf1UUQqye6b0) | 6:27 |
 | 120 | [Yosemite \- Philip George Remix](https://open.spotify.com/track/7Ix1YfRHAELxNIFqkzQdWl) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV) | [Yosemite \(Philip George Remix\)](https://open.spotify.com/album/3ICO7iCL1VhEtbt4fSJ46Y) | 4:35 |
 
-Snapshot ID: `AAAAAKGgpI0/v7CDMjvJA7sEE8HnE1A/`
+Snapshot ID: `AAAAAF/LyoSiO1yC86o8Ze6Jfn9dwqeZ`

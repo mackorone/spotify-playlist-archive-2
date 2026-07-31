@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-28",
-  "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
+  "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena",
   "name": "Ranchera Chilena",
   "tracks": [
     {
@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "De Cantina En Cantina",
+        "url": "https://open.spotify.com/album/0ZciHRolrK7RBu1v29hHJr"
+      },
+      "artists": [
+        {
+          "name": "La Descendencia Chilena",
+          "url": "https://open.spotify.com/artist/1K32xjhUxJktdl9aaCwK4n"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179456,
+      "name": "De Cantina En Cantina",
+      "url": "https://open.spotify.com/track/785Iv6q0utBtr7ymPgHArE"
+    },
+    {
+      "album": {
         "name": "De los Besos Que Te Di",
         "url": "https://open.spotify.com/album/7C6m8Ksv2KePPs31KhrWpD"
       },
@@ -942,7 +960,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 156281,
       "name": "El Caballo Blanco",
       "url": "https://open.spotify.com/track/6dyy250Elf7UUjL5p6m84R"
@@ -1511,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/3uzaS6D2FiktrOOz8q8Uwe"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Quilleco",
+          "url": "https://open.spotify.com/artist/1rRjhEozUEpIHwGveSLhqx"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229084,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/3K1eKkz623cGkxHDr3IAo1"
+    },
+    {
+      "album": {
         "name": "La Carta N\u00b0 3",
         "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
       },
@@ -1894,7 +1930,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 185019,
       "name": "Lo Que Nunca Fue Tuyo",
       "url": "https://open.spotify.com/track/48bH3xnKLlQmHFZwOlZlrN"
@@ -2960,7 +2996,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 173677,
       "name": "Tio Borrachales",
       "url": "https://open.spotify.com/track/51RQ8sG1m8gldM1oEM0OkE"
@@ -3320,6 +3356,28 @@
       "duration_ms": 275676,
       "name": "Ya Sup\u00e9rame",
       "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
+    },
+    {
+      "album": {
+        "name": "AMORES DE CAMPO 2",
+        "url": "https://open.spotify.com/album/5xxTZuXauHpsomQvneYw9n"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Ormaz\u00e1bal",
+          "url": "https://open.spotify.com/artist/1ON2OvVHfEwUM9KZg3N0oT"
+        },
+        {
+          "name": "Alanys Lagos",
+          "url": "https://open.spotify.com/artist/7zYKWRlWkeaKjRLAeEsJzS"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218409,
+      "name": "YO TE CUIDAR\u00c9",
+      "url": "https://open.spotify.com/track/1pfWuXWCfa8r6BQwBN4iit"
     },
     {
       "album": {

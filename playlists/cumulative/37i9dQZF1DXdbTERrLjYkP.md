@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Isabel van Gelder
 
-1,121 songs - 2 day 12 hr 23 min
+1,122 songs - 2 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -795,6 +795,7 @@
 | [Queen of Hollywood](https://open.spotify.com/track/6gSA54ZcMahgDve60MlqJC) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Queen of Hollywood](https://open.spotify.com/album/1KqfJ8A0XHIPWmFxObJB49) | 4:56 | 2024-04-05 | 2024-05-25 |
 | [Queen of Texas](https://open.spotify.com/track/5SnAkhrhPXKRSCuvGjCM1s) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Queen of Texas](https://open.spotify.com/album/3XFMsDqtgYA0ImMRJW4e7e) | 3:09 | 2026-03-06 | 2026-06-26 |
 | [Quicksand](https://open.spotify.com/track/3lsMNvo9HDOK4YKXwbtWAu) | [Olivia Broadfield](https://open.spotify.com/artist/6PdwpyZMhQyBzwa70feMmM) | [The Split: Barcelona](https://open.spotify.com/album/619dyqE4hMunCbOeWwaerD) | 4:01 | 2025-01-03 | 2025-04-19 |
+| [Rabies](https://open.spotify.com/track/4bb4b8LxkX5HpUU9THfBQQ) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5), [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Rabies](https://open.spotify.com/album/5tfVxiVnjr3e6a5jgBKqKq) | 3:32 | 2026-07-31 |  |
 | [rage](https://open.spotify.com/track/0Ed5MKGIAIMYiW86M7qumt) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [the girl next door](https://open.spotify.com/album/3MaPbB8htJFUCWQwUW0SjP) | 2:37 | 2022-04-22 | 2022-07-16 |
 | [Rain](https://open.spotify.com/track/1BRkplLPKZ4g9wsiA8hIth) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Rain](https://open.spotify.com/album/43iRFJBKyigjwAIXnCBSEt) | 4:15 | 2024-11-15 | 2025-01-25 |
 | [Raining in June](https://open.spotify.com/track/7oHcx5tDMNr2YyyilaxsyG) | [Olivia Klugman](https://open.spotify.com/artist/3SEtmo8E5DJVuGddKYqeiU) | [Raining in June](https://open.spotify.com/album/3ceqN8cAMEoULjPmSytTNc) | 2:46 | 2022-01-14 | 2022-03-18 |
@@ -821,7 +822,7 @@
 | [Rocket Woman](https://open.spotify.com/track/2PtZMicbDMbAYWpBzR8g3I) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Rocket Woman](https://open.spotify.com/album/3QF644FWqbPiCeDZMNMFwM) | 3:37 | 2024-07-12 | 2024-08-24 |
 | [Role Model](https://open.spotify.com/track/7EbHleMQStqGD7YKiCeBmz) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Role Model](https://open.spotify.com/album/2mHWAQ08dnXOPh3ddrQqJ6) | 2:11 | 2023-05-05 | 2023-10-01 |
 | [rom com](https://open.spotify.com/track/621v7nXYzhMpRZwshVB0ZV) | [Sara Baroni](https://open.spotify.com/artist/4pjOlW7P9PpmsMyJvksXBq) | [rom com](https://open.spotify.com/album/3EwJ3FzBGDRElfF1aqLdLE) | 3:28 | 2026-06-19 |  |
-| [Roses](https://open.spotify.com/track/4STDViDVw1BrMhT3LqSNXT) | [Iris Copperman](https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD) | [Middle School Dropout](https://open.spotify.com/album/4tFRlMuaPBCKK9pqqIeZh9) | 3:10 | 2026-04-03 |  |
+| [Roses](https://open.spotify.com/track/4STDViDVw1BrMhT3LqSNXT) | [Iris Copperman](https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD) | [Middle School Dropout](https://open.spotify.com/album/4tFRlMuaPBCKK9pqqIeZh9) | 3:10 | 2026-04-03 | 2026-07-31 |
 | [Roses](https://open.spotify.com/track/0k9KbFbpye6K8VPbA0HT7J) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Roses](https://open.spotify.com/album/1OdBCJQCZJFvYRvDz85STj) | 3:27 | 2023-11-10 | 2024-01-20 |
 | [Rot](https://open.spotify.com/track/0aJGy2MSYASu0LMValJyyZ) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [Ramona](https://open.spotify.com/album/2HCGmvj96bD2W37182wvlR) | 3:12 | 2025-08-15 | 2025-10-11 |
 | [Ruin A Good Thing](https://open.spotify.com/track/1WBCT1X3icl0ElsOXxxg25) | [Lottie McLeod](https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9) | [Bug](https://open.spotify.com/album/2cMqGu1camh7KGSPLUhO5w) | 3:19 | 2025-05-30 | 2025-09-23 |

@@ -5217,6 +5217,32 @@
     },
     {
       "album": {
+        "name": "Fate",
+        "url": "https://open.spotify.com/album/1sr9QYJPgXF3QBOQYLoUH3"
+      },
+      "artists": [
+        {
+          "name": "ATHR",
+          "url": "https://open.spotify.com/artist/1F8ByaNgwW3Bbdk5NkbU36"
+        },
+        {
+          "name": "Margad",
+          "url": "https://open.spotify.com/artist/0q9Rikyw58WDoqfQpp70kM"
+        },
+        {
+          "name": "not gonna lie",
+          "url": "https://open.spotify.com/artist/34CgjSR3UnCPOtz2ORcbe6"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208764,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/4fDRZuESEfDld5kEzASwsN"
+    },
+    {
+      "album": {
         "name": "Favorite Sound",
         "url": "https://open.spotify.com/album/2RbAX9xPMDbBukM2YYAJh3"
       },
@@ -5488,6 +5514,24 @@
       "duration_ms": 256000,
       "name": "feeling something",
       "url": "https://open.spotify.com/track/1Sp9umOnqKXjsqhELwazBY"
+    },
+    {
+      "album": {
+        "name": "Feels Better",
+        "url": "https://open.spotify.com/album/0f3Qgyja5s3Jwd2N0nQjy5"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Feels Better",
+      "url": "https://open.spotify.com/track/3uSA8WOOPx9wewjTyiFAGa"
     },
     {
       "album": {
@@ -7480,6 +7524,24 @@
       "duration_ms": 221311,
       "name": "Home",
       "url": "https://open.spotify.com/track/7LcoNxnl1UpDTVlFxyWuc7"
+    },
+    {
+      "album": {
+        "name": "homesick",
+        "url": "https://open.spotify.com/album/4YGGZDvvltveAMbYLkOwFl"
+      },
+      "artists": [
+        {
+          "name": "Sonnee",
+          "url": "https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173069,
+      "name": "homesick",
+      "url": "https://open.spotify.com/track/5SBrn7L35d5WU5mpOPsxr4"
     },
     {
       "album": {
@@ -13019,6 +13081,28 @@
     },
     {
       "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/36z1FloUfKT1sU0jwBGE1l"
+      },
+      "artists": [
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        },
+        {
+          "name": "1 World",
+          "url": "https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140102,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/44sJ8Y4MgY5gJMV5aNKD6P"
+    },
+    {
+      "album": {
         "name": "Of Joy",
         "url": "https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7"
       },
@@ -16045,6 +16129,32 @@
     },
     {
       "album": {
+        "name": "Settle Down",
+        "url": "https://open.spotify.com/album/0XaMLygAWgnpiOLE9RpuqC"
+      },
+      "artists": [
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        },
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        },
+        {
+          "name": "Rowland Giles",
+          "url": "https://open.spotify.com/artist/3Rn5HY9wLXdCBe8iDWINBP"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192424,
+      "name": "Settle Down",
+      "url": "https://open.spotify.com/track/3fA8eGFtEoQDu3vKsc5uqX"
+    },
+    {
+      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/3RvyOtHmRJNPzQXhSB7Ych"
       },
@@ -17172,6 +17282,32 @@
       "duration_ms": 365461,
       "name": "Still",
       "url": "https://open.spotify.com/track/22h6eRtujclF21iJkhjgWd"
+    },
+    {
+      "album": {
+        "name": "Still Blessed",
+        "url": "https://open.spotify.com/album/4SAPnm473F3d3WgONaE5DO"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Alecc Crisostomo",
+          "url": "https://open.spotify.com/artist/0K8VpMGpOGfQeqoAx5hSef"
+        },
+        {
+          "name": "D38",
+          "url": "https://open.spotify.com/artist/0x1B0bD5jSY4Py6VWB66Fe"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180564,
+      "name": "Still Blessed",
+      "url": "https://open.spotify.com/track/1Z8sB1Xk39NbI4jTK7PVZ7"
     },
     {
       "album": {

@@ -1973,6 +1973,28 @@
     },
     {
       "album": {
+        "name": "Fissaman's Friend",
+        "url": "https://open.spotify.com/album/01rR0r7etBk96z86dkwOXk"
+      },
+      "artists": [
+        {
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163750,
+      "name": "Fissaman\u2019s Friend",
+      "url": "https://open.spotify.com/track/3tvMPPSySL0hqIPRk5Exwq"
+    },
+    {
+      "album": {
         "name": "Finally Over It",
         "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },

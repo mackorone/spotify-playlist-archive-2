@@ -2,7 +2,7 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits avec Shakira & Burna Boy
+> Le meilleur des hits avec Jennifer Lopez & David Guetta
 
 520 songs - 1 day 2 hr 56 min
 
@@ -34,7 +34,7 @@
 | [Allons Voir](https://open.spotify.com/track/7jDBI4HB9zYxySDAbN54iW) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Allons Voir](https://open.spotify.com/album/14J8yvy5eUlDnxN266550W) | 3:49 | 2026-01-22 | 2026-03-20 |
 | [Allons Voir](https://open.spotify.com/track/6DyU6qoDWGQkkzY0SSJWxm) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Labyrinthe](https://open.spotify.com/album/6Dlr1OhxAWl5JIE7bUwS6X) | 3:49 | 2026-03-26 | 2026-04-10 |
 | [Almost](https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Almost](https://open.spotify.com/album/5Z3pArkP5MFDBRsjUWd6zC) | 3:40 | 2026-02-26 | 2026-03-13 |
-| [Almost](https://open.spotify.com/track/7xeA5NeBPLzgD2nEkfNKpo) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 3:40 | 2026-03-19 |  |
+| [Almost](https://open.spotify.com/track/7xeA5NeBPLzgD2nEkfNKpo) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive \- EP](https://open.spotify.com/album/4HXHuDnVGEl2Mwz6X1xlOe) | 3:40 | 2026-03-19 | 2026-07-31 |
 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-04-09 | 2026-06-19 |
 | [Amour cyclone](https://open.spotify.com/track/7BoQ3BKIGuJ7jNELvegsdb) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Fille lacrymale](https://open.spotify.com/album/0CUK4fhtoGwwjh18Q02LMd) | 2:58 | 2025-06-19 | 2025-06-27 |
 | [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-10-05 | 2023-11-25 |
@@ -229,7 +229,7 @@
 | [Is It Love](https://open.spotify.com/track/5JEzgajKcC4eIQfRu3cZk7) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Is It Love](https://open.spotify.com/album/6fYOQSJpXKdVBkD09Kg2lf) | 2:23 | 2023-12-14 | 2024-07-12 |
 | [It's Not Right But It's Okay](https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [It's Not Right But It's Okay](https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO) | 2:32 | 2024-07-25 | 2024-12-13 |
 | [J'avoue](https://open.spotify.com/track/7mqmImC3Ws0d2MDpxCO4aj) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [J'avoue](https://open.spotify.com/album/0ukWeSJW5TCjrcYOiniwMq) | 3:09 | 2025-05-22 | 2025-10-24 |
-| [j'me demande](https://open.spotify.com/track/2u0lUrmXGvHO2Eu2A7RFWb) | [Ambre](https://open.spotify.com/artist/28YPWin68aYoxfouVteGYQ) | [j'me demande](https://open.spotify.com/album/6oo1wbYYRmDwQWmMLWKMoP) | 3:08 | 2026-07-02 | 2026-07-10 |
+| [j'me demande](https://open.spotify.com/track/2u0lUrmXGvHO2Eu2A7RFWb) | [Ambre](https://open.spotify.com/artist/28YPWin68aYoxfouVteGYQ) | [j'me demande](https://open.spotify.com/album/6oo1wbYYRmDwQWmMLWKMoP) | 3:08 | 2026-07-02 |  |
 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 | 2023-07-27 | 2023-09-15 |
 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 | 2026-06-11 |  |
 | [Je cours \(feat\. Nuit Incolore\)](https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Le chemin \- 20 ans](https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz) | 2:50 | 2023-12-07 | 2024-05-17 |
@@ -280,7 +280,7 @@
 | [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/track/05N2CVEkUbEd0slHLapdER) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Leave a Light On \(Talk Away The Dark\)](https://open.spotify.com/album/6Rhl0PXrNpvezhUrwXZnBa) | 3:06 | 2025-06-26 | 2025-07-04 |
 | [Les choses qu'on fait](https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Les choses qu'on fait](https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc) | 3:16 | 2023-07-27 | 2023-11-18 |
 | [les filles, les meufs](https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les filles, les meufs](https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY) | 2:59 | 2025-05-29 | 2025-10-10 |
-| [Les nouveaux soleils \- Single Version](https://open.spotify.com/track/1Rt2B1x76Vguf3gCxqnxdl) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Les nouveaux soleils](https://open.spotify.com/album/4uCKWYMoIEfOGjTDxYOj8z) | 3:58 | 2026-07-02 | 2026-07-10 |
+| [Les nouveaux soleils \- Single Version](https://open.spotify.com/track/1Rt2B1x76Vguf3gCxqnxdl) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Les nouveaux soleils](https://open.spotify.com/album/4uCKWYMoIEfOGjTDxYOj8z) | 3:58 | 2026-07-02 |  |
 | [Les petites gens \- Radio Edit](https://open.spotify.com/track/0xULefKNTqOSzZQK7CJznN) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents](https://open.spotify.com/album/1NDL8FBENqOHbkcrmDmA0e) | 3:33 | 2023-11-16 | 2023-12-15 |
 | [Les épines du coeur](https://open.spotify.com/track/528bsq0Nv6EbJuiddhkUPu) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Le retour des beaux jours](https://open.spotify.com/album/4NpPSdsNRvq41m71cn46uO) | 2:52 | 2026-03-12 | 2026-07-17 |
 | [Les étoiles](https://open.spotify.com/track/656reMy5BDuXUbNRr7oeg3) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Sentiments Heureux \(nan j'déconne\)](https://open.spotify.com/album/1w0eAL8YxKe9MVvZdNtUqH) | 3:27 | 2024-01-09 | 2024-06-07 |

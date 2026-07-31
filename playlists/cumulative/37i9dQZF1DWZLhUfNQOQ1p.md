@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano 🥃
 
-463 songs - 1 day 6 hr 56 min
+465 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Curious Eyes](https://open.spotify.com/track/7F0wdlppROi8NADjQvsql6) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Runnin' With Curious Eyes](https://open.spotify.com/album/7jm9usCJVL352gaZxZmhS2) | 3:25 | 2021-08-05 | 2022-07-28 |
 | [Da Fonk \(feat\. Joni\) \- \[Dub\]](https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\)](https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz) | 5:51 | 2023-10-30 |  |
 | [Dance Boys \(Feat\. Paulita Demaíz\)](https://open.spotify.com/track/0h7r57THNIdUrOYmPT7Zya) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai) | [Tonight](https://open.spotify.com/album/7FPRkvo8RatLUCmByPgmFT) | 3:45 | 2023-05-14 | 2023-05-30 |
+| [Dance Dance Dance!](https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance Dance Dance!](https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r) | 3:37 | 2026-07-30 |  |
 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 | 2023-07-07 | 2025-06-23 |
 | [Dancefleur Dream \- Dance Rituals](https://open.spotify.com/track/7xnnj73WCoRnWUveOWrS9f) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow) | [Dancefleur Dream \(Dance Rituals\)](https://open.spotify.com/album/4Wppqf7QALWWe22dRrhSS4) | 3:16 | 2026-03-19 | 2026-04-25 |
 | [Danza Organica](https://open.spotify.com/track/4bLuMAVUgd6nATmUt6K65p) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Italianissimo EP](https://open.spotify.com/album/0nHgSQx4sKmFItKIm8M8rt) | 3:00 | 2023-05-14 | 2023-05-30 |
@@ -295,7 +296,7 @@
 | [Nicaraguan Dream](https://open.spotify.com/track/2NQ6In9ja7fBeBI9ADmMWB) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Dazed And Amazed](https://open.spotify.com/album/4GhOIDimNe1i5B8KCSnW3B) | 4:31 | 2021-08-05 | 2022-07-29 |
 | [Nostalgia](https://open.spotify.com/track/2gRvo8CD3AhT3OoQ4Nx6ww) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Nostalgia](https://open.spotify.com/album/1ES331p0jHfsSykO8bsOmT) | 5:48 | 2024-07-17 | 2025-02-28 |
 | [Nothing Better Than Music](https://open.spotify.com/track/4eZafPjosGlJF6QVxeTdUS) | [GENNARO](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [Nothing Better Than Music](https://open.spotify.com/album/0cBWTiLeGxFpAk5JwbX9S3) | 2:35 | 2025-03-21 |  |
-| [Now You Feel](https://open.spotify.com/track/6ByIvhZp1fSV8uh31UFQyT) | [Flying Moth](https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7) | [Onda](https://open.spotify.com/album/7LCrYes3eU6PLWBJGJjRGw) | 5:46 | 2026-05-21 |  |
+| [Now You Feel](https://open.spotify.com/track/6ByIvhZp1fSV8uh31UFQyT) | [Flying Moth](https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7) | [Onda](https://open.spotify.com/album/7LCrYes3eU6PLWBJGJjRGw) | 5:46 | 2026-05-21 | 2026-07-31 |
 | [Nuit d'Afrique](https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Adrien \(CA\)](https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ) | [Kindisch Presents: Kindisch Steps VI](https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy) | 11:59 | 2021-08-05 | 2023-05-31 |
 | [Okay Okay](https://open.spotify.com/track/0No2QwwffZCcZBZjG7Q73b) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [...Balla!](https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE) | 4:18 | 2024-05-19 | 2024-06-03 |
 | [On the Beach](https://open.spotify.com/track/5QrNXvTQEuBb5iLoIAAuvk) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [New Light Through Old Windows](https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH) | 3:41 | 2024-05-19 | 2024-06-03 |
@@ -423,6 +424,7 @@
 | [Too Late](https://open.spotify.com/track/3eBhdxzIt6VcPVexAA68QT) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Too Late](https://open.spotify.com/album/382z8u63FgB7ul2fDoFz1l) | 3:56 | 2023-05-14 | 2023-05-30 |
 | [Torpi](https://open.spotify.com/track/28ZVZWZK8ygk9YeMSU1HA6) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [Contenta Tu](https://open.spotify.com/album/2G0RfjMicf8UkcNat62p0e) | 4:11 | 2023-05-14 | 2023-05-30 |
 | [Touch My Heart](https://open.spotify.com/track/63ErA9Ve07ztCZTaaJ8yO7) | [Madleen Kane](https://open.spotify.com/artist/2nCH7NlCpkfhzJMS4opstC) | [Rough Diamond](https://open.spotify.com/album/5ENQf6cVALR7MGWP50D7xY) | 5:35 | 2023-05-14 | 2023-05-30 |
+| [Travelling](https://open.spotify.com/track/4CEMsS2qz4JScCJlV2mNbg) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Travelling](https://open.spotify.com/album/2sNUqlx4pyjnMstGPGkZ6u) | 2:46 | 2026-07-30 |  |
 | [Treat Me Right \- Instrumental](https://open.spotify.com/track/7AFImE2Z2j8orgVVc5MgoM) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [Treat Me Right](https://open.spotify.com/album/5bmQcoWunv50RmZmNMj858) | 3:41 | 2021-08-05 | 2023-05-31 |
 | [Trembling](https://open.spotify.com/track/4lgaqqxbWLnc32Iy6gBjyd) | [Maiwan](https://open.spotify.com/artist/7Bv1SZbrpTYQixKfQgCzsI) | [Fugue State](https://open.spotify.com/album/6u4X16JVGz3WBj2x4t6rjg) | 3:48 | 2021-08-05 | 2023-05-08 |
 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 | 2025-07-03 |  |
@@ -444,7 +446,7 @@
 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 | 2021-08-05 | 2023-05-31 |
 | [Várias Queixas \- Radio Edit](https://open.spotify.com/track/7wjaRyfALrdFBJnuJeACy2) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Várias Queixas \(Radio Edit\)](https://open.spotify.com/album/32STej6H2qql7VD4uwt8Vz) | 2:35 | 2023-05-30 |  |
 | [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 | 2024-12-05 |  |
-| [Waiting So Long](https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Waiting So Long](https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h) | 3:54 | 2025-11-13 |  |
+| [Waiting So Long](https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Waiting So Long](https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h) | 3:54 | 2025-11-13 | 2026-07-31 |
 | [Walking On A Dream](https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/3qFui1PcteHFky44CeUflG) | 3:18 | 2023-10-20 | 2024-01-27 |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2023-06-22 | 2023-10-27 |
 | [Wap\-Bam\-Boogie](https://open.spotify.com/track/5qQgHAGv8IVlawD9dypc1b) | [Matt Bianco](https://open.spotify.com/artist/1WQky50vkzSvSCUl0ejWqb) | [Indigo \(Expanded\)](https://open.spotify.com/album/5WSFIeMmLU0okGEKsuxPQ4) | 7:32 | 2024-05-19 | 2024-06-03 |

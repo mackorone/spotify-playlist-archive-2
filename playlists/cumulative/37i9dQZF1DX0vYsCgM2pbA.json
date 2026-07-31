@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Body Step",
+        "url": "https://open.spotify.com/album/5URnN4y5b5KeKrmg5c3JGA"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307786,
+      "name": "Body Step",
+      "url": "https://open.spotify.com/track/23Kpkv7C3YRnFQTnjAeppb"
+    },
+    {
+      "album": {
         "name": "Bop",
         "url": "https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj"
       },
@@ -1572,7 +1590,7 @@
           "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
         },
         {
-          "name": "cherry chola",
+          "name": "Cherry Chola",
           "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
         }
       ],
@@ -2440,7 +2458,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 260000,
       "name": "Garden (Bang Goes the Drum)",
       "url": "https://open.spotify.com/track/3XBIRvFmD3Az0karsCXVr3"
@@ -2864,7 +2882,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 198693,
       "name": "Heartbeats - Logic1000 Remix",
       "url": "https://open.spotify.com/track/3Dc5AOVwCpI5KBJArPgsqx"
@@ -3400,6 +3418,28 @@
       "duration_ms": 165978,
       "name": "Into You - Vienna Nights Mix",
       "url": "https://open.spotify.com/track/461hznkAq17ywDHFzqA34b"
+    },
+    {
+      "album": {
+        "name": "IOU (with BRUX)",
+        "url": "https://open.spotify.com/album/2GWCMY4iqlcvI44hIvIimD"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "date_added": "2026-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229853,
+      "name": "IOU (with BRUX)",
+      "url": "https://open.spotify.com/track/5yFBIENkIOeJY1mkjxKG3o"
     },
     {
       "album": {
@@ -5688,7 +5728,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 227555,
       "name": "Special Attempt",
       "url": "https://open.spotify.com/track/1aygNf9lxUNTO0V85Jgpd3"
@@ -6798,6 +6838,28 @@
       "duration_ms": 248169,
       "name": "Waiting for Nothing (feat. Yaeger)",
       "url": "https://open.spotify.com/track/4vnPji7QI3Bt3XDZxfDAXr"
+    },
+    {
+      "album": {
+        "name": "WannaCry",
+        "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219367,
+      "name": "WannaCry",
+      "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
     },
     {
       "album": {

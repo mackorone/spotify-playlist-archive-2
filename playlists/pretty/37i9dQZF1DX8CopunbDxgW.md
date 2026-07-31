@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > thank you Barry Can't Swim for all these bops 🙏  metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,392 likes - 99 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,358 likes - 99 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 98 | [MOVEMENT](https://open.spotify.com/track/31sJ3wOwiCIZu1iMLJVv8t) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [MOVEMENT](https://open.spotify.com/album/1Ai8Fe6169Y9K0sXUHbEyQ) | 3:27 |
 | 99 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 
-Snapshot ID: `AAAAADlpcLYOxqXshs2IFbbqkC2hhepu`
+Snapshot ID: `AAAAALZdIja0va9EhaRLeDbkFJE/kBBW`

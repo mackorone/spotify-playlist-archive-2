@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Next of Kin
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,009 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,021 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 49 | [Never Have I Ever](https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Never Have I Ever](https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z) | 2:54 |
 | 50 | [Joke's On Me](https://open.spotify.com/track/3GFyLwl2NTYggGoJ6qk84U) | [Kathryn Gallagher](https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD) | [Joke's On Me](https://open.spotify.com/album/4EFWXnsRVyJ79VFgrS702u) | 3:31 |
 
-Snapshot ID: `AAAAAEjoRRa+o3q/5O+Y4o6gnBJ6U9XK`
+Snapshot ID: `AAAAACzaxTr976grC35tYCVzJ1ZRQFAB`

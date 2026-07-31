@@ -17231,6 +17231,24 @@
     },
     {
       "album": {
+        "name": "AFTERDOPAMYNE",
+        "url": "https://open.spotify.com/album/6KfgIIVc5kUvBnMmQzjob8"
+      },
+      "artists": [
+        {
+          "name": "DISSONANT",
+          "url": "https://open.spotify.com/artist/3XYNgEne3ULFkzHdtXXUpl"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154067,
+      "name": "REBORN",
+      "url": "https://open.spotify.com/track/14xy96mlVAmznohNLXRO5j"
+    },
+    {
+      "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/29Pgnwt520inhPBgYzKOy4"
       },
@@ -20592,7 +20610,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 152500,
       "name": "Temporale",
       "url": "https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk"

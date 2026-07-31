@@ -4,7 +4,7 @@
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
 
-211 songs - 12 hr 46 min
+212 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bençãos Que Não Tem Fim • BRAVE Pocket](https://open.spotify.com/track/2lR7nwKTKpxDbcpNKcqRYU) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Igor Zolla](https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX) | [Bençãos Que Não Tem Fim • BRAVE Pocket](https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH) | 2:59 | 2024-06-21 |  |
 | [Bom Ânimo](https://open.spotify.com/track/5MYnTJlPVqp9oiAmeUiW8F) | [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Bom Ânimo](https://open.spotify.com/album/0CfAnKQwuN2MVy93bPPP4Z) | 2:56 | 2023-01-20 |  |
 | [Cabelo](https://open.spotify.com/track/71EkYt2dkyADEe2Go8lkum) | [Marias](https://open.spotify.com/artist/6yDG1IZDMLxh1M82PFOLgM), [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Cabelo](https://open.spotify.com/album/0liFFSCDjUALqeKB6HIMGj) | 2:42 | 2024-04-19 | 2024-06-22 |
-| [Caminhada](https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Leif Bessa \- Acústico](https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb) | 4:40 | 2022-08-05 |  |
+| [Caminhada](https://open.spotify.com/track/33LKIhveYStd9afVAH9ZNF) | [Leif Bessa](https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV) | [Leif Bessa \- Acústico](https://open.spotify.com/album/0sl4n0h3mwAq085w4VkEYb) | 4:40 | 2022-08-05 | 2026-07-31 |
 | [Casulo](https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Casulo](https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva) | 3:39 | 2022-08-05 |  |
 | [CHAVE](https://open.spotify.com/track/7iCASj4hDCB7Zz4mI7JNri) | [Arthur Martins](https://open.spotify.com/artist/1DqIsYBAF5gtBsKQI5dPXd) | [CHAVE](https://open.spotify.com/album/4vY4bNvByOAnpgiMrgoCZ6) | 3:07 | 2024-06-14 | 2024-10-26 |
 | [Come and Be My Love](https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Come and Be My Love](https://open.spotify.com/album/7cBoHY7VgpIUChSQS59R85) | 2:42 | 2022-08-05 | 2022-10-15 |
@@ -69,6 +69,7 @@
 | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/track/4dSSiThOk4gCNJseSdZXym) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Em Teus Braços / Oh Quão Lindo Esse Nome É](https://open.spotify.com/album/5TXGb6VRKMC5pnLDOsTcoI) | 4:32 | 2022-08-05 | 2024-09-28 |
 | [Emmanuel](https://open.spotify.com/track/5NXZYKGAqyFujV44E6dybJ) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Emmanuel](https://open.spotify.com/album/0pB7O6wdVXRZ1g30yxws1o) | 2:45 | 2023-03-17 | 2023-07-15 |
 | [Enganoso Coração](https://open.spotify.com/track/61vB9Mg9vX8G4uwLKmn2n9) | [Bea Rodrigues](https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i) | [Enganoso Coração](https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx) | 3:10 | 2024-06-21 |  |
+| [Enredo](https://open.spotify.com/track/3HbMzYXjMj7q7vRVQzLu7U) | [Dani Ramalho](https://open.spotify.com/artist/5ROPaT19WX6VxHSHHSGsXe), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [TAIOLI](https://open.spotify.com/artist/0tP7dJbLOlpbdFmQCTbSXu) | [Enredo](https://open.spotify.com/album/45kS47qtEiGnkN5SjyEOAE) | 3:53 | 2026-07-30 |  |
 | [Ensimesmo \- Acústico](https://open.spotify.com/track/690Rz5W01uGPGm754L5diO) | [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK), [Midian Nascimento](https://open.spotify.com/artist/2SlY9FvHwUMC2kyrgbCLtE) | [Vivente Acústico](https://open.spotify.com/album/1dzFWWFq7oEdbCc5xa2SN8) | 3:32 | 2022-08-05 | 2023-06-03 |
 | [Entardecer](https://open.spotify.com/track/7dc6mrQJRolSAjV8PlAm2A) | [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq), [Thiago Ramalho](https://open.spotify.com/artist/5maeLmILKilfauXPQFcemJ) | [Entardecer](https://open.spotify.com/album/3vK0UgEbZSAvTOQRfVIxL0) | 3:38 | 2025-05-23 |  |
 | [Entre Milhões](https://open.spotify.com/track/2V4oWQWf6LKvEEsSskyM2j) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Margem Norte](https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1) | [Entre Milhões](https://open.spotify.com/album/24zbpVWJfdko6LTVjDHJhJ) | 4:11 | 2023-06-16 |  |

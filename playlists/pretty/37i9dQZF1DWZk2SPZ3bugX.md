@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 
 > 🍾
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,482 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,492 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 51 | [My Temptations](https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [My Temptations](https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU) | 3:11 |
 | 52 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 |
 | 53 | [KILIMINI](https://open.spotify.com/track/1WZ2VE0DFne0VN5NzOdBEy) | [Ajar](https://open.spotify.com/artist/46OlTXwi8hanoxXHTE7E5z) | [BLEU MÉDITERRANÉE](https://open.spotify.com/album/6JP3vTxoeonxqKzGaQfI1i) | 2:24 |
-| 54 | [Sound of You \(ft\. TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft\. TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 |
+| 54 | [Sound of You \(ft TEED\)](https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Sound of You \(ft TEED\)](https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw) | 3:56 |
 | 55 | [L'intranquillité](https://open.spotify.com/track/5wlP1eAUgaETs3u2VlrU1z) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH), [Lulu Gainsbourg](https://open.spotify.com/artist/5W38lYXVLIEfyTFBQKTfmX), [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY) | [L'intranquillité](https://open.spotify.com/album/5HHMb6ROHLzBF3MnrzoVxQ) | 4:20 |
 | 56 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
 | 57 | [Love Bites Back](https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Love Bites Back](https://open.spotify.com/album/1r7EMLI4RNk6vZjcKy5Son) | 3:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZk2SPZ3bugX.md) - [plain]
 | 59 | [Upside Down](https://open.spotify.com/track/6sxRO2iJhe3hNU9HP1uJGI) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Upside Down](https://open.spotify.com/album/0ViDharMjqxwOoHFmU9Esx) | 3:27 |
 | 60 | [MISTRAL EN HIVER](https://open.spotify.com/track/18K1Ho4UzlXHAsgCl9QQ05) | [Ajar](https://open.spotify.com/artist/46OlTXwi8hanoxXHTE7E5z) | [MISTRAL EN HIVER](https://open.spotify.com/album/6CwGh54TpRCawYWGa5GsYY) | 2:30 |
 
-Snapshot ID: `AAAAAPclQ9+bI/2Xgdes3accUqDCbwcL`
+Snapshot ID: `AAAAANgC6U0CIkFPbkKD5a9wsLU1zNvN`

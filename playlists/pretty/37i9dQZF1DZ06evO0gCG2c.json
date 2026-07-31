@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 345243,
+  "num_followers": 345285,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAABQC4QiCGvivN0unwRbGu1G",
+  "snapshot_id": "amlCgAAAAADzdOgIaEMuCbAbF2+G91qk",
   "tracks": [
     {
       "added_at": null,
@@ -487,30 +487,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HONEY",
-        "url": "https://open.spotify.com/album/2PCSMP8JYKfYvBv2AZ4SaN"
+        "name": "BEAUTIFUL DAY",
+        "url": "https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa"
       },
       "artists": [
         {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
-        },
-        {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        },
-        {
-          "name": "Halle Abadi",
-          "url": "https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW"
         }
       ],
-      "duration_ms": 162750,
-      "name": "HONEY",
-      "url": "https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3"
+      "duration_ms": 157278,
+      "name": "AKON'S BEAUTIFUL DAY",
+      "url": "https://open.spotify.com/track/355StcShfdvt9gf4m863gm"
     },
     {
       "added_at": null,
@@ -539,18 +527,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEAUTIFUL DAY",
-        "url": "https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa"
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/2PCSMP8JYKfYvBv2AZ4SaN"
       },
       "artists": [
         {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        },
+        {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Halle Abadi",
+          "url": "https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW"
         }
       ],
-      "duration_ms": 157278,
-      "name": "AKON'S BEAUTIFUL DAY",
-      "url": "https://open.spotify.com/track/355StcShfdvt9gf4m863gm"
+      "duration_ms": 162750,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/09hwTvcIp4AK8nKDDHZppF"
-      },
-      "artists": [
-        {
-          "name": "Kardinal Offishall",
-          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/0b0jmVQZ0rxs69RGq2WCu2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kush",
         "url": "https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 235120,
       "name": "Kush - Main",
       "url": "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/09hwTvcIp4AK8nKDDHZppF"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0b0jmVQZ0rxs69RGq2WCu2"
     },
     {
       "added_at": null,

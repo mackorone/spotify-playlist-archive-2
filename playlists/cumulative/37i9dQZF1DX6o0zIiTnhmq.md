@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-201 songs - 2 day 1 hr 5 min
+202 songs - 2 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,13 +12,14 @@
 | [Aditya Hridayam Stotram](https://open.spotify.com/track/4nmJEQJm47VIgcQxXtbONu) | [Bhakti Choir](https://open.spotify.com/artist/3hFVgyDqcY7Od03ErfoxEl) | [Aditya Hridayam Stotram](https://open.spotify.com/album/5EnMGmc66Q5ZkFmc9v5G59) | 8:05 | 2026-05-20 |  |
 | [Adya Stotram](https://open.spotify.com/track/26n2T6Zy7PWoDO1ISWXOnX) | [Soumitra Bhattacharya](https://open.spotify.com/artist/1zUtY9pqnaJfZlYXRc3PFj) | [Adya Stotram](https://open.spotify.com/album/1bhUr8o8d1fgcuq8yuFnmW) | 5:50 | 2025-02-20 | 2025-03-08 |
 | [Aham Brahmasmi](https://open.spotify.com/track/3xVv0QfLmeJt8EkSCUim4M) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras & Chants](https://open.spotify.com/album/0Yr36b0evAmbg8VQVrdSnN) | 11:41 | 2022-01-24 |  |
-| [Ajna Mantra for Third Eye Chakra with OM Sound](https://open.spotify.com/track/4HsePatOkDkoZLMZuWxAj6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:00:14 | 2025-02-07 |  |
+| [Ajna Mantra for Third Eye Chakra with OM Sound](https://open.spotify.com/track/4HsePatOkDkoZLMZuWxAj6) | [Mahakatha](https://open.spotify.com/artist/5yMmIhZ6dUYvVjjqzFOOzN) | [Ancient Chakra Healing Meditation Mantras](https://open.spotify.com/album/6mNn6zZJzjJeRRbuAjJbuy) | 1:00:14 | 2025-02-07 | 2026-07-31 |
 | [Amitayus](https://open.spotify.com/track/57s4nYX7mglYseLG1RELMS) | [Buddhist Monks](https://open.spotify.com/artist/71M5KBWnBCoGYGJxudnGBW) | [Live Mantra](https://open.spotify.com/album/29QB7nHpA8SU435vVage0Y) | 2:51 | 2023-05-23 | 2023-06-09 |
 | [Antarjami Purakh Bidhate](https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Positive Energy](https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7) | 11:20 | 2022-01-24 |  |
 | [Bajrang Baan](https://open.spotify.com/track/1Ab0PsTSuqFjU3hxdzZ41t) | [GowraHari](https://open.spotify.com/artist/1GEwRtJ6snJ0z2hzmXAG80), [Saicharan Bhaskaruni](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU), [Lokeshwar Edara](https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8), [Harshavardhan Chavali](https://open.spotify.com/artist/4ViFjJxWBVs6VrXj72J05G) | [Bajrang Baan](https://open.spotify.com/album/4ElIZIv6fb4LRQpwIh8Kre) | 5:37 | 2026-01-22 |  |
 | [Beej Mantra](https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Ganesh](https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E) | 4:57 | 2024-09-05 | 2026-06-13 |
 | [Bendición de Guru](https://open.spotify.com/track/5rNgiNxnzyeKYCVA9yTqSg) | [Lama Dorje](https://open.spotify.com/artist/1zTJulYHHc7xqncJh2qw9Z) | [Mantras Budista](https://open.spotify.com/album/7AfpljlxDdVVf4AQcpjamv) | 4:29 | 2024-12-30 |  |
 | [Bhairavi Vandana](https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Triveni: Durga, Lakshmi, Saraswati](https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv) | 5:15 | 2023-05-23 |  |
+| [Bhole Mere Bhole](https://open.spotify.com/track/6qDEMOv56bLPZDzE3vJgXS) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Bhole Mere Bhole](https://open.spotify.com/album/1pm3gPC6kgrnQMg5BbacqY) | 4:01 | 2026-07-27 |  |
 | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/track/1gxt3cazhB9VbauY2iEfoe) | [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Flipsyd](https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb) | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/album/7uLLOVFMzasRXNupYHQGtX) | 4:46 | 2025-03-25 |  |
 | [Buddhist Music and Chants for Inner Peace](https://open.spotify.com/track/3QlsZg5tAQ8ZqKbFmkwCGo) | [Best Relaxing Music](https://open.spotify.com/artist/4Qp0NbeUNsiffzjGqkGhJD) | [Buddhist and Zen for Meditation Relaxation](https://open.spotify.com/album/3HGAhYIaLiRQY95JQuprwZ) | 8:29 | 2024-12-30 |  |
 | [Chandra Gayatri Mantra](https://open.spotify.com/track/49QY54TduPxYL8ZFxVuPxs) | [Saee Tembhekar](https://open.spotify.com/artist/3TJyCCTVwoTQo1FQ5xxuKm) | [Chandra Gayatri Mantra](https://open.spotify.com/album/4KxzohWYDc73VfAehZ4FhQ) | 24:24 | 2025-10-06 | 2025-12-08 |

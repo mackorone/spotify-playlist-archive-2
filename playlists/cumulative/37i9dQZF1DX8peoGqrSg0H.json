@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PiXXiE",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MARCKRIS OF BUS",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -194,6 +194,24 @@
       "duration_ms": 221000,
       "name": "5 A.M.",
       "url": "https://open.spotify.com/track/7pESqINqmOONXp4sxLlXpx"
+    },
+    {
+      "album": {
+        "name": "67",
+        "url": "https://open.spotify.com/album/6BEN9CdoFb3CXVDXyTRxjP"
+      },
+      "artists": [
+        {
+          "name": "gorn",
+          "url": "https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176703,
+      "name": "67",
+      "url": "https://open.spotify.com/track/0HUI4f3Rw5zCR0g8nVxZka"
     },
     {
       "album": {
@@ -602,7 +620,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 223217,
       "name": "Better Life",
       "url": "https://open.spotify.com/track/5dApXF5URhY6jDBnNpTocr"
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 187547,
       "name": "FLY",
       "url": "https://open.spotify.com/track/3b6Z9R6qkXA56Ymen3MMjf"
@@ -2150,6 +2168,24 @@
       "duration_ms": 220833,
       "name": "Iceman Feat. Morvasu",
       "url": "https://open.spotify.com/track/4ZIG4Hk85at180zNgnVTwl"
+    },
+    {
+      "album": {
+        "name": "If You Don\u2019t Mean It (\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14 \u0e2d\u0e22\u0e48\u0e32\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e34\u0e14)",
+        "url": "https://open.spotify.com/album/2UQiY52UWsfyJ7eVORSryP"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232534,
+      "name": "If You Don\u2019t Mean It (\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14 \u0e2d\u0e22\u0e48\u0e32\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e34\u0e14)",
+      "url": "https://open.spotify.com/track/2d3fZAlYyt6xqPkL9U9h1f"
     },
     {
       "album": {
@@ -2876,7 +2912,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 207692,
       "name": "MARY JANE (Marry Me)",
       "url": "https://open.spotify.com/track/3gIEqFgeCe89G0r6UPRYIc"
@@ -3386,7 +3422,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 212142,
       "name": "ON&OFF (feat. ALIE BLACKCOBRA)",
       "url": "https://open.spotify.com/track/2cVkSqGKhDJzbqLDcVz6O9"
@@ -4961,6 +4997,24 @@
     },
     {
       "album": {
+        "name": "Wasting Time",
+        "url": "https://open.spotify.com/album/1QJx4EX9zxZbHQJFdWeqAP"
+      },
+      "artists": [
+        {
+          "name": "TIGGER (\u0e17\u0e34\u0e01\u0e40\u0e01\u0e2d\u0e23\u0e4c)",
+          "url": "https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/1VzwCri9lwLsOH2AjhwoLj"
+    },
+    {
+      "album": {
         "name": "WATCH YOUR STEP",
         "url": "https://open.spotify.com/album/347v2CFOheG1u8zXZrex32"
       },
@@ -5178,6 +5232,28 @@
       "duration_ms": 271764,
       "name": "Wish",
       "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
+    },
+    {
+      "album": {
+        "name": "Wish you the best",
+        "url": "https://open.spotify.com/album/0WNX605GwY41znKTXyILie"
+      },
+      "artists": [
+        {
+          "name": "MARCKRIS OF BUS",
+          "url": "https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM"
+        },
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248129,
+      "name": "Wish you the best",
+      "url": "https://open.spotify.com/track/29frcAygDPC0P51SwoYebk"
     },
     {
       "album": {
@@ -10758,7 +10834,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 215625,
       "name": "\u0e22\u0e32\u0e41\u0e01\u0e49\u0e41\u0e1e\u0e49 (Love Allergy)",
       "url": "https://open.spotify.com/track/60ztSIToposWNzYOWeKrtp"
@@ -16958,6 +17034,24 @@
       "duration_ms": 213529,
       "name": "\u0e44\u0e21\u0e48\u0e01\u0e49\u0e32\u0e27\u0e1c\u0e48\u0e32\u0e19",
       "url": "https://open.spotify.com/track/3OEd6Z88K4jv0G9aeHGhGN"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 (Behind The Smile)",
+        "url": "https://open.spotify.com/album/2BMwfH1ir5dF3qLYHDny7x"
+      },
+      "artists": [
+        {
+          "name": "JustmineNika",
+          "url": "https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206341,
+      "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 (Behind The Smile)",
+      "url": "https://open.spotify.com/track/4IOSkK06qTipVlQ5ELv6hY"
     },
     {
       "album": {

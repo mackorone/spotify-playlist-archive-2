@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Jorsshh 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,139 likes - 57 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,164 likes - 57 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 56 | [Ni Al 50](https://open.spotify.com/track/4TScLnHpifYRCkavtwOJAn) | [Vilax](https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr) | [Capítulo 8 \(La Historia Completa\)](https://open.spotify.com/album/5vNB8q1Zi7358MwwDlI1MU) | 2:56 |
 | 57 | [Enamórate De Alguien](https://open.spotify.com/track/6pWve0joZIhSKc2W3AMkXv) | [Ricardo Murillo](https://open.spotify.com/artist/0IJGy4mM0W1uOTWQGVsrzx) | [Enamórate De Alguien](https://open.spotify.com/album/30C1RtklXdbxQP6Vudyr4a) | 2:53 |
 
-Snapshot ID: `AAAAAAO6/StUt9eQ8CfYaKadxJxzL+C0`
+Snapshot ID: `AAAAABDG5p3CeSWT3A7pvdwBJpsxsTIj`

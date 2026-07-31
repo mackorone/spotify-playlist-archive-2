@@ -1,12 +1,12 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Ysa C",
-  "num_followers": 143813,
+  "num_followers": 143804,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACU5zZRq5/haWR4QbqoY9bc9ovxt",
+  "snapshot_id": "AAAAAIft1W+KJOOooo2L4pq9nXvPdGta",
   "tracks": [
     {
       "added_at": "2026-06-26 04:01:41",
@@ -391,26 +391,6 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
-        "name": "CANDELA",
-        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 148200,
-      "name": "Solecito Ven\u00ed",
-      "url": "https://open.spotify.com/track/6Ue84aBdSKDtyA493wcVfD"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
         "name": "Hasta Aqu\u00ed Llegu\u00e9",
         "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 188887,
       "name": "Hasta Aqu\u00ed Llegu\u00e9",
       "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
+        "name": "CANDELA",
+        "url": "https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 148200,
+      "name": "Solecito Ven\u00ed",
+      "url": "https://open.spotify.com/track/6Ue84aBdSKDtyA493wcVfD"
     },
     {
       "added_at": "2026-06-26 04:01:41",
@@ -483,26 +483,6 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
-        "name": "A Veces A Besos (Remix)",
-        "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "A Veces A Besos - Remix",
-      "url": "https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/6slcxJSXyA96hAUiaABZW2"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 189176,
       "name": "Paris",
       "url": "https://open.spotify.com/track/30V3s7JION6nkntl6vsTYw"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
+        "name": "A Veces A Besos (Remix)",
+        "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "A Veces A Besos - Remix",
+      "url": "https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D"
     },
     {
       "added_at": "2026-06-26 04:01:41",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-06-26 04:01:41",
       "album": {
+        "name": "El Lugar M\u00e1s Feliz Del Mundo",
+        "url": "https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "El Lugar M\u00e1s Feliz Del Mundo",
+      "url": "https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS"
+    },
+    {
+      "added_at": "2026-06-26 04:01:41",
+      "album": {
         "name": "Botecito",
         "url": "https://open.spotify.com/album/7HHY5Rr3nTYhQrmXBt1uTH"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 156000,
       "name": "Botecito",
       "url": "https://open.spotify.com/track/5nhB1ijVzD2PKCkPAHP8Qy"
-    },
-    {
-      "added_at": "2026-06-26 04:01:41",
-      "album": {
-        "name": "El Lugar M\u00e1s Feliz Del Mundo",
-        "url": "https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 193786,
-      "name": "El Lugar M\u00e1s Feliz Del Mundo",
-      "url": "https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS"
     },
     {
       "added_at": "2026-06-26 04:01:41",

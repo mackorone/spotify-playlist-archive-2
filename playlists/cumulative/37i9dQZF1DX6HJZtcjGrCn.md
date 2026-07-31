@@ -2,9 +2,9 @@
 
 ### [Cena Indie](https://open.spotify.com/playlist/37i9dQZF1DX6HJZtcjGrCn)
 
-> Música independente\. A tua alternativa ao mainstream\. Foto: Tipo
+> Música independente\. A tua alternativa ao mainstream\. Foto: M1ke, Ze Maria
 
-537 songs - 1 day 7 hr 47 min
+540 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Cartas](https://open.spotify.com/track/1FI2DJdGaw1xDAEQHBdiga) | [Amor Perdido](https://open.spotify.com/artist/7b29iPYABQwrw9x4WDT7zs) | [Cartas](https://open.spotify.com/album/5CB93jpjrgGVOn5LVt1Py4) | 2:03 | 2026-03-20 | 2026-04-03 |
 | [Castaway](https://open.spotify.com/track/4rD9YjjzbA2kAdUM7QlVqN) | [Cristóvam](https://open.spotify.com/artist/7p23ERQPaBJU2W0gguMNTi) | [Castaway](https://open.spotify.com/album/0dBFjxAi2chf1pfLuK6J63) | 3:19 | 2025-08-28 | 2025-09-19 |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2024-06-20 |  |
+| [Celestial Bodies](https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Celestial Bodies](https://open.spotify.com/album/0jvsyrItr5n4mJXVrEulJt) | 3:47 | 2026-07-30 |  |
 | [Champagne](https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [Champagne / That's Life](https://open.spotify.com/album/65qwYgZjXDi3WGiN53Kl5Q) | 5:27 | 2024-12-20 | 2025-01-17 |
 | [Champagne Coast](https://open.spotify.com/track/2KufM8PiQY4i52XhRL96Fd) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Coastal Grooves](https://open.spotify.com/album/5U2cyX2FRa8CjzdMpqZNJl) | 4:52 | 2024-06-20 | 2025-09-12 |
 | [chasing for your love](https://open.spotify.com/track/78cntQQPWupxTJIfsGsarD) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [chasing for your love](https://open.spotify.com/album/1YZ0BnVfqQcALUv7A8lFlk) | 2:27 | 2025-08-01 | 2025-09-05 |
@@ -236,6 +237,7 @@
 | [If Only I Could Wait](https://open.spotify.com/track/2JKDtTNtfaLQYjwkt4ua07) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [Danielle Haim](https://open.spotify.com/artist/1i374WEVqp1BCoCLmehog9) | [If Only I Could Wait b/w Walk Home](https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh) | 3:22 | 2025-03-14 | 2025-05-24 |
 | [if that's what you want](https://open.spotify.com/track/3Ppboz022LJKYAfcmbDH6o) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [if that's what you want](https://open.spotify.com/album/67c1bz95zwkxpGEJJN3zLj) | 3:29 | 2024-10-24 | 2024-11-08 |
 | [ifeelsodumb](https://open.spotify.com/track/3ml1GUPvdZt6yXdzjAjuOU) | [Mariana Tereso](https://open.spotify.com/artist/2flPiXqSKewUNnRoSCGZHu) | [ifeelsodumb](https://open.spotify.com/album/3VaoekXt1lRSEuuTVJh1Nk) | 2:51 | 2025-01-31 | 2025-02-14 |
+| [Ilusão](https://open.spotify.com/track/1J3DRgVbRDDWbSN9AYMRrE) | [Carl Karlsson](https://open.spotify.com/artist/12QWmTkEzcCYekpdF1CuoQ) | [Ilusão](https://open.spotify.com/album/4Vl9c6RFeRjAtnHKEbjlfO) | 4:05 | 2026-07-30 |  |
 | [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2024-09-20 | 2024-10-04 |
 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-08-22 | 2024-11-04 |
 | [In The Sound Of Breathing](https://open.spotify.com/track/7yNYzyUExexEqXvN0F4E9A) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [In The Sound Of Breathing / Opening](https://open.spotify.com/album/5jdLTKpUZFbtreAaGuZ3vt) | 3:55 | 2025-03-07 | 2025-04-11 |
@@ -404,9 +406,10 @@
 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 | 2024-06-20 | 2025-01-24 |
 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 | 2025-01-17 | 2025-05-31 |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-20 | 2025-01-24 |
-| [Sabiá](https://open.spotify.com/track/0idV091z1bxjvxroCMMStq) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Sabiá](https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD) | 2:49 | 2026-06-18 |  |
+| [Sabiá](https://open.spotify.com/track/0idV091z1bxjvxroCMMStq) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Sabiá](https://open.spotify.com/album/1M3IYBNa9kkS5gEm72y7mD) | 2:49 | 2026-06-18 | 2026-07-31 |
 | [safe](https://open.spotify.com/track/2pLj00PlVISTqJNzvxjPn4) | [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [3am on the northern line](https://open.spotify.com/album/3aQX3tS9fthvZaPAp64C65) | 4:07 | 2025-12-05 | 2026-01-16 |
 | [Sai De Casa](https://open.spotify.com/track/3XqK6p4YBTmrPEVq0k6I8Q) | [Maria Leitão](https://open.spotify.com/artist/5yzSRZbWaIu4vozFnErHPh) | [Para Onde Vão as Coisas Perdidas](https://open.spotify.com/album/61fNs8iN6B2rFc96dga7ts) | 3:12 | 2026-06-11 | 2026-07-24 |
+| [Sal](https://open.spotify.com/track/23ytaSu4ydqwz3PnizbBEV) | [M1ke](https://open.spotify.com/artist/3tQ4msrV9tC9rzrAUK3mdv), [Ze Maria](https://open.spotify.com/artist/3AJ5VePr04618RtYtNCc3d) | [Sal](https://open.spotify.com/album/2ay0tw9FguxqPogVXzrIVe) | 4:20 | 2026-07-30 |  |
 | [Same Old Song](https://open.spotify.com/track/7fgBaZMKj1KIftugsmBrkB) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Automatic \(Preview\)](https://open.spotify.com/album/7jnh9Dv3ocxLzYmf8kAL4p) | 2:54 | 2025-01-10 | 2025-02-21 |
 | [Savage](https://open.spotify.com/track/1mq8wH5sWqjzwvRIHxdlHN) | [LEROCQUE](https://open.spotify.com/artist/4BI5i3MlNaNIi5BPby3r3O) | [Savage](https://open.spotify.com/album/7Ch9Q8EBf6v2eKP3OItSEV) | 3:32 | 2024-07-25 | 2024-08-09 |
 | [SAVE MY SOUL](https://open.spotify.com/track/0gF5UuEPNvpdDAY0BItOzv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [SAVE MY SOUL](https://open.spotify.com/album/1tSRIsR2Y8dQ63QNFQnCSU) | 3:57 | 2025-11-21 |  |
@@ -435,7 +438,7 @@
 | [SPIDERS](https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/1PndzdLW2Ykd36TDbkKuNF) | 4:27 | 2025-09-04 | 2025-12-12 |
 | [Split Screen](https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Split Screen](https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR) | 5:03 | 2024-06-20 | 2024-07-22 |
 | [Starburned and Unkissed](https://open.spotify.com/track/12V0MwkaN60cghsLsglkIf) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Starburned and Unkissed](https://open.spotify.com/album/3mj7Bt7kMctCQdC9pqgdFc) | 3:40 | 2024-06-20 | 2025-01-10 |
-| [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-21 |  |
+| [Starry Eyed](https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Starry Eyed](https://open.spotify.com/album/2yByFS4ml3PMBBLhBPJIfN) | 2:16 | 2025-03-21 | 2026-07-31 |
 | [Steel \(feat\. Dora Jar\)](https://open.spotify.com/track/4QtzCm1dFD3p14kPJpkb9U) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Mika's Laundry](https://open.spotify.com/album/66VRqzJ2YSL0eqcz385eZq) | 2:43 | 2026-02-13 | 2026-02-20 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2024-06-20 |  |
 | [Still In Love](https://open.spotify.com/track/1B3YSc9Pgkf3S1ly3ks7kO) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Still In Love](https://open.spotify.com/album/43semGRPVsd8ctl3R19FGS) | 2:41 | 2024-12-06 | 2025-05-23 |
@@ -477,7 +480,7 @@
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-01 |  |
 | [The Table](https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Table](https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku) | 2:53 | 2024-08-08 | 2024-11-14 |
 | [The Treadmill](https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 3:22 | 2025-12-05 | 2026-01-16 |
-| [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 | 2026-04-02 |  |
+| [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 | 2026-04-02 | 2026-07-31 |
 | [The Wave](https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [The Wave](https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj) | 3:22 | 2026-05-28 |  |
 | [The World Above](https://open.spotify.com/track/2IHOfg0T2tEO3iQ1aYvZA1) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The World Above](https://open.spotify.com/album/7e4uwIr9ceGWZH1HtE9NCO) | 3:32 | 2024-07-25 | 2024-08-16 |
 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-10 |  |

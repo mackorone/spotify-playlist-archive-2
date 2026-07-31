@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158329,
+  "num_followers": 158323,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADNE+PU/NXVnOeYd9xsldfVYY5zD",
+  "snapshot_id": "AAAAAI9Ga1f4GmwCTTq6goSCD7UIN4SU",
   "tracks": [
     {
       "added_at": "2026-07-27 16:32:59",
@@ -199,6 +199,22 @@
     {
       "added_at": "2026-07-27 16:32:59",
       "album": {
+        "name": "Balan\u00e7o de Rede",
+        "url": "https://open.spotify.com/album/4NGgX3eEortOZHBjqdM3dc"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Balan\u00e7o de Rede",
+      "url": "https://open.spotify.com/track/0qaEgZu9Qq9D41zyiAiiro"
+    },
+    {
+      "added_at": "2026-07-27 16:32:59",
+      "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/3DoNQvfS2tDXdrt0cpCmZX"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 160000,
       "name": "444",
       "url": "https://open.spotify.com/track/6vmLLWTn3AvJSZ4oSUXGPt"
-    },
-    {
-      "added_at": "2026-07-27 16:32:59",
-      "album": {
-        "name": "Balan\u00e7o de Rede",
-        "url": "https://open.spotify.com/album/4NGgX3eEortOZHBjqdM3dc"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Balan\u00e7o de Rede",
-      "url": "https://open.spotify.com/track/0qaEgZu9Qq9D41zyiAiiro"
     },
     {
       "added_at": "2026-07-27 16:32:59",
@@ -599,30 +599,6 @@
     {
       "added_at": "2026-07-27 16:32:59",
       "album": {
-        "name": "Jangada",
-        "url": "https://open.spotify.com/album/45Mu8p9khZQVZCgO0PE23f"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "Jangada",
-      "url": "https://open.spotify.com/track/04s5nBXVzrFSmpQYsU1AvH"
-    },
-    {
-      "added_at": "2026-07-27 16:32:59",
-      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 196276,
       "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"
+    },
+    {
+      "added_at": "2026-07-27 16:32:59",
+      "album": {
+        "name": "Jangada",
+        "url": "https://open.spotify.com/album/45Mu8p9khZQVZCgO0PE23f"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Jangada",
+      "url": "https://open.spotify.com/track/04s5nBXVzrFSmpQYsU1AvH"
     },
     {
       "added_at": "2026-07-27 16:32:59",
@@ -999,6 +999,30 @@
     {
       "added_at": "2026-07-27 16:32:59",
       "album": {
+        "name": "Moz\u00e3o",
+        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
+      },
+      "artists": [
+        {
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Moz\u00e3o",
+      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
+    },
+    {
+      "added_at": "2026-07-27 16:32:59",
+      "album": {
         "name": "Amor N\u00e3o Sai de Moda",
         "url": "https://open.spotify.com/album/6dk9pgzQaucd5U72M7tWZB"
       },
@@ -1027,30 +1051,6 @@
       "duration_ms": 216600,
       "name": "Amor N\u00e3o Sai de Moda",
       "url": "https://open.spotify.com/track/6dIccuQyn4JBdFoQZX1oxP"
-    },
-    {
-      "added_at": "2026-07-27 16:32:59",
-      "album": {
-        "name": "Moz\u00e3o",
-        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
-      },
-      "artists": [
-        {
-          "name": "Taylan",
-          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Moz\u00e3o",
-      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
     },
     {
       "added_at": "2026-07-27 16:32:59",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2026-07-27 16:32:59",
       "album": {
+        "name": "Pra Voc\u00ea Ficar",
+        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 160819,
+      "name": "Pra Voc\u00ea Ficar",
+      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
+    },
+    {
+      "added_at": "2026-07-27 16:32:59",
+      "album": {
         "name": "Ravi",
         "url": "https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL"
       },
@@ -1147,22 +1167,22 @@
     {
       "added_at": "2026-07-27 16:32:59",
       "album": {
-        "name": "Pra Voc\u00ea Ficar",
-        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
+        "name": "Jam #2",
+        "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
       },
       "artists": [
         {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
         },
         {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
         }
       ],
-      "duration_ms": 160819,
-      "name": "Pra Voc\u00ea Ficar",
-      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
+      "duration_ms": 214509,
+      "name": "Jam #02 - Tudo do Melhor/Prosperidade",
+      "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
     },
     {
       "added_at": "2026-07-27 16:32:59",
@@ -1187,26 +1207,6 @@
       "duration_ms": 212400,
       "name": "Sem Press\u00e3o",
       "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
-    },
-    {
-      "added_at": "2026-07-27 16:32:59",
-      "album": {
-        "name": "Jam #2",
-        "url": "https://open.spotify.com/album/3UF3vK9EIhL59TfiHnYVeZ"
-      },
-      "artists": [
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        }
-      ],
-      "duration_ms": 214509,
-      "name": "Jam #02 - Tudo do Melhor/Prosperidade",
-      "url": "https://open.spotify.com/track/6yYC6VIY7dLyZKr6y5LWbr"
     },
     {
       "added_at": "2026-07-27 16:32:59",

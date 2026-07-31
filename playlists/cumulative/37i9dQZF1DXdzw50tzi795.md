@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: BUS
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Mirrr, BLVCKHEART
 
-253 songs - 16 hr 19 min
+254 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/track/4GMsgN54SdPxMamKu9qQam) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [ขอให้เราทั้งคู่โชคดี \(Good Luck to The Both of Us\)](https://open.spotify.com/album/5Y9UBuDr9YrjFoRvfuO6fb) | 3:56 | 2026-03-05 | 2026-04-20 |
 | [ขาด \(Without me\)](https://open.spotify.com/track/0gfaovbqUD9axcb1O2eNha) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl) | [ขาด \(Without me\)](https://open.spotify.com/album/4iIfTRJHHBOj0oUkRA62Rs) | 3:38 | 2024-01-31 | 2024-02-16 |
 | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/track/04nwoRnWqFYhFLaRNWuNw5) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/album/6nLwr7ShdFiiCtvwMw0epG) | 4:15 | 2026-07-02 |  |
+| [ขึ้นใจ \(3am call\)](https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ขึ้นใจ \(3am call\)](https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy) | 4:21 | 2026-07-30 |  |
 | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/track/6VlPCdEkEMkD7OcbCg8qC6) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ขึ้นใจ \(Unforgettable\)](https://open.spotify.com/album/3XviYeEx5FuG7m6LodIFgU) | 3:41 | 2024-05-30 | 2024-07-19 |
 | [ข้อความรูปยิ้ม :\)](https://open.spotify.com/track/3ZajpwGfKsToCEAuLTtoxF) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [ข้อความรูปยิ้ม :\)](https://open.spotify.com/album/3LenjO4Dj5si5mCrFVWaen) | 3:47 | 2024-09-07 | 2025-03-21 |
 | [ครองโลก](https://open.spotify.com/track/76j0uitplft5gODYnoQ62V) | [YUNGTARR](https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX) | [MultiColorBands](https://open.spotify.com/album/7Jkjy0tfa9MJYGqvOiV2lS) | 2:41 | 2026-04-09 | 2026-06-12 |
@@ -237,7 +238,7 @@
 | [เหนื่อยเกินไป](https://open.spotify.com/track/3bPvxXyKTHq7Pd2IFA10HX) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [เหนื่อยเกินไป](https://open.spotify.com/album/6Nym9IqxppaZR3kJJd8riA) | 5:07 | 2026-03-05 | 2026-04-10 |
 | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/track/5F4fAhzhdHtaQ8nNqWAufl) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [เหมือนวิวาห์ \(Rain wedding\) \[From "วิมานหนาม"\]](https://open.spotify.com/album/4Ye2Vfc3DIjifg1jyuzBB8) | 4:21 | 2024-08-22 | 2025-04-17 |
 | [เหรียญริมทาง](https://open.spotify.com/track/37stxIhwiGSImtao0VmHWJ) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5) | [เหรียญริมทาง](https://open.spotify.com/album/2Mw2KGfwToMAzcs30HwofJ) | 3:12 | 2025-08-14 | 2025-09-12 |
-| [แก้บน](https://open.spotify.com/track/1tBFg7D6aSmZb9KUl7FPbu) | [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv) | [แก้บน](https://open.spotify.com/album/5fBqn3HW1usEd3Cl5Y5lq8) | 3:48 | 2025-10-22 |  |
+| [แก้บน](https://open.spotify.com/track/1tBFg7D6aSmZb9KUl7FPbu) | [Kantong Tungngern](https://open.spotify.com/artist/5j2wM66qbeuJAygcWdMNpv) | [แก้บน](https://open.spotify.com/album/5fBqn3HW1usEd3Cl5Y5lq8) | 3:48 | 2025-10-22 | 2026-07-31 |
 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 | 2024-06-06 | 2025-02-09 |
 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 | 2024-05-06 | 2024-12-07 |
 | [แลกอะไรก็ได้](https://open.spotify.com/track/4lYo2OzvdN3WCy7FQhHIv5) | [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [แลกอะไรก็ได้](https://open.spotify.com/album/1czWyzVwvKtsAAOQiuUrqw) | 3:37 | 2024-05-30 | 2024-09-20 |

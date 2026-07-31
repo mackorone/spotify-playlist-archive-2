@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Sweet afro melodies. Cover: Teni",
+  "description": "Sweet afro melodies. Cover: DaVido ",
   "name": "Ginja",
   "tracks": [
     {
@@ -1705,6 +1705,32 @@
     },
     {
       "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166150,
+      "name": "B4 B4 (with Mayorkun & FOLA)",
+      "url": "https://open.spotify.com/track/37BTNKEaW6aUvsKH3O2UUt"
+    },
+    {
+      "album": {
         "name": "Baami",
         "url": "https://open.spotify.com/album/5TtQNinKYN1pwJ2aJ4RtLe"
       },
@@ -1984,7 +2010,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
@@ -4302,7 +4328,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 168908,
       "name": "COPING MECHANISM",
       "url": "https://open.spotify.com/track/4Jvng8y8F17cbIXnEic8Xj"
@@ -5383,6 +5409,24 @@
     },
     {
       "album": {
+        "name": "DUM",
+        "url": "https://open.spotify.com/album/7DGdsVLaKxm97NaRn6XX1j"
+      },
+      "artists": [
+        {
+          "name": "Fimi",
+          "url": "https://open.spotify.com/artist/4ZnAdq8niwc3MnthK4ujdr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128925,
+      "name": "DUM",
+      "url": "https://open.spotify.com/track/3i2t3pOBrvdX3B9j66ss2A"
+    },
+    {
+      "album": {
         "name": "E No Fit Be Me",
         "url": "https://open.spotify.com/album/21pfkAkFwteF0tGAxVcEDE"
       },
@@ -5526,6 +5570,28 @@
       "duration_ms": 183174,
       "name": "Ego Oyibo",
       "url": "https://open.spotify.com/track/0pqrP2OT0JMdHa5sPwpjr7"
+    },
+    {
+      "album": {
+        "name": "Eja Meja",
+        "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158108,
+      "name": "Eja Meja",
+      "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
     },
     {
       "album": {
@@ -11534,7 +11600,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 177868,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0AqG4dpsakx0SO3Nrzqzfd"
@@ -12882,7 +12948,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 186902,
       "name": "NAKANAMO - V2",
       "url": "https://open.spotify.com/track/2WIVtwjKtZuyxA1ZQu7qsB"
@@ -18625,6 +18691,42 @@
     },
     {
       "album": {
+        "name": "Yor\u00f9b\u00e1 Healer",
+        "url": "https://open.spotify.com/album/2i4Gl65RxmLi6gh4zDSpor"
+      },
+      "artists": [
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/54mMjAGPplZ1ypbw3lNnnF"
+    },
+    {
+      "album": {
+        "name": "SILK",
+        "url": "https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo"
+      },
+      "artists": [
+        {
+          "name": "ru.",
+          "url": "https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9"
+    },
+    {
+      "album": {
         "name": "Next Rated",
         "url": "https://open.spotify.com/album/7kw7JdzgwwbvKPjznLpabZ"
       },
@@ -20274,7 +20376,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 197522,
       "name": "Wuru Manya",
       "url": "https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN"

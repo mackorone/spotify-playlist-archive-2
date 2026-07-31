@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "0MG!",
+        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
+      },
+      "artists": [
+        {
+          "name": "Mira Paula",
+          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166621,
+      "name": "0MG!",
+      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
+    },
+    {
+      "album": {
         "name": "1 Dolor",
         "url": "https://open.spotify.com/album/7gXbL0h3fgN9iThK5cypAG"
       },
@@ -82,7 +100,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 186737,
       "name": "1 Dolor",
       "url": "https://open.spotify.com/track/6lNBceAGdl6t9slEQQc9UC"
@@ -329,6 +347,28 @@
     },
     {
       "album": {
+        "name": "Aire Fresco (feat. LYNN)",
+        "url": "https://open.spotify.com/album/4ettSx3GCGTV4sEEILM0q8"
+      },
+      "artists": [
+        {
+          "name": "L'Beel",
+          "url": "https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4"
+        },
+        {
+          "name": "LYNN",
+          "url": "https://open.spotify.com/artist/2iKQgImU0tNvy43Qs0lfyX"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179134,
+      "name": "Aire Fresco (feat. LYNN)",
+      "url": "https://open.spotify.com/track/7y1t7Zw4DoiS6yXCv3O1k0"
+    },
+    {
+      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/2kzjVxsgT41txC1GIMMx3C"
       },
@@ -540,7 +580,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 210200,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/74iZuPGwyL33VlTr6jTnab"
@@ -1000,7 +1040,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 165806,
       "name": "Bang bang",
       "url": "https://open.spotify.com/track/6iY2uTtG6iATz8OPe7sgYW"
@@ -1627,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123375,
+      "name": "Camila",
+      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
+    },
+    {
+      "album": {
         "name": "de Sol en Sol",
         "url": "https://open.spotify.com/album/16ugOIf3psA88gt1oqFtpf"
       },
@@ -2067,6 +2125,24 @@
     },
     {
       "album": {
+        "name": "como un im\u00e1n",
+        "url": "https://open.spotify.com/album/4a3AF318MEnOKnJaNkzGk7"
+      },
+      "artists": [
+        {
+          "name": "Claudia Arenas",
+          "url": "https://open.spotify.com/artist/24wta7UgS2WWnMg1p7T8Po"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166867,
+      "name": "como un im\u00e1n",
+      "url": "https://open.spotify.com/track/1WH1IXd0XeuubBL7BtC0b0"
+    },
+    {
+      "album": {
         "name": "TANDA",
         "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
       },
@@ -2306,6 +2382,24 @@
       "duration_ms": 173333,
       "name": "DeSAFINADO",
       "url": "https://open.spotify.com/track/20xGxEyPI86xc8oCSjs82w"
+    },
+    {
+      "album": {
+        "name": "pop blandito",
+        "url": "https://open.spotify.com/album/0ZvkT6crYCQ2Xp0vBERqwi"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188693,
+      "name": "desayunarte",
+      "url": "https://open.spotify.com/track/1GHGbb0clnbZfGCxSODmtF"
     },
     {
       "album": {
@@ -2890,7 +2984,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 156297,
       "name": "En el Puerto",
       "url": "https://open.spotify.com/track/34iqepdrWz1vhwY8xJzGkQ"
@@ -3122,7 +3216,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 212861,
       "name": "Even In The Quiet",
       "url": "https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq"
@@ -4613,6 +4707,24 @@
     },
     {
       "album": {
+        "name": "KERALA",
+        "url": "https://open.spotify.com/album/3BnqjgSiSoWbmVtGLHzkZJ"
+      },
+      "artists": [
+        {
+          "name": "Marina Sabadell",
+          "url": "https://open.spotify.com/artist/6gjf3pjPxXu7VUaj3fDt2V"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213843,
+      "name": "KERALA",
+      "url": "https://open.spotify.com/track/3Faq4qZOlgxLvaBxhFOJ84"
+    },
+    {
+      "album": {
         "name": "Kevin",
         "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
       },
@@ -4704,6 +4816,24 @@
       "duration_ms": 199666,
       "name": "La Belleza",
       "url": "https://open.spotify.com/track/4upu85v1yWjnxPWHPkTkFU"
+    },
+    {
+      "album": {
+        "name": "La Chica del Norte",
+        "url": "https://open.spotify.com/album/5AJzvTY9oumtaFOR36pxdd"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "La Chica del Norte",
+      "url": "https://open.spotify.com/track/0P1d6vZ3Fb5vjq3R0DYm75"
     },
     {
       "album": {
@@ -4834,7 +4964,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 216996,
       "name": "la misma piedra",
       "url": "https://open.spotify.com/track/6ULXF63UxgVFKVmuZgVVNU"
@@ -6569,6 +6699,24 @@
     },
     {
       "album": {
+        "name": "NO TODO ES PARTE DE LA VIDA",
+        "url": "https://open.spotify.com/album/724d6AWwToirfFH00SSUxl"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244042,
+      "name": "NO TODO ES PARTE DE LA VIDA",
+      "url": "https://open.spotify.com/track/1Ov1LTLDGkVSNpHjWuXeqw"
+    },
+    {
+      "album": {
         "name": "amor 925.",
         "url": "https://open.spotify.com/album/5WYIGMOLsblbp2MbZxBvL7"
       },
@@ -6728,7 +6876,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 166250,
       "name": "Notre-Dame",
       "url": "https://open.spotify.com/track/6c2s7cbT6WbothMJ6HaywK"
@@ -8848,7 +8996,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 157186,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/19hOu7GyeG1YwiyNvSfaf7"
@@ -9437,6 +9585,24 @@
     },
     {
       "album": {
+        "name": "Toujours oui <3",
+        "url": "https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205738,
+      "name": "Toujours oui <3",
+      "url": "https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO"
+    },
+    {
+      "album": {
         "name": "Gran Turismo",
         "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
@@ -9694,7 +9860,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 208460,
       "name": "Un amor como los de antes",
       "url": "https://open.spotify.com/track/091cJW2tB4lqlNEX6pOsll"

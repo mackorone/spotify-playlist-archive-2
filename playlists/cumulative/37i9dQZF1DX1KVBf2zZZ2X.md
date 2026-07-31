@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-361 songs - 16 hr 51 min
+362 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Above all](https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L) | [Henrietta Patrick](https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0) | [Above all](https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP) | 2:24 | 2023-03-03 | 2025-06-12 |
 | [Above The Sea](https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY) | [Hans Westerström](https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe) | [Above The Sea](https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh) | 2:14 | 2023-04-13 | 2024-08-24 |
 | [Absence](https://open.spotify.com/track/3tx8zKA5bnnVfUL6cF45sm) | [Nel Brim](https://open.spotify.com/artist/5Q2iuYLQELQ31oUzPVcYBC) | [Absence](https://open.spotify.com/album/1HyhZ7qDVrCcGMDu24ULKq) | 2:42 | 2023-03-03 | 2025-06-17 |
+| [Adapt](https://open.spotify.com/track/1IFCshmcvJqyaPMrkPUioj) | [Decie Orion](https://open.spotify.com/artist/6zcIuvn0dlOdvzljMJFZfO) | [Adapt](https://open.spotify.com/album/6WeeVLGMvW7bFY3KNNLk6q) | 2:49 | 2026-06-18 |  |
 | [Aeolian](https://open.spotify.com/track/5x2OsAflQhIXyAQ1zeTFII) | [Qualeis](https://open.spotify.com/artist/6HaHca1Dcrxamb4r1b0eig) | [Aeolian](https://open.spotify.com/album/5UfZsuUAgakVV1gRBUNxDX) | 2:39 | 2026-03-20 |  |
 | [Aether](https://open.spotify.com/track/5XHnc4P6NEETRROlkGBwPK) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Aether](https://open.spotify.com/album/7qOQMolxJjgGrTavuA974Y) | 3:08 | 2026-03-20 |  |
 | [Agua Tranquila](https://open.spotify.com/track/3r2R9yM9lvWgZic3lnRBnn) | [Hank Sky](https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI) | [Agua Tranquila](https://open.spotify.com/album/24ExySexC5pNcLuEiGMnVp) | 2:57 | 2026-03-20 |  |
@@ -202,7 +203,7 @@
 | [Magnolia](https://open.spotify.com/track/3M8TwWYqWotGprtnLg95QS) | [Erlah](https://open.spotify.com/artist/06tUglXC9xjsC8FN7m3gOP) | [Magnolia](https://open.spotify.com/album/1Yp3wrZ3zyX9uqIRrbPd9K) | 2:44 | 2025-06-11 |  |
 | [Mama Nature](https://open.spotify.com/track/2CEBHHT6BzgFKYhBssqqQg) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Mama Nature](https://open.spotify.com/album/3upxOhPupKRO3raIHyjl5v) | 2:57 | 2025-06-11 |  |
 | [Masterwort](https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Masterwort](https://open.spotify.com/album/1x8Ys1DNMpy9r87PpOY67h) | 2:02 | 2023-03-03 | 2025-09-25 |
-| [Mellow Effulgence](https://open.spotify.com/track/33PAD7a3vuJfOkAy351o3G) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Mellow Effulgence](https://open.spotify.com/album/3uhf93g4Y8sDPQQP7vpUy8) | 2:33 | 2025-05-16 |  |
+| [Mellow Effulgence](https://open.spotify.com/track/33PAD7a3vuJfOkAy351o3G) | [Felix Dekker](https://open.spotify.com/artist/0mUCh5H0yIr67MM7lPq3kL) | [Mellow Effulgence](https://open.spotify.com/album/3uhf93g4Y8sDPQQP7vpUy8) | 2:33 | 2025-05-16 | 2026-07-31 |
 | [Mellow Spring](https://open.spotify.com/track/6GO7Ql2NFglUqb9Qc9TeWL) | [Loftet](https://open.spotify.com/artist/7JWt3Kh3FNVfaVQptxoT12) | [Beautiful Walk](https://open.spotify.com/album/5OTLju1wfjjMosVsq0vACr) | 2:20 | 2023-03-03 | 2025-12-15 |
 | [meloh](https://open.spotify.com/track/3j6ZZ8CdOOxTauHtiDVxuQ) | [Julio Raass](https://open.spotify.com/artist/0nlv8kK2en351d6V4cQJq4) | [meloh](https://open.spotify.com/album/3JGENPKwjfu9LD8Qv6FGfd) | 3:00 | 2023-09-28 |  |
 | [Micelle](https://open.spotify.com/track/6B93bHTKbd7Tv4F3U267ga) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [Micelle](https://open.spotify.com/album/2ZuVz9Mjtohq1taNses5ym) | 2:07 | 2023-03-03 | 2024-08-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Lenin
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,386 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,693 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Gira Gira Gingiraagirey \(From "Champion"\)](https://open.spotify.com/track/7yFklz7NkEsgnIzsC08k4q) | [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Gira Gira Gingiraagirey \(From "Champion"\)](https://open.spotify.com/album/4aghM7mCHKIo0kAyOvKBiD) | 4:43 |
 | 50 | [Oh Priya Priya](https://open.spotify.com/track/5OASaE4FRMNKdX0IHIg5Ri) | [Anup Rubens](https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp), [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Nithya Menen](https://open.spotify.com/artist/5ATG28qJzT3dATBV1UPxcN) | [Ishq](https://open.spotify.com/album/4Qo2GygetQ72mekmB7D7Hg) | 4:20 |
 
-Snapshot ID: `AAAAAHZcLGackFoNNyXVN4F3a4P9hoX5`
+Snapshot ID: `AAAAACHt5MJcEV8LR4GTvs5ETnpWE1c5`

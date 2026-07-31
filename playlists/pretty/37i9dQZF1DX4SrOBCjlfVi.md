@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Loe Shimmy, Flo Milli, Moneybagg Yo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,090 likes - 49 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,146 likes - 49 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [To The Sun](https://open.spotify.com/track/2Nmz1JAutPMEoeIoS8aaMU) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [To The Sun](https://open.spotify.com/album/7MprKV1cxVGVN7OiA8KXEJ) | 3:10 |
 | 49 | [Yumz](https://open.spotify.com/track/5dJKRbRDT4nyFUeZqQgPm5) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Out The Mud](https://open.spotify.com/album/3MKsDAsoYP3JqLati9Jk4V) | 2:18 |
 
-Snapshot ID: `AAAAAJNw3jxyQle6sVoBSY2/KyCsp/kd`
+Snapshot ID: `AAAAAKyn0elwwgSRMtkNzz/D8RIs/RDV`

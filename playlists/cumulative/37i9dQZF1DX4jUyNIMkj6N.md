@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-423 songs - 1 day 1 hr 23 min
+424 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Away](https://open.spotify.com/track/4d6EvoLIZvyUzX8XHQu0XQ) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Morten Myklebust](https://open.spotify.com/album/1VWqsF4WiqAjzw50HBMHLg) | 2:58 | 2022-07-14 | 2023-11-24 |
 | [Away](https://open.spotify.com/track/4em9t89kgjEodZ8KHtDVYH) | [Morten Myklebust](https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Morten Myklebust](https://open.spotify.com/album/5BELCohj792Bq7FQCHJmic) | 2:58 | 2021-12-02 | 2022-07-29 |
 | [Babylon](https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Babylon](https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h) | 3:40 | 2024-03-14 | 2024-11-08 |
+| [Backside](https://open.spotify.com/track/5dnQpnRgD5Ssc76e9QPFux) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [Backside](https://open.spotify.com/album/5eyeetaAQJzD7FaunBWJ04) | 2:27 | 2026-07-30 |  |
 | [Bad Omen](https://open.spotify.com/track/00cUN2prFK7nR8UZEyRc0r) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Bad Omen](https://open.spotify.com/album/0LTHF3pPSEJN7Rp4TJ0b1R) | 3:22 | 2026-03-26 |  |
 | [Baltic Sea](https://open.spotify.com/track/3pcp6qB2kcuSgwSvNqdWSJ) | [Firstnighter](https://open.spotify.com/artist/4jAXgyZVfE6Meqn6nuzj2q) | [100 words for fear](https://open.spotify.com/album/5ZKPJYO4w2I99pR62sx70D) | 3:00 | 2021-12-02 | 2022-07-26 |
 | [Beautiful Woman](https://open.spotify.com/track/6q7Q8j4oso0rMmJj7xtCzV) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/2knOdaW7pPUpALJpNCZS1R) | 3:33 | 2024-08-01 | 2026-04-03 |
@@ -366,7 +367,7 @@
 | [To Know A Girl](https://open.spotify.com/track/1Wym8u72A2GXzdJnr1LV37) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [To Know A Girl](https://open.spotify.com/album/6KnpVvB8AeJmxnVSscHgOg) | 2:01 | 2026-04-23 |  |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-06 | 2026-04-13 |
 | [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 | 2022-01-06 | 2024-01-19 |
-| [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 |  |
+| [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 | 2026-07-31 |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-05-23 |  |
 | [Ulveham](https://open.spotify.com/track/1We5Dzlzbqq0mLjBVOP7om) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Ulveham](https://open.spotify.com/album/55SbqoLhR1YAZ99wEKNLlB) | 3:02 | 2024-04-18 | 2024-05-02 |
 | [Ulveham](https://open.spotify.com/track/6awPQdcqY8IYdHzqhEYm3s) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Ulveham](https://open.spotify.com/album/1GtVgb3TUKeAn466kCjgwJ) | 3:02 | 2024-02-08 | 2024-04-19 |

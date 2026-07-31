@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAPs78ckN5SFRFeC7ppC6J33bsG5wvs",
+  "snapshot_id": "AAAPtIYuA+qynt8kotB2+kLR/4WcGdnF",
   "tracks": [
     {
       "added_at": "2026-06-01 22:08:37",
@@ -1175,6 +1175,22 @@
       "duration_ms": 163855,
       "name": "You Know",
       "url": "https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC"
+    },
+    {
+      "added_at": "2026-07-30 09:23:03",
+      "album": {
+        "name": "Nervous Systems",
+        "url": "https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml"
+      },
+      "artists": [
+        {
+          "name": "House of Light",
+          "url": "https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp"
+        }
+      ],
+      "duration_ms": 243250,
+      "name": "She's Like The Sea",
+      "url": "https://open.spotify.com/track/0B0HKK954dM1diGqHqmdKa"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

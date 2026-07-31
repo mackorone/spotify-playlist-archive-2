@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Anitta
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,548 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,423 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 49 | [No Se Olvida](https://open.spotify.com/track/5coMeY1kngonsppyyPhxu9) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [No Se Olvida](https://open.spotify.com/album/7yWWNKkBJ2WPt3c9GDP1Yz) | 2:38 |
 | 50 | [Modernidade \- Ao Vivo](https://open.spotify.com/track/0HdOx0wAtUr1nVYBaBOF9i) | [Chitãozinho & Xororó](https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr), [Rionegro & Solimões](https://open.spotify.com/artist/33NrinbbEctw1wsdKNgZeZ) | [Modernidade \(Ao Vivo\)](https://open.spotify.com/album/2wsc1CFRrQUNN2WIf1jxRe) | 3:24 |
 
-Snapshot ID: `AAAAAD1N9e25Xn0LDrMUPq0g6mkqIAdt`
+Snapshot ID: `AAAAAPWznzrc2iVYCFNprYRCj0g/0D1g`

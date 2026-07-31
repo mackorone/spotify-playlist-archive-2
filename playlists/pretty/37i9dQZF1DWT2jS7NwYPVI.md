@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Radio Free Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,580 likes - 125 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,577 likes - 125 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 124 | [A Muted TV](https://open.spotify.com/track/4RqrtnQcEQjbPPQLgS0Y5r) | [Reclus.É](https://open.spotify.com/artist/77myKiTzTz50cL8cMxBuvV) | [A Muted TV](https://open.spotify.com/album/2CApiqUNucJ3iXyPviTTHv) | 4:06 |
 | 125 | [Past Life](https://open.spotify.com/track/6hnla18APCDqUIlL2Ry7Rw) | [Ballet](https://open.spotify.com/artist/0WIbNObVmemQwisszTjb1A) | [Ballet II](https://open.spotify.com/album/1kSWjwKsprgdzDkGSikiNA) | 2:18 |
 
-Snapshot ID: `AAAAAJ7EnxRu3qS4ltw2kNXoPUQlrD2f`
+Snapshot ID: `AAAAAMoVQhkkrRJRWlEs0o/aNeDn08P1`

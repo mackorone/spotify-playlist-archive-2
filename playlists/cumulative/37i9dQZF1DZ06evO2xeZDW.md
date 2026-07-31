@@ -4,7 +4,7 @@
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-57 songs - 2 hr 40 min
+58 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [It's Finn McMissile! \- From "Cars 2"/Score](https://open.spotify.com/track/2iiOa1urBDqoKwjCLkIiG5) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 5:54 | 2026-07-08 |  |
 | [Journey to the Journal](https://open.spotify.com/track/7JuNAiek69RpHtYW9Wsuwv) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:20 | 2026-07-08 |  |
 | [Jyn Erso & Hope Suite](https://open.spotify.com/track/4tD2tUs8Bf4X5dMS6CxccV) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 5:51 | 2026-07-08 |  |
+| [Kate Makes A Splash](https://open.spotify.com/track/02virfGq4V7hyZOVGNCKzP) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Lost: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/4HnYTgnefUufJTvBfOr6fZ) | 0:30 | 2026-07-31 |  |
 | [Le Festin](https://open.spotify.com/track/02JIdsrod3BYucThfUFDUX) | [Camille](https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX), [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:50 | 2026-07-08 |  |
 | [Life's Incredible Again](https://open.spotify.com/track/45MllV1fJos1Ef6Cd13H2E) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV) | 1:24 | 2026-07-08 |  |
 | [London Calling](https://open.spotify.com/track/4JSmTtaYAmKcHhadidacFi) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek Into Darkness \(Music From The Motion Picture\)](https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b) | 2:10 | 2026-07-08 |  |
@@ -39,7 +40,7 @@
 | [Off to Work](https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV) | 1:59 | 2026-07-08 |  |
 | [Pregnancy Testing 1, 2, 3](https://open.spotify.com/track/0Og2yLid9BMCcNy7P9Q2gj) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB) | 1:58 | 2026-07-08 |  |
 | [Ratatouille Main Theme](https://open.spotify.com/track/0AGAl2fZLAoGxGd5dO77Cp) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:09 | 2026-07-08 |  |
-| [Rebellions Are Built on Hope](https://open.spotify.com/track/2y0ujQbyIKpfmGnex4VJZU) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:56 | 2026-07-08 |  |
+| [Rebellions Are Built on Hope](https://open.spotify.com/track/2y0ujQbyIKpfmGnex4VJZU) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:56 | 2026-07-08 | 2026-07-31 |
 | [Special Order](https://open.spotify.com/track/2zfr8xbDTw3pquWSt6dswt) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 1:58 | 2026-07-08 |  |
 | [Star Trek](https://open.spotify.com/track/7yfZybf51ZCHG1waqcDsiu) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek \(Music From The Motion Picture\)](https://open.spotify.com/album/0LGD98m43zunznpBrOsjqe) | 1:01 | 2026-07-08 |  |
 | [Star Trek Main Theme](https://open.spotify.com/track/6fVX8mF9ZqS1V8G2ZFCbLQ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek Into Darkness \(Music From The Motion Picture\)](https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b) | 3:25 | 2026-07-08 |  |

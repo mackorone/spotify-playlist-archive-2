@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> kun det nyeste danske rap 👀 Carmon
+> kun det nyeste danske rap 👀
 
-592 songs - 1 day 1 hr 21 min
+594 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Sig Hva Du Vil Ha \(feat\. Branco\)](https://open.spotify.com/track/56gHLVbUHM9haGcBD6ZZuH) | [Mads Christian](https://open.spotify.com/artist/3Ehbg1qhRKHshR8H2BoR8N), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Sig Hva Du Vil Ha \(feat\. Branco\)](https://open.spotify.com/album/6To8DUVf0SX146d4ToVRIh) | 2:45 | 2025-06-12 | 2025-07-04 |
 | [Signaler](https://open.spotify.com/track/689NPKXoBKWnqJif3uUVre) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Signaler](https://open.spotify.com/album/2RMpD5fPqxyyugiPgCxg2e) | 2:30 | 2024-08-29 | 2024-11-01 |
 | [SIKKE EN TYPE](https://open.spotify.com/track/5zaXybxrzGiDd6IPWIHheW) | [Zuloo](https://open.spotify.com/artist/5Eb9Tyd8uGdju7tI8FPQXr), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [SIKKE EN TYPE](https://open.spotify.com/album/2YxkCdNRwEA0F2O2oNfhU1) | 2:19 | 2025-01-30 | 2025-05-23 |
+| [simpelt](https://open.spotify.com/track/4PJStxahKRlTfufXfSYDer) | [legobygger123](https://open.spotify.com/artist/0u0haqHdqzbTCF5bCYo2hs), [Lil Hawaii](https://open.spotify.com/artist/3yTXycdhHqOnNw51qOiesb) | [klodsflytter vol\. 4](https://open.spotify.com/album/3NKysf4M1j3zZMDwQZn6jd) | 3:04 | 2026-07-30 |  |
 | [Sjonglerer](https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Sjonglerer](https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2) | 2:54 | 2025-02-27 | 2025-04-18 |
 | [Skarpt Lys](https://open.spotify.com/track/2ReomS91v9imlj7ZzzEKqu) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK) | 3:03 | 2024-02-08 | 2024-04-19 |
 | [Skarpt Lys](https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 3:03 | 2023-11-16 | 2024-01-04 |
@@ -582,6 +583,7 @@
 | [Wanna Be My Lady](https://open.spotify.com/track/2bsgTepwbSPYAS0gvlHUw7) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Wanna Be My Lady](https://open.spotify.com/album/5om9PmQ26QpvX2nSxVrcQB) | 1:58 | 2026-01-22 | 2026-02-27 |
 | [wannabee](https://open.spotify.com/track/13mLSGAcaBVwQe6QZohOBn) | [Rune Kuda](https://open.spotify.com/artist/1bmeYQ1w5TJEymee7OLanY), [Loke Deph](https://open.spotify.com/artist/3oRPfWPis1iIWdFElveUuN), [Elias Njovu](https://open.spotify.com/artist/42FrdBvYgumCoyWaYlL530), [MCKold](https://open.spotify.com/artist/46lNUlTtEPdqjrs4SWqfE7), [Kasper](https://open.spotify.com/artist/53jKhZZ8rse1WTivfPi6hb) | [wannabee](https://open.spotify.com/album/4CzMalPrp7E1g54e1RoDny) | 3:35 | 2026-06-19 | 2026-06-26 |
 | [Welcome To The Party](https://open.spotify.com/track/4SzFMT8u6xd8PJy9e7MFUl) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Welcome To The Party](https://open.spotify.com/album/0Ygeof958pxuFxmOptZlHX) | 2:35 | 2023-12-08 | 2024-05-14 |
+| [Westerlin](https://open.spotify.com/track/1x83R7cDnQzpuNwwvRVFZa) | [1WAY](https://open.spotify.com/artist/1Sn41xUC669O7Boqyo2nPH) | [Westerlin](https://open.spotify.com/album/4tTXelGtBBpqCXYdzsCTb6) | 2:24 | 2026-07-30 |  |
 | [WHIP](https://open.spotify.com/track/5FXf7c1DvnUgYBcRqVQJls) | [Tan](https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh) | [WHIP](https://open.spotify.com/album/5WTSkqMuWHQ1GZNcmIi7x3) | 2:17 | 2024-11-28 | 2025-01-17 |
 | [Wimbledon](https://open.spotify.com/track/4mWZ0AJ8gdPixvdE06tgpz) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [Wimbledon](https://open.spotify.com/album/7rhxRAp0OfX87dBLKkG5VN) | 2:20 | 2024-01-19 | 2024-09-13 |
 | [winwin](https://open.spotify.com/track/2MhRuxH6pJKQ0E3xcsLEaZ) | [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Noahs Ark](https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8) | 2:41 | 2024-03-21 | 2024-04-19 |

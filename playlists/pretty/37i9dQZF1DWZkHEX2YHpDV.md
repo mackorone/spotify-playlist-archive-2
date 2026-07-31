@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > a new generation of emo, screamo, post\-hardcore and more\. Cover: Static Dress
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,529 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,670 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 49 | [As a Person](https://open.spotify.com/track/26CqPR37DdqQrlpEynVHmL) | [Cassus](https://open.spotify.com/artist/0xx74nbFQ3QkgrmQ9ZKjHa) | [Scalis Felden](https://open.spotify.com/album/0vPbL97qCSgLBDo2UF0iVK) | 3:06 |
 | 50 | [poison](https://open.spotify.com/track/0V10XVqIsD0vTKGrf9b0Hc) | [Houses We Die In](https://open.spotify.com/artist/5p62veiIRA1sgEM1miwamk) | [A Brief Glimpse of Solace](https://open.spotify.com/album/1hWehO8t95BzMKbgoFSsLu) | 4:05 |
 
-Snapshot ID: `AAAAAC5hBMR72Ki7BDdULATplG/tDoZd`
+Snapshot ID: `AAAAAHyJ7Y2HdUIITM3V56SQwx1vgbUS`

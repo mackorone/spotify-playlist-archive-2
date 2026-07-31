@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: The HU
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,744 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,798 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 99 | [Come Inside](https://open.spotify.com/track/07GA2evqdJjhYOdyPgLXE3) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 3:13 |
 | 100 | [CAN YOU FEEL IT](https://open.spotify.com/track/1UsjO2e3GW7mYpdWXyJ7AN) | [Polyphia](https://open.spotify.com/artist/4vGrte8FDu062Ntj0RsPiZ) | [CAN YOU FEEL IT](https://open.spotify.com/album/0YdzgeVCQZum2GdEGkarQb) | 3:03 |
 
-Snapshot ID: `AAAAANrB1X0DzpxQXexs1RdFb2fNTSzZ`
+Snapshot ID: `AAAAAFCQaKNhuS7ERasrdJDUWcsq5zMr`

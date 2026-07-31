@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 irossa sui vostri schermi
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,504 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,508 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Saxophonist](https://open.spotify.com/track/1FgO639eftNc6r2LYVGQzv) | [irossa](https://open.spotify.com/artist/3r7ayqsHrVs1aeD7SiBTsz) | [Stelle aggressive si addormentano come cani in tempesta](https://open.spotify.com/album/5oIJiKTNJNyBRbRfAU07IL) | 3:04 |
-| 2 | [La sinistra è morta \(feat\. Brucherò nei pascoli\)](https://open.spotify.com/track/1EjaLCsoOihFp7vH3NINpM) | [NOVE](https://open.spotify.com/artist/3XIYJmJjLZKAXy9soJQHBo), [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [La sinistra è morta \(feat\. Brucherò nei pascoli\)](https://open.spotify.com/album/53b6iCCkASFqfqpAwXoW1k) | 3:10 |
-| 3 | [Matador](https://open.spotify.com/track/7sC6znYWJHJkWLFkvIZTCX) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [t’ amango](https://open.spotify.com/album/5cAT5HRLD002iI3fpffv2j) | 3:54 |
-| 4 | [From demo to disco](https://open.spotify.com/track/2MPP2vqeoAkCAWvSuCHhWO) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [From demo to disco](https://open.spotify.com/album/4hm9i68Y5oV09efxtNqTQD) | 4:34 |
-| 5 | [XIII](https://open.spotify.com/track/3F5BYvaK9Xh5h9Rx9Wdppb) | [LENORE](https://open.spotify.com/artist/3AvVz3t2SmErEakXenKwbT) | [Demos, B\-sides, Acoustics, Vol.1](https://open.spotify.com/album/4pcAmgTSpM8J9LcKMgrWS1) | 4:15 |
-| 6 | [Ezechiele \(feat\. Lamante\)](https://open.spotify.com/track/1iHDrxi8144dQhHUeyQ76Q) | [Edda](https://open.spotify.com/artist/0qi7WoeTNK5h4UkIamBiiL), [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Messe Sporche](https://open.spotify.com/album/0T5rlXEcGOiAFZbJeqKAKV) | 2:42 |
-| 7 | [DEJAVU](https://open.spotify.com/track/053gl71zIZtFkG4liMKSOH) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [DEJAVU](https://open.spotify.com/album/4OPD15l7VWt44Zd4VeTr45) | 2:20 |
-| 8 | [Il molo degli Inglesi](https://open.spotify.com/track/7jImJTbZYgHMilqt9BPN3D) | [Pallida Cavtat](https://open.spotify.com/artist/0TjLwWcYmohY41tBvykTAa) | [Il molo degli Inglesi](https://open.spotify.com/album/3pT7K1qxaLddN7khup2QAl) | 4:16 |
-| 9 | [Cianite](https://open.spotify.com/track/2TIH7mdB2p9U4rorlD5p7l) | [Malafauna](https://open.spotify.com/artist/73PNa5jWs5AbEFaMQK13DQ) | [Cianite](https://open.spotify.com/album/3hWqEAlEXCtjyQi5kC9OrC) | 5:02 |
-| 10 | [Be free now](https://open.spotify.com/track/2N9SSIL0vGoNq7CU46rqi8) | [Yuppie Flu](https://open.spotify.com/artist/1qTOyH1u1IfmKKx8LzF8KW) | [Be free now](https://open.spotify.com/album/2MLsS6GZJbPjhh5T3eQdpH) | 3:05 |
-| 11 | [Le tue dita ferme](https://open.spotify.com/track/6Oc19Mr1LOsLpeGijtdWAU) | [irossa](https://open.spotify.com/artist/3r7ayqsHrVs1aeD7SiBTsz) | [La mia stella aggressiva si nasconde nelle virgole e nei punti](https://open.spotify.com/album/6UXP2nbjsFsFBqB8dKKlFt) | 2:55 |
-| 12 | [PRENDI LA MIRA E BASTA](https://open.spotify.com/track/70FQOnXMKq3ZDUNPVJmeYR) | [KLAUS NOIR](https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e) | [PRENDI LA MIRA E BASTA](https://open.spotify.com/album/0csK30chHho12GO4HfYrnm) | 2:26 |
-| 13 | [Moor](https://open.spotify.com/track/1Nlzqxn3d969FEU3I8edX1) | [ultrasaturated](https://open.spotify.com/artist/5jzmHcHM6la5EEnffjdOrC) | [Feral Spring](https://open.spotify.com/album/4sedvaHt4hUTNokqGLkHL0) | 3:27 |
+| 2 | [Matador](https://open.spotify.com/track/7sC6znYWJHJkWLFkvIZTCX) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [t’ amango](https://open.spotify.com/album/5cAT5HRLD002iI3fpffv2j) | 3:54 |
+| 3 | [DEJAVU](https://open.spotify.com/track/053gl71zIZtFkG4liMKSOH) | [VAEVA](https://open.spotify.com/artist/2xP0ZgiHfJOP8dzz3ij10b) | [DEJAVU](https://open.spotify.com/album/4OPD15l7VWt44Zd4VeTr45) | 2:20 |
+| 4 | [XIII](https://open.spotify.com/track/3F5BYvaK9Xh5h9Rx9Wdppb) | [LENORE](https://open.spotify.com/artist/3AvVz3t2SmErEakXenKwbT) | [Demos, B\-sides, Acoustics, Vol.1](https://open.spotify.com/album/4pcAmgTSpM8J9LcKMgrWS1) | 4:15 |
+| 5 | [Cianite](https://open.spotify.com/track/2TIH7mdB2p9U4rorlD5p7l) | [Malafauna](https://open.spotify.com/artist/73PNa5jWs5AbEFaMQK13DQ) | [Cianite](https://open.spotify.com/album/3hWqEAlEXCtjyQi5kC9OrC) | 5:02 |
+| 6 | [Moor](https://open.spotify.com/track/1Nlzqxn3d969FEU3I8edX1) | [ultrasaturated](https://open.spotify.com/artist/5jzmHcHM6la5EEnffjdOrC) | [Feral Spring](https://open.spotify.com/album/4sedvaHt4hUTNokqGLkHL0) | 3:27 |
+| 7 | [La sinistra è morta \(feat\. Brucherò nei pascoli\)](https://open.spotify.com/track/1EjaLCsoOihFp7vH3NINpM) | [NOVE](https://open.spotify.com/artist/3XIYJmJjLZKAXy9soJQHBo), [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [La sinistra è morta \(feat\. Brucherò nei pascoli\)](https://open.spotify.com/album/53b6iCCkASFqfqpAwXoW1k) | 3:10 |
+| 8 | [From demo to disco](https://open.spotify.com/track/2MPP2vqeoAkCAWvSuCHhWO) | [TA GA DA](https://open.spotify.com/artist/4UL9L4TWC5aRyfvc1qHFZ5) | [From demo to disco](https://open.spotify.com/album/4hm9i68Y5oV09efxtNqTQD) | 4:34 |
+| 9 | [Ezechiele \(feat\. Lamante\)](https://open.spotify.com/track/1iHDrxi8144dQhHUeyQ76Q) | [Edda](https://open.spotify.com/artist/0qi7WoeTNK5h4UkIamBiiL), [Lamante](https://open.spotify.com/artist/2xeeRKVa5SjYer8xeOMHgd) | [Messe Sporche](https://open.spotify.com/album/0T5rlXEcGOiAFZbJeqKAKV) | 2:42 |
+| 10 | [Il molo degli Inglesi](https://open.spotify.com/track/7jImJTbZYgHMilqt9BPN3D) | [Pallida Cavtat](https://open.spotify.com/artist/0TjLwWcYmohY41tBvykTAa) | [Il molo degli Inglesi](https://open.spotify.com/album/3pT7K1qxaLddN7khup2QAl) | 4:16 |
+| 11 | [Be free now](https://open.spotify.com/track/2N9SSIL0vGoNq7CU46rqi8) | [Yuppie Flu](https://open.spotify.com/artist/1qTOyH1u1IfmKKx8LzF8KW) | [Be free now](https://open.spotify.com/album/2MLsS6GZJbPjhh5T3eQdpH) | 3:05 |
+| 12 | [Le tue dita ferme](https://open.spotify.com/track/6Oc19Mr1LOsLpeGijtdWAU) | [irossa](https://open.spotify.com/artist/3r7ayqsHrVs1aeD7SiBTsz) | [La mia stella aggressiva si nasconde nelle virgole e nei punti](https://open.spotify.com/album/6UXP2nbjsFsFBqB8dKKlFt) | 2:55 |
+| 13 | [PRENDI LA MIRA E BASTA](https://open.spotify.com/track/70FQOnXMKq3ZDUNPVJmeYR) | [KLAUS NOIR](https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e) | [PRENDI LA MIRA E BASTA](https://open.spotify.com/album/0csK30chHho12GO4HfYrnm) | 2:26 |
 | 14 | [Tessere](https://open.spotify.com/track/51gjw1p3P5MAYzUgZMz4uw) | [Slowroam](https://open.spotify.com/artist/2c1GFgbqbNMYP8PmaoacgN) | [Tessere](https://open.spotify.com/album/55qS3z2KCRVWCN5OnT7e9m) | 3:05 |
 | 15 | [Frigo](https://open.spotify.com/track/0iG3F1sIeNbUdYBK2iQX48) | [Circus Punk](https://open.spotify.com/artist/2pvvQ4uYQ6xu6pJiIRN2QM) | [Frigo](https://open.spotify.com/album/1aVA4X1U2baIysoiC4dRCJ) | 1:34 |
 | 16 | [TIME OF MY LIFE](https://open.spotify.com/track/1uy1ubRkZbny4QXoWRqExk) | [Stunt Pilots](https://open.spotify.com/artist/5Q2syrsNfctel905QjIMXr) | [TIME OF MY LIFE](https://open.spotify.com/album/2FVhkDCrWXKpOmN9CHZacl) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 99 | [Nerorgasmo](https://open.spotify.com/track/6BmajVWQNfk7ZB0cGJncpT) | [ALLERTA!](https://open.spotify.com/artist/0hKvP3aJhzfrFwABgGJHUI) | [Nerorgasmo](https://open.spotify.com/album/7w5fmnH00zbvBmbu1UZ6RB) | 2:56 |
 | 100 | [Gestire La Rabbia](https://open.spotify.com/track/6YD1QI9vBV6eWrX9lsEa4D) | [Grandi Raga](https://open.spotify.com/artist/5loTEXentPIJLRmZ06bzQr) | [Gestire La Rabbia](https://open.spotify.com/album/0fyey4mEyy7PgYntWdLhUT) | 3:45 |
 
-Snapshot ID: `AAAAACwTTo+49ZxYfCbWhxLYjZVm1gOJ`
+Snapshot ID: `AAAAABd8dvgiVihpJLgV3bUAP2StprgZ`

@@ -1,28 +1,28 @@
 {
-  "description": "The best new music by independent Experimental artists. <a href=\"spotify:artist:5yD3wA48IGUoCVboe0LdHx\">Standing On The Corner</a> on cover. Artwork by Thami Nabil.",
-  "num_followers": 199014,
+  "description": "The best new music by independent Experimental artists. <a href=\"spotify:artist:4QVnoNeoWQkbb9oOG4Ce2f\">Gloorp</a> on cover. Artwork by Thami Nabil.",
+  "num_followers": 199053,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEC/rA45kmhjvxf3RFSXGiRhSby4",
+  "snapshot_id": "AAAAAGMON5jwxzZRpEB9QQFPUYxto+bO",
   "tracks": [
     {
-      "added_at": "2026-07-17 17:13:46",
+      "added_at": "2026-07-30 04:00:30",
       "album": {
-        "name": "Mr. Postman, wait!",
-        "url": "https://open.spotify.com/album/4zCF8FDIJYdT6kQ7Y1COXQ"
+        "name": "Gloorp Life",
+        "url": "https://open.spotify.com/album/54OXD4tM4Qo3YN2ehGCwov"
       },
       "artists": [
         {
-          "name": "Standing On The Corner",
-          "url": "https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx"
+          "name": "Gloorp",
+          "url": "https://open.spotify.com/artist/4QVnoNeoWQkbb9oOG4Ce2f"
         }
       ],
-      "duration_ms": 203656,
-      "name": "Mr. Postman, wait!",
-      "url": "https://open.spotify.com/track/6ZiYZHxGlCgg9fkEazDWWi"
+      "duration_ms": 215978,
+      "name": "Swag",
+      "url": "https://open.spotify.com/track/7MEJdaQ9rSY332NVI6tiL5"
     },
     {
       "added_at": "2026-07-24 04:01:47",
@@ -89,6 +89,26 @@
       "url": "https://open.spotify.com/track/27RpDOjJDvKj0hxLT8WJI7"
     },
     {
+      "added_at": "2026-07-30 04:00:30",
+      "album": {
+        "name": "Vanishing",
+        "url": "https://open.spotify.com/album/5Vl6eZiySrxnaMoi9YeY9S"
+      },
+      "artists": [
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        },
+        {
+          "name": "Dis Fig",
+          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
+        }
+      ],
+      "duration_ms": 210297,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/7mkaHMnfl2liX2tLpCanxw"
+    },
+    {
       "added_at": "2026-07-17 17:13:46",
       "album": {
         "name": "SI YE YE",
@@ -103,22 +123,6 @@
       "duration_ms": 324493,
       "name": "SI YE YE",
       "url": "https://open.spotify.com/track/7L7ZrVYP4GgTfft6rP1qRZ"
-    },
-    {
-      "added_at": "2026-07-24 04:01:47",
-      "album": {
-        "name": "Retrouvaille",
-        "url": "https://open.spotify.com/album/3xhViprOCkwUzNqSC6uCHP"
-      },
-      "artists": [
-        {
-          "name": "NOAMZ",
-          "url": "https://open.spotify.com/artist/3BPczeMyrRHb0BnuKos5jc"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Lambi",
-      "url": "https://open.spotify.com/track/4ILpdi4eqjLedMDZKfjJSI"
     },
     {
       "added_at": "2026-07-24 04:01:47",
@@ -329,6 +333,22 @@
       "url": "https://open.spotify.com/track/0JtscTBmEhAhw3PalM7AST"
     },
     {
+      "added_at": "2026-07-30 04:00:30",
+      "album": {
+        "name": "Bivabippabualukka",
+        "url": "https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "duration_ms": 247629,
+      "name": "Juaduddanya",
+      "url": "https://open.spotify.com/track/7k4PPInBDLOfPUvuQx6CKK"
+    },
+    {
       "added_at": "2026-07-17 17:13:46",
       "album": {
         "name": "Here In the Valley",
@@ -487,6 +507,22 @@
       "duration_ms": 278000,
       "name": "\uff0d\uff0d\uff0d \uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff0d\uff65\uff0d\uff0d",
       "url": "https://open.spotify.com/track/4XupTIpXQXHehljGjLkiwl"
+    },
+    {
+      "added_at": "2026-07-30 04:00:30",
+      "album": {
+        "name": "Tessares",
+        "url": "https://open.spotify.com/album/5cVhwY4xBaFrX06wn41rjK"
+      },
+      "artists": [
+        {
+          "name": "dgoHn",
+          "url": "https://open.spotify.com/artist/7niTXistKYVF29W4Bo0cUt"
+        }
+      ],
+      "duration_ms": 278093,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/20E78xm16Tvx3soPntpG25"
     },
     {
       "added_at": "2026-07-17 17:13:46",
@@ -879,6 +915,22 @@
       "duration_ms": 251500,
       "name": "HOLD ME (SLOWLY)",
       "url": "https://open.spotify.com/track/2PLrLPJX9UOXTAWMsJqR9m"
+    },
+    {
+      "added_at": "2026-07-17 17:13:46",
+      "album": {
+        "name": "Mr. Postman, wait!",
+        "url": "https://open.spotify.com/album/4zCF8FDIJYdT6kQ7Y1COXQ"
+      },
+      "artists": [
+        {
+          "name": "Standing On The Corner",
+          "url": "https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx"
+        }
+      ],
+      "duration_ms": 203656,
+      "name": "Mr. Postman, wait!",
+      "url": "https://open.spotify.com/track/6ZiYZHxGlCgg9fkEazDWWi"
     },
     {
       "added_at": "2026-07-17 17:13:46",

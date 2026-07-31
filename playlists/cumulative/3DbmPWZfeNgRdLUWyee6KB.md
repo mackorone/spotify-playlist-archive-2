@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,336 songs - 3 day 5 hr 41 min
+1,337 songs - 3 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -913,6 +913,7 @@
 | [Ready, Set, Go.](https://open.spotify.com/track/0ySUMpzNZ0HC8ztomSTKtz) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Ready, Set, Go.](https://open.spotify.com/album/0esJrPhaQKTgfeujAPP0Oj) | 3:02 | 2025-09-19 | 2025-11-29 |
 | [Rebel Made](https://open.spotify.com/track/48kOUJRx3b9bMHpc4Mv0td) | [Ichinomoto Yu](https://open.spotify.com/artist/0RKwMRcEaP7vFUsyQOLOkr) | [Rebel Made](https://open.spotify.com/album/1Zy5kzjejttU7SwzqQoWHf) | 2:39 | 2026-01-06 | 2026-02-03 |
 | [Rebirth](https://open.spotify.com/track/1IdFUJbDpk2Jn84iY7hZ0M) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Control Room Lullaby](https://open.spotify.com/album/41pmW1HV3QzClCAu6DXO46) | 2:53 | 2026-05-12 | 2026-07-03 |
+| [REBORN](https://open.spotify.com/track/14xy96mlVAmznohNLXRO5j) | [DISSONANT](https://open.spotify.com/artist/3XYNgEne3ULFkzHdtXXUpl) | [AFTERDOPAMYNE](https://open.spotify.com/album/6KfgIIVc5kUvBnMmQzjob8) | 2:34 | 2026-07-30 |  |
 | [Red](https://open.spotify.com/track/1nHbcuZgDFlzl3nSzyKDP8) | [Traibal](https://open.spotify.com/artist/4i0IuCytfQc31TpUfEkHDH) | [Red](https://open.spotify.com/album/29Pgnwt520inhPBgYzKOy4) | 2:35 | 2026-06-17 | 2026-07-19 |
 | [Red Golden Years](https://open.spotify.com/track/0lyYJ8i6a1ZqUpABoGNiel) | [Ale Riatti](https://open.spotify.com/artist/3CMakSpatfEpwfe5LlAsFD) | [The Giant](https://open.spotify.com/album/7lOE2qWALgcTOra7Dt48f4) | 3:40 | 2025-09-29 | 2025-11-29 |
 | [Reflections](https://open.spotify.com/track/4dWzEmytzQ8wyZ4yq5zCcB) | [Amanda Jean](https://open.spotify.com/artist/6O3ew5mruts7AzkJPT39og) | [Reflections](https://open.spotify.com/album/3Czus5DPB4YVhJV6JFtOOC) | 3:26 | 2026-02-15 | 2026-03-15 |
@@ -1086,7 +1087,7 @@
 | [Teal Waves And Rum Nights](https://open.spotify.com/track/0mLFAl3zHncCDtAhjF3Pjh) | [The Florida Shipwreckers](https://open.spotify.com/artist/1BMsaOL5sPmOIbec8WUFl4) | [Daiquiris and Sandy Knees](https://open.spotify.com/album/73iwb1DaCm4T15RTf77lAj) | 4:04 | 2026-01-26 | 2026-02-28 |
 | [Tears](https://open.spotify.com/track/71KWkDcT5lwG1dG2mCf5vu) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0) | [Tears](https://open.spotify.com/album/1aF7rNMvxmQxTxRkGy6pUi) | 3:29 | 2026-03-18 | 2026-04-22 |
 | [Tell Me Where The Light's Gone](https://open.spotify.com/track/1CV0dfCgjLoZbj3ysBndNU) | [Mitch Meyer](https://open.spotify.com/artist/7yOCg6zTd1wMxKCBdD99uk) | [Tell Me Where The Light's Gone](https://open.spotify.com/album/6614ReT8bDTay3fLxIYd4U) | 3:20 | 2026-05-19 | 2026-07-19 |
-| [Temporale](https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Temporale](https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0) | 2:32 | 2026-06-19 | 2026-07-19 |
+| [Temporale](https://open.spotify.com/track/6fcg53c7n41DTfwE8JbjVk) | [Heygregg](https://open.spotify.com/artist/1osX1AI2YS7ZYZNkkry7iJ) | [Temporale](https://open.spotify.com/album/1GzSHr7iwT76nRnL2zRHh0) | 2:32 | 2026-06-19 |  |
 | [Temptation](https://open.spotify.com/track/2vYEf6osvIaDzuCYpmshkJ) | [VKB Band](https://open.spotify.com/artist/4z5Gn36zfWAKYW3jut0Pop) | [Yesterday is Here](https://open.spotify.com/album/5lMe79wBPvY7rPZzlbvi1j) | 2:40 | 2026-01-20 | 2026-02-20 |
 | [Tengo](https://open.spotify.com/track/3kNqJjZyw1IC49IafzLZGm) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Entre gargantas y oídos](https://open.spotify.com/album/3kh5AEj633mAw7PNRdkctx) | 2:50 | 2025-11-25 | 2026-01-05 |
 | [Tere Ishq Mai](https://open.spotify.com/track/6noYEFKEF9mYBVsBbMXhKU) | [DrXHassan](https://open.spotify.com/artist/7IYdWmzwMltrg8VhYrnvKJ) | [Tere Ishq Mai](https://open.spotify.com/album/08kUqXUD2VATh2vKUcn6JT) | 3:54 | 2026-01-26 | 2026-02-28 |

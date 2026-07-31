@@ -1,12 +1,12 @@
 {
   "description": "The latest, greatest cinematic soundtracks from the big and small screen.",
-  "num_followers": 328529,
+  "num_followers": 328574,
   "original_name": "New Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH3DXYi4V274V+SoMm0ArBR+eH59",
+  "snapshot_id": "AAAAALtji4qEOWXC8mE6TxpUC5XjiONI",
   "tracks": [
     {
       "added_at": "2026-07-27 08:26:00",
@@ -23,6 +23,22 @@
       "duration_ms": 159258,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/6i7olOxVWLxv9khPk8tvBO"
+    },
+    {
+      "added_at": "2026-07-27 08:26:00",
+      "album": {
+        "name": "Diving With Dolphins (Full Soundtrack)",
+        "url": "https://open.spotify.com/album/3KwYbOkxICWXaYGrNipstQ"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Taylor",
+          "url": "https://open.spotify.com/artist/4wlJbPnD0oX777NyV8w3y4"
+        }
+      ],
+      "duration_ms": 197196,
+      "name": "Symphony of Giants",
+      "url": "https://open.spotify.com/track/1wKqDVgdgCxMkFDv8BKFf4"
     },
     {
       "added_at": "2026-07-27 08:26:00",

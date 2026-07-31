@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Tchelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,771 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,726 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Regra Nº 5](https://open.spotify.com/track/4Jb4eq2IiBg5zrvMuKVvic) | [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Regra Nº 5](https://open.spotify.com/album/6t32UwWwZurbjl5cJvAU53) | 3:22 |
 | 75 | [AMIGA DE VERDADE](https://open.spotify.com/track/1A4pyJBjfHd5DPYEkgPpbu) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [C7](https://open.spotify.com/artist/5NOWNYEWllb4OR576ZarpD), [Art](https://open.spotify.com/artist/20WhSjQqxbo1pXHYY3bTPQ) | [AMIGA DE VERDADE](https://open.spotify.com/album/4uq5r0bPep8OkpQC5Pidfm) | 3:00 |
 
-Snapshot ID: `AAAAANOeTM+E6dVUsXYVU+FC0Kvtg00J`
+Snapshot ID: `AAAAAK0ltoOOHp670UhyUgIedO9ni/99`

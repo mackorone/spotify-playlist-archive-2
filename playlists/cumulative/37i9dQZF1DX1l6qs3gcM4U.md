@@ -2,9 +2,9 @@
 
 ### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
 
-> Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo, 3 Finer
+> Fall in love with the sensual sounds of Kizomba! Cover: Jey V
 
-693 songs - 1 day 15 hr 50 min
+694 songs - 1 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Mimada](https://open.spotify.com/track/2VugOcxyvCTdL0JeJgtqKW) | [Charbel](https://open.spotify.com/artist/1jzhZZMd89GubECPesE60j) | [Mimada](https://open.spotify.com/album/4ZbGgrkRpPVys4MoxDRZUR) | 3:50 | 2022-02-03 | 2022-07-12 |
 | [Minha Ciumenta Favorita](https://open.spotify.com/track/3ljqmHaPB0yUC2UOg3UFiM) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [Minha Ciumenta Favorita](https://open.spotify.com/album/3LdD8xLh3tg7EcRRmnT8wp) | 2:54 | 2022-02-18 | 2022-04-21 |
 | [Minha Doce](https://open.spotify.com/track/6EdeFgyufUiyaOyqaZF17W) | [Os Boyca](https://open.spotify.com/artist/0Mw9tVdMvVHEqTJMIMKlI5) | [Minha Doce](https://open.spotify.com/album/4Dx5Vq09TKyEel4OKsYVvq) | 2:58 | 2022-04-08 | 2022-04-20 |
+| [Minha Mulher](https://open.spotify.com/track/1LsDpnXvZP0fpk79zYv8ct) | [Ronaldo Fernandes](https://open.spotify.com/artist/47LXVWC7NdpaeeRruejUZu) | [Minha Mulher](https://open.spotify.com/album/2QIZnQIKTaywVaUYRyfj7x) | 3:08 | 2026-07-30 |  |
 | [Minha Sorte](https://open.spotify.com/track/1cDHMNjpd502ILANRGov04) | [Yola Semedo](https://open.spotify.com/artist/2lXUVHEPWMqeYtKXhb1tm9) | [Minha Sorte](https://open.spotify.com/album/2vCwCyFSsSvd7I7tw0CNm2) | 3:54 | 2021-12-10 | 2022-07-28 |
 | [Miúda Linda](https://open.spotify.com/track/0ekgdkhtSRrulobfo6kMMY) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Four](https://open.spotify.com/album/0Hkdn3XNPCGajcT6S73thC) | 3:37 | 2023-12-08 | 2024-04-19 |
 | [Miúda Linda](https://open.spotify.com/track/0jmwFUYbHEqPY60yeJIGvT) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Four](https://open.spotify.com/album/796mwl4j1EFonUd7zdA6g5) | 3:37 | 2021-12-10 | 2023-12-09 |
@@ -412,7 +413,7 @@
 | [Novinha](https://open.spotify.com/track/2cmUALNtYgeliYg5SowpRf) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Novinha](https://open.spotify.com/album/1QON4WuMFqar4TTVjyWlEN) | 3:09 | 2022-11-04 | 2022-11-18 |
 | [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 | 2022-12-09 | 2024-10-04 |
 | [Novo Amor](https://open.spotify.com/track/4IdyLuhexm9cbXUcDq5AYQ) | [Nello Fellirio](https://open.spotify.com/artist/4bhLHkwtkdynyvACyYesq4), [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv) | [Novo Amor](https://open.spotify.com/album/745TKCU7StzNDkqxHudunL) | 2:44 | 2022-05-13 | 2022-06-17 |
-| [Noz Cantinh](https://open.spotify.com/track/29v088i4fNJwiIqiOMVZ5W) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Noz Cantinh](https://open.spotify.com/album/71n3i7F7wQsYUPux9m4ZMW) | 3:38 | 2025-07-24 |  |
+| [Noz Cantinh](https://open.spotify.com/track/29v088i4fNJwiIqiOMVZ5W) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Noz Cantinh](https://open.spotify.com/album/71n3i7F7wQsYUPux9m4ZMW) | 3:38 | 2025-07-24 | 2026-07-31 |
 | [Nu Tenta Evita](https://open.spotify.com/track/3euTZvtjT9UFtbkO3tWkgU) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj), [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE) | [Nu Tenta Evita](https://open.spotify.com/album/3bKdYaCbOWaSbASO5DT9mN) | 3:18 | 2023-05-25 | 2025-03-28 |
 | [Nubian Queen](https://open.spotify.com/track/0ZWU5lJs0mA085Phf8PJA2) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB) | [Nubian Queen](https://open.spotify.com/album/7fk3arz1TJEFTtwUWUbYGS) | 4:04 | 2021-12-10 | 2022-06-14 |
 | [Number One](https://open.spotify.com/track/0rauOsfmlYgBGkWFc4NHft) | [Boy Teddy](https://open.spotify.com/artist/14W9ZwBj7ccu21CPJtenCh) | [Number One](https://open.spotify.com/album/3avFebwaW78qZoLNXmBhLx) | 3:46 | 2022-03-25 | 2022-10-21 |

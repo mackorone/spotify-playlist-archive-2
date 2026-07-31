@@ -2,7 +2,7 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> GIMS au sommet de la première playlist de France.
+> Ofenbach x Starsailor au sommet de la première playlist de France.
 
 481 songs - 1 day 0 hr 19 min
 

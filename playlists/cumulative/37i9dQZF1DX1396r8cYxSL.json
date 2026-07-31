@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "2026 yaz\u0131n\u0131n \u015fark\u0131lar\u0131. Kapak: G\u00fcl\u015fen",
+  "description": "2026 yaz\u0131n\u0131n \u015fark\u0131lar\u0131. Kapak: Hadise",
   "name": "Yaz Hitleri 2026",
   "tracks": [
     {
@@ -528,6 +528,24 @@
       "duration_ms": 191275,
       "name": "BAYBAY",
       "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
+    },
+    {
+      "album": {
+        "name": "Ba\u015fa Bela",
+        "url": "https://open.spotify.com/album/2c8n5PoruLqgaGQYmACWe8"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154081,
+      "name": "Ba\u015fa Bela",
+      "url": "https://open.spotify.com/track/0onzYPfM09MY31tUkb0xgj"
     },
     {
       "album": {
@@ -1094,6 +1112,24 @@
       "duration_ms": 185786,
       "name": "De\u011fi\u015fmene Ra\u011fmen",
       "url": "https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp"
+    },
+    {
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V"
     },
     {
       "album": {
@@ -1782,7 +1818,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 139350,
       "name": "hola hola",
       "url": "https://open.spotify.com/track/4va2AJCPRNFuCSm8RaPmVL"
@@ -2888,7 +2924,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 186881,
       "name": "Sen A\u011fla",
       "url": "https://open.spotify.com/track/1QTxQQfJjNYzMcOpilX3Bf"
@@ -3310,6 +3346,24 @@
       "duration_ms": 142222,
       "name": "TAMAM SENS\u0130N",
       "url": "https://open.spotify.com/track/6oc2WQSZv5jZ1XXFw37GiS"
+    },
+    {
+      "album": {
+        "name": "TAMPONTAMPONA",
+        "url": "https://open.spotify.com/album/5flqeedURwamU6B8An5lAb"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "TAMPONTAMPONA",
+      "url": "https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf"
     },
     {
       "album": {
@@ -3944,7 +3998,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 180233,
       "name": "\u00c7ek Teti\u011fi",
       "url": "https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK"

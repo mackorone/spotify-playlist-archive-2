@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Nono La Grinta au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Guy2Bezbar au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -1178,7 +1178,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 115488,
       "name": "BLICK",
       "url": "https://open.spotify.com/track/1CqfEGarqDPhWUKft6Gy9z"
@@ -3947,6 +3947,24 @@
     },
     {
       "album": {
+        "name": "Jeunesse Dor\u00e9e",
+        "url": "https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172786,
+      "name": "Je pense \u00e0 toi",
+      "url": "https://open.spotify.com/track/5qq9r3KUlpinOXLO7zEDo8"
+    },
+    {
+      "album": {
         "name": "Jefe",
         "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
       },
@@ -5356,7 +5374,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 157440,
       "name": "Maracan\u00e3",
       "url": "https://open.spotify.com/track/2cG3gLsTpuZgFNY7u5KFSW"
@@ -6407,6 +6425,24 @@
     },
     {
       "album": {
+        "name": "En Croix",
+        "url": "https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv"
+      },
+      "artists": [
+        {
+          "name": "Lagui",
+          "url": "https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Olivia Valere",
+      "url": "https://open.spotify.com/track/6UThEXDDl7N3CWeFxYTMnm"
+    },
+    {
+      "album": {
         "name": "ON FAIT LES CHOSES",
         "url": "https://open.spotify.com/album/1VozY09WFHQaiaukAI2MTh"
       },
@@ -6506,7 +6542,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 154000,
       "name": "Opps",
       "url": "https://open.spotify.com/track/64w194RfaOBL7bJr2uD2Zg"
@@ -8472,6 +8508,28 @@
       "duration_ms": 153253,
       "name": "T'aimerais (feat. Ziak)",
       "url": "https://open.spotify.com/track/659scToLVMQbD0vBdwuvFa"
+    },
+    {
+      "album": {
+        "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
+        "url": "https://open.spotify.com/album/1Fbqsi2HxBGmopqqBQ6iBt"
+      },
+      "artists": [
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "T'\u00e9tais o\u00f9 (feat. Morad)",
+      "url": "https://open.spotify.com/track/58o2zTwld2GgP7RQ2BYU94"
     },
     {
       "album": {

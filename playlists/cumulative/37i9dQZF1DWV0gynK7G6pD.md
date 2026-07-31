@@ -4,7 +4,7 @@
 
 > Updated every Friday with the very best classical new releases\. Cover: Lavinia Meijer
 
-16,400 songs - 51 day 23 hr 29 min
+16,401 songs - 51 day 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4798,6 +4798,7 @@
 | [First Sight](https://open.spotify.com/track/7o5JkCTVObpUvLV9gENY3s) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [First Sight](https://open.spotify.com/album/1qHljZDSTyc5AutmbSg5jb) | 2:09 | 2022-04-01 | 2022-04-09 |
 | [First Snow](https://open.spotify.com/track/7MTEfa5aqS3EwPWOoePJNK) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [First Snow](https://open.spotify.com/album/5Xoh4Qjg4gOBdsRgAzlzJx) | 2:50 | 2025-10-31 | 2025-11-08 |
 | [First Sonata In G Major: I\. Allegro moderato](https://open.spotify.com/track/5l1589BU203YxASyWqwORd) | [Étienne Ozi](https://open.spotify.com/artist/7c3yXRd8ZwZwFL5pvr27wY), [Mathieu Lussier](https://open.spotify.com/artist/086vC1OKgoCJwGd7RT0QvG), [Amanda Keesmaat](https://open.spotify.com/artist/0VRXcJLuFtiOhESjEAS9Fo), [Christophe Gauthier](https://open.spotify.com/artist/4po2Ird6tc8UsgKJkKcn3H) | [Ozi: First Sonata In G Major: I\. Allegro moderato](https://open.spotify.com/album/5E7JirenVOpLl8MKBwYNBX) | 5:03 | 2024-11-22 | 2024-11-30 |
+| [First Work: II\. The First Word](https://open.spotify.com/track/6sFC3pcsf65qFeX2ps3GB3) | [Samuel Adams](https://open.spotify.com/artist/6fooVceycsdYmxRMyc7UUU), [Aspen Contemporary Ensemble](https://open.spotify.com/artist/29wL6TPn3POvt9dZp8tAdz), [Melanie Spector](https://open.spotify.com/artist/4hem5j5dvTUTS9O2mH80L6), [Timothy Weiss](https://open.spotify.com/artist/1IVvmNcUKbIv8l4HQb5h89) | [Samuel Adams: First Work: II\. The First Word](https://open.spotify.com/album/0Th4wihOAIpehBgxLV6hmu) | 6:44 | 2026-07-27 |  |
 | [Five Bagatelles: III\. Alla Cubana](https://open.spotify.com/track/6Z8EVZDUzZmKgDkxO8CBcK) | [William Walton](https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU) | [Portfolio](https://open.spotify.com/album/0yTWb8Ss4Kx8UNHTRkCOkj) | 2:07 | 2022-12-09 | 2022-12-17 |
 | [Five Fragments, Op\. 42: III\. Largo](https://open.spotify.com/track/6cCYR8qhQKx92ltVQs5BCk) | [Dmitri Shostakovich](https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA), [Orchestre Philharmonique de Radio France](https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd), [Mikko Franck](https://open.spotify.com/artist/4NDdDDmlbZ0CNT7rxKUPGq) | [Shostakovich: Symphony No\. 14](https://open.spotify.com/album/60YOJtmNkre4byE72lZmXs) | 4:38 | 2023-10-20 | 2023-10-28 |
 | [Five Housman Songs Op 14, Part 3: No\. 5, Because I liked you better](https://open.spotify.com/track/5TTl4BK62hxTKhwQi3rtwf) | [Lennox Berkeley](https://open.spotify.com/artist/2V0VrZFIcWB3jB8FXrYyQs), [Robin Tritschler](https://open.spotify.com/artist/18bq9byO87c9dDuKrOKrZj), [Malcolm Martineau](https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2) | [Five Housman Songs Op 14, Part 3: No\. 5, Because I liked you better](https://open.spotify.com/album/3dOVaG3WdNgeznCHeZHMUR) | 2:53 | 2024-05-17 | 2024-05-25 |

@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 230349,
+  "num_followers": 230396,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGy4wryUAAYdDOLsPhcPcWiMpbNv",
+  "snapshot_id": "AAAAAEaBX2qAKndfd5pCReukA2OGBJRr",
   "tracks": [
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
+        "name": "Si T\u00fa Est\u00e1s Bien",
+        "url": "https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa"
+      },
+      "artists": [
+        {
+          "name": "Tita",
+          "url": "https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp"
+        }
+      ],
+      "duration_ms": 263425,
+      "name": "Si T\u00fa Est\u00e1s Bien",
+      "url": "https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
         "name": "Adi\u00f3s",
         "url": "https://open.spotify.com/album/0Q387CN0LUiJentAMwkSLA"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 166583,
       "name": "Lejos (feat. Coco Santos)",
       "url": "https://open.spotify.com/track/672t21hOO34Xvv6oMLvzPN"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
-        "name": "Si T\u00fa Est\u00e1s Bien",
-        "url": "https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa"
-      },
-      "artists": [
-        {
-          "name": "Tita",
-          "url": "https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp"
-        }
-      ],
-      "duration_ms": 263425,
-      "name": "Si T\u00fa Est\u00e1s Bien",
-      "url": "https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Reflexi\u00f3n del Pasto",
-        "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 106922,
-      "name": "Reflexi\u00f3n del Pasto",
-      "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Month One",
         "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+        "name": "Reflexi\u00f3n del Pasto",
+        "url": "https://open.spotify.com/album/28GYUNMKd575GwnofewUEI"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+      "duration_ms": 106922,
+      "name": "Reflexi\u00f3n del Pasto",
+      "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1495,6 +1479,22 @@
       "duration_ms": 236503,
       "name": "Drive - Edit",
       "url": "https://open.spotify.com/track/126fZP5WUzjwZAdNX3fRlD"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1659,26 +1659,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Grecia",
-        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
+        "name": "El Big Blue",
+        "url": "https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 200118,
-      "name": "Grecia",
-      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
+      "duration_ms": 192880,
+      "name": "Mi Fiesta",
+      "url": "https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK"
     }
   ],
   "unique_name": "Latin Indie Classics",

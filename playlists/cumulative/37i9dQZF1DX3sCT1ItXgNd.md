@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Ana Mena, Lola Indigo
 
-971 songs - 2 day 0 hr 44 min
+972 songs - 2 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [El niño que fui ayer](https://open.spotify.com/track/37W4H6x5rcuVs8W4xQZkIJ) | [Andrés Koi](https://open.spotify.com/artist/52nf6FtXCWlUMJP1GVhiN2) | [El niño que fui ayer](https://open.spotify.com/album/0Y5eKeadU98iZagJLLkHma) | 2:46 | 2023-12-11 | 2024-01-09 |
 | [El Olor De Tu Pelo](https://open.spotify.com/track/0XKYeF1y231Lr16dcZDYlK) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [El Olor De Tu Pelo](https://open.spotify.com/album/72hkK8DcshHwWV8gJREaF1) | 2:43 | 2023-07-17 | 2023-12-19 |
 | [el parque](https://open.spotify.com/track/5m4Hatowj4h4x2dMCJJOKc) | [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg), [VIOLETA](https://open.spotify.com/artist/0VxwKDOfIkq37oYoXbcEvt) | [el parque](https://open.spotify.com/album/4CHTXRxKffDtiBbncrlC1C) | 2:53 | 2024-07-15 | 2024-07-31 |
-| [El Patio](https://open.spotify.com/track/3MJtv4kmX1phZ26QQRjbsx) | [Dr\. Bellido](https://open.spotify.com/artist/52wHLjXBRtdLP9VXX4Uosn), [Kiko Rivera](https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF) | [El Patio](https://open.spotify.com/album/1DgWMxQWs3CHRgwbue91eC) | 3:02 | 2026-07-20 |  |
+| [El Patio](https://open.spotify.com/track/3MJtv4kmX1phZ26QQRjbsx) | [Dr\. Bellido](https://open.spotify.com/artist/52wHLjXBRtdLP9VXX4Uosn), [Kiko Rivera](https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF) | [El Patio](https://open.spotify.com/album/1DgWMxQWs3CHRgwbue91eC) | 3:02 | 2026-07-20 | 2026-07-31 |
 | [El Principio de algo](https://open.spotify.com/track/55oRR1s2W1xX2evrUCaOSb) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [El Principio de algo](https://open.spotify.com/album/0bpAz9oL8eRTGaOxS7PCkw) | 2:27 | 2023-03-13 | 2024-09-03 |
 | [El que no sabe estar con nadie](https://open.spotify.com/track/0crnyLuJ6EwLZ7AxPMp30t) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Una mudanza](https://open.spotify.com/album/4fgEM9EzEXoQQwx1xX3V4p) | 3:18 | 2026-01-26 | 2026-02-06 |
 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 | 2023-08-01 | 2023-08-15 |
@@ -515,6 +515,7 @@
 | [Maníaca](https://open.spotify.com/track/1sGknF0rpOXOCEeVc93WMR) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Maníaca](https://open.spotify.com/album/2yMRu2OW5Eidm9XxIi0xye) | 2:55 | 2023-06-20 | 2023-09-22 |
 | [Mar Azul](https://open.spotify.com/track/2JcSVI70JR5NnWUgQdLF03) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo) | [Mar Azul](https://open.spotify.com/album/0MRSokSjJnyOOfxFbO4CsC) | 2:31 | 2024-07-09 | 2024-07-31 |
 | [Marbella](https://open.spotify.com/track/0nbCZLgGT6kCGzDYYAdhW6) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Marbella](https://open.spotify.com/album/5rvK3RAW4zTo0h8ZTFF6Rq) | 2:33 | 2024-03-22 | 2024-09-03 |
+| [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 | 2026-07-30 |  |
 | [MAÑACA](https://open.spotify.com/track/0zNtF8pDnnw7sSH7xZq8xx) | [Funzo](https://open.spotify.com/artist/4fqIWm9UJskEBvqnNHuEHo) | [LA CAPITAL DEL MEDITERRÁNEO](https://open.spotify.com/album/7k10MkmhvAbb5LZIye1pgc) | 3:29 | 2025-07-08 | 2025-10-21 |
 | [Me Da Bastante Miedo](https://open.spotify.com/track/4PwI9jIDS9AVwJEkc9kftz) | [Pole.](https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F) | [Me Da Bastante Miedo](https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK) | 3:06 | 2023-05-16 | 2023-06-27 |
 | [Me da igual](https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp) | [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [No Me Odio Tanto](https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB) | 2:58 | 2023-04-17 | 2023-05-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: zway, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,569 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,575 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Let Me Go](https://open.spotify.com/track/6EwSePQC4NhmlMvApMBE7n) | [horses4ever](https://open.spotify.com/artist/6mICKgxnfSCLXhxSl7WFG5) | [Let Me Go](https://open.spotify.com/album/2sHraNAhj9B5BwO0MXncfX) | 3:00 |
 | 50 | [Belladonna](https://open.spotify.com/track/5DSiL11ZisLDkjCyOQBWSN) | [TABY](https://open.spotify.com/artist/6oS2OIN8AtdBOenF1bm2eI) | [Belladonna](https://open.spotify.com/album/3u3UbRmDokaHpvlZRWlxtM) | 2:14 |
 
-Snapshot ID: `AAAAAOvUNKsswCue1nMmwnWRgOlpKeTP`
+Snapshot ID: `AAAAAPTEUlq6zI/Q5n3qk0bEw3fFLLJM`

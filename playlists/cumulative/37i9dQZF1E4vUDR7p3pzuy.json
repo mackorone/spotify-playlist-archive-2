@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With David Von Beahm, MIK's Reaction, Motor Ballet and more",
+  "description": "With David Von Beahm, Motor Ballet, MIK's Reaction and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "How to Cast a Shadow",
+        "url": "https://open.spotify.com/album/3eQBBlOIQXMO1uKizbpJU6"
+      },
+      "artists": [
+        {
+          "name": "North Sea Echoes",
+          "url": "https://open.spotify.com/artist/2lXEyPmJvYFSO1QfRx9emZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262051,
+      "name": "A Time of Innocence and Purpose",
+      "url": "https://open.spotify.com/track/6OrjQQKrEVzPTzD3dsQKEr"
+    },
+    {
+      "album": {
         "name": "A Turn of Events",
         "url": "https://open.spotify.com/album/4lnzNIR2d7ybWnNhMmXLrh"
       },
@@ -894,7 +912,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 262000,
       "name": "Ancestral Cry",
       "url": "https://open.spotify.com/track/5wOv3JGrgCa9aPFe8iIHlK"
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 192269,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/5i8CS0PDiM4F1TLwvMA6Ki"
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 258181,
       "name": "Bloodletting (The Vampire Song)",
       "url": "https://open.spotify.com/track/238hAZxVczUt7QYYQuiyxT"
@@ -2252,7 +2270,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 278974,
       "name": "Breaking Walls",
       "url": "https://open.spotify.com/track/4kjTvHFOxe2Yn0gEENABVa"
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
@@ -5590,7 +5608,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 276372,
       "name": "Family",
       "url": "https://open.spotify.com/track/23Sm5nJOPTD0uXvVE7xu0H"
@@ -6181,6 +6199,28 @@
     },
     {
       "album": {
+        "name": "Freaky Ho's",
+        "url": "https://open.spotify.com/album/7t0zFeVpSXHaAe8ali6gSN"
+      },
+      "artists": [
+        {
+          "name": "Ethan D Henry",
+          "url": "https://open.spotify.com/artist/6EhfFqDuSEAUaKrZAsGIrn"
+        },
+        {
+          "name": "Turt1e",
+          "url": "https://open.spotify.com/artist/6cgIwUR82SXOHtwXlrVPwH"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168882,
+      "name": "Freaky Ho's",
+      "url": "https://open.spotify.com/track/0ZNvLRHdoL8K1rCs2tmMWM"
+    },
+    {
+      "album": {
         "name": "DIE HAPPY",
         "url": "https://open.spotify.com/album/56KF8dORpOgpu5J6o7P1Ph"
       },
@@ -6746,7 +6786,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 294068,
       "name": "Grenn Eyes",
       "url": "https://open.spotify.com/track/7d8owlmuILQ1APlw5fyApY"
@@ -8010,7 +8050,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 246990,
       "name": "if you never say never",
       "url": "https://open.spotify.com/track/3VXTEJ1fPgWUkLbR3SZyLl"
@@ -9204,7 +9244,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 172500,
       "name": "Layers",
       "url": "https://open.spotify.com/track/2w68LiCEisB0exE4UxEer2"
@@ -9500,7 +9540,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 253020,
       "name": "Lich Tree",
       "url": "https://open.spotify.com/track/7vWC17XPCeimJ5YuN99EyD"
@@ -10994,7 +11034,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 244800,
       "name": "Necromantic",
       "url": "https://open.spotify.com/track/4vs2lgSfRqonxxsumPueKr"
@@ -11298,7 +11338,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 270545,
       "name": "Noise in a Vacuum",
       "url": "https://open.spotify.com/track/1ksCDjk68HY25hpBa3tOab"
@@ -11334,7 +11374,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 229692,
       "name": "Not At All",
       "url": "https://open.spotify.com/track/7CU0Z6zcqVVZbCYnGDD3h6"
@@ -11994,6 +12034,28 @@
       "duration_ms": 212406,
       "name": "Playing With The Orbits",
       "url": "https://open.spotify.com/track/6XX3lYN94ItERpKwkLSgab"
+    },
+    {
+      "album": {
+        "name": "Playing With The Orbits (Dead Radio Remixes)",
+        "url": "https://open.spotify.com/album/0USzK6beLEH6J7D4YkBMt9"
+      },
+      "artists": [
+        {
+          "name": "VELATINE",
+          "url": "https://open.spotify.com/artist/5k2dtNaq2QBHfwkCPmkgHV"
+        },
+        {
+          "name": "Loki Lockwood",
+          "url": "https://open.spotify.com/artist/57tVfz0aFRpTXjCr2FNbK3"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206380,
+      "name": "Playing with the Orbits - Dead Radio Remix",
+      "url": "https://open.spotify.com/track/6MSiyVPI36icyK2xzNuOco"
     },
     {
       "album": {
@@ -13680,7 +13742,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 146136,
       "name": "sharp knife!",
       "url": "https://open.spotify.com/track/5t5WtKIJrTUNQLdsjvqIEP"
@@ -14008,7 +14070,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 307500,
       "name": "Slave",
       "url": "https://open.spotify.com/track/5koPjIJhddd6omkAhnd4jq"
@@ -14788,7 +14850,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-14",
+      "date_removed": null,
       "duration_ms": 202135,
       "name": "Steel Butterflies",
       "url": "https://open.spotify.com/track/48bvLtjiWAWwaKSHrC5NF2"
@@ -15406,7 +15468,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 152000,
       "name": "Takin' Out The Trash",
       "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
@@ -15974,7 +16036,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -16280,7 +16342,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 227779,
       "name": "The Rope",
       "url": "https://open.spotify.com/track/1qOmWviuwaL63qusP9ctX1"
@@ -16844,7 +16906,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 174000,
       "name": "Thrive",
       "url": "https://open.spotify.com/track/4GUZCVqPJAcH0qDkkAWEoT"
@@ -17666,7 +17728,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 288000,
       "name": "Unhappy Days",
       "url": "https://open.spotify.com/track/2nMUFI5YXNLMRgbx276JOS"
@@ -17854,6 +17916,24 @@
       "duration_ms": 214909,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0CcjAsFdi3wMukU6Yfnrkl"
+    },
+    {
+      "album": {
+        "name": "Vice Versa",
+        "url": "https://open.spotify.com/album/7jJsi0xFY965QCMAzviNbu"
+      },
+      "artists": [
+        {
+          "name": "K C Q",
+          "url": "https://open.spotify.com/artist/5lH7mCGpiPAwOlsLA6gKDy"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229938,
+      "name": "Vice Versa",
+      "url": "https://open.spotify.com/track/3q0qakCOdKvN1WGQCuG88v"
     },
     {
       "album": {
@@ -18158,7 +18238,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 216315,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/5NHyCuTxgo9P49EL7cy5kg"
@@ -18284,7 +18364,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 263000,
       "name": "Watch them scream and Shout (No doubt)",
       "url": "https://open.spotify.com/track/62DAHNTKYHXwhYOC4dssVa"
@@ -18696,7 +18776,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
@@ -19244,10 +19324,28 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 314181,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"
+    },
+    {
+      "album": {
+        "name": "Zwischen Dreck Und Licht",
+        "url": "https://open.spotify.com/album/0yMUvoJkRSYhL7zsP013rY"
+      },
+      "artists": [
+        {
+          "name": "Armin F.",
+          "url": "https://open.spotify.com/artist/6J7s0zqShr52v68ASUClSm"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217667,
+      "name": "Zwischen Dreck Und Licht",
+      "url": "https://open.spotify.com/track/4B55PaipFFMirV00ewuTmE"
     },
     {
       "album": {

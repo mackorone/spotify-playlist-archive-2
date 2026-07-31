@@ -1516,6 +1516,24 @@
     {
       "album": {
         "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/2WS6N3g451413Qz9Fx5mQK"
+    },
+    {
+      "album": {
+        "name": "New Found Glory",
         "url": "https://open.spotify.com/album/2c33qDDUaE3wvolW7OoPEA"
       },
       "artists": [

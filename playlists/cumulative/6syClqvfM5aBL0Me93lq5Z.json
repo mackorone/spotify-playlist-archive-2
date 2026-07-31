@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Vote 'Em Out",
+        "url": "https://open.spotify.com/album/6k7HZ97yPzcIXzrmLwhkMb"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140746,
+      "name": "Vote 'Em Out",
+      "url": "https://open.spotify.com/track/1YX1kcNiWLk1GVYEDWsaNg"
+    },
+    {
+      "album": {
         "name": "Storm Front",
         "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
       },

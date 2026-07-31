@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Mike Muñoz y Evan Craft
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,708 likes - 99 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,754 likes - 99 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 98 | [Dios Proveerá](https://open.spotify.com/track/45HD3xDmLpdSbcOIrkwa2S) | [Hermanos Pancardo](https://open.spotify.com/artist/4Ulemy4y5OBs2Vdj9sCoh9) | [Dios Proveerá](https://open.spotify.com/album/5OW4lMD6ife2lFrZ7YnlyA) | 3:43 |
 | 99 | [Suficiente \(Sesiones Noviembre\)](https://open.spotify.com/track/6rGrgyJWleO6E4mtnj9GzR) | [Conquistando Fronteras](https://open.spotify.com/artist/4wSfiTrdcKdVZ7L7wNSaE3) | [Suficiente \(Sesiones Noviembre\)](https://open.spotify.com/album/6dRyUu9jsS8l0PshJd6bUa) | 5:14 |
 
-Snapshot ID: `AAAAAFwZxPzgjpBwkxPjOkQ5eJLH1xTl`
+Snapshot ID: `AAAAAPsvXM5j3E2Z5EDc+iwNAVfmIOdE`

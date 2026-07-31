@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Du neuf, du bon, du  <a href="https://open.spotify.com/genre/0JQ5DAqbMKFAH7OEQjCEex">franco</a> !  avec Classe Moyenne, La Bronze, Lewis Dice, Naomi, SLM, HALO, et plus!
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,264 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,257 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 99 | [Be my Valentine ?](https://open.spotify.com/track/37L3bmbVtltbI1ANN7dVWF) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Be my Valentine ? / MR\. DJ](https://open.spotify.com/album/6QjQrPLjMDI2TMFc5ykWnT) | 2:59 |
 | 100 | [LARA CROFT](https://open.spotify.com/track/6ttWnL330KbC0ZsoidcjNO) | [Jamaz](https://open.spotify.com/artist/2bWmHhwTBuPiOsnSz9sjBC), [astro\_psykeman](https://open.spotify.com/artist/4tYwjRz3iiyIrno26moZmP) | [NOUS LE MONDE](https://open.spotify.com/album/1UAhhlzXtOkaz5oS13Ocg0) | 2:43 |
 
-Snapshot ID: `AAAAAHkQi7c9pfK+v4xSc1CALLX1TJpF`
+Snapshot ID: `AAAAAPpM3Fz8DKWVZk2uecZGxXhUTQu4`

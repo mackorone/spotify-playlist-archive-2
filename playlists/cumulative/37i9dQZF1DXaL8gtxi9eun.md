@@ -2,9 +2,9 @@
 
 ### [بوب جديد](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> كل ما هو جديد في عالم البوب المصري\. الغلاف: إليسا
+> كل ما هو جديد في عالم البوب المصري\. الغلاف:لطيفة
 
-500 songs - 1 day 5 hr 43 min
+502 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Jayeb Khbari](https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Jayeb Khbari](https://open.spotify.com/album/0RFcMf8UFXmaltJ8mk2oV6) | 3:08 | 2023-07-11 | 2023-08-21 |
 | [Kaddabeen](https://open.spotify.com/track/6RoiEYuRGOr7ZdjzaJtMta) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Kaddabeen](https://open.spotify.com/album/3K6vwmVKtmeBbnpcBL69zt) | 3:24 | 2024-02-17 | 2024-11-19 |
 | [Kalam Faregh](https://open.spotify.com/track/3bkkYSKgGjsToIbAhl654c) | [Assala](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Kalam Faregh](https://open.spotify.com/album/7dR1LiIeAibr5NL2jYjnDb) | 4:34 | 2025-06-10 | 2026-04-23 |
+| [Keda Keda](https://open.spotify.com/track/1svLqzWG6vKf00O8nbtRWO) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Judy Ahmed Saad](https://open.spotify.com/artist/3h2b6sDomoUhwGjvhHROF0) | [Keda Keda](https://open.spotify.com/album/7dJHHdpAT4X6XM40MgjklB) | 3:13 | 2026-07-30 |  |
 | [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 | 2024-01-29 | 2024-02-01 |
 | [khateera](https://open.spotify.com/track/3y1tMUZAy2v5LMyKo7Ko8J) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [khateera](https://open.spotify.com/album/3t3U7jth4HV9tx11NMwC0N) | 3:24 | 2022-05-04 | 2022-07-15 |
 | [Khayef](https://open.spotify.com/track/2ExMyvTPD9nsEBgq80zQQB) | [Adham Nabulsi](https://open.spotify.com/artist/2eQ5uR5wKDEQ5zKPQyLHC1) | [Khayef](https://open.spotify.com/album/0ZU2uWc2wZiYb5lMzufWA3) | 3:15 | 2022-05-04 | 2022-06-04 |
@@ -377,7 +378,7 @@
 | [باشا باشا](https://open.spotify.com/track/5u6I8MExcbewu6VcSnI1Sc) | [ِEmad Basha](https://open.spotify.com/artist/4oYGyyjjeg3AJofnWGjqR6) | [باشا باشا](https://open.spotify.com/album/3s2sywrjEFwOK8xewRebzc) | 4:09 | 2022-05-04 | 2023-05-18 |
 | [بتفتكرني ساعات](https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:37 | 2026-04-22 | 2026-07-23 |
 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 | 2022-05-04 | 2022-07-15 |
-| [بتوحشيني](https://open.spotify.com/track/0wOlCignkHTKvv8WgqMyva) | [Umar Diaa](https://open.spotify.com/artist/4VBsKBm5pCJ9FYIhSk7mmR) | [بتوحشيني](https://open.spotify.com/album/3i7164QmeNFB6z6hxH1rlq) | 2:48 | 2026-07-06 |  |
+| [بتوحشيني](https://open.spotify.com/track/0wOlCignkHTKvv8WgqMyva) | [Umar Diaa](https://open.spotify.com/artist/4VBsKBm5pCJ9FYIhSk7mmR) | [بتوحشيني](https://open.spotify.com/album/3i7164QmeNFB6z6hxH1rlq) | 2:48 | 2026-07-06 | 2026-07-31 |
 | [بحكي عليكي](https://open.spotify.com/track/6VKFAh978C7BasUBeSGI8o) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [بحكي عليكي](https://open.spotify.com/album/1zURLlfuINONe6ueadBcVK) | 4:04 | 2024-01-05 | 2024-02-18 |
 | [بحكيلك عن الأيام](https://open.spotify.com/track/0LBdR8Oub0hKQSuW9KEfvt) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [انا بحبك انت](https://open.spotify.com/album/7Gif2pehfqWP5OkBEPElPa) | 4:02 | 2025-07-17 | 2026-07-07 |
 | [بخاف من مسلسل سيد الناس](https://open.spotify.com/track/0fHBJnmzWkOhfkbKGBTVlW) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بخاف من مسلسل سيد الناس](https://open.spotify.com/album/37Y9kPOLBf9mBHYX60YDVf) | 4:52 | 2025-03-12 | 2026-07-07 |
@@ -417,6 +418,7 @@
 | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/track/6AZzs7g85UpFDJUTKwLzgo) | [Memaar Al Morshedy](https://open.spotify.com/artist/6YNhk9uSHg8MTtdwNjhh6d) | [زهرة حالة حلوة \(مع ميريام فارس و اسر ياسين\)](https://open.spotify.com/album/7g0oVx8s5TOZKU4hIwmpsG) | 2:04 | 2022-05-04 | 2022-07-29 |
 | [سلمولي](https://open.spotify.com/track/5O9yZGNtBosB4mC3nUmB9y) | [خالد حلمى](https://open.spotify.com/artist/1kAJa5Fzet689A1TNwynIy) | [Sallemouly](https://open.spotify.com/album/0Pvh1NDpw4SlXp1rKgDvpj) | 2:28 | 2026-07-22 |  |
 | [سيد الغرام](https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl), [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [سيد الغرام](https://open.spotify.com/album/57LencHPTBtLmvICFiOwB6) | 3:56 | 2023-01-10 | 2023-07-12 |
+| [شبهي بالملي](https://open.spotify.com/track/6cf3F66Q2Y5Sty4BVElQoc) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [شبهي بالملي](https://open.spotify.com/album/6Q6ucbijAN1s3FPZ2Z3AN7) | 3:37 | 2026-07-30 |  |
 | [شكلها موضة](https://open.spotify.com/track/5jLwrrtgfcF8yMxFRm8AYH) | [Mohamed Chahine](https://open.spotify.com/artist/4gd9m8l0jFoPs1oPn2vpaW), [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [شكلها موضة](https://open.spotify.com/album/5VkQxPXjHaJFKfV1gsodGq) | 3:07 | 2026-07-22 |  |
 | [ضاع خيري](https://open.spotify.com/track/1MNfuN5Atuzp8fQ3ATsdND) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [ضاع خيري](https://open.spotify.com/album/2s2zt2ILbKBV91Jy71Hb1L) | 4:16 | 2025-06-20 | 2026-04-09 |
 | [ضعت منك](https://open.spotify.com/track/3V9KgBiz5uP7SacDMfy6KZ) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [ضعت منك](https://open.spotify.com/album/4uBlwNfBEpGGj2wdBTsWb5) | 3:10 | 2025-04-17 | 2026-07-07 |

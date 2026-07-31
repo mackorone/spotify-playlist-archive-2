@@ -1,12 +1,12 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 194842,
+  "num_followers": 194877,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE7vNnzbx/HoUbQGFoa3PZNQfiVu",
+  "snapshot_id": "AAAAANNBlStNMkmT/GOAW6VDKZzEx6dz",
   "tracks": [
     {
       "added_at": "2024-07-12 06:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 190457,
-      "name": "Puede Que S\u00ed",
-      "url": "https://open.spotify.com/track/61j37qu0Yn1bXFynsFYXnC"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Un Lu*Jo",
         "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 196013,
       "name": "Desliz",
       "url": "https://open.spotify.com/track/1i9BszSRSFvCSLO03FdZsM"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 190457,
+      "name": "Puede Que S\u00ed",
+      "url": "https://open.spotify.com/track/61j37qu0Yn1bXFynsFYXnC"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Dos Mundos Tradici\u00f3n",
-        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/4Yf3iauY3ZGTaWlJibNVFG"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Un Lu*Jo",
         "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Dos Mundos Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4Yf3iauY3ZGTaWlJibNVFG"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 165000,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/6qzheblXiT9ib7UoMqnuaD"
+      },
+      "artists": [
+        {
+          "name": "La Propiedad De Durango",
+          "url": "https://open.spotify.com/artist/6jnzdimCBMx3HvxkvfZxAz"
+        }
+      ],
+      "duration_ms": 155080,
+      "name": "Traficante De Besos",
+      "url": "https://open.spotify.com/track/2D47X243vXSEXSZ6V5w2OZ"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -463,18 +479,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/6qzheblXiT9ib7UoMqnuaD"
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
       "artists": [
         {
-          "name": "La Propiedad De Durango",
-          "url": "https://open.spotify.com/artist/6jnzdimCBMx3HvxkvfZxAz"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 155080,
-      "name": "Traficante De Besos",
-      "url": "https://open.spotify.com/track/2D47X243vXSEXSZ6V5w2OZ"
+      "duration_ms": 199573,
+      "name": "Esc\u00e1ndalo Social",
+      "url": "https://open.spotify.com/track/0AYYjkTEMtPFLrQ7YrzcWC"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -511,26 +531,6 @@
       "duration_ms": 180113,
       "name": "Mil Navajas",
       "url": "https://open.spotify.com/track/0P6Vil1uRcn6uNfwCm3C5m"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        },
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Esc\u00e1ndalo Social",
-      "url": "https://open.spotify.com/track/0AYYjkTEMtPFLrQ7YrzcWC"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 162767,
-      "name": "En Un Hilo",
-      "url": "https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Grandes De Joan Sebasti\u00e1n",
         "url": "https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb"
       },
@@ -731,22 +715,6 @@
       "duration_ms": 289386,
       "name": "Corrido de Manuel Ju\u00e1rez",
       "url": "https://open.spotify.com/track/0OrSSO2y8XouFaL66KZGxD"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Nuestras Favoritas De Joan Sebastian",
-        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 162818,
-      "name": "Nube Gris",
-      "url": "https://open.spotify.com/track/4rRaKJ1sdlZlRat7WR5xF4"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -767,6 +735,38 @@
       "duration_ms": 219166,
       "name": "Rumores",
       "url": "https://open.spotify.com/track/4xN5mVYQilvByCPY6XE352"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Nuestras Favoritas De Joan Sebastian",
+        "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 162818,
+      "name": "Nube Gris",
+      "url": "https://open.spotify.com/track/4rRaKJ1sdlZlRat7WR5xF4"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 162767,
+      "name": "En Un Hilo",
+      "url": "https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -979,22 +979,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mil Navajas",
-        "url": "https://open.spotify.com/album/57ezZj651lNS1sRU84RxXs"
+        "name": "La Mas Completa Coleccion (Disco 2)",
+        "url": "https://open.spotify.com/album/4WcJ3z0XyHH6KMtpz6HthD"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        },
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Mil Navajas",
-      "url": "https://open.spotify.com/track/5U2E78WymdPCGIrSHimXZZ"
+      "duration_ms": 176453,
+      "name": "La Mam\u00e1 De Los Pollitos",
+      "url": "https://open.spotify.com/track/5LwKNFgJDGF2dMKOkDuPqn"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 2)",
-        "url": "https://open.spotify.com/album/4WcJ3z0XyHH6KMtpz6HthD"
+        "name": "Mil Navajas",
+        "url": "https://open.spotify.com/album/57ezZj651lNS1sRU84RxXs"
       },
       "artists": [
         {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 176453,
-      "name": "La Mam\u00e1 De Los Pollitos",
-      "url": "https://open.spotify.com/track/5LwKNFgJDGF2dMKOkDuPqn"
+      "duration_ms": 178000,
+      "name": "Mil Navajas",
+      "url": "https://open.spotify.com/track/5U2E78WymdPCGIrSHimXZZ"
     },
     {
       "added_at": "2024-07-12 06:00:00",

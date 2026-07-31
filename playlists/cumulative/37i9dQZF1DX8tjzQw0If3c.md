@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Introducing RADAR Singapore & Malaysia Class of 2026\. Cover: Estelle Fly
+> Meet the future\. Cover: quiet morning
 
-327 songs - 17 hr 49 min
+329 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [scared to lose me](https://open.spotify.com/track/2piEwJsSN0auCOQIPYhKKF) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [scared to lose me](https://open.spotify.com/album/4rThapZToG2EqGgyase84m) | 2:23 | 2024-08-29 | 2024-12-05 |
 | [selamanya](https://open.spotify.com/track/6Lpb8uAjtqW0p05vaQCnNS) | [empty page.](https://open.spotify.com/artist/1vqCRS8w7NNLDAlSk2rrxh) | [punca kecewa](https://open.spotify.com/album/59sMrZdgQ7vmjrtJoLPcvK) | 4:05 | 2025-11-27 | 2026-04-07 |
 | [Semesta \- From "X\-Change"](https://open.spotify.com/track/1dKx0XXXhQnkqaTW22ZyxX) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Semesta \(From "X\-Change"\)](https://open.spotify.com/album/3c1D1HJcNDP0N0vbcWFj95) | 3:32 | 2024-06-27 | 2025-04-16 |
+| [Setiap Nafasku Kernamu 2026](https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Setiap Nafasku Kernamu 2026](https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2) | 3:24 | 2026-07-30 |  |
 | [Shadow After Noon](https://open.spotify.com/track/6g7ElVPamAdH5XQpwxECQb) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Shadow After Noon](https://open.spotify.com/album/00NhjwtAj3rfc2E3uG1Wo0) | 3:42 | 2024-06-27 | 2025-04-16 |
 | [SHOW YOUR LOVE](https://open.spotify.com/track/2gosyc6Y3NrVJiiE0eSP5D) | [Maia](https://open.spotify.com/artist/1ma5eSgw4el6YDXfhfZ3JC), [karan](https://open.spotify.com/artist/6QJpQL2sOAE4yKLSHFyjy8) | [SHOW YOUR LOVE](https://open.spotify.com/album/58ck8JaQilltGtwQd98XUv) | 3:12 | 2026-03-20 | 2026-04-07 |
 | [so in love \(tonight\)](https://open.spotify.com/track/57uhIkEuISiIlYEC6ea66V) | [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH) | [so in love \(tonight\)](https://open.spotify.com/album/0Q4t7FACl7vtiMYAsgjCxR) | 2:28 | 2025-09-08 | 2025-10-17 |
@@ -281,6 +282,7 @@
 | [SWITCH](https://open.spotify.com/track/4ZlSLmFui5nI80OMvDOGxr) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby) | [SWITCH](https://open.spotify.com/album/3LpXennZJYBZlJiWJEhmoC) | 2:11 | 2024-06-27 | 2025-04-16 |
 | [Tak Cukup](https://open.spotify.com/track/4smgiReZGd4ipGRz0F1d7D) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd), [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc) | [Cari Cinta](https://open.spotify.com/album/6m1lPXy9LW1MF9K9RGVKWY) | 2:54 | 2025-11-20 | 2026-04-07 |
 | [Takkan Mengalah \- From "Legenda Puteri Qaseh" Original Soundtrack](https://open.spotify.com/track/3tAYElgGNEf4LoxNdsW6G5) | [Nuha Bahrin](https://open.spotify.com/artist/23t2TA28fx4549a1P0Nl65), [Naufal Azrin](https://open.spotify.com/artist/2VN6ToUICX0UvbJtUVa5Ij) | [Takkan Mengalah \(From "Legenda Puteri Qaseh" Original Soundtrack\)](https://open.spotify.com/album/1fNughGowl1BH0mOKrYfni) | 3:26 | 2024-06-27 | 2024-12-05 |
+| [talks don't lie](https://open.spotify.com/track/5KF2ZAYkQUfSjiXNyJsAU0) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [talks don't lie](https://open.spotify.com/album/1fnjFp1J2nECRpnmoX1H5y) | 2:41 | 2026-07-30 |  |
 | [Tango](https://open.spotify.com/track/2SH2Xx17dRLZWwASFb9bKx) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL), [Rebel Asia](https://open.spotify.com/artist/01APErOuxifTzQrdN8kOYn) | [Tango](https://open.spotify.com/album/5ld61UwRepRdsPfmxeLydx) | 2:45 | 2024-06-27 | 2025-04-16 |
 | [Tap Out!](https://open.spotify.com/track/39ZRrvH3OcU9XBMSC4IgSc) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [Tap Out! \(From "Joy Ride" Official Motion Picture Soundtrack\)](https://open.spotify.com/album/4UkYhNpw9CB2mdrBrYRBLm) | 2:41 | 2024-06-27 | 2024-12-05 |
 | [Tatapan Nona](https://open.spotify.com/track/0Br1eA0epYgm2BF9b0602o) | [NAKI](https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb) | [Tatapan Nona](https://open.spotify.com/album/1uibhRDKoBMQJ8jdItACFi) | 3:26 | 2025-07-17 | 2026-04-07 |

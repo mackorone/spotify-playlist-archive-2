@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 150267,
+  "num_followers": 150313,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAABve1z5mMldNTgILfY3LySd",
+  "snapshot_id": "amlCgAAAAAAZksXIZQ1Si+wB5OSJQ7xE",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 175238,
+      "name": "Interference",
+      "url": "https://open.spotify.com/track/5Bngj85IUf1HrAWGhMAwRn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SWAG LIVE FROM COACHELLA (Weekend I)",
         "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 252053,
       "name": "ESSENCE",
       "url": "https://open.spotify.com/track/3Pf5zVXlpgUOs0pT1IiYjb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 175238,
-      "name": "Interference",
-      "url": "https://open.spotify.com/track/5Bngj85IUf1HrAWGhMAwRn"
     },
     {
       "added_at": null,

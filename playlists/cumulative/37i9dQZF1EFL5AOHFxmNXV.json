@@ -3607,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "Detrooklyn.",
+        "url": "https://open.spotify.com/album/5cir9swuU0WpGojsTPGBfb"
+      },
+      "artists": [
+        {
+          "name": "Amir Obe",
+          "url": "https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156473,
+      "name": "Truth For You",
+      "url": "https://open.spotify.com/track/6yveqkneVj9bQtcOscvhgR"
+    },
+    {
+      "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },

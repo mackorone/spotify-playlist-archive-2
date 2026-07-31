@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,253,023 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,252,913 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Watch It Burn](https://open.spotify.com/track/3JlUDSDmqhAgbZWqyAuthY) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Watch It Burn](https://open.spotify.com/album/4iY3IDPSVSMmxyAyb3qoTP) | 2:55 |
 | 50 | [Amoeba](https://open.spotify.com/track/1z3yelL9joxerhXDqG96vy) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Amoeba](https://open.spotify.com/album/7c17U6VtyH0xRoWqfDcKrn) | 3:16 |
 
-Snapshot ID: `AAAAANpj6j8FEkyuBcW9XJZac/x+bt5o`
+Snapshot ID: `AAAAACBAWd7g+p310RKxA3DdEVIke1ks`

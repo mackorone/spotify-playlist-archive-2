@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "\u05d0\u05de\u05d1\u05d5\u05dc\u05e0\u05e1 \u05e9\u05d9\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/7nq5LQjNdtFmXAmIoqQDGn"
+      },
+      "artists": [
+        {
+          "name": "Eifo HaYeled",
+          "url": "https://open.spotify.com/artist/4tOEC0rfs2z2Sf1Tv2OKAg"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": ".\u05e0.\u05d1",
+      "url": "https://open.spotify.com/track/6EJHRmCLrc3ufEVlwoiz32"
+    },
+    {
+      "album": {
         "name": "160",
         "url": "https://open.spotify.com/album/4gpMbozjYUGdc5ckkQ63VL"
       },
@@ -526,7 +544,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 224672,
       "name": "Can\u2019t Die from Love",
       "url": "https://open.spotify.com/track/1pLB7Y0r6SWZdB7g9FF8ye"
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 304400,
       "name": "\u05d0 \u05d9\u05d9\u05d3\u05d9\u05e9\u05e2 \u05e8\u05d0\u05e1\u05d8\u05d4\u05de\u05d0\u05df",
       "url": "https://open.spotify.com/track/39qjT6d16GYsjXkrsHuciH"
@@ -2816,7 +2834,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 231000,
       "name": "\u05d0\u05d5\u05dc\u05d9 \u05e6\u05e8\u05d9\u05da \u05dc\u05ea\u05ea \u05dc\u05d6\u05d4 \u05e2\u05d5\u05d3 \u05d6\u05de\u05df",
       "url": "https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco"
@@ -2838,6 +2856,24 @@
       "duration_ms": 256799,
       "name": "\u05d0\u05d5\u05e4\u05e7 \u05e8\u05d7\u05d5\u05e7",
       "url": "https://open.spotify.com/track/1wSRh9stFhDUh5KvNskQNa"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d1\u05d3 \u05d0\u05d9\u05ea\u05da",
+        "url": "https://open.spotify.com/album/0VhwzlF04FBXI1VHhAKc6K"
+      },
+      "artists": [
+        {
+          "name": "\u05e8\u05e2\u05e9 \u05dc\u05d1\u05df",
+          "url": "https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257290,
+      "name": "\u05d0\u05d5\u05e6\u05e8",
+      "url": "https://open.spotify.com/track/5L7kVmR0aJno6BER8D9Z08"
     },
     {
       "album": {
@@ -4392,6 +4428,32 @@
       "duration_ms": 256092,
       "name": "\u05d4\u05dc\u05d5\u05da \u05d5\u05e9\u05d5\u05d1",
       "url": "https://open.spotify.com/track/1LWXYCFfhJBeeNhQw6io2j"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05dc\u05dc 3",
+        "url": "https://open.spotify.com/album/5Qqcs0WMCcnMk7jZFiGcXZ"
+      },
+      "artists": [
+        {
+          "name": "Shai Tsabari",
+          "url": "https://open.spotify.com/artist/0T0COcAFHD9oZ704HbZr2A"
+        },
+        {
+          "name": "Patrick Sebag",
+          "url": "https://open.spotify.com/artist/7HVUcMJ2KO1lmcscDae1LC"
+        },
+        {
+          "name": "Elyasaf Bashari",
+          "url": "https://open.spotify.com/artist/6m7boGIxRdEZKhbDZ9KZik"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404087,
+      "name": "\u05d4\u05dc\u05dc 3",
+      "url": "https://open.spotify.com/track/04DnJzb6jRWzplpuraRNPV"
     },
     {
       "album": {
@@ -6854,7 +6916,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 168900,
       "name": "\u05de\u05e8\u05d7\u05e7 \u05d6\u05e8",
       "url": "https://open.spotify.com/track/7nyl7x9x6agkwwJKF5ucow"
@@ -7544,6 +7606,24 @@
       "duration_ms": 205276,
       "name": "\u05e2\u05d5\u05dc\u05dd \u05e9\u05dc\u05d9",
       "url": "https://open.spotify.com/track/1qH5ltPT9wrJzd5lzxaODM"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05e6\u05dc\u05d9\u05dc \u05d4\u05e9\u05de\u05d9\u05e0\u05d9",
+        "url": "https://open.spotify.com/album/3QbWxb0DphrnatprKHtLCf"
+      },
+      "artists": [
+        {
+          "name": "Ehud Banai",
+          "url": "https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333184,
+      "name": "\u05e2\u05d8\u05d5\u05e3 \u05d1\u05e8\u05d7\u05de\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/3xHbX65a84K1bq3dBMQqw7"
     },
     {
       "album": {

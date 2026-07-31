@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أجدد الفنانين في مصر وأصوات جديدة من الفنانين اللي بتحبهم\. الغلاف: خفاش
 
-[Spotify](https://open.spotify.com/user/spotify) - 650 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 675 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 49 | [As2ela](https://open.spotify.com/track/4e2TJUe9uUjBjc6fbnWHtH) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [As2ela](https://open.spotify.com/album/3IY5PQ1fXwxQgB37D12wf5) | 3:41 |
 | 50 | [Kalt, Dafaat El Rent\. BEGAD! \- Remix](https://open.spotify.com/track/0L7Q1XgengourSIqYLPzJx) | [Alexis Reel](https://open.spotify.com/artist/0mpeIPP4thGi1a3HfCPTQE), [AphroBarbie](https://open.spotify.com/artist/3dvGfwNOZ1RTwkxcR0764e) | [Kalt, Dafaat El Rent\. BEGAD! \(Remix\)](https://open.spotify.com/album/45n7nq9l9pb5O1RjFZgGnh) | 3:33 |
 
-Snapshot ID: `AAAAACqglec3cuXc1TuwQB6i+RKneV+H`
+Snapshot ID: `AAAAAGOEIAs15x4Z6LqByi0mxq8zoHU9`

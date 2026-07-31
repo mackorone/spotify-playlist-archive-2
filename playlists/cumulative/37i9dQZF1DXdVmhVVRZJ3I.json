@@ -42,7 +42,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 180845,
       "name": "Adrenalina (Minha Gasolina)",
       "url": "https://open.spotify.com/track/04KNQ19sU4QfARgavVEiNR"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 129000,
       "name": "Atomic Bomb (feat. Juan Alcasar)",
       "url": "https://open.spotify.com/track/1Ge8px4DSNseb1atf9XumE"
@@ -190,6 +190,36 @@
       "duration_ms": 140575,
       "name": "Bad Cop",
       "url": "https://open.spotify.com/track/2n4YYAXNgrIiLzdTfld9Rv"
+    },
+    {
+      "album": {
+        "name": "Baile DF",
+        "url": "https://open.spotify.com/album/12Nv07jCBifBnGeCNRzk5d"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "Adame DJ",
+          "url": "https://open.spotify.com/artist/7lOdAZzqR1Ju4bhq1kZUvy"
+        },
+        {
+          "name": "Thalia Abdon",
+          "url": "https://open.spotify.com/artist/5022fSU0OMEBQgfxrMxh05"
+        },
+        {
+          "name": "MC DA FRAN\u00c7A",
+          "url": "https://open.spotify.com/artist/2V9ch5D3H4ERAENaVmfEgb"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185238,
+      "name": "Baile DF",
+      "url": "https://open.spotify.com/track/6DN8RUpeHortTh008NC7GT"
     },
     {
       "album": {
@@ -282,6 +312,32 @@
       "duration_ms": 171904,
       "name": "Breaking Me - HUGEL Remix",
       "url": "https://open.spotify.com/track/0XX5PxqMoXAPxBZ0qYqSwI"
+    },
+    {
+      "album": {
+        "name": "California Dreamin'",
+        "url": "https://open.spotify.com/album/49MDmoQm7bf30Gg2uEANnt"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        },
+        {
+          "name": "Faiolli",
+          "url": "https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179531,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/26N0VniacJgjiY0AidM1RZ"
     },
     {
       "album": {
@@ -978,7 +1034,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 183473,
       "name": "Kikada",
       "url": "https://open.spotify.com/track/4RmjlmdNRXdSZs9cYiqcBS"
@@ -1096,6 +1152,28 @@
       "duration_ms": 160500,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB"
+    },
+    {
+      "album": {
+        "name": "Malabaris",
+        "url": "https://open.spotify.com/album/6W2NbGfbvj5YlYqhaUWvAc"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Mila Journ\u00e9e",
+          "url": "https://open.spotify.com/artist/3CnCN1QeftBXVbsXWmmNyB"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186614,
+      "name": "Malabaris",
+      "url": "https://open.spotify.com/track/0hLNnH60GDK1TZxDNxhVfT"
     },
     {
       "album": {

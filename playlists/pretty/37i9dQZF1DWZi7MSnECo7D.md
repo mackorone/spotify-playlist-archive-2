@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Soprü
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,783 likes - 74 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,614 likes - 74 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 73 | [Aguça](https://open.spotify.com/track/4QoRAKN5XUGSN2zEekKrnK) | [André Loyola](https://open.spotify.com/artist/5F591AtA6bo4HzuzRni12V) | [Aguça](https://open.spotify.com/album/726y6Ihnu5X0axz8yxPgCB) | 2:52 |
 | 74 | [Me Pede](https://open.spotify.com/track/3uTUUjzDliYIEpHi1YSLJC) | [Karla Hill](https://open.spotify.com/artist/06OHroQpGdXwvdSJIfJdMC) | [Me Pede](https://open.spotify.com/album/0gnhQV4j0nQh4NvoNVHfad) | 2:59 |
 
-Snapshot ID: `AAAAALUTJmOEzecH5AXUbXYtk4YabjCu`
+Snapshot ID: `AAAAAA15AKwx6CK9arQrUKEipZXroALt`

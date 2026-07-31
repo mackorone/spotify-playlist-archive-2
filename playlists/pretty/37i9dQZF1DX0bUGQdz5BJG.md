@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Blake Proehl
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,066 likes - 200 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,126 likes - 200 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 31 | [The Summer I Turned Petty](https://open.spotify.com/track/3CKDCJR7BgrLm1a5QVD0DM) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [The Summer I Turned Petty](https://open.spotify.com/album/28e0uSEKnY9Q3CuTnENcuE) | 3:01 |
 | 32 | [Ain't What It Looks Like](https://open.spotify.com/track/2znsuxvrXEtYasrpZgIpGa) | [Brandon Wisham](https://open.spotify.com/artist/51b8vVMeSaO3MAMfatptRu) | [Ain't What It Looks Like](https://open.spotify.com/album/7LARsrne6D6nMLE8Yr6P6e) | 3:18 |
 | 33 | [Don't Let Your Cowboys Grow Up to Be Babies \(feat\. Madison Kozak\)](https://open.spotify.com/track/4eg7Q3xfm6lGwiatcSiXMF) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct), [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Don't Let Your Cowboys Grow Up to Be Babies \(feat\. Madison Kozak\)](https://open.spotify.com/album/1auJ9GwN1RDm1thix3mfRy) | 3:51 |
-| 34 | [Best Worst Part of Me](https://open.spotify.com/track/1mvq2Nde5WY58PsZcLnJkL) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Best Worst Part of Me](https://open.spotify.com/album/7h0mMFBC5k8uGaJhlfFr1v) | 3:05 |
+| 34 | [Best Worst Part of Me](https://open.spotify.com/track/1mvq2Nde5WY58PsZcLnJkL) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Best Worst Part of Me](https://open.spotify.com/album/7h0mMFBC5k8uGaJhlfFr1v) | 3:04 |
 | 35 | [Saving Me](https://open.spotify.com/track/21GmnjIASYxKgFmBvtbVGC) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Saving Me](https://open.spotify.com/album/70RJexXwAZ3XJL4QXip3MM) | 3:41 |
 | 36 | [Rollin](https://open.spotify.com/track/3W0g7V7ws21IOaFrq2wmsD) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [Rollin](https://open.spotify.com/album/7aZs9daT1TvtOJRJwDjt5q) | 3:05 |
 | 37 | [Shouldn’t Be](https://open.spotify.com/track/2iQkwOltRHBMH75riILqYS) | [Timmy McKeever](https://open.spotify.com/artist/1eSQKNKjXVIKIcNXZL7x5N) | [Shouldn't Be](https://open.spotify.com/album/3995Brce7i27B2AyefUzVy) | 2:44 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [An Hour or So](https://open.spotify.com/track/3CZp7Y8B5IXSGzmHhHsbiv) | [Benny G](https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8) | [An Hour or So](https://open.spotify.com/album/5y190DJOoM2fvkGjRerBQJ) | 2:46 |
 | 200 | [Turning Into Us](https://open.spotify.com/track/59flrS3NTaVM6wDdiYDAeg) | [Rhys Rutherford](https://open.spotify.com/artist/3TGzEYgS5Tup69Z99v7Xra) | [Turning Into Us](https://open.spotify.com/album/7d0Sri873p8nCvxD9iW7qS) | 3:30 |
 
-Snapshot ID: `AAAAAEDDqvAxP7Da+pbuQxmzh05eG4zi`
+Snapshot ID: `AAAAAN2ydz3xgLUc54AC+7CbZyEuvh0S`

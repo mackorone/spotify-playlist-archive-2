@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Dabeull
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,259 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,342 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 72 | [Dance You Outta My Head](https://open.spotify.com/track/6NMqeF0Ssmi7d3dSUqnOFf) | [Cat Janice](https://open.spotify.com/artist/7kNpF2nj7eVgcVo8k6pWkz) | [Dance You Outta My Head](https://open.spotify.com/album/1fyTcCoTKXM35bFpEJlAyG) | 3:22 |
 | 73 | [I Want To See You Dance \- Art Of Tones Edit](https://open.spotify.com/track/2nGk7Ik2ufJMa5nLUfgo7J) | [AC Soul Symphony](https://open.spotify.com/artist/5DsFurQjk8iOOLwG3uj4wQ), [Dave 'Love' Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f), [Art of Tones](https://open.spotify.com/artist/4TSLRQcJGybQuNA8ybueEy) | [I Want To See You Dance \(Art Of Tones Remix\)](https://open.spotify.com/album/791iuuaIDJgRHoxhtwczVN) | 3:33 |
 | 74 | [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/track/35sXaEaVnnYotLjnjRLMJK) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/album/0BfdHIeFgdUvuCHbFYriJ4) | 3:32 |
-| 75 | [One Big Family](https://open.spotify.com/track/0OKHeGWzWQR2QFJsGfolum) | [Oké](https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo) | [One Big Family](https://open.spotify.com/album/2PchYg2ROw2n04u23q9fe3) | 2:18 |
+| 75 | [One Big Family](https://open.spotify.com/track/0OKHeGWzWQR2QFJsGfolum) | [Ọké](https://open.spotify.com/artist/2iYuQedAM3oShovJ0KK1Lo) | [One Big Family](https://open.spotify.com/album/2PchYg2ROw2n04u23q9fe3) | 2:18 |
 | 76 | [Virtual Cool](https://open.spotify.com/track/56syPQlAsZZukc0qeqvEZJ) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [LaMay](https://open.spotify.com/artist/5grXpHDL1GkY7eWz2YjOkz) | [Optimism](https://open.spotify.com/album/1JDlPKa7aBeOTxmKWC3YH1) | 3:46 |
 | 77 | [Played](https://open.spotify.com/track/4L9YxToj8Ub66xBrbVtBkF) | [The Past](https://open.spotify.com/artist/1wHteDz57DCfgztS5vR2jU), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Played](https://open.spotify.com/album/7AgcYxLZhGK2j5R8OfXiNX) | 2:15 |
 | 78 | [Doing Alright](https://open.spotify.com/track/6Dkbv5OFE86YjmWm9E5gvf) | [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Doing Alright](https://open.spotify.com/album/37f4CcWznwO2tPTGgplsX2) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Disco Save My Life](https://open.spotify.com/track/0Rh5XomjOtIYabPhtZ1TyV) | [Babert](https://open.spotify.com/artist/2WyIaamOi8lW7R7nhGMDoe) | [Disco Save My Life](https://open.spotify.com/album/6uuicoy9ap6PS9vR8qpHBF) | 5:26 |
 | 100 | [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Move](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 |
 
-Snapshot ID: `AAAAAGlP8Ja9W5jViIzn95KMht42DKeq`
+Snapshot ID: `AAAAAOwZqVVmuzicaDsPpbH7ORrvVoc+`

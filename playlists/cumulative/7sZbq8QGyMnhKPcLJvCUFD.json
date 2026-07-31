@@ -14081,6 +14081,24 @@
     },
     {
       "album": {
+        "name": "Say You Love Me",
+        "url": "https://open.spotify.com/album/12AGBf0yLPOVvdbnAlpCC2"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226316,
+      "name": "Say You Love Me",
+      "url": "https://open.spotify.com/track/1fzSbTACdmY51BLhZMWuWu"
+    },
+    {
+      "album": {
         "name": "scars",
         "url": "https://open.spotify.com/album/2lYbOAyek2e5jqilabHJHt"
       },

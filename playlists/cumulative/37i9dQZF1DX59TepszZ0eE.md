@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3?si=jG5MXQYQSyW7WpBXiv\_qew>Omega Khunou</a>"
 
-475 songs - 2 day 2 hr 22 min
+476 songs - 2 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Nanti Izwi Elomemo](https://open.spotify.com/track/5ZTaobTZjvlOQwgDtBqSjB) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Nanti Izwi Elomemo](https://open.spotify.com/album/3gCtfFA7XmqrmYR2dd5lAo) | 11:00 | 2023-11-24 | 2024-02-02 |
 | [Ndafunyanwa](https://open.spotify.com/track/60F0Ui9qkPbQCS4QIEVlDZ) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ndafunyanwa](https://open.spotify.com/album/7JMSbWh5K6dMUFWsL8lskI) | 4:37 | 2026-04-24 | 2026-07-10 |
 | [Ndenzel' Uncedo Hymn 377 \- Live](https://open.spotify.com/track/3BTszrSLAt9f11eWeHNTTc) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:28 | 2021-04-19 |  |
+| [Ndi na o Maanda \(feat\. Takie Ndou & Rofhiwa Manyaga\)](https://open.spotify.com/track/4o96oxKtDcOfUYY8nrGPun) | [Lebo Elle Tisane](https://open.spotify.com/artist/5OjmAYpmIb99cv5HC7Rwkt), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu), [ROFHIWA MANYAGA](https://open.spotify.com/artist/6hYQnls4RShBxrh47cd6i5) | [Ndi na o Maanda \(feat\. Takie Ndou & Rofhiwa Manyaga\)](https://open.spotify.com/album/5lzkLpPjHD7a8hFZdogPDr) | 15:55 | 2026-07-31 |  |
 | [Ndikhokhele Bawo](https://open.spotify.com/track/6OV3Qs8BamgJ7TR3M6rYGW) | [Cape Town Camerata](https://open.spotify.com/artist/20F4DiCjbeeDmTFODuhhQH) | [Ndikhokhele Bawo](https://open.spotify.com/album/5OgGg48gEHDs3KsUxWoVFX) | 3:32 | 2020-06-05 | 2025-04-11 |
 | [Ndincedeni \- Revisit](https://open.spotify.com/track/0zQwnZkXQJzhSQlrncqcaF) | [Dalom Kids](https://open.spotify.com/artist/6Xx0iUrLjmGwk8RWqgDwSg), [King Khustah](https://open.spotify.com/artist/2OeJAwEHcmTrY8hN8KaY7E), [Myy Gerald](https://open.spotify.com/artist/4e7JCY44Wr1TDHPK3KVzhl), [Gash Beats](https://open.spotify.com/artist/5KuOKkfVLTYxjLLpglBUpE) | [Ndincedeni \(Revisit\)](https://open.spotify.com/album/0KLqMnVd4DLDOPhrpCY5nA) | 4:40 | 2024-05-17 | 2025-02-14 |
 | [Ndiyabulela](https://open.spotify.com/track/2YfwvRx9xsrWBUAHC2RVEG) | [We Will Worship](https://open.spotify.com/artist/1GDdTeLX9EAledKnHJaZ7i), [Vine&Vibes](https://open.spotify.com/artist/0JWMVtY26AhbhaQQOU0BSi), [Lisa Oduor\-Noah](https://open.spotify.com/artist/2lzhfTv334wDq7W7tFyJHa) | [Ndiyabulela](https://open.spotify.com/album/1eTtBbq0UmNuZY8ZQpcp2T) | 2:47 | 2025-11-28 | 2026-01-30 |
@@ -436,7 +437,7 @@
 | [Wakhazimula \- Live](https://open.spotify.com/track/7FfwSYKinjefexPoH8XSrm) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Wakhazimula \(Live\)](https://open.spotify.com/album/7G9ZPEePMWoWw4ZXcWc1hg) | 8:07 | 2022-03-24 |  |
 | [Wakrazulwa](https://open.spotify.com/track/7F1CiwICZMraSDwsRgs2wu) | [JTG Gospel Choir](https://open.spotify.com/artist/0GyDw1zJL0JJogWrT7Z7Ht), [Kholeka](https://open.spotify.com/artist/37dSM8Vh8aCBAhqGCVIfmy) | [Wakrazulwa](https://open.spotify.com/album/1ibKvJT9iJDd9E047ceYGp) | 3:20 | 2024-10-04 | 2024-12-20 |
 | [Walats3\(Life Giver\)](https://open.spotify.com/track/2ygzqWER8vIMEoMXM3nEwc) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Walats3\(Life Giver\)](https://open.spotify.com/album/5dtz3U2rv8LsBVk2YE5CXH) | 5:31 | 2023-08-04 | 2023-09-15 |
-| [Walenga](https://open.spotify.com/track/54RArsacpBcRugU06Hc2v1) | [Dominica](https://open.spotify.com/artist/5FtyQahL4dAUs13zlVslU7) | [Walenga](https://open.spotify.com/album/0OBnNLsaGwViorqJmdUovy) | 5:33 | 2026-07-10 |  |
+| [Walenga](https://open.spotify.com/track/54RArsacpBcRugU06Hc2v1) | [Dominica](https://open.spotify.com/artist/5FtyQahL4dAUs13zlVslU7) | [Walenga](https://open.spotify.com/album/0OBnNLsaGwViorqJmdUovy) | 5:33 | 2026-07-10 | 2026-07-31 |
 | [Walenga](https://open.spotify.com/track/3x7T92sHKGapooFTDGbXMi) | [Nontokozo Mkhize](https://open.spotify.com/artist/2xYE0LYxFRGK9CQxLlkE7H) | [Lindiwe \(Deluxe\)](https://open.spotify.com/album/1tZE787T2iw039Nu9eSjum) | 5:11 | 2025-10-17 | 2025-12-12 |
 | [Wangethula \(Live\)](https://open.spotify.com/track/1xIoMAWdjcIKhz2WSsqtEW) | [Nozipho Phiri](https://open.spotify.com/artist/7oG0byeE7vcitDrgbH2LVo) | [Wangethula \(Live\)](https://open.spotify.com/album/0QemxNOpo2FmgChieTkrfJ) | 8:40 | 2025-06-27 | 2025-08-15 |
 | [Wash'Umlilo](https://open.spotify.com/track/0GGplcnPYWTfR7a6zSmRLS) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71) | [Wash'Umlilo](https://open.spotify.com/album/7uzInEeGb5QkR7u5K6VrI6) | 6:10 | 2024-04-05 | 2025-10-31 |

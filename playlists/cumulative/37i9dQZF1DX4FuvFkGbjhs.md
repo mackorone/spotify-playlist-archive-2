@@ -2,9 +2,9 @@
 
 ### [UNTITLED](https://open.spotify.com/playlist/37i9dQZF1DX4FuvFkGbjhs)
 
-> Beyond titles, beyond genre\. Cover: Worldpeace DMT
+> Beyond titles, beyond genre\. Cover: jigitz
 
-929 songs - 2 day 5 hr 33 min
+931 songs - 2 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [California](https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:46 | 2024-06-27 | 2024-07-19 |
 | [Call It What You Like](https://open.spotify.com/track/19thWvK8cJVrcE27CgmRO3) | [Thandii](https://open.spotify.com/artist/68YD0oUAF8k1NqEFAIx60M) | [Call It What You Like](https://open.spotify.com/album/0xIthbyKWIGoE8d2JsaZwW) | 2:54 | 2024-07-25 | 2024-09-28 |
 | [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 | 2025-12-05 | 2026-03-06 |
+| [can't be nothing but what i am](https://open.spotify.com/track/1VmbQReOH8U2zkxtZnOqae) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [can't be nothing but what i am](https://open.spotify.com/album/0GbmGm7MiBMuvDmj1sv4Os) | 2:48 | 2026-07-31 |  |
 | [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/track/4m7GhyLPmnQvZybjuxeYlP) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Mwanje](https://open.spotify.com/artist/3BM1y5iZJFNwGFZC8ivubP) | [Can't Hold Us \[Feat\. Mwanjé\]](https://open.spotify.com/album/4rX3FZJVX0PSnhnlYs19qu) | 2:46 | 2025-11-28 | 2026-03-27 |
 | [can't stand it](https://open.spotify.com/track/6ElYocyMBSR3LHqGQGmA2r) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [can't stand it](https://open.spotify.com/album/3XXJLgzB9eOg1oiEy0j2bD) | 3:05 | 2024-06-27 | 2024-07-27 |
 | [Can't Stand To Lose](https://open.spotify.com/track/7r4FAKAU499KcT5E83zEYs) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Can't Stand To Lose](https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab) | 4:52 | 2025-02-14 | 2025-05-02 |
@@ -192,7 +193,7 @@
 | [dead giveaway](https://open.spotify.com/track/3Eidg0OLrDYFjsyjJTzieL) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [Verbathim](https://open.spotify.com/album/6aLc5t3mdbmonoCZMAnZ7N) | 2:47 | 2024-09-12 | 2025-01-24 |
 | [Death & Romance](https://open.spotify.com/track/5jnlJbBK53L6Nd3ox8T0ot) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Death & Romance](https://open.spotify.com/album/51g8P7ai5xyj970iIdmMFz) | 5:14 | 2024-06-27 | 2024-08-09 |
 | [Death Lurking \(feat\. Izzy Da Fonseca\)](https://open.spotify.com/track/4Gn8QeUyrAgDXegt6XVVBX) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9), [Izzy Da Fonseca](https://open.spotify.com/artist/2D4pCpP1hPhNUuw4jdgLwt) | [Death Lurking \(feat\. Izzy Da Fonseca\)](https://open.spotify.com/album/4er5M8euXXFNtJd5PCXA1W) | 3:50 | 2024-06-27 | 2024-07-19 |
-| [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 | 2026-01-23 |  |
+| [Death of Love](https://open.spotify.com/track/18NDaA50I2xeHYeMkfVPp6) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Death of Love](https://open.spotify.com/album/46LkrlF3N8AgPz5p6Y2SeH) | 3:26 | 2026-01-23 | 2026-07-31 |
 | [Declare Me Dead!](https://open.spotify.com/track/4dFScdueJuGXSumYDDhYHi) | [Toni Sancho](https://open.spotify.com/artist/4SpaShKE14x1P5jTruqwIK) | [Declare Me Dead!](https://open.spotify.com/album/4IVjJgmYHV6fJgxGhWeXqt) | 3:26 | 2025-07-10 | 2025-09-05 |
 | [DEEP HOLES](https://open.spotify.com/track/6OL3oeNSREzPpS0x0oCAM4) | [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW) | [HOPECORE](https://open.spotify.com/album/7ipRsT2BVjkSXzZoljpRbw) | 4:46 | 2024-10-03 | 2024-10-18 |
 | [DEGENERATE](https://open.spotify.com/track/6yhRDR8pjoEIXJBOxsijW0) | [Niall Tarmey](https://open.spotify.com/artist/0mkGsPDIeYwlu3AphfXLmJ), [Oakruled](https://open.spotify.com/artist/1qRVS1GgGkNSbqfgOz1o3R) | [Far Away Grass](https://open.spotify.com/album/3ZwBGCPjYBtpyS6z55IWU3) | 3:14 | 2026-07-09 |  |
@@ -296,6 +297,7 @@
 | [Free](https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Free](https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J) | 3:35 | 2025-03-28 | 2025-06-06 |
 | [FRESH AND NEW](https://open.spotify.com/track/6jkkBQC3drJYtL03cl6vS3) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [FRESH AND NEW](https://open.spotify.com/album/6y5eGkaWm3HPeuMi8P7fiy) | 2:25 | 2024-07-04 | 2024-10-11 |
 | [FromHere \(feat\. Snoop Dogg & October London\)](https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [FromHere \(feat\. Snoop Dogg & October London\)](https://open.spotify.com/album/7aFWGuepWqTGZneBnfahBZ) | 4:01 | 2024-06-27 | 2024-07-19 |
+| [FU : ILY](https://open.spotify.com/track/6bJYxgGcvR9tqpGQLApNO0) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [FU : ILY](https://open.spotify.com/album/0s5WRpopYusuMFTmedJMIN) | 2:29 | 2026-07-31 |  |
 | [Fucked Up](https://open.spotify.com/track/37bFATT8sxbVSJfPWegCSK) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Fucked Up](https://open.spotify.com/album/2k7gCTS8KGqowNfOpSkEJz) | 3:51 | 2024-06-27 | 2024-07-20 |
 | [Funny Friends](https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Distracted](https://open.spotify.com/album/4DkVTJfU9qyNWKbjLoTENL) | 2:35 | 2026-04-02 |  |
 | [G.I.R.L.](https://open.spotify.com/track/5vpC87nKOdqAXHEzM4X4BL) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [G.I.R.L.](https://open.spotify.com/album/6LHoSmYwvVq6hNHvKhy6Ck) | 2:42 | 2025-04-24 | 2025-07-25 |
@@ -737,7 +739,7 @@
 | [Something In The Way](https://open.spotify.com/track/4HKZaeJ4YByO1p6BQweGeP) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC) | [Viole\(n\)t Colour](https://open.spotify.com/album/4SY5NCLY3ykxmIrCEHYfh3) | 3:09 | 2025-05-29 | 2025-08-01 |
 | [Something Real \(feat\. Psweatpants\)](https://open.spotify.com/track/1lVKKIs57NBOnRc4kNuCoF) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm), [Psweatpants](https://open.spotify.com/artist/45qonKMyhaFMPywkQ5DDqR) | [Something Real \(feat\. Psweatpants\)](https://open.spotify.com/album/67K2vShfSWaL2ypzijGM1k) | 3:23 | 2025-07-31 | 2025-09-05 |
 | [Somewhere Only We Go](https://open.spotify.com/track/0e5r1a7ZVAbSRvsrdOdvFv) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Somewhere Only We Go](https://open.spotify.com/album/7CkVmuSarxEAaF40gwVNWm) | 3:39 | 2025-08-07 | 2025-10-24 |
-| [Song for the Messenger](https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Song for the Messenger](https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c) | 3:02 | 2026-04-30 |  |
+| [Song for the Messenger](https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Song for the Messenger](https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c) | 3:02 | 2026-04-30 | 2026-07-31 |
 | [Sorry](https://open.spotify.com/track/3gdzRoYEL3iBJUXRgcWEB3) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Sorry](https://open.spotify.com/album/6baBfgccJbY8W2r5dwOWDZ) | 3:17 | 2025-09-11 | 2025-10-24 |
 | [Sorted](https://open.spotify.com/track/4TDwUxtt0x4WGzvXJF2iNP) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0), [Banshee The Great](https://open.spotify.com/artist/6SPJid1jep9GWy3fDFSX8p) | [Sorted](https://open.spotify.com/album/1uuMcP0nxUbVGIShpYec21) | 3:47 | 2025-11-07 | 2025-12-20 |
 | [SOS](https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [POST HEAVEN](https://open.spotify.com/album/10Q8vu699wdZoMggfkCxDV) | 4:24 | 2025-04-11 | 2025-07-18 |

@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IOIb9ySZZd.md) - [plain]
 | 98 | [What 'bout my star?](https://open.spotify.com/track/3dZnCum9p0pxAVHC6nV6ZV) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq) | [「マクロスF」VOCAL COLLECTION　娘たま♀](https://open.spotify.com/album/08GHG4ClUfdcmDoAwjRo1I) | 5:04 |
 | 99 | [ランナー　―デュエット・バージョン―](https://open.spotify.com/track/3enoLxGLI5QLQWTANiHGp2) | [藤原誠](https://open.spotify.com/artist/4qXbRIljCeveb6lxk0zZx2), [Mari Iijima](https://open.spotify.com/artist/0dhvGf9gL3XEeRleaJ3xij) | [超時空要塞マクロス　MACROSS EXTRA VOCAL COLLECTION](https://open.spotify.com/album/0MicEVyVqLUFk8sxwuGfTq) | 1:41 |
 
-Snapshot ID: `AAAAAH8peicMwUMTgVNtos08nA6n7qcl`
+Snapshot ID: `AAAAABsxdsa0iQQ4Yb9bfvm43nN1Sb16`

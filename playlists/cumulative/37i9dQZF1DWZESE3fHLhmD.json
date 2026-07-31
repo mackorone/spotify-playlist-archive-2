@@ -354,7 +354,7 @@
       ],
       "date_added": "2025-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 257533,
       "name": "Anchor",
       "url": "https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq"
@@ -3297,6 +3297,24 @@
     },
     {
       "album": {
+        "name": "IM NACHGANG",
+        "url": "https://open.spotify.com/album/6KzrOM7IJgP5h6LkuGEtAw"
+      },
+      "artists": [
+        {
+          "name": "CARLI",
+          "url": "https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "IM NACHGANG",
+      "url": "https://open.spotify.com/track/2U565GQic8yI7a964Y2SD0"
+    },
+    {
+      "album": {
         "name": "impstr",
         "url": "https://open.spotify.com/album/5TxPb4YrQ6LUz3RY9Jgohr"
       },
@@ -3774,7 +3792,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 133048,
       "name": "leb wieder",
       "url": "https://open.spotify.com/track/2ksDeXQrrtdPRo9xm0iNa3"
@@ -4405,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "melancholia",
+        "url": "https://open.spotify.com/album/7gtn3ZzSOHyfYOTg1wsDZT"
+      },
+      "artists": [
+        {
+          "name": "PAUL FALC",
+          "url": "https://open.spotify.com/artist/0ryxCmymTyz0myAGR4WnC1"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "melancholia",
+      "url": "https://open.spotify.com/track/5kBK4DX5GYiuAvBnOdmNO7"
+    },
+    {
+      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4"
       },
@@ -4654,7 +4690,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 172493,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ"
@@ -4864,6 +4900,24 @@
       "duration_ms": 191840,
       "name": "My Regards",
       "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
+    },
+    {
+      "album": {
+        "name": "nach hause laufen",
+        "url": "https://open.spotify.com/album/6ExKxgzsDNXYcjbjKnW3yW"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128203,
+      "name": "nach hause laufen",
+      "url": "https://open.spotify.com/track/0gvaybSaQczeMcsdfVkLgK"
     },
     {
       "album": {
@@ -7204,7 +7258,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 185337,
       "name": "Tastes So Good",
       "url": "https://open.spotify.com/track/1zpv7um6Ukk3pkNMtfaYM7"
@@ -8304,7 +8358,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 183476,
       "name": "You'll Find Me There",
       "url": "https://open.spotify.com/track/0L87XLB19pHzjbqVRVkW1R"

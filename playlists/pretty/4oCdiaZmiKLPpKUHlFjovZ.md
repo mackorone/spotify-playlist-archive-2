@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring T.I., Fenix Flexin, Shaboozey &amp; more.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,246 likes - 105 songs - 4 hr 55 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,242 likes - 105 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 | 2 | [RUBBERZ](https://open.spotify.com/track/1iTBTk4xtwo4lBMcPVNoPh) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Purps On The Beat](https://open.spotify.com/artist/5Ti1bgVXlEFiheTsdiHhRd) | [RUBBERZ](https://open.spotify.com/album/5nh5SWvNLfdyPqJD5zvDNV) | 2:53 |
 | 3 | [Wein Abdul?](https://open.spotify.com/track/4OOUv5ZpeYkmf0Q9FzSu3T) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E) | [Wein Abdul?](https://open.spotify.com/album/6WGU3F6yC0OeZePEFT2CR9) | 2:49 |
 | 4 | [Organic Motion \(feat\. DJ.Fresh\)](https://open.spotify.com/track/6tu6Qb7iQBtucdeb2zyjVh) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [Who Coppin](https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB) | 2:35 |
-| 5 | [Cowgirl](https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowgirl](https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR) | 2:56 |
+| 5 | [Cowgirl](https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowgirl](https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR) | 2:55 |
 | 6 | [Sad Girls](https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Sad Girls](https://open.spotify.com/album/3YAJhdX0oklx3Hxyrdll5V) | 2:48 |
 | 7 | [Roundtripski](https://open.spotify.com/track/2BPjxkBhFjP2sp1SW6MyhU) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Dr\*gs R Bad](https://open.spotify.com/album/0w31mbjD6bT4eckeQFWDt3) | 3:00 |
 | 8 | [Wait for Me](https://open.spotify.com/track/4CoE0GqJxgzLV1D9jJxQZI) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Wait for Me](https://open.spotify.com/album/4duiGyBEuWMrNuN1IfH4u8) | 3:14 |

@@ -1,12 +1,12 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Jazzbois",
-  "num_followers": 16803,
+  "num_followers": 16806,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL1PQzyX5WpBRNjNxMqJOpK8IOO+",
+  "snapshot_id": "AAAAAMI5OLNI4i/KZkzlYOPGtGlmRa45",
   "tracks": [
     {
       "added_at": "2026-07-17 14:20:50",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
-        "name": "k\u00e1osz",
-        "url": "https://open.spotify.com/album/7t8Ri7TyMFBbuQVl0EW83z"
-      },
-      "artists": [
-        {
-          "name": "imago mundi",
-          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "k\u00e1osz",
-      "url": "https://open.spotify.com/track/6Xr1706cN98IonpssEDZP6"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
         "name": "Sivatag",
         "url": "https://open.spotify.com/album/0Z78ucckt1P6XNux1EoEBu"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 152658,
       "name": "Sivatag",
       "url": "https://open.spotify.com/track/5qaOxpSVzbHHSF4J7yyBKS"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
+        "name": "k\u00e1osz",
+        "url": "https://open.spotify.com/album/7t8Ri7TyMFBbuQVl0EW83z"
+      },
+      "artists": [
+        {
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "k\u00e1osz",
+      "url": "https://open.spotify.com/track/6Xr1706cN98IonpssEDZP6"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -327,6 +327,26 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
+        "name": "K\u00f6szi",
+        "url": "https://open.spotify.com/album/56kLFYIxLorgmAY1wZuTed"
+      },
+      "artists": [
+        {
+          "name": "Zaporozsec",
+          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+        },
+        {
+          "name": "Mez\u0151 Misi",
+          "url": "https://open.spotify.com/artist/3ABBNYcEBmkQHx3ASmvJze"
+        }
+      ],
+      "duration_ms": 207541,
+      "name": "K\u00f6szi",
+      "url": "https://open.spotify.com/track/00nULt6n8Hb3DYJNopXJKF"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
         "name": "SZINTIPOP",
         "url": "https://open.spotify.com/album/76HGfnlgAvUzsBnd7z77ou"
       },
@@ -351,26 +371,6 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
-        "name": "K\u00f6szi",
-        "url": "https://open.spotify.com/album/56kLFYIxLorgmAY1wZuTed"
-      },
-      "artists": [
-        {
-          "name": "Zaporozsec",
-          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
-        },
-        {
-          "name": "Mez\u0151 Misi",
-          "url": "https://open.spotify.com/artist/3ABBNYcEBmkQHx3ASmvJze"
-        }
-      ],
-      "duration_ms": 207541,
-      "name": "K\u00f6szi",
-      "url": "https://open.spotify.com/track/00nULt6n8Hb3DYJNopXJKF"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
         "name": "AMORE (de nem veled)",
         "url": "https://open.spotify.com/album/6Col5y7vKRtqIkmS3e8P3i"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 194291,
       "name": "AMORE (de nem veled)",
       "url": "https://open.spotify.com/track/0C06vewM8LGiOcOsVvOkdf"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
+        "name": "Most",
+        "url": "https://open.spotify.com/album/6396B6J5ZtLprsPfHz59gs"
+      },
+      "artists": [
+        {
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Minden mozog",
+      "url": "https://open.spotify.com/track/6W9fv7TBvValaakqwvRHCP"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -403,22 +419,6 @@
       "duration_ms": 165000,
       "name": "DONEKIRK",
       "url": "https://open.spotify.com/track/019GjG59HXJGly9yuhDb7n"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
-        "name": "Most",
-        "url": "https://open.spotify.com/album/6396B6J5ZtLprsPfHz59gs"
-      },
-      "artists": [
-        {
-          "name": "Csaknekedkisl\u00e1ny",
-          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Minden mozog",
-      "url": "https://open.spotify.com/track/6W9fv7TBvValaakqwvRHCP"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -523,22 +523,18 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
-        "name": "Szem\u00fcveg",
-        "url": "https://open.spotify.com/album/6DERNfzTVl7gTuMGYQcjvk"
+        "name": "plusz egy (+1)",
+        "url": "https://open.spotify.com/album/2BBLfh0N2WWcBo7G7KVHgv"
       },
       "artists": [
         {
           "name": "Carson Coma",
           "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
-        },
-        {
-          "name": "Dzs\u00fadl\u00f3",
-          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Szem\u00fcveg",
-      "url": "https://open.spotify.com/track/3vJy9Cv6Jjy9wlcgocJ1RB"
+      "duration_ms": 209449,
+      "name": "plusz egy (+1)",
+      "url": "https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -555,26 +551,6 @@
       "duration_ms": 153747,
       "name": "NEM N\u00c9M\u00cdTHATTOK EL",
       "url": "https://open.spotify.com/track/7hiLmgxXlxzfpOQlfqeBU0"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
-        "name": "GASOLINE RAINBOW",
-        "url": "https://open.spotify.com/album/5nCzO3pTfgQdMArALIJwDx"
-      },
-      "artists": [
-        {
-          "name": "Fran Palermo",
-          "url": "https://open.spotify.com/artist/5pey8GDHGCU8pzAFrjKslD"
-        },
-        {
-          "name": "\u0414eva",
-          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
-        }
-      ],
-      "duration_ms": 268500,
-      "name": "GASOLINE RAINBOW",
-      "url": "https://open.spotify.com/track/4ABFmbmuiuzxylf16jBUZB"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -611,18 +587,58 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
-        "name": "plusz egy (+1)",
-        "url": "https://open.spotify.com/album/2BBLfh0N2WWcBo7G7KVHgv"
+        "name": "GASOLINE RAINBOW",
+        "url": "https://open.spotify.com/album/5nCzO3pTfgQdMArALIJwDx"
+      },
+      "artists": [
+        {
+          "name": "Fran Palermo",
+          "url": "https://open.spotify.com/artist/5pey8GDHGCU8pzAFrjKslD"
+        },
+        {
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+        }
+      ],
+      "duration_ms": 268500,
+      "name": "GASOLINE RAINBOW",
+      "url": "https://open.spotify.com/track/4ABFmbmuiuzxylf16jBUZB"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
+        "name": "Szem\u00fcveg",
+        "url": "https://open.spotify.com/album/6DERNfzTVl7gTuMGYQcjvk"
       },
       "artists": [
         {
           "name": "Carson Coma",
           "url": "https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6"
+        },
+        {
+          "name": "Dzs\u00fadl\u00f3",
+          "url": "https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG"
         }
       ],
-      "duration_ms": 209449,
-      "name": "plusz egy (+1)",
-      "url": "https://open.spotify.com/track/1ibXEymBvy9ZX8alE2dFoh"
+      "duration_ms": 175200,
+      "name": "Szem\u00fcveg",
+      "url": "https://open.spotify.com/track/3vJy9Cv6Jjy9wlcgocJ1RB"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
+        "name": "Az a szerelem",
+        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 293888,
+      "name": "Az a szerelem",
+      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -643,22 +659,6 @@
       "duration_ms": 179580,
       "name": "\u00dct\u00f6tt kopott",
       "url": "https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
-        "name": "Az a szerelem",
-        "url": "https://open.spotify.com/album/4Cm8J5Zn1umsJcHpUvYwnh"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 293888,
-      "name": "Az a szerelem",
-      "url": "https://open.spotify.com/track/1NjWjcJmIL9QMXes0R1nWz"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
+        "name": "Nem Ismerlek",
+        "url": "https://open.spotify.com/album/4t5PgPflmxqNpv0F4OcW4O"
+      },
+      "artists": [
+        {
+          "name": "Kolibri",
+          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Nem Ismerlek",
+      "url": "https://open.spotify.com/track/4ImLn4Eg8tUHdNBhnmRmhF"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
         "name": "Blicc",
         "url": "https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
-        "name": "Nem Ismerlek",
-        "url": "https://open.spotify.com/album/4t5PgPflmxqNpv0F4OcW4O"
-      },
-      "artists": [
-        {
-          "name": "Kolibri",
-          "url": "https://open.spotify.com/artist/5zNPKDqaFEf8JemuyGaC72"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Nem Ismerlek",
-      "url": "https://open.spotify.com/track/4ImLn4Eg8tUHdNBhnmRmhF"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
         "name": "A sz\u00edv vezet",
         "url": "https://open.spotify.com/album/5kVYf3Gm7wgk1F7Jjcm3Lm"
       },
@@ -787,6 +787,22 @@
       "duration_ms": 166000,
       "name": "A sz\u00edv vezet",
       "url": "https://open.spotify.com/track/4DYbJ4osRQVvzr5Stzq22q"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
+        "name": "Portug\u00edzer",
+        "url": "https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 242899,
+      "name": "Portug\u00edzer",
+      "url": "https://open.spotify.com/track/0lnVWY8vppgZX8rfw3twUg"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -827,22 +843,6 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
-        "name": "Portug\u00edzer",
-        "url": "https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 242899,
-      "name": "Portug\u00edzer",
-      "url": "https://open.spotify.com/track/0lnVWY8vppgZX8rfw3twUg"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
         "name": "AK\u00c1RKIFIA",
         "url": "https://open.spotify.com/album/0TvpE8pe9RGmp5hP6S9Nk7"
       },
@@ -875,30 +875,6 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
-        "name": "MR. CITYWIDE",
-        "url": "https://open.spotify.com/album/68sblQXoXXUG7KHyXw6RGz"
-      },
-      "artists": [
-        {
-          "name": "veryraredome",
-          "url": "https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv"
-        },
-        {
-          "name": "26ckay",
-          "url": "https://open.spotify.com/artist/0VvoEGyKZ9tWbD0EYk9yTv"
-        },
-        {
-          "name": "starboyrolo",
-          "url": "https://open.spotify.com/artist/3A7iNlFgagq1pt7yzyynMq"
-        }
-      ],
-      "duration_ms": 187849,
-      "name": "MARIO",
-      "url": "https://open.spotify.com/track/08m9oJ1bpBWLl1k66Uk7LS"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
         "name": "IM\u00c1G\u00d3",
         "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
       },
@@ -927,6 +903,30 @@
       "duration_ms": 178838,
       "name": "buligyilkos",
       "url": "https://open.spotify.com/track/1GeJtHPMPHRrYkA4jX3MDb"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
+        "name": "MR. CITYWIDE",
+        "url": "https://open.spotify.com/album/68sblQXoXXUG7KHyXw6RGz"
+      },
+      "artists": [
+        {
+          "name": "veryraredome",
+          "url": "https://open.spotify.com/artist/7zYwh77AsmmjXoUr8AIHTv"
+        },
+        {
+          "name": "26ckay",
+          "url": "https://open.spotify.com/artist/0VvoEGyKZ9tWbD0EYk9yTv"
+        },
+        {
+          "name": "starboyrolo",
+          "url": "https://open.spotify.com/artist/3A7iNlFgagq1pt7yzyynMq"
+        }
+      ],
+      "duration_ms": 187849,
+      "name": "MARIO",
+      "url": "https://open.spotify.com/track/08m9oJ1bpBWLl1k66Uk7LS"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
-        "name": "Elsz\u00e1lln\u00e9k",
-        "url": "https://open.spotify.com/album/4k5jW5VJ4LyfFjo4QWYagM"
-      },
-      "artists": [
-        {
-          "name": "imago mundi",
-          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Elsz\u00e1lln\u00e9k",
-      "url": "https://open.spotify.com/track/6AeHaBOwRw4IbdV8Rxc4iq"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
         "name": "heal, heal, heal",
         "url": "https://open.spotify.com/album/5XmntFTXIT29aQLeWjteNw"
       },
@@ -1051,86 +1035,6 @@
       "duration_ms": 213630,
       "name": "heal, heal, heal",
       "url": "https://open.spotify.com/track/1p3xYYUCwcnhnJJrOvbry6"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
-        "name": "sz\u00e1z \u00e9v",
-        "url": "https://open.spotify.com/album/6dhGWgOEs8SDGFCb0xnZr7"
-      },
-      "artists": [
-        {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
-        }
-      ],
-      "duration_ms": 259900,
-      "name": "sz\u00e1z \u00e9v",
-      "url": "https://open.spotify.com/track/4W4thMn3tukHjnp4DFuoFp"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
-        "name": "z\u00fagj sz\u00e9l",
-        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
-      },
-      "artists": [
-        {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "z\u00fagj sz\u00e9l",
-      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
-        "name": "\u00dcres",
-        "url": "https://open.spotify.com/album/4EMHZtvTxgvo7RkD1pes0l"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ra Barnab\u00e1s",
-          "url": "https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR"
-        }
-      ],
-      "duration_ms": 147536,
-      "name": "\u00dcres",
-      "url": "https://open.spotify.com/track/4LC4LAyMoQpYpWkxgVRffv"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
-        "name": "Kezdetben Ketten",
-        "url": "https://open.spotify.com/album/2IGoo8bL65FuJ8Vywy3RBG"
-      },
-      "artists": [
-        {
-          "name": "ajsa luna",
-          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
-        }
-      ],
-      "duration_ms": 185507,
-      "name": "Tomi Montana",
-      "url": "https://open.spotify.com/track/0YmC2RyX4YD1HVaJQ8F73G"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
-        "name": "Bok\u00e1ig",
-        "url": "https://open.spotify.com/album/6FIb3r1bHYnFB08zwP6rZF"
-      },
-      "artists": [
-        {
-          "name": "Art\u016br Rambo",
-          "url": "https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Bok\u00e1ig",
-      "url": "https://open.spotify.com/track/5NiWmrfffV9kj0KqsPFMas"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -1151,6 +1055,38 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
+        "name": "Elsz\u00e1lln\u00e9k",
+        "url": "https://open.spotify.com/album/4k5jW5VJ4LyfFjo4QWYagM"
+      },
+      "artists": [
+        {
+          "name": "imago mundi",
+          "url": "https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Elsz\u00e1lln\u00e9k",
+      "url": "https://open.spotify.com/track/6AeHaBOwRw4IbdV8Rxc4iq"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
+        "name": "z\u00fagj sz\u00e9l",
+        "url": "https://open.spotify.com/album/053TgtTiFDCDCL9v3S3cDS"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "z\u00fagj sz\u00e9l",
+      "url": "https://open.spotify.com/track/0R1J9WiI9xyMppsuLJKRYU"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
         "name": "Magam sem tudom",
         "url": "https://open.spotify.com/album/6k6hfT293PG9NduWzLC55r"
       },
@@ -1163,6 +1099,38 @@
       "duration_ms": 190335,
       "name": "Magam sem tudom",
       "url": "https://open.spotify.com/track/22xCahAMd6iR2r7AsVqnvk"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
+        "name": "Kezdetben Ketten",
+        "url": "https://open.spotify.com/album/2IGoo8bL65FuJ8Vywy3RBG"
+      },
+      "artists": [
+        {
+          "name": "ajsa luna",
+          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
+        }
+      ],
+      "duration_ms": 185507,
+      "name": "Tomi Montana",
+      "url": "https://open.spotify.com/track/0YmC2RyX4YD1HVaJQ8F73G"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
+        "name": "sz\u00e1z \u00e9v",
+        "url": "https://open.spotify.com/album/6dhGWgOEs8SDGFCb0xnZr7"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 259900,
+      "name": "sz\u00e1z \u00e9v",
+      "url": "https://open.spotify.com/track/4W4thMn3tukHjnp4DFuoFp"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -1183,6 +1151,38 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
+        "name": "\u00dcres",
+        "url": "https://open.spotify.com/album/4EMHZtvTxgvo7RkD1pes0l"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ra Barnab\u00e1s",
+          "url": "https://open.spotify.com/artist/42xKpR9Qeev4I5IFby0WUR"
+        }
+      ],
+      "duration_ms": 147536,
+      "name": "\u00dcres",
+      "url": "https://open.spotify.com/track/4LC4LAyMoQpYpWkxgVRffv"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
+        "name": "Bok\u00e1ig",
+        "url": "https://open.spotify.com/album/6FIb3r1bHYnFB08zwP6rZF"
+      },
+      "artists": [
+        {
+          "name": "Art\u016br Rambo",
+          "url": "https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Bok\u00e1ig",
+      "url": "https://open.spotify.com/track/5NiWmrfffV9kj0KqsPFMas"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
         "name": "TAVASZI NAGYTAKAR\u00cdT\u00c1S",
         "url": "https://open.spotify.com/album/1M5qSMUHsshvYpbdA2FbHh"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 163000,
       "name": "TAVASZI NAGYTAKAR\u00cdT\u00c1S",
       "url": "https://open.spotify.com/track/07pbiymI3VAmgE4HmHjk1N"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
+        "name": "Lassan, kocsis",
+        "url": "https://open.spotify.com/album/53VbZsC8lQjXTXi3GSduEA"
+      },
+      "artists": [
+        {
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+        }
+      ],
+      "duration_ms": 248761,
+      "name": "Lassan, kocsis",
+      "url": "https://open.spotify.com/track/16VjYN80sz5SaoAGUcBhqa"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -1215,18 +1231,22 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
-        "name": "Lassan, kocsis",
-        "url": "https://open.spotify.com/album/53VbZsC8lQjXTXi3GSduEA"
+        "name": "Szil\u00e1nkok",
+        "url": "https://open.spotify.com/album/3do3YI0XDOwP50ujHfw4Gc"
       },
       "artists": [
         {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+          "name": "Korinna",
+          "url": "https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH"
+        },
+        {
+          "name": "UTAZ\u00d8",
+          "url": "https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc"
         }
       ],
-      "duration_ms": 248761,
-      "name": "Lassan, kocsis",
-      "url": "https://open.spotify.com/track/16VjYN80sz5SaoAGUcBhqa"
+      "duration_ms": 246265,
+      "name": "Szil\u00e1nkok",
+      "url": "https://open.spotify.com/track/2u8iSrFqIwMuIlCNRp5IdQ"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -1271,46 +1291,6 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
-        "name": "Szil\u00e1nkok",
-        "url": "https://open.spotify.com/album/3do3YI0XDOwP50ujHfw4Gc"
-      },
-      "artists": [
-        {
-          "name": "Korinna",
-          "url": "https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH"
-        },
-        {
-          "name": "UTAZ\u00d8",
-          "url": "https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc"
-        }
-      ],
-      "duration_ms": 246265,
-      "name": "Szil\u00e1nkok",
-      "url": "https://open.spotify.com/track/2u8iSrFqIwMuIlCNRp5IdQ"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
-        "name": "disco maffia",
-        "url": "https://open.spotify.com/album/6ZVls0oLr3Quxr0PtysJUJ"
-      },
-      "artists": [
-        {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
-        },
-        {
-          "name": "V\u00e1rkonyi Csib\u00e9szek",
-          "url": "https://open.spotify.com/artist/1RoqJqUGdtcjnKyGARoWF3"
-        }
-      ],
-      "duration_ms": 245531,
-      "name": "disco maffia",
-      "url": "https://open.spotify.com/track/6c7Kt8odjYaFktvT1DeCPR"
-    },
-    {
-      "added_at": "2026-07-17 14:20:50",
-      "album": {
         "name": "Csillagb\u00f3l f\u00e9ny",
         "url": "https://open.spotify.com/album/75ehWIPCih0JSCRexiIm0V"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 198352,
       "name": "M\u00e9g Egyszer",
       "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
+    },
+    {
+      "added_at": "2026-07-17 14:20:50",
+      "album": {
+        "name": "disco maffia",
+        "url": "https://open.spotify.com/album/6ZVls0oLr3Quxr0PtysJUJ"
+      },
+      "artists": [
+        {
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+        },
+        {
+          "name": "V\u00e1rkonyi Csib\u00e9szek",
+          "url": "https://open.spotify.com/artist/1RoqJqUGdtcjnKyGARoWF3"
+        }
+      ],
+      "duration_ms": 245531,
+      "name": "disco maffia",
+      "url": "https://open.spotify.com/track/6c7Kt8odjYaFktvT1DeCPR"
     },
     {
       "added_at": "2026-07-17 14:20:50",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2026-07-17 14:20:50",
       "album": {
-        "name": "Itt vagyok",
-        "url": "https://open.spotify.com/album/7CEFNw5QYzZRW57p2gV15q"
+        "name": "Szob\u00e1k felett",
+        "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
       "artists": [
         {
-          "name": "Zaporozsec",
-          "url": "https://open.spotify.com/artist/6sCNFSN1IvhWtxSEjPk4vP"
+          "name": "Fi\u00fak",
+          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
         }
       ],
-      "duration_ms": 164561,
-      "name": "Itt vagyok",
-      "url": "https://open.spotify.com/track/3tGFVeJHq4t13lBsaq0Q94"
+      "duration_ms": 232293,
+      "name": "Alb\u00e9rlet",
+      "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
     }
   ],
   "unique_name": "Nemazapop",

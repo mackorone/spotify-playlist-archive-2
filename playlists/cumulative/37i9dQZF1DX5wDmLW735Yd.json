@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Chase & Status, J Hus, IRAH",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Koven",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -3262,7 +3262,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 164610,
       "name": "BrAiNdEaD",
       "url": "https://open.spotify.com/track/6z6ffepNBAyt3p68b9aPfv"
@@ -9250,7 +9250,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 182068,
       "name": "Full Power",
       "url": "https://open.spotify.com/track/5FNNKh2Aw0RCWwrMPF8DBn"
@@ -9912,7 +9912,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 231724,
       "name": "Glow",
       "url": "https://open.spotify.com/track/0vA8uwu9xTryDZOZnUr9w2"
@@ -12911,6 +12911,28 @@
     },
     {
       "album": {
+        "name": "Junglist Nation",
+        "url": "https://open.spotify.com/album/3qj6bk5vMkux7lqSMPiwzl"
+      },
+      "artists": [
+        {
+          "name": "DJ Rap",
+          "url": "https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245423,
+      "name": "Junglist Nation",
+      "url": "https://open.spotify.com/track/2m2bjBD0PBGyZN4aEIoPxD"
+    },
+    {
+      "album": {
         "name": "Just Love",
         "url": "https://open.spotify.com/album/4CVZ1KT74BU4BwPs3vxgsN"
       },
@@ -13745,6 +13767,28 @@
     },
     {
       "album": {
+        "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/5aIfgU3wY8L4dbGfAj0uaI"
+      },
+      "artists": [
+        {
+          "name": "Tantrum Desire",
+          "url": "https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193448,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/51nolhQpuQ5cUjebyu62Xv"
+    },
+    {
+      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/5VR6J9N4EqZHOnzs6lvGgU"
       },
@@ -13914,6 +13958,32 @@
       "duration_ms": 148965,
       "name": "Like It (feat. Cristale & Wohdee)",
       "url": "https://open.spotify.com/track/62h1RiA0QOrJv1CSi464aT"
+    },
+    {
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/102ofRrQaiXAewwJx0jts6"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        },
+        {
+          "name": "Gabriella Bongo",
+          "url": "https://open.spotify.com/artist/5RZaAT4U5JzUOAIi7X5h68"
+        },
+        {
+          "name": "Alex Fay",
+          "url": "https://open.spotify.com/artist/3tb12SMjtXoxbGwG7JH0yf"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251034,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/3QeftDRBVBpGueDkeaZZk3"
     },
     {
       "album": {
@@ -17369,6 +17439,36 @@
     },
     {
       "album": {
+        "name": "Okok",
+        "url": "https://open.spotify.com/album/6LNwkb5p7bqiK539lKQYp2"
+      },
+      "artists": [
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        },
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        },
+        {
+          "name": "XTEN",
+          "url": "https://open.spotify.com/artist/31l5AvkLXl6aNgAJXHpZhl"
+        },
+        {
+          "name": "Overlook",
+          "url": "https://open.spotify.com/artist/3rkCIOMxodtXwWH17WoH1b"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167120,
+      "name": "Okok",
+      "url": "https://open.spotify.com/track/6GSrGnm398xsb0WnewG9VQ"
+    },
+    {
+      "album": {
         "name": "Old School",
         "url": "https://open.spotify.com/album/7Moh1CwiKkoFwm6R4nVfnV"
       },
@@ -17670,7 +17770,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 201379,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/4NZRpnuP4EZl6yohxQofP2"
@@ -21425,6 +21525,24 @@
     },
     {
       "album": {
+        "name": "Set You Free",
+        "url": "https://open.spotify.com/album/2BJWf56WWnTfxfP4xCiTup"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183297,
+      "name": "Set You Free",
+      "url": "https://open.spotify.com/track/0ZtsqqqeOWnqpYIs5ncQSe"
+    },
+    {
+      "album": {
         "name": "Setting Sun",
         "url": "https://open.spotify.com/album/58RQM3Nbu7oyCBzN4SnBvg"
       },
@@ -24380,7 +24498,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 172800,
       "name": "The End of the Earth",
       "url": "https://open.spotify.com/track/3hPBoCMuBWezdEXW0k3RPe"
@@ -26904,6 +27022,28 @@
       "duration_ms": 269000,
       "name": "When It Rains (feat. BackRoad Gee)",
       "url": "https://open.spotify.com/track/1Lu843IJ47p0gF3Rj1zFUL"
+    },
+    {
+      "album": {
+        "name": "Where Did You Go",
+        "url": "https://open.spotify.com/album/4OS3dCk8wOXZ37UnefWCEy"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253793,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/5a62ibJyiPkTZ7q4m8D33H"
     },
     {
       "album": {

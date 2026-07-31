@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,586 likes - 1,088 songs - 2 day 20 hr 33 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,586 likes - 1,113 songs - 2 day 22 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1096,5 +1096,30 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1086 | [Nada Para el Final](https://open.spotify.com/track/0mHf1ye1UPJtCpXtXU96qg) | [Optional Ganesh](https://open.spotify.com/artist/3hSejCXiZtx3chBHEwFsB5), [Germán Villanueva](https://open.spotify.com/artist/7lzPFDJz9rjFD9LuT3qOXy) | [Nada Para el Final](https://open.spotify.com/album/32RmbZnbq7AM5Q4Z9lWFbP) | 4:29 |
 | 1087 | [Left Behind](https://open.spotify.com/track/3IOiro4TIqIr5iDIxqfIOw) | [The Opposite Of Falling](https://open.spotify.com/artist/09WpOH3MuSzBPgKWLsocbo) | [Cycles](https://open.spotify.com/album/0ldBcNzrZ5np7NxLADFz0y) | 4:14 |
 | 1088 | [Good Friends & Bad Decisions](https://open.spotify.com/track/1YldLB9XJR6T1jiCwDnkeY) | [Be Quiet Brenna](https://open.spotify.com/artist/2xoRLPY284eB59QCr3J9aT) | [Good Friends & Bad Decisions](https://open.spotify.com/album/2onXjgWRzTud7vk1OrBvbG) | 3:23 |
+| 1089 | [Without you](https://open.spotify.com/track/5CM9Cw8yMdbdgQpE4v1iik) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [Without you](https://open.spotify.com/album/362kVEYJ5Sg7tRpvhEOTVu) | 3:14 |
+| 1090 | [Ruínas](https://open.spotify.com/track/2bYOkQsfPvIegMlBQoWUYE) | [Lamarquez](https://open.spotify.com/artist/47TmTJiO9p0BgTx4iKA4Tc) | [Ruínas](https://open.spotify.com/album/6NsucsDDCZVXCbIWMSzOJp) | 3:47 |
+| 1091 | [Comentário Sobre O Relógio](https://open.spotify.com/track/1fUwq4wzoIpxIyeaJaMZ4N) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 3:39 |
+| 1092 | [What Are You On](https://open.spotify.com/track/0cvYz0MdRkyBuz0NZZYNEG) | [Folly Drifters](https://open.spotify.com/artist/31Q0nMQq6CSQ4IhF3yxIxQ) | [Otter Punch](https://open.spotify.com/album/5uVXmCQ7bHsolx1wggpG1H) | 1:46 |
+| 1093 | [Mourning](https://open.spotify.com/track/3cdIoe8s4QA64f9DZBPrYC) | [Rubber Block](https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk) | [Psychosomatic](https://open.spotify.com/album/0eDV5oAQ1vJtTpxYp3hEkf) | 3:34 |
+| 1094 | [Daily Playlists Said “Free Submissions”… So I Paid Anyway](https://open.spotify.com/track/7AaGdbre3gedjEYxk3WuGP) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68), [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Streams, Schemes & Algorithm Dreams](https://open.spotify.com/album/1w59e4nP3VtTBOVuELKtCw) | 2:25 |
+| 1095 | [Sündikat](https://open.spotify.com/track/5JrrsSNmpt8UY3V1pG5pK5) | [Mystigma](https://open.spotify.com/artist/1tLkcRDALZXMqyf944I1Gg) | [Gloomtown Radio](https://open.spotify.com/album/4i4adA9lAjjuzmwrqRbO7b) | 4:12 |
+| 1096 | [Limerence](https://open.spotify.com/track/7lz2EAlq84sw65h9Oblmo4) | [Dropstitch](https://open.spotify.com/artist/2IWa8sDlNqAtLwQOcpIKEz) | [Limerence](https://open.spotify.com/album/2rUOzBheHIUkRSJQ9rcze5) | 4:13 |
+| 1097 | [All Our Garden](https://open.spotify.com/track/2XcH0LhEdc5JqxCxbycOfA) | [bradleynotbrad](https://open.spotify.com/artist/722BstvnwTMR8HeofZ3FsS) | [Early for Tomorrow](https://open.spotify.com/album/0b6kBuipC2TA5ZuvHe4kv1) | 3:14 |
+| 1098 | [Demonon Siopin](https://open.spotify.com/track/0XX1xHKqU0BPnvQqEkqQZX) | [Project Chord Blast](https://open.spotify.com/artist/0n0fir7jWVJraWZQTKWiyv) | [Demonon Siopin](https://open.spotify.com/album/3nIN26B9ffcrENdINlNmb7) | 4:55 |
+| 1099 | [Survive You](https://open.spotify.com/track/4qPQHrdW6aaW6hpS6vUzN3) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Prelude](https://open.spotify.com/album/3tVyCMhPK73fJ9jzYTfOik) | 4:17 |
+| 1100 | [Iza Bella](https://open.spotify.com/track/2m33TemOMBEDzRpw1TsLhd) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:24 |
+| 1101 | [Armored Armadillo Mega Man X \- Vocal Version](https://open.spotify.com/track/6W1lfIWK6OH2MszM94RKqa) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Armored Armadillo Mega Man X \(Vocal Version\)](https://open.spotify.com/album/4giFRTF9jDXz0NsG4m0WXt) | 3:41 |
+| 1102 | [Ego Gland](https://open.spotify.com/track/0Y6VdbdNHt4Rrzv2EEWpM9) | [Vordermann](https://open.spotify.com/artist/6q8MQV9ZLqQtv1UN44SgwN) | [Ego Gland](https://open.spotify.com/album/1fTqamGZT4ktUELxEQpPM4) | 5:17 |
+| 1103 | [Apex Predator](https://open.spotify.com/track/4nkHJqXvFHkL6MTiN04lIn) | [Existential \[T\]Error](https://open.spotify.com/artist/1vh75V9b1AibNe4uh1tPcc) | [Apex Predator](https://open.spotify.com/album/78JpGOXNREWR0iIfghIyK6) | 2:42 |
+| 1104 | [Collecting Sentiments of a Derailed Past](https://open.spotify.com/track/3mtRp6h6ONfRwYGKqb93Ox) | [The Mantra Discord](https://open.spotify.com/artist/7qGUciCek4iIXfo65Gl7zA) | [Collecting Sentiments of a Derailed Past](https://open.spotify.com/album/56f6wLJonym6oaNLP0prrD) | 6:15 |
+| 1105 | [Last Words](https://open.spotify.com/track/1zBowpXBsRPKcz7e8qp8ys) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Last Words](https://open.spotify.com/album/2Q4pwdp3utPHsNvRd0x5Xu) | 5:02 |
+| 1106 | [Fight For My Life](https://open.spotify.com/track/3FW9uL3mhf4ZKYFSX15O4Q) | [ColourMind](https://open.spotify.com/artist/6qAV0axr2ScfQCauvSZlKO) | [Fight For My Life](https://open.spotify.com/album/2BPFDOKN64VzEnvvgD0Tip) | 3:57 |
+| 1107 | [Beatdown Bells](https://open.spotify.com/track/3cH4kgahHKmYLsniWHuE6H) | [No One Leaves](https://open.spotify.com/artist/1IqC2HBqkWcCCiclMwAA9I) | [Beatdown Bells](https://open.spotify.com/album/5oI8VQYCpiTDDEm6FUYk9W) | 2:05 |
+| 1108 | [Where Is My Lucky Star?](https://open.spotify.com/track/3bLlWtK1Avzlu61yjAzUe2) | [No One Leaves](https://open.spotify.com/artist/1IqC2HBqkWcCCiclMwAA9I) | [Where Is My Lucky Star?](https://open.spotify.com/album/1WWNxcUL5gEmALKe22jEI3) | 4:30 |
+| 1109 | [COUSINS](https://open.spotify.com/track/2QaOL88QSB8GoFxnD1KJQ7) | [Homesick](https://open.spotify.com/artist/4BugzXr3GBpFd1ZAPtmxLQ) | [EASY TO THE CORE](https://open.spotify.com/album/7rkdp03pYRUNOA1mdrjIyB) | 1:32 |
+| 1110 | [EgoRiffer](https://open.spotify.com/track/5QQT8imyDXo0E89VOFfwON) | [Rafael Vaza](https://open.spotify.com/artist/10fjJKlE2xKlUlmjSiVyFj) | [EgoRiffer](https://open.spotify.com/album/6cclEzEeHms3HYdSNRcsoa) | 1:32 |
+| 1111 | [Breakdown](https://open.spotify.com/track/5AAy77zRxM2JHsJKEQFsFC) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Strange Illusions](https://open.spotify.com/album/2mUj79wj2jdhbk3744NgG7) | 4:28 |
+| 1112 | [Wake up and Fight](https://open.spotify.com/track/3duWpO4oBjxoKrnyrlbiAy) | [Beyond the touch](https://open.spotify.com/artist/7lhZrZDGFVZFlw86EmXo93) | [Heaven](https://open.spotify.com/album/42zMCWgOZdPBSZjFIRYzEX) | 2:45 |
+| 1113 | [Blu](https://open.spotify.com/track/3a0PWRmVydOg6S6o8JhmWh) | [Valley's Rim](https://open.spotify.com/artist/0genBNJjEU2iYudBf1UWTd) | [Blu](https://open.spotify.com/album/0YMSMiqbCV4KEzx0pQLAMi) | 4:52 |
 
-Snapshot ID: `AAAEaVGmUs/3tCyCaT4xlJZg5hTAAMVG`
+Snapshot ID: `AAAEgpNo4qfixuAP63EE+xCj2OKW3WNv`

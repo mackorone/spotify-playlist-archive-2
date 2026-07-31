@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 58 | [Tell Your Girlfriend](https://open.spotify.com/track/0Kryggxs2gZqnkujFYEH1D) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:14 |
 | 59 | [My Love Is a Weapon](https://open.spotify.com/track/6uRzgX7rNrTpQIngKG8x0O) | [Skrux](https://open.spotify.com/artist/6cwRqYSDYwWsLveCcDRhyY), [Delacey](https://open.spotify.com/artist/4eDEO36nuddtHU6vK2GTgp) | [My Love Is a Weapon](https://open.spotify.com/album/0asjvhMo7jZRL8Dzmowa0D) | 6:46 |
 | 60 | [indieedgycool](https://open.spotify.com/track/56elbdimSygNDh3xaeDrYe) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [fmk \(with blackbear\)](https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO) | 2:26 |
-| 61 | [Black Coffee](https://open.spotify.com/track/6bACnnQ39JxdU7DmvlayZR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:46 |
-| 62 | [Handlebars \- Just JENNIE](https://open.spotify.com/track/6d611NNmXpV1Upyja5RNOY) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby \(The Complete Collection\)](https://open.spotify.com/album/4LOrSSPct7B6yCzW1IltRd) | 2:14 |
+| 61 | [Handlebars \- Just JENNIE](https://open.spotify.com/track/6d611NNmXpV1Upyja5RNOY) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby \(The Complete Collection\)](https://open.spotify.com/album/4LOrSSPct7B6yCzW1IltRd) | 2:14 |
+| 62 | [Black Coffee](https://open.spotify.com/track/6bACnnQ39JxdU7DmvlayZR) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Black Coffee](https://open.spotify.com/album/15KSMgDhmlgITLOdKEeK5q) | 2:46 |
 | 63 | [When I Close My Eyes](https://open.spotify.com/track/45mViXSHd3IqU41SbeLYv3) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [When I Close My Eyes](https://open.spotify.com/album/0NneZMurkPmr6ZwOTSgVf1) | 2:51 |
 | 64 | [Better Judgement](https://open.spotify.com/track/3UrHhQ4lxAwfhhG3IudMA0) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/5nn0a3x9rolzWFtiZLejzA) | 2:49 |
 | 65 | [Tell Me That Won’t Happen](https://open.spotify.com/track/7c5YVWsteCV11zlhLBPAFT) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [luck..\. or something](https://open.spotify.com/album/71t4M602DGtkhsy1RtNAME) | 3:36 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFENUZ3QCewVM.md) - [plain]
 | 128 | [Playing House](https://open.spotify.com/track/2dEF2tafxF1C2hiLhBO8mX) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [The Girl Has A Dream](https://open.spotify.com/album/7wOz5O7huWHRPtppW3pr77) | 2:35 |
 | 129 | [Bad Things](https://open.spotify.com/track/2vlcWSnTuFw57Kyc6D6LBi) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Crying Over Beauty](https://open.spotify.com/album/5ANiJMqoubeFNGVfyDqNbZ) | 3:10 |
 
-Snapshot ID: `AcYLlgAAAAAQA6JItZZOZ83n15YxlFBn`
+Snapshot ID: `AcYRQAAAAADbv9vcGdRgFrCCYHz0GDy6`

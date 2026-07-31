@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,955,407 likes - 317 songs - 14 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,955,694 likes - 317 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -326,4 +326,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 316 | [Slow Aurora](https://open.spotify.com/track/0GTzpZ9fzlIYIpd9p0iMUk) | [Evensia](https://open.spotify.com/artist/2Idc0PVXaZL5nPv8IjcJru) | [Slow Aurora](https://open.spotify.com/album/02skpzvRhbUGU20qbHM9u0) | 2:13 |
 | 317 | [Honeyed](https://open.spotify.com/track/2X0RQzNCFduEMtLjCpRp2h) | [Ambient X](https://open.spotify.com/artist/15NGcH8rjmaCOXThYAmKNX) | [Honeyed](https://open.spotify.com/album/4ep0KSgvAOtfU1xzzzGZ33) | 2:23 |
 
-Snapshot ID: `AAAAAObSAydlHeH+pO7yG+hAmByqmEHe`
+Snapshot ID: `AAAAAN1Eh3rvvgeAXvh0LINTEpwa6V7g`

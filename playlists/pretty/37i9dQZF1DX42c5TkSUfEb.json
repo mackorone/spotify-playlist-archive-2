@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 895667,
+  "num_followers": 895639,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMDCe0hvJGmXt4Rq++x6QLj2ZEKL",
+  "snapshot_id": "AAAAAIWRx3S+Bki+mccGzqdGsaCkJW7R",
   "tracks": [
     {
       "added_at": "2026-07-23 22:00:57",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
-      },
-      "artists": [
-        {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Ensemble",
-      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 204973,
       "name": "Road Trippin'",
       "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/6qXsItClo7MADiKsiMZIAx"
+      },
+      "artists": [
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Ensemble",
+      "url": "https://open.spotify.com/track/5L9lIPrWsnPDUQ7rot773c"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -659,6 +659,26 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
+        "name": "Made You Look",
+        "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 225628,
+      "name": "Math of Us",
+      "url": "https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
         "name": "Arm's Length",
         "url": "https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 231236,
       "name": "Take Care Of You",
       "url": "https://open.spotify.com/track/3D8lrJ07m1xymKXya8jI05"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
-        "name": "Made You Look",
-        "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        },
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 225628,
-      "name": "Math of Us",
-      "url": "https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Toujours des fleurs",
-        "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
-      },
-      "artists": [
-        {
-          "name": "Janie",
-          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
-        }
-      ],
-      "duration_ms": 281757,
-      "name": "Mon idole",
-      "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "The Art Of Pretending To Swim",
         "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 248253,
       "name": "A Trick of the Light",
       "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "Toujours des fleurs",
+        "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
+      },
+      "artists": [
+        {
+          "name": "Janie",
+          "url": "https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU"
+        }
+      ],
+      "duration_ms": 281757,
+      "name": "Mon idole",
+      "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -939,26 +939,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Gordon in the Willows",
-        "url": "https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 234454,
-      "name": "Gordon in the Willows",
-      "url": "https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 194280,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "Gordon in the Willows",
+        "url": "https://open.spotify.com/album/50pHYOEkvi3T8lUDdGXbHd"
+      },
+      "artists": [
+        {
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 234454,
+      "name": "Gordon in the Willows",
+      "url": "https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Singing",
-        "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 217264,
-      "name": "Moon Not Mine",
-      "url": "https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "paradox",
         "url": "https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 309637,
       "name": "paradox",
       "url": "https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "Singing",
+        "url": "https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 217264,
+      "name": "Moon Not Mine",
+      "url": "https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
+        "name": "Feel Myself / Wait For You",
+        "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "Feel Myself",
+      "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
         "name": "Paris-Madrid",
         "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
       },
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Feel Myself / Wait For You",
-        "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 164002,
-      "name": "Feel Myself",
-      "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "Brown Eyes",
         "url": "https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE"
       },
@@ -1395,26 +1395,6 @@
       "duration_ms": 197136,
       "name": "Brown Eyes",
       "url": "https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
-        "name": "My Name",
-        "url": "https://open.spotify.com/album/54vs8lh4CeYNFlU7pjdi7w"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9lanie Pain",
-          "url": "https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0"
-        },
-        {
-          "name": "Julien Dor\u00e9",
-          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
-        }
-      ],
-      "duration_ms": 307333,
-      "name": "Helsinki",
-      "url": "https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1435,6 +1415,26 @@
       "duration_ms": 167692,
       "name": "echo",
       "url": "https://open.spotify.com/track/79GcoDCWzmUB64NukpaMhh"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "My Name",
+        "url": "https://open.spotify.com/album/54vs8lh4CeYNFlU7pjdi7w"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lanie Pain",
+          "url": "https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0"
+        },
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "duration_ms": 307333,
+      "name": "Helsinki",
+      "url": "https://open.spotify.com/track/5uMCdjS49eW2pTiVL5HC78"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "Lua Ki Di Nos",
-        "url": "https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Carlos Schwarz & Le Cobiana Djazz",
-          "url": "https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO"
-        }
-      ],
-      "duration_ms": 271391,
-      "name": "Mindjeris De Panu Pretu",
-      "url": "https://open.spotify.com/track/3HNoSnEbANwYxnEJhLCjJC"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "Horizons Into Battlegrounds",
         "url": "https://open.spotify.com/album/72f1jbx4WSwyGxM9o5b28w"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 221826,
       "name": "Horizons Into Battlegrounds",
       "url": "https://open.spotify.com/track/1SSoLdnoptUGfs5kwgVQms"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "Lua Ki Di Nos",
+        "url": "https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Carlos Schwarz & Le Cobiana Djazz",
+          "url": "https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO"
+        }
+      ],
+      "duration_ms": 271391,
+      "name": "Mindjeris De Panu Pretu",
+      "url": "https://open.spotify.com/track/3HNoSnEbANwYxnEJhLCjJC"
     },
     {
       "added_at": "2026-07-23 22:00:57",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-07-23 22:00:57",
       "album": {
-        "name": "A Quiet Voice",
-        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 282812,
-      "name": "A Quiet Voice",
-      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
-    },
-    {
-      "added_at": "2026-07-23 22:00:57",
-      "album": {
         "name": "autumn",
         "url": "https://open.spotify.com/album/5UiNbnAfVXknFHgzaW3fTo"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 208735,
       "name": "autumn",
       "url": "https://open.spotify.com/track/5nQUv2ikT1ZomcjTOt4DzB"
+    },
+    {
+      "added_at": "2026-07-23 22:00:57",
+      "album": {
+        "name": "A Quiet Voice",
+        "url": "https://open.spotify.com/album/6HC0aY6PbUF2zSMMD31xSt"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 282812,
+      "name": "A Quiet Voice",
+      "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
     },
     {
       "added_at": "2026-07-23 22:00:57",

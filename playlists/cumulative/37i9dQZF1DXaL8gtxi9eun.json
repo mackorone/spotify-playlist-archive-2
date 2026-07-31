@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0625\u0644\u064a\u0633\u0627",
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641:\u0644\u0637\u064a\u0641\u0629",
   "name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -3142,6 +3142,28 @@
       "duration_ms": 274050,
       "name": "Kalam Faregh",
       "url": "https://open.spotify.com/track/3bkkYSKgGjsToIbAhl654c"
+    },
+    {
+      "album": {
+        "name": "Keda Keda",
+        "url": "https://open.spotify.com/album/7dJHHdpAT4X6XM40MgjklB"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        },
+        {
+          "name": "Judy Ahmed Saad",
+          "url": "https://open.spotify.com/artist/3h2b6sDomoUhwGjvhHROF0"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193149,
+      "name": "Keda Keda",
+      "url": "https://open.spotify.com/track/1svLqzWG6vKf00O8nbtRWO"
     },
     {
       "album": {
@@ -6846,7 +6868,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 168960,
       "name": "\u0628\u062a\u0648\u062d\u0634\u064a\u0646\u064a",
       "url": "https://open.spotify.com/track/0wOlCignkHTKvv8WgqMyva"
@@ -7572,6 +7594,24 @@
       "duration_ms": 236578,
       "name": "\u0633\u064a\u062f \u0627\u0644\u063a\u0631\u0627\u0645",
       "url": "https://open.spotify.com/track/2b8Pq6m3rGXd7muyBjTh1G"
+    },
+    {
+      "album": {
+        "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
+        "url": "https://open.spotify.com/album/6Q6ucbijAN1s3FPZ2Z3AN7"
+      },
+      "artists": [
+        {
+          "name": "Latifa",
+          "url": "https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217078,
+      "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
+      "url": "https://open.spotify.com/track/6cf3F66Q2Y5Sty4BVElQoc"
     },
     {
       "album": {

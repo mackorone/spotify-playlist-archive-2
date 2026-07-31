@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Ayo Maff",
+  "description": "From the trenches. Through the streets.\nCover: Seyi Vibez",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 150508,
       "name": "1942",
       "url": "https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 166153,
       "name": "AMIRI",
       "url": "https://open.spotify.com/track/0rr63wJFZJNILXcdpHTrD0"
@@ -4168,6 +4168,24 @@
       "duration_ms": 159131,
       "name": "Group Chat",
       "url": "https://open.spotify.com/track/4SdgMlhtSTiMnd8XuqCjn5"
+    },
+    {
+      "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155441,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
     },
     {
       "album": {
@@ -7692,7 +7710,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 176727,
       "name": "Pami",
       "url": "https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU"

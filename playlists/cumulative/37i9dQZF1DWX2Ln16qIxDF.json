@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Canciones que ten\u00e9s que escuchar  \ud83d\udcf8 Joaquin LevinD10S",
+  "description": "Canciones que ten\u00e9s que escuchar  \ud83d\udcf8 LIT killah",
   "name": "El Top 2026",
   "tracks": [
     {
@@ -3020,7 +3020,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 164624,
       "name": "Bendiciones",
       "url": "https://open.spotify.com/track/6PZetjmHVWDR2eMlJZd6fE"
@@ -3692,7 +3692,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
@@ -13875,6 +13875,24 @@
     },
     {
       "album": {
+        "name": "MATADORA",
+        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144650,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
+    },
+    {
+      "album": {
         "name": "Mates con Miel",
         "url": "https://open.spotify.com/album/19KTI599ScGGGk29iq4zgi"
       },
@@ -17328,7 +17346,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 109514,
       "name": "PANTALOM",
       "url": "https://open.spotify.com/track/67UNrrGXa3BNg0KQQo3UQV"
@@ -23582,6 +23600,32 @@
       "duration_ms": 175540,
       "name": "TIKTOK - Remix",
       "url": "https://open.spotify.com/track/6L8ifq5g2RDbjdSYiwOF2q"
+    },
+    {
+      "album": {
+        "name": "TIKTOK Rmx En Vivo - Estadio V\u00e9lez",
+        "url": "https://open.spotify.com/album/6sct34E4JxMgmDZwN9j7xU"
+      },
+      "artists": [
+        {
+          "name": "Ian Lucas",
+          "url": "https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik"
+        },
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "TIKTOK Rmx En Vivo - Estadio V\u00e9lez",
+      "url": "https://open.spotify.com/track/5VgfqtzjfLCjMXQ7mFrH3m"
     },
     {
       "album": {

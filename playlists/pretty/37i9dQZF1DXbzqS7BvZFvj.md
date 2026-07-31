@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: BabyDrill
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,973 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,978 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 35 | [swamp theme](https://open.spotify.com/track/3hZYOIzX6cijywwoEs4idP) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [in the bedroom, i confess](https://open.spotify.com/album/1wnbX6p6c5t9ntWL37yaEH) | 2:16 |
 | 36 | [Nobody Wants To Die](https://open.spotify.com/track/625QwvEZMdOjVEGJdkMqoo) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [The Mountain Will Fall \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/3WHCmtbWj4MaOFbzubAoq0) | 3:09 |
 | 37 | [Whisper My Name](https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:42 |
-| 38 | [Ikimasho](https://open.spotify.com/track/280bEa0f1QtZZl9UgFV9Pi) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Tu Musica](https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa) | [Ikimasho](https://open.spotify.com/album/6L94dnRripVBvZCX1e79BK) | 2:40 |
+| 38 | [Ikimasho](https://open.spotify.com/track/280bEa0f1QtZZl9UgFV9Pi) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [Alenoise](https://open.spotify.com/artist/0kHZjvPZT6dhjs0lDeZ9IE), [Ronaldinho Gaúcho](https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe), [Tu Musica](https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa) | [Ikimasho](https://open.spotify.com/album/6L94dnRripVBvZCX1e79BK) | 2:40 |
 | 39 | [INSECURE feat jid & ab\-soul](https://open.spotify.com/track/6wRBNi9WAXrGrzyDw7JFP8) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [INSECURE feat jid & ab\-soul](https://open.spotify.com/album/2YbwfP7vRvN67BsF1lQunG) | 4:16 |
 | 40 | [Bruce Wayne](https://open.spotify.com/track/0Sy9PzIKNGbnoY3WWPBZAR) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:56 |
 | 41 | [Too Much Hate](https://open.spotify.com/track/2m6slbCEp4sWomAvgNrWWO) | [Yatta Bandz](https://open.spotify.com/artist/3n8GvDXY1OgG57akv31SHK) | [One & The Same](https://open.spotify.com/album/1kOxOSjzSAWZujsHfiwNau) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 99 | [Everythang Pinka](https://open.spotify.com/track/7pbAF30G6MmDPjqV3mCoUX) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Everythang Pinka](https://open.spotify.com/album/3Jh6MpCzstaq4pO6INbIqo) | 2:48 |
 | 100 | [BAKA BAKA](https://open.spotify.com/track/7nQN2LeQwBWX9CaOcTPMzv) | [FUJINO](https://open.spotify.com/artist/2GS28rXfgsQidwGe4ktIhx), [AKTHESAVIOR](https://open.spotify.com/artist/1RlBttuJAY33jcaL1TOlUw), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N) | [BAKA BAKA](https://open.spotify.com/album/0ZoQyFhctmUakbVOaj4jxr) | 2:38 |
 
-Snapshot ID: `AAAAAA2z0LZ+LEwcrIMVy+s7BZCiOWx+`
+Snapshot ID: `AAAAALwEMuoomBk5HXqgYtJ59HZKfX29`

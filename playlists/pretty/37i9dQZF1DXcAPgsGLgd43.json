@@ -1,12 +1,12 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 120089,
+  "num_followers": 120125,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPVxdvVdKIWm2mvlWnh8zxmhoV63",
+  "snapshot_id": "AAAAAIsgg0VVRwD91rFfPB+wCgjJX0nu",
   "tracks": [
     {
       "added_at": "2026-07-24 04:01:35",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-07-24 04:01:35",
       "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
+    },
+    {
+      "added_at": "2026-07-24 04:01:35",
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
       },
@@ -1671,42 +1687,6 @@
       "duration_ms": 152903,
       "name": "Vida",
       "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"
-    },
-    {
-      "added_at": "2026-07-24 04:01:35",
-      "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
-    },
-    {
-      "added_at": "2026-07-24 04:01:35",
-      "album": {
-        "name": "Lo Que Soy",
-        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        }
-      ],
-      "duration_ms": 170953,
-      "name": "Lo Que Soy",
-      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
     },
     {
       "added_at": "2026-07-24 04:01:35",
@@ -1747,6 +1727,26 @@
     {
       "added_at": "2026-07-24 04:01:35",
       "album": {
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "duration_ms": 170953,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "added_at": "2026-07-24 04:01:35",
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
       },
@@ -1767,26 +1767,6 @@
       "duration_ms": 178816,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
-    },
-    {
-      "added_at": "2026-07-24 04:01:35",
-      "album": {
-        "name": "Dame Fuego",
-        "url": "https://open.spotify.com/album/06Se6RnOeXlndE7O0oRnZZ"
-      },
-      "artists": [
-        {
-          "name": "Les Castizos",
-          "url": "https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M"
-        },
-        {
-          "name": "MVRIN",
-          "url": "https://open.spotify.com/artist/6Wue4fFXUszJFB4lpFv5fo"
-        }
-      ],
-      "duration_ms": 228292,
-      "name": "Dame Fuego",
-      "url": "https://open.spotify.com/track/2P66ewO09MUgyWUJbHbrRZ"
     },
     {
       "added_at": "2026-07-24 04:01:35",
@@ -1823,6 +1803,26 @@
       "duration_ms": 180000,
       "name": "Matadora - Radio Edit",
       "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+    },
+    {
+      "added_at": "2026-07-24 04:01:35",
+      "album": {
+        "name": "Dame Fuego",
+        "url": "https://open.spotify.com/album/06Se6RnOeXlndE7O0oRnZZ"
+      },
+      "artists": [
+        {
+          "name": "Les Castizos",
+          "url": "https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M"
+        },
+        {
+          "name": "MVRIN",
+          "url": "https://open.spotify.com/artist/6Wue4fFXUszJFB4lpFv5fo"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "Dame Fuego",
+      "url": "https://open.spotify.com/track/2P66ewO09MUgyWUJbHbrRZ"
     },
     {
       "added_at": "2026-07-24 04:01:35",
@@ -1871,30 +1871,6 @@
     {
       "added_at": "2026-07-24 04:01:35",
       "album": {
-        "name": "Batonga",
-        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Al\u00e9 Kum\u00e1",
-          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Batonga",
-      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
-    },
-    {
-      "added_at": "2026-07-24 04:01:35",
-      "album": {
         "name": "Mi Gentee EP",
         "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
       },
@@ -1927,6 +1903,30 @@
       "duration_ms": 196750,
       "name": "Se Va (feat. Cumbiafrica)",
       "url": "https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK"
+    },
+    {
+      "added_at": "2026-07-24 04:01:35",
+      "album": {
+        "name": "Batonga",
+        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Batonga",
+      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
     },
     {
       "added_at": "2026-07-24 04:01:35",
@@ -1983,18 +1983,30 @@
     {
       "added_at": "2026-07-24 04:01:35",
       "album": {
-        "name": "Road To Miami EP",
-        "url": "https://open.spotify.com/album/2r01SIHbvXUHQkKAAw4PWQ"
+        "name": "La Buena Vida (feat. Tayson Kryss)",
+        "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
       },
       "artists": [
         {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
         }
       ],
-      "duration_ms": 178604,
-      "name": "Poco Poco",
-      "url": "https://open.spotify.com/track/04N9V07H365hcJSytxYstU"
+      "duration_ms": 137963,
+      "name": "La Buena Vida (feat. Tayson Kryss)",
+      "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
     }
   ],
   "unique_name": "Latin House",

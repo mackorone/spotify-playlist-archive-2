@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: Original Broadway Cast of The Lost Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,817 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,828 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 49 | [Man Of The House](https://open.spotify.com/track/3aIvJqEB3SN3aNvOfOo3CS) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [Man Of The House](https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu) | 2:53 |
 | 50 | [I Do](https://open.spotify.com/track/4hkPIQY5aulr2uH19cyVJl) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Jeevan Braich](https://open.spotify.com/artist/6LopWizUGU7UICdQ7MEkGr), [Kayna Montecillo](https://open.spotify.com/artist/2IHsK4JgDj7rDVHQkLQ4Kx) | [Starlight Express](https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9) | 4:17 |
 
-Snapshot ID: `AAAAAG4gdba2aTIe7vezAQ/xvxGgiHys`
+Snapshot ID: `AAAAAGjg+zYn2mSFYwBmRLoYz9v36ca1`

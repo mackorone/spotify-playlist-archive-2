@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Charli xcx, Morgan Wallen, Lizzy McAlpine, Victoria Monét  and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,610,205 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,610,016 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [CANDYNECKLACE](https://open.spotify.com/track/0OCNB7aZHcl4FmBjfvR844) | [Babe America](https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z) | [ANGELFOODCAKE](https://open.spotify.com/album/2X1juJXzvB8YVuioMOH848) | 3:33 |
 | 100 | [TAPDAT](https://open.spotify.com/track/0pQ9gtLMkVhioRBVl5yCHs) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [TAPDAT](https://open.spotify.com/album/5Px1m7A7KMovRNG2JGAGV6) | 4:06 |
 
-Snapshot ID: `AAAAAMmpoFW6AUjCshs0Y12nXlLiX3CB`
+Snapshot ID: `AAAAAFLjkN6dMbyGJavoqoP1RI0fiP4b`

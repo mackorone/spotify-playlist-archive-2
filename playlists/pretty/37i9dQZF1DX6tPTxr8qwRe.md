@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- Emi Grace on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,980 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,956 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [First Generation Degenerate](https://open.spotify.com/track/0T1QNfwEZ8mQs8rfUHbwog) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [First Generation Degenerate](https://open.spotify.com/album/3vTqeVbpPjm0ZvCa1Fbue2) | 3:36 |
 | 50 | [Cupid Must've Been High](https://open.spotify.com/track/3hcdiLMlKuJPqcVNOp90Mi) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Cupid Must've Been High](https://open.spotify.com/album/72Diyo40WtMIgw7im5ZpqY) | 2:42 |
 
-Snapshot ID: `AAAAACitCo/Uw+5isRqekuIoIb8TG2d/`
+Snapshot ID: `AAAAAJ4JOEp3fmBEZnSXwqDRh5N9aKUF`

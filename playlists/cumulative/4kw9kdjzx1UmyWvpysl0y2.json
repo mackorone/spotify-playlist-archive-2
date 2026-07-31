@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 151267,
       "name": "1234",
       "url": "https://open.spotify.com/track/3Q4c260OtcneST0kSXoLnE"
@@ -5014,7 +5014,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 191586,
       "name": "CRUEL!",
       "url": "https://open.spotify.com/track/5S8CRlSJxNhu9Auji1u3ZI"
@@ -6288,7 +6288,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 183157,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P"
@@ -9324,7 +9324,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 166285,
       "name": "Get Slippy",
       "url": "https://open.spotify.com/track/194ZRoXmA3C8RqnZCUvirF"
@@ -14072,7 +14072,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 144000,
       "name": "Make You Move",
       "url": "https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ"
@@ -20452,7 +20452,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 142235,
       "name": "Should've Known Better",
       "url": "https://open.spotify.com/track/6xC8SOWsbewQ7c7NRMsrje"
@@ -26556,6 +26556,24 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
+    },
+    {
+      "album": {
+        "name": "You Get Me All The Time",
+        "url": "https://open.spotify.com/album/52YXdSqCycLJcg1VCVsNrG"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "You Get Me All The Time",
+      "url": "https://open.spotify.com/track/5qtyuUjIcY5nLjaU5cgFgu"
     },
     {
       "album": {

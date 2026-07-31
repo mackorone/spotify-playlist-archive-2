@@ -5593,6 +5593,24 @@
     },
     {
       "album": {
+        "name": "Ponte Vedra Sunrise",
+        "url": "https://open.spotify.com/album/2lCIMUfeeATX3JkUW20mDN"
+      },
+      "artists": [
+        {
+          "name": "Madison Hughes",
+          "url": "https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Ponte Vedra Sunrise",
+      "url": "https://open.spotify.com/track/7gkUReys335e5KA5ljkpmp"
+    },
+    {
+      "album": {
         "name": "Pontiac",
         "url": "https://open.spotify.com/album/57h6E4g2dPKQVVyTk8MJIP"
       },
@@ -6120,7 +6138,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 189375,
       "name": "Settling - Acoustic",
       "url": "https://open.spotify.com/track/2BIH9SAyVhw8iXTIDqhPrF"

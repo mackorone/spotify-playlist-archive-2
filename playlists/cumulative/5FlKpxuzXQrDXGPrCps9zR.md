@@ -4,7 +4,7 @@
 
 > 
 
-187 songs - 9 hr 52 min
+188 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Change of Heart](https://open.spotify.com/track/037wvykTRvc8meNo5IAxkz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:55 | 2026-02-21 | 2026-04-14 |
 | [Chef's Kiss](https://open.spotify.com/track/6OZDJeUvDbI2R9NK0LVS2w) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:30 | 2026-04-25 | 2026-05-24 |
 | [Convincing](https://open.spotify.com/track/2gR4GB0rVFtzbjTZr88FQS) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:57 | 2026-02-21 | 2026-05-04 |
+| [CRANK](https://open.spotify.com/track/6eqQLOOiqBnrwKQEzXoHll) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 2:55 | 2026-07-30 |  |
 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 | 2025-07-13 | 2025-11-13 |
 | [Crush](https://open.spotify.com/track/5qE28swK9ufll68IzqG1aY) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 2:57 | 2026-02-09 | 2026-03-03 |
 | [Crush \- Girls Trip](https://open.spotify.com/track/3s0VYrnOnSNURobwyQvVw3) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Crush \(Girls Trip\)](https://open.spotify.com/album/4SFv3EvdXLT9lurh4tupyJ) | 3:21 | 2026-05-06 |  |

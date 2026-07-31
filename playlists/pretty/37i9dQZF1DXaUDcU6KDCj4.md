@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,515 likes - 149 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,601 likes - 149 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 148 | [Never Gonna Die](https://open.spotify.com/track/6978Sdhiq3l0VrHy4V9D8O) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Never Gonna Die](https://open.spotify.com/album/70zapZKxf5icAenwRvAzBm) | 3:28 |
 | 149 | [the way you do](https://open.spotify.com/track/2Sgz95fxgQYxDAS2yKJLGL) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [valley of my prime](https://open.spotify.com/album/1UnbjUKJUVDSnRkaf2rnnc) | 3:27 |
 
-Snapshot ID: `AAAAADEzy8i6LXKwP38ZtpmGA02MIAdR`
+Snapshot ID: `AAAAAGnB+XL7M3UIJ2v9o872yp9BJOmR`

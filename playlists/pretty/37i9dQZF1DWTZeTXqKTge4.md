@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: SeinsSucrer
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,064 likes - 80 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,063 likes - 80 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 79 | [LA RICHESSE](https://open.spotify.com/track/70Uu1Q3RZHo0gzC21yX0Fh) | [FRE5H](https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe) | [LA RICHESSE](https://open.spotify.com/album/79LXOB73F6p2kmdbJj9VST) | 2:20 |
 | 80 | [Flash](https://open.spotify.com/track/3uARaNkhIsF8o85fRU9fHP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Flash](https://open.spotify.com/album/3o54ejNNHmO9PpsduX1QdW) | 3:47 |
 
-Snapshot ID: `AAAAAHQB4YSMdlTOT9qxc8tbhAzQVjgP`
+Snapshot ID: `AAAAAP+dS6EJNtkXDh2lvCIGw48JEh4q`

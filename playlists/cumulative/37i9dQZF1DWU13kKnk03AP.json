@@ -6598,7 +6598,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 152508,
       "name": "Hate Myself",
       "url": "https://open.spotify.com/track/7DmTGp8xqD7TeuFKU7230f"
@@ -14246,6 +14246,28 @@
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"
+    },
+    {
+      "album": {
+        "name": "Show Starts Now",
+        "url": "https://open.spotify.com/album/47mip4CjJFoZtNlevbkEWR"
+      },
+      "artists": [
+        {
+          "name": "Savannah Bananas",
+          "url": "https://open.spotify.com/artist/00ynWX32K6wbeuljTQI2FW"
+        },
+        {
+          "name": "Derek Klena",
+          "url": "https://open.spotify.com/artist/60AQf9DIGAbGpewI33bayw"
+        }
+      ],
+      "date_added": "2026-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186086,
+      "name": "Show Starts Now",
+      "url": "https://open.spotify.com/track/38wC3l1TdRF8ApuItxTnQ3"
     },
     {
       "album": {

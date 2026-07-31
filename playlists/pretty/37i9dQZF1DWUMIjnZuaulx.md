@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Jekayln Carr
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,695 likes - 80 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,846 likes - 80 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 79 | [It's Gonna Happen](https://open.spotify.com/track/2MXZ46dCwvEkjuZIdnsf77) | [Charles Weems](https://open.spotify.com/artist/4b55lXHPorwxp0HHq0W6ab), [Janelle Balasquide](https://open.spotify.com/artist/6Ajv6pzvHsGFCDuHWvAb2k) | [It's Gonna Happen](https://open.spotify.com/album/2GBUzDVZLIpY1MqzTmpz45) | 5:20 |
 | 80 | [Rome](https://open.spotify.com/track/1FJnHjvl8AOZyHpXWzMCfA) | [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn) | [Rome](https://open.spotify.com/album/290mHkt1I4zqbxwheKMIxA) | 3:09 |
 
-Snapshot ID: `AAAAAD9Hq3QgmyzfYkWNEq/9DcYVcXM5`
+Snapshot ID: `AAAAAJoxuoFLpRtO4DWjSknrRzbUYrjA`

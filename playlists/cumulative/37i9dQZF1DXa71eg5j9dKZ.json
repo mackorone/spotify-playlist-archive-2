@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Ahadadream\n",
+  "description": "The home for alternative electronic music. Cover: Laurence Guy\n",
   "name": "Altar",
   "tracks": [
     {
@@ -936,7 +936,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 137682,
       "name": "All Day",
       "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 230465,
       "name": "Better",
       "url": "https://open.spotify.com/track/28Fhf4E24Y4iZqQ09nOUJx"
@@ -4204,7 +4204,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 263941,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/54WHA1qaKJrNRGrhbOveKB"
@@ -4912,6 +4912,28 @@
       "duration_ms": 390857,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/1JkiUUejePFuSJkbCxiOta"
+    },
+    {
+      "album": {
+        "name": "Closer (Edit)",
+        "url": "https://open.spotify.com/album/1sNPmXsSDjuvgJgPPFi9iE"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "ADMNTi",
+          "url": "https://open.spotify.com/artist/6OwHQoalPXIQtpqjzG4IgY"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227827,
+      "name": "Closer - Edit",
+      "url": "https://open.spotify.com/track/6VtwaoZE98xcL80dSCKnLF"
     },
     {
       "album": {
@@ -9107,6 +9129,32 @@
     },
     {
       "album": {
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/35OcpT9AjynFlURa6yS2VU"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        },
+        {
+          "name": "KETTAMA",
+          "url": "https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/0UupmTsDkL9cdm8GGLzvYq"
+    },
+    {
+      "album": {
         "name": "Shield",
         "url": "https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr"
       },
@@ -11716,7 +11764,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 248459,
       "name": "hellooooo????",
       "url": "https://open.spotify.com/track/2WZLYyOKdZnhQFbVQ3BafF"
@@ -12303,6 +12351,28 @@
     },
     {
       "album": {
+        "name": "Hot Girls (feat. Che Mario)",
+        "url": "https://open.spotify.com/album/7gHIvJDuh7WmccvAMPErj2"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Che Mario",
+          "url": "https://open.spotify.com/artist/1ivNd0gXUD4YnY1HLm6akh"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Hot Girls (feat. Che Mario)",
+      "url": "https://open.spotify.com/track/41aCrGrO3cIbrqNpuJPLTC"
+    },
+    {
+      "album": {
         "name": "How I Feel",
         "url": "https://open.spotify.com/album/42f5IWubZit8UWi9dMUA9H"
       },
@@ -12476,6 +12546,24 @@
       "duration_ms": 326146,
       "name": "Human Sound",
       "url": "https://open.spotify.com/track/7INfFJ0S1a6ZnIxtxDJlwq"
+    },
+    {
+      "album": {
+        "name": "Human Voice",
+        "url": "https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396363,
+      "name": "Human Voice",
+      "url": "https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9"
     },
     {
       "album": {
@@ -13329,6 +13417,54 @@
     },
     {
       "album": {
+        "name": "Ignition",
+        "url": "https://open.spotify.com/album/6ho2DcV0aLaAg5CNMJxTsF"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        },
+        {
+          "name": "Echonomist",
+          "url": "https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319398,
+      "name": "Ignition",
+      "url": "https://open.spotify.com/track/7zdkHd3pJ1Fo7N3FSiF0gN"
+    },
+    {
+      "album": {
+        "name": "Ijoya",
+        "url": "https://open.spotify.com/album/29khdSaqDrbAQIslKf2yyZ"
+      },
+      "artists": [
+        {
+          "name": "Arthi",
+          "url": "https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4"
+        },
+        {
+          "name": "Dismantle",
+          "url": "https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp"
+        },
+        {
+          "name": "\u00a3MONZO",
+          "url": "https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236079,
+      "name": "Ijoya",
+      "url": "https://open.spotify.com/track/0H4vIiZP7hr4SneIFVJTNc"
+    },
+    {
+      "album": {
         "name": "ILIKEU",
         "url": "https://open.spotify.com/album/3Cm2wePohVXeqf3OLEZULA"
       },
@@ -13578,7 +13714,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 201469,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/6ahOTBFb6Oe1XESV2fLu53"
@@ -14248,6 +14384,24 @@
       "duration_ms": 381753,
       "name": "Jobi",
       "url": "https://open.spotify.com/track/0meByrGhwxMB1fLV9EhCF1"
+    },
+    {
+      "album": {
+        "name": "Jomox",
+        "url": "https://open.spotify.com/album/0AiFx5KOe51ZbpG05xNk82"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "Jomox",
+      "url": "https://open.spotify.com/track/6Iwafu6i0DMmlozUQ8Sh5v"
     },
     {
       "album": {
@@ -15364,6 +15518,36 @@
       "duration_ms": 297585,
       "name": "Leave Here",
       "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
+    },
+    {
+      "album": {
+        "name": "Leave Right Now",
+        "url": "https://open.spotify.com/album/6A9MGL9FVOo0c8T9OsgkXk"
+      },
+      "artists": [
+        {
+          "name": "Surya Sen",
+          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
+        },
+        {
+          "name": "Daniel Bedingfield",
+          "url": "https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX"
+        },
+        {
+          "name": "niceboy",
+          "url": "https://open.spotify.com/artist/4tREJFA4PibtXSyFi17Tqg"
+        },
+        {
+          "name": "Ofra Haza",
+          "url": "https://open.spotify.com/artist/6tOL5L1TlmBLdFMeEoXgae"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182791,
+      "name": "Leave Right Now",
+      "url": "https://open.spotify.com/track/3xA724VgSVn5wMJFoyxfeS"
     },
     {
       "album": {
@@ -18436,7 +18620,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 190588,
       "name": "Nice + Slow",
       "url": "https://open.spotify.com/track/3LmJbf5DILmqAF7F7syDys"
@@ -19108,7 +19292,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 344470,
       "name": "NUG46",
       "url": "https://open.spotify.com/track/0ipdaEBRDxWIigU5PfSUlU"
@@ -19898,7 +20082,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 181333,
       "name": "Over",
       "url": "https://open.spotify.com/track/2LE78eBACgoZ7sPDiI5Baa"
@@ -20092,7 +20276,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 266086,
       "name": "Paris, Forever",
       "url": "https://open.spotify.com/track/0eAOmCWGWC7ag09EYi9lBN"
@@ -23217,6 +23401,24 @@
     },
     {
       "album": {
+        "name": "Scottish Midgey",
+        "url": "https://open.spotify.com/album/5xl0SEbCwPmtLGGOFFwCmr"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442500,
+      "name": "Scottish Midgey",
+      "url": "https://open.spotify.com/track/4KWxInaWDqKgsn6sK02XUT"
+    },
+    {
+      "album": {
         "name": "Eat Your Own Ears Recordings EP 1",
         "url": "https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx"
       },
@@ -24690,6 +24892,28 @@
       "duration_ms": 354000,
       "name": "Soulo",
       "url": "https://open.spotify.com/track/27glZwjryJw1w2Zh2RlfnU"
+    },
+    {
+      "album": {
+        "name": "soulreply",
+        "url": "https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179311,
+      "name": "soulreply",
+      "url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8"
     },
     {
       "album": {
@@ -28452,7 +28676,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 266827,
       "name": "Uncanny Valley",
       "url": "https://open.spotify.com/track/2f0tSLId7ddnYbMzBWKeIt"

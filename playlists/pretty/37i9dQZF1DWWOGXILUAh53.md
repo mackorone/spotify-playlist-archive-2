@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Martin Garrix & U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,049 likes - 99 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,415 likes - 99 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 40 | [FATE](https://open.spotify.com/track/3kUVRvpDGq2PhKHGZBa7iE) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [FATE](https://open.spotify.com/album/5uDffHt21NhV6YavkmAp9p) | 3:08 |
 | 41 | [Shine](https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:27 |
 | 42 | [Devour](https://open.spotify.com/track/3hScgyOQVhK2Ibi9FpTQnq) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Devour](https://open.spotify.com/album/2X8HaYgiIcd3FMuT2TEWxn) | 2:37 |
-| 43 | [I Know Who I Be](https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [I Know Who I Be](https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g) | 3:53 |
+| 43 | [I Know Who I Be \(with JAZZWRLD & GL\_Ceejay\)](https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [GL\_Ceejay](https://open.spotify.com/artist/3KC80ll13daYYiCUGEoXSh) | [I Know Who I Be \(with JAZZWRLD & GL\_Ceejay\)](https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g) | 3:53 |
 | 44 | [Silver Lining](https://open.spotify.com/track/31vz1nctl9PIZ2F0ylvL5O) | [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Silver Lining](https://open.spotify.com/album/2cyru7gYoeAqCx6z3aHLfP) | 3:05 |
 | 45 | [PLZ HOLD \(feat\. Tkay Maidza\)](https://open.spotify.com/track/1vKQshIjVUhyg99UbCyeMp) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [PLZ HOLD \(feat\. Tkay Maidza\)](https://open.spotify.com/album/1R2M8bDvkMwoJ7hazDb8tD) | 2:25 |
 | 46 | [Chemical](https://open.spotify.com/track/3ohkFaUJ0osgRmg49KjXZm) | [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Chemical](https://open.spotify.com/album/7jV99diE0VB9OI5yA1caGu) | 2:49 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 98 | [terms and conditions](https://open.spotify.com/track/1NPfiTCBjiYUya7npwzbAY) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [terms and conditions](https://open.spotify.com/album/6i1OPAnr4QVZGwOI7jYGj8) | 2:31 |
 | 99 | [Beautiful \(with Joji\)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Beautiful \(with Joji\)](https://open.spotify.com/album/2CpahiICjXexEynp7scGe4) | 3:35 |
 
-Snapshot ID: `AAAAANSF9WVk3c9bm962v4a4Oxy//JPP`
+Snapshot ID: `AAAAADQrmJJdRyovRlxbwPvmuSZ6YPjT`

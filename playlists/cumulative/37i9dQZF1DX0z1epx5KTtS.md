@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Team Paiya
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Roseline Layo
 
-308 songs - 16 hr 38 min
+309 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Avant de partir](https://open.spotify.com/track/5G9eZDVh8yomG2iUfu2Qxn) | [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt), [El Jay](https://open.spotify.com/artist/7LRIRop14jp1Z5jtwNManQ) | [Avant de partir](https://open.spotify.com/album/56WIVaUQZ2XwAbQI47DFcz) | 2:36 | 2024-04-18 | 2024-05-17 |
 | [Avec le cœur](https://open.spotify.com/track/3sjfComvig5HKUYTd82nf8) | [Sarah Liz](https://open.spotify.com/artist/3mGnigZzxWaPaaBucXbdtT) | [Avec le cœur](https://open.spotify.com/album/5NH1NFBjHk0X9ldAZDHVVi) | 3:44 | 2023-11-23 | 2023-12-01 |
 | [Aïcha trembleeer](https://open.spotify.com/track/5CZGF2LbWH05WwBR6pBz5B) | [Dj Domi](https://open.spotify.com/artist/7aCX1VkFmFdazTE4daQI2b) | [Aïcha trembleeer](https://open.spotify.com/album/0itQXaAig0OLVsgkaClF2m) | 2:57 | 2023-10-26 | 2024-04-19 |
+| [Bara](https://open.spotify.com/track/28vRp2iPn3wtFtoHt4XgJu) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Bara](https://open.spotify.com/album/73HtPwWeCd4oOsFksDrvHZ) | 2:26 | 2026-07-30 |  |
 | [BBL](https://open.spotify.com/track/1OuPjyDcQxYJTJkLnsvbsX) | [ESMEY](https://open.spotify.com/artist/78K6aNk5RZ3DWfNqMqSIgu), [Mr Behi](https://open.spotify.com/artist/74aXWkfWy1V2b5BGiyH9ZF) | [BBL](https://open.spotify.com/album/29roxzFxZIiIxSDVkdgRuV) | 2:30 | 2024-11-28 | 2025-01-17 |
 | [Biakamou](https://open.spotify.com/track/0V5kD6sff0KeCYM2MT6VKH) | [Ayanne](https://open.spotify.com/artist/5DiDoYDR8dAkEhrj9do8Bl) | [Biakamou](https://open.spotify.com/album/14eGVG0vLwCoK0lVdzGuw7) | 2:59 | 2024-09-19 | 2025-11-28 |
 | [BIAMA 2 BLACK K](https://open.spotify.com/track/7K65fwVYwjWHvyxwc8vvUi) | [Black K](https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq) | [REMINISCENCE](https://open.spotify.com/album/1vxkcusCDeE3AXMVo4nAgV) | 2:22 | 2024-09-26 | 2024-10-04 |
@@ -169,7 +170,7 @@
 | [Ketebo](https://open.spotify.com/track/2jQsq7YctsPXWrEqdBgLbU) | [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU) | [Ketebo](https://open.spotify.com/album/7qfS1oh8pMTb5mBwKbFA7A) | 2:54 | 2023-03-23 | 2023-09-15 |
 | [Kindotila \- Remix](https://open.spotify.com/track/0ZxIKjaUl31uLgla5QJILZ) | [Yvane Kouame](https://open.spotify.com/artist/3C5aa2x3FFL4JdVjXKJYwP), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kindotila \(Remix\)](https://open.spotify.com/album/1TMpL7PorVe5YKhc2zlf3L) | 2:41 | 2023-01-05 | 2023-05-19 |
 | [Kiniwara](https://open.spotify.com/track/0G6pdgRWKkgcTudR5gYqmv) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kiniwara](https://open.spotify.com/album/5xhHfQT7gG3l5Y8VD0ufv1) | 2:51 | 2023-06-29 | 2023-11-10 |
-| [Kolo Kolo](https://open.spotify.com/track/7AfXxreayzJaxxXAADKZkW) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [Kolo Kolo](https://open.spotify.com/album/1aakaROZQUBca5tPJUAyXl) | 2:18 | 2026-04-09 |  |
+| [Kolo Kolo](https://open.spotify.com/track/7AfXxreayzJaxxXAADKZkW) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [Kolo Kolo](https://open.spotify.com/album/1aakaROZQUBca5tPJUAyXl) | 2:18 | 2026-04-09 | 2026-07-31 |
 | [Kong](https://open.spotify.com/track/0A78qRonJ1G8Q4oMiBWUpp) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8) | [Kong](https://open.spotify.com/album/3FFkQQq82KOLuhUidVaJv6) | 3:08 | 2021-12-20 | 2022-08-12 |
 | [Korotoumou](https://open.spotify.com/track/6P5FxeaDrBJUC0cVFWyjgd) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [Korotoumou](https://open.spotify.com/album/0UdRLJ4ow70maxJ1LutisP) | 2:36 | 2025-04-24 | 2025-09-05 |
 | [Kpokpokpouho Soualélé](https://open.spotify.com/track/0rn8Umfi4msYkNOEApR8im) | [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Kpokpokpouho Soualélé](https://open.spotify.com/album/2Z8wMFlRBNREO4swQV3w0p) | 3:00 | 2021-12-20 | 2022-03-23 |

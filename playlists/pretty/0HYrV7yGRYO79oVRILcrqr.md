@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,881 likes - 94 songs - 6 hr 4 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,885 likes - 99 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 92 | [Funkin Blues](https://open.spotify.com/track/6wqlg869am54Wqbct45PYF) | [The Cadillac Cats](https://open.spotify.com/artist/2WctWN3DeyAvtYI1sKvvJi) | [Funkin Blues](https://open.spotify.com/album/25QR5rLpR6jg4wYH9LSdeh) | 3:23 |
 | 93 | [Only words](https://open.spotify.com/track/0WyuNAuLJgYadDsq1TSHpD) | [Black Hound](https://open.spotify.com/artist/3snFZIyWovDIXyPo2K83qV) | [Takin it all](https://open.spotify.com/album/3C1OezOI61eFvLXipftoWZ) | 4:31 |
 | 94 | [Life \(You Saved Me\)](https://open.spotify.com/track/1lZ1Sh1rz8b0lscfMkPEVD) | [The K.I.J Experience](https://open.spotify.com/artist/67HdfJ5atBe2crSt6ohfWB) | [Life \(You Saved Me\)](https://open.spotify.com/album/4FRCPWM4JildwwplokEkh8) | 3:01 |
+| 95 | [MUJER ESPAÑOLA](https://open.spotify.com/track/72T2vuQ6yNiJo0eajDRje3) | [Vástago](https://open.spotify.com/artist/6G3hE13qUdyo5k3xHBktOV) | [MUJER ESPAÑOLA](https://open.spotify.com/album/644Cr2kvQskcuzHe9ySrm4) | 3:46 |
+| 96 | [Et tu retiens](https://open.spotify.com/track/2zRJj0YSRWzjoAYc102oFX) | [Jimmy Blo](https://open.spotify.com/artist/6ABf9lpBnhcd4krOQOq8Qh) | [Et tu retiens](https://open.spotify.com/album/00UTUJdi8ziTCEMTu4iQAF) | 3:22 |
+| 97 | [City Life](https://open.spotify.com/track/0Drc5FqVoJKozyyzzRsujs) | [MOKAs](https://open.spotify.com/artist/1IczCTas4lUyZa8wQRst9C) | [City Life](https://open.spotify.com/album/5gSYQTFL50MJ4ThTzYmJgg) | 3:33 |
+| 98 | [Amandote Amandonos](https://open.spotify.com/track/6sEdBo2YhjUkQp8unWRp23) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Amandote Amandonos](https://open.spotify.com/album/2fOSgaYOPP6p9VZwbuyNkF) | 4:30 |
+| 99 | [It Hurt so Bad](https://open.spotify.com/track/2qsT8O0iWzxEDvZ1Cmoikh) | [The Lone Pine Revival](https://open.spotify.com/artist/0K2T1uTgbW7ZVEoWr99Qhh) | [It Hurt so Bad](https://open.spotify.com/album/6NixljQ0E8wrQOrPXKsS9U) | 4:11 |
 
-Snapshot ID: `AAAMIbzmham6mNPj+HOTO4L1up4ZikGa`
+Snapshot ID: `AAAMJrTh2Faeo3EVILxCuox1ywnYpqY7`

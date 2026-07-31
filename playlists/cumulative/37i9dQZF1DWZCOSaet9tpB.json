@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Nigeria's hottest tracks.  Cover: Victony",
+  "description": "Nigeria's hottest tracks.  Cover: BNXN & Asake",
   "name": "Hot Hits Naija ",
   "tracks": [
     {
@@ -3843,6 +3843,28 @@
     },
     {
       "album": {
+        "name": "Eja Meja",
+        "url": "https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158108,
+      "name": "Eja Meja",
+      "url": "https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791"
+    },
+    {
+      "album": {
         "name": "catharsis",
         "url": "https://open.spotify.com/album/6gTLViwiDv6NKtTAG0nm7S"
       },
@@ -5062,7 +5084,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 243755,
-      "name": "Gimme Dat Ting",
+      "name": "Gimme Dat Ting (with NO11)",
       "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
@@ -5396,6 +5418,24 @@
       "duration_ms": 166579,
       "name": "GROOVING (feat. Davido and Seun Kuti)",
       "url": "https://open.spotify.com/track/73rLXBXwSfBqGmWw2x8i8t"
+    },
+    {
+      "album": {
+        "name": "GTA",
+        "url": "https://open.spotify.com/album/5U7HlyYuQLT3gE5RNVQTzN"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155441,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/0xirG2M5QtFIzgkJCgpOnc"
     },
     {
       "album": {
@@ -5957,7 +5997,7 @@
     },
     {
       "album": {
-        "name": "I Know Who I Be",
+        "name": "I Know Who I Be (with JAZZWRLD & GL_Ceejay)",
         "url": "https://open.spotify.com/album/7dR22XlVbfSAhTSltPiU7g"
       },
       "artists": [
@@ -5978,7 +6018,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 233976,
-      "name": "I Know Who I Be",
+      "name": "I Know Who I Be (with JAZZWRLD & GL_Ceejay)",
       "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
     },
     {
@@ -8622,7 +8662,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 333451,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/6hq5k40Xy1HtlVh3rxubL4"
@@ -12596,7 +12636,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 165625,
       "name": "WAIST",
       "url": "https://open.spotify.com/track/0nwzZML3L2XD5aL8TsiFXN"

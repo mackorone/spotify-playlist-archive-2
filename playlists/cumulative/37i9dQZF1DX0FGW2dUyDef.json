@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: Hadise",
+  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: manifest, Motive, Pango",
   "name": "Hot Hits T\u00fcrkiye",
   "tracks": [
     {
@@ -784,6 +784,24 @@
       "duration_ms": 191275,
       "name": "BAYBAY",
       "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
+    },
+    {
+      "album": {
+        "name": "Ba\u015fa Bela",
+        "url": "https://open.spotify.com/album/2c8n5PoruLqgaGQYmACWe8"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154081,
+      "name": "Ba\u015fa Bela",
+      "url": "https://open.spotify.com/track/0onzYPfM09MY31tUkb0xgj"
     },
     {
       "album": {
@@ -2805,6 +2823,24 @@
     },
     {
       "album": {
+        "name": "Hay",
+        "url": "https://open.spotify.com/album/7q8qUC3Yib6NMqofsaBG80"
+      },
+      "artists": [
+        {
+          "name": "Murat Dalk\u0131l\u0131\u00e7",
+          "url": "https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183645,
+      "name": "Hay",
+      "url": "https://open.spotify.com/track/4vEHd456ENAfaGVveY8hJ0"
+    },
+    {
+      "album": {
         "name": "hay Allah",
         "url": "https://open.spotify.com/album/0Sgw3n63yrsGNb0Wa0T7hc"
       },
@@ -3006,7 +3042,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 139350,
       "name": "hola hola",
       "url": "https://open.spotify.com/track/4va2AJCPRNFuCSm8RaPmVL"
@@ -4740,7 +4776,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 121714,
       "name": "RDM",
       "url": "https://open.spotify.com/track/1f2c5aRUD2yyU2jmjvDSzr"

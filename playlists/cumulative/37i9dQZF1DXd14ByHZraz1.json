@@ -703,6 +703,28 @@
     },
     {
       "album": {
+        "name": "Booty Bang",
+        "url": "https://open.spotify.com/album/4sKpHVmmd522r3AxOYO1Yt"
+      },
+      "artists": [
+        {
+          "name": "Breaking Beattz",
+          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
+        },
+        {
+          "name": "Ishimaru",
+          "url": "https://open.spotify.com/artist/3Uv4JaQxrshHLQguFHfz2n"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Booty Bang",
+      "url": "https://open.spotify.com/track/59FSooGapAZzGZ5cflEufI"
+    },
+    {
+      "album": {
         "name": "Booty Pop",
         "url": "https://open.spotify.com/album/1bSplo5F20nYLxUGxTEeDu"
       },
@@ -3046,7 +3068,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 191363,
       "name": "Hear It",
       "url": "https://open.spotify.com/track/4wEcWmgrx7ANAS1TVmaXe5"
@@ -3490,6 +3512,24 @@
       "duration_ms": 165135,
       "name": "In Love Today",
       "url": "https://open.spotify.com/track/3JhpsFR2yZhprzqXuzwGqj"
+    },
+    {
+      "album": {
+        "name": "In My House",
+        "url": "https://open.spotify.com/album/24expfrQAd6AyDlGAv3glD"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181620,
+      "name": "In My House",
+      "url": "https://open.spotify.com/track/3Lw69ZoWwno0K09kxFskKn"
     },
     {
       "album": {
@@ -4012,7 +4052,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 211987,
       "name": "LICK IT",
       "url": "https://open.spotify.com/track/58ZxB5HafuK7mZS3B3kf8y"
@@ -5139,6 +5179,24 @@
     },
     {
       "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/0a9NVhsLXeEXZlK20zHhzB"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181769,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/2DhLh8MFQLFXiH9rm1Y5Ix"
+    },
+    {
+      "album": {
         "name": "Paper Boats",
         "url": "https://open.spotify.com/album/49R4RBVBH4sktSSTO5Fg1u"
       },
@@ -5246,7 +5304,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 222641,
       "name": "PIECE OF ME",
       "url": "https://open.spotify.com/track/5qfCSmBt5ZPjZiRqvgRrnr"

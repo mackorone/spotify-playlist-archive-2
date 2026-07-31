@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Lewis Dice
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,719 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,718 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 74 | [bite](https://open.spotify.com/track/3lHVs2nABbT0TOGYKA7beP) | [SUUNCAAT](https://open.spotify.com/artist/7inTslBMGHlzonejpRB3F7) | [bite](https://open.spotify.com/album/3YXQFDUBo0wSpNjXLjP7JR) | 2:34 |
 | 75 | [PUSSY POP MUSIC](https://open.spotify.com/track/3pEoo55cSJ3GlUn4lJ9yg3) | [Rose Duke](https://open.spotify.com/artist/1u6lFcwvmjZeAxK6Gecu64) | [PUSSY POP MUSIC](https://open.spotify.com/album/1rsuwlWAGPwjI9oF1RCUkX) | 3:34 |
 
-Snapshot ID: `AAAAAP1tlyCFiuBZgMtKICFJgYW1uoO+`
+Snapshot ID: `AAAAAPi6dnmUMO9pIlv1mSg7lbfYY17O`

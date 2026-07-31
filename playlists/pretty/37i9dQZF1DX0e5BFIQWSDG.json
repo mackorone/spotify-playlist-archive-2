@@ -1,12 +1,12 @@
 {
   "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: RACK",
-  "num_followers": 286788,
+  "num_followers": 286843,
   "original_name": "Hot Hits Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIBq8iO2VUuX88cXbUEfAo4Yq2fQ",
+  "snapshot_id": "AAAAAH4ehPlgZpImGl+SraQy6EBPDL6d",
   "tracks": [
     {
       "added_at": "2026-07-27 15:26:05",
@@ -1095,6 +1095,22 @@
       "duration_ms": 192266,
       "name": "CMC CYPHER",
       "url": "https://open.spotify.com/track/4vWKrBQxQluuF9kgCwxZUY"
+    },
+    {
+      "added_at": "2026-07-27 15:26:05",
+      "album": {
+        "name": "FUCK OFF",
+        "url": "https://open.spotify.com/album/6TnAqeBtXLyBT2cgl7A9kI"
+      },
+      "artists": [
+        {
+          "name": "How",
+          "url": "https://open.spotify.com/artist/1fOZ5oJ54j38CGvVapIBDi"
+        }
+      ],
+      "duration_ms": 154576,
+      "name": "FUCK OFF",
+      "url": "https://open.spotify.com/track/2ycC1Hc45ZyhfRzHSJCCx8"
     }
   ],
   "unique_name": "Hot Hits Greece",

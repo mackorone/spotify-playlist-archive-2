@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "BADDIES <3 MOLIY",
+        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "ACCRA GIRLS",
+      "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
+    },
+    {
+      "album": {
         "name": "Afrikan Sauce",
         "url": "https://open.spotify.com/album/5XF4bvaQTx8VMACNbwWmt1"
       },
@@ -1342,7 +1368,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 139492,
       "name": "Maputo",
       "url": "https://open.spotify.com/track/7GYi0vzzwhiLI53Zf4sUyM"
@@ -1576,7 +1602,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 220310,
       "name": "Nairobi",
       "url": "https://open.spotify.com/track/1QzPmQynOP65qaOuZDJUbm"
@@ -2118,6 +2144,24 @@
       "duration_ms": 208000,
       "name": "Zaire",
       "url": "https://open.spotify.com/track/0yXya1lxf4ATYUAfr7arf1"
+    },
+    {
+      "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129394,
+      "name": "Zanzibar",
+      "url": "https://open.spotify.com/track/6jyP0bAfuUmrVlHvQLXil6"
     },
     {
       "album": {

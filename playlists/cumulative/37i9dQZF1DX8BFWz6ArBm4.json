@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 182928,
       "name": "Mavra Feggaria",
       "url": "https://open.spotify.com/track/6R1Ovs4Aq1KSFqfo5S8Dwm"
@@ -2976,6 +2976,28 @@
       "duration_ms": 219214,
       "name": "Mera Nyxta",
       "url": "https://open.spotify.com/track/41EAUp153DEo7fPRzE0FFK"
+    },
+    {
+      "album": {
+        "name": "Erws",
+        "url": "https://open.spotify.com/album/78CEh8TlHJhappoIWJMmEc"
+      },
+      "artists": [
+        {
+          "name": "Nikos Korakakis",
+          "url": "https://open.spotify.com/artist/5nDuahS9417Ewdf5joqklh"
+        },
+        {
+          "name": "rigasbeats",
+          "url": "https://open.spotify.com/artist/11Clnp2vx1BgBKgfngjuMZ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199581,
+      "name": "MHN FIGEIS MEINE",
+      "url": "https://open.spotify.com/track/1kl2x4SKPXSlqjQ36NQBcZ"
     },
     {
       "album": {
@@ -4002,7 +4024,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 216774,
       "name": "Pou Na Pao",
       "url": "https://open.spotify.com/track/2kSJoVwUAwNk3pGA553c6S"
@@ -4028,6 +4050,32 @@
       "duration_ms": 188470,
       "name": "Pou Ti Vrike?",
       "url": "https://open.spotify.com/track/58NBDso0aGKOH1HGMqeR6c"
+    },
+    {
+      "album": {
+        "name": "Prive",
+        "url": "https://open.spotify.com/album/5Ng1SdSHpXtaOw7Dhx0tyJ"
+      },
+      "artists": [
+        {
+          "name": "Aggeliki Iliadi",
+          "url": "https://open.spotify.com/artist/4zx1IrCEdh9uo46yhlGZP6"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+        },
+        {
+          "name": "Paris Kalpos",
+          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Prive",
+      "url": "https://open.spotify.com/track/5Jwzkuu1edcK252FWNNpM9"
     },
     {
       "album": {

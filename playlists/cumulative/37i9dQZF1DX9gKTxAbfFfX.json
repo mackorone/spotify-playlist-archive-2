@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-16",
-  "description": "Tu banda sonora de este verano. Foto: Myke Towers.",
+  "description": "Tu banda sonora de este verano. Foto: KAROL G.",
   "name": "Verano 2026",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 167428,
       "name": "After",
       "url": "https://open.spotify.com/track/44PL9CqmxZ3tcbNJgrsqzb"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 148157,
       "name": "Ale Le Le",
       "url": "https://open.spotify.com/track/6x65qlBADMh2G8Ve3vXQsQ"
@@ -539,6 +539,32 @@
     },
     {
       "album": {
+        "name": "As\u00ed",
+        "url": "https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194727,
+      "name": "As\u00ed",
+      "url": "https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC"
+    },
+    {
+      "album": {
         "name": "Ateo",
         "url": "https://open.spotify.com/album/6Re7sviVustR53KeArspwK"
       },
@@ -598,6 +624,28 @@
       "duration_ms": 192853,
       "name": "AURORA",
       "url": "https://open.spotify.com/track/18m5dJOPB2geFwOymXNaWg"
+    },
+    {
+      "album": {
+        "name": "a\u00f1o en madrid",
+        "url": "https://open.spotify.com/album/2N8uc1zSW7fJCBUTYqP7AU"
+      },
+      "artists": [
+        {
+          "name": "kepa",
+          "url": "https://open.spotify.com/artist/641uUz4loRaQhEkuFOIefT"
+        },
+        {
+          "name": "GAMBOA",
+          "url": "https://open.spotify.com/artist/77SXVwlcNRv5y0jxaCtjr6"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173547,
+      "name": "a\u00f1o en madrid",
+      "url": "https://open.spotify.com/track/7paluRy0fGSNVRSx1wnRGw"
     },
     {
       "album": {
@@ -1282,6 +1330,24 @@
       "duration_ms": 175200,
       "name": "Carita Angelikal",
       "url": "https://open.spotify.com/track/1cMU20gleQO9xYjCeni3DJ"
+    },
+    {
+      "album": {
+        "name": "CASI CASI",
+        "url": "https://open.spotify.com/album/4xLzFf1PPWMlzJ8uUcCtLS"
+      },
+      "artists": [
+        {
+          "name": "Juseph",
+          "url": "https://open.spotify.com/artist/5kgDdP7a4TsvkF08gpJGX0"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161326,
+      "name": "CASI CASI",
+      "url": "https://open.spotify.com/track/2s50CyhSVD7IJp7dSXXDPA"
     },
     {
       "album": {
@@ -2129,6 +2195,28 @@
     },
     {
       "album": {
+        "name": "Domingo de Playita",
+        "url": "https://open.spotify.com/album/5DasiQ2KxCVtN6m5tZnapl"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "Funzo",
+          "url": "https://open.spotify.com/artist/4fqIWm9UJskEBvqnNHuEHo"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Domingo de Playita",
+      "url": "https://open.spotify.com/track/5S3w8KEgXI2HaiaVKLJhBm"
+    },
+    {
+      "album": {
         "name": "Dominicana",
         "url": "https://open.spotify.com/album/0xBy8mlkeW6KOPuzt5xikF"
       },
@@ -2500,7 +2588,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 182158,
       "name": "El Patio",
       "url": "https://open.spotify.com/track/3MJtv4kmX1phZ26QQRjbsx"
@@ -3354,7 +3442,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 177062,
       "name": "Isla Bonita",
       "url": "https://open.spotify.com/track/67m0xwFa4Yl81RJ645Bouh"
@@ -4535,6 +4623,24 @@
     },
     {
       "album": {
+        "name": "MATADORA",
+        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144650,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
+    },
+    {
+      "album": {
         "name": "MATR\u00cdCULA",
         "url": "https://open.spotify.com/album/3CV7WJea64f27AT5FOQquY"
       },
@@ -5284,6 +5390,28 @@
       "duration_ms": 195109,
       "name": "NO ME GUILLO v2",
       "url": "https://open.spotify.com/track/0vHJupzsREkNskbkuSiwF1"
+    },
+    {
+      "album": {
+        "name": "No Te Da",
+        "url": "https://open.spotify.com/album/3IJJdiRl6J2trY4cftRFHV"
+      },
+      "artists": [
+        {
+          "name": "8belial",
+          "url": "https://open.spotify.com/artist/3GMBcFbI21Tbi1POVBmCwb"
+        },
+        {
+          "name": "Virtual Flavor",
+          "url": "https://open.spotify.com/artist/5WvT6IGJwVag6w2KXL1DtA"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198664,
+      "name": "No Te Da",
+      "url": "https://open.spotify.com/track/4JZDXHw3X3ymCdf1QmkLAC"
     },
     {
       "album": {
@@ -7128,7 +7256,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 160634,
       "name": "Ta' Buena",
       "url": "https://open.spotify.com/track/5gkc4h4YzM2xV9MMDJOrMs"
@@ -7262,7 +7390,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 180000,
       "name": "TIRAMIS\u00da",
       "url": "https://open.spotify.com/track/2D1DYCgKAlsKSqSBafXZ5q"
@@ -7740,7 +7868,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 160476,
       "name": "UnCafeConMiEx",
       "url": "https://open.spotify.com/track/5iNjXCbKADM601a9OzHPlV"
@@ -8046,6 +8174,28 @@
       "duration_ms": 321741,
       "name": "WYA REMIX RED",
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
+    },
+    {
+      "album": {
+        "name": "X AMOR",
+        "url": "https://open.spotify.com/album/44mNyyTx7mHmUJvgETBIdU"
+      },
+      "artists": [
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+        },
+        {
+          "name": "Rodrigo Fenix",
+          "url": "https://open.spotify.com/artist/61LKMQgKYLzm43f4q16iRn"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209935,
+      "name": "X AMOR",
+      "url": "https://open.spotify.com/track/0mQvEvLZ5HkvBtvwg9T1Kp"
     },
     {
       "album": {

@@ -1849,6 +1849,28 @@
     },
     {
       "album": {
+        "name": "flow state",
+        "url": "https://open.spotify.com/album/2ap2eUHSoEZhUAj1ybgask"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210105,
+      "name": "We Go Back (ft. Michael McDonald)",
+      "url": "https://open.spotify.com/track/3fgXSl6jqncaLZVO8WNPX5"
+    },
+    {
+      "album": {
         "name": "Golden Road",
         "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
       },

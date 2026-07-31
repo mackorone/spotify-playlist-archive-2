@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Barry B en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,447 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,414 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Bigger Splash](https://open.spotify.com/track/1Iglg0BzSGKUh1bdoloFpb) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [Bigger Splash](https://open.spotify.com/album/3FQsXp0okLvibv2KLf56f6) | 4:30 |
 | 50 | [Te Espero de Vuelta](https://open.spotify.com/track/1lXKLGQ81b7r5EFmG0AOvt) | [1111](https://open.spotify.com/artist/7s5UemXTsq4giWtzr4fqiN), [Hofe](https://open.spotify.com/artist/56J8Wxq3wAYCDHNwabMzrO), [Kiliki](https://open.spotify.com/artist/2x6JVTDJNTmVZxxOGYZKND) | [Te Espero de Vuelta](https://open.spotify.com/album/4mtJG5lY409WGrL2R6aUun) | 3:20 |
 
-Snapshot ID: `AAAAANjIQEV8UyGPFXSHmO7RXMBpuB7c`
+Snapshot ID: `AAAAANuWlk/9JmnsOmDYDmJnC8lmfSBp`

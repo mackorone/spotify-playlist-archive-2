@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: FABIAN & ROBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,675 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,676 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [EVEREST](https://open.spotify.com/track/4IES6uQhwuNyHGL2SUuPfx) | [DOMELIPA](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [EVEREST](https://open.spotify.com/album/6v1GNmOG4ZjoVHtdYW7X4S) | 2:36 |
 | 50 | [Corazón hinchado](https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Corazón hinchado](https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5) | 2:59 |
 
-Snapshot ID: `AAAAADQsH+GwELYZmI3r9Gsyy5XElm/r`
+Snapshot ID: `AAAAAF/QtQnVm3m+nXofGJ//IQUWWt91`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO?si=B1WHxFg5QECP2si9pOpKHA">Shad Mziki</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,504 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,512 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [PRESS AM](https://open.spotify.com/track/1HGAkDrQS4SAjGO1wUUEJ8) | [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [PRESS AM](https://open.spotify.com/album/1EBWwV4ediQjVLCZfqgCyj) | 2:03 |
 | 50 | [fêteRock\*](https://open.spotify.com/track/28dmUmDBKcByC8J4g0FmJN) | [onoola\-sama](https://open.spotify.com/artist/21n9ybnUUCQNOj4Ea8rVxC), [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4) | [fujiBouyon\*](https://open.spotify.com/album/1zaNYDraNZA32BrkMhedlT) | 3:07 |
 
-Snapshot ID: `AAAAAHCcXJw8EPFKe1Ff1ps+epn/cU4/`
+Snapshot ID: `AAAAACG8GGwh00WAOcFIRvNgZI+jxDYW`

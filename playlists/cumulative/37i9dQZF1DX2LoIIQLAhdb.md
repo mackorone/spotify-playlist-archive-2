@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Kany
+> Le R&B français, nouvelle ère\. Photo : RnBoi
 
-758 songs - 1 day 11 hr 40 min
+759 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Ceux D'Avant](https://open.spotify.com/track/5EwfJvQJGc1JuNn5ox7FkE) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [99 PBLM](https://open.spotify.com/album/4wqLyqfSAXOJ0tq44neNGU) | 2:15 | 2025-05-22 | 2025-10-10 |
 | [Changer](https://open.spotify.com/track/3Mngd5UkMnKskYTzAIgdpN) | [Logos](https://open.spotify.com/artist/5QtzZDDTMvj0oWcSHaTgfF) | [Changer](https://open.spotify.com/album/4ceVd0IbTVWoZXZFxlLvLA) | 2:32 | 2025-07-10 | 2025-08-08 |
 | [Changer les choses \(feat\. Joé Dwèt Filé\)](https://open.spotify.com/track/73A1WdVIFE6Zk8EMEw0j9H) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Emma'a Part.II](https://open.spotify.com/album/6djrJmDDCtvnpIz5VxxKmb) | 2:56 | 2024-11-21 | 2025-03-28 |
+| [Changé](https://open.spotify.com/track/1ojup8iwvq5SUFvuBMfDfh) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I) | [Changé](https://open.spotify.com/album/5qp1uwgBPuyy2h2LywRlbM) | 1:46 | 2026-07-30 |  |
 | [Chargé](https://open.spotify.com/track/6rAXyvFRcgQb8CvMHAV2h2) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [Chargé](https://open.spotify.com/album/19svbEeQHhBs6BOGllJobD) | 2:07 | 2024-06-20 | 2024-07-12 |
 | [Charlotte](https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0) | 3:34 | 2023-05-25 | 2023-07-21 |
 | [Chic](https://open.spotify.com/track/38sPQGVoRnzlF4VBr71fln) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Chic](https://open.spotify.com/album/6uLz99apI6nb6DJnarejuk) | 3:20 | 2022-12-08 | 2023-03-03 |
@@ -540,7 +541,7 @@
 | [Pervers narcissique](https://open.spotify.com/track/4lwX9GAOcRsCl3WXyLO5vs) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Pervers narcissique](https://open.spotify.com/album/5WZ0HDVic3khelXu0bQu4B) | 4:17 | 2022-11-24 | 2023-02-10 |
 | [Petit Bateau](https://open.spotify.com/track/04QT11kHiwh9SXVLnnuO8o) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Amaya](https://open.spotify.com/album/3cp9iXga7okjn8jR4U8OIg) | 2:58 | 2025-05-08 | 2025-11-14 |
 | [Pic au cœur](https://open.spotify.com/track/5gCEpTSrkOsJvPynrPnCtf) | [Feejoke](https://open.spotify.com/artist/2MQAUk1nYj86hAwsxfHQ1i) | [Pic au cœur](https://open.spotify.com/album/6rf3Yn6OEpZroovlI5t6uu) | 2:40 | 2022-12-01 | 2023-01-20 |
-| [Pile ou Face](https://open.spotify.com/track/5SLYbtXzeXH7mhC6l3Tp1q) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ), [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d) | [Pile ou Face](https://open.spotify.com/album/5vihHF9KuJUtUkb0qvxDsA) | 3:14 | 2026-05-28 |  |
+| [Pile ou Face](https://open.spotify.com/track/5SLYbtXzeXH7mhC6l3Tp1q) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ), [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d) | [Pile ou Face](https://open.spotify.com/album/5vihHF9KuJUtUkb0qvxDsA) | 3:14 | 2026-05-28 | 2026-07-31 |
 | [Piloti](https://open.spotify.com/track/7bu9pfAhSsd5uur5rUZJER) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Piloti](https://open.spotify.com/album/3aotwIs7L3jD2PPVwKj69b) | 3:18 | 2026-01-29 | 2026-04-03 |
 | [Piqué](https://open.spotify.com/track/0cqWTxcwQ30uL7MCytT64n) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Piqué](https://open.spotify.com/album/6eFH0BH4jl3Qtg3thlwklG) | 2:36 | 2022-11-24 | 2022-12-16 |
 | [PIÉGÉE](https://open.spotify.com/track/5qaki2VIHtWEMECn1LJuH5) | [Dioo](https://open.spotify.com/artist/6n8tHRFjXKVv3b7WmWLr9a) | [PIÉGÉE](https://open.spotify.com/album/3ORR4VyFHZcOaFS5rNqrrW) | 2:36 | 2026-03-26 | 2026-04-24 |

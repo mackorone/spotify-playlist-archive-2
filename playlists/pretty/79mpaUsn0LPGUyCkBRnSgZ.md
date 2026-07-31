@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 760 songs - 2 day 1 hr 5 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 761 songs - 2 day 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -768,5 +768,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 758 | [Tche Belew](https://open.spotify.com/track/2BxCRD3CZ65suyXj6KeGuU) | [Hailu Mergia](https://open.spotify.com/artist/0rsN9DKQhTCvkgbByOOBIm), [The Walias](https://open.spotify.com/artist/0utUPtDWzcvggWvsleb4r2) | [Tche Belew](https://open.spotify.com/album/67ZrxrYM4ZErIrGYpA13Q0) | 5:00 |
 | 759 | [Midnight In Paris](https://open.spotify.com/track/6ymzeC4hAANuO98puy82eA) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz), [Unholy Modal Rounders](https://open.spotify.com/artist/6Q5S79gQdzhWg7M4JnN020), [Jeffrey Frederick & The Clamtones](https://open.spotify.com/artist/4EcAdmBYoJcCKPazSjp2n1) | [Have Moicy!](https://open.spotify.com/album/3r512B1IHua0oDxxN3ndcd) | 3:17 |
 | 760 | [Malka Moma](https://open.spotify.com/track/2ZPzIZGqhm613bqOj3evQv) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Heavenly Body: If I'm The Bottle You’re The Message](https://open.spotify.com/album/6NjXeIwjKdVEkJHvom1m3x) | 3:14 |
+| 761 | [Twenty](https://open.spotify.com/track/13i41xeRDguAB9EruCaX9f) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Àdá Irin](https://open.spotify.com/album/0iCeii4kXm8YOIHxxzQphO) | 1:13 |
 
-Snapshot ID: `AAAJXlQYNLHdeH1b4VT2PfxTewrJ+26N`
+Snapshot ID: `AAAJX0iu//RCXyzqwluXuVi9bmk79Ged`

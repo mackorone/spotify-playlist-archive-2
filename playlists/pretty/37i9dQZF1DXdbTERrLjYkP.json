@@ -1,12 +1,12 @@
 {
   "description": "Discover the next wave of talent writing their own songs. Cover: Isabel van Gelder",
-  "num_followers": 219556,
+  "num_followers": 219563,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMxnkQ09brFPXSeD4F7Kwg+35NC9",
+  "snapshot_id": "AAAAACVaDLF6j6yvVzq61n5YzCYbZUi6",
   "tracks": [
     {
       "added_at": "2026-07-17 04:02:07",
@@ -23,6 +23,26 @@
       "duration_ms": 219302,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj"
+    },
+    {
+      "added_at": "2026-07-31 01:09:28",
+      "album": {
+        "name": "Rabies",
+        "url": "https://open.spotify.com/album/5tfVxiVnjr3e6a5jgBKqKq"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        },
+        {
+          "name": "Black Polish",
+          "url": "https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP"
+        }
+      ],
+      "duration_ms": 212830,
+      "name": "Rabies",
+      "url": "https://open.spotify.com/track/4bb4b8LxkX5HpUU9THfBQQ"
     },
     {
       "added_at": "2026-07-24 04:02:41",
@@ -1199,22 +1219,6 @@
       "duration_ms": 198386,
       "name": "Love Will Kill Me",
       "url": "https://open.spotify.com/track/2VyGB5B0Y0YLbrBtGZIOLK"
-    },
-    {
-      "added_at": "2026-04-03 04:01:42",
-      "album": {
-        "name": "Middle School Dropout",
-        "url": "https://open.spotify.com/album/4tFRlMuaPBCKK9pqqIeZh9"
-      },
-      "artists": [
-        {
-          "name": "Iris Copperman",
-          "url": "https://open.spotify.com/artist/6RcGUg4682v0WCDSB852iD"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/4STDViDVw1BrMhT3LqSNXT"
     }
   ],
   "unique_name": "Next Gen Singer-Songwriters",

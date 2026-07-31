@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Machario, Vurr Flashy, D.SEL en meer..",
+  "description": "Giegs, Matarr en meer..",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -1455,6 +1455,36 @@
     },
     {
       "album": {
+        "name": "Baddie Uit De Hood",
+        "url": "https://open.spotify.com/album/76dlbjFFX2nKbed68yEZrp"
+      },
+      "artists": [
+        {
+          "name": "HAYABUSA",
+          "url": "https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd"
+        },
+        {
+          "name": "Onin",
+          "url": "https://open.spotify.com/artist/6lhL3kP95jA2mE8d5aPnVK"
+        },
+        {
+          "name": "J.FIZ",
+          "url": "https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT"
+        },
+        {
+          "name": "HB The Plug",
+          "url": "https://open.spotify.com/artist/17fsAjYzpvI7C5M1D8T34T"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Baddie Uit De Hood",
+      "url": "https://open.spotify.com/track/2VmhsaoMgsXXLfnZPJzaSn"
+    },
+    {
+      "album": {
         "name": "BADDIE ZOALS JIJ",
         "url": "https://open.spotify.com/album/7LejBE3T5YwUt4RJ3iWsOX"
       },
@@ -1592,6 +1622,24 @@
       "duration_ms": 177250,
       "name": "Bankoe Cent",
       "url": "https://open.spotify.com/track/7saZmAK5jwChVyfzSAi1xl"
+    },
+    {
+      "album": {
+        "name": "BBR (Bad Boy Riddim)",
+        "url": "https://open.spotify.com/album/7IoCfWEBtXXktD0Rbausdf"
+      },
+      "artists": [
+        {
+          "name": "Joella T",
+          "url": "https://open.spotify.com/artist/1yxupxuZvDWzd3JO8Z1mCW"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132336,
+      "name": "BBR (Bad Boy Riddim)",
+      "url": "https://open.spotify.com/track/6tqKNC7anEV0JGD6B9POtA"
     },
     {
       "album": {
@@ -2948,6 +2996,24 @@
       "duration_ms": 123742,
       "name": "Da's Brunzynbaby",
       "url": "https://open.spotify.com/track/0aSjTvFL1ucNBPToefdceg"
+    },
+    {
+      "album": {
+        "name": "Daar staat tie weer",
+        "url": "https://open.spotify.com/album/1dkMQJ6aBHM0aDPxhnlec0"
+      },
+      "artists": [
+        {
+          "name": "Matarr",
+          "url": "https://open.spotify.com/artist/73objEnuVYK9Kr3e3f6ciZ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Daar staat tie weer",
+      "url": "https://open.spotify.com/track/4Pzt6BiWFndSByi8JNwXyA"
     },
     {
       "album": {
@@ -7524,7 +7590,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 173730,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/0HZGRSHaegYZnZOGz8e7QL"
@@ -14250,6 +14316,24 @@
       "duration_ms": 165500,
       "name": "Yusu",
       "url": "https://open.spotify.com/track/13LmE9mWU4T3GDUaQnhafs"
+    },
+    {
+      "album": {
+        "name": "Ze Zeggen",
+        "url": "https://open.spotify.com/album/6iokToFfRT3G03piaXiLbf"
+      },
+      "artists": [
+        {
+          "name": "Giegs",
+          "url": "https://open.spotify.com/artist/1jjZzfxHdrYhH6k5vHO5Gb"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148396,
+      "name": "Ze Zeggen",
+      "url": "https://open.spotify.com/track/3ubhnVdqf9T0RxMbbIRz3r"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 348525,
+  "num_followers": 348561,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAADv6equ7SJI4G0igOWs8NNC",
+  "snapshot_id": "amlCgAAAAABRoCiqm1PNbZKrahFRdozw",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez Con Mariachi",
-        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 242195,
-      "name": "Mar\u00eda De La Luz",
-      "url": "https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adi\u00f3s A Chalino",
         "url": "https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chalino S\u00e1nchez Con Mariachi",
+        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 242195,
+      "name": "Mar\u00eda De La Luz",
+      "url": "https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Pela Vacas (Remastered 2025)",
         "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 160777,
       "name": "Juli\u00e1n del Real - Remastered 2025",
       "url": "https://open.spotify.com/track/7afW44m4B7ioXwnzpk1xci"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Quisiera Ser Pajarillo",
+      "url": "https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 164942,
       "name": "Corrido De Olegario",
       "url": "https://open.spotify.com/track/27xhosbndnCvyQ1pOpUfPj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Quisiera Ser Pajarillo",
-      "url": "https://open.spotify.com/track/0QDYPG6mHJezd96O6W2j1V"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Inmortales",
-        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "Que Me Entierren Cantando",
-      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hermos\u00edsimo Lucero",
         "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 202666,
       "name": "Lucero Negro",
       "url": "https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Inmortales",
+        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Que Me Entierren Cantando",
+      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
     },
     {
       "added_at": null,

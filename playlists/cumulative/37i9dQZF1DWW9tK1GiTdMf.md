@@ -4,7 +4,7 @@
 
 > musica per un'estate non proprio felice \(rob in cover\)
 
-1,756 songs - 3 day 8 hr 40 min
+1,757 songs - 3 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Cause Perse](https://open.spotify.com/track/2KTkK87bVywhsBfgsXOQ0Q) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/7wuqjRiVDHVE2LLO1gAKqf) | 2:21 | 2023-02-09 | 2023-02-16 |
 | [Cause Perse](https://open.spotify.com/track/7zbLHH0prN66iIognD95F6) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/3aJU4Ey5gJcUOIWwwG40ix) | 2:21 | 2023-02-15 | 2023-06-23 |
 | [Cazzo vuoi?!](https://open.spotify.com/track/47fWFRXXsKLiRU9tiZod01) | [Bongi](https://open.spotify.com/artist/3ehxbQ0letT4rNrzvp3SAq), [Vástago](https://open.spotify.com/artist/17oaBlHbOJj8u7HgDqv7RH), [Beart](https://open.spotify.com/artist/2FVeYpAaDkIoK4z1IRjXF3) | [Cazzo vuoi?!](https://open.spotify.com/album/4i3MJHgOwvndM23ew1NKHO) | 2:32 | 2022-11-03 | 2022-11-25 |
+| [CCTS \(+calore\)](https://open.spotify.com/track/568uzUYep483FrRUCIJgK5) | [DelCapo](https://open.spotify.com/artist/4zzKTiRX6jxpItedTFCliy), [Millefiori](https://open.spotify.com/artist/55kBWp4unj7SX6URMMyakp) | [CCTS \(+calore\)](https://open.spotify.com/album/4FsFXg2BIOE2NLltz7w8Wq) | 3:02 | 2026-07-31 |  |
 | [CEMENTO](https://open.spotify.com/track/3vB23v6nNjrnXWUgF9BoML) | [Holy Francisco](https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I) | [CEMENTO](https://open.spotify.com/album/57yOle6fNUZN99nfVM5W1C) | 2:30 | 2025-01-30 | 2025-10-17 |
 | [CEnERe](https://open.spotify.com/track/17b0oxn9VD7625wH7a0qmn) | [FANTASMA DI ME](https://open.spotify.com/artist/3nnxeSXklp4PjXcjxfxe5l) | [CEnERe](https://open.spotify.com/album/0QOfs6psrEQswBdaheRs2F) | 3:32 | 2025-03-13 | 2025-05-09 |
 | [CENTO RAGAZZE](https://open.spotify.com/track/2YzoQKJwvo0ZBeQc6Ro7LT) | [rob](https://open.spotify.com/artist/3l27L67Ia3t46fkOZ7B7o7) | [CENTO RAGAZZE](https://open.spotify.com/album/4xrK0fSYLtKdgFAaRgp61W) | 2:42 | 2025-11-20 |  |

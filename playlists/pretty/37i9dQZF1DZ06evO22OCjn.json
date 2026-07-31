@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 344872,
+  "num_followers": 344948,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAABgEPnavXbBC+YJxtOB2PD4",
+  "snapshot_id": "amlCgAAAAAA1oytfHpIq2NrA7WbCXMti",
   "tracks": [
     {
       "added_at": null,
@@ -807,22 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poison Ou Antidote",
-        "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
+        "name": "Don\u2019t Let Me Drown (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/4gi7iM3pBNBmzHiVPyatjV"
       },
       "artists": [
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        },
-        {
           "name": "Burna Boy",
           "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
         }
       ],
-      "duration_ms": 186600,
-      "name": "Donne-moi l\u2019accord",
-      "url": "https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV"
+      "duration_ms": 185590,
+      "name": "Don't Let Me Drown - From F1\u00ae The Movie",
+      "url": "https://open.spotify.com/track/24futxi7j75kgGXiumTEn2"
     },
     {
       "added_at": null,
@@ -879,22 +879,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don\u2019t Let Me Drown (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/4gi7iM3pBNBmzHiVPyatjV"
+        "name": "Poison Ou Antidote",
+        "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
         },
         {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 185590,
-      "name": "Don't Let Me Drown - From F1\u00ae The Movie",
-      "url": "https://open.spotify.com/track/24futxi7j75kgGXiumTEn2"
+      "duration_ms": 186600,
+      "name": "Donne-moi l\u2019accord",
+      "url": "https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV"
     },
     {
       "added_at": null,

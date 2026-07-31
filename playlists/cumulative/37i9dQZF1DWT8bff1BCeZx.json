@@ -224,7 +224,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 68869,
       "name": "ABBA FATHER - raw",
       "url": "https://open.spotify.com/track/6fgmNr07tGMB2plXEuGf2k"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 657500,
       "name": "All The Earth",
       "url": "https://open.spotify.com/track/57h4CZ2g2FD0hMFMwMIeIY"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 190293,
       "name": "Anchor of My Strength",
       "url": "https://open.spotify.com/track/4TEFKBeXAE20j69TpHFFK7"
@@ -2561,6 +2561,24 @@
     },
     {
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/6uXUsYu5RfQYH8HYtJ59xY"
+      },
+      "artists": [
+        {
+          "name": "GEMS",
+          "url": "https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337339,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/7BpGB2kuuSTuSX0vQUMe9u"
+    },
+    {
+      "album": {
         "name": "Blessed Year",
         "url": "https://open.spotify.com/album/4UAyKYRIvD8Vj6BC4ZzxnW"
       },
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 237913,
       "name": "Boku",
       "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
@@ -3404,7 +3422,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 293533,
       "name": "Chukwu Oma",
       "url": "https://open.spotify.com/track/7vU6lU4ZNubUeE3yWgTYD6"
@@ -4312,7 +4330,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 194975,
       "name": "Dancing My Way (Live)",
       "url": "https://open.spotify.com/track/5HCpXxhMrhCyENtXEfjAi8"
@@ -5456,6 +5474,28 @@
       "duration_ms": 176379,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7uEkbtNgUSECmGBWsHmwjT"
+    },
+    {
+      "album": {
+        "name": "Eyes On Jesus",
+        "url": "https://open.spotify.com/album/2y0pfeOSSeQuVRLbz98dEj"
+      },
+      "artists": [
+        {
+          "name": "G Ento",
+          "url": "https://open.spotify.com/artist/4QIpR55OtPYZz7Clt5lveI"
+        },
+        {
+          "name": "SOD MUSIQ",
+          "url": "https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159869,
+      "name": "Eyes On Jesus",
+      "url": "https://open.spotify.com/track/4kSsy1CmVypWszcp6i8QBV"
     },
     {
       "album": {
@@ -7376,7 +7416,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 193398,
       "name": "Grace - Remix",
       "url": "https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa"
@@ -8099,6 +8139,28 @@
     },
     {
       "album": {
+        "name": "He Has Done It",
+        "url": "https://open.spotify.com/album/6Bbqg3g4trUiOLoo5a7uv9"
+      },
+      "artists": [
+        {
+          "name": "Eljoe Onoja",
+          "url": "https://open.spotify.com/artist/63Y0MtLSfC9rjMZ1KsqTZi"
+        },
+        {
+          "name": "Ema Onyx",
+          "url": "https://open.spotify.com/artist/6Cnb464ggB0K5HuPfeci5F"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503688,
+      "name": "He Has Done It",
+      "url": "https://open.spotify.com/track/3tjjbmXmertILW8ExDYqxI"
+    },
+    {
+      "album": {
         "name": "He Is Your Mercy",
         "url": "https://open.spotify.com/album/2ovaG9witL5tn3e1DKs6Mo"
       },
@@ -8186,7 +8248,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 600483,
       "name": "High Praise Medley",
       "url": "https://open.spotify.com/track/0DGw16Xvsukc5eAELGDg0Y"
@@ -8598,7 +8660,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 161600,
       "name": "Holy, Always Holy",
       "url": "https://open.spotify.com/track/0eOtLOYITQKb45q2btTyJx"
@@ -9657,6 +9719,28 @@
     },
     {
       "album": {
+        "name": "Too Good",
+        "url": "https://open.spotify.com/album/0hGxxEz5zbq3Rbdujt5Zaj"
+      },
+      "artists": [
+        {
+          "name": "Otejiri Imah",
+          "url": "https://open.spotify.com/artist/0RL7PPiJZSMN2RhaWVIp1N"
+        },
+        {
+          "name": "Victoria Israel",
+          "url": "https://open.spotify.com/artist/5LcTR3uqIuwM3RKAs7mEcA"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440160,
+      "name": "Ire",
+      "url": "https://open.spotify.com/track/5siHnHbvPZnICrsai4Xked"
+    },
+    {
+      "album": {
         "name": "YATO",
         "url": "https://open.spotify.com/album/0cVmZ0zxXp2993CWZMyZXE"
       },
@@ -10498,7 +10582,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 150144,
       "name": "Keep On Running",
       "url": "https://open.spotify.com/track/6IwCXOQfKE6nLvjbxEkOXz"
@@ -12050,7 +12134,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 167333,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/2dUKow1aD5tsKWc6GzsTqO"
@@ -13716,7 +13800,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 299468,
       "name": "No Turning Back II",
       "url": "https://open.spotify.com/track/5VKXfM7SWob2onq118RjYJ"
@@ -13781,6 +13865,28 @@
     },
     {
       "album": {
+        "name": "Yield",
+        "url": "https://open.spotify.com/album/6aCjywAMr9mCKITGSKWHHl"
+      },
+      "artists": [
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        },
+        {
+          "name": "Ajay Asika",
+          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138053,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/21DQSV4ggmET2fI4dxFLxa"
+    },
+    {
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/24Oq6641hRVwJlOhu81A2w"
       },
@@ -13836,7 +13942,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 180532,
       "name": "Nobody Be Like You",
       "url": "https://open.spotify.com/track/6OdsMqq3y4wwaVp5KdroaC"
@@ -15857,6 +15963,44 @@
     },
     {
       "album": {
+        "name": "POSSIBLE (YAHCASA' 26)",
+        "url": "https://open.spotify.com/album/76hZwBq30usXpCLciukhN9"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Pillar YRR",
+          "url": "https://open.spotify.com/artist/62jRIwQ6eUifptPOGRBHqd"
+        },
+        {
+          "name": "Oyije",
+          "url": "https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "Johay",
+          "url": "https://open.spotify.com/artist/5AMZQzbWtj39A4bRoObz9e"
+        },
+        {
+          "name": "Sekrade",
+          "url": "https://open.spotify.com/artist/1fxpWAJkirYUPNg2ASbeaG"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201935,
+      "name": "POSSIBLE - YAHCASA' 26",
+      "url": "https://open.spotify.com/track/1em3JiIYMoxVVGet6R5loZ"
+    },
+    {
+      "album": {
         "name": "Young & Chosen (Power Pack)",
         "url": "https://open.spotify.com/album/4tDlxe4KC1YJI2nV4owRn6"
       },
@@ -16342,7 +16486,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 192000,
       "name": "Praise You Again",
       "url": "https://open.spotify.com/track/3JMVP4qKYnAb9RiTRhsKti"
@@ -16518,7 +16662,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 184347,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/4kQlvea7CbFtYSiy9t3ykj"
@@ -17411,6 +17555,32 @@
     },
     {
       "album": {
+        "name": "sng bck t m",
+        "url": "https://open.spotify.com/album/2RJlVRT6eIRbSwZcbCV4Ix"
+      },
+      "artists": [
+        {
+          "name": "SizzlePRO",
+          "url": "https://open.spotify.com/artist/5XW6aqpVAAC7GJGvNeytdf"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "bbystps",
+          "url": "https://open.spotify.com/artist/68fREiCxsehECNOgx2dTym"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "sng bck t m",
+      "url": "https://open.spotify.com/track/2B8mScqVW6qoMBO4IhnBqG"
+    },
+    {
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/3rEGp31cARIIlik4WK9xyB"
       },
@@ -17580,7 +17750,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 164516,
       "name": "SOMETHING GOOD",
       "url": "https://open.spotify.com/track/17BDMrOQieQCZVNLRS5bRd"
@@ -19061,6 +19231,28 @@
     },
     {
       "album": {
+        "name": "This Joy",
+        "url": "https://open.spotify.com/album/4W6pK9Jwm5Rt8WGXuZaMij"
+      },
+      "artists": [
+        {
+          "name": "God in This Music",
+          "url": "https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K"
+        },
+        {
+          "name": "Seun Makay",
+          "url": "https://open.spotify.com/artist/6iTWmqUhTN5ig1UuD6lSQY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243692,
+      "name": "This Joy",
+      "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
+    },
+    {
+      "album": {
         "name": "This Kind God",
         "url": "https://open.spotify.com/album/4O7cTvDPnP48JCBNbASzck"
       },
@@ -20342,7 +20534,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 502918,
       "name": "We Raise A Sound",
       "url": "https://open.spotify.com/track/25roQKgZN5cEzxI9DmvJHX"
@@ -20390,7 +20582,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 194571,
       "name": "We will be many",
       "url": "https://open.spotify.com/track/55qF5hzyM6Vv02DOchu0jN"

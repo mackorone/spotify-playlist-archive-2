@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover: Jasmine Sandlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,554,109 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,554,500 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [Ban Ja Tu](https://open.spotify.com/track/1USl5qs5IzNfrUS3sCicNo) | [Charan Preet](https://open.spotify.com/artist/3XpPxH0e3jodx0QyLbHVfD), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Ban Ja Tu](https://open.spotify.com/album/6ZuTjqP8moTUaVFpX60neO) | 3:48 |
 | 50 | [DOPAMINE](https://open.spotify.com/track/3dw558iZgDA2BIeVd0taMM) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Gurjit Gill](https://open.spotify.com/artist/6LGVfT3wTKqzhx9RGvSvUd), [Lavish Dhiman](https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc) | [DOPAMINE](https://open.spotify.com/album/11bk9YxTwbYXl0BASHTKk7) | 2:32 |
 
-Snapshot ID: `AAAAAH0sXtCmVOJid5nRrvTSUusUNy4p`
+Snapshot ID: `AAAAADD7fx15yLPWQKsU2YSTJspTg2Cg`

@@ -1,12 +1,12 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59871,
+  "num_followers": 59867,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANu59O/T23dol07K4hjDAXS5/U07",
+  "snapshot_id": "AAAAAJkZTzDD0W1xboW6N8ovMGOZB/zn",
   "tracks": [
     {
       "added_at": "2026-06-25 21:00:31",
@@ -867,6 +867,22 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
+        "name": "en tunne",
+        "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
+      },
+      "artists": [
+        {
+          "name": "Ella Herold",
+          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
+        }
+      ],
+      "duration_ms": 181607,
+      "name": "en tunne",
+      "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
         "name": "Rockstar (feat. Janna)",
         "url": "https://open.spotify.com/album/4RvjDCkML2vMayyXsofQKZ"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 174900,
       "name": "Rockstar (feat. Janna)",
       "url": "https://open.spotify.com/track/5KWylYB9XbM8X0oQY2zvqR"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
-        "name": "en tunne",
-        "url": "https://open.spotify.com/album/6cDfwvDCGoGFCPRb5A4FHb"
-      },
-      "artists": [
-        {
-          "name": "Ella Herold",
-          "url": "https://open.spotify.com/artist/7sokmrbjchlLzeqcOrX9aM"
-        }
-      ],
-      "duration_ms": 181607,
-      "name": "en tunne",
-      "url": "https://open.spotify.com/track/6d3Wi6MvD5bxaPJajXBiZt"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Sulhanen",
-        "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
-      },
-      "artists": [
-        {
-          "name": "Aleksanteri Hakaniemi",
-          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Sulhanen",
-      "url": "https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Prima bailarina",
         "url": "https://open.spotify.com/album/40TSNJJdAQ5n5m7MvEiedF"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 136573,
       "name": "Bailarina",
       "url": "https://open.spotify.com/track/6PtNkBOcmmM4Pkn14U2cDk"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Sulhanen",
+        "url": "https://open.spotify.com/album/5FzkvrMQ05Q46wHqCYZz30"
+      },
+      "artists": [
+        {
+          "name": "Aleksanteri Hakaniemi",
+          "url": "https://open.spotify.com/artist/2KGbvHE2WfRazq4yE3pcWi"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Sulhanen",
+      "url": "https://open.spotify.com/track/0xbCCH7Gw9AmPBd1deLoDT"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Tilulilulauluja",
-        "url": "https://open.spotify.com/album/1PonGDfHC7GS5OFkPxOcRP"
+        "name": "Amarantti",
+        "url": "https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw"
       },
       "artists": [
         {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+          "name": "Coevisto",
+          "url": "https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr"
         }
       ],
-      "duration_ms": 247786,
-      "name": "Tilulilulauluja",
-      "url": "https://open.spotify.com/track/2MPahaLGhk0lFBJCmBbRy9"
+      "duration_ms": 212096,
+      "name": "Amarantti",
+      "url": "https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Amarantti",
-        "url": "https://open.spotify.com/album/5yo5CURDiY0HDFpzQW7skw"
+        "name": "Tilulilulauluja",
+        "url": "https://open.spotify.com/album/1PonGDfHC7GS5OFkPxOcRP"
       },
       "artists": [
         {
-          "name": "Coevisto",
-          "url": "https://open.spotify.com/artist/6ntNjeOd8U1y1cFSdp6isr"
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
         }
       ],
-      "duration_ms": 212096,
-      "name": "Amarantti",
-      "url": "https://open.spotify.com/track/5VylE5YOSWST1VuTpPplEo"
+      "duration_ms": 247786,
+      "name": "Tilulilulauluja",
+      "url": "https://open.spotify.com/track/2MPahaLGhk0lFBJCmBbRy9"
     },
     {
       "added_at": "2026-06-25 21:00:31",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-06-25 21:00:31",
       "album": {
-        "name": "Stiigerihai",
-        "url": "https://open.spotify.com/album/0C27iYyPp8qoy9W7dgmCC8"
-      },
-      "artists": [
-        {
-          "name": "STIG",
-          "url": "https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd"
-        }
-      ],
-      "duration_ms": 155573,
-      "name": "Stiigerihai",
-      "url": "https://open.spotify.com/track/6MPPUuAmlrMYfotZZmGbcC"
-    },
-    {
-      "added_at": "2026-06-25 21:00:31",
-      "album": {
         "name": "Rakastan teit\u00e4 kaikkia",
         "url": "https://open.spotify.com/album/07zrgkpshBt5YmV10Hwl9o"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 242640,
       "name": "Rakastan teit\u00e4 kaikkia",
       "url": "https://open.spotify.com/track/6HVdu7bH9m4IYcxnEY8Htk"
+    },
+    {
+      "added_at": "2026-06-25 21:00:31",
+      "album": {
+        "name": "Stiigerihai",
+        "url": "https://open.spotify.com/album/0C27iYyPp8qoy9W7dgmCC8"
+      },
+      "artists": [
+        {
+          "name": "STIG",
+          "url": "https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd"
+        }
+      ],
+      "duration_ms": 155573,
+      "name": "Stiigerihai",
+      "url": "https://open.spotify.com/track/6MPPUuAmlrMYfotZZmGbcC"
     },
     {
       "added_at": "2026-06-25 21:00:31",

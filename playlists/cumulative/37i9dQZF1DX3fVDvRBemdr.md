@@ -4,7 +4,7 @@
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Frank van Etten
 
-751 songs - 1 day 11 hr 58 min
+752 songs - 1 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Feestje](https://open.spotify.com/track/3qSOnPQwf2YmGjIKdipwaQ) | [Femke Hengeveld](https://open.spotify.com/artist/4UK3zaAUen6v98wEdv0gL5) | [Feestje](https://open.spotify.com/album/25omnEwBe9qcWD1AgjGlhZ) | 2:38 | 2026-07-02 |  |
 | [Femme Fatale](https://open.spotify.com/track/1boryOfIhzuquqa8MIOVm6) | [Spang!](https://open.spotify.com/artist/5RZqQNSyHP9Iovw5jC8S5r) | [Femme Fatale](https://open.spotify.com/album/6YXxW3FMQCcdX4V3MUNunK) | 2:34 | 2026-01-29 | 2026-04-24 |
 | [Fiesta Escalada](https://open.spotify.com/track/3qeU6sDU1cjZ0oCEh8YyFe) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Fiesta Escalada](https://open.spotify.com/album/3qEgGuGaHSRlGJhYO8oJu2) | 2:15 | 2026-04-02 | 2026-04-17 |
+| [Fissaman’s Friend](https://open.spotify.com/track/3tvMPPSySL0hqIPRk5Exwq) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Fissaman's Friend](https://open.spotify.com/album/01rR0r7etBk96z86dkwOXk) | 2:43 | 2026-07-30 |  |
 | [Fix Dit](https://open.spotify.com/track/0D8HUOCvEg6wI14uMRMMnp) | [Kevin Paré](https://open.spotify.com/artist/3foumwQXx47LtL6TcTLLrU) | [Fix Dit](https://open.spotify.com/album/1FcjHOstEG3MaZw3ancFSt) | 2:41 | 2024-10-18 | 2024-11-29 |
 | [Fiësta Aan De Costa](https://open.spotify.com/track/67vsk6xOZgeoerAW0pKrPo) | [Zero Zero Partycrowd](https://open.spotify.com/artist/4ce06ptLztQRG2EDteTm9A), [Zanger Alex](https://open.spotify.com/artist/7dX46liQvHKgYXekJTB2lO) | [Fiësta Aan De Costa](https://open.spotify.com/album/0VWHg9NNkhmp73iv6Usj6z) | 3:24 | 2026-06-25 |  |
 | [Flamingo \(Jij Bent Het Voor Mij\)](https://open.spotify.com/track/2x5y65TCqOrDFiuDs7Kk7D) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Flamingo \(Jij Bent Het Voor Mij\)](https://open.spotify.com/album/0EfaQbxpGrpG4Cu0UxKA7y) | 2:50 | 2024-06-13 | 2024-08-30 |

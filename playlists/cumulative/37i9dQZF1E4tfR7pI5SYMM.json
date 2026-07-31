@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Dan Fearon, Jon Drake, Facula and more",
+  "description": "With Motor Ballet, Facula, MIK's Reaction and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "How to Cast a Shadow",
+        "url": "https://open.spotify.com/album/3eQBBlOIQXMO1uKizbpJU6"
+      },
+      "artists": [
+        {
+          "name": "North Sea Echoes",
+          "url": "https://open.spotify.com/artist/2lXEyPmJvYFSO1QfRx9emZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262051,
+      "name": "A Time of Innocence and Purpose",
+      "url": "https://open.spotify.com/track/6OrjQQKrEVzPTzD3dsQKEr"
+    },
+    {
+      "album": {
         "name": "A Way Through",
         "url": "https://open.spotify.com/album/4IS6OxGwNHCrc96hIXrdrY"
       },
@@ -334,7 +352,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-21",
+      "date_removed": null,
       "duration_ms": 237219,
       "name": "Ain\u00b4t It Funny",
       "url": "https://open.spotify.com/track/79uKILLcGbaGLdGOmuHFBK"
@@ -800,7 +818,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 309600,
       "name": "Ay de ti",
       "url": "https://open.spotify.com/track/5Z3OEpSgEOPNaLlLQ7DX6e"
@@ -962,7 +980,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 245289,
       "name": "Beautiful Abyss",
       "url": "https://open.spotify.com/track/79sPXwFRCNCCVa0b5iKBA8"
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 254000,
       "name": "Beneath The Crypt",
       "url": "https://open.spotify.com/track/7JeJWFM0muMb7mO4Dhqb7p"
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 254374,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/2nq1Ih4df9PNbjwQObcFNk"
@@ -1394,7 +1412,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 206000,
       "name": "Broken In The Mirror",
       "url": "https://open.spotify.com/track/5xXad6bzVGjm63zksqEpbD"
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 220000,
       "name": "Cave Of Sorrows",
       "url": "https://open.spotify.com/track/0EGn0yNC0BCD8CsSLbMOhW"
@@ -2840,7 +2858,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -4022,7 +4040,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 168263,
       "name": "Fade",
       "url": "https://open.spotify.com/track/3jWK5AftB2MVpdVLQ0d5BV"
@@ -4310,7 +4328,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 192214,
       "name": "Farlig",
       "url": "https://open.spotify.com/track/7iJWmbm3MOQrJt2GTqbG0r"
@@ -4660,7 +4678,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 168882,
       "name": "Freaky Ho's",
       "url": "https://open.spotify.com/track/0ZNvLRHdoL8K1rCs2tmMWM"
@@ -4678,7 +4696,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 289258,
       "name": "From Out Of Nowhere",
       "url": "https://open.spotify.com/track/4n11EdStMQwFYN0fg884us"
@@ -5072,7 +5090,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 307720,
       "name": "Gos lea gumpe? - Var \u00e9 vargen",
       "url": "https://open.spotify.com/track/6Iqc0TVBSuTkNw9Krpe0NQ"
@@ -5256,7 +5274,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 227200,
       "name": "Have you got nothing left to Say",
       "url": "https://open.spotify.com/track/1OcLvOt48oLJqkhSTljR6b"
@@ -5728,7 +5746,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 297735,
       "name": "I Consider My Own",
       "url": "https://open.spotify.com/track/0NvwPZNNlbcuiiyyhexD7u"
@@ -6002,7 +6020,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 214697,
       "name": "Id\u017a, tam gdzie \u015bwit",
       "url": "https://open.spotify.com/track/3t1YhYeebs3Ll6t9OLhMBC"
@@ -6218,7 +6236,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -6254,7 +6272,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 167285,
       "name": "Iron Line",
       "url": "https://open.spotify.com/track/4NVfZCQJskqECiopkrCFws"
@@ -6402,7 +6420,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 208065,
       "name": "Joy and Pain",
       "url": "https://open.spotify.com/track/5RmyY86zrPFIERkdmQDECs"
@@ -6608,7 +6626,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 256000,
       "name": "Kith And Kin",
       "url": "https://open.spotify.com/track/6uxPXhostjxDEam7GzgdAU"
@@ -7132,7 +7150,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 238500,
       "name": "Lisa",
       "url": "https://open.spotify.com/track/6sshZNrIatwYG79atH8YRE"
@@ -8009,6 +8027,24 @@
     },
     {
       "album": {
+        "name": "Minnefond",
+        "url": "https://open.spotify.com/album/7kjUoXd95mEnGQJe5EgBSL"
+      },
+      "artists": [
+        {
+          "name": "Mareritt Larsen",
+          "url": "https://open.spotify.com/artist/1gSnGu4c6myeOdBBJIFDZ0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167051,
+      "name": "Minnefond",
+      "url": "https://open.spotify.com/track/4UzE44sX6mQj2uFxX1Byff"
+    },
+    {
+      "album": {
         "name": "Mirror Curse",
         "url": "https://open.spotify.com/album/5kHpnniuOlch6HiZaaI8p0"
       },
@@ -8796,7 +8832,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 160076,
       "name": "No Fun (In the World)",
       "url": "https://open.spotify.com/track/03Ov5dy5byg3PzkT0kEzXd"
@@ -9396,7 +9432,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -9522,7 +9558,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 165205,
       "name": "Page # 1",
       "url": "https://open.spotify.com/track/3BdeGaAzZ5nK71nA2TUpdg"
@@ -9998,7 +10034,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 236826,
       "name": "Plastic Time",
       "url": "https://open.spotify.com/track/72514NHDcDmKeWhzxgLwD4"
@@ -10273,6 +10309,24 @@
     },
     {
       "album": {
+        "name": "Pretty Things Don\u2019t Last",
+        "url": "https://open.spotify.com/album/0Bss4LGKhkQcZWxwnjxw3k"
+      },
+      "artists": [
+        {
+          "name": "Noir Addiction",
+          "url": "https://open.spotify.com/artist/0vployUBHcI3DnWWhkFZp2"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "Radio Funeral",
+      "url": "https://open.spotify.com/track/4o2WihseDJzDddV9lHYWYr"
+    },
+    {
+      "album": {
         "name": "Reckoning",
         "url": "https://open.spotify.com/album/6hQPtJEb3f0w627JfOV4fq"
       },
@@ -10306,6 +10360,24 @@
       "duration_ms": 232518,
       "name": "Remember to Dare",
       "url": "https://open.spotify.com/track/7wS811eAyJv2KWwro5DkdS"
+    },
+    {
+      "album": {
+        "name": "Wrath",
+        "url": "https://open.spotify.com/album/54AHAzsaxonEsEOoh6CACt"
+      },
+      "artists": [
+        {
+          "name": "Bleached Cross",
+          "url": "https://open.spotify.com/artist/1bRVEGHJTSS0KaEb8BTmDG"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175876,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/5F07aT7GVG4fncxU8yXS1R"
     },
     {
       "album": {
@@ -11160,7 +11232,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 242946,
       "name": "Skuggorna p\u00e5 v\u00e4gen hem",
       "url": "https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG"
@@ -11412,7 +11484,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 344139,
       "name": "Solitude/M\u00e4rk Hur V\u00e5r Skugga",
       "url": "https://open.spotify.com/track/5YRorSONmdeDIvCbcvwmhJ"
@@ -11556,7 +11628,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 278000,
       "name": "Soul Stealer",
       "url": "https://open.spotify.com/track/3p3PWpx8D5OQN0hwYPiyHx"
@@ -11646,7 +11718,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 270000,
       "name": "Spiral of the One",
       "url": "https://open.spotify.com/track/6GNiOmyqRA2RUNpcbIS5RF"
@@ -11834,7 +11906,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 331440,
       "name": "Stranden",
       "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
@@ -11888,7 +11960,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 225500,
       "name": "Strive",
       "url": "https://open.spotify.com/track/2jCSSSj7Dujf2liwUuz9DW"
@@ -11996,7 +12068,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 243142,
       "name": "Superphotonics",
       "url": "https://open.spotify.com/track/0FfD05OJgwrBESLOxxvpwF"
@@ -12620,7 +12692,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 246373,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy"
@@ -12858,7 +12930,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-20",
+      "date_removed": null,
       "duration_ms": 298320,
       "name": "The Loneliest Place",
       "url": "https://open.spotify.com/track/21y9EJHV1INbYDAvJkzDzP"
@@ -12894,7 +12966,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 136615,
       "name": "The magic juice",
       "url": "https://open.spotify.com/track/6Jx1x1y4H1wc0UxPAeJyei"
@@ -13296,7 +13368,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -14131,6 +14203,24 @@
     },
     {
       "album": {
+        "name": "Until The Dawn",
+        "url": "https://open.spotify.com/album/5kSZhv4iAoS2Kd93B3V5ne"
+      },
+      "artists": [
+        {
+          "name": "The Awakening",
+          "url": "https://open.spotify.com/artist/14II2rDdYF0IcCqSXAicFc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240176,
+      "name": "Until The Dawn",
+      "url": "https://open.spotify.com/track/6pq5vWGtEoXJAxpvLUL1EN"
+    },
+    {
+      "album": {
         "name": "Rainy night",
         "url": "https://open.spotify.com/album/7f365JQhbZYP2U1HZu4siR"
       },
@@ -14250,7 +14340,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 325000,
       "name": "Venceremos",
       "url": "https://open.spotify.com/track/2VV6JYiKbYFF9LtD6fJgHj"
@@ -14286,7 +14376,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 282133,
       "name": "Verschworen (Metropolis Remaster)",
       "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"
@@ -14460,6 +14550,24 @@
       "duration_ms": 130146,
       "name": "Vyftigers Tune",
       "url": "https://open.spotify.com/track/6dk9R3ra6KqchohUszVqXL"
+    },
+    {
+      "album": {
+        "name": "V\u00e6rstev\u00e6nna",
+        "url": "https://open.spotify.com/album/4gjHa1krm1x5BVjmplMk30"
+      },
+      "artists": [
+        {
+          "name": "Mareritt Larsen",
+          "url": "https://open.spotify.com/artist/1gSnGu4c6myeOdBBJIFDZ0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121973,
+      "name": "V\u00e6rstev\u00e6nna",
+      "url": "https://open.spotify.com/track/4PoNlPin3j1eXYFbJ8P4sV"
     },
     {
       "album": {
@@ -15336,7 +15444,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 231936,
       "name": "Your Heart in My Soul",
       "url": "https://open.spotify.com/track/1rwQ3Ej9SsGD5FTlmnMqw8"
@@ -15408,7 +15516,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 170000,
       "name": "Your way only looks better from your side",
       "url": "https://open.spotify.com/track/6UuRP24v7QsGid9g0znh46"
@@ -15524,7 +15632,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 217667,
       "name": "Zwischen Dreck Und Licht",
       "url": "https://open.spotify.com/track/4B55PaipFFMirV00ewuTmE"

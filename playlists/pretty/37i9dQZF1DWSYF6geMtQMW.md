@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: עדן חסון, אופק אדנק ואגם בוחבוט
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,077 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,169 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [שיר האותיות](https://open.spotify.com/track/4sfYpOI4olEEk7S4U7iFRw) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [ילדי השטח](https://open.spotify.com/album/64qnJgdIAEpXF0xo5X7GNO) | 4:07 |
 | 50 | [בית מזכוכית](https://open.spotify.com/track/1cAVtw64dnLHV6WYQiRFqg) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [בית מזכוכית](https://open.spotify.com/album/0crsmrq13oLGMIdUX6meI0) | 3:20 |
 
-Snapshot ID: `AAAAAAqKQ0Jl3ZrJ1HsyjYmGi68VoLPp`
+Snapshot ID: `AAAAAG1MGm8Tjype4EApHG/vqT9ljyET`

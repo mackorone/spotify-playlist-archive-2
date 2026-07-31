@@ -427,6 +427,32 @@
     },
     {
       "album": {
+        "name": "Busy",
+        "url": "https://open.spotify.com/album/57KTEOVfTlVBuV1X9xDCCh"
+      },
+      "artists": [
+        {
+          "name": "Venomster",
+          "url": "https://open.spotify.com/artist/2SlRFapcheN1Lm76rv7yiv"
+        },
+        {
+          "name": "Rapkid De Rapper",
+          "url": "https://open.spotify.com/artist/3pz23uw6AcKzg0ykTRIp9d"
+        },
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221369,
+      "name": "Busy",
+      "url": "https://open.spotify.com/track/4JzPk9MDtW1QqKBTYPYfPA"
+    },
+    {
+      "album": {
         "name": "Promise Land",
         "url": "https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV"
       },
@@ -442,6 +468,28 @@
       "duration_ms": 211862,
       "name": "By Now",
       "url": "https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7"
+    },
+    {
+      "album": {
+        "name": "By Now",
+        "url": "https://open.spotify.com/album/5Pd5gF3Icv4G5zj22bhPVT"
+      },
+      "artists": [
+        {
+          "name": "Evado",
+          "url": "https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "By Now",
+      "url": "https://open.spotify.com/track/4hDJudkT1bs6e7USICB6WJ"
     },
     {
       "album": {
@@ -1862,7 +1910,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 157647,
       "name": "NNA (New National Anthem)",
       "url": "https://open.spotify.com/track/2bW3qn062loP8qjOdZiieQ"
@@ -1928,7 +1976,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 149464,
       "name": "No Be Kai Kai",
       "url": "https://open.spotify.com/track/0yePA8wX5uWMny5RIvfvmf"
@@ -2018,6 +2066,32 @@
       "duration_ms": 200176,
       "name": "Normal Day",
       "url": "https://open.spotify.com/track/3RmdZ0LlVvTF0zI3aCSVcL"
+    },
+    {
+      "album": {
+        "name": "North & South",
+        "url": "https://open.spotify.com/album/2CXXKHfhLJZLj1zlZP1lzi"
+      },
+      "artists": [
+        {
+          "name": "Cleanblack Music",
+          "url": "https://open.spotify.com/artist/0eTh5bU55ifpbfoUpfuO24"
+        },
+        {
+          "name": "EESKAY",
+          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
+        },
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190967,
+      "name": "North South",
+      "url": "https://open.spotify.com/track/3lNiwgHf5K7lUQx9PRSLID"
     },
     {
       "album": {
@@ -2566,7 +2640,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 159428,
       "name": "Pompous",
       "url": "https://open.spotify.com/track/4EfHXHVSCcWt64s8EkBQ0j"
@@ -2636,7 +2710,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 118002,
       "name": "Prodigy",
       "url": "https://open.spotify.com/track/2ilGOknOLQd70l4ynK13WL"

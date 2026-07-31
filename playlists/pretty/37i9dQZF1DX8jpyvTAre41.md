@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Protomartyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,040 likes - 164 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,033 likes - 164 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 163 | [Mannequin](https://open.spotify.com/track/0HzaQMHVwbgeZSc93gE2Pm) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Chin Up, Beautiful](https://open.spotify.com/album/0kimNgdB69eNOuDf4xZ7PW) | 2:53 |
 | 164 | [Play Your Games](https://open.spotify.com/track/7JcDWPlzZWGrzaLaak3UG0) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Play Your Games](https://open.spotify.com/album/1lqgUoNJgAXvWSpnNWwXvh) | 3:15 |
 
-Snapshot ID: `AAAAAOJW6oHawgUirT6p5DUjZp0EGwAp`
+Snapshot ID: `AAAAAMU71rJah/kE/Xw/1q2xfEQ6XuRB`

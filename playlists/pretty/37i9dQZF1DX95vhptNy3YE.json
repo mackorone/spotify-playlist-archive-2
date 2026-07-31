@@ -1,12 +1,12 @@
 {
   "description": "Ci\u00e7a e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mund\u00e3o.",
-  "num_followers": 443754,
+  "num_followers": 443732,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADEPRPDNuFwOlYlMaFlpk0iFWLTc",
+  "snapshot_id": "AAAAAAW1xppsOmiiarH+15dNEGL8vfYm",
   "tracks": [
     {
       "added_at": "2026-07-27 16:34:30",
@@ -455,26 +455,18 @@
     {
       "added_at": "2026-07-27 16:34:30",
       "album": {
-        "name": "Como Descobrir",
-        "url": "https://open.spotify.com/album/2ovQQ83IF43peVUyEeLjra"
+        "name": "QUASE QUE FALEI TE AMO",
+        "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
       },
       "artists": [
         {
-          "name": "Pitiko",
-          "url": "https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn"
-        },
-        {
-          "name": "OfcNgtl",
-          "url": "https://open.spotify.com/artist/6rsTqpNzgrRmUI9KMuWKKU"
-        },
-        {
-          "name": "Pedro Apoema",
-          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Como Descobrir",
-      "url": "https://open.spotify.com/track/1epYqXNX0CfLidTDuVFuk8"
+      "duration_ms": 166058,
+      "name": "QUASE QUE FALEI TE AMO",
+      "url": "https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq"
     },
     {
       "added_at": "2026-07-27 16:34:30",
@@ -515,18 +507,26 @@
     {
       "added_at": "2026-07-27 16:34:30",
       "album": {
-        "name": "QUASE QUE FALEI TE AMO",
-        "url": "https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw"
+        "name": "Como Descobrir",
+        "url": "https://open.spotify.com/album/2ovQQ83IF43peVUyEeLjra"
       },
       "artists": [
         {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+          "name": "Pitiko",
+          "url": "https://open.spotify.com/artist/1sNDYyvEvLUHft9IZERyqn"
+        },
+        {
+          "name": "OfcNgtl",
+          "url": "https://open.spotify.com/artist/6rsTqpNzgrRmUI9KMuWKKU"
+        },
+        {
+          "name": "Pedro Apoema",
+          "url": "https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0"
         }
       ],
-      "duration_ms": 166058,
-      "name": "QUASE QUE FALEI TE AMO",
-      "url": "https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq"
+      "duration_ms": 176000,
+      "name": "Como Descobrir",
+      "url": "https://open.spotify.com/track/1epYqXNX0CfLidTDuVFuk8"
     },
     {
       "added_at": "2026-07-27 16:34:30",
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-07-27 16:34:30",
       "album": {
-        "name": "Endrick",
-        "url": "https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK"
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
       },
       "artists": [
         {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 140952,
-      "name": "Endrick",
-      "url": "https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY"
+      "duration_ms": 165249,
+      "name": "Whiskey Com \u00c1gua de Choro",
+      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
     },
     {
       "added_at": "2026-07-27 16:34:30",
@@ -779,18 +779,18 @@
     {
       "added_at": "2026-07-27 16:34:30",
       "album": {
-        "name": "Fragmentos",
-        "url": "https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb"
+        "name": "Endrick",
+        "url": "https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
         }
       ],
-      "duration_ms": 165249,
-      "name": "Whiskey Com \u00c1gua de Choro",
-      "url": "https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E"
+      "duration_ms": 140952,
+      "name": "Endrick",
+      "url": "https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY"
     },
     {
       "added_at": "2026-07-27 16:34:30",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Margaret",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Oskar Cyms",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -224,7 +224,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 153531,
       "name": "ADA",
       "url": "https://open.spotify.com/track/4TxgjXRNWI6IlKc1wRxjDg"
@@ -866,6 +866,24 @@
       "duration_ms": 270329,
       "name": "Bez kontaktu",
       "url": "https://open.spotify.com/track/0cXARNiffujbAjlJ6K2zER"
+    },
+    {
+      "album": {
+        "name": "Bez ko\u0144ca",
+        "url": "https://open.spotify.com/album/1j0BJwMQ93VjRqerPUfV5e"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "Bez ko\u0144ca",
+      "url": "https://open.spotify.com/track/65EGTb29Squ7K3HHh3sKi8"
     },
     {
       "album": {
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 158769,
       "name": "Burza",
       "url": "https://open.spotify.com/track/01LuM9pAxENlOFt4RtRbLy"
@@ -2943,6 +2961,28 @@
     },
     {
       "album": {
+        "name": "Daj mi zna\u0107",
+        "url": "https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        },
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179354,
+      "name": "Daj mi zna\u0107",
+      "url": "https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo"
+    },
+    {
+      "album": {
         "name": "daj zapomnie\u0107.",
         "url": "https://open.spotify.com/album/3TX0CdNwrvl7RdFiHgT3pE"
       },
@@ -3168,7 +3208,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 162721,
       "name": "Deszcz",
       "url": "https://open.spotify.com/track/0klL2cqshpRAOarhRRQxDL"
@@ -4094,7 +4134,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 187428,
       "name": "Dzie\u0144 dobry, to ja!",
       "url": "https://open.spotify.com/track/60xdzO5B20tWz6sRSyZcrs"
@@ -4792,6 +4832,24 @@
       "duration_ms": 181224,
       "name": "Gdy b\u0119dziesz sam",
       "url": "https://open.spotify.com/track/2D3KypXOFJWiZMz40ZwJCy"
+    },
+    {
+      "album": {
+        "name": "Gdyby kto\u015b pyta\u0142",
+        "url": "https://open.spotify.com/album/7dNF7MJWJdzJv4z7eeQqlk"
+      },
+      "artists": [
+        {
+          "name": "Natalia Grosiak",
+          "url": "https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177365,
+      "name": "Gdyby kto\u015b pyta\u0142",
+      "url": "https://open.spotify.com/track/5pjp4ydhdLaFOcZaQXDjkP"
     },
     {
       "album": {
@@ -9730,7 +9788,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 144586,
       "name": "NASA",
       "url": "https://open.spotify.com/track/4iFIvFP6aYf9luSL2ToG7R"
@@ -10548,6 +10606,28 @@
       "duration_ms": 238093,
       "name": "Niech \u017cyje bal",
       "url": "https://open.spotify.com/track/2pXPUEjpV3LCkK9rv0djby"
+    },
+    {
+      "album": {
+        "name": "NIEKO\u0143CZ\u0104CY Z\u0141Y SEN",
+        "url": "https://open.spotify.com/album/3ZoVsaCCDboUj0HUQlHRjd"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "NIEKO\u0143CZ\u0104CY Z\u0141Y SEN",
+      "url": "https://open.spotify.com/track/3FdtNDLwfHRaStWQzCdXsQ"
     },
     {
       "album": {
@@ -12326,6 +12406,24 @@
       "duration_ms": 156027,
       "name": "Po blady \u015bwit",
       "url": "https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO"
+    },
+    {
+      "album": {
+        "name": "Po nocach",
+        "url": "https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC"
+      },
+      "artists": [
+        {
+          "name": "Natalia Zast\u0119pa",
+          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211732,
+      "name": "Po nocach",
+      "url": "https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy"
     },
     {
       "album": {
@@ -17356,7 +17454,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 150272,
       "name": "WODA Z LODEM",
       "url": "https://open.spotify.com/track/54G8tGLnsGr9uXaTVSMLyi"
@@ -17948,6 +18046,28 @@
       "duration_ms": 200610,
       "name": "Yeti",
       "url": "https://open.spotify.com/track/7DYO7Dj1RlPPnCpXpB5ynK"
+    },
+    {
+      "album": {
+        "name": "YEYEYO (the Official Song of the FIFA U-20 Women's World Cup Poland 2026\u2122)",
+        "url": "https://open.spotify.com/album/4aZ0VDwzbRwfvrfF4HLqNo"
+      },
+      "artists": [
+        {
+          "name": "BLANKA",
+          "url": "https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "YEYEYO - the Official Song of the FIFA U-20 Women's World Cup Poland 2026\u2122",
+      "url": "https://open.spotify.com/track/02V6SXg0p1VHWhNil7iRS6"
     },
     {
       "album": {

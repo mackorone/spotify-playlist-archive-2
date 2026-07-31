@@ -1,12 +1,12 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: sunwoojunga(\uc120\uc6b0\uc815\uc544) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 414864,
+  "num_followers": 414840,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAPLMUs0F4BnyIWPdrmKS0X4F5lO",
+  "snapshot_id": "AAAAAIiwRJ3qxWkZH6OVZXDR8OPT8Mwa",
   "tracks": [
     {
       "added_at": "2026-07-24 08:28:05",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
-        "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
-        "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
-      },
-      "artists": [
-        {
-          "name": "KIM BUMSOO",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 244128,
-      "name": "\ubcf4\uace0\uc2f6\ub2e4",
-      "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 232026,
       "name": "When it snows(Feat.Heize)",
       "url": "https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
+        "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
+        "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
+      },
+      "artists": [
+        {
+          "name": "KIM BUMSOO",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        }
+      ],
+      "duration_ms": 244128,
+      "name": "\ubcf4\uace0\uc2f6\ub2e4",
+      "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
     },
     {
       "added_at": "2026-07-24 08:28:05",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Soju Hanjan",
-      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 274400,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Soju Hanjan",
+      "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
     },
     {
       "added_at": "2026-07-24 08:28:05",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
-        "name": "Rain on me",
-        "url": "https://open.spotify.com/album/7DFohRoscL9ora3kVf1z3p"
-      },
-      "artists": [
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Rain on me",
-      "url": "https://open.spotify.com/track/7cR31CCUrUv3xBPLwV8DKl"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
       },
@@ -671,18 +655,18 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+        "name": "Rain on me",
+        "url": "https://open.spotify.com/album/7DFohRoscL9ora3kVf1z3p"
       },
       "artists": [
         {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
         }
       ],
-      "duration_ms": 215946,
-      "name": "About Time",
-      "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
+      "duration_ms": 253000,
+      "name": "Rain on me",
+      "url": "https://open.spotify.com/track/7cR31CCUrUv3xBPLwV8DKl"
     },
     {
       "added_at": "2026-07-24 08:28:05",
@@ -703,6 +687,22 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/5QZTJG7X1ocodzYKmyhFoD"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
         "name": "Knock",
         "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Arcadia",
-      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/2FHD4nJJF6KBh5fVPRvYEO"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/3idsUT3KIpNhLwL3AJkhEn"
     },
     {
       "added_at": "2026-07-24 08:28:05",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
-        "name": "Purpose - The 2nd Album",
-        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 239499,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
         "name": "Back In Time (The Moon during the Day X K.will)",
         "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 225120,
       "name": "Back In Time (The Moon during the Day X K.will)",
       "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
     },
     {
       "added_at": "2026-07-24 08:28:05",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee Sora",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
         "name": "Bye Bye",
         "url": "https://open.spotify.com/album/70b2w1pmeZudQF8CNbWtCn"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 268000,
       "name": "Bye Bye (Feat. LEE MU JIN)",
       "url": "https://open.spotify.com/track/76vu2smcuQgil4Xqa5yAYv"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee Sora",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2026-07-24 08:28:05",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
-        "name": "\uc815\uc778 Jung In from Andromeda",
-        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
-      },
-      "artists": [
-        {
-          "name": "Jung In",
-          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
-        }
-      ],
-      "duration_ms": 202946,
-      "name": "\ubbf8\uc6cc\uc694 I Hate You",
-      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
         "name": "I Miss You So Much",
         "url": "https://open.spotify.com/album/50HgFoUXWE2jT2eABh4DcM"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 222000,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
+        "name": "\uc815\uc778 Jung In from Andromeda",
+        "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
+      },
+      "artists": [
+        {
+          "name": "Jung In",
+          "url": "https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM"
+        }
+      ],
+      "duration_ms": 202946,
+      "name": "\ubbf8\uc6cc\uc694 I Hate You",
+      "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
     },
     {
       "added_at": "2026-07-24 08:28:05",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
-        "name": "Don't Be",
-        "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Don't Be",
-      "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
         "name": "\uae34 \ubc24 (feat. GIRIBOY)",
         "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
+        "name": "Don't Be",
+        "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Don't Be",
+      "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
     },
     {
       "added_at": "2026-07-24 08:28:05",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
         "name": "Monday Kiz's Footprints Vol.3 With Lee Hong Gi (FT Island)",
         "url": "https://open.spotify.com/album/4ZXj9cKzcIwvWeeF9q1L2M"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 310213,
       "name": "A Person Closer to Tears (2026)",
       "url": "https://open.spotify.com/track/6jVVRZdkLkT4jcW4Wc8eDo"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 144960,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
     },
     {
       "added_at": "2026-07-24 08:28:05",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/3DBcr68sNqelCiUNAV5PdB"
-      },
-      "artists": [
-        {
-          "name": "LEECHANGSUB",
-          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/2BOh2a5CH0xGYCBx66CwsV"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
         "name": "Haze",
         "url": "https://open.spotify.com/album/2a8lS3EXK9D9kLDtCmzgmI"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 198547,
       "name": "Haze",
       "url": "https://open.spotify.com/track/0Vp1xTot1eXBXLzEpphGGa"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/3DBcr68sNqelCiUNAV5PdB"
+      },
+      "artists": [
+        {
+          "name": "LEECHANGSUB",
+          "url": "https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/2BOh2a5CH0xGYCBx66CwsV"
     },
     {
       "added_at": "2026-07-24 08:28:05",
@@ -1479,6 +1479,42 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
+        "name": "The girl who resembles you",
+        "url": "https://open.spotify.com/album/5k5zP2tp6VoOWIlDcJWZpz"
+      },
+      "artists": [
+        {
+          "name": "Hwang In Wook",
+          "url": "https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq"
+        },
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "The girl who resembles you (feat. Ha Yea Song)",
+      "url": "https://open.spotify.com/track/1851TpHKK4pmMVBsqZQZer"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
+        "name": "YOUNHA 7th Album 'GROWTH THEORY'",
+        "url": "https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Sun\ufb01sh",
+      "url": "https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
         "name": "HOSPITAL PLAYLIST Season2, Pt. 10 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
       },
@@ -1515,26 +1551,6 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
-        "name": "The girl who resembles you",
-        "url": "https://open.spotify.com/album/5k5zP2tp6VoOWIlDcJWZpz"
-      },
-      "artists": [
-        {
-          "name": "Hwang In Wook",
-          "url": "https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq"
-        },
-        {
-          "name": "Ha Yea Song",
-          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "The girl who resembles you (feat. Ha Yea Song)",
-      "url": "https://open.spotify.com/track/1851TpHKK4pmMVBsqZQZer"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
         "name": "Mother Nature (H\u2082O)",
         "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 232586,
       "name": "Mother Nature (H\u2082O)",
       "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
-        "name": "YOUNHA 7th Album 'GROWTH THEORY'",
-        "url": "https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Sun\ufb01sh",
-      "url": "https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU"
     },
     {
       "added_at": "2026-07-24 08:28:05",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Invitation",
+      "url": "https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA"
+    },
+    {
+      "added_at": "2026-07-24 08:28:05",
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/7ouOKBMuNwrBddH82YWTmO"
       },
@@ -1651,38 +1667,18 @@
     {
       "added_at": "2026-07-24 08:28:05",
       "album": {
-        "name": "Invitation",
-        "url": "https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2"
+        "name": "I Can't Help It",
+        "url": "https://open.spotify.com/album/1lLdKbEjOACowN4vRgseNd"
       },
       "artists": [
         {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Invitation",
-      "url": "https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA"
-    },
-    {
-      "added_at": "2026-07-24 08:28:05",
-      "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 172906,
-      "name": "Complications (ft. SOLE)",
-      "url": "https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R"
+      "duration_ms": 224480,
+      "name": "I Can't Help It (Prod. Jungkey)",
+      "url": "https://open.spotify.com/track/60lbmSHbESKwdX4v43CxgV"
     }
   ],
   "unique_name": "v o K a l",

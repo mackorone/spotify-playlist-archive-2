@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGaUZreLKX1GpSV05ZAseJxbAWEZ",
+  "snapshot_id": "AAAAAANDdkD9alIWVWlQEZLg/oSgOk3u",
   "tracks": [
     {
       "added_at": "2024-01-10 16:06:35",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
-      },
-      "artists": [
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Tinka",
         "url": "https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 199500,
       "name": "Tinka",
       "url": "https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Wana",
-        "url": "https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm"
-      },
-      "artists": [
-        {
-          "name": "nour",
-          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Wana",
-      "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Weird",
         "url": "https://open.spotify.com/album/7n95zSWEhljBwhZnbteffk"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 216234,
       "name": "Weird",
       "url": "https://open.spotify.com/track/6fDLQn0vtJR94V55oBANZC"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Wana",
+        "url": "https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm"
+      },
+      "artists": [
+        {
+          "name": "nour",
+          "url": "https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Wana",
+      "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
-      },
-      "artists": [
-        {
-          "name": "Konyikeh",
-          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
-        }
-      ],
-      "duration_ms": 140898,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Springtime Red Tulips",
         "url": "https://open.spotify.com/album/42pl1MIpxGddTozmgG0or1"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 274976,
       "name": "Springtime Red Tulips",
       "url": "https://open.spotify.com/track/7jrwX0azm3t7IHqR3B0jNe"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "duration_ms": 140898,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Sophie",
-        "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
-      },
-      "artists": [
-        {
-          "name": "UCHE YARA",
-          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
-        }
-      ],
-      "duration_ms": 194430,
-      "name": "Sophie",
-      "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Best Case Girl",
         "url": "https://open.spotify.com/album/4xPgs4mLTECXBQEjEkq5mu"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 171500,
       "name": "Best Case Girl",
       "url": "https://open.spotify.com/track/7keAG1RvGg0pd3CExIVwu0"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Sophie",
+        "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
+      },
+      "artists": [
+        {
+          "name": "UCHE YARA",
+          "url": "https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj"
+        }
+      ],
+      "duration_ms": 194430,
+      "name": "Sophie",
+      "url": "https://open.spotify.com/track/4ySch7clKEIT3h3GXDNBWR"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "little miss misogyny",
-        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
-      },
-      "artists": [
-        {
-          "name": "audalei",
-          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
-        }
-      ],
-      "duration_ms": 147205,
-      "name": "little miss misogyny",
-      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "HYPNOTIC",
         "url": "https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 134260,
       "name": "HYPNOTIC",
       "url": "https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "little miss misogyny",
+        "url": "https://open.spotify.com/album/1NZCWSVnjkbrWpCK8YgkbS"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "duration_ms": 147205,
+      "name": "little miss misogyny",
+      "url": "https://open.spotify.com/track/6uKxavyhKpvneaIAx0ve4D"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "Relate",
+        "url": "https://open.spotify.com/album/4VvDBafoRkSmxDGrhrqdTw"
+      },
+      "artists": [
+        {
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        }
+      ],
+      "duration_ms": 168973,
+      "name": "Relate",
+      "url": "https://open.spotify.com/track/4J7kguCkjsAzsR5Iv8RPmV"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "Can't Fake What You Feel",
         "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 171052,
       "name": "Can't Fake What You Feel",
       "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "Relate",
-        "url": "https://open.spotify.com/album/4VvDBafoRkSmxDGrhrqdTw"
-      },
-      "artists": [
-        {
-          "name": "Guchi",
-          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
-        }
-      ],
-      "duration_ms": 168973,
-      "name": "Relate",
-      "url": "https://open.spotify.com/track/4J7kguCkjsAzsR5Iv8RPmV"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "what u like",
-        "url": "https://open.spotify.com/album/1j0dMjslAqM7ThtxAlcZpo"
-      },
-      "artists": [
-        {
-          "name": "Drewbyrd",
-          "url": "https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH"
-        }
-      ],
-      "duration_ms": 168621,
-      "name": "what u like",
-      "url": "https://open.spotify.com/track/2cwSt9hOew2yfR3RMxDcHD"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Colder in June",
         "url": "https://open.spotify.com/album/5owTlT3SEPJhBSbVGFW0bn"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Once Upon The End",
-        "url": "https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ"
+        "name": "what u like",
+        "url": "https://open.spotify.com/album/1j0dMjslAqM7ThtxAlcZpo"
       },
       "artists": [
         {
-          "name": "mindfreakk!",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+          "name": "Drewbyrd",
+          "url": "https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH"
         }
       ],
-      "duration_ms": 279183,
-      "name": "Once Upon The End",
-      "url": "https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9"
+      "duration_ms": 168621,
+      "name": "what u like",
+      "url": "https://open.spotify.com/track/2cwSt9hOew2yfR3RMxDcHD"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1363,6 +1347,22 @@
       "duration_ms": 178826,
       "name": "Funny Black Lines",
       "url": "https://open.spotify.com/track/6X6Znaazqzi1EHrGKPz2n2"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Once Upon The End",
+        "url": "https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ"
+      },
+      "artists": [
+        {
+          "name": "mindfreakk!",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "Once Upon The End",
+      "url": "https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7"
-      },
-      "artists": [
-        {
-          "name": "Dot.",
-          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
-        }
-      ],
-      "duration_ms": 200724,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "AAAaaahhhhh!!!!",
         "url": "https://open.spotify.com/album/6BrDEEOfUX64GrHVksTYrq"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 109800,
       "name": "Un ni\u00f1ato en mi cama",
       "url": "https://open.spotify.com/track/5uaH0LvWQVsQpH70Uq7aIv"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "duration_ms": 200724,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "Black Sheep",
+        "url": "https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w"
+      },
+      "artists": [
+        {
+          "name": "Leah Mason",
+          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+        }
+      ],
+      "duration_ms": 210315,
+      "name": "Black Sheep",
+      "url": "https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "Criteria",
         "url": "https://open.spotify.com/album/63bRjCDnfaA0fJav1Kcme6"
       },
@@ -1603,22 +1619,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Czuj\u0119, wi\u0119c jestem?",
-        "url": "https://open.spotify.com/album/0watoDNiZdQSkbNesj21rq"
-      },
-      "artists": [
-        {
-          "name": "Daniel Godson",
-          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
-        }
-      ],
-      "duration_ms": 190206,
-      "name": "Czuj\u0119, wi\u0119c jestem?",
-      "url": "https://open.spotify.com/track/0MAuyJNMARuj6WtOXeI96x"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Don't Leave",
         "url": "https://open.spotify.com/album/709IXOjBvnPvOtoQZmPrX4"
       },
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Black Sheep",
-        "url": "https://open.spotify.com/album/2yRCk1tEQEfsoacF0isC5w"
+        "name": "Czuj\u0119, wi\u0119c jestem?",
+        "url": "https://open.spotify.com/album/0watoDNiZdQSkbNesj21rq"
       },
       "artists": [
         {
-          "name": "Leah Mason",
-          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+          "name": "Daniel Godson",
+          "url": "https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU"
         }
       ],
-      "duration_ms": 210315,
-      "name": "Black Sheep",
-      "url": "https://open.spotify.com/track/1mhvJmzZDow4Nfcb2tSG6k"
+      "duration_ms": 190206,
+      "name": "Czuj\u0119, wi\u0119c jestem?",
+      "url": "https://open.spotify.com/track/0MAuyJNMARuj6WtOXeI96x"
     },
     {
       "added_at": "2024-01-10 16:06:35",

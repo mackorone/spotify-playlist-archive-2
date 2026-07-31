@@ -1,12 +1,12 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 915166,
+  "num_followers": 915274,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEb7KODSNzi/WUyQuxI4t7Wu6csh",
+  "snapshot_id": "AAAAAKcQIOMui6N5+LQbpvp7D/uL1LMU",
   "tracks": [
     {
       "added_at": "2026-07-28 06:53:17",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "Doin' It All For The Culture",
+        "url": "https://open.spotify.com/album/4pCW6biKpm6hJbQUwVMD2w"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 343414,
+      "name": "Doin' It All For The Culture",
+      "url": "https://open.spotify.com/track/40fHcs9WzWosKvLO0dq3O8"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "Above",
         "url": "https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I"
       },
@@ -519,6 +535,22 @@
       "duration_ms": 287500,
       "name": "Writings",
       "url": "https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
+        "name": "Boho",
+        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Boho",
+      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -547,46 +579,22 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "Maithori",
-        "url": "https://open.spotify.com/album/1BuOAjhPeakuaULbB4sWL9"
+        "name": "Kamwana",
+        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
       },
       "artists": [
         {
-          "name": "Nitefreak",
-          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
         },
         {
-          "name": "Frigid Armadillo",
-          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
-        },
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Maithori",
-      "url": "https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Boho",
-        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Boho",
-      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
+      "duration_ms": 152975,
+      "name": "Kamwana",
+      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -659,6 +667,34 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "Maithori",
+        "url": "https://open.spotify.com/album/1BuOAjhPeakuaULbB4sWL9"
+      },
+      "artists": [
+        {
+          "name": "Nitefreak",
+          "url": "https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"
+        },
+        {
+          "name": "Frigid Armadillo",
+          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
+        },
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Maithori",
+      "url": "https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "Fata Morgana",
         "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
       },
@@ -671,22 +707,6 @@
       "duration_ms": 309680,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Hidden Garden",
-        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 297802,
-      "name": "Hidden Garden",
-      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -711,6 +731,22 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "Hidden Garden",
+        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 297802,
+      "name": "Hidden Garden",
+      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "Salaam",
         "url": "https://open.spotify.com/album/5vygAJ5hmJWEhwQjMMRhGX"
       },
@@ -731,6 +767,22 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/1w5eD6s225bx4Hj2UB18yD"
+      },
+      "artists": [
+        {
+          "name": "Solkatt",
+          "url": "https://open.spotify.com/artist/1G79HjKLqjevxhllvfICNl"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/2DI6ENBWR8yKF6g4OyWaIV"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "La China",
         "url": "https://open.spotify.com/album/4EfOTvFqlQGRrr2Th2rGc2"
       },
@@ -747,26 +799,6 @@
       "duration_ms": 263731,
       "name": "La China",
       "url": "https://open.spotify.com/track/6bWqpA7ytZzTdPZcmJmYzn"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Kamwana",
-        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
-      },
-      "artists": [
-        {
-          "name": "Sama (US)",
-          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 152975,
-      "name": "Kamwana",
-      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -799,22 +831,6 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "No Limit",
-        "url": "https://open.spotify.com/album/1w5eD6s225bx4Hj2UB18yD"
-      },
-      "artists": [
-        {
-          "name": "Solkatt",
-          "url": "https://open.spotify.com/artist/1G79HjKLqjevxhllvfICNl"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/2DI6ENBWR8yKF6g4OyWaIV"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
         "name": "Karanfilce Devojce (PACHIRA Remix)",
         "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
       },
@@ -835,6 +851,22 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "Rummen",
+        "url": "https://open.spotify.com/album/12FPrXQxaxUUvhMFUEZpM3"
+      },
+      "artists": [
+        {
+          "name": "Pulli & Chomba",
+          "url": "https://open.spotify.com/artist/2GAK48Z5uQqNg6aOe2b5yQ"
+        }
+      ],
+      "duration_ms": 466750,
+      "name": "Rummen",
+      "url": "https://open.spotify.com/track/6SAhql2LjyxheYXSRfNTNz"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "La Isla",
         "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
@@ -851,38 +883,6 @@
       "duration_ms": 193306,
       "name": "La Isla - Radio Version",
       "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Doin' It All For The Culture",
-        "url": "https://open.spotify.com/album/4pCW6biKpm6hJbQUwVMD2w"
-      },
-      "artists": [
-        {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
-        }
-      ],
-      "duration_ms": 343414,
-      "name": "Doin' It All For The Culture",
-      "url": "https://open.spotify.com/track/40fHcs9WzWosKvLO0dq3O8"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Rummen",
-        "url": "https://open.spotify.com/album/12FPrXQxaxUUvhMFUEZpM3"
-      },
-      "artists": [
-        {
-          "name": "Pulli & Chomba",
-          "url": "https://open.spotify.com/artist/2GAK48Z5uQqNg6aOe2b5yQ"
-        }
-      ],
-      "duration_ms": 466750,
-      "name": "Rummen",
-      "url": "https://open.spotify.com/track/6SAhql2LjyxheYXSRfNTNz"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -999,6 +999,26 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "Alongside",
+        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
+      },
+      "artists": [
+        {
+          "name": "Nu",
+          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
+        },
+        {
+          "name": "Omeria",
+          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
+        }
+      ],
+      "duration_ms": 410000,
+      "name": "Alongside - Omeria & NU Edit",
+      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "I Am Free",
         "url": "https://open.spotify.com/album/5tzqzDJhJ9bKuDY5xMUkLj"
       },
@@ -1019,22 +1039,18 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "Alongside",
-        "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
+        "name": "Thierry",
+        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
       },
       "artists": [
-        {
-          "name": "Nu",
-          "url": "https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e"
-        },
         {
           "name": "Omeria",
           "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
         }
       ],
-      "duration_ms": 410000,
-      "name": "Alongside - Omeria & NU Edit",
-      "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
+      "duration_ms": 375652,
+      "name": "Thierry",
+      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -1087,22 +1103,6 @@
       "duration_ms": 294661,
       "name": "El Dolor",
       "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Thierry",
-        "url": "https://open.spotify.com/album/52FNJyHCljfACoigbzPNkk"
-      },
-      "artists": [
-        {
-          "name": "Omeria",
-          "url": "https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl"
-        }
-      ],
-      "duration_ms": 375652,
-      "name": "Thierry",
-      "url": "https://open.spotify.com/track/7p9J37MMYyR9vqjCuK9Qd0"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/1tfKXKwMc6sIxja3j9dJbM"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 416014,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/0w5X1y8atCbmQrm2F6Ffil"
-      },
-      "artists": [
-        {
-          "name": "Palo Canto",
-          "url": "https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP"
-        }
-      ],
-      "duration_ms": 187722,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/2Z9HF5ap9bcBf0jvn02ioY"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
         "name": "Ritmo",
         "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 115090,
       "name": "Terra",
       "url": "https://open.spotify.com/track/13JC5nvIbCbxTrHqFLvwPM"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0w5X1y8atCbmQrm2F6Ffil"
+      },
+      "artists": [
+        {
+          "name": "Palo Canto",
+          "url": "https://open.spotify.com/artist/5RfrPNIPXTpOEr7wVHotRP"
+        }
+      ],
+      "duration_ms": 187722,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/2Z9HF5ap9bcBf0jvn02ioY"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -1411,30 +1411,6 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "Where's My People",
-        "url": "https://open.spotify.com/album/2Om6QigvsPDH9iJdJKf7U2"
-      },
-      "artists": [
-        {
-          "name": "Anton Khabbaz",
-          "url": "https://open.spotify.com/artist/6a9TboOy56IJPOQXnwv3Zu"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        },
-        {
-          "name": "mor\u2022a\u2022mor",
-          "url": "https://open.spotify.com/artist/6wUeDwFETrFhhC1GaKMC42"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Where's My People",
-      "url": "https://open.spotify.com/track/708FxDbsd0oYVzvslmMDl3"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
         "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
         "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
       },
@@ -1467,6 +1443,30 @@
       "duration_ms": 328912,
       "name": "Quem Sou Eu",
       "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
+        "name": "Where's My People",
+        "url": "https://open.spotify.com/album/2Om6QigvsPDH9iJdJKf7U2"
+      },
+      "artists": [
+        {
+          "name": "Anton Khabbaz",
+          "url": "https://open.spotify.com/artist/6a9TboOy56IJPOQXnwv3Zu"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        },
+        {
+          "name": "mor\u2022a\u2022mor",
+          "url": "https://open.spotify.com/artist/6wUeDwFETrFhhC1GaKMC42"
+        }
+      ],
+      "duration_ms": 171840,
+      "name": "Where's My People",
+      "url": "https://open.spotify.com/track/708FxDbsd0oYVzvslmMDl3"
     },
     {
       "added_at": "2026-07-28 06:53:17",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Dany Ome & Kevincito El 13",
-  "num_followers": 167382,
+  "num_followers": 167416,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFyt21IAWDPJ7ewh9JwxhH9HZaeb",
+  "snapshot_id": "AAAAANjJ4gng2WwZ41CpgUMhodlQQu7e",
   "tracks": [
     {
       "added_at": "2026-07-17 04:01:27",
@@ -503,6 +503,26 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
+        "name": "Imaginaciones M\u00edas",
+        "url": "https://open.spotify.com/album/4pPtByLZrHAvku5YHRcNVI"
+      },
+      "artists": [
+        {
+          "name": "Bebeshito",
+          "url": "https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "duration_ms": 185716,
+      "name": "Imaginaciones M\u00edas - Prod. by Dj Honda",
+      "url": "https://open.spotify.com/track/4GEo3qxuBxp7nmEn9cbPcO"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
         "name": "Te Echo de Menos",
         "url": "https://open.spotify.com/album/5ncfVlBpF1SnUr4dpC6p6G"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 161725,
       "name": "Te Echo de Menos",
       "url": "https://open.spotify.com/track/1aQCtqOkz7UQDvGignacjA"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
-        "name": "Imaginaciones M\u00edas",
-        "url": "https://open.spotify.com/album/4pPtByLZrHAvku5YHRcNVI"
-      },
-      "artists": [
-        {
-          "name": "Bebeshito",
-          "url": "https://open.spotify.com/artist/5f609sV0zZb4kbsxm00cu7"
-        },
-        {
-          "name": "Dj Honda",
-          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
-        }
-      ],
-      "duration_ms": 185716,
-      "name": "Imaginaciones M\u00edas - Prod. by Dj Honda",
-      "url": "https://open.spotify.com/track/4GEo3qxuBxp7nmEn9cbPcO"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "Yo Dar\u00eda",
-        "url": "https://open.spotify.com/album/3OGhgkFFPgCgr9wRgn3AES"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        }
-      ],
-      "duration_ms": 222239,
-      "name": "Yo Dar\u00eda",
-      "url": "https://open.spotify.com/track/5o9fGDN9WzY6cL3d4EwhiQ"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
         "name": "Papita Frita",
         "url": "https://open.spotify.com/album/5hWtMDpR5ID7uqtezFcVQo"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 167981,
       "name": "Papita Frita - Prod. by Ernesto Losa x Mauro El C\u00f3digo Secreto x Roberto Ferrante",
       "url": "https://open.spotify.com/track/4Q5haXnrTisp0rMaZYYaL4"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
+        "name": "Yo Dar\u00eda",
+        "url": "https://open.spotify.com/album/3OGhgkFFPgCgr9wRgn3AES"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        }
+      ],
+      "duration_ms": 222239,
+      "name": "Yo Dar\u00eda",
+      "url": "https://open.spotify.com/track/5o9fGDN9WzY6cL3d4EwhiQ"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
         "name": "POQUITICO",
         "url": "https://open.spotify.com/album/6qHvjG50ACS7ELdCLBmOFT"
       },
@@ -767,22 +751,18 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "LA LA LA",
-        "url": "https://open.spotify.com/album/0Ebtd1t4tY0CdyMbM4STzP"
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
       },
       "artists": [
         {
-          "name": "Anyelazo",
-          "url": "https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy"
-        },
-        {
-          "name": "Gallery Music",
-          "url": "https://open.spotify.com/artist/1qzFvKHuaRKKDUPrHlSGgV"
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
         }
       ],
-      "duration_ms": 132927,
-      "name": "LA LA LA",
-      "url": "https://open.spotify.com/track/3yu9nhgkR87xcxoSbI2c3I"
+      "duration_ms": 190909,
+      "name": "Qui\u00e9reme",
+      "url": "https://open.spotify.com/track/649tz8MtbCHSTEzNBw7c1Q"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -811,6 +791,26 @@
       "duration_ms": 219107,
       "name": "E-Charla",
       "url": "https://open.spotify.com/track/2xYin099dsquBdgTEQe4Oh"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
+        "name": "LA LA LA",
+        "url": "https://open.spotify.com/album/0Ebtd1t4tY0CdyMbM4STzP"
+      },
+      "artists": [
+        {
+          "name": "Anyelazo",
+          "url": "https://open.spotify.com/artist/5AcUj97EYhmrk469QRbBRy"
+        },
+        {
+          "name": "Gallery Music",
+          "url": "https://open.spotify.com/artist/1qzFvKHuaRKKDUPrHlSGgV"
+        }
+      ],
+      "duration_ms": 132927,
+      "name": "LA LA LA",
+      "url": "https://open.spotify.com/track/3yu9nhgkR87xcxoSbI2c3I"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -923,6 +923,30 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
+        "name": "MARIDON",
+        "url": "https://open.spotify.com/album/2u1vOUpHwt0zGSZPmMsOnH"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        }
+      ],
+      "duration_ms": 169611,
+      "name": "MARIDON",
+      "url": "https://open.spotify.com/track/631ybVLS21A3wY9zmHOsrw"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
         "name": "10 \u00c9xitos Duros",
         "url": "https://open.spotify.com/album/1AQFotaUbgyNHEg7BzgGPo"
       },
@@ -951,30 +975,6 @@
       "duration_ms": 201000,
       "name": "Washypupa",
       "url": "https://open.spotify.com/track/2hjFPnrrbOk13flhIo2LuN"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
-        "name": "MARIDON",
-        "url": "https://open.spotify.com/album/2u1vOUpHwt0zGSZPmMsOnH"
-      },
-      "artists": [
-        {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
-        },
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
-        },
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        }
-      ],
-      "duration_ms": 169611,
-      "name": "MARIDON",
-      "url": "https://open.spotify.com/track/631ybVLS21A3wY9zmHOsrw"
     },
     {
       "added_at": "2026-07-17 04:01:27",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-07-17 04:01:27",
       "album": {
-        "name": "Se asfixi\u00f3",
-        "url": "https://open.spotify.com/album/1c9aEl236Ox15x6cWMp8ZE"
-      },
-      "artists": [
-        {
-          "name": "L Maldito 13",
-          "url": "https://open.spotify.com/artist/3IO3ybxtyH9sVU4Pm3Z7eL"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Se asfixi\u00f3",
-      "url": "https://open.spotify.com/track/6ExpY0BtLaB90mW2mB2Bkn"
-    },
-    {
-      "added_at": "2026-07-17 04:01:27",
-      "album": {
         "name": "Yo lo s\u00e9",
         "url": "https://open.spotify.com/album/14h07hUekVScQA99nBO1fI"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 178823,
       "name": "Yo lo s\u00e9",
       "url": "https://open.spotify.com/track/0VtU5p1WIayEkl1VcMQV6R"
+    },
+    {
+      "added_at": "2026-07-17 04:01:27",
+      "album": {
+        "name": "Se asfixi\u00f3",
+        "url": "https://open.spotify.com/album/1c9aEl236Ox15x6cWMp8ZE"
+      },
+      "artists": [
+        {
+          "name": "L Maldito 13",
+          "url": "https://open.spotify.com/artist/3IO3ybxtyH9sVU4Pm3Z7eL"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Se asfixi\u00f3",
+      "url": "https://open.spotify.com/track/6ExpY0BtLaB90mW2mB2Bkn"
     },
     {
       "added_at": "2026-07-17 04:01:27",

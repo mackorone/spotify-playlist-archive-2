@@ -1,12 +1,12 @@
 {
   "description": "The Indie highlights of 2012. Cover: Flume",
-  "num_followers": 113610,
+  "num_followers": 113631,
   "original_name": "Best of Indie 2012",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI89qLYH5dKkGIyD2Us8sujetmPp",
+  "snapshot_id": "AAAAAFQ74/0jEq9XYHMuym+u/pii8/fz",
   "tracks": [
     {
       "added_at": "2025-03-14 12:16:12",
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 271880,
-      "name": "Mind Mischief",
-      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
+      "duration_ms": 356946,
+      "name": "Apocalypse Dreams",
+      "url": "https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 356946,
-      "name": "Apocalypse Dreams",
-      "url": "https://open.spotify.com/track/7qU7vhCPKhkDiJYGoboISc"
+      "duration_ms": 271880,
+      "name": "Mind Mischief",
+      "url": "https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
-      },
-      "artists": [
-        {
-          "name": "Youngblood Hawke",
-          "url": "https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "We Come Running",
-      "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Gossamer",
         "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 222080,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/52a6VcF23v5HB7KfDEmBHq"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW"
+      },
+      "artists": [
+        {
+          "name": "Youngblood Hawke",
+          "url": "https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "We Come Running",
+      "url": "https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -931,22 +931,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 219259,
-      "name": "Funtimes in Babylon",
-      "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Delta Spirit",
         "url": "https://open.spotify.com/album/7azn6b0REXVeI7x6I8ebQi"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 219520,
       "name": "California",
       "url": "https://open.spotify.com/track/4Y3gLYlV5rD3fhirhWKtei"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 219259,
+      "name": "Funtimes in Babylon",
+      "url": "https://open.spotify.com/track/5AHYDez7G9xD3CIReL88yU"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "I Found You",
-      "url": "https://open.spotify.com/track/13DxZmIpatJm7Wg7G7Nw4Y"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Mondo",
         "url": "https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 168626,
       "name": "American Daydream",
       "url": "https://open.spotify.com/track/40QdVaXuZgxZ8vdoaFDNsL"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/6GRzHtepSikfr1k8zxcpbH"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "I Found You",
+      "url": "https://open.spotify.com/track/13DxZmIpatJm7Wg7G7Nw4Y"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "When The Night (Deluxe)",
-        "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 267146,
-      "name": "All Eyes on You",
-      "url": "https://open.spotify.com/track/0ekoNFB4Xnj2HQAYQ8PTBY"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
         "name": "Mondo",
         "url": "https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 300866,
       "name": "Awake",
       "url": "https://open.spotify.com/track/0gnG4oD2rOoPWTSzZnnX4A"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
+        "name": "When The Night (Deluxe)",
+        "url": "https://open.spotify.com/album/5Pjft9EbneGmlhOQ2mo6bo"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 267146,
+      "name": "All Eyes on You",
+      "url": "https://open.spotify.com/track/0ekoNFB4Xnj2HQAYQ8PTBY"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 190845,
+      "name": "My Kind of Woman",
+      "url": "https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "The Lumineers (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7"
       },
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH"
+        "name": "2",
+        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
       },
       "artists": [
         {
-          "name": "Matt and Kim",
-          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 210746,
-      "name": "Let\u2019s Go",
-      "url": "https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e"
+      "duration_ms": 173888,
+      "name": "Freaking Out the Neighborhood",
+      "url": "https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/2MbpbHn31Luzr8G3uDsSUH"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Matt and Kim",
+          "url": "https://open.spotify.com/artist/4MSMDY0ClgWqXApU53I1L1"
         }
       ],
-      "duration_ms": 173888,
-      "name": "Freaking Out the Neighborhood",
-      "url": "https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG"
+      "duration_ms": 210746,
+      "name": "Let\u2019s Go",
+      "url": "https://open.spotify.com/track/2PlP2rRrgSz8lC7MpH3e4e"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1387,6 +1403,22 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 233817,
+      "name": "Ode to Viceroy",
+      "url": "https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP"
+    },
+    {
+      "added_at": "2025-03-14 12:16:12",
+      "album": {
         "name": "Celebration Rock",
         "url": "https://open.spotify.com/album/2sY9WYVH022ulyAYaqvXLW"
       },
@@ -1415,22 +1447,6 @@
       "duration_ms": 219400,
       "name": "Fitzpleasure",
       "url": "https://open.spotify.com/track/09BGE23vqmtylTUBEhzu2H"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 190845,
-      "name": "My Kind of Woman",
-      "url": "https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2025-03-14 12:16:12",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q"
+        "name": "Synthetica",
+        "url": "https://open.spotify.com/album/1WDdaw9niyv06kRmspU1U4"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
         }
       ],
-      "duration_ms": 233817,
-      "name": "Ode to Viceroy",
-      "url": "https://open.spotify.com/track/601KiLiZtBJRTXBrTjeieP"
+      "duration_ms": 238440,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/3V1sX80FB5C1D0azCC1DII"
     },
     {
       "added_at": "2025-03-14 12:16:12",
@@ -1591,22 +1607,6 @@
       "duration_ms": 218240,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/4VPZX5qq0mujdIrVhLFROu"
-    },
-    {
-      "added_at": "2025-03-14 12:16:12",
-      "album": {
-        "name": "Synthetica",
-        "url": "https://open.spotify.com/album/1WDdaw9niyv06kRmspU1U4"
-      },
-      "artists": [
-        {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
-        }
-      ],
-      "duration_ms": 238440,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/3V1sX80FB5C1D0azCC1DII"
     },
     {
       "added_at": "2025-03-14 12:16:12",

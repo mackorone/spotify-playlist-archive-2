@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 22341,
+  "num_followers": 22344,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAACaNOPSpgpN1mo+6esiYd/k",
+  "snapshot_id": "amlCgAAAAAAcNY2JBUdKTn9Xh+pCJlLS",
   "tracks": [
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 328826,
-      "name": "Bonde - with Ry Cooder",
-      "url": "https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY"
+      "duration_ms": 365173,
+      "name": "Soukora - with Ry Cooder",
+      "url": "https://open.spotify.com/track/5pm9QJLqinadjJD5vXpn2q"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 365173,
-      "name": "Soukora - with Ry Cooder",
-      "url": "https://open.spotify.com/track/5pm9QJLqinadjJD5vXpn2q"
+      "duration_ms": 328826,
+      "name": "Bonde - with Ry Cooder",
+      "url": "https://open.spotify.com/track/28HE2hcTggk9F46G9Ra6PY"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 210293,
-      "name": "Soumbou Ya Ya",
-      "url": "https://open.spotify.com/track/05tAeEZpxFRnYnrb4LUrSz"
+      "duration_ms": 240186,
+      "name": "Simbo",
+      "url": "https://open.spotify.com/track/4Uipoz8YOr1ryiYm4omdF4"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
         }
       ],
-      "duration_ms": 240186,
-      "name": "Simbo",
-      "url": "https://open.spotify.com/track/4Uipoz8YOr1ryiYm4omdF4"
+      "duration_ms": 210293,
+      "name": "Soumbou Ya Ya",
+      "url": "https://open.spotify.com/track/05tAeEZpxFRnYnrb4LUrSz"
     },
     {
       "added_at": null,

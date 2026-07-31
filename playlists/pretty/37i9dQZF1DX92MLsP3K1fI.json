@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Banda MS en portada \u2728",
-  "num_followers": 95544,
+  "num_followers": 95587,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHziEm1Ph1Y8H7FvFwlbYI1+k3sz",
+  "snapshot_id": "AAAAAN5oyEpZyHqTCbb8KORhYysuWyXd",
   "tracks": [
     {
       "added_at": "2026-07-24 06:00:30",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-07-24 06:00:30",
       "album": {
-        "name": "LINDO RECUERDO",
-        "url": "https://open.spotify.com/album/3EOqKGsz5PKVgxjbmXzT5Y"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 163469,
-      "name": "LINDO RECUERDO",
-      "url": "https://open.spotify.com/track/7FdKQZc4lm49oESCOeabIJ"
-    },
-    {
-      "added_at": "2026-07-24 06:00:30",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0wpvm3fJua2roPGSKKAxNt"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 157021,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2qWQRcqmmXLiI3jzZBfKwd"
+    },
+    {
+      "added_at": "2026-07-24 06:00:30",
+      "album": {
+        "name": "LINDO RECUERDO",
+        "url": "https://open.spotify.com/album/3EOqKGsz5PKVgxjbmXzT5Y"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 163469,
+      "name": "LINDO RECUERDO",
+      "url": "https://open.spotify.com/track/7FdKQZc4lm49oESCOeabIJ"
     },
     {
       "added_at": "2026-07-24 06:00:30",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-07-24 06:00:30",
       "album": {
-        "name": "Angustia Existencial",
-        "url": "https://open.spotify.com/album/2V8AN2FpYqueiuvPHC6Buw"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "Angustia Existencial",
-      "url": "https://open.spotify.com/track/6yFWnK67fl1pRxB9ne24lu"
-    },
-    {
-      "added_at": "2026-07-24 06:00:30",
-      "album": {
         "name": "Aeropuerto",
         "url": "https://open.spotify.com/album/1oJ0XdIDG1WQOYvP13VMhn"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2026-07-24 06:00:30",
       "album": {
-        "name": "El Vuelo",
-        "url": "https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86"
+        "name": "Angustia Existencial",
+        "url": "https://open.spotify.com/album/2V8AN2FpYqueiuvPHC6Buw"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
         }
       ],
-      "duration_ms": 191892,
-      "name": "El Vuelo",
-      "url": "https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ"
+      "duration_ms": 193714,
+      "name": "Angustia Existencial",
+      "url": "https://open.spotify.com/track/6yFWnK67fl1pRxB9ne24lu"
     },
     {
       "added_at": "2026-07-24 06:00:30",
@@ -1155,6 +1139,22 @@
       "duration_ms": 153610,
       "name": "Amantes",
       "url": "https://open.spotify.com/track/3p7qQsuaRtWpksGehwtYnC"
+    },
+    {
+      "added_at": "2026-07-24 06:00:30",
+      "album": {
+        "name": "El Vuelo",
+        "url": "https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 191892,
+      "name": "El Vuelo",
+      "url": "https://open.spotify.com/track/48d79eyEINBLKtnV3iBqLJ"
     },
     {
       "added_at": "2026-07-24 06:00:30",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-07-24 06:00:30",
       "album": {
-        "name": "La Locura",
-        "url": "https://open.spotify.com/album/2emjjajJMu9Q2rhb9Bou9v"
-      },
-      "artists": [
-        {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        }
-      ],
-      "duration_ms": 153836,
-      "name": "La Locura",
-      "url": "https://open.spotify.com/track/2a9cmui0nFPO89oReB95fR"
-    },
-    {
-      "added_at": "2026-07-24 06:00:30",
-      "album": {
         "name": "PALACIO",
         "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 160312,
       "name": "Drogada de Emociones",
       "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
+    },
+    {
+      "added_at": "2026-07-24 06:00:30",
+      "album": {
+        "name": "La Locura",
+        "url": "https://open.spotify.com/album/2emjjajJMu9Q2rhb9Bou9v"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "duration_ms": 153836,
+      "name": "La Locura",
+      "url": "https://open.spotify.com/track/2a9cmui0nFPO89oReB95fR"
     }
   ],
   "unique_name": "Oye Pop",

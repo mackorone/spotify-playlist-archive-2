@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Shakira insegnaci come arrivare così alla tua età 🔥🔥🔥
+> HUGEL in cover della playlist con tutte le hit perché è la sua season 🔥🔥🔥
 
 359 songs - 18 hr 41 min
 

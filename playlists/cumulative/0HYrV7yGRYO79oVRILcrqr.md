@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-657 songs - 1 day 16 hr 52 min
+662 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Already Dead](https://open.spotify.com/track/3n4PvbhuuoXGuM302ireyT) | [Lauren Presley](https://open.spotify.com/artist/2MtAIOQOd55jnPFR6JXFiN) | [Already Dead](https://open.spotify.com/album/58tbeoyvoEMqd0IltpXGUe) | 3:11 | 2026-07-25 |  |
 | [Altisuono in Vibro](https://open.spotify.com/track/4za819jKTj1J19tNGaN5Zu) | [Bekruud](https://open.spotify.com/artist/5chx6Kbsyug2xjG91C6eay) | [Dal Buio alla Luce](https://open.spotify.com/album/73rsW9rQKkJZTkchN6QLko) | 3:25 | 2026-01-22 | 2026-03-18 |
 | [Always Buying Stuff](https://open.spotify.com/track/42IXyMstxsXe32etO6JBvQ) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Parallels](https://open.spotify.com/album/74pA4CqzQ2dRNgbGF1g5x4) | 3:43 | 2026-03-02 |  |
+| [Amandote Amandonos](https://open.spotify.com/track/6sEdBo2YhjUkQp8unWRp23) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Amandote Amandonos](https://open.spotify.com/album/2fOSgaYOPP6p9VZwbuyNkF) | 4:30 | 2026-07-30 |  |
 | [Amer](https://open.spotify.com/track/3xOjr3Wu2IOqnhK3v6xIrc) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album, No\. 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 3:20 | 2026-02-24 | 2026-03-18 |
 | [Americana Coast](https://open.spotify.com/track/6BpQBUwter4qGrZ4iYgRbf) | [Bill Filipiak](https://open.spotify.com/artist/2xdtTND1CviwJbO8j2wvpM) | [Americana Coast](https://open.spotify.com/album/4xfZpPgxxxWPxOQjeR1x5Q) | 3:03 | 2025-09-28 | 2025-12-17 |
 | [Anaconda](https://open.spotify.com/track/6uF9EXY8NveGo9gvIFLxT5) | [Viva Los Villains](https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ) | [Viva Los Villains](https://open.spotify.com/album/2Dui44Gfszog7oXQwhDocC) | 4:10 | 2026-01-25 | 2026-04-21 |
@@ -106,6 +107,7 @@
 | [Chillin’ on the breakdown lane](https://open.spotify.com/track/3zxaF7GYPsMnGk65APHrn2) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Chillin on the breakdown lane](https://open.spotify.com/album/2vSEepJdDbIcqvHArpOiVq) | 3:56 | 2026-01-07 | 2026-03-18 |
 | [Chronicle](https://open.spotify.com/track/2biOIcSMHCulJrNV966WSO) | [Venerated By Frost](https://open.spotify.com/artist/7vjTD8pNHl35g6NvMakc0I) | [Chronicle](https://open.spotify.com/album/4AloOat16bPLmLO9jVzLnd) | 4:00 | 2026-04-30 | 2026-05-26 |
 | [Cicatriz de besos](https://open.spotify.com/track/2pPYQQjGsjoXtPkBfLaIQe) | [Xeimar](https://open.spotify.com/artist/2ogDO2M2jDroY1ms13KwKa) | [Cicatriz de besos](https://open.spotify.com/album/3F3qpCClHX7mydgVrxVg0y) | 3:49 | 2026-05-11 | 2026-05-26 |
+| [City Life](https://open.spotify.com/track/0Drc5FqVoJKozyyzzRsujs) | [MOKAs](https://open.spotify.com/artist/1IczCTas4lUyZa8wQRst9C) | [City Life](https://open.spotify.com/album/5gSYQTFL50MJ4ThTzYmJgg) | 3:33 | 2026-07-30 |  |
 | [Cocomama](https://open.spotify.com/track/10kkQ39P3LF5U4owFUW1D5) | [Pituf Project](https://open.spotify.com/artist/1JZT0UPEFA7lPu94SzUqWh) | [Perception Altérée](https://open.spotify.com/album/6y1AIZMakzsN8OTTiq29zg) | 4:14 | 2025-09-01 | 2026-07-12 |
 | [Colores](https://open.spotify.com/track/755UkUqGE1RKVdZpCGDFj3) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Colores](https://open.spotify.com/album/6ktEAyCfI5KoTKSgPDFHTO) | 3:58 | 2026-05-11 | 2026-05-26 |
 | [Colors](https://open.spotify.com/track/3vX92NNpPBm3f94fqEZTaX) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Grand Ballet](https://open.spotify.com/album/75YY4RxuyNJBsUXlV91sT6) | 2:58 | 2026-07-05 |  |
@@ -187,6 +189,7 @@
 | [Esploratore](https://open.spotify.com/track/1WC9lEhr79UeT1rV9c0mOC) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [Claudia / Esploratore](https://open.spotify.com/album/1qs6f1FbQuFIoXuH1KeF4v) | 4:50 | 2026-03-30 | 2026-04-21 |
 | [Estas](https://open.spotify.com/track/1wlC7r5BboM1GFb31EOv3s) | [Tierras Raras](https://open.spotify.com/artist/5sGH35tybJqC0A0KFeYkBf) | [La \- Tb \- Nd \- Dy](https://open.spotify.com/album/6FuamMF9Krpj8c4JbGHWVU) | 3:53 | 2026-05-31 | 2026-06-18 |
 | [ESTOY VIEJA](https://open.spotify.com/track/4vhQqf3mGxPEdM4X85GWkL) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [ESTOY VIEJA](https://open.spotify.com/album/38HjyGTf0kKd67brXPPMd1) | 2:40 | 2026-02-09 | 2026-03-18 |
+| [Et tu retiens](https://open.spotify.com/track/2zRJj0YSRWzjoAYc102oFX) | [Jimmy Blo](https://open.spotify.com/artist/6ABf9lpBnhcd4krOQOq8Qh) | [Et tu retiens](https://open.spotify.com/album/00UTUJdi8ziTCEMTu4iQAF) | 3:22 | 2026-07-30 |  |
 | [Eternal Flame](https://open.spotify.com/track/1knJt03nwMagF4TfJOrirK) | [Marcus O'Neill](https://open.spotify.com/artist/0woLT8rQMi0nFQ4iQHiS8J) | [Eternal Flame](https://open.spotify.com/album/1So5y8r0qzeuYtR4PWkNvB) | 2:14 | 2025-09-28 | 2025-12-17 |
 | [Eternally Is Here \- Live](https://open.spotify.com/track/3JIqxNoCnnaWfoVR5s53y4) | [The Dark Wave](https://open.spotify.com/artist/6GbtXHV0tq76xiP1zv1fnr) | [Eternally Is Here \(Live\)](https://open.spotify.com/album/4AgJY4KLKugjbWnxIZT3jn) | 3:17 | 2026-07-07 |  |
 | [Ethereal Minds](https://open.spotify.com/track/0J8fMIRWCqRQTEJ0qGWTmL) | [Yemi Rodriguez](https://open.spotify.com/artist/3odakE6AblqZliRzZgIK4Y), [MISSESSMITH](https://open.spotify.com/artist/5gu3Iq1jnTEhndRX1DMdKv) | [Introspectiva](https://open.spotify.com/album/7iWEPLoe47QR8jGBTzkVpo) | 3:27 | 2026-07-19 |  |
@@ -287,6 +290,7 @@
 | [Insomniac \(feat\. Caleb Hearn\)](https://open.spotify.com/track/1pmJjigyOCadpnXNyFNGFu) | [Zack Morris](https://open.spotify.com/artist/02lC20x1HEHb2ndNmMbW93), [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Insomniac \(feat\. Caleb Hearn\)](https://open.spotify.com/album/1A5SA6NXuXbhaZJG8L2ELV) | 2:32 | 2026-07-25 |  |
 | [Insônia](https://open.spotify.com/track/7mnsSLbwEhtVEtapHjdV3p) | [Rod Montenegro](https://open.spotify.com/artist/0bdyMHoyw7ikqYXjwEdlt7), [Milton Guedes](https://open.spotify.com/artist/3k4D8v5eSuoPT0MbClAvGU) | [Insônia](https://open.spotify.com/album/2RZ7KjRITbF7dZkDFtSuxP) | 3:19 | 2026-05-21 | 2026-06-18 |
 | [Into the Fire](https://open.spotify.com/track/2pfZbypE18sp9V0D4ZSYOQ) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [To Love](https://open.spotify.com/album/75qeEXGYWh1F6pqolkQ7wt) | 4:19 | 2026-02-24 | 2026-03-18 |
+| [It Hurt so Bad](https://open.spotify.com/track/2qsT8O0iWzxEDvZ1Cmoikh) | [The Lone Pine Revival](https://open.spotify.com/artist/0K2T1uTgbW7ZVEoWr99Qhh) | [It Hurt so Bad](https://open.spotify.com/album/6NixljQ0E8wrQOrPXKsS9U) | 4:11 | 2026-07-30 |  |
 | [It's My Ex\-Boyfriend's Birthday Today](https://open.spotify.com/track/2chbWtPLRCTU9GJhJ2rdjt) | [Chenél No.1](https://open.spotify.com/artist/1Xbi5EWO3vlC8JlH65uC4V) | [It's My Ex\-Boyfriend's Birthday Today](https://open.spotify.com/album/6JovZkHHw7EOlmaYv1gw8E) | 2:28 | 2025-09-22 | 2025-12-17 |
 | [It's Time \(For Me\)](https://open.spotify.com/track/6PuGtQq0EEWjOiLkGQbpxg) | [Soul Shadow](https://open.spotify.com/artist/2eFLOgdscHu39EZAqcCMmr) | [Nocturnal Shift](https://open.spotify.com/album/78CJKbMt3tP2Cb3J5FJwTT) | 5:38 | 2026-06-14 |  |
 | [Janet](https://open.spotify.com/track/1JNOovQfkhp3fnB5oodVQv) | [Dan Ashley](https://open.spotify.com/artist/4cVwoNjVVoOzFWX4wBlk4p) | [Janet](https://open.spotify.com/album/0NrLESS4kSbJR6jcmzgG0Z) | 3:09 | 2026-04-01 | 2026-04-21 |
@@ -377,6 +381,7 @@
 | [Mountain Voices](https://open.spotify.com/track/627K4bvCUl7zidwwiufN0Y) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 2:25 | 2026-03-23 | 2026-04-21 |
 | [Move Along](https://open.spotify.com/track/4DgpMmdypUrJKzie2icDPf) | [Tris & The Goldmine Band](https://open.spotify.com/artist/4ERdoj2zKHXNDNRfyl0waV) | [Broken Masterpiece](https://open.spotify.com/album/0gKOADADFj7HteHOLfu6Rd) | 4:39 | 2025-12-15 | 2026-05-31 |
 | [Movimento Ipnotico](https://open.spotify.com/track/2nF3AX8c2drvoZrShGTCSl) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Movimento Ipnotico](https://open.spotify.com/album/6Qq3ddvHErZ4aSpiJS7bSS) | 3:17 | 2026-06-08 | 2026-06-25 |
+| [MUJER ESPAÑOLA](https://open.spotify.com/track/72T2vuQ6yNiJo0eajDRje3) | [Vástago](https://open.spotify.com/artist/6G3hE13qUdyo5k3xHBktOV) | [MUJER ESPAÑOLA](https://open.spotify.com/album/644Cr2kvQskcuzHe9ySrm4) | 3:46 | 2026-07-30 |  |
 | [Mumma Ginge](https://open.spotify.com/track/2YMGqzi0WwxUqvYaUyOZar) | [Clayton James Scott](https://open.spotify.com/artist/5kK7BW8ULLKubONyG9Jzok) | [Mumma Ginge](https://open.spotify.com/album/5R7U0RQnOvLHfKmrGPUBoN) | 3:35 | 2025-11-03 | 2025-12-17 |
 | [Mundo Infeliz](https://open.spotify.com/track/4wD588EI0N67gAXGGDaN98) | [Lo Que Nunca Fuimos](https://open.spotify.com/artist/6fjRwIsTHVRTAELwXewKBI) | [El Viejo Y Querido Punk Rock](https://open.spotify.com/album/3KcAhyLdLNx9oMuXoLn6F4) | 3:10 | 2026-07-13 |  |
 | [My Eyes](https://open.spotify.com/track/7LraNdEYQC2epPHZVczNNB) | [Immortal Foreigner](https://open.spotify.com/artist/7JgL2uyFVHWiE0bct43ytm) | [My Eyes](https://open.spotify.com/album/4UwUmhnznZq2b0aSbNONrj) | 3:46 | 2026-06-17 | 2026-06-25 |

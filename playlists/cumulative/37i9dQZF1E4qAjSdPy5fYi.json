@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With SPARKLEWOLF RADIO, UrvTek, sixwing and more",
+  "description": "With SPARKLEWOLF RADIO, Learke, sixwing and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-22",
+      "date_removed": null,
       "duration_ms": 178262,
       "name": "14",
       "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 192000,
       "name": "adhd music for FURRIES!!!",
       "url": "https://open.spotify.com/track/1VZAXgKpDuJoMVcWHvp1HM"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2025-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 159201,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/7A9BxplkAzP1dChZJsHfoB"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 144000,
       "name": "ASS UP!",
       "url": "https://open.spotify.com/track/2rFOofFAEIdsmrpksO4U1d"
@@ -1304,7 +1304,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 172109,
       "name": "Catdelions IIS",
       "url": "https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-30",
+      "date_removed": null,
       "duration_ms": 110764,
       "name": "clicker training",
       "url": "https://open.spotify.com/track/1CfIqRIywjlFiUxLXKKT0X"
@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 109557,
       "name": "COPE",
       "url": "https://open.spotify.com/track/5nZuC9gQvzHxPnbZWihQ0M"
@@ -2348,7 +2348,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 208840,
       "name": "fresh carcasses.",
       "url": "https://open.spotify.com/track/5znRinARbnUolImY145V1A"
@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 197746,
       "name": "FUKOUNA GIRL - SPED UP",
       "url": "https://open.spotify.com/track/6iZn9g7wXyugUTuUSCgjSL"
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 232922,
       "name": "HORRIBLE TRUTH",
       "url": "https://open.spotify.com/track/429sQD0nz6qU1r7eviz0gb"
@@ -2858,7 +2858,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 201951,
       "name": "I Need Coffee - Remix",
       "url": "https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL"
@@ -3380,7 +3380,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "JOIN US FOR A BITE!",
       "url": "https://open.spotify.com/track/4zc2ibIu2IRgR3EAsBpy8X"
@@ -4272,7 +4272,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 170403,
       "name": "narcissist",
       "url": "https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3"
@@ -4312,6 +4312,24 @@
       "duration_ms": 191825,
       "name": "needed you to lie",
       "url": "https://open.spotify.com/track/3DCg3r3swcAdBSkU2Efzav"
+    },
+    {
+      "album": {
+        "name": "N0T 4B0UT U",
+        "url": "https://open.spotify.com/album/4nmUiQ0ifEXH4QBrSGHvlx"
+      },
+      "artists": [
+        {
+          "name": "D3s1ph3r",
+          "url": "https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164482,
+      "name": "NEXT 0NE",
+      "url": "https://open.spotify.com/track/1Hq1cqrwKHbIJcCXPqwPVJ"
     },
     {
       "album": {
@@ -4862,7 +4880,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 173337,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/1kcm01NZrEejx3PTaE7A0t"
@@ -5010,7 +5028,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 147257,
       "name": "PROTECC ATTACC SEXYBACC",
       "url": "https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw"
@@ -5292,7 +5310,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 194693,
       "name": "rose tints",
       "url": "https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO"
@@ -6058,7 +6076,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/4nrFzMzbS7FPdAZXTo0BYE"
@@ -6120,6 +6138,24 @@
       "duration_ms": 114687,
       "name": "transcendental",
       "url": "https://open.spotify.com/track/29YcryRu1oJ5XjcZB0DMJG"
+    },
+    {
+      "album": {
+        "name": "N0T 4B0UT U",
+        "url": "https://open.spotify.com/album/4nmUiQ0ifEXH4QBrSGHvlx"
+      },
+      "artists": [
+        {
+          "name": "D3s1ph3r",
+          "url": "https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137828,
+      "name": "TURN B4CK TIM3",
+      "url": "https://open.spotify.com/track/7uX3mQKhyoqJa1rWXH2Hqs"
     },
     {
       "album": {
@@ -6214,7 +6250,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 274186,
       "name": "WAG UR TAIL 2 THIS! (PAWS UP ON THE DANCEFLOOR!)",
       "url": "https://open.spotify.com/track/27Ia129EFB9zrcp2VgaEs0"
@@ -6294,7 +6330,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 161117,
       "name": "WAY TOO LOUD!!!",
       "url": "https://open.spotify.com/track/4fTHJMHxn564tECHGf0PVt"
@@ -6518,7 +6554,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 186666,
       "name": "your boyfriend's corpse",
       "url": "https://open.spotify.com/track/5hHtzlcsFEWEjGcPO1KjmR"

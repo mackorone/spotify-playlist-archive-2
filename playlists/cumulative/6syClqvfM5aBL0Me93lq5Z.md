@@ -4,7 +4,7 @@
 
 > Dead dove, don&\#x27;t eat
 
-66 songs - 3 hr 56 min
+67 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 | 2024-01-02 |  |
 | [Trapped](https://open.spotify.com/track/6DT5d8o7ojxXs1dKwLXRRp) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:44 | 2025-04-04 |  |
 | [United Health](https://open.spotify.com/track/0YoYJw5URPqnGdOSnpeNnT) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [United Health](https://open.spotify.com/album/2bkCyzxi7IglkqjaeZrarS) | 1:41 | 2024-12-13 |  |
+| [Vote 'Em Out](https://open.spotify.com/track/1YX1kcNiWLk1GVYEDWsaNg) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Vote 'Em Out](https://open.spotify.com/album/6k7HZ97yPzcIXzrmLwhkMb) | 2:20 | 2026-07-30 |  |
 | [We Didn't Start the Fire](https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 4:51 | 2024-09-16 |  |
 | [White Man \- Remastered 2011](https://open.spotify.com/track/1a5i9DEL8vDyhz4McUgHQ5) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races](https://open.spotify.com/album/4kmYoWtWvAIS43KwGuRb50) | 4:58 | 2023-03-21 |  |
 | [Who Are the Electors?](https://open.spotify.com/track/0hiA5AH9DGZkfrajTZXFnl) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Who Are the Electors?](https://open.spotify.com/album/12QiPGx9GDwoSIllJ2qcJS) | 2:20 | 2023-03-26 |  |

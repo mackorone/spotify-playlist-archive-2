@@ -313,6 +313,32 @@
     },
     {
       "album": {
+        "name": "Amar, AMOR!",
+        "url": "https://open.spotify.com/album/2XBkVZMKULzi3B0KhNjHPw"
+      },
+      "artists": [
+        {
+          "name": "Os Amantes",
+          "url": "https://open.spotify.com/artist/0CjUWR4PjqnTuxe0fPRoUs"
+        },
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        },
+        {
+          "name": "Strobo",
+          "url": "https://open.spotify.com/artist/12ppUSYrd4ZPPhp9Uqa18g"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216606,
+      "name": "A Primeira Vez",
+      "url": "https://open.spotify.com/track/2nQzSlfAcve4eiux0K9Y9G"
+    },
+    {
+      "album": {
         "name": "A Saudade Vem Bater",
         "url": "https://open.spotify.com/album/0hqAGPNFZZpYjd7uLRNiJV"
       },
@@ -1278,7 +1304,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 168097,
       "name": "Amor Inteiro",
       "url": "https://open.spotify.com/track/7mD5TzCDcGgm2yDbfECu7t"
@@ -1920,7 +1946,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 199812,
       "name": "Azul Piscina",
       "url": "https://open.spotify.com/track/6YivUAfQhJT6sXYriEgGad"
@@ -2244,7 +2270,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 167372,
       "name": "belo horizonte",
       "url": "https://open.spotify.com/track/5vOX7DaMTkk8jtO4b7Y5jJ"
@@ -3830,7 +3856,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 197389,
       "name": "colete \u00e0 prova de m\u00e1goas",
       "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
@@ -4064,6 +4090,24 @@
       "duration_ms": 244357,
       "name": "Comum (xote)",
       "url": "https://open.spotify.com/track/19WKP5ckxIcm8V3R19GhBJ"
+    },
+    {
+      "album": {
+        "name": "Bela Vista, 133",
+        "url": "https://open.spotify.com/album/47l7dEphOlDIUb0anLNH0w"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143810,
+      "name": "Concreto, Ferro e Saudade",
+      "url": "https://open.spotify.com/track/5F93PvARHaMpnkzCdK7rkQ"
     },
     {
       "album": {
@@ -6346,7 +6390,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 273525,
       "name": "Encontro das Mar\u00e9s",
       "url": "https://open.spotify.com/track/5U0lNrAPMBvgWs6nlo7MuV"
@@ -6394,6 +6438,24 @@
       "duration_ms": 168500,
       "name": "Enquanto O Dia N\u00e3o Acabou",
       "url": "https://open.spotify.com/track/1FrXmfE6yDBU0O5wqxE8DW"
+    },
+    {
+      "album": {
+        "name": "Can\u00e7\u00f5es para Chico e Malu",
+        "url": "https://open.spotify.com/album/0BEPPsgQnoNluUPf171GhG"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180380,
+      "name": "Enquanto Voc\u00ea Cria Asas",
+      "url": "https://open.spotify.com/track/35yQ5QWeQMIAMUe3NlNtvk"
     },
     {
       "album": {
@@ -7287,6 +7349,28 @@
     },
     {
       "album": {
+        "name": "Fa\u00e7o Parar de Chover",
+        "url": "https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199711,
+      "name": "Fa\u00e7o Parar de Chover",
+      "url": "https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y"
+    },
+    {
+      "album": {
         "name": "Sorte (Ao Vivo / EP02)",
         "url": "https://open.spotify.com/album/1pYf80MglBsbsOgcy3I4dU"
       },
@@ -7418,7 +7502,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 145306,
       "name": "Fica De Dengo",
       "url": "https://open.spotify.com/track/7uADts4eeQrXABdaueoNrx"
@@ -8634,6 +8718,28 @@
       "duration_ms": 205540,
       "name": "J\u00e1 Te Falei",
       "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+    },
+    {
+      "album": {
+        "name": "J\u00e1 Vi Fogo",
+        "url": "https://open.spotify.com/album/1H6u2TMNG8ZT91bDWkdJKu"
+      },
+      "artists": [
+        {
+          "name": "Academia da Berlinda",
+          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
+        },
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273281,
+      "name": "J\u00e1 Vi Fogo",
+      "url": "https://open.spotify.com/track/2ypKBa1kMmSa6zWT8TDEtC"
     },
     {
       "album": {
@@ -10966,7 +11072,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 158922,
       "name": "no seu tempo",
       "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
@@ -14405,6 +14511,24 @@
     },
     {
       "album": {
+        "name": "Esquina do Sol",
+        "url": "https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204208,
+      "name": "Reza Braba",
+      "url": "https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a"
+    },
+    {
+      "album": {
         "name": "Rio Lua",
         "url": "https://open.spotify.com/album/1ZKkYip0a1vYvZHbHhRWHs"
       },
@@ -14964,7 +15088,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 136375,
       "name": "Se Namorar - Ao vivo",
       "url": "https://open.spotify.com/track/59Miiv3WtpyPR3OyCkDUps"
@@ -16318,6 +16442,28 @@
       "duration_ms": 195086,
       "name": "tchau, baby!",
       "url": "https://open.spotify.com/track/526I73YCefYU1i3bVJZuns"
+    },
+    {
+      "album": {
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178645,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
     },
     {
       "album": {
@@ -18750,6 +18896,24 @@
       "duration_ms": 211351,
       "name": "Voc\u00ea nasceu para mudar",
       "url": "https://open.spotify.com/track/4lf9x9CfTPSE8MQprQCav9"
+    },
+    {
+      "album": {
+        "name": "Pra Almar no Frio",
+        "url": "https://open.spotify.com/album/28vRC789Hnqk5UKqpvoH0T"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147374,
+      "name": "Voc\u00ea \u00e9 Meu Lugar",
+      "url": "https://open.spotify.com/track/0Ke9hh991pyQLH4ivs3EiO"
     },
     {
       "album": {

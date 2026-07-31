@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 35208,
+  "num_followers": 35215,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ0yi/2+KYswTjYnuCQwfK68KmyI",
+  "snapshot_id": "AAAAANnu0gMd+CBK2cGQ05mLsP5eBFDP",
   "tracks": [
     {
       "added_at": "2026-03-20 03:00:24",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Funky Magazine",
-        "url": "https://open.spotify.com/album/0dpvI4sK6dte5X32dELM95"
-      },
-      "artists": [
-        {
-          "name": "Militantes del Climax",
-          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
-        }
-      ],
-      "duration_ms": 164350,
-      "name": "Funky Magazine",
-      "url": "https://open.spotify.com/track/7FTyR0xZtVCXgjYYrGtvlj"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "tamagochi",
         "url": "https://open.spotify.com/album/6ww0tfSZNb8FM1MVHwoEwh"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 335112,
       "name": "never 2 much 4 evrybody",
       "url": "https://open.spotify.com/track/4BWWoNE1kmgQkELGvklQ22"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Funky Magazine",
+        "url": "https://open.spotify.com/album/0dpvI4sK6dte5X32dELM95"
+      },
+      "artists": [
+        {
+          "name": "Militantes del Climax",
+          "url": "https://open.spotify.com/artist/09BpCKSle4c7RbDtCuZXnv"
+        }
+      ],
+      "duration_ms": 164350,
+      "name": "Funky Magazine",
+      "url": "https://open.spotify.com/track/7FTyR0xZtVCXgjYYrGtvlj"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -423,26 +423,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Sudaka",
-        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 202808,
-      "name": "Sudaka",
-      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "flaitelegante",
         "url": "https://open.spotify.com/album/4rR775JAUeEFFaVIpRRZRO"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 225000,
       "name": "flaitelegante",
       "url": "https://open.spotify.com/track/2tO7o50o83GmCf8mDaKziP"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Sudaka",
+        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 202808,
+      "name": "Sudaka",
+      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Mesa Dulce",
-        "url": "https://open.spotify.com/album/4pURI2UciLMYnod643ypjC"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 219632,
-      "name": "Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/43jiwUK941x5lTgVWQhtfV"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Los piratas (Portal Sessions)",
         "url": "https://open.spotify.com/album/5DxUdYRUYcRW5ZH7qRjF0o"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 199311,
       "name": "Los piratas (Portal Sessions)",
       "url": "https://open.spotify.com/track/4OATyXnNPGBcMn3OHzxqMu"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Mesa Dulce",
+        "url": "https://open.spotify.com/album/4pURI2UciLMYnod643ypjC"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 219632,
+      "name": "Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/43jiwUK941x5lTgVWQhtfV"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -947,22 +947,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Baba",
-        "url": "https://open.spotify.com/album/3fyQsRwHWt4G4Tx8VTa3SN"
+        "name": "Good to Know",
+        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
       },
       "artists": [
         {
-          "name": "Ekath\u00e9",
-          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
-        },
-        {
-          "name": "El Mundo Limon",
-          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
+          "name": "Grace & Badlove",
+          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
         }
       ],
-      "duration_ms": 235836,
-      "name": "Baba",
-      "url": "https://open.spotify.com/track/3pvpIE1dcLrYhYex0CUKxA"
+      "duration_ms": 237426,
+      "name": "Good to Know",
+      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -983,18 +979,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Good to Know",
-        "url": "https://open.spotify.com/album/3mDoV6YTDo4ScALjvx4UBQ"
+        "name": "Baba",
+        "url": "https://open.spotify.com/album/3fyQsRwHWt4G4Tx8VTa3SN"
       },
       "artists": [
         {
-          "name": "Grace & Badlove",
-          "url": "https://open.spotify.com/artist/2sr0U0D0S7vnXh9epoKLVE"
+          "name": "Ekath\u00e9",
+          "url": "https://open.spotify.com/artist/2QodtlX1l4FWXEETTWtLvz"
+        },
+        {
+          "name": "El Mundo Limon",
+          "url": "https://open.spotify.com/artist/6ewUKYDx23YcomTOQdDvTB"
         }
       ],
-      "duration_ms": 237426,
-      "name": "Good to Know",
-      "url": "https://open.spotify.com/track/5TYO9JsmiDUGpA6BNQhD0m"
+      "duration_ms": 235836,
+      "name": "Baba",
+      "url": "https://open.spotify.com/track/3pvpIE1dcLrYhYex0CUKxA"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Sobrado",
-        "url": "https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a"
-      },
-      "artists": [
-        {
-          "name": "Fugazza",
-          "url": "https://open.spotify.com/artist/3FxT0q5mh6vZoE8r3HR1th"
-        }
-      ],
-      "duration_ms": 163250,
-      "name": "Sobrado",
-      "url": "https://open.spotify.com/track/6ZIyRHUA5KUoSGq4UrttIb"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "Entr\u00e9gate",
         "url": "https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 223038,
       "name": "Entr\u00e9gate",
       "url": "https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Sobrado",
+        "url": "https://open.spotify.com/album/1FOA8jYE6xy7EoezghqF6a"
+      },
+      "artists": [
+        {
+          "name": "Fugazza",
+          "url": "https://open.spotify.com/artist/3FxT0q5mh6vZoE8r3HR1th"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Sobrado",
+      "url": "https://open.spotify.com/track/6ZIyRHUA5KUoSGq4UrttIb"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "De Reviente",
-        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
-      },
-      "artists": [
-        {
-          "name": "Warlock ARG",
-          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
-        }
-      ],
-      "duration_ms": 205374,
-      "name": "Pret\u00e9rito Mujer",
-      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "F\u00e1bulas",
         "url": "https://open.spotify.com/album/5Pdxguuof4JROwJrq0zgRX"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 203056,
       "name": "Nada Ser\u00eda Igual",
       "url": "https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "De Reviente",
+        "url": "https://open.spotify.com/album/5OGFRQuRwXXYOQJM2D07mS"
+      },
+      "artists": [
+        {
+          "name": "Warlock ARG",
+          "url": "https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV"
+        }
+      ],
+      "duration_ms": 205374,
+      "name": "Pret\u00e9rito Mujer",
+      "url": "https://open.spotify.com/track/5JOImD8nkvP8kpyNLs0HBi"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1435,22 +1435,18 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "7 Am",
-        "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
+        "name": "Que Me Pasa",
+        "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
       },
       "artists": [
         {
-          "name": "Afromama",
-          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
-        },
-        {
-          "name": "P1cky",
-          "url": "https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a"
+          "name": "Ale Zurita",
+          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
         }
       ],
-      "duration_ms": 239387,
-      "name": "7 Am",
-      "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
+      "duration_ms": 184421,
+      "name": "Que Me Pasa",
+      "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1471,18 +1467,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Que Me Pasa",
-        "url": "https://open.spotify.com/album/36Yq1giRnYqaPbscTc49HX"
+        "name": "7 Am",
+        "url": "https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN"
       },
       "artists": [
         {
-          "name": "Ale Zurita",
-          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
+          "name": "Afromama",
+          "url": "https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN"
+        },
+        {
+          "name": "P1cky",
+          "url": "https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a"
         }
       ],
-      "duration_ms": 184421,
-      "name": "Que Me Pasa",
-      "url": "https://open.spotify.com/track/0BvV03WShjAUdRJHkL33u2"
+      "duration_ms": 239387,
+      "name": "7 Am",
+      "url": "https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
+      },
+      "artists": [
+        {
+          "name": "Sophie Sobral & Factor Paraca\u00eddas",
+          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 210796,
       "name": "Selva",
       "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
-        "name": "Jose Molina in Session",
-        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
-      },
-      "artists": [
-        {
-          "name": "Jose Molina",
-          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
-        }
-      ],
-      "duration_ms": 466409,
-      "name": "No Me Lo Digas (In Session)",
-      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
     },
     {
       "added_at": "2026-03-20 03:00:24",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-03-20 03:00:24",
       "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G"
-      },
-      "artists": [
-        {
-          "name": "Sophie Sobral & Factor Paraca\u00eddas",
-          "url": "https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl"
-    },
-    {
-      "added_at": "2026-03-20 03:00:24",
-      "album": {
         "name": "El Efecto Calma",
         "url": "https://open.spotify.com/album/5MZ84i6SVe1rGiEjdHVtVp"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 246085,
       "name": "El Efecto Calma",
       "url": "https://open.spotify.com/track/0uCIPALeUXwguTSHuwvXN6"
+    },
+    {
+      "added_at": "2026-03-20 03:00:24",
+      "album": {
+        "name": "Jose Molina in Session",
+        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
+      },
+      "artists": [
+        {
+          "name": "Jose Molina",
+          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
+        }
+      ],
+      "duration_ms": 466409,
+      "name": "No Me Lo Digas (In Session)",
+      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
     },
     {
       "added_at": "2026-03-20 03:00:24",

@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> it's an Artie summer 🩸
+> È una Geolier summer🩸
 
-1,130 songs - 2 day 6 hr 28 min
+1,131 songs - 2 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Da Solo](https://open.spotify.com/track/7FvU0v2HZGnW4Mf4YNCgI3) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Da Solo](https://open.spotify.com/album/3TNK4YfObvW4VpTdJRCpkV) | 3:30 | 2023-01-03 | 2023-01-27 |
 | [Da zero \(feat\. Tedua\)](https://open.spotify.com/track/3KAQXWJOVEYmq2GdsWCsVx) | [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [VT3SOR](https://open.spotify.com/album/55QEon5ZPCIoRdKn2q54iI) | 2:24 | 2026-03-12 | 2026-05-08 |
 | [DAL TACCO](https://open.spotify.com/track/1zrEskyOLXViiYdZgggiUI) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [DAL TACCO](https://open.spotify.com/album/1pkUZWvJtOTpsP5pP7gPBq) | 2:27 | 2026-05-28 |  |
+| [Dale \(feat\. Frezza, G.Mineiro, R3versal\)](https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [R3versal](https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP), [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Dale \(feat\. Frezza, G.Mineiro, R3versal\)](https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV) | 3:08 | 2026-07-30 |  |
 | [DAMME 'NA MANO](https://open.spotify.com/track/54dKn6kdf2fFpSYwgCcQOV) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [DAMME 'NA MANO](https://open.spotify.com/album/0Ibc5Vj9Her5t4YIl9uYM7) | 2:58 | 2025-02-12 | 2025-03-12 |
 | [Dancing With The Devil Pt.2](https://open.spotify.com/track/0C4xnuVf0ovtfGV90Ynjld) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [ELSEWHERE](https://open.spotify.com/album/6TodyJESCEXJ67eXpUse0I) | 3:06 | 2025-12-15 | 2026-01-30 |
 | [DARKMONEY \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1SWUq0qtTSDRGrDtgq7POw) | [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [KING OF DARK](https://open.spotify.com/album/4oJZFEKPVLVViFlG5VnAhN) | 2:46 | 2026-02-13 |  |
@@ -692,7 +693,7 @@
 | [Nessuna](https://open.spotify.com/track/5bhYjElbPmm2FyB0PxP8Wd) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 3:43 | 2025-05-19 | 2026-02-10 |
 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 | 2023-01-19 | 2023-03-03 |
 | [NEVE SULLE JORDAN \(feat\. Capo Plaza\)](https://open.spotify.com/track/3825sviXclbrTvBpjmjXiR) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [NEI LETTI DEGLI ALTRI](https://open.spotify.com/album/5uYRRiyE4BsOIIeu3y1o1F) | 3:00 | 2024-02-15 | 2024-03-08 |
-| [NEW YORK](https://open.spotify.com/track/2a9BZHsbrUeOxEbatUdust) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [NEW YORK](https://open.spotify.com/album/0vOCi6Ur9juHEintKbSb98) | 3:18 | 2026-07-09 |  |
+| [NEW YORK](https://open.spotify.com/track/2a9BZHsbrUeOxEbatUdust) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [NEW YORK](https://open.spotify.com/album/0vOCi6Ur9juHEintKbSb98) | 3:18 | 2026-07-09 | 2026-07-31 |
 | [NEW YORK](https://open.spotify.com/track/3FSW3VzKEYf9nDGafU4KEL) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [NEW YORK](https://open.spotify.com/album/2Cx1vPGOj3JBazwoKFYt1M) | 3:16 | 2023-03-09 | 2023-03-22 |
 | [Niente Canzoni D'Amore \- Inedito](https://open.spotify.com/track/7uu3YZytpYW15VIfa7ynJk) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Federica Abbate](https://open.spotify.com/artist/05brE7yGJDmIYlMirfSi0B) | [Status \(Inediti, Rarità & Live\)](https://open.spotify.com/album/59i1dzyF8wpUTk3KJ5zNXq) | 3:46 | 2026-04-20 | 2026-06-13 |
 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 | 2022-06-01 | 2022-11-25 |

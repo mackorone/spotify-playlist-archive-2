@@ -13936,7 +13936,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 337500,
       "name": "One More Hour",
       "url": "https://open.spotify.com/track/1sWnKhSzwYXkdS9ri2HwPE"
@@ -17004,6 +17004,28 @@
       "duration_ms": 56470,
       "name": "Severance - Interlude",
       "url": "https://open.spotify.com/track/5JweKVLG4RMiA9swuKW3mg"
+    },
+    {
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/5SUIciAcALfKhj6ip5Kg73"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        },
+        {
+          "name": "Dorian Concept",
+          "url": "https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1Ctb0GZJFcbwGXbv6ePfs0"
     },
     {
       "album": {

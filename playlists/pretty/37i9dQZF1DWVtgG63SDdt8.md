@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Koryn Hawthorne
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,715 likes - 99 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,734 likes - 99 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [Depend On You \(All I Need\)](https://open.spotify.com/track/0mgIlYXLCT4kRVMthKjYLP) | [Justin Gambino](https://open.spotify.com/artist/6hlIXwl3renjvnuITo9NH5) | [Garden of the Lord](https://open.spotify.com/album/3cvBytXZlwmNP5Vb5r2owz) | 4:55 |
 | 99 | [Secret Place](https://open.spotify.com/track/3XAiL3Muv0utFT437q7mZx) | [The Rogers Family](https://open.spotify.com/artist/1lhPklhN96aDNZNtgH8HmF) | [Secret Place](https://open.spotify.com/album/3hkyZh7hRApPEfDJfYU4aE) | 3:57 |
 
-Snapshot ID: `AAAAAKdksbdn09oaK7w42fuc9NHC2XlG`
+Snapshot ID: `AAAAAFbZN7vAmhbMtK1JcQW2Ope2FsTc`

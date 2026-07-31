@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Oscar Lindsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,063 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,082 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 30 | [The Dog](https://open.spotify.com/track/5WPw1FoA2S5ivwlNJ5rDo6) | [Alaina May](https://open.spotify.com/artist/2ajMOVSXSjHyFhSnzBKBTb) | [The Dog](https://open.spotify.com/album/2DJ8bsKENysB7M5hfzHDDQ) | 3:33 |
 | 31 | [Flourish](https://open.spotify.com/track/4qhGoA6hC1vncKI52DUuiY) | [tickertape](https://open.spotify.com/artist/2aXOm3ef1Xel4vNYKCRWdS) | [Flourish](https://open.spotify.com/album/5xYAjEAwfrf1tyGVlV5N5d) | 3:43 |
 | 32 | [good and bad](https://open.spotify.com/track/6WUEmA64al3W96gO853HQA) | [Gash](https://open.spotify.com/artist/1uiSPRIJiY4WSAqEeVS9jX) | [good and bad](https://open.spotify.com/album/1qkGUEHkUBJByyj5NU6iTQ) | 1:35 |
-| 33 | [Cristalina](https://open.spotify.com/track/4jvCmbHuee4RMHlii4SU6M) | [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Cristalina](https://open.spotify.com/album/6kyl37QBe1FC2KU8GT17ck) | 2:53 |
+| 33 | [Cristalina](https://open.spotify.com/track/4jvCmbHuee4RMHlii4SU6M) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Cristalina](https://open.spotify.com/album/6kyl37QBe1FC2KU8GT17ck) | 2:53 |
 | 34 | [Autosmile](https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Autosmile](https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil) | 6:39 |
 | 35 | [2005](https://open.spotify.com/track/1GokUSLCKojga6JRk9eFaT) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [2005](https://open.spotify.com/album/5CWR7Nj5F5Nvrkw6QKZmxm) | 3:18 |
 | 36 | [The In\-Between](https://open.spotify.com/track/7EaQY0r1DeAW9uqPjb2fpF) | [Leela Rosa](https://open.spotify.com/artist/1ljyZt4G3QAhA5WPBL7r66) | [The In\-Between](https://open.spotify.com/album/1bYR3lQjYfIkLOxcs6m7Ok) | 2:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 74 | [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 |
 | 75 | [HOLD ME \(SLOWLY\)](https://open.spotify.com/track/2PLrLPJX9UOXTAWMsJqR9m) | [KatzPascale](https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H) | [HOLD ME \(SLOWLY\)](https://open.spotify.com/album/7m1REx16trI5MSc9uNLrja) | 4:11 |
 
-Snapshot ID: `AAAAAAN+LitXOL7nDp0ILuwsdpEEKKsP`
+Snapshot ID: `AAAAAKdH55Q5bj7VbuvUuIbtOkYoj0m0`

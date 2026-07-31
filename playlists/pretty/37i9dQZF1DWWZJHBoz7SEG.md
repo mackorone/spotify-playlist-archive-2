@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Pongamonos sentimentales con las novedades de esta semana, Eden Muñoz y Alfredito Olivas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,238 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,275 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 79 | [Suspirar](https://open.spotify.com/track/62ieC5ZH5Ya818rSRBCph3) | [Alejandrina](https://open.spotify.com/artist/2rKJlCjo9OYhuq7AWP1xaj) | [Para Nora](https://open.spotify.com/album/5klflmcs6ejy4aIoZ39Zj7) | 3:51 |
 | 80 | [TU CEL PARA ABAJO](https://open.spotify.com/track/0u2jJ5SkdIXYJkTPMdYIT4) | [TINU](https://open.spotify.com/artist/3yriZWDhMn67qxncQ0bpa8) | [TU CEL PARA ABAJO](https://open.spotify.com/album/6XQUyZEKpqvHWjGkCPplzN) | 3:01 |
 
-Snapshot ID: `AAAAACa8yQMBQvN1uGwpDPCeo8Wnd+pl`
+Snapshot ID: `AAAAAI3qPB3jdEm1u9Au/UkUyHXwW9Lv`

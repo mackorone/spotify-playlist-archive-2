@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Akash Ravuru
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,000 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,010 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 99 | [Rahasyam](https://open.spotify.com/track/7vMbkplpdFYxOUSmIQtdQL) | [Kavin Lavari](https://open.spotify.com/artist/3Y4K8LCLMtBS9lxM46EpMe), [ozzie](https://open.spotify.com/artist/2yuhstU6oVkeKw9dyVcNwO), [sathvik](https://open.spotify.com/artist/1FZJc8yEHsOJDCFIevVahk) | [It's Nice To Meet You](https://open.spotify.com/album/1KlHnPfucRK6pK7jHNjIfN) | 2:42 |
 | 100 | [Evvare Evvare](https://open.spotify.com/track/6PO9tnh3wD1aONPiEnklKe) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Aishwarya Ravichandran](https://open.spotify.com/artist/0Mbxm07Hiahy2xSMtesff8) | [Evvare Evvare](https://open.spotify.com/album/7aADKIlahFtMNGHlOCAzUu) | 4:02 |
 
-Snapshot ID: `AAAAAFom5mSdgQJlicnASUGT7lijQoys`
+Snapshot ID: `AAAAAOELpr6DRkIQ6yE8+L5xpOFxvGiO`

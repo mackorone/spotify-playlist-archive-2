@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Chiodos
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,805 likes - 171 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,827 likes - 171 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 170 | [Caught In A Spell](https://open.spotify.com/track/1PA0cBNqH6IL6KqrW7qclZ) | [The Night Eternal](https://open.spotify.com/artist/1psvDRjOvOPm4OthS5Fdwr) | [Caught In A Spell](https://open.spotify.com/album/74S8TWTdzVadE99KMboqGI) | 5:11 |
 | 171 | [PsychoTrip](https://open.spotify.com/track/06xYf4XA3i1SebITy7AW6t) | [Empire Fall](https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp) | [PsychoTrip](https://open.spotify.com/album/1MtRBaMuCCiDj3YWOG72Ii) | 2:31 |
 
-Snapshot ID: `AAAAACrDwfblbYz/1CQ2aQGHLP8iPHT1`
+Snapshot ID: `AAAAAEOllPANhhTyczCf1Gk51ZnelI2r`

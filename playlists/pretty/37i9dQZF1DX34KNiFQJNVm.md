@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Matheus & Kauan, Anitta, Tyla, L7NNON, WILLOW e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,317,512 likes - 76 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,317,279 likes - 76 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 75 | [Na Minha Rlk](https://open.spotify.com/track/6LwhT1szsHsLzOWj10Ehzh) | [Mc Leh](https://open.spotify.com/artist/4JTs3kffe8YHh5sjlJh3jK), [Dj Luizinho MPC](https://open.spotify.com/artist/7cwzNkrMN3oFVemvRcNQWW) | [Na Minha Rlk](https://open.spotify.com/album/0nITn1GsTQdcpTrO8IzZDi) | 3:43 |
 | 76 | [Pra Lembrar De Mim No Fone](https://open.spotify.com/track/39SHvIYTLxto33v3guCsMh) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Pra Lembrar De Mim No Fone](https://open.spotify.com/album/3n5liuavttAKEBhVjPExHv) | 2:39 |
 
-Snapshot ID: `AAAAANwTXsvePOVGIbBNedxzUlLN/gUD`
+Snapshot ID: `AAAAALwKKEHXYHFNQEYG42Ll0o0TJT9C`

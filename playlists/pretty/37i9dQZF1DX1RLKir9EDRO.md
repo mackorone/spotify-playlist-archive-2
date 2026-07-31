@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Elsu Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,992 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,034 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 49 | [YAMYAM](https://open.spotify.com/track/2c5kTGTtyzwcqT1TchXTWd) | [Devrjm](https://open.spotify.com/artist/3gXJYXyCdgAgdd8hKygyEy) | [YAMYAM](https://open.spotify.com/album/5d4uVZSPpQnRzhXKpwC6VG) | 2:04 |
 | 50 | [Bol Bol Kelle Paça](https://open.spotify.com/track/5fFCOorIkRTT3sopxbUqlT) | [Ray Anka](https://open.spotify.com/artist/3CZCgjCxjlTiGZwodRPX3n) | [Düşenin Dostu Olmaz](https://open.spotify.com/album/0UzUrsyAM65xiknTFkLEKr) | 1:58 |
 
-Snapshot ID: `AAAAAJSOgXpp5QQOgjrALkqvnlEwTi1M`
+Snapshot ID: `AAAAAFLFUNFTDjuqJIdgmc6sYCrN8iL5`

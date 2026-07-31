@@ -1,33 +1,13 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 554499,
+  "num_followers": 554561,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAAA1M/2DzjZmeF6Ry6bDxIzu",
+  "snapshot_id": "amlCgAAAAAB3+qzL+tdyXbZPqZHSpTuB",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "If I Ain't Got You (Live)",
-        "url": "https://open.spotify.com/album/31bmsmqFwgF3BechKeG2XI"
-      },
-      "artists": [
-        {
-          "name": "Jacqie Rivera",
-          "url": "https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB"
-        },
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "If I Ain't Got You (Live)",
-      "url": "https://open.spotify.com/track/5gKzIRV1USc5xKRIQTbB6k"
-    },
     {
       "added_at": null,
       "album": {
@@ -783,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se las Voy a Dar a Otro",
-        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 151044,
-      "name": "Se March\u00f3",
-      "url": "https://open.spotify.com/track/3O34eNRUsJkBXUEViYUgHy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Prestadas - Pop",
         "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
@@ -815,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se las Voy a Dar a Otro",
+        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 151044,
+      "name": "Se March\u00f3",
+      "url": "https://open.spotify.com/track/3O34eNRUsJkBXUEViYUgHy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simplemente la Mejor",
         "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 220173,
       "name": "La Chacalosa",
       "url": "https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Patr\u00f3n (La Victoria)",
+        "url": "https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "El Amor (feat. Jenni Rivera)",
+      "url": "https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0"
     }
   ],
   "unique_name": "This Is Jenni Rivera",

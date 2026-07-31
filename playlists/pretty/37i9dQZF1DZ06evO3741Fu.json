@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAACjqqmW1UhJRzpyFUliw6+S",
+  "snapshot_id": "amlCgAAAAAAv2db67snTih/j54gGg0AZ",
   "tracks": [
     {
       "added_at": null,
@@ -147,18 +147,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oramics, Vol. 1",
-        "url": "https://open.spotify.com/album/56A2868JLnNJNhbN4RNywW"
+        "name": "Private Dreams and Public Nightmares",
+        "url": "https://open.spotify.com/album/3nX2uKD1E7rfonhnaDDnel"
       },
       "artists": [
         {
           "name": "Daphne Oram",
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        },
+        {
+          "name": "Daz Quayle",
+          "url": "https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk"
+        },
+        {
+          "name": "Andrea Parker",
+          "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
         }
       ],
-      "duration_ms": 89161,
-      "name": "Rockets In Ursa Major",
-      "url": "https://open.spotify.com/track/1Hj5aYZKXvxJvHu0lMW9GA"
+      "duration_ms": 88546,
+      "name": "Under the Sand",
+      "url": "https://open.spotify.com/track/14pexLgJWEtnkR4V0lveyX"
     },
     {
       "added_at": null,
@@ -272,13 +280,17 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         },
         {
-          "name": "Nwando Ebizie",
-          "url": "https://open.spotify.com/artist/2iQRDca7GuLPCGAA8e3Ksx"
+          "name": "Magz Hall",
+          "url": "https://open.spotify.com/artist/1fIKX12a64bAWp0wp2X5cl"
+        },
+        {
+          "name": "Mieko Shimizu",
+          "url": "https://open.spotify.com/artist/3IZbQSCjwUbC4sNNMjZZXr"
         }
       ],
-      "duration_ms": 229120,
-      "name": "The Art Of Living",
-      "url": "https://open.spotify.com/track/2R1qYqW4g1Ns5ubEGtZL6v"
+      "duration_ms": 237920,
+      "name": "Folly Tower Blooms",
+      "url": "https://open.spotify.com/track/5fVz9HTP6A3wAjLTLyuRvw"
     },
     {
       "added_at": null,
@@ -308,89 +320,9 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         }
       ],
-      "duration_ms": 39413,
-      "name": "Rhythmic Variations ii",
-      "url": "https://open.spotify.com/track/61ZHkqfltlPLaL1bZil7mV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beauty and The Beast",
-        "url": "https://open.spotify.com/album/41pm4eRFXr2KdACByVaEtJ"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        }
-      ],
-      "duration_ms": 208047,
-      "name": "Beauty and the Beast, Pt. 2",
-      "url": "https://open.spotify.com/track/22xhx09bRYIVkOiTZXDnuv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "vari/ations - Ode to Oram",
-        "url": "https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        },
-        {
-          "name": "Magz Hall",
-          "url": "https://open.spotify.com/artist/1fIKX12a64bAWp0wp2X5cl"
-        },
-        {
-          "name": "Mieko Shimizu",
-          "url": "https://open.spotify.com/artist/3IZbQSCjwUbC4sNNMjZZXr"
-        }
-      ],
-      "duration_ms": 237920,
-      "name": "Folly Tower Blooms",
-      "url": "https://open.spotify.com/track/5fVz9HTP6A3wAjLTLyuRvw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Dreams and Public Nightmares",
-        "url": "https://open.spotify.com/album/3nX2uKD1E7rfonhnaDDnel"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        },
-        {
-          "name": "Daz Quayle",
-          "url": "https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk"
-        },
-        {
-          "name": "Andrea Parker",
-          "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
-        }
-      ],
-      "duration_ms": 88546,
-      "name": "Under the Sand",
-      "url": "https://open.spotify.com/track/14pexLgJWEtnkR4V0lveyX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electronic Sound Patterns (Remastered)",
-        "url": "https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        }
-      ],
-      "duration_ms": 33240,
-      "name": "Ascending and Decending Sequences of Varying Nature ii",
-      "url": "https://open.spotify.com/track/68j2rZF6Y5r7LL2ap5h6nO"
+      "duration_ms": 33466,
+      "name": "Ascending and Decending Sequences of Varying Nature i",
+      "url": "https://open.spotify.com/track/0JiV7R7ZS8RjJW0pR3zYAw"
     },
     {
       "added_at": null,
@@ -440,9 +372,61 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Tumblewash",
-      "url": "https://open.spotify.com/track/6XRxx3nTPhSTijeaB483Rw"
+      "duration_ms": 89161,
+      "name": "Rockets In Ursa Major",
+      "url": "https://open.spotify.com/track/1Hj5aYZKXvxJvHu0lMW9GA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electronic Sound Patterns (Remastered)",
+        "url": "https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        }
+      ],
+      "duration_ms": 44773,
+      "name": "Ascending and Decending Sequences of Varying Nature vi",
+      "url": "https://open.spotify.com/track/5Dxeuq3DaLU5fmpWCOpjBD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beauty and The Beast",
+        "url": "https://open.spotify.com/album/41pm4eRFXr2KdACByVaEtJ"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        }
+      ],
+      "duration_ms": 208047,
+      "name": "Beauty and the Beast, Pt. 2",
+      "url": "https://open.spotify.com/track/22xhx09bRYIVkOiTZXDnuv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "vari/ations - Ode to Oram",
+        "url": "https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        },
+        {
+          "name": "Nwando Ebizie",
+          "url": "https://open.spotify.com/artist/2iQRDca7GuLPCGAA8e3Ksx"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "The Art Of Living",
+      "url": "https://open.spotify.com/track/2R1qYqW4g1Ns5ubEGtZL6v"
     },
     {
       "added_at": null,
@@ -471,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oramics, Vol. 1",
+        "url": "https://open.spotify.com/album/56A2868JLnNJNhbN4RNywW"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Tumblewash",
+      "url": "https://open.spotify.com/track/6XRxx3nTPhSTijeaB483Rw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Roots of Electronica Vol. 4, European Avant-Garde, Noise and Experimental Music",
         "url": "https://open.spotify.com/album/4hhOfqckrZJbLUq4LXLQyI"
       },
@@ -491,18 +491,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dr. Faustus Suite",
-        "url": "https://open.spotify.com/album/6omAW7tFneti1UJiGhBQeS"
+        "name": "Private Dreams and Public Nightmares",
+        "url": "https://open.spotify.com/album/3nX2uKD1E7rfonhnaDDnel"
       },
       "artists": [
         {
           "name": "Daphne Oram",
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        },
+        {
+          "name": "Daz Quayle",
+          "url": "https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk"
+        },
+        {
+          "name": "Andrea Parker",
+          "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
         }
       ],
-      "duration_ms": 581056,
-      "name": "Dr. Faustus Suite",
-      "url": "https://open.spotify.com/track/52Yk2P2JzL3UwZUDyOMFHy"
+      "duration_ms": 844733,
+      "name": "Frightened of Myself",
+      "url": "https://open.spotify.com/track/7Lr072A5uJTm7xj2mUiUvP"
     },
     {
       "added_at": null,
@@ -523,6 +531,30 @@
       "duration_ms": 1172511,
       "name": "Listen, Move And Dance Nos. 1-3",
       "url": "https://open.spotify.com/track/7HdlteQFZbZ3VT6jnjOEAf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Private Dreams and Public Nightmares",
+        "url": "https://open.spotify.com/album/3nX2uKD1E7rfonhnaDDnel"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        },
+        {
+          "name": "Andrea Parker",
+          "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
+        },
+        {
+          "name": "Daz Quayle",
+          "url": "https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk"
+        }
+      ],
+      "duration_ms": 465813,
+      "name": "Now and Always Here",
+      "url": "https://open.spotify.com/track/6SfsKgUrl0A5gs8LfQ9wWV"
     },
     {
       "added_at": null,
@@ -560,30 +592,6 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         },
         {
-          "name": "Daz Quayle",
-          "url": "https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk"
-        },
-        {
-          "name": "Andrea Parker",
-          "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
-        }
-      ],
-      "duration_ms": 844733,
-      "name": "Frightened of Myself",
-      "url": "https://open.spotify.com/track/7Lr072A5uJTm7xj2mUiUvP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Dreams and Public Nightmares",
-        "url": "https://open.spotify.com/album/3nX2uKD1E7rfonhnaDDnel"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        },
-        {
           "name": "Andrea Parker",
           "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
         },
@@ -595,30 +603,6 @@
       "duration_ms": 1758053,
       "name": "Are You There..? - Live from the Roundhouse",
       "url": "https://open.spotify.com/track/7rSUyp6JfBGU46PmqSElMR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Dreams and Public Nightmares",
-        "url": "https://open.spotify.com/album/3nX2uKD1E7rfonhnaDDnel"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        },
-        {
-          "name": "Andrea Parker",
-          "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
-        },
-        {
-          "name": "Daz Quayle",
-          "url": "https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk"
-        }
-      ],
-      "duration_ms": 465813,
-      "name": "Now and Always Here",
-      "url": "https://open.spotify.com/track/6SfsKgUrl0A5gs8LfQ9wWV"
     }
   ],
   "unique_name": "This Is Daphne Oram",

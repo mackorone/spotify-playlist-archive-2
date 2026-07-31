@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 105591,
+  "num_followers": 105608,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAACX9oyHBc4J0E7fWTVvhbp7",
+  "snapshot_id": "amlCgAAAAACR9dqac59zoBkMkVfa+6GU",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estar Lejos",
-        "url": "https://open.spotify.com/album/6lH96T5oRD0PSBkeblpq11"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 247092,
-      "name": "Estar Lejos",
-      "url": "https://open.spotify.com/track/4lmd6jUDk3bUWkID5w0CCA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siembra",
         "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
       },
@@ -659,6 +639,22 @@
       "duration_ms": 265913,
       "name": "Abuelita - Remastered 2024",
       "url": "https://open.spotify.com/track/10fLErlEExaTeFbr7dZuZA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vida Mas Simple",
+        "url": "https://open.spotify.com/album/4XjOzImqR39IvSHrapxoRv"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 247066,
+      "name": "Estar Lejos",
+      "url": "https://open.spotify.com/track/4jSg7gqa54hxILz9urk7R4"
     },
     {
       "added_at": null,
@@ -979,22 +975,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only They Could Have Made This Album (Remastered 2024)",
-        "url": "https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM"
+        "name": "La Gran Fuga (Remastered 2024)",
+        "url": "https://open.spotify.com/album/1wTxhorwJ7sqFHqzgNi2Ak"
       },
       "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 172295,
-      "name": "Plazos Traicioneros - Remastered 2024",
-      "url": "https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj"
+      "duration_ms": 354829,
+      "name": "Paname\u00f1a - Remastered 2024",
+      "url": "https://open.spotify.com/track/3nKFRo3pxh2KMITB9zKt0c"
     }
   ],
   "unique_name": "This Is Willie Col\u00f3n",

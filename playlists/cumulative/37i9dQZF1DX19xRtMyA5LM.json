@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste tracks in WS\u2757\ufe0fCover: Highguest",
+  "description": "De beste tracks in WS\u2757\ufe0fCover: Jiggy Dj\u00e9",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -1024,6 +1024,32 @@
       "duration_ms": 141250,
       "name": "Badman Stories",
       "url": "https://open.spotify.com/track/2N4tITKqBDP1Mh5dw2hGTM"
+    },
+    {
+      "album": {
+        "name": "Baff Baff",
+        "url": "https://open.spotify.com/album/0OvGpYbVACth6puRrgGMo0"
+      },
+      "artists": [
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        },
+        {
+          "name": "Oomto",
+          "url": "https://open.spotify.com/artist/10Tmpcwo1bS6hnYOBI1Gip"
+        },
+        {
+          "name": "GP UIT G",
+          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "Baff Baff",
+      "url": "https://open.spotify.com/track/5E57anFYCRW3jQdgiGnMsk"
     },
     {
       "album": {
@@ -7188,7 +7214,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 174246,
       "name": "NO LIE",
       "url": "https://open.spotify.com/track/4dCK5jjjWgEODJrdo0Joh1"
@@ -10179,6 +10205,24 @@
     },
     {
       "album": {
+        "name": "UPSIDE DOWN",
+        "url": "https://open.spotify.com/album/4fJcOavExGgD5LGjdQLxCP"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Dj\u00e9",
+          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189938,
+      "name": "UPSIDE DOWN",
+      "url": "https://open.spotify.com/track/51PUb9m5TTwn8m5CPvLT6Z"
+    },
+    {
+      "album": {
         "name": "Vage Gozer",
         "url": "https://open.spotify.com/album/71YgosnEaSCYHQX1T9EZyo"
       },
@@ -11354,7 +11398,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 212835,
       "name": "\u00dcBER DIE GRENZE",
       "url": "https://open.spotify.com/track/11eEwahIOB5hLz8gyYLPUg"

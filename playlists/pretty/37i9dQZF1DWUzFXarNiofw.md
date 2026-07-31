@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Fridayy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,867 likes - 274 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,869 likes - 274 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 21 | [IT'S OKAY](https://open.spotify.com/track/4P0qRl7ePBk2JkvvgmYLeN) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy), [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [IT'S OKAY](https://open.spotify.com/album/4tLlYRYxOw1i50pChoby8w) | 3:21 |
 | 22 | [Bullseye \- Nice Shot](https://open.spotify.com/track/4zL1U5KpM1hHbINN2wouBF) | [Sy'Rai](https://open.spotify.com/artist/77UHD0ajx6cBSHHfpjiUsQ) | [Bullseye \(Nice Shot\)](https://open.spotify.com/album/4fmn8OegoqLXX7YtS1Jsi4) | 3:03 |
 | 23 | [REVENGE](https://open.spotify.com/track/6WFUjFm7cUN44fWrcHQpaN) | [Adanna Duru](https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90) | [THE NAIJAMERICAN DREAM](https://open.spotify.com/album/4RsrgQml0MbefvMQN6r35I) | 3:02 |
-| 24 | [In The Movies](https://open.spotify.com/track/4l9YqlaH1UKCHwJHnH9fZg) | [sunandmoon](https://open.spotify.com/artist/3PZw9pITQ4J0idBNtZ3gsg), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Anoop](https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy) | [In The Movies](https://open.spotify.com/album/0LY53we9zw8RTh5TDcM1dR) | 4:18 |
+| 24 | [In The Movies](https://open.spotify.com/track/4l9YqlaH1UKCHwJHnH9fZg) | [sunandmoon](https://open.spotify.com/artist/3ikGms7GwFvw8noOZqgo0e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Anoop](https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy) | [In The Movies](https://open.spotify.com/album/0LY53we9zw8RTh5TDcM1dR) | 4:18 |
 | 25 | [BBY BLUE](https://open.spotify.com/track/154PMXgUanYQKSG5nQ3SuD) | [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [BBY BLUE](https://open.spotify.com/album/3t6nCzdmRNtEZ2NZ8qIiRN) | 3:52 |
 | 26 | [Water & Vibes](https://open.spotify.com/track/2FWcDQ9zviPFttuF35og4h) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z), [Anieszka](https://open.spotify.com/artist/0V8Un1gkMYKYp2Hq3yqmhY) | [As The World Burns...](https://open.spotify.com/album/44OY4GEnZF1HXb6nIDPpyR) | 2:58 |
 | 27 | [Never do that](https://open.spotify.com/track/0ZFB3QQHd3epfwFZrRtJdb) | [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH) | [Never do that](https://open.spotify.com/album/7lPt8mGOUUZukeHcx6FA6v) | 2:00 |
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 100 | [Moth 2 A Flame](https://open.spotify.com/track/5cZzLZHm25ccAisqkwHg2n) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [Moth 2 A Flame](https://open.spotify.com/album/3NoSBQE8qOogDyK46qhoiz) | 2:33 |
 | 101 | [RAX](https://open.spotify.com/track/0G6tAQnK1t8EWKCBZYYRph) | [Zae France](https://open.spotify.com/artist/7jun6jJ4LOAQfx5gSs6mJX) | [RAX](https://open.spotify.com/album/01kT2Oh03HzYUpIP8nrCaM) | 2:54 |
 | 102 | [Down Bad](https://open.spotify.com/track/49hvtfulvEJ3kiac97TNNL) | [Davion Farris](https://open.spotify.com/artist/1fs8ZTl4T9HJ6ZHuDyU5bI), [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Alchemy](https://open.spotify.com/album/5tRH929SEHDYOHg4Ky1Y0a) | 4:02 |
-| 103 | [Just For A Moment \(feat\. Dende\) \(Acoustic\)](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
+| 103 | [Just For A Moment \(feat\. Dende\) \- \(Acoustic\)](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
 | 104 | [Voices In My Head](https://open.spotify.com/track/0NWsPR62mulEiwUXF5W7Ql) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Voices In My Head](https://open.spotify.com/album/3Zg0vOH7zsN17dAAngLP8s) | 2:51 |
 | 105 | [Energy](https://open.spotify.com/track/05emgoB0Fg2DhOGrfTRTY2) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Energy](https://open.spotify.com/album/6Y3iRo05ckfykXYtjxX2sk) | 3:13 |
 | 106 | [Slide](https://open.spotify.com/track/0QhQnZNRJeVz0Eu21ik078) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Slide](https://open.spotify.com/album/2aHZBZ8EFKm9q10eKXIGw3) | 3:44 |
@@ -283,4 +283,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 273 | [High](https://open.spotify.com/track/1fylUPtF8NeiiZQng4F1Tf) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [High](https://open.spotify.com/album/0iTH2MjVG0ZGxQmjYXgzy5) | 2:55 |
 | 274 | [On Cam](https://open.spotify.com/track/6X0gxQVDV5foS61ukGYJzb) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [On Cam](https://open.spotify.com/album/60fRgIaM94Ua327WIZ3nhr) | 4:04 |
 
-Snapshot ID: `AAAAAD7wAqPLVEg4euvSFQyRcE8NUjYH`
+Snapshot ID: `AAAAANdBlwxj/MUHAG8bl6EqKnBAQqua`

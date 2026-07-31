@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 70's! Cover: Rob de Nijs",
-  "num_followers": 37824,
+  "num_followers": 37831,
   "original_name": "70's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKwMFLVtHO+A3+A3ChdFmIGPUQ97",
+  "snapshot_id": "AAAAALYrXKyIDMpcwd5477e7X0g8/AFI",
   "tracks": [
     {
       "added_at": "2024-07-09 16:51:18",
@@ -483,22 +483,6 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
-        "name": "Het Mooiste Van Willeke Alberti",
-        "url": "https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl"
-      },
-      "artists": [
-        {
-          "name": "Willeke Alberti",
-          "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Telkens Weer",
-      "url": "https://open.spotify.com/track/2SaioB9g7yWhiDj4nsrtVs"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
         "name": "Waar moet dat heen? Hoe zal dat gaan?",
         "url": "https://open.spotify.com/album/59VFMA8m9YsjcCnTK9Zbxt"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 180173,
       "name": "Ik ben Gerrit",
       "url": "https://open.spotify.com/track/0RsbkyqqrTmwolQIshPVjX"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
+        "name": "Het Mooiste Van Willeke Alberti",
+        "url": "https://open.spotify.com/album/4oGOyj6OKbdClBPXjyePzl"
+      },
+      "artists": [
+        {
+          "name": "Willeke Alberti",
+          "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Telkens Weer",
+      "url": "https://open.spotify.com/track/2SaioB9g7yWhiDj4nsrtVs"
     },
     {
       "added_at": "2024-07-09 16:51:18",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-07-09 16:51:18",
       "album": {
-        "name": "100 Mooiste Liedjes van Ramses en Liesbeth",
-        "url": "https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR"
-      },
-      "artists": [
-        {
-          "name": "Liesbeth List",
-          "url": "https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Te Veel, Te Vaak",
-      "url": "https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg"
-    },
-    {
-      "added_at": "2024-07-09 16:51:18",
-      "album": {
         "name": "Voor Niets",
         "url": "https://open.spotify.com/album/2z6fKrPNXv57GE6KqaxHmY"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 200396,
       "name": "Voor Niets",
       "url": "https://open.spotify.com/track/4XF8lgqdTfxQGrc0EUkDyp"
+    },
+    {
+      "added_at": "2024-07-09 16:51:18",
+      "album": {
+        "name": "100 Mooiste Liedjes van Ramses en Liesbeth",
+        "url": "https://open.spotify.com/album/0Yj16bjpuUz4sLggLn8XFR"
+      },
+      "artists": [
+        {
+          "name": "Liesbeth List",
+          "url": "https://open.spotify.com/artist/4x9b95tQANyGxHLQzWN0If"
+        }
+      ],
+      "duration_ms": 222226,
+      "name": "Te Veel, Te Vaak",
+      "url": "https://open.spotify.com/track/21akKWbeYAd1HPzMUGMvMg"
     },
     {
       "added_at": "2024-07-09 16:51:18",

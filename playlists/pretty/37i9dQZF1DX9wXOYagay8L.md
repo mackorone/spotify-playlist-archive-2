@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Jabulile Majola
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,124 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,149 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 99 | [Nhliziyo Yami](https://open.spotify.com/track/1S1K6RxkEkm9a9op800QEk) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Blaq Major](https://open.spotify.com/artist/1HGyQR41EokAZE5Dl4PtYc) | [Nhliziyo Yami](https://open.spotify.com/album/63T7KXcTB6F4nGpThALrTs) | 4:06 |
 | 100 | [Sigade Umzila](https://open.spotify.com/track/6b3rUrXrJakECmLYi4YLKs) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX) | [Impisi Iyalaya \(Deleted\)](https://open.spotify.com/album/5jKeQ21OJbv728vwPk1wMT) | 3:25 |
 
-Snapshot ID: `AAAAAIeKdRXl8cJFtV8kTyGsWrylycDP`
+Snapshot ID: `AAAAAGrRWdzR4zHK0b50+BgHZzclZLSx`

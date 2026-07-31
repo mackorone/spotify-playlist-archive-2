@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Barnim",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: pszona, Nita",
   "name": "up next",
   "tracks": [
     {
@@ -341,6 +341,24 @@
     },
     {
       "album": {
+        "name": "ADA",
+        "url": "https://open.spotify.com/album/6eHTt0NphxjV4cGoclBjfd"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153531,
+      "name": "ADA",
+      "url": "https://open.spotify.com/track/4TxgjXRNWI6IlKc1wRxjDg"
+    },
+    {
+      "album": {
         "name": "Adoruje",
         "url": "https://open.spotify.com/album/4coeoHHAySMXfGt4PjGsAp"
       },
@@ -360,6 +378,24 @@
       "duration_ms": 155121,
       "name": "Adoruje",
       "url": "https://open.spotify.com/track/6iYHlyG64QyVqCmI5eMosJ"
+    },
+    {
+      "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
     },
     {
       "album": {
@@ -554,7 +590,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 183373,
       "name": "Angel(s)",
       "url": "https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y"
@@ -880,7 +916,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 171840,
       "name": "Back To Your Hands",
       "url": "https://open.spotify.com/track/1i5LtlPvzpwbYhEEpyVOLT"
@@ -2028,7 +2064,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 164671,
       "name": "B\u00f3j si\u0119 Boga dziewczyno",
       "url": "https://open.spotify.com/track/1RurdatzxyZO0FT0Su3p6P"
@@ -3212,7 +3248,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 131338,
       "name": "Cz\u0105stka mnie",
       "url": "https://open.spotify.com/track/5Lwm1FirgtPakHR0JnHOV4"
@@ -3238,6 +3274,28 @@
       "duration_ms": 146982,
       "name": "Daj Mi Zna\u0107",
       "url": "https://open.spotify.com/track/5TwGHj8i48jbLa3Vwd5OF1"
+    },
+    {
+      "album": {
+        "name": "Daj mi zna\u0107",
+        "url": "https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        },
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179354,
+      "name": "Daj mi zna\u0107",
+      "url": "https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo"
     },
     {
       "album": {
@@ -4163,6 +4221,24 @@
     },
     {
       "album": {
+        "name": "Echo Echo",
+        "url": "https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI"
+      },
+      "artists": [
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133987,
+      "name": "Echo Echo",
+      "url": "https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0"
+    },
+    {
+      "album": {
         "name": "EDEN",
         "url": "https://open.spotify.com/album/0N9FSY1ZPYkkySGVQYcswA"
       },
@@ -4760,7 +4836,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 211764,
       "name": "Gdzie jest Frank Ocean?",
       "url": "https://open.spotify.com/track/0Zl4Qc9ykqydUmTvbc145L"
@@ -6362,7 +6438,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 277509,
       "name": "jutro spoczniemy na dnie odleg\u0142ego morza",
       "url": "https://open.spotify.com/track/6fAjclJ49KZBzgOwhkpTqH"
@@ -7204,7 +7280,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 196000,
       "name": "Lawenda",
       "url": "https://open.spotify.com/track/0drGhZGTBdkiqzRpMjyM9b"
@@ -7526,7 +7602,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 191250,
       "name": "ludzik",
       "url": "https://open.spotify.com/track/1QEJVqRz6oYgTvGRa582jV"
@@ -8283,6 +8359,24 @@
     },
     {
       "album": {
+        "name": "Miodowe lata",
+        "url": "https://open.spotify.com/album/2KXbj2rHdMkluZn7EEy78C"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211196,
+      "name": "Miodowe lata",
+      "url": "https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv"
+    },
+    {
+      "album": {
         "name": "mirabelkowy asfalt",
         "url": "https://open.spotify.com/album/4poh2MHhgQthdH6byXneK2"
       },
@@ -8352,7 +8446,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 183750,
       "name": "miss me, babe?",
       "url": "https://open.spotify.com/track/51kgPfVqfuHq05QT5kUP1m"
@@ -9127,6 +9221,28 @@
     },
     {
       "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/2TDnSI84aFkmUPBl7mrLfF"
+      },
+      "artists": [
+        {
+          "name": "Hania",
+          "url": "https://open.spotify.com/artist/4orDCRH2msx7nvHsbWP2aa"
+        },
+        {
+          "name": "samunowak",
+          "url": "https://open.spotify.com/artist/0MYLB6VEVrATlmgPaBoQmt"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144586,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/4iFIvFP6aYf9luSL2ToG7R"
+    },
+    {
+      "album": {
         "name": "Nasze lato",
         "url": "https://open.spotify.com/album/0ZZVov08lHKPGzGqGFUeYu"
       },
@@ -9629,6 +9745,28 @@
     },
     {
       "album": {
+        "name": "Nie t\u0119dy droga",
+        "url": "https://open.spotify.com/album/0sBj1vSlzrGotfcgWjTAYf"
+      },
+      "artists": [
+        {
+          "name": "zachwyt",
+          "url": "https://open.spotify.com/artist/57F4M4L3esGKsmMwT4zt01"
+        },
+        {
+          "name": "Karolina Prasa\u0142",
+          "url": "https://open.spotify.com/artist/1hQJVFqdypfYIUK91Pzadr"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229500,
+      "name": "Nie t\u0119dy droga",
+      "url": "https://open.spotify.com/track/7y08ZSBOtWhjazBozOsjoz"
+    },
+    {
+      "album": {
         "name": "Nie umiem czeka\u0107",
         "url": "https://open.spotify.com/album/45ByJ81eVGqYXRKCbNcLTE"
       },
@@ -9964,7 +10102,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 152312,
       "name": "NIGHT OUT",
       "url": "https://open.spotify.com/track/2I0d5mI7uU4NqJJ9uD9fmK"
@@ -13668,7 +13806,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 182933,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/3KnNRJwe3Vzv3cyjNaS4Bd"
@@ -15013,6 +15151,24 @@
     },
     {
       "album": {
+        "name": "TRESURA",
+        "url": "https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190062,
+      "name": "TRESURA",
+      "url": "https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al"
+    },
+    {
+      "album": {
         "name": "Trudne Sprawy",
         "url": "https://open.spotify.com/album/4uRovYXvNxkOJ1PDp1c6ND"
       },
@@ -15939,6 +16095,24 @@
     },
     {
       "album": {
+        "name": "Widz\u0119 Ci\u0119",
+        "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
+      },
+      "artists": [
+        {
+          "name": "Diiya",
+          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Widz\u0119 Ci\u0119",
+      "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
+    },
+    {
+      "album": {
         "name": "Widz\u0119 Ci\u0119 od nowa",
         "url": "https://open.spotify.com/album/3Om5hWxQjSRPGN5rN6ZvbP"
       },
@@ -16092,6 +16266,24 @@
       "duration_ms": 150321,
       "name": "woda utleniona",
       "url": "https://open.spotify.com/track/05PIFyGeH8pSnAfTb2dZpV"
+    },
+    {
+      "album": {
+        "name": "WODA Z LODEM",
+        "url": "https://open.spotify.com/album/4DZQhpDNPnwN15Cs8dF623"
+      },
+      "artists": [
+        {
+          "name": "Patryk Skoczy\u0144ski",
+          "url": "https://open.spotify.com/artist/6EvOzqemUOfdlCglrH23L8"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150272,
+      "name": "WODA Z LODEM",
+      "url": "https://open.spotify.com/track/54G8tGLnsGr9uXaTVSMLyi"
     },
     {
       "album": {
@@ -16468,7 +16660,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 137605,
       "name": "wzrok, w kt\u00f3rym pl\u0105cze si\u0119 mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/5a4Kmo43noRWD70IdDVYfK"
@@ -16987,6 +17179,24 @@
     },
     {
       "album": {
+        "name": "Zapomnij mnie",
+        "url": "https://open.spotify.com/album/1onqezb5thq5OIpo3Q15YK"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "Zapomnij mnie",
+      "url": "https://open.spotify.com/track/00ZA0yqnQX0Zwf3dy12DZ4"
+    },
+    {
+      "album": {
         "name": "zapomnij o mnie",
         "url": "https://open.spotify.com/album/7ztKiO1WEnRZXhMXfMmWnn"
       },
@@ -17134,6 +17344,28 @@
       "duration_ms": 275593,
       "name": "Ziemia",
       "url": "https://open.spotify.com/track/43b6YCVseA2Ueb80ef1XT4"
+    },
+    {
+      "album": {
+        "name": "ELEMENTY",
+        "url": "https://open.spotify.com/album/6dBtBtn9rCuRMDGvl7H8ES"
+      },
+      "artists": [
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        },
+        {
+          "name": "Timone",
+          "url": "https://open.spotify.com/artist/5arjvbDpl6pfPCJK3FTGVy"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "ZIEMIA_ARDHI",
+      "url": "https://open.spotify.com/track/7e6kfmfl84bOdlUeg80CYp"
     },
     {
       "album": {

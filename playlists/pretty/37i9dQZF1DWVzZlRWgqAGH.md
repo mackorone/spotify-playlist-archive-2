@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 
 > Masego and music for your soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,952 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,958 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzZlRWgqAGH.md) - [plain]
 | 79 | [Everyday](https://open.spotify.com/track/5X04jyKedcufuGh7Q9ZkMq) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Everyday](https://open.spotify.com/album/0HtDDfNqqjCiKhiUEiO2F8) | 2:31 |
 | 80 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 |
 
-Snapshot ID: `AAAAAHxNSGq92S1Lh22CHq+RE+v4uDXW`
+Snapshot ID: `AAAAAMZ8W5AyhCgGE62swn4kj8bve+wi`

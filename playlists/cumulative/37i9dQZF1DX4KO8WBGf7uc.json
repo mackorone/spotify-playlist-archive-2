@@ -2519,6 +2519,28 @@
     },
     {
       "album": {
+        "name": "La Monda",
+        "url": "https://open.spotify.com/album/1QT1DxXA6puYwj6WoVyllE"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185194,
+      "name": "La Monda",
+      "url": "https://open.spotify.com/track/6vQHz1y2MYkdPA0G5aQEcX"
+    },
+    {
+      "album": {
         "name": "SnipeZ",
         "url": "https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN"
       },
@@ -3108,7 +3130,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 315862,
       "name": "Mi Error - Remix",
       "url": "https://open.spotify.com/track/0lbhKycRyqkOMKZ6thzfU4"
@@ -3240,7 +3262,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 317440,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/36dhj3CSJ2gsED35rBswno"
@@ -3338,6 +3360,24 @@
       "duration_ms": 270186,
       "name": "Nadie (feat. Sech & Sharo Towers) - Remix",
       "url": "https://open.spotify.com/track/6pNjmMB8FTMEcqGSgs7Mji"
+    },
+    {
+      "album": {
+        "name": "NADIE TE ENSE\u00d1A A ROMPER UN CORAZ\u00d3N",
+        "url": "https://open.spotify.com/album/2pD1ueOLFTiNutvjvymJx1"
+      },
+      "artists": [
+        {
+          "name": "Lua Lacruz",
+          "url": "https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168275,
+      "name": "NADIE TE ENSE\u00d1A A ROMPER UN CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/2RWE3pGY5zBhnnLfbwbGXr"
     },
     {
       "album": {

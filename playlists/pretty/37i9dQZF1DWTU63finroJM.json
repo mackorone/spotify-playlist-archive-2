@@ -1,12 +1,12 @@
 {
   "description": "Meet the future of music around the world. Cover: THE DO",
-  "num_followers": 86422,
+  "num_followers": 86427,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEFEA1ipmrdZWzH3ryX94kiEhffl",
+  "snapshot_id": "AAAAABQIKFCmiSmGOiUWEOBhwgK8+h8W",
   "tracks": [
     {
       "added_at": "2026-07-24 13:00:01",
@@ -95,22 +95,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "First Times",
-        "url": "https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V"
-      },
-      "artists": [
-        {
-          "name": "GUS",
-          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
-        }
-      ],
-      "duration_ms": 196433,
-      "name": "Vivian",
-      "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "CONTACTO CONTACTO",
         "url": "https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9"
       },
@@ -127,6 +111,38 @@
       "duration_ms": 117300,
       "name": "CONTACTO CONTACTO",
       "url": "https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "First Times",
+        "url": "https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "duration_ms": 196433,
+      "name": "Vivian",
+      "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "No pega igual (Stuck on replay)",
+        "url": "https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 185118,
+      "name": "No pega igual (Stuck on replay)",
+      "url": "https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -151,22 +167,6 @@
       "duration_ms": 176338,
       "name": "TENSION",
       "url": "https://open.spotify.com/track/5FjO5xZr8oVLjKKnQc68VN"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
-        "name": "No pega igual (Stuck on replay)",
-        "url": "https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 185118,
-      "name": "No pega igual (Stuck on replay)",
-      "url": "https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
+        "name": "Solo Ama",
+        "url": "https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh"
+      },
+      "artists": [
+        {
+          "name": "El Bobo de las 3000",
+          "url": "https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB"
+        }
+      ],
+      "duration_ms": 210097,
+      "name": "Solo Ama",
+      "url": "https://open.spotify.com/track/7BToyjlXuJEPWhSdqQSC05"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
         "name": "I Feel Like Shit And It's All Your Fault",
         "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
       },
@@ -251,6 +267,22 @@
       "duration_ms": 177236,
       "name": "Hate My Mom",
       "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Pity",
+        "url": "https://open.spotify.com/album/0ogQlLcNvyYWwZAgR5PdBG"
+      },
+      "artists": [
+        {
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
+        }
+      ],
+      "duration_ms": 177762,
+      "name": "Pity",
+      "url": "https://open.spotify.com/track/5SY2CcJNvfvgKnZMm8XrdT"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -275,22 +307,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Pity",
-        "url": "https://open.spotify.com/album/0ogQlLcNvyYWwZAgR5PdBG"
-      },
-      "artists": [
-        {
-          "name": "rhyu",
-          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
-        }
-      ],
-      "duration_ms": 177762,
-      "name": "Pity",
-      "url": "https://open.spotify.com/track/5SY2CcJNvfvgKnZMm8XrdT"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/0UzzUwust9tYgU5oxj9e3I"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 189913,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/67z3fb8LD3tB6RnudTT7gg"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
-        "name": "Solo Ama",
-        "url": "https://open.spotify.com/album/0gUiuxsTkqRXZE6IUywRjh"
-      },
-      "artists": [
-        {
-          "name": "El Bobo de las 3000",
-          "url": "https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB"
-        }
-      ],
-      "duration_ms": 210097,
-      "name": "Solo Ama",
-      "url": "https://open.spotify.com/track/7BToyjlXuJEPWhSdqQSC05"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -339,34 +339,18 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
+        "name": "Bury It",
+        "url": "https://open.spotify.com/album/33W0mcGpZis0alt3swinMu"
       },
       "artists": [
         {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+          "name": "Estelle Fly",
+          "url": "https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk"
         }
       ],
-      "duration_ms": 123375,
-      "name": "Camila",
-      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR"
-      },
-      "artists": [
-        {
-          "name": "supercatkei",
-          "url": "https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN"
-        }
-      ],
-      "duration_ms": 176153,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y"
+      "duration_ms": 188181,
+      "name": "Bury It",
+      "url": "https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -387,6 +371,38 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR"
+      },
+      "artists": [
+        {
+          "name": "supercatkei",
+          "url": "https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN"
+        }
+      ],
+      "duration_ms": 176153,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 123375,
+      "name": "Camila",
+      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
         "name": "Al\u0131\u015ft\u0131m",
         "url": "https://open.spotify.com/album/7LrRZONcEPYPRDvwLC1U8M"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 177600,
       "name": "Al\u0131\u015ft\u0131m",
       "url": "https://open.spotify.com/track/3JTIs7oWHrhfJ9zmF7ALzR"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
-        "name": "Bury It",
-        "url": "https://open.spotify.com/album/33W0mcGpZis0alt3swinMu"
-      },
-      "artists": [
-        {
-          "name": "Estelle Fly",
-          "url": "https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk"
-        }
-      ],
-      "duration_ms": 188181,
-      "name": "Bury It",
-      "url": "https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x"
     },
     {
       "added_at": "2026-07-24 13:00:01",

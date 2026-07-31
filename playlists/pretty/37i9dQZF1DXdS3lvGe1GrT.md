@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Maya Donovan
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,688 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,740 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 74 | [Full Circle](https://open.spotify.com/track/3vDjuLWIztKBycG5gxHibt) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [When You Turn Around](https://open.spotify.com/album/6JL74yOq6MXK9oRRM6c4X8) | 3:15 |
 | 75 | [picking petals](https://open.spotify.com/track/0VekjqDttKaEwQ1XowzE7B) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [picking petals](https://open.spotify.com/album/7nEq3wBHWyXjhi80GE6cEf) | 3:48 |
 
-Snapshot ID: `AAAAAIxPSDyTl9bTguEJyoh0Y7/h2PoT`
+Snapshot ID: `AAAAAE4TEPDSXx7g8D3vPkSSsK0QpoCe`

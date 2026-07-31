@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: namesbliss",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Nemzzz",
   "name": "Rap UK",
   "tracks": [
     {
@@ -17143,6 +17143,24 @@
     },
     {
       "album": {
+        "name": "FWM",
+        "url": "https://open.spotify.com/album/30i8adhwbQbpDe0lErb7Dm"
+      },
+      "artists": [
+        {
+          "name": "Potter Payper",
+          "url": "https://open.spotify.com/artist/7bZpYWk0ZZN7CkOeXbAY0Z"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152166,
+      "name": "FWM",
+      "url": "https://open.spotify.com/track/2XJVOM6rxTkQhIHV6b6cyx"
+    },
+    {
+      "album": {
         "name": "NEMZZZ TYPE BEAT",
         "url": "https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR"
       },
@@ -29342,7 +29360,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 232747,
       "name": "Nana\u2019s Veranda",
       "url": "https://open.spotify.com/track/5WlK9nHuWqXlNtVPBfAnH6"
@@ -33208,7 +33226,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 158000,
       "name": "PAYG",
       "url": "https://open.spotify.com/track/0lgxvRcbVVylxN9cli3WSi"
@@ -34620,6 +34638,24 @@
       "duration_ms": 269787,
       "name": "Prevail (with Unknown T, Billy Billions, HitMan, Kay-O & Alchubbino)",
       "url": "https://open.spotify.com/track/43gzPI0Rii5GiLgimBVfDi"
+    },
+    {
+      "album": {
+        "name": "PRINCE OF THE SCENE",
+        "url": "https://open.spotify.com/album/0Eqp6A7oVC3upNYMGsu26e"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116073,
+      "name": "PRINCE OF THE SCENE",
+      "url": "https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6"
     },
     {
       "album": {
@@ -36556,7 +36592,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 109714,
       "name": "Risk",
       "url": "https://open.spotify.com/track/5isXNs4Awya0ljdBIA6De7"
@@ -44565,6 +44601,24 @@
     },
     {
       "album": {
+        "name": "Turnt To A Target",
+        "url": "https://open.spotify.com/album/38nVQrUylnvcwOZIK9epvr"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184109,
+      "name": "Turnt To A Target",
+      "url": "https://open.spotify.com/track/4hPfHFjl9GDxR3uvpZ7DMh"
+    },
+    {
+      "album": {
         "name": "Tuxedo",
         "url": "https://open.spotify.com/album/3gHNmJVN9A8fNrIzZQHykA"
       },
@@ -46991,6 +47045,24 @@
     },
     {
       "album": {
+        "name": "Where I Go (W.I.G)",
+        "url": "https://open.spotify.com/album/78O5E8j2h2WOR26zx1321p"
+      },
+      "artists": [
+        {
+          "name": "THIAGO",
+          "url": "https://open.spotify.com/artist/2FJfmQKv4jm8Zfi5K9uaUO"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122659,
+      "name": "Where I Go (W.I.G)",
+      "url": "https://open.spotify.com/track/59juBdCdQX0THna8cx7hos"
+    },
+    {
+      "album": {
         "name": "my neighbours don't know.",
         "url": "https://open.spotify.com/album/26nbJ8gBWq4XxxIWaE2i2N"
       },
@@ -47884,7 +47956,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 147692,
       "name": "WORK OF ART",
       "url": "https://open.spotify.com/track/3zoGDSqhsrkZ8nRQ2M3YpU"

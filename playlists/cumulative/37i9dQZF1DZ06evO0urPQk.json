@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 243786,
       "name": "Angel Blossom",
       "url": "https://open.spotify.com/track/6vxS68gz82kDyFLpxHkr8y"
@@ -272,6 +272,24 @@
       "duration_ms": 260201,
       "name": "DAYBREAKERS",
       "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
+    },
+    {
+      "album": {
+        "name": "Destiny's Prelude",
+        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299386,
+      "name": "Destiny's Prelude",
+      "url": "https://open.spotify.com/track/3FrTuc0iZXzB2qvguFjoy5"
     },
     {
       "album": {

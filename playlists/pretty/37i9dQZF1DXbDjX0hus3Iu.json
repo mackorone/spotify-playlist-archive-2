@@ -1,12 +1,12 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 539880,
+  "num_followers": 539902,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGM5PjmRZ/tOnbEt7gQQPI0BjiKT",
+  "snapshot_id": "AAAAAMhT0VAuRDRHxq/7wFMq3P0/TZMS",
   "tracks": [
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Van Zant Band",
+          "url": "https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C"
+        }
+      ],
+      "duration_ms": 323268,
+      "name": "Southern Comfort",
+      "url": "https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 298266,
       "name": "Time To Roll",
       "url": "https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/06n91VSG9qfkTY9znysZ3A"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Van Zant Band",
-          "url": "https://open.spotify.com/artist/3UaCfTAPqSeGFYQU9WS83C"
-        }
-      ],
-      "duration_ms": 323268,
-      "name": "Southern Comfort",
-      "url": "https://open.spotify.com/track/1TLlIe8ipNVx5pfkZPAbvM"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1169,6 +1169,26 @@
       "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
     },
     {
+      "added_at": "2025-07-11 17:42:51",
+      "album": {
+        "name": "Ain't Rocked in a While",
+        "url": "https://open.spotify.com/album/0Kr5O6qIDaPt4K9m2eTUzU"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        },
+        {
+          "name": "The Fixin's",
+          "url": "https://open.spotify.com/artist/7p0Qfaqk7McuS5iRrxYyLH"
+        }
+      ],
+      "duration_ms": 281160,
+      "name": "Ain't Rocked in a While",
+      "url": "https://open.spotify.com/track/6SlbbFk9nML695UuADbXCO"
+    },
+    {
       "added_at": "2025-06-20 04:06:02",
       "album": {
         "name": "Pattern Disruptive",
@@ -1215,26 +1235,6 @@
       "duration_ms": 293800,
       "name": "Georgia Rhythm",
       "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
-    },
-    {
-      "added_at": "2025-07-11 17:42:51",
-      "album": {
-        "name": "Ain't Rocked in a While",
-        "url": "https://open.spotify.com/album/0Kr5O6qIDaPt4K9m2eTUzU"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        },
-        {
-          "name": "The Fixin's",
-          "url": "https://open.spotify.com/artist/7p0Qfaqk7McuS5iRrxYyLH"
-        }
-      ],
-      "duration_ms": 281160,
-      "name": "Ain't Rocked in a While",
-      "url": "https://open.spotify.com/track/6SlbbFk9nML695UuADbXCO"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1543,8 +1543,8 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Eat A Peach",
-        "url": "https://open.spotify.com/album/3GMfHP49EkBLBQrxaZaNi6"
+        "name": "Eat A Peach (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4yvCI9bSiajFEvrYTgzmpe"
       },
       "artists": [
         {
@@ -1552,9 +1552,9 @@
           "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 298133,
-      "name": "One Way Out",
-      "url": "https://open.spotify.com/track/5cIrR2h1BF0VuFgAmgeJpR"
+      "duration_ms": 220586,
+      "name": "Ain't Wastin' Time No More",
+      "url": "https://open.spotify.com/track/1hHzmUP61nqVSyVHruv3jZ"
     },
     {
       "added_at": "2025-06-20 04:06:02",

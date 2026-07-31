@@ -4,7 +4,7 @@
 
 > 
 
-2,437 songs - 5 day 10 hr 56 min
+2,438 songs - 5 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1145,6 +1145,7 @@
 | [iwalkwhenitalk</3](https://open.spotify.com/track/03CRk2KMH20SAWv6OOQ9er) | [vnmpire](https://open.spotify.com/artist/0QsNA8omL2RFyNoHlWwlio) | [iwalkwhenitalk</3](https://open.spotify.com/album/3nc5FjDOeuHvzmM1NirYeA) | 1:38 | 2023-04-18 |  |
 | [IYDKMIGTHTKY \(Gimme That\)](https://open.spotify.com/track/16m8dqnXoAmu40eCp1BESe) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 6:20 | 2023-12-30 |  |
 | [IZ\-US](https://open.spotify.com/track/0c0Z5agmnSibjIWjdZV6R1) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Come To Daddy](https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp) | 2:57 | 2022-02-18 |  |
+| [J\*b](https://open.spotify.com/track/2Ovg9H7EJ5kIhuBBMvXyab) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Weekend Rockstar](https://open.spotify.com/album/075UnQx3cTGfN9mg82Agwz) | 1:57 | 2026-07-30 |  |
 | [Jacaranda](https://open.spotify.com/track/7J5fGbiPuhIlUR5BWuUPAL) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [From the Leaves of Your Garden](https://open.spotify.com/album/2X7tUE8Ansj36WJK7oOXXq) | 1:44 | 2024-05-07 |  |
 | [Jackie](https://open.spotify.com/track/3zXKeRjijKnBTJibrVY9kV) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 2:56 | 2022-06-13 |  |
 | [Japan](https://open.spotify.com/track/6LwYUSaVJLdTwrziHEUSxM) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Japan](https://open.spotify.com/album/3UFmxeMjw1aX5kby38JvsY) | 2:54 | 2022-06-27 |  |

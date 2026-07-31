@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: OTOY",
+  "description": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u0442\u0430 \u0441\u0432\u0456\u0442\u043e\u0432\u0456 \u0430\u0440\u0442\u0438\u0441\u0442\u0438 \u0432 \u0434\u043e\u0431\u0456\u0440\u0446\u0456 \u043d\u0430\u0439\u0446\u0456\u043a\u0430\u0432\u0456\u0448\u0438\u0445 \u043f\u043e\u043f \u0442\u0440\u0435\u043a\u0456\u0432. \u041e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: CHERNETSKA",
   "name": "\u0422\u041e\u041f \u041f\u041e\u041f 2026",
   "tracks": [
     {
@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+    },
+    {
+      "album": {
         "name": "Break Up in Reverse",
         "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
       },
@@ -1160,6 +1178,24 @@
       "duration_ms": 104400,
       "name": "De Madrug\u00e1",
       "url": "https://open.spotify.com/track/3h64Lbm3TXMBSByfnRQyZE"
+    },
+    {
+      "album": {
+        "name": "decide",
+        "url": "https://open.spotify.com/album/26TdR6oZ10B7pyp6uAuaY9"
+      },
+      "artists": [
+        {
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/5yUvntXwc1otvnZ8Bhxo85"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "decide",
+      "url": "https://open.spotify.com/track/6pVbCXFPnnWAUJEYifjSir"
     },
     {
       "album": {
@@ -2038,7 +2074,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 302989,
       "name": "Gorgone",
       "url": "https://open.spotify.com/track/4a4NSZqnAJMyizWczuRnlV"
@@ -3032,6 +3068,24 @@
       "duration_ms": 179692,
       "name": "LIGHTKEEPER",
       "url": "https://open.spotify.com/track/62oVVdxRyci3hazDaIDqWs"
+    },
+    {
+      "album": {
+        "name": "Like Dior",
+        "url": "https://open.spotify.com/album/1kAIsYyOQ0Kavr1MtAwjXc"
+      },
+      "artists": [
+        {
+          "name": "DEMCHUK",
+          "url": "https://open.spotify.com/artist/3TRGNgtC8KdP5XOWrwzpxO"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129481,
+      "name": "Like Dior",
+      "url": "https://open.spotify.com/track/2969t4QK2N7tipR94UkXgk"
     },
     {
       "album": {
@@ -5139,6 +5193,28 @@
     },
     {
       "album": {
+        "name": "Talk To Me, Zara",
+        "url": "https://open.spotify.com/album/5geHXgOaOjbB15V5Yx1bqM"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193350,
+      "name": "Talk To Me, Zara",
+      "url": "https://open.spotify.com/track/58bQU5JRk0sBMUMdRy7sjk"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
       },
@@ -7224,7 +7300,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 233057,
       "name": "\u0414\u043e\u0431\u0440\u0435, \u0449\u043e \u043c\u0430\u043c\u0430 \u043d\u0435 \u0437\u043d\u0430\u0454 - Original Soundtrack",
       "url": "https://open.spotify.com/track/3ovBjLpocImVoRWz5UwiP4"
@@ -7300,7 +7376,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 156040,
       "name": "\u0434\u043e\u043d\u0442 \u0442\u0430\u0447",
       "url": "https://open.spotify.com/track/7wvCfhqPHYAVONQALsOrOM"
@@ -7554,7 +7630,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 228281,
       "name": "\u0417\u0430\u043a\u043e\u0445\u0430\u043d\u0438\u0439",
       "url": "https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi"
@@ -7634,6 +7710,24 @@
       "duration_ms": 152000,
       "name": "\u0417\u0438\u043c\u0430 - \u00ab\u041f\u043e\u0442\u044f\u0433 \u0443 31 \u0433\u0440\u0443\u0434\u043d\u044f\u00bb",
       "url": "https://open.spotify.com/track/58M5bYBbLxGpml3HpdsGH5"
+    },
+    {
+      "album": {
+        "name": "\u0443 \u0433\u043b\u0438\u0431\u0438\u043d\u0456 \u0434\u0443\u0448\u0456",
+        "url": "https://open.spotify.com/album/5SQSVgAvIiaKWlhnqSy8g9"
+      },
+      "artists": [
+        {
+          "name": "CHERNETSKA",
+          "url": "https://open.spotify.com/artist/3NXDoDGrRoeOFS7UOoEYIK"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180521,
+      "name": "\u0437\u043b\u0456\u0442\u0430\u0439",
+      "url": "https://open.spotify.com/track/6gWR61j9VKJsAdkuSgSAy8"
     },
     {
       "album": {
@@ -10352,7 +10446,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 133988,
       "name": "\u0441\u0442\u043e \u0437\u0456 \u0441\u0442\u0430",
       "url": "https://open.spotify.com/track/2HSV4PUmsNv6uqiqCOlA1g"
@@ -11618,7 +11712,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 156646,
       "name": "\u0406\u041d\u0406\u0419",
       "url": "https://open.spotify.com/track/4YWHO5ztihkh5A5QXmxPPB"

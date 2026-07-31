@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,568 songs - 10 day 5 hr 10 min
+4,576 songs - 10 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [BRUCEWAYNE](https://open.spotify.com/track/5b8aoBB4T9VqYLwQC9SCqk) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [BRUCEWAYNE](https://open.spotify.com/album/0oeZt3vQXhs7sDyHGGcBFc) | 2:02 | 2025-07-03 |  |
 | [Brucia il Cielo](https://open.spotify.com/track/3V3c9hR9IOfGZdsdhVzTAB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italia Dance](https://open.spotify.com/album/1G91ZjYkSiRadJ1jMQJaS3) | 3:00 | 2025-09-15 |  |
 | [Brucia il Cielo \(another\)](https://open.spotify.com/track/5l9MbF9nNblZ8IZPPGb2xV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italia Dance](https://open.spotify.com/album/1G91ZjYkSiRadJ1jMQJaS3) | 2:45 | 2025-09-15 |  |
+| [Bruise](https://open.spotify.com/track/73ggumHKr80Nq9DAwXJu8E) | [IronObit](https://open.spotify.com/artist/7jCUqBnzcxgZN5YnkD6u39) | [Bruise](https://open.spotify.com/album/7JLWiDdyR8uTswb7lgsU99) | 3:14 | 2026-07-30 |  |
 | [BRUISER](https://open.spotify.com/track/1dAVF1RxI4cIhZmzcevjgX) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI) | [EAGLE OR THE EGG](https://open.spotify.com/album/3rw9U6xu0qvr2PDua4wEUa) | 2:22 | 2025-05-16 |  |
 | [Brunch Shit](https://open.spotify.com/track/4ppjAukBLZEOwGs13k7GeE) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Brunch Shit](https://open.spotify.com/album/6FMUH43329kwvlQxzH551C) | 1:55 | 2025-12-25 |  |
 | [Brutal Machines](https://open.spotify.com/track/5u2JG2ZZ6pa0BY8WNeAIC0) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Electronic Techno Metal](https://open.spotify.com/album/3QGQOQiU2ULfdIXSSp3w2y) | 4:00 | 2025-09-17 |  |
@@ -577,6 +578,7 @@
 | [Catch the Fever](https://open.spotify.com/track/1ENI9GPwUGD95y1bmMvuup) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Songs](https://open.spotify.com/album/05FrEwmYYgu2IwnICoZLiB) | 3:14 | 2025-09-17 |  |
 | [Catch the Fever \(another\)](https://open.spotify.com/track/4Jf7ipa6ML1ymHykbdhmyN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Songs](https://open.spotify.com/album/05FrEwmYYgu2IwnICoZLiB) | 3:28 | 2025-09-17 |  |
 | [Catching Matches](https://open.spotify.com/track/4lz4R6m5RGwov6GMn6K3XC) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Catching Matches](https://open.spotify.com/album/4Gw7FiyA9Dn0V6QUIadeMQ) | 3:28 | 2026-01-02 |  |
+| [Catching Matches](https://open.spotify.com/track/6E6mN52PjtMl9I0fEtPdLL) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [The End Is Always Nigh, The End Is Never Now](https://open.spotify.com/album/7azdUfeULBd4TBHO1NKoUy) | 3:28 | 2026-07-30 |  |
 | [Catena Aurea](https://open.spotify.com/track/1yiiFvAPbIaKGkbwjecgEP) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Catena Aurea](https://open.spotify.com/album/56e8OMpTfiEI8L3MMrrdrS) | 2:21 | 2026-02-01 |  |
 | [Cavaliere mascherato](https://open.spotify.com/track/3iXX8xiXGzHHWvKZE5K3LM) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Cavaliere mascherato](https://open.spotify.com/album/4ajPDhfPyY0ACQdtYrxKZr) | 2:13 | 2026-02-01 |  |
 | [cavaliere mascherato](https://open.spotify.com/track/0nnBKLXCHPzuw6WzwfT9kr) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [acustica](https://open.spotify.com/album/6lQngfE6PQjzuAQgJzw70b) | 2:28 | 2026-02-01 |  |
@@ -2242,8 +2244,10 @@
 | [Let's Go](https://open.spotify.com/track/5GuocXu1iB2pIipx6UKrrr) | [The Spent Priests](https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV) | [Let's Go](https://open.spotify.com/album/2224uV3uN96Tp9QATYxmUs) | 3:35 | 2026-05-19 |  |
 | [Let's Go!!](https://open.spotify.com/track/1zSAUMt5jxtIV1oDnUJbY2) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Let's Go!!](https://open.spotify.com/album/1MbOwUa67e4zVOawifDOIA) | 3:51 | 2025-09-26 |  |
 | [Let's Go!! \(Remixed\)](https://open.spotify.com/track/71kpTEDnwgzm772US3Uttc) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Let's Go!! \(Remixed\)](https://open.spotify.com/album/6zZqCdv769t9CvE2qAcgw0) | 2:54 | 2025-09-26 |  |
+| [Letter bomb](https://open.spotify.com/track/257ouBd9Lk6cTN6Pehksog) | [The Hong Kong Dollars](https://open.spotify.com/artist/1Gj90JO3ihhhnztQlrnubj) | [Letter bomb](https://open.spotify.com/album/2EMTEHR6B7PNUxZq3tHaCS) | 3:04 | 2026-07-30 |  |
 | [Lettera al mare](https://open.spotify.com/track/5KyqzgQeQR9MaVIGcAysM4) | [Solary](https://open.spotify.com/artist/0klksJbbpQWOEM47rfwg1u) | [Lettera al mare](https://open.spotify.com/album/5jPR1c8XTQBjYXv2A5zga1) | 2:32 | 2025-06-28 |  |
 | [Letters I Never Sent](https://open.spotify.com/track/00Fi9Z70M2APXY7HwVlaVA) | [Jett Harlow](https://open.spotify.com/artist/6Yerr8iumOGPbdhUv7Qci8) | [Fragments](https://open.spotify.com/album/2SIUFOdX6ebNUfo33fwC6K) | 4:11 | 2025-05-28 |  |
+| [Letting Go](https://open.spotify.com/track/4cyhP6RdHSh3BO3w919RoZ) | [Wretched Things](https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk) | [Letting Go](https://open.spotify.com/album/5tWApKMQsnNfjd0kb0hdf1) | 3:44 | 2026-07-30 |  |
 | [Level Up My Demons](https://open.spotify.com/track/0IXfycIeqzpB1uLjBDI0G5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Videogame inspired alternative rock](https://open.spotify.com/album/5zRoS1FLwDk1J1PcPd4oyT) | 2:18 | 2025-09-12 |  |
 | [Lewis song](https://open.spotify.com/track/3oJBc5b2lVz3xx5zPydDDe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Raggae style by AIVA](https://open.spotify.com/album/2J4w2kpg2MMYyQ4YzyBigo) | 0:56 | 2025-07-01 |  |
 | [Lewk](https://open.spotify.com/track/6RBsi0AardbmEVdV8wGj4G) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 2:53 | 2025-08-28 |  |
@@ -2376,6 +2380,7 @@
 | [Low cost flights](https://open.spotify.com/track/68FuZuHqBIkKpFIGRnrdlF) | [IGuez](https://open.spotify.com/artist/0lflL0X5bcRofHCuxHE0Ya) | [Low cost flights](https://open.spotify.com/album/3EEKxo2vEQT7SdopFcTsU0) | 4:52 | 2025-12-26 |  |
 | [LSD](https://open.spotify.com/track/5d27OCe5P7XDaY1yaeH3lf) | [Elton Aura](https://open.spotify.com/artist/4O24XfCPqIJQUMXOJ2F0ni) | [LSD](https://open.spotify.com/album/0fyuRKEksTz5L534lbsS1Z) | 2:50 | 2025-05-16 |  |
 | [luce](https://open.spotify.com/track/4NBxaUtkB1KFFVJ9XxanHq) | [Holyroh](https://open.spotify.com/artist/0LPwMpSScA73gR7VENCleQ) | [luce](https://open.spotify.com/album/7KxL66ZnSktIbKQdTS1y5a) | 3:26 | 2025-06-06 |  |
+| [Luce che resta](https://open.spotify.com/track/2RWrMEhbbxdc55NZnWXMBL) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 4:29 | 2026-07-30 |  |
 | [Luce di Stelle](https://open.spotify.com/track/1iue7k8mkLo6I8MGpqyLov) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Italiano](https://open.spotify.com/album/7IrQUjWQhPAXuhNFYaDVI0) | 2:46 | 2025-07-01 |  |
 | [Luce Sulle Stelle](https://open.spotify.com/track/0zeFR25hkSYxUKqjdu7Bjm) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italian Music](https://open.spotify.com/album/0P7EboV1NMbmK6iX5ALFyS) | 2:50 | 2025-09-18 |  |
 | [Luce Sulle Stelle \(another\)](https://open.spotify.com/track/4vLPx942GbFq1LkY4dz0ka) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italian Music](https://open.spotify.com/album/0P7EboV1NMbmK6iX5ALFyS) | 2:27 | 2025-09-18 |  |
@@ -2829,6 +2834,7 @@
 | [NuovaEra](https://open.spotify.com/track/3zjTVmTv7YbXWj1sv1yYGk) | [Aleph Viola](https://open.spotify.com/artist/4PU84mKkib4cTMPGUMYMXr) | [NuovaEra](https://open.spotify.com/album/0UNz5jqlnttpwFDgsjuV06) | 3:29 | 2025-07-30 |  |
 | [Nuove Rotte](https://open.spotify.com/track/59nbSqtxgppRtUVa65xwHk) | [Lorenzo Colucci](https://open.spotify.com/artist/4BRWgyOnIuVwX5T3yEpE6c) | [Nuove Rotte](https://open.spotify.com/album/3bMnU5S6r8mhq7Rt9sXkcd) | 3:15 | 2026-01-20 |  |
 | [Nura](https://open.spotify.com/track/1r0tSRtG85WzU8BXY9w3WP) | [Gary Tapiego](https://open.spotify.com/artist/73rYkLqdQlbp7BM6tDuo5v) | [Nura](https://open.spotify.com/album/3Qw5OcvnTYtXjU78OmDDwQ) | 2:00 | 2025-03-18 |  |
+| [NÃO ME DEIXE SÓ](https://open.spotify.com/track/1tla0B1hQI4yJn34vqbzFY) | [Malvisto](https://open.spotify.com/artist/6DbqUhorIDgoDyG0KhSdqk), [SHFR](https://open.spotify.com/artist/5LlpZBL5I7KqE7TKowI8hI), [Angelís](https://open.spotify.com/artist/0PZtO0Cok5DJDXqAbi21kQ) | [NÃO ME DEIXE SÓ](https://open.spotify.com/album/0BKNwyGfdqEL1OfGzWHOnK) | 3:52 | 2026-07-30 |  |
 | [O Aqui e Agora Conta](https://open.spotify.com/track/6MWBDYKB2z2fFYI7bHOIAk) | [Adriano Mar](https://open.spotify.com/artist/4LfMSWeGo1zmDVDlXfVBTY) | [Adriano Mar](https://open.spotify.com/album/3bR8j0krJ4B4ZpExVraMox) | 6:34 | 2025-05-05 |  |
 | [O Superman](https://open.spotify.com/track/421Gp1eSmOIcD6alTWowFR) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Big Science](https://open.spotify.com/album/5nfdstl6JxGrDQtm1B2LnZ) | 8:25 | 2025-12-04 |  |
 | [O2](https://open.spotify.com/track/6LEvHdwNte7uSEkZKxenKt) | [DeshYo](https://open.spotify.com/artist/6IvDNnbo1jycPOc48zTOT8) | [O2](https://open.spotify.com/album/3W8mPza24dcodMkvY5Dls0) | 4:07 | 2025-09-26 |  |
@@ -2855,6 +2861,7 @@
 | [October's Dance](https://open.spotify.com/track/2OrmoIbvegvNoW0uRvj7pD) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [October 2024 Dance Pop](https://open.spotify.com/album/278IQqXzQ3oSco90EBM3GC) | 3:23 | 2025-09-17 |  |
 | [October's Dance \(another\)](https://open.spotify.com/track/0qsyBd21xWfj1kAHxCSZb2) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [October 2024 Dance Pop](https://open.spotify.com/album/278IQqXzQ3oSco90EBM3GC) | 2:26 | 2025-09-17 |  |
 | [OCTOPUSSY//オクトパシー](https://open.spotify.com/track/4x51ueZ0mcyPD67Ag4gXCg) | [MAUS](https://open.spotify.com/artist/0ZzqYn4KEYpeN85lNzDY33) | [OCTOPUSSY//オクトパシー](https://open.spotify.com/album/62DXymoZJJYBq88w0MvHUZ) | 3:46 | 2025-06-06 |  |
+| [Ode To A Friend](https://open.spotify.com/track/79A2MXs3fvBqxgjWhFcevr) | [Jordan Bailey](https://open.spotify.com/artist/0hGKx9UEqBFpYYf0hYk7JS) | [Ode To A Friend](https://open.spotify.com/album/5TYNAKqVYfHMoOsW98ytRv) | 5:02 | 2026-07-30 |  |
 | [Odio](https://open.spotify.com/track/5Fj0nWVtW6DgRLIxSInrES) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Grandi Bugie Legalizzate](https://open.spotify.com/album/5plR5qER6ZLx0CRmLaegEW) | 2:08 | 2025-04-04 |  |
 | [ODIO E INVIDIA](https://open.spotify.com/track/0qpKgeUt82D1niAXtHYucp) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [NON SONO IL PAPA \(Deluxe Edition\)](https://open.spotify.com/album/29s0ZAydytxQoqxqEhI4Mv) | 2:05 | 2025-04-04 |  |
 | [Odio e Invidia \- Sessione Intima](https://open.spotify.com/track/1pkJBGkROa2fDOU1ZpN3h4) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Sessione Intima](https://open.spotify.com/album/3EIaXCDzmDpd383UN4VhTi) | 2:06 | 2025-04-04 |  |
@@ -4471,6 +4478,7 @@
 | [Without Slaves](https://open.spotify.com/track/5r0aZbji2kxr5p5DvwNkbC) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Without Slaves](https://open.spotify.com/album/3Oepbr9CN7Gu8n9Z56VqSP) | 2:34 | 2025-05-27 |  |
 | [Without You](https://open.spotify.com/track/57OfcQoy8BTUjqgmigcBRv) | [Djmcmurdo](https://open.spotify.com/artist/4Hjnt3RcljIPgATZKkdb2L) | [Without You](https://open.spotify.com/album/6COrksuGsvNG7dGWrCCUjg) | 3:07 | 2024-10-27 |  |
 | [Witness of the Lie](https://open.spotify.com/track/3lsXyuXyBDQSgKVhEwem65) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 5:06 | 2026-02-08 |  |
+| [Wondering](https://open.spotify.com/track/2Mdyd2pmxT0rAUKVnZFzx0) | [Monoking](https://open.spotify.com/artist/5WYaz76SF54XGXthArazho) | [Wondering](https://open.spotify.com/album/4mvQ1PvQDamfSrSAGyEyOA) | 4:52 | 2026-07-30 |  |
 | [Woop](https://open.spotify.com/track/2ePP3rSVuDyPqR52MMYjLe) | [Aledo](https://open.spotify.com/artist/1zut1l8F8d0ZF4KHCmhdy2), [Lilg YK](https://open.spotify.com/artist/0IDFBBEfukaoe0QZbe5V9x), [Jeve](https://open.spotify.com/artist/2oLaoMDrS45QdcUb49wWmc) | [Woop](https://open.spotify.com/album/6wC8KpnWUBsnfXdIzrgUno) | 3:37 | 2025-06-01 |  |
 | [Work It](https://open.spotify.com/track/2Ys8y3wZJ1PXOugdJxgGVP) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [Work It](https://open.spotify.com/album/2WIuOdpHyhY9a7cYZP5ZjS) | 2:03 | 2026-02-06 |  |
 | [World on Fire](https://open.spotify.com/track/709mRzPTQp6zZQ1IcZinVC) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Global Pop](https://open.spotify.com/album/41FF16R60bSZndmCsaB0jA) | 2:06 | 2025-09-18 |  |

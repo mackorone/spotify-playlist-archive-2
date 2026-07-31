@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Militarie Gun & Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,922 likes - 125 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,947 likes - 125 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 124 | [Ecstasy](https://open.spotify.com/track/0PUJYpwSi7kxU6fUXEoA0q) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Ecstasy / Human Terror](https://open.spotify.com/album/6rxyhsufzcfCKkxy86uVz1) | 3:44 |
 | 125 | [Party Lines](https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Party Lines](https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno) | 2:59 |
 
-Snapshot ID: `AAAAAGAgZ6vR4e5kfRwTXInY7ApgZxHJ`
+Snapshot ID: `AAAAANUS7COpUrbXoKPJFYv1a42sAxby`

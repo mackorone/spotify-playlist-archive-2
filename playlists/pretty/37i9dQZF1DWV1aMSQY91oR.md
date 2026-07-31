@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Flo Milli
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,247 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,268 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [HELL](https://open.spotify.com/track/5VdF8ZUOWoAhmJNb7urwoq) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [HELL](https://open.spotify.com/album/4hEq5cerBSRhXPFiliAk9C) | 3:34 |
 | 50 | [Summer In Toronto](https://open.spotify.com/track/6b9yOZGyth6hn4eQ5L0fSs) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [Tales of a 6err \(Deluxe\)](https://open.spotify.com/album/4nxDpKWhguiWacHzSOGG2q) | 3:10 |
 
-Snapshot ID: `AAAAACaEWgLpJO4johpCjWa7LlpvYV7H`
+Snapshot ID: `AAAAAJSoE7zD8B6RDpuodMM2nLVsqrvG`

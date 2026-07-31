@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: 水槽
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,624 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,627 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 44 | [MONO TARINAI !](https://open.spotify.com/track/00ylWW2FEhE5Y5eKzXutx7) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [MONO TARINAI !](https://open.spotify.com/album/4j4RiT6NenGXF51avgibJj) | 2:54 |
 | 45 | [utahime\(feat\. Mao Sasagawa , yuigot, KBSNK, samayuzame & kumamiso\)](https://open.spotify.com/track/0tQ6BUsm560fc7VEalqBHL) | [ko shinonome](https://open.spotify.com/artist/14cmTPiiGSZZ3gW6AWAp10), [笹川真生](https://open.spotify.com/artist/4S3tEYMH3Mjdbn4mkBvqi0), [yuigot](https://open.spotify.com/artist/6JpGvdWdOnLTKuNWqOpYT0), [KBSNK](https://open.spotify.com/artist/4BnAvxhZ0QKTALIGv828R2), [samayuzame](https://open.spotify.com/artist/35rpDiXIsvLFJx0KaGvxK2), [熊味噌](https://open.spotify.com/artist/01GNlFglyUazjW9IvQuQRn) | [utahime\(feat\. Mao Sasagawa , yuigot, KBSNK, samayuzame & kumamiso\)](https://open.spotify.com/album/0q9fyvxY9CAXIC67hHEl2e) | 3:04 |
 | 46 | [Melt Mirror Ball](https://open.spotify.com/track/7gmf5lS5cKyexgyhTh2B5Z) | [礼衣](https://open.spotify.com/artist/12w8ow0SohGy8imyEIFjfl) | [Melt Mirror Ball](https://open.spotify.com/album/4UnPDjn4EF844V65FeDKzR) | 3:02 |
-| 47 | [百鬼夜行](https://open.spotify.com/track/6Wv6djactnaJ4zG48hBzG5) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [百鬼夜行](https://open.spotify.com/album/6sKvuQAoSaQHsqRmwqxO75) | 2:36 |
+| 47 | [百鬼夜行。](https://open.spotify.com/track/6Wv6djactnaJ4zG48hBzG5) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [百鬼夜行。](https://open.spotify.com/album/6sKvuQAoSaQHsqRmwqxO75) | 2:36 |
 | 48 | [ミュージック \(feat\. 可不\)](https://open.spotify.com/track/20izQWOsvLql59j6x6l0B5) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [ミュージック \(feat\. 可不\)](https://open.spotify.com/album/1BLYYtqyHLBzkgH5ckh7X6) | 2:31 |
 | 49 | [悪夢](https://open.spotify.com/track/2pjnFk45Ncea9ehKBcWQ0c) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [悪夢](https://open.spotify.com/album/3eQhxQpEwff0eD0lSMgFFh) | 3:34 |
 | 50 | [BAP](https://open.spotify.com/track/1JdsoKfpOvpgv87IMnNpEi) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [BAP](https://open.spotify.com/album/0anSZ8oaE78LcVdNBmg0gl) | 2:36 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 69 | [なんとも思ってない](https://open.spotify.com/track/7c95ADUL1jAm1UWERlAE4b) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [Sebone \-脊髄盤\-](https://open.spotify.com/album/3drqlhAffp49jBt30eHLPe) | 2:57 |
 | 70 | [パラレルサイン](https://open.spotify.com/track/3NTXESqgXDUPtlHvv73z3B) | [PannoMimimi](https://open.spotify.com/artist/7zDlO5ZUWerNCeIDy0tYVt) | [パラレルサイン](https://open.spotify.com/album/3vdBJw5g6qF8YKmX5wkgmV) | 3:01 |
 
-Snapshot ID: `AAAAACp34MJV4fV1hljEMF/kQEbLBwRU`
+Snapshot ID: `AAAAAJtyZHa60xh2HdQ00uehHw9SyJss`

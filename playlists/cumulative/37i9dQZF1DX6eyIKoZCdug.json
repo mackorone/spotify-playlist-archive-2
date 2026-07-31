@@ -45,6 +45,40 @@
     },
     {
       "album": {
+        "name": "2 This",
+        "url": "https://open.spotify.com/album/39YiPEbLFmOgliiXBJ63zi"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        },
+        {
+          "name": "Deniz Tekin (TR)",
+          "url": "https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        },
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187083,
+      "name": "2 This",
+      "url": "https://open.spotify.com/track/2KRkXR3I8mHGeQjZYALfHK"
+    },
+    {
+      "album": {
         "name": "24Seven Remixes",
         "url": "https://open.spotify.com/album/4XppKFrcjhme8obIrdPImQ"
       },
@@ -86,7 +120,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 404000,
       "name": "3 Step To Funk",
       "url": "https://open.spotify.com/track/2F5jgSYghpEngFJwrUNqHI"
@@ -802,6 +836,28 @@
       "duration_ms": 372381,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/2qQHhFuxRb3FL3wDfsi35O"
+    },
+    {
+      "album": {
+        "name": "Better Wait",
+        "url": "https://open.spotify.com/album/5Up6JD7aMmxOrMnjibpTjG"
+      },
+      "artists": [
+        {
+          "name": "Rosey Gold",
+          "url": "https://open.spotify.com/artist/5VzOCXUuAeHgbabXvn70DJ"
+        },
+        {
+          "name": "lordkez",
+          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237576,
+      "name": "Better Wait",
+      "url": "https://open.spotify.com/track/47ytW7FVxOdDbA4BkUrxUa"
     },
     {
       "album": {
@@ -2259,6 +2315,32 @@
     },
     {
       "album": {
+        "name": "Ijoya",
+        "url": "https://open.spotify.com/album/29khdSaqDrbAQIslKf2yyZ"
+      },
+      "artists": [
+        {
+          "name": "Arthi",
+          "url": "https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4"
+        },
+        {
+          "name": "Dismantle",
+          "url": "https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp"
+        },
+        {
+          "name": "\u00a3MONZO",
+          "url": "https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236079,
+      "name": "Ijoya",
+      "url": "https://open.spotify.com/track/0H4vIiZP7hr4SneIFVJTNc"
+    },
+    {
+      "album": {
         "name": "Meeting With The King",
         "url": "https://open.spotify.com/album/66ZkSQI3roUFYVDYy5kp9e"
       },
@@ -3340,7 +3422,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 302124,
       "name": "Manuwe",
       "url": "https://open.spotify.com/track/4FP5sFOVt6J0V3Oc0eu7U0"
@@ -3402,6 +3484,28 @@
       "duration_ms": 399661,
       "name": "Maya",
       "url": "https://open.spotify.com/track/4XMD1mr6aE5BnJ1yjhBhUz"
+    },
+    {
+      "album": {
+        "name": "Mayawa",
+        "url": "https://open.spotify.com/album/3IoHoe8bLPG0KUeOU5iwUR"
+      },
+      "artists": [
+        {
+          "name": "Samuel Cosmic",
+          "url": "https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Mayawa",
+      "url": "https://open.spotify.com/track/4vHm6K2I6xNuzRbLB9956w"
     },
     {
       "album": {
@@ -5026,7 +5130,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 384007,
       "name": "Speak",
       "url": "https://open.spotify.com/track/6Ru7UqfIkZ7hYWTekyzb5v"
@@ -5044,7 +5148,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 406744,
       "name": "Spectre",
       "url": "https://open.spotify.com/track/4uprTwbuSCx0IZtdlGMBlz"

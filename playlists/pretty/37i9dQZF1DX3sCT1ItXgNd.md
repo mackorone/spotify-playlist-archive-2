@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Ana Mena, Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,704 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,687 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 4 | [Te hacen falta dos](https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:41 |
 | 5 | [Culpa del DJ](https://open.spotify.com/track/3GU0y3THGKlB52gvo2yLGj) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Culpa del DJ](https://open.spotify.com/album/0Y6ClleAwGn3ye7FOmT6eF) | 3:31 |
 | 6 | [principiante](https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [principiante](https://open.spotify.com/album/0m1OmMPIP05QafSJghgQZU) | 3:25 |
-| 7 | [El Patio](https://open.spotify.com/track/3MJtv4kmX1phZ26QQRjbsx) | [Dr\. Bellido](https://open.spotify.com/artist/52wHLjXBRtdLP9VXX4Uosn), [Kiko Rivera](https://open.spotify.com/artist/0HSGpDMeXaEmH5aUIHjnBF) | [El Patio](https://open.spotify.com/album/1DgWMxQWs3CHRgwbue91eC) | 3:02 |
+| 7 | [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 |
 | 8 | [LA GUARACHA \(Oh Oh Oh\)](https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [LA GUARACHA \(Oh Oh Oh\)](https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN) | 3:20 |
 | 9 | [T AMARÉ](https://open.spotify.com/track/0jCOIJVQTBXjdIBb4yEWx0) | [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD), [LUCYCALYS](https://open.spotify.com/artist/3DRfvyZVFYa87h4DXgSVOI) | [T AMARÉ](https://open.spotify.com/album/4ZNK0QbFW7fzPR6Rrr44Hg) | 2:37 |
 | 10 | [Dos Amantes](https://open.spotify.com/track/5Nnd7tvjwHjexXjhbl0WSD) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Dos Amantes](https://open.spotify.com/album/7KHlnJ9FBIEDnHi899L3yh) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [TUS INICIALES](https://open.spotify.com/track/3odYzp9kA4Iai3eEuLi0v3) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89), [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5), [SALMA](https://open.spotify.com/artist/39l4aspsVEkHvlLr7R4NLm) | [TUS INICIALES](https://open.spotify.com/album/0bnB7XCWU0D75dQOHDKYZN) | 3:55 |
 | 50 | [TIRAMISÚ](https://open.spotify.com/track/2D1DYCgKAlsKSqSBafXZ5q) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [TIRAMISÚ](https://open.spotify.com/album/5VPc2RUHrRAJAikiworXO4) | 3:00 |
 
-Snapshot ID: `AAAAACc7xxAttQskhokSKXIn8H40tKve`
+Snapshot ID: `AAAAADRHe3aM6a9LSJS21xvAnG0wRa1o`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO?si=608b4d7e29df4a3c">JEDSOUL</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,315 likes - 141 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,406 likes - 141 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 23 | [WHY](https://open.spotify.com/track/4OzjfVigxDkg8TyZPTGadi) | [Devin Donnell](https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc) | [WHY](https://open.spotify.com/album/1fOtiQaNoDgDNL8XvZvj8K) | 1:46 |
 | 24 | [Voices In My Head](https://open.spotify.com/track/0NWsPR62mulEiwUXF5W7Ql) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Voices In My Head](https://open.spotify.com/album/3Zg0vOH7zsN17dAAngLP8s) | 2:51 |
 | 25 | [poison](https://open.spotify.com/track/3EorqeEI7krnKjzYL2UCMs) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd) | [poison](https://open.spotify.com/album/2ArWdL6hD4E5XIofezpZ48) | 1:48 |
-| 26 | [Just For A Moment \(feat\. Dende\) \(Acoustic\)](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
+| 26 | [Just For A Moment \(feat\. Dende\) \- \(Acoustic\)](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
 | 27 | [Rich Luv](https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 2:44 |
 | 28 | [MAKE ME LOVE YOU](https://open.spotify.com/track/0GaClWz9fadryGjy2WeFRq) | [Beano French](https://open.spotify.com/artist/3um9SsIVBlA4v1n5Wzn8FH), [Rockyylikee](https://open.spotify.com/artist/6mEoKHRRDBAYDDyEOYMuZK) | [Love On Purpose \(Deluxe\)](https://open.spotify.com/album/43sIROAqs7KfvnyO30Zebr) | 2:56 |
 | 29 | [Bad Jeans◡̈](https://open.spotify.com/track/0RVlTWx4vHuP1kM8nvAYVP) | [its TaeJaun](https://open.spotify.com/artist/73p2BvW42P3ConjGoBq0Ej) | [Return Policy◡̈](https://open.spotify.com/album/1ybc4bjDzfXfKT30KO2j7v) | 2:52 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 140 | [Move on](https://open.spotify.com/track/2x3ysVnMpdIwtski9oYQPJ) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Move on](https://open.spotify.com/album/2nLoFygVWZrgN2Bxf3B40q) | 2:30 |
 | 141 | [raindance](https://open.spotify.com/track/127BebV29M41FmJqcl8k20) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [raindance](https://open.spotify.com/album/5xSBMTCqNGDgmIoZgcfVGD) | 3:38 |
 
-Snapshot ID: `AAAAAOJAc+mrUAZ/KUxUBQU30Vm37GTJ`
+Snapshot ID: `AAAAAMPp1Mtd+0qjkvIkFl5SS0uz3ELs`

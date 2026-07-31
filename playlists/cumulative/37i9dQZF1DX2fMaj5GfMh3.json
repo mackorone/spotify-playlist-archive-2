@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste pop songs. Cover: Teddy Swims",
+  "description": "De nieuwste pop songs. Cover: MICHA (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artiest)\n",
   "name": "Fresh Pop",
   "tracks": [
     {
@@ -2852,7 +2852,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 165597,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 170859,
       "name": "Boston",
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
@@ -3518,7 +3518,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 212903,
       "name": "Camilla",
       "url": "https://open.spotify.com/track/6fsVL2HeSgQrciFJg4gkqT"
@@ -4667,7 +4667,7 @@
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 176065,
+      "duration_ms": 175763,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
     },
@@ -6416,7 +6416,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 231086,
       "name": "Doors",
       "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
@@ -9151,6 +9151,24 @@
     },
     {
       "album": {
+        "name": "Girls Who Like Girls",
+        "url": "https://open.spotify.com/album/7iEKXRe2DGyAPk9dbFz66P"
+      },
+      "artists": [
+        {
+          "name": "SERA",
+          "url": "https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158232,
+      "name": "Girls Who Like Girls",
+      "url": "https://open.spotify.com/track/0fvct6cWXX1X1h8CNgLfNz"
+    },
+    {
+      "album": {
         "name": "girls will b girls",
         "url": "https://open.spotify.com/album/2dAEsiFQQXwJDiTnJcrC5y"
       },
@@ -10008,7 +10026,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 162317,
       "name": "Happy Now",
       "url": "https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx"
@@ -12621,6 +12639,24 @@
     },
     {
       "album": {
+        "name": "I'm Still Here",
+        "url": "https://open.spotify.com/album/3vDC5cWyjy2qhkyK5RJyyM"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/6pDuQ79dx8MOErPXW07q9V"
+    },
+    {
+      "album": {
         "name": "I'm your first",
         "url": "https://open.spotify.com/album/7MXsfVmavjqExIN2TSngEE"
       },
@@ -14744,6 +14780,24 @@
       "duration_ms": 147267,
       "name": "Loop",
       "url": "https://open.spotify.com/track/4gGbAcDvbr8iVVOxF78FEO"
+    },
+    {
+      "album": {
+        "name": "Lose My Life",
+        "url": "https://open.spotify.com/album/04UfQYNCD4QsnauEyaSgVg"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187365,
+      "name": "Lose My Life",
+      "url": "https://open.spotify.com/track/4EAQsGj6Dzi2f2G0rErm5P"
     },
     {
       "album": {
@@ -17748,6 +17802,24 @@
       "duration_ms": 278920,
       "name": "Oh Boy",
       "url": "https://open.spotify.com/track/0c40h1i6GGmEtOONFq9fKD"
+    },
+    {
+      "album": {
+        "name": "Oh My God!",
+        "url": "https://open.spotify.com/album/6gXekwtfJOL3UeP7poBJSs"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171114,
+      "name": "Oh My God!",
+      "url": "https://open.spotify.com/track/75vYTe8ZVGXSBP2lf6464G"
     },
     {
       "album": {
@@ -22099,6 +22171,24 @@
     },
     {
       "album": {
+        "name": "Somebody New",
+        "url": "https://open.spotify.com/album/64ot0PGuCe2LEcT8qtrG2E"
+      },
+      "artists": [
+        {
+          "name": "Sven Cilliers",
+          "url": "https://open.spotify.com/artist/2kdpZZXmU872tr8L0cYwnI"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198932,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/083IXbUGlHYi4Ia1Trrzyv"
+    },
+    {
+      "album": {
         "name": "Somebody Without U",
         "url": "https://open.spotify.com/album/5z5K7GmykSvshtSYlyqLVR"
       },
@@ -22764,7 +22854,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 206106,
       "name": "Stay Love",
       "url": "https://open.spotify.com/track/3CyM2SZsivBrwxynIvN2K3"
@@ -27278,6 +27368,24 @@
       "duration_ms": 172817,
       "name": "WOW!",
       "url": "https://open.spotify.com/track/2ncvbvkVzRqy2xjvge55r0"
+    },
+    {
+      "album": {
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/7ewKKI8cB4qaXKbQdP5Net"
+      },
+      "artists": [
+        {
+          "name": "Lenny Monsou",
+          "url": "https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217319,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/2uH4hNfqHqz9KqligJwQ66"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Mayday Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,438 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,445 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [GODS LEFT](https://open.spotify.com/track/1fPpjfV2kdKcxcIOa6djCt) | [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [CYKA](https://open.spotify.com/album/1euIZzjPzukDjGM63Oal9Q) | 2:33 |
 | 125 | [Long Tooth \(feat\. Brooklyn Doran\)](https://open.spotify.com/track/6HTAqQPGlhDbvvUa7bU1oA) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc), [Brooklyn Doran](https://open.spotify.com/artist/6Bh4Wmbb3LfoS8J5TXpQcj) | [Long Tooth](https://open.spotify.com/album/5nmaxgEP5Kgwx2POEfNOlY) | 3:25 |
 
-Snapshot ID: `AAAAADuClkiXFSUHbfGhFR4q9BB0lGi4`
+Snapshot ID: `AAAAAGygwm6NvzV5x/5LYkw9RVK7F3PS`

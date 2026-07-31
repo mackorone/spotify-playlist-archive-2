@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 
 > 日本独自のポップカルチャー=アイドル。"楽曲推し"でお届けします。Cover: 乃木坂46
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,652 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,659 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PLev4Ol7Ml.md) - [plain]
 | 49 | [じゃんけんぽーん](https://open.spotify.com/track/59Ozg9HLxhpri3DhRhX7qT) | [じゃんけんぽーん](https://open.spotify.com/artist/4ng42mufL07ivhh9yaFcQV) | [じゃんけんぽーん](https://open.spotify.com/album/36S2vH2upju8hpftqXRypT) | 4:42 |
 | 50 | [Colorail](https://open.spotify.com/track/0SbtaRnAJ2b8aH5ExdHzmb) | [折れないしっぽ](https://open.spotify.com/artist/04WL29R50m985AofCFCgkv) | [Colorail](https://open.spotify.com/album/2S6ImZulhdmxWsFFAXbBp0) | 3:59 |
 
-Snapshot ID: `AAAAAAyqUJtTTosLYopXXdyTYS9cCuJs`
+Snapshot ID: `AAAAADYRGAyX1Lx5SpOyZJiR3C5Au6H5`

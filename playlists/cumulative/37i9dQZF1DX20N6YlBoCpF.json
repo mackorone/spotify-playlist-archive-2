@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Lisie Basson, Riaan Benad\u00e9, Tamlyn Wessels en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Chris Steyn, Barto, Bernice West, Francois van Coke, Wentzel en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 218000,
       "name": "19",
       "url": "https://open.spotify.com/track/1T3FgYrQVnu3DMtE5oq2I1"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 379562,
       "name": "Aanskou die Seun van God",
       "url": "https://open.spotify.com/track/1FME2d2h4vQL338wjBQCcV"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 217611,
       "name": "Afrika, My Huis (Bosveld Hart)",
       "url": "https://open.spotify.com/track/3erwwYLunhWqG3NuHIIgGA"
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 238762,
       "name": "Afrikaans My Taal - FAK Weergawe",
       "url": "https://open.spotify.com/track/0jqHKPMvwq14UN8mX4MLTV"
@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 234146,
       "name": "Als Wat Lewe",
       "url": "https://open.spotify.com/track/5CBQ71mhTZVnjXG4oJ2n3Q"
@@ -2412,7 +2412,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 168125,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/01qycLhzBSLeJSyWNu5yar"
@@ -3827,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "Bangkinners",
+        "url": "https://open.spotify.com/album/5N5tcHuAgG2VStijF8eiLA"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163181,
+      "name": "Bangkinners",
+      "url": "https://open.spotify.com/track/31Hq2CG7LLW8pT5dVptsKu"
+    },
+    {
+      "album": {
         "name": "Barend Die Barbaar",
         "url": "https://open.spotify.com/album/6tQ4IyCkBzUuFCnVupxeAG"
       },
@@ -3928,7 +3946,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 182133,
       "name": "Beautiful Jy",
       "url": "https://open.spotify.com/track/4wLMISRzeXVv3RsabUts0p"
@@ -5030,7 +5048,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 237456,
       "name": "Bleek",
       "url": "https://open.spotify.com/track/3wMjJvDOlQrlmZTWhImpgy"
@@ -5178,7 +5196,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 204815,
       "name": "Blom",
       "url": "https://open.spotify.com/track/4flbVEav1W71sIH4muGfrt"
@@ -5630,7 +5648,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 164053,
       "name": "Boer Song",
       "url": "https://open.spotify.com/track/0GFjA9lXcWJAFzz8RZ7fy9"
@@ -6116,7 +6134,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 184238,
       "name": "Bomb Squad Blues",
       "url": "https://open.spotify.com/track/4ft4uh15jgxxOk51Umo6WH"
@@ -6404,7 +6422,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 187050,
       "name": "Bottel En B\u00eare",
       "url": "https://open.spotify.com/track/28RT7E3glX9GmwpOi9rD44"
@@ -6516,7 +6534,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 197044,
       "name": "Braai & Lawaai",
       "url": "https://open.spotify.com/track/1UhWHTeaZzx6t7tJUVdkJI"
@@ -7080,7 +7098,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 183000,
       "name": "Brooklyn Bachelor",
       "url": "https://open.spotify.com/track/1hJi7eS9uhSQtnQSTjRR72"
@@ -7512,6 +7530,24 @@
       "duration_ms": 209016,
       "name": "Chan\u00e9",
       "url": "https://open.spotify.com/track/25u5cIEjlUVi0jbKJt5j1x"
+    },
+    {
+      "album": {
+        "name": "Charlene",
+        "url": "https://open.spotify.com/album/6SKmx59Wwx1qW1TYjMoq1j"
+      },
+      "artists": [
+        {
+          "name": "John Rock Prophet",
+          "url": "https://open.spotify.com/artist/00UBWcI4O1TYxYXKrc7Fbw"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210517,
+      "name": "Charlene",
+      "url": "https://open.spotify.com/track/5uETx7II9nUtmFLWvpnoEQ"
     },
     {
       "album": {
@@ -8173,6 +8209,24 @@
     },
     {
       "album": {
+        "name": "Dammit Ek's Lief Vir Jou",
+        "url": "https://open.spotify.com/album/3sTJfmAS3f5UMzI34cmtDo"
+      },
+      "artists": [
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170431,
+      "name": "Dammit Ek's Lief Vir Jou",
+      "url": "https://open.spotify.com/track/58qJEaNPlE6r3YHtODkNpS"
+    },
+    {
+      "album": {
         "name": "Damwal",
         "url": "https://open.spotify.com/album/5aTy7ndoDNzd2ndsfbQ1I2"
       },
@@ -8206,6 +8260,28 @@
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "album": {
+        "name": "Nuwe Spore",
+        "url": "https://open.spotify.com/album/6RNnzl4wOCBsemtp5dqHfv"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        },
+        {
+          "name": "Bernice West",
+          "url": "https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Dank Die Here Vir Jou",
+      "url": "https://open.spotify.com/track/1vWle2FaFHWU0mpLilFz8M"
     },
     {
       "album": {
@@ -8773,6 +8849,24 @@
     },
     {
       "album": {
+        "name": "Desperaat Vir Fame",
+        "url": "https://open.spotify.com/album/71AnRzab2kbtthbPkRTYgh"
+      },
+      "artists": [
+        {
+          "name": "SKEUR",
+          "url": "https://open.spotify.com/artist/602gT1YIagqPMEEPLWUYaK"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196502,
+      "name": "Desperaat Vir Fame",
+      "url": "https://open.spotify.com/track/22ty2itr1GRIlvrYyJNvfm"
+    },
+    {
+      "album": {
         "name": "Deur die re\u00ebn",
         "url": "https://open.spotify.com/album/09wqRyWhW27Jt9g58PfCpw"
       },
@@ -9257,6 +9351,28 @@
     },
     {
       "album": {
+        "name": "DIE DONKERTE (feat. Vreemd)",
+        "url": "https://open.spotify.com/album/1HJX2BiL15fnUTCjt1r1Vz"
+      },
+      "artists": [
+        {
+          "name": "ALLEMAN",
+          "url": "https://open.spotify.com/artist/41SV0Gv1lhWWT7Hlke8C6Z"
+        },
+        {
+          "name": "Vreemd",
+          "url": "https://open.spotify.com/artist/7gt2Aq05d6WndIlXkMUzh9"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173090,
+      "name": "DIE DONKERTE (feat. Vreemd)",
+      "url": "https://open.spotify.com/track/412xt6tia99bKRFfPH6sBc"
+    },
+    {
+      "album": {
         "name": "Die Dood Is Blou",
         "url": "https://open.spotify.com/album/66nEhtrNE7G3RE7rXbNEob"
       },
@@ -9402,7 +9518,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 214000,
       "name": "Die Ergste",
       "url": "https://open.spotify.com/track/3pu8k1DGRJ9c4zZZLGhq9g"
@@ -9420,7 +9536,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 180250,
       "name": "Die G.O.A.T",
       "url": "https://open.spotify.com/track/4PSRKLqiPhGIUEcVMrDSwR"
@@ -10578,6 +10694,24 @@
       "duration_ms": 165765,
       "name": "Die Trein Na Matjiesfontein - SENSASIE Remix",
       "url": "https://open.spotify.com/track/3Ha99q3KFspTEx0jlLgKzc"
+    },
+    {
+      "album": {
+        "name": "Die Uitvaart",
+        "url": "https://open.spotify.com/album/1ghAiyalG80oG8d61rmZ1S"
+      },
+      "artists": [
+        {
+          "name": "Petronel Baard",
+          "url": "https://open.spotify.com/artist/4J1h9siHxQN6QFm1WVwpOG"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231619,
+      "name": "Die Uitvaart",
+      "url": "https://open.spotify.com/track/5R1LiGPDqWOIhQ0idykwoq"
     },
     {
       "album": {
@@ -11756,7 +11890,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 191626,
       "name": "Doodgewone Ou",
       "url": "https://open.spotify.com/track/4h6uPiqUb8X19OCoNZmXZp"
@@ -12236,7 +12370,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 178750,
       "name": "Droomland",
       "url": "https://open.spotify.com/track/03ig4uDdK0qugUWCMdLIvH"
@@ -14544,7 +14678,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 209981,
       "name": "Emerald Eyes",
       "url": "https://open.spotify.com/track/2kQztLfnrsw7VCdm8ld98o"
@@ -14982,7 +15116,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 223125,
       "name": "Feit Soos 'n Koei",
       "url": "https://open.spotify.com/track/6V4iOYFiOc9eKLfbHFCy9m"
@@ -15793,6 +15927,24 @@
     },
     {
       "album": {
+        "name": "Gevaar",
+        "url": "https://open.spotify.com/album/5gRKMqhvmyDELBEnTnxzv6"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200652,
+      "name": "Gevaar",
+      "url": "https://open.spotify.com/track/1WvUSBEXsQKk3N3sQYrL9o"
+    },
+    {
+      "album": {
         "name": "Geval Vir Jou",
         "url": "https://open.spotify.com/album/0lFymqNOIWVUukMOqMEC1e"
       },
@@ -16074,7 +16226,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 205000,
       "name": "Gly Mamma Gly",
       "url": "https://open.spotify.com/track/6zxQcCztB1zyMvdWedQEZL"
@@ -16520,7 +16672,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 132283,
       "name": "Groen en Goud",
       "url": "https://open.spotify.com/track/4ECZ8E595VQ5yQFMtCT7s2"
@@ -17196,7 +17348,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 201161,
       "name": "Hardkoppig",
       "url": "https://open.spotify.com/track/1bB6fw05zYxtNvah4NEk6c"
@@ -18093,6 +18245,24 @@
     },
     {
       "album": {
+        "name": "Heuning",
+        "url": "https://open.spotify.com/album/6mM1yusB6FEJDpkO0VzDiF"
+      },
+      "artists": [
+        {
+          "name": "Winter Hotel",
+          "url": "https://open.spotify.com/artist/0c7Ht8PeXWlU3SzZxJHuFy"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Heuning",
+      "url": "https://open.spotify.com/track/6LhKKGotrMu24Ju93T1jhi"
+    },
+    {
+      "album": {
         "name": "Hey Jy",
         "url": "https://open.spotify.com/album/3c1a2CHREGxoqHBU8ml7nC"
       },
@@ -18683,6 +18853,24 @@
     },
     {
       "album": {
+        "name": "Hoe moet ek stop",
+        "url": "https://open.spotify.com/album/41UDjAXLCJWPV3pB7KAQRo"
+      },
+      "artists": [
+        {
+          "name": "Kristi Steyn",
+          "url": "https://open.spotify.com/artist/4KoEmYiPvlvX3qExVzlsqU"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213618,
+      "name": "Hoe moet ek stop",
+      "url": "https://open.spotify.com/track/2AYxLMXkZz6di5TDul8kwF"
+    },
+    {
+      "album": {
         "name": "Hoe Mooi",
         "url": "https://open.spotify.com/album/70t6uGlFxDWJHhzAQKxJVA"
       },
@@ -19114,7 +19302,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 240000,
       "name": "Hoor Jy My",
       "url": "https://open.spotify.com/track/2Z1HkHOEYU9Z8wlpcmWrK4"
@@ -19782,7 +19970,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 229864,
       "name": "Hy Gee Ons Krag",
       "url": "https://open.spotify.com/track/6doZwcHceYRfIzvZO21Ucx"
@@ -20338,7 +20526,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 198857,
       "name": "In Ons Bloed",
       "url": "https://open.spotify.com/track/10gx9M31EPY7CngECbB9AL"
@@ -20648,7 +20836,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 201386,
       "name": "Jag en Visvang",
       "url": "https://open.spotify.com/track/0ffCJEVplm2kSYcYG8hsLO"
@@ -20718,7 +20906,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 194119,
       "name": "Jakkie Doedelsakkie",
       "url": "https://open.spotify.com/track/7u5uWNfqAmapY1wRDeA63L"
@@ -20740,6 +20928,24 @@
       "duration_ms": 192600,
       "name": "Jaloers",
       "url": "https://open.spotify.com/track/2FNleyVGNXbEAQc1rX5Grf"
+    },
+    {
+      "album": {
+        "name": "Jaloers",
+        "url": "https://open.spotify.com/album/3Y7oZEkL7EdYx6tSnSEs4c"
+      },
+      "artists": [
+        {
+          "name": "Margot",
+          "url": "https://open.spotify.com/artist/3mNS0vt7TNS7yL6wfaksKf"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199824,
+      "name": "Jaloers",
+      "url": "https://open.spotify.com/track/7Kwl1UqY1FbMDfoLHO6p4T"
     },
     {
       "album": {
@@ -21558,7 +21764,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 163354,
       "name": "Juliet",
       "url": "https://open.spotify.com/track/1ZIHYXmGjvRyeGq40uzrtQ"
@@ -22296,7 +22502,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 290000,
       "name": "Kaapstad na Amsterdam",
       "url": "https://open.spotify.com/track/5PrlAdYZsctMxr5feFnu9A"
@@ -24114,7 +24320,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 187697,
       "name": "Koelboks Beloftes",
       "url": "https://open.spotify.com/track/1btJAAstBbuFLNqAT2QpzZ"
@@ -24558,6 +24764,24 @@
       "duration_ms": 205653,
       "name": "Komeet",
       "url": "https://open.spotify.com/track/69vbzbwI2vPXguduchibPl"
+    },
+    {
+      "album": {
+        "name": "Komma Kind",
+        "url": "https://open.spotify.com/album/18GrivTGuFujTHve0tfHps"
+      },
+      "artists": [
+        {
+          "name": "Kris Ray",
+          "url": "https://open.spotify.com/artist/7BM3anHU7hBCgXATgWesbN"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144923,
+      "name": "Komma Kind",
+      "url": "https://open.spotify.com/track/4upXhRMZxNpNAYzEJ4KzPl"
     },
     {
       "album": {
@@ -25896,7 +26120,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 203050,
       "name": "Lambertsbaai",
       "url": "https://open.spotify.com/track/7wjW8OipCe7S0CD0VkxFGk"
@@ -26012,7 +26236,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 236129,
       "name": "Langpad Na Die Hemel",
       "url": "https://open.spotify.com/track/2wLbkfGvlZDJJULuuqoYiM"
@@ -29970,7 +30194,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 195000,
       "name": "Mooier Deel Van My",
       "url": "https://open.spotify.com/track/2qrre00hEgEH1FTkMaNxyV"
@@ -30006,7 +30230,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 291670,
       "name": "Mooiste Monster",
       "url": "https://open.spotify.com/track/2Cdzrz0TBymSbbfg5JlLnD"
@@ -30404,7 +30628,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 199909,
       "name": "My Hede",
       "url": "https://open.spotify.com/track/0eOnpZ8rcbQlM1IXF2M2ad"
@@ -34277,6 +34501,24 @@
     },
     {
       "album": {
+        "name": "Oogkontak",
+        "url": "https://open.spotify.com/album/0sCV0f5J4CelDNVIvzRhI5"
+      },
+      "artists": [
+        {
+          "name": "Bcom",
+          "url": "https://open.spotify.com/artist/3bQd2MsV4ArWPuryfZqwk3"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186490,
+      "name": "Oogkontak",
+      "url": "https://open.spotify.com/track/1usvrGy7FGqCE3kxLl8g2w"
+    },
+    {
+      "album": {
         "name": "Oogwink",
         "url": "https://open.spotify.com/album/3t4aIxbCqmvpnd0r9nLzb0"
       },
@@ -34360,7 +34602,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 239659,
       "name": "Oomblik Soos Nou",
       "url": "https://open.spotify.com/track/0pjaNDECYuNgYFH0UMgiko"
@@ -36422,7 +36664,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 211475,
       "name": "Pretoria",
       "url": "https://open.spotify.com/track/4YZxXWuuatVKWwgI2QNlg6"
@@ -36878,7 +37120,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 237634,
       "name": "Reisiger Na M\u00f4re",
       "url": "https://open.spotify.com/track/2yDZvbmFnjZ378wFAlJXlI"
@@ -37084,7 +37326,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 171851,
       "name": "Rigting",
       "url": "https://open.spotify.com/track/4fQXVfFgQCzMB1zn4r0jqp"
@@ -37174,7 +37416,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 162088,
       "name": "Roadtrip",
       "url": "https://open.spotify.com/track/4ojjfa2FnXCuJ1dVYWS2aX"
@@ -39200,7 +39442,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 187768,
       "name": "Sink In Die Hemel In",
       "url": "https://open.spotify.com/track/2GAksPn9Omb2JusaztzY6V"
@@ -40432,7 +40674,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 172773,
       "name": "Soet Wees",
       "url": "https://open.spotify.com/track/2YIT7j357KZ1gtjAsYPY5e"
@@ -40450,7 +40692,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 172460,
       "name": "Sokkie Saam Met My",
       "url": "https://open.spotify.com/track/6HI8sfx4ZAD4n5QEmiFNXs"
@@ -41778,7 +42020,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 199534,
       "name": "Spook Van Jou",
       "url": "https://open.spotify.com/track/74tZSsLQdgFQMmg19Fmt7w"
@@ -42514,7 +42756,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 232000,
       "name": "Sterreval",
       "url": "https://open.spotify.com/track/5IZGH7s6nLswLakJ1QTPz5"
@@ -42878,7 +43120,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 221656,
       "name": "Stormre\u00ebn",
       "url": "https://open.spotify.com/track/33SCKuKpyoDI6W24s3mZoD"
@@ -43520,7 +43762,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 229942,
       "name": "Swem",
       "url": "https://open.spotify.com/track/2wCLjJquUeGgCUiCFRXg55"
@@ -43672,6 +43914,24 @@
       "duration_ms": 232551,
       "name": "Sy is maar net stil",
       "url": "https://open.spotify.com/track/0Eu1DB1JnoQEPDmAxWPKlm"
+    },
+    {
+      "album": {
+        "name": "Sy Klink Soos Lente",
+        "url": "https://open.spotify.com/album/4Xpm0ASfLSknlCs1e9jU3L"
+      },
+      "artists": [
+        {
+          "name": "Robert Gillmer",
+          "url": "https://open.spotify.com/artist/5dsMsZ35335wPek0khH1rR"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166131,
+      "name": "Sy Klink Soos Lente",
+      "url": "https://open.spotify.com/track/5UdZVAHXpkr91hrg4jYVWw"
     },
     {
       "album": {
@@ -44887,6 +45147,24 @@
     },
     {
       "album": {
+        "name": "Tot Die Aarde Ons Laat Gaan",
+        "url": "https://open.spotify.com/album/1iAzSZGGFicK5cpQ0J1diu"
+      },
+      "artists": [
+        {
+          "name": "Arno Jordaan",
+          "url": "https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Tot Die Aarde Ons Laat Gaan",
+      "url": "https://open.spotify.com/track/6HBXZ3zprHU8k1mCeABV6e"
+    },
+    {
+      "album": {
         "name": "Tot Die Hane Kraai",
         "url": "https://open.spotify.com/album/4eTLxQIXhAXmmaU06cC30y"
       },
@@ -45720,7 +45998,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 212904,
       "name": "Uitgesonderde Uitsig",
       "url": "https://open.spotify.com/track/5D0ihUX0oyFvzIHb37QM3b"
@@ -45738,7 +46016,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 246720,
       "name": "Uitspattig Pragtig",
       "url": "https://open.spotify.com/track/1Bv49vqYPcHwQdXCTeEFIp"
@@ -46334,7 +46612,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 178235,
       "name": "Vat Haar Bietjie Plaas Toe",
       "url": "https://open.spotify.com/track/1x9PNzuUqKusgtyGMlaSe7"
@@ -47223,6 +47501,24 @@
     },
     {
       "album": {
+        "name": "Verseker Beter",
+        "url": "https://open.spotify.com/album/4FUhfFWyBQdkQ0wQ5NwOQy"
+      },
+      "artists": [
+        {
+          "name": "Wentzel",
+          "url": "https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174152,
+      "name": "Verseker Beter",
+      "url": "https://open.spotify.com/track/6mr4sBTK92E4Xohl8GVeh8"
+    },
+    {
+      "album": {
         "name": "Versmoor",
         "url": "https://open.spotify.com/album/5gfwTqz9mMIWuW4tvhsnop"
       },
@@ -47844,7 +48140,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 247903,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/70qJSWlYKKKVqFrIIYEhy6"
@@ -48881,6 +49177,24 @@
     },
     {
       "album": {
+        "name": "Vuurwarm Liefde",
+        "url": "https://open.spotify.com/album/2CZpwheBgkfhrfwdFXrNoi"
+      },
+      "artists": [
+        {
+          "name": "VAN WEST",
+          "url": "https://open.spotify.com/artist/2Tncwyr8LHLTsuSaSIGJMq"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172061,
+      "name": "Vuurwarm Liefde",
+      "url": "https://open.spotify.com/track/7M3myoWbII50kMG9MMSIDI"
+    },
+    {
+      "album": {
         "name": "Vyand",
         "url": "https://open.spotify.com/album/2pXiICNC2aoGRKWrvGD2ao"
       },
@@ -49081,6 +49395,24 @@
     },
     {
       "album": {
+        "name": "Waar Dit Nie Storm Nie",
+        "url": "https://open.spotify.com/album/6nWqwcUUwObn3U0sOUiWRY"
+      },
+      "artists": [
+        {
+          "name": "Ruben Eloff",
+          "url": "https://open.spotify.com/artist/0IzjCRbwve0Gx2N7syqyVS"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Waar Dit Nie Storm Nie",
+      "url": "https://open.spotify.com/track/1H72n2Mlv5f6vWMFdn5CHZ"
+    },
+    {
+      "album": {
         "name": "Waar Ek Hoort",
         "url": "https://open.spotify.com/album/4MXRL9Mo9UNKQAAVzQM5EM"
       },
@@ -49150,7 +49482,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 212533,
       "name": "Waar Hy Regeer",
       "url": "https://open.spotify.com/track/77ZhNpDMwHRq3CgHE3GghE"
@@ -49240,7 +49572,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 177087,
       "name": "Wag Vir Jou",
       "url": "https://open.spotify.com/track/6h186QYV1h9NqiC4Wg9VpQ"
@@ -49618,7 +49950,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 162034,
       "name": "Wat Gaan Gebeur...",
       "url": "https://open.spotify.com/track/70HFrB8h9nTpU760jSufsX"
@@ -49928,7 +50260,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 240000,
       "name": "Water In My Hande",
       "url": "https://open.spotify.com/track/3ndUJycYjekYZOP3klM4WH"
@@ -50054,7 +50386,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 153428,
       "name": "Weerlig Liefde",
       "url": "https://open.spotify.com/track/15Mbdo6KacQ4bgyGB9p6kW"
@@ -50390,7 +50722,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 203913,
       "name": "Weskus Wals",
       "url": "https://open.spotify.com/track/0neBnkXXCb18g7OuaszS4W"

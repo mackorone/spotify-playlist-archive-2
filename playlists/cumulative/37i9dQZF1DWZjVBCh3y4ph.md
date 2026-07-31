@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : Naïka x Kalash
+> Les hits zouk & kompa du moment\. Photo : Joé Dwèt Filé
 
-455 songs - 23 hr 50 min
+456 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Pour toi](https://open.spotify.com/track/0zLCsykR0dy4EjdTnwkCzL) | [Kipili](https://open.spotify.com/artist/6xZr3qhSDTiUTuYt49khaJ) | [Pour toi](https://open.spotify.com/album/7iMyrdcy774JOLW4qD3rNb) | 2:42 | 2026-01-22 | 2026-03-06 |
 | [Pozisyon \- Fem voyé 2](https://open.spotify.com/track/2P4qGmPuDFJb7zBiI5L4aK) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 4:19 | 2023-09-28 | 2024-06-21 |
 | [Première fois](https://open.spotify.com/track/6H7vZRmTPhi7wvSCaYCR53) | [Rashel](https://open.spotify.com/artist/6qtBdBdgQ74RTfQ7VEwCrh), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Première fois](https://open.spotify.com/album/6eVXFgGVMGfa7z7YE72L6q) | 2:39 | 2026-02-26 | 2026-05-01 |
-| [PREND](https://open.spotify.com/track/7l0O6ayNgvnYLbHyiXlwRe) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [PREND](https://open.spotify.com/album/30ChMtPPnx5wRKUszbAQ7e) | 2:18 | 2026-07-02 |  |
+| [PREND](https://open.spotify.com/track/7l0O6ayNgvnYLbHyiXlwRe) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [PREND](https://open.spotify.com/album/30ChMtPPnx5wRKUszbAQ7e) | 2:18 | 2026-07-02 | 2026-07-31 |
 | [Projecteurs](https://open.spotify.com/track/71hpwv9B7Ncwfw6BrZN2nE) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Projecteurs](https://open.spotify.com/album/5I0ZrO1lILQ5kVCbucDHHD) | 3:00 | 2024-05-09 | 2024-06-21 |
 | [Péché mignon](https://open.spotify.com/track/12wOWWHCtlD1EFf6BrQp8w) | [Were\-vana](https://open.spotify.com/artist/1f1DjtYgH6yBzBSiGteBJl) | [Péché mignon](https://open.spotify.com/album/6jXh6WdZAf7sD1LHXM2fD0) | 2:14 | 2026-03-26 | 2026-05-08 |
 | [QUI A TORT](https://open.spotify.com/track/1StxifllxFqab42xT62Bw2) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [ALCHIMIE](https://open.spotify.com/album/41sRzlYeZ4mEaQ0yStVhNC) | 2:58 | 2025-11-27 | 2026-02-27 |
@@ -372,6 +372,7 @@
 | [Si tu veux de moi](https://open.spotify.com/track/1sRF75Kys66RDpvMVKNFOo) | [makita](https://open.spotify.com/artist/3ozTbB0bc4emEQAZVipNgT), [Kayden](https://open.spotify.com/artist/2YEM3hwFWk3Cpr7rdaVsXM) | [Si tu veux de moi](https://open.spotify.com/album/4mEEDyNvSFDgYgnzeItK3f) | 3:14 | 2025-11-27 | 2026-02-13 |
 | [Sincère](https://open.spotify.com/track/54Zqj7bYgFYCUPLJw7bzBG) | [Colette GAZE](https://open.spotify.com/artist/2rRmWyQHBvAMVd1O4q9Q6U), [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh) | [Sincère](https://open.spotify.com/album/0mrxUNC3CCGWumGxueh8Jn) | 2:07 | 2025-02-06 | 2025-04-04 |
 | [Sincère](https://open.spotify.com/track/1VFrQv1FNV5ruhAO2oNWc7) | [Manise](https://open.spotify.com/artist/7lmDLnNHkUvxWJCpqDtdf9) | [Sincère](https://open.spotify.com/album/42nh6iUDm7Ys7w2vJDujaB) | 2:41 | 2025-04-24 | 2025-05-16 |
+| [Siouvé](https://open.spotify.com/track/5uqoE6jSI9VHntQPRWVvXV) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Siouvé](https://open.spotify.com/album/2VeF6zCUrBnlrkzhs69Yn8) | 2:45 | 2026-07-30 |  |
 | [SIWO](https://open.spotify.com/track/4vtE0Lwu1NQiYf5LCdp2SP) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [SIWO](https://open.spotify.com/album/51Fo7seRLO7yYWQQ4EhlVr) | 3:49 | 2025-01-02 | 2025-04-11 |
 | [Slowmo](https://open.spotify.com/track/0f7WrNPKj2JQYwNnjRsnVo) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Slowmo](https://open.spotify.com/album/3tsgO9fwoqQq3ROxu5mzx3) | 3:01 | 2025-12-04 | 2026-02-27 |
 | [Solide](https://open.spotify.com/track/59JggtITZo95KTyvVJ94e5) | [Dawatcha](https://open.spotify.com/artist/5oMhDTLFrufyB6PWSaoSoy) | [Solide](https://open.spotify.com/album/3EMDExs6V8tWgaQCrdEe0D) | 2:25 | 2025-08-07 | 2025-08-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20476,
+  "num_followers": 20475,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAz+jBLzlGeF0S0zXKGlToVPewAZ",
+  "snapshot_id": "AAAAAOWX+I0H+xnLutrcqosO6hSkehdq",
   "tracks": [
     {
       "added_at": "2026-05-26 09:05:26",
@@ -291,26 +291,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Dziwna (feat. Artur Rojek)",
-        "url": "https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z"
-      },
-      "artists": [
-        {
-          "name": "Daria Zawia\u0142ow",
-          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
-        },
-        {
-          "name": "Artur Rojek",
-          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Dziwna (feat. Artur Rojek)",
-      "url": "https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Tak jak tutaj stoj\u0119",
         "url": "https://open.spotify.com/album/5orkfeLMveAcl62P2lF20y"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 159018,
       "name": "Nie m\u00f3wi\u0119 tak, nie m\u00f3wi\u0119 nie",
       "url": "https://open.spotify.com/track/3ThzTChpGTrx5avsgkd3GR"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Dziwna (feat. Artur Rojek)",
+        "url": "https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z"
+      },
+      "artists": [
+        {
+          "name": "Daria Zawia\u0142ow",
+          "url": "https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx"
+        },
+        {
+          "name": "Artur Rojek",
+          "url": "https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Dziwna (feat. Artur Rojek)",
+      "url": "https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
+        "name": "Tak m\u0142odo si\u0119 nie spotkamy",
+        "url": "https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm"
+      },
+      "artists": [
+        {
+          "name": "Wiraszko",
+          "url": "https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu"
+        }
+      ],
+      "duration_ms": 377680,
+      "name": "Dni, kt\u00f3re przed nami",
+      "url": "https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
         "name": "45",
         "url": "https://open.spotify.com/album/4lG4wogGTP6bNbi5MU2Xoq"
       },
@@ -547,18 +563,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Tak m\u0142odo si\u0119 nie spotkamy",
-        "url": "https://open.spotify.com/album/57tNR0XV962YDMH8ZDXStm"
+        "name": "Szeptucha",
+        "url": "https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ"
       },
       "artists": [
         {
-          "name": "Wiraszko",
-          "url": "https://open.spotify.com/artist/0H3VxOYCzs8tbva6JtyTJu"
+          "name": "Basia Giewont",
+          "url": "https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9"
         }
       ],
-      "duration_ms": 377680,
-      "name": "Dni, kt\u00f3re przed nami",
-      "url": "https://open.spotify.com/track/3qmIGvh3yQHnBzNaG2Wb9M"
+      "duration_ms": 160866,
+      "name": "Zimna woda",
+      "url": "https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -587,22 +603,6 @@
       "duration_ms": 237631,
       "name": "Ramen",
       "url": "https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "Szeptucha",
-        "url": "https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ"
-      },
-      "artists": [
-        {
-          "name": "Basia Giewont",
-          "url": "https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Zimna woda",
-      "url": "https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "TRASH TAPE",
-        "url": "https://open.spotify.com/album/6b6pAbeAZSdgdr4exEr2ax"
-      },
-      "artists": [
-        {
-          "name": "Zdech\u0142y Osa",
-          "url": "https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "WKURWELEPSZEPOGO",
-      "url": "https://open.spotify.com/track/0MNsAage0bUhHOtJJ56nmu"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Coma Live Pol'and'Rock Festival 2024",
         "url": "https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 855093,
       "name": "Zaprzepaszczone si\u0142y wielkiej armii \u015bwi\u0119tych znak\u00f3w - Live",
       "url": "https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "TRASH TAPE",
+        "url": "https://open.spotify.com/album/6b6pAbeAZSdgdr4exEr2ax"
+      },
+      "artists": [
+        {
+          "name": "Zdech\u0142y Osa",
+          "url": "https://open.spotify.com/artist/509dS4Q0EfUQuG7KvaSsiz"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "WKURWELEPSZEPOGO",
+      "url": "https://open.spotify.com/track/0MNsAage0bUhHOtJJ56nmu"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "White Room",
-        "url": "https://open.spotify.com/album/76UZTsGDCKULhoDWoFJWTB"
-      },
-      "artists": [
-        {
-          "name": "BOKKA",
-          "url": "https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3"
-        }
-      ],
-      "duration_ms": 212081,
-      "name": "Life Is A Game",
-      "url": "https://open.spotify.com/track/5VxYcJN2ozjuTrJ1GrPpM9"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "The Shit Ov God",
         "url": "https://open.spotify.com/album/6SVTZkfsUI2iD0jB9kl7zV"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 336773,
       "name": "The Shit Ov God",
       "url": "https://open.spotify.com/track/3Zt1D4S1eOfxRoGIBE0aSP"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "White Room",
+        "url": "https://open.spotify.com/album/76UZTsGDCKULhoDWoFJWTB"
+      },
+      "artists": [
+        {
+          "name": "BOKKA",
+          "url": "https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3"
+        }
+      ],
+      "duration_ms": 212081,
+      "name": "Life Is A Game",
+      "url": "https://open.spotify.com/track/5VxYcJN2ozjuTrJ1GrPpM9"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Uno Lovis Party",
-        "url": "https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4"
-      },
-      "artists": [
-        {
-          "name": "Kury",
-          "url": "https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9"
-        }
-      ],
-      "duration_ms": 202921,
-      "name": "Memento Amoris",
-      "url": "https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Przed Zmierzchem",
         "url": "https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 444560,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Uno Lovis Party",
+        "url": "https://open.spotify.com/album/1tp2IPGbxwnOVnVcO5x1Q4"
+      },
+      "artists": [
+        {
+          "name": "Kury",
+          "url": "https://open.spotify.com/artist/24HKrPZTxj9oSaXv2gf0D9"
+        }
+      ],
+      "duration_ms": 202921,
+      "name": "Memento Amoris",
+      "url": "https://open.spotify.com/track/6BRe9FeshYY6KedQk6Af08"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Fryderyk LIS",
-        "url": "https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71"
-      },
-      "artists": [
-        {
-          "name": "LIS",
-          "url": "https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju"
-        },
-        {
-          "name": "Zuzanna Malisz",
-          "url": "https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A"
-        }
-      ],
-      "duration_ms": 251447,
-      "name": "Etiuda f-moll z Trois Nouvelles \u00c9tudes nr 1 Dbop. 36A",
-      "url": "https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/1G84svAz13TPJdzEIPNOmV"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 188516,
       "name": "Fallen Angel: IV. Fire",
       "url": "https://open.spotify.com/track/77FPbX7cVpo3S35cmHfrhZ"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Fryderyk LIS",
+        "url": "https://open.spotify.com/album/1SfN921eAsd9laV3u0PX71"
+      },
+      "artists": [
+        {
+          "name": "LIS",
+          "url": "https://open.spotify.com/artist/2GUiiK3uiO9aRJbWkCOGju"
+        },
+        {
+          "name": "Zuzanna Malisz",
+          "url": "https://open.spotify.com/artist/4jsgm84uldfJKyy0lSOF3A"
+        }
+      ],
+      "duration_ms": 251447,
+      "name": "Etiuda f-moll z Trois Nouvelles \u00c9tudes nr 1 Dbop. 36A",
+      "url": "https://open.spotify.com/track/0j3xAlkbbM0ZTgBm8yYLeK"
     },
     {
       "added_at": "2026-05-26 09:05:26",

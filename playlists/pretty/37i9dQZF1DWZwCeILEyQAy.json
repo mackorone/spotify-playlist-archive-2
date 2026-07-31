@@ -1,12 +1,12 @@
 {
   "description": "Real Rap. All Pressure. Cover: PLUTO",
-  "num_followers": 454525,
+  "num_followers": 454490,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGXmWbcp+Yivf/fETyew3x80Stni",
+  "snapshot_id": "AAAAAPTHD7RNLQJOD0e1kEvTiLF8XZHz",
   "tracks": [
     {
       "added_at": "2025-06-20 04:00:58",
@@ -307,26 +307,18 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "REDRUM Wizard (Gangsta Grillz)",
-        "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
+        "name": "Courtesy Of A Rich Nigga",
+        "url": "https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB"
       },
       "artists": [
         {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
         }
       ],
-      "duration_ms": 202285,
-      "name": "BOP (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ"
+      "duration_ms": 197800,
+      "name": "Courtesy Of A Rich Nigga",
+      "url": "https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C"
     },
     {
       "added_at": "2025-06-20 04:00:58",
@@ -351,18 +343,26 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "Courtesy Of A Rich Nigga",
-        "url": "https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB"
+        "name": "REDRUM Wizard (Gangsta Grillz)",
+        "url": "https://open.spotify.com/album/2kcWf4LiavA3V6quKqSXAB"
       },
       "artists": [
         {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 197800,
-      "name": "Courtesy Of A Rich Nigga",
-      "url": "https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C"
+      "duration_ms": 202285,
+      "name": "BOP (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/0mpDXW1y4X7MlyPecWAlzJ"
     },
     {
       "added_at": "2025-06-20 04:00:58",
@@ -607,6 +607,22 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "In Dat Mode",
+      "url": "https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
         "name": "Tomioka (with Flo Milli) [Remix]",
         "url": "https://open.spotify.com/album/6QHk5oVO7cTdQeBhVuh0qK"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 137532,
       "name": "Tomioka (with Flo Milli) - Remix",
       "url": "https://open.spotify.com/track/7BfwfsoIZsa9QGUxfoz8DE"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "In Dat Mode",
-      "url": "https://open.spotify.com/track/0SNIukv9BX1Sv9YGpsokgN"
     },
     {
       "added_at": "2025-06-20 04:00:58",

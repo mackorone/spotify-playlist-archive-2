@@ -10197,6 +10197,24 @@
     },
     {
       "album": {
+        "name": "Weird Kid",
+        "url": "https://open.spotify.com/album/3J1FrMBOBnoDjin6Xg0JIi"
+      },
+      "artists": [
+        {
+          "name": "Mr.Moss",
+          "url": "https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145408,
+      "name": "Weird Kid",
+      "url": "https://open.spotify.com/track/28P1Zn2MA2Af5L0MIa8fQx"
+    },
+    {
+      "album": {
         "name": "what're we doing?",
         "url": "https://open.spotify.com/album/2AtX3aO6bRDHtc1qO3W61D"
       },

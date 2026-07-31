@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345 likes - 182 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 347 likes - 182 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 50 | [I Need You Most Of All](https://open.spotify.com/track/7HdJcAmhgUSqCb6W2UQaZE) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:10 |
 | 51 | [Cold Blood \(feat\. Jeffrey James\)](https://open.spotify.com/track/5xpScO7frkFncHij08H2C8) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Jeffrey James](https://open.spotify.com/artist/0Bm5cFUEv8FGx1wEekHj0D) | [Cold Blood \(feat\. Jeffrey James\)](https://open.spotify.com/album/6ylm8nCNFiat67jTtsXIoe) | 3:14 |
 | 52 | [You Make Me So Happy](https://open.spotify.com/track/1DeQf5U7H1oAziNG8JQxsA) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [You Make Me So Happy](https://open.spotify.com/album/3uE2HObJtlBAXUykrSiKz6) | 2:22 |
-| 53 | [Neighborhood](https://open.spotify.com/track/4HIz69HfJjohNVhrCtAw0f) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Seasons](https://open.spotify.com/album/58nrND39Gnp0T2lWBzkfkd) | 3:42 |
-| 54 | [Hurts Like You](https://open.spotify.com/track/4IyUVGOKNmraQIymwHzm8m) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:15 |
+| 53 | [Hurts Like You](https://open.spotify.com/track/4IyUVGOKNmraQIymwHzm8m) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:15 |
+| 54 | [Neighborhood](https://open.spotify.com/track/4HIz69HfJjohNVhrCtAw0f) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Seasons](https://open.spotify.com/album/58nrND39Gnp0T2lWBzkfkd) | 3:42 |
 | 55 | [Good Times \(Bonus Track\)](https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/1hLKup9UE01jC6E49VzBqj) | 3:31 |
 | 56 | [Refuge](https://open.spotify.com/track/3knCNdSvzI81ggBPFOicDu) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:38 |
 | 57 | [Honest](https://open.spotify.com/track/6RrlTNk3a68nMjN5vSOXMp) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:39 |
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 116 | [When I Got You](https://open.spotify.com/track/1mu8AkWi2i6iURU10BN4nt) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [When I Got You](https://open.spotify.com/album/0SoePJ4HcV4SQa93YMYPR1) | 3:16 |
 | 117 | [I Wish I Was A Shooting Star](https://open.spotify.com/track/4LgzdIJ6aR3UnTCr4EZ2Lt) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Portraits](https://open.spotify.com/album/0ntTitta8btOS93RiM3TrO) | 3:37 |
 | 118 | [hard pill to swallow](https://open.spotify.com/track/517TggqOi6WDbDzwHX1dnf) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [hard pill to swallow](https://open.spotify.com/album/2Y0wGYccG6XJXrSwIMbkcO) | 3:01 |
-| 119 | [Talk](https://open.spotify.com/track/2rseV2GXIJgPgK3eSUiIFq) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 3:16 |
-| 120 | [Calling Cards](https://open.spotify.com/track/6ICHk9daoZTX7wPTiEG67R) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [This Could All Go Nowhere](https://open.spotify.com/album/2hHmgChtPKX147WUQHEKEk) | 4:15 |
+| 119 | [Calling Cards](https://open.spotify.com/track/6ICHk9daoZTX7wPTiEG67R) | [The Brook & The Bluff](https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7) | [This Could All Go Nowhere](https://open.spotify.com/album/2hHmgChtPKX147WUQHEKEk) | 4:15 |
+| 120 | [Talk](https://open.spotify.com/track/2rseV2GXIJgPgK3eSUiIFq) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 3:16 |
 | 121 | [I'll Lock Up](https://open.spotify.com/track/0mEY70sk2taYPkzjhHNkUb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:11 |
 | 122 | [Everybody's Different](https://open.spotify.com/track/2EMniKj6ybqN7ASJ2h5WU4) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 4:00 |
 | 123 | [Some People](https://open.spotify.com/track/6tx9Hz84YvpMVp6SWAl7Iv) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 2:40 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 181 | [Own The Night](https://open.spotify.com/track/0BorUElU7vFO51qKnAx8kM) | [Proper Gentlemen](https://open.spotify.com/artist/5eTE3zXt71ehPvKzn0GuJh), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Own The Night](https://open.spotify.com/album/5Ph15urX6DYg3XRrw3Zw3X) | 3:34 |
 | 182 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 
-Snapshot ID: `AcYLtAAAAABlJORi/Cij4poZq12ngPub`
+Snapshot ID: `AcYRfAAAAACoeCWvcoPb9J6kUQtPd2iG`

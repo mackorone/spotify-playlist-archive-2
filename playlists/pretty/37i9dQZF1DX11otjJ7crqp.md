@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,826 likes - 150 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,065 likes - 150 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 149 | [juliet](https://open.spotify.com/track/20QpnulmuflvwCjXnDW8I2) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK), [Emilio Piano](https://open.spotify.com/artist/73mpJzShg7QOejB76dAHZT) | [juliet](https://open.spotify.com/album/5xDgBZvS8EFi4kh4jKcpP9) | 3:07 |
 | 150 | [Like Me](https://open.spotify.com/track/4BduDuBdTaiMZEqx3Ac19r) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf), [Mattie Pruitt](https://open.spotify.com/artist/0RpLfoG8oYbdNAAxlr0mWb) | [Like Me](https://open.spotify.com/album/0ygV6noMRnyyNLrvQrOl0p) | 3:10 |
 
-Snapshot ID: `AAAAABFCaQJDNyjwNEF0lyDBrqyNOZrL`
+Snapshot ID: `AAAAANJ3wkUzXeCKInDSI1avGHRjG+gG`

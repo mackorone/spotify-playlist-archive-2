@@ -1,13 +1,29 @@
 {
-  "description": "The best new and classic South African Rock. Cover: Pussy Heaven",
-  "num_followers": 28123,
+  "description": "The best new and classic South African Rock. Cover: Francois van Coke",
+  "num_followers": 28127,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMuI5cica8NWtZECQkMxQ+MRi/yH",
+  "snapshot_id": "AAAAALbwKn9hxxHRCixazGtHi+4hLBsY",
   "tracks": [
+    {
+      "added_at": "2026-07-30 22:01:23",
+      "album": {
+        "name": "Bangkinners",
+        "url": "https://open.spotify.com/album/5N5tcHuAgG2VStijF8eiLA"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "duration_ms": 163181,
+      "name": "Bangkinners",
+      "url": "https://open.spotify.com/track/31Hq2CG7LLW8pT5dVptsKu"
+    },
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
@@ -61,6 +77,22 @@
       "url": "https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD"
     },
     {
+      "added_at": "2026-07-30 22:01:23",
+      "album": {
+        "name": "Rubber Arm",
+        "url": "https://open.spotify.com/album/5njJwV34hj2cmva9Lq4KBb"
+      },
+      "artists": [
+        {
+          "name": "Shortstraw",
+          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "Rubber Arm",
+      "url": "https://open.spotify.com/track/365BKCUdOwuqKfuQCqL8Be"
+    },
+    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "NIE M\u00d4RE NIE NOU",
@@ -77,22 +109,6 @@
       "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
     },
     {
-      "added_at": "2026-07-02 22:01:16",
-      "album": {
-        "name": "HYMN",
-        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
-      },
-      "artists": [
-        {
-          "name": "Pussy Heaven",
-          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
-        }
-      ],
-      "duration_ms": 184682,
-      "name": "GIZMO",
-      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
-    },
-    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "THOSE WHO ARE AGAINST US ALL THE TIME",
@@ -107,22 +123,6 @@
       "duration_ms": 201000,
       "name": "I CHANGED (I'M UP)",
       "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
-    },
-    {
-      "added_at": "2026-07-17 15:30:00",
-      "album": {
-        "name": "Surrender to the Waves",
-        "url": "https://open.spotify.com/album/2L6eOlq1xijsj0gja8oCnT"
-      },
-      "artists": [
-        {
-          "name": "Jonny and the Fellow Revellers",
-          "url": "https://open.spotify.com/artist/07WFFoO9ByGnuhq4c8dwH8"
-        }
-      ],
-      "duration_ms": 281836,
-      "name": "Surrender to the Waves",
-      "url": "https://open.spotify.com/track/7zPDsNnkEn5RwIARvQu3Ns"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -143,6 +143,38 @@
       "duration_ms": 148999,
       "name": "Ryk Met Tyd",
       "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
+    },
+    {
+      "added_at": "2026-07-30 22:01:23",
+      "album": {
+        "name": "Pose",
+        "url": "https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
+        }
+      ],
+      "duration_ms": 202887,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Spoed",
+        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 150810,
+      "name": "Spoed",
+      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -169,42 +201,6 @@
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
     },
     {
-      "added_at": "2026-07-17 15:30:00",
-      "album": {
-        "name": "Tree Terug",
-        "url": "https://open.spotify.com/album/2yPn88G3X2ZdTBaiEoTYKn"
-      },
-      "artists": [
-        {
-          "name": "Vrede",
-          "url": "https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX"
-        },
-        {
-          "name": "Net Francois",
-          "url": "https://open.spotify.com/artist/6ZRHHVXgxYnvQHn1VNcHmk"
-        }
-      ],
-      "duration_ms": 220869,
-      "name": "Tree Terug",
-      "url": "https://open.spotify.com/track/7MRxb8LoyblUUqnNVGtiQe"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "Spoed",
-        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 150810,
-      "name": "Spoed",
-      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
-    },
-    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "Stardust Galaxies",
@@ -221,20 +217,20 @@
       "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
     },
     {
-      "added_at": "2026-07-17 15:30:00",
+      "added_at": "2026-07-30 22:01:23",
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/5FNFAWI3mBqkNn6D1am9Kt"
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/3lqh7BTgGDNfazepPgSU3z"
       },
       "artists": [
         {
-          "name": "Robbie Perrott",
-          "url": "https://open.spotify.com/artist/3k3FcK16PCE7XiDTGpub8K"
+          "name": "Faker Streets",
+          "url": "https://open.spotify.com/artist/5fl7MrhmaUgE8flYAmZ0VV"
         }
       ],
-      "duration_ms": 235458,
-      "name": "40",
-      "url": "https://open.spotify.com/track/7ijxjvAznH2Jwb4lTGRNvm"
+      "duration_ms": 172440,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/05c24M6IA8m5XTkD73pk0U"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -269,36 +265,20 @@
       "url": "https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw"
     },
     {
-      "added_at": "2026-07-17 15:30:00",
+      "added_at": "2026-07-30 22:01:23",
       "album": {
-        "name": "Nikotien (Radio Edit)",
-        "url": "https://open.spotify.com/album/4GZbjcD4fcgAcfhsHgkUPM"
+        "name": "Oogkontak",
+        "url": "https://open.spotify.com/album/0sCV0f5J4CelDNVIvzRhI5"
       },
       "artists": [
         {
-          "name": "NIKOTIEN",
-          "url": "https://open.spotify.com/artist/1owyXkdGxYWNYxr9YknHG0"
+          "name": "Bcom",
+          "url": "https://open.spotify.com/artist/3bQd2MsV4ArWPuryfZqwk3"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Nikotien - Radio Edit",
-      "url": "https://open.spotify.com/track/4L8c8jAing1SZXmCF0IXkl"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "TREAT HIM LIKE A BABY",
-        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        }
-      ],
-      "duration_ms": 149446,
-      "name": "TREAT HIM LIKE A BABY",
-      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
+      "duration_ms": 186490,
+      "name": "Oogkontak",
+      "url": "https://open.spotify.com/track/1usvrGy7FGqCE3kxLl8g2w"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -317,20 +297,68 @@
       "url": "https://open.spotify.com/track/79EZCPwVxh2E6NFBMJt90c"
     },
     {
-      "added_at": "2026-07-17 15:30:00",
+      "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Limousine",
-        "url": "https://open.spotify.com/album/0cseDTVEIJKqmrGtym1uVU"
+        "name": "TREAT HIM LIKE A BABY",
+        "url": "https://open.spotify.com/album/6hnKIGXJvEmCvCrPsBpf6h"
       },
       "artists": [
         {
-          "name": "Metro Villa",
-          "url": "https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W"
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
         }
       ],
-      "duration_ms": 227826,
-      "name": "Limousine",
-      "url": "https://open.spotify.com/track/6edjFwEvZmtxlnAN9x7s5E"
+      "duration_ms": 149446,
+      "name": "TREAT HIM LIKE A BABY",
+      "url": "https://open.spotify.com/track/7KaPirdYI1EUhma39W8RVH"
+    },
+    {
+      "added_at": "2026-07-30 22:01:23",
+      "album": {
+        "name": "Abafana",
+        "url": "https://open.spotify.com/album/0TBZZtMSzUEYwX5rDfzFrE"
+      },
+      "artists": [
+        {
+          "name": "FREDDY L",
+          "url": "https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm"
+        }
+      ],
+      "duration_ms": 158750,
+      "name": "Abafana",
+      "url": "https://open.spotify.com/track/0BbzM5seFqOXV8xem4oM5i"
+    },
+    {
+      "added_at": "2026-07-02 22:01:16",
+      "album": {
+        "name": "HYMN",
+        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
+      },
+      "artists": [
+        {
+          "name": "Pussy Heaven",
+          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
+        }
+      ],
+      "duration_ms": 184682,
+      "name": "GIZMO",
+      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
+    },
+    {
+      "added_at": "2026-07-30 22:01:23",
+      "album": {
+        "name": "Wishing On A Daydream",
+        "url": "https://open.spotify.com/album/0ae8AqNrIL5ZLVtnLjAjuN"
+      },
+      "artists": [
+        {
+          "name": "Mila Smith",
+          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Wishing On A Daydream",
+      "url": "https://open.spotify.com/track/16JMEE1MP1bS93XHJ2TxoQ"
     },
     {
       "added_at": "2026-06-12 06:02:15",
@@ -375,6 +403,22 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
+        "name": "Sonskyn Vrou",
+        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
+      },
+      "artists": [
+        {
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+        }
+      ],
+      "duration_ms": 266868,
+      "name": "Sonskyn Vrou",
+      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
         "name": "Vanfokkingtasties Akoesties",
         "url": "https://open.spotify.com/album/4OaB5LtEhBtOBycsi2a5BH"
       },
@@ -407,38 +451,6 @@
       "duration_ms": 192794,
       "name": "SELFBEWUS",
       "url": "https://open.spotify.com/track/0P6JkwDFxKdy3C2UOoXxnu"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "Sonskyn Vrou",
-        "url": "https://open.spotify.com/album/5Hy6Ojdq7i5hzunCEoc1c1"
-      },
-      "artists": [
-        {
-          "name": "Hendr\u00e9 Baard",
-          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
-        }
-      ],
-      "duration_ms": 266868,
-      "name": "Sonskyn Vrou",
-      "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
-    },
-    {
-      "added_at": "2026-07-17 15:30:00",
-      "album": {
-        "name": "The Image of Gold and the Blazing Furnace",
-        "url": "https://open.spotify.com/album/0vTNnfrRaSzaxfBMcgXnym"
-      },
-      "artists": [
-        {
-          "name": "O'Grace",
-          "url": "https://open.spotify.com/artist/3jY9sVAFfe8TQ2qqxLlus8"
-        }
-      ],
-      "duration_ms": 233135,
-      "name": "The Image of Gold and the Blazing Furnace",
-      "url": "https://open.spotify.com/track/4wG7CHANSB6AqVR9s7rXVy"
     },
     {
       "added_at": "2026-06-12 06:02:15",
@@ -483,6 +495,38 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
+        "name": "Surpass The Power",
+        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+      },
+      "artists": [
+        {
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+        }
+      ],
+      "duration_ms": 233200,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
+    },
+    {
+      "added_at": "2026-07-30 22:01:23",
+      "album": {
+        "name": "Those December Nights",
+        "url": "https://open.spotify.com/album/7p0ALHCbnNDlPdC9zxTdnR"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "duration_ms": 245783,
+      "name": "Those December Nights",
+      "url": "https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
         "name": "Vriende",
         "url": "https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx"
       },
@@ -499,34 +543,18 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Surpass The Power",
-        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
       },
       "artists": [
         {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
         }
       ],
-      "duration_ms": 233200,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
-    },
-    {
-      "added_at": "2026-07-17 15:30:00",
-      "album": {
-        "name": "Popcorn and Candyfloss",
-        "url": "https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD"
-      },
-      "artists": [
-        {
-          "name": "The Color Blew",
-          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
-        }
-      ],
-      "duration_ms": 298369,
-      "name": "Popcorn and Candyfloss",
-      "url": "https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89"
+      "duration_ms": 156191,
+      "name": "Elsie",
+      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
     },
     {
       "added_at": "2026-06-18 22:02:16",
@@ -547,18 +575,34 @@
     {
       "added_at": "2026-04-24 09:03:29",
       "album": {
-        "name": "Elsie",
-        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+        "name": "As Jy Met Vuur Speel Sal Jy Brand",
+        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
       },
       "artists": [
         {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
         }
       ],
-      "duration_ms": 156191,
-      "name": "Elsie",
-      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+      "duration_ms": 159253,
+      "name": "Hemel Op Die Platteland",
+      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
+    },
+    {
+      "added_at": "2026-07-30 22:01:23",
+      "album": {
+        "name": "Bleek",
+        "url": "https://open.spotify.com/album/4AqKWE9Dv3wzihtg9d7fN4"
+      },
+      "artists": [
+        {
+          "name": "Arthur Steele",
+          "url": "https://open.spotify.com/artist/3O9AmjJB7AdzGrnornCxVb"
+        }
+      ],
+      "duration_ms": 237456,
+      "name": "Bleek",
+      "url": "https://open.spotify.com/track/3wMjJvDOlQrlmZTWhImpgy"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -575,38 +619,6 @@
       "duration_ms": 200625,
       "name": "By Jou",
       "url": "https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q"
-    },
-    {
-      "added_at": "2026-04-24 09:03:29",
-      "album": {
-        "name": "As Jy Met Vuur Speel Sal Jy Brand",
-        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
-      },
-      "artists": [
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
-        }
-      ],
-      "duration_ms": 159253,
-      "name": "Hemel Op Die Platteland",
-      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
-    },
-    {
-      "added_at": "2026-07-17 15:30:00",
-      "album": {
-        "name": "Brooklyn Bachelor",
-        "url": "https://open.spotify.com/album/0hFt5CTei97CTDaz4k59c2"
-      },
-      "artists": [
-        {
-          "name": "Millennium",
-          "url": "https://open.spotify.com/artist/4AaYTQtnZyjXm9JniWgGFw"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Brooklyn Bachelor",
-      "url": "https://open.spotify.com/track/1hJi7eS9uhSQtnQSTjRR72"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -675,22 +687,6 @@
       "duration_ms": 175866,
       "name": "Die Liedjie Oor Die Meisie (Ek Wil Jou H\u00ea)",
       "url": "https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2"
-    },
-    {
-      "added_at": "2026-07-17 15:30:00",
-      "album": {
-        "name": "Geen Skande",
-        "url": "https://open.spotify.com/album/45TjFXBVzjqMYbLuo7z3Dm"
-      },
-      "artists": [
-        {
-          "name": "Klaas Zaberman en die Nie-reisende Reserwes",
-          "url": "https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA"
-        }
-      ],
-      "duration_ms": 227972,
-      "name": "Geen Skande",
-      "url": "https://open.spotify.com/track/1sZ5KoWcweIBDAuaLy5n9E"
     },
     {
       "added_at": "2026-04-24 09:03:29",
@@ -801,22 +797,6 @@
       "url": "https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9"
     },
     {
-      "added_at": "2026-07-02 22:01:16",
-      "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/1bWI42zBo9ks5iUMOTbqPj"
-      },
-      "artists": [
-        {
-          "name": "Tree63",
-          "url": "https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7"
-        }
-      ],
-      "duration_ms": 253856,
-      "name": "Ambush",
-      "url": "https://open.spotify.com/track/6R7ZopFApl53TBoHagimq6"
-    },
-    {
       "added_at": "2026-04-24 09:03:29",
       "album": {
         "name": "Against All Odds",
@@ -863,6 +843,22 @@
       "duration_ms": 205000,
       "name": "Gly Mamma Gly",
       "url": "https://open.spotify.com/track/6zxQcCztB1zyMvdWedQEZL"
+    },
+    {
+      "added_at": "2026-04-24 09:03:29",
+      "album": {
+        "name": "Nou Toer Ons!",
+        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
+      },
+      "artists": [
+        {
+          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
+          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
+        }
+      ],
+      "duration_ms": 178813,
+      "name": "Doen Sy Bes",
+      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
     }
   ],
   "unique_name": "SA Rock ",

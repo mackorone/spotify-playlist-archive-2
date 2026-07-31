@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover:  Fabrizio
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,233 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,237 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Parröthead2.0](https://open.spotify.com/track/7nF71dXC3roeMIhc2RIdoi) | [Deloyd Elze](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo) | [Parröthead2.0](https://open.spotify.com/album/13HryHLjZmm2VIZod1Ls2T) | 2:24 |
 | 100 | [Is This Really Happening?](https://open.spotify.com/track/1ivFENev90vl7KkhV4ZuoV) | [Ali Angel](https://open.spotify.com/artist/0RPW9rpDMyVD4wEMzvd1RG) | [Is This Really Happening?](https://open.spotify.com/album/3mzlLP2CBMZGX3sYYbSwQW) | 4:21 |
 
-Snapshot ID: `AAAAAJFndj3tX5LKSsSbQF2XoNnfu+M3`
+Snapshot ID: `AAAAAOReNn5TRQ3hDHgN+VvjZIGFYuQA`

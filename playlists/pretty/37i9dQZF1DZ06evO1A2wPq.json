@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 22101,
+  "num_followers": 22117,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAAAxlXvmVNKduX7I2eXbgO94",
+  "snapshot_id": "amlCgAAAAABfyHj2t5cG5DXQrKUzwJqu",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "touch myself/idea of love",
-        "url": "https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 249218,
-      "name": "touch myself",
-      "url": "https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "eyes wide open",
         "url": "https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV"
       },
@@ -71,6 +55,26 @@
       "duration_ms": 153648,
       "name": "eyes wide open",
       "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "While We Wait 2",
+        "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 229736,
+      "name": "Clothes Off (feat. kwn)",
+      "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
     },
     {
       "added_at": null,
@@ -107,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "While We Wait 2",
-        "url": "https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 229736,
-      "name": "Clothes Off (feat. kwn)",
-      "url": "https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "five more",
         "url": "https://open.spotify.com/album/2M30ZRiU7qF7fGDUimJI2m"
       },
@@ -139,6 +123,26 @@
       "duration_ms": 165428,
       "name": "five more",
       "url": "https://open.spotify.com/track/35AVLOV0vZD6hUv1D7djLT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Jaguar's Dream",
+        "url": "https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 118933,
+      "name": "Too Many Women (feat. kwn)",
+      "url": "https://open.spotify.com/track/60nXonFosfqr4KpZHm48OH"
     },
     {
       "added_at": null,
@@ -179,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Jaguar's Dream",
-        "url": "https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 118933,
-      "name": "Too Many Women (feat. kwn)",
-      "url": "https://open.spotify.com/track/60nXonFosfqr4KpZHm48OH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "wn up",
         "url": "https://open.spotify.com/album/4RVscQW0BIGHH8T6VdknFl"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 203669,
       "name": "wn up",
       "url": "https://open.spotify.com/track/0nBSRIzgxIb08xXgiEBZWi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "no cinderella",
+        "url": "https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 143804,
+      "name": "no cinderella",
+      "url": "https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "no cinderella",
-        "url": "https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 143804,
-      "name": "no cinderella",
-      "url": "https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "lord i've tried",
         "url": "https://open.spotify.com/album/1mrDB1CAtj69uKb9mxsAJa"
       },
@@ -279,6 +263,94 @@
       "duration_ms": 106632,
       "name": "lord i've tried",
       "url": "https://open.spotify.com/track/6gAb03yQ9isxbYortJgAYq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wn way or another",
+        "url": "https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 130932,
+      "name": "wn way or another",
+      "url": "https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 249218,
+      "name": "touch myself",
+      "url": "https://open.spotify.com/track/3tyDv1Qwsr7MSZB45ywgj7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 186870,
+      "name": "talk you through it (feat. FLO)",
+      "url": "https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "sweetie (feat. Scribz Riley)",
+        "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Scribz Riley",
+          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
+        }
+      ],
+      "duration_ms": 177738,
+      "name": "sweetie (feat. Scribz Riley)",
+      "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "episode wn",
+        "url": "https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 111222,
+      "name": "venus pool (interlude)",
+      "url": "https://open.spotify.com/track/56si04F0ZocY2zkwBl7LaA"
     },
     {
       "added_at": null,
@@ -306,103 +378,11 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 186870,
-      "name": "talk you through it (feat. FLO)",
-      "url": "https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wn way or another",
-        "url": "https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 130932,
-      "name": "wn way or another",
-      "url": "https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "sweetie (feat. Scribz Riley)",
-        "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Scribz Riley",
-          "url": "https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61"
-        }
-      ],
-      "duration_ms": 177738,
-      "name": "sweetie (feat. Scribz Riley)",
-      "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "'til the room stinks (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
       "duration_ms": 153103,
       "name": "stand on it",
       "url": "https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "episode wn",
-        "url": "https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 111222,
-      "name": "venus pool (interlude)",
-      "url": "https://open.spotify.com/track/56si04F0ZocY2zkwBl7LaA"
     },
     {
       "added_at": null,

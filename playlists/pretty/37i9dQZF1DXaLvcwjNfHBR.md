@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Lizzy McAlpine
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,094 likes - 85 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,130 likes - 85 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 84 | [Got Time](https://open.spotify.com/track/4iW1tRzk2VEISiqjGPV0tH) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Marginalia](https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot) | 3:07 |
 | 85 | [Camilla](https://open.spotify.com/track/6fsVL2HeSgQrciFJg4gkqT) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [Camilla](https://open.spotify.com/album/014mbn2oZiArZavmho6hog) | 3:32 |
 
-Snapshot ID: `AAAAAFwDsAF841sT7Cf8eUrQJ5B2yfSj`
+Snapshot ID: `AAAAAL6G9OhE32fqLcduLGlRlMd5PCJu`

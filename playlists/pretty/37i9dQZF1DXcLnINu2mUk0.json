@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Rony Fuego",
-  "num_followers": 55406,
+  "num_followers": 55407,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPUnQuBS1HGKpPYLJtB0UKA/Wx70",
+  "snapshot_id": "AAAAAIaaBdlc65RNirKF86f6ggvqRoXD",
   "tracks": [
     {
       "added_at": "2026-07-23 23:00:52",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-07-23 23:00:52",
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
+    },
+    {
+      "added_at": "2026-07-23 23:00:52",
+      "album": {
         "name": "SUPER",
         "url": "https://open.spotify.com/album/4eTP8dIvGNdgYAf0D1ixNJ"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 222315,
       "name": "SUPER",
       "url": "https://open.spotify.com/track/7G4Icmrbwe5jQTVMOQ5NbV"
-    },
-    {
-      "added_at": "2026-07-23 23:00:52",
-      "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/5KtyAVXpW4uqD2TG02NTA4"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/5ZU1TW5KbwOb7r0ZDILy7c"
     },
     {
       "added_at": "2026-07-23 23:00:52",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2026-07-23 23:00:52",
       "album": {
+        "name": "M\u00e3o de Sonhos",
+        "url": "https://open.spotify.com/album/1P4rGS3xRlS9qOqglHFGFe"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 194655,
+      "name": "M\u00e3o de Sonhos",
+      "url": "https://open.spotify.com/track/4AmFBFSgOrk0ZBvk0tjCy8"
+    },
+    {
+      "added_at": "2026-07-23 23:00:52",
+      "album": {
         "name": "Ninfoman\u00edaca",
         "url": "https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 171000,
       "name": "Ninfoman\u00edaca",
       "url": "https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB"
-    },
-    {
-      "added_at": "2026-07-23 23:00:52",
-      "album": {
-        "name": "M\u00e3o de Sonhos",
-        "url": "https://open.spotify.com/album/1P4rGS3xRlS9qOqglHFGFe"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 194655,
-      "name": "M\u00e3o de Sonhos",
-      "url": "https://open.spotify.com/track/4AmFBFSgOrk0ZBvk0tjCy8"
     },
     {
       "added_at": "2026-07-23 23:00:52",

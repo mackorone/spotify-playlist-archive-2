@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Kayla Shyx
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,920 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,926 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Genauso allein](https://open.spotify.com/track/0bjarKTUb3IrD9yFuB4DKQ) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Genauso allein](https://open.spotify.com/album/6o0HGWZdCSM8K7J1buILoK) | 3:33 |
 | 75 | [Wohnung](https://open.spotify.com/track/35mvNtmbZaKJ0CHI9166Ch) | [TEMMIS](https://open.spotify.com/artist/0zJI6wuVa9gi4ir8zlU6Km) | [Wohnung](https://open.spotify.com/album/0xBCyx02z7QrALyZ7dPDCj) | 2:34 |
 
-Snapshot ID: `AAAAAKPgIVy12xStWxIN2q1VDVyuvtP9`
+Snapshot ID: `AAAAAEvtzWwj+xvhoXMBxJUTfY6bBPxh`

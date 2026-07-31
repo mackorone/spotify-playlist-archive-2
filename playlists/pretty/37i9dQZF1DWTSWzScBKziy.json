@@ -1,12 +1,12 @@
 {
   "description": "Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres.. Cover: Jason Crabb",
-  "num_followers": 434121,
+  "num_followers": 434193,
   "original_name": "Faith Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANwWDyM0Xe77e4gS+eCRBl1qSP5h",
+  "snapshot_id": "AAAAAB1thWvviuFXniK75B9xecMEULMG",
   "tracks": [
     {
       "added_at": "2026-07-17 07:18:27",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/7B1U2uA3G7XhvbYWZ0Kevh"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+        }
+      ],
+      "duration_ms": 180078,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/2dDoci6iS2qGzeyL2Jcs2R"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
         "name": "Promise Keeper",
         "url": "https://open.spotify.com/album/0AXYZMk19oDLs0iHZBCCHb"
       },
@@ -259,22 +275,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/7B1U2uA3G7XhvbYWZ0Kevh"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
-        }
-      ],
-      "duration_ms": 180078,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/2dDoci6iS2qGzeyL2Jcs2R"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "What A God",
         "url": "https://open.spotify.com/album/6pD1fqZb2FRZmpgbOmtgen"
       },
@@ -291,6 +291,22 @@
       "duration_ms": 378197,
       "name": "What A God",
       "url": "https://open.spotify.com/track/4eTLdVkDPeJRwvS5T5YrVd"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "Only Ever",
+        "url": "https://open.spotify.com/album/7ymTAiw7S9b0HZAXaZzoar"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Only Ever",
+      "url": "https://open.spotify.com/track/7JOI1mdGhWdaa8U4NGSteC"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -335,22 +351,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Only Ever",
-        "url": "https://open.spotify.com/album/7ymTAiw7S9b0HZAXaZzoar"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Only Ever",
-      "url": "https://open.spotify.com/track/7JOI1mdGhWdaa8U4NGSteC"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "Forever Now",
         "url": "https://open.spotify.com/album/1EGLxrX13pQItu7b9kjASi"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Breathe On It (From Austin)",
-        "url": "https://open.spotify.com/album/4YsvGZa7ngt3MESImncyrk"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 290981,
-      "name": "Breathe On It - From Austin",
-      "url": "https://open.spotify.com/track/5SZ4sp87ADIPrXorEZvHLx"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "GO FOR BROKE",
         "url": "https://open.spotify.com/album/1FwwG1ESCyEWGqWT00IXWo"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 228029,
       "name": "GO FOR BROKE",
       "url": "https://open.spotify.com/track/0DKjNA405jiAQgkimXJqb5"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "Breathe On It (From Austin)",
+        "url": "https://open.spotify.com/album/4YsvGZa7ngt3MESImncyrk"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 290981,
+      "name": "Breathe On It - From Austin",
+      "url": "https://open.spotify.com/track/5SZ4sp87ADIPrXorEZvHLx"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Messed Up Messenger",
-        "url": "https://open.spotify.com/album/68RSHthYk5DHJEnsVtTjcj"
-      },
-      "artists": [
-        {
-          "name": "LIN D",
-          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
-        }
-      ],
-      "duration_ms": 197898,
-      "name": "Messed Up Messenger",
-      "url": "https://open.spotify.com/track/6S7ozX65RnMobYTiaSlreq"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "Something To Believe In",
         "url": "https://open.spotify.com/album/0YVYzRqRJdBAPSBqjNU4zF"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 200038,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/35I3OkokQgiDZPh9VPKlfl"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "Messed Up Messenger",
+        "url": "https://open.spotify.com/album/68RSHthYk5DHJEnsVtTjcj"
+      },
+      "artists": [
+        {
+          "name": "LIN D",
+          "url": "https://open.spotify.com/artist/5LOZTJ6I1sTLRiK14eSWDr"
+        }
+      ],
+      "duration_ms": 197898,
+      "name": "Messed Up Messenger",
+      "url": "https://open.spotify.com/track/6S7ozX65RnMobYTiaSlreq"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "WHAT A YEAR",
-        "url": "https://open.spotify.com/album/04EzlBYdrCi8Ade2W8pwdS"
-      },
-      "artists": [
-        {
-          "name": "ELI GABLE",
-          "url": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "WHAT A YEAR",
-      "url": "https://open.spotify.com/track/0FcnyddEwiidCT7t5LwvqH"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "Meet Me In The Valley (I Surrender All)",
         "url": "https://open.spotify.com/album/4k2R4uwafkVx72GVjTBcDQ"
       },
@@ -539,50 +523,18 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Want to Grow",
-        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
+        "name": "WHAT A YEAR",
+        "url": "https://open.spotify.com/album/04EzlBYdrCi8Ade2W8pwdS"
       },
       "artists": [
         {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+          "name": "ELI GABLE",
+          "url": "https://open.spotify.com/artist/4b9TssR4OW2BKUrrsffzsY"
         }
       ],
-      "duration_ms": 189557,
-      "name": "Want to Grow",
-      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
-        "name": "Darken The Doorway",
-        "url": "https://open.spotify.com/album/2z69e6OBVlCzSnZXBwQ4K8"
-      },
-      "artists": [
-        {
-          "name": "Franni Cash",
-          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
-        }
-      ],
-      "duration_ms": 149994,
-      "name": "Darken The Doorway",
-      "url": "https://open.spotify.com/track/55jJqk7yaFYSTRZRqhUaqC"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
-        "name": "I Will Go (Live)",
-        "url": "https://open.spotify.com/album/5poFBH0sgVLaxNAcCmxti6"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 249003,
-      "name": "I Will Go - Live",
-      "url": "https://open.spotify.com/track/1qRyX2jvOmpdCopna4KVNl"
+      "duration_ms": 192000,
+      "name": "WHAT A YEAR",
+      "url": "https://open.spotify.com/track/0FcnyddEwiidCT7t5LwvqH"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -603,6 +555,38 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
+        "name": "Darken The Doorway",
+        "url": "https://open.spotify.com/album/2z69e6OBVlCzSnZXBwQ4K8"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "duration_ms": 149994,
+      "name": "Darken The Doorway",
+      "url": "https://open.spotify.com/track/55jJqk7yaFYSTRZRqhUaqC"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "Want to Grow",
+        "url": "https://open.spotify.com/album/7znFZ68eRO9ACn3uxkUQEo"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        }
+      ],
+      "duration_ms": 189557,
+      "name": "Want to Grow",
+      "url": "https://open.spotify.com/track/53y4ULVul9iY3XnUx5720J"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
         "name": "Talking Like Friends",
         "url": "https://open.spotify.com/album/4eQ2CSzcTC5rkuGc6KIh91"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 292857,
       "name": "Talking Like Friends",
       "url": "https://open.spotify.com/track/7EXK5UuvlNoHv794VEGGht"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "I Will Go (Live)",
+        "url": "https://open.spotify.com/album/5poFBH0sgVLaxNAcCmxti6"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 249003,
+      "name": "I Will Go - Live",
+      "url": "https://open.spotify.com/track/1qRyX2jvOmpdCopna4KVNl"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -639,6 +639,22 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
+        "name": "Child of God Freestyle",
+        "url": "https://open.spotify.com/album/0OMWid10YXeS5mRuNucssd"
+      },
+      "artists": [
+        {
+          "name": "Jaz Donell",
+          "url": "https://open.spotify.com/artist/2AOPxALbQxgAhG49uFEmgb"
+        }
+      ],
+      "duration_ms": 153571,
+      "name": "Child of God Freestyle",
+      "url": "https://open.spotify.com/track/72tYDPXmZTOSNy3EFum0LR"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
         "name": "When I Think (I Thank) [Live]",
         "url": "https://open.spotify.com/album/4gGzUYY1vp9JrYMfJPIZWh"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 478013,
       "name": "When I Think (I Thank) [feat. Pamela Westbrook] - Live",
       "url": "https://open.spotify.com/track/4E32e0xuwmC7CEpgdlOywx"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
-        "name": "Child of God Freestyle",
-        "url": "https://open.spotify.com/album/0OMWid10YXeS5mRuNucssd"
-      },
-      "artists": [
-        {
-          "name": "Jaz Donell",
-          "url": "https://open.spotify.com/artist/2AOPxALbQxgAhG49uFEmgb"
-        }
-      ],
-      "duration_ms": 153571,
-      "name": "Child of God Freestyle",
-      "url": "https://open.spotify.com/track/72tYDPXmZTOSNy3EFum0LR"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -959,6 +959,34 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
+        "name": "My God",
+        "url": "https://open.spotify.com/album/6pEE0XGGTRWCgANFavD2Hl"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        },
+        {
+          "name": "DFY Juniors",
+          "url": "https://open.spotify.com/artist/4tyED3JR3gKRYKBJqBc4Vj"
+        },
+        {
+          "name": "ABLAZE",
+          "url": "https://open.spotify.com/artist/6zudSiQaQJQB8naH5pf65W"
+        },
+        {
+          "name": "Mark Ellis Jr.",
+          "url": "https://open.spotify.com/artist/5NEeZMDO1mKdEv5dDxB0NL"
+        }
+      ],
+      "duration_ms": 297678,
+      "name": "My God",
+      "url": "https://open.spotify.com/track/7Hw7e1zzECBiuG37BEjc7c"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
         "name": "What Else Can I Do",
         "url": "https://open.spotify.com/album/01NGrBD9LlsZw96to2sDSQ"
       },
@@ -1003,50 +1031,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "My God",
-        "url": "https://open.spotify.com/album/6pEE0XGGTRWCgANFavD2Hl"
-      },
-      "artists": [
-        {
-          "name": "Jovonta Patton",
-          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
-        },
-        {
-          "name": "DFY Juniors",
-          "url": "https://open.spotify.com/artist/4tyED3JR3gKRYKBJqBc4Vj"
-        },
-        {
-          "name": "ABLAZE",
-          "url": "https://open.spotify.com/artist/6zudSiQaQJQB8naH5pf65W"
-        },
-        {
-          "name": "Mark Ellis Jr.",
-          "url": "https://open.spotify.com/artist/5NEeZMDO1mKdEv5dDxB0NL"
-        }
-      ],
-      "duration_ms": 297678,
-      "name": "My God",
-      "url": "https://open.spotify.com/track/7Hw7e1zzECBiuG37BEjc7c"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/6QVYThtAZSWJuGRIBY8mhB"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 586140,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "My Redeemer Lives (He Lives)",
         "url": "https://open.spotify.com/album/5MQ8l1QjrtK1UzJy4HryD0"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 275786,
       "name": "My Redeemer Lives (He Lives)",
       "url": "https://open.spotify.com/track/1xMXtml2hvq7IM6JdaZy7n"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/6QVYThtAZSWJuGRIBY8mhB"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 586140,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Open the Eyes (Praise You)",
-        "url": "https://open.spotify.com/album/6LHC1RZhsWxQWDB2fpFocU"
-      },
-      "artists": [
-        {
-          "name": "Madison Watkins",
-          "url": "https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT"
-        }
-      ],
-      "duration_ms": 184521,
-      "name": "Open the Eyes (Praise You)",
-      "url": "https://open.spotify.com/track/4auVflbcFJqmPaPMoFtz3A"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "Beat Around the Bush",
         "url": "https://open.spotify.com/album/3VBfv8Xf2zITBnaavDIOuo"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 181616,
       "name": "Beat Around the Bush",
       "url": "https://open.spotify.com/track/1514nKJZGRVY6rjnABlqBj"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "Open the Eyes (Praise You)",
+        "url": "https://open.spotify.com/album/6LHC1RZhsWxQWDB2fpFocU"
+      },
+      "artists": [
+        {
+          "name": "Madison Watkins",
+          "url": "https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT"
+        }
+      ],
+      "duration_ms": 184521,
+      "name": "Open the Eyes (Praise You)",
+      "url": "https://open.spotify.com/track/4auVflbcFJqmPaPMoFtz3A"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Your Kingdom Come",
-        "url": "https://open.spotify.com/album/7dI7ivXWwXgCP0NvDbov8b"
+        "name": "Terms & Conditions",
+        "url": "https://open.spotify.com/album/6AhdxB1DQE96eRfYGQ3iT5"
       },
       "artists": [
         {
-          "name": "Chevas Phillips",
-          "url": "https://open.spotify.com/artist/67Zx5vdEbthTEIbDvoYskv"
+          "name": "Zoe Levert",
+          "url": "https://open.spotify.com/artist/0f7KVpp4sPg1v2EzCwTmD8"
         }
       ],
-      "duration_ms": 239200,
-      "name": "Your Kingdom Come",
-      "url": "https://open.spotify.com/track/3SQMtWbtOscPFN3p3b8o4G"
+      "duration_ms": 247688,
+      "name": "Terms & Conditions",
+      "url": "https://open.spotify.com/track/3z2KaIHWp94IgAhbbxMxqz"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Terms & Conditions",
-        "url": "https://open.spotify.com/album/6AhdxB1DQE96eRfYGQ3iT5"
-      },
-      "artists": [
-        {
-          "name": "Zoe Levert",
-          "url": "https://open.spotify.com/artist/0f7KVpp4sPg1v2EzCwTmD8"
-        }
-      ],
-      "duration_ms": 247688,
-      "name": "Terms & Conditions",
-      "url": "https://open.spotify.com/track/3z2KaIHWp94IgAhbbxMxqz"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "Never Returns Void",
         "url": "https://open.spotify.com/album/0ny0pOt7hZmOVcqDlFB0Ib"
       },
@@ -1343,18 +1327,34 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Oh My Soul + I Know A Name",
-        "url": "https://open.spotify.com/album/7oqCcj5CucrhmdGA3AuXbb"
+        "name": "Your Kingdom Come",
+        "url": "https://open.spotify.com/album/7dI7ivXWwXgCP0NvDbov8b"
       },
       "artists": [
         {
-          "name": "Canaan Baca",
-          "url": "https://open.spotify.com/artist/0h1ga0Poq8QRidzT336Y6q"
+          "name": "Chevas Phillips",
+          "url": "https://open.spotify.com/artist/67Zx5vdEbthTEIbDvoYskv"
         }
       ],
-      "duration_ms": 235331,
-      "name": "Oh My Soul",
-      "url": "https://open.spotify.com/track/4kvRVDFQazhqMk5ox7fhoB"
+      "duration_ms": 239200,
+      "name": "Your Kingdom Come",
+      "url": "https://open.spotify.com/track/3SQMtWbtOscPFN3p3b8o4G"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "This Is The Christ",
+        "url": "https://open.spotify.com/album/6KLtyAv0Tt9Qo48xXBeypB"
+      },
+      "artists": [
+        {
+          "name": "Emu Music",
+          "url": "https://open.spotify.com/artist/1XWwLmwCebWsLBAxTSRiip"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "This Is The Christ",
+      "url": "https://open.spotify.com/track/11kpQtfgf4PUUqqLuZwZkP"
     }
   ],
   "unique_name": "Faith Rising",

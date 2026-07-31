@@ -1,12 +1,12 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: YHWH Nailgun",
-  "num_followers": 295460,
+  "num_followers": 295458,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE67A9AiAkaCei4zIXZ7BcrJM5+K",
+  "snapshot_id": "AAAAAAbZQzTlZS8R0K7tlIYD4D363RNX",
   "tracks": [
     {
       "added_at": "2026-07-17 17:28:38",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "The Radiator",
-        "url": "https://open.spotify.com/album/7ualbLUCW7009ZpbnOgNCW"
-      },
-      "artists": [
-        {
-          "name": "Getdown Services",
-          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
-        }
-      ],
-      "duration_ms": 218073,
-      "name": "The Radiator",
-      "url": "https://open.spotify.com/track/10K97XTdPbgqXeQT8Lptzw"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Jeans",
         "url": "https://open.spotify.com/album/7fAUhdAb9h3gukUMAt0pv5"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 207466,
       "name": "Jeans",
       "url": "https://open.spotify.com/track/0HB0UXiIT3HUjDid2OGXH5"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "The Radiator",
+        "url": "https://open.spotify.com/album/7ualbLUCW7009ZpbnOgNCW"
+      },
+      "artists": [
+        {
+          "name": "Getdown Services",
+          "url": "https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5"
+        }
+      ],
+      "duration_ms": 218073,
+      "name": "The Radiator",
+      "url": "https://open.spotify.com/track/10K97XTdPbgqXeQT8Lptzw"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Party Lines",
-        "url": "https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 179110,
-      "name": "Party Lines",
-      "url": "https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "viagr aboys (Japanese Deluxe Edition)",
         "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 159390,
       "name": "Therapy II",
       "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Party Lines",
+        "url": "https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 179110,
+      "name": "Party Lines",
+      "url": "https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/0RgD2bQdV25cA4X4eduMnB"
-      },
-      "artists": [
-        {
-          "name": "Teenage Disaster",
-          "url": "https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep"
-        }
-      ],
-      "duration_ms": 153277,
-      "name": "inside",
-      "url": "https://open.spotify.com/track/7pSk2IpssFoWAflV3k41Tx"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Holy, Holy",
         "url": "https://open.spotify.com/album/5vH37rLJhlrXMK9drGQD2V"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 363138,
       "name": "Holy, Holy",
       "url": "https://open.spotify.com/track/4Nk10X45JIH1xrIWOCbA3I"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "inside",
+        "url": "https://open.spotify.com/album/0RgD2bQdV25cA4X4eduMnB"
+      },
+      "artists": [
+        {
+          "name": "Teenage Disaster",
+          "url": "https://open.spotify.com/artist/1CT22NjFvtaxNEF9ouO3Ep"
+        }
+      ],
+      "duration_ms": 153277,
+      "name": "inside",
+      "url": "https://open.spotify.com/track/7pSk2IpssFoWAflV3k41Tx"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Florida Water Blues",
+        "url": "https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I"
+      },
+      "artists": [
+        {
+          "name": "Twisted Teens",
+          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+        }
+      ],
+      "duration_ms": 233197,
+      "name": "Riding",
+      "url": "https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Projector",
         "url": "https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Florida Water Blues",
-        "url": "https://open.spotify.com/album/2Gyxm1N8hGyBgVdApmpm4I"
+        "name": "EELS",
+        "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
       },
       "artists": [
         {
-          "name": "Twisted Teens",
-          "url": "https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv"
+          "name": "Being Dead",
+          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
         }
       ],
-      "duration_ms": 233197,
-      "name": "Riding",
-      "url": "https://open.spotify.com/track/2kfrzSpyxTuipgYPqtvwda"
+      "duration_ms": 213904,
+      "name": "Van Goes",
+      "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -859,22 +875,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "EELS",
-        "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
-      },
-      "artists": [
-        {
-          "name": "Being Dead",
-          "url": "https://open.spotify.com/artist/3EFae6NKxawpxdiZDQPqp8"
-        }
-      ],
-      "duration_ms": 213904,
-      "name": "Van Goes",
-      "url": "https://open.spotify.com/track/7ko2jLqvIxDaKWySopq4cP"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Saturday Sun",
         "url": "https://open.spotify.com/album/0Sjukr6AlTbsXNfdb7E8f7"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Prevail",
-        "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
+        "name": "Accent",
+        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
       },
       "artists": [
         {
-          "name": "Mouth Ulcers",
-          "url": "https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5"
+          "name": "Sweeping Promises",
+          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
         }
       ],
-      "duration_ms": 194885,
-      "name": "Prevail",
-      "url": "https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD"
+      "duration_ms": 237059,
+      "name": "Accent",
+      "url": "https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -923,18 +923,18 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Accent",
-        "url": "https://open.spotify.com/album/6tiLEfNAiONMQHnjQLPXYT"
+        "name": "Prevail",
+        "url": "https://open.spotify.com/album/66nOHdu9ODND2IXC328U40"
       },
       "artists": [
         {
-          "name": "Sweeping Promises",
-          "url": "https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt"
+          "name": "Mouth Ulcers",
+          "url": "https://open.spotify.com/artist/7ohGcioscyT39FJjvkivt5"
         }
       ],
-      "duration_ms": 237059,
-      "name": "Accent",
-      "url": "https://open.spotify.com/track/65YABV9CvIoqKEUwZfUmMk"
+      "duration_ms": 194885,
+      "name": "Prevail",
+      "url": "https://open.spotify.com/track/2aqDOaADfiXz2wDwHsIbRD"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Drag",
-        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "Drag",
-      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "POSTINDUSTRIAL HOMETOWN BLUES",
         "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 177597,
       "name": "BLACK COUNTRY GOTHIC",
       "url": "https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Drag",
+        "url": "https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "Drag",
+      "url": "https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "One More Trip Around The Sun",
-        "url": "https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh"
-      },
-      "artists": [
-        {
-          "name": "Cari Cari",
-          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "One More Trip Around The Sun",
-      "url": "https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Sharon Van Etten & The Attachment Theory",
         "url": "https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 186792,
       "name": "I Can\u2019t Imagine (Why You Feel This Way)",
       "url": "https://open.spotify.com/track/7vReZ7BfPWdIvZjHlFdJw5"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "One More Trip Around The Sun",
+        "url": "https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "One More Trip Around The Sun",
+      "url": "https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ"
-      },
-      "artists": [
-        {
-          "name": "Ultra Lights",
-          "url": "https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA"
-        }
-      ],
-      "duration_ms": 127173,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Within Dreams",
         "url": "https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 145173,
       "name": "Volvo (On The Road)",
       "url": "https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ"
+      },
+      "artists": [
+        {
+          "name": "Ultra Lights",
+          "url": "https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA"
+        }
+      ],
+      "duration_ms": 127173,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1323,38 +1323,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Fundraiser",
-        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 219305,
-      "name": "Fundraiser",
-      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
-        "name": "Slippers 08",
-        "url": "https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf"
-      },
-      "artists": [
-        {
-          "name": "Slippers",
-          "url": "https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM"
-        }
-      ],
-      "duration_ms": 108169,
-      "name": "Castaways",
-      "url": "https://open.spotify.com/track/45ou0EX3LwwKL5XM8abpOX"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Cherry Picker",
         "url": "https://open.spotify.com/album/3Rf4fvEkIrthJoknt3RjFF"
       },
@@ -1371,6 +1339,22 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
+        "name": "Fundraiser",
+        "url": "https://open.spotify.com/album/41zdUDQTzzWa0lxjCvDxID"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 219305,
+      "name": "Fundraiser",
+      "url": "https://open.spotify.com/track/31n4AvZ46fNJl6QHgVCKL9"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
         "name": "Out Of My Head",
         "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 190533,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Slippers 08",
+        "url": "https://open.spotify.com/album/2rEIyTZL4buxgHzUEZnBjf"
+      },
+      "artists": [
+        {
+          "name": "Slippers",
+          "url": "https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM"
+        }
+      ],
+      "duration_ms": 108169,
+      "name": "Castaways",
+      "url": "https://open.spotify.com/track/45ou0EX3LwwKL5XM8abpOX"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Late Nighter",
-        "url": "https://open.spotify.com/album/7Abp5xiFR69l5OZiH1Sg3T"
-      },
-      "artists": [
-        {
-          "name": "The Paranoyds",
-          "url": "https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4"
-        }
-      ],
-      "duration_ms": 184667,
-      "name": "Tracy Don't",
-      "url": "https://open.spotify.com/track/6sSvhZTbMmy3Jc1kz4FoJ9"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Shaking Hand",
         "url": "https://open.spotify.com/album/0e8Wa6LD98MLMUHmH8b7mq"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 283160,
       "name": "In For a\u2026 Pound!",
       "url": "https://open.spotify.com/track/61eB7URzZDMWNywmlda4HX"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Late Nighter",
+        "url": "https://open.spotify.com/album/7Abp5xiFR69l5OZiH1Sg3T"
+      },
+      "artists": [
+        {
+          "name": "The Paranoyds",
+          "url": "https://open.spotify.com/artist/34ji1NPhqjImjXwOb2kwg4"
+        }
+      ],
+      "duration_ms": 184667,
+      "name": "Tracy Don't",
+      "url": "https://open.spotify.com/track/6sSvhZTbMmy3Jc1kz4FoJ9"
     },
     {
       "added_at": "2026-07-17 17:28:38",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-07-17 17:28:38",
       "album": {
-        "name": "Trickle Down",
-        "url": "https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 167419,
-      "name": "Trickle Down",
-      "url": "https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel"
-    },
-    {
-      "added_at": "2026-07-17 17:28:38",
-      "album": {
         "name": "Brown Paper Bag",
         "url": "https://open.spotify.com/album/6ST5FAXR1PGdcke9lHZYyY"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 286029,
       "name": "Mind's a Lie",
       "url": "https://open.spotify.com/track/1r3zKI4PDdsBpJEVGIUrGH"
+    },
+    {
+      "added_at": "2026-07-17 17:28:38",
+      "album": {
+        "name": "Trickle Down",
+        "url": "https://open.spotify.com/album/4bewK44e2zjdapyJ4KhITb"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 167419,
+      "name": "Trickle Down",
+      "url": "https://open.spotify.com/track/1EiUn7JKSP2D7tcrPLgEel"
     },
     {
       "added_at": "2026-07-17 17:28:38",

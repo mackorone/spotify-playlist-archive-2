@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: King Gnu \*👉 <a href="https://spice.eplus.jp/articles/347889">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,963 likes - 94 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,015 likes - 94 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 32 | [大事にしているユートピア](https://open.spotify.com/track/5aIju1RBIPItPOJGmaDntp) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [大事にしているユートピア](https://open.spotify.com/album/5sYrCoCcK15cNovBqxU3t0) | 3:43 |
 | 33 | [Flash](https://open.spotify.com/track/03FZvvrqzRYiYOtfAUuPsk) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Flash](https://open.spotify.com/album/4z79Mt7r2oQMoAQFckb7UJ) | 3:50 |
 | 34 | [Glass](https://open.spotify.com/track/2BImbD7IVBqdGExMS5UlMw) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [Glass](https://open.spotify.com/album/4saN9c568C0lfnMTrYb4Cn) | 2:31 |
-| 35 | [yume](https://open.spotify.com/track/5mJnv7JAvhHgP0dixI0eUC) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [yume](https://open.spotify.com/album/5wSjhdhaCg9JuhDLAplyI4) | 4:25 |
+| 35 | [yume](https://open.spotify.com/track/5mJnv7JAvhHgP0dixI0eUC) | [YU'S](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [yume](https://open.spotify.com/album/5wSjhdhaCg9JuhDLAplyI4) | 4:25 |
 | 36 | [Tururu](https://open.spotify.com/track/7uiDuRiL6HQaKnTbMEVquR) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Pikes](https://open.spotify.com/artist/3iYk1tEjUMPcs5roPxv533) | [Tururu](https://open.spotify.com/album/3wpZyOToBfCtmyb587OeJ9) | 3:30 |
 | 37 | [BAD \- Japanese Ver.](https://open.spotify.com/track/4Yos2vkCfFWYglDtRwvwWe) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BAD \(Japanese Ver.\)](https://open.spotify.com/album/3FVjSZcB5DqJ2TC5VGPgEu) | 2:35 |
 | 38 | [The boys rock you all!](https://open.spotify.com/track/3hySAQppMe3HbELUUA3i5u) | [NEWS](https://open.spotify.com/artist/2Sw8snRnez7gVPNd9UU07o) | [KMK](https://open.spotify.com/album/0gCX0Eobx9vIfRJuTiFCYn) | 2:24 |
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 58 | [VELVET](https://open.spotify.com/track/1K57qXujq8bUOrpBjgv8hx) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [UNIQUE Japan Edition \(Selected Version\)](https://open.spotify.com/album/43eVOiBpyNQRJBerGntSsG) | 2:47 |
 | 59 | [PUNKTUARY](https://open.spotify.com/track/0GFkOdz5OUwEtr3deUuSID) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [PUNKTUARY](https://open.spotify.com/album/5p6xdUceIX8zFZuEWJMG5j) | 5:59 |
 | 60 | [checkered fire](https://open.spotify.com/track/3cOqFwrtzSidNaXWCAUdwv) | [アフロ](https://open.spotify.com/artist/6vPFdn3WdXjtlF9lObD5Hs), [澁谷逆太郎](https://open.spotify.com/artist/4G3DVfpnLESXCd2bxwMi89) | [無職覚醒](https://open.spotify.com/album/25qtj9LWQhdObIwhXFPXOn) | 3:28 |
-| 61 | [百鬼夜行](https://open.spotify.com/track/6Wv6djactnaJ4zG48hBzG5) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [百鬼夜行](https://open.spotify.com/album/6sKvuQAoSaQHsqRmwqxO75) | 2:36 |
+| 61 | [百鬼夜行。](https://open.spotify.com/track/6Wv6djactnaJ4zG48hBzG5) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [百鬼夜行。](https://open.spotify.com/album/6sKvuQAoSaQHsqRmwqxO75) | 2:36 |
 | 62 | [CERAMIC SKIN](https://open.spotify.com/track/4Ik4DOn8tqyZVNpIgQMMbO) | [suisoh](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [CERAMIC SKIN](https://open.spotify.com/album/16OOy72ylgpYApdICqIEPp) | 3:25 |
 | 63 | [someone in the flower](https://open.spotify.com/track/4fJrVB66T2KPbge9KQqT6D) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [someone in the flower](https://open.spotify.com/album/6LYZbTPO2UmpUtMHpV9S5b) | 4:51 |
 | 64 | [八月](https://open.spotify.com/track/7zL7va69I79IYwDGBpGls5) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [eff](https://open.spotify.com/album/3plqZDMNCoqLWkcaRiW94G) | 3:30 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 93 | [Shipp Petaaan \- feat\. マーガレット・カメリア・ヤジマ](https://open.spotify.com/track/7d3SNPAHLa9jOn3LKZ5b4j) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2), [マーガレット・カメリア・ヤジマ](https://open.spotify.com/artist/3jytdREFEIjeI9yn6FKPIz) | [Tottemo Release 80.8 \(12\)](https://open.spotify.com/album/4wv6CzfO6YhEO7soGFiCYE) | 2:17 |
 | 94 | [熱帯放浪漫](https://open.spotify.com/track/43pfFHHii7i0HrPesuWSB1) | [oh!! 真珠s](https://open.spotify.com/artist/5HlgR77xBlgqU9UKXA7XiI) | [熱帯放浪漫](https://open.spotify.com/album/2Xm4HfSOjNRbSneJFJiJdo) | 3:30 |
 
-Snapshot ID: `AAAAAIpCHN2y4/tOjAQIfd/Kpr86tEDb`
+Snapshot ID: `AAAAAGyvDfJ1wREHXtPfNfVwW0qUuhv9`

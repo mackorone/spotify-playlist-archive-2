@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: siso & ALICE U\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,919 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,913 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Stuck in My Head](https://open.spotify.com/track/0oQWm8tjM9RT194in5CMe4) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [In My Head](https://open.spotify.com/album/30ZqZCE8cENooyfKImZUCi) | 2:33 |
 | 50 | [arrrt.](https://open.spotify.com/track/6cwELvkSjzUsZsg2RECEaC) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [arrrt.](https://open.spotify.com/album/63sekW5NE6xlNLj2q3ZB95) | 2:14 |
 
-Snapshot ID: `AAAAAJcmilgPvEXhUimqwKtjQ+5owXxv`
+Snapshot ID: `AAAAAA2sP7XxVQuZIyXpcWpO6MtqLr7X`

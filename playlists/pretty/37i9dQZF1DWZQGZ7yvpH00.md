@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 MXKA en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,448 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,386 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 74 | [MI CUERNO](https://open.spotify.com/track/7uudc322twEMQnJiFL1KNL) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz), [Yng H](https://open.spotify.com/artist/73fECKkmLG1JhM4FeWmOib), [KVYN](https://open.spotify.com/artist/1xznCruZ0AWbDzsPXTX3d6) | [MI CUERNO](https://open.spotify.com/album/21GlXlFLPqtfNaBjQi0gAk) | 3:40 |
 | 75 | [Chanza](https://open.spotify.com/track/3MVcDjWjWVmaxNLfHqcm6G) | [Drian](https://open.spotify.com/artist/5Tr65ixUewa8W6QdHpNJ2K) | [Chanza](https://open.spotify.com/album/0EWBoQ7P3gaM9DKHPkGW9E) | 3:17 |
 
-Snapshot ID: `AAAAAKtROMs4Fx1iwrtTMux/MxCd0Wwd`
+Snapshot ID: `AAAAAFLVJR/PggrwT/BSJVlB6C3bicXy`

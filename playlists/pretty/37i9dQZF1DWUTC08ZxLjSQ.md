@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Veintiuno\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,678 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,679 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 74 | [RASSMA](https://open.spotify.com/track/2BLuMnfGLbLfpyHuWAIwEe) | [AyeLee](https://open.spotify.com/artist/6QwrTKHDZ15WyIBSAoF854) | [APORIA](https://open.spotify.com/album/4q9nP2q2Y816WLbWItT1Qw) | 2:43 |
 | 75 | [Why?](https://open.spotify.com/track/7qFf6SSOAMxcg504aH6B24) | [MARCELINA](https://open.spotify.com/artist/40uwOoRjkCTQY2hlBr0qQi) | [Stargirl](https://open.spotify.com/album/0qmt9MtZFWsxzxh53yxiH7) | 3:45 |
 
-Snapshot ID: `AAAAADoeSKG3NjF/JSccAx0kWZn9o1i/`
+Snapshot ID: `AAAAAMOnnmRAF4cuMgoUS9d8aoVhLQel`

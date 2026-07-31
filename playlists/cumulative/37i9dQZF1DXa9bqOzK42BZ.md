@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-345 songs - 1 day 6 hr 9 min
+346 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Ebenezer](https://open.spotify.com/track/1pUziLzSTQwGR6GZrwH1IQ) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Ebenezer](https://open.spotify.com/album/5V5er9R1BFyn8hmXLVj22M) | 4:28 | 2024-05-03 | 2025-03-21 |
 | [Ebenezer \- Live](https://open.spotify.com/track/0LrmJpJOK9k3Ob0oueMxEv) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [Ebenezer \(Live\)](https://open.spotify.com/album/5Ijn49UMMcX4QETIQEQz1T) | 5:02 | 2024-01-26 |  |
 | [Egemeo](https://open.spotify.com/track/03k9zseKZJ8mu2nTWHuoHQ) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:34 | 2022-06-24 | 2023-04-07 |
+| [Enda](https://open.spotify.com/track/3g4RPFobpRoFLRzmtVu5Az) | [Dr Mbuvi](https://open.spotify.com/artist/5Y1M968gXXstPz4Oz6iB7V) | [Enda](https://open.spotify.com/album/0EU86Gh71F26AL0LCyFMVp) | 3:19 | 2026-07-31 |  |
 | [Faraja ya Moyo](https://open.spotify.com/track/5Lbg6hYmEESv0ijPREbiwl) | [Saint Carlson](https://open.spotify.com/artist/2syF79LbREdIoJlDpBPdJf) | [FARAJA YA MOYO](https://open.spotify.com/album/4R78v8Ol8gX8Zu2pX9ke88) | 4:42 | 2023-07-21 | 2024-11-22 |
 | [For Me](https://open.spotify.com/track/0JuQugiqRPorEn8jQ7cc5W) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [For Me](https://open.spotify.com/album/4fcHzgzwobDMPvshp3U7oR) | 3:48 | 2025-03-28 | 2025-08-09 |
 | [Fugazi](https://open.spotify.com/track/5B3P2y63tqqYkaTEmvhucg) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp) | [Moses Luka](https://open.spotify.com/album/0Bx2I6c8NDDvcsEGMeSJKd) | 2:48 | 2026-04-17 | 2026-06-19 |
@@ -105,7 +106,7 @@
 | [Karibu Yesu](https://open.spotify.com/track/3uih4ZkASbxUJVKrLtlLqD) | [Ambwene Mwasongwe](https://open.spotify.com/artist/3VWdz8uTAUxMqnGDeKWqYH) | [Misuli Ya Imani](https://open.spotify.com/album/6mEMrQ5YWS5Tl3pIXqcPPR) | 6:35 | 2022-06-24 | 2024-07-12 |
 | [Katindili](https://open.spotify.com/track/50196UZ7IWgbUENtSVGMjN) | [Dr Mbuvi](https://open.spotify.com/artist/5Y1M968gXXstPz4Oz6iB7V) | [Katindili](https://open.spotify.com/album/5pi2fEIg41eWH1q5Pj4HzG) | 3:50 | 2025-11-28 | 2026-05-09 |
 | [Kibali](https://open.spotify.com/track/1LFUWtFsGg4izHmMYK25iY) | [Florence Andenyi](https://open.spotify.com/artist/4iHODVO1AjkKbAdZchex8l) | [Kibali](https://open.spotify.com/album/1hyP210aJtyk06NK0rAOa0) | 4:36 | 2022-06-24 | 2023-04-21 |
-| [Kila Kitu Kitakuwa Sawa](https://open.spotify.com/track/1ZQv07GhXuM16IQuJZaGXC) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Kila Kitu Kitakuwa Sawa](https://open.spotify.com/album/7JBip5TLo2wmmslUmyXmw8) | 5:28 | 2026-05-08 |  |
+| [Kila Kitu Kitakuwa Sawa](https://open.spotify.com/track/1ZQv07GhXuM16IQuJZaGXC) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Kila Kitu Kitakuwa Sawa](https://open.spotify.com/album/7JBip5TLo2wmmslUmyXmw8) | 5:28 | 2026-05-08 | 2026-07-31 |
 | [Kimya](https://open.spotify.com/track/6nqH0IFvSpysYdVN5aiTyn) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Kimya](https://open.spotify.com/album/65XUJTpJBKcnNcEKuGcjB8) | 3:39 | 2025-08-29 |  |
 | [Kiriro Drill \- Remix](https://open.spotify.com/track/7qeMkJOTE1yEgJjkuBHfUJ) | [Bigpapamadethis](https://open.spotify.com/artist/4q7Bd5u4jNRVjcRyp833cO) | [Kiriro Drill \(Remix\)](https://open.spotify.com/album/4f5Aubguh5ezrvP8lFeuVq) | 1:53 | 2024-04-19 | 2024-09-06 |
 | [Kiu Yangu](https://open.spotify.com/track/3IPufScGAgzO9Cpm3Erfy4) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Siku Mpya New Day](https://open.spotify.com/album/01mfsN8TvDf2yKzMGL5oVV) | 5:00 | 2022-06-24 | 2023-04-15 |
@@ -178,7 +179,7 @@
 | [Nami Nataka Nikuone](https://open.spotify.com/track/31SuK9LQAlG2z4VnXriZ47) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Nami Nataka Nikuone](https://open.spotify.com/album/2AQ9kOCph0Gw9kfbFENbhq) | 9:28 | 2023-09-08 | 2025-03-28 |
 | [Nampenda Bwana](https://open.spotify.com/track/2Xcr13VQX7RBswpBtO19Xg) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Nampenda Bwana](https://open.spotify.com/album/5pJs0mBsYBmZUTENIQMIx9) | 3:42 | 2026-06-12 |  |
 | [Nangoja](https://open.spotify.com/track/6J5VuHsRitkeGk8jZC5WK0) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU) | [Nangoja](https://open.spotify.com/album/2xFzZjxc6ULZEOv1JPTk9M) | 4:08 | 2024-11-29 |  |
-| [Nani Kama Wewe \- Live](https://open.spotify.com/track/4wmzfhXJUHLrpukA5lNoSB) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Nani Kama Wewe \(Live\)](https://open.spotify.com/album/4RqgouMK4iWcUNFQdeIQTm) | 9:12 | 2025-10-10 |  |
+| [Nani Kama Wewe \- Live](https://open.spotify.com/track/4wmzfhXJUHLrpukA5lNoSB) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Nani Kama Wewe \(Live\)](https://open.spotify.com/album/4RqgouMK4iWcUNFQdeIQTm) | 9:12 | 2025-10-10 | 2026-07-31 |
 | [Naogopa](https://open.spotify.com/track/5sJHsI693oMyfxWu4Uo2kN) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Niko Sawa](https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB) | 4:36 | 2023-03-10 | 2023-06-09 |
 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 | 2023-06-16 |  |
 | [Napepea](https://open.spotify.com/track/2ob9JjI40J4qMWFOHKiPiC) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Napepea](https://open.spotify.com/album/1jWXHiQEp87jhJsiofEu1b) | 4:19 | 2024-05-03 | 2024-11-22 |
@@ -270,7 +271,7 @@
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |
 | [Sikiliza](https://open.spotify.com/track/4UxKRFNRxmjMZ6kFrcUUNS) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Sikiliza](https://open.spotify.com/album/56nRuFA8ngZ3mDIFyRt0FS) | 11:28 | 2024-09-20 |  |
 | [Sina](https://open.spotify.com/track/4MCpezgY7YBrYRIVSbXNdk) | [Dan Mogore](https://open.spotify.com/artist/1kXWa1Sm47CnIF75qJPMlb), [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Sina](https://open.spotify.com/album/6jHthNnOMILdIeuYOLKklG) | 3:25 | 2026-07-03 |  |
-| [Sing Hallelujah](https://open.spotify.com/track/6laQTk4NLBBAPjP6Lyba2N) | [Lovern Music](https://open.spotify.com/artist/67YTFMApjFgqL8DDMp4cVg) | [Nguvu ya Imani](https://open.spotify.com/album/4L3fq2Ug30EOBywc0ZMg9o) | 2:38 | 2026-01-09 |  |
+| [Sing Hallelujah](https://open.spotify.com/track/6laQTk4NLBBAPjP6Lyba2N) | [Lovern Music](https://open.spotify.com/artist/67YTFMApjFgqL8DDMp4cVg) | [Nguvu ya Imani](https://open.spotify.com/album/4L3fq2Ug30EOBywc0ZMg9o) | 2:38 | 2026-01-09 | 2026-07-31 |
 | [Sisi Ndio Wale](https://open.spotify.com/track/7GtbWZzckE9diKrKYSQ4Gi) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Sisi Ndio Wale](https://open.spotify.com/album/5DyJwA7sacoreQVSlDaBYo) | 4:23 | 2023-11-10 | 2023-11-25 |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2023-10-13 |  |
 | [Sisi Ni Wale \(feat\. Freshow Band\) \- choir Version](https://open.spotify.com/track/6P9iYKJSKPJVFnBH1BAVWO) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Freshow Band](https://open.spotify.com/artist/4fhqxcc0V8TX4kAo1DEamA) | [Sisi Ni Wale \(feat\. Freshow Band\) \[choir Version\]](https://open.spotify.com/album/6IqGrFxiBkjLnalaa6oKc4) | 2:32 | 2023-12-15 | 2025-09-12 |

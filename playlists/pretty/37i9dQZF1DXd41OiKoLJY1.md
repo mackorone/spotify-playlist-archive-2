@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: \[Ian Penn\]\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,058 likes - 63 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,062 likes - 63 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 62 | [This Isn't Who I Am](https://open.spotify.com/track/1byJJ23tG6pB2UaS3j5sXP) | [Rafi](https://open.spotify.com/artist/7wWWnyjBVXSwvTrXAuURtl) | [This Isn't Who I Am](https://open.spotify.com/album/1Zc3m1LUqJQVor3nlyPVpt) | 3:20 |
 | 63 | [Sirena](https://open.spotify.com/track/67qAhfMTVMO9KitHgwNOjV) | [Dayea](https://open.spotify.com/artist/1P5IXXoHQpjaKrUXB0PNdO), [Princess Ybanez](https://open.spotify.com/artist/14PkFb4hTsrzjKsl5UiZsB) | [Sirena](https://open.spotify.com/album/3iIlDMnRnyNWSvl5RoKDV5) | 4:12 |
 
-Snapshot ID: `AAAAALYAlxy4hBOO2T9jQFfyl3QgMcfA`
+Snapshot ID: `AAAAAO0pExfInoAf1+S6WQ4Wf4+WyWyD`

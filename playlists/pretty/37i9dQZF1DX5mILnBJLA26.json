@@ -1,15 +1,63 @@
 {
-  "description": "The biggest Amapiano singles making waves right now.  Cover: Xduppy",
-  "num_followers": 1251244,
+  "description": "The biggest Amapiano singles making waves right now.  Cover: Kabza De Small",
+  "num_followers": 1251657,
   "original_name": "AMAPIANO GROOVES",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHCzw7cX3036xgYUsJFoReAwgsGh",
+  "snapshot_id": "AAAAAM6Q01H0EdJiF0Y+a3inCwC2HgmL",
   "tracks": [
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
+      "album": {
+        "name": "Wait Jackalas",
+        "url": "https://open.spotify.com/album/70DVw68NJlapyNM7izjP7A"
+      },
+      "artists": [
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        }
+      ],
+      "duration_ms": 305840,
+      "name": "Wait Jackalas",
+      "url": "https://open.spotify.com/track/0mA2hdtduVTQuoMDQlBwr6"
+    },
+    {
+      "added_at": "2026-07-30 22:01:49",
+      "album": {
+        "name": "Ifa Lami",
+        "url": "https://open.spotify.com/album/4V3Dpnuzon8YyjdOxFLtWB"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        },
+        {
+          "name": "Anzo",
+          "url": "https://open.spotify.com/artist/17hUKyhHJ29kKUdyOzax7a"
+        },
+        {
+          "name": "Tshego AMG",
+          "url": "https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF"
+        }
+      ],
+      "duration_ms": 259214,
+      "name": "Ifa Lami (feat. Anzo & Tshego AMG)",
+      "url": "https://open.spotify.com/track/6pg5DVfkeaRM2TS3pNKx2Z"
+    },
+    {
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "HEY YOU SI-BU-SI-SO (feat. Myztro, Debow Taliana & Mr Pilato)",
         "url": "https://open.spotify.com/album/0uWKbEpQmrLH3KrRm0uL8w"
@@ -49,27 +97,31 @@
       "url": "https://open.spotify.com/track/1Pycs86BVgLeYT9utmclDz"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
-        "name": "Wait Jackalas",
-        "url": "https://open.spotify.com/album/70DVw68NJlapyNM7izjP7A"
+        "name": "Sasingenjena",
+        "url": "https://open.spotify.com/album/6tieg1jr1NiknHbJCwGDhN"
       },
       "artists": [
         {
-          "name": "Xduppy",
-          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+          "name": "De Mthuda",
+          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
         },
         {
-          "name": "Optimist Music ZA",
-          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+          "name": "Mnqobi Yazo",
+          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
         }
       ],
-      "duration_ms": 305840,
-      "name": "Wait Jackalas",
-      "url": "https://open.spotify.com/track/0mA2hdtduVTQuoMDQlBwr6"
+      "duration_ms": 397607,
+      "name": "Sasingenjena",
+      "url": "https://open.spotify.com/track/4uAnjk3FYvtPxDD1gOkcvw"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Simi Kanje (feat. Focalistic & Mas Musiq)",
         "url": "https://open.spotify.com/album/1qIf7lGtybdN6RIpNaVFqd"
@@ -93,7 +145,7 @@
       "url": "https://open.spotify.com/track/0CpcIsOj97GACTtuOeAwca"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "iKhekhe (feat. Shoes Meister & DoouShii)",
         "url": "https://open.spotify.com/album/4pOrysqR9RxHfkMjHGG94F"
@@ -129,7 +181,7 @@
       "url": "https://open.spotify.com/track/4vYrQCj5zAFIwGEIIvd6zT"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Drip Check",
         "url": "https://open.spotify.com/album/30WnYyAGVJ1O4qwvxOqaXa"
@@ -169,7 +221,7 @@
       "url": "https://open.spotify.com/track/6s6kro07wntHV0DmnNUeUq"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Ngena Ngena",
         "url": "https://open.spotify.com/album/6E6QPGYemNnTDI63EZJIIo"
@@ -197,7 +249,7 @@
       "url": "https://open.spotify.com/track/1Qmn279d2m5DYYKNgdUm6E"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Deepla Sauce",
         "url": "https://open.spotify.com/album/1xa0IUeCjedFwBXVQX2iwS"
@@ -225,7 +277,7 @@
       "url": "https://open.spotify.com/track/04JXmin6bZfNtporfywMm4"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Straata",
         "url": "https://open.spotify.com/album/0AgS2PBZhyGYy0V1IoelIK"
@@ -257,7 +309,7 @@
       "url": "https://open.spotify.com/track/1cm7fPLAmPqI0zNimGbgbG"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Lwetse (feat. DJ Maphorisa & Mluusician)",
         "url": "https://open.spotify.com/album/7rSH7ZzgEAxgF7ZplAPPFY"
@@ -285,7 +337,7 @@
       "url": "https://open.spotify.com/track/5WyMVQuP2iraAdx2mmaruG"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Izospana",
         "url": "https://open.spotify.com/album/0q1wT5RppGdp8EnhASquBO"
@@ -313,7 +365,7 @@
       "url": "https://open.spotify.com/track/694FZu9aEHlemrIoZXIfFw"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Setlle'a Score",
         "url": "https://open.spotify.com/album/3wljHwVtkp6HWBBGzVaF9Q"
@@ -341,7 +393,7 @@
       "url": "https://open.spotify.com/track/02CsrLOzQihoMmwc9pcDAF"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Macashelana (feat. Twinnie Gee & KheKhe)",
         "url": "https://open.spotify.com/album/6nVv6JLwrnNsBTRPRzElRW"
@@ -373,7 +425,7 @@
       "url": "https://open.spotify.com/track/5mMpbWjwoaXucsGMeMpbKu"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "4 DA STREETS!",
         "url": "https://open.spotify.com/album/4Y6rxIiHADMtNmwktnvoNK"
@@ -409,7 +461,7 @@
       "url": "https://open.spotify.com/track/6KzgjB89iCQm8Gl4Pak6GZ"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Ex Yakho",
         "url": "https://open.spotify.com/album/3798wje6mNMP1XebX5CDpP"
@@ -433,7 +485,7 @@
       "url": "https://open.spotify.com/track/4eWDXOfPJ3IsGpODdbDdmc"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "iKati Elimhlophe",
         "url": "https://open.spotify.com/album/1LcskaHMVjytf4BWPxX6z0"
@@ -469,7 +521,7 @@
       "url": "https://open.spotify.com/track/43j0OV031nBQwyugAVjzVx"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Fast Fast (feat. Roscosteazy, Optimist Music ZA & JussGigi)",
         "url": "https://open.spotify.com/album/136L7ESLmk1MiWPDmFaKOS"
@@ -505,7 +557,7 @@
       "url": "https://open.spotify.com/track/4djmPQfj9hWl2mnUSApYSU"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Mopepe",
         "url": "https://open.spotify.com/album/69Bc4MJZDbLebKG7KvYqwt"
@@ -529,7 +581,7 @@
       "url": "https://open.spotify.com/track/2hMZXSgTxcuUwilbh9Kn5x"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "ZEP (feat. Uncool MC)",
         "url": "https://open.spotify.com/album/6hmdlLccKNe9ORX8ZhXO39"
@@ -557,7 +609,7 @@
       "url": "https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "HOME",
         "url": "https://open.spotify.com/album/0QKCBbeGsaePyTkeBGaKBu"
@@ -589,7 +641,7 @@
       "url": "https://open.spotify.com/track/1TvASrpCeLPWFV9PhZgmfP"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Ithuba (feat. Q Bonke)",
         "url": "https://open.spotify.com/album/22zWM1oZqDoO6Di8JU06kE"
@@ -617,7 +669,7 @@
       "url": "https://open.spotify.com/track/6jtXifD0ge6Kl7r6n0Jaen"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "NGEKE (feat. Scotts Maphuma)",
         "url": "https://open.spotify.com/album/7A80PqJPyj1xBt3l4iLQb0"
@@ -649,7 +701,7 @@
       "url": "https://open.spotify.com/track/6Rr4HJll7Yckt0sGDokse9"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "AmaRider",
         "url": "https://open.spotify.com/album/6swCK9UtZeTTl96vYWp5Td"
@@ -673,7 +725,7 @@
       "url": "https://open.spotify.com/track/1eXAX85fhHNygLTnnA49Dp"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Head Movement",
         "url": "https://open.spotify.com/album/2CAaiiJPmKVDpcPrgN3cXy"
@@ -693,7 +745,7 @@
       "url": "https://open.spotify.com/track/1uJXJdzBwA6Tx8WWi8ngBO"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Macala",
         "url": "https://open.spotify.com/album/69M9DFx8dITCjSYZAkKyQb"
@@ -721,7 +773,7 @@
       "url": "https://open.spotify.com/track/21kmOn1UCTk1QT4W0gy8MP"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "BAKA AMAKHEKHE (feat. Loony Q, Mdeshkayro & Choppa.Kvy)",
         "url": "https://open.spotify.com/album/5qWWkAdb9IWT0ZFq5z47VJ"
@@ -757,7 +809,7 @@
       "url": "https://open.spotify.com/track/6Lj3arvNZL4GkcVOYVwQaD"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Mzala (feat. Tango Supreme)",
         "url": "https://open.spotify.com/album/4qcQsHhLCuP2kxiE9SjrpH"
@@ -781,7 +833,7 @@
       "url": "https://open.spotify.com/track/5DED4GtVG1JoOjHsSlHnqR"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Kiss",
         "url": "https://open.spotify.com/album/1D00ZUPVZbeWFFS9hmwgcs"
@@ -837,7 +889,7 @@
       "url": "https://open.spotify.com/track/06CUrj3TF6x7N8uCgqlOT2"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "SNOKONOKO",
         "url": "https://open.spotify.com/album/2ZoXRaK0N0KUTGH6L23CBp"
@@ -861,7 +913,7 @@
       "url": "https://open.spotify.com/track/1F6HMPZd1izYjwGoFsh7Ny"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Khanya Njalo",
         "url": "https://open.spotify.com/album/5jmUhicDMhaeYIacw2NpQf"
@@ -881,7 +933,7 @@
       "url": "https://open.spotify.com/track/6cOCBVXd40NIaEMKYnj1ry"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/0aCFxXlFzAm9dLtx5IFuYE"
@@ -909,7 +961,7 @@
       "url": "https://open.spotify.com/track/3UpOAGqJltveyi8DQYr0WI"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Wololo",
         "url": "https://open.spotify.com/album/0NjtfpTiB7SHpHlBapDHU3"
@@ -941,7 +993,7 @@
       "url": "https://open.spotify.com/track/53ofZtLKRJZUT6KpviQsHX"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Bang'bonile (feat. Djy Vino, Mbuzi & Seun1401)",
         "url": "https://open.spotify.com/album/1jonCAw26DqFT1Kj8cnBSw"
@@ -981,7 +1033,7 @@
       "url": "https://open.spotify.com/track/5M1kWifN6OsUf26l41jx35"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "AmaCorrection",
         "url": "https://open.spotify.com/album/7kY5pK1CnS1PcbfbjgeLya"
@@ -1005,7 +1057,7 @@
       "url": "https://open.spotify.com/track/48C31KnJb4S5fm9R1bX7O6"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Fada Xmas Akekho (feat. Al Xapo & Optimist Music ZA)",
         "url": "https://open.spotify.com/album/1Jb6o4jwiEZnBew57ApJwP"
@@ -1037,7 +1089,7 @@
       "url": "https://open.spotify.com/track/0dtwZyP1U4oyUcktOPmTjX"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Ke WAV (feat. Djy Vino & Xduppy)",
         "url": "https://open.spotify.com/album/6Ludq3vTDLQG9A2VNlRUrB"
@@ -1061,7 +1113,7 @@
       "url": "https://open.spotify.com/track/785aLiQeHqEn5wLSugTORj"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Malacosta (feat. Vulela Maweekend, Mark Khoza & Angekebabuye Mc)",
         "url": "https://open.spotify.com/album/1qGbT3C5mFG61uJomGtGRq"
@@ -1097,7 +1149,7 @@
       "url": "https://open.spotify.com/track/694QCbEzK5oLIu9PoTcuUA"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Ke Wave",
         "url": "https://open.spotify.com/album/4Zzcjew6lw258v6TJ8JbhW"
@@ -1121,7 +1173,7 @@
       "url": "https://open.spotify.com/track/6LZMirithOe1j0ICpsnlV0"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Ngibolekeni (feat. Seun1401, LeeMcKrazy, Blxckie, Pcee, Madumane & Kabelo Sings)",
         "url": "https://open.spotify.com/album/3AXBbWsHeukq7B3ojJbfI0"
@@ -1169,7 +1221,7 @@
       "url": "https://open.spotify.com/track/4QdFYz1hjkDVDTqAKmIdOx"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Nomoro 2 (Dlala) [feat. LeeMcKrazy & Tango Supreme]",
         "url": "https://open.spotify.com/album/4oEWCVeVZCiECfk8W81NGE"
@@ -1201,7 +1253,7 @@
       "url": "https://open.spotify.com/track/0y3GnbUHPswzyP2082i8Qt"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/0aCFxXlFzAm9dLtx5IFuYE"
@@ -1221,7 +1273,7 @@
       "url": "https://open.spotify.com/track/5z6nmZGMQoQGlrB8RhJ5s5"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Amanxeba",
         "url": "https://open.spotify.com/album/3A3JFmEMkrIpKUGubH4KJH"
@@ -1241,7 +1293,7 @@
       "url": "https://open.spotify.com/track/1Cy9Zxtx0h8BrqfNrYr3nY"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Sgubulopo",
         "url": "https://open.spotify.com/album/56F4Vi65igdhekYJjDpnVU"
@@ -1269,7 +1321,7 @@
       "url": "https://open.spotify.com/track/4xvHVXacf0QZiYVIz4MYY8"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Bhampa",
         "url": "https://open.spotify.com/album/66O7J1XvlMjXYgVQQJZJ23"
@@ -1293,7 +1345,7 @@
       "url": "https://open.spotify.com/track/1WNbXkIVNxBM8wEeZnHcun"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "4 Da Ho's",
         "url": "https://open.spotify.com/album/5Pk03zQ4TZY7s72qtMX0HR"
@@ -1325,7 +1377,7 @@
       "url": "https://open.spotify.com/track/4foPE26gCg9uNJKTV8Mi4C"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "On The Floor",
         "url": "https://open.spotify.com/album/1ppE43KggdTvjV1qXrMz8W"
@@ -1345,7 +1397,7 @@
       "url": "https://open.spotify.com/track/2nlPxAYSF1L4Xqa5LUcifb"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Jab Jab",
         "url": "https://open.spotify.com/album/0ghSM7BkMCdJqEAqeIrFpX"
@@ -1381,7 +1433,7 @@
       "url": "https://open.spotify.com/track/5nahqGVMk4iOAwDj7rFu4o"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "Piato (Chapter 1)",
         "url": "https://open.spotify.com/album/321RhSmIYhwQf72S6LbC7G"
@@ -1413,7 +1465,7 @@
       "url": "https://open.spotify.com/track/3ZHUBiVvwPvSeCOBQ9ttah"
     },
     {
-      "added_at": "2026-07-23 22:01:17",
+      "added_at": "2026-07-30 22:01:49",
       "album": {
         "name": "THE GODMOTHER",
         "url": "https://open.spotify.com/album/18CRe8T4QPusNzyq9vlqB0"
@@ -1439,62 +1491,6 @@
       "duration_ms": 416283,
       "name": "DLALA GOGO",
       "url": "https://open.spotify.com/track/2WY9va9TJG2BV42hRmlqew"
-    },
-    {
-      "added_at": "2026-07-23 22:01:17",
-      "album": {
-        "name": "SOUTH GIDI",
-        "url": "https://open.spotify.com/album/5hgdQMsPGxPnhZrAMi1IUQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 375535,
-      "name": "MONEY CONSTANT",
-      "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
-    },
-    {
-      "added_at": "2026-07-23 22:01:17",
-      "album": {
-        "name": "Onkgopotse",
-        "url": "https://open.spotify.com/album/1NSZ619pGHYfsgbB2kBfF8"
-      },
-      "artists": [
-        {
-          "name": "Dj Jaivane",
-          "url": "https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl"
-        },
-        {
-          "name": "Smaki 08",
-          "url": "https://open.spotify.com/artist/3UWe7UnbC6ZfUxJ6AoqBkQ"
-        },
-        {
-          "name": "Wesley Keys",
-          "url": "https://open.spotify.com/artist/2OGYdhAxnbigwUW9Be2b6C"
-        },
-        {
-          "name": "De Rose",
-          "url": "https://open.spotify.com/artist/37O5tzWTGqsppdwaIskInL"
-        }
-      ],
-      "duration_ms": 395493,
-      "name": "Lutho (feat. De Rose)",
-      "url": "https://open.spotify.com/track/54gOExDYI4WmDlwQaygLDp"
     }
   ],
   "unique_name": "AMAPIANO GROOVES",

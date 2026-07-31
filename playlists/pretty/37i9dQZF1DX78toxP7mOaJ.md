@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Deux Visages
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,040 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,074 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [Wasted Tonight](https://open.spotify.com/track/7JaXJWPO9nVTkscVcqINkk) | [Slippers](https://open.spotify.com/artist/7t68xnqaf930ug2CgHp3BM) | [Wasted Tonight](https://open.spotify.com/album/1jNhZfZpj37L6rXBq3aZiq) | 2:12 |
 | 75 | [Good Enough](https://open.spotify.com/track/1B1By24uRkI2EH3UNrcBK8) | [Ultra Lights](https://open.spotify.com/artist/6T7xnpZAOPf4XwrYZclzTA) | [Good Enough](https://open.spotify.com/album/1V3sZlCa2uP1npYlh83fLJ) | 2:07 |
 
-Snapshot ID: `AAAAAEX/boewttLF793UZgFpnu3DMtf4`
+Snapshot ID: `AAAAAPYfDL3fvnePc2VcjiQ/g1Er0CaZ`

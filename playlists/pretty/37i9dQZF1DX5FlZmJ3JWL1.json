@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 772656,
+  "num_followers": 772645,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFEP1ibz/g2v5nke2/IjCpv9S2TE",
+  "snapshot_id": "AAAAAG83uhfcB9CluMvTRR1aAl72E29a",
   "tracks": [
     {
       "added_at": "2026-07-27 14:54:52",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-07-27 14:54:52",
       "album": {
-        "name": "Crusade",
-        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Crusade - Club Edit",
-      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
-    },
-    {
-      "added_at": "2026-07-27 14:54:52",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 175327,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
+    },
+    {
+      "added_at": "2026-07-27 14:54:52",
+      "album": {
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Crusade - Club Edit",
+      "url": "https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo"
     },
     {
       "added_at": "2026-07-27 14:54:52",
@@ -807,22 +807,26 @@
     {
       "added_at": "2026-07-27 14:54:52",
       "album": {
-        "name": "Ex's & Oh's",
-        "url": "https://open.spotify.com/album/2YFHbRlQNfc4uOfNTxqtyR"
+        "name": "Freak (Tricky Disco)",
+        "url": "https://open.spotify.com/album/0HJh7Y7CtV8N9fnsT3gWWu"
       },
       "artists": [
         {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
         },
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+          "name": "TRIIIPL3 INC.",
+          "url": "https://open.spotify.com/artist/1m91WjQ6nEC5k3F1HC51sP"
+        },
+        {
+          "name": "Discotronic",
+          "url": "https://open.spotify.com/artist/4zboeZtcUwsTEhl2YDCLr4"
         }
       ],
-      "duration_ms": 123504,
-      "name": "Ex's & Oh's",
-      "url": "https://open.spotify.com/track/2hqYXrqzmYWhQQH9wvccdT"
+      "duration_ms": 120836,
+      "name": "Freak (Tricky Disco)",
+      "url": "https://open.spotify.com/track/6955Aq4HnJ6dP3jvcptwCM"
     },
     {
       "added_at": "2026-07-27 14:54:52",
@@ -847,26 +851,22 @@
     {
       "added_at": "2026-07-27 14:54:52",
       "album": {
-        "name": "Freak (Tricky Disco)",
-        "url": "https://open.spotify.com/album/0HJh7Y7CtV8N9fnsT3gWWu"
+        "name": "Ex's & Oh's",
+        "url": "https://open.spotify.com/album/2YFHbRlQNfc4uOfNTxqtyR"
       },
       "artists": [
         {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
         },
         {
-          "name": "TRIIIPL3 INC.",
-          "url": "https://open.spotify.com/artist/1m91WjQ6nEC5k3F1HC51sP"
-        },
-        {
-          "name": "Discotronic",
-          "url": "https://open.spotify.com/artist/4zboeZtcUwsTEhl2YDCLr4"
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
         }
       ],
-      "duration_ms": 120836,
-      "name": "Freak (Tricky Disco)",
-      "url": "https://open.spotify.com/track/6955Aq4HnJ6dP3jvcptwCM"
+      "duration_ms": 123504,
+      "name": "Ex's & Oh's",
+      "url": "https://open.spotify.com/track/2hqYXrqzmYWhQQH9wvccdT"
     },
     {
       "added_at": "2026-07-27 14:54:52",
@@ -895,26 +895,6 @@
     {
       "added_at": "2026-07-27 14:54:52",
       "album": {
-        "name": "ODYSSEY",
-        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Don't Want Your Love",
-      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
-    },
-    {
-      "added_at": "2026-07-27 14:54:52",
-      "album": {
         "name": "It's My Life (Techno Remix)",
         "url": "https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 174545,
       "name": "It's My Life - Techno Remix",
       "url": "https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq"
+    },
+    {
+      "added_at": "2026-07-27 14:54:52",
+      "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Don't Want Your Love",
+      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
     },
     {
       "added_at": "2026-07-27 14:54:52",
@@ -955,26 +955,6 @@
     {
       "added_at": "2026-07-27 14:54:52",
       "album": {
-        "name": "Around The World",
-        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
-      },
-      "artists": [
-        {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "Ren\u00e9 Miller",
-          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
-        }
-      ],
-      "duration_ms": 140986,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
-    },
-    {
-      "added_at": "2026-07-27 14:54:52",
-      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 184938,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
+    },
+    {
+      "added_at": "2026-07-27 14:54:52",
+      "album": {
+        "name": "Around The World",
+        "url": "https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf"
+      },
+      "artists": [
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "Ren\u00e9 Miller",
+          "url": "https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps"
+        }
+      ],
+      "duration_ms": 140986,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs"
     },
     {
       "added_at": "2026-07-27 14:54:52",

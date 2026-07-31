@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,591 likes - 30 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,722 likes - 30 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [Looking For Change](https://open.spotify.com/track/0WViv2bn3fZndMTXhpfOWS) | [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [ZIDDO](https://open.spotify.com/artist/4XE8kpT8vOyemOlkfzPJnc) | [Looking For Change](https://open.spotify.com/album/0XMs3LmBLPsOwuQAod46C5) | 3:00 |
 | 30 | [Sunset In Pretoria](https://open.spotify.com/track/03vLVYmqX7k3gKm3kOQIai) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Demayä](https://open.spotify.com/artist/0N2lDV24IPsStAeDuvzgC9) | [Sunset In Pretoria](https://open.spotify.com/album/0rFijquyRXf1e6SmsBinmD) | 3:58 |
 
-Snapshot ID: `AAAAAHXms96Mqf+2vZD8zmxtarWIZ2S7`
+Snapshot ID: `AAAAAIkyi4qSHbmeVPTnOVUwU/xGBZx2`

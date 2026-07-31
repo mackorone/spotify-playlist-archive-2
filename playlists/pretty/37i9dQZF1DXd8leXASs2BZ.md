@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Fisong
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,610 likes - 99 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,614 likes - 99 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 98 | [Rosario](https://open.spotify.com/track/0EwKcfLwImdDYbFuUs63su) | [agul](https://open.spotify.com/artist/6hAkSs8eKFhn94XnqSOQRu) | [Rosario / TEL](https://open.spotify.com/album/1a5XVlaZ2U3SLVWWzJe8u5) | 1:56 |
 | 99 | [Movin’ Fools \-Ready To Move\-](https://open.spotify.com/track/6fAdgiV7xvikBoADcnSH1m) | [SOKI](https://open.spotify.com/artist/7uznCkS1C5NLCCAg2kKDjL) | [Movin’ Fools \-Ready To Move\-](https://open.spotify.com/album/4Jw6h4yFAFkeEm7dddJLsy) | 1:33 |
 
-Snapshot ID: `AAAAAKQJ5CDuo+y6aNXp2jJ69C/xWrlS`
+Snapshot ID: `AAAAADR9CnEJveTgABCd5qPz1RmjtFl+`

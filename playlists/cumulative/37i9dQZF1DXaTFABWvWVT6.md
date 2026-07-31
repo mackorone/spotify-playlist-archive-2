@@ -4,7 +4,7 @@
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-333 songs - 18 hr 51 min
+334 songs - 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Face 2 Face](https://open.spotify.com/track/4V3EtdgvklTDTMBuGveFGS) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392) | [Face 2 Face](https://open.spotify.com/album/1Hb12RMgFSsYtdhw4bqc97) | 3:41 | 2026-07-23 |  |
 | [Face In The Crowd](https://open.spotify.com/track/26u8BxcbNNRlbreUeIwXnP) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Face In The Crowd](https://open.spotify.com/album/0rWcieRCNFaKJFC7M8UVTH) | 3:04 | 2023-05-19 | 2023-10-06 |
 | [Famax \- Franky Rizardo Remix](https://open.spotify.com/track/2Oocj7yGn2oAKhh3Bg6RD2) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Famax \(Franky Rizardo Remix\)](https://open.spotify.com/album/1Zw8fGD6Ba9SNR5CeTCA6G) | 3:31 | 2024-09-19 | 2025-05-17 |
-| [Feel The Funk](https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [The Funk EP](https://open.spotify.com/album/7oxFce5DqOA58Ycj9YAWaH) | 3:26 | 2026-05-22 |  |
+| [Feel The Funk](https://open.spotify.com/track/2fWyCaf8OQViWejIesNwPE) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [The Funk EP](https://open.spotify.com/album/7oxFce5DqOA58Ycj9YAWaH) | 3:26 | 2026-05-22 | 2026-07-31 |
 | [Feel This Way](https://open.spotify.com/track/2libVw5xnVwelZ69K47bDz) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Feel This Way](https://open.spotify.com/album/0BVGCcx3DWdTu1ComULh5k) | 3:04 | 2026-05-01 |  |
 | [Feeling For You \- Fcukers & Junior Sanchez Remix](https://open.spotify.com/track/2SpViBCYQMXwS6OrTTWG3u) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Feeling For You \(Fcukers & Junior Sanchez Remix\)](https://open.spotify.com/album/7t9tDtV33PmsISIR0ymsaD) | 3:48 | 2026-07-23 |  |
 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 | 2023-10-06 | 2024-05-25 |
@@ -307,6 +307,7 @@
 | [Too Late Now \- Soulwax Remix](https://open.spotify.com/track/4RzRXCxmChDMDnRqDT5vht) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Too Late Now \(Soulwax Remix\)](https://open.spotify.com/album/2OL8oXNROS05Mrm6QRhC8w) | 6:38 | 2022-07-18 | 2023-05-20 |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/5RuROg27RZTvqixblmzYG5) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [USB](https://open.spotify.com/album/6CNWkUVb8kLkM3B464RMTx) | 4:27 | 2025-05-16 | 2025-07-31 |
 | [TWOSTEP](https://open.spotify.com/track/1Gm9mRYaqU7VpJBsZsWbgQ) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [TWOSTEP](https://open.spotify.com/album/0OEb0RiJNNvmldvwXoCJWT) | 3:12 | 2025-05-22 |  |
+| [U GO](https://open.spotify.com/track/3fxwGx5gP8xR2YdMR9ePqd) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [U GO](https://open.spotify.com/album/3K9b2zvugYV840uhMNLd3W) | 3:50 | 2026-07-23 |  |
 | [U KNOW](https://open.spotify.com/track/2zD75uKSkgolgsBO2psrXE) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [U KNOW](https://open.spotify.com/album/2Vmyoa5jGWkEifaI3zsKOB) | 3:42 | 2026-07-23 |  |
 | [Under The Sun](https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Under The Sun](https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z) | 3:28 | 2022-07-18 | 2023-05-20 |
 | [Up Down Round](https://open.spotify.com/track/4PtRhiFwkXQnMHmoKrgY5K) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Up Down Round](https://open.spotify.com/album/4oRSw9pKQWJyUo3Du2Dbog) | 2:24 | 2024-04-05 | 2024-08-03 |

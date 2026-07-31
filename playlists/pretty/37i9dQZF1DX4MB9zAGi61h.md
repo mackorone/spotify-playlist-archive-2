@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 
 > Close Mic, Muted Strings, Loud Hammers
 
-[Spotify](https://open.spotify.com/user/spotify) - 162 likes - 65 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 203 likes - 65 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 | 64 | [Timing](https://open.spotify.com/track/3FprG4ou1vtAdvQO2ZeiLr) | [Affinity88](https://open.spotify.com/artist/1TtjuHoQlVdbpNsyR6S8bw) | [Timing](https://open.spotify.com/album/7dWIQZAvUFp0VCVdsIyzOr) | 2:10 |
 | 65 | [Beyond The Mist](https://open.spotify.com/track/1BbMa127Sb16ts9KpqUWKF) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Beyond The Mist](https://open.spotify.com/album/1a0PezFzlD8Xz4p0BZr5sq) | 3:07 |
 
-Snapshot ID: `AAAAANwJslKgOPWyTgb5nk/SPrL9bD99`
+Snapshot ID: `AAAAAAJM5GhOPD59yGN7eYe86shcTT8y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,275 songs - 3 day 6 hr 41 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,277 songs - 3 day 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1283,5 +1283,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1273 | [nice shoes / in your world](https://open.spotify.com/track/3HiQJBnNtDkugJdUasvFl9) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 9:03 |
 | 1274 | [doom](https://open.spotify.com/track/3kKPZFQse4LtbnMRhnAlEO) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 4:52 |
 | 1275 | [Hell of a time](https://open.spotify.com/track/1mNyD4FwFJGIAxnnDpTBtp) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Hell of a time](https://open.spotify.com/album/5rfkiovkHkwCnIZ7q3GTkF) | 3:43 |
+| 1276 | [oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:50 |
+| 1277 | [Drunk lullaby](https://open.spotify.com/track/3Au7vtaP1SxHi2OfGSCGnW) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [Nowhere EP](https://open.spotify.com/album/0qIP58YoRrNXLq25L4DRau) | 3:07 |
 
-Snapshot ID: `AAAKAG9Fri5n6n6VN01316soZsTNxF98`
+Snapshot ID: `AAAKAr0CRrdBL9VviG+mgl96fK4uTn8g`

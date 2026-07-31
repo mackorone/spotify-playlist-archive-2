@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,537 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,554 likes - 75 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 4 | [Kaafi Hai Na \- Unplugged](https://open.spotify.com/track/50RMvku2RcxXyycpTNGvhE) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Musafir Cafe \- Unplugged \(Songs from the Netflix Series\)](https://open.spotify.com/album/4ZEH5RT3u40ypHY9zooszc) | 3:14 |
 | 5 | [KASAM SE](https://open.spotify.com/track/7LPYs6zhi4y5p7y386F0fp) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [sudan](https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME) | [KASAM SE](https://open.spotify.com/album/6lEHne5aH2KKcRWGBke24W) | 4:03 |
 | 6 | [52 Bahane](https://open.spotify.com/track/0k283RGI7J8o0FS5rJ20rv) | [MYNK](https://open.spotify.com/artist/1vpBI2qjRp4GXz6s24fIsY) | [52 Bahane](https://open.spotify.com/album/41hXC7pNwnO4xIwBm0qTWL) | 3:34 |
-| 7 | [Cinema Chowk](https://open.spotify.com/track/5fiziC9GdXwuZuuqCWUiyT) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Uns](https://open.spotify.com/album/6XOHRTbmpbKACTCH0bNATo) | 5:49 |
+| 7 | [Bechare](https://open.spotify.com/track/5Ww0iPWoGzntdelRBgv8VI) | [Tobom Darang](https://open.spotify.com/artist/6QqmpwSfTY9ogEa5aJZUkj) | [Bechare](https://open.spotify.com/album/6xJ6RiiflqICv3XdkkEGzt) | 3:45 |
 | 8 | [Husn](https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Husn](https://open.spotify.com/album/2SarxpD48O1DOiDIccyZ0W) | 3:37 |
 | 9 | [Paro \- 2am Version](https://open.spotify.com/track/5mfiLyAEx8OKwb9L7LY27T) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Paro \(2am version\)](https://open.spotify.com/album/4H6MYuBqTjDI026g3FftS4) | 1:28 |
 | 10 | [Nindiya](https://open.spotify.com/track/6Zr12i0fWk3HvhDH3NS2jn) | [Kunal Kemmu](https://open.spotify.com/artist/0YHAEByvvpuptet6AuZaTz) | [Nindiya](https://open.spotify.com/album/5YuGJTZ2KkATuFPkcOg951) | 2:43 |
-| 11 | [Chal baat kar lete hai](https://open.spotify.com/track/6gfeuIrI4dQgqlcmtSADkP) | [Karan Oberoi](https://open.spotify.com/artist/3dyxXXHqtM7VHqO4gqpeCl) | [Qaifiyat](https://open.spotify.com/album/5EvrrkX22fvHoDwkCY7ifM) | 3:18 |
-| 12 | [You Are My Sunshine](https://open.spotify.com/track/2uJK3UAq5qT6VjCOXSkwin) | [Himanshu Pareek](https://open.spotify.com/artist/0J6jTSteCba4UiHRRSqPC2) | [You Are My Sunshine](https://open.spotify.com/album/09liKG2Bfiv51BmB59eV9i) | 3:15 |
-| 13 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
-| 14 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:04 |
-| 15 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 |
-| 16 | [Shaam](https://open.spotify.com/track/4hckLrzyRR4iRZB6HJhVCF) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4), [Timothy Thampy](https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK) | [Shaam](https://open.spotify.com/album/5vw2CBcqLwIG5NkKzQTkxS) | 2:48 |
+| 11 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind](https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU) | 3:28 |
+| 12 | [Mehsoos Kar](https://open.spotify.com/track/7urhpFTtnZz3gPKQVAQvch) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw) | [Mehsoos Kar](https://open.spotify.com/album/69HrchBWeIobPyzducEtub) | 3:33 |
+| 13 | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/track/2cz4qH4fCauVA93JHkUMad) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Le Aaunga \(From "Satyaprem Ki Katha"\)](https://open.spotify.com/album/55AiBuh1Ljke5dd9kEby1b) | 4:04 |
+| 14 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 |
+| 15 | [Shaam](https://open.spotify.com/track/4hckLrzyRR4iRZB6HJhVCF) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4), [Timothy Thampy](https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK) | [Shaam](https://open.spotify.com/album/5vw2CBcqLwIG5NkKzQTkxS) | 2:48 |
+| 16 | [Cinema Chowk](https://open.spotify.com/track/5fiziC9GdXwuZuuqCWUiyT) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Uns](https://open.spotify.com/album/6XOHRTbmpbKACTCH0bNATo) | 5:49 |
 | 17 | [Subah \(From "System"\)](https://open.spotify.com/track/3Nut66HEcfxCQtcj9tIbKI) | [Shubham Shirule](https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1), [Ana Rehman](https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH) | [System \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3b11jLx4YexMhmnPPHnVYp) | 4:39 |
 | 18 | [Paro](https://open.spotify.com/track/6nRGPf5tpeJtKpXZO5cgIT) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D), [UNPLG'd](https://open.spotify.com/artist/3gKTtA1BK4pq1IIHXAyvgO) | [Paro](https://open.spotify.com/album/1pnmSGbSYY19bPwUJ4XJOl) | 1:10 |
 | 19 | [Baat Itni Si Hai \- Unplugged](https://open.spotify.com/track/2xkyznh2fVteFDmWjUlZ9U) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baat Itni Si Hai \(Unplugged\)](https://open.spotify.com/album/0rjJuTIRRXK6KOv3UuUSvC) | 3:47 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Tu Hai Kahaan \- From "Do Aur Do Pyaar"](https://open.spotify.com/track/5qu00elDJgCJMlbCLlTsvD) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0), [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB) | [Tu Hai Kahaan \(From "Do Aur Do Pyaar"\)](https://open.spotify.com/album/2xkyBtiU8rMkow6ymV9cUe) | 3:39 |
 | 75 | [Piya Tose Naina Lage Re](https://open.spotify.com/track/3DsIkyKjAe4yOvTsaS6dnn) | [Khatija Rahman](https://open.spotify.com/artist/3FQoWZ1cZzYzZKMg2MaAYP), [Firdaus Orchestra](https://open.spotify.com/artist/3drENjzQNPCE5CSMby4SwB) | [Kuhu Kuhu](https://open.spotify.com/album/4WXQQBBQsr1sKMp2I3IPGB) | 4:14 |
 
-Snapshot ID: `AAAAAH6m4crELNnZlfvT/aKyhcDuP2NU`
+Snapshot ID: `AAAAAEybMvkbDSSIWSrS0Tzaooq7iIwg`

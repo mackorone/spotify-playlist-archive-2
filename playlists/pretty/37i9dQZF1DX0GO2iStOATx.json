@@ -1,12 +1,12 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 234950,
+  "num_followers": 234998,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH4aM0lTf0Qu/JYrFvxWvX9tKv5p",
+  "snapshot_id": "AAAAAI9+ClAocWmJylmvFO0rUGjAjxQ5",
   "tracks": [
     {
       "added_at": "2026-06-12 07:40:28",
@@ -355,26 +355,6 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "5 Taara",
-        "url": "https://open.spotify.com/album/0ypcANqICUdvLiDBJ0H1Jn"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Jatinder Shah",
-          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
-        }
-      ],
-      "duration_ms": 178421,
-      "name": "5 Taara",
-      "url": "https://open.spotify.com/track/3Mghyxm9EHqlXDE8811Z9B"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
         "name": "Laembadgini",
         "url": "https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 142203,
       "name": "Veer Vaar - From \"Sardaarji\"",
       "url": "https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "5 Taara",
+        "url": "https://open.spotify.com/album/0ypcANqICUdvLiDBJ0H1Jn"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Jatinder Shah",
+          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
+        }
+      ],
+      "duration_ms": 178421,
+      "name": "5 Taara",
+      "url": "https://open.spotify.com/track/3Mghyxm9EHqlXDE8811Z9B"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Advisory",
-        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 164133,
-      "name": "Heer",
-      "url": "https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
         "name": "Con.Fi.Den.Tial",
         "url": "https://open.spotify.com/album/5XrmpQEvCaqW8jRA1pwtwD"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 173638,
       "name": "Future",
       "url": "https://open.spotify.com/track/34izTWG2OZPbmCUzwqosgt"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "Advisory",
+        "url": "https://open.spotify.com/album/6iVdKO5iCIgmovlO6VP2oj"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 164133,
+      "name": "Heer",
+      "url": "https://open.spotify.com/track/2Rjwx0ORggEHxQ6wvCZXsi"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 191113,
+      "name": "Mel Gel",
+      "url": "https://open.spotify.com/track/0uZ0ZZDpBOcFasRWyfpVhV"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 148619,
       "name": "Icon",
       "url": "https://open.spotify.com/track/4OmhUrKAKTBxdvscSfx1gp"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 191113,
-      "name": "Mel Gel",
-      "url": "https://open.spotify.com/track/0uZ0ZZDpBOcFasRWyfpVhV"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
-        }
-      ],
-      "duration_ms": 180698,
-      "name": "Kehkashan",
-      "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
         "name": "Saanvle (feat. Raj Ranjodh)",
         "url": "https://open.spotify.com/album/4bU263ULrrVYSP2J7Vp97X"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 208333,
       "name": "Saanvle (feat. Raj Ranjodh)",
       "url": "https://open.spotify.com/track/7EP2pUtxJeEEqN0V7hLjNg"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 180698,
+      "name": "Kehkashan",
+      "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
     },
     {
       "added_at": "2026-06-12 05:30:19",

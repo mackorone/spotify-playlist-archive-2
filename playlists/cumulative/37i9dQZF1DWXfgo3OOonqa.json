@@ -13554,7 +13554,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 122181,
       "name": "EXTRA",
       "url": "https://open.spotify.com/track/0qNG7Xho5AxpHQGTYz2AY3"
@@ -18312,7 +18312,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 130000,
       "name": "HATAR SE DEJ G\u00c5",
       "url": "https://open.spotify.com/track/6pDHJel2cfzvLmWIEJ3fnV"
@@ -21474,7 +21474,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 129230,
       "name": "Jag & Du",
       "url": "https://open.spotify.com/track/5TWaVJ43j0saiCIrlYJdPe"
@@ -22546,7 +22546,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 126866,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/5eS8uGOUuwOOYnuWnLGFdJ"
@@ -26497,6 +26497,24 @@
     },
     {
       "album": {
+        "name": "L\u00f6rdag",
+        "url": "https://open.spotify.com/album/5OqiQNwCmbAEuc7bTsjtqV"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138286,
+      "name": "L\u00f6rdag",
+      "url": "https://open.spotify.com/track/0ogDQYMnKGS3gBWLJQNlpt"
+    },
+    {
+      "album": {
         "name": "M & L",
         "url": "https://open.spotify.com/album/0hFVA5UwoD6YfNSIpwIzxS"
       },
@@ -27801,6 +27819,24 @@
     },
     {
       "album": {
+        "name": "Matadoren",
+        "url": "https://open.spotify.com/album/0gpZBMK8pkrJwk6mhAItG2"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121133,
+      "name": "Matadoren",
+      "url": "https://open.spotify.com/track/7rorbMNPjLsuK2kNA8gVw3"
+    },
+    {
+      "album": {
         "name": "MATRIX",
         "url": "https://open.spotify.com/album/5eCwaNw6zBKUXxuMObbnbo"
       },
@@ -28858,6 +28894,28 @@
       "duration_ms": 131375,
       "name": "Milly",
       "url": "https://open.spotify.com/track/3UjxSOYjAHZVYu7bfebKJ9"
+    },
+    {
+      "album": {
+        "name": "MILLZ",
+        "url": "https://open.spotify.com/album/6KpuCYpARpqFonXVVICw5O"
+      },
+      "artists": [
+        {
+          "name": "Euroo",
+          "url": "https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH"
+        },
+        {
+          "name": "Prahlinho",
+          "url": "https://open.spotify.com/artist/3syT2eIxl0OSfoYygKqz9A"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "MILLZ",
+      "url": "https://open.spotify.com/track/4r0jKLk8aEU24dTEsKH7lJ"
     },
     {
       "album": {
@@ -31158,6 +31216,28 @@
       "duration_ms": 147000,
       "name": "Nya Sverige 2026",
       "url": "https://open.spotify.com/track/3o0XwyqwQ8RcPev4h1bu0B"
+    },
+    {
+      "album": {
+        "name": "Nya Tider",
+        "url": "https://open.spotify.com/album/6eDcNwuDfAzEVDYzeY2jNE"
+      },
+      "artists": [
+        {
+          "name": "N1cho",
+          "url": "https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y"
+        },
+        {
+          "name": "Yei Gonzalez",
+          "url": "https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132780,
+      "name": "Nya Tider",
+      "url": "https://open.spotify.com/track/6nvQ36W8OPI1vbPsM7NEzo"
     },
     {
       "album": {
@@ -39641,6 +39721,28 @@
     },
     {
       "album": {
+        "name": "Strike a pose",
+        "url": "https://open.spotify.com/album/2Z5IHmkZOCnYNRlFkfDUPI"
+      },
+      "artists": [
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        },
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Strike a pose",
+      "url": "https://open.spotify.com/track/2Bb5cQ8WoqOE9OJ5obb4g9"
+    },
+    {
+      "album": {
         "name": "Krasch",
         "url": "https://open.spotify.com/album/7kZtmp2KAffmaFblQI7Bvo"
       },
@@ -40434,6 +40536,24 @@
       "duration_ms": 125165,
       "name": "SYNDROMET TAKEOVER",
       "url": "https://open.spotify.com/track/0qIsziO7hb197jtR4Ar9oV"
+    },
+    {
+      "album": {
+        "name": "System",
+        "url": "https://open.spotify.com/album/3fPIscyaRDXtHCeDtuDVBp"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138913,
+      "name": "System",
+      "url": "https://open.spotify.com/track/2SjdGLlnVHX4bmKm7DMVZW"
     },
     {
       "album": {
@@ -41532,7 +41652,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 92222,
       "name": "terminalen Zutt - Freestyle",
       "url": "https://open.spotify.com/track/6StnWHpk0f4qg0Rl0erpvo"
@@ -41786,6 +41906,24 @@
       "duration_ms": 152888,
       "name": "TIDNING",
       "url": "https://open.spotify.com/track/57eqHJ3LY805RHuc2b1brL"
+    },
+    {
+      "album": {
+        "name": "Tiffany",
+        "url": "https://open.spotify.com/album/2SJ703LKy02dvskKDeb2fr"
+      },
+      "artists": [
+        {
+          "name": "24K",
+          "url": "https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Tiffany",
+      "url": "https://open.spotify.com/track/5fVQ8voOHcoxSR5FQNA7o4"
     },
     {
       "album": {
@@ -42760,7 +42898,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 108571,
       "name": "Trafficante",
       "url": "https://open.spotify.com/track/0ThftADgLWQORiaVqELAHC"
@@ -46148,7 +46286,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 117375,
       "name": "WESH LA GANG",
       "url": "https://open.spotify.com/track/5tNTW3QuBECwhVupKruzoQ"

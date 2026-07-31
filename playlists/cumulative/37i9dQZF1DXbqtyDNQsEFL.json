@@ -742,7 +742,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-18",
+      "date_removed": null,
       "duration_ms": 745760,
       "name": "Armour Of God - Live",
       "url": "https://open.spotify.com/track/5SInR2Eowv5QAygBhBR2Um"
@@ -2912,7 +2912,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 346500,
       "name": "Ebenezer (My Helper)",
       "url": "https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE"
@@ -3570,7 +3570,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 432288,
       "name": "Eze Ebube II",
       "url": "https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd"
@@ -5120,7 +5120,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-31",
+      "date_removed": null,
       "duration_ms": 379207,
       "name": "He Fights For Me",
       "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
@@ -7284,7 +7284,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 534027,
       "name": "Judah - Live",
       "url": "https://open.spotify.com/track/4KiMR2stFyYXenTQPonWTV"
@@ -8868,7 +8868,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 275000,
       "name": "My Ebenezer",
       "url": "https://open.spotify.com/track/6FRNX4eCgujb0KdATJxRRu"
@@ -8996,7 +8996,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 155688,
       "name": "My Soul Sings",
       "url": "https://open.spotify.com/track/3Ty3SsKmaV4F6JO9N9dnrW"
@@ -9290,7 +9290,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 538000,
       "name": "NEVER BOW TO BAAL",
       "url": "https://open.spotify.com/track/4bL7qOqEwsqhQsDZzah3Yd"
@@ -9638,7 +9638,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 317675,
       "name": "No One Like You",
       "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
@@ -10118,7 +10118,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 547578,
       "name": "Obinigwe",
       "url": "https://open.spotify.com/track/2gfh7QNGVJIdnTA1GSVqnU"
@@ -11632,7 +11632,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/2HxWXOVWDYEd6jUAcKge3k"
@@ -12239,6 +12239,28 @@
     },
     {
       "album": {
+        "name": "Say So",
+        "url": "https://open.spotify.com/album/1UxcBoXWPzLXgsXvVdAkYu"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        },
+        {
+          "name": "B-Praiz",
+          "url": "https://open.spotify.com/artist/2wIs0RWFJWFUCfwOm2mrPf"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414437,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/7wD9rUT1Bxlt73DoZBlKb6"
+    },
+    {
+      "album": {
         "name": "Surgery",
         "url": "https://open.spotify.com/album/0tfEleQD9BlzcDrnLg3Gyg"
       },
@@ -12308,7 +12330,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 172631,
       "name": "Self",
       "url": "https://open.spotify.com/track/4eqDfX5jMdki9ZHWK1GiVk"
@@ -12780,7 +12802,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-12",
+      "date_removed": null,
       "duration_ms": 461003,
       "name": "Spontaneous Worship 1 - Live",
       "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
@@ -13520,7 +13542,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 361643,
       "name": "The Kingdom Is Yours",
       "url": "https://open.spotify.com/track/4mZK9we1sOpz464O9prhB7"
@@ -15018,7 +15040,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 274698,
       "name": "When I Have You",
       "url": "https://open.spotify.com/track/6CU8ll61ugtCodNhrBAyoW"
@@ -16172,7 +16194,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 146000,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/7aAP2sf4tt975tskPwzbrZ"
@@ -16212,7 +16234,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 173153,
       "name": "Yours Truly",
       "url": "https://open.spotify.com/track/47EuJYd1DTp6osZcwsTT13"

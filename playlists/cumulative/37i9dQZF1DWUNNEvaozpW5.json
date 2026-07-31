@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "A Contracorriente",
       "url": "https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 187999,
       "name": "Chiquilla",
       "url": "https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K"
@@ -4312,7 +4312,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 165401,
       "name": "El Deseo",
       "url": "https://open.spotify.com/track/1KYYbQn0y3DYLcCx0BiVgu"
@@ -5556,7 +5556,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 201967,
       "name": "Espacio-Tiempo",
       "url": "https://open.spotify.com/track/2t0O29E4gWtdrWHlSj2p8n"
@@ -8649,6 +8649,24 @@
     },
     {
       "album": {
+        "name": "Los Besos",
+        "url": "https://open.spotify.com/album/5pTs0UAkOGaNYKmqiCoMtP"
+      },
+      "artists": [
+        {
+          "name": "Perfecto Desorden",
+          "url": "https://open.spotify.com/artist/4yqMB9jPazIBx0oraEmeEb"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211483,
+      "name": "Los Besos",
+      "url": "https://open.spotify.com/track/59O96uAlR5DZIKO303B2A7"
+    },
+    {
+      "album": {
         "name": "Los cuervos se lo pasan bien",
         "url": "https://open.spotify.com/album/0RLPT7vtjGo9CRwKRrNZd4"
       },
@@ -10504,7 +10522,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 222571,
       "name": "No Estar\u00e1n",
       "url": "https://open.spotify.com/track/7Gn7iExcldCRMJjE0YTeNu"
@@ -10594,7 +10612,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 256026,
       "name": "No Me Arrepiento",
       "url": "https://open.spotify.com/track/5rGQYEbV5H6RFzG5afFwz3"
@@ -10812,7 +10830,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 230360,
       "name": "Noche Oscura (feat. Leiva)",
       "url": "https://open.spotify.com/track/5YHKrFUEX8aQJRPCS1Yl9W"
@@ -11356,10 +11374,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 191231,
       "name": "Para volverte a decir",
       "url": "https://open.spotify.com/track/55quatI4AI4K0Tj3XNAxy7"
+    },
+    {
+      "album": {
+        "name": "Pasan los a\u00f1os",
+        "url": "https://open.spotify.com/album/0uBhX33Apg9aBA1Zhr0GA7"
+      },
+      "artists": [
+        {
+          "name": "Malas Pulgas",
+          "url": "https://open.spotify.com/artist/7qzlQ8l7v097jcjShg0uA1"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201707,
+      "name": "Pasan los a\u00f1os",
+      "url": "https://open.spotify.com/track/05IQc9bllUCil8QTHv5hjw"
     },
     {
       "album": {
@@ -11888,7 +11924,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 242005,
       "name": "Punto de Colisi\u00f3n",
       "url": "https://open.spotify.com/track/0W5WdG9xYM22G2GbJEanNd"
@@ -14886,7 +14922,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 184112,
       "name": "Vacile",
       "url": "https://open.spotify.com/track/2Q7jMOLrepwIzmgWLqr888"

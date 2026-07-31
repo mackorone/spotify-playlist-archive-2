@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. R\u00d8Z en portada ",
-  "num_followers": 859775,
+  "num_followers": 859799,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHxgrO+AI5YV8BTQrBVZMNdp+GoN",
+  "snapshot_id": "AAAAAEBo1eLgx0G1iYL1iuyECGHg3pk7",
   "tracks": [
     {
       "added_at": "2026-07-24 06:00:37",
@@ -595,26 +595,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "SI SE ACABA EL MUNDO",
-        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
-      },
-      "artists": [
-        {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 170812,
-      "name": "SI SE ACABA EL MUNDO",
-      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 201461,
       "name": "Modo Dif\u00edcil",
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "SI SE ACABA EL MUNDO",
+        "url": "https://open.spotify.com/album/0S7IcjMsJMt658w6YkfMve"
+      },
+      "artists": [
+        {
+          "name": "DANNA",
+          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 170812,
+      "name": "SI SE ACABA EL MUNDO",
+      "url": "https://open.spotify.com/track/3qLCw35OGoQ9S8R7wGG0dm"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "MUDA",
-        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 171627,
-      "name": "En La Misma Cama",
-      "url": "https://open.spotify.com/track/4mknaB6EEmN3noSR71073a"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "pAL_veranito.mp3",
         "url": "https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 169846,
       "name": "pongo remix",
       "url": "https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 171627,
+      "name": "En La Misma Cama",
+      "url": "https://open.spotify.com/track/4mknaB6EEmN3noSR71073a"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -815,6 +815,22 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/5y000MuZ68BHJNNTpEJwNL"
+      },
+      "artists": [
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "duration_ms": 146474,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/5uWQZ1ePLnSar0TiVzhr3v"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
         "name": "Me Est\u00e1 Doliendo",
         "url": "https://open.spotify.com/album/5JnNUibrxRMHmyIp6ZjrSr"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 202941,
       "name": "Me Est\u00e1 Doliendo",
       "url": "https://open.spotify.com/track/0if2KuMjKXCdBKM2Shdpf6"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/5y000MuZ68BHJNNTpEJwNL"
-      },
-      "artists": [
-        {
-          "name": "Ian Cordova",
-          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
-        }
-      ],
-      "duration_ms": 146474,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/5uWQZ1ePLnSar0TiVzhr3v"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "La Buena",
-        "url": "https://open.spotify.com/album/6pJpCycVCDwv5gV1Q5Ql7r"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 136585,
-      "name": "La Buena",
-      "url": "https://open.spotify.com/track/3l4k6rckgBZodaRpfMRbDA"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "Ojitos Bellos",
         "url": "https://open.spotify.com/album/2QMmrYT9RG0dGQBpXvED9c"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 179818,
       "name": "Ojitos Bellos",
       "url": "https://open.spotify.com/track/75OegUZV4dD54IVeonBKwr"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "La Buena",
+        "url": "https://open.spotify.com/album/6pJpCycVCDwv5gV1Q5Ql7r"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 136585,
+      "name": "La Buena",
+      "url": "https://open.spotify.com/track/3l4k6rckgBZodaRpfMRbDA"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
+        "name": "Por Si Las Dudas",
+        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Por Si Las Dudas",
+      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
         "name": "T\u00fa Ni En Cuenta",
         "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
       },
@@ -975,6 +991,26 @@
       "duration_ms": 203801,
       "name": "T\u00fa Ni En Cuenta",
       "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "Cada Vez Me Gusta M\u00e1s",
+        "url": "https://open.spotify.com/album/5TJY54fjTgOepbCBWdjFJj"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 204814,
+      "name": "Cada Vez Me Gusta M\u00e1s",
+      "url": "https://open.spotify.com/track/2GItC45oeKDIr66PLrhUhb"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1003,42 +1039,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "Por Si Las Dudas",
-        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Por Si Las Dudas",
-      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
-        "name": "Cada Vez Me Gusta M\u00e1s",
-        "url": "https://open.spotify.com/album/5TJY54fjTgOepbCBWdjFJj"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 204814,
-      "name": "Cada Vez Me Gusta M\u00e1s",
-      "url": "https://open.spotify.com/track/2GItC45oeKDIr66PLrhUhb"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "Reminiscencia",
         "url": "https://open.spotify.com/album/1iE4WOrDA6qhVTAYwgOrKK"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 158487,
       "name": "Reminiscencia",
       "url": "https://open.spotify.com/track/7f1G5yfj2mcGEwKCHks3lm"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "SINALOKA",
+        "url": "https://open.spotify.com/album/0HrSq9bMMXc79CizTD1k6A"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "SINALOKA",
+      "url": "https://open.spotify.com/track/23meQ8JXeFHiInKkO1jyV2"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "SINALOKA",
-        "url": "https://open.spotify.com/album/0HrSq9bMMXc79CizTD1k6A"
+        "name": "Con dolor",
+        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 156000,
-      "name": "SINALOKA",
-      "url": "https://open.spotify.com/track/23meQ8JXeFHiInKkO1jyV2"
+      "duration_ms": 172218,
+      "name": "Pary",
+      "url": "https://open.spotify.com/track/1vuv2tN0AWun2LYnJIkCe0"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1111,22 +1127,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "Con dolor",
-        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 172218,
-      "name": "Pary",
-      "url": "https://open.spotify.com/track/1vuv2tN0AWun2LYnJIkCe0"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "Bandido Estrella",
         "url": "https://open.spotify.com/album/0OLPOAwkV37eY0jslcZkN8"
       },
@@ -1139,6 +1139,26 @@
       "duration_ms": 188273,
       "name": "Bandido Estrella",
       "url": "https://open.spotify.com/track/0JqahM9ASQYOvyd0h5uNRq"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
+      },
+      "artists": [
+        {
+          "name": "Yeri Mua",
+          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
+        },
+        {
+          "name": "R\u00e9gulo Molina",
+          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1171,26 +1191,6 @@
       "duration_ms": 177408,
       "name": "LA PLAYA",
       "url": "https://open.spotify.com/track/0vCWqAYeDWjNITu5ik3IlC"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
-      },
-      "artists": [
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "R\u00e9gulo Molina",
-          "url": "https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1271,22 +1271,22 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "Frostix",
-        "url": "https://open.spotify.com/album/39X4kjbqYNcd95pnYdF9xA"
+        "name": "a\u00f1os, no meses",
+        "url": "https://open.spotify.com/album/5O4uOZL9D8L6HXlSmqZwKV"
       },
       "artists": [
         {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
         },
         {
-          "name": "W. Corona",
-          "url": "https://open.spotify.com/artist/2wqy0ojBEcx7OvHezdGDXQ"
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Frostix",
-      "url": "https://open.spotify.com/track/7jT6oOwJvLJ1zQZm76sh4F"
+      "duration_ms": 162333,
+      "name": "a\u00f1os, no meses",
+      "url": "https://open.spotify.com/track/3eQjXNfkhr6bAr8sPvXJlr"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1307,22 +1307,22 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "a\u00f1os, no meses",
-        "url": "https://open.spotify.com/album/5O4uOZL9D8L6HXlSmqZwKV"
+        "name": "Frostix",
+        "url": "https://open.spotify.com/album/39X4kjbqYNcd95pnYdF9xA"
       },
       "artists": [
         {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         },
         {
-          "name": "KEVIN ROLDAN",
-          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+          "name": "W. Corona",
+          "url": "https://open.spotify.com/artist/2wqy0ojBEcx7OvHezdGDXQ"
         }
       ],
-      "duration_ms": 162333,
-      "name": "a\u00f1os, no meses",
-      "url": "https://open.spotify.com/track/3eQjXNfkhr6bAr8sPvXJlr"
+      "duration_ms": 166000,
+      "name": "Frostix",
+      "url": "https://open.spotify.com/track/7jT6oOwJvLJ1zQZm76sh4F"
     },
     {
       "added_at": "2026-07-24 06:00:37",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2026-07-24 06:00:37",
       "album": {
-        "name": "Otro Abrigo",
-        "url": "https://open.spotify.com/album/1MjzhfXAHq75qYVw4XnIFs"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 165162,
-      "name": "Otro Abrigo",
-      "url": "https://open.spotify.com/track/4gzMku4VVN3AKGtbrXE527"
-    },
-    {
-      "added_at": "2026-07-24 06:00:37",
-      "album": {
         "name": "Soy Luna: Volver a rodar (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/6glYGr5mPdY0m1vt9mzNuO"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 202426,
       "name": "De ti me enamor\u00e9",
       "url": "https://open.spotify.com/track/3FWD1jZwNuEk7SJOt1R8MV"
+    },
+    {
+      "added_at": "2026-07-24 06:00:37",
+      "album": {
+        "name": "Otro Abrigo",
+        "url": "https://open.spotify.com/album/1MjzhfXAHq75qYVw4XnIFs"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 165162,
+      "name": "Otro Abrigo",
+      "url": "https://open.spotify.com/track/4gzMku4VVN3AKGtbrXE527"
     },
     {
       "added_at": "2026-07-24 06:00:37",

@@ -41,6 +41,32 @@
     },
     {
       "album": {
+        "name": "3 x KO",
+        "url": "https://open.spotify.com/album/4CWNkFagrZH9U5weIKxiuZ"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        },
+        {
+          "name": "Calvin Kleinen",
+          "url": "https://open.spotify.com/artist/2iVvuS4ESGMD3pcjEcg2MW"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171780,
+      "name": "3 x KO",
+      "url": "https://open.spotify.com/track/5FzL0797FMOyNzjSE7n3lI"
+    },
+    {
+      "album": {
         "name": "3er",
         "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
       },
@@ -1450,7 +1476,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 221442,
       "name": "Du hast mich tausendmal belogen - Rekord Mix 2026",
       "url": "https://open.spotify.com/track/4z02Q1AKZNfnZ8LggvOhBg"
@@ -1644,7 +1670,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 161345,
       "name": "Endlich wieder Sommer",
       "url": "https://open.spotify.com/track/09qZe3pgb9RyNF8x3Lwt2F"
@@ -2070,6 +2096,28 @@
       "duration_ms": 209453,
       "name": "Hamma! - Single Edit",
       "url": "https://open.spotify.com/track/3vaBHxfz5WPBLLPt1hTUvI"
+    },
+    {
+      "album": {
+        "name": "Hier kommt der B\u00fcffelmann",
+        "url": "https://open.spotify.com/album/4HWeDpMNDfMZ0iMgPaKeGz"
+      },
+      "artists": [
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        },
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "Hammer & S\u00e4ge (Baustellensong)",
+      "url": "https://open.spotify.com/track/2IAooEX3flEp1iki244W1y"
     },
     {
       "album": {
@@ -3076,10 +3124,32 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 158785,
       "name": "K\u00e4pt'n Morgen",
       "url": "https://open.spotify.com/track/5uGacwxeGDV4RSDYqgMGmZ"
+    },
+    {
+      "album": {
+        "name": "K\u00e4pt'n Morgen (90s Remix)",
+        "url": "https://open.spotify.com/album/37vHvjHit4zrnkRw2h0ucV"
+      },
+      "artists": [
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        },
+        {
+          "name": "Captain Jack",
+          "url": "https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "K\u00e4pt'n Morgen - 90s Remix",
+      "url": "https://open.spotify.com/track/25hyWCjX6xya3SoXF5BSzl"
     },
     {
       "album": {
@@ -3680,7 +3750,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 172637,
       "name": "Mozart (Ciao Niveau)",
       "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
@@ -4316,7 +4386,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 165931,
       "name": "Roofer",
       "url": "https://open.spotify.com/track/6ls3uoDPxyDhCZzMGd9yTX"
@@ -4506,7 +4576,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 139239,
       "name": "Schei\u00dfegal",
       "url": "https://open.spotify.com/track/3LzVNx8feNyRZuMjjLT1xL"
@@ -5352,6 +5422,28 @@
       "duration_ms": 147724,
       "name": "WIR SIND DIE DEUTSCHEN",
       "url": "https://open.spotify.com/track/4zFSajqGWIvzih1dfyfwjP"
+    },
+    {
+      "album": {
+        "name": "Wir sind zuhause",
+        "url": "https://open.spotify.com/album/74dlaREzXTWf5mHExvriK3"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/0b62itBWBdLgiecXjXCqKC"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "Wir sind zuhause",
+      "url": "https://open.spotify.com/track/2Cb4gy45Yh8dzKjq896vyw"
     },
     {
       "album": {

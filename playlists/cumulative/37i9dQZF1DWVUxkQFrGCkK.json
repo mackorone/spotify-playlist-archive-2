@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-15",
-  "description": "IBZ szn. Cover: Deer Jade",
+  "description": "IBZ szn. Cover: Barry Can't Swim",
   "name": "Umami",
   "tracks": [
     {
@@ -526,6 +526,24 @@
       "duration_ms": 184655,
       "name": "A Little Shy",
       "url": "https://open.spotify.com/track/7DNLNZ7ygyHB6dPIiEdyyx"
+    },
+    {
+      "album": {
+        "name": "A Love Fantasy EP",
+        "url": "https://open.spotify.com/album/35rtYAASblbXX2RjkiWQV0"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "A Love Fantasy",
+      "url": "https://open.spotify.com/track/5EJ6I8lDFOV4qYcnwFpNNl"
     },
     {
       "album": {
@@ -5452,7 +5470,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 330000,
       "name": "Confident",
       "url": "https://open.spotify.com/track/1K5wN7XvLdVuHXqg5M60Ol"
@@ -10285,6 +10303,24 @@
     },
     {
       "album": {
+        "name": "Yes Empress EP",
+        "url": "https://open.spotify.com/album/454vp5Zrgaxe2eKdfQmbss"
+      },
+      "artists": [
+        {
+          "name": "Luke Alessi",
+          "url": "https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329220,
+      "name": "Guacamole",
+      "url": "https://open.spotify.com/track/1dODQqLzbfB6IHNirEhfv1"
+    },
+    {
+      "album": {
         "name": "Guessing Game",
         "url": "https://open.spotify.com/album/0tw983Hdo6I70OPeu8FBNi"
       },
@@ -12581,6 +12617,28 @@
     },
     {
       "album": {
+        "name": "Jazzmin",
+        "url": "https://open.spotify.com/album/2dcSf7cicOed14qvWfeG0T"
+      },
+      "artists": [
+        {
+          "name": "Bonafique",
+          "url": "https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803"
+        },
+        {
+          "name": "KADI (IL)",
+          "url": "https://open.spotify.com/artist/2yBeN9JBn46atsX5eXGYRC"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186269,
+      "name": "Jazzmin",
+      "url": "https://open.spotify.com/track/0AzjZi0cSXgcfBrvPGQB37"
+    },
+    {
+      "album": {
         "name": "Je t'attends",
         "url": "https://open.spotify.com/album/75lBb0SaANAjcQqdChQJEE"
       },
@@ -14424,6 +14482,36 @@
       "duration_ms": 321815,
       "name": "Lifetime - KASSIN Remix",
       "url": "https://open.spotify.com/track/1x8T63Txd5UnTvHUKlN4x0"
+    },
+    {
+      "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/5bujqYXj7QXjsYjxGQTIVM"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Satie",
+          "url": "https://open.spotify.com/artist/3veg7sFGWTk62Ecwj6mzij"
+        },
+        {
+          "name": "Maga",
+          "url": "https://open.spotify.com/artist/3SLZrLX47S9PmPRabiESVl"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        },
+        {
+          "name": "Stee Downes",
+          "url": "https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154573,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/0dGMbS4oygH8JVFFWtMsgf"
     },
     {
       "album": {
@@ -17730,7 +17818,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 274032,
       "name": "My Friend",
       "url": "https://open.spotify.com/track/2wjJc5f7Xy4EksJvv40qUv"
@@ -18224,7 +18312,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 206716,
       "name": "Never",
       "url": "https://open.spotify.com/track/1NwvgrnnbAXlmjVj8mMeBm"
@@ -21663,6 +21751,24 @@
     },
     {
       "album": {
+        "name": "Ring The Bell",
+        "url": "https://open.spotify.com/album/36ybZoVeDtU0JGXG51TCtv"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Ring The Bell",
+      "url": "https://open.spotify.com/track/3JcGhVW3XAxSzNzDEhFoNc"
+    },
+    {
+      "album": {
         "name": "Ringa",
         "url": "https://open.spotify.com/album/6WJIv1RrBVzBXatP45X9ew"
       },
@@ -21898,7 +22004,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 313464,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/30q702opJpBxdcyKANy84Y"
@@ -27206,7 +27312,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 190614,
       "name": "Tribesmen - 10 Years On Remix",
       "url": "https://open.spotify.com/track/5qFo5AwnGYIg1DLylHQWM5"
@@ -29108,7 +29214,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 242748,
       "name": "Who Wants To Know",
       "url": "https://open.spotify.com/track/2G21tMW9pdUKDuz6pqTfFk"
@@ -30294,6 +30400,32 @@
       "duration_ms": 210491,
       "name": "Zesa",
       "url": "https://open.spotify.com/track/1Fcso83pyh819KHLM8zlJU"
+    },
+    {
+      "album": {
+        "name": "Zone (feat. Poppy Baskcomb) [Late Replies Remix]",
+        "url": "https://open.spotify.com/album/3JL3YQifAW40wtqfyNs157"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        },
+        {
+          "name": "Late Replies",
+          "url": "https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213230,
+      "name": "Zone (feat. Poppy Baskcomb) - Late Replies Remix",
+      "url": "https://open.spotify.com/track/3gum9Np6MkA3Jz8KpBItbq"
     },
     {
       "album": {

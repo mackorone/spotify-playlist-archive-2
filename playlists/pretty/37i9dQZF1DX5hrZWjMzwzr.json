@@ -1,12 +1,12 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i  nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 11715,
+  "num_followers": 11714,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL3OPVBH7amy7jhMAKqKJEo5Tnid",
+  "snapshot_id": "AAAAAJGcq+z3k/uwQEnu5IDL1WgZd+Xe",
   "tracks": [
     {
       "added_at": "2026-04-09 22:12:46",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "HOLLYWOOD SMILE",
+        "url": "https://open.spotify.com/album/65YwHhQRZeKgPr5voJAgFx"
+      },
+      "artists": [
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        }
+      ],
+      "duration_ms": 183018,
+      "name": "COWABONGA",
+      "url": "https://open.spotify.com/track/5gdYiLyMA2Q4sD4S8gCmVk"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "3347",
         "url": "https://open.spotify.com/album/0hYMkjmSD1OKHbgPfh6W7B"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 123428,
       "name": "BEZ NIKOGO OBOK",
       "url": "https://open.spotify.com/track/7Ki2wz0F38lWnwBOLRkyIV"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "HOLLYWOOD SMILE",
-        "url": "https://open.spotify.com/album/65YwHhQRZeKgPr5voJAgFx"
-      },
-      "artists": [
-        {
-          "name": "\u017babson",
-          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
-        }
-      ],
-      "duration_ms": 183018,
-      "name": "COWABONGA",
-      "url": "https://open.spotify.com/track/5gdYiLyMA2Q4sD4S8gCmVk"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Sentymenty",
-        "url": "https://open.spotify.com/album/647wZqwIFPEUxVJh9eNniL"
-      },
-      "artists": [
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        }
-      ],
-      "duration_ms": 154181,
-      "name": "Sentymenty",
-      "url": "https://open.spotify.com/track/4TbDlszXA0QfSHHYVT39xG"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "EX UMBRA AD LIBERTATEM",
         "url": "https://open.spotify.com/album/3H7GVvyXSIQ0juzZG2PV7Q"
       },
@@ -491,30 +475,18 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "Tenten",
-        "url": "https://open.spotify.com/album/2df5WUWe3PcLUMA6MXRsYc"
+        "name": "Sentymenty",
+        "url": "https://open.spotify.com/album/647wZqwIFPEUxVJh9eNniL"
       },
       "artists": [
         {
-          "name": "Wenext",
-          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
-        },
-        {
-          "name": "M\u0142ody West",
-          "url": "https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK"
-        },
-        {
-          "name": "wane",
-          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
-        },
-        {
-          "name": "Okekel",
-          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
         }
       ],
-      "duration_ms": 219566,
-      "name": "Tenten",
-      "url": "https://open.spotify.com/track/6EifQP3TYilOa16wDKFyqR"
+      "duration_ms": 154181,
+      "name": "Sentymenty",
+      "url": "https://open.spotify.com/track/4TbDlszXA0QfSHHYVT39xG"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -551,6 +523,54 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "Tenten",
+        "url": "https://open.spotify.com/album/2df5WUWe3PcLUMA6MXRsYc"
+      },
+      "artists": [
+        {
+          "name": "Wenext",
+          "url": "https://open.spotify.com/artist/3GshitkWGkouULcfjdh9hw"
+        },
+        {
+          "name": "M\u0142ody West",
+          "url": "https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK"
+        },
+        {
+          "name": "wane",
+          "url": "https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh"
+        },
+        {
+          "name": "Okekel",
+          "url": "https://open.spotify.com/artist/2FkgKcXTqukAQ9GuXFzgN3"
+        }
+      ],
+      "duration_ms": 219566,
+      "name": "Tenten",
+      "url": "https://open.spotify.com/track/6EifQP3TYilOa16wDKFyqR"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Kawior",
+        "url": "https://open.spotify.com/album/1GIZyPMXjFNJK7jkXfyVYo"
+      },
+      "artists": [
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "BL Beatz",
+          "url": "https://open.spotify.com/artist/2B3kmkvUmxESyeXpT2OMH6"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Kawior",
+      "url": "https://open.spotify.com/track/5U501QvKEdHNON4LGFAhvj"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "W co ja si\u0119 wjeba\u0142em - Nowe Rozdanie | S1",
         "url": "https://open.spotify.com/album/6PnfYYqAiGUgPr1JV8zPQ8"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 186929,
       "name": "W co ja si\u0119 wjeba\u0142em - Nowe Rozdanie | S1",
       "url": "https://open.spotify.com/track/5LreD4p6buqBGNwV84YsZb"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Kawior",
-        "url": "https://open.spotify.com/album/1GIZyPMXjFNJK7jkXfyVYo"
-      },
-      "artists": [
-        {
-          "name": "Avi",
-          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
-        },
-        {
-          "name": "BL Beatz",
-          "url": "https://open.spotify.com/artist/2B3kmkvUmxESyeXpT2OMH6"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Kawior",
-      "url": "https://open.spotify.com/track/5U501QvKEdHNON4LGFAhvj"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -815,6 +815,30 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
+        "name": "FREE WIFI",
+        "url": "https://open.spotify.com/album/2GKIvHvN2ZmWMNOouIhUQE"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        },
+        {
+          "name": "\u017babson",
+          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
+        },
+        {
+          "name": "Drabusheyka",
+          "url": "https://open.spotify.com/artist/0UiOIZotAQMcX2gNa6aflH"
+        }
+      ],
+      "duration_ms": 144324,
+      "name": "pingwin",
+      "url": "https://open.spotify.com/track/3p65URLNKVQ7esO9QJtSZj"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
         "name": "Ewa Farna",
         "url": "https://open.spotify.com/album/3x7uF7U23YDVjXh2z0fcLT"
       },
@@ -843,30 +867,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "FREE WIFI",
-        "url": "https://open.spotify.com/album/2GKIvHvN2ZmWMNOouIhUQE"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        },
-        {
-          "name": "\u017babson",
-          "url": "https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft"
-        },
-        {
-          "name": "Drabusheyka",
-          "url": "https://open.spotify.com/artist/0UiOIZotAQMcX2gNa6aflH"
-        }
-      ],
-      "duration_ms": 144324,
-      "name": "pingwin",
-      "url": "https://open.spotify.com/track/3p65URLNKVQ7esO9QJtSZj"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "Brokeboy",
         "url": "https://open.spotify.com/album/79M0EWo6Q5PH5SolSWOPcL"
       },
@@ -887,6 +887,26 @@
       "duration_ms": 161167,
       "name": "Brokeboy",
       "url": "https://open.spotify.com/track/65CKBZul9KR6cpIN6unK9A"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/5p9wwfMdBpdf1rluuYKeJb"
+      },
+      "artists": [
+        {
+          "name": "Oliwka Brazil",
+          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
+        },
+        {
+          "name": "WIKTOR",
+          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
+        }
+      ],
+      "duration_ms": 139764,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/2off3DDPQSq4X3jSAg8pwK"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -915,26 +935,6 @@
       "duration_ms": 203749,
       "name": "W KONTAKCIE",
       "url": "https://open.spotify.com/track/4Twi1X2kxlwEYJKNFZVwRs"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/5p9wwfMdBpdf1rluuYKeJb"
-      },
-      "artists": [
-        {
-          "name": "Oliwka Brazil",
-          "url": "https://open.spotify.com/artist/7HhC70MoKQYjd2lnF5Znhs"
-        },
-        {
-          "name": "WIKTOR",
-          "url": "https://open.spotify.com/artist/41SecAZJsj3EFDiiO8FpXN"
-        }
-      ],
-      "duration_ms": 139764,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/2off3DDPQSq4X3jSAg8pwK"
     },
     {
       "added_at": "2026-04-09 22:12:46",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-04-09 22:12:46",
       "album": {
-        "name": "NEXT",
-        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
-      },
-      "artists": [
-        {
-          "name": "javier",
-          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
-        }
-      ],
-      "duration_ms": 113089,
-      "name": "SIE KLEI",
-      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
-    },
-    {
-      "added_at": "2026-04-09 22:12:46",
-      "album": {
         "name": "DZIECI MIASTA",
         "url": "https://open.spotify.com/album/6rEqhIQmkqaMiwiUC18Qr7"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 168157,
       "name": "DZIECI MIASTA",
       "url": "https://open.spotify.com/track/4KdIikzAuPEWITf3CpG08y"
+    },
+    {
+      "added_at": "2026-04-09 22:12:46",
+      "album": {
+        "name": "NEXT",
+        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
+      },
+      "artists": [
+        {
+          "name": "javier",
+          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
+        }
+      ],
+      "duration_ms": 113089,
+      "name": "SIE KLEI",
+      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
     },
     {
       "added_at": "2026-04-09 22:12:46",

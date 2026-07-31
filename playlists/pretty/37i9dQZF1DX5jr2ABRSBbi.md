@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Wishful Thinker](https://open.spotify.com/track/4ixOrGaJGSvx1D2RecrjnG) | [Rue Gale](https://open.spotify.com/artist/4D9p7KMV97cr41GH94Fa9V), [NEXT GENERATION](https://open.spotify.com/artist/23mVTTijlJBZUXFwV0GWH0) | [Wishful Thinker](https://open.spotify.com/album/23RuE1o41l3e9dZITI4lbU) | 2:46 |
 | 50 | [DNES VEČER](https://open.spotify.com/track/5AbT4LYmqzE1UukDdxvJLt) | [Call Dominika](https://open.spotify.com/artist/6EBKq4KCXExYanXleLzIVT), [fiedlerski](https://open.spotify.com/artist/0ql0Aw24KJaMeOVlwadzFE) | [ZA SEDMERO HORAMI…… \(404\)](https://open.spotify.com/album/5WYC4ZURx1tcsyNneLB9pd) | 2:14 |
 
-Snapshot ID: `AAAAAOLELfq2s5fgcV4I5LrNvNiWWVl2`
+Snapshot ID: `AAAAAAChOZcD+BHc4NdoLnGFT+0cQAh/`

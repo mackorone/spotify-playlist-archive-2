@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,410 songs - 5 day 9 hr 14 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,411 songs - 5 day 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2418,5 +2418,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2408 | [PALETA](https://open.spotify.com/track/4C1wgr96INpecKLtaTirlw) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3) | [PALETA](https://open.spotify.com/album/5XbgmPegvInyYKB2Ju76ID) | 1:28 |
 | 2409 | [DISSOLVING GIRL](https://open.spotify.com/track/3ckvDM5dUV06Cpna6KxGKk) | [Rosaliedu38](https://open.spotify.com/artist/5vkbTElqrLRvkM3SoheTQj), [Lili Castiglioni](https://open.spotify.com/artist/0FbauK4BpXbSL71RlgD5NU) | [DISSOLVING GIRL](https://open.spotify.com/album/6rForAoXK0boVeUGGO9ybb) | 2:03 |
 | 2410 | [French Boys](https://open.spotify.com/track/3hCT8pt9PMNBl1iej7NQBu) | [Alyzée](https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Yazida](https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw) | [French Boys](https://open.spotify.com/album/1YcB3dHmmnNZBvGHzDrRaz) | 3:00 |
+| 2411 | [J\*b](https://open.spotify.com/track/2Ovg9H7EJ5kIhuBBMvXyab) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Weekend Rockstar](https://open.spotify.com/album/075UnQx3cTGfN9mg82Agwz) | 1:57 |
 
-Snapshot ID: `AAAFcpbs7fGctPMH63IHlxcnhtpFYsKD`
+Snapshot ID: `AAAFc/2u8Xskvtm0qJO426E6uL2IU+YF`

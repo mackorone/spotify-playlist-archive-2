@@ -2,9 +2,9 @@
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 陳華
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 蕭敬騰 & A\-Lin
 
-1,240 songs - 3 day 5 hr 9 min
+1,242 songs - 3 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [不小心 \- 電影《夏日的檸檬草》主題曲](https://open.spotify.com/track/7hvs8UV83TpZV0Jiu84OsT) | [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [不小心 \(電影《夏日的檸檬草》主題曲\)](https://open.spotify.com/album/5Rwv3r2MSbKNGFvSBoipyR) | 4:12 | 2024-08-05 | 2025-03-04 |
 | [不屬於](https://open.spotify.com/track/4RIhhuCCugN9rxEwXDi0AF) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [不屬於](https://open.spotify.com/album/6ZSzbOmorPDHMK6HSE3mZf) | 4:01 | 2025-08-04 | 2025-08-19 |
 | [不想再愛](https://open.spotify.com/track/57rC2DMTHTzO2olnXWgABf) | [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [不想再愛](https://open.spotify.com/album/6iFYU391UvPCMwv2ZhzliP) | 3:18 | 2025-12-29 | 2026-01-06 |
-| [不想再讓你哭](https://open.spotify.com/track/2Dx0qpw947mEuTE95aeixa) | [周祖安Zu An](https://open.spotify.com/artist/1x50iht7O1AAi9671KbiA6) | [不想再讓你哭](https://open.spotify.com/album/1NjxB5pU8fe7ttL10QrrCs) | 2:43 | 2026-04-16 |  |
+| [不想再讓你哭](https://open.spotify.com/track/2Dx0qpw947mEuTE95aeixa) | [周祖安Zu An](https://open.spotify.com/artist/1x50iht7O1AAi9671KbiA6) | [不想再讓你哭](https://open.spotify.com/album/1NjxB5pU8fe7ttL10QrrCs) | 2:43 | 2026-04-16 | 2026-07-31 |
 | [不想和你分開](https://open.spotify.com/track/75j9P6i2s9iXP81PHHzP5F) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [不想和你分開](https://open.spotify.com/album/6EyDaqH4Hu7VDOsuPwrWLa) | 3:21 | 2025-06-23 | 2025-07-10 |
 | [不想回家](https://open.spotify.com/track/06IxFmwPgB0DixPrw0Aiem) | [Shawn Tok](https://open.spotify.com/artist/0GLJLs1XLKTauYlQZspgTl) | [不想回家](https://open.spotify.com/album/0Q9PwMUBzJju9l9V0FAKbQ) | 2:47 | 2025-09-29 | 2025-10-07 |
 | [不想跟你保持距離—傳說對決2024百花女神節主題曲](https://open.spotify.com/track/27hX0vd6IQpb79XmCX7873) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [不想跟你保持距離—傳說對決2024百花女神節主題曲](https://open.spotify.com/album/0gzHYfd384NNSGS3nNzbin) | 3:21 | 2024-03-18 | 2024-04-09 |
@@ -314,7 +314,7 @@
 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:44 | 2025-04-14 | 2025-05-27 |
 | [你有滿意嗎](https://open.spotify.com/track/2FIxAgNJfyhAFzDwJI1jZV) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [你有滿意嗎](https://open.spotify.com/album/1VOkhMPKUgKtFRRJvRUN10) | 4:16 | 2025-09-15 | 2025-10-14 |
 | [你沒等我去的舊金山](https://open.spotify.com/track/1aNVW0fujBVx7JTorTO1jn) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你沒等我去的舊金山](https://open.spotify.com/album/6yypkf89xPQyT1vvt3KcVF) | 3:49 | 2025-12-29 | 2026-01-15 |
-| [你沒等我去的舊金山](https://open.spotify.com/track/7xAxAHpkCfd6WG1lpKJFeS) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你沒等我去的舊金山](https://open.spotify.com/album/5qCkFMavsFt9DbLxjk8snd) | 3:49 | 2026-01-12 |  |
+| [你沒等我去的舊金山](https://open.spotify.com/track/7xAxAHpkCfd6WG1lpKJFeS) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你沒等我去的舊金山](https://open.spotify.com/album/5qCkFMavsFt9DbLxjk8snd) | 3:49 | 2026-01-12 | 2026-07-31 |
 | [你留下的愛](https://open.spotify.com/track/0uigwJnb3tLUBcO2Xhzipa) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [Bii WITH YOU](https://open.spotify.com/album/5EFyCMyWnQFRvlwek5z2il) | 4:13 | 2024-12-09 | 2024-12-17 |
 | [你的存在就是愛我](https://open.spotify.com/track/6zNJFftspkUP8X9L3w8XOF) | [阿密特](https://open.spotify.com/artist/2WpN5ddRbqM9mb2Xjxcy5l) | [你的存在就是愛我](https://open.spotify.com/album/6A1F39sLjdAXixswKLOsJU) | 3:45 | 2026-01-05 | 2026-02-03 |
 | [你的暗號](https://open.spotify.com/track/2GQqUXVGEJvHlZxcFXFZA1) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [你的暗號](https://open.spotify.com/album/6E21XXTV6Xy6P4M70V6l7f) | 4:15 | 2025-05-26 | 2025-09-02 |
@@ -1032,6 +1032,7 @@
 | [給我一支舞的時間](https://open.spotify.com/track/1gRipfNXBzH6NeAMvDCuUG) | [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa) | [給我一支舞的時間](https://open.spotify.com/album/1yjQxzd6YjofGhkGWUIoi5) | 3:03 | 2025-12-22 | 2025-12-30 |
 | [給我一槍](https://open.spotify.com/track/7McuqcfvOL7i4BOBgMrEkq) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [我墜落你自由](https://open.spotify.com/album/4yLGdlO6LRpg2I55eSbZJR) | 3:18 | 2026-06-11 |  |
 | [網戀](https://open.spotify.com/track/53eIFveFcbM5eeR5f7MTKU) | [莫宰羊](https://open.spotify.com/artist/2yN7qnZbV8krGJEB16nUOe) | [網戀](https://open.spotify.com/album/7c5kSTJ06llP2THkB3CRmm) | 3:03 | 2025-12-15 | 2025-12-23 |
+| [綿綿無絕期](https://open.spotify.com/track/2s00UudzwUn1i16mO3zjVw) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [虛華的夢想是一支刀](https://open.spotify.com/album/7MHsN476ET6hCo5gtdrZcT) | 4:12 | 2026-07-30 |  |
 | [緩緩](https://open.spotify.com/track/4cTQuOWb4NB4GnYpFbJyga) | [thehopend](https://open.spotify.com/artist/32lrEgDlSQ0p6KLJckSvXd) | [STAY AWAKE](https://open.spotify.com/album/71wfu556X51IH5xOMVTIxr) | 3:26 | 2024-12-16 | 2024-12-24 |
 | [縫補傷的人](https://open.spotify.com/track/3jEEH8chKE09e8ONgxo1Hw) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [縫補傷的人](https://open.spotify.com/album/2QmNxNAagoEXqjiF0MIkkC) | 4:31 | 2024-04-15 | 2024-04-23 |
 | [總是要面對](https://open.spotify.com/track/4OjU8wFwtpikoFOGY6eMo0) | [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl) | [總是要面對](https://open.spotify.com/album/75HiXlZCIQfPHyYYgGX7Xu) | 3:10 | 2024-06-10 | 2024-06-18 |
@@ -1164,6 +1165,7 @@
 | [運轉人生 \- 影集《華麗計程車行》插曲](https://open.spotify.com/track/30slz6D2PtbwDimGJaEVsH) | [邱軍](https://open.spotify.com/artist/5LKh6CH11tVjyXpxz2NjFW) | [情歌手](https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5) | 3:28 | 2024-05-20 | 2025-02-18 |
 | [過了幾天](https://open.spotify.com/track/1NBZVb5RDzp0Z6ckralQhW) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X) | [郭家瑋個人首張創作EP](https://open.spotify.com/album/1ntcCK26t4BaxlGCDz9TJl) | 4:56 | 2024-11-25 | 2024-12-03 |
 | [過了幾天 \- 合唱版](https://open.spotify.com/track/0qjbNZYyuzPh20RksmiJ8C) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [過了幾天 \(合唱版\)](https://open.spotify.com/album/4QPASVPRUjfXR73hmxVAJa) | 4:55 | 2025-01-06 | 2025-06-24 |
+| [過了幾天\(合唱版\)](https://open.spotify.com/track/4GEWZ1vDFVkmhG55zpKFLO) | [郭家瑋](https://open.spotify.com/artist/5EZkv9iiDdCJvhSQaRMj2X), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [過了幾天\(合唱版\)](https://open.spotify.com/album/06IQjkT67ciPebOSd4pdIP) | 4:55 | 2026-07-30 |  |
 | [過場人物 \(《TVBS 原創劇集 祕書俱樂部》片頭曲\)](https://open.spotify.com/track/4vG00x3GIOYGPCCgPkCGkB) | [Princess Ai](https://open.spotify.com/artist/71l6Wfk7PaTVPAOH7ln56V) | [過場人物 \(《TVBS 原創劇集 祕書俱樂部》片頭曲\)](https://open.spotify.com/album/6lxA0HtJhC2G8so5dFJWyN) | 4:04 | 2024-12-09 | 2024-12-17 |
 | [過度依賴 \(feat\. Karencici\)](https://open.spotify.com/track/1Hrzb5rDY5rMjIhXRWYbkY) | [step.jad](https://open.spotify.com/artist/2jGquYVg6oxsetfzxYNgkD), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [過度依賴 \(feat\. Karencici\)](https://open.spotify.com/album/0tpJpUrCxXiFuQOUBEVn3n) | 3:33 | 2025-12-22 | 2025-12-30 |
 | [過期](https://open.spotify.com/track/4vo5zsdH31KQSYHNYoBpRo) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [過期](https://open.spotify.com/album/3cjJO8KAcUWughFcL0aKlp) | 2:03 | 2024-12-16 | 2025-01-07 |

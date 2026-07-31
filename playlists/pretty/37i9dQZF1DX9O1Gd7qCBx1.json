@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 227267,
+  "num_followers": 227262,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFvhQ33CV44wzf2sjxp3W1M/LGQ2",
+  "snapshot_id": "AAAAAF7x5+WrgqP4tRyoOSVzk6ihzWbg",
   "tracks": [
     {
       "added_at": "2026-06-24 20:03:44",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/1UdavcEuofRFCq2Mq2278f"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 511333,
+      "name": "La llorona",
+      "url": "https://open.spotify.com/track/45rQqSqb95p5lkZy13Tl1u"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. II",
         "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 264533,
       "name": "Recu\u00e9rdame",
       "url": "https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/1UdavcEuofRFCq2Mq2278f"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 511333,
-      "name": "La llorona",
-      "url": "https://open.spotify.com/track/45rQqSqb95p5lkZy13Tl1u"
     },
     {
       "added_at": "2026-06-24 20:03:44",

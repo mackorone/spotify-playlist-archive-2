@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAAB2CMMgDmImTTda9VQ2SloJ",
+  "snapshot_id": "amlCgAAAAAAwXp2o2ce8/nZbmxmJeksP",
   "tracks": [
     {
       "added_at": null,
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
         }
       ],
-      "duration_ms": 204546,
-      "name": "Reno Silver",
-      "url": "https://open.spotify.com/track/06nEgP2Xm4Z68GCmR2GXtv"
+      "duration_ms": 246853,
+      "name": "A Thousand Steps",
+      "url": "https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9"
     },
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
         }
       ],
-      "duration_ms": 246853,
-      "name": "A Thousand Steps",
-      "url": "https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9"
+      "duration_ms": 204546,
+      "name": "Reno Silver",
+      "url": "https://open.spotify.com/track/06nEgP2Xm4Z68GCmR2GXtv"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 530000,
-      "name": "Grows Along the River Fast",
-      "url": "https://open.spotify.com/track/055kH8vTZLQDDVwZU4jmfO"
+      "duration_ms": 138000,
+      "name": "Alternative Futures",
+      "url": "https://open.spotify.com/track/5L9GKrpvOXHB9Zwk4TvWLh"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Alternative Futures",
-      "url": "https://open.spotify.com/track/5L9GKrpvOXHB9Zwk4TvWLh"
+      "duration_ms": 530000,
+      "name": "Grows Along the River Fast",
+      "url": "https://open.spotify.com/track/055kH8vTZLQDDVwZU4jmfO"
     },
     {
       "added_at": null,

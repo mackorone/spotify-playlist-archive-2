@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Love Spells
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,290,461 likes - 201 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,290,407 likes - 201 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 200 | [Keep It To Yourself](https://open.spotify.com/track/0UUnMVRHGJKFq4mlsld8GV) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Keep It To Yourself](https://open.spotify.com/album/3FQ8bzLV3poKkW6thJ04Tw) | 4:17 |
 | 201 | [Rock o’ Stone](https://open.spotify.com/track/21CU5fG0Pp0LUbXRDG1d48) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Philadelphia's been good to me](https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI) | 5:35 |
 
-Snapshot ID: `AAAAAHE+Bl1X6vz7OkzIEw5xW+iEjn88`
+Snapshot ID: `AAAAAO8acxL8BYjY0wNSI85YCCR3zasG`

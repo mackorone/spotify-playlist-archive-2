@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27ZvvzzPXrZ.md) - [plain]
 
 > Ancient evils\. Modern chills.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,838 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,841 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAALLtK80zs4G5GMqC5JfczVdp8GYk`
+Snapshot ID: `AAAAAGbve3N4eo+xuavw0lwCoId96JOn`

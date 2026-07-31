@@ -1,28 +1,28 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring Ineffekt. Curated by human Spotify editors. \n",
-  "num_followers": 215061,
+  "num_followers": 215076,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN5aWAJhYa00SLo2u2w8VkhDR6Mr",
+  "snapshot_id": "AAAAACe+8KC4OfJ03rlycVosuTIGn+s6",
   "tracks": [
     {
-      "added_at": "2026-07-23 04:00:10",
+      "added_at": "2026-07-30 05:08:29",
       "album": {
-        "name": "JELLY + OPTION",
-        "url": "https://open.spotify.com/album/0FDQD9ZnmThaUNfSjB07JN"
+        "name": "Rip",
+        "url": "https://open.spotify.com/album/1gtwDZAxz77f07RfOSILnS"
       },
       "artists": [
         {
-          "name": "Ineffekt",
-          "url": "https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg"
+          "name": "CLN (BR)",
+          "url": "https://open.spotify.com/artist/4yOZWdHpPuRHzV5tJcYqi5"
         }
       ],
-      "duration_ms": 210000,
-      "name": "OPTION",
-      "url": "https://open.spotify.com/track/6UgJhklY5LNzaRUHyFPKwD"
+      "duration_ms": 209783,
+      "name": "Rip - Radio Edit",
+      "url": "https://open.spotify.com/track/3ININm5AqJvi1qwVowzosN"
     },
     {
       "added_at": "2026-07-17 17:46:34",
@@ -43,18 +43,18 @@
     {
       "added_at": "2026-07-23 04:00:10",
       "album": {
-        "name": "Can't Stop",
-        "url": "https://open.spotify.com/album/6V5wSIEySaH5UpXnNC95oL"
+        "name": "JELLY + OPTION",
+        "url": "https://open.spotify.com/album/0FDQD9ZnmThaUNfSjB07JN"
       },
       "artists": [
         {
-          "name": "Ryan Witt",
-          "url": "https://open.spotify.com/artist/6zKpnWR7vklJup3WpbqqJT"
+          "name": "Ineffekt",
+          "url": "https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg"
         }
       ],
-      "duration_ms": 175970,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/0YCxEQBn14exH0yvKDZwq7"
+      "duration_ms": 210000,
+      "name": "OPTION",
+      "url": "https://open.spotify.com/track/6UgJhklY5LNzaRUHyFPKwD"
     },
     {
       "added_at": "2026-07-23 04:00:10",
@@ -73,20 +73,36 @@
       "url": "https://open.spotify.com/track/2B46X2ntT6j1iTiQ8sso7u"
     },
     {
-      "added_at": "2026-07-09 03:51:12",
+      "added_at": "2026-07-30 05:08:29",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0Q92nebW1oGdgpoNtiwcq3"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/6Syg2TWRICnxbSNyUJeBdd"
       },
       "artists": [
         {
-          "name": "Mat Eclair",
-          "url": "https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa"
+          "name": "Dafs",
+          "url": "https://open.spotify.com/artist/4o1Bvr2CXpQRuw7JnTaO4N"
         }
       ],
-      "duration_ms": 182255,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI"
+      "duration_ms": 213893,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6EAKZOdXVffeCjp4uWH02J"
+    },
+    {
+      "added_at": "2026-07-30 05:08:29",
+      "album": {
+        "name": "CATCH YA",
+        "url": "https://open.spotify.com/album/05tIEbIfwHwIVuyhXfefyF"
+      },
+      "artists": [
+        {
+          "name": "Sweatbaby",
+          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
+        }
+      ],
+      "duration_ms": 211775,
+      "name": "CATCH YA",
+      "url": "https://open.spotify.com/track/31vvjlFzZBaPZXvhwowt6G"
     },
     {
       "added_at": "2026-07-17 17:46:34",
@@ -103,6 +119,138 @@
       "duration_ms": 187942,
       "name": "Freak Me Baby",
       "url": "https://open.spotify.com/track/2zF9giZoXV6FeaYIIMVC9D"
+    },
+    {
+      "added_at": "2026-07-30 05:08:29",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/0ptoMQx6GdtnCA2iSskv4h"
+      },
+      "artists": [
+        {
+          "name": "Avesie",
+          "url": "https://open.spotify.com/artist/0jueca4QlNT4O11qSNkuF8"
+        },
+        {
+          "name": "Cowlin",
+          "url": "https://open.spotify.com/artist/7iSLn4jgftaWtHq1ZQ27ed"
+        }
+      ],
+      "duration_ms": 215985,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/6zJCcwaS8ocHybnIv81NGU"
+    },
+    {
+      "added_at": "2026-07-09 03:51:12",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0Q92nebW1oGdgpoNtiwcq3"
+      },
+      "artists": [
+        {
+          "name": "Mat Eclair",
+          "url": "https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa"
+        }
+      ],
+      "duration_ms": 182255,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI"
+    },
+    {
+      "added_at": "2026-07-30 05:08:29",
+      "album": {
+        "name": "can't take this",
+        "url": "https://open.spotify.com/album/4d3jcVA5RA8fMd28nRsIJK"
+      },
+      "artists": [
+        {
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
+        },
+        {
+          "name": "Ben Thrasher",
+          "url": "https://open.spotify.com/artist/6nN4uX9HV5ZNWwskrUHOM3"
+        }
+      ],
+      "duration_ms": 206294,
+      "name": "can't take this",
+      "url": "https://open.spotify.com/track/2Mr5R7A9KR1b5HRZIEBunZ"
+    },
+    {
+      "added_at": "2026-07-09 03:51:12",
+      "album": {
+        "name": "DURO (Te Te Te)",
+        "url": "https://open.spotify.com/album/3ba2EvvnVrN6texUB7uNg8"
+      },
+      "artists": [
+        {
+          "name": "Chicca Leaf",
+          "url": "https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ"
+        }
+      ],
+      "duration_ms": 167907,
+      "name": "DURO (Te Te Te)",
+      "url": "https://open.spotify.com/track/0WcdXAQYo6z2QqhFRlSJYI"
+    },
+    {
+      "added_at": "2026-07-30 05:08:29",
+      "album": {
+        "name": "Ijoya",
+        "url": "https://open.spotify.com/album/29khdSaqDrbAQIslKf2yyZ"
+      },
+      "artists": [
+        {
+          "name": "Arthi",
+          "url": "https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4"
+        },
+        {
+          "name": "Dismantle",
+          "url": "https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp"
+        },
+        {
+          "name": "\u00a3MONZO",
+          "url": "https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv"
+        }
+      ],
+      "duration_ms": 236079,
+      "name": "Ijoya",
+      "url": "https://open.spotify.com/track/0H4vIiZP7hr4SneIFVJTNc"
+    },
+    {
+      "added_at": "2026-07-30 05:08:29",
+      "album": {
+        "name": "Bad B$tch",
+        "url": "https://open.spotify.com/album/4kH82moo8TpsOtlwrbrnf9"
+      },
+      "artists": [
+        {
+          "name": "DvirNuns",
+          "url": "https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n"
+        },
+        {
+          "name": "DOX",
+          "url": "https://open.spotify.com/artist/36jHmnMMKH4XOhdAj4LGe3"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bad B$tch",
+      "url": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
+    },
+    {
+      "added_at": "2026-07-23 04:00:10",
+      "album": {
+        "name": "Can't Stop",
+        "url": "https://open.spotify.com/album/6V5wSIEySaH5UpXnNC95oL"
+      },
+      "artists": [
+        {
+          "name": "Ryan Witt",
+          "url": "https://open.spotify.com/artist/6zKpnWR7vklJup3WpbqqJT"
+        }
+      ],
+      "duration_ms": 175970,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/0YCxEQBn14exH0yvKDZwq7"
     },
     {
       "added_at": "2026-07-23 04:00:10",
@@ -143,22 +291,6 @@
       "duration_ms": 197142,
       "name": "Face Lift",
       "url": "https://open.spotify.com/track/3bxAXuXzrq03AMokEBj90O"
-    },
-    {
-      "added_at": "2026-07-09 03:51:12",
-      "album": {
-        "name": "DURO (Te Te Te)",
-        "url": "https://open.spotify.com/album/3ba2EvvnVrN6texUB7uNg8"
-      },
-      "artists": [
-        {
-          "name": "Chicca Leaf",
-          "url": "https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ"
-        }
-      ],
-      "duration_ms": 167907,
-      "name": "DURO (Te Te Te)",
-      "url": "https://open.spotify.com/track/0WcdXAQYo6z2QqhFRlSJYI"
     },
     {
       "added_at": "2026-07-23 04:00:10",
@@ -557,26 +689,6 @@
       "url": "https://open.spotify.com/track/6rWdAbniutWlBsK1m7j8Tb"
     },
     {
-      "added_at": "2026-07-09 03:51:12",
-      "album": {
-        "name": "Sexy M.F.",
-        "url": "https://open.spotify.com/album/00AlMosmwfWjRlmZ4g2Guk"
-      },
-      "artists": [
-        {
-          "name": "Jackie (IT)",
-          "url": "https://open.spotify.com/artist/5bKh6DOIC8AJZwHDtRAg1d"
-        },
-        {
-          "name": "AVIV SAB",
-          "url": "https://open.spotify.com/artist/4bAjlKHnoyqHLW1UU7T0w3"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Sexy M.F.",
-      "url": "https://open.spotify.com/track/2hins9cH9m8KjulLxCTMPx"
-    },
-    {
       "added_at": "2026-06-17 16:50:54",
       "album": {
         "name": "Terapia EP",
@@ -713,22 +825,6 @@
       "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
     },
     {
-      "added_at": "2026-07-09 03:51:12",
-      "album": {
-        "name": "Superfly",
-        "url": "https://open.spotify.com/album/6Dr4223QDzs47pKWn1La01"
-      },
-      "artists": [
-        {
-          "name": "KamJam",
-          "url": "https://open.spotify.com/artist/08IsHJRPITgKXaQ0icJn7Z"
-        }
-      ],
-      "duration_ms": 234193,
-      "name": "Superfly",
-      "url": "https://open.spotify.com/track/1pFNO6mcPvCc795F0d7dhI"
-    },
-    {
       "added_at": "2026-06-11 00:10:38",
       "album": {
         "name": "cherry spice",
@@ -763,22 +859,6 @@
     {
       "added_at": "2026-07-02 15:36:57",
       "album": {
-        "name": "don't you miss me",
-        "url": "https://open.spotify.com/album/3926g3gdPUSeCr8oILWFVG"
-      },
-      "artists": [
-        {
-          "name": "Aki Oke",
-          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
-        }
-      ],
-      "duration_ms": 203230,
-      "name": "don't you miss me",
-      "url": "https://open.spotify.com/track/52zrmEuyescE1mlhBPtdkA"
-    },
-    {
-      "added_at": "2026-07-02 15:36:57",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/0oEmpsIHbFKHuAJrEw5hqL"
       },
@@ -791,22 +871,6 @@
       "duration_ms": 179750,
       "name": "Rain",
       "url": "https://open.spotify.com/track/2iIgPKqAgsJY8mv9hUKiKw"
-    },
-    {
-      "added_at": "2026-07-02 15:36:57",
-      "album": {
-        "name": "Talk Of The Town",
-        "url": "https://open.spotify.com/album/3BrAMSGwliHL4h29trbFHc"
-      },
-      "artists": [
-        {
-          "name": "Butters",
-          "url": "https://open.spotify.com/artist/2bJsNg3FLooqOymiRx2F1e"
-        }
-      ],
-      "duration_ms": 170649,
-      "name": "Talk Of The Town",
-      "url": "https://open.spotify.com/track/0ljpW4YHCAPv2xfwPkyxhh"
     },
     {
       "added_at": "2026-06-09 17:47:06",
@@ -849,22 +913,6 @@
       "url": "https://open.spotify.com/track/2TKUS9hoarxOCQwiO7drVS"
     },
     {
-      "added_at": "2026-06-17 16:50:54",
-      "album": {
-        "name": "Show U Sexy",
-        "url": "https://open.spotify.com/album/4WIdUxqQjTVZ2REhNKxf9A"
-      },
-      "artists": [
-        {
-          "name": "DEDRO",
-          "url": "https://open.spotify.com/artist/22z7myWEqruGZpYuQKg4cQ"
-        }
-      ],
-      "duration_ms": 187559,
-      "name": "Show U Sexy",
-      "url": "https://open.spotify.com/track/6H3Qhv1dzL5pbtrQ7Kh7Cx"
-    },
-    {
       "added_at": "2026-05-15 04:01:46",
       "album": {
         "name": "Journey EP",
@@ -879,38 +927,6 @@
       "duration_ms": 181108,
       "name": "Journey",
       "url": "https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19"
-    },
-    {
-      "added_at": "2026-07-02 15:36:57",
-      "album": {
-        "name": "Got 2 Feel",
-        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "Got 2 Feel",
-      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
-    },
-    {
-      "added_at": "2026-07-02 15:36:57",
-      "album": {
-        "name": "Ice Cream / Lethal",
-        "url": "https://open.spotify.com/album/04jx9OvFId3TcXvt6NBHKG"
-      },
-      "artists": [
-        {
-          "name": "Casmalia",
-          "url": "https://open.spotify.com/artist/0FjiqQ7BLtYmZ7ONpS7cTT"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/6N7Tq65n26SvIVGiLwSzYE"
     },
     {
       "added_at": "2026-06-12 16:40:18",

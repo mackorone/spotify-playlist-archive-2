@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The cutting edge in new, contemporary Ambient, Atmospheric & Neo\-Classical 🪐 Cover: Bibio & Dorian Concept
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,232 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,302 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Youth](https://open.spotify.com/track/1hThWE36H46vtJX9qzHvHk) | [IOTO](https://open.spotify.com/artist/4xNKksDTNI18J2z55SRqGU) | [Youth](https://open.spotify.com/album/3VfPucGpvIRzyRIOPOUjKP) | 3:16 |
 | 100 | [Sunset III](https://open.spotify.com/track/6BcjbcG9pcOVdt44WNvd8s) | [SUSS](https://open.spotify.com/artist/3qb5O9pLE0urqttdq4CqLS) | [Counting Sunsets](https://open.spotify.com/album/0tA6nSLBJ02G274Py3mhGz) | 3:39 |
 
-Snapshot ID: `AAAAAPswjjV0gH4vMducbKrP9y/te7hy`
+Snapshot ID: `AAAAAHgkHY1eYLkOMj5w/T9IafOyt5W4`

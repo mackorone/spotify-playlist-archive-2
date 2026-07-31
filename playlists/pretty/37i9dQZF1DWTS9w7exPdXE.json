@@ -1,12 +1,12 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 168959,
+  "num_followers": 169041,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJAKpZMgvs6/zMkQ/ndVUvslBKud",
+  "snapshot_id": "AAAAAIkoYtqEnTmSnm/UmaEKqRIvQdRd",
   "tracks": [
     {
       "added_at": "2026-06-17 07:46:41",
@@ -199,22 +199,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Strijdlustig",
-        "url": "https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 241626,
-      "name": "Bloed, Zweet En Tranen",
-      "url": "https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Vanavond (Uit M'n Bol)",
         "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 166560,
       "name": "Vanavond (Uit M'n Bol)",
       "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Strijdlustig",
+        "url": "https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Bloed, Zweet En Tranen",
+      "url": "https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Gewoon Andre",
-        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 254266,
-      "name": "Een Beetje Verliefd",
-      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "De Stad",
         "url": "https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 158857,
       "name": "De Stad",
       "url": "https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Gewoon Andre",
+        "url": "https://open.spotify.com/album/6toU0S9DdSnpkwFaguQgIe"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 254266,
+      "name": "Een Beetje Verliefd",
+      "url": "https://open.spotify.com/track/0XLlGrXn98Td1cPAeKcZns"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Maak Me Gek",
-        "url": "https://open.spotify.com/album/0i45L4c4qL4M4TJtASfPiT"
-      },
-      "artists": [
-        {
-          "name": "Gerard Joling",
-          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Maak Me Gek",
-      "url": "https://open.spotify.com/track/2NRM0hWzeQkkiY2qMKBkPg"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Jouw Glimlach Op Je Mond",
         "url": "https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 223440,
       "name": "Lekkerding",
       "url": "https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Maak Me Gek",
+        "url": "https://open.spotify.com/album/0i45L4c4qL4M4TJtASfPiT"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Maak Me Gek",
+      "url": "https://open.spotify.com/track/2NRM0hWzeQkkiY2qMKBkPg"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Drink Rode Wijn",
-        "url": "https://open.spotify.com/album/2eUCtZLQrk8l2Js1bBQm3R"
-      },
-      "artists": [
-        {
-          "name": "Donny Ponsen",
-          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
-        }
-      ],
-      "duration_ms": 210530,
-      "name": "Drink Rode Wijn",
-      "url": "https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Gina",
         "url": "https://open.spotify.com/album/3OO7avslFyhPayBU2Ev1vi"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 241583,
       "name": "Zij Weet Het - Studio Versie",
       "url": "https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Drink Rode Wijn",
+        "url": "https://open.spotify.com/album/2eUCtZLQrk8l2Js1bBQm3R"
+      },
+      "artists": [
+        {
+          "name": "Donny Ponsen",
+          "url": "https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N"
+        }
+      ],
+      "duration_ms": 210530,
+      "name": "Drink Rode Wijn",
+      "url": "https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "De Jonge Jaren van Toontje Lager - 50 Jaar Nederpop",
-        "url": "https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr"
-      },
-      "artists": [
-        {
-          "name": "Toontje Lager",
-          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
-        }
-      ],
-      "duration_ms": 214975,
-      "name": "Stiekem Gedanst",
-      "url": "https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Dit Is Het Levenslied",
         "url": "https://open.spotify.com/album/4SbVeX0bcpWLLFlyTMMvlc"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 196484,
       "name": "Mijn Liefste",
       "url": "https://open.spotify.com/track/6YcSltJaaE9cVN6tQ3bUKq"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "De Jonge Jaren van Toontje Lager - 50 Jaar Nederpop",
+        "url": "https://open.spotify.com/album/2aTTEiGgwrBkwXbJmlZYTr"
+      },
+      "artists": [
+        {
+          "name": "Toontje Lager",
+          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
+        }
+      ],
+      "duration_ms": 214975,
+      "name": "Stiekem Gedanst",
+      "url": "https://open.spotify.com/track/1tU5J8aMqCQe7WtqTkFLQL"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Spijt Is Voor Later",
-        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
-      },
-      "artists": [
-        {
-          "name": "Martin Morero",
-          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
-        }
-      ],
-      "duration_ms": 164573,
-      "name": "Spijt Is Voor Later",
-      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 225040,
       "name": "Het Is Een Nacht... (Levensecht)",
       "url": "https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "Spijt Is Voor Later",
+        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
+      },
+      "artists": [
+        {
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
+        }
+      ],
+      "duration_ms": 164573,
+      "name": "Spijt Is Voor Later",
+      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "De Laatste",
         "url": "https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao"
       },
@@ -1695,38 +1711,6 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Sugardaddy",
-        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 131796,
-      "name": "Sugardaddy",
-      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 172235,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
         "name": "Zomer In M'n Bol (feat. Andr\u00e9 Hazes)",
         "url": "https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5"
       },
@@ -1755,18 +1739,34 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Turk Uit De Kroeg",
-        "url": "https://open.spotify.com/album/08M8jwAA0PILLWMOll53r9"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz"
       },
       "artists": [
         {
-          "name": "Ammar",
-          "url": "https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb"
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
         }
       ],
-      "duration_ms": 192500,
-      "name": "Turk Uit De Kroeg",
-      "url": "https://open.spotify.com/track/37oajE6ezfuQ1tjyWlF0UW"
+      "duration_ms": 172235,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
+        "name": "5 In De Klok",
+        "url": "https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "duration_ms": 187611,
+      "name": "5 In De Klok",
+      "url": "https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG"
     }
   ],
   "unique_name": "Hollandse Meezingers",

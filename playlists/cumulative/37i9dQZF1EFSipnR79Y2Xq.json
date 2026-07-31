@@ -2869,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "El Rey del Despecho",
+        "url": "https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177584,
+      "name": "\u00bfEn Qu\u00e9 Estaba Pensando?",
+      "url": "https://open.spotify.com/track/6ymHCtK4kTyGPzZxVbuUNn"
+    },
+    {
+      "album": {
         "name": "\u00bfQui\u00e9n Me Manda?",
         "url": "https://open.spotify.com/album/31Z8Yu79Kgbc1ameinFWZL"
       },

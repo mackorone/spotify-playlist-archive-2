@@ -1,12 +1,12 @@
 {
   "description": "This is Big Thief. The essential tracks, all in one playlist.",
-  "num_followers": 47021,
+  "num_followers": 47036,
   "original_name": "This Is Big Thief",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAACQoqOadHFomFAOmzrgWBvX",
+  "snapshot_id": "amlCgAAAAAAi/p1oSyQd4gv8xfTjbVPy",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 123320,
-      "name": "Rock and Sing",
-      "url": "https://open.spotify.com/track/5kfH55pli3gCkprV3OJerd"
+      "duration_ms": 282320,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/5dW8gOPZsZRQOzjdmcOREc"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         }
       ],
-      "duration_ms": 282320,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/5dW8gOPZsZRQOzjdmcOREc"
+      "duration_ms": 123320,
+      "name": "Rock and Sing",
+      "url": "https://open.spotify.com/track/5kfH55pli3gCkprV3OJerd"
     },
     {
       "added_at": null,

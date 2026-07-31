@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Kodoku
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,393 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,434 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 74 | [WALKING IN THIS WORLD](https://open.spotify.com/track/4KjdeNqqVhZLNGUsrHC7NA) | [Ally Minju](https://open.spotify.com/artist/3jZQxUxjnQ753paNQHHuUk) | [STOP PLAYING WITH MY GOD.](https://open.spotify.com/album/6mCkj6GPAL2OHjWozG8Vo0) | 2:49 |
 | 75 | [Mind](https://open.spotify.com/track/6I4VTUM4BcyKI3HcniKRSH) | [DeAngelo](https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE) | [Mind](https://open.spotify.com/album/1H4TNZO6rWSRgmoQp9qv1x) | 2:38 |
 
-Snapshot ID: `AAAAAAa/Zgg8zQaFhuGlkt6gCbyrXXIZ`
+Snapshot ID: `AAAAAEEdt9i8JR98mURyQ4cBAZ2HqjII`

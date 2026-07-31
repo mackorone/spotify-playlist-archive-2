@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "BB ASUL en portada. ",
+  "description": "Chechi de Marcos en portada. ",
   "name": "alt.ar",
   "tracks": [
     {
@@ -2337,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Ciencia Oculta",
+        "url": "https://open.spotify.com/album/2Gyqm5ta0ObD8PySVDc1vU"
+      },
+      "artists": [
+        {
+          "name": "J\u00fapiter en Casa",
+          "url": "https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134534,
+      "name": "Ciencia Oculta",
+      "url": "https://open.spotify.com/track/6BDgKP636bFaGVddl5T3ea"
+    },
+    {
+      "album": {
         "name": "Por ces\u00e1rea",
         "url": "https://open.spotify.com/album/633jS6fM44Zbr1gyI0eF19"
       },
@@ -2526,6 +2544,28 @@
       "duration_ms": 240520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
+    },
+    {
+      "album": {
+        "name": "Como luces",
+        "url": "https://open.spotify.com/album/1YDImf8KB6avGtj7INB0FY"
+      },
+      "artists": [
+        {
+          "name": "Lichi",
+          "url": "https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht"
+        },
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196507,
+      "name": "Como luces",
+      "url": "https://open.spotify.com/track/6Xuqtd9RcMqDUjDGo0OXv4"
     },
     {
       "album": {
@@ -4440,7 +4480,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 187570,
       "name": "Finding Pleasure",
       "url": "https://open.spotify.com/track/1hN4na4iW3XSFWSxPIH1dI"
@@ -4556,7 +4596,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 121230,
       "name": "FUchi!",
       "url": "https://open.spotify.com/track/5Bsv2rBz9pJdvyG8UiSN8m"
@@ -4876,7 +4916,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 213749,
       "name": "Hazy x Ti",
       "url": "https://open.spotify.com/track/32PH9SwqGeEpmyHfe64bn9"
@@ -5145,6 +5185,24 @@
     },
     {
       "album": {
+        "name": "LA OTRA MEJILLA",
+        "url": "https://open.spotify.com/album/4jreImi91npBoxGxsEbUcv"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175768,
+      "name": "INGRATA",
+      "url": "https://open.spotify.com/track/3r2gc9oSXLMmu8fVyDaCdO"
+    },
+    {
+      "album": {
         "name": "Hola Precioso",
         "url": "https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty"
       },
@@ -5306,7 +5364,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 176982,
       "name": "KE NADIE ME CORRIJA",
       "url": "https://open.spotify.com/track/2iH6noHeu22NXSQF0k3QwE"
@@ -5634,7 +5692,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 154912,
       "name": "La M\u00e1quina",
       "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
@@ -9128,7 +9186,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 144829,
       "name": "paso de hombre",
       "url": "https://open.spotify.com/track/0izmdotjNAeGI14r24H5hL"
@@ -9470,7 +9528,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 171846,
       "name": "Pinky",
       "url": "https://open.spotify.com/track/3rLeIIU6jILu8NmL0fmaRK"
@@ -9757,6 +9815,28 @@
     },
     {
       "album": {
+        "name": "Presentimiento",
+        "url": "https://open.spotify.com/album/2YgCANKfjd7HotPuRr5tvQ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Morgade",
+          "url": "https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF"
+        },
+        {
+          "name": "Carmen S\u00e1nchez Viamonte",
+          "url": "https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211918,
+      "name": "Presentimiento",
+      "url": "https://open.spotify.com/track/75gXbcgQ5qf2o64zRnRtwA"
+    },
+    {
+      "album": {
         "name": "Pretensi\u00f3n",
         "url": "https://open.spotify.com/album/5bQwMXvaPokI7ZJqEnDLKF"
       },
@@ -9816,6 +9896,32 @@
       "duration_ms": 166406,
       "name": "princess peach",
       "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+    },
+    {
+      "album": {
+        "name": "IKE II",
+        "url": "https://open.spotify.com/album/6LurkyHjnpPeytUHmeA0lj"
+      },
+      "artists": [
+        {
+          "name": "Cirilo Fernandez",
+          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+        },
+        {
+          "name": "jjjuli\u00e1n",
+          "url": "https://open.spotify.com/artist/1QQyeUqjjqvo9CNTIkzTAE"
+        },
+        {
+          "name": "Reimon Lesbegueris",
+          "url": "https://open.spotify.com/artist/5vi86guMTgo0xAMaF28MP1"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199365,
+      "name": "Profesional",
+      "url": "https://open.spotify.com/track/4FXoNc11fYa5EKYEooUz3Q"
     },
     {
       "album": {
@@ -9968,7 +10074,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 193902,
       "name": "PUTAS - Spotify Sessions",
       "url": "https://open.spotify.com/track/4jhSKN2r5mIHybTDiJxFi7"
@@ -10078,7 +10184,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 157419,
       "name": "Quedateloo-O",
       "url": "https://open.spotify.com/track/0KU2sqzPNNU8I4LhKO2D5g"
@@ -10590,7 +10696,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 165653,
       "name": "roger",
       "url": "https://open.spotify.com/track/3s4l3PJYCqEPaD7WDaZmEF"
@@ -11149,6 +11255,24 @@
     },
     {
       "album": {
+        "name": "Soy as\u00ed",
+        "url": "https://open.spotify.com/album/5N2mzKkmpYQAVEOudpFR2E"
+      },
+      "artists": [
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176655,
+      "name": "Soy as\u00ed",
+      "url": "https://open.spotify.com/track/7Gtvrd3Zu7ntDLKpSsrHO3"
+    },
+    {
+      "album": {
         "name": "Soy d\u00e9bil Sr.",
         "url": "https://open.spotify.com/album/6XLmWFiQkDJ756tIB01dd7"
       },
@@ -11368,6 +11492,24 @@
       "duration_ms": 203000,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/7cCH0NftLAPzwLwKHMSyks"
+    },
+    {
+      "album": {
+        "name": "Inhibidor",
+        "url": "https://open.spotify.com/album/3pKSAQaC5qUpRAhRg5BRVk"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241919,
+      "name": "s\u00e9 que va a venir",
+      "url": "https://open.spotify.com/track/4CdsEPDWvoNL249vSYhxyp"
     },
     {
       "album": {
@@ -12045,6 +12187,24 @@
     },
     {
       "album": {
+        "name": "Mufa",
+        "url": "https://open.spotify.com/album/2yDtotEpwIu1FwzOMDyWvO"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/2Ue0ENvYUExp226UWUNXaR"
+    },
+    {
+      "album": {
         "name": "Traficando Rap",
         "url": "https://open.spotify.com/album/6AVwplC1dMqFzAt2tGm7g5"
       },
@@ -12444,6 +12604,24 @@
       "duration_ms": 222908,
       "name": "un d\u00eda",
       "url": "https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14"
+    },
+    {
+      "album": {
+        "name": "Un papel en la heladera",
+        "url": "https://open.spotify.com/album/53K26ICfxacYdtvW00nOIL"
+      },
+      "artists": [
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177013,
+      "name": "Un papel en la heladera",
+      "url": "https://open.spotify.com/track/6DYqNzaD9RdefOCOSS0q5v"
     },
     {
       "album": {

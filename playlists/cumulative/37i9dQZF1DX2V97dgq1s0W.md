@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The voices shaping R&B\. Cover: DAMEDAME\*
+> The voices shaping R&B\. Cover: Odeal
 
-660 songs - 1 day 11 hr 5 min
+662 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Come Find Me](https://open.spotify.com/track/2JXhIOii8XvolNWAZuQtuH) | [Liét](https://open.spotify.com/artist/1ES79pFtKmov7q67DnoxXI) | [Come Find Me](https://open.spotify.com/album/0GEimT8iHZ2si6ZoEx5M4M) | 2:26 | 2024-07-24 | 2024-10-11 |
 | [Come Home](https://open.spotify.com/track/51YSHFD4wFUjUkafKlPuuV) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF) | [Come Home](https://open.spotify.com/album/7Gz1S0Pnz6FrH80PZNWpoI) | 3:48 | 2025-09-11 | 2026-01-15 |
 | [Comets + Gold](https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Comets + Gold](https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W) | 3:08 | 2026-06-18 |  |
+| [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 | 2026-07-30 |  |
 | [Conversation](https://open.spotify.com/track/20L7PliDhO2c0mvoeDXu04) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Conversation](https://open.spotify.com/album/2fcA8uAebc2l0T4xNt8qof) | 3:43 | 2026-04-24 | 2026-07-24 |
 | [couture](https://open.spotify.com/track/391NOaXhF0TrlCgwDu3T5V) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [couture](https://open.spotify.com/album/4b1pJ5a1P2JnpstHQLDQ3c) | 2:33 | 2026-01-16 | 2026-04-17 |
 | [Crack The Code](https://open.spotify.com/track/34fBEXWe5wFNiVPZPk0fcY) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [Crack The Code](https://open.spotify.com/album/7ARxIIcRGbKrjyfO5UXa2q) | 3:00 | 2026-04-30 |  |
@@ -392,6 +393,7 @@
 | [Moonlight](https://open.spotify.com/track/2wUnNvShBARNL6a6HwIPr4) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Devotion & The Black Divine](https://open.spotify.com/album/7CojnTD4egy26jrFMeiXKD) | 3:50 | 2025-09-26 | 2026-04-10 |
 | [MORE](https://open.spotify.com/track/42ytAVcWCLJuaY7wGCbi5Y) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [MORE](https://open.spotify.com/album/3rhEkxqugYGVqkiGapPZ7N) | 2:28 | 2026-07-16 |  |
 | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8) | 3:32 | 2025-05-09 | 2025-10-03 |
+| [More Of You](https://open.spotify.com/track/59FNEgSTq2o442TKFHtLMx) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [More Of You](https://open.spotify.com/album/4m9FIQVMM9Ut01gmjBfDrw) | 3:19 | 2026-07-30 |  |
 | [Motion Sickness](https://open.spotify.com/track/6efGBx7ImAe7IabZmALSOG) | [Sons of Sonix](https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Motion Sickness](https://open.spotify.com/album/7kWSwxp6LBxZESeiOBVuqn) | 3:01 | 2024-05-20 | 2025-01-17 |
 | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/track/39NAN04MOSgsU8q3RMNjYs) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [move it along \(feat\. Leon Thomas\)](https://open.spotify.com/album/6WVqFk4XkRDtEjcxIrixZx) | 3:15 | 2025-07-24 | 2026-01-16 |
 | [Mr\. Postman](https://open.spotify.com/track/1mntRFhXAefGklhOwPtYMT) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Mr\. Postman](https://open.spotify.com/album/2j2XYXQKyY53hMwiUb4t5d) | 3:41 | 2026-01-16 | 2026-06-05 |
@@ -469,7 +471,7 @@
 | [Pressha](https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Pressha](https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB) | 4:16 | 2026-01-09 | 2026-03-27 |
 | [Pressure](https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Pressure](https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO) | 2:38 | 2023-02-23 | 2023-05-15 |
 | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/track/6NqVCvwed3MKWNOtGNi02Z) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Pressure Points \(feat\. Lila Iké\)](https://open.spotify.com/album/1VER1K3F9ynMrmB8KjCCUX) | 2:50 | 2025-01-31 | 2025-06-27 |
-| [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 | 2025-11-21 |  |
+| [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 | 2025-11-21 | 2026-07-31 |
 | [Price Of It All](https://open.spotify.com/track/3k6anb87t7yI9bcLgZqHso) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Price Of It All \(Music From the Original Series "Bait"\)](https://open.spotify.com/album/05qGKQXREYEZ8664u1Dn96) | 3:04 | 2026-03-20 |  |
 | [Pride](https://open.spotify.com/track/3HiVqLksar2QNbgXOjDRYm) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Pride](https://open.spotify.com/album/7trfAzxwXmdxFnZZT3TQ5y) | 2:23 | 2024-11-01 | 2025-03-28 |
 | [PROMISE](https://open.spotify.com/track/7Fs6E2JVl6LthzLgFcrx4r) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [PROMISE](https://open.spotify.com/album/7oWYUxwVjjoegzzbFGbLQV) | 3:43 | 2025-05-15 | 2026-02-13 |
@@ -528,7 +530,7 @@
 | [Since You've Been Gone](https://open.spotify.com/track/0xm6AATpiaDaVQce6DecIZ) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Since You've Been Gone](https://open.spotify.com/album/1SC9B04nmP42O8ckTuelR8) | 3:46 | 2023-05-14 | 2023-07-22 |
 | [SINCERITY](https://open.spotify.com/track/6vsviYXBwZkX3LUdXcnxC1) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [SINCERITY](https://open.spotify.com/album/6hQ3ZgQh0JAaNDP2GOwBOQ) | 2:47 | 2025-04-25 | 2025-09-12 |
 | [Sinner](https://open.spotify.com/track/7e9FvhmqibLIhZ6x8bKyT4) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:54 | 2023-02-23 | 2023-05-15 |
-| [Sinner](https://open.spotify.com/track/0MUSX7J41ns5rBseSaxuyT) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Sinner](https://open.spotify.com/album/4pXAW15Q6SBg09Sl7lYxFF) | 2:51 | 2026-03-27 |  |
+| [Sinner](https://open.spotify.com/track/0MUSX7J41ns5rBseSaxuyT) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Sinner](https://open.spotify.com/album/4pXAW15Q6SBg09Sl7lYxFF) | 2:51 | 2026-03-27 | 2026-07-31 |
 | [Slow Dancing](https://open.spotify.com/track/6F7OCdwLWwJWkNB4qCGDOr) | [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be), [Kincy](https://open.spotify.com/artist/1GXcNIFheqCVINLrF8Is53) | [Slow Dancing](https://open.spotify.com/album/2mnONj1DFsjtCAFc3dJBlV) | 3:46 | 2023-05-14 | 2023-10-28 |
 | [Slow Grind](https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Slow Grind](https://open.spotify.com/album/3BYP5vePLZqrYrMYoTuAYe) | 3:39 | 2025-02-14 | 2025-07-25 |
 | [Smoov](https://open.spotify.com/track/5Yj6xkBg6LQ6zOWrpjIPUO) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Smoov](https://open.spotify.com/album/25nS0vLEH890SRtn0ziKIL) | 3:03 | 2025-11-21 | 2026-05-15 |

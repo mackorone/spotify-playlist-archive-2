@@ -2227,6 +2227,24 @@
     },
     {
       "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6ZGbVIMdWHzwRzQxTpyniI"
+      },
+      "artists": [
+        {
+          "name": "catera",
+          "url": "https://open.spotify.com/artist/1HqolIuWDd0nNNXfHQabWm"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272807,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/63S7LSlwS53jXGHabrRSGE"
+    },
+    {
+      "album": {
         "name": "Anch'io (feat. Anna Carol)",
         "url": "https://open.spotify.com/album/63mEC3gudkRM0WWKswM2M0"
       },
@@ -2877,6 +2895,28 @@
     },
     {
       "album": {
+        "name": "Aria",
+        "url": "https://open.spotify.com/album/6BnIsDuxNtuwcQjnftC3Co"
+      },
+      "artists": [
+        {
+          "name": "ggiovanni",
+          "url": "https://open.spotify.com/artist/1oT8K7RFmacAPafRlcdnw9"
+        },
+        {
+          "name": "Umarell",
+          "url": "https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/6tZYQlm9KIN51mgE6lRNzs"
+    },
+    {
+      "album": {
         "name": "aria",
         "url": "https://open.spotify.com/album/6NnEwPBPWrCxlpxp014lOU"
       },
@@ -3380,7 +3420,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 197415,
       "name": "BABY BANANA",
       "url": "https://open.spotify.com/track/52et5l2RCMKC4wcRgtwLZv"
@@ -8193,6 +8233,24 @@
     },
     {
       "album": {
+        "name": "Cuc\u00f9 Mar\u00ec",
+        "url": "https://open.spotify.com/album/1CA9mRlb9zrhjLpGJo2UNL"
+      },
+      "artists": [
+        {
+          "name": "Napoleone",
+          "url": "https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184639,
+      "name": "Cuc\u00f9 Mar\u00ec",
+      "url": "https://open.spotify.com/track/0FrAU0976hBo05p16eYAsS"
+    },
+    {
+      "album": {
         "name": "cuore semplice",
         "url": "https://open.spotify.com/album/6Ff59SWynPOrTbtwqDFYm5"
       },
@@ -8356,6 +8414,24 @@
       "duration_ms": 175000,
       "name": "da questo non si torna",
       "url": "https://open.spotify.com/track/1UJWkw9zS2c0GV0VPO8gHC"
+    },
+    {
+      "album": {
+        "name": "DALIE",
+        "url": "https://open.spotify.com/album/2jmXiwTVp4HWpRHervxSAT"
+      },
+      "artists": [
+        {
+          "name": "Ophelia Lia",
+          "url": "https://open.spotify.com/artist/3VBPvCalDAaE5MJHkMAuDk"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185060,
+      "name": "DALIE",
+      "url": "https://open.spotify.com/track/2c3b1kn5tcVA7UBvh26KGj"
     },
     {
       "album": {
@@ -9454,7 +9530,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 229150,
       "name": "Domani",
       "url": "https://open.spotify.com/track/1rP1VNE1pdjARdsoknK9YD"
@@ -12762,7 +12838,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 150250,
       "name": "giornate perse",
       "url": "https://open.spotify.com/track/0F6y4H8xU4cjYzeeKXYxdV"
@@ -18575,6 +18651,24 @@
     },
     {
       "album": {
+        "name": "Maggio",
+        "url": "https://open.spotify.com/album/4ZCoLoIyORK6eHv06eJQnS"
+      },
+      "artists": [
+        {
+          "name": "Eleonora Toscani",
+          "url": "https://open.spotify.com/artist/77d3usyZLz9TS7PBxGRVaD"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228223,
+      "name": "Maggio",
+      "url": "https://open.spotify.com/track/6rEB5luZKJ3O7h1ykx1RFU"
+    },
+    {
+      "album": {
         "name": "MAGIA",
         "url": "https://open.spotify.com/album/1IgZhyPEfxwTB550prIc0G"
       },
@@ -23090,7 +23184,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 184000,
       "name": "odiami se vuoi",
       "url": "https://open.spotify.com/track/6XJInuNiQ02ZiGD8FZMmnF"
@@ -25016,7 +25110,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 232835,
       "name": "perdersi",
       "url": "https://open.spotify.com/track/2bZwh76HQSXkTtfmbowpwc"
@@ -32420,7 +32514,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 162985,
       "name": "Teremmer\u00ec",
       "url": "https://open.spotify.com/track/3RwYyXSbUO7W0r3MLsXqkJ"
@@ -34394,6 +34488,24 @@
       "duration_ms": 163935,
       "name": "Un giorno triste (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/1ADf9yY4ATx5Sg64SeGMlW"
+    },
+    {
+      "album": {
+        "name": "Un istante (From \"Zitto e guida\")",
+        "url": "https://open.spotify.com/album/2b60g9jFeFJlflkdZTt1th"
+      },
+      "artists": [
+        {
+          "name": "Elisa Benetti",
+          "url": "https://open.spotify.com/artist/6X4GKXwvYRDPVzIKYdCpil"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128597,
+      "name": "Un istante (From \"Zitto e Guida)",
+      "url": "https://open.spotify.com/track/3mW762ED5aZ38ZBtNng9Hi"
     },
     {
       "album": {

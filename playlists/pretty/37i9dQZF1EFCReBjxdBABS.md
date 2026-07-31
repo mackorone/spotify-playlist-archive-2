@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 95 | [Rosalee](https://open.spotify.com/track/1dlddvHp5NcSIQB8XMaMDf) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 3:53 |
 | 96 | [What's Mine Is Yours](https://open.spotify.com/track/1PuU0rcStbl1TkCwSaCYmq) | [Ryan and Rory](https://open.spotify.com/artist/2GhFq4SQPUb3GaBp1ec9pC) | [What's Mine Is Yours](https://open.spotify.com/album/4CGkjLqKhv1Xg47kgyTf22) | 2:21 |
 | 97 | [Buy A Bar](https://open.spotify.com/track/3nvmN9daV6DhMNFtewTwl1) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Buy A Bar](https://open.spotify.com/album/2rErpjvL6KXfptALvB0pcd) | 2:57 |
-| 98 | [99 Bottles](https://open.spotify.com/track/6XdPUABmGiRnQzP171vyhk) | [TracieLynn](https://open.spotify.com/artist/0mPEljpx3NF2bWuBQdlF2v) | [99 Bottles](https://open.spotify.com/album/78yVqDRZaD4YFgrgPBWPt3) | 3:35 |
-| 99 | [Why I'm Calling](https://open.spotify.com/track/3JPcJSxsd5JC5Dk9T5GNIr) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:05 |
+| 98 | [Why I'm Calling](https://open.spotify.com/track/3JPcJSxsd5JC5Dk9T5GNIr) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Crashlanded](https://open.spotify.com/album/0x2OmXAe36pO4S5Ygiurk4) | 3:05 |
+| 99 | [99 Bottles](https://open.spotify.com/track/6XdPUABmGiRnQzP171vyhk) | [TracieLynn](https://open.spotify.com/artist/0mPEljpx3NF2bWuBQdlF2v) | [99 Bottles](https://open.spotify.com/album/78yVqDRZaD4YFgrgPBWPt3) | 3:35 |
 | 100 | [Blame a Country Song](https://open.spotify.com/track/0NHp9AqpMtYB3RhleGvEB7) | [FILMORE](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Atypical](https://open.spotify.com/album/04y1EdYxeuSAEwPKVpUFlv) | 2:56 |
 | 101 | [As Far as Love Goes](https://open.spotify.com/track/5Kcq1DpTCfcce85latUZRp) | [Ian Flanigan](https://open.spotify.com/artist/5rPnSGtasjvQgEwK0Wmb1y) | [Strong](https://open.spotify.com/album/0C3XW8l5BNv8dUHuEuDDSf) | 3:10 |
 | 102 | [Better Than I Do](https://open.spotify.com/track/7quRppjpbhFLbJTDYmluYg) | [Chloe Raye](https://open.spotify.com/artist/0CaJUsuO5g4LQFWJmu98T5) | [Better Than I Do](https://open.spotify.com/album/4JPMLg3IpXEPU24EMLUwhD) | 3:41 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCReBjxdBABS.md) - [plain]
 | 129 | [Look At Us Now](https://open.spotify.com/track/2QOJSVwg15c3BDHqlZTCSh) | [Haley & Michaels](https://open.spotify.com/artist/5ko56X4u667qvCekZkcWHF) | [Anthems](https://open.spotify.com/album/7F0o8uORTmHPMy7KX2u2yE) | 2:40 |
 | 130 | [Oklahoma](https://open.spotify.com/track/1JLIB7z57pkpthRVqibaqR) | [Cali Sickler](https://open.spotify.com/artist/1WqsQS7dsMTQmDZprAsV0T) | [Oklahoma](https://open.spotify.com/album/78jATFAfQtdOMvoopDSZdH) | 3:28 |
 
-Snapshot ID: `AcYLyAAAAADcSaOHRV6I0Kys8Z5+hv6E`
+Snapshot ID: `AcYRcgAAAAAmkIPSHHXpBmpNNoXJ5Oeb`

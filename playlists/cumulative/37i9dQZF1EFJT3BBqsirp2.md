@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4nbpc2ldpGh1THRHf14KsI">Finn Keane</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-100 songs - 4 hr 51 min
+101 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:23 | 2025-01-17 |  |
 | [365 featuring shygirl](https://open.spotify.com/track/5xyaPwLmgoyGlDDu2H0Uix) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:01 | 2025-01-17 |  |
 | [3AM \(Pull Up\)](https://open.spotify.com/track/5jOY0ZzNkwlb7Fr0bP8Gcg) | [Fitness Workout Hits](https://open.spotify.com/artist/4WcnnHSRP40h3KJ7In8rAX) | [Don't Give Up Workout Hits](https://open.spotify.com/album/1oj0beYwEjOHLKTyWh7LmA) | 4:02 | 2025-01-17 | 2026-04-23 |
-| [3AM \(Pull Up\)](https://open.spotify.com/track/6HAMLFJFXndKHHOKeEYUt1) | [Flashback Avenue](https://open.spotify.com/artist/1HANinT2rV1dtgfmxTTucL) | [Up All Night \- House Party Energy](https://open.spotify.com/album/36wq5YXDyqJIA895HmnpHn) | 4:02 | 2026-04-22 |  |
+| [3AM \(Pull Up\)](https://open.spotify.com/track/6HAMLFJFXndKHHOKeEYUt1) | [Flashback Avenue](https://open.spotify.com/artist/1HANinT2rV1dtgfmxTTucL) | [Up All Night \- House Party Energy](https://open.spotify.com/album/36wq5YXDyqJIA895HmnpHn) | 4:02 | 2026-04-22 | 2026-07-31 |
+| [3AM \(Pull Up\) \[feat\. MØ\]](https://open.spotify.com/track/4R2u9nFjSycaZsEYAe5Kc0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:59 | 2026-07-30 |  |
 | [Airhead](https://open.spotify.com/track/2CPrwdCQXQ8vRxYZwyJbNw) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Apple](https://open.spotify.com/album/6t1kxWGH4qa00TDKRvFzVW) | 4:37 | 2025-01-17 |  |
 | [Altars](https://open.spotify.com/track/37Vbx4pkj4QdmE4fPfAdoD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 2:56 | 2026-02-23 |  |
 | [Always Everywhere](https://open.spotify.com/track/6fGapufucZHPva1kvCqceA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:03 | 2026-02-23 |  |

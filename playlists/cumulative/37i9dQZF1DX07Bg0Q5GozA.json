@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Barry Can't Swim",
+  "description": "New music off the beaten track. Cover: Josi Miller, Mulay",
   "name": "OFF POP",
   "tracks": [
     {
@@ -1287,6 +1287,28 @@
     },
     {
       "album": {
+        "name": "how to break your heart",
+        "url": "https://open.spotify.com/album/1RVzFXzp4mYxJn4FsmhMsP"
+      },
+      "artists": [
+        {
+          "name": "Josi Miller",
+          "url": "https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga"
+        },
+        {
+          "name": "Mulay",
+          "url": "https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196123,
+      "name": "almost enough",
+      "url": "https://open.spotify.com/track/4NhNLr3EIXW8TZ2G2m9Wzt"
+    },
+    {
+      "album": {
         "name": "almost up in space",
         "url": "https://open.spotify.com/album/373LyuaJOzCbFdVHWCS3O6"
       },
@@ -2288,10 +2310,28 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 139493,
       "name": "Beatback",
       "url": "https://open.spotify.com/track/0qYgbVTu69hughnu1tLC4b"
+    },
+    {
+      "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139493,
+      "name": "Beatback",
+      "url": "https://open.spotify.com/track/55mvDAlLzfTHRnGJwtt1x2"
     },
     {
       "album": {
@@ -5298,7 +5338,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 263065,
       "name": "Dance Through The Night",
       "url": "https://open.spotify.com/track/3WXM4RTGY09Lyt8h8SUSL2"
@@ -11130,6 +11170,28 @@
       "duration_ms": 245297,
       "name": "Herbs & Wine",
       "url": "https://open.spotify.com/track/2jqOdhAQIFJseY4FnnphGX"
+    },
+    {
+      "album": {
+        "name": "Some Kind Of Life",
+        "url": "https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3"
+      },
+      "artists": [
+        {
+          "name": "Perfect Person",
+          "url": "https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ"
+        },
+        {
+          "name": "Holostar",
+          "url": "https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Here & Now",
+      "url": "https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9"
     },
     {
       "album": {
@@ -21538,7 +21600,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 135466,
       "name": "Quite Like (The Sun)",
       "url": "https://open.spotify.com/track/7hd8ls6i9CV9HYQpTFihB5"
@@ -27789,6 +27851,24 @@
     },
     {
       "album": {
+        "name": "Indie Rave",
+        "url": "https://open.spotify.com/album/4kqjJIQruFKcbFtv2FD21o"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/0WpXwIkHgil23gzYOEykR8"
+    },
+    {
+      "album": {
         "name": "Tragic",
         "url": "https://open.spotify.com/album/6KdRv1DhJTQWK5IUO1IVyK"
       },
@@ -28050,7 +28130,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 237932,
       "name": "Tune It Out",
       "url": "https://open.spotify.com/track/2xzJKMMD4dzH9NhHcr2mk0"

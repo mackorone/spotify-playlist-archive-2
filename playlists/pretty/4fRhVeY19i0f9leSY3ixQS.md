@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,602 likes - 357 songs - 20 hr 2 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,614 likes - 360 songs - 20 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [UNDER KONTROL](https://open.spotify.com/track/6LRt9NxLbIWKfNxwzOeBQl) | [Batbūrger](https://open.spotify.com/artist/4bLsBDIVdoujyA6QtjxyBI) | [EASY STREET](https://open.spotify.com/album/2syubFeVIF43vPW4Z8qvEn) | 2:35 |
 | 2 | [A Message From Your CEO](https://open.spotify.com/track/1Ts9V7Hx4VthjXi0nEvrtm) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [A Message From Your CEO](https://open.spotify.com/album/5omUtUzZDvjMDAWEKnPZqk) | 2:59 |
-| 3 | [Get Motivated](https://open.spotify.com/track/3kravhCwMvloxttZIygnMo) | [Deaf Romero](https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a) | [Get Motivated](https://open.spotify.com/album/4Zkqq0Dwp7SXSFx23VdWpT) | 3:52 |
+| 3 | [Get Motivated](https://open.spotify.com/track/3mwZriX0HfiqRUXQ518FNO) | [Deaf Romero](https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a) | [Get Motivated](https://open.spotify.com/album/3cuGOU96eQvKBCgYDZzpVQ) | 3:52 |
 | 4 | [Swarm Without A Spine](https://open.spotify.com/track/3SpfGhYRSSP2vSkxAvDQCw) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Swarm Without A Spine](https://open.spotify.com/album/4gz1781XOcb5NX1f9REg5K) | 3:07 |
 | 5 | [captain oblivious](https://open.spotify.com/track/4HZks0OCQtWbrjh8MbgZtH) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [doomed from the start](https://open.spotify.com/album/3yt9kSR0VqhASkjMHSJcOz) | 2:36 |
 | 6 | [Without Within](https://open.spotify.com/track/5SDDsLaIjbJKWupa1TYBgy) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:34 |
@@ -100,14 +100,14 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 90 | [goblins](https://open.spotify.com/track/5LX38WOdERwGOvdUqeyJDU) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [goblins](https://open.spotify.com/album/2y5FWPfNexTfC3vRjFLwC9) | 4:20 |
 | 91 | [Better Off Alone](https://open.spotify.com/track/3ASkJ5pFksyXQqT9z8KmvH) | [Julie Elody](https://open.spotify.com/artist/4FREcPhEBSBlNVHAQXqanN), [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Better Off Alone](https://open.spotify.com/album/0UkrxQZJRAXK8SHLo2TCSA) | 1:56 |
 | 92 | [Echo Chambers](https://open.spotify.com/track/0QPdGdupsEmBguX9QSOQYA) | [Universe 25](https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW) | [Echo Chambers](https://open.spotify.com/album/1UnXilvdjhrObk9GajzhCU) | 5:33 |
-| 93 | [Mechanical Bird Theory](https://open.spotify.com/track/1BTXttiYzBCQ2TpUNYSrkW) | [Deaf Romero](https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a) | [Mechanical Bird Theory](https://open.spotify.com/album/65tjd5gARLr6hIYAbD2MBU) | 4:00 |
+| 93 | [Mechanical Bird Theory](https://open.spotify.com/track/2nEIhKbYuvtDbXJYkzwlLF) | [Deaf Romero](https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a) | [Mechanical Bird Theory](https://open.spotify.com/album/3N4wMGc7ZNbCJhUCNuCyLU) | 4:00 |
 | 94 | [CORNERS OF MY MIND](https://open.spotify.com/track/6FriLnIJPHFcVu0D2IMq42) | [Batbūrger](https://open.spotify.com/artist/4bLsBDIVdoujyA6QtjxyBI) | [EASY STREET](https://open.spotify.com/album/2syubFeVIF43vPW4Z8qvEn) | 3:18 |
 | 95 | [Shape Shifter](https://open.spotify.com/track/7sD50e8OpxIo2p66mIyucQ) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:36 |
 | 96 | [temptress](https://open.spotify.com/track/1PDUiwGUzBCNwKbbqKM03J) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [temptress](https://open.spotify.com/album/65cYeQSbhT1ZY3JQEx39b9) | 3:17 |
 | 97 | [YOU ME THEM](https://open.spotify.com/track/4FPpSsMGTqQxwGladeLdQs) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 4:34 |
 | 98 | [D.O.C\. \(remaster\)](https://open.spotify.com/track/3nuCkHuNLB3HQrV6KpYLK8) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:34 |
 | 99 | [Beater](https://open.spotify.com/track/4JRbph5ENF0fPkrMd9jioO) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 1:14 |
-| 100 | [Greaseproof Paper](https://open.spotify.com/track/2PxE6OXL7NiTiFVNfB5ugl) | [Davenola](https://open.spotify.com/artist/1bZPqoTxPcCaTMVZOe3kvT) | [Greaseproof Paper](https://open.spotify.com/album/6ZocKDUZTGq93eCj1Cde1X) | 2:33 |
+| 100 | [Greaseproof Paper](https://open.spotify.com/track/0L9w5Y5A6dUZk9rplbENKs) | [Davenola](https://open.spotify.com/artist/1bZPqoTxPcCaTMVZOe3kvT) | [Greaseproof Paper](https://open.spotify.com/album/4og5zpJyfs6PvU26VrrZ3A) | 2:33 |
 | 101 | [WHOLE OTHER GAME](https://open.spotify.com/track/61CQCFPlygbWPbk5BhSXY8) | [Batbūrger](https://open.spotify.com/artist/4bLsBDIVdoujyA6QtjxyBI), [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [EASY STREET](https://open.spotify.com/album/2syubFeVIF43vPW4Z8qvEn) | 2:03 |
 | 102 | [Elvira](https://open.spotify.com/track/13g6NsqL8uCVFX6lr3P24R) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:55 |
 | 103 | [T\-shirt](https://open.spotify.com/track/1ObOI5SS3jk5m0kmhFVlD4) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 3:59 |
@@ -365,5 +365,8 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 355 | [Sweet Nothings](https://open.spotify.com/track/5meGXDPEwVvoZ5CDY4dnRZ) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Sweet Nothings](https://open.spotify.com/album/27VrebPBcPe2si5mYezIHp) | 2:45 |
 | 356 | [Symptoms of You](https://open.spotify.com/track/2JpOjYurMmAaEZGpM8SFnO) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7) | [Symptoms of You](https://open.spotify.com/album/3FzbJenoiPOrEzbpIWqNBP) | 3:17 |
 | 357 | [Power](https://open.spotify.com/track/3tfHumqKKjYOGC0DlfjM49) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Power](https://open.spotify.com/album/7IkJYzGSBxOuoidbs9a4vw) | 2:04 |
+| 358 | [After the Storm](https://open.spotify.com/track/5e3IasVGvDIX3j47LRgg7Z) | [Pele's Wrath](https://open.spotify.com/artist/7KbRivDe6wcOC63ooOhNXr) | [Forged in Ashes](https://open.spotify.com/album/3DqZDuxlrG0Fi9VdeGlwcs) | 4:47 |
+| 359 | [It´s Alright](https://open.spotify.com/track/0BExPGuBUyeYilMMnBMi0h) | [A Rat´s Tale](https://open.spotify.com/artist/4C6DNTYIqYSB3py8jUdGhx) | [Zebra](https://open.spotify.com/album/4p3R7Gar7FadGv844ze7ST) | 3:13 |
+| 360 | [Red Lights](https://open.spotify.com/track/38qjbEYY3mUaUSSzXcGNfS) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [ORA BLU](https://open.spotify.com/album/5D42xzSepGGKHFlGE1KDCQ) | 2:32 |
 
-Snapshot ID: `AAASV32MRoGGAl/0wTijOZrJ6d29/Szj`
+Snapshot ID: `AAASYCYz1L1cfhw6t/xaqlpY6kleVlpE`

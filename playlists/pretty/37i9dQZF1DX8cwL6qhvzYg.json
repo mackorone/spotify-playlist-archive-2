@@ -1,12 +1,12 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 456183,
+  "num_followers": 456281,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHAGRMVQ0//p29MRoXpmHqlWhOKG",
+  "snapshot_id": "AAAAAF/zwJrnKWjmGeZ3nJPloUAU0qDY",
   "tracks": [
     {
       "added_at": "2026-03-13 19:07:31",
@@ -163,6 +163,26 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Di Que Si",
+        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 190553,
+      "name": "Di Que Si",
+      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Oye Mujer",
         "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 311400,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Di Que Si",
-        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 190553,
-      "name": "Di Que Si",
-      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Guaracha Sabrosona",
+        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza",
+          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
+        }
+      ],
+      "duration_ms": 219026,
+      "name": "Guaracha Sabrosona",
+      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "C\u00f3mo Te Voy a Olvidar",
         "url": "https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl"
       },
@@ -367,38 +383,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Guaracha Sabrosona",
-        "url": "https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ"
-      },
-      "artists": [
-        {
-          "name": "Alberto Pedraza",
-          "url": "https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Guaracha Sabrosona",
-      "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Serie Fiesta",
-        "url": "https://open.spotify.com/album/3DshPsOHjY7OQa1PFRrtKq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/46MuirMMSyr2aqbCdnPyBh"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "Cumbia Con Clase",
         "url": "https://open.spotify.com/album/5vZ0PtlJPaHVoFEzHlYRop"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 254862,
       "name": "Paloma Ajena",
       "url": "https://open.spotify.com/track/0hyWESy54H99d9ho7S0Xnj"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Serie Fiesta",
+        "url": "https://open.spotify.com/album/3DshPsOHjY7OQa1PFRrtKq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/46MuirMMSyr2aqbCdnPyBh"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "La Concentraci\u00f3n, Vol. XXV",
+        "url": "https://open.spotify.com/album/0edZD8ocBTBdCF9rQUKxPA"
+      },
+      "artists": [
+        {
+          "name": "La Concentracion",
+          "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
+        }
+      ],
+      "duration_ms": 154097,
+      "name": "La Mini Mini",
+      "url": "https://open.spotify.com/track/3KOw9OqlEANiL3ZM2rqMUG"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Cuando No Estas Conmigo",
         "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 201367,
       "name": "Cuando No Estas Conmigo",
       "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "La Concentraci\u00f3n, Vol. XXV",
-        "url": "https://open.spotify.com/album/0edZD8ocBTBdCF9rQUKxPA"
-      },
-      "artists": [
-        {
-          "name": "La Concentracion",
-          "url": "https://open.spotify.com/artist/7ENxBTF2tZHjXFamkbOmzG"
-        }
-      ],
-      "duration_ms": 154097,
-      "name": "La Mini Mini",
-      "url": "https://open.spotify.com/track/3KOw9OqlEANiL3ZM2rqMUG"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -815,6 +815,26 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "El Final De Nuestra Historia",
+        "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "El Final De Nuestra Historia",
+      "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Dominando y Controlando",
         "url": "https://open.spotify.com/album/7k3oc6fvIi65oF4pGoi1wo"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 191353,
       "name": "Yo Las Pongo",
       "url": "https://open.spotify.com/track/5LPD5HDYyxKdGHvHQ1kef9"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "El Final De Nuestra Historia",
-        "url": "https://open.spotify.com/album/2U9DusHrxN3ni4l6hGZOCu"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "El Final De Nuestra Historia",
-      "url": "https://open.spotify.com/track/4lSHY97TsrsOn0cqBkUrDs"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Quiero Ser Feliz",
+        "url": "https://open.spotify.com/album/3DzoRQWzAcxVQ7rimv57Il"
+      },
+      "artists": [
+        {
+          "name": "La Cheverisima de Mauricio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5OjKMhPoN2Os8r86Nu4SkH"
+        }
+      ],
+      "duration_ms": 199627,
+      "name": "Sue\u00f1o del Alma",
+      "url": "https://open.spotify.com/track/51rIVieMOTXVufas0FZ0SC"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Desde El Expendio (En Vivo)",
         "url": "https://open.spotify.com/album/6DuUEHj956DhOxOiljJbEs"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 197000,
       "name": "Me Va, Me Va (En Vivo)",
       "url": "https://open.spotify.com/track/5hD9sORqBGD0RsI9IkDr8C"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Quiero Ser Feliz",
-        "url": "https://open.spotify.com/album/3DzoRQWzAcxVQ7rimv57Il"
-      },
-      "artists": [
-        {
-          "name": "La Cheverisima de Mauricio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/5OjKMhPoN2Os8r86Nu4SkH"
-        }
-      ],
-      "duration_ms": 199627,
-      "name": "Sue\u00f1o del Alma",
-      "url": "https://open.spotify.com/track/51rIVieMOTXVufas0FZ0SC"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 709545,
+      "name": "Medley Apache (En Vivo)",
+      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Desde Estacion Corral Hasta Los Hornos Sonora",
         "url": "https://open.spotify.com/album/3mQloaIk4vubKSpULWf8Ww"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "UVV Vol. 8 (En Vivo)",
-        "url": "https://open.spotify.com/album/270yHmtmUVaxF0nSm1J21K"
+        "name": "Vuelve Mi Amor",
+        "url": "https://open.spotify.com/album/4FMS01CZKPcsKmdSdokmN7"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Amantes del Futuro",
+          "url": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
         }
       ],
-      "duration_ms": 709545,
-      "name": "Medley Apache (En Vivo)",
-      "url": "https://open.spotify.com/track/1wvmmgW85gmk6wOMlSwZuL"
+      "duration_ms": 300000,
+      "name": "Vuelve Mi Amor",
+      "url": "https://open.spotify.com/track/1hWEJsHFWRHHrTYh4q0AQS"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1203,22 +1219,6 @@
       "duration_ms": 281546,
       "name": "Achilip\u00fa",
       "url": "https://open.spotify.com/track/7sT08ys9gXDvYNyTP80zvs"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Vuelve Mi Amor",
-        "url": "https://open.spotify.com/album/4FMS01CZKPcsKmdSdokmN7"
-      },
-      "artists": [
-        {
-          "name": "Amantes del Futuro",
-          "url": "https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Vuelve Mi Amor",
-      "url": "https://open.spotify.com/track/1hWEJsHFWRHHrTYh4q0AQS"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Martin Ramos",
-          "url": "https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm"
-        }
-      ],
-      "duration_ms": 165887,
-      "name": "Un Cari\u00f1o Como Tu (En Vivo)",
-      "url": "https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
         "name": "\u00d1EROSTARS",
         "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 198843,
       "name": "Coronada",
       "url": "https://open.spotify.com/track/3EkjYdIcPy5pmRKncozJun"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Martin Ramos",
+          "url": "https://open.spotify.com/artist/1OiWNXpOpIip0t3b2swLjm"
+        }
+      ],
+      "duration_ms": 165887,
+      "name": "Un Cari\u00f1o Como Tu (En Vivo)",
+      "url": "https://open.spotify.com/track/4HVlEb5JuTRdYCIITMFpaf"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Cura Local (En Vivo)",
         "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+        "name": "Gran Encuentro",
+        "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
       },
       "artists": [
         {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+          "name": "Super Grupo G",
+          "url": "https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7"
         }
       ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+      "duration_ms": 195866,
+      "name": "Cumbia De Los Monjes",
+      "url": "https://open.spotify.com/track/1fNN9x0yE5x2CBdt2DZj8q"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1399,22 +1415,6 @@
       "duration_ms": 181589,
       "name": "El Negrito - En Vivo",
       "url": "https://open.spotify.com/track/1hmZR9N5q1ThHtI701dK9t"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Gran Encuentro",
-        "url": "https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L"
-      },
-      "artists": [
-        {
-          "name": "Super Grupo G",
-          "url": "https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "Cumbia De Los Monjes",
-      "url": "https://open.spotify.com/track/1fNN9x0yE5x2CBdt2DZj8q"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1447,6 +1447,26 @@
       "duration_ms": 273893,
       "name": "Mentirosa (Eres Mentirosa)",
       "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
+        "name": "Gran Festival Bailable",
+        "url": "https://open.spotify.com/album/47kTykdNZ9oQolnxceP5F5"
+      },
+      "artists": [
+        {
+          "name": "La Trombanda De Chick",
+          "url": "https://open.spotify.com/artist/6PLNae5ImysWIQrE8jHREf"
+        },
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 238631,
+      "name": "Hoy Voy a Tomar",
+      "url": "https://open.spotify.com/track/7lzYlCHuJukEVQl1Uu9R6t"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1487,26 +1507,6 @@
       "duration_ms": 251008,
       "name": "Popurr\u00ed: \u00bfC\u00f3mo Est\u00e1s T\u00fa? / Te lo Pido Por Favor - En Vivo",
       "url": "https://open.spotify.com/track/4iY0sp58OJvpjVGQwl5l7U"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Gran Festival Bailable",
-        "url": "https://open.spotify.com/album/47kTykdNZ9oQolnxceP5F5"
-      },
-      "artists": [
-        {
-          "name": "La Trombanda De Chick",
-          "url": "https://open.spotify.com/artist/6PLNae5ImysWIQrE8jHREf"
-        },
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 238631,
-      "name": "Hoy Voy a Tomar",
-      "url": "https://open.spotify.com/track/7lzYlCHuJukEVQl1Uu9R6t"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "Vampiresa",
+        "url": "https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0"
+      },
+      "artists": [
+        {
+          "name": "Explosi\u00f3n Colombiana de Ortiz Ortiz",
+          "url": "https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ"
+        }
+      ],
+      "duration_ms": 298353,
+      "name": "Vampiresa",
+      "url": "https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "En Contacto (En Vivo)",
         "url": "https://open.spotify.com/album/10ZH2j3ykzI8n6v5WPklQD"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 172608,
       "name": "El Agua Clara - En Vivo",
       "url": "https://open.spotify.com/track/1oNWnAu0CzUsB9GuBfKkWU"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "Vampiresa",
-        "url": "https://open.spotify.com/album/4uLC55AJiRjlvWLuhhJio0"
-      },
-      "artists": [
-        {
-          "name": "Explosi\u00f3n Colombiana de Ortiz Ortiz",
-          "url": "https://open.spotify.com/artist/0iCrNiPOUvxrmnCAF1vPzZ"
-        }
-      ],
-      "duration_ms": 298353,
-      "name": "Vampiresa",
-      "url": "https://open.spotify.com/track/2wVmS5mkzdSGxYhHPnEXuO"
     },
     {
       "added_at": "2026-03-13 19:07:31",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2026-03-13 19:07:31",
       "album": {
+        "name": "La Bola de Cristal",
+        "url": "https://open.spotify.com/album/4VHupnDa6gPKQTPVtKwNJu"
+      },
+      "artists": [
+        {
+          "name": "Sexteto Manaure",
+          "url": "https://open.spotify.com/artist/3WLD5UHHqX0jtkk6D0fvdQ"
+        }
+      ],
+      "duration_ms": 166083,
+      "name": "Bajo el Trupillo Guajiro",
+      "url": "https://open.spotify.com/track/3CCo1TQuD3BJu1SRlkjaL6"
+    },
+    {
+      "added_at": "2026-03-13 19:07:31",
+      "album": {
         "name": "Rosal\u00eda",
         "url": "https://open.spotify.com/album/0X6c4MoWNMpAXKkjPb3pe9"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 210001,
       "name": "Rosal\u00eda",
       "url": "https://open.spotify.com/track/66dCjqpOj78ciD4zKNSDf0"
-    },
-    {
-      "added_at": "2026-03-13 19:07:31",
-      "album": {
-        "name": "La Bola de Cristal",
-        "url": "https://open.spotify.com/album/4VHupnDa6gPKQTPVtKwNJu"
-      },
-      "artists": [
-        {
-          "name": "Sexteto Manaure",
-          "url": "https://open.spotify.com/artist/3WLD5UHHqX0jtkk6D0fvdQ"
-        }
-      ],
-      "duration_ms": 166083,
-      "name": "Bajo el Trupillo Guajiro",
-      "url": "https://open.spotify.com/track/3CCo1TQuD3BJu1SRlkjaL6"
     },
     {
       "added_at": "2026-03-13 19:07:31",

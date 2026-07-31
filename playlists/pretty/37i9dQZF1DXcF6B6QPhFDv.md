@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > ROCK NEVER DIES \| it's alive w/ The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,202,374 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,201,931 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 79 | [No Surprise](https://open.spotify.com/track/5vZw0zHPkxMYr8cHleEf9k) | [Bleech 9:3](https://open.spotify.com/artist/2S6eJYUlnmZL5XOaC3nvRL) | [Bleech 9:3](https://open.spotify.com/album/6LnK2cmnchsy0iSsLJE9ib) | 3:11 |
 | 80 | [Training](https://open.spotify.com/track/7c7ceIOFUDHYpIf5z4yYA7) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0), [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM), [Daniel James](https://open.spotify.com/artist/7fjWpR5V7rFThV1mf5fzp9) | [Training / Great](https://open.spotify.com/album/1LLOCMDTbW4pgbZRKK2TJS) | 2:00 |
 
-Snapshot ID: `AAAAACkvms+DCpHujvDF6AnYmGOK5nXn`
+Snapshot ID: `AAAAAHwEvGA1flCneXKhFf30tkDRl4Mn`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Radio Free Alice",
+  "description": "New and local indie noise. Cover: Sunsick Daisy",
   "name": "Local Noise",
   "tracks": [
     {
@@ -1814,6 +1814,24 @@
       "duration_ms": 125625,
       "name": "Bitter Honey",
       "url": "https://open.spotify.com/track/7y4TGPdWrfn6xAtsghiJQb"
+    },
+    {
+      "album": {
+        "name": "Bitter Start",
+        "url": "https://open.spotify.com/album/0rG9gFONhpVfx2nh8HnoXU"
+      },
+      "artists": [
+        {
+          "name": "Sunsick Daisy",
+          "url": "https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198415,
+      "name": "Bitter Start",
+      "url": "https://open.spotify.com/track/2R11YDcbE599gK3XaNezWr"
     },
     {
       "album": {
@@ -4825,6 +4843,24 @@
     },
     {
       "album": {
+        "name": "I Thought The Altitude Would Make It Worth The View",
+        "url": "https://open.spotify.com/album/7HskzN4Xxj6jQmWkkFty1F"
+      },
+      "artists": [
+        {
+          "name": "DICE",
+          "url": "https://open.spotify.com/artist/5E5dw9k43AX9GGGEA606KC"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243146,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/4hfDYojXgzAYIR8NePfhKR"
+    },
+    {
+      "album": {
         "name": "Effie's Song",
         "url": "https://open.spotify.com/album/5xD8j5GoY9di0y44fWu6su"
       },
@@ -7412,7 +7448,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 190542,
       "name": "Hope",
       "url": "https://open.spotify.com/track/3yfr9G9ORQHGbgsfSG9cqa"
@@ -8284,7 +8320,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 180697,
       "name": "Invisible Man",
       "url": "https://open.spotify.com/track/3rq59yNoeIyvs8yk050BxQ"
@@ -8684,7 +8720,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 207530,
       "name": "Karmic",
       "url": "https://open.spotify.com/track/3YUOtlbkKPayMmm941VhTF"
@@ -9052,7 +9088,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 177150,
       "name": "Lay Your Head",
       "url": "https://open.spotify.com/track/3xhDVsfxKTzhhPjqPjaMP9"
@@ -9747,6 +9783,24 @@
     },
     {
       "album": {
+        "name": "Preparing For Lift Off",
+        "url": "https://open.spotify.com/album/3pZGID4TFPalZaD0Crswe1"
+      },
+      "artists": [
+        {
+          "name": "Joe Mungovan",
+          "url": "https://open.spotify.com/artist/3TvOXMQ3Y6mppFClFpmvKC"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204263,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/2ELA9baR5S3b07t1S1XWq3"
+    },
+    {
+      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/2omalIN0hJYm2oC8PcqL43"
       },
@@ -9812,7 +9866,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 175103,
       "name": "Magic Man",
       "url": "https://open.spotify.com/track/1kegdFmzGcUPUM35xJXzmK"
@@ -12636,7 +12690,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 152166,
       "name": "Pretty Little Mouth",
       "url": "https://open.spotify.com/track/5SHAYxCRLItBxpD6VgOYGY"
@@ -13965,6 +14019,24 @@
     },
     {
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/7DJJ33l9mlkWE3cuMUaR1Y"
+      },
+      "artists": [
+        {
+          "name": "GRUB",
+          "url": "https://open.spotify.com/artist/66GRbUYE1YuX6pkchfN64v"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182252,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5a9uDWFBjgv51iODOnxRAx"
+    },
+    {
+      "album": {
         "name": "Wise and Dangerous",
         "url": "https://open.spotify.com/album/2b1A21v3kdlPn7diPelE1F"
       },
@@ -14290,6 +14362,24 @@
     {
       "album": {
         "name": "Sick",
+        "url": "https://open.spotify.com/album/4jENISQSpDe49A133TvPUS"
+      },
+      "artists": [
+        {
+          "name": "Mannequin Death Squad",
+          "url": "https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203250,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/130iBycjciSRwPJiqZUhyH"
+    },
+    {
+      "album": {
+        "name": "Sick",
         "url": "https://open.spotify.com/album/3P8m0ftS4soy5NoibYg89i"
       },
       "artists": [
@@ -14574,7 +14664,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 172000,
       "name": "Skin Like Suits",
       "url": "https://open.spotify.com/track/579QrIyJTYxRHHtbvc6QWP"
@@ -14960,7 +15050,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 245460,
       "name": "Song for Steven",
       "url": "https://open.spotify.com/track/2On3CxYt35AQhney2FCoOu"
@@ -17347,6 +17437,24 @@
     },
     {
       "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/3cGv3kPBB8ye4hKAra1MSL"
+      },
+      "artists": [
+        {
+          "name": "Bugs",
+          "url": "https://open.spotify.com/artist/6kjbCSFaHOo2deId1wSaeL"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205920,
+      "name": "Tough Love",
+      "url": "https://open.spotify.com/track/69ySxELQeIw557VWfbAwq9"
+    },
+    {
+      "album": {
         "name": "Toyota Camry",
         "url": "https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB"
       },
@@ -17380,6 +17488,24 @@
       "duration_ms": 209930,
       "name": "Train Of Thought",
       "url": "https://open.spotify.com/track/6GaPDdfzlU3xgOvqkXGs4H"
+    },
+    {
+      "album": {
+        "name": "Trapezoid",
+        "url": "https://open.spotify.com/album/1ZXxB14E1TYIESUR6Dvxsb"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "Trapezoid",
+      "url": "https://open.spotify.com/track/58no1ulZZDdRcXm2oPTVM3"
     },
     {
       "album": {
@@ -17856,6 +17982,24 @@
       "duration_ms": 206386,
       "name": "Vivid",
       "url": "https://open.spotify.com/track/13Ufu2w5mZzUZ02Ik9faFC"
+    },
+    {
+      "album": {
+        "name": "Foreign Films",
+        "url": "https://open.spotify.com/album/7eZSuQvSabBuvDe4EDbXfV"
+      },
+      "artists": [
+        {
+          "name": "Pool House",
+          "url": "https://open.spotify.com/artist/1tCQas73x7KX8maY66bLg4"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220720,
+      "name": "Vultures",
+      "url": "https://open.spotify.com/track/0IBIdjCRwtmZfjCf0p0gZp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Protomartyr
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,728 likes - 126 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,783 likes - 126 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 125 | [Loser](https://open.spotify.com/track/3gUwYPtBtdFr5T0zGFVwJj) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9) | [Loser](https://open.spotify.com/album/5btn7iVwFCbcelZ6kT4JU3) | 3:31 |
 | 126 | [Florida Water Blues](https://open.spotify.com/track/6vkuBueAxgzQe8dbGumiYF) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [Florida Water Blues](https://open.spotify.com/album/7ggqCiAQWXdPYr8PHdbCn6) | 3:44 |
 
-Snapshot ID: `AAAAAIxm7p5QfnyxUMhLUQT+g9N67S01`
+Snapshot ID: `AAAAAEjNfzBo2fGAhW6t8Ke6wIyagWZD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Where roots meet what’s next\. Cover: The Revivalists
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,208 likes - 99 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,183 likes - 99 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 98 | [Save Your Soul](https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Save Your Soul / Say Goodbye, Tell No One](https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ) | 3:32 |
 | 99 | [Motherland](https://open.spotify.com/track/0xKAnpxqrOUURQrjtg4eis) | [The Brudi Brothers](https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K) | [Motherland](https://open.spotify.com/album/2VyK9euEJ1lle8NknF7hDy) | 3:20 |
 
-Snapshot ID: `AAAAAOa1fpwIQ5ANcOLIEUhVBOnsb02S`
+Snapshot ID: `AAAAANdMqTnHJyC0PbtBLfVfhYdzgbeQ`

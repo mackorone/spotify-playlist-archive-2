@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,151 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,175 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 59 | [Didima Feggaria](https://open.spotify.com/track/5lPj87L3JtlqZuSfzf0ccN) | [Aleka Kanellidou](https://open.spotify.com/artist/1Mk65POrKTGeOQDMfnv5Ry), [Dimitris Mitropanos](https://open.spotify.com/artist/3xqrfI4xL7FnBawAoiOTxe) | [Didima Feggaria](https://open.spotify.com/album/2JEkGfuoNtkpBwpjo5Sj9r) | 3:55 |
 | 60 | [Wait For You](https://open.spotify.com/track/17Pg7WwDCaK5FlFshdcKD7) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Wait For You](https://open.spotify.com/album/5FJQ5Pwf2shqBVHqlcdh9K) | 2:49 |
 
-Snapshot ID: `AAAAAFelCcGMykcZZWG8XtaAo8kiaXZ7`
+Snapshot ID: `AAAAAIlJ7jq/5EFLH/UPMV8rskldHJsQ`

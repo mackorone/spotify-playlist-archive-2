@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 7441,
+  "num_followers": 7445,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAACM11yUSnuDGsUqzC1UP7Tt",
+  "snapshot_id": "amlCgAAAAAB8bCt7LvUhCjlbrEQjItmF",
   "tracks": [
     {
       "added_at": null,
@@ -111,18 +111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
       "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Candela Verde",
-      "url": "https://open.spotify.com/track/3RH9cfdnnlO2aBJ0VtY0Kx"
+      "duration_ms": 156906,
+      "name": "El De La Quebradita",
+      "url": "https://open.spotify.com/track/6ZvKl3qwFwAapikQg0H2bm"
     },
     {
       "added_at": null,
@@ -175,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "El De La Quebradita",
-      "url": "https://open.spotify.com/track/6ZvKl3qwFwAapikQg0H2bm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Celebrando En Grande",
         "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
@@ -204,9 +188,25 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 177000,
-      "name": "El Hombliguito",
-      "url": "https://open.spotify.com/track/08tkUBQCTmiCHfLOiUorh0"
+      "duration_ms": 184000,
+      "name": "Candela Verde",
+      "url": "https://open.spotify.com/track/3RH9cfdnnlO2aBJ0VtY0Kx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Ves Bien Buena...",
+        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Domingo Corrales",
+      "url": "https://open.spotify.com/track/0mFnbLPjZ2tAqxOJx31pAQ"
     },
     {
       "added_at": null,
@@ -243,6 +243,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "El Hombliguito",
+      "url": "https://open.spotify.com/track/08tkUBQCTmiCHfLOiUorh0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Ves Bien Buena...",
         "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 162693,
       "name": "Palo Bonito",
       "url": "https://open.spotify.com/track/3p4dd79mwiFMQDExCzbCFO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 204026,
-      "name": "Hueso No Ma",
-      "url": "https://open.spotify.com/track/1pXrL6GnhlVUhJhYijKimw"
     },
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Ves Bien Buena...",
-        "url": "https://open.spotify.com/album/4epRejVGiPOlMNWtOAawkl"
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
       "artists": [
         {
@@ -316,29 +316,25 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 166666,
-      "name": "Domingo Corrales",
-      "url": "https://open.spotify.com/track/0mFnbLPjZ2tAqxOJx31pAQ"
+      "duration_ms": 204026,
+      "name": "Hueso No Ma",
+      "url": "https://open.spotify.com/track/1pXrL6GnhlVUhJhYijKimw"
     },
     {
       "added_at": null,
       "album": {
-        "name": "El Tirador",
-        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
+        "name": "Te Ves Bien Buena....",
+        "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
       },
       "artists": [
-        {
-          "name": "Ezequiel Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
-        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 168200,
-      "name": "Me Esta Esperando Mar\u00eda",
-      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
+      "duration_ms": 144306,
+      "name": "Corrido De Nayarit",
+      "url": "https://open.spotify.com/track/0uwQdOxlr8tXd94aKGOhvU"
     },
     {
       "added_at": null,
@@ -375,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Ves Bien Buena....",
-        "url": "https://open.spotify.com/album/2ZTXAvGzM5zhmtImL9G2CJ"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 144306,
-      "name": "Corrido De Nayarit",
-      "url": "https://open.spotify.com/track/0uwQdOxlr8tXd94aKGOhvU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tirador",
         "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
@@ -404,9 +384,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217680,
-      "name": "Maria Isabel",
-      "url": "https://open.spotify.com/track/2SylBUSel6JR3P6co7NAh0"
+      "duration_ms": 168200,
+      "name": "Me Esta Esperando Mar\u00eda",
+      "url": "https://open.spotify.com/track/4F57ZKqA2Y1vD0Pkoylhyi"
     },
     {
       "added_at": null,
@@ -472,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Pa'Yo",
-      "url": "https://open.spotify.com/track/3X2fJD5G4FIGnt8aEfnyJe"
+      "duration_ms": 217680,
+      "name": "Maria Isabel",
+      "url": "https://open.spotify.com/track/2SylBUSel6JR3P6co7NAh0"
     },
     {
       "added_at": null,
@@ -540,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 217133,
-      "name": "Rock y Banda",
-      "url": "https://open.spotify.com/track/4LKI5igzAwYmoI6dpIG4yV"
+      "duration_ms": 172000,
+      "name": "Pa'Yo",
+      "url": "https://open.spotify.com/track/3X2fJD5G4FIGnt8aEfnyJe"
     },
     {
       "added_at": null,
@@ -595,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+        "name": "El Tirador",
+        "url": "https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h"
       },
       "artists": [
+        {
+          "name": "Ezequiel Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty"
+        },
         {
           "name": "Banda Vallarta Show",
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
+      "duration_ms": 217133,
+      "name": "Rock y Banda",
+      "url": "https://open.spotify.com/track/4LKI5igzAwYmoI6dpIG4yV"
     },
     {
       "added_at": null,
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
-        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
+        "name": "Celebrando En Grande",
+        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 144440,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
+      "duration_ms": 137000,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
     },
     {
       "added_at": null,
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
       },
       "artists": [
         {
@@ -684,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 155000,
-      "name": "El Mero Mero",
-      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
+      "duration_ms": 144440,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
     },
     {
       "added_at": null,
@@ -707,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
-        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/2RugkPK9AkrK0iudXq7eOy"
       },
       "artists": [
         {
@@ -716,9 +700,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 180026,
-      "name": "Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/7t7onEgU8E9ayFIVh9FI7G"
+      "duration_ms": 155000,
+      "name": "El Mero Mero",
+      "url": "https://open.spotify.com/track/5ilob0TpOQa1bPb5it9JM0"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 217234,
       "name": "Meneaito",
       "url": "https://open.spotify.com/track/3cNGzLHjdhX7qizTBt08WD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 180026,
+      "name": "Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/7t7onEgU8E9ayFIVh9FI7G"
     },
     {
       "added_at": null,

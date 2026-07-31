@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Bechare",
+        "url": "https://open.spotify.com/album/6xJ6RiiflqICv3XdkkEGzt"
+      },
+      "artists": [
+        {
+          "name": "Tobom Darang",
+          "url": "https://open.spotify.com/artist/6QqmpwSfTY9ogEa5aJZUkj"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225873,
+      "name": "Bechare",
+      "url": "https://open.spotify.com/track/5Ww0iPWoGzntdelRBgv8VI"
+    },
+    {
+      "album": {
         "name": "bemausam toofaan",
         "url": "https://open.spotify.com/album/0sqdKeIj5qhJGue2IvcAdJ"
       },
@@ -1930,7 +1948,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 198000,
       "name": "Chal baat kar lete hai",
       "url": "https://open.spotify.com/track/6gfeuIrI4dQgqlcmtSADkP"
@@ -7837,6 +7855,24 @@
     },
     {
       "album": {
+        "name": "Mehsoos Kar",
+        "url": "https://open.spotify.com/album/69HrchBWeIobPyzducEtub"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213552,
+      "name": "Mehsoos Kar",
+      "url": "https://open.spotify.com/track/7urhpFTtnZz3gPKQVAQvch"
+    },
+    {
+      "album": {
         "name": "Mein Aur Tum",
         "url": "https://open.spotify.com/album/7JjirikQXBXGNkoSHMmTFm"
       },
@@ -13334,7 +13370,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 195230,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/2uJK3UAq5qT6VjCOXSkwin"

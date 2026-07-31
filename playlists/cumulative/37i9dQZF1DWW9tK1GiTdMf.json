@@ -5331,6 +5331,28 @@
     },
     {
       "album": {
+        "name": "CCTS (+calore)",
+        "url": "https://open.spotify.com/album/4FsFXg2BIOE2NLltz7w8Wq"
+      },
+      "artists": [
+        {
+          "name": "DelCapo",
+          "url": "https://open.spotify.com/artist/4zzKTiRX6jxpItedTFCliy"
+        },
+        {
+          "name": "Millefiori",
+          "url": "https://open.spotify.com/artist/55kBWp4unj7SX6URMMyakp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182580,
+      "name": "CCTS (+calore)",
+      "url": "https://open.spotify.com/track/568uzUYep483FrRUCIJgK5"
+    },
+    {
+      "album": {
         "name": "CEMENTO",
         "url": "https://open.spotify.com/album/57yOle6fNUZN99nfVM5W1C"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 3079,
+  "num_followers": 3081,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP4XU21TQ7q/NcndOuZ9syXf3fqG",
+  "snapshot_id": "AAAAAJw5kzukFeWcDysSm++f6or9F0Om",
   "tracks": [
     {
       "added_at": "2025-10-10 17:36:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "\u00a1BANG BANG!",
-        "url": "https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 142758,
-      "name": "DURO",
-      "url": "https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 152343,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "\u00a1BANG BANG!",
+        "url": "https://open.spotify.com/album/2ug2WZctSV73uTG44lJ3GM"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 142758,
+      "name": "DURO",
+      "url": "https://open.spotify.com/track/6ndhH1Tj2ffz1xWoYQ2e6I"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -499,6 +499,26 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
+        "name": "centro aLt",
+        "url": "https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        },
+        {
+          "name": "S.3.R",
+          "url": "https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "centro aLt",
+      "url": "https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 222806,
       "name": "NOS SOLTAMOS chiliado",
       "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
-        "name": "centro aLt",
-        "url": "https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        },
-        {
-          "name": "S.3.R",
-          "url": "https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "centro aLt",
-      "url": "https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5"
     },
     {
       "added_at": "2025-10-10 17:36:00",

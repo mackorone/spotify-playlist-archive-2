@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Soya 許素瑄.<br/>  Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,059 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,058 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 45 | [Goodbye](https://open.spotify.com/track/7dQsIjrdHbGierAuHviHbs) | [Sarah Mae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [Goodbye Letter](https://open.spotify.com/album/4rYp30QwK58eBZpsBIl8WA) | 3:46 |
 | 46 | [You're Too Cute](https://open.spotify.com/track/13YaLLfaB4TZ19CoocUaSP) | [Iman Sammy](https://open.spotify.com/artist/2SbjzPxPhg6wwKD318HFvb) | [You're Too Cute](https://open.spotify.com/album/3bWw8aVg3OZ5WvnAQli1eh) | 2:19 |
 
-Snapshot ID: `AAAAABr73EFGPnpIZmedljiuhTqa3gFt`
+Snapshot ID: `AAAAALfrgV1wkx+oNp3qXzSU0TzPLTwq`

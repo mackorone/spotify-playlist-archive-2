@@ -2,7 +2,7 @@
 
 ### [Beste van NL](https://open.spotify.com/playlist/37i9dQZF1DXdKMCnEhDnDL)
 
-> De beste Nederlandse liedjes\. Cover: Antoon
+> De beste Nederlandse liedjes\. Cover: Bente
 
 516 songs - 1 day 2 hr 11 min
 

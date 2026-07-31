@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Alonzo, SAF, Lebeey, Le Bigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,767 likes - 86 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,795 likes - 86 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 85 | [Maracanã](https://open.spotify.com/track/2cG3gLsTpuZgFNY7u5KFSW) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [Maracanã](https://open.spotify.com/album/2NxksJ1HvTdFXQ9CnP535o) | 2:37 |
 | 86 | [PELELE](https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ) | [WIXO & LA2S](https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN) | [PELELE](https://open.spotify.com/album/3uo4C6Q0yQVQZwfNglnT5C) | 2:07 |
 
-Snapshot ID: `AAAAAKASPrGKD/V9lfgFMCtf7hqO+7K/`
+Snapshot ID: `AAAAALDvq3PKvRgYwzAzNTsIa1vW+VS2`

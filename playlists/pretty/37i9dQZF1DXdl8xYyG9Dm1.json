@@ -1,12 +1,12 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  Ladipoe",
-  "num_followers": 192934,
+  "num_followers": 192955,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL2s8U9kT//0Vdr043KtvQzu7K/l",
+  "snapshot_id": "AAAAADFb8ZXqDB3iuYaaqRIopIF5DL4N",
   "tracks": [
     {
       "added_at": "2026-07-17 00:01:33",
@@ -91,6 +91,26 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        }
+      ],
+      "duration_ms": 147118,
+      "name": "Chose Me",
+      "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
+    },
+    {
+      "added_at": "2026-07-17 00:01:33",
+      "album": {
         "name": "SORRY I'M BAD",
         "url": "https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI"
       },
@@ -111,26 +131,6 @@
       "duration_ms": 195692,
       "name": "BITCH & MONEY",
       "url": "https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw"
-    },
-    {
-      "added_at": "2026-07-17 00:01:33",
-      "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        }
-      ],
-      "duration_ms": 147118,
-      "name": "Chose Me",
-      "url": "https://open.spotify.com/track/3WFHfn4CPnm1uNnDYJ0KzG"
     },
     {
       "added_at": "2026-07-17 00:01:33",
@@ -399,22 +399,22 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
-        "name": "ODO PA",
-        "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
+        "name": "CAME OF AGE",
+        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         },
         {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+          "name": "Saint Edrah",
+          "url": "https://open.spotify.com/artist/2kbp8NOIpu2kWcYvzj54qG"
         }
       ],
-      "duration_ms": 156000,
-      "name": "ODO PA",
-      "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
+      "duration_ms": 167090,
+      "name": "PAIN III",
+      "url": "https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt"
     },
     {
       "added_at": "2026-07-17 00:01:33",
@@ -435,22 +435,22 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
-        "name": "CAME OF AGE",
-        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
+        "name": "ODO PA",
+        "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
       },
       "artists": [
         {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Saint Edrah",
-          "url": "https://open.spotify.com/artist/2kbp8NOIpu2kWcYvzj54qG"
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
         }
       ],
-      "duration_ms": 167090,
-      "name": "PAIN III",
-      "url": "https://open.spotify.com/track/7Drz9kZcuph4h7CXsBJkQt"
+      "duration_ms": 156000,
+      "name": "ODO PA",
+      "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
     },
     {
       "added_at": "2026-07-17 00:01:33",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
+        "name": "CAME OF AGE",
+        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 167067,
+      "name": "EASY",
+      "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
+    },
+    {
+      "added_at": "2026-07-17 00:01:33",
+      "album": {
         "name": "then 1t g0t crazier",
         "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 165981,
       "name": "Yawa (Hosanna)",
       "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
-    },
-    {
-      "added_at": "2026-07-17 00:01:33",
-      "album": {
-        "name": "CAME OF AGE",
-        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 167067,
-      "name": "EASY",
-      "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
     },
     {
       "added_at": "2026-07-17 00:01:33",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk"
-      },
-      "artists": [
-        {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
-        }
-      ],
-      "duration_ms": 135333,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7"
-    },
-    {
-      "added_at": "2026-07-17 00:01:33",
-      "album": {
         "name": "NBA",
         "url": "https://open.spotify.com/album/2ALybwwwe9YvLxFV7Ok5nK"
       },
@@ -659,26 +643,6 @@
       "duration_ms": 169043,
       "name": "NBA",
       "url": "https://open.spotify.com/track/6SYSI5Fol8vWUexnGsCY0E"
-    },
-    {
-      "added_at": "2026-07-17 00:01:33",
-      "album": {
-        "name": "No Excuses Deluxe",
-        "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 132413,
-      "name": "FINE SHYT (feat. Tml Vibez)",
-      "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
     },
     {
       "added_at": "2026-07-17 00:01:33",
@@ -703,6 +667,42 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
+        "name": "No Excuses Deluxe",
+        "url": "https://open.spotify.com/album/4HLMPzN4OND8mVyLDwjzE0"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 132413,
+      "name": "FINE SHYT (feat. Tml Vibez)",
+      "url": "https://open.spotify.com/track/49YADMkMlWrAwhhlvSn6mv"
+    },
+    {
+      "added_at": "2026-07-17 00:01:33",
+      "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/6e1CdfcFjtnf37di95cDZk"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        }
+      ],
+      "duration_ms": 135333,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/4cp8wthzz6r1VXImwu35H7"
+    },
+    {
+      "added_at": "2026-07-17 00:01:33",
+      "album": {
         "name": "Sounds of the Diaspora 2",
         "url": "https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
-        "name": "Free (Deluxe)",
-        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
-      },
-      "artists": [
-        {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
-    },
-    {
-      "added_at": "2026-07-17 00:01:33",
-      "album": {
         "name": "Motho Waka",
         "url": "https://open.spotify.com/album/6iKVn15atmmWwvz3qZFaVl"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 185454,
       "name": "Motho Waka",
       "url": "https://open.spotify.com/track/0V5v4EMQA5zlXwfQugIgJR"
+    },
+    {
+      "added_at": "2026-07-17 00:01:33",
+      "album": {
+        "name": "Free (Deluxe)",
+        "url": "https://open.spotify.com/album/0WdkpuSc28aYFN8lZLpIKo"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6MC1ZXXsW00TXVpzBExTfv"
     },
     {
       "added_at": "2026-07-17 00:01:33",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2026-07-17 00:01:33",
       "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/3Lcm6fqaPBynyiFFFkOE63"
-      },
-      "artists": [
-        {
-          "name": "Big Tril",
-          "url": "https://open.spotify.com/artist/3VY9mDRZ1p3OMWAaAsH4bG"
-        },
-        {
-          "name": "Keya Nemesis",
-          "url": "https://open.spotify.com/artist/0uvd3XlE4E0XhRpJnimNao"
-        },
-        {
-          "name": "4ourton",
-          "url": "https://open.spotify.com/artist/3i21lmJVuwJI6pgUIDaThk"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/4QUpQIPx61jcPqf1kY3ggz"
-    },
-    {
-      "added_at": "2026-07-17 00:01:33",
-      "album": {
         "name": "Legacy (feat. Jesse Jagz, Ice Prince & Blaqbonez)",
         "url": "https://open.spotify.com/album/28pficBKrjRzddaQThdPo6"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 265652,
       "name": "Legacy (feat. Jesse Jagz, Ice Prince & Blaqbonez)",
       "url": "https://open.spotify.com/track/41BBGVEiYGGvNgO3fjfegO"
+    },
+    {
+      "added_at": "2026-07-17 00:01:33",
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/3Lcm6fqaPBynyiFFFkOE63"
+      },
+      "artists": [
+        {
+          "name": "Big Tril",
+          "url": "https://open.spotify.com/artist/3VY9mDRZ1p3OMWAaAsH4bG"
+        },
+        {
+          "name": "Keya Nemesis",
+          "url": "https://open.spotify.com/artist/0uvd3XlE4E0XhRpJnimNao"
+        },
+        {
+          "name": "4ourton",
+          "url": "https://open.spotify.com/artist/3i21lmJVuwJI6pgUIDaThk"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/4QUpQIPx61jcPqf1kY3ggz"
     },
     {
       "added_at": "2026-07-17 00:01:33",

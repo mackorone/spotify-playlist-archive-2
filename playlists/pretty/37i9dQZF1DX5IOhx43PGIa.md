@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,549 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,538 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [Don’t Worry](https://open.spotify.com/track/3SdpIiX0RAj9FSqpfV7mAB) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5), [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [Don’t Worry](https://open.spotify.com/album/7nANoO4JFA0TGiEtMzFdsH) | 4:08 |
 | 100 | [Lately](https://open.spotify.com/track/5DHncTNEtkj14A5JZ9f0oz) | [veronicavon](https://open.spotify.com/artist/6qOWi2uVjil54PGcEfdKVZ) | [icecream](https://open.spotify.com/album/5Po4vHcEvcKP17j23ReHAa) | 2:27 |
 
-Snapshot ID: `AAAAADNo/rrOUfChFwTd+50/OkFHAJh6`
+Snapshot ID: `AAAAANWtk4LEbtwDWwIQfEncBOr2N/k9`

@@ -4,7 +4,7 @@
 
 > Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: ILLIT
 
-1,780 songs - 3 day 21 hr 41 min
+1,782 songs - 3 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [BBB](https://open.spotify.com/track/3GvSGqmMKcTMrJZ7PftHq6) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [BXX](https://open.spotify.com/album/3EfFYYLERgVflC4sKSOgkP) | 2:46 | 2024-04-18 | 2024-05-08 |
 | [BBB \(feat\. CHUU\)](https://open.spotify.com/track/7teSwvY24pM0s7UpCm8QkJ) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT), [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [BBB](https://open.spotify.com/album/2NR8lgTAAD0RLX6deLR8hR) | 2:58 | 2025-08-19 | 2025-10-03 |
 | [BBB \- Japanese ver\. \-](https://open.spotify.com/track/3gxK3qULU1oGMBBzbcb94c) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [ON THE VIOLET](https://open.spotify.com/album/3mSt4t8JUxngS6ftaqEdio) | 2:46 | 2024-07-17 | 2024-09-20 |
+| [BBYBBY](https://open.spotify.com/track/1BcZepagkAv3eBKxx6Uwdt) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [UNI☆Sparkle!](https://open.spotify.com/album/0SMlbiMFX4GcTR6NNAiKRG) | 3:14 | 2026-07-30 |  |
 | [Be Alright](https://open.spotify.com/track/5kcWOS5jxkScla3hmY8K94) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Be Alright](https://open.spotify.com/album/44iqPAjVuw1qlHaFAsjtMw) | 3:38 | 2024-11-29 | 2025-02-15 |
 | [Be Alright](https://open.spotify.com/track/0OnWu3G0i9Kg4Mqha5QvvH) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Be Alright](https://open.spotify.com/album/6DWLBLfRNofRfjgKozFKKV) | 2:51 | 2025-07-15 | 2026-02-10 |
 | [Be Mine](https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 3:27 | 2024-08-03 | 2024-10-11 |
@@ -680,6 +681,7 @@
 | [HONEY](https://open.spotify.com/track/1Pu0hNnhlrWfZOisgs1TPG) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/7zzh1ltXhjELf4RtD8Sp74) | 2:47 | 2022-03-16 | 2022-06-15 |
 | [Honey Honey](https://open.spotify.com/track/282XNtIdfDh0NupdD8zBzp) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Unang Kilig / Honey Honey](https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r) | 2:38 | 2026-03-05 | 2026-04-10 |
 | [Honey or Spice](https://open.spotify.com/track/1HHUeCHpCsZc64LNHzKPNA) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Honey or Spice](https://open.spotify.com/album/6hitia8vt8qpcodlQ17S0G) | 3:02 | 2023-10-11 | 2023-11-29 |
+| [honk!](https://open.spotify.com/track/462r5jEYbiNo6sqwCcRqhU) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [honk!](https://open.spotify.com/album/5PHqwsXzGYEwCia6TeT8Oc) | 2:15 | 2026-07-30 |  |
 | [Hope from KWANGYA](https://open.spotify.com/track/41Ne4OIfSkf6NgAwGVwWpJ) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 5:33 | 2021-12-28 | 2022-02-15 |
 | [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 | 2023-08-10 | 2023-10-07 |
 | [Hoshiakari](https://open.spotify.com/track/0RYFsnf8Tr40PwUnPInMNk) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Aurora](https://open.spotify.com/album/6U6R4q9mYDaUIrXvkT1Ih7) | 3:28 | 2025-02-07 | 2025-04-23 |
@@ -1207,7 +1209,7 @@
 | [ROCKY \- Boxers Ver.](https://open.spotify.com/track/3Gjdf1Na2LhR6X7tkc4buH) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ROCKY \(Boxers Ver.\)](https://open.spotify.com/album/0wJ3JKlcgsAXfzIBkJoYsN) | 3:09 | 2022-05-17 | 2022-07-29 |
 | [RODEO](https://open.spotify.com/track/7jd4sz1jTKa6yHU0171kYY) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [RODEO](https://open.spotify.com/album/4ZfhnQhFXNg4zfpW8TdI6P) | 3:22 | 2025-09-07 | 2026-04-10 |
 | [Roller Coaster](https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Roller Coaster](https://open.spotify.com/album/1brnEznuO5sOFwX5cgblYw) | 2:59 | 2023-07-03 | 2023-08-19 |
-| [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 | 2026-04-17 |  |
+| [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 | 2026-04-17 | 2026-07-31 |
 | [ROMANTIC SEVEN](https://open.spotify.com/track/0U3bcuZQAVb9faPqfTn5kF) | [RealRomantic](https://open.spotify.com/artist/1sj2O1MeEixBNaYH8Zsc3u) | [ROMANTIC SEVEN](https://open.spotify.com/album/7EqV3JFOva7cASZLWC8Jdn) | 3:59 | 2025-04-21 | 2025-05-26 |
 | [Romeo and Juliet](https://open.spotify.com/track/7zHLLOTZTAexqKsyi3etd5) | [MINHO](https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn) | [Romeo and Juliet](https://open.spotify.com/album/1YA2MGjNMvXk3wkY8z49Eh) | 4:27 | 2022-08-23 | 2022-10-19 |
 | [ROSE](https://open.spotify.com/track/45m3imiP0PeG1C9h6uORVo) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/2Ymg04Jq86b8m2qsARX5Dw) | 3:15 | 2023-05-09 | 2023-05-11 |
@@ -1415,7 +1417,7 @@
 | [Summer Night](https://open.spotify.com/track/4i52t4iun6rR5tpFpFSIBI) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Summer Strike, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF) | 4:28 | 2022-11-24 | 2023-01-25 |
 | [Summer Potion \- Summer Breeze Mix](https://open.spotify.com/track/4z3uEfiE0CvSr2SQhcm6Ho) | [ZOEE](https://open.spotify.com/artist/4cinrPXFGev2LBp4pZNZPI), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO), [Cuja](https://open.spotify.com/artist/5ssPxv6xtCK3ouwNBNLEMy) | [Summer Potion \(Summer Breeze Mix\)](https://open.spotify.com/album/3H8ZyVdvwzZCaRMvShxQpf) | 2:33 | 2024-06-28 | 2024-07-03 |
 | [Summer Was You](https://open.spotify.com/track/7fiSE0NQwgJPj5QHhln8L1) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEY 4th Mini Album \[Lovestruck\]](https://open.spotify.com/album/21oMWx3BnmfTOy2zqzxJwt) | 3:12 | 2025-06-26 | 2025-07-30 |
-| [Summer's Not Over](https://open.spotify.com/track/3GbhQ6P8bp2L5w41fH8TiB) | [Tiffany Young](https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP) | [Summer's Not Over](https://open.spotify.com/album/2aJNRTu27bAwJVB57PVIaA) | 2:37 | 2026-05-11 |  |
+| [Summer's Not Over](https://open.spotify.com/track/3GbhQ6P8bp2L5w41fH8TiB) | [Tiffany Young](https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP) | [Summer's Not Over](https://open.spotify.com/album/2aJNRTu27bAwJVB57PVIaA) | 2:37 | 2026-05-11 | 2026-07-31 |
 | [Sunday Morning](https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Sunday Morning](https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3) | 2:52 | 2026-01-15 | 2026-04-06 |
 | [Sunkiss](https://open.spotify.com/track/7J7Esd4rp4SxZuqZxkfQsY) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Cerulean Verge](https://open.spotify.com/album/5Bg9RzPb3nMMk9ecIH7g7R) | 2:58 | 2025-09-10 | 2026-03-04 |
 | [Sunkissed \(Feat\. MARK of NCT\)](https://open.spotify.com/track/5fgjRRJwE86CpvnZvR3bM6) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [MARK](https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O) | [Sunkissed](https://open.spotify.com/album/0DLOQV3bGLeLTrEYk1bR81) | 2:39 | 2024-06-25 | 2024-07-10 |

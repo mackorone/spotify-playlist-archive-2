@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: FaceBrooklyn & iza tkm
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,734 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,688 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 49 | [Focu 'Ranni](https://open.spotify.com/track/3aIGNjFJPjrGpe24OFMSUH) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX \(Complete Works\)](https://open.spotify.com/album/3goLwu2fkSSmghikOcVufU) | 2:50 |
 | 50 | [Entre Limbos](https://open.spotify.com/track/6YtlDZuUTW0T6Ie2U1go5g) | [Andy Daze](https://open.spotify.com/artist/3C9RghNMHKFDn4fxrOrrW8) | [Entre Limbos](https://open.spotify.com/album/2uQ4CcoXRMu6xpmTlLOSoo) | 3:00 |
 
-Snapshot ID: `AAAAAPW4KbIolHlYusHwB1R/HHXTAGiU`
+Snapshot ID: `AAAAAFtJgWPnPfVf2GPyCM8wH+3+bE8F`

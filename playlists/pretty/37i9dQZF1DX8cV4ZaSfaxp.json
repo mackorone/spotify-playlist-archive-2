@@ -1,12 +1,12 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 64746,
+  "num_followers": 64764,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPfKMN3DZ+/Tj7B3j1V83msI1wAU",
+  "snapshot_id": "AAAAAIQklXXJe96Jxowce/xuy3qAdopt",
   "tracks": [
     {
       "added_at": "2026-06-17 09:24:56",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "look at me",
-        "url": "https://open.spotify.com/album/4CuUCkN2O08r4kkHTPZG06"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 251370,
-      "name": "look at me",
-      "url": "https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "pporappippam",
         "url": "https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 206616,
       "name": "pporappippam",
       "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "look at me",
+        "url": "https://open.spotify.com/album/4CuUCkN2O08r4kkHTPZG06"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 251370,
+      "name": "look at me",
+      "url": "https://open.spotify.com/track/06ZjtFrSVuESKVe9bnZrNp"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Not Just Pretty",
-        "url": "https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG"
-      },
-      "artists": [
-        {
-          "name": "izna",
-          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
-        }
-      ],
-      "duration_ms": 168817,
-      "name": "In the Rain",
-      "url": "https://open.spotify.com/track/1cpiT81rcWtbgtkTeq2RW0"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "DOLLS",
         "url": "https://open.spotify.com/album/3gCmOfwfMprkm469ZUyZ6m"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "EROS",
-        "url": "https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8"
+        "name": "Not Just Pretty",
+        "url": "https://open.spotify.com/album/5GbFWsdf0iAbLvg2nMwxHG"
       },
       "artists": [
         {
-          "name": "LEE CHANHYUK",
-          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+          "name": "izna",
+          "url": "https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4"
         }
       ],
-      "duration_ms": 240081,
-      "name": "Vivid LaLa Love",
-      "url": "https://open.spotify.com/track/6jl91VgNuRjpwO0MJQw29F"
+      "duration_ms": 168817,
+      "name": "In the Rain",
+      "url": "https://open.spotify.com/track/1cpiT81rcWtbgtkTeq2RW0"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -315,6 +299,22 @@
       "duration_ms": 164936,
       "name": "Midnight Cruise",
       "url": "https://open.spotify.com/track/5V07BlPJAYdvu7oF1SkN64"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "EROS",
+        "url": "https://open.spotify.com/album/4ay1EPfn8KVGqO2CpV5Ws8"
+      },
+      "artists": [
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
+        }
+      ],
+      "duration_ms": 240081,
+      "name": "Vivid LaLa Love",
+      "url": "https://open.spotify.com/track/6jl91VgNuRjpwO0MJQw29F"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Called Love",
-        "url": "https://open.spotify.com/album/2pfsSs7NUPbeQm0DTAJezD"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Without you",
-      "url": "https://open.spotify.com/track/5de0pxWa2xBa30kivRyCNI"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "HAPPEN",
         "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 188573,
       "name": "Why",
       "url": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Called Love",
+        "url": "https://open.spotify.com/album/2pfsSs7NUPbeQm0DTAJezD"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Without you",
+      "url": "https://open.spotify.com/track/5de0pxWa2xBa30kivRyCNI"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "dosii",
-        "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 233804,
-      "name": "Orbit of yours",
-      "url": "https://open.spotify.com/track/5EMlw2z81mdTHa5tBLazQ6"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "Lonely Night",
         "url": "https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 231409,
       "name": "Blue City",
       "url": "https://open.spotify.com/track/2dKh3hfbIMlzORqhxtE3dk"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "dosii",
+        "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "duration_ms": 233804,
+      "name": "Orbit of yours",
+      "url": "https://open.spotify.com/track/5EMlw2z81mdTHa5tBLazQ6"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
-        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+        "name": "I Just Wanna Dance - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
       "artists": [
         {
-          "name": "Weki Meki",
-          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+          "name": "Tiffany Young",
+          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
         }
       ],
-      "duration_ms": 176333,
-      "name": "The Paradise",
-      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
+      "duration_ms": 214490,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "I Just Wanna Dance - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
       },
       "artists": [
         {
-          "name": "Tiffany Young",
-          "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
         }
       ],
-      "duration_ms": 214490,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+      "duration_ms": 176333,
+      "name": "The Paradise",
+      "url": "https://open.spotify.com/track/3fh3F3FSb9PBnVSurLpoGa"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Good Luck",
-        "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
-      },
-      "artists": [
-        {
-          "name": "Sandeul",
-          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Good Luck",
-      "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "Cocktail love",
         "url": "https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 204053,
       "name": "Cocktail love",
       "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/1gWh6KvIx3OP9Blsd8RJIR"
+      },
+      "artists": [
+        {
+          "name": "Sandeul",
+          "url": "https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/5JUtZlWE1jYLNZJrnBUWYM"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
+        "name": "THIS CITY",
+        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "THIS CITY",
+      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
         "name": "2026 Monthly Yoon Repair January - Lovers (with GEORGE)",
         "url": "https://open.spotify.com/album/1vg0ITgqXANGT8kzorDxVe"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "THIS CITY",
-        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
-      },
-      "artists": [
-        {
-          "name": "ROCOBERRY",
-          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "THIS CITY",
-      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "\uc5b4\ub9b0\uc655\uc790 The Little Prince - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6I6CK3eLNgufEnfz7Se93z"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 201223,
       "name": "\uadf8\ub300 Hello",
       "url": "https://open.spotify.com/track/4XFCMuCMB62vIRPRbHEEiX"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
-        "name": "Law and The City, Pt. 4 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "I want to know",
-      "url": "https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1439,26 +1423,18 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Do Worry Be Happy",
-        "url": "https://open.spotify.com/album/7hcRYQuywqZ7syYMNX2XmQ"
+        "name": "Law and The City, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst"
       },
       "artists": [
         {
-          "name": "Primary",
-          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
-        },
-        {
-          "name": "Anda",
-          "url": "https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4"
-        },
-        {
-          "name": "colde",
-          "url": "https://open.spotify.com/artist/1QIQMfnfyVmZsE6lGOaiMN"
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
         }
       ],
-      "duration_ms": 268847,
-      "name": "The open boat",
-      "url": "https://open.spotify.com/track/4RGt40uIy9faZvgLFb9XDa"
+      "duration_ms": 212000,
+      "name": "I want to know",
+      "url": "https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1495,6 +1471,30 @@
       "duration_ms": 243381,
       "name": "Ondo (with LeeHi)",
       "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Do Worry Be Happy",
+        "url": "https://open.spotify.com/album/7hcRYQuywqZ7syYMNX2XmQ"
+      },
+      "artists": [
+        {
+          "name": "Primary",
+          "url": "https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep"
+        },
+        {
+          "name": "Anda",
+          "url": "https://open.spotify.com/artist/2PZt7SATrAxsNG60Mqkan4"
+        },
+        {
+          "name": "colde",
+          "url": "https://open.spotify.com/artist/1QIQMfnfyVmZsE6lGOaiMN"
+        }
+      ],
+      "duration_ms": 268847,
+      "name": "The open boat",
+      "url": "https://open.spotify.com/track/4RGt40uIy9faZvgLFb9XDa"
     },
     {
       "added_at": "2026-06-17 09:24:56",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2026-06-17 09:24:56",
       "album": {
-        "name": "Scent",
-        "url": "https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN"
-      },
-      "artists": [
-        {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "Get up",
-      "url": "https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il"
-    },
-    {
-      "added_at": "2026-06-17 09:24:56",
-      "album": {
         "name": "1,2,3,4",
         "url": "https://open.spotify.com/album/2kaVMvuUljq9PCTWjx7QqK"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 183920,
       "name": "1,2,3,4 (Feat. Moon Sujin)",
       "url": "https://open.spotify.com/track/6KsN97qVMBhG7dha4wEs5Z"
+    },
+    {
+      "added_at": "2026-06-17 09:24:56",
+      "album": {
+        "name": "Scent",
+        "url": "https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN"
+      },
+      "artists": [
+        {
+          "name": "soon",
+          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "Get up",
+      "url": "https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il"
     },
     {
       "added_at": "2026-06-17 09:24:56",

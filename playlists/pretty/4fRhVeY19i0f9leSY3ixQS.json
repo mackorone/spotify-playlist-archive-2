@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1602,
+  "num_followers": 1614,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAASV32MRoGGAl/0wTijOZrJ6d29/Szj",
+  "snapshot_id": "AAASYCYz1L1cfhw6t/xaqlpY6kleVlpE",
   "tracks": [
     {
       "added_at": "2026-07-14 13:59:29",
@@ -41,10 +41,10 @@
       "url": "https://open.spotify.com/track/1Ts9V7Hx4VthjXi0nEvrtm"
     },
     {
-      "added_at": "2026-04-22 14:07:35",
+      "added_at": "2026-07-30 07:42:59",
       "album": {
         "name": "Get Motivated",
-        "url": "https://open.spotify.com/album/4Zkqq0Dwp7SXSFx23VdWpT"
+        "url": "https://open.spotify.com/album/3cuGOU96eQvKBCgYDZzpVQ"
       },
       "artists": [
         {
@@ -54,7 +54,7 @@
       ],
       "duration_ms": 232959,
       "name": "Get Motivated",
-      "url": "https://open.spotify.com/track/3kravhCwMvloxttZIygnMo"
+      "url": "https://open.spotify.com/track/3mwZriX0HfiqRUXQ518FNO"
     },
     {
       "added_at": "2026-05-12 03:36:45",
@@ -1517,10 +1517,10 @@
       "url": "https://open.spotify.com/track/0QPdGdupsEmBguX9QSOQYA"
     },
     {
-      "added_at": "2026-04-22 14:07:49",
+      "added_at": "2026-07-30 07:42:58",
       "album": {
         "name": "Mechanical Bird Theory",
-        "url": "https://open.spotify.com/album/65tjd5gARLr6hIYAbD2MBU"
+        "url": "https://open.spotify.com/album/3N4wMGc7ZNbCJhUCNuCyLU"
       },
       "artists": [
         {
@@ -1530,7 +1530,7 @@
       ],
       "duration_ms": 240365,
       "name": "Mechanical Bird Theory",
-      "url": "https://open.spotify.com/track/1BTXttiYzBCQ2TpUNYSrkW"
+      "url": "https://open.spotify.com/track/2nEIhKbYuvtDbXJYkzwlLF"
     },
     {
       "added_at": "2026-07-14 13:59:29",
@@ -1629,10 +1629,10 @@
       "url": "https://open.spotify.com/track/4JRbph5ENF0fPkrMd9jioO"
     },
     {
-      "added_at": "2025-08-03 07:05:37",
+      "added_at": "2026-07-30 07:42:58",
       "album": {
         "name": "Greaseproof Paper",
-        "url": "https://open.spotify.com/album/6ZocKDUZTGq93eCj1Cde1X"
+        "url": "https://open.spotify.com/album/4og5zpJyfs6PvU26VrrZ3A"
       },
       "artists": [
         {
@@ -1642,7 +1642,7 @@
       ],
       "duration_ms": 153777,
       "name": "Greaseproof Paper",
-      "url": "https://open.spotify.com/track/2PxE6OXL7NiTiFVNfB5ugl"
+      "url": "https://open.spotify.com/track/0L9w5Y5A6dUZk9rplbENKs"
     },
     {
       "added_at": "2026-07-14 13:59:29",
@@ -5839,6 +5839,54 @@
       "duration_ms": 124000,
       "name": "Power",
       "url": "https://open.spotify.com/track/3tfHumqKKjYOGC0DlfjM49"
+    },
+    {
+      "added_at": "2026-07-30 21:12:56",
+      "album": {
+        "name": "Forged in Ashes",
+        "url": "https://open.spotify.com/album/3DqZDuxlrG0Fi9VdeGlwcs"
+      },
+      "artists": [
+        {
+          "name": "Pele's Wrath",
+          "url": "https://open.spotify.com/artist/7KbRivDe6wcOC63ooOhNXr"
+        }
+      ],
+      "duration_ms": 287282,
+      "name": "After the Storm",
+      "url": "https://open.spotify.com/track/5e3IasVGvDIX3j47LRgg7Z"
+    },
+    {
+      "added_at": "2026-07-30 21:19:06",
+      "album": {
+        "name": "Zebra",
+        "url": "https://open.spotify.com/album/4p3R7Gar7FadGv844ze7ST"
+      },
+      "artists": [
+        {
+          "name": "A Rat\u00b4s Tale",
+          "url": "https://open.spotify.com/artist/4C6DNTYIqYSB3py8jUdGhx"
+        }
+      ],
+      "duration_ms": 193563,
+      "name": "It\u00b4s Alright",
+      "url": "https://open.spotify.com/track/0BExPGuBUyeYilMMnBMi0h"
+    },
+    {
+      "added_at": "2026-07-30 21:19:40",
+      "album": {
+        "name": "ORA BLU",
+        "url": "https://open.spotify.com/album/5D42xzSepGGKHFlGE1KDCQ"
+      },
+      "artists": [
+        {
+          "name": "ORA BLU",
+          "url": "https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "Red Lights",
+      "url": "https://open.spotify.com/track/38qjbEYY3mUaUSSzXcGNfS"
     }
   ],
   "unique_name": "Spotify Radio",

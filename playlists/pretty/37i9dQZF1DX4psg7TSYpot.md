@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 
 > Enjoy the summer breeze with these sunny lounge beats ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,239 likes - 79 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,319 likes - 79 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4psg7TSYpot.md) - [plain]
 | 78 | [Workspace](https://open.spotify.com/track/1C6vxuyg7SFbdMcNifMAbq) | [Buysea](https://open.spotify.com/artist/34DeKMjYgaYQaucxtrJrGJ) | [Workspace](https://open.spotify.com/album/6ERvCrAVeIU4cGkBBp7s1G) | 2:30 |
 | 79 | [Plus One](https://open.spotify.com/track/79YshEOHpuo2OJwcRftcIA) | [Spicy Ramen](https://open.spotify.com/artist/6C9bq3t9XO2xdPcMi8IxF9) | [Plus One](https://open.spotify.com/album/6MiWx37TB5zGR197wiLoZc) | 2:24 |
 
-Snapshot ID: `AAAAADxkuL1T7r4CsQwSgvyZ9IddrZ6Z`
+Snapshot ID: `AAAAAFN6hmx0gzRX+OiT6ZXh88HCE9fi`

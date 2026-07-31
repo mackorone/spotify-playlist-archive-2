@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 8252,
+  "num_followers": 8254,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAAB1TLjDMUXpJ3J+zVvN3uYQ",
+  "snapshot_id": "amlCgAAAAACzRsen28bMfbVD/xglRw9M",
   "tracks": [
     {
       "added_at": null,
@@ -391,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Va Muy Bien",
-        "url": "https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf"
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 141098,
-      "name": "Me Va Muy Bien",
-      "url": "https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy"
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+        "name": "Me Va Muy Bien",
+        "url": "https://open.spotify.com/album/6xgKnmMwkoGcG13zn8fZVf"
       },
       "artists": [
         {
@@ -448,37 +448,25 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
+      "duration_ms": 141098,
+      "name": "Me Va Muy Bien",
+      "url": "https://open.spotify.com/track/35PyAwHXwuAzmUAPLEArgy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nasty Girl (feat. Ingratax)",
-        "url": "https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs"
+        "name": "AL\u00d3",
+        "url": "https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx"
       },
       "artists": [
         {
           "name": "Angela Torres",
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        },
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 245538,
-      "name": "Nasty Girl (feat. Ingratax)",
-      "url": "https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg"
+      "duration_ms": 171428,
+      "name": "AL\u00d3",
+      "url": "https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo"
     },
     {
       "added_at": null,
@@ -515,18 +503,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "AL\u00d3",
-        "url": "https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx"
+        "name": "Nasty Girl (feat. Ingratax)",
+        "url": "https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs"
       },
       "artists": [
         {
           "name": "Angela Torres",
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 171428,
-      "name": "AL\u00d3",
-      "url": "https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo"
+      "duration_ms": 245538,
+      "name": "Nasty Girl (feat. Ingratax)",
+      "url": "https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Perd\u00ed",
-        "url": "https://open.spotify.com/album/5iLFvV5lVhEoKTOkpgceVq"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        }
-      ],
-      "duration_ms": 204834,
-      "name": "Me Perd\u00ed",
-      "url": "https://open.spotify.com/track/1WmNPOeEj0ipzfalJ7tRWe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Di Cuenta",
         "url": "https://open.spotify.com/album/6jFRVOjcQ9Ca7LwZbdpzyo"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 171034,
       "name": "Me Di Cuenta",
       "url": "https://open.spotify.com/track/2f0Sy7EgELM5bP6GZhrMSq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Perd\u00ed",
+        "url": "https://open.spotify.com/album/5iLFvV5lVhEoKTOkpgceVq"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        }
+      ],
+      "duration_ms": 204834,
+      "name": "Me Perd\u00ed",
+      "url": "https://open.spotify.com/track/1WmNPOeEj0ipzfalJ7tRWe"
     },
     {
       "added_at": null,

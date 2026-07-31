@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Alice Wonder.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Roy Borland.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -1387,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "Artificial",
+        "url": "https://open.spotify.com/album/5rkPmbvNrnGbttSNfebm9A"
+      },
+      "artists": [
+        {
+          "name": "Sarria",
+          "url": "https://open.spotify.com/artist/6vLjZKs3kZtOdbWFF4Kz68"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248677,
+      "name": "Artificial",
+      "url": "https://open.spotify.com/track/6Lm9a422onZ6cOJB8yWP3D"
+    },
+    {
+      "album": {
         "name": "As\u00ed me va",
         "url": "https://open.spotify.com/album/0hv0aNnpdyTXIohw7l0Yrj"
       },
@@ -1486,7 +1504,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 154000,
       "name": "AUNQUE SOLO SEAN UNAS HORAS",
       "url": "https://open.spotify.com/track/32WTUR6LfPmJIIDvve93CG"
@@ -1988,6 +2006,28 @@
       "duration_ms": 162789,
       "name": "Bollera",
       "url": "https://open.spotify.com/track/4xHXFX1nXCNGi6pRUKYkub"
+    },
+    {
+      "album": {
+        "name": "Bombas de Amor",
+        "url": "https://open.spotify.com/album/4rs98Hvm7jujBnsanUI1yM"
+      },
+      "artists": [
+        {
+          "name": "Rada Mancy",
+          "url": "https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R"
+        },
+        {
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162925,
+      "name": "Bombas de Amor",
+      "url": "https://open.spotify.com/track/3GIHVOueM68HxiyW3LRinE"
     },
     {
       "album": {
@@ -3224,7 +3264,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 174608,
       "name": "CRISTALINO",
       "url": "https://open.spotify.com/track/32O7EG0SLpGHRnal1bJr0u"
@@ -3604,7 +3644,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 141920,
       "name": "De la foto que guardo",
       "url": "https://open.spotify.com/track/4OEi941eF63SXrc2LQ0sgx"
@@ -4595,6 +4635,24 @@
     },
     {
       "album": {
+        "name": "El deseo del genio",
+        "url": "https://open.spotify.com/album/1KwjEbA8CcRU2avSsm9aiP"
+      },
+      "artists": [
+        {
+          "name": "Sr. Chinarro",
+          "url": "https://open.spotify.com/artist/3bEHj6WUeCJey0vLrffSQp"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251430,
+      "name": "El deseo del genio",
+      "url": "https://open.spotify.com/track/1itqgtr55ZgoBCiOf15qD0"
+    },
+    {
+      "album": {
         "name": "El ef\u00edmero arte de perdonar",
         "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
       },
@@ -4846,6 +4904,24 @@
       "duration_ms": 218605,
       "name": "El Mundo",
       "url": "https://open.spotify.com/track/0fzIfwwIKrt4LuT3XmwtGv"
+    },
+    {
+      "album": {
+        "name": "EL MUNDO ARDER",
+        "url": "https://open.spotify.com/album/6CZwKXTJ26KdM1t0gzp564"
+      },
+      "artists": [
+        {
+          "name": "BAJANDO AL MERCAO'",
+          "url": "https://open.spotify.com/artist/6pnJFEopQYVFQaesKOY5lG"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187588,
+      "name": "EL MUNDO ARDER",
+      "url": "https://open.spotify.com/track/1ESUvUMBsiOVYqBIvhFuwl"
     },
     {
       "album": {
@@ -5292,7 +5368,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 120888,
       "name": "en vd nose si todo sto te importa",
       "url": "https://open.spotify.com/track/1PCuam9Qriz6pali3F42Dz"
@@ -6460,6 +6536,24 @@
       "duration_ms": 157653,
       "name": "Gatos De Gasolinera",
       "url": "https://open.spotify.com/track/4Tnw9OgfPhkztVeIVBwOKF"
+    },
+    {
+      "album": {
+        "name": "L'encant",
+        "url": "https://open.spotify.com/album/0UjsibJy1gp0npf66bpzUF"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165950,
+      "name": "Gener",
+      "url": "https://open.spotify.com/track/5RzidrFcGcVyMifVucOa3H"
     },
     {
       "album": {
@@ -7720,6 +7814,24 @@
       "duration_ms": 206666,
       "name": "La Ceniza (feat. Valeria Castro)",
       "url": "https://open.spotify.com/track/7AGYsCMcwID3CBGnwPUlyj"
+    },
+    {
+      "album": {
+        "name": "La Chica del Norte",
+        "url": "https://open.spotify.com/album/5AJzvTY9oumtaFOR36pxdd"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221600,
+      "name": "La Chica del Norte",
+      "url": "https://open.spotify.com/track/0P1d6vZ3Fb5vjq3R0DYm75"
     },
     {
       "album": {
@@ -10530,7 +10642,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 153883,
       "name": "Nada que decir",
       "url": "https://open.spotify.com/track/04VYhmJetbfaJ89fxXUz07"
@@ -13580,7 +13692,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 161029,
       "name": "Roto de coraz\u00f3n",
       "url": "https://open.spotify.com/track/104D5Q3VP3MDLTNJwAfkgi"
@@ -13942,6 +14054,24 @@
       "duration_ms": 184500,
       "name": "Si lo callo muero",
       "url": "https://open.spotify.com/track/2vQTSPelGFnyQN8OiURRxr"
+    },
+    {
+      "album": {
+        "name": "Del barro al poema",
+        "url": "https://open.spotify.com/album/1LTCttMMiGuAvPS3swSDHL"
+      },
+      "artists": [
+        {
+          "name": "Sandra Delaporte",
+          "url": "https://open.spotify.com/artist/1ebl7jsmFzfv8isOqNsvQ3"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151794,
+      "name": "Si me dejara ser",
+      "url": "https://open.spotify.com/track/7ogrmR3p9lRxbXop78QBRS"
     },
     {
       "album": {
@@ -15284,7 +15414,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 238278,
       "name": "Tiempos Raros",
       "url": "https://open.spotify.com/track/5eCCQYtrIigh6FAboG6ac0"

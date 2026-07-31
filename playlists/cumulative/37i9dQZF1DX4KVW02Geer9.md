@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 市川空
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: DOMi & JD BECK
 
-600 songs - 1 day 19 hr 7 min
+603 songs - 1 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Eternal Orbit](https://open.spotify.com/track/2ifHo7sPgqbXLVuShccAHU) | [ASOUND](https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk) | [Eternal Orbit](https://open.spotify.com/album/45I5XsIbAX2CTqpkaMgqGD) | 4:47 | 2026-01-22 |  |
 | [Eternal Reflections \(feat\. Yussef Dayes\)](https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:53 | 2025-09-11 | 2026-03-13 |
 | [Everything That Isn’t](https://open.spotify.com/track/3lgI03Ylx19zL2TLjDJbBf) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri), [Ben Williams](https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV), [Gene Coye](https://open.spotify.com/artist/3uLew3vHBozvLEgwwAWHAb), [Jermaine Paul](https://open.spotify.com/artist/2ybMMRa9RrKfGkbJRkrv21), [Jose Miguel Perez](https://open.spotify.com/artist/5GX31EnMcvTzsIJ0SSXlzR) | [Everything That Isn’t](https://open.spotify.com/album/152HIZKJspSoDCqZfqglop) | 4:13 | 2025-07-10 | 2025-12-12 |
+| [EXiT](https://open.spotify.com/track/4KyoBJTAQY13ZYsm6N7wO0) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [WHO ASKED?](https://open.spotify.com/album/3nehlgwYexH9ovS9fohKs1) | 2:53 | 2026-07-30 |  |
 | [extra cinnamon please](https://open.spotify.com/track/7DVvc09H7c5WlKVIet6dm9) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [MonoNeon](https://open.spotify.com/artist/1MmDWlj460u0Bu36rKwSUI), [Robert "Sput" Searight](https://open.spotify.com/artist/0o5bweAbSBmSkksYXrgKS8) | [extra cinnamon please](https://open.spotify.com/album/0bGCtnxqndcee39hi7PPoS) | 3:43 | 2026-02-05 |  |
 | [eyes wide open \(noema\)](https://open.spotify.com/track/3qOaqv0ohk5t5LHQorLNqL) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH), [Dirg Gerner](https://open.spotify.com/artist/50tYM3PrjzqoNUWfQoZSRi) | [Dream Manifest \(Deluxe\)](https://open.spotify.com/album/2uDCxHtu7bhQpShfCYKFVs) | 3:20 | 2025-10-23 |  |
 | [Fabric Rain](https://open.spotify.com/track/4cwzTtq8ZHKnOlyp4to0dB) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Fabric Rain](https://open.spotify.com/album/75SSKrJ2K6beOTtteF5He4) | 3:18 | 2026-02-17 | 2026-04-17 |
@@ -285,6 +286,7 @@
 | [Left Eye](https://open.spotify.com/track/4SK4LWklb4hZn58MB3uXKq) | [西口明宏](https://open.spotify.com/artist/7cfJQuXW7ehOs7SixLZJhC) | [Left Eye](https://open.spotify.com/album/5rJ7aRujo2w9txa1m7Fy8t) | 6:40 | 2024-06-27 | 2024-08-09 |
 | [Lena](https://open.spotify.com/track/2ma6FYKV0rIDhOhiquNdB6) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Lena](https://open.spotify.com/album/3aGQNTgUSPn8bu4XqHMBAM) | 3:25 | 2024-06-27 | 2024-08-16 |
 | [Lenha Na Fogueira](https://open.spotify.com/track/1NID0KmcpFGbV9muWTc6ef) | [Azymuth](https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx), [Luisa](https://open.spotify.com/artist/1pwadcOYNQ8MHWF8CDO1WP) | [Luisa](https://open.spotify.com/album/4YV55xvURahHnwFD5ZM0rM) | 3:02 | 2025-07-17 | 2025-08-20 |
+| [Les Fleurs](https://open.spotify.com/track/5qZlBTwuQDR2FUB6cWQeDY) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Les Fleurs](https://open.spotify.com/album/65G0cgLf48rPAtl9GmZEec) | 5:12 | 2026-07-30 |  |
 | [Let Me Cook](https://open.spotify.com/track/6aU3cf7zDyZlfdiFNYeRNQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Spirit Box](https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja) | 2:52 | 2024-11-07 | 2025-06-06 |
 | [Let The Sky Open Under Your Feet](https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc) | [Skyjack](https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa) | [Let The Sky Open Under Your Feet](https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec) | 6:35 | 2026-05-26 |  |
 | [Libations: KwaKhangelamankengana](https://open.spotify.com/track/71OFi2giEZnnF9kfhWUlq1) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [uNomkhubulwane](https://open.spotify.com/album/282PG9yezvXZUVMimjWkXw) | 6:27 | 2025-06-05 | 2026-01-15 |
@@ -439,6 +441,7 @@
 | [Should've Been You](https://open.spotify.com/track/2oLADoIPrqnGoRC4q7xHgO) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [ECHOES OF PRAYER](https://open.spotify.com/album/37gmVglfhCEkWwiefTKuC6) | 3:14 | 2024-11-14 | 2025-04-25 |
 | [Silent Chaos](https://open.spotify.com/track/7csNgeNwky8Atcq2B6nQrT) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Silent Chaos](https://open.spotify.com/album/0T73FUjssfu3pYJC0kg6dT) | 2:30 | 2024-10-04 | 2025-01-11 |
 | [Silent Dancer](https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 5](https://open.spotify.com/album/2nUT1RnTEraQLqvEXaaJzN) | 4:10 | 2024-07-25 | 2024-11-15 |
+| [Silvershoes](https://open.spotify.com/track/7ep0wpZD1S5dWhPaQeMBeY) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Silvershoes](https://open.spotify.com/album/4r5ig3cOxRwjCDLz94VEgx) | 2:37 | 2026-07-30 |  |
 | [Skunk \(feat\. Cory Wong\)](https://open.spotify.com/track/2srOEYlQhvXQc7EcUzALaK) | [Bump2Soul](https://open.spotify.com/artist/3CVmuWMiZYBHBACgnQwm39), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Bump2's](https://open.spotify.com/album/7hfcG6L01eX43zPElTiNMi) | 4:26 | 2026-03-20 |  |
 | [Slum](https://open.spotify.com/track/2LDWRy1zw9nVl82Wh6d25J) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [Studio Natives, Vol\. 1](https://open.spotify.com/album/1LvGluM8v8Z3hKBHmm8kf0) | 6:04 | 2025-01-16 | 2025-03-22 |
 | [Smell The Daisies](https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Smell The Daisies](https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk) | 4:10 | 2025-03-06 | 2025-06-20 |

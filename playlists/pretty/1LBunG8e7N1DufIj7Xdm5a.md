@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,634 songs - 10 day 8 hr 32 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,642 songs - 10 day 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4642,5 +4642,13 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4632 | [Ravenheart](https://open.spotify.com/track/29qf1NdaKsmXDAe1WDiyCl) | [MantuLa](https://open.spotify.com/artist/2U9rKhwaHS2DVPMKTbR2iR) | [Ravenheart](https://open.spotify.com/album/2vT7tcmIOVRD3n51eWe4Sb) | 4:03 |
 | 4633 | [Minor](https://open.spotify.com/track/2hUFTMMDBg1aFcB4WTOyeH) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Minor](https://open.spotify.com/album/4pVvmobCRUtv2W3oLtENZ7) | 4:49 |
 | 4634 | [Minor \- Instrumental](https://open.spotify.com/track/4iueX3n23phxmUct2zEHgL) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Minor](https://open.spotify.com/album/4pVvmobCRUtv2W3oLtENZ7) | 4:49 |
+| 4635 | [Catching Matches](https://open.spotify.com/track/6E6mN52PjtMl9I0fEtPdLL) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [The End Is Always Nigh, The End Is Never Now](https://open.spotify.com/album/7azdUfeULBd4TBHO1NKoUy) | 3:28 |
+| 4636 | [Bruise](https://open.spotify.com/track/73ggumHKr80Nq9DAwXJu8E) | [IronObit](https://open.spotify.com/artist/7jCUqBnzcxgZN5YnkD6u39) | [Bruise](https://open.spotify.com/album/7JLWiDdyR8uTswb7lgsU99) | 3:14 |
+| 4637 | [Wondering](https://open.spotify.com/track/2Mdyd2pmxT0rAUKVnZFzx0) | [Monoking](https://open.spotify.com/artist/5WYaz76SF54XGXthArazho) | [Wondering](https://open.spotify.com/album/4mvQ1PvQDamfSrSAGyEyOA) | 4:52 |
+| 4638 | [Ode To A Friend](https://open.spotify.com/track/79A2MXs3fvBqxgjWhFcevr) | [Jordan Bailey](https://open.spotify.com/artist/0hGKx9UEqBFpYYf0hYk7JS) | [Ode To A Friend](https://open.spotify.com/album/5TYNAKqVYfHMoOsW98ytRv) | 5:02 |
+| 4639 | [NÃO ME DEIXE SÓ](https://open.spotify.com/track/1tla0B1hQI4yJn34vqbzFY) | [Malvisto](https://open.spotify.com/artist/6DbqUhorIDgoDyG0KhSdqk), [SHFR](https://open.spotify.com/artist/5LlpZBL5I7KqE7TKowI8hI), [Angelís](https://open.spotify.com/artist/0PZtO0Cok5DJDXqAbi21kQ) | [NÃO ME DEIXE SÓ](https://open.spotify.com/album/0BKNwyGfdqEL1OfGzWHOnK) | 3:52 |
+| 4640 | [Letter bomb](https://open.spotify.com/track/257ouBd9Lk6cTN6Pehksog) | [The Hong Kong Dollars](https://open.spotify.com/artist/1Gj90JO3ihhhnztQlrnubj) | [Letter bomb](https://open.spotify.com/album/2EMTEHR6B7PNUxZq3tHaCS) | 3:04 |
+| 4641 | [Luce che resta](https://open.spotify.com/track/2RWrMEhbbxdc55NZnWXMBL) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 4:29 |
+| 4642 | [Letting Go](https://open.spotify.com/track/4cyhP6RdHSh3BO3w919RoZ) | [Wretched Things](https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk) | [Letting Go](https://open.spotify.com/album/5tWApKMQsnNfjd0kb0hdf1) | 3:44 |
 
-Snapshot ID: `AAAJaoboTbgUG8Rz4SzB3yVRVnD5CB6k`
+Snapshot ID: `AAAJclDQIocFQH750dDxbTVfWcZjbUML`

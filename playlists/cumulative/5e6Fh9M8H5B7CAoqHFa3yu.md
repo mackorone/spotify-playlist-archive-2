@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,435 songs - 5 day 23 hr 22 min
+2,437 songs - 5 day 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -643,6 +643,7 @@
 | [Es ser](https://open.spotify.com/track/1zHN8roXBJPDgzyqbCf6Mw) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:40 | 2026-03-15 |  |
 | [Escuchar al Corazón](https://open.spotify.com/track/7fiS9EXmshmwnJooHo8EBM) | [Leyna y Estos Otros](https://open.spotify.com/artist/4mVrxEe5cktiKKhmvBEAVu) | [Escuchar al Corazón](https://open.spotify.com/album/2BTRNrdxtTxAJBXSoWEn2J) | 4:22 | 2026-05-26 |  |
 | [Ese 50 por Ciento de Tí](https://open.spotify.com/track/3zd6Dwc501K5MpMsGHfXkh) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Ese 50 por Ciento de Tí](https://open.spotify.com/album/47apSpjxWLbQqeo0xZqfFQ) | 3:23 | 2026-04-10 |  |
+| [Ese Suspiro que no Calla](https://open.spotify.com/track/08OFoNJRf8lu356qzCiz6H) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Ese Suspiro que no Calla](https://open.spotify.com/album/6lvkIQORp7eYmWiLF9ANx0) | 3:25 | 2026-07-30 |  |
 | [Esfera estelar](https://open.spotify.com/track/0M2AJJKUXyviBBPkNlWZeP) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 2:52 | 2026-03-15 |  |
 | [Esfera estelar](https://open.spotify.com/track/1sM0yol9qxkgL9bspKcGE1) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera estelar](https://open.spotify.com/album/5U1dydCsI3g37wy6KQmJOd) | 2:52 | 2026-04-12 |  |
 | [Esos días](https://open.spotify.com/track/4ETKxWBINokUyqmuGwVM2m) | [DUNO MESSINA](https://open.spotify.com/artist/0oMoPJARAz2bjmmkabT7J9) | [DESPERTAR](https://open.spotify.com/album/5Watu1vvVMqJemkv4XIRty) | 3:02 | 2025-07-09 |  |
@@ -2443,5 +2444,6 @@
 | [あなた](https://open.spotify.com/track/7HHPTTI8vesYK563qCNckR) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [あなた](https://open.spotify.com/album/1CZNZD1qvAbHlFcdByhbfR) | 2:30 | 2025-06-09 |  |
 | [塩顔男子](https://open.spotify.com/track/0GSbY6mlGyfMNinV8YOlI1) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [塩顔男子](https://open.spotify.com/album/5VPhR0H5oRNQue1bggcMlH) | 3:07 | 2025-08-25 |  |
 | [好きになったもん負け。なんて信じない！](https://open.spotify.com/track/1a5L2HXxeJRDrc8wJq6Z8C) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [好きになったもん負け。なんて信じない！](https://open.spotify.com/album/7A1cBtzaQ5LwHMrPGtIdvx) | 4:37 | 2026-02-06 |  |
+| [約束の地](https://open.spotify.com/track/1YR77jndeytCjluhJYX1ji) | [アニングスドラゴン](https://open.spotify.com/artist/0nbrD5mGsTeWQFyXKBSx3r) | [約束の地](https://open.spotify.com/album/5f7HkfplGdBOXjlCQlJDos) | 3:58 | 2026-07-30 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

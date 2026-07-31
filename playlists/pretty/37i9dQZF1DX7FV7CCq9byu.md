@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,631 likes - 123 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,630 likes - 123 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 122 | [Hälsa satan](https://open.spotify.com/track/5ZooL3IGyiI12IPHI4JQyS) | [Adrian Macéus](https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g) | [Ett hjärta utan adress](https://open.spotify.com/album/3IJ5PO3fEF6zNActgpsMYO) | 3:16 |
 | 123 | [SS26](https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [SS26](https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze) | 2:47 |
 
-Snapshot ID: `AAAAAKo1ouq/1Ct4bBkRQdURmkit88bK`
+Snapshot ID: `AAAAABHGOFi/ZKBhuOzUCoQ8xJN8eT47`

@@ -1,12 +1,12 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 51911,
+  "num_followers": 51928,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIHsyW3nHAi/RO20zwVPvjzaAR7W",
+  "snapshot_id": "AAAAAGzVu2/xgdlep+rutYTVJ3ncBiyV",
   "tracks": [
     {
       "added_at": "2020-02-10 14:27:21",
@@ -59,22 +59,6 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
-        "name": "Guus Meeuwis",
-        "url": "https://open.spotify.com/album/5Nkqfgaq1tqBzLGhSf0zaC"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "Brabant",
-      "url": "https://open.spotify.com/track/0GiWi4EkPduFWHQyhiKpRB"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
         "name": "Het Beste Van..",
         "url": "https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 211453,
       "name": "Jij Bent Zo",
       "url": "https://open.spotify.com/track/3xAT6opqXN3qHup9VtzOS5"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
+        "name": "Guus Meeuwis",
+        "url": "https://open.spotify.com/album/5Nkqfgaq1tqBzLGhSf0zaC"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "Brabant",
+      "url": "https://open.spotify.com/track/0GiWi4EkPduFWHQyhiKpRB"
     },
     {
       "added_at": "2020-02-10 14:27:21",

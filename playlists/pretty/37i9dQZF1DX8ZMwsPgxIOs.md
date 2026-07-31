@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Space 92
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,028 likes - 191 songs - 12 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,043 likes - 191 songs - 12 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 190 | [Are You There?](https://open.spotify.com/track/0AFmVU5olgqY3Gwu9SYyZd) | [Meg McHugh](https://open.spotify.com/artist/3IrrhCEglQLNuayeXNP6MV) | [Are You There?](https://open.spotify.com/album/4TRNA27FXPoZR5944QR0eN) | 3:07 |
 | 191 | [Eye Contact](https://open.spotify.com/track/0VeepLHSEUiGYPAvXFTplb) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Eye Contact](https://open.spotify.com/album/48ptga287fpeZAxjcM1gE8) | 4:00 |
 
-Snapshot ID: `AAAAAJYPsqYAciXHtWNwDKtlPP2oPpX/`
+Snapshot ID: `AAAAAD3tsbUUtQczPcnvlX8TvJt2b7+A`

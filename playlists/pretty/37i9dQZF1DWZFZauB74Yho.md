@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > The latest releases from bluegrass and string bands alike\. Cover: Lindsay Lou
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,742 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,741 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 98 | [Playing With Fire](https://open.spotify.com/track/3sNCGaSvUSqW4Hvggrvl65) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [Playing With Fire](https://open.spotify.com/album/0tuFl65B3YGtFt7mNDpGae) | 3:49 |
 | 99 | [Light At The End of The Day](https://open.spotify.com/track/5VhEJtRZhIv5wQlvIdIdMo) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Light At The End of The Day](https://open.spotify.com/album/02ylR7zt8ePmOSwezznHTo) | 3:58 |
 
-Snapshot ID: `AAAAAOfZpYMkrNj6fEd+kn/xI/tcUkBw`
+Snapshot ID: `AAAAAM9eI4pLRESHmBycC3Et1Cxeoy5/`

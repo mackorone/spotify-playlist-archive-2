@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,349 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,379 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [Release me](https://open.spotify.com/track/3OQS20U3O3UEgRdF2SqffP) | [Amanda Martinez](https://open.spotify.com/artist/7nF6i5fJJQGLQmjlCmrBGG) | [Recuerdo](https://open.spotify.com/album/6IL2LftKyaU0UXrFWrjgGY) | 3:33 |
 | 100 | [Playing Your Game](https://open.spotify.com/track/1trrXz1GCAsXwmM3pN8Mh6) | [Eric Hollaway](https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l) | [Jazzish](https://open.spotify.com/album/4j4zHxlcpgtrsSAS2AESCh) | 5:03 |
 
-Snapshot ID: `AAAAAHcm3pBtPFFcqM0kAVN+hGV5NEZ8`
+Snapshot ID: `AAAAACTIRzNdPJ2LYKi3I7ITalAlkRre`

@@ -1,12 +1,12 @@
 {
   "description": "Only the best rock in the world. Cover: M\u00e5neskin",
-  "num_followers": 218401,
+  "num_followers": 218435,
   "original_name": "Just Rock!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC6Ju63d+INLDW0DMwzSHk7z12Iq",
+  "snapshot_id": "AAAAAOdxz4kLwdM0egp/fJ+jTlNUUUni",
   "tracks": [
     {
       "added_at": "2026-07-25 14:53:00",
@@ -211,6 +211,22 @@
     {
       "added_at": "2026-07-25 14:53:00",
       "album": {
+        "name": "Saw You Stand",
+        "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 289187,
+      "name": "Saw You Stand",
+      "url": "https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek"
+    },
+    {
+      "added_at": "2026-07-25 14:53:00",
+      "album": {
         "name": "Date Night",
         "url": "https://open.spotify.com/album/4rSBYJKVfytsfeXw2PYjNv"
       },
@@ -218,6 +234,10 @@
         {
           "name": "Tom Morello",
           "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "Roman Morello",
+          "url": "https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju"
         }
       ],
       "duration_ms": 227116,

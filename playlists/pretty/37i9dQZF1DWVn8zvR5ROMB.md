@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Max McNown, Morgan Wallen, Shaboozey with Leon Bridges and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,652 likes - 81 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,741 likes - 81 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 80 | [Over My Hometown](https://open.spotify.com/track/7KNXvmFttsw4TWKE16o7Dt) | [Kaleb Sanders](https://open.spotify.com/artist/4hsCKTS1M5pg7uIJuotsDB) | [Over My Hometown](https://open.spotify.com/album/2AJkCkcHkoM0kfQlx32LOy) | 3:13 |
 | 81 | [Betcha Money \- Taylor Gold](https://open.spotify.com/track/2x5QhWMxb6umjAlqVA8Hg4) | [Ben Gallaher](https://open.spotify.com/artist/1F1iOPcBFgAYGEM5x1s6SJ) | [Betcha Money \(Taylor Gold\)](https://open.spotify.com/album/7HfMpyFDj3kZmoFOrA8LP0) | 2:54 |
 
-Snapshot ID: `AAAAAJ8Rgt8qAOUgYiq207a/qahv9q9d`
+Snapshot ID: `AAAAAIfRLPt+FU68Lk2z2QZP+TB8V6XB`

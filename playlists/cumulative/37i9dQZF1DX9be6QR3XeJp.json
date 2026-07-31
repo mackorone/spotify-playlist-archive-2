@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: RIP Magic",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Cam Keddy",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -6132,6 +6132,24 @@
       "duration_ms": 248932,
       "name": "To The Sandals",
       "url": "https://open.spotify.com/track/3bTDnlYinDUIC5giN64TNE"
+    },
+    {
+      "album": {
+        "name": "Tom Zendaya",
+        "url": "https://open.spotify.com/album/1zF6LiXxXsCngaZ5YXpUtQ"
+      },
+      "artists": [
+        {
+          "name": "Cam Keddy",
+          "url": "https://open.spotify.com/artist/1747Rrh8maZzzcgo2jVJkt"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Tom Zendaya",
+      "url": "https://open.spotify.com/track/34SfEJafsH6FzKfwFrt8va"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : d\u00f8pelym",
+  "description": "Le meilleur du rap africain francophone. Photo : Black K",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 172490,
       "name": "Abom\u00e9",
       "url": "https://open.spotify.com/track/5UXDh8RkSAP0xC9J9SOhgY"
@@ -894,7 +894,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 165211,
       "name": "Bobitana",
       "url": "https://open.spotify.com/track/2d4kzXLc2vawOFvdkfDPJW"
@@ -2831,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "FAIS \u00c7A BIEN",
+        "url": "https://open.spotify.com/album/1kLHbf3rbvaRB7CbEjauC5"
+      },
+      "artists": [
+        {
+          "name": "Kikimoteleba",
+          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213655,
+      "name": "FAIS \u00c7A BIEN",
+      "url": "https://open.spotify.com/track/71ETExWimdrcoAbUio6b79"
+    },
+    {
+      "album": {
         "name": "FAKE",
         "url": "https://open.spotify.com/album/1ND9ff70QTZubcUP1alN5J"
       },
@@ -3442,6 +3460,28 @@
       "duration_ms": 208380,
       "name": "Gros Nerfs",
       "url": "https://open.spotify.com/track/5KR5mC0IKDrnStz30QsErS"
+    },
+    {
+      "album": {
+        "name": "HAINE",
+        "url": "https://open.spotify.com/album/4hDFdBNYbGO2C9PA1BK259"
+      },
+      "artists": [
+        {
+          "name": "Jordy Escobar",
+          "url": "https://open.spotify.com/artist/7y8rRFHnMzwKqKxgyLwJIb"
+        },
+        {
+          "name": "Shapat",
+          "url": "https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "HAINE",
+      "url": "https://open.spotify.com/track/02OkwLgb4aXiHnPEpajx4I"
     },
     {
       "album": {
@@ -4789,6 +4829,28 @@
     },
     {
       "album": {
+        "name": "Miyamoto Musashi",
+        "url": "https://open.spotify.com/album/7Bf5cA7lfM5QDKVZoDVm2U"
+      },
+      "artists": [
+        {
+          "name": "Way\u00e9",
+          "url": "https://open.spotify.com/artist/3wAFaOH7WCcoQ4utgGTGFr"
+        },
+        {
+          "name": "Scarysama",
+          "url": "https://open.spotify.com/artist/29Z9iyxb3AgAVxdxGzkHpX"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208558,
+      "name": "Miyamoto Musashi",
+      "url": "https://open.spotify.com/track/5fpiQG4mc8sTvucj9DtBra"
+    },
+    {
+      "album": {
         "name": "MMDD",
         "url": "https://open.spotify.com/album/4DbpXb4Ki12EIw7wwwVFlb"
       },
@@ -4884,10 +4946,32 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 181500,
       "name": "Monnaie",
       "url": "https://open.spotify.com/track/72m2rE5RMIXTNyb5OO5wjG"
+    },
+    {
+      "album": {
+        "name": "Monter Descendre",
+        "url": "https://open.spotify.com/album/6bVVEscNW7lf7LbIrzK9Ge"
+      },
+      "artists": [
+        {
+          "name": "Black M",
+          "url": "https://open.spotify.com/artist/7lMgpN1tEBQKpRoUMKB8iw"
+        },
+        {
+          "name": "Ariel Sheney",
+          "url": "https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178796,
+      "name": "Monter Descendre",
+      "url": "https://open.spotify.com/track/3S1Mls5c6hhflUvzZv8yKp"
     },
     {
       "album": {
@@ -5681,6 +5765,24 @@
     },
     {
       "album": {
+        "name": "PAPACTISER",
+        "url": "https://open.spotify.com/album/0gIhyIz3wofvO1AVS5u3Vt"
+      },
+      "artists": [
+        {
+          "name": "Benzolamelo",
+          "url": "https://open.spotify.com/artist/03BQDdUudnaUqRp45kAcM7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157920,
+      "name": "PAPACTISER",
+      "url": "https://open.spotify.com/track/7G9mqI06xLgafa9iWtSCKk"
+    },
+    {
+      "album": {
         "name": "Papito",
         "url": "https://open.spotify.com/album/1x5RDG2ZZCtSqYJMToGXpE"
       },
@@ -5932,7 +6034,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 163333,
       "name": "POWER",
       "url": "https://open.spotify.com/track/0eo7pY9DFqZWI1eOSULLDC"
@@ -6362,7 +6464,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 177815,
       "name": "SAGACIT\u00c9",
       "url": "https://open.spotify.com/track/7iLMhRjmsufvisk3lW4ctc"
@@ -7488,6 +7590,28 @@
       "duration_ms": 160000,
       "name": "T\u00e9l\u00e9phone",
       "url": "https://open.spotify.com/track/4H4WTnvU3UtpokkXpPgQeM"
+    },
+    {
+      "album": {
+        "name": "Un C\u00f4t\u00e9",
+        "url": "https://open.spotify.com/album/6xrCKFbzQa9T8NVZXxKVVb"
+      },
+      "artists": [
+        {
+          "name": "Black K",
+          "url": "https://open.spotify.com/artist/17kX2iCte2ZwbtwhIF7bBq"
+        },
+        {
+          "name": "L'Oiseau Rare",
+          "url": "https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150625,
+      "name": "Un C\u00f4t\u00e9",
+      "url": "https://open.spotify.com/track/3cDgYs9FSmmpIGVwsfzh3J"
     },
     {
       "album": {

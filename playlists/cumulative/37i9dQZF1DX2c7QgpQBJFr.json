@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "la nuova scena pop italiana \ud83c\uddee\ud83c\uddf9 cover: Rare\u0219",
+  "description": "la nuova scena pop italiana \ud83c\uddee\ud83c\uddf9 cover: Sethu",
   "name": "nuovo pop \ud83c\uddee\ud83c\uddf9",
   "tracks": [
     {
@@ -446,6 +446,24 @@
       "duration_ms": 164788,
       "name": "2 am (feat. Drast)",
       "url": "https://open.spotify.com/track/6PAQfzssPTEWiQSsWT5WQT"
+    },
+    {
+      "album": {
+        "name": "2 passi dal cielo non uno in pi\u00f9",
+        "url": "https://open.spotify.com/album/708g0KEHlrH03I5rXJEWh1"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175742,
+      "name": "2 passi dal cielo non uno in pi\u00f9",
+      "url": "https://open.spotify.com/track/26LJfpdK0XFPKen1K2I4UQ"
     },
     {
       "album": {
@@ -2173,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "Arancia",
+        "url": "https://open.spotify.com/album/1oQENihemOTNuYhP3f8g8R"
+      },
+      "artists": [
+        {
+          "name": "Joe Elle",
+          "url": "https://open.spotify.com/artist/2Xwx1kR7nPcZlhuHCMTHQO"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "Arancia",
+      "url": "https://open.spotify.com/track/2jqmxMelum8kqDMWaoLEAV"
+    },
+    {
+      "album": {
         "name": "Aranciata",
         "url": "https://open.spotify.com/album/58oNEAAdQ2eFvX2GZNBL8x"
       },
@@ -2268,6 +2304,28 @@
       "duration_ms": 172137,
       "name": "Aria",
       "url": "https://open.spotify.com/track/4w4Dz05Kf1bSLS9zgBLyEP"
+    },
+    {
+      "album": {
+        "name": "Aria",
+        "url": "https://open.spotify.com/album/6BnIsDuxNtuwcQjnftC3Co"
+      },
+      "artists": [
+        {
+          "name": "ggiovanni",
+          "url": "https://open.spotify.com/artist/1oT8K7RFmacAPafRlcdnw9"
+        },
+        {
+          "name": "Umarell",
+          "url": "https://open.spotify.com/artist/3x99VxtGkA6KaeWlu6zeOQ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192857,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/6tZYQlm9KIN51mgE6lRNzs"
     },
     {
       "album": {
@@ -2468,7 +2526,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 164369,
       "name": "Atlantide (from the Netflix film \u201cNon abbiam bisogno di parole\u201d)",
       "url": "https://open.spotify.com/track/57KzV95Th155vud4KmLqLN"
@@ -4651,6 +4709,28 @@
     },
     {
       "album": {
+        "name": "CCTS (+calore)",
+        "url": "https://open.spotify.com/album/4FsFXg2BIOE2NLltz7w8Wq"
+      },
+      "artists": [
+        {
+          "name": "DelCapo",
+          "url": "https://open.spotify.com/artist/4zzKTiRX6jxpItedTFCliy"
+        },
+        {
+          "name": "Millefiori",
+          "url": "https://open.spotify.com/artist/55kBWp4unj7SX6URMMyakp"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182580,
+      "name": "CCTS (+calore)",
+      "url": "https://open.spotify.com/track/568uzUYep483FrRUCIJgK5"
+    },
+    {
+      "album": {
         "name": "CEMENTO",
         "url": "https://open.spotify.com/album/57yOle6fNUZN99nfVM5W1C"
       },
@@ -4824,7 +4904,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 194307,
       "name": "Che fastidio!",
       "url": "https://open.spotify.com/track/1k3pzheXrbtHgvvOsQeMkU"
@@ -6276,6 +6356,24 @@
       "duration_ms": 152722,
       "name": "crush",
       "url": "https://open.spotify.com/track/0evHbtc2spfyNIODfG7Cxa"
+    },
+    {
+      "album": {
+        "name": "Cuc\u00f9 Mar\u00ec",
+        "url": "https://open.spotify.com/album/1CA9mRlb9zrhjLpGJo2UNL"
+      },
+      "artists": [
+        {
+          "name": "Napoleone",
+          "url": "https://open.spotify.com/artist/4nQ1upAEMpLOBRRajwOoaG"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184639,
+      "name": "Cuc\u00f9 Mar\u00ec",
+      "url": "https://open.spotify.com/track/0FrAU0976hBo05p16eYAsS"
     },
     {
       "album": {
@@ -8374,7 +8472,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 154572,
       "name": "FIAMMIFERI (feat. ANTONIA)",
       "url": "https://open.spotify.com/track/2GnoZvHQ7mNEljUvInZXpE"
@@ -10192,6 +10290,28 @@
       "duration_ms": 147777,
       "name": "Harley Quinn",
       "url": "https://open.spotify.com/track/6A3G2m9kNhevjdJIC6ht6c"
+    },
+    {
+      "album": {
+        "name": "Hate The Disco",
+        "url": "https://open.spotify.com/album/5H7XSLd3uULjJT1m2inlDG"
+      },
+      "artists": [
+        {
+          "name": "Pablo Murphy",
+          "url": "https://open.spotify.com/artist/0Ys2AuB4wwgGpHxZSSKvZB"
+        },
+        {
+          "name": "REPT",
+          "url": "https://open.spotify.com/artist/0yGdjU425hWC7AkfOJYHS4"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139024,
+      "name": "Hate The Disco",
+      "url": "https://open.spotify.com/track/1fIujwHQjZn0afpUwYRpzN"
     },
     {
       "album": {
@@ -14172,7 +14292,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 173992,
       "name": "MALAT\u00cc (feat. Sayf)",
       "url": "https://open.spotify.com/track/1KgUHU7VzyR7vq5ZwtgGaD"
@@ -17915,6 +18035,24 @@
     },
     {
       "album": {
+        "name": "Oh Mamma",
+        "url": "https://open.spotify.com/album/3baO38Pt2mdKaYk8MFuyl3"
+      },
+      "artists": [
+        {
+          "name": "Angela Iris",
+          "url": "https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122700,
+      "name": "Oh Mamma",
+      "url": "https://open.spotify.com/track/6wGMU40AmbuF4DUglPE1GT"
+    },
+    {
+      "album": {
         "name": "oh my god",
         "url": "https://open.spotify.com/album/5eViZ16AVD34GQvTivZzye"
       },
@@ -18394,7 +18532,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 188184,
       "name": "OSSESSIONE",
       "url": "https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu"
@@ -22136,7 +22274,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 165333,
       "name": "Santa",
       "url": "https://open.spotify.com/track/1vwiqgddmKWo3Fqkk1UVqn"
@@ -22986,6 +23124,28 @@
       "duration_ms": 200470,
       "name": "Settembre ti perdoner\u00f2 anche se",
       "url": "https://open.spotify.com/track/3yJSb76nbOlK3iZKMxzQR7"
+    },
+    {
+      "album": {
+        "name": "settimana",
+        "url": "https://open.spotify.com/album/66wxYSekAvRQ3EeHrytLeV"
+      },
+      "artists": [
+        {
+          "name": "Sethu",
+          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "settimana",
+      "url": "https://open.spotify.com/track/567XQhZ1mzbicn3Xmxd8bV"
     },
     {
       "album": {
@@ -23951,6 +24111,24 @@
     },
     {
       "album": {
+        "name": "Sono quella stronza",
+        "url": "https://open.spotify.com/album/2ggZHCRx85HdPMLhelfiGI"
+      },
+      "artists": [
+        {
+          "name": "Miriam Ayaba",
+          "url": "https://open.spotify.com/artist/7HuycvpoujiKhgEKkpfdaQ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172583,
+      "name": "Sono quella stronza",
+      "url": "https://open.spotify.com/track/1bQ31vM2xaqXMYdYT8Wb14"
+    },
+    {
+      "album": {
         "name": "Sophie",
         "url": "https://open.spotify.com/album/17NF2jp9hkPy5Y3ZKvaHhM"
       },
@@ -24016,7 +24194,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 200134,
       "name": "Sorry Scusa Lo Siento",
       "url": "https://open.spotify.com/track/6Y1SibRCnVlbaa7dS8slzr"
@@ -26294,7 +26472,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 209664,
       "name": "TU MI PIACI TANTO",
       "url": "https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf"
@@ -26312,7 +26490,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 202539,
       "name": "tu non vuoi nessuno",
       "url": "https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr"

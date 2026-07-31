@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-977 songs - 1 day 22 hr 12 min
+978 songs - 1 day 22 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [Gasoline](https://open.spotify.com/track/5SJh1lE1q3wGH8r0GwMKOQ) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr), [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1) | [Gasoline](https://open.spotify.com/album/77K4ooWFuanFo5DG5sdSBn) | 2:10 | 2025-10-03 |  |
 | [GATEKEEP!](https://open.spotify.com/track/5ykktDXJ9xWDMTBfok7FYh) | [808 BEEZY](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [4 SUCH A TIME AS THIS](https://open.spotify.com/album/7wEgKzItFRcG8fZCjB6eEN) | 2:27 | 2025-05-09 | 2026-06-16 |
 | [GET BACK UP](https://open.spotify.com/track/2fQuO5cr8WReUmsJAqUcek) | [Kai Uriah](https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM), [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn) | [GET BACK UP](https://open.spotify.com/album/0gULfYLDxUzPxLdUjF0NU6) | 2:28 | 2026-02-20 |  |
+| [Get In](https://open.spotify.com/track/29OX4F7pkQLkfXinkvXW03) | [Taylor Wells](https://open.spotify.com/artist/5N8yHPMJtGvA5dxeIEqu6O) | [Get In](https://open.spotify.com/album/7g2EfxzeKNK9HbXeAo5EfP) | 2:44 | 2026-07-03 |  |
 | [Get It, Get It](https://open.spotify.com/track/2Aq2yNSQU02PpMUJp86JFz) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [MAKEBA](https://open.spotify.com/artist/298U4nSkh4Zbb68nPuBYTn), [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [B\. Stokes](https://open.spotify.com/artist/5TurTnk96PSPIVZ3cG6HB1) | [Highlight Tapes, Vol\. 1](https://open.spotify.com/album/5vTdtFjNXMEaQOjvPhUImJ) | 2:10 | 2022-02-04 | 2022-07-09 |
 | [Get Out My Way](https://open.spotify.com/track/51DaW6U334rZ19HB0oduYe) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Never Fold](https://open.spotify.com/album/6lp34X38buB3Rl6u2zh5g1) | 3:28 | 2022-02-04 | 2022-12-17 |
 | [Get Out The Way](https://open.spotify.com/track/1YVt8oina9APslIHQjIjOI) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Get Out The Way](https://open.spotify.com/album/5tu0jIj10M3NQ5aUVRBpeo) | 1:55 | 2023-11-02 | 2024-06-08 |
@@ -625,7 +626,7 @@
 | [ON GOD TIME](https://open.spotify.com/track/6RB5eX2jLHLntrAQ6VMiKU) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [DEMON KILLER UNIVERSITY \(Bonus Pack\)](https://open.spotify.com/album/5XUVgHt49mYgNWNueHfy4f) | 2:08 | 2025-03-07 | 2026-02-21 |
 | [ON ME](https://open.spotify.com/track/1HAwPdeEZeVf6zA2pYZHMd) | [Ayomilly](https://open.spotify.com/artist/0IuAscyArEtUaYlqRGJTLj), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [ON ME](https://open.spotify.com/album/4bgUXM15Hie1wqTGjTvcwi) | 2:20 | 2026-05-29 |  |
 | [On Me](https://open.spotify.com/track/3hc5nXLo90dpU99yQOx5Yd) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jenna Wright](https://open.spotify.com/artist/0MtYXfFXzoj83z70TMRRZP) | [Destiny: Vol\. 1](https://open.spotify.com/album/0njnGUwGmixvpHzL01vxxC) | 2:40 | 2022-02-04 | 2022-10-04 |
-| [On My Mind](https://open.spotify.com/track/4fE2k6AfJRTI0OoCn0Cf5H) | [Th3 Saga](https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ) | [On My Mind](https://open.spotify.com/album/4K12982k32v2LjA5P5FwKv) | 2:21 | 2026-05-29 |  |
+| [On My Mind](https://open.spotify.com/track/4fE2k6AfJRTI0OoCn0Cf5H) | [Th3 Saga](https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ) | [On My Mind](https://open.spotify.com/album/4K12982k32v2LjA5P5FwKv) | 2:21 | 2026-05-29 | 2026-07-31 |
 | [ON MY OWN](https://open.spotify.com/track/0XpMMyWhdU7AuBEuc3G01Z) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [ON MY OWN](https://open.spotify.com/album/5JbeSse9g5Qpv4LVkVUs3G) | 2:08 | 2026-02-20 |  |
 | [On Point](https://open.spotify.com/track/0HzyRWnahxFFPpZtuJFSIU) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [On Point](https://open.spotify.com/album/5Z5S2eo9G2DBDwBFYlLhdm) | 2:32 | 2022-03-11 | 2022-03-24 |
 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 | 2022-05-28 | 2024-01-13 |

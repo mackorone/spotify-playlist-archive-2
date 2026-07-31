@@ -2,9 +2,9 @@
 
 ### [Weekly Workout 🏃](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
-> Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting + more
+> Fuel your gym routine with the best workout hits for wellness, health, running, pilates, HIIT, weightlifting, hyrox, weightloss, bodybuilding, winter arc, locking in, getting fit, toning, run clubs + more
 
-1,144 songs - 2 day 12 hr 5 min
+1,145 songs - 2 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Brain Freeze](https://open.spotify.com/track/1s8VsJBqBwYsEeJzsZ5Dt1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Enhancer](https://open.spotify.com/album/08k7oNc4hEYbcgS0qlueY5) | 2:02 | 2026-06-23 | 2026-06-26 |
 | [Brain Freeze \- Mell Hall Remix](https://open.spotify.com/track/1d4tzmcT4MuKaSbVJ1MUoz) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje), [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Brain Freeze \(Remixes\)](https://open.spotify.com/album/0ZMMK5HNacOBXFr42jMQyY) | 3:04 | 2023-06-16 | 2023-12-14 |
 | [Brand New](https://open.spotify.com/track/5WLOrfMyifyQZjPYWwQvyC) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh) | [Brand New](https://open.spotify.com/album/0gD0zXZ4JVmrz4Nctw1AbM) | 3:52 | 2022-05-13 | 2022-06-03 |
+| [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 | 2026-07-30 |  |
 | [Break My Heart](https://open.spotify.com/track/1PGirMzvw36N1ftzTKprpr) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Break My Heart](https://open.spotify.com/album/60I1UREM36C6JxSVPJT1nz) | 2:59 | 2022-11-11 | 2023-02-11 |
 | [Break My Heart \(feat\. 12AM\)](https://open.spotify.com/track/0EkouFSEqhyC1s1kMChL9E) | [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [12AM](https://open.spotify.com/artist/4FHtVj8v4il9h5HRQ4Ib3n) | [Wishes Vol\. 2](https://open.spotify.com/album/1AXVE2HGe1XA1Cl5T9nXmk) | 2:34 | 2021-10-16 | 2021-12-10 |
 | [Break My Heart \- Prospa Remix](https://open.spotify.com/track/4WUrU0LwhONLN8pGbl6CBr) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Break My Heart \(Prospa Remix\)](https://open.spotify.com/album/5Nko4j1bXHmYls3sTcKaLc) | 4:20 | 2023-01-20 | 2023-04-01 |

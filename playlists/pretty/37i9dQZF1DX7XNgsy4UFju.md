@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ girlsweetvoiced
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,920 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,919 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 |
 | 100 | [Shakedown.](https://open.spotify.com/track/7jRdd08q5lLu8atK6J5IxS) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Shakedown.](https://open.spotify.com/album/5wK0gnVKt6tbnyxpKAeY66) | 2:22 |
 
-Snapshot ID: `AAAAAL5IW/bndcAgAgtoZVCPtDIBGpFt`
+Snapshot ID: `AAAAAK780ZP9HH9ainKolj2HWAIiwhzq`

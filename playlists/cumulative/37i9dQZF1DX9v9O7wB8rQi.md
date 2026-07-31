@@ -4,7 +4,7 @@
 
 > Music from "GHOST IN THE SHELL SAC\_2045" and "ARISE" series has arrived! ©S,IG/K/2045
 
-61 songs - 4 hr 32 min
+62 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [from the roof top～somewhere in the silence\[sniper's theme\]](https://open.spotify.com/track/6kdRP3yx2g2CHNcpepXm2U) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 S.A.C\. Solid State Society　O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 6:31 | 2022-05-31 |  |
 | [GET9](https://open.spotify.com/track/0om5LgpI1i4MRDPxp3lXuR) | [jillmax](https://open.spotify.com/artist/60Cwd8tKAvVRd0pExXagM8) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 4:42 | 2022-05-31 |  |
 | [GHOST IN THE SHELL ARISE](https://open.spotify.com/track/1TXrT9o6pg0Ha4JnNv0H3S) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [「攻殻機動隊ARISE」O.S.T.](https://open.spotify.com/album/4vjBmHL0f9a3H8Ul1JXDyy) | 4:28 | 2022-05-31 |  |
+| [GO GHOST](https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [GO GHOST](https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN) | 2:50 | 2026-07-31 |  |
 | [Heart Grenade](https://open.spotify.com/track/5t8qtGmBWdDncSTjJ7KQ4a) | [Sean Ono Lennon](https://open.spotify.com/artist/5JUYSPkis2Mk6HUbmMqk1m), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [GHOST IN THE SHELL superb music](https://open.spotify.com/album/1DD7cFjLHkudPNu9WrNeI6) | 3:57 | 2022-06-21 | 2024-04-19 |
 | [Heart Grenade](https://open.spotify.com/track/16cC44dr7s8uU6ID8X0XlD) | [ショーン レノン](https://open.spotify.com/artist/4vzKz1kmuKq2jn3R1Slzk0), [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [攻殻機動隊 新劇場版　O.S.T\. by Cornelius](https://open.spotify.com/album/759xhNhcphGIW8Mna5hjri) | 3:57 | 2022-05-31 |  |
 | [i can't be cool](https://open.spotify.com/track/2QRUUAXtA7fVvC2ZBaGt15) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.2](https://open.spotify.com/album/6vnGlRzjCpJdnojTZZojMc) | 4:32 | 2022-05-31 |  |

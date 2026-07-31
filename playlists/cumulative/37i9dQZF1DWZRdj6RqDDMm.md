@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-683 songs - 1 day 13 hr 51 min
+687 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Just as I am](https://open.spotify.com/track/2PSyahpyNwy0yFeSyvxkly) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Just as I am](https://open.spotify.com/album/5oOAOVwVfqRkBxrX7zk0Tk) | 2:17 | 2023-10-20 | 2024-01-12 |
 | [Just Like You](https://open.spotify.com/track/3tHGAJ7o4UchiipMRmF7Cf) | [Jordan Bangoji](https://open.spotify.com/artist/702zIZlmgDwWKAqWW4WX5d) | [Just Like You](https://open.spotify.com/album/4scW7AmL1CwBc3yHoXVCof) | 2:53 | 2026-07-24 |  |
 | [Karamin Haske](https://open.spotify.com/track/5VeXbNPYuhvoWQYMFZtix7) | [Moses Eze](https://open.spotify.com/artist/4S4H6Q2AjmqM9tEIeFRbMm) | [Karamin Haske](https://open.spotify.com/album/3qbjUn1047WuW54oehNbBM) | 3:33 | 2025-07-04 | 2025-08-22 |
+| [Kavuyo \- Live](https://open.spotify.com/track/4rChOsCdjb9lvZrTAIpYeu) | [Anna Makula](https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44) | [Kavuyo \(Live\)](https://open.spotify.com/album/7B9UJmRVolieUUZMMc4ZLd) | 3:41 | 2026-07-31 |  |
 | [Konse](https://open.spotify.com/track/5ZlLfuWfBZMiZIPPmAD2oW) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp) | [Konse](https://open.spotify.com/album/4hQrrzNmi7d52JNUrdPcdn) | 3:20 | 2023-12-22 | 2024-02-02 |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2023-10-20 |  |
 | [Kwuise Kontwol](https://open.spotify.com/track/2tOu5gxgf7zyaPEANchd3M) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Kwuise Kontwol](https://open.spotify.com/album/0NeiwQ1j0KHTorQkKaBFNo) | 2:42 | 2025-07-25 | 2025-08-15 |
@@ -434,6 +435,7 @@
 | [Not One](https://open.spotify.com/track/2oy7FQhsjhwdcegJ1dagcA) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu) | [Not One](https://open.spotify.com/album/1k1PSqQeK7qHKNnlAqLVRG) | 2:29 | 2025-01-10 | 2025-04-04 |
 | [Not One Time](https://open.spotify.com/track/6BHr2BD9BAIitzL9fPbZjo) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Not One Time](https://open.spotify.com/album/5pHa72PcJQiwEANhpYYlm0) | 2:50 | 2024-01-26 | 2024-03-29 |
 | [Nothing](https://open.spotify.com/track/2wy1zSbwuM7fZFY8ZKrueJ) | [Prince Davids](https://open.spotify.com/artist/6xbxigYdH6R1mxgHN7njpL), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Pawasonic](https://open.spotify.com/artist/4JnNMhfRwpiknBp80tInQR) | [Nothing](https://open.spotify.com/album/5rMlSSxp3e42KNXkCwN0OM) | 3:05 | 2024-06-21 | 2024-10-25 |
+| [Number 1](https://open.spotify.com/track/6H9ykVIRifCHXS7iCMTtqi) | [Hannah Aboh](https://open.spotify.com/artist/5YKklNWFgD4II8iXeaXGjf) | [Number 1](https://open.spotify.com/album/4Mj9EDSZCUtIvZtixs37QQ) | 3:13 | 2026-07-31 |  |
 | [Obinigwe](https://open.spotify.com/track/2gfh7QNGVJIdnTA1GSVqnU) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Obinigwe](https://open.spotify.com/album/1ZcK96zMWufzdsMu1yMVmT) | 9:07 | 2023-10-20 |  |
 | [Obinigwe](https://open.spotify.com/track/0fs6Iaw6Dze7VzT2sHDpkD) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 9:12 | 2023-10-20 | 2024-04-19 |
 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2023-10-20 | 2024-02-17 |
@@ -515,6 +517,7 @@
 | [Rest](https://open.spotify.com/track/3j4Q4hJHROOxf6vdlB6EAh) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Rest](https://open.spotify.com/album/16s4oOALDJDgy6Ak6huhE0) | 2:51 | 2024-09-06 | 2024-11-01 |
 | [Restore Me](https://open.spotify.com/track/6GuzExjH9JKKzz1eFbmW7c) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Blesside](https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32) | [Restore Me](https://open.spotify.com/album/6UyT9L9X1jcYmZWkQp0bX9) | 2:18 | 2025-10-31 | 2026-01-15 |
 | [Ride for Me](https://open.spotify.com/track/5FxJJHBkKZfb2OSaYjyDCz) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Uchenna](https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC) | [Ride for Me](https://open.spotify.com/album/202JYr2eF6E1XZV4ADWPeR) | 2:32 | 2024-08-09 | 2024-09-27 |
+| [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:41 | 2026-07-31 |  |
 | [Ridiculous](https://open.spotify.com/track/3J967S1DPNnUrUaS4bzcfh) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Ridiculous](https://open.spotify.com/album/4LKUzyYybXiJiEgFFny1LU) | 2:27 | 2024-08-30 | 2024-10-25 |
 | [Right On Time](https://open.spotify.com/track/1uF7QsPxujjCj8u65dgrl9) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Since No\. 11](https://open.spotify.com/album/6z12CVRJweLfcMg25JZxXP) | 2:47 | 2024-03-15 | 2025-01-10 |
 | [River](https://open.spotify.com/track/1b13htqq2fwS2BGVDeRs2K) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Sceptre](https://open.spotify.com/album/3KCdZeILNBf1ahZJU76cQX) | 5:16 | 2025-06-20 |  |
@@ -686,6 +689,7 @@
 | [Your Way](https://open.spotify.com/track/7CGCoEDU786ZHdMCd722zA) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [yinkah](https://open.spotify.com/artist/6YWJpsuE7N3BUInXjKqimK) | [Your Way](https://open.spotify.com/album/3qvxxSiCfdtX0WIpoyO5MT) | 2:06 | 2024-07-12 | 2024-09-27 |
 | [Your Way](https://open.spotify.com/track/2FuBk9kWI54pQIZuImlJo3) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 2:45 | 2025-03-07 |  |
 | [Your Will](https://open.spotify.com/track/0PbqGz9L9tW7s6dNW3Mt7a) | [Eliyah Black](https://open.spotify.com/artist/1exHNJVSFIsw0NR3OYk6fj) | [Your Will](https://open.spotify.com/album/3MNf7OAkfqDCm7BBmVEBZS) | 3:48 | 2024-11-01 | 2025-01-10 |
+| [Your Will](https://open.spotify.com/track/34pLFLezYPMW7axIVsfjfu) | [Gideon MOG](https://open.spotify.com/artist/0tHJJtTUpS1MyDCVAeMiO6), [Tony Richie](https://open.spotify.com/artist/3rWOkbS2stonIeXCFKZ9wm) | [Your Will](https://open.spotify.com/album/48g53LbM893Ch2U9YPszyj) | 3:06 | 2026-07-31 |  |
 | [Your Word](https://open.spotify.com/track/1kHVUbF8xeWcDpuYZzd8ME) | [Ayokunle](https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [Your Word](https://open.spotify.com/album/0YXffD71HwbKg5MxYqpds3) | 3:12 | 2025-01-03 | 2025-02-28 |
 | [yours](https://open.spotify.com/track/2CUI95ndyv0TiCLieMVLYk) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [G.E.S](https://open.spotify.com/artist/1r0gAOldNSTyidXhWLDHTF) | [yours](https://open.spotify.com/album/57FTf0XIoXls6CbAJTMkB0) | 2:59 | 2025-05-09 | 2025-05-30 |
 | [You’re Not There \- SizzlePro Remix](https://open.spotify.com/track/7I1qDDCR26tH726SRnipaN) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [SizzlePRO](https://open.spotify.com/artist/5XW6aqpVAAC7GJGvNeytdf) | [You’re Not There \(SizzlePro Remix\)](https://open.spotify.com/album/3bdhLYbdEa6eZAWBhZK17p) | 4:44 | 2025-08-15 | 2025-09-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover:  DAMEDAME\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,546 likes - 160 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,561 likes - 160 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 37 | [Stuck In Sixteen](https://open.spotify.com/track/0K77y1Qbihu4hK54zAFxVV) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Twenty Something](https://open.spotify.com/album/3zIuPy0xhAOMg9veibhAwy) | 2:51 |
 | 38 | [Alive](https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive](https://open.spotify.com/album/1eJstMWIHyldQcIlv2RURH) | 3:27 |
 | 39 | [DID YOU MOVE?](https://open.spotify.com/track/5qAJU71AfadQO8VrmZuujG) | [Veronica](https://open.spotify.com/artist/6u7k7tbT583IHziqzFAC8j) | [DID YOU MOVE?](https://open.spotify.com/album/229SVrbKan2ks7saTexvz0) | 3:53 |
-| 40 | [Just For A Moment \(feat\. Dende\) \(Acoustic\)](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
+| 40 | [Just For A Moment \(feat\. Dende\) \- \(Acoustic\)](https://open.spotify.com/track/6Umlo1zZ4rQwORKbS17kU9) | [Sophia Galaté](https://open.spotify.com/artist/04S1CtevxNth6ziKrxx7AZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Just For A Moment \(feat\. Dende\)](https://open.spotify.com/album/50qtXQ57jdgmllb0M6RgkJ) | 3:20 |
 | 41 | [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/track/7fq9tnk9YZVEwt65d4HO8g) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Knew You Were Waiting \(For Me\) \(with Cynthia Erivo\)](https://open.spotify.com/album/5vNvLZS3LJyT7dHs3bDmya) | 4:46 |
 | 42 | [Foreign](https://open.spotify.com/track/5LKYdatBy0QOV1ME8sHowf) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Foreign](https://open.spotify.com/album/5UMhrr7ZuhfzTqVqVb1rzk) | 3:23 |
 | 43 | [Coming Home \(with G Herbo\)](https://open.spotify.com/track/3acmzjQZIKY6mwMiQ5vW4f) | [BJRNCK](https://open.spotify.com/artist/75CB9gAqPzqMGNHxymmxfg), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Coming Home \(with G Herbo\)](https://open.spotify.com/album/4DDwMmoet9t03wznydkh0j) | 3:32 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 159 | [Empath](https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 3:17 |
 | 160 | [Company](https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Company](https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT) | 3:39 |
 
-Snapshot ID: `AAAAAJx1gh/2egZFqc3Mdj4w/hcb8ddj`
+Snapshot ID: `AAAAAEgevFNeyS/sg7df7BAEEtERNroI`

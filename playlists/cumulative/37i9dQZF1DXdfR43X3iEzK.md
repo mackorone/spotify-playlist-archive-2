@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything ⚔️ cover: Charli xcx
 
-718 songs - 1 day 14 hr 41 min
+720 songs - 1 day 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [ASCETIC HEDONIST](https://open.spotify.com/track/01vg6oJXn3iwhlDhe2wF6p) | [NEO 10Y](https://open.spotify.com/artist/3G1V2jfTZO61Hs3dX7ilrA) | [ASCETIC HEDONIST](https://open.spotify.com/album/5hC4idUD8YDAtRNJitUB2C) | 3:08 | 2025-09-11 | 2025-11-07 |
 | [AUX](https://open.spotify.com/track/3el0iIbfpM3a838tWxLuSO) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [AUX](https://open.spotify.com/album/4THxfUGkJIhtrlhBCWbgmZ) | 3:06 | 2025-03-07 | 2025-03-28 |
 | [babygirl \(like n01 else\)](https://open.spotify.com/track/3kBOW8cxHKciSs8fesdjho) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [babygirl \(like n01 else\)](https://open.spotify.com/album/1UE8gmKJrfPoeXhzvMTZlG) | 3:44 | 2025-04-03 | 2025-05-02 |
+| [Back Inside My Heart](https://open.spotify.com/track/1QPURD07gE0FWIFbaBmkv3) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [Picking Petals](https://open.spotify.com/album/2sc3QU5bC4udHQaPW86iBX) | 3:32 | 2026-07-30 |  |
 | [Bad Dream](https://open.spotify.com/track/4MIyiOOiMv10ybKL0N3hQN) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Bad Dream](https://open.spotify.com/album/3wUzhRPIwf70GNjQeHrKG9) | 3:24 | 2025-08-28 | 2025-09-20 |
 | [Bad Life](https://open.spotify.com/track/05kjMGGzMRwwY8mskRaSHi) | [Mudi Sama](https://open.spotify.com/artist/4OFlR9OFN1PRLww3MSVF7W) | [Bad Life](https://open.spotify.com/album/5H6iL0CHuOmj3XmpB7gC6h) | 2:23 | 2025-03-07 | 2025-05-10 |
 | [Basic Being Basic](https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Basic Being Basic](https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl) | 2:38 | 2025-02-14 | 2025-03-28 |
@@ -240,11 +241,12 @@
 | [four letter word](https://open.spotify.com/track/4E15J6efy16HF8pP4VZIji) | [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [four letter word](https://open.spotify.com/album/2sY5gG5TnV2Pi0WNhh8Tg9) | 2:22 | 2025-04-17 | 2025-05-31 |
 | [Freak](https://open.spotify.com/track/12lCiNF2arVzkXIF7CA8Yu) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [Freak](https://open.spotify.com/album/14Wbq1nfuIJZ7XwrbQW45N) | 2:55 | 2026-04-30 | 2026-07-10 |
 | [Free](https://open.spotify.com/track/0w78hawHvWANKTeFe8Vouv) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Free](https://open.spotify.com/album/7o6p1Siw6MlP1lsPS6uucX) | 3:11 | 2024-07-12 | 2025-02-11 |
+| [Free Soloin](https://open.spotify.com/track/0epZhavoMxMPzvBaQeQgHx) | [Suzi Wu](https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi) | [Free Soloin](https://open.spotify.com/album/5c614EUjbSsVGepaQHgIqS) | 2:50 | 2026-07-30 |  |
 | [From Down Here](https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [From Down Here](https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u) | 4:01 | 2026-05-21 |  |
 | [front seat honey](https://open.spotify.com/track/5bwErSkWEn7erwob3o00d0) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Another Day In Paradise](https://open.spotify.com/album/6qkrUuqvTFKdLfJurM8jAJ) | 3:07 | 2025-03-21 | 2025-04-18 |
 | [Fuck It](https://open.spotify.com/track/2EvTsqvQ1nT7Mp2xgPl1fm) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [Fuck It](https://open.spotify.com/album/1eg74Dv2l9Rq2fWvkici0w) | 2:16 | 2025-03-14 | 2025-04-04 |
 | [Fuck Me Eyes](https://open.spotify.com/track/4KtafAcacAzTeuTgjgt2Ei) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Fuck Me Eyes](https://open.spotify.com/album/0soRY8izk0j2rBBtiACqwU) | 6:04 | 2025-07-10 | 2026-01-30 |
-| [fwu](https://open.spotify.com/track/1s4XvBgcL7fPFcrxhzLEDQ) | [Scratching](https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn) | [Desire Path](https://open.spotify.com/album/36uagCruOU1M17EpOq4a0m) | 2:48 | 2026-05-21 |  |
+| [fwu](https://open.spotify.com/track/1s4XvBgcL7fPFcrxhzLEDQ) | [Scratching](https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn) | [Desire Path](https://open.spotify.com/album/36uagCruOU1M17EpOq4a0m) | 2:48 | 2026-05-21 | 2026-07-31 |
 | [G.OD](https://open.spotify.com/track/2KC52ALH0ecP7LIcmXpnXk) | [Mike Taveira](https://open.spotify.com/artist/1zEBFt39bOEItIt8dxf3kJ) | [G.OD](https://open.spotify.com/album/2Xe4aBZ6KPeLR6or2K5IQP) | 4:00 | 2025-10-23 | 2026-02-27 |
 | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/track/4S2kZNqRtVNHCXFQKDQpEX) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Ganni Top \(She Gets What She Needs\)](https://open.spotify.com/album/1CTAbh7U5e7KzKQAfX7aNx) | 2:07 | 2024-10-10 | 2025-03-21 |
 | [GEEKS](https://open.spotify.com/track/5KSQlhN1qMNOP54pH3uR51) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [GEEKS](https://open.spotify.com/album/0Rj54qKAZOzwwW3msHk0u7) | 2:32 | 2026-02-20 | 2026-03-27 |
@@ -463,7 +465,7 @@
 | [Need It](https://open.spotify.com/track/4RWS4yahE7x7OYcKGHNDTH) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Need It](https://open.spotify.com/album/134SC6sDYvnri5Pznddc5E) | 3:48 | 2026-06-25 | 2026-07-25 |
 | [Neighbourhood Watch](https://open.spotify.com/track/53HoIiqYiL7i63P1F5XF2b) | [Tyrese Ryan](https://open.spotify.com/artist/7MZuK7vnEfwviocPQOTCfu) | [Neighbourhood Watch](https://open.spotify.com/album/7rDkDksgaL55rerai6R2Rt) | 3:57 | 2025-04-03 | 2025-07-25 |
 | [Nettles](https://open.spotify.com/track/3xoM5gZ2RVQqLkjqEgrJ4x) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Nettles](https://open.spotify.com/album/5pSV5j43pKRDxvyDgHurDM) | 8:03 | 2025-06-06 | 2025-07-25 |
-| [Nevagonna](https://open.spotify.com/track/0xAZva9E2vELq4DKF0mtpO) | [congratulations](https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq) | [Join Hands](https://open.spotify.com/album/737OJLS2wQGbtapbSHX9fi) | 4:41 | 2026-02-20 |  |
+| [Nevagonna](https://open.spotify.com/track/0xAZva9E2vELq4DKF0mtpO) | [congratulations](https://open.spotify.com/artist/3Zd0jI43rmogm8qVt2QAdq) | [Join Hands](https://open.spotify.com/album/737OJLS2wQGbtapbSHX9fi) | 4:41 | 2026-02-20 | 2026-07-31 |
 | [Never Need Me](https://open.spotify.com/track/2VOtwqdoceXN37vDafReh5) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Never Need Me](https://open.spotify.com/album/2s5LCM5P1CumrKTsLZRNFi) | 3:25 | 2024-06-07 | 2025-03-08 |
 | [New Age Crisis](https://open.spotify.com/track/1jbBmjncsqWO0oa81kGrCO) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [New Age Crisis](https://open.spotify.com/album/6njbQUKUGq6Nv37wVT4WWC) | 2:38 | 2024-06-07 | 2024-07-19 |
 | [New Mind](https://open.spotify.com/track/7kO3rAu2GgV3Vy6hwWs7L3) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [New Mind](https://open.spotify.com/album/5z2Wtm9imitPqU7jo3IbiA) | 2:46 | 2025-03-14 | 2025-04-04 |

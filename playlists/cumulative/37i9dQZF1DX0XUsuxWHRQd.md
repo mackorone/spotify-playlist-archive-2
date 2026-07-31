@@ -4,7 +4,7 @@
 
 > New music from Lil Baby, Drake and Yung Miami.
 
-2,825 songs - 6 day 2 hr 41 min
+2,826 songs - 6 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1734,6 +1734,7 @@
 | [On Wat U On \(with GloRilla\)](https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [On Wat U On \(with GloRilla\)](https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz) | 2:39 | 2023-01-13 | 2023-02-11 |
 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 | 2024-11-01 | 2024-11-23 |
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2024-01-12 | 2024-07-13 |
+| [One Day \(feat\. Mr\. 3\-2 & Ronnie Spencer\)](https://open.spotify.com/track/2GHp47AE8HTBF9xpG7FIoz) | [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Mr\. 3\-2](https://open.spotify.com/artist/5xu3KF4ZTFjNncNRIVaJnt), [Ronnie Spencer](https://open.spotify.com/artist/0SbFHrkqd2aTNDj6iX6ZC4) | [Ridin' Dirty](https://open.spotify.com/album/4jTPQq9PSlKMOm1yLx2ATN) | 5:24 | 2026-07-30 |  |
 | [One Mic, One Gun](https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [One Mic, One Gun](https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl) | 2:49 | 2022-12-02 | 2023-03-04 |
 | [One Of Them](https://open.spotify.com/track/0I0P8FFXCndrwK1wBDo2bB) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [One Of Them](https://open.spotify.com/album/6TzgT7RMTJKpclQ7awIjru) | 2:51 | 2025-06-06 | 2025-06-21 |
 | [One of Them \(with Future & Lil Baby\)](https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [One of Them](https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ) | 3:24 | 2026-04-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: Viva Belgrado
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,936 likes - 49 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,942 likes - 49 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 48 | [Think I'm A Ghost](https://open.spotify.com/track/5BDbizQSpf3avI7LTO29iP) | [Aisles](https://open.spotify.com/artist/1aHj1tpKsDAUDDOMZXcjQg) | [Think I'm A Ghost](https://open.spotify.com/album/1tnRERux03HDpibdQxe2um) | 7:16 |
 | 49 | [Últimas palabras](https://open.spotify.com/track/6oVszSYEj3TmVyh8hJmFeL) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Últimas palabras](https://open.spotify.com/album/1NmZFVA8q0rysF8YtLmkOV) | 3:06 |
 
-Snapshot ID: `AAAAAONWCXa9ikxzphkwBXJSVyiP7FRZ`
+Snapshot ID: `AAAAAKLNDaZmzVoAKklehIKXuyWg2qyL`

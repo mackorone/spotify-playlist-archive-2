@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,959 likes - 75 songs - 4 hr 13 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,961 likes - 76 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 73 | [Staring at the Sun](https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Staring at the Sun](https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC) | 3:32 |
 | 74 | [Change](https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp) | [Change](https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs) | 3:27 |
 | 75 | [Ciarán](https://open.spotify.com/track/12HUsLAZlYzwI24TpczV9h) | [Eosine](https://open.spotify.com/artist/0Md3VgBtmaO6hemIn4gIIP) | [Ciarán](https://open.spotify.com/album/6u0FN3VqOTZFsfOc6WTzXK) | 3:38 |
+| 76 | [Together \- Demo](https://open.spotify.com/track/12oojIBWdPlhjtUt4ZoJOE) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Together \(Demo\)](https://open.spotify.com/album/2TmxBiotCcrugUnPPqOA0d) | 4:34 |
 
-Snapshot ID: `AAARzTwxx1J7IEd2Jibueluua6ZsFAKC`
+Snapshot ID: `AAARzuLr838KEPUvIUPburnHxLSj8dB7`

@@ -4213,6 +4213,28 @@
     },
     {
       "album": {
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/3NcLjhT0XNhY6NmMgjFL8P"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/0uctQM22xBeaklsxCtOcrk"
+    },
+    {
+      "album": {
         "name": "Envision Remixes",
         "url": "https://open.spotify.com/album/6h5GzvE8M453rbfa8NKjwK"
       },
@@ -12113,6 +12135,28 @@
     },
     {
       "album": {
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/4t4vNeUlWEYNuRpfLWCkrY"
+      },
+      "artists": [
+        {
+          "name": "Dj Kone & Marc Palacios",
+          "url": "https://open.spotify.com/artist/1EgqENj52m5illoi0UJndy"
+        },
+        {
+          "name": "ROMBE4T",
+          "url": "https://open.spotify.com/artist/5r89seDhq5dnVWpQ7y0wHQ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183515,
+      "name": "Press Play",
+      "url": "https://open.spotify.com/track/4TLJBCceK9H42Ss2eHmhwe"
+    },
+    {
+      "album": {
         "name": "PRETTY GIRLS REMIX PACK",
         "url": "https://open.spotify.com/album/4om3l500T8dDkqfZ0mvaRR"
       },
@@ -13580,6 +13624,28 @@
       "duration_ms": 201296,
       "name": "Silver Lines (feat. Emily Warren)",
       "url": "https://open.spotify.com/track/2qpkcHxt9Kc5RLf4f7HokU"
+    },
+    {
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/7i8cmKA0dLuiKTZQoLI1A0"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Sonan",
+          "url": "https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161657,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/70gEpZBLKEyLSTSoY0OPF3"
     },
     {
       "album": {

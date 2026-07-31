@@ -2,9 +2,9 @@
 
 ### [Indie Shuffle](https://open.spotify.com/playlist/37i9dQZF1DWVbu3wLXA48X)
 
-> Current indie tunes from Asia and around the world\. Cover: beabadoobee
+> Current indie tunes from Asia and around the world\. Cover: girlsweetvoiced
 
-2,745 songs - 6 day 21 hr 4 min
+2,752 songs - 6 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Blush](https://open.spotify.com/track/56Rdvp163gJ4Bn9v1UqMC2) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Blush](https://open.spotify.com/album/6BlYYjKLjE1FzoJFaftbXh) | 3:06 | 2026-05-29 |  |
 | [Bodies Laughing](https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Bodies Laughing](https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH) | 4:57 | 2024-10-04 | 2025-01-25 |
 | [Body Paint](https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Body Paint](https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0) | 4:50 | 2022-09-30 | 2023-01-14 |
+| [Bone Collector](https://open.spotify.com/track/3EsL6WLnJvF6t3nuPBxRY2) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [The Thread](https://open.spotify.com/album/6x9IdAz7Br6NnlK7BBJubL) | 3:40 | 2026-07-30 |  |
 | [Bones](https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Bones](https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy) | 4:05 | 2022-05-20 | 2022-07-02 |
 | [booboo](https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [booboo](https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT) | 3:32 | 2024-09-02 | 2024-09-28 |
 | [Boogie](https://open.spotify.com/track/6TJsuJd2qiX179fDioQAz1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Boogie](https://open.spotify.com/album/36WpGvLIJ64ig6TIYgna23) | 4:27 | 2026-05-29 |  |
@@ -488,6 +489,7 @@
 | [Cowboy Without a Clue](https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [No Love Lost to Kindness](https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6) | 3:57 | 2026-01-30 | 2026-03-27 |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-06-05 | 2025-09-05 |
 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 | 2022-06-24 | 2022-07-16 |
+| [Cranberry](https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Lovesweet](https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa) | 3:14 | 2026-07-30 |  |
 | [Crashing Highs](https://open.spotify.com/track/0oEKrDeEMP99yUGu9WLSg8) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Crashing Highs](https://open.spotify.com/album/0QnNFYZHAtyYCMi8vxl6Rh) | 3:01 | 2025-09-04 | 2025-10-17 |
 | [Crave Me, Superstar](https://open.spotify.com/track/58zF0g3So838gVtFMWJQ3h) | [Rimba](https://open.spotify.com/artist/0ejPHB5hhzjG2JtglWKjlZ) | [Technicolor Meeting](https://open.spotify.com/album/4ytWptqrooC52m6hkyB6mD) | 4:55 | 2025-11-14 | 2026-02-13 |
 | [Crawl](https://open.spotify.com/track/37DAC9LSqcr4Lv2hFHxutm) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Crawl](https://open.spotify.com/album/0JdikBpBF0qTAwQLx9bF5h) | 2:12 | 2024-09-13 | 2025-01-19 |
@@ -1369,8 +1371,10 @@
 | [Lonely](https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:58 | 2026-03-26 | 2026-06-26 |
 | [Lonely](https://open.spotify.com/track/32ULqlnRCPQcqNaZc2eIs1) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Lonely / Sweet Devil](https://open.spotify.com/album/0MGsHtaGy3Co8i09Kn5vgV) | 3:46 | 2024-09-02 | 2024-09-28 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-08-26 | 2024-10-05 |
+| [Lonely in the Future](https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 3:20 | 2026-07-30 |  |
 | [Lonely Times](https://open.spotify.com/track/66fHmVMVKYLwNzIdwrZADI) | [Keep Shelly In Athens](https://open.spotify.com/artist/15cJEqQvfVczJK2DVdY6DV) | [Lonely Times](https://open.spotify.com/album/52NC1y7dIs0EjOJf9UFc04) | 3:17 | 2023-12-06 | 2024-01-17 |
 | [Lonely Winter](https://open.spotify.com/track/7c8rXgRsYlpV2EJUwCNTFG) | [Imhavingabadday.](https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM) | [Lonely Winter](https://open.spotify.com/album/2a0n42rbPAz0JgQqoLUnpc) | 3:12 | 2021-12-30 | 2022-03-11 |
+| [Look Up](https://open.spotify.com/track/4Zluf3UZvWHcx3nDe6PrXs) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Look Up](https://open.spotify.com/album/4gvR5KMuBMZRFRX6Y0urnk) | 3:04 | 2026-07-30 |  |
 | [Looking Backward](https://open.spotify.com/track/3fdocuLx6MshLRTtXSWvqr) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Looking Backward](https://open.spotify.com/album/0EfmslMYF1WjVprELXpQvx) | 3:21 | 2022-01-20 | 2022-03-11 |
 | [Looking High](https://open.spotify.com/track/2OvLZstgybMXNDGOecmLB6) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Looking High](https://open.spotify.com/album/6Szs8sYbEYII9oF9GCFBxx) | 4:21 | 2022-03-31 | 2022-05-27 |
 | [Loose](https://open.spotify.com/track/7tq6s91kg4h5sC9ZBJ9vdD) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [Loose](https://open.spotify.com/album/5i9VYWznAvstGKuQxGogsx) | 3:14 | 2022-02-17 | 2022-04-08 |
@@ -1538,6 +1542,7 @@
 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 | 2025-02-21 | 2025-04-04 |
 | [more than a friend?](https://open.spotify.com/track/0EJSyxVGp7ZFbrj9WPaubp) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [FION](https://open.spotify.com/artist/5fLp7OniH3WILGy9DBSPNC) | [more than a friend?](https://open.spotify.com/album/4mt2aUYS6oZxdxeCxe1zTu) | 3:08 | 2025-05-08 | 2025-06-06 |
 | [More Time](https://open.spotify.com/track/1eFYjbLIN7ifJFiyn6uGfg) | [Elephant Kind](https://open.spotify.com/artist/4xerUCsurnILh4KpC5FVWX) | [More Time](https://open.spotify.com/album/6oLAT3dtRuQAjauvm72BHp) | 3:25 | 2026-03-26 | 2026-06-26 |
+| [Morphine](https://open.spotify.com/track/2QS9W9Y1B8WiUvUFItidSy) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Morphine](https://open.spotify.com/album/35VO8kPyMb88vAZBlZfNkd) | 4:45 | 2026-07-30 |  |
 | [Moth To The Flame](https://open.spotify.com/track/68j8pmIJVodrP1Po29IdJj) | [The WAEVE](https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC), [Rose Elinor Dougall](https://open.spotify.com/artist/6T1GNMxXuljv0C0ZRR60CC) | [City Lights](https://open.spotify.com/album/2mc8z8p5BSchhpD6wBcpEw) | 4:43 | 2024-09-20 | 2024-11-23 |
 | [Motion Picture Soundtrack](https://open.spotify.com/track/3NCQO8ath5huTDMXXtibH6) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Motion Picture Soundtrack](https://open.spotify.com/album/1uUH6YyHcchOqJCU76XVdh) | 4:59 | 2023-12-17 | 2024-03-23 |
 | [Motorcycle](https://open.spotify.com/track/0pJAiDG0LmZHlPuMudDvjs) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Motorcycle](https://open.spotify.com/album/7mhREQUR2GbBqPILSsKz7g) | 2:46 | 2024-06-14 | 2024-08-10 |
@@ -2123,6 +2128,7 @@
 | [Somebody Come Through](https://open.spotify.com/track/4Sz61x2L4mYmtw47NBrzfC) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Isotope](https://open.spotify.com/album/64gDz0I7VYp8NrDTJkjlZp) | 3:58 | 2024-09-02 | 2024-10-05 |
 | [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 | 2024-04-28 | 2024-06-07 |
 | [Someday](https://open.spotify.com/track/4LOj7r7dNiGQHD1Ixtl3dd) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Someday](https://open.spotify.com/album/62ZCpVRnSLUpGikEBQgNKF) | 3:01 | 2022-01-28 | 2022-02-18 |
+| [Someday](https://open.spotify.com/track/2YLfKobtt9zkdox9E1JqVE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Someday](https://open.spotify.com/album/0CIDdMVYigHQVYDXVYb9JR) | 3:41 | 2026-07-30 |  |
 | [Someday, Somewhere](https://open.spotify.com/track/20FqWsyuUaQTU5tk4nP6eN) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Someday, Somewhere](https://open.spotify.com/album/4FlY87oGWuZ49lYMVdofEj) | 2:31 | 2026-07-10 |  |
 | [Someone I used to Love](https://open.spotify.com/track/0v7A2HuiQLRZtwPyLndMxb) | [Alpha](https://open.spotify.com/artist/3FKLqq9ByYJSPId24Es3vF) | [Someone I used to Love](https://open.spotify.com/album/1yjJMyMsVI5PI6W88tokNJ) | 4:08 | 2025-05-29 | 2025-06-06 |
 | [Someone New](https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY) | [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R), [Martti Franca](https://open.spotify.com/artist/639kduoUmDR7ISY0QF6WlX) | [Someone New](https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt) | 4:15 | 2023-08-11 | 2023-09-30 |
@@ -2499,6 +2505,7 @@
 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-24 | 2023-02-27 |
 | [TV LOVE](https://open.spotify.com/track/2MieJBlO7Tra8Vv9nsPy6w) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [OCPY](https://open.spotify.com/album/6mLweu3OdJUR6sEFf86ym2) | 3:19 | 2023-06-30 | 2023-08-26 |
 | [twentysixteen](https://open.spotify.com/track/5GJUSu9bxSzYBSZmHwPJNT) | [jubilee marisa](https://open.spotify.com/artist/3JBkqdMx65CIglkijIKn4f) | [twentysixteen](https://open.spotify.com/album/65GS48Ev0uQk6QNmCE5sbG) | 3:19 | 2022-01-20 | 2022-02-18 |
+| [Twiggy](https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Twiggy](https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb) | 3:29 | 2026-07-30 |  |
 | [Twin Flame](https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 4:22 | 2022-11-18 | 2023-02-18 |
 | [Twisting & Glistening](https://open.spotify.com/track/5UM8dyg6I5bmJeO6Q3JZqr) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Twisting & Glistening](https://open.spotify.com/album/6AWMTKGR2t5UU0DDDCsqdM) | 4:37 | 2026-07-10 |  |
 | [Twizzler](https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Twizzler](https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z) | 2:54 | 2026-05-21 |  |

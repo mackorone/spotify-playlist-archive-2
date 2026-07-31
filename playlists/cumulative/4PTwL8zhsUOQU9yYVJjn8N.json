@@ -4447,6 +4447,28 @@
     },
     {
       "album": {
+        "name": "IVE UPLOADED MY BRAIN TO THE INTERNET",
+        "url": "https://open.spotify.com/album/4oGowVcmtIKR7X3291GRTd"
+      },
+      "artists": [
+        {
+          "name": "SWITZERRWOWW",
+          "url": "https://open.spotify.com/artist/1cAqPn7GhcWCZnd3YUKBhy"
+        },
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146562,
+      "name": "SWITCH",
+      "url": "https://open.spotify.com/track/54gve2xZ1LCFuwKfZ2hiw5"
+    },
+    {
+      "album": {
         "name": "pastpresentfuture + instrumentals",
         "url": "https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3"
       },

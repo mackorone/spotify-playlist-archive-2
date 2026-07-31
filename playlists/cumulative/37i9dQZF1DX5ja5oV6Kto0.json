@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Taves",
+  "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Anabel Rose",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
+    {
+      "album": {
+        "name": "#flowstate",
+        "url": "https://open.spotify.com/album/6MWeAxK9tsH3ozNCcy1lfH"
+      },
+      "artists": [
+        {
+          "name": "Zen Univrse",
+          "url": "https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112741,
+      "name": "#toomuchswag",
+      "url": "https://open.spotify.com/track/1STZzSByzeHohDFEQbe7Vn"
+    },
     {
       "album": {
         "name": "100",
@@ -706,6 +728,32 @@
       "duration_ms": 424080,
       "name": "Abusey Junction",
       "url": "https://open.spotify.com/track/3W4IoNW4011i8qfCwN75Va"
+    },
+    {
+      "album": {
+        "name": "BADDIES <3 MOLIY",
+        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
+      },
+      "artists": [
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170078,
+      "name": "ACCRA GIRLS",
+      "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
     },
     {
       "album": {
@@ -1798,7 +1846,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 222545,
       "name": "BAD BITCH SYNDROME PART II",
       "url": "https://open.spotify.com/track/207AeXyxFVvM96DrhALUx3"
@@ -3358,7 +3406,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 155844,
       "name": "BURTI RIDDIM (RAGER 77)",
       "url": "https://open.spotify.com/track/2vH4kipt6yqoYnItS3MDRb"
@@ -5170,7 +5218,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 134579,
       "name": "CYK BADDIE",
       "url": "https://open.spotify.com/track/7ooAKezVfi3K3urbQfXXNq"
@@ -5482,6 +5530,28 @@
       "duration_ms": 202360,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/6w2WWyBAOXQeP6waVT9s5O"
+    },
+    {
+      "album": {
+        "name": "IN-HINDSIGHT",
+        "url": "https://open.spotify.com/album/2NZbArsHMQk3iDMorShNOp"
+      },
+      "artists": [
+        {
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        },
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "DEEP SH*T (feat. Azekel)",
+      "url": "https://open.spotify.com/track/6vU5KOLO6IPnwexe8VM2NB"
     },
     {
       "album": {
@@ -5958,7 +6028,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Don't Chase Me Away",
       "url": "https://open.spotify.com/track/41UIC44Fw79UUdwlt9Vgqs"
@@ -6420,7 +6490,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 190971,
       "name": "Ei voi (feat. Luwa.Mp4)",
       "url": "https://open.spotify.com/track/6xpZg3sfg49gNihQZGLsl1"
@@ -8430,7 +8500,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 154001,
       "name": "Green Light (feat. Brazy & Maleigh Zan)",
       "url": "https://open.spotify.com/track/0qdXgKaog8kQxgF573XIcJ"
@@ -9120,7 +9190,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 238026,
       "name": "Honey, I Love You",
       "url": "https://open.spotify.com/track/46qrlJPMBoYpdBxZmneY3z"
@@ -9258,6 +9328,28 @@
       "duration_ms": 182400,
       "name": "How I Want It",
       "url": "https://open.spotify.com/track/0IsysGvtKPy8kY1s94kP3p"
+    },
+    {
+      "album": {
+        "name": "How Do The Flowers Bloom?",
+        "url": "https://open.spotify.com/album/0zAYL4Km3huGSPB77FUobM"
+      },
+      "artists": [
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        },
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "How I Want It Too",
+      "url": "https://open.spotify.com/track/2gyPhDhYREAUa1sXUA2A7q"
     },
     {
       "album": {
@@ -13216,7 +13308,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 149916,
       "name": "Miss Kitoko",
       "url": "https://open.spotify.com/track/03xgcXTzxDbsN9v4m6sYsk"
@@ -14240,7 +14332,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 220340,
       "name": "Night Drive (feat. Dagmawit Ameha)",
       "url": "https://open.spotify.com/track/0XCxoVRBBYzH2QLUH6rf38"
@@ -14262,7 +14354,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 170013,
       "name": "Nights In The Sun (feat. Wizkid)",
       "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
@@ -17938,7 +18030,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 116869,
       "name": "SAME TIME",
       "url": "https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb"
@@ -18914,7 +19006,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 159416,
       "name": "Sisi Eko",
       "url": "https://open.spotify.com/track/0iPX2MzMxXjQxT3Bcu3W5J"
@@ -20825,6 +20917,32 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0kedTY9qlFdns9tuSeeJ9L"
+      },
+      "artists": [
+        {
+          "name": "Nuel Beatz",
+          "url": "https://open.spotify.com/artist/4SOEmk8O48UGRzvrpimMrH"
+        },
+        {
+          "name": "Dwin, The Stoic",
+          "url": "https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC"
+        },
+        {
+          "name": "Sewa",
+          "url": "https://open.spotify.com/artist/5sww8nN6f3JyiLiyQR0Btm"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237134,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4kYo4gwBmu2MJVrUBeYkbO"
+    },
+    {
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/62idXCwWHEJYlTvBNTnXuE"
       },
@@ -20988,7 +21106,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 197500,
       "name": "The People",
       "url": "https://open.spotify.com/track/03JxBMz5guJWjiwOpU95CS"
@@ -21959,6 +22077,28 @@
     },
     {
       "album": {
+        "name": "tyla",
+        "url": "https://open.spotify.com/album/7ypQZocQ0GRlxeGs8z1oJk"
+      },
+      "artists": [
+        {
+          "name": "Mayordre",
+          "url": "https://open.spotify.com/artist/0AIHXBRjcweqHDS595ZM4T"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "tyla",
+      "url": "https://open.spotify.com/track/13lk0e1B4qsyWzZFaeX16x"
+    },
+    {
+      "album": {
         "name": "Uche Jumbo",
         "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
       },
@@ -22448,7 +22588,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 178775,
       "name": "Wait",
       "url": "https://open.spotify.com/track/2jbGtizHpszkUJnMJOAj64"

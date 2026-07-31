@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Matilda Mann
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,243 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,315 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Sushi and Coca\-Cola](https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Sushi and Coca\-Cola](https://open.spotify.com/album/3QSjD8VyfUBGICacKVLzk4) | 2:37 |
 | 100 | [Girl of the Hour](https://open.spotify.com/track/5DToj6deasn1CaLqldIWCJ) | [Tabitha Meeks](https://open.spotify.com/artist/5XLLTtjICh1Hsk7NSJW5vv) | [Girl of the Hour](https://open.spotify.com/album/0d9BIuBugjnp2DDW2LlYES) | 3:03 |
 
-Snapshot ID: `AAAAANHqcFQdFtg7tTqFZjsfbVx8/DfQ`
+Snapshot ID: `AAAAAKFjBYMD45A0TppQJN9G8tmxPfNN`

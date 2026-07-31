@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-1,184 songs - 2 day 16 hr 21 min
+1,185 songs - 2 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [All At Once](https://open.spotify.com/track/2o580zubSdTzl5Hy7LLBwi) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [All At Once](https://open.spotify.com/album/5yc4uHuJ6OWBiRhDavoKWO) | 3:47 | 2023-03-31 | 2023-04-21 |
 | [All at once](https://open.spotify.com/track/12fyTBfSQPdyQg11oiZJFM) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [All at once](https://open.spotify.com/album/04UfbQhE7ABx1X0jHbLkn8) | 4:00 | 2025-06-20 | 2025-07-12 |
 | [ALL I WANTED](https://open.spotify.com/track/6Jt5rPgQqTnZ9iGfoMogFk) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK) | [WHERE ARE YOU NOW THAT IT'S OVER?](https://open.spotify.com/album/0vZ2TnJ14bTm1KbHYUFHU0) | 3:33 | 2024-07-26 | 2024-08-31 |
+| [all in](https://open.spotify.com/track/4W5XTCtji4ew31hQm0p9Zf) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [all in](https://open.spotify.com/album/1fLw3tbWVz3Zk0k80C7uaj) | 3:46 | 2026-07-30 |  |
 | [All My Friends Are Fallin' In Love](https://open.spotify.com/track/0tIWk4w1AfinVnGxiaSz5d) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [All My Friends Are Fallin' In Love](https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3) | 3:17 | 2022-03-29 | 2022-07-27 |
 | [all my perfects](https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [lovlaine \(The Deluxe Album\)](https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na) | 3:38 | 2025-02-14 | 2025-02-22 |
 | [All Out Of Love](https://open.spotify.com/track/7vhoaLa8KJJTIQJYfDhdV3) | [Vitara](https://open.spotify.com/artist/0NcLSUH54X9UBJSO7uMtPA) | [All Out Of Love](https://open.spotify.com/album/1nbO2blQ2f2McVpyPmgcUS) | 2:58 | 2023-01-06 | 2023-01-27 |
@@ -217,7 +218,7 @@
 | [Crazier](https://open.spotify.com/track/1KUZUkyEGDvWxT4l1D9gGF) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/6VA0F9GSo9tASAQtUQkLmZ) | 3:53 | 2022-01-28 | 2022-06-07 |
 | [crazy girl](https://open.spotify.com/track/2qh0B9oEpeVa4huNfustpO) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [crazy girl](https://open.spotify.com/album/6ZC1MX5xk9GwQoGQPxqyzM) | 2:33 | 2024-10-04 | 2024-10-19 |
 | [Criminal \(Over You\)](https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Sonder](https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys) | 2:51 | 2024-10-04 | 2024-10-19 |
-| [Cruise Control](https://open.spotify.com/track/61svLjB9BCjdtkUtqbDSXp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Cruise Control](https://open.spotify.com/album/3oHO5lsSGBC4gEs4Et9Thn) | 2:35 | 2024-04-12 |  |
+| [Cruise Control](https://open.spotify.com/track/61svLjB9BCjdtkUtqbDSXp) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Cruise Control](https://open.spotify.com/album/3oHO5lsSGBC4gEs4Et9Thn) | 2:35 | 2024-04-12 | 2026-07-31 |
 | [CUTIE](https://open.spotify.com/track/6N0A2eAfev8XaMlrS16mkC) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [CUTIE](https://open.spotify.com/album/58NklkNH8BSsUiah3F4Yzh) | 2:25 | 2023-06-15 | 2023-07-01 |
 | [Dancing in the Dark](https://open.spotify.com/track/7BubCfFAY8usLpIubuUxXN) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [Dancing in the Dark](https://open.spotify.com/album/7rOMHjsj1NGX26xag6rOro) | 3:18 | 2024-07-26 |  |
 | [DANCING ON A GRAVEYARD](https://open.spotify.com/track/50kPsp9qv18LL7Eh3oSShy) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [DANCING ON A GRAVEYARD](https://open.spotify.com/album/48ierpG5JJ6wAVEVcpU2kU) | 3:16 | 2024-05-31 | 2024-06-13 |

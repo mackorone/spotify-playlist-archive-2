@@ -246,7 +246,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 192000,
       "name": "1000 Hugs",
       "url": "https://open.spotify.com/track/6hal8MChrGMEpJuOaQN17D"
@@ -3808,7 +3808,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 140613,
       "name": "B.B.B.",
       "url": "https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp"
@@ -15805,6 +15805,28 @@
     },
     {
       "album": {
+        "name": "EYE LIED",
+        "url": "https://open.spotify.com/album/3FlGblaGKuo8ct2WUyjbus"
+      },
+      "artists": [
+        {
+          "name": "Mike Dimes",
+          "url": "https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175294,
+      "name": "EYE LIED",
+      "url": "https://open.spotify.com/track/5naWT5oFlCTc5Hzp0pNe43"
+    },
+    {
+      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -20632,7 +20654,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 136815,
       "name": "Goolies",
       "url": "https://open.spotify.com/track/3azZYpf0wE5epSpD0TIAiU"
@@ -27095,6 +27117,28 @@
     },
     {
       "album": {
+        "name": "KEEP UP W ME",
+        "url": "https://open.spotify.com/album/5bUlt7YMFSAGUwxhn6L3tT"
+      },
+      "artists": [
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        },
+        {
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "KEEP UP W ME",
+      "url": "https://open.spotify.com/track/0lonqBUBxoRez8uLXQmmSh"
+    },
+    {
+      "album": {
         "name": "Keeper",
         "url": "https://open.spotify.com/album/2coZBB3PhjAsm1HMRucDwm"
       },
@@ -28922,6 +28966,24 @@
       "duration_ms": 194813,
       "name": "Life\u2019s Not A Game",
       "url": "https://open.spotify.com/track/1Rk7BVHZitsnpDwQ4lK64s"
+    },
+    {
+      "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/1WHMFghZk8mX5gv8QyV4xo"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195753,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/43mrbXwYPHFmj4Eg0PTDhA"
     },
     {
       "album": {
@@ -38786,7 +38848,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 225954,
       "name": "Piece Of Your Love",
       "url": "https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U"
@@ -41682,7 +41744,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 148108,
       "name": "Real Hustla (ft. GloRilla)",
       "url": "https://open.spotify.com/track/01lRLiKslwD7pzTa9PqvND"
@@ -42388,7 +42450,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 158506,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1pQux31oToQU3oQPwdXF4I"
@@ -43904,7 +43966,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 146285,
       "name": "Seduce You",
       "url": "https://open.spotify.com/track/3Lu25CvmWSwUB27ircGaT2"

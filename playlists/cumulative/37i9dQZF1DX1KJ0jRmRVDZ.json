@@ -30730,24 +30730,6 @@
     {
       "album": {
         "name": "\u767e\u9b3c\u591c\u884c",
-        "url": "https://open.spotify.com/album/6sKvuQAoSaQHsqRmwqxO75"
-      },
-      "artists": [
-        {
-          "name": "Nakimushi",
-          "url": "https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn"
-        }
-      ],
-      "date_added": "2026-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156751,
-      "name": "\u767e\u9b3c\u591c\u884c",
-      "url": "https://open.spotify.com/track/6Wv6djactnaJ4zG48hBzG5"
-    },
-    {
-      "album": {
-        "name": "\u767e\u9b3c\u591c\u884c",
         "url": "https://open.spotify.com/album/3FBrCecKShQFfSxBrcCmAK"
       },
       "artists": [
@@ -30762,6 +30744,24 @@
       "duration_ms": 147641,
       "name": "\u767e\u9b3c\u591c\u884c",
       "url": "https://open.spotify.com/track/4X6zrENMuFANqmKz6MIV7p"
+    },
+    {
+      "album": {
+        "name": "\u767e\u9b3c\u591c\u884c\u3002",
+        "url": "https://open.spotify.com/album/6sKvuQAoSaQHsqRmwqxO75"
+      },
+      "artists": [
+        {
+          "name": "Nakimushi",
+          "url": "https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn"
+        }
+      ],
+      "date_added": "2026-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156751,
+      "name": "\u767e\u9b3c\u591c\u884c\u3002",
+      "url": "https://open.spotify.com/track/6Wv6djactnaJ4zG48hBzG5"
     },
     {
       "album": {

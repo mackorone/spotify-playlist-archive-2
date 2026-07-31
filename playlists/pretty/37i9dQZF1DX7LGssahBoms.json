@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur des ann\u00e9es 70 en 70 titres.",
-  "num_followers": 206940,
+  "num_followers": 206946,
   "original_name": "Ann\u00e9es 70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIJukwNBRQHeZjrifpCelXeOutwZ",
+  "snapshot_id": "AAAAAGCXbtbEGaxCVrNMDb+CX0M1GkcQ",
   "tracks": [
     {
       "added_at": "2026-03-19 15:33:21",
@@ -223,22 +223,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Goodbye Yellow Brick Road (Remastered)",
         "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 240335,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Say It Ain't So",
-        "url": "https://open.spotify.com/album/0xs6oggygZLeaN1qVLSugB"
-      },
-      "artists": [
-        {
-          "name": "Murray Head",
-          "url": "https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Say It Ain't So, Joe",
-      "url": "https://open.spotify.com/track/6vJZnE3jJWfxOIVONjntUO"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 250746,
       "name": "Rockollection",
       "url": "https://open.spotify.com/track/1jL4dBrmBpkAwxiMFzHulz"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Say It Ain't So",
+        "url": "https://open.spotify.com/album/0xs6oggygZLeaN1qVLSugB"
+      },
+      "artists": [
+        {
+          "name": "Murray Head",
+          "url": "https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Say It Ain't So, Joe",
+      "url": "https://open.spotify.com/track/6vJZnE3jJWfxOIVONjntUO"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Even In The Quietest Moments",
-        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 248173,
-      "name": "Give A Little Bit",
-      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Dancing Disco (Edition Deluxe) [Remasteris\u00e9 en 2004]",
         "url": "https://open.spotify.com/album/2tJBpkXgpcxb59u0Pi3FMi"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 325520,
       "name": "Musique - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/0TrSWhokDH5OfUdvU2qIdJ"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Even In The Quietest Moments",
+        "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 248173,
+      "name": "Give A Little Bit",
+      "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
     },
     {
       "added_at": "2026-03-19 15:33:21",

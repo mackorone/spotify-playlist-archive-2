@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 71384,
+  "num_followers": 71378,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIG/BnjsF39YYER6V33mdFD2x8US",
+  "snapshot_id": "AAAAADGsaGT2zgFijMhW83iixtaLZ56/",
   "tracks": [
     {
       "added_at": "2024-06-24 11:19:01",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Dimman",
+        "url": "https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Dimman",
+      "url": "https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Hei Sommer",
         "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 172516,
       "name": "Hei Sommer",
       "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Dimman",
-        "url": "https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Dimman",
-      "url": "https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
-        "name": "Irie",
-        "url": "https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg"
-      },
-      "artists": [
-        {
-          "name": "Silly Selection",
-          "url": "https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr"
-        }
-      ],
-      "duration_ms": 203065,
-      "name": "Irie",
-      "url": "https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 222000,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
+        "name": "Irie",
+        "url": "https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg"
+      },
+      "artists": [
+        {
+          "name": "Silly Selection",
+          "url": "https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr"
+        }
+      ],
+      "duration_ms": 203065,
+      "name": "Irie",
+      "url": "https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3"
     },
     {
       "added_at": "2024-06-24 11:19:01",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "Teaterapan",
+        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 182378,
+      "name": "Teaterapan",
+      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Weh Dem A Gwaan",
         "url": "https://open.spotify.com/album/5r1c91KAq5CpstvR7i6WA0"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 200000,
       "name": "Weh Dem A Gwaan",
       "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "Teaterapan",
-        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 182378,
-      "name": "Teaterapan",
-      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
     },
     {
       "added_at": "2024-06-24 11:19:01",

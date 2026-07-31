@@ -1,12 +1,12 @@
 {
   "description": "The IDs that got us here. #Spotify20",
-  "num_followers": 6033,
+  "num_followers": 6039,
   "original_name": "Our Favorite IDs from the Last 20 Years",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABRGIfQOJ3bH/OyQ1CGvhMOml0ra",
+  "snapshot_id": "AAAAAEC4JJsR68goxZx7pXM2qZ+j+eT/",
   "tracks": [
     {
       "added_at": "2026-05-12 12:00:20",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
-        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        }
-      ],
-      "duration_ms": 232806,
-      "name": "Immaterial",
-      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Sorry I Am Late (Extended)",
         "url": "https://open.spotify.com/album/4KtZYPGVGvdmAR5XL4lhPL"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 489714,
       "name": "Sorry I Am Late - Extended",
       "url": "https://open.spotify.com/track/4FpawvuBz4HxTz7UqR4ter"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "OIL OF EVERY PEARL'S UN-INSIDES",
+        "url": "https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        }
+      ],
+      "duration_ms": 232806,
+      "name": "Immaterial",
+      "url": "https://open.spotify.com/track/7ub14NqqyR1MDUTXyFBTzO"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -367,6 +367,26 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O"
+      },
+      "artists": [
+        {
+          "name": "DJ HEARTSTRING",
+          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 196916,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
         "name": "Isimo",
         "url": "https://open.spotify.com/album/4fHsKSIC0nL0cJimyaDT21"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 351200,
       "name": "Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush)",
       "url": "https://open.spotify.com/track/6Kijtp0DB6VwcoJIw7PJ9W"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/7k9X7tCJdLdPWpm6JbAW0O"
-      },
-      "artists": [
-        {
-          "name": "DJ HEARTSTRING",
-          "url": "https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 196916,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/3tYYypENWxaS1DKUtcH8S8"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -515,6 +515,22 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
+        "name": "The Rawkers (I <3 U SO Edition)",
+        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
+      },
+      "artists": [
+        {
+          "name": "Cassius",
+          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
+        }
+      ],
+      "duration_ms": 222407,
+      "name": "I <3 U SO",
+      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
         "name": "ASYLUM",
         "url": "https://open.spotify.com/album/0NtySRW0yZHYPyRlt1pP7q"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Justin99, Pcee, EeQue, & Chley)",
       "url": "https://open.spotify.com/track/0c5uvxHB8Fhy9YmnO4KOHk"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
-        "name": "The Rawkers (I <3 U SO Edition)",
-        "url": "https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ"
-      },
-      "artists": [
-        {
-          "name": "Cassius",
-          "url": "https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy"
-        }
-      ],
-      "duration_ms": 222407,
-      "name": "I <3 U SO",
-      "url": "https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "Hungry for the Power",
-        "url": "https://open.spotify.com/album/2Mx9JygkHhf6juiAPLiODy"
-      },
-      "artists": [
-        {
-          "name": "Azari & III",
-          "url": "https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc"
-        }
-      ],
-      "duration_ms": 406691,
-      "name": "Hungry for the Power - Jamie Jones Ridge Street Mix",
-      "url": "https://open.spotify.com/track/0FHycpsDC6uJCFkGXq4kPw"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Joli Mai",
         "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 226479,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "Hungry for the Power",
+        "url": "https://open.spotify.com/album/2Mx9JygkHhf6juiAPLiODy"
+      },
+      "artists": [
+        {
+          "name": "Azari & III",
+          "url": "https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc"
+        }
+      ],
+      "duration_ms": 406691,
+      "name": "Hungry for the Power - Jamie Jones Ridge Street Mix",
+      "url": "https://open.spotify.com/track/0FHycpsDC6uJCFkGXq4kPw"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "In Circles",
-        "url": "https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr"
-      },
-      "artists": [
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
-        }
-      ],
-      "duration_ms": 216336,
-      "name": "Condition",
-      "url": "https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Fading Love",
         "url": "https://open.spotify.com/album/1v6BipCE7YBMOBcAN0j0EH"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 292971,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/4XK1a9vdsiDmhvdkFzGCQh"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "In Circles",
+        "url": "https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "duration_ms": 216336,
+      "name": "Condition",
+      "url": "https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol"
     },
     {
       "added_at": "2026-05-12 12:00:20",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-05-12 12:00:20",
       "album": {
-        "name": "The Chapters of Green Velvet",
-        "url": "https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4"
-      },
-      "artists": [
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        }
-      ],
-      "duration_ms": 394124,
-      "name": "Bigger Than Prince - Hot Since 82 Remix",
-      "url": "https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f"
-    },
-    {
-      "added_at": "2026-05-12 12:00:20",
-      "album": {
         "name": "Holy Love",
         "url": "https://open.spotify.com/album/05BFW14n8oRIelRWgVZoF5"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 246480,
       "name": "Not So Much",
       "url": "https://open.spotify.com/track/12OGDOFXnFjglpMNlUXw7r"
+    },
+    {
+      "added_at": "2026-05-12 12:00:20",
+      "album": {
+        "name": "The Chapters of Green Velvet",
+        "url": "https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "duration_ms": 394124,
+      "name": "Bigger Than Prince - Hot Since 82 Remix",
+      "url": "https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f"
     },
     {
       "added_at": "2026-05-12 12:00:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > ❤️‍🔥 featuring girlsweetvoiced <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">read our substack! </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,196 likes - 128 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,177 likes - 128 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 127 | [Perfect Hand \- Power Snatch Version](https://open.spotify.com/track/041it5i3hjWkeCq0Cm7tzD) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun), [Power Snatch](https://open.spotify.com/artist/3NEo0bJDvJ9xpRWwBRvLZ6), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM), [Daniel James](https://open.spotify.com/artist/7fjWpR5V7rFThV1mf5fzp9) | [Perfect Hand \(Power Snatch Version\)](https://open.spotify.com/album/2JZbYMSKIM2MCoOHkPVnOM) | 3:33 |
 | 128 | [Year of the Dragon](https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM), [Worldpeace DMT](https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV) | [Year of the Dragon](https://open.spotify.com/album/0jW3wSM0l8sOZNlBUYaul3) | 3:29 |
 
-Snapshot ID: `AAAAAE361nm8Ff7uP6bovLGg9RNtZdi0`
+Snapshot ID: `AAAAAHQXh4RHysxVLUaMc6Iy0z+63/Ov`

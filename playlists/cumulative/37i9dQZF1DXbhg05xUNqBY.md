@@ -4,7 +4,7 @@
 
 > Let go and let God.
 
-457 songs - 1 day 6 hr 19 min
+458 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Dreaming of Eden](https://open.spotify.com/track/7Moo8abBatLMNr3rq2MmJh) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Dreaming of Eden](https://open.spotify.com/album/2wUYq8HZAjtno3Q14QoumT) | 4:14 | 2023-02-07 | 2024-06-23 |
 | [Dust](https://open.spotify.com/track/37k1i0VC94PXvH8O3oOeEr) | [Seth Carpenter](https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt) | [Dust](https://open.spotify.com/album/1k3GoQXFpiy78Zgo4ADtk0) | 4:50 | 2025-04-05 |  |
 | [dwell](https://open.spotify.com/track/6APrayamM5q5xumqGca8wT) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Grace Coleman](https://open.spotify.com/artist/3R2G7IcUc0fmusW118P3cK) | [dwell](https://open.spotify.com/album/360JgfnkxMUaA7kjpNTXlW) | 4:19 | 2025-08-08 |  |
-| [Easily](https://open.spotify.com/track/3LVrJBgiKuB7g8g65rg7ny) | [ELEANOR](https://open.spotify.com/artist/3UVUrKoUvZqGbIOUj9Lcvi) | [Easily](https://open.spotify.com/album/58mtJv5vFcgS0NAoPAzAsj) | 3:47 | 2026-07-29 |  |
+| [Easily](https://open.spotify.com/track/3LVrJBgiKuB7g8g65rg7ny) | [ELEANOR](https://open.spotify.com/artist/3UVUrKoUvZqGbIOUj9Lcvi) | [Easily](https://open.spotify.com/album/58mtJv5vFcgS0NAoPAzAsj) | 3:47 | 2026-07-29 | 2026-07-31 |
 | [Easy](https://open.spotify.com/track/6wLGR76rJ1HqWUJshvWbtM) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Easy](https://open.spotify.com/album/6d8x2X8GleIBbRvAU2zVDL) | 6:09 | 2026-03-23 |  |
 | [Eden Restored](https://open.spotify.com/track/7pmM87UsSeda7D8K8avnFU) | [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV) | [JUBILATION](https://open.spotify.com/album/629pdeYK3aEP2oCVgo8Vyv) | 6:50 | 2024-07-26 | 2025-04-05 |
 | [El Roi](https://open.spotify.com/track/3dBKAPLPzLQqEbIpkD4ekL) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO) | [El Roi](https://open.spotify.com/album/6m0G3Yny9o3iNgv1xwdgtj) | 2:59 | 2026-04-17 |  |
@@ -462,6 +462,7 @@
 | [You Didn't Break It](https://open.spotify.com/track/7je4oOSxRs9KssL0L2lqQN) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [You Didn't Break It](https://open.spotify.com/album/59ZgNeHrx3KxmMZHQjnGiG) | 4:52 | 2021-10-31 | 2024-06-23 |
 | [You Make Everything Beautiful](https://open.spotify.com/track/6bn6sdDlaACi5JuKAhYKFm) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Gemma Fink](https://open.spotify.com/artist/6lHgemnDLexAkPpZLZrarx), [Imogen Fink](https://open.spotify.com/artist/6kZJgQrsMzRrMI2diSBSar) | [You Make Everything Beautiful](https://open.spotify.com/album/5XfmiSllh2oLB9bf3ehUvF) | 3:03 | 2025-08-08 | 2025-10-11 |
 | [You Prepare the Fire](https://open.spotify.com/track/726NUsPYYDXOG4TmkTpRpl) | [Zach Webb](https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke) | [You Prepare the Fire](https://open.spotify.com/album/2QIQ0XXpJnwbfJ8OvlPABZ) | 5:20 | 2026-07-29 |  |
+| [You Put My Mind at Ease](https://open.spotify.com/track/5EjFqeH8AtSN2HGMXNXcTR) | [Brandon Pak](https://open.spotify.com/artist/1Q8jZl7si5wjHdPxNIG6Zi), [Ashley Hess](https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N) | [You Put My Mind at Ease](https://open.spotify.com/album/0ZcUYUHN4M9zbvSgNIdh4i) | 3:36 | 2026-07-29 |  |
 | [You're Still God \- Live](https://open.spotify.com/track/1e2WTH5rBj0ed5gkisv1sl) | [Songs From The Soil](https://open.spotify.com/artist/7oAEmbGGT20HyZ3wqxeSDH), [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2), [Emmanuel Smith](https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b) | [You're Still God](https://open.spotify.com/album/3obzpfiA5DQ4vKaAodPyF2) | 4:41 | 2024-06-23 | 2025-03-13 |
 | [You, First](https://open.spotify.com/track/4wGoDelfywHkA5u2tW3P2j) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5), [Tiphani Croushorn](https://open.spotify.com/artist/7I4Kn46mDs2ExsxJxLvHF6) | [You, First](https://open.spotify.com/album/6ve3Z2Ksar4KF6XdQiq5J8) | 2:35 | 2025-04-05 | 2025-05-08 |
 | [Zero Time](https://open.spotify.com/track/5AyLPGTVX1WfYomPlsg8xO) | [Laura Ehio](https://open.spotify.com/artist/0E9rEf1UV4n8IqTEgPuKTn), [Paulade](https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK) | [Table for 2 \- EP](https://open.spotify.com/album/3szrQXWIEnBG8cizfBKsuD) | 3:01 | 2026-03-23 | 2026-07-30 |

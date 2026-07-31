@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: K.Keed, Orish",
+  "description": "Only the hottest South African rap. \nCover: LaCabra",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 126131,
       "name": "Aura (oGcabashe)",
       "url": "https://open.spotify.com/track/65KFpzq9hKo4b55H5lus22"
@@ -8806,7 +8806,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 136842,
       "name": "HANDOUT",
       "url": "https://open.spotify.com/track/3xGbofxej3a2fMQkMOTnAs"
@@ -12377,6 +12377,28 @@
     },
     {
       "album": {
+        "name": "Lil Mama",
+        "url": "https://open.spotify.com/album/3VbjzUFewx8idK8VlnRKZ8"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223511,
+      "name": "Lil Mama",
+      "url": "https://open.spotify.com/track/5BWOPKy7YJxFhqi5XgyhFv"
+    },
+    {
+      "album": {
         "name": "Live for the moment (Remix)",
         "url": "https://open.spotify.com/album/5ABpjFkQ7uTKVbJmFYyIBY"
       },
@@ -14409,6 +14431,28 @@
     },
     {
       "album": {
+        "name": "Mzala (feat. MfanaTouchline)",
+        "url": "https://open.spotify.com/album/6Mc1za3bhexnphQDGMhUyS"
+      },
+      "artists": [
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        },
+        {
+          "name": "MfanaTouchLine",
+          "url": "https://open.spotify.com/artist/2RV0TompTWunZpF57DdQzJ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190808,
+      "name": "Mzala (feat. MfanaTouchline)",
+      "url": "https://open.spotify.com/track/4zhfTqx3eY0AZXeRHzUx1Z"
+    },
+    {
+      "album": {
         "name": "Navigator",
         "url": "https://open.spotify.com/album/4v8HTWmTy0B4J9yRCzRiGi"
       },
@@ -16366,7 +16410,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 136000,
       "name": "Phethwe Sithi",
       "url": "https://open.spotify.com/track/0rNASNiqkWKIJpsRVbHm6L"

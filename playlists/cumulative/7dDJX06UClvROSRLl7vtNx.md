@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,415 songs - 2 day 12 hr 55 min
+1,417 songs - 2 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1149,6 +1149,7 @@
 | [Sugar \(feat\. Eirik Næss\)](https://open.spotify.com/track/3JWBhbcviDe1gIvZS3wwFa) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Sugar](https://open.spotify.com/album/3wCwbzjcVI6PNPyWGuH3AG) | 2:45 | 2023-09-22 | 2024-06-19 |
 | [Summer](https://open.spotify.com/track/2uyWpCJ6Z0t8IhCzRV1KS9) | [Ana Maria](https://open.spotify.com/artist/2Slr8kvRh1iYRmb2qbfzx9), [Elary](https://open.spotify.com/artist/1s10EzzbWWO6LU4r1dHZ3y) | [Summer](https://open.spotify.com/album/0FvxLUC6vKduCf360e8dvS) | 2:12 | 2024-06-30 | 2025-02-02 |
 | [Summer](https://open.spotify.com/track/5LEPFFaFzcjKsImMnhLsvS) | [Muted Mind](https://open.spotify.com/artist/39kVqgwmP8wUYifFJtmXeL), [Jessi G](https://open.spotify.com/artist/32deb5fStB5qWw0sM3BDGU) | [Summer](https://open.spotify.com/album/4XMGrmBKPdMZJtGtrHYpID) | 2:17 | 2024-06-09 | 2024-11-11 |
+| [Summer Blues](https://open.spotify.com/track/4nBDODxSmAafPUPIdBRkih) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Edmundo Silva](https://open.spotify.com/artist/3Bx5tD0QE0gLajCrI5k3UN), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74) | [Summer Blues](https://open.spotify.com/album/32R4BniJ4DSmiBK9lU6jlo) | 2:07 | 2026-07-30 |  |
 | [Summer Blues](https://open.spotify.com/track/4RGqiNSfiYBL99lMFVNCMv) | [Swizznife](https://open.spotify.com/artist/4OB8hmrCayrQknTkqJH20a), [May Li](https://open.spotify.com/artist/6RLHdjo56l1wGdJg2pTwun) | [Summer Blues](https://open.spotify.com/album/4zMh5qmcapLoS2hCV7dfKb) | 2:45 | 2025-04-06 | 2026-03-23 |
 | [Summer Dreams](https://open.spotify.com/track/5VF5Z29RricPLDtUugnbOr) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [Summer Dreams](https://open.spotify.com/album/60ezehYNCecK9vXYGeidxB) | 2:37 | 2024-09-17 | 2024-11-29 |
 | [Summer For The Healing](https://open.spotify.com/track/2VX99GNxqBFQSWfCxDvoGD) | [Poul](https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj), [Alberto Ciccarini](https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS) | [Summer For The Healing](https://open.spotify.com/album/7d33haH7lyX8qztbG6wEY8) | 2:46 | 2025-01-24 | 2025-07-08 |
@@ -1422,6 +1423,7 @@
 | [Your Love](https://open.spotify.com/track/195FCOZRj3Z7H5AvfTwzbx) | [Arley](https://open.spotify.com/artist/6dDcvbij1mC4yKl7Dm5dNt), [Descend](https://open.spotify.com/artist/1MArNKGDTIWAiJkpnqwCEK) | [Your Love](https://open.spotify.com/album/75WdbHFNhcNna9gLW229lL) | 3:48 | 2025-01-31 | 2025-03-15 |
 | [Your Love's Not Wasted](https://open.spotify.com/track/1at0ZV2iOErop550JQLyZR) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Jakke](https://open.spotify.com/artist/4J2F2H9mhFcaXDs64WCMxQ) | [Your Love's Not Wasted](https://open.spotify.com/album/6a92sVEH9NRJWTpLbJfO9L) | 4:00 | 2024-07-13 |  |
 | [Your Sky Is My Ocean](https://open.spotify.com/track/6WoEQQOcZXAV7brdz8VbD0) | [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM), [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS) | [Your Sky Is My Ocean](https://open.spotify.com/album/1cmjtpFF7L4OUdu2BsflKJ) | 3:18 | 2023-10-27 | 2024-05-13 |
+| [Yours Tonight](https://open.spotify.com/track/6e9E0vc6I2qaE2BwWcq4Qr) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Yours Tonight](https://open.spotify.com/album/6bhjsmEblgJ6pGC5wQ50ww) | 2:52 | 2026-07-30 |  |
 | [YUKON](https://open.spotify.com/track/5Pamygnx1LF1oGrQZEoyjS) | [Lone Tusker](https://open.spotify.com/artist/3vlH5PSk5GSm61lfafSPAl), [Ugg'A](https://open.spotify.com/artist/2eAVygHxvbYA7CtF7bv5vC) | [YUKON](https://open.spotify.com/album/2wR7SHGRuBiXqj1Ftju09k) | 2:27 | 2026-03-03 | 2026-04-06 |
 
 \*This playlist was first scraped on 2023-12-07. Prior content cannot be recovered.

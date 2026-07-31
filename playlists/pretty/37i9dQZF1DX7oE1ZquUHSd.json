@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 232002,
+  "num_followers": 232069,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAbs8JYerE9Jh35YB04viBfXyDi9",
+  "snapshot_id": "AAAAAA1HFdbNEPHK+wL/vD6FcIjLHP9C",
   "tracks": [
     {
       "added_at": "2024-07-12 18:46:41",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "S\u00faper Sangre Joven",
+        "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 164457,
+      "name": "Goteo",
+      "url": "https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 262720,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/7uYFOLEhhmojSLTyVZ8r4O"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "S\u00faper Sangre Joven",
-        "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 164457,
-      "name": "Goteo",
-      "url": "https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "R\u00e9plica",
+        "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 305454,
+      "name": "R\u00e9plica",
+      "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Desde",
         "url": "https://open.spotify.com/album/74UJbBZO5IuCRtwyWqoLzL"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 277439,
       "name": "Desde",
       "url": "https://open.spotify.com/track/5kwkIYnH4ObKsTeNQvZ0pT"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "R\u00e9plica",
-        "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
-      },
-      "artists": [
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 305454,
-      "name": "R\u00e9plica",
-      "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Alma Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
-      },
-      "artists": [
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Me\u00f1iques",
-      "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Vieja Guardia",
         "url": "https://open.spotify.com/album/0WQlNYV6zxkqRytELxWYhN"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 293066,
       "name": "Digo Lo Que Pienso",
       "url": "https://open.spotify.com/track/2ZR2Cox8oGFMdvPLiNKrJO"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Alma Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
+      },
+      "artists": [
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Me\u00f1iques",
+      "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Una Isla en los Andes",
-        "url": "https://open.spotify.com/album/6arO0VYPhGnJmf2oPVX6nD"
-      },
-      "artists": [
-        {
-          "name": "Rxnde Akozta",
-          "url": "https://open.spotify.com/artist/5YO3yQx97KLLE9zJYa4jaU"
-        },
-        {
-          "name": "Marrom Fernandez",
-          "url": "https://open.spotify.com/artist/3Y9xJ6WyHrNcHIj5guiuzz"
-        }
-      ],
-      "duration_ms": 222673,
-      "name": "Juicio / Canserbero",
-      "url": "https://open.spotify.com/track/0gY8iJ7YHfbUs95wDHPeWD"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Hecho En Mexico",
         "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 169786,
       "name": "Balas",
       "url": "https://open.spotify.com/track/61udLtunSv95Gu89jiWUWf"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Una Isla en los Andes",
+        "url": "https://open.spotify.com/album/6arO0VYPhGnJmf2oPVX6nD"
+      },
+      "artists": [
+        {
+          "name": "Rxnde Akozta",
+          "url": "https://open.spotify.com/artist/5YO3yQx97KLLE9zJYa4jaU"
+        },
+        {
+          "name": "Marrom Fernandez",
+          "url": "https://open.spotify.com/artist/3Y9xJ6WyHrNcHIj5guiuzz"
+        }
+      ],
+      "duration_ms": 222673,
+      "name": "Juicio / Canserbero",
+      "url": "https://open.spotify.com/track/0gY8iJ7YHfbUs95wDHPeWD"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Alma Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
-      },
-      "artists": [
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
-        }
-      ],
-      "duration_ms": 307253,
-      "name": "Mi Mejor Inspiraci\u00f3n",
-      "url": "https://open.spotify.com/track/5RlwAz1LZDNqTF8OLEXAPO"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Aczino: Bzrp Freestyle Sessions, Vol. 8",
         "url": "https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL"
       },
@@ -1763,6 +1747,34 @@
       "duration_ms": 277801,
       "name": "Y Boquete Pa Tu Techo",
       "url": "https://open.spotify.com/track/6VvDIjJSwswOhdbamnbP5z"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Retrospecci\u00f3n Mixtape, Vol. 1",
+        "url": "https://open.spotify.com/album/1aniMf0ypLhf8aonlyNBEm"
+      },
+      "artists": [
+        {
+          "name": "Geoenezetao",
+          "url": "https://open.spotify.com/artist/7el2kfMBIvZQmwoE0K7oqK"
+        },
+        {
+          "name": "Dj Dacel",
+          "url": "https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf"
+        },
+        {
+          "name": "Hordatoj",
+          "url": "https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu"
+        },
+        {
+          "name": "Sqb",
+          "url": "https://open.spotify.com/artist/751KWo9OE8EhdTgXVCKMOs"
+        }
+      ],
+      "duration_ms": 137197,
+      "name": "Viejos Habitantes",
+      "url": "https://open.spotify.com/track/6f55wLyPhb1OwaNd0pXRmm"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1839,30 +1851,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Retrospecci\u00f3n Mixtape, Vol. 1",
-        "url": "https://open.spotify.com/album/1aniMf0ypLhf8aonlyNBEm"
+        "name": "Alma Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
       },
       "artists": [
         {
-          "name": "Geoenezetao",
-          "url": "https://open.spotify.com/artist/7el2kfMBIvZQmwoE0K7oqK"
-        },
-        {
-          "name": "Dj Dacel",
-          "url": "https://open.spotify.com/artist/5Nj8sBYPlnStp5EkE2f0Lf"
-        },
-        {
-          "name": "Hordatoj",
-          "url": "https://open.spotify.com/artist/6EQAbr4kKwE4EaGBzUpONu"
-        },
-        {
-          "name": "Sqb",
-          "url": "https://open.spotify.com/artist/751KWo9OE8EhdTgXVCKMOs"
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
         }
       ],
-      "duration_ms": 137197,
-      "name": "Viejos Habitantes",
-      "url": "https://open.spotify.com/track/6f55wLyPhb1OwaNd0pXRmm"
+      "duration_ms": 307253,
+      "name": "Mi Mejor Inspiraci\u00f3n",
+      "url": "https://open.spotify.com/track/5RlwAz1LZDNqTF8OLEXAPO"
     },
     {
       "added_at": "2024-07-12 18:46:41",

@@ -4,7 +4,7 @@
 
 > Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
-270 songs - 8 hr 28 min
+271 songs - 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [superposition \- Instrumental](https://open.spotify.com/track/5T5LkJS22FilME9xc7rqTZ) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [superposition](https://open.spotify.com/album/2qNziZqBtpFgd9k2FSGgV2) | 2:11 | 2023-12-05 |  |
 | [superpositioned \- Old Version](https://open.spotify.com/track/0ZxANteAfLml2gs29ndzg3) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [superposition](https://open.spotify.com/album/2qNziZqBtpFgd9k2FSGgV2) | 1:54 | 2023-12-05 |  |
 | [sweet friend](https://open.spotify.com/track/3sXkmYUPdzoI6lHh8sc0oO) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2019\-2022 sc songs \(compilation\)](https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3) | 1:23 | 2026-01-23 |  |
+| [SWITCH](https://open.spotify.com/track/54gve2xZ1LCFuwKfZ2hiw5) | [SWITZERRWOWW](https://open.spotify.com/artist/1cAqPn7GhcWCZnd3YUKBhy), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [IVE UPLOADED MY BRAIN TO THE INTERNET](https://open.spotify.com/album/4oGowVcmtIKR7X3291GRTd) | 2:26 | 2026-07-30 |  |
 | [symbiotic intwinement](https://open.spotify.com/track/6czLfOigwGkPxkby5uSIjU) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:55 | 2024-07-13 |  |
 | [symbiotic intwinement \- Instrumental](https://open.spotify.com/track/15sR23P0IwmIav5dusZDAr) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [pastpresentfuture + instrumentals](https://open.spotify.com/album/4HXvFovkY1lLixUjvUPeE3) | 1:55 | 2024-07-13 |  |
 | [synthesize \(acapella\)](https://open.spotify.com/track/1BYPmXMcBcme1QpgSuV7eb) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [kd 2016\-18 sc songs \(compilation\)](https://open.spotify.com/album/1OgQ6zQhHTQzvuzrtzxyoH) | 0:56 | 2026-01-22 |  |

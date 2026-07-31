@@ -6641,6 +6641,24 @@
     },
     {
       "album": {
+        "name": "blithe",
+        "url": "https://open.spotify.com/album/4EJsoPKZUfkfIFL8Cqs9Aj"
+      },
+      "artists": [
+        {
+          "name": "LUEME",
+          "url": "https://open.spotify.com/artist/1diMKhdmi0zJTPLRr43vld"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "blithe",
+      "url": "https://open.spotify.com/track/1DiWwD4kB3ZFb1bmv7dtJ1"
+    },
+    {
+      "album": {
         "name": "Blurry",
         "url": "https://open.spotify.com/album/07KIXKcQyic0AJ9heN0gSH"
       },
@@ -8986,6 +9004,24 @@
       "duration_ms": 122768,
       "name": "Chiki Bomb\u00f3n",
       "url": "https://open.spotify.com/track/0nfsrNIB814CthJad7fBth"
+    },
+    {
+      "album": {
+        "name": "Cerebral",
+        "url": "https://open.spotify.com/album/05Z6kU389h7tfSdsXsFOTJ"
+      },
+      "artists": [
+        {
+          "name": "Louie El Ser",
+          "url": "https://open.spotify.com/artist/1nKfzK3n5Ti6TzUlj56jx7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "chikiBb",
+      "url": "https://open.spotify.com/track/0QLaoJweWpOL1JKCwqo3Q8"
     },
     {
       "album": {
@@ -12574,6 +12610,24 @@
       "duration_ms": 175222,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/6rmaNeta75977RVxJ1Dj0b"
+    },
+    {
+      "album": {
+        "name": "Delincuente",
+        "url": "https://open.spotify.com/album/0ruLUYmTcsrZ7vVnUEZrC7"
+      },
+      "artists": [
+        {
+          "name": "ZTVZ",
+          "url": "https://open.spotify.com/artist/6WCmoxe1uqfNMFPqHkwzfs"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156986,
+      "name": "Delincuente",
+      "url": "https://open.spotify.com/track/1Gkg90MCKQ90j3IezifUzJ"
     },
     {
       "album": {
@@ -25874,7 +25928,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 163469,
       "name": "LINDO RECUERDO",
       "url": "https://open.spotify.com/track/7FdKQZc4lm49oESCOeabIJ"
@@ -28298,7 +28352,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 180720,
       "name": "MARAT\u00d3N",
       "url": "https://open.spotify.com/track/0RXaOOXgnJEggNryOdyOOj"
@@ -34626,7 +34680,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 142666,
       "name": "noches sin zzZ",
       "url": "https://open.spotify.com/track/0LstMDtQ15DpEzJqDQSwl4"
@@ -40933,6 +40987,24 @@
     },
     {
       "album": {
+        "name": "QUE MIED\u00d8!",
+        "url": "https://open.spotify.com/album/4AYUikhVCbU7CZgBgXJaAt"
+      },
+      "artists": [
+        {
+          "name": "DEL TORO",
+          "url": "https://open.spotify.com/artist/1Jn7RTBozrxlbYnnvLZnEU"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175068,
+      "name": "resaca",
+      "url": "https://open.spotify.com/track/4DlpTcUY0Jenro4YSbZLWT"
+    },
+    {
+      "album": {
         "name": "Resolver",
         "url": "https://open.spotify.com/album/5bRzJ2QvYc2IczuRdFACQa"
       },
@@ -45282,6 +45354,28 @@
       "duration_ms": 194049,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/19SpcaDniFHog721yhaSUW"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 vas a hacer despu\u00e9s de esto?",
+        "url": "https://open.spotify.com/album/5mkkZeWs7KzNgypFYeckMz"
+      },
+      "artists": [
+        {
+          "name": "12ayo",
+          "url": "https://open.spotify.com/artist/6iBnc9NnFbAsMnxVjy5cPH"
+        },
+        {
+          "name": "Aka Sagrado",
+          "url": "https://open.spotify.com/artist/7HhmqBBZrHr4wYQWAvBBPJ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180751,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/677XwM4q3RL5f2mSrkafBc"
     },
     {
       "album": {
@@ -50255,6 +50349,24 @@
     },
     {
       "album": {
+        "name": "va a pasar",
+        "url": "https://open.spotify.com/album/6HNw6oS7oQo1hlWPGJVT4n"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211219,
+      "name": "va a pasar",
+      "url": "https://open.spotify.com/track/78vtCWytc2AKWD0mpBFT2I"
+    },
+    {
+      "album": {
         "name": "HUGITO",
         "url": "https://open.spotify.com/album/4GVUmgD20UFchp7dIp5ItU"
       },
@@ -50832,7 +50944,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 123045,
       "name": "venus & romeo",
       "url": "https://open.spotify.com/track/7xPYhm2jFGzO6dZBjlS58n"
@@ -51612,7 +51724,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 141789,
       "name": "Vol\u00e1ndose De Ti",
       "url": "https://open.spotify.com/track/4lBcbMwhoZG14ia29oiVPP"
@@ -52894,7 +53006,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 218000,
       "name": "you again",
       "url": "https://open.spotify.com/track/48IeaRWu4XYjxtnRdd5ciO"

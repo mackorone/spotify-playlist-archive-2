@@ -1,12 +1,12 @@
 {
   "description": "The best new electronic indie music. Cover: Bonobo",
-  "num_followers": 43683,
+  "num_followers": 43689,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL1I9m7QpcpxpNrt2x2zg5Ew7cQg",
+  "snapshot_id": "AAAAAJauyHZazmxjyf3ndDeIgt2bwHS5",
   "tracks": [
     {
       "added_at": "2026-07-23 23:00:40",
@@ -319,26 +319,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "I\u2019m your girl right? (Fcukers Remix)",
-        "url": "https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 343239,
-      "name": "I\u2019m your girl right? (Fcukers Remix)",
-      "url": "https://open.spotify.com/track/0xu869oKDmbWv66goofbFq"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "I Love My Computer",
         "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 169856,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "I\u2019m your girl right? (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/0leGp1s72gcNFFsdHs4MhY"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 343239,
+      "name": "I\u2019m your girl right? (Fcukers Remix)",
+      "url": "https://open.spotify.com/track/0xu869oKDmbWv66goofbFq"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "if you wanna party, come over to my house",
-        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 171613,
-      "name": "if you wanna party, come over to my house",
-      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "Mind Off",
         "url": "https://open.spotify.com/album/247Ew1nob3sG5wYK7cdzsp"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 212750,
       "name": "Mind Off",
       "url": "https://open.spotify.com/track/1NW7RoUrFx7H9H5k258BVM"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "if you wanna party, come over to my house",
+        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "if you wanna party, come over to my house",
+      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -583,22 +583,22 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Sound of You (ft. TEED)",
-        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
+        "name": "Blue Shadows (feat. Karen O)",
+        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
         },
         {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "Karen O",
+          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
         }
       ],
-      "duration_ms": 236528,
-      "name": "Sound of You (ft. TEED)",
-      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
+      "duration_ms": 160000,
+      "name": "Blue Shadows (feat. Karen O)",
+      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -623,6 +623,26 @@
       "duration_ms": 181921,
       "name": "It Feels Much Better",
       "url": "https://open.spotify.com/track/2YJZrP7foi3hTnuVGbEsnp"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Sound of You (ft TEED)",
+        "url": "https://open.spotify.com/album/4POp8QcB7yi6TsUNF32JQw"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 236528,
+      "name": "Sound of You (ft TEED)",
+      "url": "https://open.spotify.com/track/0mZ4AZbfdgf4hvOgeHngX6"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -659,26 +679,6 @@
       "duration_ms": 244708,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/4J40gFNhRlukzy1MgLjeNt"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "Blue Shadows (feat. Karen O)",
-        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        },
-        {
-          "name": "Karen O",
-          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Blue Shadows (feat. Karen O)",
-      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -827,6 +827,38 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
+        "name": "Kairos",
+        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 182105,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        }
+      ],
+      "duration_ms": 165388,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
         "name": "What You Want (SG Lewis Remix)",
         "url": "https://open.spotify.com/album/1HKaZdOadRfquf0hGyDjBZ"
       },
@@ -851,38 +883,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        }
-      ],
-      "duration_ms": 227358,
-      "name": "Elm",
-      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
-      },
-      "artists": [
-        {
-          "name": "49th & Main",
-          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
-        }
-      ],
-      "duration_ms": 165388,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "I Like It Like That",
         "url": "https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 173772,
       "name": "I Like It Like That",
       "url": "https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 227358,
+      "name": "Elm",
+      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -915,22 +931,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Kelsier",
-        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 232131,
-      "name": "Kelsier",
-      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "START UP A RUMOUR",
         "url": "https://open.spotify.com/album/08I2aQ28yE0sGG79klKqTt"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 200207,
       "name": "START UP A RUMOUR",
       "url": "https://open.spotify.com/track/1Zb6tdJlJA0DwDkpoBYqge"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Kelsier",
+        "url": "https://open.spotify.com/album/083Q8p1eQrtQgmsVYyOD7E"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "Kelsier",
+      "url": "https://open.spotify.com/track/5W8vqZAZF41QpYXckXlrlz"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -999,22 +1015,6 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "Kairos",
-        "url": "https://open.spotify.com/album/38nkBOhEeSbz0MBcgZKMaD"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 182105,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2jj66DFOhFPJQMnLYpAAUl"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
         "name": "JOY (Light In The Dark)",
         "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 296045,
       "name": "JOY (Light In The Dark)",
       "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
+        "name": "Oh Baby",
+        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
+      },
+      "artists": [
+        {
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+        }
+      ],
+      "duration_ms": 180999,
+      "name": "Oh Baby",
+      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1051,22 +1067,6 @@
       "duration_ms": 189330,
       "name": "Running",
       "url": "https://open.spotify.com/track/6LDuYk31EfbBefaFLzSuLZ"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "Oh Baby",
-        "url": "https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57"
-      },
-      "artists": [
-        {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
-        }
-      ],
-      "duration_ms": 180999,
-      "name": "Oh Baby",
-      "url": "https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
+        "name": "All Your Love",
+        "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 151763,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
         "name": "afters",
         "url": "https://open.spotify.com/album/3A8zjiT2srTevPGcvrNf2j"
       },
@@ -1191,34 +1207,18 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
-        "name": "All Your Love",
-        "url": "https://open.spotify.com/album/4E0C00NAz73LhNUxB9pquv"
+        "name": "Bond Girl",
+        "url": "https://open.spotify.com/album/1gVfQOK0JCDALKvueOfMBn"
       },
       "artists": [
         {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
         }
       ],
-      "duration_ms": 151763,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/0EUvplf7cvLd1ZLumMmY3T"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "ITVLO",
-        "url": "https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR"
-      },
-      "artists": [
-        {
-          "name": "Boys Noize",
-          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
-        }
-      ],
-      "duration_ms": 287267,
-      "name": "ITVLO",
-      "url": "https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr"
+      "duration_ms": 151003,
+      "name": "Bond Girl",
+      "url": "https://open.spotify.com/track/0t4r8UtTpyhTHflgKoyRsZ"
     },
     {
       "added_at": "2026-07-23 23:00:40",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-07-23 23:00:40",
       "album": {
+        "name": "ITVLO",
+        "url": "https://open.spotify.com/album/1sY6EDoFwyLD5rI0tG2QJR"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        }
+      ],
+      "duration_ms": 287267,
+      "name": "ITVLO",
+      "url": "https://open.spotify.com/track/5GmLeKLNFgOPCqyonBPYtr"
+    },
+    {
+      "added_at": "2026-07-23 23:00:40",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 266129,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
-    },
-    {
-      "added_at": "2026-07-23 23:00:40",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/48BdQtxbatDILuuDZTKDDd"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 137493,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/1v3YvbPK8LG05o1V6EOrkI"
     }
   ],
   "unique_name": "Indie Electronic ",

@@ -1,12 +1,12 @@
 {
   "description": "Unwind and relax to the soft sound of jazz piano. ",
-  "num_followers": 369530,
+  "num_followers": 369559,
   "original_name": "Relaxing Jazz Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEuIw+NdegFAxIdMiYJgaY6lxWni",
+  "snapshot_id": "AAAAABW0+YXkLA3j4kSxBT0DWZ+zJpF9",
   "tracks": [
     {
       "added_at": "2026-05-25 14:11:39",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "At Joe's",
-        "url": "https://open.spotify.com/album/1ZIYs9PhTWTBD4bFfBPBma"
-      },
-      "artists": [
-        {
-          "name": "Ivan Blois",
-          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
-        }
-      ],
-      "duration_ms": 146550,
-      "name": "At Joe's",
-      "url": "https://open.spotify.com/track/2mPY4uyeDlGNnaflZHejum"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Another sunset",
         "url": "https://open.spotify.com/album/3V4hFs6nLMwBnAYDyypcWo"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "At Joe's",
+        "url": "https://open.spotify.com/album/1ZIYs9PhTWTBD4bFfBPBma"
+      },
+      "artists": [
+        {
+          "name": "Ivan Blois",
+          "url": "https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp"
+        }
+      ],
+      "duration_ms": 146550,
+      "name": "At Joe's",
+      "url": "https://open.spotify.com/track/2mPY4uyeDlGNnaflZHejum"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "Peace is overrated",
         "url": "https://open.spotify.com/album/0mZgqTeAGrfUFANgOuRJ1i"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 172573,
       "name": "Peace is overrated",
       "url": "https://open.spotify.com/track/0sV95W6PXJco0npkcS4UOW"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "It's in the Details",
-        "url": "https://open.spotify.com/album/0Iid18lx8DrhR5UUZuk0mB"
-      },
-      "artists": [
-        {
-          "name": "Galeazzo",
-          "url": "https://open.spotify.com/artist/616VGbzD5uDsj07r4cX7Uw"
-        }
-      ],
-      "duration_ms": 154800,
-      "name": "It's in the Details",
-      "url": "https://open.spotify.com/track/5keTw2OzVACky7ElLZG9BV"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -523,6 +507,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "Fading Skies",
+        "url": "https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0"
+      },
+      "artists": [
+        {
+          "name": "Brandy Charles",
+          "url": "https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Fading Skies",
+      "url": "https://open.spotify.com/track/11tihsEnimWVpYDKKyncEv"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "Tender Is The Quiet",
         "url": "https://open.spotify.com/album/4ARwOHjiYYEJs8QVA1dirh"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Fading Skies",
-        "url": "https://open.spotify.com/album/0Gc4fTlM2NoEEnNpjdRuD0"
-      },
-      "artists": [
-        {
-          "name": "Brandy Charles",
-          "url": "https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Fading Skies",
-      "url": "https://open.spotify.com/track/11tihsEnimWVpYDKKyncEv"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "bygones",
         "url": "https://open.spotify.com/album/0HY70Iio9tJrqKfpO9289A"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 137142,
       "name": "bygones",
       "url": "https://open.spotify.com/track/2HIMBX7Z4lUcgdXSQS33r5"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "It's in the Details",
+        "url": "https://open.spotify.com/album/0Iid18lx8DrhR5UUZuk0mB"
+      },
+      "artists": [
+        {
+          "name": "Galeazzo",
+          "url": "https://open.spotify.com/artist/616VGbzD5uDsj07r4cX7Uw"
+        }
+      ],
+      "duration_ms": 154800,
+      "name": "It's in the Details",
+      "url": "https://open.spotify.com/track/5keTw2OzVACky7ElLZG9BV"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Summer with You",
-        "url": "https://open.spotify.com/album/43JfSeY3jM158FdpfoqgGe"
-      },
-      "artists": [
-        {
-          "name": "Timothy Reisen",
-          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
-        }
-      ],
-      "duration_ms": 144533,
-      "name": "Summer with You",
-      "url": "https://open.spotify.com/track/7qZeDhgJdRcXOUmIAyCEor"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "The Only One",
         "url": "https://open.spotify.com/album/6824Z6r0vErBVaH8Xjc3gJ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 156362,
       "name": "The Only One",
       "url": "https://open.spotify.com/track/2yNAPCt1ey10ov2GZVuCf9"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Summer with You",
+        "url": "https://open.spotify.com/album/43JfSeY3jM158FdpfoqgGe"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reisen",
+          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Summer with You",
+      "url": "https://open.spotify.com/track/7qZeDhgJdRcXOUmIAyCEor"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -843,38 +843,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Our Last Night",
-        "url": "https://open.spotify.com/album/0MWb0DUPUyt6bMaRWbPDSs"
-      },
-      "artists": [
-        {
-          "name": "Lecce Mchano",
-          "url": "https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR"
-        }
-      ],
-      "duration_ms": 148104,
-      "name": "Our Last Night",
-      "url": "https://open.spotify.com/track/1kn5wHyoMHdVWG7nGfK4uq"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
-        "name": "Heart And Soul",
-        "url": "https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4"
-      },
-      "artists": [
-        {
-          "name": "Randall Peterson",
-          "url": "https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140"
-        }
-      ],
-      "duration_ms": 193624,
-      "name": "Heart And Soul",
-      "url": "https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Midnight on 5th Avenue",
         "url": "https://open.spotify.com/album/5e3YlISXye6cegkORKd27J"
       },
@@ -887,6 +855,38 @@
       "duration_ms": 180259,
       "name": "Midnight on 5th Avenue",
       "url": "https://open.spotify.com/track/6qSZ4ntHZPh6FplkbDwOdv"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "More than love",
+        "url": "https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m"
+      },
+      "artists": [
+        {
+          "name": "Laura Romano",
+          "url": "https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "More than love",
+      "url": "https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "Our Last Night",
+        "url": "https://open.spotify.com/album/0MWb0DUPUyt6bMaRWbPDSs"
+      },
+      "artists": [
+        {
+          "name": "Lecce Mchano",
+          "url": "https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR"
+        }
+      ],
+      "duration_ms": 148104,
+      "name": "Our Last Night",
+      "url": "https://open.spotify.com/track/1kn5wHyoMHdVWG7nGfK4uq"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -907,18 +907,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "More than love",
-        "url": "https://open.spotify.com/album/7aQarAAHVveMNtKYqWHL4m"
+        "name": "Heart And Soul",
+        "url": "https://open.spotify.com/album/35EC2QYo6vOT7gg7FAaRd4"
       },
       "artists": [
         {
-          "name": "Laura Romano",
-          "url": "https://open.spotify.com/artist/68FBamhYU8PrfkIQw9hMy8"
+          "name": "Randall Peterson",
+          "url": "https://open.spotify.com/artist/7zzSNdjam1c2HhMOElF140"
         }
       ],
-      "duration_ms": 173466,
-      "name": "More than love",
-      "url": "https://open.spotify.com/track/3fYzBnvEKKQdNWt18hUKSG"
+      "duration_ms": 193624,
+      "name": "Heart And Soul",
+      "url": "https://open.spotify.com/track/5PNaAhQXH46UU7YjM0dpKs"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "A Clear Sky",
-        "url": "https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY"
-      },
-      "artists": [
-        {
-          "name": "Leah Lambert",
-          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
-        }
-      ],
-      "duration_ms": 170686,
-      "name": "A clear sky",
-      "url": "https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "For One Night Only",
         "url": "https://open.spotify.com/album/0XXtHDAZ0LARMC649OzMap"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Drift Away",
-        "url": "https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR"
+        "name": "A Clear Sky",
+        "url": "https://open.spotify.com/album/3X6zukY7hjJlhMW4TcbxFY"
       },
       "artists": [
         {
-          "name": "Nova Blanche",
-          "url": "https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf"
+          "name": "Leah Lambert",
+          "url": "https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4"
         }
       ],
-      "duration_ms": 165833,
-      "name": "Drift Away",
-      "url": "https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD"
+      "duration_ms": 170686,
+      "name": "A clear sky",
+      "url": "https://open.spotify.com/track/1DSNkvCQFJEIgVpiuzwmTN"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
+        "name": "A Few Horizons",
+        "url": "https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP"
+      },
+      "artists": [
+        {
+          "name": "Harper Avery",
+          "url": "https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L"
+        }
+      ],
+      "duration_ms": 140997,
+      "name": "A Few Horizons",
+      "url": "https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
         "name": "Glimpses",
         "url": "https://open.spotify.com/album/648vxZjA8JRJ27UqggddM3"
       },
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "A Few Horizons",
-        "url": "https://open.spotify.com/album/4mx4n0shq5AdIy5TfFNaGP"
+        "name": "Drift Away",
+        "url": "https://open.spotify.com/album/76BJgGibNh2LYqQfZETaQR"
       },
       "artists": [
         {
-          "name": "Harper Avery",
-          "url": "https://open.spotify.com/artist/6wkcjnTRQKVK4YoRcWgy8L"
+          "name": "Nova Blanche",
+          "url": "https://open.spotify.com/artist/5jiNBpPFvATaOvPifxoOGf"
         }
       ],
-      "duration_ms": 140997,
-      "name": "A Few Horizons",
-      "url": "https://open.spotify.com/track/2s2stQDViffflCkrdkC8MD"
+      "duration_ms": 165833,
+      "name": "Drift Away",
+      "url": "https://open.spotify.com/track/70bHt1pbqpofJt4JaP6TUD"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "Strangers by Midnight",
-        "url": "https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h"
-      },
-      "artists": [
-        {
-          "name": "Timothy Reisen",
-          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
-        }
-      ],
-      "duration_ms": 200310,
-      "name": "Strangers by Midnight",
-      "url": "https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "Here with Me",
         "url": "https://open.spotify.com/album/5zn6x74Z6tctMhmWTHBxHf"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "The old train",
-        "url": "https://open.spotify.com/album/0AMT378RSZtNOXrzDNkkZJ"
+        "name": "Strangers by Midnight",
+        "url": "https://open.spotify.com/album/0dRBbv4SyKDfMtcmebe37h"
       },
       "artists": [
         {
-          "name": "Stefan Scholz",
-          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+          "name": "Timothy Reisen",
+          "url": "https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01"
         }
       ],
-      "duration_ms": 183109,
-      "name": "The old train",
-      "url": "https://open.spotify.com/track/5ymsU4g64so81Y4LyFs2PJ"
+      "duration_ms": 200310,
+      "name": "Strangers by Midnight",
+      "url": "https://open.spotify.com/track/3aiSarqjyxbdllRulzUTJj"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1175,6 +1159,22 @@
       "duration_ms": 162009,
       "name": "I'm Coming Home",
       "url": "https://open.spotify.com/track/2HcSR6uNSe18KXGrHEG3Oi"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "The old train",
+        "url": "https://open.spotify.com/album/0AMT378RSZtNOXrzDNkkZJ"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "duration_ms": 183109,
+      "name": "The old train",
+      "url": "https://open.spotify.com/track/5ymsU4g64so81Y4LyFs2PJ"
     },
     {
       "added_at": "2026-05-25 14:11:39",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-05-25 14:11:39",
       "album": {
-        "name": "You're glowing",
-        "url": "https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02"
-      },
-      "artists": [
-        {
-          "name": "Stefan Scholz",
-          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
-        }
-      ],
-      "duration_ms": 161950,
-      "name": "You're glowing",
-      "url": "https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM"
-    },
-    {
-      "added_at": "2026-05-25 14:11:39",
-      "album": {
         "name": "A Phonecall Away",
         "url": "https://open.spotify.com/album/5hdqzPNQk3XovPzilrXRHD"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 152733,
       "name": "A Phonecall Away",
       "url": "https://open.spotify.com/track/6p8QgVwYxoDRwFIxH8aEyH"
+    },
+    {
+      "added_at": "2026-05-25 14:11:39",
+      "album": {
+        "name": "You're glowing",
+        "url": "https://open.spotify.com/album/5IJeiLHGAAjCYSos8mkp02"
+      },
+      "artists": [
+        {
+          "name": "Stefan Scholz",
+          "url": "https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy"
+        }
+      ],
+      "duration_ms": 161950,
+      "name": "You're glowing",
+      "url": "https://open.spotify.com/track/5TsR9Rig5dmMzMuAhz9XSM"
     },
     {
       "added_at": "2026-05-25 14:11:39",

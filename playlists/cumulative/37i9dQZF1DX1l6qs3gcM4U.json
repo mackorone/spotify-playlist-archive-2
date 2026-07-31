@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo, 3 Finer",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Jey V",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -7461,6 +7461,24 @@
     },
     {
       "album": {
+        "name": "Minha Mulher",
+        "url": "https://open.spotify.com/album/2QIZnQIKTaywVaUYRyfj7x"
+      },
+      "artists": [
+        {
+          "name": "Ronaldo Fernandes",
+          "url": "https://open.spotify.com/artist/47LXVWC7NdpaeeRruejUZu"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "Minha Mulher",
+      "url": "https://open.spotify.com/track/1LsDpnXvZP0fpk79zYv8ct"
+    },
+    {
+      "album": {
         "name": "Minha Sorte",
         "url": "https://open.spotify.com/album/2vCwCyFSsSvd7I7tw0CNm2"
       },
@@ -8264,7 +8282,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 218372,
       "name": "Noz Cantinh",
       "url": "https://open.spotify.com/track/29v088i4fNJwiIqiOMVZ5W"

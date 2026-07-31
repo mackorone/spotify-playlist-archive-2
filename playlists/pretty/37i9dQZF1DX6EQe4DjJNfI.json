@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Chris MC, BIN",
-  "num_followers": 190351,
+  "num_followers": 190397,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHshPPpt7oYqHLaRG4K7U2ToaYOc",
+  "snapshot_id": "AAAAAGvsR5dxPYfvGMM3Befa3E4gJSip",
   "tracks": [
     {
       "added_at": "2026-07-17 17:16:51",
@@ -935,38 +935,6 @@
     {
       "added_at": "2026-07-17 17:16:51",
       "album": {
-        "name": "FORA DA LEI",
-        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 186396,
-      "name": "FORA DA LEI",
-      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
-    },
-    {
-      "added_at": "2026-07-17 17:16:51",
-      "album": {
-        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
-        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 152678,
-      "name": "Anjo",
-      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
-    },
-    {
-      "added_at": "2026-07-17 17:16:51",
-      "album": {
         "name": "Te Faria",
         "url": "https://open.spotify.com/album/7fj562PkAXglCzk3v3B2vW"
       },
@@ -987,6 +955,38 @@
     {
       "added_at": "2026-07-17 17:16:51",
       "album": {
+        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
+        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 152678,
+      "name": "Anjo",
+      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
+    },
+    {
+      "added_at": "2026-07-17 17:16:51",
+      "album": {
+        "name": "FORA DA LEI",
+        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 186396,
+      "name": "FORA DA LEI",
+      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
+    },
+    {
+      "added_at": "2026-07-17 17:16:51",
+      "album": {
         "name": "Desalinho",
         "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 205357,
       "name": "Desalinho",
       "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
-    },
-    {
-      "added_at": "2026-07-17 17:16:51",
-      "album": {
-        "name": "Dissolu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
-      },
-      "artists": [
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 119440,
-      "name": "Sem ter que me explicar",
-      "url": "https://open.spotify.com/track/4l3PInS0V5wgzbkoI3Ofcu"
     },
     {
       "added_at": "2026-07-17 17:16:51",
@@ -1047,26 +1031,18 @@
     {
       "added_at": "2026-07-17 17:16:51",
       "album": {
-        "name": "Amor \u00e0 Luz do Dia",
-        "url": "https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX"
+        "name": "Dissolu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7m90r6b0oCcJlMPMzW9NXB"
       },
       "artists": [
         {
-          "name": "Ella",
-          "url": "https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
         }
       ],
-      "duration_ms": 225304,
-      "name": "Amor \u00e0 Luz do Dia",
-      "url": "https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt"
+      "duration_ms": 119440,
+      "name": "Sem ter que me explicar",
+      "url": "https://open.spotify.com/track/4l3PInS0V5wgzbkoI3Ofcu"
     },
     {
       "added_at": "2026-07-17 17:16:51",
@@ -1091,8 +1067,32 @@
     {
       "added_at": "2026-07-17 17:16:51",
       "album": {
-        "name": "Visto por \u00daltimo",
-        "url": "https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg"
+        "name": "Amor \u00e0 Luz do Dia",
+        "url": "https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX"
+      },
+      "artists": [
+        {
+          "name": "Ella",
+          "url": "https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 225304,
+      "name": "Amor \u00e0 Luz do Dia",
+      "url": "https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt"
+    },
+    {
+      "added_at": "2026-07-17 17:16:51",
+      "album": {
+        "name": "Jeito Certo",
+        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
       },
       "artists": [
         {
@@ -1100,17 +1100,13 @@
           "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         },
         {
-          "name": "Scarp",
-          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
-        },
-        {
-          "name": "LB \u00danico",
-          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         }
       ],
-      "duration_ms": 118356,
-      "name": "Sinais de Relev\u00e2ncia",
-      "url": "https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d"
+      "duration_ms": 190993,
+      "name": "Jeito Certo",
+      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
     },
     {
       "added_at": "2026-07-17 17:16:51",
@@ -1139,26 +1135,6 @@
     {
       "added_at": "2026-07-17 17:16:51",
       "album": {
-        "name": "Al-Kimiya, Ato I",
-        "url": "https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s"
-      },
-      "artists": [
-        {
-          "name": "Alt Niss",
-          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
-        },
-        {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
-        }
-      ],
-      "duration_ms": 256017,
-      "name": "MergulhoFundo",
-      "url": "https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog"
-    },
-    {
-      "added_at": "2026-07-17 17:16:51",
-      "album": {
         "name": "Tempo Que N\u00e3o Volta",
         "url": "https://open.spotify.com/album/5lB3eYjDarDttERWiprvpv"
       },
@@ -1179,6 +1155,26 @@
     {
       "added_at": "2026-07-17 17:16:51",
       "album": {
+        "name": "Al-Kimiya, Ato I",
+        "url": "https://open.spotify.com/album/4JDMKjOO4UvoOof9WhJx5s"
+      },
+      "artists": [
+        {
+          "name": "Alt Niss",
+          "url": "https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6"
+        },
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        }
+      ],
+      "duration_ms": 256017,
+      "name": "MergulhoFundo",
+      "url": "https://open.spotify.com/track/4L9LVdgCBNM16NWUOwooog"
+    },
+    {
+      "added_at": "2026-07-17 17:16:51",
+      "album": {
         "name": "Viu!?",
         "url": "https://open.spotify.com/album/073YAMjODyN4sxKRQq9mXM"
       },
@@ -1195,8 +1191,8 @@
     {
       "added_at": "2026-07-17 17:16:51",
       "album": {
-        "name": "Jeito Certo",
-        "url": "https://open.spotify.com/album/58Srk85ymbUhZU2ePm0Vcx"
+        "name": "Visto por \u00daltimo",
+        "url": "https://open.spotify.com/album/47urvKrcNQF5Jt209J88hg"
       },
       "artists": [
         {
@@ -1204,13 +1200,17 @@
           "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
         },
         {
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
+          "name": "Scarp",
+          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
         }
       ],
-      "duration_ms": 190993,
-      "name": "Jeito Certo",
-      "url": "https://open.spotify.com/track/271UeLAttA5JHMV0uJoral"
+      "duration_ms": 118356,
+      "name": "Sinais de Relev\u00e2ncia",
+      "url": "https://open.spotify.com/track/1ZMFajDTHRg8JiKxrplH3d"
     },
     {
       "added_at": "2026-07-17 17:16:51",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-07-17 17:16:51",
       "album": {
-        "name": "Sai do Meu Radar",
-        "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
-      },
-      "artists": [
-        {
-          "name": "KAMACHO",
-          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 145078,
-      "name": "Sai do Meu Radar",
-      "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
-    },
-    {
-      "added_at": "2026-07-17 17:16:51",
-      "album": {
         "name": "Afrodite",
         "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 201264,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
+    },
+    {
+      "added_at": "2026-07-17 17:16:51",
+      "album": {
+        "name": "Sai do Meu Radar",
+        "url": "https://open.spotify.com/album/7tX672I4UzjyBqHobgZ8CF"
+      },
+      "artists": [
+        {
+          "name": "KAMACHO",
+          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 145078,
+      "name": "Sai do Meu Radar",
+      "url": "https://open.spotify.com/track/61WGwmVFM49KAuiMXxg6J9"
     },
     {
       "added_at": "2026-07-17 17:16:51",

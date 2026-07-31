@@ -222,7 +222,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 199626,
       "name": "Be Afraid",
       "url": "https://open.spotify.com/track/6ZncAMDN2Hv2QrXiSntgoy"
@@ -1958,6 +1958,24 @@
       "duration_ms": 215172,
       "name": "Trouble Sleeping",
       "url": "https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503"
+    },
+    {
+      "album": {
+        "name": "Truth and Desire",
+        "url": "https://open.spotify.com/album/4gwEhu0t5psIePibLNyxQP"
+      },
+      "artists": [
+        {
+          "name": "Qbanaa",
+          "url": "https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ"
+        }
+      ],
+      "date_added": "2025-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227200,
+      "name": "Truth and Desire",
+      "url": "https://open.spotify.com/track/6ApZAVtCIRIWJ1q0XXAd8W"
     },
     {
       "album": {

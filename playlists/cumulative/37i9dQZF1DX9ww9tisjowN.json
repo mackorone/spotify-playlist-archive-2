@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: Sasane \u697d\u97f3",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. cover: YAO (Awich + CHICO CARLITO + Paledusk + ONE OK ROCK)",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -1180,7 +1180,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 221029,
       "name": "Blue Shining Star",
       "url": "https://open.spotify.com/track/3vFaVH1ux9FIYNsrLAVG9N"
@@ -3871,6 +3871,24 @@
     },
     {
       "album": {
+        "name": "GO GHOST",
+        "url": "https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170100,
+      "name": "GO GHOST",
+      "url": "https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB"
+    },
+    {
+      "album": {
         "name": "Go Wild / Miyao",
         "url": "https://open.spotify.com/album/2yyNpA4jsXUoVatcIBuI7W"
       },
@@ -5005,6 +5023,24 @@
     },
     {
       "album": {
+        "name": "I-BULL - iburu - BLEACH: Thousand-Year Blood War - The Calamity",
+        "url": "https://open.spotify.com/album/5SxwYJiJUV8p0EinXqbBjM"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240233,
+      "name": "I-BULL - iburu",
+      "url": "https://open.spotify.com/track/6EhMAfr1NhCAURSnzrtkbL"
+    },
+    {
+      "album": {
         "name": "IAI",
         "url": "https://open.spotify.com/album/4DViEsDUkN8W1XY4testKo"
       },
@@ -5543,6 +5579,28 @@
     },
     {
       "album": {
+        "name": "JJK (with Yuki Chiba)",
+        "url": "https://open.spotify.com/album/44ruPTIqJ6EaEFAxOPvXVI"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "JJK (with Yuki Chiba)",
+      "url": "https://open.spotify.com/track/6acCX2vGgm8mBFJ65mGySQ"
+    },
+    {
+      "album": {
         "name": "JOOOOKE",
         "url": "https://open.spotify.com/album/5Db4faF7Qcj7RUH5po6Xor"
       },
@@ -5836,7 +5894,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 132477,
       "name": "Kiss Ei Chuu",
       "url": "https://open.spotify.com/track/0WJdYloHoBlwUgVsZGG5FS"
@@ -6388,7 +6446,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 207517,
       "name": "Live to Survive",
       "url": "https://open.spotify.com/track/0Ylt36GkzEHeAljzzcck3L"
@@ -6410,6 +6468,28 @@
       "duration_ms": 201912,
       "name": "Living",
       "url": "https://open.spotify.com/track/45wy7O4gllBWPaySxkRDIZ"
+    },
+    {
+      "album": {
+        "name": "LIVING DEAD DINER GIRLS -HALLOWEEN-",
+        "url": "https://open.spotify.com/album/1xDOSn5NnyPWD0kVQlCbFX"
+      },
+      "artists": [
+        {
+          "name": "Tommy heavenly6",
+          "url": "https://open.spotify.com/artist/6ClPIi6VMHv2Q3OZ4R17wV"
+        },
+        {
+          "name": "\u5965\u7530\u4fca\u4f5c",
+          "url": "https://open.spotify.com/artist/5zR7laF6TkPmDm0sp9hAF7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353274,
+      "name": "LIVING DEAD DINER GIRLS -HALLOWEEN-",
+      "url": "https://open.spotify.com/track/08Hty7Sm9hIExaAXcQRtdl"
     },
     {
       "album": {
@@ -7769,6 +7849,24 @@
     },
     {
       "album": {
+        "name": "Nannmonee",
+        "url": "https://open.spotify.com/album/1VgCfL80E3Guto10xfO83R"
+      },
+      "artists": [
+        {
+          "name": "Wasureranneyo",
+          "url": "https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Nannmonee",
+      "url": "https://open.spotify.com/track/3XNnq2oo1zmHDseKZKaYEF"
+    },
+    {
+      "album": {
         "name": "CHAI",
         "url": "https://open.spotify.com/album/5g4cqZOzCM2kUN6D1HX9ds"
       },
@@ -8286,7 +8384,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 230908,
       "name": "Okay, Goodbye",
       "url": "https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4"
@@ -12203,6 +12301,24 @@
     },
     {
       "album": {
+        "name": "where 2\u4eba",
+        "url": "https://open.spotify.com/album/7b1kfK1jS2YXjEoom8QCof"
+      },
+      "artists": [
+        {
+          "name": "Peterparker69",
+          "url": "https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112992,
+      "name": "where 2\u4eba",
+      "url": "https://open.spotify.com/track/6eRzqPeVhhHcg6VU4Kstxh"
+    },
+    {
+      "album": {
         "name": "Where Do We Go!",
         "url": "https://open.spotify.com/album/6FrdTIQyL93loRVho2BFlz"
       },
@@ -12276,7 +12392,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 222492,
       "name": "Wind's Anthem (feat. suis From Yorushika)",
       "url": "https://open.spotify.com/track/1xjyjzvD6l7nCHMySQrgVc"
@@ -12442,7 +12558,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 157000,
       "name": "YANKEE SQUAT",
       "url": "https://open.spotify.com/track/5Sw2jjxhduICQtUSom2bIH"
@@ -15738,7 +15854,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 219733,
       "name": "\u30bb\u30ec\u30ca\u30fc\u30c7",
       "url": "https://open.spotify.com/track/0CWAQlHsvfqcKJVVz9up2R"
@@ -16960,7 +17076,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 191044,
       "name": "\u30dd\u30eb\u30bf\u30fc\u30ac\u30a4\u30b9\u30c8",
       "url": "https://open.spotify.com/track/0qfSmp12gevzvvD3FqaBMP"
@@ -17160,6 +17276,24 @@
       "duration_ms": 189854,
       "name": "\u30e1\u30ac\u30cd\u3092\u5916\u3057\u3066",
       "url": "https://open.spotify.com/track/1bf8JWS76QZLRRsGeVfWF9"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30b7\u30a2",
+        "url": "https://open.spotify.com/album/6IhQ2FZnTZlBytW5TtUJn6"
+      },
+      "artists": [
+        {
+          "name": "Nanatsukaze",
+          "url": "https://open.spotify.com/artist/66icuwRNOsZJv6UCTsP0KH"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195666,
+      "name": "\u30e1\u30b7\u30a2",
+      "url": "https://open.spotify.com/track/3tB9Jgk7T2UO5EIqOp7GNM"
     },
     {
       "album": {
@@ -17714,6 +17848,24 @@
       "duration_ms": 134071,
       "name": "\u30eb\u30fc\u30d7\u30b6\u30eb\u30fc\u30e0 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6lcqXYjDSGxx69DurXx0rF"
+    },
+    {
+      "album": {
+        "name": "\u30ec\u30e0",
+        "url": "https://open.spotify.com/album/5jtubOW83MlnkqTLKoVN03"
+      },
+      "artists": [
+        {
+          "name": "balloon",
+          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158838,
+      "name": "\u30ec\u30e0",
+      "url": "https://open.spotify.com/track/7jknqnVScv1P6ed2b7YCh1"
     },
     {
       "album": {
@@ -18846,7 +18998,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 302920,
       "name": "\u591c\u306e\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO"
@@ -19792,6 +19944,24 @@
       "duration_ms": 193100,
       "name": "\u6483\u3063\u3066",
       "url": "https://open.spotify.com/track/3K6UBPZwBoz6KNVBSsaoLb"
+    },
+    {
+      "album": {
+        "name": "\u653e\u9001",
+        "url": "https://open.spotify.com/album/0jf4tQVuSEIcrJRkepzQJU"
+      },
+      "artists": [
+        {
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107812,
+      "name": "\u653e\u9001",
+      "url": "https://open.spotify.com/track/14OXQziwIkpL3wGTCLBJiP"
     },
     {
       "album": {

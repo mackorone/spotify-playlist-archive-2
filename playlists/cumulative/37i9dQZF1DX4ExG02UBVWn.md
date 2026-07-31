@@ -4,7 +4,7 @@
 
 > for the late nights
 
-107 songs - 5 hr 49 min
+108 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [B P D](https://open.spotify.com/track/0HUJhDhDiBPwpGEBoP8kUe) | [jena keating](https://open.spotify.com/artist/2tw1ZLTuZvyvCE2KCkq33H) | [B P D](https://open.spotify.com/album/29rkxPGJziha2y2wNfiiI3) | 2:35 | 2025-08-07 | 2026-06-28 |
 | [Babybrown](https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Elevator Music](https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW) | 2:18 | 2025-08-07 |  |
 | [Bad](https://open.spotify.com/track/4NOzEFuBL6jzKqovwxB5Pi) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz) | [Bad](https://open.spotify.com/album/3I8m0mug29wYCCVJuX7xqA) | 3:31 | 2025-08-07 |  |
-| [Be Afraid](https://open.spotify.com/track/6ZncAMDN2Hv2QrXiSntgoy) | [Shanaz Dorsett](https://open.spotify.com/artist/5Fe6NAp8J07lnWU8WoVdym) | [Be Afraid](https://open.spotify.com/album/61VZRCv0rz2wTlICr42KK1) | 3:19 | 2025-08-07 |  |
+| [Be Afraid](https://open.spotify.com/track/6ZncAMDN2Hv2QrXiSntgoy) | [Shanaz Dorsett](https://open.spotify.com/artist/5Fe6NAp8J07lnWU8WoVdym) | [Be Afraid](https://open.spotify.com/album/61VZRCv0rz2wTlICr42KK1) | 3:19 | 2025-08-07 | 2026-07-31 |
 | [Be My Friend](https://open.spotify.com/track/016H24eTEQ04lmhskkGAQX) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Be My Friend](https://open.spotify.com/album/3qYZIoemyV20j52tqzzCQt) | 3:27 | 2025-08-07 |  |
 | [Beach Song \- Demo](https://open.spotify.com/track/2TQEizKBJTJNJ1mHYxG6j7) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Beach Song \(Demo\)](https://open.spotify.com/album/6WY8KFYlebPMzje7HzPFzh) | 3:15 | 2025-08-07 |  |
 | [Blue Denim Jeans](https://open.spotify.com/track/327epjHIypEPo3c0kjIli9) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Blue Denim Jeans](https://open.spotify.com/album/6YdS3GKcT9hE8cxjWzRrqn) | 3:12 | 2025-08-07 |  |
@@ -106,6 +106,7 @@
 | [The Invisible Man](https://open.spotify.com/track/5yojQqvfXYyUu4NnYbFrjW) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [The Invisible Man](https://open.spotify.com/album/6dxjNrYNXkEVTIhjypB0nQ) | 6:05 | 2025-08-07 |  |
 | [Took My Heart](https://open.spotify.com/track/2vvvuTHoXC7NssfRG2RQXI) | [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [Took My Heart](https://open.spotify.com/album/4uhayZ7yExOD4Cq3QZ1yi8) | 2:52 | 2025-08-07 |  |
 | [Trouble Sleeping](https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Trouble Sleeping](https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7) | 3:35 | 2025-08-07 |  |
+| [Truth and Desire](https://open.spotify.com/track/6ApZAVtCIRIWJ1q0XXAd8W) | [Qbanaa](https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ) | [Truth and Desire](https://open.spotify.com/album/4gwEhu0t5psIePibLNyxQP) | 3:47 | 2025-08-07 |  |
 | [Warmth](https://open.spotify.com/track/2x3u6tY8LnKrZ1EDpJybn1) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Monifé](https://open.spotify.com/artist/3RJBneQVluxOpfJLEtlNQ0) | [Warmth](https://open.spotify.com/album/4gHQLmvwo9AVpTCEwBsIw5) | 3:03 | 2025-08-07 | 2026-01-05 |
 | [West End](https://open.spotify.com/track/3kQ9d2gkLtNT0xkGbefSgH) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0) | [West End](https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa) | 2:34 | 2025-08-07 |  |
 | [When It Rains](https://open.spotify.com/track/7qipQLUoNRpQrxRgrzbFoU) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [LAUSSE THE CAT](https://open.spotify.com/artist/2Zv7tySETckaR2robozkcz), [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl) | [Life's a Bitch, I Just Need an Early Night](https://open.spotify.com/album/6nAyU48Mf6cWrZlM6nLUpS) | 4:35 | 2025-08-07 |  |

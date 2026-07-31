@@ -1,12 +1,12 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1366335,
+  "num_followers": 1366322,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKyb8WLvoSXUcPgei2/L/2MYgsON",
+  "snapshot_id": "AAAAADeVJDV3aTtNMFfOsuZf27TgF9Lj",
   "tracks": [
     {
       "added_at": "2024-08-23 15:39:31",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
+        "name": "Love and the Death of Damnation",
+        "url": "https://open.spotify.com/album/6h4xI9ztHRecvIT80mk8gW"
+      },
+      "artists": [
+        {
+          "name": "The White Buffalo",
+          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
+        }
+      ],
+      "duration_ms": 237053,
+      "name": "Rocky",
+      "url": "https://open.spotify.com/track/7gM0JRYTtThuGj7akmaEVE"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
         "name": "The Major Minor Collective (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/0zUSmhg6ccJjjMlR0T5j9j"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 256773,
       "name": "Beach Seduction (feat. Leah Wellbaum)",
       "url": "https://open.spotify.com/track/6pd6XXS3cCOrLm0Ey7MDYD"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
-        "name": "Love and the Death of Damnation",
-        "url": "https://open.spotify.com/album/6h4xI9ztHRecvIT80mk8gW"
-      },
-      "artists": [
-        {
-          "name": "The White Buffalo",
-          "url": "https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Rocky",
-      "url": "https://open.spotify.com/track/7gM0JRYTtThuGj7akmaEVE"
     },
     {
       "added_at": "2024-08-23 15:39:31",

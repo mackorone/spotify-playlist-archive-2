@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,311 likes - 102 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,240 likes - 102 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 101 | [From Down Here](https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [From Down Here](https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u) | 4:01 |
 | 102 | [Cold](https://open.spotify.com/track/0y8qNHpC0yMIx31EASTQMX) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Cold](https://open.spotify.com/album/1BwbpGGY2EtTI68hMp0iIb) | 2:52 |
 
-Snapshot ID: `AAAAABXmSB4BwK4BhYDQOdgXtYR6rg6Q`
+Snapshot ID: `AAAAAO1A9E8g7iHBblGLo6xs/iXknhcj`

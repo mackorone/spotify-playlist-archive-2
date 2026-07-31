@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: cehryl
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Jaime Cheung 張天穎
 
-1,717 songs - 4 day 1 hr 9 min
+1,721 songs - 4 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Demon](https://open.spotify.com/track/5McqzZpmquik6IKt68mifT) | [Pi Pi Pierrot](https://open.spotify.com/artist/4EWciNc2dVhDRUeLQ7ixs3) | [Flower Eater](https://open.spotify.com/album/7plt5CetyH9mzEUCgd0lLM) | 2:26 | 2024-03-21 | 2024-11-15 |
 | [DEMONS](https://open.spotify.com/track/0UMhOCEAdwvxWaZ0K7V6KU) | [Derek Chan](https://open.spotify.com/artist/2LcWIUsksNKalGyzZj7a8x) | [DEMONS](https://open.spotify.com/album/4ZCF8pOZliBXL2RhM7VDFW) | 2:27 | 2022-05-26 | 2022-07-29 |
 | [depresso](https://open.spotify.com/track/7oM7WsJFQclWbcD7Obrrrz) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [depresso](https://open.spotify.com/album/2CUbNUEaW14qh7Z7XmDcGp) | 3:48 | 2026-07-13 |  |
+| [DEUCE](https://open.spotify.com/track/3YHNQcpsqqKGwdl3ATC0Av) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [DEUCE](https://open.spotify.com/album/0mE4zA3uNrnAGDY07IEbOW) | 2:55 | 2026-07-30 |  |
 | [devilsdisstrack](https://open.spotify.com/track/1Kg1LZq9x1eittBD2fzD4N) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [devilsdisstrack](https://open.spotify.com/album/0mFFBAVNg2fzpEI9ryda69) | 2:22 | 2024-07-18 | 2024-11-15 |
 | [DFIL](https://open.spotify.com/track/7KUqg0AvenQFGgC3o5Gj4B) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [fKboY Eulogy](https://open.spotify.com/album/3i8szjXfDqp9gtHLE3mzUd) | 2:34 | 2024-11-28 | 2025-05-30 |
 | [Diary](https://open.spotify.com/track/3wgo4Y2wUJrBqFW26KjAcD) | [Wafi!](https://open.spotify.com/artist/2jmXc7n39dA18y6MUi5rqB) | [Diary](https://open.spotify.com/album/59clnR7qJSWyNQbvAOB7c5) | 1:21 | 2023-01-12 | 2023-02-03 |
@@ -589,6 +590,7 @@
 | [Love Of My Life](https://open.spotify.com/track/5ZPZvnenwAxvoJtiH4d7cD) | [Nj Ho](https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m), [Cyrus Yung](https://open.spotify.com/artist/7svaP6EzrJdto8oh1XqdFg) | [Love Of My Life](https://open.spotify.com/album/51wCgwHopgTdUKYR2LHE0q) | 4:01 | 2022-09-08 | 2023-03-18 |
 | [Love You In The Bed](https://open.spotify.com/track/2gwuTlMHycAwj67ofrXYZM) | [FIST BUMP](https://open.spotify.com/artist/3bxlpf0cthZhQXIdMxhvYJ) | [Love You In The Bed](https://open.spotify.com/album/3P9zwTetXLB7zch62M4cux) | 2:44 | 2024-09-26 | 2025-02-14 |
 | [love you soul <3](https://open.spotify.com/track/1Ch4Uwouu50i3hExy8EvTN) | [minisoul](https://open.spotify.com/artist/7quyOUEWaBIlVop7ODr3OK) | [minisoul \#1](https://open.spotify.com/album/5rnLcuibCnG3ZYNHytbn68) | 2:22 | 2024-02-29 | 2024-06-07 |
+| [LOVE YOU STILL](https://open.spotify.com/track/6eOVlrNLoVvAkPEN30S9sm) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [LOVE YOU STILL](https://open.spotify.com/album/33jckkBzZw19ZoBxiyMQ1U) | 4:13 | 2026-07-30 |  |
 | [Love,](https://open.spotify.com/track/20VdOulyYpBkHDjOtZ2gyD) | [沿海敬拜](https://open.spotify.com/artist/0ETYn9v4F1un0EI45OfPd4) | [Love,](https://open.spotify.com/album/2JLlfDyAjKeGFfGUFYme7b) | 3:08 | 2023-11-16 | 2024-01-05 |
 | [Love, \_\_](https://open.spotify.com/track/3gjKiyC6z1nz81x0PazMb7) | [Noisy Charlie](https://open.spotify.com/artist/64O9yp0OG3PUKs11YjcAWN) | [Love, \_\_](https://open.spotify.com/album/6Wz5W6ZiIMHS6i2hyVqtF1) | 6:47 | 2022-05-26 | 2022-09-09 |
 | [Loved you\. Bye\. / 92 \- Live at PEEK\-A\-BOO](https://open.spotify.com/track/73SaE5Xsc7NAQpwQOsUvst) | [Le Shing](https://open.spotify.com/artist/3pD1EyHbEmPbGXMiLgpda2), [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71) | [Loved you\. Bye\. / 92 \(Live at PEEK\-A\-BOO\)](https://open.spotify.com/album/5HJL66gyOxGdukqJUtuuzP) | 3:42 | 2025-02-06 | 2025-04-25 |
@@ -968,6 +970,7 @@
 | [That’s My City](https://open.spotify.com/track/1n53s8k0DCPDlRmbvlemTy) | [Novel Flash](https://open.spotify.com/artist/5XYIw1a2PQZH59E7h5XVwx), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [AION](https://open.spotify.com/album/0ugzhDdaFaXenDixlPZKuU) | 2:56 | 2024-06-06 | 2024-11-15 |
 | [The Apocalypse Love Song \- Live](https://open.spotify.com/track/5p89juEbvkXVSgueqBu60i) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [The Apocalypse Love Song \(Live\)](https://open.spotify.com/album/46Hm2VcRnkpY6q7QJ2ciL6) | 1:59 | 2025-07-24 | 2025-11-21 |
 | [The Climber](https://open.spotify.com/track/0clq9tBWpHxzp0IEl6Bmj0) | [Franklin Telescope](https://open.spotify.com/artist/7fgEhDBZy0SV0xyEOopmTL) | [Burst into Your Quirky Soul](https://open.spotify.com/album/0lj00lgAPYpYR9grRCdmeZ) | 4:24 | 2022-05-26 | 2022-07-29 |
+| [The Crash](https://open.spotify.com/track/5Gz6Eb9vl58RLlZIasShKG) | [We Are Now](https://open.spotify.com/artist/59xO8AqL95j9Nfki0T194S) | [The Crash](https://open.spotify.com/album/7pB81pbqQb22mDWtwzLInW) | 2:14 | 2026-07-30 |  |
 | [The End \(Reprise\)](https://open.spotify.com/track/0dAei4tlI5toTGOfXiUHze) | [lut](https://open.spotify.com/artist/5sBywQe9mQOArGxfF5i30R) | [The End \(Reprise\)](https://open.spotify.com/album/4pdPfhXp77ji8oiY22U9tz) | 4:16 | 2024-06-27 | 2024-11-15 |
 | [the end or the beginning idk \- trentemøller Remix](https://open.spotify.com/track/6NZZTbordbLZy1HuKd3hLv) | [Sakura](https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT), [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [the end or the beginning idk \(trentemøller Remix\)](https://open.spotify.com/album/5JducM3eb5EBHlofPuyhBv) | 3:38 | 2025-05-29 | 2025-08-01 |
 | [The English](https://open.spotify.com/track/1dyaaCsCY1GTD4EAaDtRFI) | [Kowloon Cowboy](https://open.spotify.com/artist/4Nd2OyYtobUJmHxRhEblFy) | [The English](https://open.spotify.com/album/4K7cuHQVwYIAA5RjIbPTXn) | 6:46 | 2024-10-10 | 2025-02-14 |
@@ -1602,6 +1605,7 @@
 | [終於出歌](https://open.spotify.com/track/0NPXoyts9k8k45Jtjq00yY) | [FINALLY](https://open.spotify.com/artist/1uEfUcuO9CIMvWwXCyxmuu) | [終於出歌](https://open.spotify.com/album/27rpPfkINIq6TIvVb2aHba) | 3:04 | 2023-10-12 | 2024-01-05 |
 | [結界師對香港土地問題的看法 Pt.2](https://open.spotify.com/track/4EGSrFIsy2r3ssZoFBeV1a) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [shinylungs⁺₊✧](https://open.spotify.com/artist/2g7UAB5TToknyyKW44XvV9) | [結界師對香港土地問題的看法 Pt.2](https://open.spotify.com/album/60YK3ULD0mrTxFeYS6ZUSh) | 3:09 | 2025-10-02 | 2026-05-08 |
 | [結界師對香港土地問題的看法\(8分\) \(feat\. $hinyLungs\)](https://open.spotify.com/track/2Q2MInLxDy1Lk00hJVxAJE) | [Chefwest](https://open.spotify.com/artist/76X04R0YI3EKzZ957qJeee), [$hinyLungs](https://open.spotify.com/artist/6hgAAw2ZKhlAtNXxR7ZEah) | [SUPPRESS\(ed\)](https://open.spotify.com/album/6m0vC4SoLl5MLSROJVXpqm) | 2:56 | 2022-11-17 | 2023-03-18 |
+| [給我哀傷的朋友​​](https://open.spotify.com/track/1cpozvVBTBgC29d7SgxIrR) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [給我哀傷的朋友​​](https://open.spotify.com/album/56egH5g5foIQSiDO7LmpnX) | 3:20 | 2026-07-30 |  |
 | [綠島炸雞脾 Green Island Fried Chicken Leg \- Live at NTK](https://open.spotify.com/track/165o8sxURI9AvNtW23WUUp) | [Wantamnam 我地希望](https://open.spotify.com/artist/0pVaCG8CoflvMHSNfqxPbd) | [牛頭角現場 Live at Ngau Tau Kok](https://open.spotify.com/album/2jgYOrxoPHh668hMB41gup) | 5:16 | 2024-11-28 | 2025-05-30 |
 | [綠蔭吹成黃葉](https://open.spotify.com/track/3XGpWQQZ5Fbqwy3uFEqkGF) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws), [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [綠蔭吹成黃葉](https://open.spotify.com/album/2pa3gOjEpjLlfLaHlqP4Uw) | 3:26 | 2025-03-20 | 2025-07-11 |
 | [缺氧世紀](https://open.spotify.com/track/6N5egpJKnvlbMQP3filGXa) | [ARI](https://open.spotify.com/artist/0fdZOI1huDkXA6tubyiNSg) | [缺氧世紀](https://open.spotify.com/album/6IFKrDhNlWJWj8uPsber4g) | 3:05 | 2025-09-25 | 2026-02-27 |

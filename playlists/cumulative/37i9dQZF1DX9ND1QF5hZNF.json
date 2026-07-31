@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 148005,
       "name": "Keep On Running",
       "url": "https://open.spotify.com/track/0TrdlBrywTOuG4r8ZpIpJB"
@@ -3940,6 +3940,32 @@
       "duration_ms": 193050,
       "name": "La Plage",
       "url": "https://open.spotify.com/track/3lZcokYiL7reR3j3Lbtfzl"
+    },
+    {
+      "album": {
+        "name": "Lapse",
+        "url": "https://open.spotify.com/album/5kpzO1JJ0k4ITkBZBnru2z"
+      },
+      "artists": [
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274838,
+      "name": "Lapse",
+      "url": "https://open.spotify.com/track/7h0GRVHVYPpBKgSpHAFnPG"
     },
     {
       "album": {
@@ -4258,7 +4284,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 139384,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/0MW0x6OGEp4QEC9xTAdp1l"
@@ -6339,6 +6365,24 @@
     },
     {
       "album": {
+        "name": "Que la vie est belle",
+        "url": "https://open.spotify.com/album/7Ia2fwxUrvtU5AFhp5CRfg"
+      },
+      "artists": [
+        {
+          "name": "Bleu nuage",
+          "url": "https://open.spotify.com/artist/4PSY0dGrFXLJvR9vuNYTq2"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Que la vie est belle",
+      "url": "https://open.spotify.com/track/6nrySsDy0mltv4YCsK5MSh"
+    },
+    {
+      "album": {
         "name": "Quero",
         "url": "https://open.spotify.com/album/7wNFlxLXby8RduE9xNEjrW"
       },
@@ -6412,7 +6456,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 139065,
       "name": "Reason",
       "url": "https://open.spotify.com/track/6JOPXWvT2Y4Cd5MYfeyctT"
@@ -7482,7 +7526,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 156000,
       "name": "Still Be Mine",
       "url": "https://open.spotify.com/track/4UAQJ7mog6rkvoX6rRwqDU"
@@ -7588,7 +7632,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 202734,
       "name": "Summer Days",
       "url": "https://open.spotify.com/track/14bHw2NS6a0aoMZi7Fbb47"
@@ -8486,6 +8530,32 @@
       "duration_ms": 145846,
       "name": "Unsent",
       "url": "https://open.spotify.com/track/0Pc4syLgddLCJVRIK5VgRM"
+    },
+    {
+      "album": {
+        "name": "Until The Night Is Gone",
+        "url": "https://open.spotify.com/album/7ye3omcc214yYFfc3fxyne"
+      },
+      "artists": [
+        {
+          "name": "RAZZ",
+          "url": "https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l"
+        },
+        {
+          "name": "Twin Parrots",
+          "url": "https://open.spotify.com/artist/3Xvfv7QCwTJ5THq2cNQmox"
+        },
+        {
+          "name": "oceans apart",
+          "url": "https://open.spotify.com/artist/4SJ00ViCeRfYfFVljPgzy8"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128571,
+      "name": "Until The Night Is Gone",
+      "url": "https://open.spotify.com/track/2Spj0Gxc2qhPb8OnERxxl5"
     },
     {
       "album": {

@@ -1,8 +1,42 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Mpho.Wav",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: M\u00d6RDA",
   "name": "Afro House Pulse",
   "tracks": [
+    {
+      "album": {
+        "name": "2 This",
+        "url": "https://open.spotify.com/album/39YiPEbLFmOgliiXBJ63zi"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        },
+        {
+          "name": "Ape Drums",
+          "url": "https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u"
+        },
+        {
+          "name": "Deniz Tekin (TR)",
+          "url": "https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+        },
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187083,
+      "name": "2 This",
+      "url": "https://open.spotify.com/track/2KRkXR3I8mHGeQjZYALfHK"
+    },
     {
       "album": {
         "name": "222",
@@ -769,6 +803,28 @@
     },
     {
       "album": {
+        "name": "Better Wait",
+        "url": "https://open.spotify.com/album/5Up6JD7aMmxOrMnjibpTjG"
+      },
+      "artists": [
+        {
+          "name": "Rosey Gold",
+          "url": "https://open.spotify.com/artist/5VzOCXUuAeHgbabXvn70DJ"
+        },
+        {
+          "name": "lordkez",
+          "url": "https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237576,
+      "name": "Better Wait",
+      "url": "https://open.spotify.com/track/47ytW7FVxOdDbA4BkUrxUa"
+    },
+    {
+      "album": {
         "name": "Winter 2026 (DJ Mix)",
         "url": "https://open.spotify.com/album/3ZrJDjTJDIPeBjQns0E8s7"
       },
@@ -980,7 +1036,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 342009,
       "name": "Can You See Me?",
       "url": "https://open.spotify.com/track/1pHVuic3bWY3BYR7EcH3B2"
@@ -2400,6 +2456,32 @@
       "duration_ms": 276610,
       "name": "Igama",
       "url": "https://open.spotify.com/track/3Sxg7ka3C8vm0freRis9Ef"
+    },
+    {
+      "album": {
+        "name": "Ijoya",
+        "url": "https://open.spotify.com/album/29khdSaqDrbAQIslKf2yyZ"
+      },
+      "artists": [
+        {
+          "name": "Arthi",
+          "url": "https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4"
+        },
+        {
+          "name": "Dismantle",
+          "url": "https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp"
+        },
+        {
+          "name": "\u00a3MONZO",
+          "url": "https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236079,
+      "name": "Ijoya",
+      "url": "https://open.spotify.com/track/0H4vIiZP7hr4SneIFVJTNc"
     },
     {
       "album": {
@@ -4155,6 +4237,28 @@
     },
     {
       "album": {
+        "name": "Mayawa",
+        "url": "https://open.spotify.com/album/3IoHoe8bLPG0KUeOU5iwUR"
+      },
+      "artists": [
+        {
+          "name": "Samuel Cosmic",
+          "url": "https://open.spotify.com/artist/53sw8R4uVMNDvNooBNETao"
+        },
+        {
+          "name": "Oluwadamvic",
+          "url": "https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Mayawa",
+      "url": "https://open.spotify.com/track/4vHm6K2I6xNuzRbLB9956w"
+    },
+    {
+      "album": {
         "name": "Mbalenhle\u2019s Prayer",
         "url": "https://open.spotify.com/album/48pvilSbhL7NMeouYGnfrM"
       },
@@ -4178,7 +4282,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 394634,
       "name": "Mbalenhle\u2019s Prayer",
       "url": "https://open.spotify.com/track/24AdQhBM0cy194JyjouRJ2"
@@ -5426,7 +5530,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 230322,
       "name": "Raiz Brasileira",
       "url": "https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3"
@@ -5618,6 +5722,28 @@
       "duration_ms": 362602,
       "name": "Sabela - Aris Kokou Vocal Mix",
       "url": "https://open.spotify.com/track/2FdtYn1jJctaisWuoyQGJW"
+    },
+    {
+      "album": {
+        "name": "SAWA (feat. bees & honey)",
+        "url": "https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5"
+      },
+      "artists": [
+        {
+          "name": "AYA",
+          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220527,
+      "name": "SAWA (feat. bees & honey)",
+      "url": "https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1"
     },
     {
       "album": {
@@ -6271,6 +6397,28 @@
     },
     {
       "album": {
+        "name": "Secrets of the WRLD",
+        "url": "https://open.spotify.com/album/0Lh96OK9UoR8pDDzeBsuzI"
+      },
+      "artists": [
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212302,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/0F7VIl2pS58IFwFTwenXc3"
+    },
+    {
+      "album": {
         "name": "Tholukuthi (Clap Song) [feat. MaWhoo]",
         "url": "https://open.spotify.com/album/3fdFe3KPYCzaUpbOngXaem"
       },
@@ -6358,6 +6506,24 @@
       "duration_ms": 190447,
       "name": "Tiki Tiki 2.0",
       "url": "https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1"
+    },
+    {
+      "album": {
+        "name": "Asante IV",
+        "url": "https://open.spotify.com/album/39ehR7VQOM2NKJFJUC1duY"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6RDA",
+          "url": "https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/2qMzjzammwsmi3uj6ghVYX"
     },
     {
       "album": {

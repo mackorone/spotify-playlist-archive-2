@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: RACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,788 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,843 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 48 | [CHRISTIAN DIOR](https://open.spotify.com/track/2n2Kn5gGtVGrVJxvxtMDLB) | [SOLO](https://open.spotify.com/artist/3qed23BFf5AfvaRV0h8YX8), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [P.S](https://open.spotify.com/album/7GXHGIEVtBjAlGVvRZJzCX) | 2:48 |
 | 49 | [Jackie Ο'](https://open.spotify.com/track/3eki2WDPpHdejxehX147UA) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Jackie Ο'](https://open.spotify.com/album/35hZqIutiGG7tCaPNDlnE9) | 2:37 |
 | 50 | [CMC CYPHER](https://open.spotify.com/track/4vWKrBQxQluuF9kgCwxZUY) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0), [DAIMA](https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN), [Silly Slime](https://open.spotify.com/artist/36UIThsG09bsbei5r8Lspl), [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV), [Quervo](https://open.spotify.com/artist/4SEFbvxDiWfU8ucxo1kymr) | [CMC CYPHER](https://open.spotify.com/album/3RSDQ2KivQSlaoudIflFDD) | 3:12 |
+| 51 | [FUCK OFF](https://open.spotify.com/track/2ycC1Hc45ZyhfRzHSJCCx8) | [How](https://open.spotify.com/artist/1fOZ5oJ54j38CGvVapIBDi) | [FUCK OFF](https://open.spotify.com/album/6TnAqeBtXLyBT2cgl7A9kI) | 2:34 |
 
-Snapshot ID: `AAAAAIBq8iO2VUuX88cXbUEfAo4Yq2fQ`
+Snapshot ID: `AAAAAH4ehPlgZpImGl+SraQy6EBPDL6d`

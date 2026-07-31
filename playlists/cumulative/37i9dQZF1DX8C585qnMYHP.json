@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by independent Experimental artists. <a href=\"spotify:artist:5yD3wA48IGUoCVboe0LdHx\">Standing On The Corner</a> on cover. Artwork by Thami Nabil.",
+  "description": "The best new music by independent Experimental artists. <a href=\"spotify:artist:4QVnoNeoWQkbb9oOG4Ce2f\">Gloorp</a> on cover. Artwork by Thami Nabil.",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -19379,6 +19379,24 @@
     },
     {
       "album": {
+        "name": "Bivabippabualukka",
+        "url": "https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247629,
+      "name": "Juaduddanya",
+      "url": "https://open.spotify.com/track/7k4PPInBDLOfPUvuQx6CKK"
+    },
+    {
+      "album": {
         "name": "JUMP",
         "url": "https://open.spotify.com/album/2pZT0w3ek6VOZzxQtvJt4H"
       },
@@ -20396,7 +20414,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 218181,
       "name": "Lambi",
       "url": "https://open.spotify.com/track/4ILpdi4eqjLedMDZKfjJSI"
@@ -34333,6 +34351,24 @@
     },
     {
       "album": {
+        "name": "Gloorp Life",
+        "url": "https://open.spotify.com/album/54OXD4tM4Qo3YN2ehGCwov"
+      },
+      "artists": [
+        {
+          "name": "Gloorp",
+          "url": "https://open.spotify.com/artist/4QVnoNeoWQkbb9oOG4Ce2f"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215978,
+      "name": "Swag",
+      "url": "https://open.spotify.com/track/7MEJdaQ9rSY332NVI6tiL5"
+    },
+    {
+      "album": {
         "name": "Sweat",
         "url": "https://open.spotify.com/album/6TuivlPWpQbbj5PZE2YF0J"
       },
@@ -39415,6 +39451,28 @@
     },
     {
       "album": {
+        "name": "Vanishing",
+        "url": "https://open.spotify.com/album/5Vl6eZiySrxnaMoi9YeY9S"
+      },
+      "artists": [
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        },
+        {
+          "name": "Dis Fig",
+          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210297,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/7mkaHMnfl2liX2tLpCanxw"
+    },
+    {
+      "album": {
         "name": "Vaporwave Tactical",
         "url": "https://open.spotify.com/album/6H53eDZ20n28AOGUNzxZUv"
       },
@@ -40230,6 +40288,24 @@
       "duration_ms": 173061,
       "name": "Wait Up",
       "url": "https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE"
+    },
+    {
+      "album": {
+        "name": "Tessares",
+        "url": "https://open.spotify.com/album/5cVhwY4xBaFrX06wn41rjK"
+      },
+      "artists": [
+        {
+          "name": "dgoHn",
+          "url": "https://open.spotify.com/artist/7niTXistKYVF29W4Bo0cUt"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278093,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/20E78xm16Tvx3soPntpG25"
     },
     {
       "album": {

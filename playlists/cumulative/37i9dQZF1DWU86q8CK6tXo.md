@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover:  Young Miko
 
-2,270 songs - 5 day 2 hr 40 min
+2,271 songs - 5 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [act up](https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [act up](https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3) | 2:08 | 2022-10-07 | 2022-11-03 |
 | [Actin' Up](https://open.spotify.com/track/13umsa4HEerLke8Y8lhakp) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:25 | 2022-05-04 | 2022-06-01 |
 | [ACTIVA](https://open.spotify.com/track/4HRoZdP8v2lXXotGF0KaGx) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq), [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [ACTIVA](https://open.spotify.com/album/2ka8EGLE24wDwF35eNo2lp) | 4:21 | 2022-11-02 | 2022-12-01 |
-| [Actor](https://open.spotify.com/track/48bePG5thRkA5xttNPRB8c) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Roses](https://open.spotify.com/album/2BN4p5eqhjLPUc17RGAogQ) | 5:21 | 2026-07-01 |  |
+| [Actor](https://open.spotify.com/track/48bePG5thRkA5xttNPRB8c) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Roses](https://open.spotify.com/album/2BN4p5eqhjLPUc17RGAogQ) | 5:21 | 2026-07-01 | 2026-07-31 |
 | [Addicted](https://open.spotify.com/track/1LefN4ngQU0F49QKq1GEe5) | [Alex Mali](https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ) | [Addicted](https://open.spotify.com/album/5mIOx6pq7N7kX5Nyl3WLqi) | 3:06 | 2022-01-05 | 2022-02-03 |
 | [Addicted](https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Addicted](https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk) | 2:43 | 2026-02-06 | 2026-06-03 |
 | [Addicted](https://open.spotify.com/track/7BkqGhv7Al11dEg582Vfu1) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Maltman and Effie](https://open.spotify.com/album/3fMhlibIYwYG32CifC7DOq) | 4:21 | 2022-07-06 | 2022-07-29 |
@@ -2222,6 +2222,7 @@
 | [Woman Is King](https://open.spotify.com/track/1gxc1dIYLmSS2sxMm8BYNj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Tell My Therapist I'm Fine \(Deluxe\)](https://open.spotify.com/album/6qPZrueXJiXtEe8qxGq49N) | 1:46 | 2025-03-07 | 2025-03-19 |
 | [Woman Of Me](https://open.spotify.com/track/28FXH19Z9ihzOJKiFYyK6e) | [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [Woman Of Me](https://open.spotify.com/album/5JV3aHNpmimwsh3Woml32k) | 2:52 | 2026-03-09 | 2026-05-05 |
 | [Woman's Intuition](https://open.spotify.com/track/5ob35mzMNNo72Zy4XkMw3a) | [Molly Grace](https://open.spotify.com/artist/21rtlXPLkzcyDnYycn4QXH) | [Woman's Intuition](https://open.spotify.com/album/57Dbljkv1NHd9PHGWhWQmh) | 2:29 | 2022-09-07 | 2022-10-06 |
+| [Won't Force You](https://open.spotify.com/track/4c7awiaRsAal1uZXPDbpBr) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Serial Romantic](https://open.spotify.com/album/18iDm8NbADcwee74fPEKyp) | 3:26 | 2026-07-01 |  |
 | [WONDER](https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s) | [me n ü](https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f) | [WONDER](https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf) | 2:39 | 2024-10-01 | 2024-11-02 |
 | [Wonder Woman](https://open.spotify.com/track/0s2f8k9pavqKj9NfCXRZNH) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wonder Woman](https://open.spotify.com/album/30ptHEO695RvtGdyEMAeDZ) | 3:25 | 2023-11-08 | 2023-11-30 |
 | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/track/12gIiC7uS9fvSVTvu66YDO) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [American Song Contest](https://open.spotify.com/artist/3pPClIZCqgahG8bguvacGh) | [Wonderland \(From “American Song Contest”\)](https://open.spotify.com/album/1KxiHSk6DOOL1C24ijw9m0) | 2:44 | 2022-04-06 | 2022-05-05 |

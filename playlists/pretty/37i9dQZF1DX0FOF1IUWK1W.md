@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Mc Jacaré o e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,813,206 likes - 42 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,812,874 likes - 42 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 41 | [Era Sol Que Me Faltava](https://open.spotify.com/track/2M6M1f5SVQqamxeyItWZxo) | [AgroPlay](https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [CountryBeat](https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk) | [Era Sol Que Me Faltava](https://open.spotify.com/album/0T2U6usC99EdA4L5MA7HTn) | 1:55 |
 | 42 | [Saudade Proibida \- Ao Vivo](https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Saudade Proibida \(Ao Vivo\)](https://open.spotify.com/album/0dBMGKZldtmOrLaF2h5jSa) | 2:40 |
 
-Snapshot ID: `AAAAADx4rq5ELJM54WSQ1klKXKwblT/k`
+Snapshot ID: `AAAAAH3fR/hi9dykinFXz+DG/tBuCIBc`

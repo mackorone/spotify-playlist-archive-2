@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec disiz.
+> Les meilleures nouveautés de la variété française avec marguerite.
 
-531 songs - 1 day 2 hr 1 min
+532 songs - 1 day 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Libertà](https://open.spotify.com/track/0pAdIWqcWYbeQeYsSgitia) | [César](https://open.spotify.com/artist/29QLxgXz1rdMvaVK2aWFlU) | [Libertà](https://open.spotify.com/album/68bhRlQAHBfPvrFVFLiw1E) | 3:01 | 2026-04-30 |  |
 | [Lili](https://open.spotify.com/track/0T0R06h8bFxkg8hIkPLcK4) | [Maëlle](https://open.spotify.com/artist/5Ha8JdCWeJ8vdqEhzgiSU5) | [Lili](https://open.spotify.com/album/5HeBB6D3mwrrhQcDeDU5il) | 2:45 | 2026-03-12 | 2026-06-05 |
 | [Loin de moi](https://open.spotify.com/track/6gFhvz16DS2v7MkyPe0Urr) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [à 2 à 3 \(Deluxe\)](https://open.spotify.com/album/3S8YZV8vEQCOkLtpy8a3TW) | 2:51 | 2024-11-21 | 2025-01-10 |
-| [Love Noir](https://open.spotify.com/track/3QSfWyXeGEpEoMpufPPtot) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Love Noir](https://open.spotify.com/album/4q3khzl3yEiqMcry65Q4ZW) | 2:51 | 2026-04-09 |  |
+| [Love Noir](https://open.spotify.com/track/3QSfWyXeGEpEoMpufPPtot) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Love Noir](https://open.spotify.com/album/4q3khzl3yEiqMcry65Q4ZW) | 2:51 | 2026-04-09 | 2026-07-31 |
 | [LÀ\-BAS](https://open.spotify.com/track/6nlb4zxOQGytBC7RrPADK9) | [NOVA](https://open.spotify.com/artist/1GSrC8rlBRJlE44AnF0DiX), [Ilyana](https://open.spotify.com/artist/20hkYBK2KSk0PoyFlZkJ1D) | [LÀ\-BAS](https://open.spotify.com/album/7A24KYpWf2LCNO6jJdIU0W) | 3:31 | 2025-05-29 | 2025-08-29 |
 | [Léa](https://open.spotify.com/track/5y4SGiUMB4cTr14h6kwFyZ) | [Floran](https://open.spotify.com/artist/22UEQ1zDB3JGeEx9jtye4V) | [Léa](https://open.spotify.com/album/2xewKyVhEUNYWYsz9CGQZs) | 2:58 | 2024-06-27 | 2024-09-06 |
 | [M'en veux pas](https://open.spotify.com/track/1tdNjFcxK58mpvgc4c0s1N) | [Maheva](https://open.spotify.com/artist/7lh9dYePSSj2fkenGXAmuz), [Bosco](https://open.spotify.com/artist/5e0dt4ubHmVg4Ds1EhYTy8) | [M'en veux pas](https://open.spotify.com/album/20pqrl78xUu2rxIEsY40Vb) | 2:46 | 2026-07-23 |  |
@@ -463,6 +463,7 @@
 | [Station 4 septembre](https://open.spotify.com/track/6D2K93Io4o7dDQqh6MxeCs) | [Pixel](https://open.spotify.com/artist/1rmUeanBa7ccqHR6uOIFZV) | [Station 4 septembre](https://open.spotify.com/album/3mshMElmNYgR2hAptgDrH2) | 2:51 | 2025-01-30 | 2025-03-21 |
 | [Stupide avec toi](https://open.spotify.com/track/5C7oS96TmhpdibChQSF7c1) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [Stupide avec toi](https://open.spotify.com/album/3IOPhGgrlaxVpiFDotAT5X) | 3:17 | 2025-07-17 | 2025-10-03 |
 | [Summer Body](https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Pas de seum pour le summer](https://open.spotify.com/album/3vgEOmPIh31vdESnU8CtYA) | 2:59 | 2024-06-27 | 2024-10-11 |
+| [Summertime](https://open.spotify.com/track/7uPE6hbOj1mf6nvTgjPfav) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe), [Lili Poli](https://open.spotify.com/artist/0hSW0pdwbtPmPaJTOlBz8a) | [Summertime](https://open.spotify.com/album/3mMBS1dRNVlOs2ORx7JexT) | 2:32 | 2026-07-30 |  |
 | [Supernova](https://open.spotify.com/track/0ga5vX42pHZ7KSwaZhriSB) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Supernova](https://open.spotify.com/album/6l8MpmPfGRirtOSzUeflMB) | 2:45 | 2024-09-05 | 2024-11-29 |
 | [Superstar](https://open.spotify.com/track/29ngwhaBqObFJoPjDhplN2) | [47ter](https://open.spotify.com/artist/0aXaZj4wB5jLF2E2d8WEVi) | [Superstar](https://open.spotify.com/album/71UYVPUJxCfkisIL9FLrS3) | 2:37 | 2026-04-02 | 2026-07-10 |
 | [Sur la piste](https://open.spotify.com/track/4bcuCoIXefyjaHK3TDe6k3) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Sur la piste](https://open.spotify.com/album/16vXhWhUZhSLmRDuljs5ui) | 2:52 | 2026-07-02 |  |

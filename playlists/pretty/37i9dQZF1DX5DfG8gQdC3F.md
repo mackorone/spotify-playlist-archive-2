@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Releases from Shania Twain, Charli xcx, Morgan Wallen, Tyla, JENNIE, girlsweetvoiced, and  more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,255 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,233 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [CANINE](https://open.spotify.com/track/7s8RD9qT5qvpeQ5bABJF1r) | [good company](https://open.spotify.com/artist/1hChWxx4fOhX9ozYC2Fh5S) | [CANINE](https://open.spotify.com/album/1GcYIYqcJynfxbD2HUkVoX) | 3:19 |
 | 100 | [June Apple \(poisoned\)](https://open.spotify.com/track/1yOzT9dtiPV1KDv36ZrhUP) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Unsung Adventures of Punch Brothers](https://open.spotify.com/album/1MLr9heWsK87e4gukzzytJ) | 3:01 |
 
-Snapshot ID: `AAAAABNHvRNsxZ5/DiynWesTep3yd4Q1`
+Snapshot ID: `AAAAAFH2III2B3nuM5akdd7UqJJHmrIj`

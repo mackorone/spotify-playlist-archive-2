@@ -578,7 +578,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 180639,
       "name": "Any Way You Want",
       "url": "https://open.spotify.com/track/4uVlLxmZBlkv5D21NrOEDb"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -1648,7 +1648,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 174093,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7iT3p4EKVOjUohTul7aDf4"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 257533,
       "name": "Candide",
       "url": "https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh"
@@ -2188,7 +2188,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 172973,
       "name": "Comin' Around",
       "url": "https://open.spotify.com/track/35aCtgxXl9naFeiaWcgCDS"
@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 238400,
       "name": "Do You Get High?",
       "url": "https://open.spotify.com/track/5J02D47G13XKef6HOfm3SQ"
@@ -2898,6 +2898,24 @@
       "duration_ms": 194533,
       "name": "Don't Wanna Go To Bed Now - New Version",
       "url": "https://open.spotify.com/track/00914fQv9854t2yzDKp8QI"
+    },
+    {
+      "album": {
+        "name": "The Sound Of Drums",
+        "url": "https://open.spotify.com/album/5o8IrQOjfnuWNpQtzvZEOP"
+      },
+      "artists": [
+        {
+          "name": "Rogue Traders",
+          "url": "https://open.spotify.com/artist/3YUrEElXpqiPSbffh9XXZd"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197320,
+      "name": "Don't You Wanna Feel",
+      "url": "https://open.spotify.com/track/2MxvlboakUTeqVPamhUNcM"
     },
     {
       "album": {
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 199133,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/1zX3GyOLGPLO0ZBnvtGn3L"
@@ -3878,7 +3896,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-15",
+      "date_removed": null,
       "duration_ms": 229506,
       "name": "Get You Off",
       "url": "https://open.spotify.com/track/0ZgaHE56xKJQhV2wroTuH5"
@@ -4148,7 +4166,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 178466,
       "name": "Groupie",
       "url": "https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj"
@@ -4346,7 +4364,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 189266,
       "name": "Here Come The Girls",
       "url": "https://open.spotify.com/track/3OYxOT1eMI8IvO5iw2aJLL"
@@ -4400,7 +4418,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 223812,
       "name": "HEY!",
       "url": "https://open.spotify.com/track/5FLkdgrcmn9w9wC2E91icQ"
@@ -5648,7 +5666,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -5702,7 +5720,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 188040,
       "name": "Ladylike",
       "url": "https://open.spotify.com/track/6IKbsDfLFuTxliuw0U3zEQ"
@@ -6834,7 +6852,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -7540,7 +7558,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 274000,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/4v8kjJp1Edvtlimosy7nNF"
@@ -7746,6 +7764,24 @@
       "duration_ms": 247639,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/1Cc5OSgvynOsuQPYGLuLJw"
+    },
+    {
+      "album": {
+        "name": "You Cry",
+        "url": "https://open.spotify.com/album/7fNYIUniKbYSZhmwykfNwZ"
+      },
+      "artists": [
+        {
+          "name": "Portobello Express",
+          "url": "https://open.spotify.com/artist/5mN5P9dMi9EzoubInTVMmy"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180204,
+      "name": "Only When She\u2019s Gone",
+      "url": "https://open.spotify.com/track/0ONgDTF3scHkuLiB5Ohmtv"
     },
     {
       "album": {
@@ -8754,7 +8790,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 181124,
       "name": "SCHIZOPHRENIA",
       "url": "https://open.spotify.com/track/2dZIg1wj1BIxdzfwVoeg8K"
@@ -8874,6 +8910,24 @@
       "duration_ms": 181120,
       "name": "Shazam In The Van",
       "url": "https://open.spotify.com/track/2xsVv204pUuHhUOVGwStmP"
+    },
+    {
+      "album": {
+        "name": "In My Skin",
+        "url": "https://open.spotify.com/album/6bHaWPzpx1EQupbwJde2HW"
+      },
+      "artists": [
+        {
+          "name": "The Soap Girls",
+          "url": "https://open.spotify.com/artist/1OLHfdAPzzmWwnOVSX67km"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305233,
+      "name": "She Don't Wanna",
+      "url": "https://open.spotify.com/track/7GRdURVLqfjKlbxEx9OI9I"
     },
     {
       "album": {
@@ -9400,7 +9454,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 141333,
       "name": "Sticky Honey",
       "url": "https://open.spotify.com/track/5NXsSgIvDLPmazTKCkcPys"
@@ -9566,7 +9620,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -9638,7 +9692,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 120959,
       "name": "Sunset Strip Fever Dream",
       "url": "https://open.spotify.com/track/6V33utn4JXrYPSdgwdLn7r"
@@ -9930,7 +9984,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "The Pretender",
       "url": "https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz"
@@ -10356,6 +10410,24 @@
       "duration_ms": 224807,
       "name": "TURN IT AROUND",
       "url": "https://open.spotify.com/track/2HoD5AMsRcx5DpwkGywEo5"
+    },
+    {
+      "album": {
+        "name": "Twenty Seven",
+        "url": "https://open.spotify.com/album/1hiLE0Ap9Xrhk3G8DKQGMX"
+      },
+      "artists": [
+        {
+          "name": "Thea May",
+          "url": "https://open.spotify.com/artist/6xLGFcntYI6WZdy54Qd7Ar"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160732,
+      "name": "Twenty Seven",
+      "url": "https://open.spotify.com/track/6Y9nBNxMRXwL0JYvjsKbTN"
     },
     {
       "album": {
@@ -11108,7 +11180,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 230978,
       "name": "You Deserve This",
       "url": "https://open.spotify.com/track/4wm85dBad1N1rTWOaQWWez"

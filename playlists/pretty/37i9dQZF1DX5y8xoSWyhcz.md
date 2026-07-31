@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,785 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,781 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 79 | [14](https://open.spotify.com/track/3IrFYr7BFk9SPSTIRoPT0S) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [14](https://open.spotify.com/album/1XWkGbcYhIHXqRUR7oxnWf) | 4:40 |
 | 80 | [Waiting In Line](https://open.spotify.com/track/2fGjus14Nunys4nQxGulqY) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi) | [Waiting In Line](https://open.spotify.com/album/3oCxkN7IrNLVXWFpez7FIL) | 3:33 |
 
-Snapshot ID: `AAAAACtxizXcO0xopHHd/Qs/vJKmhwfy`
+Snapshot ID: `AAAAAPTNaIn9rAWxxOPwC3bk5HHTgOwN`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:Anna Vissi",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Danae",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -279,6 +279,32 @@
     },
     {
       "album": {
+        "name": "Ainte",
+        "url": "https://open.spotify.com/album/5sbfSHKgCv3y2mP4ouU396"
+      },
+      "artists": [
+        {
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
+        },
+        {
+          "name": "Ria Ellinidou",
+          "url": "https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc"
+        },
+        {
+          "name": "BLVD",
+          "url": "https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162519,
+      "name": "Ainte",
+      "url": "https://open.spotify.com/track/0edeAiiIQUy1L8jDrJD0hK"
+    },
+    {
+      "album": {
         "name": "Alitheia Tora",
         "url": "https://open.spotify.com/album/4pm0OLRaeMviiqkukbDjgb"
       },
@@ -422,6 +448,24 @@
       "duration_ms": 213846,
       "name": "Allo",
       "url": "https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5"
+    },
+    {
+      "album": {
+        "name": "Meltemia",
+        "url": "https://open.spotify.com/album/1pZ1AiGAAK5ryTpF7e0GPj"
+      },
+      "artists": [
+        {
+          "name": "Danae",
+          "url": "https://open.spotify.com/artist/4j3tjX98PWp21sE1XWIBt8"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Allou Me Paei",
+      "url": "https://open.spotify.com/track/1sjrV8fAsFQZmBxTS8l82n"
     },
     {
       "album": {
@@ -2302,7 +2346,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 176800,
       "name": "Femme Fatale - Remix",
       "url": "https://open.spotify.com/track/3K5NhnaUtG2pMWoFznWoNc"
@@ -3150,7 +3194,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 146526,
       "name": "Kaigomai",
       "url": "https://open.spotify.com/track/5HdggIsemsufKTS7guiZfh"
@@ -3234,6 +3278,32 @@
       "duration_ms": 157675,
       "name": "Kalos Se Vrika",
       "url": "https://open.spotify.com/track/6HZ1lSvUt5gKsJx2DBDmBg"
+    },
+    {
+      "album": {
+        "name": "Kapou Allou",
+        "url": "https://open.spotify.com/album/5yMhsJ12NILXekDWJbfx6L"
+      },
+      "artists": [
+        {
+          "name": "Solmeister",
+          "url": "https://open.spotify.com/artist/24Dj1piBfpK6bL3WwIFq48"
+        },
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        },
+        {
+          "name": "_sunset",
+          "url": "https://open.spotify.com/artist/7wW1i3pFTsdxc7yqYAH2Vu"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Kapou Allou",
+      "url": "https://open.spotify.com/track/0ql9ryQ4mVeUkZgX1vPcU7"
     },
     {
       "album": {
@@ -6280,7 +6350,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 180000,
       "name": "Xanomai",
       "url": "https://open.spotify.com/track/6HZGBcrYHmc3cdGlpjkF0j"

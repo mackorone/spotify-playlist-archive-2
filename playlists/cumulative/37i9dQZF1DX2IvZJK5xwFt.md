@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-1,137 songs - 2 day 22 hr 17 min
+1,138 songs - 2 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Darkest Lullaby](https://open.spotify.com/track/3MV0SFjUcQYUGmAQv6o7Q2) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Darkest Lullaby](https://open.spotify.com/album/1R1J4SFlMtGIuTeH7yS9yH) | 3:10 | 2024-06-20 | 2024-09-20 |
 | [Darkness Turns to Light \(Opening Theme Song\) \[From "Beyblade Burst QuadStrike"\]](https://open.spotify.com/track/6J9DuvcPLzivD98KsXSJHu) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Darkness Turns to Light \(Opening Theme Song\) \[From "Beyblade Burst QuadStrike"\]](https://open.spotify.com/album/2t9BAAn4EeMEkwRbxsP1Ou) | 2:03 | 2023-02-09 | 2023-02-24 |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-16 | 2025-05-16 |
-| [Date Night](https://open.spotify.com/track/3kddxpf7WLApBv8pRTCn49) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Date Night](https://open.spotify.com/album/4rSBYJKVfytsfeXw2PYjNv) | 3:47 | 2026-07-25 |  |
+| [Date Night](https://open.spotify.com/track/3kddxpf7WLApBv8pRTCn49) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Date Night](https://open.spotify.com/album/4rSBYJKVfytsfeXw2PYjNv) | 3:47 | 2026-07-25 |  |
 | [Davies and Wales](https://open.spotify.com/track/5eNdtVT6h1Sr7Q6xdv5Ptu) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [POPtical Illusion](https://open.spotify.com/album/4Y47DeNLz30h7AyLtGdqtT) | 4:15 | 2024-06-13 | 2024-06-21 |
 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 | 2025-06-27 | 2025-07-18 |
 | [Daylight](https://open.spotify.com/track/6LleMnUceskUsmszoOlODl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Daylight](https://open.spotify.com/album/2RVZtDdeACKYVXKnmIWH7m) | 4:00 | 2022-06-02 | 2023-02-17 |
@@ -828,6 +828,7 @@
 | [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 | 2024-06-27 | 2024-11-09 |
 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-06-23 | 2022-07-08 |
 | [SAVIOR](https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [SAVIOR](https://open.spotify.com/album/1e9rFo60bQd81pc9tXjSJS) | 3:06 | 2025-06-27 | 2025-08-30 |
+| [Saw You Stand](https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Saw You Stand](https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT) | 4:49 | 2026-07-25 |  |
 | [say something](https://open.spotify.com/track/3E3UHWv6I1WD2PqBjbeXn7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [say something](https://open.spotify.com/album/2dimHmsfqzuSuVtaZe3rJU) | 2:24 | 2025-07-24 | 2026-03-28 |
 | [Scarlette](https://open.spotify.com/track/1OtgC9xZIw2aSOWGHiAOgX) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Valiant Hearts](https://open.spotify.com/artist/23JfHao7GdCfsGkXw4jJl8) | [Scarlette](https://open.spotify.com/album/5R48HkJTMQLaN3DthQCD7D) | 4:30 | 2022-05-06 | 2022-09-02 |
 | [Scars](https://open.spotify.com/track/5t36qVZtuRyySgHeiX3mem) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [I Beat Loneliness](https://open.spotify.com/album/7ISodp9NNdfRptSMPObm0n) | 3:29 | 2025-07-17 | 2025-08-16 |

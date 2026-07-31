@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3CVuTsFLCZ.md) - [plain]
 | 51 | [New Puzzle](https://open.spotify.com/track/4LgU54CQIBzhiwEXwDyasN) | [Cho Young\-Wuk](https://open.spotify.com/artist/0qUHwGKZS1Q1hTe2Zbt2L6) | [Nine Puzzles \(Original Soundtrack\)](https://open.spotify.com/album/2SbR2hM9kLiFIKqQwnVHwS) | 1:52 |
 | 52 | [Nine Puzzles : Liner 6](https://open.spotify.com/track/498Co0GDfzNEOtJC3m9dpq) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Nine Puzzles Audio Liners](https://open.spotify.com/album/53zGUE30z0n2vMKHE9kOSq) | 0:06 |
 
-Snapshot ID: `AAAAAGPzUj6uDTq07GdnCFN+fQF0QfBU`
+Snapshot ID: `AAAAAM1VCAZDyOFXuZ5Cf8dkY7g7EPiy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 柿崎ユウタ
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,418 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,431 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [倖せのカタチ](https://open.spotify.com/track/2ip8LVjNk8NP9cYyHzGN47) | [Offo tokyo](https://open.spotify.com/artist/24dGzgKTwpUdb4cGdnFj7y) | [倖せのカタチ](https://open.spotify.com/album/1H0BT2LUwVsSpbc7vPUuNu) | 3:13 |
 | 80 | [ココロ](https://open.spotify.com/track/1W4DJgllFesx8mKttxezqr) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [ココロ](https://open.spotify.com/album/5QXjZJVVnSTz4yc4lNDu4P) | 4:01 |
 
-Snapshot ID: `AAAAADqVcJ1/c+5xlQev4SF3OtfVY1hP`
+Snapshot ID: `AAAAACHdqL6mI1g38D6vyMdEFDWp49vT`

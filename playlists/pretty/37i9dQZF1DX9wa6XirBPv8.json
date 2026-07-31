@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1917445,
+  "num_followers": 1917603,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABvu73wcKV8xDTt7sp9Ln+W5hT2h",
+  "snapshot_id": "AAAAAA5rugvHN09cqc0Ukps/5SoYOjWX",
   "tracks": [
     {
       "added_at": "2026-07-17 00:12:53",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
+        "name": "Discovering The Waterfront",
+        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "Smile In Your Sleep",
+      "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
         "name": "Good Apollo I'm Burning Star IV Volume One: From Fear Through The Eyes Of Madness",
         "url": "https://open.spotify.com/album/4nYsnQpTAQaPzrPc6rOsBN"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Discovering The Waterfront",
-        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
+        "name": "They're Only Chasing Safety",
+        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 193920,
-      "name": "Smile In Your Sleep",
-      "url": "https://open.spotify.com/track/29dljceloiAgAeARUwZ3QC"
+      "duration_ms": 268000,
+      "name": "A Boy Brushed Red Living In Black And White",
+      "url": "https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -703,22 +719,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Deja Entendu",
-        "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
-      },
-      "artists": [
-        {
-          "name": "Brand New",
-          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "The Quiet Things That No One Ever Knows",
-      "url": "https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Tell All Your Friends (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG"
       },
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "They're Only Chasing Safety",
-        "url": "https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19"
+        "name": "Deja Entendu",
+        "url": "https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX"
       },
       "artists": [
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+          "name": "Brand New",
+          "url": "https://open.spotify.com/artist/168dgYui7ExaU612eooDF1"
         }
       ],
-      "duration_ms": 268000,
-      "name": "A Boy Brushed Red Living In Black And White",
-      "url": "https://open.spotify.com/track/47IWLfIKOKhFnz1FUEUIkE"
+      "duration_ms": 241640,
+      "name": "The Quiet Things That No One Ever Knows",
+      "url": "https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Sing The Sorrow",
-        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "Girl's Not Grey",
-      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Good Charlotte",
         "url": "https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 203026,
       "name": "Little Things",
       "url": "https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Sing The Sorrow",
+        "url": "https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "Girl's Not Grey",
+      "url": "https://open.spotify.com/track/3fttmSWGThBQTNkuHMoCTN"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Fast Times At Barrington High",
-        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
-      },
-      "artists": [
-        {
-          "name": "The Academy Is...",
-          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
-        }
-      ],
-      "duration_ms": 210333,
-      "name": "About a Girl",
-      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Transatlanticism (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 475093,
       "name": "Transatlanticism",
       "url": "https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Fast Times At Barrington High",
+        "url": "https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ"
+      },
+      "artists": [
+        {
+          "name": "The Academy Is...",
+          "url": "https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "About a Girl",
+      "url": "https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Decadence",
-        "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
-      },
-      "artists": [
-        {
-          "name": "Head Automatica",
-          "url": "https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Beating Heart Baby",
-      "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "The Artist In The Ambulance",
         "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 203240,
       "name": "Stare At The Sun",
       "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Decadence",
+        "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
+      },
+      "artists": [
+        {
+          "name": "Head Automatica",
+          "url": "https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Beating Heart Baby",
+      "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "No Really, I'm Fine (Standard Version)",
-        "url": "https://open.spotify.com/album/5H8tKeqYgYZsMX99hGSHoj"
-      },
-      "artists": [
-        {
-          "name": "The Spill Canvas",
-          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
-        }
-      ],
-      "duration_ms": 202573,
-      "name": "All over You",
-      "url": "https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Everything In Transit",
         "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 194440,
       "name": "The Mixed Tape - 2015 Remastered",
       "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "No Really, I'm Fine (Standard Version)",
+        "url": "https://open.spotify.com/album/5H8tKeqYgYZsMX99hGSHoj"
+      },
+      "artists": [
+        {
+          "name": "The Spill Canvas",
+          "url": "https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "All over You",
+      "url": "https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6"
     },
     {
       "added_at": "2026-07-17 00:12:53",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: Cordelia",
+  "description": "Die beste country musiek. Omslag: BlackByrd",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 183815,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
@@ -496,10 +496,28 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 173064,
       "name": "Bar None",
       "url": "https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP"
+    },
+    {
+      "album": {
+        "name": "Be By You",
+        "url": "https://open.spotify.com/album/5xDfjX4jwqezEfiRzFwHCs"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197655,
+      "name": "Be By You",
+      "url": "https://open.spotify.com/track/7aLndReanHBzpTGE5Am9H8"
     },
     {
       "album": {
@@ -521,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Been By Now",
+        "url": "https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213805,
+      "name": "Been By Now",
+      "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
+    },
+    {
+      "album": {
         "name": "Bell Bottoms Up",
         "url": "https://open.spotify.com/album/0ugRWpHi0kiYUvDdj5eomQ"
       },
@@ -536,6 +572,24 @@
       "duration_ms": 212386,
       "name": "Bell Bottoms Up",
       "url": "https://open.spotify.com/track/2MIYWa3842ZZK4n4CVu12I"
+    },
+    {
+      "album": {
+        "name": "Bet On That",
+        "url": "https://open.spotify.com/album/3FHP2epbEekzQgGe3jHegf"
+      },
+      "artists": [
+        {
+          "name": "Blake Whiten",
+          "url": "https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190282,
+      "name": "Bet On That",
+      "url": "https://open.spotify.com/track/7DOqRPa9Z5jEHRdo3zyLPo"
     },
     {
       "album": {
@@ -634,6 +688,24 @@
       "duration_ms": 235773,
       "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
       "url": "https://open.spotify.com/track/5Xl87hTgoBbSnEXKNse77Q"
+    },
+    {
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199080,
+      "name": "Bottom Of Your Boots",
+      "url": "https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH"
     },
     {
       "album": {
@@ -1097,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Damned If I Do",
+        "url": "https://open.spotify.com/album/5QLiMcqQ9ompXCxU0UxIZF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217446,
+      "name": "Damned If I Do",
+      "url": "https://open.spotify.com/track/7mxctiYgZD9JtvEZBJWoAW"
+    },
+    {
+      "album": {
         "name": "Dancin' In The Stars",
         "url": "https://open.spotify.com/album/5I8QMWeW9JjS1NHNyAcaFd"
       },
@@ -1126,7 +1216,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 146271,
       "name": "Dare You",
       "url": "https://open.spotify.com/track/3wos9kuQV7y5N4RUJ6WjB5"
@@ -1741,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/5azhxuiYkqQXVgO7XY7vhh"
+      },
+      "artists": [
+        {
+          "name": "Lyra K",
+          "url": "https://open.spotify.com/artist/3eqbjI6eBWLsNvvKx1Fa86"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207457,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/1AW7TOM8R1J99EgFnxfxIM"
+    },
+    {
+      "album": {
         "name": "Hang Aan Jou Lippe",
         "url": "https://open.spotify.com/album/1zQ2HCrBIraog6oB8Jga0z"
       },
@@ -2034,7 +2142,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 168653,
       "name": "Horseback",
       "url": "https://open.spotify.com/track/5AvPZT0oHmQewNNbrv6cHr"
@@ -2114,7 +2222,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 175271,
       "name": "I Ain't Comin' Back (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9"
@@ -2686,6 +2794,24 @@
       "duration_ms": 198068,
       "name": "Lies Lies Lies",
       "url": "https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5"
+    },
+    {
+      "album": {
+        "name": "Ligstraal",
+        "url": "https://open.spotify.com/album/5M7lEMHKVeIjr3yOjRBunz"
+      },
+      "artists": [
+        {
+          "name": "The Betsies",
+          "url": "https://open.spotify.com/artist/5tlt3GLE9ow6E9H8Z40VQN"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279293,
+      "name": "Ligstraal",
+      "url": "https://open.spotify.com/track/6vmfYFdK8NbNPWJvd91iNb"
     },
     {
       "album": {
@@ -3499,6 +3625,24 @@
     },
     {
       "album": {
+        "name": "Rain On Me",
+        "url": "https://open.spotify.com/album/6mxXfX5VwC2x6sLXaaOLJE"
+      },
+      "artists": [
+        {
+          "name": "BlackByrd",
+          "url": "https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208421,
+      "name": "Rain On Me",
+      "url": "https://open.spotify.com/track/109zzm19jWy5QiAVBTIYN0"
+    },
+    {
+      "album": {
         "name": "Rattlesnake Preacher",
         "url": "https://open.spotify.com/album/1q9e07RjP19r0MCJSAsYUj"
       },
@@ -3546,7 +3690,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 236055,
       "name": "Remember Him That Way",
       "url": "https://open.spotify.com/track/1YvT4ml5LQM8ZYcLvqsAkD"
@@ -3720,6 +3864,24 @@
       "duration_ms": 202560,
       "name": "She Hurts Like Tequila",
       "url": "https://open.spotify.com/track/0STyXMnPEAN9Y8F2AB2W3L"
+    },
+    {
+      "album": {
+        "name": "She Knows",
+        "url": "https://open.spotify.com/album/2UT2KB5E6e1Gnv7bwIrMoQ"
+      },
+      "artists": [
+        {
+          "name": "Glen Rozi",
+          "url": "https://open.spotify.com/artist/6Liu3EYo1uZ0lSaolz8y7n"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167076,
+      "name": "She Knows",
+      "url": "https://open.spotify.com/track/30UDPxDLTxPUb4JAx7eil0"
     },
     {
       "album": {
@@ -4126,7 +4288,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 209417,
       "name": "Stay in Your Lane",
       "url": "https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd"
@@ -4382,7 +4544,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 219883,
       "name": "To Be A Man (feat. Darius Rucker)",
       "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
@@ -5072,7 +5234,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 220157,
       "name": "You Had To Be There (feat. Kenny Chesney)",
       "url": "https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb"

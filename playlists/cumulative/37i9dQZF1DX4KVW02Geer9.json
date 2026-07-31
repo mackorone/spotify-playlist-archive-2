@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u5e02\u5ddd\u7a7a",
+  "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: DOMi & JD BECK",
   "name": "X-Over \u30b8\u30e3\u30ba!",
   "tracks": [
     {
@@ -3055,6 +3055,24 @@
     },
     {
       "album": {
+        "name": "WHO ASKED?",
+        "url": "https://open.spotify.com/album/3nehlgwYexH9ovS9fohKs1"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "EXiT",
+      "url": "https://open.spotify.com/track/4KyoBJTAQY13ZYsm6N7wO0"
+    },
+    {
+      "album": {
         "name": "extra cinnamon please",
         "url": "https://open.spotify.com/album/0bGCtnxqndcee39hi7PPoS"
       },
@@ -5820,6 +5838,24 @@
       "duration_ms": 182000,
       "name": "Lenha Na Fogueira",
       "url": "https://open.spotify.com/track/1NID0KmcpFGbV9muWTc6ef"
+    },
+    {
+      "album": {
+        "name": "Les Fleurs",
+        "url": "https://open.spotify.com/album/65G0cgLf48rPAtl9GmZEec"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u5ddd\u7d05\u5948",
+          "url": "https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312930,
+      "name": "Les Fleurs",
+      "url": "https://open.spotify.com/track/5qZlBTwuQDR2FUB6cWQeDY"
     },
     {
       "album": {
@@ -9108,6 +9144,24 @@
       "duration_ms": 250079,
       "name": "Silent Dancer",
       "url": "https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG"
+    },
+    {
+      "album": {
+        "name": "Silvershoes",
+        "url": "https://open.spotify.com/album/4r5ig3cOxRwjCDLz94VEgx"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157136,
+      "name": "Silvershoes",
+      "url": "https://open.spotify.com/track/7ep0wpZD1S5dWhPaQeMBeY"
     },
     {
       "album": {

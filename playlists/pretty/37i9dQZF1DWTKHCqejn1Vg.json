@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34700,
+  "num_followers": 34701,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIrFo04ns9TyzuEB4WUYEXfWkiyc",
+  "snapshot_id": "AAAAAKwOlhEN6osIAN9oBCGsmkce6A15",
   "tracks": [
     {
       "added_at": "2026-06-29 08:23:18",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-06-29 08:23:18",
       "album": {
-        "name": "TR.EE",
-        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Overflow",
-      "url": "https://open.spotify.com/track/5fUO9bchmVIyee8JEGKnKj"
-    },
-    {
-      "added_at": "2026-06-29 08:23:18",
-      "album": {
         "name": "Flip",
         "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 185893,
       "name": "Rendezvous",
       "url": "https://open.spotify.com/track/4Z2mXXSzuCDEHZtFGmy0X5"
+    },
+    {
+      "added_at": "2026-06-29 08:23:18",
+      "album": {
+        "name": "TR.EE",
+        "url": "https://open.spotify.com/album/2yrZF5spBs5ltr8LIe2nJA"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Overflow",
+      "url": "https://open.spotify.com/track/5fUO9bchmVIyee8JEGKnKj"
     },
     {
       "added_at": "2026-06-29 08:23:18",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-06-29 08:23:18",
       "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4"
-    },
-    {
-      "added_at": "2026-06-29 08:23:18",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 185729,
       "name": "Pick up your phone (Feat. MOON)",
       "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
+    },
+    {
+      "added_at": "2026-06-29 08:23:18",
+      "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4"
     },
     {
       "added_at": "2026-06-29 08:23:18",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2026-06-29 08:23:18",
       "album": {
-        "name": "WHAT HAVE WE DONE",
-        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "ERYKAH BADU (Feat. CAMO)",
-      "url": "https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O"
-    },
-    {
-      "added_at": "2026-06-29 08:23:18",
-      "album": {
         "name": "Crush on You",
         "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 222860,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/7J28iQgZUf4sCfGKRFUazO"
+    },
+    {
+      "added_at": "2026-06-29 08:23:18",
+      "album": {
+        "name": "WHAT HAVE WE DONE",
+        "url": "https://open.spotify.com/album/4zZWJyAbApju1SeHQrCLnT"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "ERYKAH BADU (Feat. CAMO)",
+      "url": "https://open.spotify.com/track/5Ovvat3uPyNMFKPO63fD3O"
     },
     {
       "added_at": "2026-06-29 08:23:18",

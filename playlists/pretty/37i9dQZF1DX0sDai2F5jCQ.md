@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Lil Baby
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,150 likes - 76 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,144 likes - 76 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 75 | [Figure It Out Pt\. 2](https://open.spotify.com/track/4t0WjbUt3DuM9lYfPvPBZt) | [JKER](https://open.spotify.com/artist/1xiqG6r14RglSrPNOBLUUw), [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X), [Krypsis](https://open.spotify.com/artist/6znlmp2DyDUPbri27Us7Ab) | [Game Over](https://open.spotify.com/album/506VK9Z11vLpZ1msS5ETu4) | 2:28 |
 | 76 | [Problems](https://open.spotify.com/track/7dORj96n085LkNeFJcqpP4) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Problems](https://open.spotify.com/album/2wcAjd76Lqfa05twein279) | 3:15 |
 
-Snapshot ID: `AAAAAIqF+jfr4IQ5rd9ddasvP04Jk+4L`
+Snapshot ID: `AAAAAL9e6bwL5wTDlsO/Cc7MceZAhUqf`

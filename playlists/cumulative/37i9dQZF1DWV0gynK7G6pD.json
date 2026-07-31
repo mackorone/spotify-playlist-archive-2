@@ -121173,6 +121173,36 @@
     },
     {
       "album": {
+        "name": "Samuel Adams: First Work: II. The First Word",
+        "url": "https://open.spotify.com/album/0Th4wihOAIpehBgxLV6hmu"
+      },
+      "artists": [
+        {
+          "name": "Samuel Adams",
+          "url": "https://open.spotify.com/artist/6fooVceycsdYmxRMyc7UUU"
+        },
+        {
+          "name": "Aspen Contemporary Ensemble",
+          "url": "https://open.spotify.com/artist/29wL6TPn3POvt9dZp8tAdz"
+        },
+        {
+          "name": "Melanie Spector",
+          "url": "https://open.spotify.com/artist/4hem5j5dvTUTS9O2mH80L6"
+        },
+        {
+          "name": "Timothy Weiss",
+          "url": "https://open.spotify.com/artist/1IVvmNcUKbIv8l4HQb5h89"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404973,
+      "name": "First Work: II. The First Word",
+      "url": "https://open.spotify.com/track/6sFC3pcsf65qFeX2ps3GB3"
+    },
+    {
+      "album": {
         "name": "Portfolio",
         "url": "https://open.spotify.com/album/0yTWb8Ss4Kx8UNHTRkCOkj"
       },

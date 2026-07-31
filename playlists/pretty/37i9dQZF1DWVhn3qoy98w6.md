@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Juan Anselmo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,092 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,094 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Mi odio para el bien común](https://open.spotify.com/track/55CwDJQl6bbI9CJMPPzRMy) | [Técnicas y Procedimientos](https://open.spotify.com/artist/7zSpEAeV9StUa2heFItReM) | [Mi odio para el bien común](https://open.spotify.com/album/6g1jlKOWbGL1MfhnyCvCnu) | 2:27 |
 | 50 | [MEJOR QUE YO \(Acto I: Leviatán\)](https://open.spotify.com/track/0hnR8D0MFxHe74ZT3hWgky) | [st\. PAVLO](https://open.spotify.com/artist/2OPWBFqZpn9A45V0r0nj1K) | [MEJOR QUE YO \(Acto I: Leviatán\)](https://open.spotify.com/album/0HXxgj4mR748H6qZBQwBjB) | 2:21 |
 
-Snapshot ID: `AAAAAAcpzYE4c6nzFO3cQNitoGBfemNR`
+Snapshot ID: `AAAAAK+gQjZ3W0TZSfGrMgUDjXEmo7jv`

@@ -1,12 +1,12 @@
 {
   "description": "where future beats meet timeless soul.\n",
-  "num_followers": 377067,
+  "num_followers": 377075,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABjqf0RxFQe5PzfIqhiP/8fTQFFo",
+  "snapshot_id": "AAAAAKjcJ4YrDTii0cML0O0jLgTCzF43",
   "tracks": [
     {
       "added_at": "2026-07-09 16:18:31",
@@ -31,6 +31,22 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
+        "name": "In This Darkness",
+        "url": "https://open.spotify.com/album/1mDPBagNyFaAuiTT7kUJBQ"
+      },
+      "artists": [
+        {
+          "name": "Clara La San",
+          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "In This Darkness",
+      "url": "https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
-        "name": "In This Darkness",
-        "url": "https://open.spotify.com/album/1mDPBagNyFaAuiTT7kUJBQ"
-      },
-      "artists": [
-        {
-          "name": "Clara La San",
-          "url": "https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "In This Darkness",
-      "url": "https://open.spotify.com/track/0bmVH05tjN9jVh3kB1TfpR"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Elm",
-        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
-      },
-      "artists": [
-        {
-          "name": "Dusky",
-          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
-        }
-      ],
-      "duration_ms": 227358,
-      "name": "Elm",
-      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "dear dialE",
         "url": "https://open.spotify.com/album/5MuPJGunKGoiPi0NYqiqIE"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 115041,
       "name": "AOT",
       "url": "https://open.spotify.com/track/2BAcbnk7JMYspiJip31953"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Elm",
+        "url": "https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB"
+      },
+      "artists": [
+        {
+          "name": "Dusky",
+          "url": "https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu"
+        }
+      ],
+      "duration_ms": 227358,
+      "name": "Elm",
+      "url": "https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -747,26 +747,18 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
+        "name": "Curses Broken",
+        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
       },
       "artists": [
         {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
         }
       ],
-      "duration_ms": 284573,
-      "name": "Impact (feat. Robyn & Channel Tres)",
-      "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
+      "duration_ms": 277838,
+      "name": "Better Let It Go",
+      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -791,18 +783,26 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Curses Broken",
-        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
       "artists": [
         {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 277838,
-      "name": "Better Let It Go",
-      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
+      "duration_ms": 284573,
+      "name": "Impact (feat. Robyn & Channel Tres)",
+      "url": "https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "WHODIS",
-        "url": "https://open.spotify.com/album/3JpVOhwlOGS1XZzzJquq4L"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 133356,
-      "name": "WHODIS",
-      "url": "https://open.spotify.com/track/4yv2tvrIDRiIwNG0G8eVzr"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "WHODIS",
+        "url": "https://open.spotify.com/album/3JpVOhwlOGS1XZzzJquq4L"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 133356,
+      "name": "WHODIS",
+      "url": "https://open.spotify.com/track/4yv2tvrIDRiIwNG0G8eVzr"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -975,6 +975,30 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
+      },
+      "artists": [
+        {
+          "name": "Sensur\u00e9",
+          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
+        },
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        },
+        {
+          "name": "Rastreep",
+          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
+        }
+      ],
+      "duration_ms": 166909,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
         "name": "Found a Love",
         "url": "https://open.spotify.com/album/4LyVO28zn4WX0WqUIO4reG"
       },
@@ -991,6 +1015,26 @@
       "duration_ms": 235149,
       "name": "Found a Love",
       "url": "https://open.spotify.com/track/6OqBgRsLpDwn5XtXddAG3B"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "Fantasy (feat. Franc Moody)",
+        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 212922,
+      "name": "Fantasy (feat. Franc Moody)",
+      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1019,50 +1063,6 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Fantasy (feat. Franc Moody)",
-        "url": "https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 212922,
-      "name": "Fantasy (feat. Franc Moody)",
-      "url": "https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/4At5TGxv4cu0CCj5wcItia"
-      },
-      "artists": [
-        {
-          "name": "Sensur\u00e9",
-          "url": "https://open.spotify.com/artist/7q5Ts0GQ7rTUmx8I5WSCYm"
-        },
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        },
-        {
-          "name": "Rastreep",
-          "url": "https://open.spotify.com/artist/28AQ0xmVq80qpvXyXwulTw"
-        }
-      ],
-      "duration_ms": 166909,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0GfuStA0KqawkDglVRJ3ne"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
         "name": "Promises (feat. Rochelle Jordan)",
         "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
       },
@@ -1079,30 +1079,6 @@
       "duration_ms": 208375,
       "name": "Promises (feat. Rochelle Jordan)",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/6lMuIxKOuMJHzJ5aivcvge"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Carmy Love",
-          "url": "https://open.spotify.com/artist/62oPJocZP6ReE9tuvjaa1t"
-        },
-        {
-          "name": "Tommy Peach",
-          "url": "https://open.spotify.com/artist/0pAMM7OehSi8bjeTO7gfhG"
-        }
-      ],
-      "duration_ms": 228432,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/4bChVnAp7U1HdwOQuHmFfh"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1131,18 +1107,42 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Static on My Tongue",
-        "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/6lMuIxKOuMJHzJ5aivcvge"
       },
       "artists": [
         {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Carmy Love",
+          "url": "https://open.spotify.com/artist/62oPJocZP6ReE9tuvjaa1t"
+        },
+        {
+          "name": "Tommy Peach",
+          "url": "https://open.spotify.com/artist/0pAMM7OehSi8bjeTO7gfhG"
         }
       ],
-      "duration_ms": 179538,
-      "name": "Static on My Tongue",
-      "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
+      "duration_ms": 228432,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/4bChVnAp7U1HdwOQuHmFfh"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
+        "name": "DAY&NITE",
+        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
+      },
+      "artists": [
+        {
+          "name": "Wilfy D",
+          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "DAY&NITE",
+      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "DAY&NITE",
-        "url": "https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB"
+        "name": "Static on My Tongue",
+        "url": "https://open.spotify.com/album/3QQvmDnFMMUb5QLpvooIxX"
       },
       "artists": [
         {
-          "name": "Wilfy D",
-          "url": "https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR"
+          "name": "Re:um",
+          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
         }
       ],
-      "duration_ms": 205000,
-      "name": "DAY&NITE",
-      "url": "https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV"
+      "duration_ms": 179538,
+      "name": "Static on My Tongue",
+      "url": "https://open.spotify.com/track/4ucIiJKTWchQX37ik3Lx6r"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
+        "name": "Dancing While Falling",
+        "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 211590,
+      "name": "Morning Light (feat. Andreya Triana)",
+      "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
+    },
+    {
+      "added_at": "2026-07-09 16:18:31",
+      "album": {
         "name": "APRIL",
         "url": "https://open.spotify.com/album/6enVPVB1Otbs8ufah2hvgS"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 165333,
       "name": "Stars",
       "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
-    },
-    {
-      "added_at": "2026-07-09 16:18:31",
-      "album": {
-        "name": "Dancing While Falling",
-        "url": "https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 211590,
-      "name": "Morning Light (feat. Andreya Triana)",
-      "url": "https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3"
     },
     {
       "added_at": "2026-07-09 16:18:31",
@@ -1371,26 +1371,18 @@
     {
       "added_at": "2026-07-09 16:18:31",
       "album": {
-        "name": "Time & Time (feat. Demae) [IG Culture Remix]",
-        "url": "https://open.spotify.com/album/3eRJks5hFgoZnXhHlUDWt3"
+        "name": "Everything\u2019s Beautiful",
+        "url": "https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        },
-        {
-          "name": "Demae",
-          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
-        },
-        {
-          "name": "IG Culture",
-          "url": "https://open.spotify.com/artist/1aStXP3F92SgdczG1gx1Mp"
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
         }
       ],
-      "duration_ms": 320471,
-      "name": "Time & Time (feat. Demae) [IG Culture Remix]",
-      "url": "https://open.spotify.com/track/6dSffQCAJ4ZAZp3p9ZRcDA"
+      "duration_ms": 170479,
+      "name": "Everything\u2019s Beautiful",
+      "url": "https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg"
     }
   ],
   "unique_name": "Soultronic",

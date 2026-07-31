@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: Addy Nagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,678 likes - 75 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,698 likes - 75 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 66 | [Gaadi](https://open.spotify.com/track/4qLpyUDGIoL4nWcfZu3UAQ) | [Dhruv Balyaan](https://open.spotify.com/artist/1xG2KakaKLMD1hrVHryZTw), [RAIYAT](https://open.spotify.com/artist/6YyZQlMvCpzJys5x0FWOUE) | [Gaadi](https://open.spotify.com/album/5P5hmhHr03MXflZTp08tZv) | 2:51 |
 | 67 | [Big Plans](https://open.spotify.com/track/6oiR3TNT3vNRa9KbP7tTAe) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [Big Plans](https://open.spotify.com/album/7ykp48rMKqrXmUfn0dzq52) | 2:26 |
 | 68 | [Crocodile](https://open.spotify.com/track/6tYpHor1C9zwDjXkj4bLIh) | [Kalakaar](https://open.spotify.com/artist/4zuIuj8j9aOWqSyxcUilnA), [Heyy Veer](https://open.spotify.com/artist/3pOmGhSvJBhMfyh5oVxc3q) | [Crocodile](https://open.spotify.com/album/1TP1AL0wKxjzQ01SeRT8vs) | 3:38 |
-| 69 | [Raula](https://open.spotify.com/track/7txQTF636Q9OPExdhe5Ooy) | [Raag 1](https://open.spotify.com/artist/6gwSMvUSpSdzBBWQY5cPnh), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Raula](https://open.spotify.com/album/3jfTsf7XSw43x0gE0FkfHN) | 2:50 |
+| 69 | [Raula](https://open.spotify.com/track/7txQTF636Q9OPExdhe5Ooy) | [Raag1](https://open.spotify.com/artist/3LeUlF8NrqS9wEw8TsyFAf), [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3) | [Raula](https://open.spotify.com/album/3jfTsf7XSw43x0gE0FkfHN) | 2:50 |
 | 70 | [Damn F\*ck](https://open.spotify.com/track/2wYKOBgsmQCVblxlkXxxyX) | [The VIJU](https://open.spotify.com/artist/10ho8uAPRKlVcDDSHu1AZv) | [Damn F\*ck](https://open.spotify.com/album/6AJm6JTctKUjZZE9LXr87I) | 2:21 |
 | 71 | [Mexican Coke](https://open.spotify.com/track/1OJB21qBbEI81NKIf9hIti) | [CHIEF](https://open.spotify.com/artist/0t1gnA1eTYSS8YBUKigWPh), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Legacy Chapter 1, Vol\. 2](https://open.spotify.com/album/0DquwXHD2YHMYVXiZIKQA6) | 2:48 |
 | 72 | [On Top](https://open.spotify.com/track/3FksrYlwHNx6iNELDLWGB1) | [Sameer Bishnoi](https://open.spotify.com/artist/0WNkaC3UELXHohepTTVi1Q) | [On Top](https://open.spotify.com/album/1ZlgERITh1B6o80DxDIvVj) | 2:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 74 | [Thaat](https://open.spotify.com/track/0Y4sbkgLjJt9fbDzXzZR2m) | [Babbar](https://open.spotify.com/artist/47Vbz98qZ4VMTMkmKgeMbw), [Refix](https://open.spotify.com/artist/2QD7mDvWWHZmkOxtXBurr0) | [Legacy Chapter 1, Vol\. 2](https://open.spotify.com/album/0DquwXHD2YHMYVXiZIKQA6) | 2:34 |
 | 75 | [2 Ghode Drill](https://open.spotify.com/track/014lY0CwN0IhQpvmZcF0nW) | [The Chaarso Bees](https://open.spotify.com/artist/1O7GTP7OQ5sIdeOJNEJZqJ), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Preet Khatola](https://open.spotify.com/artist/1pRhht7WpowZqNR4YMtu5R), [Sihag Muzik](https://open.spotify.com/artist/04XbdTO8fkae4s1ExLeYyC), [Vaishali Chaudhary](https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq) | [2 Ghode Drill](https://open.spotify.com/album/7ynRfdMeSOa1fNHXs9yZ9b) | 3:21 |
 
-Snapshot ID: `AAAAAGQshAyhuXnwVd6uuM23/pX3B75V`
+Snapshot ID: `AAAAAGbnn0WspnAx7CEZaUWDEj2rN+V+`

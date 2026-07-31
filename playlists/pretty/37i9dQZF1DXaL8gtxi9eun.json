@@ -1,13 +1,49 @@
 {
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0625\u0644\u064a\u0633\u0627",
-  "num_followers": 282340,
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641:\u0644\u0637\u064a\u0641\u0629",
+  "num_followers": 282393,
   "original_name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPlhMR+QiTFSbUtofm2IO9mzIeAn",
+  "snapshot_id": "AAAAAJ4WWeBCleR5+NE+0lZx6DTYAqqc",
   "tracks": [
+    {
+      "added_at": "2026-07-30 21:10:27",
+      "album": {
+        "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
+        "url": "https://open.spotify.com/album/6Q6ucbijAN1s3FPZ2Z3AN7"
+      },
+      "artists": [
+        {
+          "name": "Latifa",
+          "url": "https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe"
+        }
+      ],
+      "duration_ms": 217078,
+      "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
+      "url": "https://open.spotify.com/track/6cf3F66Q2Y5Sty4BVElQoc"
+    },
+    {
+      "added_at": "2026-07-30 21:10:27",
+      "album": {
+        "name": "Keda Keda",
+        "url": "https://open.spotify.com/album/7dJHHdpAT4X6XM40MgjklB"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        },
+        {
+          "name": "Judy Ahmed Saad",
+          "url": "https://open.spotify.com/artist/3h2b6sDomoUhwGjvhHROF0"
+        }
+      ],
+      "duration_ms": 193149,
+      "name": "Keda Keda",
+      "url": "https://open.spotify.com/track/1svLqzWG6vKf00O8nbtRWO"
+    },
     {
       "added_at": "2026-07-27 13:38:20",
       "album": {
@@ -871,22 +907,6 @@
       "duration_ms": 218823,
       "name": "Ala Fen",
       "url": "https://open.spotify.com/track/39qK2uLE92BCmZmirN089P"
-    },
-    {
-      "added_at": "2026-07-22 17:41:11",
-      "album": {
-        "name": "\u0628\u062a\u0648\u062d\u0634\u064a\u0646\u064a",
-        "url": "https://open.spotify.com/album/3i7164QmeNFB6z6hxH1rlq"
-      },
-      "artists": [
-        {
-          "name": "Umar Diaa",
-          "url": "https://open.spotify.com/artist/4VBsKBm5pCJ9FYIhSk7mmR"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "\u0628\u062a\u0648\u062d\u0634\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/0wOlCignkHTKvv8WgqMyva"
     }
   ],
   "unique_name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",

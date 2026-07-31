@@ -1,12 +1,12 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 93374,
+  "num_followers": 93381,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJeDvEIvIag87x0QOKRwWLWkjAHe",
+  "snapshot_id": "AAAAAM3KRTf9M88sk3YSRIfz1GjQl0mA",
   "tracks": [
     {
       "added_at": "2026-07-17 06:00:21",
@@ -267,30 +267,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Millonari",
-        "url": "https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio"
-      },
-      "artists": [
-        {
-          "name": "Fito Silva",
-          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
-        },
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "Millonari",
-      "url": "https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "3some",
         "url": "https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K"
       },
@@ -311,6 +287,30 @@
       "duration_ms": 162461,
       "name": "3some",
       "url": "https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "Millonari",
+        "url": "https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio"
+      },
+      "artists": [
+        {
+          "name": "Fito Silva",
+          "url": "https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Millonari",
+      "url": "https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -779,22 +779,18 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Te Llevo A D\u00f3nde Quieras",
-        "url": "https://open.spotify.com/album/4Xl7jqz3vr2eNjxaQDh3G9"
+        "name": "sobrio",
+        "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
       },
       "artists": [
         {
-          "name": "8Uno",
-          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
-        },
-        {
-          "name": "Victor Rivera Y Su Nuevo Estilo",
-          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+          "name": "sobresdylan",
+          "url": "https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL"
         }
       ],
-      "duration_ms": 144098,
-      "name": "Te Llevo A D\u00f3nde Quieras",
-      "url": "https://open.spotify.com/track/59LU3KyaBPQohgDdaHL58Q"
+      "duration_ms": 240687,
+      "name": "besos de esquimal",
+      "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -815,22 +811,6 @@
       "duration_ms": 255605,
       "name": "Tempestad",
       "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
-        "name": "sobrio",
-        "url": "https://open.spotify.com/album/3KX8pZkvemWmxWpi4gIKpY"
-      },
-      "artists": [
-        {
-          "name": "sobresdylan",
-          "url": "https://open.spotify.com/artist/0SbzkSf8x2ilpGurk6IIxL"
-        }
-      ],
-      "duration_ms": 240687,
-      "name": "besos de esquimal",
-      "url": "https://open.spotify.com/track/6yTjkPMy3fxKhD6fCwqMIt"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -863,18 +843,22 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Cereza",
-        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
+        "name": "Te Llevo A D\u00f3nde Quieras",
+        "url": "https://open.spotify.com/album/4Xl7jqz3vr2eNjxaQDh3G9"
       },
       "artists": [
         {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+          "name": "8Uno",
+          "url": "https://open.spotify.com/artist/1gU9Z8jrVFnrCBauoWv2Eh"
+        },
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
         }
       ],
-      "duration_ms": 198150,
-      "name": "Cereza",
-      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
+      "duration_ms": 144098,
+      "name": "Te Llevo A D\u00f3nde Quieras",
+      "url": "https://open.spotify.com/track/59LU3KyaBPQohgDdaHL58Q"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -899,22 +883,18 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "Llegan Y Se Van",
-        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
+        "name": "Cereza",
+        "url": "https://open.spotify.com/album/7cLLmRt2PwNs66wbjtuxiR"
       },
       "artists": [
         {
-          "name": "Low Clika",
-          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
-        },
-        {
-          "name": "Santiago Martell",
-          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
         }
       ],
-      "duration_ms": 149652,
-      "name": "Llegan Y Se Van",
-      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
+      "duration_ms": 198150,
+      "name": "Cereza",
+      "url": "https://open.spotify.com/track/2VGS9wYeryfMENNEbdD2jy"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -931,6 +911,26 @@
       "duration_ms": 224416,
       "name": "Encu\u00e9ntrame en Tokio",
       "url": "https://open.spotify.com/track/73tjbiUCCJjmhKOxIpE5eh"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "Llegan Y Se Van",
+        "url": "https://open.spotify.com/album/06Wlr8IqqlIz3v0f2XfHs7"
+      },
+      "artists": [
+        {
+          "name": "Low Clika",
+          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
+        },
+        {
+          "name": "Santiago Martell",
+          "url": "https://open.spotify.com/artist/05Z9RnHGEZ1iXrK4PDAtQl"
+        }
+      ],
+      "duration_ms": 149652,
+      "name": "Llegan Y Se Van",
+      "url": "https://open.spotify.com/track/1Yuie40vJy35rA62TaVSAB"
     },
     {
       "added_at": "2026-07-17 06:00:21",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-07-17 06:00:21",
       "album": {
-        "name": "S\u00daPLICA",
-        "url": "https://open.spotify.com/album/6nRCtnVuAHAPiRhzqdYml2"
-      },
-      "artists": [
-        {
-          "name": "El Toed",
-          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
-        }
-      ],
-      "duration_ms": 207969,
-      "name": "S\u00daPLICA",
-      "url": "https://open.spotify.com/track/5kGoUV4bKVtMIDlmWMpWp4"
-    },
-    {
-      "added_at": "2026-07-17 06:00:21",
-      "album": {
         "name": "TUTSI POP",
         "url": "https://open.spotify.com/album/3vqJfqqfMdLOf8HJLeLGbJ"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 202823,
       "name": "TUTSI POP",
       "url": "https://open.spotify.com/track/3sxd645fkfmfUrXQuAPkQK"
+    },
+    {
+      "added_at": "2026-07-17 06:00:21",
+      "album": {
+        "name": "S\u00daPLICA",
+        "url": "https://open.spotify.com/album/6nRCtnVuAHAPiRhzqdYml2"
+      },
+      "artists": [
+        {
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+        }
+      ],
+      "duration_ms": 207969,
+      "name": "S\u00daPLICA",
+      "url": "https://open.spotify.com/track/5kGoUV4bKVtMIDlmWMpWp4"
     },
     {
       "added_at": "2026-07-17 06:00:21",

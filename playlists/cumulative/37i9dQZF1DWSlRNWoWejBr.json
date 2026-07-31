@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 129391,
       "name": "Cala Boca Piranha",
       "url": "https://open.spotify.com/track/3uBSb9wxFGw70OKkAUcCZ0"
@@ -2770,7 +2770,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 357120,
       "name": "Di\u00e1rio de um Cafajeste",
       "url": "https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p"
@@ -2852,7 +2852,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 150235,
       "name": "Ela Da Palinha",
       "url": "https://open.spotify.com/track/2BljcPsC7dVt5byRi7XUEm"
@@ -3042,7 +3042,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 214204,
       "name": "Ela \u00c9 Malandra",
       "url": "https://open.spotify.com/track/3GWevQdZOAHyFKGh7mqGis"
@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 154723,
       "name": "Eu Sou Prostituto",
       "url": "https://open.spotify.com/track/3Xn3cA0YZkudyNjkRK4f8q"
@@ -3388,7 +3388,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 162528,
       "name": "Eu sou prostituto - Bolha do catucad\u00e3o",
       "url": "https://open.spotify.com/track/6wg9oQ055KTynFmkqc05yS"
@@ -3526,6 +3526,40 @@
       "duration_ms": 113538,
       "name": "Eu Vou Dan\u00e7ando Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/3wDxeVA7WvPEe6MO1jIgxm"
+    },
+    {
+      "album": {
+        "name": "EU VOU PRO BAILE EU VOU PRO BEGA ( HEAR ME NOW ) [Remix]",
+        "url": "https://open.spotify.com/album/6n8j32H80dInKj0P8uJf86"
+      },
+      "artists": [
+        {
+          "name": "Mc Sapinha",
+          "url": "https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM"
+        },
+        {
+          "name": "Germam",
+          "url": "https://open.spotify.com/artist/6uZU6k0psEOGVc11rfKeJO"
+        },
+        {
+          "name": "DJ TIT\u00cd OFICIAL",
+          "url": "https://open.spotify.com/artist/0hhuWXnDOhe2ByXnLJGjXZ"
+        },
+        {
+          "name": "DJ \u00cdcaro",
+          "url": "https://open.spotify.com/artist/0mlestncfr3gekLiX7JY69"
+        },
+        {
+          "name": "MC Caio Da Bds",
+          "url": "https://open.spotify.com/artist/483ElhcNdNHqHeVGKwHc9x"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "EU VOU PRO BAILE EU VOU PRO BEGA ( HEAR ME NOW ) - Remix",
+      "url": "https://open.spotify.com/track/1qpxO9cxJyahNkwOBwI3XT"
     },
     {
       "album": {
@@ -3738,7 +3772,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 149333,
       "name": "Faz assim",
       "url": "https://open.spotify.com/track/0hB6UKgc3iKTphmGuWpNOg"
@@ -3970,6 +4004,32 @@
     {
       "album": {
         "name": "Fuma\u00e7a do ice",
+        "url": "https://open.spotify.com/album/6G628kxNBhW7lPVKjKEtFp"
+      },
+      "artists": [
+        {
+          "name": "Mc Menor Rf",
+          "url": "https://open.spotify.com/artist/5rAM4fmlKnxhoAOy04AROC"
+        },
+        {
+          "name": "Mc Vit\u00e3o do Sr",
+          "url": "https://open.spotify.com/artist/7iNTDbHwxTyYxCr5JbhBQC"
+        },
+        {
+          "name": "DJ GUIZIN DA SERRA",
+          "url": "https://open.spotify.com/artist/4PW52baZsb4808PBbSn2a7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224076,
+      "name": "Fuma\u00e7a do ice",
+      "url": "https://open.spotify.com/track/6bYHka6sRwtHRWSTZRCxPU"
+    },
+    {
+      "album": {
+        "name": "Fuma\u00e7a do ice",
         "url": "https://open.spotify.com/album/2XHcLmoIirhNYq8mWB9zGm"
       },
       "artists": [
@@ -4132,7 +4192,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 114461,
       "name": "GOSTA DE GOLD, GOSTA DE ICE, E DE CACHORRADA",
       "url": "https://open.spotify.com/track/6uJSjM7ICmHQQb9Y3rW8eY"
@@ -4534,6 +4594,28 @@
       "duration_ms": 169946,
       "name": "Joga o Cabelo X Senta e Kika",
       "url": "https://open.spotify.com/track/1ugJGxRYxuQtFoKsAZ91zu"
+    },
+    {
+      "album": {
+        "name": "Jontex (fuma\u00e7a do ice)",
+        "url": "https://open.spotify.com/album/6zIyY5NUxkrwVffDoCTLFc"
+      },
+      "artists": [
+        {
+          "name": "Mc Menor Rf",
+          "url": "https://open.spotify.com/artist/5rAM4fmlKnxhoAOy04AROC"
+        },
+        {
+          "name": "DJ GUIZIN DA SERRA",
+          "url": "https://open.spotify.com/artist/4PW52baZsb4808PBbSn2a7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164769,
+      "name": "Jontex (fuma\u00e7a do ice)",
+      "url": "https://open.spotify.com/track/7t1RoJiMrSZEkUjFmMP10x"
     },
     {
       "album": {
@@ -5450,7 +5532,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 149538,
       "name": "MEGA DO COQUEIRO",
       "url": "https://open.spotify.com/track/2jxa0nJSol9eSTil3SB13o"
@@ -5550,7 +5632,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 150444,
       "name": "MEGA FOLDED",
       "url": "https://open.spotify.com/track/1iL0MgcowqFnSVIUftQ313"
@@ -5798,7 +5880,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 172386,
       "name": "Mel\u00f4 De Poucas Ideias - Reggae Funk",
       "url": "https://open.spotify.com/track/4f6FcFtp2R5laib20lY51l"
@@ -5870,6 +5952,44 @@
       "duration_ms": 324923,
       "name": "Menor Neurose",
       "url": "https://open.spotify.com/track/1UD90xfJvPlRe4mRryjQCc"
+    },
+    {
+      "album": {
+        "name": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
+        "url": "https://open.spotify.com/album/0w8Phtwh4NyFUApTSAQQDL"
+      },
+      "artists": [
+        {
+          "name": "dj andreoli",
+          "url": "https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa"
+        },
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "ZANOLINI",
+          "url": "https://open.spotify.com/artist/1wMfs3UxnvluH33Wfgieuc"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234461,
+      "name": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
+      "url": "https://open.spotify.com/track/5ooFbBHL6xleehCpWACc9M"
     },
     {
       "album": {
@@ -6288,7 +6408,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 169850,
       "name": "MONTAGEM CAMERA LENTA",
       "url": "https://open.spotify.com/track/6YAK1Sle1Wl7jOurqwWCfh"
@@ -7496,7 +7616,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 181153,
       "name": "Na Casa de Praia",
       "url": "https://open.spotify.com/track/2hmjVKQej0SBzsj9fH0mqi"
@@ -7768,7 +7888,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 99697,
       "name": "Novamente Trombei uma Novinha",
       "url": "https://open.spotify.com/track/37Wbs9IIxGvAx8OUqdo7WA"
@@ -7824,6 +7944,32 @@
       "duration_ms": 135692,
       "name": "Novinha Patricinha",
       "url": "https://open.spotify.com/track/17OVoKYoyVlIl8HtrdVDUH"
+    },
+    {
+      "album": {
+        "name": "Novinha Safadinha",
+        "url": "https://open.spotify.com/album/5pjHh6DXH7w2YkTCWUrb4d"
+      },
+      "artists": [
+        {
+          "name": "Os Gemeos da Putaria",
+          "url": "https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs"
+        },
+        {
+          "name": "MC P\u00e2nico",
+          "url": "https://open.spotify.com/artist/21Pr1Vuj2NjgXiwKpuecrr"
+        },
+        {
+          "name": "MC LORIN DA ZL",
+          "url": "https://open.spotify.com/artist/24L3YrvlTuAzCPmZyiLTWS"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Novinha Safadinha",
+      "url": "https://open.spotify.com/track/5SqHCUl2HL3xu0CmqZaE7Y"
     },
     {
       "album": {
@@ -8046,7 +8192,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 149911,
       "name": "O QUE TU QUER?",
       "url": "https://open.spotify.com/track/0INAfXEmfn4LwXPGka1Teo"
@@ -9153,6 +9299,32 @@
     },
     {
       "album": {
+        "name": "QUANDO EU TOMO GIN DE 10",
+        "url": "https://open.spotify.com/album/1eIo5NbmShn4lpkZTZDFg5"
+      },
+      "artists": [
+        {
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        },
+        {
+          "name": "MC NINA",
+          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
+        },
+        {
+          "name": "MITOS ENTRETENIMENTO",
+          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167999,
+      "name": "QUANDO EU TOMO GIN DE 10",
+      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG"
+    },
+    {
+      "album": {
         "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
         "url": "https://open.spotify.com/album/0fCdf2W6IcPdWaFceqJMLo"
       },
@@ -9176,7 +9348,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 176400,
       "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
       "url": "https://open.spotify.com/track/4YQ37NPJlIUMFo8Kq51heS"
@@ -10143,6 +10315,56 @@
     },
     {
       "album": {
+        "name": "Se Eu Ficar P\u00e1 Nem Me Testa",
+        "url": "https://open.spotify.com/album/38i95ORfKR8Y2SSogvgRru"
+      },
+      "artists": [
+        {
+          "name": "Mc J9",
+          "url": "https://open.spotify.com/artist/1nVTS3NgM1cSNSUMr0dY0M"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "Menor Richard",
+          "url": "https://open.spotify.com/artist/270oVXkThAqFNaoF7vLpNq"
+        },
+        {
+          "name": "Mc Alan JR",
+          "url": "https://open.spotify.com/artist/4voeR0cGWvsKmL0CZyonAj"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407804,
+      "name": "Se Eu Ficar P\u00e1 Nem Me Testa",
+      "url": "https://open.spotify.com/track/7wfHnTinwOLmYktsMZz3bo"
+    },
+    {
+      "album": {
         "name": "Se Saudade Sentir (Se Prepara 3)",
         "url": "https://open.spotify.com/album/5APsVdTA5JWdzyGT9pmWKi"
       },
@@ -10934,7 +11156,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 121846,
       "name": "Submundo Bail\u00e3o",
       "url": "https://open.spotify.com/track/2Av6ghr9BqFzdnO9SXqjQT"

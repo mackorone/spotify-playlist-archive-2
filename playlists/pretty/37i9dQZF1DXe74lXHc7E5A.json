@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Drake",
-  "num_followers": 45497,
+  "num_followers": 45506,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMZe1Rc1Iw3qFZPG3nIxEReNCYs0",
+  "snapshot_id": "AAAAAHybF1pv2Q1GKhHSi55IqFPOHk0a",
   "tracks": [
     {
       "added_at": "2026-07-24 00:01:45",
@@ -571,6 +571,26 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
+        "name": "REVIVAL",
+        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 240301,
+      "name": "No Level",
+      "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/34b2JCGkaXuPeYZk1FB4SR"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 211885,
       "name": "Moviestar",
       "url": "https://open.spotify.com/track/4kmGiR8yUvjlf94arvTFLy"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
-        "name": "then 1t g0t crazier",
-        "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 129079,
-      "name": "Idansk1 tw0",
-      "url": "https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA"
     },
     {
       "added_at": "2026-07-24 00:01:45",
@@ -663,6 +663,26 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
+        "name": "then 1t g0t crazier",
+        "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
+      },
+      "artists": [
+        {
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 129079,
+      "name": "Idansk1 tw0",
+      "url": "https://open.spotify.com/track/6aDv5y2OZveHtZ5le8ExAA"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
         "name": "Redemption Valley",
         "url": "https://open.spotify.com/album/5yrqs9rxblxjsZL7FEniJw"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 165981,
       "name": "Yawa (Hosanna)",
       "url": "https://open.spotify.com/track/6z8ar5d1V3YMtpa5KBWIAP"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
-        "name": "REVIVAL",
-        "url": "https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 240301,
-      "name": "No Level",
-      "url": "https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG"
     },
     {
       "added_at": "2026-07-24 00:01:45",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
+        "name": "Ise Oluwa",
+        "url": "https://open.spotify.com/album/5CPCGLYsm34DMldgedz6de"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+        }
+      ],
+      "duration_ms": 134896,
+      "name": "Ise Oluwa",
+      "url": "https://open.spotify.com/track/640JNqmCoELpUVGPGZ1OeV"
+    },
+    {
+      "added_at": "2026-07-24 00:01:45",
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/4rrc4bpJQTBYksOfoq7jaD"
       },
@@ -739,18 +755,22 @@
     {
       "added_at": "2026-07-24 00:01:45",
       "album": {
-        "name": "Ise Oluwa",
-        "url": "https://open.spotify.com/album/5CPCGLYsm34DMldgedz6de"
+        "name": "Yeye Talk",
+        "url": "https://open.spotify.com/album/0FaWSXVGY8ZDsJgHyyk6Ug"
       },
       "artists": [
         {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr"
+          "name": "Zaylevelten",
+          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
+        },
+        {
+          "name": "Thisizlondon",
+          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
         }
       ],
-      "duration_ms": 134896,
-      "name": "Ise Oluwa",
-      "url": "https://open.spotify.com/track/640JNqmCoELpUVGPGZ1OeV"
+      "duration_ms": 125217,
+      "name": "Yeye Talk",
+      "url": "https://open.spotify.com/track/1DEl9eFVBBRD9YuICnJ4QE"
     },
     {
       "added_at": "2026-07-24 00:01:45",
@@ -807,26 +827,6 @@
       "duration_ms": 328085,
       "name": "Fela In Versace",
       "url": "https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3"
-    },
-    {
-      "added_at": "2026-07-24 00:01:45",
-      "album": {
-        "name": "Yeye Talk",
-        "url": "https://open.spotify.com/album/0FaWSXVGY8ZDsJgHyyk6Ug"
-      },
-      "artists": [
-        {
-          "name": "Zaylevelten",
-          "url": "https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH"
-        },
-        {
-          "name": "Thisizlondon",
-          "url": "https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "Yeye Talk",
-      "url": "https://open.spotify.com/track/1DEl9eFVBBRD9YuICnJ4QE"
     },
     {
       "added_at": "2026-07-24 00:01:45",

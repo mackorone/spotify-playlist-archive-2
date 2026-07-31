@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 347 likes - 2,514 songs - 6 day 3 hr 53 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 347 likes - 2,516 songs - 6 day 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2522,5 +2522,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2512 | [convenient](https://open.spotify.com/track/1BXDjv5BqlC52TrjKfnP0y) | [RINNIE](https://open.spotify.com/artist/2d6vYkXPElcFB8XVtt1eI3) | [convenient](https://open.spotify.com/album/6UMpZ0ihDKy9tkC2353r0K) | 4:20 |
 | 2513 | [Don't Say Goodbye](https://open.spotify.com/track/6DtJ6Nyuhr50ooAAnzeQUP) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Don't Say Goodbye](https://open.spotify.com/album/6rZrZwQZpy20yw9RoEfnlY) | 3:46 |
 | 2514 | [Melancholic Lo\-Fi \(Viral Beats for Your Sad Day\)](https://open.spotify.com/track/4kRhvuIfb8XJXLxUFqkNBo) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Melancholic Lo\-Fi \(Viral Beats for Your Sad Day\)](https://open.spotify.com/album/0mO1SOaqVHn8z8hXm01f1M) | 2:58 |
+| 2515 | [約束の地](https://open.spotify.com/track/1YR77jndeytCjluhJYX1ji) | [アニングスドラゴン](https://open.spotify.com/artist/0nbrD5mGsTeWQFyXKBSx3r) | [約束の地](https://open.spotify.com/album/5f7HkfplGdBOXjlCQlJDos) | 3:58 |
+| 2516 | [Ese Suspiro que no Calla](https://open.spotify.com/track/08OFoNJRf8lu356qzCiz6H) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Ese Suspiro que no Calla](https://open.spotify.com/album/6lvkIQORp7eYmWiLF9ANx0) | 3:25 |
 
-Snapshot ID: `AAAKqUqHv/aekzRtcN1HuhcSujyZyPxg`
+Snapshot ID: `AAAKq9QxJiIKYJd0G2rcClzGhXqKB1LP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > The official playlist for the 57th <a href="https://doveawards.com/">Dove Awards.</a> Watch the show Fri, Oct\. 9 at 7:30pm & 10pm ET on TBN & the TBN+ app\. Cover \(Host\): Tauren Wells
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,694 likes - 115 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,704 likes - 115 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 31 | [Above the Clouds](https://open.spotify.com/track/3lef4aldBsJrmIyrWKYMZJ) | [Eighteen Mile](https://open.spotify.com/artist/1A4aTqCTibvs6uQrYyeiSp) | [Above the Clouds](https://open.spotify.com/album/44pHag8GCWqwsL8KT9kTiN) | 2:53 |
 | 32 | [Broken Angels](https://open.spotify.com/track/2ZKZrxcDj3kQitLwiPzivQ) | [The Grascals](https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Broken Angels](https://open.spotify.com/album/6UyF4XPRRXIGdaOsu3X3vR) | 3:40 |
 | 33 | [Camel Train](https://open.spotify.com/track/183vqON8RL9rgPj97Eihkg) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks), [Sharon White](https://open.spotify.com/artist/53xZnUkQxNAVNqsuDlx3Rl), [Cheryl White](https://open.spotify.com/artist/6AhisR8nc8AZesic9O1IeE) | [Songs That Sing Me](https://open.spotify.com/album/4OZGAWfS1crGIclPQSGZfB) | 3:26 |
-| 34 | [I Am the One](https://open.spotify.com/track/602UK70w2PEqrm7VbeHgx8) | [Jeff Tolbert and Primitive Road](https://open.spotify.com/artist/3skKhNsbL5uZWI2Fnd6tYy) | [Heaven Is Waiting for Me](https://open.spotify.com/album/4jUKFfWVAHX5APlmQLqu6O) | 2:53 |
+| 34 | [I Am the One](https://open.spotify.com/track/602UK70w2PEqrm7VbeHgx8) | [Jeff Tolbert & Primitive Road](https://open.spotify.com/artist/3skKhNsbL5uZWI2Fnd6tYy) | [Heaven Is Waiting for Me](https://open.spotify.com/album/4jUKFfWVAHX5APlmQLqu6O) | 2:53 |
 | 35 | [Already Good \(Tasha Slide\)](https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Already Good \(Tasha Slide\)](https://open.spotify.com/album/4BW2rDX738CMDYs01BsigF) | 3:42 |
 | 36 | [imposter syndrome](https://open.spotify.com/track/6mEp0iXyD5fjI0mlC4t1mE) | [ANTHNY](https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5) | [imposter syndrome](https://open.spotify.com/album/016SROVIQh5iYQiRyuVrjG) | 3:20 |
 | 37 | [Jesus I Do \(feat\. The Clark Sisters\)](https://open.spotify.com/track/0fLwKttkpqaQDqDy8JH8Ul) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Here For It All](https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst) | 3:25 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 114 | [What An Awesome God](https://open.spotify.com/track/7MaZxIMANrgGbSZ3Bdsmwf) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 3:31 |
 | 115 | [Center \- Live At Church](https://open.spotify.com/track/42cus2MV90nh4ouEtnJdq7) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kate Serban](https://open.spotify.com/artist/4hZad7ujGLPVQi8RApNq3u) | [We Must Respond \(Deluxe\) \[Live\]](https://open.spotify.com/album/1ntjRgamsV6LiEStmovy3Y) | 10:26 |
 
-Snapshot ID: `AAAAAIg/sJgTwp7IxcE3oiIabDOn3Lve`
+Snapshot ID: `AAAAAH9Sk4SQ05nzSIHp+CdlgL3NgdsL`

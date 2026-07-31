@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal avec Chiara Savasta
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,519 likes - 64 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,526 likes - 64 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 63 | [coucou, comment ça va?](https://open.spotify.com/track/2KFgHnjoIbI2xZZjbxQMWf) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [coucou, comment ça va?](https://open.spotify.com/album/0q5h1NuPKCjq06DSz5q9T7) | 4:13 |
 | 64 | [Marathon](https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Marathon](https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj) | 2:28 |
 
-Snapshot ID: `AAAAAKtAukaIkqeD+lbz8gbn1+D+AEzZ`
+Snapshot ID: `AAAAAI6bUVKE7fmuFrg1VN9swxSqhr7w`

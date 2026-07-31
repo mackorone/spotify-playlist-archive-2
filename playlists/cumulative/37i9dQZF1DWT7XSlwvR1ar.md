@@ -4,7 +4,7 @@
 
 > Stay relaxed with these easy, laid\-back songs.
 
-471 songs - 1 day 4 hr 43 min
+472 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [Pick Me Apart](https://open.spotify.com/track/2mTeXbXicXdMxTm3K05ciA) | [Active Bird Community](https://open.spotify.com/artist/52atJIClJ4KZuYaIBLbNbH) | [Pick Me Apart](https://open.spotify.com/album/3fY5dO3gJD3uBPGkdisA0f) | 3:37 | 2019-07-29\* | 2019-10-26 |
 | [Pink Shades](https://open.spotify.com/track/0phJpVSk8DiCtbwCunGrqC) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Pink Shades](https://open.spotify.com/album/2nH8B8VWPQ6cW95QX4xbmq) | 3:26 | 2020-11-04 | 2022-07-29 |
 | [Pink Shades](https://open.spotify.com/track/3YsjOrar28TbRQAOZ7z63r) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Pink Shades](https://open.spotify.com/album/5u14nFR2NAMX1R0DslsyH9) | 3:26 | 2023-09-15 | 2024-04-06 |
+| [Ponte Vedra Sunrise](https://open.spotify.com/track/7gkUReys335e5KA5ljkpmp) | [Madison Hughes](https://open.spotify.com/artist/03rZGNLcaUYnzsTxlXpJ3F) | [Ponte Vedra Sunrise](https://open.spotify.com/album/2lCIMUfeeATX3JkUW20mDN) | 4:05 | 2026-07-31 |  |
 | [Pontiac](https://open.spotify.com/track/1dNxCqZyAl9XhIDX578usC) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Pontiac](https://open.spotify.com/album/57h6E4g2dPKQVVyTk8MJIP) | 3:06 | 2021-02-26 | 2022-07-29 |
 | [pop the placebo](https://open.spotify.com/track/0a8eRyWUFB5icN7tNRwgFr) | [Elizabeth & the Catapult](https://open.spotify.com/artist/6HzkeE2Ggi3n8zB0cX3qiR) | [pop the placebo](https://open.spotify.com/album/1FMdg3rDTUp8Dutv7djgM3) | 4:10 | 2021-01-12 | 2021-04-10 |
 | [Problem With It](https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:32 | 2022-11-25 |  |
@@ -338,7 +339,7 @@
 | [Save It For Later](https://open.spotify.com/track/2rs6UMzlu1pMGGVw60tiHm) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Save It For Later](https://open.spotify.com/album/5hLsl7NOCJPMDy4GAwaT54) | 4:21 | 2024-07-08 |  |
 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 | 2021-06-05 | 2024-04-27 |
 | [Send Me On My Way](https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [The Best Of / 20th Century Masters The Millennium Collection](https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR) | 4:21 | 2019-07-29\* | 2021-07-31 |
-| [Settling \- Acoustic](https://open.spotify.com/track/2BIH9SAyVhw8iXTIDqhPrF) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling \(Acoustic\)](https://open.spotify.com/album/4DHI2pwwCen8WIh7HdYG7J) | 3:09 | 2026-06-26 |  |
+| [Settling \- Acoustic](https://open.spotify.com/track/2BIH9SAyVhw8iXTIDqhPrF) | [Ripe](https://open.spotify.com/artist/19lQ2rJLlP71FOKESiMNJT) | [Settling \(Acoustic\)](https://open.spotify.com/album/4DHI2pwwCen8WIh7HdYG7J) | 3:09 | 2026-06-26 | 2026-07-31 |
 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 | 2022-07-18 | 2024-04-19 |
 | [Seventeen](https://open.spotify.com/track/1fWwxmWor6QbvBeLSV428F) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/3QfvzIBsZ2zbYWsNp7StMw) | 3:46 | 2019-07-29\* | 2022-07-28 |
 | [Shaky Ground](https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Shaky Ground](https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd) | 3:12 | 2019-07-29\* | 2026-02-07 |

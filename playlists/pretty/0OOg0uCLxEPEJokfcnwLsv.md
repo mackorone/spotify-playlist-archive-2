@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,194 likes - 142 songs - 8 hr 48 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,198 likes - 143 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,5 +150,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 140 | [c'mon automaton](https://open.spotify.com/track/5IhRVOxwJeCFxzSMqWTECf) | [paradiso PDE](https://open.spotify.com/artist/08rzidI7HeLZCssOCMhvsW) | [c'mon automaton](https://open.spotify.com/album/3ELYkRNUubpuw4Gu3xCP3g) | 3:42 |
 | 141 | [Never Trust A Pig](https://open.spotify.com/track/0amXYhhJnE5jby745KLxIg) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Never Trust A Pig](https://open.spotify.com/album/2pDvvEkFY7ymQKO480r1Ar) | 3:36 |
 | 142 | [Sail Close To The Wind](https://open.spotify.com/track/3O9iTUaTjCJYQeCXK0DYj0) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Breaking Crests](https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN) | 4:06 |
+| 143 | [Weird Kid](https://open.spotify.com/track/28P1Zn2MA2Af5L0MIa8fQx) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Weird Kid](https://open.spotify.com/album/3J1FrMBOBnoDjin6Xg0JIi) | 2:25 |
 
-Snapshot ID: `AAAGtNneihLitmcA3aFc0QBbTqKbiSZd`
+Snapshot ID: `AAAGtV9H0eu9eJVAKb61bBc41RzndoML`

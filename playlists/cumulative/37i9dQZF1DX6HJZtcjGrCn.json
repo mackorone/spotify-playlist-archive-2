@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Tipo",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: M1ke, Ze Maria",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -1504,6 +1504,24 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
+        "name": "Celestial Bodies",
+        "url": "https://open.spotify.com/album/0jvsyrItr5n4mJXVrEulJt"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227397,
+      "name": "Celestial Bodies",
+      "url": "https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM"
     },
     {
       "album": {
@@ -4246,6 +4264,24 @@
       "duration_ms": 171869,
       "name": "ifeelsodumb",
       "url": "https://open.spotify.com/track/3ml1GUPvdZt6yXdzjAjuOU"
+    },
+    {
+      "album": {
+        "name": "Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/4Vl9c6RFeRjAtnHKEbjlfO"
+      },
+      "artists": [
+        {
+          "name": "Carl Karlsson",
+          "url": "https://open.spotify.com/artist/12QWmTkEzcCYekpdF1CuoQ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245745,
+      "name": "Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/1J3DRgVbRDDWbSN9AYMRrE"
     },
     {
       "album": {
@@ -7456,7 +7492,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 169595,
       "name": "Sabi\u00e1",
       "url": "https://open.spotify.com/track/0idV091z1bxjvxroCMMStq"
@@ -7496,6 +7532,28 @@
       "duration_ms": 192213,
       "name": "Sai De Casa",
       "url": "https://open.spotify.com/track/3XqK6p4YBTmrPEVq0k6I8Q"
+    },
+    {
+      "album": {
+        "name": "Sal",
+        "url": "https://open.spotify.com/album/2ay0tw9FguxqPogVXzrIVe"
+      },
+      "artists": [
+        {
+          "name": "M1ke",
+          "url": "https://open.spotify.com/artist/3tQ4msrV9tC9rzrAUK3mdv"
+        },
+        {
+          "name": "Ze Maria",
+          "url": "https://open.spotify.com/artist/3AJ5VePr04618RtYtNCc3d"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260305,
+      "name": "Sal",
+      "url": "https://open.spotify.com/track/23ytaSu4ydqwz3PnizbBEV"
     },
     {
       "album": {
@@ -8026,7 +8084,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 136925,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"
@@ -8818,7 +8876,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 178001,
       "name": "the van",
       "url": "https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA"

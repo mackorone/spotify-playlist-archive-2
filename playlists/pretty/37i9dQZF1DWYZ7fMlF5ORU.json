@@ -1,12 +1,12 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 186286,
+  "num_followers": 186314,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAERkSql7YTfHuKjZBGBMwxovip8F",
+  "snapshot_id": "AAAAAEWAcF2GfN60roYNS6+lVBHkbE8r",
   "tracks": [
     {
       "added_at": "2026-06-12 03:01:51",
@@ -215,6 +215,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "A Season Of Remixes",
+        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251640,
+      "name": "Brighter Day - Kirk's Mix",
+      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "A Voz",
         "url": "https://open.spotify.com/album/38aul0V7kaGskAx3lUbZlX"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 260113,
       "name": "A Voz",
       "url": "https://open.spotify.com/track/5XVHluz8bVctMruCwKIeP4"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "A Season Of Remixes",
-        "url": "https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 251640,
-      "name": "Brighter Day - Kirk's Mix",
-      "url": "https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -571,18 +571,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Sobre Deixar",
-        "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
+        "name": "Seu Nome \u00c9",
+        "url": "https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt"
       },
       "artists": [
         {
-          "name": "Rafa Blauth",
-          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
+          "name": "Coral Enok",
+          "url": "https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA"
         }
       ],
-      "duration_ms": 220386,
-      "name": "O Que H\u00e1 Por Dentro",
-      "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
+      "duration_ms": 340671,
+      "name": "Seu Nome \u00c9",
+      "url": "https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -603,18 +603,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Seu Nome \u00c9",
-        "url": "https://open.spotify.com/album/1lC2LfCnXOzOCKRRtLSaQt"
+        "name": "Sobre Deixar",
+        "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
       },
       "artists": [
         {
-          "name": "Coral Enok",
-          "url": "https://open.spotify.com/artist/26Ehr2r4LNbVDeCYiLrncA"
+          "name": "Rafa Blauth",
+          "url": "https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU"
         }
       ],
-      "duration_ms": 340671,
-      "name": "Seu Nome \u00c9",
-      "url": "https://open.spotify.com/track/5y8UsdjJRuyojhnJhb7XFc"
+      "duration_ms": 220386,
+      "name": "O Que H\u00e1 Por Dentro",
+      "url": "https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi"
     },
     {
       "added_at": "2026-06-12 03:01:51",

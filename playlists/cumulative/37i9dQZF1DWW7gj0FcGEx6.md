@@ -4,7 +4,7 @@
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-946 songs - 1 day 20 hr 51 min
+947 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,6 +708,7 @@
 | [Sycamore Tree](https://open.spotify.com/track/5fuREHlXV6wSWawIdCOUsu) | [Kathryn Bostic](https://open.spotify.com/artist/3HhAT8exMwAyeAB8rdOkw2) | [The Supremes at Earl's All\-You\-Can\-Eat \(Original Soundtrack\)](https://open.spotify.com/album/1gv66WkidHzyBv5ZKOCYve) | 1:10 | 2024-08-23 | 2025-05-24 |
 | [Symphony Andres](https://open.spotify.com/track/5xdMFl9zGhsGoQdGta4NwL) | [Duncan Thum](https://open.spotify.com/artist/748JDmnU8vr5V7H2mVtiFl), [David Bertok](https://open.spotify.com/artist/4pUdozZloGXueDV9VWkbwT) | [Chef's Table: Legends \- José Andrés \(Score from the Netflix Documentary Series\)](https://open.spotify.com/album/0Or2kxWOQJxP9tfghymcIF) | 2:42 | 2025-08-15 | 2026-07-18 |
 | [Symphony Brew Redux](https://open.spotify.com/track/1B6A8WRAW8T4pTH4ziNzDE) | [Richard Reed Parry](https://open.spotify.com/artist/7kdBCYCfsZQPu4dVYpvswY), [Parker Shper](https://open.spotify.com/artist/61IXES2xPEjrdB0OnuGn2M), [Stuart Bogie](https://open.spotify.com/artist/06RpmuneHfIPx5N70n4cPf) | [The Nest \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4zmUzrPENpUDI7z48H1F3U) | 1:19 | 2021-12-20 | 2022-07-09 |
+| [Symphony of Giants](https://open.spotify.com/track/1wKqDVgdgCxMkFDv8BKFf4) | [Barnaby Taylor](https://open.spotify.com/artist/4wlJbPnD0oX777NyV8w3y4) | [Diving With Dolphins \(Full Soundtrack\)](https://open.spotify.com/album/3KwYbOkxICWXaYGrNipstQ) | 3:17 | 2026-07-27 |  |
 | [T\-60](https://open.spotify.com/track/2k7aqEBYFVKKYiELSCp3y0) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Fallout \(Original Amazon Series Soundtrack\)](https://open.spotify.com/album/0o12gQfAjCZmnChTHcSMrr) | 3:22 | 2024-04-12 | 2025-05-17 |
 | [Taxi Parisien](https://open.spotify.com/track/1Bng3zC8aL1utfHwBDmp1h) | [Uèle Lamore](https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl) | [Maigret \(Original Series Soundtrack\)](https://open.spotify.com/album/21ttssir2hSIcshR2kCIPl) | 1:03 | 2025-10-24 |  |
 | [Teacher](https://open.spotify.com/track/6xxpRXHpaEtF0hAU5wNA9O) | [Abel Korzeniowski](https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice) | [Emily: Original Motion Picture Soundtrack](https://open.spotify.com/album/6PufCfyhwd6AuIUXvDsgMc) | 2:27 | 2022-11-18 | 2024-10-12 |

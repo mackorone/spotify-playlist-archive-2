@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Pragati Nagpal, Papon,  Danny, Suyash and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,232 likes - 49 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,271 likes - 49 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 48 | [Only Mine](https://open.spotify.com/track/6r4G2AMRsntft5zHTrCUf2) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Siddharth Amit Bhavsar](https://open.spotify.com/artist/2DQZm7ErqpqiT4nxF9i4a2), [Youngveer](https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI) | [Only Mine](https://open.spotify.com/album/48kqvgSfWWEnIxG0WZK9W8) | 4:41 |
 | 49 | [Kaamil](https://open.spotify.com/track/2lzQOaqyfyX7x32P9K899T) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25) | [Kaamil](https://open.spotify.com/album/2TzFTRHjVU6enl9hw67Nqs) | 4:15 |
 
-Snapshot ID: `AAAAAACknZuj5vkqNUxM0Za/o2YxDOBB`
+Snapshot ID: `AAAAAHlQcqzJuj727T97FUpfHhu61vKO`

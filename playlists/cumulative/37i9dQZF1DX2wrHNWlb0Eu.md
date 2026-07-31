@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้
 
-235 songs - 14 hr 29 min
+236 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \- Single](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 | 2023-02-10 |  |
 | [รักแฟน](https://open.spotify.com/track/1tZ1fODJMdqjDnAifdz56Z) | [BENT KITTITAT](https://open.spotify.com/artist/6zIHBZrWECDsc6bS9Sug5O) | [รักแฟน](https://open.spotify.com/album/3Z2Gn3JQM16Qf5xbvxpyN7) | 2:34 | 2024-01-16 |  |
 | [รักแรกพบ \(Knock Knock\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/6jo2rnrIYLXUUcJOpuTfaq) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 2:37 | 2025-04-18 | 2025-12-07 |
+| [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From "แปลรักฉันด้วยใจเธอ Part 2"](https://open.spotify.com/track/24mB1soS8zLHLG1GK9Hvjd) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \[From "แปลรักฉันด้วยใจเธอ Part 2"\]](https://open.spotify.com/album/5Crvl5H8eEBKItvGi9W0Yi) | 3:19 | 2026-04-29 |  |
 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/2T3nSum6ofOyHrcRLdEky0) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \[From แปลรักฉันด้วยใจเธอ Part 2\]](https://open.spotify.com/album/6JhqKjkUnaWfTqM8hCQYtd) | 3:19 | 2024-03-16 | 2024-04-19 |
 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:19 | 2023-02-10 | 2024-04-13 |
 | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/track/5Ssjl0BJRFKtjxbgZlnoj9) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ฤดูของเธอ \(Your Season\)](https://open.spotify.com/album/4V3Q7Aot4N0MlkhepJ4agw) | 3:15 | 2024-09-18 |  |
@@ -183,7 +184,7 @@
 | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV) | 4:13 | 2023-10-06 |  |
 | [เธอคือคนที่ฟ้าส่งมาเพื่อฉัน \(ilysb\)](https://open.spotify.com/track/1aDDhtSKGhOS3FMx6wMCFa) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เธอคือคนที่ฟ้าส่งมาเพื่อฉัน \(ilysb\)](https://open.spotify.com/album/3DlZnkcwHWq6I3jU1uUtNj) | 2:47 | 2025-03-05 | 2025-04-12 |
 | [เธอคือดวงดาว \(Hikari\)](https://open.spotify.com/track/45mIxipE9u3wYO2HwGmzYe) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [เธอคือดวงดาว \(Hikari\)](https://open.spotify.com/album/2IuYhxGIOVKifi0qVqUuIZ) | 3:02 | 2023-10-06 | 2023-10-13 |
-| [เธอทั้งนั้น](https://open.spotify.com/track/1768MAJdcsOkLd9UVIOvaN) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/2bCxdYtZSLfWEAX9QDUtaC) | 4:04 | 2025-12-29 |  |
+| [เธอทั้งนั้น](https://open.spotify.com/track/1768MAJdcsOkLd9UVIOvaN) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/2bCxdYtZSLfWEAX9QDUtaC) | 4:04 | 2025-12-29 | 2026-07-31 |
 | [เธอทั้งนั้น](https://open.spotify.com/track/0B8jGlEYFOQT3USwSr5yX3) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/6AgMabCa4vNDjFytw7XbsO) | 4:04 | 2023-02-10 | 2023-04-30 |
 | [เธอทั้งนั้น](https://open.spotify.com/track/5sQYDe2qBnPQpCmN5UWki9) | [Groove Riders](https://open.spotify.com/artist/2HVtGhO88wYqktLxpDIUI3) | [The Lift](https://open.spotify.com/album/3J11fMgaKmVR0lOODC8tqV) | 4:04 | 2023-02-21 | 2024-04-19 |
 | [เธอหมุนรอบฉัน ฉันหมุนรอบเธอ](https://open.spotify.com/track/2qix3Q8yV16k9D9YI5fjmQ) | [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [ชุดเล็ก](https://open.spotify.com/album/4bjidvn1z3RcqcV8Zqyxb5) | 3:51 | 2023-02-10 | 2024-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4990927,
+  "num_followers": 4991077,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAAA//65ivTyUijLRykMAQAzH",
+  "snapshot_id": "amlCgAAAAACYk80gOJEeNnlMy7Mriud3",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 264253,
       "name": "A Kind Of Magic - Remastered 2011",
       "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radio Ga Ga (Live in Budapest)",
+        "url": "https://open.spotify.com/album/2i3G9uRIMioVziTJ4T5fxI"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 371826,
+      "name": "Radio Ga Ga - Live in Budapest",
+      "url": "https://open.spotify.com/track/7mbMiEqBzdGgwEQRFVOxaV"
     },
     {
       "added_at": null,
@@ -175,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Fat Bottomed Girls - Remastered 2011",
-      "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "News Of The World",
         "url": "https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ"
       },
@@ -203,6 +203,22 @@
       "duration_ms": 179200,
       "name": "We Are The Champions",
       "url": "https://open.spotify.com/track/0saBeiGcu2dECTvAknHPzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Fat Bottomed Girls - Remastered 2011",
+      "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
     },
     {
       "added_at": null,
@@ -223,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Cool Cat - Remastered 2011",
-      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Night At The Opera (Deluxe Edition)",
         "url": "https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC"
       },
@@ -251,6 +251,22 @@
       "duration_ms": 217386,
       "name": "Love Of My Life",
       "url": "https://open.spotify.com/track/0xcWxI1fUxfD6LrrljUH7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Cool Cat - Remastered 2011",
+      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
     },
     {
       "added_at": null,
@@ -287,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bohemian Rhapsody (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 217824,
-      "name": "Don't Stop Me Now - ...Revisited",
-      "url": "https://open.spotify.com/track/2JmZGZMlDu90ngd74T05Ue"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Night At The Opera (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr"
       },
@@ -315,6 +315,22 @@
       "duration_ms": 170800,
       "name": "You're My Best Friend - Remastered 2011",
       "url": "https://open.spotify.com/track/4OKf7CcYuw5H2HptkcKxcP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bohemian Rhapsody (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 217824,
+      "name": "Don't Stop Me Now - ...Revisited",
+      "url": "https://open.spotify.com/track/2JmZGZMlDu90ngd74T05Ue"
     },
     {
       "added_at": null,
@@ -351,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladies & Gentlemen",
-        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 318866,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits II",
         "url": "https://open.spotify.com/album/36ezh7pwcktRIhXmL2AFhp"
       },
@@ -387,18 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bohemian Rhapsody (The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/69RZR37WFgxDDdfxAPz9pk"
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
       },
       "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 245680,
-      "name": "Radio Ga Ga - Live Aid",
-      "url": "https://open.spotify.com/track/0ng0si11RnlaCl5y8UKTWg"
+      "duration_ms": 318866,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Night At The Opera (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "'39",
-      "url": "https://open.spotify.com/track/6e8HCstOUFx9sac4fnqPKx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kind Of Magic (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ"
       },
@@ -659,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "News Of The World",
-        "url": "https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ"
+        "name": "A Night At The Opera (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28ZLOn6tPfDTPGIqvwiWvC"
       },
       "artists": [
         {
@@ -668,9 +652,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 274226,
-      "name": "Spread Your Wings",
-      "url": "https://open.spotify.com/track/7sk3xGIhSoDz7sCwoaFTqn"
+      "duration_ms": 210800,
+      "name": "'39",
+      "url": "https://open.spotify.com/track/6e8HCstOUFx9sac4fnqPKx"
     },
     {
       "added_at": null,
@@ -691,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits III",
-        "url": "https://open.spotify.com/album/5VeFHJvFbfmrigIKFqGa1e"
+        "name": "News Of The World",
+        "url": "https://open.spotify.com/album/7hq6mnrJ7CWbemk6B3H8PJ"
       },
       "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
         {
           "name": "Queen",
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 307360,
-      "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
-      "url": "https://open.spotify.com/track/0muc9Lvuvz3V0XQjbrfNzz"
+      "duration_ms": 274226,
+      "name": "Spread Your Wings",
+      "url": "https://open.spotify.com/track/7sk3xGIhSoDz7sCwoaFTqn"
     },
     {
       "added_at": null,
@@ -743,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Greatest Hits III",
+        "url": "https://open.spotify.com/album/5VeFHJvFbfmrigIKFqGa1e"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 307360,
+      "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
+      "url": "https://open.spotify.com/track/0muc9Lvuvz3V0XQjbrfNzz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Game (Deluxe Edition)",
         "url": "https://open.spotify.com/album/58bipcogQNQdIrGFWUSJM3"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Day At The Races (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Tie Your Mother Down",
-      "url": "https://open.spotify.com/track/67diy3U3H033kNyox0Bt5x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kind Of Magic (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3gAVJcYGZD5Jm8YaWOkSrZ"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 267480,
       "name": "One Year Of Love",
       "url": "https://open.spotify.com/track/3B4lRypQs341Tcgef8gICJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Day At The Races (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32wu2qeQwVA6D8z1nWk68Q"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Tie Your Mother Down",
+      "url": "https://open.spotify.com/track/67diy3U3H033kNyox0Bt5x"
     },
     {
       "added_at": null,

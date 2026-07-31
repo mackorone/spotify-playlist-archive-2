@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Ancient Infinity Orchestra\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,794 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,827 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [We Gonna Make It](https://open.spotify.com/track/2zCFZsrwN2cMj2ZJ8CXUjP) | [Omasta](https://open.spotify.com/artist/1pKSKHYzswJjPo6qLjx1qO) | [Jazz Report from the Hood](https://open.spotify.com/album/2ys0XCprUDcTOQ0xM2I0mU) | 4:14 |
 | 50 | [Monson Road](https://open.spotify.com/track/1ja8uUjSfepMYOPN0kt9pl) | [Brintex Collective](https://open.spotify.com/artist/5jS72nZgNklECz7m1Lj7zR) | [Make It Make Sense](https://open.spotify.com/album/2KL2KR0XhcfcS0golQ8AY8) | 5:45 |
 
-Snapshot ID: `AAAAABqsDAGA0gb3JT3Ia/eKxeBuMKZq`
+Snapshot ID: `AAAAAPjUxtnfcimjJRcOIIOBLC7Xzy/r`

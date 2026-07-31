@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Remers & Jay Wheeler, KAROL G, Lunay & Omar Courtz, Ryan Castro, ARIA VEGA & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,058 likes - 43 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,110 likes - 43 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 42 | [FKN VVS](https://open.spotify.com/track/6RbnaPSkff83NkW6o7mIE1) | [Jc Velasco](https://open.spotify.com/artist/4D8vBgk289zS9t66B82x5t) | [FKN VVS](https://open.spotify.com/album/1L385XIybtrDVcGBZsSEGb) | 2:47 |
 | 43 | [BANKOLOMBIA](https://open.spotify.com/track/4ltQWjxGTY14dBBQcd7reN) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [BANKOLOMBIA](https://open.spotify.com/album/71WMm3JbB2Hruqs5dG6eKT) | 2:49 |
 
-Snapshot ID: `AAAAAOW4ug0uCc2P7A70/9GmesDySagi`
+Snapshot ID: `AAAAAMhtCTslxJdN128rPNSeLgF0NQC+`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Margarida Vasconcelos",
+  "description": "Uma playlist de pura alma pop! Foto: Fernando Daniel ",
   "name": "Pop PT",
   "tracks": [
     {
@@ -726,7 +726,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 195882,
       "name": "Amor Sem Pressa",
       "url": "https://open.spotify.com/track/57LzJb04HWtnWHD2j6TMVd"
@@ -8027,6 +8027,24 @@
     },
     {
       "album": {
+        "name": "Quase",
+        "url": "https://open.spotify.com/album/35Bc7PzXeGfqGSiYXwp4Ua"
+      },
+      "artists": [
+        {
+          "name": "Archie",
+          "url": "https://open.spotify.com/artist/6BQmTsPNeH0wmWXxa1CF4P"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175336,
+      "name": "Quase",
+      "url": "https://open.spotify.com/track/379xKgGDBUTsg0hq67M4pC"
+    },
+    {
+      "album": {
         "name": "que me encontres",
         "url": "https://open.spotify.com/album/4tcj8HJSMvtdsjaVQRYK0J"
       },
@@ -9172,7 +9190,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 190540,
       "name": "Serei Algu\u00e9m",
       "url": "https://open.spotify.com/track/1o6BRR3sBSAwFXe0PX6bbD"
@@ -9339,6 +9357,24 @@
     },
     {
       "album": {
+        "name": "Sonhador",
+        "url": "https://open.spotify.com/album/4fcc91MmyrR11OHPHQ5wbD"
+      },
+      "artists": [
+        {
+          "name": "Achero",
+          "url": "https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Sonhador",
+      "url": "https://open.spotify.com/track/2KylqKjWeomv8FGWMFasJx"
+    },
+    {
+      "album": {
         "name": "Sonhar Contigo",
         "url": "https://open.spotify.com/album/6YRsDuvW8wm7usNUWvHztv"
       },
@@ -9430,6 +9466,24 @@
       "duration_ms": 160993,
       "name": "SOU GRANDE NO AMOR",
       "url": "https://open.spotify.com/track/3bzIVbkYTGFP3pfbjojdG0"
+    },
+    {
+      "album": {
+        "name": "sou mais teu do que meu",
+        "url": "https://open.spotify.com/album/6kP2sB5NN9eqvmeugenFwm"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00eds Fialho",
+          "url": "https://open.spotify.com/artist/4Lr60NzAgOmvj1HS4kFGd8"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "sou mais teu do que meu",
+      "url": "https://open.spotify.com/track/34YloXMGr0Iu8lTgtvQh5S"
     },
     {
       "album": {
@@ -9844,7 +9898,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 214866,
       "name": "Ternura",
       "url": "https://open.spotify.com/track/15k6RLK8IqIAK4QUgkyg9S"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 71 songs - 4 hr 15 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 72 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 69 | [l e t y o u g o \- augy's version](https://open.spotify.com/track/1Kp74OD0EDhDsE1fkVuxmm) | [Xandre Augs](https://open.spotify.com/artist/77W5blk8wl1WwplejOVMbn) | [l e t y o u g o \(augy's version\)](https://open.spotify.com/album/3nLycWr2ivzzY4O701PfSy) | 2:52 |
 | 70 | [Isnt It Beautiful](https://open.spotify.com/track/4YZMVe3BVBcZSwxJ2AMDen) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Isnt It Beautiful](https://open.spotify.com/album/3dnxEjKCOViLHS9qm9omx0) | 3:37 |
 | 71 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 |
+| 72 | [She's Like The Sea](https://open.spotify.com/track/0B0HKK954dM1diGqHqmdKa) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [Nervous Systems](https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml) | 4:03 |
 
-Snapshot ID: `AAAPs78ckN5SFRFeC7ppC6J33bsG5wvs`
+Snapshot ID: `AAAPtIYuA+qynt8kotB2+kLR/4WcGdnF`

@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7buKOmiE.md) - [plain]
 | 49 | [kék](https://open.spotify.com/track/70m0XDH55DdFSGfWcUa3Wz) | [fllozz](https://open.spotify.com/artist/1YMdcly0IoDPLGUsCI2ho9) | [kék](https://open.spotify.com/album/1Hs5kKl6TkFC4VMfGlUIDq) | 3:01 |
 | 50 | [Még egy kicsit](https://open.spotify.com/track/06RIvk744t5k7xQsKSwaeL) | [Petrita](https://open.spotify.com/artist/5UMFawtaY8x71iJbz2zN3p) | [Dália](https://open.spotify.com/album/2v2YnCuaT48G2S87MRdo0W) | 2:30 |
 
-Snapshot ID: `AAAAAMKX9RLRkXbTUM0aqIyf0cps+khW`
+Snapshot ID: `AAAAAIuhHEAX7f37ljcEcR1saXZQbA+4`

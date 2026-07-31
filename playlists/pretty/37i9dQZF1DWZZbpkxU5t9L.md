@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: YAO \(Awich, CHICO CARLITO, ONE OK ROCK, Paledusk\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,437 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,410 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 59 | [Dance Forever](https://open.spotify.com/track/0dZZbt79ij4qm2VbDxTBrD) | [SixTONES](https://open.spotify.com/artist/7dhueqtbx2NVq1leXyqaNl) | [Dance Forever](https://open.spotify.com/album/477lZIVcype9EXieOX1uh3) | 3:56 |
 | 60 | [Ketsui no Uta](https://open.spotify.com/track/4lOOJXa8XJWOmT5Ha3COIu) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [Ketsui no Uta](https://open.spotify.com/album/65iDfm5MMg21JIyDiUVg9o) | 3:50 |
 
-Snapshot ID: `AAAAADEaj7Wc6ub9lX5hPc6llCaavA/Q`
+Snapshot ID: `AAAAAJCFq832FXeZzHhRsNVCTfeByt3Z`

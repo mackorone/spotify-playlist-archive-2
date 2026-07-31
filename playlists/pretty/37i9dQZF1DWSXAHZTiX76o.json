@@ -1,12 +1,12 @@
 {
   "description": "Las mujeres que la rompieron este a\u00f1o con su m\u00fasica. Mon Laferte en portada.",
-  "num_followers": 345735,
+  "num_followers": 345716,
   "original_name": "Mujeres latinas del 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxnjlYct93CQ8dnKtMFuVn5735M",
+  "snapshot_id": "AAAAAKZxq8KL/Fr8frEs+vP1j0ZxBx17",
   "tracks": [
     {
       "added_at": "2025-12-03 13:14:43",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
-        "name": "Vendr\u00e1n Suaves Lluvias",
-        "url": "https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 283370,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 218903,
       "name": "San Fernando",
       "url": "https://open.spotify.com/track/64vqCRNq65bw6xf46S9N0O"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
+        "name": "Vendr\u00e1n Suaves Lluvias",
+        "url": "https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 283370,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/7AG0fbggzFP7e7W2j7fUva"
     },
     {
       "added_at": "2025-12-03 13:14:43",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-12-03 13:14:43",
       "album": {
-        "name": "Manifiesto",
-        "url": "https://open.spotify.com/album/1nomRKKXgBtpXACb0XaV6o"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Terremoto",
-          "url": "https://open.spotify.com/artist/0aGlsoZeW2Z37G9soO3TEd"
-        }
-      ],
-      "duration_ms": 206263,
-      "name": "Mira\u00edta - Rumba, Libertad",
-      "url": "https://open.spotify.com/track/7usG61jjbWDQ66lyxT17Z5"
-    },
-    {
-      "added_at": "2025-12-03 13:14:43",
-      "album": {
         "name": "FAN\u00c1TICA",
         "url": "https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 168926,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/6y2aS3OHLTB14TB7srQ1dN"
+    },
+    {
+      "added_at": "2025-12-03 13:14:43",
+      "album": {
+        "name": "Manifiesto",
+        "url": "https://open.spotify.com/album/1nomRKKXgBtpXACb0XaV6o"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Terremoto",
+          "url": "https://open.spotify.com/artist/0aGlsoZeW2Z37G9soO3TEd"
+        }
+      ],
+      "duration_ms": 206263,
+      "name": "Mira\u00edta - Rumba, Libertad",
+      "url": "https://open.spotify.com/track/7usG61jjbWDQ66lyxT17Z5"
     },
     {
       "added_at": "2025-12-03 13:14:43",

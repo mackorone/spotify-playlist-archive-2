@@ -416,7 +416,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 127800,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW"
@@ -3339,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "Leak It",
+        "url": "https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183406,
+      "name": "Leak It",
+      "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
+    },
+    {
+      "album": {
         "name": "Let It Talk To Me",
         "url": "https://open.spotify.com/album/6g2g7AKABZM0SyQ56tdurl"
       },
@@ -4034,7 +4052,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 184788,
       "name": "Night at the Opera",
       "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
@@ -5682,6 +5700,24 @@
       "duration_ms": 126315,
       "name": "Welcome To My Paradise",
       "url": "https://open.spotify.com/track/6A6w8MFCKf6FB4ruAPoIjK"
+    },
+    {
+      "album": {
+        "name": "Welcome To My Party",
+        "url": "https://open.spotify.com/album/4cGz3exeViVHLl4FQBLwhN"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Torpegaard Lund",
+          "url": "https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173120,
+      "name": "Welcome To My Party",
+      "url": "https://open.spotify.com/track/6hNMYhGYl45aYvqLFGqIkV"
     },
     {
       "album": {

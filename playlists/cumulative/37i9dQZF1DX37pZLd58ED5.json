@@ -254,7 +254,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 172800,
       "name": "2K LACRIME",
       "url": "https://open.spotify.com/track/110Ws37zgNXkjalo9p21Ql"
@@ -378,7 +378,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 170602,
       "name": "A MET\u00c0 (feat. 22Simba)",
       "url": "https://open.spotify.com/track/0sIIPNmFuN4ULytAUNgRuY"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 128918,
       "name": "ACQUA DI MARE",
       "url": "https://open.spotify.com/track/6HIZK9QElbratpgRwbb2bz"
@@ -1168,6 +1168,24 @@
       "duration_ms": 186000,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/4HKQTz6RoJkFwlFLBAsJqm"
+    },
+    {
+      "album": {
+        "name": "BOP BOP",
+        "url": "https://open.spotify.com/album/5PGTq47um2SyPb07sm58pY"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "BOP BOP",
+      "url": "https://open.spotify.com/track/7lnA7L04Q3ELVmMoMVeFrw"
     },
     {
       "album": {
@@ -2367,6 +2385,24 @@
     },
     {
       "album": {
+        "name": "DIPENDE DA ME",
+        "url": "https://open.spotify.com/album/16U7q1DfJO1ztNnr02sEVb"
+      },
+      "artists": [
+        {
+          "name": "Quentin40",
+          "url": "https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176703,
+      "name": "DIPENDE DA ME",
+      "url": "https://open.spotify.com/track/4NQQ6OWPLDFcyPIkrNvvRT"
+    },
+    {
+      "album": {
         "name": "Lovebars",
         "url": "https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN"
       },
@@ -2508,7 +2544,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 190913,
       "name": "Drilliguria dalla costa (feat. Sayf & Nader Shah)",
       "url": "https://open.spotify.com/track/43pJAsRhcKrl6uTazwUqnX"
@@ -2566,6 +2602,36 @@
       "duration_ms": 224666,
       "name": "DUOMO",
       "url": "https://open.spotify.com/track/4vamBYGnZNodN7lp2Ma6iL"
+    },
+    {
+      "album": {
+        "name": "east # west",
+        "url": "https://open.spotify.com/album/0jNeBAuC0Y9ygvqRcN97kp"
+      },
+      "artists": [
+        {
+          "name": "LYNCH",
+          "url": "https://open.spotify.com/artist/61CLijlHW5oFBO6kgyUsjF"
+        },
+        {
+          "name": "ego",
+          "url": "https://open.spotify.com/artist/4KUivKJ4nCyTkJlqhOQljT"
+        },
+        {
+          "name": "Radical",
+          "url": "https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3"
+        },
+        {
+          "name": "Zyrtck",
+          "url": "https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152621,
+      "name": "east # west",
+      "url": "https://open.spotify.com/track/07JByTMJeTEWYGxndEO8HH"
     },
     {
       "album": {
@@ -2642,7 +2708,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 183770,
       "name": "Every Day",
       "url": "https://open.spotify.com/track/2ZAeMpiV15HjKkf7UMUNbg"
@@ -2768,7 +2834,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 136500,
       "name": "Fenicottero Rosa",
       "url": "https://open.spotify.com/track/04Qd8ESfSgKob7Txyy9URe"
@@ -3120,7 +3186,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 156921,
       "name": "Gravit\u00e0 (feat. Latrelle)",
       "url": "https://open.spotify.com/track/1cz6WntXGLT6hDJmgZ6GsI"
@@ -4418,7 +4484,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 174613,
       "name": "MAYDAY (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/7Eey0kKPfatUEQeldGmxAj"
@@ -4458,7 +4524,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 195234,
       "name": "Medico",
       "url": "https://open.spotify.com/track/4D6ywGtQxlezNqqRwJQDnb"
@@ -4632,7 +4698,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 226424,
       "name": "MEZZE VERIT\u00c0 feat. Kid Yugi (Jam)",
       "url": "https://open.spotify.com/track/1JhX0OZnQNEhCKpseEvUiv"
@@ -6040,7 +6106,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 208212,
       "name": "PIET\u00c0 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0IkOUXIMztRh6yBAPD1OzF"
@@ -6198,6 +6264,28 @@
       "duration_ms": 194861,
       "name": "Prometto (feat. Rkomi & Luch\u00e8)",
       "url": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA"
+    },
+    {
+      "album": {
+        "name": "quore",
+        "url": "https://open.spotify.com/album/3jTdiZNoaP6aVyCavTS2to"
+      },
+      "artists": [
+        {
+          "name": "Quest",
+          "url": "https://open.spotify.com/artist/6YcGvxHA0U5ILR7jN00ePw"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163250,
+      "name": "punto a capo (feat. Low-Red)",
+      "url": "https://open.spotify.com/track/3kZRvhg9rrM7AFRMO8zAcb"
     },
     {
       "album": {
@@ -6394,7 +6482,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 207000,
       "name": "Rettili (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/0vx2ohedJts393WJc7d8u0"
@@ -6548,7 +6636,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 186090,
       "name": "SANTISSIMO",
       "url": "https://open.spotify.com/track/7DgmimP7baeTMzLLeFu73Q"
@@ -6738,6 +6826,24 @@
       "duration_ms": 178373,
       "name": "SERPE (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/3RTX4i5PxUEWuXgi9n0CqO"
+    },
+    {
+      "album": {
+        "name": "shot dopo shot",
+        "url": "https://open.spotify.com/album/6ETLsWpbO3QiDFErrgEBlm"
+      },
+      "artists": [
+        {
+          "name": "Yung Pips",
+          "url": "https://open.spotify.com/artist/1M4XDihKHvUJj1Nbp8O7i7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122742,
+      "name": "shot dopo shot",
+      "url": "https://open.spotify.com/track/5L4Dgn2smifGxBbaWRcK2i"
     },
     {
       "album": {
@@ -7409,6 +7515,24 @@
     },
     {
       "album": {
+        "name": "YACHT CLUB",
+        "url": "https://open.spotify.com/album/3pDBHEcKJYylqjOvRlP2yU"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154564,
+      "name": "TOP MODEL (HEY MAMBO!)",
+      "url": "https://open.spotify.com/track/1YvfAyh0iuMaQoOLgaPLYZ"
+    },
+    {
+      "album": {
         "name": "TOUR",
         "url": "https://open.spotify.com/album/6zlXDaiNxjOnzBkFyJRBLc"
       },
@@ -7464,6 +7588,24 @@
       "duration_ms": 118651,
       "name": "tra parentesi",
       "url": "https://open.spotify.com/track/1FVGtE2nAqIR22ial5EbHo"
+    },
+    {
+      "album": {
+        "name": "Trama",
+        "url": "https://open.spotify.com/album/3IDym4wyo6zI9wcbc6oA2S"
+      },
+      "artists": [
+        {
+          "name": "R\u00a3d",
+          "url": "https://open.spotify.com/artist/4hZ6NhyyFrGR6TAnEROtVs"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130588,
+      "name": "Trama",
+      "url": "https://open.spotify.com/track/21gbVv0OpDZNqIYQ6vr4hi"
     },
     {
       "album": {
@@ -7748,7 +7890,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 157714,
       "name": "VENE BLU",
       "url": "https://open.spotify.com/track/7IyE1wahFtQTg2YTAXqia1"
@@ -7862,7 +8004,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 168355,
       "name": "Victoria",
       "url": "https://open.spotify.com/track/2fXW7bofSOf3aLUvY8IPjW"
@@ -7954,7 +8096,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 166451,
       "name": "Voglio Di Pi\u00f9",
       "url": "https://open.spotify.com/track/45wYm3Gs6W57fg2gCHCtxB"

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKblijZycje191rzdDhgC/c/S9xC",
+  "snapshot_id": "AAAAAK8zUVxOeCpz6P3442Wy8bSayobT",
   "tracks": [
     {
       "added_at": "2026-05-22 10:52:14",
@@ -588,6 +588,26 @@
       },
       "artists": [
         {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
+        }
+      ],
+      "duration_ms": 293856,
+      "name": "Aaiye Swagat Barat Mein Sarkaar Raur (From \"Pyar Karela Himmat Chaahi\")",
+      "url": "https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0"
+    },
+    {
+      "added_at": "2026-05-22 10:52:14",
+      "album": {
+        "name": "Bhojpuri Vivah Geet",
+        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
+      },
+      "artists": [
+        {
           "name": "Deepa Narayan Jha",
           "url": "https://open.spotify.com/artist/6SzXWOTikoakLyVORKpugx"
         },
@@ -603,26 +623,6 @@
       "duration_ms": 278816,
       "name": "Banno Ke Hardi Lagaav Re (From \"Ho Gayini Diwana Tohra Pyar Mein\")",
       "url": "https://open.spotify.com/track/3VpNZCtxUFbIPkkAQ38oo0"
-    },
-    {
-      "added_at": "2026-05-22 10:52:14",
-      "album": {
-        "name": "Bhojpuri Vivah Geet",
-        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Indu Sonali",
-          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
-        }
-      ],
-      "duration_ms": 293856,
-      "name": "Aaiye Swagat Barat Mein Sarkaar Raur (From \"Pyar Karela Himmat Chaahi\")",
-      "url": "https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0"
     },
     {
       "added_at": "2026-05-22 10:52:14",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
-        "name": "Chutki Bhar Senura",
-        "url": "https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w"
-      },
-      "artists": [
-        {
-          "name": "Sushant Asthana",
-          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
-        }
-      ],
-      "duration_ms": 412992,
-      "name": "Chutki Bhar Senura",
-      "url": "https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo"
-    },
-    {
-      "added_at": "2026-05-22 10:52:14",
-      "album": {
         "name": "Jiya Kare Dhaka Dhak",
         "url": "https://open.spotify.com/album/6T3ImVHWiI0QKUFgWsnSB4"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
+        "name": "Chutki Bhar Senura",
+        "url": "https://open.spotify.com/album/1UKdtZNcnZ4pYTCgQC7S1w"
+      },
+      "artists": [
+        {
+          "name": "Sushant Asthana",
+          "url": "https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q"
+        }
+      ],
+      "duration_ms": 412992,
+      "name": "Chutki Bhar Senura",
+      "url": "https://open.spotify.com/track/0ERPhyi69zPIsDSbFlQTZo"
+    },
+    {
+      "added_at": "2026-05-22 10:52:14",
+      "album": {
         "name": "Samdhi Bhukhal Baade Ho",
         "url": "https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
-        "name": "Mangal Geet",
-        "url": "https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh"
-      },
-      "artists": [
-        {
-          "name": "Devi",
-          "url": "https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk"
-        }
-      ],
-      "duration_ms": 269488,
-      "name": "Seeta Ke Sakal Dekhi",
-      "url": "https://open.spotify.com/track/6zdVpdazwqRj8JfekfuzcW"
-    },
-    {
-      "added_at": "2026-05-22 10:52:14",
-      "album": {
         "name": "CHUTKI BHAR SENURA",
         "url": "https://open.spotify.com/album/0aBZzUEo03oyAzfbThE5xy"
       },
@@ -867,8 +851,24 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
-        "name": "Sone Ke Supuliya",
-        "url": "https://open.spotify.com/album/5hE79CfvhWGGWbKd5KImz1"
+        "name": "Mangal Geet",
+        "url": "https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh"
+      },
+      "artists": [
+        {
+          "name": "Devi",
+          "url": "https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk"
+        }
+      ],
+      "duration_ms": 269488,
+      "name": "Seeta Ke Sakal Dekhi",
+      "url": "https://open.spotify.com/track/6zdVpdazwqRj8JfekfuzcW"
+    },
+    {
+      "added_at": "2026-05-22 10:52:14",
+      "album": {
+        "name": "Doliya Kahar",
+        "url": "https://open.spotify.com/album/2g0vIAmEnvoCAJDuSuJrsi"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss"
         }
       ],
-      "duration_ms": 276770,
-      "name": "Sone Ke Supuliya",
-      "url": "https://open.spotify.com/track/22UpBY3kHUUkAFMMA3Olxu"
+      "duration_ms": 247873,
+      "name": "Doliya Kahar",
+      "url": "https://open.spotify.com/track/1z2zRkwyPCKB0bBAR2dlLw"
     },
     {
       "added_at": "2026-05-22 10:52:14",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-05-22 10:52:14",
       "album": {
-        "name": "Mangal Geet",
-        "url": "https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh"
+        "name": "Beti Ke Biaah",
+        "url": "https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR"
       },
       "artists": [
         {
-          "name": "Devi",
-          "url": "https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk"
+          "name": "Anuradha Paudwal",
+          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
         }
       ],
-      "duration_ms": 404096,
-      "name": "Hare-Hare Hare Dada",
-      "url": "https://open.spotify.com/track/1atl5wZPYRVqYotOzmiWiL"
+      "duration_ms": 375000,
+      "name": "Purain Paat Par",
+      "url": "https://open.spotify.com/track/3RuAcWipM4CYbMzQ4zCh5H"
     }
   ],
   "unique_name": "Bhojpuri Vivah Geet",

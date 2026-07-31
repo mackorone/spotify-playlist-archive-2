@@ -2,9 +2,9 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: Alex Velea
+> Cele mai noi hituri pop românești\. Cover: Mihail
 
-537 songs - 1 day 1 hr 18 min
+538 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Cât să te mai aștept](https://open.spotify.com/track/2incNhwzfSRJ6Vf69PNiBp) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [Cât să te mai aștept](https://open.spotify.com/album/6BPomOVyUqaopo1qQG1QMb) | 2:19 | 2026-04-30 | 2026-06-26 |
 | [Câte pietre ai aruncat](https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Tata Vlad](https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ) | [Câte pietre ai aruncat](https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc) | 2:30 | 2026-01-15 | 2026-05-29 |
 | [Cămașa](https://open.spotify.com/track/0vabm7nnXssXJehhwT4rzW) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Cămașa](https://open.spotify.com/album/6CfrIhvwy7mTL18pXJSHqF) | 2:33 | 2025-10-30 | 2026-01-16 |
-| [D\-Aia Nu Mai Pot Io](https://open.spotify.com/track/3KqJyfTsKL0UpamJnJC7Yr) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [D\-Aia Nu Mai Pot Io](https://open.spotify.com/album/0VI59gjM24VRuzz8rsX8RX) | 2:17 | 2026-07-09 |  |
+| [D\-Aia Nu Mai Pot Io](https://open.spotify.com/track/3KqJyfTsKL0UpamJnJC7Yr) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb) | [D\-Aia Nu Mai Pot Io](https://open.spotify.com/album/0VI59gjM24VRuzz8rsX8RX) | 2:17 | 2026-07-09 | 2026-07-31 |
 | [Dac\-ar ști](https://open.spotify.com/track/4wGj3Hq1FVxfAoGp3XQH6u) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [Dac\-ar ști](https://open.spotify.com/album/4DGWNCxChSVUlDQakyRC0S) | 2:24 | 2025-06-05 | 2025-07-04 |
 | [Dacă mai vrei](https://open.spotify.com/track/5NJzBq5gVZBsSPghS69p4F) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Dacă mai vrei](https://open.spotify.com/album/4d5Wj6v6ButVaSwjj7FxNf) | 2:50 | 2026-01-22 | 2026-05-08 |
 | [Dans nocturn](https://open.spotify.com/track/2pWVkrRjBySXqQloRsi9sk) | [Alexia](https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz) | [Dans nocturn](https://open.spotify.com/album/3hSwbrhEZ1C02EfWHQ52gL) | 2:57 | 2024-06-27 | 2024-12-06 |
@@ -255,6 +255,7 @@
 | [Inainte de tine](https://open.spotify.com/track/4s9X4G4U0cae4N9bk2sO1M) | [Magda Ignat](https://open.spotify.com/artist/29LRdyJfm8dM5mlSkV8vUh), [Dorian Popa](https://open.spotify.com/artist/7qY3EcnVR7pBXBzaHi3bYo) | [Inainte de tine](https://open.spotify.com/album/5ldejlreA1OPV5Y6L4eEJC) | 3:04 | 2024-12-05 | 2025-04-11 |
 | [Inainte sa pleci](https://open.spotify.com/track/5hvllpMgrrroUcUtjf4Y9F) | [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U) | [Amangoi](https://open.spotify.com/album/1pEvO9aEvYdcadtQ7OhILi) | 2:24 | 2025-01-23 | 2025-02-28 |
 | [Inca O Noapte](https://open.spotify.com/track/0lCoCuzOaHaQK07CUiEkMx) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Inca O Noapte](https://open.spotify.com/album/6pOa0ra42T1R4SbSLSgSsX) | 3:01 | 2024-06-27 | 2024-08-16 |
+| [Inima la orizont](https://open.spotify.com/track/3ZQJI8BGWbLuWmuD1fhAUn) | [Mihail](https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F) | [Inima la orizont](https://open.spotify.com/album/4leZ2qv5E9tj2qZA5rilWQ) | 2:52 | 2026-07-30 |  |
 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 | 2024-11-21 | 2025-05-24 |
 | [Inimile noastre](https://open.spotify.com/track/19Re1fbphPNpGt1jMw7hN7) | [O’ANNA](https://open.spotify.com/artist/5sbqj5pp9Jtuoxh6M1jFB7), [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ) | [Inimile noastre](https://open.spotify.com/album/1Ql0nku7M3QGjnchdq58ep) | 2:55 | 2026-03-26 | 2026-04-17 |
 | [Inimă de piatră](https://open.spotify.com/track/2BDVkz07yRGOpMbngQXtGj) | [Gabi Bagu](https://open.spotify.com/artist/23RBj7SEhcaxjkclwB4hCC), [JO](https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP) | [Inimă de piatră](https://open.spotify.com/album/3BNPTxAB1lBd8WfxQlnCex) | 2:37 | 2025-11-20 | 2026-05-08 |

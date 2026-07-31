@@ -4,11 +4,11 @@
 
 > This is kwn\. The essential tracks, all in one playlist.
 
-33 songs - 1 hr 36 min
+34 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['til the room stinks \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 2:30 | 2026-06-28 |  |
+| ['til the room stinks \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1ILFNxCVhJT2viKziURC3U) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 2:30 | 2026-06-28 | 2026-07-31 |
 | ['til u cry](https://open.spotify.com/track/7IyLGq39V0aIRCmOOZsPtP) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:58 | 2026-06-28 |  |
 | [all fours \(feat\. DESTIN CONRAD\)](https://open.spotify.com/track/4swgjjK6EDlUjjtRZrDaFI) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:11 | 2026-06-28 |  |
 | [all the girls](https://open.spotify.com/track/35LxnbeMImdQePFuaZgIjF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 2:12 | 2025-07-23 |  |
@@ -34,7 +34,8 @@
 | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61) | [sweetie \(feat\. Scribz Riley\)](https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI) | 2:57 | 2025-07-23 |  |
 | [talk you through it \(feat\. FLO\)](https://open.spotify.com/track/0XnxrosRIxY1nKFJ7wc5Ut) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:06 | 2025-07-23 |  |
 | [Too Many Women \(feat\. kwn\)](https://open.spotify.com/track/60nXonFosfqr4KpZHm48OH) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [A Jaguar's Dream](https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP) | 1:58 | 2025-07-23 |  |
-| [touch myself](https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [touch myself/idea of love](https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ) | 4:09 | 2026-05-24 |  |
+| [touch myself](https://open.spotify.com/track/3tyDv1Qwsr7MSZB45ywgj7) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 4:09 | 2026-07-31 |  |
+| [touch myself](https://open.spotify.com/track/3yftdtj8z7vS7M3EoPfVFK) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [touch myself/idea of love](https://open.spotify.com/album/76ZZEjABkKjynOcObQIQOZ) | 4:09 | 2026-05-24 | 2026-07-31 |
 | [venus pool \(interlude\)](https://open.spotify.com/track/56si04F0ZocY2zkwBl7LaA) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 1:51 | 2025-07-23 |  |
 | [went wrong](https://open.spotify.com/track/51U1KMRcqBnpt4pUJyU22b) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:13 | 2025-07-23 |  |
 | [wn up](https://open.spotify.com/track/0nBSRIzgxIb08xXgiEBZWi) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [wn up](https://open.spotify.com/album/4RVscQW0BIGHH8T6VdknFl) | 3:23 | 2025-07-23 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u6eab\u5ba4\u96dc\u8349 ",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: Tizzy Bac",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -13338,6 +13338,24 @@
       "duration_ms": 264500,
       "name": "\u671b\u5411\u6696\u967d (\u6232\u5287\u300a\u6b7b\u4e86\u4e00\u500b\u5a1b\u6a02\u5973\u8a18\u8005\u4e4b\u5f8c\u300b\u5ba3\u50b3\u66f2)",
       "url": "https://open.spotify.com/track/17I465D1hwlByh2gADUahs"
+    },
+    {
+      "album": {
+        "name": "\u8aaa\u51fa\u6211\u7684\u540d\u5b57 (Acoustic Live)",
+        "url": "https://open.spotify.com/album/2SLUbIzNpvkC59qmDNB4It"
+      },
+      "artists": [
+        {
+          "name": "Tizzy Bac",
+          "url": "https://open.spotify.com/artist/6Rv0ndBVPEQJ7KagPDtC5H"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259251,
+      "name": "\u671d\u6211\u5fc3\u81df\u958b\u69cd (Acoustic Live)",
+      "url": "https://open.spotify.com/track/3naiphKoa2KT3k3MumJE6e"
     },
     {
       "album": {

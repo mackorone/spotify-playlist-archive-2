@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAAALFPvYFUTv6dxAefCR1SpV",
+  "snapshot_id": "amlCgAAAAAC+k/XP8lD3gNWx5NOe88zW",
   "tracks": [
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Monsieur Spade (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Sam Spade",
+      "url": "https://open.spotify.com/track/27vtIAcLqCDrwQ5jkyDDrY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Godless (Original Music from the Netflix Series)",
         "url": "https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv"
       },
@@ -176,9 +192,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Mcnue Leaves",
-      "url": "https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw"
+      "duration_ms": 398320,
+      "name": "Atascadero (Denouement)",
+      "url": "https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj"
     },
     {
       "added_at": null,
@@ -224,9 +240,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 398320,
-      "name": "Atascadero (Denouement)",
-      "url": "https://open.spotify.com/track/755e7xFM0mBUpN0uFPBaVj"
+      "duration_ms": 184000,
+      "name": "Mcnue Leaves",
+      "url": "https://open.spotify.com/track/7st5nMW9QlnCq7j5Ygt1rw"
     },
     {
       "added_at": null,

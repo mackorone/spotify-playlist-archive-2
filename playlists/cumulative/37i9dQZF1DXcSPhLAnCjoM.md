@@ -2,9 +2,9 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Soirée mondaine" d'Oria est le Grand Hit de la semaine.
+> "Dis\-moi où" de Julien Lieb et OTTA est le Grand Hit de la semaine.
 
-344 songs - 17 hr 34 min
+345 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Dis\-moi oui](https://open.spotify.com/track/5pO0JOpugwMgkNetEiA452) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Dis\-moi oui](https://open.spotify.com/album/4ilcO4GREDzxE7UPW6oIpe) | 3:56 | 2025-10-02 | 2026-06-26 |
 | [Dis\-moi où \(feat\. OTTA\)](https://open.spotify.com/track/6FNnrwCYdfGwDiO1x76ReL) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i), [OTTA](https://open.spotify.com/artist/4NMvzpqVsDCC0Cte4GTG3d) | [Naufragé](https://open.spotify.com/album/6Tl529HhyHytN5UG1iBCMf) | 2:41 | 2026-04-23 |  |
 | [Dis\-toi que c'est la vie](https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Dis\-toi que c'est la vie](https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ) | 2:27 | 2024-03-28 | 2024-08-02 |
+| [DJ](https://open.spotify.com/track/0ZFNx84bKLoCb2jx8FN2Az) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [DJ](https://open.spotify.com/album/5TvxAsfOCZqJwcbeZ5HnOu) | 3:09 | 2026-07-30 |  |
 | [DO YOU LOVE ME ?](https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [DO YOU LOVE ME ?](https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo) | 2:49 | 2025-09-04 | 2026-01-02 |
 | [Domino](https://open.spotify.com/track/62jHdjJuQKcwQFyn2qqU7T) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Domino](https://open.spotify.com/album/0T5bkxRSeVR6yVhJpliWQv) | 2:20 | 2025-03-20 | 2025-06-06 |
 | [Douce](https://open.spotify.com/track/5QQeluaiHf0b1wQ1RTI5Gi) | [Clara Ysé](https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em) | [Douce](https://open.spotify.com/album/48cdzmZdWpG9INtGhh9jvg) | 3:03 | 2023-12-14 | 2024-04-19 |
@@ -245,7 +246,7 @@
 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 | 2024-05-16 | 2024-09-06 |
 | [Mélatonine](https://open.spotify.com/track/76gfpttwTGXl0k1UoFBMxM) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:32 | 2025-05-22 | 2025-09-05 |
 | [Ne saute pas](https://open.spotify.com/track/52PntWUVJcnAWm1lk0XYnU) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Calogero](https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:56 | 2024-06-13 | 2024-10-25 |
-| [No Name \- Single Version](https://open.spotify.com/track/0vG8huSd6GX6IbDZCAZlay) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [No Name](https://open.spotify.com/album/72WLpjz9I5bhOOcg88D8ul) | 3:51 | 2025-09-25 |  |
+| [No Name \- Single Version](https://open.spotify.com/track/0vG8huSd6GX6IbDZCAZlay) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [No Name](https://open.spotify.com/album/72WLpjz9I5bhOOcg88D8ul) | 3:51 | 2025-09-25 | 2026-07-31 |
 | [Nous](https://open.spotify.com/track/4YTZaCj7GuS1s0IG56aPcq) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Nous](https://open.spotify.com/album/1is67cSsBtCg203117l5QH) | 2:35 | 2025-06-26 | 2025-12-05 |
 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 | 2024-05-23 | 2025-03-07 |
 | [OK KO \(feat\. Kyo\)](https://open.spotify.com/track/69Fw8Cx50fVi0Pv7NJayhV) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [OK KO \(Nouvelle Édition\)](https://open.spotify.com/album/04WoFGsAqbdlJvAWljYCdQ) | 2:46 | 2026-04-09 |  |

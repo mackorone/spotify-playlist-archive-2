@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Aline Barros & Aaron Moses
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,157 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,303 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 74 | [Está Bien Con Mi Alma](https://open.spotify.com/track/2xFEe64zmqDe7GdBwUT0jS) | [Gracia Soberana Música](https://open.spotify.com/artist/3yZLchlyOSmGC6B6bUhgVU), [Jonathan & Sarah Jerez](https://open.spotify.com/artist/4ZuSvCPOCMcznMwVBHy9r1) | [Himnos](https://open.spotify.com/album/5wFiCH6EOm6bOegvI1mllI) | 5:07 |
 | 75 | [Despiértame](https://open.spotify.com/track/6F4eOE74oAOsrt1Ws47EOX) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Despiértame](https://open.spotify.com/album/5nQShqiqCqU4lZ7e0hAga3) | 3:07 |
 
-Snapshot ID: `AAAAAPgVpATbPfDMqqRAvvrrDd2gQ1GT`
+Snapshot ID: `AAAAABPCK9+FtWxlUhREOtK3lIRPb3w2`

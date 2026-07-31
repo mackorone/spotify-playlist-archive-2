@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4PooHx6BstbetDtBMrLyV7">Hurricane Wisdom</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,723,053 likes - 105 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,722,899 likes - 105 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 104 | [features](https://open.spotify.com/track/7GIPYRB6nhApPQwh8nUrXl) | [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [features](https://open.spotify.com/album/1IaG6H6K5wrBN8bZ2JB8VV) | 1:43 |
 | 105 | [justfallinlovewithme.](https://open.spotify.com/track/5dlPZOX7v1gEPET4CLNDLD) | [Lil Kliff](https://open.spotify.com/artist/4TE90ZobF5vpkPYfm8m4fd) | [justfallinlovewithme.](https://open.spotify.com/album/1hzfSCsZG0B4MtB4RhRvJX) | 2:41 |
 
-Snapshot ID: `AAAAAArcvG/lnKJfdDbRrrIP2AOSowEb`
+Snapshot ID: `AAAAALiI6UQ6+U3znWpAebXHLuOHgpfB`

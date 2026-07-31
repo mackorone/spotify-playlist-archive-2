@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-550 songs - 1 day 7 hr 13 min
+551 songs - 1 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,6 +520,7 @@
 | [Wasting My Time](https://open.spotify.com/track/33xLkxYXmsvaZKUvN1LO2n) | [Bad Mother Nature](https://open.spotify.com/artist/6pnqSlSpc5z1Svc1aDC61b) | [Wasting My Time](https://open.spotify.com/album/6bhne7zajsPKWMfREgBIio) | 3:52 | 2026-05-13 | 2026-06-14 |
 | [We're Not Going Back !](https://open.spotify.com/track/2ZfUwtNAa1m2pFfbw12P1f) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [We're Not Going Back !](https://open.spotify.com/album/24RpqAI2h0N71yyWZAHjUR) | 3:09 | 2026-01-24 | 2026-02-21 |
 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 | 2025-12-29 | 2026-01-25 |
+| [Weird Kid](https://open.spotify.com/track/28P1Zn2MA2Af5L0MIa8fQx) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Weird Kid](https://open.spotify.com/album/3J1FrMBOBnoDjin6Xg0JIi) | 2:25 | 2026-07-30 |  |
 | [WER ZAHLT?](https://open.spotify.com/track/1tyHRSnq2wSfnlqT7AIQkG) | [du zahlst](https://open.spotify.com/artist/0F36hCCYXBoTzRbZX0D3iJ) | [WER ZAHLT?](https://open.spotify.com/album/6M6QZyne28WhzUzSMZn1ju) | 4:19 | 2026-01-19 | 2026-02-21 |
 | [What I Need](https://open.spotify.com/track/1grZNRqYvC7DAfgrgZI0sP) | [Shwah](https://open.spotify.com/artist/3tKCUuSFC6w2dMOdxWDOVQ) | [What I Need](https://open.spotify.com/album/0AkgS5mr0RnX863tboGE1e) | 3:16 | 2025-11-17 | 2026-01-05 |
 | [What we doin?](https://open.spotify.com/track/4ZyOh1Evg8rRy5Y95HXUeG) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [What we doin?](https://open.spotify.com/album/6fESAUJA3sxTjbWnwoV79U) | 2:58 | 2026-04-26 | 2026-05-26 |

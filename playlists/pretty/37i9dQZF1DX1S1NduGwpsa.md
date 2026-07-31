@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Branford Marsalis & Dianne Reeves
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,110 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,146 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [Tour de Manège](https://open.spotify.com/track/7vi5WwJ8dtqhekZLpnhtue) | [Teuteu](https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9), [Béesau](https://open.spotify.com/artist/5m6hZJfUOm9EPFyiLIRjSs) | [Tour de Manège](https://open.spotify.com/album/4C4CAH43TXHQ5mSAPGhTXi) | 4:38 |
 | 60 | [Song of Storms \- from The Legend of Zelda: Ocarina of Time](https://open.spotify.com/track/5jPXynESV7qHOu6QyeXeoi) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Josh Harmon](https://open.spotify.com/artist/5z44q3rMwinmehpx3oSp3s) | [Song of Storms \(from The Legend of Zelda: Ocarina of Time\)](https://open.spotify.com/album/1JB7EwRhYsQC6H2njNB3Ph) | 1:31 |
 
-Snapshot ID: `AAAAAPFJvqjlUq0yvPKbqi5Ir/qLXNEo`
+Snapshot ID: `AAAAAOXsueHTQCNDwJo83Kw4gPsrKJ+V`

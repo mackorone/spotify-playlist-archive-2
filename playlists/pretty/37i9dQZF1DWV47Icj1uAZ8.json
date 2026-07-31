@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 46518,
+  "num_followers": 46527,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHz/41XJuoLoCG6eXx5F2QPhrwR5",
+  "snapshot_id": "AAAAAIw1MkvEFYnk8LkK/KScoezD/lT9",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "1 Up Top Ahk",
+        "url": "https://open.spotify.com/album/3iDAjLnQsJwoVU1v09ia4A"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "Sleep Walkin",
+      "url": "https://open.spotify.com/track/2Chpj7Kjc3AEi5D6Of4KOE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 212571,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "1 Up Top Ahk",
-        "url": "https://open.spotify.com/album/3iDAjLnQsJwoVU1v09ia4A"
-      },
-      "artists": [
-        {
-          "name": "Mozzy",
-          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
-        }
-      ],
-      "duration_ms": 184736,
-      "name": "Sleep Walkin",
-      "url": "https://open.spotify.com/track/2Chpj7Kjc3AEi5D6Of4KOE"
     },
     {
       "added_at": "2022-10-01 16:00:00",

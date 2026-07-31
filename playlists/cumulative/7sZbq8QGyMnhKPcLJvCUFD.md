@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-876 songs - 1 day 19 hr 27 min
+877 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,6 +672,7 @@
 | [Savannah 2026 \- Japanese Version](https://open.spotify.com/track/1OQFq2EHr4tjLsJF6IaKWg) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [Savannah 2026 \(Japanese Version\)](https://open.spotify.com/album/2e07qaqjNokyuGhUc1aSmF) | 3:10 | 2026-03-12 |  |
 | [Say Goodbye](https://open.spotify.com/track/05Tj9EuuK3me0NBJsgcgd6) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Marvin Divine](https://open.spotify.com/artist/2ipbBHbU59PKSeDXAgMpkd) | [Say Goodbye](https://open.spotify.com/album/0RH4YAz924r8FUwRsg8Uxk) | 3:50 | 2023-08-08 | 2024-01-06 |
 | [Say To You](https://open.spotify.com/track/0tsx50hVTXTEHAS6xs57uF) | [rghvarchive](https://open.spotify.com/artist/56aLjpDNfCKl5M6SkMXo5z), [redwater](https://open.spotify.com/artist/4uFWM4R4qBU0tfTFwaTXML) | [Say To You](https://open.spotify.com/album/29FRNVXUiZWd9t2x6GzMbv) | 2:15 | 2025-10-31 |  |
+| [Say You Love Me](https://open.spotify.com/track/1fzSbTACdmY51BLhZMWuWu) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Say You Love Me](https://open.spotify.com/album/12AGBf0yLPOVvdbnAlpCC2) | 3:46 | 2026-07-30 |  |
 | [scars](https://open.spotify.com/track/0zB2y2HlyVWyKSAghefwzd) | [LOFIN](https://open.spotify.com/artist/3VJWdrq7JC3sVdd11NSYfx) | [scars](https://open.spotify.com/album/2lYbOAyek2e5jqilabHJHt) | 2:33 | 2025-12-05 |  |
 | [SCREAM OUT LOUD](https://open.spotify.com/track/1w3qBi32Ae84aKZgUvba5c) | [REKZ!](https://open.spotify.com/artist/4lQFgl0hhPyYY5NPVJAZQp), [freddz808](https://open.spotify.com/artist/67JUH5exAyfnDIndvNwiU5) | [SCREAM OUT LOUD](https://open.spotify.com/album/1jzCm524xGidICYKVs4mHU) | 2:58 | 2025-12-30 |  |
 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 | 2022-07-05 | 2024-01-06 |

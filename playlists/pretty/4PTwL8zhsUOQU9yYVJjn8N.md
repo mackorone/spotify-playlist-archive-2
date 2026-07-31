@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 
 > Includes instrumentals , collabs, ect blahblah balb yeah their other songs are on her soundcloud ! These r js all the song they made on spotify
 
-[sub](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 407 likes - 269 songs - 8 hr 26 min
+[sub](https://open.spotify.com/user/31chgttghqjpipwv6lmleig6cssq) - 407 likes - 270 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -277,5 +277,6 @@ pretty - [cumulative](/playlists/cumulative/4PTwL8zhsUOQU9yYVJjn8N.md) - [plain]
 | 267 | [telephone line](https://open.spotify.com/track/4ugixbUYTzeWMco1CD5AEl) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [telephone line](https://open.spotify.com/album/59FYDC9ZQXgBG0rUdpWalY) | 3:58 |
 | 268 | [telephone line \- Instrumental](https://open.spotify.com/track/0RxEplR64yF2XYADiYZmug) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [telephone line](https://open.spotify.com/album/59FYDC9ZQXgBG0rUdpWalY) | 3:58 |
 | 269 | [Naked \(Take It Off\)](https://open.spotify.com/track/7JK1S7nir9iTilzLYnJMun) | [Ari Angel](https://open.spotify.com/artist/1ghLMZERLxfWGY22QMtTfv), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [ANGEL](https://open.spotify.com/album/6mYJ8HjTRs8fvLryZyEnmb) | 2:50 |
+| 270 | [SWITCH](https://open.spotify.com/track/54gve2xZ1LCFuwKfZ2hiw5) | [SWITZERRWOWW](https://open.spotify.com/artist/1cAqPn7GhcWCZnd3YUKBhy), [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [IVE UPLOADED MY BRAIN TO THE INTERNET](https://open.spotify.com/album/4oGowVcmtIKR7X3291GRTd) | 2:26 |
 
-Snapshot ID: `AAAAo8Glr/7SAee7pvd+dVORi8wqXQsg`
+Snapshot ID: `AAAApHWJACNpU7GklbdK7KKzIGpqkpvu`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAADc5UazOaccqFqzUsdAgDowEdqY",
+  "snapshot_id": "AAAAABKwnOAYMntvzpEyb4INrDgEGy96",
   "tracks": [
     {
       "added_at": "2026-07-02 22:00:38",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
-    },
-    {
-      "added_at": "2026-07-02 22:00:38",
-      "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2026-07-02 22:00:38",
+      "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/4ggV0IaczfDFjVSwBM8yvi"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 232226,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc"
     },
     {
       "added_at": "2026-07-02 22:00:38",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
-        "name": "Who's That Calling?",
-        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 196156,
-      "name": "Who's That Calling?",
-      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
-    },
-    {
-      "added_at": "2026-07-02 22:00:38",
-      "album": {
         "name": "Tusen sp\u00e4nn",
         "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 190344,
       "name": "Tusen sp\u00e4nn",
       "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
+    },
+    {
+      "added_at": "2026-07-02 22:00:38",
+      "album": {
+        "name": "Who's That Calling?",
+        "url": "https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 196156,
+      "name": "Who's That Calling?",
+      "url": "https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk"
     },
     {
       "added_at": "2026-07-02 22:00:38",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
-        "name": "WHEN A GIRL CRIES",
-        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
-      },
-      "artists": [
-        {
-          "name": "Olga Myko",
-          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
-        }
-      ],
-      "duration_ms": 124590,
-      "name": "use me!!!!!!!",
-      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
-    },
-    {
-      "added_at": "2026-07-02 22:00:38",
-      "album": {
         "name": "Sommarkatt",
         "url": "https://open.spotify.com/album/17jcApM4Eibe8do5pJTNCD"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 208201,
       "name": "Sommarkatt",
       "url": "https://open.spotify.com/track/57AHVmaxTYWoBBB5CFr9Ts"
+    },
+    {
+      "added_at": "2026-07-02 22:00:38",
+      "album": {
+        "name": "WHEN A GIRL CRIES",
+        "url": "https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "duration_ms": 124590,
+      "name": "use me!!!!!!!",
+      "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
     },
     {
       "added_at": "2026-07-02 22:00:38",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
-        "name": "My Mess",
-        "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "My Mess",
-      "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
-    },
-    {
-      "added_at": "2026-07-02 22:00:38",
-      "album": {
         "name": "Lucky Again",
         "url": "https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 181550,
       "name": "Lucky Again",
       "url": "https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8"
+    },
+    {
+      "added_at": "2026-07-02 22:00:38",
+      "album": {
+        "name": "My Mess",
+        "url": "https://open.spotify.com/album/6SJIgDyt7PDWKtlFP77VLu"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "My Mess",
+      "url": "https://open.spotify.com/track/5p3Jpxg9clWBDLy9kdD6CY"
     },
     {
       "added_at": "2026-07-02 22:00:38",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 206530,
-      "name": "Cruel World",
-      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
-    },
-    {
-      "added_at": "2026-07-02 22:00:38",
-      "album": {
         "name": "Sverige",
         "url": "https://open.spotify.com/album/5gl3P6CM2tN7dnf4gXy6IZ"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 231306,
       "name": "Kaprifol",
       "url": "https://open.spotify.com/track/2smlSdstffsI9yfzH8xNfi"
+    },
+    {
+      "added_at": "2026-07-02 22:00:38",
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/0FTIFzNoKAbv4kjpjbRbDQ"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 206530,
+      "name": "Cruel World",
+      "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
     },
     {
       "added_at": "2026-07-02 22:00:38",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
-        "name": "Love is for Losers",
-        "url": "https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j"
-      },
-      "artists": [
-        {
-          "name": "LOVIS",
-          "url": "https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "Love is for Losers",
-      "url": "https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V"
-    },
-    {
-      "added_at": "2026-07-02 22:00:38",
-      "album": {
         "name": "Spelar ingen roll (feat. Simon Superti)",
         "url": "https://open.spotify.com/album/423myRCWFfwiqQmIYxKUUI"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
+        "name": "Love is for Losers",
+        "url": "https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j"
+      },
+      "artists": [
+        {
+          "name": "LOVIS",
+          "url": "https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "Love is for Losers",
+      "url": "https://open.spotify.com/track/0SZkRNtLE3fRXuKMVsd59V"
+    },
+    {
+      "added_at": "2026-07-02 22:00:38",
+      "album": {
         "name": "I'M DEAD",
         "url": "https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy"
       },
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
-        "name": "Vidrig Soluppg\u00e5ng",
-        "url": "https://open.spotify.com/album/1Cr2HTMxunNo9IDTB55O82"
+        "name": "Bullret I Kristalls\u00e5ngskogen",
+        "url": "https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH"
       },
       "artists": [
         {
-          "name": "Nils Albin",
-          "url": "https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi"
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
         }
       ],
-      "duration_ms": 138105,
-      "name": "Vidrig Soluppg\u00e5ng",
-      "url": "https://open.spotify.com/track/77ZNUojWyYfSuGQsMZqV3v"
+      "duration_ms": 242706,
+      "name": "Andra Sidan",
+      "url": "https://open.spotify.com/track/2xJVwnSjnIDeEHx4eqLPBL"
     },
     {
       "added_at": "2026-07-02 22:00:38",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
-        "name": "Bullret I Kristalls\u00e5ngskogen",
-        "url": "https://open.spotify.com/album/6EEdToPoyNZQ2tRdY8kEqH"
+        "name": "Vidrig Soluppg\u00e5ng",
+        "url": "https://open.spotify.com/album/1Cr2HTMxunNo9IDTB55O82"
       },
       "artists": [
         {
-          "name": "INOMI",
-          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+          "name": "Nils Albin",
+          "url": "https://open.spotify.com/artist/3QWQCUqaIgPRHCzdcV1mVi"
         }
       ],
-      "duration_ms": 242706,
-      "name": "Andra Sidan",
-      "url": "https://open.spotify.com/track/2xJVwnSjnIDeEHx4eqLPBL"
+      "duration_ms": 138105,
+      "name": "Vidrig Soluppg\u00e5ng",
+      "url": "https://open.spotify.com/track/77ZNUojWyYfSuGQsMZqV3v"
     },
     {
       "added_at": "2026-07-02 22:00:38",

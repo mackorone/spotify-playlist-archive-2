@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 76878,
+  "num_followers": 76952,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAACErKhRBSVEoDTE/f5ybUk1",
+  "snapshot_id": "amlCgAAAAABoaEDQw8czwu0hJ3r7SWDL",
   "tracks": [
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 198699,
-      "name": "Waitin' All Day",
-      "url": "https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D"
+      "duration_ms": 171573,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/2EWouyr1NipXylaziIXyye"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 171573,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/2EWouyr1NipXylaziIXyye"
+      "duration_ms": 198699,
+      "name": "Waitin' All Day",
+      "url": "https://open.spotify.com/track/23FjE9H1VxmyT6D2Q5Tf5D"
     },
     {
       "added_at": null,
@@ -770,15 +770,11 @@
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Randy Houser",
-          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Cowboy As It Gets",
-      "url": "https://open.spotify.com/track/42iJyKsPH1rbCeLcVK8XT4"
+      "duration_ms": 223533,
+      "name": "What Am I Supposed To Do Now",
+      "url": "https://open.spotify.com/track/4AJ5ij32WW1yI9RgCDBc3n"
     },
     {
       "added_at": null,
@@ -842,11 +838,15 @@
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Randy Houser",
+          "url": "https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB"
         }
       ],
-      "duration_ms": 223533,
-      "name": "What Am I Supposed To Do Now",
-      "url": "https://open.spotify.com/track/4AJ5ij32WW1yI9RgCDBc3n"
+      "duration_ms": 256000,
+      "name": "Cowboy As It Gets",
+      "url": "https://open.spotify.com/track/42iJyKsPH1rbCeLcVK8XT4"
     }
   ],
   "unique_name": "This Is Riley Green",

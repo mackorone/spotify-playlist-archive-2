@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best new and classic South African Rock. Cover: Pussy Heaven",
+  "description": "The best new and classic South African Rock. Cover: Francois van Coke",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 235458,
       "name": "40",
       "url": "https://open.spotify.com/track/7ijxjvAznH2Jwb4lTGRNvm"
@@ -272,6 +272,24 @@
       "duration_ms": 106120,
       "name": "A week in the life of Rue",
       "url": "https://open.spotify.com/track/1mA3jtJ4mFwYRVZjaDKjL1"
+    },
+    {
+      "album": {
+        "name": "Abafana",
+        "url": "https://open.spotify.com/album/0TBZZtMSzUEYwX5rDfzFrE"
+      },
+      "artists": [
+        {
+          "name": "FREDDY L",
+          "url": "https://open.spotify.com/artist/6UisYsxBIJxT8NGZvmzXsm"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158750,
+      "name": "Abafana",
+      "url": "https://open.spotify.com/track/0BbzM5seFqOXV8xem4oM5i"
     },
     {
       "album": {
@@ -704,7 +722,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 253856,
       "name": "Ambush",
       "url": "https://open.spotify.com/track/6R7ZopFApl53TBoHagimq6"
@@ -1230,6 +1248,24 @@
       "duration_ms": 237687,
       "name": "Bakers Mini Krieket",
       "url": "https://open.spotify.com/track/1ebkVIKuzovrwE0DhS9iGZ"
+    },
+    {
+      "album": {
+        "name": "Bangkinners",
+        "url": "https://open.spotify.com/album/5N5tcHuAgG2VStijF8eiLA"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163181,
+      "name": "Bangkinners",
+      "url": "https://open.spotify.com/track/31Hq2CG7LLW8pT5dVptsKu"
     },
     {
       "album": {
@@ -1767,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "Bleek",
+        "url": "https://open.spotify.com/album/4AqKWE9Dv3wzihtg9d7fN4"
+      },
+      "artists": [
+        {
+          "name": "Arthur Steele",
+          "url": "https://open.spotify.com/artist/3O9AmjJB7AdzGrnornCxVb"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237456,
+      "name": "Bleek",
+      "url": "https://open.spotify.com/track/3wMjJvDOlQrlmZTWhImpgy"
+    },
+    {
+      "album": {
         "name": "Surpass The Power",
         "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
       },
@@ -2168,7 +2222,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 183000,
       "name": "Brooklyn Bachelor",
       "url": "https://open.spotify.com/track/1hJi7eS9uhSQtnQSTjRR72"
@@ -4136,7 +4190,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 178813,
       "name": "Doen Sy Bes",
       "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
@@ -5852,7 +5906,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 227972,
       "name": "Geen Skande",
       "url": "https://open.spotify.com/track/1sZ5KoWcweIBDAuaLy5n9E"
@@ -9386,7 +9440,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 227826,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/6edjFwEvZmtxlnAN9x7s5E"
@@ -10926,7 +10980,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 194000,
       "name": "Nikotien - Radio Edit",
       "url": "https://open.spotify.com/track/4L8c8jAing1SZXmCF0IXkl"
@@ -11446,6 +11500,24 @@
       "duration_ms": 196213,
       "name": "Ooaa",
       "url": "https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8"
+    },
+    {
+      "album": {
+        "name": "Oogkontak",
+        "url": "https://open.spotify.com/album/0sCV0f5J4CelDNVIvzRhI5"
+      },
+      "artists": [
+        {
+          "name": "Bcom",
+          "url": "https://open.spotify.com/artist/3bQd2MsV4ArWPuryfZqwk3"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186490,
+      "name": "Oogkontak",
+      "url": "https://open.spotify.com/track/1usvrGy7FGqCE3kxLl8g2w"
     },
     {
       "album": {
@@ -12156,7 +12228,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 298369,
       "name": "Popcorn and Candyfloss",
       "url": "https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89"
@@ -12178,6 +12250,24 @@
       "duration_ms": 189013,
       "name": "Portraits",
       "url": "https://open.spotify.com/track/7tbrAxXQWUsPVoFpxiJouI"
+    },
+    {
+      "album": {
+        "name": "Pose",
+        "url": "https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202887,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2"
     },
     {
       "album": {
@@ -12888,6 +12978,24 @@
       "duration_ms": 222669,
       "name": "Rosie Rosie",
       "url": "https://open.spotify.com/track/1BTvmatjWw74TnOUwqSMwM"
+    },
+    {
+      "album": {
+        "name": "Rubber Arm",
+        "url": "https://open.spotify.com/album/5njJwV34hj2cmva9Lq4KBb"
+      },
+      "artists": [
+        {
+          "name": "Shortstraw",
+          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205066,
+      "name": "Rubber Arm",
+      "url": "https://open.spotify.com/track/365BKCUdOwuqKfuQCqL8Be"
     },
     {
       "album": {
@@ -14848,7 +14956,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 281836,
       "name": "Surrender to the Waves",
       "url": "https://open.spotify.com/track/7zPDsNnkEn5RwIARvQu3Ns"
@@ -15516,7 +15624,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 233135,
       "name": "The Image of Gold and the Blazing Furnace",
       "url": "https://open.spotify.com/track/4wG7CHANSB6AqVR9s7rXVy"
@@ -15867,6 +15975,24 @@
     },
     {
       "album": {
+        "name": "Those December Nights",
+        "url": "https://open.spotify.com/album/7p0ALHCbnNDlPdC9zxTdnR"
+      },
+      "artists": [
+        {
+          "name": "Babette",
+          "url": "https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245783,
+      "name": "Those December Nights",
+      "url": "https://open.spotify.com/track/6Yf66OWTxnGUCECKfHr53T"
+    },
+    {
+      "album": {
         "name": "Through",
         "url": "https://open.spotify.com/album/4fllSvknMq23MM4pEzzQLl"
       },
@@ -16052,7 +16178,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 172440,
       "name": "Tough",
       "url": "https://open.spotify.com/track/05c24M6IA8m5XTkD73pk0U"
@@ -16168,7 +16294,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 220869,
       "name": "Tree Terug",
       "url": "https://open.spotify.com/track/7MRxb8LoyblUUqnNVGtiQe"
@@ -17468,6 +17594,24 @@
       "duration_ms": 192116,
       "name": "Window",
       "url": "https://open.spotify.com/track/7LENvCM03NF93ww2gqLGO4"
+    },
+    {
+      "album": {
+        "name": "Wishing On A Daydream",
+        "url": "https://open.spotify.com/album/0ae8AqNrIL5ZLVtnLjAjuN"
+      },
+      "artists": [
+        {
+          "name": "Mila Smith",
+          "url": "https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163560,
+      "name": "Wishing On A Daydream",
+      "url": "https://open.spotify.com/track/16JMEE1MP1bS93XHJ2TxoQ"
     },
     {
       "album": {

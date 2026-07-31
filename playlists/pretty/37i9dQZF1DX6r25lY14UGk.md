@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Kamdenboy & Kyraboo
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,181 likes - 99 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,189 likes - 99 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 98 | [I Love Eating Vegetables](https://open.spotify.com/track/1ozlVbbbq8KvZd0lrEim19) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I Love Eating Vegetables](https://open.spotify.com/album/5UaeWRpbOxBhTfG4kmPLYd) | 2:02 |
 | 99 | [Ice Cream \(One More Scoop\)](https://open.spotify.com/track/6Nn6iskRFVZQtIYx8UHyPk) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Ice Cream \(One More Scoop\)](https://open.spotify.com/album/4w9eQRCkshZ0sj6wQANBMf) | 2:22 |
 
-Snapshot ID: `AAAAAPrG/o05WjrVbwCy1bd8jw4DzuEv`
+Snapshot ID: `AAAAAMhkTTMo2JYXm3FYNktXrVIzf6eF`

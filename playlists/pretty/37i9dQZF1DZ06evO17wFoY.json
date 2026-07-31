@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAACQAwvecrll1C40QTZBiI2h",
+  "snapshot_id": "amlCgAAAAAD4dTqBW79SSNhRheEXRoJO",
   "tracks": [
     {
       "added_at": null,
@@ -347,26 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Goldberg Variations (Extended Edt.)",
-        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 321066,
-      "name": "Goldberg Variations, BWV 988: Aria",
-      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kung Fu Panda 3 (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/35vf79jnOBG3WZHQTzIl6a"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 108706,
       "name": "Portrait of Mom",
       "url": "https://open.spotify.com/track/0D3J2SJrmHmRMeuaHieHq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bach: Goldberg Variations (Extended Edt.)",
+        "url": "https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 321066,
+      "name": "Goldberg Variations, BWV 988: Aria",
+      "url": "https://open.spotify.com/track/4GFuyvrYOQYDS497hffJXT"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
+        "name": "Liszt: Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
+        "url": "https://open.spotify.com/album/3lhDAw7jJXezveOqSvhf2A"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 185493,
-      "name": "Romance \"O pourquoi donc\" in E Minor, S. 169",
-      "url": "https://open.spotify.com/track/4wKGetA5crT9tZhjqTLTka"
+      "duration_ms": 207066,
+      "name": "Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
+      "url": "https://open.spotify.com/track/4sknlExcYjhwvoFjKfZ7vb"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liszt: Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
-        "url": "https://open.spotify.com/album/3lhDAw7jJXezveOqSvhf2A"
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 207066,
-      "name": "Consolations, S. 172: No. 2 in E Major. Un poco pi\u00f9 mosso",
-      "url": "https://open.spotify.com/track/4sknlExcYjhwvoFjKfZ7vb"
+      "duration_ms": 185493,
+      "name": "Romance \"O pourquoi donc\" in E Minor, S. 169",
+      "url": "https://open.spotify.com/track/4wKGetA5crT9tZhjqTLTka"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lang Lang: The Chopin Album",
-        "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 366320,
-      "name": "Nocturne in E-Flat Major, Op. 55, No. 2",
-      "url": "https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ann: ICARUS (Version for Piano 4 Hands)",
         "url": "https://open.spotify.com/album/70wHjMEcYKBwNTufddc69I"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 198906,
       "name": "ICARUS (Version for Piano 4 Hands)",
       "url": "https://open.spotify.com/track/2Ebny6CAm0KH0YvWvLQBNz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lang Lang: The Chopin Album",
+        "url": "https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 366320,
+      "name": "Nocturne in E-Flat Major, Op. 55, No. 2",
+      "url": "https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx"
     },
     {
       "added_at": null,
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 33453,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 7",
-      "url": "https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL"
+      "duration_ms": 31493,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 1",
+      "url": "https://open.spotify.com/track/3ESuJaKignCDNOFqtELl5p"
     },
     {
       "added_at": null,
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 31493,
-      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 1",
-      "url": "https://open.spotify.com/track/3ESuJaKignCDNOFqtELl5p"
+      "duration_ms": 33453,
+      "name": "12 Variations on \"Ah, vous dirai-je maman\", K. 265: Var. 7",
+      "url": "https://open.spotify.com/track/0y646OrSYbBZ202ScoCbAL"
     },
     {
       "added_at": null,
@@ -967,30 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Disney Book (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ADhBk8zOQYwKhiPbGKSH1"
+        "name": "Chopin Gold",
+        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
       },
       "artists": [
         {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
           "name": "Lang Lang",
           "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        },
-        {
-          "name": "Milo\u0161 Karadagli\u0107",
-          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
-        },
-        {
-          "name": "Royal Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
-        },
-        {
-          "name": "Robert Ziegler",
-          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
         }
       ],
-      "duration_ms": 292860,
-      "name": "Remember Me - From \"Coco\" (Feat. Milo\u0161 Karadagli\u0107)",
-      "url": "https://open.spotify.com/track/4pqzPLETBU4GNMP7DDSzGl"
+      "duration_ms": 373173,
+      "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - Live",
+      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
     },
     {
       "added_at": null,
@@ -1015,26 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chopin Gold",
-        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 373173,
-      "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - Live",
-      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gran Turismo 5 (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/2fopqZRJz4oYR3ftxBAUWy"
       },
@@ -1051,6 +1023,22 @@
       "duration_ms": 268613,
       "name": "Herz und Mund und Tat und Leben, BWV 147: Chorale. Jesus bleibet meine Freude (Arr. for Piano)",
       "url": "https://open.spotify.com/track/2R0vxgZ5SJUD6dLjkgOx5C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rainbow Connection (From \"The Muppet Movie\")",
+        "url": "https://open.spotify.com/album/3LU9IHeZtf8OknOkm0tkXv"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "duration_ms": 250828,
+      "name": "Rainbow Connection - From \"The Muppet Movie\"",
+      "url": "https://open.spotify.com/track/2zDcsFEQTjCTxl4Efod6Ml"
     }
   ],
   "unique_name": "This Is Lang Lang",

@@ -3131,6 +3131,36 @@
     },
     {
       "album": {
+        "name": "Boohe Baarian",
+        "url": "https://open.spotify.com/album/1nAwOsqNuM303oFYOdeXtd"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Sharan Rawat",
+          "url": "https://open.spotify.com/artist/2VB5F2QJgJfhBtpARDX1iv"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175032,
+      "name": "Boohe Baarian",
+      "url": "https://open.spotify.com/track/7yUZ8noW5So1bqbxCPyUIh"
+    },
+    {
+      "album": {
         "name": "Boondon Mein Ghar",
         "url": "https://open.spotify.com/album/2sPoThMSpEfj8LTcduf8hS"
       },
@@ -4438,6 +4468,36 @@
       "duration_ms": 148124,
       "name": "Dhak Dhak Reloaded",
       "url": "https://open.spotify.com/track/5VbLC80g5f6oSbSq9BsC6K"
+    },
+    {
+      "album": {
+        "name": "Dharma (From \"Ohh My Dog\")",
+        "url": "https://open.spotify.com/album/53g3Mt2pGwNRBjYR88et27"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Aman Pant",
+          "url": "https://open.spotify.com/artist/3DEQO9JUqGunLxKk6UJVpE"
+        },
+        {
+          "name": "Sneha Shankar",
+          "url": "https://open.spotify.com/artist/2K89AHztkLmFRfoKC6ySoT"
+        },
+        {
+          "name": "Guru Thakur",
+          "url": "https://open.spotify.com/artist/1NKmpPhLjRNBoFoc6TVH25"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314464,
+      "name": "Dharma (From \"Ohh My Dog\")",
+      "url": "https://open.spotify.com/track/45d04xuv30eXnbeL8TV8rl"
     },
     {
       "album": {
@@ -5838,7 +5898,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 133777,
       "name": "Fanda",
       "url": "https://open.spotify.com/track/7dZcyOGqEuzialJ5PJsCka"
@@ -10524,10 +10584,28 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 143414,
       "name": "Khoon",
       "url": "https://open.spotify.com/track/4QHZSpl7IKkaUZQdDRNJjl"
+    },
+    {
+      "album": {
+        "name": "Khoya",
+        "url": "https://open.spotify.com/album/3YRlJ5BxQ7Jdm7PvIsUmhc"
+      },
+      "artists": [
+        {
+          "name": "OutStation",
+          "url": "https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170412,
+      "name": "Khoya",
+      "url": "https://open.spotify.com/track/7u17DXF5DxhmP8hm63yqJm"
     },
     {
       "album": {
@@ -19050,7 +19128,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 218858,
       "name": "Tera Yaar Hoon Main Title Track - From \"Tera Yaar Hoon Main\"",
       "url": "https://open.spotify.com/track/7EbEeGxCLas28jD7jFy7bL"

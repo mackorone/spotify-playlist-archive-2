@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Darassa",
+  "description": "What is your love language? Say it in Swahili.  Cover: Yammi",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -628,7 +628,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 182068,
       "name": "Better Love",
       "url": "https://open.spotify.com/track/48FW62a8isVS443e7EaIUE"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 222857,
       "name": "I'm Waiting",
       "url": "https://open.spotify.com/track/4cSOro07DTpEJ6yFsgiBBq"
@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 207183,
       "name": "Madhambi",
       "url": "https://open.spotify.com/track/1Gj3O1jJwyckqTNMdcl8DB"
@@ -4083,6 +4083,24 @@
     },
     {
       "album": {
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/14LRbN8KHBjZgA7gaKYAY0"
+      },
+      "artists": [
+        {
+          "name": "Matonya",
+          "url": "https://open.spotify.com/artist/2nHyoDQinKKGYIzSkK3IwI"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/1zTsIGDezfknAm2vkoSqcz"
+    },
+    {
+      "album": {
         "name": "Nalego",
         "url": "https://open.spotify.com/album/4LioOosWof1zHLi0B63C6g"
       },
@@ -5131,6 +5149,24 @@
     },
     {
       "album": {
+        "name": "Ova",
+        "url": "https://open.spotify.com/album/7pAM18cBaTwhGDF91YjHiE"
+      },
+      "artists": [
+        {
+          "name": "Zee Cute",
+          "url": "https://open.spotify.com/artist/62kQVK8wruNktGYOV1UZqF"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158496,
+      "name": "Ova",
+      "url": "https://open.spotify.com/track/2xgEcxGKkjpGcwlWy0KQfk"
+    },
+    {
+      "album": {
         "name": "Pambe Tu",
         "url": "https://open.spotify.com/album/3By27Rll9J132bK0qKxObI"
       },
@@ -6043,6 +6079,24 @@
     },
     {
       "album": {
+        "name": "Subira",
+        "url": "https://open.spotify.com/album/1v0fPa8B379OhGZg2dMW2D"
+      },
+      "artists": [
+        {
+          "name": "Otile Brown",
+          "url": "https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245649,
+      "name": "Subira",
+      "url": "https://open.spotify.com/track/2utgOHRwphmYpiSP3CHN5p"
+    },
+    {
+      "album": {
         "name": "SUGAR",
         "url": "https://open.spotify.com/album/3t54foBHypQsPElET1ls6c"
       },
@@ -6920,7 +6974,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 169914,
       "name": "Wangu",
       "url": "https://open.spotify.com/track/5jo2MPiQgct6oCFOO5FE36"
@@ -6986,6 +7040,24 @@
       "duration_ms": 172221,
       "name": "Wapi",
       "url": "https://open.spotify.com/track/0KW4jkATD90jEVUH1VYzT0"
+    },
+    {
+      "album": {
+        "name": "Wasiwasi",
+        "url": "https://open.spotify.com/album/4A3tkgIoGW190qRfJNzfKg"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180530,
+      "name": "Wasiwasi",
+      "url": "https://open.spotify.com/track/6APLhvny4lS9NxuJjE5fXf"
     },
     {
       "album": {

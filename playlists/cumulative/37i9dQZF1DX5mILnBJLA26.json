@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves right now.  Cover: Xduppy",
+  "description": "The biggest Amapiano singles making waves right now.  Cover: Kabza De Small",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -14215,6 +14215,36 @@
     },
     {
       "album": {
+        "name": "Ifa Lami",
+        "url": "https://open.spotify.com/album/4V3Dpnuzon8YyjdOxFLtWB"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Sykes",
+          "url": "https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC"
+        },
+        {
+          "name": "Anzo",
+          "url": "https://open.spotify.com/artist/17hUKyhHJ29kKUdyOzax7a"
+        },
+        {
+          "name": "Tshego AMG",
+          "url": "https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259214,
+      "name": "Ifa Lami (feat. Anzo & Tshego AMG)",
+      "url": "https://open.spotify.com/track/6pg5DVfkeaRM2TS3pNKx2Z"
+    },
+    {
+      "album": {
         "name": "Ifilim",
         "url": "https://open.spotify.com/album/2L4x0x4zvVhEwIpyBRNUiR"
       },
@@ -21328,7 +21358,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 395493,
       "name": "Lutho (feat. De Rose)",
       "url": "https://open.spotify.com/track/54gOExDYI4WmDlwQaygLDp"
@@ -24336,7 +24366,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 375535,
       "name": "MONEY CONSTANT",
       "url": "https://open.spotify.com/track/12jMMRyPNMTNp3CRmdWMve"
@@ -31162,6 +31192,32 @@
       "duration_ms": 387433,
       "name": "Sangena (feat. Scotts Maphuma & Toss)",
       "url": "https://open.spotify.com/track/7uyScF14QVoYWUE51t3XYi"
+    },
+    {
+      "album": {
+        "name": "Sasingenjena",
+        "url": "https://open.spotify.com/album/6tieg1jr1NiknHbJCwGDhN"
+      },
+      "artists": [
+        {
+          "name": "De Mthuda",
+          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
+        },
+        {
+          "name": "Mnqobi Yazo",
+          "url": "https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397607,
+      "name": "Sasingenjena",
+      "url": "https://open.spotify.com/track/4uAnjk3FYvtPxDD1gOkcvw"
     },
     {
       "album": {

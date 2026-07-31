@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123416,
+  "num_followers": 123410,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVnnXFRp2O8QUzNOdh40H3Gmd2WNAO",
+  "snapshot_id": "AAAVoF/T3CFS64ly8CSdHmJCtNMLYWOK",
   "tracks": [
+    {
+      "added_at": "2026-07-30 15:01:51",
+      "album": {
+        "name": "You Get Me All The Time",
+        "url": "https://open.spotify.com/album/52YXdSqCycLJcg1VCVsNrG"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 140571,
+      "name": "You Get Me All The Time",
+      "url": "https://open.spotify.com/track/5qtyuUjIcY5nLjaU5cgFgu"
+    },
     {
       "added_at": "2026-07-29 15:54:46",
       "album": {
@@ -1191,118 +1207,6 @@
       "duration_ms": 184414,
       "name": "ENERGY (I Feel)",
       "url": "https://open.spotify.com/track/0DZirU8OfoBgia2kga6Bzi"
-    },
-    {
-      "added_at": "2026-04-23 14:17:51",
-      "album": {
-        "name": "Should've Known Better",
-        "url": "https://open.spotify.com/album/3VWWyCDqXWHxWwfyhEQBqy"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "KENNEDY",
-          "url": "https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R"
-        }
-      ],
-      "duration_ms": 142235,
-      "name": "Should've Known Better",
-      "url": "https://open.spotify.com/track/6xC8SOWsbewQ7c7NRMsrje"
-    },
-    {
-      "added_at": "2026-04-22 13:48:05",
-      "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/5ThSyNsXiVHyF06Zd4mZuq"
-      },
-      "artists": [
-        {
-          "name": "Bishu",
-          "url": "https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL"
-        }
-      ],
-      "duration_ms": 151267,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/3Q4c260OtcneST0kSXoLnE"
-    },
-    {
-      "added_at": "2026-04-20 14:21:28",
-      "album": {
-        "name": "CRUEL!",
-        "url": "https://open.spotify.com/album/0pcCbKYElscFF67gUZQg6H"
-      },
-      "artists": [
-        {
-          "name": "OSSIEN",
-          "url": "https://open.spotify.com/artist/2P7X4Jb4H4hjoQyWUvKs9s"
-        },
-        {
-          "name": "zoska",
-          "url": "https://open.spotify.com/artist/3PUGGjaM7gnyEvIGfWYwh6"
-        }
-      ],
-      "duration_ms": 191586,
-      "name": "CRUEL!",
-      "url": "https://open.spotify.com/track/5S8CRlSJxNhu9Auji1u3ZI"
-    },
-    {
-      "added_at": "2026-04-17 16:08:57",
-      "album": {
-        "name": "Make You Move",
-        "url": "https://open.spotify.com/album/6Ivi4D1oC0lM7gDgyvq7gr"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Make You Move",
-      "url": "https://open.spotify.com/track/5FwShfnXbAeoEVtS3d37cQ"
-    },
-    {
-      "added_at": "2026-04-17 16:08:45",
-      "album": {
-        "name": "Get Slippy",
-        "url": "https://open.spotify.com/album/3E5sDCaFFndVN6LSZgCWRD"
-      },
-      "artists": [
-        {
-          "name": "SHOSH",
-          "url": "https://open.spotify.com/artist/1emgVmY6u8GGlRhkHESKKH"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Get Slippy",
-      "url": "https://open.spotify.com/track/194ZRoXmA3C8RqnZCUvirF"
-    },
-    {
-      "added_at": "2026-04-16 18:18:03",
-      "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/3HpHW9r9grbAHVflpDttMU"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        },
-        {
-          "name": "Avi Snow",
-          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/64RtBPP0NXkUA0N79pDE4P"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

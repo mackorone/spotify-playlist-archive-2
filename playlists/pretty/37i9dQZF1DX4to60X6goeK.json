@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 76242,
+  "num_followers": 76252,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAACPXlC3ugXUkdyJbv8+Z8tAsWcT",
+  "snapshot_id": "AAAAAFUKYsEQddhbaAEH11lJ0vjlw2ji",
   "tracks": [
     {
       "added_at": "2026-07-01 17:59:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "On The Gas",
-        "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
+        "name": "Do U Feel It Now?",
+        "url": "https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL"
       },
       "artists": [
         {
-          "name": "MANIA",
-          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
         }
       ],
-      "duration_ms": 178285,
-      "name": "On The Gas",
-      "url": "https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr"
+      "duration_ms": 231724,
+      "name": "Do U Feel It Now?",
+      "url": "https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -367,18 +367,18 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "Do U Feel It Now?",
-        "url": "https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL"
+        "name": "On The Gas",
+        "url": "https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO"
       },
       "artists": [
         {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+          "name": "MANIA",
+          "url": "https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Do U Feel It Now?",
-      "url": "https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma"
+      "duration_ms": 178285,
+      "name": "On The Gas",
+      "url": "https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -415,6 +415,26 @@
       "duration_ms": 222171,
       "name": "Do You",
       "url": "https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
+        "name": "NO SURRENDER (No Retreat)",
+        "url": "https://open.spotify.com/album/2YTbTLwXVyRDmR8zyo8a77"
+      },
+      "artists": [
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        }
+      ],
+      "duration_ms": 209828,
+      "name": "NO SURRENDER (No Retreat)",
+      "url": "https://open.spotify.com/track/1BwAmOqvZjLf8ynLWnQ9LC"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -467,26 +487,6 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "NO SURRENDER (No Retreat)",
-        "url": "https://open.spotify.com/album/2YTbTLwXVyRDmR8zyo8a77"
-      },
-      "artists": [
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        },
-        {
-          "name": "Pirapus",
-          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
-        }
-      ],
-      "duration_ms": 209828,
-      "name": "NO SURRENDER (No Retreat)",
-      "url": "https://open.spotify.com/track/1BwAmOqvZjLf8ynLWnQ9LC"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
         "name": "Yapa Yapa (Shut It Pls) [Serum Remix]",
         "url": "https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs"
       },
@@ -531,46 +531,6 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "Satellite (SOTA Remix)",
-        "url": "https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        },
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "Satellite - SOTA Remix",
-      "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
-        "name": "Feel My Love",
-        "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
-      },
-      "artists": [
-        {
-          "name": "Eskei83",
-          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
-        }
-      ],
-      "duration_ms": 224827,
-      "name": "Feel My Love",
-      "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
         "name": "Round + Round",
         "url": "https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9"
       },
@@ -591,6 +551,30 @@
       "duration_ms": 158620,
       "name": "Round + Round",
       "url": "https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
+        "name": "Satellite (SOTA Remix)",
+        "url": "https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        },
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "Satellite - SOTA Remix",
+      "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -635,6 +619,22 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
+        "name": "Feel My Love",
+        "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
+      },
+      "artists": [
+        {
+          "name": "Eskei83",
+          "url": "https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R"
+        }
+      ],
+      "duration_ms": 224827,
+      "name": "Feel My Love",
+      "url": "https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
         "name": "Skanka",
         "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
-      },
-      "artists": [
-        {
-          "name": "Blossom",
-          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 177136,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "Reaper (feat. Comma Dee)",
-        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "Reaper (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
         "name": "Bad Boy Horns",
         "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 252342,
       "name": "Bad Boy Horns",
       "url": "https://open.spotify.com/track/3aAPSZ94zVWGPWcjDUjze8"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
+        "name": "Reaper (feat. Comma Dee)",
+        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 213793,
+      "name": "Reaper (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
+        "name": "Spag Bol",
+        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "duration_ms": 202281,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
         "name": "Axiom / Intuition",
         "url": "https://open.spotify.com/album/34WMLUUQVe28cku9U7rRO4"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 267586,
       "name": "Axiom",
       "url": "https://open.spotify.com/track/0mfWwsSnGt4mED2vz3CBUB"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
-        "name": "Spag Bol",
-        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 202281,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
     },
     {
       "added_at": "2026-07-01 17:59:00",

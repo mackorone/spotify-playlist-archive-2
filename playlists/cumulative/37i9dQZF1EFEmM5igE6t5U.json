@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "I Remember Me",
+        "url": "https://open.spotify.com/album/73xzYfVVYvkwYrhb5iUvjH"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209466,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/0dKl3wdvYR7FpiSdgu0I9S"
+    },
+    {
+      "album": {
         "name": "Hidden Figures: The Album",
         "url": "https://open.spotify.com/album/5ydGsF9Qy1IZsFmLRpJ4oc"
       },
@@ -1220,7 +1238,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-30",
+      "date_removed": null,
       "duration_ms": 321361,
       "name": "Fire We Make",
       "url": "https://open.spotify.com/track/5VIUVUvwHPM2vJaQpznd5W"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Stank face activated\. Cover: Average Citizens
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,929 likes - 90 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,925 likes - 90 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 89 | [Take It All](https://open.spotify.com/track/4Su7VFUPb9KYr6bnCRBWxU) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Take It All](https://open.spotify.com/album/6Z4FhlsTWm5HaEUNcWHC6l) | 2:51 |
 | 90 | [Cash Out](https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Cash Out](https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR) | 3:02 |
 
-Snapshot ID: `AAAAAFYfOwjzcLgxKPrCrZTNw6cN/vLe`
+Snapshot ID: `AAAAAHx8rZ4ddtF3f1Nv/Oq+Q20Y4aEo`

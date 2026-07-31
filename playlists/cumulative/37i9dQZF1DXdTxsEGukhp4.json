@@ -5771,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "SPARK",
+        "url": "https://open.spotify.com/album/6YDLN4c5hQcas1EfmpXv4L"
+      },
+      "artists": [
+        {
+          "name": "moumoon",
+          "url": "https://open.spotify.com/artist/2lXdBKdqczUqxZlQxqTaFF"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229493,
+      "name": "Sunshine Girl",
+      "url": "https://open.spotify.com/track/3DTKUjPPc0XHKZO6N8S2nm"
+    },
+    {
+      "album": {
         "name": "Super funk market",
         "url": "https://open.spotify.com/album/28VOgfZgmEysQj9UdgjoNP"
       },

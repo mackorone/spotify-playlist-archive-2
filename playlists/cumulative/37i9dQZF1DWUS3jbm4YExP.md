@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-905 songs - 2 day 15 hr 47 min
+906 songs - 2 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Je ne suis pas fâché](https://open.spotify.com/track/4liMJ96BXjEhfgujdQy6mv) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Rise](https://open.spotify.com/album/0S4s1FCxl8wwfEhq0HFHE7) | 6:17 | 2025-04-18 | 2025-06-07 |
 | [Jela Kubwa Na Viboko](https://open.spotify.com/track/7rOu21uEg6VSWRy9Fgzx4K) | [Franck Biyong](https://open.spotify.com/artist/66pH3nd8YzbQBO3KBG2z5E) | [Radio Masoda](https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo) | 4:51 | 2024-07-05 | 2025-03-23 |
 | [Joni Indo](https://open.spotify.com/track/6htacxeycAR4ILeAAnBbzY) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ) | [BTVC](https://open.spotify.com/album/52QTTpeSM35ixuCvnoJ0w3) | 4:45 | 2023-08-31 | 2023-10-21 |
+| [Jonio](https://open.spotify.com/track/4jrBtIBrUvHbhTChcXV6ay) | [Scirocco](https://open.spotify.com/artist/24vLaSL75xLuSoyEkYYmgr) | [Jonio](https://open.spotify.com/album/0wxYKms20PskATiIXofuMt) | 4:21 | 2026-06-25 |  |
 | [Judge Not \- Ray Mang Radio Edit](https://open.spotify.com/track/5rJ4Actcle0BKg7CUmGqoy) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Judge Not \(Ray Mang Mixes\)](https://open.spotify.com/album/7l9wGE3dDzxgn5P8fl9lgw) | 3:34 | 2021-10-06 | 2022-07-29 |
 | [Judge Not \- Ray Mang Radio Edit](https://open.spotify.com/track/63Dcd1TRAGV5dxpJPDz6Ae) | [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Judge Not \(Ray Mang Mixes\)](https://open.spotify.com/album/1ltDNyqAihoVYUfjv28oXl) | 3:34 | 2021-10-06 | 2023-10-13 |
 | [Juicy](https://open.spotify.com/track/37BcvlCPdEu1fQuuad7TZ1) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Juicy](https://open.spotify.com/album/1l9h8V3bk4SUoGrAyviH2K) | 3:45 | 2023-03-22 | 2024-05-01 |
@@ -571,7 +572,7 @@
 | [Nearly Everything](https://open.spotify.com/track/6Kn1gBPHZ7EHpvjNNrYhWQ) | [Teotima](https://open.spotify.com/artist/5Nt0nt9CR5Fi2BUEv0weLZ) | [Counting the Ways](https://open.spotify.com/album/0xn7sakWRxz29Ve9T6eQ63) | 8:42 | 2022-04-17 | 2022-06-04 |
 | [Nefertiti \- David Walters Remix](https://open.spotify.com/track/1m0OvusfKEUnCp5yeu2n5w) | [Futuro Pelo](https://open.spotify.com/artist/5EqHv5lvGgrnkuGEFn67yN), [Neysa May](https://open.spotify.com/artist/5H2iUUIDCECSAaA78O8KiZ), [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7) | [Nefertiti \(David Walters Remix\)](https://open.spotify.com/album/23m1mFoYRTki07i4WBUtUH) | 3:28 | 2021-10-06 | 2025-07-23 |
 | [Negro Santo](https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Monstruos del Mañana](https://open.spotify.com/artist/7v8VhVh30Z6wcT480oEK7V), [Melisa Castellanos](https://open.spotify.com/artist/7IuJScX96WercVvWQZNolC) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 4:58 | 2022-04-05 | 2025-12-31 |
-| [Nen Lambo](https://open.spotify.com/track/6zWn8wLNdQnn80WJWV6TaO) | [Bill Loko](https://open.spotify.com/artist/0r6b4CqtfIXtTkKR9aqQQA) | [Pop Makossa \(Analog Africa No\. 23\)](https://open.spotify.com/album/5oxWoRY1NLhmCwBEKA3ZJa) | 6:23 | 2021-10-06 |  |
+| [Nen Lambo](https://open.spotify.com/track/6zWn8wLNdQnn80WJWV6TaO) | [Bill Loko](https://open.spotify.com/artist/0r6b4CqtfIXtTkKR9aqQQA) | [Pop Makossa \(Analog Africa No\. 23\)](https://open.spotify.com/album/5oxWoRY1NLhmCwBEKA3ZJa) | 6:23 | 2021-10-06 | 2026-07-31 |
 | [Netseweth Sifassan Nagh](https://open.spotify.com/track/2SWXWkmpjPsZDYeOhbmjdO) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/6wR1PTOSJRYZeo7zdWWWgD) | 4:27 | 2021-12-17 | 2022-07-19 |
 | [Netseweth Sifassan Nagh \(Habibi Funk 017\)](https://open.spotify.com/track/32w5a6z6eG2Dyx69yBbH0q) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Netseweth Sifassan Nagh \(Habibi Funk 017\)](https://open.spotify.com/album/2MkZrAcy15VY2xFvzK48J8) | 4:27 | 2022-01-14 | 2022-04-13 |
 | [Never Understand \- Habibi Funk 024](https://open.spotify.com/track/4GiYIQr4qEMxJDT9OPaYji) | [Ibrahim Hesnawi](https://open.spotify.com/artist/6tPa6NxEdaNHWKupImT46F) | [Never Understand \(Habibi Funk 024\)](https://open.spotify.com/album/5IINb7SuoBdORtAqr8uafK) | 3:54 | 2023-09-18 | 2023-11-29 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/14QejH3mjo1cVX1ATOop0M">okgiorgio</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-204 songs - 9 hr 58 min
+207 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,9 @@
 | [ko paradiso](https://open.spotify.com/track/2hJm5UTdAirUFMJSyL4Sac) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 2:43 | 2026-07-29 |  |
 | [ko pausa](https://open.spotify.com/track/1stoCuMxnyX9ITVze7RJvS) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 1:59 | 2026-07-29 |  |
 | [ko penso](https://open.spotify.com/track/2KV0yWfr01Lgo8VeGbBIet) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:18 | 2026-07-28 |  |
+| [ko sento](https://open.spotify.com/track/4AsvUH7EtRV3Qsq7AqE4QT) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 4:00 | 2026-07-30 |  |
+| [ko soli](https://open.spotify.com/track/2Wn7bPhofDscBEwvNQkZHw) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 2:39 | 2026-07-30 |  |
+| [ko tempo](https://open.spotify.com/track/0f1A2w2tdYJsrHKP2qXw2W) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ko mixtape](https://open.spotify.com/album/77sTewe6uhw0100rEFzEXl) | 3:39 | 2026-07-30 |  |
 | [LA NOTTE](https://open.spotify.com/track/3dK7LjirF5LVopSoO45dgN) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 3:05 | 2024-04-29 |  |
 | [La Verità](https://open.spotify.com/track/4zsg78rgHmPCw4IqQ5w0ME) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [Hotel Corallo](https://open.spotify.com/album/6TOinoXJcHtiLvF3Nrw8rB) | 2:57 | 2024-06-10 |  |
 | [Labbra blu \(feat\. YTAM\)](https://open.spotify.com/track/19IZq1j2WflYlidjB26DpU) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe), [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U) | [DEFAULT](https://open.spotify.com/album/3i83xKoFsymSxIkxoKm9pB) | 2:34 | 2025-08-22 |  |

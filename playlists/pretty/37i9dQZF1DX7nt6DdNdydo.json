@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 64432,
+  "num_followers": 64437,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG9NfgPxxwQQW3uPVqiz2FDJ77Aj",
+  "snapshot_id": "AAAAANmOzWBvh06N2mBuPgQoDPNCwOdz",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Hello Little Boy",
-      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Down The Road Apiece -The Best Of Amos Milburn",
         "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 179893,
       "name": "Down The Road Apiece",
       "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Hello Little Boy",
+      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "More Greatest Hits - Good Rockin' Tonight",
-        "url": "https://open.spotify.com/album/1d0AzcPC6aD8jmDmhCYRuP"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 136773,
-      "name": "Shake That Thing",
-      "url": "https://open.spotify.com/track/2XacJ1d8YqhSrxxUFykEOY"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Dootone Rock 'n' Rhythm & Blues",
         "url": "https://open.spotify.com/album/0qt4mC8NS8SOZGjsJoXulh"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 136226,
       "name": "Real Fine Daddy",
       "url": "https://open.spotify.com/track/1IEjfCPwrQU942xOp8Wa6B"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "More Greatest Hits - Good Rockin' Tonight",
+        "url": "https://open.spotify.com/album/1d0AzcPC6aD8jmDmhCYRuP"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 136773,
+      "name": "Shake That Thing",
+      "url": "https://open.spotify.com/track/2XacJ1d8YqhSrxxUFykEOY"
     },
     {
       "added_at": "2022-03-28 19:44:25",

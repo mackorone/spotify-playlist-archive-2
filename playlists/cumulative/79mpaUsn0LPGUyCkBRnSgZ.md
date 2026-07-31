@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,187 songs - 3 day 4 hr 40 min
+1,188 songs - 3 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1088,6 +1088,7 @@
 | [Turn the Page](https://open.spotify.com/track/7eHt7rcLWNXREbck9PAsHA) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Original Pirate Material](https://open.spotify.com/album/6HAJ0LRCEqJeaCDm2lSsq8) | 3:15 | 2025-05-16 | 2025-06-22 |
 | [Turnin' Me Up](https://open.spotify.com/track/5MjAFPcmrR1DYCgZrXCN4d) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [In My Mind](https://open.spotify.com/album/15iSR05cslUeYgf2kuWDhu) | 4:29 | 2024-01-17 |  |
 | [Turnover](https://open.spotify.com/track/3GzrbXN9lIE6kmycaX5xzt) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [Repeater + 3 Songs](https://open.spotify.com/album/6JbGZGta38AArBgflt024C) | 4:15 | 2024-02-24 |  |
+| [Twenty](https://open.spotify.com/track/13i41xeRDguAB9EruCaX9f) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Àdá Irin](https://open.spotify.com/album/0iCeii4kXm8YOIHxxzQphO) | 1:13 | 2026-07-30 |  |
 | [TWICE REMOVED](https://open.spotify.com/track/6cMaeMxUUtPGZri4qPSQ5Y) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 3:59 | 2025-12-06 | 2026-05-08 |
 | [Twin Plagues](https://open.spotify.com/track/5OeHMVPyqAyfAkeZm9MwSI) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 4:08 | 2023-12-25 | 2025-07-25 |
 | [Ugly Brunette](https://open.spotify.com/track/0fUV4Y51wN8lnG75rkDDwg) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Horse Jumper of Love](https://open.spotify.com/album/6deqa9Ep8kRZA1xiKbj1jc) | 2:56 | 2024-08-26 |  |

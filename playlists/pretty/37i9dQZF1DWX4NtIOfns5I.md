@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > meet renny conti 💌
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,264 likes - 119 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,302 likes - 119 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 118 | [Impostor Syndrome](https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [No Dogs Allowed](https://open.spotify.com/album/3jgktTCGathax8HKW4aGfg) | 4:54 |
 | 119 | [blackout](https://open.spotify.com/track/6mY1s0I7DLrZGfkNnKHPbx) | [Khatumu](https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu) | [blackout](https://open.spotify.com/album/3gRu77mh76AtUG8xH6HWL8) | 2:53 |
 
-Snapshot ID: `AAAAABSzvZGkx1mAlH3odzDx6GSO3t6t`
+Snapshot ID: `AAAAAFsT5Qbn4zwup48i9j5iqpm2HZDC`

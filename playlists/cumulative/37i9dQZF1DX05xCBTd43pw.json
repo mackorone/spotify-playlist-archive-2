@@ -5117,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "Kleines Lied",
+        "url": "https://open.spotify.com/album/7EO8VCvJXe9QIDEBoTnGKG"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159172,
+      "name": "Kleines Lied",
+      "url": "https://open.spotify.com/track/4WOqim4SQDPgjp3nxeTl0U"
+    },
+    {
+      "album": {
         "name": "Kompliment",
         "url": "https://open.spotify.com/album/2NUERsJFzukrqAtbw2bhdG"
       },
@@ -7868,7 +7886,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 176733,
       "name": "Shine",
       "url": "https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z"

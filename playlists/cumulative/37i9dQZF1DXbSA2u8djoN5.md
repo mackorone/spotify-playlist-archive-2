@@ -2,9 +2,9 @@
 
 ### [Suflet + Sunet](https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5)
 
-> Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Cojo, Delia
+> Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Cabron
 
-303 songs - 14 hr 51 min
+304 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [CONTACT FATAL 3](https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [CONTACT FATAL 3](https://open.spotify.com/album/1k3zLlEuzno4jdOYetv7Pr) | 2:51 | 2024-08-01 | 2024-11-01 |
 | [Contra timp](https://open.spotify.com/track/0wHZ9isU3z52IdADk0oE1u) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Cristi Minculescu](https://open.spotify.com/artist/5JJ9wazR5aGc0MHAjiCTF0), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Contra timp](https://open.spotify.com/album/4rOIsUkbQ8c6AnAZyuCwpb) | 3:16 | 2025-09-11 | 2025-12-05 |
 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 | 2024-11-28 | 2026-07-26 |
-| [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 | 2025-04-24 |  |
+| [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 | 2025-04-24 | 2026-07-31 |
 | [Craft](https://open.spotify.com/track/0M3cDeSQ4IsjC8fJHpsUop) | [Keri](https://open.spotify.com/artist/0M2OddlqkyfHNR2ySoT85l), [Butch](https://open.spotify.com/artist/2mrbr3l5ErDgGpQfukAtZr) | [Craft](https://open.spotify.com/album/3B8Fm9cvoc2ds8wj5Z2ITp) | 2:52 | 2025-06-19 | 2025-07-19 |
 | [CUM ADUNI](https://open.spotify.com/track/0D6UMM7ZGaCahAT36P0BEM) | [Cazacov](https://open.spotify.com/artist/4NZ6mc6jykZVesq2izEoE1), [Dodut](https://open.spotify.com/artist/1rUHZkQph9E782V1DjlS0U) | [CUM ADUNI](https://open.spotify.com/album/5NUnaek88CpJie3xlgH5lV) | 2:30 | 2025-05-01 | 2025-05-16 |
 | [Cum mă cheamă?](https://open.spotify.com/track/1yGhOBi6bFHqu56NuTj8eo) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Cum mă cheamă?](https://open.spotify.com/album/1qDeoXEXvyZyTxT15MGolf) | 3:20 | 2025-02-27 | 2025-03-15 |
@@ -227,6 +227,7 @@
 | [ROCKSTAR](https://open.spotify.com/track/3soCMqsD3Gh9OHbiLdPkPm) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV), [Vali Miron](https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU) | [ROCKSTAR](https://open.spotify.com/album/78XcVITzuLnYR7m63LJzEs) | 2:21 | 2026-01-08 | 2026-04-03 |
 | [ROLLIE](https://open.spotify.com/track/0JGIR7mGyhQZAe7tK53S9b) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ROLLIE](https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn) | 3:25 | 2024-10-17 | 2024-11-30 |
 | [Românească](https://open.spotify.com/track/6IvsHJJMAbf6lUBpFaSii4) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Românească](https://open.spotify.com/album/1U498gIRXMiyOtf9DI4glf) | 2:33 | 2025-01-23 | 2025-03-07 |
+| [Rupe](https://open.spotify.com/track/5MPSbH6YGRLB7F29Lvqg38) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Rupe](https://open.spotify.com/album/23880pISyeSMXTmTc8Gn2M) | 3:13 | 2026-07-30 |  |
 | [S.O.S.](https://open.spotify.com/track/7y8gBW0r70bPZaF3h9fI7x) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [S.O.S.](https://open.spotify.com/album/2mayvivDMSVcl9n0FcqsAP) | 2:18 | 2025-10-23 | 2025-12-07 |
 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 | 2024-09-19 |  |
 | [Saint Levant](https://open.spotify.com/track/5RMJ3nZM3g5NZvM4grURlM) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58) | [Mixed Feelings](https://open.spotify.com/album/7JBYVxFbTK3ppMZ2QB2hsc) | 4:56 | 2026-04-30 | 2026-05-15 |

@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-408 songs - 1 day 5 hr 17 min
+409 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [HAGOROMO](https://open.spotify.com/track/57R46IG6M5tQ5xgQ30ZSOf) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 3:52 | 2024-03-07 | 2025-01-25 |
 | [Hallucination](https://open.spotify.com/track/6DtKj57NhI4fsRjisPsHN8) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Hallucination](https://open.spotify.com/album/7uC2fIb54TkrcnXIWm0b3y) | 2:08 | 2026-01-09 | 2026-01-22 |
 | [Hana](https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Best of Fumio: Music for Sleep](https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V) | 6:56 | 2022-12-30 |  |
+| [Harmonia session1](https://open.spotify.com/track/3mtdyzuxclQOl1TMsAgFkp) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5) | [Harmonia](https://open.spotify.com/album/2vVclPk57QHgrQTu75fb9U) | 3:05 | 2026-07-18 |  |
 | [harukanade / 春奏](https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [harukanade / 春奏](https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj) | 3:56 | 2024-03-07 | 2024-09-06 |
 | [HAŌ](https://open.spotify.com/track/1eqGDIj6A7wEouPBIIJcsS) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [AGATE](https://open.spotify.com/album/1aKgkW4UDBKdFxdHK3uYOc) | 5:53 | 2026-04-27 |  |
 | [Hebisan](https://open.spotify.com/track/0Uj5EwGUbETVxa2c6RXMq7) | [Satomimagae](https://open.spotify.com/artist/07NBhmVpDB2zdNK1fIyWyf) | [Hanazono](https://open.spotify.com/album/4zKmJT7y0HpIUZiW5E8UPy) | 2:10 | 2025-05-02 | 2025-05-17 |
@@ -360,7 +361,7 @@
 | [TWO](https://open.spotify.com/track/7F3wbkGUqZNyomfnW6HO8B) | [Shinobu Nemoto](https://open.spotify.com/artist/6R94NSkCQlPD2rZClcxPAk) | [銀嵐 \(Silver Storm\)](https://open.spotify.com/album/3yoj55qNn59F9LBIIsEGO1) | 5:05 | 2022-01-07 | 2025-11-23 |
 | [ubi](https://open.spotify.com/track/25Sv3SN7Xz3r5rz5xzOMPm) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:03 | 2022-07-22 | 2022-10-01 |
 | [ubi](https://open.spotify.com/track/5SpqLL6fVoeRKSPrBqIz1k) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA) | 4:03 | 2022-01-07 | 2022-07-29 |
-| [Ukiyo](https://open.spotify.com/track/5ZhA4ure0YRCc1uNTIjoIT) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [The Voice of the Earth](https://open.spotify.com/album/3HiXByOFbvvwhgCGO6KwWe) | 4:59 | 2023-02-17 |  |
+| [Ukiyo](https://open.spotify.com/track/5ZhA4ure0YRCc1uNTIjoIT) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [The Voice of the Earth](https://open.spotify.com/album/3HiXByOFbvvwhgCGO6KwWe) | 4:59 | 2023-02-17 | 2026-07-31 |
 | [Under the soil](https://open.spotify.com/track/3jFDYpZ8bW1ddacgyIPL17) | [Ami Kusakari](https://open.spotify.com/artist/3Skf9kk8qyfDN9hVhuu9Gn) | [Garden Studies](https://open.spotify.com/album/6jvRlQV7AC4qvHPZSMElId) | 4:04 | 2025-05-02 |  |
 | [under the white moon of december](https://open.spotify.com/track/1nJb0Xmwteqqxi3TlC4tT0) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [under the white moon of december](https://open.spotify.com/album/3GnilBZFDYYRMNZi1JrOE5) | 3:10 | 2023-01-06 | 2025-09-20 |
 | [Under Water](https://open.spotify.com/track/1eRK03Al2xKms7tEV7baym) | [Otomizu](https://open.spotify.com/artist/0dMku1KNzCNGOIgZCsZhYT) | [Mist](https://open.spotify.com/album/1gy2sqf4gWrnoNGNQsrff6) | 3:36 | 2022-01-07 |  |

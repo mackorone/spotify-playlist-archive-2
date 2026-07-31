@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "A new world of alternative noise. Cover: Protomartyr",
+  "description": "A new world of alternative noise. Cover: NOCON",
   "name": "Wire",
   "tracks": [
     {
@@ -638,7 +638,7 @@
       },
       "artists": [
         {
-          "name": "cherry chola",
+          "name": "Cherry Chola",
           "url": "https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz"
         },
         {
@@ -1305,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/7Jjy5cMMezoI3o6vEKzrTe"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207193,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/1qpquDXIG03HvhHrnBiY1G"
+    },
+    {
+      "album": {
         "name": "Get Up and Dance",
         "url": "https://open.spotify.com/album/35pudrLjhzoqj08pHMjyZn"
       },
@@ -1388,7 +1406,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 185998,
       "name": "Go Fuck Urself",
       "url": "https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP"
@@ -1786,7 +1804,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 214400,
       "name": "Irish Goodbye (feat. Kae Tempest)",
       "url": "https://open.spotify.com/track/6Qyvf0qxn2TDOxHLdsfhUw"
@@ -2584,7 +2602,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 182386,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/6GzUTy6FxAaSVEvlxJXgFB"
@@ -2807,6 +2825,24 @@
     },
     {
       "album": {
+        "name": "Pose",
+        "url": "https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202887,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2"
+    },
+    {
+      "album": {
         "name": "Pray To That",
         "url": "https://open.spotify.com/album/3qczr2RYA7bpl3ABKpUgXo"
       },
@@ -2972,6 +3008,24 @@
       "duration_ms": 238840,
       "name": "Redeemer",
       "url": "https://open.spotify.com/track/6rDVb2EImUpLRrOJkev2XE"
+    },
+    {
+      "album": {
+        "name": "REEL BIG FISH",
+        "url": "https://open.spotify.com/album/0o6oWWzsDWZDVXTUGtCT2I"
+      },
+      "artists": [
+        {
+          "name": "NOCON",
+          "url": "https://open.spotify.com/artist/5SGF88bhtY9PR5c1hfBJIP"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175458,
+      "name": "REEL BIG FISH",
+      "url": "https://open.spotify.com/track/1Ve4uz5ofu8Xfm2MR8QQ48"
     },
     {
       "album": {
@@ -3231,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/7DJJ33l9mlkWE3cuMUaR1Y"
+      },
+      "artists": [
+        {
+          "name": "GRUB",
+          "url": "https://open.spotify.com/artist/66GRbUYE1YuX6pkchfN64v"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182252,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/5a9uDWFBjgv51iODOnxRAx"
+    },
+    {
+      "album": {
         "name": "She Doesn't Want Me to Exist",
         "url": "https://open.spotify.com/album/2d1klica3y6jk7nRt413XI"
       },
@@ -3246,6 +3318,24 @@
       "duration_ms": 161181,
       "name": "She Doesn't Want Me to Exist",
       "url": "https://open.spotify.com/track/54donuwNKWydMCljWGvJK8"
+    },
+    {
+      "album": {
+        "name": "Shit Love",
+        "url": "https://open.spotify.com/album/5hNGTc0NjOJBjwyyPTBoQQ"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173131,
+      "name": "Shit Love",
+      "url": "https://open.spotify.com/track/0gDl9Clr6bkgLum6Dhdh88"
     },
     {
       "album": {
@@ -3564,7 +3654,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 183746,
       "name": "Squeeze Down",
       "url": "https://open.spotify.com/track/2PduPaP3h1NEvZoI0LcIHP"
@@ -3820,7 +3910,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 172239,
       "name": "The New VR Ted Bundy Biopic",
       "url": "https://open.spotify.com/track/5unw4KVxfx3mv0B9UqTUqz"

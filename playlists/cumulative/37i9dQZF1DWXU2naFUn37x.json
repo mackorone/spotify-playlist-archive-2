@@ -5117,6 +5117,36 @@
     },
     {
       "album": {
+        "name": "Cavernicolo (feat. G.Mineiro)",
+        "url": "https://open.spotify.com/album/3N28OUxSi7nn1IsDWA0Tvv"
+      },
+      "artists": [
+        {
+          "name": "emanuelino",
+          "url": "https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU"
+        },
+        {
+          "name": "Flatpearl",
+          "url": "https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R"
+        },
+        {
+          "name": "Succo",
+          "url": "https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119130,
+      "name": "Cavernicolo (feat. G.Mineiro)",
+      "url": "https://open.spotify.com/track/5cxWrhYjKgoVSkbSQ4bGCP"
+    },
+    {
+      "album": {
         "name": "CAZAL",
         "url": "https://open.spotify.com/album/1LC2Q2ZxeElQmZkpIVGsP4"
       },
@@ -5190,7 +5220,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 129000,
       "name": "CELEBRIT\u00c0",
       "url": "https://open.spotify.com/track/6nDmABDUsU59nnjhGxz6OY"
@@ -20069,6 +20099,28 @@
     },
     {
       "album": {
+        "name": "SELEZIONANDO (feat. G.Mineiro)",
+        "url": "https://open.spotify.com/album/6gh5OAMhdj5dtqX2L4WpfL"
+      },
+      "artists": [
+        {
+          "name": "Lucky L3F",
+          "url": "https://open.spotify.com/artist/5hs2GHPopzQcUh6ESHwmdo"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133670,
+      "name": "SELEZIONANDO (feat. G.Mineiro)",
+      "url": "https://open.spotify.com/track/3ibbbbCSYM1bUAvJiMOkz1"
+    },
+    {
+      "album": {
         "name": "Reinsertado 2.0",
         "url": "https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii"
       },
@@ -24450,7 +24502,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 208069,
       "name": "Work (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/7wjG3MRJDHDeuxavSLDnKK"

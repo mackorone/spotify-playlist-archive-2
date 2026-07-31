@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: kuudere
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,157 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,156 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 7 | [Sword](https://open.spotify.com/track/2a7zylxn8AhPOcBjAZs6mY) | [Lover](https://open.spotify.com/artist/6LmFqUjTbui4uj86QwO08z) | [Sword](https://open.spotify.com/album/60nQ5fU7alFF9KrgymLwmM) | 3:19 |
 | 8 | [Shake It](https://open.spotify.com/track/5a9uDWFBjgv51iODOnxRAx) | [GRUB](https://open.spotify.com/artist/66GRbUYE1YuX6pkchfN64v) | [Shake It](https://open.spotify.com/album/7DJJ33l9mlkWE3cuMUaR1Y) | 3:02 |
 | 9 | [urusai!](https://open.spotify.com/track/3MwdMBDBqT3S2RdPlZe1pP) | [エミエミ \(emi emi\)](https://open.spotify.com/artist/7IPau4RJ2oDFpeKvnR4dn5) | [urusai!](https://open.spotify.com/album/7MnZeRaX3QWsufs8lJoNGl) | 4:19 |
-| 10 | [Cristalina](https://open.spotify.com/track/4jvCmbHuee4RMHlii4SU6M) | [cherry chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Cristalina](https://open.spotify.com/album/6kyl37QBe1FC2KU8GT17ck) | 2:53 |
+| 10 | [Cristalina](https://open.spotify.com/track/4jvCmbHuee4RMHlii4SU6M) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Cristalina](https://open.spotify.com/album/6kyl37QBe1FC2KU8GT17ck) | 2:53 |
 | 11 | [Spectrum](https://open.spotify.com/track/7rGUjiE56gyaOA9DRe4XUn) | [Jaycee](https://open.spotify.com/artist/4WdCJv1slB2FtXiCbBz9tZ) | [Spectrum](https://open.spotify.com/album/16Q3WVNCgCYR0lZLGebpmO) | 3:44 |
 | 12 | [In Your Arms](https://open.spotify.com/track/0EM9cSzmxq37esPRggDy8h) | [Homage](https://open.spotify.com/artist/6JmKRNKDLwfCtf5pUn6vRN), [Brent Honey](https://open.spotify.com/artist/0UQQORhMGFClKpoARZLTP9) | [In Your Arms](https://open.spotify.com/album/2BcOKl6jn0CtTA0qIn94Sb) | 4:08 |
 | 13 | [wanting with an open wound](https://open.spotify.com/track/36l0nfefy4GRRCV1XJyCOU) | [Porcelain Boy](https://open.spotify.com/artist/6iQ4UCzbPgv9fb3zrG6GiX) | [wanting with an open wound](https://open.spotify.com/album/135sp8KTpmXlotJmAAAS4i) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Chain Reaction](https://open.spotify.com/track/3yxOYpzHnm1EqJxqyewsVb) | [LUBBY](https://open.spotify.com/artist/2nBIy2jbFxJLOWOSdIVYqa) | [Chain Reaction](https://open.spotify.com/album/1RZrWRqOEBpdEpedrFvy8x) | 3:24 |
 | 100 | [Anodyne](https://open.spotify.com/track/5JdLdXEzqQaHupskdS7a6Z) | [Dead Finks](https://open.spotify.com/artist/00tkcgJcr35Rwj3XBmQAgQ) | [New Plastik Abyss](https://open.spotify.com/album/1P0ItuKDoa4kT9hpOZFwjF) | 3:55 |
 
-Snapshot ID: `AAAAAJADHBJW46NM9PRrhjqmSVRUFKWj`
+Snapshot ID: `AAAAAFoiQyt8xnpi9uWNzJHzu9tMu2MJ`

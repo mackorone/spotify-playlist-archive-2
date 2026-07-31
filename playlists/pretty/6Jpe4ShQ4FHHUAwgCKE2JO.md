@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 
 > This country is a corpse
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 56 songs - 3 hr 22 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 likes - 57 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,6 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 | 54 | [Scooby](https://open.spotify.com/track/7FgzUrj1BpgYc4cQrmxoBC) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [Scooby](https://open.spotify.com/album/3edm79zZr6X8YesYYew0F8) | 3:41 |
 | 55 | [The Beehive State](https://open.spotify.com/track/11jbwaXDDNk0zRWfQkqv3b) | [Harry Nilsson](https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX) | [Nilsson Sings Newman](https://open.spotify.com/album/3iIaJ5KOzksixKpJwdpQnz) | 2:08 |
 | 56 | [Rich People](https://open.spotify.com/track/5hK5lhsnwzrVrBZpDgD1wM) | [Carsie Blanton](https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb) | [Rich People](https://open.spotify.com/album/3cBqmSdjrdk4DoFcLt6PMX) | 2:38 |
+| 57 | [Vote 'Em Out](https://open.spotify.com/track/1YX1kcNiWLk1GVYEDWsaNg) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Vote 'Em Out](https://open.spotify.com/album/6k7HZ97yPzcIXzrmLwhkMb) | 2:20 |
 
-Snapshot ID: `AAAASqxVzIeTcTEuk5/Q3ktOiVt5PyfK`
+Snapshot ID: `AAAASxaracM4uA+j7gxzKu/sWLIn0PRD`

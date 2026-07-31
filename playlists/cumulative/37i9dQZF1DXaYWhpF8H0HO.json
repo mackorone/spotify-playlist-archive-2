@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover:  RACH?, idom",
+  "description": "Talenta tanah air yang dapat menyeberang lintas negara. Cover: Gabriella Ekaputri",
   "name": "Ke Seberang",
   "tracks": [
     {
@@ -378,7 +378,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 188157,
       "name": "A Kinder World",
       "url": "https://open.spotify.com/track/7bFC8LVpuLnGcdTXXeyQXJ"
@@ -556,7 +556,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 145000,
       "name": "Addiction",
       "url": "https://open.spotify.com/track/2ZUcV0Lh31FJGFc0ud8f9u"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 220000,
       "name": "Aphrodite Blues, Part 2",
       "url": "https://open.spotify.com/track/0Kq1LwAKrwEH85mKxGapsn"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 222195,
       "name": "Babel",
       "url": "https://open.spotify.com/track/109FXcs1LybWMUI8BLujgx"
@@ -1240,7 +1240,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 225000,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/05I8BGJrpzo3vrM07nungG"
@@ -1592,7 +1592,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 206065,
       "name": "Blanket & Moon (feat. Alyssa Ananta)",
       "url": "https://open.spotify.com/track/5MZoz9PYUkWamXG5As139u"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 164697,
       "name": "Bouncing",
       "url": "https://open.spotify.com/track/0TiThVWYZQVnwCi7iczqcu"
@@ -2437,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Coffee In The Morning",
+        "url": "https://open.spotify.com/album/5loHuYqp8tlA0IGbNUPbQf"
+      },
+      "artists": [
+        {
+          "name": "BLINGOUTKID",
+          "url": "https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Coffee In The Morning",
+      "url": "https://open.spotify.com/track/0EWcs9ucQzTfNS9fL3u7nS"
+    },
+    {
+      "album": {
         "name": "COMA",
         "url": "https://open.spotify.com/album/0RIEOXXSljLKMqlazpqcRm"
       },
@@ -2818,7 +2836,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 251173,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/6iRRIqjMhHQOYdocnA995r"
@@ -3132,6 +3150,24 @@
       "duration_ms": 143743,
       "name": "Don't You Dare Hesitate",
       "url": "https://open.spotify.com/track/7vNn4RT0zRxrb3KQQQ4j05"
+    },
+    {
+      "album": {
+        "name": "Don't You Dare Touch My Kerupuk",
+        "url": "https://open.spotify.com/album/1VuEjrUcSt1Mjk6kNrzdHP"
+      },
+      "artists": [
+        {
+          "name": "Adhitia Sofyan",
+          "url": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232650,
+      "name": "Don't You Dare Touch My Kerupuk",
+      "url": "https://open.spotify.com/track/1KsBkw5IczLePdkVnzg7HU"
     },
     {
       "album": {
@@ -3482,6 +3518,24 @@
       "duration_ms": 180000,
       "name": "evening in senayan",
       "url": "https://open.spotify.com/track/4PMfPiUMzOTahCjnHDKIkA"
+    },
+    {
+      "album": {
+        "name": "Every Time",
+        "url": "https://open.spotify.com/album/52IvaewzKBqltHOmGTnqcP"
+      },
+      "artists": [
+        {
+          "name": "Daisy Hera",
+          "url": "https://open.spotify.com/artist/21QrQMR1hv1riT0yKbh7wR"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Every Time",
+      "url": "https://open.spotify.com/track/178Z013p9nZFx5HoncaYhE"
     },
     {
       "album": {
@@ -5287,6 +5341,24 @@
     },
     {
       "album": {
+        "name": "honk!",
+        "url": "https://open.spotify.com/album/5PHqwsXzGYEwCia6TeT8Oc"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135460,
+      "name": "honk!",
+      "url": "https://open.spotify.com/track/462r5jEYbiNo6sqwCcRqhU"
+    },
+    {
+      "album": {
         "name": "Hoping You'll Be Mine",
         "url": "https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8"
       },
@@ -5338,6 +5410,24 @@
       "duration_ms": 264362,
       "name": "How Could You Still Love Me",
       "url": "https://open.spotify.com/track/0l7pTIk20PHJZxNYgQcON1"
+    },
+    {
+      "album": {
+        "name": "how do i even try?",
+        "url": "https://open.spotify.com/album/3ACvwQ4p1n732G5EpZhNOv"
+      },
+      "artists": [
+        {
+          "name": "Drizzly",
+          "url": "https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239967,
+      "name": "how do i even try?",
+      "url": "https://open.spotify.com/track/118Sytgc76K30IBHz7cYIs"
     },
     {
       "album": {
@@ -5751,6 +5841,28 @@
     },
     {
       "album": {
+        "name": "I Want You Around!",
+        "url": "https://open.spotify.com/album/1bYdp8Y8uPoIFRXMNhsfGl"
+      },
+      "artists": [
+        {
+          "name": "aditt",
+          "url": "https://open.spotify.com/artist/7cFuwo3V3uBt5FT62ap6gj"
+        },
+        {
+          "name": "Kantha",
+          "url": "https://open.spotify.com/artist/72lyl9ML0272pDWp8Sm80o"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167209,
+      "name": "I Want You Around!",
+      "url": "https://open.spotify.com/track/1Kch0kywloea1mMAP3pFiI"
+    },
+    {
+      "album": {
         "name": "I Will",
         "url": "https://open.spotify.com/album/2tsNcReLshp2lOODqJmYje"
       },
@@ -6061,6 +6173,32 @@
     },
     {
       "album": {
+        "name": "In My Elements",
+        "url": "https://open.spotify.com/album/7qdyVKvAm3Uvp4gigkCEkX"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl"
+        },
+        {
+          "name": "RINNI",
+          "url": "https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh"
+        },
+        {
+          "name": "South Tangerang Singer",
+          "url": "https://open.spotify.com/artist/6IQmIxT061DkYQ45KegDcz"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177637,
+      "name": "In My Elements",
+      "url": "https://open.spotify.com/track/5gOR9mZRdKnW5zOTFHrpwD"
+    },
+    {
+      "album": {
         "name": "In My Head / Her",
         "url": "https://open.spotify.com/album/4fBvWh0PM82batrTtlk7XW"
       },
@@ -6090,7 +6228,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 258549,
       "name": "In This Burnin' World",
       "url": "https://open.spotify.com/track/3CKIwwfOLHo0rmKlyjMqfS"
@@ -6826,6 +6964,24 @@
       "duration_ms": 285037,
       "name": "Lebih Indah Berpisah",
       "url": "https://open.spotify.com/track/6EtXpBUmPm7fyhUGnca7hr"
+    },
+    {
+      "album": {
+        "name": "Leftover Umbrellas",
+        "url": "https://open.spotify.com/album/7iKyhq7jwmtawEYPIjcY0n"
+      },
+      "artists": [
+        {
+          "name": "The Midlife Theory",
+          "url": "https://open.spotify.com/artist/01f7luFKh6gKPJuxGvMrWh"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214875,
+      "name": "Leftover Umbrellas",
+      "url": "https://open.spotify.com/track/3nqQgiS7a7VYRHWdGMON0L"
     },
     {
       "album": {
@@ -8057,6 +8213,24 @@
     },
     {
       "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/0TTVax81uLp8duKXYjGdwe"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Ekaputri",
+          "url": "https://open.spotify.com/artist/73lAkOBolLeP9ZBirROJui"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196511,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/7j6wCnpHT798vsPWQHouQK"
+    },
+    {
+      "album": {
         "name": "Momentary Pleasure",
         "url": "https://open.spotify.com/album/0Dy9YBdzfrChQrULfPvjqj"
       },
@@ -8318,7 +8492,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 274301,
       "name": "NAKAMA",
       "url": "https://open.spotify.com/track/0gztDs2SYvVYyb6hDBlqRj"
@@ -8358,7 +8532,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 180059,
       "name": "Near or Far",
       "url": "https://open.spotify.com/track/4v2LoqdTn1p2iYbAiaG5rq"
@@ -8737,6 +8911,24 @@
     },
     {
       "album": {
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/0r8EtBaVXwmjWCbZrx0Kea"
+      },
+      "artists": [
+        {
+          "name": "The Candle Light Children",
+          "url": "https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222309,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/4VDltt7j2Hc71BF6jxiLw0"
+    },
+    {
+      "album": {
         "name": "On Our Own",
         "url": "https://open.spotify.com/album/2ltL4jZcEGWPe0Dk0LU5kl"
       },
@@ -8766,7 +8958,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 186600,
       "name": "On The Way Up",
       "url": "https://open.spotify.com/track/5MtIyMaISoaeFAoLzd4OhG"
@@ -9364,7 +9556,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 246000,
       "name": "RATHER BE / IN HELL",
       "url": "https://open.spotify.com/track/0lVgwDVMGiCUa9tSWo56Oq"
@@ -9980,7 +10172,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 189166,
       "name": "Say Less",
       "url": "https://open.spotify.com/track/1gbZdQdvmptiBWchWrMsv0"
@@ -10211,6 +10403,24 @@
     },
     {
       "album": {
+        "name": "Unfamiliar Weather",
+        "url": "https://open.spotify.com/album/0wP0nI1JZf0ccuGEbjPqax"
+      },
+      "artists": [
+        {
+          "name": "In Inertia",
+          "url": "https://open.spotify.com/artist/3MX16NmW4sAb3qxfGQTvlt"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295750,
+      "name": "Shifting to a Haze",
+      "url": "https://open.spotify.com/track/76xA4pLNHcQh7FZQpb3prh"
+    },
+    {
+      "album": {
         "name": "shoot",
         "url": "https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM"
       },
@@ -10262,7 +10472,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 254306,
       "name": "Shoulda Coulda",
       "url": "https://open.spotify.com/track/1sUqquIVswqNQa1F5rAo7B"
@@ -11340,7 +11550,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 271500,
       "name": "tangled",
       "url": "https://open.spotify.com/track/4ZBaoNXFFIyR2Ce9LdHEYO"
@@ -12058,7 +12268,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 184000,
       "name": "U (renia Remix)",
       "url": "https://open.spotify.com/track/7hajnFEvw7HWOFiQF7ZVIk"
@@ -12106,7 +12316,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 174915,
       "name": "underwear",
       "url": "https://open.spotify.com/track/6XBoqpPkQnSTG1tt6lfW50"
@@ -12276,6 +12486,24 @@
       "duration_ms": 257674,
       "name": "waiting (come home)",
       "url": "https://open.spotify.com/track/2LXksa3hvj46aQxe8ZabBY"
+    },
+    {
+      "album": {
+        "name": "Wake My Soul",
+        "url": "https://open.spotify.com/album/0BJg74yZqIenII0j8scNte"
+      },
+      "artists": [
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230103,
+      "name": "Wake My Soul",
+      "url": "https://open.spotify.com/track/5DWMSmCu5kcG8jJb7lplpB"
     },
     {
       "album": {
@@ -12592,6 +12820,24 @@
       "duration_ms": 340000,
       "name": "WHAT U WANT",
       "url": "https://open.spotify.com/track/3eSwtFQuAz2PcfHVZCIIyL"
+    },
+    {
+      "album": {
+        "name": "WHEN THE HOLIDAY ENDS",
+        "url": "https://open.spotify.com/album/1pIv34xqSRrsrSuXhXWsbn"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205381,
+      "name": "WHEN THE HOLIDAY ENDS",
+      "url": "https://open.spotify.com/track/6XaXYV0PYsyfV4CWtesfdX"
     },
     {
       "album": {

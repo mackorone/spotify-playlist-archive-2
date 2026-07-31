@@ -2,9 +2,9 @@
 
 ### [Rock 2026](https://open.spotify.com/playlist/37i9dQZF1DX2T25mA6YJhO)
 
-> Súbete a la nueva ola del rock español\. Foto: Viva Belgrado.
+> Súbete a la nueva ola del rock español\. Foto: Mala Gestión, Nuevos Vicios.
 
-755 songs - 1 day 15 hr 5 min
+759 songs - 1 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Donde caben 2](https://open.spotify.com/track/3o4c7V9homHR3wFow99KS1) | [PELIGRO!](https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3) | [Donde caben 2](https://open.spotify.com/album/1jVfBdJLNBeAFrAdxTQsMo) | 2:13 | 2025-01-09 | 2025-01-31 |
 | [Dos Galaxias](https://open.spotify.com/track/3zIJcW9XnaZDUsS3qyu0Bt) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [Dos Galaxias](https://open.spotify.com/album/1NES8cPssseE2OU3WwiXTH) | 3:31 | 2024-06-27 | 2024-08-30 |
 | [Dos Gusanos](https://open.spotify.com/track/0QCThVo6CAQ85b8a8yCaxM) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [Dos Gusanos](https://open.spotify.com/album/03oipajiAtAgWzZTo6CKFZ) | 3:05 | 2025-05-22 | 2025-06-27 |
+| [Dragon Khan](https://open.spotify.com/track/4szXUEoUxDlpLPTMVZp2mR) | [rumbos](https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ) | [Dragon Khan](https://open.spotify.com/album/7Aeu1CBfW5m55wMVqgz0po) | 3:23 | 2026-07-30 |  |
 | [DtMF](https://open.spotify.com/track/1W1eBWJdSwv5fXoDyDRlyO) | [Capros](https://open.spotify.com/artist/5MdESkM2kJYOoUckMNi2HM) | [DtMF](https://open.spotify.com/album/1fdsmehSRG0Z20gxiDb7ue) | 3:17 | 2025-07-17 |  |
 | [Duele](https://open.spotify.com/track/01bQAmMz0ShvNyUtwkji4e) | [BERNARDA](https://open.spotify.com/artist/4AMFwj85joZJusmm6uK6AW) | [Duele](https://open.spotify.com/album/4mzquVGH20iTnFjmDEEklN) | 3:26 | 2025-02-06 | 2025-02-28 |
 | [Dulce Subidón](https://open.spotify.com/track/5UFyI3L7rZCd8SuZgBj7ye) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe) | [Dulce Subidón](https://open.spotify.com/album/0XXZpw9hyOdBG7VgFuTdkw) | 3:37 | 2026-02-26 | 2026-03-06 |
@@ -203,6 +204,7 @@
 | [el beso que nunca nos dimos](https://open.spotify.com/track/7gmOM0OWCWpV7UVwDsXhcK) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [el beso que nunca nos dimos](https://open.spotify.com/album/5bh9cKDsu7pzKkjkQ7nNRf) | 3:03 | 2024-11-28 | 2025-02-07 |
 | [El Búho](https://open.spotify.com/track/1iGyLvO6468NEOnDTzZKxq) | [Kokoshca](https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK) | [El Búho](https://open.spotify.com/album/4QZiKAGYXiUVRnFLfInEa5) | 2:45 | 2026-03-12 | 2026-03-27 |
 | [El Campeón en tus ojos](https://open.spotify.com/track/6Y1Y3z4Uwv2oTzpEbA0q4j) | [Caballo Prieto Azabache](https://open.spotify.com/artist/3lldEYxABJZKVPL9NRWcq3) | [El Campeón en tus ojos](https://open.spotify.com/album/0D0LLeJuxDzwCRolaazjRC) | 2:43 | 2024-06-27 | 2024-12-13 |
+| [El deseo del genio](https://open.spotify.com/track/1itqgtr55ZgoBCiOf15qD0) | [Sr\. Chinarro](https://open.spotify.com/artist/3bEHj6WUeCJey0vLrffSQp) | [El deseo del genio](https://open.spotify.com/album/1KwjEbA8CcRU2avSsm9aiP) | 4:11 | 2026-07-30 |  |
 | [El día no me da](https://open.spotify.com/track/0qzQEe6xg8dkoco1DHinMq) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [El día no me da](https://open.spotify.com/album/2iCobXpDOaBzIXIb7agybP) | 3:47 | 2024-06-27 | 2024-08-23 |
 | [El día no me da con Shego](https://open.spotify.com/track/0bHYnkMSMwFOaqxKk36sC5) | [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24), [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Entre todas lo arreglamos \(Vol II\)](https://open.spotify.com/album/62gImLRSukdQx5i1BryAyK) | 4:17 | 2025-04-10 | 2026-02-13 |
 | [El Entusiasmo](https://open.spotify.com/track/5RxNfmqP8XBkOJKn7lwp12) | [Biznaga](https://open.spotify.com/artist/0MoEyI2ULO3fCBwXhClTTn) | [El Entusiasmo](https://open.spotify.com/album/5guyB3dpp9juIda0gs3wzO) | 2:58 | 2024-06-27 | 2025-05-02 |
@@ -450,6 +452,7 @@
 | [Mundo hostil](https://open.spotify.com/track/4Bpitmd7bXb7sQm7ID8RUg) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Mundo hostil](https://open.spotify.com/album/5F20WyirAP1yfVDq2Zx90A) | 2:48 | 2026-01-15 | 2026-03-06 |
 | [Murakami](https://open.spotify.com/track/39gCPFKyoopu1YUdxJVdOU) | [Joaquín Fénix](https://open.spotify.com/artist/4nElXUxyGrDvNpZrbyU6Tg) | [Murakami](https://open.spotify.com/album/1UkCBbIJH8qR7huS9367qr) | 2:36 | 2025-02-13 | 2025-03-07 |
 | [Máis Bicos Que Rosas](https://open.spotify.com/track/7lz45FaqwnVY0isoRUgeoi) | [The Rapants](https://open.spotify.com/artist/6n9E45r5Ewzy1qXMqSVMA7) | [Rapants Club](https://open.spotify.com/album/6bqLmHnAFaz0g7ZTLpyrWf) | 2:52 | 2026-03-05 |  |
+| [Más o menos bien](https://open.spotify.com/track/0xyCtRkZmP0ktcRqjV8fip) | [Hotel Nebraska](https://open.spotify.com/artist/417xUJN8m2gRJYI2Wu2ZnC) | [Más o menos bien](https://open.spotify.com/album/5vNVdu7wRFeDSh7B61fgLt) | 3:01 | 2026-07-30 |  |
 | [Mírame](https://open.spotify.com/track/3P2qlbWc2nC3h9ixSJTwH8) | [Amor Líquido](https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc) | [Mírame](https://open.spotify.com/album/6QCEg5wWbGF5cAzOh8lIv3) | 2:17 | 2024-06-27 | 2025-08-22 |
 | [Mírame](https://open.spotify.com/track/2QAfRkVhetHCwKGXhtIBQo) | [Ultraligera](https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB) | [Mírame](https://open.spotify.com/album/5QDvlYXI4uBI8101Yk4QYT) | 3:53 | 2025-02-06 | 2025-03-28 |
 | [música infinita](https://open.spotify.com/track/720CqaGLhexdPJpjUeO7pI) | [La Plata](https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS) | [música infinita](https://open.spotify.com/album/5eyLKFG2laZ2c3ly36uhbz) | 2:56 | 2025-02-13 | 2025-03-07 |
@@ -493,6 +496,7 @@
 | [NOLOMEREZCO](https://open.spotify.com/track/0UldlanZFgAnNpRNgFwFTw) | [Radio Palmer](https://open.spotify.com/artist/5ERh7l2QU2n5g0YxrHATe3) | [NOLOMEREZCO](https://open.spotify.com/album/7FTbB06QGrrhrHwmKB9Or5) | 3:28 | 2025-07-17 |  |
 | [Non Sei Como](https://open.spotify.com/track/48Qrb6fpGg0N0VoDSBteuv) | [The Rapants](https://open.spotify.com/artist/6n9E45r5Ewzy1qXMqSVMA7), [Joe Crepúsculo](https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn) | [Non Sei Como](https://open.spotify.com/album/69nLTmEQvfhh4q4sf6ri4u) | 3:21 | 2026-02-05 |  |
 | [Normal](https://open.spotify.com/track/3oag6xsH3APi2oHU8hVp8E) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Elige Tu Propia Aventura](https://open.spotify.com/album/1sa5uIkm6strFBumSGcV1X) | 2:30 | 2024-10-25 | 2025-08-22 |
+| [Normalmente Mejor](https://open.spotify.com/track/1yFCC7FMCmJ6EOvoy5OKU6) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst), [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Normalmente Mejor](https://open.spotify.com/album/7EWDV3Lh6XBe3lFKmMgFNh) | 4:02 | 2026-07-30 |  |
 | [NOSOTROS 2](https://open.spotify.com/track/03Hg44FuGPMtyAFoEhzew6) | [Bloodstein](https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw) | [NOSOTROS 2](https://open.spotify.com/album/5atDh4pnlLI5osdLNzeNLr) | 3:21 | 2026-03-12 | 2026-04-10 |
 | [Noviembre](https://open.spotify.com/track/0Hw91lN7fNSJpJDcXYWDf6) | [Johnny Garso](https://open.spotify.com/artist/6zvsUJE9zNUpP3mV3tQsCg) | [Noviembre](https://open.spotify.com/album/23avIvPgohACYmGX3o7mT5) | 3:03 | 2024-11-21 | 2024-12-13 |
 | [Nuestro Mejor Momento](https://open.spotify.com/track/5Z8so8w3PvZIJDbhN7l5t4) | [Apartamentos Acapulco](https://open.spotify.com/artist/5MJEbh71qd0GTKQdKko3TT) | [La Reconciliación](https://open.spotify.com/album/1WxSNibCX2ATr2c4rwO9xA) | 2:34 | 2024-06-27 | 2024-10-18 |

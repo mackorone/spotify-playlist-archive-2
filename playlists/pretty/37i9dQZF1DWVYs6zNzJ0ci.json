@@ -1,12 +1,12 @@
 {
   "description": "Vibraciones rastafari con Danny Ocean y Ryan Castro.",
-  "num_followers": 1158781,
+  "num_followers": 1158638,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACgIi2YNnRktA198IdITiuxFlE0J",
+  "snapshot_id": "AAAAAIFhMbHnwi1NY89EJncFDsU4zwUR",
   "tracks": [
     {
       "added_at": "2026-05-15 06:00:25",
@@ -939,26 +939,18 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Sierra del Mar",
-        "url": "https://open.spotify.com/album/2jCf17eHD4u8U7Gp3PZ4ba"
+        "name": "\u00bfQui\u00e9n trae las cornetas?",
+        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Alex Serra",
-          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
-        },
-        {
-          "name": "Totidub",
-          "url": "https://open.spotify.com/artist/1VTBqewro51M1puZAUn4jt"
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 317520,
-      "name": "Sierra del Mar",
-      "url": "https://open.spotify.com/track/1m4h2rplVZ3cpcWplrJYSw"
+      "duration_ms": 218173,
+      "name": "Parece",
+      "url": "https://open.spotify.com/track/3YuvAWG5bmTT0Uab0TrFWu"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -995,18 +987,26 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "\u00bfQui\u00e9n trae las cornetas?",
-        "url": "https://open.spotify.com/album/3UedVnaIbI3SRuMLClWiJ3"
+        "name": "Sierra del Mar",
+        "url": "https://open.spotify.com/album/2jCf17eHD4u8U7Gp3PZ4ba"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Alex Serra",
+          "url": "https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r"
+        },
+        {
+          "name": "Totidub",
+          "url": "https://open.spotify.com/artist/1VTBqewro51M1puZAUn4jt"
         }
       ],
-      "duration_ms": 218173,
-      "name": "Parece",
-      "url": "https://open.spotify.com/track/3YuvAWG5bmTT0Uab0TrFWu"
+      "duration_ms": 317520,
+      "name": "Sierra del Mar",
+      "url": "https://open.spotify.com/track/1m4h2rplVZ3cpcWplrJYSw"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Aquella Habitaci\u00f3n",
-        "url": "https://open.spotify.com/album/2pmWffnmN4bklgnZL8lJMR"
-      },
-      "artists": [
-        {
-          "name": "Green Valley",
-          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
-        },
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 236859,
-      "name": "Aquella Habitaci\u00f3n",
-      "url": "https://open.spotify.com/track/4NZEPHNOdRoA6FmYuj5Duq"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
         "name": "Criminal (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
+        "name": "Aquella Habitaci\u00f3n",
+        "url": "https://open.spotify.com/album/2pmWffnmN4bklgnZL8lJMR"
+      },
+      "artists": [
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "duration_ms": 236859,
+      "name": "Aquella Habitaci\u00f3n",
+      "url": "https://open.spotify.com/track/4NZEPHNOdRoA6FmYuj5Duq"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "Long Time Ago",
+        "url": "https://open.spotify.com/album/3qoUdqO3KEgw5hoEAWIsPv"
+      },
+      "artists": [
+        {
+          "name": "John P\u00f5",
+          "url": "https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh"
+        },
+        {
+          "name": "Lander",
+          "url": "https://open.spotify.com/artist/5Uv7k7IyfKhzYmfJF56QhE"
+        }
+      ],
+      "duration_ms": 131739,
+      "name": "Long Time Ago",
+      "url": "https://open.spotify.com/track/7lyuYzBOtv2lhark08WlTw"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "Celebration (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E"
       },
@@ -1511,26 +1531,6 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Long Time Ago",
-        "url": "https://open.spotify.com/album/3qoUdqO3KEgw5hoEAWIsPv"
-      },
-      "artists": [
-        {
-          "name": "John Poll\u00f5n",
-          "url": "https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh"
-        },
-        {
-          "name": "Lander",
-          "url": "https://open.spotify.com/artist/5Uv7k7IyfKhzYmfJF56QhE"
-        }
-      ],
-      "duration_ms": 131739,
-      "name": "Long Time Ago",
-      "url": "https://open.spotify.com/track/7lyuYzBOtv2lhark08WlTw"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
         "name": "C\u00f3mo Te Hago Entender",
         "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 159832,
       "name": "C\u00f3mo Te Hago Entender",
       "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "Baile de Miradas",
-        "url": "https://open.spotify.com/album/7zmGLX2n4p6lch8AJyAJTu"
-      },
-      "artists": [
-        {
-          "name": "Los Afro Brothers",
-          "url": "https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq"
-        }
-      ],
-      "duration_ms": 217717,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1579,6 +1563,22 @@
       "duration_ms": 210000,
       "name": "Mundo de Cristal",
       "url": "https://open.spotify.com/track/7MnI59X5e5oV3LqM0EjZ8d"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
+        "name": "Baile de Miradas",
+        "url": "https://open.spotify.com/album/7zmGLX2n4p6lch8AJyAJTu"
+      },
+      "artists": [
+        {
+          "name": "Los Afro Brothers",
+          "url": "https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq"
+        }
+      ],
+      "duration_ms": 217717,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1803,6 +1803,26 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "Canto",
+        "url": "https://open.spotify.com/album/2b1qYGHOdzkrnhTxnTX9W0"
+      },
+      "artists": [
+        {
+          "name": "Necrojocker",
+          "url": "https://open.spotify.com/artist/1kZRe2EGMf2w9616umnci4"
+        },
+        {
+          "name": "Plagio",
+          "url": "https://open.spotify.com/artist/7yftS12f0mRDNuZTLbOJd1"
+        }
+      ],
+      "duration_ms": 129230,
+      "name": "Canto",
+      "url": "https://open.spotify.com/track/3lKHnXk6KqUOzFJaR0jJ7H"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "En La Tormenta",
         "url": "https://open.spotify.com/album/2PbL7fuZ1qYZXlJBBhJUZC"
       },
@@ -1831,26 +1851,6 @@
       "duration_ms": 291160,
       "name": "El Baile y El Sal\u00f3n",
       "url": "https://open.spotify.com/track/7CYUhmlh78j9u1rJPojNiL"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "Canto",
-        "url": "https://open.spotify.com/album/2b1qYGHOdzkrnhTxnTX9W0"
-      },
-      "artists": [
-        {
-          "name": "Necrojocker",
-          "url": "https://open.spotify.com/artist/1kZRe2EGMf2w9616umnci4"
-        },
-        {
-          "name": "Plagio",
-          "url": "https://open.spotify.com/artist/7yftS12f0mRDNuZTLbOJd1"
-        }
-      ],
-      "duration_ms": 129230,
-      "name": "Canto",
-      "url": "https://open.spotify.com/track/3lKHnXk6KqUOzFJaR0jJ7H"
     }
   ],
   "unique_name": "Reggae en Espa\u00f1ol",

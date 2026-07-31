@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Picking Petals",
+        "url": "https://open.spotify.com/album/2sc3QU5bC4udHQaPW86iBX"
+      },
+      "artists": [
+        {
+          "name": "Lucia & The Best Boys",
+          "url": "https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212986,
+      "name": "Back Inside My Heart",
+      "url": "https://open.spotify.com/track/1QPURD07gE0FWIFbaBmkv3"
+    },
+    {
+      "album": {
         "name": "Bad Dream",
         "url": "https://open.spotify.com/album/3wUzhRPIwf70GNjQeHrKG9"
       },
@@ -4293,6 +4311,24 @@
     },
     {
       "album": {
+        "name": "Free Soloin",
+        "url": "https://open.spotify.com/album/5c614EUjbSsVGepaQHgIqS"
+      },
+      "artists": [
+        {
+          "name": "Suzi Wu",
+          "url": "https://open.spotify.com/artist/0AZ01mYEHgw7ZwKIbgEjBi"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Free Soloin",
+      "url": "https://open.spotify.com/track/0epZhavoMxMPzvBaQeQgHx"
+    },
+    {
+      "album": {
         "name": "From Down Here",
         "url": "https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u"
       },
@@ -4376,7 +4412,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 168170,
       "name": "fwu",
       "url": "https://open.spotify.com/track/1s4XvBgcL7fPFcrxhzLEDQ"
@@ -8426,7 +8462,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 281173,
       "name": "Nevagonna",
       "url": "https://open.spotify.com/track/0xAZva9E2vELq4DKF0mtpO"

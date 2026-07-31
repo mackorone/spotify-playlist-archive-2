@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 151535,
+  "num_followers": 151568,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQyAK1hTvZdoC4Z83Sa8W5mkyO3",
+  "snapshot_id": "AAAAAPeFA1aZn3BaYrW+zBiYpkKmVMqs",
   "tracks": [
     {
       "added_at": "2024-07-10 08:16:23",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Qualm",
+        "url": "https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H"
+      },
+      "artists": [
+        {
+          "name": "Helena Hauff",
+          "url": "https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN"
+        }
+      ],
+      "duration_ms": 491050,
+      "name": "The Smell Of Suds And Steel",
+      "url": "https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Alternative",
         "url": "https://open.spotify.com/album/7wNYJAljvvFXlbpkB120Aw"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 331373,
       "name": "Commuter",
       "url": "https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Qualm",
-        "url": "https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H"
-      },
-      "artists": [
-        {
-          "name": "Helena Hauff",
-          "url": "https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN"
-        }
-      ],
-      "duration_ms": 491050,
-      "name": "The Smell Of Suds And Steel",
-      "url": "https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK"
     },
     {
       "added_at": "2024-07-10 08:16:23",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: LEA",
+  "description": "Deutschpop, der jetzt passiert. Cover: cami",
   "name": "POPLAND",
   "tracks": [
     {
@@ -136,6 +136,24 @@
       "duration_ms": 113533,
       "name": "2 Zimmer",
       "url": "https://open.spotify.com/track/7iocNlh0ozGWEYMcB13EYr"
+    },
+    {
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/0fLRAkFO7IYlpn4ukQaDi1"
+      },
+      "artists": [
+        {
+          "name": "Luna Simao",
+          "url": "https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143598,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1WL00S2ZMYdvQ7wCNDnlze"
     },
     {
       "album": {
@@ -644,7 +662,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 173812,
       "name": "Alles was ich \u00fcber Liebe wei\u00df",
       "url": "https://open.spotify.com/track/3pN7xo5F7m68Rnyhwmaaa1"
@@ -1026,7 +1044,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 129048,
       "name": "Auf jeden Blick",
       "url": "https://open.spotify.com/track/2KKkqUuYfHkGsrXQAauCkG"
@@ -1308,10 +1326,28 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 206408,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/0Q4wFsYNtf9nl7WkPXsb5g"
+    },
+    {
+      "album": {
+        "name": "Anomalie Pt.2",
+        "url": "https://open.spotify.com/album/2Fs0D0btaWM1ENQLMTBOKS"
+      },
+      "artists": [
+        {
+          "name": "Madeline Juno",
+          "url": "https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153550,
+      "name": "Bei aller Liebe",
+      "url": "https://open.spotify.com/track/6wrD3XPInwH1bO2qqSQwYm"
     },
     {
       "album": {
@@ -1344,7 +1380,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 189226,
       "name": "Besser",
       "url": "https://open.spotify.com/track/5m1PiXLsE95hAwm7G1Wrty"
@@ -1546,7 +1582,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 157683,
       "name": "Blicke erkl\u00e4ren",
       "url": "https://open.spotify.com/track/2J3JK2sqWGqpyfOK5yofRM"
@@ -1586,7 +1622,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 141037,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/6QhZFB1VeFMSMirbXnNL58"
@@ -2595,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Du",
+        "url": "https://open.spotify.com/album/2gemn4tYNAs2ZDi9svuAwp"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208078,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/0aT7NR7uu8Hwv2vak9pcGz"
+    },
+    {
+      "album": {
         "name": "LIEBE GLAUBE MONSTER",
         "url": "https://open.spotify.com/album/2GdMho3cQyH5qabyWLYQRT"
       },
@@ -2765,6 +2819,24 @@
     },
     {
       "album": {
+        "name": "D\u00e4monen",
+        "url": "https://open.spotify.com/album/1anxTU6GDo3uRHhCDLKygy"
+      },
+      "artists": [
+        {
+          "name": "Philipp Poisel",
+          "url": "https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160836,
+      "name": "D\u00e4monen",
+      "url": "https://open.spotify.com/track/0zLD2dI257Hg5vrlh8i0oA"
+    },
+    {
+      "album": {
         "name": "effy stonem",
         "url": "https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t"
       },
@@ -2892,6 +2964,24 @@
       "duration_ms": 151552,
       "name": "Ein Lied",
       "url": "https://open.spotify.com/track/2nrsfJSYFVmBXe9hc3q3lM"
+    },
+    {
+      "album": {
+        "name": "ein Teil von mir",
+        "url": "https://open.spotify.com/album/1B179yJFXuWrCtj1X4fOXe"
+      },
+      "artists": [
+        {
+          "name": "TOBIAS",
+          "url": "https://open.spotify.com/artist/3LeoJmZQZL9anFRZK3NXLC"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "ein Teil von mir",
+      "url": "https://open.spotify.com/track/3VGniaQOyxzXjYSLaiWdAA"
     },
     {
       "album": {
@@ -3545,6 +3635,24 @@
     },
     {
       "album": {
+        "name": "froh allein zu sein",
+        "url": "https://open.spotify.com/album/7aS1EslWZ0ThxwgfY5ko3f"
+      },
+      "artists": [
+        {
+          "name": "cami",
+          "url": "https://open.spotify.com/artist/64bv5tnrfDXWI1McC1vitt"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161203,
+      "name": "froh allein zu sein",
+      "url": "https://open.spotify.com/track/2dAY1Jln2P8QSuIABq2asq"
+    },
+    {
+      "album": {
         "name": "Funkstille",
         "url": "https://open.spotify.com/album/2ZEr5BaAa9sTiDnvUwEdD1"
       },
@@ -3556,7 +3664,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 177915,
       "name": "Funkstille",
       "url": "https://open.spotify.com/track/5IBMYix1rjkNMoAZwk95vA"
@@ -3943,6 +4051,28 @@
     },
     {
       "album": {
+        "name": "gl\u00fccklich",
+        "url": "https://open.spotify.com/album/1JKmzuHjUnuLPrH0G7Br5g"
+      },
+      "artists": [
+        {
+          "name": "IL CIVETTO",
+          "url": "https://open.spotify.com/artist/337iYuRKw6oyOfxsxRuR0o"
+        },
+        {
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180333,
+      "name": "gl\u00fccklich",
+      "url": "https://open.spotify.com/track/1H5F1aqOOboClv43xKY8Sz"
+    },
+    {
+      "album": {
         "name": "Gl\u00fccklich",
         "url": "https://open.spotify.com/album/2Ur8s1MKlthmU3PC2r4Tgd"
       },
@@ -4062,7 +4192,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 198480,
       "name": "gutes M\u00e4dchen",
       "url": "https://open.spotify.com/track/2ge2metzpZ1y98T2JDyHAI"
@@ -4084,6 +4214,28 @@
       "duration_ms": 147096,
       "name": "G\u00e4nsehaut",
       "url": "https://open.spotify.com/track/4Mg3E0QEPAWqbgcDmweYDE"
+    },
+    {
+      "album": {
+        "name": "Haare nass",
+        "url": "https://open.spotify.com/album/0kiohzfWSc03sGfrlRsZWG"
+      },
+      "artists": [
+        {
+          "name": "Bekkaa",
+          "url": "https://open.spotify.com/artist/7k37c7AypimVqHqmAUR1aZ"
+        },
+        {
+          "name": "Jakob Ude",
+          "url": "https://open.spotify.com/artist/0gDG1LlsqO4O5w1ilk2iAH"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160311,
+      "name": "Haare nass",
+      "url": "https://open.spotify.com/track/3BU2GKtYdZV6UWHmEHXQsA"
     },
     {
       "album": {
@@ -5381,6 +5533,24 @@
     },
     {
       "album": {
+        "name": "Just a Girl",
+        "url": "https://open.spotify.com/album/6sj65TFyc7cPujgkJOKuWH"
+      },
+      "artists": [
+        {
+          "name": "DELA",
+          "url": "https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Just a Girl",
+      "url": "https://open.spotify.com/track/2XzwFnqWc6JxLfTak5x3FJ"
+    },
+    {
+      "album": {
         "name": "kalender",
         "url": "https://open.spotify.com/album/2BKUoV2aVZ9QsFhM7B9Sqz"
       },
@@ -6124,7 +6294,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 150805,
       "name": "K\u00fcss mein Herz",
       "url": "https://open.spotify.com/track/79YyvTTQP5hSJRRNzWhbGC"
@@ -7223,6 +7393,24 @@
     },
     {
       "album": {
+        "name": "mit anderen augen",
+        "url": "https://open.spotify.com/album/3vWSlcVRmnUZiJTBa7z42f"
+      },
+      "artists": [
+        {
+          "name": "Cosima Kiby",
+          "url": "https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169204,
+      "name": "mit anderen augen",
+      "url": "https://open.spotify.com/track/4bEEO0oInGv3OYInricb0k"
+    },
+    {
+      "album": {
         "name": "Mit besten W\u00fcnschen",
         "url": "https://open.spotify.com/album/4OvijPT0BJAFirIexQjjVE"
       },
@@ -7288,7 +7476,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 162569,
       "name": "Munition",
       "url": "https://open.spotify.com/track/1ay2hi92GYl08TWetl0Axg"
@@ -7306,7 +7494,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 160790,
       "name": "Mutausbruch",
       "url": "https://open.spotify.com/track/5aLQFGe0ohBoGBaRaHv8mD"
@@ -8097,6 +8285,28 @@
     },
     {
       "album": {
+        "name": "OBEN OHNE ALLES (mit SOFFIE)",
+        "url": "https://open.spotify.com/album/0yaUKfCUVZzwwd8iRfrQxE"
+      },
+      "artists": [
+        {
+          "name": "Querbeat",
+          "url": "https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4"
+        },
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189204,
+      "name": "OBEN OHNE ALLES (mit SOFFIE)",
+      "url": "https://open.spotify.com/track/5y3KI8dcZvTdLAR4YtiPJg"
+    },
+    {
+      "album": {
         "name": "Odyssee",
         "url": "https://open.spotify.com/album/1AhJ6GqKEe4oTb5gqKiATx"
       },
@@ -8228,7 +8438,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 188586,
       "name": "ozean",
       "url": "https://open.spotify.com/track/4ULqqohbWkhuQ5B1nZbKtJ"
@@ -8556,7 +8766,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 175750,
       "name": "Pinke Blumen",
       "url": "https://open.spotify.com/track/6RFU79X62H21wzx4i7kQ8z"
@@ -9607,6 +9817,28 @@
     },
     {
       "album": {
+        "name": "Spinner",
+        "url": "https://open.spotify.com/album/2XO5AuTlMQke9lMKsYHaHH"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128056,
+      "name": "Spinner",
+      "url": "https://open.spotify.com/track/3NhKr4kZuGJR4MDoBDBtEE"
+    },
+    {
+      "album": {
         "name": "Manchmal sing' ich das was ich nicht sagen kann",
         "url": "https://open.spotify.com/album/60pGjTzDBv8apN0hEfDKoD"
       },
@@ -9903,6 +10135,28 @@
     },
     {
       "album": {
+        "name": "Tick Tack",
+        "url": "https://open.spotify.com/album/6mZrCJQILMpTjWJnLE1JsG"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        },
+        {
+          "name": "Luca Noel",
+          "url": "https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142851,
+      "name": "Tick Tack",
+      "url": "https://open.spotify.com/track/5bcp0jqfueM7MrOzJr7wRh"
+    },
+    {
+      "album": {
         "name": "tief",
         "url": "https://open.spotify.com/album/5q9jI0shsu9ZVPbOHcDGbg"
       },
@@ -9914,7 +10168,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 181638,
       "name": "tief",
       "url": "https://open.spotify.com/track/1lrJdYH1peRMrRpHTEoM6H"
@@ -11668,6 +11922,24 @@
       "duration_ms": 202973,
       "name": "Wundersch\u00f6n",
       "url": "https://open.spotify.com/track/1ofD3FXI7RsKj7iQ4vBblb"
+    },
+    {
+      "album": {
+        "name": "w\u00e4lder von schweden",
+        "url": "https://open.spotify.com/album/3xTY0NSsLlzJ6m9olsS7DS"
+      },
+      "artists": [
+        {
+          "name": "TJARK",
+          "url": "https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176836,
+      "name": "w\u00e4lder von schweden",
+      "url": "https://open.spotify.com/track/3snLvBx96VdBFP1NsNcTrM"
     },
     {
       "album": {

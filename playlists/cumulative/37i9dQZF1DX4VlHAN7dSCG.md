@@ -2,9 +2,9 @@
 
 ### [組團飆歌](https://open.spotify.com/playlist/37i9dQZF1DX4VlHAN7dSCG)
 
-> 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 溫室雜草
+> 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: Tizzy Bac
 
-983 songs - 2 day 16 hr 1 min
+984 songs - 2 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,6 +692,7 @@
 | [有頭有臉](https://open.spotify.com/track/0y8cU3pAnCQgCD78A0vCds) | [迷幻幼稚園 Psychedelic Kindergarten](https://open.spotify.com/artist/4Ya4SuDBYmJ5obHHR21lU4) | [有頭有臉](https://open.spotify.com/album/0CEui5Xg1uvD74vod9k953) | 4:35 | 2024-09-26 | 2024-10-18 |
 | [朋友之歌（劇集《拜六禮拜》片頭曲）](https://open.spotify.com/track/6nb3GGgL51Op0qfXmQRv9o) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9) | [朋友之歌（劇集《拜六禮拜》片頭曲）](https://open.spotify.com/album/2k8YE5qrXx4cOHfAD7nWzs) | 3:23 | 2025-06-12 | 2025-07-11 |
 | [望向暖陽 \(戲劇《死了一個娛樂女記者之後》宣傳曲\)](https://open.spotify.com/track/17I465D1hwlByh2gADUahs) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [望向暖陽](https://open.spotify.com/album/4QlfLZMme7JJE0ptMb7y5W) | 4:24 | 2025-02-06 | 2025-03-01 |
+| [朝我心臟開槍 \(Acoustic Live\)](https://open.spotify.com/track/3naiphKoa2KT3k3MumJE6e) | [Tizzy Bac](https://open.spotify.com/artist/6Rv0ndBVPEQJ7KagPDtC5H) | [說出我的名字 \(Acoustic Live\)](https://open.spotify.com/album/2SLUbIzNpvkC59qmDNB4It) | 4:19 | 2026-07-30 |  |
 | [未來人](https://open.spotify.com/track/4TgaDhwSgX26HAm8VzxpLE) | [ZIP發射樂團](https://open.spotify.com/artist/1qwOjxOMoj895xTDBNxcAe) | [未來人](https://open.spotify.com/album/1fj0exdIuWM2pUoQVZ03vK) | 4:27 | 2025-06-26 | 2025-07-18 |
 | [未濟](https://open.spotify.com/track/4czAdMTQSVvWADk8V0RChL) | [Karen Mok](https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1), [Karen Mok & The Masters](https://open.spotify.com/artist/5jzZwYtRoS8Yod0MYwnCCR) | [未濟](https://open.spotify.com/album/3zBP1bEzcJlL7YyjSHi8iZ) | 3:18 | 2024-07-18 | 2025-02-14 |
 | [末日的梦](https://open.spotify.com/track/5SOSPIXCDpZc07xR2vLkVO) | [The Hormones](https://open.spotify.com/artist/7q69jzEgPg94Am1Bobm1SH) | [末日的梦](https://open.spotify.com/album/27j9wRWSHu4WSzLhMMTl18) | 4:24 | 2025-04-03 | 2025-05-02 |

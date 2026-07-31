@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 63648,
+  "num_followers": 63656,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amafgAAAAABSsmfAdL3xtN5JWOgip9ws",
+  "snapshot_id": "amlCgAAAAADSHSiJrCpZVHr6mGa+QNB/",
   "tracks": [
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chega de Saudade",
-        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 119200,
-      "name": "\u00c9 Luxo S\u00f3 - Ultimate Mix",
-      "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jo\u00e3o Gilberto",
         "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chega de Saudade",
+        "url": "https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 119200,
+      "name": "\u00c9 Luxo S\u00f3 - Ultimate Mix",
+      "url": "https://open.spotify.com/track/2IBsRo06SVWC28SDm3belO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jo\u00e3o Voz E Viol\u00e3o",
         "url": "https://open.spotify.com/album/19cy0SZ66hIGL7Ko5UaURX"
       },
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 176360,
-      "name": "Voc\u00ea Vai Ver",
-      "url": "https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT"
+      "duration_ms": 234933,
+      "name": "Desde Que O Samba E Samba",
+      "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
     },
     {
       "added_at": null,
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 234933,
-      "name": "Desde Que O Samba E Samba",
-      "url": "https://open.spotify.com/track/742NOzU6ugBLGmHXec0qau"
+      "duration_ms": 176360,
+      "name": "Voc\u00ea Vai Ver",
+      "url": "https://open.spotify.com/track/4qUeWZKSawVPEQpgh1sZvT"
     },
     {
       "added_at": null,
@@ -927,8 +927,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4"
+        "name": "Chega de saudade de Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 397453,
-      "name": "Undi\u00fa",
-      "url": "https://open.spotify.com/track/5DPhD44bQHEOBPGRzc3Ebl"
+      "duration_ms": 137186,
+      "name": "H\u00f3-B\u00e1-L\u00e1-L\u00e1",
+      "url": "https://open.spotify.com/track/2Ls8gLpf0ulxFTisaVczmK"
     }
   ],
   "unique_name": "This Is Jo\u00e3o Gilberto",

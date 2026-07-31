@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Shania Twain
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,193 likes - 175 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,188 likes - 175 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 174 | [Last Rodeo](https://open.spotify.com/track/2zktqQLyXilXPmGIoly5M9) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Last Rodeo](https://open.spotify.com/album/13C5YrXTkUryrL7xkJ25mQ) | 3:26 |
 | 175 | [Homeland](https://open.spotify.com/track/0To1TLrTvs4qmNaXxUHRSc) | [School House](https://open.spotify.com/artist/37JHgl2RfDoQKLho1Ig2gC) | [Homeland](https://open.spotify.com/album/2pg9ZErEcrNxyIgKqVkOIL) | 3:37 |
 
-Snapshot ID: `AAAAAOIkS1X56NbHrsZDu4N2KQV2R4zV`
+Snapshot ID: `AAAAAH3rRQ9l/HTYzEkhKHlYBSrGkd14`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Waze entra na zona. ",
+  "description": "Joint One entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 238588,
       "name": "Aplausos",
       "url": "https://open.spotify.com/track/6aR1vmIXugRUPPusdZEfaj"
@@ -5436,7 +5436,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 264046,
       "name": "Cromada",
       "url": "https://open.spotify.com/track/4wULWdHIUcLHnIUtKH2qCU"
@@ -13530,10 +13530,36 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 253085,
       "name": "Nossa Hist\u00f3ria",
       "url": "https://open.spotify.com/track/7fTEgp9TRGwEPVgfCLVjSb"
+    },
+    {
+      "album": {
+        "name": "Nossa Hora",
+        "url": "https://open.spotify.com/album/3P4qi8CBX5uEJOS2uYL3Px"
+      },
+      "artists": [
+        {
+          "name": "TILHON",
+          "url": "https://open.spotify.com/artist/6s6mY5Dhbh9Qrg118P3qcO"
+        },
+        {
+          "name": "Maktub",
+          "url": "https://open.spotify.com/artist/3nKAYmceAIB4siDOyhXWt9"
+        },
+        {
+          "name": "Manaur",
+          "url": "https://open.spotify.com/artist/3QUyyZXvzfKjUKt9N1zS0X"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Nossa Hora",
+      "url": "https://open.spotify.com/track/2SPviMJFbknUyaHjHb48Oq"
     },
     {
       "album": {
@@ -14400,10 +14426,28 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 246949,
       "name": "Offline",
       "url": "https://open.spotify.com/track/3dXtvTPF6BzNaiHvS7Nnrh"
+    },
+    {
+      "album": {
+        "name": "Bad Bitches Ouvem Espama, a Mixtape",
+        "url": "https://open.spotify.com/album/7JGoOrgy5vZo5dJC9boWNH"
+      },
+      "artists": [
+        {
+          "name": "Espama Trincana",
+          "url": "https://open.spotify.com/artist/1wdoxUHwOxaPHVTOQXU5TQ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175081,
+      "name": "Oiar Pra Mim",
+      "url": "https://open.spotify.com/track/4YiKTFm2117hbTeh2a5wzG"
     },
     {
       "album": {
@@ -14902,7 +14946,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 149387,
       "name": "P de Pablito 2",
       "url": "https://open.spotify.com/track/7JmXyjwAEElQmmm0mr9xHu"
@@ -15552,6 +15596,24 @@
       "duration_ms": 223081,
       "name": "PERAR",
       "url": "https://open.spotify.com/track/7ypr4HKCTl2QHYLvhbCuda"
+    },
+    {
+      "album": {
+        "name": "PERIGO",
+        "url": "https://open.spotify.com/album/1y8HVbxlVAC9cpAg5NSi5E"
+      },
+      "artists": [
+        {
+          "name": "BUH BUH",
+          "url": "https://open.spotify.com/artist/2heTC0O1xw4oamnO7APYBU"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132972,
+      "name": "PERIGO",
+      "url": "https://open.spotify.com/track/0m2BZstziSBOmiyHorcprL"
     },
     {
       "album": {
@@ -17540,6 +17602,24 @@
       "duration_ms": 141597,
       "name": "Saiko",
       "url": "https://open.spotify.com/track/79jZg51GuQLrmDOGt5vNdE"
+    },
+    {
+      "album": {
+        "name": "SAKELE",
+        "url": "https://open.spotify.com/album/6jeWSPrD80a1krwqiTacfB"
+      },
+      "artists": [
+        {
+          "name": "Harley KSD",
+          "url": "https://open.spotify.com/artist/0AyoY8RFId4AqueSJvE99D"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136084,
+      "name": "SAKELE",
+      "url": "https://open.spotify.com/track/7G1wpRIZCTYNAx5ZnmGEH3"
     },
     {
       "album": {
@@ -19685,6 +19765,24 @@
     },
     {
       "album": {
+        "name": "TOP",
+        "url": "https://open.spotify.com/album/7feQhhN5AauJTPnF3oFRIv"
+      },
+      "artists": [
+        {
+          "name": "Joint One",
+          "url": "https://open.spotify.com/artist/5W4i9lwHlsuhSL6Mw4KvCQ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159403,
+      "name": "TOP",
+      "url": "https://open.spotify.com/track/4NvQT3b7et8xzhRt7QXCjC"
+    },
+    {
+      "album": {
         "name": "Toque",
         "url": "https://open.spotify.com/album/6vnfqWycFld3plYH4YeRHC"
       },
@@ -20705,6 +20803,36 @@
     },
     {
       "album": {
+        "name": "VALENTINO",
+        "url": "https://open.spotify.com/album/5wge0TXyB4QWdCVemtEmjb"
+      },
+      "artists": [
+        {
+          "name": "Trinity 3nity",
+          "url": "https://open.spotify.com/artist/5LUc7rWzcR4S9uKAqi0dsR"
+        },
+        {
+          "name": "YANKEMA",
+          "url": "https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ"
+        },
+        {
+          "name": "Manolo",
+          "url": "https://open.spotify.com/artist/31ve2vUkBAZSJCch5BGXkA"
+        },
+        {
+          "name": "Bill John",
+          "url": "https://open.spotify.com/artist/2BGevNQpdhdGzE1R70I6SU"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "VALENTINO",
+      "url": "https://open.spotify.com/track/59l4wuuELfGhkfh7PWDkvy"
+    },
+    {
+      "album": {
         "name": "Carrossel",
         "url": "https://open.spotify.com/album/3cBwWTFhpOAnL6U4ZhZFof"
       },
@@ -21568,7 +21696,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 234284,
       "name": "\u00a1 +1 !",
       "url": "https://open.spotify.com/track/2Cq4FdClz7hIm4uJ25ziHA"

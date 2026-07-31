@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200 likes - 99 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 199 likes - 99 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 18 | [ICU \(Madison's Lullabye\)](https://open.spotify.com/track/3RmE7U94bBxbCaK1VwVdP7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 3:16 |
 | 19 | [Work It Out](https://open.spotify.com/track/3dfSKcVcxle6GUL6i7FBjm) | [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Music For People Who Believe In DNCE](https://open.spotify.com/album/5i9q6otDNQm25gyl5Ik3F3) | 2:30 |
 | 20 | [Grave](https://open.spotify.com/track/1XGBUVN05AaKaQ6hzcvKVG) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Free](https://open.spotify.com/album/2GD42iPt0jtcudvlMksV1d) | 3:11 |
-| 21 | [Remember Me \(feat\. Moncrieff & Blush\)](https://open.spotify.com/track/5hX77k1ZxCztVqL679pyfi) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk), [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06) | [Remember Me \(feat\. Moncrieff & Blush\)](https://open.spotify.com/album/0WeDFtcUIBKYlih4rDFqQn) | 3:49 |
-| 22 | [NO GOOD](https://open.spotify.com/track/5nyuvBnk8lPqewXhjtOydJ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:24 |
+| 21 | [NO GOOD](https://open.spotify.com/track/5nyuvBnk8lPqewXhjtOydJ) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:24 |
+| 22 | [Remember Me \(feat\. Moncrieff & Blush\)](https://open.spotify.com/track/5hX77k1ZxCztVqL679pyfi) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Bottai](https://open.spotify.com/artist/2wghI3P3W8vxgsb0le3Fgk), [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06) | [Remember Me \(feat\. Moncrieff & Blush\)](https://open.spotify.com/album/0WeDFtcUIBKYlih4rDFqQn) | 3:49 |
 | 23 | [Find Me](https://open.spotify.com/track/25zDQjvFoACl4CzmjwmKu3) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 4:07 |
 | 24 | [15 Minutes](https://open.spotify.com/track/2JdScT0YydH9WcOWEVIIJl) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Expanded Edition\)](https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE) | 2:51 |
 | 25 | [Mirror to the Sky](https://open.spotify.com/track/1iAsoCfNZM96cKRcNcRyJp) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:23 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 57 | [Me & You](https://open.spotify.com/track/5DrTqSTve2iaCSWuyyJZ4y) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Yazz](https://open.spotify.com/artist/1K8bWL1GnTW0b51YZOEANS), [Rhyon Brown](https://open.spotify.com/artist/5jwCDGKUT2wrfp8yAu8Qob) | [Empire \(Season 6, Born to Love You\) \[Music from the TV Series\]](https://open.spotify.com/album/3soKDu1ZCsRvNNPHzNyzli) | 2:29 |
 | 58 | [Time](https://open.spotify.com/track/60dpMYZvPWD9tqbMthIZcV) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:47 |
 | 59 | [Growing Pains](https://open.spotify.com/track/4vmJnDCxNiT1tRycUwwEuT) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 2:41 |
-| 60 | [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 |
-| 61 | [Was It Ever Love](https://open.spotify.com/track/2dUWA1UqoapADqbnUkdhRJ) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:14 |
+| 60 | [Was It Ever Love](https://open.spotify.com/track/2dUWA1UqoapADqbnUkdhRJ) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:14 |
+| 61 | [Want Love](https://open.spotify.com/track/0dxjbuwxOFFYFIPlsOhcPw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Want Love](https://open.spotify.com/album/4Vuu72qzPAzs6gIBio67hf) | 3:20 |
 | 62 | [Just Like Jenny](https://open.spotify.com/track/5C2EPFs7ZWqARGv5qZJurY) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 2:58 |
 | 63 | [Don't](https://open.spotify.com/track/2jD8MqJ4uiE5EYUicI5vCC) | [Rebecca Garton](https://open.spotify.com/artist/10SSWFHswODW4VG1y56JbL) | [Don't](https://open.spotify.com/album/1Fl0AJJlFgKlxTFzIBPczK) | 3:13 |
 | 64 | [Shinanigins](https://open.spotify.com/track/2wMuSMdSq6zFPEDhaIvjgQ) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/5ukER8Gzjr4CPSwN8fwykc) | 2:42 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 73 | [lighthouse](https://open.spotify.com/track/7KwHA6VxQUonpOzCFpi0eD) | [NAO AIHARA](https://open.spotify.com/artist/42u8PGWT2Ic13eOIsvRNM2) | [lighthouse](https://open.spotify.com/album/6Dd2pFTUprxK1FZbQtpxVk) | 3:44 |
 | 74 | [What Is Beautiful \- The Voice Performance](https://open.spotify.com/track/0V9bXbDWKURDQniD7usTzO) | [Brooke Simpson](https://open.spotify.com/artist/2HMZf6yC9JzK4BDAyNl2WE) | [The Complete Season 13 Collection \(The Voice Performance\)](https://open.spotify.com/album/4GxLc7XtUPDaSoFcQh0nKt) | 3:26 |
 | 75 | [Unconditional](https://open.spotify.com/track/7BDWXrr18XcTLAdRVNwyxK) | [Ruben Studdard](https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW) | [Unconditional Love \(Deluxe Edition\)](https://open.spotify.com/album/5FsbjrUkylThwjFohmcjzZ) | 3:48 |
-| 76 | [Gone](https://open.spotify.com/track/1GHTYjolrAJBkFrQJUkBui) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Gone](https://open.spotify.com/album/1WpOV23Sug5gCCXSjk8Eqd) | 2:50 |
-| 77 | [Alien](https://open.spotify.com/track/213RLfZyGBO20wzgpgngLG) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Alien](https://open.spotify.com/album/4AV03OU3XeljPET3HW6ai5) | 3:41 |
+| 76 | [Alien](https://open.spotify.com/track/213RLfZyGBO20wzgpgngLG) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Alien](https://open.spotify.com/album/4AV03OU3XeljPET3HW6ai5) | 3:41 |
+| 77 | [Gone](https://open.spotify.com/track/1GHTYjolrAJBkFrQJUkBui) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [Gone](https://open.spotify.com/album/1WpOV23Sug5gCCXSjk8Eqd) | 2:50 |
 | 78 | [Walking and Whistling](https://open.spotify.com/track/680T0R2LxxBYOlkI1WCye9) | [The Toontown Tooners](https://open.spotify.com/artist/3skIyYGqzp3KSrfb2KfADr) | [Music from Mickey's Toontown](https://open.spotify.com/album/5bCGUsjittoLfG2La9JHPN) | 2:44 |
 | 79 | [On My Mind](https://open.spotify.com/track/2hm4rlbQtbPcSgbcHvD2EQ) | [TILILA](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [On My Mind](https://open.spotify.com/album/0i8FpUqtvarBHDV8iJ52Sl) | 2:41 |
 | 80 | [Don't Stop](https://open.spotify.com/track/5draS2gXFNSnUazm4YHeiW) | [Donny Osmond](https://open.spotify.com/artist/5ZEAzHE2TzAwUcOj6jMIgf) | [Start Again](https://open.spotify.com/album/6UwelQHVWYMc580BAnq1av) | 3:09 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 88 | [Chills](https://open.spotify.com/track/5GuyTA6IIhFpEUUG3SYP1s) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 4:16 |
 | 89 | [Habit](https://open.spotify.com/track/7FUfVAITU9rjBNh1AiFWZV) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 3:26 |
 | 90 | [Pay Attention](https://open.spotify.com/track/5qCCBPO81dyZEsavwxn8eC) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [can you keep a secret](https://open.spotify.com/album/4NykbCCKaLZyrEND5C2IOF) | 3:29 |
-| 91 | [Honest](https://open.spotify.com/track/1crlJcaMsDxscZkI3jmjtv) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 2:57 |
-| 92 | [Hold Out](https://open.spotify.com/track/3jSnOCcXRTa2Z4ECnL29Mw) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Skin of My Teeth](https://open.spotify.com/album/4jzeGZV3144y1G0cvGSoOw) | 3:32 |
+| 91 | [Hold Out](https://open.spotify.com/track/3jSnOCcXRTa2Z4ECnL29Mw) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Skin of My Teeth](https://open.spotify.com/album/4jzeGZV3144y1G0cvGSoOw) | 3:32 |
+| 92 | [Honest](https://open.spotify.com/track/1crlJcaMsDxscZkI3jmjtv) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 2:57 |
 | 93 | [Nothing Like I Used To Be](https://open.spotify.com/track/3OWB60FMHQ7V1hPevITp4X) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [Nothing Like I Used To Be](https://open.spotify.com/album/0OEk2M4TSQFs9gWQqEWNyo) | 3:28 |
 | 94 | [Bittersweet](https://open.spotify.com/track/2XVx3CrFPfBft2UOeNrphk) | [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Bittersweet](https://open.spotify.com/album/1k6BwqyMHqnUAwbpsL27G4) | 3:21 |
 | 95 | [Cheers](https://open.spotify.com/track/74SFVRttFhSJ39uBIVL6cG) | [Tucker Nichol](https://open.spotify.com/artist/3M9ugSI1Vjp5mg1YpSjrVL) | [i swear i'm fine](https://open.spotify.com/album/5vc312BLfbRpBvX3GLdfDs) | 4:15 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 98 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 99 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AcYLvgAAAACp+kkUYyOymEVcvi71XGJc`
+Snapshot ID: `AcYRcgAAAAB6bIRBmTZJle6pUoluzEr7`

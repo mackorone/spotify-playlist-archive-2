@@ -1,12 +1,12 @@
 {
   "description": "English songs from Indian artists.\nCover: Tsumyoki",
-  "num_followers": 40068,
+  "num_followers": 40069,
   "original_name": "Indian Indie English",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ7hv456/FbrW+cZfSp0AiKy0Psh",
+  "snapshot_id": "AAAAAA21sEqCemmfKy6xmirWIM0j21zF",
   "tracks": [
     {
       "added_at": "2026-07-28 09:02:32",
@@ -147,22 +147,18 @@
     {
       "added_at": "2026-07-28 09:02:32",
       "album": {
-        "name": "Sunbeam",
-        "url": "https://open.spotify.com/album/1cl634ubs2v0l1gSPO6gGk"
+        "name": "so beautiful, with you",
+        "url": "https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf"
       },
       "artists": [
         {
-          "name": "ASHWYN",
-          "url": "https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd"
-        },
-        {
-          "name": "Gurl",
-          "url": "https://open.spotify.com/artist/6pvE17zpH50Jwgyl8FfeuO"
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
         }
       ],
-      "duration_ms": 171093,
-      "name": "Sunbeam",
-      "url": "https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G"
+      "duration_ms": 218000,
+      "name": "so beautiful, with you",
+      "url": "https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl"
     },
     {
       "added_at": "2026-07-28 09:02:32",
@@ -199,18 +195,22 @@
     {
       "added_at": "2026-07-28 09:02:32",
       "album": {
-        "name": "so beautiful, with you",
-        "url": "https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf"
+        "name": "Sunbeam",
+        "url": "https://open.spotify.com/album/1cl634ubs2v0l1gSPO6gGk"
       },
       "artists": [
         {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+          "name": "ASHWYN",
+          "url": "https://open.spotify.com/artist/4pw28rawqJIdrpW9BBcTUd"
+        },
+        {
+          "name": "Gurl",
+          "url": "https://open.spotify.com/artist/6pvE17zpH50Jwgyl8FfeuO"
         }
       ],
-      "duration_ms": 218000,
-      "name": "so beautiful, with you",
-      "url": "https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl"
+      "duration_ms": 171093,
+      "name": "Sunbeam",
+      "url": "https://open.spotify.com/track/15MOuM5Jz3KJAmPPWDZI5G"
     },
     {
       "added_at": "2026-07-28 09:02:32",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-07-28 09:02:32",
       "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/0FBJyrE6rFKntb4lRDA9GA"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "duration_ms": 165104,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/2jSzZzNlmi9kIh1QHGUYNg"
+    },
+    {
+      "added_at": "2026-07-28 09:02:32",
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/3Go4qMxReIx9sTKGYMLakO"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 169986,
       "name": "I Love You Baby, I Love You Doll",
       "url": "https://open.spotify.com/track/1uC8CoidgacQzx9f01n73h"
-    },
-    {
-      "added_at": "2026-07-28 09:02:32",
-      "album": {
-        "name": "Halfway",
-        "url": "https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC"
-      },
-      "artists": [
-        {
-          "name": "Taba Chake",
-          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
-        }
-      ],
-      "duration_ms": 208535,
-      "name": "Halfway",
-      "url": "https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi"
     },
     {
       "added_at": "2026-07-28 09:02:32",
@@ -279,34 +279,18 @@
     {
       "added_at": "2026-07-28 09:02:32",
       "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/0FBJyrE6rFKntb4lRDA9GA"
+        "name": "Halfway",
+        "url": "https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC"
       },
       "artists": [
         {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+          "name": "Taba Chake",
+          "url": "https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy"
         }
       ],
-      "duration_ms": 165104,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/2jSzZzNlmi9kIh1QHGUYNg"
-    },
-    {
-      "added_at": "2026-07-28 09:02:32",
-      "album": {
-        "name": "Student of Love",
-        "url": "https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx"
-      },
-      "artists": [
-        {
-          "name": "Mary Ann Alexander",
-          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "Student of Love",
-      "url": "https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx"
+      "duration_ms": 208535,
+      "name": "Halfway",
+      "url": "https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi"
     },
     {
       "added_at": "2026-07-28 09:02:32",
@@ -323,6 +307,22 @@
       "duration_ms": 153999,
       "name": "Everybody Dances to Techno",
       "url": "https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg"
+    },
+    {
+      "added_at": "2026-07-28 09:02:32",
+      "album": {
+        "name": "Student of Love",
+        "url": "https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Student of Love",
+      "url": "https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx"
     },
     {
       "added_at": "2026-07-28 09:02:32",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-07-28 09:02:32",
       "album": {
-        "name": "Cop Shot A Man",
-        "url": "https://open.spotify.com/album/2NPQuhVJyYPGuoNJJWVtXN"
-      },
-      "artists": [
-        {
-          "name": "Yelhomie",
-          "url": "https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Cop Shot A Man",
-      "url": "https://open.spotify.com/track/6yv6SivWda8eKjpFovPRoG"
-    },
-    {
-      "added_at": "2026-07-28 09:02:32",
-      "album": {
         "name": "NOT A ROCKSTAR",
         "url": "https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR"
       },
@@ -399,6 +383,42 @@
       "duration_ms": 166840,
       "name": "NOT A ROCKSTAR",
       "url": "https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE"
+    },
+    {
+      "added_at": "2026-07-28 09:02:32",
+      "album": {
+        "name": "Cop Shot A Man",
+        "url": "https://open.spotify.com/album/2NPQuhVJyYPGuoNJJWVtXN"
+      },
+      "artists": [
+        {
+          "name": "Yelhomie",
+          "url": "https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Cop Shot A Man",
+      "url": "https://open.spotify.com/track/6yv6SivWda8eKjpFovPRoG"
+    },
+    {
+      "added_at": "2026-07-28 09:02:32",
+      "album": {
+        "name": "Find Me",
+        "url": "https://open.spotify.com/album/72RTHcmSea8xyDuVzDWTnm"
+      },
+      "artists": [
+        {
+          "name": "Trance Effect",
+          "url": "https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A"
+        },
+        {
+          "name": "MongDoll",
+          "url": "https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf"
+        }
+      ],
+      "duration_ms": 181080,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/3kItJhN5lLgF2J97BiemJe"
     },
     {
       "added_at": "2026-07-28 09:02:32",
@@ -435,26 +455,6 @@
       "duration_ms": 151531,
       "name": "Unicorn and the Sheep",
       "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
-    },
-    {
-      "added_at": "2026-07-28 09:02:32",
-      "album": {
-        "name": "Find Me",
-        "url": "https://open.spotify.com/album/72RTHcmSea8xyDuVzDWTnm"
-      },
-      "artists": [
-        {
-          "name": "Trance Effect",
-          "url": "https://open.spotify.com/artist/21P08lfKfkMN14Fs25E93A"
-        },
-        {
-          "name": "MongDoll",
-          "url": "https://open.spotify.com/artist/7b4YrLbDfaE2rbhbWZvTYf"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/3kItJhN5lLgF2J97BiemJe"
     },
     {
       "added_at": "2026-07-28 09:02:32",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-07-28 09:02:32",
       "album": {
-        "name": "again...",
-        "url": "https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V"
-      },
-      "artists": [
-        {
-          "name": "Aarya",
-          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
-        }
-      ],
-      "duration_ms": 177073,
-      "name": "again...",
-      "url": "https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl"
-    },
-    {
-      "added_at": "2026-07-28 09:02:32",
-      "album": {
         "name": "Epilogue One",
         "url": "https://open.spotify.com/album/2KvQJaq8CeVuTGLVIp1Frf"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2026-07-28 09:02:32",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7"
+        "name": "again...",
+        "url": "https://open.spotify.com/album/5yS0RM2MKru6bQdYLq1k2V"
       },
       "artists": [
         {
-          "name": "Dot.",
-          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+          "name": "Aarya",
+          "url": "https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf"
         }
       ],
-      "duration_ms": 200724,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD"
+      "duration_ms": 177073,
+      "name": "again...",
+      "url": "https://open.spotify.com/track/0RQ0T4W9TsdZW9AjAv4LBl"
     },
     {
       "added_at": "2026-07-28 09:02:32",
@@ -627,6 +611,22 @@
       "duration_ms": 181773,
       "name": "Better Than It All",
       "url": "https://open.spotify.com/track/4CZLWB9teKNiyIN94aovSo"
+    },
+    {
+      "added_at": "2026-07-28 09:02:32",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "duration_ms": 200724,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD"
     },
     {
       "added_at": "2026-07-28 09:02:32",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-07-28 09:02:32",
       "album": {
-        "name": "On Second Thought",
-        "url": "https://open.spotify.com/album/5rO88Y8IDjnxAUkpKCDbPe"
-      },
-      "artists": [
-        {
-          "name": "Heat Sink",
-          "url": "https://open.spotify.com/artist/5tELNfpv17VAcaAUL77bSD"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Wait a sec",
-      "url": "https://open.spotify.com/track/40qyi5LG0OPw3EsjsSwGje"
-    },
-    {
-      "added_at": "2026-07-28 09:02:32",
-      "album": {
         "name": "Nyima, Vol. 1",
         "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
       },
@@ -1015,42 +999,18 @@
     {
       "added_at": "2026-07-28 09:02:32",
       "album": {
-        "name": "Nyima, Vol. 1",
-        "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
+        "name": "On Second Thought",
+        "url": "https://open.spotify.com/album/5rO88Y8IDjnxAUkpKCDbPe"
       },
       "artists": [
         {
-          "name": "Meera",
-          "url": "https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv"
+          "name": "Heat Sink",
+          "url": "https://open.spotify.com/artist/5tELNfpv17VAcaAUL77bSD"
         }
       ],
-      "duration_ms": 148500,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4luxjQsMu9bZYpmXGegS1i"
-    },
-    {
-      "added_at": "2026-07-28 09:02:32",
-      "album": {
-        "name": "Painted Faces",
-        "url": "https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL"
-      },
-      "artists": [
-        {
-          "name": "MR ISHAN JACK",
-          "url": "https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF"
-        },
-        {
-          "name": "Insha Gill",
-          "url": "https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj"
-        },
-        {
-          "name": "Sonic Wav",
-          "url": "https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh"
-        }
-      ],
-      "duration_ms": 179806,
-      "name": "Painted Faces",
-      "url": "https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa"
+      "duration_ms": 192000,
+      "name": "Wait a sec",
+      "url": "https://open.spotify.com/track/40qyi5LG0OPw3EsjsSwGje"
     },
     {
       "added_at": "2026-07-28 09:02:32",
@@ -1087,6 +1047,46 @@
     {
       "added_at": "2026-07-28 09:02:32",
       "album": {
+        "name": "Painted Faces",
+        "url": "https://open.spotify.com/album/2hpW3IPnVpgLvDx8lK6DcL"
+      },
+      "artists": [
+        {
+          "name": "MR ISHAN JACK",
+          "url": "https://open.spotify.com/artist/5NAfCC6rcaEULklQ7FCFcF"
+        },
+        {
+          "name": "Insha Gill",
+          "url": "https://open.spotify.com/artist/6THfA4EeXEtz1ufoP59evj"
+        },
+        {
+          "name": "Sonic Wav",
+          "url": "https://open.spotify.com/artist/6cl0bx4Q2JaNyJMlO64Pnh"
+        }
+      ],
+      "duration_ms": 179806,
+      "name": "Painted Faces",
+      "url": "https://open.spotify.com/track/2ju3HIlep4lhn0SJ4t7jBa"
+    },
+    {
+      "added_at": "2026-07-28 09:02:32",
+      "album": {
+        "name": "Nyima, Vol. 1",
+        "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
+      },
+      "artists": [
+        {
+          "name": "Meera",
+          "url": "https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4luxjQsMu9bZYpmXGegS1i"
+    },
+    {
+      "added_at": "2026-07-28 09:02:32",
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1Gtpf8VgbXJtjYNpOStP1X"
       },
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-07-28 09:02:32",
       "album": {
-        "name": "Baby Breath",
-        "url": "https://open.spotify.com/album/4Ef631oXXOdWBseNOlYdzV"
-      },
-      "artists": [
-        {
-          "name": "Judah Sandhy",
-          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
-        }
-      ],
-      "duration_ms": 167343,
-      "name": "Baby Breath",
-      "url": "https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd"
-    },
-    {
-      "added_at": "2026-07-28 09:02:32",
-      "album": {
         "name": "Nyima, Vol. 1",
         "url": "https://open.spotify.com/album/2BCFjxg1prw5MlhJINPiPg"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 230522,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/4z901LnfXd572xKSoTjtNn"
+    },
+    {
+      "added_at": "2026-07-28 09:02:32",
+      "album": {
+        "name": "Baby Breath",
+        "url": "https://open.spotify.com/album/4Ef631oXXOdWBseNOlYdzV"
+      },
+      "artists": [
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        }
+      ],
+      "duration_ms": 167343,
+      "name": "Baby Breath",
+      "url": "https://open.spotify.com/track/43rjtl8khJXJUJBdlvBprd"
     },
     {
       "added_at": "2026-07-28 09:02:32",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-07-28 09:02:32",
       "album": {
-        "name": "Semi Automatic Butane",
-        "url": "https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY"
-      },
-      "artists": [
-        {
-          "name": "Mali",
-          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
-        }
-      ],
-      "duration_ms": 209554,
-      "name": "Semi Automatic Butane",
-      "url": "https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi"
-    },
-    {
-      "added_at": "2026-07-28 09:02:32",
-      "album": {
         "name": "Bismillah",
         "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 256000,
       "name": "Floated By",
       "url": "https://open.spotify.com/track/556jf0hyPQuLNHuNWo12I5"
+    },
+    {
+      "added_at": "2026-07-28 09:02:32",
+      "album": {
+        "name": "Semi Automatic Butane",
+        "url": "https://open.spotify.com/album/3Z5Ozc5CVfx8Tojvj8Z8GY"
+      },
+      "artists": [
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        }
+      ],
+      "duration_ms": 209554,
+      "name": "Semi Automatic Butane",
+      "url": "https://open.spotify.com/track/1rN9zRk3KjZyYDTNKih1yi"
     },
     {
       "added_at": "2026-07-28 09:02:32",

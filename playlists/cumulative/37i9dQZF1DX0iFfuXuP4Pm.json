@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: Maki",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Janine Berdin",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -1621,6 +1621,24 @@
     },
     {
       "album": {
+        "name": "Conversations",
+        "url": "https://open.spotify.com/album/6wWLZNNrRCxw6LvNc9GKYk"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165033,
+      "name": "Conversations",
+      "url": "https://open.spotify.com/track/0DAYGnA7XlkWlajNTbncQ8"
+    },
+    {
+      "album": {
         "name": "D.T.M.G (Don\u2019t Touch My Girl)",
         "url": "https://open.spotify.com/album/6062kTEHbdxuq6NdFg6jXW"
       },
@@ -2645,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "MORE LAB SONGS NG MGA TANGA",
+        "url": "https://open.spotify.com/album/3Res3V2t8Uy3HL42eRfszZ"
+      },
+      "artists": [
+        {
+          "name": "Janine Berdin",
+          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280746,
+      "name": "Friendship Over",
+      "url": "https://open.spotify.com/track/7njPH1AlzjrnRCAwrjqnLT"
+    },
+    {
+      "album": {
         "name": "Fruitcake (From \"Fruitcake\")",
         "url": "https://open.spotify.com/album/2Eb8N686jvzJXWjtF4kOZY"
       },
@@ -3284,7 +3320,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 242777,
       "name": "Hinga",
       "url": "https://open.spotify.com/track/3kyCL9iWjdYDhkEQboYeJN"
@@ -5156,7 +5192,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 241846,
       "name": "Limot",
       "url": "https://open.spotify.com/track/7HOEqncRxY4CC7HUMp4kPa"
@@ -7704,7 +7740,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 164729,
       "name": "Papel (Kinikimkim to)",
       "url": "https://open.spotify.com/track/0wC0zZmPEgN6eKY2cSNFGQ"
@@ -8677,6 +8713,28 @@
     },
     {
       "album": {
+        "name": "Sa Isip Na Lang",
+        "url": "https://open.spotify.com/album/78QtZ5hOfs3TuMQoAwHc3A"
+      },
+      "artists": [
+        {
+          "name": "This Band",
+          "url": "https://open.spotify.com/artist/5HIZU0JzM0AgfItVOm4E08"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282428,
+      "name": "Sa Isip Na Lang",
+      "url": "https://open.spotify.com/track/6mVStviIlLI5EtnLXv8BOw"
+    },
+    {
+      "album": {
         "name": "Sa Kahapon",
         "url": "https://open.spotify.com/album/1WaMsAatHluQ0sf7f4fVd4"
       },
@@ -9178,6 +9236,28 @@
       "duration_ms": 284827,
       "name": "Segundo, Siguro",
       "url": "https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7"
+    },
+    {
+      "album": {
+        "name": "Selepono",
+        "url": "https://open.spotify.com/album/7DQY4ujkExEZGCJDVoKlDN"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        },
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163672,
+      "name": "Selepono",
+      "url": "https://open.spotify.com/track/0t2b2Dc7sI3J2quYJ0aWwj"
     },
     {
       "album": {
@@ -9826,7 +9906,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-31",
       "duration_ms": 198367,
       "name": "TABI",
       "url": "https://open.spotify.com/track/08eZIOB9t9wZHHwwXQT4cu"

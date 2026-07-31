@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,226,755 likes - 150 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,226,853 likes - 150 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 149 | [The Next Day](https://open.spotify.com/track/6ldDrqbGUXnyVUCJT4eIpc) | [GB](https://open.spotify.com/artist/4YMJGenzGCHYz30PRdTJP8) | [The Next Day](https://open.spotify.com/album/0lpsfmSjhE3kJw8bbdtdSJ) | 4:09 |
 | 150 | [MMA](https://open.spotify.com/track/5ob8AtM6iG8xRqQsqyEuCA) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [MMA](https://open.spotify.com/album/5H4Q72bqtZc2YgTwyRxxsx) | 4:04 |
 
-Snapshot ID: `AAAAAHXroFQ5XkdnwDr6P+SO4DsbhNFJ`
+Snapshot ID: `AAAAADc5/gnva1qYNpfec1OiQbZAxsSs`
