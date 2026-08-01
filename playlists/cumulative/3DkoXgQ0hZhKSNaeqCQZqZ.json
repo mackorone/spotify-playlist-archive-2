@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Digital Pawprint",
+        "url": "https://open.spotify.com/album/1zhvGGnmBC9VGJpi58SBOP"
+      },
+      "artists": [
+        {
+          "name": "Strat Strat",
+          "url": "https://open.spotify.com/artist/77pGG1bc5vcSGDrYsISCyB"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127374,
+      "name": "Creature Feature",
+      "url": "https://open.spotify.com/track/7eAYDLOCkAPqNDO6N40sKk"
+    },
+    {
+      "album": {
         "name": "Creatures Of Tomorrow",
         "url": "https://open.spotify.com/album/5mBan5jxqLzd7SLozflhan"
       },
@@ -3506,6 +3524,24 @@
       "duration_ms": 125218,
       "name": "FOOL FOR YOU",
       "url": "https://open.spotify.com/track/4NEkuzx5DgSNL7buwNsvCi"
+    },
+    {
+      "album": {
+        "name": "forget about it!",
+        "url": "https://open.spotify.com/album/79D09fZELy7ldFcC2oxGt8"
+      },
+      "artists": [
+        {
+          "name": "mayflowers",
+          "url": "https://open.spotify.com/artist/1Jf3zM4mXnEaIktE4xMb4z"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124496,
+      "name": "forget about it!",
+      "url": "https://open.spotify.com/track/1vW0igVORX0r1xfASD8Wq0"
     },
     {
       "album": {
@@ -5470,6 +5506,24 @@
       "duration_ms": 217452,
       "name": "LIFE",
       "url": "https://open.spotify.com/track/23Hhl3U1b2FxRMc2zo6IR8"
+    },
+    {
+      "album": {
+        "name": "Light Shines on You",
+        "url": "https://open.spotify.com/album/7mPSyGNxdwWrIcQxEysaDx"
+      },
+      "artists": [
+        {
+          "name": "Ian Martyn",
+          "url": "https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121674,
+      "name": "Light Shines on You",
+      "url": "https://open.spotify.com/track/4fCfWY8suCaLrTq7rhZpbj"
     },
     {
       "album": {

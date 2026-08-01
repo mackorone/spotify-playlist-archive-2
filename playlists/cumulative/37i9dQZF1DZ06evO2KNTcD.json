@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Sugar Trap",
+        "url": "https://open.spotify.com/album/4kpCgnv0TUG1hthUu3T81K"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189693,
+      "name": "Sugar Trap",
+      "url": "https://open.spotify.com/track/03VYBi1WtoSXgH4vYV5ppT"
+    },
+    {
+      "album": {
         "name": "TOTAL SELLOUT",
         "url": "https://open.spotify.com/album/1b4DpY9UqW2Sau2q0YH9pl"
       },

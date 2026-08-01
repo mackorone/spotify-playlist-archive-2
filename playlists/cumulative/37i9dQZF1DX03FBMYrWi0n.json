@@ -3699,6 +3699,24 @@
     },
     {
       "album": {
+        "name": "Fox",
+        "url": "https://open.spotify.com/album/783Q6POJsKFqpTclYXWNy4"
+      },
+      "artists": [
+        {
+          "name": "Joseph Lorange",
+          "url": "https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148160,
+      "name": "Fox",
+      "url": "https://open.spotify.com/track/3ACdS3R5SaiZzRg5FWGMBh"
+    },
+    {
+      "album": {
         "name": "Traitement Choc",
         "url": "https://open.spotify.com/album/08a6ND8gt6KMUn3aGOn52M"
       },
@@ -10394,6 +10412,24 @@
       "duration_ms": 205312,
       "name": "Une autre vie",
       "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
+    },
+    {
+      "album": {
+        "name": "usd freestyle",
+        "url": "https://open.spotify.com/album/7ah0FaZoAsVX8rekhDOaEo"
+      },
+      "artists": [
+        {
+          "name": "whyhaze",
+          "url": "https://open.spotify.com/artist/4QqnuHKfpTHncKt0om35AE"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65242,
+      "name": "usd freestyle",
+      "url": "https://open.spotify.com/track/1pQXbtBuFBl9Mh6okzbCOO"
     },
     {
       "album": {

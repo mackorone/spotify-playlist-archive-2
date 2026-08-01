@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/1RAM0vIiwm8DzbADGjyZ81"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes @ Sunset",
+          "url": "https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/0WDAiKuQ1R8jZt8JbZLHsa"
+    },
+    {
+      "album": {
         "name": "LIFE OF THE PARTY AND THE DEATH OF ME",
         "url": "https://open.spotify.com/album/3AV1LhyX47AQQwJNGSI8SB"
       },
@@ -1468,6 +1486,24 @@
       "duration_ms": 247008,
       "name": "Waiting for the Thunder",
       "url": "https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ"
+    },
+    {
+      "album": {
+        "name": "We're About To Break Up",
+        "url": "https://open.spotify.com/album/5GigUdBhT18MS5mGhOLsGG"
+      },
+      "artists": [
+        {
+          "name": "Bottomland",
+          "url": "https://open.spotify.com/artist/3EKcCd93FzyKhPBqgdzAH4"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197207,
+      "name": "We're About To Break Up",
+      "url": "https://open.spotify.com/track/7wTiCVNU7EH8gm9pLByjF3"
     },
     {
       "album": {

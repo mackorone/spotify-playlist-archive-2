@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 518785,
+  "num_followers": 518784,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMJ9VhVF78JOti2+0uqVuSMz2rml",
+  "snapshot_id": "AAAAAJ7x6g4PD08vWv5GZAFFRHuKVekf",
   "tracks": [
     {
       "added_at": "2026-07-22 05:58:48",
@@ -315,6 +315,22 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
+        "name": "DUMMY",
+        "url": "https://open.spotify.com/album/7oTq9LczfvZycObUkQXxFN"
+      },
+      "artists": [
+        {
+          "name": "donny daydream",
+          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
+        }
+      ],
+      "duration_ms": 195842,
+      "name": "DUMMY",
+      "url": "https://open.spotify.com/track/7HrWXshLomWHVYD1tC21S1"
+    },
+    {
+      "added_at": "2026-07-03 07:19:50",
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 245413,
       "name": "Rain Song (Feat. Colde)",
       "url": "https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb"
-    },
-    {
-      "added_at": "2026-07-03 07:19:50",
-      "album": {
-        "name": "DUMMY",
-        "url": "https://open.spotify.com/album/7oTq9LczfvZycObUkQXxFN"
-      },
-      "artists": [
-        {
-          "name": "donny daydream",
-          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
-        }
-      ],
-      "duration_ms": 195842,
-      "name": "DUMMY",
-      "url": "https://open.spotify.com/track/7HrWXshLomWHVYD1tC21S1"
     },
     {
       "added_at": "2026-07-03 07:19:50",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
-      },
-      "artists": [
-        {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
-        }
-      ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
-    },
-    {
-      "added_at": "2026-07-03 07:19:50",
-      "album": {
         "name": "I`m In Love",
         "url": "https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN"
       },
@@ -891,22 +875,34 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
       },
       "artists": [
         {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "LEEHI",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
         }
       ],
-      "duration_ms": 194111,
-      "name": "Daydream (feat. LeeHi)",
-      "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
+    },
+    {
+      "added_at": "2026-07-03 07:19:50",
+      "album": {
+        "name": "lost in you",
+        "url": "https://open.spotify.com/album/6BopMMFs55C6SMfG5DcG1I"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "lost in you",
+      "url": "https://open.spotify.com/track/4eidgKChMdRhxH1XnjHU7G"
     }
   ],
   "unique_name": "Dalkom Cafe",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of dance music culture. Featuring Andy Butler of Hercules & Love Affair. ",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of dance music culture. Featuring Arca. ",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -8703,6 +8703,24 @@
     },
     {
       "album": {
+        "name": "XXXXX",
+        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138118,
+      "name": "Taconeando",
+      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
+    },
+    {
+      "album": {
         "name": "take it offff",
         "url": "https://open.spotify.com/album/4bLX9szK5qIl3f9qzRs49O"
       },
@@ -9592,7 +9610,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 158536,
       "name": "WHORE IDOL",
       "url": "https://open.spotify.com/track/2lsmABViywpBiq0DrenwUl"

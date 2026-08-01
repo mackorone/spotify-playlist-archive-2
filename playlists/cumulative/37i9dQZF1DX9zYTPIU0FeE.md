@@ -2,9 +2,9 @@
 
 ### [Jazz NEXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the sounds of South African Jazz\. Cover: SPARTZ
+> Journey through the sounds of South African Jazz\. Cover: Johnny Clegg
 
-372 songs - 1 day 12 hr 45 min
+373 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,7 +244,7 @@
 | [Our People](https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj) | [NLite.](https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ) | [Our People](https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS) | 3:19 | 2025-06-20 |  |
 | [P \(x\) J](https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [P \(x\) J](https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt) | 4:32 | 2024-02-16 | 2026-07-21 |
 | [P \(x\) J](https://open.spotify.com/track/6bR8FnVm8hrYzPp7RpXmAx) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [Batho](https://open.spotify.com/album/43YZOOcwYCHopAjAs97E85) | 4:32 | 2025-06-13 | 2025-06-20 |
-| [People of the South](https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu) | [Viwe Mkizwana Ensemble](https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4) | [People of the South](https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd) | 5:45 | 2025-08-29 |  |
+| [People of the South](https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu) | [Viwe Mkizwana Ensemble](https://open.spotify.com/artist/55ApiGaA8X85InUI3yFxUg), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Marcus Wyatt](https://open.spotify.com/artist/4jiY8gZoVvCZt9sIO5DIM4) | [People of the South](https://open.spotify.com/album/7n8nonfJ59yc61HhRiSNwd) | 5:45 | 2025-08-29 | 2026-08-01 |
 | [Piano Edit](https://open.spotify.com/track/3S9Hy5ymQZyVDVS6OabuZC) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy), [Carlos Niño](https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu) | [Rainbow Revisited](https://open.spotify.com/album/4AQs1TiZ7g8HMTMz1DakM5) | 4:22 | 2025-06-24 | 2025-08-30 |
 | [Piece of Ground](https://open.spotify.com/track/4x69jUo3ULAWef7TggDHG7) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [What Is Wrong With Groovin'](https://open.spotify.com/album/08ytgP2RhHhihp6HpKaPEs) | 4:25 | 2023-09-29 | 2025-05-30 |
 | [Pink Sunset](https://open.spotify.com/track/761V4Wr2AVIKdJtV5o5czc) | [The Unity Band](https://open.spotify.com/artist/1bCno1jVp2qYgeHYLagBnd) | [Breaking Bread](https://open.spotify.com/album/6M46nDC2qUNcCeuSLS0AWq) | 6:23 | 2023-08-25 | 2024-08-16 |
@@ -323,6 +323,7 @@
 | [Theme From "Proof Of The Man"](https://open.spotify.com/track/11MvAJkEOi1PfO2pxLjoGJ) | [Dollar Brand](https://open.spotify.com/artist/6qshOTFUQhvYrza4Sc85Tl), [Archie Shepp](https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh) | [Duet](https://open.spotify.com/album/3L5DqasQ3XCMfIiaxz4r6x) | 8:17 | 2023-11-01 | 2023-11-17 |
 | [Theme from a Film](https://open.spotify.com/track/14IrHNPy0CK3WJBliQF2jI) | [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [A Dance More Sweetly Played](https://open.spotify.com/album/46foYmXHYg5B9s8F1tg9J7) | 7:12 | 2026-04-29 | 2026-05-22 |
 | [There's a Burning Sensation Where My Heart Used to Be](https://open.spotify.com/track/62eU0594IGYjgeAKsoDgM1) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [There's a Burning Sensation Where My Heart Used to Be](https://open.spotify.com/album/58GU30ulA0gAb0a55mYiDb) | 0:53 | 2025-06-13 | 2025-06-20 |
+| [Third World Child \- \(Remake\)](https://open.spotify.com/track/77eZpR8sSF7OKG6SON6cwH) | [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [Scatterlings \(Johnny Clegg Reimagined\)](https://open.spotify.com/album/7f3nbz6bx26a15WKCzYQKT) | 4:55 | 2026-07-31 |  |
 | [Thixo Akunangqalelo](https://open.spotify.com/track/7hZsc0THR1IshMDE0VlTua) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [African Time](https://open.spotify.com/album/5WBAzcalp0upbOBakABp6s) | 2:53 | 2025-08-29 |  |
 | [Thokozile Queen Mother](https://open.spotify.com/track/3xIveLdbKx5x1SbUXPfxUs) | [Tumi Mogorosi](https://open.spotify.com/artist/4GOLjcxxywS6GSCI24fsf6) | [Project ELO](https://open.spotify.com/album/22mdGQMdG58pswyb3GkZL2) | 6:12 | 2022-04-28 | 2023-08-26 |
 | [Thongo Lam \(Iyeza\)](https://open.spotify.com/track/2udpeFRqsPPWLpWqXP7hW0) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Ibokwe](https://open.spotify.com/album/4iCpOjGwWQzIbHPlna6QyM) | 4:38 | 2023-11-01 | 2023-11-17 |

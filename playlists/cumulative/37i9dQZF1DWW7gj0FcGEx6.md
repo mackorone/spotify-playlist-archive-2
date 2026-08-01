@@ -4,7 +4,7 @@
 
 > The latest, greatest cinematic soundtracks from the big and small screen.
 
-947 songs - 1 day 20 hr 55 min
+949 songs - 1 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,6 +374,7 @@
 | [Khazad\-dûm](https://open.spotify.com/track/5gai8pjmX0756SfAOPnEZE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 3:20 | 2022-10-07 | 2024-04-19 |
 | [Killer Heat Suite](https://open.spotify.com/track/2hG4QenRwieCio8bnFxHPG) | [Joseph Shirley](https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e) | [Killer Heat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4bNe1b9Ycnx50d4DGZZ6MA) | 3:32 | 2024-10-01 | 2025-06-14 |
 | [King's Dream](https://open.spotify.com/track/1Xn1yrAbRRs9AhDYcdjFsO) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Lisey's Story \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/11CiJmVVoKOs6ERfvGPV5C) | 1:36 | 2021-12-20 | 2024-08-24 |
+| [Kiss of the Spider\-Man \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/7ENgHAwZ3a3ZCT3jXu9yyl) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Brand New Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6) | 4:58 | 2026-07-31 |  |
 | [Kissing In The Snow](https://open.spotify.com/track/4y2RIzHKWXVgP6Gec7pBaY) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Bridget Jones: Mad About the Boy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7JkVU2P1Pm1uwolXAVc6Gr) | 1:52 | 2025-03-07 | 2025-09-06 |
 | [Kook In Love](https://open.spotify.com/track/2DOdjFBjn6mSI5NW3f6Egl) | [Fil Eisler](https://open.spotify.com/artist/5129CrVkHTSigIoqGiseqj) | [Outer Banks: Season 3 \(Score from the Netflix Series\)](https://open.spotify.com/album/3Mp9GxRTMloesS1rHr6WAK) | 2:30 | 2023-02-17 | 2024-10-12 |
 | [Kraven's Origin](https://open.spotify.com/track/2VKVdBrtLE8KT4r7owDV43) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Kraven The Hunter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6jGKMB5nWY3XDXXpBjAnEB) | 2:03 | 2025-01-07 | 2025-08-09 |
@@ -657,6 +658,7 @@
 | [Sherwood](https://open.spotify.com/track/5reDKMVVaiTUAtecjSyOPR) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Sherwood \(Original Television Soundtrack\)](https://open.spotify.com/album/0JfBuCeUiUyDT8zsxmzyNf) | 3:57 | 2024-11-08 | 2025-07-19 |
 | [She’s Here](https://open.spotify.com/track/1yyEexeKeOiYs2eDxHnhCH) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [Hostage \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0yhhiHzCe6cCLFyOoygvaT) | 2:11 | 2025-08-15 | 2026-07-18 |
 | [Shield of Pain \- from "Spider\-Man: No Way Home" Soundtrack](https://open.spotify.com/track/6JZvhoSW7sq6OYhmxbT8o3) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: No Way Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL) | 4:51 | 2021-12-20 | 2024-10-12 |
+| [Showcase](https://open.spotify.com/track/6ORfH9yvdxw9gGPuJjYJ0d) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk) | [Soulm8te \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6TF8KyYkhExWTRhZNyeXJu) | 1:58 | 2026-07-31 |  |
 | [Shy](https://open.spotify.com/track/4c9rjJWQB7Se6yBNudg2Ak) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Steve \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0lvySL9s1jTZPWCdSkZofE) | 2:43 | 2025-10-10 |  |
 | [Sirens](https://open.spotify.com/track/6i7olOxVWLxv9khPk8tvBO) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [The Odyssey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22A9rMK5gv0rQyW1yrhXZR) | 2:39 | 2026-07-27 |  |
 | [Sirens End Credits](https://open.spotify.com/track/3GTKqpCxQ7DDuwSqhqE6K3) | [Michael Abels](https://open.spotify.com/artist/7lDkWxhwIuRAIzmHf85yKx) | [Sirens \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/78AH21pHM7VP1Xuu8KzuHE) | 2:09 | 2025-05-23 | 2025-11-29 |

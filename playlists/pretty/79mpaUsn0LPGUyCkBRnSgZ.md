@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 761 songs - 2 day 1 hr 6 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 764 songs - 2 day 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -769,5 +769,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 759 | [Midnight In Paris](https://open.spotify.com/track/6ymzeC4hAANuO98puy82eA) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz), [Unholy Modal Rounders](https://open.spotify.com/artist/6Q5S79gQdzhWg7M4JnN020), [Jeffrey Frederick & The Clamtones](https://open.spotify.com/artist/4EcAdmBYoJcCKPazSjp2n1) | [Have Moicy!](https://open.spotify.com/album/3r512B1IHua0oDxxN3ndcd) | 3:17 |
 | 760 | [Malka Moma](https://open.spotify.com/track/2ZPzIZGqhm613bqOj3evQv) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Heavenly Body: If I'm The Bottle You’re The Message](https://open.spotify.com/album/6NjXeIwjKdVEkJHvom1m3x) | 3:14 |
 | 761 | [Twenty](https://open.spotify.com/track/13i41xeRDguAB9EruCaX9f) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Àdá Irin](https://open.spotify.com/album/0iCeii4kXm8YOIHxxzQphO) | 1:13 |
+| 762 | [O.O.B.E.](https://open.spotify.com/track/3CE1CBZAbsXRPdan2hZOWB) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 12:51 |
+| 763 | [Love Crimes](https://open.spotify.com/track/0bbyII7PP0Gg6NWgclzZxE) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 2:40 |
+| 764 | [Offline P.K.](https://open.spotify.com/track/5GXoUoXzGgFSpiE0gf3wCL) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Blue Screen Life](https://open.spotify.com/album/6AGfeMHoNKOFey4KEqwhmJ) | 3:17 |
 
-Snapshot ID: `AAAJX0iu//RCXyzqwluXuVi9bmk79Ged`
+Snapshot ID: `AAAJYj+rlpSRtm8Ae5ASelSvzR4IhQ3l`

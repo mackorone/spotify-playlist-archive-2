@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "The Other One > (Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985)",
+        "url": "https://open.spotify.com/album/7uzSGwaQjtf3sLPaVpUCcB"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417133,
+      "name": "The Other One > - Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985",
+      "url": "https://open.spotify.com/track/0hTk8f4j19gBafoEXXOHzb"
+    },
+    {
+      "album": {
         "name": "Cornell 5/8/77 (Live)",
         "url": "https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ"
       },
@@ -938,7 +956,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 511306,
       "name": "Wharf Rat - Live at Fillmore East, New York, NY, April 26, 1971",
       "url": "https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf"

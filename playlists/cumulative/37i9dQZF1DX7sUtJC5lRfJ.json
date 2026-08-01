@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Khi M\u00e0",
+        "url": "https://open.spotify.com/album/5q9IVIGjnxvkRcbYslJQaK"
+      },
+      "artists": [
+        {
+          "name": "Sloth",
+          "url": "https://open.spotify.com/artist/0pZYFZp4sO1moiEvytkWGU"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212045,
+      "name": "V\u1eabn V\u1eady",
+      "url": "https://open.spotify.com/track/3V0Mgbt72iaI55ywTOXT83"
+    },
+    {
+      "album": {
         "name": "V\u1eeba T\u00ecm Th\u1ea5y \u0110\u00e3 \u0110\u00e1nh M\u1ea5t",
         "url": "https://open.spotify.com/album/03PWhd6BlD8YZ5G586VwUi"
       },

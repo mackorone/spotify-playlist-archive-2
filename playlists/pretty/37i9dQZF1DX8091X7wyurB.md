@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,299 likes - 80 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,435 likes - 80 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8091X7wyurB.md) - [plain]
 | 38 | [IT IS WELL](https://open.spotify.com/track/2ChpsGA8GVZ20W4rfse3Zd) | [Sarah Wonders](https://open.spotify.com/artist/2bOXO4BvexpbMOFjEAxddo) | [IT IS WELL](https://open.spotify.com/album/7u7yJViay5AVSEfvGQALM1) | 5:58 |
 | 39 | [Promises \(feat\. Joe L Barnes, Naomi Raine\)](https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 10:46 |
 | 40 | [Yeshua Hamashiach](https://open.spotify.com/track/6FcD51DG6adcDsPhe57q31) | [Joseph Kwesi Kai](https://open.spotify.com/artist/4jXMIaSmhlUdpfJnVQ1WKA), [Ps\. Isaiah Fosu\-Kwakye Jnr](https://open.spotify.com/artist/4BNF9eVDeOefBoK4llYrgh) | [Yeshua Hamashiach](https://open.spotify.com/album/3mIzrZ3NL2G8RjKrfAT548) | 9:31 |
-| 41 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 |
+| 41 | [Agnus Dei \- Ao Vivo](https://open.spotify.com/track/4auepyf7VQ2j6YGKEGy3wd) | [NOVO CANTO](https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [Agnus Dei \(Ao Vivo\)](https://open.spotify.com/album/72oNXSBHAg6Jwk6VnaVu3A) | 5:56 |
 | 42 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 |
-| 43 | [Agnus Dei \- Ao Vivo](https://open.spotify.com/track/4auepyf7VQ2j6YGKEGy3wd) | [NOVO CANTO](https://open.spotify.com/artist/25tj1LN19FbZNUXGyUPJJB), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Watoto](https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB) | [Agnus Dei \(Ao Vivo\)](https://open.spotify.com/album/72oNXSBHAg6Jwk6VnaVu3A) | 5:56 |
+| 43 | [GOOD DAY](https://open.spotify.com/track/5KXXi90Q4pjVxEapZjRC9O) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [GOOD DAY](https://open.spotify.com/album/3EdKL10Hos74yj7rGqoS2e) | 2:50 |
 | 44 | [In The Room \(feat\. Tasha Cobbs Leonard, Chandler Moore, Naomi Raine\)](https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS) | 9:57 |
 | 45 | [Olilayakedinso](https://open.spotify.com/track/5LFCesKNKi39WWuayMHeqg) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [Olilayakedinso](https://open.spotify.com/album/3ijAq3OcOp11IvIi7MdaUJ) | 2:19 |
 | 46 | [Worthy Of It All \- Live](https://open.spotify.com/track/5mkn0uyPYSIftszMBExMM4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 5:29 |

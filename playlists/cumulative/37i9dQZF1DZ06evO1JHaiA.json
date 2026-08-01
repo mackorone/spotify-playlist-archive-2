@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Come Home Soon",
+        "url": "https://open.spotify.com/album/5G1FG9OEFV5SoJTXql9QB3"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132445,
+      "name": "Come Home Soon",
+      "url": "https://open.spotify.com/track/45X6sLFd4CC7hZYmbkvRxl"
+    },
+    {
+      "album": {
         "name": "Cowboys to Girls",
         "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },

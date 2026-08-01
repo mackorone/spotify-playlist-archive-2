@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Patrick Droney",
+  "description": "A new shade of Country. Cover: Ian Noe",
   "name": "Indigo",
   "tracks": [
     {
@@ -470,7 +470,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 132430,
       "name": "Acting Tough",
       "url": "https://open.spotify.com/track/4rNMfigMG2Tzi5dVgTrrIv"
@@ -1239,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/784ntHZ8rOCR17Fi45OFSP"
+      },
+      "artists": [
+        {
+          "name": "RYMAN",
+          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194519,
+      "name": "Backroads",
+      "url": "https://open.spotify.com/track/7hThw8u62Hy5LLIGSyHyAe"
+    },
+    {
+      "album": {
         "name": "Backwards Again",
         "url": "https://open.spotify.com/album/3ahBXGdxb38F1N6XXVy8YS"
       },
@@ -1562,6 +1580,28 @@
       "duration_ms": 187259,
       "name": "Better With A Broken Heart (feat. TJ Osborne)",
       "url": "https://open.spotify.com/track/2jYCFNo30hKtPxzCg9P5R5"
+    },
+    {
+      "album": {
+        "name": "Betty's in the Band",
+        "url": "https://open.spotify.com/album/7FxZDwJDrJ8StZU0XmkMPM"
+      },
+      "artists": [
+        {
+          "name": "Abigail Rose",
+          "url": "https://open.spotify.com/artist/2CraSvnAIaUnmEaNEVBwYd"
+        },
+        {
+          "name": "Weston Hunter",
+          "url": "https://open.spotify.com/artist/2LlrTkoqkuyqzbO9C7DttQ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206105,
+      "name": "Betty's in the Band",
+      "url": "https://open.spotify.com/track/3xdFInFLsj2Zj1E6VlK3mc"
     },
     {
       "album": {
@@ -2350,7 +2390,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 258645,
       "name": "California Blues",
       "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
@@ -3890,7 +3930,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 252586,
       "name": "Dirtbag Saloon",
       "url": "https://open.spotify.com/track/7fJn2qyRiNT1q3dHzp8z96"
@@ -4082,6 +4122,24 @@
       "duration_ms": 204648,
       "name": "Don't Wanna Say Goodnight",
       "url": "https://open.spotify.com/track/7ksSpM2Q281PTYVxcSOKOB"
+    },
+    {
+      "album": {
+        "name": "Don't You Cry",
+        "url": "https://open.spotify.com/album/6Vb8x9LjQKtMVXmAsVdchL"
+      },
+      "artists": [
+        {
+          "name": "Leon Majcen",
+          "url": "https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247840,
+      "name": "Don't You Cry",
+      "url": "https://open.spotify.com/track/5GqiEDFRVtZGAa90H10Cfl"
     },
     {
       "album": {
@@ -6216,6 +6274,24 @@
       "duration_ms": 156600,
       "name": "Heavy Eyes",
       "url": "https://open.spotify.com/track/2tFYiDDaGGmYLrzQbiKjdu"
+    },
+    {
+      "album": {
+        "name": "Heavy Tobacco",
+        "url": "https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189609,
+      "name": "Heavy Tobacco",
+      "url": "https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at"
     },
     {
       "album": {
@@ -9678,7 +9754,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 178484,
       "name": "Never Really Mine",
       "url": "https://open.spotify.com/track/5mEUwonIy5sqwCcdXISVws"

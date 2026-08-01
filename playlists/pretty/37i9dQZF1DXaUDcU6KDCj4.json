@@ -1,13 +1,265 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Lizzy McAlpine\n",
-  "num_followers": 877601,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Buffalo Traffic Jam\n",
+  "num_followers": 878045,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGnB+XL7M3UIJ2v9o872yp9BJOmR",
+  "snapshot_id": "AAAAAL7FprLamPqkBQJW50hQxeJq/i61",
   "tracks": [
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "Luckiest Man Alive",
+        "url": "https://open.spotify.com/album/7JQee4B0Etas2uzPTAUCkA"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Luckiest Man Alive",
+      "url": "https://open.spotify.com/track/5AcdBSjv5W43KklHLDpNTH"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "Mill Town Flood",
+        "url": "https://open.spotify.com/album/2lDGkAfM7aHgpf3tQcSMu9"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 305279,
+      "name": "Mill Town Flood",
+      "url": "https://open.spotify.com/track/3Bpwb2QUEoRaHZIc9McVrt"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "Heavy Tobacco",
+        "url": "https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 189609,
+      "name": "Heavy Tobacco",
+      "url": "https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+        "url": "https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+      "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "Blight",
+        "url": "https://open.spotify.com/album/3Arvlvf9vzWbE66l5Q7n4j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 181385,
+      "name": "Blight",
+      "url": "https://open.spotify.com/track/49MLQo97bae1S4OaDQ01in"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/0pgqi9s9qkIGjCbN5vGbNq"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 209172,
+      "name": "Right On Time",
+      "url": "https://open.spotify.com/track/15gbrNPteUKN5gNuoRnhY2"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "The Clearing (B Sides)",
+        "url": "https://open.spotify.com/album/3wW0Ae8NwfwrKHTtrpgBh5"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 340173,
+      "name": "Hammond Song",
+      "url": "https://open.spotify.com/track/2aR3Hs6ioznnfBaI1rArDi"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "Blue Stained Glass",
+        "url": "https://open.spotify.com/album/6BZx64F9oGZjasmpGKrn1w"
+      },
+      "artists": [
+        {
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        },
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Blue Stained Glass",
+      "url": "https://open.spotify.com/track/1PzX46fVtrCzJiaopKwu3h"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "It Could Be Worse",
+        "url": "https://open.spotify.com/album/0rer7IRAdCVWcLODgq2rX0"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        },
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Alone Again (feat. Ogi)",
+      "url": "https://open.spotify.com/track/7vQxupuGgNYpyMwsqVUqTr"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "Meet Me At The Cafe",
+        "url": "https://open.spotify.com/album/0GBVskaDi7VBjU5h2OQ8BN"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 183537,
+      "name": "Meet Me At The Cafe",
+      "url": "https://open.spotify.com/track/0I4BZ46wgUqbazXhHATA1V"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "Masks",
+        "url": "https://open.spotify.com/album/6r8fFRgqtWIHvNTK3LX29E"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "duration_ms": 223102,
+      "name": "Masks",
+      "url": "https://open.spotify.com/track/4LDW1h0BKYdDVZJnE3c9uP"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "Past The Veil",
+        "url": "https://open.spotify.com/album/2FHfpGt4h0KzrwWwSAD79k"
+      },
+      "artists": [
+        {
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+        }
+      ],
+      "duration_ms": 320783,
+      "name": "The Calling",
+      "url": "https://open.spotify.com/track/2Y9QswZrghdRhLJwAqBtW0"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "I've Endured",
+        "url": "https://open.spotify.com/album/3wjpWKh1hTYlVA0pOI3i36"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lou",
+          "url": "https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        },
+        {
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        },
+        {
+          "name": "Allison de Groot",
+          "url": "https://open.spotify.com/artist/6EblsLZRlxASdMUwVtJ9g1"
+        },
+        {
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/0ffbFOxdlfUvyXJW9mQtPk"
+        }
+      ],
+      "duration_ms": 227190,
+      "name": "I've Endured",
+      "url": "https://open.spotify.com/track/3Ghvubn39FTlOZxAuAcRnm"
+    },
+    {
+      "added_at": "2026-07-31 04:01:47",
+      "album": {
+        "name": "heal my soul",
+        "url": "https://open.spotify.com/album/77AGm10n5LkMwLDLB4TDaD"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 175687,
+      "name": "heal my soul",
+      "url": "https://open.spotify.com/track/3rE5eH25eje3XFIznczGTp"
+    },
     {
       "added_at": "2026-07-24 04:01:57",
       "album": {

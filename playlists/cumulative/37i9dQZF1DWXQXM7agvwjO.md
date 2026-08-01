@@ -4,7 +4,7 @@
 
 > Hottest indie sounds from Asia\. Cover: Sunny Day Service \(Japan\)
 
-2,731 songs - 6 day 22 hr 40 min
+2,732 songs - 6 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -968,6 +968,7 @@
 | [I CAN DO THIS EVERY DAY](https://open.spotify.com/track/3L8EUeW6h3AJzDT7u0BpbS) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [I CAN DO THIS EVERY DAY](https://open.spotify.com/album/6uhT26uE06qRNbCdGkoZjO) | 3:12 | 2024-04-25 | 2024-05-17 |
 | [I Can't Deny](https://open.spotify.com/track/1fp3QF4UieOKUMQFToXG7e) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [I Can't Deny](https://open.spotify.com/album/1W0D7IP4CLGpuNTHY4oxOB) | 2:49 | 2024-10-31 | 2024-11-16 |
 | [I Can't Find My Head](https://open.spotify.com/track/7lnlHhC4VlnHcBVnHESj4t) | [elo elo](https://open.spotify.com/artist/2TJIEpDN0TLfKAcpB9yknV) | [I Can't Find My Head](https://open.spotify.com/album/5cn0YacIW5OyjBR6QF803J) | 2:55 | 2025-02-06 | 2025-02-14 |
+| [i cant stop looking at her eyes](https://open.spotify.com/track/4uZAqxSDdXhbKlQKVsUVRy) | [fee.](https://open.spotify.com/artist/0doNlR4itw8RyaQ9cw3yZo) | [i cant stop looking at her eyes](https://open.spotify.com/album/1QgyXFjXyscaGdPRKygRlV) | 2:40 | 2026-07-30 |  |
 | [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 | 2024-01-18 | 2024-02-02 |
 | [I Do Not Bid Farewell](https://open.spotify.com/track/1RG1aEW6QnorfN5Iw1802o) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [I Do Not Bid Farewell](https://open.spotify.com/album/3VdbJe4suEWRg2K2hiZFio) | 3:22 | 2022-09-08 | 2022-10-29 |
 | [I Don't Mind](https://open.spotify.com/track/03dMriWOKQpGxC7Irfam5K) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Lemons Made Lemonade](https://open.spotify.com/album/1PDPzPuUMXG8TWsKQRFber) | 3:33 | 2023-10-27 | 2024-01-17 |

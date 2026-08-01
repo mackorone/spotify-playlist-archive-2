@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Keep your finger on the pulse of pop. Cover: Amy Shark",
+  "description": "Keep your finger on the pulse of pop. Cover: Ariana Grande",
   "name": "Pop n' Fresh",
   "tracks": [
     {
@@ -36000,6 +36000,24 @@
       "duration_ms": 180000,
       "name": "Personal",
       "url": "https://open.spotify.com/track/0GBlXLkVpZWrEGOEjZ0og5"
+    },
+    {
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
       "album": {

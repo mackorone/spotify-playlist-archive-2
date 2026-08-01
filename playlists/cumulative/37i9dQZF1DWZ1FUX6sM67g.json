@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Jay Wheeler",
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Silvestre Dangond y Elena Rose",
   "name": "Punto Tropical",
   "tracks": [
     {
@@ -1992,6 +1992,28 @@
       "duration_ms": 199047,
       "name": "D\u00e9jame Respirar",
       "url": "https://open.spotify.com/track/6fsYMWqPX4nOKCb9gSDpEK"
+    },
+    {
+      "album": {
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/3WYvCcWn2UD44wxjkoUG0u"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177821,
+      "name": "Efectos Secundarios",
+      "url": "https://open.spotify.com/track/3ZBeHVnqHHMOmv1ofhq6T0"
     },
     {
       "album": {
@@ -4272,7 +4294,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 156466,
       "name": "Nassau",
       "url": "https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3"

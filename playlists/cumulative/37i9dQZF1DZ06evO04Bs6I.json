@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 252453,
       "name": "Confio em Ti",
       "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
@@ -948,10 +948,54 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 322130,
       "name": "Os Sonhos de Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/0tIeWlRo1s3R2R83GLzXN3"
+    },
+    {
+      "album": {
+        "name": "A Palavra Atrav\u00e9s do Pandeiro Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04JRZQxRJBC8KpZhaQFvPm"
+      },
+      "artists": [
+        {
+          "name": "Carol Tauber",
+          "url": "https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322130,
+      "name": "Os Sonhos de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/6OSWTd3XcVNiXSFumvl2Uo"
+    },
+    {
+      "album": {
+        "name": "Ovelha Em Treinamento",
+        "url": "https://open.spotify.com/album/6kUI9W1yLD53e0oBIabItL"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Ovelha Em Treinamento",
+      "url": "https://open.spotify.com/track/2enOwKM3juIzJQS9pkrSo5"
     },
     {
       "album": {

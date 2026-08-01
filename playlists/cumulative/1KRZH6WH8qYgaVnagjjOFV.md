@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship fifa
 
-222 songs - 14 hr 38 min
+223 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Fight Of My Life](https://open.spotify.com/track/6lifMzePK6K5c5AnfvGMVt) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Fight Of My LIfe](https://open.spotify.com/album/4Dz2LjpgWN5CnGBPAC0Dxp) | 2:58 | 2025-06-20 |  |
 | [Firm Foundation \(He Won’t\)](https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:22 | 2024-05-24 |  |
 | [For Your Glory](https://open.spotify.com/track/70VJujLz2uUo28xWNuc7ID) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [House Of David](https://open.spotify.com/artist/11AckhNQEhNwfFhuNmCJWH), [Wonder Project](https://open.spotify.com/artist/2b16KxZlvk0C1YGnagXAx2) | [For Your Glory](https://open.spotify.com/album/3fNNAjL8EF75DfXo8k8ySZ) | 3:23 | 2026-01-09 |  |
+| [Full 180](https://open.spotify.com/track/0E3wOAQr8WfP3zSbTjuKpG) | [Claire Leslie](https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E) | [Full 180](https://open.spotify.com/album/1sU8oLWvSLNfkxCfBYfiRh) | 2:55 | 2026-07-31 |  |
 | [glued to you](https://open.spotify.com/track/30rmsB7KZDQ05ZhIfvWszx) | [RIDERS](https://open.spotify.com/artist/5nRoa8Fv2bXoYkKW1y1Ze3) | [glued to you](https://open.spotify.com/album/1408GHOdnyTGbxhTBhPMvw) | 5:24 | 2025-01-31 | 2026-03-17 |
 | [God Did \- Edit](https://open.spotify.com/track/2BG3nkfquiGDqEp0182A0C) | [RUA YOUNG](https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1), [KHIM](https://open.spotify.com/artist/6b6kdjMr30zxTYKrFPDBDE) | [God Did \(Remix Pack\)](https://open.spotify.com/album/7KRM03908mcAhJ46HcVzpd) | 2:34 | 2025-05-23 |  |
 | [God Did It \(with Jamie MacDonald\)](https://open.spotify.com/track/2nMbu51k9Q5O3NieTYO4z9) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [God Did It](https://open.spotify.com/album/4hR7Z0kv70acg2wmKBXj2u) | 3:21 | 2025-07-25 |  |

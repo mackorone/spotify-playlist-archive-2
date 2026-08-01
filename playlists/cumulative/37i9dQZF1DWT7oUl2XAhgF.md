@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-610 songs - 1 day 12 hr 36 min
+612 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Always](https://open.spotify.com/track/3w2Mlu3NJYV7XA8LLWdRTI) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Always](https://open.spotify.com/album/2jhdyIrCbitZIzJy2I2Thu) | 2:35 | 2022-04-22 | 2023-09-30 |
 | [Amazing](https://open.spotify.com/track/1jjfb6Ne65MgkrT3jTJMLv) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Amazing](https://open.spotify.com/album/3WP0A1hksYMbO913fap5PF) | 2:50 | 2025-07-18 |  |
 | [Angel Eyes](https://open.spotify.com/track/4EVkYQKxqD5JgdFSkyMjaS) | [The Charities](https://open.spotify.com/artist/6sj6p5wxfR9ueVEp93RRBf) | [Bring Your Love / Angel Eyes](https://open.spotify.com/album/2O5qigf4jDcHkhU4l7jRyb) | 2:30 | 2025-06-23 |  |
-| [Any Old Fool](https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Any Old Fool](https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS) | 3:04 | 2026-04-10 |  |
+| [Any Old Fool](https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Any Old Fool](https://open.spotify.com/album/645BIIezXIuUl2UADCAJyS) | 3:04 | 2026-04-10 | 2026-08-01 |
 | [Anyone](https://open.spotify.com/track/1XLCwiOZqIBLOObrWxBJaE) | [Patchwork Inc.](https://open.spotify.com/artist/6Ay4LTevVm24IfC05fZNZH), [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [Anyone](https://open.spotify.com/album/1mIRqtzdijfQd7OSkEcRPx) | 3:18 | 2026-05-29 |  |
 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 | 2024-09-27 | 2025-03-15 |
 | [Artemis](https://open.spotify.com/track/5dYRCwE5R03NLKF5VpSccp) | [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) | [Artemis](https://open.spotify.com/album/0qMNhyWAWmsREWJz9mdZIV) | 2:53 | 2024-08-02 | 2026-01-15 |
@@ -377,6 +377,7 @@
 | [On My Line](https://open.spotify.com/track/5gco11tZZyDMt0CW2idCAa) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [So Far So Good](https://open.spotify.com/album/1yHZrW9FsmdkcTmMdmEHDw) | 3:11 | 2023-09-01 | 2024-02-10 |
 | [On My Line](https://open.spotify.com/track/69Zsk4qDZhC0lSTHd6dcaA) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [On My Line](https://open.spotify.com/album/1ojdHKB7tifei9riIPoiLd) | 3:11 | 2022-02-15 | 2023-10-10 |
 | [One and Only](https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [One and Only](https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM) | 3:11 | 2022-04-29 | 2023-02-18 |
+| [One and the Same](https://open.spotify.com/track/6OKtJlCD9Ox6BiXN0xaMfY) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [One and the Same](https://open.spotify.com/album/6RvgpXA6LKZoToLxrlTylh) | 3:43 | 2026-07-31 |  |
 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 | 2021-12-03 | 2024-09-14 |
 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 | 2022-07-29 | 2024-09-07 |
 | [Only](https://open.spotify.com/track/2o7iswHRWEMpjltMMPjerS) | [Bywater Call](https://open.spotify.com/artist/1bhk3AmtYKQAcDzbDyWG4M) | [Only](https://open.spotify.com/album/59Y4LkQvKUYvi8qEfvvtLs) | 4:18 | 2026-01-09 |  |
@@ -390,6 +391,7 @@
 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 | 2024-07-03 | 2024-08-10 |
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-11-05 | 2022-07-29 |
 | [Paris](https://open.spotify.com/track/2dgSbz6osX3pCZtNmPGCzB) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Paris](https://open.spotify.com/album/4cAI2lU33xuw3YLixV8w1T) | 2:56 | 2025-01-17 |  |
+| [Paying It Forward](https://open.spotify.com/track/4MFOVDBBmO8n26BkYyMQwS) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [Paying It Forward](https://open.spotify.com/album/142wQ3h6ZHW9OpXmkUrqQT) | 3:00 | 2026-07-31 |  |
 | [Pelvis Pusher](https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Pelvis Pusher](https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8) | 3:07 | 2021-07-09 | 2022-09-03 |
 | [Phases](https://open.spotify.com/track/5nXT7uZL7xCEBnFCpa2uYh) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Phases](https://open.spotify.com/album/35Pjy1frpTpW1UZXLRcgt0) | 3:03 | 2025-04-04 | 2025-05-10 |
 | [Piece of Me](https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/76yrGYfxRIv1FnVU01IhdS) | 3:42 | 2021-07-09 | 2025-03-22 |
@@ -516,7 +518,7 @@
 | [That Feeling](https://open.spotify.com/track/2Ysz3zB0xV1w96CxhYq0bR) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [That Feeling](https://open.spotify.com/album/236G8bErE6jhTq1i912HQ9) | 4:22 | 2023-03-24 | 2023-05-06 |
 | [That's All I Wanted From You](https://open.spotify.com/track/6KPPfdQTxqmpt4Mr1RU09o) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [That's All I Wanted From You](https://open.spotify.com/album/5YMTxJYMulSFqd6kHpn14U) | 2:36 | 2023-07-28 | 2024-02-24 |
 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-08-26 | 2024-01-13 |
-| [The Cure](https://open.spotify.com/track/2hHGvBFaHmvrPDixbjsjPl) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [The Cure](https://open.spotify.com/album/38qkz7KdPXntMxHpsQQI6U) | 3:16 | 2026-01-09 |  |
+| [The Cure](https://open.spotify.com/track/2hHGvBFaHmvrPDixbjsjPl) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [The Cure](https://open.spotify.com/album/38qkz7KdPXntMxHpsQQI6U) | 3:16 | 2026-01-09 | 2026-08-01 |
 | [The Greatest](https://open.spotify.com/track/5jDsmAYHMfGjIJ6Ytjqjys) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Walk With the Father](https://open.spotify.com/album/7cSExLIJTjo6zN5hpr05TX) | 3:20 | 2025-01-24 |  |
 | [The Light of the Sun](https://open.spotify.com/track/5o6klEdkcOSbzw9E3iHUYy) | [Luqman Frank](https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj), [Pep Love](https://open.spotify.com/artist/4onNLSRXS0x0dZaisdMo4E) | [The Light of the Sun](https://open.spotify.com/album/4uQNBaCXO5UIBiK1zpuny2) | 4:20 | 2022-05-13 | 2022-07-28 |
 | [The Makings of you](https://open.spotify.com/track/5mdBYpo07zvlOTuSjooegw) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo) | [The Makings of you](https://open.spotify.com/album/2HNuWHhCYirWiUWjkaJ8km) | 2:52 | 2023-02-24 | 2024-06-08 |

@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Jiggy Djé
 
-521 songs - 23 hr 33 min
+522 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [AGRESSIEF](https://open.spotify.com/track/5RlBjem0BtAcVxCyxQCcP5) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Valentino Ignoto](https://open.spotify.com/artist/33gzH4UlGKuY3GIoiukLin) | [AGRESSIEF](https://open.spotify.com/album/725pifQFSUf2kXZRr9xIJP) | 2:08 | 2025-07-17 | 2025-08-15 |
 | [Alcantara](https://open.spotify.com/track/6PBgiQ0JVfHBBidyIBQHMe) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Alcantara](https://open.spotify.com/album/4w79VeLMd0PpNWE4Q66zfR) | 3:47 | 2025-10-16 | 2026-04-17 |
 | [Alleen](https://open.spotify.com/track/5IpWXgU0tQOVoSIRee6gAh) | [Ismo](https://open.spotify.com/artist/2vRJ1xr5DT4PdBnM63DBJZ) | [Alleen](https://open.spotify.com/album/45MzQHCdPvlwNawqMof424) | 2:29 | 2025-09-04 | 2025-09-19 |
-| [Alleen Is Maar Alleen](https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Alleen Is Maar Alleen](https://open.spotify.com/album/7EtaXo9QKligGu9dgenUSy) | 2:22 | 2026-03-26 |  |
+| [Alleen Is Maar Alleen](https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4) | [Alleen Is Maar Alleen](https://open.spotify.com/album/7EtaXo9QKligGu9dgenUSy) | 2:22 | 2026-03-26 | 2026-08-01 |
 | [Alles of Niks](https://open.spotify.com/track/2wyqjUBjFMAqS2ACYmQA9F) | [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [THEZ](https://open.spotify.com/artist/5Eo75LPyKw1VknEGpMrcO6) | [Reset](https://open.spotify.com/album/01YPoXB22upTPnELbZ1UBw) | 3:06 | 2026-01-22 | 2026-01-27 |
 | [Alo](https://open.spotify.com/track/0tEIOQkNRNn6ZGoalxsXDq) | [Highguest](https://open.spotify.com/artist/5Wmp0SPkZCGuTNHHa3jJdj), [YV](https://open.spotify.com/artist/5A7HNCq6t0xNDOjZIUZDRk), [Ksix](https://open.spotify.com/artist/2vzRN2N10AtxEHaxSIN1NR) | [Alo](https://open.spotify.com/album/5nbMRLAWtDojQ5fMkAJ2M4) | 2:36 | 2026-04-02 | 2026-04-24 |
 | [Alo](https://open.spotify.com/track/3bsk1YJFVOVjJPF7z6QFKD) | [Maycash](https://open.spotify.com/artist/3XuZ73r4HTBo0C8rlGSCmD) | [Alo](https://open.spotify.com/album/7gvJTfD0bqq6h9ziaze3tO) | 2:34 | 2026-03-09 | 2026-04-11 |
@@ -444,6 +444,7 @@
 | [STUK](https://open.spotify.com/track/6ktcLOodfzrT0e9G810fVZ) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [STUK](https://open.spotify.com/album/7CNunsUm1e9qFJcEPD9T2f) | 1:49 | 2026-06-29 |  |
 | [Stupid \(Move It\)](https://open.spotify.com/track/6kfsiJ3wSS97qM0oQxey2n) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Stupid \(Move It\)](https://open.spotify.com/album/6mw5Lz20a0Nrn0j18rc4pk) | 2:03 | 2026-07-23 |  |
 | [Suffe Goon](https://open.spotify.com/track/1wIuLWkmtamogzUPFTrtXs) | [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Suffe Goon](https://open.spotify.com/album/3TcdEsLyQGGDeeC8eZ4t8F) | 3:01 | 2025-07-17 | 2025-08-29 |
+| [Supaa Amazing](https://open.spotify.com/track/30WOm7yTjeQUHCCGx1JVuC) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Supaa Amazing](https://open.spotify.com/album/4LUV0mQ6HnmdbALfo0ERk0) | 2:02 | 2026-07-31 |  |
 | [SUPREME](https://open.spotify.com/track/5quw3QXbs7SPmC1bUkHzp7) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [SUPREME](https://open.spotify.com/album/1h4e2OXH9T9Hb2cHLvC4E7) | 2:12 | 2025-07-17 | 2025-08-29 |
 | [Tafel Voor 2](https://open.spotify.com/track/68xWjy9I9MvZydX02I5OAH) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [Tafel Voor 2](https://open.spotify.com/album/3KZ7sUm5SAEV7TaSuQ7PPA) | 3:15 | 2025-09-18 | 2025-11-04 |
 | [Tajine](https://open.spotify.com/track/0l6jdn1FFKPLVVhOhPpGBi) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA) | [Tajine](https://open.spotify.com/album/1ijLqpiQS2umGzVYAHMC0q) | 3:05 | 2026-05-07 | 2026-06-12 |

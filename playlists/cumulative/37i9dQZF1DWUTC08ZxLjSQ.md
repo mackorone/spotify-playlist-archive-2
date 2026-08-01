@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Veintiuno\. Artwork: Isu Kim
 
-538 songs - 1 day 4 hr 12 min
+539 songs - 1 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Leh \(ليش\)](https://open.spotify.com/track/2jPcIPZC1ib88HgCtCxTlO) | [Norhan](https://open.spotify.com/artist/4GEoaIvEquHnb4yy28scNj) | [Leh \(ليش\)](https://open.spotify.com/album/6BmoWEvQAaZsdhxfnSHuT2) | 3:06 | 2024-04-30 | 2024-08-14 |
 | [Leh Ya Hana ?](https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx) | [Arnabeat](https://open.spotify.com/artist/31OlJhazERjXIrCE9SQQbM) | [Leh Ya Hana ?](https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN) | 3:54 | 2023-03-01 | 2023-09-13 |
 | [Lessa](https://open.spotify.com/track/2IS9PaCWrPwqx6VuaqQTTA) | [Malayka](https://open.spotify.com/artist/4DJk09zggqa3otcA3gtPNM), [Hudz](https://open.spotify.com/artist/1ffKtN3dRJOQKTUm1pkDGM) | [Lessa](https://open.spotify.com/album/0FFeto2yLQt9z31E8VfjFp) | 2:42 | 2024-06-26 | 2024-10-02 |
+| [LIAM](https://open.spotify.com/track/21aSPwD9zwJly334s2qUJM) | [JUBA](https://open.spotify.com/artist/4OkArG0eh8yAOwKPSwTIad) | [LIAM](https://open.spotify.com/album/2BNxuNW4GTVenflIb3TGPz) | 3:07 | 2026-07-31 |  |
 | [Liga](https://open.spotify.com/track/4iwxGcPrnMklAFdImT3iaE) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [Liga](https://open.spotify.com/album/6jIUOAlsBqHeCIRWH6KbXz) | 2:10 | 2024-04-30 | 2024-08-14 |
 | [Lili Twil](https://open.spotify.com/track/19ppkSHBDgKow8UxPPds3h) | [El Ayo](https://open.spotify.com/artist/3bJaM96nY245EVtDMpmJdW) | [Lili Twil](https://open.spotify.com/album/3ck71v60wN64HTn3FDBHO4) | 2:40 | 2022-10-11 | 2023-01-18 |
 | [Limit](https://open.spotify.com/track/5pSMiWiNHzftxYS4LWzjm0) | [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic), [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF) | [Limit](https://open.spotify.com/album/36z227Nye8ncY8O22fA5lc) | 4:30 | 2023-08-01 | 2024-05-01 |
@@ -377,7 +378,7 @@
 | [Quick Flex](https://open.spotify.com/track/4Xsgdr7McooFSUUGoYvU9g) | [NBL](https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D), [Gra](https://open.spotify.com/artist/4QFDQS3cWdDXIZRaXFvW5B), [Chasey the Illest](https://open.spotify.com/artist/42kTgzgcQLKru8mxK04VLa) | [Quick Flex](https://open.spotify.com/album/3I5pQO3UYPpQZO3xrRox9e) | 3:52 | 2024-02-20 | 2024-07-10 |
 | [RADAR](https://open.spotify.com/track/5vWZfGQMTId1KtSzs2vr6y) | [ميلو](https://open.spotify.com/artist/3mXE7BL3H3oCL16lpDtycN), [Andrew Amir](https://open.spotify.com/artist/7fTioWTi2v7zik4MMkHRsC) | [RADAR](https://open.spotify.com/album/6q0mtfCvxzMQVL64cWAnOs) | 2:20 | 2026-05-05 |  |
 | [RAS L'KHEIT](https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo) | [Fulan](https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk) | [RAS L'KHEIT](https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y) | 2:48 | 2023-05-09 | 2023-07-19 |
-| [RASSMA](https://open.spotify.com/track/2BLuMnfGLbLfpyHuWAIwEe) | [AyeLee](https://open.spotify.com/artist/6QwrTKHDZ15WyIBSAoF854) | [APORIA](https://open.spotify.com/album/4q9nP2q2Y816WLbWItT1Qw) | 2:43 | 2026-04-01 |  |
+| [RASSMA](https://open.spotify.com/track/2BLuMnfGLbLfpyHuWAIwEe) | [AyeLee](https://open.spotify.com/artist/6QwrTKHDZ15WyIBSAoF854) | [APORIA](https://open.spotify.com/album/4q9nP2q2Y816WLbWItT1Qw) | 2:43 | 2026-04-01 | 2026-08-01 |
 | [Rather Try](https://open.spotify.com/track/7D09Q387brpXrH6w1eXYdY) | [Ziad](https://open.spotify.com/artist/0pyVNHbpZ6oiTYTYPLp7aj) | [Rather Try](https://open.spotify.com/album/14CEaWYYQN7bEqnYu21syi) | 2:37 | 2023-08-01 | 2024-05-01 |
 | [RAW.](https://open.spotify.com/track/1HCVrcQcxDf7zBdviW0GuH) | [LOCO.](https://open.spotify.com/artist/68vnFjXn3omf0eIRqqfUED), [Lordie the Goat](https://open.spotify.com/artist/3gIR2RoLWyl8mbV1b3U8YK) | [SUPERLOCO 2](https://open.spotify.com/album/5L3eW3AySJvXIcNeB75IAb) | 2:48 | 2025-08-06 | 2025-12-18 |
 | [Remedy](https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA), [Kar33m](https://open.spotify.com/artist/7320Yw3QnbbDBjOK09tRkP) | [Remedy](https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy) | 3:37 | 2023-05-17 | 2024-01-17 |

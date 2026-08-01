@@ -1,34 +1,18 @@
 {
-  "description": "your questions? rhetorical.",
-  "num_followers": 53349,
+  "description": "pink bows, spilled secrets, deep feels, and main character dreams",
+  "num_followers": 53431,
   "original_name": "girlhood ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABOzASM2J5rs6D2C+RwNCRjLFG62",
+  "snapshot_id": "AAAAAC8rIMD4lJYzP5EPUHcwIkJhcR9K",
   "tracks": [
     {
-      "added_at": "2026-05-22 04:02:04",
+      "added_at": "2026-07-31 04:00:34",
       "album": {
-        "name": "Florescence",
-        "url": "https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 187120,
-      "name": "Questions",
-      "url": "https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI"
-    },
-    {
-      "added_at": "2026-04-20 15:31:31",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
       },
       "artists": [
         {
@@ -36,9 +20,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 221207,
-      "name": "I Told You Things",
-      "url": "https://open.spotify.com/track/5V6mK1pEu22104f22m8KkX"
+      "duration_ms": 244866,
+      "name": "Daughter from Hell",
+      "url": "https://open.spotify.com/track/7yogqG9VriSe2gE9RKZKwG"
     },
     {
       "added_at": "2026-04-20 15:31:31",
@@ -121,6 +105,22 @@
       "url": "https://open.spotify.com/track/05e0Tkr6tpxbktIei9q8Mw"
     },
     {
+      "added_at": "2026-05-22 04:02:04",
+      "album": {
+        "name": "Florescence",
+        "url": "https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 187120,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/0eaFxL9uBQJlbt1mKXAdZI"
+    },
+    {
       "added_at": "2026-04-20 15:31:31",
       "album": {
         "name": "The Motive",
@@ -137,24 +137,24 @@
       "url": "https://open.spotify.com/track/4U1hLzm0Hwd3UTLeWKHhVt"
     },
     {
-      "added_at": "2026-04-24 04:01:45",
+      "added_at": "2026-07-31 04:00:34",
       "album": {
-        "name": "Kingmaker (with Julia Michaels)",
-        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
+        "name": "you already know",
+        "url": "https://open.spotify.com/album/2UfOvHcWVcDtnsP1UaUF4b"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Sody",
+          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
         },
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Riley Biederer",
+          "url": "https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR"
         }
       ],
-      "duration_ms": 188106,
-      "name": "Kingmaker (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
+      "duration_ms": 173691,
+      "name": "you already know",
+      "url": "https://open.spotify.com/track/6E2w1MMP88fB2aiZTxa3RJ"
     },
     {
       "added_at": "2026-04-20 15:31:31",
@@ -171,6 +171,22 @@
       "duration_ms": 200060,
       "name": "dog with a bone",
       "url": "https://open.spotify.com/track/0VQgO4YIMsAkH2MxIxWSHD"
+    },
+    {
+      "added_at": "2026-04-20 15:31:31",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 221207,
+      "name": "I Told You Things",
+      "url": "https://open.spotify.com/track/5V6mK1pEu22104f22m8KkX"
     },
     {
       "added_at": "2026-04-20 15:31:31",
@@ -863,22 +879,6 @@
       "duration_ms": 254693,
       "name": "Good Books",
       "url": "https://open.spotify.com/track/7qqDAVEq3y8yKmEMVMJ6Wf"
-    },
-    {
-      "added_at": "2026-04-20 15:31:31",
-      "album": {
-        "name": "Fetch The Bolt Cutters",
-        "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
-      },
-      "artists": [
-        {
-          "name": "Fiona Apple",
-          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
-        }
-      ],
-      "duration_ms": 237713,
-      "name": "I Want You To Love Me",
-      "url": "https://open.spotify.com/track/73SBAGI4fPFm4VkB3NjXq8"
     },
     {
       "added_at": "2026-04-20 15:31:31",

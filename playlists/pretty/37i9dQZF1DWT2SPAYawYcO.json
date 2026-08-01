@@ -1,13 +1,29 @@
 {
-  "description": "Brand new music from Ninajirachi, Porter Robinson, PNAU, Kurtis Wells, Stan Walker, Lance Sivali, Rita Ora + more ",
-  "num_followers": 457529,
+  "description": "Brand new music from Ninajirachi, Porter Robinson, Ariana Grande, PNAU, Kurtis Wells, Shaboozey, Kehlani, Stan Walker + more ",
+  "num_followers": 457857,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGp+CzB7Ye1WPAbcQkhvnSsKoQhv",
+  "snapshot_id": "AAAAAGAvD6JK0P50Ly/bztoGqdShsWd9",
   "tracks": [
+    {
+      "added_at": "2026-07-31 04:02:25",
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+    },
     {
       "added_at": "2026-07-30 14:00:22",
       "album": {
@@ -18,10 +34,14 @@
         {
           "name": "PNAU",
           "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 126004,
+      "name": "Serotonin",
       "url": "https://open.spotify.com/track/3OVrWStc5JvH8ws4bV90Sa"
     },
     {
@@ -43,6 +63,26 @@
       "duration_ms": 219367,
       "name": "WannaCry",
       "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
+    },
+    {
+      "added_at": "2026-07-31 04:02:25",
+      "album": {
+        "name": "The Outlaw Cherie Lee & Other Western Tales",
+        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 195952,
+      "name": "Bullets & Blades (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2"
     },
     {
       "added_at": "2026-07-30 14:00:22",
@@ -145,6 +185,26 @@
       "url": "https://open.spotify.com/track/6wqTGLc9DnD1I0zj969yXM"
     },
     {
+      "added_at": "2026-07-31 04:02:25",
+      "album": {
+        "name": "Happiness Is So Sad",
+        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 232835,
+      "name": "Happiness Is So Sad",
+      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
+    },
+    {
       "added_at": "2026-07-30 23:00:17",
       "album": {
         "name": "PRINCE OF THE SCENE",
@@ -205,6 +265,22 @@
       "url": "https://open.spotify.com/track/0UupmTsDkL9cdm8GGLzvYq"
     },
     {
+      "added_at": "2026-07-31 04:02:25",
+      "album": {
+        "name": "AH HA",
+        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "AH HA",
+      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
+    },
+    {
       "added_at": "2026-07-30 14:00:22",
       "album": {
         "name": "Sunburn Mixtape",
@@ -219,6 +295,22 @@
       "duration_ms": 203800,
       "name": "Crazy To Yourself",
       "url": "https://open.spotify.com/track/7FrvRHtpJM9ApODPbLx5F8"
+    },
+    {
+      "added_at": "2026-07-31 04:02:25",
+      "album": {
+        "name": "SWAGGER",
+        "url": "https://open.spotify.com/album/431cOcJZLoFDJz5k1BYCfO"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 154736,
+      "name": "SWAGGER",
+      "url": "https://open.spotify.com/track/4J0vRdLrMZxr4svgC9olrf"
     },
     {
       "added_at": "2026-07-30 14:00:22",
@@ -723,6 +815,46 @@
     {
       "added_at": "2026-07-30 14:00:22",
       "album": {
+        "name": "MOTION (feat. Juicy J)",
+        "url": "https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "MOTION (feat. Juicy J)",
+      "url": "https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy"
+    },
+    {
+      "added_at": "2026-07-31 04:02:25",
+      "album": {
+        "name": "Meant To Me",
+        "url": "https://open.spotify.com/album/68g7b5TUBHmIC0W4W1ZRM3"
+      },
+      "artists": [
+        {
+          "name": "Dugong Jr",
+          "url": "https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i"
+        },
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        }
+      ],
+      "duration_ms": 187381,
+      "name": "Meant To Me (feat. FELIVAND)",
+      "url": "https://open.spotify.com/track/0Kcf9tRom7GxqSK8mnVuie"
+    },
+    {
+      "added_at": "2026-07-30 14:00:22",
+      "album": {
         "name": "The Blade of a Knife",
         "url": "https://open.spotify.com/album/2FDJKjNgBHqrTSmTRhWukl"
       },
@@ -859,6 +991,22 @@
       "duration_ms": 240000,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/3op3tRzNmYdRREFU9E6swi"
+    },
+    {
+      "added_at": "2026-07-31 04:02:25",
+      "album": {
+        "name": "Hustle",
+        "url": "https://open.spotify.com/album/7yTh2PGGQt9hX9mqA4Nya7"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 139008,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/6nNFD1a4VgwwYVg87jUj4Z"
     },
     {
       "added_at": "2026-07-30 14:00:22",
@@ -1113,7 +1261,7 @@
         }
       ],
       "duration_ms": 169133,
-      "name": "Why Won't You Love Me",
+      "name": "Why Won't You Love Me?",
       "url": "https://open.spotify.com/track/66y0o63yql3qnoE9XpxyVv"
     },
     {
@@ -1167,6 +1315,22 @@
       "duration_ms": 232937,
       "name": "Susucaru",
       "url": "https://open.spotify.com/track/6TI4VLZPROSqXEaQ3lx0WC"
+    },
+    {
+      "added_at": "2026-07-30 14:00:22",
+      "album": {
+        "name": "No Effort 2",
+        "url": "https://open.spotify.com/album/0Lq5HQZnFwpDTyGzkcWr6Z"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 144020,
+      "name": "No Effort 2",
+      "url": "https://open.spotify.com/track/6M0ZCGGqpTOC0OGiFaJuAA"
     },
     {
       "added_at": "2026-07-30 14:00:22",
@@ -1332,8 +1496,8 @@
           "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 161506,
+      "name": "Lady In the GPS",
       "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
     },
     {

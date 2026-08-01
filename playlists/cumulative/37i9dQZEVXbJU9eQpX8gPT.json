@@ -9196,7 +9196,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 167920,
       "name": "CVP",
       "url": "https://open.spotify.com/track/3ZHISEni91oxZLbjDmtsAy"
@@ -10681,7 +10681,7 @@
     },
     {
       "album": {
-        "name": "SALGOAT",
+        "name": "SALGOAT (Vol. 1)",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
       },
       "artists": [
@@ -10692,7 +10692,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-24",
+      "date_removed": null,
       "duration_ms": 196706,
       "name": "DIPLOMATICO",
       "url": "https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og"
@@ -30247,6 +30247,24 @@
     },
     {
       "album": {
+        "name": "L'undertaker, Pt. 1",
+        "url": "https://open.spotify.com/album/1I88RaknA3oyzxIuHV0qHN"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/2qfAnCOsLPFs8zOQc2pNKI"
+    },
+    {
+      "album": {
         "name": "L'undertaker Part.1",
         "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
       },
@@ -30276,7 +30294,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"

@@ -17707,6 +17707,36 @@
     },
     {
       "album": {
+        "name": "Yenadi",
+        "url": "https://open.spotify.com/album/6j6Qi5UtRZ88PTwb78owrK"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Viss Ningthouja",
+          "url": "https://open.spotify.com/artist/6PUtQBfuW9sbsM38uJlVDF"
+        },
+        {
+          "name": "Sreekanth Hariharan",
+          "url": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
+        },
+        {
+          "name": "Tanvi Kamat",
+          "url": "https://open.spotify.com/artist/0vBAjGKbTcI4SDVRnp8Znv"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Yenadi",
+      "url": "https://open.spotify.com/track/0r98oYeF5In7SCfgRR4B57"
+    },
+    {
+      "album": {
         "name": "Yendhizhaye",
         "url": "https://open.spotify.com/album/4bZfDL2vNEhlT9PZf27f3V"
       },

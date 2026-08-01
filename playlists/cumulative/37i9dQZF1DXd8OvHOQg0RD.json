@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-09-04",
-  "description": "Las canciones que sonaban mientras Colombia hac\u00eda historia.",
-  "name": "Cuando el pa\u00eds par\u00f3",
+  "description": "Garc\u00eda M\u00e1rquez dec\u00eda que Cien a\u00f1os de soledad era \"un vallenato de 350 p\u00e1ginas\". \u00bfA qu\u00e9 sonaba Macondo?",
+  "name": "Un vallenato de 350 p\u00e1ginas",
   "tracks": [
     {
       "album": {
@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Historia Musical de Alejo Dur\u00e1n",
+        "url": "https://open.spotify.com/album/496Wk5fbzr9KG551CflXrL"
+      },
+      "artists": [
+        {
+          "name": "Alejo Duran",
+          "url": "https://open.spotify.com/artist/1Y6F5MclpTpxzLKUNwu0Rb"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183019,
+      "name": "Alicia Adorada",
+      "url": "https://open.spotify.com/track/0GyzIzUDroTryGoJ7A86Zj"
+    },
+    {
+      "album": {
         "name": "AMANTES",
         "url": "https://open.spotify.com/album/1RDicbxeFHWyoTzzV13xxk"
       },
@@ -308,6 +326,28 @@
       "duration_ms": 180144,
       "name": "AMANTES",
       "url": "https://open.spotify.com/track/5lqi80trHHTiGk2JYBG2JH"
+    },
+    {
+      "album": {
+        "name": "Los Dos Inseparables",
+        "url": "https://open.spotify.com/album/1iFlN4AfVjAqTzN3ANkl7D"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Gutierrez",
+          "url": "https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A"
+        },
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176533,
+      "name": "Anhelos",
+      "url": "https://open.spotify.com/track/0WkSkuHCOF5sIRfhmYGs0J"
     },
     {
       "album": {
@@ -588,7 +628,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 241994,
       "name": "Busc\u00e1ndote",
       "url": "https://open.spotify.com/track/63waB4Lai1m69MiqQg8lDt"
@@ -624,10 +664,28 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 226680,
       "name": "Caballito",
       "url": "https://open.spotify.com/track/7cnNVprIE8I5kw3dDo2dTR"
+    },
+    {
+      "album": {
+        "name": "El Rey Negro Vallenato",
+        "url": "https://open.spotify.com/album/6QhWMMsC1wUKsof7a1vL3l"
+      },
+      "artists": [
+        {
+          "name": "Alejo Duran",
+          "url": "https://open.spotify.com/artist/1Y6F5MclpTpxzLKUNwu0Rb"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146640,
+      "name": "Cachucha Bacana",
+      "url": "https://open.spotify.com/track/5D2JrTJgT7B2pFE96VlI0D"
     },
     {
       "album": {
@@ -646,6 +704,24 @@
       "duration_ms": 161813,
       "name": "Calla T\u00fa",
       "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
+    },
+    {
+      "album": {
+        "name": "El Maestro",
+        "url": "https://open.spotify.com/album/3cbRlN81DPhk4reHVrp6MY"
+      },
+      "artists": [
+        {
+          "name": "Lucho Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151306,
+      "name": "Carmen De Bolivar",
+      "url": "https://open.spotify.com/track/3XdgWP4n5eW7TrviUkP8Ci"
     },
     {
       "album": {
@@ -712,7 +788,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 219989,
       "name": "CH\u00c9VERE (premium_remix)",
       "url": "https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ"
@@ -774,10 +850,28 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 267826,
       "name": "Ciega, Sordomuda",
       "url": "https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi"
+    },
+    {
+      "album": {
+        "name": "Serie Inmortales: Los Ritmos Coste\u00f1os Favoritos del Maestro",
+        "url": "https://open.spotify.com/album/1ZrungzeCwLOWIOfl1PXKu"
+      },
+      "artists": [
+        {
+          "name": "Lucho Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158973,
+      "name": "Colombia Tierra Querida",
+      "url": "https://open.spotify.com/track/3DwedX467tabb9zUzdqfcq"
     },
     {
       "album": {
@@ -803,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Clasicos de la Provincia",
+        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Compa'e Chipuco",
+      "url": "https://open.spotify.com/track/7E5ag4m4ZHNj8szyEjOvVH"
+    },
+    {
+      "album": {
         "name": "F.A.M.E.",
         "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
       },
@@ -818,7 +930,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 184066,
       "name": "Coraz\u00f3n (feat. Nego do Borel)",
       "url": "https://open.spotify.com/track/5cepAtqnEQ6yVG6088zMMu"
@@ -858,6 +970,24 @@
       "duration_ms": 133894,
       "name": "cuatro veinte",
       "url": "https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc"
+    },
+    {
+      "album": {
+        "name": "T\u00edtulos Coste\u00f1os de Hist\u00f3rico Recuerdo",
+        "url": "https://open.spotify.com/album/3xXqjM8yIaEHmBbE3M46Zb"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pacheco",
+          "url": "https://open.spotify.com/artist/0kxg6fCG2zNP3mcq8QG4Sw"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206706,
+      "name": "Cumbia Cienaguera",
+      "url": "https://open.spotify.com/track/2CuqjZOLLbIC3ZOitZTVl4"
     },
     {
       "album": {
@@ -912,7 +1042,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -1032,7 +1162,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 220116,
       "name": "D\u00e9jala Que Vuelva",
       "url": "https://open.spotify.com/track/1j6xOGusnyXq3l6IryKF3G"
@@ -1057,6 +1187,46 @@
     },
     {
       "album": {
+        "name": "Cien a\u00f1os de soledad (Banda sonora de la serie de Netflix)",
+        "url": "https://open.spotify.com/album/7o4938uAtkoCFB0TMW9i21"
+      },
+      "artists": [
+        {
+          "name": "Juancho Valencia",
+          "url": "https://open.spotify.com/artist/2bptZEfEQ68RipspwZH40F"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62378,
+      "name": "El Caim\u00e1n",
+      "url": "https://open.spotify.com/track/5rBPVL2sCHAQu33krvnsVd"
+    },
+    {
+      "album": {
+        "name": "El Cantor de Fonseca",
+        "url": "https://open.spotify.com/album/37KSC3THnogmdLSUAfWNRv"
+      },
+      "artists": [
+        {
+          "name": "Hermanos L\u00f3pez",
+          "url": "https://open.spotify.com/artist/5AJK7eefEfGNayX08hBYqZ"
+        },
+        {
+          "name": "Jorge O\u00f1ate",
+          "url": "https://open.spotify.com/artist/36nvA2snEFUkDbg5qI0ZiG"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223007,
+      "name": "El Cantor De Fonseca",
+      "url": "https://open.spotify.com/track/0XjY62S08dlBjHkqltpcQ5"
+    },
+    {
+      "album": {
         "name": "FERXXO (VOL 1: M.O.R)",
         "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
       },
@@ -1072,6 +1242,24 @@
       "duration_ms": 151400,
       "name": "EL CUARTO DE FERXXO",
       "url": "https://open.spotify.com/track/1WBwck9KqWfe6mr2j06UEM"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
+        "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
+      },
+      "artists": [
+        {
+          "name": "Rafael Escalona",
+          "url": "https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273813,
+      "name": "El Hambre del Liceo",
+      "url": "https://open.spotify.com/track/6MnFoI76OqV66ZQ9i3J4UD"
     },
     {
       "album": {
@@ -1112,10 +1300,28 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 233773,
       "name": "El Mar de Sus Ojos (feat. ChocQuibTown)",
       "url": "https://open.spotify.com/track/0HRMIu0FgBAkY0r8XGzExe"
+    },
+    {
+      "album": {
+        "name": "La Candela Viva",
+        "url": "https://open.spotify.com/album/2UChA5fC8ycqyOJbMwjtZw"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247306,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/5STDVTFO7ziu4LDaaRCx2n"
     },
     {
       "album": {
@@ -1192,10 +1398,46 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 203781,
       "name": "El Serrucho",
       "url": "https://open.spotify.com/track/7uv8kwqs2bBxuWrRVPxee6"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
+        "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
+      },
+      "artists": [
+        {
+          "name": "Rafael Escalona",
+          "url": "https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "El Testamento",
+      "url": "https://open.spotify.com/track/6kQD4SP6WJOdlJDqqpvPuL"
+    },
+    {
+      "album": {
+        "name": "Juglares",
+        "url": "https://open.spotify.com/album/0Ktytx38A8zPGtkx5GdgUU"
+      },
+      "artists": [
+        {
+          "name": "Adolfo Pacheco",
+          "url": "https://open.spotify.com/artist/0PU0ipKz8D3O5ksx979y70"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300760,
+      "name": "El Viejo Miguel",
+      "url": "https://open.spotify.com/track/1sKFrZ6bafUd3rqrl2G5I1"
     },
     {
       "album": {
@@ -1236,7 +1478,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 311676,
       "name": "En Barranquilla Me Quedo",
       "url": "https://open.spotify.com/track/1dgErvUNtR2UUcsY3Ecf0T"
@@ -1330,7 +1572,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 172849,
       "name": "Estamos Melos",
       "url": "https://open.spotify.com/track/5wwZEHgLvN6Y4KGkCmM7mM"
@@ -1381,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "\u00c9poca De Oro",
+        "url": "https://open.spotify.com/album/3eF3hSjqcvMWZf6vl1Nu4M"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Dur\u00e1n",
+          "url": "https://open.spotify.com/artist/3Il53CyCEjMsfXlqwfdT22"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197173,
+      "name": "Fidelina",
+      "url": "https://open.spotify.com/track/67qdZcgMWCcpdMvUyrSuhK"
+    },
+    {
+      "album": {
         "name": "Fing\u00edas",
         "url": "https://open.spotify.com/album/1V2sg9XB2TP29Ys4ER3fLn"
       },
@@ -1414,6 +1674,24 @@
       "duration_ms": 160000,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1dyA1Re4QEQQWGDDT7h9TK"
+    },
+    {
+      "album": {
+        "name": "Cien a\u00f1os de soledad (Banda sonora de la serie de Netflix)",
+        "url": "https://open.spotify.com/album/7o4938uAtkoCFB0TMW9i21"
+      },
+      "artists": [
+        {
+          "name": "Juancho Valencia",
+          "url": "https://open.spotify.com/artist/2bptZEfEQ68RipspwZH40F"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59707,
+      "name": "Gaita Hipn\u00f3tica",
+      "url": "https://open.spotify.com/track/7nhS9HIOEBZGhkxUMg1BS2"
     },
     {
       "album": {
@@ -1516,7 +1794,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 307106,
       "name": "Hagamos Lo Que Diga el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/47y2Ay9EwQ6ZUNWEcUof5n"
@@ -1625,6 +1903,24 @@
     },
     {
       "album": {
+        "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
+        "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
+      },
+      "artists": [
+        {
+          "name": "Rafael Escalona",
+          "url": "https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248226,
+      "name": "Jaime Molina",
+      "url": "https://open.spotify.com/track/00KcJmQZDQoSfTPbd1afPP"
+    },
+    {
+      "album": {
         "name": "Juguetona",
         "url": "https://open.spotify.com/album/57YqgLy8cexXJo2LeGope6"
       },
@@ -1658,10 +1954,46 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 228467,
       "name": "La Bicicleta",
       "url": "https://open.spotify.com/track/0sXvAOmXgjR2QUqLK1MltU"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
+        "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
+      },
+      "artists": [
+        {
+          "name": "Rafael Escalona",
+          "url": "https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176760,
+      "name": "La Brasilera",
+      "url": "https://open.spotify.com/track/6GY9RO6SvbnKFQm5RbuXaw"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Los Grandes Compositores de la M\u00fasica Tropical Colombiana Volume 3",
+        "url": "https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU"
+      },
+      "artists": [
+        {
+          "name": "Rafael Escalona",
+          "url": "https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183920,
+      "name": "La Casa en el Aire",
+      "url": "https://open.spotify.com/track/6Dskic2YCmIr0fifDNmDB6"
     },
     {
       "album": {
@@ -1676,7 +2008,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 254000,
       "name": "La Celosa",
       "url": "https://open.spotify.com/track/7hghCod6sKsoSE6c5myofq"
@@ -1694,10 +2026,36 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 267658,
       "name": "La Copa de la Vida (La Canci\u00f3n Oficial de la Copa Mundial, Francia '98) - Spanish Version",
       "url": "https://open.spotify.com/track/5PrGG8gAKXl4bi1odVla7l"
+    },
+    {
+      "album": {
+        "name": "De Fiesta por Colombia Rafael Escalona",
+        "url": "https://open.spotify.com/album/4XtiZ15IDaE4a3RuyxMOXC"
+      },
+      "artists": [
+        {
+          "name": "Poncho Cotes",
+          "url": "https://open.spotify.com/artist/1TGP9nTAMe5dbtT2AN5rxB"
+        },
+        {
+          "name": "Ciro Mesa",
+          "url": "https://open.spotify.com/artist/05GeOJOkh32gBN3t3PVEFl"
+        },
+        {
+          "name": "Egidio Cuadrado",
+          "url": "https://open.spotify.com/artist/4wvcAgrc9vOUWfbHm8itsT"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204280,
+      "name": "La Custodia de Badillo",
+      "url": "https://open.spotify.com/track/3RIDurw2wjGFsT0Vhkl2pL"
     },
     {
       "album": {
@@ -1712,7 +2070,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 260600,
       "name": "La Due\u00f1a del Swing",
       "url": "https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8"
@@ -1763,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Juglares",
+        "url": "https://open.spotify.com/album/0Ktytx38A8zPGtkx5GdgUU"
+      },
+      "artists": [
+        {
+          "name": "Adolfo Pacheco",
+          "url": "https://open.spotify.com/artist/0PU0ipKz8D3O5ksx979y70"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202813,
+      "name": "La Hamaca Grande",
+      "url": "https://open.spotify.com/track/5vIgtZgflrjyOdVKoIIwo5"
+    },
+    {
+      "album": {
         "name": "La Loto",
         "url": "https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y"
       },
@@ -1789,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Los Gaiteros de San Jacinto",
+        "url": "https://open.spotify.com/album/0hAdJypo5MWbtOJxIfGlIG"
+      },
+      "artists": [
+        {
+          "name": "Los Gaiteros de San Jacinto",
+          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "La Maestranza",
+      "url": "https://open.spotify.com/track/3lU9QhFY0MoyobqAZPIrWs"
+    },
+    {
+      "album": {
         "name": "La Mar\u00eda",
         "url": "https://open.spotify.com/album/60vkloFJlu3niw4vEs4TH2"
       },
@@ -1800,10 +2194,68 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 218755,
       "name": "La Mar\u00eda",
       "url": "https://open.spotify.com/track/2dbbYIXYJQzJoUoOl6i0LY"
+    },
+    {
+      "album": {
+        "name": "Bailando en Colombiano",
+        "url": "https://open.spotify.com/album/75KQzNdn2vkcbtQ40tlMY7"
+      },
+      "artists": [
+        {
+          "name": "Lucho Berm\u00fadez",
+          "url": "https://open.spotify.com/artist/5x1E6GVoNd2Haj7Jtvg3E0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193697,
+      "name": "La Mucura",
+      "url": "https://open.spotify.com/track/1TPkgoGgV5TB3PyusXFfc4"
+    },
+    {
+      "album": {
+        "name": "Esta Es la Cumbia Colombiana",
+        "url": "https://open.spotify.com/album/0grhLNu4lAeCAnTocRBRW4"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Barros",
+          "url": "https://open.spotify.com/artist/1t23U1IZzKrHHUrHpyUOIL"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240080,
+      "name": "La Piragua",
+      "url": "https://open.spotify.com/track/548PvZWZ382TfExa2eBXVU"
+    },
+    {
+      "album": {
+        "name": "Esta Es la Cumbia Colombiana",
+        "url": "https://open.spotify.com/album/0grhLNu4lAeCAnTocRBRW4"
+      },
+      "artists": [
+        {
+          "name": "Wilson Choperena",
+          "url": "https://open.spotify.com/artist/2mKu6bBLXGOUgDXsVFT656"
+        },
+        {
+          "name": "Juan Bautista Madera",
+          "url": "https://open.spotify.com/artist/74jNCNFniMnKyDZCFjw8i7"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "La Pollera Color\u00e1",
+      "url": "https://open.spotify.com/track/5tCuiNab6LHskaEiZbFcRh"
     },
     {
       "album": {
@@ -1830,6 +2282,24 @@
       "duration_ms": 210927,
       "name": "La Promesa",
       "url": "https://open.spotify.com/track/2NvM4USpdWIoaiUtk2URBO"
+    },
+    {
+      "album": {
+        "name": "Clasicos de la Provincia",
+        "url": "https://open.spotify.com/album/2WtC5PE25yxWNPpAinn2in"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208360,
+      "name": "La Tijera",
+      "url": "https://open.spotify.com/track/79Q3eullJTEp8RMjoXvbrZ"
     },
     {
       "album": {
@@ -1870,7 +2340,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -2204,7 +2674,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 185040,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
@@ -2300,6 +2770,24 @@
       "duration_ms": 156318,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
+    },
+    {
+      "album": {
+        "name": "Historia Musical de Alejo Dur\u00e1n",
+        "url": "https://open.spotify.com/album/496Wk5fbzr9KG551CflXrL"
+      },
+      "artists": [
+        {
+          "name": "Alejo Duran",
+          "url": "https://open.spotify.com/artist/1Y6F5MclpTpxzLKUNwu0Rb"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149093,
+      "name": "M\u00edrame Fijamente",
+      "url": "https://open.spotify.com/track/032FERcQgjZWKZpxuxUi8y"
     },
     {
       "album": {
@@ -2724,7 +3212,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 202803,
       "name": "Pico Y Chao (W Sound 08)",
       "url": "https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS"
@@ -2976,10 +3464,28 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 230989,
       "name": "Qu\u00e9 bonito",
       "url": "https://open.spotify.com/track/6qYLtJR0FMaTPkv5JcwCAq"
+    },
+    {
+      "album": {
+        "name": "Bonito que Canta",
+        "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
+      },
+      "artists": [
+        {
+          "name": "Petrona Martinez",
+          "url": "https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448786,
+      "name": "Rama de Tamarindo",
+      "url": "https://open.spotify.com/track/23wcDS012jEQl1ZSrP8PuK"
     },
     {
       "album": {
@@ -2994,7 +3500,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 259265,
       "name": "Ras Tas Tas Full Hd",
       "url": "https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z"
@@ -3030,7 +3536,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 229640,
       "name": "Reconozco que te amo",
       "url": "https://open.spotify.com/track/18L8oObH3RBE0SDyRMBuUM"
@@ -3132,7 +3638,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 194742,
       "name": "Robarte un Beso",
       "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
@@ -3362,7 +3868,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 301520,
       "name": "Sin Medir Distancias",
       "url": "https://open.spotify.com/track/1OcV6l5jSLzdtVP0bA9D2Z"
@@ -3552,7 +4058,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 335104,
       "name": "Te Entiendo - Remix",
       "url": "https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2"
@@ -3632,6 +4138,24 @@
       "duration_ms": 212906,
       "name": "The Friends We Lost",
       "url": "https://open.spotify.com/track/0sonClwqDTSm6v7gb3noNM"
+    },
+    {
+      "album": {
+        "name": "Bonito que Canta",
+        "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
+      },
+      "artists": [
+        {
+          "name": "Petrona Martinez",
+          "url": "https://open.spotify.com/artist/2RdqdnFd1SZmabqOfCBFCa"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410853,
+      "name": "Tierra Santa",
+      "url": "https://open.spotify.com/track/0oPAVYjB5GdnO4tfA8V76u"
     },
     {
       "album": {
@@ -3722,7 +4246,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 253933,
       "name": "T\u00fa Eres La Reina",
       "url": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4"
@@ -3788,7 +4312,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 367920,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/4UXdWLgdsdmkeOFABIGwZY"
@@ -3880,7 +4404,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
@@ -3928,6 +4452,24 @@
       "duration_ms": 215000,
       "name": "X TI",
       "url": "https://open.spotify.com/track/4TFjpINnVhINpTdrtNQIvx"
+    },
+    {
+      "album": {
+        "name": "La Bodega",
+        "url": "https://open.spotify.com/album/4ieAnbY3It51h8GGniqGKX"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269560,
+      "name": "Yo Me Llamo Cumbia",
+      "url": "https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE"
     },
     {
       "album": {

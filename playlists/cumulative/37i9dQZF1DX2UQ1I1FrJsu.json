@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Mata-Le\u00e3o",
+        "url": "https://open.spotify.com/album/71dIXMjX1mEsLYIqyUtNrE"
+      },
+      "artists": [
+        {
+          "name": "Lorena Moura",
+          "url": "https://open.spotify.com/artist/1Voc4loA71s0PHb8K2cNUT"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Carinho",
+      "url": "https://open.spotify.com/track/2nNWtxK93xB0jCpdAzu6k3"
+    },
+    {
+      "album": {
         "name": "24 Hr Sports",
         "url": "https://open.spotify.com/album/5oRPwgejhwzH2hbQJO5wrC"
       },
@@ -1925,6 +1943,28 @@
     },
     {
       "album": {
+        "name": "How Much Does It Take To Shift It All",
+        "url": "https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        },
+        {
+          "name": "Lucy Park",
+          "url": "https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153900,
+      "name": "How Much Does It Take To Shift It All",
+      "url": "https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww"
+    },
+    {
+      "album": {
         "name": "I can do what I want",
         "url": "https://open.spotify.com/album/34syhtKXv345KDnYcJcmN7"
       },
@@ -2140,7 +2180,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 208355,
       "name": "It\u2019s All Love (feat. Yazmin Lacey)",
       "url": "https://open.spotify.com/track/4E3KtwZMFrikOc4k0mQToP"
@@ -2158,7 +2198,7 @@
       ],
       "date_added": "2025-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 301575,
       "name": "JAY LUV",
       "url": "https://open.spotify.com/track/63us4HGVVS6NN8hOPYNtxa"
@@ -2965,6 +3005,24 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7BHfasb0FXKXz5XjjqLcwj"
+      },
+      "artists": [
+        {
+          "name": "Stevie Bill",
+          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
+    },
+    {
+      "album": {
         "name": "Planes",
         "url": "https://open.spotify.com/album/7rWIUlfmcWa9rQLMJ2SXrN"
       },
@@ -3332,7 +3390,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 242541,
       "name": "Senses ft. Sampha",
       "url": "https://open.spotify.com/track/53j4dcm9Jn47sFJx8nVz5X"

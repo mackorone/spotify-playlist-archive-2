@@ -4699,6 +4699,24 @@
     },
     {
       "album": {
+        "name": "Windless Morning",
+        "url": "https://open.spotify.com/album/6ZcmGaRHhXsomwFI7IzWkC"
+      },
+      "artists": [
+        {
+          "name": "Carl Kaleo",
+          "url": "https://open.spotify.com/artist/4mcRi26s1KUkHVFcD3opEY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149687,
+      "name": "Windless Morning",
+      "url": "https://open.spotify.com/track/5NhWppp1A4BVAOLOZ3ZlyZ"
+    },
+    {
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya"
       },

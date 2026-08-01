@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Bird Of Nous",
+        "url": "https://open.spotify.com/album/5JfZ5JIJJyyWhqA5YhhTqd"
+      },
+      "artists": [
+        {
+          "name": "Gregory Velvet",
+          "url": "https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Bird Of Nous",
+      "url": "https://open.spotify.com/track/18pVGV0u2MBLrz58rtFjBn"
+    },
+    {
+      "album": {
         "name": "Lupi",
         "url": "https://open.spotify.com/album/5NMoaa8SgFEwrCKK3gJN68"
       },

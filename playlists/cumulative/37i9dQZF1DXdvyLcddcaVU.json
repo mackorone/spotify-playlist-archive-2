@@ -2302,7 +2302,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 179230,
       "name": "Bella",
       "url": "https://open.spotify.com/track/0hBoVwqXfJfrE01XU4zHif"
@@ -3194,6 +3194,28 @@
       "duration_ms": 140487,
       "name": "BTRD",
       "url": "https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk"
+    },
+    {
+      "album": {
+        "name": "A z\u00e9ro",
+        "url": "https://open.spotify.com/album/4AWES3QWC7U1heSUxheRVi"
+      },
+      "artists": [
+        {
+          "name": "Yaro",
+          "url": "https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188645,
+      "name": "Bucci Night",
+      "url": "https://open.spotify.com/track/50HAXnnizAG0YDGfdB5SUN"
     },
     {
       "album": {
@@ -5328,7 +5350,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -5368,7 +5390,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 329221,
       "name": "Dali",
       "url": "https://open.spotify.com/track/7yn03ZhqrnArg5ccLdBG9y"
@@ -10578,6 +10600,24 @@
       "duration_ms": 203093,
       "name": "La Chenille Synchro (La Cheu-Cheu)",
       "url": "https://open.spotify.com/track/7tOKLFOf8RW3ttYXFS8xeM"
+    },
+    {
+      "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153923,
+      "name": "La Cheyenne",
+      "url": "https://open.spotify.com/track/290ilxF4OsghfGWMV9OZNd"
     },
     {
       "album": {
@@ -17598,6 +17638,24 @@
       "duration_ms": 148800,
       "name": "Quotidien",
       "url": "https://open.spotify.com/track/5Xf6nxo3H4sV8yXirea3Po"
+    },
+    {
+      "album": {
+        "name": "Rachel",
+        "url": "https://open.spotify.com/album/6BO0W8tsdRGUQnjtEYLV21"
+      },
+      "artists": [
+        {
+          "name": "Dayarga",
+          "url": "https://open.spotify.com/artist/5PcBbqK2yMNnbp7c3hRDuX"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129348,
+      "name": "Rachel",
+      "url": "https://open.spotify.com/track/6gltB0EWoYku8wbj4kJUHN"
     },
     {
       "album": {

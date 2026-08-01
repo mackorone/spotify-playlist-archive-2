@@ -553,6 +553,40 @@
     },
     {
       "album": {
+        "name": "ALFA",
+        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        },
+        {
+          "name": "Lucca Sayao",
+          "url": "https://open.spotify.com/artist/08n1Y3W0JJobtVSdFlG9Tf"
+        },
+        {
+          "name": "Tinelli",
+          "url": "https://open.spotify.com/artist/236sM3KvpYSxuqj5LZj7AA"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192704,
+      "name": "Foden",
+      "url": "https://open.spotify.com/track/04IjU4t5KULznBNudZaU3W"
+    },
+    {
+      "album": {
         "name": "FOFINHO SUBMISSO",
         "url": "https://open.spotify.com/album/6OZtQ1z5yC4tDnQQ6dPu69"
       },
@@ -1164,7 +1198,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 135521,
       "name": "O PAPO",
       "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"

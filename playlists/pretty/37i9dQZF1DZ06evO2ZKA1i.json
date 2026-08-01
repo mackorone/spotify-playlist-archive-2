@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303726,
+  "num_followers": 303737,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAAD4M62x4Ci77lKQL+hkA1NH",
+  "snapshot_id": "amqUAAAAAADaCFWWAv2ybWj2T/mJrzv8",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 218693,
       "name": "Throw My Bones",
       "url": "https://open.spotify.com/track/4W1SllpK1wf1I2YeW3tG0D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPLAT!",
-        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "The Rider",
-      "url": "https://open.spotify.com/track/0By1Ubg8IXu0JaMUZyDIWB"
     },
     {
       "added_at": null,
@@ -244,9 +228,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 227546,
-      "name": "The Lunatic",
-      "url": "https://open.spotify.com/track/1JTqeSJKKeINkultYf60m2"
+      "duration_ms": 236720,
+      "name": "The Rider",
+      "url": "https://open.spotify.com/track/0By1Ubg8IXu0JaMUZyDIWB"
     },
     {
       "added_at": null,
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 240693,
-      "name": "The Beating of Wings",
-      "url": "https://open.spotify.com/track/0dO7lK0fEqZPbTmVNEvS87"
+      "duration_ms": 227546,
+      "name": "The Lunatic",
+      "url": "https://open.spotify.com/track/1JTqeSJKKeINkultYf60m2"
     },
     {
       "added_at": null,
@@ -372,9 +356,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Sacred Land",
-      "url": "https://open.spotify.com/track/0zqwVmMHGh5Imgw2eoALli"
+      "duration_ms": 240693,
+      "name": "The Beating of Wings",
+      "url": "https://open.spotify.com/track/0dO7lK0fEqZPbTmVNEvS87"
     },
     {
       "added_at": null,
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 196497,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/4Ror9FLIzN2CAA55gGaPiW"
+      "duration_ms": 212933,
+      "name": "Sacred Land",
+      "url": "https://open.spotify.com/track/0zqwVmMHGh5Imgw2eoALli"
     },
     {
       "added_at": null,
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Scriblin' Gib'rish",
-      "url": "https://open.spotify.com/track/2ZAcXcDeRHP4MxH1r8gFiX"
+      "duration_ms": 196497,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4Ror9FLIzN2CAA55gGaPiW"
     },
     {
       "added_at": null,
@@ -715,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guilt Trippin'",
-        "url": "https://open.spotify.com/album/5r5vvtabYJy7A62oBAbVuX"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 289273,
-      "name": "Anya - Live in Dresden 2024",
-      "url": "https://open.spotify.com/track/18tQ8FDUNKO2loHzEsSvta"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9"
       },
@@ -743,6 +711,22 @@
       "duration_ms": 260466,
       "name": "Lay Down, Stay Down - Remastered 2004",
       "url": "https://open.spotify.com/track/1oFprMb1Z5ngadqfFeWgjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guilt Trippin'",
+        "url": "https://open.spotify.com/album/5r5vvtabYJy7A62oBAbVuX"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 289273,
+      "name": "Anya - Live in Dresden 2024",
+      "url": "https://open.spotify.com/track/18tQ8FDUNKO2loHzEsSvta"
     },
     {
       "added_at": null,
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Do We Think We Are (Remastered)",
-        "url": "https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y"
+        "name": "Stormbringer (Remastered)",
+        "url": "https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU"
       },
       "artists": [
         {
@@ -804,9 +788,25 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 326906,
-      "name": "Rat Bat Blue - Remastered",
-      "url": "https://open.spotify.com/track/7eUDIVvnoFyhkNqxXsmaqr"
+      "duration_ms": 245400,
+      "name": "The Gypsy - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep Purple in Rock (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Bloodsucker - 1995 Remaster",
+      "url": "https://open.spotify.com/track/4f2Mreghv4pgUIWVDJG0X7"
     }
   ],
   "unique_name": "This Is Deep Purple",

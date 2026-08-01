@@ -32805,6 +32805,28 @@
     },
     {
       "album": {
+        "name": "No Love No Lies",
+        "url": "https://open.spotify.com/album/5S2FWIbWHjzVPdVoXV4IFq"
+      },
+      "artists": [
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        },
+        {
+          "name": "Ex\u2227",
+          "url": "https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128052,
+      "name": "No Love No Lies",
+      "url": "https://open.spotify.com/track/42BqDxZCkP9McrPfpqvspf"
+    },
+    {
+      "album": {
         "name": "NO PIANO B",
         "url": "https://open.spotify.com/album/2r3Oa0ap37rUiivB76vVQ0"
       },

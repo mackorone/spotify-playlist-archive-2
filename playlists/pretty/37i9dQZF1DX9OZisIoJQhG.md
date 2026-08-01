@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 
 > Uplifting classical melodies to help you rise and shine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,354 likes - 84 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,378 likes - 84 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OZisIoJQhG.md) - [plain]
 | 4 | [Mozart: Clarinet Concerto in A Major, K\. 622: II\. Adagio](https://open.spotify.com/track/2fYOyayT80ysO3nxw9lKXn) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Sabine Meyer](https://open.spotify.com/artist/6kuAjH8jM4yaKQhZekTUgL), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Claudio Abbado](https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP) | [Mozart: Clarinet Concerto/Debussy: Première Rhapsodie/Takemitsu: Fantasma/Cantos](https://open.spotify.com/album/6lu8QlTLnOsd199MZ7rHOy) | 6:34 |
 | 5 | [Good Morning](https://open.spotify.com/track/6TsE9Rv5ukHF7WPHAAnbGo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Good Morning](https://open.spotify.com/album/1evQA5ZOsNh1QQ4tVIwMDj) | 3:02 |
 | 6 | ["Was mir behagt, ist nur die muntre Jagd" Cantata, BWV 208: 9\. Schafe können sicher weiden \(Arr\. For Piano Four Hands by Mary Howe\)](https://open.spotify.com/track/4JWVkr5jUjylM3hMG5zvXw) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lucas Jussen](https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI), [Arthur Jussen](https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars) | [Bach](https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M) | 4:15 |
-| 7 | [Solísima](https://open.spotify.com/track/7wq7AfOqPgAB1iJ8gBVwYX) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Solísima](https://open.spotify.com/album/0ItBNQik8SX7z3s0NcuTPh) | 3:43 |
+| 7 | [Solísima \- Piano Version](https://open.spotify.com/track/7wq7AfOqPgAB1iJ8gBVwYX) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Solísima](https://open.spotify.com/album/0ItBNQik8SX7z3s0NcuTPh) | 3:43 |
 | 8 | [Four Seasons](https://open.spotify.com/track/6ROhVXVuSIinUsHugc5D62) | [Jason Reolon](https://open.spotify.com/artist/4b7cvB18URDzxLRTMcfPef) | [Four Seasons](https://open.spotify.com/album/1XMr03YfagZQgAIW3YKSWB) | 2:04 |
 | 9 | [Dolly Suite, Op\. 56: I\. Berceuse](https://open.spotify.com/track/3NbAsIxDL0fVgNuCLD152P) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL), [Marielle Labèque](https://open.spotify.com/artist/4Xo09YXm0lIRA80IVUTe09) | [Fauré: Dolly Suite; Nocturnes; Barcarolles; Impromptus](https://open.spotify.com/album/1VMXYuxv7jwh3XzPZtoELi) | 2:56 |
 | 10 | [Still Hope](https://open.spotify.com/track/47xbAcUvVQ22xg12aCbD97) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl), [Deutsches Filmorchester Babelsberg](https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir) | [Still Hope](https://open.spotify.com/album/1OS0EEEiH1cqFuwxhKTyEd) | 2:20 |

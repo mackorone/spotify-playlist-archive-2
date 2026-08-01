@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: SadBoi",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: jev. & GoldLink",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -3774,6 +3774,24 @@
       "duration_ms": 150743,
       "name": "Backstreets",
       "url": "https://open.spotify.com/track/5qrnsLx9U0r1YlJ1pHsBKI"
+    },
+    {
+      "album": {
+        "name": "BAD",
+        "url": "https://open.spotify.com/album/4RM94DhLi3Nwr3Znzh9UqV"
+      },
+      "artists": [
+        {
+          "name": "Shelailai",
+          "url": "https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "BAD",
+      "url": "https://open.spotify.com/track/52g8mKaXcECey2oIgGdA8m"
     },
     {
       "album": {
@@ -7568,7 +7586,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 102870,
       "name": "Catchin' A Hat",
       "url": "https://open.spotify.com/track/1RwhELTjSgiB70hEElaXYw"
@@ -7682,7 +7700,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 203720,
       "name": "CELLY",
       "url": "https://open.spotify.com/track/2qjdCPqEjoQWAJKVKUY1aI"
@@ -11270,6 +11288,24 @@
       "duration_ms": 129523,
       "name": "DONT KNOW",
       "url": "https://open.spotify.com/track/7ER3cWs3Mi99H5CCVHCdNv"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Get Left",
+        "url": "https://open.spotify.com/album/7u6mu60N0mZGF7LTVNiqQD"
+      },
+      "artists": [
+        {
+          "name": "Pvrx",
+          "url": "https://open.spotify.com/artist/3tMGRYyYmK8LChGAnnmikZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Don\u2019t Get Left",
+      "url": "https://open.spotify.com/track/0FLomzHnfAlnuVKaL3WhZe"
     },
     {
       "album": {
@@ -15643,6 +15679,28 @@
     },
     {
       "album": {
+        "name": "GHOST DOG.",
+        "url": "https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179130,
+      "name": "GHOST DOG.",
+      "url": "https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor"
+    },
+    {
+      "album": {
         "name": "GHOSTS IN MY ROOM",
         "url": "https://open.spotify.com/album/4dIppxd4cpY5jutYjGhRIC"
       },
@@ -16098,7 +16156,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 209302,
       "name": "GOD flow.",
       "url": "https://open.spotify.com/track/3vSKDJjGerPGmFlTrhZScl"
@@ -30490,10 +30548,32 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 154655,
       "name": "Pickup",
       "url": "https://open.spotify.com/track/3gAC0FGwgRuwM97G1OM69F"
+    },
+    {
+      "album": {
+        "name": "Piece of Mind",
+        "url": "https://open.spotify.com/album/1nCfFkzf3lCuIrJV1K6HNR"
+      },
+      "artists": [
+        {
+          "name": "Jboogz",
+          "url": "https://open.spotify.com/artist/6qCCbx2dsKhC8ho5M1xcOq"
+        },
+        {
+          "name": "Kai Banks",
+          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187267,
+      "name": "Piece of Mind",
+      "url": "https://open.spotify.com/track/4u9cC6bAuMqvyOsLHLJlBy"
     },
     {
       "album": {
@@ -33742,7 +33822,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 145979,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/04c2kpzWoLdAStjW00OnzT"
@@ -43348,6 +43428,24 @@
       "duration_ms": 153035,
       "name": "We Getting Rich",
       "url": "https://open.spotify.com/track/7A3dMjedhNKQmMossWQUpC"
+    },
+    {
+      "album": {
+        "name": "We Wildin",
+        "url": "https://open.spotify.com/album/3Rc3vM31ctiN1TjRdySEkK"
+      },
+      "artists": [
+        {
+          "name": "Mindflip",
+          "url": "https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165257,
+      "name": "We Wildin",
+      "url": "https://open.spotify.com/track/3cMNglRsVgTJLzr8I5bcPr"
     },
     {
       "album": {

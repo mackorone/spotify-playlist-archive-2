@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Orville Peck
 
-751 songs - 1 day 21 hr 20 min
+753 songs - 1 day 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Bad Omen](https://open.spotify.com/track/3F0e0A7yNrwneqaLHUpY2I) | [Steve Dawson](https://open.spotify.com/artist/1aXW72EBb24vfYA2FnhDf2) | [Bad Omen](https://open.spotify.com/album/02wMdNPvlHyDhTe6CIQUXX) | 4:38 | 2022-05-13 | 2022-06-04 |
 | [Badlands \(with Gracie Abrams\)](https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Prizefighter](https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k) | 2:58 | 2026-02-20 |  |
 | [Be My Witness \(feat\. Madison Cunningham\)](https://open.spotify.com/track/4uPV46l0LEqx6VivcqHCIc) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Live To Tape: Volume II](https://open.spotify.com/album/6WocdLjm1E7hXslJgK1mMU) | 3:22 | 2022-05-13 | 2023-02-04 |
-| [Being Free](https://open.spotify.com/track/4BiENiXpFT8dNinYMtwxCo) | [Sarah Vanderzon](https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD) | [Being Free](https://open.spotify.com/album/4QqwaUHjqb9QsoP4F2fqHe) | 3:36 | 2026-07-10 |  |
+| [Being Free](https://open.spotify.com/track/4BiENiXpFT8dNinYMtwxCo) | [Sarah Vanderzon](https://open.spotify.com/artist/3Uu2L05Xr3L34566nH4GbD) | [Being Free](https://open.spotify.com/album/4QqwaUHjqb9QsoP4F2fqHe) | 3:36 | 2026-07-10 | 2026-08-01 |
 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 | 2022-05-13 | 2022-07-30 |
 | [Bending Over Backwards](https://open.spotify.com/track/4HyPn4ut2n0c4w8IrUc3Ix) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Bending Over Backwards](https://open.spotify.com/album/5wwzWtVWGhtKrI4mWwxu67) | 3:55 | 2024-07-26 | 2024-08-10 |
 | [Bequest](https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Bequest](https://open.spotify.com/album/6RdTiE9ukZ5h6owKsuGDte) | 3:58 | 2023-04-21 | 2024-06-26 |
@@ -446,6 +446,7 @@
 | [Mercy](https://open.spotify.com/track/5zttKA9LRTyqDNquGGWVON) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Mercy](https://open.spotify.com/album/0of9LKtNAEVPdYX4jnxwJQ) | 3:23 | 2022-10-28 | 2023-08-26 |
 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 | 2024-06-07 | 2025-11-07 |
 | [Milwaukee](https://open.spotify.com/track/2hPGwgrohMaMbEvjtNrw0G) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Milwaukee](https://open.spotify.com/album/745a5QwueK2Mpmr508lN2V) | 2:59 | 2024-01-26 | 2025-10-18 |
+| [Mind Like Mine](https://open.spotify.com/track/79j8AeqPWwClJ1LKNwmXcr) | [Noah Brigden](https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub) | [Mind Like Mine](https://open.spotify.com/album/71bSjCXPbNNii1X5wMj458) | 3:32 | 2026-07-31 |  |
 | [Mint Tea](https://open.spotify.com/track/6F7mS7NLtJ54WIkFZuaKT8) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:37 | 2024-07-26 | 2025-11-07 |
 | [Miracle Mile](https://open.spotify.com/track/2uL6H4ShIUYyu7FL0fRvsg) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [Good For You](https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m) | 3:08 | 2022-05-13 | 2023-01-21 |
 | [MISERY](https://open.spotify.com/track/5czQkmaPtAmBrNwbaqYcbh) | [CARV](https://open.spotify.com/artist/5YQT7e8jtdgdaT8lJsOx9A) | [MISERY](https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt) | 3:32 | 2026-04-24 |  |
@@ -485,7 +486,7 @@
 | [North of the Border](https://open.spotify.com/track/1on5aZH6WRLgP0UZsvy680) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [North of the Border](https://open.spotify.com/album/7q3LN4jWho4NMiBXa4EPoi) | 4:24 | 2022-07-22 | 2022-10-15 |
 | [Northern Blood](https://open.spotify.com/track/5HoukISZBPykqAbKPT12kK) | [Andrew Hyatt](https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg) | [Northern Blood](https://open.spotify.com/album/1rQfXmREZiL4nDa6cXJ1Eo) | 3:07 | 2025-04-18 | 2025-05-14 |
 | [Nosebleed](https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj), [Lyla George](https://open.spotify.com/artist/2Yh3B8OtHziAIdpNYzQdWa) | [Nosebleed](https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh) | 4:47 | 2026-04-24 |  |
-| [Not Apart](https://open.spotify.com/track/57yByCEjVUxaLzmZdf7Kyr) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [The Nomad](https://open.spotify.com/album/6OSGtvY63VG5S2s444EkBo) | 3:43 | 2026-07-24 |  |
+| [Not Apart](https://open.spotify.com/track/57yByCEjVUxaLzmZdf7Kyr) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [The Nomad](https://open.spotify.com/album/6OSGtvY63VG5S2s444EkBo) | 3:43 | 2026-07-24 | 2026-08-01 |
 | [Not Unlike A Rock](https://open.spotify.com/track/2yoFY6f2XAA9IWYbbtJxsL) | [Whitney K](https://open.spotify.com/artist/4PUAKbav9ZaFcc6hL0abX6) | [Not Unlike A Rock](https://open.spotify.com/album/09EwURVtWWshH7WEMFeUUa) | 4:53 | 2022-10-28 | 2023-04-22 |
 | [Not Unlike A Rock](https://open.spotify.com/track/3aWIfiGuUjvgqtnS6899s6) | [Whitney K](https://open.spotify.com/artist/4PUAKbav9ZaFcc6hL0abX6) | [Not Unlike A Rock](https://open.spotify.com/album/7DxWJ7orr7mrjcOEelvNGD) | 4:53 | 2022-05-13 | 2022-11-09 |
 | [Notawe \(Father\)](https://open.spotify.com/track/2wQ3tFNWGiNUMf3O0CRS9W) | [Adrian Sutherland](https://open.spotify.com/artist/6kLy0FIyVxqDVuvivOiuPZ) | [Notawe \(Father\)](https://open.spotify.com/album/4nIkOsbvUJiuWzoKQ6Ex0f) | 3:56 | 2023-08-18 | 2023-08-31 |
@@ -703,6 +704,7 @@
 | [Visions of Dallas](https://open.spotify.com/track/2DZMQkB8lSBelyDGMIOXoI) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Visions of Dallas](https://open.spotify.com/album/3ooXOWd62SBpKLmbTGosHp) | 3:27 | 2024-08-23 | 2025-11-07 |
 | [Walking Home](https://open.spotify.com/track/642xXLrYiRYONlIDAVpJZE) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936), [FONTINE](https://open.spotify.com/artist/4uFbZzF7cNxNcxIQdF1BWy) | [Walking Home](https://open.spotify.com/album/1LoIRaEqz16PNndAiavdP6) | 3:06 | 2025-10-31 | 2026-04-09 |
 | [Wanna Be Loved](https://open.spotify.com/track/4boa7Bv0VijpxoP1SHjjUb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wanna Be Loved](https://open.spotify.com/album/3gkwDd6hohNwtgET2IpJLZ) | 3:37 | 2024-06-07 | 2025-11-07 |
+| [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 | 2026-07-31 |  |
 | [War Cry](https://open.spotify.com/track/7C2ojelGd6Pc6w1qOjECcj) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [War Cry](https://open.spotify.com/album/4kPEjIl5E72ElHbYxcQFS8) | 1:35 | 2024-10-25 | 2025-11-07 |
 | [Water From A Stone](https://open.spotify.com/track/3Zc9Z0RrfZfof3QKZwM5Zc) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT), [Amy Sky](https://open.spotify.com/artist/56WqXNPHTG7XlyGRjE3Znb) | [Water From A Stone](https://open.spotify.com/album/3LwJ8hTTXCKzW4Trh9ZpCn) | 4:24 | 2022-05-13 | 2023-04-22 |
 | [Way of the Triune God \- Hallelujah Version](https://open.spotify.com/track/2BJy4svtrGACqRB5BFLOK6) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Can I Take My Hounds to Heaven?](https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi) | 3:28 | 2023-04-21 | 2025-10-18 |

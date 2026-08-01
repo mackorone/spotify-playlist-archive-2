@@ -4,7 +4,7 @@
 
 > L’alternatif québécois à plein volume\. Photo: Lewis Dice
 
-609 songs - 1 day 10 hr 30 min
+611 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Forget](https://open.spotify.com/track/5TrPCoC21uGhKauc1nxonO) | [goldenstar](https://open.spotify.com/artist/7EeB9iiM7ESsG4VJZwVgtM) | [Forget](https://open.spotify.com/album/4PiHyY8xIDy2hvcIgpVL9r) | 2:53 | 2026-03-13 | 2026-05-23 |
 | [Fou fou fou mon minou](https://open.spotify.com/track/0V31InZ8QrZ4bFHeZRXvXG) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Jazz engagé](https://open.spotify.com/album/6tw2d8ukWN6FHzF9u2DF3L) | 3:17 | 2023-02-10 | 2025-10-11 |
 | [Fous\-moi la paix!](https://open.spotify.com/track/69qa3Ur4XfCeuKAzWy2urA) | [Kamakazi](https://open.spotify.com/artist/1W2uHVFphPSyLk7zuL5Y8J) | [Fous\-moi la paix!](https://open.spotify.com/album/7bHExBw0vQtHGJABmqYIjh) | 2:36 | 2025-10-10 | 2025-11-29 |
+| [Fox](https://open.spotify.com/track/3ACdS3R5SaiZzRg5FWGMBh) | [Joseph Lorange](https://open.spotify.com/artist/5pHEbcegJNn6RgvKDo59Np) | [Fox](https://open.spotify.com/album/783Q6POJsKFqpTclYXWNy4) | 2:28 | 2026-07-31 |  |
 | [Fuck that shit](https://open.spotify.com/track/5TYHTMqKSiPG03EvWaHXJD) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Traitement Choc](https://open.spotify.com/album/08a6ND8gt6KMUn3aGOn52M) | 4:33 | 2026-03-27 | 2026-05-09 |
 | [Funny People](https://open.spotify.com/track/4rB1P6Rfdf3QEhMxDk0Tfx) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Knuckle Breaker Maxxx](https://open.spotify.com/album/5KrARfNHWfiWx6QQu11XFD) | 3:01 | 2026-01-16 | 2026-04-04 |
 | [Future Ways](https://open.spotify.com/track/0rDPVczrCtnKqHsCVCusyv) | [Atsuko Chiba](https://open.spotify.com/artist/5sztlFD2VHbf7vg13bt5eb) | [Atsuko Chiba](https://open.spotify.com/album/1PhGQkeAGdTozUJDxqOeoZ) | 4:54 | 2026-04-24 | 2026-06-06 |
@@ -572,6 +573,7 @@
 | [Un, deux, trois](https://open.spotify.com/track/4uogzCWt6guhPUvB3qIPz8) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Un, deux, trois](https://open.spotify.com/album/60TeY4X9sTHrJtazAXnPv1) | 3:50 | 2025-11-14 | 2026-03-07 |
 | [Uncomfortable](https://open.spotify.com/track/41oTqHIO4rKtGCF7fINvkQ) | [def sera](https://open.spotify.com/artist/6TMQV1NysNlRhrDbEz6vtE), [Oatmilkandcodeine](https://open.spotify.com/artist/0j3PryakINdSkE4zVocQY3) | [Uncomfortable](https://open.spotify.com/album/1u9HjnmHxQeLpfwbuot74P) | 2:31 | 2026-07-24 |  |
 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 | 2023-05-15 | 2025-09-29 |
+| [usd freestyle](https://open.spotify.com/track/1pQXbtBuFBl9Mh6okzbCOO) | [whyhaze](https://open.spotify.com/artist/4QqnuHKfpTHncKt0om35AE) | [usd freestyle](https://open.spotify.com/album/7ah0FaZoAsVX8rekhDOaEo) | 1:05 | 2026-07-31 |  |
 | [v\(.\)id](https://open.spotify.com/track/3ORFKDDcnkzQqJ4qCZ3SmW) | [Julien Fillion](https://open.spotify.com/artist/41meYWkE4vtiq0GELl6UVo) | [ego.alt](https://open.spotify.com/album/7oSkkA2IOjHVZ0eVgLf05R) | 4:51 | 2026-02-14 | 2026-03-28 |
 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 | 2023-08-25 | 2025-09-13 |
 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 | 2023-03-17 | 2024-04-30 |

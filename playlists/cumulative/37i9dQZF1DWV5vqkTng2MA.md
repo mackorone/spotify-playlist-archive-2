@@ -4,7 +4,7 @@
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Luke Tyler Shelton
 
-344 songs - 20 hr 30 min
+345 songs - 20 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Good Lady](https://open.spotify.com/track/2WgzgqiDT9QJHSQoM3wTry) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/1YrapTceavDda547u6Z9yg) | 4:25 | 2023-05-19 | 2023-07-30 |
 | [Good Lady](https://open.spotify.com/track/36HVsSxwvuRTAt2WRxhdyv) | [Sir Woman](https://open.spotify.com/artist/3H03S3ZtyYLdzsk6EYndUL) | [Sir Woman](https://open.spotify.com/album/7a0t5cOGdB6yKszhd1Ga8H) | 4:25 | 2022-08-02 | 2023-04-30 |
 | [Good Together](https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Good Together](https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk) | 3:21 | 2024-03-01 |  |
-| [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 | 2022-02-11 |  |
+| [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 | 2022-02-11 | 2026-08-01 |
 | [Hands on the Radio](https://open.spotify.com/track/0S1NJoM1JHfd2x9Orm2j2G) | [The Weeks](https://open.spotify.com/artist/3zE5jV6Uw9hhdWCXM8hS3j) | [Hands on the Radio](https://open.spotify.com/album/08noPcSJhhNl1KayiNivkS) | 3:32 | 2021-10-01 |  |
 | [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 | 2024-09-06 | 2026-07-19 |
 | [Hangin' On](https://open.spotify.com/track/1XUj9ehEJkBCRqoBL0nOJw) | [Frank Mastra](https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv) | [Hangin' On](https://open.spotify.com/album/4SSvXp6ipfftH9Kg2haxo9) | 3:31 | 2026-07-17 |  |
@@ -350,6 +350,7 @@
 | [You Know Better](https://open.spotify.com/track/11CHB0JnkbhkDyMfuqLQdZ) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [You Know Better](https://open.spotify.com/album/6eXQY2OaenRiSlr0dxnGCW) | 3:21 | 2022-02-11 | 2022-06-17 |
 | [You Worry Me](https://open.spotify.com/track/0gqxf8wrEkewjmZB7OT4mL) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [You Worry Me](https://open.spotify.com/album/3h1J3GyGX1dG9NQVY0xaIS) | 3:34 | 2021-10-01 | 2022-07-29 |
 | [You Worry Me](https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 3:34 | 2022-06-01 | 2024-04-19 |
+| [You're Never Around](https://open.spotify.com/track/0qUdBojcFdXkQskyj7LFEw) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [You're Never Around](https://open.spotify.com/album/0H8W2AcnoP88dSK2nf5Cy7) | 2:28 | 2026-07-31 |  |
 | [Yum Yum](https://open.spotify.com/track/1poOkGfR31kfQ8N9EbD401) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1) | [Yum Yum](https://open.spotify.com/album/1d7yWX4ep1NHfUyfKj8UnB) | 2:56 | 2021-10-01 | 2022-07-29 |
 | [Yum Yum](https://open.spotify.com/track/6ww5NvGI0XvR8MgzXBMdNa) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1), [Riley Downing](https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6), [Dan Cutler](https://open.spotify.com/artist/4Z92aSgPiL4FSEUAQ6D2hY), [Sam Doores](https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj), [Cameron Snyder](https://open.spotify.com/artist/1m1MXMxKyy2e47sQSj0kEE) | [Fought the Blues and Won / Yum Yum](https://open.spotify.com/album/3GfuXdgstPliyT85vdIL2f) | 2:56 | 2022-08-02 | 2022-11-13 |
 

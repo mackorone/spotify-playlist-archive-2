@@ -1909,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "I watched the whole set\u2026",
+        "url": "https://open.spotify.com/album/4tDjmCHmrgNS1rQhlaUubU"
+      },
+      "artists": [
+        {
+          "name": "Deema",
+          "url": "https://open.spotify.com/artist/3SBYl2unJoVzvNIUBC8ftm"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183743,
+      "name": "I watched the whole set\u2026",
+      "url": "https://open.spotify.com/track/3EYTKSI4KILpVimwGsAY5q"
+    },
+    {
+      "album": {
         "name": "Ibiza (feat. Blade Brown)",
         "url": "https://open.spotify.com/album/28ZXQStyaSyp1rMm027ofw"
       },
@@ -2153,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Light It Up",
+        "url": "https://open.spotify.com/album/1WHMFghZk8mX5gv8QyV4xo"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195753,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/43mrbXwYPHFmj4Eg0PTDhA"
+    },
+    {
+      "album": {
         "name": "LOCKED IN FREESTYLE",
         "url": "https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN"
       },
@@ -2394,7 +2430,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 184682,
       "name": "MINK SB (feat. Skepta, Lojay & Skillibeng)",
       "url": "https://open.spotify.com/track/7M0LA37GOq8SAUX4TWWHov"
@@ -2828,6 +2864,24 @@
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+    },
+    {
+      "album": {
+        "name": "pick up the phone",
+        "url": "https://open.spotify.com/album/7HGaPvjY5txCvH0Y8MxGRS"
+      },
+      "artists": [
+        {
+          "name": "Len",
+          "url": "https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144545,
+      "name": "pick up the phone",
+      "url": "https://open.spotify.com/track/3AKcda8yQchbJcwAROYoFv"
     },
     {
       "album": {
@@ -3720,7 +3774,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 153677,
       "name": "WIZARD OF OZ",
       "url": "https://open.spotify.com/track/4WUmgsEZZZx5aJqb5DE9Ta"

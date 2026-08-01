@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Ivan Greko
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,418 likes - 59 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,436 likes - 59 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MENTALITE](https://open.spotify.com/track/7Hu9gyVn9kQShhBMHvxLBm) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [DON LEON](https://open.spotify.com/artist/2LQRI30FJnLa5j9wApZ4JY), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w) | [MENTALITE](https://open.spotify.com/album/2z7Aq6XTtaWBt5ni5alK81) | 2:31 |
 | 2 | [KYRIAKI FREESTYLE](https://open.spotify.com/track/5w17UwOZCdsGMSpyIkqK4W) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [KYRIAKI FREESTYLE](https://open.spotify.com/album/0IoY1nlkNWfkao2nJaeIFe) | 2:25 |
-| 3 | [AURIO](https://open.spotify.com/track/1kiaIlzjIAlw7IkobujKvq) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl) | [AURIO](https://open.spotify.com/album/3Tn0abANiGtNdXghjKxPKB) | 2:35 |
+| 3 | [AURIO](https://open.spotify.com/track/1kiaIlzjIAlw7IkobujKvq) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [HIT MACHINE](https://open.spotify.com/artist/5sf5nJwxeeMgsYlNsa0oX4) | [AURIO](https://open.spotify.com/album/3Tn0abANiGtNdXghjKxPKB) | 2:35 |
 | 4 | [PHUKET](https://open.spotify.com/track/2Vgi5hFpSkiB0yWHRwAWxj) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [RICH BEFORE DEATH](https://open.spotify.com/album/3VA73ZIe1fZsf3CXyVIvdN) | 2:28 |
 | 5 | [GEITONIA KAI TILEFONO](https://open.spotify.com/track/3DqnrR1bD21LufNyXJLIsz) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [10 \(PART 2\)](https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X) | 2:54 |
 | 6 | [THALASSA AKRIVI](https://open.spotify.com/track/4acmCWFp0K23UfX89ZqxR6) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [Love, Rack.](https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu) | 2:49 |

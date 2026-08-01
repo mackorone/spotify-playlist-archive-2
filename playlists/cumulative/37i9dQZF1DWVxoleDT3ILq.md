@@ -4,7 +4,7 @@
 
 > Niños Del Cerro en portada.
 
-590 songs - 1 day 11 hr 34 min
+593 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [BB](https://open.spotify.com/track/7EK0zxNhtgm9RXt5kGFJ5a) | [ZEBRA 93](https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC) | [Paisajes](https://open.spotify.com/album/7iK07OpJA0CQZu8sLfJrwf) | 3:09 | 2024-03-08 | 2024-05-15 |
 | [Besar](https://open.spotify.com/track/6h4TezY1CEQGGJPYyT7RzV) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Besar](https://open.spotify.com/album/4yi3wXhft1ZSKwjtcPBBn2) | 3:25 | 2024-04-05 | 2026-07-25 |
 | [Besitos Ricos](https://open.spotify.com/track/2xszQFLHyFgVKDFobxCjRG) | [Broken Pupil](https://open.spotify.com/artist/5JAaAOkiGzGNIKi53DlGKE), [Ignacia Pez](https://open.spotify.com/artist/7xpqrJntvkNTlOwayCHgho), [Gato Seco](https://open.spotify.com/artist/2NLUJSt3guR3neAYbIkoeN), [Walki](https://open.spotify.com/artist/0Z62JhOUGFNa5cFs1Fr4O0) | [Besitos Ricos](https://open.spotify.com/album/6yWANGpHTE5T3w6aOnoTBw) | 2:47 | 2022-08-12 | 2023-01-28 |
+| [beso de miel](https://open.spotify.com/track/5lS7OWxBIbaEo7gkgzFbwK) | [PUERTO DOMINGO](https://open.spotify.com/artist/4ghptDak0jWQSCNSUDrzCk) | [beso de miel](https://open.spotify.com/album/343ExYBb7y7jN7Akn7IVsj) | 2:53 | 2026-07-31 |  |
 | [Bien Mal](https://open.spotify.com/track/5QZryHp1EN0lCEZWqY0c0V) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Bien Mal](https://open.spotify.com/album/0QvML2YRQIjwvDWDHSfNIB) | 3:00 | 2023-04-28 | 2024-06-08 |
 | [Bien Tu Mal](https://open.spotify.com/track/7DlKhwNQSHCguTGPfGF2m6) | [Dënver](https://open.spotify.com/artist/0KPHupxNcc9XMQ0SSn3LKo) | [Bien Tu Mal](https://open.spotify.com/album/3U3gR4mLrRJuO4E48qanFA) | 3:35 | 2025-07-18 | 2026-07-25 |
 | [Brillas en la Pista](https://open.spotify.com/track/07VHlK0Hmov13F7b6cEKMt) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Dos Cordilleras](https://open.spotify.com/album/5sqTnSZ1d0SOyoWbR1YjKA) | 2:44 | 2023-12-01 | 2024-06-08 |
@@ -240,6 +241,7 @@
 | [I Luz](https://open.spotify.com/track/3ZqI4NGk7NNZcEcvI0kNeX) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [I Luz](https://open.spotify.com/album/6a72dv0VF00ebiZXWn7fJd) | 4:42 | 2022-06-03 | 2023-04-23 |
 | [Icono](https://open.spotify.com/track/6LXCGFi30iYGRu5FfhoeFe) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [Icono](https://open.spotify.com/album/5TrvnDfaFqEXFxjFGiF4Dz) | 2:32 | 2024-12-06 | 2026-07-25 |
 | [Imantado](https://open.spotify.com/track/27zFkDvAz42uVdvPpOvRWx) | [También Andrés](https://open.spotify.com/artist/6RTgoShg6Qjg9dGQ5rKm25) | [Imantado](https://open.spotify.com/album/6HEjFye6BkQvq5B2Y484Kb) | 3:39 | 2022-04-15 | 2022-07-24 |
+| [Imborrable](https://open.spotify.com/track/1DZzPHQMSXuBbYpFlAgCVj) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Imborrable](https://open.spotify.com/album/0KQD9QsvxJx9pW8q0ESvCQ) | 4:15 | 2026-07-31 |  |
 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 | 2022-12-09 | 2024-06-08 |
 | [intento 2: piénsalo bien](https://open.spotify.com/track/2aWrpGxJbltjwBK1gloSPn) | [ataquemos](https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E) | [intento 2: piénsalo bien](https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47) | 3:44 | 2022-12-02 | 2024-06-08 |
 | [Interestellar](https://open.spotify.com/track/4oEU8liJYK8AFs3nu06A9h) | [Kali Mutsa](https://open.spotify.com/artist/7EIUORXc76H7zXG7syAtcT) | [Interestellar](https://open.spotify.com/album/7mELjly5TtO9ypSo6aHtpV) | 4:24 | 2022-04-15 | 2022-10-08 |
@@ -358,6 +360,7 @@
 | [Nochecita en B.A](https://open.spotify.com/track/2AHOVEc4QaYvSx6t5vLqvf) | [FrioLento](https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn) | [Nochecita en B.A](https://open.spotify.com/album/2FtQuGFK7V1vyZgj7s2eUc) | 2:34 | 2023-09-22 | 2024-06-08 |
 | [Noches Perdidas](https://open.spotify.com/track/6v7yCYhjRSZjyLjO9yjEJI) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Noches Perdidas](https://open.spotify.com/album/2sGMCd4mkocvnD1DwlbWCR) | 3:08 | 2022-08-05 | 2023-01-28 |
 | [nopidomucho \(feat Francisco Victoria\)](https://open.spotify.com/track/32iqQUezUp37J8bjUY5SFm) | [elmalamía](https://open.spotify.com/artist/1SoXdL4dbR3tJudByWGLkM), [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [nopidomucho \(feat\. Francisco Victoria\)](https://open.spotify.com/album/7sfenIXF6Q5TTEDXnBae2q) | 3:07 | 2022-04-15 | 2022-12-10 |
+| [Nosotros contra ellos](https://open.spotify.com/track/2STQ6PQzjKaJ8QfnxrNxgl) | [Silabario](https://open.spotify.com/artist/69Z9Rb8JunV1blSuO4Fkbs) | [Nosotros contra ellos](https://open.spotify.com/album/1HlILdpQZvWVylaIzqyAnT) | 3:27 | 2026-07-31 |  |
 | [Nube Negra](https://open.spotify.com/track/0Rafy02pf5LE7ZaaIQM6SE) | [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [Nube Negra](https://open.spotify.com/album/0TfLcK2FvUlt6wVg3gJ6vL) | 4:26 | 2022-04-29 | 2022-07-25 |
 | [Nudo](https://open.spotify.com/track/5b5tle4kRgZuhHj0p0WLB7) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/33HzZjfFI3PrkisNVc04mY) | 4:25 | 2022-04-15 | 2022-07-29 |
 | [Nudo](https://open.spotify.com/track/6xeY2IZfEZFVnGxA8uLASz) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Frannie Holder](https://open.spotify.com/artist/6tRHDWQrzx6iK7tqSH69Lw) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:25 | 2022-07-22 | 2022-12-10 |

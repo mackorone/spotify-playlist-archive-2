@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,437 songs - 5 day 23 hr 30 min
+2,441 songs - 5 day 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Das Más](https://open.spotify.com/track/7KKNh5uJvEaga9NtFT20hm) | [Glittery Stuff](https://open.spotify.com/artist/3sGqc2JJ2bMyi0HPutjt7S) | [Das Más](https://open.spotify.com/album/5qairliawi1EsgedE5edIu) | 2:56 | 2025-06-04 |  |
 | [Daughter of Ukraine \(A plea to Heaven\)](https://open.spotify.com/track/5YbPc0RcKGElmURNIJitGi) | [Ana Danch](https://open.spotify.com/artist/32ey5EpTVPAVTRcKVeZ1jf) | [Daughter of Ukraine \(A plea to Heaven\)](https://open.spotify.com/album/0NbjicAcU5t5lkwYvx7jA9) | 3:02 | 2025-12-21 |  |
 | [Dawn](https://open.spotify.com/track/1e8P6fOEsD7BiL90I44SvV) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Dawn](https://open.spotify.com/album/3TtpnGvEcJIZXR0Gzyivgw) | 4:05 | 2026-01-03 |  |
+| [Dawn Chorus](https://open.spotify.com/track/7Gy7xX4ZDCFinKUrK9WWcc) | [Hellykom](https://open.spotify.com/artist/4TNnchYcTeKxyA5bbhdVsS) | [Dawn Chorus](https://open.spotify.com/album/2SV3jrMGDmMmHw8afUwyHI) | 2:40 | 2026-07-31 |  |
 | [Day dreams](https://open.spotify.com/track/5tbMTvVoo2vGMvbBN9FTDW) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Paranoia](https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR) | 1:13 | 2025-10-21 |  |
 | [De Mim Terá O Melhor](https://open.spotify.com/track/0kIBjZVunCWQoR0YOe5xcZ) | [Sakura](https://open.spotify.com/artist/3zdj6AlYpqSgCh8w1WfCjn) | [De Mim Terá O Melhor](https://open.spotify.com/album/5FFLojXjwHlsn2gWNQJOTq) | 4:11 | 2025-07-10 |  |
 | [De sol a sol](https://open.spotify.com/track/6zthGcyvorLaeLgfIhxVvM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:47 | 2026-03-15 |  |
@@ -975,6 +976,7 @@
 | [Ich trag ne Narbe](https://open.spotify.com/track/0CS1OJ4515gmXuEyhXXX3X) | [Kregor](https://open.spotify.com/artist/4wMeHo3nPIf6IpLNssAKws) | [Ich trag ne Narbe](https://open.spotify.com/album/5kLcGut0Dl7h9ePgFm0opj) | 3:19 | 2025-07-05 |  |
 | [IDC](https://open.spotify.com/track/5NYT1seiNf8qIDPfh03GSq) | [Black Keef](https://open.spotify.com/artist/1nhEEIxJPdXenucHre78M8) | [IDC](https://open.spotify.com/album/3ptnsbnAdU4EpmBZkhHs3M) | 2:51 | 2025-10-16 |  |
 | [Ideals](https://open.spotify.com/track/5dcpyZrAehFrN07cwtw0Av) | [Moune](https://open.spotify.com/artist/1tgyjeMiFgkVj1GemMhR3G) | [The Legacy Of the Sun](https://open.spotify.com/album/5pIVHjl7bwGOEzDI82JN0s) | 4:36 | 2024-03-10 |  |
+| [Ides Of March](https://open.spotify.com/track/4Rq5Ytad92LP8xHIf0WhKf) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [Morgan S Oteric](https://open.spotify.com/artist/0LvGEKR2OwTW2k6LDbxO7X) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:33 | 2026-07-31 |  |
 | [Idle Hands](https://open.spotify.com/track/4iW0arnhmGLNejgfdDpZIt) | [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Shouting At A Silent Sky](https://open.spotify.com/album/53w4ikRP2AFCEEaws3JUEO) | 3:22 | 2025-07-02 |  |
 | [IDWOLTEE](https://open.spotify.com/track/1oy8VmvpnObUYuYeeZYThu) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Paranoia](https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR) | 1:48 | 2025-10-21 |  |
 | [If I Lived In California](https://open.spotify.com/track/11iKEBUsUcykB9gRkV46V6) | [LKOSI!](https://open.spotify.com/artist/6xaQOm6FI5tMrCvdCyoRoJ) | [If I Lived In California](https://open.spotify.com/album/2ZPJ1tkAzNNDaUQqo9rBmZ) | 2:23 | 2025-06-02 |  |
@@ -2119,6 +2121,7 @@
 | [This Is House \- Big Reunion Remix Edit](https://open.spotify.com/track/7IIv3pmbQLsPyd8R9Hr2Ms) | [Tin Tarantino](https://open.spotify.com/artist/6673KtaY9I3Et5rj9ecw2x), [Big Reunion](https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls) | [This Is House \(Big Reunion Remix\)](https://open.spotify.com/album/3CsoKhFiHbZ7YZm48kwlXP) | 2:08 | 2026-05-21 |  |
 | [This Old Shirt](https://open.spotify.com/track/3WECh5xGQa0z9IAkopM9Nb) | [K.N.I.G.H.T.](https://open.spotify.com/artist/5BSZCKPIxIESKFDLvP5ck2) | [Reforged](https://open.spotify.com/album/2SNIPn2MqbsId4i6QaIfke) | 3:16 | 2025-08-14 |  |
 | [This Train](https://open.spotify.com/track/0P6uEfJtr5nfxTDauvgORq) | [Ras Tamano](https://open.spotify.com/artist/6AzPKf5UTTpMnbgtKyWya8), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Nyahbinghi I\-lodica](https://open.spotify.com/album/3KoPRZazTGn88Ee9nIZFYC) | 5:53 | 2024-03-25 |  |
+| [Those Who Fail](https://open.spotify.com/track/39Uw09gw3w49EcHhopHUnf) | [Medivh](https://open.spotify.com/artist/6H43kafh75INiZoNU3X8Dw) | [Those Who Fail](https://open.spotify.com/album/7eukTEXUan988Bv5O9qdDe) | 4:26 | 2026-07-31 |  |
 | [Threats](https://open.spotify.com/track/1cvyjW2mE3WVNBMFF2day4) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Threats](https://open.spotify.com/album/44Z7Gf8lHHBUq66SaDDYIT) | 4:11 | 2025-05-05 |  |
 | [Through And Through](https://open.spotify.com/track/0XJjjAKAoNUNyloEFpeEfB) | [Lisa Arce](https://open.spotify.com/artist/0UrEPgjnWb1jxPEYJuZ7K7) | [Through And Through](https://open.spotify.com/album/0jbsBX1fIusJX5bGSe1krN) | 3:35 | 2025-06-20 |  |
 | [Through thick and Thin \- Forever Family](https://open.spotify.com/track/3FIWm5KfhAi47fXoKCLSS2) | [MC AI](https://open.spotify.com/artist/2rcl5rdJ9GnX7vGXV8QQDa) | [Roots and Wings](https://open.spotify.com/album/5629KL4c7LR9cqRaW8wCRx) | 3:03 | 2025-10-08 |  |
@@ -2275,7 +2278,7 @@
 | [Voyage](https://open.spotify.com/track/0rEfwncg6R9XGSvgOR3kjJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [The Collaborations II](https://open.spotify.com/album/4UnXSEkjflndnNVYuOGIzk) | 4:03 | 2026-03-18 |  |
 | [Vuelo \(Non\-Stop\)](https://open.spotify.com/track/4toCDhhPMeBICgnJkaUdDM) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Vuelo \(Non\-Stop\)](https://open.spotify.com/album/6AOyfBLxs4i2oxoIP2Juv2) | 3:01 | 2026-07-24 |  |
 | [Vuelve a Ser Inevitable](https://open.spotify.com/track/1TPj2DlZJW30bIjJ9Iw8yu) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Vuelve a Ser Inevitable](https://open.spotify.com/album/53KVnC2pcEBzhnC6RdswIB) | 2:20 | 2026-04-25 |  |
-| [Vuelve, Vuelve](https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr) | [CER](https://open.spotify.com/artist/1YAz8QOz7LnhonlHenZKMO), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi) | [Canta El Reggaeton](https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx) | 4:13 | 2026-06-10 |  |
+| [Vuelve, Vuelve](https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr) | [CER](https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi) | [Canta El Reggaeton](https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx) | 4:13 | 2026-06-10 |  |
 | [Vêm De Todo Lado](https://open.spotify.com/track/6pVdxokjHtddIwiu3THwmT) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 2:46 | 2024-02-06 |  |
 | [Wait For You](https://open.spotify.com/track/4oCZz2Lu6oF5Pz8i0cw7AG) | [Eric Ananda](https://open.spotify.com/artist/3cpJADwM3eiEPMXFliIsrY) | [Wait For You](https://open.spotify.com/album/7yBnD4uTO5Y0yIhKkhlwGZ) | 2:21 | 2026-01-05 |  |
 | [Wake Up Your Lion](https://open.spotify.com/track/599474NocEEogJMIRpJHZP) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:29 | 2024-05-01 |  |
@@ -2318,6 +2321,7 @@
 | [Where'd the Time Go](https://open.spotify.com/track/6i6lY3HsgbLGgyM86tHgZn) | [Unlucky, the Artist](https://open.spotify.com/artist/64yoZKpTyLneeIOG4O43nN) | [The Girl in the Green Dress](https://open.spotify.com/album/6vKIe6idsMvaP2g9ohxSda) | 2:18 | 2026-03-27 |  |
 | [Whispers in the Woods](https://open.spotify.com/track/4jKXQNoP21umJ1aSZOKlGX) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 2:45 | 2026-02-05 |  |
 | [Whispers Interlude](https://open.spotify.com/track/2vD0ygDVavXuP21jhGpWak) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 0:34 | 2026-02-05 |  |
+| [White Feathers](https://open.spotify.com/track/2XYp7KzNIfXdus7THEYDE6) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [White Feathers](https://open.spotify.com/album/0ott6AwwSdz0dL9uBaCUYR) | 2:34 | 2026-07-31 |  |
 | [White Rose](https://open.spotify.com/track/4OGXV3VqbOcbx6ZZmwuWDB) | [bumper](https://open.spotify.com/artist/1gHIm66CzHIb1HP74a0iwo) | [White Rose](https://open.spotify.com/album/3xkqdWnWkLmPdQRcxT6ipb) | 5:31 | 2025-07-09 |  |
 | [White Yam](https://open.spotify.com/track/2x6wqcZUax763sJs4j1WBW) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu) | [Torpedo](https://open.spotify.com/album/3qW3VjphzhcaneRDKY97tp) | 3:19 | 2024-03-23 |  |
 | [Who's Gonna Dance](https://open.spotify.com/track/2hphu9RhPBX53JMrwSjUuo) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 2:54 | 2024-05-01 |  |

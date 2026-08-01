@@ -1,12 +1,12 @@
 {
   "description": "This is Stephen Hough. The essential tracks, all in one playlist.",
-  "num_followers": 355,
+  "num_followers": 357,
   "original_name": "This Is Stephen Hough",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAABLAIzmATioTcE63GQ3l98M",
+  "snapshot_id": "amqUAAAAAAA8OmkuK7SnCM1+KuHAtM9z",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mozart: Music for Piano and Wind Quintet",
+        "url": "https://open.spotify.com/album/1fvnQvqlY5F93r99hsw7CK"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        },
+        {
+          "name": "Berlin Philharmonic Wind Quintet",
+          "url": "https://open.spotify.com/artist/2LKf7hi1wqRFKzvNZPEMDP"
+        }
+      ],
+      "duration_ms": 355506,
+      "name": "III. Allegretto",
+      "url": "https://open.spotify.com/track/5NJNeLmAsfFc0YG3Nl85lW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hummel: Piano Concertos",
         "url": "https://open.spotify.com/album/1D3iRke9l3eUb37KY5aBSc"
       },
@@ -303,30 +327,6 @@
       "duration_ms": 264466,
       "name": "Piano Concerto in A Minor, Op. 85: II. Larghetto",
       "url": "https://open.spotify.com/track/2zBNwrHo23LinNRaBODO4U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mozart: Music for Piano and Wind Quintet",
-        "url": "https://open.spotify.com/album/1fvnQvqlY5F93r99hsw7CK"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        },
-        {
-          "name": "Berlin Philharmonic Wind Quintet",
-          "url": "https://open.spotify.com/artist/2LKf7hi1wqRFKzvNZPEMDP"
-        }
-      ],
-      "duration_ms": 355506,
-      "name": "III. Allegretto",
-      "url": "https://open.spotify.com/track/5NJNeLmAsfFc0YG3Nl85lW"
     },
     {
       "added_at": null,
@@ -723,30 +723,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hummel: Piano Concertos",
-        "url": "https://open.spotify.com/album/1D3iRke9l3eUb37KY5aBSc"
+        "name": "The Piano Album",
+        "url": "https://open.spotify.com/album/7feNtVabPanUXWWbq2SmBL"
       },
       "artists": [
         {
-          "name": "Johann Nepomuk Hummel",
-          "url": "https://open.spotify.com/artist/0WiK9IsQEQEuIQ1iDxvuPg"
-        },
-        {
-          "name": "Bryden Thomson",
-          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+          "name": "Mischa Levitzki",
+          "url": "https://open.spotify.com/artist/42V9f8k71W0oF3pS5yPhzf"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 473000,
-      "name": "Piano Concerto in B Minor, Op. 89: II. Larghetto",
-      "url": "https://open.spotify.com/track/7ry92W66OPqhDHen6dsD9j"
+      "duration_ms": 290173,
+      "name": "Levitzki: The Enchanted Nymph",
+      "url": "https://open.spotify.com/track/3MbiuckD1ew5b6YF0VaaIp"
     },
     {
       "added_at": null,
@@ -775,22 +767,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Album",
-        "url": "https://open.spotify.com/album/7feNtVabPanUXWWbq2SmBL"
+        "name": "Hummel: Piano Concertos",
+        "url": "https://open.spotify.com/album/1D3iRke9l3eUb37KY5aBSc"
       },
       "artists": [
         {
-          "name": "Mischa Levitzki",
-          "url": "https://open.spotify.com/artist/42V9f8k71W0oF3pS5yPhzf"
+          "name": "Johann Nepomuk Hummel",
+          "url": "https://open.spotify.com/artist/0WiK9IsQEQEuIQ1iDxvuPg"
+        },
+        {
+          "name": "Bryden Thomson",
+          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 290173,
-      "name": "Levitzki: The Enchanted Nymph",
-      "url": "https://open.spotify.com/track/3MbiuckD1ew5b6YF0VaaIp"
+      "duration_ms": 473000,
+      "name": "Piano Concerto in B Minor, Op. 89: II. Larghetto",
+      "url": "https://open.spotify.com/track/7ry92W66OPqhDHen6dsD9j"
     },
     {
       "added_at": null,
@@ -895,30 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children's Cello",
-        "url": "https://open.spotify.com/album/4mQAMbLF1myizjbSMUr01o"
-      },
-      "artists": [
-        {
-          "name": "Amy Beach",
-          "url": "https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB"
-        },
-        {
-          "name": "Steven Isserlis",
-          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "Berceuse (Version for cello and piano)",
-      "url": "https://open.spotify.com/track/5BUtgHIjkYXZFQ4Wt6FJqn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beethoven: Piano Concertos Nos. 1-5",
         "url": "https://open.spotify.com/album/6jUAmivzjgDifAcMMcSQWN"
       },
@@ -943,26 +919,6 @@
       "duration_ms": 637200,
       "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo. Allegro ma non troppo",
       "url": "https://open.spotify.com/track/73DLt511eJniCAPV1DSEQO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\"Nocturnes by the Sea: Bach, Mozart & more\"",
-        "url": "https://open.spotify.com/album/3T9gfzeefSc6Qn6Ve2oYbh"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 120133,
-      "name": "6 Klavierst\u00fccke, Op. 118: No. 1, Intermezzo in A Minor",
-      "url": "https://open.spotify.com/track/2KzUsvMtyjX759Nh8VlO5X"
     },
     {
       "added_at": null,
@@ -995,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Summer Sunsets: Bach, Mozart & more\"",
-        "url": "https://open.spotify.com/album/3NtITnMUeNksmPzIrjJMtP"
+        "name": "\"Nocturnes by the Sea: Bach, Mozart & more\"",
+        "url": "https://open.spotify.com/album/3T9gfzeefSc6Qn6Ve2oYbh"
       },
       "artists": [
         {
@@ -1008,9 +964,53 @@
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 124720,
-      "name": "7 Fantasien, Op. 116: No. 1, Capriccio in D Minor",
-      "url": "https://open.spotify.com/track/0iETFwyIZZuaBizPqYa051"
+      "duration_ms": 120133,
+      "name": "6 Klavierst\u00fccke, Op. 118: No. 1, Intermezzo in A Minor",
+      "url": "https://open.spotify.com/track/2KzUsvMtyjX759Nh8VlO5X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children's Cello",
+        "url": "https://open.spotify.com/album/4mQAMbLF1myizjbSMUr01o"
+      },
+      "artists": [
+        {
+          "name": "Amy Beach",
+          "url": "https://open.spotify.com/artist/1QeC5GwDENQv78O3PCLeZB"
+        },
+        {
+          "name": "Steven Isserlis",
+          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Berceuse (Version for cello and piano)",
+      "url": "https://open.spotify.com/track/5BUtgHIjkYXZFQ4Wt6FJqn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Summer Sunsets: Bach, Mozart & more\"",
+        "url": "https://open.spotify.com/album/3NtITnMUeNksmPzIrjJMtP"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 129946,
+      "name": "Solitude, Op. 73 No. 6 (Arr. Hough for Piano)",
+      "url": "https://open.spotify.com/track/30f4xeRm9gwbgHwp4sCUsZ"
     },
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
       "duration_ms": 106586,
       "name": "Lyric Pieces Book 3, Op. 43: No. 3, In My Native Country",
       "url": "https://open.spotify.com/track/1NHFPidsRN6uhVHrf3fEzK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chopin: Nocturnes (Complete)",
-        "url": "https://open.spotify.com/album/4laomoW9n1HN2R2DRoFVCn"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 215933,
-      "name": "Nocturne No. 6 in G Minor, Op. 15 No. 3",
-      "url": "https://open.spotify.com/track/0S4FjVNIBHxynpe7o0SeeM"
     },
     {
       "added_at": null,
@@ -1076,9 +1056,33 @@
           "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
         }
       ],
-      "duration_ms": 48613,
-      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 2",
-      "url": "https://open.spotify.com/track/2yWapQC5oqDljKG77qeOgj"
+      "duration_ms": 56933,
+      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 4",
+      "url": "https://open.spotify.com/track/25t6b99XBBXivgSHHpr2il"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Children's Cello",
+        "url": "https://open.spotify.com/album/4mQAMbLF1myizjbSMUr01o"
+      },
+      "artists": [
+        {
+          "name": "Francis Purcell Warren",
+          "url": "https://open.spotify.com/artist/5NqOK1EfGXUxEIilMACcoq"
+        },
+        {
+          "name": "Steven Isserlis",
+          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 102826,
+      "name": "No. 5, A Sunday Evening in Autumn",
+      "url": "https://open.spotify.com/track/5eqFbgTlAMcxbFYfCt62sx"
     }
   ],
   "unique_name": "This Is Stephen Hough",

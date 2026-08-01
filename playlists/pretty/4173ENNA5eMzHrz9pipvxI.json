@@ -1,13 +1,37 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Gryffin, BUNT., In\u00e9z",
-  "num_followers": 118000,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Luvstruck, Leena Punks",
+  "num_followers": 117999,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAhzdnfQoQZdl1tJmWHv6Mp1Dx0UhV2",
+  "snapshot_id": "AAAhz3Y91M5L6Ill4amr8htFAhPvkQsx",
   "tracks": [
+    {
+      "added_at": "2026-07-31 07:21:40",
+      "album": {
+        "name": "In My Heart",
+        "url": "https://open.spotify.com/album/58PmVhlMhGrfLWhYVxZaaf"
+      },
+      "artists": [
+        {
+          "name": "Luvstruck",
+          "url": "https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy"
+        },
+        {
+          "name": "Leena Punks",
+          "url": "https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt"
+        },
+        {
+          "name": "Ethan",
+          "url": "https://open.spotify.com/artist/29a54uAUw7yr4pDFDvIwOH"
+        }
+      ],
+      "duration_ms": 156443,
+      "name": "In My Heart",
+      "url": "https://open.spotify.com/track/7IZMQWuSV0mMica8QqGmxm"
+    },
     {
       "added_at": "2026-07-24 06:36:43",
       "album": {

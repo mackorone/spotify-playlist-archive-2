@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,342 songs - 3 day 12 hr 0 min
+1,348 songs - 3 day 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Angel Eyes](https://open.spotify.com/track/33WS5Qd5DwYtfIc4QFhGdK) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7) | 3:28 | 2023-11-03 | 2024-02-03 |
 | [Angel Wings](https://open.spotify.com/track/156gjKaMoJgvTRhhD2w5qp) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Angel Wings](https://open.spotify.com/album/4iWYLfamJp7XGKbmUWam1H) | 3:52 | 2026-02-20 |  |
 | [Angels Like You](https://open.spotify.com/track/5VXBAz99xZFPKdevoy3pOh) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Angels Like You](https://open.spotify.com/album/3fRLgA1sF8L6vqN5ZM9Psx) | 3:25 | 2024-09-27 | 2025-04-11 |
+| [ANIMAL](https://open.spotify.com/track/7BlGdTvvVAw2NAJtqoKCT2) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [ANIMAL](https://open.spotify.com/album/3gu3WONQrN70m2mZIAS2q0) | 3:12 | 2026-07-31 |  |
 | [Another Better Day](https://open.spotify.com/track/2qNdBkGWLo40qtcOPn8A4X) | [Restraining Order](https://open.spotify.com/artist/4HXv1CWVOyIO8ZNvGOSyEy) | [Another Better Day](https://open.spotify.com/album/4FxV6RYuVJ5btf6x9FHehE) | 2:32 | 2023-07-07 | 2024-02-03 |
 | [Anti\-Fetish](https://open.spotify.com/track/2fc6YX69npgSxNM1pBHBgf) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Anti\-Fetish](https://open.spotify.com/album/1GsWn1EFJa6DdETJcCLytU) | 3:58 | 2023-04-28 | 2024-02-03 |
 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 | 2023-07-21 | 2024-02-03 |
@@ -258,6 +259,7 @@
 | [Damnation](https://open.spotify.com/track/5afgTvdlApyuy2Ciu5DZyd) | [Raw Breed](https://open.spotify.com/artist/6QEopd1XsizMiGKMMqRRFn) | [Damnation](https://open.spotify.com/album/2z0KrMrHcKDNT48ae7aGrn) | 1:41 | 2022-09-02 | 2023-07-15 |
 | [Dance Devil Dance](https://open.spotify.com/track/0f9fiRnZ59dKBFFeTDXoUf) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Dance Devil Dance](https://open.spotify.com/album/1PUgDRbQP4XeJtbKRbOttp) | 4:00 | 2022-10-28 | 2023-07-15 |
 | [Dark Blue](https://open.spotify.com/track/4Jorrcz8agj4W367a3CaxO) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Dark Blue](https://open.spotify.com/album/3kPgKZ8U6W5NxrTZiUKOMB) | 2:49 | 2022-12-02 | 2023-07-15 |
+| [dark heaven](https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [dark heaven](https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM) | 3:32 | 2026-07-31 |  |
 | [Dark Horse](https://open.spotify.com/track/3ZbGoiCgD8q22O47B21sUs) | [Zachary Baker](https://open.spotify.com/artist/4ieCY6G4zQvNQdRAxHI9TJ) | [Dark Horse](https://open.spotify.com/album/3QCt14e111RMQQXAbkwh48) | 4:07 | 2025-12-19 |  |
 | [Dark Spell](https://open.spotify.com/track/6s4g8Np7wMn8RNgdbIAUtO) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Dark Spell](https://open.spotify.com/album/3ERAyMnGHFgoV4bU8eSR7B) | 4:23 | 2024-04-26 | 2025-04-11 |
 | [DArkSide](https://open.spotify.com/track/19vHgVS1aukRiQWhTqfKnE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DArkSide](https://open.spotify.com/album/3E21iYJYv6lSkBkHBv3SKq) | 2:44 | 2023-10-13 | 2024-02-03 |
@@ -764,6 +766,7 @@
 | [No Place That Doesn't See You](https://open.spotify.com/track/0l8TDZQIVuigiK5iMHLiVt) | [Mil\-Spec](https://open.spotify.com/artist/5iWmisoEhjZGn4QYLRqzuy) | [Marathon](https://open.spotify.com/album/0V6pjsjhW4XG6KA0ZCG1c4) | 2:22 | 2023-10-06 | 2024-02-03 |
 | [NO REVIVES](https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [FEED](https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4) | 3:26 | 2025-01-17 | 2026-01-24 |
 | [No Temple](https://open.spotify.com/track/0tvT2HYtCSmgrVhwEvUAIK) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [No Temple](https://open.spotify.com/album/4QFjiT8ogt8dHH44ZWhk4e) | 4:38 | 2023-04-13 | 2024-02-03 |
+| [No Way To Live](https://open.spotify.com/track/1ahhuCnejbSb07VRXLHzqA) | [Silvertomb](https://open.spotify.com/artist/1DzvOgjYhye3yHciiHu8TE) | [No Way To Live](https://open.spotify.com/album/3HKbZP8k1jbfVwjP0PtH7j) | 5:06 | 2026-07-31 |  |
 | [No Witness](https://open.spotify.com/track/62W3J2xwtIVn5Zo6qKqKOC) | [Traitors](https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya) | [No Witness](https://open.spotify.com/album/3ChKHOfCzTSiZaUwtT9qPU) | 3:27 | 2025-01-24 | 2026-01-24 |
 | [Noah](https://open.spotify.com/track/7nNIk5X6AanHDEhYKekymO) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Noah](https://open.spotify.com/album/4PyTSqcMOE1DXi4pLu1T0F) | 3:36 | 2023-08-04 | 2024-02-03 |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-17 | 2024-02-03 |
@@ -937,6 +940,7 @@
 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 | 2025-03-07 | 2026-04-25 |
 | [Save me now](https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Save me now](https://open.spotify.com/album/7GaqxJpgadYFnuUFpqBPr6) | 3:01 | 2025-06-06 | 2026-06-20 |
 | [Save Yourself](https://open.spotify.com/track/5LRSgPo7BKrhIBYrX1mL8z) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:45 | 2024-03-29 | 2025-04-11 |
+| [Saveyourself](https://open.spotify.com/track/1P1Lrw01kT8b1ioS5HPVrs) | [ASAVA](https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta) | [Saveyourself](https://open.spotify.com/album/3iA93sAaL63G6zr3MAVB7G) | 5:21 | 2026-07-31 |  |
 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 | 2022-01-07 | 2023-07-15 |
 | [Say It](https://open.spotify.com/track/4UCEwS1cNO5qvEJKTx8tJC) | [Strict](https://open.spotify.com/artist/06beC3T1RvJWUKZAMEMOxa) | [Say It](https://open.spotify.com/album/1ic6F5y9ph8qM4UIYkDq0d) | 2:12 | 2024-11-01 | 2025-04-11 |
 | [Say When](https://open.spotify.com/track/449VbLIfrGbdvfznyFndxj) | [The Tony Danza Tapdance Extravaganza](https://open.spotify.com/artist/5DUbYWy2wL1vifFB8hyO74) | [Say When](https://open.spotify.com/album/218JHtpZ6JkFFc695CfMbv) | 4:10 | 2026-03-06 |  |
@@ -1106,6 +1110,7 @@
 | [The Customer Is Always Wrong \(TCIAW\)](https://open.spotify.com/track/4GhDNqdPfnakcnrYW8LSl4) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Concrete Cowboys](https://open.spotify.com/album/7IBJilbVkpJYBHVZDty26c) | 1:56 | 2023-06-02 | 2024-02-03 |
 | [The Dawn is Hollow](https://open.spotify.com/track/1YxwwK1f7VzToOMFxDe4qd) | [Ulcerate](https://open.spotify.com/artist/3Bv5btxNbwbt79fcjw9DAg) | [The Dawn is Hollow](https://open.spotify.com/album/7JUIPQoNLwriSJdSd78n0f) | 7:32 | 2024-03-15 | 2025-04-11 |
 | [The Deathless Sun](https://open.spotify.com/track/6b0HdwX9k0RtOUHRvWYl4J) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Deathless Sun](https://open.spotify.com/album/1gMfx6El7vzamoJJi6J7u3) | 4:43 | 2022-07-29 | 2023-07-15 |
+| [The Door](https://open.spotify.com/track/6SzWDpWsjo8nN6RkVsc9ri) | [Prodigal](https://open.spotify.com/artist/1WxF7GNIdVk1GCIYJlZndz) | [The Door](https://open.spotify.com/album/1vonLItOjkqxb8X7Sj0nah) | 2:36 | 2026-07-31 |  |
 | [THE DRAIN](https://open.spotify.com/track/0LSgZIdGUQtaXxlFN9thhc) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SWARM](https://open.spotify.com/artist/07OF36h5y4S6s9ckQliaj3) | [THE DRAIN](https://open.spotify.com/album/5QKeZAJVAx2OtEsMALM0Cz) | 3:45 | 2024-04-19 | 2025-04-11 |
 | [The Dream of a Ridiculous Man](https://open.spotify.com/track/7lUfoEZ9t4IbmOIyZU8QTN) | [Mirar](https://open.spotify.com/artist/6g4uwq36brjISbcfehJ7yi) | [The Dream of a Ridiculous Man](https://open.spotify.com/album/2M1CmTKP6YIRfYe11OFMFo) | 4:32 | 2025-12-19 |  |
 | [The Drop](https://open.spotify.com/track/0WBajGf8FzhanFbB8bS19t) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [ONE](https://open.spotify.com/album/3CMKNAUoer9LhVbc5pc7a3) | 3:50 | 2026-05-01 |  |
@@ -1319,6 +1324,7 @@
 | [WOLF I](https://open.spotify.com/track/6tOMYw2NXSyvSAtp7BiUJJ) | [Castle Rat](https://open.spotify.com/artist/2g5gjeZJLGcWPAF0o9KdJj) | [WOLF I](https://open.spotify.com/album/4AjYtPVaXCKFe4EK5xdbfH) | 4:37 | 2025-07-18 |  |
 | [Words Fail](https://open.spotify.com/track/4eB3zRK5tIQj8obRT2ux2c) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [Words Fail](https://open.spotify.com/album/5vKiKQXUrAudV0tY61l8G7) | 1:36 | 2022-08-26 | 2023-07-15 |
 | [Working the Ditch](https://open.spotify.com/track/1BwLqfBVpAFExwqs2rXeGO) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Working the Ditch](https://open.spotify.com/album/6ifJtVcD6x6s906DZzW9cB) | 6:32 | 2024-02-09 | 2025-04-11 |
+| [World Alone](https://open.spotify.com/track/3nYmetKNJe8zTHdT9NkfOP) | [Tony Iommi](https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV), [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2) | [World Alone](https://open.spotify.com/album/5ezkvWhhKgvWy7QMp8e3jd) | 3:49 | 2026-07-31 |  |
 | [World War 3](https://open.spotify.com/track/2GrvKvbQ9K8xhyWyDJfoov) | [Juice B.C.](https://open.spotify.com/artist/20VnPDnScnvQpzLe7JUeOs) | [World War 3](https://open.spotify.com/album/2pydovq47fk1mmo4scjQAa) | 2:56 | 2024-06-18 | 2025-04-11 |
 | [WORST PART OF YOU](https://open.spotify.com/track/7f17swjhKJo1dGN0eFujjF) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [KINDA HARD](https://open.spotify.com/album/6bJif35DxJzpXob5HfMzqU) | 2:54 | 2026-04-10 |  |
 | [Wounds Never Healed](https://open.spotify.com/track/05xztNser5Tg4Ba2kkngy2) | [Oceano](https://open.spotify.com/artist/79A0IUxQD9skV7LVjPq53s) | [Wounds Never Healed](https://open.spotify.com/album/7jlhQ4iWfpSwF4zho7eTo4) | 4:22 | 2024-06-07 | 2025-04-11 |

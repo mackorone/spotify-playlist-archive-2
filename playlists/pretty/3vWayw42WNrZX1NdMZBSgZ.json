@@ -1,13 +1,49 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Mon Laferte",
-  "num_followers": 51688,
+  "num_followers": 51678,
   "original_name": "Pop Latin Hits 2026",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAU+fGxwwAafYhRzrokSy1ZeG6MLGCt",
+  "snapshot_id": "AAAVAxwzlAxJ3ye1rLuGzWTTvEpAHLXD",
   "tracks": [
+    {
+      "added_at": "2026-07-31 12:22:06",
+      "album": {
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/3WYvCcWn2UD44wxjkoUG0u"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 177821,
+      "name": "Efectos Secundarios",
+      "url": "https://open.spotify.com/track/3ZBeHVnqHHMOmv1ofhq6T0"
+    },
+    {
+      "added_at": "2026-07-31 14:35:38",
+      "album": {
+        "name": "Live From NPR's Tiny Desk",
+        "url": "https://open.spotify.com/album/5rSveljw4MYm3iQv46wSfh"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 173428,
+      "name": "Solifican12 - Live from NPR's Tiny Desk",
+      "url": "https://open.spotify.com/track/4ANiU4F1SjAwhTlVUEisON"
+    },
     {
       "added_at": "2026-06-09 00:07:42",
       "album": {
@@ -23,42 +59,6 @@
       "duration_ms": 249124,
       "name": "A Pesar De Ti y De Mi",
       "url": "https://open.spotify.com/track/5jFzAOGNiSYCsINuBVoKWJ"
-    },
-    {
-      "added_at": "2026-05-15 15:08:16",
-      "album": {
-        "name": "La Vida Era M\u00e1s Corta",
-        "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 167173,
-      "name": "Solifican12",
-      "url": "https://open.spotify.com/track/4fDmgQfKMY7GcAwp2nNoQ0"
-    },
-    {
-      "added_at": "2026-07-03 14:04:58",
-      "album": {
-        "name": "LA GUARACHA (Oh Oh Oh)",
-        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        }
-      ],
-      "duration_ms": 200307,
-      "name": "LA GUARACHA (Oh Oh Oh)",
-      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
     },
     {
       "added_at": "2026-05-15 14:01:30",
@@ -145,22 +145,6 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-06-04 20:24:58",
-      "album": {
-        "name": "Mi Yo De Antes",
-        "url": "https://open.spotify.com/album/6fg1BYMy7ZcZ4uRJ728xno"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 184041,
-      "name": "Mi Yo De Antes",
-      "url": "https://open.spotify.com/track/5JYGc8GO8v3He5zzzL8F6J"
-    },
-    {
       "added_at": "2026-06-09 17:09:58",
       "album": {
         "name": "\u00bfY ahora qu\u00e9 +?",
@@ -199,6 +183,26 @@
       "duration_ms": 198466,
       "name": "D\u00edas Tristes",
       "url": "https://open.spotify.com/track/4s6fBCc5m8UpTKCS63e0XU"
+    },
+    {
+      "added_at": "2026-07-03 14:04:58",
+      "album": {
+        "name": "LA GUARACHA (Oh Oh Oh)",
+        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "LA GUARACHA (Oh Oh Oh)",
+      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
     },
     {
       "added_at": "2026-05-29 18:32:57",

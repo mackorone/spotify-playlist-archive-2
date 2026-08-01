@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-176 songs - 9 hr 5 min
+177 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [The Cave of Wonders](https://open.spotify.com/track/67HFPFaGfph10SMGWrVJ3X) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Aladdin: Special Edition Soundtrack](https://open.spotify.com/album/1Eq5qk8DnHWGOZT2cAASP2) | 4:57 | 2021-10-07 | 2022-07-16 |
 | [The Cleaner](https://open.spotify.com/track/1fcYjTqB3hpvz0ZMdsrA4V) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 2 Original Soundtrack](https://open.spotify.com/album/23jso9783rnqoWnyuYysJ1) | 1:50 | 2021-10-07 | 2022-07-16 |
 | [The Crystal Chamber \- From "Atlantis: The Lost Empire"/Score](https://open.spotify.com/track/7ja0rsJBBCqZH4f3Ga9uGn) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Atlantis: The Lost Empire](https://open.spotify.com/album/5mkMnwIpLibABWXO8hKYXq) | 3:45 | 2021-10-07 |  |
+| [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/5pj3uTYB18t1xVOkrFm13I) | [Orchid Quartet](https://open.spotify.com/artist/5Zh8DIcOPVxz6ix1uMjLgh), [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Marvel Strings](https://open.spotify.com/album/7JqVHc7SMnfNzR6qXqBbQR) | 3:21 | 2026-07-31 |  |
 | [The Fourth Virtue \- Extended](https://open.spotify.com/track/3y3B09QC2nOueLQkhn0gS2) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Mulan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP) | 5:41 | 2021-10-07 | 2023-01-10 |
 | [The Glory Days](https://open.spotify.com/track/6rKdAnYByv3RwdSeuHJ3Cl) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles](https://open.spotify.com/album/5Q4ZpeV44TGtgUcH5bHjrD) | 3:32 | 2021-10-07 | 2022-07-16 |
 | [The Scare Floor](https://open.spotify.com/track/6miK1DMb1WONHzH1jh5PLk) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 2:40 | 2021-10-07 | 2022-07-16 |

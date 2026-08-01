@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: MOLIY
 
-1,160 songs - 2 day 8 hr 40 min
+1,162 songs - 2 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [ADHD](https://open.spotify.com/track/0ubdB41Y3Anom46x0iXbNQ) | [Backsy](https://open.spotify.com/artist/7EVyosxVHBdfjMPTdp9J1G), [ALR](https://open.spotify.com/artist/2DKVguG69okXFd7OSINIs1) | [ADHD](https://open.spotify.com/album/7D0gxjMAcrY4r9PeopFI5D) | 2:44 | 2025-12-19 | 2026-01-15 |
 | [African Soldier](https://open.spotify.com/track/5O6WAlXfzQDsWhaqaQsh77) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [African Soldier](https://open.spotify.com/album/6JtlTYRqiTbgJdYnVYnkan) | 2:46 | 2026-03-13 | 2026-03-27 |
 | [After Hours](https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Anaïs Cardot](https://open.spotify.com/artist/5MmaIayf4hK7hR3hdK6Y0v) | [Shana / After Hours](https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ) | 2:32 | 2025-10-23 | 2025-11-07 |
+| [AH HA](https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AH HA](https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe) | 2:55 | 2026-07-30 |  |
 | [ain't stopping](https://open.spotify.com/track/5BFRL9ZzmmAIOEPsXgPYah) | [tn\_490](https://open.spotify.com/artist/1ULJBOKjmOpRsRRHP1vc2X) | [ain't stopping](https://open.spotify.com/album/23XqYzqU3upBFojBU8gg9J) | 1:53 | 2025-11-14 | 2025-11-21 |
 | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/track/2WJ0xtMr2AVWfBWFAmtxdd) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [AIN'T U TIRED? \(with Muni Long\)](https://open.spotify.com/album/7n7FoM7nC98uihlxb87OUX) | 3:41 | 2026-04-30 | 2026-05-15 |
 | [Ain't Your Song](https://open.spotify.com/track/48EC9OPQp9kE7C6fz3uv7z) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Chasing](https://open.spotify.com/album/58oWp37uWSaFRbrrBSC1N7) | 5:04 | 2026-01-16 | 2026-01-30 |
@@ -448,6 +449,7 @@
 | [Gs on That](https://open.spotify.com/track/4pmSEv3gHp0tKWLghFtwjB) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [Kokonse](https://open.spotify.com/artist/7w1jBExAdcMjN7T71BiTjQ) | [Gs on That](https://open.spotify.com/album/4gZkUiAmpqwz9OKpclVWNR) | 2:49 | 2026-04-30 | 2026-05-08 |
 | [GTTB](https://open.spotify.com/track/3Ea9fP2AS2QbQwtF1m4qGl) | [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [GTTB](https://open.spotify.com/album/4JzycDdk3lVGnL5XAZOm1Q) | 2:34 | 2026-05-21 | 2026-06-05 |
 | [GUERILLAZ](https://open.spotify.com/track/0CGlmugG0zleERP3w61MMu) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD), [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [GUERILLAZ](https://open.spotify.com/album/4SgoDCAPzZlGPs6zGFgihD) | 2:18 | 2026-04-17 | 2026-04-25 |
+| [Gut Genug \(with Skepta & Blumengarten\)](https://open.spotify.com/track/71zVyAO3nkykYTFBfiw1DM) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Gut Genug \(with Skepta & Blumengarten\)](https://open.spotify.com/album/1vSHSyVaa9xVii1YNq5Tq6) | 2:53 | 2026-07-31 |  |
 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 | 2026-01-09 | 2026-01-23 |
 | [Hallowed Ground](https://open.spotify.com/track/04l0z1mvyS9bQSXf9xhsId) | [jael](https://open.spotify.com/artist/1fa5Cs0FLFymlUMabvWTtw) | [Hallowed Ground](https://open.spotify.com/album/0nFvcD8RpvGh9gMuCIu7as) | 3:17 | 2026-06-18 | 2026-06-26 |
 | [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 | 2026-04-17 | 2026-05-01 |
@@ -482,7 +484,7 @@
 | [Honour \(feat\. Baby Rose\)](https://open.spotify.com/track/6hVfkxD7h8aQtmSgmPlMM5) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Honour \(feat\. Baby Rose\)](https://open.spotify.com/album/4wuPuMG4g7JHwhTopjBPwG) | 4:11 | 2026-04-30 | 2026-05-15 |
 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 | 2026-02-20 | 2026-03-06 |
 | [Hostage \(feat\. 21 Savage\)](https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Big Mama](https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe) | 3:11 | 2026-05-28 | 2026-06-12 |
-| [HOT AS A BIC](https://open.spotify.com/track/0KykicNBk9kGkvydoKdKeR) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [HOT AS A BIC](https://open.spotify.com/album/7CmtWx7f2EydR0o4bJUcdw) | 2:53 | 2026-07-23 |  |
+| [HOT AS A BIC](https://open.spotify.com/track/0KykicNBk9kGkvydoKdKeR) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [HOT AS A BIC](https://open.spotify.com/album/7CmtWx7f2EydR0o4bJUcdw) | 2:53 | 2026-07-23 | 2026-08-01 |
 | [HOT LIKE!](https://open.spotify.com/track/4A4H0UDSTKsphl4wnDEzoe) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [HOT LIKE!](https://open.spotify.com/album/1XCINzipUUic0psL70cuJp) | 2:25 | 2025-11-21 | 2025-12-12 |
 | [House Call](https://open.spotify.com/track/1P2YMHIhDi0Oszip9SpdtS) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Too Too Bad](https://open.spotify.com/album/0XXkEYOyHM2Lpb09pME4rl) | 2:37 | 2026-07-16 | 2026-07-24 |
 | [How Cud U?](https://open.spotify.com/track/05UdQeEyAqWcsxZKYdhkbN) | [ANGEL!](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [How Cud U?](https://open.spotify.com/album/6BAvjggsEsvVPTOFBnwRtm) | 2:35 | 2026-01-23 | 2026-01-30 |

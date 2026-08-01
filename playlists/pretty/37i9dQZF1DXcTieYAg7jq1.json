@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Matilda Mann",
-  "num_followers": 445315,
+  "num_followers": 445367,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKFjBYMD45A0TppQJN9G8tmxPfNN",
+  "snapshot_id": "AAAAAMhmL18zMOPG00GRC26j8apWJH0l",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:45",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/5yoFQKrjS78SIrWd266BOA"
     },
     {
+      "added_at": "2026-07-31 04:01:15",
+      "album": {
+        "name": "Puppet Show",
+        "url": "https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 182665,
+      "name": "Puppet Show",
+      "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
+    },
+    {
       "added_at": "2026-05-01 04:02:18",
       "album": {
         "name": "The Devil Wears Prada 2 (Music From The Motion Picture)",
@@ -39,6 +55,22 @@
       "duration_ms": 178016,
       "name": "Material Lover",
       "url": "https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S"
+    },
+    {
+      "added_at": "2026-07-21 19:31:47",
+      "album": {
+        "name": "Hangin' On",
+        "url": "https://open.spotify.com/album/4SSvXp6ipfftH9Kg2haxo9"
+      },
+      "artists": [
+        {
+          "name": "Frank Mastra",
+          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
+        }
+      ],
+      "duration_ms": 211619,
+      "name": "Hangin' On",
+      "url": "https://open.spotify.com/track/1XUj9ehEJkBCRqoBL0nOJw"
     },
     {
       "added_at": "2026-07-24 04:02:45",
@@ -57,6 +89,22 @@
       "url": "https://open.spotify.com/track/04M4yfp7Khh9VrRZfv73a8"
     },
     {
+      "added_at": "2026-07-31 04:01:15",
+      "album": {
+        "name": "Silvershoes",
+        "url": "https://open.spotify.com/album/4r5ig3cOxRwjCDLz94VEgx"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 157136,
+      "name": "Silvershoes",
+      "url": "https://open.spotify.com/track/7ep0wpZD1S5dWhPaQeMBeY"
+    },
+    {
       "added_at": "2026-06-26 04:00:29",
       "album": {
         "name": "Where Have All The Good Men Gone?",
@@ -73,6 +121,22 @@
       "url": "https://open.spotify.com/track/5RbmvXlg7WFVqFZtxv9ATO"
     },
     {
+      "added_at": "2026-07-31 04:01:15",
+      "album": {
+        "name": "Who Could Not Be Broken",
+        "url": "https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "Lady In the GPS",
+      "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
+    },
+    {
       "added_at": "2026-07-10 04:02:31",
       "album": {
         "name": "Hurts",
@@ -87,22 +151,6 @@
       "duration_ms": 180453,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/6GGyMAS1ne4pnih5ukFFaL"
-    },
-    {
-      "added_at": "2026-07-21 19:31:47",
-      "album": {
-        "name": "Hangin' On",
-        "url": "https://open.spotify.com/album/4SSvXp6ipfftH9Kg2haxo9"
-      },
-      "artists": [
-        {
-          "name": "Frank Mastra",
-          "url": "https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv"
-        }
-      ],
-      "duration_ms": 211619,
-      "name": "Hangin' On",
-      "url": "https://open.spotify.com/track/1XUj9ehEJkBCRqoBL0nOJw"
     },
     {
       "added_at": "2026-05-29 04:01:17",
@@ -1529,38 +1577,6 @@
       "url": "https://open.spotify.com/track/361XkCyE6JIwjPsGYiy3yc"
     },
     {
-      "added_at": "2025-09-05 04:00:05",
-      "album": {
-        "name": "Celeste",
-        "url": "https://open.spotify.com/album/5FyNURxjAKSvEycbnuNe8m"
-      },
-      "artists": [
-        {
-          "name": "GoldFord",
-          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
-        }
-      ],
-      "duration_ms": 195624,
-      "name": "Celeste",
-      "url": "https://open.spotify.com/track/60tY66pPyOyLVSrHsD9eEU"
-    },
-    {
-      "added_at": "2025-08-15 04:00:07",
-      "album": {
-        "name": "Keep It Chic",
-        "url": "https://open.spotify.com/album/3wotas98423uIAgzaKLHJk"
-      },
-      "artists": [
-        {
-          "name": "Jessica Doolan",
-          "url": "https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Chic",
-      "url": "https://open.spotify.com/track/2FfWe4bCCBxLJa111E6GNI"
-    },
-    {
       "added_at": "2025-08-11 18:49:44",
       "album": {
         "name": "Summertime",
@@ -1575,26 +1591,6 @@
       "duration_ms": 182039,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/5J5UBOJL9rNZ1atXS0RwR0"
-    },
-    {
-      "added_at": "2025-08-08 04:00:32",
-      "album": {
-        "name": "Feels Like Falling in Love (Feat. Emily-Rose)",
-        "url": "https://open.spotify.com/album/2xMhDTyFTarz4yDuQPBRdT"
-      },
-      "artists": [
-        {
-          "name": "Sean Bertram",
-          "url": "https://open.spotify.com/artist/6l8QxpDCZkxVOUsrASqEWM"
-        },
-        {
-          "name": "Emily-Rose",
-          "url": "https://open.spotify.com/artist/6zgjccgCNE2isRU4E82joU"
-        }
-      ],
-      "duration_ms": 211582,
-      "name": "Feels Like Falling in Love",
-      "url": "https://open.spotify.com/track/7JGwXMq2zFPEN353QzosNW"
     },
     {
       "added_at": "2025-06-27 04:00:28",
@@ -1631,22 +1627,6 @@
       "duration_ms": 157414,
       "name": "Sushi and Coca-Cola",
       "url": "https://open.spotify.com/track/5pGdWJIkt47ovJcBOKHl2S"
-    },
-    {
-      "added_at": "2025-01-31 05:00:20",
-      "album": {
-        "name": "Girl of the Hour",
-        "url": "https://open.spotify.com/album/0d9BIuBugjnp2DDW2LlYES"
-      },
-      "artists": [
-        {
-          "name": "Tabitha Meeks",
-          "url": "https://open.spotify.com/artist/5XLLTtjICh1Hsk7NSJW5vv"
-        }
-      ],
-      "duration_ms": 183857,
-      "name": "Girl of the Hour",
-      "url": "https://open.spotify.com/track/5DToj6deasn1CaLqldIWCJ"
     }
   ],
   "unique_name": "Retro Pop",

@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 238652,
       "name": "Cosplayer (export per Guido)",
       "url": "https://open.spotify.com/track/0C0VnUtQ9OMDyp9pt1bZf3"
@@ -2734,7 +2734,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 252800,
       "name": "Distant",
       "url": "https://open.spotify.com/track/78YbjH5ZZcqN2WnesZ7vLM"
@@ -5165,6 +5165,24 @@
     },
     {
       "album": {
+        "name": "Inland",
+        "url": "https://open.spotify.com/album/1t28dnFA5EcN1PF2EhWrwk"
+      },
+      "artists": [
+        {
+          "name": "Havantepe",
+          "url": "https://open.spotify.com/artist/3weetANlzOcw3zUhhK8oEQ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331529,
+      "name": "Lakeside Rendezvous - Derviate Version",
+      "url": "https://open.spotify.com/track/08kl1ZAMgFxzpsh9NVKWwj"
+    },
+    {
+      "album": {
         "name": "Las Tres Hermanas",
         "url": "https://open.spotify.com/album/7HJ6ekJSoJP6utcPh1HmK9"
       },
@@ -5654,6 +5672,28 @@
       "duration_ms": 189209,
       "name": "Lush Nova Elec",
       "url": "https://open.spotify.com/track/1zE3a5bnQp7oItLXIWG6Ap"
+    },
+    {
+      "album": {
+        "name": "LXR",
+        "url": "https://open.spotify.com/album/23uW39xHirYeJaTA5Cshxh"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        },
+        {
+          "name": "Daito Manabe",
+          "url": "https://open.spotify.com/artist/5PvcbcfjWTEq5pTQbcUGVl"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260500,
+      "name": "LXR",
+      "url": "https://open.spotify.com/track/502cDADZYFiZNpKXw7l6lw"
     },
     {
       "album": {
@@ -6210,6 +6250,24 @@
       "duration_ms": 206250,
       "name": "Moon",
       "url": "https://open.spotify.com/track/4G0ti20Qf9k7LYZ840PrOs"
+    },
+    {
+      "album": {
+        "name": "Moons of Temper",
+        "url": "https://open.spotify.com/album/2OHmQknXRgOuE4EYadMGUa"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355431,
+      "name": "Moons of Temper",
+      "url": "https://open.spotify.com/track/74RgR65ziwEmo4mbbLF0of"
     },
     {
       "album": {
@@ -9536,7 +9594,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 245500,
       "name": "The Return",
       "url": "https://open.spotify.com/track/6ps1O9rWnwEUysLca3H4aV"

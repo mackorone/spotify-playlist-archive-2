@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 83269,
+  "num_followers": 83265,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Sou Eu (Speed)",
-        "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
-      },
-      "artists": [
-        {
-          "name": "Kaio Viana",
-          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
-        },
-        {
-          "name": "Lezin",
-          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
-        }
-      ],
-      "duration_ms": 125270,
-      "name": "Sou Eu - Speed",
-      "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Ela T\u00e1 Querendo (Remix)",
         "url": "https://open.spotify.com/album/205zkN1K6TB8WPFwXxVq3O"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 75971,
       "name": "Ela T\u00e1 Querendo - Remix",
       "url": "https://open.spotify.com/track/3AB3etyCs8orfDXKB7OVez"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Sou Eu (Speed)",
+        "url": "https://open.spotify.com/album/0ImQiX9qXLJPxNm70WS0F6"
+      },
+      "artists": [
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        }
+      ],
+      "duration_ms": 125270,
+      "name": "Sou Eu - Speed",
+      "url": "https://open.spotify.com/track/7oJz4UAl1txNYgzbJGIE3H"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1031,22 +1031,34 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Ametista (Speed Up)",
-        "url": "https://open.spotify.com/album/6LdidnaG9Du6NDSMv90mgg"
+        "name": "Put0 & Cheiroso (Speed Plug)",
+        "url": "https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D"
       },
       "artists": [
         {
-          "name": "WZ",
-          "url": "https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud"
+          "name": "Jvcriaa",
+          "url": "https://open.spotify.com/artist/0vu0cYjf77leIXg2xaj6uG"
         },
         {
-          "name": "AyDucz",
-          "url": "https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ"
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        },
+        {
+          "name": "ProdbySnow",
+          "url": "https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe"
+        },
+        {
+          "name": "Denzelthreal",
+          "url": "https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850"
+        },
+        {
+          "name": "Oficialtalim",
+          "url": "https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM"
         }
       ],
-      "duration_ms": 107095,
-      "name": "Ametista (Speed Up)",
-      "url": "https://open.spotify.com/track/51MY4wQdwpyV7m8nW7a8uq"
+      "duration_ms": 159937,
+      "name": "Put0 & Cheiroso (Speed Plug)",
+      "url": "https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -1091,34 +1103,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Put0 & Cheiroso (Speed Plug)",
-        "url": "https://open.spotify.com/album/2ybG6TaxLTpdxlD3iKSE1D"
+        "name": "Ametista (Speed Up)",
+        "url": "https://open.spotify.com/album/6LdidnaG9Du6NDSMv90mgg"
       },
       "artists": [
         {
-          "name": "Jvcriaa",
-          "url": "https://open.spotify.com/artist/0vu0cYjf77leIXg2xaj6uG"
+          "name": "WZ",
+          "url": "https://open.spotify.com/artist/61NU9Rh9OeA6dK1xXsqdud"
         },
         {
-          "name": "\u00e9oTGL",
-          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
-        },
-        {
-          "name": "ProdbySnow",
-          "url": "https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe"
-        },
-        {
-          "name": "Denzelthreal",
-          "url": "https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850"
-        },
-        {
-          "name": "Oficialtalim",
-          "url": "https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM"
+          "name": "AyDucz",
+          "url": "https://open.spotify.com/artist/0EAZjy1z2Tl4FCc58ivbqZ"
         }
       ],
-      "duration_ms": 159937,
-      "name": "Put0 & Cheiroso (Speed Plug)",
-      "url": "https://open.spotify.com/track/4A8qiMlkmXJDo9D8G3coYr"
+      "duration_ms": 107095,
+      "name": "Ametista (Speed Up)",
+      "url": "https://open.spotify.com/track/51MY4wQdwpyV7m8nW7a8uq"
     },
     {
       "added_at": "2024-07-08 19:10:57",

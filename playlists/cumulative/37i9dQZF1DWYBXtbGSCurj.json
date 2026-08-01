@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Tchelo",
+  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Major RD, MC Cabelinho, Djonga",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "AFF",
+        "url": "https://open.spotify.com/album/03gQlMtlBYkl97sKZkKBTj"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272272,
+      "name": "AFF",
+      "url": "https://open.spotify.com/track/1EAxWlbTdoC4i2LiiAHS7D"
+    },
+    {
+      "album": {
         "name": "Afirma Freestyle",
         "url": "https://open.spotify.com/album/2qUEuvra3mR08zFfls6VDR"
       },
@@ -3046,7 +3064,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 180879,
       "name": "AMIGA DE VERDADE",
       "url": "https://open.spotify.com/track/1A4pyJBjfHd5DPYEkgPpbu"
@@ -6240,7 +6258,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 125217,
       "name": "BLUNT DE GOIABA",
       "url": "https://open.spotify.com/track/7cLt8S1uKvo41gRyRaaivR"
@@ -7616,6 +7634,40 @@
       "duration_ms": 306822,
       "name": "CAMISETA CARA",
       "url": "https://open.spotify.com/track/1j2ota25fkBJ1pJOjmlqo6"
+    },
+    {
+      "album": {
+        "name": "ALFA",
+        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271822,
+      "name": "Campo de Golf",
+      "url": "https://open.spotify.com/track/4EWJ3ZEXRYsF0wBLmWlbgL"
     },
     {
       "album": {
@@ -11794,6 +11846,32 @@
       "duration_ms": 113169,
       "name": "DEBOCHE",
       "url": "https://open.spotify.com/track/1XGCBh2SJYJQMNvXTgD9tI"
+    },
+    {
+      "album": {
+        "name": "Dedo no Gatilho",
+        "url": "https://open.spotify.com/album/1n9OIA7ekfipAY4l8oR5lG"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Dedo no Gatilho",
+      "url": "https://open.spotify.com/track/3wZMF4qdGh3wQoPi4dFuGa"
     },
     {
       "album": {
@@ -21843,6 +21921,28 @@
     },
     {
       "album": {
+        "name": "I luv ma gun",
+        "url": "https://open.spotify.com/album/1dewrAoh458eAuVPWIpsCF"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127884,
+      "name": "I luv ma gun",
+      "url": "https://open.spotify.com/track/2N3NDfk6JY0I8k8p5ejz9K"
+    },
+    {
+      "album": {
         "name": "I'm Sorry",
         "url": "https://open.spotify.com/album/3ykLyEefADNKzAcbtMlwWm"
       },
@@ -22656,7 +22756,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 141639,
       "name": "Instinto - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5z1lDrpmvOgZuvjg4sVB7F"
@@ -25804,7 +25904,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 322628,
       "name": "Magia Negra",
       "url": "https://open.spotify.com/track/6qYwDjlxSkR86ZbF9NF2da"
@@ -35321,6 +35421,32 @@
     },
     {
       "album": {
+        "name": "Na Pr\u00e1tica",
+        "url": "https://open.spotify.com/album/0V9Cqq4R2rGYqbnuZq2FbY"
+      },
+      "artists": [
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        },
+        {
+          "name": "Trunks",
+          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
+        },
+        {
+          "name": "DNAY",
+          "url": "https://open.spotify.com/artist/5MfRy5LzLtiGj7YQg8FvBB"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157159,
+      "name": "Patr\u00e3o",
+      "url": "https://open.spotify.com/track/1GosuxJvRT9i10NLWODgyt"
+    },
+    {
+      "album": {
         "name": "Patr\u00edcio's",
         "url": "https://open.spotify.com/album/2EJRCax1RjXOvZk2Dvg0xB"
       },
@@ -35428,7 +35554,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 168751,
       "name": "Pedrin - PENSE FORA DA CAIXA #1",
       "url": "https://open.spotify.com/track/6qAsN71i8XZZGcKMzgeKR6"
@@ -36420,6 +36546,28 @@
       "duration_ms": 250200,
       "name": "PIX (feat. 4Genesis & Cax Camp)",
       "url": "https://open.spotify.com/track/5aw9n45WzW5VQ7XHyBFHkl"
+    },
+    {
+      "album": {
+        "name": "NOVOS TEMPOS/NOVOS DONOS",
+        "url": "https://open.spotify.com/album/3DmtUeA97Sac8dtA8wE7wX"
+      },
+      "artists": [
+        {
+          "name": "Bra\u00e3o",
+          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
+        },
+        {
+          "name": "Lp067",
+          "url": "https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122482,
+      "name": "PIXAD\u00c3O",
+      "url": "https://open.spotify.com/track/3AgxHlOAADKyvnCNNig3QT"
     },
     {
       "album": {
@@ -39806,7 +39954,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 163683,
       "name": "RACK$",
       "url": "https://open.spotify.com/track/01YMBoDHJWzC1KGNlXQIwv"
@@ -40388,7 +40536,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 202696,
       "name": "Regra N\u00ba 5",
       "url": "https://open.spotify.com/track/4Jb4eq2IiBg5zrvMuKVvic"
@@ -41408,7 +41556,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 153277,
       "name": "SABOR CEREJA",
       "url": "https://open.spotify.com/track/5XpDjay2yMsNif4aqw7Vhs"
@@ -43932,7 +44080,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 173500,
       "name": "SLIME FALA CMG",
       "url": "https://open.spotify.com/track/39dyVueQFUdHl9asJymaWt"
@@ -49211,6 +49359,28 @@
     },
     {
       "album": {
+        "name": "VC N\u00c3O PARECE MAIS A MESMA",
+        "url": "https://open.spotify.com/album/1ZzujNVOBnAkwzQtslv4LO"
+      },
+      "artists": [
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142996,
+      "name": "VC N\u00c3O PARECE MAIS A MESMA",
+      "url": "https://open.spotify.com/track/3MnMV8cKeVYU6jVgxnKzEh"
+    },
+    {
+      "album": {
         "name": "Vegano",
         "url": "https://open.spotify.com/album/3vU8uUnBiNOtE8Bhn6invy"
       },
@@ -49664,6 +49834,32 @@
       "duration_ms": 181340,
       "name": "Vida Almejada",
       "url": "https://open.spotify.com/track/43KGGs9ezBSXeBQYICXQJP"
+    },
+    {
+      "album": {
+        "name": "VIDA BANDIDA",
+        "url": "https://open.spotify.com/album/5ckA9CsPI1TulhnqYNjdDH"
+      },
+      "artists": [
+        {
+          "name": "Mattyahu",
+          "url": "https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw"
+        },
+        {
+          "name": "JOVEM'L",
+          "url": "https://open.spotify.com/artist/1n12lRb9N9Hmz1ncIQieX8"
+        },
+        {
+          "name": "Hogs",
+          "url": "https://open.spotify.com/artist/3vxTDpcpqELQ9CMVSXHBvO"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158739,
+      "name": "VIDA BANDIDA",
+      "url": "https://open.spotify.com/track/1ClHsoZZhSv9YAdDuG233Q"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Suzan & Freek. The essential tracks, all in one playlist.",
-  "num_followers": 104134,
+  "num_followers": 104164,
   "original_name": "This Is Suzan & Freek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAACzdNZt5mGiFHCxxh4OAipo",
+  "snapshot_id": "amqUAAAAAABs6iFnwWKcxmdSXVB6nIAP",
   "tracks": [
     {
       "added_at": null,
@@ -200,9 +200,41 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 205090,
-      "name": "Deze Is Voor Mij",
-      "url": "https://open.spotify.com/track/3eDGSll7NmfGQ8C5hen4gf"
+      "duration_ms": 168066,
+      "name": "Spiegelbeeld",
+      "url": "https://open.spotify.com/track/43nBXdQvogPKHqRQEIqjeM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Iemand Van Vroeger",
+        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 196034,
+      "name": "Honderd Keer",
+      "url": "https://open.spotify.com/track/4VyOQKexcxUcUmEwtcVnnd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dromen In Kleur",
+        "url": "https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "duration_ms": 146471,
+      "name": "Weg Van Jou",
+      "url": "https://open.spotify.com/track/5WvPd0VhOqp3Mmxua6PfCd"
     },
     {
       "added_at": null,
@@ -227,38 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dromen In Kleur",
-        "url": "https://open.spotify.com/album/2JtjfJrGUOWfmT3AZ65IZF"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 146471,
-      "name": "Weg Van Jou",
-      "url": "https://open.spotify.com/track/5WvPd0VhOqp3Mmxua6PfCd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Iemand Van Vroeger",
-        "url": "https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc"
-      },
-      "artists": [
-        {
-          "name": "Suzan & Freek",
-          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
-        }
-      ],
-      "duration_ms": 196034,
-      "name": "Honderd Keer",
-      "url": "https://open.spotify.com/track/4VyOQKexcxUcUmEwtcVnnd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gedeeld Door Ons",
         "url": "https://open.spotify.com/album/5GN0wx6gsqLgDoOSPzv2vJ"
       },
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
         }
       ],
-      "duration_ms": 168066,
-      "name": "Spiegelbeeld",
-      "url": "https://open.spotify.com/track/43nBXdQvogPKHqRQEIqjeM"
+      "duration_ms": 205090,
+      "name": "Deze Is Voor Mij",
+      "url": "https://open.spotify.com/track/3eDGSll7NmfGQ8C5hen4gf"
     },
     {
       "added_at": null,

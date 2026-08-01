@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 271733,
+  "num_followers": 271717,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "The Best Of The Waitresses",
-        "url": "https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU"
-      },
-      "artists": [
-        {
-          "name": "The Waitresses",
-          "url": "https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8"
-        }
-      ],
-      "duration_ms": 320800,
-      "name": "Christmas Wrapping",
-      "url": "https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "All You're Dreaming Of",
         "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 241821,
       "name": "All You're Dreaming Of",
       "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "The Best Of The Waitresses",
+        "url": "https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU"
+      },
+      "artists": [
+        {
+          "name": "The Waitresses",
+          "url": "https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8"
+        }
+      ],
+      "duration_ms": 320800,
+      "name": "Christmas Wrapping",
+      "url": "https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -763,18 +763,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Home Alone, Too",
-        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
+        "name": "A Little Love (From The John Lewis & Waitrose Christmas Advert 2020)",
+        "url": "https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4"
       },
       "artists": [
         {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
         }
       ],
-      "duration_ms": 240233,
-      "name": "Home Alone, Too",
-      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
+      "duration_ms": 178546,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -795,18 +795,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "A Little Love (From The John Lewis & Waitrose Christmas Advert 2020)",
-        "url": "https://open.spotify.com/album/6uXCDNLCKMosTnjTrDtkp4"
+        "name": "Home Alone, Too",
+        "url": "https://open.spotify.com/album/4y57bVmY8Jj0BK0RxcLRXb"
       },
       "artists": [
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 178546,
-      "name": "A Little Love",
-      "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
+      "duration_ms": 240233,
+      "name": "Home Alone, Too",
+      "url": "https://open.spotify.com/track/0DspUQUTwLtKeUO3Bb7LKK"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -823,6 +823,22 @@
       "duration_ms": 251219,
       "name": "Yuletide Moon",
       "url": "https://open.spotify.com/track/3lpNBxNbkzIsxD5zeo9OFX"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 124000,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -859,18 +875,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Deck The Halls",
-        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
         }
       ],
-      "duration_ms": 124000,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -891,22 +907,6 @@
       "duration_ms": 180974,
       "name": "This Christmas I'm Coming Home",
       "url": "https://open.spotify.com/track/7JZAQlrUT16F5dHeGeeB3Y"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
-        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
-      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
         "url": "https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 203767,
       "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
+        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
+      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Tchotchkes",
-        "url": "https://open.spotify.com/album/7palXr5xfbnTxikTKz6xQA"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Twigs",
-          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
-        },
-        {
-          "name": "Tchotchke",
-          "url": "https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG"
-        }
-      ],
-      "duration_ms": 222521,
-      "name": "Tchotchkes",
-      "url": "https://open.spotify.com/track/52uBuW0bJLOR0l4L1wFObL"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 181464,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Tchotchkes",
+        "url": "https://open.spotify.com/album/7palXr5xfbnTxikTKz6xQA"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        },
+        {
+          "name": "Tchotchke",
+          "url": "https://open.spotify.com/artist/6DZl3jeTkvDHNspf3X9hKG"
+        }
+      ],
+      "duration_ms": 222521,
+      "name": "Tchotchkes",
+      "url": "https://open.spotify.com/track/52uBuW0bJLOR0l4L1wFObL"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
         }
       ],
-      "duration_ms": 152426,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
+      "duration_ms": 139600,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
     }
   ],
   "unique_name": "Indie Christmas",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Oscar Lindsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,082 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,100 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 41 | [Strafe](https://open.spotify.com/track/2oPOztgNXWMhoJxGUrnD0e) | [Dying 4](https://open.spotify.com/artist/5BsY72eb3azYvmYzxFIcWU) | [Strafe](https://open.spotify.com/album/6vr7cOwZZvLuEqJB2xjJ07) | 3:13 |
 | 42 | [ceiling](https://open.spotify.com/track/7ajua99z1yxJH29aRvgkaa) | [backyardaughter](https://open.spotify.com/artist/0cxWOtF4A8OGrziwQa3wtR) | [ceiling / moonchild](https://open.spotify.com/album/7wKOe1WMyVSFAUGKq7GoEC) | 3:28 |
 | 43 | [Stew](https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Stew](https://open.spotify.com/album/2Rwca3mHmAeP6fEkbXCVHO) | 5:44 |
-| 44 | [17](https://open.spotify.com/track/189ITo3VyfZjaXNKusxNht) | [Teilz](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [17](https://open.spotify.com/album/7icnlFXNkm8hA74GEwzwKu) | 3:09 |
+| 44 | [17](https://open.spotify.com/track/189ITo3VyfZjaXNKusxNht) | [TEILZ](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [17](https://open.spotify.com/album/7icnlFXNkm8hA74GEwzwKu) | 3:09 |
 | 45 | [To That or to This](https://open.spotify.com/track/6XXzZXFhRCwWMkGbv2VH4J) | [Over Under](https://open.spotify.com/artist/1eTNgJMyODOGBZpcDsWXwe) | [To That or to This](https://open.spotify.com/album/7Dlbv9yUgUoqXfg7kmxM4o) | 3:17 |
 | 46 | [Sarah Joins Color Guard](https://open.spotify.com/track/6MZKp557XOP1bXE3sah4Yh) | [tal castle](https://open.spotify.com/artist/41WaQcyds1uCvYCZtwswoR) | [Songs at West End Prep](https://open.spotify.com/album/2ZWc8REoD4HJbdhyirXyZ3) | 3:19 |
 | 47 | [guitarsonG](https://open.spotify.com/track/1r6bs2UKpMimp9g076FUTc) | [Marc.net](https://open.spotify.com/artist/4z0gLrvnr59tgbaluEOtZH) | [guitarsonG](https://open.spotify.com/album/2qw12lKu7NjUCUi0Ne3RZL) | 3:04 |

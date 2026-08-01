@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Aesa",
+        "url": "https://open.spotify.com/album/2AQD0yJdMpt7UpVZj3AkrU"
+      },
+      "artists": [
+        {
+          "name": "Astraley",
+          "url": "https://open.spotify.com/artist/2nBlMka4XkNYVqTmazHwpI"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Aesa",
+      "url": "https://open.spotify.com/track/4DbCRqD6qiPAtw6SQUPE7x"
+    },
+    {
+      "album": {
         "name": "Aishiteru",
         "url": "https://open.spotify.com/album/2nXIJK982tSqSTg5JZYdu9"
       },
@@ -776,6 +794,24 @@
       "duration_ms": 297268,
       "name": "Change The World - Acoustic",
       "url": "https://open.spotify.com/track/1KNej6mE6NT21O4ArqqLLR"
+    },
+    {
+      "album": {
+        "name": "Changing Seasons",
+        "url": "https://open.spotify.com/album/6PP8sVuY60He4UpIzZ944x"
+      },
+      "artists": [
+        {
+          "name": "Hello Carmelo",
+          "url": "https://open.spotify.com/artist/05cbHwa8AL8Lq5Ezkb0RxC"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152222,
+      "name": "Changing Seasons",
+      "url": "https://open.spotify.com/track/3wcTajkT6ps7nxRTwd3opj"
     },
     {
       "album": {
@@ -2779,6 +2815,24 @@
     },
     {
       "album": {
+        "name": "Low Season",
+        "url": "https://open.spotify.com/album/11q93cfQooNm1FqLl1iVcj"
+      },
+      "artists": [
+        {
+          "name": "Onda Kura",
+          "url": "https://open.spotify.com/artist/1KLWNkshpPh67SV3yyM1gJ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144112,
+      "name": "Low Season",
+      "url": "https://open.spotify.com/track/0YYoACOBoZBqWc1bo03XRo"
+    },
+    {
+      "album": {
         "name": "Make You Feel My Love",
         "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
       },
@@ -4244,6 +4298,24 @@
       "duration_ms": 128935,
       "name": "Teal Bloom",
       "url": "https://open.spotify.com/track/09cLxbib7JJm5iSAoWr92Q"
+    },
+    {
+      "album": {
+        "name": "Temperature",
+        "url": "https://open.spotify.com/album/4jEKl4NFAf2Zt5KzXjX7TW"
+      },
+      "artists": [
+        {
+          "name": "Baijings",
+          "url": "https://open.spotify.com/artist/5qUY5l2lSFJgCuBFaXeikk"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200375,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/35bCCELOm73QAdUHpM0UJB"
     },
     {
       "album": {

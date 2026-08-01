@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,931 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,942 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 4 | [Cahaya Hati](https://open.spotify.com/track/50DXcMbkazPLcD8gL0068O) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk), [Eross Candra](https://open.spotify.com/artist/42EkE4cxhsHq2hJwnmfgn2), [Joey Penny](https://open.spotify.com/artist/6c61KWwMh7qXh4E2SXASIj), [Batavia Madrigal Singers](https://open.spotify.com/artist/7ghuu6GR6hbeKHwrVvnle6), [Yuyun Arfah](https://open.spotify.com/artist/0jKvgeLp4HE4aqrUYviBrz), [Elwin Hendrijanto](https://open.spotify.com/artist/3ihbMNMokh3vXD7iXsIUpm), [Dunung Basuki](https://open.spotify.com/artist/320zzmrKAaRgsb3efJ1HfQ) | [Cahaya Hati](https://open.spotify.com/album/6jXv9Ipv3R9xAVkFjH1r8V) | 4:18 |
 | 5 | [Harum](https://open.spotify.com/track/5bmWvesOxUby29FglJQV3V) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Harum](https://open.spotify.com/album/6pRIKmURneesL2lmVYsTll) | 3:04 |
 | 6 | [Biar Kita Jadi Kenangan](https://open.spotify.com/track/0EJytap4wCTQIwzqPTR5Gq) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [Biar Kita Jadi Kenangan](https://open.spotify.com/album/4PKTiGlZctPWOUN14IoxNy) | 2:39 |
-| 7 | [Track 1](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 0:00 |
+| 7 | [Untuk Kau Hargai](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 4:18 |
 | 8 | [ga peka](https://open.spotify.com/track/5Sjw9AXuNYYaygyOilsI4Z) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [ga peka](https://open.spotify.com/album/7C7Zt6MsnVtXmlR06sxBzm) | 3:37 |
 | 9 | [Utara \- Selatan](https://open.spotify.com/track/3BGAHNFmt3wsQzcbn9uRTa) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Utara \- Selatan](https://open.spotify.com/album/4LOFSTC0XtIirpu2VRH4LI) | 4:00 |
 | 10 | [1000X](https://open.spotify.com/track/6ze1gnRU4GZVroIjLG68cX) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [1000X](https://open.spotify.com/album/6Af2yNV7t9ThcHfYboQLQN) | 4:12 |

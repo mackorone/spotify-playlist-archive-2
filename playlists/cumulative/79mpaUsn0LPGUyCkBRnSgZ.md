@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,188 songs - 3 day 4 hr 41 min
+1,191 songs - 3 day 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,6 +620,7 @@
 | [Lost & Found](https://open.spotify.com/track/6jaLFu5HvfNrI1JmcM4eXu) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lost & Found](https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm) | 5:14 | 2023-05-19 |  |
 | [Lost In Space / Great Scott / 22\-26](https://open.spotify.com/track/2XdGXvlyYtTlyMgpjXQMUY) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 1:22 | 2024-01-15 |  |
 | [Love / Lover / Friend](https://open.spotify.com/track/6uQ5QMwMKmakv0PH5blCHi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [The Art of Forgetting](https://open.spotify.com/album/0OrRGd0zYRxBcIntqXqw3N) | 4:01 | 2024-01-04 |  |
+| [Love Crimes](https://open.spotify.com/track/0bbyII7PP0Gg6NWgclzZxE) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA Afterglow](https://open.spotify.com/album/0v1sQbOCM2xDdIYA0XYapM) | 2:40 | 2026-07-31 |  |
 | [Love Is Such a Funny Thing](https://open.spotify.com/track/0ZclKGumi1NNBLFbz3LEsG) | [Tiernan & Joscelin](https://open.spotify.com/artist/0ZxaF7oURARiDTzA2uv92K) | ["Pinch Me, I Think I'm Dreaming": Valentine's Day](https://open.spotify.com/album/7dzprEofLH2oDXJ6WnzcSG) | 1:26 | 2025-11-05 |  |
 | [Love Song](https://open.spotify.com/track/6jKKaXL2jUTMfIGfRMijO2) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 1:19 | 2023-07-06 |  |
 | [Love Songs on the Radio](https://open.spotify.com/track/3FzK2g50oLcx8vqETwOn07) | [Mojave 3](https://open.spotify.com/artist/4jSYHcSo85heWskYvAULio) | [Ask Me Tomorrow](https://open.spotify.com/album/3fjeFLyo8FY1Appkw4Mrvy) | 5:48 | 2024-04-02 |  |
@@ -708,7 +709,9 @@
 | [November](https://open.spotify.com/track/2OE3bxq85LrwyhQov9R8Vo) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Rubblebucket](https://open.spotify.com/album/1NC7PSvb5XaF5P4gh9tyM5) | 5:28 | 2024-01-03 | 2024-01-05 |
 | [Now I'm Your Mom](https://open.spotify.com/track/63PFGLwfK3AMCiqp7H0SV1) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Uh\-Oh](https://open.spotify.com/album/6haW3z5RoXNQCRqHuIhu6C) | 4:43 | 2025-03-30 |  |
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2026-02-09 | 2026-03-05 |
+| [O.O.B.E.](https://open.spotify.com/track/3CE1CBZAbsXRPdan2hZOWB) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [U.F.Orb](https://open.spotify.com/album/2Kn0WVtKYv7bcE3EYk3wRA) | 12:51 | 2026-07-31 |  |
 | [Obrigado](https://open.spotify.com/track/7r9HZwjUZezpQpW4ToiEFL) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Bandana](https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf) | 0:29 | 2022-09-13 |  |
+| [Offline P.K.](https://open.spotify.com/track/5GXoUoXzGgFSpiE0gf3wCL) | [Pinback](https://open.spotify.com/artist/4ZWvN9FEfdTea1SEHjpTNi) | [Blue Screen Life](https://open.spotify.com/album/6AGfeMHoNKOFey4KEqwhmJ) | 3:17 | 2026-07-31 |  |
 | [Okay](https://open.spotify.com/track/1saiatbdGSdjCJ5X4TrnJz) | [Holy Ghost!](https://open.spotify.com/artist/2Vhc7Y0Kc6HzMC6glKM4h6) | [Dynamics](https://open.spotify.com/album/7MIE4SvUeO6fWPrHJFnzaP) | 4:33 | 2025-08-08 |  |
 | [Okolona River Bottom Band](https://open.spotify.com/track/58n4w23hXUwot69NOvIB2x) | [Bobbie Gentry](https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d) | [The Delta Sweete](https://open.spotify.com/album/1SiGaqffPGAqWYzdoNCHJn) | 3:04 | 2025-10-19 |  |
 | [Ol' 55](https://open.spotify.com/track/7qbLE7ssJcnWD6EO7My847) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Closing Time \(Remastered\)](https://open.spotify.com/album/67F2ya9fonXH0jVVgLa7sb) | 3:56 | 2024-06-17 |  |

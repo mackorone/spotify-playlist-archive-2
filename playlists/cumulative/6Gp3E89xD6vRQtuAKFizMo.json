@@ -8091,6 +8091,28 @@
     },
     {
       "album": {
+        "name": "Oh Lord (feat. David LeSal)",
+        "url": "https://open.spotify.com/album/1UrQIcRqmSQkz7m540ItJ1"
+      },
+      "artists": [
+        {
+          "name": "Mauro Venti",
+          "url": "https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd"
+        },
+        {
+          "name": "David LeSal",
+          "url": "https://open.spotify.com/artist/1KB7YVSkBmXdNoOJEMkDAa"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173953,
+      "name": "Oh Lord (feat. David LeSal)",
+      "url": "https://open.spotify.com/track/18Glj6vDU6P3iPbPQVeCoY"
+    },
+    {
+      "album": {
         "name": "Older ft Jimmie Allen & Dixie D'Amelio",
         "url": "https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO"
       },
@@ -11262,6 +11284,28 @@
       "duration_ms": 166696,
       "name": "Tuxedo (feat. 24hrs)",
       "url": "https://open.spotify.com/track/4Aps6ZUREBf9WKAOhfjDS0"
+    },
+    {
+      "album": {
+        "name": "Unbreakable (feat. Nathan Conway)",
+        "url": "https://open.spotify.com/album/75FlILM42TWK0t64QNGRF6"
+      },
+      "artists": [
+        {
+          "name": "Luca Testa",
+          "url": "https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7"
+        },
+        {
+          "name": "Nathan Conway",
+          "url": "https://open.spotify.com/artist/6Y7bn7J48THvJwdt2GUhSo"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "Unbreakable (feat. Nathan Conway)",
+      "url": "https://open.spotify.com/track/0mgJCnoKRt6QTRdSdyUpEk"
     },
     {
       "album": {

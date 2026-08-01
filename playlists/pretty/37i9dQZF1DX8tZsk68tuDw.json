@@ -1,12 +1,12 @@
 {
   "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Jimi Jules",
-  "num_followers": 1824402,
+  "num_followers": 1824246,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKhiWCBPgWRmhyqgZER6n8PBJSrV",
+  "snapshot_id": "AAAAADPZrO3dISTkLgmZDktmQK4mDAE5",
   "tracks": [
     {
       "added_at": "2026-07-24 04:01:29",
@@ -29,9 +29,25 @@
       "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
     },
     {
+      "added_at": "2026-07-31 04:01:37",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
+    },
+    {
       "added_at": "2026-07-24 04:01:29",
       "album": {
-        "name": "Hey Everybody (Back In The Dance)",
+        "name": "Hey Everybody",
         "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
       },
       "artists": [
@@ -41,7 +57,7 @@
         }
       ],
       "duration_ms": 156498,
-      "name": "Hey Everybody (Back In The Dance)",
+      "name": "Hey Everybody",
       "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
     },
     {
@@ -65,6 +81,26 @@
       "url": "https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp"
     },
     {
+      "added_at": "2026-07-31 04:01:37",
+      "album": {
+        "name": "soulreply",
+        "url": "https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        }
+      ],
+      "duration_ms": 179311,
+      "name": "soulreply",
+      "url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8"
+    },
+    {
       "added_at": "2026-07-24 04:01:29",
       "album": {
         "name": "$MONEY",
@@ -79,6 +115,22 @@
       "duration_ms": 154898,
       "name": "$MONEY",
       "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
+    },
+    {
+      "added_at": "2026-07-31 04:01:37",
+      "album": {
+        "name": "Booty Roll",
+        "url": "https://open.spotify.com/album/52aBf5hDkajXwXkaIsnLJD"
+      },
+      "artists": [
+        {
+          "name": "SEBS",
+          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
+        }
+      ],
+      "duration_ms": 165675,
+      "name": "Booty Roll",
+      "url": "https://open.spotify.com/track/3fVnYcsWzLWc1iwplYUwOg"
     },
     {
       "added_at": "2026-07-17 04:00:45",
@@ -125,6 +177,26 @@
       "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
     },
     {
+      "added_at": "2026-07-31 04:01:37",
+      "album": {
+        "name": "Careful",
+        "url": "https://open.spotify.com/album/524f63QHVObJQoDoYjqGPF"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 160911,
+      "name": "Careful",
+      "url": "https://open.spotify.com/track/1kk2PNrO9mfMuwEGnAOipt"
+    },
+    {
       "added_at": "2026-07-17 04:00:45",
       "album": {
         "name": "Rave The World EP",
@@ -139,6 +211,30 @@
       "duration_ms": 233192,
       "name": "Around",
       "url": "https://open.spotify.com/track/2yZt69pBk4nk7q2qbi7ZPz"
+    },
+    {
+      "added_at": "2026-07-31 04:01:37",
+      "album": {
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/4EdMwpLJIKhipUrX5tdaGk"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj"
     },
     {
       "added_at": "2026-07-10 04:01:25",
@@ -465,6 +561,22 @@
       "url": "https://open.spotify.com/track/2AYebbKenqjmq5pOsn7L2o"
     },
     {
+      "added_at": "2026-07-24 04:01:29",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/0ljxqMO4RtUbN3XXyoDsUU"
+      },
+      "artists": [
+        {
+          "name": "Jamback",
+          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5hW1f4Y2d0GXCJXkYsoiYI"
+    },
+    {
       "added_at": "2026-07-17 04:00:45",
       "album": {
         "name": "Get Buck",
@@ -573,20 +685,52 @@
       "url": "https://open.spotify.com/track/4hQBMULTIvpG8yzAhvSffX"
     },
     {
-      "added_at": "2026-07-10 04:01:25",
+      "added_at": "2026-07-31 04:01:37",
       "album": {
-        "name": "Move Shake",
-        "url": "https://open.spotify.com/album/1S74QEpRIH8jaQX44H1ANg"
+        "name": "140 MAFIA",
+        "url": "https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP"
       },
       "artists": [
         {
-          "name": "Jeff Sorkowitz",
-          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        {
+          "name": "JONCASS",
+          "url": "https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025"
+        },
+        {
+          "name": "SVDKO",
+          "url": "https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt"
         }
       ],
-      "duration_ms": 178124,
-      "name": "Move Shake",
-      "url": "https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu"
+      "duration_ms": 195428,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3"
+    },
+    {
+      "added_at": "2026-07-31 04:01:37",
+      "album": {
+        "name": "CRASH OUT",
+        "url": "https://open.spotify.com/album/3gCAoM9q5woXXbFcFEyLV1"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "duration_ms": 175464,
+      "name": "CRASH OUT",
+      "url": "https://open.spotify.com/track/659fLEncISLHImCs2IkqO2"
     },
     {
       "added_at": "2026-07-10 04:01:25",
@@ -635,6 +779,22 @@
       "duration_ms": 193846,
       "name": "Can't Say Nah (feat. Benni Ola)",
       "url": "https://open.spotify.com/track/1wQYUksfWhqFKcoQzjHGHO"
+    },
+    {
+      "added_at": "2026-07-31 04:01:37",
+      "album": {
+        "name": "Little More (Body Action)",
+        "url": "https://open.spotify.com/album/3KB4mdLmrMq4vhNFqbcacm"
+      },
+      "artists": [
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Little More (Body Action)",
+      "url": "https://open.spotify.com/track/7MMBk3p5G0SyPiNiUDgjPD"
     },
     {
       "added_at": "2026-06-19 04:00:39",
@@ -741,30 +901,6 @@
       "url": "https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY"
     },
     {
-      "added_at": "2026-07-10 04:01:25",
-      "album": {
-        "name": "Better With You",
-        "url": "https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO"
-      },
-      "artists": [
-        {
-          "name": "Nico Moreno",
-          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
-        },
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        },
-        {
-          "name": "KIMI",
-          "url": "https://open.spotify.com/artist/6VZHF8XLZoyJ9t1iQQFem4"
-        }
-      ],
-      "duration_ms": 211928,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
-    },
-    {
       "added_at": "2026-07-24 04:01:29",
       "album": {
         "name": "POINT BLANK",
@@ -789,26 +925,6 @@
       "url": "https://open.spotify.com/track/4UhmOnDgXLIkB2rMmusHB8"
     },
     {
-      "added_at": "2026-05-15 04:01:08",
-      "album": {
-        "name": "Closure",
-        "url": "https://open.spotify.com/album/1PyUm9Ez6uKvsWNn7bEJbD"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        },
-        {
-          "name": "Hayley May",
-          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
-        }
-      ],
-      "duration_ms": 147522,
-      "name": "Closure",
-      "url": "https://open.spotify.com/track/6aynKW70w06W8LyZaKpdAX"
-    },
-    {
       "added_at": "2026-06-12 04:00:58",
       "album": {
         "name": "can we do it all again?",
@@ -825,36 +941,28 @@
       "url": "https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K"
     },
     {
-      "added_at": "2026-06-19 04:00:39",
+      "added_at": "2026-07-10 04:01:25",
       "album": {
-        "name": "Work It",
-        "url": "https://open.spotify.com/album/26EnkGvk5z5hqA3RE9QQJr"
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/3Uuy2TmXMScAV6Mzy9CZiO"
       },
       "artists": [
         {
-          "name": "SEBS",
-          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/3xcgtqFTfz0KX3JiOvooJM"
-    },
-    {
-      "added_at": "2026-07-24 04:01:29",
-      "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/0ljxqMO4RtUbN3XXyoDsUU"
-      },
-      "artists": [
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        },
         {
-          "name": "Jamback",
-          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        },
+        {
+          "name": "KIMI",
+          "url": "https://open.spotify.com/artist/6VZHF8XLZoyJ9t1iQQFem4"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5hW1f4Y2d0GXCJXkYsoiYI"
+      "duration_ms": 211928,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/5e4II0hLokRNiw4q2uHeL8"
     },
     {
       "added_at": "2026-07-24 04:01:29",
@@ -963,22 +1071,6 @@
       "duration_ms": 212054,
       "name": "DREAM (feat. El Karima)",
       "url": "https://open.spotify.com/track/6dgHNOvKFuxwkRaY7MEP9Q"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
-        "name": "check check",
-        "url": "https://open.spotify.com/album/7IYAJ9hx2lEePRNU9b6kWh"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 182326,
-      "name": "check check",
-      "url": "https://open.spotify.com/track/287TkTdofAFvXB4EaT160W"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -1149,34 +1241,6 @@
       "url": "https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx"
     },
     {
-      "added_at": "2026-07-10 04:01:25",
-      "album": {
-        "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
-        "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
-      },
-      "artists": [
-        {
-          "name": "Jarreau Vandal",
-          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
-        },
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 199351,
-      "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
-      "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
-    },
-    {
       "added_at": "2026-05-08 04:02:30",
       "album": {
         "name": "I Need U (feat. Ellie Maxwell)",
@@ -1235,46 +1299,6 @@
       "duration_ms": 200571,
       "name": "PRETTY GIRLS",
       "url": "https://open.spotify.com/track/5E64oUALBVwhnqpSrARgS0"
-    },
-    {
-      "added_at": "2026-06-26 04:00:59",
-      "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/6Qt5oHi1SE1892sRroisRo"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "DJ DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        },
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        },
-        {
-          "name": "IVORY",
-          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/33rOFwZOk1rs9OwvHL12cF"
     },
     {
       "added_at": "2026-05-22 04:01:06",
@@ -1337,42 +1361,6 @@
       "url": "https://open.spotify.com/track/6yDz1uegyUcVxwrcLUo1Ke"
     },
     {
-      "added_at": "2026-05-15 04:01:08",
-      "album": {
-        "name": "Anything Goes",
-        "url": "https://open.spotify.com/album/0clTTK9wSXFKpTTtGq2sun"
-      },
-      "artists": [
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "ANYTHING GOES",
-      "url": "https://open.spotify.com/track/4JZCJxqwRond3dcrywlNnz"
-    },
-    {
-      "added_at": "2026-05-22 04:01:06",
-      "album": {
-        "name": "Hypa",
-        "url": "https://open.spotify.com/album/6qwcD8Fu84jZJgFVfeIT5B"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Mr Virgo",
-          "url": "https://open.spotify.com/artist/4lQPqOsyeapLWAd2aXILFU"
-        }
-      ],
-      "duration_ms": 160025,
-      "name": "Swagger Sound",
-      "url": "https://open.spotify.com/track/3huOaiSWe9zJJYwu4M6MsP"
-    },
-    {
       "added_at": "2026-04-03 04:01:03",
       "album": {
         "name": "WOR$T GIRL IN AMERICA",
@@ -1389,26 +1377,6 @@
       "url": "https://open.spotify.com/track/6Xp2Zm2sJLdODReZWBBifO"
     },
     {
-      "added_at": "2026-06-26 04:00:59",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/2StNHWLZ8NTlch41e0G9UL"
-      },
-      "artists": [
-        {
-          "name": "Madeon",
-          "url": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 151568,
-      "name": "Super Platinum (feat. Erick the Architect)",
-      "url": "https://open.spotify.com/track/6n8EsWSTfaBMFvYZ6B5WRK"
-    },
-    {
       "added_at": "2026-03-13 04:00:32",
       "album": {
         "name": "Magnetic / Addicted To Your Love",
@@ -1423,6 +1391,34 @@
       "duration_ms": 181384,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-07-10 04:01:25",
+      "album": {
+        "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
+        "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
+      },
+      "artists": [
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 199351,
+      "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
+      "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
     },
     {
       "added_at": "2026-06-26 04:00:59",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the sounds of South African Jazz. Cover: SPARTZ",
+  "description": "Journey through the sounds of South African Jazz. Cover: Johnny Clegg",
   "name": "Jazz NEXT",
   "tracks": [
     {
@@ -4804,7 +4804,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 345520,
       "name": "People of the South",
       "url": "https://open.spotify.com/track/7kZlZhiFGK51U3XEyRDcOu"
@@ -6388,6 +6388,32 @@
       "duration_ms": 53720,
       "name": "There's a Burning Sensation Where My Heart Used to Be",
       "url": "https://open.spotify.com/track/62eU0594IGYjgeAKsoDgM1"
+    },
+    {
+      "album": {
+        "name": "Scatterlings (Johnny Clegg Reimagined)",
+        "url": "https://open.spotify.com/album/7f3nbz6bx26a15WKCzYQKT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Clegg",
+          "url": "https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Kyle Shepherd Trio",
+          "url": "https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295289,
+      "name": "Third World Child - (Remake)",
+      "url": "https://open.spotify.com/track/77eZpR8sSF7OKG6SON6cwH"
     },
     {
       "album": {

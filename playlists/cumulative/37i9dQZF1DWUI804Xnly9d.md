@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Arijit Singh
 
-654 songs - 1 day 12 hr 36 min
+655 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Fly Fly Away \(Reprise\)](https://open.spotify.com/track/76MZxG3G1KFr6FGIJ9OGAp) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Shivam\-Anuj](https://open.spotify.com/artist/42IqpkdFAQHbi23kCD6cBg) | [Garuudaa On The Terrace \- Season 1](https://open.spotify.com/album/5IPTiG6QY5rjrki3MR4S3x) | 2:49 | 2024-05-28 | 2025-03-08 |
 | [FML \- City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/track/5r5fuoBAtYhHOnaUHXw4ok) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6), [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Taab](https://open.spotify.com/artist/2zDvtopPWBRwNBkH4KNowY) | [City Sessions, Vol\. 2 \(Side A\)](https://open.spotify.com/album/5PWT6nirwVvZ62TM1rsi7F) | 3:43 | 2025-09-12 | 2026-04-29 |
 | [Fursat](https://open.spotify.com/track/0rRN8GUnQXMzn5IC2f9JDF) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Fursat](https://open.spotify.com/album/6EwhEZsAIyWebuoLUBhlzL) | 4:07 | 2024-09-20 | 2024-10-24 |
+| [Gaya Kaam Se](https://open.spotify.com/track/5K3KAyvqE82rQ7Y4Fz18DM) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Bhrigu Parashar](https://open.spotify.com/artist/0N6B820enuBvVjGkeX0BlN) | [Gaya Kaam Se](https://open.spotify.com/album/0SzMskczae8bg3PuzUVONt) | 2:44 | 2026-07-31 |  |
 | [Gehraiyaan \- Unplugged](https://open.spotify.com/track/4cFTI9GC52rZo29rAQ2Af2) | [Aditya Narayan](https://open.spotify.com/artist/4Z0t0LHjOjFRiv0mjBw206), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gehraiyaan \(Unplugged\)](https://open.spotify.com/album/1UOwKdUWpadVuUZBbrxC3V) | 3:07 | 2025-08-11 | 2025-08-30 |
 | [Ghar](https://open.spotify.com/track/7sTRZjGMAffIs5M2pk3JH2) | [Abhimanyu\-Pragya](https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr) | [Ghar](https://open.spotify.com/album/5mlwIwCNFVgrNXstZEjioq) | 2:43 | 2025-02-12 | 2025-06-21 |
 | [Ghulaam](https://open.spotify.com/track/5ZpXpqsmvcm6KTIuxRVEKg) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Ashish Zachariah](https://open.spotify.com/artist/51xtFCX1WhS6mMni1EVMGT) | [Ghulaam](https://open.spotify.com/album/0hb54jsDgeXIH0kvER8ezp) | 3:22 | 2023-08-18 | 2024-04-19 |
@@ -517,7 +518,7 @@
 | [Secrets](https://open.spotify.com/track/5HENJVFTpwo7n8RvXhex2g) | [Andrew KZ](https://open.spotify.com/artist/2mqU4ypOkvjz5TWWtWsOtR) | [Secrets](https://open.spotify.com/album/0Edq37EUIlXNqtfniAWYOa) | 1:58 | 2024-08-01 | 2024-08-31 |
 | [Sehar](https://open.spotify.com/track/1IWXDizuyzuBz7nXI6Wgdn) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Sehar](https://open.spotify.com/album/6VUXsat2DolMlpzhSmncd6) | 3:36 | 2025-07-08 | 2025-08-12 |
 | [September](https://open.spotify.com/track/2fDy9nSilEVvD2AoWL2es7) | [Sukrit Thakur](https://open.spotify.com/artist/3VBJZ7z2qR2hPlMrtAeqLv) | [September](https://open.spotify.com/album/6zVilVx3Xo9yP5xMsoZZ8o) | 2:16 | 2025-04-16 |  |
-| [Shaam](https://open.spotify.com/track/4hckLrzyRR4iRZB6HJhVCF) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4), [Timothy Thampy](https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK) | [Shaam](https://open.spotify.com/album/5vw2CBcqLwIG5NkKzQTkxS) | 2:48 | 2026-05-28 |  |
+| [Shaam](https://open.spotify.com/track/4hckLrzyRR4iRZB6HJhVCF) | [Akash Tripathi](https://open.spotify.com/artist/04QPutAh48ciDXsD7yuzl4), [Timothy Thampy](https://open.spotify.com/artist/516N84Zm8jTFBAIDSK3uLK) | [Shaam](https://open.spotify.com/album/5vw2CBcqLwIG5NkKzQTkxS) | 2:48 | 2026-05-28 | 2026-08-01 |
 | [Shaam O Seher](https://open.spotify.com/track/2oDcHokGFyUid59aiw36DT) | [Bharat Goel](https://open.spotify.com/artist/3gcypsP2mkAyBI3HrIeWnx), [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Shaam O Seher](https://open.spotify.com/album/2xHtltGELNqIsy4agezGGA) | 3:03 | 2024-03-05 | 2024-06-01 |
 | [Shaayad](https://open.spotify.com/track/11u7tMgh1sK1P6fUfL8xFO) | [C&A Kalatva](https://open.spotify.com/artist/6vRAO1pNeHHfXC4cHW9sp6) | [Shaayad](https://open.spotify.com/album/4IdxkUdlEQuQ06brPbXaiZ) | 3:29 | 2024-08-29 | 2025-07-05 |
 | [Shamiyana](https://open.spotify.com/track/3QC6onisBo4QROKE7Wr6W9) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Shamiyana](https://open.spotify.com/album/7IzYRwQO5uLovjokWp81C2) | 5:24 | 2024-02-14 | 2024-04-10 |

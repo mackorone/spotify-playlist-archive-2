@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-1,051 songs - 2 day 7 hr 5 min
+1,057 songs - 2 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Chinook](https://open.spotify.com/track/0m3Ssbp73eDEtjIoPGqNis) | [Alfa State](https://open.spotify.com/artist/09XYEnqYotzkQdZIyltRtW), [Mystic District](https://open.spotify.com/artist/2PDVBt3lvTrglJpt2yYGaF) | [Chinook EP](https://open.spotify.com/album/4bhtTw2nU27UZEpxHH4RfG) | 7:26 | 2020-12-16 | 2021-01-05 |
 | [Chirality](https://open.spotify.com/track/5g77cC85KsmuaXgi1CCf2i) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Through My Mind](https://open.spotify.com/album/2Z1Z4go1XdwZiFLpsbUA5Z) | 3:50 | 2020-11-04 | 2021-09-09 |
 | [Chlorine](https://open.spotify.com/track/1B8IrVSNTA8KgHG8MJQaH1) | [Swank Doral](https://open.spotify.com/artist/1zgVVdHt2QiytBSufPLLaV) | [Chlorine](https://open.spotify.com/album/4SCPxSvn4cdrjeZSHSfnMY) | 2:59 | 2021-08-20 | 2024-08-31 |
+| [Chords On The Avenue](https://open.spotify.com/track/1aBeX1UESThIniKVwy8O8b) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Chords On The Avenue](https://open.spotify.com/album/3BcptnXWV3PMe9brTEYCtG) | 2:30 | 2026-07-31 |  |
 | [Circuits](https://open.spotify.com/track/5ETYY1iN1ij5cBMBS94NAf) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Circuits / Roundabouts](https://open.spotify.com/album/65H0oHMFqZmnT2qpAOEJji) | 3:20 | 2021-07-08 | 2022-09-09 |
 | [Citrus](https://open.spotify.com/track/3Y6XkEEol8zFlXVtM5cotc) | [Raynberri](https://open.spotify.com/artist/4EmhqEKhTykmNphBxqT5ZX) | [Citrus](https://open.spotify.com/album/2fXSd4M2ibuU9AX8HfWmbD) | 1:50 | 2026-06-29 |  |
 | [Citrus Room](https://open.spotify.com/track/6VlrQewulYQUHExzE15bKp) | [SOLAR MISSION](https://open.spotify.com/artist/3x1uEdpmZurDjZqqSxvEeV) | [Citrus Room](https://open.spotify.com/album/0A6CYftxMWw5MWns0MxIZf) | 2:26 | 2025-09-05 | 2026-02-24 |
@@ -252,6 +253,7 @@
 | [Driftwave](https://open.spotify.com/track/3Kaefd2rt7U5KWxJJBXWn5) | [King Bøb](https://open.spotify.com/artist/41zvJbIz0wTbdM8KBB6vRy) | [Driftwave](https://open.spotify.com/album/5VSp1EDdPvRALm05nPMtNK) | 2:41 | 2025-03-21 |  |
 | [Drinks on You](https://open.spotify.com/track/07YhBKi2jQhDp7FhRTlmeD) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Drinks On You, / Places To Go](https://open.spotify.com/album/6GFWbw9g0xkIACWMJiFlFo) | 3:48 | 2021-09-09 | 2024-07-25 |
 | [driver seat](https://open.spotify.com/track/2Ttja9UD1t9GeD8MzL8J4v) | [YAN KAL](https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG) | [driver seat](https://open.spotify.com/album/1WKAAaqwcZpMP3gA7JhZGf) | 2:18 | 2023-01-13 | 2025-08-12 |
+| [Dust & Light](https://open.spotify.com/track/4vx36xaTxDLO4jg5N7cI14) | [Valea](https://open.spotify.com/artist/0L6a5oSrR4lhV7LgJwNIR2) | [Dust & Light](https://open.spotify.com/album/6xnpZ9ur4VDWJXMUtxCOQy) | 2:04 | 2026-07-31 |  |
 | [easy](https://open.spotify.com/track/3fcJHP9P1Jipkv9UBQZNTh) | [Triple Bulletin](https://open.spotify.com/artist/0g8pyizsQwlRvbDEazNSm3) | [easy](https://open.spotify.com/album/2xwuLtS6WGvYyphK7N7CYk) | 2:19 | 2023-04-07 |  |
 | [Easy Come Easy Go](https://open.spotify.com/track/6muUfsnL9J7bt4XmO7IOzl) | [Tilja](https://open.spotify.com/artist/0Fznamwt37NfdZhmg47LD4) | [Easy Come Easy Go](https://open.spotify.com/album/6cDvB29D9ewom7OO9zb18T) | 1:53 | 2026-06-12 | 2026-07-08 |
 | [Easy Living](https://open.spotify.com/track/71SNVJxqOEZdG9cSvHWk2D) | [I Can East](https://open.spotify.com/artist/7Mrt8ANdFz3SlbMsD6GICP) | [Easy Living](https://open.spotify.com/album/10WJanvowjMB3sktk90S1g) | 6:30 | 2020-11-11 | 2020-12-02 |
@@ -641,6 +643,7 @@
 | [One Try](https://open.spotify.com/track/0r2uhuFtiYZzeNncUUzvv7) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [One Try](https://open.spotify.com/album/6lsgyMkymdgSTK43XGqvqI) | 2:31 | 2022-05-10 | 2025-02-08 |
 | [One Try](https://open.spotify.com/track/1cqG2UKTksqEK69bleOoj3) | [Nico Belucci](https://open.spotify.com/artist/1ffy5tc5ZYaivIp4zF2r6a) | [One Try](https://open.spotify.com/album/3jGgGZFzyHGsD5855LRhgk) | 2:31 | 2023-03-10 | 2024-04-19 |
 | [Only U](https://open.spotify.com/track/1QsHWsHzWiqMFKwNojRZx9) | [LeDorean](https://open.spotify.com/artist/33m7VtP8WxR5FhUKIMOB46) | [Only U](https://open.spotify.com/album/4RyKiSWAAV4uUaLFH0YDsX) | 3:05 | 2024-07-24 | 2025-06-14 |
+| [Open Mind](https://open.spotify.com/track/2fY9HRoomh3DjvvPZmiVfv) | [IANCU](https://open.spotify.com/artist/7lj0Y1P2gqTIru3ERk8HtU) | [Open Mind](https://open.spotify.com/album/6c8xQJlUXuI1nwK0mMtFXg) | 2:09 | 2026-07-31 |  |
 | [Opposite](https://open.spotify.com/track/6VLstEbmUW5oCxgahFe0Wf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Moment EP](https://open.spotify.com/album/0lIHGVhcEfhqRTMFCCYbmt) | 4:34 | 2021-09-09 | 2022-04-06 |
 | [Original Love](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Original Love](https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb) | 3:02 | 2022-05-10 | 2025-02-08 |
 | [Out Late](https://open.spotify.com/track/1gjW2RMESNkfWVJCyObu1v) | [Stenkil](https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln) | [Out Late](https://open.spotify.com/album/6xNsZ5aOnzwLrhbQjc7gB0) | 3:03 | 2022-07-15 | 2024-11-16 |
@@ -837,6 +840,7 @@
 | [Socorro & Jüpiter](https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1) | [Felipe Gordon](https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj) | [Socorro & Jüpiter](https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84) | 6:55 | 2020-11-11 | 2020-12-02 |
 | [Soft and Nice](https://open.spotify.com/track/0vrQTP6dfQsQSohyIfB7SP) | [Calvin Durant](https://open.spotify.com/artist/7v3g6YWSgDGIsSZFlCznOL) | [Soft and Nice](https://open.spotify.com/album/6wYji9i4ZVFsz4kYOoVAtm) | 2:22 | 2023-12-01 |  |
 | [Soil](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Soil](https://open.spotify.com/album/1nr940JdureKTuemThNzQ4) | 2:17 | 2023-02-24 |  |
+| [sola](https://open.spotify.com/track/1PMdItlayzPgJZ6FL6hXKJ) | [apparater](https://open.spotify.com/artist/5KQgYUEYCLvjLZge7PLlZW) | [sola](https://open.spotify.com/album/51DNDyVAoZ8HbGmvIqkosY) | 2:07 | 2026-07-31 |  |
 | [Solana Beach](https://open.spotify.com/track/2VWrRpMicsoQo4I35w0e7W) | [SunZunSun](https://open.spotify.com/artist/5SKcOlTnoLFO3fKYCnLRWN) | [The Best](https://open.spotify.com/album/2CPNcUW9gY2qeWJquCPnHj) | 3:40 | 2022-01-21 | 2023-06-03 |
 | [solar bliss](https://open.spotify.com/track/5pmOBhY1ZyQwpebo3vfzes) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [solar bliss](https://open.spotify.com/album/171awXr7cajam1zPKEh9XV) | 2:44 | 2022-09-02 | 2024-12-14 |
 | [Solar Healing](https://open.spotify.com/track/7lQa9uhOiN5eD2rM75tHry) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Curated Light](https://open.spotify.com/album/4P6gdXh3u8854etdrkx8O5) | 3:16 | 2023-07-21 | 2024-07-25 |
@@ -967,6 +971,7 @@
 | [Tomtebo](https://open.spotify.com/track/1Rks0AsEen5Ef9mc0kvZ7S) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Tomtebo](https://open.spotify.com/album/1pm7p9wuOepnYKPIsnbXXC) | 3:24 | 2021-01-27 | 2022-06-24 |
 | [Toned Air](https://open.spotify.com/track/6EmpsOnzyUiclYdRSkoQzu) | [Pure Recall](https://open.spotify.com/artist/2dUzuRhlSLxwEeMZ5C2hTt) | [Toned Air](https://open.spotify.com/album/2apPlA6KsZqi6MiD5gjlTM) | 2:27 | 2026-02-09 |  |
 | [too bright](https://open.spotify.com/track/3suSesOhgUyg3nMVqqB7Yi) | [Lou Kil](https://open.spotify.com/artist/1vxHeyltNjjNC7OSS573mh) | [too bright](https://open.spotify.com/album/7Hdyos0LAXd6ddXj5Lydu3) | 2:51 | 2024-11-15 | 2025-12-20 |
+| [Too Odd](https://open.spotify.com/track/5fwJNbQkyw8B3N8lO0twSt) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Too Odd](https://open.spotify.com/album/1LimaziNMLWZgTvhH5Q2pM) | 2:07 | 2026-07-31 |  |
 | [Touch of Indigo](https://open.spotify.com/track/4R48kbPpT4zzcYLcOBqkAz) | [Beach Villa](https://open.spotify.com/artist/6419utRWf7KXDJun7kpFmo) | [Touch of Indigo](https://open.spotify.com/album/6xemqjfp3Oml8JyKOZsue6) | 2:42 | 2026-01-12 |  |
 | [Toyama](https://open.spotify.com/track/0fNvCaHFdc8gmP5c3OJLgs) | [Moy\-ya](https://open.spotify.com/artist/5khRduXj2TwOW0awj5q0zS) | [Toyama](https://open.spotify.com/album/11CN73XzqHhOor1vuqIzHt) | 3:18 | 2022-08-05 | 2024-07-25 |
 | [Tracer Arcs](https://open.spotify.com/track/0f8LcCSouQTN5iE8qVrHsp) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Tracer Arcs](https://open.spotify.com/album/2NuBMVkXAAMI9Yi2duG8Ek) | 3:18 | 2022-09-02 | 2023-01-07 |
@@ -1059,5 +1064,6 @@
 | [You Do You](https://open.spotify.com/track/6YoNh7HiardYLs9qfIGMJB) | [Lukas Hiraeth](https://open.spotify.com/artist/0e6m03hmu9HNYQBaeFkn8D) | [You Do You](https://open.spotify.com/album/0D7kjNyYLWwZizudRPpUuV) | 2:21 | 2025-06-24 |  |
 | [Youthful Spring](https://open.spotify.com/track/3nZUPm6rUYOpN0zaH66fpw) | [Kris Karrey](https://open.spotify.com/artist/200b6fuQRBe2Ra2k6d0lJI) | [Youthful Spring](https://open.spotify.com/album/4AxiTEfNRYC1Ga0aZyYTal) | 3:15 | 2024-03-04 | 2024-09-28 |
 | [Zanzibar](https://open.spotify.com/track/4kOFxbQua6DmmLopfex76W) | [Lndoner](https://open.spotify.com/artist/0CfAjz9xgWzVTurMYXM9P7) | [Zanzibar](https://open.spotify.com/album/0HFKcAkd2zQDxi7or6ENLh) | 2:22 | 2022-07-08 | 2024-11-16 |
+| [Zone](https://open.spotify.com/track/08KqvI9uUCf8m6Q2MFJW7U) | [Taki Brano](https://open.spotify.com/artist/3kegRO5fvrXxqOrUiEbtOG) | [Zone](https://open.spotify.com/album/1mYkmgUBm44zNG5a3nU44g) | 2:31 | 2026-07-31 |  |
 
 \*This playlist was first scraped on 2020-04-03. Prior content cannot be recovered.

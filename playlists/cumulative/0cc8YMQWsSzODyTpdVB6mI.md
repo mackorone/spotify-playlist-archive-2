@@ -4,7 +4,7 @@
 
 > To travel between house, deep house and positive vibes for summer !
 
-216 songs - 12 hr 41 min
+217 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 | 2025-09-05 |  |
 | [elevate in the village](https://open.spotify.com/track/0ZRKOmFI20AOF2XNKyL4kZ) | [mynameisleonidas](https://open.spotify.com/artist/0Jjoj2QyL1AtZ08H6LTTVe) | [elevate in the village](https://open.spotify.com/album/1hAzBTggPEPrDDVAq1Hktz) | 3:17 | 2021-11-05 | 2023-05-31 |
 | [ENTROPY/](https://open.spotify.com/track/0RZS3qAGkztX8LuUSRYmpz) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1) | [ENTROPY/](https://open.spotify.com/album/0A0F6DDqKOEFHXPdPX0ghm) | 3:37 | 2022-05-06 | 2022-07-12 |
+| [Es Como Es](https://open.spotify.com/track/0jyq1qc7Rr6XzCL5PiJSfX) | [Reminder \(BR\)](https://open.spotify.com/artist/3mh9Zs8wNrcpi15bmd88PZ) | [Es Como Es](https://open.spotify.com/album/6wxXM8jcrjCJnkLxUnyk3d) | 4:37 | 2026-07-31 |  |
 | [Everything Is Changing \- Radio Edit](https://open.spotify.com/track/5aTCZ0Hc3GtpqcC6mCKTyY) | [Crazy Fluke](https://open.spotify.com/artist/1mVwhF4BGCmj165LyEHVKT), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Everything Is Changing](https://open.spotify.com/album/02yAJpRDnL6aMkVenvEUlt) | 3:11 | 2022-10-03 | 2023-02-02 |
 | [Fake My Heart](https://open.spotify.com/track/4kQNrp1ckyNhUbODrGBDVt) | [BROTHER SUN SISTER MOON](https://open.spotify.com/artist/4jYamjqQ1wmOLS41qNiZ0i) | [Fake My Heart](https://open.spotify.com/album/7soqzqK8vd3EeMYbrFEqvM) | 3:36 | 2022-11-30 | 2023-05-31 |
 | [Falling](https://open.spotify.com/track/6HMrZn76vPSiKl3u6Z6RsC) | [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4), [Ren Ocean](https://open.spotify.com/artist/2Vq8DmO0qtc5DJubK2ggJ0) | [Falling](https://open.spotify.com/album/5FRpukRgaN2kZxiji63fn0) | 4:39 | 2025-10-10 | 2026-02-27 |

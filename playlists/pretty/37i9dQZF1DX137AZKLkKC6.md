@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 
 ### [La + Popular](https://open.spotify.com/playlist/37i9dQZF1DX137AZKLkKC6)
 
-> Las grandes del Despecho y el Género Popular\. Con Luis Alfonso en portada.
+> Las grandes del Despecho y el Género Popular\. Con Nico Hernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,600 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,627 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bonita pero descarada](https://open.spotify.com/track/3A6p7hBIBchtBVFYe90eLY) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Lindo Lindo](https://open.spotify.com/album/7uX0KsERm8K9pr8svvbyoU) | 3:02 |
+| 1 | [El Rompecorazones](https://open.spotify.com/track/2z9COavLfZH1VboZOXFm6j) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [El Rompecorazones](https://open.spotify.com/album/5mjr1dIJhyxOOeikDUlOzx) | 2:34 |
 | 2 | [Vive Tu Vida](https://open.spotify.com/track/3DzNgv4wLRfR90ZKl5raAZ) | [Sebastián Ayala](https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Vive Tu Vida](https://open.spotify.com/album/1b4CTfE2CODXCgSIW0nXSY) | 2:37 |
 | 3 | [Destino Final](https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Destino Final](https://open.spotify.com/album/66BS1FKL1YeuRLQo5Y5fMQ) | 2:53 |
-| 4 | [Así es nuestro amor](https://open.spotify.com/track/3OjVagLjye1BVTSEPeC0et) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Así es nuestro amor](https://open.spotify.com/album/1kVY3Ge9M04L65RT6uqXQb) | 2:49 |
-| 5 | [Mala de Profesión](https://open.spotify.com/track/0tYD7s7exvZsdmbLkzJgqa) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mala de Profesión](https://open.spotify.com/album/74iUSIdgl8rOh9YJjKrC58) | 2:59 |
+| 4 | [Mi Momento Más Humilde](https://open.spotify.com/track/6a0d5fkzeAYu57P8tZyW2R) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Mi Momento Más Humilde](https://open.spotify.com/album/7DmFQRY9TaiQCuYnTOJKXn) | 3:03 |
+| 5 | [Así es nuestro amor](https://open.spotify.com/track/3OjVagLjye1BVTSEPeC0et) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Así es nuestro amor](https://open.spotify.com/album/1kVY3Ge9M04L65RT6uqXQb) | 2:49 |
 | 6 | [Tu cuarto de hora](https://open.spotify.com/track/76FxJmndkNGzmBELUvV106) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Tu cuarto de hora](https://open.spotify.com/album/6YkNmlGI3AmGBpSJ2a7xJc) | 3:08 |
 | 7 | [Ayer Hablé con Dios \- Remix](https://open.spotify.com/track/2biWPehYBSJBBhfHAXHbae) | [Corridos del Rey](https://open.spotify.com/artist/608Psavm7YdzNX9Izrx40A), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Ayer Hablé con Dios \(Remix\)](https://open.spotify.com/album/6hqqKgxZaGgAh5Fb2ZifIZ) | 2:54 |
 | 8 | [Déjame Entrar](https://open.spotify.com/track/3U0v6ZLymzqPNgPP8jwaF1) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Déjame Entrar](https://open.spotify.com/album/73HVb8XPSHInVgAds4YBUt) | 2:51 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX137AZKLkKC6.md) - [plain]
 | 84 | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \- Versión Ranchera](https://open.spotify.com/track/2zGN2Pjf8FRZb3xYM0PkF3) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Le Hace Falta Un Beso \(feat\. Pipe Bueno\) \[Versión Ranchera\]](https://open.spotify.com/album/6Xg3KAks81uVX1lzsvg4gu) | 2:51 |
 | 85 | [Matemos Las Ganas](https://open.spotify.com/track/4DFy4AEko2E5Vwtj24nSuQ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Matemos Las Ganas](https://open.spotify.com/album/3T8h8FCiTVaB81R2mzlYgG) | 3:02 |
 
-Snapshot ID: `AAAAAJmud5GO9jUIcCKMbJOk02dWAhRT`
+Snapshot ID: `AAAAADyoCh1jcDgHQ6GEVM/CPbd1q8Yo`

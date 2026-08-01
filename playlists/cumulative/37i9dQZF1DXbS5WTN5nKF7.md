@@ -2,7 +2,7 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits avec Jennifer Lopez & David Guetta
+> Le meilleur des hits avec Jérémy Frerot
 
 520 songs - 1 day 2 hr 56 min
 

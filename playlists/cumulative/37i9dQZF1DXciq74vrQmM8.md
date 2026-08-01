@@ -2,7 +2,7 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. HMTLD
+> welcome to our universe ft\. HMLTD
 
 1,325 songs - 2 day 17 hr 28 min
 

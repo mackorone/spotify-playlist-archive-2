@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sarah Black",
-  "num_followers": 82932,
+  "num_followers": 82952,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFtQzMX2jejJY1DXSN548Ok/mFhw",
+  "snapshot_id": "AAAAAPItBcURhbpKSo2WtI2Yw5bsNMJZ",
   "tracks": [
     {
       "added_at": "2026-03-25 09:30:08",
@@ -271,6 +271,34 @@
       "duration_ms": 182349,
       "name": "Sainkalam",
       "url": "https://open.spotify.com/track/6Y79pDSEdv5ujs0suUEBXL"
+    },
+    {
+      "added_at": "2026-07-31 10:51:51",
+      "album": {
+        "name": "Yenadi",
+        "url": "https://open.spotify.com/album/6j6Qi5UtRZ88PTwb78owrK"
+      },
+      "artists": [
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Viss Ningthouja",
+          "url": "https://open.spotify.com/artist/6PUtQBfuW9sbsM38uJlVDF"
+        },
+        {
+          "name": "Sreekanth Hariharan",
+          "url": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
+        },
+        {
+          "name": "Tanvi Kamat",
+          "url": "https://open.spotify.com/artist/0vBAjGKbTcI4SDVRnp8Znv"
+        }
+      ],
+      "duration_ms": 190714,
+      "name": "Yenadi",
+      "url": "https://open.spotify.com/track/0r98oYeF5In7SCfgRR4B57"
     },
     {
       "added_at": "2026-07-03 05:14:10",

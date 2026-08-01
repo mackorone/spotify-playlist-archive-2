@@ -4,7 +4,7 @@
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: CHERNETSKA
 
-615 songs - 1 day 7 hr 22 min
+616 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 | 2024-10-25 | 2024-12-20 |
 | [Pasma](https://open.spotify.com/track/39mkIFlpSSZLVhXtRjWNJy) | [Anton Kukri](https://open.spotify.com/artist/6W9UHOF7DZZ63b32NvKZy6) | [Pasma](https://open.spotify.com/album/1cXnjIuoYAGhxjnbEhWE9X) | 2:43 | 2026-04-16 | 2026-07-17 |
 | [Persha Rika](https://open.spotify.com/track/5fWKuZGNM9mKGEDf0YigZK) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [Persha Rika](https://open.spotify.com/album/3yxNfBzZnbSxCFanJsssxF) | 4:44 | 2025-11-20 | 2025-11-28 |
+| [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 | 2026-07-31 |  |
 | [PIECES](https://open.spotify.com/track/0LSnGEfj4T8vJyi7lVU3Gn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BEFORE I FORGET \(DELUXE\)](https://open.spotify.com/album/6CACyqngQWTOAM1UpAtco3) | 3:25 | 2026-04-23 |  |
 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 | 2025-10-16 | 2026-01-30 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-27 | 2024-12-20 |
@@ -619,7 +620,7 @@
 | [Я тобі брехала](https://open.spotify.com/track/1G5M0Aox7zAnvFjPqSo3fY) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Я тобі брехала](https://open.spotify.com/album/4OIPWSye1kYzd9KnD0NMfs) | 2:17 | 2024-06-27 | 2024-09-28 |
 | [Яблучко](https://open.spotify.com/track/5i4GcoXoi0brjJRqfenfC5) | [Кажанна](https://open.spotify.com/artist/3OTyLjDNzzo72TGG8GwiDk) | [Рукокрила](https://open.spotify.com/album/1riuflPrPnY1MyPyxEeifl) | 2:36 | 2024-12-05 | 2024-12-30 |
 | [якщо це не по\-справжньому](https://open.spotify.com/track/5eCPcBBWHxkTJPJ92K2SoB) | [Nikow](https://open.spotify.com/artist/1ewZuAmm3Em0KlM0pIBwVe) | [живу\-відстукує](https://open.spotify.com/album/2kh3w0NEksJO1JDzXWhCZJ) | 3:11 | 2026-03-19 |  |
-| [Японія](https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Японія](https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx) | 2:34 | 2025-11-13 |  |
+| [Японія](https://open.spotify.com/track/617ECGnksDPGqkR0FKsoye) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [Японія](https://open.spotify.com/album/0kBKwloGNP7QnCbHnFiXmx) | 2:34 | 2025-11-13 | 2026-08-01 |
 | [і нехай](https://open.spotify.com/track/3S12aXTrmV1K1gLDDQmrHm) | [OKS](https://open.spotify.com/artist/6fBUVJW6cDrYluXjnnRdY4) | [НавіялО](https://open.spotify.com/album/2jyail16WtYHpAjmt5VI5h) | 2:49 | 2024-08-30 | 2024-09-08 |
 | [іній](https://open.spotify.com/track/5iHHQ57Z3ffRxbpg2xoLFw) | [JASE51](https://open.spotify.com/artist/4p0zdj463b929YZnJ5PcJg), [NANA SOLIS](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G) | [іній](https://open.spotify.com/album/2or0Df3MOQY9g3UJz5J6eW) | 2:48 | 2026-02-20 | 2026-04-17 |
 | [ІНІЙ](https://open.spotify.com/track/4YWHO5ztihkh5A5QXmxPPB) | [СТРУКТУРА ЩАСТЯ](https://open.spotify.com/artist/4AupETQEHkWQL9H3O6f9h8) | [ІНІЙ](https://open.spotify.com/album/4DancO9CYYXPlbYlGwumsW) | 2:36 | 2026-07-09 | 2026-07-31 |

@@ -4,7 +4,7 @@
 
 > May the Force be with you\. Listen to all the best Star Wars tracks, all in one place.
 
-188 songs - 10 hr 31 min
+189 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Who Are You?](https://open.spotify.com/track/3vzAoaGvVA7UFaVuGjUG0p) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 3:04 | 2021-05-14 | 2026-05-02 |
 | [Yoda's Theme](https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Star Wars: The Empire Strikes Back \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a) | 3:27 | 2021-05-14 |  |
 | [Your Father Would Be Proud](https://open.spotify.com/track/7FFvU6Jr6sRdbP36UFBwim) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 4:51 | 2026-05-01 |  |
+| [Zero Company \- From "Star Wars: Zero Company"/Score](https://open.spotify.com/track/01x29FdFvOR4JabjRfQKte) | [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Zero Company \(From "Star Wars: Zero Company"\)](https://open.spotify.com/album/0qlP2ONqzuHdeeXioprlJ6) | 1:17 | 2026-07-31 |  |
 | [“Chrome Dome”](https://open.spotify.com/track/1ACII6dVvZETwW8FtpDzfI) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX) | 2:01 | 2021-05-14 | 2026-05-02 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

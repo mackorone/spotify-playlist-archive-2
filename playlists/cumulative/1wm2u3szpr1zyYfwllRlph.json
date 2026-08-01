@@ -2479,6 +2479,24 @@
     },
     {
       "album": {
+        "name": "Just A Dream",
+        "url": "https://open.spotify.com/album/2Vx2LEXIeMQIpIdNYjf6Sa"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163181,
+      "name": "Just A Dream",
+      "url": "https://open.spotify.com/track/05IT7Gf3vIYFvjdR432NxJ"
+    },
+    {
+      "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/4820DjejEmYWCoV7lYGf8Y"
       },
@@ -2516,7 +2534,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 181609,
       "name": "Just The Way You Are - David Guetta Remix",
       "url": "https://open.spotify.com/track/5980rUQH7tLVv78lk4EIDU"
@@ -3292,6 +3310,32 @@
       "duration_ms": 117400,
       "name": "Mimosa (Now And Forever) (feat. Nyasia)",
       "url": "https://open.spotify.com/track/4cwb11VlH6JanT0s8g7KNO"
+    },
+    {
+      "album": {
+        "name": "Miss That (Major League DJz & Piero Farho Remix)",
+        "url": "https://open.spotify.com/album/3ZfqTXWUvQNlVCXhmVdOlv"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Piero Farho",
+          "url": "https://open.spotify.com/artist/52LDi8vYmgfoiEaTBWCWSh"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358000,
+      "name": "Miss That (Major League DJz & Piero Farho Remix)",
+      "url": "https://open.spotify.com/track/34IHtqjGPDBTpkR8Qq90LK"
     },
     {
       "album": {
@@ -4236,7 +4280,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 138036,
       "name": "Riptide (feat. Ilan Kidron)",
       "url": "https://open.spotify.com/track/3zAQQXsqLkD7ji4pQzKD0v"
@@ -4931,6 +4975,28 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1w9B74tuel6NHRQplSYx3a"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176551,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1DdmIbutzUGXkktMTkyWYh"
+    },
+    {
+      "album": {
         "name": "Still Into You",
         "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
       },
@@ -5262,7 +5328,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 182640,
       "name": "Tell Me Where U Go",
       "url": "https://open.spotify.com/track/4NuksWELZ9lBY9aazhZG16"

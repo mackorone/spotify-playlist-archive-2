@@ -428,7 +428,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 356159,
       "name": "A Point Most Crucial",
       "url": "https://open.spotify.com/track/24tSP08dcSnoT7rrrY9w9q"
@@ -600,6 +600,24 @@
       "duration_ms": 206229,
       "name": "ABBA/Mary - Christina Vantzou Remix",
       "url": "https://open.spotify.com/track/6fWrGJifl4VPOdW49BNlnD"
+    },
+    {
+      "album": {
+        "name": "Music To Watch Seeds Grow By 009: Patricia Wolf (Yarrow)",
+        "url": "https://open.spotify.com/album/5xwNkg1elWmMgJlXQUQlQX"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411500,
+      "name": "Abiotic Factors",
+      "url": "https://open.spotify.com/track/67zoX3gvQ1NRMAh7gcYwAU"
     },
     {
       "album": {

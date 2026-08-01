@@ -4,13 +4,14 @@
 
 > Enjoy the summer breeze with these sunny lounge beats ☀️
 
-265 songs - 13 hr 23 min
+269 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Long December](https://open.spotify.com/track/6DOoVmJg4Yw5ed4cEtsAKK) | [Los Types](https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N) | [A Long December](https://open.spotify.com/album/2XHrRPNh9Vj0bLCo2p3DxA) | 2:42 | 2022-03-10 | 2026-07-25 |
 | [A Thousand Miles](https://open.spotify.com/track/3Pi5zbgCtaUN2uFCS8toqo) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [A Thousand Miles](https://open.spotify.com/album/1bde2esHMYQPdFAngKDrDz) | 3:51 | 2023-04-14 | 2026-07-25 |
 | [Accidentally In Love](https://open.spotify.com/track/30vbL0UiPR2NeiiKKk9L9E) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Accidentally In Love](https://open.spotify.com/album/7BAXSSzHQB2XCWU3vry7dQ) | 2:48 | 2023-05-23 | 2023-06-10 |
+| [Aesa](https://open.spotify.com/track/4DbCRqD6qiPAtw6SQUPE7x) | [Astraley](https://open.spotify.com/artist/2nBlMka4XkNYVqTmazHwpI) | [Aesa](https://open.spotify.com/album/2AQD0yJdMpt7UpVZj3AkrU) | 2:00 | 2026-07-31 |  |
 | [Aishiteru](https://open.spotify.com/track/7tImitLob81848Jdy6MdUt) | [Bejnou](https://open.spotify.com/artist/2ACa9uyntS1aSduemgNj5k) | [Aishiteru](https://open.spotify.com/album/2nXIJK982tSqSTg5JZYdu9) | 2:12 | 2026-07-24 |  |
 | [All I Want](https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE) | [Rosebud Nash](https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE) | [All I Want](https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS) | 3:18 | 2023-06-09 | 2026-03-05 |
 | [all night long](https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [all night long](https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO) | 3:14 | 2024-02-23 | 2026-07-25 |
@@ -51,6 +52,7 @@
 | [Castle on the Hill \- Acoustic](https://open.spotify.com/track/0aIcKuGEu9NrI4r07KyJRc) | [Maygen Lacey](https://open.spotify.com/artist/6kByJTQTwVZUeJ2vOmHxK5) | [Castle on the Hill](https://open.spotify.com/album/4Veg0fmvBzK3aCZV8hzWUE) | 4:03 | 2022-03-10 | 2022-06-04 |
 | [Change The World \- Acoustic](https://open.spotify.com/track/0JoIuY82vgBX5JylD4GqfV) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Change The World \(Acoustic\)](https://open.spotify.com/album/4YMJqOrbqok6cjYjnNInZw) | 4:57 | 2022-03-10 | 2026-07-25 |
 | [Change The World \- Acoustic](https://open.spotify.com/track/1KNej6mE6NT21O4ArqqLLR) | [Striking Matches](https://open.spotify.com/artist/4v2DyasTOGK3Pv90w75yar) | [Change The World \(Acoustic\)](https://open.spotify.com/album/6NvmDNr7wCSqG7vMsdLyPw) | 4:57 | 2022-09-30 | 2024-04-19 |
+| [Changing Seasons](https://open.spotify.com/track/3wcTajkT6ps7nxRTwd3opj) | [Hello Carmelo](https://open.spotify.com/artist/05cbHwa8AL8Lq5Ezkb0RxC) | [Changing Seasons](https://open.spotify.com/album/6PP8sVuY60He4UpIzZ944x) | 2:32 | 2026-07-31 |  |
 | [Chasing Cars \(Acoustic\)](https://open.spotify.com/track/7segX2a0fynh3OYFyHnsqI) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Chasing Cars \(Acoustic\)](https://open.spotify.com/album/7xtPuadPQVQKfKUr7eQvC7) | 3:41 | 2023-04-14 | 2026-07-25 |
 | [Chasing Pavements](https://open.spotify.com/track/1tIEJc4Sgw1Op6Ef0fLSzV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Chasing Pavements](https://open.spotify.com/album/4ZBXi0owchcH5sIj5qyrn0) | 3:00 | 2024-02-23 | 2026-03-05 |
 | [Chemical](https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk) | [Abbie Parker](https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko) | [Chemical](https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64) | 3:07 | 2023-05-23 | 2026-03-05 |
@@ -161,6 +163,7 @@
 | [Louche](https://open.spotify.com/track/539yfBjIWrWJEGjM7nr5qC) | [nick rush](https://open.spotify.com/artist/2vwrWCNovHSx3BElXZoOBK) | [Louche](https://open.spotify.com/album/34yHku8rOIrEYwoWmDhSd5) | 2:07 | 2026-07-24 |  |
 | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/track/4mzSkWDdDDrd1i3wg1FfpC) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Love Me Like You Do \(Acoustic\)](https://open.spotify.com/album/4aX5Utj2TSwg3jc8felZng) | 2:36 | 2022-03-10 | 2026-07-25 |
 | [Love Or Something Like It](https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Love Or Something Like It](https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz) | 2:52 | 2022-05-05 | 2026-07-25 |
+| [Low Season](https://open.spotify.com/track/0YYoACOBoZBqWc1bo03XRo) | [Onda Kura](https://open.spotify.com/artist/1KLWNkshpPh67SV3yyM1gJ) | [Low Season](https://open.spotify.com/album/11q93cfQooNm1FqLl1iVcj) | 2:24 | 2026-07-31 |  |
 | [Make You Feel My Love](https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I) | [Morgan St\. Douglas](https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT) | [Make You Feel My Love](https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L) | 3:09 | 2024-02-23 | 2026-03-05 |
 | [Malenti Oo](https://open.spotify.com/track/0SPrF8WsYGf6OYT9cPVPaT) | [Pat Jr](https://open.spotify.com/artist/7F6eGe9WVjyshqDIdZo4KJ) | [Malenti Oo](https://open.spotify.com/album/5dnofIDJ6kBd3sneG1n2fc) | 2:12 | 2026-07-24 |  |
 | [Mama \- Acoustic](https://open.spotify.com/track/3VOtM6x5KXZuxSzHaaf9oO) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [William Singe](https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3) | [Mama \(Acoustic\)](https://open.spotify.com/album/0AIZFcHSbXf5B7XLRaPLN5) | 3:12 | 2022-03-10 | 2022-07-02 |
@@ -241,6 +244,7 @@
 | [Talk to Me](https://open.spotify.com/track/7N2owRWLVbvf6bUbjmhqMj) | [Lynn Valley Forest Club](https://open.spotify.com/artist/7H45BHV17knhQ0wkIWf42V) | [Talk to Me](https://open.spotify.com/album/221QFiXWytGmoBWdEMTQR6) | 2:09 | 2026-07-24 |  |
 | [tangerine](https://open.spotify.com/track/6IJ9v96Mexj1LnImwzzW3F) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [tangerine](https://open.spotify.com/album/39Xw18RsGz3d9EN8Jei2fg) | 2:16 | 2026-07-24 |  |
 | [Teal Bloom](https://open.spotify.com/track/09cLxbib7JJm5iSAoWr92Q) | [Maison Lune](https://open.spotify.com/artist/6QxpDDnrrYLloULqIeJAOw) | [Teal Bloom](https://open.spotify.com/album/7BfDNCeWMPGKmIwSrDuks3) | 2:08 | 2026-07-24 |  |
+| [Temperature](https://open.spotify.com/track/35bCCELOm73QAdUHpM0UJB) | [Baijings](https://open.spotify.com/artist/5qUY5l2lSFJgCuBFaXeikk) | [Temperature](https://open.spotify.com/album/4jEKl4NFAf2Zt5KzXjX7TW) | 3:20 | 2026-07-31 |  |
 | [Terazza](https://open.spotify.com/track/4WmKm3zNQ64SFLQUNV6Kwk) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Terazza](https://open.spotify.com/album/5IBwj5OT6YFdCTloxXhnfm) | 2:43 | 2026-07-24 |  |
 | [The A Team](https://open.spotify.com/track/5lbeUlfWKtXsUsOk6tscZz) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct) | [The A Team](https://open.spotify.com/album/5F0rVfRsZs4pbmjVlbVD55) | 3:05 | 2022-03-10 | 2023-04-14 |
 | [The Best](https://open.spotify.com/track/1cskeMwfKX1G0mV1T0ypHf) | [Von Allen](https://open.spotify.com/artist/6XzdZwXu9yspPxr3u2DnBG) | [The Best](https://open.spotify.com/album/0diqsjfEEOC1n4LVVLSMgr) | 3:37 | 2024-02-23 | 2026-03-05 |

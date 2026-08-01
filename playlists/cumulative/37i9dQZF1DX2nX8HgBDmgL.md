@@ -2,9 +2,9 @@
 
 ### [Desi Pop](https://open.spotify.com/playlist/37i9dQZF1DX2nX8HgBDmgL)
 
-> Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Yo Yo Honey Singh
+> Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Atif Aslam
 
-400 songs - 21 hr 43 min
+402 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Saanware](https://open.spotify.com/track/4LzjjNaJfnbPtJFYfMC8dc) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Saanware](https://open.spotify.com/album/5na4ciNJa3xQdvcjyUsyy5) | 3:15 | 2024-03-19 | 2025-09-19 |
 | [Sadi Sun](https://open.spotify.com/track/2OISeKFXjDKqNm4BlWaC0w) | [Harsh Nussi](https://open.spotify.com/artist/3i0OAds0OcYLQl3uuJsaKy) | [Sadi Sun](https://open.spotify.com/album/6ZENcGCDaHcZKVL9mX4nrf) | 2:51 | 2026-06-18 |  |
 | [Sadqay](https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s) | [Aashir Wajahat](https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo), [NAYEL](https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO), [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Sadqay](https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD) | 2:34 | 2024-02-22 |  |
+| [Safar Main Hu](https://open.spotify.com/track/5YIvOt2cALjy8cR6jviZRg) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly) | 3:23 | 2026-07-31 |  |
 | [Sahara](https://open.spotify.com/track/2ChR4qGCisHjtotYR3A7E2) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Sahara](https://open.spotify.com/album/20II8FBYNJDHNG2vn6LwG0) | 2:46 | 2025-08-01 | 2025-08-09 |
 | [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/37moX1cdAtkbIh9Harf3TN) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6C6VvGruQ0ezA6QewMUGPj) | 2:24 | 2022-02-25 | 2022-10-18 |
 | [Sahi Ja Nahi? \(Good Or Not?\) ft\. Raja Kumari](https://open.spotify.com/track/3NyEl4VKqV7WL6PO5BYrb6) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [The Blend](https://open.spotify.com/album/6yGj6xifVKbJNfOwPiXmQY) | 2:24 | 2022-09-02 | 2024-02-23 |
@@ -337,6 +338,7 @@
 | [STAY DOWN](https://open.spotify.com/track/6IhL06ppOuyRHEXJ8BlUXe) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [STAY DOWN](https://open.spotify.com/album/3tM9xF7q94gk2nYQjAT1sx) | 3:08 | 2023-06-06 | 2024-01-04 |
 | [Stay With Me](https://open.spotify.com/track/6GVYqMsa9Niic3cNrzIiOn) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Eyepatch](https://open.spotify.com/artist/1kmbGVNEUnTbq1yptaiOVj) | [Stay With Me](https://open.spotify.com/album/40urFCK6nr2VZ9lYyryZG8) | 2:29 | 2024-08-09 | 2024-09-10 |
 | [Stormrider](https://open.spotify.com/track/2GLdmRFgdGWQLThP5feQji) | [Jacqueline Fernandez](https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6) | [Stormrider](https://open.spotify.com/album/1lc7jvS3bJOwsNdJEtHFva) | 2:17 | 2024-09-20 | 2025-02-13 |
+| [Subah Aye](https://open.spotify.com/track/1bzcZBmmoCi415Tk7Hldyt) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly) | 5:23 | 2026-07-31 |  |
 | [Subho Shaam](https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Subho Shaam](https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ) | 2:56 | 2025-04-11 | 2025-06-30 |
 | [Summer Luv](https://open.spotify.com/track/1vwHEMn3RJBteolX643U9a) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Summer Luv](https://open.spotify.com/album/2weXKmabg9k3ejyWBxaNWb) | 3:01 | 2021-11-11 | 2022-07-19 |
 | [Sundari](https://open.spotify.com/track/5gsi1bSTPDIiW6Pi5kFmiU) | [Sanju Rathod](https://open.spotify.com/artist/4B9efXsA6sv4w3vts8E0T7), [G\-SPXRK](https://open.spotify.com/artist/7BcFJxi62f6cbPyxdTZGll) | [Sundari](https://open.spotify.com/album/3PsTebbjkIZRMvW6NB1nwM) | 2:41 | 2025-09-18 |  |

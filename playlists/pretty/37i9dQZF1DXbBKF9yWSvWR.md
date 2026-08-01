@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Benny Sings
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,825 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,860 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 7 | [Ogen Dicht](https://open.spotify.com/track/3EghzNU8bmcsLmlFbHEGmV) | [Het Algoritme](https://open.spotify.com/artist/0Iivrm0lwA0QXN0C4AlO8i), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [OGEN DICHT](https://open.spotify.com/album/1DlvHT4lzHTXjtRQTe7zah) | 2:22 |
 | 8 | [Blight](https://open.spotify.com/track/49MLQo97bae1S4OaDQ01in) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Blight](https://open.spotify.com/album/3Arvlvf9vzWbE66l5Q7n4j) | 3:01 |
 | 9 | [Lovesong](https://open.spotify.com/track/1OmvFEul06DRWow1ASDmm3) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Lovesong](https://open.spotify.com/album/25sE3Vx13NiCki6bHxzk3S) | 3:38 |
-| 10 | [Track 4](https://open.spotify.com/track/2Zfh0bnkS97vV49COMVgMB) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Midnight Blue](https://open.spotify.com/album/1OjUL0y8s2IhPryAFjT0gf) | 0:00 |
+| 10 | [Midnight Blue](https://open.spotify.com/track/2Zfh0bnkS97vV49COMVgMB) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Midnight Blue](https://open.spotify.com/album/1OjUL0y8s2IhPryAFjT0gf) | 2:00 |
 | 11 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
 | 12 | [Crab](https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Crab](https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B) | 3:15 |
 | 13 | [Unholy Sigh](https://open.spotify.com/track/0hPnLSvCt3FWuniVuS1X6H) | [Nelleke](https://open.spotify.com/artist/0gMqIo1XytRF3KiK8O2NUu) | [Unholy Sigh](https://open.spotify.com/album/1PecMc39JTlIBH5wdeb7PK) | 3:47 |

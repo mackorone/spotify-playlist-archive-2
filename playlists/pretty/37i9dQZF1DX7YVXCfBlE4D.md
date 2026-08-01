@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,875 likes - 170 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,921 likes - 170 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 79 | [Cuando Calienta el Sol](https://open.spotify.com/track/10QWn4LLuF3ANQWsoLOOT8) | [Trío Siboney](https://open.spotify.com/artist/0pLYvjogP9YspXH4ZQr14o) | [Boleros Tríos, Vol\. 1](https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA) | 3:26 |
 | 80 | [Toda Esta Gente](https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Toda Esta Gente](https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1) | 2:31 |
 | 81 | [Presentimiento](https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ) | [José Isidoro](https://open.spotify.com/artist/3nbcGaD8jhAuRC6SLuB2Hz), [Mauricio Hernandez Monterrubio](https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6) | [Presentimiento](https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr) | 3:00 |
-| 82 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
-| 83 | [Tomando Té](https://open.spotify.com/track/4f3hA3waUBOoC4gXmxRgfO) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld) | [The Platinum Collection](https://open.spotify.com/album/2zx3c4VaPQvfGxS7CED9C7) | 2:47 |
-| 84 | [La Morena](https://open.spotify.com/track/548xag3N1RRqouKbnrkCex) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 2:55 |
+| 82 | [Tomando Té](https://open.spotify.com/track/4f3hA3waUBOoC4gXmxRgfO) | [Leo Marini](https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld) | [The Platinum Collection](https://open.spotify.com/album/2zx3c4VaPQvfGxS7CED9C7) | 2:47 |
+| 83 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
+| 84 | [Noche Negra](https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Noche Negra](https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE) | 1:59 |
 | 85 | [Parece Que Fue Ayer](https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [Parece Que Fue Ayer](https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64) | 2:48 |
-| 86 | [Noche Negra](https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Noche Negra](https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE) | 1:59 |
+| 86 | [La Morena](https://open.spotify.com/track/548xag3N1RRqouKbnrkCex) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV) | [Guitarras Latinas](https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD) | 2:55 |
 | 87 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
 | 88 | [Pensamiento](https://open.spotify.com/track/7GxIlqOjYpmh080KhtOrtE) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Pensamiento](https://open.spotify.com/album/1uuYnEN87b3BkbQlQmbf0F) | 2:16 |
 | 89 | [Voy A Apagar La Luz](https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Voy A Apagar La Luz](https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu) | 2:23 |
@@ -121,8 +121,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 111 | [Bésame Mucho](https://open.spotify.com/track/1IakF23BjmwKWnX0Xo1OfP) | [Las Verdes](https://open.spotify.com/artist/1EYHVHmQJl5adHTZ0RZqvW) | [Bésame Mucho](https://open.spotify.com/album/47tiylr6L7gVgdhtMJQDGT) | 2:59 |
 | 112 | [Amor Que Malo Eres](https://open.spotify.com/track/4Xwg1xbEg5Dx4N3PMEisKQ) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Amor Que Malo Eres](https://open.spotify.com/album/1OKUKlhIVJwedZcUkrBcBB) | 2:36 |
 | 113 | [Ya Te Olvide](https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Ya Te Olvide](https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ) | 2:28 |
-| 114 | [Seguiré Mi Viaje](https://open.spotify.com/track/0CLvxdyV0Oi8r1n5tIx5xw) | [Pepe Jara](https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl) | [Tesoros de Colección \- Las Estrellas de la Hora Azul](https://open.spotify.com/album/5BOUGL5DKea3WtnFxX93YP) | 2:28 |
-| 115 | [Prisionero del Mar](https://open.spotify.com/track/2CtKDMxqQZ0GJvozsbXvxd) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Los Grandes Éxitos de Luis Arcaraz](https://open.spotify.com/album/5212xtIwURSLaPL9XpsyQO) | 2:59 |
+| 114 | [Prisionero del Mar](https://open.spotify.com/track/2CtKDMxqQZ0GJvozsbXvxd) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [Los Grandes Éxitos de Luis Arcaraz](https://open.spotify.com/album/5212xtIwURSLaPL9XpsyQO) | 2:59 |
+| 115 | [Seguiré Mi Viaje](https://open.spotify.com/track/0CLvxdyV0Oi8r1n5tIx5xw) | [Pepe Jara](https://open.spotify.com/artist/6OgrmJe15LhZrdbRQxE2Bl) | [Tesoros de Colección \- Las Estrellas de la Hora Azul](https://open.spotify.com/album/5BOUGL5DKea3WtnFxX93YP) | 2:28 |
 | 116 | [Lamento Jarocho](https://open.spotify.com/track/6pymCUKfbAhsqpv0h1VSWu) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Noche criolla](https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf) | 2:37 |
 | 117 | [Cómo Han Pasado Los Años](https://open.spotify.com/track/76pVkjsBBjrO1Cn6pLw8sk) | [Esmeralda Olasabal](https://open.spotify.com/artist/3F9UXVx0qJ5Hitw535URUH) | [Esmeralda Olasabal](https://open.spotify.com/album/2BM3B53KjhWy8MGMHCRy8v) | 4:01 |
 | 118 | [Noches de Mazatlán \- Remasterizado](https://open.spotify.com/track/7LuZKsgKH1PBqguxRqI5Ad) | [Pedro Vargas](https://open.spotify.com/artist/1ZsL2cs2MYJKqwkVwdGtOd) | [Lo Esencial de Don Pedro Vargas](https://open.spotify.com/album/4IE1G3yv3JXu5cZY4tpNcZ) | 3:02 |

@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-264 songs - 11 hr 8 min
+265 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [What Time Reveals](https://open.spotify.com/track/4Zz8LPaZgjdw2z8s9ZMCU8) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [What Time Reveals](https://open.spotify.com/album/1yTPbfXRRusyFpv8vfuqde) | 2:50 | 2025-04-16 |  |
 | [Where Silence Begins](https://open.spotify.com/track/6N19DEFhX7HjwdmPtzJecp) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Where Silence Begins](https://open.spotify.com/album/7FM7gTxkStCFzX0Hsto8aD) | 1:40 | 2026-07-03 |  |
 | [Wind In My Hair](https://open.spotify.com/track/4N82ErjM4xuWYsRfPBqACk) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Wind In My Hair](https://open.spotify.com/album/2voHslwBPDj7eM3WJmy9pJ) | 2:05 | 2024-05-01 |  |
+| [Windless Morning](https://open.spotify.com/track/5NhWppp1A4BVAOLOZ3ZlyZ) | [Carl Kaleo](https://open.spotify.com/artist/4mcRi26s1KUkHVFcD3opEY) | [Windless Morning](https://open.spotify.com/album/6ZcmGaRHhXsomwFI7IzWkC) | 2:29 | 2026-07-31 |  |
 | [Wish](https://open.spotify.com/track/6xld6bFu5ST7nickcSK1lP) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Wish](https://open.spotify.com/album/5tkPTjFGKUGziNsROnBfya) | 2:48 | 2023-12-12 |  |
 | [With Fewer Tensions](https://open.spotify.com/track/0Sd9ECo0muEWnz9CTP1TAT) | [Douglas Simmons](https://open.spotify.com/artist/165sed6LuybeRD22A8kzPS) | [With Fewer Tensions](https://open.spotify.com/album/5GvWxTKxOSzDLGJG6cu0b1) | 3:13 | 2023-05-09 | 2024-11-07 |
 | [Worn, Torn and Beautiful](https://open.spotify.com/track/3OlZj48BbU9OHoeL0mbAB2) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Worn, Torn and Beautiful](https://open.spotify.com/album/6pmwVjP0vMio73k949BsA4) | 2:09 | 2023-05-09 | 2024-11-07 |

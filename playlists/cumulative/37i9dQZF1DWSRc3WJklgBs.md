@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,603 songs - 3 day 20 hr 24 min
+1,605 songs - 3 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [Flames \- David Guetta Remix](https://open.spotify.com/track/1mvghSCONexEGEuSJVbnsT) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Flames](https://open.spotify.com/album/2gIxDM4WeTdqfkPEDVjQkc) | 6:08 | 2019-08-09\* | 2019-09-09 |
 | [Float](https://open.spotify.com/track/6kvYEf1izDYGm3K4f9yNjI) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Float](https://open.spotify.com/album/2zuDKJlNbAwdsABVi3PD1n) | 3:47 | 2021-10-23 | 2022-05-14 |
 | [Float Away](https://open.spotify.com/track/03P8OuXYbTy6dCWq007z1q) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Float Away](https://open.spotify.com/album/3YbdmVuq1XbnSW6Py88gu2) | 3:20 | 2022-08-12 | 2023-10-21 |
+| [Flutters](https://open.spotify.com/track/0J69znxsYGXhY7cvEhuTqo) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Audra Miller](https://open.spotify.com/artist/7u3oRlaehXDcEJBMKjoe51) | [Flutters](https://open.spotify.com/album/6uUmp5LDUJ1BV8ZEa7yV35) | 3:31 | 2026-07-31 |  |
 | [Fly](https://open.spotify.com/track/2HO0uCyq8jOveEzvmo4JEu) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Fly](https://open.spotify.com/album/3HuhZO6x7i7vXqjQfOEh7b) | 3:13 | 2019-08-09\* | 2019-09-14 |
 | [Fly Away \- VisionV Remix](https://open.spotify.com/track/1p0oulKZjkdrGSTekew8tH) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Fly Away \(VisionV Remix\)](https://open.spotify.com/album/1lbZ4ecQSVlZAtL8hDewja) | 2:56 | 2026-01-09 | 2026-07-18 |
 | [Fly To New York \- Above & Beyond vs\. Jason Ross Radio Edit](https://open.spotify.com/track/3CCGXk3YADX00XopgLbe7u) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150) | [Fly To New York](https://open.spotify.com/album/7hjtlxQTdO5RqRVtwONTs1) | 3:19 | 2019-08-09\* | 2019-09-02 |
@@ -1269,6 +1270,7 @@
 | [Start Again](https://open.spotify.com/track/6AvPvdPQaRlsyrdP7PzeLU) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [In Our Own Way](https://open.spotify.com/album/0FvlZWhj9GnUosWOfZxkVc) | 3:09 | 2023-08-04 | 2024-08-10 |
 | [Start It Over \(feat\. KC\)](https://open.spotify.com/track/4Y3hmcRgFw88qJnXGzCwkq) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Start It Over \(feat\. KC\)](https://open.spotify.com/album/4BcDAfQlDRPek8jSKQRw6W) | 3:15 | 2022-04-29 | 2024-04-10 |
 | [State Of My Heart](https://open.spotify.com/track/2wPG888F5AMkxILKc9Pc3Q) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Nat Dunn](https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni) | [State Of My Heart](https://open.spotify.com/album/7wShfmCoQeQI9abSH3zlN5) | 2:56 | 2022-10-07 | 2025-07-19 |
+| [Stay](https://open.spotify.com/track/1DdmIbutzUGXkktMTkyWYh) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Stay](https://open.spotify.com/album/1w9B74tuel6NHRQplSYx3a) | 2:56 | 2026-07-31 |  |
 | [Stay](https://open.spotify.com/track/338TIKCI7nyNsARr0bxSVX) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG) | [Stay](https://open.spotify.com/album/0Xt2vlSkNKlx1aI9M7aBDc) | 3:10 | 2025-07-25 | 2026-06-27 |
 | [Stay \(feat\. Karen Harding\)](https://open.spotify.com/track/7eNF3i7lHKtRwlvMfbNu9M) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Stay \(feat\. Karen Harding\)](https://open.spotify.com/album/7DNteGyvbzO8o1XpVQoFVE) | 3:29 | 2019-08-09\* | 2020-03-29 |
 | [Stay 4 U](https://open.spotify.com/track/7ic1zj8awFw8dp0uu2VV12) | [Caius](https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi) | [Stay 4 U](https://open.spotify.com/album/2YPDu0pGRiGESnixTgFQe7) | 3:04 | 2026-02-20 |  |

@@ -688,7 +688,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 148124,
       "name": "3 Am in Dallas",
       "url": "https://open.spotify.com/track/4UEDQICzTDRGXZDdY6d7MX"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 143250,
       "name": "300 Blackout (with YTB Fatt & Fox BD)",
       "url": "https://open.spotify.com/track/5UhTVEMyo8YzYzbUjjhHBI"
@@ -2394,6 +2394,24 @@
       "duration_ms": 122338,
       "name": "All In",
       "url": "https://open.spotify.com/track/1sE7vQVIRzptUgsx2TH4Gy"
+    },
+    {
+      "album": {
+        "name": "All Is",
+        "url": "https://open.spotify.com/album/1zKiLksqDwo1yb695bYenS"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145262,
+      "name": "All Is",
+      "url": "https://open.spotify.com/track/1QPdCZYB41RYhol54uNOp0"
     },
     {
       "album": {
@@ -10606,7 +10624,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 180693,
       "name": "Do What I Wanna",
       "url": "https://open.spotify.com/track/1rPkYdAKkPolii1jxqFjpb"
@@ -15602,7 +15620,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 140768,
       "name": "Go",
       "url": "https://open.spotify.com/track/61j87rRrHwgiLTlDQDOhFP"
@@ -18121,6 +18139,28 @@
     },
     {
       "album": {
+        "name": "Southside Superstars",
+        "url": "https://open.spotify.com/album/4tpZ8SAQzqKgzyRDcQDjml"
+      },
+      "artists": [
+        {
+          "name": "Fatt Macc",
+          "url": "https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4"
+        },
+        {
+          "name": "Lausane",
+          "url": "https://open.spotify.com/artist/1lOFYPSKJbTRxcdZYe48bc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123625,
+      "name": "Hood On My Back",
+      "url": "https://open.spotify.com/track/49WmKcDHkJSa2x1MSkrLw1"
+    },
+    {
+      "album": {
         "name": "Hood Rats (with Sukihana)",
         "url": "https://open.spotify.com/album/1dkqNDedqxeSUyFnmHL8Nx"
       },
@@ -18910,6 +18950,24 @@
       "duration_ms": 205935,
       "name": "Hush",
       "url": "https://open.spotify.com/track/7AnW197sdNsoNrgV3OLW4e"
+    },
+    {
+      "album": {
+        "name": "Hustle",
+        "url": "https://open.spotify.com/album/7yTh2PGGQt9hX9mqA4Nya7"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139008,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/6nNFD1a4VgwwYVg87jUj4Z"
     },
     {
       "album": {
@@ -21360,7 +21418,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 154800,
       "name": "Just Tweakin",
       "url": "https://open.spotify.com/track/3HOankECihM4vm5EhAQIN9"
@@ -22895,6 +22953,24 @@
     },
     {
       "album": {
+        "name": "LETTER 2 THE TRENCHES",
+        "url": "https://open.spotify.com/album/561MRH86PHn7hNmOHf80HD"
+      },
+      "artists": [
+        {
+          "name": "Lil Zay Osama",
+          "url": "https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179382,
+      "name": "LETTER 2 THE TRENCHES",
+      "url": "https://open.spotify.com/track/1Vb9aHRqEjMOfvadEzSELT"
+    },
+    {
+      "album": {
         "name": "Letter To My Block",
         "url": "https://open.spotify.com/album/4sEo0V4bfSD5iV3ZOowPlz"
       },
@@ -24358,7 +24434,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 145296,
       "name": "Make America Trap Again",
       "url": "https://open.spotify.com/track/4jSyFCQ5aqrVbkWa7FgjMQ"
@@ -25490,7 +25566,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 154825,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/2YjswL5Vwic7uIgTrhgwrI"
@@ -27671,6 +27747,24 @@
     },
     {
       "album": {
+        "name": "Nightmares To Dreams",
+        "url": "https://open.spotify.com/album/7pimoRaeILGeWTQPOpwADL"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194473,
+      "name": "Nightmares To Dreams",
+      "url": "https://open.spotify.com/track/55t0oslolWtghfZX5VAJ9X"
+    },
+    {
+      "album": {
         "name": "Nino",
         "url": "https://open.spotify.com/album/12iv9VXqpbk8zTormKRAno"
       },
@@ -27820,6 +27914,24 @@
       "duration_ms": 161187,
       "name": "No Drop",
       "url": "https://open.spotify.com/track/3czK7L8yxjEZWO3grVWF3G"
+    },
+    {
+      "album": {
+        "name": "No Effort 2",
+        "url": "https://open.spotify.com/album/0Lq5HQZnFwpDTyGzkcWr6Z"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144020,
+      "name": "No Effort 2",
+      "url": "https://open.spotify.com/track/6M0ZCGGqpTOC0OGiFaJuAA"
     },
     {
       "album": {
@@ -29132,7 +29244,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 107088,
       "name": "On Da Flo",
       "url": "https://open.spotify.com/track/33May2oDlzqjl2u8oSZg42"
@@ -33911,6 +34023,24 @@
     },
     {
       "album": {
+        "name": "Rich Wizard",
+        "url": "https://open.spotify.com/album/4vXgkO1L0LuLnzzY47BH6r"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163096,
+      "name": "Rich Wizard",
+      "url": "https://open.spotify.com/track/65kfzCDZRfiIsX28kK1WGk"
+    },
+    {
+      "album": {
         "name": "Richer",
         "url": "https://open.spotify.com/album/48z2k3V6BZm4fsJSp6LjKg"
       },
@@ -36680,6 +36810,24 @@
       "duration_ms": 223820,
       "name": "Show Me Different",
       "url": "https://open.spotify.com/track/3O5pKSTofn7QyXR0izGUNj"
+    },
+    {
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4wojhti4OERoaKTi8pFbTc"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187013,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/0lvsPMru2v8WzadA3t4Poi"
     },
     {
       "album": {
@@ -41256,6 +41404,24 @@
       "duration_ms": 146796,
       "name": "They Can't FWM",
       "url": "https://open.spotify.com/track/6PPsAQKwX6lqH3ODT9xF35"
+    },
+    {
+      "album": {
+        "name": "They Can\u2019t Count",
+        "url": "https://open.spotify.com/album/0j5uHtWI3vVZlbMuviaTfK"
+      },
+      "artists": [
+        {
+          "name": "Dee Mula",
+          "url": "https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121752,
+      "name": "They Can\u2019t Count",
+      "url": "https://open.spotify.com/track/5wYRluwyyBS5lkPHzEvikU"
     },
     {
       "album": {
@@ -46378,7 +46544,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 152424,
       "name": "Won't Say Too Much",
       "url": "https://open.spotify.com/track/1wQqdHoDPB1bLDwilNBVUn"

@@ -1,13 +1,33 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Martin Garrix & U2 ",
-  "num_followers": 435415,
+  "description": "The hottest new pop with all the drops. Cover: Swedish House Mafia & Lykke Li ",
+  "num_followers": 436601,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADQrmJJdRyovRlxbwPvmuSZ6YPjT",
+  "snapshot_id": "AAAAABKJAn9QBCKggKM0rHz6nDe3SqdH",
   "tracks": [
+    {
+      "added_at": "2026-07-31 04:02:32",
+      "album": {
+        "name": "Happiness Is So Sad",
+        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 232835,
+      "name": "Happiness Is So Sad",
+      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
+    },
     {
       "added_at": "2026-07-24 04:02:09",
       "album": {
@@ -69,6 +89,26 @@
       "url": "https://open.spotify.com/track/0OSQ0TsQRyKBGGOTT5Wx2L"
     },
     {
+      "added_at": "2026-07-31 04:02:32",
+      "album": {
+        "name": "Higher (feat. Rita Ora)",
+        "url": "https://open.spotify.com/album/1KLlMRa36B3s4E4s11wcDh"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 150671,
+      "name": "Higher (feat. Rita Ora)",
+      "url": "https://open.spotify.com/track/68ROeDTnieAmMrQrMJlnsY"
+    },
+    {
       "added_at": "2026-07-10 04:14:54",
       "album": {
         "name": "Boston",
@@ -111,6 +151,26 @@
       "duration_ms": 187686,
       "name": "World Away",
       "url": "https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0"
+    },
+    {
+      "added_at": "2026-07-31 04:02:32",
+      "album": {
+        "name": "Careful",
+        "url": "https://open.spotify.com/album/524f63QHVObJQoDoYjqGPF"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 160911,
+      "name": "Careful",
+      "url": "https://open.spotify.com/track/1kk2PNrO9mfMuwEGnAOipt"
     },
     {
       "added_at": "2026-07-24 04:02:09",
@@ -223,6 +283,26 @@
       "duration_ms": 146000,
       "name": "Last Day of Summer",
       "url": "https://open.spotify.com/track/2L2j1Tl42CuuXHl5lU8mcX"
+    },
+    {
+      "added_at": "2026-07-31 04:02:32",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1w9B74tuel6NHRQplSYx3a"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1DdmIbutzUGXkktMTkyWYh"
     },
     {
       "added_at": "2026-07-24 04:02:09",
@@ -1627,26 +1707,6 @@
     {
       "added_at": "2026-05-15 04:01:24",
       "album": {
-        "name": "Repeat It",
-        "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 191716,
-      "name": "Repeat It",
-      "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
-    },
-    {
-      "added_at": "2026-05-15 04:01:24",
-      "album": {
         "name": "I\u2019m your girl right?",
         "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
       },
@@ -1659,26 +1719,6 @@
       "duration_ms": 169059,
       "name": "I\u2019m your girl right?",
       "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
-    },
-    {
-      "added_at": "2026-05-15 04:01:24",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/1ejxqX9sf8WXahJzVrjD2s"
-      },
-      "artists": [
-        {
-          "name": "Planningtorock",
-          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/7DNlr75yw0OcYLgYXvmGY1"
     },
     {
       "added_at": "2026-05-15 04:01:24",
@@ -1699,22 +1739,6 @@
       "duration_ms": 216054,
       "name": "red bikini",
       "url": "https://open.spotify.com/track/6HRfpEsRjpbi0vuS2od9t9"
-    },
-    {
-      "added_at": "2026-05-15 04:01:24",
-      "album": {
-        "name": "Poser",
-        "url": "https://open.spotify.com/album/4jSSgjHPTpw3x6jnNbVD1d"
-      },
-      "artists": [
-        {
-          "name": "ilykimchi",
-          "url": "https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb"
-        }
-      ],
-      "duration_ms": 119338,
-      "name": "Poser",
-      "url": "https://open.spotify.com/track/5YandKtJP8NChZW4CDSFj1"
     },
     {
       "added_at": "2026-05-15 04:01:24",

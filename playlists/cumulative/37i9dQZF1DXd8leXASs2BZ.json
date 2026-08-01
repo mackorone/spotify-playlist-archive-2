@@ -11663,6 +11663,28 @@
     },
     {
       "album": {
+        "name": "GAME CHANGE",
+        "url": "https://open.spotify.com/album/7zfnXpBgN3dtdNhkmZq3hj"
+      },
+      "artists": [
+        {
+          "name": "Gam Ball",
+          "url": "https://open.spotify.com/artist/4BuoZTTiixgFgZxB4gCW83"
+        },
+        {
+          "name": "Yvngboi P",
+          "url": "https://open.spotify.com/artist/6OpF456GdtGi3oqOafqVWW"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159053,
+      "name": "Goldie Sound (feat. Yvngboi P)",
+      "url": "https://open.spotify.com/track/5kXYF2zevh8CNVsaX97jtj"
+    },
+    {
+      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/2YS5frwK8EdONe5u5QKjim"
       },

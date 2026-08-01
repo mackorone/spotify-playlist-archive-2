@@ -400,7 +400,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 266302,
       "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
       "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 311811,
       "name": "Abre Alas",
       "url": "https://open.spotify.com/track/5fIxKygXuceGxfawPWrnni"
@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 271285,
       "name": "Beleza",
       "url": "https://open.spotify.com/track/6fNO8kUQv98XLDmIiopTwd"
@@ -4498,7 +4498,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 189144,
       "name": "Capit\u00e3o Kirk",
       "url": "https://open.spotify.com/track/0nA7Gpcz8TrRGRtzwmBk4R"
@@ -5836,7 +5836,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 219942,
       "name": "Criaturas da Noite",
       "url": "https://open.spotify.com/track/4Ei3Nv53tUWbhityquzSWA"
@@ -6498,6 +6498,24 @@
       "duration_ms": 96396,
       "name": "Desculpa",
       "url": "https://open.spotify.com/track/1osMwBr58lJScAR0ACIvFB"
+    },
+    {
+      "album": {
+        "name": "Desculpe o Au\u00ea",
+        "url": "https://open.spotify.com/album/1Enxf1GkO9hGUOszxHFCP0"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201627,
+      "name": "Desculpe o Au\u00ea",
+      "url": "https://open.spotify.com/track/0AaKcnzMnTmK4646nPOYR4"
     },
     {
       "album": {
@@ -8652,7 +8670,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 189019,
       "name": "Fealh\u00e1",
       "url": "https://open.spotify.com/track/3sb1yYFxHuPNWDBH499Ut4"
@@ -11877,6 +11895,28 @@
     },
     {
       "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/6Am8f0TMsrOP5dojkTlW58"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Sebrae Nosso Canto",
+          "url": "https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178698,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/6TM4bYzz9JeMJIRTXd7T6g"
+    },
+    {
+      "album": {
         "name": "Maria Maria - Spotify Singles",
         "url": "https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi"
       },
@@ -12342,6 +12382,24 @@
       "duration_ms": 190773,
       "name": "Medita\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0ueOxHSHracxaMRZslZt05"
+    },
+    {
+      "album": {
+        "name": "Disparada Ao Vivo Em B\u00fazios",
+        "url": "https://open.spotify.com/album/0OiBMiXCve71eWjFR4fn4G"
+      },
+      "artists": [
+        {
+          "name": "Mari Jasca",
+          "url": "https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369806,
+      "name": "Medley Latino - Ao Vivo",
+      "url": "https://open.spotify.com/track/2aJKzqgQWPHl54LcoYc30N"
     },
     {
       "album": {
@@ -13146,6 +13204,28 @@
       "duration_ms": 137307,
       "name": "Muito Prazer, Meu Nome \u00c9 Salvador",
       "url": "https://open.spotify.com/track/0rQJPTuRaGV06L9h37tROG"
+    },
+    {
+      "album": {
+        "name": "Fervo Unboxing - Mari Merenda",
+        "url": "https://open.spotify.com/album/732IpAuN6tq7d0HoevmICq"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Fervo Unboxing",
+          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293126,
+      "name": "Mulher Corvo",
+      "url": "https://open.spotify.com/track/0J5C98ACNHQ5Dyl2sNvjp4"
     },
     {
       "album": {
@@ -14440,6 +14520,24 @@
       "duration_ms": 168679,
       "name": "N\u00e3o Sei De Mais Nada",
       "url": "https://open.spotify.com/track/22uP000WPa2yUnfSKCB6zD"
+    },
+    {
+      "album": {
+        "name": "Inofensiva Flor (Primeiro Ato)",
+        "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
+      },
+      "artists": [
+        {
+          "name": "SalDoce",
+          "url": "https://open.spotify.com/artist/79k0fJ9NVmt26RyXfBNZuG"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179029,
+      "name": "N\u00e3o Sento \u00e0 Mesa",
+      "url": "https://open.spotify.com/track/0vxOkyxPdPvz376YDuBcHZ"
     },
     {
       "album": {
@@ -16558,6 +16656,46 @@
       "duration_ms": 191941,
       "name": "Peito Aberto",
       "url": "https://open.spotify.com/track/3LwpgwdlbC5kCRlPTrf2W8"
+    },
+    {
+      "album": {
+        "name": "Em Sil\u00eancio o Afeto Cresce",
+        "url": "https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs"
+      },
+      "artists": [
+        {
+          "name": "Rafa Castro",
+          "url": "https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Perdi Meu Rumo Na Sua Boca",
+      "url": "https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw"
+    },
+    {
+      "album": {
+        "name": "Perfei\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250880,
+      "name": "Perfei\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp"
     },
     {
       "album": {
@@ -19251,6 +19389,24 @@
     },
     {
       "album": {
+        "name": "Esquina do Sol",
+        "url": "https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204208,
+      "name": "Reza Braba",
+      "url": "https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a"
+    },
+    {
+      "album": {
         "name": "Chico Chico Ao Vivo na Macaco Gordo",
         "url": "https://open.spotify.com/album/6j6DYeSZoHiyBkuxabhNq5"
       },
@@ -20032,7 +20188,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 159258,
       "name": "Se Acabou",
       "url": "https://open.spotify.com/track/08LLtcRnpmGk0jXhO0yHvs"
@@ -24114,7 +24270,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 156000,
       "name": "Vera Cruz",
       "url": "https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ"

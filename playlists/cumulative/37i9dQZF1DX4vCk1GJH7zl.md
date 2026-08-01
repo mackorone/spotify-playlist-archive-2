@@ -2,9 +2,9 @@
 
 ### [Rock Leve](https://open.spotify.com/playlist/37i9dQZF1DX4vCk1GJH7zl)
 
-> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Colomy, Peter Buck
+> Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Maglore
 
-239 songs - 14 hr 17 min
+240 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [Proposta](https://open.spotify.com/track/5YNikQYqgUZIVhDJC0Q3TO) | [Davi Leão](https://open.spotify.com/artist/63PbB9qmaVblxOqBoOb2g7) | [Proposta](https://open.spotify.com/album/0u0CKWaPgFtWjzACLHQsle) | 2:46 | 2024-10-18 | 2025-05-31 |
 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 | 2023-07-21 |  |
 | [Pólen](https://open.spotify.com/track/5a55PUJFZ4HkEqsS1oOTMg) | [Supercombo](https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Pólen](https://open.spotify.com/album/5tAqPQ72NUjJRdO0yyhsDZ) | 4:10 | 2023-10-20 | 2024-02-24 |
-| [Qual é o fim?](https://open.spotify.com/track/4FUAnqFwmOiym89Rwmy1f1) | [Viralata](https://open.spotify.com/artist/4nzGWvAnomcGsvVhNyZ0xn), [QuatroK](https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n) | [Qual é o fim?](https://open.spotify.com/album/1DoCydT1FLrVHHjKG5iv3Y) | 3:20 | 2026-07-10 |  |
+| [Qual é o fim?](https://open.spotify.com/track/4FUAnqFwmOiym89Rwmy1f1) | [Viralata](https://open.spotify.com/artist/4nzGWvAnomcGsvVhNyZ0xn), [QuatroK](https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n) | [Qual é o fim?](https://open.spotify.com/album/1DoCydT1FLrVHHjKG5iv3Y) | 3:20 | 2026-07-10 | 2026-08-01 |
 | [Qualquer Lugar](https://open.spotify.com/track/0chOJa6EheSEbjy3miQn2A) | [Matheus de Bezerra](https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [MOBILE LAB](https://open.spotify.com/artist/5jGDIZzcLyiXnEDhMkC5Kw) | [Qualquer Lugar](https://open.spotify.com/album/6bib8zqBX9MRfSPZSoixba) | 3:21 | 2023-07-21 | 2024-04-13 |
 | [Quanto Tempo Demora Um Mês](https://open.spotify.com/track/64kByFEamIW6sVECquQlRm) | [Biquini Cavadão](https://open.spotify.com/artist/7E5dcvoiZra9wwBuXYAYTw) | [Quanto Tempo Demora Um Mês](https://open.spotify.com/album/6umXN07xdVY0zfabiVqrf8) | 3:30 | 2023-07-21 |  |
 | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/track/4JpxLYN0FbxVBin0LaGm9m) | [Chella](https://open.spotify.com/artist/0PfKBDzVqAXKEnTQvHvT5a) | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/album/4k4LWyZ69kQQlgVfx0HZtd) | 3:25 | 2025-07-11 |  |
@@ -197,6 +197,7 @@
 | [Semáforo](https://open.spotify.com/track/1Nn7sJLkzaWrbtW6WuifT8) | [Vanguart](https://open.spotify.com/artist/0rexWKb4rBwWS07SoHqsX0) | [Vanguart](https://open.spotify.com/album/5k6JkVcDqhyXyghf8hPBmX) | 3:49 | 2026-04-03 |  |
 | [Sete Cores do Meu Céu](https://open.spotify.com/track/1MOCZhEQZkLaQxd8VitPFi) | [Tina Werneck](https://open.spotify.com/artist/0C2IIT80iQ6RnOu4bd2S6C) | [Sete Cores do Meu Céu](https://open.spotify.com/album/0RkYUXmZYZA0BxXqVOI7X6) | 4:06 | 2023-07-21 | 2023-09-16 |
 | [Simplesmente](https://open.spotify.com/track/60m0V9vDxXMfBn9geBFOIn) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Simplesmente](https://open.spotify.com/album/3ac6zkBEQu4VBuEEZ6A5nZ) | 3:42 | 2023-07-21 |  |
+| [Sonho Real](https://open.spotify.com/track/014b1uSr2h35A5jqMfpGfs) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Sonho Real, Raio de Sol](https://open.spotify.com/album/3kG1CJ42pOnL15mokG3IJb) | 3:47 | 2026-07-31 |  |
 | [Sr\. Sono](https://open.spotify.com/track/2Eb5ve6iXOtUr4YhPWRFg7) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm) | [Sr\. Sono](https://open.spotify.com/album/0Z2oPvMq31Hrm940is09NV) | 2:48 | 2024-04-26 | 2024-06-08 |
 | [Stonehenge \(Live\)](https://open.spotify.com/track/4ZKiLTqCXQLvzzmnRu9LpY) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos; Live\)](https://open.spotify.com/album/7jmk1wr6sJdWCiQpw32iJ1) | 4:12 | 2023-11-03 | 2024-04-19 |
 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 | 2023-08-25 |  |

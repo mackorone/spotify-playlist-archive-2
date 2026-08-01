@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-333 songs - 20 hr 41 min
+336 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Last Chance to Dance \(Bad Friend\)](https://open.spotify.com/track/0o49yIEUZUoCTJ1qRnqFUO) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [You're Welcome](https://open.spotify.com/album/1JiQM9ygHBPtO18Lvqyd2i) | 3:05 | 2022-07-25 |  |
 | [Last Resort](https://open.spotify.com/track/5eek2X5459T1HoYJk2CKXv) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/3VdXq4YQIt3ugs05SjFmsD) | 3:19 | 2021-08-20 |  |
 | [Learn To Fly \- Bonus](https://open.spotify.com/track/0k1a21qtmvN93n7OTyGC5H) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Sorry For Nothing](https://open.spotify.com/album/7eUkb05fEl8v3LVVLuRFyZ) | 4:00 | 2024-12-10 |  |
+| [Legacy](https://open.spotify.com/track/3kNxNSNAu5I9ZIb6RcYkZf) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 3:30 | 2026-07-31 |  |
 | [Legacy](https://open.spotify.com/track/1zTRJMLEQP1fJfmzsLMWDu) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Blackout](https://open.spotify.com/album/2JvaxDiBaKADQ3Fb9SvEZF) | 3:39 | 2023-07-28 |  |
 | [Legends Never Die](https://open.spotify.com/track/6jvrbttMyyBQuauXB6b7zy) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Legends Never Die](https://open.spotify.com/album/7nDKLEaD3NhoIWwlRblMuW) | 2:57 | 2023-08-18 |  |
 | [Let Go](https://open.spotify.com/track/5QzEl5meby6CHMwERcZEHV) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 4:13 | 2023-08-25 |  |
@@ -240,6 +241,7 @@
 | [Save Us](https://open.spotify.com/track/5b2CTow0KTieqeITsHSjXV) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Baptize](https://open.spotify.com/album/7gSn76j4IpgrhL9r7mNlTL) | 2:21 | 2022-01-24 | 2023-01-04 |
 | [Savior](https://open.spotify.com/track/6BwmYF0DqrrX6OkaOJphQH) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Die About It](https://open.spotify.com/album/7vL9sQj9AGhuBRHn969A9X) | 2:59 | 2023-11-03 |  |
 | [Say It Again \(feat\. The Rasmus\)](https://open.spotify.com/track/4Vew5V90WYD82kvcEJLldI) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Say It Again \(feat\. The Rasmus\)](https://open.spotify.com/album/4feSE1PgABzJhSIL7KYEVz) | 4:23 | 2025-08-08 |  |
+| [Scapegoat](https://open.spotify.com/track/34U5WzBQmfPPRF59BmiIUJ) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 3:15 | 2026-07-31 |  |
 | [Scars That I'm Hiding \(feat\. Anders Fridén of In Flames\)](https://open.spotify.com/track/3KccNKlsI4LhdJyIfpQfM8) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf) | [The Retaliators \(Music from the Motion Picture\)](https://open.spotify.com/album/0AVXaODN5ZfCP675t8tMQo) | 2:55 | 2022-09-21 |  |
 | [Sham Pain \- 2025 VERSION](https://open.spotify.com/track/5c0HUbN3NRPQjdzqr8zBkc) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [BEST OF \(Volume 2\)](https://open.spotify.com/album/2HnxhjQnktpHhk44KePSaU) | 3:29 | 2025-10-24 |  |
 | [Shepherd of Fire](https://open.spotify.com/track/1fQaoh3imrMunWVZh5kf90) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:23 | 2023-07-25 |  |
@@ -300,6 +302,7 @@
 | [TURN IT UP LIKE \(Stand In The Fire\)](https://open.spotify.com/track/0qNaAvpToqL0KyI1Ddg6gx) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [TURN IT UP LIKE \(Stand In The Fire\)](https://open.spotify.com/album/1ZLPa1ssZth3Ti7xRzpyAG) | 4:29 | 2022-07-25 | 2024-04-10 |
 | [Uncomfortable](https://open.spotify.com/track/6qKSmXS6AOmSFAnmSxkASx) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:40 | 2021-08-20 | 2024-04-10 |
 | [Undead](https://open.spotify.com/track/5wBLDkxVvclanSitx5jq8e) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Swan Songs](https://open.spotify.com/album/2UYxjXHKm1JDT6JA7OSeR6) | 4:25 | 2021-08-20 |  |
+| [Unscathed](https://open.spotify.com/track/1GzTfKNEPBDk8yBqh9I0Vr) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Legacy](https://open.spotify.com/album/6TreEbRihAZGSYDpoDW8jg) | 3:56 | 2026-07-31 |  |
 | [Unstoppable](https://open.spotify.com/track/294Abb02j2OpQSHFRGNPSc) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Unstoppable](https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC) | 3:07 | 2021-11-12 | 2023-01-04 |
 | [Unstoppable \(feat\. Cory Marks\)](https://open.spotify.com/track/3MWCJZybLRQ0skDYnSP1Ze) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c), [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Unstoppable \(feat\. Cory Marks\)](https://open.spotify.com/album/6cAguc6Xmqh9KmaLiTiFRp) | 3:06 | 2023-08-04 |  |
 | [Until We Break \(feat\. Matty Mullins of Memphis Mayfire\)](https://open.spotify.com/track/3uRuVa1eBgOjfsCegIq1lb) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Until We Break \(feat\. Matty Mullins of Memphis May Fire\)](https://open.spotify.com/album/5RcDVFgqW9VHShesfquQER) | 3:34 | 2022-10-07 |  |

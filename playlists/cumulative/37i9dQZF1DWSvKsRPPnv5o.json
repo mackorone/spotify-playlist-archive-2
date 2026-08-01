@@ -3662,7 +3662,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 136981,
       "name": "Benz or Mazda",
       "url": "https://open.spotify.com/track/5bh26aWpTNp2GY8JdRTWKz"
@@ -9185,7 +9185,7 @@
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 150000,
+      "duration_ms": 146858,
       "name": "Drink & Smoke (feat. E-40 & Tyga)",
       "url": "https://open.spotify.com/track/0RL0SF5KCuDeEh4LVYeiM0"
     },
@@ -9964,7 +9964,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 156533,
       "name": "Estamos Listos",
       "url": "https://open.spotify.com/track/6ybJCiSbTxvLXWmgCIxtQJ"
@@ -13671,6 +13671,28 @@
     },
     {
       "album": {
+        "name": "SIR TOO $HORT, VOL. 2 (DRINK & SMOKE)",
+        "url": "https://open.spotify.com/album/5KkGgCCpS0Rz4mVlME9SKK"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "name": "MOUNT WESTMORE",
+          "url": "https://open.spotify.com/artist/3DELNHPLdJgXkDHOTt3ok8"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174528,
+      "name": "Good Coochie (feat. MOUNT WESTMORE)",
+      "url": "https://open.spotify.com/track/65gjecgcXkxHPVaArXWLZR"
+    },
+    {
+      "album": {
         "name": "Ca$ino",
         "url": "https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b"
       },
@@ -15208,7 +15230,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 97874,
       "name": "Home on the Range",
       "url": "https://open.spotify.com/track/4QiWYpCnD5TipN2AycUy2i"
@@ -18265,6 +18287,24 @@
     },
     {
       "album": {
+        "name": "Let's Not Take It There",
+        "url": "https://open.spotify.com/album/3l3BX59F7rfPUXGtUpppyC"
+      },
+      "artists": [
+        {
+          "name": "lou deezi",
+          "url": "https://open.spotify.com/artist/0tBxDunU3NUXpAOUNZY16c"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125103,
+      "name": "Let's Not Take It There",
+      "url": "https://open.spotify.com/track/6qZKr6HMBdHrXhvl7cxSjy"
+    },
+    {
+      "album": {
         "name": "Let's Ride (feat. YG, Ty Dolla $ign, Lambo4oe) [Trailer Anthem]",
         "url": "https://open.spotify.com/album/2gtzhUrfhH4VsoiWeQqSmX"
       },
@@ -19397,6 +19437,24 @@
     },
     {
       "album": {
+        "name": "Look Don't Touch",
+        "url": "https://open.spotify.com/album/00sCJ6VCJkELDOwOYLsyLE"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165530,
+      "name": "Look Don't Touch",
+      "url": "https://open.spotify.com/track/7K0uTBhWB4cODVkfpqDYZo"
+    },
+    {
+      "album": {
         "name": "310degrees",
         "url": "https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO"
       },
@@ -20144,7 +20202,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 190967,
       "name": "Me N The Boyz",
       "url": "https://open.spotify.com/track/2pe4DMAYeuWvha4HS3RbjA"
@@ -21415,6 +21473,28 @@
     },
     {
       "album": {
+        "name": "Mystic River",
+        "url": "https://open.spotify.com/album/5crKBQIGU06pqpSYExrdWz"
+      },
+      "artists": [
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "name": "DJ Battlecat",
+          "url": "https://open.spotify.com/artist/0oywmZ7vl6A3bQPTsN66Rm"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250015,
+      "name": "Mystic River",
+      "url": "https://open.spotify.com/track/32hHGyGOmTXK0RlwgkGLE9"
+    },
+    {
+      "album": {
         "name": "N.T.A.B.",
         "url": "https://open.spotify.com/album/79ah3fmPUV9etOfTnGAky2"
       },
@@ -22470,6 +22550,28 @@
       "duration_ms": 204437,
       "name": "NONCHALANT (feat. Mamii)",
       "url": "https://open.spotify.com/track/2mz9mssxUxuUdBBiMWXdIF"
+    },
+    {
+      "album": {
+        "name": "nonchalant",
+        "url": "https://open.spotify.com/album/0hXAGEJkJouIX5czc4D7ld"
+      },
+      "artists": [
+        {
+          "name": "Cletus Strap",
+          "url": "https://open.spotify.com/artist/00vh4ZUVEvrbagTVh7gf15"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221539,
+      "name": "nonchalant - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/3ol1gWbJlV1lqLEGpJvMKL"
     },
     {
       "album": {
@@ -24300,7 +24402,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 135417,
       "name": "Paper",
       "url": "https://open.spotify.com/track/2my16Y1OrydrI2MQ6xaAHb"
@@ -24858,7 +24960,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 139951,
       "name": "Pesos",
       "url": "https://open.spotify.com/track/5bIXou8W0DdkmU8wmvm4Td"
@@ -29608,7 +29710,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 204988,
       "name": "ST CHARLES (feat. RITTYBO & Mikey Mu)",
       "url": "https://open.spotify.com/track/6cA6yE0p0Wg698e3dIpeSx"
@@ -30845,6 +30947,28 @@
     },
     {
       "album": {
+        "name": "Sumn Ain't Right",
+        "url": "https://open.spotify.com/album/4Yc4XRR6rilFe1tcxAg9xZ"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153565,
+      "name": "Sumn Ain't Right",
+      "url": "https://open.spotify.com/track/6ULsqbdiE52jqccO9R4gCh"
+    },
+    {
+      "album": {
         "name": "SUMN PRETTY",
         "url": "https://open.spotify.com/album/2ns4KibYyQnqiq1Eb7Garn"
       },
@@ -31188,7 +31312,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 235123,
       "name": "Take Me Somewhere",
       "url": "https://open.spotify.com/track/5IY0y9qqGklz0DYv0fTpd4"
@@ -31582,6 +31706,36 @@
       "duration_ms": 145116,
       "name": "Temper",
       "url": "https://open.spotify.com/track/0nipB4z5fkwPSn8MH41jxe"
+    },
+    {
+      "album": {
+        "name": "Ten Summers",
+        "url": "https://open.spotify.com/album/0Ynh3XpDbQScbiO1DMmTou"
+      },
+      "artists": [
+        {
+          "name": "SOB X RBE",
+          "url": "https://open.spotify.com/artist/2TImI3DW7o5MdRXJs4D37h"
+        },
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+        },
+        {
+          "name": "Yhung T.O.",
+          "url": "https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l"
+        },
+        {
+          "name": "Slimmy B",
+          "url": "https://open.spotify.com/artist/0BfxMYdkqRuwPXsSwEf5RE"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149862,
+      "name": "Ten Summers",
+      "url": "https://open.spotify.com/track/3L2hQwHU9Sof8srRsgwrNu"
     },
     {
       "album": {
@@ -36223,6 +36377,24 @@
     },
     {
       "album": {
+        "name": "You On",
+        "url": "https://open.spotify.com/album/11EjCOqdbgF0BDkWON8GC4"
+      },
+      "artists": [
+        {
+          "name": "Heembeezy",
+          "url": "https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173304,
+      "name": "You On",
+      "url": "https://open.spotify.com/track/1kJr8m35uMBGcuzb8ENR9I"
+    },
+    {
+      "album": {
         "name": "FLARE",
         "url": "https://open.spotify.com/album/1VyI3EaxZmfc5k51GXBKnJ"
       },
@@ -36312,7 +36484,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 176496,
       "name": "Yucky",
       "url": "https://open.spotify.com/track/3Qv2VKSNhPHEteCXreaeiE"

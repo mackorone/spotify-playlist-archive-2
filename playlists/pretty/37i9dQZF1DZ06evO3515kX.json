@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAACbbnE5mFpLz1gU7j+IHDlh",
+  "snapshot_id": "amqUAAAAAAA1eLb0ubd3kL7TY1Xn3fVb",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
         }
       ],
-      "duration_ms": 212760,
-      "name": "Don't Go Away",
-      "url": "https://open.spotify.com/track/2kuEjhcmLdBcUt8Ph4junl"
+      "duration_ms": 211093,
+      "name": "Gotta Get Out Tonight",
+      "url": "https://open.spotify.com/track/1NZH1RRVDUxCbTp11y7ext"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
         }
       ],
-      "duration_ms": 211093,
-      "name": "Gotta Get Out Tonight",
-      "url": "https://open.spotify.com/track/1NZH1RRVDUxCbTp11y7ext"
+      "duration_ms": 212760,
+      "name": "Don't Go Away",
+      "url": "https://open.spotify.com/track/2kuEjhcmLdBcUt8Ph4junl"
     },
     {
       "added_at": null,

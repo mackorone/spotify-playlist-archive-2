@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Innellea
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,624 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,810 likes - 90 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 1](https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Bounce Music](https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G) | 0:00 |
+| 1 | [Bounce Music](https://open.spotify.com/track/0gOnBcr0GJtmduY7oijUuP) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Bounce Music](https://open.spotify.com/album/1duGEpqKEjHGRQGvxc7n1G) | 3:50 |
 | 2 | [UNDRGRND \- Edit](https://open.spotify.com/track/216V38ORULt96aVme8eGnf) | [KAS:ST](https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN), [Blake Light](https://open.spotify.com/artist/3Eg3uKwUyxwvM57CW2skbr) | [UNDRGRND \(Edit\)](https://open.spotify.com/album/7AuzUFELZ9WgVnbYCleC6r) | 3:19 |
 | 3 | [Apogee](https://open.spotify.com/track/0ZI637rFuYayWtvgrhn4jJ) | [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM), [Cary Crank](https://open.spotify.com/artist/43TvZ4ARP8NWlCy1x3KWt9) | [Apogee](https://open.spotify.com/album/6zudNenYiONhaCJwuEDVB8) | 4:00 |
 | 4 | [333](https://open.spotify.com/track/57zfeOLdcnfon3aLrjFxvq) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh), [Eric Reyes](https://open.spotify.com/artist/4UfJCLIUH1rWXHH0J2CozO) | [333](https://open.spotify.com/album/29FNUkMS1vQbryYC9mVxDS) | 3:54 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 10 | [Lose Your Mind](https://open.spotify.com/track/75c7e6HGkiZpUy5cnKvP6o) | [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Lose Your Mind](https://open.spotify.com/album/3liZVWQIsFjuD9BBDc09x0) | 6:18 |
 | 11 | [Those Words](https://open.spotify.com/track/3gviotIG0pkbYqBC7l1ZGf) | [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4), [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [FRISO](https://open.spotify.com/artist/7kahBCrSeb70EfCEdArOTr) | [Those Words](https://open.spotify.com/album/0lm6R6o2txgn75UDE53T2J) | 3:08 |
 | 12 | [Future](https://open.spotify.com/track/5EJ6xAvHPJmPqmgxDzIEwK) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Future](https://open.spotify.com/album/1FNDBQA8vCw775bm5BrVLb) | 3:38 |
-| 13 | [Track 1](https://open.spotify.com/track/2SeQImFA4byJJYS61VwB9J) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [In Your Head](https://open.spotify.com/album/5n2MNtPtQLxmcUe9T6hfOO) | 0:00 |
+| 13 | [In Your Head](https://open.spotify.com/track/2SeQImFA4byJJYS61VwB9J) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [In Your Head](https://open.spotify.com/album/5n2MNtPtQLxmcUe9T6hfOO) | 3:30 |
 | 14 | [Unusual Concepts](https://open.spotify.com/track/4DGPNfcKiXAE3XL8jbpFve) | [Maxim Lany](https://open.spotify.com/artist/3yGz81qZItOli1RL5vgUeB), [Guychu](https://open.spotify.com/artist/3pnCny3VwnYfjKSTJXz1LT) | [Unusual Concepts](https://open.spotify.com/album/41IQB70RAR86U3NssjPil4) | 3:46 |
 | 15 | [Taking Me High](https://open.spotify.com/track/1f39WH0csOOvJ3GRyg9QWq) | [Cavi](https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Taking Me High](https://open.spotify.com/album/0bcO0qlVARSOHWfmSVmMqn) | 3:28 |
 | 16 | [Awake Dreaming](https://open.spotify.com/track/5XfPZBftU0oS1ZVk8Y7brC) | [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj), [Un:said](https://open.spotify.com/artist/2aShYExOO6vuxM0cjeJm5Y) | [Awake Dreaming](https://open.spotify.com/album/1Nf8qzPx90WX9NyFK8L2aB) | 4:07 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 33 | [Away](https://open.spotify.com/track/59Veva9jVZAHMpQbyA8uao) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N), [Aiiwa](https://open.spotify.com/artist/4CNahfHGLBSK2dWM1ZLwMU) | [Away](https://open.spotify.com/album/2470HCyXF7Z2OGPSh7nbh8) | 3:08 |
 | 34 | [What da Funk \- German Brigante Remix](https://open.spotify.com/track/2sJALKQ60UKUYnWbxapVrY) | [Deniz Tekin \(TR\)](https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu), [Aliot](https://open.spotify.com/artist/0fwRN0FvddmSkK5x3iDFSg), [German Brigante](https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm) | [What da Funk \(German Brigante Remix\)](https://open.spotify.com/album/52Zs7M3SMGg4YlbvfgJh9a) | 5:08 |
 | 35 | [You Feel Mine](https://open.spotify.com/track/14IJbUA9JoQ69aqkJGUbgy) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [You Feel Mine](https://open.spotify.com/album/6snYNYAZrc83URBjdgvXaw) | 3:14 |
-| 36 | [SAWA \(feat\. bees & honey\)](https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1) | [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [SAWA \(feat\. bees & honey\)](https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5) | 3:40 |
+| 36 | [SAWA](https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1) | [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [SAWA](https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5) | 3:40 |
 | 37 | [Set As Free](https://open.spotify.com/track/7oDpwcPrTCK9DWa8AwE6S5) | [CLARAA](https://open.spotify.com/artist/0hzvjvnzkOTFNgVrLTwiM4) | [Set As Free](https://open.spotify.com/album/4GSIHUtnLGhb0UWvLKZn9X) | 6:52 |
 | 38 | [No Exit](https://open.spotify.com/track/2h7QaPn8nonK5eEN9tLzvf) | [The Opposiz](https://open.spotify.com/artist/13tDym30VZRg2NYyPv8DRA) | [No Exit](https://open.spotify.com/album/66iFHbW7nNIRAiqggwXkid) | 3:51 |
 | 39 | [So High](https://open.spotify.com/track/1YwjW0QaJyRMMP15qvGDpM) | [Passive Progressive](https://open.spotify.com/artist/3x2YM2HWO4cUT8hxFWdIz8) | [So High](https://open.spotify.com/album/1Mg8BWQ74aTQBoYr7Q70LR) | 3:25 |

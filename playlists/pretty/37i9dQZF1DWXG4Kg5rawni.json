@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 115729,
+  "num_followers": 115731,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -51,22 +51,6 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
-        "name": "Bruna Karla Falando de Amor",
-        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 265729,
-      "name": "Que Bom Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/2lzxlbHjyE0us72Q3LRV5A"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
         "name": "Lugar Mais Alto",
         "url": "https://open.spotify.com/album/4MwD9JVQ5rjY79jrO2ak9G"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 276456,
       "name": "Era Voc\u00ea",
       "url": "https://open.spotify.com/track/2pBNf05NfW1nrQqblf8VO0"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
+        "name": "Bruna Karla Falando de Amor",
+        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 265729,
+      "name": "Que Bom Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/2lzxlbHjyE0us72Q3LRV5A"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
+        "name": "Disse Sim",
+        "url": "https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aguiar",
+          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
+        }
+      ],
+      "duration_ms": 201874,
+      "name": "Disse Sim",
+      "url": "https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
         "name": "Com Voc\u00ea",
         "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 223886,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
-        "name": "Disse Sim",
-        "url": "https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aguiar",
-          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "Disse Sim",
-      "url": "https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
-        "name": "Eyshila Falando de Amor",
-        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 258345,
-      "name": "Meu Sonho",
-      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
         "name": "Nosso Castelo",
         "url": "https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 252215,
       "name": "Nosso Castelo",
       "url": "https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
-        "name": "Florescer",
-        "url": "https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI"
-      },
-      "artists": [
-        {
-          "name": "Pamela",
-          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
-        }
-      ],
-      "duration_ms": 296286,
-      "name": "Florescer",
-      "url": "https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
         "name": "Como da Primeira Vez",
         "url": "https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 226626,
       "name": "Como da Primeira Vez",
       "url": "https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
+        "name": "Florescer",
+        "url": "https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI"
+      },
+      "artists": [
+        {
+          "name": "Pamela",
+          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
+        }
+      ],
+      "duration_ms": 296286,
+      "name": "Florescer",
+      "url": "https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/3gjJw5PsVHPI1Z6Ty5DidA"
+      },
+      "artists": [
+        {
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        }
+      ],
+      "duration_ms": 263997,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/6ejwDt9UHxTh2Teh17BgMG"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
         "name": "Deus Voc\u00ea e Eu",
         "url": "https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU"
       },
@@ -835,38 +851,6 @@
       "duration_ms": 230310,
       "name": "Por N\u00f3s",
       "url": "https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
-        "name": "Terapia",
-        "url": "https://open.spotify.com/album/3gjJw5PsVHPI1Z6Ty5DidA"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        }
-      ],
-      "duration_ms": 263997,
-      "name": "Terapia",
-      "url": "https://open.spotify.com/track/6ejwDt9UHxTh2Teh17BgMG"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
-        "name": "Sobre o Amor",
-        "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        }
-      ],
-      "duration_ms": 172288,
-      "name": "Prometo",
-      "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -907,34 +891,18 @@
     {
       "added_at": "2026-06-12 03:01:50",
       "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7"
+        "name": "Sobre o Amor",
+        "url": "https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn"
       },
       "artists": [
         {
-          "name": "Gabriel Bulian",
-          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
         }
       ],
-      "duration_ms": 174926,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC"
-    },
-    {
-      "added_at": "2026-06-12 03:01:50",
-      "album": {
-        "name": "N\u00e3o H\u00e1 Limites",
-        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 254676,
-      "name": "N\u00e3o H\u00e1 Limites",
-      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
+      "duration_ms": 172288,
+      "name": "Prometo",
+      "url": "https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx"
     },
     {
       "added_at": "2026-06-12 03:01:50",
@@ -955,6 +923,38 @@
       "duration_ms": 190377,
       "name": "Chave do Amor",
       "url": "https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Limites",
+        "url": "https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 254676,
+      "name": "N\u00e3o H\u00e1 Limites",
+      "url": "https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs"
+    },
+    {
+      "added_at": "2026-06-12 03:01:50",
+      "album": {
+        "name": "N\u00f3s",
+        "url": "https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Bulian",
+          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
+        }
+      ],
+      "duration_ms": 174926,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC"
     },
     {
       "added_at": "2026-06-12 03:01:50",

@@ -2156,7 +2156,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 219320,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/4bwrku78zobaXo2V9vPW6J"
@@ -5318,6 +5318,24 @@
       "duration_ms": 144120,
       "name": "Ready for More",
       "url": "https://open.spotify.com/track/3qCcj7VVDZtiCo8LASZQyG"
+    },
+    {
+      "album": {
+        "name": "Red Gorilla",
+        "url": "https://open.spotify.com/album/2BB6XJDQOElVgufDnj1GGH"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wicklund",
+          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Red Gorilla",
+      "url": "https://open.spotify.com/track/1y4lKMU8Ie4ajVLfJha9Yk"
     },
     {
       "album": {

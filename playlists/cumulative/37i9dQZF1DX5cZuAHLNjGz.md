@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Jordan Sandhu
 
-604 songs - 1 day 6 hr 48 min
+605 songs - 1 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Barota](https://open.spotify.com/track/5i2jG0ScOY5B40sTHMeb08) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Barota](https://open.spotify.com/album/6cpoFW7kurlcF2yqTkaDAZ) | 4:03 | 2025-12-05 |  |
 | [Bars](https://open.spotify.com/track/3VBjpYmyCGOr06tZtjuOVu) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Sicario](https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl) | 3:04 | 2025-01-31 | 2025-09-06 |
 | [Be Mine](https://open.spotify.com/track/7acH6yiK56etufZpUIv1YW) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Be Mine](https://open.spotify.com/album/1B5RSKDW0XtvEyFzBvgP0J) | 2:28 | 2024-07-05 | 2026-07-18 |
+| [Behja](https://open.spotify.com/track/22zhpQYauT1cOoO4IUYhGW) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Victory Lap](https://open.spotify.com/album/15lQCBUQm0PeQdFnRDVDZn) | 2:34 | 2026-07-31 |  |
 | [Beside](https://open.spotify.com/track/6WbEwQaBvgXvJA2Xfw2map) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Deol Harman](https://open.spotify.com/artist/2N8tEhXkaUz7bBi5Ym9Xqa) | [NirvairNess](https://open.spotify.com/album/6u7g4WFRT1wGYf2lSguWHA) | 2:55 | 2025-08-29 | 2025-12-06 |
 | [Bewafa](https://open.spotify.com/track/4FcknXDJ8yW2QYUl0cm6uJ) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bewafa](https://open.spotify.com/album/31EKix5WSmQMNWLj1Je8dg) | 3:44 | 2022-12-10 | 2024-02-20 |
 | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Hindi\)](https://open.spotify.com/track/73qEZ1uDm4V2jq9EeXWM8G) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Bhairava Anthem \(From "Kalki 2898 Ad"\) \(Hindi\)](https://open.spotify.com/album/62LIgpBt6vwzmdzpj3fGdA) | 2:42 | 2024-06-17 | 2024-06-27 |
@@ -307,7 +308,7 @@
 | [Kudiyan Lahore Diyan](https://open.spotify.com/track/0NlIythdHcM4zFDP5dGLta) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kudiyan Lahore Diyan](https://open.spotify.com/album/4STyPN6DqIbBkkDlczowCn) | 3:42 | 2022-05-29 | 2022-07-14 |
 | [Kufar](https://open.spotify.com/track/7oODxqLHmajTXnGK0hWfj1) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [AURA](https://open.spotify.com/album/1qP2ICZGtjDGBayZ7JuQcT) | 2:38 | 2025-10-24 |  |
 | [Kya Baat Ay](https://open.spotify.com/track/1ZaeaGLhFSckG8sv1y7AWk) | [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo) | [Kya Baat Ay](https://open.spotify.com/album/6dGrLyjo05QYx1djXmioIk) | 2:59 | 2022-05-29 | 2022-12-18 |
-| [Kyun](https://open.spotify.com/track/0dEPR2Atoyv8ZvBOFH8i9W) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Welcome To The Jungle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1W7FuYLH3fv0lncFQ7hmqE) | 3:33 | 2026-07-17 |  |
+| [Kyun](https://open.spotify.com/track/0dEPR2Atoyv8ZvBOFH8i9W) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG) | [Welcome To The Jungle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1W7FuYLH3fv0lncFQ7hmqE) | 3:33 | 2026-07-17 | 2026-08-01 |
 | [LAAVAN](https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv) | [LAAVAN](https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah) | 3:05 | 2025-11-07 |  |
 | [Lahore](https://open.spotify.com/track/3A6W2pP8OVyuRNNIgrkleZ) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Lahore](https://open.spotify.com/album/2roWWIoVTJwNMU7Y5h4V97) | 2:56 | 2024-12-13 | 2026-01-31 |
 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 | 2023-10-06 | 2025-10-25 |

@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-839 songs - 3 day 0 hr 52 min
+840 songs - 3 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 | 2024-05-03 | 2025-02-05 |
 | [Higher](https://open.spotify.com/track/4iA6XeCs04NrmGPnmQdCyT) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7) | [Higher](https://open.spotify.com/album/6SXKoXwDn8T4NG0sPS4sEc) | 2:38 | 2024-06-14 | 2025-05-30 |
 | [Higher \- Live](https://open.spotify.com/track/6vq79L2b5e0KqdiszhRxvV) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Higher](https://open.spotify.com/album/0FRUDPFB4G5UaGlMg7jVqG) | 8:10 | 2026-07-17 |  |
-| [HOLD ME UP](https://open.spotify.com/track/5otqUM66dct6QElsKFmC3D) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [HOLD ME UP](https://open.spotify.com/album/2A9YtwVXV5WMYCj2pmSx90) | 4:48 | 2026-05-29 |  |
+| [HOLD ME UP](https://open.spotify.com/track/5otqUM66dct6QElsKFmC3D) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [HOLD ME UP](https://open.spotify.com/album/2A9YtwVXV5WMYCj2pmSx90) | 4:48 | 2026-05-29 | 2026-08-01 |
 | [Hold On](https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Hold On](https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS) | 2:45 | 2024-09-06 | 2025-02-19 |
 | [Hold On](https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Hold On](https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r) | 2:37 | 2024-04-05 | 2024-05-24 |
 | [Hollow](https://open.spotify.com/track/6qLHsnwSYXLmN9xipKIcdb) | [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Hollow](https://open.spotify.com/album/25oaJrHjmiejM5ciSinPh4) | 1:36 | 2025-05-30 | 2025-06-06 |
@@ -343,6 +343,7 @@
 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 | 2023-09-15 | 2024-03-16 |
 | [I give you praise](https://open.spotify.com/track/3aQcVHyOORVlwSFKgz5aDU) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Dare David](https://open.spotify.com/artist/3iSjgaz8j7eDfSlsXqhx63) | [I give you praise](https://open.spotify.com/album/0bqQE5CKXex5wgd7H2fJnY) | 13:36 | 2025-05-23 | 2025-08-21 |
 | [I have seen the Lord's goodness](https://open.spotify.com/track/7jtaeMPp7sdgXBBmjIbnz3) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [I have seen the Lord's goodness](https://open.spotify.com/album/3C19JJubUUZbtIElmB5RUI) | 3:21 | 2025-09-19 | 2025-10-21 |
+| [I Know A God](https://open.spotify.com/track/4nQbDeYVl8Vb04PQhSxZpk) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [I Know A God](https://open.spotify.com/album/61fQxNA5nP4PPxjzBWGzdA) | 2:57 | 2026-07-24 |  |
 | [I lift my hands](https://open.spotify.com/track/3SKmshHmlHegeCJ32YbOew) | [Neken Chuwang](https://open.spotify.com/artist/6oeGlZWUfeCsScmxOZUxcA), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [I lift my hands](https://open.spotify.com/album/7LZgH3MtVto7zUznSkxomE) | 2:21 | 2025-08-22 | 2025-09-14 |
 | [I Live \- Live](https://open.spotify.com/track/122j35m29xC1Xbd8vTKvJP) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [I Live](https://open.spotify.com/album/0cZteUtrDx3uIeTOVvVI8E) | 9:20 | 2026-02-13 | 2026-07-22 |
 | [I Praise You](https://open.spotify.com/track/3nS3Ftk7rYR8YdWMOscr6E) | [O'Tims](https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [I Praise You](https://open.spotify.com/album/7GhfXdzDRQt4jgAlu6RAYI) | 8:24 | 2025-07-11 | 2025-09-12 |

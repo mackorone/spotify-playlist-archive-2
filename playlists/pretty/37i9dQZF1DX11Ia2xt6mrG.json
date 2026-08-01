@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. YoSoyMatt en portada.",
-  "num_followers": 73383,
+  "num_followers": 73400,
   "original_name": "electro mx ",
   "owner": {
     "name": "Spotify",
@@ -1447,6 +1447,26 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
+        "name": "SUSTANCIAS",
+        "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
+      },
+      "artists": [
+        {
+          "name": "Happykid",
+          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
+        },
+        {
+          "name": "Mendoza",
+          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
+        }
+      ],
+      "duration_ms": 228923,
+      "name": "SUSTANCIAS",
+      "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
         "name": "Media Noche",
         "url": "https://open.spotify.com/album/74f9HcviH7UX3l7S1o914T"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 169761,
       "name": "Porque La Demora",
       "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
-        "name": "SUSTANCIAS",
-        "url": "https://open.spotify.com/album/0GPyQFEdQVpA2f3LiBGhh9"
-      },
-      "artists": [
-        {
-          "name": "Happykid",
-          "url": "https://open.spotify.com/artist/3tTFvAvXhP8GtGZ35GN7J2"
-        },
-        {
-          "name": "Mendoza",
-          "url": "https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP"
-        }
-      ],
-      "duration_ms": 228923,
-      "name": "SUSTANCIAS",
-      "url": "https://open.spotify.com/track/5ixFDmN4lbynwZyEc8Wfbk"
     },
     {
       "added_at": "2026-07-03 06:00:25",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2026-07-03 06:00:25",
       "album": {
+        "name": "cu\u00e1ndo",
+        "url": "https://open.spotify.com/album/6MIUe2REUhOTndOLvPKvCr"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "cu\u00e1ndo",
+      "url": "https://open.spotify.com/track/6NVU7iVKXBmo07g4c3nLvh"
+    },
+    {
+      "added_at": "2026-07-03 06:00:25",
+      "album": {
         "name": "Santa Mar\u00eda",
         "url": "https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 260585,
       "name": "Santa Mar\u00eda",
       "url": "https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS"
-    },
-    {
-      "added_at": "2026-07-03 06:00:25",
-      "album": {
-        "name": "cu\u00e1ndo",
-        "url": "https://open.spotify.com/album/6MIUe2REUhOTndOLvPKvCr"
-      },
-      "artists": [
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Yng Naz",
-          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "cu\u00e1ndo",
-      "url": "https://open.spotify.com/track/6NVU7iVKXBmo07g4c3nLvh"
     },
     {
       "added_at": "2026-07-03 06:00:25",

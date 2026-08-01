@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > È una Geolier summer🩸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,280 likes - 55 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,240 likes - 55 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 22 | [UN UOMO SOLO PUÒ CAMBIARE IL MONDO \(feat\. 22simba\)](https://open.spotify.com/track/5N8XAkHlMe9g6MqVBHB4re) | [PRACI](https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5), [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [DAL GOLFO DEGLI ANGELI](https://open.spotify.com/album/24e7NauzqSalmAygXLcKtY) | 2:48 |
 | 23 | [USHUAÏA](https://open.spotify.com/track/3h4Ti5e9Hlqhm8OGJw56Xr) | [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu), [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [USHUAÏA](https://open.spotify.com/album/0vH9QaMrLySrI6uVXCvI4E) | 2:49 |
 | 24 | [Arricchiti \(feat\. Guè\)](https://open.spotify.com/track/7agE2kK4XZnjRrbwnVJV1T) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Arricchiti \(feat\. Guè\)](https://open.spotify.com/album/5r8qz3XZd9YULzc47y8Nd5) | 2:35 |
-| 25 | [Dale \(feat\. Frezza, G.Mineiro, R3versal\)](https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [R3versal](https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP), [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [Dale \(feat\. Frezza, G.Mineiro, R3versal\)](https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV) | 3:08 |
+| 25 | [DALE \(feat\. Frezza, G.Mineiro, R3versal\)](https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [R3versal](https://open.spotify.com/artist/3ynBgWFlyMRwLE5JnAAfFP), [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs) | [DALE \(feat\. Frezza, G.Mineiro, R3versal\)](https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV) | 3:08 |
 | 26 | [Giovani Re](https://open.spotify.com/track/1YxG9XcjtJgxTN6OenRh1V) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL) | 2:48 |
 | 27 | [Parapluie](https://open.spotify.com/track/4JKX37OcxWbq2qL0eyVYs2) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Parapluie](https://open.spotify.com/album/5YMasNweSIcoJEVrBxVsbP) | 2:34 |
 | 28 | [EMRATA](https://open.spotify.com/track/1atkhxjJoI44BGpWDoFeHV) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [EMRATA](https://open.spotify.com/album/6y3BeCAnWYSN9eoMBytYrW) | 2:53 |

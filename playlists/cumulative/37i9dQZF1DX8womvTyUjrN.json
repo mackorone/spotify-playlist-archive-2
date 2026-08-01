@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: FABIAN & ROBI",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Andrea Bejar",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 241704,
       "name": "(ENAMORADA)",
       "url": "https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk"
@@ -2478,7 +2478,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 166956,
       "name": "BARCELOWNA",
       "url": "https://open.spotify.com/track/5pgxXa1o9WAnKzsXLqJPTI"
@@ -3580,7 +3580,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 151967,
       "name": "CANAIMA",
       "url": "https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs"
@@ -4819,6 +4819,28 @@
     },
     {
       "album": {
+        "name": "cool",
+        "url": "https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        },
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175760,
+      "name": "cool",
+      "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
+    },
+    {
+      "album": {
         "name": "Cora Fr\u00edo",
         "url": "https://open.spotify.com/album/5NfVkHKItmD5GfGmTSwy9e"
       },
@@ -4932,7 +4954,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 179040,
       "name": "Coraz\u00f3n hinchado",
       "url": "https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7"
@@ -5056,6 +5078,24 @@
       "duration_ms": 106068,
       "name": "CRAZY IN YOUR HEAD",
       "url": "https://open.spotify.com/track/5GhSKBJdR5sqp0X87MDiC2"
+    },
+    {
+      "album": {
+        "name": "Creo En Ti",
+        "url": "https://open.spotify.com/album/6a5InGmlDqTSy9PTM7wBgh"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202425,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/0v7MT9ZBZUWoTHoBSY171B"
     },
     {
       "album": {
@@ -8254,7 +8294,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 156829,
       "name": "EVEREST",
       "url": "https://open.spotify.com/track/4IES6uQhwuNyHGL2SUuPfx"
@@ -8356,7 +8396,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 166160,
       "name": "FA-TAL!",
       "url": "https://open.spotify.com/track/6nd4ow9awpeLLY1m7mlTVu"
@@ -9732,7 +9772,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 144423,
       "name": "Himno Nacional",
       "url": "https://open.spotify.com/track/3GJGNWgJgQN6xaftJQsBFd"
@@ -12782,6 +12822,24 @@
       "duration_ms": 190773,
       "name": "Maldito Reggaeton",
       "url": "https://open.spotify.com/track/2SEyetpzyJK1zv2wpWkP5Y"
+    },
+    {
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/5i8UhvyV4VLxGRuTxU2wby"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188533,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/6QZqFThttq1Kka1KhBDAwh"
     },
     {
       "album": {
@@ -16309,6 +16367,24 @@
     },
     {
       "album": {
+        "name": "todav\u00eda no vuelvo",
+        "url": "https://open.spotify.com/album/1h9p1SAc1ybdGa8lwsftcK"
+      },
+      "artists": [
+        {
+          "name": "FREEKIDS",
+          "url": "https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169431,
+      "name": "okay",
+      "url": "https://open.spotify.com/track/71OAYyXOwpQjSae86GBSLe"
+    },
+    {
+      "album": {
         "name": "Olas",
         "url": "https://open.spotify.com/album/0MC1nluge1zrvhFCvwQ5Ph"
       },
@@ -17714,6 +17790,24 @@
       "duration_ms": 184877,
       "name": "Ponme En Tu Boca",
       "url": "https://open.spotify.com/track/705z0RDjwU07P5dLUdrOpu"
+    },
+    {
+      "album": {
+        "name": "por como me cuidas",
+        "url": "https://open.spotify.com/album/5JBd37KdO0T5rjZDN10WKG"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124525,
+      "name": "por como me cuidas",
+      "url": "https://open.spotify.com/track/1yvKopniXF1xWBCabuqLN9"
     },
     {
       "album": {
@@ -21415,6 +21509,24 @@
     },
     {
       "album": {
+        "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+        "url": "https://open.spotify.com/album/0812v2AHlha3OC1xhulTfj"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "Te Vas A Arrepentir (Don't Hurt Him)",
+      "url": "https://open.spotify.com/track/4Vxy6bU9BRZfLqGkiu5IpH"
+    },
+    {
+      "album": {
         "name": "Te Vi Mudar",
         "url": "https://open.spotify.com/album/56QdvJzTIUDA3IisAblZhz"
       },
@@ -21796,6 +21908,24 @@
       "duration_ms": 211653,
       "name": "todo y nada",
       "url": "https://open.spotify.com/track/7Dj6drRthSTvR787ejc4eI"
+    },
+    {
+      "album": {
+        "name": "tokyo",
+        "url": "https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206030,
+      "name": "tokyo",
+      "url": "https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO"
     },
     {
       "album": {

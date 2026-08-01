@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 88864,
+  "num_followers": 88877,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
-        "name": "Gas Erop",
-        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
-      },
-      "artists": [
-        {
-          "name": "Hak op de Tak",
-          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
-        },
-        {
-          "name": "K-Liber",
-          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "Gas Erop",
-      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
-    },
-    {
-      "added_at": "2026-06-25 22:00:27",
-      "album": {
         "name": "In Mijn Bloed (feat. Eelco)",
         "url": "https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9"
       },
@@ -887,22 +867,22 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
-        "name": "Vette Boeren (Radio Edit - Daani Remix)",
-        "url": "https://open.spotify.com/album/10pMdh864AvXkUekZiXI7p"
+        "name": "Gas Erop",
+        "url": "https://open.spotify.com/album/42wrHk8tCw82Gn7OIsq4KB"
       },
       "artists": [
         {
-          "name": "Jorieke Sterken",
-          "url": "https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb"
+          "name": "Hak op de Tak",
+          "url": "https://open.spotify.com/artist/4N4zllt2MXplNv5tciBn9e"
         },
         {
-          "name": "Daani",
-          "url": "https://open.spotify.com/artist/1oKitXDww7YYe1D78bGnzT"
+          "name": "K-Liber",
+          "url": "https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2"
         }
       ],
-      "duration_ms": 148235,
-      "name": "Vette Boeren - Radio Edit - Daani Remix",
-      "url": "https://open.spotify.com/track/3Nq60zJAV8QM3sJXa2pP4c"
+      "duration_ms": 179612,
+      "name": "Gas Erop",
+      "url": "https://open.spotify.com/track/3x2jNMSqQSjdEaUgj1oUWR"
     },
     {
       "added_at": "2026-06-25 22:00:27",
@@ -927,6 +907,26 @@
       "duration_ms": 151200,
       "name": "Nachtploeg",
       "url": "https://open.spotify.com/track/3rnMF97GYbD1ikfs7kegRE"
+    },
+    {
+      "added_at": "2026-06-25 22:00:27",
+      "album": {
+        "name": "Vette Boeren (Radio Edit - Daani Remix)",
+        "url": "https://open.spotify.com/album/10pMdh864AvXkUekZiXI7p"
+      },
+      "artists": [
+        {
+          "name": "Jorieke Sterken",
+          "url": "https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb"
+        },
+        {
+          "name": "Daani",
+          "url": "https://open.spotify.com/artist/1oKitXDww7YYe1D78bGnzT"
+        }
+      ],
+      "duration_ms": 148235,
+      "name": "Vette Boeren - Radio Edit - Daani Remix",
+      "url": "https://open.spotify.com/track/3Nq60zJAV8QM3sJXa2pP4c"
     },
     {
       "added_at": "2026-06-25 22:00:27",

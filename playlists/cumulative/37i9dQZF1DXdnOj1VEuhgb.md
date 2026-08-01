@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: ERAY067, Mansur
 
-1,095 songs - 2 day 0 hr 48 min
+1,096 songs - 2 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [ESC\*BAR](https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [ESC\*BAR](https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI) | 2:16 | 2024-07-04 | 2025-05-30 |
 | [Eski Bıçaklar Yeni Kesikler](https://open.spotify.com/track/39zgu9dSk0EenIJJWYnhpZ) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Eski Bıçaklar Yeni Kesikler](https://open.spotify.com/album/2aIeBV0qczeiKnZwzwi9s9) | 3:30 | 2024-09-12 | 2024-09-27 |
 | [ESKİ OKUL](https://open.spotify.com/track/0bvsV2THvrNj9tQm0yvfTn) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA), [Berkay Duman](https://open.spotify.com/artist/797U4xKy4p5Vi8vpWzJRD6), [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae) | [6EP](https://open.spotify.com/album/1xNzac76pyGW65UbQ15Jpn) | 3:18 | 2025-02-06 | 2025-02-21 |
-| [ESMER VAR KUMRAL VAR](https://open.spotify.com/track/7uNNVXWCL09CrS4A6KSkHq) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [RAHAT MUSIC](https://open.spotify.com/album/73Tida0H3E19TNAq5N1Ht4) | 2:17 | 2026-06-24 |  |
+| [ESMER VAR KUMRAL VAR](https://open.spotify.com/track/7uNNVXWCL09CrS4A6KSkHq) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [RAHAT MUSIC](https://open.spotify.com/album/73Tida0H3E19TNAq5N1Ht4) | 2:17 | 2026-06-24 | 2026-08-01 |
 | [Esmeri Sevdim Sarışınlara Kandım](https://open.spotify.com/track/6YcX9y3PuQ6s8WKRfkMYhb) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Esmeri Sevdim Sarışınlara Kandım](https://open.spotify.com/album/3b2i1X8ufSYWea9POTCMdA) | 2:45 | 2024-06-27 | 2024-07-19 |
 | [ESTAFURLA](https://open.spotify.com/track/67FQS0mvwg4j5LgdlTwJuc) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [ESTAFURLA](https://open.spotify.com/album/3iyn3IpyDYMy3myhSUWxXz) | 1:38 | 2023-01-19 | 2023-03-18 |
 | [EXTENDO](https://open.spotify.com/track/3reGUYKxAJMkZGEzWM8c5d) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [EXTENDO](https://open.spotify.com/album/7yLc5gd9QLV7N4z5HoU3Ig) | 2:26 | 2025-01-23 | 2025-05-02 |
@@ -945,6 +945,7 @@
 | [Tektim](https://open.spotify.com/track/3PmmPQH2fd0YEIyK6aWvzb) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD), [Mog](https://open.spotify.com/artist/5RkVB9oVMKGMFvH5d1fGo4) | [Tektim](https://open.spotify.com/album/2x3rypQdFGL1kApHIfU8bQ) | 2:12 | 2025-11-06 | 2025-11-21 |
 | [Telefon](https://open.spotify.com/track/4FmvHUteJvJa0z2HjXrlRM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Telefon](https://open.spotify.com/album/6b3fi3Bmx7mJRDIbZBbyFz) | 2:48 | 2023-07-27 | 2025-02-15 |
 | [TEMPO](https://open.spotify.com/track/076Dr6X4H6hoAML95QVlhn) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TEMPO](https://open.spotify.com/album/1GftyXEspbaRxHj6lA2s1f) | 2:12 | 2024-08-08 | 2024-12-06 |
+| [TEQUILA SUNRISE](https://open.spotify.com/track/482TpzTIJWTZ6uEY0JifRU) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [TEQUILA SUNRISE](https://open.spotify.com/album/0ojSAoMg6isjNn5rLMhGxx) | 2:41 | 2026-07-31 |  |
 | [TEXAS](https://open.spotify.com/track/51TItWP9iMMhPraDoyB8h2) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [TEXAS](https://open.spotify.com/album/0MNphtXHSRaI9N7pwfVFoh) | 1:46 | 2026-07-30 |  |
 | [Timsahlar](https://open.spotify.com/track/6wOuvnMDcWOTI9TTk8Jzem) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Timsahlar](https://open.spotify.com/album/3ehDnWigd5HOYWLccjQ34G) | 2:44 | 2026-06-18 |  |
 | [TIRMANDIM](https://open.spotify.com/track/7ozaiwhvK7n71jNoJF2v6y) | [Contra](https://open.spotify.com/artist/3tJELJoPZ4VTKmL0vppqLj), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [TIRMANDIM](https://open.spotify.com/album/7fI8MrZfCWgds0YnnRVdPg) | 2:13 | 2025-12-11 | 2025-12-26 |

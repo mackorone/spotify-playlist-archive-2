@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Gabriella Ekaputri
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,691 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,706 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 3 | [WHEN THE HOLIDAY ENDS](https://open.spotify.com/track/6XaXYV0PYsyfV4CWtesfdX) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [WHEN THE HOLIDAY ENDS](https://open.spotify.com/album/1pIv34xqSRrsrSuXhXWsbn) | 3:25 |
 | 4 | [Don't You Dare Touch My Kerupuk](https://open.spotify.com/track/1KsBkw5IczLePdkVnzg7HU) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Don't You Dare Touch My Kerupuk](https://open.spotify.com/album/1VuEjrUcSt1Mjk6kNrzdHP) | 3:52 |
 | 5 | [how do i even try?](https://open.spotify.com/track/118Sytgc76K30IBHz7cYIs) | [Drizzly](https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU) | [how do i even try?](https://open.spotify.com/album/3ACvwQ4p1n732G5EpZhNOv) | 3:59 |
-| 6 | [In My Elements](https://open.spotify.com/track/5gOR9mZRdKnW5zOTFHrpwD) | [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh), [South Tangerang Singer](https://open.spotify.com/artist/6IQmIxT061DkYQ45KegDcz) | [In My Elements](https://open.spotify.com/album/7qdyVKvAm3Uvp4gigkCEkX) | 2:57 |
+| 6 | [In My Elements](https://open.spotify.com/track/5gOR9mZRdKnW5zOTFHrpwD) | [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh), [South Tangerang Singers](https://open.spotify.com/artist/0tvmfhN8XaNR2W0P8ZzWMD) | [In My Elements](https://open.spotify.com/album/7qdyVKvAm3Uvp4gigkCEkX) | 2:57 |
 | 7 | [Coffee In The Morning](https://open.spotify.com/track/0EWcs9ucQzTfNS9fL3u7nS) | [BLINGOUTKID](https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN) | [Coffee In The Morning](https://open.spotify.com/album/5loHuYqp8tlA0IGbNUPbQf) | 3:00 |
 | 8 | [On My Knees](https://open.spotify.com/track/4VDltt7j2Hc71BF6jxiLw0) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [On My Knees](https://open.spotify.com/album/0r8EtBaVXwmjWCbZrx0Kea) | 3:42 |
 | 9 | [Leftover Umbrellas](https://open.spotify.com/track/3nqQgiS7a7VYRHWdGMON0L) | [The Midlife Theory](https://open.spotify.com/artist/01f7luFKh6gKPJuxGvMrWh) | [Leftover Umbrellas](https://open.spotify.com/album/7iKyhq7jwmtawEYPIjcY0n) | 3:34 |

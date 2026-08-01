@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Finn Wolfhard
 
-2,197 songs - 5 day 4 hr 33 min
+2,198 songs - 5 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Can't See](https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Can’t See](https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI) | 2:26 | 2025-11-21 |  |
 | [Candy Apple](https://open.spotify.com/track/20uwCFdYyUHOhKZ3xGhrQh) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [Candy Apple](https://open.spotify.com/album/1oNoQWHRmr3ADNwAGO9dB6) | 3:46 | 2023-08-11 | 2023-08-26 |
 | [Cannonball](https://open.spotify.com/track/40ipIQoiI8Dg58yPbe4S5X) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [It Will Never Be The Same](https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX) | 4:05 | 2023-03-31 | 2023-06-10 |
+| [Canopy](https://open.spotify.com/track/5e9tqR7s11fwbPXJWyI4WC) | [Winyah](https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG) | [Canopy & Shades Of Green](https://open.spotify.com/album/06edgNjavwaBkVkBMEQkUR) | 2:56 | 2026-07-31 |  |
 | [cant celebrate](https://open.spotify.com/track/7FASEsOoEfBpUjdkIuz40V) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [cant celebrate](https://open.spotify.com/album/7feZHa1JhU5fizfntgl46E) | 4:14 | 2022-04-29 | 2022-06-10 |
 | [Capricorn](https://open.spotify.com/track/2tKqhcDNVVKXJqllKzrecM) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Capricorn / Gen\-X Cops](https://open.spotify.com/album/3szHsSqtiYzj9UbJRgvqkv) | 4:09 | 2024-02-16 | 2024-12-14 |
 | [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 | 2024-02-16 | 2024-04-19 |
@@ -1550,7 +1551,7 @@
 | [Rainbow Overpass](https://open.spotify.com/track/2GZOsGvLs2b8ssK7YJtW8O) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU), [Alex Orange Drink](https://open.spotify.com/artist/6MjoFNppz6Tm6qCdHrzcvx) | [Rainbow Overpass](https://open.spotify.com/album/0kTQk0M86lS5bVn8SvCHVA) | 3:01 | 2024-08-09 | 2024-10-19 |
 | [Raining On Your Pillow](https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Raining On Your Pillow](https://open.spotify.com/album/35uymqTjUrltGX52KHDns8) | 3:53 | 2024-05-24 | 2024-10-26 |
 | [Randall Flagg](https://open.spotify.com/track/4eRoGhykyQCIzhOaFf35zX) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Magic Hour](https://open.spotify.com/album/4SjIdmDhVUA1eunwERtgPv) | 3:39 | 2022-10-07 | 2022-11-19 |
-| [Rat Race](https://open.spotify.com/track/1zRFwxWzp8fb1c5S6vy0Wt) | [Winyah](https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG) | [Rat Race](https://open.spotify.com/album/2wx3NG4YOpyhCHZI2tHmO7) | 3:20 | 2026-04-10 |  |
+| [Rat Race](https://open.spotify.com/track/1zRFwxWzp8fb1c5S6vy0Wt) | [Winyah](https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG) | [Rat Race](https://open.spotify.com/album/2wx3NG4YOpyhCHZI2tHmO7) | 3:20 | 2026-04-10 | 2026-08-01 |
 | [Rats](https://open.spotify.com/track/3OaWrE5UWpMFzNAC8SDzrp) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Panic Attack](https://open.spotify.com/album/4882yg0ncijjrB0hwgouLe) | 2:25 | 2023-01-27 | 2023-04-09 |
 | [Rats](https://open.spotify.com/track/7li497pL9YAtpGb7Z9lgiF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Rats](https://open.spotify.com/album/1t6ZnDLibVT6ixBCp1H4DY) | 2:25 | 2022-11-18 | 2023-01-11 |
 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 | 2022-10-14 | 2022-12-08 |

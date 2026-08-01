@@ -1,6 +1,6 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 234998,
+  "num_followers": 235035,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -355,26 +355,6 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Laembadgini",
-        "url": "https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Jatinder Shah",
-          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
-        }
-      ],
-      "duration_ms": 186312,
-      "name": "Laembadgini",
-      "url": "https://open.spotify.com/track/5zKWrXbY0EU8ZComTwfnk6"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
         "name": "Raat Di Gedi",
         "url": "https://open.spotify.com/album/0o0DkE6Z8UbdRF67DafGAJ"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 142203,
       "name": "Veer Vaar - From \"Sardaarji\"",
       "url": "https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "Laembadgini",
+        "url": "https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Jatinder Shah",
+          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
+        }
+      ],
+      "duration_ms": 186312,
+      "name": "Laembadgini",
+      "url": "https://open.spotify.com/track/5zKWrXbY0EU8ZComTwfnk6"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 148158,
-      "name": "Cry Later",
-      "url": "https://open.spotify.com/track/72ztIrIf22Mf9hDqr8xaYo"
+      "duration_ms": 184434,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 184434,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/1fvzAz230Q0Uzl5k3plxYg"
+      "duration_ms": 148158,
+      "name": "Cry Later",
+      "url": "https://open.spotify.com/track/72ztIrIf22Mf9hDqr8xaYo"
     },
     {
       "added_at": "2026-06-12 05:30:19",

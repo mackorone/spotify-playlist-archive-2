@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,344 songs - 3 day 10 hr 44 min
+1,346 songs - 3 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1037,6 +1037,7 @@
 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 | 2021-08-15 |  |
 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 | 2022-12-10 |  |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2026-03-13 |  |
+| [So Long](https://open.spotify.com/track/3xun1vv9RHLZzUOBuWY8UZ) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Speed Dealer](https://open.spotify.com/album/5BL6SsxWXFOlmHunSjvEky) | 4:40 | 2026-07-31 |  |
 | [Soft Currents](https://open.spotify.com/track/0Ew6HikxOkDLjoTPQIN0BL) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/6LbyR5pthd2ao8QwxzLtV8) | 3:11 | 2022-07-23 |  |
 | [Solitude Is Bliss](https://open.spotify.com/track/6ZOYiRAgRpfAMJQKUWJPje) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(10 Year Anniversary Edition\)](https://open.spotify.com/album/65BL1WmHblGCNmhzfgYEyD) | 3:55 | 2021-04-30 |  |
 | [Solo Dolo, Pt\. III](https://open.spotify.com/track/27oVCAziETRbNuo5A8LNpg) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 4:02 | 2022-04-07 |  |
@@ -1053,6 +1054,7 @@
 | [SOS](https://open.spotify.com/track/5xMw6qCcpd2gBXPGTegC4W) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 1:57 | 2022-12-10 |  |
 | [Soul Train \- Quad Cover](https://open.spotify.com/track/2K71aXhpUFcIla3c9siyBk) | [Reno](https://open.spotify.com/artist/46hSwkXAwKPcVxnh5vdJCV) | [Soul Train](https://open.spotify.com/album/1mDGnKBxy8kHSbj1noc4hl) | 3:06 | 2022-11-04 |  |
 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 | 2026-01-21 |  |
+| [Speed Dealer](https://open.spotify.com/track/4FuIagU6Rfw9cIQO4cUA9V) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Speed Dealer](https://open.spotify.com/album/5BL6SsxWXFOlmHunSjvEky) | 5:10 | 2026-07-31 |  |
 | [Sprinter](https://open.spotify.com/track/08YvUaUsZktAG6zEMDwUqO) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:49 | 2023-07-17 | 2025-09-17 |
 | [St\. Chroma \(feat\. Daniel Caesar\)](https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 3:17 | 2024-11-01 |  |
 | [St\. Mark's Funny Feeling](https://open.spotify.com/track/1AD9QOs15iecgVRuzo2llQ) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie](https://open.spotify.com/album/1LNCdy3xZoibzDh0WllxHY) | 4:20 | 2024-10-25 |  |

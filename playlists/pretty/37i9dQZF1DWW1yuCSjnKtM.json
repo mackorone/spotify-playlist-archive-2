@@ -1,6 +1,6 @@
 {
   "description": "Hot right now \ud83d\udcc8 cover: KITSCHKRIEG, Skepta, Blumengarten",
-  "num_followers": 222180,
+  "num_followers": 222168,
   "original_name": "Viral Songs UK & IE",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2026-07-30 23:00:22",
       "album": {
-        "name": "Gut Genug (with Blumengarten & Skepta)",
+        "name": "Gut Genug (with Skepta & Blumengarten)",
         "url": "https://open.spotify.com/album/1vSHSyVaa9xVii1YNq5Tq6"
       },
       "artists": [
@@ -20,16 +20,16 @@
           "url": "https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4"
         },
         {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        },
-        {
           "name": "Skepta",
           "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Blumengarten",
+          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
         }
       ],
       "duration_ms": 173121,
-      "name": "Gut Genug (with Blumengarten & Skepta)",
+      "name": "Gut Genug (with Skepta & Blumengarten)",
       "url": "https://open.spotify.com/track/71zVyAO3nkykYTFBfiw1DM"
     },
     {

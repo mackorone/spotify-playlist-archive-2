@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/4dtJPX1e6bhP60KSMVFkXl"
+      },
+      "artists": [
+        {
+          "name": "Gaston",
+          "url": "https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201025,
+      "name": "Cloud Nine",
+      "url": "https://open.spotify.com/track/6tpuh615EirmIVOsL10ZbW"
+    },
+    {
+      "album": {
         "name": "coincidence",
         "url": "https://open.spotify.com/album/0FELv2lgjvO9tJPzuo2Wjf"
       },
@@ -1007,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "Ltdblbl024",
+        "url": "https://open.spotify.com/album/1xqkYF2EJYsDZOXxwoVKaQ"
+      },
+      "artists": [
+        {
+          "name": "Juando",
+          "url": "https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311014,
+      "name": "Deep Sea Marina",
+      "url": "https://open.spotify.com/track/1Z3Kb5EQ7uMIL8gRzq5SjM"
+    },
+    {
+      "album": {
         "name": "Different place, same people",
         "url": "https://open.spotify.com/album/1wUJpcDx6efKPrmHwYDsU6"
       },
@@ -1152,7 +1188,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 146000,
       "name": "DTPA",
       "url": "https://open.spotify.com/track/2pW1kEB7RK8CdumAiXBlXr"
@@ -1422,7 +1458,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 115125,
       "name": "First Class",
       "url": "https://open.spotify.com/track/0FmaabJZJEYMJWrGvUCKCS"
@@ -1578,6 +1614,28 @@
       "duration_ms": 282503,
       "name": "Funky Funghi",
       "url": "https://open.spotify.com/track/4dMdH1MAZDI0ovK5ROOfmi"
+    },
+    {
+      "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/3a0Cd2nUTgoiJZEvErUgum"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        },
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/3op3tRzNmYdRREFU9E6swi"
     },
     {
       "album": {
@@ -2107,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1zfAJKj09xuuF6KDwAjHep"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9bastien Lintz",
+          "url": "https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160540,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/0o5ortx9APE6GGXCR1rYwS"
+    },
+    {
+      "album": {
         "name": "In The House of Waterfalls",
         "url": "https://open.spotify.com/album/48afQIVKyqdTdu7DrKId9m"
       },
@@ -2248,7 +2324,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 164000,
       "name": "jazz is for ordinary people",
       "url": "https://open.spotify.com/track/12BaQt9aYdTlEtKreqB5V4"
@@ -2728,6 +2804,24 @@
       "duration_ms": 338356,
       "name": "Lum",
       "url": "https://open.spotify.com/track/0z7kmmyQJwKjYpB3h0JBUk"
+    },
+    {
+      "album": {
+        "name": "Make it happen.",
+        "url": "https://open.spotify.com/album/36ECaKImuhB7t2nUbjjyDj"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104320,
+      "name": "Make it happen.",
+      "url": "https://open.spotify.com/track/3hJPYF19ISp9ct7I2fiU5j"
     },
     {
       "album": {
@@ -3520,7 +3614,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 161000,
       "name": "Pacific View",
       "url": "https://open.spotify.com/track/0aM2FqYen0KIJ6NtS1ZWO3"
@@ -4330,7 +4424,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 152000,
       "name": "Take your time.",
       "url": "https://open.spotify.com/track/7z6FOZE1aQoZa3D2dPXlLm"
@@ -4577,6 +4671,24 @@
     },
     {
       "album": {
+        "name": "Travelling",
+        "url": "https://open.spotify.com/album/2sNUqlx4pyjnMstGPGkZ6u"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Travelling",
+      "url": "https://open.spotify.com/track/4CEMsS2qz4JScCJlV2mNbg"
+    },
+    {
+      "album": {
         "name": "tres palmas",
         "url": "https://open.spotify.com/album/2doAeZEmDlWabXhhaiAql5"
       },
@@ -4644,7 +4756,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 201572,
       "name": "TTT",
       "url": "https://open.spotify.com/track/6gDDaGM8zIscNdtbWESvWl"

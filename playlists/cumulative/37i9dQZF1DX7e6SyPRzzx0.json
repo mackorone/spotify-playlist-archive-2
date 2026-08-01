@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Maverick \u201cAlmost Forever\u201d EP",
+        "url": "https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Gas. Brake.",
+      "url": "https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2"
+    },
+    {
+      "album": {
         "name": "LYFESTYLE",
         "url": "https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc"
       },
@@ -3064,7 +3082,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 191059,
       "name": "Paperbag Boy",
       "url": "https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP"
@@ -3998,7 +4016,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 244339,
       "name": "Vivienne Westwood / RIP",
       "url": "https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h"
@@ -4314,6 +4332,24 @@
       "duration_ms": 106536,
       "name": "Yale",
       "url": "https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk"
+    },
+    {
+      "album": {
+        "name": "Maverick \u201cAlmost Forever\u201d EP",
+        "url": "https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173233,
+      "name": "Yoko",
+      "url": "https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7e6SyPRzzx0"

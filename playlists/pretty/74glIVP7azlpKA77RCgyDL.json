@@ -6,8 +6,108 @@
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAQmbFTvhHHp2t6shBIaxIbuZ3StgFG",
+  "snapshot_id": "AAAQpXd+nbCAfXs5r2RWFuGHAbR1x/dH",
   "tracks": [
+    {
+      "added_at": "2026-07-31 19:27:31",
+      "album": {
+        "name": "World Alone",
+        "url": "https://open.spotify.com/album/5ezkvWhhKgvWy7QMp8e3jd"
+      },
+      "artists": [
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        },
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "World Alone",
+      "url": "https://open.spotify.com/track/3nYmetKNJe8zTHdT9NkfOP"
+    },
+    {
+      "added_at": "2026-07-31 19:28:55",
+      "album": {
+        "name": "The Door",
+        "url": "https://open.spotify.com/album/1vonLItOjkqxb8X7Sj0nah"
+      },
+      "artists": [
+        {
+          "name": "Prodigal",
+          "url": "https://open.spotify.com/artist/1WxF7GNIdVk1GCIYJlZndz"
+        }
+      ],
+      "duration_ms": 156098,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/6SzWDpWsjo8nN6RkVsc9ri"
+    },
+    {
+      "added_at": "2026-07-31 19:28:43",
+      "album": {
+        "name": "dark heaven",
+        "url": "https://open.spotify.com/album/7woe2GdN3MCCex0aVYKCNM"
+      },
+      "artists": [
+        {
+          "name": "PRESIDENT",
+          "url": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+        }
+      ],
+      "duration_ms": 212272,
+      "name": "dark heaven",
+      "url": "https://open.spotify.com/track/7fxZMosQVwOr2E6VUYBkoR"
+    },
+    {
+      "added_at": "2026-07-31 19:29:35",
+      "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/3gu3WONQrN70m2mZIAS2q0"
+      },
+      "artists": [
+        {
+          "name": "PUREST FORM",
+          "url": "https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro"
+        }
+      ],
+      "duration_ms": 192866,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/7BlGdTvvVAw2NAJtqoKCT2"
+    },
+    {
+      "added_at": "2026-07-31 19:27:22",
+      "album": {
+        "name": "Saveyourself",
+        "url": "https://open.spotify.com/album/3iA93sAaL63G6zr3MAVB7G"
+      },
+      "artists": [
+        {
+          "name": "ASAVA",
+          "url": "https://open.spotify.com/artist/6CQw6qt1rxEUH5aNQnCzta"
+        }
+      ],
+      "duration_ms": 321163,
+      "name": "Saveyourself",
+      "url": "https://open.spotify.com/track/1P1Lrw01kT8b1ioS5HPVrs"
+    },
+    {
+      "added_at": "2026-07-31 19:30:26",
+      "album": {
+        "name": "No Way To Live",
+        "url": "https://open.spotify.com/album/3HKbZP8k1jbfVwjP0PtH7j"
+      },
+      "artists": [
+        {
+          "name": "Silvertomb",
+          "url": "https://open.spotify.com/artist/1DzvOgjYhye3yHciiHu8TE"
+        }
+      ],
+      "duration_ms": 306933,
+      "name": "No Way To Live",
+      "url": "https://open.spotify.com/track/1ahhuCnejbSb07VRXLHzqA"
+    },
     {
       "added_at": "2026-07-24 19:59:01",
       "album": {

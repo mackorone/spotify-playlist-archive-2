@@ -1,12 +1,12 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285611,
+  "num_followers": 285630,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwn5306FXsS4hzPJQ2wBTOimq6L",
+  "snapshot_id": "AAAAAMEldA3Xt2Ij4IuBaUCM8i0wIGZX",
   "tracks": [
     {
       "added_at": "2026-07-23 21:17:27",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Mad World",
-        "url": "https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH"
-      },
-      "artists": [
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 302746,
-      "name": "Mad World",
-      "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Solid Butter",
         "url": "https://open.spotify.com/album/4oJM8xjP495Q7WxcyYD3id"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 281000,
       "name": "Creep",
       "url": "https://open.spotify.com/track/0Qbw6nRllQwItyP2Lv6ixK"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Mad World",
+        "url": "https://open.spotify.com/album/2mrq4gDXWKLEsVAF0sEkiH"
+      },
+      "artists": [
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 302746,
+      "name": "Mad World",
+      "url": "https://open.spotify.com/track/7sYMSlxgCEdLoXv0PqYEjp"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 229516,
-      "name": "She's A Rainbow",
-      "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Wake Me Up (The Bluegrass Rendition)",
         "url": "https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 263996,
       "name": "Wake Me Up - The Bluegrass Rendition",
       "url": "https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 229516,
+      "name": "She's A Rainbow",
+      "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Soak Up The Sun",
+        "url": "https://open.spotify.com/album/5oN1wKobG07fQ47P4DQm0p"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 239744,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/7CfWAYl1LA7L8XqVRtvSPN"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Shaken By A Low Sound",
         "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
       },
@@ -443,6 +459,26 @@
       "duration_ms": 299213,
       "name": "Come On In My Kitchen",
       "url": "https://open.spotify.com/track/7wmX9k2kWK3PrfBbTgOzZV"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
+        "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
+      },
+      "artists": [
+        {
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+        },
+        {
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -479,26 +515,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Fade To Bluegrass: The Bluegrass Tribute To Metallica",
-        "url": "https://open.spotify.com/album/4z8QBQBG513nlZrgDWsuqg"
-      },
-      "artists": [
-        {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
-        },
-        {
-          "name": "Iron Horse",
-          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/7GXfXVnuqATxCs6EQoDcVS"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Stuck in the Middle With You",
         "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 236000,
       "name": "Stuck in the Middle With You",
       "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Soak Up The Sun",
-        "url": "https://open.spotify.com/album/5oN1wKobG07fQ47P4DQm0p"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 239744,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/7CfWAYl1LA7L8XqVRtvSPN"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": ".",
-        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 298250,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Folsom Prison Blues",
         "url": "https://open.spotify.com/album/0lRIWEVebJgKYWyQa2PNhW"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 356484,
       "name": "While My Guitar Gently Weeps",
       "url": "https://open.spotify.com/track/6ivuyEPAwlvEJvBIfuMWz6"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 298250,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/2EF09Y1t1UWXgnH0XFF0QN"
-      },
-      "artists": [
-        {
-          "name": "Craig Duncan",
-          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
-        }
-      ],
-      "duration_ms": 223005,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Pursuit of Happiness",
         "url": "https://open.spotify.com/album/1Ie8GLQFnaxchf0ZPihKvq"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 333000,
       "name": "Pursuit of Happiness",
       "url": "https://open.spotify.com/track/5Pc2mBvuWh86EJZXKoqOoW"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/2EF09Y1t1UWXgnH0XFF0QN"
+      },
+      "artists": [
+        {
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        }
+      ],
+      "duration_ms": 223005,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 185305,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Elderly Woman Behind the Counter in a Small Town",
         "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
       },
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 185305,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Fire and Rain",
         "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
       },
@@ -1567,22 +1567,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Break on Through (To the Other Side)",
-        "url": "https://open.spotify.com/album/6hRj4yRNbXucoVjuSQwSFT"
+        "name": "good 4 u / Dooley's Farm (Spotify Singles)",
+        "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
       "artists": [
         {
-          "name": "Pickin' On Series",
-          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
         },
         {
-          "name": "Iron Horse",
-          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
         }
       ],
-      "duration_ms": 215600,
-      "name": "Break on Through (To the Other Side)",
-      "url": "https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb"
+      "duration_ms": 216343,
+      "name": "good 4 u - Spotify Sessions",
+      "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1607,22 +1607,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "good 4 u / Dooley's Farm (Spotify Singles)",
-        "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
+        "name": "Break on Through (To the Other Side)",
+        "url": "https://open.spotify.com/album/6hRj4yRNbXucoVjuSQwSFT"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+          "name": "Pickin' On Series",
+          "url": "https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw"
         },
         {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+          "name": "Iron Horse",
+          "url": "https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t"
         }
       ],
-      "duration_ms": 216343,
-      "name": "good 4 u - Spotify Sessions",
-      "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
+      "duration_ms": 215600,
+      "name": "Break on Through (To the Other Side)",
+      "url": "https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "If I Needed You",
-        "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
-      },
-      "artists": [
-        {
-          "name": "Admiral Radio",
-          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
-        }
-      ],
-      "duration_ms": 203416,
-      "name": "If I Needed You",
-      "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Fistful Of Bullets",
         "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 271753,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "If I Needed You",
+        "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
+      },
+      "artists": [
+        {
+          "name": "Admiral Radio",
+          "url": "https://open.spotify.com/artist/2qpKTCEq8tcqBhSibdDV9v"
+        }
+      ],
+      "duration_ms": 203416,
+      "name": "If I Needed You",
+      "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
     },
     {
       "added_at": "2026-07-23 21:17:27",

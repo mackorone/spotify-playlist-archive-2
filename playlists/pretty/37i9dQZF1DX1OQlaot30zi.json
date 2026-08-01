@@ -1,6 +1,6 @@
 {
   "description": "Sempre aggiornata \ud83d\ude08 Con nuovi brani di Young Snapp, e molti altri. ",
-  "num_followers": 55898,
+  "num_followers": 55914,
   "original_name": "Novit\u00e0 Rap Italiano",
   "owner": {
     "name": "Spotify",
@@ -11,7 +11,7 @@
     {
       "added_at": "2026-07-30 22:02:47",
       "album": {
-        "name": "Dale (feat. Frezza, G.Mineiro, R3versal)",
+        "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
         "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
       },
       "artists": [
@@ -33,7 +33,7 @@
         }
       ],
       "duration_ms": 188000,
-      "name": "Dale (feat. Frezza, G.Mineiro, R3versal)",
+      "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
       "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
     },
     {
@@ -622,10 +622,14 @@
         {
           "name": "Soubra",
           "url": "https://open.spotify.com/artist/7staNGw61cPotqe4ZJhSmf"
+        },
+        {
+          "name": "G.Mineiro",
+          "url": "https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 118204,
+      "name": "Ren\u00e8 Lacoste",
       "url": "https://open.spotify.com/track/3jpn6bWP4zD7jqltNptGRT"
     },
     {
@@ -719,6 +723,26 @@
       "duration_ms": 121850,
       "name": "G LIKE",
       "url": "https://open.spotify.com/track/5FXigPxEuRJNK72AzK99b5"
+    },
+    {
+      "added_at": "2026-07-30 22:02:47",
+      "album": {
+        "name": "No Love No Lies",
+        "url": "https://open.spotify.com/album/5S2FWIbWHjzVPdVoXV4IFq"
+      },
+      "artists": [
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        },
+        {
+          "name": "Ex\u2227",
+          "url": "https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ"
+        }
+      ],
+      "duration_ms": 128052,
+      "name": "No Love No Lies",
+      "url": "https://open.spotify.com/track/42BqDxZCkP9McrPfpqvspf"
     },
     {
       "added_at": "2026-07-30 22:02:47",

@@ -1,13 +1,29 @@
 {
   "description": "This is Jae Stephens. The essential tracks, all in one playlist.",
-  "num_followers": 641,
+  "num_followers": 643,
   "original_name": "This Is Jae Stephens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAADh64YpgyxoXc+E6BJ6+xvJ",
+  "snapshot_id": "amqUAAAAAAAyzGCjlpOt5Mr50Hrc+yoA",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Trap",
+        "url": "https://open.spotify.com/album/4kpCgnv0TUG1hthUu3T81K"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 189693,
+      "name": "Sugar Trap",
+      "url": "https://open.spotify.com/track/03VYBi1WtoSXgH4vYV5ppT"
+    },
     {
       "added_at": null,
       "album": {

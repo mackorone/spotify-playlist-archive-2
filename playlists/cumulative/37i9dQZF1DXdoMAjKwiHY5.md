@@ -4,7 +4,7 @@
 
 > Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop\-rock favorites.
 
-91 songs - 5 hr 50 min
+92 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Live Like We're Dying](https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz) | [Kris Allen](https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM) | [Kris Allen](https://open.spotify.com/album/5fM41TOegBBrRO7NhmFYvP) | 3:32 | 2023-07-06 |  |
 | [Lonely No More](https://open.spotify.com/track/4faFAhOflLzhfJECveRwva) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Something to Be](https://open.spotify.com/album/07hC5JSKAodpBIVR6A772E) | 3:46 | 2023-07-06 |  |
 | [Long Yellow Dress](https://open.spotify.com/track/5LKidZHW0GGEhFjwBHgq1E) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Long Yellow Dress](https://open.spotify.com/album/5cDUm4xijWkKovh69cUL3H) | 3:09 | 2024-04-26 | 2026-06-12 |
+| [Mad Dog in the Fog](https://open.spotify.com/track/3bxVPDBmH6eIJaxe3FnNVJ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Mad Dog in the Fog](https://open.spotify.com/album/5k6bVjojHQOCux6plgLwia) | 3:47 | 2026-07-31 |  |
 | [Manhattan From The Sky](https://open.spotify.com/track/523xr53yavDWpxl7etEdag) | [Kate Voegele](https://open.spotify.com/artist/7whckrkkTMEuvqfaNfMs7S) | [A Fine Mess \(Deluxe\)](https://open.spotify.com/album/46Kny4qy8FGd0AE0L3M4Lz) | 3:31 | 2023-06-08 |  |
 | [Miss California](https://open.spotify.com/track/48NtFCrBTfehbMhbZrkPGR) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Imperfect Circle](https://open.spotify.com/album/7pvoNsdHfd3MhBiV7CzUQV) | 3:11 | 2023-06-08 |  |
 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 | 2023-06-08 |  |
@@ -68,7 +69,7 @@
 | [Nothing Left To Lose](https://open.spotify.com/track/4MzV7oB4N73FD7pCQjzDIa) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Nothing Left To Lose \(Expanded Edition\)](https://open.spotify.com/album/4QOiSutKuxZ50zokHhz4QN) | 4:23 | 2023-06-08 |  |
 | [Ocean](https://open.spotify.com/track/07l1kKih1RMbzyXtrfV7dl) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Summer Anthem](https://open.spotify.com/album/3DCY0TDCPChhTocNkkFoah) | 3:26 | 2025-08-22 |  |
 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 | 2023-06-08 |  |
-| [Pennsylvania Turnpike](https://open.spotify.com/track/4gXjzDndwLo65Mtc6zsNeZ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Pennsylvania Turnpike](https://open.spotify.com/album/5PcRDcKPzr2dORUnRWROwQ) | 3:40 | 2026-06-12 |  |
+| [Pennsylvania Turnpike](https://open.spotify.com/track/4gXjzDndwLo65Mtc6zsNeZ) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Pennsylvania Turnpike](https://open.spotify.com/album/5PcRDcKPzr2dORUnRWROwQ) | 3:40 | 2026-06-12 | 2026-08-01 |
 | [Pictures Of You](https://open.spotify.com/track/6V4y4uuMAxe2EYDIWNToaH) | [The Last Goodnight](https://open.spotify.com/artist/4UrGiQXrpB2CmzVGVFtH5E) | [Pictures Of You](https://open.spotify.com/album/4EVjjpQd3Qw6tWIHgII6Rq) | 3:10 | 2023-06-08 |  |
 | [Queen of New York City](https://open.spotify.com/track/6GN1unKvg3uyOBj2dCV41D) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Where The Light Goes](https://open.spotify.com/album/2pEYh3VNKgM40c6UMiLhbV) | 3:32 | 2023-06-08 |  |
 | [Run All Night](https://open.spotify.com/track/3NpnBHI6qEyauHYfrQqg1w) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Run All Night](https://open.spotify.com/album/047z4hEbghpi0VImdQ8JgS) | 4:50 | 2023-06-23 |  |

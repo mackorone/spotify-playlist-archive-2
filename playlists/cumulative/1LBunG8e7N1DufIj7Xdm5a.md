@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,576 songs - 10 day 5 hr 42 min
+4,579 songs - 10 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,6 +610,7 @@
 | [Chains](https://open.spotify.com/track/2SNzI8vM6mBMPqduEEpMG2) | [Valley Souls](https://open.spotify.com/artist/26ph4Q3k8XDUvaUf2uAmo3) | [Chains](https://open.spotify.com/album/6b9mctTUwAivrfZKEuF5Nv) | 2:07 | 2025-11-03 |  |
 | [Chains of Oblivion](https://open.spotify.com/track/0zt3mMu7GEWQotPxHoJTQ2) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Eighties style heavy metal](https://open.spotify.com/album/6j2jeJa6FmNMtXyWgjpfDN) | 4:54 | 2025-09-10 |  |
 | [Chakra Sacro \(Donde El Deseo Canta\)](https://open.spotify.com/track/4AFoPljV5M0rQ74WQBWbmt) | [Judy Trinity](https://open.spotify.com/artist/4i7An55IinYv3AJLYItmeu) | [Chakra Sacro \(Donde El Deseo Canta\)](https://open.spotify.com/album/6Cjo3cVtHQhpaHSiYxC9Rx) | 2:36 | 2025-12-29 |  |
+| [Chal Baarish Mein](https://open.spotify.com/track/0VlNoYkB28z04hg4k6GnKE) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Chal Baarish Mein](https://open.spotify.com/album/7cVIrp5FZGnC6ufek5Sykb) | 2:56 | 2026-07-31 |  |
 | [Chalet](https://open.spotify.com/track/7sj4NMqCl7YfeTJCNX4Tmr) | [SpaceBlankZero](https://open.spotify.com/artist/2tP1jzPPZ5EAehmL0PjFKd) | [Chalet](https://open.spotify.com/album/4Q8KpPk5MLXvIMigNNoiwi) | 4:21 | 2026-06-06 |  |
 | [chances](https://open.spotify.com/track/7EKCmSaglanEVHI9dCJsgd) | [VANO 3000](https://open.spotify.com/artist/770glnH67Mk4u2D41sxAhx) | [VANO SSWIM](https://open.spotify.com/album/5fbvYtvVRVIJbneWM3zIS0) | 2:18 | 2025-05-16 |  |
 | [Change](https://open.spotify.com/track/0EiXA1gHsXasUgR9GxhjeE) | [DOJOKUN](https://open.spotify.com/artist/1tHQ1ejmEqRiFp6a3HzgRN) | [Change](https://open.spotify.com/album/4Nyh55xw3K3VvNDiBcJlt6) | 3:11 | 2025-07-02 |  |
@@ -1581,6 +1582,7 @@
 | [From dolmen to stonehadge](https://open.spotify.com/track/1uDiVtFjjq2xnPxXFgk6uT) | [ian3celia](https://open.spotify.com/artist/30022KpFyikBjT2dvQ1dHU) | [From dolmen to stonehenge](https://open.spotify.com/album/2DWREFYzrdkMdMLHtmeSpf) | 3:22 | 2026-02-01 |  |
 | [from dolmen to stonehange](https://open.spotify.com/track/0poo3sN4FFTp8ESe8Rnphw) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [FROM DOLMEN TO STONANGE](https://open.spotify.com/album/1WKaTJGDIA5YgdaMESyi3m) | 3:22 | 2026-01-16 |  |
 | [From east to west](https://open.spotify.com/track/6ReVKHnqarCSlUzHct6pbw) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [From east to west](https://open.spotify.com/album/5TGWXU79TkABEo2bKm4aTG) | 4:54 | 2025-06-05 |  |
+| [FROM THE SHADOWS](https://open.spotify.com/track/7tEGeo1rG64sgU7FZ2ivQ7) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [FROM THE SHADOWS](https://open.spotify.com/album/3qvRFg9iJJMYuiqkBZYE2M) | 4:48 | 2026-07-31 |  |
 | [Front Porch Wisdom \(And a Cup of Tea\)](https://open.spotify.com/track/1jVR4lpiQPQz8ArITeH5Dy) | [Willow Creek](https://open.spotify.com/artist/1Dl4eYUATA4sTfXHPYEZnF) | [Unfolding Joy](https://open.spotify.com/album/1qPiWwek5lSYMsWgc5juKW) | 4:54 | 2026-04-29 |  |
 | [Frontier Snow](https://open.spotify.com/track/6qW4799c2YhHshgwyVgXOl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Frontier Snow](https://open.spotify.com/album/3S8GuBbOqtyIN5EqF5KiC2) | 3:19 | 2025-12-10 |  |
 | [Frowned Upon](https://open.spotify.com/track/3udEXAmLrG9tnU7a9Vxibs) | [Anyverse](https://open.spotify.com/artist/5n7wwlclR6kAlw5N74NCSg) | [Frowned Upon](https://open.spotify.com/album/5YNbGKqoXOLiyVMupRt61y) | 3:38 | 2025-06-25 |  |
@@ -4197,6 +4199,7 @@
 | [Underneath the Stars](https://open.spotify.com/track/2XbdjNYS9oZid271KQVYFD) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Acoustic and Melodic Indie Music](https://open.spotify.com/album/1g4bWG0VlAcdzSqqUqE2AD) | 2:55 | 2025-09-19 |  |
 | [Underneath the Stars \(another\)](https://open.spotify.com/track/70ia82agzMq85hRL3cU0L5) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Acoustic and Melodic Indie Music](https://open.spotify.com/album/1g4bWG0VlAcdzSqqUqE2AD) | 2:29 | 2025-09-19 |  |
 | [UNDERTAKER](https://open.spotify.com/track/2U5yhEeF1esUG04PW5V1LF) | [Aledo](https://open.spotify.com/artist/1zut1l8F8d0ZF4KHCmhdy2), [Lilg YK](https://open.spotify.com/artist/0IDFBBEfukaoe0QZbe5V9x), [Jeve](https://open.spotify.com/artist/2oLaoMDrS45QdcUb49wWmc) | [UNDERTAKER](https://open.spotify.com/album/0h0XSPGK92QckSEZZO9Uob) | 2:57 | 2025-06-05 |  |
+| [Unfaithfull](https://open.spotify.com/track/5IU31DNoQlGE1RURLKkKyZ) | [Aerocks](https://open.spotify.com/artist/6P2AR5uerZRgGhRX8pfGZf) | [Unfaithfull](https://open.spotify.com/album/1WtVj4kyR95YObew02ye1m) | 4:25 | 2026-07-31 |  |
 | [Unfinished Wood](https://open.spotify.com/track/21xWSXmvje5ziqyXdqZXgd) | [Fickle Hill](https://open.spotify.com/artist/7K7Uyq9xCc8uxlHQgQnUHx) | [Unfinished Wood](https://open.spotify.com/album/1YXEddINtAJcMWNkYgkQzk) | 2:56 | 2026-05-17 |  |
 | [Unforgiving Nights](https://open.spotify.com/track/6fMsIOzZvMal7Va9DVK3YE) | [Ev Kalo](https://open.spotify.com/artist/0kuWGBFMMa8a6jJeFAZwbq) | [Unforgiving Nights](https://open.spotify.com/album/6rAssQcROkNxsZrDfqJsYP) | 3:38 | 2026-07-21 |  |
 | [Ungrateful](https://open.spotify.com/track/7c26Ou3plUtEL0rysjH3qd) | [Edson Rano](https://open.spotify.com/artist/0VDMBcRWv0KoUaVbhWA00a) | [Enemy Or Friend](https://open.spotify.com/album/0gcf2Qf2lppiQ8MivTQenZ) | 2:38 | 2025-06-05 |  |

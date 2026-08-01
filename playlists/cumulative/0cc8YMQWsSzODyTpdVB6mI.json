@@ -847,6 +847,24 @@
     },
     {
       "album": {
+        "name": "Es Como Es",
+        "url": "https://open.spotify.com/album/6wxXM8jcrjCJnkLxUnyk3d"
+      },
+      "artists": [
+        {
+          "name": "Reminder (BR)",
+          "url": "https://open.spotify.com/artist/3mh9Zs8wNrcpi15bmd88PZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277378,
+      "name": "Es Como Es",
+      "url": "https://open.spotify.com/track/0jyq1qc7Rr6XzCL5PiJSfX"
+    },
+    {
+      "album": {
         "name": "Everything Is Changing",
         "url": "https://open.spotify.com/album/02yAJpRDnL6aMkVenvEUlt"
       },

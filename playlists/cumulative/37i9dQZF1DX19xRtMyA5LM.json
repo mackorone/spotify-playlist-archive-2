@@ -652,7 +652,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 142073,
       "name": "Alleen Is Maar Alleen",
       "url": "https://open.spotify.com/track/6tcolgcmZjT4AFqvNStPWz"
@@ -9510,6 +9510,24 @@
       "duration_ms": 181960,
       "name": "Suffe Goon",
       "url": "https://open.spotify.com/track/1wIuLWkmtamogzUPFTrtXs"
+    },
+    {
+      "album": {
+        "name": "Supaa Amazing",
+        "url": "https://open.spotify.com/album/4LUV0mQ6HnmdbALfo0ERk0"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122004,
+      "name": "Supaa Amazing",
+      "url": "https://open.spotify.com/track/30WOm7yTjeQUHCCGx1JVuC"
     },
     {
       "album": {

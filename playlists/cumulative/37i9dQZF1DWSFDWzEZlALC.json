@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Kayla Shyx",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JAS, Luca Noel",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 168629,
       "name": "00,00KG",
       "url": "https://open.spotify.com/track/6NARWPLA9xjUZ4oXIVAKOX"
+    },
+    {
+      "album": {
+        "name": "1 gegen 10",
+        "url": "https://open.spotify.com/album/1lVwuA3MMM4xXhJorPzSlM"
+      },
+      "artists": [
+        {
+          "name": "mathi",
+          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138200,
+      "name": "1 gegen 10",
+      "url": "https://open.spotify.com/track/2P7mN7eIOHs83LQbn13QNA"
     },
     {
       "album": {
@@ -1798,6 +1816,24 @@
       "duration_ms": 166333,
       "name": "Alles Neu",
       "url": "https://open.spotify.com/track/7e5Ov8MCSFNpuCFAGY5Fuc"
+    },
+    {
+      "album": {
+        "name": "Afterhour Kaltenbrunnen",
+        "url": "https://open.spotify.com/album/5uaStfNdA72RsRm11wz49n"
+      },
+      "artists": [
+        {
+          "name": "Cordoba78",
+          "url": "https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184521,
+      "name": "alles nicht so einfach",
+      "url": "https://open.spotify.com/track/5pIf37RslcsDV2E0OzVbiY"
     },
     {
       "album": {
@@ -3978,7 +4014,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 156521,
       "name": "Betty Boop",
       "url": "https://open.spotify.com/track/30ZM7FUXw9iHvUfvRwTQWQ"
@@ -7423,6 +7459,24 @@
     },
     {
       "album": {
+        "name": "Du",
+        "url": "https://open.spotify.com/album/2gemn4tYNAs2ZDi9svuAwp"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208078,
+      "name": "Du",
+      "url": "https://open.spotify.com/track/0aT7NR7uu8Hwv2vak9pcGz"
+    },
+    {
+      "album": {
         "name": "Du & Ich",
         "url": "https://open.spotify.com/album/57H7OCAgOcBCLkMQnfl7Aw"
       },
@@ -7736,6 +7790,24 @@
       "duration_ms": 185280,
       "name": "Du rufst mich nur an",
       "url": "https://open.spotify.com/track/7oag4rrTiRTT7nWU5c8QOI"
+    },
+    {
+      "album": {
+        "name": "Rocknrollst\u2605r",
+        "url": "https://open.spotify.com/album/02AT7gDqIz5HyWgmdG365K"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134119,
+      "name": "Du schaust gut aus!",
+      "url": "https://open.spotify.com/track/2YAITIEtfKNNRJFXc4m1pV"
     },
     {
       "album": {
@@ -9728,7 +9800,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 196877,
       "name": "Farbfilm",
       "url": "https://open.spotify.com/track/0bKTOJsvADrn5QY2v8avjP"
@@ -12050,7 +12122,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 193080,
       "name": "Gewitter",
       "url": "https://open.spotify.com/track/1T45f4RfjCF3GKsc3QSllM"
@@ -13890,7 +13962,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 146510,
       "name": "hey hallo (schr\u00e4g)",
       "url": "https://open.spotify.com/track/3n6X2EmrG1W13n02q6lHIW"
@@ -14598,7 +14670,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 193514,
       "name": "Ich hab mich neu sortiert",
       "url": "https://open.spotify.com/track/4xPpCwyQJfocmevWIfLRSn"
@@ -15418,6 +15490,24 @@
       "duration_ms": 157733,
       "name": "Immer wieder geht die Sonne auf",
       "url": "https://open.spotify.com/track/2qv7ViwI2cM74PVpEamKfH"
+    },
+    {
+      "album": {
+        "name": "immernoch",
+        "url": "https://open.spotify.com/album/02UrXK2KjWMVsOZEnSKpFb"
+      },
+      "artists": [
+        {
+          "name": "JUDI&COCHO",
+          "url": "https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "immernoch",
+      "url": "https://open.spotify.com/track/2L4r4b64I3PVKOB1eVKUjF"
     },
     {
       "album": {
@@ -16414,6 +16504,28 @@
       "duration_ms": 142498,
       "name": "Kaff",
       "url": "https://open.spotify.com/track/0T2EA9u06q8X0DuS7JLwgL"
+    },
+    {
+      "album": {
+        "name": "Kairina",
+        "url": "https://open.spotify.com/album/0ESVVipy80k7wagBLxx5M0"
+      },
+      "artists": [
+        {
+          "name": "Luftlinie270",
+          "url": "https://open.spotify.com/artist/6SWVilo40Nph8i52kUuAtI"
+        },
+        {
+          "name": "PAULINKO",
+          "url": "https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171143,
+      "name": "Kairina",
+      "url": "https://open.spotify.com/track/7ICB0Il5dcZuVjF6dvUClR"
     },
     {
       "album": {
@@ -18036,7 +18148,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 145574,
       "name": "Kreative Phasen",
       "url": "https://open.spotify.com/track/2KNNkN7BwsSVwRH6X8Z7rv"
@@ -18144,7 +18256,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 161204,
       "name": "Krieg",
       "url": "https://open.spotify.com/track/4iJqxTd2mM4VoLL7tbTBIc"
@@ -20096,7 +20208,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 196000,
       "name": "Magnolien",
       "url": "https://open.spotify.com/track/2nidsluLEAaLCN4BXp3TPp"
@@ -21860,6 +21972,24 @@
       "duration_ms": 180933,
       "name": "Nach Hause",
       "url": "https://open.spotify.com/track/0CFOyN2HD6gqCo7RY2YK6n"
+    },
+    {
+      "album": {
+        "name": "nach hause laufen",
+        "url": "https://open.spotify.com/album/6ExKxgzsDNXYcjbjKnW3yW"
+      },
+      "artists": [
+        {
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128203,
+      "name": "nach hause laufen",
+      "url": "https://open.spotify.com/track/0gvaybSaQczeMcsdfVkLgK"
     },
     {
       "album": {
@@ -25298,6 +25428,24 @@
       "duration_ms": 224591,
       "name": "Rote Flaggen",
       "url": "https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI"
+    },
+    {
+      "album": {
+        "name": "Rote Funken",
+        "url": "https://open.spotify.com/album/43FUHNpf9JiI5Fzig6hGZT"
+      },
+      "artists": [
+        {
+          "name": "TR\u00c4NEN",
+          "url": "https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172048,
+      "name": "Rote Funken",
+      "url": "https://open.spotify.com/track/0PkmwgqyKLlVm3bhGl4gMX"
     },
     {
       "album": {
@@ -29891,6 +30039,28 @@
     },
     {
       "album": {
+        "name": "Tick Tack",
+        "url": "https://open.spotify.com/album/6mZrCJQILMpTjWJnLE1JsG"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        },
+        {
+          "name": "Luca Noel",
+          "url": "https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142851,
+      "name": "Tick Tack",
+      "url": "https://open.spotify.com/track/5bcp0jqfueM7MrOzJr7wRh"
+    },
+    {
+      "album": {
         "name": "Ticket f\u00fcr die Nacht (feat. ana\u00efs)",
         "url": "https://open.spotify.com/album/6OVMu7IKESwCUfpg5SoiuV"
       },
@@ -31068,7 +31238,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 127900,
       "name": "Unterwegs",
       "url": "https://open.spotify.com/track/0GdogY09bPuNdISAwJ4eDG"
@@ -34500,7 +34670,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 154099,
       "name": "Wohnung",
       "url": "https://open.spotify.com/track/35mvNtmbZaKJ0CHI9166Ch"

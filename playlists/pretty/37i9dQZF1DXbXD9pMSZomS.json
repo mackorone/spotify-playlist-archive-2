@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 546226,
+  "num_followers": 546292,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-04-03 04:00:31",
       "album": {
-        "name": "Lo-Fi_house.Zip",
-        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
-      },
-      "artists": [
-        {
-          "name": "kemt",
-          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
-        }
-      ],
-      "duration_ms": 375000,
-      "name": "100 reasons",
-      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
-    },
-    {
-      "added_at": "2026-04-03 04:00:31",
-      "album": {
         "name": "VERTIGO",
         "url": "https://open.spotify.com/album/6tmDmJFTJs5aegIe5OEB56"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 233007,
       "name": "VERTIGO",
       "url": "https://open.spotify.com/track/0O7vGgLJBBVWiREZfm7GsX"
+    },
+    {
+      "added_at": "2026-04-03 04:00:31",
+      "album": {
+        "name": "Lo-Fi_house.Zip",
+        "url": "https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W"
+      },
+      "artists": [
+        {
+          "name": "kemt",
+          "url": "https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX"
+        }
+      ],
+      "duration_ms": 375000,
+      "name": "100 reasons",
+      "url": "https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H"
     },
     {
       "added_at": "2026-04-03 04:00:31",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-04-03 04:00:31",
       "album": {
-        "name": "Tokyo Cruise",
-        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Tokyo Cruise",
-      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
-    },
-    {
-      "added_at": "2026-04-03 04:00:31",
-      "album": {
         "name": "Celestial Bean",
         "url": "https://open.spotify.com/album/3QCUXz4wngUboH05FtdduI"
       },
@@ -819,22 +803,6 @@
     {
       "added_at": "2026-04-03 04:00:31",
       "album": {
-        "name": "We Should Chill On The Windowsill More",
-        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
-      },
-      "artists": [
-        {
-          "name": "Loz Goddard",
-          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
-        }
-      ],
-      "duration_ms": 326129,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
-    },
-    {
-      "added_at": "2026-04-03 04:00:31",
-      "album": {
         "name": "I Knew It",
         "url": "https://open.spotify.com/album/2S8Xv4DSdw8zdoaSuvvBei"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 224390,
       "name": "I Knew It",
       "url": "https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B"
+    },
+    {
+      "added_at": "2026-04-03 04:00:31",
+      "album": {
+        "name": "Tokyo Cruise",
+        "url": "https://open.spotify.com/album/1aPwMGBil3rebqqzZRE2rI"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Tokyo Cruise",
+      "url": "https://open.spotify.com/track/4xDEZDYPERKrpCDOX1CYtw"
+    },
+    {
+      "added_at": "2026-04-03 04:00:31",
+      "album": {
+        "name": "We Should Chill On The Windowsill More",
+        "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
+      },
+      "artists": [
+        {
+          "name": "Loz Goddard",
+          "url": "https://open.spotify.com/artist/21NJRdO9lCxZWCkA9NGE7j"
+        }
+      ],
+      "duration_ms": 326129,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
     },
     {
       "added_at": "2026-04-03 04:00:31",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-04-03 04:00:31",
       "album": {
+        "name": "It's in My Ears",
+        "url": "https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2"
+      },
+      "artists": [
+        {
+          "name": "Gallegos",
+          "url": "https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "It's in My Ears",
+      "url": "https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4"
+    },
+    {
+      "added_at": "2026-04-03 04:00:31",
+      "album": {
         "name": "Always By Your Side",
         "url": "https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH"
       },
@@ -943,26 +959,6 @@
       "duration_ms": 337975,
       "name": "Always By Your Side",
       "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
-    },
-    {
-      "added_at": "2026-04-03 04:00:31",
-      "album": {
-        "name": "Flutes of Gold",
-        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
-      },
-      "artists": [
-        {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        },
-        {
-          "name": "Toro Moratto",
-          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
-        }
-      ],
-      "duration_ms": 422278,
-      "name": "Flutes of Gold",
-      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
     },
     {
       "added_at": "2026-04-03 04:00:31",
@@ -983,6 +979,26 @@
     {
       "added_at": "2026-04-03 04:00:31",
       "album": {
+        "name": "Freedom EP",
+        "url": "https://open.spotify.com/album/7CiuYJVx1NrdZhzcWs9OeO"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        },
+        {
+          "name": "Bob The Egoist",
+          "url": "https://open.spotify.com/artist/7xnyalS4aryg4kytwi61iI"
+        }
+      ],
+      "duration_ms": 316836,
+      "name": "Expendable",
+      "url": "https://open.spotify.com/track/5V1kiRxJuk0zK4iuIg0H3e"
+    },
+    {
+      "added_at": "2026-04-03 04:00:31",
+      "album": {
         "name": "Celestial",
         "url": "https://open.spotify.com/album/52WyRvkSSoUhNeG6ldMzA9"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 179151,
       "name": "Celestial",
       "url": "https://open.spotify.com/track/3hrrMDXeDRetyNMXKjUrsA"
-    },
-    {
-      "added_at": "2026-04-03 04:00:31",
-      "album": {
-        "name": "It's in My Ears",
-        "url": "https://open.spotify.com/album/5YOmpv4WPXrvQN5J8IxQB2"
-      },
-      "artists": [
-        {
-          "name": "Gallegos",
-          "url": "https://open.spotify.com/artist/7hmArnXZVkRgobbxJBLJMF"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "It's in My Ears",
-      "url": "https://open.spotify.com/track/3RKKUufb30D1To25k8NeK4"
     },
     {
       "added_at": "2026-04-03 04:00:31",

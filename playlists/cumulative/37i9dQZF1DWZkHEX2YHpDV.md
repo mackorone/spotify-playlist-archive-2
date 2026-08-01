@@ -4,7 +4,7 @@
 
 > a new generation of emo, screamo, post\-hardcore and more\. Cover: Static Dress
 
-1,487 songs - 3 day 6 hr 44 min
+1,488 songs - 3 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Arm's Length](https://open.spotify.com/track/2k3SHrWJROuEVFkJwbI94Z) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids](https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb) | 4:18 | 2023-04-10 | 2023-04-12 |
 | [Arrows](https://open.spotify.com/track/35r4qfODdAxAUuDl7VRE8C) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE), [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [nulla.](https://open.spotify.com/album/2w0oUtRdOjhPPS30TcJi4X) | 3:35 | 2023-12-15 | 2024-04-13 |
 | [Artorias](https://open.spotify.com/track/2Wtxf69QyhLU9fswgoD6Hd) | [WVNDER](https://open.spotify.com/artist/56LuTyFDFBgcq4hkc4XMu5) | [Nothing Stays](https://open.spotify.com/album/2yP06M3lbojJ7ihnjlSdX5) | 3:11 | 2022-02-04 | 2022-04-27 |
-| [As a Person](https://open.spotify.com/track/26CqPR37DdqQrlpEynVHmL) | [Cassus](https://open.spotify.com/artist/0xx74nbFQ3QkgrmQ9ZKjHa) | [Scalis Felden](https://open.spotify.com/album/0vPbL97qCSgLBDo2UF0iVK) | 3:06 | 2026-07-24 |  |
+| [As a Person](https://open.spotify.com/track/26CqPR37DdqQrlpEynVHmL) | [Cassus](https://open.spotify.com/artist/0xx74nbFQ3QkgrmQ9ZKjHa) | [Scalis Felden](https://open.spotify.com/album/0vPbL97qCSgLBDo2UF0iVK) | 3:06 | 2026-07-24 | 2026-08-01 |
 | [As The Seasons Change, You'll Find Me The Same](https://open.spotify.com/track/5ZaTfvZsHld1mxQJZxvLVu) | [Arranged in April](https://open.spotify.com/artist/0RpqbgRdtG57TKD0z0aTHf) | [It Always Starts Mid Winter](https://open.spotify.com/album/2T6RKlZWDFm3aCuezRQa1o) | 3:06 | 2026-07-24 |  |
 | [At Home](https://open.spotify.com/track/7Hnyju3PAzodUyRRvNFUY5) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [At Home](https://open.spotify.com/album/0w2M9Us4mt0DL6yAG4nj9W) | 2:39 | 2022-01-14 | 2022-06-10 |
 | [Atlas Fugged](https://open.spotify.com/track/3WVssczpA2XWM5CtC0XYfm) | [Bony Macaroni](https://open.spotify.com/artist/5RsdlcuYtj4bWyGPVJCuet) | [Atlas Fugged](https://open.spotify.com/album/5YCuaFGWUM5GF1jSVjZbpW) | 3:11 | 2022-03-25 | 2022-04-15 |
@@ -1451,6 +1451,7 @@
 | [WITCH HVNT](https://open.spotify.com/track/1mkDFLxzMR5FiEisymYLpq) | [Chin Up, Kid](https://open.spotify.com/artist/2gzDWd9J6ea1uq0ZfbtNjj) | [WITCH HVNT](https://open.spotify.com/album/4oDfyYVfvM1RX349xgaWBJ) | 3:55 | 2022-01-14 | 2022-07-06 |
 | [Wolf Boy](https://open.spotify.com/track/7uv654mZzZWHY7Lj9pnXsl) | [Incase We Crash](https://open.spotify.com/artist/60BV8AYHelvsX7RpjQXlBA) | [Wolf Boy](https://open.spotify.com/album/4oCld1YIYyaxHKz2xiYsJG) | 2:56 | 2021-12-10 | 2022-07-09 |
 | [Wolf In Sheep's Clothing \[REBORN\]](https://open.spotify.com/track/1tpidJ4FBn9TwshePh1bc3) | [Set It Off](https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k) | [Wolf In Sheep's Clothing \[REBORN\]](https://open.spotify.com/album/3EAQjK9KBprKYBerEPGxwS) | 3:21 | 2024-11-08 | 2026-07-25 |
+| [Woolgathering](https://open.spotify.com/track/2ao4faVsvXOmkiFaAUxu31) | [New Forms](https://open.spotify.com/artist/1HrPMPiuiBCBUIlCUvLZgu) | [Nothing's Sacred Anymore](https://open.spotify.com/album/19weiFG8uCUDh9Nmcldioy) | 1:58 | 2026-07-31 |  |
 | [WORLD vs PEACE](https://open.spotify.com/track/6Ju4dvSRiStvwyirpkBuYx) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [WORLD vs PEACE](https://open.spotify.com/album/02dBNsmY7XLUSFfWsUCjd6) | 2:58 | 2024-12-06 | 2026-07-25 |
 | [Worst Ain't Over Yet](https://open.spotify.com/track/4OlUEtLcfADjgnIWoCZ4kL) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD), [Nathan Hardy](https://open.spotify.com/artist/1e84he2I7QYOXpFilCS73M) | [Worst Ain't Over Yet](https://open.spotify.com/album/2lGvA3t0nzDx08ha686nsM) | 2:52 | 2024-10-11 | 2025-04-19 |
 | [Worst Apology](https://open.spotify.com/track/5jaFa0rv7nykoB3SbygzpM) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Worst Apology](https://open.spotify.com/album/20HDyCAkbeyQj8jdiOfE74) | 3:12 | 2023-05-12 | 2023-07-14 |

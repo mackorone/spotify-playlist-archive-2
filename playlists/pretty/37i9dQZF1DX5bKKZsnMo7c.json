@@ -1,28 +1,44 @@
 {
-  "description": "Feeling dramatic? All eyes on you. Cover: VANITY",
-  "num_followers": 566088,
+  "description": "Feeling dramatic? All eyes on you. Cover: Mollie Elizabeth",
+  "num_followers": 566117,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHwMCueXeJbqWCvQ4T0xryY/0l3K",
+  "snapshot_id": "AAAAAGmoHjUfhEKKKD6REf75QLsBhNZE",
   "tracks": [
     {
-      "added_at": "2026-07-24 04:02:21",
+      "added_at": "2026-07-31 04:00:20",
       "album": {
-        "name": "Size Two",
-        "url": "https://open.spotify.com/album/0oth0n1YNG0uCaCRrWS8oh"
+        "name": "Puppet Show",
+        "url": "https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w"
       },
       "artists": [
         {
-          "name": "VANITY",
-          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
         }
       ],
-      "duration_ms": 171714,
-      "name": "Size Two",
-      "url": "https://open.spotify.com/track/3ZioR8GLXGtoILTI0zyqhC"
+      "duration_ms": 182665,
+      "name": "Puppet Show",
+      "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
+    },
+    {
+      "added_at": "2026-07-31 04:00:20",
+      "album": {
+        "name": "Knight of Swords",
+        "url": "https://open.spotify.com/album/1QspQHGZ9yJhibMqUshuA0"
+      },
+      "artists": [
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "Knight of Swords",
+      "url": "https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2"
     },
     {
       "added_at": "2026-07-20 18:13:27",
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/7GxfZNCcvcZQVVNNyojpAJ"
     },
     {
+      "added_at": "2026-07-24 04:02:21",
+      "album": {
+        "name": "Size Two",
+        "url": "https://open.spotify.com/album/0oth0n1YNG0uCaCRrWS8oh"
+      },
+      "artists": [
+        {
+          "name": "VANITY",
+          "url": "https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7"
+        }
+      ],
+      "duration_ms": 171714,
+      "name": "Size Two",
+      "url": "https://open.spotify.com/track/3ZioR8GLXGtoILTI0zyqhC"
+    },
+    {
       "added_at": "2026-05-22 04:02:09",
       "album": {
         "name": "Run Rabbit",
@@ -55,6 +87,22 @@
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-07-31 04:00:20",
+      "album": {
+        "name": "Expensive Taste",
+        "url": "https://open.spotify.com/album/2y8hAA2WoV7ox67kYWDmul"
+      },
+      "artists": [
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "duration_ms": 199973,
+      "name": "Expensive Taste",
+      "url": "https://open.spotify.com/track/2Q3mfoPvqOZ4TtoXr4Uyv0"
     },
     {
       "added_at": "2026-07-24 04:02:21",
@@ -121,6 +169,22 @@
       "url": "https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ"
     },
     {
+      "added_at": "2026-05-01 04:02:37",
+      "album": {
+        "name": "HOTLINE",
+        "url": "https://open.spotify.com/album/0SX53qBcN61hcPcUJY1Hou"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 166260,
+      "name": "HOTLINE",
+      "url": "https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U"
+    },
+    {
       "added_at": "2026-07-06 15:45:05",
       "album": {
         "name": "PAREIDOLIA",
@@ -135,6 +199,22 @@
       "duration_ms": 202250,
       "name": "THE CINEMA",
       "url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv"
+    },
+    {
+      "added_at": "2026-07-31 04:00:20",
+      "album": {
+        "name": "Traitor To Myself",
+        "url": "https://open.spotify.com/album/1tDsbASDOcfJGlehrKuoVM"
+      },
+      "artists": [
+        {
+          "name": "Lilith Max",
+          "url": "https://open.spotify.com/artist/797SPxZf82IYq3XCM8c9AM"
+        }
+      ],
+      "duration_ms": 198211,
+      "name": "Traitor To Myself",
+      "url": "https://open.spotify.com/track/72QA53qzcxUUzPlX0JUTc2"
     },
     {
       "added_at": "2026-06-26 04:53:27",
@@ -223,22 +303,6 @@
       "duration_ms": 221000,
       "name": "Vampire at the Beach",
       "url": "https://open.spotify.com/track/4nDtxG33WsZKY34taNrgOR"
-    },
-    {
-      "added_at": "2026-05-01 04:02:37",
-      "album": {
-        "name": "HOTLINE",
-        "url": "https://open.spotify.com/album/0SX53qBcN61hcPcUJY1Hou"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 166260,
-      "name": "HOTLINE",
-      "url": "https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U"
     },
     {
       "added_at": "2026-05-29 04:02:54",
@@ -481,22 +545,6 @@
       "url": "https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN"
     },
     {
-      "added_at": "2026-05-01 04:02:37",
-      "album": {
-        "name": "In Times Of Dragons",
-        "url": "https://open.spotify.com/album/6KnWKWlU9xvhuOxEgkl4l2"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 290693,
-      "name": "In Times of Dragons",
-      "url": "https://open.spotify.com/track/1FXXrQQCC9y69H1AeTYEfr"
-    },
-    {
       "added_at": "2025-12-05 05:00:09",
       "album": {
         "name": "Carnival",
@@ -543,22 +591,6 @@
       "duration_ms": 232985,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
-    },
-    {
-      "added_at": "2026-04-03 04:01:43",
-      "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/0k8RXtTwCrqs9ofCFAUNQX"
-      },
-      "artists": [
-        {
-          "name": "Alexandria",
-          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
-        }
-      ],
-      "duration_ms": 175161,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/5OkXA7ru3aZrY92m800aSc"
     },
     {
       "added_at": "2026-03-13 00:00:08",
@@ -845,22 +877,6 @@
       "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
     },
     {
-      "added_at": "2026-02-20 05:29:14",
-      "album": {
-        "name": "I\u2019m Going To Die",
-        "url": "https://open.spotify.com/album/17clQoJXEn7XKT522d0WBY"
-      },
-      "artists": [
-        {
-          "name": "Leroy Clampitt",
-          "url": "https://open.spotify.com/artist/1RKdNxma7zLA5FAyt5ghJ7"
-        }
-      ],
-      "duration_ms": 180017,
-      "name": "I\u2019m Going To Die",
-      "url": "https://open.spotify.com/track/1GGqXiVW58oZV5DckGpAae"
-    },
-    {
       "added_at": "2026-02-02 19:17:29",
       "album": {
         "name": "The Subway",
@@ -1095,22 +1111,6 @@
       "duration_ms": 212791,
       "name": "Jax Toy",
       "url": "https://open.spotify.com/track/2VQdlLE28peS0ZxTu2fakd"
-    },
-    {
-      "added_at": "2025-08-08 04:00:40",
-      "album": {
-        "name": "Circe",
-        "url": "https://open.spotify.com/album/0IMBN2USITcvBJ4AWexejp"
-      },
-      "artists": [
-        {
-          "name": "Lilith Max",
-          "url": "https://open.spotify.com/artist/797SPxZf82IYq3XCM8c9AM"
-        }
-      ],
-      "duration_ms": 187582,
-      "name": "Circe",
-      "url": "https://open.spotify.com/track/1y0aVfbxp1NAhQ5Z4Jhz0o"
     },
     {
       "added_at": "2025-08-18 02:36:33",

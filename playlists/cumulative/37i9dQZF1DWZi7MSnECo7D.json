@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Sopr\u00fc",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Ludovic",
   "name": "alt BR",
   "tracks": [
     {
@@ -3375,6 +3375,24 @@
     },
     {
       "album": {
+        "name": "Chocolate Amargo",
+        "url": "https://open.spotify.com/album/5yRPO5jLOuZMPntVzzKXwJ"
+      },
+      "artists": [
+        {
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Chocolate Amargo",
+      "url": "https://open.spotify.com/track/1cdyGOkTr1mqLGkH06JBwH"
+    },
+    {
+      "album": {
         "name": "Chorar na Boate",
         "url": "https://open.spotify.com/album/2eWfo2r3Qc0tuRigW1nomv"
       },
@@ -4244,6 +4262,24 @@
       "duration_ms": 285434,
       "name": "Daquilo que Nois Merece",
       "url": "https://open.spotify.com/track/1iZOIvRDiNogvXKnxag9ug"
+    },
+    {
+      "album": {
+        "name": "das coisas que eu sei",
+        "url": "https://open.spotify.com/album/56Sj9QYDX6RrLghxY89WCC"
+      },
+      "artists": [
+        {
+          "name": "camilobers",
+          "url": "https://open.spotify.com/artist/7LY9xAlnzpYcuXNvmFQuXO"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188297,
+      "name": "das coisas que eu sei",
+      "url": "https://open.spotify.com/track/21ijXASKHnoTfgHzgdZH96"
     },
     {
       "album": {
@@ -5600,7 +5636,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 214000,
       "name": "Entre o trem e a plataforma",
       "url": "https://open.spotify.com/track/0IRUazz8KtNHIiyf5ezOGX"
@@ -6760,7 +6796,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 182882,
       "name": "fim de domingo",
       "url": "https://open.spotify.com/track/28NK0zNiD1tYD8TRYDzkzz"
@@ -7963,6 +7999,24 @@
     },
     {
       "album": {
+        "name": "Jornalismo Esportivo",
+        "url": "https://open.spotify.com/album/4cD05OpVnfRJl7PObEqokA"
+      },
+      "artists": [
+        {
+          "name": "Escadacima",
+          "url": "https://open.spotify.com/artist/2TqhVo4AtWFCmP5BQlpvJy"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179364,
+      "name": "Jornalismo Esportivo",
+      "url": "https://open.spotify.com/track/3wSENFA2hXlr19pXeDwWQX"
+    },
+    {
+      "album": {
         "name": "ju\u00edzo",
         "url": "https://open.spotify.com/album/3moMNbPUID8PJRDJnVYYjZ"
       },
@@ -9119,6 +9173,24 @@
     },
     {
       "album": {
+        "name": "Ludovic",
+        "url": "https://open.spotify.com/album/3qfKxz42RXWjWLhiALSVOy"
+      },
+      "artists": [
+        {
+          "name": "Ludovic",
+          "url": "https://open.spotify.com/artist/2zKQpbSlJv1z8xK9mFaXwU"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255445,
+      "name": "Me Incendiar",
+      "url": "https://open.spotify.com/track/4F1tKctCZxfRtA8wdiK5os"
+    },
+    {
+      "album": {
         "name": "Me mande um (sinal)",
         "url": "https://open.spotify.com/album/2yjyedH74RW8Vn3kQfFMvD"
       },
@@ -9148,7 +9220,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 179076,
       "name": "Me Pede",
       "url": "https://open.spotify.com/track/3uTUUjzDliYIEpHi1YSLJC"
@@ -14217,6 +14289,28 @@
     },
     {
       "album": {
+        "name": "UMAMI",
+        "url": "https://open.spotify.com/album/1KNC3Oj6A70WB5uDGa35uU"
+      },
+      "artists": [
+        {
+          "name": "VALLADA",
+          "url": "https://open.spotify.com/artist/7A8jDbiTiYGXeKBCUeAySj"
+        },
+        {
+          "name": "PhiLL Oladele",
+          "url": "https://open.spotify.com/artist/6bOjPRaGOB5lPFXzF9FKkD"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Sarau de Bacana",
+      "url": "https://open.spotify.com/track/2RUf15kN7815fWhKHpCfxm"
+    },
+    {
+      "album": {
         "name": "postcard from Rio",
         "url": "https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ"
       },
@@ -15510,7 +15604,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 180684,
       "name": "Te amo e ponto.",
       "url": "https://open.spotify.com/track/0lY05dmtTNRpEhuVasgckZ"

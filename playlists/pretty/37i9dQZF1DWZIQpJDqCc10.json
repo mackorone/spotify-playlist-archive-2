@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 774614,
+  "num_followers": 774726,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Alvvays",
-        "url": "https://open.spotify.com/album/1j3pIPXjLIFkp84OfVUsNT"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Archie, Marry Me",
-      "url": "https://open.spotify.com/track/5GAB1X0AJq2EZjxXP9zMFt"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "The Yearbook",
         "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 218053,
       "name": "Dover Beach",
       "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Alvvays",
+        "url": "https://open.spotify.com/album/1j3pIPXjLIFkp84OfVUsNT"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Archie, Marry Me",
+      "url": "https://open.spotify.com/track/5GAB1X0AJq2EZjxXP9zMFt"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Lady's Bridge",
-        "url": "https://open.spotify.com/album/5hlcLAkhlCrV6j8NxEptXl"
-      },
-      "artists": [
-        {
-          "name": "Richard Hawley",
-          "url": "https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut"
-        }
-      ],
-      "duration_ms": 222506,
-      "name": "Tonight the Streets Are Ours",
-      "url": "https://open.spotify.com/track/68UGKNGREtwsO7fDRwftZ2"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Old Time Feeling",
         "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "puffette",
-        "url": "https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4"
+        "name": "Lady's Bridge",
+        "url": "https://open.spotify.com/album/5hlcLAkhlCrV6j8NxEptXl"
       },
       "artists": [
         {
-          "name": "pami",
-          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+          "name": "Richard Hawley",
+          "url": "https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut"
         }
       ],
-      "duration_ms": 188000,
-      "name": "kiss me blue",
-      "url": "https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf"
+      "duration_ms": 222506,
+      "name": "Tonight the Streets Are Ours",
+      "url": "https://open.spotify.com/track/68UGKNGREtwsO7fDRwftZ2"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1055,6 +1039,22 @@
       "duration_ms": 172749,
       "name": "God Damn",
       "url": "https://open.spotify.com/track/2BbEpvzlxXkCunokWdbAqp"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "puffette",
+        "url": "https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "kiss me blue",
+      "url": "https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1171,30 +1171,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw"
-      },
-      "artists": [
-        {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        },
-        {
-          "name": "Julia Wu",
-          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
-        },
-        {
-          "name": "Phum Viphurit",
-          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
-        }
-      ],
-      "duration_ms": 208251,
-      "name": "Night Drive",
-      "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Cuts & Bruises",
         "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
       },
@@ -1223,6 +1199,30 @@
       "duration_ms": 283393,
       "name": "She Dances",
       "url": "https://open.spotify.com/track/72655YyFEnLXG54FC6tCtT"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Night Drive",
+        "url": "https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        },
+        {
+          "name": "Phum Viphurit",
+          "url": "https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6"
+        }
+      ],
+      "duration_ms": 208251,
+      "name": "Night Drive",
+      "url": "https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o"
     },
     {
       "added_at": "2026-02-19 14:58:26",

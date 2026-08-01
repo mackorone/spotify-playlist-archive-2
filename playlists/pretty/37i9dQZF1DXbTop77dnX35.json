@@ -1,12 +1,12 @@
 {
   "description": "New Music from Davido, Seyi Vibez, Moliy,  BNXN & Asake and more ",
-  "num_followers": 206965,
+  "num_followers": 207990,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOL3QAfw2/5+yU7VkCtJTsAuRVii",
+  "snapshot_id": "AAAAAPmL8nCewS+yvhvFdvsiBpIXtCw8",
   "tracks": [
     {
       "added_at": "2026-07-31 00:01:21",
@@ -256,8 +256,8 @@
           "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 248501,
+      "name": "Broke and Mighty",
       "url": "https://open.spotify.com/track/54mMjAGPplZ1ypbw3lNnnF"
     },
     {
@@ -275,6 +275,38 @@
       "duration_ms": 212282,
       "name": "By The Time I Wake Up",
       "url": "https://open.spotify.com/track/1MzS45AX5NrN1gxpuu195L"
+    },
+    {
+      "added_at": "2026-07-31 06:20:00",
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+    },
+    {
+      "added_at": "2026-07-31 06:20:00",
+      "album": {
+        "name": "AH HA",
+        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "AH HA",
+      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
     },
     {
       "added_at": "2026-07-31 00:01:21",
@@ -815,7 +847,7 @@
     {
       "added_at": "2026-07-31 00:01:21",
       "album": {
-        "name": "SAWA (feat. bees & honey)",
+        "name": "SAWA",
         "url": "https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5"
       },
       "artists": [
@@ -829,7 +861,7 @@
         }
       ],
       "duration_ms": 220527,
-      "name": "SAWA (feat. bees & honey)",
+      "name": "SAWA",
       "url": "https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1"
     },
     {
@@ -848,7 +880,7 @@
           "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
         }
       ],
-      "duration_ms": 141538,
+      "duration_ms": 144000,
       "name": "BOP",
       "url": "https://open.spotify.com/track/7IXmaJlWsjq6TuKRbD4n1Y"
     },
@@ -868,8 +900,8 @@
           "url": "https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC"
         },
         {
-          "name": "Sewa",
-          "url": "https://open.spotify.com/artist/5sww8nN6f3JyiLiyQR0Btm"
+          "name": "\u1e62\u1eb9w\u00e0",
+          "url": "https://open.spotify.com/artist/0O4ZT28upUvTpqFICunfVK"
         }
       ],
       "duration_ms": 237134,

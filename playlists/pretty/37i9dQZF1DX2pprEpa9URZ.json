@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 915274,
+  "num_followers": 915349,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,26 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Koba Brown",
+          "url": "https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Marathon",
+      "url": "https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/24C38FMJuX5fUczY9HzqkK"
       },
@@ -271,26 +291,6 @@
       "duration_ms": 202000,
       "name": "Closure",
       "url": "https://open.spotify.com/track/2Pn7BSdmNTxtq0borL4VlK"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Marathon",
-        "url": "https://open.spotify.com/album/3xVw9NRhWCrchEM8mgoSpj"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Koba Brown",
-          "url": "https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75"
-        }
-      ],
-      "duration_ms": 180021,
-      "name": "Marathon",
-      "url": "https://open.spotify.com/track/5Vl5WJkkWfyHRbg1PKeWpW"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "Doin' It All For The Culture",
+        "url": "https://open.spotify.com/album/4pCW6biKpm6hJbQUwVMD2w"
+      },
+      "artists": [
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 343414,
+      "name": "Doin' It All For The Culture",
+      "url": "https://open.spotify.com/track/40fHcs9WzWosKvLO0dq3O8"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "Woods, Tales & Friends",
         "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
       },
@@ -507,18 +523,22 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "Doin' It All For The Culture",
-        "url": "https://open.spotify.com/album/4pCW6biKpm6hJbQUwVMD2w"
+        "name": "Kamwana",
+        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
       },
       "artists": [
         {
-          "name": "Luch",
-          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
         }
       ],
-      "duration_ms": 343414,
-      "name": "Doin' It All For The Culture",
-      "url": "https://open.spotify.com/track/40fHcs9WzWosKvLO0dq3O8"
+      "duration_ms": 152975,
+      "name": "Kamwana",
+      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -579,26 +599,6 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "Kamwana",
-        "url": "https://open.spotify.com/album/07noN4Eu2Ea76GvzhyfNuk"
-      },
-      "artists": [
-        {
-          "name": "Sama (US)",
-          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 152975,
-      "name": "Kamwana",
-      "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
         "name": "Se Va, Se Va",
         "url": "https://open.spotify.com/album/2g5wS2owEKwdMLEhovzAba"
       },
@@ -635,6 +635,26 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "Amado",
+        "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
+      },
+      "artists": [
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        },
+        {
+          "name": "Orsay",
+          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Amado",
+      "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "Forever (feat. Malou & Yuna) [MEDUZA Remix]",
         "url": "https://open.spotify.com/album/7GclldfvX8KaM4RpxttXGp"
       },
@@ -667,6 +687,38 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
+        "name": "Hidden Garden",
+        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 297802,
+      "name": "Hidden Garden",
+      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "Maithori",
         "url": "https://open.spotify.com/album/1BuOAjhPeakuaULbB4sWL9"
       },
@@ -691,58 +743,6 @@
       "duration_ms": 182000,
       "name": "Maithori",
       "url": "https://open.spotify.com/track/5FMsc3sFLmZKxgo73GqOq7"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Amado",
-        "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
-      },
-      "artists": [
-        {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
-        },
-        {
-          "name": "Orsay",
-          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Amado",
-      "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Hidden Garden",
-        "url": "https://open.spotify.com/album/5ADWAdx830C67511L0FVPj"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 297802,
-      "name": "Hidden Garden",
-      "url": "https://open.spotify.com/track/6qLDqEm4xmS8GvJKHl5Qx0"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "Rummen",
+        "url": "https://open.spotify.com/album/12FPrXQxaxUUvhMFUEZpM3"
+      },
+      "artists": [
+        {
+          "name": "Pulli & Chomba",
+          "url": "https://open.spotify.com/artist/2GAK48Z5uQqNg6aOe2b5yQ"
+        }
+      ],
+      "duration_ms": 466750,
+      "name": "Rummen",
+      "url": "https://open.spotify.com/track/6SAhql2LjyxheYXSRfNTNz"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "Karanfilce Devojce (PACHIRA Remix)",
         "url": "https://open.spotify.com/album/2Jr3whqNucBLcaJl096Ut5"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 342853,
       "name": "Karanfilce Devojce - PACHIRA Remix",
       "url": "https://open.spotify.com/track/7f6bzmieDjJiGr6x0Vl2ps"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Rummen",
-        "url": "https://open.spotify.com/album/12FPrXQxaxUUvhMFUEZpM3"
-      },
-      "artists": [
-        {
-          "name": "Pulli & Chomba",
-          "url": "https://open.spotify.com/artist/2GAK48Z5uQqNg6aOe2b5yQ"
-        }
-      ],
-      "duration_ms": 466750,
-      "name": "Rummen",
-      "url": "https://open.spotify.com/track/6SAhql2LjyxheYXSRfNTNz"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 454680,
       "name": "Into Your Tribe - Bedouin Remix",
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
-      },
-      "artists": [
-        {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2026-07-28 06:53:17",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-07-28 06:53:17",
       "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
-    },
-    {
-      "added_at": "2026-07-28 06:53:17",
-      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/1tfKXKwMc6sIxja3j9dJbM"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 416014,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/0OVVi02RRqLJY7ycxJRKa8"
+    },
+    {
+      "added_at": "2026-07-28 06:53:17",
+      "album": {
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
+      },
+      "artists": [
+        {
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
+        }
+      ],
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2026-07-28 06:53:17",

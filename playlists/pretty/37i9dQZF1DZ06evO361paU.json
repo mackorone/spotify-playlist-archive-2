@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 298498,
+  "num_followers": 298531,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAAAyUKxd50Nj1IVv0cMrKLfy",
+  "snapshot_id": "amqUAAAAAACFiYvhs9btvgbYbzbCM6wS",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 327378,
-      "name": "TK421",
-      "url": "https://open.spotify.com/track/2HxMUqKPh1uJ3a1TkOSFSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superlove",
         "url": "https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 322514,
       "name": "Superlove",
       "url": "https://open.spotify.com/track/0kXJNqmYdjwb31QLWGkNb7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 327378,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/2HxMUqKPh1uJ3a1TkOSFSG"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Fields Of Joy",
+      "url": "https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Michael",
         "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 234413,
       "name": "(I Can't Make It) Another Day (feat. Lenny Kravitz)",
       "url": "https://open.spotify.com/track/5OgTq4ExF13EdcLD6PSYuN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Fields Of Joy",
-      "url": "https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE"
     },
     {
       "added_at": null,

@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 65 | [Effort](https://open.spotify.com/track/5YtsWfOokZx53OLviNpFmu) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:31 |
 | 66 | [Self Control](https://open.spotify.com/track/0cRC2pnoH7gWoP2JGRSphe) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Identity Crisis](https://open.spotify.com/album/2wbMJYLxgXALMVJWy7m98T) | 3:06 |
 | 67 | [Wild Hearts](https://open.spotify.com/track/6GFmic5sMMouZ04j8p2RXm) | [FO&O](https://open.spotify.com/artist/5PldDs8KtXMy0KZ6due44x) | [Coordinates](https://open.spotify.com/album/2IidFea2wQ3kaD0EEtO27q) | 2:49 |
-| 68 | [Vantablack](https://open.spotify.com/track/6QT8QItj34UnuSw3fzZ4KZ) | [Maisy Kay](https://open.spotify.com/artist/1O9EVVcpg2FOQ0vAQ7LqiT) | [Vantablack](https://open.spotify.com/album/32ArIIVyHw8jC7mQLFrH7f) | 2:38 |
-| 69 | [Stay Happy](https://open.spotify.com/track/6sjDl6Ed6ysoZaMPlEr7V3) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO) | [Stay Happy](https://open.spotify.com/album/24j1HTpNeOz6altCRbpgAa) | 2:48 |
+| 68 | [Stay Happy](https://open.spotify.com/track/6sjDl6Ed6ysoZaMPlEr7V3) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO) | [Stay Happy](https://open.spotify.com/album/24j1HTpNeOz6altCRbpgAa) | 2:48 |
+| 69 | [Vantablack](https://open.spotify.com/track/6QT8QItj34UnuSw3fzZ4KZ) | [Maisy Kay](https://open.spotify.com/artist/1O9EVVcpg2FOQ0vAQ7LqiT) | [Vantablack](https://open.spotify.com/album/32ArIIVyHw8jC7mQLFrH7f) | 2:38 |
 | 70 | [Dance For Me](https://open.spotify.com/track/04joSDzlMnx2hgZr2LNWHr) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [PLAYLIST](https://open.spotify.com/album/7FhItM1ikJEMstS8qtnuzf) | 3:05 |
 | 71 | [Heartbeat](https://open.spotify.com/track/74w3KQUxPOEJYmQHgmRVsh) | [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Heartbeat](https://open.spotify.com/album/6MAxLHsYH7uI7NM6w7A5Kb) | 2:48 |
 | 72 | [Nutty Nutty \(feat\. Jessi\)](https://open.spotify.com/track/1fqd7L51uCAPmy5WgHqirc) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Nutty Nutty \(feat\. Jessi\)](https://open.spotify.com/album/43zlvshjmVjXyUsKFgWocq) | 2:09 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 107 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 108 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcYRcgAAAAD1QXLva0V/ZX7O7+zRC3Pu`
+Snapshot ID: `AcYXCAAAAAC6FuPNkw+CnxXe/cliwNm6`

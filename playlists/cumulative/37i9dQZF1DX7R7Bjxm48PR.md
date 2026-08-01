@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-187 songs - 8 hr 23 min
+189 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Bei Sogni](https://open.spotify.com/track/4uEy0quzyHhmOolODWrsaI) | [Gennaro Acciaio](https://open.spotify.com/artist/5WJ6nJkEinNxWYIWTou21D) | [Bei Sogni](https://open.spotify.com/album/4D4zNlwymGjT6t0ls03vP6) | 2:44 | 2022-01-19 | 2024-12-18 |
 | [Beyond The Words](https://open.spotify.com/track/2rcjEdhxMASzFKFMLE0VyK) | [Phoebe Waits](https://open.spotify.com/artist/57E9IfMja5EiaW6JlxxPfF) | [Beyond The Words](https://open.spotify.com/album/2IXXs0F9tteFAxo2M1qUGh) | 2:32 | 2022-01-19 | 2024-11-14 |
 | [Birds view](https://open.spotify.com/track/4PkmyK6ZS3X96rG05wmThj) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:05 | 2022-11-14 | 2024-10-23 |
-| [Bliss](https://open.spotify.com/track/1uUf0oxdIJYfJCJRRIQsRm) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Bliss](https://open.spotify.com/album/7LbRUFAxDaHVjCcvNmsWmV) | 3:31 | 2025-09-17 |  |
+| [Bliss](https://open.spotify.com/track/1uUf0oxdIJYfJCJRRIQsRm) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Bliss](https://open.spotify.com/album/7LbRUFAxDaHVjCcvNmsWmV) | 3:31 | 2025-09-17 | 2026-08-01 |
+| [Breathe](https://open.spotify.com/track/6itK5FBbAQklhk2YXTCnxq) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Breathe](https://open.spotify.com/album/7uEBVnTdDMZS8aafFByHE5) | 2:32 | 2026-07-31 |  |
 | [Brightness](https://open.spotify.com/track/02LCUK8mJhh65xVc9hVoXB) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:14 | 2022-01-19 |  |
 | [Calm And Restore](https://open.spotify.com/track/0t714TKW801BuUy11qPX0K) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calm And Restore](https://open.spotify.com/album/2DeYd1rdTsveiEqsBq4K4F) | 3:01 | 2024-10-22 | 2025-02-20 |
 | [Cascade](https://open.spotify.com/track/5adFxEx5X49AW6K4yl9Xef) | [Astral Chants](https://open.spotify.com/artist/74iuTKjTeNqMtynmJ6wTTF) | [Cascade](https://open.spotify.com/album/6ekqd6M7YWFIIDERra1c66) | 2:20 | 2025-09-17 |  |
@@ -192,6 +193,7 @@
 | [When Earth Whispers](https://open.spotify.com/track/6YtzGYCIUydA50pbDuPhE8) | [throughfield](https://open.spotify.com/artist/38RdlcwxQGnKfpO1z7pJaQ) | [When Earth Whispers](https://open.spotify.com/album/4QYtWQV3YlroscBoTnbwBs) | 2:36 | 2025-11-05 |  |
 | [White Light](https://open.spotify.com/track/5crvLtcVtQ0OYW3QtGpWcG) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Living Memories](https://open.spotify.com/album/0GHeLRHh0oJu7n4Eke61mN) | 3:05 | 2022-01-19 | 2024-11-14 |
 | [Who You Are](https://open.spotify.com/track/76agaZQuHOXaW7FoulqfD0) | [Cary Appleby](https://open.spotify.com/artist/53wNCR7II0lI1ephEA7rnR) | [Who You Are](https://open.spotify.com/album/3vPN95aWwiD7Rzuz9eDQFy) | 2:42 | 2022-01-19 |  |
+| [Windless Morning](https://open.spotify.com/track/5NhWppp1A4BVAOLOZ3ZlyZ) | [Carl Kaleo](https://open.spotify.com/artist/4mcRi26s1KUkHVFcD3opEY) | [Windless Morning](https://open.spotify.com/album/6ZcmGaRHhXsomwFI7IzWkC) | 2:29 | 2026-07-31 |  |
 | [Wistful](https://open.spotify.com/track/63yPgrn1bfyb12gWzUhRvg) | [Benette](https://open.spotify.com/artist/6HXMmF2G7ZYNyT0J1FAyan) | [Wistful](https://open.spotify.com/album/3DelzkmukAbuP0STlZeGds) | 2:15 | 2022-01-19 | 2022-03-04 |
 | [With Dreams In Mind](https://open.spotify.com/track/4bXgmTz6rUXzetS0ugUGgy) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [A Kind Remark](https://open.spotify.com/album/3qf4w1CclOOnYASiEFarPo) | 2:30 | 2022-01-19 | 2025-01-08 |
 | [Å̊terhämtning](https://open.spotify.com/track/0DytUUbbGsWTgtmu78kDcy) | [Åmliden](https://open.spotify.com/artist/4c9woXzcZH9eO8EqiLbT9M) | [Å̊terhämtning](https://open.spotify.com/album/0kxpEj332lj8WZNtSn5CnU) | 2:27 | 2023-02-14 |  |

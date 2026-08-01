@@ -2,7 +2,7 @@
 
 ### [Country Worldwide](https://open.spotify.com/playlist/37i9dQZF1DX7hnECllVaUq)
 
-> The biggest hits from country artists around the globe\. Cover: Mack Geiger
+> The biggest hits from country artists around the globe\. Cover: Wade Forster
 
 234 songs - 13 hr 1 min
 

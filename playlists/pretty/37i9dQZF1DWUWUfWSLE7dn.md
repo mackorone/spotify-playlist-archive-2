@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,498 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,577 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 16 | [The Sun Yet Shines](https://open.spotify.com/track/5hcRWT88VLlbhEMh4efCMy) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season 2: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV) | 4:34 |
 | 17 | [Snape to Malfoy Manor](https://open.spotify.com/track/2qa4ObOcbA51uB9exCnZay) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Harry Potter and the Deathly Hallows, Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6s9twOs9wMKOEluU5dkBE0) | 1:58 |
 | 18 | [ulysse](https://open.spotify.com/track/2eDUDLy9PtmrawkrIIOxvM) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [ulysse](https://open.spotify.com/album/5GetJfVIdvTUJt7lgGYnpt) | 3:15 |
-| 19 | [III\. Poroajot \(The Reindeer Race\)](https://open.spotify.com/track/3gUskLdlIBXBrEK5MxAl7o) | [Einar Englund](https://open.spotify.com/artist/2yuEJwelgWHeo9CNGrFuNn), [Oulu Sinfonia](https://open.spotify.com/artist/6qSAiNjNsqfQkkk22QnIuB), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy) | [The White Reindeer Suite: III\. Poroajot \(The Reindeer Race\)](https://open.spotify.com/album/5f4WBua6WuJXU7Vi6WcIsL) | 1:28 |
+| 19 | [The White Reindeer Suite: III\. Poroajot](https://open.spotify.com/track/3gUskLdlIBXBrEK5MxAl7o) | [Einar Englund](https://open.spotify.com/artist/2yuEJwelgWHeo9CNGrFuNn), [Oulu Sinfonia](https://open.spotify.com/artist/6qSAiNjNsqfQkkk22QnIuB), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy) | [The White Reindeer Suite: III\. Poroajot \(The Reindeer Race\)](https://open.spotify.com/album/5f4WBua6WuJXU7Vi6WcIsL) | 1:28 |
 | 20 | [Sherwood Forest](https://open.spotify.com/track/1bHaFlc2jjKMfnb6GcBNwb) | [Marc Streitenfeld](https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM) | [Robin Hood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Q5SwPqfjjPk9ol0tFjElq) | 2:19 |
 | 21 | [Columbina: II\. Siciliana](https://open.spotify.com/track/5sUvJa2GamA9E1oqlS4hAE) | [Larry Lipkis](https://open.spotify.com/artist/4lcj2VIJkIyIsrHL1y7MeR), [Oksana Hretchyn](https://open.spotify.com/artist/2YeZTValLOpc5wA5c5ydWc), [Lviv National Philharmonic Symphony Orchestra](https://open.spotify.com/artist/2Rrb82TnQLhwIxuCMieb2i), [Theodore Kuchar](https://open.spotify.com/artist/7oFubvRIriTCF1yfzJm5RC) | [Lipkis: Pierrot and Friends](https://open.spotify.com/album/4WUiu4kLRt2SmNcrOA1PSo) | 5:45 |
 | 22 | [I'm Expecting Someone](https://open.spotify.com/track/41ckIX2CdahZo5iqQvO1Qo) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts: The Secrets of Dumbledore \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wmxJxhdGo9awyHiM1jRtP) | 2:14 |

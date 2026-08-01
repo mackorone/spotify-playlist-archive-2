@@ -2,9 +2,9 @@
 
 ### [Club Resistance](https://open.spotify.com/playlist/37i9dQZF1DWTLrNDPW5co2)
 
-> Bold and pioneering\. LGBTQIA+ artists and allies at the center of dance music culture\. Featuring Andy Butler of Hercules & Love Affair.
+> Bold and pioneering\. LGBTQIA+ artists and allies at the center of dance music culture\. Featuring Arca.
 
-491 songs - 1 day 5 hr 52 min
+492 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Sweet Devotion](https://open.spotify.com/track/7MxsDJl8a1piNsqGwheXKS) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Sweet Devotion](https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT) | 5:34 | 2024-06-14 | 2024-07-02 |
 | [szach\-mat](https://open.spotify.com/track/6BYP7oHa1mMgZ2brUcAZNE) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [szach\-mat](https://open.spotify.com/album/6l7Z9Mq59T3fx1mzdKrMND) | 4:23 | 2024-06-01 | 2024-06-15 |
 | [T.E.T.A Intergalactica](https://open.spotify.com/track/4AuVKafP9n7Y8NvjyEMGtd) | [Slim Soledad](https://open.spotify.com/artist/0PMIt2iZdVVvBzyYRpM7Db), [Iki Yos](https://open.spotify.com/artist/6M9pbhfaqC8axIxpEkioK1) | [T.E.T.A Intergalactica](https://open.spotify.com/album/672vnH5HCMgYe0ReIxGiCS) | 4:00 | 2024-05-10 | 2024-09-21 |
+| [Taconeando](https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [XXXXX](https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql) | 2:18 | 2026-07-31 |  |
 | [take it offff](https://open.spotify.com/track/4FT34LPn1NfZizeWQ7G6Oz) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [take it offff](https://open.spotify.com/album/4bLX9szK5qIl3f9qzRs49O) | 2:10 | 2024-11-15 | 2025-03-01 |
 | [Tan Lines](https://open.spotify.com/track/1CJSB4iFWu94tcEttW6wrE) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Tan Lines](https://open.spotify.com/album/5zl6YCrrq5HLsBEPRdQpC4) | 2:07 | 2025-03-21 | 2025-11-08 |
 | [TEQUILA](https://open.spotify.com/track/2h3Pf8SrVoNpy3no4WQlEn) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [SUCCUBUS](https://open.spotify.com/album/5CFxHha8oJfS3RDGbb5YQZ) | 3:03 | 2023-10-13 | 2024-07-13 |
@@ -484,7 +485,7 @@
 | [way of the dolls](https://open.spotify.com/track/4HvYbLRi7l6n1fBoxpZl6q) | [Star Amerasu](https://open.spotify.com/artist/5KeTqUR48eqXCpvEHQm7P6) | [way of the dolls](https://open.spotify.com/album/28p3hxN9jIXZC6Qoqqu0rF) | 3:32 | 2024-05-24 | 2024-10-01 |
 | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9) | 2:41 | 2025-10-03 | 2026-05-31 |
 | [WHATEVER GETS YOU THROUGH THE NIGHT \- duet in the dark](https://open.spotify.com/track/3q4UCwieqed99JzO1pwFnW) | [DONT MAKE THIS WEIRD](https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p), [Darkwah](https://open.spotify.com/artist/6ETe9wxXBvJockY50Pzo5A) | [WHATEVER GETS YOU THROUGH THE NIGHT \(duet in the dark\)](https://open.spotify.com/album/1e1wSXGzAr5zMB903icCYV) | 2:21 | 2025-06-20 | 2025-08-16 |
-| [WHORE IDOL](https://open.spotify.com/track/2lsmABViywpBiq0DrenwUl) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco), [MkX](https://open.spotify.com/artist/0eulFYzjHkalG4jALSAQAo) | [precum](https://open.spotify.com/album/7fGPEebaGe089Cru10K8R2) | 2:38 | 2025-08-15 |  |
+| [WHORE IDOL](https://open.spotify.com/track/2lsmABViywpBiq0DrenwUl) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco), [MkX](https://open.spotify.com/artist/0eulFYzjHkalG4jALSAQAo) | [precum](https://open.spotify.com/album/7fGPEebaGe089Cru10K8R2) | 2:38 | 2025-08-15 | 2026-08-01 |
 | [WICKED GYAL](https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [WICKED GYAL](https://open.spotify.com/album/0qbhpOqIGOMnwveNz9Ljwb) | 3:33 | 2023-06-20 | 2023-06-24 |
 | [Wifey Riddim](https://open.spotify.com/track/4QmoRTOUyrBb0butY0aYtX) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Wifey Riddim](https://open.spotify.com/album/6GLYQfBSP4JHsec83wYB9c) | 2:28 | 2025-02-28 | 2025-09-13 |
 | [Won't Bring Me Down](https://open.spotify.com/track/7bLSxU45c73nYiBUWHYTb6) | [Emmber](https://open.spotify.com/artist/4hwIFnxgvP9Lgq3JMPrjNe), [Terrell Carter](https://open.spotify.com/artist/4slqmBm48YTltzDWUvQju6) | [Won't Bring Me Down](https://open.spotify.com/album/0VmSyU3137lyHjvS5KYjqp) | 3:15 | 2024-06-21 | 2024-08-17 |

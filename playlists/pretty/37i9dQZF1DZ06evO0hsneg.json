@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAACMpIFAYlkhdgd0H7OHvfny",
+  "snapshot_id": "amqUAAAAAACBvKdD069bYp+b+Vs2JCe4",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Pyra",
-          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
-        }
-      ],
-      "duration_ms": 222357,
-      "name": "Foreign",
-      "url": "https://open.spotify.com/track/2njlm9Xf01hK7nvyExp3xI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bossy",
         "url": "https://open.spotify.com/album/5nb8r2gQC3ro3g5s1VETMz"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 134947,
       "name": "Bossy",
       "url": "https://open.spotify.com/track/3uuytiAc3p8k73EM9WENt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
+        }
+      ],
+      "duration_ms": 222357,
+      "name": "Foreign",
+      "url": "https://open.spotify.com/track/2njlm9Xf01hK7nvyExp3xI"
     },
     {
       "added_at": null,
@@ -283,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "BOMBAE",
+        "url": "https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "duration_ms": 146184,
+      "name": "BOMBAE",
+      "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unreleased Project, Vol. 1",
         "url": "https://open.spotify.com/album/2YFa7bbWA742O1sgbXfCZi"
       },
@@ -307,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOMBAE",
-        "url": "https://open.spotify.com/album/2yWl7I0D74ieRvFjYYz282"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Awich",
-          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
-        }
-      ],
-      "duration_ms": 146184,
-      "name": "BOMBAE",
-      "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't Speak English",
         "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
@@ -343,30 +343,6 @@
       "duration_ms": 157498,
       "name": "Vaselina (feat. euro)",
       "url": "https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) [REMIX]",
-        "url": "https://open.spotify.com/album/5F9n9FZTxY7mnQKzIX4qgF"
-      },
-      "artists": [
-        {
-          "name": "\u534a\u719f\u5375\u3063\u3061",
-          "url": "https://open.spotify.com/artist/41X6FS6g9dLuOGghju7Qb1"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Yayoi Daimon",
-          "url": "https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb"
-        }
-      ],
-      "duration_ms": 141833,
-      "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) - REMIX",
-      "url": "https://open.spotify.com/track/1uZ8vgCwplmJ18HIDcirB1"
     },
     {
       "added_at": null,
@@ -395,22 +371,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lit in Shanghai",
-        "url": "https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh"
+        "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) [REMIX]",
+        "url": "https://open.spotify.com/album/5F9n9FZTxY7mnQKzIX4qgF"
       },
       "artists": [
+        {
+          "name": "\u534a\u719f\u5375\u3063\u3061",
+          "url": "https://open.spotify.com/artist/41X6FS6g9dLuOGghju7Qb1"
+        },
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         },
         {
-          "name": "PSY.P",
-          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
+          "name": "Yayoi Daimon",
+          "url": "https://open.spotify.com/artist/6u1eX0H0rWHLh3Dq1ASdUb"
         }
       ],
-      "duration_ms": 179277,
-      "name": "Lit in Shanghai",
-      "url": "https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG"
+      "duration_ms": 141833,
+      "name": "GAL is MIND (feat. Ramengvrl & YAYOI DAIMON) - REMIX",
+      "url": "https://open.spotify.com/track/1uZ8vgCwplmJ18HIDcirB1"
     },
     {
       "added_at": null,
@@ -431,6 +411,26 @@
       "duration_ms": 151020,
       "name": "Be My Baby",
       "url": "https://open.spotify.com/track/65fg6a44OSUC6K2zw7FqZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lit in Shanghai",
+        "url": "https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "PSY.P",
+          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
+        }
+      ],
+      "duration_ms": 179277,
+      "name": "Lit in Shanghai",
+      "url": "https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GOOD GIRL",
+        "url": "https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 173871,
+      "name": "GOOD GIRL",
+      "url": "https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't No MF (feat. pH-1)",
         "url": "https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm"
       },
@@ -615,46 +631,6 @@
       "duration_ms": 281642,
       "name": "Don't Touch Me",
       "url": "https://open.spotify.com/track/5K9QwRdkw0SQ3B3xxPoxWy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GOOD GIRL",
-        "url": "https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "GOOD GIRL",
-      "url": "https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRONOIA 2.0",
-        "url": "https://open.spotify.com/album/6PcoYWHfWZ9pgYyMcEewkt"
-      },
-      "artists": [
-        {
-          "name": "Matter Mos",
-          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
-        },
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Romantic Echoes",
-          "url": "https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "JOYFUL INTERLUDE",
-      "url": "https://open.spotify.com/track/4bltUbik9ccpBG0DI7nPyq"
     },
     {
       "added_at": null,
@@ -743,6 +719,30 @@
       "duration_ms": 494040,
       "name": "Anies Prabowo Ganjar - Epic Rap Battles Of Presidency 2024",
       "url": "https://open.spotify.com/track/1JzD2zrVQzsx75eupEWt2s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRONOIA 2.0",
+        "url": "https://open.spotify.com/album/6PcoYWHfWZ9pgYyMcEewkt"
+      },
+      "artists": [
+        {
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Romantic Echoes",
+          "url": "https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "JOYFUL INTERLUDE",
+      "url": "https://open.spotify.com/track/4bltUbik9ccpBG0DI7nPyq"
     },
     {
       "added_at": null,

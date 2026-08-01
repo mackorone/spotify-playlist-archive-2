@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-1,138 songs - 2 day 22 hr 22 min
+1,140 songs - 2 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -537,6 +537,7 @@
 | [KINTSUGI feat\. Koie](https://open.spotify.com/track/4mOGeF0xI6dThLtCkB1jbn) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ), [Koie](https://open.spotify.com/artist/35yfozzh2wqgabWuz3d0AC) | [KINTSUGI feat\. Koie](https://open.spotify.com/album/2zxxqSTBxBJ8YHuz2Q8NKy) | 3:23 | 2026-03-27 | 2026-05-16 |
 | [Kiss & Tell A Phone](https://open.spotify.com/track/60SSgWbtFd4SVGhj18EPL6) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [The Last Laugh \(Part I\)](https://open.spotify.com/album/5k77pSc53QUp8WNIXwseu7) | 2:52 | 2025-06-20 | 2025-08-30 |
 | [Knik](https://open.spotify.com/track/1JQN3gqqNUV83MeN8OLZax) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [SHISH](https://open.spotify.com/album/7pbhvtNUvp160w3qgtwCCg) | 5:38 | 2025-11-07 | 2025-11-22 |
+| [Know Your Enemy \- Live](https://open.spotify.com/track/6l43GrYuUmTJmcOgN5Z7cn) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrods Original Soundtrack](https://open.spotify.com/album/4Fz1Rz0WlGAbBSht1UPmNw) | 5:02 | 2026-07-31 |  |
 | [Kon! Kon! \(feat\. Bloodywood\)](https://open.spotify.com/track/7uCQ2yvHQxZtTrvdDLA1Cz) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Kon! Kon! \(feat\. Bloodywood\)](https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T) | 3:55 | 2025-07-11 | 2025-08-01 |
 | [LA FINE](https://open.spotify.com/track/6DPE8tGV9lzKALNnvuY9dS) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [LA FINE](https://open.spotify.com/album/5eZ98aKCgAQmEYNtueCoJK) | 3:20 | 2022-12-15 | 2023-12-08 |
 | [Lachryma](https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Lachryma](https://open.spotify.com/album/4c1dPnDFdWvgfUSwHvFgev) | 4:36 | 2025-04-11 | 2025-07-18 |
@@ -721,7 +722,7 @@
 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 | 2024-10-25 | 2025-05-16 |
 | [Over My Head](https://open.spotify.com/track/3tffqhqjhbLMfefbsMupgL) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Over My Head](https://open.spotify.com/album/3Qxms75iFFEBACANdN1nns) | 2:30 | 2026-02-27 |  |
 | [Overcast](https://open.spotify.com/track/4ylt9yahyuyNy5EIEUS7eE) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Mây Mù](https://open.spotify.com/album/4sXqEcYMZvBKCcwkasoinW) | 2:51 | 2022-06-23 | 2022-09-23 |
-| [Ozzy's Song](https://open.spotify.com/track/3X3jZCrNcpVryiWGn7DvJK) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Engines of Demolition](https://open.spotify.com/album/08ixiGSCVcUOBdpCZXQwqW) | 5:28 | 2026-03-27 |  |
+| [Ozzy's Song](https://open.spotify.com/track/3X3jZCrNcpVryiWGn7DvJK) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Engines of Demolition](https://open.spotify.com/album/08ixiGSCVcUOBdpCZXQwqW) | 5:28 | 2026-03-27 | 2026-08-01 |
 | [Paint A Picture](https://open.spotify.com/track/4utuVAGRIGr2rZ4RNOsToh) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Paint A Picture](https://open.spotify.com/album/6GAwsYJC09D75uOSpkAdWM) | 2:48 | 2025-06-20 | 2025-07-18 |
 | [Pale Horse](https://open.spotify.com/track/1dk1uBTlxYMQ6PSj5zskZg) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Bright as Blasphemy](https://open.spotify.com/album/4UfWCai5kezrUuom68hwHt) | 4:37 | 2025-08-15 | 2025-10-25 |
 | [Papa Was A Rolling Stone feat\. Demi Lovato](https://open.spotify.com/track/3KnOS3OzkdWXI7eWgzVNGk) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Papa Was A Rolling Stone feat\. Demi Lovato](https://open.spotify.com/album/2WfOgJEkZPSniHWW7gnuc0) | 7:52 | 2024-05-17 | 2025-03-15 |
@@ -947,6 +948,7 @@
 | [The Beat](https://open.spotify.com/track/5TM64poPKEC9oqUoxojedI) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [The Beat](https://open.spotify.com/album/4niaB3fUejqfPM4alqc3uT) | 1:43 | 2025-07-11 | 2025-08-16 |
 | [The Best Thing](https://open.spotify.com/track/7iyNutlsE71mdXIKpU8LhA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [All Washed Up](https://open.spotify.com/album/2bJywAWIHhNFkPa8dcPtLp) | 4:01 | 2025-11-14 | 2026-02-07 |
 | [THE BOTTOM](https://open.spotify.com/track/49Syz20A5meY1lBkkaoKN4) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE BOTTOM](https://open.spotify.com/album/46AUWrJnzx6ZFw3Bbjz8OZ) | 3:52 | 2025-07-24 | 2025-09-05 |
+| [The Chandelier](https://open.spotify.com/track/6MKZ5XhuLoUn0Z4QvQnlSc) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [The Singularity: Ekleipsis](https://open.spotify.com/album/5ZGIZYHEABTEKAwjCb6H8O) | 4:51 | 2026-07-31 |  |
 | [The Contract](https://open.spotify.com/track/6DzXaIgVIH7oLA1pkUtFaG) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Contract](https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J) | 3:48 | 2025-06-18 | 2025-07-18 |
 | [The Death of the Crows](https://open.spotify.com/track/4UEsmJ3xP1hNxYXtxn7enF) | [Giobia](https://open.spotify.com/artist/4pKR1QNX7EW2uRlMWEOMRF) | [X\-ÆON](https://open.spotify.com/album/5ufm3YpuYfSpMyPapW5Vay) | 3:09 | 2025-10-17 | 2025-11-01 |
 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-13 | 2023-07-14 |
@@ -965,7 +967,7 @@
 | [The Hills](https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [The Hills](https://open.spotify.com/album/0iFGP0AHWd8UHjpeHDUIMz) | 3:31 | 2023-10-16 | 2023-10-27 |
 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 | 2023-07-20 | 2024-02-23 |
 | [the INVISIBLE](https://open.spotify.com/track/3tVgRpCpmByRVfzbZcx8Qt) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [the INVISIBLE](https://open.spotify.com/album/4XY59TAY7Oac5lCgmMQknq) | 3:42 | 2023-06-15 | 2023-07-28 |
-| [The Kill \- Acoustic](https://open.spotify.com/track/6oDjMFY8DJTASyYImW3FHW) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [The Kill \(Acoustic\)](https://open.spotify.com/album/1X0m18nNz1nomrVslJJ4aY) | 3:24 | 2026-03-20 |  |
+| [The Kill \- Acoustic](https://open.spotify.com/track/6oDjMFY8DJTASyYImW3FHW) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [The Kill \(Acoustic\)](https://open.spotify.com/album/1X0m18nNz1nomrVslJJ4aY) | 3:24 | 2026-03-20 | 2026-08-01 |
 | [The Language Of My Heart](https://open.spotify.com/track/4anwYZI6i9l5xi8caRrbo3) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [The Language Of My Heart \(France Bonus Track\)](https://open.spotify.com/album/0Kmho2vdfbGmfJyyUesNoW) | 3:53 | 2022-05-19 | 2022-06-01 |
 | [The Last Day Of War And The First Day Of Peace](https://open.spotify.com/track/5CrxpX3CGHZ26aWicYuvcO) | [Ayreon](https://open.spotify.com/artist/2RSApl0SXcVT8Yiy4UaPSt) | [The Last Day Of War And The First Day Of Peace](https://open.spotify.com/album/1t635fQlMDBH9RHu8DZgTK) | 3:32 | 2023-11-23 | 2023-12-01 |
 | [The Laugh Track](https://open.spotify.com/track/2B2r9ZYdlvntDcwmYydnsx) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Laugh Track](https://open.spotify.com/album/6uo9LWc5MS8CZ2QWFMEyrz) | 3:15 | 2025-10-10 | 2025-11-22 |

@@ -720,7 +720,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 127634,
       "name": "Angel Music",
       "url": "https://open.spotify.com/track/42oFAKZp13nkMiEkDVGu7Q"
@@ -4013,6 +4013,28 @@
     },
     {
       "album": {
+        "name": "Elevate (SOTA Remix)",
+        "url": "https://open.spotify.com/album/2NccNdznw705uZ4sfQ7FRY"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Elevate - SOTA Remix",
+      "url": "https://open.spotify.com/track/5l1KPMsuhpp3aE4UoK8Hzx"
+    },
+    {
+      "album": {
         "name": "Embrace Me Now",
         "url": "https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70"
       },
@@ -5008,7 +5030,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 176000,
       "name": "Flex It",
       "url": "https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm"
@@ -15532,6 +15554,28 @@
       "duration_ms": 173714,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/4oQVLOACv9GfeB9KcDRIo8"
+    },
+    {
+      "album": {
+        "name": "WannaCry",
+        "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219367,
+      "name": "WannaCry",
+      "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
     },
     {
       "album": {

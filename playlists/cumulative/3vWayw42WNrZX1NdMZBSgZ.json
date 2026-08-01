@@ -5703,6 +5703,28 @@
     },
     {
       "album": {
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/3WYvCcWn2UD44wxjkoUG0u"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177821,
+      "name": "Efectos Secundarios",
+      "url": "https://open.spotify.com/track/3ZBeHVnqHHMOmv1ofhq6T0"
+    },
+    {
+      "album": {
         "name": "EGO\u00cdSTA",
         "url": "https://open.spotify.com/album/1bIEDgIs61l1UPgKkD0l1R"
       },
@@ -11978,7 +12000,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 184041,
       "name": "Mi Yo De Antes",
       "url": "https://open.spotify.com/track/5JYGc8GO8v3He5zzzL8F6J"
@@ -17104,10 +17126,28 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 167173,
       "name": "Solifican12",
       "url": "https://open.spotify.com/track/4fDmgQfKMY7GcAwp2nNoQ0"
+    },
+    {
+      "album": {
+        "name": "Live From NPR's Tiny Desk",
+        "url": "https://open.spotify.com/album/5rSveljw4MYm3iQv46wSfh"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173428,
+      "name": "Solifican12 - Live from NPR's Tiny Desk",
+      "url": "https://open.spotify.com/track/4ANiU4F1SjAwhTlVUEisON"
     },
     {
       "album": {

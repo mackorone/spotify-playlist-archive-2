@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-277 songs - 15 hr 24 min
+278 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Dolce Vita](https://open.spotify.com/track/49HmAScfsg98wibVSsYMlA) | [Adriano Selva](https://open.spotify.com/artist/3Ea3kpFCrzlHXh4Q8ieAXE) | [Amour Moderne](https://open.spotify.com/album/7iuLdd4y2yUxoafRMHRsGg) | 2:13 | 2026-02-06 |  |
 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2026-04-10 |  |
 | [Don't Leave Me Now](https://open.spotify.com/track/7huLG5ST9vhXuxSFsYyxbH) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Moodswings](https://open.spotify.com/album/0oJlmRx6Xnbwy9uwJy7EnA) | 3:52 | 2026-02-06 |  |
+| [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 | 2026-07-31 |  |
 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 | 2025-07-18 | 2025-09-20 |
 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 | 2026-02-06 |  |
 | [Dulce Perro](https://open.spotify.com/track/1Neey2oqU4yz7yRsfQoLn7) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Dulce Perro](https://open.spotify.com/album/66wJOEVqN5bxB2h5I5xyTj) | 2:49 | 2025-10-17 | 2026-02-07 |
@@ -107,7 +108,7 @@
 | [Hoe je naar morgen kijkt](https://open.spotify.com/track/3zVTa00TojCTBF9SSNRq15) | [The Gunnies](https://open.spotify.com/artist/2KMJDmZmWFaVanDyUD9sZq) | [Hoe je naar morgen kijkt](https://open.spotify.com/album/7LfHscY8nyzHc4eco1DCU1) | 4:29 | 2026-03-20 | 2026-05-28 |
 | [holes](https://open.spotify.com/track/6NQtkU253uebIELwPu2KjQ) | [Colin Vincent](https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ) | [holes](https://open.spotify.com/album/0JO4jUHwMOmA2io1tUw4be) | 2:47 | 2025-07-18 | 2025-09-20 |
 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver, Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 | 2026-04-10 |  |
-| [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 | 2026-03-13 |  |
+| [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/track/4V9fJ12KcWd78OSAqYNO9r) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Home \(feat\. Hikaru Utada\)](https://open.spotify.com/album/3jIzQAsO6agpgpWRMOO8uF) | 3:44 | 2026-03-13 | 2026-08-01 |
 | [Home Tonight](https://open.spotify.com/track/7DzKcNfTSISDA9uBPavuaG) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Home Tonight](https://open.spotify.com/album/5ascu0uOSAvnOsUVEsazqA) | 3:27 | 2025-07-18 |  |
 | [How Do I](https://open.spotify.com/track/3WjWo8FZ3uAguGsplNa8YY) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Becoming](https://open.spotify.com/album/7606To8GLyeHpaoqYGXHV2) | 2:07 | 2026-02-13 | 2026-05-28 |
 | [How many miles](https://open.spotify.com/track/1ED6fIsQtKmFf83bMxDXKl) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/62xd4emBJXINuYl0RzfvO8) | 2:21 | 2026-04-17 |  |

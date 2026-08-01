@@ -2661,6 +2661,24 @@
     },
     {
       "album": {
+        "name": "All Is",
+        "url": "https://open.spotify.com/album/1zKiLksqDwo1yb695bYenS"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145262,
+      "name": "All Is",
+      "url": "https://open.spotify.com/track/1QPdCZYB41RYhol54uNOp0"
+    },
+    {
+      "album": {
         "name": "All Love",
         "url": "https://open.spotify.com/album/3WPlFCZf68H67CsvrzJp1f"
       },
@@ -7976,6 +7994,24 @@
       "duration_ms": 140400,
       "name": "Bow Bow Bow (F My Baby Dad)",
       "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
+    },
+    {
+      "album": {
+        "name": "Bowling",
+        "url": "https://open.spotify.com/album/1XpXXuqTFnmv1EQYZmAbd2"
+      },
+      "artists": [
+        {
+          "name": "Iconic Savvy",
+          "url": "https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108946,
+      "name": "Bowling",
+      "url": "https://open.spotify.com/track/30DMkOn32Lw05KrzAxczJu"
     },
     {
       "album": {
@@ -13350,7 +13386,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 143200,
       "name": "Did That",
       "url": "https://open.spotify.com/track/3yk605Rv9pmjVWdA0DDgzU"
@@ -16506,7 +16542,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 158976,
       "name": "Face Card (with Chris Brown & Bryson Tiller)",
       "url": "https://open.spotify.com/track/5N3p9YjU6WGfU0y4jrgEGc"
@@ -23800,7 +23836,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 111096,
       "name": "HOT OUT, Pt. 5",
       "url": "https://open.spotify.com/track/57EzOE6oFsb5VFbyrTeAWY"
@@ -24671,6 +24707,28 @@
     },
     {
       "album": {
+        "name": "I GOTCHA BITCH ft FOX BD",
+        "url": "https://open.spotify.com/album/0qTVP9ddaA4JMwQ58Cus0z"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        },
+        {
+          "name": "Fox BD",
+          "url": "https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97500,
+      "name": "I GOTCHA BITCH ft FOX BD",
+      "url": "https://open.spotify.com/track/6876WzCsXQotzqrpET0NYf"
+    },
+    {
+      "album": {
         "name": "I Guess",
         "url": "https://open.spotify.com/album/0iNo8CyiLfDf2oTgMoStcj"
       },
@@ -24686,6 +24744,24 @@
       "duration_ms": 176704,
       "name": "I Guess",
       "url": "https://open.spotify.com/track/4ruLf1oN8eOxgLDdapGg7j"
+    },
+    {
+      "album": {
+        "name": "I hate hoes",
+        "url": "https://open.spotify.com/album/3Yx9fQ503ZG8Z14Z3k8tPu"
+      },
+      "artists": [
+        {
+          "name": "AZIEDOESNTEXIST",
+          "url": "https://open.spotify.com/artist/13BgU01okousPOFvmiwecU"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73522,
+      "name": "I hate hoes",
+      "url": "https://open.spotify.com/track/6aPpZ2AhyWZ7R7Qgp5dIVe"
     },
     {
       "album": {
@@ -25242,7 +25318,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 125640,
       "name": "I'm Scared",
       "url": "https://open.spotify.com/track/63qpDL0lQDGtCIISBiLUuf"
@@ -27495,6 +27571,28 @@
     },
     {
       "album": {
+        "name": "KEEP UP W ME",
+        "url": "https://open.spotify.com/album/5bUlt7YMFSAGUwxhn6L3tT"
+      },
+      "artists": [
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        },
+        {
+          "name": "Zukenee",
+          "url": "https://open.spotify.com/artist/3FFfAZsrsx8ot1m6H5vzQc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "KEEP UP W ME",
+      "url": "https://open.spotify.com/track/0lonqBUBxoRez8uLXQmmSh"
+    },
+    {
+      "album": {
         "name": "KEEP WISHING (feat. 2Rare)",
         "url": "https://open.spotify.com/album/6tHZnpHCEBn15sj29nuNEA"
       },
@@ -27794,7 +27892,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 113437,
       "name": "KILLIN EM",
       "url": "https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx"
@@ -30097,6 +30195,24 @@
     },
     {
       "album": {
+        "name": "Look Don't Touch",
+        "url": "https://open.spotify.com/album/00sCJ6VCJkELDOwOYLsyLE"
+      },
+      "artists": [
+        {
+          "name": "Ray Vaughn",
+          "url": "https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165530,
+      "name": "Look Don't Touch",
+      "url": "https://open.spotify.com/track/7K0uTBhWB4cODVkfpqDYZo"
+    },
+    {
+      "album": {
         "name": "Chick James, Vol. 1 (Deluxe)",
         "url": "https://open.spotify.com/album/17nizapviqtWKivgq6ifU7"
       },
@@ -32210,7 +32326,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 154825,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/2YjswL5Vwic7uIgTrhgwrI"
@@ -39596,7 +39712,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 92655,
       "name": "PARLAY",
       "url": "https://open.spotify.com/track/2CWP5h36QBRfDQPYl3K9uA"
@@ -41509,6 +41625,24 @@
     },
     {
       "album": {
+        "name": "PRINCE OF THE SCENE",
+        "url": "https://open.spotify.com/album/0Eqp6A7oVC3upNYMGsu26e"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116073,
+      "name": "PRINCE OF THE SCENE",
+      "url": "https://open.spotify.com/track/7LyhTlyFkFJdGkpBoENPX6"
+    },
+    {
+      "album": {
         "name": "Like..?",
         "url": "https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1"
       },
@@ -42304,7 +42438,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 175680,
       "name": "R.I.P Peace",
       "url": "https://open.spotify.com/track/0HGiBth3dhLw2NFF0M3AsS"
@@ -43791,6 +43925,24 @@
     },
     {
       "album": {
+        "name": "Rich Wizard",
+        "url": "https://open.spotify.com/album/4vXgkO1L0LuLnzzY47BH6r"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163096,
+      "name": "Rich Wizard",
+      "url": "https://open.spotify.com/track/65kfzCDZRfiIsX28kK1WGk"
+    },
+    {
+      "album": {
         "name": "Richer",
         "url": "https://open.spotify.com/album/48z2k3V6BZm4fsJSp6LjKg"
       },
@@ -44096,7 +44248,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 161082,
       "name": "Ringin",
       "url": "https://open.spotify.com/track/6YvKDYJg5NwaK7K35qOD7D"
@@ -46654,7 +46806,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 140168,
       "name": "shootin",
       "url": "https://open.spotify.com/track/7jF5xbNm34tuuKu4ELGnnh"
@@ -46768,6 +46920,24 @@
       "duration_ms": 172392,
       "name": "Show Dat",
       "url": "https://open.spotify.com/track/3YnjEF9USwZuycc7CWTgbE"
+    },
+    {
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/4wojhti4OERoaKTi8pFbTc"
+      },
+      "artists": [
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187013,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/0lvsPMru2v8WzadA3t4Poi"
     },
     {
       "album": {
@@ -48261,6 +48431,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Over The Rainbow",
+        "url": "https://open.spotify.com/album/6KWm9lzBGBK9Fgwx0lUbMK"
+      },
+      "artists": [
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141199,
+      "name": "Somewhere Over The Rainbow",
+      "url": "https://open.spotify.com/track/7si7fzEdEDs5SCPLpJ8oX8"
+    },
+    {
+      "album": {
         "name": "SOON (feat. Arabian)",
         "url": "https://open.spotify.com/album/3k4S1TseIIgV3X1KE3GeDw"
       },
@@ -49060,7 +49248,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 152403,
       "name": "Stay Home",
       "url": "https://open.spotify.com/track/1SJnsHeHIV9iiMwuWn5XUV"
@@ -49678,7 +49866,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 107716,
       "name": "Strings Attached (feat. TopOppGen)",
       "url": "https://open.spotify.com/track/1alCfXLwNUcZcpDCmtJQ9x"
@@ -51618,7 +51806,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 121294,
       "name": "the kill 2",
       "url": "https://open.spotify.com/track/7MZyREIMPkgc7v5vzCGw87"
@@ -51960,6 +52148,24 @@
       "duration_ms": 146796,
       "name": "They Can't FWM",
       "url": "https://open.spotify.com/track/6PPsAQKwX6lqH3ODT9xF35"
+    },
+    {
+      "album": {
+        "name": "They Can\u2019t Count",
+        "url": "https://open.spotify.com/album/0j5uHtWI3vVZlbMuviaTfK"
+      },
+      "artists": [
+        {
+          "name": "Dee Mula",
+          "url": "https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121752,
+      "name": "They Can\u2019t Count",
+      "url": "https://open.spotify.com/track/5wYRluwyyBS5lkPHzEvikU"
     },
     {
       "album": {
@@ -54816,7 +55022,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 175401,
       "name": "Vibe Responsibly (feat. Isaiah Rashad)",
       "url": "https://open.spotify.com/track/160MxLeneesHJlfptjX0Ia"
@@ -55220,7 +55426,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 127000,
       "name": "WAGWAN",
       "url": "https://open.spotify.com/track/33XUHrCbrAW6me9ewdCZip"
@@ -56602,7 +56808,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 149724,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0YcZT9SjPgmylWUfJSFtm3"

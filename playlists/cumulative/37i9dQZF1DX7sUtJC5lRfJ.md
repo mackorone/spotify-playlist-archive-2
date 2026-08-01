@@ -4,7 +4,7 @@
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hngle
 
-62 songs - 3 hr 52 min
+63 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Tìm Em \(feat\. Bảo Anh\)](https://open.spotify.com/track/6ELX356o21U28T73ZxruUj) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Bảo Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Tìm Em \(feat\. Bảo Anh\)](https://open.spotify.com/album/4qCaDixeJX4LXWMZs6rVyl) | 4:34 | 2026-06-24 |  |
 | [Tình Yêu Ngủ Quên](https://open.spotify.com/track/2MjpqyEA73TzenhDmj0RFN) | [Hoàng Tôn](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f), [LYHAN](https://open.spotify.com/artist/70swmqj7c3SHkkdf2SrSUy) | [Tình Yêu Ngủ Quên](https://open.spotify.com/album/4zrlMRfQ6NxqK6JvpxeTwj) | 2:57 | 2026-04-23 |  |
 | [Từ Đầu](https://open.spotify.com/track/7AAnw2xzxKplhRa0nCpM9i) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [Từ Đầu](https://open.spotify.com/album/5ta4BkE2WfbV50RZi5Ziiy) | 5:09 | 2026-06-24 |  |
+| [Vẫn Vậy](https://open.spotify.com/track/3V0Mgbt72iaI55ywTOXT83) | [Sloth](https://open.spotify.com/artist/0pZYFZp4sO1moiEvytkWGU) | [Khi Mà](https://open.spotify.com/album/5q9IVIGjnxvkRcbYslJQaK) | 3:32 | 2026-08-01 |  |
 | [Vừa Tìm Thấy Đã Đánh Mất](https://open.spotify.com/track/3SH5tOnm2HMnxn12BAmJrP) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [Vừa Tìm Thấy Đã Đánh Mất](https://open.spotify.com/album/03PWhd6BlD8YZ5G586VwUi) | 4:22 | 2026-04-23 |  |
 | [Xiêu Lòng Việt Nam](https://open.spotify.com/track/2HyVA0cYA8vB8xrUeMZ8XH) | [Ngô Kiến Huy](https://open.spotify.com/artist/7at0gkjCnhOBrxwQlJPJ4s), [Jun Phạm](https://open.spotify.com/artist/5bJcxnt5lkrDyKfPjtSBxP), [CONGB](https://open.spotify.com/artist/0n5wPsNoNc7w1bElyNzY4Z) | [Xiêu Lòng Việt Nam](https://open.spotify.com/album/5FnNXGFP6Dgwxqoj6oBHZt) | 3:38 | 2026-05-31 | 2026-06-26 |
 | [Ôm anh khi em muốn khóc](https://open.spotify.com/track/64HUjsKpwtShUO5DUdsEyw) | [Quang Vinh](https://open.spotify.com/artist/0IMvyEWySP665zddlejaSm), [Bảo Thy](https://open.spotify.com/artist/4DPEUF2kY7kVrbXX4Zgu7S) | [Ôm anh khi em muốn khóc](https://open.spotify.com/album/4nlGdpnNU0OdN9hQaVJOYg) | 4:09 | 2026-05-31 |  |

@@ -3224,7 +3224,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 230554,
       "name": "Disco Daze - Demuir's Playboi Edit",
       "url": "https://open.spotify.com/track/1mElqjMn7eQ8cz0vkHUO0P"
@@ -4970,6 +4970,24 @@
       "duration_ms": 200664,
       "name": "For A Fool - Claptone Remix",
       "url": "https://open.spotify.com/track/2dMrqN3QRQnlmpQ6tKXaxe"
+    },
+    {
+      "album": {
+        "name": "For Your Soul",
+        "url": "https://open.spotify.com/album/7oTAN12VkhDubKIeRVGRO9"
+      },
+      "artists": [
+        {
+          "name": "Pinto (NYC)",
+          "url": "https://open.spotify.com/artist/4rldFvbl9NIVFrsguo5epO"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230099,
+      "name": "For Your Soul",
+      "url": "https://open.spotify.com/track/6znj91Xu9UeoaiXdNSAMzi"
     },
     {
       "album": {
@@ -12437,6 +12455,24 @@
     },
     {
       "album": {
+        "name": "Respect",
+        "url": "https://open.spotify.com/album/1WRiVpvviRABHziAuLv8fB"
+      },
+      "artists": [
+        {
+          "name": "Monty Kiddo",
+          "url": "https://open.spotify.com/artist/2hUodM79etRBN9x06kpmQy"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199700,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/58xbtu2h0QZBuv477obT1w"
+    },
+    {
+      "album": {
         "name": "Rhythm Unknown",
         "url": "https://open.spotify.com/album/6t4d4ZN2JjuEzWgmg3b3yK"
       },
@@ -16752,7 +16788,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 303849,
       "name": "You're Nasty",
       "url": "https://open.spotify.com/track/3xoGV25ng6sbUCEmMQlQ8K"
@@ -16898,7 +16934,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 197437,
       "name": "YoYo Disco - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/6Vu17xDve7915qFNPk2Wgm"

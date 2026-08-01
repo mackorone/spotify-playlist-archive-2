@@ -19575,6 +19575,24 @@
     },
     {
       "album": {
+        "name": "Speed Dealer",
+        "url": "https://open.spotify.com/album/5BL6SsxWXFOlmHunSjvEky"
+      },
+      "artists": [
+        {
+          "name": "Cameron Avery",
+          "url": "https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/3xun1vv9RHLZzUOBuWY8UZ"
+    },
+    {
+      "album": {
         "name": "The Archer",
         "url": "https://open.spotify.com/album/6LbyR5pthd2ao8QwxzLtV8"
       },
@@ -19864,6 +19882,24 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA"
+    },
+    {
+      "album": {
+        "name": "Speed Dealer",
+        "url": "https://open.spotify.com/album/5BL6SsxWXFOlmHunSjvEky"
+      },
+      "artists": [
+        {
+          "name": "Cameron Avery",
+          "url": "https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Speed Dealer",
+      "url": "https://open.spotify.com/track/4FuIagU6Rfw9cIQO4cUA9V"
     },
     {
       "album": {

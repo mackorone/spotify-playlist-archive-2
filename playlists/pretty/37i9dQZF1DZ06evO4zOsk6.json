@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAAAlX141ZrOKWy3oGhm2HusS",
+  "snapshot_id": "amqUAAAAAAANkv+//JmqH5vP8zEMvlTs",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Libido en Vivo Coliseo Dib\u00f3s (En Vivo)",
-        "url": "https://open.spotify.com/album/2XZbsEeI6vKVCdoEJ6pEKp"
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/178tFgYGKsuGVf1Wqx3uKy"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
         }
       ],
-      "duration_ms": 279297,
-      "name": "Criatura Misteriosa - En Vivo",
-      "url": "https://open.spotify.com/track/6iEZ8FQwD73BGBskoR7E1R"
+      "duration_ms": 196666,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/1aI5v8VXseEIohlEZoOti6"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rarezas",
-        "url": "https://open.spotify.com/album/178tFgYGKsuGVf1Wqx3uKy"
+        "name": "Libido en Vivo Coliseo Dib\u00f3s (En Vivo)",
+        "url": "https://open.spotify.com/album/2XZbsEeI6vKVCdoEJ6pEKp"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
         }
       ],
-      "duration_ms": 196666,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/1aI5v8VXseEIohlEZoOti6"
+      "duration_ms": 279297,
+      "name": "Criatura Misteriosa - En Vivo",
+      "url": "https://open.spotify.com/track/6iEZ8FQwD73BGBskoR7E1R"
     },
     {
       "added_at": null,

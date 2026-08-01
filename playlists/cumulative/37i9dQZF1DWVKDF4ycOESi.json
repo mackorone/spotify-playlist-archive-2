@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Le migliori nuove uscite della settimana. La cover arriva tra un po' \ud83c\udfa7",
+  "description": "Nuovi brani di Ariana Grande, KAROL G, Benny Blanco, 22simba, Swedish House Mafia e tanti altri.",
   "name": "New Music Friday Italia",
   "tracks": [
     {
@@ -7694,6 +7694,24 @@
       "duration_ms": 125027,
       "name": "AH AH AH",
       "url": "https://open.spotify.com/track/3hZfphgOX7x5nJibyHiEY0"
+    },
+    {
+      "album": {
+        "name": "AH HA",
+        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175866,
+      "name": "AH HA",
+      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
     },
     {
       "album": {
@@ -43059,7 +43077,7 @@
     },
     {
       "album": {
-        "name": "Dale (feat. Frezza, G.Mineiro, R3versal)",
+        "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
         "url": "https://open.spotify.com/album/7IKq8hAkstZ4EZ36x4j8JV"
       },
       "artists": [
@@ -43084,7 +43102,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 188000,
-      "name": "Dale (feat. Frezza, G.Mineiro, R3versal)",
+      "name": "DALE (feat. Frezza, G.Mineiro, R3versal)",
       "url": "https://open.spotify.com/track/3VjfNmIzBTYA4UFaUNpdY7"
     },
     {
@@ -117937,6 +117955,28 @@
     },
     {
       "album": {
+        "name": "No Love No Lies",
+        "url": "https://open.spotify.com/album/5S2FWIbWHjzVPdVoXV4IFq"
+      },
+      "artists": [
+        {
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
+        },
+        {
+          "name": "Ex\u2227",
+          "url": "https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128052,
+      "name": "No Love No Lies",
+      "url": "https://open.spotify.com/track/42BqDxZCkP9McrPfpqvspf"
+    },
+    {
+      "album": {
         "name": "NO MAI",
         "url": "https://open.spotify.com/album/2Fm5qxC9L8nponN5InO7Y2"
       },
@@ -133656,6 +133696,24 @@
       "duration_ms": 183429,
       "name": "Pessima idea",
       "url": "https://open.spotify.com/track/30oTjdtoeNQij5M0jvwgjj"
+    },
+    {
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
       "album": {
@@ -151149,7 +151207,7 @@
     },
     {
       "album": {
-        "name": "SAWA (feat. bees & honey)",
+        "name": "SAWA",
         "url": "https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5"
       },
       "artists": [
@@ -151166,7 +151224,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220527,
-      "name": "SAWA (feat. bees & honey)",
+      "name": "SAWA",
       "url": "https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1"
     },
     {
@@ -155282,6 +155340,28 @@
       "duration_ms": 180669,
       "name": "serie crime",
       "url": "https://open.spotify.com/track/5w9luhr7ivHzdHgwcF6Eo6"
+    },
+    {
+      "album": {
+        "name": "AHHCade",
+        "url": "https://open.spotify.com/album/0hlWE02p9OIt0NhbWLwgVo"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126004,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/3OVrWStc5JvH8ws4bV90Sa"
     },
     {
       "album": {
@@ -179259,24 +179339,6 @@
     },
     {
       "album": {
-        "name": "AHHCade",
-        "url": "https://open.spotify.com/album/0hlWE02p9OIt0NhbWLwgVo"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "date_added": "2026-07-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3OVrWStc5JvH8ws4bV90Sa"
-    },
-    {
-      "album": {
         "name": "",
         "url": "https://open.spotify.com/album/null"
       },
@@ -182694,6 +182756,24 @@
       "duration_ms": 173976,
       "name": "TWERKARE",
       "url": "https://open.spotify.com/track/5OC4SXVL3Zip0JSu5iHhPF"
+    },
+    {
+      "album": {
+        "name": "Twiggy",
+        "url": "https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209258,
+      "name": "Twiggy",
+      "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
     },
     {
       "album": {

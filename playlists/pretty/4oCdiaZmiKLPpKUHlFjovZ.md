@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring T.I., Fenix Flexin, Shaboozey &amp; more.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,242 likes - 105 songs - 4 hr 55 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 33,239 likes - 105 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

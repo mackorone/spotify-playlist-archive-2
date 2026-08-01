@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 204335,
       "name": "Chico Preto",
       "url": "https://open.spotify.com/track/4aBj8paD5TRHwTRRPfJW5q"
@@ -5120,6 +5120,28 @@
       "duration_ms": 212401,
       "name": "Sem Mentir",
       "url": "https://open.spotify.com/track/29o3BuxMMGbAxDJ9xsFOoF"
+    },
+    {
+      "album": {
+        "name": "Seu Novo Eu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Zs6je7qxwW5lTpdd6saMx"
+      },
+      "artists": [
+        {
+          "name": "Viviane Batid\u00e3o",
+          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
+        },
+        {
+          "name": "Zaynara",
+          "url": "https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199157,
+      "name": "Seu Novo Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/127oSFjtR6MbXGCRKzz39U"
     },
     {
       "album": {

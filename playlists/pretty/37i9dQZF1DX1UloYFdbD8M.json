@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Gowry Lekshmi",
-  "num_followers": 41018,
+  "num_followers": 41034,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIqIU1w6p1BQAvGIMexcCeFP/IKE",
+  "snapshot_id": "AAAAAEhFQ63LS0FZ0MiC7JVHfgoSb9nO",
   "tracks": [
     {
       "added_at": "2026-06-24 11:39:34",
@@ -267,6 +267,26 @@
       "duration_ms": 154000,
       "name": "Athirilla Mohangal",
       "url": "https://open.spotify.com/track/0wpuRk4VLhHL6KFF4rUJdV"
+    },
+    {
+      "added_at": "2026-07-31 10:55:08",
+      "album": {
+        "name": "Nafs",
+        "url": "https://open.spotify.com/album/18bo6nVbQc6y9W2JJ5lJYa"
+      },
+      "artists": [
+        {
+          "name": "MBL_",
+          "url": "https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z"
+        },
+        {
+          "name": "AYARKAY",
+          "url": "https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P"
+        }
+      ],
+      "duration_ms": 290561,
+      "name": "Nafs",
+      "url": "https://open.spotify.com/track/4OaSZFXIhOpTa2gVZL9Loo"
     },
     {
       "added_at": "2026-07-28 10:12:28",

@@ -1,6 +1,6 @@
 {
   "description": "Soft chill for the dreamy  \u2728",
-  "num_followers": 189833,
+  "num_followers": 189874,
   "original_name": "Chill Station",
   "owner": {
     "name": "Spotify",
@@ -523,18 +523,26 @@
     {
       "added_at": "2026-07-28 09:37:05",
       "album": {
-        "name": "I-Popstar: Vol. 1 | Episodes 1\u20133",
-        "url": "https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b"
+        "name": "Kedarnath (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm"
       },
       "artists": [
         {
-          "name": "Maan Panu",
-          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
         }
       ],
-      "duration_ms": 159187,
-      "name": "I\u2019m Done. - I-Popstar: Vol. 1",
-      "url": "https://open.spotify.com/track/0YRpv07J0y7J73X87efpia"
+      "duration_ms": 341823,
+      "name": "Qaafirana",
+      "url": "https://open.spotify.com/track/7BCp5hEiiDSmXsxsXkvYff"
     },
     {
       "added_at": "2026-07-28 09:37:05",
@@ -559,26 +567,18 @@
     {
       "added_at": "2026-07-28 09:37:05",
       "album": {
-        "name": "Kedarnath (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5tr2QN1s6pREyv0Kc39Zpm"
+        "name": "I-Popstar: Vol. 1 | Episodes 1\u20133",
+        "url": "https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b"
       },
       "artists": [
         {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
         }
       ],
-      "duration_ms": 341823,
-      "name": "Qaafirana",
-      "url": "https://open.spotify.com/track/7BCp5hEiiDSmXsxsXkvYff"
+      "duration_ms": 159187,
+      "name": "I\u2019m Done. - I-Popstar: Vol. 1",
+      "url": "https://open.spotify.com/track/0YRpv07J0y7J73X87efpia"
     },
     {
       "added_at": "2026-07-28 09:37:05",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2026-07-28 09:37:05",
       "album": {
+        "name": "Tu Aisa Kaise Hai?",
+        "url": "https://open.spotify.com/album/27QAFD3cwZHqU6tVe9fA7T"
+      },
+      "artists": [
+        {
+          "name": "Osho Jain",
+          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
+        }
+      ],
+      "duration_ms": 214821,
+      "name": "Tu Aisa Kaise Hai?",
+      "url": "https://open.spotify.com/track/7eadaD2SBArRbebB9CP70X"
+    },
+    {
+      "added_at": "2026-07-28 09:37:05",
+      "album": {
         "name": "Aasma Aasma (From \"Do Deewane Seher Mein\")",
         "url": "https://open.spotify.com/album/75gdVNNIo4xf4d6QqpJ63W"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 218400,
       "name": "Aasma Aasma (From \"Do Deewane Seher Mein\")",
       "url": "https://open.spotify.com/track/1W3xePkj0x1F2vYNhiIoIj"
-    },
-    {
-      "added_at": "2026-07-28 09:37:05",
-      "album": {
-        "name": "Tu Aisa Kaise Hai?",
-        "url": "https://open.spotify.com/album/27QAFD3cwZHqU6tVe9fA7T"
-      },
-      "artists": [
-        {
-          "name": "Osho Jain",
-          "url": "https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK"
-        }
-      ],
-      "duration_ms": 214821,
-      "name": "Tu Aisa Kaise Hai?",
-      "url": "https://open.spotify.com/track/7eadaD2SBArRbebB9CP70X"
     }
   ],
   "unique_name": "Chill Station",

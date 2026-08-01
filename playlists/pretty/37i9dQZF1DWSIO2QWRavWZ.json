@@ -1,13 +1,61 @@
 {
-  "description": "New music from your favorite women.  Cover:  DAMEDAME*",
-  "num_followers": 232561,
+  "description": "New music from your favorite women.  Cover:  Ari Lennox",
+  "num_followers": 232578,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEgevFNeyS/sg7df7BAEEtERNroI",
+  "snapshot_id": "AAAAAAJDNhhGFaqL88c/60SCax6h+fV1",
   "tracks": [
+    {
+      "added_at": "2026-07-31 05:36:39",
+      "album": {
+        "name": "Hookah Baby",
+        "url": "https://open.spotify.com/album/0JNWe4nvM807Bw5qMO3Me0"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 176363,
+      "name": "Hookah Baby",
+      "url": "https://open.spotify.com/track/5K32Q21Oc1weiMtLDqVULI"
+    },
+    {
+      "added_at": "2026-07-24 05:11:08",
+      "album": {
+        "name": "Reach Out",
+        "url": "https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"
+    },
+    {
+      "added_at": "2026-07-04 13:00:20",
+      "album": {
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
+    },
     {
       "added_at": "2026-07-24 05:11:08",
       "album": {
@@ -23,6 +71,22 @@
       "duration_ms": 148645,
       "name": "LUV MYSELF",
       "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
+    },
+    {
+      "added_at": "2026-07-31 05:36:39",
+      "album": {
+        "name": "CRIME",
+        "url": "https://open.spotify.com/album/0B84ykKPg6WazRSVIBw286"
+      },
+      "artists": [
+        {
+          "name": "N3WYRKLA",
+          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
+        }
+      ],
+      "duration_ms": 178466,
+      "name": "CRIME",
+      "url": "https://open.spotify.com/track/1iDRvIFE9ZWoQUibaVj4Vd"
     },
     {
       "added_at": "2026-07-24 05:11:08",
@@ -99,22 +163,6 @@
     {
       "added_at": "2026-07-24 05:11:08",
       "album": {
-        "name": "Reach Out",
-        "url": "https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z"
-      },
-      "artists": [
-        {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa"
-    },
-    {
-      "added_at": "2026-07-24 05:11:08",
-      "album": {
         "name": "Remedied",
         "url": "https://open.spotify.com/album/67RWFlHcVBOYAWMduwIGwV"
       },
@@ -145,20 +193,52 @@
       "url": "https://open.spotify.com/track/3IHTGwXvGyGslBbvHDDFrM"
     },
     {
-      "added_at": "2026-07-04 13:00:20",
+      "added_at": "2026-07-31 05:36:39",
       "album": {
-        "name": "MORNING DEW (DONK)",
-        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+        "name": "SHOTTY",
+        "url": "https://open.spotify.com/album/23LPSIQ9lYo1QjK0cs7eiX"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Storm Reid",
+          "url": "https://open.spotify.com/artist/2wli1yIG3wTiBubpPwUD3K"
         }
       ],
-      "duration_ms": 243896,
-      "name": "MORNING DEW (DONK)",
-      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
+      "duration_ms": 174015,
+      "name": "SHOTTY",
+      "url": "https://open.spotify.com/track/4K1PTydr3XFO84GJV6Xc2Y"
+    },
+    {
+      "added_at": "2026-07-24 05:11:08",
+      "album": {
+        "name": "A LITTLE VENGEANCE",
+        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 182773,
+      "name": "99%",
+      "url": "https://open.spotify.com/track/5NZQXsdu2FCFOkqE6JRzAm"
+    },
+    {
+      "added_at": "2026-07-31 05:36:39",
+      "album": {
+        "name": "PLAY WITH A KISS!",
+        "url": "https://open.spotify.com/album/3S2mohNLPT8riWEoyP8iBw"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "PLAY WITH A KISS!",
+      "url": "https://open.spotify.com/track/4g3Lp2lNFEipx4kmhyuLBs"
     },
     {
       "added_at": "2026-07-17 04:59:03",
@@ -213,20 +293,20 @@
       "url": "https://open.spotify.com/track/28fPjkRsnNktx2qbJxkLPe"
     },
     {
-      "added_at": "2026-07-24 05:11:08",
+      "added_at": "2026-07-31 05:36:39",
       "album": {
-        "name": "A LITTLE VENGEANCE",
-        "url": "https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44"
+        "name": "More Of You",
+        "url": "https://open.spotify.com/album/4m9FIQVMM9Ut01gmjBfDrw"
       },
       "artists": [
         {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
         }
       ],
-      "duration_ms": 182773,
-      "name": "99%",
-      "url": "https://open.spotify.com/track/5NZQXsdu2FCFOkqE6JRzAm"
+      "duration_ms": 199111,
+      "name": "More Of You",
+      "url": "https://open.spotify.com/track/59FNEgSTq2o442TKFHtLMx"
     },
     {
       "added_at": "2026-06-26 06:21:40",
@@ -327,7 +407,7 @@
     {
       "added_at": "2026-07-24 05:11:08",
       "album": {
-        "name": "Can't Wait",
+        "name": "CAN'T WAIT",
         "url": "https://open.spotify.com/album/3hW3JXhIe8WwkPDBD5Ko3E"
       },
       "artists": [
@@ -337,7 +417,7 @@
         }
       ],
       "duration_ms": 180171,
-      "name": "Can't Wait",
+      "name": "CAN'T WAIT",
       "url": "https://open.spotify.com/track/6vsNjbln9XwsNtayWdWAAW"
     },
     {
@@ -371,6 +451,22 @@
       "duration_ms": 148084,
       "name": "Different High",
       "url": "https://open.spotify.com/track/3v5zEJ439BTtSUZQoAMUDi"
+    },
+    {
+      "added_at": "2026-07-31 05:36:39",
+      "album": {
+        "name": "onyx",
+        "url": "https://open.spotify.com/album/3ImvIV2llQizVPojZjxSkI"
+      },
+      "artists": [
+        {
+          "name": "Halima",
+          "url": "https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap"
+        }
+      ],
+      "duration_ms": 213180,
+      "name": "onyx",
+      "url": "https://open.spotify.com/track/2Oow3GTiUU5ps5oc5tCBqX"
     },
     {
       "added_at": "2026-07-24 05:11:08",
@@ -473,6 +569,22 @@
       "url": "https://open.spotify.com/track/42ytAVcWCLJuaY7wGCbi5Y"
     },
     {
+      "added_at": "2026-07-31 05:36:39",
+      "album": {
+        "name": "Mama Says",
+        "url": "https://open.spotify.com/album/5uUenKjXnMMiALmpHHTGp7"
+      },
+      "artists": [
+        {
+          "name": "jael",
+          "url": "https://open.spotify.com/artist/1fa5Cs0FLFymlUMabvWTtw"
+        }
+      ],
+      "duration_ms": 195815,
+      "name": "Mama Says",
+      "url": "https://open.spotify.com/track/1zkuFUDkdyI3OHfVEqncWt"
+    },
+    {
       "added_at": "2026-06-26 06:21:40",
       "album": {
         "name": "Another Heartbreak",
@@ -487,6 +599,38 @@
       "duration_ms": 217951,
       "name": "Another Heartbreak",
       "url": "https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7"
+    },
+    {
+      "added_at": "2026-07-17 04:59:03",
+      "album": {
+        "name": "LEMONS",
+        "url": "https://open.spotify.com/album/24md8bqKFzp15rKTafIDWQ"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A THE LEOX",
+          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+        }
+      ],
+      "duration_ms": 154754,
+      "name": "LEMONS",
+      "url": "https://open.spotify.com/track/5bYHmQRNxLjFE3B735tATi"
+    },
+    {
+      "added_at": "2026-07-31 05:36:39",
+      "album": {
+        "name": "By The Time I Wake Up",
+        "url": "https://open.spotify.com/album/7MV7YJxjstlQ2Nejqs2Zmj"
+      },
+      "artists": [
+        {
+          "name": "Lusanda",
+          "url": "https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz"
+        }
+      ],
+      "duration_ms": 212282,
+      "name": "By The Time I Wake Up",
+      "url": "https://open.spotify.com/track/1MzS45AX5NrN1gxpuu195L"
     },
     {
       "added_at": "2026-07-17 04:59:03",
@@ -507,22 +651,6 @@
       "duration_ms": 204303,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/12lFre37kpLgK56sQUIMOH"
-    },
-    {
-      "added_at": "2026-07-17 04:59:03",
-      "album": {
-        "name": "LEMONS",
-        "url": "https://open.spotify.com/album/24md8bqKFzp15rKTafIDWQ"
-      },
-      "artists": [
-        {
-          "name": "L\u00c9A THE LEOX",
-          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
-        }
-      ],
-      "duration_ms": 154754,
-      "name": "LEMONS",
-      "url": "https://open.spotify.com/track/5bYHmQRNxLjFE3B735tATi"
     },
     {
       "added_at": "2026-07-17 04:59:03",
@@ -939,22 +1067,6 @@
       "duration_ms": 246422,
       "name": "baby, can we?",
       "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
-    },
-    {
-      "added_at": "2026-06-05 04:04:03",
-      "album": {
-        "name": "CANDYLAND!",
-        "url": "https://open.spotify.com/album/1c4mq3KrEto6RdMFuFdisO"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "CANDYLAND!",
-      "url": "https://open.spotify.com/track/2TxEe5Rqfzq5z6JG7eEzlh"
     },
     {
       "added_at": "2026-06-12 08:13:38",
@@ -1731,22 +1843,6 @@
     {
       "added_at": "2026-05-01 07:00:07",
       "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/6XfDyHBY9Hsq21r5ePADOP"
-      },
-      "artists": [
-        {
-          "name": "Dondria",
-          "url": "https://open.spotify.com/artist/4NgmPmKCSWm4kczsm6J3FO"
-        }
-      ],
-      "duration_ms": 228493,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/14gV7XoPCV9eMckHRTKJtc"
-    },
-    {
-      "added_at": "2026-05-01 07:00:07",
-      "album": {
         "name": "Forever?",
         "url": "https://open.spotify.com/album/2j8ZAG3vjHCGJZJlQSkbcZ"
       },
@@ -1903,26 +1999,6 @@
       "duration_ms": 111304,
       "name": "comfort zone",
       "url": "https://open.spotify.com/track/1u6Uxl0nxl1k7H8BMuAsg1"
-    },
-    {
-      "added_at": "2026-04-10 04:48:28",
-      "album": {
-        "name": "Bother Me (feat. Victony)",
-        "url": "https://open.spotify.com/album/7svkXljH25hpPavMawyyb2"
-      },
-      "artists": [
-        {
-          "name": "Os\u00e9",
-          "url": "https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 180959,
-      "name": "Bother Me (feat. Victony)",
-      "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
     },
     {
       "added_at": "2026-04-03 06:17:19",
@@ -2197,22 +2273,6 @@
       "url": "https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM"
     },
     {
-      "added_at": "2026-03-06 05:18:12",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/2VqTbLEoditxboQwT8h1ix"
-      },
-      "artists": [
-        {
-          "name": "Ama Louise",
-          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
-        }
-      ],
-      "duration_ms": 158685,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/2Y0EVQZvvA16eoejvPfW12"
-    },
-    {
       "added_at": "2026-02-13 05:40:53",
       "album": {
         "name": "Cupid's Call",
@@ -2347,22 +2407,6 @@
     {
       "added_at": "2026-01-23 05:42:11",
       "album": {
-        "name": "Vacancy",
-        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 132931,
-      "name": "High Key",
-      "url": "https://open.spotify.com/track/48Rk6ZyFcztsyvUZeUFVXO"
-    },
-    {
-      "added_at": "2026-01-23 05:42:11",
-      "album": {
         "name": "Nothing Is Impossible With You",
         "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
       },
@@ -2407,42 +2451,6 @@
       "duration_ms": 275333,
       "name": "feels like love",
       "url": "https://open.spotify.com/track/6N5i4aUjLphRd77qlkpqdO"
-    },
-    {
-      "added_at": "2026-01-23 05:42:11",
-      "album": {
-        "name": "Greyhound",
-        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
-      },
-      "artists": [
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 211669,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
-    },
-    {
-      "added_at": "2025-10-24 04:00:29",
-      "album": {
-        "name": "30.",
-        "url": "https://open.spotify.com/album/3XAOKZb6n3bx6j9OvDSPvc"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "my man... (feat. Mariah The Scientist)",
-      "url": "https://open.spotify.com/track/1aXJeavB4ztnMd6eGvhl0y"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -2595,26 +2603,6 @@
       "duration_ms": 166360,
       "name": "Freakie",
       "url": "https://open.spotify.com/track/03SbION4JAIxFMGmOcDB6v"
-    },
-    {
-      "added_at": "2025-11-07 06:06:34",
-      "album": {
-        "name": "Deep Dive",
-        "url": "https://open.spotify.com/album/7yjMecUAb9ffr1awwK4Q73"
-      },
-      "artists": [
-        {
-          "name": "Demae",
-          "url": "https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL"
-        },
-        {
-          "name": "Yukimi",
-          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
-        }
-      ],
-      "duration_ms": 206793,
-      "name": "Thank You (feat. Yukimi)",
-      "url": "https://open.spotify.com/track/2ZXstywlOq3OrFDhxXGHyo"
     },
     {
       "added_at": "2025-11-07 06:06:34",

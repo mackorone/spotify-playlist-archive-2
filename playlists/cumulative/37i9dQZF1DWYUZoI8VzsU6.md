@@ -4,7 +4,7 @@
 
 > back roads up loud with Fox N' Vead
 
-83 songs - 4 hr 39 min
+85 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Everything You Hate](https://open.spotify.com/track/2Jcj2BcQACBfNEouhjtvhK) | [Cole Barnhill](https://open.spotify.com/artist/5GSj8dI3aMmrgvirpf0oOs) | [Everything You Hate](https://open.spotify.com/album/2jfJpru4kTLGk6Yj827us9) | 3:54 | 2026-01-09 |  |
 | [Fall In Love](https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:52 | 2025-09-05 |  |
 | [Four Leaf Clover](https://open.spotify.com/track/4rKwvkw0x1K3I9dr5lwRhg) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 3:11 | 2025-09-05 |  |
+| [Gasoline](https://open.spotify.com/track/0WDAiKuQ1R8jZt8JbZLHsa) | [Cigarettes @ Sunset](https://open.spotify.com/artist/0Dt63ItojW0cODVV6rYi6X) | [Gasoline](https://open.spotify.com/album/1RAM0vIiwm8DzbADGjyZ81) | 3:01 | 2026-07-31 |  |
 | [GOOD FOR NOTHING](https://open.spotify.com/track/040v2JdDlfRRJEsXTMSPjn) | [Matthew Goodnough](https://open.spotify.com/artist/71RxMNbsv5s7P10ibbYlkk) | [LIFE OF THE PARTY AND THE DEATH OF ME](https://open.spotify.com/album/3AV1LhyX47AQQwJNGSI8SB) | 3:30 | 2025-09-05 |  |
 | [Halfway To Hell](https://open.spotify.com/track/3EON33SUQai62FI5Sv0gPT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 2:58 | 2025-09-05 |  |
 | [Hate Waking Up](https://open.spotify.com/track/4FIEIw7iVqP5YnpqKhZOMB) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Hate Waking Up](https://open.spotify.com/album/1rc4guQ07DCgHPdyWiusUy) | 3:28 | 2025-10-24 |  |
@@ -87,6 +88,7 @@
 | [Time Goes On](https://open.spotify.com/track/4iAvuDXVlF9eCzxQ3qNEpE) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Time Goes On](https://open.spotify.com/album/2NA1s4MQIteXh70JmP8VS4) | 2:55 | 2026-02-18 |  |
 | [Waiting](https://open.spotify.com/track/3Nr32Wn39hGkFy1ISAlc1h) | [Fox N' Vead](https://open.spotify.com/artist/6b2SGANlOJdvJ9imgsVrSm) | [Waiting](https://open.spotify.com/album/4R0A4nVSxIVtVFKFjilhWb) | 3:26 | 2026-05-08 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2025-09-05 |  |
+| [We're About To Break Up](https://open.spotify.com/track/7wTiCVNU7EH8gm9pLByjF3) | [Bottomland](https://open.spotify.com/artist/3EKcCd93FzyKhPBqgdzAH4) | [We're About To Break Up](https://open.spotify.com/album/5GigUdBhT18MS5mGhOLsGG) | 3:17 | 2026-07-31 |  |
 | [West Texas Wind](https://open.spotify.com/track/4UGBo7iybOWD057IEQWcQl) | [Logan Michael](https://open.spotify.com/artist/3id1CBPBWkf8n5eeIM7q1y) | [West Texas Wind](https://open.spotify.com/album/41uWZG9EhkDsha25x9fCG7) | 2:57 | 2026-04-24 |  |
 | [Wild as Her](https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her](https://open.spotify.com/album/4mGSNYd2LF27N8MaFwxNFg) | 3:19 | 2025-09-05 |  |
 | [With or Without Me](https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy) | [Gannon Fremin & CCREV](https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8) | [With or Without Me](https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D) | 3:42 | 2025-09-05 |  |

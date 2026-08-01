@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 190602,
+  "num_followers": 190592,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
+        "name": "Wither",
+        "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
+      },
+      "artists": [
+        {
+          "name": "Sevens",
+          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "Wither",
+      "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
         "name": "Room Of Love",
         "url": "https://open.spotify.com/album/1s2dk5WxnGWHDvyUpjAWRD"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 201666,
       "name": "Homerun 2021",
       "url": "https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
-        "name": "Wither",
-        "url": "https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM"
-      },
-      "artists": [
-        {
-          "name": "Sevens",
-          "url": "https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd"
-        }
-      ],
-      "duration_ms": 180173,
-      "name": "Wither",
-      "url": "https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
+        "name": "Getting Up",
+        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
+      },
+      "artists": [
+        {
+          "name": "Noa Lee",
+          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
+        }
+      ],
+      "duration_ms": 274719,
+      "name": "Getting Up",
+      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/4Os3IsGK41LllegCFKZhkb"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 215253,
       "name": "walk the line",
       "url": "https://open.spotify.com/track/7t7P4Qy8zyjmS8dPbhst9y"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
-        "name": "Getting Up",
-        "url": "https://open.spotify.com/album/3AzIKoISg41u5XXtchOyFI"
-      },
-      "artists": [
-        {
-          "name": "Noa Lee",
-          "url": "https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM"
-        }
-      ],
-      "duration_ms": 274719,
-      "name": "Getting Up",
-      "url": "https://open.spotify.com/track/1JVFosBNwHoMJayaSG3wra"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "The Joy of Coincidences",
-        "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
-      },
-      "artists": [
-        {
-          "name": "Bianca Steck",
-          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
-        }
-      ],
-      "duration_ms": 200260,
-      "name": "Strange Rooms",
-      "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Silver Linings (Unplugged)",
         "url": "https://open.spotify.com/album/3SMrnF5wUteeHQsSbsIVdb"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 183813,
       "name": "Silver Linings - Unplugged",
       "url": "https://open.spotify.com/track/1oXlZMeVMIhkMHzXA5AA3b"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "The Joy of Coincidences",
+        "url": "https://open.spotify.com/album/4c2E4n34cBqGr2kVzSmDD6"
+      },
+      "artists": [
+        {
+          "name": "Bianca Steck",
+          "url": "https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ"
+        }
+      ],
+      "duration_ms": 200260,
+      "name": "Strange Rooms",
+      "url": "https://open.spotify.com/track/2I5r34P8jfleAwAGOLaHbY"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Baby Blue (Acoustic)",
-        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
-      },
-      "artists": [
-        {
-          "name": "Penny Roox",
-          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
-        }
-      ],
-      "duration_ms": 185114,
-      "name": "Baby Blue - Acoustic",
-      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Mr. Beckett",
         "url": "https://open.spotify.com/album/5GmgDdcsrcwxePMDYTebeh"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 223973,
       "name": "Mr. Beckett",
       "url": "https://open.spotify.com/track/2PuT4rCzGU7CXGVNAEihTe"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Baby Blue (Acoustic)",
+        "url": "https://open.spotify.com/album/6vJn1u5GBTMDUM4OLyQ13c"
+      },
+      "artists": [
+        {
+          "name": "Penny Roox",
+          "url": "https://open.spotify.com/artist/5DXArm1WRDZcLjxEAsEDdg"
+        }
+      ],
+      "duration_ms": 185114,
+      "name": "Baby Blue - Acoustic",
+      "url": "https://open.spotify.com/track/40iPujUUM58f2qsC7KKjg5"
     },
     {
       "added_at": "2026-07-17 14:00:09",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-07-17 14:00:09",
       "album": {
-        "name": "Truth Is We'll Never Know",
-        "url": "https://open.spotify.com/album/5UHNWSiKJQn3KS9XM9DHX3"
-      },
-      "artists": [
-        {
-          "name": "Gildor",
-          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
-        }
-      ],
-      "duration_ms": 306766,
-      "name": "Garden of Eden (In Memory Of Guus-Jan Lieberwerth)",
-      "url": "https://open.spotify.com/track/4SnQhzOyj4POLPq8HCBs5B"
-    },
-    {
-      "added_at": "2026-07-17 14:00:09",
-      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 209237,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
+    },
+    {
+      "added_at": "2026-07-17 14:00:09",
+      "album": {
+        "name": "Truth Is We'll Never Know",
+        "url": "https://open.spotify.com/album/5UHNWSiKJQn3KS9XM9DHX3"
+      },
+      "artists": [
+        {
+          "name": "Gildor",
+          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
+        }
+      ],
+      "duration_ms": 306766,
+      "name": "Garden of Eden (In Memory Of Guus-Jan Lieberwerth)",
+      "url": "https://open.spotify.com/track/4SnQhzOyj4POLPq8HCBs5B"
     },
     {
       "added_at": "2026-07-17 14:00:09",

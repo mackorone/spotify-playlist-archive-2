@@ -2117,6 +2117,24 @@
     },
     {
       "album": {
+        "name": "Basta para mi",
+        "url": "https://open.spotify.com/album/1jdbtRRKlcAvT7qIX6H4IZ"
+      },
+      "artists": [
+        {
+          "name": "Maxi Prieto",
+          "url": "https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169376,
+      "name": "Gracias por venir",
+      "url": "https://open.spotify.com/track/2HT13XoUaxvmm9YUVOF4lR"
+    },
+    {
+      "album": {
         "name": "Gris Analg\u00e9sico",
         "url": "https://open.spotify.com/album/5HTNiFaAVKqa4FX9xFQBad"
       },
@@ -5224,24 +5242,6 @@
       "duration_ms": 274908,
       "name": "Toda la vida",
       "url": "https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ"
-    },
-    {
-      "album": {
-        "name": "Basta para mi",
-        "url": "https://open.spotify.com/album/1jdbtRRKlcAvT7qIX6H4IZ"
-      },
-      "artists": [
-        {
-          "name": "Maxi Prieto",
-          "url": "https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW"
-        }
-      ],
-      "date_added": "2026-07-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2HT13XoUaxvmm9YUVOF4lR"
     },
     {
       "album": {

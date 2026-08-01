@@ -4,7 +4,7 @@
 
 > Gentle, relaxing classical music.
 
-104 songs - 8 hr 47 min
+105 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [String Quartet No.1 In D, Op.11, TH.111: 2\. Andante cantabile](https://open.spotify.com/track/55IMMKdpQRAI23ynXnBL51) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Gabrieli String Quartet](https://open.spotify.com/artist/1AQXiejnHAMaKOreCoiuf7) | [Tchaikovsky: String Quartet No.1 / Borodin: String Quartet No.2 / Shostakovich: String Quartet No.8](https://open.spotify.com/album/2xNehhRnr1EwUBJseJLlEt) | 6:36 | 2020-10-19 |  |
 | [Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/track/1cmigB9I6IRpFqjIbzvSQB) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Debussy: Suite bergamasque, L\. 75, 3\. Clair de lune](https://open.spotify.com/album/4Ll3RGpn0eVY6MMKPTP99C) | 4:54 | 2020-10-19 |  |
 | [Sången, Op\. 44: Interlude](https://open.spotify.com/track/3COCjQcpjxKNpLyFWz7JFh) | [Wilhelm Stenhammar](https://open.spotify.com/artist/6gfRaesyLupPd0gDQaLwJV), [Helsingborg Symphony Orchestra](https://open.spotify.com/artist/0K2m2TlgHkcp32NAZV6Omw), [Okko Kamu](https://open.spotify.com/artist/0AONkUEodQkpkdO5Wul6hE) | [Intermezzo](https://open.spotify.com/album/0u8UVK5RtZTjMrqeZTbqcr) | 5:53 | 2020-10-19 |  |
+| [Tara](https://open.spotify.com/track/3epb06FbivsK8CoFFCqo7V) | [Anthony Hopkins](https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Anthony Hopkins: Tara](https://open.spotify.com/album/1yhMlye6Ws5MxUan8h82Nm) | 5:31 | 2026-07-31 |  |
 | [The Art of Falling](https://open.spotify.com/track/4xmWnJpazNxLLxDJcCKgeG) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Urban Impressionism](https://open.spotify.com/album/2HwoFNovpqusvem2csYBU4) | 4:09 | 2024-11-20 |  |
 | [The Planets, Op\. 32: 2\. Venus, the Bringer of Peace](https://open.spotify.com/track/0kEBYD0sMCPtsfpwFLG9aj) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Holst: The Planets](https://open.spotify.com/album/4v0Xyz0LVToUsSTGdsvKSK) | 8:37 | 2020-10-19 | 2024-04-19 |
 | [The Planets, Op\. 32: 2\. Venus, the Bringer of Peace](https://open.spotify.com/track/5EZ4ENkr4A0AH5fP3u7j4C) | [Gustav Holst](https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Listening to Gustav Holst and more](https://open.spotify.com/album/04GwjemjJZSnw2teGczOG2) | 8:37 | 2020-10-19 | 2022-11-14 |

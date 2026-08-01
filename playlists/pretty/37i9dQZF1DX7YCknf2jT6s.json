@@ -1,13 +1,89 @@
 {
-  "description": "New jazz for open minds. Cover: Nicholas Payton & Butcher Brown",
-  "num_followers": 1050122,
+  "description": "New jazz for open minds. Cover: DOMi & JD BECK",
+  "num_followers": 1050121,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFSeLfVFY1x8hQxmik1nr1Ul8Rt2",
+  "snapshot_id": "AAAAAEpPc4zPb4PliXu+WqAtjV9Ww8Cq",
   "tracks": [
+    {
+      "added_at": "2026-07-31 04:01:41",
+      "album": {
+        "name": "WHO ASKED?",
+        "url": "https://open.spotify.com/album/3nehlgwYexH9ovS9fohKs1"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        }
+      ],
+      "duration_ms": 173386,
+      "name": "EXiT",
+      "url": "https://open.spotify.com/track/4KyoBJTAQY13ZYsm6N7wO0"
+    },
+    {
+      "added_at": "2026-07-31 04:01:41",
+      "album": {
+        "name": "Trip the Night Fantastic",
+        "url": "https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0"
+      },
+      "artists": [
+        {
+          "name": "Terri Lyne Carrington",
+          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
+        },
+        {
+          "name": "Social Science",
+          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        },
+        {
+          "name": "Debo Ray",
+          "url": "https://open.spotify.com/artist/0qyUMYl0HEMxUeAOckO5PE"
+        },
+        {
+          "name": "Brenda Navarette",
+          "url": "https://open.spotify.com/artist/7vG0V0AevUvoXAZjltbU90"
+        },
+        {
+          "name": "Kokayi",
+          "url": "https://open.spotify.com/artist/2AyMC7HowLT6ULLdKwJSZ2"
+        },
+        {
+          "name": "Matthew Stevens",
+          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
+        },
+        {
+          "name": "Morgan Guerin",
+          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
+        }
+      ],
+      "duration_ms": 279333,
+      "name": "Riddim Song",
+      "url": "https://open.spotify.com/track/1gMeaZS7kbxU0qeHyBz8FT"
+    },
+    {
+      "added_at": "2026-07-31 04:01:41",
+      "album": {
+        "name": "THINK OF YOU",
+        "url": "https://open.spotify.com/album/1La1PJeTkkBXGLde4onfkd"
+      },
+      "artists": [
+        {
+          "name": "Tyreek McDole",
+          "url": "https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T"
+        }
+      ],
+      "duration_ms": 424475,
+      "name": "THINK OF YOU",
+      "url": "https://open.spotify.com/track/0F7EPqKLflTsdRExGL7Gm7"
+    },
     {
       "added_at": "2026-07-24 04:01:32",
       "album": {
@@ -27,34 +103,6 @@
       "duration_ms": 466786,
       "name": "Acknowledgement",
       "url": "https://open.spotify.com/track/4IjZDtzKy4udPAXl8t8NqL"
-    },
-    {
-      "added_at": "2026-07-24 04:01:32",
-      "album": {
-        "name": "NewLevels NewDevils (feat. Tony Stone, Erick the Architect, CARRTOONS)",
-        "url": "https://open.spotify.com/album/3OGYyHdEKhbiaPrpXDIxgd"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        },
-        {
-          "name": "Tony Stone",
-          "url": "https://open.spotify.com/artist/5di9hYUH42sv9IPcSYEdOn"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        },
-        {
-          "name": "CARRTOONS",
-          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
-        }
-      ],
-      "duration_ms": 200569,
-      "name": "NewLevels NewDevils (feat. Tony Stone, Erick the Architect, CARRTOONS)",
-      "url": "https://open.spotify.com/track/1FbvFPdMJwVDPUAP9Bk06x"
     },
     {
       "added_at": "2026-07-24 04:01:32",
@@ -91,6 +139,50 @@
     {
       "added_at": "2026-07-24 04:01:32",
       "album": {
+        "name": "NewLevels NewDevils (feat. Tony Stone, Erick the Architect, CARRTOONS)",
+        "url": "https://open.spotify.com/album/3OGYyHdEKhbiaPrpXDIxgd"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Tony Stone",
+          "url": "https://open.spotify.com/artist/5di9hYUH42sv9IPcSYEdOn"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "CARRTOONS",
+          "url": "https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ"
+        }
+      ],
+      "duration_ms": 200569,
+      "name": "NewLevels NewDevils (feat. Tony Stone, Erick the Architect, CARRTOONS)",
+      "url": "https://open.spotify.com/track/1FbvFPdMJwVDPUAP9Bk06x"
+    },
+    {
+      "added_at": "2026-07-31 04:01:41",
+      "album": {
+        "name": "Out of Range",
+        "url": "https://open.spotify.com/album/54XoF8Q8RZefUotUhzkKYx"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Out of Range",
+      "url": "https://open.spotify.com/track/2Yk0XC7TvfevTBHyOjk2lt"
+    },
+    {
+      "added_at": "2026-07-24 04:01:32",
+      "album": {
         "name": "Sangam & Friends",
         "url": "https://open.spotify.com/album/1Jm3KSmqeij3dcksUYwM1I"
       },
@@ -103,6 +195,46 @@
       "duration_ms": 486226,
       "name": "Bharati\u2019s Dance, Tempo Divine",
       "url": "https://open.spotify.com/track/5ttXh7cGOjCE8QxPK3bI5u"
+    },
+    {
+      "added_at": "2026-07-31 04:01:41",
+      "album": {
+        "name": "A Radical's Love",
+        "url": "https://open.spotify.com/album/3ykU1OGo1TekZgvcsTFkPx"
+      },
+      "artists": [
+        {
+          "name": "Stefon Harris",
+          "url": "https://open.spotify.com/artist/4FDlrSZ3mEv5Jvn482sCbZ"
+        },
+        {
+          "name": "Blackout",
+          "url": "https://open.spotify.com/artist/7HBmNE4KKCSR3DbUQkWXZm"
+        },
+        {
+          "name": "Casey Benjamin",
+          "url": "https://open.spotify.com/artist/4HxTNP3xWDisngwqyFxrfr"
+        }
+      ],
+      "duration_ms": 332146,
+      "name": "A Radical's Love",
+      "url": "https://open.spotify.com/track/0xiboQ23UG9IefbxUpNqtH"
+    },
+    {
+      "added_at": "2026-07-31 04:01:41",
+      "album": {
+        "name": "Coherence",
+        "url": "https://open.spotify.com/album/3qgaZM8swAtSfgoKLn6jpf"
+      },
+      "artists": [
+        {
+          "name": "Cindy Blackman Santana",
+          "url": "https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF"
+        }
+      ],
+      "duration_ms": 420917,
+      "name": "Blue Whale",
+      "url": "https://open.spotify.com/track/6ZiMhQ3B30gDniVySTtMBS"
     },
     {
       "added_at": "2026-07-24 04:01:32",
@@ -339,22 +471,6 @@
       "duration_ms": 192015,
       "name": "But Not For Me (2015)",
       "url": "https://open.spotify.com/track/2Z9OxLAF2vu0AOGqlQ0niN"
-    },
-    {
-      "added_at": "2026-06-26 04:00:18",
-      "album": {
-        "name": "WILD IS THE WIND",
-        "url": "https://open.spotify.com/album/2F2UnhrJWpfuBMk7jJvgms"
-      },
-      "artists": [
-        {
-          "name": "Tyreek McDole",
-          "url": "https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T"
-        }
-      ],
-      "duration_ms": 298561,
-      "name": "WILD IS THE WIND",
-      "url": "https://open.spotify.com/track/3yd3iyOAiQh8WTJo1Ls9IR"
     },
     {
       "added_at": "2026-06-26 04:00:18",
@@ -683,50 +799,6 @@
       "duration_ms": 277400,
       "name": "Blue Train",
       "url": "https://open.spotify.com/track/1IrN8tRAaOVgfPYalUYs0U"
-    },
-    {
-      "added_at": "2026-05-29 04:02:48",
-      "album": {
-        "name": "Identity Song",
-        "url": "https://open.spotify.com/album/3o6ycGYsl4KNJ50mpRgVga"
-      },
-      "artists": [
-        {
-          "name": "Terri Lyne Carrington",
-          "url": "https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP"
-        },
-        {
-          "name": "Michael Mayo",
-          "url": "https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4"
-        },
-        {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
-        },
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        },
-        {
-          "name": "Social Science",
-          "url": "https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5"
-        },
-        {
-          "name": "Nappy Nina",
-          "url": "https://open.spotify.com/artist/021A20H2EVS9igRiNhozcx"
-        },
-        {
-          "name": "Matthew Stevens",
-          "url": "https://open.spotify.com/artist/7z1PSpsIyAeniOOtaQ1iYa"
-        },
-        {
-          "name": "Morgan Guerin",
-          "url": "https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d"
-        }
-      ],
-      "duration_ms": 281960,
-      "name": "Identity Song",
-      "url": "https://open.spotify.com/track/723ggB6tplz5Jjwx0Plz6j"
     },
     {
       "added_at": "2026-05-22 04:01:24",
@@ -1345,22 +1417,6 @@
       "url": "https://open.spotify.com/track/4XPC8S3jNd7m54H9tAgBwq"
     },
     {
-      "added_at": "2026-05-01 04:11:09",
-      "album": {
-        "name": "\u6eb6\u3051\u306a\u3044\u3067\uff01\u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0\uff01",
-        "url": "https://open.spotify.com/album/0frgi4ydJP5pw3woINwu4H"
-      },
-      "artists": [
-        {
-          "name": "H ZETTRIO",
-          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "\u6eb6\u3051\u306a\u3044\u3067\uff01\u30a2\u30a4\u30b9\u30af\u30ea\u30fc\u30e0\uff01",
-      "url": "https://open.spotify.com/track/2FXNIk6Y5CLWCFevVUevsX"
-    },
-    {
       "added_at": "2026-01-09 05:00:24",
       "album": {
         "name": "Saturday Spin",
@@ -1765,22 +1821,6 @@
       "url": "https://open.spotify.com/track/29AFgr0uT5aIHGO1RzuAoF"
     },
     {
-      "added_at": "2025-11-07 16:37:26",
-      "album": {
-        "name": "Kumi Lach",
-        "url": "https://open.spotify.com/album/2VwIIPBUSoP15YG2reEYa8"
-      },
-      "artists": [
-        {
-          "name": "Yosef Gutman",
-          "url": "https://open.spotify.com/artist/1OwUfPzYcaJWE1TwWyNfhr"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Kumi Lach",
-      "url": "https://open.spotify.com/track/582xo1tnxDsa0F8bpSxoWP"
-    },
-    {
       "added_at": "2025-12-05 05:00:20",
       "album": {
         "name": "Motion II",
@@ -1937,22 +1977,6 @@
       "url": "https://open.spotify.com/track/4WaueK654l7uuPzuM25jqU"
     },
     {
-      "added_at": "2025-11-07 16:37:26",
-      "album": {
-        "name": "By All Means",
-        "url": "https://open.spotify.com/album/0Bb8tnCWkiCrZFJ4BSXx9e"
-      },
-      "artists": [
-        {
-          "name": "Aaron Parks",
-          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
-        }
-      ],
-      "duration_ms": 333285,
-      "name": "Anywhere Together",
-      "url": "https://open.spotify.com/track/6y8wzT1tutKxp0R7VjkBem"
-    },
-    {
       "added_at": "2026-01-09 05:00:24",
       "album": {
         "name": "Friends",
@@ -2015,22 +2039,6 @@
       "duration_ms": 229220,
       "name": "the decoupling of the nuclear family FEAT HAWA, GHOSTFACE KILLAH & RAPSODY",
       "url": "https://open.spotify.com/track/2CoC3apW4ahryZB9vCoGKT"
-    },
-    {
-      "added_at": "2025-11-07 16:37:26",
-      "album": {
-        "name": "Lasting Impression",
-        "url": "https://open.spotify.com/album/1avyPXf8rP4eqgbfGHnnQN"
-      },
-      "artists": [
-        {
-          "name": "Brandon Sanders",
-          "url": "https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD"
-        }
-      ],
-      "duration_ms": 443480,
-      "name": "8/4 Beat",
-      "url": "https://open.spotify.com/track/3epFwp7ZHkBXYPdfa5zy5F"
     },
     {
       "added_at": "2026-01-16 05:00:39",

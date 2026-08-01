@@ -12187,24 +12187,6 @@
     },
     {
       "album": {
-        "name": "Mufa",
-        "url": "https://open.spotify.com/album/2yDtotEpwIu1FwzOMDyWvO"
-      },
-      "artists": [
-        {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
-        }
-      ],
-      "date_added": "2026-07-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2Ue0ENvYUExp226UWUNXaR"
-    },
-    {
-      "album": {
         "name": "Traficando Rap",
         "url": "https://open.spotify.com/album/6AVwplC1dMqFzAt2tGm7g5"
       },
@@ -13328,6 +13310,28 @@
       "duration_ms": 160533,
       "name": "Volver a Llorar",
       "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
+    },
+    {
+      "album": {
+        "name": "Mufa",
+        "url": "https://open.spotify.com/album/2yDtotEpwIu1FwzOMDyWvO"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        },
+        {
+          "name": "Arquero",
+          "url": "https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184090,
+      "name": "Voy A Estar Bien",
+      "url": "https://open.spotify.com/track/2Ue0ENvYUExp226UWUNXaR"
     },
     {
       "album": {

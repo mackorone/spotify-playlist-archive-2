@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 347 likes - 2,516 songs - 6 day 4 hr 0 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 347 likes - 2,521 songs - 6 day 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2387,7 +2387,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2377 | [¿Y dónde estabas tú?](https://open.spotify.com/track/69FVpltpyAvHeiXHg2BK9C) | [Noelia Malta](https://open.spotify.com/artist/1B0tklWQ7QFvUo05d5mE3C) | [¿Y dónde estabas tú?](https://open.spotify.com/album/3mPWjGkzXd8LAxlKt0Z4i6) | 3:04 |
 | 2378 | [Cosas Vintage](https://open.spotify.com/track/31CkeQnDvwBFFRmUnWnfVx) | [Mi Propia Montaña](https://open.spotify.com/artist/5lHjxxL08pdRTTtMk4c777) | [Vivac](https://open.spotify.com/album/76vrx6BNoe55bzJFuZr8wr) | 3:18 |
 | 2379 | [Sei](https://open.spotify.com/track/5v0WRPhkz1LnrAQc07JLGB) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [Marcello Pelo](https://open.spotify.com/artist/7Ex3l7mokFNNf69K0dJba7) | [Sei](https://open.spotify.com/album/7DwyP2LG07sgcVcKQ9ECEF) | 4:38 |
-| 2380 | [Vuelve, Vuelve](https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr) | [CER](https://open.spotify.com/artist/1YAz8QOz7LnhonlHenZKMO), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi) | [Canta El Reggaeton](https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx) | 4:13 |
+| 2380 | [Vuelve, Vuelve](https://open.spotify.com/track/1C5alUEKjaeYJNoK7c5WGr) | [CER](https://open.spotify.com/artist/2lhN3pky6pkIZeXroIWnRg), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi) | [Canta El Reggaeton](https://open.spotify.com/album/0fPpvRnqa8ZebfbwUXT1Zx) | 4:13 |
 | 2381 | [The Overfitting Ex](https://open.spotify.com/track/3HyDtedJpJuCqzWuadPI2U) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [Symphony of Machine Learning](https://open.spotify.com/album/1Q8swnhp6sB7GR5MVlmyo5) | 4:08 |
 | 2382 | [Più Vicini al Cielo](https://open.spotify.com/track/2BAhnHQKWm5vM3q1QTrLsl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Più Vicini al Cielo](https://open.spotify.com/album/2NSBRvmswoVucTOLRUFKzJ) | 3:21 |
 | 2383 | [Is This Love](https://open.spotify.com/track/4cMjphwBnAg4LIvGFnK5fs) | [Bon Echo](https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy) | [Is This Love](https://open.spotify.com/album/2zpdyhQ6qYlKnvrpnCL3AO) | 2:09 |
@@ -2524,5 +2524,10 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2514 | [Melancholic Lo\-Fi \(Viral Beats for Your Sad Day\)](https://open.spotify.com/track/4kRhvuIfb8XJXLxUFqkNBo) | [Celo Relax](https://open.spotify.com/artist/7clLuVpdgcqkETFLfdLlOw) | [Melancholic Lo\-Fi \(Viral Beats for Your Sad Day\)](https://open.spotify.com/album/0mO1SOaqVHn8z8hXm01f1M) | 2:58 |
 | 2515 | [約束の地](https://open.spotify.com/track/1YR77jndeytCjluhJYX1ji) | [アニングスドラゴン](https://open.spotify.com/artist/0nbrD5mGsTeWQFyXKBSx3r) | [約束の地](https://open.spotify.com/album/5f7HkfplGdBOXjlCQlJDos) | 3:58 |
 | 2516 | [Ese Suspiro que no Calla](https://open.spotify.com/track/08OFoNJRf8lu356qzCiz6H) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Ese Suspiro que no Calla](https://open.spotify.com/album/6lvkIQORp7eYmWiLF9ANx0) | 3:25 |
+| 2517 | [White Feathers](https://open.spotify.com/track/2XYp7KzNIfXdus7THEYDE6) | [Mello Marston](https://open.spotify.com/artist/55f0l7J5C0blvKjUW4m8pl) | [White Feathers](https://open.spotify.com/album/0ott6AwwSdz0dL9uBaCUYR) | 2:34 |
+| 2518 | [Dawn Chorus](https://open.spotify.com/track/7Gy7xX4ZDCFinKUrK9WWcc) | [Hellykom](https://open.spotify.com/artist/4TNnchYcTeKxyA5bbhdVsS) | [Dawn Chorus](https://open.spotify.com/album/2SV3jrMGDmMmHw8afUwyHI) | 2:40 |
+| 2519 | [Dawn Chorus](https://open.spotify.com/track/7Gy7xX4ZDCFinKUrK9WWcc) | [Hellykom](https://open.spotify.com/artist/4TNnchYcTeKxyA5bbhdVsS) | [Dawn Chorus](https://open.spotify.com/album/2SV3jrMGDmMmHw8afUwyHI) | 2:40 |
+| 2520 | [Those Who Fail](https://open.spotify.com/track/39Uw09gw3w49EcHhopHUnf) | [Medivh](https://open.spotify.com/artist/6H43kafh75INiZoNU3X8Dw) | [Those Who Fail](https://open.spotify.com/album/7eukTEXUan988Bv5O9qdDe) | 4:26 |
+| 2521 | [Ides Of March](https://open.spotify.com/track/4Rq5Ytad92LP8xHIf0WhKf) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [Morgan S Oteric](https://open.spotify.com/artist/0LvGEKR2OwTW2k6LDbxO7X) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:33 |
 
-Snapshot ID: `AAAKq9QxJiIKYJd0G2rcClzGhXqKB1LP`
+Snapshot ID: `AAAKsO4MaOFe3LrX0vJrLBdof2ZcfTlm`

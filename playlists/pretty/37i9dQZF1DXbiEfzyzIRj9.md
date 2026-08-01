@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 ### [Altar JP: オルタナティブ・ダンスミュージック](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック  Cover: Salute \*金曜更新。マイライブラリに保存して毎週チェックしよう
+> 国内外のオルタナティブダンスミュージック  Cover: salute \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,692 likes - 99 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,702 likes - 99 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 23 | [All Night Long](https://open.spotify.com/track/2ru0WteFu2c7dV6kvsUFJY) | [magicHour](https://open.spotify.com/artist/1qoz9VuS349JOH8M6E5LEQ) | [All Night Long](https://open.spotify.com/album/7i4cYqZGAYYCHlg2rott81) | 5:58 |
 | 24 | [Tera \(K\-LONE Remix\)](https://open.spotify.com/track/55s7NXqFZyYyx6MGpJk9L3) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV), [K\-Lone](https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU) | [Body Trip \(Remixed\) \(2026 Remaster\)](https://open.spotify.com/album/1hA7eN2qtlswbfKlbT2odr) | 7:26 |
 | 25 | [Ore Yeye O \- Dazzle Drums Overdub](https://open.spotify.com/track/4TIv1LNFNcoEezWV7wudMU) | [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [QVLN](https://open.spotify.com/artist/6QucHfdHaS4tLsKKT2vv2j), [Dazzle Drums](https://open.spotify.com/artist/4uDHKttZHqeHquQcd7tiX2) | [Ore Yeye O \(Dazzle Drums Remixes\)](https://open.spotify.com/album/6xsi3n9xwwif3MpGRjbO9G) | 7:17 |
-| 26 | [Track 1](https://open.spotify.com/track/2SeQImFA4byJJYS61VwB9J) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [In Your Head](https://open.spotify.com/album/5n2MNtPtQLxmcUe9T6hfOO) | 0:00 |
+| 26 | [In Your Head](https://open.spotify.com/track/2SeQImFA4byJJYS61VwB9J) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [In Your Head](https://open.spotify.com/album/5n2MNtPtQLxmcUe9T6hfOO) | 3:30 |
 | 27 | [Follow The Rhythm](https://open.spotify.com/track/1xoikdHc7u0Ed5gpMAliGU) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Follow The Rhythm](https://open.spotify.com/album/1OqM8LZuEpuGozm23VVsgd) | 3:21 |
 | 28 | [Deejay](https://open.spotify.com/track/4Sk2H29XVt3ixGlMrkeJ5c) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Deejay](https://open.spotify.com/album/3UZ3GaJ0Pt5pD6Y0A4hn67) | 4:06 |
 | 29 | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/track/3b1YokXcQXYM5xH97Dp7UU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/album/7jtKstOvFpbqMAZzV5hDjC) | 3:14 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 98 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |
 | 99 | [Long Goodbye](https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Long Goodbye](https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX) | 3:34 |
 
-Snapshot ID: `AAAAABRdcBQVzqWoI1gp1YwyXF8CmM9k`
+Snapshot ID: `AAAAAH7xOuigKIumAt7e3zVZ/LhcSEsR`

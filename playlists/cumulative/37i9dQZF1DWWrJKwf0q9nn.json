@@ -6325,6 +6325,28 @@
     },
     {
       "album": {
+        "name": "Dirty Dancing",
+        "url": "https://open.spotify.com/album/1NMRhpmzfhFr0teSyTOhrA"
+      },
+      "artists": [
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        },
+        {
+          "name": "Benja (NL)",
+          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207580,
+      "name": "Dirty Dancing",
+      "url": "https://open.spotify.com/track/4wvwjkFb1P9TWBEBfyEYmb"
+    },
+    {
+      "album": {
         "name": "Discoteka",
         "url": "https://open.spotify.com/album/7J64TbuqO3BebCF2xD3izb"
       },
@@ -26316,24 +26338,6 @@
       "duration_ms": 183750,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD"
-    },
-    {
-      "album": {
-        "name": "Dirty Dancing",
-        "url": "https://open.spotify.com/album/1NMRhpmzfhFr0teSyTOhrA"
-      },
-      "artists": [
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        }
-      ],
-      "date_added": "2026-07-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4wvwjkFb1P9TWBEBfyEYmb"
     },
     {
       "album": {

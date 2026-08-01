@@ -1,13 +1,29 @@
 {
-  "description": "The soulful tunes to ease you into your day. Cover: Kenyon Dixon",
-  "num_followers": 789054,
+  "description": "The soulful tunes to ease you into your day. Cover: October London",
+  "num_followers": 789029,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANYpqogXSDmccafycCs/rVL/ugv0",
+  "snapshot_id": "AAAAAEvoY36TVdmbqCyM4QGlSfO/Om6z",
   "tracks": [
+    {
+      "added_at": "2026-07-31 06:44:11",
+      "album": {
+        "name": "Your Girl",
+        "url": "https://open.spotify.com/album/7mXAMbMhVNqB7TNhGMIc4N"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 170649,
+      "name": "Your Girl",
+      "url": "https://open.spotify.com/track/1zF4OPgqLoEEWym1jMuf49"
+    },
     {
       "added_at": "2026-07-24 06:09:33",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 144138,
       "name": "I'D CHOOSE YOU",
       "url": "https://open.spotify.com/track/0K1Ej3q7NtnqVk9KUHuEXG"
-    },
-    {
-      "added_at": "2026-07-24 06:09:33",
-      "album": {
-        "name": "Silent Treatment",
-        "url": "https://open.spotify.com/album/0uWQFPszr6SJZ695zVp029"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Silent Treatment",
-      "url": "https://open.spotify.com/track/2EUUu4O0loy3PvwEHmdOZ2"
     },
     {
       "added_at": "2026-07-24 06:09:33",
@@ -1889,26 +1889,6 @@
       "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
     },
     {
-      "added_at": "2025-05-16 04:52:04",
-      "album": {
-        "name": "Easier Done Than Said",
-        "url": "https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE"
-      },
-      "artists": [
-        {
-          "name": "JVCK JAMES",
-          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 215604,
-      "name": "Easier Done Than Said",
-      "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
-    },
-    {
       "added_at": "2024-11-15 07:05:31",
       "album": {
         "name": "3rd Shift - A COLORS SHOW",
@@ -1927,6 +1907,26 @@
       "duration_ms": 165976,
       "name": "3rd Shift - A COLORS SHOW",
       "url": "https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP"
+    },
+    {
+      "added_at": "2025-05-16 04:52:04",
+      "album": {
+        "name": "Easier Done Than Said",
+        "url": "https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE"
+      },
+      "artists": [
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 215604,
+      "name": "Easier Done Than Said",
+      "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
     },
     {
       "added_at": "2026-03-13 07:29:17",
@@ -2001,6 +2001,22 @@
       "url": "https://open.spotify.com/track/7spQZCB1AyKJlGwEFwyvv4"
     },
     {
+      "added_at": "2026-07-24 06:09:33",
+      "album": {
+        "name": "Silent Treatment",
+        "url": "https://open.spotify.com/album/0uWQFPszr6SJZ695zVp029"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Silent Treatment",
+      "url": "https://open.spotify.com/track/2EUUu4O0loy3PvwEHmdOZ2"
+    },
+    {
       "added_at": "2025-09-26 04:57:19",
       "album": {
         "name": "Here For It All",
@@ -2019,22 +2035,6 @@
       "duration_ms": 224788,
       "name": "Play This Song (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
-    },
-    {
-      "added_at": "2026-07-24 06:09:33",
-      "album": {
-        "name": "Save Her 4 Me",
-        "url": "https://open.spotify.com/album/2AX5AoMK78qczFJHy2oE2F"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Save Her 4 Me",
-      "url": "https://open.spotify.com/track/6bj2u9VRe7kq8Q7eINfUOz"
     },
     {
       "added_at": "2025-11-07 07:43:36",
@@ -2067,6 +2067,22 @@
       "duration_ms": 207773,
       "name": "Chakzilla",
       "url": "https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW"
+    },
+    {
+      "added_at": "2026-07-24 06:09:33",
+      "album": {
+        "name": "Save Her 4 Me",
+        "url": "https://open.spotify.com/album/2AX5AoMK78qczFJHy2oE2F"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Save Her 4 Me",
+      "url": "https://open.spotify.com/track/6bj2u9VRe7kq8Q7eINfUOz"
     },
     {
       "added_at": "2024-11-08 14:48:31",
@@ -2213,6 +2229,22 @@
       "url": "https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI"
     },
     {
+      "added_at": "2026-07-24 06:09:33",
+      "album": {
+        "name": "EGO RUINS EVERYTHING",
+        "url": "https://open.spotify.com/album/1qQoqhO6w4lfMNI7rSqz49"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 180991,
+      "name": "SHOW&PROVE",
+      "url": "https://open.spotify.com/track/5q111ttCRv7SEHUyFAsVVR"
+    },
+    {
       "added_at": "2024-11-01 04:00:00",
       "album": {
         "name": "Looking for God",
@@ -2253,22 +2285,6 @@
       "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
     },
     {
-      "added_at": "2026-04-18 17:35:25",
-      "album": {
-        "name": "TALK YOU THROUGH IT",
-        "url": "https://open.spotify.com/album/1asusosFcXFlJh4fhlBUg9"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 213367,
-      "name": "TALK YOU THROUGH IT",
-      "url": "https://open.spotify.com/track/3mzxUmddRU18xFwnLs02hw"
-    },
-    {
       "added_at": "2025-02-14 09:04:21",
       "album": {
         "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
@@ -2299,6 +2315,22 @@
       "duration_ms": 216436,
       "name": "How Does It Make You Feel",
       "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
+    },
+    {
+      "added_at": "2026-04-18 17:35:25",
+      "album": {
+        "name": "TALK YOU THROUGH IT",
+        "url": "https://open.spotify.com/album/1asusosFcXFlJh4fhlBUg9"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 213367,
+      "name": "TALK YOU THROUGH IT",
+      "url": "https://open.spotify.com/track/3mzxUmddRU18xFwnLs02hw"
     },
     {
       "added_at": "2023-09-16 14:17:34",
@@ -2339,22 +2371,6 @@
       "duration_ms": 224218,
       "name": "Blame (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/4VXxMNuT0hEzRL4R4YA7Ib"
-    },
-    {
-      "added_at": "2026-07-24 06:09:33",
-      "album": {
-        "name": "EGO RUINS EVERYTHING",
-        "url": "https://open.spotify.com/album/1qQoqhO6w4lfMNI7rSqz49"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 180991,
-      "name": "SHOW&PROVE",
-      "url": "https://open.spotify.com/track/5q111ttCRv7SEHUyFAsVVR"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2545,6 +2561,22 @@
       "url": "https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT"
     },
     {
+      "added_at": "2024-09-13 09:22:53",
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE"
+      },
+      "artists": [
+        {
+          "name": "MAYOR",
+          "url": "https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko"
+        }
+      ],
+      "duration_ms": 129707,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd"
+    },
+    {
       "added_at": "2025-02-21 07:53:52",
       "album": {
         "name": "BLOOM",
@@ -2563,38 +2595,6 @@
       "duration_ms": 317966,
       "name": "No Business",
       "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
-    },
-    {
-      "added_at": "2024-09-13 09:22:53",
-      "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE"
-      },
-      "artists": [
-        {
-          "name": "MAYOR",
-          "url": "https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko"
-        }
-      ],
-      "duration_ms": 129707,
-      "name": "Guilty Pleasure",
-      "url": "https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd"
-    },
-    {
-      "added_at": "2026-02-14 03:28:47",
-      "album": {
-        "name": "To Whom This May Concern",
-        "url": "https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        }
-      ],
-      "duration_ms": 162762,
-      "name": "Don't Play",
-      "url": "https://open.spotify.com/track/4rZkgApbir8f7x9bTyjVta"
     }
   ],
   "unique_name": "Soul Coffee",

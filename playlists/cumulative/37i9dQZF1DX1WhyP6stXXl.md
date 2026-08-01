@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Becky G, benny blanco, Selena Gomez
 
-2,429 songs - 5 day 3 hr 41 min
+2,431 songs - 5 day 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Brutalist](https://open.spotify.com/track/3lE4ZuXxXKddwOZHsvTSsQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:57 | 2026-05-29 | 2026-06-26 |
 | [Buffalo 66](https://open.spotify.com/track/1mMxIUFIpF3K5YJ6UXHTKd) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Jesus loves a primadonna](https://open.spotify.com/album/4ZJSi7rQlpEjPgdZVkn9uK) | 4:27 | 2026-03-19 | 2026-04-18 |
 | [Bulldozer](https://open.spotify.com/track/6brAdlfcmGeb3lhrTnTyct) | [girli](https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP) | [Matriarchy \(Queen Edition\)](https://open.spotify.com/album/1SzLeWwWjyqYukZSohGLNj) | 2:53 | 2024-11-21 | 2024-12-20 |
+| [Bullets & Blades \(feat\. Kehlani\)](https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Outlaw Cherie Lee & Other Western Tales](https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2) | 3:15 | 2026-07-31 |  |
 | [Burger Sauce](https://open.spotify.com/track/5CpGtiOPli1CvSwmNr489L) | [BOY LOCO](https://open.spotify.com/artist/6VemVOal7ebbuYJZSSCPvX) | [Herons Hideout](https://open.spotify.com/album/4wgT8oLPgr0VSEcIwMupoP) | 3:23 | 2025-06-12 | 2025-06-27 |
 | [Burn](https://open.spotify.com/track/49B2nbhiXZMQzIp5txtn2d) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Burn](https://open.spotify.com/album/4mFCVN4WSXbNUtfxJufvLE) | 2:38 | 2024-12-12 | 2025-02-07 |
 | [Burn Brighter](https://open.spotify.com/track/3krRlbpBmP6nw7ZVjBLX5y) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [From Good To Bad And Then Back Again](https://open.spotify.com/album/1TknuTW1u03ctgFjY3qy6c) | 2:33 | 2026-05-15 | 2026-06-12 |
@@ -884,7 +885,7 @@
 | [Guilty](https://open.spotify.com/track/6D3YpYu7OXAruxDiElKrE7) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Guilty](https://open.spotify.com/album/6sFyzjGUkNN0tEHHVwMaDO) | 2:23 | 2025-04-03 | 2025-05-02 |
 | [Guilty](https://open.spotify.com/track/6yvAIv3QpC7T1mxy457IQO) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Fear Of Emotion](https://open.spotify.com/album/3ov2gonAY8QxUsuGw0NJCN) | 2:36 | 2026-03-26 | 2026-04-24 |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-01-23 | 2025-02-21 |
-| [Gut Genug \(with Blumengarten & Skepta\)](https://open.spotify.com/track/71zVyAO3nkykYTFBfiw1DM) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gut Genug \(with Blumengarten & Skepta\)](https://open.spotify.com/album/1vSHSyVaa9xVii1YNq5Tq6) | 2:53 | 2026-07-30 |  |
+| [Gut Genug \(with Skepta & Blumengarten\)](https://open.spotify.com/track/71zVyAO3nkykYTFBfiw1DM) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Gut Genug \(with Skepta & Blumengarten\)](https://open.spotify.com/album/1vSHSyVaa9xVii1YNq5Tq6) | 2:53 | 2026-07-30 |  |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-25 | 2024-08-23 |
 | [H.A.P.P.Y](https://open.spotify.com/track/7B9WqxPfy53Xo8VVezEJpj) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [H.A.P.P.Y](https://open.spotify.com/album/2qkq707V8v82hxx79UGQiB) | 2:29 | 2025-10-31 | 2025-11-28 |
 | [Habits Die Hard](https://open.spotify.com/track/26g2OzgtUAzqKtfsD9IllM) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [Habits Die Hard](https://open.spotify.com/album/5CENGgegjpYnStFICccayc) | 3:18 | 2024-10-24 | 2024-11-08 |
@@ -1623,6 +1624,7 @@
 | [Perfect Storm](https://open.spotify.com/track/712w3TLX66Zp2JlMS5Xwni) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Perfect Storm](https://open.spotify.com/album/5ZntpnZQRZjMQo7rWWM3ne) | 3:01 | 2024-10-24 | 2024-11-08 |
 | [Peripheral Lover](https://open.spotify.com/track/5NXQfaV7Woxxu6jb49lrlK) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/3OUj6iBxtG9p0B1pb624gz) | 3:15 | 2025-02-20 | 2025-03-14 |
 | [Permanent Scars](https://open.spotify.com/track/3vCAtFMJ5w9DXecfWyLhMT) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Permanent Scars](https://open.spotify.com/album/46tPXpvVP5QdTWdC2wavPr) | 3:35 | 2025-03-06 | 2025-04-04 |
+| [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 | 2026-07-31 |  |
 | [Pharos](https://open.spotify.com/track/4lsvUf69pGZneOeSXyd9hi) | [MOLLY SUE](https://open.spotify.com/artist/1UmeDUPF1A9xnmyzE8O2fA) | [Pharos](https://open.spotify.com/album/3INHHoVztUGjeijZ63Np4M) | 2:16 | 2025-04-03 | 2025-05-02 |
 | [Phoenix](https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Phoenix](https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx) | 2:24 | 2026-03-26 | 2026-04-24 |
 | [Phone Sick](https://open.spotify.com/track/0LYwys0V2rejdfZ1LrEiun) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Phone Sick](https://open.spotify.com/album/2z6Jrpz7NPBWDe2yzRY2qv) | 2:48 | 2026-03-19 | 2026-04-18 |

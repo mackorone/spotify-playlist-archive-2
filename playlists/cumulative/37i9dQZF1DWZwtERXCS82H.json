@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Promise",
+        "url": "https://open.spotify.com/album/1PxwGYNa6B2DEWAMyeKK7s"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00f8ni",
+          "url": "https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169945,
+      "name": "A Promise",
+      "url": "https://open.spotify.com/track/7ehg4awObQQE9rbe01fo7h"
+    },
+    {
+      "album": {
         "name": "A Quiet Ruin",
         "url": "https://open.spotify.com/album/3KZBwEbt5CvSesy3mNygCe"
       },
@@ -6199,6 +6217,24 @@
     },
     {
       "album": {
+        "name": "In Stillness",
+        "url": "https://open.spotify.com/album/6gFoc7bHKVmZTw02pdQ2gc"
+      },
+      "artists": [
+        {
+          "name": "Riku Arai",
+          "url": "https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153322,
+      "name": "In Stillness",
+      "url": "https://open.spotify.com/track/0DRfeQ9rwX6rn2JlrJJ6Ik"
+    },
+    {
+      "album": {
         "name": "In The Dark Hours",
         "url": "https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh"
       },
@@ -6390,7 +6426,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 164785,
       "name": "Intrepid",
       "url": "https://open.spotify.com/track/0HAs6ePMyKsbfnjXaxdZSf"
@@ -9246,6 +9282,24 @@
       "duration_ms": 128146,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/64th3RAbJNNkh96S3lcMRZ"
+    },
+    {
+      "album": {
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/3bbykziCXwP3RoWT6QtdFS"
+      },
+      "artists": [
+        {
+          "name": "Hector Vall\u00c7e",
+          "url": "https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144216,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/3A4AFTRMUKCNwbHQ3MpzPY"
     },
     {
       "album": {
@@ -12274,7 +12328,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 130000,
       "name": "Slow Morning",
       "url": "https://open.spotify.com/track/56sl3qMDGAqd8ktMI57h7S"
@@ -14258,7 +14312,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 139794,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/44pzUcTMHrjZnBQTqgjWf0"

@@ -1127,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Paradise Records (Compilation)",
+        "url": "https://open.spotify.com/album/40Hm1ZgcdadbdymClfKAGg"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129032,
+      "name": "A Man Free",
+      "url": "https://open.spotify.com/track/0FuXPVjTdLeRZva6JIcYX4"
+    },
+    {
+      "album": {
         "name": "Aang",
         "url": "https://open.spotify.com/album/0sNMiAQZPMUH6s97XSLSui"
       },
@@ -3493,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "Who Coppin",
+        "url": "https://open.spotify.com/album/30FpY222IPaWUUD71VXbUB"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155460,
+      "name": "Better Decisions",
+      "url": "https://open.spotify.com/track/77ygXE90XoyZSWgIb8CokQ"
+    },
+    {
+      "album": {
         "name": "Beverly Drive",
         "url": "https://open.spotify.com/album/6LIdgbrlI7m0IQUB2pyFac"
       },
@@ -4632,7 +4668,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 141609,
       "name": "BRAZILIAN WAX",
       "url": "https://open.spotify.com/track/7cghAzRx9SRUB4z4CqgJDb"
@@ -4768,7 +4804,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 173382,
       "name": "Bridges on Fire",
       "url": "https://open.spotify.com/track/6gkXRvq7zdF5tupL7wpXXo"
@@ -9648,7 +9684,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 164619,
       "name": "Everyday I Wake",
       "url": "https://open.spotify.com/track/2qx9TkG3rO86YOuzu2GvLN"
@@ -13422,7 +13458,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 214000,
       "name": "HELL",
       "url": "https://open.spotify.com/track/5VdF8ZUOWoAhmJNb7urwoq"
@@ -15244,7 +15280,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 210989,
       "name": "if it ain't da guap",
       "url": "https://open.spotify.com/track/17LIWJAKBlRCkgA1ncuVNF"
@@ -20214,7 +20250,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 171166,
       "name": "New Ebonics",
       "url": "https://open.spotify.com/track/0e9Efw1iRH3q9SNaKcdDFG"
@@ -21868,6 +21904,28 @@
       "duration_ms": 225460,
       "name": "over influence",
       "url": "https://open.spotify.com/track/7sUYXvu4raKwyLf6f9w7s0"
+    },
+    {
+      "album": {
+        "name": "Overthink (feat. Elmiene)",
+        "url": "https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207082,
+      "name": "Overthink (feat. Elmiene)",
+      "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
     },
     {
       "album": {
@@ -30609,6 +30667,24 @@
     },
     {
       "album": {
+        "name": "Paradise Records (Compilation)",
+        "url": "https://open.spotify.com/album/40Hm1ZgcdadbdymClfKAGg"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134057,
+      "name": "Tokyo Time",
+      "url": "https://open.spotify.com/track/33a7ratmUwOuGwnmIfi2K1"
+    },
+    {
+      "album": {
         "name": "Tomorrow Can't Be Borrowed",
         "url": "https://open.spotify.com/album/6EsDvhBMFl7dCz4ROwRmLM"
       },
@@ -31604,7 +31680,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 198626,
       "name": "USTILLDERE",
       "url": "https://open.spotify.com/track/6I6G2bpBRamSBitqmPYcdn"
@@ -32176,7 +32252,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 160261,
       "name": "Well, are we having fun yet? (feat. KAIRO)",
       "url": "https://open.spotify.com/track/7yYwDrzOS9WbamUTIR7icP"

@@ -2773,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "El Rompecorazones",
+        "url": "https://open.spotify.com/album/5mjr1dIJhyxOOeikDUlOzx"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154125,
+      "name": "El Rompecorazones",
+      "url": "https://open.spotify.com/track/2z9COavLfZH1VboZOXFm6j"
+    },
+    {
+      "album": {
         "name": "Rep\u00edtelas",
         "url": "https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi"
       },

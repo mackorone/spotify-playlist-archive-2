@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Chris Steyn, Barto, Bernice West, Francois van Coke, Wentzel en meer!
 
-2,766 songs - 6 day 10 hr 3 min
+2,767 songs - 6 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Alweer in Verkeer](https://open.spotify.com/track/4rEEHKOLiSR3f7mc285lQi) | [Klaas Zaberman en die Nie\-reisende Reserwes](https://open.spotify.com/artist/4H6OMdEui2kMQ4FAMFM3aA) | [Alweer in Verkeer](https://open.spotify.com/album/2sklSOtikCE5w4Pd3u5vaN) | 2:21 | 2024-07-04 | 2024-07-12 |
 | [Amabokoboko](https://open.spotify.com/track/7truyqzjSipqEHKR5KADQm) | [Die Boeries](https://open.spotify.com/artist/0Xr9UsuVuJ3Uye9rIS0aO7) | [Amabokoboko](https://open.spotify.com/album/7G333a2yBesFtEJNw1ba3H) | 3:12 | 2026-07-02 | 2026-07-17 |
 | [Amapiano in Afrikaans](https://open.spotify.com/track/7LzSas4pgmihGZfQgKHM9F) | [Perfect Tz](https://open.spotify.com/artist/1wWFtD5OZ8GND9Gbwgjzl9), [JEM\-T](https://open.spotify.com/artist/7hnCstoS5yJ6iLU9jPFb6N) | [Amapiano in Afrikaans](https://open.spotify.com/album/10Olzj6Ztc8BochBQn90VH) | 3:19 | 2024-12-12 | 2024-12-20 |
-| [Amper](https://open.spotify.com/track/2Uazorm44jMSQYlI3b3Jzl) | [Dirk Van Der Westhuizen](https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz) | [Amper](https://open.spotify.com/album/2AtfWGeq4gd5ryBzU1dC2o) | 3:35 | 2026-04-30 |  |
+| [Amper](https://open.spotify.com/track/2Uazorm44jMSQYlI3b3Jzl) | [Dirk Van Der Westhuizen](https://open.spotify.com/artist/35nSKL5p684i0vXrFvcgGz) | [Amper](https://open.spotify.com/album/2AtfWGeq4gd5ryBzU1dC2o) | 3:35 | 2026-04-30 | 2026-08-01 |
 | [Amper Daar](https://open.spotify.com/track/2ftyiIC6MvSqIAn7JatorV) | [Christo Du Plessis](https://open.spotify.com/artist/2dU7a6BYwRzIpM3TA0tInT) | [Amper Daar](https://open.spotify.com/album/6tghs8sNvs3Eo7L53lMj3R) | 3:38 | 2023-11-30 | 2023-12-15 |
 | [Amper Daar](https://open.spotify.com/track/1NSfpqhCaUrGKSrKhPGImB) | [Leo Sonskyn](https://open.spotify.com/artist/6g37J3RjRVJ0jmthvqkOKu) | [Amper Daar](https://open.spotify.com/album/3QOwJNtqRlHf4pGZwwwexf) | 3:13 | 2024-08-29 | 2024-09-27 |
 | [Amsterdam](https://open.spotify.com/track/01qycLhzBSLeJSyWNu5yar) | [Emile Swiegers](https://open.spotify.com/artist/1QgprmdltHPfJ6FjdXvz2i) | [Amsterdam](https://open.spotify.com/album/0pHGsOF5spGgXyUBsvnWaT) | 2:48 | 2026-07-16 | 2026-07-31 |
@@ -1160,6 +1160,7 @@
 | [Jou Skoene](https://open.spotify.com/track/7FHRJmJRWB3qjUsn4B65HM) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Jou Skoene](https://open.spotify.com/album/3uduux6dMKTobDSo6e6DAG) | 3:36 | 2023-02-09 | 2024-03-08 |
 | [Jou Tipe Boer](https://open.spotify.com/track/3OHTnZUh2Xg5eK0fCAdk9x) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Jou Tipe Boer](https://open.spotify.com/album/4YF9kpNnbNWDoyA3nwlban) | 3:27 | 2024-11-21 | 2025-02-14 |
 | [Jou Tyd Is Nou](https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB) | [Jo Black](https://open.spotify.com/artist/0Zg9ZuI494uRe8eMGTbZLs) | [Jou Tyd Is Nou](https://open.spotify.com/album/76sRtTfJz0zdbcli4aXjGs) | 3:14 | 2024-07-18 | 2024-11-01 |
+| [Jou Weer Eerste Soen](https://open.spotify.com/track/2RzbEfDyfvqX6LkzSYlTlz) | [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Jou Weer Eerste Soen](https://open.spotify.com/album/3T4zHz9qFHAYrJfaKF7PY3) | 3:35 | 2026-07-31 |  |
 | [Joune](https://open.spotify.com/track/7qNqeM10lo4m1FvsWD2vO7) | [Cara Rossouw](https://open.spotify.com/artist/2DkwTvjU1NX1U1x4c45MZa) | [Joune](https://open.spotify.com/album/2hHsf0beuDNK9JoZGsl1db) | 2:54 | 2024-07-11 | 2024-08-02 |
 | [Joune](https://open.spotify.com/track/77pk3WZ58LDr2WjBv2LoST) | [Luzelle](https://open.spotify.com/artist/4uPi9ThPDv6AMst7MJmPmN) | [Joune](https://open.spotify.com/album/0HGbpBKUbhmvsNlAmlszH7) | 3:07 | 2024-11-28 | 2024-12-06 |
 | [Jozi](https://open.spotify.com/track/1xO0gUemrhSXNFBjUnq2EJ) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Jozi](https://open.spotify.com/album/7GiaYe6y031cRW7p16pxUJ) | 3:23 | 2026-03-26 | 2026-06-26 |

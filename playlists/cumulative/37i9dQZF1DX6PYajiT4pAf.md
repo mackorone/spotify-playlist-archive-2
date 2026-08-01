@@ -2,9 +2,9 @@
 
 ### [Novedades Viernes España](https://open.spotify.com/playlist/37i9dQZF1DX6PYajiT4pAf)
 
-> Abraham Mateo con María Becerra, KAROL G, Juan Magán, Beny Jr y el resto de novedades de la semana.
+> Abraham Mateo con María Becerra, KAROL G, Ariana Grande, Juan Magán, Beny Jr y el resto de novedades de la semana.
 
-6,256 songs - 13 day 7 hr 56 min
+6,259 songs - 13 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Aguas Internacionales](https://open.spotify.com/track/6hGsPBTa5Mo3baFnrzhb5z) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [MARC3LA](https://open.spotify.com/artist/1lR1sPPysxUN9UZDeZiCfV) | [Aguas Internacionales](https://open.spotify.com/album/79YSHnFjQt4ATh5CZcMkOs) | 3:15 | 2026-06-04 | 2026-06-12 |
 | [Agüita clara](https://open.spotify.com/track/15fizy4pG00gnT17f5JKJW) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Agüita clara](https://open.spotify.com/album/7DVHB7tVFoWLyRhGbBopor) | 3:14 | 2026-04-02 | 2026-04-10 |
 | [AGÜITA DE COCO](https://open.spotify.com/track/48T8tK8uLM8psDmyKPYAE6) | [OMAY](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [Ukelele Twins](https://open.spotify.com/artist/0GooYfrBg4JPg8ljI4Rzfv) | [AGÜITA DE COCO](https://open.spotify.com/album/6SBK5LJ03O8mFGxT6oJF4u) | 2:18 | 2025-10-09 | 2025-10-17 |
+| [AH HA](https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AH HA](https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe) | 2:55 | 2026-07-31 |  |
 | [Ah! Ah! Ah!](https://open.spotify.com/track/0mwnRupwX7ep5ODNbi7feR) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [El Acabose/Ah! Ah! Ah!](https://open.spotify.com/album/5NGL9X3A5pkuTqezrMoatB) | 1:49 | 2026-05-01 | 2026-05-08 |
 | [AH2](https://open.spotify.com/track/32dFX15RPvJZ8FfNFXK1je) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [AH2](https://open.spotify.com/album/5JoHRaQOKm6KWcNKzYFSIN) | 2:49 | 2025-01-23 | 2025-01-31 |
 | [Ahora](https://open.spotify.com/track/3WF9nSaHYylTJDjkmzzIy7) | [Gloosito](https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm), [Vampi](https://open.spotify.com/artist/26Uw7DtQGaoYgGfTdtzKjt) | [Ahora](https://open.spotify.com/album/6631rde6x2SzAErIhPStmO) | 2:00 | 2025-05-08 | 2025-05-16 |
@@ -263,6 +264,7 @@
 | [Ahora que...](https://open.spotify.com/track/6eEUOPQx0bvgYYcazkEhS5) | [Pipiolas](https://open.spotify.com/artist/0qFTwtYUtLs9jYEXUfmEpI) | [Pipiolas](https://open.spotify.com/album/0mqJ9htA1wLWFzEzwXSOgs) | 2:54 | 2026-03-19 | 2026-03-27 |
 | [Ahora Si](https://open.spotify.com/track/4BCY7mywRGsFJiJ1I9Y6It) | [Fran y Nico](https://open.spotify.com/artist/0MshSBlTe7LBnw17PsggdI), [Liderj](https://open.spotify.com/artist/4oFwW8GNt4Seyt1dK3ij2S) | [Ahora Si](https://open.spotify.com/album/2SjxlcBmBrorAsB9g77Y42) | 3:18 | 2025-01-31 | 2025-02-07 |
 | [ahora sé](https://open.spotify.com/track/7gHFaLsSILoyG3NuDt81n1) | [Izan Llunas](https://open.spotify.com/artist/2ul9EYAgD5oc3ipp34QzMl) | [ahora sé](https://open.spotify.com/album/7efHNwZOlvMoR8tLjMLUC5) | 2:21 | 2026-04-16 | 2026-04-24 |
+| [AHÍ](https://open.spotify.com/track/3w2jZ5NVvXk6UC9ZQNPzRb) | [Alu](https://open.spotify.com/artist/71dh3xf8unpaMDtik7HTKm) | [E.G LAND](https://open.spotify.com/album/680k7nnhXq5Jp06fj5HCpV) | 2:12 | 2026-07-31 |  |
 | [Ahí Estabas Tú](https://open.spotify.com/track/5aceVXUFwGVUlG2CsYNskk) | [Salistre](https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0) | [Ahí Estabas Tú](https://open.spotify.com/album/6r7HwR1ZGL3i1vDJ8xaoZx) | 2:12 | 2026-04-09 | 2026-04-17 |
 | [AHÍ ESTARÉ](https://open.spotify.com/track/6R3x6aKi9CqmBphVjMeiJG) | [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A), [Willy H](https://open.spotify.com/artist/29DchVw1Z1IvS2uWd5XSOX), [JM](https://open.spotify.com/artist/3xQTLqwYFmsK19eYk5Hf3N) | [AHÍ ESTARÉ](https://open.spotify.com/album/5Wi2zo2aTavVi340UeJXN6) | 2:20 | 2025-06-05 | 2025-06-13 |
 | [Ahí Estás Tú](https://open.spotify.com/track/62pYiGZRf0R5CxtEtrFmvB) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [Ahí Estás Tú](https://open.spotify.com/album/0YMlZXwOmRA4xSIHAzBawD) | 3:00 | 2025-07-24 | 2025-08-01 |
@@ -2909,6 +2911,7 @@
 | [LADRON](https://open.spotify.com/track/2NMctdE1VuUUc4VctEqamB) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [RAMKY EN LOS CONTROLES](https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd) | [LADRON](https://open.spotify.com/album/4rhn6ysDub2uGc0HJq4AF2) | 1:54 | 2025-12-11 | 2025-12-19 |
 | [Ladrón](https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Ladrón](https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW) | 2:39 | 2024-12-19 | 2025-01-03 |
 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 | 2025-09-05 | 2025-09-13 |
+| [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 | 2026-07-30 |  |
 | [LALA](https://open.spotify.com/track/7Eb8h5P3IILcivcubgBmaB) | [Alba Moreno](https://open.spotify.com/artist/6kWK8M4vGR9AWnikXxcWLF) | [LALA](https://open.spotify.com/album/3Eb3plzfCwa8g8Em8bL3Sh) | 2:15 | 2026-05-21 | 2026-05-29 |
 | [Lalala](https://open.spotify.com/track/4vtIzbuGPJap419X869GDz) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Lalala](https://open.spotify.com/album/2B1D0XyRpjNls2EAYKj1Yo) | 3:10 | 2025-08-01 | 2025-08-09 |
 | [LALALALALALA ♡♡♡](https://open.spotify.com/track/0BPxucg9g8St3U2lqsLuqC) | [BAJOCERO X](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [LALALALALALA ♡♡♡](https://open.spotify.com/album/0vI2zKPQsZ5Trx1FBmLJjm) | 2:11 | 2025-07-10 | 2025-07-18 |
@@ -4325,6 +4328,7 @@
 | [PERVERSA](https://open.spotify.com/track/3lkv8itXt58NC98Fq0EGEB) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [ASTRO](https://open.spotify.com/album/2HCiLvEdZuHb8iDweMZwDG) | 2:12 | 2025-05-29 | 2025-06-06 |
 | [Pesadilla Adulta](https://open.spotify.com/track/4g3INzuTAV6sZxnaxg1RJs) | [Rata Negra](https://open.spotify.com/artist/7KjdFWj7ujhSLbzWYAAgVe) | [Hawai](https://open.spotify.com/album/1J5DJeQpsKX8JWh0I8ocRw) | 1:58 | 2025-09-18 | 2025-09-27 |
 | [Pesadillas](https://open.spotify.com/track/6yRFtMfw6DaAmtN1y9W83W) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Pesadillas](https://open.spotify.com/album/7JfpvpeTTYLDsPTgCP8aj7) | 2:39 | 2025-10-23 | 2025-10-30 |
+| [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 | 2026-07-31 |  |
 | [phill collinX](https://open.spotify.com/track/5RsoxOhMh2wcjeQyxavwLP) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [phill collinX](https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX) | 2:32 | 2025-11-27 | 2025-12-05 |
 | [Picasso](https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:05 | 2024-11-29 | 2024-12-06 |
 | [Pichersita](https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Pichersita](https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay) | 2:18 | 2026-04-02 | 2026-04-10 |
@@ -5633,7 +5637,6 @@
 | [Toñito](https://open.spotify.com/track/5l4xsHuiPYtcwnBCkAZ1ZJ) | [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Toñito](https://open.spotify.com/album/3Xqnaem0KaSd23sYfCmXGr) | 2:36 | 2026-06-25 | 2026-07-03 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-08-15 |
 | [track 1](https://open.spotify.com/track/7yMOTDtSpeg6maMYYvy046) | [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [track 1](https://open.spotify.com/album/36bWqtnkyFILCbvuneTDzh) | 3:11 | 2026-05-14 | 2026-05-22 |
-| [Track 3](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 0:00 | 2026-07-30 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-20 |
 | [Traficando Rap](https://open.spotify.com/track/0jTEOIQZUr9915RLWVMNh1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Traficando Rap](https://open.spotify.com/album/6AVwplC1dMqFzAt2tGm7g5) | 2:44 | 2025-02-28 | 2025-03-07 |
 | [TRAGEDIA](https://open.spotify.com/track/1FnRaQDk3s7RkWBXKmnuLv) | [Marta Sango](https://open.spotify.com/artist/4rVronLhqEXcfu8CjCmLQv) | [TRAGEDIA](https://open.spotify.com/album/6zTRAEX6goxJb5wXBqoSLO) | 2:30 | 2026-06-25 | 2026-07-03 |

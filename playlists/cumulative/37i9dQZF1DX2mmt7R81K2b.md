@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-156 songs - 12 hr 40 min
+157 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Promenade from "Pictures of an exhibition" \- Jazz Version](https://open.spotify.com/track/6fQ2GaQ3xoI35Pq2ymOKCl) | [Modest Mussorgsky](https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl), [Pietro Beltrani](https://open.spotify.com/artist/4leQT1pQeSNV91sEiJfmu5) | [Promenade from "Pictures of an exhibition" \(Jazz Version\)](https://open.spotify.com/album/2myvzZBserSMEddKm1b8BW) | 5:07 | 2021-12-02 |  |
 | [Purcell / Arr\. Pluhar: Oedipus, Z\. 583: No\. 2, Song\. "Music for a While"](https://open.spotify.com/track/2UK3kMSQc8fMTCjEykifQ7) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Christina Pluhar](https://open.spotify.com/artist/7xB7TQUAeFWgqdkhGiArgZ), [L'Arpeggiata](https://open.spotify.com/artist/3kC7VaScP8y69rzg0vsswQ) | [Music for a While \- Improvisations on Purcell](https://open.spotify.com/album/0kp5zk8SMD9vrhrX4DXsXi) | 5:54 | 2021-12-02 | 2022-07-05 |
 | [Quando m'en vo \(Musetta's Waltz\) \[From the opera "La Boheme"\]](https://open.spotify.com/track/4fDKjvddshvWecTqhkeCws) | [Dave Liebman](https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn), [Vic Juris](https://open.spotify.com/artist/5pxK3XZDWU8RSTFgu7hRdl) | [Quando m'en vo \[From the opera "La Boheme"\]](https://open.spotify.com/album/4r7wCXTSeEs79fordibgeb) | 5:59 | 2022-01-13 |  |
+| [Reflections](https://open.spotify.com/track/7mzumiveemZU6yqoFd2JqS) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Reflections](https://open.spotify.com/album/11b8R6v3DQJCqYZSxiJyZQ) | 4:26 | 2026-07-31 |  |
 | [Scurry](https://open.spotify.com/track/2XkOOFZAeeytJh6roIuNce) | [Neil Cowley Trio](https://open.spotify.com/artist/1aHiF3ESIMQtH7PGzhi6fl) | [Scurry](https://open.spotify.com/album/0lbwmnDifdEc3rS7lCafYL) | 3:06 | 2025-12-12 | 2026-06-19 |
 | [Shades of Leaving](https://open.spotify.com/track/3dMfc52VrXrDij1apLF0Nw) | [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Shades of Leaving](https://open.spotify.com/album/3myikID3DobiPwPZna4FEt) | 4:39 | 2025-04-25 |  |
 | [Sicilyan Dream \(D’après Siciliano, BWV\. 1031 de Johann Sebastian Bach\)](https://open.spotify.com/track/22DgAcWnb50oKlv0F8eziW) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Ménage à trois](https://open.spotify.com/album/55UQ7AQ6F88cmU7SEoVNaE) | 4:37 | 2021-12-02 |  |

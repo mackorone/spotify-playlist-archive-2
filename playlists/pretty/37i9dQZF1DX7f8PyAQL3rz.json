@@ -1,6 +1,6 @@
 {
   "description": "amor \u00e9 bom mas ningu\u00e9m quer",
-  "num_followers": 1439445,
+  "num_followers": 1439343,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -323,30 +323,6 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
-        "name": "BOMBOCLATT (REMIX)",
-        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "BOMBOCLATT (REMIX)",
-      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
         "name": "Rugal & Bomfino",
         "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
       },
@@ -371,6 +347,30 @@
       "duration_ms": 204562,
       "name": "Pique B.I.G",
       "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
+        "name": "BOMBOCLATT (REMIX)",
+        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "BOMBOCLATT (REMIX)",
+      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -439,6 +439,30 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
+        "name": "Obra de Arte",
+        "url": "https://open.spotify.com/album/5d5KT32kvHBXdOFJyqO7jQ"
+      },
+      "artists": [
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        }
+      ],
+      "duration_ms": 162015,
+      "name": "Obra de Arte",
+      "url": "https://open.spotify.com/track/7wKpKUJX0djYz9JZSybbvG"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/1xXlj4lES5cohacVSro9v4"
       },
@@ -463,30 +487,6 @@
       "duration_ms": 210000,
       "name": "Particular",
       "url": "https://open.spotify.com/track/725qKkD5G0bD4D0uhzzhRT"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
-        "name": "Obra de Arte",
-        "url": "https://open.spotify.com/album/5d5KT32kvHBXdOFJyqO7jQ"
-      },
-      "artists": [
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "DJ DAVI DOGDOG",
-          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
-        }
-      ],
-      "duration_ms": 162015,
-      "name": "Obra de Arte",
-      "url": "https://open.spotify.com/track/7wKpKUJX0djYz9JZSybbvG"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -539,6 +539,34 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
+        "name": "MANEIRINHO VIBES 2",
+        "url": "https://open.spotify.com/album/6xu0pmocFeuNlsbihrFPpv"
+      },
+      "artists": [
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+        },
+        {
+          "name": "Mc J Mito",
+          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+        },
+        {
+          "name": "Regufe",
+          "url": "https://open.spotify.com/artist/6dzrhhawUizL8jtwi1ELQ5"
+        },
+        {
+          "name": "Pariz Beat",
+          "url": "https://open.spotify.com/artist/5kpVs7WlaoiHEZW0H7Axyq"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "ENGAJAMENTO",
+      "url": "https://open.spotify.com/track/6EsxCrPmQ4VGqoFVOZC2hG"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
         "name": "A Vida \u00e9 Um Freestyle",
         "url": "https://open.spotify.com/album/4H28oDneeI0Q0yY297UB71"
       },
@@ -587,30 +615,34 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
-        "name": "MANEIRINHO VIBES 2",
-        "url": "https://open.spotify.com/album/6xu0pmocFeuNlsbihrFPpv"
+        "name": "Vit\u00f3ria Regia",
+        "url": "https://open.spotify.com/album/1xkE2NwKm634u4Fv9oynoR"
       },
       "artists": [
         {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
         },
         {
-          "name": "Mc J Mito",
-          "url": "https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB"
+          "name": "Trunks",
+          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
         },
         {
-          "name": "Regufe",
-          "url": "https://open.spotify.com/artist/6dzrhhawUizL8jtwi1ELQ5"
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
         },
         {
-          "name": "Pariz Beat",
-          "url": "https://open.spotify.com/artist/5kpVs7WlaoiHEZW0H7Axyq"
+          "name": "Erick Di",
+          "url": "https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS"
+        },
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
         }
       ],
-      "duration_ms": 118153,
-      "name": "ENGAJAMENTO",
-      "url": "https://open.spotify.com/track/6EsxCrPmQ4VGqoFVOZC2hG"
+      "duration_ms": 195582,
+      "name": "Vit\u00f3ria Regia",
+      "url": "https://open.spotify.com/track/0h1JdWutLUgMLybkUFwRXf"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -659,34 +691,30 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
-        "name": "Vit\u00f3ria Regia",
-        "url": "https://open.spotify.com/album/1xkE2NwKm634u4Fv9oynoR"
+        "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
+        "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
       },
       "artists": [
         {
-          "name": "Franco, The Sir!",
-          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
         },
         {
-          "name": "Trunks",
-          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
         },
         {
           "name": "Yuri Redicopa",
           "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Erick Di",
-          "url": "https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS"
-        },
-        {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
         }
       ],
-      "duration_ms": 195582,
-      "name": "Vit\u00f3ria Regia",
-      "url": "https://open.spotify.com/track/0h1JdWutLUgMLybkUFwRXf"
+      "duration_ms": 199351,
+      "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
+      "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -715,30 +743,26 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
-        "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
-        "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
+        "name": "ALFA",
+        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
       },
       "artists": [
         {
-          "name": "Jarreau Vandal",
-          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         },
         {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         },
         {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
         }
       ],
-      "duration_ms": 199351,
-      "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
-      "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
+      "duration_ms": 200768,
+      "name": "Rimo igual Pac 2",
+      "url": "https://open.spotify.com/track/65alHqaRDK6LiYOMUaDgaV"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -1011,26 +1035,22 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
-        "name": "Sol Na Lata",
-        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
+        "name": "Milimetricamente",
+        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
       },
       "artists": [
         {
-          "name": "Tevito",
-          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
+          "name": "Luana Maia",
+          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
         },
         {
-          "name": "Dj TC",
-          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
-        },
-        {
-          "name": "DJ PEPI",
-          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
+          "name": "DJ Caio Santos",
+          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Sol Na Lata",
-      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
+      "duration_ms": 122834,
+      "name": "Milimetricamente",
+      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -1055,22 +1075,26 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
-        "name": "Milimetricamente",
-        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
+        "name": "Sol Na Lata",
+        "url": "https://open.spotify.com/album/4wklLp5vNXVkdJGTKRK8IZ"
       },
       "artists": [
         {
-          "name": "Luana Maia",
-          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
+          "name": "Tevito",
+          "url": "https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf"
         },
         {
-          "name": "DJ Caio Santos",
-          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
+          "name": "Dj TC",
+          "url": "https://open.spotify.com/artist/5b5iPEtmmilqQQJ673Va4s"
+        },
+        {
+          "name": "DJ PEPI",
+          "url": "https://open.spotify.com/artist/1IMM2r6o40xc7kjaHCEttC"
         }
       ],
-      "duration_ms": 122834,
-      "name": "Milimetricamente",
-      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
+      "duration_ms": 164000,
+      "name": "Sol Na Lata",
+      "url": "https://open.spotify.com/track/7egSBZjH8xrLtJcfJbMpjx"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -1187,34 +1211,6 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
-        "name": "BAILA IGUAL VINI",
-        "url": "https://open.spotify.com/album/2dq5BaKXGJDum1p169N8vM"
-      },
-      "artists": [
-        {
-          "name": "Arthurzim",
-          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
-        },
-        {
-          "name": "3X",
-          "url": "https://open.spotify.com/artist/46VTErrP5GnZwq602AEVLp"
-        },
-        {
-          "name": "OLIE",
-          "url": "https://open.spotify.com/artist/3lhjMeQAJL0YU6Hc4MGPTl"
-        },
-        {
-          "name": "JHXW",
-          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
-        }
-      ],
-      "duration_ms": 160718,
-      "name": "BAILA IGUAL VINI",
-      "url": "https://open.spotify.com/track/4GNQdhAwDz6Qv1Wa8Lx6zH"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
         "name": "GOSTOSA DE FRANJA / NINFOMANIACA",
         "url": "https://open.spotify.com/album/7w9Hc2rK7fwVFqohynMYxS"
       },
@@ -1239,6 +1235,34 @@
       "duration_ms": 114285,
       "name": "GOSTOSA DE FRANJA / NINFOMANIACA",
       "url": "https://open.spotify.com/track/7e2et6UVNFvkgYYrbzC8py"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
+        "name": "BAILA IGUAL VINI",
+        "url": "https://open.spotify.com/album/2dq5BaKXGJDum1p169N8vM"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        },
+        {
+          "name": "3X",
+          "url": "https://open.spotify.com/artist/46VTErrP5GnZwq602AEVLp"
+        },
+        {
+          "name": "OLIE",
+          "url": "https://open.spotify.com/artist/3lhjMeQAJL0YU6Hc4MGPTl"
+        },
+        {
+          "name": "JHXW",
+          "url": "https://open.spotify.com/artist/6DsMACWhJ5AgWLkZA2f5BV"
+        }
+      ],
+      "duration_ms": 160718,
+      "name": "BAILA IGUAL VINI",
+      "url": "https://open.spotify.com/track/4GNQdhAwDz6Qv1Wa8Lx6zH"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -1291,6 +1315,50 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
+        "name": "Deixa Isso pra L\u00e1",
+        "url": "https://open.spotify.com/album/7Er9x0LocywhZtRK16Yyel"
+      },
+      "artists": [
+        {
+          "name": "ATLXTA",
+          "url": "https://open.spotify.com/artist/00S1IX5nK8vgnVvWkqamIL"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "A F\u00d3RMULA",
+          "url": "https://open.spotify.com/artist/2JjWIXlfhneMS1fsx4KW3W"
+        },
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Ka\u00e9ssi",
+          "url": "https://open.spotify.com/artist/0qyprJlPstC6IX7OqgWa7j"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "Ike Avila",
+          "url": "https://open.spotify.com/artist/5lhE76UOmRgymO8trdoYCH"
+        },
+        {
+          "name": "Paco",
+          "url": "https://open.spotify.com/artist/7ajzyHJHhGM2mjirkolY4L"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Deixa Isso pra L\u00e1",
+      "url": "https://open.spotify.com/track/7xKQbQaLhMzrE6nmMrmwGK"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
         "name": "Amor \u00c9 F*Da",
         "url": "https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU"
       },
@@ -1335,50 +1403,6 @@
       "duration_ms": 118153,
       "name": "DIXAVANDO",
       "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
-        "name": "Deixa Isso pra L\u00e1",
-        "url": "https://open.spotify.com/album/7Er9x0LocywhZtRK16Yyel"
-      },
-      "artists": [
-        {
-          "name": "ATLXTA",
-          "url": "https://open.spotify.com/artist/00S1IX5nK8vgnVvWkqamIL"
-        },
-        {
-          "name": "Aaron Modesto",
-          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
-        },
-        {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
-        },
-        {
-          "name": "A F\u00d3RMULA",
-          "url": "https://open.spotify.com/artist/2JjWIXlfhneMS1fsx4KW3W"
-        },
-        {
-          "name": "Ka\u00e9ssi",
-          "url": "https://open.spotify.com/artist/0qyprJlPstC6IX7OqgWa7j"
-        },
-        {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "Ike Avila",
-          "url": "https://open.spotify.com/artist/5lhE76UOmRgymO8trdoYCH"
-        },
-        {
-          "name": "Paco",
-          "url": "https://open.spotify.com/artist/7ajzyHJHhGM2mjirkolY4L"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Deixa Isso pra L\u00e1",
-      "url": "https://open.spotify.com/track/7xKQbQaLhMzrE6nmMrmwGK"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -1519,6 +1543,26 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
+        "name": "Kyan Ao Vivo no SALA",
+        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        }
+      ],
+      "duration_ms": 155500,
+      "name": "Neguin 171 - Ao Vivo no SALA",
+      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
         "name": "Dentro da Sua",
         "url": "https://open.spotify.com/album/6A7c82aLDbJiJVRbObW6wp"
       },
@@ -1583,50 +1627,6 @@
       "duration_ms": 209093,
       "name": "Cultura de Rua",
       "url": "https://open.spotify.com/track/0T9VMb4KNHn3bHcz8hinLU"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
-        "name": "Kyan Ao Vivo no SALA",
-        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Neguin 171 - Ao Vivo no SALA",
-      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
-        "name": "ALFA",
-        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 200768,
-      "name": "Rimo igual Pac 2",
-      "url": "https://open.spotify.com/track/65alHqaRDK6LiYOMUaDgaV"
     }
   ],
   "unique_name": "creme",

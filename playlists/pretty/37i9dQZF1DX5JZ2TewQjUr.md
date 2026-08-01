@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Jaime Cheung 張天穎
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,549 likes - 121 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,553 likes - 121 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,19 +14,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 4 | [The Crash](https://open.spotify.com/track/5Gz6Eb9vl58RLlZIasShKG) | [We Are Now](https://open.spotify.com/artist/59xO8AqL95j9Nfki0T194S) | [The Crash](https://open.spotify.com/album/7pB81pbqQb22mDWtwzLInW) | 2:14 |
 | 5 | [純](https://open.spotify.com/track/7p0dOTFAf1MxP0aYImwPv4) | [Lester Lam 藍奕持](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [純](https://open.spotify.com/album/5FUusEdFrIfoHLJ2iWiGpg) | 3:50 |
 | 6 | [等一等](https://open.spotify.com/track/539h61H0uqsk2NS9HAkcp0) | [The Hertz](https://open.spotify.com/artist/7fzX9P6uA9rnaPvp4QRD1b) | [等一等](https://open.spotify.com/album/3rpsBh1Po5wEt8wEkdTfmw) | 4:34 |
-| 7 | [Over The Bridge 過橋界線 \(feat\. Bernard Chan\)](https://open.spotify.com/track/38rmMuzNY2llYXMdoJryjK) | [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5), [Bernard Chan](https://open.spotify.com/artist/0D51EtztQap8W2CbAGaafe) | [Over The Bridge 過橋界線](https://open.spotify.com/album/2HSd1nMmDC5RVK1TS4PYCe) | 4:02 |
-| 8 | [給我哀傷的朋友​​](https://open.spotify.com/track/1cpozvVBTBgC29d7SgxIrR) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [給我哀傷的朋友​​](https://open.spotify.com/album/56egH5g5foIQSiDO7LmpnX) | 3:20 |
-| 9 | [LOVE YOU STILL](https://open.spotify.com/track/6eOVlrNLoVvAkPEN30S9sm) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [LOVE YOU STILL](https://open.spotify.com/album/33jckkBzZw19ZoBxiyMQ1U) | 4:13 |
-| 10 | [Angel\(s\)](https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Angel\(s\)](https://open.spotify.com/album/71W6HyKdt6FDhVYChmamZ4) | 3:03 |
-| 11 | [LOVE \(all i do is run…\) \(feat\. Ghost Style\)](https://open.spotify.com/track/33PjA0pWLFeggSnpGu17hm) | [Lili Forest](https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox), [Ghost Style](https://open.spotify.com/artist/6QljZ2X0gO5jqG9u096o6j) | [LOVE \(all i do is run…\) \(feat\. Ghost Style\)](https://open.spotify.com/album/4D9ZkcqwxbBrJokLVgY81j) | 2:58 |
-| 12 | [FB愛不完](https://open.spotify.com/track/4Quwh4FUE0N9APHnIsLUul) | [床哥](https://open.spotify.com/artist/5tz6K8BYKfiVFB8yQRdGX8), [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [FB愛不完](https://open.spotify.com/album/36RLX27ALeHuc0hG2apfF2) | 2:56 |
-| 13 | [text u](https://open.spotify.com/track/3cmk459dDNAu7WLtPJhAnv) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [text u](https://open.spotify.com/album/1mSRlipSmdZwuX6pZGSKJP) | 2:29 |
-| 14 | [depresso](https://open.spotify.com/track/7oM7WsJFQclWbcD7Obrrrz) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [depresso](https://open.spotify.com/album/2CUbNUEaW14qh7Z7XmDcGp) | 3:48 |
-| 15 | [Lemons](https://open.spotify.com/track/32GgQmuBSuHrYc0XNvfv0v) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Lemons](https://open.spotify.com/album/67Ajtw9rA83ErOpYlcN0Jj) | 3:02 |
-| 16 | [DEAD END](https://open.spotify.com/track/3XLGw3md7QifexmPNxbuae) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [DEAD END](https://open.spotify.com/album/6MdTvRbWC3SJ9oSjnWYIRq) | 3:45 |
-| 17 | [陰謀家](https://open.spotify.com/track/2DsddKT0UJ2DYheaeg3kHs) | [MIDNIGHT COWBOY](https://open.spotify.com/artist/1yA9oQkytFUpfFdnppJnIC) | [See You Down The Road](https://open.spotify.com/album/2zNvvPTwmGQ3ghwc6WA9OA) | 4:22 |
-| 18 | [Sparkle Blue](https://open.spotify.com/track/2AsYTLSa51fTnWTNegQbCd) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [BLUE HOURS](https://open.spotify.com/album/1wzAwMstc8mW3z1vkU1P1O) | 3:03 |
-| 19 | [完全真空](https://open.spotify.com/track/68QFt8SNQziUZwussFlLSr) | [Kacey 陳凱琪](https://open.spotify.com/artist/3yd1vE8VmUGIYavgWsLb3u) | [完全真空](https://open.spotify.com/album/6cRyN1Q0uxI0LG8Fc902Ed) | 3:47 |
+| 7 | [i cant stop looking at her eyes](https://open.spotify.com/track/4uZAqxSDdXhbKlQKVsUVRy) | [fee.](https://open.spotify.com/artist/0doNlR4itw8RyaQ9cw3yZo) | [i cant stop looking at her eyes](https://open.spotify.com/album/1QgyXFjXyscaGdPRKygRlV) | 2:40 |
+| 8 | [Over The Bridge 過橋界線 \(feat\. Bernard Chan\)](https://open.spotify.com/track/38rmMuzNY2llYXMdoJryjK) | [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5), [Bernard Chan](https://open.spotify.com/artist/0D51EtztQap8W2CbAGaafe) | [Over The Bridge 過橋界線](https://open.spotify.com/album/2HSd1nMmDC5RVK1TS4PYCe) | 4:02 |
+| 9 | [給我哀傷的朋友​​](https://open.spotify.com/track/1cpozvVBTBgC29d7SgxIrR) | [Paula 區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [給我哀傷的朋友​​](https://open.spotify.com/album/56egH5g5foIQSiDO7LmpnX) | 3:20 |
+| 10 | [LOVE YOU STILL](https://open.spotify.com/track/6eOVlrNLoVvAkPEN30S9sm) | [Flare](https://open.spotify.com/artist/5fOFTVTh01fR3j1D0vpxOQ) | [LOVE YOU STILL](https://open.spotify.com/album/33jckkBzZw19ZoBxiyMQ1U) | 4:13 |
+| 11 | [Angel\(s\)](https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Angel\(s\)](https://open.spotify.com/album/71W6HyKdt6FDhVYChmamZ4) | 3:03 |
+| 12 | [Last night in Hong Kong](https://open.spotify.com/track/0CCXDZLnhjAlPo3sr3zjI5) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n) | [Last night in Hong Kong](https://open.spotify.com/album/1t4euBr2Oiu3MPnUvosg3v) | 2:45 |
+| 13 | [LOVE \(all i do is run…\) \(feat\. Ghost Style\)](https://open.spotify.com/track/33PjA0pWLFeggSnpGu17hm) | [Lili Forest](https://open.spotify.com/artist/1GnfTI3zaWL9tMluOVjkP6), [NO CAP RECORDS](https://open.spotify.com/artist/1yzmgTub0XAUxIHV11ndox), [Ghost Style](https://open.spotify.com/artist/6QljZ2X0gO5jqG9u096o6j) | [LOVE \(all i do is run…\) \(feat\. Ghost Style\)](https://open.spotify.com/album/4D9ZkcqwxbBrJokLVgY81j) | 2:58 |
+| 14 | [text u](https://open.spotify.com/track/3cmk459dDNAu7WLtPJhAnv) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw), [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu) | [text u](https://open.spotify.com/album/1mSRlipSmdZwuX6pZGSKJP) | 2:29 |
+| 15 | [depresso](https://open.spotify.com/track/7oM7WsJFQclWbcD7Obrrrz) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [depresso](https://open.spotify.com/album/2CUbNUEaW14qh7Z7XmDcGp) | 3:48 |
+| 16 | [Lemons](https://open.spotify.com/track/32GgQmuBSuHrYc0XNvfv0v) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Lemons](https://open.spotify.com/album/67Ajtw9rA83ErOpYlcN0Jj) | 3:02 |
+| 17 | [DEAD END](https://open.spotify.com/track/3XLGw3md7QifexmPNxbuae) | [TYNT](https://open.spotify.com/artist/4HB5A4ssKVSg8JcTkqLx2p) | [DEAD END](https://open.spotify.com/album/6MdTvRbWC3SJ9oSjnWYIRq) | 3:45 |
+| 18 | [陰謀家](https://open.spotify.com/track/2DsddKT0UJ2DYheaeg3kHs) | [MIDNIGHT COWBOY](https://open.spotify.com/artist/1yA9oQkytFUpfFdnppJnIC) | [See You Down The Road](https://open.spotify.com/album/2zNvvPTwmGQ3ghwc6WA9OA) | 4:22 |
+| 19 | [Sparkle Blue](https://open.spotify.com/track/2AsYTLSa51fTnWTNegQbCd) | [WHIZZ](https://open.spotify.com/artist/07ZnzLy7JvS7ogmwvjHbUe) | [BLUE HOURS](https://open.spotify.com/album/1wzAwMstc8mW3z1vkU1P1O) | 3:03 |
 | 20 | [wish u could](https://open.spotify.com/track/2LJO9MbWI7UUr6SXWkWyj0) | [Jasmine Kelly](https://open.spotify.com/artist/53QFkgzvHiqxjEdY0alTcr) | [wish u could](https://open.spotify.com/album/6MJIAUGXCVBUrCXjYVu6Hz) | 3:11 |
 | 21 | [蛻變中請勿打擾](https://open.spotify.com/track/2yaPUeFhwqczGGdURBzdLQ) | [Luna Is A Bep](https://open.spotify.com/artist/5ltDGYW0Lwwp4ZZoz4q3r8) | [蛻變中請勿打擾](https://open.spotify.com/album/4bKnNtSWDKCoTc4RE2JTFr) | 3:49 |
 | 22 | [Two Worlds 在兩個心中間坐下 \(feat\. Ivana Wong\)](https://open.spotify.com/track/1TZBNT3sqxVCBNr7g0lTti) | [Cy Leo](https://open.spotify.com/artist/0e208wqtXm2omAN9f63bP5), [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [Two Worlds 在兩個心中間坐下](https://open.spotify.com/album/3T1evDXqRxEMVOe7NXMU2o) | 4:12 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 120 | [No More Lonely Christmas](https://open.spotify.com/track/6tfM6NgaqAeyfOOvTGRZ5g) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [No More Lonely Christmas](https://open.spotify.com/album/3hNJMlLstTfNEfRDZkqjfu) | 3:26 |
 | 121 | [Martyr\#1](https://open.spotify.com/track/6cMAWahZmQfn57wmxGcxfM) | [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Martyr\#1](https://open.spotify.com/album/4x08OFLQ71g3UsVGpT3p0C) | 5:39 |
 
-Snapshot ID: `AAAAABgu4SUOgZUJWJUTDv43BCwG/y2l`
+Snapshot ID: `AAAAADfp+97SucdiLesQb+gCUKTWZwiT`

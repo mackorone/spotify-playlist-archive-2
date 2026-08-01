@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: daisy
 
-311 songs - 18 hr 2 min
+313 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Mindflower](https://open.spotify.com/track/57hqFySP2QJFuudulgBeZB) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy) | [Mindflower](https://open.spotify.com/album/1ksHR5EpvXQiCAyasSLpEK) | 4:14 | 2025-08-08 |  |
 | [Miracle](https://open.spotify.com/track/3ndJHdQHWFer3JbMZuUXQI) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Idol Melodies](https://open.spotify.com/album/7zOW6frt5bFazKf6NEPpVT) | 2:55 | 2026-03-05 |  |
 | [Miscommunication](https://open.spotify.com/track/1Iufyww7vBObAq95TsleLn) | [Iben](https://open.spotify.com/artist/74r4FqTey9wuD0hsGp1gdf) | [Miscommunication](https://open.spotify.com/album/0XUJr36WbA7gYBm2HcYpsY) | 4:40 | 2026-06-26 |  |
+| [Molly](https://open.spotify.com/track/3nxbdIkJfC2OKx4EM57xGd) | [Patch +](https://open.spotify.com/artist/4XticJq9BkXWqqJJgDTnoF) | [Series A](https://open.spotify.com/album/5n5EMud68LW5haw0hY8odH) | 2:57 | 2026-07-31 |  |
 | [Moment](https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Moment](https://open.spotify.com/album/74tiJMeAD7XYcQFDjqXp2k) | 2:14 | 2025-11-21 |  |
 | [Morphe Sun](https://open.spotify.com/track/7hNRxxcR2aRMadgWKL0YHM) | [Pink Must](https://open.spotify.com/artist/2ugqiyhldi0oFKePKmHIy9) | [Karaoke Of The Bends](https://open.spotify.com/album/0rfTTnuksM3DdHXIi8BrVB) | 2:19 | 2025-03-13 | 2026-01-24 |
 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 | 2025-09-19 |  |
@@ -262,6 +263,7 @@
 | [Stone Femmes](https://open.spotify.com/track/7tQZcX1IDSgJcs9Dt92VzD) | [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Stone Femmes](https://open.spotify.com/album/2byXC960vYk4iRRxL9FSBc) | 2:59 | 2025-10-31 |  |
 | [Stranglers](https://open.spotify.com/track/4VnMFlkMkhNa821NMvkTjE) | [Miynt](https://open.spotify.com/artist/4grFkvUAEj8IWdGDEJ2F4b) | [Rain Money Dogs](https://open.spotify.com/album/79USiXeKEd2sgnEzStvmFj) | 3:35 | 2025-05-29 | 2026-02-07 |
 | [Sun Tan](https://open.spotify.com/track/5Vcly7T9MwGfvEMYk90RrI) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Sun Tan](https://open.spotify.com/album/06o9hDDvMetaUcbnATlFtg) | 3:37 | 2025-06-06 | 2025-08-09 |
+| [sunbleach](https://open.spotify.com/track/4HEjp4tBASgN57RUnzxN9Z) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [daisy\*](https://open.spotify.com/album/7fQamWUazAcrFUBHI5vmuy) | 2:21 | 2026-07-31 |  |
 | [Sweet Anecdote](https://open.spotify.com/track/068KPJISmxyjh0pdetMKdP) | [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Sweet Anecdote](https://open.spotify.com/album/4xRY5qShEwYdF3QwB33Q6C) | 3:36 | 2025-03-13 | 2026-01-24 |
 | [Talk About It](https://open.spotify.com/track/0CMB8RuAsWGJ27KGI11ssZ) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Talk About It](https://open.spotify.com/album/4JmfHt2VTxhIPVXompKDoN) | 3:57 | 2025-05-15 | 2025-07-26 |
 | [tears on his rings and chains](https://open.spotify.com/track/7DigNxE6prVBzj4sPJopkT) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [tears on his rings and chains](https://open.spotify.com/album/5DXpvfvNrOTSM2nYL5YlyR) | 3:18 | 2025-08-19 | 2025-10-18 |

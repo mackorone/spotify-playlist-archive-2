@@ -2,9 +2,9 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Jabulile Majola
+> Proudly Southern African Afropop gems\. Cover: Kabza De Small
 
-766 songs - 2 day 6 hr 24 min
+767 songs - 2 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Ibandla](https://open.spotify.com/track/6EpoJJIRPkO79fFZvGzSY6) | [Ruff](https://open.spotify.com/artist/4MChJwJ4CmqZkLJVracqjh), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Saudi](https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k) | [The Trap Temptations](https://open.spotify.com/album/5NbREtW6Pvn1U8ha72Pv5m) | 4:56 | 2026-06-18 |  |
 | [ICE BOY](https://open.spotify.com/track/5WitY5GhqNFpbw85MRlTJc) | [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k), [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [CK the Dj](https://open.spotify.com/artist/4IPk1SN4U0wmDksDGcvGVP), [Leon Lee](https://open.spotify.com/artist/7C2brYxxHiu329vBUebugD) | [ICE BOY](https://open.spotify.com/album/5coGZmI44wlfeivpxWBPIJ) | 5:28 | 2023-02-23 | 2023-03-18 |
 | [Idliso](https://open.spotify.com/track/19nYxv4eoMwEjxgruXqOSK) | [Nozi](https://open.spotify.com/artist/30kJwhrtiIFDPOa7og862Y) | [Idliso](https://open.spotify.com/album/6Gw7TPI2X8j9VLfWzG6qVK) | 5:05 | 2022-11-17 | 2023-06-30 |
+| [Ifa Lami \(feat\. Anzo & Tshego AMG\)](https://open.spotify.com/track/6pg5DVfkeaRM2TS3pNKx2Z) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Anzo](https://open.spotify.com/artist/17hUKyhHJ29kKUdyOzax7a), [Tshego AMG](https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF) | [Ifa Lami](https://open.spotify.com/album/4V3Dpnuzon8YyjdOxFLtWB) | 4:19 | 2026-07-31 |  |
 | [Igama](https://open.spotify.com/track/5HluhfaqX9cBkqVWmJdX4l) | [Nobuhle](https://open.spotify.com/artist/2SuwWqS2g4w2GSE4lxD1UM), [Mr Luu](https://open.spotify.com/artist/30f7PK6kTtrOc4HkSVGjgb) | [Igama](https://open.spotify.com/album/3uVznnYiHoGD8madKHx6RM) | 4:02 | 2026-06-18 |  |
 | [Igama Lami](https://open.spotify.com/track/1LQGJzyBHAuF2wNG1nrSWo) | [Zakwethu](https://open.spotify.com/artist/0ftrdf0KoMHqUtAOPNCshS) | [Igama Lami](https://open.spotify.com/album/60Bu0kgH5kkA6vvHZtiyP1) | 3:01 | 2024-05-31 |  |
 | [Igama Linamandla](https://open.spotify.com/track/27Xb7QuzQBDZwBinbFEcrT) | [Nathi](https://open.spotify.com/artist/1YS0HL7FXRhO4x9XaBuato), [Zuko SA](https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt) | [Igama Linamandla](https://open.spotify.com/album/4GkJLi4ChudBXFzDqoaHAt) | 4:32 | 2025-07-04 |  |
@@ -585,7 +586,7 @@
 | [Shuma Shuma](https://open.spotify.com/track/2MkGcObAssTlQ8KAo54XkM) | [Mukololo](https://open.spotify.com/artist/3PjUsqUK9807lMGiWKIQoT) | [Shuma Shuma](https://open.spotify.com/album/76FTZWwGQu3yaqULg1Q2Cy) | 5:27 | 2022-09-09 | 2022-10-14 |
 | [Shwi noMtekhala](https://open.spotify.com/track/2vNY4si9cmfylF4dMtTx3i) | [MBzet](https://open.spotify.com/artist/2cyRBCjNeRLJTudAyD12aM), [Just Bheki](https://open.spotify.com/artist/4FOfnMPuibRUgSBHBwvoPz), [Anzo](https://open.spotify.com/artist/1zPQUVj63POfqiPz9bofcO), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Thee Legacy](https://open.spotify.com/artist/5GADpBUVFmE7gRJAswAHiX) | [Shwi noMtekhala](https://open.spotify.com/album/7xEQsgHEr8RKp2OHU5zgcT) | 4:47 | 2022-10-28 | 2022-11-18 |
 | [Sifanelene](https://open.spotify.com/track/6UHjEMtKSk5yllxs9HGIo2) | [Azana](https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5), [Mthunzi](https://open.spotify.com/artist/2qixIA7qPFts4yN1Av017D) | [Sifanelene](https://open.spotify.com/album/0DUYHuIwc7BDGw2cc1c6xW) | 4:25 | 2023-08-31 | 2024-02-16 |
-| [Sigade Umzila](https://open.spotify.com/track/6b3rUrXrJakECmLYi4YLKs) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX) | [Impisi Iyalaya \(Deleted\)](https://open.spotify.com/album/5jKeQ21OJbv728vwPk1wMT) | 3:25 | 2024-12-13 |  |
+| [Sigade Umzila](https://open.spotify.com/track/6b3rUrXrJakECmLYi4YLKs) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX) | [Impisi Iyalaya \(Deleted\)](https://open.spotify.com/album/5jKeQ21OJbv728vwPk1wMT) | 3:25 | 2024-12-13 | 2026-08-01 |
 | [Simbonga Ngothando](https://open.spotify.com/track/0AIxiKh3tOVohb2Zy3aUVB) | [Bucy Radebe](https://open.spotify.com/artist/1WGKiafAx1c18ty6gq2d71), [Vusi Nova](https://open.spotify.com/artist/2C8mhxSmlfxCMCthQqvp5Z) | [The Grace Encounter, Vol\. 1](https://open.spotify.com/album/64aG7RnhvozvS4OezWOljc) | 5:19 | 2022-09-22 | 2022-10-21 |
 | [Simoja](https://open.spotify.com/track/1U0VRIOUGgJMFPzJEZxZ4s) | [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp), [Kabelo Sings](https://open.spotify.com/artist/3YOKEbNmcMxvIDpZxw4jvn), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i) | [Simoja](https://open.spotify.com/album/3L7qEZhdmYLG8HlKvmivFw) | 7:03 | 2023-08-17 | 2023-09-01 |
 | [Sindawonye](https://open.spotify.com/track/5rGFYpzLXh67qLuHhePR9u) | [Sandy](https://open.spotify.com/artist/1Avh3R9eyEkeHtyULsQi9L) | [Sindawonye](https://open.spotify.com/album/5fUHWIooJ4VfJIwG5rKSm8) | 3:09 | 2025-06-27 | 2025-10-04 |

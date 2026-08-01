@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: A Girl Named Sue
 
-566 songs - 1 day 7 hr 39 min
+567 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Comme la grêle](https://open.spotify.com/track/5YIZ8Fowm0Esx9qbf8gBd4) | [Philippe Maurice](https://open.spotify.com/artist/44XRqF4u8TNCRGzk6NUQ3N) | [Comme la grêle](https://open.spotify.com/album/0lz26PdK5PhGX9k5UyA0vv) | 2:39 | 2026-05-08 | 2026-07-18 |
 | [Comme la mer](https://open.spotify.com/track/43OJDSAjDYdKthKMgwYVWS) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc), [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Comme la mer](https://open.spotify.com/album/7HnS12GwTNp8WDo48ZkiV8) | 4:14 | 2025-01-10 | 2025-02-08 |
 | [Comme les pigeons d'argile](https://open.spotify.com/track/4fCENMUKSgBffOnSDGI1M2) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Comme les pigeons d'argile](https://open.spotify.com/album/6uZEfZaWRYOZxHMwkNnOdE) | 4:13 | 2024-10-18 | 2024-11-23 |
+| [Comme un bébé](https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:09 | 2026-07-31 |  |
 | [Comme un Train](https://open.spotify.com/track/0JTGupsaWlcOHyI41Xn7Xk) | [le.Panda](https://open.spotify.com/artist/2sObweidtH0abGLq6BXqkn) | [On Part en Vacances](https://open.spotify.com/album/0SbnyJhzHmt63cZgjXUV2J) | 3:53 | 2026-01-09 | 2026-05-09 |
 | [Comment Avancer](https://open.spotify.com/track/26ScK8AH5PEIQZCg7qLtWE) | [Ariane Simard](https://open.spotify.com/artist/7qyObt9S56Vj8MAxHBazVe) | [Comment Avancer](https://open.spotify.com/album/4oZ82d4dMRCHY38H3ZFmbq) | 2:25 | 2025-10-31 | 2026-01-31 |
 | [Confession](https://open.spotify.com/track/1wXFabrBrlDTr7SJclT1v5) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Confession](https://open.spotify.com/album/5ZBZ0cDomdZ9bacYd8KV1P) | 3:39 | 2026-04-03 | 2026-07-18 |
@@ -445,7 +446,7 @@
 | [Roi de verre](https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Verger](https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe) | 3:33 | 2026-04-17 | 2026-07-25 |
 | [Roses](https://open.spotify.com/track/1YDMR9mA86CqY7uBMsitXF) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Something More](https://open.spotify.com/album/09TCXjNpzMmadwJdLw0x3w) | 3:55 | 2026-05-15 |  |
 | [Rouler en août](https://open.spotify.com/track/7if4mulQZiyZ9ZK4grdW3j) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Rouler en août](https://open.spotify.com/album/2nERBo365hzapvIzvDi7dU) | 4:16 | 2025-05-16 | 2025-07-05 |
-| [Râ](https://open.spotify.com/track/7bY0a9gNYwEy895mpYPtMx) | [Pastel Barbo](https://open.spotify.com/artist/3abwdC0noTf5gkzwKdXVzM) | [Râ](https://open.spotify.com/album/3T1RDxhshQMgd50oJeLmoa) | 4:07 | 2026-05-29 |  |
+| [Râ](https://open.spotify.com/track/7bY0a9gNYwEy895mpYPtMx) | [Pastel Barbo](https://open.spotify.com/artist/3abwdC0noTf5gkzwKdXVzM) | [Râ](https://open.spotify.com/album/3T1RDxhshQMgd50oJeLmoa) | 4:07 | 2026-05-29 | 2026-08-01 |
 | [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 | 2026-01-16 | 2026-04-11 |
 | [Répondre aux oiseaux](https://open.spotify.com/track/0jSeM1z5vSzWujlPPiLipt) | [Alex Nevsky](https://open.spotify.com/artist/0SIFfM1SbfMzDXpzZZ8PVc) | [Répondre aux oiseaux](https://open.spotify.com/album/0iTsz5DhBS1FXuUJNq6Yjq) | 3:30 | 2024-06-28 | 2025-01-11 |
 | [Rétroviseur](https://open.spotify.com/track/1wSc9EIjX3JMvQLcxEdPI0) | [Simon Harnois](https://open.spotify.com/artist/5UnrKWsKqmICZmyIv770Mf) | [Rétroviseur](https://open.spotify.com/album/7nnzgHc9ovH90uTiFbKA0R) | 3:24 | 2025-10-24 | 2025-11-15 |

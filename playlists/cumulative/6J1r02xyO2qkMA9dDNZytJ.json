@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Body Action",
+        "url": "https://open.spotify.com/album/0fTpOaTU65zAIs6UCE1xig"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331508,
+      "name": "Body Action",
+      "url": "https://open.spotify.com/track/2ehc5VYZ2ktmEQO90cYjnG"
+    },
+    {
+      "album": {
         "name": "Body Move",
         "url": "https://open.spotify.com/album/5s8QRKX9HB8BYO8FyEuS7r"
       },
@@ -3473,6 +3491,28 @@
     },
     {
       "album": {
+        "name": "Magalenha",
+        "url": "https://open.spotify.com/album/5TGeVJsdRFj93bGeuil8ng"
+      },
+      "artists": [
+        {
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170893,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/650kG0vQyMypQcLSoTcrgU"
+    },
+    {
+      "album": {
         "name": "Magic Sax",
         "url": "https://open.spotify.com/album/5ZjEfIozL50KwP7MhiH49C"
       },
@@ -3784,6 +3824,24 @@
       "duration_ms": 150028,
       "name": "No Pares Sigue",
       "url": "https://open.spotify.com/track/4NLxZv2BWJ9T8vFOzFzB9N"
+    },
+    {
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/61lsKLJet7tYHLhqhBccH5"
+      },
+      "artists": [
+        {
+          "name": "Roxe",
+          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163846,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/4Rm4KQmb8kzub9hZgiZvtn"
     },
     {
       "album": {
@@ -4456,6 +4514,24 @@
       "duration_ms": 183735,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/47ChGwpA9WFWsr18z1zfIs"
+    },
+    {
+      "album": {
+        "name": "Pushin' On",
+        "url": "https://open.spotify.com/album/1weHSnCa3BVh3BK8A8akyy"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Pushin' On - Radio Edit",
+      "url": "https://open.spotify.com/track/6Ew3KMWtyrCD8glkQLf4M5"
     },
     {
       "album": {
@@ -5762,6 +5838,24 @@
       "duration_ms": 180923,
       "name": "Trumpet Man",
       "url": "https://open.spotify.com/track/4ywtYcNxDcCzk8KsM6Oynj"
+    },
+    {
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/7tmEkTpURpjrPwpyzxMF30"
+      },
+      "artists": [
+        {
+          "name": "Ben Remember",
+          "url": "https://open.spotify.com/artist/4QDXiDOwAxmzwZOaqP2ePc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0cLqFiwevvLmNH8EmP0aAB"
     },
     {
       "album": {

@@ -1097,6 +1097,32 @@
     },
     {
       "album": {
+        "name": "Born From Love",
+        "url": "https://open.spotify.com/album/23DzNFJ2flHCHLCigIZpmU"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+        },
+        {
+          "name": "Sarah McMillan",
+          "url": "https://open.spotify.com/artist/1taeI8pm5kXswB7L4603Tz"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307634,
+      "name": "Born From Love",
+      "url": "https://open.spotify.com/track/2H8QpLr7yNqJQybbj9LAwB"
+    },
+    {
+      "album": {
         "name": "Breakdown",
         "url": "https://open.spotify.com/album/7cMfRtuyqutQY7maMsgvzx"
       },
@@ -4292,7 +4318,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 237180,
       "name": "Halfway Home",
       "url": "https://open.spotify.com/track/0aS1qk5IIimBhHzwhbYruc"
@@ -7225,6 +7251,28 @@
     },
     {
       "album": {
+        "name": "Land Of The Living",
+        "url": "https://open.spotify.com/album/5zTOLxrH77uvVSlezmQjd1"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        },
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204110,
+      "name": "Land Of The Living",
+      "url": "https://open.spotify.com/track/57DbmQO24HNKBlc7ykGlpo"
+    },
+    {
+      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
       },
@@ -7518,7 +7566,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 224500,
       "name": "LIFT MY EYES (for MAF)",
       "url": "https://open.spotify.com/track/0Sr0LIQRjhRJfna2mzovWQ"
@@ -8525,6 +8573,24 @@
     },
     {
       "album": {
+        "name": "My Hope",
+        "url": "https://open.spotify.com/album/2wxza20WnAbFHG5XsK6iik"
+      },
+      "artists": [
+        {
+          "name": "Caleb & John",
+          "url": "https://open.spotify.com/artist/25Yii55hUvvB2az8GGSsH0"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185676,
+      "name": "My Hope",
+      "url": "https://open.spotify.com/track/1DDu7QIrnpCq1veaLrfRHp"
+    },
+    {
+      "album": {
         "name": "My Hope Is Jesus",
         "url": "https://open.spotify.com/album/0suKwr6W4OBe14hvXCTFpS"
       },
@@ -8648,7 +8714,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 180257,
       "name": "Narrow",
       "url": "https://open.spotify.com/track/67RpNOWGcaLw6TxgaUhYRu"
@@ -9912,7 +9978,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 207330,
       "name": "Proud",
       "url": "https://open.spotify.com/track/2oMYjV0wZsF1SqA8oObeLx"
@@ -9952,7 +10018,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 199160,
       "name": "Reaching For The Light",
       "url": "https://open.spotify.com/track/4WNSoMT4yAw4O6qRFKHU3h"
@@ -10350,6 +10416,24 @@
       "duration_ms": 198333,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
+    },
+    {
+      "album": {
+        "name": "Room For You",
+        "url": "https://open.spotify.com/album/7GO9SfdtFw7V5QkSaFRAcx"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Room For You",
+      "url": "https://open.spotify.com/track/3wnKMSkdUqoofwfkNYjnTD"
     },
     {
       "album": {
@@ -11400,6 +11484,24 @@
       "duration_ms": 212273,
       "name": "Still Pretty Good",
       "url": "https://open.spotify.com/track/1kW3QRFTnynPSNDdAv9DxJ"
+    },
+    {
+      "album": {
+        "name": "Still Running To You",
+        "url": "https://open.spotify.com/album/2HFD80cz07re5kYrtRSSCg"
+      },
+      "artists": [
+        {
+          "name": "Natalie Layne",
+          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179433,
+      "name": "STILL RUNNING TO YOU",
+      "url": "https://open.spotify.com/track/4LnePDkoMbuSVfHRnc4Hhu"
     },
     {
       "album": {
@@ -13435,6 +13537,24 @@
     },
     {
       "album": {
+        "name": "Wait On The Lord",
+        "url": "https://open.spotify.com/album/51LgB6q6ZthoNHPKdHbb7Y"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205285,
+      "name": "Wait On The Lord",
+      "url": "https://open.spotify.com/track/0h5jjjBxU7q8Uv6LyGXabN"
+    },
+    {
+      "album": {
         "name": "Wake Me Up Again",
         "url": "https://open.spotify.com/album/6LDKdoLyvVkpXgdO5foy6u"
       },
@@ -13468,6 +13588,24 @@
       "duration_ms": 237179,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
+    },
+    {
+      "album": {
+        "name": "Walk On The Water Moment",
+        "url": "https://open.spotify.com/album/2lwOBASMEA2v0yH1DeRD4V"
+      },
+      "artists": [
+        {
+          "name": "Matt Hammitt",
+          "url": "https://open.spotify.com/artist/0o77vi5tCsW348tzvdjNPw"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192871,
+      "name": "Walk On The Water Moment",
+      "url": "https://open.spotify.com/track/7cm7LxRedGYggDL4x24ndh"
     },
     {
       "album": {
@@ -13518,7 +13656,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 175770,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1"
@@ -14926,7 +15064,7 @@
       ],
       "date_added": "2026-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 254184,
       "name": "You Lead Me",
       "url": "https://open.spotify.com/track/7HlhdDdgOd9Z7WHUaMDZCz"

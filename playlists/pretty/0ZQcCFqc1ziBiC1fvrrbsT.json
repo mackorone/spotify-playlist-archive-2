@@ -1,260 +1,516 @@
 {
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
-  "num_followers": 13584,
+  "num_followers": 13588,
   "original_name": "BrooklynVegan's Favorite Songs of the Week",
   "owner": {
     "name": "BrooklynVegan",
     "url": "https://open.spotify.com/user/brooklynvegan"
   },
-  "snapshot_id": "AAAYWH00Dq5BUf0O0QS0OKibYGjOdf49",
+  "snapshot_id": "AAAYWinWQKVZ6zid56UditiQ958I2OD1",
   "tracks": [
     {
-      "added_at": "2026-07-24 21:11:31",
+      "added_at": "2026-07-31 22:48:05",
       "album": {
-        "name": "Indu",
-        "url": "https://open.spotify.com/album/1EwHY1T5loMqsJh1XOU4x2"
+        "name": "Blood Spilled",
+        "url": "https://open.spotify.com/album/5cmRb1dIr1CVgxcbygLRVs"
       },
       "artists": [
         {
-          "name": "Greg Freeman",
-          "url": "https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ"
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
         }
       ],
-      "duration_ms": 261651,
-      "name": "Indu",
-      "url": "https://open.spotify.com/track/6cZ3PHOCMsI9ZPyDhmZk7Q"
+      "duration_ms": 358974,
+      "name": "Blood Spilled",
+      "url": "https://open.spotify.com/track/22uDPIieGlHsIOt6pwIcGJ"
     },
     {
-      "added_at": "2026-07-24 21:11:31",
+      "added_at": "2026-07-31 22:48:05",
       "album": {
-        "name": "Blue Shadows (feat. Karen O)",
-        "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
+        "name": "Chinook",
+        "url": "https://open.spotify.com/album/4IYtFUfBl3Lr1yptHXNlPh"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+          "name": "Mallory Hawk",
+          "url": "https://open.spotify.com/artist/54v01c74ZMDG5AsKmVQcvD"
+        }
+      ],
+      "duration_ms": 206308,
+      "name": "The Mirror",
+      "url": "https://open.spotify.com/track/3cGEwfJBvyp7KRbUKcCkmO"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "AH HA",
+        "url": "https://open.spotify.com/album/44WWolcd1NcDpLgkKNiyzX"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "AH HA",
+      "url": "https://open.spotify.com/track/7awgIcUKyMTpuQjT7HzSfN"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "She Swear I'm Colorblind (feat. billy woods)",
+        "url": "https://open.spotify.com/album/4g0SbA564obwHfZXiRzaV4"
+      },
+      "artists": [
+        {
+          "name": "Open Mike Eagle",
+          "url": "https://open.spotify.com/artist/5CuU6SRJjbbZL926nSGGxX"
         },
         {
-          "name": "Karen O",
-          "url": "https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Blue Shadows (feat. Karen O)",
-      "url": "https://open.spotify.com/track/5bN5To0VLbNBKQDzJ1Lk6c"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "Camera",
-        "url": "https://open.spotify.com/album/2P5WYw7vAwb5jeFPIU1lMc"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151438,
-      "name": "Camera",
-      "url": "https://open.spotify.com/track/1C95XJLGL9xyMlsES1uVDQ"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "Hard Beat",
-        "url": "https://open.spotify.com/album/3atdDfI9FcTZhrZQeOi8W0"
-      },
-      "artists": [
-        {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
-        }
-      ],
-      "duration_ms": 225706,
-      "name": "Hard Beat",
-      "url": "https://open.spotify.com/track/2yksZVaKYIbh4IEEAa2kJV"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "Reality Awaits",
-        "url": "https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 308093,
-      "name": "The Fruits of Conquest",
-      "url": "https://open.spotify.com/track/4VyIPdTdDzJ1zkq2vvBmrW"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "Light Over There",
-        "url": "https://open.spotify.com/album/7j8sSYoqPEZ1HSwMHLnr6n"
-      },
-      "artists": [
-        {
-          "name": "RIP Magic",
-          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
-        }
-      ],
-      "duration_ms": 246501,
-      "name": "Light Over There",
-      "url": "https://open.spotify.com/track/3WToaJeNig1j8gOFJMbjch"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "Sounds We Cannot Hear",
-        "url": "https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt"
-      },
-      "artists": [
-        {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
-        }
-      ],
-      "duration_ms": 326093,
-      "name": "Sounds We Cannot Hear",
-      "url": "https://open.spotify.com/track/0dlpa3bEXIlnUWal4t7DUy"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "Danny",
-        "url": "https://open.spotify.com/album/3pFVEW9D2pVk5XbnLvNMD3"
-      },
-      "artists": [
-        {
-          "name": "Stef Chura",
-          "url": "https://open.spotify.com/artist/1mZ4u1cMEPjsu6uEa6OxCq"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "Danny",
-      "url": "https://open.spotify.com/track/1XWdfHu30Y6ZJJyU5jB6Zz"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "Reclusion",
-        "url": "https://open.spotify.com/album/7ygwHUdrWPK60i3Jb8hj89"
-      },
-      "artists": [
-        {
-          "name": "Self Defense Family",
-          "url": "https://open.spotify.com/artist/2I2cZ5S4iWHVr1aOh0iuyg"
-        }
-      ],
-      "duration_ms": 151853,
-      "name": "Reclusion",
-      "url": "https://open.spotify.com/track/7w8YycBbTzpVYGoYdCuaUp"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "Let's Be Models b/w Two Dollar Pistol",
-        "url": "https://open.spotify.com/album/0eGEadMSObGGoS3vRkefjv"
-      },
-      "artists": [
-        {
-          "name": "Brennan Wedl",
-          "url": "https://open.spotify.com/artist/60YFU6VpDwNGQnFYU63Efh"
-        }
-      ],
-      "duration_ms": 171660,
-      "name": "Two Dollar Pistol",
-      "url": "https://open.spotify.com/track/5Zpgg55LWZ6jiS0FWVgvLE"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "Dream of Water",
-        "url": "https://open.spotify.com/album/2A5KAcGxoQsCQWojb5bgwd"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Hands",
-          "url": "https://open.spotify.com/artist/2PSSSxatOj6DCkOF36LiqD"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "Dream of Water",
-      "url": "https://open.spotify.com/track/0O31PWGAgiKyR1QBDuZWBg"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "Day In The Sun",
-        "url": "https://open.spotify.com/album/0SkJrzywgzbavU9Iixr3BN"
-      },
-      "artists": [
-        {
-          "name": "Teenage Fanclub",
-          "url": "https://open.spotify.com/artist/2Sp19cOHSqAUlE64hekARW"
-        }
-      ],
-      "duration_ms": 190188,
-      "name": "Day In The Sun",
-      "url": "https://open.spotify.com/track/00dKwN1r9vHzUTBQbvCtyj"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "Stoop to Me",
-        "url": "https://open.spotify.com/album/4ExTOWeLkFylqhBUdgV3Kx"
-      },
-      "artists": [
-        {
-          "name": "The Tubs",
-          "url": "https://open.spotify.com/artist/6kdAf6E0EouXKBpBZN1Sx9"
-        }
-      ],
-      "duration_ms": 227207,
-      "name": "Stoop to Me",
-      "url": "https://open.spotify.com/track/4jd9ES4qpTyTLz6C5aSxap"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "The Confuser",
-        "url": "https://open.spotify.com/album/7yxbW9t9raKaKbm0HDOtyD"
-      },
-      "artists": [
-        {
-          "name": "Robyn Hitchcock",
-          "url": "https://open.spotify.com/artist/0O0g9JMOVNoIgLG6dgaYMY"
-        }
-      ],
-      "duration_ms": 291880,
-      "name": "Ghost in Sunlight",
-      "url": "https://open.spotify.com/track/3yFkYinL67tEh3MWzbZ9l6"
-    },
-    {
-      "added_at": "2026-07-24 21:11:31",
-      "album": {
-        "name": "Allbarone Versions",
-        "url": "https://open.spotify.com/album/2blBBiiJZp0Mb8K9Q5lcKR"
-      },
-      "artists": [
-        {
-          "name": "Baxter Dury",
-          "url": "https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O"
+          "name": "Kenny Segal",
+          "url": "https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO"
         },
         {
-          "name": "Paul Epworth",
-          "url": "https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8"
+          "name": "billy woods",
+          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
         }
       ],
-      "duration_ms": 438077,
-      "name": "Return Of The Sharp Heads - Paul Epworth Extended Version",
-      "url": "https://open.spotify.com/track/6ZhTZtb2FrvCar1MaAyMHC"
+      "duration_ms": 209538,
+      "name": "She Swear I'm Colorblind (feat. billy woods)",
+      "url": "https://open.spotify.com/track/4GrMJgW9WoXWVye8VD5jyn"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Ever The Optimist",
+        "url": "https://open.spotify.com/album/2zyPBJh7lOLWt41E76H77N"
+      },
+      "artists": [
+        {
+          "name": "Trashcan Sinatras",
+          "url": "https://open.spotify.com/artist/0i2IEcWvtHUBYPkYWwCgjC"
+        }
+      ],
+      "duration_ms": 195245,
+      "name": "A View From Nowhere",
+      "url": "https://open.spotify.com/track/2o0NMz9OTDcHBceK9v0g3j"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "The Difference",
+        "url": "https://open.spotify.com/album/6gudks09HSqHko6SYzbwL9"
+      },
+      "artists": [
+        {
+          "name": "Lora Mouna",
+          "url": "https://open.spotify.com/artist/64E7a7byU73tGzTq79JXVX"
+        }
+      ],
+      "duration_ms": 271004,
+      "name": "The Difference",
+      "url": "https://open.spotify.com/track/2UFn8yLKOlmA5cHZWrGyUD"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Blowin' Up",
+        "url": "https://open.spotify.com/album/3gNrpYMF59xU0Tqclk6Cfn"
+      },
+      "artists": [
+        {
+          "name": "Dinosaur Jr.",
+          "url": "https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ"
+        }
+      ],
+      "duration_ms": 185101,
+      "name": "Blowin' Up",
+      "url": "https://open.spotify.com/track/3asZt4KUliAqvPJ42gGMOd"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Fixer",
+        "url": "https://open.spotify.com/album/6RGMUCmsgM53W5zq8xa49j"
+      },
+      "artists": [
+        {
+          "name": "Elanor Moss",
+          "url": "https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz"
+        }
+      ],
+      "duration_ms": 330761,
+      "name": "Fixer",
+      "url": "https://open.spotify.com/track/1djaH8wIY6HqrkDMv1gsfQ"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "WannaCry",
+        "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "duration_ms": 219367,
+      "name": "WannaCry",
+      "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Billboard Style",
+        "url": "https://open.spotify.com/album/5J68BHB4bwuKeNXx6UjgIL"
+      },
+      "artists": [
+        {
+          "name": "Billboard Style",
+          "url": "https://open.spotify.com/artist/3oqmZ1rujvoBP7ZyMBKqUQ"
+        }
+      ],
+      "duration_ms": 170196,
+      "name": "Billboard Style",
+      "url": "https://open.spotify.com/track/35ve61xDrQy5Q4U20CCttN"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Smokestack",
+        "url": "https://open.spotify.com/album/7cDSxdftTEfukBZGe8rgst"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 283302,
+      "name": "Smokestack",
+      "url": "https://open.spotify.com/track/6sM6OaLJRpJszcQKac5DL2"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Love In Every Direction",
+        "url": "https://open.spotify.com/album/4eUOmQPbLZMBK7RNnKBOJ0"
+      },
+      "artists": [
+        {
+          "name": "Smidley",
+          "url": "https://open.spotify.com/artist/4VaBF2UB61CMQ45Xtp6vPc"
+        }
+      ],
+      "duration_ms": 276485,
+      "name": "Love In Every Direction",
+      "url": "https://open.spotify.com/track/5Or8iXNE9Pu7iJqhZzpTEW"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Blood In The Grass",
+        "url": "https://open.spotify.com/album/1IkpNZIcss49dcT0uaLGfh"
+      },
+      "artists": [
+        {
+          "name": "Sour Widows",
+          "url": "https://open.spotify.com/artist/5NvbTsi0Mi1mdeDchU2YkG"
+        }
+      ],
+      "duration_ms": 259746,
+      "name": "Blood In The Grass",
+      "url": "https://open.spotify.com/track/2nlEX8fXYLqBHrMVGlME7A"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "The Heidelberg Fisherman's Ball",
+        "url": "https://open.spotify.com/album/3vc1Vo1JXgjTnMdal0eGTW"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "The Heidelberg Fisherman's Ball",
+      "url": "https://open.spotify.com/track/36vZum6jdjadeXbi2qfiUZ"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Chewing Glass",
+        "url": "https://open.spotify.com/album/2Q5f86Kf8bU37e777L4WVn"
+      },
+      "artists": [
+        {
+          "name": "Bimbo",
+          "url": "https://open.spotify.com/artist/1piQD8pN03mElx45qzDQcQ"
+        }
+      ],
+      "duration_ms": 203413,
+      "name": "Chewing Glass",
+      "url": "https://open.spotify.com/track/249uRRytpZWXndblFS5KBB"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "They Have Names",
+        "url": "https://open.spotify.com/album/064iEVC2KDk5iEbU5jDUep"
+      },
+      "artists": [
+        {
+          "name": "N\u00d8 MAN",
+          "url": "https://open.spotify.com/artist/3YVOPyK3WSherrqK2E34CZ"
+        }
+      ],
+      "duration_ms": 294826,
+      "name": "They Have Names",
+      "url": "https://open.spotify.com/track/775xnm4rCXmN61Phy1Jqkc"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Wall of Skulls",
+        "url": "https://open.spotify.com/album/5YhpCKcFtWlt8aP07imOPA"
+      },
+      "artists": [
+        {
+          "name": "Judiciary",
+          "url": "https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3"
+        }
+      ],
+      "duration_ms": 177733,
+      "name": "Wall of Skulls",
+      "url": "https://open.spotify.com/track/4J6N2ykIlFQP4VK4lVBRjK"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Carrion Birds on the Ark",
+        "url": "https://open.spotify.com/album/5aarzPE4m6tfzAWB9R8Cfp"
+      },
+      "artists": [
+        {
+          "name": "Dreamwell",
+          "url": "https://open.spotify.com/artist/4iW7dCnHbqN5YErzN7FghD"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Carrion Birds on the Ark",
+      "url": "https://open.spotify.com/track/5R8fTiEQn1SWjBl7cljjXL"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Sick of the Times",
+        "url": "https://open.spotify.com/album/57HhpaXy1Lzw3IHV8bSU8Y"
+      },
+      "artists": [
+        {
+          "name": "THAO",
+          "url": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG"
+        },
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        },
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 198168,
+      "name": "Sick of the Times",
+      "url": "https://open.spotify.com/track/6jzy06moTCnZr7XZKm3tvj"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Slugs in the Marigolds",
+        "url": "https://open.spotify.com/album/5yW2883uJNyIR7HaT0biol"
+      },
+      "artists": [
+        {
+          "name": "Shearwater",
+          "url": "https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49"
+        }
+      ],
+      "duration_ms": 222444,
+      "name": "Slugs in the Marigolds",
+      "url": "https://open.spotify.com/track/73DkiQ4TH1aSNpAw9qSi7f"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Neverland For Now",
+        "url": "https://open.spotify.com/album/2FNDy7l1K7lnXkKRNBG5AZ"
+      },
+      "artists": [
+        {
+          "name": "The Cleaners From Venus",
+          "url": "https://open.spotify.com/artist/7ppwXAQNWfPDGu22hCk5Yr"
+        }
+      ],
+      "duration_ms": 176614,
+      "name": "Neverland For Now",
+      "url": "https://open.spotify.com/track/6RdZHVA7LjRGzdD9EOmcC7"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "White Light",
+        "url": "https://open.spotify.com/album/3UoEprlqTWBFArTflTF2Ls"
+      },
+      "artists": [
+        {
+          "name": "Locust",
+          "url": "https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N"
+        },
+        {
+          "name": "Olive Kimoto",
+          "url": "https://open.spotify.com/artist/2mtgDA3i2MqqAeRw8AGVY6"
+        }
+      ],
+      "duration_ms": 294001,
+      "name": "White Light",
+      "url": "https://open.spotify.com/track/2thwoeCRi2QVUUZm4IGGQr"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Calabasas",
+        "url": "https://open.spotify.com/album/2y7ZEJJ3dTLun5UFI2BdiV"
+      },
+      "artists": [
+        {
+          "name": "Whyte Horses",
+          "url": "https://open.spotify.com/artist/67tGvTTG36JaxuJ0UBkMzu"
+        },
+        {
+          "name": "Jake Shears",
+          "url": "https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1"
+        }
+      ],
+      "duration_ms": 211709,
+      "name": "Calabasas",
+      "url": "https://open.spotify.com/track/6tkjHgARanFvxRmdft8v1C"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Cellophane Girls",
+        "url": "https://open.spotify.com/album/69wtQP1vzvTycCs620nbHd"
+      },
+      "artists": [
+        {
+          "name": "2nd Grade",
+          "url": "https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb"
+        }
+      ],
+      "duration_ms": 160535,
+      "name": "Cellophane Girls",
+      "url": "https://open.spotify.com/track/4z5EPJkrHNywEISoyJECQx"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Here It Comes",
+        "url": "https://open.spotify.com/album/3sKe7QBx9iKWcST6N1mVgw"
+      },
+      "artists": [
+        {
+          "name": "Sennen",
+          "url": "https://open.spotify.com/artist/4Oj3M6yChNMnrXHAa5uWxa"
+        }
+      ],
+      "duration_ms": 262880,
+      "name": "Here It Comes",
+      "url": "https://open.spotify.com/track/2P60dDSdSSAgT8Y9YNCL2k"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "EXPO, REMIXED",
+        "url": "https://open.spotify.com/album/4mZvj1aQtf5LX8qjXkeT7q"
+      },
+      "artists": [
+        {
+          "name": "Ulrika Spacek",
+          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+        },
+        {
+          "name": "WA Keys",
+          "url": "https://open.spotify.com/artist/16dCNVDc3CPLScjn4ndOgu"
+        }
+      ],
+      "duration_ms": 258160,
+      "name": "Build a Box Then Break It - WA Keys remix",
+      "url": "https://open.spotify.com/track/1KUX34qeodJdPM0yWFIXfe"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "n\u00fcyork",
+        "url": "https://open.spotify.com/album/0nlpRwTEGEpaEDkMaYzpKI"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        },
+        {
+          "name": "Justin Strauss",
+          "url": "https://open.spotify.com/artist/0Ffu60mxLNLa7b7Z3VSS01"
+        }
+      ],
+      "duration_ms": 450247,
+      "name": "Beatback - Justin Strauss en La Piscina Remix",
+      "url": "https://open.spotify.com/track/2pBpllL2DWlk0vnakc59HA"
+    },
+    {
+      "added_at": "2026-07-31 22:48:05",
+      "album": {
+        "name": "Renascent",
+        "url": "https://open.spotify.com/album/5YocvK2G7GuMDS1YHX51YV"
+      },
+      "artists": [
+        {
+          "name": "The Durutti Column",
+          "url": "https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe"
+        },
+        {
+          "name": "Lucas Elliott",
+          "url": "https://open.spotify.com/artist/76vzrw0PIHge0AN2Gnuhiw"
+        }
+      ],
+      "duration_ms": 207203,
+      "name": "All They See Is Fire",
+      "url": "https://open.spotify.com/track/27iyqGK5hAB27cs0enlXIC"
     }
   ],
   "unique_name": "BrooklynVegan's Favorite Songs of the Week",

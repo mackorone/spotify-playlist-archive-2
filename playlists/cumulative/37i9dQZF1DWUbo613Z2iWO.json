@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: REMI",
+  "description": "R&B of the moment by the artists of the future. Cover: Josh Levi",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -5373,7 +5373,7 @@
     },
     {
       "album": {
-        "name": "Can't Wait",
+        "name": "CAN'T WAIT",
         "url": "https://open.spotify.com/album/3hW3JXhIe8WwkPDBD5Ko3E"
       },
       "artists": [
@@ -5386,7 +5386,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180171,
-      "name": "Can't Wait",
+      "name": "CAN'T WAIT",
       "url": "https://open.spotify.com/track/6vsNjbln9XwsNtayWdWAAW"
     },
     {
@@ -11251,6 +11251,24 @@
     },
     {
       "album": {
+        "name": "Fine as U",
+        "url": "https://open.spotify.com/album/3LNjz8Nj2ZHQVDtgxPlZqK"
+      },
+      "artists": [
+        {
+          "name": "Eli Derby",
+          "url": "https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Fine as U",
+      "url": "https://open.spotify.com/track/4xhsV40HdGBdi17AAeIGtB"
+    },
+    {
+      "album": {
         "name": "Fine Wine (ft. Amaarae)",
         "url": "https://open.spotify.com/album/6BIs3FxdoJXjJFVAbPWR61"
       },
@@ -15591,6 +15609,24 @@
     },
     {
       "album": {
+        "name": "I LOVE YOUR BODY",
+        "url": "https://open.spotify.com/album/1TREZBcJvxodOvigkTQYDQ"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "I LOVE YOUR BODY",
+      "url": "https://open.spotify.com/track/1wWJmkrJi5IaNb2512YEcF"
+    },
+    {
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/5COOaPOnTPmAzwrZIqbFoP"
       },
@@ -16088,7 +16124,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 208890,
       "name": "If Only",
       "url": "https://open.spotify.com/track/6Lo1FtdhJ4htWxJrDBED7c"
@@ -19954,7 +19990,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 234503,
       "name": "LYIN (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/5e3T7BYEf7eQslb5C8BbJK"
@@ -21588,7 +21624,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 178586,
       "name": "Myself (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
@@ -24589,6 +24625,28 @@
     },
     {
       "album": {
+        "name": "LVRS PARADISE (SIDE B)",
+        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157168,
+      "name": "PLAY YA CARDS",
+      "url": "https://open.spotify.com/track/7wcYegXaOifWGzNQyhIHg5"
+    },
+    {
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
       },
@@ -24784,6 +24842,24 @@
       "duration_ms": 154212,
       "name": "Poppin Out (Mistakes)",
       "url": "https://open.spotify.com/track/5LWazXYOx5t8R5EPFuROfL"
+    },
+    {
+      "album": {
+        "name": "PORSCHE 911",
+        "url": "https://open.spotify.com/album/16gHuyEdPoJJriGwuGaLJe"
+      },
+      "artists": [
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "PORSCHE 911",
+      "url": "https://open.spotify.com/track/1kjuRoY7VCpoYBL89M1fjQ"
     },
     {
       "album": {
@@ -30751,6 +30827,24 @@
     },
     {
       "album": {
+        "name": "SWERVE",
+        "url": "https://open.spotify.com/album/5ij7M5p7MKeR13lrZwoDSr"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171783,
+      "name": "SWERVE",
+      "url": "https://open.spotify.com/track/7hcutCVlcgyfX0j95G1UiV"
+    },
+    {
+      "album": {
         "name": "SWITCH",
         "url": "https://open.spotify.com/album/25PmquWhVVEAHM4b0BDxnW"
       },
@@ -31924,7 +32018,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 179146,
       "name": "Things We Do",
       "url": "https://open.spotify.com/track/2sRG4WyPyGNLC20djAMXAL"

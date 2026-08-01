@@ -9971,6 +9971,24 @@
     },
     {
       "album": {
+        "name": "Nimrods Original Soundtrack",
+        "url": "https://open.spotify.com/album/4Fz1Rz0WlGAbBSht1UPmNw"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302901,
+      "name": "Know Your Enemy - Live",
+      "url": "https://open.spotify.com/track/6l43GrYuUmTJmcOgN5Z7cn"
+    },
+    {
+      "album": {
         "name": "Kon! Kon! (feat. Bloodywood)",
         "url": "https://open.spotify.com/album/15RUsiYzHzWFxCZqKjnW4T"
       },
@@ -13470,7 +13488,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 328666,
       "name": "Ozzy's Song",
       "url": "https://open.spotify.com/track/3X3jZCrNcpVryiWGn7DvJK"
@@ -17683,6 +17701,28 @@
     },
     {
       "album": {
+        "name": "The Singularity: Ekleipsis",
+        "url": "https://open.spotify.com/album/5ZGIZYHEABTEKAwjCb6H8O"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291125,
+      "name": "The Chandelier",
+      "url": "https://open.spotify.com/track/6MKZ5XhuLoUn0Z4QvQnlSc"
+    },
+    {
+      "album": {
         "name": "The Contract",
         "url": "https://open.spotify.com/album/2VHIo87YnEergnRfHnQN3J"
       },
@@ -18018,7 +18058,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 204753,
       "name": "The Kill - Acoustic",
       "url": "https://open.spotify.com/track/6oDjMFY8DJTASyYImW3FHW"

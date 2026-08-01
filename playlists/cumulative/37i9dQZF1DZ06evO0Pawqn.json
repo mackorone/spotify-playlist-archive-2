@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 178863,
       "name": "Alejate de Mi",
       "url": "https://open.spotify.com/track/0IUOHEG3OdCNDOctgDUlbk"
@@ -1714,6 +1714,28 @@
       "duration_ms": 162429,
       "name": "Se Me Hizo Facil",
       "url": "https://open.spotify.com/track/2aLcE8XA2Szi6lbhfeVBXW"
+    },
+    {
+      "album": {
+        "name": "Se Supone",
+        "url": "https://open.spotify.com/album/46lvd5Q6wvIF7l6TlDsDLj"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165887,
+      "name": "Se Supone",
+      "url": "https://open.spotify.com/track/0ilbMi7Ahnyr5qGQaeNdbl"
     },
     {
       "album": {

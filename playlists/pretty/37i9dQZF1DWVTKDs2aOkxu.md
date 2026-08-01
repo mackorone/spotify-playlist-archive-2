@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,940,080 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,939,892 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 61 | [Dior](https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [bitknot](https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ) | 3:32 |
 | 62 | [Diamond Ring](https://open.spotify.com/track/7x59f5TXOxDm5Kn1FUJdJ5) | [Kamran Khan](https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA) | [Diamond Ring](https://open.spotify.com/album/1ynwfs7HD97ar6EzT5CHjN) | 3:38 |
 | 63 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
-| 64 | [Track 2](https://open.spotify.com/track/71gMAJ1E0hCvZBXMx9Lp7x) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [Someone, somewhere](https://open.spotify.com/album/3zJlZ5ZyCtfsLeKTMX3k0d) | 0:00 |
+| 64 | [Bones](https://open.spotify.com/track/71gMAJ1E0hCvZBXMx9Lp7x) | [Bonnie Kemplay](https://open.spotify.com/artist/4hPxGC5HIlcK36XGqoYCpZ) | [Someone, somewhere](https://open.spotify.com/album/3zJlZ5ZyCtfsLeKTMX3k0d) | 3:19 |
 | 65 | [Fiction](https://open.spotify.com/track/2DQipMV2DpifJLEFoHiWDL) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [You're Gonna Need A Little Music](https://open.spotify.com/album/2gHgEJZETwfWKV2msyRDRC) | 2:40 |
 | 66 | [Cranberry](https://open.spotify.com/track/6NXm804iftHe3VKuKHSH4O) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Lovesweet](https://open.spotify.com/album/6N28jc2uCBf2mswIramLRa) | 3:14 |
 | 67 | [Flea Joint](https://open.spotify.com/track/7rFW7B7B6UTB5HsGiqrndr) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Flea Joint](https://open.spotify.com/album/5x7CBQCZtl6ie7L3GzEojA) | 4:29 |

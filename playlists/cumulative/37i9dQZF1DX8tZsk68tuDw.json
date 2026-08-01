@@ -4772,7 +4772,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 180000,
       "name": "ANYTHING GOES",
       "url": "https://open.spotify.com/track/4JZCJxqwRond3dcrywlNnz"
@@ -10385,6 +10385,24 @@
     },
     {
       "album": {
+        "name": "Booty Roll",
+        "url": "https://open.spotify.com/album/52aBf5hDkajXwXkaIsnLJD"
+      },
+      "artists": [
+        {
+          "name": "SEBS",
+          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165675,
+      "name": "Booty Roll",
+      "url": "https://open.spotify.com/track/3fVnYcsWzLWc1iwplYUwOg"
+    },
+    {
+      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
       },
@@ -12739,6 +12757,24 @@
     },
     {
       "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177240,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
+    },
+    {
+      "album": {
         "name": "Can't Stand To Lose",
         "url": "https://open.spotify.com/album/53MctoRNyj3OmoUVFgZcab"
       },
@@ -13056,6 +13092,28 @@
       "duration_ms": 173292,
       "name": "Cardboard Box",
       "url": "https://open.spotify.com/track/5LlxlDtfgb3uhCt7ryKcGa"
+    },
+    {
+      "album": {
+        "name": "Careful",
+        "url": "https://open.spotify.com/album/524f63QHVObJQoDoYjqGPF"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160911,
+      "name": "Careful",
+      "url": "https://open.spotify.com/track/1kk2PNrO9mfMuwEGnAOipt"
     },
     {
       "album": {
@@ -13872,7 +13930,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 182326,
       "name": "check check",
       "url": "https://open.spotify.com/track/287TkTdofAFvXB4EaT160W"
@@ -14830,7 +14888,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 147522,
       "name": "Closure",
       "url": "https://open.spotify.com/track/6aynKW70w06W8LyZaKpdAX"
@@ -16482,6 +16540,32 @@
       "duration_ms": 178804,
       "name": "Crank",
       "url": "https://open.spotify.com/track/0gtZ8DwXXeqGTc09iFWRBv"
+    },
+    {
+      "album": {
+        "name": "CRASH OUT",
+        "url": "https://open.spotify.com/album/3gCAoM9q5woXXbFcFEyLV1"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "sad alex",
+          "url": "https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175464,
+      "name": "CRASH OUT",
+      "url": "https://open.spotify.com/track/659fLEncISLHImCs2IkqO2"
     },
     {
       "album": {
@@ -33103,7 +33187,7 @@
     },
     {
       "album": {
-        "name": "Hey Everybody (Back In The Dance)",
+        "name": "Hey Everybody",
         "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
       },
       "artists": [
@@ -33116,7 +33200,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156498,
-      "name": "Hey Everybody (Back In The Dance)",
+      "name": "Hey Everybody",
       "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
     },
     {
@@ -44479,6 +44563,24 @@
     },
     {
       "album": {
+        "name": "Little More (Body Action)",
+        "url": "https://open.spotify.com/album/3KB4mdLmrMq4vhNFqbcacm"
+      },
+      "artists": [
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199626,
+      "name": "Little More (Body Action)",
+      "url": "https://open.spotify.com/track/7MMBk3p5G0SyPiNiUDgjPD"
+    },
+    {
+      "album": {
         "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
         "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
       },
@@ -45898,6 +46000,32 @@
       "duration_ms": 288000,
       "name": "Loud Enough",
       "url": "https://open.spotify.com/track/0SI641zicL3nfZJ30Uu92v"
+    },
+    {
+      "album": {
+        "name": "140 MAFIA",
+        "url": "https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP"
+      },
+      "artists": [
+        {
+          "name": "Mary Droppinz",
+          "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+        },
+        {
+          "name": "JONCASS",
+          "url": "https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025"
+        },
+        {
+          "name": "SVDKO",
+          "url": "https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3"
     },
     {
       "album": {
@@ -50606,7 +50734,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 178124,
       "name": "Move Shake",
       "url": "https://open.spotify.com/track/3zJ3HnuFWvYGNeVxafs4mu"
@@ -69245,6 +69373,28 @@
     },
     {
       "album": {
+        "name": "soulreply",
+        "url": "https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179311,
+      "name": "soulreply",
+      "url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8"
+    },
+    {
+      "album": {
         "name": "Sound of Vondel",
         "url": "https://open.spotify.com/album/06lNrvNMoitW60zkzXPWPy"
       },
@@ -70462,7 +70612,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 219428,
       "name": "STFU",
       "url": "https://open.spotify.com/track/33rOFwZOk1rs9OwvHL12cF"
@@ -71794,7 +71944,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 151568,
       "name": "Super Platinum (feat. Erick the Architect)",
       "url": "https://open.spotify.com/track/6n8EsWSTfaBMFvYZ6B5WRK"
@@ -71904,7 +72054,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 160025,
       "name": "Swagger Sound",
       "url": "https://open.spotify.com/track/3huOaiSWe9zJJYwu4M6MsP"
@@ -72702,6 +72852,32 @@
       "duration_ms": 252000,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/4LW9Va0bKfmHTruw5WoSsM"
+    },
+    {
+      "album": {
+        "name": "Take You There",
+        "url": "https://open.spotify.com/album/4EdMwpLJIKhipUrX5tdaGk"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Take You There",
+      "url": "https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj"
     },
     {
       "album": {
@@ -84768,7 +84944,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 158769,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3xcgtqFTfz0KX3JiOvooJM"

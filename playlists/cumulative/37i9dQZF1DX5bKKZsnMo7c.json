@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Feeling dramatic? All eyes on you. Cover: VANITY",
+  "description": "Feeling dramatic? All eyes on you. Cover: Mollie Elizabeth",
   "name": "Limelight",
   "tracks": [
     {
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 187582,
       "name": "Circe",
       "url": "https://open.spotify.com/track/1y0aVfbxp1NAhQ5Z4Jhz0o"
@@ -3118,6 +3118,24 @@
       "duration_ms": 139821,
       "name": "Ex-Girlfriend",
       "url": "https://open.spotify.com/track/30RnHZzh0YfZu7FNIBxiIH"
+    },
+    {
+      "album": {
+        "name": "Expensive Taste",
+        "url": "https://open.spotify.com/album/2y8hAA2WoV7ox67kYWDmul"
+      },
+      "artists": [
+        {
+          "name": "MEEK",
+          "url": "https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199973,
+      "name": "Expensive Taste",
+      "url": "https://open.spotify.com/track/2Q3mfoPvqOZ4TtoXr4Uyv0"
     },
     {
       "album": {
@@ -5190,7 +5208,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 290693,
       "name": "In Times of Dragons",
       "url": "https://open.spotify.com/track/1FXXrQQCC9y69H1AeTYEfr"
@@ -5338,7 +5356,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 180017,
       "name": "I\u2019m Going To Die",
       "url": "https://open.spotify.com/track/1GGqXiVW58oZV5DckGpAae"
@@ -5640,6 +5658,24 @@
       "duration_ms": 210241,
       "name": "Kiss Me, I'm a Prince",
       "url": "https://open.spotify.com/track/5qVQqa8DOJVPFmQI8mrlsb"
+    },
+    {
+      "album": {
+        "name": "Knight of Swords",
+        "url": "https://open.spotify.com/album/1QspQHGZ9yJhibMqUshuA0"
+      },
+      "artists": [
+        {
+          "name": "Alexandria",
+          "url": "https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "Knight of Swords",
+      "url": "https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2"
     },
     {
       "album": {
@@ -7789,6 +7825,24 @@
     },
     {
       "album": {
+        "name": "Puppet Show",
+        "url": "https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182665,
+      "name": "Puppet Show",
+      "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
+    },
+    {
+      "album": {
         "name": "putting a spin on somebody that i used to know",
         "url": "https://open.spotify.com/album/0CCl0omkYtDTAYZ5dhy4W0"
       },
@@ -9412,7 +9466,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 175161,
       "name": "The Fool",
       "url": "https://open.spotify.com/track/5OkXA7ru3aZrY92m800aSc"
@@ -10138,6 +10192,24 @@
       "duration_ms": 210714,
       "name": "training wheels",
       "url": "https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7"
+    },
+    {
+      "album": {
+        "name": "Traitor To Myself",
+        "url": "https://open.spotify.com/album/1tDsbASDOcfJGlehrKuoVM"
+      },
+      "artists": [
+        {
+          "name": "Lilith Max",
+          "url": "https://open.spotify.com/artist/797SPxZf82IYq3XCM8c9AM"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198211,
+      "name": "Traitor To Myself",
+      "url": "https://open.spotify.com/track/72QA53qzcxUUzPlX0JUTc2"
     },
     {
       "album": {

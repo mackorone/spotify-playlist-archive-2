@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-586 songs - 1 day 8 hr 3 min
+587 songs - 1 day 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Falling for the Feeling](https://open.spotify.com/track/5GnkqqWGbPZLp1T2l0PZO8) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [Are You Real?](https://open.spotify.com/album/1iPFzT2uinjvbAYWm9HwA4) | 2:35 | 2026-02-06 |  |
 | [Falling into You](https://open.spotify.com/track/7B9GM2PNugSwEBHpkAgRCf) | [Soulflow](https://open.spotify.com/artist/6YaiytTo7ird6rLHP2BxYL) | [Deeper](https://open.spotify.com/album/6Q5RxFSosdLM5YFDYIK60r) | 2:05 | 2026-03-20 |  |
 | [Feel Good Inc.](https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Feel Good Inc.](https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb) | 2:53 | 2021-03-06 | 2021-10-16 |
+| [Feel It](https://open.spotify.com/track/0V7hWDWX9IOEhShRmQ6LjC) | [MA:RK](https://open.spotify.com/artist/7nq7r3on1FX8ztpwOHqHbF), [Aiko](https://open.spotify.com/artist/59SThek9uTINSehGNcgmsi) | [Feel It](https://open.spotify.com/album/2yw7iZcEmbvTW7nhLPGVui) | 2:45 | 2026-07-31 |  |
 | [feel it coming](https://open.spotify.com/track/2GmmLyUZhMtyyBUFV3xn71) | [origins](https://open.spotify.com/artist/3IAbIh8buWbZyOcoRpX1Uy) | [feel it coming](https://open.spotify.com/album/5bltqw2RwL7QdLPsB3rAqs) | 2:50 | 2026-06-19 |  |
 | [Feel Like Home \- Embody Remix](https://open.spotify.com/track/4ZLQGkK1EMtFtYXistZ08R) | [Sander Kleinenberg](https://open.spotify.com/artist/3CfH3WZPzbk5mNDWXpGIy6), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [Feel Like Home \(Remixes\)](https://open.spotify.com/album/4uvxD8sm2XLCP4GTCZJihI) | 2:57 | 2020-09-13\* | 2021-03-06 |
 | [Feel Your Body](https://open.spotify.com/track/3cIjfIqsLjCkuO31ycSBxP) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Feel Your Body](https://open.spotify.com/album/1hxGoj2oEogn1b8ESBaYl8) | 2:56 | 2022-08-05 | 2025-07-05 |

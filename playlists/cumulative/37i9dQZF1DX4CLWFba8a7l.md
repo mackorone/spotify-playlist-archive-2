@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: Pretty Girl
 
-700 songs - 1 day 15 hr 6 min
+700 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,7 @@
 | [It Never Ends](https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Femi Koleoso](https://open.spotify.com/artist/2C8JLkxN7evbT2t08IIV9V) | [Between Us](https://open.spotify.com/album/2n3AdEZI379D0sAAWvTHEa) | 3:17 | 2026-04-23 | 2026-06-18 |
 | [It's Kinda Hot](https://open.spotify.com/track/71fNiEeFDm4jNuk15rh4Wf) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [It's Kinda Hot](https://open.spotify.com/album/5pCdGf426pZVgJTrSjRWxs) | 2:37 | 2026-06-26 | 2026-07-29 |
 | [ITS FINE](https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [New Age](https://open.spotify.com/album/22ZjKoJBJ1LekTQ6b1lJHl) | 4:21 | 2026-03-12 | 2026-04-16 |
-| [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 | 2025-06-26 |  |
+| [It’s Alright](https://open.spotify.com/track/0qolNSuJWgA9diit13iCpC) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [SONS](https://open.spotify.com/album/6swcZeJGkihDlNt2y8pPEa) | 2:34 | 2025-06-26 | 2026-08-01 |
 | [iwannaliveinadream](https://open.spotify.com/track/1dwm1mf1M1DZ6Kgmn7NnD2) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [iwannaliveinadream](https://open.spotify.com/album/2s0dX6gFxvKgiEYhlfden7) | 2:45 | 2025-07-31 | 2025-09-10 |
 | [Jaded](https://open.spotify.com/track/4Drglu14K2DPKmUBCmQzoC) | [Paulina](https://open.spotify.com/artist/4za5fbTdW3zQbV0pQ1ZMhI), [Tom Thum](https://open.spotify.com/artist/41Sy5j6hSOXJ6Pl1yR296B) | [Jaded](https://open.spotify.com/album/2VlOUIDEK7G2hhggMVpUr6) | 2:47 | 2025-04-17 | 2025-04-25 |
 | [Jerkin'](https://open.spotify.com/track/6asEwNUgkLg9hRzyvBixS7) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Jerkin'](https://open.spotify.com/album/5BdArQTJeqbWE3ODWoEzeD) | 2:08 | 2024-10-24 | 2025-02-19 |
@@ -403,7 +403,7 @@
 | [Moth Song](https://open.spotify.com/track/53PW8uGXjGBzBRgLs18wh6) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Moth Song](https://open.spotify.com/album/15tDiSE6EpMxDxUDkRXKwN) | 5:03 | 2025-06-26 | 2025-07-25 |
 | [mountain of a memory](https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 2:25 | 2025-06-26 | 2026-03-30 |
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-02-20 | 2025-04-25 |
-| [Movies](https://open.spotify.com/track/7vr7D1ISmDeTh4Zc1sZXDJ) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [soft pop](https://open.spotify.com/album/6sWOHghBqLrokOitAiYpcW) | 2:58 | 2026-07-23 | 2026-07-31 |
+| [Movies](https://open.spotify.com/track/7vr7D1ISmDeTh4Zc1sZXDJ) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [soft pop](https://open.spotify.com/album/6sWOHghBqLrokOitAiYpcW) | 2:58 | 2026-07-23 |  |
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2024-05-31 | 2024-11-02 |
 | [Muse](https://open.spotify.com/track/7FPAlNpmT9aRoP00KMXcvP) | [Esha Tewari](https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt) | [What Makes A Girl](https://open.spotify.com/album/4EhxBdweaNorJI0fvl3FrQ) | 4:08 | 2025-12-04 | 2026-03-30 |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-31 |  |
@@ -527,6 +527,7 @@
 | [SELFISH](https://open.spotify.com/track/5LiJslg0y8OFUJz5r5YBgV) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [SOULSTAR](https://open.spotify.com/album/3oSHew9KClPrhpUNfqUcfs) | 3:10 | 2025-10-02 | 2025-10-31 |
 | [Send It Back](https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Send It Back](https://open.spotify.com/album/1w88Rkop980Vu2KBZQbPM6) | 2:53 | 2025-05-29 |  |
 | [SEND IT! \(Turn Up Aus Live Presented by Spotify\)](https://open.spotify.com/track/22K8nkw2yscBa0Gpc7Dvmm) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [SEND IT! \(Turn Up Aus Live Presented by Spotify\)](https://open.spotify.com/album/3kz7GvyHmer5ayXF2bKOxB) | 3:51 | 2026-07-23 |  |
+| [Serotonin](https://open.spotify.com/track/3OVrWStc5JvH8ws4bV90Sa) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [AHHCade](https://open.spotify.com/album/0hlWE02p9OIt0NhbWLwgVo) | 2:06 | 2026-07-30 |  |
 | [Setting Fires](https://open.spotify.com/track/6DR3L7CKoLAivNdK9fhR6w) | [Sly Withers](https://open.spotify.com/artist/59vpAv1Esa36VUiOvx0nYX) | [To Be Honest](https://open.spotify.com/album/3yxZDINJi3WMnngzaCLboY) | 3:22 | 2026-04-09 | 2026-04-17 |
 | [Seven Years](https://open.spotify.com/track/2HrQshIO9YRkdE4bcyUqbX) | [Letters to Lions](https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx) | [Seven Years](https://open.spotify.com/album/5acP6WHpqnuRsROnDsDn3P) | 3:05 | 2025-01-23 | 2025-01-31 |
 | [Shangri\-La](https://open.spotify.com/track/2PnLnsEBUVNnxj9H9d7pjZ) | [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Shangri\-La](https://open.spotify.com/album/4zsMUZ7yhV6dy8Ey6tuPQW) | 3:36 | 2025-03-20 | 2025-04-04 |
@@ -639,7 +640,6 @@
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2024-05-31 | 2025-04-25 |
 | [Touch](https://open.spotify.com/track/5c7AgrUeXvlQHZGpBchBAd) | [JESS REISS](https://open.spotify.com/artist/13FwQ2N7dtqURH6fJHDSO8) | [Touch](https://open.spotify.com/album/3v5qojWFCDUdR5VCvGXj9I) | 3:15 | 2025-02-13 | 2025-02-21 |
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-31 | 2024-11-26 |
-| [Track 3](https://open.spotify.com/track/3OVrWStc5JvH8ws4bV90Sa) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [AHHCade](https://open.spotify.com/album/0hlWE02p9OIt0NhbWLwgVo) | 0:00 | 2026-07-30 |  |
 | [Train Left The Station](https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Caught in a Reverie](https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr) | 4:15 | 2024-05-31 | 2025-01-10 |
 | [Transactional Deal](https://open.spotify.com/track/7oOsr25JQYP7WbYiVrvImd) | [Charlie Collins](https://open.spotify.com/artist/2rEuydWE0WYRbI4YajHu9E) | [Transactional Deal](https://open.spotify.com/album/4WyxbPuZYUA7QaXQ79JFOl) | 4:16 | 2025-09-01 | 2025-09-05 |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-31 |  |

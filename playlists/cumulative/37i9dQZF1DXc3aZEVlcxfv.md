@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-657 songs - 1 day 20 hr 3 min
+658 songs - 1 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [Na Only Me Know](https://open.spotify.com/track/1Dqzildz8aeOKsVWdPZOjH) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV) | [Na Only Me Know](https://open.spotify.com/album/6ESZpB5iJUCma2fBqJZzl3) | 6:10 | 2025-12-05 | 2026-01-15 |
 | [Na Who You Be](https://open.spotify.com/track/5HeTS1sl4kfR8IC34EvQPK) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Come and See / Na Who You Be](https://open.spotify.com/album/7y06rcPwJmbHVibiNWEjCa) | 2:43 | 2025-03-28 | 2025-06-20 |
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2024-09-27 | 2025-02-28 |
-| [Nakupenda](https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ) | [Toria Etuk](https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR) | [Nakupenda](https://open.spotify.com/album/2FljmMMzvw2pJ9jqgm8Fml) | 2:18 | 2026-06-26 |  |
+| [Nakupenda](https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ) | [Toria Etuk](https://open.spotify.com/artist/6DMhWPhBAGMzvCKlZqG4LR) | [Nakupenda](https://open.spotify.com/album/2FljmMMzvw2pJ9jqgm8Fml) | 2:18 | 2026-06-26 | 2026-08-01 |
 | [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2024-09-27 |  |
 | [Nara Ekele \- Remix](https://open.spotify.com/track/5z53vv2JHLryixAKAkduBN) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [Nara Ekele \(Remix\)](https://open.spotify.com/album/3Y0QLwcmeLDBihKK027qD9) | 6:32 | 2026-05-22 | 2026-07-18 |
 | [Narekele](https://open.spotify.com/track/3aL0swlBPcBfUHatzrn9n8) | [Exouxia Wilson](https://open.spotify.com/artist/2OsGK8NBce8Tmx6Cyuc974) | [Narekele](https://open.spotify.com/album/5gyBvRvXbbelbUEPBg7QCm) | 6:24 | 2025-06-20 | 2025-07-11 |
@@ -631,6 +631,7 @@
 | [Yes, I Know](https://open.spotify.com/track/3v7RvFFJkYMQU1m7VF9Qp0) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Yes, I Know](https://open.spotify.com/album/3IebSqR46WJAtVMSwJZPOn) | 3:43 | 2025-05-23 | 2025-06-13 |
 | [Yeshua](https://open.spotify.com/track/6VDhWqHgYFJQkWC8X6GwEl) | [Jesufemi](https://open.spotify.com/artist/3Hk1MSEN7hTVpjPdKp8GRA) | [Yeshua](https://open.spotify.com/album/16HVSUhTrK4U231KZJ1Me4) | 3:05 | 2026-04-03 | 2026-05-22 |
 | [Yeshua!](https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Yeshua!](https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8) | 3:40 | 2026-04-03 |  |
+| [YESU](https://open.spotify.com/track/54wWAAGkIHZG03JkcSd2cS) | [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [YESU](https://open.spotify.com/album/6AmGXpLt7W7ygyt1Ojk8el) | 2:29 | 2026-07-24 |  |
 | [You](https://open.spotify.com/track/4jP9BprqNUmsG7xnb0tyHC) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [Spirit & Life Collective](https://open.spotify.com/artist/0hplB8E1h8iFQvA949bI2q) | [You](https://open.spotify.com/album/5yveYWC5QD8qO0fYR5MPS1) | 2:23 | 2024-10-25 | 2025-02-07 |
 | [You Are Amazing](https://open.spotify.com/track/7dHvwjFdxpxHiXmgjFyyML) | [Pita](https://open.spotify.com/artist/0dV0oacQivGSBfpLf7P3Em) | [AS I AM GRATEFUL](https://open.spotify.com/album/67P3bKHSj2ebmBQAqrvZVm) | 5:36 | 2025-09-26 | 2025-10-03 |
 | [You Are Great](https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [You Are Great](https://open.spotify.com/album/7EgJ4tFv1FjsMJA1voRnQb) | 3:03 | 2024-09-27 |  |

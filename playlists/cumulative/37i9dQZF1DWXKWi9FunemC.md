@@ -4,7 +4,7 @@
 
 > For those who like a little bit of coffee with their Jesus.
 
-527 songs - 1 day 8 hr 58 min
+528 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Go With Me](https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Go With Me](https://open.spotify.com/album/4At1FoRpKILlQScRac9B65) | 4:25 | 2024-08-03 | 2026-03-24 |
 | [God Evermore](https://open.spotify.com/track/2SBAqasLdtBchU4wMB61pE) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Ever Be](https://open.spotify.com/album/09ErTYDLaRj9MgTr8oEUuj) | 5:06 | 2020-08-31 | 2025-10-11 |
 | [God Evermore](https://open.spotify.com/track/2qgIgDagxmjNA8yhoszVNu) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Ever Be](https://open.spotify.com/album/4Yg6IeCzU0q4OAxu5X2Ks0) | 5:06 | 2020-08-31 | 2024-04-19 |
+| [God I'm Just Grateful](https://open.spotify.com/track/7qWUi8VnNzFJJHRQvrVYan) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Hailey Daleah](https://open.spotify.com/artist/5UuuKbuxva1Q4UsZfs4f00), [Morgan Williams](https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie), [Jalisa Faye](https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6) | [Moments 01](https://open.spotify.com/album/5xoRa7UebZt5fUz5IpCGWR) | 1:39 | 2026-07-29 |  |
 | [God of the Breakthrough \(Live\)](https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys) | [Milestone Worship](https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo) | [God of the Breakthrough \(Live\)](https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza) | 5:53 | 2020-08-31 | 2025-10-11 |
 | [good grief!](https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [good grief!](https://open.spotify.com/album/0SECyjYPCwwkKWRw1pEMdp) | 3:07 | 2025-10-10 |  |
 | [Good Shepherd](https://open.spotify.com/track/5jz8HZcmQB0QlTJCRRY8dR) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [The Good Shepherd](https://open.spotify.com/album/6FVV7Kk0Tjq5M0BknaBy7b) | 2:50 | 2026-07-29 |  |
@@ -467,7 +468,7 @@
 | [Union](https://open.spotify.com/track/7rO2RdfL0bEYE9a6bgijuK) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5), [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Union](https://open.spotify.com/album/66W9AgljBwVVT80qrgBNP5) | 5:16 | 2026-07-29 |  |
 | [UNION](https://open.spotify.com/track/1hUMw4pYM4Gy5xDGC4TaNZ) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [UNION](https://open.spotify.com/album/0NNV9E7n3DiKP7bUZxXo20) | 4:06 | 2026-03-23 |  |
 | [Up Again \(Acoustic Mix\)](https://open.spotify.com/track/0P7JFcfRbg69vyuVkMIori) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3), [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Up Again \(Acoustic Mix\)](https://open.spotify.com/album/6bxngQfzDAqyDJfjD7ynEq) | 3:33 | 2020-08-31 | 2024-08-02 |
-| [Up With The Birds](https://open.spotify.com/track/30EPNX0HMflT7w6IBGV0sA) | [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Up With The Birds](https://open.spotify.com/album/7FH29UTUol8xqMRl1wrAOm) | 2:44 | 2026-03-23 |  |
+| [Up With The Birds](https://open.spotify.com/track/30EPNX0HMflT7w6IBGV0sA) | [Olivia Stern](https://open.spotify.com/artist/5GeifitYBWf3gKATcWeJlu), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D) | [Up With The Birds](https://open.spotify.com/album/7FH29UTUol8xqMRl1wrAOm) | 2:44 | 2026-03-23 | 2026-08-01 |
 | [uptown](https://open.spotify.com/track/3VGUd7kzUu7e7z93Ij4Vcs) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [uptown](https://open.spotify.com/album/3tVKCVSO21t2ZVdnid4EBe) | 2:03 | 2026-03-23 |  |
 | [Valley \- CalledOut Music Remix](https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf) | [DAYASOUL](https://open.spotify.com/artist/4AVCd5KaoGCrfue1bOWSww), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Valley \(CalledOut Music Remix\)](https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp) | 3:07 | 2023-07-28 | 2024-08-03 |
 | [Vices](https://open.spotify.com/track/65ou3JOhPK3lH0T5EXq7U2) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Vices](https://open.spotify.com/album/2AdhEfiegi4zBfD35z5o0w) | 4:44 | 2026-04-17 |  |

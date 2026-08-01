@@ -2075,6 +2075,28 @@
     },
     {
       "album": {
+        "name": "Asante IV",
+        "url": "https://open.spotify.com/album/39ehR7VQOM2NKJFJUC1duY"
+      },
+      "artists": [
+        {
+          "name": "M\u00d6RDA",
+          "url": "https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp"
+        },
+        {
+          "name": "Kitchen Mess",
+          "url": "https://open.spotify.com/artist/2H8qYcLu5eRbJuymiS8imU"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312052,
+      "name": "Golden Horizon (feat. Kitchen Mess)",
+      "url": "https://open.spotify.com/track/2qMzjzammwsmi3uj6ghVYX"
+    },
+    {
+      "album": {
         "name": "Gorilla",
         "url": "https://open.spotify.com/album/6NBi7dtoFW2OR2YnoKe9qX"
       },
@@ -5725,7 +5747,7 @@
     },
     {
       "album": {
-        "name": "SAWA (feat. bees & honey)",
+        "name": "SAWA",
         "url": "https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5"
       },
       "artists": [
@@ -5742,7 +5764,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 220527,
-      "name": "SAWA (feat. bees & honey)",
+      "name": "SAWA",
       "url": "https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1"
     },
     {
@@ -6506,24 +6528,6 @@
       "duration_ms": 190447,
       "name": "Tiki Tiki 2.0",
       "url": "https://open.spotify.com/track/1YSyERC4PhhP8mN2fsm3d1"
-    },
-    {
-      "album": {
-        "name": "Asante IV",
-        "url": "https://open.spotify.com/album/39ehR7VQOM2NKJFJUC1duY"
-      },
-      "artists": [
-        {
-          "name": "M\u00d6RDA",
-          "url": "https://open.spotify.com/artist/0M8NOvT5MTp13jYZ0bZZQp"
-        }
-      ],
-      "date_added": "2026-07-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/2qMzjzammwsmi3uj6ghVYX"
     },
     {
       "album": {

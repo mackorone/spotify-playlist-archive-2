@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 25369,
+  "num_followers": 25390,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAADRBm4c3JLW3/PvYpN5lFbk",
+  "snapshot_id": "amqUAAAAAAB0/0RE8EPIrd0MXlf025PF",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Swag It Out - Single",
+        "url": "https://open.spotify.com/album/2nqXchNFJiwWRae1YHAlSg"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "Swag It Out",
+      "url": "https://open.spotify.com/track/1UQbzags87OFERvmaJw9yb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Smallfoot (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 132173,
       "name": "Wonderful Questions",
       "url": "https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Swag It Out - Single",
-        "url": "https://open.spotify.com/album/2nqXchNFJiwWRae1YHAlSg"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "Swag It Out",
-      "url": "https://open.spotify.com/track/1UQbzags87OFERvmaJw9yb"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 218733,
-      "name": "Bottle You Up",
-      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
+      "duration_ms": 177586,
+      "name": "Scared",
+      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
         }
       ],
-      "duration_ms": 177586,
-      "name": "Scared",
-      "url": "https://open.spotify.com/track/4zKqkvPSeOa2918BlJJkKH"
+      "duration_ms": 218733,
+      "name": "Bottle You Up",
+      "url": "https://open.spotify.com/track/7wbIPJ9Ptn328JWcMONz9p"
     },
     {
       "added_at": null,

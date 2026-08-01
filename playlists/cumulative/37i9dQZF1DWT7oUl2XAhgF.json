@@ -372,7 +372,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 184700,
       "name": "Any Old Fool",
       "url": "https://open.spotify.com/track/6HNpTTwnQHo5JSrWQETLwg"
@@ -7027,6 +7027,28 @@
     },
     {
       "album": {
+        "name": "One and the Same",
+        "url": "https://open.spotify.com/album/6RvgpXA6LKZoToLxrlTylh"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        },
+        {
+          "name": "Victor Axelrod",
+          "url": "https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223729,
+      "name": "One and the Same",
+      "url": "https://open.spotify.com/track/6OKtJlCD9Ox6BiXN0xaMfY"
+    },
+    {
+      "album": {
         "name": "Love & Hate",
         "url": "https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU"
       },
@@ -7266,6 +7288,24 @@
       "duration_ms": 176054,
       "name": "Paris",
       "url": "https://open.spotify.com/track/2dgSbz6osX3pCZtNmPGCzB"
+    },
+    {
+      "album": {
+        "name": "Paying It Forward",
+        "url": "https://open.spotify.com/album/142wQ3h6ZHW9OpXmkUrqQT"
+      },
+      "artists": [
+        {
+          "name": "Honeybear, the Band",
+          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180286,
+      "name": "Paying It Forward",
+      "url": "https://open.spotify.com/track/4MFOVDBBmO8n26BkYyMQwS"
     },
     {
       "album": {
@@ -9644,7 +9684,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 196293,
       "name": "The Cure",
       "url": "https://open.spotify.com/track/2hHGvBFaHmvrPDixbjsjPl"

@@ -7791,6 +7791,24 @@
     },
     {
       "album": {
+        "name": "Indie Rave",
+        "url": "https://open.spotify.com/album/4kqjJIQruFKcbFtv2FD21o"
+      },
+      "artists": [
+        {
+          "name": "KYTES",
+          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230322,
+      "name": "Epa",
+      "url": "https://open.spotify.com/track/0WpXwIkHgil23gzYOEykR8"
+    },
+    {
+      "album": {
         "name": "error",
         "url": "https://open.spotify.com/album/145vcpDmaIPe5kIkNJYof7"
       },
@@ -27848,24 +27866,6 @@
       "duration_ms": 221142,
       "name": "Too Much Yayo",
       "url": "https://open.spotify.com/track/0fBrjGe5JD1XKifxYjwbbF"
-    },
-    {
-      "album": {
-        "name": "Indie Rave",
-        "url": "https://open.spotify.com/album/4kqjJIQruFKcbFtv2FD21o"
-      },
-      "artists": [
-        {
-          "name": "KYTES",
-          "url": "https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d"
-        }
-      ],
-      "date_added": "2026-07-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/0WpXwIkHgil23gzYOEykR8"
     },
     {
       "album": {

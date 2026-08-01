@@ -4,7 +4,7 @@
 
 > MEEK in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-3,567 songs - 7 day 15 hr 39 min
+3,568 songs - 7 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2375,6 +2375,7 @@
 | [perrita](https://open.spotify.com/track/4jpK5l6skgf1196MujhDOb) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [lechita](https://open.spotify.com/album/7sasEvmKKffsrEok2Gt6vJ) | 1:22 | 2025-10-02 | 2025-10-31 |
 | [Persi per niente](https://open.spotify.com/track/7Cb4kwCTNKG0myTbARa6if) | [Dennis](https://open.spotify.com/artist/1vnH30sVlnl0NIuGUcLz3y) | [Persi per niente](https://open.spotify.com/album/0XK1pERvepV7TQCT2e9UBy) | 2:54 | 2024-09-26 | 2024-10-18 |
 | [Persino la bellezza](https://open.spotify.com/track/2AADUegYX9dbqdAtBMEb3g) | [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt) | [Persino la bellezza](https://open.spotify.com/album/2sCOs8QJWyCkU19Lphbsi8) | 3:17 | 2026-06-04 | 2026-06-26 |
+| [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 | 2026-07-31 |  |
 | [Petrolio](https://open.spotify.com/track/5FWe1oExQtR9v9FvhqXWr8) | [Jacopo Èt](https://open.spotify.com/artist/1ubMZaQDpIlttCHLbIBUqy) | [Sammy, Cabiria, etc\. etc.](https://open.spotify.com/album/65Wv5uZO75nHQM7dMAadZW) | 3:06 | 2025-04-03 | 2025-05-02 |
 | [PEZZI DI ME](https://open.spotify.com/track/0fUCklrPYwzr2m9SHWowqP) | [Mogein](https://open.spotify.com/artist/3jFH32wIIIGDaWUqI1rdH4) | [PEZZI DI ME](https://open.spotify.com/album/6Ir6F5AjPW6jT7LT5LgLNZ) | 2:37 | 2026-03-12 | 2026-04-03 |
 | [PE’ SEMPE](https://open.spotify.com/track/2FVEn4aZitS68OVvdQmS1p) | [Gabriele Esposito](https://open.spotify.com/artist/6KBX0GZAeEOYSgONCtcwFL) | [PE’ SEMPE](https://open.spotify.com/album/2WJSi1AzDVo8GeX72X4ozj) | 2:46 | 2026-03-05 | 2026-03-27 |

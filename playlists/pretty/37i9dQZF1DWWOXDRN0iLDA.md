@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 
 > soft ambient + bird song for spring study sessions 🦜🌿 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,546 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,558 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOXDRN0iLDA.md) - [plain]
 | 69 | [Woodpecker](https://open.spotify.com/track/65PeqOI1OtIQXNyemz90nE) | [Andrea Accorsi](https://open.spotify.com/artist/3qJhX4vt6z2W7C2SsDHiAK) | [Quiet Foliage](https://open.spotify.com/album/1UtZGHL1DrU1G7UiCd0jvq) | 2:47 |
 | 70 | [Developments 2: Motion](https://open.spotify.com/track/7hCIU4hiTwMiZ3r9C5cX87) | [Six Missing](https://open.spotify.com/artist/70yRyjWkxX4n1jcdC3Pzmt), [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo) | [Developments 2: Motion](https://open.spotify.com/album/67zojxNhuPhPre8kID2R3T) | 4:07 |
 | 71 | [Nature's Heart](https://open.spotify.com/track/7yIzdeMsJ8Ao3E4WReINYu) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Nature's Heart](https://open.spotify.com/album/7zmcX2OiYE6yZf4FDk1W9o) | 2:45 |
-| 72 | [Forest Morning](https://open.spotify.com/track/15fQ0VWN2bXSJFUWgSyeUz) | [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:25 |
+| 72 | [Forest Morning](https://open.spotify.com/track/15fQ0VWN2bXSJFUWgSyeUz) | [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Orua](https://open.spotify.com/artist/70HhyWnyMWTEdSRKLF0OZt) | [A Shared Pulse](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:25 |
 | 73 | [Between Sound and Air](https://open.spotify.com/track/446YBnz1ukcDXTJ5sAIauj) | [Eternal Meadows](https://open.spotify.com/artist/0ADZFr36OypozKmbt7y0Bm), [Tish'](https://open.spotify.com/artist/2Snl7bD9P5FLeAMajWU3xx) | [Between Sound and Air](https://open.spotify.com/album/5nvXV765TUtmCP3qNqbn5O) | 2:34 |
 | 74 | [we are free](https://open.spotify.com/track/4c0cHlYLujTqIQUGVOhBED) | [Lore](https://open.spotify.com/artist/5iAmH8roFlCIzK73jFSV5G), [Runaway Horses](https://open.spotify.com/artist/1lHNqvzVo8By9u0C0pLwlh) | [we are free](https://open.spotify.com/album/0rk8lxab2AXcs5zgwvcM1W) | 2:52 |
 | 75 | [Weightless](https://open.spotify.com/track/6vs3zn3RZXdnehXKsXhDmJ) | [Graphity](https://open.spotify.com/artist/4BFOUasxzvjSS6N2zvp4Zd), [Halo Healing](https://open.spotify.com/artist/5gvolaoSHOe7HqTPkdVoNk), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Shared Pulse](https://open.spotify.com/album/3zRf7QZeQV2QWFb7kUZP6F) | 2:48 |

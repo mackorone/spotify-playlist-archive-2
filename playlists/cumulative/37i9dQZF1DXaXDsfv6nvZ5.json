@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Kenyon Dixon",
+  "description": "The soulful tunes to ease you into your day. Cover: October London",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -3910,7 +3910,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 162762,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/4rZkgApbir8f7x9bTyjVta"
@@ -19296,6 +19296,24 @@
       "duration_ms": 189167,
       "name": "You On You",
       "url": "https://open.spotify.com/track/7fgYxsQVtCLEsvaCi6B25P"
+    },
+    {
+      "album": {
+        "name": "Your Girl",
+        "url": "https://open.spotify.com/album/7mXAMbMhVNqB7TNhGMIc4N"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170649,
+      "name": "Your Girl",
+      "url": "https://open.spotify.com/track/1zF4OPgqLoEEWym1jMuf49"
     },
     {
       "album": {

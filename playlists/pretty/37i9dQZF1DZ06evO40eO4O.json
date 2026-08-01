@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 8254,
+  "num_followers": 8261,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAACzRsen28bMfbVD/xglRw9M",
+  "snapshot_id": "amqUAAAAAAAvDGE375olGgPyaJ6Bx7PE",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMOR DEL WENO",
+        "url": "https://open.spotify.com/album/4fSgoKVXnlEYs9gtElWJp6"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 198803,
+      "name": "AMOR DEL WENO",
+      "url": "https://open.spotify.com/track/2StKy6GrZrk8G9ChNNCb1T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fresh Prince (Remix)",
         "url": "https://open.spotify.com/album/7fP6eFdFHyneo1Ez8tku5X"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 212363,
       "name": "Fresh Prince - Remix",
       "url": "https://open.spotify.com/track/29bhlg1hLwg8I4jDH1UCCZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMOR DEL WENO",
-        "url": "https://open.spotify.com/album/4fSgoKVXnlEYs9gtElWJp6"
-      },
-      "artists": [
-        {
-          "name": "Franco Rizzaro",
-          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 198803,
-      "name": "AMOR DEL WENO",
-      "url": "https://open.spotify.com/track/2StKy6GrZrk8G9ChNNCb1T"
     },
     {
       "added_at": null,

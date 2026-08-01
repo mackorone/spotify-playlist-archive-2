@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Ibraah",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Stans & Marioo",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -2546,7 +2546,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 259115,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/4Tus2bGD2t9i3VhkqjE8qg"
@@ -7019,6 +7019,28 @@
     },
     {
       "album": {
+        "name": "MOYO",
+        "url": "https://open.spotify.com/album/2FmE4N63p2D4niFQwqMB9G"
+      },
+      "artists": [
+        {
+          "name": "Stans",
+          "url": "https://open.spotify.com/artist/1rOZ12AaA5RqBYuFpJWJpR"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "MOYO",
+      "url": "https://open.spotify.com/track/2xxoFcwteaps8BFBabgIRB"
+    },
+    {
+      "album": {
         "name": "Moyo",
         "url": "https://open.spotify.com/album/4OEjsxaYkOs9T5rR5uqSMu"
       },
@@ -7798,6 +7820,24 @@
       "duration_ms": 194000,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
+    },
+    {
+      "album": {
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/14LRbN8KHBjZgA7gaKYAY0"
+      },
+      "artists": [
+        {
+          "name": "Matonya",
+          "url": "https://open.spotify.com/artist/2nHyoDQinKKGYIzSkK3IwI"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/1zTsIGDezfknAm2vkoSqcz"
     },
     {
       "album": {
@@ -11230,7 +11270,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 162352,
       "name": "Sijamaliza",
       "url": "https://open.spotify.com/track/3LegRPMFfSMGs4wyYhB5wd"
@@ -13650,6 +13690,24 @@
       "duration_ms": 236129,
       "name": "Wasiwasi",
       "url": "https://open.spotify.com/track/5RzxzvDwkaBz3msv2VjSwi"
+    },
+    {
+      "album": {
+        "name": "Wasiwasi",
+        "url": "https://open.spotify.com/album/4A3tkgIoGW190qRfJNzfKg"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180530,
+      "name": "Wasiwasi",
+      "url": "https://open.spotify.com/track/6APLhvny4lS9NxuJjE5fXf"
     },
     {
       "album": {

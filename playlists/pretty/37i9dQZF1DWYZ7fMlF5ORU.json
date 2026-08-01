@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 186314,
+  "num_followers": 186345,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Por Amor a Ti",
+        "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
+      },
+      "artists": [
+        {
+          "name": "Luciano Claw",
+          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Medley: Dom Supremo",
+      "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Tua Vontade (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hqMaCZwijfjD4sWL6U2Fz"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 207698,
       "name": "Tua Vontade - Ao Vivo",
       "url": "https://open.spotify.com/track/6cHGFCtV4KxdqAon5BqTz7"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Por Amor a Ti",
-        "url": "https://open.spotify.com/album/7xfnLd7REayaXqCwa697Mx"
-      },
-      "artists": [
-        {
-          "name": "Luciano Claw",
-          "url": "https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Medley: Dom Supremo",
-      "url": "https://open.spotify.com/track/2niQsGMsrqw5sYWRaqAKPO"
     },
     {
       "added_at": "2026-06-12 03:01:51",

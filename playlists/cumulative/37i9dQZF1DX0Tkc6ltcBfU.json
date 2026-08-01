@@ -8550,7 +8550,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 138098,
       "name": "BUSHWICK",
       "url": "https://open.spotify.com/track/6R05JVE3gN370icGwaAOUT"
@@ -11424,7 +11424,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 140892,
       "name": "Could Be Worse",
       "url": "https://open.spotify.com/track/2nvlYOCCCAsaCdY1kx5cGs"
@@ -23157,6 +23157,28 @@
     },
     {
       "album": {
+        "name": "Southside Superstars",
+        "url": "https://open.spotify.com/album/4tpZ8SAQzqKgzyRDcQDjml"
+      },
+      "artists": [
+        {
+          "name": "Fatt Macc",
+          "url": "https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4"
+        },
+        {
+          "name": "Lausane",
+          "url": "https://open.spotify.com/artist/1lOFYPSKJbTRxcdZYe48bc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123625,
+      "name": "Hood On My Back",
+      "url": "https://open.spotify.com/track/49WmKcDHkJSa2x1MSkrLw1"
+    },
+    {
+      "album": {
         "name": "HOODRAT",
         "url": "https://open.spotify.com/album/4XWwHApX8SOxSPv59uAaTm"
       },
@@ -23732,6 +23754,24 @@
       "duration_ms": 162026,
       "name": "Huntin\u2019 Wabbitz",
       "url": "https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU"
+    },
+    {
+      "album": {
+        "name": "Hustle",
+        "url": "https://open.spotify.com/album/7yTh2PGGQt9hX9mqA4Nya7"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139008,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/6nNFD1a4VgwwYVg87jUj4Z"
     },
     {
       "album": {
@@ -38274,7 +38314,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 92655,
       "name": "PARLAY",
       "url": "https://open.spotify.com/track/2CWP5h36QBRfDQPYl3K9uA"
@@ -42323,6 +42363,24 @@
     },
     {
       "album": {
+        "name": "Rich Wizard",
+        "url": "https://open.spotify.com/album/4vXgkO1L0LuLnzzY47BH6r"
+      },
+      "artists": [
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163096,
+      "name": "Rich Wizard",
+      "url": "https://open.spotify.com/track/65kfzCDZRfiIsX28kK1WGk"
+    },
+    {
+      "album": {
         "name": "Richer Than I Ever Been",
         "url": "https://open.spotify.com/album/5cZ23u1lWxszHiUokH6LnJ"
       },
@@ -44976,7 +45034,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 140168,
       "name": "shootin",
       "url": "https://open.spotify.com/track/7jF5xbNm34tuuKu4ELGnnh"
@@ -50248,7 +50306,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 192000,
       "name": "THE GOSPEL",
       "url": "https://open.spotify.com/track/4RF4iHAWjpMgZlYKTUKG3L"
@@ -50751,6 +50809,24 @@
     },
     {
       "album": {
+        "name": "They Can\u2019t Count",
+        "url": "https://open.spotify.com/album/0j5uHtWI3vVZlbMuviaTfK"
+      },
+      "artists": [
+        {
+          "name": "Dee Mula",
+          "url": "https://open.spotify.com/artist/3vMbThcZsIGHUmGb5YtFoY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121752,
+      "name": "They Can\u2019t Count",
+      "url": "https://open.spotify.com/track/5wYRluwyyBS5lkPHzEvikU"
+    },
+    {
+      "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
       },
@@ -51062,6 +51138,28 @@
       "duration_ms": 208607,
       "name": "Throw In The Towel (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/3zBPVGFXHKDWgbo7jhrZbY"
+    },
+    {
+      "album": {
+        "name": "Throw It",
+        "url": "https://open.spotify.com/album/5HhfgIL183MzFvW5OPmbza"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Throw It",
+      "url": "https://open.spotify.com/track/0XKQj4cBUZH7BCGsSV85uv"
     },
     {
       "album": {
@@ -55630,6 +55728,24 @@
       "duration_ms": 168022,
       "name": "White Lies (feat. G Herbo)",
       "url": "https://open.spotify.com/track/2xFFAAEhz1bIfYShWEto0K"
+    },
+    {
+      "album": {
+        "name": "Who Am I Pleasing",
+        "url": "https://open.spotify.com/album/0Ov24VPhAl0sBYBGTUCGmt"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199124,
+      "name": "Who Am I Pleasing",
+      "url": "https://open.spotify.com/track/1li0aKjKMedKzMWDsrqvxL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Unwind and enjoy the long summer evenings
 
-475 songs - 20 hr 42 min
+476 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 | 2022-05-20 | 2026-05-23 |
 | [Aligerar](https://open.spotify.com/track/76i9Sr7M8ZnxlEYhG2UAPM) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aligerar](https://open.spotify.com/album/71o28AGs6HXIWDpmJxii9U) | 1:56 | 2023-06-19 | 2025-04-17 |
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-05-20 | 2025-04-17 |
+| [All Along](https://open.spotify.com/track/2x8YxtDfUxW5vnIi4uOPe6) | [Jasper Avelline](https://open.spotify.com/artist/4pPV1eWRWDUYofcp8oxQg1) | [All Along](https://open.spotify.com/album/2KLPYpqSWtC08NEICkbyI6) | 2:23 | 2026-07-31 |  |
 | [Almost Simple](https://open.spotify.com/track/2AkkhUiTuQ2UwpEdoyi8Di) | [Ben Moldau](https://open.spotify.com/artist/5juEtUD0Fb07yd0VwhSsiA) | [Almost Simple](https://open.spotify.com/album/1RQB4niivqslfymvVwNrAy) | 3:00 | 2026-05-22 |  |
 | [Always You](https://open.spotify.com/track/7EEOlcjFvDQ7ffIBsH50VR) | [Lo Kee](https://open.spotify.com/artist/08uLNgUnd5EHzB8BfTJYUF) | [Always You](https://open.spotify.com/album/5QmIcnmPUtAm63b9eo9o1T) | 3:08 | 2026-07-24 |  |
 | [Amalfi](https://open.spotify.com/track/2SlARTbg8VmWVF4cG7imB8) | [Gente di Toscana](https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q) | [Amalfi](https://open.spotify.com/album/1hYAAyHzrnvecWC4w15N7p) | 2:08 | 2022-05-20 |  |

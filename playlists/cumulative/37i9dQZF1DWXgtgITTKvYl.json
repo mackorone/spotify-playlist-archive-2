@@ -2663,6 +2663,32 @@
     },
     {
       "album": {
+        "name": "In A Glass House",
+        "url": "https://open.spotify.com/album/0alKDCjLSnRciUdAj6YRDL"
+      },
+      "artists": [
+        {
+          "name": "Gentle Giant",
+          "url": "https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO"
+        },
+        {
+          "name": "Eber Pinheiro",
+          "url": "https://open.spotify.com/artist/0CV0d0BWNbxIZokshdmyPu"
+        },
+        {
+          "name": "Derek Shulman",
+          "url": "https://open.spotify.com/artist/4ef70BPHnN7PNqWLp5tirW"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467640,
+      "name": "Experience - 2026 Remaster",
+      "url": "https://open.spotify.com/track/6wcVSgfEFRabvYV7HYirU3"
+    },
+    {
+      "album": {
         "name": "Set it free",
         "url": "https://open.spotify.com/album/2wZ14E0TujvUeLVVxL46sm"
       },
@@ -5442,7 +5468,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 385280,
       "name": "No Dominion",
       "url": "https://open.spotify.com/track/5Pw3aNsD2tPIkfZEFomRS5"
@@ -5842,7 +5868,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 427333,
       "name": "Open Hearts",
       "url": "https://open.spotify.com/track/3BX13KNdKGA4CqoLZiniVo"
@@ -8761,6 +8787,24 @@
     },
     {
       "album": {
+        "name": "The Messiah Complex",
+        "url": "https://open.spotify.com/album/4jjxdDrU15hFmD8uzZyaIf"
+      },
+      "artists": [
+        {
+          "name": "Green Carnation",
+          "url": "https://open.spotify.com/artist/1ZaJhNBAhJ3HjPsWiB9sDc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "The Messiah Complex",
+      "url": "https://open.spotify.com/track/3l9Yu4g0T5bKecEuU53Jqh"
+    },
+    {
+      "album": {
         "name": "The Monster Roars",
         "url": "https://open.spotify.com/album/286a0luh0FDCtNoPdQh57A"
       },
@@ -9089,6 +9133,24 @@
     },
     {
       "album": {
+        "name": "The Traveller (Into The Light)",
+        "url": "https://open.spotify.com/album/71rL9uwHG3qGPH4V0xTBZZ"
+      },
+      "artists": [
+        {
+          "name": "Asia",
+          "url": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285760,
+      "name": "The Traveller (Into The Light)",
+      "url": "https://open.spotify.com/track/0JwAn6G5cV7HEPa3XVow3b"
+    },
+    {
+      "album": {
         "name": "The Voice of What Whispers",
         "url": "https://open.spotify.com/album/73hzW7c39KRCBuBRqiTZf3"
       },
@@ -9158,7 +9220,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 304653,
       "name": "The World Is On Fire",
       "url": "https://open.spotify.com/track/4sq64jeNjTyjzfmpyhTeDH"
@@ -9504,7 +9566,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 348360,
       "name": "Turnaround Situation",
       "url": "https://open.spotify.com/track/03F7CSdq7NvvuDasfupUOS"
@@ -9696,6 +9758,28 @@
       "duration_ms": 277578,
       "name": "Upon the Rainbow (Befrost) - 2025 Remaster",
       "url": "https://open.spotify.com/track/0VdLi4XZj57BT6HxM3K2jG"
+    },
+    {
+      "album": {
+        "name": "Veridream",
+        "url": "https://open.spotify.com/album/7nSvdvrZDSSPookHu7ReF9"
+      },
+      "artists": [
+        {
+          "name": "HOL1D4Y",
+          "url": "https://open.spotify.com/artist/7oZggZ6oPPQYitKMwGV7TT"
+        },
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307777,
+      "name": "Veridream",
+      "url": "https://open.spotify.com/track/2N8whKaxyazl4Bqp9pj4ZL"
     },
     {
       "album": {

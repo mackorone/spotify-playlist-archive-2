@@ -4,12 +4,12 @@
 
 > This is Manu Dibango\. The essential tracks, all in one playlist.
 
-174 songs - 13 hr 12 min
+175 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abele Dance](https://open.spotify.com/track/1tTUxQPN19BkCv5Qk9FFSx) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [The Very Best of Manu Dibango: Afro Soul Jazz from the Original Makossa Man](https://open.spotify.com/album/02v98oaLbJQweqTYB3tAgv) | 6:54 | 2021-12-29 | 2022-10-13 |
-| [Africa Boogie](https://open.spotify.com/track/2G7bPzKZl4pQjn1OalcIuQ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Waka Juju](https://open.spotify.com/album/30gLt6nQcs5kTTU1n9zoZh) | 4:16 | 2024-02-08 |  |
+| [Africa Boogie](https://open.spotify.com/track/2G7bPzKZl4pQjn1OalcIuQ) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Waka Juju](https://open.spotify.com/album/30gLt6nQcs5kTTU1n9zoZh) | 4:16 | 2024-02-08 | 2026-08-01 |
 | [Africa Boogie](https://open.spotify.com/track/0vN7mFkONrm4lRXNHSyimn) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 4:17 | 2021-12-31 | 2024-01-07 |
 | [Africa Boogie](https://open.spotify.com/track/3ThxklWrT1K5Cx2V3TYpL8) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Dibango 82 – In Marseille Dec 82](https://open.spotify.com/album/3sFpm1dzLfedjW4oOkqyXG) | 11:03 | 2025-04-20 | 2025-06-21 |
 | [Africadelic](https://open.spotify.com/track/64i32ix5p44S1Pq7ulh92i) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 2:14 | 2022-03-06 | 2022-03-13 |
@@ -100,6 +100,7 @@
 | [Les garçons ne pleurent pas](https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Taciturne](https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC) | 4:34 | 2021-12-28 | 2026-05-21 |
 | [Lily](https://open.spotify.com/track/22tFAxQp5YRirWV8EWU7J6) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Kamer Feeling](https://open.spotify.com/album/02T4tS67RI3QbqQTVnvGkt) | 4:11 | 2021-12-28 | 2022-03-30 |
 | [Lily](https://open.spotify.com/track/5cMFjZAoxCWqgUO7VQcunF) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Kamer Feeling](https://open.spotify.com/album/7bfvTwvAo7ILbQgpmuH8Li) | 4:11 | 2022-04-06 | 2023-08-04 |
+| [Ma Marie](https://open.spotify.com/track/6MPENTubbX4yGZBA3WZS7d) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [King Makossa](https://open.spotify.com/album/5SFwedm4sBkGcZGiql9VnB) | 8:21 | 2026-08-01 |  |
 | [Maladie d'amour](https://open.spotify.com/track/4bDB0hu8475WvhjMw1jXcN) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Jacob Desvarieux](https://open.spotify.com/artist/3rF9KKd6aPZvLa2NbQsiKH) | [Balade en Saxo](https://open.spotify.com/album/4DJqtm93qTlJk2jEynoocr) | 3:28 | 2026-05-06 | 2026-06-03 |
 | [Manga Bolo](https://open.spotify.com/track/1HLgT7DvHzZ7JvEdXrgWCg) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 5:43 | 2022-04-05 | 2022-04-07 |
 | [Marabout](https://open.spotify.com/track/4oQPy612SNhvUOABRL1eoA) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Marabout](https://open.spotify.com/album/1iSYAl8J4OCu4ca3LrPjG3) | 6:22 | 2026-06-14 |  |

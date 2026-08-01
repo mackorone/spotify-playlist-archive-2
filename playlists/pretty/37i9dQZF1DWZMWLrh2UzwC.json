@@ -1,13 +1,65 @@
 {
-  "description": "New music from Exists, Faizal Tahir, DOLLA, F.HERO, Eric Chou and more!",
-  "num_followers": 75754,
+  "description": "New music from Ariana Grande, Cardi B, Exists, Faizal Tahir, DOLLA, F.Hero, Eric Chou and more!",
+  "num_followers": 75876,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO0xKJCUytoOYmq7+CIOerSTVPMJ",
+  "snapshot_id": "AAAAANsx+9nZfd2voiiVFgCZul3GcILl",
   "tracks": [
+    {
+      "added_at": "2026-07-31 04:04:32",
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+    },
+    {
+      "added_at": "2026-07-31 04:04:32",
+      "album": {
+        "name": "AH HA",
+        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "AH HA",
+      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
+    },
+    {
+      "added_at": "2026-07-31 04:04:32",
+      "album": {
+        "name": "MOTION (feat. Juicy J)",
+        "url": "https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "MOTION (feat. Juicy J)",
+      "url": "https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy"
+    },
     {
       "added_at": "2026-07-30 16:04:04",
       "album": {
@@ -50,10 +102,14 @@
         {
           "name": "Faizal Tahir",
           "url": "https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk"
+        },
+        {
+          "name": "mimpi.",
+          "url": "https://open.spotify.com/artist/2eeHSawIPcv45fDx6DJkKE"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 224482,
+      "name": "Di Bawah KasihMu",
       "url": "https://open.spotify.com/track/7ayIvIoid0PM8Om7RDmSbs"
     },
     {
@@ -321,6 +377,26 @@
       "url": "https://open.spotify.com/track/64VnWqnEIz130BnVlqYHgV"
     },
     {
+      "added_at": "2026-07-31 04:04:32",
+      "album": {
+        "name": "The Outlaw Cherie Lee & Other Western Tales",
+        "url": "https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 195952,
+      "name": "Bullets & Blades (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2"
+    },
+    {
       "added_at": "2026-07-30 16:04:04",
       "album": {
         "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
@@ -448,9 +524,25 @@
           "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 258565,
+      "name": "Untuk Kau Hargai",
       "url": "https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM"
+    },
+    {
+      "added_at": "2026-07-31 04:59:47",
+      "album": {
+        "name": "Rasa",
+        "url": "https://open.spotify.com/album/1Jx9rOSp8cEuIOKZeDjit2"
+      },
+      "artists": [
+        {
+          "name": "The Lima",
+          "url": "https://open.spotify.com/artist/3q1JuOEuuMPaJdMZQURAKJ"
+        }
+      ],
+      "duration_ms": 254974,
+      "name": "Rasa",
+      "url": "https://open.spotify.com/track/3LWU1zIWiIPoC8hJ2MrcgJ"
     },
     {
       "added_at": "2026-07-30 16:04:04",
@@ -537,6 +629,22 @@
       "url": "https://open.spotify.com/track/2Lu21iRRPoWzYTkVJG3Vsk"
     },
     {
+      "added_at": "2026-07-31 04:04:32",
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/6HWIDxWLkXE2MzQB8iXN9T"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 196166,
+      "name": "oh well",
+      "url": "https://open.spotify.com/track/0FLRCJFiboTgk2odosWZ7Q"
+    },
+    {
       "added_at": "2026-07-30 16:04:04",
       "album": {
         "name": "The Wedding Song (From \"Vishwanath & Sons\")(Tamil)",
@@ -595,22 +703,6 @@
       "duration_ms": 169424,
       "name": "Manusia Pertama",
       "url": "https://open.spotify.com/track/6YMV8CB1h3myG0Wi8iwvEL"
-    },
-    {
-      "added_at": "2026-07-30 16:04:04",
-      "album": {
-        "name": "Last Goodbye",
-        "url": "https://open.spotify.com/album/1GXnrfJVkKA3IJ1qDrx6j7"
-      },
-      "artists": [
-        {
-          "name": "After Mdnight",
-          "url": "https://open.spotify.com/artist/3ep3ws1EvwD6SKeVjjorqT"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/0TQGjBPwI3UUM3zvKRsnad"
     },
     {
       "added_at": "2026-07-30 16:04:04",
@@ -941,6 +1033,26 @@
       "url": "https://open.spotify.com/track/6hLXEw6UBlOheD40F91Cl4"
     },
     {
+      "added_at": "2026-07-31 04:04:32",
+      "album": {
+        "name": "\u5931\u91cd\u8272(Fade) [feat. SION of NCT]",
+        "url": "https://open.spotify.com/album/6w5O2evJjedu67ksvRB49l"
+      },
+      "artists": [
+        {
+          "name": "SEHUN",
+          "url": "https://open.spotify.com/artist/79R17q4kiPsimHDtdOlN2L"
+        },
+        {
+          "name": "SION of NCT",
+          "url": "https://open.spotify.com/artist/2TemVYKCRNKz5LmOp64wBn"
+        }
+      ],
+      "duration_ms": 167320,
+      "name": "\u5931\u91cd\u8272(Fade) [feat. SION of NCT]",
+      "url": "https://open.spotify.com/track/1sI1RlhOfEjFl2Xuqudfyk"
+    },
+    {
       "added_at": "2026-07-30 16:04:04",
       "album": {
         "name": "Twiggy",
@@ -1023,6 +1135,22 @@
       "duration_ms": 153900,
       "name": "How Much Does It Take To Shift It All",
       "url": "https://open.spotify.com/track/2bne9dLddO3klo6hvSRUIY"
+    },
+    {
+      "added_at": "2026-07-31 04:04:32",
+      "album": {
+        "name": "what now?",
+        "url": "https://open.spotify.com/album/4fg7hq5mF0hYoqQooQO87r"
+      },
+      "artists": [
+        {
+          "name": "KARLEE GIRL",
+          "url": "https://open.spotify.com/artist/2fF1XYfUG2IbdEQZ4H0lHX"
+        }
+      ],
+      "duration_ms": 188444,
+      "name": "what now?",
+      "url": "https://open.spotify.com/track/6UOX5jgJVxjKr1rj5AnQC5"
     },
     {
       "added_at": "2026-07-30 22:02:04",
@@ -1764,8 +1892,8 @@
           "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 161506,
+      "name": "Lady In the GPS",
       "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
     },
     {
@@ -1780,8 +1908,8 @@
           "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 156000,
+      "name": "Dream inside a dream...",
       "url": "https://open.spotify.com/track/646gVKNhqtIbOtTjys0Dzd"
     },
     {
@@ -1899,6 +2027,22 @@
       "duration_ms": 204000,
       "name": "Flower (Feat. HAGA)",
       "url": "https://open.spotify.com/track/57z0hwBdkJjQyTKBEzS0VE"
+    },
+    {
+      "added_at": "2026-07-31 10:53:10",
+      "album": {
+        "name": "SOUL BABY",
+        "url": "https://open.spotify.com/album/5sXJul476tGRt2eHMstVDr"
+      },
+      "artists": [
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "On the Weekend",
+      "url": "https://open.spotify.com/track/7vSnswbt8JRufDevmFgm0n"
     },
     {
       "added_at": "2026-07-30 16:04:04",

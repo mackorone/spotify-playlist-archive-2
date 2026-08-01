@@ -9054,7 +9054,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 138620,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/4gxIaetYYaMI5uelXRpnfQ"
@@ -13036,6 +13036,28 @@
       "duration_ms": 220766,
       "name": "Yeshua!",
       "url": "https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN"
+    },
+    {
+      "album": {
+        "name": "YESU",
+        "url": "https://open.spotify.com/album/6AmGXpLt7W7ygyt1Ojk8el"
+      },
+      "artists": [
+        {
+          "name": "Vblaiz",
+          "url": "https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca"
+        },
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "YESU",
+      "url": "https://open.spotify.com/track/54wWAAGkIHZG03JkcSd2cS"
     },
     {
       "album": {

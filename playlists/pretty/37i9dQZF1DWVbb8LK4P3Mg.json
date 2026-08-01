@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 152382,
+  "num_followers": 152361,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "1st Intermixxion Single <Funky Glitter Christmas>",
-        "url": "https://open.spotify.com/album/2ZQSSethyzGYRVqEKBwNwO"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 190306,
-      "name": "Funky Glitter Christmas",
-      "url": "https://open.spotify.com/track/6hnOv3KeFpIwLER7okvLjq"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "This Christmas \u2013 Winter is Coming",
         "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 267250,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/6eAMa0e7WCbjM7ivbAhvkq"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "1st Intermixxion Single <Funky Glitter Christmas>",
+        "url": "https://open.spotify.com/album/2ZQSSethyzGYRVqEKBwNwO"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 190306,
+      "name": "Funky Glitter Christmas",
+      "url": "https://open.spotify.com/track/6hnOv3KeFpIwLER7okvLjq"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 215101,
+      "name": "I'm all ears",
+      "url": "https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Ex-Mas",
         "url": "https://open.spotify.com/album/1SdCbiVhmFkKbkNXpaVWe5"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 216564,
       "name": "Ex-Mas",
       "url": "https://open.spotify.com/track/4OPHXmAsFf5BcMhUSITwm1"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 215101,
-      "name": "I'm all ears",
-      "url": "https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "[Hwa Sa Show Vol.2] Grey Christmas",
-        "url": "https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Grey Christmas",
-      "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "The Winter's Tale",
         "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 259030,
       "name": "The Winter's Tale",
       "url": "https://open.spotify.com/track/2vB31lIPJPHBfjOkgW1CQr"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "[Hwa Sa Show Vol.2] Grey Christmas",
+        "url": "https://open.spotify.com/album/3sGZLUL4z7U9rPjkfyldX7"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 208293,
+      "name": "Grey Christmas",
+      "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Christmas Promises",
-        "url": "https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1"
+        "name": "Merry-Chri",
+        "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
       },
       "artists": [
         {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
         }
       ],
-      "duration_ms": 188053,
-      "name": "Sleigh",
-      "url": "https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG"
+      "duration_ms": 332666,
+      "name": "Merry-Chri",
+      "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Merry-Chri",
-        "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
-      },
-      "artists": [
-        {
-          "name": "BoA",
-          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
-        }
-      ],
-      "duration_ms": 332666,
-      "name": "Merry-Chri",
-      "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Peppermint Tea",
         "url": "https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 211933,
       "name": "Mr. Snowman",
       "url": "https://open.spotify.com/track/1Bo4rmJ5bFUcq03tjJY98H"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Christmas Promises",
+        "url": "https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Sleigh",
+      "url": "https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Christmas Dance",
-        "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
-      },
-      "artists": [
-        {
-          "name": "ROCKY",
-          "url": "https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ"
-        }
-      ],
-      "duration_ms": 244173,
-      "name": "Christmas Dance",
-      "url": "https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL"
+        "name": "Christmas Dance",
+        "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
       },
       "artists": [
         {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+          "name": "ROCKY",
+          "url": "https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ"
         }
       ],
-      "duration_ms": 206493,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S"
+      "duration_ms": 244173,
+      "name": "Christmas Dance",
+      "url": "https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1135,6 +1119,22 @@
       "duration_ms": 206439,
       "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
       "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "For Sentimental Reasons",
+        "url": "https://open.spotify.com/album/6Y9QuBzXGc5hn0zzkl8Le9"
+      },
+      "artists": [
+        {
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
+        }
+      ],
+      "duration_ms": 280733,
+      "name": "For Sentimental Reasons",
+      "url": "https://open.spotify.com/track/1PnnkvCYq5EVnltifNmny7"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "When It Snows mmm (feat. Wheein)",
         "url": "https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 185240,
       "name": "When It Snows mmm (feat. Wheein)",
       "url": "https://open.spotify.com/track/5p4nVbbKRDASNjHNI5HvOV"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "For Sentimental Reasons",
-        "url": "https://open.spotify.com/album/6Y9QuBzXGc5hn0zzkl8Le9"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 280733,
-      "name": "For Sentimental Reasons",
-      "url": "https://open.spotify.com/track/1PnnkvCYq5EVnltifNmny7"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Christmas Love",
-        "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
+        "name": "APRIL 3rd Mini Album 'Prelude'",
+        "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
       },
       "artists": [
         {
-          "name": "A.C.E",
-          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
         }
       ],
-      "duration_ms": 192533,
-      "name": "Christmas Love",
-      "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
+      "duration_ms": 185354,
+      "name": "Snowman (Special Ver.)",
+      "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "APRIL 3rd Mini Album 'Prelude'",
-        "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
+        "name": "Christmas Love",
+        "url": "https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3"
       },
       "artists": [
         {
-          "name": "APRIL",
-          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+          "name": "A.C.E",
+          "url": "https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi"
         }
       ],
-      "duration_ms": 185354,
-      "name": "Snowman (Special Ver.)",
-      "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
+      "duration_ms": 192533,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
     }
   ],
   "unique_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",

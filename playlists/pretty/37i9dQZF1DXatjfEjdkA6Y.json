@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 6066,
+  "num_followers": 6069,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,18 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "16 Hits",
-        "url": "https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN"
+        "name": "Conny's Party",
+        "url": "https://open.spotify.com/album/78QEFBFzUrexKwAgCHQKTP"
       },
       "artists": [
         {
-          "name": "Grethe Ingmann",
-          "url": "https://open.spotify.com/artist/74NZRc4VtnABmp3rP9e1Gs"
-        },
-        {
-          "name": "J\u00f8rgen Ingmann",
-          "url": "https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb"
+          "name": "Conny Froboess",
+          "url": "https://open.spotify.com/artist/6f2LUH4PkJ5glS83rEyyOk"
         }
       ],
-      "duration_ms": 177293,
-      "name": "Dansevise",
-      "url": "https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM"
+      "duration_ms": 165266,
+      "name": "Zwei kleine Italiener",
+      "url": "https://open.spotify.com/track/2v3TG35plidR486Cltpgxs"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -143,18 +139,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Conny's Party",
-        "url": "https://open.spotify.com/album/78QEFBFzUrexKwAgCHQKTP"
+        "name": "16 Hits",
+        "url": "https://open.spotify.com/album/74u48w2QLDrnp2neG6hzLN"
       },
       "artists": [
         {
-          "name": "Conny Froboess",
-          "url": "https://open.spotify.com/artist/6f2LUH4PkJ5glS83rEyyOk"
+          "name": "Grethe Ingmann",
+          "url": "https://open.spotify.com/artist/74NZRc4VtnABmp3rP9e1Gs"
+        },
+        {
+          "name": "J\u00f8rgen Ingmann",
+          "url": "https://open.spotify.com/artist/1mUxA8Bcd9qdMgH9uMOIQb"
         }
       ],
-      "duration_ms": 165266,
-      "name": "Zwei kleine Italiener",
-      "url": "https://open.spotify.com/track/2v3TG35plidR486Cltpgxs"
+      "duration_ms": 177293,
+      "name": "Dansevise",
+      "url": "https://open.spotify.com/track/1oIVUqdVUFouSa6xsSN5aM"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "The Albums 1970-73",
-        "url": "https://open.spotify.com/album/7fCJV5AS4vWwgSaeYPwKEj"
-      },
-      "artists": [
-        {
-          "name": "The New Seekers",
-          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Beg, Steal Or Borrow",
-      "url": "https://open.spotify.com/track/0oIL0V8acWjmUDs79Uiqsz"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Disco Tango [Remastered]",
         "url": "https://open.spotify.com/album/6ejeH3NNZ33ZjDbYdJXdcY"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 170173,
       "name": "Disco Tango",
       "url": "https://open.spotify.com/track/5JpYM0yLDfKfoPWqydsqgj"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "The Albums 1970-73",
+        "url": "https://open.spotify.com/album/7fCJV5AS4vWwgSaeYPwKEj"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/0oIL0V8acWjmUDs79Uiqsz"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Solino",
+        "url": "https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb"
+      },
+      "artists": [
+        {
+          "name": "Emilio Pericoli",
+          "url": "https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ"
+        }
+      ],
+      "duration_ms": 178720,
+      "name": "Uno Per Tutte",
+      "url": "https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 196519,
       "name": "Non ho l'et\u00e0 - Remastered",
       "url": "https://open.spotify.com/track/65715T2yQVD0uPDRcrODGk"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Solino",
-        "url": "https://open.spotify.com/album/0I3MXd5FYGAj6X9GOJepMb"
-      },
-      "artists": [
-        {
-          "name": "Emilio Pericoli",
-          "url": "https://open.spotify.com/artist/78SZetGidiOyErFwdWTmgQ"
-        }
-      ],
-      "duration_ms": 178720,
-      "name": "Uno Per Tutte",
-      "url": "https://open.spotify.com/track/4OF9t8dHcIBMip0Vc5hSlk"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Marion Rung",
-        "url": "https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL"
-      },
-      "artists": [
-        {
-          "name": "Marion Rung",
-          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "Tipi-tii",
-      "url": "https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Herzen zu verschenken",
         "url": "https://open.spotify.com/album/0RGfq0U1p0D1PumB2YHlUB"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 193973,
       "name": "Nur die Liebe l\u00e4sst uns leben - Neuaufnahme",
       "url": "https://open.spotify.com/track/7nlbJorq1OC3Gph4hCLyhY"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Marion Rung",
+        "url": "https://open.spotify.com/album/2KvulZCeNvldgfmORtL4IL"
+      },
+      "artists": [
+        {
+          "name": "Marion Rung",
+          "url": "https://open.spotify.com/artist/3IUX9s0yHuyUq3KSo4SXym"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Tipi-tii",
+      "url": "https://open.spotify.com/track/7r0GgmwNre1NtsrRA00bMa"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Primaballerina",
-        "url": "https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy"
-      },
-      "artists": [
-        {
-          "name": "Siw Malmkvist",
-          "url": "https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl"
-        }
-      ],
-      "duration_ms": 162748,
-      "name": "Primaballerina - tysk Version",
-      "url": "https://open.spotify.com/track/5I0IiNSEy5ww523Wvmgrmc"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Mega 50 - Die 70er Jahre",
         "url": "https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 183466,
       "name": "Feuer - Remastered 1996",
       "url": "https://open.spotify.com/track/1bBZVweXaAyLI8FkuhoOyb"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Primaballerina",
+        "url": "https://open.spotify.com/album/4XJS3oPFX2Dh5GvDHI7lHy"
+      },
+      "artists": [
+        {
+          "name": "Siw Malmkvist",
+          "url": "https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl"
+        }
+      ],
+      "duration_ms": 162748,
+      "name": "Primaballerina - tysk Version",
+      "url": "https://open.spotify.com/track/5I0IiNSEy5ww523Wvmgrmc"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Golden Girls",
-        "url": "https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV"
-      },
-      "artists": [
-        {
-          "name": "Silver Convention",
-          "url": "https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Telegram",
-      "url": "https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Reeling In The Decades",
         "url": "https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 173013,
       "name": "That's What Friends Are For",
       "url": "https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Golden Girls",
+        "url": "https://open.spotify.com/album/0bUaCbCLyGV2aneWfDSDcV"
+      },
+      "artists": [
+        {
+          "name": "Silver Convention",
+          "url": "https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Telegram",
+      "url": "https://open.spotify.com/track/72YL3BihTfLT3gfihtonfB"
     }
   ],
   "unique_name": "Eurovision Gold",

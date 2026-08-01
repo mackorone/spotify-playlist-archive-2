@@ -9486,7 +9486,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 196096,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/7A59507Y8skdJbc49vPGwA"
@@ -12578,7 +12578,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 180005,
       "name": "Looking For Change",
       "url": "https://open.spotify.com/track/0WViv2bn3fZndMTXhpfOWS"
@@ -17294,6 +17294,24 @@
       "duration_ms": 371520,
       "name": "Pastel",
       "url": "https://open.spotify.com/track/0QWG9OtA0oHnpQH0iCxicr"
+    },
+    {
+      "album": {
+        "name": "Patigo",
+        "url": "https://open.spotify.com/album/2tos295ovD9NdTx99fCPCf"
+      },
+      "artists": [
+        {
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Patigo",
+      "url": "https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7"
     },
     {
       "album": {
@@ -22420,6 +22438,28 @@
       "duration_ms": 392000,
       "name": "The Woods - Kostakis Lost in the Woods Edit",
       "url": "https://open.spotify.com/track/5dm5TSgzPHfTz12Il1ZubQ"
+    },
+    {
+      "album": {
+        "name": "Secrets of the WRLD",
+        "url": "https://open.spotify.com/album/0Lh96OK9UoR8pDDzeBsuzI"
+      },
+      "artists": [
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212302,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/0F7VIl2pS58IFwFTwenXc3"
     },
     {
       "album": {

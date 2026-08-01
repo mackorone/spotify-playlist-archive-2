@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-611 songs - 2 day 0 hr 55 min
+614 songs - 2 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Control](https://open.spotify.com/track/3Wesx48x9hpkJRDtJp7fdZ) | [Eden FM](https://open.spotify.com/artist/27UKaWqi4fjaBFY0sNmvNT) | [Ataxia](https://open.spotify.com/album/5WebisF7O14pdbTWdbq4TU) | 3:50 | 2026-05-01 |  |
 | [Cops de Cap](https://open.spotify.com/track/51AQ51yZDNWDPv14cNFFwY) | [Pedro Vian](https://open.spotify.com/artist/6ZauMzEw3kvDr7fqK3CbjE) | [Black Toms](https://open.spotify.com/album/3Zd9orgVaWayWFOjGMjN2l) | 5:39 | 2021-10-06 | 2025-07-17 |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-10-06 | 2024-07-03 |
-| [Cosplayer \(export per Guido\)](https://open.spotify.com/track/0C0VnUtQ9OMDyp9pt1bZf3) | [Mofw](https://open.spotify.com/artist/0SEWdriPzbyDyT38BWWxiH) | [Cosplayer \(export per Guido\)](https://open.spotify.com/album/3vx7q5z7zSCyZt6ghyAYiO) | 3:58 | 2025-09-19 |  |
+| [Cosplayer \(export per Guido\)](https://open.spotify.com/track/0C0VnUtQ9OMDyp9pt1bZf3) | [Mofw](https://open.spotify.com/artist/0SEWdriPzbyDyT38BWWxiH) | [Cosplayer \(export per Guido\)](https://open.spotify.com/album/3vx7q5z7zSCyZt6ghyAYiO) | 3:58 | 2025-09-19 | 2026-08-01 |
 | [Creatura](https://open.spotify.com/track/3HwM404FecueIoHgUGl6b1) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/1ZCpJ8e52gDDTWL5UMr5Dm) | 4:12 | 2022-04-09 | 2025-07-17 |
 | [Creatura](https://open.spotify.com/track/4t2rtg8xGq6hKgXmDJzq3k) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/7iKvcnzcqiPHlyvXKvs0d3) | 4:12 | 2022-04-09 | 2024-04-19 |
 | [Cuarzo](https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8) | [Syntrovert](https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA) | [Amuleto](https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg) | 3:35 | 2022-01-11 | 2023-04-01 |
@@ -151,7 +151,7 @@
 | [Derrwut](https://open.spotify.com/track/2YvuaFepDHElKAuZtmjYSB) | [Rogelio the IIIrd](https://open.spotify.com/artist/4rUsH3oMKno1XFIXH9Phve) | [Derrwut](https://open.spotify.com/album/78l8Xlbky2z4MxW3Jml8b7) | 2:41 | 2024-05-08 | 2025-09-20 |
 | [Diamond Beach](https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P) | [Modula](https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7) | [Diamond Beach](https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE) | 3:04 | 2022-02-25 | 2025-07-17 |
 | [Disig](https://open.spotify.com/track/4Gaub7XH9WEFVHSnVQurbk) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Nutrition EP](https://open.spotify.com/album/1bOl840hJ6oAoDWn1qNYgV) | 5:04 | 2024-11-12 | 2025-09-06 |
-| [Distant](https://open.spotify.com/track/78YbjH5ZZcqN2WnesZ7vLM) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [Can’t Go](https://open.spotify.com/album/7scuOHjL4BDu2GW6KCva3q) | 4:12 | 2026-01-30 |  |
+| [Distant](https://open.spotify.com/track/78YbjH5ZZcqN2WnesZ7vLM) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [Can’t Go](https://open.spotify.com/album/7scuOHjL4BDu2GW6KCva3q) | 4:12 | 2026-01-30 | 2026-08-01 |
 | [Distant Solace](https://open.spotify.com/track/2Ay2lOlqlXqI0iphLhb51B) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Distant Solace](https://open.spotify.com/album/7odaTvennSTNVuMLArV19i) | 2:33 | 2024-02-02 | 2025-10-18 |
 | [Divine Interference](https://open.spotify.com/track/6fmx1B2AdJi1Nu7m6cVRnN) | [Sophia Loizou](https://open.spotify.com/artist/35wH6kN89Vy5MeYwTKHQ9Q) | [Singulacra](https://open.spotify.com/album/1SyVmG5FoRitDCJKzxIssB) | 5:33 | 2021-10-06 | 2025-07-17 |
 | [Do Lixo Ouriço Ganha](https://open.spotify.com/track/5v9aevluGi1W5ti4hLOuEg) | [Raar](https://open.spotify.com/artist/2inN4goKGw8lstrQxVQYgO) | [Do Lixo Ouriço Ganha](https://open.spotify.com/album/31f68bZVdnBFx6nhjkzwQZ) | 2:58 | 2024-10-16 | 2024-11-16 |
@@ -280,6 +280,7 @@
 | [La Luna me Dijo Esto Detrás del Puente](https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf) | [Boundary](https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS) | [Oxido En El Espejo](https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84) | 4:43 | 2024-07-02 | 2025-09-06 |
 | [La Riva](https://open.spotify.com/track/5YcH4BZgRV8pcfsUy1bc06) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Terra](https://open.spotify.com/album/3qW1EhwK8CFXd4tiUMg7mk) | 3:54 | 2026-03-13 |  |
 | [LADDE](https://open.spotify.com/track/1uescVu7fcevtmnW9vps7A) | [Bogdan Raczynski](https://open.spotify.com/artist/2bYCvT1nqpbbspU5DZG5nA) | [ADDLE](https://open.spotify.com/album/1xD85z87BbTL8jtOEHPCK5) | 4:04 | 2023-01-02 | 2025-06-14 |
+| [Lakeside Rendezvous \- Derviate Version](https://open.spotify.com/track/08kl1ZAMgFxzpsh9NVKWwj) | [Havantepe](https://open.spotify.com/artist/3weetANlzOcw3zUhhK8oEQ) | [Inland](https://open.spotify.com/album/1t28dnFA5EcN1PF2EhWrwk) | 5:31 | 2026-07-31 |  |
 | [Las Tres Hermanas](https://open.spotify.com/track/5yr6EVWfo3p9C766yeOo3z) | [De Juepuchas](https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC), [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Las Tres Hermanas](https://open.spotify.com/album/7HJ6ekJSoJP6utcPh1HmK9) | 3:49 | 2022-09-27 | 2023-03-19 |
 | [Lava](https://open.spotify.com/track/3ybRuAVWEFuldEo4CwXEKd) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ) | [Lava](https://open.spotify.com/album/0MmRSOYKhY5LIseTl3SKLH) | 4:38 | 2026-02-10 | 2026-04-11 |
 | [lavender's love](https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [lavender's love](https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo) | 2:40 | 2022-04-12 | 2023-04-01 |
@@ -306,6 +307,7 @@
 | [LSI Dreaming](https://open.spotify.com/track/4TQwoeLP4Mj9vHsf6h6zNw) | [Mayurashka](https://open.spotify.com/artist/6gdSugS8T7jCKcMA1B4Zcf) | [LSI Dreaming](https://open.spotify.com/album/0Zy5FDZUHa4cMdM3UmUgYi) | 5:13 | 2025-06-20 | 2025-10-04 |
 | [Lucky Me](https://open.spotify.com/track/0x5xYIRlkAYComANpdnPNB) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Lucky Me](https://open.spotify.com/album/1HKIdsPLPNWtZ6TO5xy0AK) | 5:58 | 2025-03-14 | 2025-09-20 |
 | [Lush Nova Elec](https://open.spotify.com/track/1zE3a5bnQp7oItLXIWG6Ap) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [Courtesy of Choice ۲۵..\. asides and besides \(25th anniversary\)](https://open.spotify.com/album/7Ibx5ilXwSbjQl2NB6Yb7K) | 3:09 | 2025-11-14 | 2026-01-31 |
+| [LXR](https://open.spotify.com/track/502cDADZYFiZNpKXw7l6lw) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Daito Manabe](https://open.spotify.com/artist/5PvcbcfjWTEq5pTQbcUGVl) | [LXR](https://open.spotify.com/album/23uW39xHirYeJaTA5Cshxh) | 4:20 | 2026-07-31 |  |
 | [LYMRINCE](https://open.spotify.com/track/52SBzN2ON4wkDmEEM0I5bK) | [enuar](https://open.spotify.com/artist/5vokRMHo5yamJ1b2NHDIcz) | [LYMRINCE / xcix\-maxima](https://open.spotify.com/album/1lvWOvSMLOOu9uJVzN4C3d) | 1:54 | 2025-04-25 | 2026-01-24 |
 | [Mainstream Belief](https://open.spotify.com/track/2VtvAOGHHsJ57UO46v9ybK) | [Grant](https://open.spotify.com/artist/5xUqD3EXrIaAq1IZeOC4lM) | [Cranks](https://open.spotify.com/album/1tBm85iGcYs2mlr7BIUvmv) | 4:59 | 2021-10-06 | 2025-07-17 |
 | [Manuark](https://open.spotify.com/track/2SSdkW1L2k8scw8cUvea6l) | [Voices from The Lake](https://open.spotify.com/artist/5SbbRrhr7qhyu1jv75AzOh) | [Manuark](https://open.spotify.com/album/73qxUWhcVJKaTHKkDgpS0d) | 6:54 | 2025-10-24 | 2026-02-28 |
@@ -336,6 +338,7 @@
 | [Momentum](https://open.spotify.com/track/5CvGlnk06OQD32B87F2qbt) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Momentum](https://open.spotify.com/album/5sZ8D45IwJ8mNpRHf9AtGV) | 4:25 | 2021-10-06 | 2025-07-17 |
 | [Moodified](https://open.spotify.com/track/20kr9NhtO26sVoRJVytmbz) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Juggling Dualities](https://open.spotify.com/album/5qC61iRz1ARfv0wqbPCxu4) | 6:15 | 2025-09-05 | 2025-11-15 |
 | [Moon](https://open.spotify.com/track/4G0ti20Qf9k7LYZ840PrOs) | [11ai](https://open.spotify.com/artist/6VzKRf1Q5Ur33XueBwcpi3) | [Moon / Flat](https://open.spotify.com/album/2x382kks8XKJkpTOfR5J7L) | 3:26 | 2026-07-10 |  |
+| [Moons of Temper](https://open.spotify.com/track/74RgR65ziwEmo4mbbLF0of) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Moons of Temper](https://open.spotify.com/album/2OHmQknXRgOuE4EYadMGUa) | 5:55 | 2026-07-31 |  |
 | [Morning Sun](https://open.spotify.com/track/1Si3jjKdNox3btMEcfRx0V) | [Below Clouds](https://open.spotify.com/artist/28Ml3ItdZ6mbi1q7X8hvfw) | [Morning Sun](https://open.spotify.com/album/3RRzxZkIeB5CLtTm7Fl2Lv) | 5:42 | 2022-04-12 | 2022-07-29 |
 | [Mountain](https://open.spotify.com/track/1th4PAEaEQEV0NWAFfwWvv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/3oF1tzg93AKNKRcX2sdABL) | 2:15 | 2021-10-06 | 2024-04-19 |
 | [Mountain](https://open.spotify.com/track/4D9jd1p839yUN9Vb6s6stj) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [No Mind](https://open.spotify.com/album/42O0cmAeYHzzaTZ6qqrvhB) | 2:15 | 2021-10-06 | 2025-07-17 |
@@ -512,7 +515,7 @@
 | [The need to avoid](https://open.spotify.com/track/25PIpJMhgUa85Yaz7nvUxV) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Projections](https://open.spotify.com/album/1jLpg42UwBnazMOIgAZtRQ) | 3:08 | 2022-02-09 | 2022-04-21 |
 | [The Pier](https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK) | [Bengalfuel](https://open.spotify.com/artist/06r801SGC5phdLkowJLkfl) | [Hodes](https://open.spotify.com/album/2CaQbV2NP1EDyeNvGA7LFP) | 3:14 | 2021-10-06 | 2025-07-17 |
 | [The Psychedelic One](https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Between Voids](https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE) | 4:28 | 2022-03-30 | 2025-06-07 |
-| [The Return](https://open.spotify.com/track/6ps1O9rWnwEUysLca3H4aV) | [Benyayer](https://open.spotify.com/artist/62kspOSigHDVlzg2R7UMaO), [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Morpho](https://open.spotify.com/album/6eIK93yfirsAXm42cpx1aH) | 4:05 | 2025-11-21 |  |
+| [The Return](https://open.spotify.com/track/6ps1O9rWnwEUysLca3H4aV) | [Benyayer](https://open.spotify.com/artist/62kspOSigHDVlzg2R7UMaO), [Dark Sky](https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV) | [Morpho](https://open.spotify.com/album/6eIK93yfirsAXm42cpx1aH) | 4:05 | 2025-11-21 | 2026-08-01 |
 | [The Star Compass](https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:49 | 2021-10-06 | 2025-07-17 |
 | [The Transmission](https://open.spotify.com/track/0L8WK3gP0SWb7ZSFf6I3o6) | [Introspekt](https://open.spotify.com/artist/31ykDn30Wy1xVAZJesUwgn) | [Moving The Center](https://open.spotify.com/album/0w1AdhVZIcrNkhq2SaU0Q2) | 4:43 | 2025-12-03 |  |
 | [The Trembling of Glass](https://open.spotify.com/track/2qxSI6WgvlUYjKNVH9pdf0) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [The Trembling of Glass](https://open.spotify.com/album/0TE1ALYdYkclAsNZYunqg5) | 3:28 | 2021-10-06 | 2025-07-17 |

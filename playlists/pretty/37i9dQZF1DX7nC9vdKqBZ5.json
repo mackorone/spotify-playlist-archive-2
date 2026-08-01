@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1499307,
+  "num_followers": 1499207,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -411,18 +411,18 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
-        "name": "Promete",
-        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
+        "name": "Quase Sem Querer",
+        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
       "artists": [
         {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 198377,
-      "name": "Promete",
-      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
+      "duration_ms": 216842,
+      "name": "Quase Sem Querer",
+      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -443,18 +443,18 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
-        "name": "Quase Sem Querer",
-        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
+        "name": "Promete",
+        "url": "https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
         }
       ],
-      "duration_ms": 216842,
-      "name": "Quase Sem Querer",
-      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
+      "duration_ms": 198377,
+      "name": "Promete",
+      "url": "https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
-        "name": "Cora\u00e7\u00e3o de A\u00e7o (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP"
-      },
-      "artists": [
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 228470,
-      "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
         "name": "Sol Lua Sol, ao Vivo em S\u00e3o Paulo (Ao Vivo)",
         "url": "https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla"
       },
@@ -615,6 +599,22 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
+        "name": "Cora\u00e7\u00e3o de A\u00e7o (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 228470,
+      "name": "Cora\u00e7\u00e3o de A\u00e7o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4INRtAsUPEypzHqQS04e5p"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
         "name": "Mande um Sinal (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
       },
@@ -627,26 +627,6 @@
       "duration_ms": 238374,
       "name": "Mande um Sinal - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3YlRl5CQICgg17tb6rIXXB"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
-        "name": "Onde A Gente Chegou",
-        "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
-      },
-      "artists": [
-        {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
-        },
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 160408,
-      "name": "Onde A Gente Chegou",
-      "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -671,6 +651,26 @@
       "duration_ms": 227415,
       "name": "N\u00e3o Vai Embora - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3lIuIcigjcZnQipCpaI6fh"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
+        "name": "Onde A Gente Chegou",
+        "url": "https://open.spotify.com/album/2ZTOUalTbd4OadSP9Js5If"
+      },
+      "artists": [
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        },
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 160408,
+      "name": "Onde A Gente Chegou",
+      "url": "https://open.spotify.com/track/1W0FHxSmWtKgzHUwqh50s8"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
-        "name": "penhasco. (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 213934,
-      "name": "penhasco. - (ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
         "name": "T\u00f4 De P\u00e9 (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5hdGzsTpsuqyjzFmfSL37v"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 169472,
       "name": "T\u00f4 De P\u00e9 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/22QdpwlY4mNXPhl2j9RfgD"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
+        "name": "penhasco. (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "penhasco. - (ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
-        "name": "Energia Surreal (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 177481,
-      "name": "Energia Surreal - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
         "name": "A Menina Dan\u00e7a",
         "url": "https://open.spotify.com/album/6aNPMqIIQKlCZWWEQVOggq"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 177978,
       "name": "A Menina Dan\u00e7a",
       "url": "https://open.spotify.com/track/1yBwbJLOt9BcGIfrULEfun"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
+        "name": "Energia Surreal (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/4sEHq6Ma5vgTsuDTLKK8lc"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 177481,
+      "name": "Energia Surreal - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6liKLBAIOXGFuKONLG3PIs"
     },
     {
       "added_at": "2026-05-29 03:00:27",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-05-29 03:00:27",
       "album": {
-        "name": "Bar\u00e3o Pra Sempre",
-        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
-        }
-      ],
-      "duration_ms": 202474,
-      "name": "Por Voc\u00ea - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
-    },
-    {
-      "added_at": "2026-05-29 03:00:27",
-      "album": {
         "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
         "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 196347,
       "name": "C\u00e9u Azul (Ao Vivo)",
       "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
+    },
+    {
+      "added_at": "2026-05-29 03:00:27",
+      "album": {
+        "name": "Bar\u00e3o Pra Sempre",
+        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+        }
+      ],
+      "duration_ms": 202474,
+      "name": "Por Voc\u00ea - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
     },
     {
       "added_at": "2026-05-29 03:00:27",

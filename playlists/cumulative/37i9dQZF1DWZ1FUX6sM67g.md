@@ -2,9 +2,9 @@
 
 ### [Punto Tropical](https://open.spotify.com/playlist/37i9dQZF1DWZ1FUX6sM67g)
 
-> ¡En este punto tropical, se encuentra un poco de todo! Foto: Jay Wheeler
+> ¡En este punto tropical, se encuentra un poco de todo! Foto: Silvestre Dangond y Elena Rose
 
-325 songs - 19 hr 4 min
+326 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Dominiqueando Mix](https://open.spotify.com/track/6SHHcGkw7lh1rkaedIYLz2) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Dominiqueando Mix](https://open.spotify.com/album/4TNNwIKxjGW48DlS2p6zxq) | 4:00 | 2026-02-27 | 2026-04-11 |
 | [DROGA](https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:42 | 2025-06-13 | 2025-12-06 |
 | [Déjame Respirar](https://open.spotify.com/track/6fsYMWqPX4nOKCb9gSDpEK) | [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Pacífico Maravilla, Un Arrullo Sinfónico](https://open.spotify.com/album/1BtvabUPzn9Xjo68ZUUOYH) | 3:19 | 2026-05-15 |  |
+| [Efectos Secundarios](https://open.spotify.com/track/3ZBeHVnqHHMOmv1ofhq6T0) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Efectos Secundarios](https://open.spotify.com/album/3WYvCcWn2UD44wxjkoUG0u) | 2:57 | 2026-07-31 |  |
 | [El Caballito](https://open.spotify.com/track/4VnxD9V3h0R6aCYjSrDYqJ) | [FARIANA](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Caballito](https://open.spotify.com/album/02Lqkj1doHSYSol3v5RH9R) | 3:01 | 2024-06-07 | 2024-09-07 |
 | [EL CANTANTE DEL GHETTO](https://open.spotify.com/track/50EDwjxJALuDmkRAreUQga) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E), [LA ETERNA](https://open.spotify.com/artist/3PrTzrJ36Kj5MYdyltrEB7) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/1N0LBYdEsIC9NLdXyZXkIi) | 3:25 | 2024-04-19 | 2024-06-08 |
 | [El carro Ford](https://open.spotify.com/track/3xyz9QMAjvWC0muckkitYp) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Escalona Nunca Se Había Grabado Así](https://open.spotify.com/album/7kNLI2jHSLoCzMdvs1ZQhz) | 2:59 | 2023-04-21 | 2023-05-20 |
@@ -218,7 +219,7 @@
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2026-03-18 | 2026-03-27 |
 | [Nada de Nada](https://open.spotify.com/track/4CX96IInUaO0d6COMz62Qp) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Pa'lla Voy](https://open.spotify.com/album/463Gp4DWFkicvZ3DCfgj0S) | 4:12 | 2022-05-20 | 2025-12-13 |
 | [Nada Que Me Pagan](https://open.spotify.com/track/4pH4hyu6sNdcZBCllIbo1u) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Nada Que Me Pagan](https://open.spotify.com/album/3iumjIgms5xHd1WtX9YbuS) | 4:18 | 2026-06-12 |  |
-| [Nassau](https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:36 | 2026-03-18 |  |
+| [Nassau](https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:36 | 2026-03-18 | 2026-08-01 |
 | [Necio \(feat\. Carlos Santana\)](https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 4:24 | 2022-05-20 | 2025-08-23 |
 | [Ni Con Él, Ni Conmigo](https://open.spotify.com/track/19NuFFsZaydL7IOAQWp7lK) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Ni Con Él, Ni Conmigo](https://open.spotify.com/album/5wj31qM3yS7ykkbvzvBcpV) | 3:47 | 2024-08-23 |  |
 | [Ni Tú Ni Yo](https://open.spotify.com/track/1qK7lKpGFGzR00uxY6XRLq) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ni Tú Ni Yo](https://open.spotify.com/album/35f9vTMAvc2oVRgduRYL8D) | 3:44 | 2024-05-10 | 2024-06-22 |

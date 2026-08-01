@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83d\udca5 Tech house operators, featuring DvirNuns",
+  "description": "50% techno, 50% house \ud83d\udcad Tech house operators, featuring Vintage Culture",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 216861,
       "name": "Anaconda",
       "url": "https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu"
@@ -4070,7 +4070,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 185954,
       "name": "Bad Wolf (feat. UNIIQU3)",
       "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
@@ -6557,6 +6557,24 @@
     },
     {
       "album": {
+        "name": "Booty Roll",
+        "url": "https://open.spotify.com/album/52aBf5hDkajXwXkaIsnLJD"
+      },
+      "artists": [
+        {
+          "name": "SEBS",
+          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165675,
+      "name": "Booty Roll",
+      "url": "https://open.spotify.com/track/3fVnYcsWzLWc1iwplYUwOg"
+    },
+    {
+      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/64RY3WoNtQIbPjfH69eiW5"
       },
@@ -7244,6 +7262,28 @@
       "duration_ms": 197250,
       "name": "Bring That Beat",
       "url": "https://open.spotify.com/track/0oRsLXUxw9d0qXsvYOpQBE"
+    },
+    {
+      "album": {
+        "name": "Bring The Beat Back",
+        "url": "https://open.spotify.com/album/3lgwAztqNRf5uupPe88kOR"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Mr. V",
+          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275232,
+      "name": "Bring The Beat Back",
+      "url": "https://open.spotify.com/track/1xTrhGzjQXcWZOT4Xq4tZC"
     },
     {
       "album": {
@@ -11716,7 +11756,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 169250,
       "name": "Danca",
       "url": "https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk"
@@ -13196,6 +13236,28 @@
       "duration_ms": 151277,
       "name": "Dirty Secret",
       "url": "https://open.spotify.com/track/2EbHWANHfsdKXx1OH40hfw"
+    },
+    {
+      "album": {
+        "name": "Disco Biscuit",
+        "url": "https://open.spotify.com/album/6qakIlOrsTgUcYfM7jyBSD"
+      },
+      "artists": [
+        {
+          "name": "Broken Hill",
+          "url": "https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ"
+        },
+        {
+          "name": "The Botanist",
+          "url": "https://open.spotify.com/artist/15ZbPLr8nbvNDZ1vaqr75W"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Disco Biscuit",
+      "url": "https://open.spotify.com/track/3oRxAZstpoc5xrT9HYFIJv"
     },
     {
       "album": {
@@ -16789,6 +16851,24 @@
     },
     {
       "album": {
+        "name": "Excuse Me EP",
+        "url": "https://open.spotify.com/album/31f5PwT3JJnrqPwzMoybdW"
+      },
+      "artists": [
+        {
+          "name": "Italobros",
+          "url": "https://open.spotify.com/artist/4lOv5vFosRcOvtIycZFZr5"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204883,
+      "name": "Excuse Me",
+      "url": "https://open.spotify.com/track/3LI6re9hgjfRopafe76N8t"
+    },
+    {
+      "album": {
         "name": "Expensive Taste",
         "url": "https://open.spotify.com/album/1fBvfw4iIuJDDw0xRfnTYw"
       },
@@ -16946,7 +17026,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 373000,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/1i1Uc8RJU8JhTWfmavnDrP"
@@ -20622,7 +20702,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 210461,
       "name": "Get Some",
       "url": "https://open.spotify.com/track/1GegmzGPEhqIHfXQ2p6UxK"
@@ -21049,6 +21129,24 @@
     },
     {
       "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/2ifLsTNcpLHakw8wYQPd3A"
+      },
+      "artists": [
+        {
+          "name": "Jay Pryor",
+          "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/6D468N32hOm1CnQaYRCIyx"
+    },
+    {
+      "album": {
         "name": "Give In To The Rhythm",
         "url": "https://open.spotify.com/album/3O2qVlg4vS18AMWFsPH0DX"
       },
@@ -21426,6 +21524,28 @@
       "duration_ms": 205312,
       "name": "God Complex",
       "url": "https://open.spotify.com/track/3ujrxclgI5IGFpGGcid37R"
+    },
+    {
+      "album": {
+        "name": "Goddamn",
+        "url": "https://open.spotify.com/album/6BvkrEpAOaoj2qZ5LRwuRN"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        },
+        {
+          "name": "FRANCO BA",
+          "url": "https://open.spotify.com/artist/4scG3MM222bFgXRcJ7Yajx"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195803,
+      "name": "Goddamn",
+      "url": "https://open.spotify.com/track/55IFdkZVVpOlIW5EGGmaSB"
     },
     {
       "album": {
@@ -23490,7 +23610,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 195523,
       "name": "Hold Up (You Feel That)",
       "url": "https://open.spotify.com/track/50YM2aUnoXylaWRCK8v3CZ"
@@ -25128,7 +25248,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 169218,
       "name": "I Need A Sweet",
       "url": "https://open.spotify.com/track/6HbcH5iziJBmogeCXvful5"
@@ -27720,7 +27840,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 351803,
       "name": "Kickdrum",
       "url": "https://open.spotify.com/track/5kvEJDw6dxw53p8HBEcDAN"
@@ -28473,6 +28593,24 @@
     },
     {
       "album": {
+        "name": "LA TO IBIZA",
+        "url": "https://open.spotify.com/album/1BixBJebSVzMxeiC4JyBMT"
+      },
+      "artists": [
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226976,
+      "name": "LA TO IBIZA",
+      "url": "https://open.spotify.com/track/2nPFKy5gMQS7Faj3q8mqw2"
+    },
+    {
+      "album": {
         "name": "La Vida",
         "url": "https://open.spotify.com/album/6KVnHWdc7C1ucY4kMVcmIg"
       },
@@ -29038,6 +29176,28 @@
       "duration_ms": 217846,
       "name": "Let It Bang",
       "url": "https://open.spotify.com/track/1Nl78W0Ne2EaiFkZVXeccd"
+    },
+    {
+      "album": {
+        "name": "Let It Drop",
+        "url": "https://open.spotify.com/album/5fisNLHDre4GmMi2a1AbSS"
+      },
+      "artists": [
+        {
+          "name": "Gabe",
+          "url": "https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu"
+        },
+        {
+          "name": "FatSync",
+          "url": "https://open.spotify.com/artist/6H11mqvcME7dP66oQ9Nf8U"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Let It Drop",
+      "url": "https://open.spotify.com/track/570GfmaPCjck0y8IbLmgBn"
     },
     {
       "album": {
@@ -32751,6 +32911,24 @@
     },
     {
       "album": {
+        "name": "MEDIA DOME",
+        "url": "https://open.spotify.com/album/7HGZy1gbvxdzCwLs3kKTc2"
+      },
+      "artists": [
+        {
+          "name": "D\u00d6NTELLA",
+          "url": "https://open.spotify.com/artist/1bym5kferA62KjXFXGQTQd"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218436,
+      "name": "MEDIA DOME",
+      "url": "https://open.spotify.com/track/6D6aaXb7cWGXvSuTcUZ38S"
+    },
+    {
+      "album": {
         "name": "Meet Me At The Rave",
         "url": "https://open.spotify.com/album/2wEzHPGyTNbDfF9VhrpFIQ"
       },
@@ -35394,7 +35572,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 223571,
       "name": "My Killers",
       "url": "https://open.spotify.com/track/03KDjQ54ghLmdABNti9XsI"
@@ -40991,6 +41169,32 @@
     },
     {
       "album": {
+        "name": "Poppy Pill",
+        "url": "https://open.spotify.com/album/6sOlicdKcFuv3MEFQjZ5K2"
+      },
+      "artists": [
+        {
+          "name": "AG Swifty",
+          "url": "https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2"
+        },
+        {
+          "name": "Brad Brunner",
+          "url": "https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL"
+        },
+        {
+          "name": "Sapte",
+          "url": "https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186870,
+      "name": "Poppy Pill",
+      "url": "https://open.spotify.com/track/5vzilsnm2ht0puswLrtdHe"
+    },
+    {
+      "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/4BgUEOTPKpnxmMTt48sXEZ"
       },
@@ -41002,7 +41206,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 139500,
       "name": "POPSTAR",
       "url": "https://open.spotify.com/track/1ZE9cfIrNtX057cWZzi7Eq"
@@ -41772,7 +41976,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 256846,
       "name": "Pump That Body",
       "url": "https://open.spotify.com/track/0wKWnU5HMCr06lxFzJ5nwF"
@@ -43591,6 +43795,24 @@
     },
     {
       "album": {
+        "name": "Rip",
+        "url": "https://open.spotify.com/album/1gtwDZAxz77f07RfOSILnS"
+      },
+      "artists": [
+        {
+          "name": "CLN (BR)",
+          "url": "https://open.spotify.com/artist/4yOZWdHpPuRHzV5tJcYqi5"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209783,
+      "name": "Rip - Radio Edit",
+      "url": "https://open.spotify.com/track/3ININm5AqJvi1qwVowzosN"
+    },
+    {
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/5nGvw9JZ1x8m7cfCGFJGqQ"
       },
@@ -44000,7 +44222,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 169090,
       "name": "Rock The Rhythm (I Like That)",
       "url": "https://open.spotify.com/track/5IH4qsWYYpC4o1SNm1aQX2"
@@ -44484,7 +44706,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 146062,
       "name": "Run The Block",
       "url": "https://open.spotify.com/track/4kykIxlWP3Kj8A15rU7DHs"
@@ -44768,6 +44990,24 @@
       "duration_ms": 221538,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/3CQ2QRDzwDsXOVfcgWv8fz"
+    },
+    {
+      "album": {
+        "name": "Satisfy / Submission",
+        "url": "https://open.spotify.com/album/3K55tFj2ZSTTePzdAmLiRr"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169015,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/5nE7FEnDOPQwgCssKIIyMm"
     },
     {
       "album": {
@@ -50103,6 +50343,24 @@
     },
     {
       "album": {
+        "name": "Susucaru / Acetates",
+        "url": "https://open.spotify.com/album/2v7KnOLOrNo6bfivyhVznk"
+      },
+      "artists": [
+        {
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232937,
+      "name": "Susucaru",
+      "url": "https://open.spotify.com/track/6TI4VLZPROSqXEaQ3lx0WC"
+    },
+    {
+      "album": {
         "name": "Swagger",
         "url": "https://open.spotify.com/album/0B7bXDBpSaOWEL4yASImrW"
       },
@@ -53421,6 +53679,32 @@
     },
     {
       "album": {
+        "name": "Think Too Much EP",
+        "url": "https://open.spotify.com/album/1IlDb8yklrYyFlwO8t83wE"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Nariman",
+          "url": "https://open.spotify.com/artist/2nfCSIlDMhDckP3xf3J0va"
+        },
+        {
+          "name": "rhys from the sticks",
+          "url": "https://open.spotify.com/artist/4tmqN5uP0Aj50ylHgfwvVa"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186825,
+      "name": "Think Too Much",
+      "url": "https://open.spotify.com/track/21gMbdNtW8Za7QOdTmWa5G"
+    },
+    {
+      "album": {
         "name": "This Beat",
         "url": "https://open.spotify.com/album/2D2d10qB6eHkPRdeSW3ca7"
       },
@@ -53468,7 +53752,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 144375,
       "name": "This Is Not The James Brown",
       "url": "https://open.spotify.com/track/1E17lM70NcSvMdDfeAaFJP"
@@ -54524,7 +54808,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 191655,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/4mloPBa6kT7U2b6ok2TvZe"
@@ -58308,6 +58592,24 @@
       "duration_ms": 148200,
       "name": "Where My Girls At?",
       "url": "https://open.spotify.com/track/4cWja9OGm0MPB5B6sd2SHz"
+    },
+    {
+      "album": {
+        "name": "Where They At",
+        "url": "https://open.spotify.com/album/115BhAk4qLmCYpeghPKgS3"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201346,
+      "name": "Where They At",
+      "url": "https://open.spotify.com/track/1w84qtYJoKTlqLx5re2EuA"
     },
     {
       "album": {

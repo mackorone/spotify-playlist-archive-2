@@ -1,15 +1,355 @@
 {
-  "description": "Fresh Punjabi Hip-Hop Tracks by Sardara, Dhaliwal, Yung Delic and more!",
-  "num_followers": 51848,
+  "description": "Fresh Punjabi Hip-Hop Tracks by Gagg E, Bhallwaan, Luv and more!",
+  "num_followers": 51868,
   "original_name": "New Rap Punjabi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFnDy2am666N9Rj/l+4jt8akUk2I",
+  "snapshot_id": "AAAAADxnK54SGFSR6HJrGdXZQhLbhvE9",
   "tracks": [
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "Make the Streets Fly Again",
+        "url": "https://open.spotify.com/album/2sL2X8kYKjxIhMiy2sYE5C"
+      },
+      "artists": [
+        {
+          "name": "GAGG E",
+          "url": "https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R"
+        },
+        {
+          "name": "Avvy",
+          "url": "https://open.spotify.com/artist/4FdVHUenxOa1Jixzrw0bL1"
+        }
+      ],
+      "duration_ms": 132302,
+      "name": "Make the Streets Fly Again",
+      "url": "https://open.spotify.com/track/6YZIBaIsE1M1aR1jraAnye"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "LET IT POP",
+        "url": "https://open.spotify.com/album/6KGrgS47UFPSqEDalbAtxp"
+      },
+      "artists": [
+        {
+          "name": "Big Boi Deep",
+          "url": "https://open.spotify.com/artist/22xy6sNTr6YjtsoV9Mh6S6"
+        },
+        {
+          "name": "JSD Music",
+          "url": "https://open.spotify.com/artist/6sqrEWUnr5MDsDzrmjXT96"
+        }
+      ],
+      "duration_ms": 179354,
+      "name": "LET IT POP",
+      "url": "https://open.spotify.com/track/4YFISFiWqbyYWJItJSO4aX"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "What Else I Need ?",
+        "url": "https://open.spotify.com/album/0ILljlJvRhj5itd1OvNtSa"
+      },
+      "artists": [
+        {
+          "name": "SNXRE",
+          "url": "https://open.spotify.com/artist/63mpHVYZrAefPyV62M2Prl"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "duration_ms": 128007,
+      "name": "What Else I Need ?",
+      "url": "https://open.spotify.com/track/1RPP9aoLcYbNOa3wX76pEM"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "Gym Culture",
+        "url": "https://open.spotify.com/album/79VFBHkHCPzFJyWqoGWvud"
+      },
+      "artists": [
+        {
+          "name": "Bhallwaan",
+          "url": "https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "Gym Culture",
+      "url": "https://open.spotify.com/track/1izePVgFGRWNMkjJc2N1Wu"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "8x8",
+        "url": "https://open.spotify.com/album/22I0sbMiDw30Jb1HZ1STS1"
+      },
+      "artists": [
+        {
+          "name": "Luv",
+          "url": "https://open.spotify.com/artist/6X0zrZ0c5okMXavI2sFTMZ"
+        }
+      ],
+      "duration_ms": 157674,
+      "name": "8x8",
+      "url": "https://open.spotify.com/track/4pZSSdu8thBDjuCD4vb1dP"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "40 TTAKK",
+        "url": "https://open.spotify.com/album/2SJsXuxx74bvxRlOKwAXDV"
+      },
+      "artists": [
+        {
+          "name": "Sanddy Mundra",
+          "url": "https://open.spotify.com/artist/7lIllcfx8ChwyI6MHtkLDN"
+        },
+        {
+          "name": "Niikzzy",
+          "url": "https://open.spotify.com/artist/5RSozru16KJEZwv2XPmEB8"
+        }
+      ],
+      "duration_ms": 125810,
+      "name": "40 TTAKK",
+      "url": "https://open.spotify.com/track/6NEiXQhnLVC4zZB4qQVPs2"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "Run over",
+        "url": "https://open.spotify.com/album/0gNh1qGR5zF8KLzqsnsoVk"
+      },
+      "artists": [
+        {
+          "name": "Mahlan Wala 59",
+          "url": "https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS"
+        }
+      ],
+      "duration_ms": 136510,
+      "name": "No Brakes",
+      "url": "https://open.spotify.com/track/4tG7JLFw3EgKuIadOY79On"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "Drive By",
+        "url": "https://open.spotify.com/album/5S3JxtNYXGAHJrKCbY8t4k"
+      },
+      "artists": [
+        {
+          "name": "Manu Ramgarhia",
+          "url": "https://open.spotify.com/artist/2FBDJY1qubXoP69bjgSECK"
+        },
+        {
+          "name": "Jack Ameen",
+          "url": "https://open.spotify.com/artist/3wzFv1QvOuTQljrsbSGDKW"
+        },
+        {
+          "name": "Jeewan Malhi",
+          "url": "https://open.spotify.com/artist/4goa5Owm9HU8ZNCVaGZZmU"
+        },
+        {
+          "name": "Dev Ocean",
+          "url": "https://open.spotify.com/artist/0m6PgLqa6qgmEzKk1FS6eX"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/3zntbVbzItUKvOrZZjL6Mj"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "VERSA",
+        "url": "https://open.spotify.com/album/0LRIIFZgH6vzE4dSeUj94Z"
+      },
+      "artists": [
+        {
+          "name": "Aaryan Sekhon",
+          "url": "https://open.spotify.com/artist/1noVAZK2UjaZmqF0e8FXDs"
+        }
+      ],
+      "duration_ms": 139026,
+      "name": "Protostar",
+      "url": "https://open.spotify.com/track/3s4Hc7kUbmQlGQnUhZjPRU"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "PHILOSOPHER",
+        "url": "https://open.spotify.com/album/3yvJOmVW5Yzw9aQ4BZF388"
+      },
+      "artists": [
+        {
+          "name": "Rangrez Sidhu",
+          "url": "https://open.spotify.com/artist/3cDu4bMjtFHdCvDD93cDUN"
+        },
+        {
+          "name": "Dishant",
+          "url": "https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ"
+        }
+      ],
+      "duration_ms": 145968,
+      "name": "PHILOSOPHER",
+      "url": "https://open.spotify.com/track/4f8QXc4JCZEpXRmfeyyviQ"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "BAGAWAT",
+        "url": "https://open.spotify.com/album/4Y17HY3B38TAm8qpm24eGk"
+      },
+      "artists": [
+        {
+          "name": "Iqbal",
+          "url": "https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp"
+        },
+        {
+          "name": "kxnng",
+          "url": "https://open.spotify.com/artist/22ibxQFsg0OrIXh0ECrz49"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "BAGAWAT",
+      "url": "https://open.spotify.com/track/797jtIYMStbuex30I6TONX"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "Jugni",
+        "url": "https://open.spotify.com/album/7gBtYCs8NVDSyrv0q1WZno"
+      },
+      "artists": [
+        {
+          "name": "Mandeep Goldy",
+          "url": "https://open.spotify.com/artist/6GCji83osbKvLfO32WArm3"
+        },
+        {
+          "name": "Rinku Dhand",
+          "url": "https://open.spotify.com/artist/00ZPCYYDT3LcrS7JAQBazu"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Jugni",
+      "url": "https://open.spotify.com/track/1RdyekpHOarbVSg4xw9Wtn"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "Lets Begin",
+        "url": "https://open.spotify.com/album/2akmVU4qlpdzxKv5y5FWTg"
+      },
+      "artists": [
+        {
+          "name": "Sevak Sandhu",
+          "url": "https://open.spotify.com/artist/0rYoSRr8FUKJk4btrBokyy"
+        }
+      ],
+      "duration_ms": 192930,
+      "name": "Pind To La",
+      "url": "https://open.spotify.com/track/77YvOvEKmeyEaiaUv8SkMn"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "Spiritual Killer",
+        "url": "https://open.spotify.com/album/57GanioclXPhFOb4yOBceK"
+      },
+      "artists": [
+        {
+          "name": "Akbar Brar",
+          "url": "https://open.spotify.com/artist/4VQq85qGslnhmrR1sIVjd1"
+        },
+        {
+          "name": "NOXI",
+          "url": "https://open.spotify.com/artist/4YYeJI6EgxUxiSqfeDhS8U"
+        }
+      ],
+      "duration_ms": 147944,
+      "name": "Spiritual Killer",
+      "url": "https://open.spotify.com/track/5Q0z9CkmasoLXC9gUMPz6g"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "CREAM",
+        "url": "https://open.spotify.com/album/5rGuNDS66WsyfPBYJMFJ0e"
+      },
+      "artists": [
+        {
+          "name": "UPPAL",
+          "url": "https://open.spotify.com/artist/1oPAPxl8tllygRBMZO8jkQ"
+        },
+        {
+          "name": "Sukh Knight",
+          "url": "https://open.spotify.com/artist/2NskCY8L26IYipQhRWousM"
+        }
+      ],
+      "duration_ms": 142702,
+      "name": "CREAM",
+      "url": "https://open.spotify.com/track/5mT1oZnWhuZRbMYPHR4fSB"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "Koka",
+        "url": "https://open.spotify.com/album/1uOZUioonBIcqG5hzEf7RP"
+      },
+      "artists": [
+        {
+          "name": "Inder Dhillon",
+          "url": "https://open.spotify.com/artist/1Ul6XWwL8PL058hCLPTtMO"
+        },
+        {
+          "name": "Karam Brar",
+          "url": "https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79"
+        },
+        {
+          "name": "Sukhman Sandhu",
+          "url": "https://open.spotify.com/artist/58i5Milzw1RFHmH0UWa4E2"
+        },
+        {
+          "name": "The Kidd",
+          "url": "https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A"
+        },
+        {
+          "name": "Balkar",
+          "url": "https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "Koka (Featuring Sukhman Sandhu)",
+      "url": "https://open.spotify.com/track/7qna6pxcuKXau7K2gYfpIi"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
+      "album": {
+        "name": "Overlord",
+        "url": "https://open.spotify.com/album/2wnyKYLKRqG07L9Ty0tS5C"
+      },
+      "artists": [
+        {
+          "name": "Tarna",
+          "url": "https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A"
+        },
+        {
+          "name": "Byg Byrd",
+          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
+        }
+      ],
+      "duration_ms": 152253,
+      "name": "Overlord",
+      "url": "https://open.spotify.com/track/2JoRcaMUIFETX7nRXMMSC1"
+    },
+    {
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "40 DEGREES",
         "url": "https://open.spotify.com/album/3rb3x1c0tk8RXE89mxeW1y"
@@ -29,7 +369,7 @@
       "url": "https://open.spotify.com/track/5LgrqBoWPY7Vx2d1QfnfTB"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "D Company",
         "url": "https://open.spotify.com/album/6G0SyMI3v1tFx79S0gJnt0"
@@ -53,7 +393,7 @@
       "url": "https://open.spotify.com/track/75UEGhShbfaqQ30EN7PrDW"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "RA TA TA",
         "url": "https://open.spotify.com/album/6bg4OWGpD7IxvW5AGZ8GLq"
@@ -73,7 +413,7 @@
       "url": "https://open.spotify.com/track/5gYDfFzfz4Sm4ZLFNeOrKt"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Who Cares",
         "url": "https://open.spotify.com/album/42mDeFyiCtaxsi1AKSBlGi"
@@ -93,7 +433,7 @@
       "url": "https://open.spotify.com/track/0lJGaDN97Hr64DSBCTeU3i"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Guddi On Top",
         "url": "https://open.spotify.com/album/37YHVbd1TdcdVbkHWPyE9T"
@@ -117,7 +457,7 @@
       "url": "https://open.spotify.com/track/0GAWVCXfFbcvFVNLkPPvmb"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Black Magic",
         "url": "https://open.spotify.com/album/5n4tPTP6Vdu2f6qKA8Zxma"
@@ -133,7 +473,7 @@
       "url": "https://open.spotify.com/track/5wjIqx2EuQ4nUTvVlJG7vE"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Dafa Ho Jo",
         "url": "https://open.spotify.com/album/5zfHFBR3EU4Y9k3Mv3U7dM"
@@ -157,7 +497,7 @@
       "url": "https://open.spotify.com/track/5eACIPxq9ODjSoby3ZZorI"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Rabb Dekhda",
         "url": "https://open.spotify.com/album/3WGCxmPzRLxuHAh1C80vDI"
@@ -177,7 +517,7 @@
       "url": "https://open.spotify.com/track/3tvYbwsETY3Yzu9HFrDsfg"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "40 DEGREES",
         "url": "https://open.spotify.com/album/3rb3x1c0tk8RXE89mxeW1y"
@@ -201,7 +541,7 @@
       "url": "https://open.spotify.com/track/2ied7mGTEoGJ47S1sIo4OK"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Chal Koi Na",
         "url": "https://open.spotify.com/album/3EbUdAWBlASlD8I8eKGPbz"
@@ -221,7 +561,7 @@
       "url": "https://open.spotify.com/track/5Qx9NqsSIZ5DZf94GGY8OX"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Flashy",
         "url": "https://open.spotify.com/album/4CuUYc7a91hetYMxcfBOE8"
@@ -237,7 +577,7 @@
       "url": "https://open.spotify.com/track/0sWI1IAsTnHMIZ8ipXhqLf"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Spirit",
         "url": "https://open.spotify.com/album/2F37zRV0Yl5jGlmMSBtAbp"
@@ -253,7 +593,7 @@
       "url": "https://open.spotify.com/track/0tN1d8Yc0BpSWI3EbhBlyS"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "One Milli",
         "url": "https://open.spotify.com/album/05ezRF57PlX2Rre8CCs3xE"
@@ -281,7 +621,7 @@
       "url": "https://open.spotify.com/track/3QVoDEUpaWRpElu5KXMKMl"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Twist of Fate",
         "url": "https://open.spotify.com/album/5hAfEGR7eAdkkJPRU43eVF"
@@ -305,7 +645,7 @@
       "url": "https://open.spotify.com/track/36uu2mUNWhTylJ6ZkNJnBo"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Brotherhood",
         "url": "https://open.spotify.com/album/5WvaR1XrNI8Ql6FU7pDOaT"
@@ -325,7 +665,7 @@
       "url": "https://open.spotify.com/track/5moB8c8fpD4NqXDNsCx7dd"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "SHONK",
         "url": "https://open.spotify.com/album/7Jqm74Y0lpmopzfZ1vB48G"
@@ -341,7 +681,7 @@
       "url": "https://open.spotify.com/track/5hsjmpR63bn2QKLv0ibsrx"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Can't Face Off",
         "url": "https://open.spotify.com/album/7GoUqXuhCid9nxECEJj9jd"
@@ -361,7 +701,7 @@
       "url": "https://open.spotify.com/track/1V6jpY7ORjWeHYEcYiLiZj"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Pindan De Jwaak",
         "url": "https://open.spotify.com/album/5oA2ycsuVBz4D5PLAaqDVO"
@@ -385,7 +725,7 @@
       "url": "https://open.spotify.com/track/1scqzLHhKSa6vFevz43RNE"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Godly",
         "url": "https://open.spotify.com/album/7v7XaEkzI0P75vJbowIgFm"
@@ -401,7 +741,7 @@
       "url": "https://open.spotify.com/track/6GfLyKOLCh8uN1Q5BkSzop"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Tanashah",
         "url": "https://open.spotify.com/album/382ySeMNysiAv8yXrrkf9S"
@@ -417,7 +757,7 @@
       "url": "https://open.spotify.com/track/1PKIDkhNDB9Wi9rCOymArk"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Kive O",
         "url": "https://open.spotify.com/album/0Uv4oaQmCjrzyS5lx4VAe6"
@@ -433,7 +773,7 @@
       "url": "https://open.spotify.com/track/0DDEursikduFWn9YCcbss0"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "God by My Side",
         "url": "https://open.spotify.com/album/0ceeYe8x7zMEcFvoaijB0o"
@@ -449,7 +789,7 @@
       "url": "https://open.spotify.com/track/5IcBpsOM1jJABjPwrCsZNo"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/15lQCBUQm0PeQdFnRDVDZn"
@@ -477,7 +817,7 @@
       "url": "https://open.spotify.com/track/0EIAp7vat8WT8jLBBfLqZD"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "God\u2019s Favorite",
         "url": "https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU"
@@ -505,7 +845,7 @@
       "url": "https://open.spotify.com/track/5p4NdjQ3RMSeLOcldFvAPa"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Cash On Cash",
         "url": "https://open.spotify.com/album/7LGFNCbhjYpG9ZcXGBZjSN"
@@ -521,7 +861,7 @@
       "url": "https://open.spotify.com/track/35prTZFgSLtTesJZGMPt9u"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Slay Queen",
         "url": "https://open.spotify.com/album/78FoEZUC0c86cH12rL2jhH"
@@ -545,7 +885,7 @@
       "url": "https://open.spotify.com/track/5asKPSa4M62fdMjKFpwHoy"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "EYES ON HER",
         "url": "https://open.spotify.com/album/4EMjsjO3VmDN15FhvLN77K"
@@ -565,7 +905,7 @@
       "url": "https://open.spotify.com/track/6wdYdgLqHTGglDfbPowEKU"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Coffee De Cup",
         "url": "https://open.spotify.com/album/0JiWDzhpmyivitiFMOr3pz"
@@ -585,7 +925,7 @@
       "url": "https://open.spotify.com/track/1gn7TOBo9dLUBfVfZP4MsV"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Ask Ya Pops",
         "url": "https://open.spotify.com/album/4pakqKoIr6B1qrlKYW8MlP"
@@ -609,7 +949,7 @@
       "url": "https://open.spotify.com/track/1oP35EGJK7MDBtVzyijs8E"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "God\u2019s Favorite",
         "url": "https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU"
@@ -633,7 +973,7 @@
       "url": "https://open.spotify.com/track/5uHCw6YJdAv3LO8boVPg9p"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/0nX8R6lXsNlKpvS93tVHTu"
@@ -649,7 +989,7 @@
       "url": "https://open.spotify.com/track/0NXJzIjejN9ApMRhpvJX5u"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Incredible Thoughts",
         "url": "https://open.spotify.com/album/604tV4y6PDmo5iPBDjzhRp"
@@ -669,7 +1009,7 @@
       "url": "https://open.spotify.com/track/0si7H6N2wBigW9HjRWQFRu"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Not Easy",
         "url": "https://open.spotify.com/album/1X1Jj6BDi6QJSGtcEc2wgt"
@@ -689,7 +1029,7 @@
       "url": "https://open.spotify.com/track/1UjZ19NPvrMwGNamZiyZ5C"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Relentless",
         "url": "https://open.spotify.com/album/2Qb5Uh9DO6r28OLru0W7Po"
@@ -713,7 +1053,7 @@
       "url": "https://open.spotify.com/track/6vJIalyu0JV0USOBqSoe6p"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/15lQCBUQm0PeQdFnRDVDZn"
@@ -737,7 +1077,7 @@
       "url": "https://open.spotify.com/track/707dVK7TR7V5aZCIOZUAfv"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Zenith",
         "url": "https://open.spotify.com/album/1VqH7MZz6KsnsBkyiGhBve"
@@ -757,7 +1097,7 @@
       "url": "https://open.spotify.com/track/1je8HgJRqezmDOd1efJncK"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Afford",
         "url": "https://open.spotify.com/album/0dPPPejCkSYdDMsOPe0sJZ"
@@ -777,7 +1117,7 @@
       "url": "https://open.spotify.com/track/2l0kk69LySNpKkVBfpdS0B"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "God\u2019s Favorite",
         "url": "https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU"
@@ -805,7 +1145,7 @@
       "url": "https://open.spotify.com/track/7qgguh45vGEpq7Mue1xNBG"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Case Closed",
         "url": "https://open.spotify.com/album/394ikY8R1p6VHPV3OIe7or"
@@ -829,7 +1169,7 @@
       "url": "https://open.spotify.com/track/0ZnpoPyNs1hsqzR22Q7R4a"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Tarra Bolda",
         "url": "https://open.spotify.com/album/1kVUenyUnOZouRYfIblb7Y"
@@ -849,7 +1189,7 @@
       "url": "https://open.spotify.com/track/24Vm5bpKYOuIJ5bHI3NtQc"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Forsaken",
         "url": "https://open.spotify.com/album/4FUtNAMZrM5m7eFAvJhT1f"
@@ -865,7 +1205,7 @@
       "url": "https://open.spotify.com/track/2b19jIJuySrIDbSdMGaUxQ"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "MY TIME",
         "url": "https://open.spotify.com/album/5WIQVhryQGijt2NiyZ8ado"
@@ -885,7 +1225,7 @@
       "url": "https://open.spotify.com/track/5SM2pWlvc2T4Jq4gYwgnxK"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Vajood",
         "url": "https://open.spotify.com/album/6eZ7WtfXp6dMwgB5cJnVZ0"
@@ -905,7 +1245,7 @@
       "url": "https://open.spotify.com/track/1YQ9TcDQKoIQHkXcl27byv"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Gold Tooth",
         "url": "https://open.spotify.com/album/2bnxSRyV2hJGBJNyjAZbr5"
@@ -925,7 +1265,7 @@
       "url": "https://open.spotify.com/track/0tkA3uSgHllBPv41SSSN9o"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Surfin",
         "url": "https://open.spotify.com/album/4jC8vgX1NkhrMAh9hH1Ujz"
@@ -945,7 +1285,7 @@
       "url": "https://open.spotify.com/track/3n2E3zqjMgIP326dTONmiO"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Killer Walk",
         "url": "https://open.spotify.com/album/5DA0QyiNuzx20R69Twq2TM"
@@ -965,7 +1305,7 @@
       "url": "https://open.spotify.com/track/7DlT87woadv2ZYcRs6Fbmw"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Its Complicated",
         "url": "https://open.spotify.com/album/0ANaICqhRDsp6AycAcAxUE"
@@ -989,7 +1329,7 @@
       "url": "https://open.spotify.com/track/7zO7tjQvVXKiOO3qUkFSCT"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Price",
         "url": "https://open.spotify.com/album/3ZTeRDaqZ19ff4xOUcAm6q"
@@ -1013,7 +1353,7 @@
       "url": "https://open.spotify.com/track/0lytH5hWcasqEhdqyctvGE"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Top Tier",
         "url": "https://open.spotify.com/album/6ZKMdzlq0L5VxnDZZOStey"
@@ -1033,351 +1373,7 @@
       "url": "https://open.spotify.com/track/41r9ZEXKHCb1J0tODvuWxA"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/4IBOeFfDNclAMzRqRiWlsn"
-      },
-      "artists": [
-        {
-          "name": "Akbar Brar",
-          "url": "https://open.spotify.com/artist/4VQq85qGslnhmrR1sIVjd1"
-        },
-        {
-          "name": "NTN Music",
-          "url": "https://open.spotify.com/artist/0eeqYMz22PB6HHMVQzRKyO"
-        }
-      ],
-      "duration_ms": 157630,
-      "name": "Persona",
-      "url": "https://open.spotify.com/track/2t4TiL9ixqUFGiTwUi02rH"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Untouchable",
-        "url": "https://open.spotify.com/album/4vSaTknWYOy7gubIfATtrB"
-      },
-      "artists": [
-        {
-          "name": "Bagga",
-          "url": "https://open.spotify.com/artist/4R0DCzIwdV8q5zLrG869Cr"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        },
-        {
-          "name": "FREEZZY BEATZ",
-          "url": "https://open.spotify.com/artist/5eMuqVgMZ4fFnkSKjpMEs1"
-        }
-      ],
-      "duration_ms": 147391,
-      "name": "Untouchable",
-      "url": "https://open.spotify.com/track/4QjnE88hhplvb83fSFGsMh"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "NOT A SELLOUT",
-        "url": "https://open.spotify.com/album/1RM4KvNjcnJY3Zf2Mg3ep1"
-      },
-      "artists": [
-        {
-          "name": "Luv",
-          "url": "https://open.spotify.com/artist/6X0zrZ0c5okMXavI2sFTMZ"
-        }
-      ],
-      "duration_ms": 185474,
-      "name": "NOT A SELLOUT",
-      "url": "https://open.spotify.com/track/2afi2ug6zZImDzJHOvBxzA"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "12-12",
-        "url": "https://open.spotify.com/album/4ztSegZgoTF5pRAdd29iN5"
-      },
-      "artists": [
-        {
-          "name": "Arjunbir",
-          "url": "https://open.spotify.com/artist/7o7kEip33DWUtS3XW7Kw7I"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "12-12",
-      "url": "https://open.spotify.com/track/4kA7G2LM85XZ1yLyPoe9WB"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Wads",
-        "url": "https://open.spotify.com/album/23AW5ndzf7zBC7o2D7jjA5"
-      },
-      "artists": [
-        {
-          "name": "Biswal Rohan",
-          "url": "https://open.spotify.com/artist/3ETKCgeBum5KI3SR9zcnbY"
-        },
-        {
-          "name": "Ezik",
-          "url": "https://open.spotify.com/artist/7c1sHSqT9tGmIlCnEkVWR9"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Wads",
-      "url": "https://open.spotify.com/track/3JLykmZoGo1veDJKSJdGUK"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Indigestible",
-        "url": "https://open.spotify.com/album/4rTxpg4OrxnOcmbrgfldq0"
-      },
-      "artists": [
-        {
-          "name": "Sukh Dhanju",
-          "url": "https://open.spotify.com/artist/39lz2UuRluoR5G0ML0pyBE"
-        }
-      ],
-      "duration_ms": 128530,
-      "name": "Indigestible",
-      "url": "https://open.spotify.com/track/1VRBsesoHrFx6hfhsXTtdo"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Astrology",
-        "url": "https://open.spotify.com/album/6rUfzWkEaUZOlLNGVBGiel"
-      },
-      "artists": [
-        {
-          "name": "Kayreee",
-          "url": "https://open.spotify.com/artist/1Gs7FGo8aNDaAfBF1nOJAZ"
-        },
-        {
-          "name": "Rollin",
-          "url": "https://open.spotify.com/artist/0wcfwxyTLEXKrV085sXTCz"
-        }
-      ],
-      "duration_ms": 127578,
-      "name": "Astrology",
-      "url": "https://open.spotify.com/track/35xXirMsfNsMFGpvMnnjGA"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Best Kept Secret",
-        "url": "https://open.spotify.com/album/1Ai2o0Nw0OoBsmhX4oT8Jb"
-      },
-      "artists": [
-        {
-          "name": "Kahlon",
-          "url": "https://open.spotify.com/artist/6rHyVOJFRsLEOo1aOd2zQG"
-        },
-        {
-          "name": "Manni Sandhu",
-          "url": "https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS"
-        },
-        {
-          "name": "Tegi Pannu",
-          "url": "https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl"
-        }
-      ],
-      "duration_ms": 174659,
-      "name": "Ready",
-      "url": "https://open.spotify.com/track/7cJWX93y1s1yJUx0iPCeJN"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "IDGAF",
-        "url": "https://open.spotify.com/album/6RE7kcNNWjiWBFQZ87Wl2B"
-      },
-      "artists": [
-        {
-          "name": "WHISTLE",
-          "url": "https://open.spotify.com/artist/36LhfZLzl4QJvt3SGHkIUr"
-        }
-      ],
-      "duration_ms": 179192,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/1OxMh8LFOnj4n6Jk8EteyB"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Billions & Growth",
-        "url": "https://open.spotify.com/album/6vVpLLPfqtHbNEiifTgWux"
-      },
-      "artists": [
-        {
-          "name": "Yung Delic",
-          "url": "https://open.spotify.com/artist/6xJkqxT7KoJAHgmxmcjLOY"
-        }
-      ],
-      "duration_ms": 140479,
-      "name": "Billions & Growth",
-      "url": "https://open.spotify.com/track/141HiFeQFY35fVsUyru0hr"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Revolt 2026",
-        "url": "https://open.spotify.com/album/3ZmCAspO9ZVozHXtiseRic"
-      },
-      "artists": [
-        {
-          "name": "Manavgeet Gill",
-          "url": "https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl"
-        },
-        {
-          "name": "Kanji Porh",
-          "url": "https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt"
-        },
-        {
-          "name": "Sobit",
-          "url": "https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4"
-        }
-      ],
-      "duration_ms": 174878,
-      "name": "Dumalla",
-      "url": "https://open.spotify.com/track/3qGz9l3zmISJ9V80UUTIed"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Rollie",
-        "url": "https://open.spotify.com/album/3xyiihO5ibUyMf9GJrXS3q"
-      },
-      "artists": [
-        {
-          "name": "Manny Sekhon",
-          "url": "https://open.spotify.com/artist/1fDkR40hzHiY4DXpWf7kyo"
-        },
-        {
-          "name": "Manna Music",
-          "url": "https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Rollie",
-      "url": "https://open.spotify.com/track/3cC1Ysrw9etehP5w9D4ShV"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Goli",
-        "url": "https://open.spotify.com/album/4slmG0Ujmm6zrtMS20sGz9"
-      },
-      "artists": [
-        {
-          "name": "Azaad 4L",
-          "url": "https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6"
-        },
-        {
-          "name": "Roop Bhullar",
-          "url": "https://open.spotify.com/artist/0sYnCQ9Eb3RbEHOqVQST8d"
-        },
-        {
-          "name": "Desi Trap Music",
-          "url": "https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge"
-        }
-      ],
-      "duration_ms": 148085,
-      "name": "Goli",
-      "url": "https://open.spotify.com/track/2FHYk0Itp6Okpo04ON7Gl1"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "The Archives",
-        "url": "https://open.spotify.com/album/2uxDwdhU3Op9srlyORxmRy"
-      },
-      "artists": [
-        {
-          "name": "Amantej Hundal",
-          "url": "https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq"
-        },
-        {
-          "name": "Jay Trak",
-          "url": "https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu"
-        }
-      ],
-      "duration_ms": 139688,
-      "name": "L.T.M.a.",
-      "url": "https://open.spotify.com/track/10hDCM70jNClYUO5TBrQ8c"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Pehli Saheli",
-        "url": "https://open.spotify.com/album/0L7z6qyB6YFeiST9Z0or4q"
-      },
-      "artists": [
-        {
-          "name": "Kaafar Kang",
-          "url": "https://open.spotify.com/artist/191Olpbbabr51Xp0LT3P66"
-        },
-        {
-          "name": "FREEZZY BEATZ",
-          "url": "https://open.spotify.com/artist/5eMuqVgMZ4fFnkSKjpMEs1"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Pehli Saheli",
-      "url": "https://open.spotify.com/track/2ZeyCnvP9Q9aG6KsyvGzOA"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Race",
-        "url": "https://open.spotify.com/album/7KfxZOJcUBbMQOwACxceDS"
-      },
-      "artists": [
-        {
-          "name": "Pavii Ghuman",
-          "url": "https://open.spotify.com/artist/1K8PZIahWBLEL9VWRuWSXW"
-        },
-        {
-          "name": "KAABIR Music",
-          "url": "https://open.spotify.com/artist/2Lde58T9iPkn9Fyvdg7mSk"
-        },
-        {
-          "name": "Sanju",
-          "url": "https://open.spotify.com/artist/6LkGAOITDAe49ckpeLW7OJ"
-        }
-      ],
-      "duration_ms": 152474,
-      "name": "Race",
-      "url": "https://open.spotify.com/track/6UJLnUoNehOyIL9w2eUm84"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
-      "album": {
-        "name": "Cash Out",
-        "url": "https://open.spotify.com/album/7cOb7OnXQSo6Ky6KS7OwlJ"
-      },
-      "artists": [
-        {
-          "name": "Yaad",
-          "url": "https://open.spotify.com/artist/7BcQiaqOonuaKOQAQos74p"
-        },
-        {
-          "name": "JAY D",
-          "url": "https://open.spotify.com/artist/0B764ppiu5Po9V1gB9ckXc"
-        },
-        {
-          "name": "Yung4eva",
-          "url": "https://open.spotify.com/artist/3M2xmMHRCGlqdfQm8WsrgC"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Cash Out",
-      "url": "https://open.spotify.com/track/7weu8PxfJxu2C3FwrXyuLF"
-    },
-    {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "KHANDANI",
         "url": "https://open.spotify.com/album/51WnYYBvMCGHXM5FXCYfP7"
@@ -1397,7 +1393,7 @@
       "url": "https://open.spotify.com/track/4Uk1PkFc1WRrU1yzOC1hkB"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Munde Punjab De",
         "url": "https://open.spotify.com/album/3nYTstOaDXdIsxjlQP459N"
@@ -1417,7 +1413,7 @@
       "url": "https://open.spotify.com/track/65Ou00VR91GkNn8vjcNEkU"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "2 AM In London",
         "url": "https://open.spotify.com/album/58hXYQiKAMELoWdNYVajWb"
@@ -1437,7 +1433,7 @@
       "url": "https://open.spotify.com/track/0Z7CkyCrFkQLJiX5LN9oK6"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Let\u2019s Go",
         "url": "https://open.spotify.com/album/4QyHUkY4NeqsijfAva4TrM"
@@ -1461,7 +1457,7 @@
       "url": "https://open.spotify.com/track/4hIxux6vvH9sIn327LX7KM"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Burner",
         "url": "https://open.spotify.com/album/7kglA9NzFW0YxP7c0CBkze"
@@ -1485,7 +1481,7 @@
       "url": "https://open.spotify.com/track/0QlK4wXbRvKVsPuSJs4oyC"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "BEFORE MAINCOURSE",
         "url": "https://open.spotify.com/album/3DXXFlAHwRfWPZrggx69tQ"
@@ -1505,7 +1501,7 @@
       "url": "https://open.spotify.com/track/6nAoJgwnTIl5u8WndtBIx7"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Poison Drill",
         "url": "https://open.spotify.com/album/0t68uxGpLBiG7t9fI1e173"
@@ -1525,7 +1521,7 @@
       "url": "https://open.spotify.com/track/13c2pnC0z2N6c37rambEpU"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/7LNiqSpOfRFkuzN8sdnLER"
@@ -1541,7 +1537,7 @@
       "url": "https://open.spotify.com/track/47WBwukigGpGPLdG9mQRFW"
     },
     {
-      "added_at": "2026-07-24 07:19:39",
+      "added_at": "2026-07-31 07:21:49",
       "album": {
         "name": "Journey",
         "url": "https://open.spotify.com/album/2iEMYtqNEkyNtgEtG2QXFA"

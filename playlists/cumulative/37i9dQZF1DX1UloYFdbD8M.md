@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Gowry Lekshmi
 
-532 songs - 1 day 8 hr 43 min
+533 songs - 1 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Na Papamu Pogotti \- Hues Of Nalinakanthi](https://open.spotify.com/track/1vCsPdcBC7nwnMLtUfsVz0) | [Rijo Joseph](https://open.spotify.com/artist/2IKBpkVsFxQgRP1PB58RmQ), [Neelima P.R](https://open.spotify.com/artist/5bzK9ENPlhlg2i3r228pV2) | [Na Papamu Pogotti \- Hues Of Nalinakanthi](https://open.spotify.com/album/4UQDQM8Lk070hCHRVWhCrE) | 3:10 | 2024-07-12 | 2024-12-07 |
 | [Naamiravil](https://open.spotify.com/track/43BgaTwtMm6CNH4b87ewOB) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H) | [Naamiravil](https://open.spotify.com/album/6RrQmFIHubqNqdrZAwmajZ) | 3:04 | 2023-11-21 | 2024-01-04 |
 | [Nada Nada](https://open.spotify.com/track/7biM1l4aQn6P2XpDBLrE4t) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:04 | 2023-07-27 | 2024-06-12 |
+| [Nafs](https://open.spotify.com/track/4OaSZFXIhOpTa2gVZL9Loo) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P) | [Nafs](https://open.spotify.com/album/18bo6nVbQc6y9W2JJ5lJYa) | 4:50 | 2026-07-31 |  |
 | [Nalla Rasam](https://open.spotify.com/track/5xwnHGjEFfBgOjZcPW720R) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [6091](https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ), [Mu.Ri](https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm) | [Nalla Rasam](https://open.spotify.com/album/2bYRtY5vkEgCBGs5tZXskS) | 2:28 | 2025-02-21 | 2025-07-16 |
 | [Nammalal Chernnoree Lokam](https://open.spotify.com/track/1iqCmDqwNhnAh8XjcZyCQO) | [Haseeb Razak](https://open.spotify.com/artist/09CaZS4Yx74q9vLPQzRTa8), [Jasim Jamal](https://open.spotify.com/artist/6WW7DYQiOJS7JDV7LT54XH), [Ansif Abdulla](https://open.spotify.com/artist/46ur722CJpQIVEmu1hDQUF), [Neelima Shiju](https://open.spotify.com/artist/4a2CziZdikYSH0R1AoHEE1) | [Nammalal Chernnoree Lokam](https://open.spotify.com/album/744XmtwWPDsdNM397RhYrN) | 2:16 | 2025-03-20 | 2025-06-07 |
 | [Nathune](https://open.spotify.com/track/2HcGtTLqWl7miMLKPSlGoI) | [Amrutam Gamay](https://open.spotify.com/artist/4MtxFkOd1X7pmg07ngQTc5), [Amritha Suressh](https://open.spotify.com/artist/0gWXs0seQiEHCZJiH07xfk), [Abhirami Suresh](https://open.spotify.com/artist/6sPuCo5n7PaYPjd2S3m2K5) | [Nathune](https://open.spotify.com/album/65H3bdPm0glKN2zF1WGeEN) | 4:10 | 2024-09-02 | 2025-02-04 |

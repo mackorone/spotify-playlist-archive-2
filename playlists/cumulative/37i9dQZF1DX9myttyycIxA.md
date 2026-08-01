@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Trophy Wife
 
-1,935 songs - 4 day 16 hr 1 min
+1,940 songs - 4 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Burnt](https://open.spotify.com/track/5PY4JyJ5oQIxLx9iqrXXEG) | [Slater](https://open.spotify.com/artist/0axqUvPmS7PqZp0xJTdzdG) | [Burnt](https://open.spotify.com/album/0Q1qEXD9LLptZnO4CBvz0K) | 2:53 | 2022-08-05 | 2022-12-03 |
 | [Bus Song](https://open.spotify.com/track/52toKg7MSgoJiGUWECr7uK) | [Truthpaste](https://open.spotify.com/artist/1jX7jSANud3GSSMfs41KPs) | [Bus Song](https://open.spotify.com/album/1u4VRnXeVmItAF1xqoKPHJ) | 3:19 | 2026-03-20 |  |
 | [bus stop](https://open.spotify.com/track/4JjJoKsFOtR9rvaYMzVXW8) | [The Empty Threats](https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt) | [bus stop](https://open.spotify.com/album/30fvYRLzPWREqBkIhdKLit) | 3:23 | 2025-08-04 | 2025-10-18 |
+| [Bushwick Ratbag](https://open.spotify.com/track/6koOXlPAL58lp78AwiwO4W) | [Um Jennifer?](https://open.spotify.com/artist/1QCrHYVLwmt70890lDtEl3) | [Bushwick Ratbag](https://open.spotify.com/album/2s6jgCwWTpstYTFpFemQr9) | 2:54 | 2026-07-31 |  |
 | [BUZZKILL](https://open.spotify.com/track/0FMPAxvToIRKA137icsIZi) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [BUZZKILL](https://open.spotify.com/album/7gwxFVygMtairtoEjeqxn6) | 3:43 | 2024-03-29 | 2024-06-01 |
 | [By My Side](https://open.spotify.com/track/5DCSl2flxRehACINNyD9EX) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million and Three Love Songs](https://open.spotify.com/album/4PBBVn6QWMJWsI2M2iAioi) | 2:35 | 2025-04-04 | 2025-08-17 |
 | [By Your Side](https://open.spotify.com/track/0Vwc4ONQtM3dEVcCMnLDHc) | [Flatsound](https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3) | [By Your Side / Destroy You](https://open.spotify.com/album/1eMgkeDfHK9QvIk0NYuKcv) | 3:19 | 2022-03-26 | 2022-06-08 |
@@ -1087,6 +1088,7 @@
 | [Lovesick](https://open.spotify.com/track/1sbUpyzfqdSSthfycDcf0e) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Lovesick](https://open.spotify.com/album/0ndzE2uEr9PRIUqu7C7lgQ) | 3:22 | 2026-06-12 |  |
 | [Loving One](https://open.spotify.com/track/7LVSYuUDGLPBNh1eTVKLl7) | [People I’ve Met](https://open.spotify.com/artist/0IDpTcrUiflR4OMeFA2Qwi) | [Loving One](https://open.spotify.com/album/5hzSOH6X0dvUBDYPjIJf59) | 3:39 | 2026-04-10 |  |
 | [Low Era](https://open.spotify.com/track/1GKdMtwcB3oi0uwr4M1B5G) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Projector](https://open.spotify.com/album/1E094hHDWCHZqO1YVLIUmj) | 4:14 | 2022-06-02 | 2023-03-04 |
+| [Lucky](https://open.spotify.com/track/4ZBk1Iu8fvobBfNRDAISBe) | [Avery Laird](https://open.spotify.com/artist/3kwAG9BYmYer35EEMZHadZ) | [Lucky](https://open.spotify.com/album/4mCD7Yvyc8gHOLY3FofyNj) | 3:43 | 2026-07-31 |  |
 | [lust](https://open.spotify.com/track/4Glfjo6o4dPmRLRi5HKYdf) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [liminal spaces](https://open.spotify.com/album/7KFoizTd1KGrJQBqFS58Z8) | 2:05 | 2022-10-21 | 2022-12-15 |
 | [lust](https://open.spotify.com/track/4rQfKnYd88L1mu9NEZn1kp) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [lust](https://open.spotify.com/album/5UVCryBuK6Pv0IilUHXqL0) | 2:05 | 2022-08-12 | 2022-09-22 |
 | [lust](https://open.spotify.com/track/5cGcuoicAC9mVHiey0i0NM) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [cupids out tonight](https://open.spotify.com/album/3acMNe9M2nsFXtfMnAS4B3) | 2:05 | 2022-08-12 | 2022-10-24 |
@@ -1148,6 +1150,7 @@
 | [Montana](https://open.spotify.com/track/5f4jIPLCdVFXLOO3wadbiM) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Montana](https://open.spotify.com/album/1QRmUd7quysdvWp0m32526) | 3:20 | 2021-03-05 | 2022-04-29 |
 | [Moon](https://open.spotify.com/track/3ShbZlcGlBLlsR3FBQzzL0) | [Teethe](https://open.spotify.com/artist/3K2gErmF9xLdo6dqOj1VbI) | [All Over Again b/w Moon](https://open.spotify.com/album/67qT5xrgw6491DQYbIh3ty) | 2:42 | 2023-10-27 | 2024-06-08 |
 | [Moon Man](https://open.spotify.com/track/1lXigZDZQlnIA0xkXDhAjy) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Moon Man](https://open.spotify.com/album/56I2ouB7lxUnQysrxUCGjI) | 3:05 | 2025-08-29 | 2025-11-15 |
+| [Morphine](https://open.spotify.com/track/2QS9W9Y1B8WiUvUFItidSy) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Morphine](https://open.spotify.com/album/35VO8kPyMb88vAZBlZfNkd) | 4:45 | 2026-07-31 |  |
 | [Most of All \(feat\. Renny Conti\)](https://open.spotify.com/track/71a7mrWgM7SfDjBUlUIU5Y) | [Hank Heaven](https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf), [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Loaded Dice](https://open.spotify.com/album/0cJTkQ0Z3Rz7NtlQIxyopd) | 3:04 | 2024-11-15 | 2025-04-12 |
 | [Mother](https://open.spotify.com/track/0anZnOvUTenWvjeSru2Neo) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Mother](https://open.spotify.com/album/2S3f8p625yCqGyzvUJsOZF) | 2:47 | 2024-01-26 | 2024-06-15 |
 | [Motorbike](https://open.spotify.com/track/2JMB5piiHlzUWqvnPfuVCO) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/1jjI2c9jxiKdIV46hCH5h2) | 3:21 | 2022-10-21 | 2023-03-04 |
@@ -1707,6 +1710,7 @@
 | [this is my california](https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california](https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq) | 4:58 | 2024-11-15 | 2025-04-26 |
 | [This Is Real](https://open.spotify.com/track/4LYXtoiuM9xEmxklVvQnLl) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [This Is Real](https://open.spotify.com/album/0VNjjHXqRFJ9NTqbmPT9pJ) | 3:07 | 2025-03-14 | 2026-01-17 |
 | [this is red leader](https://open.spotify.com/track/5Rhr7E8Nad0peXFh4QWHsZ) | [deeper sleeper](https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ) | [deeper sleeper](https://open.spotify.com/album/4JH3jfuhTmXCqNCCrwSODW) | 1:59 | 2024-10-11 | 2025-04-26 |
+| [This So Called Life](https://open.spotify.com/track/0DXe2D37mwoElYXmyt16CU) | [ggwendolyn](https://open.spotify.com/artist/6IcYZpRmCcm5E3MMfA42Hi) | [Superstar Syndrome](https://open.spotify.com/album/5R7sLxzcy9snDJRUNICRvO) | 3:10 | 2026-07-31 |  |
 | [Threatening Each Other re: Capitalism](https://open.spotify.com/track/4lUVbiWiti2F0oOU8SqV1u) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Threatening Each Other re: Capitalism](https://open.spotify.com/album/4ktz8o1d44KMsltBIBzu8L) | 4:43 | 2021-09-10 | 2022-03-22 |
 | [through your window](https://open.spotify.com/track/0Kw8SXw92PXokAfPPaP2Ot) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [pg.4 a picture of three hedges/through your window](https://open.spotify.com/album/12TPSTIy5SbQnGRirNzNcB) | 3:44 | 2022-08-12 | 2022-10-29 |
 | [Thy Mission](https://open.spotify.com/track/7LcmuGeSXQzQlteW3yGtWb) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Thy Mission](https://open.spotify.com/album/7JxyWvp7fQlLNdrTUDBtHo) | 3:41 | 2022-03-26 | 2022-08-27 |
@@ -1779,6 +1783,7 @@
 | [Two Ribbons](https://open.spotify.com/track/5PQHN1maDFtlQZzpgdfemX) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Two Ribbons](https://open.spotify.com/album/0qhiM06mQeNojf8RHyUPY6) | 5:23 | 2021-11-12 | 2022-04-29 |
 | [two shots in and sobbing](https://open.spotify.com/track/4MOs5IcNNQNOgVuUIeYEFh) | [Ayleen Valentine](https://open.spotify.com/artist/3wLL9m1pBbRnLsjrtqEiWc) | [two shots in and sobbing](https://open.spotify.com/album/40DR5WekpOOl2wanfQdUB7) | 3:44 | 2026-01-09 | 2026-06-12 |
 | [Txt](https://open.spotify.com/track/6zP5inrTYPpCmkFxGkX7YT) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Txt](https://open.spotify.com/album/4paWrcIvxtZ9YgBUM4ljtO) | 2:14 | 2021-04-13 | 2022-04-21 |
+| [TY \(robbed the bank\)](https://open.spotify.com/track/73eqbA35mz6kNdvTem4GBu) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [TY \(robbed the bank\)](https://open.spotify.com/album/0UeJuNuDhkjd1qVIgPXSmQ) | 3:01 | 2026-07-31 |  |
 | [Type A](https://open.spotify.com/track/5TeVRWs4772xNsxnYqsjuq) | [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf), [sos](https://open.spotify.com/artist/5CcG5sS5nT31RQoI6mJUQH) | [Type A](https://open.spotify.com/album/03O3Qga2r9yZmvoIEXsGII) | 3:03 | 2022-04-29 | 2022-04-30 |
 | [Typical Music](https://open.spotify.com/track/5zfVMiFzHnFOAIfm2TS1XQ) | [Tim Burgess](https://open.spotify.com/artist/1goerABWhGQPWKhMCZeJ68) | [Typical Music](https://open.spotify.com/album/6yjursyoTNso6RrOPxeAGi) | 3:03 | 2022-06-10 | 2022-07-23 |
 | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/track/7p7VCAr8VI5R901BMeahSZ) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [u v v p \(feat\. Buck Meek\)](https://open.spotify.com/album/0DOaKJODUuLUSnCNdzty8n) | 4:44 | 2021-07-23 | 2022-04-29 |

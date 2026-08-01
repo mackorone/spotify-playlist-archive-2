@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40846,
+  "num_followers": 40852,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAADWGPxPCaXWRXdUScYnBBl/",
+  "snapshot_id": "amqUAAAAAAAcYRoJojfTLUj7iho9GPLS",
   "tracks": [
     {
       "added_at": null,
@@ -775,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YSIV",
-        "url": "https://open.spotify.com/album/1lyjkFTJ6yxUyNYysWVBo9"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "John Lindahl",
-          "url": "https://open.spotify.com/artist/2ei3ToTz5SL3pVp17X0Vkd"
-        }
-      ],
-      "duration_ms": 353453,
-      "name": "100 Miles and Running (ft. Wale & John Lindahl)",
-      "url": "https://open.spotify.com/track/4CstQ0SUkl0YkoeZkIZlIx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Never Visit Me (feat. Wale & Enny)",
         "url": "https://open.spotify.com/album/5768qKkadOnArtFfrupjLe"
       },
@@ -823,6 +799,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "YSIV",
+        "url": "https://open.spotify.com/album/1lyjkFTJ6yxUyNYysWVBo9"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "John Lindahl",
+          "url": "https://open.spotify.com/artist/2ei3ToTz5SL3pVp17X0Vkd"
+        }
+      ],
+      "duration_ms": 353453,
+      "name": "100 Miles and Running (ft. Wale & John Lindahl)",
+      "url": "https://open.spotify.com/track/4CstQ0SUkl0YkoeZkIZlIx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
       },
@@ -835,26 +835,6 @@
       "duration_ms": 236866,
       "name": "MY PYT",
       "url": "https://open.spotify.com/track/2Fe6gDE0mCZz0g98i5QpVL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ahora Tengo Todo Menos A Ti",
-        "url": "https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/3Nb1HMWhunuQBKfQbtY5oA"
     },
     {
       "added_at": null,
@@ -875,6 +855,26 @@
       "duration_ms": 230527,
       "name": "Sue Me (feat. Kelly Price)",
       "url": "https://open.spotify.com/track/2M7EGqJAGamRP148OREsxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ahora Tengo Todo Menos A Ti",
+        "url": "https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/3Nb1HMWhunuQBKfQbtY5oA"
     },
     {
       "added_at": null,
@@ -967,6 +967,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Home (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folarin II",
-        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/2SvD4t3gPcDDLYbWCYARy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MMG Presents: Self Made, Vol. 2 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6i5RM49EP7GbJiHX7D2eV6"
       },
@@ -1051,8 +1051,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attention Deficit (Explicit Version)",
-        "url": "https://open.spotify.com/album/4wvluWE0xVSY59d1fafNCI"
+        "name": "Folarin II",
+        "url": "https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H"
       },
       "artists": [
         {
@@ -1060,17 +1060,17 @@
           "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
-          "name": "Melanie Fiona",
-          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Yella Beezy",
+          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
         }
       ],
-      "duration_ms": 304613,
-      "name": "Beautiful Bliss",
-      "url": "https://open.spotify.com/track/5Ys7Mcr0n8NBTFiwqbTR8m"
+      "duration_ms": 239202,
+      "name": "Down South (feat. Yella Beezy & Maxo Kream)",
+      "url": "https://open.spotify.com/track/3iBTlAs9ki435FDkt7LXUA"
     }
   ],
   "unique_name": "This Is Wale",

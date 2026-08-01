@@ -1,6 +1,6 @@
 {
   "description": "Die hei\u00dfesten neuen Dance Tracks in einer Playlist. Cover: R3HAB",
-  "num_followers": 350035,
+  "num_followers": 350089,
   "original_name": "Dance Brandneu",
   "owner": {
     "name": "Spotify",
@@ -20,8 +20,8 @@
           "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 156000,
+      "name": "Dream inside a dream...",
       "url": "https://open.spotify.com/track/646gVKNhqtIbOtTjys0Dzd"
     },
     {
@@ -83,7 +83,7 @@
     {
       "added_at": "2026-07-30 22:00:41",
       "album": {
-        "name": "SAWA (feat. bees & honey)",
+        "name": "SAWA",
         "url": "https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5"
       },
       "artists": [
@@ -97,7 +97,7 @@
         }
       ],
       "duration_ms": 220527,
-      "name": "SAWA (feat. bees & honey)",
+      "name": "SAWA",
       "url": "https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1"
     },
     {
@@ -310,10 +310,14 @@
         {
           "name": "PNAU",
           "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 126004,
+      "name": "Serotonin",
       "url": "https://open.spotify.com/track/3OVrWStc5JvH8ws4bV90Sa"
     },
     {
@@ -388,8 +392,8 @@
           "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 144199,
+      "name": "Keep Rocking",
       "url": "https://open.spotify.com/track/6huS3oz9dODhvuMGEWWsT3"
     },
     {
@@ -846,10 +850,18 @@
         {
           "name": "CERES",
           "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "Krmoni",
+          "url": "https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz"
+        },
+        {
+          "name": "Helionyx",
+          "url": "https://open.spotify.com/artist/2uo8DWCuQZL5z2JrKRMmgt"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 151304,
+      "name": "Today",
       "url": "https://open.spotify.com/track/3HuEdtzxWA3Mnwym3kOW24"
     },
     {

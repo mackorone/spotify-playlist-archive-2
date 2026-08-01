@@ -4,7 +4,7 @@
 
 > Reforzando la alianza Colombia\-México\. Con Natanael Cano en portada.
 
-424 songs - 22 hr 32 min
+425 songs - 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [el Principe](https://open.spotify.com/track/2wZlapRcQzSm8MPltGrKfy) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Entre el Amor y el Trago](https://open.spotify.com/album/6jEquUdkt3TvEvL0c7A1wV) | 3:34 | 2022-06-08 | 2022-07-29 |
 | [El Próximo Viernes](https://open.spotify.com/track/6wNoscHlrYgkS8Wl0XbJtd) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Mis Éxitos Con Tololoche](https://open.spotify.com/album/41IP9lFnr47DjjAsC4HFSr) | 4:12 | 2022-06-08 | 2022-12-31 |
 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 | 2022-06-08 | 2022-07-29 |
+| [El Rompecorazones](https://open.spotify.com/track/2z9COavLfZH1VboZOXFm6j) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [El Rompecorazones](https://open.spotify.com/album/5mjr1dIJhyxOOeikDUlOzx) | 2:34 | 2026-07-31 |  |
 | [El Último No](https://open.spotify.com/track/3vI0xU761yZp8Lz4ZvIFpC) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/6GMiVgtsRUVMb1ZCIxQoYi) | 3:13 | 2022-06-08 | 2022-07-28 |
 | [Ellas Así Son](https://open.spotify.com/track/3KryG1HWXMmNbFc5unHd2C) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 3:35 | 2022-06-08 | 2022-11-14 |
 | [Emilia](https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Emilia](https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz) | 3:41 | 2025-11-07 | 2026-07-17 |

@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 162454,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/0o7F3b4QNRaSL3EKn4Jjel"
@@ -6301,6 +6301,24 @@
     },
     {
       "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/4H9pXm1FfMvgyYtHr3qUBX"
+      },
+      "artists": [
+        {
+          "name": "Fryken",
+          "url": "https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181527,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/3uRVVBVSzOWqVtjvAeBhqp"
+    },
+    {
+      "album": {
         "name": "Histoire d'un Jour",
         "url": "https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs"
       },
@@ -11482,7 +11500,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 156405,
       "name": "Quietude",
       "url": "https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj"

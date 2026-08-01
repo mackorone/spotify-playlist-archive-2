@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/5EDuXoOyyDdDjD02nKLhI5"
+      },
+      "artists": [
+        {
+          "name": "Emily Linge",
+          "url": "https://open.spotify.com/artist/1oHuewfSrJgCviOzYBcr5A"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210868,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6sgWYPkUO7WUg1Q4B2apJh"
+    },
+    {
+      "album": {
         "name": "Dancing Queen (Acoustic)",
         "url": "https://open.spotify.com/album/70EnDLWEFJv2HyqaFuxlCt"
       },

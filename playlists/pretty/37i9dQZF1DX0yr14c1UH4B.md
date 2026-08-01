@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song 🌷 cover: Morgan Harper\-Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,492 likes - 115 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,494 likes - 115 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 20 | [Good At Leaving](https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Is This Heaven? \(Extended\)](https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK) | 2:49 |
 | 21 | [Secret Language](https://open.spotify.com/track/2ATWSTxqUGUfqsQD4LIYPB) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:53 |
 | 22 | [My Guy](https://open.spotify.com/track/3n6ytjkbhypwQsRMreKjyT) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [My Guy](https://open.spotify.com/album/0x6tr75ApACgiGnraluC8t) | 3:50 |
-| 23 | [Track 4](https://open.spotify.com/track/1BUfVQ9BcxVfhPGgIrWOiW) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [One For Sorrow](https://open.spotify.com/album/26rrEjznY47dHtet5APtPn) | 0:00 |
+| 23 | [Endlessly](https://open.spotify.com/track/1BUfVQ9BcxVfhPGgIrWOiW) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [One For Sorrow](https://open.spotify.com/album/26rrEjznY47dHtet5APtPn) | 2:53 |
 | 24 | [Whale Call](https://open.spotify.com/track/2vclLpYXFUP8AJvDuOBtK3) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Whale Call](https://open.spotify.com/album/3ZEV0pHcy7vDNVcEkm5Wi0) | 4:19 |
 | 25 | [Honey](https://open.spotify.com/track/4TNi5ncp8uSbIy3mHtv5lF) | [Ellie Nanni](https://open.spotify.com/artist/3spMydBaIHg5DCbXY8tDqc) | [What makes us lovers](https://open.spotify.com/album/1ka8xYO3aQm6WHWHm4usXD) | 2:59 |
 | 26 | [Sabbath Deep Cuts](https://open.spotify.com/track/0ytgwF282jWaH1rtTsJMgc) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Sabbath Deep Cuts](https://open.spotify.com/album/0XrxPkmUNib3Fmcko01Joi) | 3:34 |

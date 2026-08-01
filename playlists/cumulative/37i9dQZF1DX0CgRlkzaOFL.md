@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\.  Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-103 songs - 5 hr 44 min
+104 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [The Legend of Ashitaka \(Ending\)](https://open.spotify.com/track/3CLgIwptrXVh7oYmuexqVD) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Princess Mononoke Soundtrack](https://open.spotify.com/album/2ZHxPDTCRU5STetdmXeW6p) | 5:01 | 2022-03-25 | 2023-07-01 |
 | [The Legend of Ashitaka \- from 'Princess Mononoke'](https://open.spotify.com/track/3ytMGJUOv7KvVpOSAow62b) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [A Symphonic Celebration \- Music from the Studio Ghibli Films of Hayao Miyazaki](https://open.spotify.com/album/561qUZZO6f2sILHUMlXmlM) | 1:57 | 2023-06-30 |  |
 | [The One Year War](https://open.spotify.com/track/58pX5xnZYcqAE8mwTxeNMM) | [Wilbert Roget, II](https://open.spotify.com/artist/4b6Khs68thyzQrWRISZFrT) | ["Gundam Requiem for Vengeance" Original Motion Picture Soundtrack](https://open.spotify.com/album/6GCQtGdfNNqyZePqX2juOV) | 2:15 | 2024-10-18 |  |
+| [The Wind Forest \- From "My Neighbor Totoro"](https://open.spotify.com/track/6HOUUUNUWjLLlfGqI4DMYm) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j) | [Joe Hisaishi: The Wind Forest \(From "My Neighbor Totoro"\)](https://open.spotify.com/album/7KobtQ4Tcwjm2lnK906RX8) | 5:06 | 2026-07-31 |  |
 | [Theme of Violet Evergarden](https://open.spotify.com/track/0fsb37XCuEDiF1oPNq4arG) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [VIOLET EVERGARDEN: Automemories](https://open.spotify.com/album/1RITWu5USu7lcphTyWh6FY) | 2:17 | 2022-03-25 |  |
 | [Very little wishes](https://open.spotify.com/track/0dRub80H2d4W7FtuhBS2Qo) | [MEMBERS OF ISRAEL](https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO), [Philharmonic Orchestra](https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h) | [「MACROSS PLUS」ORIGINAL SOUNDTRACK](https://open.spotify.com/album/5GAVQImOGSyQXvMQA3MqQ4) | 2:29 | 2022-03-25 |  |
 | [Very little wishes](https://open.spotify.com/track/0sy481jsaYC1fNqGWgKTM2) | [MEMBERS OF ISRAEL](https://open.spotify.com/artist/3YuzaXle16gxckseOvaznO), [Philharmonic Orchestra](https://open.spotify.com/artist/4nUgYF7wmkUux1M9SdXM0h) | [MACROSS PLUS ORIGINAL SOUNDTRACK](https://open.spotify.com/album/13vrWwIfBEpGPJOfqfjNk8) | 2:29 | 2022-04-19 | 2024-04-19 |

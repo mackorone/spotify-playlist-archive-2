@@ -2791,6 +2791,28 @@
     },
     {
       "album": {
+        "name": "Dissent",
+        "url": "https://open.spotify.com/album/7oc7G22fXymfOliDL6kXMa"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "yvm3",
+          "url": "https://open.spotify.com/artist/0iQW93sOQJX7rWg8E89jd1"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Dissent",
+      "url": "https://open.spotify.com/track/6Bl2CCYSmQBfqdQdqWI5Tm"
+    },
+    {
+      "album": {
         "name": "DIVIDE",
         "url": "https://open.spotify.com/album/2Rpr8GdtH8gc3sUfZNhUD1"
       },
@@ -6146,7 +6168,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 192000,
       "name": "Lean Onto Me",
       "url": "https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef"
@@ -8953,6 +8975,32 @@
     },
     {
       "album": {
+        "name": "Rumble",
+        "url": "https://open.spotify.com/album/3DrX1H5SjOeFCXpiwpds7Q"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "TRYM",
+          "url": "https://open.spotify.com/artist/5Nd385K2g3s0828W8Ab70z"
+        },
+        {
+          "name": "Graphyt",
+          "url": "https://open.spotify.com/artist/7fDOwYn3gMkegC9nGL0NNK"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135773,
+      "name": "Rumble",
+      "url": "https://open.spotify.com/track/4ejAxzq1HNPfQAUf2QUgxz"
+    },
+    {
+      "album": {
         "name": "Run Rabbit",
         "url": "https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK"
       },
@@ -11652,7 +11700,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 211387,
       "name": "Werewolf: Synthwave Edition",
       "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"

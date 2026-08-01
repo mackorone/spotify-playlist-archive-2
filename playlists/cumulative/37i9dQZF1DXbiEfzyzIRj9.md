@@ -2,9 +2,9 @@
 
 ### [Altar JP: オルタナティブ・ダンスミュージック](https://open.spotify.com/playlist/37i9dQZF1DXbiEfzyzIRj9)
 
-> 国内外のオルタナティブダンスミュージック  Cover: Salute \*金曜更新。マイライブラリに保存して毎週チェックしよう
+> 国内外のオルタナティブダンスミュージック  Cover: salute \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,398 songs - 7 day 7 hr 4 min
+2,398 songs - 7 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1053,6 +1053,7 @@
 | [In The Morning \- Moodorama Remix](https://open.spotify.com/track/2HDkWMorfmyHsLl5qbf820) | [Jazzanova](https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Moodorama](https://open.spotify.com/artist/2DAvUnwEhOrzBjVIFPMQTw) | [In The Morning \(Moodorama Remix\)](https://open.spotify.com/album/6Wd8CBbl67WqByXx4dbo9U) | 6:43 | 2026-02-05 | 2026-02-28 |
 | [In the Sky \- Edit](https://open.spotify.com/track/6jMLUJyL4a4bM2aCJPLRi5) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [In the Sky](https://open.spotify.com/album/2aXXUfjDV7v3Te5TuIgasP) | 3:55 | 2024-11-14 | 2024-12-27 |
 | [In The Sound Of Breathing \- George FitzGerald Remix](https://open.spotify.com/track/3EIi1v4tLTY1G0EIxVPuoD) | [SAGES](https://open.spotify.com/artist/5V57PJiPMsZflHN9dqoCSJ), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [In The Sound Of Breathing \(George FitzGerald Remix\)](https://open.spotify.com/album/4nhaONxYBJkfFvAv7Lpbnk) | 4:49 | 2025-04-24 | 2025-06-13 |
+| [In Your Head](https://open.spotify.com/track/2SeQImFA4byJJYS61VwB9J) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [In Your Head](https://open.spotify.com/album/5n2MNtPtQLxmcUe9T6hfOO) | 3:30 | 2026-07-30 |  |
 | [In Your House](https://open.spotify.com/track/0rQpHIQQesxUUuNCAt4Hb4) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [Capri](https://open.spotify.com/artist/4eHpewi8qb1L05TZvgKn7Z) | [In Your House](https://open.spotify.com/album/6iCdmN5lTBgIGQzEG4UBe1) | 3:06 | 2026-01-22 | 2026-03-13 |
 | [in2minds](https://open.spotify.com/track/3zaExCzGSQDEAI03RfneN0) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [in2minds](https://open.spotify.com/album/23ZY4hbwasgBa1Se29POvY) | 3:21 | 2024-09-19 | 2024-12-06 |
 | [Incantation](https://open.spotify.com/track/7FIQFlOuXIxvlMkuBY8SUs) | [xylon](https://open.spotify.com/artist/70PQjTIZapD5brmnKwBtJG) | [xylonmancy](https://open.spotify.com/album/0Hi0wpd4ni59sdnIniEkDZ) | 4:48 | 2025-01-30 | 2025-03-07 |
@@ -2143,7 +2144,6 @@
 | [Toxic Love \- Yukio Nohara Remix](https://open.spotify.com/track/4JuwPIKIX3uXYZxOgzwT20) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH), [Yukio Nohara](https://open.spotify.com/artist/1TmlY6IesLUBi6RhLuuOFU) | [Toxic Love Remixes](https://open.spotify.com/album/5zkxJQvWCOTN69opdlhsIN) | 7:47 | 2024-04-18 | 2024-05-10 |
 | [Toxic Love \- Yukio Nohara Remix](https://open.spotify.com/track/6vO9hzoGnOyZ8ehMO5PE0N) | [QPLO](https://open.spotify.com/artist/5mJwgdNPd9Qqn1eA2uU0LH), [Yukio Nohara](https://open.spotify.com/artist/1TmlY6IesLUBi6RhLuuOFU) | [Toxic Love Remixes](https://open.spotify.com/album/7LRFlGGg6bTNirLJSAbYj2) | 7:47 | 2024-02-01 | 2024-04-19 |
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-07 | 2024-04-05 |
-| [Track 1](https://open.spotify.com/track/2SeQImFA4byJJYS61VwB9J) | [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [In Your Head](https://open.spotify.com/album/5n2MNtPtQLxmcUe9T6hfOO) | 0:00 | 2026-07-30 |  |
 | [TRACKER](https://open.spotify.com/track/63DALyIGsR35njSyCT5BU2) | [SYCLES](https://open.spotify.com/artist/6gJjkwWveT0RtNy6FsRG4I) | [TRACKER](https://open.spotify.com/album/6EbWsQynRa6poZbkK5KCMz) | 7:34 | 2024-03-14 | 2024-08-09 |
 | [Traffic Jams](https://open.spotify.com/track/1fcRwdRZGwoTpaff2Fn4bd) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [Traffic Jams](https://open.spotify.com/album/2HEvv6LAWeKF29ZuLQswNX) | 11:05 | 2024-09-12 | 2024-11-29 |
 | [Train Dash](https://open.spotify.com/track/78BwUaTvpWUcQOWwnY8Ag3) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [In Sri Lanka](https://open.spotify.com/album/2sIpOaUihE0eLxmYWkAbOD) | 1:09 | 2023-12-07 | 2024-02-10 |

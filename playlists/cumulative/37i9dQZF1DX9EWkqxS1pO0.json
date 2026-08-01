@@ -542,7 +542,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-12",
+      "date_removed": null,
       "duration_ms": 140259,
       "name": "Ay Aman",
       "url": "https://open.spotify.com/track/0VLw7lk8FeLi1zWd4sLVxy"
@@ -1781,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "CRUSH!",
+        "url": "https://open.spotify.com/album/3Ayegr0sD9IvpNiGFsVzR0"
+      },
+      "artists": [
+        {
+          "name": "CRUSH",
+          "url": "https://open.spotify.com/artist/2JEo6ivzJS4vQbHZycSsS6"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148363,
+      "name": "CRUSH!",
+      "url": "https://open.spotify.com/track/4uFIhAOi62bRG1OhmQfDB9"
+    },
+    {
+      "album": {
         "name": "Dans Etmem Laz\u0131m",
         "url": "https://open.spotify.com/album/7KfM6hleD0FeO4e7sJ1MHF"
       },
@@ -2092,7 +2110,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 137996,
       "name": "Dolunay",
       "url": "https://open.spotify.com/track/0nVehOjbqRPByxOzO9keQk"
@@ -2532,6 +2550,24 @@
       "duration_ms": 216000,
       "name": "Eskisi Gibi",
       "url": "https://open.spotify.com/track/3xm7mzzbsNOAbyeOWYepAT"
+    },
+    {
+      "album": {
+        "name": "Film Gibi",
+        "url": "https://open.spotify.com/album/3lQGurBZwkjwNSLy8hqgWA"
+      },
+      "artists": [
+        {
+          "name": "KINDER",
+          "url": "https://open.spotify.com/artist/3QXCxT7diCTwLa7Lqy7Oik"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209907,
+      "name": "Film Gibi",
+      "url": "https://open.spotify.com/track/2EEooheWYHdgBnYTEWueUI"
     },
     {
       "album": {
@@ -4136,7 +4172,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 219512,
       "name": "Mahvettim",
       "url": "https://open.spotify.com/track/0RtzvHBV65ThWzML2a6EDA"
@@ -5100,7 +5136,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 176250,
       "name": "Senin Y\u00fcz\u00fcnden",
       "url": "https://open.spotify.com/track/2WPDvv1Mew0mcnh68D1LSG"

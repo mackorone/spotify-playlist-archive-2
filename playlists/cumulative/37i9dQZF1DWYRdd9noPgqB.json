@@ -7013,6 +7013,24 @@
     },
     {
       "album": {
+        "name": "Rio Lua",
+        "url": "https://open.spotify.com/album/1ZKkYip0a1vYvZHbHhRWHs"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149736,
+      "name": "Rio Lua",
+      "url": "https://open.spotify.com/track/2U2EHzePinWCXk8RItiiJW"
+    },
+    {
+      "album": {
         "name": "Ripple",
         "url": "https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB"
       },
@@ -8282,7 +8300,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 173172,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp"

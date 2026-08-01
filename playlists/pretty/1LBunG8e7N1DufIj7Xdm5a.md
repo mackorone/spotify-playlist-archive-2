@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,642 songs - 10 day 9 hr 4 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,645 songs - 10 day 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4650,5 +4650,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4640 | [Letter bomb](https://open.spotify.com/track/257ouBd9Lk6cTN6Pehksog) | [The Hong Kong Dollars](https://open.spotify.com/artist/1Gj90JO3ihhhnztQlrnubj) | [Letter bomb](https://open.spotify.com/album/2EMTEHR6B7PNUxZq3tHaCS) | 3:04 |
 | 4641 | [Luce che resta](https://open.spotify.com/track/2RWrMEhbbxdc55NZnWXMBL) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 4:29 |
 | 4642 | [Letting Go](https://open.spotify.com/track/4cyhP6RdHSh3BO3w919RoZ) | [Wretched Things](https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk) | [Letting Go](https://open.spotify.com/album/5tWApKMQsnNfjd0kb0hdf1) | 3:44 |
+| 4643 | [FROM THE SHADOWS](https://open.spotify.com/track/7tEGeo1rG64sgU7FZ2ivQ7) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [FROM THE SHADOWS](https://open.spotify.com/album/3qvRFg9iJJMYuiqkBZYE2M) | 4:48 |
+| 4644 | [Unfaithfull](https://open.spotify.com/track/5IU31DNoQlGE1RURLKkKyZ) | [Aerocks](https://open.spotify.com/artist/6P2AR5uerZRgGhRX8pfGZf) | [Unfaithfull](https://open.spotify.com/album/1WtVj4kyR95YObew02ye1m) | 4:25 |
+| 4645 | [Chal Baarish Mein](https://open.spotify.com/track/0VlNoYkB28z04hg4k6GnKE) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Chal Baarish Mein](https://open.spotify.com/album/7cVIrp5FZGnC6ufek5Sykb) | 2:56 |
 
-Snapshot ID: `AAAJclDQIocFQH750dDxbTVfWcZjbUML`
+Snapshot ID: `AAAJdejX8PABNUp/kHluFx7gdhAptPrH`

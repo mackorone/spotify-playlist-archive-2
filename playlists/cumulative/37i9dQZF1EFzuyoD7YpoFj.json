@@ -41,6 +41,50 @@
     },
     {
       "album": {
+        "name": "Porter, Cole: Let's Misbehave! (1927-1940)",
+        "url": "https://open.spotify.com/album/00V8X8Gj43p6pqiROdZ0DV"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "2 Little Babes In the Wood: Two Little Babes In the Wood",
+      "url": "https://open.spotify.com/track/1OJ11DacCGhqltcbWAomt9"
+    },
+    {
+      "album": {
+        "name": "2011 Texas Music Educators Association (TMEA): Robert E. Lee High School Chorale",
+        "url": "https://open.spotify.com/album/0idfv56Ha1SGh5vaqGDPux"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        },
+        {
+          "name": "Robert E. Lee High School Chorale",
+          "url": "https://open.spotify.com/artist/2eipOqPvpswL60vaCyyDth"
+        },
+        {
+          "name": "Paula Edwards",
+          "url": "https://open.spotify.com/artist/2lCpjYpYMpLJ2CpLcMeIYh"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203106,
+      "name": "7 Lively Arts: Time we say Goodbye (Arr. M. Huff)",
+      "url": "https://open.spotify.com/track/5HoRwc7MNePKoQNCQJs1bT"
+    },
+    {
+      "album": {
         "name": "2011 Texas Music Educators Association (TMEA): Robert E. Lee High School Chorale",
         "url": "https://open.spotify.com/album/4JHmemu4OctC8OsqQspIHi"
       },
@@ -3276,28 +3320,6 @@
       "duration_ms": 190773,
       "name": "Everything I Do Gohn Be Funky (From Now On)",
       "url": "https://open.spotify.com/track/5bSOwxh6Wyy8vNqV8eQulw"
-    },
-    {
-      "album": {
-        "name": "Lochiel's Warning",
-        "url": "https://open.spotify.com/album/4A1EkpbIVc1poDeL9arLUD"
-      },
-      "artists": [
-        {
-          "name": "Cole Porter",
-          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
-        },
-        {
-          "name": "Peter Asplund",
-          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
-        }
-      ],
-      "date_added": "2026-05-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 517280,
-      "name": "Everything I love",
-      "url": "https://open.spotify.com/track/1EnuKb3bry8lLGfzRMzHx8"
     },
     {
       "album": {
@@ -6772,6 +6794,28 @@
     {
       "album": {
         "name": "Lochiel's Warning",
+        "url": "https://open.spotify.com/album/4A1EkpbIVc1poDeL9arLUD"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        },
+        {
+          "name": "Peter Asplund",
+          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517280,
+      "name": "Let's Face It: Everything I love",
+      "url": "https://open.spotify.com/track/1EnuKb3bry8lLGfzRMzHx8"
+    },
+    {
+      "album": {
+        "name": "Lochiel's Warning",
         "url": "https://open.spotify.com/album/4yihAq3PVW53MrJ1sjsTdO"
       },
       "artists": [
@@ -7164,32 +7208,6 @@
       "duration_ms": 731813,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/3RJ2CnHGlmBLsoVqaMfAM0"
-    },
-    {
-      "album": {
-        "name": "2012 Florida Music Educators Association (FMEA): All-State Jazz Band & High School Honors Band",
-        "url": "https://open.spotify.com/album/6TGouryMaIbJWE451M9WjE"
-      },
-      "artists": [
-        {
-          "name": "Cole Porter",
-          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
-        },
-        {
-          "name": "Florida All-State Jazz Band",
-          "url": "https://open.spotify.com/artist/6zVzFtwpekOCnQZz1DLwT9"
-        },
-        {
-          "name": "R. Gary Langford",
-          "url": "https://open.spotify.com/artist/1sS9xOnOQYoIO0EhxnuLuY"
-        }
-      ],
-      "date_added": "2026-05-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 278366,
-      "name": "Love for Sale",
-      "url": "https://open.spotify.com/track/0p5Df2XUUruI1V1elo23m0"
     },
     {
       "album": {
@@ -11302,6 +11320,32 @@
     {
       "album": {
         "name": "2012 Florida Music Educators Association (FMEA): All-State Jazz Band & High School Honors Band",
+        "url": "https://open.spotify.com/album/6TGouryMaIbJWE451M9WjE"
+      },
+      "artists": [
+        {
+          "name": "Cole Porter",
+          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
+        },
+        {
+          "name": "Florida All-State Jazz Band",
+          "url": "https://open.spotify.com/artist/6zVzFtwpekOCnQZz1DLwT9"
+        },
+        {
+          "name": "R. Gary Langford",
+          "url": "https://open.spotify.com/artist/1sS9xOnOQYoIO0EhxnuLuY"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278366,
+      "name": "The New Yorkers: Love for Sale",
+      "url": "https://open.spotify.com/track/0p5Df2XUUruI1V1elo23m0"
+    },
+    {
+      "album": {
+        "name": "2012 Florida Music Educators Association (FMEA): All-State Jazz Band & High School Honors Band",
         "url": "https://open.spotify.com/album/33VeiAEKACqfH4dnrkvi7N"
       },
       "artists": [
@@ -11781,32 +11825,6 @@
     },
     {
       "album": {
-        "name": "2011 Texas Music Educators Association (TMEA): Robert E. Lee High School Chorale",
-        "url": "https://open.spotify.com/album/0idfv56Ha1SGh5vaqGDPux"
-      },
-      "artists": [
-        {
-          "name": "Cole Porter",
-          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
-        },
-        {
-          "name": "Robert E. Lee High School Chorale",
-          "url": "https://open.spotify.com/artist/2eipOqPvpswL60vaCyyDth"
-        },
-        {
-          "name": "Paula Edwards",
-          "url": "https://open.spotify.com/artist/2lCpjYpYMpLJ2CpLcMeIYh"
-        }
-      ],
-      "date_added": "2026-05-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203106,
-      "name": "Time we say Goodbye (Arr. M. Huff)",
-      "url": "https://open.spotify.com/track/5HoRwc7MNePKoQNCQJs1bT"
-    },
-    {
-      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/4jOItHaJyNyXJxz8toGytx"
       },
@@ -12276,24 +12294,6 @@
       "duration_ms": 177933,
       "name": "Two In Love",
       "url": "https://open.spotify.com/track/1Dvy59xZBgGmNSQIagdYq0"
-    },
-    {
-      "album": {
-        "name": "Porter, Cole: Let's Misbehave! (1927-1940)",
-        "url": "https://open.spotify.com/album/00V8X8Gj43p6pqiROdZ0DV"
-      },
-      "artists": [
-        {
-          "name": "Cole Porter",
-          "url": "https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS"
-        }
-      ],
-      "date_added": "2026-05-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 198466,
-      "name": "Two Little Babes In the Wood",
-      "url": "https://open.spotify.com/track/1OJ11DacCGhqltcbWAomt9"
     },
     {
       "album": {

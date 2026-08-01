@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123410,
+  "num_followers": 123403,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVoF/T3CFS64ly8CSdHmJCtNMLYWOK",
+  "snapshot_id": "AAAVoWGRKS6nMGwRrvdkWbkq05KMPsCC",
   "tracks": [
+    {
+      "added_at": "2026-07-31 14:32:55",
+      "album": {
+        "name": "Underneath Your Skin",
+        "url": "https://open.spotify.com/album/7e520ZOyJ5LpNG8Bn4qmYZ"
+      },
+      "artists": [
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Dani King",
+          "url": "https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Underneath Your Skin",
+      "url": "https://open.spotify.com/track/1b5M5fSUn4P30H8aqD8oM2"
+    },
     {
       "added_at": "2026-07-30 15:01:51",
       "album": {

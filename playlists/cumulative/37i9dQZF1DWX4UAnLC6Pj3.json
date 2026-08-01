@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "\u00a1Los \u00e9xitos de banda que necesitas! La Adictiva y Xavi \ud83d\udcf8",
+  "description": "\u00a1Los \u00e9xitos de banda que necesitas! Marca MP \ud83d\udcf8",
   "name": "Banda 2026",
   "tracks": [
     {
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 162124,
       "name": "Baila",
       "url": "https://open.spotify.com/track/54H54nVzjJlO4zm14RZuil"
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 144370,
       "name": "Copa de Vino",
       "url": "https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0"
@@ -4302,7 +4302,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 171025,
       "name": "El Mandil",
       "url": "https://open.spotify.com/track/3AlRtwYO85qQROISP5u18A"
@@ -8604,7 +8604,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 167787,
       "name": "Mujer mujer",
       "url": "https://open.spotify.com/track/0esS2QSGeZK4gPB0DKlUWo"
@@ -11466,7 +11466,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 143445,
       "name": "Sabor A Sonora - En Vivo",
       "url": "https://open.spotify.com/track/2hRW3tbYakHvX5pp6iOzJo"
@@ -12420,6 +12420,24 @@
       "duration_ms": 159397,
       "name": "Solo Que Lo Dudes",
       "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
+    },
+    {
+      "album": {
+        "name": "Solo Yo y Mi Almohada",
+        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
+      },
+      "artists": [
+        {
+          "name": "Banda Todo Terreno",
+          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215609,
+      "name": "Solo Yo y Mi Almohada",
+      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
     },
     {
       "album": {
@@ -13408,6 +13426,24 @@
       "duration_ms": 209365,
       "name": "Todo Depende de Ti - En Vivo",
       "url": "https://open.spotify.com/track/5rSx6fcfJvoCqy6JHcLv7d"
+    },
+    {
+      "album": {
+        "name": "Todo El A\u00f1o",
+        "url": "https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172166,
+      "name": "Todo El A\u00f1o",
+      "url": "https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq"
     },
     {
       "album": {

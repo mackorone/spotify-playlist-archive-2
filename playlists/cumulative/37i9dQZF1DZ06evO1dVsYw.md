@@ -4,11 +4,12 @@
 
 > This is Racionais MC's\. The essential tracks, all in one playlist.
 
-53 songs - 4 hr 46 min
+54 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Vida É Desafio](https://open.spotify.com/track/4mZu6NuOntvYZqCZPrxTqT) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [Afro\-X](https://open.spotify.com/artist/6iFQ7pCJ0ohIAdeu5gi46z) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 7:13 | 2023-09-18 |  |
+| [Alfa](https://open.spotify.com/track/3IOPkezP1RPFsjT67mg82m) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [ALFA](https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9) | 4:28 | 2026-08-01 |  |
 | [Beco Sem Saída \- Ao Vivo](https://open.spotify.com/track/1X8ADi0LT3YU72H7QMBj4z) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:34 | 2023-12-23 |  |
 | [Capítulo 4, Versículo 3](https://open.spotify.com/track/6Wt61AZLG0bN2KasopE2sj) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 8:06 | 2023-09-18 |  |
 | [Capítulo 4, Versículo 3 – Da Rua E Do Povo, O Hip Hop: Um Manifesto Paulistano](https://open.spotify.com/track/4dqhw6XOCGeaAxlP4yGwpV) | [Liga Carnaval SP](https://open.spotify.com/artist/31SU63Dknz98JD66U9zJPt), [G.R.C.S.E.S\. Vai\-Vai](https://open.spotify.com/artist/2Asu95Ut2mLtc8hsnpkTzE), [Luiz Felipe](https://open.spotify.com/artist/0w3ToityJnCyZacH2wzmqk), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [Sol da Vai\-Vai](https://open.spotify.com/artist/02uWG83UtstFnjmKfBVENF) | [Sambas de Enredo: Carnaval SP 2024 \(Grupo Especial, Acesso e Acesso II\)](https://open.spotify.com/album/1TXRS714j125DTxduDHugX) | 5:36 | 2023-12-13 | 2025-04-06 |

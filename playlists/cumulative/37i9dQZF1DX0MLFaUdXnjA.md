@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Amie Blu
 
-2,692 songs - 6 day 1 hr 8 min
+2,695 songs - 6 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,6 +422,7 @@
 | [Cheers To Us](https://open.spotify.com/track/2wWMwDxPN312VivZben9T6) | [Haywood](https://open.spotify.com/artist/3rFhVqmS6XqZl4LcGLDzAu), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Cheers To Us](https://open.spotify.com/album/2lvjpi1xzObUpEnEAtPDOX) | 3:04 | 2021-03-26 | 2021-06-05 |
 | [Cheesin’ \(with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS\)](https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Cheesin'](https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh) | 2:18 | 2021-03-26 | 2021-06-12 |
 | [Chelsea Girls](https://open.spotify.com/track/6LQ3yf5WVLOCmtiYWewfWZ) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 7:22 | 2021-03-06 | 2021-03-14 |
+| [Chemical Light](https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK) | [Josie Edwards](https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq) | [Greetings From Bleak St.](https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1) | 3:46 | 2026-07-31 |  |
 | [Chernobyl](https://open.spotify.com/track/6ou9h3v6x25UmB2rtya8yg) | [Alec Bailey](https://open.spotify.com/artist/0Y660vMBkPvMxMV9QTg11v) | [Chernobyl](https://open.spotify.com/album/34YaBVADe6mBtj7XnXD9P6) | 3:43 | 2020-08-21 | 2020-10-09 |
 | [Cherry Flavored Stomach Ache \- From “The Last Letter From Your Lover”](https://open.spotify.com/track/6q8lR0xsZ5X2se9ssZobhF) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Cherry Flavored Stomach Ache \(From “The Last Letter From Your Lover”\)](https://open.spotify.com/album/3rqukBJFfrvA1jQp7yogmD) | 2:31 | 2021-07-17 | 2021-07-31 |
 | [Cherry Wine](https://open.spotify.com/track/0fZs5APtzKrxynT2KASaBg) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Starflower](https://open.spotify.com/album/0q1bZDVdjplQau86UJRMCa) | 3:57 | 2025-04-04 | 2025-05-31 |
@@ -2412,6 +2413,7 @@
 | [To Do:](https://open.spotify.com/track/3qPsDY5dVRd3l7gBy9lRGu) | [LAOISE](https://open.spotify.com/artist/23an6pADJ65QGp0XlnkYkI) | [Healthy](https://open.spotify.com/album/2AQCfSl49naMZVEewJdL6k) | 3:00 | 2021-02-26 | 2021-04-03 |
 | [to get over you](https://open.spotify.com/track/5npVmfprLWcxg2ORsuvQhn) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [to get over you](https://open.spotify.com/album/0GDyTUzgG4CaMnprl6sAa4) | 2:50 | 2021-07-10 | 2021-09-11 |
 | [To Love Someone](https://open.spotify.com/track/3PsHulD1zewglcTPcEPnlk) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [To Love Someone](https://open.spotify.com/album/2hOxnlaUHGvYa7pisKzVdC) | 3:16 | 2023-11-10 | 2024-03-09 |
+| [tokyo](https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [tokyo](https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E) | 3:26 | 2026-07-31 |  |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-03-09 | 2022-03-12 |
 | [Tomorrow](https://open.spotify.com/track/2uWYoveMCyNXc8qywEjGQt) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E), [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Tomorrow](https://open.spotify.com/album/2ctDigzr2fyCqSGKNOHtQQ) | 3:00 | 2020-11-27 | 2021-05-15 |
 | [Tomorrow's Tomorrow](https://open.spotify.com/track/7LajHAuV0nHMFvFGsU1FAU) | [Hohnen Ford](https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW) | [Incurable Optimist](https://open.spotify.com/album/1Aq9I9rA3kOyrrLJaoY5um) | 3:20 | 2025-10-03 | 2026-02-21 |
@@ -2434,6 +2436,7 @@
 | [Toyota Camry](https://open.spotify.com/track/1xkHI7u9Pt5CGFoeppAcKA) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [Toyota Camry](https://open.spotify.com/album/4JEj7jRQAfmWlRBvMcgD3O) | 4:06 | 2025-11-28 | 2026-02-21 |
 | [Traffic Lights](https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Traffic Lights](https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z) | 3:24 | 2021-06-26 | 2021-09-25 |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 | 2024-03-09 |
+| [Trail Mix \(3pm\)](https://open.spotify.com/track/0nl0UQJrmmkxJx3kHKftpE) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [The Hours: High Noon](https://open.spotify.com/album/0nCFgJTknbfdfXiWBpREB3) | 2:24 | 2026-07-31 |  |
 | [Trampoline](https://open.spotify.com/track/1xMOdQOD7bDhkRHG04FHDX) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Trampoline](https://open.spotify.com/album/3zydVUwHpv30kPKdJd4SfK) | 4:34 | 2025-05-23 | 2025-07-26 |
 | [Treehouse \(feat\. Brandy Clark\)](https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Treehouse](https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0) | 3:34 | 2024-05-17 | 2024-06-01 |
 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 | 2026-07-11 |  |

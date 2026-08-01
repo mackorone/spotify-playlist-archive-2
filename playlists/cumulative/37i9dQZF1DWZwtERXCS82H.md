@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-896 songs - 1 day 14 hr 38 min
+899 songs - 1 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A partire dal](https://open.spotify.com/track/3M0EGPJEuloXdbnrP6cC4j) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [A partire dal](https://open.spotify.com/album/412D6erKmAsitjfDKwd7vK) | 2:20 | 2022-04-15 | 2023-08-15 |
 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 | 2023-01-20 | 2024-11-20 |
 | [A Place I Remember](https://open.spotify.com/track/66UHilCTnnislzdh2L9MQo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [A Place I Remember](https://open.spotify.com/album/1RfGFxOIvY8xYf3wcRltoe) | 2:52 | 2025-05-13 |  |
+| [A Promise](https://open.spotify.com/track/7ehg4awObQQE9rbe01fo7h) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [A Promise](https://open.spotify.com/album/1PxwGYNa6B2DEWAMyeKK7s) | 2:49 | 2026-07-31 |  |
 | [A Quiet Ruin](https://open.spotify.com/track/3S5ab5R9PhVAKzumkDBm8B) | [Carl Leming](https://open.spotify.com/artist/75cC6xWfjUUgbN3NkhdpGa) | [A Quiet Ruin](https://open.spotify.com/album/3KZBwEbt5CvSesy3mNygCe) | 2:07 | 2026-03-20 |  |
 | [A Song in D Minor](https://open.spotify.com/track/1EA7xsn5BkqM4rwZCaSiTM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Song in D Minor](https://open.spotify.com/album/62MuvulljSXeo7VowDXfEX) | 3:23 | 2023-02-07 | 2025-03-19 |
 | [A subtle joy](https://open.spotify.com/track/1MoboyfmxM1P6tgpEnnfud) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [A subtle joy](https://open.spotify.com/album/5wB2lpRIGizebEGndUbPlV) | 2:59 | 2022-11-18 | 2025-03-19 |
@@ -351,6 +352,7 @@
 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 | 2024-04-03 | 2026-02-18 |
 | [In questo momento](https://open.spotify.com/track/0otUJIiSxqBCw2TQGfrIE3) | [Eliodoro Russo](https://open.spotify.com/artist/3Kasxqqp5JRtK0lAuWTG7k) | [In questo momento](https://open.spotify.com/album/5URiTefnul03fUwxzDS7Jo) | 2:40 | 2022-04-15 | 2023-05-04 |
 | [In Reform](https://open.spotify.com/track/4Z3FuHB9SiTfOENBGlSxvI) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [In Reform](https://open.spotify.com/album/4anNfpO1diBCnuNgmNL1uL) | 2:35 | 2022-04-15 | 2024-03-26 |
+| [In Stillness](https://open.spotify.com/track/0DRfeQ9rwX6rn2JlrJJ6Ik) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [In Stillness](https://open.spotify.com/album/6gFoc7bHKVmZTw02pdQ2gc) | 2:33 | 2026-07-31 |  |
 | [In The Dark Hours](https://open.spotify.com/track/0aTqLGkslmsvtW2DGpHG5Q) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [In The Dark Hours](https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh) | 2:55 | 2022-04-15 | 2022-09-21 |
 | [In the Light of the Moon](https://open.spotify.com/track/3tfmiBDVxp5nGqoBBB2QxU) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [In the Light of the Moon](https://open.spotify.com/album/7fFLGkrMPuK6IuEnZ0C2Hw) | 2:23 | 2024-05-07 |  |
 | [In The Presence Of Starlight](https://open.spotify.com/track/1S0sSgUfWpqvPET73lU7Hv) | [Rusyav](https://open.spotify.com/artist/31Cm8F7MLg9rGw3vnmSk6w) | [In The Presence Of Starlight](https://open.spotify.com/album/4lmyXqbmLgTESZMGlm7XXX) | 3:19 | 2022-04-15 | 2022-05-14 |
@@ -361,7 +363,7 @@
 | [Intermediate](https://open.spotify.com/track/1kaBf48DzOMZGZaW8RS0a6) | [Alain Pironi](https://open.spotify.com/artist/3eJuiAewsbEy5XAiGnQlhr) | [Intermediate](https://open.spotify.com/album/7zr0qB3NM8DbgKTdqTr7LU) | 2:30 | 2022-04-15 | 2024-03-19 |
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2022-04-15 | 2022-05-14 |
 | [Intimita \- Futatabi](https://open.spotify.com/track/6tUBHCAKCnlqbyEqJjXJSo) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Intimita \- Futatabi](https://open.spotify.com/album/4JnQ9RJjw3BaE18z8fccAE) | 1:57 | 2022-04-15 | 2023-04-13 |
-| [Intrepid](https://open.spotify.com/track/0HAs6ePMyKsbfnjXaxdZSf) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Intrepid](https://open.spotify.com/album/2LLdSm53y4ECCcTWdVB105) | 2:44 | 2026-07-17 |  |
+| [Intrepid](https://open.spotify.com/track/0HAs6ePMyKsbfnjXaxdZSf) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Intrepid](https://open.spotify.com/album/2LLdSm53y4ECCcTWdVB105) | 2:44 | 2026-07-17 | 2026-08-01 |
 | [Introspection](https://open.spotify.com/track/2009vxkuztUlRIwJBHnDB3) | [Amadeo Rossi](https://open.spotify.com/artist/4nUAGaHP7awm9U9E9Cm9GJ) | [Introspection](https://open.spotify.com/album/5tsr4nWmAOyaHtUbdODlIR) | 2:10 | 2022-04-15 | 2022-05-27 |
 | [Inward Road \- Piano Version](https://open.spotify.com/track/0ZOecPZY6kihcSn4BWwite) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Inward Road \(Piano Version\)](https://open.spotify.com/album/3f7U3kAUkTFh9Ps8hOGB9w) | 2:18 | 2023-07-03 | 2025-08-20 |
 | [Irremplaçable](https://open.spotify.com/track/00MXTIsUxrN8hf6CgN1d2E) | [Astride Perrot](https://open.spotify.com/artist/1zefY5hiDGobvYnnl9ZxVc) | [Irremplaçable](https://open.spotify.com/album/4hvXCMXb75K5bhfagyLpcW) | 3:04 | 2022-04-15 | 2022-05-14 |
@@ -520,6 +522,7 @@
 | [Old Flame](https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/2Ghtml0EN6GDcy896wqkMO) | 2:08 | 2022-10-14 | 2024-01-05 |
 | [Old Flame](https://open.spotify.com/track/5wfZrIFYtl93BOMeS464rB) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [EP.1](https://open.spotify.com/album/3BbHU0suLHeL0a56KaCIsK) | 2:08 | 2022-10-14 | 2022-11-13 |
 | [Old Flame](https://open.spotify.com/track/64th3RAbJNNkh96S3lcMRZ) | [Eddie Jenkins](https://open.spotify.com/artist/1Ca0zpwFtBqVCEQRKrrGiz) | [Old Flame](https://open.spotify.com/album/7sN26SlOzcl1ey6NuPPQfg) | 2:08 | 2022-04-15 | 2022-10-17 |
+| [Old Friends](https://open.spotify.com/track/3A4AFTRMUKCNwbHQ3MpzPY) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Old Friends](https://open.spotify.com/album/3bbykziCXwP3RoWT6QtdFS) | 2:24 | 2026-07-31 |  |
 | [Older](https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl) | [C.J\. Wilkins](https://open.spotify.com/artist/6cG2racndnT8Xeb4HvR5Pa) | [Older](https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk) | 2:45 | 2022-04-15 | 2022-04-23 |
 | [Olivanders](https://open.spotify.com/track/5WY0sGX8iM9ic4XQh8hvuu) | [Alex Laude](https://open.spotify.com/artist/0MFzcJKiDZl0lPHraV0abV) | [Olivanders](https://open.spotify.com/album/4rwGVDtpLpcpDU3JL5803Q) | 2:09 | 2025-01-07 | 2025-05-22 |
 | [Ombre](https://open.spotify.com/track/3iwSjHyE2dXvTgzL2u771I) | [Valentina Romano](https://open.spotify.com/artist/0fQjueuVmR5XSCP0BtGdu1) | [Ombre](https://open.spotify.com/album/1ktCmaFnzHE10sLDumdAMT) | 2:05 | 2022-04-15 | 2022-11-19 |
@@ -687,7 +690,7 @@
 | [Sinking](https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Sinking](https://open.spotify.com/album/0VTQ7zwNJ0SrBddcVHsGZa) | 2:39 | 2022-04-15 | 2022-05-27 |
 | [Skye](https://open.spotify.com/track/07nMoeNxaY9nZtvD01snY8) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Skye](https://open.spotify.com/album/65bltqhMq5gjB9kNxCXqvw) | 2:24 | 2022-06-07 | 2024-03-26 |
 | [Sleeping at last](https://open.spotify.com/track/1ri9OTTCvGn1yMlDiqAdFS) | [Stephanie Middleton](https://open.spotify.com/artist/2Uz5ooYuumPgHwe1HVjFtT) | [Sleeping at last](https://open.spotify.com/album/0nOyDcj7i5cEolSP2RZ2uW) | 2:14 | 2022-04-15 | 2024-04-04 |
-| [Slow Morning](https://open.spotify.com/track/56sl3qMDGAqd8ktMI57h7S) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Slow Morning](https://open.spotify.com/album/72tckPxhIpV8L7KwBgSSiu) | 2:10 | 2023-07-03 |  |
+| [Slow Morning](https://open.spotify.com/track/56sl3qMDGAqd8ktMI57h7S) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Slow Morning](https://open.spotify.com/album/72tckPxhIpV8L7KwBgSSiu) | 2:10 | 2023-07-03 | 2026-08-01 |
 | [Slow Motion](https://open.spotify.com/track/7jQpEPXoLaE2LHvqaQ5cQ3) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Slow Motion](https://open.spotify.com/album/492xERwIuQYnX5mAhZP9BV) | 3:20 | 2022-10-14 | 2025-05-22 |
 | [Slow Spinning Balerina](https://open.spotify.com/track/3WXvl9AEf0yaCpM7TvhbrB) | [Sigrid Sigrdisdottir](https://open.spotify.com/artist/2B0VHQkXJ1KhZRsJyil8Vw) | [Slow Spinning Balerina](https://open.spotify.com/album/6gMWsqV8BwjvkF88404TYX) | 3:46 | 2024-03-18 | 2025-05-22 |
 | [Slow Voltage](https://open.spotify.com/track/58AYQMGOeuVJn7JppQU7Yd) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Slow Voltage](https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX) | 2:58 | 2022-04-15 | 2024-02-14 |
@@ -797,7 +800,7 @@
 | [To Be](https://open.spotify.com/track/0fdxDUhqECk0qLAtWju4yI) | [Mika Chastain](https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN) | [To Be](https://open.spotify.com/album/0rYD9GsqxmhHgBsbAQ09IC) | 2:03 | 2025-12-15 | 2026-01-15 |
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-09-20 | 2024-12-18 |
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2022-04-15 | 2024-04-04 |
-| [Tokyo](https://open.spotify.com/track/44pzUcTMHrjZnBQTqgjWf0) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Tokyo](https://open.spotify.com/album/3ywyIfP5x1jjosZDJpxzjT) | 2:19 | 2023-09-11 |  |
+| [Tokyo](https://open.spotify.com/track/44pzUcTMHrjZnBQTqgjWf0) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Tokyo](https://open.spotify.com/album/3ywyIfP5x1jjosZDJpxzjT) | 2:19 | 2023-09-11 | 2026-08-01 |
 | [Tomorrow's Dreams](https://open.spotify.com/track/2aj7eNHqMG4SeF5sBG7idE) | [Jngeis](https://open.spotify.com/artist/1X5nuNY0Ht6Yt2xaya4ZQE) | [Tomorrow's Dreams](https://open.spotify.com/album/3rEzNYYShOCnaUy8zVa0pA) | 2:44 | 2022-04-15 | 2022-05-27 |
 | [Tormenta De Otoño](https://open.spotify.com/track/5WVCbYEPtvdQvf3orHgExh) | [Tristaan Wilkes](https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck) | [Tormenta De Otoño](https://open.spotify.com/album/3xuwYWmDPEPB7bEnUSxZAq) | 2:16 | 2023-11-06 | 2024-06-01 |
 | [Tout, sauf mon ombre](https://open.spotify.com/track/18gxWtwvPc7BtLfcL52K9i) | [Corrine Chloé](https://open.spotify.com/artist/1BjYghTaiPxeWiLObrvsyR) | [Tout, sauf mon ombre](https://open.spotify.com/album/3b2kYxC690HiyzFYxcgzYY) | 3:02 | 2022-04-15 | 2022-09-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 5512,
+  "num_followers": 5513,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAAAE7gcNuUpQJmqCl4gVrotp",
+  "snapshot_id": "amqUAAAAAADAKS87V22YLJa4VVBAZBjZ",
   "tracks": [
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 241998,
-      "name": "Southern Soul",
-      "url": "https://open.spotify.com/track/45ZjkCNqpKoNb4sJg96OWu"
+      "duration_ms": 374700,
+      "name": "Wretch No More",
+      "url": "https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 374700,
-      "name": "Wretch No More",
-      "url": "https://open.spotify.com/track/1kIK6mCVRipXntUsPflAPE"
+      "duration_ms": 241998,
+      "name": "Southern Soul",
+      "url": "https://open.spotify.com/track/45ZjkCNqpKoNb4sJg96OWu"
     }
   ],
   "unique_name": "This Is Micah Tyler",

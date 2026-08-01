@@ -5064,7 +5064,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 219401,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj"
@@ -6086,7 +6086,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
@@ -7995,6 +7995,28 @@
     },
     {
       "album": {
+        "name": "Seeking",
+        "url": "https://open.spotify.com/album/4eVT1nvn82kdbQFwNlyiFe"
+      },
+      "artists": [
+        {
+          "name": "Renaisshouse",
+          "url": "https://open.spotify.com/artist/4ioML5l9ncjdwsRnbNMoyw"
+        },
+        {
+          "name": "Maria Mathea",
+          "url": "https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167594,
+      "name": "Seeking",
+      "url": "https://open.spotify.com/track/29rb7fkJ0axKI1UIF4NtuL"
+    },
+    {
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/42LvHKQwNCugCjXFiEmlP4"
       },
@@ -8308,6 +8330,28 @@
       "duration_ms": 184620,
       "name": "Start Of Something",
       "url": "https://open.spotify.com/track/2NUGRLu02FXvUEqd59ZBuA"
+    },
+    {
+      "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/3ZvnxXI2TPGdCIt6EabBX5"
+      },
+      "artists": [
+        {
+          "name": "DJs From Mars",
+          "url": "https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD"
+        },
+        {
+          "name": "EENA",
+          "url": "https://open.spotify.com/artist/1qVxpy82bFH98bY1RfYCX9"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171699,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/2T5d8yPBywUGxknvdcQY5q"
     },
     {
       "album": {
@@ -9770,6 +9814,28 @@
       "duration_ms": 159677,
       "name": "Under The Moonlight",
       "url": "https://open.spotify.com/track/6LnPMGaiR8zMI0gWrvuoF8"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/2c2tM8qDfR7ELliJ4hatPa"
+      },
+      "artists": [
+        {
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+        },
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185785,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1mbxcxfklTT0S2r4xcOKgH"
     },
     {
       "album": {

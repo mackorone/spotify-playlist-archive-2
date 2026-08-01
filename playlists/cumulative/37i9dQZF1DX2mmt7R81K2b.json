@@ -2677,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/11b8R6v3DQJCqYZSxiJyZQ"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266225,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/7mzumiveemZU6yqoFd2JqS"
+    },
+    {
+      "album": {
         "name": "Scurry",
         "url": "https://open.spotify.com/album/0lbwmnDifdEc3rS7lCafYL"
       },

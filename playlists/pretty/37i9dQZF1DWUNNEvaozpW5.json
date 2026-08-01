@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe y Leiva.",
-  "num_followers": 617098,
+  "num_followers": 617214,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-07-30 22:01:37",
       "album": {
-        "name": "Hasta que me quede sin voz",
-        "url": "https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 306861,
-      "name": "Hasta que me quede sin voz",
-      "url": "https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v"
-    },
-    {
-      "added_at": "2026-07-30 22:01:37",
-      "album": {
         "name": "Veneno En La Piel",
         "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 225813,
       "name": "Veneno en la Piel",
       "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
+    },
+    {
+      "added_at": "2026-07-30 22:01:37",
+      "album": {
+        "name": "Hasta que me quede sin voz",
+        "url": "https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 306861,
+      "name": "Hasta que me quede sin voz",
+      "url": "https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v"
     },
     {
       "added_at": "2026-07-30 22:01:37",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-07-30 22:01:37",
       "album": {
-        "name": "Saca La Lengua",
-        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Adi\u00f3s pap\u00e1",
-      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
-    },
-    {
-      "added_at": "2026-07-30 22:01:37",
-      "album": {
         "name": "Si Te Pones de Mi Parte",
         "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 319218,
       "name": "Si Te Pones de Mi Parte",
       "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
+    },
+    {
+      "added_at": "2026-07-30 22:01:37",
+      "album": {
+        "name": "Saca La Lengua",
+        "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Adi\u00f3s pap\u00e1",
+      "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
     },
     {
       "added_at": "2026-07-30 22:01:37",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-07-30 22:01:37",
       "album": {
+        "name": "Fugitivos De Paraiso",
+        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
+      },
+      "artists": [
+        {
+          "name": "Doctor Deseo",
+          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Corazon de Tango",
+      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
+    },
+    {
+      "added_at": "2026-07-30 22:01:37",
+      "album": {
         "name": "Un d\u00eda nada m\u00e1s",
         "url": "https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 249791,
       "name": "Fr\u00edo (con Fito y Fitipaldis, Tarque y Rosendo)",
       "url": "https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57"
-    },
-    {
-      "added_at": "2026-07-30 22:01:37",
-      "album": {
-        "name": "Fugitivos De Paraiso",
-        "url": "https://open.spotify.com/album/07hX6jcfLjbSP2NtkpKRCk"
-      },
-      "artists": [
-        {
-          "name": "Doctor Deseo",
-          "url": "https://open.spotify.com/artist/41h0P2FVHr6YTMfhjkrnhA"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Corazon de Tango",
-      "url": "https://open.spotify.com/track/5Hep3JI0YhpNNpbcurrvSS"
     },
     {
       "added_at": "2026-07-30 22:01:37",
@@ -1991,38 +1991,34 @@
     {
       "added_at": "2026-07-30 22:01:37",
       "album": {
-        "name": "Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
+        "name": "No Estar\u00e1n",
+        "url": "https://open.spotify.com/album/2CG2Kg9BBs1I71WtQfruZi"
       },
       "artists": [
         {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+          "name": "Soyla",
+          "url": "https://open.spotify.com/artist/3KmfchbrYvooKRACRCWTyg"
         }
       ],
-      "duration_ms": 182346,
-      "name": "A Contracorriente",
-      "url": "https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz"
+      "duration_ms": 222571,
+      "name": "No Estar\u00e1n",
+      "url": "https://open.spotify.com/track/7Gn7iExcldCRMJjE0YTeNu"
     },
     {
       "added_at": "2026-07-30 22:01:37",
       "album": {
-        "name": "Noche Oscura (feat. Leiva)",
-        "url": "https://open.spotify.com/album/1jPnCEyNgE8SSiSZn3qq5b"
+        "name": "Espacio-Tiempo",
+        "url": "https://open.spotify.com/album/1jdzfUzcRpzaI6O1TKsYLj"
       },
       "artists": [
         {
-          "name": "Depedro",
-          "url": "https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "Diagn\u00f3stico Binario",
+          "url": "https://open.spotify.com/artist/4toUuM31r6QCBRJcCKh7ad"
         }
       ],
-      "duration_ms": 230360,
-      "name": "Noche Oscura (feat. Leiva)",
-      "url": "https://open.spotify.com/track/5YHKrFUEX8aQJRPCS1Yl9W"
+      "duration_ms": 201967,
+      "name": "Espacio-Tiempo",
+      "url": "https://open.spotify.com/track/2t0O29E4gWtdrWHlSj2p8n"
     },
     {
       "added_at": "2026-07-30 22:01:37",

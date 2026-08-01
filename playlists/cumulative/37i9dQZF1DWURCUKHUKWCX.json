@@ -5097,6 +5097,24 @@
     },
     {
       "album": {
+        "name": "Eichhorn: Silent Fields (Upright Version)",
+        "url": "https://open.spotify.com/album/7qZ6kPUGniTnP4icsbT4zr"
+      },
+      "artists": [
+        {
+          "name": "Justus Eichhorn",
+          "url": "https://open.spotify.com/artist/6qiCMD9orWGdxUkJXP7hqY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177760,
+      "name": "Silent Fields - Upright Version",
+      "url": "https://open.spotify.com/track/37HHQF6PxPmumZWsaxvtg1"
+    },
+    {
+      "album": {
         "name": "Silhouette",
         "url": "https://open.spotify.com/album/04KfDPzBhw4C3iAqNJIV5A"
       },

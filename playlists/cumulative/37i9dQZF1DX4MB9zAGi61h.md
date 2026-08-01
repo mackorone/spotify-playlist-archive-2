@@ -4,7 +4,7 @@
 
 > Close Mic, Muted Strings, Loud Hammers
 
-65 songs - 2 hr 48 min
+69 songs - 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Before the Rain](https://open.spotify.com/track/2HUTET60za3USQAg8WnSFK) | [Ametrine Skies](https://open.spotify.com/artist/40vrF4Xbk1GAxqnIRdyrKs) | [Before the Rain](https://open.spotify.com/album/3JnAgnrdlJf7AlrUTyBGNc) | 2:12 | 2026-07-24 |  |
 | [Beyond The Mist](https://open.spotify.com/track/1BbMa127Sb16ts9KpqUWKF) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Beyond The Mist](https://open.spotify.com/album/1a0PezFzlD8Xz4p0BZr5sq) | 3:07 | 2026-07-24 |  |
 | [Bientôt](https://open.spotify.com/track/563RuhgRSelsHsxpBleqdu) | [Lucien des Ombres](https://open.spotify.com/artist/1ZegMobzSe2l8uZOxRhcSI) | [Bientôt](https://open.spotify.com/album/3jYkcw4QMkiXeeuZvZN0wr) | 2:01 | 2026-07-24 |  |
+| [Bird Of Nous](https://open.spotify.com/track/18pVGV0u2MBLrz58rtFjBn) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Bird Of Nous](https://open.spotify.com/album/5JfZ5JIJJyyWhqA5YhhTqd) | 2:15 | 2026-07-31 |  |
 | [Bloom Later](https://open.spotify.com/track/0IoJYjMhJhOiwXqnkkBWoJ) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Bloom Later](https://open.spotify.com/album/4UugupuV93QB32rdUWZciN) | 3:00 | 2026-07-24 |  |
 | [Elysium](https://open.spotify.com/track/0FjEbmuVgksEG1TN1eE0Dk) | [Charlie Westbrook](https://open.spotify.com/artist/7fbHzE2OKP2VIVIr5RZe0E) | [Elysium](https://open.spotify.com/album/07H5h0uPqEH3HVGc2tiGLk) | 2:46 | 2026-07-24 |  |
 | [Floating Between Stars](https://open.spotify.com/track/1bS7vdDehLQ2KDtQfZB2UK) | [Juliette Laveaux](https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A) | [Floating Between Stars](https://open.spotify.com/album/7g8FrNoShv3oyiiQZwSHSq) | 2:13 | 2026-07-24 |  |
@@ -37,6 +38,7 @@
 | [Long Fold](https://open.spotify.com/track/6DhRY1ZFTT406noY4GFqTT) | [Andrea Neroli](https://open.spotify.com/artist/3JrPnL4GFXXCAe09g8QdnO) | [Long Fold](https://open.spotify.com/album/5V2b9EkDXWYsbU5llbbRer) | 2:09 | 2026-07-24 |  |
 | [Mirage](https://open.spotify.com/track/7H7htG1WiHeKfwjfDMZQEW) | [Eric Ville de Soins](https://open.spotify.com/artist/2KBG6OYKx3h3gyGCXNkVFj) | [Mirage](https://open.spotify.com/album/0EoQqDYsCWiAOJRT6Wk5i5) | 2:51 | 2026-07-24 |  |
 | [More Than Ever](https://open.spotify.com/track/15PunCqA3vo30NXBPdd4WH) | [Nikolai Hawthorne](https://open.spotify.com/artist/2HoCd4cQaTWNWbIFEXi4hG) | [More Than Ever](https://open.spotify.com/album/296EMbEe02k12d9d8rRrGe) | 2:25 | 2026-07-24 |  |
+| [Morning Haze](https://open.spotify.com/track/1ISShfUqApLvaZKiYNkjhB) | [Lina Emsen](https://open.spotify.com/artist/1zwP5uOqLuMBII0dRnkBqX) | [Morning Haze](https://open.spotify.com/album/1AkqgUZjc1UcyMdTVMtlfX) | 2:22 | 2026-07-31 |  |
 | [Neverending](https://open.spotify.com/track/0sZK2pvTQRoPQSlghAjYEC) | [Edwin Mercier](https://open.spotify.com/artist/1Vuacme7mzRJl6CaXjKTO0) | [Neverending](https://open.spotify.com/album/3Kuo8biAKpwyiPRjiW4g4z) | 1:54 | 2026-07-24 |  |
 | [New Ground](https://open.spotify.com/track/3t8U2kQaFKAt3WwVXdaSzv) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [New Ground](https://open.spotify.com/album/2Tj1McpS4Z2EmqioMm9eBp) | 3:11 | 2026-07-24 |  |
 | [Patterns](https://open.spotify.com/track/6z0UhDZtA0Ln2hHhgLg6Ah) | [Eric D\. Lawrence](https://open.spotify.com/artist/7cr6fHoqPq2UXVPrmylXQg) | [Patterns](https://open.spotify.com/album/4bDXWDR2mxOE5XCKSRPrYU) | 2:30 | 2026-07-24 |  |
@@ -52,9 +54,11 @@
 | [Shadows Without Form](https://open.spotify.com/track/0IBLehTnwALyVJPbMk8SK6) | [Sulman Indigo](https://open.spotify.com/artist/2RmYJmReQsQT4GoNEKMWC2) | [Shadows Without Form](https://open.spotify.com/album/0yIWDcXW6eEirm6R3d2XCC) | 2:18 | 2026-07-24 |  |
 | [Sign Language](https://open.spotify.com/track/7tX5i08r7YXsHVWakYV2UB) | [jeskai](https://open.spotify.com/artist/2LrbshVtrXwmklQyJmqVgB) | [Sign Language](https://open.spotify.com/album/3AbFxDlkLmWZJ7cMTMOPai) | 1:46 | 2026-07-24 |  |
 | [So I Found Out](https://open.spotify.com/track/0sJ2343xDi69UkvYBgq6C2) | [Saga Noir](https://open.spotify.com/artist/7mEuTDuOutiuWupd1Sflyr) | [So I Found Out](https://open.spotify.com/album/5gai0IBs70srCNANHWQSdR) | 3:00 | 2026-07-24 |  |
+| [Soft Meadow](https://open.spotify.com/track/2MMbGRkF1Ua0EVUrMQ1rIr) | [Ludovic Agnes](https://open.spotify.com/artist/4l07zQkuiR10PftXNbieYZ) | [Soft Meadow](https://open.spotify.com/album/3udAa6iIZO6GyRBEdEodVr) | 2:16 | 2026-07-31 |  |
 | [Soft Petals](https://open.spotify.com/track/2R9j7BIJlpJjKDeKkmGO0N) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Soft Petals](https://open.spotify.com/album/4CrvRTrviwxZx0Wq60ZSbm) | 2:44 | 2026-07-24 |  |
 | [Soft Remains](https://open.spotify.com/track/2aCCSgGdfxQhFG959qfvXc) | [Lyraen](https://open.spotify.com/artist/0UWho9zZbWeCzDCPKaebro) | [Soft Remains](https://open.spotify.com/album/4KSGCtwTfz11gWnLc1OWOJ) | 3:33 | 2026-07-24 |  |
 | [Soft Return](https://open.spotify.com/track/1Tkl43frGAm0ACGRla1TAW) | [Lou Maxence](https://open.spotify.com/artist/7KP4VeCHHi7TuDNlociPui) | [Soft Return](https://open.spotify.com/album/3QDRanOMocsDj5X4fsUaDP) | 2:25 | 2026-07-24 |  |
+| [Solace](https://open.spotify.com/track/4H31tmuaR9HlO6mav9Opre) | [Orren Vale](https://open.spotify.com/artist/1qmIkzSek2dDTztypfuQGN) | [Solace](https://open.spotify.com/album/17kS7Dk0JR3YHbGfooMEUo) | 2:53 | 2026-07-31 |  |
 | [Solene](https://open.spotify.com/track/5ZLrcI0DxjdjlBjFfdtlQ8) | [Verdame](https://open.spotify.com/artist/0xiNBrTQ3VM9vCPoRQ7ZBY) | [Solene](https://open.spotify.com/album/2hEjZDTPmZcNVu3fw961bf) | 2:24 | 2026-07-24 |  |
 | [Solitude](https://open.spotify.com/track/2T5lhMS4tEi7fAK5oUdH7j) | [Leo Paterson](https://open.spotify.com/artist/4gJElh1nAdNDhDFxFQTMSG) | [Solitude](https://open.spotify.com/album/5BsbfabMjGFR7GvojKQzMG) | 2:37 | 2026-07-24 |  |
 | [Song for Beatrice](https://open.spotify.com/track/3KCeKGiRF62bIU9TRKqQdS) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [Song for Beatrice](https://open.spotify.com/album/3jPKqsN0GWOH8d3fKQw7jG) | 2:24 | 2026-07-24 |  |

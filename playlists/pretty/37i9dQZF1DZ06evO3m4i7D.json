@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAAA3dsqHtr+F3UcePp584z6H",
+  "snapshot_id": "amqUAAAAAACWAe8UD+by0kS6ux672g3z",
   "tracks": [
     {
       "added_at": null,
@@ -951,10 +951,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Esquivel En Vivo Desde Cadereyta",
-        "url": "https://open.spotify.com/album/6cVX7B3bzYW5Je5vVUjyXr"
+        "name": "\u00bfQu\u00e9 Pas\u00f3 Ayer?",
+        "url": "https://open.spotify.com/album/1KxHN6ayQSNRLPzgeVD6l4"
       },
       "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        },
         {
           "name": "Sebastian Esquivel",
           "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
@@ -962,19 +970,11 @@
         {
           "name": "Eugenio Esquivel",
           "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        },
-        {
-          "name": "Los De La Norte LDLN",
-          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
-        },
-        {
-          "name": "Grupo Opuesto Sentido",
-          "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 147141,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
+      "duration_ms": 194455,
+      "name": "\u00bfQu\u00e9 Pas\u00f3 Ayer?",
+      "url": "https://open.spotify.com/track/4RK3tRPq9qpITcLimGj1FZ"
     },
     {
       "added_at": null,
@@ -1003,6 +1003,34 @@
       "duration_ms": 214042,
       "name": "El R\u00e1pido - En Vivo",
       "url": "https://open.spotify.com/track/1BFZbkqRrXWzQ3Ld48OLTc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Esquivel En Vivo Desde Cadereyta",
+        "url": "https://open.spotify.com/album/6cVX7B3bzYW5Je5vVUjyXr"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Los De La Norte LDLN",
+          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
+        },
+        {
+          "name": "Grupo Opuesto Sentido",
+          "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
+        }
+      ],
+      "duration_ms": 147141,
+      "name": "Los Botones Azules - En Vivo",
+      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
     }
   ],
   "unique_name": "This Is Eugenio Esquivel",

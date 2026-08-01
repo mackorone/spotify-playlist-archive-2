@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-334 songs - 17 hr 6 min
+335 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Dance The Night \- Acoustic](https://open.spotify.com/track/5Rylkdnez4Jye4YHucM3M4) | [Phil Halo](https://open.spotify.com/artist/6dyzieLNuthwQsahZSxbOv), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Dance The Night](https://open.spotify.com/album/2LBVTDsPoquLbnLRmwKlMS) | 2:52 | 2023-08-24 |  |
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/4dudhJneNjXsJDyCxmObVB) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/3zbMIvyACUAWcf702wwZQu) | 2:32 | 2024-10-25 |  |
 | [Dancing in the Moonlight \- Acoustic](https://open.spotify.com/track/15ITqJqQ7f3EW9HmSQnzR4) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Dancing in the Moonlight \(Acoustic\)](https://open.spotify.com/album/0ldEDXECSxV2KJrwScStqq) | 2:59 | 2021-10-01 | 2023-12-14 |
+| [Dancing Queen](https://open.spotify.com/track/6sgWYPkUO7WUg1Q4B2apJh) | [Emily Linge](https://open.spotify.com/artist/1oHuewfSrJgCviOzYBcr5A) | [Dancing Queen](https://open.spotify.com/album/5EDuXoOyyDdDjD02nKLhI5) | 3:30 | 2026-07-31 |  |
 | [Dancing Queen \- Acoustic](https://open.spotify.com/track/4PGaZTakItG48FENLQhDyv) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Dancing Queen \(Acoustic\)](https://open.spotify.com/album/70EnDLWEFJv2HyqaFuxlCt) | 2:23 | 2024-10-04 | 2026-02-28 |
 | [Daydream Believer \- Acoustic](https://open.spotify.com/track/2tq6QHha0InhddKVEbfHiy) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Daydream Believer \(Acoustic\)](https://open.spotify.com/album/3qwvjINzC7FN11ZRxVwmsE) | 2:13 | 2023-03-17 | 2024-03-04 |
 | [Dignity \- Acoustic](https://open.spotify.com/track/6WaOpI5POr5KaIFiOTIb1E) | [Richard Watts](https://open.spotify.com/artist/3cGb8b9Zwvka0MWD5RyMDI) | [Dignity \(Acoustic\)](https://open.spotify.com/album/79Dxyo0UTmGpOn14wgQWDM) | 2:53 | 2021-05-28 | 2026-04-18 |

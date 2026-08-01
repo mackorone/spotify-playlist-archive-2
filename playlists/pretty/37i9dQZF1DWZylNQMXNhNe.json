@@ -1,12 +1,12 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Bia Soull",
-  "num_followers": 249092,
+  "num_followers": 249083,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP6yShj9a7eZqjS++hX42adUyxpi",
+  "snapshot_id": "AAAAACaJQmtxYw1fjRvJP7YTSxyXfN1R",
   "tracks": [
     {
       "added_at": "2026-07-24 03:00:02",
@@ -227,6 +227,26 @@
     {
       "added_at": "2026-07-24 03:00:02",
       "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/30YgLXNMvemSXzDcSkhJPm"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ"
+    },
+    {
+      "added_at": "2026-07-24 03:00:02",
+      "album": {
         "name": "Como Ouro",
         "url": "https://open.spotify.com/album/4hZTIQF4MrNJRwGbmIA7MT"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 161670,
       "name": "Finais Necess\u00e1rios - Ao Vivo",
       "url": "https://open.spotify.com/track/1achmvYEM15c4In5XTlEAv"
-    },
-    {
-      "added_at": "2026-07-24 03:00:02",
-      "album": {
-        "name": "ROCKSTAR",
-        "url": "https://open.spotify.com/album/30YgLXNMvemSXzDcSkhJPm"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ"
     },
     {
       "added_at": "2026-07-24 03:00:02",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-07-24 03:00:02",
       "album": {
-        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
-        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 159886,
-      "name": "Amor Pilantra - Ao Vivo",
-      "url": "https://open.spotify.com/track/3L2nBtkcFL5lzu2U6ipBnG"
-    },
-    {
-      "added_at": "2026-07-24 03:00:02",
-      "album": {
         "name": "deja vu",
         "url": "https://open.spotify.com/album/08ClZj3cnJ5PmdxLmVsC38"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 196455,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/6RqlhCt1obVazYJY1nBz89"
+    },
+    {
+      "added_at": "2026-07-24 03:00:02",
+      "album": {
+        "name": "Serenata da GG, Vol. 2 - Ao Vivo",
+        "url": "https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 159886,
+      "name": "Amor Pilantra - Ao Vivo",
+      "url": "https://open.spotify.com/track/3L2nBtkcFL5lzu2U6ipBnG"
     },
     {
       "added_at": "2026-07-24 03:00:02",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-07-24 03:00:02",
       "album": {
-        "name": "VADIAS IN LOVE",
-        "url": "https://open.spotify.com/album/2EEAD31nCgaqX1jfjuXT2p"
-      },
-      "artists": [
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 167183,
-      "name": "MANIA (oi amor, bom dia)",
-      "url": "https://open.spotify.com/track/1xjEboXOvVV1nkhdzueDfd"
-    },
-    {
-      "added_at": "2026-07-24 03:00:02",
-      "album": {
         "name": "Gambiarra Chic, Pt. 1",
         "url": "https://open.spotify.com/album/2wlQIZh68jjdSizM2CReLz"
       },
@@ -959,6 +939,26 @@
     {
       "added_at": "2026-07-24 03:00:02",
       "album": {
+        "name": "VADIAS IN LOVE",
+        "url": "https://open.spotify.com/album/2EEAD31nCgaqX1jfjuXT2p"
+      },
+      "artists": [
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 167183,
+      "name": "MANIA (oi amor, bom dia)",
+      "url": "https://open.spotify.com/track/1xjEboXOvVV1nkhdzueDfd"
+    },
+    {
+      "added_at": "2026-07-24 03:00:02",
+      "album": {
         "name": "Dilema",
         "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
       },
@@ -971,26 +971,6 @@
       "duration_ms": 186461,
       "name": "Dilema",
       "url": "https://open.spotify.com/track/4ZDxRw8TDRrfXdiOTOl04A"
-    },
-    {
-      "added_at": "2026-07-24 03:00:02",
-      "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
-      },
-      "artists": [
-        {
-          "name": "J\u00e1der",
-          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
-        },
-        {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
     },
     {
       "added_at": "2026-07-24 03:00:02",
@@ -1019,18 +999,22 @@
     {
       "added_at": "2026-07-24 03:00:02",
       "album": {
-        "name": "NOVA ERA Part. I",
-        "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/1qmxhHvBzdreXhN5vyKzMk"
       },
       "artists": [
         {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+          "name": "J\u00e1der",
+          "url": "https://open.spotify.com/artist/4kZNQjkGZ4VVovVaFvE1xa"
+        },
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
         }
       ],
-      "duration_ms": 188976,
-      "name": "Mal\u00edcia",
-      "url": "https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh"
+      "duration_ms": 127600,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/2M5BehhFtfmxQrW7vBTK5G"
     },
     {
       "added_at": "2026-07-24 03:00:02",
@@ -1051,6 +1035,22 @@
       "duration_ms": 189333,
       "name": "rela\u00e7\u00f5es superficiais",
       "url": "https://open.spotify.com/track/1ORiphnAaOvI9UkntVSthN"
+    },
+    {
+      "added_at": "2026-07-24 03:00:02",
+      "album": {
+        "name": "NOVA ERA Part. I",
+        "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Mal\u00edcia",
+      "url": "https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh"
     },
     {
       "added_at": "2026-07-24 03:00:02",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2026-07-24 03:00:02",
       "album": {
+        "name": "PROFANO",
+        "url": "https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Nandes",
+          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
+        }
+      ],
+      "duration_ms": 171581,
+      "name": "PROFANO",
+      "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
+    },
+    {
+      "added_at": "2026-07-24 03:00:02",
+      "album": {
         "name": "inpacto",
         "url": "https://open.spotify.com/album/3Z7A4LMoJuWmP3qbn0aycR"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 166153,
       "name": "nada s\u00e9rio",
       "url": "https://open.spotify.com/track/1Y8Gi9zCJZJ6KoLZD71OGw"
-    },
-    {
-      "added_at": "2026-07-24 03:00:02",
-      "album": {
-        "name": "PROFANO",
-        "url": "https://open.spotify.com/album/561cajrN9AnuWxpesKrZMb"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Nandes",
-          "url": "https://open.spotify.com/artist/6iLuIQrcWa5whMobYeBL77"
-        }
-      ],
-      "duration_ms": 171581,
-      "name": "PROFANO",
-      "url": "https://open.spotify.com/track/1ffK3Ja0USyT2MO33OZ9ar"
     },
     {
       "added_at": "2026-07-24 03:00:02",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2026-07-24 03:00:02",
       "album": {
+        "name": "Bom Demais",
+        "url": "https://open.spotify.com/album/6jDyFTVuHjSAzCKrjtEqLF"
+      },
+      "artists": [
+        {
+          "name": "leffs",
+          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
+        }
+      ],
+      "duration_ms": 143377,
+      "name": "Bom Demais",
+      "url": "https://open.spotify.com/track/29Jk3zMKGd3iQiPNRbleNo"
+    },
+    {
+      "added_at": "2026-07-24 03:00:02",
+      "album": {
         "name": "Funk Triste",
         "url": "https://open.spotify.com/album/4Uuyx6mIRKziWkhaqS8pzE"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 172399,
       "name": "Funk Triste",
       "url": "https://open.spotify.com/track/2AZUEqoZdB4PBEmwvywHQ3"
-    },
-    {
-      "added_at": "2026-07-24 03:00:02",
-      "album": {
-        "name": "Bom Demais",
-        "url": "https://open.spotify.com/album/6jDyFTVuHjSAzCKrjtEqLF"
-      },
-      "artists": [
-        {
-          "name": "leffs",
-          "url": "https://open.spotify.com/artist/4sFBNLSdFWLvPkQjAwZubs"
-        }
-      ],
-      "duration_ms": 143377,
-      "name": "Bom Demais",
-      "url": "https://open.spotify.com/track/29Jk3zMKGd3iQiPNRbleNo"
     },
     {
       "added_at": "2026-07-24 03:00:02",

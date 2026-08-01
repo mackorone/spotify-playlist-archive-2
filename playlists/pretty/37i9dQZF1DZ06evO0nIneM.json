@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 95150,
+  "num_followers": 95160,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAAB2AY5buBBIzFpItv1OCeO8",
+  "snapshot_id": "amqUAAAAAABT53el35/kcjhI8hMZGNR1",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glas",
-        "url": "https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 215585,
-      "name": "Glas",
-      "url": "https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
         "url": "https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 232666,
       "name": "Holiday In Spain",
       "url": "https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glas",
+        "url": "https://open.spotify.com/album/0kO81VfsNlgcdp206XgXQx"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 215585,
+      "name": "Glas",
+      "url": "https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Omarm Me",
-        "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 232425,
-      "name": "Omarm Me",
-      "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live op Concert at SEA 2015",
         "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 282866,
       "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
       "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Omarm Me",
+        "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 232425,
+      "name": "Omarm Me",
+      "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
     },
     {
       "added_at": null,

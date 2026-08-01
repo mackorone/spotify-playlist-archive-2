@@ -4,7 +4,7 @@
 
 > African Praise music taking you all the way up!
 
-1,069 songs - 2 day 22 hr 59 min
+1,070 songs - 2 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1043,6 +1043,7 @@
 | [Yeshua!](https://open.spotify.com/track/1j9kTaj53ZnU2JOXPbgGhN) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Yeshua!](https://open.spotify.com/album/6f1T835QYYd56uvPFg2gj8) | 3:40 | 2026-04-03 |  |
 | [Yesu](https://open.spotify.com/track/53LjxInfWogTWJyCDaRhem) | [Jumbo Aniebiet](https://open.spotify.com/artist/3SFQtiUWFMi1dZFoieb47p) | [Yesu](https://open.spotify.com/album/1C1hk6ScDpYZXC7jHinsYl) | 2:43 | 2026-04-03 | 2026-05-15 |
 | [Yesu \(Jesus\)](https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Guya](https://open.spotify.com/artist/1WdV2fjFsYXEqKe9AaqGpH) | [Yesu \(Jesus\)](https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI) | 3:55 | 2023-09-08 | 2024-06-01 |
+| [Yesu Hajasafiri \- Remix](https://open.spotify.com/track/0uRvLghsiNvbQn56Co3xm0) | [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6), [Godfrey Steven](https://open.spotify.com/artist/3RJbUlHXjdGJxZNEskbv3o), [Naomi James](https://open.spotify.com/artist/0TANwZCcu1pbQfizauba3q), [Martha Baraka](https://open.spotify.com/artist/5ThTHsUAo1V0yccvhV3YQg), [KIBONGE WA YESU](https://open.spotify.com/artist/6VbhWt2uiUZxXxc8YjQxap), [Asagwile](https://open.spotify.com/artist/7nyg9DjU0a0NIDVIHOIjCB), [Japhet Zabron](https://open.spotify.com/artist/0FV0XVT8EGRVSH3JmhYhD5), [Aniset Butati](https://open.spotify.com/artist/3R2JL2jhTy2qVEa4r6QYU3), [Kamala The Gospel](https://open.spotify.com/artist/2gWECZIWFoCHrhteqAYiOF), [Simon Mlinda](https://open.spotify.com/artist/2eZFtn2DFOXBwXfUSynMqF), [Stewart Mwakasege](https://open.spotify.com/artist/4bJFaOlDx9j6fgB4b9ZWhe) | [Yesu Hajasafiri \(Remix\)](https://open.spotify.com/album/7kFeearEXtCivqZDp7FEXr) | 9:31 | 2026-07-31 |  |
 | [Yesu My King \- Live](https://open.spotify.com/track/2qm1YZmFPAbRl5QvFdQKeN) | [Boaz Danken](https://open.spotify.com/artist/0s0Ju81rtHoeIjyry4QEOW) | [Yesu My King \(Live\)](https://open.spotify.com/album/1PDUQBjxc09vjrQ69vyCwo) | 27:35 | 2026-03-13 | 2026-04-17 |
 | [Yesu Ni Uhuru](https://open.spotify.com/track/5IIMN8tmrJuLilwwjWBJ5Y) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom), [Proud Refuge](https://open.spotify.com/artist/7BdlxAdFLv4gmdD9Gl116j), [WE ARE BELOVED](https://open.spotify.com/artist/2pqzfd3r50fk530AHMXwRg) | [Yesu Ni Uhuru](https://open.spotify.com/album/5wD3Gxx9HneMjA8VBJlPW2) | 3:27 | 2025-09-05 | 2026-02-06 |
 | [Yhwh](https://open.spotify.com/track/42oGywp1kBakRUEUR3qies) | [DAM!ZZLE](https://open.spotify.com/artist/4KgjsDVEDEJlEpGtNaHbug), [Akoji](https://open.spotify.com/artist/6sCiXcuwvIldFB4idVMsLP), [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu) | [Yhwh](https://open.spotify.com/album/5I5ezmG1LjGv1ncOj3VF7X) | 2:25 | 2025-04-11 | 2025-05-23 |

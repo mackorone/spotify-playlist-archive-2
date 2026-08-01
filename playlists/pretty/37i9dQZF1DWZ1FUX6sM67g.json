@@ -1,13 +1,49 @@
 {
-  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Jay Wheeler",
-  "num_followers": 476270,
+  "description": "\u00a1En este punto tropical, se encuentra un poco de todo! Foto: Silvestre Dangond y Elena Rose",
+  "num_followers": 476263,
   "original_name": "Punto Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOnhUWCk64NIHYoxdbQreizeVvka",
+  "snapshot_id": "AAAAAKzIBcLixjjPxCarsA7vzrsGvi93",
   "tracks": [
+    {
+      "added_at": "2026-07-31 04:59:17",
+      "album": {
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/3WYvCcWn2UD44wxjkoUG0u"
+      },
+      "artists": [
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 177821,
+      "name": "Efectos Secundarios",
+      "url": "https://open.spotify.com/track/3ZBeHVnqHHMOmv1ofhq6T0"
+    },
+    {
+      "added_at": "2026-05-15 04:59:16",
+      "album": {
+        "name": "Tu recuerdo",
+        "url": "https://open.spotify.com/album/6mZb6eIfSgtTrqs0G6fQSw"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 235714,
+      "name": "Tu recuerdo",
+      "url": "https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf"
+    },
     {
       "added_at": "2026-05-29 04:59:20",
       "album": {
@@ -105,22 +141,6 @@
       "url": "https://open.spotify.com/track/0tUJwCdSzXzHJaarIEm5pN"
     },
     {
-      "added_at": "2026-05-15 04:59:16",
-      "album": {
-        "name": "TERAPIA",
-        "url": "https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h"
-      },
-      "artists": [
-        {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
-        }
-      ],
-      "duration_ms": 156756,
-      "name": "Me Voy de Ti (La Cumbia)",
-      "url": "https://open.spotify.com/track/0DEZyg3nBtld8gNMYu7fSX"
-    },
-    {
       "added_at": "2026-05-01 04:59:35",
       "album": {
         "name": "El \u00daltimo Disco Vol. 1",
@@ -137,20 +157,20 @@
       "url": "https://open.spotify.com/track/45mOAFri9j18zW3PbJvJ19"
     },
     {
-      "added_at": "2026-03-18 21:06:55",
+      "added_at": "2026-05-15 04:59:16",
       "album": {
-        "name": "Las Mujeres Ya No Lloran",
-        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+        "name": "TERAPIA",
+        "url": "https://open.spotify.com/album/5vGmuVlclYBaBDZNDyBv9h"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Dayanara",
+          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
         }
       ],
-      "duration_ms": 156466,
-      "name": "Nassau",
-      "url": "https://open.spotify.com/track/2D48pEtMZRYcByAhjvVLM3"
+      "duration_ms": 156756,
+      "name": "Me Voy de Ti (La Cumbia)",
+      "url": "https://open.spotify.com/track/0DEZyg3nBtld8gNMYu7fSX"
     },
     {
       "added_at": "2026-05-29 04:59:20",
@@ -243,22 +263,6 @@
       "duration_ms": 213068,
       "name": "Cuaderno - La Salsa Version",
       "url": "https://open.spotify.com/track/13QlOinyZm0IltZ49QKmgg"
-    },
-    {
-      "added_at": "2026-05-15 04:59:16",
-      "album": {
-        "name": "Tu recuerdo",
-        "url": "https://open.spotify.com/album/6mZb6eIfSgtTrqs0G6fQSw"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 235714,
-      "name": "Tu recuerdo",
-      "url": "https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf"
     },
     {
       "added_at": "2026-04-24 04:59:29",

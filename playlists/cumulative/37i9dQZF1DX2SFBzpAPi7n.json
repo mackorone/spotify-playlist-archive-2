@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: tokai) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: JKC(\uc7ad\ud0b9\ucf69)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1974,7 +1974,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 205000,
       "name": "blue daisy (feat. Mulasaki Ima)",
       "url": "https://open.spotify.com/track/3Fm1m14KmAljsk4CSNJe81"
@@ -6168,7 +6168,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 274131,
       "name": "Friends and Lovers (Feat. KYLY)",
       "url": "https://open.spotify.com/track/0nnI7Iy21rFhIS5ug7lSM0"
@@ -7328,6 +7328,24 @@
       "duration_ms": 250299,
       "name": "HAPPY END",
       "url": "https://open.spotify.com/track/4zGVzGt73dO1xaiPu0Wd1E"
+    },
+    {
+      "album": {
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/4E2VyhKlUwf1puLVtjh4NV"
+      },
+      "artists": [
+        {
+          "name": "JKC",
+          "url": "https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Happy Ending",
+      "url": "https://open.spotify.com/track/3arMRuq3yV0vYx2zoZEYAV"
     },
     {
       "album": {
@@ -9328,7 +9346,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 177082,
       "name": "It Comes Back",
       "url": "https://open.spotify.com/track/1DvxyzGPAH7SK8osEzeJic"
@@ -10206,7 +10224,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 216850,
       "name": "Left to Try",
       "url": "https://open.spotify.com/track/7MAPkD3vZKn64KW1N8YmPh"
@@ -13634,7 +13652,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu"
@@ -14420,7 +14438,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-07",
+      "date_removed": null,
       "duration_ms": 179386,
       "name": "Pump Up The Volume!",
       "url": "https://open.spotify.com/track/34DtDWmIUacoop6Md298vE"
@@ -20134,6 +20152,24 @@
       "duration_ms": 207760,
       "name": "We Go Run",
       "url": "https://open.spotify.com/track/1AFJbKhcePFRzZGaySGIhZ"
+    },
+    {
+      "album": {
+        "name": "WE JUST",
+        "url": "https://open.spotify.com/album/0bCC078aXrmuFdCdzTVVOa"
+      },
+      "artists": [
+        {
+          "name": "LATENCY",
+          "url": "https://open.spotify.com/artist/4VxV3skINpnHCDEF9Ihf9U"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164166,
+      "name": "WE JUST",
+      "url": "https://open.spotify.com/track/4v7JNcCciGaJbYLNnmn2VD"
     },
     {
       "album": {

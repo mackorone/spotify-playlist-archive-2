@@ -5479,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "Joan of Arc",
+        "url": "https://open.spotify.com/album/2gkGN4xpTLFo0HFlWXhU81"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282240,
+      "name": "Joan of Arc",
+      "url": "https://open.spotify.com/track/2EEQ6GrxDHsyaX6nq9CJh7"
+    },
+    {
+      "album": {
         "name": "jordan",
         "url": "https://open.spotify.com/album/6AsNNdORDTgvDgL2Dz2W88"
       },
@@ -7517,6 +7535,24 @@
     },
     {
       "album": {
+        "name": "Time Left",
+        "url": "https://open.spotify.com/album/5yS560meEehcwhuW4v3gaF"
+      },
+      "artists": [
+        {
+          "name": "Jonny Stanback",
+          "url": "https://open.spotify.com/artist/30Zr45NzyCJSBqb30thWsL"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190363,
+      "name": "Pretty Damn Close",
+      "url": "https://open.spotify.com/track/1CDxpulUDPixtiRA8NldFL"
+    },
+    {
+      "album": {
         "name": "Pretty Little Devil",
         "url": "https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw"
       },
@@ -7568,6 +7604,28 @@
       "duration_ms": 234986,
       "name": "Puzzle Peace",
       "url": "https://open.spotify.com/track/6RNx2PvcKDBJSvFMW6SqES"
+    },
+    {
+      "album": {
+        "name": "Rabies",
+        "url": "https://open.spotify.com/album/5tfVxiVnjr3e6a5jgBKqKq"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        },
+        {
+          "name": "Black Polish",
+          "url": "https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212830,
+      "name": "Rabies",
+      "url": "https://open.spotify.com/track/4bb4b8LxkX5HpUU9THfBQQ"
     },
     {
       "album": {

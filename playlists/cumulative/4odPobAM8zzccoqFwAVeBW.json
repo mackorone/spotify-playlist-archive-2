@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "After Battle",
+        "url": "https://open.spotify.com/album/39pfoHka3oFIHsRP178khI"
+      },
+      "artists": [
+        {
+          "name": "Laura Cannell",
+          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200582,
+      "name": "After Battle",
+      "url": "https://open.spotify.com/track/1rxjtqI5BvTgpgsGTZeFDi"
+    },
+    {
+      "album": {
         "name": "Aidan",
         "url": "https://open.spotify.com/album/3SduKlWvvHUJJNid87rh73"
       },
@@ -1234,7 +1252,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 162255,
       "name": "Best of Luck",
       "url": "https://open.spotify.com/track/7vWNnUtYHpEHHLuffhctgY"
@@ -2010,7 +2028,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 133189,
       "name": "By The River",
       "url": "https://open.spotify.com/track/3nzDHSgvxRwv6OPvKRgnW4"
@@ -2984,6 +3002,24 @@
       "duration_ms": 263050,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/7AkKnq2Xf632a6kQc7g3x0"
+    },
+    {
+      "album": {
+        "name": "Dissidente",
+        "url": "https://open.spotify.com/album/4mrmw6ilNZeyVfXVgzVorQ"
+      },
+      "artists": [
+        {
+          "name": "Agazero",
+          "url": "https://open.spotify.com/artist/3CmY3G8IVu7K8IOa5ivn4N"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272727,
+      "name": "Craves Vain Attention",
+      "url": "https://open.spotify.com/track/7JjbvT4vhZJN6SedeMEU1b"
     },
     {
       "album": {
@@ -4448,7 +4484,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 179493,
       "name": "Enarmoured",
       "url": "https://open.spotify.com/track/2WEANHCEXCvEh0PuouMi6p"
@@ -4694,6 +4730,24 @@
       "duration_ms": 116000,
       "name": "Eve Of The End",
       "url": "https://open.spotify.com/track/20e1DTLwqe1iiM65PIe4Xb"
+    },
+    {
+      "album": {
+        "name": "Spike",
+        "url": "https://open.spotify.com/album/1ikVgllIio0ykSGvMQ8gRc"
+      },
+      "artists": [
+        {
+          "name": "Spike",
+          "url": "https://open.spotify.com/artist/39uMUO8aGb1e8smPZBb6fd"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150661,
+      "name": "Event Horizon",
+      "url": "https://open.spotify.com/track/2Bp7g3WWktwOdDoTNEMAtV"
     },
     {
       "album": {
@@ -6179,6 +6233,24 @@
     },
     {
       "album": {
+        "name": "Grey Midas / Cannibal Blues (2026 Remaster)",
+        "url": "https://open.spotify.com/album/675UZ4SjKm2OheupwtkFDr"
+      },
+      "artists": [
+        {
+          "name": "The Incompetents",
+          "url": "https://open.spotify.com/artist/7LtllQUaY1rNbxBdONOiqH"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350415,
+      "name": "Grey Midas - 2026 Remaster",
+      "url": "https://open.spotify.com/track/44OorVYKm0celJm4Z9Lv5u"
+    },
+    {
+      "album": {
         "name": "Unlink Atlas",
         "url": "https://open.spotify.com/album/5ZlCBGPFVgZgSqQtVJLPuL"
       },
@@ -6475,6 +6547,24 @@
     },
     {
       "album": {
+        "name": "Hats Off (Extended Mix)",
+        "url": "https://open.spotify.com/album/474nBTQuqe1EOX7pC4Yo25"
+      },
+      "artists": [
+        {
+          "name": "Argonaut",
+          "url": "https://open.spotify.com/artist/2huRhwQ4N5TB5AiMfS0n4F"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237999,
+      "name": "Hats Off - Extended Mix",
+      "url": "https://open.spotify.com/track/67llygDnxiltqn6Y19jwid"
+    },
+    {
+      "album": {
         "name": "Have a Heart",
         "url": "https://open.spotify.com/album/16zMTB8PDzkiMjbHD3PnGT"
       },
@@ -6486,7 +6576,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 194093,
       "name": "Have a Heart",
       "url": "https://open.spotify.com/track/4LHpIlgOHSMOj8UL0n9th6"
@@ -6631,6 +6721,24 @@
     },
     {
       "album": {
+        "name": "Here It Comes",
+        "url": "https://open.spotify.com/album/3sKe7QBx9iKWcST6N1mVgw"
+      },
+      "artists": [
+        {
+          "name": "Sennen",
+          "url": "https://open.spotify.com/artist/4Oj3M6yChNMnrXHAa5uWxa"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262880,
+      "name": "Here It Comes",
+      "url": "https://open.spotify.com/track/2P60dDSdSSAgT8Y9YNCL2k"
+    },
+    {
+      "album": {
         "name": "Hey Zombie",
         "url": "https://open.spotify.com/album/7KEXkqp3fFV1LUij5k1B1d"
       },
@@ -6660,7 +6768,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 203013,
       "name": "Hiding Place",
       "url": "https://open.spotify.com/track/4ZzJu5Lj4WOxIx0hjyFNyI"
@@ -6754,6 +6862,24 @@
       "duration_ms": 246156,
       "name": "Hold The Reins",
       "url": "https://open.spotify.com/track/6b0hxIx06l1NMw5rr0iDAE"
+    },
+    {
+      "album": {
+        "name": "Holdup",
+        "url": "https://open.spotify.com/album/4cz6FvT4wuTL8aul3R7AjQ"
+      },
+      "artists": [
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312500,
+      "name": "Holdup",
+      "url": "https://open.spotify.com/track/7D8FvmoY7F8aGMYWWdsXic"
     },
     {
       "album": {
@@ -7056,6 +7182,24 @@
       "duration_ms": 718000,
       "name": "Hydrobates Pelagicus (l'oc\u00e9anite temp\u00eate)",
       "url": "https://open.spotify.com/track/5ZN0shyBGxMDcmwIuun1Fz"
+    },
+    {
+      "album": {
+        "name": "I Belong To The Band",
+        "url": "https://open.spotify.com/album/2LLI0I8DR4C8wXLbpfkQjE"
+      },
+      "artists": [
+        {
+          "name": "Abi Budgen",
+          "url": "https://open.spotify.com/artist/100hcvLMk6kIAayNDCrlGY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171573,
+      "name": "I Belong To The Band",
+      "url": "https://open.spotify.com/track/5WWOWjVgsjqIgRmxkfgLBR"
     },
     {
       "album": {
@@ -7390,7 +7534,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 224640,
       "name": "In The Black Forrest",
       "url": "https://open.spotify.com/track/03kZgjl5Zgnm78WDZMm5Do"
@@ -7490,6 +7634,24 @@
       "duration_ms": 127165,
       "name": "Inhimillisen Tuhon Piiri",
       "url": "https://open.spotify.com/track/3bN2YNVm7tsfEOGEDGQuT7"
+    },
+    {
+      "album": {
+        "name": "Innocent Driver",
+        "url": "https://open.spotify.com/album/2QlSvj61dMZd1jLmIMAtU8"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat",
+          "url": "https://open.spotify.com/artist/3SntVNfRaavqckb9zr75ui"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187174,
+      "name": "Innocent Driver",
+      "url": "https://open.spotify.com/track/7KHOnSb2zrfTLrHJ333ukD"
     },
     {
       "album": {
@@ -7786,10 +7948,28 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 178906,
       "name": "John Henry | Who's Gonna Shoe Your Pretty Little Feet",
       "url": "https://open.spotify.com/track/5Lc7L16V7p9xySBzFiTqnR"
+    },
+    {
+      "album": {
+        "name": "Johnny Anti-Christ / See You in Beirut (2026 Remaster)",
+        "url": "https://open.spotify.com/album/6rGNDFZCBGBqbjZdDIysRm"
+      },
+      "artists": [
+        {
+          "name": "Scrambled Eggs",
+          "url": "https://open.spotify.com/artist/7LMaj868IbZLUCIbSOy7bF"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180246,
+      "name": "Johnny Anti-Christ - 2026 Remaster",
+      "url": "https://open.spotify.com/track/4u256otpJzGW8pTnrLq3cz"
     },
     {
       "album": {
@@ -8285,6 +8465,24 @@
     },
     {
       "album": {
+        "name": "Street Bass Tape 26 (Mixed)",
+        "url": "https://open.spotify.com/album/0cMCRPzZofqbkhER2Oro1g"
+      },
+      "artists": [
+        {
+          "name": "Starkey",
+          "url": "https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190855,
+      "name": "Landing Zone",
+      "url": "https://open.spotify.com/track/5IPDb3VtChvFgjkFK1acod"
+    },
+    {
+      "album": {
         "name": "Last Bastard",
         "url": "https://open.spotify.com/album/2ZQzvvKZ8e6KPJv7ZRG8Q8"
       },
@@ -8502,6 +8700,24 @@
       "duration_ms": 191291,
       "name": "LeVast Ill",
       "url": "https://open.spotify.com/track/4Q1EtHpegFGAHuFyY4Hn2E"
+    },
+    {
+      "album": {
+        "name": "Lie Down With Dogs, Stand Up With Fleas (Radio Edit)",
+        "url": "https://open.spotify.com/album/3NrHt65YbECF7GVGzzIdLi"
+      },
+      "artists": [
+        {
+          "name": "British Birds",
+          "url": "https://open.spotify.com/artist/3qeG4iaWZCauchpE2pgHfx"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217363,
+      "name": "Lie Down With Dogs, Stand Up With Fleas - Radio Edit",
+      "url": "https://open.spotify.com/track/6c4ZkRkta95Xafm1dXcDPi"
     },
     {
       "album": {
@@ -8780,7 +8996,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 364000,
       "name": "LOCH",
       "url": "https://open.spotify.com/track/4PLbPerzheMMsKW3L4rtdM"
@@ -10809,6 +11025,24 @@
     },
     {
       "album": {
+        "name": "Open Sea",
+        "url": "https://open.spotify.com/album/41pMpSVRBQMAxXLS2vJXyT"
+      },
+      "artists": [
+        {
+          "name": "Eye",
+          "url": "https://open.spotify.com/artist/0awe26k6bxJr78VomO32ku"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367440,
+      "name": "Open Sea",
+      "url": "https://open.spotify.com/track/5dKz4SWgjD8lLrzBiDhCRh"
+    },
+    {
+      "album": {
         "name": "Osiris",
         "url": "https://open.spotify.com/album/0jfM9JNTcsWDzgonnX76SJ"
       },
@@ -11798,7 +12032,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 362240,
       "name": "Reaching Heart",
       "url": "https://open.spotify.com/track/5lArJ0F97kxH9W32HavL31"
@@ -11816,7 +12050,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 291573,
       "name": "Ready For '91",
       "url": "https://open.spotify.com/track/1vyjrZEYvRPeaop8CfD2UR"
@@ -12372,7 +12606,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 332215,
       "name": "Saecularhythmia\u2014\u2014The Rhythmanalyst relates to semiocoustic reason.",
       "url": "https://open.spotify.com/track/4HU5j0cYQFMqj5z5hiYHIo"
@@ -13526,7 +13760,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 239473,
       "name": "Soul Wet Thru",
       "url": "https://open.spotify.com/track/3ufMnl5BomQsk7osdgTCeJ"
@@ -13848,7 +14082,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 242533,
       "name": "still believe",
       "url": "https://open.spotify.com/track/0p7Mlx3xITUKjau0yOA28b"
@@ -14696,6 +14930,24 @@
       "duration_ms": 316506,
       "name": "The Breath Of Now",
       "url": "https://open.spotify.com/track/6thcn5Bl1Y0LZi6W0CXo5o"
+    },
+    {
+      "album": {
+        "name": "Sound Hoard 2 Jurassic Voices",
+        "url": "https://open.spotify.com/album/7scKLfigPHmG5WwEwTrdtP"
+      },
+      "artists": [
+        {
+          "name": "Laura Cannell",
+          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174083,
+      "name": "The Cacophonous Chorus of Dawn",
+      "url": "https://open.spotify.com/track/1z5u1X3b2wdpnPzEgml4G8"
     },
     {
       "album": {
@@ -17218,7 +17470,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 341086,
       "name": "Whispers - Live in Belfast 2026",
       "url": "https://open.spotify.com/track/1GoZHm5YaNeD5BaCDX8acn"

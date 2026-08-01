@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: The Black Keys
 
-422 songs - 1 day 3 hr 8 min
+423 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 | 2020-10-16 | 2023-05-27 |
 | [Fortune Teller Blues](https://open.spotify.com/track/2J1jFnY0rllxqi749VZzlm) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Sammy Hagar](https://open.spotify.com/artist/1hXjTjJzZTXDZ75AclOo6N) | [Fortune Teller Blues](https://open.spotify.com/album/1AXxeIrqeolSXvjo3Hf32R) | 6:22 | 2025-01-31 | 2025-06-21 |
 | [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 | 2020-10-16 | 2026-01-31 |
-| [Freedom](https://open.spotify.com/track/4bwrku78zobaXo2V9vPW6J) | [Jason Lee McKinney Band](https://open.spotify.com/artist/4jKq5mpInUqZWJ8v3R92ap) | [One Last Thing](https://open.spotify.com/album/63XFht5dOCm0P15cxEm2pv) | 3:39 | 2022-03-25 |  |
+| [Freedom](https://open.spotify.com/track/4bwrku78zobaXo2V9vPW6J) | [Jason Lee McKinney Band](https://open.spotify.com/artist/4jKq5mpInUqZWJ8v3R92ap) | [One Last Thing](https://open.spotify.com/album/63XFht5dOCm0P15cxEm2pv) | 3:39 | 2022-03-25 | 2026-08-01 |
 | [Freedom \- Single Version](https://open.spotify.com/track/0Kdu2qRBfCRJJdWtEdKFjL) | [Suzi Quatro](https://open.spotify.com/artist/15jHZ1EZwmm2QDjKctvqJQ) | [Freedom](https://open.spotify.com/album/5XOGc9cd6GPupHK5OiC5FD) | 3:14 | 2026-01-30 |  |
 | [Future Soul](https://open.spotify.com/track/41QtY7hxoAFWC8yMIzxu43) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Future Soul](https://open.spotify.com/album/3ju1yk14EAVB3156tIylfI) | 3:19 | 2026-03-20 |  |
 | [Get Out](https://open.spotify.com/track/6WLtfOdxB7FdmY7GePc6us) | [Dirty Streets](https://open.spotify.com/artist/34iizXl7oXappF8Fpl27ST) | [Get Out](https://open.spotify.com/album/0cdFr8n7xLEV616xKYN2kT) | 2:41 | 2022-06-10 | 2022-07-23 |
@@ -296,6 +296,7 @@
 | [Put Your Money On Me](https://open.spotify.com/track/3nFZSnjeCfNLVFPK1nnXZF) | [The Answer](https://open.spotify.com/artist/3STTKsLP1gSzGvOVCtNlWS) | [Put Your Money On Me](https://open.spotify.com/album/7MyvRRf3JcTp4R4J3iXC0B) | 3:07 | 2024-03-22 |  |
 | [Queen of Hearts](https://open.spotify.com/track/0hbqFIZtFrxW2n1xlNDyVR) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Queen of Hearts](https://open.spotify.com/album/5h647p839GyskOFAlaYj1l) | 5:00 | 2026-02-27 | 2026-04-11 |
 | [Ready for More](https://open.spotify.com/track/3qCcj7VVDZtiCo8LASZQyG) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [III](https://open.spotify.com/album/7wOCyDQqR7yUb4JvEgBnrd) | 2:24 | 2023-06-16 |  |
+| [Red Gorilla](https://open.spotify.com/track/1y4lKMU8Ie4ajVLfJha9Yk) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Red Gorilla](https://open.spotify.com/album/2BB6XJDQOElVgufDnj1GGH) | 3:43 | 2026-07-31 |  |
 | [Red House](https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:50 | 2024-05-24 | 2024-07-06 |
 | [Renegade Season](https://open.spotify.com/track/4YcPEgiT0kbnidJYw7OyUb) | [Jax Hollow](https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB) | [Only The Wild Ones](https://open.spotify.com/album/23987SO39NcnKh9gtceZKf) | 4:36 | 2023-05-05 |  |
 | [Ride](https://open.spotify.com/track/0FwmAMxNdTC515HY3lexJR) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Truth And Lies](https://open.spotify.com/album/7KAu22Uam2on7ZzDp41w72) | 3:26 | 2020-10-16 | 2023-03-04 |

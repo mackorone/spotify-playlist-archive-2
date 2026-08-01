@@ -2,9 +2,9 @@
 
 ### [Transcend](https://open.spotify.com/playlist/37i9dQZF1DWViyN2b86Qnu)
 
-> Incredible tracks from trans, non\-binary, and gender\-fluid artists\. Cover: Beverly Glenn\-Copeland
+> Incredible tracks from trans, non\-binary, and gender\-fluid artists\. Cover: Arca
 
-310 songs - 17 hr 40 min
+312 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Perfect Day](https://open.spotify.com/track/3as34NSXSAq8GII0L2mpq2) | [RVG](https://open.spotify.com/artist/4a2c6VZMfp0CdNg1JgSPR9) | [Feral](https://open.spotify.com/album/3CG7xLmHCRCpwpkM8Z57DV) | 3:09 | 2021-10-05 | 2022-07-29 |
 | [Perfectly Trans](https://open.spotify.com/track/0kEtZvH91ZXh7IJwBpRGDB) | [Ezra Michel](https://open.spotify.com/artist/5cKZAUUJMK9Ef4gUeW0Zjz) | [Perfectly Trans](https://open.spotify.com/album/6W9OgcdAHRzClYUunPOoA1) | 1:02 | 2023-03-31 | 2024-03-31 |
 | [Pills & Good Advice](https://open.spotify.com/track/7mVua1NkDiqHpy5YDkUCfu) | [Left at London](https://open.spotify.com/artist/3xPCFC8f7U3raEXOXQ3MrE) | [t.i.a.p.f.y.h.](https://open.spotify.com/album/3AmtZIC01fVMxFCGIIlMzO) | 10:13 | 2022-03-04 | 2023-01-24 |
+| [Pop Sound](https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Pop Sound](https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql) | 2:51 | 2026-07-31 |  |
 | [Precious and Perfect](https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD) | [Sports Bra](https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b) | [Talk It Out](https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61) | 3:00 | 2021-10-05 | 2023-04-01 |
 | [Prettiest Secret](https://open.spotify.com/track/5YtqndU0RuIAEP1swFJHga) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [More Than That](https://open.spotify.com/album/2hZJvNZNGl3OiliDYaeLlf) | 2:37 | 2024-03-30 |  |
 | [Pretty Girl](https://open.spotify.com/track/7c94KxhRzEp51MdkynqOUm) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Things That Are Bad for Me](https://open.spotify.com/album/3MMxyF2JgR2pUD7qwvOnrg) | 2:49 | 2023-03-31 | 2023-05-30 |
@@ -279,6 +280,7 @@
 | [Suspended Disbelief](https://open.spotify.com/track/679PIiVJw7a2jvvkqffPqP) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [Suspended Disbelief](https://open.spotify.com/album/5ocoNwK1sr0lgLaY8Gz6Xo) | 3:37 | 2023-09-14 | 2024-03-31 |
 | [Sweet Cis Teen](https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S) | 4:29 | 2023-01-23 | 2023-04-01 |
 | [Sweet Cis Teen](https://open.spotify.com/track/3BtI05wNziDrIODXJqdKkK) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 4:33 | 2021-10-05 | 2023-02-05 |
+| [Taconeando](https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [XXXXX](https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql) | 2:18 | 2026-07-31 |  |
 | [Tether](https://open.spotify.com/track/6jnrxHB6CbK89NmFF9Yqa6) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education: Songs from Season 4](https://open.spotify.com/album/5ExYoOpoHMExYBUnz6lWl8) | 3:51 | 2024-03-30 |  |
 | [That's My Sis](https://open.spotify.com/track/2XIeW9O9rwtgNgQ3IpQ3dF) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [That's My Sis](https://open.spotify.com/album/51YpXABPAuZmlcOViZkLLP) | 2:58 | 2021-10-05 | 2022-03-09 |
 | [The Art Of Starting Over](https://open.spotify.com/track/0Xnczz6WOco9RiC6NyPsat) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 2:47 | 2022-02-20 | 2023-01-24 |

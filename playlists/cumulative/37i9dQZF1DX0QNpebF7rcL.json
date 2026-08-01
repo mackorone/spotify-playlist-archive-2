@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 122266,
       "name": "A Flat City",
       "url": "https://open.spotify.com/track/590BnlG9y6C0f9UivPq4qt"
@@ -694,6 +694,28 @@
       "duration_ms": 260345,
       "name": "Bad People",
       "url": "https://open.spotify.com/track/21Nv0pTJBQNLNUaaBR0E2Y"
+    },
+    {
+      "album": {
+        "name": "Bad Reputation Blues",
+        "url": "https://open.spotify.com/album/4FNaDWrG2O2bf0jEaV48WC"
+      },
+      "artists": [
+        {
+          "name": "Chris Tapp",
+          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
+        },
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203988,
+      "name": "Bad Reputation Blues",
+      "url": "https://open.spotify.com/track/0IqQXIJ5QJVe9YjIYorlS4"
     },
     {
       "album": {
@@ -1798,7 +1820,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 246946,
       "name": "Condition Blue",
       "url": "https://open.spotify.com/track/7HQshuPqE8A8OA0bdH9xYb"
@@ -1960,7 +1982,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 198714,
       "name": "Cut N' Run",
       "url": "https://open.spotify.com/track/2l6QY5V1S2kxaaKN5vR9ii"
@@ -5366,7 +5388,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 170689,
       "name": "I\u2019ll Change My Style",
       "url": "https://open.spotify.com/track/1XuAdZ0BlvGSp7eXlECoU3"
@@ -5384,7 +5406,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 267784,
       "name": "I\u2019m Afraid to Fall Asleep",
       "url": "https://open.spotify.com/track/7ANJ7z0Lk2ROWcguDNtrhu"
@@ -7553,6 +7575,36 @@
     },
     {
       "album": {
+        "name": "Rise and Shine",
+        "url": "https://open.spotify.com/album/2PowiWluZshCBTxR3R446S"
+      },
+      "artists": [
+        {
+          "name": "Texas Headhunters",
+          "url": "https://open.spotify.com/artist/7mjg4r7cSiKjSpTw8pry5t"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        },
+        {
+          "name": "Ian Moore",
+          "url": "https://open.spotify.com/artist/5XZzCqzWFTBV6jgSAOtxTz"
+        },
+        {
+          "name": "Johnny Moeller",
+          "url": "https://open.spotify.com/artist/565TA9CcZBr2UA6mWiL3qk"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166051,
+      "name": "Rise and Shine",
+      "url": "https://open.spotify.com/track/38alzjc0yDH7zKZd8Mo0QR"
+    },
+    {
+      "album": {
         "name": "Rise up Children",
         "url": "https://open.spotify.com/album/6brcnCzpCw27Aa9Uzoz5Pb"
       },
@@ -9011,6 +9063,24 @@
     },
     {
       "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/0HQDRy8vbeapUnpqSfbq9p"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254953,
+      "name": "Tangled",
+      "url": "https://open.spotify.com/track/4qZ9hEAVbeTAt3oNXDhs9O"
+    },
+    {
+      "album": {
         "name": "Tell Everybody",
         "url": "https://open.spotify.com/album/2RweVc8OqVklZTWuSORVeG"
       },
@@ -9190,6 +9260,28 @@
       "duration_ms": 316586,
       "name": "The Ballad of John Howard Griffin",
       "url": "https://open.spotify.com/track/5dR8qA9ivTvVb5ud0OMKDI"
+    },
+    {
+      "album": {
+        "name": "BLUES NOW",
+        "url": "https://open.spotify.com/album/192KqimgEdVHiTOJaTe7xr"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240790,
+      "name": "The Blues Never Die",
+      "url": "https://open.spotify.com/track/0IVr4RoSe24waqMMpDYxE2"
     },
     {
       "album": {
@@ -10598,6 +10690,24 @@
       "duration_ms": 251346,
       "name": "When Love Comes To Town",
       "url": "https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S"
+    },
+    {
+      "album": {
+        "name": "Grits & Glory",
+        "url": "https://open.spotify.com/album/1jQbijOk9xDeZvAhcUFon1"
+      },
+      "artists": [
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213861,
+      "name": "When The Coin Came Callin'",
+      "url": "https://open.spotify.com/track/3hyTIlz6yEKm4JJhlBxoGW"
     },
     {
       "album": {

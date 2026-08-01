@@ -2,9 +2,9 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Masego and music for your soul.
+> THEHONESTGUY and music for your soul.
 
-1,800 songs - 4 day 9 hr 31 min
+1,804 songs - 4 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [EEK](https://open.spotify.com/track/3ixoDRreLMvvTeYdUFenSS) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [EEK](https://open.spotify.com/album/67bRgIiwQuB08M1S0qGYXg) | 4:07 | 2022-04-15 | 2023-05-07 |
 | [Ego Slide](https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Ego Slide](https://open.spotify.com/album/6bnnmDt6VHzchZJ8Qjeutk) | 3:38 | 2024-06-21 | 2024-10-26 |
 | [Eiderdown](https://open.spotify.com/track/2Qa4HnGfslqN5dGwVj6C05) | [Royce Wood Junior](https://open.spotify.com/artist/681N6DCEDKu6miVIUE4MrT) | [Eiderdown / Penarth St.](https://open.spotify.com/album/2EoyIfQtfehEaVyTdYvjj5) | 3:57 | 2021-09-02 | 2022-06-05 |
+| [Eja Meja](https://open.spotify.com/track/5Ca1fyuX04EKHCc8Cnb791) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Eja Meja](https://open.spotify.com/album/7BSNh9DOcw3giOwnBAv3qA) | 2:38 | 2026-07-31 |  |
 | [El Día Más Triste](https://open.spotify.com/track/1WWwgzUIHwxP2R0PmpMUuL) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [El Día Más Triste](https://open.spotify.com/album/2V7mY5tOEcPiaWXULQDlTp) | 3:24 | 2025-02-07 | 2025-05-10 |
 | [Electric Swing](https://open.spotify.com/track/2sKks0a6CKJlf42gka9RKM) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Electric Swing](https://open.spotify.com/album/3tl1uSDVUJLs2CVjyvJzVB) | 2:19 | 2020-10-02 | 2020-12-04 |
 | [Eleven](https://open.spotify.com/track/54SNvoH7n5z3A0GBgJbxbP) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Eleven](https://open.spotify.com/album/6UB0spDMUxY03DxovdUtvA) | 3:29 | 2026-07-03 |  |
@@ -736,6 +737,7 @@
 | [Home \- Village Live](https://open.spotify.com/track/2bkr9TrBPb1p7tPthY63v2) | [Benaddict](https://open.spotify.com/artist/5M6qbbc9HZTTTE6XnpX8kH), [Slim.](https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH), [Ella Mae Sueref](https://open.spotify.com/artist/0RdzlWxR7A29IhIm6t0VZ4) | [Home \(Village Live\)](https://open.spotify.com/album/4w1tDubTtzgRcQKf9vSGCT) | 4:29 | 2020-12-22 | 2022-05-08 |
 | [Home Time](https://open.spotify.com/track/0xWTLjxRdB1Gzi1Fz3206A) | [The Colours That Rise](https://open.spotify.com/artist/3DQd0TSC3qhevX7nb00xCV) | [Home Time](https://open.spotify.com/album/4PASFTRAu3E1tRGMRW8X2m) | 4:00 | 2019-12-06 | 2020-01-11 |
 | [Homespun](https://open.spotify.com/track/0NmtuRJJAVhAN2w637Brpt) | [Glenn Astro](https://open.spotify.com/artist/6NjPS5yGVTioKlN7NsA6Is), [Ajnascent](https://open.spotify.com/artist/2f1VWkEx9QnpNefXzl9f8H) | [Homespun](https://open.spotify.com/album/0v9hrKG8Ez0v1Nv6ETcwYF) | 3:49 | 2020-09-29 | 2022-07-29 |
+| [HONEYBUTTER](https://open.spotify.com/track/3wXnSQo1tiVjFo8iul55pU) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [LVRS PARADISE \(SIDE B\)](https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G) | 3:46 | 2026-07-31 |  |
 | [HONEYSUCKLE NECKBONE](https://open.spotify.com/track/42XjSu5mDdsCS5QKf4GKev) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [HONEYSUCKLE NECKBONE](https://open.spotify.com/album/7IyhQLXLMdsYr62RuSpt12) | 3:20 | 2023-03-17 | 2023-06-10 |
 | [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 | 2021-01-31 | 2023-06-25 |
 | [Hope So](https://open.spotify.com/track/3JSqJB5dSm7cUHwXyYTTVC) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [Hope So](https://open.spotify.com/album/342PLIViQ9Sx89hz94e6pw) | 3:43 | 2020-06-16 | 2020-09-02 |
@@ -903,6 +905,7 @@
 | [Let It Ride \(with Robert Glasper\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/1Aflfm3OTl13XvFjvclJtR) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Let It Ride \(with Robert Glasper\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/4C3DMnehzEcys0OYqOuH1G) | 5:55 | 2023-04-14 | 2023-06-25 |
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-26 | 2024-06-29 |
 | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV) | 2:42 | 2024-02-16 | 2024-06-01 |
+| [LET ME GO](https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [DON'T DISTURB THE GROOVE: AFROSOUL](https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5) | 3:18 | 2026-07-31 |  |
 | [Let Me See Your Phone](https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Let Me See Your Phone](https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4) | 3:22 | 2022-09-30 | 2022-11-12 |
 | [Let This Go](https://open.spotify.com/track/5AvT8QuysDMHiqKD9lDulK) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Let This Go](https://open.spotify.com/album/4JtkxBWC37gnLUi1oWid1V) | 2:57 | 2023-10-27 | 2024-07-19 |
 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-04-14 | 2024-11-09 |
@@ -1159,6 +1162,7 @@
 | [On Repeat](https://open.spotify.com/track/3HXdqRgJq1PxhPyERUPx1d) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Ceeopatra](https://open.spotify.com/artist/02XqprFjC8W9C6ie3v947A) | [Osiris EP](https://open.spotify.com/album/6yRrlH2Lw1Zlu0hxd6vq7n) | 3:01 | 2021-09-09 | 2022-05-10 |
 | [on the pisces moon](https://open.spotify.com/track/7Kuo76MyWTcnRlw0wbvAAQ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [on the pisces moon](https://open.spotify.com/album/6j8xtmODCWGglY03htjnDU) | 2:46 | 2023-03-10 | 2023-05-06 |
 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 | 2024-11-22 | 2025-01-18 |
+| [One and the Same](https://open.spotify.com/track/6OKtJlCD9Ox6BiXN0xaMfY) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [One and the Same](https://open.spotify.com/album/6RvgpXA6LKZoToLxrlTylh) | 3:43 | 2026-07-31 |  |
 | [One Call Away](https://open.spotify.com/track/6lSmgxbGLHtzc78NTQzMPO) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [One Call Away](https://open.spotify.com/album/0TpSAuRl8gSYq8ufZFhIwK) | 1:47 | 2025-04-04 | 2025-07-26 |
 | [One Gripe](https://open.spotify.com/track/2Xml90DLbRQ5UI2gUfjAAA) | [Yves Jarvis](https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt) | [All Cylinders](https://open.spotify.com/album/1jooROM5diSNAfEwESyDDH) | 2:29 | 2025-02-28 | 2025-03-22 |
 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 | 2024-03-15 | 2024-11-09 |

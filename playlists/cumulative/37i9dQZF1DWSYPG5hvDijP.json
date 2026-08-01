@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Naya Hip-Hop Hindi! Cover: MC R1",
+  "description": "Naya Hip-Hop Hindi! Cover: Wicked Sunny",
   "name": "New Rap Hindi",
   "tracks": [
     {
@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 165606,
       "name": "Aura",
       "url": "https://open.spotify.com/track/2iIq6Q97X7kAiVEkeATTDJ"
@@ -5800,6 +5800,24 @@
       "duration_ms": 131383,
       "name": "Big Drama",
       "url": "https://open.spotify.com/track/61myCTj4EotDnPabirLGtW"
+    },
+    {
+      "album": {
+        "name": "Big K",
+        "url": "https://open.spotify.com/album/2BsTIof41i4s9jLFzTLnru"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Big K",
+      "url": "https://open.spotify.com/track/4m6FTkXBpE5nsgdKBr7Oei"
     },
     {
       "album": {
@@ -9938,7 +9956,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 117391,
       "name": "Dawgs",
       "url": "https://open.spotify.com/track/4xnN6aEBN216pPFh7wreBn"
@@ -12568,6 +12586,24 @@
       "duration_ms": 141714,
       "name": "Facebook",
       "url": "https://open.spotify.com/track/7ykRtD0R1PSvHlXxLIUHSC"
+    },
+    {
+      "album": {
+        "name": "FACHADI",
+        "url": "https://open.spotify.com/album/0EgDWdzul08tOPXIalY060"
+      },
+      "artists": [
+        {
+          "name": "YUNG DSA",
+          "url": "https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201280,
+      "name": "FACHADI",
+      "url": "https://open.spotify.com/track/4Ixg5F2QXudeV0axwIuQgj"
     },
     {
       "album": {
@@ -20488,7 +20524,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 152000,
       "name": "khudnagri",
       "url": "https://open.spotify.com/track/6DwSdaEpXGTTPAnnm5yDw4"
@@ -29976,7 +30012,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 71111,
       "name": "RANDOM (INTRO)",
       "url": "https://open.spotify.com/track/054e91zD8RIaYX5kWFpxWf"
@@ -34519,6 +34555,28 @@
     },
     {
       "album": {
+        "name": "TAX",
+        "url": "https://open.spotify.com/album/6GVbLAebCu28akVbn0pa9A"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "aywy",
+          "url": "https://open.spotify.com/artist/6r38VaW3wElzmIlJ69Cz2L"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "TAX",
+      "url": "https://open.spotify.com/track/6aaeNPz3nlLVbJBg75aVls"
+    },
+    {
+      "album": {
         "name": "Teen Tigaada Kaam Bigaada",
         "url": "https://open.spotify.com/album/18IwDDvyVZ2QYbTOzq6kUx"
       },
@@ -36384,6 +36442,28 @@
       "duration_ms": 144000,
       "name": "Udate Hai",
       "url": "https://open.spotify.com/track/3oWmAfsaBdTdnuI2pH8snX"
+    },
+    {
+      "album": {
+        "name": "Udta Teer",
+        "url": "https://open.spotify.com/album/3qAWj5Of2pDJy7iTfsL8dF"
+      },
+      "artists": [
+        {
+          "name": "Wicked Sunny",
+          "url": "https://open.spotify.com/artist/3jOWtMZBEsXsCFp4SuzlQa"
+        },
+        {
+          "name": "Cyril Gabriel",
+          "url": "https://open.spotify.com/artist/2netGerqSenOlPiDpObZum"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173854,
+      "name": "Udta Teer",
+      "url": "https://open.spotify.com/track/5cS97WF3rABzd60m48QKiJ"
     },
     {
       "album": {

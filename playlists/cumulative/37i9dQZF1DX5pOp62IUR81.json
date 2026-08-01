@@ -4053,6 +4053,28 @@
     },
     {
       "album": {
+        "name": "Marvel Strings",
+        "url": "https://open.spotify.com/album/7JqVHc7SMnfNzR6qXqBbQR"
+      },
+      "artists": [
+        {
+          "name": "Orchid Quartet",
+          "url": "https://open.spotify.com/artist/5Zh8DIcOPVxz6ix1uMjLgh"
+        },
+        {
+          "name": "Disney Peaceful Strings",
+          "url": "https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201278,
+      "name": "The Fantastic Four: First Steps Main Theme - From \"The Fantastic Four: First Steps\"",
+      "url": "https://open.spotify.com/track/5pj3uTYB18t1xVOkrFm13I"
+    },
+    {
+      "album": {
         "name": "The Fantastic Four: First Steps (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB"
       },

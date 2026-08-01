@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 8607,
+  "num_followers": 8609,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAGLTLlXE5VxJsWx2TUUopBFs1pQ9WW",
+  "snapshot_id": "AAAGLruiR4X7hhJKOmrv2Dkag2BjV9Ek",
   "tracks": [
     {
       "added_at": "2025-02-09 18:37:35",
@@ -271,6 +271,22 @@
       "duration_ms": 171914,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/2sdG8ZtBKElSwKyy93r6q3"
+    },
+    {
+      "added_at": "2026-07-31 18:41:53",
+      "album": {
+        "name": "Dancing Queen",
+        "url": "https://open.spotify.com/album/5EDuXoOyyDdDjD02nKLhI5"
+      },
+      "artists": [
+        {
+          "name": "Emily Linge",
+          "url": "https://open.spotify.com/artist/1oHuewfSrJgCviOzYBcr5A"
+        }
+      ],
+      "duration_ms": 210868,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6sgWYPkUO7WUg1Q4B2apJh"
     },
     {
       "added_at": "2026-05-01 18:17:31",

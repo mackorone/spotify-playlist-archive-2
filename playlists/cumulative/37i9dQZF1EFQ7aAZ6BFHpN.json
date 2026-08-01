@@ -718,6 +718,32 @@
     {
       "album": {
         "name": "Gershwin: Rhapsody in Blue, Strike Up the Band Overture, Promenade & Catfish Row",
+        "url": "https://open.spotify.com/album/3owlNK1vsCil0p3D94jT6n"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412575,
+      "name": "Catfish Row (Arr. S. Bowen for Orchestra): I. Catfish Row",
+      "url": "https://open.spotify.com/track/1Fe9DX4qKX7Tmgf9hvjfiK"
+    },
+    {
+      "album": {
+        "name": "Gershwin: Rhapsody in Blue, Strike Up the Band Overture, Promenade & Catfish Row",
         "url": "https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V"
       },
       "artists": [
@@ -2386,32 +2412,6 @@
       "duration_ms": 222693,
       "name": "I've Got Beginner's Luck",
       "url": "https://open.spotify.com/track/3MMRJk3OyIvwnSiNsqjX0D"
-    },
-    {
-      "album": {
-        "name": "Gershwin: Rhapsody in Blue, Strike Up the Band Overture, Promenade & Catfish Row",
-        "url": "https://open.spotify.com/album/3owlNK1vsCil0p3D94jT6n"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
-        }
-      ],
-      "date_added": "2026-05-23",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 412575,
-      "name": "I. Catfish Row",
-      "url": "https://open.spotify.com/track/1Fe9DX4qKX7Tmgf9hvjfiK"
     },
     {
       "album": {
@@ -4417,6 +4417,40 @@
     },
     {
       "album": {
+        "name": "Gershwin: Porgy and Bess",
+        "url": "https://open.spotify.com/album/6AT9jv8QRNojo7DTlXzH1b"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Cynthia Clarey",
+          "url": "https://open.spotify.com/artist/0IfgyayIScGF2TfvuIWJXm"
+        },
+        {
+          "name": "Dallas Symphony Chorus",
+          "url": "https://open.spotify.com/artist/3E1E0IFBwcrTNi2p9RvNJD"
+        },
+        {
+          "name": "Dallas Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/30ywQdA4ElkX92wuEe9YdP"
+        },
+        {
+          "name": "Andrew Litton",
+          "url": "https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn"
+        }
+      ],
+      "date_added": "2026-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83306,
+      "name": "Porgy and Bess, Act II Scene 2: Shame on All You Sinners",
+      "url": "https://open.spotify.com/track/53UL3TbXHHirvhVIxOrZm6"
+    },
+    {
+      "album": {
         "name": "Grof\u00e9: Grand Canyon Suite/Gershwin: Porgy & Bess",
         "url": "https://open.spotify.com/album/0DVAMwBCbYJbKqq6cB1BSF"
       },
@@ -4932,40 +4966,6 @@
       "duration_ms": 83306,
       "name": "Shame on All You Sinners",
       "url": "https://open.spotify.com/track/2A21M2DboDZusztlFkRHfR"
-    },
-    {
-      "album": {
-        "name": "Gershwin: Porgy and Bess",
-        "url": "https://open.spotify.com/album/6AT9jv8QRNojo7DTlXzH1b"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Cynthia Clarey",
-          "url": "https://open.spotify.com/artist/0IfgyayIScGF2TfvuIWJXm"
-        },
-        {
-          "name": "Dallas Symphony Chorus",
-          "url": "https://open.spotify.com/artist/3E1E0IFBwcrTNi2p9RvNJD"
-        },
-        {
-          "name": "Dallas Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/30ywQdA4ElkX92wuEe9YdP"
-        },
-        {
-          "name": "Andrew Litton",
-          "url": "https://open.spotify.com/artist/6YVQX2N8puDVWKE1StJVqn"
-        }
-      ],
-      "date_added": "2026-05-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 83306,
-      "name": "Shame on All You Sinners",
-      "url": "https://open.spotify.com/track/53UL3TbXHHirvhVIxOrZm6"
     },
     {
       "album": {

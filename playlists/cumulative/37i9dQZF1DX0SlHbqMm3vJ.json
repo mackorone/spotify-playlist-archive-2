@@ -2869,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Yor\u00f9b\u00e1 Healer",
+        "url": "https://open.spotify.com/album/2i4Gl65RxmLi6gh4zDSpor"
+      },
+      "artists": [
+        {
+          "name": "Moelogo",
+          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248501,
+      "name": "Broke and Mighty",
+      "url": "https://open.spotify.com/track/54mMjAGPplZ1ypbw3lNnnF"
+    },
+    {
+      "album": {
         "name": "Broken Souls",
         "url": "https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp"
       },
@@ -18688,24 +18706,6 @@
       "duration_ms": 135157,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/09YR7RkTuIjWl6vKwFGTe5"
-    },
-    {
-      "album": {
-        "name": "Yor\u00f9b\u00e1 Healer",
-        "url": "https://open.spotify.com/album/2i4Gl65RxmLi6gh4zDSpor"
-      },
-      "artists": [
-        {
-          "name": "Moelogo",
-          "url": "https://open.spotify.com/artist/6mctsJBrfcWvWH7S8h716D"
-        }
-      ],
-      "date_added": "2026-07-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/54mMjAGPplZ1ypbw3lNnnF"
     },
     {
       "album": {

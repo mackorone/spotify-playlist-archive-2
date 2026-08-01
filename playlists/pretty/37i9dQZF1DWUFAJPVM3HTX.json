@@ -1,13 +1,29 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO?si=608b4d7e29df4a3c\">JEDSOUL</a>. Updates every Wednesday.",
-  "num_followers": 288406,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ?si=eecfd04e89de4853\">Elliott Skinner</a>. Updates every Wednesday.",
+  "num_followers": 288462,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMPp1Mtd+0qjkvIkFl5SS0uz3ELs",
+  "snapshot_id": "AAAAABGWbBeIi8dyvtEy/OdCmLTwdsta",
   "tracks": [
+    {
+      "added_at": "2026-07-31 15:41:30",
+      "album": {
+        "name": "DON\u2019T BE A RUNNER",
+        "url": "https://open.spotify.com/album/6lFWUBlYLjHZgIXel23uvY"
+      },
+      "artists": [
+        {
+          "name": "Elliott Skinner",
+          "url": "https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ"
+        }
+      ],
+      "duration_ms": 194278,
+      "name": "DON\u2019T BE A RUNNER",
+      "url": "https://open.spotify.com/track/4W06fO3VNt29T29X8XLqga"
+    },
     {
       "added_at": "2026-07-24 18:18:58",
       "album": {
@@ -25,20 +41,20 @@
       "url": "https://open.spotify.com/track/7uhdZBj0BNNai1J28n0NuR"
     },
     {
-      "added_at": "2026-07-10 20:08:40",
+      "added_at": "2026-07-31 15:41:30",
       "album": {
-        "name": "Let Me Love U Better",
-        "url": "https://open.spotify.com/album/2Xwv0pkwtGo3KaYeGq4NZx"
+        "name": "Wishy Washy",
+        "url": "https://open.spotify.com/album/4VHikGAgExqBMJeOmJbwTI"
       },
       "artists": [
         {
-          "name": "Ezra",
-          "url": "https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN"
+          "name": "V. Cartier",
+          "url": "https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop"
         }
       ],
-      "duration_ms": 196672,
-      "name": "Let Me Love U Better",
-      "url": "https://open.spotify.com/track/4Qlx8CG6EeICnlpCvFLeXY"
+      "duration_ms": 120285,
+      "name": "Wishy Washy",
+      "url": "https://open.spotify.com/track/6DGJAPJmqDCVFvc4wLtz17"
     },
     {
       "added_at": "2026-07-24 18:18:58",
@@ -57,6 +73,58 @@
       "url": "https://open.spotify.com/track/5BDoP0N9ebmk8JoRHyzKKF"
     },
     {
+      "added_at": "2026-07-31 15:41:30",
+      "album": {
+        "name": "BackRoom",
+        "url": "https://open.spotify.com/album/6rrTsaCzkNdvgJLUVcMqo3"
+      },
+      "artists": [
+        {
+          "name": "JeRonelle",
+          "url": "https://open.spotify.com/artist/4zhiJYdxOO4c9ygljrq0DZ"
+        },
+        {
+          "name": "Sevndeep",
+          "url": "https://open.spotify.com/artist/2OEgfLq3e6ZmpKnb6O6Y7V"
+        }
+      ],
+      "duration_ms": 194052,
+      "name": "BackRoom",
+      "url": "https://open.spotify.com/track/2ncpxBg3WVw5vn9Y4v6FqP"
+    },
+    {
+      "added_at": "2026-07-10 20:08:40",
+      "album": {
+        "name": "Let Me Love U Better",
+        "url": "https://open.spotify.com/album/2Xwv0pkwtGo3KaYeGq4NZx"
+      },
+      "artists": [
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN"
+        }
+      ],
+      "duration_ms": 196672,
+      "name": "Let Me Love U Better",
+      "url": "https://open.spotify.com/track/4Qlx8CG6EeICnlpCvFLeXY"
+    },
+    {
+      "added_at": "2026-07-31 15:41:30",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa"
+      },
+      "artists": [
+        {
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc"
+    },
+    {
       "added_at": "2026-07-10 20:08:40",
       "album": {
         "name": "what u want",
@@ -71,6 +139,22 @@
       "duration_ms": 165652,
       "name": "what u want",
       "url": "https://open.spotify.com/track/68icwERFCZaV107eHjqt77"
+    },
+    {
+      "added_at": "2026-07-31 15:41:30",
+      "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/2WfRCjRTBDD7MxWcTsah94"
+      },
+      "artists": [
+        {
+          "name": "ZURI",
+          "url": "https://open.spotify.com/artist/3BK5gMsNlUDLm3wgwT0DUF"
+        }
+      ],
+      "duration_ms": 259170,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/0kKeNpTaJSBU15ttdXLAif"
     },
     {
       "added_at": "2026-07-24 18:18:58",
@@ -89,6 +173,22 @@
       "url": "https://open.spotify.com/track/28fPjkRsnNktx2qbJxkLPe"
     },
     {
+      "added_at": "2026-07-31 15:41:30",
+      "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/5PwchWmsoHLIgvbgCQ1rwv"
+      },
+      "artists": [
+        {
+          "name": "ROME",
+          "url": "https://open.spotify.com/artist/4hrz9OhxBfTmyNTZmqxm2q"
+        }
+      ],
+      "duration_ms": 161254,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/16usyTcUKnWBduD3R2PPlG"
+    },
+    {
       "added_at": "2026-07-10 20:08:40",
       "album": {
         "name": "Dare You/N2S",
@@ -105,20 +205,20 @@
       "url": "https://open.spotify.com/track/1lGlrfpVqRoSRhHaq9V3sn"
     },
     {
-      "added_at": "2026-07-24 18:18:58",
+      "added_at": "2026-07-31 15:41:30",
       "album": {
-        "name": "COMMUNICATION",
-        "url": "https://open.spotify.com/album/3a25myZiwOQD2QsWJvbMni"
+        "name": "Gone Girl",
+        "url": "https://open.spotify.com/album/2roFRH4223LhDkPWlOUtxC"
       },
       "artists": [
         {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+          "name": "Jordyn Simone",
+          "url": "https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb"
         }
       ],
-      "duration_ms": 177902,
-      "name": "COMMUNICATION",
-      "url": "https://open.spotify.com/track/61A4BwzpEF02PBNJN5pA2a"
+      "duration_ms": 148318,
+      "name": "Gone Girl",
+      "url": "https://open.spotify.com/track/6VGXSTtRZGOf5TIwidRnft"
     },
     {
       "added_at": "2026-06-17 18:03:14",
@@ -137,6 +237,54 @@
       "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
     },
     {
+      "added_at": "2026-07-31 15:41:30",
+      "album": {
+        "name": "Same Call",
+        "url": "https://open.spotify.com/album/6Tcm4oDz0vowgKlHfwZL6A"
+      },
+      "artists": [
+        {
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
+        }
+      ],
+      "duration_ms": 140970,
+      "name": "Same Call",
+      "url": "https://open.spotify.com/track/0wWxg4mPyjBEyPzmFOfNuW"
+    },
+    {
+      "added_at": "2026-07-24 18:18:58",
+      "album": {
+        "name": "COMMUNICATION",
+        "url": "https://open.spotify.com/album/3a25myZiwOQD2QsWJvbMni"
+      },
+      "artists": [
+        {
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+        }
+      ],
+      "duration_ms": 177902,
+      "name": "COMMUNICATION",
+      "url": "https://open.spotify.com/track/61A4BwzpEF02PBNJN5pA2a"
+    },
+    {
+      "added_at": "2026-07-31 15:41:30",
+      "album": {
+        "name": "Will U Stay?",
+        "url": "https://open.spotify.com/album/1qjRyAa2lrnTy6yuvaObWT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Earth",
+          "url": "https://open.spotify.com/artist/2oFkvZLEnTdEeGlkwT4aC8"
+        }
+      ],
+      "duration_ms": 246610,
+      "name": "Will U Stay?",
+      "url": "https://open.spotify.com/track/375tB7HBafQWGn6wB1KhXV"
+    },
+    {
       "added_at": "2026-07-10 20:08:40",
       "album": {
         "name": "'Til We Meet Again",
@@ -153,20 +301,24 @@
       "url": "https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL"
     },
     {
-      "added_at": "2026-07-24 18:18:58",
+      "added_at": "2026-07-31 15:41:30",
       "album": {
-        "name": "could it be love",
-        "url": "https://open.spotify.com/album/0JSVXcSdWayVI2iZ2M2RBB"
+        "name": "IN-HINDSIGHT",
+        "url": "https://open.spotify.com/album/2NZbArsHMQk3iDMorShNOp"
       },
       "artists": [
         {
-          "name": "threetwenty",
-          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        },
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
         }
       ],
-      "duration_ms": 278640,
-      "name": "could it be love",
-      "url": "https://open.spotify.com/track/6dlariohKh4NweeHkENvOF"
+      "duration_ms": 164211,
+      "name": "DEEP SH*T (feat. Azekel)",
+      "url": "https://open.spotify.com/track/6vU5KOLO6IPnwexe8VM2NB"
     },
     {
       "added_at": "2026-07-10 20:08:40",
@@ -185,6 +337,54 @@
       "url": "https://open.spotify.com/track/03eOL1S2H6o6gG71XiY0us"
     },
     {
+      "added_at": "2026-07-31 15:41:30",
+      "album": {
+        "name": "Leila",
+        "url": "https://open.spotify.com/album/67mq6sEbC07yaHwBROT0Nu"
+      },
+      "artists": [
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "duration_ms": 184137,
+      "name": "Leila",
+      "url": "https://open.spotify.com/track/0ftDY0RdXs6vOm09xHdM4B"
+    },
+    {
+      "added_at": "2026-07-24 18:18:58",
+      "album": {
+        "name": "could it be love",
+        "url": "https://open.spotify.com/album/0JSVXcSdWayVI2iZ2M2RBB"
+      },
+      "artists": [
+        {
+          "name": "threetwenty",
+          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "could it be love",
+      "url": "https://open.spotify.com/track/6dlariohKh4NweeHkENvOF"
+    },
+    {
+      "added_at": "2026-07-31 15:41:30",
+      "album": {
+        "name": "free love",
+        "url": "https://open.spotify.com/album/0H3ZIae79VKIZLpIapazZ5"
+      },
+      "artists": [
+        {
+          "name": "Earl Hondo",
+          "url": "https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x"
+        }
+      ],
+      "duration_ms": 144135,
+      "name": "free love",
+      "url": "https://open.spotify.com/track/1JLm2dOwysvL7pY7jpzEUI"
+    },
+    {
       "added_at": "2026-07-10 20:08:40",
       "album": {
         "name": "The Interim Vol. 1",
@@ -199,6 +399,30 @@
       "duration_ms": 162000,
       "name": "Hide & Seek",
       "url": "https://open.spotify.com/track/7uKoJBYPqduAuuxmduQYse"
+    },
+    {
+      "added_at": "2026-07-31 15:41:30",
+      "album": {
+        "name": "LOOK TO THE SKY / SHE F*CK WITH THE RACKS",
+        "url": "https://open.spotify.com/album/1XDfpPQrIGJGdkLotrAAkP"
+      },
+      "artists": [
+        {
+          "name": "Zacchae'us Paul",
+          "url": "https://open.spotify.com/artist/3e5fsYSPPEO2y39aXtQ2UU"
+        },
+        {
+          "name": "Eric Wyatt",
+          "url": "https://open.spotify.com/artist/4OS3gKhTZvKoRX5a7SnebC"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "duration_ms": 409266,
+      "name": "LOOK TO THE SKY",
+      "url": "https://open.spotify.com/track/6lO4BKY8pn5T6uvlaqjUB3"
     },
     {
       "added_at": "2026-07-24 18:18:58",
@@ -219,6 +443,22 @@
       "duration_ms": 234936,
       "name": "Girls Girl",
       "url": "https://open.spotify.com/track/4GZyI66owgPoIaCYpCh65j"
+    },
+    {
+      "added_at": "2026-07-31 15:41:30",
+      "album": {
+        "name": "My Collection of Boy Tears",
+        "url": "https://open.spotify.com/album/5qGdGK7S9IZ1vmRFxx0F3w"
+      },
+      "artists": [
+        {
+          "name": "Rakiyah",
+          "url": "https://open.spotify.com/artist/3EaMWS6JZsJwBICEFUsWPR"
+        }
+      ],
+      "duration_ms": 170707,
+      "name": "Mathematics",
+      "url": "https://open.spotify.com/track/4gV0G35GRSL6FqEE1pJhHk"
     },
     {
       "added_at": "2026-07-24 18:18:58",
@@ -2011,22 +2251,6 @@
     {
       "added_at": "2026-05-01 05:51:23",
       "album": {
-        "name": "At Least She's Beautiful",
-        "url": "https://open.spotify.com/album/3kTzp0zFyAUnm2YP2YxHpL"
-      },
-      "artists": [
-        {
-          "name": "rjtheweirdo",
-          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "Catchabody",
-      "url": "https://open.spotify.com/track/16vGnsL61LARux3T9hqBjJ"
-    },
-    {
-      "added_at": "2026-05-01 05:51:23",
-      "album": {
         "name": "RERUN",
         "url": "https://open.spotify.com/album/6gKn5nH8qm3hXkLtEkcK8M"
       },
@@ -2139,22 +2363,6 @@
     {
       "added_at": "2026-04-01 16:33:50",
       "album": {
-        "name": "such is life",
-        "url": "https://open.spotify.com/album/5OsGDMlr3xM2QazyJwf28g"
-      },
-      "artists": [
-        {
-          "name": "threetwenty",
-          "url": "https://open.spotify.com/artist/5DP3h81xD3klfn0M47GZlK"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "such is life",
-      "url": "https://open.spotify.com/track/0r1ZMarGBmhz5e0vAdiC76"
-    },
-    {
-      "added_at": "2026-04-01 16:33:50",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/1pCIxT6kFPA4194izSpd8v"
       },
@@ -2191,22 +2399,6 @@
     {
       "added_at": "2026-03-13 08:53:39",
       "album": {
-        "name": "Love Games",
-        "url": "https://open.spotify.com/album/3EW9montqzJB3SE77Btgtc"
-      },
-      "artists": [
-        {
-          "name": "Larrenwong",
-          "url": "https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz"
-        }
-      ],
-      "duration_ms": 148815,
-      "name": "580",
-      "url": "https://open.spotify.com/track/5c6UnUvN5JUaCQRPxweoDS"
-    },
-    {
-      "added_at": "2026-03-13 08:53:39",
-      "album": {
         "name": "Your Loss",
         "url": "https://open.spotify.com/album/17mADs2eZlI3km58xIvyN0"
       },
@@ -2235,22 +2427,6 @@
       "duration_ms": 142229,
       "name": "F.O.O.L",
       "url": "https://open.spotify.com/track/4nphN02N23z4bYvDlLbAYC"
-    },
-    {
-      "added_at": "2026-03-13 08:53:39",
-      "album": {
-        "name": "Two Fish",
-        "url": "https://open.spotify.com/album/1Zz40dqmQDTRogVfSsaYFe"
-      },
-      "artists": [
-        {
-          "name": "Tahj",
-          "url": "https://open.spotify.com/artist/5Ow4JHoS15EbnsVxDiHIlx"
-        }
-      ],
-      "duration_ms": 195912,
-      "name": "Two Fish",
-      "url": "https://open.spotify.com/track/0bN8koQfz9KvECmWXXlVXv"
     },
     {
       "added_at": "2026-02-14 02:28:24",
@@ -2299,22 +2475,6 @@
       "duration_ms": 196363,
       "name": "What Does Your Heart Say?",
       "url": "https://open.spotify.com/track/1HweujonOvuWBoA1GxBNut"
-    },
-    {
-      "added_at": "2026-02-06 21:04:31",
-      "album": {
-        "name": "Who's Better",
-        "url": "https://open.spotify.com/album/2PDJMT4zMjb9moVkEa2OM1"
-      },
-      "artists": [
-        {
-          "name": "Sofia Ly",
-          "url": "https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4"
-        }
-      ],
-      "duration_ms": 174757,
-      "name": "Who\u2019s Better",
-      "url": "https://open.spotify.com/track/5FglEiOylocEJQVAS7IAGx"
     },
     {
       "added_at": "2026-01-23 07:24:53",

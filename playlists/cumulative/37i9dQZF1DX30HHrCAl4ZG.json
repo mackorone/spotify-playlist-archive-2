@@ -6487,6 +6487,24 @@
     },
     {
       "album": {
+        "name": "Canopy & Shades Of Green",
+        "url": "https://open.spotify.com/album/06edgNjavwaBkVkBMEQkUR"
+      },
+      "artists": [
+        {
+          "name": "Winyah",
+          "url": "https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176888,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/5e9tqR7s11fwbPXJWyI4WC"
+    },
+    {
+      "album": {
         "name": "cant celebrate",
         "url": "https://open.spotify.com/album/7feZHa1JhU5fizfntgl46E"
       },
@@ -28308,7 +28326,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 200634,
       "name": "Rat Race",
       "url": "https://open.spotify.com/track/1zRFwxWzp8fb1c5S6vy0Wt"

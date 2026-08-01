@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With David Von Beahm, Motor Ballet, MIK's Reaction and more",
+  "description": "With David Von Beahm, MIK's Reaction, Motor Ballet and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "6 Foot Flea",
       "url": "https://open.spotify.com/track/0yP2Ek6XPKrMRLtCOguabq"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 202500,
       "name": "Admission",
       "url": "https://open.spotify.com/track/7r824lDKVerZuHncaoMRpo"
@@ -2270,7 +2270,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 278974,
       "name": "Breaking Walls",
       "url": "https://open.spotify.com/track/4kjTvHFOxe2Yn0gEENABVa"
@@ -4910,7 +4910,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 227746,
       "name": "Dying to Stay Young",
       "url": "https://open.spotify.com/track/4TwKZv8WEb5X4BeRHUjyyG"
@@ -6214,7 +6214,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 168882,
       "name": "Freaky Ho's",
       "url": "https://open.spotify.com/track/0ZNvLRHdoL8K1rCs2tmMWM"
@@ -8057,6 +8057,28 @@
     },
     {
       "album": {
+        "name": "Autocannibalism",
+        "url": "https://open.spotify.com/album/0MSj5UsTA8zqJCTvsXxOXq"
+      },
+      "artists": [
+        {
+          "name": "Ed Kuepper",
+          "url": "https://open.spotify.com/artist/4GMP7hq7VXDmFiQ3KgiNtY"
+        },
+        {
+          "name": "The Aints!",
+          "url": "https://open.spotify.com/artist/15L2koowqBgVKLa62EfeJH"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368191,
+      "name": "Ill Wind",
+      "url": "https://open.spotify.com/track/1bdy82eBtPFlemLx58kBUK"
+    },
+    {
+      "album": {
         "name": "Bridge To Resolution",
         "url": "https://open.spotify.com/album/2OSr27QfHJTFwmJVB2NI4G"
       },
@@ -8886,7 +8908,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 181500,
       "name": "Just a Bunch of Words",
       "url": "https://open.spotify.com/track/5xiDKWKTsqAkWk6em6iDQD"
@@ -10976,7 +10998,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 231765,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/6rP5tdDnSJE5bA5xJQyYeJ"
@@ -11338,7 +11360,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 270545,
       "name": "Noise in a Vacuum",
       "url": "https://open.spotify.com/track/1ksCDjk68HY25hpBa3tOab"
@@ -11530,6 +11552,24 @@
       "duration_ms": 173651,
       "name": "Obsessed",
       "url": "https://open.spotify.com/track/0IZoDrAaRaBqZWu8f7MVbb"
+    },
+    {
+      "album": {
+        "name": "The Venom In The Mouth Of God",
+        "url": "https://open.spotify.com/album/5ZWIhhYUmNm5voN3UvNc7W"
+      },
+      "artists": [
+        {
+          "name": "Combichrist",
+          "url": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286461,
+      "name": "ODR",
+      "url": "https://open.spotify.com/track/2H8j5avNwLUHG34jrUa5Ql"
     },
     {
       "album": {
@@ -12052,7 +12092,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 206380,
       "name": "Playing with the Orbits - Dead Radio Remix",
       "url": "https://open.spotify.com/track/6MSiyVPI36icyK2xzNuOco"
@@ -13742,7 +13782,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 146136,
       "name": "sharp knife!",
       "url": "https://open.spotify.com/track/5t5WtKIJrTUNQLdsjvqIEP"
@@ -14070,7 +14110,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 307500,
       "name": "Slave",
       "url": "https://open.spotify.com/track/5koPjIJhddd6omkAhnd4jq"
@@ -14756,7 +14796,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 608833,
       "name": "Star Scream",
       "url": "https://open.spotify.com/track/2RWEDjpidI5bdbYIVoP8Ag"
@@ -14850,7 +14890,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 202135,
       "name": "Steel Butterflies",
       "url": "https://open.spotify.com/track/48bvLtjiWAWwaKSHrC5NF2"
@@ -14962,6 +15002,24 @@
       "duration_ms": 236571,
       "name": "Stormy Eyes",
       "url": "https://open.spotify.com/track/5WptqC4TCA7O8fO1TIOQMp"
+    },
+    {
+      "album": {
+        "name": "Straight To Hell",
+        "url": "https://open.spotify.com/album/3IHyzEXhsKbU3Vy9n6a1Wj"
+      },
+      "artists": [
+        {
+          "name": "Mz Neon",
+          "url": "https://open.spotify.com/artist/1rabUd4M6hlJ0oR5QdMr9U"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "Straight To Hell",
+      "url": "https://open.spotify.com/track/09yNfvCsT8zKQmPPgHnRgF"
     },
     {
       "album": {
@@ -16036,7 +16094,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 199636,
       "name": "The Girl In Room 9",
       "url": "https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4"
@@ -16342,7 +16400,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 227779,
       "name": "The Rope",
       "url": "https://open.spotify.com/track/1qOmWviuwaL63qusP9ctX1"
@@ -17728,7 +17786,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 288000,
       "name": "Unhappy Days",
       "url": "https://open.spotify.com/track/2nMUFI5YXNLMRgbx276JOS"
@@ -19342,7 +19400,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 217667,
       "name": "Zwischen Dreck Und Licht",
       "url": "https://open.spotify.com/track/4B55PaipFFMirV00ewuTmE"

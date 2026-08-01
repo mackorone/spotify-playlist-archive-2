@@ -295,6 +295,24 @@
     },
     {
       "album": {
+        "name": "Music To Watch Seeds Grow By 009: Patricia Wolf (Yarrow)",
+        "url": "https://open.spotify.com/album/5xwNkg1elWmMgJlXQUQlQX"
+      },
+      "artists": [
+        {
+          "name": "Patricia Wolf",
+          "url": "https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411500,
+      "name": "Abiotic Factors",
+      "url": "https://open.spotify.com/track/67zoX3gvQ1NRMAh7gcYwAU"
+    },
+    {
+      "album": {
         "name": "SUNDAYS",
         "url": "https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K"
       },
@@ -1632,7 +1650,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 256000,
       "name": "Claro de Luna",
       "url": "https://open.spotify.com/track/7FIi8xh0J96N60yN1oE36r"
@@ -2794,6 +2812,32 @@
       "duration_ms": 235973,
       "name": "For Seconds at a Time",
       "url": "https://open.spotify.com/track/6dSo66w4jxsSL7d8bWHR33"
+    },
+    {
+      "album": {
+        "name": "For Shirasu",
+        "url": "https://open.spotify.com/album/3ZZ2XUCYf8pfH30e0noXHz"
+      },
+      "artists": [
+        {
+          "name": "Deniz Cuylan",
+          "url": "https://open.spotify.com/artist/7b9GgoTytN5lMnZoQFFuRY"
+        },
+        {
+          "name": "Makoto Kubota",
+          "url": "https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA"
+        },
+        {
+          "name": "Berke Can \u00d6zcan",
+          "url": "https://open.spotify.com/artist/21h6mhBcr0Ce9N8k8UIPgV"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230725,
+      "name": "For Shirasu",
+      "url": "https://open.spotify.com/track/4NImOsR3yHcNC3tnerX4Oh"
     },
     {
       "album": {
@@ -6068,7 +6112,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 259042,
       "name": "Pure",
       "url": "https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5"

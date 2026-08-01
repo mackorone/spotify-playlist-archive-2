@@ -4,7 +4,7 @@
 
 > 
 
-8,771 songs - 22 day 7 hr 39 min
+8,775 songs - 22 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1608,6 +1608,7 @@
 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 | 2025-01-15 |  |
 | [destiny](https://open.spotify.com/track/2LVEEbWnNKnnmCkc9yRwJc) | [TEAM B・A・K・A](https://open.spotify.com/artist/2SCVh3n48D3OBBYLor3HKZ) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 4:51 | 2026-07-06 |  |
 | [destiny \- inst.](https://open.spotify.com/track/6PGEBF1J8sArr5HdTxkM6n) | [TEAM B・A・K・A](https://open.spotify.com/artist/2SCVh3n48D3OBBYLor3HKZ) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 4:51 | 2026-07-06 |  |
+| [Destroy for Dasein](https://open.spotify.com/track/2KvTQFKGgnMwqJT3E5mhPl) | [タニノギムレット \(CV\. 松岡美里\)](https://open.spotify.com/artist/5y8hEKD7bCEYSrNpCmQj1o) | [『ウマ娘 プリティーダービー』WINNING LIVE 10](https://open.spotify.com/album/586dnckPDQPtNjX4vWHvjU) | 3:51 | 2026-07-31 |  |
 | [Determination Symphony](https://open.spotify.com/track/1srPZ3Bk542TtkCiGs01yw) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/2qtBhMhhcR4hO7JQOuyHI5) | 4:41 | 2025-09-08 |  |
 | [Dettol](https://open.spotify.com/track/59TZrF8sG3jiP3G80DBTRL) | [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [The Boys & Girls](https://open.spotify.com/album/0yuDKkogcktyNgOBlYsQHz) | 1:50 | 2024-12-14 |  |
 | [DEVASTATED](https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g) | 3:27 | 2025-01-03 |  |
@@ -3458,7 +3459,7 @@
 | [Jump Up, Super Star!](https://open.spotify.com/track/3CaTo1YUgxW3hweuRNr2CJ) | [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF) | [Jump Up, Super Star!](https://open.spotify.com/album/2e4UWTcdHE9slSZC4QGf53) | 4:15 | 2025-03-07 |  |
 | [Jumped Out the Window](https://open.spotify.com/track/0o7Zga5TFy35CcivyPDO5m) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:24 | 2025-01-15 |  |
 | [Jumper \- 1998 Edit](https://open.spotify.com/track/3354J49VpkbZJho7Ztdzpw) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:32 | 2025-01-15 |  |
-| [JUMPIN \(with Lil Uzi Vert\)](https://open.spotify.com/track/7oZOCPjlLpHZtIebTXhlfZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:32 | 2025-03-17 |  |
+| [JUMPIN \(with Lil Uzi Vert\)](https://open.spotify.com/track/7oZOCPjlLpHZtIebTXhlfZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:32 | 2025-03-17 | 2026-08-01 |
 | [JUMPIN IN](https://open.spotify.com/track/2GooPMd4ZjE79PJX1IRgRP) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [9](https://open.spotify.com/album/6j3Y7CxOySMhZQEQsWnzhL) | 2:43 | 2025-01-03 |  |
 | [Jumpin on a Jet](https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:17 | 2025-01-03 |  |
 | [Jumpman](https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:25 | 2025-01-03 |  |
@@ -4770,6 +4771,7 @@
 | [Old Devil Moon](https://open.spotify.com/track/593JQgGYODUwv0Es7H847C) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Old Devil Moon](https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW) | 2:54 | 2025-04-19 |  |
 | [Old Friend](https://open.spotify.com/track/6I38dm7ckNQnLHX4EUXKOb) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 1:19 | 2025-01-03 |  |
 | [Old Money](https://open.spotify.com/track/0syXbGoFZbTMXm8hGCEvW0) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 2:15 | 2025-01-15 |  |
+| [Old With You](https://open.spotify.com/track/2XPLk9RyWawxFmVDQsC0ke) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 3:26 | 2026-07-31 |  |
 | [Oldie](https://open.spotify.com/track/53dkS3h9uTNsWYZTPacnpx) | [Odd Future](https://open.spotify.com/artist/5xpkLC1MxiPRiIJUDEzuVm) | [The OF Tape Vol\. 2](https://open.spotify.com/album/7ibEo7IK9E9mi2sU5rJNDC) | 10:36 | 2025-01-04 | 2025-12-06 |
 | [Omae Wa Mou](https://open.spotify.com/track/2BgzdxU4uN5Ns8yM2rlLHa) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [Omae Wa Mou](https://open.spotify.com/album/0I7eyplxZyuNEg2haitWIf) | 1:53 | 2025-05-26 |  |
 | [OMENS OF LOVE](https://open.spotify.com/track/61uOcxMVmLtIB2Kla2AeX3) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [R・E・S・O・R・T](https://open.spotify.com/album/2Y4BfSutFsEOGvIzgEzd13) | 4:07 | 2025-01-20 |  |
@@ -6348,6 +6350,7 @@
 | [Tahiti](https://open.spotify.com/track/7AWRC3BDpUkmsoZHGwjhJR) | [Chill Aqua](https://open.spotify.com/artist/4sgWFzT0ptklnjTpTlQUk0) | [Tahiti](https://open.spotify.com/album/6GRIUlOjPzNxgL7H2fGVn7) | 3:31 | 2025-01-24 |  |
 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 | 2024-12-05 |  |
 | [Tailwhip \(Album V\)](https://open.spotify.com/track/3rRAR3YHRFShjEaHP0o9Xi) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Oncle Jazz](https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK) | 3:48 | 2025-01-04 |  |
+| [TAILWIND](https://open.spotify.com/track/2piPdZv1ywlaafsuof86SJ) | [マチカネタンホイザ \(CV\. 遠野ひかる\)](https://open.spotify.com/artist/7bKVAvNkJouXc3d2yiLVat) | [『ウマ娘 プリティーダービー』WINNING LIVE 13](https://open.spotify.com/album/3254gGtN9czQMevOm1q1RG) | 3:30 | 2026-07-31 |  |
 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 | 2025-01-15 |  |
 | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [TAKE A CHANCE \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm) | 4:24 | 2025-01-03 |  |
 | [Take A Slice](https://open.spotify.com/track/37adYGaYaAWTGhBaOzX4Fh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:49 | 2025-01-03 |  |
@@ -8035,6 +8038,7 @@
 | [僕と三原色](https://open.spotify.com/track/5C3AH2Pxm8r2wovLBFWHe7) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [Re:結束バンド](https://open.spotify.com/album/1Ih61VgOBKBuoGlYfDPq6h) | 3:39 | 2026-06-16 |  |
 | [僕のこと](https://open.spotify.com/track/0tnhoHUrHfcLi9hPknUFZ4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 5:21 | 2026-06-27 |  |
 | [僕は君の事が好きだけど君は僕を別に好きじゃないみたい](https://open.spotify.com/track/1WutVejYvP7220sofj3xId) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 4:46 | 2024-12-10 |  |
+| [僕らの帰り道](https://open.spotify.com/track/1op5wiTJuyQXYU3xmc6OrG) | [ダンツフレーム \(CV\. 福嶋晴菜\)](https://open.spotify.com/artist/5JDqHgIITBJLbfNvbWJRHb), [ケイエスミラクル \(CV\. 佐藤日向\)](https://open.spotify.com/artist/2yntrMiVb5bFnke8jd1riz), [ヒシミラクル \(CV\. 春日さくら\)](https://open.spotify.com/artist/3OqQEYJO94rZPvJ7TpQYvk), [カルストンライトオ \(CV\. 望月ゆみこ\)](https://open.spotify.com/artist/5EstzXGj9fUBKmtPjKmuLS), [デュランダル \(CV\. 野木 奏\)](https://open.spotify.com/artist/203s2JklHE6lXGNEzNXA9W) | [『ウマ娘 プリティーダービー』WINNING LIVE 30](https://open.spotify.com/album/3Ly9Gu65FalbKxABAnhzya) | 3:37 | 2026-07-31 |  |
 | [儚き春の一幕](https://open.spotify.com/track/6ecnv2jSOOKlxY6d9KqQuq) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:26 | 2025-01-03 |  |
 | [優しい風景\(2012 Version\)](https://open.spotify.com/track/0CDk8kdki47SW7TG2RMQzG) | [James Harris](https://open.spotify.com/artist/1ZBnCfsXaG6RXRbStIbRSt) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:23 | 2025-08-10 |  |
 | [優しさ](https://open.spotify.com/track/0f3Ce9xjHymExIpEyHUC8D) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 4:00 | 2025-01-03 |  |

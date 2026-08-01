@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Ibraah
+> Get your fill of vibes straight out of Tanzania\. Cover: Stans & Marioo
 
-706 songs - 1 day 16 hr 2 min
+709 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Falling](https://open.spotify.com/track/4OjohSrMjXzPwH64ICPsiB) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Falling](https://open.spotify.com/album/7uk0eVcrenwRaNqeT6Rf7p) | 2:59 | 2023-06-08 | 2024-02-02 |
 | [Falling](https://open.spotify.com/track/2hyUzNsKT454MY5Ro0nnD7) | [Narah Elba](https://open.spotify.com/artist/49xus9KjnESiLPl9EQuvU4) | [Falling](https://open.spotify.com/album/6gXbJ7vbb4mQWAqOjv6eon) | 2:39 | 2024-03-07 | 2024-03-22 |
 | [Far Away](https://open.spotify.com/track/57PEYoPJxjMy35SNHtvwmf) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Far Away](https://open.spotify.com/album/6IZQtDq5yQhutjBTIN3E15) | 3:02 | 2023-10-19 | 2023-12-08 |
-| [Fashion](https://open.spotify.com/track/4Tus2bGD2t9i3VhkqjE8qg) | [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [S2kizzy](https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc) | [Fashion](https://open.spotify.com/album/1u9i7ltdKntpGQf0Rq0bI1) | 4:19 | 2026-04-02 |  |
+| [Fashion](https://open.spotify.com/track/4Tus2bGD2t9i3VhkqjE8qg) | [Chino Kidd](https://open.spotify.com/artist/2EuodBUTVs5DBUkauhlsnm), [S2kizzy](https://open.spotify.com/artist/3qnWVd92pqdPqRk7GGnuMc) | [Fashion](https://open.spotify.com/album/1u9i7ltdKntpGQf0Rq0bI1) | 4:19 | 2026-04-02 | 2026-08-01 |
 | [Fashion Killer](https://open.spotify.com/track/1j5hSr4QLeAdAFyr6sbZUT) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Fashion Killer](https://open.spotify.com/album/0xpHYjPOkLSP0LtnXvCPhj) | 2:17 | 2024-08-02 | 2024-12-20 |
 | [Feelings \(feat\. Khaligraph Jones\)](https://open.spotify.com/track/4TwiRbTgM2vvY8cErSflxy) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Bumbuli Boy](https://open.spotify.com/album/7LyCaevKDsXhUhW0dFi7W9) | 3:14 | 2025-09-25 | 2026-02-13 |
 | [Final](https://open.spotify.com/track/5mFGSbg87MiGcbyvJ1CyZU) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Final](https://open.spotify.com/album/1tIams5EiCYLSlutOW04rU) | 3:00 | 2021-10-29 | 2022-03-04 |
@@ -341,6 +341,7 @@
 | [Moto](https://open.spotify.com/track/65e5WZYbtxNSqXRAjVzrbh) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Moto](https://open.spotify.com/album/7qZaabVksPh0XezZfkILNb) | 2:51 | 2024-10-03 | 2025-04-12 |
 | [Moyo](https://open.spotify.com/track/1YArqyMSdTD0Mimmk75MDq) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Moyo](https://open.spotify.com/album/5aK1AgHlTRh8yBEzubHXLB) | 2:55 | 2025-02-13 | 2025-09-12 |
 | [Moyo](https://open.spotify.com/track/4d6BHR0B4oyD7EeJ3L7qCs) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ) | [Seven](https://open.spotify.com/album/3YnzIAt9m9SJt039NYW7Gs) | 2:35 | 2026-03-26 | 2026-07-03 |
+| [MOYO](https://open.spotify.com/track/2xxoFcwteaps8BFBabgIRB) | [Stans](https://open.spotify.com/artist/1rOZ12AaA5RqBYuFpJWJpR), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [MOYO](https://open.spotify.com/album/2FmE4N63p2D4niFQwqMB9G) | 3:32 | 2026-07-31 |  |
 | [Moyo](https://open.spotify.com/track/0YsbBzLZiOXFwTQ0mFYSX5) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Moyo](https://open.spotify.com/album/4OEjsxaYkOs9T5rR5uqSMu) | 3:33 | 2026-04-23 | 2026-07-24 |
 | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Costa Titch](https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG), [Phantom Steeze](https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S) | [Moyo \(feat\. Costa Titch & Phantom Steeze\)](https://open.spotify.com/album/12PHIJ7XJEjiclcDuljOtE) | 4:12 | 2022-06-09 | 2023-08-11 |
 | [Mozzah](https://open.spotify.com/track/6h4uStxFbRaKFJW0aIlffl) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [Mozzah](https://open.spotify.com/album/77RnmREa4GxhDp5xf1gKKq) | 4:58 | 2022-11-24 | 2023-06-23 |
@@ -380,6 +381,7 @@
 | [Nakuja \(feat\. Marioo, Darassa & Maua Sama\) \- Remix](https://open.spotify.com/track/5X0Y53r6h3CDzTl7nsbdPA) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Nakuja \(feat\. Marioo, Darassa & Maua Sama\) \[Remix\]](https://open.spotify.com/album/2MIMHlmrVh5RpxUsIlwaqi) | 3:38 | 2023-07-06 | 2023-11-24 |
 | [Nakumpenda](https://open.spotify.com/track/262sNgqKP7SVpyDODmKdV7) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [jd muliki](https://open.spotify.com/artist/2cqAJuc0T3yYDGM1HJlvrl) | [Nakumpenda](https://open.spotify.com/album/0tkAhCJgYZdKLiCIzQQJpO) | 3:26 | 2022-02-04 | 2022-06-03 |
 | [Nakupenda](https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Nakupenda](https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN) | 3:14 | 2022-07-21 | 2023-08-11 |
+| [Nakupenda](https://open.spotify.com/track/1zTsIGDezfknAm2vkoSqcz) | [Matonya](https://open.spotify.com/artist/2nHyoDQinKKGYIzSkK3IwI) | [Nakupenda](https://open.spotify.com/album/14LRbN8KHBjZgA7gaKYAY0) | 2:58 | 2026-07-31 |  |
 | [Nakutaka](https://open.spotify.com/track/04WwWEEcx0KfUdbwuGtuvU) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Nakutaka](https://open.spotify.com/album/5NRy4DtnPAHlzuCcrFNqM8) | 3:30 | 2026-01-29 | 2026-04-03 |
 | [Nalego](https://open.spotify.com/track/6F50sh6SmKzIapv4TkAUmn) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Nalego](https://open.spotify.com/album/4LioOosWof1zHLi0B63C6g) | 3:29 | 2023-07-06 | 2023-11-17 |
 | [Nampenda](https://open.spotify.com/track/3OV9LcFiJZn4CMulAiPoGP) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Nampenda](https://open.spotify.com/album/0N3ZA8EsUB5qBk2cJUxpx8) | 3:18 | 2022-09-23 | 2023-03-25 |
@@ -545,7 +547,7 @@
 | [Si Mimi](https://open.spotify.com/track/2wXTa09oysRfgOwu09ZeH5) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Si Mimi](https://open.spotify.com/album/7lOu0ytKDPL8E7mv793vxK) | 3:01 | 2025-02-13 | 2025-08-16 |
 | [Side Niggah](https://open.spotify.com/track/2P6dLx8C5m0byvNcpWoeLp) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Visit Bongo](https://open.spotify.com/album/0ZY5xnqRphPOYRkrHF0LiW) | 2:45 | 2023-11-23 | 2024-06-08 |
 | [Sifikirii](https://open.spotify.com/track/2rxm7E97XqinnxxOChdOoj) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ) | [Sifikirii](https://open.spotify.com/album/7bVyqvM5kOi1hzwDZME8xx) | 3:18 | 2024-10-10 | 2025-01-31 |
-| [Sijamaliza](https://open.spotify.com/track/3LegRPMFfSMGs4wyYhB5wd) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Sijamaliza](https://open.spotify.com/album/3XAAXp3WsMZtBci4BPBF2E) | 2:42 | 2026-05-29 |  |
+| [Sijamaliza](https://open.spotify.com/track/3LegRPMFfSMGs4wyYhB5wd) | [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Sijamaliza](https://open.spotify.com/album/3XAAXp3WsMZtBci4BPBF2E) | 2:42 | 2026-05-29 | 2026-08-01 |
 | [Siji \(feat\. Toss\)](https://open.spotify.com/track/6ssUS1CxYhJdTW3ZjOYrfm) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9) | [Siji \(feat\. Toss\)](https://open.spotify.com/album/1v6OzvzSuLMw7QAT5kpOaJ) | 3:39 | 2024-05-23 | 2024-10-04 |
 | [Siku Ya Mwisho](https://open.spotify.com/track/3nEFbbSfxFShykmjP1KlXD) | [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc) | [Siku Ya Mwisho](https://open.spotify.com/album/4SROmqULOdq2HBTjTqxIO3) | 3:06 | 2026-03-12 |  |
 | [Simuachi](https://open.spotify.com/track/6oE9HQVRYv0TQelwyXdmAo) | [Cheed](https://open.spotify.com/artist/2qB04YVOV3cm2YSEn5L90z) | [Simuachi](https://open.spotify.com/album/0CWFq3CqpGfflKb174f7Z0) | 3:11 | 2023-06-15 | 2023-10-20 |
@@ -664,6 +666,7 @@
 | [Wapi](https://open.spotify.com/track/0KW4jkATD90jEVUH1VYzT0) | [Centano](https://open.spotify.com/artist/4LpwKC4lrWuIGRxfbc8GO0) | [Self Love](https://open.spotify.com/album/7JdVF7n1nxAMrF9tACscLO) | 2:52 | 2026-07-10 |  |
 | [Wapo](https://open.spotify.com/track/1XPxQpP5eFmfp21sdY89xl) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Wapo](https://open.spotify.com/album/0sSuteqvC4BO0roqNxF62I) | 3:12 | 2023-10-05 | 2024-03-01 |
 | [Wasiwasi](https://open.spotify.com/track/5RzxzvDwkaBz3msv2VjSwi) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Wasiwasi](https://open.spotify.com/album/72ObTTZXAXz1TIo3NQSbrz) | 3:56 | 2023-02-23 | 2023-07-14 |
+| [Wasiwasi](https://open.spotify.com/track/6APLhvny4lS9NxuJjE5fXf) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Wasiwasi](https://open.spotify.com/album/4A3tkgIoGW190qRfJNzfKg) | 3:00 | 2026-07-31 |  |
 | [Watu Feki](https://open.spotify.com/track/43EczENfxxOy3nJBqKRcV2) | [Appy](https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv) | [Watu Feki](https://open.spotify.com/album/3IQYzBMNVE9pEnZj2SWzKc) | 3:39 | 2023-08-10 | 2024-11-22 |
 | [Wawili](https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Wawili](https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb) | 3:10 | 2024-02-15 | 2024-07-19 |
 | [Waya](https://open.spotify.com/track/1Lns0UTuRt98pcYQvNW3MP) | [Benny Chill](https://open.spotify.com/artist/1uJg0HEhieOSn2XW4nSSF1), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Mustbedubz](https://open.spotify.com/artist/5mgakxehZfMH23hQRLcy9p) | [Waya](https://open.spotify.com/album/5sNak7LY72ggfl933MsTxC) | 4:59 | 2023-08-03 | 2023-12-08 |

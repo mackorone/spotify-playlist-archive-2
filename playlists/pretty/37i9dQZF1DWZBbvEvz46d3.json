@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 76012,
+  "num_followers": 76027,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -823,26 +823,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Marek Grechuta - 40 piosenek",
-        "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
-      },
-      "artists": [
-        {
-          "name": "Marek Grechuta",
-          "url": "https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD"
-        },
-        {
-          "name": "Anawa",
-          "url": "https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8"
-        }
-      ],
-      "duration_ms": 104733,
-      "name": "B\u0119dziesz moj\u0105 pani\u0105",
-      "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Nie k\u0142am \u017ce mnie kochasz",
         "url": "https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 186026,
       "name": "Nie k\u0142am \u017ce mnie kochasz",
       "url": "https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Marek Grechuta - 40 piosenek",
+        "url": "https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR"
+      },
+      "artists": [
+        {
+          "name": "Marek Grechuta",
+          "url": "https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD"
+        },
+        {
+          "name": "Anawa",
+          "url": "https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8"
+        }
+      ],
+      "duration_ms": 104733,
+      "name": "B\u0119dziesz moj\u0105 pani\u0105",
+      "url": "https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS"
     },
     {
       "added_at": "2025-10-16 09:34:51",

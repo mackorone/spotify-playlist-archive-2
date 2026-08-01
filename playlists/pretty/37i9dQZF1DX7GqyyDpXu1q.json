@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 95439,
+  "num_followers": 95463,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "The Vandoliers",
-        "url": "https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM"
-      },
-      "artists": [
-        {
-          "name": "Vandoliers",
-          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
-        }
-      ],
-      "duration_ms": 185386,
-      "name": "Better Run",
-      "url": "https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Black on Black",
         "url": "https://open.spotify.com/album/0gW6rlrjPt0vVCh5knGVCC"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 140153,
       "name": "Hot Damn",
       "url": "https://open.spotify.com/track/1IayPAwjwwaZAF1GL0Qz4o"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "The Vandoliers",
+        "url": "https://open.spotify.com/album/7fj96i2aTUlD9mKFH3tWmM"
+      },
+      "artists": [
+        {
+          "name": "Vandoliers",
+          "url": "https://open.spotify.com/artist/0Ti1YY2v4KtYkz7JemXJpE"
+        }
+      ],
+      "duration_ms": 185386,
+      "name": "Better Run",
+      "url": "https://open.spotify.com/track/57vENk7Nq0QO9A94DsR1ce"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -943,30 +943,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
-        "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
-      },
-      "artists": [
-        {
-          "name": "Candlebox",
-          "url": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n"
-        },
-        {
-          "name": "Don Miggs",
-          "url": "https://open.spotify.com/artist/6d9L7od02ZS10dHH3jGQ9y"
-        },
-        {
-          "name": "Zane Carney",
-          "url": "https://open.spotify.com/artist/1rwgWro7a8OH7gm58NTEPl"
-        }
-      ],
-      "duration_ms": 233250,
-      "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
-      "url": "https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Holy Ghost (feat. Jon Harvey [Monster Truck])",
         "url": "https://open.spotify.com/album/03EAJNTCPNeCynFUhUrgye"
       },
@@ -991,18 +967,26 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "15 Minute Smog Check",
-        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
+        "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
+        "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
       },
       "artists": [
         {
-          "name": "The Takes",
-          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+          "name": "Candlebox",
+          "url": "https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n"
+        },
+        {
+          "name": "Don Miggs",
+          "url": "https://open.spotify.com/artist/6d9L7od02ZS10dHH3jGQ9y"
+        },
+        {
+          "name": "Zane Carney",
+          "url": "https://open.spotify.com/artist/1rwgWro7a8OH7gm58NTEPl"
         }
       ],
-      "duration_ms": 234036,
-      "name": "15 Minute Smog Check",
-      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
+      "duration_ms": 233250,
+      "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
+      "url": "https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1019,6 +1003,22 @@
       "duration_ms": 254082,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/3njCj24qFzep7tAhiJSYTZ"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "15 Minute Smog Check",
+        "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
+      },
+      "artists": [
+        {
+          "name": "The Takes",
+          "url": "https://open.spotify.com/artist/22CxvQCHRWjDdy0nco4nch"
+        }
+      ],
+      "duration_ms": 234036,
+      "name": "15 Minute Smog Check",
+      "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Brother Joe",
-        "url": "https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN"
-      },
-      "artists": [
-        {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Brother Joe",
-      "url": "https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Summer Skin",
         "url": "https://open.spotify.com/album/1mB1IJ1SBBD897Z0FgCNu2"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 167946,
       "name": "Goin' Back Where I Came From",
       "url": "https://open.spotify.com/track/7nEcu06mVKfrWeOmNAp6ef"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Brother Joe",
+        "url": "https://open.spotify.com/album/0wiqtkItbePXyQjpbJUFcN"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Brother Joe",
+      "url": "https://open.spotify.com/track/6A9zZO9ibucGSN8Jmyxt9w"
     },
     {
       "added_at": "2026-04-10 16:28:54",

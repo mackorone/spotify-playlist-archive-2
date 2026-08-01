@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Lan\u00e7amentos 100% rock brasileiro. Foto: Black Pantera",
+  "description": "Lan\u00e7amentos 100% rock brasileiro. Foto: Colomy",
   "name": "P\u00e1tria Rock",
   "tracks": [
     {
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 194289,
       "name": "Cedo Ou Tarde - Mixagem 2023",
       "url": "https://open.spotify.com/track/1QAtLoN3Pz2P5mWqbWMs4L"
@@ -5055,6 +5055,24 @@
     },
     {
       "album": {
+        "name": "H\u00f3rus",
+        "url": "https://open.spotify.com/album/0H6mnXYjzouesGYDEuzAXO"
+      },
+      "artists": [
+        {
+          "name": "Black Pantera",
+          "url": "https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171079,
+      "name": "H\u00f3rus",
+      "url": "https://open.spotify.com/track/4m1kjiDIIczcL5gxrWq2G2"
+    },
+    {
+      "album": {
         "name": "Garra",
         "url": "https://open.spotify.com/album/2BuDLfmFs4r59bm6zdmZ7X"
       },
@@ -6382,7 +6400,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 202810,
       "name": "Mercador das Almas - Ao Vivo",
       "url": "https://open.spotify.com/track/6tIH2jWM5ty5xxJDVsWcPj"
@@ -8764,7 +8782,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 257284,
       "name": "PERP\u00c9TUO",
       "url": "https://open.spotify.com/track/2OIkwlfcRxzsAAX6CbIyYx"
@@ -9109,6 +9127,24 @@
     },
     {
       "album": {
+        "name": "Pra Quem Andou Perdido",
+        "url": "https://open.spotify.com/album/7ClZZd69tRV1CwaBbiNfPl"
+      },
+      "artists": [
+        {
+          "name": "Colomy",
+          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171597,
+      "name": "Pra Quem Andou Perdido",
+      "url": "https://open.spotify.com/track/5YGyJMbh9ZvikAMmAe6byB"
+    },
+    {
+      "album": {
         "name": "Pra Recome\u00e7ar",
         "url": "https://open.spotify.com/album/5qRgDLUCmn6dzp29v5k08q"
       },
@@ -9320,6 +9356,24 @@
       "duration_ms": 157333,
       "name": "PURGAT\u00d3RIO",
       "url": "https://open.spotify.com/track/3CrwV01FCQHHsSvEX1XOWt"
+    },
+    {
+      "album": {
+        "name": "P\u00e9 Vermei",
+        "url": "https://open.spotify.com/album/1syljH61RVYchAHRqhyKJH"
+      },
+      "artists": [
+        {
+          "name": "cat\u00ef\u00e7a",
+          "url": "https://open.spotify.com/artist/1iW65Tu0rLz2xQ90W09I07"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53000,
+      "name": "P\u00e9 Vermei",
+      "url": "https://open.spotify.com/track/5u2uHQjfWk2d1W8hYCV8p2"
     },
     {
       "album": {

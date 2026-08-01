@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO?si=608b4d7e29df4a3c\">JEDSOUL</a>. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ?si=eecfd04e89de4853\">Elliott Skinner</a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 148815,
       "name": "580",
       "url": "https://open.spotify.com/track/5c6UnUvN5JUaCQRPxweoDS"
@@ -5726,6 +5726,28 @@
       "duration_ms": 232907,
       "name": "Back2mama",
       "url": "https://open.spotify.com/track/6LzzG26olg6SfrvZBpt3Wq"
+    },
+    {
+      "album": {
+        "name": "BackRoom",
+        "url": "https://open.spotify.com/album/6rrTsaCzkNdvgJLUVcMqo3"
+      },
+      "artists": [
+        {
+          "name": "JeRonelle",
+          "url": "https://open.spotify.com/artist/4zhiJYdxOO4c9ygljrq0DZ"
+        },
+        {
+          "name": "Sevndeep",
+          "url": "https://open.spotify.com/artist/2OEgfLq3e6ZmpKnb6O6Y7V"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194052,
+      "name": "BackRoom",
+      "url": "https://open.spotify.com/track/2ncpxBg3WVw5vn9Y4v6FqP"
     },
     {
       "album": {
@@ -11576,7 +11598,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 181894,
       "name": "Catchabody",
       "url": "https://open.spotify.com/track/16vGnsL61LARux3T9hqBjJ"
@@ -16159,6 +16181,28 @@
     },
     {
       "album": {
+        "name": "IN-HINDSIGHT",
+        "url": "https://open.spotify.com/album/2NZbArsHMQk3iDMorShNOp"
+      },
+      "artists": [
+        {
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        },
+        {
+          "name": "Azekel",
+          "url": "https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "DEEP SH*T (feat. Azekel)",
+      "url": "https://open.spotify.com/track/6vU5KOLO6IPnwexe8VM2NB"
+    },
+    {
+      "album": {
         "name": "Deeper Than",
         "url": "https://open.spotify.com/album/7xuq0hvVbugjDC4e5CHboL"
       },
@@ -18475,6 +18519,24 @@
     },
     {
       "album": {
+        "name": "DON\u2019T BE A RUNNER",
+        "url": "https://open.spotify.com/album/6lFWUBlYLjHZgIXel23uvY"
+      },
+      "artists": [
+        {
+          "name": "Elliott Skinner",
+          "url": "https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194278,
+      "name": "DON\u2019T BE A RUNNER",
+      "url": "https://open.spotify.com/track/4W06fO3VNt29T29X8XLqga"
+    },
+    {
+      "album": {
         "name": "Doomed From The Start",
         "url": "https://open.spotify.com/album/6YWcl5YHmE4fRbfiTSwU1k"
       },
@@ -19546,6 +19608,24 @@
       "duration_ms": 201545,
       "name": "East end",
       "url": "https://open.spotify.com/track/2GmlxHX3djTFnGHDMx9cRT"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/1MuR1LelZ5AdjqexWmWKVa"
+      },
+      "artists": [
+        {
+          "name": "Andye",
+          "url": "https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1aiBA2Z7Zkf3m4B9Ym1UBc"
     },
     {
       "album": {
@@ -23969,6 +24049,24 @@
     },
     {
       "album": {
+        "name": "free love",
+        "url": "https://open.spotify.com/album/0H3ZIae79VKIZLpIapazZ5"
+      },
+      "artists": [
+        {
+          "name": "Earl Hondo",
+          "url": "https://open.spotify.com/artist/6wtwOmHik96gteVK9Kt28x"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144135,
+      "name": "free love",
+      "url": "https://open.spotify.com/track/1JLm2dOwysvL7pY7jpzEUI"
+    },
+    {
+      "album": {
         "name": "Free Ride",
         "url": "https://open.spotify.com/album/7wh343zXCYHetg7K16vLHa"
       },
@@ -25955,6 +26053,24 @@
     },
     {
       "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/2WfRCjRTBDD7MxWcTsah94"
+      },
+      "artists": [
+        {
+          "name": "ZURI",
+          "url": "https://open.spotify.com/artist/3BK5gMsNlUDLm3wgwT0DUF"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259170,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/0kKeNpTaJSBU15ttdXLAif"
+    },
+    {
+      "album": {
         "name": "Formed",
         "url": "https://open.spotify.com/album/1uAIDvZLghq5Glpcu5HSzc"
       },
@@ -26176,6 +26292,24 @@
       "duration_ms": 290426,
       "name": "Gone Away",
       "url": "https://open.spotify.com/track/20TQFjdslMaSvYRJkBYxNA"
+    },
+    {
+      "album": {
+        "name": "Gone Girl",
+        "url": "https://open.spotify.com/album/2roFRH4223LhDkPWlOUtxC"
+      },
+      "artists": [
+        {
+          "name": "Jordyn Simone",
+          "url": "https://open.spotify.com/artist/6pEjGEHQaVIJuM1ku1mFxb"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148318,
+      "name": "Gone Girl",
+      "url": "https://open.spotify.com/track/6VGXSTtRZGOf5TIwidRnft"
     },
     {
       "album": {
@@ -36809,6 +36943,24 @@
     },
     {
       "album": {
+        "name": "Leila",
+        "url": "https://open.spotify.com/album/67mq6sEbC07yaHwBROT0Nu"
+      },
+      "artists": [
+        {
+          "name": "Ochiko",
+          "url": "https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "Leila",
+      "url": "https://open.spotify.com/track/0ftDY0RdXs6vOm09xHdM4B"
+    },
+    {
+      "album": {
         "name": "Lemme See",
         "url": "https://open.spotify.com/album/6F0OblQzVwDqeezGmVtukA"
       },
@@ -38270,6 +38422,32 @@
       "duration_ms": 199533,
       "name": "Look At What I'm Doing To You",
       "url": "https://open.spotify.com/track/0GNOgKyTYWY88OXjOPnnLc"
+    },
+    {
+      "album": {
+        "name": "LOOK TO THE SKY / SHE F*CK WITH THE RACKS",
+        "url": "https://open.spotify.com/album/1XDfpPQrIGJGdkLotrAAkP"
+      },
+      "artists": [
+        {
+          "name": "Zacchae'us Paul",
+          "url": "https://open.spotify.com/artist/3e5fsYSPPEO2y39aXtQ2UU"
+        },
+        {
+          "name": "Eric Wyatt",
+          "url": "https://open.spotify.com/artist/4OS3gKhTZvKoRX5a7SnebC"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409266,
+      "name": "LOOK TO THE SKY",
+      "url": "https://open.spotify.com/track/6lO4BKY8pn5T6uvlaqjUB3"
     },
     {
       "album": {
@@ -41511,6 +41689,24 @@
     },
     {
       "album": {
+        "name": "My Collection of Boy Tears",
+        "url": "https://open.spotify.com/album/5qGdGK7S9IZ1vmRFxx0F3w"
+      },
+      "artists": [
+        {
+          "name": "Rakiyah",
+          "url": "https://open.spotify.com/artist/3EaMWS6JZsJwBICEFUsWPR"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170707,
+      "name": "Mathematics",
+      "url": "https://open.spotify.com/track/4gV0G35GRSL6FqEE1pJhHk"
+    },
+    {
+      "album": {
         "name": "max out (bleed)",
         "url": "https://open.spotify.com/album/70bksDH0BAyRxh3Z7FeZx0"
       },
@@ -44278,6 +44474,24 @@
       "duration_ms": 217566,
       "name": "My Forever",
       "url": "https://open.spotify.com/track/227G6rcO65LFq39h8yKBqS"
+    },
+    {
+      "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/5PwchWmsoHLIgvbgCQ1rwv"
+      },
+      "artists": [
+        {
+          "name": "ROME",
+          "url": "https://open.spotify.com/artist/4hrz9OhxBfTmyNTZmqxm2q"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161254,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/16usyTcUKnWBduD3R2PPlG"
     },
     {
       "album": {
@@ -57101,6 +57315,24 @@
     },
     {
       "album": {
+        "name": "Same Call",
+        "url": "https://open.spotify.com/album/6Tcm4oDz0vowgKlHfwZL6A"
+      },
+      "artists": [
+        {
+          "name": "Babble Hume",
+          "url": "https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140970,
+      "name": "Same Call",
+      "url": "https://open.spotify.com/track/0wWxg4mPyjBEyPzmFOfNuW"
+    },
+    {
+      "album": {
         "name": "Same Mistakes",
         "url": "https://open.spotify.com/album/57hj8borrNjzo4cfCMfCUD"
       },
@@ -63620,7 +63852,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 233453,
       "name": "such is life",
       "url": "https://open.spotify.com/track/0r1ZMarGBmhz5e0vAdiC76"
@@ -70116,7 +70348,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 195912,
       "name": "Two Fish",
       "url": "https://open.spotify.com/track/0bN8koQfz9KvECmWXXlVXv"
@@ -74638,7 +74870,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 174757,
       "name": "Who\u2019s Better",
       "url": "https://open.spotify.com/track/5FglEiOylocEJQVAS7IAGx"
@@ -74899,6 +75131,24 @@
     },
     {
       "album": {
+        "name": "Will U Stay?",
+        "url": "https://open.spotify.com/album/1qjRyAa2lrnTy6yuvaObWT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Earth",
+          "url": "https://open.spotify.com/artist/2oFkvZLEnTdEeGlkwT4aC8"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246610,
+      "name": "Will U Stay?",
+      "url": "https://open.spotify.com/track/375tB7HBafQWGn6wB1KhXV"
+    },
+    {
+      "album": {
         "name": "Willing & Able",
         "url": "https://open.spotify.com/album/1vamUZU8WvaLendcvf6jQt"
       },
@@ -75084,6 +75334,24 @@
       "duration_ms": 134359,
       "name": "Wishing That We Met",
       "url": "https://open.spotify.com/track/6afccIewy0Vpfq6YSibcv3"
+    },
+    {
+      "album": {
+        "name": "Wishy Washy",
+        "url": "https://open.spotify.com/album/4VHikGAgExqBMJeOmJbwTI"
+      },
+      "artists": [
+        {
+          "name": "V. Cartier",
+          "url": "https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120285,
+      "name": "Wishy Washy",
+      "url": "https://open.spotify.com/track/6DGJAPJmqDCVFvc4wLtz17"
     },
     {
       "album": {

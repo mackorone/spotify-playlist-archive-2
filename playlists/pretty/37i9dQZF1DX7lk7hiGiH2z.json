@@ -1,6 +1,6 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 61349,
+  "num_followers": 61372,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,26 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
-        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
+        "name": "Ferien / Vacanza",
+        "url": "https://open.spotify.com/album/34Jh1lTXZcsHxQUaiXGr99"
       },
       "artists": [
         {
-          "name": "Libatiba",
-          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        },
+        {
+          "name": "Vanessa Civiello",
+          "url": "https://open.spotify.com/artist/1l1II36cuf6nD406cfMNAu"
+        },
+        {
+          "name": "Team Karacho",
+          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
         }
       ],
-      "duration_ms": 143732,
-      "name": "Yammi Yammi",
-      "url": "https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP"
+      "duration_ms": 164165,
+      "name": "Ferien / Vacanza",
+      "url": "https://open.spotify.com/track/5pAbtjJXW7GJt0B1oZwNde"
     },
     {
       "added_at": "2026-07-09 22:01:19",
@@ -687,26 +695,18 @@
     {
       "added_at": "2026-07-09 22:01:19",
       "album": {
-        "name": "Ferien / Vacanza",
-        "url": "https://open.spotify.com/album/34Jh1lTXZcsHxQUaiXGr99"
+        "name": "Tierische Kinderlieder zum Mitsingen und Mitmachen",
+        "url": "https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz"
       },
       "artists": [
         {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        },
-        {
-          "name": "Vanessa Civiello",
-          "url": "https://open.spotify.com/artist/1l1II36cuf6nD406cfMNAu"
-        },
-        {
-          "name": "Team Karacho",
-          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
+          "name": "Libatiba",
+          "url": "https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX"
         }
       ],
-      "duration_ms": 164165,
-      "name": "Ferien / Vacanza",
-      "url": "https://open.spotify.com/track/5pAbtjJXW7GJt0B1oZwNde"
+      "duration_ms": 143732,
+      "name": "Yammi Yammi",
+      "url": "https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP"
     },
     {
       "added_at": "2026-07-09 22:01:19",

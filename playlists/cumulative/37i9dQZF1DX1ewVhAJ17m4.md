@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-618 songs - 1 day 7 hr 5 min
+619 songs - 1 day 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Fallen Short](https://open.spotify.com/track/1mbnRS3a0TgqsrahokSF43) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Fallen Short](https://open.spotify.com/album/7Dcgqmfp566cAcShiWhUqi) | 2:37 | 2023-09-15 | 2024-02-24 |
 | [False Hope](https://open.spotify.com/track/14pfQhftB9leV7EFJuiXls) | [glimmers](https://open.spotify.com/artist/40vUY0Z0SDZ2RNEcLK5yGy) | [False Hope](https://open.spotify.com/album/57sUN1f5MGJDOzmfqRo10j) | 3:09 | 2024-11-18 | 2025-02-22 |
 | [Famous](https://open.spotify.com/track/01lDsXPyoXUV9cAGIHskzs) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Blossom](https://open.spotify.com/album/5R1zQFTTBHkxuUXFxUPCwk) | 2:53 | 2022-09-09 | 2023-03-10 |
-| [Fast Forward, Rewind](https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Fast Forward, Rewind](https://open.spotify.com/album/34wGqmggdRFxX9goi6Cx3q) | 3:32 | 2026-06-05 |  |
+| [Fast Forward, Rewind](https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Fast Forward, Rewind](https://open.spotify.com/album/34wGqmggdRFxX9goi6Cx3q) | 3:32 | 2026-06-05 | 2026-08-01 |
 | [Fatal Flaw](https://open.spotify.com/track/7iOmNAV74wgniReAH65opV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [There's A Whole World Out There](https://open.spotify.com/album/6Z5Wqu7fduJ0GHt1JgCFQE) | 4:10 | 2025-05-15 |  |
 | [fate & fairytales \(with SayWeCanFly\)](https://open.spotify.com/track/3bsZ7QBXsfJ0ZezxUESfxO) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [SayWeCanFly](https://open.spotify.com/artist/6nKQmcReKxJx1vUt9g25j6) | [fate & fairytales \(with SayWeCanFly\)](https://open.spotify.com/album/4fp4rOAKrPsPYTFQYiRhKy) | 3:05 | 2021-12-20 | 2022-02-22 |
 | [FEAR OF HEIGHTS](https://open.spotify.com/track/61i6vMgMrE1sM60ScJesXl) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [FEAR OF HEIGHTS](https://open.spotify.com/album/3BSzVdG2ge51LNFkzfhn3l) | 2:34 | 2025-07-17 | 2026-05-10 |
@@ -591,6 +591,7 @@
 | [Walk This World With Me](https://open.spotify.com/track/4C4xwikhiK5uZX1oyxsRpZ) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Walk This World With Me](https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm) | 3:48 | 2024-06-14 | 2025-08-02 |
 | [wallflower](https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [wallflower](https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt) | 3:10 | 2024-06-14 | 2024-11-01 |
 | [waste away](https://open.spotify.com/track/7qfse0LAPI1kMhUHVcG1La) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [waste away](https://open.spotify.com/album/0lWRAuUBmuMSsZT7ntYTis) | 2:46 | 2025-07-17 | 2025-10-10 |
+| [WASTED](https://open.spotify.com/track/75khcRmE8VydTcmT7DIqHm) | [Pushing Veronica](https://open.spotify.com/artist/0Yr3vObyGg2Nssr9gvwV40) | [WASTED](https://open.spotify.com/album/2h54quPcr7rPumZ4dbwB4G) | 2:57 | 2026-07-24 |  |
 | [Watch The Fire](https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY), [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Watch The Fire](https://open.spotify.com/album/4q4Gjl6X9nM4VsxiDK0aOJ) | 3:28 | 2024-11-18 | 2026-05-10 |
 | [WAVES](https://open.spotify.com/track/54nU16Aa4XaE7Gxgkm1g2w) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [WAVES](https://open.spotify.com/album/73pDeY3HirNVUh8VjEz4y7) | 3:28 | 2021-12-20 | 2022-06-15 |
 | [We All Got Covid \(Except for Linus\)](https://open.spotify.com/track/4TwuMxIhBZ47gIpHljt23x) | [Nerf Herder](https://open.spotify.com/artist/4TobcndnEGqtbWAHA6ylu1) | [We All Got Covid \(Except for Linus\)](https://open.spotify.com/album/6iB2IzhrrpmBcEwflzSLi9) | 2:20 | 2022-06-14 | 2022-07-29 |

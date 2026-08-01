@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: Luis Alfonso Partida El Yaki, Banda Corona del Rey",
+  "description": "M\u00fasica en vivo de tus artistas favoritos de la M\u00fasica Mexicana. Portada: La Inolvidable Banda Agua De La Llave",
   "name": "M\u00fasica Mexicana En Vivo",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 201094,
       "name": "10 Lagrimas - En Vivo",
       "url": "https://open.spotify.com/track/3eB400kLr2GqJtTWL1vuyi"
@@ -630,6 +630,24 @@
       "duration_ms": 151579,
       "name": "Alma Enamorada - En Vivo",
       "url": "https://open.spotify.com/track/75zniuVinswzFhlxBZNndT"
+    },
+    {
+      "album": {
+        "name": "Amarte As\u00ed / Aire Tibio [Imperfecto Tour 2026 (En Vivo)]",
+        "url": "https://open.spotify.com/album/2sUgmLdDIxiDwXPyQEp48h"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250496,
+      "name": "Amarte As\u00ed - Imperfecto Tour 2026 (En Vivo)",
+      "url": "https://open.spotify.com/track/2ANU8f0XQJ6FUWhb0R2dwX"
     },
     {
       "album": {
@@ -1503,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Puras rancheras (En Vivo)",
+        "url": "https://open.spotify.com/album/6qON2HBo9QCuslSTRudNsc"
+      },
+      "artists": [
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171776,
+      "name": "Chiquitita - En Vivo",
+      "url": "https://open.spotify.com/track/4P8Fx9raH2AOmNk3SmVkSc"
+    },
+    {
+      "album": {
         "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
         "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
@@ -1580,7 +1616,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 251746,
       "name": "Comando X - En Vivo",
       "url": "https://open.spotify.com/track/7Lbm7AgXKNxz7M6HUsUx8O"
@@ -1598,7 +1634,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 203104,
       "name": "Como Burro Sin Mecate - En Vivo",
       "url": "https://open.spotify.com/track/1B7MUbPx1bQkserZwesajB"
@@ -1620,6 +1656,28 @@
       "duration_ms": 190599,
       "name": "Como Dec\u00eda El Compa Ariel - En Vivo",
       "url": "https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl"
+    },
+    {
+      "album": {
+        "name": "Como el viento / Las Chiquillas / Tina [XXI Aniversario (En Vivo Desde Monterrey)]",
+        "url": "https://open.spotify.com/album/3DncKSs0E2r47c7hVxiviZ"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        },
+        {
+          "name": "Paco Silva y su Tropa Colombiana",
+          "url": "https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509056,
+      "name": "Como El Viento / Las Chiquillas - En Vivo",
+      "url": "https://open.spotify.com/track/3IxJ2RjovOjw9zJ3ZjSYqG"
     },
     {
       "album": {
@@ -1874,6 +1932,24 @@
       "duration_ms": 160173,
       "name": "Confirmo - En Vivo",
       "url": "https://open.spotify.com/track/0P4qrOO0kk7lru6WQV4qIt"
+    },
+    {
+      "album": {
+        "name": "Consecuencias De Mis Actos (En Vivo)",
+        "url": "https://open.spotify.com/album/1nnLTRCLLQCKqrgYeWyz4a"
+      },
+      "artists": [
+        {
+          "name": "La Cultura Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/4dKfcKrl0Q5d9ZpnN6ybZL"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233408,
+      "name": "Consecuencias De Mis Actos - En Vivo",
+      "url": "https://open.spotify.com/track/2STV99V8t2m7nceACXtIEo"
     },
     {
       "album": {
@@ -2386,7 +2462,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-12",
+      "date_removed": null,
       "duration_ms": 218634,
       "name": "DE SOBREMANERA - EN VIVO",
       "url": "https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a"
@@ -2616,6 +2692,28 @@
       "duration_ms": 245183,
       "name": "Due\u00f1o De Ti - En vivo",
       "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
+    },
+    {
+      "album": {
+        "name": "Ebrio De Amor (En Vivo Con Banda)",
+        "url": "https://open.spotify.com/album/1nRQSXZqDTaGBLGXaZpNGQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aficion",
+          "url": "https://open.spotify.com/artist/49weauk9NAWsBV2o3icbdM"
+        },
+        {
+          "name": "Banda Estrellas De Sinaloa De German Lizarraga",
+          "url": "https://open.spotify.com/artist/2wWIGYR6YnkqEU2pkdnjnX"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195215,
+      "name": "Ebrio De Amor (En Vivo Con Banda)",
+      "url": "https://open.spotify.com/track/5teaCJdZk2Xrp8bQtggdu4"
     },
     {
       "album": {
@@ -2924,7 +3022,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 274954,
       "name": "El Beneficio De La Duda (En Vivo)",
       "url": "https://open.spotify.com/track/3yIoIPMrHQ5uZoTFaPQgB3"
@@ -3418,7 +3516,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 173250,
       "name": "El Comando del Diablo - En Vivo",
       "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
@@ -3984,7 +4082,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 178666,
       "name": "El Karma - Live",
       "url": "https://open.spotify.com/track/5bUOyzMveALWJtMzGOSrBv"
@@ -4358,7 +4456,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 233106,
       "name": "El Pistolero - El Chinelito Borracho - Popurr\u00ed / En Vivo",
       "url": "https://open.spotify.com/track/53vmjwz0GeOO4WgipVxV7v"
@@ -5756,7 +5854,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 212688,
       "name": "Hablemos - Live",
       "url": "https://open.spotify.com/track/1puzMBz3y9RgaqfXAGv383"
@@ -6397,6 +6495,28 @@
     },
     {
       "album": {
+        "name": "Machin Love (En Vivo Desde La Arena Jalisco)",
+        "url": "https://open.spotify.com/album/0C9j9wOlaoX0aubYwnRNiY"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        },
+        {
+          "name": "Banda LMF",
+          "url": "https://open.spotify.com/artist/2iNOGlSiM0FrFawvEbcSK0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216620,
+      "name": "La Dieta",
+      "url": "https://open.spotify.com/track/2aey0M6o8yw5VCMBJVARRU"
+    },
+    {
+      "album": {
         "name": "La Emboscada de Barrera (En Vivo)",
         "url": "https://open.spotify.com/album/60euDBQJ1YpXHEma0cKYIB"
       },
@@ -6748,7 +6868,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 193000,
       "name": "La Muerte De Julio Beltr\u00e1n - En Vivo",
       "url": "https://open.spotify.com/track/28jhrOaSoRYIhgpJ8E1GFP"
@@ -7714,7 +7834,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 192906,
       "name": "Los Ninis - En Vivo",
       "url": "https://open.spotify.com/track/535Pqi5MSztvisF6Pw8F9W"
@@ -8546,7 +8666,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 154695,
       "name": "Mujer Honrada - En vivo",
       "url": "https://open.spotify.com/track/36yGINJ01oLXwQ5U0J74aA"
@@ -8818,7 +8938,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 151500,
       "name": "No Puedo Contenerme - En Vivo",
       "url": "https://open.spotify.com/track/4XM43ha3QFkKKfS2TRMbdm"
@@ -8942,7 +9062,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-16",
+      "date_removed": null,
       "duration_ms": 153733,
       "name": "Pase y Pase - En Vivo",
       "url": "https://open.spotify.com/track/1NVVvyIakIXkQQFeQkbL54"
@@ -9328,7 +9448,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 176755,
       "name": "Por Amarte As\u00ed (En Vivo)",
       "url": "https://open.spotify.com/track/4F1yej3JKClduceYdCQydD"
@@ -9368,7 +9488,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 198938,
       "name": "Por culpa de un tercero (Spotify OUTSIDE Version) - Live from Hermosillo, Sonora, MX",
       "url": "https://open.spotify.com/track/1w0nTizRgdMsoFwGAYhqRg"
@@ -10092,7 +10212,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 274696,
       "name": "Si No Piensas Cambiar - En Vivo Desde la Plaza de Toros la M\u00e9xico",
       "url": "https://open.spotify.com/track/3S2Ir1eoUXtNXtrlk0pgkp"
@@ -10248,7 +10368,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 228997,
       "name": "Sigo Siendo El M Grande (En Vivo)",
       "url": "https://open.spotify.com/track/4UAHcRTrddcsySWDYT5epf"
@@ -10742,7 +10862,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-05",
+      "date_removed": null,
       "duration_ms": 206792,
       "name": "Te Metiste - Live",
       "url": "https://open.spotify.com/track/74GchIxY1V3NEKOSKt0mDy"
@@ -11662,7 +11782,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 251221,
       "name": "Yo No Creia En El Amor (En Vivo)",
       "url": "https://open.spotify.com/track/6PmLMimK6yReMfOXlwbx6M"

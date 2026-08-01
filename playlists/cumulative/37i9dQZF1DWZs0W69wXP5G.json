@@ -1823,6 +1823,28 @@
     },
     {
       "album": {
+        "name": "Moana (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3g9Z0jxX31lghNgzkdfhCD"
+      },
+      "artists": [
+        {
+          "name": "Catherine Laga'aia",
+          "url": "https://open.spotify.com/artist/73VULsGi9bDaKbgLORFXd5"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171040,
+      "name": "How Far I'll Go",
+      "url": "https://open.spotify.com/track/0L7dpG5vvfPxrhJnEZ5zg1"
+    },
+    {
+      "album": {
         "name": "It's Pony Time/Let's Twist Again",
         "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
       },
@@ -2754,7 +2776,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 205826,
       "name": "Meant to Be Yours",
       "url": "https://open.spotify.com/track/6YYeBYEpkiR84eCDNPBDoF"

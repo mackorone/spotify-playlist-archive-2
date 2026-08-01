@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-694 songs - 1 day 6 hr 2 min
+696 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2022-04-22 | 2024-04-16 |
 | [branches of hope](https://open.spotify.com/track/0vaiq2ZcMe2rtd7eGqIY8b) | [mandarin + cedar](https://open.spotify.com/artist/5lKC596KgYRuupiQKGr7HF) | [branches of hope](https://open.spotify.com/album/26TKyvjmtbN1vBFX7wlJSQ) | 3:16 | 2023-02-07 | 2025-06-11 |
 | [Breakwater](https://open.spotify.com/track/0t0ulNuHypcHuCunILTz1G) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [Breakwater](https://open.spotify.com/album/6ZwNvrEiKxnwJxFK8iDXTx) | 2:06 | 2025-02-26 |  |
+| [Breathe](https://open.spotify.com/track/6itK5FBbAQklhk2YXTCnxq) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Breathe](https://open.spotify.com/album/7uEBVnTdDMZS8aafFByHE5) | 2:32 | 2026-07-31 |  |
 | [Breathe](https://open.spotify.com/track/10EePqFwFowFmqDqwyP1qm) | [Jamie McNeal](https://open.spotify.com/artist/74vNtY2P9DwQNltXVislIc) | [Breathe](https://open.spotify.com/album/7JfW3XHvMfeoC4ioGD9FpI) | 2:12 | 2024-04-09 |  |
 | [Briefly](https://open.spotify.com/track/5c32g8ZBUZCClHDb545VQs) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [Briefly](https://open.spotify.com/album/0SU6Lu0SRMIe3efMEms6JJ) | 1:58 | 2022-09-15 | 2023-08-15 |
 | [Broken Dreams](https://open.spotify.com/track/5rLF5WFvEFXONKAALc6ABb) | [Ben Berkenbosch](https://open.spotify.com/artist/052Q9RnerwsOF5MDRHiSwk) | [Broken Dreams](https://open.spotify.com/album/4l0zMN3fgA2JmxMWTXoN6o) | 4:39 | 2023-01-26 | 2023-02-01 |
@@ -165,6 +166,7 @@
 | [Echoes of a Dream](https://open.spotify.com/track/2NFeT0ncQU4cmsdPBse7Dn) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Echoes of a Dream](https://open.spotify.com/album/15W1S3iV9CWzagW4w50bIm) | 2:31 | 2025-12-01 |  |
 | [Echoes Of Forgotten Times](https://open.spotify.com/track/7HlfgPAVPHtUAH2joYyyAC) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Echoes Of Forgotten Times](https://open.spotify.com/album/2gerydg3DbPYBjAsAnvgpS) | 2:42 | 2023-12-12 |  |
 | [Egy másik nap](https://open.spotify.com/track/28UjsaXCQ8GO4WrphLTN8s) | [Bodor Vencel](https://open.spotify.com/artist/2XFPANK6NB66NDXFkLqfIF) | [Egy másik nap](https://open.spotify.com/album/6pC07HHN5ieqRIqYCKEQSO) | 2:08 | 2022-04-22 | 2023-04-04 |
+| [Elaris](https://open.spotify.com/track/0VSCOcwy0rAKMGiM6BS2JP) | [Sorellien](https://open.spotify.com/artist/6tskJzai4ETnMp76lomMzr) | [Elaris](https://open.spotify.com/album/1qRNsnj5JkBE3fNhtYsnKG) | 2:19 | 2026-07-31 |  |
 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 | 2022-04-22 | 2024-09-25 |
 | [Elsewhere](https://open.spotify.com/track/7GR7a9fe0ZKlUFJSujJX68) | [Siri Eijde](https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV) | [Elsewhere](https://open.spotify.com/album/6vOf4Bk6uT98A0iIUfpEeY) | 2:28 | 2025-11-05 | 2026-02-10 |
 | [Elysian](https://open.spotify.com/track/1tPeUoPyQkH8xvr9MqMXT3) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Elysian](https://open.spotify.com/album/4UhcamXh0XDDEbLUirjiQQ) | 2:19 | 2023-10-16 | 2025-05-15 |
@@ -433,7 +435,7 @@
 | [One More Story](https://open.spotify.com/track/1j86sBWwTvbcgzf499bsHy) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Before Bed](https://open.spotify.com/album/2VU935bqWQB3q0xqkAojfc) | 2:20 | 2023-11-20 | 2023-12-22 |
 | [One More Story](https://open.spotify.com/track/2WHFdQ2A9VylYJlsZ86izV) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:20 | 2023-11-20 |  |
 | [One More Story](https://open.spotify.com/track/2doa89JBg5ZXBKcMNZnIu2) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Songs Of Sundown](https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI) | 2:20 | 2023-12-22 | 2024-04-19 |
-| [Onyx](https://open.spotify.com/track/75Y41KT0PeczPom4iZFs87) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Onyx](https://open.spotify.com/album/381RgbrHTumeg0pKzXtDdn) | 2:43 | 2023-01-31 |  |
+| [Onyx](https://open.spotify.com/track/75Y41KT0PeczPom4iZFs87) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Onyx](https://open.spotify.com/album/381RgbrHTumeg0pKzXtDdn) | 2:43 | 2023-01-31 | 2026-08-01 |
 | [Open Mind Open Heart](https://open.spotify.com/track/3vqx2A8XnA6aHZ8THpNUfA) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Open Mind Open Heart](https://open.spotify.com/album/31VjY7OLmvvYe6JrEc5LSf) | 3:06 | 2022-04-22 | 2023-03-29 |
 | [Open the Windows](https://open.spotify.com/track/2Uy0au5iofFkAgTWiXDoZp) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [Open the Windows](https://open.spotify.com/album/5BlAEYOinasxd9JX7259ae) | 2:32 | 2025-02-21 |  |
 | [Orchard Moon](https://open.spotify.com/track/2bqCu2dRdptpsJ8mKeQf79) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Orchard Moon](https://open.spotify.com/album/3XMVYJnqmGDYrDAqZ6903y) | 2:57 | 2024-12-10 |  |
@@ -555,7 +557,7 @@
 | [Space Comfort](https://open.spotify.com/track/5mSl1LEERyevaU6mykcfh0) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Safe and Sound](https://open.spotify.com/album/116LyDErcLTqD1BBQ0nBJz) | 2:21 | 2022-04-22 | 2022-05-28 |
 | [Spheroidal](https://open.spotify.com/track/00PnFrg2QQzPqkeuxGxcz9) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Relaxing Piano \(Neoclassical Sessions\)](https://open.spotify.com/album/5qarIzyobiPKOCDZvaWDIj) | 3:04 | 2022-07-27 | 2023-08-15 |
 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 | 2022-04-22 | 2022-08-22 |
-| [Spring Thaw](https://open.spotify.com/track/2MpWue0eGp2YXKesVwxJDA) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Spring Thaw](https://open.spotify.com/album/0gRqyyHAowMXdyIKD9Wouy) | 3:00 | 2023-05-09 |  |
+| [Spring Thaw](https://open.spotify.com/track/2MpWue0eGp2YXKesVwxJDA) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Spring Thaw](https://open.spotify.com/album/0gRqyyHAowMXdyIKD9Wouy) | 3:00 | 2023-05-09 | 2026-08-01 |
 | [Springtime Afternoons](https://open.spotify.com/track/0V2qmRvvcoXijqbvL3vzPb) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Springtime Afternoons](https://open.spotify.com/album/4n4SNcxSj6m7D2tqDFyNfi) | 1:49 | 2022-07-27 | 2023-07-19 |
 | [Spur Of The Moment](https://open.spotify.com/track/6io03Imv3ItVjAhrBat1WY) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Spur Of The Moment](https://open.spotify.com/album/3XYOzXOGdUcO7RPzv1YaMz) | 2:50 | 2022-04-22 | 2022-07-28 |
 | [Starry Sky](https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Starry Sky](https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe) | 2:20 | 2022-04-22 | 2024-08-08 |
@@ -648,7 +650,7 @@
 | [Unfinished Letter](https://open.spotify.com/track/5qjp7GhgW7HW0fy5JXRs3l) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Unfinished Letter](https://open.spotify.com/album/2UvacRcaEAPlFOUuPBB2Vq) | 1:50 | 2023-07-03 | 2023-08-15 |
 | [unkai](https://open.spotify.com/track/26Sfu4rZ10IU9R5u3erN00) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [unkai](https://open.spotify.com/album/7ujkaYYK3zTOSpovl6piTa) | 2:21 | 2022-09-15 | 2025-05-15 |
 | [Up among the clouds](https://open.spotify.com/track/7ppmjph9tkq0RGY7K1zRhB) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [Up among the clouds](https://open.spotify.com/album/4rdJiuuaoCFT6VY7Uz5GFf) | 2:14 | 2024-01-09 |  |
-| [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-09 |  |
+| [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-09 | 2026-08-01 |
 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2022-04-22 | 2022-07-28 |
 | [velvet void](https://open.spotify.com/track/3wEBkJFS7AngSwHAEcrkFb) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [velvet void](https://open.spotify.com/album/2mDvDFwJV8FnrR6eq1Hm5e) | 2:28 | 2023-07-03 |  |
 | [Verba Aymara](https://open.spotify.com/track/2P9eiPf0MsHHCkf3FKNqEs) | [Maru Gomes](https://open.spotify.com/artist/3c06rwhV9teHblfhGaUqdp) | [Verba Aymara](https://open.spotify.com/album/6RtdvqF0ZrVCtw2GRC9YB9) | 3:07 | 2022-04-22 | 2023-08-15 |

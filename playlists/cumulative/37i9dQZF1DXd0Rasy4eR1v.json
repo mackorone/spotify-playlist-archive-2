@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Aaey Nahi",
+        "url": "https://open.spotify.com/album/4HB8MmayxCMuhZt9yL6ISy"
+      },
+      "artists": [
+        {
+          "name": "The Haider",
+          "url": "https://open.spotify.com/artist/7hzc3d6oORpqvThybwC8Yr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169714,
+      "name": "Aaey Nahi",
+      "url": "https://open.spotify.com/track/7e1u4Kfor8eKSnsRyAz6du"
+    },
+    {
+      "album": {
         "name": "Aag",
         "url": "https://open.spotify.com/album/5ITmBTIKbMbtOamAfaNDU9"
       },
@@ -5284,7 +5302,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 200317,
       "name": "Dard",
       "url": "https://open.spotify.com/track/65pVPyMZRHySw7G1bOArfk"
@@ -14907,6 +14925,24 @@
     },
     {
       "album": {
+        "name": "Main Tera Hoya",
+        "url": "https://open.spotify.com/album/6Mdje5aHaToyfoTxKJTkTD"
+      },
+      "artists": [
+        {
+          "name": "Parwan Khan",
+          "url": "https://open.spotify.com/artist/21bpeYVt41rBnl5VJpj3oy"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237568,
+      "name": "Main Tera Hoya",
+      "url": "https://open.spotify.com/track/6Hq340E9ZBg3T28e7eAHar"
+    },
+    {
+      "album": {
         "name": "Main Wo Nahi",
         "url": "https://open.spotify.com/album/3Qdus0uqB8lJQNMrYrRtvJ"
       },
@@ -23208,7 +23244,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 152888,
       "name": "Taareefein",
       "url": "https://open.spotify.com/track/2T0tgEhIU41BYoL0Pe7Lf4"
@@ -23952,6 +23988,24 @@
       "duration_ms": 201240,
       "name": "Tere Jaane Ke Baad",
       "url": "https://open.spotify.com/track/1doLR0L3oj6jMk0naAismD"
+    },
+    {
+      "album": {
+        "name": "Tere Liye",
+        "url": "https://open.spotify.com/album/69pvmo2TvHjarROpB6fby1"
+      },
+      "artists": [
+        {
+          "name": "Ahsan Naseem",
+          "url": "https://open.spotify.com/artist/1feaMTBMVOuvDJPoJnyy0H"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223065,
+      "name": "Tere Liye",
+      "url": "https://open.spotify.com/track/7IcfAZoO0VCUpjBNniqoUk"
     },
     {
       "album": {
@@ -25650,7 +25704,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 179294,
       "name": "Uraan",
       "url": "https://open.spotify.com/track/0IblAZHmyWiE86j452xiJf"

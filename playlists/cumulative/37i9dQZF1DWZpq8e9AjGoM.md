@@ -4,7 +4,7 @@
 
 > The sound of spring.
 
-263 songs - 11 hr 28 min
+264 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aigua Blava](https://open.spotify.com/track/59vYXghvPGvJ5Klb8gjnQp) | [Finn Laurent](https://open.spotify.com/artist/2ZQAy39rSn6VA6WzsQviwR) | [Aigua Blava](https://open.spotify.com/album/5v8EEPywTkPP33yEGU12or) | 2:26 | 2026-07-24 |  |
 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 | 2025-03-11 | 2025-04-03 |
 | [Alcyone](https://open.spotify.com/track/1eZ7C5xgD8agqwvOu2wq4A) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Alcyone](https://open.spotify.com/album/6Xsu8tRX4MqyTI3MBCo2wT) | 2:50 | 2025-03-11 |  |
+| [All Along](https://open.spotify.com/track/2x8YxtDfUxW5vnIi4uOPe6) | [Jasper Avelline](https://open.spotify.com/artist/4pPV1eWRWDUYofcp8oxQg1) | [All Along](https://open.spotify.com/album/2KLPYpqSWtC08NEICkbyI6) | 2:23 | 2026-07-31 |  |
 | [am ersten Tag](https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [Time Line](https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns) | 2:10 | 2025-03-11 |  |
 | [Amaryllis](https://open.spotify.com/track/2WaBWRReKqvbWBi2ATw5QE) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Amaryllis](https://open.spotify.com/album/63RlPJTM1SC2knHQtbspf2) | 2:21 | 2025-03-11 | 2025-04-17 |
 | [Amelia](https://open.spotify.com/track/0xRfgVTGR2mgImISJ4AVsE) | [Bert Hearns](https://open.spotify.com/artist/1aGVRfsCFUIKGa775i4QJs) | [Amelia](https://open.spotify.com/album/2fmMci8jroE0FqfSHIdp2w) | 2:20 | 2025-03-11 | 2026-05-23 |

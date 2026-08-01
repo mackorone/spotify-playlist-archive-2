@@ -893,6 +893,36 @@
     },
     {
       "album": {
+        "name": "Stravinsky: Music for Piano & Orchestra",
+        "url": "https://open.spotify.com/album/1BTqMtslGvzMJtUuK97Wlj"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Giuseppe Andaloro",
+          "url": "https://open.spotify.com/artist/5lpfGaObTKMHdZ4iQZFWnw"
+        },
+        {
+          "name": "Orchestra Sinfonica Abruzzese",
+          "url": "https://open.spotify.com/artist/5rzsZcJU81KYJOKrTDSW6C"
+        },
+        {
+          "name": "Filippo Arlia",
+          "url": "https://open.spotify.com/artist/4GST28jq3GKqVCuevyALdH"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431108,
+      "name": "Capriccio, K050: I. Presto",
+      "url": "https://open.spotify.com/track/2PILJVXJWnunluvMb2dxp6"
+    },
+    {
+      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/0Y1JlLPyUEvslc0SaI5cXL"
       },
@@ -1922,6 +1952,24 @@
       "duration_ms": 210120,
       "name": "Getting the Picture",
       "url": "https://open.spotify.com/track/1PVvD0V8BYl4QlKgP6V97c"
+    },
+    {
+      "album": {
+        "name": "Glass Fields",
+        "url": "https://open.spotify.com/album/3jHJUs3JVGe6DXSMUDuNS8"
+      },
+      "artists": [
+        {
+          "name": "Jordi Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/4R1o8vTVHS99HCGQ9Gak8q"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212258,
+      "name": "Glass Fields",
+      "url": "https://open.spotify.com/track/6p8uexCWmV3fgY2FmBwkUj"
     },
     {
       "album": {
@@ -4022,6 +4070,28 @@
       "duration_ms": 250126,
       "name": "Sirens",
       "url": "https://open.spotify.com/track/5ut2MKH5MoMNwtd81jbor1"
+    },
+    {
+      "album": {
+        "name": "sitting circle",
+        "url": "https://open.spotify.com/album/6unWQip3633ZRQhw3SGXgJ"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        },
+        {
+          "name": "Rob Moose",
+          "url": "https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179420,
+      "name": "sitting circle",
+      "url": "https://open.spotify.com/track/6UQaumDk0eKi9hlyfXmCoa"
     },
     {
       "album": {

@@ -2391,6 +2391,24 @@
     },
     {
       "album": {
+        "name": "DO NOT LET UP",
+        "url": "https://open.spotify.com/album/1ZSKOhGvwVSmNE0aLduBpH"
+      },
+      "artists": [
+        {
+          "name": "Hgods",
+          "url": "https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "DO NOT LET UP",
+      "url": "https://open.spotify.com/track/5qGWrNXHGgaZqy6RvORAZF"
+    },
+    {
+      "album": {
         "name": "DO SUMMIN",
         "url": "https://open.spotify.com/album/1xqGnAaUclFB1IoNBuOc6I"
       },
@@ -5407,6 +5425,28 @@
     },
     {
       "album": {
+        "name": "The Machine (Remixes)",
+        "url": "https://open.spotify.com/album/65KdkOk8wERBDhd3ltBVuY"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        },
+        {
+          "name": "VLCN",
+          "url": "https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "March of the Machine - VLCN Remix",
+      "url": "https://open.spotify.com/track/2nFpkhzI4Ba1kLPluj8rgy"
+    },
+    {
+      "album": {
         "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
         "url": "https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY"
       },
@@ -5522,7 +5562,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 190400,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
@@ -7554,7 +7594,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 205241,
       "name": "Restless",
       "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
@@ -7922,7 +7962,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 182000,
       "name": "Sacrificial",
       "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
@@ -8714,6 +8754,24 @@
       "duration_ms": 171193,
       "name": "So Far",
       "url": "https://open.spotify.com/track/5LjoyefinBuAQr2Fj2byyM"
+    },
+    {
+      "album": {
+        "name": "SO HYPE",
+        "url": "https://open.spotify.com/album/0nGzubCgiCku5l7TYNSnmp"
+      },
+      "artists": [
+        {
+          "name": "MAXARKA",
+          "url": "https://open.spotify.com/artist/3N9yDjiEX6enGoEEdmJpgv"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175805,
+      "name": "SO HYPE",
+      "url": "https://open.spotify.com/track/5AEG5fKUJVuN4dNguunkJ6"
     },
     {
       "album": {

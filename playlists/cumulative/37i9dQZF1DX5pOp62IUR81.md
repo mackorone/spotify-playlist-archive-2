@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love\. Marvel Studios' The Fantastic Four: First Steps is now streaming on Disney+.
 
-255 songs - 11 hr 12 min
+256 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [The Bamboo Spring](https://open.spotify.com/track/3i4VFsgDWhd1L52DlNS4qE) | [Joel P West](https://open.spotify.com/artist/6rQvvJf6EoWZnoO6g7mixQ) | [Shang\-Chi and the Legend of the Ten Rings \(Original Score\)](https://open.spotify.com/album/72LIvmrUE6L6bBO5gzvbya) | 3:18 | 2024-01-05 | 2026-04-15 |
 | [The Convergence \(Main Theme\)](https://open.spotify.com/track/06oxloNrchPg8GOovW6k1V) | [Moonju Lee](https://open.spotify.com/artist/0vepBUJFXH3lLEUO8bdbbS), [Netmarble Monster Sound Team](https://open.spotify.com/artist/4FltW3DdTf4VjREPFrpmBq) | [MARVEL Future Revolution: The Convergence Soundtrack \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7xdi478x5z8DrcRcC7WG1w) | 1:43 | 2024-01-05 | 2026-04-15 |
 | [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/11fFILIDzuHakpgGoawXZw) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps Main Theme \(From "The Fantastic Four: First Steps"\)](https://open.spotify.com/album/7cAwr7nhlYNRCm9vCOC9Hj) | 3:22 | 2025-06-06 | 2026-04-15 |
+| [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/5pj3uTYB18t1xVOkrFm13I) | [Orchid Quartet](https://open.spotify.com/artist/5Zh8DIcOPVxz6ix1uMjLgh), [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Marvel Strings](https://open.spotify.com/album/7JqVHc7SMnfNzR6qXqBbQR) | 3:21 | 2026-07-31 |  |
 | [The Fantastic Four: First Steps Main Theme Extended Version](https://open.spotify.com/track/7h1r6c5C8HZpDmmCodIIW4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB) | 4:10 | 2025-07-18 |  |
 | [The Final Battle Begins](https://open.spotify.com/track/3dmbpL8b6XIi3B0iM7G3Bw) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy \(Original Score\)](https://open.spotify.com/album/3KxwtSwqC6Ed49laQpSlJM) | 4:21 | 2024-01-05 | 2026-04-25 |
 | [The Hero of the Multiverse](https://open.spotify.com/track/0CnD6Y8D8rOIM5rstdwDGG) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Nora Kroll\-Rosenbaum](https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm) | [What If...? \- An Immersive Story \(Original Soundtrack\)](https://open.spotify.com/album/54SlomuJZjSdzwHL9mXjM8) | 1:23 | 2024-08-16 | 2026-04-15 |

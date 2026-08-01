@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Ha*Ash en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Gloria Trevi en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -7662,7 +7662,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 206900,
       "name": "Hipot\u00e9ticamente",
       "url": "https://open.spotify.com/track/2TaEcl4cN5G91oOWMt4h0P"
@@ -9270,7 +9270,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 188680,
       "name": "Lejos De La Ciudad",
       "url": "https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm"
@@ -9310,7 +9310,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 178252,
       "name": "Lejos Estamos Mejor",
       "url": "https://open.spotify.com/track/4jwAlalnN7RjBt3lg1H56E"
@@ -11991,6 +11991,24 @@
     },
     {
       "album": {
+        "name": "NADA Q VER : (",
+        "url": "https://open.spotify.com/album/1KeiTTl3USHXTaKOQiPzBM"
+      },
+      "artists": [
+        {
+          "name": "Plazencia",
+          "url": "https://open.spotify.com/artist/3LYRtUBx1UE0pz66d1s12x"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196444,
+      "name": "NADA Q VER : (",
+      "url": "https://open.spotify.com/track/2Omeftf9YKmavjNadiXUqk"
+    },
+    {
+      "album": {
         "name": "Frecuencia",
         "url": "https://open.spotify.com/album/6hfHnK0eRvNceDhHdlwevc"
       },
@@ -13643,6 +13661,24 @@
     },
     {
       "album": {
+        "name": "Radio Nostalgia",
+        "url": "https://open.spotify.com/album/0WHs0iIgd6vcp1pGJxE7Om"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260653,
+      "name": "Pedacito de Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0Xh9S4PGIDMcp2qeoPnp3Q"
+    },
+    {
+      "album": {
         "name": "Pedazo De Tonto",
         "url": "https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb"
       },
@@ -14192,6 +14228,24 @@
       "duration_ms": 172105,
       "name": "Polvo de tu Vida",
       "url": "https://open.spotify.com/track/4Nr31bxNazMn7t94RoSbFq"
+    },
+    {
+      "album": {
+        "name": "Pompas de Jab\u00f3n",
+        "url": "https://open.spotify.com/album/2xvVYmaoj9KyNvgqWlZK5y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186680,
+      "name": "Pompas de Jab\u00f3n",
+      "url": "https://open.spotify.com/track/7mbSHUDE3rftM885u0MQ4Q"
     },
     {
       "album": {
@@ -17467,6 +17521,24 @@
     },
     {
       "album": {
+        "name": "Tres Veces",
+        "url": "https://open.spotify.com/album/6JzfN5RpNXr0PlAOPwdwY2"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Tres Veces",
+      "url": "https://open.spotify.com/track/5Llseh3Otj04aTIQXMCH0w"
+    },
+    {
+      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
       },
@@ -17588,7 +17660,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 136615,
       "name": "TUTUTU",
       "url": "https://open.spotify.com/track/6Og7yuXfE5KyE8dSHU8yap"

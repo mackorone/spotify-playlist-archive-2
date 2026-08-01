@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAAA4YhjwQue8YqOVokApBK2K",
+  "snapshot_id": "amqUAAAAAADS+mDZuFyM1R/LDEUiFWHe",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hiraeth",
-        "url": "https://open.spotify.com/album/1AG2QdGXABKCvbqaVS0OyO"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Hiraeth",
-      "url": "https://open.spotify.com/track/2unhwFru9sVt2EfuJfnwU7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Calibrating Senses",
         "url": "https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 173501,
       "name": "Heart Donor",
       "url": "https://open.spotify.com/track/11qws3Eq7dG4ivPK7QF6UV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/1AG2QdGXABKCvbqaVS0OyO"
+      },
+      "artists": [
+        {
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/2unhwFru9sVt2EfuJfnwU7"
     },
     {
       "added_at": null,
@@ -238,11 +238,15 @@
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Alfred Bundgaard",
+          "url": "https://open.spotify.com/artist/3HhLZ0jfYi0Og65mYA2tKs"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Sefirot Surfa",
-      "url": "https://open.spotify.com/track/6C3wqmj5zUqOSTJrpiDZwt"
+      "duration_ms": 56473,
+      "name": "Kyakalia",
+      "url": "https://open.spotify.com/track/5jsSQZEUgzOmiMyI1JFnEx"
     },
     {
       "added_at": null,
@@ -310,15 +314,11 @@
         {
           "name": "Sofie Birch",
           "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Alfred Bundgaard",
-          "url": "https://open.spotify.com/artist/3HhLZ0jfYi0Og65mYA2tKs"
         }
       ],
-      "duration_ms": 56473,
-      "name": "Kyakalia",
-      "url": "https://open.spotify.com/track/5jsSQZEUgzOmiMyI1JFnEx"
+      "duration_ms": 220000,
+      "name": "Sefirot Surfa",
+      "url": "https://open.spotify.com/track/6C3wqmj5zUqOSTJrpiDZwt"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 521986,
-      "name": "Collecting eyes",
-      "url": "https://open.spotify.com/track/4Fslm3L6X9RsyO6SvBEi1h"
+      "duration_ms": 199093,
+      "name": "Comes with sunrise",
+      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 199093,
-      "name": "Comes with sunrise",
-      "url": "https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB"
+      "duration_ms": 521986,
+      "name": "Collecting eyes",
+      "url": "https://open.spotify.com/track/4Fslm3L6X9RsyO6SvBEi1h"
     },
     {
       "added_at": null,

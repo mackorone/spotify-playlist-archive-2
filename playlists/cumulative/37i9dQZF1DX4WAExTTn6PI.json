@@ -402,7 +402,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 251157,
       "name": "Appalachia",
       "url": "https://open.spotify.com/track/2RdJbJgQmgBZkvzOegmsiw"
@@ -662,6 +662,24 @@
       "duration_ms": 201626,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
+    },
+    {
+      "album": {
+        "name": "Big Plans",
+        "url": "https://open.spotify.com/album/3PZdSyLhjHaF0ruKsLBS2Q"
+      },
+      "artists": [
+        {
+          "name": "Schaefer Llana",
+          "url": "https://open.spotify.com/artist/2p4lD1A4m58EkqOjvcHRsq"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205696,
+      "name": "Big Plans",
+      "url": "https://open.spotify.com/track/7BOLRpkbtylfbnlMB9M1SB"
     },
     {
       "album": {
@@ -1141,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/40DqGxPPPRMlCecy8vFtAo"
+      },
+      "artists": [
+        {
+          "name": "Kelly Hunt",
+          "url": "https://open.spotify.com/artist/6u7xKqA2YEKk72AXS2Bwkc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236120,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/3IBqBVCH4RR5hPMMz4lmdA"
+    },
+    {
+      "album": {
         "name": "Commune",
         "url": "https://open.spotify.com/album/00TK0K8oNzWUyNNf0eSLNE"
       },
@@ -1246,6 +1282,24 @@
       "duration_ms": 177453,
       "name": "crescent reflections",
       "url": "https://open.spotify.com/track/5tPwyKkM5ug2mOWROm35II"
+    },
+    {
+      "album": {
+        "name": "Peasants Revolt",
+        "url": "https://open.spotify.com/album/72ItaFnQE42yzAkwSOVdEm"
+      },
+      "artists": [
+        {
+          "name": "Creekbed Carter Hogan",
+          "url": "https://open.spotify.com/artist/5QE4Qoon6ohi5z6wDJ0u0t"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144381,
+      "name": "Cutbank of Cleves",
+      "url": "https://open.spotify.com/track/7oqhSdGGBOoqsLa4YoFICK"
     },
     {
       "album": {
@@ -2727,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "Heavy Tobacco",
+        "url": "https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189609,
+      "name": "Heavy Tobacco",
+      "url": "https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at"
+    },
+    {
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks"
       },
@@ -3616,7 +3688,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 286940,
       "name": "Leap of Faith",
       "url": "https://open.spotify.com/track/2RKf4dZyT9r9N2LHM48tTg"
@@ -4200,7 +4272,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 168546,
       "name": "Mattress",
       "url": "https://open.spotify.com/track/22ZjU9GWn0BA52mfxqzzGn"
@@ -4294,7 +4366,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 282341,
       "name": "Mercy on the Skyline",
       "url": "https://open.spotify.com/track/7MZlYIv52fVAEN9voOhCKV"
@@ -5012,7 +5084,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 144000,
       "name": "Parr\u00f6thead2.0",
       "url": "https://open.spotify.com/track/7nF71dXC3roeMIhc2RIdoi"
@@ -5466,6 +5538,24 @@
       "duration_ms": 118320,
       "name": "Roses & Poppies",
       "url": "https://open.spotify.com/track/6r9b0M8epi2KnkpCOvIjSe"
+    },
+    {
+      "album": {
+        "name": "Run to the Water",
+        "url": "https://open.spotify.com/album/21Tfib0D3ABGQhGuUjxaxp"
+      },
+      "artists": [
+        {
+          "name": "Jessica Maros",
+          "url": "https://open.spotify.com/artist/29lfeOtk5kuNbtngpAL57W"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208586,
+      "name": "Run to the Water",
+      "url": "https://open.spotify.com/track/3E8e0j1OybxxXzpNO3tlYL"
     },
     {
       "album": {

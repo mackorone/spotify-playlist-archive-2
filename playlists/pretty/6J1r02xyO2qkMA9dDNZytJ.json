@@ -1,28 +1,48 @@
 {
   "description": "All the biggest House &amp; Tech House anthems of right now! Follow us on <a href=\"https://www.instagram.com/toolroomrecords/\">Instagram</a> ",
-  "num_followers": 63428,
+  "num_followers": 63431,
   "original_name": "Toolroom House 2026",
   "owner": {
     "name": "Toolroom Records",
     "url": "https://open.spotify.com/user/1135439236"
   },
-  "snapshot_id": "AAApwVbjDN+v/6y327xz/31yk/aQ0Zyp",
+  "snapshot_id": "AAAp0HOvpdj7WJcIb5ESALt4vcywWsWQ",
   "tracks": [
     {
-      "added_at": "2026-07-24 08:00:41",
+      "added_at": "2026-07-31 10:15:53",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/0a9NVhsLXeEXZlK20zHhzB"
+        "name": "Magalenha",
+        "url": "https://open.spotify.com/album/5TGeVJsdRFj93bGeuil8ng"
       },
       "artists": [
         {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+          "name": "Simon Fava",
+          "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
+        },
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
         }
       ],
-      "duration_ms": 181769,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/2DhLh8MFQLFXiH9rm1Y5Ix"
+      "duration_ms": 170893,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/650kG0vQyMypQcLSoTcrgU"
+    },
+    {
+      "added_at": "2026-07-31 10:22:04",
+      "album": {
+        "name": "Body Action",
+        "url": "https://open.spotify.com/album/0fTpOaTU65zAIs6UCE1xig"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "duration_ms": 331508,
+      "name": "Body Action",
+      "url": "https://open.spotify.com/track/2ehc5VYZ2ktmEQO90cYjnG"
     },
     {
       "added_at": "2026-07-17 10:05:04",
@@ -47,6 +67,38 @@
       "duration_ms": 223125,
       "name": "Cash On Cash",
       "url": "https://open.spotify.com/track/47jJPapQVVa28JRx6SzYR9"
+    },
+    {
+      "added_at": "2026-07-31 10:22:11",
+      "album": {
+        "name": "Pushin' On",
+        "url": "https://open.spotify.com/album/1weHSnCa3BVh3BK8A8akyy"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Pushin' On - Radio Edit",
+      "url": "https://open.spotify.com/track/6Ew3KMWtyrCD8glkQLf4M5"
+    },
+    {
+      "added_at": "2026-07-24 08:00:41",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/0a9NVhsLXeEXZlK20zHhzB"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 181769,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/2DhLh8MFQLFXiH9rm1Y5Ix"
     },
     {
       "added_at": "2026-07-24 14:34:57",
@@ -203,6 +255,38 @@
       "duration_ms": 176357,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/0QVgULBiWoVwl1gNItl057"
+    },
+    {
+      "added_at": "2026-07-31 08:16:53",
+      "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/61lsKLJet7tYHLhqhBccH5"
+      },
+      "artists": [
+        {
+          "name": "Roxe",
+          "url": "https://open.spotify.com/artist/5VANY8UHET4MOfqcgZ0RYp"
+        }
+      ],
+      "duration_ms": 163846,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/4Rm4KQmb8kzub9hZgiZvtn"
+    },
+    {
+      "added_at": "2026-07-31 08:17:08",
+      "album": {
+        "name": "Truth",
+        "url": "https://open.spotify.com/album/7tmEkTpURpjrPwpyzxMF30"
+      },
+      "artists": [
+        {
+          "name": "Ben Remember",
+          "url": "https://open.spotify.com/artist/4QDXiDOwAxmzwZOaqP2ePc"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0cLqFiwevvLmNH8EmP0aAB"
     },
     {
       "added_at": "2026-07-03 09:22:49",

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mateus Carrilho, DUP\u00ca",
-  "num_followers": 359514,
+  "num_followers": 359478,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-07-31 03:00:09",
       "album": {
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "added_at": "2026-07-31 03:00:09",
+      "album": {
         "name": "Caipiranhas",
         "url": "https://open.spotify.com/album/36vjUjHLKNBkxeN2sBcsqA"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2026-07-31 03:00:09",
       "album": {
-        "name": "no seu tempo",
-        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+        "name": "Sequ\u00eancia",
+        "url": "https://open.spotify.com/album/0S8tdfDdMRdB40D2MovWAn"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "Vanessa Lopes",
+          "url": "https://open.spotify.com/artist/4boo6QjKCIEDrRdcns9lMy"
         }
       ],
-      "duration_ms": 158922,
-      "name": "no seu tempo",
-      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+      "duration_ms": 146008,
+      "name": "Sequ\u00eancia",
+      "url": "https://open.spotify.com/track/1hq5AcJ5ua06u660MHAn80"
     },
     {
       "added_at": "2026-07-31 03:00:09",
@@ -467,6 +483,26 @@
     {
       "added_at": "2026-07-31 03:00:09",
       "album": {
+        "name": "DE COSTAS",
+        "url": "https://open.spotify.com/album/3mWaOArRlj3PiI6fScDY0K"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 224902,
+      "name": "DE COSTAS",
+      "url": "https://open.spotify.com/track/7e5cq16VImSKSV0liWo3c6"
+    },
+    {
+      "added_at": "2026-07-31 03:00:09",
+      "album": {
         "name": "Manh\u00e3 de Sol",
         "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
       },
@@ -492,7 +528,7 @@
           "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
         }
       ],
-      "duration_ms": 164812,
+      "duration_ms": 164833,
       "name": "Vida de Rei, Vida de C\u00e3o",
       "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
     },
@@ -515,22 +551,6 @@
     {
       "added_at": "2026-07-31 03:00:09",
       "album": {
-        "name": "Sequ\u00eancia",
-        "url": "https://open.spotify.com/album/0S8tdfDdMRdB40D2MovWAn"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Lopes",
-          "url": "https://open.spotify.com/artist/4boo6QjKCIEDrRdcns9lMy"
-        }
-      ],
-      "duration_ms": 146008,
-      "name": "Sequ\u00eancia",
-      "url": "https://open.spotify.com/track/1hq5AcJ5ua06u660MHAn80"
-    },
-    {
-      "added_at": "2026-07-31 03:00:09",
-      "album": {
         "name": "Partilhar",
         "url": "https://open.spotify.com/album/3ERX6HBfLHvDmDS3PvY0ok"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 220750,
       "name": "Partilhar",
       "url": "https://open.spotify.com/track/30z5oe3xlYszeSz7Kpwn2G"
-    },
-    {
-      "added_at": "2026-07-31 03:00:09",
-      "album": {
-        "name": "DE COSTAS",
-        "url": "https://open.spotify.com/album/3mWaOArRlj3PiI6fScDY0K"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 224902,
-      "name": "DE COSTAS",
-      "url": "https://open.spotify.com/track/7e5cq16VImSKSV0liWo3c6"
     },
     {
       "added_at": "2026-07-31 03:00:09",
@@ -647,42 +647,6 @@
     {
       "added_at": "2026-07-31 03:00:09",
       "album": {
-        "name": "Mais Que Isso",
-        "url": "https://open.spotify.com/album/2l5q84x7p9AUXcrN5Jn6yh"
-      },
-      "artists": [
-        {
-          "name": "Manda",
-          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
-        },
-        {
-          "name": "LAN",
-          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Mais Que Isso",
-      "url": "https://open.spotify.com/track/6ImvrQ07hWMqaWzIC4Drm0"
-    },
-    {
-      "added_at": "2026-07-31 03:00:09",
-      "album": {
-        "name": "Avoad\u00e3o",
-        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Avoad\u00e3o",
-      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
-    },
-    {
-      "added_at": "2026-07-31 03:00:09",
-      "album": {
         "name": "F\u00faria",
         "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
       },
@@ -707,22 +671,38 @@
     {
       "added_at": "2026-07-31 03:00:09",
       "album": {
-        "name": "CASA MOLHADA",
-        "url": "https://open.spotify.com/album/2sifLgponrzxbbcxOekNfk"
+        "name": "Avoad\u00e3o",
+        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
       },
       "artists": [
         {
-          "name": "MARINA NA VOZ",
-          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
-        },
-        {
-          "name": "Los Brasileros",
-          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
         }
       ],
-      "duration_ms": 145237,
-      "name": "N\u00c3O VOU PARAR",
-      "url": "https://open.spotify.com/track/61NmBK1EVDR3uqdj6Y15Io"
+      "duration_ms": 219047,
+      "name": "Avoad\u00e3o",
+      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
+    },
+    {
+      "added_at": "2026-07-31 03:00:09",
+      "album": {
+        "name": "Mais Que Isso",
+        "url": "https://open.spotify.com/album/2l5q84x7p9AUXcrN5Jn6yh"
+      },
+      "artists": [
+        {
+          "name": "Manda",
+          "url": "https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5"
+        },
+        {
+          "name": "LAN",
+          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Mais Que Isso",
+      "url": "https://open.spotify.com/track/6ImvrQ07hWMqaWzIC4Drm0"
     },
     {
       "added_at": "2026-07-31 03:00:09",
@@ -739,6 +719,26 @@
       "duration_ms": 150422,
       "name": "Ningu\u00e9m Morre de Amor",
       "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
+    },
+    {
+      "added_at": "2026-07-31 03:00:09",
+      "album": {
+        "name": "CASA MOLHADA",
+        "url": "https://open.spotify.com/album/2sifLgponrzxbbcxOekNfk"
+      },
+      "artists": [
+        {
+          "name": "MARINA NA VOZ",
+          "url": "https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G"
+        },
+        {
+          "name": "Los Brasileros",
+          "url": "https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW"
+        }
+      ],
+      "duration_ms": 145237,
+      "name": "N\u00c3O VOU PARAR",
+      "url": "https://open.spotify.com/track/61NmBK1EVDR3uqdj6Y15Io"
     },
     {
       "added_at": "2026-07-31 03:00:09",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-07-31 03:00:09",
       "album": {
+        "name": "Ecos do Desejo",
+        "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "duration_ms": 146538,
+      "name": "Noites de Neon",
+      "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
+    },
+    {
+      "added_at": "2026-07-31 03:00:09",
+      "album": {
         "name": "Caos e Poesia",
         "url": "https://open.spotify.com/album/4m5nhpMytU1z7QRb0GpUrD"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 145927,
       "name": "Caos e Poesia",
       "url": "https://open.spotify.com/track/4svS7oKMhBXNZKriEdqvVo"
-    },
-    {
-      "added_at": "2026-07-31 03:00:09",
-      "album": {
-        "name": "Ecos do Desejo",
-        "url": "https://open.spotify.com/album/1D3f4CkQe0gklHKKxffj9C"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
-        }
-      ],
-      "duration_ms": 146538,
-      "name": "Noites de Neon",
-      "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
     },
     {
       "added_at": "2026-07-31 03:00:09",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-07-31 03:00:09",
       "album": {
+        "name": "Bem Bem",
+        "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
+      },
+      "artists": [
+        {
+          "name": "Mariana Coelho",
+          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
+        }
+      ],
+      "duration_ms": 136089,
+      "name": "Bem Bem",
+      "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
+    },
+    {
+      "added_at": "2026-07-31 03:00:09",
+      "album": {
         "name": "MINA",
         "url": "https://open.spotify.com/album/7cxjGHFf1LdQyGE4JqzW1g"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 164000,
       "name": "MINA",
       "url": "https://open.spotify.com/track/6bms1AEgjJDu6TQaSTAEcR"
-    },
-    {
-      "added_at": "2026-07-31 03:00:09",
-      "album": {
-        "name": "Bem Bem",
-        "url": "https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l"
-      },
-      "artists": [
-        {
-          "name": "Mariana Coelho",
-          "url": "https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv"
-        }
-      ],
-      "duration_ms": 136089,
-      "name": "Bem Bem",
-      "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
     },
     {
       "added_at": "2026-07-31 03:00:09",

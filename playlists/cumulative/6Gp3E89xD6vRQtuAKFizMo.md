@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-572 songs - 1 day 3 hr 20 min
+574 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Obsession](https://open.spotify.com/track/6pzwST348GM51L1zoZ65Or) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Obsession](https://open.spotify.com/album/2G8oQgv9JwmFvjJL20OK38) | 2:26 | 2024-06-07 | 2025-04-27 |
 | [Ocean](https://open.spotify.com/track/483ZlZtG4y2pyysb7FMYzZ) | [BRKLYN](https://open.spotify.com/artist/0sSB3cIRBuBGa1UXLsQtaw) | [Ocean](https://open.spotify.com/album/5T5amvYXnuiNKG47VLuMtP) | 2:55 | 2023-04-21 | 2025-04-27 |
 | [Ocean Avenue](https://open.spotify.com/track/7MmpWpWAHFYGBnm2NkOR7E) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/2ZCysCyAAnuFMC8xsaKQ0o) | 3:46 | 2023-12-15 | 2025-04-27 |
+| [Oh Lord \(feat\. David LeSal\)](https://open.spotify.com/track/18Glj6vDU6P3iPbPQVeCoY) | [Mauro Venti](https://open.spotify.com/artist/1EYRcS75munXqQbWsZ0HVd), [David LeSal](https://open.spotify.com/artist/1KB7YVSkBmXdNoOJEMkDAa) | [Oh Lord \(feat\. David LeSal\)](https://open.spotify.com/album/1UrQIcRqmSQkz7m540ItJ1) | 2:53 | 2026-07-31 |  |
 | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO) | 2:59 | 2023-04-07 | 2025-04-27 |
 | [On & On](https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv) | [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW) | [On & On](https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf) | 2:20 | 2023-04-28 | 2025-04-27 |
 | [On 2 Me](https://open.spotify.com/track/1R0TnAJuVKxFhxug65zOQL) | [High Zombie](https://open.spotify.com/artist/3BJQYwsCdSNt0eD4XUu5DE) | [On 2 Me](https://open.spotify.com/album/3j4mZqCGBv6dxpIoalM4gP) | 2:30 | 2022-05-06 | 2022-10-08 |
@@ -536,6 +537,7 @@
 | [Trust](https://open.spotify.com/track/50vMrcUtcsnf0TuLjWmy9N) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Trust](https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo) | 3:14 | 2023-07-28 | 2023-12-14 |
 | [Trust \- VIP Mix](https://open.spotify.com/track/5Kwy6gGIkpAyBDqmSokJOx) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Trust](https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo) | 2:37 | 2023-07-28 | 2025-04-27 |
 | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/track/4Aps6ZUREBf9WKAOhfjDS0) | [Bok Nero](https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Tuxedo \(feat\. 24hrs\)](https://open.spotify.com/album/3fRXsweRm7Z2fVxlTzM4tk) | 2:46 | 2022-09-30 | 2023-03-11 |
+| [Unbreakable \(feat\. Nathan Conway\)](https://open.spotify.com/track/0mgJCnoKRt6QTRdSdyUpEk) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Nathan Conway](https://open.spotify.com/artist/6Y7bn7J48THvJwdt2GUhSo) | [Unbreakable \(feat\. Nathan Conway\)](https://open.spotify.com/album/75FlILM42TWK0t64QNGRF6) | 2:42 | 2026-07-31 |  |
 | [Unbroken](https://open.spotify.com/track/7Dmucn3yhrWeSuaCYoR03n) | [Cabuizee](https://open.spotify.com/artist/60v1WXUYLa0WGarCGy7hF4) | [Unbroken](https://open.spotify.com/album/74IUD0zluNFVCdHgSNtFS8) | 3:15 | 2022-11-08 | 2023-02-11 |
 | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/track/317fuhJ0JKXQetp2ArD8L9) | [Kamas](https://open.spotify.com/artist/0HwWTf9vdcVii8ly6BP6M2), [RENN](https://open.spotify.com/artist/5avSbzlS5gKrlQ4uc718jA), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Under Pressure \(feat\. Dani King\)](https://open.spotify.com/album/4oz3RAbrJPvTB4B8dv3CFD) | 3:52 | 2022-06-24 | 2022-11-19 |
 | [Underneath \(feat\. Linney\)](https://open.spotify.com/track/5ENZmalv3TTuZyZpihKyg1) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Better Together](https://open.spotify.com/album/1Ap4fL7irXlphPx9XIMkwq) | 2:41 | 2022-10-07 | 2023-03-11 |

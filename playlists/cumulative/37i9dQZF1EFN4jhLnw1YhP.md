@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-122 songs - 7 hr 24 min
+123 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Breakthrough](https://open.spotify.com/track/7rFOM109tKPyHh0cw85g3X) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Midnight Mass](https://open.spotify.com/album/6Fphuv16AxAhxJcUYPWzV9) | 4:13 | 2026-02-20 |  |
 | [Broken Hearted](https://open.spotify.com/track/6cmYMueidIP3Q2vLDrJWrv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Broken Hearted](https://open.spotify.com/album/4YzBqD277ZTx7qtXI1wwSp) | 3:32 | 2026-02-20 |  |
 | [Broken Hearted \- St\. Mary Remix](https://open.spotify.com/track/14Vt19DF0ItAJLU9TiiiIL) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727), [St\. Mary](https://open.spotify.com/artist/053q2D9p8VzxaIzwGZhCUM) | [Broken Hearted \(Remixes\)](https://open.spotify.com/album/5Bn9OQ33vXePIJv20o95QG) | 3:28 | 2026-07-14 |  |
-| [Calling Out](https://open.spotify.com/track/6jeHmqNOkITpU25v4uahii) | [PRAANA](https://open.spotify.com/artist/7rgcAsQrCXfkQ4c7T0qF4n) | [Calling Out](https://open.spotify.com/album/43X5n2Zqrum2RdsFshHVm1) | 4:33 | 2026-02-20 |  |
+| [Calling Out](https://open.spotify.com/track/6jeHmqNOkITpU25v4uahii) | [PRAANA](https://open.spotify.com/artist/7rgcAsQrCXfkQ4c7T0qF4n) | [Calling Out](https://open.spotify.com/album/43X5n2Zqrum2RdsFshHVm1) | 4:33 | 2026-02-20 | 2026-08-01 |
+| [Calling Out](https://open.spotify.com/track/7mbm0uKvbtPlQL6museflJ) | [PRAANA](https://open.spotify.com/artist/7rgcAsQrCXfkQ4c7T0qF4n) | [Insight Out](https://open.spotify.com/album/0NHMjpkRhje8WdtVWL4LHz) | 4:33 | 2026-07-31 |  |
 | [Caroline](https://open.spotify.com/track/58VIZAfVytKR9Cxdd7f64z) | [Symmetrik](https://open.spotify.com/artist/3tpgt8THdKcWUuTgmBMhwm) | [Caroline](https://open.spotify.com/album/3aPx500pSxncQWrB3xZcfp) | 3:36 | 2025-10-27 |  |
 | [City Lights](https://open.spotify.com/track/2oPWtv5BKxkXb19PkZrbzx) | [Sebastian Carter](https://open.spotify.com/artist/6VB3ao7J6c4iRWSCraKTac), [Julia Church](https://open.spotify.com/artist/6RoHC60P1dkkePmwTGgDSM) | [City Lights](https://open.spotify.com/album/7JvX151iNKNWj7Oka8LmFs) | 3:29 | 2026-02-20 |  |
 | [Clementine](https://open.spotify.com/track/377JgyibsyYZ1NEF9aa1ZZ) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Clementine](https://open.spotify.com/album/4oVWiqq2lxpWd35jMWPIyG) | 4:05 | 2025-10-27 |  |

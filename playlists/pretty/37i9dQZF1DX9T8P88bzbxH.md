@@ -1,32 +1,42 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain](/playlists/plain/37i9dQZF1DX9T8P88bzbxH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9T8P88bzbxH)
 
-### [On Tour Singapore: natori](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
+### [On Tour Singapore: Ink Waruntorn, SERIOUS BACON](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> One night only\. Cover: natori
+> One night only\. Cover: Ink Waruntorn, SERIOUS BACON
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,792 likes - 20 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,764 likes - 30 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [EAT](https://open.spotify.com/track/1gQwZBMjXtZx1C3ApGaHRT) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [深海](https://open.spotify.com/album/5bPtxy1zsivShMZKJVrzfF) | 3:45 |
-| 2 | [セレナーデ](https://open.spotify.com/track/0CWAQlHsvfqcKJVVz9up2R) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [深海](https://open.spotify.com/album/5bPtxy1zsivShMZKJVrzfF) | 3:39 |
-| 3 | [エウレカ](https://open.spotify.com/track/571xKvkNMU3mAta8Vs0es7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [劇場](https://open.spotify.com/album/2bazvx0V9FTIKmJ9biVQtc) | 3:04 |
-| 4 | [Catherine](https://open.spotify.com/track/26Tx3A6jG7XdsvtiK41yuz) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [セレナーデ](https://open.spotify.com/album/1ymN40KDBnOELkKAXoGNLG) | 2:30 |
-| 5 | [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 |
-| 6 | [FLASH BACK](https://open.spotify.com/track/6BzZJ8yhq3YYkz2DnTczH1) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [深海](https://open.spotify.com/album/5bPtxy1zsivShMZKJVrzfF) | 3:05 |
-| 7 | [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 |
-| 8 | [プロポーズ](https://open.spotify.com/track/2VmWOZiKDnLq373THopgWC) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [プロポーズ](https://open.spotify.com/album/6onUW6AACVL5Fl4HTGmLuq) | 2:58 |
-| 9 | [恋する季節](https://open.spotify.com/track/5yWJmYKAOobdQAmA3NlPX0) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [深海](https://open.spotify.com/album/5bPtxy1zsivShMZKJVrzfF) | 4:19 |
-| 10 | [バースデイ・ソング](https://open.spotify.com/track/0F5dZ7fvjTsDLnw130398b) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [深海](https://open.spotify.com/album/5bPtxy1zsivShMZKJVrzfF) | 4:10 |
-| 11 | [Puppet](https://open.spotify.com/track/2Ajohj72RQn88gA37KbnN8) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Puppet](https://open.spotify.com/album/1ERh69jnQLIhxEj1Apzk09) | 3:39 |
-| 12 | [リビングデッド](https://open.spotify.com/track/1LmK6UpYjc3SQxAKygv82w) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [セレナーデ](https://open.spotify.com/album/1ymN40KDBnOELkKAXoGNLG) | 2:29 |
-| 13 | [非常口 逃げてみた](https://open.spotify.com/track/3iPifjgO9OcLAcGC55lIKZ) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [非常口 逃げてみた](https://open.spotify.com/album/59TRLFMumqYTvUagnwi6Zh) | 3:03 |
-| 14 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
-| 15 | [IN\_MY\_HEAD](https://open.spotify.com/track/0goYIHlWef73ZG6lNlrJ15) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [IN\_MY\_HEAD](https://open.spotify.com/album/2mtOtzHRY35jKmmfK3AU9i) | 3:27 |
-| 16 | [ヘルプミーテイクミー](https://open.spotify.com/track/5icM3dAxgL4z5siCFC93qj) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [深海](https://open.spotify.com/album/5bPtxy1zsivShMZKJVrzfF) | 2:44 |
-| 17 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |
-| 18 | [ポルターガイスト](https://open.spotify.com/track/0qfSmp12gevzvvD3FqaBMP) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [ポルターガイスト](https://open.spotify.com/album/7GNI6jmeP6Zu4LmyLisoE6) | 3:11 |
-| 19 | [Sleepwalk](https://open.spotify.com/track/5WHq3vcWRRb9xeQKgv7lAi) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Sleepwalk](https://open.spotify.com/album/44MMBtUPt8JVNAZMdfPecJ) | 2:27 |
-| 20 | [帰りの会](https://open.spotify.com/track/5lKp8T4Ij0FbBLaFMB6rIW) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [深海](https://open.spotify.com/album/5bPtxy1zsivShMZKJVrzfF) | 3:48 |
+| 1 | [ลบไม่ได้ช่วยให้ลืม \(LIVE SESSION\)](https://open.spotify.com/track/1LHSjq4rMOXJ2ldQ1uUDYw) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ลบไม่ได้ช่วยให้ลืม \(LIVE SESSION\)](https://open.spotify.com/album/5sr2RxgnGw9rPhtV5fyFzA) | 4:36 |
+| 2 | [สักวันฉันจะหายดี](https://open.spotify.com/track/1us1N0XEToufNnmzyhJPm5) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [BOLD](https://open.spotify.com/album/21tzslgWGyfVH7JP9o5x3n) | 3:48 |
+| 3 | [คุณจะชอบผมไหม \(Your Type?\)](https://open.spotify.com/track/7ApNdlOBsjvmG4IiRZEpuP) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [คุณจะชอบผมไหม \(Your Type?\)](https://open.spotify.com/album/4QfuaNmBAE4PTmzBZWQmfB) | 3:08 |
+| 4 | [Greenlight](https://open.spotify.com/track/46nHhnlaQK5j6E7RxMZb3L) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [HOMETOWN](https://open.spotify.com/album/4d7Hq9aDZWfrKMALi77ZRJ) | 2:16 |
+| 5 | [ปรนัย](https://open.spotify.com/track/1keLw7k8AHchStVnMcL6pA) | [Wan Thanakrit](https://open.spotify.com/artist/4IYocudwewhFDpAErwolWM), [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ปรนัย](https://open.spotify.com/album/5T4hoL7MkoPclZXcPQlgRr) | 4:08 |
+| 6 | [ลบไม่ได้ช่วยให้ลืม](https://open.spotify.com/track/5pl8qATlLaOruVevtkW3QR) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI) | 3:44 |
+| 7 | [จำไว้](https://open.spotify.com/track/4UbYIYA0YmoSfkD7o9fbXJ) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [จำไว้](https://open.spotify.com/album/71lNvoJeFSc0bAKf5GhNrx) | 4:01 |
+| 8 | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/track/25Txtd7KFm662ndZQroeNN) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [BEST FRIEND OF THE YEAR](https://open.spotify.com/album/5ZDlwF6TpgO0MQWFVjDeGs) | 3:05 |
+| 9 | [ถ้าเธอรักใครคนหนึ่ง \- เพลงประกอบภาพยนตร์ "บุพเพสันนิวาส 2"](https://open.spotify.com/track/2dUp7L6A8Lad0gEP5Cne5Q) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ถ้าเธอรักใครคนหนึ่ง \(เพลงประกอบภาพยนตร์ "บุพเพสันนิวาส 2"\)](https://open.spotify.com/album/3WQT0leGnZM2Y9Vngk3LSk) | 4:06 |
+| 10 | [พบรัก](https://open.spotify.com/track/5rGILJJ2fXJIVCZ88fN1ez) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [BOLD](https://open.spotify.com/album/21tzslgWGyfVH7JP9o5x3n) | 3:54 |
+| 11 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/5LpOs0rhNMwTPKl86QsfZl) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [Are You Serious?](https://open.spotify.com/album/6q0pwIOuL2wTPRnW4HfLwY) | 3:39 |
+| 12 | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/track/3yumkDAlVC28NvCK0r8zP5) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [BEST FRIEND OF THE YEAR](https://open.spotify.com/album/5ZDlwF6TpgO0MQWFVjDeGs) | 3:27 |
+| 13 | [พระเอก \(Prince Charming\)](https://open.spotify.com/track/4LA05aGTan7ABeAYaLIL0l) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [พระเอก \(Prince Charming\)](https://open.spotify.com/album/5Fvwxjs1m22hV0qkgMmrY9) | 3:49 |
+| 14 | [ยื่นใบสมัคร \(Heart Application\)](https://open.spotify.com/track/4EyQv6oJtloxRBS1ChYLY1) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ยื่นใบสมัคร \(Heart Application\)](https://open.spotify.com/album/5avNi0q4TPgBnshJ2juHHV) | 2:47 |
+| 15 | [เหงา เหงา \(Insomnia\)](https://open.spotify.com/track/2DuJ5BNd0dYT2Un5MyW4cT) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เหงา เหงา \(Insomnia\)](https://open.spotify.com/album/729AMSy8S2eReoEA2FYCLZ) | 4:52 |
+| 16 | [โกหกเธอทั้งนั้น \(Pinocchio\)](https://open.spotify.com/track/3W71VZVjyKw3pw25e2MXWq) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [BEST FRIEND OF THE YEAR](https://open.spotify.com/album/5ZDlwF6TpgO0MQWFVjDeGs) | 4:10 |
+| 17 | [วังวน\(BOXX FROM HOME\)](https://open.spotify.com/track/4Fp5oBro0qCmjc3PUBukOg) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [วังวน\(BOXX FROM HOME\)](https://open.spotify.com/album/5pILA4SNvZ2cTNIck6rm2i) | 4:40 |
+| 18 | [ไม่พิเศษ](https://open.spotify.com/track/0m3A7UAA6TGXCd26hjR7li) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [Are You Serious?](https://open.spotify.com/album/6q0pwIOuL2wTPRnW4HfLwY) | 3:28 |
+| 19 | [คิดถึงเธอกลางวัน ฝันถึงเธอกลางคืน](https://open.spotify.com/track/3kW9fmKoEQnD8zhu3JKffk) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [คิดถึงเธอกลางวัน ฝันถึงเธอกลางคืน](https://open.spotify.com/album/6EYbWWoj2fCWsgL0XWXWRt) | 3:43 |
+| 20 | [แฟนฉัน \(Love Ads\)](https://open.spotify.com/track/4iG13VrO97YM85IwyeJOTB) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [BEST FRIEND OF THE YEAR](https://open.spotify.com/album/5ZDlwF6TpgO0MQWFVjDeGs) | 2:52 |
+| 21 | [ฉันต้องคิดถึงเธอแบบไหน \(Cloudy\)](https://open.spotify.com/track/11APF4YlwtMOLnZFtzlT5I) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ฉันต้องคิดถึงเธอแบบไหน \(Cloudy\)](https://open.spotify.com/album/5yEMhdP18TzDsQzIB5rU8K) | 4:33 |
+| 22 | [1001 \(You're Lovely\)](https://open.spotify.com/track/5yWLhdBXw95yIpHYpP4dOm) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [1001 \(You're Lovely\)](https://open.spotify.com/album/0WS6aJRaoxwV6YItdSqJr8) | 3:14 |
+| 23 | [ไม่อยากฟัง](https://open.spotify.com/track/0qsbc4GvMp1D9kcPAXtZoZ) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [Are You Serious?](https://open.spotify.com/album/6q0pwIOuL2wTPRnW4HfLwY) | 4:38 |
+| 24 | [เกี่ยวกันไหม\(You?\)](https://open.spotify.com/track/6f2AUbU53eUILBCOGS1wvI) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เกี่ยวกันไหม\(You?\)](https://open.spotify.com/album/3LXzM0BkU5MQvyyPyZUI0a) | 4:13 |
+| 25 | [กี่ล้านดวงดาว \(From "กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/track/7LjJ6i2eyDEFwPHgr5q0dy) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [กี่ล้านดวงดาว \(From "กี่หมื่นฟ้า Your Sky Series"\)](https://open.spotify.com/album/3O8dbbspauX5NLajUkrfr4) | 3:48 |
+| 26 | [เมื่อได้พบเธอ](https://open.spotify.com/track/5FYxzI2IqHq12NCwVToqjS) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เมื่อได้พบเธอ](https://open.spotify.com/album/0NkWqn8mAVVHsmUdpenuO1) | 3:31 |
+| 27 | [ฝากใจ](https://open.spotify.com/track/75ACbvWG7cCsdnFxToJjqM) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [BOLD](https://open.spotify.com/album/21tzslgWGyfVH7JP9o5x3n) | 4:19 |
+| 28 | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/album/031mYAdFkMANelKfQYBG1p) | 3:27 |
+| 29 | [ดีใจด้วยนะ](https://open.spotify.com/track/4NThLQDTayuRMmulVLAX8T) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI) | 4:39 |
+| 30 | [สายตาหลอกกันไม่ได้](https://open.spotify.com/track/6VLp0TwZt3N7NNmaKJIVos) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [INK](https://open.spotify.com/album/0JNJWgPz8qDH61v2dgWsyI) | 3:08 |
 
-Snapshot ID: `AAAAAGKUqxturwVGjtjwIQNDk1L0jYGw`
+Snapshot ID: `AAAAAD+a7FFKY4EyBcyBQJnHtq3JmfaF`

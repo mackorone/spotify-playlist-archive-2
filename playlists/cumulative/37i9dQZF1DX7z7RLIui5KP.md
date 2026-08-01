@@ -4,7 +4,7 @@
 
 > Proudly Kenyan gems made for the entire family\. Cover: Otile Brown
 
-311 songs - 18 hr 13 min
+312 songs - 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Conquer](https://open.spotify.com/track/1y73mNFptuKyu59QuQegHx) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Saint Sinner](https://open.spotify.com/album/6S32d9VMvOGlV9pjk7m300) | 3:36 | 2026-07-25 | 2026-07-31 |
 | [Crash Out](https://open.spotify.com/track/40EchY6PKUPrt14nEdmKXA) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Zaituni Wambui](https://open.spotify.com/artist/70MvDj2d6WZpoIyRBHnXna) | [Crash Out](https://open.spotify.com/album/1AEOnjNRJMursjuMQ4o28C) | 3:39 | 2025-10-23 | 2026-02-13 |
 | [Dance Samawaah!](https://open.spotify.com/track/0NqqZIDStxP5bHOzAt7ne9) | [Collo Blue](https://open.spotify.com/artist/36JUu7ydl5Is9601ZhpLw3), [NDOVU KUU](https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP) | [Dance Samawaah!](https://open.spotify.com/album/3PDWY1mBbszTEyYmLKIlFq) | 3:09 | 2026-05-14 |  |
+| [Dance With You](https://open.spotify.com/track/1FlYF71tkG6UeMSPPBgiVQ) | [TLVSN](https://open.spotify.com/artist/6PWktnw07ge9NXQCBYxP74) | [Wingu La Tisa](https://open.spotify.com/album/3tJtIfoARTp9irgPMQJ4oq) | 2:42 | 2026-07-31 |  |
 | [Dawa](https://open.spotify.com/track/08e888zImNSTqNrv6muOWM) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [Dr\. Flow Will See You Now](https://open.spotify.com/album/7yJbIkh03o7NxlOoYeZ6YX) | 3:11 | 2025-10-23 | 2025-12-19 |
 | [Dear Mathilde](https://open.spotify.com/track/6ZWi90BBHvYUQ2rVfuNOlf) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd) | [She](https://open.spotify.com/album/0SQ3TIruqm1fnTgdTseDVm) | 1:15 | 2026-07-25 | 2026-07-31 |
 | [Diani](https://open.spotify.com/track/18toFZCoROJwVUj9MJ1xnd) | [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [Andyah](https://open.spotify.com/artist/0TEFK09eFLqYTE2fj7xUtX), [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H) | [Diani](https://open.spotify.com/album/40CC1N5WnbICW35CqdTEuu) | 3:00 | 2026-07-25 | 2026-07-31 |
@@ -161,7 +162,7 @@
 | [Mangware](https://open.spotify.com/track/3aiwhTT14AcGxTAmw42GBm) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Mangware](https://open.spotify.com/album/2khrWO6bJ7SgSy7sL1oq43) | 3:43 | 2025-10-23 | 2026-02-27 |
 | [Manifest](https://open.spotify.com/track/2YqkqqcLITTtvdNHKTcona) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Manifest](https://open.spotify.com/album/6qzj4BgNHoOTdMgTvjEDrm) | 2:49 | 2026-02-12 | 2026-06-12 |
 | [ManyoPesa](https://open.spotify.com/track/0CE53lBoWtLoHkn5v0hSTK) | [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Fweny \(Revelations\)](https://open.spotify.com/album/0S847GxnhGNoxKa7rhGHyf) | 3:40 | 2026-07-15 | 2026-07-26 |
-| [Mapenzi Yananiua](https://open.spotify.com/track/7kpOMtciPq0LqImbFnBWeN) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [Mapenzi Yananiua](https://open.spotify.com/album/4JfEwxBa6a0XF1TugUSXMw) | 2:19 | 2026-04-09 |  |
+| [Mapenzi Yananiua](https://open.spotify.com/track/7kpOMtciPq0LqImbFnBWeN) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [Mapenzi Yananiua](https://open.spotify.com/album/4JfEwxBa6a0XF1TugUSXMw) | 2:19 | 2026-04-09 | 2026-08-01 |
 | [Massage](https://open.spotify.com/track/21TYyo4SkqMcBMdGwRd2JE) | [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Massage](https://open.spotify.com/album/2WKXzYoy2LgVc0IKi1wwxR) | 3:01 | 2025-10-30 | 2026-03-20 |
 | [Matamu](https://open.spotify.com/track/1lT4qy0PMeNyKmVjvXVdzj) | [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Matamu](https://open.spotify.com/album/0gWDq2SPuK9Ta3jU6o8dzB) | 3:05 | 2026-02-19 | 2026-05-29 |
 | [MAYOO](https://open.spotify.com/track/0UGIdREkw9Xn2ZoO5V2YAs) | [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi) | [Mayoo](https://open.spotify.com/album/23lRRb60jedC86NHbLHWnp) | 2:42 | 2025-10-23 | 2026-04-17 |

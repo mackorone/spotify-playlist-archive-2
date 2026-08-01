@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1249326,
+  "num_followers": 1249410,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAABWM7h7iD+bk3VMxb3eOndL",
+  "snapshot_id": "amqUAAAAAAAFc7lHbuiHzuTu05zd431d",
   "tracks": [
     {
       "added_at": null,
@@ -947,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cracker Island (Deluxe)",
-        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
+        "name": "Doncamatic (feat. Daley) [The Joker Remix]",
+        "url": "https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W"
       },
       "artists": [
         {
@@ -956,13 +956,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+          "name": "Daley",
+          "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
         }
       ],
-      "duration_ms": 150316,
-      "name": "Controllah (feat. MC Bin Laden)",
-      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
+      "duration_ms": 202066,
+      "name": "Doncamatic (feat. Daley)",
+      "url": "https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc"
     },
     {
       "added_at": null,
@@ -983,8 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doncamatic (feat. Daley) [The Joker Remix]",
-        "url": "https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W"
+        "name": "Cracker Island (Deluxe)",
+        "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
       },
       "artists": [
         {
@@ -992,13 +992,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Daley",
-          "url": "https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw"
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
         }
       ],
-      "duration_ms": 202066,
-      "name": "Doncamatic (feat. Daley)",
-      "url": "https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc"
+      "duration_ms": 150316,
+      "name": "Controllah (feat. MC Bin Laden)",
+      "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
     },
     {
       "added_at": null,

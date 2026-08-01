@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Sunnan
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,473 likes - 323 songs - 18 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,481 likes - 323 songs - 18 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

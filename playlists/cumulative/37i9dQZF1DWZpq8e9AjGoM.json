@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "All Along",
+        "url": "https://open.spotify.com/album/2KLPYpqSWtC08NEICkbyI6"
+      },
+      "artists": [
+        {
+          "name": "Jasper Avelline",
+          "url": "https://open.spotify.com/artist/4pPV1eWRWDUYofcp8oxQg1"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143750,
+      "name": "All Along",
+      "url": "https://open.spotify.com/track/2x8YxtDfUxW5vnIi4uOPe6"
+    },
+    {
+      "album": {
         "name": "Time Line",
         "url": "https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns"
       },

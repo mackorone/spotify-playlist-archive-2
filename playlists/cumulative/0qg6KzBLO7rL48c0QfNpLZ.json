@@ -2725,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Believe in me",
+        "url": "https://open.spotify.com/album/4hduHCNgy8QdSOHNxcEKqm"
+      },
+      "artists": [
+        {
+          "name": "Prinsblunder",
+          "url": "https://open.spotify.com/artist/4kUgO2SsR7MxfJ2MZhJcmV"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128709,
+      "name": "Believe in me",
+      "url": "https://open.spotify.com/track/017xj7r0aRQeouVZx52bh8"
+    },
+    {
+      "album": {
         "name": "Bipolar Love",
         "url": "https://open.spotify.com/album/2FHLlMC5oWr38wDLWU6nAY"
       },
@@ -4330,6 +4348,24 @@
       "duration_ms": 228196,
       "name": "Can You See Me",
       "url": "https://open.spotify.com/track/5AjOaLKEqowExktKdWE5kf"
+    },
+    {
+      "album": {
+        "name": "Can't Go Back",
+        "url": "https://open.spotify.com/album/3q1Tp3RSa28Dqo25fonLJo"
+      },
+      "artists": [
+        {
+          "name": "Lust.",
+          "url": "https://open.spotify.com/artist/00D4DKXe3TdHJh6lzetwoi"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129836,
+      "name": "Can't Go Back",
+      "url": "https://open.spotify.com/track/2efK9oBgLgRN4cAU2EIBJA"
     },
     {
       "album": {
@@ -8232,7 +8268,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 137583,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/29mFDGIEr6HmUyewk263Rr"
@@ -8378,6 +8414,24 @@
       "duration_ms": 121479,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/0oaYOokgtODzaWBfFYiXVH"
+    },
+    {
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/4BE1jxmkyl8p1xrmtch8RD"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149291,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/7KOISZJjFNOWHCSnxgKPJQ"
     },
     {
       "album": {
@@ -8848,7 +8902,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 184000,
       "name": "Every Moment",
       "url": "https://open.spotify.com/track/498iIbmOr3kWMEEoYUpAh2"
@@ -10352,6 +10406,24 @@
       "duration_ms": 156864,
       "name": "Fitting Mainstream",
       "url": "https://open.spotify.com/track/4XVqH7oROREz47JbUnHkQz"
+    },
+    {
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/7mKKytVItIMamXke7vJFMu"
+      },
+      "artists": [
+        {
+          "name": "Areivi",
+          "url": "https://open.spotify.com/artist/462zTGdMkBjxzm3Bjo3ZeA"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160353,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2ClJhucsuIcJf4WXtANL5x"
     },
     {
       "album": {
@@ -13408,6 +13480,24 @@
       "duration_ms": 160071,
       "name": "Hold This Memory",
       "url": "https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI"
+    },
+    {
+      "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/2P7ZI57drO74DsL7eW9NEp"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bay",
+          "url": "https://open.spotify.com/artist/2h6hZmff7QEqHL9q13fWqT"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173809,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/0OMQrlfq3A2mhXgtouOYuE"
     },
     {
       "album": {
@@ -17758,7 +17848,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 188610,
       "name": "Listen to Me",
       "url": "https://open.spotify.com/track/2vCiNcXV1rnrgjsvYLjK4h"
@@ -20838,7 +20928,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 132892,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/43a1O7HFonXm6mZtptmFFA"
@@ -27325,6 +27415,32 @@
     },
     {
       "album": {
+        "name": "Spanish (Mi Amor)",
+        "url": "https://open.spotify.com/album/6ex1yVadNiarW4x2QXGJxq"
+      },
+      "artists": [
+        {
+          "name": "Mingue",
+          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
+        },
+        {
+          "name": "Feeve",
+          "url": "https://open.spotify.com/artist/4rrjE7dP1gP5c8py2g4YFv"
+        },
+        {
+          "name": "Cinema Kids",
+          "url": "https://open.spotify.com/artist/1AvT4S6ubENFr4YwosnQfs"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140125,
+      "name": "Spanish (Mi Amor)",
+      "url": "https://open.spotify.com/track/65XUv6OMHOzTCVst3mPebm"
+    },
+    {
+      "album": {
         "name": "Spinning",
         "url": "https://open.spotify.com/album/5svtHJvYm1FpDEMA8anIc3"
       },
@@ -27600,6 +27716,28 @@
       "duration_ms": 172363,
       "name": "Stay A While",
       "url": "https://open.spotify.com/track/097uFR1rOtkgo00jlK2KD4"
+    },
+    {
+      "album": {
+        "name": "Stay Close",
+        "url": "https://open.spotify.com/album/2Xk4OG6hNdNZ0gOK7DPOXh"
+      },
+      "artists": [
+        {
+          "name": "hexale",
+          "url": "https://open.spotify.com/artist/02tDzKNttstBAPyXigCVg8"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/4JCSczHl9GJYb2CJfG4xvx"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167796,
+      "name": "Stay Close",
+      "url": "https://open.spotify.com/track/5Zzhd3I7GcUcx3ogrtn1is"
     },
     {
       "album": {
@@ -28082,6 +28220,32 @@
       "duration_ms": 219043,
       "name": "Sugar (feat. Francesco Yates)",
       "url": "https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w"
+    },
+    {
+      "album": {
+        "name": "Summer Blues",
+        "url": "https://open.spotify.com/album/32R4BniJ4DSmiBK9lU6jlo"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Edmundo Silva",
+          "url": "https://open.spotify.com/artist/3Bx5tD0QE0gLajCrI5k3UN"
+        },
+        {
+          "name": "SGNLS",
+          "url": "https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127142,
+      "name": "Summer Blues",
+      "url": "https://open.spotify.com/track/4nBDODxSmAafPUPIdBRkih"
     },
     {
       "album": {
@@ -29724,7 +29888,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 142956,
       "name": "The Light",
       "url": "https://open.spotify.com/track/5tqBlFMWgjNp2k0rhifrcS"
@@ -32613,6 +32777,24 @@
     },
     {
       "album": {
+        "name": "What You Said",
+        "url": "https://open.spotify.com/album/2Hxz7VVlxe8jIFtQ4q6mvd"
+      },
+      "artists": [
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122189,
+      "name": "What You Said",
+      "url": "https://open.spotify.com/track/3twfY1tCRd1uPwDNS6zG3C"
+    },
+    {
+      "album": {
         "name": "What You Want (My Love)",
         "url": "https://open.spotify.com/album/3Ys286U703QXIZboOYPsPp"
       },
@@ -33852,7 +34034,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 203346,
       "name": "you make it beautiful",
       "url": "https://open.spotify.com/track/5ITvBWI1ZIDDCtL1he3TOE"
@@ -33900,6 +34082,24 @@
       "duration_ms": 145161,
       "name": "You Should Go",
       "url": "https://open.spotify.com/track/1rH7InoxZIhiv7vXWKGILj"
+    },
+    {
+      "album": {
+        "name": "You Were Right",
+        "url": "https://open.spotify.com/album/1vVXsh1AttjqburZ49Vso4"
+      },
+      "artists": [
+        {
+          "name": "dusk:dawn",
+          "url": "https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147697,
+      "name": "You Were Right",
+      "url": "https://open.spotify.com/track/75NKuyYLPea7w30IOAoOeN"
     },
     {
       "album": {

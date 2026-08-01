@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 471 likes - 302 songs - 15 hr 35 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 472 likes - 307 songs - 15 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -310,5 +310,10 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 300 | [Out of Love](https://open.spotify.com/track/1lOmZOmTOMEHCDMeLjWonq) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd) | [Out of Love](https://open.spotify.com/album/0SPQ2rU3A1caU3TZEGakAq) | 4:04 |
 | 301 | [Reset](https://open.spotify.com/track/3LzAKSVsahHNlCQ0huI9Nh) | [yunqxe](https://open.spotify.com/artist/0NJYBkIsHqrsbhnEwye6K9) | [rewind](https://open.spotify.com/album/5rW4efG2boIPw4JNblBbXj) | 2:54 |
 | 302 | [Chissa se](https://open.spotify.com/track/4H4IgJlmBtimq7OsJdEr5E) | [Double V](https://open.spotify.com/artist/5HsC7pLTz4L8fw7ZYabOzP) | [Chissa se](https://open.spotify.com/album/0ziNCa6V2Cew4AcFcGyi0H) | 3:35 |
+| 303 | [B3](https://open.spotify.com/track/5MqKLA5YI2Sm811sPovdTe) | [BME KillerKassMoula](https://open.spotify.com/artist/7d5wq6JdSnicR1jtVAua5M) | [B3](https://open.spotify.com/album/1DR55qTnExwgBiBQDBvh4p) | 2:23 |
+| 304 | [Dirty Sink](https://open.spotify.com/track/3SslNAbTorTtTeSG40nOTv) | [Cannot Provide Reason](https://open.spotify.com/artist/09I7aRLSR0C8DCgEPAZlwp) | [Dirty Sink](https://open.spotify.com/album/2YGahr9SjyrZIuMb6m5l2u) | 3:05 |
+| 305 | [Out of Love](https://open.spotify.com/track/1lOmZOmTOMEHCDMeLjWonq) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd) | [Out of Love](https://open.spotify.com/album/0SPQ2rU3A1caU3TZEGakAq) | 4:04 |
+| 306 | [La Radio](https://open.spotify.com/track/5xM3Os39N9KSh2Q7AJ4AeI) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [La Radio](https://open.spotify.com/album/66uc9Jdwz34riwvTQrI0RG) | 2:38 |
+| 307 | [La calle de la alegría](https://open.spotify.com/track/37LUExe8QBouKJhLAyeuTt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [La calle de la alegría](https://open.spotify.com/album/4WaspnySUvKQXHtGrnjIom) | 3:39 |
 
-Snapshot ID: `AAAeRwxocS6iEoOIaiMnTdr+Ie/EXSmp`
+Snapshot ID: `AAAeTM2ikwVfGjGwinTDTF0Qk1KOwuFg`

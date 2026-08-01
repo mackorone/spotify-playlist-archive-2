@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "De est\u00e1 sierra a la otra sierra se divisa \nSan Jos\u00e9. En portada: Rom\u00e1n De Los Reyes",
+  "description": "De est\u00e1 sierra a la otra sierra se divisa \nSan Jos\u00e9. En portada: Los Alegres de la Sierra",
   "name": "Pasito Sierre\u00f1o",
   "tracks": [
     {
@@ -840,6 +840,24 @@
       "duration_ms": 238160,
       "name": "Atrapado",
       "url": "https://open.spotify.com/track/3mT1npukPY0fMNMiBBgUkU"
+    },
+    {
+      "album": {
+        "name": "30 Aniversario (Remasterizado 2026)",
+        "url": "https://open.spotify.com/album/774HabpoaBjh3xJbiQg0ui"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238235,
+      "name": "Atrapado - Remasterizado 2026",
+      "url": "https://open.spotify.com/track/6snR4x4fXv7OToZCE6HJv9"
     },
     {
       "album": {
@@ -3104,7 +3122,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 169480,
       "name": "El Florero",
       "url": "https://open.spotify.com/track/6mTkdoQ3HKqTK9oGqJbiY6"
@@ -6074,7 +6092,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 162192,
       "name": "Los A\u00f1os Viejos",
       "url": "https://open.spotify.com/track/5tmvXuR1QUBM1HW4chVhWD"
@@ -7325,6 +7343,24 @@
     },
     {
       "album": {
+        "name": "30 Aniversario (Remasterizado 2026)",
+        "url": "https://open.spotify.com/album/774HabpoaBjh3xJbiQg0ui"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163630,
+      "name": "Nunca M\u00e1s Podr\u00e9 Olvidarte - Remasterizado 2026",
+      "url": "https://open.spotify.com/track/5HRl6iSki6CfCX5yFZDdb1"
+    },
+    {
+      "album": {
         "name": "O Me Voy O Te Vas",
         "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
       },
@@ -8236,7 +8272,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 176716,
       "name": "Que Casualidad",
       "url": "https://open.spotify.com/track/3UemX5xi5Qlr5TDx94fgoO"
@@ -9902,7 +9938,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 144899,
       "name": "Tres Vueltas",
       "url": "https://open.spotify.com/track/4FSYDWGB7NtJF5Bi25kv00"
@@ -10200,7 +10236,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 194192,
       "name": "Un Gato en la Oscuridad",
       "url": "https://open.spotify.com/track/4Z7XBqbtszn5NuCGW7nnCb"
@@ -10710,6 +10746,24 @@
       "duration_ms": 303306,
       "name": "Y Qu\u00e9 Me Pasa - Salsa",
       "url": "https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H"
+    },
+    {
+      "album": {
+        "name": "30 Aniversario (Remasterizado 2026)",
+        "url": "https://open.spotify.com/album/774HabpoaBjh3xJbiQg0ui"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Y Si Volviera a Nacer - Remasterizado 2026",
+      "url": "https://open.spotify.com/track/35n7NNoBN4WdSgLbIL5nvv"
     },
     {
       "album": {

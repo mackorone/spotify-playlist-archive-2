@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 ### [Electro Chill](https://open.spotify.com/playlist/37i9dQZF1DX9ND1QF5hZNF)
 
-> Evadez\-vous tout en douceur...
+> Evadez\-vous tout en douceur..\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,828 likes - 58 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,877 likes - 58 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 57 | [On The Ground](https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [On The Ground](https://open.spotify.com/album/61jk5gIaj4QKKgJxHeA8xX) | 2:14 |
 | 58 | [Fast Lane \(Dangerous\)](https://open.spotify.com/track/7n1QQqXP4MFVaAIMYlJvWs) | [Drics](https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV), [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB) | [Fast Lane \(Dangerous\)](https://open.spotify.com/album/0H4czq8CKMrBbw6Bim91gf) | 2:37 |
 
-Snapshot ID: `AAAAAMQCVgQfTX6rt6acXU1xsK3+vW3T`
+Snapshot ID: `AAAAALqccL7OZaDBpvGKczQ/8oYEqf7I`

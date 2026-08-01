@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un'estate non proprio felice \(rob in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,588 likes - 121 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,653 likes - 121 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

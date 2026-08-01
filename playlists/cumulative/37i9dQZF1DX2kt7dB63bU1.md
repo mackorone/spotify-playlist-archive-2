@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-926 songs - 2 day 16 hr 12 min
+927 songs - 2 day 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,7 +616,7 @@
 | [Pick Yourself Up](https://open.spotify.com/track/3pokAtOSCmJ2rRk7WSh6JJ) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Pick Yourself Up](https://open.spotify.com/album/4co8XzsSxMe0uCbhUBNExc) | 3:08 | 2022-06-17 | 2022-07-14 |
 | [Pick Yourself Up](https://open.spotify.com/track/6r2Lg2BMt7X8bvaUYEZZtp) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me](https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u) | 3:11 | 2020-10-09 | 2022-02-08 |
 | [Plain Gold Ring](https://open.spotify.com/track/4u7yfP1JBqbh5fT4t2tzqy) | [Cassandre McKinley](https://open.spotify.com/artist/6Z0NMJWyz9JfUtcaes6ZWa) | [Dragonfly](https://open.spotify.com/album/1GQDvCiwNb4Fb0aZx2m6Pi) | 4:27 | 2020-10-09 | 2022-02-07 |
-| [Playing Your Game](https://open.spotify.com/track/1trrXz1GCAsXwmM3pN8Mh6) | [Eric Hollaway](https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l) | [Jazzish](https://open.spotify.com/album/4j4zHxlcpgtrsSAS2AESCh) | 5:03 | 2024-06-28 |  |
+| [Playing Your Game](https://open.spotify.com/track/1trrXz1GCAsXwmM3pN8Mh6) | [Eric Hollaway](https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l) | [Jazzish](https://open.spotify.com/album/4j4zHxlcpgtrsSAS2AESCh) | 5:03 | 2024-06-28 | 2026-08-01 |
 | [Plus Fort Que Nous](https://open.spotify.com/track/2nhWlpHs20wCiti78c52dI) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Plus Fort Que Nous](https://open.spotify.com/album/5b3U4t8eiOoLiBlqGZ2Zwf) | 4:48 | 2022-04-22 | 2022-07-29 |
 | [Poor Little Rich Girl](https://open.spotify.com/track/1wTEftftOuJ0X9E297tGIw) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [A Jazz Date With Chris Connor](https://open.spotify.com/album/4RRXnSFg8fsdRfFwQVO1Uf) | 3:55 | 2020-10-09 | 2022-01-01 |
 | [Postcards from Rome](https://open.spotify.com/track/2eaBDpBKGwbcGPZEolnN1z) | [Anthony Lazaro](https://open.spotify.com/artist/4eMIZNb3qBMQXkfwCaA31H) | [Sitting at the Edge of the World](https://open.spotify.com/album/6A8eZUif0ZwC0fnqBXCMB1) | 2:15 | 2022-04-22 | 2023-02-25 |
@@ -670,6 +670,7 @@
 | [Show Me The Way To Go Home](https://open.spotify.com/track/3Pc4kc5VGyzopInhgthkpR) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Show Me The Way To Go Home](https://open.spotify.com/album/3TB8tp42bL60PNtMsWuhGM) | 3:06 | 2023-09-01 | 2025-04-05 |
 | [Si tu vois ma mère](https://open.spotify.com/track/6KnkNyo795dy3IgMoC8YMe) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Si tu vois ma mère](https://open.spotify.com/album/3CPy3IZU5eNpduzy8AZoez) | 3:57 | 2022-08-26 | 2023-02-25 |
 | [Silver Tongue](https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Silver Tongue](https://open.spotify.com/album/6kzadEspZVh3DAFv5BnulS) | 4:22 | 2024-05-24 | 2026-06-13 |
+| [Silvershoes](https://open.spotify.com/track/7ep0wpZD1S5dWhPaQeMBeY) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Silvershoes](https://open.spotify.com/album/4r5ig3cOxRwjCDLz94VEgx) | 2:37 | 2026-07-31 |  |
 | [Simply Falling](https://open.spotify.com/track/1ssJNXZibBxgDu9uIJ2ZQC) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Simply Falling](https://open.spotify.com/album/74T1wuXtwHkyRKt9rprUDA) | 3:38 | 2022-11-25 | 2024-02-17 |
 | [Sing](https://open.spotify.com/track/1mu0jH76Hw7Jf3mpYjpvff) | [Josefine Cronholm](https://open.spotify.com/artist/4SnPwWZWpvwjUXXBpLbVdj) | [Ember](https://open.spotify.com/album/4vomDCrgTbHKTHjM4RWzZ2) | 5:54 | 2020-10-09 | 2022-02-15 |
 | [Sit on My Knee and Tell Me That You Love Me](https://open.spotify.com/track/4wEbYOPyYBVbRhrZjZR2qR) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Meshuga Baby](https://open.spotify.com/album/5z86H0ClvGTNehrhbmqiDx) | 3:56 | 2022-06-17 | 2023-03-11 |

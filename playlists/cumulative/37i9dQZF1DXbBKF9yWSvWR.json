@@ -9135,6 +9135,24 @@
     },
     {
       "album": {
+        "name": "Midnight Blue",
+        "url": "https://open.spotify.com/album/1OjUL0y8s2IhPryAFjT0gf"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120234,
+      "name": "Midnight Blue",
+      "url": "https://open.spotify.com/track/2Zfh0bnkS97vV49COMVgMB"
+    },
+    {
+      "album": {
         "name": "Midnight Shining",
         "url": "https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP"
       },
@@ -15260,24 +15278,6 @@
       "duration_ms": 197960,
       "name": "Toy Heart",
       "url": "https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389"
-    },
-    {
-      "album": {
-        "name": "Midnight Blue",
-        "url": "https://open.spotify.com/album/1OjUL0y8s2IhPryAFjT0gf"
-      },
-      "artists": [
-        {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
-        }
-      ],
-      "date_added": "2026-07-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/2Zfh0bnkS97vV49COMVgMB"
     },
     {
       "album": {

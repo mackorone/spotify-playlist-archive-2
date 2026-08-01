@@ -3428,6 +3428,14 @@
         {
           "name": "Tino El Ping\u00fcino",
           "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        },
+        {
+          "name": "Aquarium",
+          "url": "https://open.spotify.com/artist/3nAumcukmBxn8y7Su8RagW"
+        },
+        {
+          "name": "MZCLBR",
+          "url": "https://open.spotify.com/artist/5xxbFcLZDjyuvb8QLPsR4t"
         }
       ],
       "date_added": "2026-07-10",
@@ -7655,20 +7663,24 @@
     },
     {
       "album": {
-        "name": "Te Est\u00e1s Soltando",
+        "name": "Te Est\u00e1s Soltando (feat. Phynx)",
         "url": "https://open.spotify.com/album/1yqrrS9618BUnLtyaK5vHq"
       },
       "artists": [
         {
           "name": "Tino El Ping\u00fcino",
           "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        },
+        {
+          "name": "Phynx",
+          "url": "https://open.spotify.com/artist/3DkhDkvAmnbF7nFPQGaECh"
         }
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 290958,
-      "name": "Te Est\u00e1s Soltando",
+      "name": "Te Est\u00e1s Soltando (feat. Phynx)",
       "url": "https://open.spotify.com/track/6mf6ajqQxNQ0LiDp7NhkSX"
     },
     {

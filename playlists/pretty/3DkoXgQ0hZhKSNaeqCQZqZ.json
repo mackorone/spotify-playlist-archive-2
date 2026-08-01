@@ -1,13 +1,61 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1187,
+  "num_followers": 1189,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFnaQaiiPucRfm7wrN9zXDuIdMfv08",
+  "snapshot_id": "AAAFooNNcRLn/IDKEvTyyJvxVhTfas9N",
   "tracks": [
+    {
+      "added_at": "2026-07-31 08:24:50",
+      "album": {
+        "name": "forget about it!",
+        "url": "https://open.spotify.com/album/79D09fZELy7ldFcC2oxGt8"
+      },
+      "artists": [
+        {
+          "name": "mayflowers",
+          "url": "https://open.spotify.com/artist/1Jf3zM4mXnEaIktE4xMb4z"
+        }
+      ],
+      "duration_ms": 124496,
+      "name": "forget about it!",
+      "url": "https://open.spotify.com/track/1vW0igVORX0r1xfASD8Wq0"
+    },
+    {
+      "added_at": "2026-07-31 08:24:29",
+      "album": {
+        "name": "Light Shines on You",
+        "url": "https://open.spotify.com/album/7mPSyGNxdwWrIcQxEysaDx"
+      },
+      "artists": [
+        {
+          "name": "Ian Martyn",
+          "url": "https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB"
+        }
+      ],
+      "duration_ms": 121674,
+      "name": "Light Shines on You",
+      "url": "https://open.spotify.com/track/4fCfWY8suCaLrTq7rhZpbj"
+    },
+    {
+      "added_at": "2026-07-31 08:22:57",
+      "album": {
+        "name": "Digital Pawprint",
+        "url": "https://open.spotify.com/album/1zhvGGnmBC9VGJpi58SBOP"
+      },
+      "artists": [
+        {
+          "name": "Strat Strat",
+          "url": "https://open.spotify.com/artist/77pGG1bc5vcSGDrYsISCyB"
+        }
+      ],
+      "duration_ms": 127374,
+      "name": "Creature Feature",
+      "url": "https://open.spotify.com/track/7eAYDLOCkAPqNDO6N40sKk"
+    },
     {
       "added_at": "2026-07-30 03:25:42",
       "album": {

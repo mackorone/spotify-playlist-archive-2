@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Chechi de Marcos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,681 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,679 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 3 | [Como luces](https://open.spotify.com/track/6Xuqtd9RcMqDUjDGo0OXv4) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Como luces](https://open.spotify.com/album/1YDImf8KB6avGtj7INB0FY) | 3:16 |
 | 4 | [Ciencia Oculta](https://open.spotify.com/track/6BDgKP636bFaGVddl5T3ea) | [Júpiter en Casa](https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd) | [Ciencia Oculta](https://open.spotify.com/album/2Gyqm5ta0ObD8PySVDc1vU) | 2:14 |
 | 5 | [sé que va a venir](https://open.spotify.com/track/4CdsEPDWvoNL249vSYhxyp) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Inhibidor](https://open.spotify.com/album/3pKSAQaC5qUpRAhRg5BRVk) | 4:01 |
-| 6 | [Track 1](https://open.spotify.com/track/2Ue0ENvYUExp226UWUNXaR) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7) | [Mufa](https://open.spotify.com/album/2yDtotEpwIu1FwzOMDyWvO) | 0:00 |
+| 6 | [Voy A Estar Bien](https://open.spotify.com/track/2Ue0ENvYUExp226UWUNXaR) | [Andry Bett](https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7), [Arquero](https://open.spotify.com/artist/7j3rplwFIjrg9Wm1yrHLx6) | [Mufa](https://open.spotify.com/album/2yDtotEpwIu1FwzOMDyWvO) | 3:04 |
 | 7 | [Presentimiento](https://open.spotify.com/track/75gXbcgQ5qf2o64zRnRtwA) | [María Morgade](https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Presentimiento](https://open.spotify.com/album/2YgCANKfjd7HotPuRr5tvQ) | 3:31 |
 | 8 | [Soy así](https://open.spotify.com/track/7Gtvrd3Zu7ntDLKpSsrHO3) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Soy así](https://open.spotify.com/album/5N2mzKkmpYQAVEOudpFR2E) | 2:56 |
 | 9 | [INGRATA](https://open.spotify.com/track/3r2gc9oSXLMmu8fVyDaCdO) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [LA OTRA MEJILLA](https://open.spotify.com/album/4jreImi91npBoxGxsEbUcv) | 2:55 |

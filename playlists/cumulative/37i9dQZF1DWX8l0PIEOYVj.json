@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-14",
-  "description": "Future & melodic bass \ud83d\udef8 featuring SLANDER",
+  "description": "Future & melodic bass \ud83d\udef8 featuring NURKO",
   "name": "Bass Lounge",
   "tracks": [
     {
@@ -1377,6 +1377,28 @@
     },
     {
       "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/1WqKceDEvmK8ah227aj6YV"
+      },
+      "artists": [
+        {
+          "name": "NURKO",
+          "url": "https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170943,
+      "name": "Back Home",
+      "url": "https://open.spotify.com/track/46JniFZiUJirsqL8VogClI"
+    },
+    {
+      "album": {
         "name": "Back In Time",
         "url": "https://open.spotify.com/album/7fsKyGmfki0E7u7t6KISeu"
       },
@@ -2688,7 +2710,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 218978,
       "name": "Champagne (feat. Dia Frampton)",
       "url": "https://open.spotify.com/track/1kuTUxdFGSPkcVx08BYcvV"
@@ -4300,6 +4322,28 @@
       "duration_ms": 204375,
       "name": "Dream (feat. Sarah de Warren)",
       "url": "https://open.spotify.com/track/0jRa2dPRM6SRVp2UcL0G75"
+    },
+    {
+      "album": {
+        "name": "Dream State",
+        "url": "https://open.spotify.com/album/6p0HoxC5QE98NkCSTIngpN"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226758,
+      "name": "Dream State",
+      "url": "https://open.spotify.com/track/2ZxAVcdUhb3yoq1UAfOE4K"
     },
     {
       "album": {
@@ -17860,7 +17904,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 227200,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/1CWRGFM8aTjZqZAGaXNnRI"

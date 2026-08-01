@@ -2,9 +2,9 @@
 
 ### [Pop n' Fresh](https://open.spotify.com/playlist/37i9dQZF1DX50KNyX4Fc9O)
 
-> Keep your finger on the pulse of pop\. Cover: Amy Shark
+> Keep your finger on the pulse of pop\. Cover: Ariana Grande
 
-2,934 songs - 6 day 7 hr 44 min
+2,935 songs - 6 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1943,6 +1943,7 @@
 | [Peripheral Lover](https://open.spotify.com/track/4HbD58hUbzkczpKCHvlZGr) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Peripheral Lover](https://open.spotify.com/album/4q1PrAoSunC7Hfhd16a092) | 3:15 | 2025-02-20 | 2025-04-11 |
 | [Persianality](https://open.spotify.com/track/23dsCCNjTWUwQtCPP4P9lG) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Persianality](https://open.spotify.com/album/4Ert6Kh3cXCihQAmq9DMWp) | 2:32 | 2026-07-30 |  |
 | [Personal](https://open.spotify.com/track/0GBlXLkVpZWrEGOEjZ0og5) | [Jasmine Clarke](https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Personal](https://open.spotify.com/album/4GkPkDIQWAuBpAjvswA9uB) | 3:00 | 2024-03-28 | 2024-04-19 |
+| [petal](https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [petal](https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT) | 3:04 | 2026-07-31 |  |
 | [PETER PAN](https://open.spotify.com/track/3Fa2JemEpgRlbBSZm22ril) | [That Gurl Bella](https://open.spotify.com/artist/1qMG4xNqbtKrqRQzFa5Mfj) | [PETER PAN](https://open.spotify.com/album/2uCzhh6xp4AzVuGs8REmcN) | 2:54 | 2026-02-05 | 2026-03-06 |
 | [Pick Me](https://open.spotify.com/track/02Vncg7BGazGARW9CMVstt) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Pick Me](https://open.spotify.com/album/04wIPzs14Kuqk3OBbhcB3U) | 2:58 | 2024-01-25 | 2024-02-09 |
 | [Pick Up](https://open.spotify.com/track/3G1MtAFexVXuE0CTofF0mt) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Pick Up](https://open.spotify.com/album/2vZ6xpMvNGGZFyH4beDkkj) | 3:11 | 2025-05-29 | 2025-07-11 |

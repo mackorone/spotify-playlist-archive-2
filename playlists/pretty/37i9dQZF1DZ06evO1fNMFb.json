@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAADhZpXqIvtt8DlhophiYhcw",
+  "snapshot_id": "amqUAAAAAABH+tYRQ9fLusy3Uc/1+fH7",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mess Me Up",
-        "url": "https://open.spotify.com/album/1HatZa4vV4vSWROa1fwgEB"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 201686,
-      "name": "Mess Me Up",
-      "url": "https://open.spotify.com/track/5NKbhVPp2CMGD8pV3qi93b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wedding Season (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 187120,
       "name": "Show Me More",
       "url": "https://open.spotify.com/track/4mOFh28Qu0BnvgyqxJBesJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mess Me Up",
+        "url": "https://open.spotify.com/album/1HatZa4vV4vSWROa1fwgEB"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 201686,
+      "name": "Mess Me Up",
+      "url": "https://open.spotify.com/track/5NKbhVPp2CMGD8pV3qi93b"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haule Haule",
-        "url": "https://open.spotify.com/album/0nbatMNOhz0rm79eC6C0Ys"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 243884,
-      "name": "Haule Haule",
-      "url": "https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Four More Shots Please! Season 3 (Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/4VCr1CMHyeW8NQaB5njvAC"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 178719,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/2L7znrw7LWoDI4ESnxF2Yl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haule Haule",
+        "url": "https://open.spotify.com/album/0nbatMNOhz0rm79eC6C0Ys"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 243884,
+      "name": "Haule Haule",
+      "url": "https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad",
-        "url": "https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB"
+        "name": "Confidence",
+        "url": "https://open.spotify.com/album/7edpuZuWYWgdotNqkesWMV"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Sad",
-      "url": "https://open.spotify.com/track/52EleUmw3To945occUhmjE"
+      "duration_ms": 147822,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
     },
     {
       "added_at": null,
@@ -624,29 +624,13 @@
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
         },
         {
-          "name": "Aniket Mangrulkar",
-          "url": "https://open.spotify.com/artist/67teYYqIg5ffWDHj6nqOIB"
+          "name": "Naquita D'souza",
+          "url": "https://open.spotify.com/artist/1zgVFfNaXfoa3tDYKMuOEq"
         }
       ],
-      "duration_ms": 148320,
-      "name": "Hell of A Ride",
-      "url": "https://open.spotify.com/track/6ge8kuBbrS6Sy1vRiQFMBB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confidence",
-        "url": "https://open.spotify.com/album/7edpuZuWYWgdotNqkesWMV"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 147822,
-      "name": "Confidence",
-      "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
+      "duration_ms": 171950,
+      "name": "Burned Out",
+      "url": "https://open.spotify.com/track/3Aofkcqfh8ebCQ6YiMxfpM"
     },
     {
       "added_at": null,
@@ -663,6 +647,22 @@
       "duration_ms": 168979,
       "name": "Muscle Memory",
       "url": "https://open.spotify.com/track/7h9amwuFvQAqYZVaNHk6Gp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sad",
+        "url": "https://open.spotify.com/album/1X3TTW5hNV7A0gJaBGzpMB"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Sad",
+      "url": "https://open.spotify.com/track/52EleUmw3To945occUhmjE"
     },
     {
       "added_at": null,
@@ -704,29 +704,13 @@
           "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
         },
         {
-          "name": "Naquita D'souza",
-          "url": "https://open.spotify.com/artist/1zgVFfNaXfoa3tDYKMuOEq"
+          "name": "Aniket Mangrulkar",
+          "url": "https://open.spotify.com/artist/67teYYqIg5ffWDHj6nqOIB"
         }
       ],
-      "duration_ms": 171950,
-      "name": "Burned Out",
-      "url": "https://open.spotify.com/track/3Aofkcqfh8ebCQ6YiMxfpM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talking",
-        "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Talking",
-      "url": "https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz"
+      "duration_ms": 148320,
+      "name": "Hell of A Ride",
+      "url": "https://open.spotify.com/track/6ge8kuBbrS6Sy1vRiQFMBB"
     },
     {
       "added_at": null,
@@ -787,6 +771,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talking",
+        "url": "https://open.spotify.com/album/5GRJMxiasbJCbqANAKBlSY"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 184080,
+      "name": "Talking",
+      "url": "https://open.spotify.com/track/7DH7GCOG8SKKKp6LKkKaYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pick It Up",
+        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 144557,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can I Be Ur Friend?",
         "url": "https://open.spotify.com/album/5RZiAE8EKz0giwhhgJYVDr"
       },
@@ -799,6 +815,22 @@
       "duration_ms": 217699,
       "name": "Can I Be Ur Friend?",
       "url": "https://open.spotify.com/track/2enudDsKGps4ZGh8CVg4u0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
+      },
+      "artists": [
+        {
+          "name": "Natania",
+          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
+        }
+      ],
+      "duration_ms": 165738,
+      "name": "Fitness",
+      "url": "https://open.spotify.com/track/7Hz9M33j7cRKqTtr0PRn0w"
     },
     {
       "added_at": null,
@@ -828,41 +860,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 144557,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/3B2iUvZKiXLBXhcl3JrY4l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 165738,
-      "name": "Fitness",
-      "url": "https://open.spotify.com/track/7Hz9M33j7cRKqTtr0PRn0w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Team",
-        "url": "https://open.spotify.com/album/2QX2f0v9LlzAxvxTgQkdcU"
-      },
-      "artists": [
-        {
-          "name": "Natania",
-          "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
-        }
-      ],
-      "duration_ms": 221129,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/5SpumGg7FWWSS2yB644e5l"
+      "duration_ms": 147967,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4"
     },
     {
       "added_at": null,
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pick It Up",
-        "url": "https://open.spotify.com/album/4zdZUbWtKovFIko0m2n5bq"
+        "name": "Team",
+        "url": "https://open.spotify.com/album/2QX2f0v9LlzAxvxTgQkdcU"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX"
         }
       ],
-      "duration_ms": 147967,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/6IHFvyAoX5nOOYXM4UgJw4"
+      "duration_ms": 221129,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/5SpumGg7FWWSS2yB644e5l"
     },
     {
       "added_at": null,

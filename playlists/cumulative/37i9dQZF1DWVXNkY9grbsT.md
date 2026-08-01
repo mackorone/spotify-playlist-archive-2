@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-654 songs - 2 day 5 hr 26 min
+655 songs - 2 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [A Long Distance Call](https://open.spotify.com/track/4HKr2Zy9A1wnqSvgJ9PyTW) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Detached From The Rest Of You](https://open.spotify.com/album/5DvB6X4LLP5jCheIPKZZ7X) | 3:31 | 2026-05-08 |  |
 | [A Model Of Reality \- Firephly Remix](https://open.spotify.com/track/5METpYOvtb9Z1tplNUvNUE) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Kotomi](https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu), [Firephly](https://open.spotify.com/artist/39GVFdccoAGnSBFaxKB09K) | [A Model of Reality Reworks](https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK) | 7:05 | 2023-01-28 | 2025-10-04 |
 | [A Necessary Escape \(Part 2\)](https://open.spotify.com/track/2kHPwzW058WyLdT1I81pTd) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [A Necessary Escape \(Part 2\)](https://open.spotify.com/album/2eIzRLE2sKmMRTz8nvBoRH) | 8:23 | 2025-05-12 | 2026-07-25 |
-| [A Point Most Crucial](https://open.spotify.com/track/24tSP08dcSnoT7rrrY9w9q) | [Carrier](https://open.spotify.com/artist/1ah87EalVGzB4AEfY7zm2u) | [Rhythm Immortal](https://open.spotify.com/album/4G3ayf2HUKdykT2taYqw33) | 5:56 | 2025-12-05 |  |
+| [A Point Most Crucial](https://open.spotify.com/track/24tSP08dcSnoT7rrrY9w9q) | [Carrier](https://open.spotify.com/artist/1ah87EalVGzB4AEfY7zm2u) | [Rhythm Immortal](https://open.spotify.com/album/4G3ayf2HUKdykT2taYqw33) | 5:56 | 2025-12-05 | 2026-08-01 |
 | [A Sense Of Getting Closer](https://open.spotify.com/track/7CJmELMbZPoiW5f0bpUF2v) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [On Being](https://open.spotify.com/album/3Ue4fvhNQLBXsQIhnIy57B) | 7:52 | 2025-02-28 |  |
 | [A Sonic Womb Pt\. 5](https://open.spotify.com/track/2x9RGyqDyptzddFiRUQ7ao) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [A Sonic Womb: Live Buchla Performance at Lapsus](https://open.spotify.com/album/7rQaMkOwhuHZqAM30JvSfY) | 2:54 | 2021-12-26 | 2022-01-12 |
 | [A Thousand Steps](https://open.spotify.com/track/4SaoHXzh3ldq9mukyXIqW9) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0), [Henry Solomon](https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR) | [Seeing Is Forgetting](https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll) | 4:06 | 2026-02-06 |  |
@@ -39,6 +39,7 @@
 | [Abandon](https://open.spotify.com/track/2pSvA8nCTZZaVMi8pap1kf) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl), [Bendik Giske](https://open.spotify.com/artist/0IbWsSdsJyNM0I2cVMsl0K), [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [James Underwood](https://open.spotify.com/artist/3kHy2R4hn87xhtqJjOlYRJ) | [Atlas](https://open.spotify.com/album/3VaVfO7eUl24zzrtuayksx) | 4:01 | 2025-01-09 |  |
 | [ABBA/Mary \- Christina Vantzou Remix](https://open.spotify.com/track/4qdXA8vkqzhmyV4PaHXOt4) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [ABBA/Mary \(Christina Vantzou Remix\)](https://open.spotify.com/album/3lvfmwUA0Ob9kNOshN5bEi) | 3:26 | 2021-12-26 | 2023-04-30 |
 | [ABBA/Mary \- Christina Vantzou Remix](https://open.spotify.com/track/6fWrGJifl4VPOdW49BNlnD) | [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1), [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [ABBA/Mary \(Christina Vantzou Remix\)](https://open.spotify.com/album/2JWnRnBhaHiuhcMx7phjmQ) | 3:26 | 2023-05-05 | 2023-08-12 |
+| [Abiotic Factors](https://open.spotify.com/track/67zoX3gvQ1NRMAh7gcYwAU) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [Music To Watch Seeds Grow By 009: Patricia Wolf \(Yarrow\)](https://open.spotify.com/album/5xwNkg1elWmMgJlXQUQlQX) | 6:51 | 2026-07-31 |  |
 | [ABRIR MONTE](https://open.spotify.com/track/7npn0mfuaUUNcrrVBsOEib) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 5:12 | 2025-01-17 | 2026-07-07 |
 | [Adagio I \- Mut](https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Nothing Lasts Forever](https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC) | 4:46 | 2022-02-11 | 2024-08-29 |
 | [Adrenaline](https://open.spotify.com/track/2ZNWoBXNrDAxDyWM6ubUEu) | [Samuel Organ](https://open.spotify.com/artist/3Dsj31QwoB51xRtvTojQZ5) | [Portal](https://open.spotify.com/album/3h1FVnBobKykypKivxYEHA) | 4:19 | 2026-02-06 |  |

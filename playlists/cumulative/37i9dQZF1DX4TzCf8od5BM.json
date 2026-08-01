@@ -2655,6 +2655,40 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: Mickey Mouse Clubhouse+ - Mickey's Country Farm",
+        "url": "https://open.spotify.com/album/1BRNvvA5DvJajC75aRCDLA"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Pluto",
+          "url": "https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93525,
+      "name": "Mickey and Minnie Have a Farm",
+      "url": "https://open.spotify.com/track/4C90BnsmddOBPfz0JjtJ0M"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music Dance Party! The Album",
         "url": "https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK"
       },

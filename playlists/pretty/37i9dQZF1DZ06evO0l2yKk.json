@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 205981,
+  "num_followers": 206031,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAACOUON1IdQn7QQRfgFvEHeB",
+  "snapshot_id": "amqUAAAAAAD4VaviOxvTObLLgRS5/Egv",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Coraz\u00f3n Necio",
-        "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Ya Lo S\u00e9",
-      "url": "https://open.spotify.com/track/1NA4zhZ9JXv1dXlSYaWTDN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor De Unas Horas",
         "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 181146,
       "name": "Amor De Unas Horas",
       "url": "https://open.spotify.com/track/2rYZd5fqhcyYLz67FMYkHL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Coraz\u00f3n Necio",
+        "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 232120,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/1NA4zhZ9JXv1dXlSYaWTDN"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor De Unas Horas",
+        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 149186,
+      "name": "D\u00edmelo Cantando",
+      "url": "https://open.spotify.com/track/4KtPU3QVYgEZMCSsz5lIu8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Norte A Sur",
         "url": "https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 211080,
       "name": "M\u00eda",
       "url": "https://open.spotify.com/track/78y0q35fwtH6nLW7X7gxqS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor De Unas Horas",
-        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 149186,
-      "name": "D\u00edmelo Cantando",
-      "url": "https://open.spotify.com/track/4KtPU3QVYgEZMCSsz5lIu8"
     }
   ],
   "unique_name": "This Is Cardenales De Nuevo Le\u00f3n",

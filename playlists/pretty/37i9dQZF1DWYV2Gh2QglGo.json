@@ -1,44 +1,92 @@
 {
-  "description": "The home of Canadian country music. Cover: Shania Twain",
-  "num_followers": 84188,
+  "description": "The home of Canadian country music. Cover: Lucas Mason",
+  "num_followers": 84190,
   "original_name": "North Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH3rRQ9l/HTYzEkhKHlYBSrGkd14",
+  "snapshot_id": "AAAAANLhOHj7WvQ3rAWB8a6e1TM7C3rG",
   "tracks": [
     {
-      "added_at": "2026-07-24 04:03:36",
+      "added_at": "2026-07-31 04:03:45",
       "album": {
-        "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+        "name": "The Hard Way (Complete Edition)",
+        "url": "https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
         }
       ],
-      "duration_ms": 198331,
-      "name": "Stranger Things",
-      "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
+      "duration_ms": 167152,
+      "name": "Want For Nothing",
+      "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
     },
     {
-      "added_at": "2026-07-24 04:03:36",
+      "added_at": "2026-07-31 04:03:45",
       "album": {
-        "name": "Too Little, Too Late",
-        "url": "https://open.spotify.com/album/0o8K4r2kU6Jv6XUJiX5r3P"
+        "name": "Other Girls",
+        "url": "https://open.spotify.com/album/21worPka1o8CXJSPMxtBmi"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
         }
       ],
-      "duration_ms": 172725,
-      "name": "Too Little, Too Late",
-      "url": "https://open.spotify.com/track/5wbN8wztvxqI5jsgrFDuM2"
+      "duration_ms": 144495,
+      "name": "Other Girls",
+      "url": "https://open.spotify.com/track/4xYrKRjvtJOcEkXM8ZO8K5"
+    },
+    {
+      "added_at": "2026-07-31 04:03:45",
+      "album": {
+        "name": "The Smell of August",
+        "url": "https://open.spotify.com/album/4tWUX0hIy9B5Y7zF9kFZgF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mason",
+          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "The Smell of August",
+      "url": "https://open.spotify.com/track/5Bw0sfBf0Js5zMmzUMbtnI"
+    },
+    {
+      "added_at": "2026-07-31 04:03:45",
+      "album": {
+        "name": "Course de chaloupe",
+        "url": "https://open.spotify.com/album/7tGafQEfYY9QGthkshc38B"
+      },
+      "artists": [
+        {
+          "name": "Francis Degrandpr\u00e9",
+          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
+        }
+      ],
+      "duration_ms": 161481,
+      "name": "Course de chaloupe",
+      "url": "https://open.spotify.com/track/2Qp3PHliV7wObsqRBF20ZU"
+    },
+    {
+      "added_at": "2026-07-31 04:03:45",
+      "album": {
+        "name": "Mind Like Mine",
+        "url": "https://open.spotify.com/album/71bSjCXPbNNii1X5wMj458"
+      },
+      "artists": [
+        {
+          "name": "Noah Brigden",
+          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Mind Like Mine",
+      "url": "https://open.spotify.com/track/79j8AeqPWwClJ1LKNwmXcr"
     },
     {
       "added_at": "2026-07-17 04:03:05",
@@ -57,36 +105,52 @@
       "url": "https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R"
     },
     {
-      "added_at": "2026-07-24 04:03:36",
+      "added_at": "2026-07-31 04:03:45",
       "album": {
-        "name": "Use Somebody",
-        "url": "https://open.spotify.com/album/5Qj5cxKct49whzhPBjWOkY"
+        "name": "Stick Around",
+        "url": "https://open.spotify.com/album/3UbKRawIjlP6wHYeNAYxgj"
       },
       "artists": [
         {
-          "name": "Sully Burrows",
-          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+          "name": "School House",
+          "url": "https://open.spotify.com/artist/37JHgl2RfDoQKLho1Ig2gC"
         }
       ],
-      "duration_ms": 190806,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/5ErDbyx09sTi9WPXBgtaUT"
+      "duration_ms": 218737,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/0jl05CPyVRYqQ9wpBFsFvT"
     },
     {
-      "added_at": "2026-07-17 04:03:05",
+      "added_at": "2026-07-31 04:03:45",
       "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/6fcjeLOJxPSGBRBz0QzFwk"
+        "name": "nicotine",
+        "url": "https://open.spotify.com/album/2zuYLWpoZoSQFH2jNtEzrg"
       },
       "artists": [
         {
-          "name": "Shawnee Kish",
-          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+          "name": "TANAEYA",
+          "url": "https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa"
         }
       ],
-      "duration_ms": 153998,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/3LAPsp68xanrLI05uK1n6B"
+      "duration_ms": 137435,
+      "name": "nicotine",
+      "url": "https://open.spotify.com/track/1nEKLhVIuIAWscsQcyiDZh"
+    },
+    {
+      "added_at": "2026-07-31 04:03:45",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/68edgjOQ7ZxtlWKxzldE6t"
+      },
+      "artists": [
+        {
+          "name": "Annika Catharina",
+          "url": "https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW"
+        }
+      ],
+      "duration_ms": 161402,
+      "name": "Won't Be You Tonight",
+      "url": "https://open.spotify.com/track/0ReSM5YJqbkHQuf7Tv7jJ9"
     },
     {
       "added_at": "2026-06-26 08:00:22",
@@ -105,20 +169,148 @@
       "url": "https://open.spotify.com/track/1D5jc3SEX95okcz9tkeXea"
     },
     {
-      "added_at": "2026-07-24 04:03:36",
+      "added_at": "2026-06-26 08:00:22",
       "album": {
-        "name": "Coffee and Sleeping Pills",
-        "url": "https://open.spotify.com/album/04updCr8hscofd5QXfUtNc"
+        "name": "The Tenth Album (Side A)",
+        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
       },
       "artists": [
         {
-          "name": "Cameron Nickerson",
-          "url": "https://open.spotify.com/artist/6GrNz0Cuzpd36vJflYPfIr"
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
         }
       ],
-      "duration_ms": 153042,
-      "name": "Coffee and Sleeping Pills",
-      "url": "https://open.spotify.com/track/6hGICwvDQylZO2cTr04Kzu"
+      "duration_ms": 144790,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
+    },
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 198331,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
+    },
+    {
+      "added_at": "2026-07-31 04:03:45",
+      "album": {
+        "name": "I Hope You Love Me",
+        "url": "https://open.spotify.com/album/2bzTwbPkr9rWMHepAI3ORA"
+      },
+      "artists": [
+        {
+          "name": "Ariana Fig",
+          "url": "https://open.spotify.com/artist/7t96BctZBDQcfKnDfREzDg"
+        }
+      ],
+      "duration_ms": 234194,
+      "name": "I Hope You Love Me",
+      "url": "https://open.spotify.com/track/5sYxpgBo0LKhZjcZlRI9BG"
+    },
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "Chevrolaid Back",
+        "url": "https://open.spotify.com/album/6yhK51yO9ZwdNHWxf0M5fR"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 193040,
+      "name": "Chevrolaid Back",
+      "url": "https://open.spotify.com/track/3CXEeYwt2GvT6n89ooL2j1"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Home In Your Broken Heart",
+        "url": "https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 222710,
+      "name": "Home In Your Broken Heart",
+      "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "seen enough",
+        "url": "https://open.spotify.com/album/0vlWL2GHdD970RvEDBs9N9"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "duration_ms": 209698,
+      "name": "seen enough",
+      "url": "https://open.spotify.com/track/51uPCxApVvtuYkc2lFP1E0"
+    },
+    {
+      "added_at": "2026-07-31 04:03:45",
+      "album": {
+        "name": "Road Where I Belong",
+        "url": "https://open.spotify.com/album/46tTpwKbUBPhuwhn6seRCv"
+      },
+      "artists": [
+        {
+          "name": "Justin Fancy",
+          "url": "https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj"
+        }
+      ],
+      "duration_ms": 201067,
+      "name": "Road Where I Belong",
+      "url": "https://open.spotify.com/track/5kYnkrqMgLg2ASMjnuR45b"
+    },
+    {
+      "added_at": "2026-04-17 04:05:01",
+      "album": {
+        "name": "Deep Water",
+        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "duration_ms": 153069,
+      "name": "Deep Water",
+      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
+    },
+    {
+      "added_at": "2026-07-31 04:03:45",
+      "album": {
+        "name": "Good In Goodbye",
+        "url": "https://open.spotify.com/album/4WLO7AJgY2k9EChkpBMvB2"
+      },
+      "artists": [
+        {
+          "name": "Amanda & James",
+          "url": "https://open.spotify.com/artist/3a1oFji5KaCbVZ8oOU05ol"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Good In Goodbye",
+      "url": "https://open.spotify.com/track/0IysXUMpcDEIJ3HHWCLjmI"
     },
     {
       "added_at": "2026-07-24 04:03:36",
@@ -157,20 +349,180 @@
       "url": "https://open.spotify.com/track/1sx70yd6jpIAGZPy9xgocz"
     },
     {
-      "added_at": "2026-06-26 08:00:22",
+      "added_at": "2026-05-29 08:01:08",
       "album": {
-        "name": "The Tenth Album (Side A)",
-        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
+        "name": "Wanted Me To Be",
+        "url": "https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK"
       },
       "artists": [
         {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 144790,
-      "name": "Death Of Me",
-      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
+      "duration_ms": 185169,
+      "name": "Wanted Me To Be",
+      "url": "https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD"
+    },
+    {
+      "added_at": "2026-07-31 04:03:45",
+      "album": {
+        "name": "Sunglasses",
+        "url": "https://open.spotify.com/album/6OgaztwHZyNolPc9PwBwlS"
+      },
+      "artists": [
+        {
+          "name": "Kerrington Gillespie",
+          "url": "https://open.spotify.com/artist/68xYQGUaaSPp2cKgWs0udv"
+        }
+      ],
+      "duration_ms": 166236,
+      "name": "Sunglasses",
+      "url": "https://open.spotify.com/track/0PJltXf36bt5BrE18BH7mk"
+    },
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Use Somebody",
+        "url": "https://open.spotify.com/album/5Qj5cxKct49whzhPBjWOkY"
+      },
+      "artists": [
+        {
+          "name": "Sully Burrows",
+          "url": "https://open.spotify.com/artist/5lCc0O15jryv68uC4A8McT"
+        }
+      ],
+      "duration_ms": 190806,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/5ErDbyx09sTi9WPXBgtaUT"
+    },
+    {
+      "added_at": "2026-07-31 04:03:45",
+      "album": {
+        "name": "TEAR IN THE RAIN",
+        "url": "https://open.spotify.com/album/2UYPAbyFiJ5Dwk8kXwakyM"
+      },
+      "artists": [
+        {
+          "name": "Sean Michael Ryan",
+          "url": "https://open.spotify.com/artist/6HRmf5pui2Mcqi3URD8Uvk"
+        }
+      ],
+      "duration_ms": 165663,
+      "name": "TEAR IN THE RAIN",
+      "url": "https://open.spotify.com/track/1wXChPdwhAjZG5sq4posVi"
+    },
+    {
+      "added_at": "2026-07-10 04:03:19",
+      "album": {
+        "name": "Chevy Beaulieu",
+        "url": "https://open.spotify.com/album/0FQiGrFyiSDAWo0XEjHXDu"
+      },
+      "artists": [
+        {
+          "name": "Chevy Beaulieu",
+          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Hell If I Know",
+      "url": "https://open.spotify.com/track/15dkTfTBwtG4tpz3hVbMYu"
+    },
+    {
+      "added_at": "2026-07-31 04:03:45",
+      "album": {
+        "name": "DOG AT THE DOOR",
+        "url": "https://open.spotify.com/album/3dw6fz9K0v8k17PEPtarSk"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "duration_ms": 167224,
+      "name": "DOG AT THE DOOR",
+      "url": "https://open.spotify.com/track/07X9aaC7Aw2UTDP6ZgarFa"
+    },
+    {
+      "added_at": "2026-07-31 04:03:45",
+      "album": {
+        "name": "The Good, The Bad & The Ugly",
+        "url": "https://open.spotify.com/album/7qmo6zUTo0mW3yEOY7S0Nk"
+      },
+      "artists": [
+        {
+          "name": "Ryan Langdon",
+          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
+        }
+      ],
+      "duration_ms": 159331,
+      "name": "Little Red Rider",
+      "url": "https://open.spotify.com/track/3eK0Z3M2R9LPYLZ0x0CETS"
+    },
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Too Little, Too Late",
+        "url": "https://open.spotify.com/album/0o8K4r2kU6Jv6XUJiX5r3P"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 172725,
+      "name": "Too Little, Too Late",
+      "url": "https://open.spotify.com/track/5wbN8wztvxqI5jsgrFDuM2"
+    },
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/6fcjeLOJxPSGBRBz0QzFwk"
+      },
+      "artists": [
+        {
+          "name": "Shawnee Kish",
+          "url": "https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ"
+        }
+      ],
+      "duration_ms": 153998,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/3LAPsp68xanrLI05uK1n6B"
+    },
+    {
+      "added_at": "2026-07-24 04:03:36",
+      "album": {
+        "name": "Coffee and Sleeping Pills",
+        "url": "https://open.spotify.com/album/04updCr8hscofd5QXfUtNc"
+      },
+      "artists": [
+        {
+          "name": "Cameron Nickerson",
+          "url": "https://open.spotify.com/artist/6GrNz0Cuzpd36vJflYPfIr"
+        }
+      ],
+      "duration_ms": 153042,
+      "name": "Coffee and Sleeping Pills",
+      "url": "https://open.spotify.com/track/6hGICwvDQylZO2cTr04Kzu"
+    },
+    {
+      "added_at": "2026-07-17 04:03:05",
+      "album": {
+        "name": "King Size Trouble",
+        "url": "https://open.spotify.com/album/1gvgDEXRuM8VztzLVgZ0pr"
+      },
+      "artists": [
+        {
+          "name": "Dawson Gray",
+          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
+        }
+      ],
+      "duration_ms": 153692,
+      "name": "King Size Trouble",
+      "url": "https://open.spotify.com/track/4C1sJovydhaZOGpqs2gcHm"
     },
     {
       "added_at": "2026-07-24 04:03:36",
@@ -207,22 +559,6 @@
       "duration_ms": 187200,
       "name": "Ah qu'on est ben icitte (feat. Olivier Couture)",
       "url": "https://open.spotify.com/track/6AHJ086lGZXsp0tv9NCH5n"
-    },
-    {
-      "added_at": "2026-04-17 04:05:01",
-      "album": {
-        "name": "Deep Water",
-        "url": "https://open.spotify.com/album/76BPHH4pYbhKuFjym0FW78"
-      },
-      "artists": [
-        {
-          "name": "Cameron Whitcomb",
-          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
-        }
-      ],
-      "duration_ms": 153069,
-      "name": "Deep Water",
-      "url": "https://open.spotify.com/track/528USB3qDsPEM7Gd0gnUxP"
     },
     {
       "added_at": "2026-07-17 04:03:05",
@@ -323,22 +659,6 @@
     {
       "added_at": "2026-07-17 04:03:05",
       "album": {
-        "name": "Chevrolaid Back",
-        "url": "https://open.spotify.com/album/6yhK51yO9ZwdNHWxf0M5fR"
-      },
-      "artists": [
-        {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
-        }
-      ],
-      "duration_ms": 193040,
-      "name": "Chevrolaid Back",
-      "url": "https://open.spotify.com/track/3CXEeYwt2GvT6n89ooL2j1"
-    },
-    {
-      "added_at": "2026-07-17 04:03:05",
-      "album": {
         "name": "\u00c0 deux",
         "url": "https://open.spotify.com/album/0I5ismsSKnFfl9LzEuMHHZ"
       },
@@ -351,22 +671,6 @@
       "duration_ms": 191582,
       "name": "\u00c0 deux",
       "url": "https://open.spotify.com/track/4Vk5DGChHThoUPzZKTuTaH"
-    },
-    {
-      "added_at": "2026-07-17 04:03:05",
-      "album": {
-        "name": "King Size Trouble",
-        "url": "https://open.spotify.com/album/1gvgDEXRuM8VztzLVgZ0pr"
-      },
-      "artists": [
-        {
-          "name": "Dawson Gray",
-          "url": "https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA"
-        }
-      ],
-      "duration_ms": 153692,
-      "name": "King Size Trouble",
-      "url": "https://open.spotify.com/track/4C1sJovydhaZOGpqs2gcHm"
     },
     {
       "added_at": "2026-07-17 04:03:05",
@@ -401,22 +705,6 @@
       "url": "https://open.spotify.com/track/395xnAoaoi71sujp8KilMU"
     },
     {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Chevy Beaulieu",
-        "url": "https://open.spotify.com/album/0FQiGrFyiSDAWo0XEjHXDu"
-      },
-      "artists": [
-        {
-          "name": "Chevy Beaulieu",
-          "url": "https://open.spotify.com/artist/1v9yVXQyQHJ4K0CQkT0rDC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Hell If I Know",
-      "url": "https://open.spotify.com/track/15dkTfTBwtG4tpz3hVbMYu"
-    },
-    {
       "added_at": "2026-07-17 04:03:05",
       "album": {
         "name": "Roxie",
@@ -431,22 +719,6 @@
       "duration_ms": 159274,
       "name": "Roxie",
       "url": "https://open.spotify.com/track/1hJspLJJHO012ZgLPEpf6M"
-    },
-    {
-      "added_at": "2026-07-10 04:03:19",
-      "album": {
-        "name": "Home In Your Broken Heart",
-        "url": "https://open.spotify.com/album/6UW0EYuBmuScXfzQmfolg9"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 222710,
-      "name": "Home In Your Broken Heart",
-      "url": "https://open.spotify.com/track/23jTdWCqELQZAPfOzG1jtB"
     },
     {
       "added_at": "2026-07-17 04:03:05",
@@ -599,38 +871,6 @@
       "duration_ms": 200623,
       "name": "Rest Of My",
       "url": "https://open.spotify.com/track/3nPggg2eXJSJWTnThsj85q"
-    },
-    {
-      "added_at": "2026-05-29 08:01:08",
-      "album": {
-        "name": "Wanted Me To Be",
-        "url": "https://open.spotify.com/album/5BjaOkDHHlGDvvCg3bPzyK"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 185169,
-      "name": "Wanted Me To Be",
-      "url": "https://open.spotify.com/track/1Nww2oddtMYh25oGMVp7HD"
-    },
-    {
-      "added_at": "2026-07-03 04:03:19",
-      "album": {
-        "name": "seen enough",
-        "url": "https://open.spotify.com/album/0vlWL2GHdD970RvEDBs9N9"
-      },
-      "artists": [
-        {
-          "name": "Trudy",
-          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
-        }
-      ],
-      "duration_ms": 209698,
-      "name": "seen enough",
-      "url": "https://open.spotify.com/track/51uPCxApVvtuYkc2lFP1E0"
     },
     {
       "added_at": "2026-07-03 04:03:19",

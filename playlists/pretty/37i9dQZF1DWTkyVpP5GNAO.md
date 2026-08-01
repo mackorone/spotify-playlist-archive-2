@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Miel San Marcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,846 likes - 80 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,911 likes - 80 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 18 | [Sólo Hay Uno](https://open.spotify.com/track/4AB2Ek7uOKheppnUBlz9o6) | [Job González](https://open.spotify.com/artist/1W3alM5B0pfEeiVnT9XmBO), [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Sólo Hay Uno](https://open.spotify.com/album/4eeg72pKMcuqVZqqo6fTvX) | 7:28 |
 | 19 | [Todo Es Posible \- En Vivo](https://open.spotify.com/track/3UmzPKGN6BRpPtW7M8ynEO) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Todo Es Posible \(En Vivo\)](https://open.spotify.com/album/61c7y8Wv1OLa0gO19ft2pK) | 3:56 |
 | 20 | [Nuestro Dios](https://open.spotify.com/track/5bHgl1rDw7eHoJVLq3gBXf) | [Selah Worship](https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA), [Eugenio](https://open.spotify.com/artist/06I4FXtPybqLqCwJc4XPQK), [Josu Sosa](https://open.spotify.com/artist/5BZXALXJjLqR5OyHsByxcX), [Forajido](https://open.spotify.com/artist/37uKI8IYCtk1WmwjSIFVsC) | [Nuestro Dios](https://open.spotify.com/album/6ighLyhj6ZY5BX5IlunH8s) | 3:43 |
-| 21 | [PUDE VOLVER](https://open.spotify.com/track/7KCVkeX3aDNDtVFnogUeXv) | [Génesis Colón](https://open.spotify.com/artist/0kMN6WLuNDVrhRH88IMCzE) | [PUDE VOLVER](https://open.spotify.com/album/4tx0b9CeJbaOAXCM7ldZgE) | 6:57 |
-| 22 | [RESUCITÓ](https://open.spotify.com/track/0JHF91AC5uRDwB6sPjC4y6) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [RESUCITÓ](https://open.spotify.com/album/4HTd4yZhdfjXuwoQfasoFi) | 4:22 |
-| 23 | [Quién Más](https://open.spotify.com/track/76jOnAl0tpZAgUP5ep0EtX) | [Evangelina Crubinca](https://open.spotify.com/artist/7aquXEXSrOvSZyWkOln2hi), [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb) | [Quién Más](https://open.spotify.com/album/6Ttieu50cJhkOxi57CG8SQ) | 7:11 |
-| 24 | [Aceite Nuevo](https://open.spotify.com/track/2tvuicnkKIaXmjRxEScJmh) | [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m) | [Aceite Nuevo](https://open.spotify.com/album/7rMtLeQnPwRVxStnf5yS8R) | 7:04 |
-| 25 | [Bueno Es Dios](https://open.spotify.com/track/2peHG0TJte0kZSdjfyB2Nu) | [ALISON](https://open.spotify.com/artist/5hcLUzxAKz36q0NYnfspOj), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Bueno Es Dios](https://open.spotify.com/album/0pCG6HlhD7AX1vwzw247OC) | 4:46 |
+| 21 | [RESUCITÓ](https://open.spotify.com/track/0JHF91AC5uRDwB6sPjC4y6) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [RESUCITÓ](https://open.spotify.com/album/4HTd4yZhdfjXuwoQfasoFi) | 4:22 |
+| 22 | [Quién Más](https://open.spotify.com/track/76jOnAl0tpZAgUP5ep0EtX) | [Evangelina Crubinca](https://open.spotify.com/artist/7aquXEXSrOvSZyWkOln2hi), [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb) | [Quién Más](https://open.spotify.com/album/6Ttieu50cJhkOxi57CG8SQ) | 7:11 |
+| 23 | [Aceite Nuevo](https://open.spotify.com/track/2tvuicnkKIaXmjRxEScJmh) | [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m) | [Aceite Nuevo](https://open.spotify.com/album/7rMtLeQnPwRVxStnf5yS8R) | 7:04 |
+| 24 | [Bueno Es Dios](https://open.spotify.com/track/2peHG0TJte0kZSdjfyB2Nu) | [ALISON](https://open.spotify.com/artist/5hcLUzxAKz36q0NYnfspOj), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Bueno Es Dios](https://open.spotify.com/album/0pCG6HlhD7AX1vwzw247OC) | 4:46 |
+| 25 | [INTEGRIDAD](https://open.spotify.com/track/0OfuqWShZEk5i9fLU0dUUV) | [Génesis Colón](https://open.spotify.com/artist/0kMN6WLuNDVrhRH88IMCzE) | [INTEGRIDAD](https://open.spotify.com/album/5Kwt7PPK91xF6OjrDttdNV) | 12:13 |
 | 26 | [Declaro El Nombre De Jesús](https://open.spotify.com/track/1QW4r3g1mO6VXJnc9C7KfD) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6), [Nestor Manuel](https://open.spotify.com/artist/0f18e4IcPXJ28phCqJdEcP), [Emmanuel y Linda](https://open.spotify.com/artist/5zLxzk3M5pfViB81P2R1aG) | [Declaro El Nombre De Jesús](https://open.spotify.com/album/35250oSZAmbV8dlgjcsI0K) | 5:04 |
 | 27 | [¿De Qué Me Sirven?](https://open.spotify.com/track/5f3nLiHGsV8CiAT7Yz6MGN) | [Joel Rocco](https://open.spotify.com/artist/7sjNSERyTcSvuDsLk9xwpe) | [¿De Qué Me Sirven?](https://open.spotify.com/album/4eU1ckO4l37U1BUfHO7eWf) | 9:17 |
 | 28 | [Sana Nuestra Nación](https://open.spotify.com/track/49IbF8GUf6pGhqjR3iNGu9) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Stefy Espinosa](https://open.spotify.com/artist/7aKFNdsCUdhI3JKByk8Gm8), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 12:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 | 79 | [Te Coronamos](https://open.spotify.com/track/6Ft5wueAtrPghqk7P0YrOt) | [Iglesia Rey De Reyes & Claudio Freidzon](https://open.spotify.com/artist/4xtmhwkXcI1bfDZNzQHR8F) | [Te Coronamos](https://open.spotify.com/album/4yfpZaK4QdCnf6LXjBsyKv) | 5:25 |
 | 80 | [Sublime Gracia](https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Eterno](https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf) | 4:25 |
 
-Snapshot ID: `AAAAAP3CqUNt7IL5vQuG506EPEsItJwj`
+Snapshot ID: `AAAAAHbXh/VdQIdWv7jplkBCCCyljG8P`

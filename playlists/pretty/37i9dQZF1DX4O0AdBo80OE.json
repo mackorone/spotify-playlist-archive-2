@@ -1,6 +1,6 @@
 {
   "description": "Suaaaaaaave \ud83d\udcf8 Tino El Ping\u00fcino",
-  "num_followers": 90647,
+  "num_followers": 90645,
   "original_name": "Rap Latte ",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,14 @@
         {
           "name": "Tino El Ping\u00fcino",
           "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        },
+        {
+          "name": "Aquarium",
+          "url": "https://open.spotify.com/artist/3nAumcukmBxn8y7Su8RagW"
+        },
+        {
+          "name": "MZCLBR",
+          "url": "https://open.spotify.com/artist/5xxbFcLZDjyuvb8QLPsR4t"
         }
       ],
       "duration_ms": 234735,
@@ -331,17 +339,21 @@
     {
       "added_at": "2026-07-10 06:00:54",
       "album": {
-        "name": "Te Est\u00e1s Soltando",
+        "name": "Te Est\u00e1s Soltando (feat. Phynx)",
         "url": "https://open.spotify.com/album/1yqrrS9618BUnLtyaK5vHq"
       },
       "artists": [
         {
           "name": "Tino El Ping\u00fcino",
           "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        },
+        {
+          "name": "Phynx",
+          "url": "https://open.spotify.com/artist/3DkhDkvAmnbF7nFPQGaECh"
         }
       ],
       "duration_ms": 290958,
-      "name": "Te Est\u00e1s Soltando",
+      "name": "Te Est\u00e1s Soltando (feat. Phynx)",
       "url": "https://open.spotify.com/track/6mf6ajqQxNQ0LiDp7NhkSX"
     },
     {

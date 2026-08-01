@@ -1177,6 +1177,40 @@
     },
     {
       "album": {
+        "name": "Hoedown Throwdown (From \"Disney Jr. Music: Mickey Mouse Clubhouse+ - Mickey's Country Farm\")",
+        "url": "https://open.spotify.com/album/0EFhfHZEMMic4T9xZ528dk"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Megan Hilty",
+          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Daisy Duck",
+          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151607,
+      "name": "Hoedown Throwdown - From \"Disney Jr. Music: Mickey Mouse Clubhouse+ - Mickey's Country Farm\"",
+      "url": "https://open.spotify.com/track/77K012lHTUC2Lq3Fb9dW8N"
+    },
+    {
+      "album": {
         "name": "Disney Peaceful: Ambient",
         "url": "https://open.spotify.com/album/2Dlg5prvxTCsK98od04Hjm"
       },

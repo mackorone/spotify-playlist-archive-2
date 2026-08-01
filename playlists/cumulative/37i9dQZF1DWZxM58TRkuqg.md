@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: eńau, Momo
 
-736 songs - 1 day 23 hr 38 min
+736 songs - 1 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,7 +715,6 @@
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 |  |
 | [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-04 | 2025-10-17 |
 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 | 2024-05-03 | 2024-06-07 |
-| [Track 1](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 0:00 | 2026-07-30 |  |
 | [Tsunami](https://open.spotify.com/track/5T9RiaaXbVUQdIG3hLmZDY) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Tsunami](https://open.spotify.com/album/0SX3o2pQvxPaujHIqPVrpP) | 3:51 | 2024-07-25 | 2024-10-11 |
 | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 | 2025-10-09 |  |
 | [Tuhan Tolong](https://open.spotify.com/track/3lUTrUsQ3XURWmJJ6qHSvm) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Tuhan Tolong](https://open.spotify.com/album/4tE6ZHYHvubVbM2pSLkKnW) | 4:20 | 2024-12-12 | 2025-02-07 |
@@ -729,6 +728,7 @@
 | [Ujung\-Ujungnya Kamu](https://open.spotify.com/track/3zuI3idyWxEEkcUysRohKC) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo) | [Ujung\-Ujungnya Kamu](https://open.spotify.com/album/1hs3LxmpgEkvP5pZlH4VGG) | 4:05 | 2025-09-18 | 2025-10-17 |
 | [uKYdS](https://open.spotify.com/track/0hYZIjydHDd1Wl5bUtQQpD) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Stand Here Alone](https://open.spotify.com/artist/3YwAgafEWJCd6Haotq7Qd2) | [uKYdS](https://open.spotify.com/album/4rlVZuiLDtx4vSFvh9ciu8) | 3:30 | 2025-07-17 | 2025-09-26 |
 | [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 | 2026-05-14 |  |
+| [Untuk Kau Hargai](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 4:18 | 2026-07-30 |  |
 | [Untuk Yang Bersama Nya](https://open.spotify.com/track/1KEVZhP8y9bMMyTDs0gaLk) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Koma,](https://open.spotify.com/album/0kEgfBZs3R5GJDuCp8yTYx) | 4:44 | 2025-12-11 |  |
 | [Untukmu Aku Bertahan \(Live Orchestra Version\)](https://open.spotify.com/track/4ZDFnMzyPtXCL2og3ipPVK) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Untukmu Aku Bertahan \(Live Orchestra Version\)](https://open.spotify.com/album/2fUZXKVLCg4xruwfwYaC8t) | 4:38 | 2024-10-10 | 2025-01-17 |
 | [Untungnya, Hidup Harus Tetap Berjalan \- Babak Penutup: Untungnya, untungnya \- Live](https://open.spotify.com/track/1zkyWDokMlZnyNANahOEIk) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Babak Penutup: Untungnya, Untungnya \(Live\)](https://open.spotify.com/album/3iDSNry5Y7yIuFGNqsdEod) | 3:41 | 2025-10-30 | 2026-01-30 |

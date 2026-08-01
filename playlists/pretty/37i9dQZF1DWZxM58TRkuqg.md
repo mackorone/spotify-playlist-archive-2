@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: eńau, Momo
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,154 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,211 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 7 | [1000X](https://open.spotify.com/track/6ze1gnRU4GZVroIjLG68cX) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [1000X](https://open.spotify.com/album/6Af2yNV7t9ThcHfYboQLQN) | 4:12 |
 | 8 | [Jalan Jalan](https://open.spotify.com/track/6Ce38kJe62UN5vIzMp7SiS) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Jalan Jalan](https://open.spotify.com/album/2ik1qK4UNZKzMU1h3mGOEB) | 4:19 |
 | 9 | [STECU PICA](https://open.spotify.com/track/0tLaFXKyOtbUlkqAnrClUy) | [Juan Reza](https://open.spotify.com/artist/1BHC0jEJgDvNXlLhojMUbf), [Faris Adam](https://open.spotify.com/artist/0WOBasNNoE4TJ3CV2xnUvX) | [STECU PICA](https://open.spotify.com/album/1H9Uj5GTrpHlxQIZMkSOMt) | 3:19 |
-| 10 | [Track 1](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 0:00 |
+| 10 | [Untuk Kau Hargai](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 4:18 |
 | 11 | [Tulang dan Nadi](https://open.spotify.com/track/38hWMbRnP6ORTbEuAKk9TR) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tulang dan Nadi](https://open.spotify.com/album/6Ljpg0MzZrUMQZMqHl0kom) | 4:28 |
 | 12 | [Sesi Potret](https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G) | [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u), [Ari Lesmana](https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc) | [Sesi Potret](https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv) | 4:03 |
 | 13 | [Main](https://open.spotify.com/track/0QVIgEAf6L2jHs9RNSue2W) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Main](https://open.spotify.com/album/201fM79xUdtKgHSv3VALmO) | 4:07 |

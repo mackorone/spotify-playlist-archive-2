@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 
 > Go inside the music from the Marvel worlds that you love\. Marvel Studios' The Fantastic Four: First Steps is now streaming on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,371 likes - 76 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,374 likes - 77 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,11 +78,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pOp62IUR81.md) - [plain]
 | 68 | [The Jabari](https://open.spotify.com/track/6i0hIiIRiHU2CouXvYCq8Z) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther \(Original Score\)](https://open.spotify.com/album/7KDslrXaOYS28ferZi5UVK) | 1:08 |
 | 69 | [A Promise](https://open.spotify.com/track/0tXYcptTvLtFKGTzZnsd0b) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [The Avengers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wvpIkfl4oOgZLMaQBWadf) | 3:34 |
 | 70 | [The Punisher: One Last Kill](https://open.spotify.com/track/0FloDfbM8ifR0uARY24gNL) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [The Punisher: One Last Kill \(Original Soundtrack\)](https://open.spotify.com/album/55GpbjrB6e50qnvB9HHU1n) | 2:17 |
-| 71 | [Hideout](https://open.spotify.com/track/4avf3wjFUU2qlSs4Q9XHh5) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 1:51 |
-| 72 | [Infinity War](https://open.spotify.com/track/51Amo7fyI2jL3sf2UgX75i) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Infinity War \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/6Ltf5m1jvSomNQ0bhfuj5O) | 2:35 |
-| 73 | [Theme from Ant\-Man](https://open.spotify.com/track/6yNPVGljyzMYTxEhL6fLBg) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Ant\-Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72mY2C05rfAbkHOax2gJYf) | 2:46 |
-| 74 | [Captain America](https://open.spotify.com/track/2ZQ4lypCihgYLjIdvLRqyW) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Captain America: The Winter Soldier \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nWTffckeFVKV26BNZgKCl) | 9:41 |
-| 75 | [Showtime, A\-holes](https://open.spotify.com/track/35RaFNWvYLgutIP2sO8axR) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy Vol\. 2 \(Original Score\)](https://open.spotify.com/album/7zlX0VjDNoIXhZA1IzVN96) | 1:27 |
-| 76 | [Greater Together \(Album Version\)](https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz), [Ben Billions](https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5) | [Marvel's Spider\-Man 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:18 |
+| 71 | [The Fantastic Four: First Steps Main Theme \- From "The Fantastic Four: First Steps"](https://open.spotify.com/track/5pj3uTYB18t1xVOkrFm13I) | [Orchid Quartet](https://open.spotify.com/artist/5Zh8DIcOPVxz6ix1uMjLgh), [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Marvel Strings](https://open.spotify.com/album/7JqVHc7SMnfNzR6qXqBbQR) | 3:21 |
+| 72 | [Hideout](https://open.spotify.com/track/4avf3wjFUU2qlSs4Q9XHh5) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 1:51 |
+| 73 | [Infinity War](https://open.spotify.com/track/51Amo7fyI2jL3sf2UgX75i) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Infinity War \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/6Ltf5m1jvSomNQ0bhfuj5O) | 2:35 |
+| 74 | [Theme from Ant\-Man](https://open.spotify.com/track/6yNPVGljyzMYTxEhL6fLBg) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Ant\-Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/72mY2C05rfAbkHOax2gJYf) | 2:46 |
+| 75 | [Captain America](https://open.spotify.com/track/2ZQ4lypCihgYLjIdvLRqyW) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Captain America: The Winter Soldier \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nWTffckeFVKV26BNZgKCl) | 9:41 |
+| 76 | [Showtime, A\-holes](https://open.spotify.com/track/35RaFNWvYLgutIP2sO8axR) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0) | [Guardians of the Galaxy Vol\. 2 \(Original Score\)](https://open.spotify.com/album/7zlX0VjDNoIXhZA1IzVN96) | 1:27 |
+| 77 | [Greater Together \(Album Version\)](https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g) | [John Paesano](https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz), [Ben Billions](https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5) | [Marvel's Spider\-Man 2 \(Original Video Game Soundtrack\)](https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR) | 3:18 |
 
-Snapshot ID: `AAAAAFaZn+3tO1BJNfx4aOXVDLbLYy2T`
+Snapshot ID: `AAAAANL/QB14X3o0fe7RwVOlthBTTPxA`

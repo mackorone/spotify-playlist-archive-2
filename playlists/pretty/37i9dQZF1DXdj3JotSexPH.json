@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 35988,
+  "num_followers": 35987,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 226831,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "SPOOKY",
         "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 96923,
       "name": "SPOOKY",
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 226831,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "don't need u (i do)",
+        "url": "https://open.spotify.com/album/3epbfvjf6vhaKyZ9EzwjkZ"
+      },
+      "artists": [
+        {
+          "name": "blunn",
+          "url": "https://open.spotify.com/artist/6B8YEt3Z1wJiv8H8RTL9II"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "don't need u (i do)",
+      "url": "https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Halo (feat. Shibui)",
         "url": "https://open.spotify.com/album/7sZooyvXa18fr9wa8YHyqd"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 156000,
       "name": "Halo (feat. Shibui)",
       "url": "https://open.spotify.com/track/7ELMkdmYhcknPvzn0CydAJ"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "don't need u (i do)",
-        "url": "https://open.spotify.com/album/3epbfvjf6vhaKyZ9EzwjkZ"
-      },
-      "artists": [
-        {
-          "name": "blunn",
-          "url": "https://open.spotify.com/artist/6B8YEt3Z1wJiv8H8RTL9II"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "don't need u (i do)",
-      "url": "https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD"
     },
     {
       "added_at": "2026-04-13 15:38:24",

@@ -1,6 +1,6 @@
 {
   "description": "\u3044\u308d\u3044\u308d\u3042\u308b\u304b\u3082\u77e5\u308c\u306a\u3044\u3051\u308c\u3069\u3001\u3061\u3087\u3063\u3068\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\u30c1\u30eb\u306a\u697d\u66f2\u3067\u3086\u3063\u305f\u308a\u307e\u3063\u305f\u308a\u306a\u3072\u3068\u6642\u3092\u3002",
-  "num_followers": 29279,
+  "num_followers": 29284,
   "original_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,18 @@
     {
       "added_at": "2026-02-17 15:00:25",
       "album": {
-        "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
-        "url": "https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG"
+        "name": "Sign",
+        "url": "https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP"
       },
       "artists": [
         {
-          "name": "MAISONdes",
-          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
-        },
-        {
-          "name": "Riria.",
-          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
-        },
-        {
-          "name": "\u5357\u96f2\u3086\u3046\u304d",
-          "url": "https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk"
+          "name": "YRD Leo",
+          "url": "https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3"
         }
       ],
-      "duration_ms": 224633,
-      "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
-      "url": "https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9"
+      "duration_ms": 175871,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0"
     },
     {
       "added_at": "2026-02-17 15:00:25",
@@ -611,18 +603,26 @@
     {
       "added_at": "2026-02-17 15:00:25",
       "album": {
-        "name": "Sign",
-        "url": "https://open.spotify.com/album/3EFb6Oan6lEv0Bsg1vtdFP"
+        "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
+        "url": "https://open.spotify.com/album/35lGEqqUinzUucU3G9aHgG"
       },
       "artists": [
         {
-          "name": "YRD Leo",
-          "url": "https://open.spotify.com/artist/5k76ohP20fsSfGqQStU3A3"
+          "name": "MAISONdes",
+          "url": "https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM"
+        },
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        },
+        {
+          "name": "\u5357\u96f2\u3086\u3046\u304d",
+          "url": "https://open.spotify.com/artist/4dYXHUOE8nJFuJvYtykTuk"
         }
       ],
-      "duration_ms": 175871,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/0Os3RyzDGZunhO1ELCT9o0"
+      "duration_ms": 224633,
+      "name": "\u590f\u98a8\u306b\u6eb6\u3051\u308b",
+      "url": "https://open.spotify.com/track/1l2Jd4haFIUiIkBwkSagL9"
     },
     {
       "added_at": "2026-02-17 15:00:25",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-02-17 15:00:25",
       "album": {
-        "name": "\u604b\u611b\u5f8c\u907a\u75c7",
-        "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
-      },
-      "artists": [
-        {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "\u604b\u611b\u5f8c\u907a\u75c7",
-      "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
-    },
-    {
-      "added_at": "2026-02-17 15:00:25",
-      "album": {
         "name": "Massive",
         "url": "https://open.spotify.com/album/7hkllL5xMbAfynE2nkWPCF"
       },
@@ -831,6 +815,38 @@
     {
       "added_at": "2026-02-17 15:00:25",
       "album": {
+        "name": "\u604b\u611b\u5f8c\u907a\u75c7",
+        "url": "https://open.spotify.com/album/5IA4woiYpbC0sFN79fU8vr"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "\u604b\u611b\u5f8c\u907a\u75c7",
+      "url": "https://open.spotify.com/track/5piTDjvqDkSzXgJ6p2VO25"
+    },
+    {
+      "added_at": "2026-02-17 15:00:25",
+      "album": {
+        "name": "hikari",
+        "url": "https://open.spotify.com/album/2Md8hYlmgPWzNBR051fKkP"
+      },
+      "artists": [
+        {
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
+        }
+      ],
+      "duration_ms": 189357,
+      "name": "hikari",
+      "url": "https://open.spotify.com/track/15WwIDmvJi1f4CRdduBbrr"
+    },
+    {
+      "added_at": "2026-02-17 15:00:25",
+      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -843,26 +859,6 @@
       "duration_ms": 190331,
       "name": "1\u30ea\u30c3\u30bf\u30fc\u5206\u306e\u611b\u3092\u3053\u3081\u3066",
       "url": "https://open.spotify.com/track/12CAcVzra8ZX8WGCRs73r9"
-    },
-    {
-      "added_at": "2026-02-17 15:00:25",
-      "album": {
-        "name": "\u5fd8\u308c\u306a\u3044\u3067",
-        "url": "https://open.spotify.com/album/0ZV4jEpUusHAAkCRnP4ljL"
-      },
-      "artists": [
-        {
-          "name": "\u67ca\u4eba",
-          "url": "https://open.spotify.com/artist/6yyHILrojOyOKNvly7Yu0j"
-        },
-        {
-          "name": "Dengaryu",
-          "url": "https://open.spotify.com/artist/77UuWIk4w0o7rsn3q1Peru"
-        }
-      ],
-      "duration_ms": 253526,
-      "name": "\u5fd8\u308c\u306a\u3044\u3067 (feat. \u7530\u6211\u6d41)",
-      "url": "https://open.spotify.com/track/0suhDxWCySBmnehAxiJkG7"
     }
   ],
   "unique_name": "\u307e\u3069\u308d\u307f\u306e\u4e2d\u3067",

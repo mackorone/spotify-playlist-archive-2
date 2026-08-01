@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: NPD
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,525 likes - 112 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,618 likes - 112 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 2 | [ga peka](https://open.spotify.com/track/5Sjw9AXuNYYaygyOilsI4Z) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [ga peka](https://open.spotify.com/album/7C7Zt6MsnVtXmlR06sxBzm) | 3:37 |
 | 3 | [Teh Hijau](https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Teh Hijau](https://open.spotify.com/album/7A38wbAswxuZGB5aFvK9Qn) | 3:32 |
 | 4 | [Tulang dan Nadi](https://open.spotify.com/track/38hWMbRnP6ORTbEuAKk9TR) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tulang dan Nadi](https://open.spotify.com/album/6Ljpg0MzZrUMQZMqHl0kom) | 4:28 |
-| 5 | [Track 1](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 0:00 |
+| 5 | [Untuk Kau Hargai](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 4:18 |
 | 6 | [Lagu Selepas Hujan](https://open.spotify.com/track/5DcsPJ5VVz8V8YoLVO2T05) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Lagu Selepas Hujan](https://open.spotify.com/album/0EsljPrKAfTGZDQnWFzqL0) | 3:32 |
 | 7 | [MMG \(My Mine Gueh\)](https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [MMG \(My Mine Gueh\)](https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM) | 3:13 |
 | 8 | [honk!](https://open.spotify.com/track/462r5jEYbiNo6sqwCcRqhU) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [honk!](https://open.spotify.com/album/5PHqwsXzGYEwCia6TeT8Oc) | 2:15 |

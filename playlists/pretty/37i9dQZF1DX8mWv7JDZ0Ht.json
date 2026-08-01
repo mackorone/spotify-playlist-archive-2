@@ -219,6 +219,26 @@
     {
       "added_at": "2026-07-31 03:00:10",
       "album": {
+        "name": "BRava",
+        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
+      },
+      "artists": [
+        {
+          "name": "Jenni Mosello",
+          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        }
+      ],
+      "duration_ms": 189886,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
+    },
+    {
+      "added_at": "2026-07-31 03:00:10",
+      "album": {
         "name": "Disco Tropical",
         "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 148000,
       "name": "Noturno",
       "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
-    },
-    {
-      "added_at": "2026-07-31 03:00:10",
-      "album": {
-        "name": "BRava",
-        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
-      },
-      "artists": [
-        {
-          "name": "Jenni Mosello",
-          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 189886,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
     },
     {
       "added_at": "2026-07-31 03:00:10",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-07-31 03:00:10",
       "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
-    },
-    {
-      "added_at": "2026-07-31 03:00:10",
-      "album": {
         "name": "Cheirinho (Feat. YO\u00d9N)",
         "url": "https://open.spotify.com/album/2l22Z4Yjv0gQpkqp5CGVpw"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 173994,
       "name": "Cheirinho - Feat. YO\u00d9N",
       "url": "https://open.spotify.com/track/3q1mkSy6UIR0IQejy70sNZ"
+    },
+    {
+      "added_at": "2026-07-31 03:00:10",
+      "album": {
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
     },
     {
       "added_at": "2026-07-31 03:00:10",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-07-31 03:00:10",
       "album": {
+        "name": "Depois do Fim",
+        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
+      },
+      "artists": [
+        {
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
+        }
+      ],
+      "duration_ms": 124666,
+      "name": "Depois do Fim",
+      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
+    },
+    {
+      "added_at": "2026-07-31 03:00:10",
+      "album": {
         "name": "Um Doce, Uma Flor",
         "url": "https://open.spotify.com/album/6stvMGOqnhUpXi4MAr1lSL"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 145602,
       "name": "Um Doce, Uma Flor",
       "url": "https://open.spotify.com/track/2gkxkstkQbpHSxKbX4JRVN"
-    },
-    {
-      "added_at": "2026-07-31 03:00:10",
-      "album": {
-        "name": "Depois do Fim",
-        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
-      },
-      "artists": [
-        {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
-        }
-      ],
-      "duration_ms": 124666,
-      "name": "Depois do Fim",
-      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
     },
     {
       "added_at": "2026-07-31 03:00:10",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-07-31 03:00:10",
       "album": {
+        "name": "Muita Sede",
+        "url": "https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT"
+      },
+      "artists": [
+        {
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        }
+      ],
+      "duration_ms": 185166,
+      "name": "Outro \u00c1udio Meu",
+      "url": "https://open.spotify.com/track/45eC4p277r4CJukj5RZiHN"
+    },
+    {
+      "added_at": "2026-07-31 03:00:10",
+      "album": {
         "name": "Quarto",
         "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 119340,
       "name": "Eu s\u00f3 quero um xod\u00f3",
       "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
-    },
-    {
-      "added_at": "2026-07-31 03:00:10",
-      "album": {
-        "name": "Muita Sede",
-        "url": "https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        }
-      ],
-      "duration_ms": 185166,
-      "name": "Outro \u00c1udio Meu",
-      "url": "https://open.spotify.com/track/45eC4p277r4CJukj5RZiHN"
     },
     {
       "added_at": "2026-07-31 03:00:10",
@@ -1115,6 +1115,42 @@
     {
       "added_at": "2026-07-31 03:00:10",
       "album": {
+        "name": "Fa\u00e7o Parar de Chover",
+        "url": "https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        },
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 199711,
+      "name": "Fa\u00e7o Parar de Chover",
+      "url": "https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y"
+    },
+    {
+      "added_at": "2026-07-31 03:00:10",
+      "album": {
+        "name": "Esquina do Sol",
+        "url": "https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv"
+      },
+      "artists": [
+        {
+          "name": "Mari Froes",
+          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
+        }
+      ],
+      "duration_ms": 204208,
+      "name": "Reza Braba",
+      "url": "https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a"
+    },
+    {
+      "added_at": "2026-07-31 03:00:10",
+      "album": {
         "name": "J\u00e1 Vi Fogo",
         "url": "https://open.spotify.com/album/1H6u2TMNG8ZT91bDWkdJKu"
       },
@@ -1135,22 +1171,54 @@
     {
       "added_at": "2026-07-31 03:00:10",
       "album": {
-        "name": "Fa\u00e7o Parar de Chover",
-        "url": "https://open.spotify.com/album/29ZKPLd1xdn8JodQ5a00Cu"
+        "name": "Can\u00e7\u00f5es para Chico e Malu",
+        "url": "https://open.spotify.com/album/0BEPPsgQnoNluUPf171GhG"
       },
       "artists": [
         {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        },
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 199711,
-      "name": "Fa\u00e7o Parar de Chover",
-      "url": "https://open.spotify.com/track/5dfccBFPBINHmIXbvuos5Y"
+      "duration_ms": 180380,
+      "name": "Enquanto Voc\u00ea Cria Asas",
+      "url": "https://open.spotify.com/track/35yQ5QWeQMIAMUe3NlNtvk"
+    },
+    {
+      "added_at": "2026-07-31 03:00:10",
+      "album": {
+        "name": "Pra Almar no Frio",
+        "url": "https://open.spotify.com/album/28vRC789Hnqk5UKqpvoH0T"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "duration_ms": 147374,
+      "name": "Voc\u00ea \u00e9 Meu Lugar",
+      "url": "https://open.spotify.com/track/0Ke9hh991pyQLH4ivs3EiO"
+    },
+    {
+      "added_at": "2026-07-31 03:00:10",
+      "album": {
+        "name": "Te Amar",
+        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
+      },
+      "artists": [
+        {
+          "name": "Aydan",
+          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        }
+      ],
+      "duration_ms": 178645,
+      "name": "Te Amar",
+      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
     },
     {
       "added_at": "2026-07-31 03:00:10",
@@ -1199,58 +1267,6 @@
     {
       "added_at": "2026-07-31 03:00:10",
       "album": {
-        "name": "Pra Almar no Frio",
-        "url": "https://open.spotify.com/album/28vRC789Hnqk5UKqpvoH0T"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 147374,
-      "name": "Voc\u00ea \u00e9 Meu Lugar",
-      "url": "https://open.spotify.com/track/0Ke9hh991pyQLH4ivs3EiO"
-    },
-    {
-      "added_at": "2026-07-31 03:00:10",
-      "album": {
-        "name": "Te Amar",
-        "url": "https://open.spotify.com/album/7AdfzKVnZDHIHl4Oh9Arat"
-      },
-      "artists": [
-        {
-          "name": "Aydan",
-          "url": "https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "Te Amar",
-      "url": "https://open.spotify.com/track/2guWowZjpG8OPiIWaNRQOf"
-    },
-    {
-      "added_at": "2026-07-31 03:00:10",
-      "album": {
-        "name": "Can\u00e7\u00f5es para Chico e Malu",
-        "url": "https://open.spotify.com/album/0BEPPsgQnoNluUPf171GhG"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 180380,
-      "name": "Enquanto Voc\u00ea Cria Asas",
-      "url": "https://open.spotify.com/track/35yQ5QWeQMIAMUe3NlNtvk"
-    },
-    {
-      "added_at": "2026-07-31 03:00:10",
-      "album": {
         "name": "Bela Vista, 133",
         "url": "https://open.spotify.com/album/47l7dEphOlDIUb0anLNH0w"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 143810,
       "name": "Concreto, Ferro e Saudade",
       "url": "https://open.spotify.com/track/5F93PvARHaMpnkzCdK7rkQ"
-    },
-    {
-      "added_at": "2026-07-31 03:00:10",
-      "album": {
-        "name": "Esquina do Sol",
-        "url": "https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv"
-      },
-      "artists": [
-        {
-          "name": "Mari Froes",
-          "url": "https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S"
-        }
-      ],
-      "duration_ms": 204208,
-      "name": "Reza Braba",
-      "url": "https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a"
     }
   ],
   "unique_name": "Pop Leve",

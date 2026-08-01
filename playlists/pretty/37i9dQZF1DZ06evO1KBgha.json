@@ -1,12 +1,12 @@
 {
   "description": "This is Kenia Os. The essential tracks, all in one playlist.",
-  "num_followers": 383944,
+  "num_followers": 384006,
   "original_name": "This Is Kenia Os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAAAaYlTmfZqhmqtGt8Yi4oG4",
+  "snapshot_id": "amqUAAAAAADwANLmSrmCiJYRMUqBHVtb",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Boy! (feat. Kenia OS)",
+        "url": "https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        },
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165963,
+      "name": "Bad Boy! - feat. Kenia OS",
+      "url": "https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bate",
         "url": "https://open.spotify.com/album/5wxOpM3MyBMY5znE0kfiJr"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 138143,
       "name": "Bate",
       "url": "https://open.spotify.com/track/2POQJLngiE5R6RfdLgKkcI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Boy! (feat. Kenia OS)",
-        "url": "https://open.spotify.com/album/2Bv78Sp64rF7Gh0ALptmFJ"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        },
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 165963,
-      "name": "Bad Boy! - feat. Kenia OS",
-      "url": "https://open.spotify.com/track/26EXLk5OgybKFDvnV9Bj9x"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kenia Roast Yourself",
-        "url": "https://open.spotify.com/album/5nYnZHaiMCk9HohPwPG779"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 236288,
-      "name": "Kenia Roast Yourself",
-      "url": "https://open.spotify.com/track/3Z3cDIMrnPhIv0iCuhOqhY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "D\u00edas Tristes | Live From Vevo Studios",
         "url": "https://open.spotify.com/album/19i3iS7SZLO5MybFh9Hb5M"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 168273,
       "name": "D\u00edas Tristes | Live From Vevo Studios",
       "url": "https://open.spotify.com/track/3ehsmwSi4oO9fW4XpAwj2a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kenia Roast Yourself",
+        "url": "https://open.spotify.com/album/5nYnZHaiMCk9HohPwPG779"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 236288,
+      "name": "Kenia Roast Yourself",
+      "url": "https://open.spotify.com/track/3Z3cDIMrnPhIv0iCuhOqhY"
     }
   ],
   "unique_name": "This Is Kenia Os",

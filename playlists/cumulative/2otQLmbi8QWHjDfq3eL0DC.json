@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/4XDOSxZjyrmTrH6RHLa1dF"
+      },
+      "artists": [
+        {
+          "name": "Karim Naas",
+          "url": "https://open.spotify.com/artist/0CtbEQRf5QgHb89JgCl95n"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124365,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/0sBDzuaq2UUTBDGqD8ENSB"
+    },
+    {
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/2cQaAt8RZtWYFSaPLGXaBF"
       },
@@ -3379,6 +3397,24 @@
     },
     {
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/01hTuJ6v2hNLEm9Mpitxuf"
+      },
+      "artists": [
+        {
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1SZtncAeIWUEhifs39ASGa"
+    },
+    {
+      "album": {
         "name": "eternal life",
         "url": "https://open.spotify.com/album/35B3JXlJi4OCZ83NHrSGp2"
       },
@@ -3748,7 +3784,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 225483,
       "name": "Fledermaus",
       "url": "https://open.spotify.com/track/5ql94i5HmOxKpXPjElZ2j0"
@@ -3924,6 +3960,28 @@
       "duration_ms": 181507,
       "name": "Freaky G",
       "url": "https://open.spotify.com/track/03D6iANytXIFwl10jNUMci"
+    },
+    {
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/39hHUnYBmyMwprzRaPODCX"
     },
     {
       "album": {
@@ -5704,7 +5762,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 153683,
       "name": "Keeping Your Head Up",
       "url": "https://open.spotify.com/track/6oO0Whu0i2OqeBZYwz1a9Q"
@@ -6200,7 +6258,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 195692,
       "name": "Lift You Up",
       "url": "https://open.spotify.com/track/6WjsjuNCEgDhjqneiBGFrr"
@@ -6914,7 +6972,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 160641,
       "name": "Million Things",
       "url": "https://open.spotify.com/track/5LfXCy5ZJXdztuu5ophHzm"
@@ -7272,7 +7330,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 174028,
       "name": "Need U",
       "url": "https://open.spotify.com/track/7cYABSxx5iBZuNIOy2cVKc"
@@ -7367,6 +7425,28 @@
     },
     {
       "album": {
+        "name": "Night Sky (feat. Frankey & Sandrino)",
+        "url": "https://open.spotify.com/album/7B0MehYkXOgspI4fYTtTTC"
+      },
+      "artists": [
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        },
+        {
+          "name": "Frankey & Sandrino",
+          "url": "https://open.spotify.com/artist/50AWbCtpX2Hk9qnocJ34gk"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254769,
+      "name": "Night Sky (feat. Frankey & Sandrino)",
+      "url": "https://open.spotify.com/track/6ILpDTeLaLHSZt95C5WFJi"
+    },
+    {
+      "album": {
         "name": "Nikes On",
         "url": "https://open.spotify.com/album/6XNYFdj89d9S80qrwATYFH"
       },
@@ -7452,6 +7532,24 @@
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
+    },
+    {
+      "album": {
+        "name": "No White Lies",
+        "url": "https://open.spotify.com/album/7LLxEDgQLmbbVvVxVNVNRy"
+      },
+      "artists": [
+        {
+          "name": "Jorden Dux",
+          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182989,
+      "name": "No White Lies",
+      "url": "https://open.spotify.com/track/6In5HswjqM0V6uXlQnWelk"
     },
     {
       "album": {
@@ -8821,6 +8919,28 @@
     },
     {
       "album": {
+        "name": "Sexual / Do You Dream",
+        "url": "https://open.spotify.com/album/31vb6DdUqJlhyZNj8jAuAL"
+      },
+      "artists": [
+        {
+          "name": "Maria Rowe",
+          "url": "https://open.spotify.com/artist/2RUHqaK0NqlRmk59ln3Hlt"
+        },
+        {
+          "name": "Sophie Lloyd",
+          "url": "https://open.spotify.com/artist/6llIdnUsCdswsO6nExQIEF"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225854,
+      "name": "Sexual - Sophie Lloyd Edit",
+      "url": "https://open.spotify.com/track/4I8K91YNTOvwstBGVBsgbc"
+    },
+    {
+      "album": {
         "name": "Shadow (feat. MORGAN)",
         "url": "https://open.spotify.com/album/1Ypjjp8ACgey0utUoUBBM1"
       },
@@ -8898,6 +9018,24 @@
       "duration_ms": 226773,
       "name": "She\u2019s Gone, Dance On",
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "album": {
+        "name": "Should've Been",
+        "url": "https://open.spotify.com/album/7e7NGbnRzdGFOp2t0qWhm0"
+      },
+      "artists": [
+        {
+          "name": "THAT KIND",
+          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143047,
+      "name": "Should've Been",
+      "url": "https://open.spotify.com/track/2YSVqMtmFuqfl0gMOhD05W"
     },
     {
       "album": {
@@ -11054,7 +11192,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 140680,
       "name": "Vibe Check",
       "url": "https://open.spotify.com/track/6507rh4LJxpJUGtsOZoYGR"
@@ -11441,6 +11579,24 @@
     },
     {
       "album": {
+        "name": "We Are Fire",
+        "url": "https://open.spotify.com/album/5KFG9AI8DnimvD0hJeEizE"
+      },
+      "artists": [
+        {
+          "name": "Amour Propre",
+          "url": "https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142160,
+      "name": "We Are Fire",
+      "url": "https://open.spotify.com/track/7ilYgGXYEkJ0uk0Loxr8ym"
+    },
+    {
+      "album": {
         "name": "We Don\u2019t Have To (Clothes Off) [feat. Grace Bridie]",
         "url": "https://open.spotify.com/album/1khO1ssmIN8DNV3Gz259og"
       },
@@ -11808,7 +11964,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 165000,
       "name": "Wicked Games",
       "url": "https://open.spotify.com/track/1AsB0T44r5oRuhyhmguASq"
@@ -12146,7 +12302,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 170694,
       "name": "You Don't Own Me (feat. RAHH)",
       "url": "https://open.spotify.com/track/1TsDNh8OuRcGfNX4Dz8oVl"

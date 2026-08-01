@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Incredible tracks from trans, non-binary, and gender-fluid artists. Cover: Beverly Glenn-Copeland",
+  "description": "Incredible tracks from trans, non-binary, and gender-fluid artists. Cover: Arca",
   "name": "Transcend",
   "tracks": [
     {
@@ -4145,6 +4145,24 @@
     },
     {
       "album": {
+        "name": "Pop Sound",
+        "url": "https://open.spotify.com/album/4HPptvfX1qbjvNQd9d20Ql"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171172,
+      "name": "Pop Sound",
+      "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
+    },
+    {
+      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61"
       },
@@ -5100,6 +5118,24 @@
       "duration_ms": 273301,
       "name": "Sweet Cis Teen",
       "url": "https://open.spotify.com/track/3BtI05wNziDrIODXJqdKkK"
+    },
+    {
+      "album": {
+        "name": "XXXXX",
+        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138118,
+      "name": "Taconeando",
+      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 450806,
+  "num_followers": 450829,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Renascer Praise 13: A Colheita",
-        "url": "https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1"
-      },
-      "artists": [
-        {
-          "name": "Renascer Praise",
-          "url": "https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR"
-        }
-      ],
-      "duration_ms": 372826,
-      "name": "Eu Me Rendo",
-      "url": "https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Jesus, Eu, Voc\u00eas E O Pandeiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL"
+        "name": "Renascer Praise 13: A Colheita",
+        "url": "https://open.spotify.com/album/5F2jRc40cXhteOGtOvsDA1"
       },
       "artists": [
         {
-          "name": "Michele do Pandeiro",
-          "url": "https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn"
+          "name": "Renascer Praise",
+          "url": "https://open.spotify.com/artist/2eYrf1zekGvHGRkl9DZyGR"
         }
       ],
-      "duration_ms": 352032,
-      "name": "S\u00ea Valente / Deus Vai Te Guiar / O Cego De Jeric\u00f3 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3"
+      "duration_ms": 372826,
+      "name": "Eu Me Rendo",
+      "url": "https://open.spotify.com/track/3UrnpCBQyiWGCbZvsJsdck"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -1043,6 +1027,22 @@
       "duration_ms": 347434,
       "name": "Deus Vai Chegar Primeiro - Ao Vivo",
       "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
+        "name": "Jesus, Eu, Voc\u00eas E O Pandeiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4EIy665Pi9Rhn82zvVsWXL"
+      },
+      "artists": [
+        {
+          "name": "Michele do Pandeiro",
+          "url": "https://open.spotify.com/artist/01CFvZuAQEjTxH4Ab3yzzn"
+        }
+      ],
+      "duration_ms": 352032,
+      "name": "S\u00ea Valente / Deus Vai Te Guiar / O Cego De Jeric\u00f3 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3haojhxI65M4wDLPzNPPn3"
     },
     {
       "added_at": "2026-01-30 13:05:09",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
-        "name": "Fidelidade (Ao Vivo)",
-        "url": "https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        },
-        {
-          "name": "Danielle Cristina",
-          "url": "https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG"
-        }
-      ],
-      "duration_ms": 330921,
-      "name": "Fidelidade (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
         "name": "Outra Vez (Ao Vivo)",
         "url": "https://open.spotify.com/album/25kW5U8Nn74M7DBoUzKLBc"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 368250,
       "name": "Levanto Um Aleluia - Ao Vivo",
       "url": "https://open.spotify.com/track/7Doq6g4EEIrpyoYP48jGzK"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
+        "name": "Fidelidade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Danielle Cristina",
+          "url": "https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG"
+        }
+      ],
+      "duration_ms": 330921,
+      "name": "Fidelidade (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq"
     },
     {
       "added_at": "2026-01-30 13:05:09",

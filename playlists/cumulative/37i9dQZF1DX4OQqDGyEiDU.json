@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: NAKISO",
+  "description": "Explore the current wave of VOCALOID culture. Cover: balloon",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 179461,
       "name": "Dirty Look - Virtual Singer ver.",
       "url": "https://open.spotify.com/track/1uUfTM7ZkUru441ODYzAq5"
@@ -2897,6 +2897,24 @@
     },
     {
       "album": {
+        "name": "NORMAL END",
+        "url": "https://open.spotify.com/album/6d3z2Gkw7yyHjNI8ho5PCh"
+      },
+      "artists": [
+        {
+          "name": "\u306c\u3086\u308a",
+          "url": "https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132521,
+      "name": "nice dog",
+      "url": "https://open.spotify.com/track/4h3mI32kq75eFmoE19tSpn"
+    },
+    {
+      "album": {
         "name": "Noda",
         "url": "https://open.spotify.com/album/25bjUH5tKSuAQAD9mmFalp"
       },
@@ -3308,7 +3326,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 175706,
       "name": "POI (feat. HATSUNE MIKU)",
       "url": "https://open.spotify.com/track/23NIwfnFQZhzKn0BmokQ37"
@@ -4886,7 +4904,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-15",
+      "date_removed": null,
       "duration_ms": 217090,
       "name": "\u304d\u3085\u3046\u304f\u3089\u308a\u3093",
       "url": "https://open.spotify.com/track/56xCsaFsih5swf7IZXPYzU"
@@ -5226,7 +5244,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 216889,
       "name": "\u3064\u3065\u304f\u95d8\u4e89",
       "url": "https://open.spotify.com/track/5jTWfJYX5wY8uo2SswDbyP"
@@ -10315,6 +10333,24 @@
     },
     {
       "album": {
+        "name": "\u30ec\u30e0",
+        "url": "https://open.spotify.com/album/5jtubOW83MlnkqTLKoVN03"
+      },
+      "artists": [
+        {
+          "name": "balloon",
+          "url": "https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158838,
+      "name": "\u30ec\u30e0",
+      "url": "https://open.spotify.com/track/7jknqnVScv1P6ed2b7YCh1"
+    },
+    {
+      "album": {
         "name": "Heart Loom",
         "url": "https://open.spotify.com/album/3b5VjVk7maVSpwMc0tq66m"
       },
@@ -12315,6 +12351,24 @@
     },
     {
       "album": {
+        "name": "\u653e\u9001",
+        "url": "https://open.spotify.com/album/0jf4tQVuSEIcrJRkepzQJU"
+      },
+      "artists": [
+        {
+          "name": "Sasuke Haraguchi",
+          "url": "https://open.spotify.com/artist/7uugnrrGcHNunhme3bP1y3"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107812,
+      "name": "\u653e\u9001",
+      "url": "https://open.spotify.com/track/14OXQziwIkpL3wGTCLBJiP"
+    },
+    {
+      "album": {
         "name": "\u6563\u6b69\u306e\u90aa\u9b54",
         "url": "https://open.spotify.com/album/3PRgwCMZpDUBEetbvQsbs8"
       },
@@ -12554,7 +12608,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 200408,
       "name": "\u6b4c\u59eb\u5931\u683c (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2jTagQJVj27PYCCwuUoCUD"
@@ -13295,6 +13349,24 @@
     },
     {
       "album": {
+        "name": "\u304f\u3089\u3057\u30a2\u30bd\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/15bUakbuDdhL0sHTLsli39"
+      },
+      "artists": [
+        {
+          "name": "\u96fb\u01c2\u9be8",
+          "url": "https://open.spotify.com/artist/6xcEdIK4pJTFHXLyvuUaXm"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195693,
+      "name": "\u7ae5\u8a71\u306b\u306a\u3063\u305f\u3089\u3044\u3044\u306e\u306b",
+      "url": "https://open.spotify.com/track/0ZWQbOQpHp9UzpduRGfISw"
+    },
+    {
+      "album": {
         "name": "NOMAN",
         "url": "https://open.spotify.com/album/0TvuU4JKAZeEFOGPBCOfOt"
       },
@@ -13570,7 +13642,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 225748,
       "name": "\u82b1\u306b\u98a8",
       "url": "https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6"

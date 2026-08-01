@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari con Danny Ocean y Ryan Castro.
 
-446 songs - 1 day 5 hr 11 min
+447 songs - 1 day 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Do It Right](https://open.spotify.com/track/4uuWMM30p5K10k7amGqJXM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2023](https://open.spotify.com/album/2VV4AwkAHaWRJ3noJY6aWT) | 3:44 | 2023-07-21 |  |
 | [Don't Tell Me No \(feat\. Freddie McGregor\)](https://open.spotify.com/track/7zjlKNA7yr7xjd0RuGS4ZO) | [Locos Por Juana](https://open.spotify.com/artist/4AX0I32V6XRGh9aRv7wj2h), [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq) | [Don't Tell Me No \(feat\. Freddie McGregor\)](https://open.spotify.com/album/5wo1fwl9jvqsN4IqOMZb6S) | 3:29 | 2022-02-04 | 2022-04-21 |
 | [Déjate Llevar](https://open.spotify.com/track/7CRQjqPcpLVSiFO03nPDPU) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [Déjate Llevar](https://open.spotify.com/album/61XLohpI7uZMJJqZXR2ohy) | 3:45 | 2022-04-01 | 2022-06-11 |
-| [El Baile y El Salón](https://open.spotify.com/track/7CYUhmlh78j9u1rJPojNiL) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Baile y El Salón](https://open.spotify.com/album/4qVBQAJ9QcTfwUtGAAZsAi) | 4:51 | 2021-12-10 |  |
+| [El Baile y El Salón](https://open.spotify.com/track/7CYUhmlh78j9u1rJPojNiL) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Baile y El Salón](https://open.spotify.com/album/4qVBQAJ9QcTfwUtGAAZsAi) | 4:51 | 2021-12-10 | 2026-08-01 |
 | [El Curandero](https://open.spotify.com/track/6Gs3BpUh7sSv4yjOWXDy63) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM), [Oto Beats](https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68) | [El Curandero](https://open.spotify.com/album/2r9FHOtGmhEFV88vfwCFt5) | 4:52 | 2025-07-30 | 2026-02-25 |
 | [El Juego](https://open.spotify.com/track/3luUkcrGFBon4rWbiUl8uE) | [RickRocket](https://open.spotify.com/artist/4rx8YlvPpl82JWUB7qYV9G), [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [LENNY FACE](https://open.spotify.com/artist/0HZVh7FupbjZwYOgnPU6t8) | [Alma Zen](https://open.spotify.com/album/5czi0Oatq5qgaF4TTlnNvt) | 3:06 | 2024-11-29 | 2025-04-13 |
 | [El Man Perfecto](https://open.spotify.com/track/6liVt4KfKzMQ4vdedo8Ld2) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [El Man Perfecto](https://open.spotify.com/album/6gifQZChGomZlbjyvvG7wK) | 3:32 | 2023-08-18 | 2023-10-02 |
@@ -341,6 +341,7 @@
 | [Reggae en el Universo](https://open.spotify.com/track/2Ia1yLjMXjNoGGqXb9rDHj) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe), [Mykal Rose](https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q) | [Reggae en el Universo](https://open.spotify.com/album/5vBxBN71u1eiOpSyPVBrQ0) | 3:56 | 2023-08-18 | 2023-10-22 |
 | [Reggae Para Los Amigos](https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:56 | 2021-12-10 |  |
 | [Reggae Romántico](https://open.spotify.com/track/64PEqNkG3GWJIEu4klZbP1) | [Maritune](https://open.spotify.com/artist/5pZKCvKqPprJ96bKy7jjUY) | [Reggae Romántico](https://open.spotify.com/album/5CgoACKArr2wOaJiz0TthJ) | 3:30 | 2023-10-27 | 2024-01-27 |
+| [REINA \(KRIMINAL\)](https://open.spotify.com/track/6YCdfQNDpfvY9D9JHc9VmR) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [REINA \(KRIMINAL\)](https://open.spotify.com/album/7eblPvGdDiHG1vHdtc7pys) | 2:44 | 2026-07-31 |  |
 | [Resiste](https://open.spotify.com/track/14ljUE4u1VaoypaUp8wKpf) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R), [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy) | [Resiste](https://open.spotify.com/album/6nFGKoDThOrTVuBOzEnWM7) | 3:09 | 2025-07-30 | 2025-10-10 |
 | [Resistencia indigena](https://open.spotify.com/track/1dIhVyOcHzgL07hSO7IOex) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [Sig Ragga](https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r) | 5:09 | 2021-12-10 | 2022-07-27 |
 | [Resistir](https://open.spotify.com/track/0LFSbyvl4LjLTMvCWKb1Ue) | [David Kawooq](https://open.spotify.com/artist/71miEAUvClO9XgUdy6dqnZ), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Resistir](https://open.spotify.com/album/0f2OynhFGw9vY0TtcdqTfg) | 3:12 | 2022-02-04 | 2022-07-18 |

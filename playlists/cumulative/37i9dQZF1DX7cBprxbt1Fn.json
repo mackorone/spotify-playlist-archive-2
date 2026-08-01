@@ -2273,6 +2273,32 @@
     },
     {
       "album": {
+        "name": "Anthony Hopkins: Tara",
+        "url": "https://open.spotify.com/album/1yhMlye6Ws5MxUan8h82Nm"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hopkins",
+          "url": "https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331133,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/3epb06FbivsK8CoFFCqo7V"
+    },
+    {
+      "album": {
         "name": "Urban Impressionism",
         "url": "https://open.spotify.com/album/2HwoFNovpqusvem2csYBU4"
       },

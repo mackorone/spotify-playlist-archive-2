@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,328 likes - 121 songs - 6 hr 58 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,328 likes - 122 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,5 +129,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 119 | [Vola Leggera](https://open.spotify.com/track/6kzM8uw61dGVDElx6EW0Vf) | [Giofly](https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp) | [Vola Leggera](https://open.spotify.com/album/0h3LnXhQjcgeqZsPMJ34Mo) | 4:54 |
 | 120 | [Keep On](https://open.spotify.com/track/2EeGM8HJAcABdRJlUD2zNp) | [Urban Psalm](https://open.spotify.com/artist/5ljCY9HMtCo072z28PCuHK) | [Keep On](https://open.spotify.com/album/6p3z9hLzS3UdK9Hr0F3Dfz) | 4:17 |
 | 121 | [REBORN](https://open.spotify.com/track/14xy96mlVAmznohNLXRO5j) | [DISSONANT](https://open.spotify.com/artist/3XYNgEne3ULFkzHdtXXUpl) | [AFTERDOPAMYNE](https://open.spotify.com/album/6KfgIIVc5kUvBnMmQzjob8) | 2:34 |
+| 122 | [Mungkin Mungkinkan](https://open.spotify.com/track/6fZWyNAtgPxaDz8smQ5OD0) | [Vendaz](https://open.spotify.com/artist/2yBdZ8lKzqEK1LcOlRxAwE), [Varenza Maurelya](https://open.spotify.com/artist/19J31EsEi89taAxSQ1JtZo) | [Mungkin Mungkinkan](https://open.spotify.com/album/1GvxjFP6QUPZOkkvSMiNEJ) | 4:14 |
 
-Snapshot ID: `AAAWjrpNNXIm1ENiDyMZuJXE9rnialVF`
+Snapshot ID: `AAAWj/dg71LxVpk2Fvl2OZluX/pDBZQS`

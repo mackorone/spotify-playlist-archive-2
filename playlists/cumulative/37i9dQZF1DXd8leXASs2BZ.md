@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Fisong
 
-1,722 songs - 3 day 6 hr 44 min
+1,723 songs - 3 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [going \(feat\. VIGOR MAN\)](https://open.spotify.com/track/29pYdeFpHPW8gFWQB5UgAM) | [GINJI MIKAZUKI](https://open.spotify.com/artist/6J07tTWInNyy1ZzWcr8roz), [VIGOR MAN](https://open.spotify.com/artist/3expK8GzSFWORVEFnKq8h1) | [Le Lien](https://open.spotify.com/album/7JJP4uDWTKWmNxi05g6StI) | 2:58 | 2024-11-19 | 2024-11-21 |
 | [Going Backwards \(feat\. 9for\)](https://open.spotify.com/track/5WscUzfQOdjukpRKwbqP81) | [A.O.](https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI), [9for](https://open.spotify.com/artist/7ou6o7WaEvZOjbpydt9Pgl) | [Going Backwards \(feat\. 9for\)](https://open.spotify.com/album/3pM3ya7DmuDeyTcHRppRJd) | 2:45 | 2024-12-10 | 2025-01-09 |
 | [GOLD RUSH](https://open.spotify.com/track/7FFO2U4dUPmJNHBdCl6cJL) | [FUNNYSTREET](https://open.spotify.com/artist/5H9ffxwTyQrD4QqsDR2kHb) | [GOLD RUSH](https://open.spotify.com/album/2bQw2Z9KCxaZaEnobcfXEF) | 2:50 | 2024-05-08 | 2024-07-31 |
+| [Goldie Sound \(feat\. Yvngboi P\)](https://open.spotify.com/track/5kXYF2zevh8CNVsaX97jtj) | [Gam Ball](https://open.spotify.com/artist/4BuoZTTiixgFgZxB4gCW83), [Yvngboi P](https://open.spotify.com/artist/6OpF456GdtGi3oqOafqVWW) | [GAME CHANGE](https://open.spotify.com/album/7zfnXpBgN3dtdNhkmZq3hj) | 2:39 | 2026-07-31 |  |
 | [Gomi](https://open.spotify.com/track/0aHVezQ7fvR56fqtDNL0P5) | [BFN TOKYOTRILL](https://open.spotify.com/artist/1VuOxzoNAxcI7c2QROGWM2) | [Freak](https://open.spotify.com/album/2YS5frwK8EdONe5u5QKjim) | 1:36 | 2026-05-07 | 2026-05-27 |
 | [GONG](https://open.spotify.com/track/64wgkR32dG4TL8LnpmSZwa) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Waston](https://open.spotify.com/artist/1xUS45eqj5e7eVpmlJvAcr), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [GONG](https://open.spotify.com/album/20B6oL3ICsUzjKWqcRFjxr) | 3:52 | 2024-03-05 | 2024-04-19 |
 | [GONG](https://open.spotify.com/track/1yXrDx1K5K8c9yaX9Dh73C) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [GONG](https://open.spotify.com/album/30dtaFDTsIHYsQCTDuWSQK) | 3:52 | 2024-04-16 | 2024-05-02 |

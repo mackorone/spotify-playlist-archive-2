@@ -574,7 +574,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 174175,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/01ROOZyL7yFfuVZsOmcxVJ"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 182860,
       "name": "Altitude",
       "url": "https://open.spotify.com/track/4oMMgWfDl9k3FUIL6BltNs"
@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "Aurora Lenta",
       "url": "https://open.spotify.com/track/15iQzqps9VrV0zrzatLVqY"
@@ -3448,6 +3448,24 @@
       "duration_ms": 176000,
       "name": "Between Spaces",
       "url": "https://open.spotify.com/track/7nvjIHMHFMoh6Sabzs4pfX"
+    },
+    {
+      "album": {
+        "name": "Between Two Silences",
+        "url": "https://open.spotify.com/album/2P8bZH68FZzty9IvUw93qr"
+      },
+      "artists": [
+        {
+          "name": "Orion's Passage",
+          "url": "https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188717,
+      "name": "Between Two Silences",
+      "url": "https://open.spotify.com/track/7AMzH1XhFzAIQZ3lZvLHxI"
     },
     {
       "album": {
@@ -4042,6 +4060,24 @@
       "duration_ms": 120000,
       "name": "Breath in the wild",
       "url": "https://open.spotify.com/track/0tUbZj0kg8zXSHLtwnovuB"
+    },
+    {
+      "album": {
+        "name": "Breath of Night",
+        "url": "https://open.spotify.com/album/3VY9XM9wMomvnkWpOTUWNg"
+      },
+      "artists": [
+        {
+          "name": "Marble Sky",
+          "url": "https://open.spotify.com/artist/2awMBCWxb7gBGkxyC4QTRI"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189622,
+      "name": "Breath of Night",
+      "url": "https://open.spotify.com/track/4mTdJUOF7N5owJJrT4g0ZO"
     },
     {
       "album": {
@@ -5982,7 +6018,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Copenhagen Nights",
       "url": "https://open.spotify.com/track/5q5ztGTMU8b9o8dM5WwfFi"
@@ -6756,7 +6792,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 180186,
       "name": "Deep Abyssal",
       "url": "https://open.spotify.com/track/22LEo2UNoQMBaJWApcj5gE"
@@ -7836,7 +7872,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Dreamfields",
       "url": "https://open.spotify.com/track/6JrcRaNQmyMrBPrtjypB9x"
@@ -8016,7 +8052,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 167008,
       "name": "Dreyma",
       "url": "https://open.spotify.com/track/4k1kHU7F4Y2rJFkDJrtcuk"
@@ -8272,6 +8308,24 @@
       "duration_ms": 245514,
       "name": "Dulces Sue\u00f1os",
       "url": "https://open.spotify.com/track/4xYu3ms4RRPwYjoZV7qEPl"
+    },
+    {
+      "album": {
+        "name": "Dusk Through Pines",
+        "url": "https://open.spotify.com/album/7i5WQFocyLrxkJowleLRm3"
+      },
+      "artists": [
+        {
+          "name": "Siestaphonic",
+          "url": "https://open.spotify.com/artist/0Yq3eHs1DRXkUOwMoJyfap"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Dusk Through Pines",
+      "url": "https://open.spotify.com/track/3yx7X3fuwJfxFPAAnDmDoO"
     },
     {
       "album": {
@@ -10652,7 +10706,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 129740,
       "name": "Familiar Hemisphere",
       "url": "https://open.spotify.com/track/79QDfGlwn1LjdNyHPJuucN"
@@ -10724,7 +10778,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 165008,
       "name": "Feather",
       "url": "https://open.spotify.com/track/00BixfjUHJiCcCNqmignmU"
@@ -12578,7 +12632,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 169202,
       "name": "Harmonia",
       "url": "https://open.spotify.com/track/01DCyee4FdK6k5Y91lznQK"
@@ -12740,7 +12794,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Hearts in Eden",
       "url": "https://open.spotify.com/track/7DKJZvhmfl6ijl5mjFGooO"
@@ -15465,6 +15519,24 @@
     },
     {
       "album": {
+        "name": "Light, Settling In",
+        "url": "https://open.spotify.com/album/2C13o7tm6adWBmtTxuY7Uc"
+      },
+      "artists": [
+        {
+          "name": "Dorian Froste",
+          "url": "https://open.spotify.com/artist/70eqTmilvlPutXBD4hp0Ss"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Light, Settling In",
+      "url": "https://open.spotify.com/track/1g068A8swrvzla2jftIyOT"
+    },
+    {
+      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH"
       },
@@ -16268,7 +16340,7 @@
       ],
       "date_added": "2025-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 190188,
       "name": "Lunar Hope",
       "url": "https://open.spotify.com/track/49GSahFoqXRaNbES3wvR7X"
@@ -16308,6 +16380,24 @@
       "duration_ms": 173333,
       "name": "Lunatheris",
       "url": "https://open.spotify.com/track/2z5oBmyg1XPkzzlk0beyqg"
+    },
+    {
+      "album": {
+        "name": "Luneth Vale",
+        "url": "https://open.spotify.com/album/0PWU8GbIJhHmSlX0bCIJ1n"
+      },
+      "artists": [
+        {
+          "name": "Silva Aeter",
+          "url": "https://open.spotify.com/artist/7bUn6fJdrluVqdNYuGtDeY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143214,
+      "name": "Luneth Vale",
+      "url": "https://open.spotify.com/track/1drfUt805eVEPBjq0MeUIs"
     },
     {
       "album": {
@@ -17600,7 +17690,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 145920,
       "name": "Moments",
       "url": "https://open.spotify.com/track/09gam7W4R7EnINv1m1j3Pi"
@@ -19894,7 +19984,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 140487,
       "name": "One Moon",
       "url": "https://open.spotify.com/track/5HfGapbGX8brM6Rynv9Dcd"
@@ -20344,7 +20434,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 157673,
       "name": "Pale Memory",
       "url": "https://open.spotify.com/track/7rhwr3FfXyso3CpR5d3X97"
@@ -20506,7 +20596,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 163274,
       "name": "Particles",
       "url": "https://open.spotify.com/track/4HQhAXCaJqXtLvrinExlNc"
@@ -24117,6 +24207,24 @@
     },
     {
       "album": {
+        "name": "Sereno",
+        "url": "https://open.spotify.com/album/5iv9NmgJohZhT24l789oNR"
+      },
+      "artists": [
+        {
+          "name": "Luna Ombro",
+          "url": "https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "Sereno",
+      "url": "https://open.spotify.com/track/7rx9Pc2c2f4k9KtBsHZzXC"
+    },
+    {
+      "album": {
         "name": "Sessiz Tepeler",
         "url": "https://open.spotify.com/album/4SF3qwneStFulFbf3kIlOP"
       },
@@ -24884,7 +24992,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 201250,
       "name": "Sleep Meridian",
       "url": "https://open.spotify.com/track/6p0QQYKH786hoZYn1Rm9S5"
@@ -25874,7 +25982,7 @@
       ],
       "date_added": "2025-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 182131,
       "name": "Somna",
       "url": "https://open.spotify.com/track/2pxZlxVk1PWbI2tw7j0QnD"
@@ -27444,7 +27552,7 @@
       ],
       "date_added": "2025-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-12",
+      "date_removed": null,
       "duration_ms": 178369,
       "name": "Sundial in the Fog",
       "url": "https://open.spotify.com/track/63n4BKVSL1tUR0wT5uVxD9"
@@ -28992,7 +29100,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-04",
+      "date_removed": null,
       "duration_ms": 152462,
       "name": "Torus",
       "url": "https://open.spotify.com/track/2HIJfqDa0ucGM80fK99Wr7"
@@ -30418,6 +30526,24 @@
       "duration_ms": 182000,
       "name": "Verdensrommet",
       "url": "https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf"
+    },
+    {
+      "album": {
+        "name": "Vernal",
+        "url": "https://open.spotify.com/album/0xN7VLbL10RZCV4jBdaTtv"
+      },
+      "artists": [
+        {
+          "name": "Fhye",
+          "url": "https://open.spotify.com/artist/4OkwpFJVN2Zp05JhlkDnGb"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Vernal",
+      "url": "https://open.spotify.com/track/3ZIKJyWSsS6yYdU3CMUieO"
     },
     {
       "album": {

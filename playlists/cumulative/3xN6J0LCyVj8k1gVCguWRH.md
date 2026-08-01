@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,365 songs - 14 day 20 hr 10 min
+6,366 songs - 14 day 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2063,7 +2063,7 @@
 | [G.O.T.U](https://open.spotify.com/track/2lP97dwkvjIgiadmKESXc7) | [NiTE](https://open.spotify.com/artist/5eFmGVpLCExDmZ8JawLvgI) | [G.O.T.U](https://open.spotify.com/album/6CIwpRdhfHtmasrBMjMr0b) | 2:37 | 2020-11-27 | 2020-12-12 |
 | [Gah Dam](https://open.spotify.com/track/4JNUF2iJ9eculCbALVkaVK) | [boldmovepilot](https://open.spotify.com/artist/6Zm6irrPHsQu05ljQrvskJ) | [Gah Dam](https://open.spotify.com/album/2Z9RmexYC43VAl6nOxBgWL) | 3:43 | 2021-09-18 | 2021-10-04 |
 | [Galaxies](https://open.spotify.com/track/0SQ3vTpNeaafHqKZpxUDMc) | [Malena Boccadoro](https://open.spotify.com/artist/2fnBai6J8KiaSDrMZ9kSAX) | [Galaxies](https://open.spotify.com/album/3Pg1dOxJqBXNytWxa1ipSc) | 2:58 | 2023-02-17 | 2023-03-18 |
-| [GALAXY](https://open.spotify.com/track/4McDbvfHPNoV538OQGr5P9) | [Jill Govan](https://open.spotify.com/artist/66XyaRhb5gOsHZ1nRcCgnk) | [GALAXY](https://open.spotify.com/album/0jFjIlcHB5b7ibQ8Uvbbij) | 4:07 | 2026-06-29 | 2026-07-31 |
+| [GALAXY](https://open.spotify.com/track/4McDbvfHPNoV538OQGr5P9) | [Jill Govan](https://open.spotify.com/artist/66XyaRhb5gOsHZ1nRcCgnk) | [GALAXY](https://open.spotify.com/album/0jFjIlcHB5b7ibQ8Uvbbij) | 4:07 | 2026-06-29 |  |
 | [Galaxy](https://open.spotify.com/track/3OeOgrwuCqNkrpWsFxDcL5) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk), [Eluzai](https://open.spotify.com/artist/2N0c1H0QXGAfZQHASg7ir4) | [Galaxy](https://open.spotify.com/album/1M6CiP9dTyIJ43Mkg4hoZR) | 2:49 | 2020-08-12 | 2021-03-14 |
 | [Game Is On](https://open.spotify.com/track/1jQpoZAhmWIQ5zXbBYVc1I) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Game Is On](https://open.spotify.com/album/6d3lJxR3EMd9opfL0rv99k) | 5:17 | 2022-12-10 | 2023-01-03 |
 | [Game We Play](https://open.spotify.com/track/5To2GjlLj106cVJlXCoKjW) | [Sarah Tolle](https://open.spotify.com/artist/3vGD9oHaS2S8t6LehpCVQX) | [Game We Play](https://open.spotify.com/album/5ZOpfZD0bq8euNZmzhlFXC) | 3:32 | 2022-06-10 | 2022-06-26 |
@@ -4181,6 +4181,7 @@
 | [Patience](https://open.spotify.com/track/11Y8QdmR0stxwNVKUY6amJ) | [E'Lanah](https://open.spotify.com/artist/2DMHbLQHNaBVpFoIQWAAZJ) | [Patience](https://open.spotify.com/album/240tdkJqWdtxRkRKgcTE1E) | 2:08 | 2024-03-24 | 2024-04-06 |
 | [Pay Day](https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Pay Day](https://open.spotify.com/album/4I4Xsf6B2EzM2kfwJeUPSB) | 3:25 | 2025-11-08 | 2025-12-19 |
 | [Pay the Price](https://open.spotify.com/track/3nSCIWeddEXa0wdCQ07nB2) | [Barameer](https://open.spotify.com/artist/33Wc386SadkwsL9qWThZ30) | [Pay the Price](https://open.spotify.com/album/7y4HRz6j06NWTSfmLk4Qqg) | 4:49 | 2024-02-06 | 2024-02-18 |
+| [Paying It Forward](https://open.spotify.com/track/4MFOVDBBmO8n26BkYyMQwS) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [Paying It Forward](https://open.spotify.com/album/142wQ3h6ZHW9OpXmkUrqQT) | 3:00 | 2026-07-31 |  |
 | [Pa’ besarte](https://open.spotify.com/track/2uVCgGQRVEQMSbUNJDbYYd) | [Miléna Boleda](https://open.spotify.com/artist/5tOodo2747NVK5UAvXoDet) | [Pa’ besarte](https://open.spotify.com/album/2XnyGAjJrj5Wr5KoHqOCvv) | 2:53 | 2023-03-17 | 2023-04-09 |
 | [PBE](https://open.spotify.com/track/0sHVpJqwsO4F2RZ6c8HJM3) | [BEATCAVE](https://open.spotify.com/artist/3hgj9nNZaEdNMuiA7JjEVw), [Spitty](https://open.spotify.com/artist/3o4GlelHWI6tlB04MACpS6), [Achanté](https://open.spotify.com/artist/5WWz6bTj6l2NOFLs1RvTnI), [Siren Sav](https://open.spotify.com/artist/58yrLOZFHchwM7MkyLJgw0) | [PBE](https://open.spotify.com/album/1hvL2CQed7IdxlemP9icR7) | 3:08 | 2024-03-25 | 2024-04-06 |
 | [PDA of the Mainstream](https://open.spotify.com/track/0XD4MrtcrDC7H0P01XMqSI) | [Caroline Romano](https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol) | [PDA of the Mainstream](https://open.spotify.com/album/0GXvPGYc9x1kf7ulzLhaK9) | 2:35 | 2021-06-28 | 2021-07-11 |

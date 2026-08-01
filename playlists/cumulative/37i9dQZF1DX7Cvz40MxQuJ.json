@@ -1841,6 +1841,28 @@
     },
     {
       "album": {
+        "name": "Santaolalla: Theme from \"The Last of Us\" (Transcr. Trifonov for Piano)",
+        "url": "https://open.spotify.com/album/3pfA3PO1UEEyMxO9YVB0gn"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219853,
+      "name": "Theme from \"The Last of Us\" (Transcr. Trifonov for Piano)",
+      "url": "https://open.spotify.com/track/0vmsddNToA3Q7m5BQF6DVX"
+    },
+    {
+      "album": {
         "name": "Hagen: Trio in E-Flat Major: II. Andantino",
         "url": "https://open.spotify.com/album/7mHmOgpxipnC6B6OA062sM"
       },

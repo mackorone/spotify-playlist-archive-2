@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Shania Twain",
+  "description": "The home of Canadian country music. Cover: Lucas Mason",
   "name": "North Country",
   "tracks": [
     {
@@ -2291,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Course de chaloupe",
+        "url": "https://open.spotify.com/album/7tGafQEfYY9QGthkshc38B"
+      },
+      "artists": [
+        {
+          "name": "Francis Degrandpr\u00e9",
+          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161481,
+      "name": "Course de chaloupe",
+      "url": "https://open.spotify.com/track/2Qp3PHliV7wObsqRBF20ZU"
+    },
+    {
+      "album": {
         "name": "Cowboy Crazy",
         "url": "https://open.spotify.com/album/6iCqqjiTUNmEo2Lgj2OEs1"
       },
@@ -2930,6 +2948,24 @@
       "duration_ms": 170251,
       "name": "Do It Anyway",
       "url": "https://open.spotify.com/track/1SUThmS3UmUbNBWDsuqWto"
+    },
+    {
+      "album": {
+        "name": "DOG AT THE DOOR",
+        "url": "https://open.spotify.com/album/3dw6fz9K0v8k17PEPtarSk"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167224,
+      "name": "DOG AT THE DOOR",
+      "url": "https://open.spotify.com/track/07X9aaC7Aw2UTDP6ZgarFa"
     },
     {
       "album": {
@@ -4234,6 +4270,24 @@
       "duration_ms": 234426,
       "name": "Good at Gettin' Gone",
       "url": "https://open.spotify.com/track/1TVvBBJbngg3UIHMYieufG"
+    },
+    {
+      "album": {
+        "name": "Good In Goodbye",
+        "url": "https://open.spotify.com/album/4WLO7AJgY2k9EChkpBMvB2"
+      },
+      "artists": [
+        {
+          "name": "Amanda & James",
+          "url": "https://open.spotify.com/artist/3a1oFji5KaCbVZ8oOU05ol"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "Good In Goodbye",
+      "url": "https://open.spotify.com/track/0IysXUMpcDEIJ3HHWCLjmI"
     },
     {
       "album": {
@@ -5556,6 +5610,24 @@
       "duration_ms": 201417,
       "name": "I Hope You Know",
       "url": "https://open.spotify.com/track/1DKXdNUjeZoIO59jwunAz3"
+    },
+    {
+      "album": {
+        "name": "I Hope You Love Me",
+        "url": "https://open.spotify.com/album/2bzTwbPkr9rWMHepAI3ORA"
+      },
+      "artists": [
+        {
+          "name": "Ariana Fig",
+          "url": "https://open.spotify.com/artist/7t96BctZBDQcfKnDfREzDg"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234194,
+      "name": "I Hope You Love Me",
+      "url": "https://open.spotify.com/track/5sYxpgBo0LKhZjcZlRI9BG"
     },
     {
       "album": {
@@ -7041,6 +7113,24 @@
     },
     {
       "album": {
+        "name": "The Good, The Bad & The Ugly",
+        "url": "https://open.spotify.com/album/7qmo6zUTo0mW3yEOY7S0Nk"
+      },
+      "artists": [
+        {
+          "name": "Ryan Langdon",
+          "url": "https://open.spotify.com/artist/7xceJlDYJKhn4KdxY8CWaV"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159331,
+      "name": "Little Red Rider",
+      "url": "https://open.spotify.com/track/3eK0Z3M2R9LPYLZ0x0CETS"
+    },
+    {
+      "album": {
         "name": "Living For Friday Night",
         "url": "https://open.spotify.com/album/45gfFxEmg2mJGYIDUQ89ji"
       },
@@ -7637,6 +7727,24 @@
     },
     {
       "album": {
+        "name": "Mind Like Mine",
+        "url": "https://open.spotify.com/album/71bSjCXPbNNii1X5wMj458"
+      },
+      "artists": [
+        {
+          "name": "Noah Brigden",
+          "url": "https://open.spotify.com/artist/5EdacsFISJ3eDuq0Knbbub"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Mind Like Mine",
+      "url": "https://open.spotify.com/track/79j8AeqPWwClJ1LKNwmXcr"
+    },
+    {
+      "album": {
         "name": "MISERY",
         "url": "https://open.spotify.com/album/5RWfbBGrY6qFz8ibu7x7Tt"
       },
@@ -8176,6 +8284,24 @@
       "duration_ms": 160574,
       "name": "Nice Girl",
       "url": "https://open.spotify.com/track/2TylYUOGXjj0lXFqlNn6zK"
+    },
+    {
+      "album": {
+        "name": "nicotine",
+        "url": "https://open.spotify.com/album/2zuYLWpoZoSQFH2jNtEzrg"
+      },
+      "artists": [
+        {
+          "name": "TANAEYA",
+          "url": "https://open.spotify.com/artist/7ktC7CL0wvuCItO8rMC2Pa"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137435,
+      "name": "nicotine",
+      "url": "https://open.spotify.com/track/1nEKLhVIuIAWscsQcyiDZh"
     },
     {
       "album": {
@@ -8834,6 +8960,24 @@
       "duration_ms": 148995,
       "name": "ordinary love song",
       "url": "https://open.spotify.com/track/17NrsW6bdRJzkUjCDnEEuj"
+    },
+    {
+      "album": {
+        "name": "Other Girls",
+        "url": "https://open.spotify.com/album/21worPka1o8CXJSPMxtBmi"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144495,
+      "name": "Other Girls",
+      "url": "https://open.spotify.com/track/4xYrKRjvtJOcEkXM8ZO8K5"
     },
     {
       "album": {
@@ -9714,6 +9858,24 @@
       "duration_ms": 228101,
       "name": "River Runnin' Wide",
       "url": "https://open.spotify.com/track/0SbrzOOLejgBYDqg9CFw6m"
+    },
+    {
+      "album": {
+        "name": "Road Where I Belong",
+        "url": "https://open.spotify.com/album/46tTpwKbUBPhuwhn6seRCv"
+      },
+      "artists": [
+        {
+          "name": "Justin Fancy",
+          "url": "https://open.spotify.com/artist/3Z2OcC4z5YzBqMMMplywFj"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201067,
+      "name": "Road Where I Belong",
+      "url": "https://open.spotify.com/track/5kYnkrqMgLg2ASMjnuR45b"
     },
     {
       "album": {
@@ -11025,6 +11187,24 @@
     },
     {
       "album": {
+        "name": "Stick Around",
+        "url": "https://open.spotify.com/album/3UbKRawIjlP6wHYeNAYxgj"
+      },
+      "artists": [
+        {
+          "name": "School House",
+          "url": "https://open.spotify.com/artist/37JHgl2RfDoQKLho1Ig2gC"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218737,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/0jl05CPyVRYqQ9wpBFsFvT"
+    },
+    {
+      "album": {
         "name": "Still Make Cowgirls",
         "url": "https://open.spotify.com/album/7tYoO5Hw7GbyYXXofPIWi5"
       },
@@ -11227,6 +11407,24 @@
     },
     {
       "album": {
+        "name": "Sunglasses",
+        "url": "https://open.spotify.com/album/6OgaztwHZyNolPc9PwBwlS"
+      },
+      "artists": [
+        {
+          "name": "Kerrington Gillespie",
+          "url": "https://open.spotify.com/artist/68xYQGUaaSPp2cKgWs0udv"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166236,
+      "name": "Sunglasses",
+      "url": "https://open.spotify.com/track/0PJltXf36bt5BrE18BH7mk"
+    },
+    {
+      "album": {
         "name": "Sunshine's Free",
         "url": "https://open.spotify.com/album/4pMNPwosSwKdAYj6T1xbtf"
       },
@@ -11372,6 +11570,24 @@
       "duration_ms": 165756,
       "name": "Taking a Look In",
       "url": "https://open.spotify.com/track/3emUP6eGVNw0m8wuu7j12v"
+    },
+    {
+      "album": {
+        "name": "TEAR IN THE RAIN",
+        "url": "https://open.spotify.com/album/2UYPAbyFiJ5Dwk8kXwakyM"
+      },
+      "artists": [
+        {
+          "name": "Sean Michael Ryan",
+          "url": "https://open.spotify.com/artist/6HRmf5pui2Mcqi3URD8Uvk"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165663,
+      "name": "TEAR IN THE RAIN",
+      "url": "https://open.spotify.com/track/1wXChPdwhAjZG5sq4posVi"
     },
     {
       "album": {
@@ -11830,6 +12046,24 @@
       "duration_ms": 190044,
       "name": "The Pilot",
       "url": "https://open.spotify.com/track/2BSphwlA17BfMQtFfnCCKg"
+    },
+    {
+      "album": {
+        "name": "The Smell of August",
+        "url": "https://open.spotify.com/album/4tWUX0hIy9B5Y7zF9kFZgF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mason",
+          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "The Smell of August",
+      "url": "https://open.spotify.com/track/5Bw0sfBf0Js5zMmzUMbtnI"
     },
     {
       "album": {
@@ -12588,6 +12822,24 @@
       "duration_ms": 165017,
       "name": "Walk Away Wishing",
       "url": "https://open.spotify.com/track/6qy7R1oYughuKogqTbIytH"
+    },
+    {
+      "album": {
+        "name": "The Hard Way (Complete Edition)",
+        "url": "https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167152,
+      "name": "Want For Nothing",
+      "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
     },
     {
       "album": {
@@ -13418,6 +13670,24 @@
       "duration_ms": 179546,
       "name": "Woman In The Mirror",
       "url": "https://open.spotify.com/track/3wqgVvpgIt2bqlDP4T65kU"
+    },
+    {
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/68edgjOQ7ZxtlWKxzldE6t"
+      },
+      "artists": [
+        {
+          "name": "Annika Catharina",
+          "url": "https://open.spotify.com/artist/7lafkBbFAB9lj55YzCzKqW"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161402,
+      "name": "Won't Be You Tonight",
+      "url": "https://open.spotify.com/track/0ReSM5YJqbkHQuf7Tv7jJ9"
     },
     {
       "album": {

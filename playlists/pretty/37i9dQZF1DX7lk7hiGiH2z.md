@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,349 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,372 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 29 | [Idas Sommerlied](https://open.spotify.com/track/5VA3fG24jDSYj8QB1eAUtX) | [Astrid Lindgren Deutsch](https://open.spotify.com/artist/7sRF5KPi10c3pueaKGmArz), [Michel aus Lönneberga](https://open.spotify.com/artist/3xFKIRYMdkGq0n2DQIXP9V) | [Idas Sommerlied](https://open.spotify.com/album/4LdzXTHhwOWSpLDOkC8QKv) | 1:59 |
 | 30 | [Sommerkinder](https://open.spotify.com/track/2reHbWEZw5ANVmIL9pjw01) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 2:58 |
 | 31 | [Ab zum Meer / Към морето](https://open.spotify.com/track/1mTbOFrGaEaLA9RwXV1EB7) | [Team Karacho](https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR), [Senta](https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU) | [Ab zum Meer / Към морето](https://open.spotify.com/album/62ZBqsYXJUUVvKJ7lbPkxg) | 1:59 |
-| 32 | [Yammi Yammi](https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:23 |
+| 32 | [Ferien / Vacanza](https://open.spotify.com/track/5pAbtjJXW7GJt0B1oZwNde) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Vanessa Civiello](https://open.spotify.com/artist/1l1II36cuf6nD406cfMNAu), [Team Karacho](https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR) | [Ferien / Vacanza](https://open.spotify.com/album/34Jh1lTXZcsHxQUaiXGr99) | 2:44 |
 | 33 | [Kleine Meise](https://open.spotify.com/track/4MShM7cBCCtVdphsrwkks5) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 1:28 |
-| 34 | [Ferien / Vacanza](https://open.spotify.com/track/5pAbtjJXW7GJt0B1oZwNde) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Vanessa Civiello](https://open.spotify.com/artist/1l1II36cuf6nD406cfMNAu), [Team Karacho](https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR) | [Ferien / Vacanza](https://open.spotify.com/album/34Jh1lTXZcsHxQUaiXGr99) | 2:44 |
+| 34 | [Yammi Yammi](https://open.spotify.com/track/0Q0mTcVBoDxvFCPAUBPgoP) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Tierische Kinderlieder zum Mitsingen und Mitmachen](https://open.spotify.com/album/15Qvy79CgcXjtVEqNNGYKz) | 2:23 |
 | 35 | [LiederTiger Lied](https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder](https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb) | 2:27 |
 | 36 | [Glitzer](https://open.spotify.com/track/7igJwFCV2rDA9j7t9t4eJE) | [Sukini](https://open.spotify.com/artist/3Ih8ZVTlhbYfoRdr4PBVT4), [Saskia Lavaux](https://open.spotify.com/artist/4lQzJokyhDUcTixCqcegfZ) | [Schmetterlingskacke](https://open.spotify.com/album/4oN2rHeLP0ktDYl2RMZWc0) | 3:02 |
 | 37 | [Baller mit meinem Rad](https://open.spotify.com/track/4mqMxZjFLrTi7lwPdnYxHm) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 2:47 |

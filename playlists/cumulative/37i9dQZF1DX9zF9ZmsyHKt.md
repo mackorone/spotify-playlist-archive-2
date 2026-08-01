@@ -4,7 +4,7 @@
 
 > O melhor do Tecnobrega, Melody e Brega do norte! Foto: Viviane Batidão
 
-319 songs - 18 hr 30 min
+320 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Cara valente](https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Maria Rita](https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw) | 4:42 | 2021-10-15 | 2024-10-23 |
 | [Carabao o Máximo](https://open.spotify.com/track/21X99tpR1iJj93Qq1Zfmrb) | [Banda msynck](https://open.spotify.com/artist/79iY9AWpx6WDFhWAko16rQ) | [Carabao o Máximo](https://open.spotify.com/album/3D7ahZJOzjxb7NXyvtAQeS) | 2:20 | 2026-01-30 |  |
 | [Catedral](https://open.spotify.com/track/4tBZUrAviVgUzeTIiJLEe9) | [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33) | [Zélia Duncan](https://open.spotify.com/album/2AUF4ExZvmPN38OTKtBHrl) | 2:50 | 2021-10-15 | 2024-10-23 |
-| [Chico Preto](https://open.spotify.com/track/4aBj8paD5TRHwTRRPfJW5q) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:24 | 2024-12-09 |  |
+| [Chico Preto](https://open.spotify.com/track/4aBj8paD5TRHwTRRPfJW5q) | [Jurandy](https://open.spotify.com/artist/0nRGSif2rLZVTzZIfipqWs) | [O Rei Do Techno Brega](https://open.spotify.com/album/7n0sRItNvCvjAS8LlCdSAX) | 3:24 | 2024-12-09 | 2026-08-01 |
 | [Chá de Maracujá](https://open.spotify.com/track/7mgJccGu4ecfRchYjOKWTY) | [Banda Calypso](https://open.spotify.com/artist/2qXtddeMnGLeLuIfhnJY3P) | [Ao Vivo em Caruaru](https://open.spotify.com/album/0DvLLkxdRyaf4LeKhZg1sb) | 3:27 | 2026-01-14 |  |
 | [Ciranda do Aborto](https://open.spotify.com/track/6nGek8pxb9begxdfTXYqBI) | [Juçara Marçal](https://open.spotify.com/artist/74PBfm6hR8w1StnVKSac3i) | [Encarnado](https://open.spotify.com/album/1pRvKobyyF8tJcb4i9cKb8) | 5:40 | 2021-10-15 | 2022-07-20 |
 | [Clareana](https://open.spotify.com/track/6QhseSwPVZ4QEusjnrCx9C) | [Joyce Moreno](https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v) | [Feminina](https://open.spotify.com/album/7ImYb6goMEMVVtt3FKokEi) | 2:50 | 2021-10-15 | 2023-03-08 |
@@ -269,6 +269,7 @@
 | [Seja Gentil](https://open.spotify.com/track/1hCT4zWcdBRv7SxOA970bF) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [O Velho E Bom Novo \(Lado A\)](https://open.spotify.com/album/1vTGhqdzYWiN1NBhM0ypoV) | 3:50 | 2021-10-15 | 2024-10-23 |
 | [Sem Medo](https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 4:12 | 2021-10-15 | 2024-10-23 |
 | [Sem Mentir](https://open.spotify.com/track/29o3BuxMMGbAxDJ9xsFOoF) | [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Sem Mentir](https://open.spotify.com/album/3LqLsWygNDbXqk6o3Exnva) | 3:32 | 2021-10-15 | 2022-07-26 |
+| [Seu Novo Eu \- Ao Vivo](https://open.spotify.com/track/127oSFjtR6MbXGCRKzz39U) | [Viviane Batidão](https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj), [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Seu Novo Eu \(Ao Vivo\)](https://open.spotify.com/album/0Zs6je7qxwW5lTpdd6saMx) | 3:19 | 2026-07-31 |  |
 | [Sofro com a saudade](https://open.spotify.com/track/1QueFPbtVKTnwdfci7mmSC) | [Jay Lima](https://open.spotify.com/artist/1WDdji3E8tOxuswkux0Sta) | [Sofro com a saudade](https://open.spotify.com/album/4zGwZeixvvM7pL5QkuRr10) | 3:13 | 2024-10-22 | 2024-12-10 |
 | [Solo Seduzente](https://open.spotify.com/track/7Molz97Ff2Bn8ToET7GUea) | [Dani Russo](https://open.spotify.com/artist/3hO9no9q7NErmoSlsAjJ2r) | [Solo Seduzente](https://open.spotify.com/album/695pxPi1SfU2YlPwi0aqoC) | 2:05 | 2022-10-07 | 2024-10-23 |
 | [Sonhar](https://open.spotify.com/track/0vt6uNUoCqF8M7ObXFM635) | [Companhia do Tecno](https://open.spotify.com/artist/2VFFEFBfWpFcciWIwm5cuL) | [SET de Melody e Calypso \#2024](https://open.spotify.com/album/0gXBnZ1rcvn2AiZVaRXbWI) | 3:13 | 2024-10-22 |  |

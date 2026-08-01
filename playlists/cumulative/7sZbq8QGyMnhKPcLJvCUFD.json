@@ -7101,6 +7101,32 @@
     },
     {
       "album": {
+        "name": "Groovy Chick",
+        "url": "https://open.spotify.com/album/5rdJdGYme7hzUxbUPN8Khc"
+      },
+      "artists": [
+        {
+          "name": "BEANIE",
+          "url": "https://open.spotify.com/artist/1OUuU6xi7I9u4s05GtlnBd"
+        },
+        {
+          "name": "Lauren Nicole",
+          "url": "https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX"
+        },
+        {
+          "name": "Gray Hoek",
+          "url": "https://open.spotify.com/artist/4cW0PzbIg3rZkASM9Hq3Jb"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Groovy Chick",
+      "url": "https://open.spotify.com/track/2BRWhrxFZH5cI27yJNqXIi"
+    },
+    {
+      "album": {
         "name": "grow apart",
         "url": "https://open.spotify.com/album/2DpQY6dml38F5Wc5AtAJgc"
       },

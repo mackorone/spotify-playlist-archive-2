@@ -2358,7 +2358,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 215750,
       "name": "Amper",
       "url": "https://open.spotify.com/track/2Uazorm44jMSQYlI3b3Jzl"
@@ -21642,6 +21642,24 @@
       "duration_ms": 194142,
       "name": "Jou Tyd Is Nou",
       "url": "https://open.spotify.com/track/5Jh2ph0sth75OtR9OqQZLB"
+    },
+    {
+      "album": {
+        "name": "Jou Weer Eerste Soen",
+        "url": "https://open.spotify.com/album/3T4zHz9qFHAYrJfaKF7PY3"
+      },
+      "artists": [
+        {
+          "name": "Liezel Pieters",
+          "url": "https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215294,
+      "name": "Jou Weer Eerste Soen",
+      "url": "https://open.spotify.com/track/2RzbEfDyfvqX6LkzSYlTlz"
     },
     {
       "album": {

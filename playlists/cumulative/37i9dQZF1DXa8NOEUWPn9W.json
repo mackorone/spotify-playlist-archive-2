@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "125",
+        "url": "https://open.spotify.com/album/4czrPsemm71SK7gVYGoqPa"
+      },
+      "artists": [
+        {
+          "name": "Tini Gessler",
+          "url": "https://open.spotify.com/artist/5k1fr2qbGZrk40njMAyv0x"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186461,
+      "name": "125",
+      "url": "https://open.spotify.com/track/6OJzJxia2G7FDZWba9yR7o"
+    },
+    {
+      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/1ZUfDvXGzk8AQCrZl1g5Dv"
       },
@@ -2046,6 +2064,28 @@
       "duration_ms": 332931,
       "name": "Back Tae Ayr",
       "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
+    },
+    {
+      "album": {
+        "name": "Back To Funk",
+        "url": "https://open.spotify.com/album/5pELdg3Dntw5icXk1N7QiN"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219111,
+      "name": "Back To Funk",
+      "url": "https://open.spotify.com/track/673evkde3J0TA7JxdCClDd"
     },
     {
       "album": {
@@ -5486,7 +5526,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 239485,
       "name": "CircoLoco - Radio Edit",
       "url": "https://open.spotify.com/track/6LAVS3IzKkS5Mi7IU8oycu"
@@ -13087,7 +13127,7 @@
     },
     {
       "album": {
-        "name": "Hey Everybody (Back In The Dance)",
+        "name": "Hey Everybody",
         "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
       },
       "artists": [
@@ -13100,7 +13140,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156498,
-      "name": "Hey Everybody (Back In The Dance)",
+      "name": "Hey Everybody",
       "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
     },
     {
@@ -13482,7 +13522,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 214269,
       "name": "HOTS 4 U",
       "url": "https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf"
@@ -18234,6 +18274,24 @@
       "duration_ms": 120902,
       "name": "Little Man (Proud Of You)",
       "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
+    },
+    {
+      "album": {
+        "name": "Little More (Body Action)",
+        "url": "https://open.spotify.com/album/3KB4mdLmrMq4vhNFqbcacm"
+      },
+      "artists": [
+        {
+          "name": "Sean Doron",
+          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199626,
+      "name": "Little More (Body Action)",
+      "url": "https://open.spotify.com/track/7MMBk3p5G0SyPiNiUDgjPD"
     },
     {
       "album": {
@@ -24054,7 +24112,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 178604,
       "name": "Profil - Josh Baker Remix",
       "url": "https://open.spotify.com/track/4xeCjpuxm2Mg1RifYYrRTD"
@@ -27640,7 +27698,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 163064,
       "name": "So True",
       "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
@@ -33340,7 +33398,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 256901,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0ScBO3EflBAKRC1WjOyJT1"

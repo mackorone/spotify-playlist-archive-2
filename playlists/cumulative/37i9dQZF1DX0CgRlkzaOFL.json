@@ -1493,6 +1493,28 @@
     },
     {
       "album": {
+        "name": "Joe Hisaishi: The Wind Forest (From \"My Neighbor Totoro\")",
+        "url": "https://open.spotify.com/album/7KobtQ4Tcwjm2lnK906RX8"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "Nobuyuki Tsujii",
+          "url": "https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306186,
+      "name": "The Wind Forest - From \"My Neighbor Totoro\"",
+      "url": "https://open.spotify.com/track/6HOUUUNUWjLLlfGqI4DMYm"
+    },
+    {
+      "album": {
         "name": "VIOLET EVERGARDEN: Automemories",
         "url": "https://open.spotify.com/album/1RITWu5USu7lcphTyWh6FY"
       },

@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "In a Forest EP",
+        "url": "https://open.spotify.com/album/537j9ZjSnFwVseYHsFQYbl"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257894,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/6yQJ8oQjNb5g8eefZ520ie"
+    },
+    {
+      "album": {
         "name": "Anjunadeep pres. Reflections Vol. 1",
         "url": "https://open.spotify.com/album/1RXVre6fieggWFyN7dKg6j"
       },
@@ -3381,6 +3399,24 @@
     },
     {
       "album": {
+        "name": "In a Forest EP",
+        "url": "https://open.spotify.com/album/537j9ZjSnFwVseYHsFQYbl"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "In a Forest",
+      "url": "https://open.spotify.com/track/4vWpSuulgo7GG4WrnnsrW5"
+    },
+    {
+      "album": {
         "name": "Night Runner",
         "url": "https://open.spotify.com/album/0sXAHz4vpUAMvIx1Dwqzpt"
       },
@@ -4020,7 +4056,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 271428,
       "name": "Let You Know (Sol Rising Rework)",
       "url": "https://open.spotify.com/track/5btKmJZOBgrRUNzU39d5HE"
@@ -4920,7 +4956,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 166855,
       "name": "Meliadi",
       "url": "https://open.spotify.com/track/7q0hKCMq8bSTB6z6BSXQ2a"
@@ -5256,6 +5292,24 @@
       "duration_ms": 203358,
       "name": "My Mother Was A Synthesizer",
       "url": "https://open.spotify.com/track/7LI2eU6g40u5C4SnhSnZ1H"
+    },
+    {
+      "album": {
+        "name": "In a Forest EP",
+        "url": "https://open.spotify.com/album/537j9ZjSnFwVseYHsFQYbl"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240535,
+      "name": "Narrowing",
+      "url": "https://open.spotify.com/track/0qN6FqcqObLgl5A1SFw0Zo"
     },
     {
       "album": {
@@ -5744,7 +5798,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 355373,
       "name": "Orange Coloured Liquid - Part II",
       "url": "https://open.spotify.com/track/0455mTvFJ1kbODAYHpFJBu"
@@ -6754,7 +6808,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 262730,
       "name": "Sinking Deep",
       "url": "https://open.spotify.com/track/2MiMl069qKOZK8MzSKqEua"
@@ -7754,6 +7808,24 @@
       "duration_ms": 217348,
       "name": "Today",
       "url": "https://open.spotify.com/track/6RyAX1icG9FUU2HmnRn2dF"
+    },
+    {
+      "album": {
+        "name": "Together (Demo)",
+        "url": "https://open.spotify.com/album/2TmxBiotCcrugUnPPqOA0d"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274318,
+      "name": "Together - Demo",
+      "url": "https://open.spotify.com/track/12oojIBWdPlhjtUt4ZoJOE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-98 songs - 4 hr 53 min
+99 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Big Leg Mama](https://open.spotify.com/track/5ekFH1K17PXfFh71H3jlnN) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:47 | 2022-11-04 | 2024-07-21 |
 | [Blue And Lonesome \- Single Version](https://open.spotify.com/track/6VhYbFu0awTAtouzcbl8v2) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:54 | 2022-08-05 |  |
 | [Blue Light](https://open.spotify.com/track/2aAmheIclkmQmqRQMEYr3A) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:12 | 2022-08-08 | 2022-10-11 |
-| [Blue Light \- Single Version](https://open.spotify.com/track/5KR5hJ3y1evtGt5MeEHU8l) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Best Of Little Walter](https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx) | 3:16 | 2025-10-26 |  |
+| [Blue Light \- Single Version](https://open.spotify.com/track/5KR5hJ3y1evtGt5MeEHU8l) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Best Of Little Walter](https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx) | 3:16 | 2025-10-26 | 2026-08-01 |
 | [Blue Midnight](https://open.spotify.com/track/7rDrwxr6IZNpBtsVoUToEd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:24 | 2022-08-05 | 2024-09-26 |
 | [Blue Midnight \- Alternate Take](https://open.spotify.com/track/6qpWYefGy5ziiGVKxvoNQu) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:02 | 2024-09-26 |  |
 | [Blues With A Feeling](https://open.spotify.com/track/1xxbBnOizhzXsWd1FqGc6R) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Best Of Little Walter](https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx) | 3:06 | 2026-04-10 |  |
@@ -70,6 +70,7 @@
 | [My Babe](https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:42 | 2022-08-07 |  |
 | [My Baby's Sweeter \- Single Version](https://open.spotify.com/track/3FYj59pAO66id6OJagsLyo) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:27 | 2022-08-11 | 2024-07-24 |
 | [Nobody But You \- Single Version](https://open.spotify.com/track/6a0uCkcpkSvqrKzXI7rJwn) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:06 | 2022-08-11 | 2024-07-13 |
+| [Off The Wall](https://open.spotify.com/track/5QqNtSq0HvPq6jp4r8nXd6) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Best Of Little Walter](https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx) | 2:49 | 2026-08-01 |  |
 | [Off The Wall](https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:51 | 2022-08-06 | 2024-07-22 |
 | [Oh Baby](https://open.spotify.com/track/5KwLUjZ2PSU9myBbhX9qox) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:44 | 2022-08-06 | 2024-07-05 |
 | [One More Chance With You](https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 2:52 | 2022-08-05 |  |

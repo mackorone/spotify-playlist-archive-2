@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,417 songs - 2 day 13 hr 0 min
+1,418 songs - 2 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -979,6 +979,7 @@
 | [Pull Me In](https://open.spotify.com/track/3t7qmA6TlgFvHCnM07ZkxO) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [RVPTR](https://open.spotify.com/artist/48fFW9rHg6jYYbPPnI1Ye4), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Pull Me In](https://open.spotify.com/album/6YbkoPVfI7OctvYypWmixy) | 2:41 | 2025-02-27 | 2025-08-18 |
 | [Pumped Up Kicks](https://open.spotify.com/track/4tx8AjduPKv5Xtnx3PI0Hv) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Pumped Up Kicks](https://open.spotify.com/album/7di21rP5vSCSxXltTmzWDa) | 2:09 | 2025-02-14 | 2025-05-21 |
 | [Put It All On Me](https://open.spotify.com/track/3f3XwzwFgKpk2q3nlUmJeC) | [Electric Hearts](https://open.spotify.com/artist/6SYYIEe80XyOdOE1wlQoQO), [Sergio Ochoa](https://open.spotify.com/artist/1L2ApNJDbYYik14z6uuMKc) | [Put It All On Me](https://open.spotify.com/album/1nsB55xQPs25jrj2gFMZS0) | 3:01 | 2024-08-29 | 2025-02-15 |
+| [Put It On Me](https://open.spotify.com/track/0pVUmZGwePqv5u2VrzngzF) | [Lavender Shore](https://open.spotify.com/artist/2s8rz2Ode8wGoAWIUBdoSB) | [Put It On Me](https://open.spotify.com/album/35m6Fv1Xt7mwraEHGxtAsU) | 3:05 | 2026-07-31 |  |
 | [Rain](https://open.spotify.com/track/7tD0sQp4WMnHTvB5PMy4cc) | [l'essay](https://open.spotify.com/artist/19X4W851yGGTB4rgz61cBs), [Cal1](https://open.spotify.com/artist/25dKyXEZPXG55aaNFQFbaJ) | [Rain](https://open.spotify.com/album/4bD1k0opGzr6ewPvocAs71) | 2:51 | 2024-04-13 | 2024-07-05 |
 | [Raindrops](https://open.spotify.com/track/52Kt0ltJzMBebV9c1nPf8r) | [Second Sun](https://open.spotify.com/artist/4ITZhADtXQl7SXvQOlMmPS), [houselife](https://open.spotify.com/artist/2ZMVshOlD7ULhDmDjgOF3h) | [Raindrops](https://open.spotify.com/album/4YsNm6qlvtN2HyKSBKPEpU) | 2:30 | 2024-09-15 | 2024-09-30 |
 | [Rapture](https://open.spotify.com/track/0gB4dLKem1Y2yBA6OIoDTU) | [JPT3R](https://open.spotify.com/artist/4Pbc09g4SkxCjZyKizueZO), [Nick Giardino](https://open.spotify.com/artist/3jZXVplmPltILjo5SyBvaD), [Calypsø](https://open.spotify.com/artist/29EDAJj7V9aXo4veBMEerh), [Afro Queen](https://open.spotify.com/artist/0iQaClnw8ysyL24QKIeFuT) | [Rapture](https://open.spotify.com/album/6V7SrA92b7HnXLza4P7CJ7) | 2:47 | 2026-02-07 | 2026-03-15 |

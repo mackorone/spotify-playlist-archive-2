@@ -1,13 +1,273 @@
 {
-  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Tchelo",
-  "num_followers": 609726,
+  "description": "O Trap brasileiro puro ouro, pra voc\u00ea garimpar lan\u00e7amentos. Foto: Major RD, MC Cabelinho, Djonga",
+  "num_followers": 609881,
   "original_name": "Trap Ouro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK0ltoOOHp670UhyUgIedO9ni/99",
+  "snapshot_id": "AAAAAGCL2M3tzwryUYI4R1Fpde/ZI/bt",
   "tracks": [
+    {
+      "added_at": "2026-07-31 03:01:36",
+      "album": {
+        "name": "ALFA",
+        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        }
+      ],
+      "duration_ms": 271822,
+      "name": "Campo de Golf",
+      "url": "https://open.spotify.com/track/4EWJ3ZEXRYsF0wBLmWlbgL"
+    },
+    {
+      "added_at": "2026-07-31 03:01:36",
+      "album": {
+        "name": "Na Pr\u00e1tica",
+        "url": "https://open.spotify.com/album/0V9Cqq4R2rGYqbnuZq2FbY"
+      },
+      "artists": [
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        },
+        {
+          "name": "Trunks",
+          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
+        },
+        {
+          "name": "DNAY",
+          "url": "https://open.spotify.com/artist/5MfRy5LzLtiGj7YQg8FvBB"
+        }
+      ],
+      "duration_ms": 157159,
+      "name": "Patr\u00e3o",
+      "url": "https://open.spotify.com/track/1GosuxJvRT9i10NLWODgyt"
+    },
+    {
+      "added_at": "2026-07-24 14:02:11",
+      "album": {
+        "name": "I'M SO PROUD OF U",
+        "url": "https://open.spotify.com/album/21b1EF1TsDTw4iN1HwyLWd"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+        }
+      ],
+      "duration_ms": 112689,
+      "name": "WESTWOOD",
+      "url": "https://open.spotify.com/track/1TXPBiIyVRl6apyk7jEdbS"
+    },
+    {
+      "added_at": "2026-07-31 03:01:36",
+      "album": {
+        "name": "AFF",
+        "url": "https://open.spotify.com/album/03gQlMtlBYkl97sKZkKBTj"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 272272,
+      "name": "AFF",
+      "url": "https://open.spotify.com/track/1EAxWlbTdoC4i2LiiAHS7D"
+    },
+    {
+      "added_at": "2026-07-24 14:02:11",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/0gOv422ovOyM3tLNBHQITB"
+      },
+      "artists": [
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "Te kinho",
+          "url": "https://open.spotify.com/artist/1HaeBueqlH8sDfh3kDvYPt"
+        },
+        {
+          "name": "Don EleMesmo",
+          "url": "https://open.spotify.com/artist/67XY5ewOuX4ZkZq6sONHWa"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/7si2q5ENIf0Y0MMI900VUF"
+    },
+    {
+      "added_at": "2026-07-31 03:01:36",
+      "album": {
+        "name": "Dedo no Gatilho",
+        "url": "https://open.spotify.com/album/1n9OIA7ekfipAY4l8oR5lG"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "Dedo no Gatilho",
+      "url": "https://open.spotify.com/track/3wZMF4qdGh3wQoPi4dFuGa"
+    },
+    {
+      "added_at": "2026-07-31 03:01:36",
+      "album": {
+        "name": "VIDA BANDIDA",
+        "url": "https://open.spotify.com/album/5ckA9CsPI1TulhnqYNjdDH"
+      },
+      "artists": [
+        {
+          "name": "Mattyahu",
+          "url": "https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw"
+        },
+        {
+          "name": "JOVEM'L",
+          "url": "https://open.spotify.com/artist/1n12lRb9N9Hmz1ncIQieX8"
+        },
+        {
+          "name": "Hogs",
+          "url": "https://open.spotify.com/artist/3vxTDpcpqELQ9CMVSXHBvO"
+        }
+      ],
+      "duration_ms": 158739,
+      "name": "VIDA BANDIDA",
+      "url": "https://open.spotify.com/track/1ClHsoZZhSv9YAdDuG233Q"
+    },
+    {
+      "added_at": "2026-07-24 14:02:11",
+      "album": {
+        "name": "Vit\u00f3ria Regia",
+        "url": "https://open.spotify.com/album/1xkE2NwKm634u4Fv9oynoR"
+      },
+      "artists": [
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        },
+        {
+          "name": "Trunks",
+          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Erick Di",
+          "url": "https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS"
+        },
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        }
+      ],
+      "duration_ms": 195582,
+      "name": "Vit\u00f3ria Regia",
+      "url": "https://open.spotify.com/track/0h1JdWutLUgMLybkUFwRXf"
+    },
+    {
+      "added_at": "2026-07-31 03:01:36",
+      "album": {
+        "name": "NOVOS TEMPOS/NOVOS DONOS",
+        "url": "https://open.spotify.com/album/3DmtUeA97Sac8dtA8wE7wX"
+      },
+      "artists": [
+        {
+          "name": "Bra\u00e3o",
+          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
+        },
+        {
+          "name": "Lp067",
+          "url": "https://open.spotify.com/artist/20EHnmoCDJFL4mnot2ad3M"
+        }
+      ],
+      "duration_ms": 122482,
+      "name": "PIXAD\u00c3O",
+      "url": "https://open.spotify.com/track/3AgxHlOAADKyvnCNNig3QT"
+    },
+    {
+      "added_at": "2026-07-31 03:01:36",
+      "album": {
+        "name": "I luv ma gun",
+        "url": "https://open.spotify.com/album/1dewrAoh458eAuVPWIpsCF"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "duration_ms": 127884,
+      "name": "I luv ma gun",
+      "url": "https://open.spotify.com/track/2N3NDfk6JY0I8k8p5ejz9K"
+    },
+    {
+      "added_at": "2026-07-31 03:01:36",
+      "album": {
+        "name": "VC N\u00c3O PARECE MAIS A MESMA",
+        "url": "https://open.spotify.com/album/1ZzujNVOBnAkwzQtslv4LO"
+      },
+      "artists": [
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 142996,
+      "name": "VC N\u00c3O PARECE MAIS A MESMA",
+      "url": "https://open.spotify.com/track/3MnMV8cKeVYU6jVgxnKzEh"
+    },
     {
       "added_at": "2026-07-24 14:02:11",
       "album": {
@@ -55,86 +315,6 @@
       "duration_ms": 156097,
       "name": "NEY NO BARCELONA",
       "url": "https://open.spotify.com/track/2zlHRa29HFO8dnNpdWea0D"
-    },
-    {
-      "added_at": "2026-07-24 14:02:11",
-      "album": {
-        "name": "I'M SO PROUD OF U",
-        "url": "https://open.spotify.com/album/21b1EF1TsDTw4iN1HwyLWd"
-      },
-      "artists": [
-        {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
-        },
-        {
-          "name": "NAVII",
-          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
-        }
-      ],
-      "duration_ms": 112689,
-      "name": "WESTWOOD",
-      "url": "https://open.spotify.com/track/1TXPBiIyVRl6apyk7jEdbS"
-    },
-    {
-      "added_at": "2026-07-24 14:02:11",
-      "album": {
-        "name": "Vit\u00f3ria Regia",
-        "url": "https://open.spotify.com/album/1xkE2NwKm634u4Fv9oynoR"
-      },
-      "artists": [
-        {
-          "name": "Franco, The Sir!",
-          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
-        },
-        {
-          "name": "Trunks",
-          "url": "https://open.spotify.com/artist/6CAOElXrWvhb594GKitCch"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Erick Di",
-          "url": "https://open.spotify.com/artist/6ITlDmLtSRT8f36NVQQENS"
-        },
-        {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
-        }
-      ],
-      "duration_ms": 195582,
-      "name": "Vit\u00f3ria Regia",
-      "url": "https://open.spotify.com/track/0h1JdWutLUgMLybkUFwRXf"
-    },
-    {
-      "added_at": "2026-07-24 14:02:11",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/0gOv422ovOyM3tLNBHQITB"
-      },
-      "artists": [
-        {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "Te kinho",
-          "url": "https://open.spotify.com/artist/1HaeBueqlH8sDfh3kDvYPt"
-        },
-        {
-          "name": "Don EleMesmo",
-          "url": "https://open.spotify.com/artist/67XY5ewOuX4ZkZq6sONHWa"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/7si2q5ENIf0Y0MMI900VUF"
     },
     {
       "added_at": "2026-07-24 14:02:11",
@@ -975,26 +1155,6 @@
     {
       "added_at": "2026-07-24 14:02:11",
       "album": {
-        "name": "Instinto - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5pegf29QfJ71h6D3Pu2xa7"
-      },
-      "artists": [
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 141639,
-      "name": "Instinto - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/5z1lDrpmvOgZuvjg4sVB7F"
-    },
-    {
-      "added_at": "2026-07-24 14:02:11",
-      "album": {
         "name": "QUEM \u00c9 BANDIDO N\u00c3O FALA!",
         "url": "https://open.spotify.com/album/2Qwhae5mBLsaPJ63W6Jbha"
       },
@@ -1043,30 +1203,6 @@
       "duration_ms": 137578,
       "name": "MC Igu - PENSE FORA DA CAIXA #6",
       "url": "https://open.spotify.com/track/022EE1KMnbIqBiWNUPRvCd"
-    },
-    {
-      "added_at": "2026-07-24 14:02:11",
-      "album": {
-        "name": "DE VOLTA A ESS\u00caNCIA",
-        "url": "https://open.spotify.com/album/5EOeiIdMnCeTFFEaRbUwWT"
-      },
-      "artists": [
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "LYONS PROD.",
-          "url": "https://open.spotify.com/artist/1uYUCETagKA8ukZ1VFmXzr"
-        }
-      ],
-      "duration_ms": 153277,
-      "name": "SABOR CEREJA",
-      "url": "https://open.spotify.com/track/5XpDjay2yMsNif4aqw7Vhs"
     },
     {
       "added_at": "2026-07-24 14:02:11",
@@ -1343,22 +1479,6 @@
     {
       "added_at": "2026-07-24 14:02:11",
       "album": {
-        "name": "ISSO \u00c9 TRAP VOL.2",
-        "url": "https://open.spotify.com/album/5jiPp1YPjyhcWqU6jYQxlv"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o85",
-          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
-        }
-      ],
-      "duration_ms": 125217,
-      "name": "BLUNT DE GOIABA",
-      "url": "https://open.spotify.com/track/7cLt8S1uKvo41gRyRaaivR"
-    },
-    {
-      "added_at": "2026-07-24 14:02:11",
-      "album": {
         "name": "HORA DO KARMA REAGIR",
         "url": "https://open.spotify.com/album/1ngpFiahIhE8icddv1uLR2"
       },
@@ -1515,90 +1635,6 @@
     {
       "added_at": "2026-07-24 14:02:11",
       "album": {
-        "name": "Pedrin - PENSE FORA DA CAIXA #1",
-        "url": "https://open.spotify.com/album/1BZ90w7hLPZJ1cqy488PTA"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "Pedrin",
-          "url": "https://open.spotify.com/artist/7nhTCM7Tuu7NRQZsmpBIBg"
-        },
-        {
-          "name": "FerM",
-          "url": "https://open.spotify.com/artist/16Z71xI2W8ZVcOr9vjg2Ta"
-        }
-      ],
-      "duration_ms": 168751,
-      "name": "Pedrin - PENSE FORA DA CAIXA #1",
-      "url": "https://open.spotify.com/track/6qAsN71i8XZZGcKMzgeKR6"
-    },
-    {
-      "added_at": "2026-07-24 14:02:11",
-      "album": {
-        "name": "Magia Negra",
-        "url": "https://open.spotify.com/album/5TI8rIh92lpMaVHJdJK5sh"
-      },
-      "artists": [
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        },
-        {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
-        },
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        },
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "Alice Baia",
-          "url": "https://open.spotify.com/artist/29Bh5xAPdocXtKZPxqo1yx"
-        },
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        },
-        {
-          "name": "F\u00e9rre",
-          "url": "https://open.spotify.com/artist/6QnTnLT042kcYUDQZTmPu6"
-        }
-      ],
-      "duration_ms": 322628,
-      "name": "Magia Negra",
-      "url": "https://open.spotify.com/track/6qYwDjlxSkR86ZbF9NF2da"
-    },
-    {
-      "added_at": "2026-07-24 14:02:11",
-      "album": {
-        "name": "RACK$",
-        "url": "https://open.spotify.com/album/5gl71RqW0hN8RdjHLRqcEb"
-      },
-      "artists": [
-        {
-          "name": "MC Igu",
-          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
-        },
-        {
-          "name": "Juminai Gang",
-          "url": "https://open.spotify.com/artist/4bXKAH6jruhnhrLXQ1Acw7"
-        }
-      ],
-      "duration_ms": 163683,
-      "name": "RACK$",
-      "url": "https://open.spotify.com/track/01YMBoDHJWzC1KGNlXQIwv"
-    },
-    {
-      "added_at": "2026-07-24 14:02:11",
-      "album": {
         "name": "Quer de 100 (Remix)",
         "url": "https://open.spotify.com/album/7yIPuLLzkmaUGUlCV0DUkG"
       },
@@ -1743,78 +1779,6 @@
       "duration_ms": 141428,
       "name": "MINHA FOME",
       "url": "https://open.spotify.com/track/5ZncoXYFDsodiGpxqqNQja"
-    },
-    {
-      "added_at": "2026-07-24 14:02:11",
-      "album": {
-        "name": "SLIME FALA CMG",
-        "url": "https://open.spotify.com/album/4F0og6QXR7Bs8nJcwsL5U6"
-      },
-      "artists": [
-        {
-          "name": "Fabiow011",
-          "url": "https://open.spotify.com/artist/4I5Y9NX4RZ5KA78a5UKsVY"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "SLIME FALA CMG",
-      "url": "https://open.spotify.com/track/39dyVueQFUdHl9asJymaWt"
-    },
-    {
-      "added_at": "2026-07-24 14:02:11",
-      "album": {
-        "name": "Regra N\u00ba 5",
-        "url": "https://open.spotify.com/album/6t32UwWwZurbjl5cJvAU53"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        }
-      ],
-      "duration_ms": 202696,
-      "name": "Regra N\u00ba 5",
-      "url": "https://open.spotify.com/track/4Jb4eq2IiBg5zrvMuKVvic"
-    },
-    {
-      "added_at": "2026-07-24 14:02:11",
-      "album": {
-        "name": "AMIGA DE VERDADE",
-        "url": "https://open.spotify.com/album/4uq5r0bPep8OkpQC5Pidfm"
-      },
-      "artists": [
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        },
-        {
-          "name": "C7",
-          "url": "https://open.spotify.com/artist/5NOWNYEWllb4OR576ZarpD"
-        },
-        {
-          "name": "Art",
-          "url": "https://open.spotify.com/artist/20WhSjQqxbo1pXHYY3bTPQ"
-        }
-      ],
-      "duration_ms": 180879,
-      "name": "AMIGA DE VERDADE",
-      "url": "https://open.spotify.com/track/1A4pyJBjfHd5DPYEkgPpbu"
     }
   ],
   "unique_name": "Trap Ouro",

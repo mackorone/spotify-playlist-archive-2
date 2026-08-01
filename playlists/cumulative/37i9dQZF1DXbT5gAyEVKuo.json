@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: Tasha Cobbs Leonard",
+  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: Naomi Raine & Tauren Wells",
   "name": "Gospel Worship",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 246551,
       "name": "A Time",
       "url": "https://open.spotify.com/track/0GiVtGPVYAS0zU5IfnfY9Z"
@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "All In All (Live)",
+        "url": "https://open.spotify.com/album/2SbiVGpIqNosNb4Q5feuhC"
+      },
+      "artists": [
+        {
+          "name": "WISDOM K",
+          "url": "https://open.spotify.com/artist/3ocgRjZoqNalBW40nzYvMd"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 772109,
+      "name": "All In All - Live",
+      "url": "https://open.spotify.com/track/0K7x07kZL0uoHkxK0FW5r8"
+    },
+    {
+      "album": {
         "name": "All On You (Heart of worship)",
         "url": "https://open.spotify.com/album/2eaAM3aBbsBMb1owbruTU5"
       },
@@ -216,6 +238,36 @@
       "duration_ms": 356571,
       "name": "All On You (Heart of worship)",
       "url": "https://open.spotify.com/track/6vGTfGws31YplDRYKJc88T"
+    },
+    {
+      "album": {
+        "name": "All The Earth",
+        "url": "https://open.spotify.com/album/2a6QyOHyF3kFvr3GBqXBQ8"
+      },
+      "artists": [
+        {
+          "name": "Pelumi Deborah",
+          "url": "https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx"
+        },
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        },
+        {
+          "name": "Thepeterjacobs",
+          "url": "https://open.spotify.com/artist/30ikjsa4ad1hwe7NJsfh8Z"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 657500,
+      "name": "All The Earth",
+      "url": "https://open.spotify.com/track/57h4CZ2g2FD0hMFMwMIeIY"
     },
     {
       "album": {
@@ -325,6 +377,28 @@
     },
     {
       "album": {
+        "name": "Always Doing Good",
+        "url": "https://open.spotify.com/album/5SkdcS83ly5OQdNPZk4dOC"
+      },
+      "artists": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418550,
+      "name": "Always Doing Good",
+      "url": "https://open.spotify.com/track/3rGwkG01eYjGotsDJekog4"
+    },
+    {
+      "album": {
         "name": "Amaram Onyewem (Live)",
         "url": "https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP"
       },
@@ -358,7 +432,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 550000,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/5yxLHZnfVldRA7Gj9BtzOw"
@@ -527,6 +601,28 @@
     },
     {
       "album": {
+        "name": "Beautiful One",
+        "url": "https://open.spotify.com/album/0pmidcdB8w4UxVjAYLFFxd"
+      },
+      "artists": [
+        {
+          "name": "Taiwo Oshin",
+          "url": "https://open.spotify.com/artist/7hZuTavDZ9G7EcIaPgpC8U"
+        },
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329042,
+      "name": "Beautiful One",
+      "url": "https://open.spotify.com/track/5Mvj01bwIhS4RYcCBgnmVQ"
+    },
+    {
+      "album": {
         "name": "I Just Want You",
         "url": "https://open.spotify.com/album/63fXLki4JEgJ099NHRBpzf"
       },
@@ -670,7 +766,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 413708,
       "name": "Breathe (feat. Titus Tucker & Rahkii)",
       "url": "https://open.spotify.com/track/6wYs3GQfnziD1RdtPbUbFD"
@@ -880,7 +976,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 375083,
       "name": "Christ Our King",
       "url": "https://open.spotify.com/track/5mKp2St38T8KnIU4GbFM2Z"
@@ -1536,7 +1632,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 281893,
       "name": "Forever",
       "url": "https://open.spotify.com/track/0Kf7HbbLGzJuI3sQCZZBcw"
@@ -2005,6 +2101,32 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/0FRUDPFB4G5UaGlMg7jVqG"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        },
+        {
+          "name": "Ibukun",
+          "url": "https://open.spotify.com/artist/1JcySGJuBH1NiNXOCRnY51"
+        },
+        {
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536826,
+      "name": "He Is Here",
+      "url": "https://open.spotify.com/track/4FiUIQ8Gli7NxSGxjy0pvn"
+    },
+    {
+      "album": {
         "name": "He Will Provide",
         "url": "https://open.spotify.com/album/4uMDmd8DPzOkSKMP3CgBuo"
       },
@@ -2078,10 +2200,50 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 242790,
       "name": "Heart of Worship",
       "url": "https://open.spotify.com/track/24nHidYHfPkAkdhFvv9tKL"
+    },
+    {
+      "album": {
+        "name": "Heaven Collide",
+        "url": "https://open.spotify.com/album/6y8gYo7orW8jbpY3EAqpRe"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        },
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "Heaven Collide",
+      "url": "https://open.spotify.com/track/6napmh5WfgrThYbkwognKx"
+    },
+    {
+      "album": {
+        "name": "High Praise",
+        "url": "https://open.spotify.com/album/174apFskBt2BwU0SH4os7S"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333208,
+      "name": "High Praise",
+      "url": "https://open.spotify.com/track/5Jqia9cVK8OOhefBWcCgWi"
     },
     {
       "album": {
@@ -2348,7 +2510,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 560126,
       "name": "I Live - Live",
       "url": "https://open.spotify.com/track/122j35m29xC1Xbd8vTKvJP"
@@ -2388,7 +2550,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 507134,
       "name": "I Want Jesus",
       "url": "https://open.spotify.com/track/1gLNDXf2y8NuAjneuEc1r8"
@@ -3046,7 +3208,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 272545,
       "name": "Know Your Name",
       "url": "https://open.spotify.com/track/45EuRfYN9UPYrRuu0Kqvzb"
@@ -3259,6 +3421,28 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/0yqxGJpTcXfeTAZjaKHGb3"
+      },
+      "artists": [
+        {
+          "name": "Red Worship",
+          "url": "https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455012,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/3kuM7mUNRO970ormdn0tno"
+    },
+    {
+      "album": {
         "name": "Miracle Walking (Live)",
         "url": "https://open.spotify.com/album/536KgvRn6R6OMQoK3Z4DCq"
       },
@@ -3270,7 +3454,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 546695,
       "name": "Miracle Walking - Live",
       "url": "https://open.spotify.com/track/3ChV9SY5hdcNOAbvwVBUGs"
@@ -3432,7 +3616,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 388440,
       "name": "My Desire (Ps. 42:1)",
       "url": "https://open.spotify.com/track/4UsGMLq7WoCNY1odQGUFVH"
@@ -3866,7 +4050,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 231966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/5g5LDdP02Rn9sD3xWeGnNk"
@@ -3938,10 +4122,32 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 418677,
       "name": "Open The Floodgates - Live",
       "url": "https://open.spotify.com/track/1DMEBvMxsyQKYFdN9jS3Es"
+    },
+    {
+      "album": {
+        "name": "Our Maker",
+        "url": "https://open.spotify.com/album/0xfER7UWh0aP7dVX3Qq0gL"
+      },
+      "artists": [
+        {
+          "name": "John Bassey",
+          "url": "https://open.spotify.com/artist/4EC6nvQ29XRTVNiKoHESOb"
+        },
+        {
+          "name": "Philippa Hanna",
+          "url": "https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357500,
+      "name": "Our Maker",
+      "url": "https://open.spotify.com/track/5soAf7qf5UKdwiYxttQZUY"
     },
     {
       "album": {
@@ -4044,7 +4250,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 479413,
       "name": "PURE",
       "url": "https://open.spotify.com/track/0Th7LgMO6LBeRpI6do9pD5"
@@ -4270,7 +4476,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 360840,
       "name": "Sending Up A Praise",
       "url": "https://open.spotify.com/track/5Lwwm1BrY9ThpSVRACUaE6"
@@ -4804,7 +5010,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 120000,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/6n8BLjTyNj0ud8VKqET8wk"
@@ -4865,6 +5071,36 @@
     },
     {
       "album": {
+        "name": "The Kingdom Is Yours",
+        "url": "https://open.spotify.com/album/5mljEHSTgrDk0SsCk8oYlA"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Praise Paige",
+          "url": "https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e"
+        },
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        },
+        {
+          "name": "Jonni Mae",
+          "url": "https://open.spotify.com/artist/530VpfY3yZBmxkNCDbwsrt"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361643,
+      "name": "The Kingdom Is Yours",
+      "url": "https://open.spotify.com/track/4mZK9we1sOpz464O9prhB7"
+    },
+    {
+      "album": {
         "name": "20th Century Masters - The Millennium Collection: The Best Of Richard Smallwood",
         "url": "https://open.spotify.com/album/1vqjoOP0rOi0zHrbvBp8nU"
       },
@@ -4880,6 +5116,36 @@
       "duration_ms": 267053,
       "name": "The Lord's Prayer - Live",
       "url": "https://open.spotify.com/track/07Mjg6guQW9bJNspyyncGb"
+    },
+    {
+      "album": {
+        "name": "The Maranatha Song",
+        "url": "https://open.spotify.com/album/1mmO3D0c9mLQ6JYaSJTW4J"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        },
+        {
+          "name": "Julia McMillan-Lamur",
+          "url": "https://open.spotify.com/artist/14ZeV6pqDILQNyr8Q0dCBU"
+        },
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375893,
+      "name": "The Maranatha Song",
+      "url": "https://open.spotify.com/track/4C8wVVjL8n3s5i6R3kDhL1"
     },
     {
       "album": {
@@ -5285,6 +5551,24 @@
     },
     {
       "album": {
+        "name": "We Say Yes",
+        "url": "https://open.spotify.com/album/7vytuRDjpMSnDOIWPTZcqC"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338569,
+      "name": "We Say Yes",
+      "url": "https://open.spotify.com/track/0tVfx7HiRMh8RipJJmXfmC"
+    },
+    {
+      "album": {
         "name": "We Worship You",
         "url": "https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c"
       },
@@ -5370,10 +5654,32 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 378197,
       "name": "What A God",
       "url": "https://open.spotify.com/track/4eTLdVkDPeJRwvS5T5YrVd"
+    },
+    {
+      "album": {
+        "name": "What A Miracle Feels Like (with Naomi Raine)",
+        "url": "https://open.spotify.com/album/0mtOHzZnHn2w1DY9Bgl91L"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 594723,
+      "name": "What A Miracle Feels Like (with Naomi Raine)",
+      "url": "https://open.spotify.com/track/3LWT76qGbYLor4PXR1einh"
     },
     {
       "album": {
@@ -5690,7 +5996,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 381970,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"

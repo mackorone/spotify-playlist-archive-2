@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Alonzo, SAF, Lebeey, Le Bigs",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Genezio",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -1640,6 +1640,24 @@
       "duration_ms": 198193,
       "name": "Belle",
       "url": "https://open.spotify.com/track/1GTwuwkt4hejBcymq849Cg"
+    },
+    {
+      "album": {
+        "name": "L'impr\u00e9visible",
+        "url": "https://open.spotify.com/album/1XQgdAAQ9Glh4WpAm5BEpE"
+      },
+      "artists": [
+        {
+          "name": "De Lafe",
+          "url": "https://open.spotify.com/artist/221QAcwcTRrYBFnlCHQ9G1"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158355,
+      "name": "Belles choses",
+      "url": "https://open.spotify.com/track/7GmH8W71OUqdE2mMPhVDpI"
     },
     {
       "album": {
@@ -3524,6 +3542,28 @@
       "duration_ms": 166000,
       "name": "Cullinan Mansory",
       "url": "https://open.spotify.com/track/6aVC5Q0GgNV0GtzzQDzr70"
+    },
+    {
+      "album": {
+        "name": "Les Ultimes Marches de l'Empereur",
+        "url": "https://open.spotify.com/album/383FrnWa8a1MX7foDHtAQB"
+      },
+      "artists": [
+        {
+          "name": "Alkpote",
+          "url": "https://open.spotify.com/artist/0QcZD8V0Ug1KINWBSyG0dB"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "Cypher",
+      "url": "https://open.spotify.com/track/4R4VTExxhvuQbl5fZnovzz"
     },
     {
       "album": {
@@ -7319,6 +7359,28 @@
     },
     {
       "album": {
+        "name": "LA VAR",
+        "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
+      },
+      "artists": [
+        {
+          "name": "Supremnova",
+          "url": "https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR"
+        },
+        {
+          "name": "Jemma's Palace",
+          "url": "https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102352,
+      "name": "LA VAR",
+      "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
+    },
+    {
+      "album": {
         "name": "La vie qu'on m\u00e8ne",
         "url": "https://open.spotify.com/album/4iPpgK53s9GyINfegUKaVb"
       },
@@ -8285,6 +8347,28 @@
     },
     {
       "album": {
+        "name": "Maradona",
+        "url": "https://open.spotify.com/album/68Y8cUOYmf7KMnuP5aa5Is"
+      },
+      "artists": [
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        },
+        {
+          "name": "Niaks",
+          "url": "https://open.spotify.com/artist/2vVtmqEXliBFxqCa3Juo5W"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163199,
+      "name": "Maradona",
+      "url": "https://open.spotify.com/track/2dTrVHZNTqbPbiwhQK60Kk"
+    },
+    {
+      "album": {
         "name": "Marilouu",
         "url": "https://open.spotify.com/album/7xKwSliy7AuPxZjf0So8RT"
       },
@@ -8304,6 +8388,24 @@
       "duration_ms": 138461,
       "name": "Marilouu",
       "url": "https://open.spotify.com/track/6DNAlKetFxMYm8EWwKlhar"
+    },
+    {
+      "album": {
+        "name": "MARRAKECH",
+        "url": "https://open.spotify.com/album/0KlUKaSSx57e4ealwtsNTp"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "MARRAKECH",
+      "url": "https://open.spotify.com/track/0WgP5mMrAcsntAw9pilJ5N"
     },
     {
       "album": {
@@ -10376,7 +10478,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 127998,
       "name": "PELELE",
       "url": "https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ"
@@ -14262,6 +14364,28 @@
       "duration_ms": 120000,
       "name": "X",
       "url": "https://open.spotify.com/track/5URQsgEa4ciF01AYbIhWvO"
+    },
+    {
+      "album": {
+        "name": "Zizou",
+        "url": "https://open.spotify.com/album/6cVeWJqnfuEpHlGJCHDU4G"
+      },
+      "artists": [
+        {
+          "name": "S\u2019tano",
+          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
+        },
+        {
+          "name": "DODOZ",
+          "url": "https://open.spotify.com/artist/0sbr6QCzSofwuoVyLSURqn"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "Zizou",
+      "url": "https://open.spotify.com/track/1L0ReG0kmjMfBZHAKz6Kok"
     },
     {
       "album": {

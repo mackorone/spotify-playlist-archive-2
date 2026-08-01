@@ -4,7 +4,7 @@
 
 > 100 % chill, 100 % Montréal avec Chiara Savasta
 
-929 songs - 2 day 4 hr 30 min
+930 songs - 2 day 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [BENJAMINS](https://open.spotify.com/track/134FZxiTn8d42WLbAK2SNB) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [BENJAMINS](https://open.spotify.com/album/27wAzUGHh3nqGp0sOZ0F0U) | 3:11 | 2026-05-29 |  |
 | [Bermudes](https://open.spotify.com/track/79lTYn64xiWpQaP3AgtFYC) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH), [Miro](https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj), [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Bermudes](https://open.spotify.com/album/1PQ2uxec0Z8Ay19WeAZ98c) | 2:55 | 2024-10-04 | 2025-03-29 |
 | [Besoin](https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8) | [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Besoin](https://open.spotify.com/album/1hfiyR4GixCxvmmS3GoBrJ) | 2:18 | 2024-07-05 | 2024-09-07 |
+| [betterside](https://open.spotify.com/track/6Nmsvya50LmZqQCZgZYkyS) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb) | [betterside](https://open.spotify.com/album/50whUMBlSVu5RbwYKJDB7s) | 2:01 | 2026-07-31 |  |
 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 | 2023-01-20 | 2024-03-02 |
 | [Bicycle](https://open.spotify.com/track/3e5DYz9hSXkUyQyxT8eo8R) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Bicycle](https://open.spotify.com/album/7d7vmt2uwD7DRaA9p9U7dC) | 2:52 | 2022-10-21 | 2023-02-18 |
 | [Bigger Love](https://open.spotify.com/track/6BR7PRyiBy54vpa0pTksnw) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Bigger Love](https://open.spotify.com/album/5OfM4QCrtxxcMkAp8aFEtK) | 3:49 | 2022-04-29 | 2022-08-23 |

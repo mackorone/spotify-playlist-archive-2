@@ -1363,6 +1363,28 @@
     },
     {
       "album": {
+        "name": "JUST HAPPY TO BE HERE!",
+        "url": "https://open.spotify.com/album/0oRYYaW6q1wWM1LxqnuvEp"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        },
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149544,
+      "name": "Adventure Time",
+      "url": "https://open.spotify.com/track/6HsuqJtyDk7s8ZOEhupRf1"
+    },
+    {
+      "album": {
         "name": "VAYTRIX",
         "url": "https://open.spotify.com/album/2eJUaD1yTAjsLn9Sg1eED2"
       },
@@ -11171,6 +11193,28 @@
     },
     {
       "album": {
+        "name": "GHOST DOG.",
+        "url": "https://open.spotify.com/album/5cWrcuhjAgmeLkhYUusSLE"
+      },
+      "artists": [
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179130,
+      "name": "GHOST DOG.",
+      "url": "https://open.spotify.com/track/64cz9KrVR9Aa0r53ECpaor"
+    },
+    {
+      "album": {
         "name": "GHOST.",
         "url": "https://open.spotify.com/album/5ef38pXWigK1RHZ4SHEjyP"
       },
@@ -13665,6 +13709,24 @@
     },
     {
       "album": {
+        "name": "I hate hoes",
+        "url": "https://open.spotify.com/album/3Yx9fQ503ZG8Z14Z3k8tPu"
+      },
+      "artists": [
+        {
+          "name": "AZIEDOESNTEXIST",
+          "url": "https://open.spotify.com/artist/13BgU01okousPOFvmiwecU"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73522,
+      "name": "I hate hoes",
+      "url": "https://open.spotify.com/track/6aPpZ2AhyWZ7R7Qgp5dIVe"
+    },
+    {
+      "album": {
         "name": "I Hate When Girls Die",
         "url": "https://open.spotify.com/album/73iofO6Yc5Dv0mlbXJj32N"
       },
@@ -14398,7 +14460,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 133431,
       "name": "In My City",
       "url": "https://open.spotify.com/track/5GTrMgUKcnCLlQm4yVUuKY"
@@ -14835,6 +14897,24 @@
     },
     {
       "album": {
+        "name": "javelin",
+        "url": "https://open.spotify.com/album/6w9fvCu6Gtxtu47ELG4rBD"
+      },
+      "artists": [
+        {
+          "name": "Angelo Mota",
+          "url": "https://open.spotify.com/artist/1PpFka2STGQ57kJcgYBgEF"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140129,
+      "name": "javelin",
+      "url": "https://open.spotify.com/track/4yOCpH6kXajEI8wDndmmyD"
+    },
+    {
+      "album": {
         "name": "JD's REVENGE",
         "url": "https://open.spotify.com/album/1wyTY0dWTlbntVOgdvXtyL"
       },
@@ -15146,6 +15226,32 @@
       "duration_ms": 187317,
       "name": "Jump Shot",
       "url": "https://open.spotify.com/track/4xGOr6svFbl05cuz85cPbX"
+    },
+    {
+      "album": {
+        "name": "Jumpupw!nya",
+        "url": "https://open.spotify.com/album/5PY9AxmoSOqjqbY0cHrhZv"
+      },
+      "artists": [
+        {
+          "name": "Chad Hugo",
+          "url": "https://open.spotify.com/artist/6HObKCGcJkXr84jyo0ZzPp"
+        },
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        },
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107669,
+      "name": "Jumpupw!nya",
+      "url": "https://open.spotify.com/track/4jDjCiWDvsPhBqy9DlzKgR"
     },
     {
       "album": {
@@ -17736,7 +17842,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 152866,
       "name": "Merch That",
       "url": "https://open.spotify.com/track/3BAtfxKnIqxEj2W5PBKOgN"
@@ -19658,7 +19764,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 178267,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/4pKbJDmorP9MrcefUCTGUb"
@@ -29444,7 +29550,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 135242,
       "name": "VENOM",
       "url": "https://open.spotify.com/track/0hAVfEwPgJ8YLYs3emNFoo"
@@ -30324,7 +30430,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 146133,
       "name": "What",
       "url": "https://open.spotify.com/track/1G1AErONPBT62zGMOyxuM5"

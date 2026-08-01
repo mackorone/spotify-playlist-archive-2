@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-877 songs - 1 day 19 hr 31 min
+878 songs - 1 day 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Gotta Leave](https://open.spotify.com/track/7qYMTZaUo4lrul29krnUBK) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Broken String](https://open.spotify.com/album/2fxjTWt9yhsVVLaDw5089c) | 2:36 | 2024-04-19 | 2024-11-20 |
 | [GRAVE](https://open.spotify.com/track/6HkXTvTkPrgvZLgmsdM7aN) | [HOWL](https://open.spotify.com/artist/3NyPbU40Aed5xYRjuITmGJ), [Idle Days](https://open.spotify.com/artist/6wx2DYiNYOG3HGQYQSBb9j) | [GRAVE](https://open.spotify.com/album/0xV9TQ7uAualR9FJCq4tpC) | 3:37 | 2024-07-25 | 2025-01-19 |
 | [Grey](https://open.spotify.com/track/18qcT6OvETarEtu2ZAZdRo) | [Carpö](https://open.spotify.com/artist/37XIfiBkXkVPCL3h6pKS2q), [MIHXI](https://open.spotify.com/artist/3flHDpJb60qURPhjCAmuhw), [Endpoint](https://open.spotify.com/artist/1A97b3GlGllZ5BotcYtzD5) | [Grey](https://open.spotify.com/album/5f5rP12PmCuKQIwcGfmfCs) | 3:23 | 2023-05-17 | 2023-08-10 |
+| [Groovy Chick](https://open.spotify.com/track/2BRWhrxFZH5cI27yJNqXIi) | [BEANIE](https://open.spotify.com/artist/1OUuU6xi7I9u4s05GtlnBd), [Lauren Nicole](https://open.spotify.com/artist/372yikzGlwhP86LfFwZqrX), [Gray Hoek](https://open.spotify.com/artist/4cW0PzbIg3rZkASM9Hq3Jb) | [Groovy Chick](https://open.spotify.com/album/5rdJdGYme7hzUxbUPN8Khc) | 2:27 | 2026-07-31 |  |
 | [grow apart](https://open.spotify.com/track/1Wk4VhEdlPzRBQmogzCejD) | [Ghostnaps](https://open.spotify.com/artist/12H4M1bhUsHGZfES7IO27D) | [grow apart](https://open.spotify.com/album/2DpQY6dml38F5Wc5AtAJgc) | 2:54 | 2024-07-09 | 2025-01-08 |
 | [Guide You Home](https://open.spotify.com/track/26k2oNy7Ps75NSxiHKjP1W) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv) | [Guide You Home](https://open.spotify.com/album/4NRH0zEwYAIvZyZUMk4nsb) | 3:12 | 2023-02-17 | 2023-02-21 |
 | [H.A.Y](https://open.spotify.com/track/2Y5z3eOhmuDQNyAKAmmVcR) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [H.A.Y](https://open.spotify.com/album/7mMKUcbLBTeMP51qkihmPy) | 3:43 | 2023-08-08 | 2023-12-14 |

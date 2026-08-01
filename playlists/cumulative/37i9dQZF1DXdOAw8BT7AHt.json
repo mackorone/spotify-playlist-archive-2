@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/0zadOSiWzMWshzTtypDspp"
+      },
+      "artists": [
+        {
+          "name": "Set Your Goals",
+          "url": "https://open.spotify.com/artist/2Ivw6FhAZpa7kiAXWztCq5"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215317,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/4EietdjixGHLV9dsQPd4Z3"
+    },
+    {
+      "album": {
         "name": "Accidental Doom",
         "url": "https://open.spotify.com/album/3kZXb8vcfhNLKw58FyjbOr"
       },
@@ -889,6 +907,24 @@
     },
     {
       "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/3gu3WONQrN70m2mZIAS2q0"
+      },
+      "artists": [
+        {
+          "name": "PUREST FORM",
+          "url": "https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192866,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/7BlGdTvvVAw2NAJtqoKCT2"
+    },
+    {
+      "album": {
         "name": "Anita Ride",
         "url": "https://open.spotify.com/album/0RipZBFRz6HZfS55MyNv7P"
       },
@@ -1120,7 +1156,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 215414,
       "name": "Baby Don't",
       "url": "https://open.spotify.com/track/66tbzPuNTAXPfmVsdJ9yBr"
@@ -1628,7 +1664,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 179562,
       "name": "Bite Harder Than You Bleed",
       "url": "https://open.spotify.com/track/2Iaz9HxyGExG8bfFpNIYFa"
@@ -6408,7 +6444,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 132400,
       "name": "I Don\u2019t Think It\u2019s the Right Time for Emojis",
       "url": "https://open.spotify.com/track/3fHEfRMc4AbKCENtLnbkse"
@@ -12947,6 +12983,24 @@
     },
     {
       "album": {
+        "name": "The Numbers, Mason!",
+        "url": "https://open.spotify.com/album/0kiAbxpLRW7OHtkJEwu1de"
+      },
+      "artists": [
+        {
+          "name": "SUNFO",
+          "url": "https://open.spotify.com/artist/2BARIojbh2TzfbB1oHZA4a"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248889,
+      "name": "The Numbers, Mason!",
+      "url": "https://open.spotify.com/track/0R0LzzVZTrNsGbuw5vh7Lk"
+    },
+    {
+      "album": {
         "name": "The Outlaw Star",
         "url": "https://open.spotify.com/album/2ypUjJxlG4VJfNpI482ne8"
       },
@@ -13744,7 +13798,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 98826,
       "name": "Unc",
       "url": "https://open.spotify.com/track/6gQUPTZJ72wFM43vw9GwBH"
@@ -14102,6 +14156,24 @@
       "duration_ms": 178956,
       "name": "Walk The Walk",
       "url": "https://open.spotify.com/track/0Z25OFEgHytpJiRuPV3E9Z"
+    },
+    {
+      "album": {
+        "name": "Wall of Skulls",
+        "url": "https://open.spotify.com/album/5YhpCKcFtWlt8aP07imOPA"
+      },
+      "artists": [
+        {
+          "name": "Judiciary",
+          "url": "https://open.spotify.com/artist/1llYaLn43cLcbWg9M4t0Y3"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "Wall of Skulls",
+      "url": "https://open.spotify.com/track/4J6N2ykIlFQP4VK4lVBRjK"
     },
     {
       "album": {

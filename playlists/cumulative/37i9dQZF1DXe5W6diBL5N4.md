@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: Young K\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,649 songs - 39 day 11 hr 52 min
+16,653 songs - 39 day 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4252,6 +4252,7 @@
 | [Fearless Warriors \(Feat\. 123\)](https://open.spotify.com/track/430eELGWYPWngnVuu1GnDX) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [123](https://open.spotify.com/artist/67tBDqUFKtbehv1dRLyQJy) | [FearX](https://open.spotify.com/album/1uLTaLwwUJWc60H7tWd3No) | 2:51 | 2024-01-16 | 2024-03-09 |
 | [FEATHER](https://open.spotify.com/track/6DE8PfQvCW1RgsvtWJmZwi) | [J;KEY](https://open.spotify.com/artist/4I42k3aXHgTQ7hUMx259WK) | [FEATHER](https://open.spotify.com/album/69NdRDaKxFq70mS90MxnxS) | 2:55 | 2022-11-11 | 2022-12-22 |
 | [Feathers](https://open.spotify.com/track/4DHB29tTCeEf2f0BlS8Nn4) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [Feathers](https://open.spotify.com/album/1KOV5YYqduEevT4YiMTgui) | 3:55 | 2022-11-03 | 2022-12-22 |
+| [Feathers](https://open.spotify.com/track/5oJ0RnHs47a9smCKW8UbnL) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [Feathers](https://open.spotify.com/album/16w83q4XXgubhaB6kWeXut) | 3:32 | 2026-07-31 |  |
 | [Fed Up](https://open.spotify.com/track/0yUqrll0GWZozolOmYxCc5) | [Anoc](https://open.spotify.com/artist/0mOPxa6cfGNqcVjKQlFnAo) | [Fed Up](https://open.spotify.com/album/7vLLg9MVE8ioOrtnN9thcI) | 3:08 | 2022-05-27 | 2022-06-10 |
 | [Fed Up](https://open.spotify.com/track/7qipUtMRSZM2SCmURyNsE2) | [INSU](https://open.spotify.com/artist/6pkR2XjpaZEenPrV6SCQIN) | [Fed Up](https://open.spotify.com/album/1DRAqU7OABXDmcSVgzjgoQ) | 2:41 | 2024-09-12 | 2024-10-10 |
 | [Feel](https://open.spotify.com/track/3fqpaEBmmu2SQD5QQLoxba) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [Feel](https://open.spotify.com/album/45VfWpRVJQPopFzIAlx7AG) | 3:10 | 2025-09-03 | 2025-09-15 |
@@ -9059,6 +9060,7 @@
 | [Mother Star](https://open.spotify.com/track/3KilAQKM5y6S2dDJv4P0S1) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Mother Star](https://open.spotify.com/album/6GuQPOcfe4rZA37TXn3JwZ) | 4:41 | 2025-11-13 | 2025-11-25 |
 | [Motion](https://open.spotify.com/track/75eHzlyS5bqPnwvaCWu0zU) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF) | [Motion](https://open.spotify.com/album/5H4bRWigQZEzePUsQhMfTy) | 3:22 | 2025-05-26 | 2025-06-05 |
 | [Motion](https://open.spotify.com/track/13p3VBwR07bIgmeV8Yh37i) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Motion](https://open.spotify.com/album/1N9fh7E8iLAIetZrYI3L9X) | 2:53 | 2025-09-05 | 2025-09-19 |
+| [MOTION \(feat\. Juicy J\)](https://open.spotify.com/track/15EbINtnOI4c2jPXXskywy) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [MOTION \(feat\. Juicy J\)](https://open.spotify.com/album/7hkn5DHPOpLwrlUpxAbbnp) | 2:37 | 2026-07-31 |  |
 | [Motto](https://open.spotify.com/track/3H82Jpo0SI3UvWP6Ol8mWn) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/4wDsCQv9qslV6MmlcWuCe9) | 3:13 | 2026-05-18 | 2026-06-09 |
 | [Motto](https://open.spotify.com/track/3jVTmARXF5p21gaP9CqITM) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Motto](https://open.spotify.com/album/2I5aOoyW9gzkOrWOuElNdj) | 3:13 | 2026-05-18 | 2026-06-09 |
 | [MOTTO](https://open.spotify.com/track/4pP9r6Bjx5XxPP4TI3JKIl) | [KIM JONGHYEON](https://open.spotify.com/artist/0xJDnPkh9zb3YWOpMqkXWM) | [Brilliant Seasons](https://open.spotify.com/album/3tjxCmGQTFo3Dg3hytdLMg) | 2:48 | 2024-01-03 | 2024-03-14 |
@@ -9926,6 +9928,7 @@
 | [on the water](https://open.spotify.com/track/57iBg2TwwGsRRxK48uBNBI) | [Sagong](https://open.spotify.com/artist/4I13kBfOo5vI4LT8oNE0Fy) | [on the water](https://open.spotify.com/album/4AaPMk38htGwZx1AoupNso) | 4:18 | 2025-06-29 | 2025-07-08 |
 | [On The Way To Meet You \(feat\. Able\)](https://open.spotify.com/track/33vYsdGHSnz7wor690HGgn) | [Sunny Hill](https://open.spotify.com/artist/1ePYD8tMMM4Y8gbwi69vaf), [Able](https://open.spotify.com/artist/5QLTdB5zd44gkuqSjUVIWl) | [On The Way To Meet You \(feat\. Able\)](https://open.spotify.com/album/4byC8lJlBmLRYClVpx8PjZ) | 3:42 | 2025-03-19 | 2025-03-29 |
 | [On the way to see you 2025](https://open.spotify.com/track/7H3pbQ6TUacTF3jbenqfx3) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [25 Foxiboy](https://open.spotify.com/album/2YtyR4g5KmJWb30XkJF4bQ) | 3:16 | 2025-04-18 | 2025-04-29 |
+| [On the Weekend](https://open.spotify.com/track/7vSnswbt8JRufDevmFgm0n) | [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8) | [SOUL BABY](https://open.spotify.com/album/5sXJul476tGRt2eHMstVDr) | 2:31 | 2026-07-31 |  |
 | [On the Wind](https://open.spotify.com/track/5k7JeBu92T6oENyHcrsf74) | [HONEYZ](https://open.spotify.com/artist/1rch5FYSE4oI6IJ0WhLtF3) | [On the Wind](https://open.spotify.com/album/1zDDhBLb0c1pCc8DH2f5yC) | 3:16 | 2026-05-08 | 2026-05-27 |
 | [On You \(feat\. 1ho & Mabinc\)](https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#4](https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B) | 3:32 | 2023-02-19 | 2023-02-28 |
 | [On Your Side](https://open.spotify.com/track/4MB4UCit9FoUTeF4NCoVfy) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Our Unwritten Seoul \(Original Soundtrack\) Part.3](https://open.spotify.com/album/3g55RM05sMYbaF7vZ7C1L9) | 3:26 | 2025-06-09 | 2025-06-17 |
@@ -15869,6 +15872,7 @@
 | [ZOMBIE \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/track/4OPgtF8MYyuCy1znMb7za1) | [DáFF](https://open.spotify.com/artist/0pFPNNWz3Ql0tk3GeQQvnL), [UNEDUCATED KID](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM) | [ZOMBIE \(Feat\. UNEDUCATED KID\)](https://open.spotify.com/album/72cgaDmNeAQ5dCgetXInhd) | 3:08 | 2024-12-11 | 2025-01-02 |
 | [ZOMBIES](https://open.spotify.com/track/2Q1EVavjMH8XrRvHbVRTpc) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [BUT FOR NOW LEAVE ME ALONE](https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn) | 3:04 | 2022-09-15 | 2022-11-07 |
 | [Zombies in Philadelphia](https://open.spotify.com/track/4QVC3UFYBvWo6fPRUA3Rfp) | [KURO](https://open.spotify.com/artist/5fgP8B58gK5ImP0wcoyj10) | [Zombies in Philadelphia](https://open.spotify.com/album/08EYVTz0oqSJN8y45Dg0xB) | 2:55 | 2025-07-21 | 2025-07-31 |
+| [ZOO](https://open.spotify.com/track/3RJci1jlM28P8xwZQD19vD) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [WACK](https://open.spotify.com/album/4gmJdC9f5ml9c9Zh3pOSXb) | 2:13 | 2026-07-31 |  |
 | [ZOOM](https://open.spotify.com/track/1BB29yzN0aKzyxiNFMveuA) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [ZOOM](https://open.spotify.com/album/1AHut3kK0ewXAhujWEhnhF) | 2:48 | 2024-11-19 | 2024-12-12 |
 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 | 2022-04-19 | 2022-05-03 |
 | [ZOOM](https://open.spotify.com/track/5koizuWzXgVvvJxeToiU1t) | [USPEER](https://open.spotify.com/artist/1p7Fm42iZrBEvG2wIaRCoL) | [SPEED ZONE](https://open.spotify.com/album/6eWgaSgtuchEdVEuJ5TOiX) | 2:58 | 2025-06-04 | 2025-06-17 |

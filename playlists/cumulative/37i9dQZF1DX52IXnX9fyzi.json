@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "All That Remains",
+        "url": "https://open.spotify.com/album/3LymqFZGSLcgmgxtVNnByW"
+      },
+      "artists": [
+        {
+          "name": "Henry Flower",
+          "url": "https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142729,
+      "name": "All That Remains",
+      "url": "https://open.spotify.com/track/4kRzvzTPjYWbmQfBY8zeLL"
+    },
+    {
+      "album": {
         "name": "Almost There",
         "url": "https://open.spotify.com/album/5boK4GsdzMghJ3D7M0Bkis"
       },
@@ -466,7 +484,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 151871,
       "name": "alone at sea",
       "url": "https://open.spotify.com/track/67q1BKoOkW3leD5BJE6nuT"
@@ -1262,7 +1280,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 145760,
       "name": "Blue Balloon",
       "url": "https://open.spotify.com/track/1L06LDQLfZlCDbM54Wo9gT"
@@ -1464,6 +1482,24 @@
       "duration_ms": 108625,
       "name": "Book Of Vespers - Second Psalm",
       "url": "https://open.spotify.com/track/7kgZUuD4aj8M0WfDxIxms7"
+    },
+    {
+      "album": {
+        "name": "Breath of the Fjord",
+        "url": "https://open.spotify.com/album/0O4OG0nkaFTlKe2pTT3Cp2"
+      },
+      "artists": [
+        {
+          "name": "Sonny Klimp",
+          "url": "https://open.spotify.com/artist/3RWIABJqEYYJJ8mDqjFhv4"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136141,
+      "name": "Breath of the Fjord",
+      "url": "https://open.spotify.com/track/6lM1yANgrsgaEjaWB0awfQ"
     },
     {
       "album": {
@@ -2414,7 +2450,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 134000,
       "name": "Distant Shores",
       "url": "https://open.spotify.com/track/5akwB4g9TXC5B586LAew37"
@@ -2526,6 +2562,24 @@
       "duration_ms": 172019,
       "name": "Dried Out",
       "url": "https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1"
+    },
+    {
+      "album": {
+        "name": "Drifting Thoughts",
+        "url": "https://open.spotify.com/album/0QGN17r96dhrZtup792DDL"
+      },
+      "artists": [
+        {
+          "name": "Renza Cael",
+          "url": "https://open.spotify.com/artist/7gWwANi7JS0FmATXrdD2AL"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144866,
+      "name": "Drifting Thoughts",
+      "url": "https://open.spotify.com/track/6gaoeQwEUjH7ZJXImNDGLQ"
     },
     {
       "album": {
@@ -2846,7 +2900,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 157626,
       "name": "Fallen Leaves",
       "url": "https://open.spotify.com/track/7sLmX8Xykhu6LXWHU3Srpe"
@@ -3498,7 +3552,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 183529,
       "name": "Hat full of candles",
       "url": "https://open.spotify.com/track/3Ap6yfaMLSbcHsTcx5Y967"
@@ -8772,7 +8826,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 172804,
       "name": "The Song Within",
       "url": "https://open.spotify.com/track/725oGRYkD3w6Fo1sp3rcG2"

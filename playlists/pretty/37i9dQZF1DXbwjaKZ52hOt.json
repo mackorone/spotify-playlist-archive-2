@@ -1,18 +1,18 @@
 {
   "description": "The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.",
-  "num_followers": 55673,
+  "num_followers": 55691,
   "original_name": "Nursery Rhymes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADT13zbdO7fCay4eZjZAUJR/pB/u",
+  "snapshot_id": "AAAAADlZfp56X9Ib6OP0jUFxpSNo9pfx",
   "tracks": [
     {
-      "added_at": "2026-05-22 04:01:16",
+      "added_at": "2026-07-31 05:00:34",
       "album": {
-        "name": "Five Little Ducks",
-        "url": "https://open.spotify.com/album/6quGBbRBXpIiMYY0Eilrnh"
+        "name": "Hickory Dickory Dock",
+        "url": "https://open.spotify.com/album/2qlLPQfRcfizpSczjrt21I"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 149223,
-      "name": "Five Little Ducks",
-      "url": "https://open.spotify.com/track/43CWnT7ZK1NyQhc8NbJQuU"
+      "duration_ms": 145350,
+      "name": "Hickory Dickory Dock",
+      "url": "https://open.spotify.com/track/1JK6rD4Qw1urVinYaU6EV1"
     },
     {
       "added_at": "2026-05-01 04:00:54",
@@ -61,20 +61,20 @@
       "url": "https://open.spotify.com/track/52Vt767uZPZvbhLrYwWBR4"
     },
     {
-      "added_at": "2026-04-17 04:01:50",
+      "added_at": "2026-05-22 04:01:16",
       "album": {
-        "name": "Hickory Dickory Dock (The Mouse Ran Up The Clock)",
-        "url": "https://open.spotify.com/album/2RUDGkwspVoqqyxQnSXRtL"
+        "name": "Five Little Ducks",
+        "url": "https://open.spotify.com/album/6quGBbRBXpIiMYY0Eilrnh"
       },
       "artists": [
         {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
         }
       ],
-      "duration_ms": 104402,
-      "name": "Hickory Dickory Dock - The Mouse Ran Up The Clock",
-      "url": "https://open.spotify.com/track/0QPMxGZdm88jIjcCsHX7S4"
+      "duration_ms": 149223,
+      "name": "Five Little Ducks",
+      "url": "https://open.spotify.com/track/43CWnT7ZK1NyQhc8NbJQuU"
     },
     {
       "added_at": "2026-02-20 05:00:33",

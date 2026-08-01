@@ -4,7 +4,7 @@
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-335 songs - 10 hr 11 min
+336 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,10 +103,11 @@
 | [Hey Diddle Diddle](https://open.spotify.com/track/1BppTkk0yGdM6tveLhlIMO) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [The Rainbow Collections Boxset](https://open.spotify.com/album/5Uvvv8c7FvKTIn0i3LztkB) | 2:29 | 2023-01-27 | 2023-02-19 |
 | [Hey Diddle Diddle](https://open.spotify.com/track/7dzeZcPuTdlRWEEJQkg3BD) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Toybox](https://open.spotify.com/album/0hm7XSyKA0yBFi9hxpnnsY) | 2:29 | 2022-02-25 |  |
 | [Hey, Diddle Diddle](https://open.spotify.com/track/1sSMv5XabOSte6jQF2wos5) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 1](https://open.spotify.com/album/79hTHRJbDctpb2CfjHRoGQ) | 0:14 | 2022-02-25 | 2024-01-05 |
+| [Hickory Dickory Dock](https://open.spotify.com/track/1JK6rD4Qw1urVinYaU6EV1) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Hickory Dickory Dock](https://open.spotify.com/album/2qlLPQfRcfizpSczjrt21I) | 2:25 | 2026-07-31 |  |
 | [Hickory Dickory Dock](https://open.spotify.com/track/2JNbQJlHx8mw8go8dXEHed) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [School Break Songs for Children](https://open.spotify.com/album/295c1i1TEITqNwJNwuU6PS) | 1:15 | 2022-02-25 | 2022-11-14 |
 | [Hickory Dickory Dock](https://open.spotify.com/track/7BDAPOsAOTpD7lRYTGTcMu) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhymes & Children's Songs, Vol\. 1 \(Sing & Learn with LittleBabyBum\)](https://open.spotify.com/album/7gweScaIC8gRPbkPvM61jH) | 1:15 | 2022-02-25 | 2026-04-18 |
 | [Hickory Dickory Dock \- \(Sheep\)](https://open.spotify.com/track/24g8whAHKPcifxXAmFZSGU) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Animal Songs and Nursery Rhymes for Children, Vol\. 2 \- Fun Songs for Learning with LittleBabyBum](https://open.spotify.com/album/4TTk8j1G3pcHwtw6YXTjRs) | 1:15 | 2022-02-25 | 2024-04-19 |
-| [Hickory Dickory Dock \- The Mouse Ran Up The Clock](https://open.spotify.com/track/0QPMxGZdm88jIjcCsHX7S4) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Hickory Dickory Dock \(The Mouse Ran Up The Clock\)](https://open.spotify.com/album/2RUDGkwspVoqqyxQnSXRtL) | 1:44 | 2026-04-17 |  |
+| [Hickory Dickory Dock \- The Mouse Ran Up The Clock](https://open.spotify.com/track/0QPMxGZdm88jIjcCsHX7S4) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Hickory Dickory Dock \(The Mouse Ran Up The Clock\)](https://open.spotify.com/album/2RUDGkwspVoqqyxQnSXRtL) | 1:44 | 2026-04-17 | 2026-08-01 |
 | [Hickory Dickory Dock Baby Nursery Rhyme](https://open.spotify.com/track/02DATkyRD1TXiBhlQjr8EP) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1DNGcZk3osbuRUoGbV7NsE) | 2:16 | 2023-02-24 | 2024-01-05 |
 | [Hickory Dickory Dock Baby Nursery Rhyme](https://open.spotify.com/track/3qBWoH4ESJomspW1PSJsFI) | [ChuChu TV](https://open.spotify.com/artist/32Zwi8cvYFLNbEgV3cAJRQ) | [ChuChu TV Baby Nursery Rhymes, Vol\. 6](https://open.spotify.com/album/1fYidXnWQLgapVmgxE9Bc9) | 2:16 | 2022-02-25 | 2023-04-14 |
 | [Home on the Range \- \(Sing Along\)](https://open.spotify.com/track/75FVOS7yQ1jx0Pp208pVtp) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Fun with Family and Friends](https://open.spotify.com/album/1aQK9SEYSSR1re5hPHmB6N) | 2:56 | 2023-01-27 |  |

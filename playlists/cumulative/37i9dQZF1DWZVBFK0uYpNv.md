@@ -4,7 +4,7 @@
 
 > Classic Disney songs reimagined by your favorite popular artists.
 
-155 songs - 8 hr 14 min
+156 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [He's A Pirate](https://open.spotify.com/track/6dAOMe5B3sXilEsSF4BvzA) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:56 | 2025-05-21 |  |
 | [He's A Tramp](https://open.spotify.com/track/0NwM9L7Kd0sXbpuaCdaAIy) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [He’s A Tramp](https://open.spotify.com/album/0yJFgnL3fkkgbjDGehlg58) | 3:42 | 2025-05-21 |  |
 | [Heigh\-Ho / Whistle While You Work / Yo Ho \(A Pirate's Life For Me\) \- Medley](https://open.spotify.com/track/6f7hfFReQqEG0edTZcfOy1) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [In the Key of Disney](https://open.spotify.com/album/2Xgc5F1OMlpdHjrz3xUlHF) | 3:27 | 2025-05-21 |  |
+| [Hoedown Throwdown \- From "Disney Jr\. Music: Mickey Mouse Clubhouse+ \- Mickey's Country Farm"](https://open.spotify.com/track/77K012lHTUC2Lq3Fb9dW8N) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H), [Megan Hilty](https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk), [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Minnie Mouse](https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7), [Daisy Duck](https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB) | [Hoedown Throwdown \(From "Disney Jr\. Music: Mickey Mouse Clubhouse+ \- Mickey's Country Farm"\)](https://open.spotify.com/album/0EFhfHZEMMic4T9xZ528dk) | 2:31 | 2026-07-31 |  |
 | [How Far I'll Go](https://open.spotify.com/track/4OJNQXj4BU4qZtaYZi0lWm) | [Disney Ambient](https://open.spotify.com/artist/5iop40R7W1LzJpH6Lm8ZRG) | [Disney Peaceful: Ambient](https://open.spotify.com/album/2Dlg5prvxTCsK98od04Hjm) | 3:12 | 2025-05-21 |  |
 | [How Far I'll Go \- Alessia Cara Version](https://open.spotify.com/track/1ehPJRt49h6N0LoryqKZXq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:55 | 2025-05-21 |  |
 | [I Can't Let You Throw Yourself Away](https://open.spotify.com/track/1smBNxMxvU7BuM3p9XjrIV) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX) | [Disney Guitar: Pixar](https://open.spotify.com/album/4wsEz4JY41PIXKpFScUQ9O) | 1:46 | 2025-05-21 |  |

@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Tiara Andini
 
-1,034 songs - 2 day 18 hr 59 min
+1,034 songs - 2 day 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1000,7 +1000,6 @@
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 | 2026-07-10 |
 | [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-05 | 2025-11-28 |
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
-| [Track 1](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 0:00 | 2026-07-30 |  |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-25 | 2025-11-07 |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-07 | 2024-12-13 |
 | [Tuhan Pasti Tahu](https://open.spotify.com/track/2MU9GB5Stt1sI2LDWMPciS) | [Berlliana Lovell](https://open.spotify.com/artist/4QqJsYziS0tOsMOdU6lXFa) | [Tuhan Pasti Tahu](https://open.spotify.com/album/6ymzPnROz3BDRGB4jzWUk2) | 4:05 | 2024-11-28 | 2025-02-28 |
@@ -1017,6 +1016,7 @@
 | [UMR](https://open.spotify.com/track/7CzYBfpciM5Yhy7K6Ezt6r) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj) | [UMR](https://open.spotify.com/album/03JmFf9MCCF0unt2MEOEiw) | 3:29 | 2026-07-16 |  |
 | [Unspoken Goodbye](https://open.spotify.com/track/4R2TH8TO2JkjcHbWiQIgoD) | [Jordy Riz](https://open.spotify.com/artist/02b3NF3lcXPtBGDsrWAbfo) | [Never Ours](https://open.spotify.com/album/7IZqcST46LL3ByZTt4nbRu) | 3:36 | 2026-05-14 |  |
 | [Untuk Dikenang](https://open.spotify.com/track/3ysXeMcA70M7v5fJXywJJR) | [Pongki Barata](https://open.spotify.com/artist/4FTaeFBX07JxJ5hIFFvack), [The Dangerous Band](https://open.spotify.com/artist/6ESLP0LzmoAcDZd8ILvitQ) | [Untuk Dikenang](https://open.spotify.com/album/2DhwbTaWboVQqGiqTAjacK) | 3:50 | 2024-09-05 | 2025-01-10 |
+| [Untuk Kau Hargai](https://open.spotify.com/track/1pp1T3eC905PD6C18GQXdM) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Untuk Kau Hargai](https://open.spotify.com/album/7gTXXd7mEWq0tzEjc6hPk8) | 4:18 | 2026-07-30 |  |
 | [Untuk Selalu Senang](https://open.spotify.com/track/7d5MSiGff1HYAvjVdQkhmh) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Kini & Sampai Kapanpun](https://open.spotify.com/album/0ikkz9CCu9uM54Mcguh1rA) | 4:11 | 2025-01-16 | 2025-07-11 |
 | [Untuk Sembuh Lagi](https://open.spotify.com/track/09EqmNWSNF2Oeascqr20gw) | [El Michael](https://open.spotify.com/artist/0zaGFZuyRciaCL3GQWApUS) | [Untuk Sembuh Lagi](https://open.spotify.com/album/5yu34jbYjEEowFyoVg8IGq) | 4:07 | 2026-06-19 | 2026-07-17 |
 | [Untukmu](https://open.spotify.com/track/2LUBuAQHbXYet792SqD1L5) | [Danyannisa](https://open.spotify.com/artist/2AWnRV889vjq7HLW6kEOVW) | [Untukmu](https://open.spotify.com/album/0NaEN66fsELpbLDHg7Spnp) | 3:03 | 2024-07-04 | 2024-12-13 |

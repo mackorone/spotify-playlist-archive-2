@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > The best dance and electronic songs in the Middle East and North Africa\. Cover: HUGEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,995 likes - 68 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,021 likes - 68 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/1BweAtoAn6XFcPa4iJtO6G) | 2:36 |
-| 2 | [SAWA \(feat\. bees & honey\)](https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1) | [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [SAWA \(feat\. bees & honey\)](https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5) | 3:40 |
+| 2 | [SAWA](https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1) | [AYA](https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [SAWA](https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5) | 3:40 |
 | 3 | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You \(ft\. 54 Ultra\)](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
 | 4 | [Salam](https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Salam](https://open.spotify.com/album/5MflkuFCNL0Uye0uy4OrrH) | 2:53 |
 | 5 | [Ya Bent El Eh Remix](https://open.spotify.com/track/5erNtJAzNyRAjTsFEP6fab) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Ya Bent El Eh Remix](https://open.spotify.com/album/0Tw4Au49Ag2pw51IZp2G61) | 4:25 |

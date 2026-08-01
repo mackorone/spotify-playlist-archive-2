@@ -2,9 +2,9 @@
 
 ### [La + Popular](https://open.spotify.com/playlist/37i9dQZF1DX137AZKLkKC6)
 
-> Las grandes del Despecho y el Género Popular\. Con Luis Alfonso en portada.
+> Las grandes del Despecho y el Género Popular\. Con Nico Hernández en portada.
 
-340 songs - 17 hr 28 min
+342 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Bebiendo Me Entretengo](https://open.spotify.com/track/2mPvmRtUoUIFS2JCERwUz0) | [Alexandra Colorado](https://open.spotify.com/artist/4X5JWaBP73DBk4nxNFV1uQ) | [Bebiendo Me Entretengo](https://open.spotify.com/album/2OmnOo0O8JNaklxLeCc1Qc) | 2:47 | 2023-04-28 | 2023-05-13 |
 | [Bendecida](https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Bendecida](https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0) | 3:10 | 2022-08-12 | 2025-08-09 |
 | [BIPOLAR](https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [BIPOLAR](https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ) | 4:25 | 2023-10-18 | 2024-01-26 |
-| [Bonita pero descarada](https://open.spotify.com/track/3A6p7hBIBchtBVFYe90eLY) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Lindo Lindo](https://open.spotify.com/album/7uX0KsERm8K9pr8svvbyoU) | 3:02 | 2026-07-24 |  |
+| [Bonita pero descarada](https://open.spotify.com/track/3A6p7hBIBchtBVFYe90eLY) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Lindo Lindo](https://open.spotify.com/album/7uX0KsERm8K9pr8svvbyoU) | 3:02 | 2026-07-24 | 2026-08-01 |
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2022-08-12 | 2025-04-17 |
 | [Brillarosa](https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:49 | 2024-02-09 | 2024-10-18 |
 | [Busca Un Confidente \- En Vivo](https://open.spotify.com/track/5ybdHemTCDqwPOrrGNt9PB) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Busca Un Confidente \(En Vivo\)](https://open.spotify.com/album/5pjRfkF6HSgrawn27YliQd) | 4:09 | 2022-10-28 | 2022-12-17 |
@@ -118,6 +118,7 @@
 | [El Princeso](https://open.spotify.com/track/0dKwn0SA4EKciRZEpEhhV1) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [El Agropecuario](https://open.spotify.com/album/7KYyomJyjBmwJiAjEbihL6) | 2:48 | 2025-08-08 | 2026-03-07 |
 | [El Problema](https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Problema](https://open.spotify.com/album/1GnZsUWgomAWdrU6lj49lf) | 3:35 | 2022-08-12 | 2023-09-09 |
 | [El Provinciano](https://open.spotify.com/track/0Bm7IA6LFnU5KwlT3A8emi) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Provinciano](https://open.spotify.com/album/6QsYzYrVwGxP0YtqsXbjNy) | 3:08 | 2024-07-05 | 2024-08-03 |
+| [El Rompecorazones](https://open.spotify.com/track/2z9COavLfZH1VboZOXFm6j) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [El Rompecorazones](https://open.spotify.com/album/5mjr1dIJhyxOOeikDUlOzx) | 2:34 | 2026-07-31 |  |
 | [El Tierno \(feat\. DFZM\)](https://open.spotify.com/track/6W94uSiipjqPHeg4SsW8mf) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [El Tierno \(feat\. DFZM\)](https://open.spotify.com/album/2OiPtzxuqeonaf5LQ2hhr6) | 2:46 | 2024-12-06 | 2025-04-05 |
 | [El Último No](https://open.spotify.com/track/0UVGcwBmQUNbsBlsZgFzDK) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 3:13 | 2022-08-12 | 2023-02-25 |
 | [El Último No](https://open.spotify.com/track/1B2SstbNJbKveGHr9vcsYZ) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [El Último No](https://open.spotify.com/album/48ScSRTZO4kwZ5U1hEHxCr) | 3:13 | 2023-02-24 | 2023-03-04 |
@@ -177,7 +178,7 @@
 | [Lágrimas De Amor](https://open.spotify.com/track/4qs5X0Iujdxb83U6KUdG3o) | [Chakal Del Sur](https://open.spotify.com/artist/0KeCyvIzTo589Y5RUba49t) | [Lágrimas De Amor](https://open.spotify.com/album/5jKlZ1QzWRyaYcLVgkCIhR) | 2:32 | 2024-07-19 | 2024-08-24 |
 | [Lástima de Tanto Amor](https://open.spotify.com/track/1fMnqEFVfx4uRGUxQTYur2) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [Lástima de Tanto Amor](https://open.spotify.com/album/0QxELlbEJ8wASNRJekOJdy) | 3:27 | 2024-06-21 | 2024-07-19 |
 | [Mal Amor](https://open.spotify.com/track/1j4XwpoLvqdkWllikDu7Rm) | [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [Mal Amor](https://open.spotify.com/album/6ImNw6NsqZ93Wxj2fGoNhV) | 2:41 | 2025-07-18 |  |
-| [Mala de Profesión](https://open.spotify.com/track/0tYD7s7exvZsdmbLkzJgqa) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mala de Profesión](https://open.spotify.com/album/74iUSIdgl8rOh9YJjKrC58) | 2:59 | 2026-07-24 |  |
+| [Mala de Profesión](https://open.spotify.com/track/0tYD7s7exvZsdmbLkzJgqa) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mala de Profesión](https://open.spotify.com/album/74iUSIdgl8rOh9YJjKrC58) | 2:59 | 2026-07-24 | 2026-08-01 |
 | [Mala Mujer](https://open.spotify.com/track/1w2ScF6hA0XRejw3QDHRhY) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:01 | 2022-08-12 | 2024-04-19 |
 | [Mala Mujer](https://open.spotify.com/track/2gQCX11hXv5UsjpU7BGLcl) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/6lV8I2O7lBGVZSO81vljO7) | 3:01 | 2024-04-05 |  |
 | [Malo](https://open.spotify.com/track/1DcVxDd20Hm4WjYcQRPfH1) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv) | [Malo](https://open.spotify.com/album/6Stvri2icQltU5XEPRfO2q) | 3:29 | 2023-09-08 | 2023-09-22 |
@@ -199,6 +200,7 @@
 | [Mi Cama](https://open.spotify.com/track/3KxwWaHiSEb3USL3mW6J5F) | [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Mi Cama](https://open.spotify.com/album/4WOdOwR51Vg3lXdClT29vh) | 2:54 | 2024-10-18 | 2024-12-14 |
 | [Mi Debilidad](https://open.spotify.com/track/0WTgAgwnqTQsFgq01hXnb4) | [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT) | [Mi Debilidad](https://open.spotify.com/album/7gkYUuQbtMUDxkJof4FNpq) | 2:46 | 2024-07-05 | 2024-09-27 |
 | [Mi Decisión \- Remix](https://open.spotify.com/track/1l8VIDA3SN6UyfSAnr2ytZ) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Sebastián Ayala](https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Mi Decisión \(Remix\)](https://open.spotify.com/album/1JlFSRosgIw9PiLtEtxBZS) | 3:20 | 2022-08-12 |  |
+| [Mi Momento Más Humilde](https://open.spotify.com/track/6a0d5fkzeAYu57P8tZyW2R) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Mi Momento Más Humilde](https://open.spotify.com/album/7DmFQRY9TaiQCuYnTOJKXn) | 3:03 | 2026-07-31 |  |
 | [Mi Tio](https://open.spotify.com/track/67mnRlBrFdFCOHZ686vTwq) | [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv) | [Mi Tio](https://open.spotify.com/album/685MMe5rHPhI6R6LULfGYc) | 2:37 | 2026-06-26 |  |
 | [Mi Venganza](https://open.spotify.com/track/0z7h1C28EemMAFcpkp0iWL) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/4GrlF2rRb3Xg9o4aPPKOik) | 3:11 | 2024-04-05 |  |
 | [Mi Venganza](https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Mi Venganza](https://open.spotify.com/album/0GfKEcyPtvzo7hNNJFCAfZ) | 3:11 | 2022-08-12 | 2024-04-19 |

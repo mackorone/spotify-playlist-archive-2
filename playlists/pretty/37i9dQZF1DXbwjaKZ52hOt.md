@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,673 likes - 150 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,691 likes - 150 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Five Little Ducks](https://open.spotify.com/track/43CWnT7ZK1NyQhc8NbJQuU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Five Little Ducks](https://open.spotify.com/album/6quGBbRBXpIiMYY0Eilrnh) | 2:29 |
+| 1 | [Hickory Dickory Dock](https://open.spotify.com/track/1JK6rD4Qw1urVinYaU6EV1) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Hickory Dickory Dock](https://open.spotify.com/album/2qlLPQfRcfizpSczjrt21I) | 2:25 |
 | 2 | [BINGO](https://open.spotify.com/track/4j2g8w8iuoaogdLpxCIIlY) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [BINGO](https://open.spotify.com/album/1RmcEVzLTYKaNOwiWLxWd6) | 2:56 |
 | 3 | [Rain Rain Go Away \- Max And Mia's Version](https://open.spotify.com/track/52Vt767uZPZvbhLrYwWBR4) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Rain Rain Go Away \(Max And Mia's Version\)](https://open.spotify.com/album/4GxSHpcUoCmE3e3Iu9Ujxz) | 2:02 |
-| 4 | [Hickory Dickory Dock \- The Mouse Ran Up The Clock](https://open.spotify.com/track/0QPMxGZdm88jIjcCsHX7S4) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Hickory Dickory Dock \(The Mouse Ran Up The Clock\)](https://open.spotify.com/album/2RUDGkwspVoqqyxQnSXRtL) | 1:44 |
+| 4 | [Five Little Ducks](https://open.spotify.com/track/43CWnT7ZK1NyQhc8NbJQuU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Five Little Ducks](https://open.spotify.com/album/6quGBbRBXpIiMYY0Eilrnh) | 2:29 |
 | 5 | [Comin Round The Mountain](https://open.spotify.com/track/5QHIN7pxBpg0U83IacY0Nv) | [Martin and Rose Music](https://open.spotify.com/artist/61VbOFPL7RIKt0Q1KOykSU) | [Comin Round The Mountain](https://open.spotify.com/album/6e8Mw61xVpsQsxDcxNByC8) | 2:32 |
 | 6 | [John Jacob Jingleheimer Schmidt \- His Name Is My Name Too](https://open.spotify.com/track/6jClJoGhCavKB0ao6zMRGu) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [John Jacob Jingleheimer Schmidt \(His Name Is My Name Too\)](https://open.spotify.com/album/3sH9TeAkwquzvkCddGddLM) | 1:54 |
 | 7 | [Five Little Monkeys](https://open.spotify.com/track/72Lo8CwVosyInkViXWPVrh) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Hogi Sing\-Along](https://open.spotify.com/album/39pJlWsJz0W3KsO62gLyMg) | 2:04 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 149 | [Little Tommy Tucker \- 2014 Version](https://open.spotify.com/track/11aKEebWD67zKSPNGW2BxM) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 0:51 |
 | 150 | [Wee Willie Winkie](https://open.spotify.com/track/4X8FTylLFUBFVI7islILP4) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Mother Goose Club Sings Nursery Rhymes Vol\. 2](https://open.spotify.com/album/0PVlkUBCs6cPFmQHMCzhVd) | 0:17 |
 
-Snapshot ID: `AAAAADT13zbdO7fCay4eZjZAUJR/pB/u`
+Snapshot ID: `AAAAADlZfp56X9Ib6OP0jUFxpSNo9pfx`

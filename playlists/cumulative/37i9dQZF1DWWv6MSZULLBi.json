@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Sam Drysdale",
+  "description": "A laid-back trip in the folk scene. Cover: Kaia Kater",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 187478,
       "name": "As I Was",
       "url": "https://open.spotify.com/track/02Je1UjJerrrKoaUi2KeRW"
@@ -2382,6 +2382,24 @@
       "duration_ms": 201733,
       "name": "Backfire - Better with James",
       "url": "https://open.spotify.com/track/6lmvhGK2hm4bt1PuF8efmp"
+    },
+    {
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/784ntHZ8rOCR17Fi45OFSP"
+      },
+      "artists": [
+        {
+          "name": "RYMAN",
+          "url": "https://open.spotify.com/artist/1ZUNE7b5nNiN31AnJ0Smqj"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194519,
+      "name": "Backroads",
+      "url": "https://open.spotify.com/track/7hThw8u62Hy5LLIGSyHyAe"
     },
     {
       "album": {
@@ -3053,6 +3071,24 @@
     },
     {
       "album": {
+        "name": "Bird Over The Sea",
+        "url": "https://open.spotify.com/album/0BPPb0fhGaoIturosAdiey"
+      },
+      "artists": [
+        {
+          "name": "Reuben And The Dark",
+          "url": "https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275341,
+      "name": "Bird Over The Sea",
+      "url": "https://open.spotify.com/track/2OaswaodqzPvF88mtXiKiD"
+    },
+    {
+      "album": {
         "name": "Rarities",
         "url": "https://open.spotify.com/album/7dHICPrlwTqefBtmCIkwpv"
       },
@@ -3450,6 +3486,28 @@
       "duration_ms": 185226,
       "name": "Blue Ridge Run",
       "url": "https://open.spotify.com/track/5GZI4tMGES215gvXieul9v"
+    },
+    {
+      "album": {
+        "name": "Blue Stained Glass",
+        "url": "https://open.spotify.com/album/6BZx64F9oGZjasmpGKrn1w"
+      },
+      "artists": [
+        {
+          "name": "Al Nicol",
+          "url": "https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu"
+        },
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Blue Stained Glass",
+      "url": "https://open.spotify.com/track/1PzX46fVtrCzJiaopKwu3h"
     },
     {
       "album": {
@@ -5688,7 +5746,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 394921,
       "name": "Could've Been Something",
       "url": "https://open.spotify.com/track/6H7wYiNdD8HAjZCBIiZhPe"
@@ -7468,7 +7526,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 341600,
       "name": "East Wind",
       "url": "https://open.spotify.com/track/4z9ULGo0HV95J9FzhS2Fke"
@@ -9830,7 +9888,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 194453,
       "name": "for love's sake",
       "url": "https://open.spotify.com/track/3bAoL5RpaXCs40ndVBsj54"
@@ -11014,7 +11072,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 280506,
       "name": "Hail",
       "url": "https://open.spotify.com/track/450ZDkFvuRfdsfbbeDQfyq"
@@ -11718,6 +11776,24 @@
       "duration_ms": 188027,
       "name": "Heavy Stone",
       "url": "https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM"
+    },
+    {
+      "album": {
+        "name": "Heavy Tobacco",
+        "url": "https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189609,
+      "name": "Heavy Tobacco",
+      "url": "https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at"
     },
     {
       "album": {
@@ -14687,6 +14763,24 @@
     },
     {
       "album": {
+        "name": "Who Could Not Be Broken",
+        "url": "https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "John's Color TV",
+      "url": "https://open.spotify.com/track/6zEWbdQctLk3SCUc1R9JQ4"
+    },
+    {
+      "album": {
         "name": "Joint Account",
         "url": "https://open.spotify.com/album/5I8uUf233kr6FLP7lg6hfG"
       },
@@ -16625,6 +16719,24 @@
     },
     {
       "album": {
+        "name": "Lost Without You (Rework)",
+        "url": "https://open.spotify.com/album/4jcsvvBteM7y9V8XlREgjl"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179346,
+      "name": "Lost Without You - Rework",
+      "url": "https://open.spotify.com/track/5vm9RLOAV3Src37QDOd3y2"
+    },
+    {
+      "album": {
         "name": "Glossolalia",
         "url": "https://open.spotify.com/album/66hCqmyDrUMjZrooeuG1PM"
       },
@@ -16774,6 +16886,24 @@
       "duration_ms": 131999,
       "name": "Loving You Will Be The Death Of Me",
       "url": "https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ"
+    },
+    {
+      "album": {
+        "name": "Luckiest Man Alive",
+        "url": "https://open.spotify.com/album/7JQee4B0Etas2uzPTAUCkA"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Traffic Jam",
+          "url": "https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224173,
+      "name": "Luckiest Man Alive",
+      "url": "https://open.spotify.com/track/5AcdBSjv5W43KklHLDpNTH"
     },
     {
       "album": {
@@ -17216,6 +17346,24 @@
       "duration_ms": 213253,
       "name": "Marylebone",
       "url": "https://open.spotify.com/track/7ohHXRVLjHoB1bHcrFO9KM"
+    },
+    {
+      "album": {
+        "name": "Masks",
+        "url": "https://open.spotify.com/album/6r8fFRgqtWIHvNTK3LX29E"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223102,
+      "name": "Masks",
+      "url": "https://open.spotify.com/track/4LDW1h0BKYdDVZJnE3c9uP"
     },
     {
       "album": {
@@ -17706,6 +17854,24 @@
       "duration_ms": 170000,
       "name": "Milkman",
       "url": "https://open.spotify.com/track/6HoUzmc0wu7zjKgjnKKTLX"
+    },
+    {
+      "album": {
+        "name": "Mill Town Flood",
+        "url": "https://open.spotify.com/album/2lDGkAfM7aHgpf3tQcSMu9"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305279,
+      "name": "Mill Town Flood",
+      "url": "https://open.spotify.com/track/3Bpwb2QUEoRaHZIc9McVrt"
     },
     {
       "album": {
@@ -18452,6 +18618,24 @@
       "duration_ms": 194985,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/3R7HVKI87LEglZelj5qLxI"
+    },
+    {
+      "album": {
+        "name": "My Home",
+        "url": "https://open.spotify.com/album/2IDkmTVyD77PQ8x7wFc2eU"
+      },
+      "artists": [
+        {
+          "name": "Big Little Lions",
+          "url": "https://open.spotify.com/artist/1S25eHELHGJo2jLuayK0X3"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239078,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/0UdAD2AZgwZ9yiOkSpSYdw"
     },
     {
       "album": {
@@ -20448,7 +20632,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 219973,
       "name": "One More Cowboy",
       "url": "https://open.spotify.com/track/1qzPQtya0Pb4IoQyYhzj2n"
@@ -21220,7 +21404,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 232698,
       "name": "Past The Veil",
       "url": "https://open.spotify.com/track/3O8bppZYaCYnYb2DtjbLVw"
@@ -22234,7 +22418,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 170200,
       "name": "Rabbits",
       "url": "https://open.spotify.com/track/0y87p8TQIJ5FRpBhVKOvJQ"
@@ -22614,6 +22798,24 @@
       "duration_ms": 174008,
       "name": "Right Now - Bouquet Version",
       "url": "https://open.spotify.com/track/0pahIPR9i0l549a4ftxex5"
+    },
+    {
+      "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/0pgqi9s9qkIGjCbN5vGbNq"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209172,
+      "name": "Right On Time",
+      "url": "https://open.spotify.com/track/15gbrNPteUKN5gNuoRnhY2"
     },
     {
       "album": {
@@ -24085,6 +24287,28 @@
     },
     {
       "album": {
+        "name": "Sidney",
+        "url": "https://open.spotify.com/album/2JHf7Bo5JlIGdeT0D5kM8M"
+      },
+      "artists": [
+        {
+          "name": "Kaia Kater",
+          "url": "https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm"
+        },
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248274,
+      "name": "Sidney",
+      "url": "https://open.spotify.com/track/7vHiEsG0pCoLCiXVIDm2Wc"
+    },
+    {
+      "album": {
         "name": "Sierra Vista",
         "url": "https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr"
       },
@@ -25006,7 +25230,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 97880,
       "name": "Something's Wrong",
       "url": "https://open.spotify.com/track/3KidSMbysQF87h9TL6aJlv"
@@ -25396,7 +25620,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 268822,
       "name": "Staying Still",
       "url": "https://open.spotify.com/track/35po0dhj4pRkbVDeooNVBW"
@@ -25454,6 +25678,24 @@
       "duration_ms": 193754,
       "name": "Steal My Soul",
       "url": "https://open.spotify.com/track/3s0NfU9BVACTDqRQSq2ZA1"
+    },
+    {
+      "album": {
+        "name": "Stick Around",
+        "url": "https://open.spotify.com/album/3UbKRawIjlP6wHYeNAYxgj"
+      },
+      "artists": [
+        {
+          "name": "School House",
+          "url": "https://open.spotify.com/artist/37JHgl2RfDoQKLho1Ig2gC"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218737,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/0jl05CPyVRYqQ9wpBFsFvT"
     },
     {
       "album": {
@@ -27724,10 +27966,28 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 238481,
       "name": "The Scars We Share",
       "url": "https://open.spotify.com/track/1rI2SChKCCBD3poraYKw2Z"
+    },
+    {
+      "album": {
+        "name": "The Smell of August",
+        "url": "https://open.spotify.com/album/4tWUX0hIy9B5Y7zF9kFZgF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Mason",
+          "url": "https://open.spotify.com/artist/1zZNBtF7Cqq8imxRyfV9Ra"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "The Smell of August",
+      "url": "https://open.spotify.com/track/5Bw0sfBf0Js5zMmzUMbtnI"
     },
     {
       "album": {
@@ -28078,6 +28338,24 @@
       "duration_ms": 177765,
       "name": "These Days",
       "url": "https://open.spotify.com/track/6ta4ggAGxnMLHNdkiu9jKn"
+    },
+    {
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/48TjcgJ29txWdMGuqZ4Q7u"
+      },
+      "artists": [
+        {
+          "name": "STACEY",
+          "url": "https://open.spotify.com/artist/1rfYzEJpmnmhVM1V6LUHTQ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242312,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/7m9umE52jAY3xCHNBQuyhW"
     },
     {
       "album": {
@@ -28598,6 +28876,28 @@
       "duration_ms": 332585,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
+    },
+    {
+      "album": {
+        "name": "Tiptoe",
+        "url": "https://open.spotify.com/album/62hjC8lLmDttzhNU0gd8Cc"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fricot",
+          "url": "https://open.spotify.com/artist/5HGZ6YBn36wAyz2uZn6FEq"
+        },
+        {
+          "name": "Gabe Miller",
+          "url": "https://open.spotify.com/artist/4DfQFMUk12AT8PNNFQlDxr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Tiptoe",
+      "url": "https://open.spotify.com/track/5LlfFVjfLQZHDQZ5ZY7Iye"
     },
     {
       "album": {
@@ -32410,7 +32710,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 207424,
       "name": "You\u2019ll Be The Proof (feat. Joy Williams) - Acoustic",
       "url": "https://open.spotify.com/track/3DFLdL4XWegRHyXCdPnNUh"

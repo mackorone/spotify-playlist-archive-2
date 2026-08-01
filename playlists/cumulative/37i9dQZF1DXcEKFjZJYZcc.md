@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-354 songs - 14 hr 32 min
+356 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Hivon](https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Hivon](https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI) | 2:42 | 2025-06-10 |  |
 | [Hjemme](https://open.spotify.com/track/2I9UpWjL8GxNRUU1MWOHeQ) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [Hjemme](https://open.spotify.com/album/5idRanglFK2p2bUSKGTmQD) | 2:29 | 2024-12-17 | 2025-11-13 |
 | [Homestead](https://open.spotify.com/track/2yZU1Y2Zagb4Ymm5gK72ab) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Homestead](https://open.spotify.com/album/2FSycLXewsbnvoqm6F5oKv) | 2:42 | 2022-03-03 | 2024-12-12 |
+| [Honeybush](https://open.spotify.com/track/5mjhyv6NSPkIcya8WmciCZ) | [Ella Davies](https://open.spotify.com/artist/41ZN6cpScLI4JidZW7f47H) | [Honeybush](https://open.spotify.com/album/1TDga2qBlcLUkJHt118hQV) | 2:17 | 2026-07-31 |  |
 | [Hour of Rest](https://open.spotify.com/track/0sCPbmOcdRcTWVDjHh22id) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Hour of Rest](https://open.spotify.com/album/6vtn108mEHEwVw0Lu1I4HO) | 1:52 | 2021-12-14 | 2023-09-19 |
 | [I Dare Not Dream](https://open.spotify.com/track/31as8GAbqrm9thjsrTD7lo) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream](https://open.spotify.com/album/1X8SeMtxLgpnUCvUo6QcVj) | 2:14 | 2023-08-07 | 2025-11-13 |
 | [I Dare Not Dream: Fantasia on a Theme](https://open.spotify.com/track/7yw6puga275rUZa82ItJy8) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [I Dare Not Dream: Fantasia on a Theme](https://open.spotify.com/album/6Afe584fHx7s4nT3gBHRAn) | 2:54 | 2024-10-01 |  |
@@ -142,6 +143,7 @@
 | [In This Moment](https://open.spotify.com/track/0dHnMcMVjESThYMUpadvaz) | [Joshua Lee Flowers](https://open.spotify.com/artist/4Ps4VWJ07syyg7bAZ7OEVR) | [In This Moment](https://open.spotify.com/album/5pvw3nwZsTrJ2zSh9Nmoud) | 1:57 | 2021-12-14 | 2023-06-21 |
 | [Infinity clouds](https://open.spotify.com/track/3nWR11uRHUQ2aa6XqtPAfx) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Infinity clouds](https://open.spotify.com/album/4G3fWb6LcxqeOo80HX9O8g) | 2:30 | 2022-12-06 |  |
 | [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 | 2023-08-15 |  |
+| [Inner Light](https://open.spotify.com/track/5RrLNlySbK1LRAEsqwlsbv) | [Elarune](https://open.spotify.com/artist/0AGFEF0rviLWBlKn1DBeUu) | [Inner Light](https://open.spotify.com/album/6hjjbugLesuzpTHGQ5Vc3V) | 2:33 | 2026-07-31 |  |
 | [Inner Peace](https://open.spotify.com/track/4145JIRFoYOykXXnVQpz3F) | [Lianne Steeman](https://open.spotify.com/artist/3U7x7KLCqxl4vE0QC3oQl2) | [Inner Peace](https://open.spotify.com/album/3VwdiiuImq5VJ6mMhlUWBg) | 2:36 | 2022-07-20 | 2023-11-11 |
 | [Interstellar Seasons](https://open.spotify.com/track/7m6PhceApKOx7Z2hFM4fIX) | [Thalia Havenstein](https://open.spotify.com/artist/2SNA9lbI3oRV7mtnBTNEs7) | [Interstellar Seasons](https://open.spotify.com/album/3m11zDc4En223CSPDiw5cA) | 2:31 | 2021-12-14 | 2024-10-02 |
 | [Introspective](https://open.spotify.com/track/7d1CXUTMlMxmBWz3Mwsdvk) | [Phlox Sage](https://open.spotify.com/artist/5eIwTQpKoGAM6rFunUEd1T) | [Introspective](https://open.spotify.com/album/2Mq0dTijsXUQmTB0A5tPp8) | 2:11 | 2023-05-03 |  |

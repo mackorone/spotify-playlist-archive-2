@@ -3715,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "Barnacle on your hull",
+        "url": "https://open.spotify.com/album/78Tjs58x5LPjZ5OmYGns5R"
+      },
+      "artists": [
+        {
+          "name": "Bumblebird",
+          "url": "https://open.spotify.com/artist/4lVB3K4TyKgC359oQUasTv"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210560,
+      "name": "Barnacle on your hull",
+      "url": "https://open.spotify.com/track/2b20KyRNkGOrazeQtC2cus"
+    },
+    {
+      "album": {
         "name": "Ambient Darkness - Vol. 3 - Particles",
         "url": "https://open.spotify.com/album/6jWjAa20Z5ILkE9yQSRjtn"
       },
@@ -7183,6 +7201,24 @@
     },
     {
       "album": {
+        "name": "Close to Peace",
+        "url": "https://open.spotify.com/album/2QeQDQR9ndvVjl0AIOexzh"
+      },
+      "artists": [
+        {
+          "name": "Garbage Garden",
+          "url": "https://open.spotify.com/artist/46Vwy9J73rIhOy0pHiW8Ix"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183520,
+      "name": "Close to Peace",
+      "url": "https://open.spotify.com/track/0UAOmZt5dtWqQznRueQZz8"
+    },
+    {
+      "album": {
         "name": "After The Fire",
         "url": "https://open.spotify.com/album/1Pr3PW22wuuDXFY30vx5h4"
       },
@@ -9048,7 +9084,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 174970,
       "name": "Deadline",
       "url": "https://open.spotify.com/track/7m4aYJfsylAXqh7ubCBAYu"
@@ -9340,6 +9376,28 @@
       "duration_ms": 121304,
       "name": "DELUSIONS OF GRANDEUR",
       "url": "https://open.spotify.com/track/5vbXl4YxZdyRxYBP6A4cK8"
+    },
+    {
+      "album": {
+        "name": "Denverlicious",
+        "url": "https://open.spotify.com/album/4CoOwfZtImWciruzTt8mMb"
+      },
+      "artists": [
+        {
+          "name": "Denver C. Pruitt",
+          "url": "https://open.spotify.com/artist/2s57u6ygyI9cdo4owvaFTU"
+        },
+        {
+          "name": "The Pruitt Posse",
+          "url": "https://open.spotify.com/artist/4nSQBSjoWOsbYzeRzWeCpb"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199720,
+      "name": "Denverlicious",
+      "url": "https://open.spotify.com/track/3An7TvAgJdwbrUxAl71AK4"
     },
     {
       "album": {
@@ -15068,7 +15126,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 212996,
       "name": "GeNa$",
       "url": "https://open.spotify.com/track/5SMOocbqTJF7ofGFbgOeWM"
@@ -20969,6 +21027,24 @@
     },
     {
       "album": {
+        "name": "It's Okay to Not be Okay",
+        "url": "https://open.spotify.com/album/7bwgAJEBs3fomgp88wGuYz"
+      },
+      "artists": [
+        {
+          "name": "WORSHIPER",
+          "url": "https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199710,
+      "name": "It's Okay to Not be Okay",
+      "url": "https://open.spotify.com/track/7ide20WCYqE1FiulbeWHvH"
+    },
+    {
+      "album": {
         "name": "It's You",
         "url": "https://open.spotify.com/album/6eMmuyv2I41OrR0M7E7qe8"
       },
@@ -25758,7 +25834,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 305250,
       "name": "Merula",
       "url": "https://open.spotify.com/track/6Zk3cIezRFEyI8699OUGpN"
@@ -39028,7 +39104,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 205313,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/0P8jzxMQoBkICoDw4QMsAx"

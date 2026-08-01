@@ -2,9 +2,9 @@
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Gryffin, BUNT., Inéz
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Luvstruck, Leena Punks
 
-2,051 songs - 4 day 2 hr 51 min
+2,052 songs - 4 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,6 +877,7 @@
 | [Immersion](https://open.spotify.com/track/543Z89apRQXgXFj0R2yITx) | [Alar](https://open.spotify.com/artist/2uEy5EYHvxxd2SyVq4Pn1a), [Yes No Maybe](https://open.spotify.com/artist/3G3pbFRRqPIR8ilWL32Cqn) | [Immersion](https://open.spotify.com/album/1t3IrbQ68XHX2bMM1KmHSW) | 4:10 | 2022-10-07 | 2022-10-21 |
 | [In & Out \(feat\. Modern Lover\)](https://open.spotify.com/track/624KQ6MFOrY8q1EOH6YGzf) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Modern Lover](https://open.spotify.com/artist/04mRnX3dfLtv3ZT9kPay35) | [In & Out \(feat\. Modern Lover\)](https://open.spotify.com/album/1zcftBmZHr5Xczlc361Eza) | 3:47 | 2022-08-05 | 2022-08-20 |
 | [In My Head](https://open.spotify.com/track/3rXFpt7WCEDi3EPQGOVLo6) | [Faiolli](https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO) | [In My Head](https://open.spotify.com/album/0cXacz7I0fKilaALwGJv8B) | 2:44 | 2026-06-25 |  |
+| [In My Heart](https://open.spotify.com/track/7IZMQWuSV0mMica8QqGmxm) | [Luvstruck](https://open.spotify.com/artist/6fm5VHP6gIiZZsOhphNpXy), [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt), [Ethan](https://open.spotify.com/artist/29a54uAUw7yr4pDFDvIwOH) | [In My Heart](https://open.spotify.com/album/58PmVhlMhGrfLWhYVxZaaf) | 2:36 | 2026-07-31 |  |
 | [In The House](https://open.spotify.com/track/0FgjmjnCcua8BmqbY08v6y) | [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P), [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [In The House](https://open.spotify.com/album/0s5hCLfH97Doiklo2PIRjr) | 2:19 | 2023-03-30 | 2023-04-14 |
 | [In The Music \(feat\. Adam Clay\)](https://open.spotify.com/track/5D8gCNYs8gMUDROy8qGUeL) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x), [Lohrasp Kansara](https://open.spotify.com/artist/33puj2nZF4OKSccBLaf1oy), [Adam Clay](https://open.spotify.com/artist/19jXtZ3WctjL00MMVqYrv8) | [In The Music \(feat\. Adam Clay\)](https://open.spotify.com/album/4F2hS3ziidvwr9ig2tmrNo) | 3:10 | 2023-08-24 | 2023-09-26 |
 | [In The Night](https://open.spotify.com/track/4qNqRgHTf2maOS3Ttggutw) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [Eli & Dani](https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw) | [In The Night](https://open.spotify.com/album/1SBZwbwzZfl6PuPrgd0FSW) | 2:52 | 2026-06-25 |  |

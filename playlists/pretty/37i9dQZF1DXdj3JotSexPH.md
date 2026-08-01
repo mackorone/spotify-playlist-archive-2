@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 
 > اضغط للبدء
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,988 likes - 158 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,987 likes - 158 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 67 | [Like Wooh Wooh \- Radio Edit](https://open.spotify.com/track/0C9P00gKzHroC3Et2SQylA) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 2:16 |
 | 68 | [i like the way you kiss me \- southstar remix](https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 2:17 |
 | 69 | [AVANGARD](https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov) | [LONOWN](https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw) | [AVANGARD](https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc) | 2:36 |
-| 70 | [SPOOKY](https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva) | [fennecxx](https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2), [DJ ALEX](https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL) | [SPOOKY](https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9) | 1:36 |
-| 71 | [Azul](https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Azul](https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4) | 3:46 |
+| 70 | [Azul](https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Azul](https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4) | 3:46 |
+| 71 | [SPOOKY](https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva) | [fennecxx](https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2), [DJ ALEX](https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL) | [SPOOKY](https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9) | 1:36 |
 | 72 | [⁠⁠Butterflies](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Butterflies](https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S) | 3:47 |
 | 73 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 |
 | 74 | [ONE FOR YOU](https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C) | [ONE FOR YOU](https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd) | 2:32 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdj3JotSexPH.md) - [plain]
 | 108 | [SICK FUCK](https://open.spotify.com/track/77A94wc7fOY0vuMffWELYJ) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [SICK FUCK](https://open.spotify.com/album/6lAZHBlWEvprlhgX4pMKWN) | 2:33 |
 | 109 | [Fuck My Computer](https://open.spotify.com/track/2Gt39sy5hTo4huF2Og9XEj) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Fuck My Computer](https://open.spotify.com/album/1oX8Dje3jHWVmKNfTbzrcy) | 3:10 |
 | 110 | [Feel the Beat \- Partiboi69 Remix](https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC) | [LB aka LABAT](https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh), [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL) | [Feel the Beat](https://open.spotify.com/album/4izfgFschtwTedFJH5b4rO) | 6:37 |
-| 111 | [Halo \(feat\. Shibui\)](https://open.spotify.com/track/7ELMkdmYhcknPvzn0CydAJ) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Halo \(feat\. Shibui\)](https://open.spotify.com/album/7sZooyvXa18fr9wa8YHyqd) | 2:36 |
-| 112 | [don't need u \(i do\)](https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD) | [blunn](https://open.spotify.com/artist/6B8YEt3Z1wJiv8H8RTL9II) | [don't need u \(i do\)](https://open.spotify.com/album/3epbfvjf6vhaKyZ9EzwjkZ) | 2:51 |
+| 111 | [don't need u \(i do\)](https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD) | [blunn](https://open.spotify.com/artist/6B8YEt3Z1wJiv8H8RTL9II) | [don't need u \(i do\)](https://open.spotify.com/album/3epbfvjf6vhaKyZ9EzwjkZ) | 2:51 |
+| 112 | [Halo \(feat\. Shibui\)](https://open.spotify.com/track/7ELMkdmYhcknPvzn0CydAJ) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Halo \(feat\. Shibui\)](https://open.spotify.com/album/7sZooyvXa18fr9wa8YHyqd) | 2:36 |
 | 113 | [HOW I DO IT](https://open.spotify.com/track/0Y1ZeaRs0gAEwb1rYxdbjq) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [BRVMES](https://open.spotify.com/artist/13OXgp0fFDhWRPSXnN8yLT) | [As The Pendulum Swings](https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd) | 2:28 |
 | 114 | [on our own](https://open.spotify.com/track/12CxO4DKn60OU9NPdVPYmy) | [Ordley](https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD) | [on our own](https://open.spotify.com/album/69RZ5CN1jONmFMPgpDv3Lf) | 2:58 |
 | 115 | [Dem Not Ready](https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Dem Not Ready](https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9) | 4:37 |

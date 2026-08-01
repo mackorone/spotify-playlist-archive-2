@@ -4345,6 +4345,24 @@
     },
     {
       "album": {
+        "name": "One For Sorrow",
+        "url": "https://open.spotify.com/album/26rrEjznY47dHtet5APtPn"
+      },
+      "artists": [
+        {
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173346,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1BUfVQ9BcxVfhPGgIrWOiW"
+    },
+    {
+      "album": {
         "name": "You'll Be Alright, Kid",
         "url": "https://open.spotify.com/album/6FyViQsaJnS1e5if4ouzGK"
       },
@@ -15830,24 +15848,6 @@
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
-    },
-    {
-      "album": {
-        "name": "One For Sorrow",
-        "url": "https://open.spotify.com/album/26rrEjznY47dHtet5APtPn"
-      },
-      "artists": [
-        {
-          "name": "Sonny Tennet",
-          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
-        }
-      ],
-      "date_added": "2026-07-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/1BUfVQ9BcxVfhPGgIrWOiW"
     },
     {
       "album": {

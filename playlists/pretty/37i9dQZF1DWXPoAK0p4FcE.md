@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: mute.
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Stoondio
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,244 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,237 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [จากนี้คงไม่มีเรา \[Farewell\]](https://open.spotify.com/track/2bHIphJV9Tg2SSiEQlnZAy) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากนี้คงไม่มีเรา \[Farewell\]](https://open.spotify.com/album/2yMgZeBiXjehbn50YTqXep) | 4:31 |
-| 2 | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm) | 3:59 |
-| 3 | [ช่วยพูดว่ารัก \(Begging\)](https://open.spotify.com/track/2M3ks2bl5SS5DPS1CNBVFd) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ช่วยพูดว่ารัก \(Begging\)](https://open.spotify.com/album/4BWLXhmcuiqOH1neP2MVZb) | 3:46 |
-| 4 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 5 | [โปรดออกไปจากฝัน \(sweet nightmare\)](https://open.spotify.com/track/5oWSGGdlWExRTL0PEMlJTU) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [Second Hand Store](https://open.spotify.com/album/4ehCfNCFuND4oRScDH4mH1) | 3:14 |
-| 6 | [เดิมเดิม \(Once\)](https://open.spotify.com/track/4TqFl2pIoapHiNe6L7f998) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เดิมเดิม \(Once\)](https://open.spotify.com/album/5EcLwO8l0hJBaRHSGiCWHQ) | 3:59 |
-| 7 | [พรดาวตก](https://open.spotify.com/track/6VMntYzRpSDB2lRIJWJ1Zw) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [พรดาวตก](https://open.spotify.com/album/4WBPyEq4CAEORHls1imUjh) | 4:28 |
-| 8 | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/track/3DWsZ2HoLoqGTp7YrCYwoh) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk), [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/album/23fqjl4BuIVzTcLEQCdU45) | 4:05 |
+| 1 | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/track/7q9cMJ0oDZFZSnqatZNabo) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [เมื่อถูกค้นพบ \(Finally She Found.\)](https://open.spotify.com/album/5u0Pz8t52IOj4J7R3wsKlm) | 3:59 |
+| 2 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
+| 3 | [ให้อภัย](https://open.spotify.com/track/5iHl5A1aHPy55gz7z5NtoD) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J) | [ให้อภัย](https://open.spotify.com/album/6ndE8rz2cietawX1prS9tc) | 5:00 |
+| 4 | [เดิมเดิม \(Once\)](https://open.spotify.com/track/4TqFl2pIoapHiNe6L7f998) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เดิมเดิม \(Once\)](https://open.spotify.com/album/5EcLwO8l0hJBaRHSGiCWHQ) | 3:59 |
+| 5 | [จากนี้คงไม่มีเรา \[Farewell\]](https://open.spotify.com/track/2bHIphJV9Tg2SSiEQlnZAy) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [จากนี้คงไม่มีเรา \[Farewell\]](https://open.spotify.com/album/2yMgZeBiXjehbn50YTqXep) | 4:31 |
+| 6 | [โปรดออกไปจากฝัน \(sweet nightmare\)](https://open.spotify.com/track/5oWSGGdlWExRTL0PEMlJTU) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [Second Hand Store](https://open.spotify.com/album/4ehCfNCFuND4oRScDH4mH1) | 3:14 |
+| 7 | [ช่วยพูดว่ารัก \(Begging\)](https://open.spotify.com/track/2M3ks2bl5SS5DPS1CNBVFd) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ช่วยพูดว่ารัก \(Begging\)](https://open.spotify.com/album/4BWLXhmcuiqOH1neP2MVZb) | 3:46 |
+| 8 | [พรดาวตก](https://open.spotify.com/track/6VMntYzRpSDB2lRIJWJ1Zw) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [พรดาวตก](https://open.spotify.com/album/4WBPyEq4CAEORHls1imUjh) | 4:28 |
 | 9 | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/track/2L54tWSpB5yeAYvienaKTT) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [ไม่มีวันไหนที่ไม่คิดถึง \(starlost.\)](https://open.spotify.com/album/1JCH3jvq3lj4KeIpWwTj32) | 4:40 |
-| 10 | [เสื้อผ้า \(Things\)](https://open.spotify.com/track/0jlUg5VpNwTmVBIUfaIrX7) | [Television off](https://open.spotify.com/artist/1KmzHN004Sm7O5pqRmh9hA) | [เสื้อผ้า \(Things\)](https://open.spotify.com/album/1xffkUWEw0zOOms7SRZ7Uu) | 4:42 |
+| 10 | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/track/3DWsZ2HoLoqGTp7YrCYwoh) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk), [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [เหมือนเธอไม่เคยจาก \(missing\) \[feat\. Anatomy Rabbit\]](https://open.spotify.com/album/23fqjl4BuIVzTcLEQCdU45) | 4:05 |
 | 11 | [เผื่อวันหนึ่งเราต้องจากลา \(Goodbye, Love\)](https://open.spotify.com/track/6Wr6pgy0PYCtWSIJpIh4II) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [เผื่อวันหนึ่งเราต้องจากลา \(Goodbye, Love\)](https://open.spotify.com/album/174hNKznr77dJwMjmYI6U1) | 5:06 |
 | 12 | [ทุกนาที \(As Light Goes By\)](https://open.spotify.com/track/3NHfp3bfkPYbFDFCEJosyd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ทุกนาที \(As Light Goes By\)](https://open.spotify.com/album/0CbmV4nYpeg2T31HGKPU8s) | 5:31 |
 | 13 | [ครั้งสุดท้ายที่เจอ \(always\)](https://open.spotify.com/track/3uM1GjMnHoddJlAjzxYen6) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [ครั้งสุดท้ายที่เจอ \(always\)](https://open.spotify.com/album/797ImuNxI4iaXgtxjErEr1) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPoAK0p4FcE.md) - [plain]
 | 49 | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/track/2DO84xSr9XGDGAIwWbHCnd) | [loserpop](https://open.spotify.com/artist/4BI5Vr4SPJSKI0ofzhlsLV) | [ดาวนำทาง \(Quiet Night\)](https://open.spotify.com/album/2FPO1LZVbyoTU9zr52EWkR) | 4:24 |
 | 50 | [ด้วยความไม่จริงใจ](https://open.spotify.com/track/0uq8rOoqymhkbRrd676hmd) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [ด้วยความไม่จริงใจ](https://open.spotify.com/album/4hjAPx4hSv4NGsgpsNtl6X) | 3:49 |
 
-Snapshot ID: `AAAAAB07iix2TLBk8sh00/WpUR5LNEVT`
+Snapshot ID: `AAAAAJv/U317A3q8ggStneUelXb7KGQw`

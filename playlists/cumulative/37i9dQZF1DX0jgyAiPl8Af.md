@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-948 songs - 1 day 16 hr 52 min
+953 songs - 1 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Chapada Dos Veadeiros](https://open.spotify.com/track/7c8pKCt8CzPbCRli2og1bL) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Chapada Dos Veadeiros](https://open.spotify.com/album/58ZAeVMJOTjxvuVay3JmBK) | 2:34 | 2021-12-08 | 2022-02-16 |
 | [Cherished](https://open.spotify.com/track/1rLMnQfT6ueI1yCOvZS9hN) | [Hugh Blake](https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D) | [Cherished](https://open.spotify.com/album/61BmBejQR7R1whomReaRJc) | 1:58 | 2022-10-07 | 2023-08-19 |
 | [Chiaro di Luna](https://open.spotify.com/track/5wMHOl6I3s50DgLuajsJZM) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Chiaro di Luna](https://open.spotify.com/album/3ZBm8Y0Xw3nqk3u8Q6cuvn) | 1:50 | 2022-12-09 | 2023-08-19 |
+| [Choose Something Like A Star](https://open.spotify.com/track/5B8vUe7I8Zv1OFnKJh1hLf) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Choose Something Like A Star](https://open.spotify.com/album/3eEqT2Dd9l3bkeVCluiDWY) | 2:19 | 2026-07-31 |  |
 | [Chords In D](https://open.spotify.com/track/5j6aEvNlgkVQVIah2Zogn9) | [Cecil Noss](https://open.spotify.com/artist/6txsRmyLk0moX5OAgIN95x) | [Chords In D](https://open.spotify.com/album/2jZjzsKKH6LLi8tgsUPjWm) | 2:46 | 2025-02-19 | 2025-02-25 |
 | [Cidade Velha](https://open.spotify.com/track/5tT3uZPRSyEIyBHtJC2LCG) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Cidade Velha](https://open.spotify.com/album/4Rvuafq8Og3xWmpkY9Fewz) | 2:28 | 2025-04-29 |  |
 | [Cinco](https://open.spotify.com/track/4pkFHpro2S9df35aesICL0) | [Albert Wenmo](https://open.spotify.com/artist/3oRcts32YJGp3vx0U7ZyKf) | [Cinco](https://open.spotify.com/album/6ha71NRebIjPObIM3ZTrSx) | 1:52 | 2022-05-27 | 2022-09-09 |
@@ -211,6 +212,7 @@
 | [Die Wanderbiene](https://open.spotify.com/track/45m0JU1iR7C5hJ0kPh86F2) | [Felix Trapp](https://open.spotify.com/artist/2hLNTVEFdpDyQrTMTousC6) | [Die Wanderbiene](https://open.spotify.com/album/2FbEevKy2zwnMLb4d7h1IY) | 3:09 | 2021-12-08 | 2023-02-11 |
 | [die Zeder](https://open.spotify.com/track/5IyPSusjmxJFNcFSFJ7Cmp) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [die Zeder](https://open.spotify.com/album/0W7VUre7uBbVzcx735mXr1) | 3:04 | 2021-12-08 | 2022-08-06 |
 | [Different Ways of Losing You](https://open.spotify.com/track/7kWNxTQ5ZIHhLAkHTllHGO) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Different Ways of Losing You](https://open.spotify.com/album/5uKt8albwbbam6MBWkvhEo) | 2:40 | 2022-10-07 | 2024-06-08 |
+| [Disarray](https://open.spotify.com/track/6NAyCt7usM85EiP2UtAua3) | [Simone](https://open.spotify.com/artist/79O1wMwePxGN6MrEDbM0qv) | [Disarray](https://open.spotify.com/album/7jqQeHIJuQjjc6wVbieAyA) | 2:54 | 2026-07-31 |  |
 | [Divine Smile](https://open.spotify.com/track/6nnoZ1JS7wWrpRcg1DsWas) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Divine Smile](https://open.spotify.com/album/0rmJuboHrB6Tpd7Sb71bad) | 2:04 | 2024-02-23 | 2025-11-11 |
 | [Doing Better](https://open.spotify.com/track/2pmjcW00KX4kdVeNBoU4wo) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Doing Better](https://open.spotify.com/album/49WR8t6KfjCCxVM8FRLau5) | 1:48 | 2022-07-29 | 2023-08-19 |
 | [Doldrums](https://open.spotify.com/track/2OUZUGb2q6rDXtXfDYmTmG) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Doldrums](https://open.spotify.com/album/5K7l55YIhPjl3HoY1eYgHF) | 2:20 | 2021-12-08 | 2022-06-10 |
@@ -242,6 +244,7 @@
 | [Elegia](https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Elegia](https://open.spotify.com/album/5akwFZfzBFG3ISUpHfIju8) | 2:28 | 2022-03-04 | 2025-02-25 |
 | [Elegía](https://open.spotify.com/track/47quLP1vxEzunhRdml1aVs) | [Lester Paredes](https://open.spotify.com/artist/6qmJhBPj3ROsuH7bLDODMf) | [Elegía](https://open.spotify.com/album/6gvFzFVIftV58SyjSz2c6q) | 3:54 | 2022-05-27 | 2022-07-22 |
 | [Elva stycken för gitarr ur mitt musikaliska skissblock: I\. Skeppsholmskyrkans klockor](https://open.spotify.com/track/3DUEY4DM6kXXsXq6PmtOTk) | [Olle Adolphson](https://open.spotify.com/artist/4hkOyd0eTeViYkZooM4Jay), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU) | [Olle Adolphson Musik för gitarr](https://open.spotify.com/album/6RULsoSVGu4e3rPC8vSbOt) | 3:37 | 2022-06-03 | 2022-06-10 |
+| [Em Paz](https://open.spotify.com/track/67AeXzuNIr2WMQtXoPdHZ7) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Em Paz](https://open.spotify.com/album/3MT9L15WrTmtRyXEcvIhnP) | 2:06 | 2026-07-31 |  |
 | [Embrace](https://open.spotify.com/track/2WoTg0pmCpUpakSrIVMyc4) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Embrace](https://open.spotify.com/album/5JtSMJQHqrir1O0CY8cPT2) | 2:35 | 2024-09-10 |  |
 | [Emilia](https://open.spotify.com/track/5DdyzYxR6gj2yTdDdc0upl) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Emilia](https://open.spotify.com/album/2H1UqvpzhDAfML0LSSmkot) | 2:01 | 2022-10-07 | 2024-07-18 |
 | [Enchantment](https://open.spotify.com/track/10SYT1xYCFAZZg7muzeAxC) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Enchantment](https://open.spotify.com/album/1wUy2g9PMkkvA1gZZQU8CX) | 3:07 | 2023-04-21 | 2024-07-18 |
@@ -260,6 +263,7 @@
 | [Ewigkeit](https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Ewigkeit](https://open.spotify.com/album/5G2pAHBGgJMnoasJSrxCmW) | 2:40 | 2022-10-28 | 2025-05-14 |
 | [eye of the beholder](https://open.spotify.com/track/5qj92VufB9JpS83gJh73up) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [eye of the beholder](https://open.spotify.com/album/6Ml03ImtzdZLRHmb2pa3Yn) | 3:01 | 2022-07-15 | 2022-07-22 |
 | [Eyrie](https://open.spotify.com/track/7xsrSjvPQdbAjnjLbE123V) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Eyrie](https://open.spotify.com/album/0SijLea2cdL6yNX9d7R2i2) | 1:56 | 2022-10-28 | 2023-08-19 |
+| [Eyrie Solitude](https://open.spotify.com/track/6mHmByLcd5EcaFfCjkGVKa) | [Jonah Heather](https://open.spotify.com/artist/1wPjGpHJKKk8Nkd6fYLZMD) | [Eyrie Solitude](https://open.spotify.com/album/4TcRvKFPnCsWCElGm3UjTW) | 2:13 | 2026-07-31 |  |
 | [Fairfield in my Heart](https://open.spotify.com/track/3HSSHkPfbgA6F7t5zVlYk3) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Fairfield in my Heart](https://open.spotify.com/album/2rxYviWjxKjrosSq8ezUBV) | 2:12 | 2022-11-18 | 2024-07-18 |
 | [Fairplex](https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Fairplex](https://open.spotify.com/album/0sTcJVzGYTd2yH2UVL36Uu) | 2:07 | 2023-08-10 | 2026-05-16 |
 | [Fairytale](https://open.spotify.com/track/1nG96s85Zw3DVnG24onptC) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Fairytale](https://open.spotify.com/album/4f3CoCIOgJGOPgdZLu8ycA) | 2:28 | 2023-10-27 | 2026-03-05 |
@@ -703,6 +707,7 @@
 | [Sarria](https://open.spotify.com/track/3vOCjnzLDblPCm9kgQa9NL) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Sarria](https://open.spotify.com/album/1dvJ4IWBXAMSsWGQJ1F2eQ) | 3:49 | 2022-04-22 | 2024-04-05 |
 | [Saudade](https://open.spotify.com/track/5ya9oJXawpEtTT64juebsM) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Saudade](https://open.spotify.com/album/5Zh8cgGWYAc5qRLwTvPXcF) | 2:42 | 2023-06-08 | 2025-02-25 |
 | [Saudade](https://open.spotify.com/track/2sVKwpi20O0WkibAdxWQk4) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Saudade](https://open.spotify.com/album/6nkyNZGse00wWlhvhXsRFs) | 2:27 | 2021-12-08 | 2022-05-11 |
+| [Sea Haze](https://open.spotify.com/track/2XgOBBNomTcr6hQFkF1P7e) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Sea Haze](https://open.spotify.com/album/06vVgd8VOp4KNUaK18TbbM) | 2:25 | 2026-07-31 |  |
 | [Secret Letters For You](https://open.spotify.com/track/1dLCaGhrgqqcX4m9g5P4EZ) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Secret Letters For You](https://open.spotify.com/album/0LwkZsEqjcn7LA6PxVF5nq) | 2:33 | 2023-04-21 | 2025-03-06 |
 | [Secret Soul](https://open.spotify.com/track/5ZgoZtLh1ofGyDavnEqqzp) | [Adone Alleva](https://open.spotify.com/artist/57AuiSqf2jh8dtMOTRfBoq) | [Secret Soul](https://open.spotify.com/album/6blFQ8TbMmiSXu2Bw5k07w) | 2:44 | 2022-11-18 | 2024-04-20 |
 | [Secretos](https://open.spotify.com/track/4LR70S8FRYGigcnXqnzWPZ) | [Barracuda Sound](https://open.spotify.com/artist/7kh6kV95YvmhBPmbi2tIRU) | [Secretos](https://open.spotify.com/album/4I0E0SfMJdfN4NSJtR9ujp) | 2:27 | 2022-07-22 | 2022-11-18 |

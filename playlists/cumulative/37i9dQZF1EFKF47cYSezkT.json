@@ -709,6 +709,24 @@
     },
     {
       "album": {
+        "name": "Sunny Surrender",
+        "url": "https://open.spotify.com/album/3MBDy9T7ffzGGSxNPANTMC"
+      },
+      "artists": [
+        {
+          "name": "Diva Smith",
+          "url": "https://open.spotify.com/artist/0qsb9dIDes7E4sZfOyMjRC"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143211,
+      "name": "Girlhood",
+      "url": "https://open.spotify.com/track/7cE4EHYaGzD2UB1U3bGGA5"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/27P7sXxqMPDsX9fypwvIg3"
       },

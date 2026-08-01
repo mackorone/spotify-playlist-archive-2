@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: Amy Taylor (Amyl and The Sniffers)",
-  "num_followers": 24070,
+  "num_followers": 24179,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "No Control",
         "url": "https://open.spotify.com/album/5COnjlxIEbPiRMnoxFc94e"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 377026,
       "name": "It's Obvious",
       "url": "https://open.spotify.com/track/5gPOiq7h6NydcfXEv2XiYg"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
       "added_at": "2026-07-01 16:22:16",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-07-01 16:22:16",
       "album": {
-        "name": "Personal Best",
-        "url": "https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5"
-      },
-      "artists": [
-        {
-          "name": "Team Dresch",
-          "url": "https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs"
-        }
-      ],
-      "duration_ms": 102933,
-      "name": "She's Crushing My Mind",
-      "url": "https://open.spotify.com/track/1KRdlcpHmzF4KTldSGVthD"
-    },
-    {
-      "added_at": "2026-07-01 16:22:16",
-      "album": {
         "name": "Nothing Feels Natural",
         "url": "https://open.spotify.com/album/0JHreJbw5DKq7Nr9aW2KqI"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 177826,
       "name": "JJ",
       "url": "https://open.spotify.com/track/1orez4wPUf42d2jtvUpm0b"
+    },
+    {
+      "added_at": "2026-07-01 16:22:16",
+      "album": {
+        "name": "Personal Best",
+        "url": "https://open.spotify.com/album/6FkTtMBKTWf4qV5aeL8Sp5"
+      },
+      "artists": [
+        {
+          "name": "Team Dresch",
+          "url": "https://open.spotify.com/artist/1i0UobirqiiWT0AbrkZKrs"
+        }
+      ],
+      "duration_ms": 102933,
+      "name": "She's Crushing My Mind",
+      "url": "https://open.spotify.com/track/1KRdlcpHmzF4KTldSGVthD"
     },
     {
       "added_at": "2026-07-01 16:22:16",

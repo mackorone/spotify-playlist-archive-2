@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 231253,
       "name": "Chuck Norris",
       "url": "https://open.spotify.com/track/6kNfw9DQgWGNP6WmtLJreA"
@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 138166,
       "name": "Como Te Va Mi Amor",
       "url": "https://open.spotify.com/track/2JkGiQjBDAocjhJdlzqKUc"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 187368,
       "name": "Como T\u00fa Decidas",
       "url": "https://open.spotify.com/track/4KqOiOYOS9ufuOlzdh1kJ5"
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 175496,
       "name": "Con La Misma Piedra",
       "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 154093,
       "name": "Cosas del Amor - En Vivo",
       "url": "https://open.spotify.com/track/6YzMEo6d3PbmtftbYwE9tj"
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 169676,
       "name": "Cuando la Vuelva a Ver",
       "url": "https://open.spotify.com/track/6pqCpi26PnHwTukYedf51w"
@@ -2020,7 +2020,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-23",
+      "date_removed": null,
       "duration_ms": 218411,
       "name": "De Sobremanera",
       "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
@@ -2032,13 +2032,13 @@
       },
       "artists": [
         {
-          "name": "Carin Leon",
+          "name": "Car\u00edn Le\u00f3n",
           "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-08",
+      "date_removed": null,
       "duration_ms": 188450,
       "name": "De Su Vida Me Ir\u00e9",
       "url": "https://open.spotify.com/track/2o1xzYqSsLMHzCVPdoasbT"
@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 177009,
       "name": "Dos Hojas Sin Rumbo",
       "url": "https://open.spotify.com/track/1tDiVfNhR0ETO0BgAH7FCv"
@@ -2521,6 +2521,28 @@
     },
     {
       "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/3GttJ01ZFSI4Cse6ZCqqg2"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Alex Ramirez Y Su Grupo Profetas",
+          "url": "https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190128,
+      "name": "El Arbol De La Horca (En Vivo)",
+      "url": "https://open.spotify.com/track/5QbaBYltzSpsU0Dkg4zFaL"
+    },
+    {
+      "album": {
         "name": "El Azul",
         "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
       },
@@ -2612,7 +2634,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 183428,
       "name": "El Baron del Desierto - En Vivo",
       "url": "https://open.spotify.com/track/0Ozsu4PdL0eg2SfBSKotpq"
@@ -2674,7 +2696,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 18145,
       "name": "El Chavo Felix - En Vivo",
       "url": "https://open.spotify.com/track/2PsM2ImJKTQEbQck2Ko2HG"
@@ -3210,7 +3232,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 181603,
       "name": "El Pato Nada",
       "url": "https://open.spotify.com/track/23CMnxjHn9sVLh9JAsXxfk"
@@ -3228,10 +3250,28 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 219733,
       "name": "El Peor De Mis Fracasos",
       "url": "https://open.spotify.com/track/4MYLhfLke4k2leJnHthOmq"
+    },
+    {
+      "album": {
+        "name": "El Pocho 43",
+        "url": "https://open.spotify.com/album/5Xh2F18vrwX7NozpAT1rAN"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227184,
+      "name": "El Pocho 43",
+      "url": "https://open.spotify.com/track/3dh0r1yRhQK48Dy11gAYzw"
     },
     {
       "album": {
@@ -3380,7 +3420,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 227551,
       "name": "El Scrappy",
       "url": "https://open.spotify.com/track/1AN1Jemy82iQlzbxMezAAG"
@@ -3560,7 +3600,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 230986,
       "name": "Encadenada a Mi",
       "url": "https://open.spotify.com/track/5ixMsTxqRLxMQm9E7d4Glf"
@@ -4047,6 +4087,24 @@
     },
     {
       "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "Fue Tu Culpa",
+      "url": "https://open.spotify.com/track/5SX8WYCEW5bKlQE854HuKS"
+    },
+    {
+      "album": {
         "name": "mix pa llorar en tu cuarto",
         "url": "https://open.spotify.com/album/4VeKLLYPySVFaf6qzkfOYW"
       },
@@ -4134,7 +4192,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 147567,
       "name": "GIVENCHY",
       "url": "https://open.spotify.com/track/02JYTPbXuQ18Wc8ZTsYMJD"
@@ -4228,7 +4286,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 168552,
       "name": "Hay Unos Ojos (En Vivo)",
       "url": "https://open.spotify.com/track/2xnNGK1hk6CPmiRczR2eWS"
@@ -4535,6 +4593,24 @@
     },
     {
       "album": {
+        "name": "La Birria de Estela",
+        "url": "https://open.spotify.com/album/0d2fAxdVEZRSEOJ4J6ZHbq"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176722,
+      "name": "La Birria de Estela",
+      "url": "https://open.spotify.com/track/6JHJY5geN9qhsHP7otLWfL"
+    },
+    {
+      "album": {
         "name": "La Caguama (En Vivo)",
         "url": "https://open.spotify.com/album/3rtvlMIcJo2df2ruI22hLH"
       },
@@ -4604,6 +4680,24 @@
       "duration_ms": 198920,
       "name": "La Chona",
       "url": "https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7"
+    },
+    {
+      "album": {
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148840,
+      "name": "La Chuparrosa",
+      "url": "https://open.spotify.com/track/4YdOW4F4jKqUuNExlF9mgj"
     },
     {
       "album": {
@@ -4948,7 +5042,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 185877,
       "name": "La Misma Conecta",
       "url": "https://open.spotify.com/track/483F0mz0Y4LoGN3uOvHHTx"
@@ -5208,6 +5302,24 @@
       "duration_ms": 178252,
       "name": "Lejos Estamos Mejor",
       "url": "https://open.spotify.com/track/4jwAlalnN7RjBt3lg1H56E"
+    },
+    {
+      "album": {
+        "name": "Le\u00f1a De Pirul",
+        "url": "https://open.spotify.com/album/5Yr2KAdhp8yfmqk6PvPq3f"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166900,
+      "name": "Le\u00f1a De Pirul",
+      "url": "https://open.spotify.com/track/7wj70qg5GF8jj2bpZiNC2Y"
     },
     {
       "album": {
@@ -5796,7 +5908,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 202029,
       "name": "Me Voy al Amanecer",
       "url": "https://open.spotify.com/track/044OjTSoQNelqaMaq7adLT"
@@ -5840,7 +5952,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 196620,
       "name": "Mejor Que Sea Para T\u00ed",
       "url": "https://open.spotify.com/track/5AdGihj4PqdfpRaveq5rTn"
@@ -5862,7 +5974,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 234592,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU"
@@ -5902,6 +6014,28 @@
       "duration_ms": 163146,
       "name": "Mi Chula",
       "url": "https://open.spotify.com/track/0hQgQHaXClyPsRM5IWk8tZ"
+    },
+    {
+      "album": {
+        "name": "Rancheando en la Ciudad con Gerardo Diaz y Los Huracanes del Norte",
+        "url": "https://open.spotify.com/album/4wPdFsMPl53RIwosl7psff"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        },
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198227,
+      "name": "Mi Complemento",
+      "url": "https://open.spotify.com/track/7jKUavCofX9Wz3kzvyoDXu"
     },
     {
       "album": {
@@ -5992,7 +6126,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 206458,
       "name": "Mi Problema",
       "url": "https://open.spotify.com/track/3DUuIRuOMKV4nbPMqQhcvq"
@@ -6285,6 +6419,24 @@
     },
     {
       "album": {
+        "name": "No Logre Olvidarte",
+        "url": "https://open.spotify.com/album/2boQnzThCKbsZYeRQxQ4o9"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205613,
+      "name": "No Logre Olvidarte",
+      "url": "https://open.spotify.com/track/0Xu00R0RaegMOwt5vZiMn5"
+    },
+    {
+      "album": {
         "name": "Julio Chaides en Vivo Con Chirrines",
         "url": "https://open.spotify.com/album/1bum07mGmZ8hW9evwv1YCF"
       },
@@ -6518,7 +6670,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 169830,
       "name": "Nomas Pa Que Sepan",
       "url": "https://open.spotify.com/track/3Ge1XTAn1P33DaAaw4sjGu"
@@ -6814,7 +6966,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 179519,
       "name": "Para Qu\u00e9 Lastimarme",
       "url": "https://open.spotify.com/track/5CUz4qitZbIETYXy79bCc9"
@@ -7122,7 +7274,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 158573,
       "name": "Platicando A Solas",
       "url": "https://open.spotify.com/track/69tiKmFM0fAJd9BqKNH70j"
@@ -7362,7 +7514,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 212074,
       "name": "Primer Tiempo",
       "url": "https://open.spotify.com/track/0FEniDA74LuWEScdiQRmpI"
@@ -7612,7 +7764,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 266794,
       "name": "Quererte Jam\u00e1s",
       "url": "https://open.spotify.com/track/5fJripoipdaljU9HbCl3JH"
@@ -7746,7 +7898,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 151960,
       "name": "Qu\u00e9 Culpa Tengo Yo",
       "url": "https://open.spotify.com/track/4eZs2jMnzU5U7FOyjIsRWx"
@@ -7764,7 +7916,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 159061,
       "name": "Qu\u00e9 Hubiera Pasado",
       "url": "https://open.spotify.com/track/4OW4oNqxITRHCR2mNI226f"
@@ -7840,6 +7992,24 @@
       "duration_ms": 212776,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+    },
+    {
+      "album": {
+        "name": "20 Exitos Puros Corridos",
+        "url": "https://open.spotify.com/album/3qtc7l9HmA81FSC4DyRnAE"
+      },
+      "artists": [
+        {
+          "name": "Los Norte\u00f1os De Cosala",
+          "url": "https://open.spotify.com/artist/2CM1HLA6vmph9mqtMhFC7g"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218866,
+      "name": "Recorriendo La Sierra",
+      "url": "https://open.spotify.com/track/7vRfTKrkeAtqdF0vHcAhrh"
     },
     {
       "album": {
@@ -8049,6 +8219,24 @@
     },
     {
       "album": {
+        "name": "Corridos De Oro",
+        "url": "https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14"
+      },
+      "artists": [
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "Se Les Pelo Baltazar",
+      "url": "https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg"
+    },
+    {
+      "album": {
         "name": "Chapayeka (En Vivo)",
         "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
       },
@@ -8228,7 +8416,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 217511,
       "name": "Si No La Tengo",
       "url": "https://open.spotify.com/track/6dX9AMjSe3GM8v0jtNs4j1"
@@ -9004,7 +9192,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 166169,
       "name": "Tierra De Los Cabrera",
       "url": "https://open.spotify.com/track/152Maifhb09DmHDzWVVx2W"
@@ -9882,7 +10070,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 183346,
       "name": "Volvi\u00f3 El Dolor",
       "url": "https://open.spotify.com/track/2wbTcTnx8WSEHsJ5nkx7E2"
@@ -10008,7 +10196,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 212858,
       "name": "V\u00e1yanle con el Mitote",
       "url": "https://open.spotify.com/track/3n31hWWBb6X9uNvmonbQOB"
@@ -10096,7 +10284,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 168213,
       "name": "Y Yo Sigo Aqu\u00ed",
       "url": "https://open.spotify.com/track/3rGm2Sl3ZzwHxWcIuXAljG"
@@ -10230,7 +10418,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 159791,
       "name": "Yo Quisiera",
       "url": "https://open.spotify.com/track/7dG0TMDhWaeHR61gxoXYCw"

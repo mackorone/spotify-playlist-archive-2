@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,277 songs - 3 day 6 hr 47 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,279 songs - 3 day 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1285,5 +1285,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1275 | [Hell of a time](https://open.spotify.com/track/1mNyD4FwFJGIAxnnDpTBtp) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Hell of a time](https://open.spotify.com/album/5rfkiovkHkwCnIZ7q3GTkF) | 3:43 |
 | 1276 | [oh yeah?](https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Oh yeah?](https://open.spotify.com/album/289GZwycrFReuNB706obBx) | 2:50 |
 | 1277 | [Drunk lullaby](https://open.spotify.com/track/3Au7vtaP1SxHi2OfGSCGnW) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [Nowhere EP](https://open.spotify.com/album/0qIP58YoRrNXLq25L4DRau) | 3:07 |
+| 1278 | [Speed Dealer](https://open.spotify.com/track/4FuIagU6Rfw9cIQO4cUA9V) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Speed Dealer](https://open.spotify.com/album/5BL6SsxWXFOlmHunSjvEky) | 5:10 |
+| 1279 | [So Long](https://open.spotify.com/track/3xun1vv9RHLZzUOBuWY8UZ) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Speed Dealer](https://open.spotify.com/album/5BL6SsxWXFOlmHunSjvEky) | 4:40 |
 
-Snapshot ID: `AAAKAr0CRrdBL9VviG+mgl96fK4uTn8g`
+Snapshot ID: `AAAKA+JzhylD+43e/eyEA+iytivYWKOT`

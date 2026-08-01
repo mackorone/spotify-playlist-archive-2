@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-05-30",
-  "description": "Dans pisti haz\u0131r! Mix yaln\u0131zca Premium'da. Kapak: Mahmut Orhan",
+  "description": "Dans pisti haz\u0131r! Mix yaln\u0131zca Premium'da. Kapak: INJI",
   "name": "DANS 2026",
   "tracks": [
     {
@@ -123,6 +123,24 @@
     },
     {
       "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/29CyVI9Zy4f36Wfs9QqqBF"
+      },
+      "artists": [
+        {
+          "name": "Kaan \u00c7elik",
+          "url": "https://open.spotify.com/artist/2heQOzLUmQAIkn11BeThGA"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243934,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/04awbijDXjm4Fs6cDfahLb"
+    },
+    {
+      "album": {
         "name": "Augment",
         "url": "https://open.spotify.com/album/6kButoMoDOk11Bn907ZoCI"
       },
@@ -138,7 +156,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 193531,
       "name": "Augment",
       "url": "https://open.spotify.com/track/4WUU44j7I8GyFI2yGvYJri"
@@ -164,7 +182,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 216774,
       "name": "Ay Ay Ay",
       "url": "https://open.spotify.com/track/4RcB7AthmJA3kQbCBEcdBS"
@@ -329,6 +347,24 @@
     },
     {
       "album": {
+        "name": "BRIGHT IDEAS",
+        "url": "https://open.spotify.com/album/52vrSzqYpRe35Psn4a8S4J"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188625,
+      "name": "BRIGHT IDEAS",
+      "url": "https://open.spotify.com/track/4whVtTnaIfNEvG8eKSEVxB"
+    },
+    {
+      "album": {
         "name": "Bubblegum Moonlight",
         "url": "https://open.spotify.com/album/4AkOPYDLYRHcPj9nkxwUe5"
       },
@@ -392,6 +428,28 @@
       "duration_ms": 159555,
       "name": "Campanera",
       "url": "https://open.spotify.com/track/18OUMWam64w2Yinm7Vxeru"
+    },
+    {
+      "album": {
+        "name": "Can I Have It Like That",
+        "url": "https://open.spotify.com/album/6BtQuj0SvmvS7jVMbcez69"
+      },
+      "artists": [
+        {
+          "name": "Ben Hims",
+          "url": "https://open.spotify.com/artist/2xChRGmRz7vH7Z0x7GLAZ6"
+        },
+        {
+          "name": "Baris Turna",
+          "url": "https://open.spotify.com/artist/4lsdKwzGkJkmC7b68Myb6Q"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165245,
+      "name": "Can I Have It Like That",
+      "url": "https://open.spotify.com/track/4rdhy4UAiowaK6E8uzQ4R4"
     },
     {
       "album": {
@@ -506,7 +564,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 136451,
       "name": "Dum Tak",
       "url": "https://open.spotify.com/track/1yXPwKVe5Yvw9FUBjHIu07"
@@ -542,7 +600,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 214500,
       "name": "Feel The Night - Radio Edit",
       "url": "https://open.spotify.com/track/3Zn1C48jYxIhPHjetqGucX"
@@ -722,7 +780,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 205161,
       "name": "I want u to stay - D\u00f6nis Remix",
       "url": "https://open.spotify.com/track/29cQKSyi5JLOG4FKXWa6Pk"
@@ -752,6 +810,28 @@
       "duration_ms": 175714,
       "name": "Ice Ice Baby 2026",
       "url": "https://open.spotify.com/track/6YSH40nGTRdVkh8joS4jCO"
+    },
+    {
+      "album": {
+        "name": "Ikigai (Timo Maas Remix)",
+        "url": "https://open.spotify.com/album/4Cj5acTie11YqD9N8NVz7F"
+      },
+      "artists": [
+        {
+          "name": "Sezer Uysal",
+          "url": "https://open.spotify.com/artist/4y0Bho33I93MMxrgsRwMOj"
+        },
+        {
+          "name": "Timo Maas",
+          "url": "https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399360,
+      "name": "Ikigai - Timo Maas Remix",
+      "url": "https://open.spotify.com/track/0q1CLObixSEskNuzcUFtMP"
     },
     {
       "album": {
@@ -813,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Kick Back",
+        "url": "https://open.spotify.com/album/3lDvguejUAZskKXbPaKlir"
+      },
+      "artists": [
+        {
+          "name": "ata-beau",
+          "url": "https://open.spotify.com/artist/6APo1oYy9aOHY8EftkNUhM"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "Kick Back",
+      "url": "https://open.spotify.com/track/38zkzjOEj5YZWAWgDsqRHu"
+    },
+    {
+      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/6h9qFmLi7k6c1l2gowI0pI"
       },
@@ -828,7 +926,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 190484,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/1xLg79jUCWySRNmhWNjABl"
@@ -912,7 +1010,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 210000,
       "name": "Mojave Mirage",
       "url": "https://open.spotify.com/track/3AoqjN3ZGLeiSWuovSkDdb"
@@ -996,7 +1094,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 366613,
       "name": "No Division (feat. XSALT)",
       "url": "https://open.spotify.com/track/0So4ciNFmHfZhawnplagFs"
@@ -1058,7 +1156,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 250434,
       "name": "Puppet's Call",
       "url": "https://open.spotify.com/track/2J1SxoYU8EndVsPZzyfw5C"
@@ -1080,10 +1178,58 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 206666,
       "name": "Return - ELIF Remix",
       "url": "https://open.spotify.com/track/4b0pQPcMMjB61w8VtwGfI2"
+    },
+    {
+      "album": {
+        "name": "Rooz O Shab",
+        "url": "https://open.spotify.com/album/5cIih3B1UIK9CGyRqHVi30"
+      },
+      "artists": [
+        {
+          "name": "DJ Phellix",
+          "url": "https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV"
+        },
+        {
+          "name": "DR ZAVIN",
+          "url": "https://open.spotify.com/artist/0e0aoMtk3zIsAkuGrsdJAM"
+        },
+        {
+          "name": "EyeNaz",
+          "url": "https://open.spotify.com/artist/6x8EHJBKT3SXbif450A1HS"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350163,
+      "name": "Rooz O Shab",
+      "url": "https://open.spotify.com/track/6HObf9TPe4vJQvRmRrfy0l"
+    },
+    {
+      "album": {
+        "name": "SAWA",
+        "url": "https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5"
+      },
+      "artists": [
+        {
+          "name": "AYA",
+          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220527,
+      "name": "SAWA",
+      "url": "https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1"
     },
     {
       "album": {
@@ -1296,7 +1442,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 214903,
       "name": "The Monster You Adore",
       "url": "https://open.spotify.com/track/6ybaRgzmTVtXqVzzJXoy1d"
@@ -1314,10 +1460,54 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 213284,
       "name": "The Sun Comes Up Tremendous",
       "url": "https://open.spotify.com/track/4xOUoPT3YjHnwzOFycXXjU"
+    },
+    {
+      "album": {
+        "name": "Transatlantic",
+        "url": "https://open.spotify.com/album/0yonsRocYLh43ZSWQKuq3z"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Transatlantic",
+      "url": "https://open.spotify.com/track/4YnRbDzX0bqiKnu3aCeC7n"
+    },
+    {
+      "album": {
+        "name": "Tribal Flex",
+        "url": "https://open.spotify.com/album/2czSwT5euEoAMYFSGdpLPH"
+      },
+      "artists": [
+        {
+          "name": "Hakan Akkus",
+          "url": "https://open.spotify.com/artist/6jtibJgWNPyrA4pIQCAZoh"
+        },
+        {
+          "name": "Can Sezgin",
+          "url": "https://open.spotify.com/artist/1eqqKW8azBmxyYXkXs1DeG"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181419,
+      "name": "Tribal Flex",
+      "url": "https://open.spotify.com/track/6IeAVRYmV5fdiqWySLkckg"
     },
     {
       "album": {
@@ -1347,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "WannaCry",
+        "url": "https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Porter Robinson",
+          "url": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219367,
+      "name": "WannaCry",
+      "url": "https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi"
+    },
+    {
+      "album": {
         "name": "Waves of Luv",
         "url": "https://open.spotify.com/album/58QnUMgXPJy7Dm1pXSardY"
       },
@@ -1366,6 +1578,32 @@
       "duration_ms": 153750,
       "name": "Waves of Luv",
       "url": "https://open.spotify.com/track/4kmxETbclaI5PF9uqKKM8q"
+    },
+    {
+      "album": {
+        "name": "What da Funk (German Brigante Remix)",
+        "url": "https://open.spotify.com/album/52Zs7M3SMGg4YlbvfgJh9a"
+      },
+      "artists": [
+        {
+          "name": "Deniz Tekin (TR)",
+          "url": "https://open.spotify.com/artist/7mGMubVX0NGSiKHdnw4clu"
+        },
+        {
+          "name": "Aliot",
+          "url": "https://open.spotify.com/artist/0fwRN0FvddmSkK5x3iDFSg"
+        },
+        {
+          "name": "German Brigante",
+          "url": "https://open.spotify.com/artist/2h7fN6KOZVgWQ39sYK0jJm"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308592,
+      "name": "What da Funk - German Brigante Remix",
+      "url": "https://open.spotify.com/track/2sJALKQ60UKUYnWbxapVrY"
     },
     {
       "album": {
@@ -1424,6 +1662,24 @@
       "duration_ms": 205862,
       "name": "YO DJ!",
       "url": "https://open.spotify.com/track/0azjekivc46pZrwn1z4vnY"
+    },
+    {
+      "album": {
+        "name": "SUMMER PACK",
+        "url": "https://open.spotify.com/album/4XJxEn4PAL9kdHPmxqjwno"
+      },
+      "artists": [
+        {
+          "name": "Ege \u00c7ubuk\u00e7u",
+          "url": "https://open.spotify.com/artist/0XLP18nHemdh5CQhoM3RjZ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218571,
+      "name": "ZEN",
+      "url": "https://open.spotify.com/track/2Lip43pi4yeIRm16bIzcaa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXxFrpWsbL4P"

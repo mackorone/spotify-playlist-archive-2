@@ -3647,6 +3647,24 @@
     },
     {
       "album": {
+        "name": "Zero Company (From \"Star Wars: Zero Company\")",
+        "url": "https://open.spotify.com/album/0qlP2ONqzuHdeeXioprlJ6"
+      },
+      "artists": [
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77573,
+      "name": "Zero Company - From \"Star Wars: Zero Company\"/Score",
+      "url": "https://open.spotify.com/track/01x29FdFvOR4JabjRfQKte"
+    },
+    {
+      "album": {
         "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
       },

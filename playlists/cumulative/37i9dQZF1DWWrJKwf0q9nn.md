@@ -4,7 +4,7 @@
 
 > Wekelijkse update! Cover: Dimitri Vegas & Sylver
 
-1,343 songs - 2 day 20 hr 24 min
+1,343 songs - 2 day 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Die Living](https://open.spotify.com/track/2oKsaWKGDnYD5V0Q8SiSVK) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Die Living](https://open.spotify.com/album/77gWAhX5gNNkBCOCrPtJTl) | 2:50 | 2026-03-19 | 2026-04-24 |
 | [Different Dimension](https://open.spotify.com/track/2aGfk0KIVIXzcrBoeTpD3f) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Merow](https://open.spotify.com/artist/43goRyUiLUUbt0QXpfcU8p), [Kota](https://open.spotify.com/artist/63QiIbACG85n38thH1gJry) | [Different Dimension](https://open.spotify.com/album/0YGMuI2zgksZQc5kpMysHM) | 3:22 | 2026-02-19 | 2026-04-03 |
 | [Dile](https://open.spotify.com/track/0c9hvmmhhfXHUMPlTtjE16) | [The Good Son](https://open.spotify.com/artist/76OZ1HAHb3VXmv9z2vaL57), [TORREX](https://open.spotify.com/artist/4Z0PAQRchTFaaz8KKQ4Ypk) | [Dile](https://open.spotify.com/album/6RnJgL9vTgTkKe9d8EQhfI) | 2:58 | 2025-11-20 | 2025-12-12 |
+| [Dirty Dancing](https://open.spotify.com/track/4wvwjkFb1P9TWBEBfyEYmb) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI) | [Dirty Dancing](https://open.spotify.com/album/1NMRhpmzfhFr0teSyTOhrA) | 3:27 | 2026-07-30 |  |
 | [DISCOTEKA](https://open.spotify.com/track/6tQAZqFsKEdiatCHujyQ83) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Tobias Gerard](https://open.spotify.com/artist/1ReDnqgOhy44VBuE0zvIaB) | [Discoteka](https://open.spotify.com/album/7J64TbuqO3BebCF2xD3izb) | 2:34 | 2026-01-08 | 2026-02-13 |
 | [Dissociate](https://open.spotify.com/track/4tLTaEi3Pq0kinpQBzDKL0) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Vox Rea](https://open.spotify.com/artist/4SRrbYd7KBkGdOCAekSnY1) | [Dissociate](https://open.spotify.com/album/7HQVcIyRH0o6lQDTGsBCxb) | 4:30 | 2025-09-25 | 2025-11-01 |
 | [Dive Into Me](https://open.spotify.com/track/2y3qIbsaOPaj0xKv20rbOQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Dive Into Me](https://open.spotify.com/album/4wXWmSfJIQerp2UJ2K0wEa) | 2:46 | 2026-03-19 | 2026-03-27 |
@@ -1217,7 +1218,6 @@
 | [Together](https://open.spotify.com/track/3XJQz97R6A7bXn8awvFknM) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Together](https://open.spotify.com/album/0mKkxxckoZDTcB1JhlCpcH) | 2:33 | 2025-07-17 | 2025-08-15 |
 | [Tomorrow Can Wait](https://open.spotify.com/track/3rBnU7nnxpfJd4SZDqpkSX) | [D\-Block & S\-te\-Fan](https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z), [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Tomorrow Can Wait](https://open.spotify.com/album/23R50J5esOKMbTLcnQmBjU) | 3:12 | 2026-06-25 |  |
 | [Touch It](https://open.spotify.com/track/5vbPAYlJb40a8BW56hAkDD) | [Adam Sellouk](https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq), [Zerky](https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok) | [Touch It](https://open.spotify.com/album/3gTF2ONDns1Byk5PO0YMdL) | 3:03 | 2025-10-09 | 2025-11-08 |
-| [Track 1](https://open.spotify.com/track/4wvwjkFb1P9TWBEBfyEYmb) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Dirty Dancing](https://open.spotify.com/album/1NMRhpmzfhFr0teSyTOhrA) | 0:00 | 2026-07-30 |  |
 | [Traffic Jam \- Code Rood Remix](https://open.spotify.com/track/605Hfbi7qsYr7kWYOq9xso) | [5NAPBACK](https://open.spotify.com/artist/0ERCrnTOTP6m7KbCLTliEj), [Holliz](https://open.spotify.com/artist/1GcM7yt6bCkRdj82FxVY45), [Code Rood](https://open.spotify.com/artist/4bdCXQ4wEcfojdlPl0Vup5) | [Traffic Jam \(Code Rood Remix\)](https://open.spotify.com/album/3Ig9S3c7Hur5IlOdL2O3LN) | 3:20 | 2025-08-07 | 2025-09-27 |
 | [Trainride](https://open.spotify.com/track/5wFw60FvwrkOyvCKHvZig5) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Trainride](https://open.spotify.com/album/129QptoNRPwYM5BeTdl9qg) | 2:45 | 2026-05-28 | 2026-06-09 |
 | [Tranquilo](https://open.spotify.com/track/7FZpjVxw7suo9LtSjZUybp) | [Sico Vox](https://open.spotify.com/artist/2pNk2cveUVPedNtESA1PsP), [Impani](https://open.spotify.com/artist/17aRTH8IYiW9945DeGB25Y), [Nelson Clarke](https://open.spotify.com/artist/7aP66fMwHS0ZNi5OCWmaNF) | [Tranquilo](https://open.spotify.com/album/4lqBDfWRZTDDzNoNgzDfiW) | 2:27 | 2026-05-14 | 2026-05-29 |

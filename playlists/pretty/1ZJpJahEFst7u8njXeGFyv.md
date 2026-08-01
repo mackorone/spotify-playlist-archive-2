@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 294,296 likes - 116 songs - 6 hr 6 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 294,274 likes - 116 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 19 | [The Nutcracker: Trepak](https://open.spotify.com/track/6oRM6IIvudBtuczwcSftHh) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Lorenzo Viotti](https://open.spotify.com/artist/1AOCbQyjsWE3XRWsE4vrRk) | [The Nutcracker: Trepak](https://open.spotify.com/album/5tAvpsrgy7Y02bjXZyqMer) | 1:14 |
 | 20 | [Andito](https://open.spotify.com/track/4sdtpnmqPJtAF5og3zPz5X) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Andito](https://open.spotify.com/album/5qJ0Kscv5uPmNTX771eTIk) | 2:23 |
 | 21 | [Echoes of Colors](https://open.spotify.com/track/2iK2iWYwUGp19nevOXCzdk) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Echoes of Colors](https://open.spotify.com/album/0RsZUNP73u5mPVm3sABojG) | 2:25 |
-| 22 | [Solísima](https://open.spotify.com/track/7wq7AfOqPgAB1iJ8gBVwYX) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Solísima](https://open.spotify.com/album/0ItBNQik8SX7z3s0NcuTPh) | 3:43 |
+| 22 | [Solísima \- Piano Version](https://open.spotify.com/track/7wq7AfOqPgAB1iJ8gBVwYX) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Solísima](https://open.spotify.com/album/0ItBNQik8SX7z3s0NcuTPh) | 3:43 |
 | 23 | [Three Preludes: II\. Andante con moto e poco rubato](https://open.spotify.com/track/5myAoTjhdW27b3Ew2nUR4q) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Lucas Debargue](https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n) | [Three Preludes: II\. Andante con moto e poco rubato](https://open.spotify.com/album/78xhoX3XBfEw4vlVTXGCKL) | 3:27 |
 | 24 | [Fields of Gold](https://open.spotify.com/track/30ncxLt0EwtXlrkwBuTuMu) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Colors](https://open.spotify.com/album/3tuvuIpvHY0DBfQ801pH6x) | 3:01 |
 | 25 | [Thaïs: Méditation](https://open.spotify.com/track/4XSg1W2StvYgGCfY9jeDjK) | [Jules Massenet](https://open.spotify.com/artist/1AoIc5YFH0aSFc4mKqBEeB), [Wiener Philharmoniker](https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ), [Lorenzo Viotti](https://open.spotify.com/artist/1AOCbQyjsWE3XRWsE4vrRk), [Albena Danailova](https://open.spotify.com/artist/1GshyP378wHEpIGTYiz3BR) | [Thaïs: Méditation](https://open.spotify.com/album/39Ihm7MC3fpYii25k88l4M) | 5:49 |

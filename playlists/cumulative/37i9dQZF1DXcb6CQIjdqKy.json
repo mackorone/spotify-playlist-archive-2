@@ -494,7 +494,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 173860,
       "name": "Able",
       "url": "https://open.spotify.com/track/05Qb46jhgjlxjbQQQvCpFQ"
@@ -2087,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "BE STRONG",
+        "url": "https://open.spotify.com/album/1krVVL98txGTPcegmfpM2A"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267906,
+      "name": "Be Strong",
+      "url": "https://open.spotify.com/track/43XDAI5n0q7UEtNIclSs5p"
+    },
+    {
+      "album": {
         "name": "Running Home",
         "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
       },
@@ -3404,7 +3422,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 220972,
       "name": "CALLING",
       "url": "https://open.spotify.com/track/5iw3fnzT7iLFLFKFOimjiU"
@@ -4002,6 +4020,24 @@
       "duration_ms": 301130,
       "name": "Come Jesus Come",
       "url": "https://open.spotify.com/track/28Snv4xre6AXy3nHgjRJvV"
+    },
+    {
+      "album": {
+        "name": "The Art Of Letting Go",
+        "url": "https://open.spotify.com/album/49Od7jiemkTsoUkSTdU1py"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267692,
+      "name": "Come On Home",
+      "url": "https://open.spotify.com/track/6X3Aywe78vskLpwYKOqWyE"
     },
     {
       "album": {
@@ -9858,7 +9894,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 223578,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3I3CyeN4kUefehQ607eEHh"
@@ -14206,7 +14242,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 188607,
       "name": "Lay It All On You",
       "url": "https://open.spotify.com/track/0TfPOKTUtJVZAOiZOv90N1"
@@ -20353,6 +20389,24 @@
     },
     {
       "album": {
+        "name": "Room For You",
+        "url": "https://open.spotify.com/album/7GO9SfdtFw7V5QkSaFRAcx"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Room For You",
+      "url": "https://open.spotify.com/track/3wnKMSkdUqoofwfkNYjnTD"
+    },
+    {
+      "album": {
         "name": "Ruins",
         "url": "https://open.spotify.com/album/1BSsNsRslloDm0wZ4Aoznl"
       },
@@ -21534,6 +21588,32 @@
       "duration_ms": 164895,
       "name": "Sold",
       "url": "https://open.spotify.com/track/6SvOaMxOZGqSt9qjnZPlo7"
+    },
+    {
+      "album": {
+        "name": "116 Summer Twenty-Six",
+        "url": "https://open.spotify.com/album/0R2gP7inqX1P9quWNdgmjg"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        },
+        {
+          "name": "Taylor Hill",
+          "url": "https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184470,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/4DZ6c0JgnL6HPQ2VTM4JFX"
     },
     {
       "album": {

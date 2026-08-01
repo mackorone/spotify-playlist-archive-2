@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 397716,
+  "num_followers": 397699,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
+        "name": "Thorns",
+        "url": "https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA"
+      },
+      "artists": [
+        {
+          "name": "Jack and the Weatherman",
+          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
+        }
+      ],
+      "duration_ms": 200441,
+      "name": "Thorns",
+      "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
         "name": "Try Again",
         "url": "https://open.spotify.com/album/5kIaUsVuxXBXZC5tBlzhPN"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Thorns",
-        "url": "https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA"
-      },
-      "artists": [
-        {
-          "name": "Jack and the Weatherman",
-          "url": "https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ"
-        }
-      ],
-      "duration_ms": 200441,
-      "name": "Thorns",
-      "url": "https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "The Ones We Seek",
         "url": "https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc"
       },
@@ -467,18 +467,18 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Morning Dawns Again",
-        "url": "https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx"
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
       },
       "artists": [
         {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 238699,
-      "name": "Morning Dawns Again",
-      "url": "https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ"
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -499,18 +499,18 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+        "name": "Morning Dawns Again",
+        "url": "https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
         }
       ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+      "duration_ms": 238699,
+      "name": "Morning Dawns Again",
+      "url": "https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Pray",
-        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
-      },
-      "artists": [
-        {
-          "name": "MICHA",
-          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
-        }
-      ],
-      "duration_ms": 184424,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Heart of the Matter",
         "url": "https://open.spotify.com/album/0g8sy5xfRXLxvlgxYsfSEt"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 244472,
       "name": "Heart of the Matter",
       "url": "https://open.spotify.com/track/6OkmVYAiybfvlSjrGnCTPb"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Pray",
+        "url": "https://open.spotify.com/album/5fJ1VOWImcJkl9QLRsRHBS"
+      },
+      "artists": [
+        {
+          "name": "MICHA",
+          "url": "https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6"
+        }
+      ],
+      "duration_ms": 184424,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/2QIwwLD84biX4Ghw2VJYCn"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Save It For Later",
-        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
-      },
-      "artists": [
-        {
-          "name": "BLUAI",
-          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
-        }
-      ],
-      "duration_ms": 208575,
-      "name": "Not The One",
-      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Bigger Picture",
         "url": "https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 185753,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Save It For Later",
+        "url": "https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl"
+      },
+      "artists": [
+        {
+          "name": "BLUAI",
+          "url": "https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF"
+        }
+      ],
+      "duration_ms": 208575,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
+        "name": "What Makes A King",
+        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
       },
       "artists": [
         {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+          "name": "Marcel Kapteijn",
+          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
         }
       ],
-      "duration_ms": 186438,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
+      "duration_ms": 168433,
+      "name": "What Makes A King",
+      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "What Makes A King",
-        "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp"
       },
       "artists": [
         {
-          "name": "Marcel Kapteijn",
-          "url": "https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp"
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
         }
       ],
-      "duration_ms": 168433,
-      "name": "What Makes A King",
-      "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
+      "duration_ms": 186438,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Green Lights",
-        "url": "https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku"
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
       },
       "artists": [
         {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+          "name": "Faela",
+          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
         }
       ],
-      "duration_ms": 177306,
-      "name": "Falling Easy",
-      "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
+      "duration_ms": 145403,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Who Am I",
-        "url": "https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6"
+        "name": "Green Lights",
+        "url": "https://open.spotify.com/album/0pIx3rjKDxor7Uza8remku"
       },
       "artists": [
         {
-          "name": "Faela",
-          "url": "https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm"
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
         }
       ],
-      "duration_ms": 145403,
-      "name": "Who Am I",
-      "url": "https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z"
+      "duration_ms": 177306,
+      "name": "Falling Easy",
+      "url": "https://open.spotify.com/track/4s0eEqOyR0ybLtBo5fkPB6"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Another Year Will Pass",
-        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 195604,
-      "name": "Another Year Will Pass",
-      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "I'm Always On Stage",
         "url": "https://open.spotify.com/album/7cp6JGilOv7SbJxOSzc1UB"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 243546,
       "name": "I'm Always On Stage",
       "url": "https://open.spotify.com/track/2GR3y9iXb5Lae2KLQJUy2J"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Another Year Will Pass",
+        "url": "https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 195604,
+      "name": "Another Year Will Pass",
+      "url": "https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
-      },
-      "artists": [
-        {
-          "name": "Janne Schra",
-          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/0lMWdThDnxoiySOEX6ur4o"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 248019,
       "name": "Woman",
       "url": "https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6FqyoSKSRukmIm6kcXaLJR"
+      },
+      "artists": [
+        {
+          "name": "Janne Schra",
+          "url": "https://open.spotify.com/artist/7IGk0iXhaPjqvQF4Zi2R2K"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/0lMWdThDnxoiySOEX6ur4o"
     },
     {
       "added_at": "2026-07-17 14:00:06",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-07-17 14:00:06",
       "album": {
-        "name": "Toy Heart",
-        "url": "https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I"
-      },
-      "artists": [
-        {
-          "name": "Judy Blank",
-          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Toy Heart",
-      "url": "https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389"
-    },
-    {
-      "added_at": "2026-07-17 14:00:06",
-      "album": {
         "name": "For A Minute",
         "url": "https://open.spotify.com/album/5YEaUXCdPjPfRvasyl89gH"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 215514,
       "name": "For A Minute",
       "url": "https://open.spotify.com/track/55qf0ylgBDcQaKj0eWYpJb"
+    },
+    {
+      "added_at": "2026-07-17 14:00:06",
+      "album": {
+        "name": "Toy Heart",
+        "url": "https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I"
+      },
+      "artists": [
+        {
+          "name": "Judy Blank",
+          "url": "https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Toy Heart",
+      "url": "https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389"
     },
     {
       "added_at": "2026-07-17 14:00:06",

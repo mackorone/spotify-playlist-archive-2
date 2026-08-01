@@ -4,7 +4,7 @@
 
 > 
 
-2,438 songs - 5 day 10 hr 58 min
+2,440 songs - 5 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Calling U Back](https://open.spotify.com/track/5WVWQQpBJqljbZtxo19CxS) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:19 | 2021-08-05 |  |
 | [Calm Your Fears](https://open.spotify.com/track/17Eoc1g0HaieE1xwZ1tGfD) | [Imbroco](https://open.spotify.com/artist/0HFEfCCOPwDSc5aCm7IMW9) | [Are You My Lionkiller?](https://open.spotify.com/album/5kCw6P05LFARfcXXaoAHz3) | 5:21 | 2023-06-25 | 2023-07-01 |
 | [cambridge](https://open.spotify.com/track/1XX0ITPAP64hzV5DrioXdC) | [swimcoach](https://open.spotify.com/artist/55kM6YHZNtzPFa6veTc2Zf) | [Swimbot](https://open.spotify.com/album/2wY6mKS39Go29qYvN9WyDr) | 2:05 | 2021-08-05 |  |
+| [can u](https://open.spotify.com/track/5iCXqur9teq7a996Zjw8CE) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [can u](https://open.spotify.com/album/65kcVULmMMzVhDzofQoXYl) | 3:08 | 2026-07-31 |  |
 | [Can You Feel My Heart](https://open.spotify.com/track/0WSa1sucoNRcEeULlZVQXj) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:47 | 2021-08-05 |  |
 | [Canary Wharf drift](https://open.spotify.com/track/64yioT39hYUlNyQMqEyUE6) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM), [Oatmilkandcodeine](https://open.spotify.com/artist/0j3PryakINdSkE4zVocQY3) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 2:25 | 2025-11-10 |  |
 | [Candy](https://open.spotify.com/track/5MYPciceOHMd7Vl7ntELEq) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Love And Sex](https://open.spotify.com/album/2c3UCT6duZO82Fk1QZ9D7G) | 3:27 | 2025-06-14 |  |
@@ -1417,6 +1418,7 @@
 | [Mrs\. Potato Head](https://open.spotify.com/track/3K1tdhoeE6koNnWgAxEK9Y) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:37 | 2021-08-05 |  |
 | [Ms\. Whitman](https://open.spotify.com/track/1LjSbD1yQ0RQc6mwxGHw4m) | [Bhad Bhabie](https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e) | [Ms\. Whitman](https://open.spotify.com/album/2keOrQb8yTI0WjBUZXJCMw) | 2:06 | 2025-03-26 |  |
 | [MSMSMSM](https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [MSMSMSM](https://open.spotify.com/album/1WbuDNYNFhXk3vMr24VWR4) | 3:35 | 2022-04-08 |  |
+| [Mum, im an artist](https://open.spotify.com/track/4Qrm3I8WuIua3J2EK2kOeK) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [What The Feng](https://open.spotify.com/album/73neMdanvqkjdVrR2hzzfQ) | 2:03 | 2026-08-01 |  |
 | [MURDER DEATH KILL](https://open.spotify.com/track/5uktdc4mnFoe0C4fk1BiAg) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Ada Rook](https://open.spotify.com/artist/1x1MfkVjf8yEzwKhAYZtPY), [PlayThatBoiZay](https://open.spotify.com/artist/04eqrYwakzHXxRABNRWbwM) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 2:01 | 2022-11-10 |  |
 | [Murder on My Mind](https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [I AM YOU](https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW) | 4:28 | 2021-08-05 |  |
 | [Murders](https://open.spotify.com/track/0AFydkgl5Creero3gNjqvF) | [Miracle Musical](https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt) | [Hawaii: Part II](https://open.spotify.com/album/1CbtBQqibzdxhmpiLD7vzN) | 3:42 | 2021-08-05 |  |

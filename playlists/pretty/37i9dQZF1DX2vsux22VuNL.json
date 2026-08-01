@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Niina, N.I.N.A",
-  "num_followers": 290034,
+  "num_followers": 290022,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABfi6MmyoKp7jzScQHgHDxhg1SM4",
+  "snapshot_id": "AAAAAGOiR4J5e2vv/vR20/Mku68lFABn",
   "tracks": [
     {
       "added_at": "2026-07-24 03:00:11",
@@ -435,6 +435,26 @@
     {
       "added_at": "2026-07-24 03:00:11",
       "album": {
+        "name": "2Hard2Love2",
+        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
+      },
+      "artists": [
+        {
+          "name": "Ninjahmen",
+          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
+        },
+        {
+          "name": "Jambu Est\u00fadio",
+          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
+        }
+      ],
+      "duration_ms": 138857,
+      "name": "Tangar\u00e1",
+      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
+    },
+    {
+      "added_at": "2026-07-24 03:00:11",
+      "album": {
         "name": "FRAGMENTADO",
         "url": "https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 194782,
       "name": "BASQUIAT",
       "url": "https://open.spotify.com/track/0gXPalg35be7z7TONlqJl0"
-    },
-    {
-      "added_at": "2026-07-24 03:00:11",
-      "album": {
-        "name": "2Hard2Love2",
-        "url": "https://open.spotify.com/album/3wS5WJwMyY2FxkUuCWkzCF"
-      },
-      "artists": [
-        {
-          "name": "Ninjahmen",
-          "url": "https://open.spotify.com/artist/6OXt9ENUnO4I6tVIWW6O6D"
-        },
-        {
-          "name": "Jambu Est\u00fadio",
-          "url": "https://open.spotify.com/artist/2Pd4HboTYCyPN0nEx7DGSW"
-        }
-      ],
-      "duration_ms": 138857,
-      "name": "Tangar\u00e1",
-      "url": "https://open.spotify.com/track/6yFqE32ZMycbGXP7vxo7OF"
     },
     {
       "added_at": "2026-07-24 03:00:11",
@@ -780,7 +780,7 @@
           "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
         }
       ],
-      "duration_ms": 164812,
+      "duration_ms": 164833,
       "name": "Vida de Rei, Vida de C\u00e3o",
       "url": "https://open.spotify.com/track/21rnskbIOeyWKAfORPiHcT"
     },
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-07-24 03:00:11",
       "album": {
-        "name": "Avoad\u00e3o",
-        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
-      },
-      "artists": [
-        {
-          "name": "B\u00ea Vieira",
-          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "Avoad\u00e3o",
-      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
-    },
-    {
-      "added_at": "2026-07-24 03:00:11",
-      "album": {
         "name": "Arcano 19 (Deluxe)",
         "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 249798,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+    },
+    {
+      "added_at": "2026-07-24 03:00:11",
+      "album": {
+        "name": "Avoad\u00e3o",
+        "url": "https://open.spotify.com/album/78e6OOFaxBaBfUFgXfNtV7"
+      },
+      "artists": [
+        {
+          "name": "B\u00ea Vieira",
+          "url": "https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "Avoad\u00e3o",
+      "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
     },
     {
       "added_at": "2026-07-24 03:00:11",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-07-24 03:00:11",
       "album": {
+        "name": "Me Diz Quando A Gente Vai Se Ver",
+        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Me Diz Quando A Gente Vai Se Ver",
+      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
+    },
+    {
+      "added_at": "2026-07-24 03:00:11",
+      "album": {
         "name": "Pra todo mundo que \u00e9 emocionado",
         "url": "https://open.spotify.com/album/46UjoeZym2PUuLTmIZc1tg"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 171585,
       "name": "Pra todo mundo que \u00e9 emocionado",
       "url": "https://open.spotify.com/track/6Hedc0amuGreddUN16w30s"
-    },
-    {
-      "added_at": "2026-07-24 03:00:11",
-      "album": {
-        "name": "Me Diz Quando A Gente Vai Se Ver",
-        "url": "https://open.spotify.com/album/4HaYoVYUGvHcPX9dEhtFlg"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Me Diz Quando A Gente Vai Se Ver",
-      "url": "https://open.spotify.com/track/3V3rR9wRGtdlk5sdvCgqvZ"
     },
     {
       "added_at": "2026-07-24 03:00:11",

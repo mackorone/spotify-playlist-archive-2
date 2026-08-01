@@ -3664,6 +3664,36 @@
     {
       "album": {
         "name": "Kala",
+        "url": "https://open.spotify.com/album/2VK1jGPKAQrLuBtzkpzmMN"
+      },
+      "artists": [
+        {
+          "name": "Jagdish Chintala",
+          "url": "https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Lakshmi Meghana",
+          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+        },
+        {
+          "name": "Srirag Vadlakonda",
+          "url": "https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177029,
+      "name": "Kala",
+      "url": "https://open.spotify.com/track/5dA1pojrIyVHRrbsOtfdlQ"
+    },
+    {
+      "album": {
+        "name": "Kala",
         "url": "https://open.spotify.com/album/24qD3jqU9jxOdhuosvBxnp"
       },
       "artists": [
@@ -6428,7 +6458,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 262857,
       "name": "Nee Valle..",
       "url": "https://open.spotify.com/track/4Q2LSzEsSRsa6vig93MFaI"
@@ -7830,7 +7860,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 236160,
       "name": "Pagale Jaabili",
       "url": "https://open.spotify.com/track/476UKv6WOa3LCIZ05FhgmN"
@@ -9663,6 +9693,32 @@
     },
     {
       "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/4eDvSUMzqKZ60SfSF6Biky"
+      },
+      "artists": [
+        {
+          "name": "Damini Bhatla",
+          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
+        },
+        {
+          "name": "Rishi Roy",
+          "url": "https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH"
+        },
+        {
+          "name": "30KEY!",
+          "url": "https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "Seethakaalam - Side A",
+      "url": "https://open.spotify.com/track/3GnnFSpzQUcigkAjnyBtef"
+    },
+    {
+      "album": {
         "name": "Seethakaalam Vennellona",
         "url": "https://open.spotify.com/album/47WUi5iPAs56MXvn1InHqa"
       },
@@ -10575,6 +10631,24 @@
     },
     {
       "album": {
+        "name": "telusa",
+        "url": "https://open.spotify.com/album/0bWfpBPy796Tt50RL26Ewp"
+      },
+      "artists": [
+        {
+          "name": "ananya",
+          "url": "https://open.spotify.com/artist/44c9Q8uuQtb7BXQO4Um7Zc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "telusa",
+      "url": "https://open.spotify.com/track/5PQQmD4ZfM8hNuqIlcQHkQ"
+    },
+    {
+      "album": {
         "name": "Telusa Nuvvevaro",
         "url": "https://open.spotify.com/album/5RBhYJpO14jspepP1yMAfh"
       },
@@ -11142,7 +11216,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 195231,
       "name": "Vasanthakaalam",
       "url": "https://open.spotify.com/track/4uG8FKVfBaZ7AqK7z3gmEu"

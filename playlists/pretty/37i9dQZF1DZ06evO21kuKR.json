@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 98883,
+  "num_followers": 98895,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAAAda0da5JjEZNIqL2St9Ulf",
+  "snapshot_id": "amqUAAAAAABsD/xUbXK4XsEb+WfshZtR",
   "tracks": [
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Federal",
-        "url": "https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "Yo Gotti",
-          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
-        }
-      ],
-      "duration_ms": 204557,
-      "name": "Doin 2 Much",
-      "url": "https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What It Means To Be King",
         "url": "https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 185213,
       "name": "Trust Nothing (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/41jxlPqpPqiky977DkJrpY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2 Federal",
+        "url": "https://open.spotify.com/album/5Wc8IknW6BeXOpoH3jB6hn"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        }
+      ],
+      "duration_ms": 204557,
+      "name": "Doin 2 Much",
+      "url": "https://open.spotify.com/track/5KmYUFowigebQliD2R3PSu"
     },
     {
       "added_at": null,

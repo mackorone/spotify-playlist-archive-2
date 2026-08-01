@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: KYTES
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,049 likes - 90 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,039 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 5](https://open.spotify.com/track/0WpXwIkHgil23gzYOEykR8) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Indie Rave](https://open.spotify.com/album/4kqjJIQruFKcbFtv2FD21o) | 0:00 |
+| 1 | [Epa](https://open.spotify.com/track/0WpXwIkHgil23gzYOEykR8) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Indie Rave](https://open.spotify.com/album/4kqjJIQruFKcbFtv2FD21o) | 3:50 |
 | 2 | [another one down](https://open.spotify.com/track/69AwLzM2tkoLNueuA04a68) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [another one down](https://open.spotify.com/album/6rloTVQyGaMT6pqiPmFpQ3) | 2:44 |
 | 3 | [Someone special](https://open.spotify.com/track/2UnCPnQ1H14T1l5ydsC0QM) | [The Teenagers](https://open.spotify.com/artist/6EU3ei9Aim1yaX6hTJrjXE) | [Someone special](https://open.spotify.com/album/5v3PbUoGH9bXFILkuwT4jg) | 3:03 |
 | 4 | [Twiggy](https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Twiggy](https://open.spotify.com/album/0Li2DcGKH5ZriWY7WROywb) | 3:29 |

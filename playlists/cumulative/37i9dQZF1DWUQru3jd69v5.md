@@ -4,7 +4,7 @@
 
 > headows in cover della playlist con il futuro del rap italiano 📈
 
-2,575 songs - 4 day 12 hr 35 min
+2,576 songs - 4 day 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1574,6 +1574,7 @@
 | [NO LOOK](https://open.spotify.com/track/0M5TJz33xRGEvpVAexHIOH) | [Jasmin407](https://open.spotify.com/artist/028PeMF9C0Ycn6wJRd1P7F) | [NO LOOK](https://open.spotify.com/album/18wXvqpKoC5cmIlHJUiF0h) | 2:48 | 2025-04-10 | 2025-05-23 |
 | [NO LOVE](https://open.spotify.com/track/7o5TMg2eIeOysLmfeZcJQH) | [LocoArmy](https://open.spotify.com/artist/5QxZpEkReGa0HfPC5ls6ZE) | [NO LOVE](https://open.spotify.com/album/0POqfprgFobH9doErIq9bN) | 2:37 | 2024-09-12 | 2024-10-18 |
 | [NO LOVE](https://open.spotify.com/track/59mk2RyKQSbWCyR3s10C5v) | [NUMB](https://open.spotify.com/artist/0FuMlqhsisp3exsj6MJGDc) | [NO LOVE](https://open.spotify.com/album/1GY6oCQf3VnSJkUxjC7wL0) | 2:36 | 2024-01-08 | 2024-01-26 |
+| [No Love No Lies](https://open.spotify.com/track/42BqDxZCkP9McrPfpqvspf) | [Suspect CB](https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz), [Ex∧](https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ) | [No Love No Lies](https://open.spotify.com/album/5S2FWIbWHjzVPdVoXV4IFq) | 2:08 | 2026-07-30 |  |
 | [NO PIANO B](https://open.spotify.com/track/28blNhTrq5L3SdDdvOKao0) | [FreshMula](https://open.spotify.com/artist/6IwmCDDOJfupZ9uDvSwfPe), [Em](https://open.spotify.com/artist/0Wh6q94lZ2hN8LlTcR8mEI), [Odemosci](https://open.spotify.com/artist/6pybEiYhm8CekcE5DwGecR) | [NO PIANO B](https://open.spotify.com/album/2r3Oa0ap37rUiivB76vVQ0) | 2:38 | 2024-09-12 | 2024-10-04 |
 | [No Pinscher \(feat\. Nerissima Serpe, Papa V & Rhove\)](https://open.spotify.com/track/6qaIxiM2EFYaec3oBaRqwj) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Best](https://open.spotify.com/album/169sTK9nskG7EdmL78KR8y) | 2:38 | 2025-11-06 | 2026-03-20 |
 | [No Pit Stop \(feat\. Kid Yugi\)](https://open.spotify.com/track/4Swi2RoH0WE6ydW6x7qNQR) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Identità](https://open.spotify.com/album/061b4fp721yhJXddgLdmHE) | 2:35 | 2023-11-23 | 2023-12-17 |

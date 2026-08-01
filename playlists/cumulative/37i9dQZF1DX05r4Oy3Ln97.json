@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Dance Dance Dance!",
+        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217797,
+      "name": "Dance Dance Dance!",
+      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
+    },
+    {
+      "album": {
         "name": "Dance With You",
         "url": "https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA"
       },
@@ -3596,7 +3614,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 229760,
       "name": "Friendly Pressure - Into The Sunshine Edit",
       "url": "https://open.spotify.com/track/7vfIghWey3FItmcZXZy2fE"
@@ -4197,7 +4215,7 @@
     },
     {
       "album": {
-        "name": "Hey Everybody (Back In The Dance)",
+        "name": "Hey Everybody",
         "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
       },
       "artists": [
@@ -4210,7 +4228,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156498,
-      "name": "Hey Everybody (Back In The Dance)",
+      "name": "Hey Everybody",
       "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
     },
     {

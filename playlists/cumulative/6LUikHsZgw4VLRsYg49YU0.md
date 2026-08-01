@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-315 songs - 18 hr 6 min
+316 songs - 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Ghost \- Joe Stone Remix](https://open.spotify.com/track/0yWy88Wc8PptRQZVCsYlc9) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4), [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv) | [Ghost \(Remixes\)](https://open.spotify.com/album/2LXafn7KFzzPAzvLd1rp0H) | 2:37 | 2022-02-18 | 2022-12-10 |
 | [GIRI GIRI](https://open.spotify.com/track/5RtsmtLsEnwa96TEf56tJQ) | [Masayuki Suzuki](https://open.spotify.com/artist/7HRu4Npbza5TBWn74TkAOF), [すぅ](https://open.spotify.com/artist/149u0vuCHOv84BU0PfhDXR) | [GIRI GIRI](https://open.spotify.com/album/25IInwsJmKOSgXib6cSYgN) | 4:18 | 2023-01-13 | 2025-04-12 |
 | [Go Dumb \(feat\. blackbear, The Kid LAROI and Bankrol Hayden\)](https://open.spotify.com/track/64YAQSR4jfmtHeJudcQix2) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [Go Dumb \(feat\. blackbear, The Kid LAROI and Bankrol Hayden\)](https://open.spotify.com/album/3zo2uoNX4FWf8JtHCAGSsc) | 3:06 | 2022-02-18 | 2022-12-10 |
+| [GO GHOST](https://open.spotify.com/track/54kwD19pq6ea4yGiiX84QB) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [GO GHOST](https://open.spotify.com/album/6r4iLpQblsOsMClZ0KqKTN) | 2:50 | 2026-07-31 |  |
 | [goosebumps](https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 4:03 | 2022-02-18 | 2022-12-10 |
 | [Grand](https://open.spotify.com/track/4WZ3liyYz5ZzDcL4ibAuOi) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Grand](https://open.spotify.com/album/6u32goyaQHOcbbmdooLRJ4) | 2:58 | 2022-09-13 | 2022-12-10 |
 | [Gurenge 紅蓮華 \(From Demon Slayer \- Kimetsu no Yaiba\) \- Piano Version](https://open.spotify.com/track/6AkF7RCIWO3W4lc1K3hL4x) | [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW) | [Gurenge 紅蓮華 \(From Demon Slayer \- Kimetsu no Yaiba\) \[Piano Version\]](https://open.spotify.com/album/4tTRV1Mv2xzoj1KC9QGdmd) | 1:58 | 2024-05-10 | 2026-04-25 |

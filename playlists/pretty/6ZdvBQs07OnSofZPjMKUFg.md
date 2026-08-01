@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZdvBQs07OnSofZPjMKUFg.md) - [plain]
 
 > Vind hier de mooiste singer\-songwriter liedjes van nu en vroeger\. <a href="https://open.spotify.com/user/digsternl">Meer Digster playlisten</a>\. Cover: Douwe Bob
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 9,133 likes - 50 songs - 2 hr 59 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 9,129 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

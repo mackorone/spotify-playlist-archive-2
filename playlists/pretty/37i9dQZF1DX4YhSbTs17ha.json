@@ -1,13 +1,77 @@
 {
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Ha*Ash en portada.\n",
-  "num_followers": 1802912,
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Gloria Trevi en portada.\n",
+  "num_followers": 1802661,
   "original_name": "S\u00f3lo Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPAtueE5nqGfEVygBPzaS4pxa8oS",
+  "snapshot_id": "AAAAAIL2XkmOxeFynJeGRWmVxtDMM1zs",
   "tracks": [
+    {
+      "added_at": "2026-08-01 01:52:59",
+      "album": {
+        "name": "Pompas de Jab\u00f3n",
+        "url": "https://open.spotify.com/album/2xvVYmaoj9KyNvgqWlZK5y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "Pompas de Jab\u00f3n",
+      "url": "https://open.spotify.com/track/7mbSHUDE3rftM885u0MQ4Q"
+    },
+    {
+      "added_at": "2026-08-01 01:52:59",
+      "album": {
+        "name": "Tres Veces",
+        "url": "https://open.spotify.com/album/6JzfN5RpNXr0PlAOPwdwY2"
+      },
+      "artists": [
+        {
+          "name": "Paty Cant\u00fa",
+          "url": "https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Tres Veces",
+      "url": "https://open.spotify.com/track/5Llseh3Otj04aTIQXMCH0w"
+    },
+    {
+      "added_at": "2026-08-01 01:52:59",
+      "album": {
+        "name": "Radio Nostalgia",
+        "url": "https://open.spotify.com/album/0WHs0iIgd6vcp1pGJxE7Om"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 260653,
+      "name": "Pedacito de Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0Xh9S4PGIDMcp2qeoPnp3Q"
+    },
+    {
+      "added_at": "2026-08-01 01:52:59",
+      "album": {
+        "name": "NADA Q VER : (",
+        "url": "https://open.spotify.com/album/1KeiTTl3USHXTaKOQiPzBM"
+      },
+      "artists": [
+        {
+          "name": "Plazencia",
+          "url": "https://open.spotify.com/artist/3LYRtUBx1UE0pz66d1s12x"
+        }
+      ],
+      "duration_ms": 196444,
+      "name": "NADA Q VER : (",
+      "url": "https://open.spotify.com/track/2Omeftf9YKmavjNadiXUqk"
+    },
     {
       "added_at": "2026-07-10 06:00:49",
       "album": {
@@ -715,26 +779,6 @@
     {
       "added_at": "2026-07-10 06:00:49",
       "album": {
-        "name": "TUTUTU",
-        "url": "https://open.spotify.com/album/3kFpwjt0z3L2mRM0ms38sT"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "TUTUTU",
-      "url": "https://open.spotify.com/track/6Og7yuXfE5KyE8dSHU8yap"
-    },
-    {
-      "added_at": "2026-07-10 06:00:49",
-      "album": {
         "name": "K de Karma",
         "url": "https://open.spotify.com/album/67Amfz9H8W7fi35u8Cn7zc"
       },
@@ -883,26 +927,6 @@
       "duration_ms": 230980,
       "name": "Sin Despedida",
       "url": "https://open.spotify.com/track/0zBHDsiokQcMyGkrbHRLoK"
-    },
-    {
-      "added_at": "2026-07-10 06:00:49",
-      "album": {
-        "name": "El Ayer",
-        "url": "https://open.spotify.com/album/0oNqIoImVPrSxGIrdZCMPp"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 206900,
-      "name": "Hipot\u00e9ticamente",
-      "url": "https://open.spotify.com/track/2TaEcl4cN5G91oOWMt4h0P"
     },
     {
       "added_at": "2026-07-10 06:00:49",
@@ -1063,22 +1087,6 @@
     {
       "added_at": "2026-07-10 06:00:49",
       "album": {
-        "name": "Lejos De La Ciudad",
-        "url": "https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 188680,
-      "name": "Lejos De La Ciudad",
-      "url": "https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm"
-    },
-    {
-      "added_at": "2026-07-10 06:00:49",
-      "album": {
         "name": "La del Primer Puesto",
         "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
       },
@@ -1095,22 +1103,6 @@
       "duration_ms": 194080,
       "name": "La del Primer Puesto",
       "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
-    },
-    {
-      "added_at": "2026-07-10 06:00:49",
-      "album": {
-        "name": "Lejos Estamos Mejor",
-        "url": "https://open.spotify.com/album/6iDt1S8DkyOAa7sOZ4oWM0"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 178252,
-      "name": "Lejos Estamos Mejor",
-      "url": "https://open.spotify.com/track/4jwAlalnN7RjBt3lg1H56E"
     }
   ],
   "unique_name": "S\u00f3lo Pop",

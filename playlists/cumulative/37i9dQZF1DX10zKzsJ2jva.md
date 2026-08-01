@@ -2,7 +2,7 @@
 
 ### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: KAROL G
+> Today's top Latin hits, elevando nuestra música\. Cover: Aitana
 
 1,129 songs - 2 day 12 hr 11 min
 

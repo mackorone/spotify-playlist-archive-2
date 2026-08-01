@@ -4,7 +4,7 @@
 
 > Soft and contemplative piano music to help you focus and chill.
 
-988 songs - 1 day 18 hr 14 min
+989 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Absentia](https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Absentia](https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR) | 2:41 | 2024-12-11 |  |
 | [Acertijos](https://open.spotify.com/track/2GLPAM5vr3dyAJMKEO5R8a) | [Monty Reiss](https://open.spotify.com/artist/3Tha6cubSHSaKYITdBFxwQ) | [Acertijos](https://open.spotify.com/album/0GPaw2ltzhkjwsVCZaeiDx) | 2:36 | 2022-04-20 | 2023-10-07 |
 | [Across Long Lakes](https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Across Long Lakes](https://open.spotify.com/album/0dam87WXF1rtP8TYNRuYcZ) | 2:28 | 2022-02-14 | 2023-09-30 |
-| [Adagio](https://open.spotify.com/track/0o7F3b4QNRaSL3EKn4Jjel) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Solstice](https://open.spotify.com/album/5yvvTP8gUPVY8DWikC604f) | 2:42 | 2024-01-29 |  |
+| [Adagio](https://open.spotify.com/track/0o7F3b4QNRaSL3EKn4Jjel) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Solstice](https://open.spotify.com/album/5yvvTP8gUPVY8DWikC604f) | 2:42 | 2024-01-29 | 2026-08-01 |
 | [Adieu](https://open.spotify.com/track/7KPVQu1bk65qdcrZ6NXFC8) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Adieu](https://open.spotify.com/album/2MNAVgzipAWenOMz0SZjxA) | 2:15 | 2021-12-07 | 2022-08-26 |
 | [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2021-12-07 | 2023-05-10 |
 | [Aegean Fantaisie](https://open.spotify.com/track/2Thxya1kxFfK0o5NUe8rEM) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/21ZN0QPPbLoBOesZZBIGr7) | 2:51 | 2022-07-19 | 2022-10-05 |
@@ -356,6 +356,7 @@
 | [Hilma](https://open.spotify.com/track/7vcKDlb5hV7vWJUhIVcX5W) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [Hilma](https://open.spotify.com/album/1ZfQb0993HOLiF53xHOURB) | 2:38 | 2021-12-07 | 2023-01-27 |
 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 | 2023-01-31 | 2025-01-29 |
 | [Hindsight](https://open.spotify.com/track/0k8MgafLdbRrQaqPbklNtN) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Hindsight](https://open.spotify.com/album/6kioGbNjNtqk7fmhcDBleD) | 1:50 | 2021-12-07 | 2023-05-04 |
+| [Hiraeth](https://open.spotify.com/track/3uRVVBVSzOWqVtjvAeBhqp) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Hiraeth](https://open.spotify.com/album/4H9pXm1FfMvgyYtHr3qUBX) | 3:01 | 2026-07-31 |  |
 | [Histoire d'un Jour](https://open.spotify.com/track/16QEKihp9N6eHLbeIat4jb) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [Histoire d'un Jour](https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs) | 2:25 | 2021-12-07 | 2022-04-21 |
 | [Hoffnungen](https://open.spotify.com/track/5MB8U2Q1V1RDhPWl16ojSG) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Hoffnungen](https://open.spotify.com/album/4QlOD9tJ3PX7gRRQcPzv2a) | 2:13 | 2021-12-07 | 2023-03-09 |
 | [Holding Memories](https://open.spotify.com/track/0xNP9eMYQ1JiOORPVBDBKA) | [Matthew L\. Fisher](https://open.spotify.com/artist/2ih4rjK8ZgiEpVu3BJ6sUb) | [Holding Memories](https://open.spotify.com/album/26ZdMC2OujoeSb918Nvhk3) | 2:37 | 2026-07-17 |  |
@@ -643,7 +644,7 @@
 | [Pécs](https://open.spotify.com/track/5V38Yb2mGq3AgKwh5WA49i) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Pécs](https://open.spotify.com/album/6V5jrMp0lHNVOqmspzTaOg) | 2:03 | 2022-01-04 | 2024-04-04 |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2021-12-07 | 2022-05-06 |
 | [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 | 2024-05-07 | 2026-05-16 |
-| [Quietude](https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Quietude](https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA) | 2:36 | 2025-11-05 |  |
+| [Quietude](https://open.spotify.com/track/1NWn90rDxmnBTl6qaa1aZj) | [Naskal](https://open.spotify.com/artist/2vpioEdP5cRy9DiJpF90i2) | [Quietude](https://open.spotify.com/album/0zrdKP0swSycsebdyDYIIA) | 2:36 | 2025-11-05 | 2026-08-01 |
 | [Rain In July](https://open.spotify.com/track/6VWXXegvaYsNkEZdKRNtlE) | [Noah Evans](https://open.spotify.com/artist/3s8VDnYnPvSLjhI9B2W1Ou) | [Rain In July](https://open.spotify.com/album/0BHNEQXEvfQBzpCo3a07jp) | 2:50 | 2022-04-08 | 2023-09-26 |
 | [Raindrops](https://open.spotify.com/track/6BMcMtb9M5yqelouZZaOPd) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Raindrops](https://open.spotify.com/album/1UMYLTMDLsVBXY8VfaYPpt) | 2:21 | 2021-12-07 | 2022-10-25 |
 | [Raindrops](https://open.spotify.com/track/1mqHvYzzVkt8GK1AaaCJCf) | [Lucas Robbins](https://open.spotify.com/artist/0KqohW5FPXyC5nrrT3HEpt) | [Raindrops](https://open.spotify.com/album/6w92D77uejw4Y474Z6lllZ) | 2:37 | 2021-12-07 | 2023-01-27 |

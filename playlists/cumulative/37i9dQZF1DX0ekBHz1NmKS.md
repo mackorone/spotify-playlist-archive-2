@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,320 songs - 5 day 0 hr 19 min
+2,321 songs - 5 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -804,6 +804,7 @@
 | [HAPPENS](https://open.spotify.com/track/1EQQWbq0FDpj1P5A0SjbJp) | [LUCIIA](https://open.spotify.com/artist/4wstpJTWcoASedbusTGfjd), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [HAPPENS](https://open.spotify.com/album/2FbreqUspf86wHIv47Mycj) | 3:28 | 2024-08-29 | 2024-10-19 |
 | [Happier](https://open.spotify.com/track/4cnHZj69PHA7h8QZxeOX6l) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Happier](https://open.spotify.com/album/0WRCq5vjaNyOcVNRJaWNnM) | 2:53 | 2023-06-29 | 2023-11-17 |
 | [Happier Now](https://open.spotify.com/track/39fU4xXjcmGu7nQ6oXpMUv) | [Erik Segerstedt](https://open.spotify.com/artist/63q3l3pKBpvqEjUM5Vf1TG) | [Happier Now](https://open.spotify.com/album/04TryUgrbhMKNxso4jnmKr) | 2:37 | 2025-06-19 | 2025-08-11 |
+| [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 | 2026-07-30 |  |
 | [Happy](https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Happy](https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD) | 3:42 | 2026-02-19 | 2026-05-31 |
 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 | 2023-08-10 | 2024-01-19 |
 | [Happy For Me](https://open.spotify.com/track/2fePTyV9lwf7qYLkyCwTsX) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Happy For Me](https://open.spotify.com/album/6bvJbuBDbG305Nqn3XGdly) | 2:59 | 2021-12-16 | 2022-01-14 |
@@ -1638,7 +1639,7 @@
 | [Rock and Roll, Summer](https://open.spotify.com/track/2wpi25Kv4W62DdDU8jrAFt) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [See what heaven looks like now](https://open.spotify.com/album/46MlUsV2c7Jxi8tQItfT57) | 3:10 | 2025-03-13 | 2025-03-28 |
 | [Rock'n'Roll](https://open.spotify.com/track/0Oiy3oMloogzORJWupzheE) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Rock'n'Roll](https://open.spotify.com/album/6GgQLcIAQxceoTAQ5wMdSK) | 2:39 | 2024-09-19 | 2024-11-05 |
 | [Rockenrollen](https://open.spotify.com/track/3AjnXyw1G38KLVOIEiESww) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Rockenrollen](https://open.spotify.com/album/1N0sJpiWaZfEqaBDg72WR0) | 3:06 | 2026-02-26 |  |
-| [Rodeo](https://open.spotify.com/track/4raslbaoG46LuL6wsB35qA) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Grindarna Till Ithaka](https://open.spotify.com/album/3mho6giNN5KjgBDsbyJanY) | 3:35 | 2026-05-28 |  |
+| [Rodeo](https://open.spotify.com/track/4raslbaoG46LuL6wsB35qA) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Grindarna Till Ithaka](https://open.spotify.com/album/3mho6giNN5KjgBDsbyJanY) | 3:35 | 2026-05-28 | 2026-08-01 |
 | [Rokokoro](https://open.spotify.com/track/1TMzd1u5I4uGcdsJFA6zXL) | [Axel Ruby](https://open.spotify.com/artist/2QjRFoEwl1oOQgKhyWr47Z), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Rokokoro](https://open.spotify.com/album/4f4pLi6Za8M12ytpzLkoex) | 4:15 | 2026-03-12 | 2026-04-10 |
 | [Rollercoaster](https://open.spotify.com/track/1XrEvLfgYuTcHELpsK3mEq) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Rollercoaster](https://open.spotify.com/album/3tqha1gDXyKevGWizc2sn3) | 3:05 | 2021-12-16 | 2022-05-02 |
 | [Rom\-Com](https://open.spotify.com/track/0GfPbAHD69YgJUQVwMTrtS) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [Sweet Life](https://open.spotify.com/album/05qc5AvQy0FFYc3pKLgSS2) | 3:20 | 2021-12-16 | 2022-03-05 |

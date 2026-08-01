@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Luis Alfonso en portada.",
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Nico Hern\u00e1ndez en portada.",
   "name": "La + Popular",
   "tracks": [
     {
@@ -752,7 +752,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 182624,
       "name": "Bonita pero descarada",
       "url": "https://open.spotify.com/track/3A6p7hBIBchtBVFYe90eLY"
@@ -2257,6 +2257,24 @@
     },
     {
       "album": {
+        "name": "El Rompecorazones",
+        "url": "https://open.spotify.com/album/5mjr1dIJhyxOOeikDUlOzx"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154125,
+      "name": "El Rompecorazones",
+      "url": "https://open.spotify.com/track/2z9COavLfZH1VboZOXFm6j"
+    },
+    {
+      "album": {
         "name": "El Tierno (feat. DFZM)",
         "url": "https://open.spotify.com/album/2OiPtzxuqeonaf5LQ2hhr6"
       },
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 179638,
       "name": "Mala de Profesi\u00f3n",
       "url": "https://open.spotify.com/track/0tYD7s7exvZsdmbLkzJgqa"
@@ -3956,6 +3974,24 @@
       "duration_ms": 200375,
       "name": "Mi Decisi\u00f3n - Remix",
       "url": "https://open.spotify.com/track/1l8VIDA3SN6UyfSAnr2ytZ"
+    },
+    {
+      "album": {
+        "name": "Mi Momento M\u00e1s Humilde",
+        "url": "https://open.spotify.com/album/7DmFQRY9TaiQCuYnTOJKXn"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183733,
+      "name": "Mi Momento M\u00e1s Humilde",
+      "url": "https://open.spotify.com/track/6a0d5fkzeAYu57P8tZyW2R"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > meet renny conti 💌
 
-864 songs - 2 day 4 hr 9 min
+867 songs - 2 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Heads or Tails](https://open.spotify.com/track/2rDDUExNfV2NddrtJCPdBb) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [A Rush To Nowhere](https://open.spotify.com/album/5gQpR3TJYjYa4YqD5qHrWs) | 4:33 | 2026-03-09 |  |
 | [Heartbreak Rodeo](https://open.spotify.com/track/3pPcEKe8l6kylaLchvQCXU) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Heartbreak Rodeo](https://open.spotify.com/album/0zy1HOwPKMbbHGhYoecsFe) | 3:07 | 2024-08-23 | 2025-04-05 |
 | [Heavy Handed](https://open.spotify.com/track/27vxMDq3CkXdNdPsKvMlsX) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Heavy Handed](https://open.spotify.com/album/4QZPwH9ALMRJp4G3llnDqK) | 3:21 | 2023-10-06 | 2024-04-06 |
+| [Heavy Tobacco](https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Heavy Tobacco](https://open.spotify.com/album/2KioF1Tv9MnBm2R7W5Pvaj) | 3:09 | 2026-07-31 |  |
 | [HEAVYWEIGHT \(feat\. Madi Diaz\)](https://open.spotify.com/track/0NppFNk2PWewpJ6sa2NJtJ) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [HEAVYWEIGHT \(feat\. Madi Diaz\)](https://open.spotify.com/album/4oz5gWyUsn17qOnNH39PEY) | 3:11 | 2025-01-31 | 2025-05-31 |
 | [Hells On The Loose](https://open.spotify.com/track/77PIWpIfC7ZKD0Kz3aJSMZ) | [Bo Staloch](https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh) | [Hells On The Loose](https://open.spotify.com/album/6VVe6qPxOEoHmYdJjNdIfJ) | 4:29 | 2024-05-10 | 2025-02-08 |
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-11 | 2025-09-27 |
@@ -584,6 +585,7 @@
 | [Power](https://open.spotify.com/track/5YORFuC8yrRwlNvVVGhho8) | [Sister.](https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY) | [Two Birds](https://open.spotify.com/album/3XK27r3GGdbvu8WIfkPbv7) | 4:18 | 2025-07-23 | 2026-01-24 |
 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 | 2023-10-06 | 2023-12-09 |
 | [pretty out](https://open.spotify.com/track/5HOclWyzX8iunVPnnFB0g1) | [frans asthma](https://open.spotify.com/artist/09biooH630jXVJKFhTdzoL), [Qozy](https://open.spotify.com/artist/3LGjZxZ3jr5Cx9M4oj66Mh) | [pretty out](https://open.spotify.com/album/5UO3cqD7xbri2gxDrbjNQG) | 3:04 | 2024-10-18 | 2025-05-14 |
+| [Punch!](https://open.spotify.com/track/0KtEDhuatDxLCkXuidzTMg) | [Sophia Bacino](https://open.spotify.com/artist/0JCSx0A726fp2K75sXBfWK) | [Punch!](https://open.spotify.com/album/7epVLBNXiDexRm6zQtoSgn) | 3:03 | 2026-07-31 |  |
 | [Pup](https://open.spotify.com/track/7vxSL2veuTRQBhslhM7ENS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Pup](https://open.spotify.com/album/5aTyRZw08z72j3xy0bEJfz) | 4:17 | 2023-11-10 | 2023-12-16 |
 | [Pushing It Down and Praying](https://open.spotify.com/track/4wO2JlPZw72Xlu6dGUW4Ce) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying](https://open.spotify.com/album/6bfpmfxEWqXsQHU9xc553O) | 3:54 | 2024-09-20 | 2025-02-22 |
 | [Pushing It Down and Praying \- Live from AFAS, Amsterdam](https://open.spotify.com/track/17uCITlzfTYFubzabQunsn) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Pushing It Down and Praying \(Live from AFAS, Amsterdam\)](https://open.spotify.com/album/5nvAnZulqUnBeC8wO3xjfM) | 3:59 | 2025-11-21 | 2026-07-11 |
@@ -605,6 +607,7 @@
 | [resentme2](https://open.spotify.com/track/6ubGK2bazBd5iOCvRAmudE) | [Brett Seper](https://open.spotify.com/artist/0ha3FIe7oUSx86k9krBSKE) | [toxic ties & troubled minds](https://open.spotify.com/album/5x6eyMAnZ3fUu26mgqE9kP) | 2:48 | 2023-10-06 | 2024-05-18 |
 | [Rewarding Melody](https://open.spotify.com/track/7mf2ubTq7o3O9U9ql3CNPv) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Rewarding Melody](https://open.spotify.com/album/2z944o5q3z29mQaIwd58OG) | 2:32 | 2026-05-13 |  |
 | [Right In Front Of Me](https://open.spotify.com/track/3rJXRshWRO9pITVPuQCroz) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Right In Front Of Me](https://open.spotify.com/album/1YMx0etA4qtlVLXSkQvJvg) | 2:45 | 2026-04-10 |  |
+| [Right On Time](https://open.spotify.com/track/15gbrNPteUKN5gNuoRnhY2) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Right On Time](https://open.spotify.com/album/0pgqi9s9qkIGjCbN5vGbNq) | 3:29 | 2026-07-31 |  |
 | [righttttraaack](https://open.spotify.com/track/7p9QPnwr6INKhwFhZwuooX) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse \(Anniversary Edition\)](https://open.spotify.com/album/5yLkXPDu9HKrJBKz0yFFSI) | 3:43 | 2026-03-06 |  |
 | [Risk](https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Risk](https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw) | 3:11 | 2024-05-01 | 2024-08-21 |
 | [River](https://open.spotify.com/track/0jskwpy6eVJf1h3CSjCW6X) | [Blake Ruby](https://open.spotify.com/artist/6t2qGTjfjde2jbklcpoF3Z), [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [River](https://open.spotify.com/album/32ZFTnGmBTuFkbY6CEar0r) | 4:32 | 2025-10-17 | 2026-02-28 |

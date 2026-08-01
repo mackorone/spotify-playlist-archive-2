@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 66202,
+  "num_followers": 66241,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAAAeGsWMOf+9D/XXnBw69w6n",
+  "snapshot_id": "amqUAAAAAAAxHyuO/rzi3XovKa+2Af5Y",
   "tracks": [
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/2j5kahqVzUv6g4gsWC84oM"
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/591cjIQ96fv6ZhWZu1YC5p"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 220365,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/39kbxtqZyRkgBCTQy0hlX0"
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/7FrX63yOHJZucV0MADP3iS"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Problema",
-        "url": "https://open.spotify.com/album/591cjIQ96fv6ZhWZu1YC5p"
+        "name": "Milagro y Desastre",
+        "url": "https://open.spotify.com/album/4rEAyzDK664s39haBdgaqh"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 204735,
-      "name": "Qu\u00e9 Problema",
-      "url": "https://open.spotify.com/track/7FrX63yOHJZucV0MADP3iS"
+      "duration_ms": 245672,
+      "name": "Milagro y Desastre",
+      "url": "https://open.spotify.com/track/1yNpqCswxbQVEK5Ft8vbC6"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milagro y Desastre",
-        "url": "https://open.spotify.com/album/4rEAyzDK664s39haBdgaqh"
+        "name": "Abrazo",
+        "url": "https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 245672,
-      "name": "Milagro y Desastre",
-      "url": "https://open.spotify.com/track/1yNpqCswxbQVEK5Ft8vbC6"
+      "duration_ms": 250706,
+      "name": "Si Me Matan",
+      "url": "https://open.spotify.com/track/5LRAZiQRfLKBzd9LVn9gbY"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abrazo",
-        "url": "https://open.spotify.com/album/6SYAiWdrjFilRkDeT2ygsh"
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/1j6Q8OXy81DfRlMsjN2yt0"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Si Me Matan",
-      "url": "https://open.spotify.com/track/5LRAZiQRfLKBzd9LVn9gbY"
+      "duration_ms": 220365,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/412KWpuKoDhjOylbRqQDZj"
     },
     {
       "added_at": null,

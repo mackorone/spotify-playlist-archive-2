@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: Buju Banton
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,068 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,750 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [House Call](https://open.spotify.com/track/1P2YMHIhDi0Oszip9SpdtS) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Too Too Bad](https://open.spotify.com/album/0XXkEYOyHM2Lpb09pME4rl) | 2:37 |
 | 2 | [Hello \(feat\. Buju Banton\)](https://open.spotify.com/track/00R468Heq3qV12xMqQFULd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:55 |
 | 3 | [Stay For The Night](https://open.spotify.com/track/0HnPRaFlJqio55qp8fdX0g) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Stay For The Night](https://open.spotify.com/album/0B2rHpRTIHDl4EtsqMy1bc) | 2:32 |
-| 4 | [WUL UP](https://open.spotify.com/track/74My9unxFHLmvw0ezYZTBO) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [WUL UP](https://open.spotify.com/album/0jVrMzHjI5RN3lXJQvKBlK) | 2:45 |
+| 4 | [WUL UP \(Walk Out\)](https://open.spotify.com/track/74My9unxFHLmvw0ezYZTBO) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Notnice](https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX) | [WUL UP \(Walk Out\)](https://open.spotify.com/album/0jVrMzHjI5RN3lXJQvKBlK) | 2:45 |
 | 5 | [RARRI](https://open.spotify.com/track/6D2lZx4sPzNy3wPYnIgz2o) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [RARRI](https://open.spotify.com/album/6rv3Dz8xETv0F9exOfIv6C) | 2:10 |
 | 6 | [Amazing Shape \(feat\. Popcaan\)](https://open.spotify.com/track/6hFjD546JTuTsUS6GawtVF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 2:56 |
 | 7 | [Fuck and Party \(feat\. Vybz Kartel\)](https://open.spotify.com/track/36mxQSO07EQkGEshyiWPsL) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [BROWN](https://open.spotify.com/album/7GToxH8az0ztPfYCeOAqij) | 4:37 |

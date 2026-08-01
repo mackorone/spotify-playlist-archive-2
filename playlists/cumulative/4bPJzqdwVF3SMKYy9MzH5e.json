@@ -7315,6 +7315,28 @@
     },
     {
       "album": {
+        "name": "can u",
+        "url": "https://open.spotify.com/album/65kcVULmMMzVhDzofQoXYl"
+      },
+      "artists": [
+        {
+          "name": "u.r.trax",
+          "url": "https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188058,
+      "name": "can u",
+      "url": "https://open.spotify.com/track/5iCXqur9teq7a996Zjw8CE"
+    },
+    {
+      "album": {
         "name": "Sempiternal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
       },
@@ -26796,6 +26818,24 @@
       "duration_ms": 215628,
       "name": "MSMSMSM",
       "url": "https://open.spotify.com/track/5g5y3bgYrajITEEYsLnkDq"
+    },
+    {
+      "album": {
+        "name": "What The Feng",
+        "url": "https://open.spotify.com/album/73neMdanvqkjdVrR2hzzfQ"
+      },
+      "artists": [
+        {
+          "name": "Feng",
+          "url": "https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123384,
+      "name": "Mum, im an artist",
+      "url": "https://open.spotify.com/track/4Qrm3I8WuIua3J2EK2kOeK"
     },
     {
       "album": {

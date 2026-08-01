@@ -6719,6 +6719,28 @@
     },
     {
       "album": {
+        "name": "Nafs",
+        "url": "https://open.spotify.com/album/18bo6nVbQc6y9W2JJ5lJYa"
+      },
+      "artists": [
+        {
+          "name": "MBL_",
+          "url": "https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z"
+        },
+        {
+          "name": "AYARKAY",
+          "url": "https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290561,
+      "name": "Nafs",
+      "url": "https://open.spotify.com/track/4OaSZFXIhOpTa2gVZL9Loo"
+    },
+    {
+      "album": {
         "name": "Nalla Rasam",
         "url": "https://open.spotify.com/album/2bYRtY5vkEgCBGs5tZXskS"
       },

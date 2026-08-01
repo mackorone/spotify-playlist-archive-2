@@ -441,6 +441,24 @@
     },
     {
       "album": {
+        "name": "Overtone III",
+        "url": "https://open.spotify.com/album/2aEVxX3pYVismL2aknGBD6"
+      },
+      "artists": [
+        {
+          "name": "Kassian",
+          "url": "https://open.spotify.com/artist/4w6VhlUuzrUoJ5NbCpefXx"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296500,
+      "name": "Acid Blue",
+      "url": "https://open.spotify.com/track/0xIjYg5M8PxNzNL2QHwvcj"
+    },
+    {
+      "album": {
         "name": "Acid Delirio (feat. Saturnino & Maria Chiara Argir\u00f2)",
         "url": "https://open.spotify.com/album/2MwuQc7BgWapSaAjonKk9p"
       },
@@ -918,7 +936,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 202666,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/1YbYCgDoRk2PbTdzZfTO5B"
@@ -1961,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3uerP3QgajVmFLeFe1k4OF"
+      },
+      "artists": [
+        {
+          "name": "moktar",
+          "url": "https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/1jTYIQTzD0eDoaZ6jdrXFf"
+    },
+    {
+      "album": {
         "name": "Banggg",
         "url": "https://open.spotify.com/album/3mWHF2gfMwZgcdMzi8MRGh"
       },
@@ -2148,7 +2184,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 108945,
       "name": "BD Baile",
       "url": "https://open.spotify.com/track/6Il2m8E46J4fu1WFbrIKfE"
@@ -2268,7 +2304,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 243750,
       "name": "Beezknees",
       "url": "https://open.spotify.com/track/0CLTYIDn9PC96SKt7tEYed"
@@ -4094,7 +4130,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 275325,
       "name": "Closer",
       "url": "https://open.spotify.com/track/6k4Sm1behInA6Si3yJKoMv"
@@ -16145,6 +16181,28 @@
     },
     {
       "album": {
+        "name": "Momentum (Remixes)",
+        "url": "https://open.spotify.com/album/06TJEJc6mqq6iYRv5t80FA"
+      },
+      "artists": [
+        {
+          "name": "Ritzi Lee",
+          "url": "https://open.spotify.com/artist/48wMni3Jw152PqRVt9qWV4"
+        },
+        {
+          "name": "Surgeon",
+          "url": "https://open.spotify.com/artist/1PSylklb2w06BAAHEtepqM"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264795,
+      "name": "S-Waves - Surgeon Remix",
+      "url": "https://open.spotify.com/track/1UaEQICfAiR6zzxzHXFWX2"
+    },
+    {
+      "album": {
         "name": "S.C.M.",
         "url": "https://open.spotify.com/album/1Z3UIBxtnLAZ4qL2qwWy1O"
       },
@@ -18351,6 +18409,24 @@
     },
     {
       "album": {
+        "name": "XXXXX",
+        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138118,
+      "name": "Taconeando",
+      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
+    },
+    {
+      "album": {
         "name": "SURAK EP",
         "url": "https://open.spotify.com/album/0VpvdjYxvw0Zlg8YdTZnyC"
       },
@@ -18996,6 +19072,10 @@
         {
           "name": "Lefblom",
           "url": "https://open.spotify.com/artist/4hLJmwbtgdmwyghDyTF1hA"
+        },
+        {
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
         }
       ],
       "date_added": "2026-07-24",
@@ -19232,6 +19312,24 @@
       "duration_ms": 433632,
       "name": "Three Foxes Chasing Each Other",
       "url": "https://open.spotify.com/track/29w9L75FEZgCB9C3EZHGCX"
+    },
+    {
+      "album": {
+        "name": "Dissidente",
+        "url": "https://open.spotify.com/album/4mrmw6ilNZeyVfXVgzVorQ"
+      },
+      "artists": [
+        {
+          "name": "Agazero",
+          "url": "https://open.spotify.com/artist/3CmY3G8IVu7K8IOa5ivn4N"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Through Sterile Appropriation",
+      "url": "https://open.spotify.com/track/16C66rWnvK0XRdnx23XZ7y"
     },
     {
       "album": {
@@ -20349,6 +20447,28 @@
     },
     {
       "album": {
+        "name": "VIKI VIKI",
+        "url": "https://open.spotify.com/album/1kqEki6s96Zqm45qdWt3Of"
+      },
+      "artists": [
+        {
+          "name": "\u68ee",
+          "url": "https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I"
+        },
+        {
+          "name": "KVGGLV",
+          "url": "https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165992,
+      "name": "VIKI VIKI",
+      "url": "https://open.spotify.com/track/5aV3XsFfELEKhLEVWmioVI"
+    },
+    {
+      "album": {
         "name": "VILLAGER RUN THAT AGAIN",
         "url": "https://open.spotify.com/album/1nDZB7FFf7WqGMinAWsMQc"
       },
@@ -21424,6 +21544,24 @@
       "duration_ms": 315692,
       "name": "Wrought Eye",
       "url": "https://open.spotify.com/track/3ezNlxEE8sn0C3ksIrtBxV"
+    },
+    {
+      "album": {
+        "name": "A Rush of Fat To The Head",
+        "url": "https://open.spotify.com/album/6PFnACnbIiwdfwOd8osM20"
+      },
+      "artists": [
+        {
+          "name": "Aquarian",
+          "url": "https://open.spotify.com/artist/5sr7enH1jsMhSe1LT0hSJ0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Wvrst Regards",
+      "url": "https://open.spotify.com/track/4r9xp7LoHhH0fAshlGXKGu"
     },
     {
       "album": {

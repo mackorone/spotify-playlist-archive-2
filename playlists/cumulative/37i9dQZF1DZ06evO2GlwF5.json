@@ -160,7 +160,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 234464,
       "name": "blind summer fish",
       "url": "https://open.spotify.com/track/5RCbiXSR2r2cw3KcPk8wQZ"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 274946,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/0R4m9VGre46iGu1kfW2JAf"
@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 154666,
       "name": "\u30b5\u30f3\u30af\u30c1\u30e5\u30a2\u30ea",
       "url": "https://open.spotify.com/track/17bDH3nuLKBwSUiC4zHyBl"
@@ -2992,6 +2992,24 @@
       "duration_ms": 249066,
       "name": "\u8e8d\u52d5",
       "url": "https://open.spotify.com/track/7fi2zDTlIUWMDPHrhm8Qsj"
+    },
+    {
+      "album": {
+        "name": "\u300eFate/Grand Order\u300f\u4e3b\u984c\u6b4c\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u3000\u4f59\u97fb",
+        "url": "https://open.spotify.com/album/54f3Fh8Sv0DmvN1jfBt6cs"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305093,
+      "name": "\u8e8d\u52d5-unplugged session-",
+      "url": "https://open.spotify.com/track/2tk5xtiQlubhANijrCqovz"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: TangBadVoice",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: OG-ANIC",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 132173,
       "name": "2Night",
       "url": "https://open.spotify.com/track/0Vnv87x7NpNVyNxH5ukysU"
@@ -2628,7 +2628,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 228000,
       "name": "For U",
       "url": "https://open.spotify.com/track/7lxhzkTRppbMj8prWGPmkC"
@@ -2788,6 +2788,28 @@
       "duration_ms": 191098,
       "name": "Gemmie Green",
       "url": "https://open.spotify.com/track/6MAJum3pqKNgSSN261C4rs"
+    },
+    {
+      "album": {
+        "name": "SKOOL LUV",
+        "url": "https://open.spotify.com/album/0NKfMqHVJR1t0bqdxdGAK3"
+      },
+      "artists": [
+        {
+          "name": "9frvme",
+          "url": "https://open.spotify.com/artist/2FAg1ZIIqwiAV95dk4QYLA"
+        },
+        {
+          "name": "pY-1",
+          "url": "https://open.spotify.com/artist/2OaPa926aKd12rYVXJWSEW"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "GEN Z",
+      "url": "https://open.spotify.com/track/0vlTi7B39utj9Aqj9LnwmK"
     },
     {
       "album": {
@@ -4636,6 +4658,28 @@
       "duration_ms": 214588,
       "name": "MISSING (u so much)",
       "url": "https://open.spotify.com/track/2tkdcdZCiZBj2Zi4TNNmfH"
+    },
+    {
+      "album": {
+        "name": "Mission",
+        "url": "https://open.spotify.com/album/5izBGpSZdlTA2DAeEsfP9P"
+      },
+      "artists": [
+        {
+          "name": "PKW AYT",
+          "url": "https://open.spotify.com/artist/5zsDo833dGVW2HJ4VmuvcS"
+        },
+        {
+          "name": "RUB1S",
+          "url": "https://open.spotify.com/artist/1ch1XE8UGg5GDBTfAgEMBu"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197610,
+      "name": "Mission",
+      "url": "https://open.spotify.com/track/5kt7HNd3UfkjOb2GsUPiec"
     },
     {
       "album": {
@@ -10588,7 +10632,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 193246,
       "name": "\u0e09\u0e31\u0e19\u0e08\u0e30\u0e23\u0e35\u0e1a\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01\u0e40\u0e18\u0e2d",
       "url": "https://open.spotify.com/track/0VOIQcLeVfauNE0uwmIWD6"
@@ -10610,7 +10654,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 207000,
       "name": "\u0e09\u0e31\u0e19\u0e22\u0e31\u0e07\u0e08\u0e14\u0e08\u0e33",
       "url": "https://open.spotify.com/track/6i8Xw1cHasllT4Kxp2YdqU"
@@ -10852,7 +10896,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 126737,
       "name": "\u0e0a\u0e38\u0e19\u0e40\u0e2b\u0e27\u0e34\u0e19\u0e42\u0e1f\u0e25\u0e27 (\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e07\u0e1a\u0e49\u0e32\u0e07)",
       "url": "https://open.spotify.com/track/5RkUw79q2c1Xszvy9wmm4r"
@@ -12644,6 +12688,24 @@
       "duration_ms": 222439,
       "name": "\u0e1e\u0e27\u0e01\u0e01\u0e39\u0e40\u0e14\u0e47\u0e01\u0e0a\u0e25",
       "url": "https://open.spotify.com/track/5D7f7WJXLooIKr1QuIxtAW"
+    },
+    {
+      "album": {
+        "name": "\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27",
+        "url": "https://open.spotify.com/album/63qDCULxbE4FXfDcyynzbK"
+      },
+      "artists": [
+        {
+          "name": "TRIPLE P",
+          "url": "https://open.spotify.com/artist/1tohEMlQs52jo2vv2lOpqd"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151208,
+      "name": "\u0e1e\u0e2d\u0e41\u0e25\u0e49\u0e27",
+      "url": "https://open.spotify.com/track/3jaz5V2seitLNiWSjEM0t2"
     },
     {
       "album": {
@@ -14697,6 +14759,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e32\u0e22\u0e15\u0e32",
+        "url": "https://open.spotify.com/album/3FaDLH9R85iH0TxpTogymg"
+      },
+      "artists": [
+        {
+          "name": "WESTSIDE2002",
+          "url": "https://open.spotify.com/artist/6IB67meIWzw6TfJFaG1k14"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215194,
+      "name": "\u0e2a\u0e32\u0e22\u0e15\u0e32",
+      "url": "https://open.spotify.com/track/3zeEbGrxpkwl4XTTU7DFuG"
+    },
+    {
+      "album": {
         "name": "\u0e18\u0e32\u0e15\u0e38\u0e17\u0e2d\u0e07\u0e0b\u0e32\u0e27\u0e14\u0e4c",
         "url": "https://open.spotify.com/album/0e5gXaOqlR6e5bA1ZLqksK"
       },
@@ -15270,7 +15350,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 152881,
       "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e0b\u0e32\u0e15\u0e32\u0e19 (feat. FUSO)",
       "url": "https://open.spotify.com/track/6aAhmLMHWWsJeMpod0qkeG"

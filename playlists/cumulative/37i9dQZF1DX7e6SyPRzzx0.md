@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Playboi Carti
 
-222 songs - 9 hr 29 min
+224 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [FOMDJ](https://open.spotify.com/track/7bO7a1KrtmGNDIOy2u3siZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 3:20 | 2025-03-25 |  |
 | [FROM YO HANDS](https://open.spotify.com/track/5xjtqhWynyBiOgEEGAFCtO) | [CantStopPat](https://open.spotify.com/artist/2r1ggfwCYWOhNGERNev4yK) | [FROM YO HANDS](https://open.spotify.com/album/1LXoE2zVe2gVLmShMBoto1) | 2:02 | 2025-10-17 | 2025-11-22 |
 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 | 2024-03-15 |  |
+| [Gas\. Brake.](https://open.spotify.com/track/5s5gsSiJChVirFNobE8lX2) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Maverick “Almost Forever” EP](https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo) | 2:50 | 2026-08-01 |  |
 | [GEEK TIMË](https://open.spotify.com/track/32ioWMgkyA6mFcXJMggBoz) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [LYFESTYLE](https://open.spotify.com/album/70CmTAk7pocCYr4lwuDtOc) | 2:50 | 2024-10-25 |  |
 | [Geeked up \(with OsamaSon\)](https://open.spotify.com/track/6Ke4o5sK2UqeGWpGxRZuvp) | [ApolloRed1](https://open.spotify.com/artist/6woKompAdi85uFZpAcqPhP), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Demon Heart Radio](https://open.spotify.com/album/2TUhJtMwtQE4fs1lxit9UB) | 2:35 | 2026-06-05 |  |
 | [Get Out My Way!](https://open.spotify.com/track/3PjaLvrmPhg3tdJ9xeXuaO) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Get Out My Way!](https://open.spotify.com/album/5jvnXox1rfma5Z9eyag3Zq) | 2:22 | 2025-07-11 | 2025-07-19 |
@@ -164,7 +165,7 @@
 | [Outta Here](https://open.spotify.com/track/6mbexPPxCusq64fVT8IFBi) | [sixbill](https://open.spotify.com/artist/56MdwFrWGvYtq9wGACLZCK) | [Outta Here](https://open.spotify.com/album/1S2nMmhRTpCFBt4mwqGVpc) | 2:17 | 2026-01-16 | 2026-03-28 |
 | [overseas](https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:21 | 2024-08-20 | 2024-09-11 |
 | [overseas](https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [overseas](https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U) | 2:21 | 2024-04-12 | 2024-08-21 |
-| [Paperbag Boy](https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Paperbag Boy](https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb) | 3:11 | 2026-04-03 |  |
+| [Paperbag Boy](https://open.spotify.com/track/7mQcxAgdMV1Qt71tekR0DP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Paperbag Boy](https://open.spotify.com/album/7CqMuaqi2wrUNsful2OWHb) | 3:11 | 2026-04-03 | 2026-08-01 |
 | [PARLAY](https://open.spotify.com/track/2CWP5h36QBRfDQPYl3K9uA) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [TRENCH TOWN](https://open.spotify.com/album/1vuVAVc0QJbNJyNVVJWw4o) | 1:32 | 2026-06-19 |  |
 | [PB&J \(with Ken Carson\)](https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV) | [HXG](https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:29 | 2025-08-08 |  |
 | [Penthouse Shordy](https://open.spotify.com/track/0p761VSAObNRJF855bIHRF) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 2:06 | 2023-12-01 | 2024-12-07 |
@@ -213,7 +214,7 @@
 | [Vamp Anthem](https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 2:04 | 2023-12-01 | 2024-08-01 |
 | [VENUS](https://open.spotify.com/track/3z1qBYHxWyJiwbTupk194R) | [DC THE DON](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [REBIRTH](https://open.spotify.com/album/3bvzvApxQGgI1VX4jSD86G) | 3:16 | 2024-10-25 | 2026-06-06 |
 | [VICE CITY](https://open.spotify.com/track/0AUoWq5xvZL6vW7u4dZmJO) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 3:18 | 2025-08-01 | 2025-11-22 |
-| [Vivienne Westwood / RIP](https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h) | [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [EMOTIONS](https://open.spotify.com/album/0JOapIHLzCzmqCAZf8OYy1) | 4:04 | 2026-04-03 |  |
+| [Vivienne Westwood / RIP](https://open.spotify.com/track/6lIxsbZ2A9WwrapGOPep3h) | [Nine Vicious](https://open.spotify.com/artist/6Rs7Ufqb4h0FTuVg6wlqOy) | [EMOTIONS](https://open.spotify.com/album/0JOapIHLzCzmqCAZf8OYy1) | 4:04 | 2026-04-03 | 2026-08-01 |
 | [WA\\VE](https://open.spotify.com/track/1K7Tnhm54msvxefjFMWa6f) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [1of1](https://open.spotify.com/album/1uDRSDtUULUbusMjtRrwKi) | 2:35 | 2023-12-01 | 2023-12-16 |
 | [Wake Up](https://open.spotify.com/track/7zkM2VrMD0DvAxNrxZCICt) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 1:52 | 2023-12-01 | 2024-08-21 |
 | [WASTED](https://open.spotify.com/track/5wJy2g9xm0GtS5UR1KpqkM) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [MANIA](https://open.spotify.com/album/3Ot1gTcCdtkhyce9yrc4Wj) | 2:04 | 2025-11-21 | 2026-06-06 |
@@ -230,5 +231,6 @@
 | [World Boss](https://open.spotify.com/track/0gC6ZI3cFxHP7Hor3nMO3b) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [World Boss](https://open.spotify.com/album/0rH4QhzdNFrGWKYCIFJZPa) | 3:04 | 2025-09-05 | 2025-10-18 |
 | [X & Sex](https://open.spotify.com/track/4EwwfFCckvI9uM0nEVVDa0) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg) | 0:57 | 2023-12-01 | 2024-03-16 |
 | [Yale](https://open.spotify.com/track/0HTIrbUwwFn984RzVZm5Fk) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:46 | 2024-03-15 |  |
+| [Yoko](https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Maverick “Almost Forever” EP](https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo) | 2:53 | 2026-08-01 |  |
 
 \*This playlist was first scraped on 2023-12-02. Prior content cannot be recovered.

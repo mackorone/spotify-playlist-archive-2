@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 172379,
+  "num_followers": 172417,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACTIRzNdPJ2LYKi3I7ITalAlkRre",
+  "snapshot_id": "AAAAAPr2L9YFJ5z4MtPUVesHG+KTznSh",
   "tracks": [
+    {
+      "added_at": "2026-07-31 04:01:01",
+      "album": {
+        "name": "Silvershoes",
+        "url": "https://open.spotify.com/album/4r5ig3cOxRwjCDLz94VEgx"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 157136,
+      "name": "Silvershoes",
+      "url": "https://open.spotify.com/track/7ep0wpZD1S5dWhPaQeMBeY"
+    },
     {
       "added_at": "2026-07-24 04:00:50",
       "album": {
@@ -1823,22 +1839,6 @@
       "duration_ms": 213707,
       "name": "Release me",
       "url": "https://open.spotify.com/track/3OQS20U3O3UEgRdF2SqffP"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Jazzish",
-        "url": "https://open.spotify.com/album/4j4zHxlcpgtrsSAS2AESCh"
-      },
-      "artists": [
-        {
-          "name": "Eric Hollaway",
-          "url": "https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l"
-        }
-      ],
-      "duration_ms": 303953,
-      "name": "Playing Your Game",
-      "url": "https://open.spotify.com/track/1trrXz1GCAsXwmM3pN8Mh6"
     }
   ],
   "unique_name": "Vocal Jazz",

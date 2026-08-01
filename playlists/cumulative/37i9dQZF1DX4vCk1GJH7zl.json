@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Colomy, Peter Buck",
+  "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Maglore",
   "name": "Rock Leve",
   "tracks": [
     {
@@ -3142,7 +3142,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 200000,
       "name": "Qual \u00e9 o fim?",
       "url": "https://open.spotify.com/track/4FUAnqFwmOiym89Rwmy1f1"
@@ -3592,6 +3592,24 @@
       "duration_ms": 222986,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/60m0V9vDxXMfBn9geBFOIn"
+    },
+    {
+      "album": {
+        "name": "Sonho Real, Raio de Sol",
+        "url": "https://open.spotify.com/album/3kG1CJ42pOnL15mokG3IJb"
+      },
+      "artists": [
+        {
+          "name": "Maglore",
+          "url": "https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227028,
+      "name": "Sonho Real",
+      "url": "https://open.spotify.com/track/014b1uSr2h35A5jqMfpGfs"
     },
     {
       "album": {

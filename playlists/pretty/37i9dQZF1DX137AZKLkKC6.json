@@ -1,28 +1,28 @@
 {
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Luis Alfonso en portada.",
-  "num_followers": 270600,
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Nico Hern\u00e1ndez en portada.",
+  "num_followers": 270627,
   "original_name": "La + Popular",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJmud5GO9jUIcCKMbJOk02dWAhRT",
+  "snapshot_id": "AAAAADyoCh1jcDgHQ6GEVM/CPbd1q8Yo",
   "tracks": [
     {
-      "added_at": "2026-07-24 04:59:11",
+      "added_at": "2026-07-31 04:59:22",
       "album": {
-        "name": "Lindo Lindo",
-        "url": "https://open.spotify.com/album/7uX0KsERm8K9pr8svvbyoU"
+        "name": "El Rompecorazones",
+        "url": "https://open.spotify.com/album/5mjr1dIJhyxOOeikDUlOzx"
       },
       "artists": [
         {
-          "name": "Luis Alfonso",
-          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
         }
       ],
-      "duration_ms": 182624,
-      "name": "Bonita pero descarada",
-      "url": "https://open.spotify.com/track/3A6p7hBIBchtBVFYe90eLY"
+      "duration_ms": 154125,
+      "name": "El Rompecorazones",
+      "url": "https://open.spotify.com/track/2z9COavLfZH1VboZOXFm6j"
     },
     {
       "added_at": "2026-06-19 04:59:05",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj"
     },
     {
+      "added_at": "2026-07-31 04:59:22",
+      "album": {
+        "name": "Mi Momento M\u00e1s Humilde",
+        "url": "https://open.spotify.com/album/7DmFQRY9TaiQCuYnTOJKXn"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Mi Momento M\u00e1s Humilde",
+      "url": "https://open.spotify.com/track/6a0d5fkzeAYu57P8tZyW2R"
+    },
+    {
       "added_at": "2026-06-19 04:59:05",
       "album": {
         "name": "As\u00ed es nuestro amor",
@@ -79,22 +95,6 @@
       "duration_ms": 169750,
       "name": "As\u00ed es nuestro amor",
       "url": "https://open.spotify.com/track/3OjVagLjye1BVTSEPeC0et"
-    },
-    {
-      "added_at": "2026-07-24 04:59:11",
-      "album": {
-        "name": "Mala de Profesi\u00f3n",
-        "url": "https://open.spotify.com/album/74iUSIdgl8rOh9YJjKrC58"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 179638,
-      "name": "Mala de Profesi\u00f3n",
-      "url": "https://open.spotify.com/track/0tYD7s7exvZsdmbLkzJgqa"
     },
     {
       "added_at": "2026-06-19 04:59:05",

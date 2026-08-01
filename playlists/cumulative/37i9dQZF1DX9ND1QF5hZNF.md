@@ -2,7 +2,7 @@
 
 ### [Electro Chill](https://open.spotify.com/playlist/37i9dQZF1DX9ND1QF5hZNF)
 
-> Evadez\-vous tout en douceur...
+> Evadez\-vous tout en douceur..\. ☀️
 
 434 songs - 22 hr 15 min
 

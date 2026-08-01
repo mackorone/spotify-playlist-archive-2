@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 628409,
+  "num_followers": 628475,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAACuyX1GDOrwhGAPMMeDYsPY",
+  "snapshot_id": "amqUAAAAAACJZ6qp0s9XshBpUx0/Leth",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NINE",
-        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
+        "name": "Dogs Eating Dogs",
+        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 180952,
-      "name": "Darkside",
-      "url": "https://open.spotify.com/track/39n1y2JqVOPIdfUeLqzgfl"
+      "duration_ms": 260153,
+      "name": "Pretty Little Girl",
+      "url": "https://open.spotify.com/track/6rJKRar5Jf3Ec2FIhiog7Y"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dogs Eating Dogs",
-        "url": "https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar"
+        "name": "NINE",
+        "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
         }
       ],
-      "duration_ms": 260153,
-      "name": "Pretty Little Girl",
-      "url": "https://open.spotify.com/track/6rJKRar5Jf3Ec2FIhiog7Y"
+      "duration_ms": 180952,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/39n1y2JqVOPIdfUeLqzgfl"
     },
     {
       "added_at": null,

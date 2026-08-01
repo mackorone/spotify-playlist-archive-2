@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 406841,
+  "num_followers": 406865,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu"
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
       "artists": [
         {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
         }
       ],
-      "duration_ms": 312533,
-      "name": "Trois nuits par semaine",
-      "url": "https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss"
+      "duration_ms": 282813,
+      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
     },
     {
       "added_at": "2026-05-19 09:20:45",
@@ -107,18 +107,18 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
-        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
+        "name": "3",
+        "url": "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu"
       },
       "artists": [
         {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
         }
       ],
-      "duration_ms": 282813,
-      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
+      "duration_ms": 312533,
+      "name": "Trois nuits par semaine",
+      "url": "https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss"
     },
     {
       "added_at": "2026-05-19 09:20:45",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
-        "name": "Le Meilleur De",
-        "url": "https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN"
-      },
-      "artists": [
-        {
-          "name": "Pierre Bachelet",
-          "url": "https://open.spotify.com/artist/473XDcWSxnSaxptauf6fg4"
-        }
-      ],
-      "duration_ms": 327293,
-      "name": "En l'an 2001",
-      "url": "https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j"
-    },
-    {
-      "added_at": "2026-05-19 09:20:45",
-      "album": {
         "name": "C'est la ouate",
         "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 228187,
       "name": "C'est la ouate - Radio Edit Original Version 1987",
       "url": "https://open.spotify.com/track/2dgbgBcWg5iKQ0jmChAb3l"
+    },
+    {
+      "added_at": "2026-05-19 09:20:45",
+      "album": {
+        "name": "Le Meilleur De",
+        "url": "https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN"
+      },
+      "artists": [
+        {
+          "name": "Pierre Bachelet",
+          "url": "https://open.spotify.com/artist/473XDcWSxnSaxptauf6fg4"
+        }
+      ],
+      "duration_ms": 327293,
+      "name": "En l'an 2001",
+      "url": "https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j"
     },
     {
       "added_at": "2026-05-19 09:20:45",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: DICEBLUE",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: TEN",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 251000,
       "name": "99 Degrees",
       "url": "https://open.spotify.com/track/0Adkq5CkilX52wKp7GzRct"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 223217,
       "name": "Better Life",
       "url": "https://open.spotify.com/track/5dApXF5URhY6jDBnNpTocr"
@@ -8667,6 +8667,24 @@
     },
     {
       "album": {
+        "name": "If You Don\u2019t Mean It (\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14 \u0e2d\u0e22\u0e48\u0e32\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e34\u0e14)",
+        "url": "https://open.spotify.com/album/2UQiY52UWsfyJ7eVORSryP"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232534,
+      "name": "If You Don\u2019t Mean It (\u0e16\u0e49\u0e32\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14 \u0e2d\u0e22\u0e48\u0e32\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e04\u0e34\u0e14)",
+      "url": "https://open.spotify.com/track/2d3fZAlYyt6xqPkL9U9h1f"
+    },
+    {
+      "album": {
         "name": "Fancy That",
         "url": "https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y"
       },
@@ -13536,6 +13554,24 @@
       "duration_ms": 255789,
       "name": "Perfume (feat. oceanfromtheblue)",
       "url": "https://open.spotify.com/track/1X55aNgEX0J7rNQ8e21dxF"
+    },
+    {
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
       "album": {
@@ -20225,6 +20261,24 @@
     },
     {
       "album": {
+        "name": "Wasting Time",
+        "url": "https://open.spotify.com/album/1QJx4EX9zxZbHQJFdWeqAP"
+      },
+      "artists": [
+        {
+          "name": "TIGGER (\u0e17\u0e34\u0e01\u0e40\u0e01\u0e2d\u0e23\u0e4c)",
+          "url": "https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/1VzwCri9lwLsOH2AjhwoLj"
+    },
+    {
+      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/2Cu91sQZKHxbScPxO9jD5R"
       },
@@ -21151,6 +21205,28 @@
     },
     {
       "album": {
+        "name": "Wish you the best",
+        "url": "https://open.spotify.com/album/0WNX605GwY41znKTXyILie"
+      },
+      "artists": [
+        {
+          "name": "MARCKRIS OF BUS",
+          "url": "https://open.spotify.com/artist/26fU8Bg2Yq7XwvZiuzIwnM"
+        },
+        {
+          "name": "BUS",
+          "url": "https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248129,
+      "name": "Wish you the best",
+      "url": "https://open.spotify.com/track/29frcAygDPC0P51SwoYebk"
+    },
+    {
+      "album": {
         "name": "With Me",
         "url": "https://open.spotify.com/album/7kdBexFG4rTHmiBl0SZmcH"
       },
@@ -21748,7 +21824,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 235946,
       "name": "\u0e04\u0e37\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/5G9QIsPENzaSjyipcQQAqL"
@@ -21850,7 +21926,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 222858,
       "name": "\u0e08\u0e33\u0e01\u0e31\u0e19\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21 (feat. Patrickananda)",
       "url": "https://open.spotify.com/track/4IhpuWgVMk3VI8F6aRErB0"
@@ -22146,7 +22222,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 235167,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e02\u0e32\u0e14\u0e39\u0e41\u0e25\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e14\u0e35 (To Hold You)",
       "url": "https://open.spotify.com/track/1ZQlJDvEcuzJfZiA0LP43m"
@@ -22278,7 +22354,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 221828,
       "name": "\u0e1b\u0e31\u0e01\u0e40\u0e21\u0e19\u0e41\u0e1f\u0e19 (I STAN YOU) - From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19",
       "url": "https://open.spotify.com/track/2fSEAfvpGg4drnweGfCMQu"
@@ -22462,6 +22538,24 @@
       "duration_ms": 202105,
       "name": "\u0e23\u0e31\u0e01\u0e43\u0e2b\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e14\u0e49\u0e23\u0e39\u0e49 (Proof.)",
       "url": "https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27\u0e41\u0e25\u0e49\u0e27\u0e42\u0e27\u0e49\u0e22",
+        "url": "https://open.spotify.com/album/2KDfXhJNr2E5V1ckYFLS3G"
+      },
+      "artists": [
+        {
+          "name": "JOEY PHUWASIT",
+          "url": "https://open.spotify.com/artist/5RQZVhw9dwZYc10QQfNMf1"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203714,
+      "name": "\u0e23\u0e31\u0e01\u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27\u0e41\u0e25\u0e49\u0e27\u0e42\u0e27\u0e49\u0e22",
+      "url": "https://open.spotify.com/track/0yCXxEPf1wiPn8ZgP96gbR"
     },
     {
       "album": {
@@ -22756,7 +22850,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 197063,
       "name": "\u0e2b\u0e22\u0e38\u0e14\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e2a\u0e31\u0e01\u0e1e\u0e31\u0e01\u0e40\u0e2b\u0e2d\u0e30 (Euphoria)",
       "url": "https://open.spotify.com/track/0c8sbXSIeaqwzxCvMzSfAP"
@@ -22814,6 +22908,24 @@
       "duration_ms": 239059,
       "name": "\u0e2d\u0e39\u0e49\u0e1a\u0e48\u0e08\u0e49\u0e32\u0e07",
       "url": "https://open.spotify.com/track/5RhEVajyRoOtks0txRnCke"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e01\u0e47\u0e1a\u0e21\u0e31\u0e19\u0e40\u0e2d\u0e32\u0e44\u0e27\u0e49 (Hold Your Tears)",
+        "url": "https://open.spotify.com/album/1b7dY1DWVid6ALdFNH8sXW"
+      },
+      "artists": [
+        {
+          "name": "Porch Pathaseth",
+          "url": "https://open.spotify.com/artist/4fsxA6EvDO4EElwerEM6Ve"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279438,
+      "name": "\u0e40\u0e01\u0e47\u0e1a\u0e21\u0e31\u0e19\u0e40\u0e2d\u0e32\u0e44\u0e27\u0e49 (Hold Your Tears)",
+      "url": "https://open.spotify.com/track/4FcV6jZyF3lh2Eo0TCynXK"
     },
     {
       "album": {
@@ -23042,6 +23154,24 @@
       "duration_ms": 227785,
       "name": "\u0e44\u0e14\u0e49\u0e41\u0e04\u0e48\u0e40\u0e14\u0e34\u0e19\u0e21\u0e32\u0e2a\u0e48\u0e07 (The Last Walk)",
       "url": "https://open.spotify.com/track/1FhxX1Su9kwKFEqM4qqEJ6"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 (Behind The Smile)",
+        "url": "https://open.spotify.com/album/2BMwfH1ir5dF3qLYHDny7x"
+      },
+      "artists": [
+        {
+          "name": "JustmineNika",
+          "url": "https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206341,
+      "name": "\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48 (Behind The Smile)",
+      "url": "https://open.spotify.com/track/4IOSkK06qTipVlQ5ELv6hY"
     },
     {
       "album": {

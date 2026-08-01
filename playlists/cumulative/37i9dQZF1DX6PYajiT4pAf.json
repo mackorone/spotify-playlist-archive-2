@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-11",
-  "description": "Abraham Mateo con Mar\u00eda Becerra, KAROL G, Juan Mag\u00e1n, Beny Jr y el resto de novedades de la semana.",
+  "description": "Abraham Mateo con Mar\u00eda Becerra, KAROL G, Ariana Grande, Juan Mag\u00e1n, Beny Jr y el resto de novedades de la semana.",
   "name": "Novedades Viernes Espa\u00f1a",
   "tracks": [
     {
@@ -5037,6 +5037,24 @@
     },
     {
       "album": {
+        "name": "AH HA",
+        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175866,
+      "name": "AH HA",
+      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
+    },
+    {
+      "album": {
         "name": "El Acabose/Ah! Ah! Ah!",
         "url": "https://open.spotify.com/album/5NGL9X3A5pkuTqezrMoatB"
       },
@@ -5212,6 +5230,24 @@
       "duration_ms": 141176,
       "name": "ahora s\u00e9",
       "url": "https://open.spotify.com/track/7gHFaLsSILoyG3NuDt81n1"
+    },
+    {
+      "album": {
+        "name": "E.G LAND",
+        "url": "https://open.spotify.com/album/680k7nnhXq5Jp06fj5HCpV"
+      },
+      "artists": [
+        {
+          "name": "Alu",
+          "url": "https://open.spotify.com/artist/71dh3xf8unpaMDtik7HTKm"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132380,
+      "name": "AH\u00cd",
+      "url": "https://open.spotify.com/track/3w2jZ5NVvXk6UC9ZQNPzRb"
     },
     {
       "album": {
@@ -59503,6 +59539,24 @@
     },
     {
       "album": {
+        "name": "Who Could Not Be Broken",
+        "url": "https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "date_added": "2026-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161506,
+      "name": "Lady In the GPS",
+      "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
+    },
+    {
+      "album": {
         "name": "LALA",
         "url": "https://open.spotify.com/album/3Eb3plzfCwa8g8Em8bL3Sh"
       },
@@ -88379,6 +88433,24 @@
     },
     {
       "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+    },
+    {
+      "album": {
         "name": "phill collinX",
         "url": "https://open.spotify.com/album/5DFV7IU0SZuGPE2dbUqNDX"
       },
@@ -115088,24 +115160,6 @@
       "duration_ms": 191944,
       "name": "track 1",
       "url": "https://open.spotify.com/track/7yMOTDtSpeg6maMYYvy046"
-    },
-    {
-      "album": {
-        "name": "Who Could Not Be Broken",
-        "url": "https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il"
-      },
-      "artists": [
-        {
-          "name": "Dominique Way",
-          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
-        }
-      ],
-      "date_added": "2026-07-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv"
     },
     {
       "album": {

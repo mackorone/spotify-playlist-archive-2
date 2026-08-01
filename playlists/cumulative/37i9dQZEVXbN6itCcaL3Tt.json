@@ -22144,7 +22144,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 160601,
       "name": "HOT GIRL SUMMER",
       "url": "https://open.spotify.com/track/5p7wzpasI6uYdGJP7CUYQf"
@@ -35722,7 +35722,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 229444,
       "name": "na b\u0142ysk",
       "url": "https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS"
@@ -38451,6 +38451,28 @@
     },
     {
       "album": {
+        "name": "NIEKO\u0143CZ\u0104CY Z\u0141Y SEN",
+        "url": "https://open.spotify.com/album/3ZoVsaCCDboUj0HUQlHRjd"
+      },
+      "artists": [
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        },
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "NIEKO\u0143CZ\u0104CY Z\u0141Y SEN",
+      "url": "https://open.spotify.com/track/3FdtNDLwfHRaStWQzCdXsQ"
+    },
+    {
+      "album": {
         "name": "NIENAWIDZ\u0118 BY\u0106 W KLUBIE",
         "url": "https://open.spotify.com/album/2zeFY1lBaN1pm0FIQ5sQEk"
       },
@@ -38602,7 +38624,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 129632,
       "name": "Niesko\u0144czono\u015b\u0107",
       "url": "https://open.spotify.com/track/440q1Tg7jVikYJryQHbYfv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 21,773 likes - 77 songs - 3 hr 33 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 21,770 likes - 77 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 17 | [Birthday Song](https://open.spotify.com/track/7uWQkdR0t7CtrKHH5S2l6a) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Birthday Song](https://open.spotify.com/album/220FfyTs0lG67MXFSzc1zi) | 3:09 |
 | 18 | [MR HIM](https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [MR HIM](https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK) | 2:29 |
 | 19 | [Wait for Me](https://open.spotify.com/track/4CoE0GqJxgzLV1D9jJxQZI) | [MC Abdul](https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Wait for Me](https://open.spotify.com/album/4duiGyBEuWMrNuN1IfH4u8) | 3:14 |
-| 20 | [Drink & Smoke \(feat\. E\-40 & Tyga\)](https://open.spotify.com/track/0RL0SF5KCuDeEh4LVYeiM0) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Drink & Smoke \(feat\. E\-40 & Tyga\)](https://open.spotify.com/album/3F9rnMkAumNc3tikqpSFSV) | 2:30 |
+| 20 | [Drink & Smoke \(feat\. E\-40 & Tyga\)](https://open.spotify.com/track/0RL0SF5KCuDeEh4LVYeiM0) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Drink & Smoke \(feat\. E\-40 & Tyga\)](https://open.spotify.com/album/3F9rnMkAumNc3tikqpSFSV) | 2:26 |
 | 21 | [Anything For Me](https://open.spotify.com/track/0vR9Bts2hq9tkWl4jnKIGJ) | [Berner](https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI), [Nava](https://open.spotify.com/artist/0TPUEULTT0hOla8P3NLZ7l) | [Anything For Me](https://open.spotify.com/album/6zh2sBfRLfNtklzU0e2eBs) | 2:54 |
 | 22 | [CHANGES](https://open.spotify.com/track/5qKnJc96mwaWTEz9L98Lv0) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [CHANGES](https://open.spotify.com/album/1eGZ7rDg2zkUvXDT1boMDH) | 2:44 |
 | 23 | [Charge It To The Game](https://open.spotify.com/track/56qMTbPy6yAI5sGSrFSMcU) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Charge It To The Game](https://open.spotify.com/album/5phLTnxRrroGzM4e5A1Iae) | 2:53 |

@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-353 songs - 18 hr 47 min
+354 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Seasons Change](https://open.spotify.com/track/0izNvQzx7PGkgDFRypvjjt) | [George Hart](https://open.spotify.com/artist/6OxbaDDKrLN3DgWrl4JHS6) | [Seasons Change](https://open.spotify.com/album/4yrMoHNJp03d7pe7xQsi0K) | 2:00 | 2025-05-16 |  |
 | [Shimmerlight](https://open.spotify.com/track/2v1VwEQVjJxapFMKh71liq) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [Shimmerlight](https://open.spotify.com/album/5G36D2m8UUQzpNMkmDcZUr) | 1:59 | 2025-05-23 |  |
 | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/track/32gGCtoIqSmRPmRbWUsVaw) | [Ottorino Respighi](https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Siciliana \(from "The Tree of Life", Arr\. for Piano from Antiche Danze, Suite No\. 3 by Ottorino Respighi\)](https://open.spotify.com/album/7Hk7YO67ZN4npwRLDa28Ah) | 2:54 | 2021-12-10 | 2023-01-04 |
+| [Silent Fields \- Upright Version](https://open.spotify.com/track/37HHQF6PxPmumZWsaxvtg1) | [Justus Eichhorn](https://open.spotify.com/artist/6qiCMD9orWGdxUkJXP7hqY) | [Eichhorn: Silent Fields \(Upright Version\)](https://open.spotify.com/album/7qZ6kPUGniTnP4icsbT4zr) | 2:57 | 2026-07-31 |  |
 | [Silhouette](https://open.spotify.com/track/2hwV3gqCQ0hmS8sp8vXioj) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Silhouette](https://open.spotify.com/album/04KfDPzBhw4C3iAqNJIV5A) | 2:23 | 2021-12-10 | 2023-03-15 |
 | [Sleep Spiral](https://open.spotify.com/track/3oRu4U9c9pRVQfMsvM3qcg) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Sleep Spiral](https://open.spotify.com/album/3EuaCwg2cuCbxPek2zVWJ4) | 5:40 | 2026-06-19 |  |
 | [Small Falls](https://open.spotify.com/track/3F5fg5XwKVsD01TlnMxWfr) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Cascades, Vol\. 1](https://open.spotify.com/album/4TwUJ8ch5mqjqO2J9RyXVe) | 2:32 | 2025-05-23 |  |

@@ -3578,7 +3578,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 141552,
       "name": "Damn F*ck",
       "url": "https://open.spotify.com/track/2wYKOBgsmQCVblxlkXxxyX"
@@ -5112,7 +5112,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 171176,
       "name": "Gaadi",
       "url": "https://open.spotify.com/track/4qLpyUDGIoL4nWcfZu3UAQ"
@@ -6518,6 +6518,32 @@
       "duration_ms": 154666,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/5LfzOA2KTTgwQrtQv9psbY"
+    },
+    {
+      "album": {
+        "name": "I FEEL LIKE!",
+        "url": "https://open.spotify.com/album/0nOf7vECl9H9ezD3P3Attt"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Gravity",
+          "url": "https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO"
+        },
+        {
+          "name": "Nikhil - Swapnil",
+          "url": "https://open.spotify.com/artist/7nkDVhgJreAJxinOGOWZCJ"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166128,
+      "name": "I FEEL LIKE!",
+      "url": "https://open.spotify.com/track/0Uhm8O5yRfR2IC32VAiwex"
     },
     {
       "album": {
@@ -12600,6 +12626,28 @@
       "duration_ms": 194361,
       "name": "Swad Lere",
       "url": "https://open.spotify.com/track/5ugzr0gigMbPsVw7ucU5oL"
+    },
+    {
+      "album": {
+        "name": "Sycophancy",
+        "url": "https://open.spotify.com/album/1WQl0o22TniXMIkWxAYBjH"
+      },
+      "artists": [
+        {
+          "name": "Hammy Muzic",
+          "url": "https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128734,
+      "name": "Sycophancy",
+      "url": "https://open.spotify.com/track/3xi3dyDpVnlBUPmHjKVtff"
     },
     {
       "album": {

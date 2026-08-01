@@ -4,7 +4,7 @@
 
 > This is Ma Rainey\. The essential tracks, all in one playlist.
 
-297 songs - 14 hr 56 min
+298 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Blues The World Forgot: Part 1](https://open.spotify.com/track/0Z6wPvrJQ26dQDlQU5EkhO) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD D](https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh) | 3:09 | 2023-03-13 |  |
 | [Blues The World Forgot: Part 2](https://open.spotify.com/track/19eoK3mMcheeFyMrNWgz24) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD D](https://open.spotify.com/album/1XAB9VeZFpioCCx2TqG4rh) | 3:18 | 2022-12-28 | 2026-07-29 |
 | [Bo Weavil Blues \- Take 1](https://open.spotify.com/track/3QQqYDMoAeK7Gu3yNWDIj5) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Down the Road](https://open.spotify.com/album/258UBW7CK7XSws84tj2fvO) | 2:39 | 2025-01-23 | 2025-02-11 |
+| [Bo\-Weavil Blues](https://open.spotify.com/track/4nCSymAmn2jk8L0qCwMhoc) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Mother of The Blues \- The Essentials \(Remastered\)](https://open.spotify.com/album/10DawRthpe6J8uhx3TGcDW) | 2:33 | 2026-08-01 |  |
 | [Bo\-Weavil Blues \(Take 1\)](https://open.spotify.com/track/0RAum262SZU1uF8JCye28r) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:34 | 2022-08-05 | 2026-07-03 |
 | [Booze And Blues](https://open.spotify.com/track/1SF9hCpHJ6gZ6FVz1heNA1) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 2 \(1924\-1925\)](https://open.spotify.com/album/6ihXas6BiJdZ80CnmkKB66) | 3:11 | 2022-08-05 |  |
 | [Broken Hearted Blues](https://open.spotify.com/track/1ehPXzZyqHis98Agh2byNX) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Mother Of The Blues, CD C](https://open.spotify.com/album/2yLBLBIzFDd5oZDJRnA3j8) | 2:55 | 2026-04-18 | 2026-04-19 |
@@ -90,7 +91,7 @@
 | [Down in the Basement](https://open.spotify.com/track/66FIldiEFGJPjG9UXVLsj6) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Gone Daddy Blues](https://open.spotify.com/album/4jzOHrTkPyHIAEfL9WeqX7) | 3:07 | 2025-02-12 | 2026-01-25 |
 | [Down in the Basement](https://open.spotify.com/track/6W2lAYG8V3vQaKwMDG8BbG) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Sweet Man](https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU) | 3:07 | 2026-02-26 | 2026-06-09 |
 | [Dream Blues](https://open.spotify.com/track/3E5UIXFsJUO8M73il3du5S) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Presenting Ma Rainey](https://open.spotify.com/album/6gT3PeOxGiMBGcfMC55h8y) | 2:45 | 2022-11-21 | 2024-12-19 |
-| [Dream Blues](https://open.spotify.com/track/7aj4OzROMRSbop2hvsfiqS) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:45 | 2022-08-05 |  |
+| [Dream Blues](https://open.spotify.com/track/7aj4OzROMRSbop2hvsfiqS) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Ma Rainey Vol\. 1 \(1923\-1924\)](https://open.spotify.com/album/6KmOoYEw6g6qmgdb67eI2D) | 2:45 | 2022-08-05 | 2026-08-01 |
 | [Explaining the Blues](https://open.spotify.com/track/6mlsoT68jin8jXYG9iS5DC) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [The Sweet Man](https://open.spotify.com/album/5SbSOWhd7JAuecMB9AvgSU) | 3:14 | 2026-04-06 |  |
 | [Explaining the Blues](https://open.spotify.com/track/5IaJtmugF9q7OoCIJg23r0) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Midnight Moods September Blues \- Ma Rainey's Timeless Tunes](https://open.spotify.com/album/7okARdXE6hEvITyDGisSuQ) | 3:14 | 2023-12-19 | 2026-03-02 |
 | [Explaining the Blues](https://open.spotify.com/track/0lyX9oQlgyZoAPZNF3Y87B) | [Ma Rainey](https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH) | [Essential Classics, Vol\. 687: Ma Rainey](https://open.spotify.com/album/3QusH6dhyXSPkw3ocjc154) | 3:14 | 2025-09-16 | 2026-01-15 |

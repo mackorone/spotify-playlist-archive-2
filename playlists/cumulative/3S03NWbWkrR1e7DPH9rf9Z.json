@@ -2626,7 +2626,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 179017,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/2iVNnBKIRIvl7VtA5iAZhr"
@@ -4157,6 +4157,28 @@
     },
     {
       "album": {
+        "name": "Seeking",
+        "url": "https://open.spotify.com/album/4eVT1nvn82kdbQFwNlyiFe"
+      },
+      "artists": [
+        {
+          "name": "Renaisshouse",
+          "url": "https://open.spotify.com/artist/4ioML5l9ncjdwsRnbNMoyw"
+        },
+        {
+          "name": "Maria Mathea",
+          "url": "https://open.spotify.com/artist/7nw3TslhIKWzoHZxpFYdPp"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167594,
+      "name": "Seeking",
+      "url": "https://open.spotify.com/track/29rb7fkJ0axKI1UIF4NtuL"
+    },
+    {
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/42LvHKQwNCugCjXFiEmlP4"
       },
@@ -4764,7 +4786,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-01",
       "duration_ms": 159865,
       "name": "This Time (Never Be Alone Again) - Vion Konger Remix",
       "url": "https://open.spotify.com/track/7oGoYb8ptBSUPraeKpfsbG"
@@ -5130,6 +5152,28 @@
       "duration_ms": 371544,
       "name": "Unobsidian",
       "url": "https://open.spotify.com/track/7hK5LzrcxkYFDrrWTL2La3"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/2c2tM8qDfR7ELliJ4hatPa"
+      },
+      "artists": [
+        {
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+        },
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185785,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1mbxcxfklTT0S2r4xcOKgH"
     },
     {
       "album": {

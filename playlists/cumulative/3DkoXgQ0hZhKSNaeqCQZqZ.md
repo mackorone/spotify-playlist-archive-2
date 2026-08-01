@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-572 songs - 1 day 6 hr 16 min
+575 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Constelación](https://open.spotify.com/track/3DX3fg9gd8KYBuYKPKQj4i) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Our Summer Dreams](https://open.spotify.com/album/1lBRF308MyR8tggVA9Qw6M) | 2:52 | 2026-07-17 |  |
 | [COOL](https://open.spotify.com/track/7DnQoAKAbH6iBrT2FruKvQ) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT), [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 3:31 | 2025-11-11 |  |
 | [Crazy For U](https://open.spotify.com/track/4R6Ha3buGUWh55Gc6jswsD) | [Sylvver](https://open.spotify.com/artist/6benA6onjBBMuXMxzP8HCB), [Trey Husk](https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d) | [Crazy For U](https://open.spotify.com/album/1hotKksSV4kEgIo9wyvt3M) | 2:43 | 2024-07-14 |  |
+| [Creature Feature](https://open.spotify.com/track/7eAYDLOCkAPqNDO6N40sKk) | [Strat Strat](https://open.spotify.com/artist/77pGG1bc5vcSGDrYsISCyB) | [Digital Pawprint](https://open.spotify.com/album/1zhvGGnmBC9VGJpi58SBOP) | 2:07 | 2026-07-31 |  |
 | [Creatures Of Tomorrow](https://open.spotify.com/track/712zMbj5Q5kekcq3FVGvXj) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Creatures Of Tomorrow](https://open.spotify.com/album/5mBan5jxqLzd7SLozflhan) | 2:16 | 2024-02-10 |  |
 | [CREDIT CARD](https://open.spotify.com/track/5P1LnQvlvZmhWvdieCyMoO) | [passengerprincess](https://open.spotify.com/artist/1q6wY1iLFFyx75yoKiemZ3) | [PASSENGERPRINCESS](https://open.spotify.com/album/6Sm7ZO5A4G1gVWqUJXeut9) | 3:20 | 2025-11-17 |  |
 | [creeping up the neck 2 fast](https://open.spotify.com/track/6J4JQq30CCd4rygtxzvkoq) | [coyote2](https://open.spotify.com/artist/4Z7lH9tao4LFolgvY9GrIX) | [PAYDAY](https://open.spotify.com/album/7DBDDEEBeZimthRql76K90) | 2:53 | 2025-01-25 |  |
@@ -184,6 +185,7 @@
 | [Fly Away \- 2024 Remaster](https://open.spotify.com/track/5hyr4avaVh2OZLG7DPGhGk) | [OSVLD](https://open.spotify.com/artist/5sEPLBlT091Kqqt58rCqlM), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Fly Away \(2024 Remaster\)](https://open.spotify.com/album/7y2pnziJyQTHkr10J2zy8G) | 3:51 | 2024-02-09 | 2026-03-01 |
 | [FLY WITH ME](https://open.spotify.com/track/1rHTshEmjoQ1GBoQfXEXIQ) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4), [MANEDBENTO!](https://open.spotify.com/artist/3Tls1YrzO8LhdZjaG32MyH) | [FLY WITH ME](https://open.spotify.com/album/6sK9SWuKTDP0zyz9ZcKV8E) | 4:09 | 2026-05-30 |  |
 | [FOOL FOR YOU](https://open.spotify.com/track/4NEkuzx5DgSNL7buwNsvCi) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:05 | 2025-02-03 |  |
+| [forget about it!](https://open.spotify.com/track/1vW0igVORX0r1xfASD8Wq0) | [mayflowers](https://open.spotify.com/artist/1Jf3zM4mXnEaIktE4xMb4z) | [forget about it!](https://open.spotify.com/album/79D09fZELy7ldFcC2oxGt8) | 2:04 | 2026-07-31 |  |
 | [Four on the Floor \(Find You\)](https://open.spotify.com/track/3AgA6iKpyh9P3ozPnDYCh5) | [Friends Without Faces](https://open.spotify.com/artist/2rBIhSqg9o2UCJizO5r3on) | [Four on the Floor \(Find You\)](https://open.spotify.com/album/0hI2u6PJpcPV7ryd8lcEaf) | 4:19 | 2025-08-01 |  |
 | [Fox Boy](https://open.spotify.com/track/6Znko1vwkXU7ebLmQ0Nl4E) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Fox Boy](https://open.spotify.com/album/68m9JFPkoH54ntMsCh2niB) | 4:00 | 2023-06-14 | 2026-03-01 |
 | [Fratricide](https://open.spotify.com/track/7a6Q9vKtA9oPU08XZSOGR9) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [Fratricide](https://open.spotify.com/album/6yzq6H3QI7ylehs1yZ4z3G) | 3:40 | 2023-08-07 | 2026-03-01 |
@@ -284,6 +286,7 @@
 | [LETMEGO](https://open.spotify.com/track/5m61G9851cDaXlwvTvX5es) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 4:24 | 2025-11-11 |  |
 | [liar, liar](https://open.spotify.com/track/65fE7bg2WdZZAxHt4A8JEn) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS), [Pent Up Pup](https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy) | [set fire to the world](https://open.spotify.com/album/4g4nM95APkdGw3EzqOyLEK) | 4:17 | 2025-05-10 |  |
 | [LIFE](https://open.spotify.com/track/23Hhl3U1b2FxRMc2zo6IR8) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU), [Filterocity](https://open.spotify.com/artist/3raEjNj1yydwtfhnkJ9PkJ), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu), [Nat James](https://open.spotify.com/artist/3OyUmeS7InBZFjCduVVhGa) | [EQUINOX](https://open.spotify.com/album/2HcUhzatJKAn13ejeI1idU) | 3:37 | 2024-02-09 | 2026-03-01 |
+| [Light Shines on You](https://open.spotify.com/track/4fCfWY8suCaLrTq7rhZpbj) | [Ian Martyn](https://open.spotify.com/artist/2Cr72BRpUOdDM2Bt3YCmvB) | [Light Shines on You](https://open.spotify.com/album/7mPSyGNxdwWrIcQxEysaDx) | 2:01 | 2026-07-31 |  |
 | [LIKE ME](https://open.spotify.com/track/2uYdrY16TWXQl8fflVHEHf) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [LIKE ME](https://open.spotify.com/album/2jUiht1H8BaASTN3NzxObc) | 2:23 | 2025-09-15 |  |
 | [likeadrug](https://open.spotify.com/track/1fAVjBTYJqIt3EyYGsVH3h) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 2:37 | 2025-02-03 |  |
 | [lil boy](https://open.spotify.com/track/3SjZZQa6pY3IuZZSCvL6lF) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [ONLY US, NEVER THEM](https://open.spotify.com/album/78el29q9QSnJThg9k5NKfY) | 2:15 | 2025-01-25 |  |

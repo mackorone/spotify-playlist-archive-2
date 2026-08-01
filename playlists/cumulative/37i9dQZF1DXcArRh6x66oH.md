@@ -4,7 +4,7 @@
 
 > roots run deep with Charles Wesley Godwin
 
-490 songs - 1 day 5 hr 21 min
+492 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Happy Ever After You](https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Jake Etheridge](https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f), [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Happy Ever After You](https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v) | 3:17 | 2025-05-02 | 2026-03-07 |
 | [Happy Face](https://open.spotify.com/track/7KvZLaYFqBqoADTelAsWWO) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Happy Face](https://open.spotify.com/album/3WkZ84AAJDPimDKV1FH3pI) | 3:22 | 2024-09-30 |  |
 | [Hard to Break](https://open.spotify.com/track/5Ywd3oSAfHXKQQTmdf1QNJ) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Hard to Break](https://open.spotify.com/album/0qQbvW3F0E7sb6MSQ1en6t) | 3:21 | 2025-09-26 |  |
+| [Hardwired \(feat\. Miranda Lambert\)](https://open.spotify.com/track/6A297r5nVjE6eXGI6h00SL) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Hardwired](https://open.spotify.com/album/7fDNpo4jPuAmeSN7j8OYPB) | 4:51 | 2026-07-31 |  |
 | [Hardwood Floors](https://open.spotify.com/track/7BAb0MMi9vrX68buZqzyLa) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Seneca](https://open.spotify.com/album/0FazkbocfVJ5apOEfeCUsE) | 4:00 | 2024-01-31 |  |
 | [Hardwood Floors](https://open.spotify.com/track/7ombTZVkZmszWGo4QX4nSo) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Seneca](https://open.spotify.com/album/4jvlMjz329DXzWF9XtELvu) | 4:00 | 2026-05-01 | 2026-06-27 |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2023-02-24 |  |
@@ -265,6 +266,7 @@
 | [Love Go By](https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:42 | 2023-02-24 | 2023-10-01 |
 | [Love Me Like You Used To Do \[Feat\. Tyler Childers\]](https://open.spotify.com/track/28520OoA1qXG46koPHUcSG) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Hard Headed Woman](https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw) | 4:27 | 2025-08-29 |  |
 | [Luck Of The Draw](https://open.spotify.com/track/6vnFpGFCO7HrNXdVS9e7Gm) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Luck Of The Draw](https://open.spotify.com/album/6bIP0hCv4QksogNB0UOira) | 3:23 | 2025-09-05 |  |
+| [Luckiest Man Alive](https://open.spotify.com/track/5AcdBSjv5W43KklHLDpNTH) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Luckiest Man Alive](https://open.spotify.com/album/7JQee4B0Etas2uzPTAUCkA) | 3:44 | 2026-07-31 |  |
 | [Mad Man](https://open.spotify.com/track/1i1GjxicCX9W9tBWwbFve5) | [Eddie Flint](https://open.spotify.com/artist/1OiaW9PZCUJlkINotRihrA) | [Mad Man](https://open.spotify.com/album/5qvuzIfBRmQP8XTi0jQWmR) | 2:52 | 2023-09-01 |  |
 | [Made To Love Someone](https://open.spotify.com/track/4Bbk6rpr4SWdt82cG8XN40) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Made To Love Someone](https://open.spotify.com/album/1ZBWR128wYVIWFDmNvwF3i) | 3:06 | 2024-02-09 | 2024-07-11 |
 | [Madeline](https://open.spotify.com/track/7IW0YwaqaIJUTkCsayk4cs) | [Sons of Habit](https://open.spotify.com/artist/6EsM0fBuu5p6VelTICKGcp) | [Madeline](https://open.spotify.com/album/0CSkndwqaDGbN4LOs6Ws2a) | 3:54 | 2025-01-02 |  |

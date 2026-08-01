@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amlCgAAAAADiW6h2gDmXsQFMSlwOkdRg",
+  "snapshot_id": "amqUAAAAAABOf4VuGJxjcO2N4/S2tkGS",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mystical Magical",
-        "url": "https://open.spotify.com/album/5NMcHAUKrAOiKlQK92iNNF"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Mystical Magical",
-      "url": "https://open.spotify.com/track/67pRJVVHvUijgZlorMSUMe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 53",
         "url": "https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 172299,
       "name": "A BOP Song (A Shaboozey Cover)",
       "url": "https://open.spotify.com/track/6QpyAtDgHA8AyD23PvfhPD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mystical Magical",
+        "url": "https://open.spotify.com/album/5NMcHAUKrAOiKlQK92iNNF"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Mystical Magical",
+      "url": "https://open.spotify.com/track/67pRJVVHvUijgZlorMSUMe"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summer Starts Now",
-        "url": "https://open.spotify.com/album/6rlXj0tFa7Kh7Ds4htrplK"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 137153,
-      "name": "Summer Starts Now",
-      "url": "https://open.spotify.com/track/6s7GMo261sZVIMp8n45OkP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 53",
         "url": "https://open.spotify.com/album/3bIzxAnQ3OhBfBw1x6AinI"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 213144,
       "name": "I Just Might",
       "url": "https://open.spotify.com/track/3bsecwjX5nHQQE21IQWyR0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summer Starts Now",
+        "url": "https://open.spotify.com/album/6rlXj0tFa7Kh7Ds4htrplK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 137153,
+      "name": "Summer Starts Now",
+      "url": "https://open.spotify.com/track/6s7GMo261sZVIMp8n45OkP"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Your Birthday",
-        "url": "https://open.spotify.com/album/0AVmHjzjkGDtdFVdIdkWLK"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 142942,
-      "name": "It's Your Birthday",
-      "url": "https://open.spotify.com/track/1UQVfVu1RhF1kw6i1blrNe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 50",
         "url": "https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 185729,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/0a7VMpyzpvpfCIboJbDKKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Your Birthday",
+        "url": "https://open.spotify.com/album/0AVmHjzjkGDtdFVdIdkWLK"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 142942,
+      "name": "It's Your Birthday",
+      "url": "https://open.spotify.com/track/1UQVfVu1RhF1kw6i1blrNe"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/276YxoQg03LTpIUBlvkC3A"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 151540,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/2KQwdAlSxTC8QHEU94s76F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP Megapop",
         "url": "https://open.spotify.com/album/2YYMDIHQoKH1MMpTeJ79UW"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 185200,
       "name": "HandClap",
       "url": "https://open.spotify.com/track/3YyTZEQ17P1arrbdBoClRx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/276YxoQg03LTpIUBlvkC3A"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 151540,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/2KQwdAlSxTC8QHEU94s76F"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 50",
-        "url": "https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 156090,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/4kpk6h4xaIyn0lirxGioYs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP All-Time Greatest Hits",
         "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 208685,
       "name": "Happy",
       "url": "https://open.spotify.com/track/68u35YatxAQS8axAC0e3Z4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 50",
+        "url": "https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 150695,
+      "name": "Certified BOP",
+      "url": "https://open.spotify.com/track/641ANdwXeeUu6QLkgXqGb3"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP 50",
-        "url": "https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 150695,
-      "name": "Certified BOP",
-      "url": "https://open.spotify.com/track/641ANdwXeeUu6QLkgXqGb3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 2024",
         "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 179869,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/5aiYuJEhpR2tyybd99vPGw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP 50",
+        "url": "https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 156090,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/4kpk6h4xaIyn0lirxGioYs"
     },
     {
       "added_at": null,

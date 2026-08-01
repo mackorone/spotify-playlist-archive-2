@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: SeinsSucrer",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: De Lafe",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -2831,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "L'impr\u00e9visible",
+        "url": "https://open.spotify.com/album/1XQgdAAQ9Glh4WpAm5BEpE"
+      },
+      "artists": [
+        {
+          "name": "De Lafe",
+          "url": "https://open.spotify.com/artist/221QAcwcTRrYBFnlCHQ9G1"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158355,
+      "name": "Belles choses",
+      "url": "https://open.spotify.com/track/7GmH8W71OUqdE2mMPhVDpI"
+    },
+    {
+      "album": {
         "name": "Ben 10",
         "url": "https://open.spotify.com/album/03HGNS80T6JcVYZiRtMm2y"
       },
@@ -2930,6 +2948,24 @@
       "duration_ms": 197333,
       "name": "Beriz",
       "url": "https://open.spotify.com/track/2taeWDYU3KPjlxvSy7nSVH"
+    },
+    {
+      "album": {
+        "name": "beurre",
+        "url": "https://open.spotify.com/album/7ygiqmnn0RWB0ygRTUgvGL"
+      },
+      "artists": [
+        {
+          "name": "GabFreakyPie",
+          "url": "https://open.spotify.com/artist/2YEFQTXVGZSspfPFeFiDrl"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110692,
+      "name": "beurre",
+      "url": "https://open.spotify.com/track/5weC5U0EkQTnauGQgGMdeU"
     },
     {
       "album": {
@@ -7154,6 +7190,28 @@
       "duration_ms": 262791,
       "name": "Discours Graphique",
       "url": "https://open.spotify.com/track/1dGQThBkwwwW3a0REvcV9y"
+    },
+    {
+      "album": {
+        "name": "Disque D'or",
+        "url": "https://open.spotify.com/album/7vLP5rnSMQj5JhvjioSYbr"
+      },
+      "artists": [
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        },
+        {
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195086,
+      "name": "Disque D'or",
+      "url": "https://open.spotify.com/track/5ey3Qurq3BSx0hfhkLRjo9"
     },
     {
       "album": {
@@ -15564,6 +15622,24 @@
     {
       "album": {
         "name": "Mode de vie",
+        "url": "https://open.spotify.com/album/2H7AvD9RFF4H38pesGUDAa"
+      },
+      "artists": [
+        {
+          "name": "Bendy",
+          "url": "https://open.spotify.com/artist/10S2TlaBa1Ku68UITZg0ZY"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Mode de vie",
+      "url": "https://open.spotify.com/track/3Jz6rY5JVeh7l2tNbILAzm"
+    },
+    {
+      "album": {
+        "name": "Mode de vie",
         "url": "https://open.spotify.com/album/56mNsqZxNamBAllH4zmMoL"
       },
       "artists": [
@@ -20989,6 +21065,24 @@
     },
     {
       "album": {
+        "name": "Rouge Nocturne Op.1 No.12",
+        "url": "https://open.spotify.com/album/5AP9QHEEX3J4RQabtYfE15"
+      },
+      "artists": [
+        {
+          "name": "LE KROCK MORT",
+          "url": "https://open.spotify.com/artist/0GpG19YOyuZFHTbx3IwS9n"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183757,
+      "name": "Rouge Nocturne Op.1 No.12",
+      "url": "https://open.spotify.com/track/4tlh61vKmjPR1MYn2D92op"
+    },
+    {
+      "album": {
         "name": "Rouge Nocturne Op.1 No.8",
         "url": "https://open.spotify.com/album/2OJDxumaAiBQkIVKjjUFzc"
       },
@@ -22208,6 +22302,28 @@
       "duration_ms": 178075,
       "name": "Smoothie aux bleuets",
       "url": "https://open.spotify.com/track/6EWPlzxSNjswZzV3PPeN4H"
+    },
+    {
+      "album": {
+        "name": "SNAKES",
+        "url": "https://open.spotify.com/album/1bRtUi7SnGuVIuZKkU73Ve"
+      },
+      "artists": [
+        {
+          "name": "Brayden",
+          "url": "https://open.spotify.com/artist/0A7yFF4dpVIW3M7w4V1ylZ"
+        },
+        {
+          "name": "Misa",
+          "url": "https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156477,
+      "name": "SNAKES",
+      "url": "https://open.spotify.com/track/0DIV0ykuV9lPlznikqP3vu"
     },
     {
       "album": {
@@ -25530,6 +25646,28 @@
       "duration_ms": 154689,
       "name": "ZIP",
       "url": "https://open.spotify.com/track/7CB0hUjOnkftS5NSNh9bgc"
+    },
+    {
+      "album": {
+        "name": "Zizou",
+        "url": "https://open.spotify.com/album/6cVeWJqnfuEpHlGJCHDU4G"
+      },
+      "artists": [
+        {
+          "name": "S\u2019tano",
+          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
+        },
+        {
+          "name": "DODOZ",
+          "url": "https://open.spotify.com/artist/0sbr6QCzSofwuoVyLSURqn"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "Zizou",
+      "url": "https://open.spotify.com/track/1L0ReG0kmjMfBZHAKz6Kok"
     },
     {
       "album": {
