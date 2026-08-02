@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,375 likes - 48 songs - 2 hr 43 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,375 likes - 49 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 46 | [HURT YA KNEES](https://open.spotify.com/track/7wS0EDF6wPN8Nv0h7jo4Y5) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [KEEP CLIMBING / HURT YA KNEES](https://open.spotify.com/album/3K8IegnkN5EoTntFiDZnJI) | 2:41 |
 | 47 | [RUN](https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [RUN](https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN) | 3:00 |
 | 48 | [Need U](https://open.spotify.com/track/3j0R42BjneWzl2LKg6Fa6H) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT), [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Need U](https://open.spotify.com/album/1D0jl9BsqqD962AhOaP1YG) | 3:26 |
+| 49 | [X2C](https://open.spotify.com/track/4w6tMkhXUsVyi7kgIo5uG1) | [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [X2C](https://open.spotify.com/album/26vCQZzq5JbOU9pJ1Ujw6e) | 2:11 |
 
-Snapshot ID: `AAArSYGttiD1Q4sMNTC64PCudx0RK2yM`
+Snapshot ID: `AAArSt4AHiSM7F//hni7468Fd6T+m750`

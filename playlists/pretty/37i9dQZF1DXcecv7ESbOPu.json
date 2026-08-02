@@ -1,6 +1,6 @@
 {
   "description": "\u00c4ntligen fredag och ny musik fr\u00e5n Robyn, Zara Larsson och Swedish House Mafia med flera. Happy New Music Friday!",
-  "num_followers": 235281,
+  "num_followers": 235280,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
@@ -122,6 +122,10 @@
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
         }
       ],
       "duration_ms": 170576,
@@ -452,12 +456,12 @@
       },
       "artists": [
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
           "name": "HILLARI",
           "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         },
         {
           "name": "Taylor Hill",

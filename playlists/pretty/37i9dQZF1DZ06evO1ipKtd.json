@@ -1,12 +1,12 @@
 {
   "description": "This is Nala Sinephro. The essential tracks, all in one playlist.",
-  "num_followers": 1181,
+  "num_followers": 1180,
   "original_name": "This Is Nala Sinephro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAAAajUDGhSvsPfJ80PgABhhk",
+  "snapshot_id": "amvlgAAAAACtFxoAy803BZDL2+6PLZ8P",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 101298,
-      "name": "Space 7",
-      "url": "https://open.spotify.com/track/0SMKIx5AuEskIFMzZgZNIV"
+      "duration_ms": 294000,
+      "name": "Space 2",
+      "url": "https://open.spotify.com/track/3I6J7zLXCGDwqm0PaNKqWI"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 294000,
-      "name": "Space 2",
-      "url": "https://open.spotify.com/track/3I6J7zLXCGDwqm0PaNKqWI"
+      "duration_ms": 101298,
+      "name": "Space 7",
+      "url": "https://open.spotify.com/track/0SMKIx5AuEskIFMzZgZNIV"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 240277,
-      "name": "Space 5",
-      "url": "https://open.spotify.com/track/5qQiAyGH1zJtCwPDRvs1wa"
+      "duration_ms": 379762,
+      "name": "Space 4",
+      "url": "https://open.spotify.com/track/11lcWjr6YXEH0EOCcU7Pfp"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 379762,
-      "name": "Space 4",
-      "url": "https://open.spotify.com/track/11lcWjr6YXEH0EOCcU7Pfp"
+      "duration_ms": 240277,
+      "name": "Space 5",
+      "url": "https://open.spotify.com/track/5qQiAyGH1zJtCwPDRvs1wa"
     },
     {
       "added_at": null,

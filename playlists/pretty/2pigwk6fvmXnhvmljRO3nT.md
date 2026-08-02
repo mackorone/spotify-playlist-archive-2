@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,560 songs - 21 day 18 hr 43 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,567 songs - 21 day 19 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8568,5 +8568,12 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8558 | [TAILWIND](https://open.spotify.com/track/2piPdZv1ywlaafsuof86SJ) | [マチカネタンホイザ \(CV\. 遠野ひかる\)](https://open.spotify.com/artist/7bKVAvNkJouXc3d2yiLVat) | [『ウマ娘 プリティーダービー』WINNING LIVE 13](https://open.spotify.com/album/3254gGtN9czQMevOm1q1RG) | 3:30 |
 | 8559 | [Destroy for Dasein](https://open.spotify.com/track/2KvTQFKGgnMwqJT3E5mhPl) | [タニノギムレット \(CV\. 松岡美里\)](https://open.spotify.com/artist/5y8hEKD7bCEYSrNpCmQj1o) | [『ウマ娘 プリティーダービー』WINNING LIVE 10](https://open.spotify.com/album/586dnckPDQPtNjX4vWHvjU) | 3:51 |
 | 8560 | [僕らの帰り道](https://open.spotify.com/track/1op5wiTJuyQXYU3xmc6OrG) | [ダンツフレーム \(CV\. 福嶋晴菜\)](https://open.spotify.com/artist/5JDqHgIITBJLbfNvbWJRHb), [ケイエスミラクル \(CV\. 佐藤日向\)](https://open.spotify.com/artist/2yntrMiVb5bFnke8jd1riz), [ヒシミラクル \(CV\. 春日さくら\)](https://open.spotify.com/artist/3OqQEYJO94rZPvJ7TpQYvk), [カルストンライトオ \(CV\. 望月ゆみこ\)](https://open.spotify.com/artist/5EstzXGj9fUBKmtPjKmuLS), [デュランダル \(CV\. 野木 奏\)](https://open.spotify.com/artist/203s2JklHE6lXGNEzNXA9W) | [『ウマ娘 プリティーダービー』WINNING LIVE 30](https://open.spotify.com/album/3Ly9Gu65FalbKxABAnhzya) | 3:37 |
+| 8561 | [Freaking Out the Neighborhood](https://open.spotify.com/track/17L0mSvHatVjgTgBxfmyjf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/21dQQ64FJmgc0zTBUpk1Mb) | 2:53 |
+| 8562 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
+| 8563 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 |
+| 8564 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 |
+| 8565 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 |
+| 8566 | [Fluorescent Adolescent](https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 2:53 |
+| 8567 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 |
 
-Snapshot ID: `AAAMixxU5Wh8dezCsNXrpwkV3BZNCysD`
+Snapshot ID: `AAAMj0otfs0L5HHgssHBc6jbqwcXeyTC`

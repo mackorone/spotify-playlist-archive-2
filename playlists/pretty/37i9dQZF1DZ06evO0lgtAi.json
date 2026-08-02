@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 35733,
+  "num_followers": 35740,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAACw5FCqflRmzNGDJq5WyjQE",
+  "snapshot_id": "amvlgAAAAADp6ASOjVIcszsdou0v1etu",
   "tracks": [
     {
       "added_at": null,
@@ -762,6 +762,10 @@
         {
           "name": "Tainy",
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Daiki Tsuneta",
+          "url": "https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z"
         }
       ],
       "duration_ms": 220361,

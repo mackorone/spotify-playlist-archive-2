@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 406865,
+  "num_followers": 406917,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
-      },
-      "artists": [
-        {
-          "name": "Jean Schultheis",
-          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
-        }
-      ],
-      "duration_ms": 286533,
-      "name": "Confidence pour confidence - Version originale 1981",
-      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
-    },
-    {
-      "added_at": "2026-05-19 09:20:45",
-      "album": {
         "name": "Incontournable Gold",
         "url": "https://open.spotify.com/album/0RPMT9OFkLNQMUjCxhlTlR"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 231410,
       "name": "Les d\u00e9mons de minuit",
       "url": "https://open.spotify.com/track/2ne2QYNb5DjByvKPOtzQaM"
+    },
+    {
+      "added_at": "2026-05-19 09:20:45",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
+      },
+      "artists": [
+        {
+          "name": "Jean Schultheis",
+          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "Confidence pour confidence - Version originale 1981",
+      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
     },
     {
       "added_at": "2026-05-19 09:20:45",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
-        "name": "Mistral gagnant",
-        "url": "https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb"
-      },
-      "artists": [
-        {
-          "name": "Renaud",
-          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
-        }
-      ],
-      "duration_ms": 255026,
-      "name": "Miss Maggie",
-      "url": "https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7"
-    },
-    {
-      "added_at": "2026-05-19 09:20:45",
-      "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 236106,
       "name": "Le parking des anges",
       "url": "https://open.spotify.com/track/0gNkBJ8M4S5pKaxEJuQEI5"
+    },
+    {
+      "added_at": "2026-05-19 09:20:45",
+      "album": {
+        "name": "Mistral gagnant",
+        "url": "https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "duration_ms": 255026,
+      "name": "Miss Maggie",
+      "url": "https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7"
     },
     {
       "added_at": "2026-05-19 09:20:45",

@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 901972,
+  "num_followers": 902256,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,30 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Tristan Henry",
+          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
+        }
+      ],
+      "duration_ms": 181411,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "Silver Lines (feat. Emily Warren)",
         "url": "https://open.spotify.com/album/0cDWfAk9fRIvcdeITJmUF1"
       },
@@ -231,30 +255,6 @@
       "duration_ms": 210923,
       "name": "In This Bih'",
       "url": "https://open.spotify.com/track/4QUxlbwlSBYiaTT27A5MEj"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Tristan Henry",
-          "url": "https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T"
-        }
-      ],
-      "duration_ms": 181411,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Bad Wolf (feat. UNIIQU3)",
-        "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        },
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        }
-      ],
-      "duration_ms": 185954,
-      "name": "Bad Wolf (feat. UNIIQU3)",
-      "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Groovejet (If This Ain\u2019t Love) [not without friends Remix]",
         "url": "https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 180362,
       "name": "Groovejet (If This Ain\u2019t Love) - not without friends Remix",
       "url": "https://open.spotify.com/track/6yb14tUTLWfBStXgcQJbPV"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Bad Wolf (feat. UNIIQU3)",
+        "url": "https://open.spotify.com/album/2WKNLWyEI5gKbJ5Y9itEoL"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 185954,
+      "name": "Bad Wolf (feat. UNIIQU3)",
+      "url": "https://open.spotify.com/track/4S8bYzrUHwoAsPzJWRt4QM"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -835,6 +835,30 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "Gets Like That (Jamie Jones Remix)",
+        "url": "https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        },
+        {
+          "name": "Luke Dean",
+          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Gets Like That - Jamie Jones Remix",
+      "url": "https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "Energy Crew Pt. 1",
         "url": "https://open.spotify.com/album/3pDBOAKDjXCYjLswTu6vMe"
       },
@@ -863,50 +887,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Gets Like That (Jamie Jones Remix)",
-        "url": "https://open.spotify.com/album/2pIThEiymteX1pfyoQAd3G"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        },
-        {
-          "name": "Luke Dean",
-          "url": "https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "Gets Like That - Jamie Jones Remix",
-      "url": "https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Lemme Dance",
-        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 223660,
-      "name": "Lemme Dance",
-      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Mi Combi EP",
         "url": "https://open.spotify.com/album/4eQDew4OYl7gq9cDF3yIYd"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 166874,
       "name": "Mi Combi",
       "url": "https://open.spotify.com/track/2G6AM2rmjjJcyiOvizYawc"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Lemme Dance",
+        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 223660,
+      "name": "Lemme Dance",
+      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
+      },
+      "artists": [
+        {
+          "name": "M-High",
+          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
+        }
+      ],
+      "duration_ms": 239246,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "Lets Get High",
         "url": "https://open.spotify.com/album/6qQZNrcx4UiexydAqe1jXV"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 163890,
       "name": "Watch Out Now",
       "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/6xMSHgwAfkqYJdOlwZTtsO"
-      },
-      "artists": [
-        {
-          "name": "M-High",
-          "url": "https://open.spotify.com/artist/5lNjdR9GxHHF3twNE6ayJW"
-        }
-      ],
-      "duration_ms": 239246,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/6uQvNeVRlCltMrJVPRE2I4"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 224911,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Change",
         "url": "https://open.spotify.com/album/6FQyEwC5gvhsAikyLBBuzs"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 207764,
       "name": "Change",
       "url": "https://open.spotify.com/track/6ORHa9jA7SGhtAZXhqrvpk"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 224911,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1231,42 +1231,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Too Bright",
-        "url": "https://open.spotify.com/album/6PjvdJpbSe7iBxkN3bNm6m"
-      },
-      "artists": [
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        },
-        {
-          "name": "WELKER",
-          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
-        }
-      ],
-      "duration_ms": 213977,
-      "name": "Too Bright",
-      "url": "https://open.spotify.com/track/3nP5ePIrZh1AUQ1mj6Thxd"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Bad Bara",
-        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        }
-      ],
-      "duration_ms": 245571,
-      "name": "Bad Bara",
-      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Energy Crew Pt. 2",
         "url": "https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ"
       },
@@ -1283,6 +1247,26 @@
       "duration_ms": 194198,
       "name": "Dream or Fantasy",
       "url": "https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Too Bright",
+        "url": "https://open.spotify.com/album/6PjvdJpbSe7iBxkN3bNm6m"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        },
+        {
+          "name": "WELKER",
+          "url": "https://open.spotify.com/artist/2cKII1nypeEZZ1JsRSPs3t"
+        }
+      ],
+      "duration_ms": 213977,
+      "name": "Too Bright",
+      "url": "https://open.spotify.com/track/3nP5ePIrZh1AUQ1mj6Thxd"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "make your move",
-        "url": "https://open.spotify.com/album/6oRqzKDM33wGQqY2XZLUmV"
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
       },
       "artists": [
         {
-          "name": "Azzecca",
-          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
         }
       ],
-      "duration_ms": 221439,
-      "name": "make your move",
-      "url": "https://open.spotify.com/track/5DLDirJKT4feWxCH686VM1"
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1335,6 +1319,22 @@
       "duration_ms": 160029,
       "name": "Girl On The Beat",
       "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "make your move",
+        "url": "https://open.spotify.com/album/6oRqzKDM33wGQqY2XZLUmV"
+      },
+      "artists": [
+        {
+          "name": "Azzecca",
+          "url": "https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj"
+        }
+      ],
+      "duration_ms": 221439,
+      "name": "make your move",
+      "url": "https://open.spotify.com/track/5DLDirJKT4feWxCH686VM1"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "nothin lasts 4ever",
+        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "nothin lasts 4ever",
+      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "I See You Baby (feat. Gramma Funk) [DJ BORING Remix]",
         "url": "https://open.spotify.com/album/1bovzlu16XzLE6WbV2nHKS"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 336567,
       "name": "I See You Baby (feat. Gramma Funk) - DJ BORING Remix",
       "url": "https://open.spotify.com/track/3RaOSNfKdHUMfrbBpzcnJ6"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "nothin lasts 4ever",
-        "url": "https://open.spotify.com/album/28KXehF6hOt3iYjCxVPr0o"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "nothin lasts 4ever",
-      "url": "https://open.spotify.com/track/1uriDwfQjwE54CXc14xkSo"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "Soul Makossa",
+        "url": "https://open.spotify.com/album/30wwWuPe6wVYs4kqL7pccX"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "duration_ms": 237084,
+      "name": "Soul Makossa",
+      "url": "https://open.spotify.com/track/6bsqMYkD6nKaC0Z7tv17R5"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "And When Love Speaks",
         "url": "https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb"
       },
@@ -1535,42 +1551,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Soul Makossa",
-        "url": "https://open.spotify.com/album/30wwWuPe6wVYs4kqL7pccX"
-      },
-      "artists": [
-        {
-          "name": "Mel\u00e9",
-          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
-        }
-      ],
-      "duration_ms": 237084,
-      "name": "Soul Makossa",
-      "url": "https://open.spotify.com/track/6bsqMYkD6nKaC0Z7tv17R5"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "CircoLoco",
-        "url": "https://open.spotify.com/album/1tJaK909K2B286fMfOwQ6G"
-      },
-      "artists": [
-        {
-          "name": "Seth Troxler",
-          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
-        },
-        {
-          "name": "Luna",
-          "url": "https://open.spotify.com/artist/0SpjJZehdlLB7qMJL86E35"
-        }
-      ],
-      "duration_ms": 239485,
-      "name": "CircoLoco - Radio Edit",
-      "url": "https://open.spotify.com/track/6LAVS3IzKkS5Mi7IU8oycu"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "M\u00e1s Tiempo Vol. 2",
         "url": "https://open.spotify.com/album/60CFP8wv84lLr2QHBbaraA"
       },
@@ -1603,6 +1583,26 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
+        "name": "CircoLoco",
+        "url": "https://open.spotify.com/album/1tJaK909K2B286fMfOwQ6G"
+      },
+      "artists": [
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/0SpjJZehdlLB7qMJL86E35"
+        }
+      ],
+      "duration_ms": 239485,
+      "name": "CircoLoco - Radio Edit",
+      "url": "https://open.spotify.com/track/6LAVS3IzKkS5Mi7IU8oycu"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
         "name": "Blowin' Up The Spot",
         "url": "https://open.spotify.com/album/5xs0rOd6NzcSUe5GDuEpnW"
       },
@@ -1631,6 +1631,22 @@
       "duration_ms": 166073,
       "name": "Lease Of Life",
       "url": "https://open.spotify.com/track/2nFQ3j6z1ktegvAU4xdWyZ"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Steppin' In EP",
+        "url": "https://open.spotify.com/album/2V6SgJ13E9AFhpy1C6N06o"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        }
+      ],
+      "duration_ms": 165382,
+      "name": "Steppin' In",
+      "url": "https://open.spotify.com/track/17hXD675xObMcH0h6aIpHA"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1691,22 +1707,6 @@
       "duration_ms": 196511,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/1ALvTgxMMuWG1ZtxDWM0Lb"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
-        "name": "Steppin' In EP",
-        "url": "https://open.spotify.com/album/2V6SgJ13E9AFhpy1C6N06o"
-      },
-      "artists": [
-        {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        }
-      ],
-      "duration_ms": 165382,
-      "name": "Steppin' In",
-      "url": "https://open.spotify.com/track/17hXD675xObMcH0h6aIpHA"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Talking Nonsense",
-        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
-      },
-      "artists": [
-        {
-          "name": "Soul Mass Transit System",
-          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
-        }
-      ],
-      "duration_ms": 339663,
-      "name": "Talking Nonsense",
-      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
-    },
-    {
-      "added_at": "2026-07-23 23:00:38",
-      "album": {
         "name": "Cash On Cash",
         "url": "https://open.spotify.com/album/5xyl70wiAv4AAtWYmNheQW"
       },
@@ -1839,18 +1823,18 @@
     {
       "added_at": "2026-07-23 23:00:38",
       "album": {
-        "name": "Nexus 002",
-        "url": "https://open.spotify.com/album/7A48CH1fN5LVSAvh9yyVTV"
+        "name": "Talking Nonsense",
+        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
       },
       "artists": [
         {
-          "name": "Greggio",
-          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+          "name": "Soul Mass Transit System",
+          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
         }
       ],
-      "duration_ms": 213769,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/44vqflfNrPLnAW1Y5B1e4c"
+      "duration_ms": 339663,
+      "name": "Talking Nonsense",
+      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
     },
     {
       "added_at": "2026-07-23 23:00:38",
@@ -1867,6 +1851,22 @@
       "duration_ms": 192383,
       "name": "Superstitious",
       "url": "https://open.spotify.com/track/7iwxJiYZb6KCcE4dq4bGI2"
+    },
+    {
+      "added_at": "2026-07-23 23:00:38",
+      "album": {
+        "name": "Nexus 002",
+        "url": "https://open.spotify.com/album/7A48CH1fN5LVSAvh9yyVTV"
+      },
+      "artists": [
+        {
+          "name": "Greggio",
+          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+        }
+      ],
+      "duration_ms": 213769,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/44vqflfNrPLnAW1Y5B1e4c"
     },
     {
       "added_at": "2026-07-23 23:00:38",

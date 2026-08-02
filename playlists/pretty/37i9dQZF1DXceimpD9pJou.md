@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,860 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,867 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 10 | [INTEGRIDAD](https://open.spotify.com/track/0OfuqWShZEk5i9fLU0dUUV) | [Génesis Colón](https://open.spotify.com/artist/0kMN6WLuNDVrhRH88IMCzE) | [INTEGRIDAD](https://open.spotify.com/album/5Kwt7PPK91xF6OjrDttdNV) | 12:13 |
 | 11 | [YHWH](https://open.spotify.com/track/10QllJc1so1Q0WCIJGKDlb) | [Kabed](https://open.spotify.com/artist/5SF3bDnF19ZbOnrR1l6p3g) | [YHWH](https://open.spotify.com/album/2RIMamWk4BplSzr020uEaz) | 9:55 |
 | 12 | [Agua Que Sana \- En Vivo](https://open.spotify.com/track/1eruzPYfGRz70vFZNFutVC) | [Pas Music](https://open.spotify.com/artist/3YBDkiTcXAo1f0qSms2q2h), [Hele Brenes](https://open.spotify.com/artist/5xKoXzrPVZw8oddCnCm2Wz) | [Agua Que Sana \(En Vivo\)](https://open.spotify.com/album/67KiBZ9p8zVfr1H1s2iuju) | 8:04 |
-| 13 | [CHRÍSTŌS](https://open.spotify.com/track/5jSEXTfj4KWseHmPU5saxl) | [Ivette & Ivon Lopez](https://open.spotify.com/artist/1slcGbJMZhp5sRQJLkeZJV) | [CHRÍSTŌS](https://open.spotify.com/album/2kPttknxmkECK9RdXMwlEX) | 5:36 |
+| 13 | [CHRĪSTÓS](https://open.spotify.com/track/5jSEXTfj4KWseHmPU5saxl) | [Ivette & Ivon Lopez](https://open.spotify.com/artist/1slcGbJMZhp5sRQJLkeZJV) | [CHRĪSTÓS](https://open.spotify.com/album/2kPttknxmkECK9RdXMwlEX) | 5:36 |
 | 14 | [Quiero Volver](https://open.spotify.com/track/3kcfY4Q52hJKHssooJcYDx) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8) | [Quiero Volver](https://open.spotify.com/album/1VVI842zC74Y1nqBCVNbfM) | 11:10 |
 | 15 | [Pescador de Hombres](https://open.spotify.com/track/42oVGGcfwmxOED7935exTo) | [Iossa](https://open.spotify.com/artist/2AczWWagD4DfWLfJVASu5r), [Jonatan Narváez](https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY) | [Pescador de Hombres](https://open.spotify.com/album/5ALwZTZTYgd4LEOBAe7UaH) | 5:04 |
 | 16 | [PRÓDIGO](https://open.spotify.com/track/1dmBsQpxrEXf9soCPeRoah) | [Emsy](https://open.spotify.com/artist/6WLYOmbe6S1nOe2IiL6DhR), [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [PRÓDIGO](https://open.spotify.com/album/1v9EFduo7F8IMMTnF2XCPq) | 3:15 |

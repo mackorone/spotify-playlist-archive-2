@@ -6220,6 +6220,24 @@
       "duration_ms": 144285,
       "name": "\u042d\u043a\u0437\u0430\u043c\u0435\u043d",
       "url": "https://open.spotify.com/track/1ImwPAotlsdIKGDcv0oeJ8"
+    },
+    {
+      "album": {
+        "name": "\u0411\u0440\u0430\u0442\u0441\u043a\u0438\u0439 \u0433\u0440\u0435\u0432",
+        "url": "https://open.spotify.com/album/6HwaRXcbjymjf06LAyg6de"
+      },
+      "artists": [
+        {
+          "name": "\u0440\u044d.\u043f\u0440\u044d\u0441\u0430",
+          "url": "https://open.spotify.com/artist/3enGPbRK3g0OKDzt2ojUtD"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195424,
+      "name": "\u042d\u0442\u043e \u0436\u0435 \u0440\u044d.\u043f\u0440\u044d\u0441\u0430",
+      "url": "https://open.spotify.com/track/70r0vRvAAZBzeq8p1WsgWX"
     }
   ],
   "url": "https://open.spotify.com/playlist/3uCoOqZ4KF0kp8bf8nJhPN"

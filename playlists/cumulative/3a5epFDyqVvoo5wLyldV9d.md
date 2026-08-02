@@ -4,7 +4,7 @@
 
 > 
 
-922 songs - 3 day 0 hr 23 min
+923 songs - 3 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -902,6 +902,7 @@
 | [Çayelinden Öteye/Yali Yali](https://open.spotify.com/track/6fcqnQf44Ppvc36jKd4uch) | [Neşe Karaböcek](https://open.spotify.com/artist/2LyOwgMY8RSQU5iK9rHj0B) | [Dost Bahçesi](https://open.spotify.com/album/3SAlmME2G8dReliNrcJQ45) | 2:41 | 2021-07-08 |  |
 | [Çıt Çıt Çedene](https://open.spotify.com/track/23PPS6mk4fa1z1pJ5JCxoi) | [Barış Manço](https://open.spotify.com/artist/3eVuump9qyK0YCQQo4mKbc) | [Hal Hal](https://open.spotify.com/album/2Q99eFm7S7q7ji5Kiqz6ik) | 3:55 | 2020-04-14 |  |
 | [Écoute\-moi camarade](https://open.spotify.com/track/4kckMTfGW38On1wcgSP11A) | [Mazouni](https://open.spotify.com/artist/0wfq6Qxt4GZIEgjmrXSt9k) | [Un dandy en exil \(Algérie\- France 1969\-1983\)](https://open.spotify.com/album/5nfE58QeoN1Fborapt6UCn) | 6:10 | 2023-10-30 |  |
+| [Şımarık](https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Ölürüm Sana](https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay) | 3:55 | 2026-08-01 |  |
 | [Зачарованная Моя](https://open.spotify.com/track/33BQnFK04LVjyhVEcZDgax) | [Pesniary](https://open.spotify.com/artist/4gAsHRz5ZHcuD0skMevTdK) | [Late Night Tales: Khruangbin](https://open.spotify.com/album/6G9fIqCsV0qEiBsdwLOACy) | 5:54 | 2020-12-07 |  |
 | [Миллион алых роз](https://open.spotify.com/track/6hZKMAiaIepVtAtgFKm4xt) | [Alla Pugacheva](https://open.spotify.com/artist/7lyhSLlB5fWJmU5eB6k84L) | [Миллион роз](https://open.spotify.com/album/7oI0E3DdTbD85rhMg19GSU) | 5:53 | 2020-12-09 |  |
 | [مبسوطة](https://open.spotify.com/track/4JHLmPI7vZm42VqRGMiemv) | [Simone](https://open.spotify.com/artist/1TdH01YRisNttfaGubLIR1) | [الو](https://open.spotify.com/album/0dr8lDtwokH2ys7vAAxVFV) | 4:29 | 2025-02-17 |  |

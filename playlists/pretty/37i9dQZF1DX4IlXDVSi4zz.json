@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1028298,
+  "num_followers": 1028441,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-07-31 04:01:35",
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
+    },
+    {
+      "added_at": "2026-07-31 04:01:35",
+      "album": {
         "name": "Walking On A Dream (BLOND:ISH Remix)",
         "url": "https://open.spotify.com/album/4Fzl9coophjAezEV0v7tRu"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 191849,
       "name": "Walking On A Dream - BLOND:ISH Remix",
       "url": "https://open.spotify.com/track/5oOKU4RiAMyqUoOKICb92j"
-    },
-    {
-      "added_at": "2026-07-31 04:01:35",
-      "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
     },
     {
       "added_at": "2026-07-31 04:01:35",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-07-31 04:01:35",
       "album": {
-        "name": "Alameyo",
-        "url": "https://open.spotify.com/album/4EqsGhVuaBaHndb3JzILFn"
-      },
-      "artists": [
-        {
-          "name": "Vidojean X Oliver Loenn",
-          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
-        }
-      ],
-      "duration_ms": 195625,
-      "name": "Alameyo",
-      "url": "https://open.spotify.com/track/42uAOnhBOaZ5hz1fjupFGJ"
-    },
-    {
-      "added_at": "2026-07-31 04:01:35",
-      "album": {
         "name": "Toca Toca",
         "url": "https://open.spotify.com/album/1ectv01q8m2iZNm7p5hiaO"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2026-07-31 04:01:35",
       "album": {
-        "name": "Fara",
-        "url": "https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd"
+        "name": "Alameyo",
+        "url": "https://open.spotify.com/album/4EqsGhVuaBaHndb3JzILFn"
       },
       "artists": [
         {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+          "name": "Vidojean X Oliver Loenn",
+          "url": "https://open.spotify.com/artist/6IoO8i8OnEodMtJ3CFKlAH"
         }
       ],
-      "duration_ms": 182472,
-      "name": "Fara",
-      "url": "https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu"
+      "duration_ms": 195625,
+      "name": "Alameyo",
+      "url": "https://open.spotify.com/track/42uAOnhBOaZ5hz1fjupFGJ"
     },
     {
       "added_at": "2026-07-31 04:01:35",
@@ -1667,6 +1651,22 @@
       "duration_ms": 145467,
       "name": "Stephanie - HNTR Remix",
       "url": "https://open.spotify.com/track/4Ko4SzgkfEOw2aestyWDVn"
+    },
+    {
+      "added_at": "2026-07-31 04:01:35",
+      "album": {
+        "name": "Fara",
+        "url": "https://open.spotify.com/album/5eF1127c1C2jiqc3xuzeqd"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 182472,
+      "name": "Fara",
+      "url": "https://open.spotify.com/track/0MSwEp1oqojExCixKd0xKu"
     },
     {
       "added_at": "2026-07-31 04:01:35",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-07-31 04:01:35",
       "album": {
+        "name": "Take You Home",
+        "url": "https://open.spotify.com/album/09thirEgai7TNZ5jtA1yoK"
+      },
+      "artists": [
+        {
+          "name": "Quliano",
+          "url": "https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323"
+        }
+      ],
+      "duration_ms": 175909,
+      "name": "Take You Home",
+      "url": "https://open.spotify.com/track/1bQ9WDieDZNlxJOLPfACmq"
+    },
+    {
+      "added_at": "2026-07-31 04:01:35",
+      "album": {
         "name": "Asereje (Remix)",
         "url": "https://open.spotify.com/album/5wrHAkjZUkhPuj3hrHcmVB"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 157440,
       "name": "Asereje - Remix",
       "url": "https://open.spotify.com/track/7yiZOX1floHlpZEskbbZnk"
-    },
-    {
-      "added_at": "2026-07-31 04:01:35",
-      "album": {
-        "name": "Take You Home",
-        "url": "https://open.spotify.com/album/09thirEgai7TNZ5jtA1yoK"
-      },
-      "artists": [
-        {
-          "name": "Quliano",
-          "url": "https://open.spotify.com/artist/495Jh5g6cOR6DjXQd18323"
-        }
-      ],
-      "duration_ms": 175909,
-      "name": "Take You Home",
-      "url": "https://open.spotify.com/track/1bQ9WDieDZNlxJOLPfACmq"
     },
     {
       "added_at": "2026-07-31 04:01:35",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2026-07-31 04:01:35",
       "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/4HUhOVgq3iJM2awJQtpAoW"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        }
+      ],
+      "duration_ms": 232734,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/3Lvl7l2EY2yWXPO2HqFLZN"
+    },
+    {
+      "added_at": "2026-07-31 04:01:35",
+      "album": {
         "name": "Meu Ver\u00e3o",
         "url": "https://open.spotify.com/album/5lLsA0pN0mU93uFl7GU9VY"
       },
@@ -1915,22 +1931,6 @@
     {
       "added_at": "2026-07-31 04:01:35",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/4HUhOVgq3iJM2awJQtpAoW"
-      },
-      "artists": [
-        {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        }
-      ],
-      "duration_ms": 232734,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/3Lvl7l2EY2yWXPO2HqFLZN"
-    },
-    {
-      "added_at": "2026-07-31 04:01:35",
-      "album": {
         "name": "Keep It Exciting",
         "url": "https://open.spotify.com/album/1IgE29idg8rtuHt40gfvyL"
       },
@@ -1955,22 +1955,18 @@
     {
       "added_at": "2026-07-31 04:01:35",
       "album": {
-        "name": "Tu Coraz\u00f3n (Your Heart)",
-        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
         }
       ],
-      "duration_ms": 180120,
-      "name": "Tu Coraz\u00f3n (Your Heart)",
-      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
+      "duration_ms": 162684,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
     },
     {
       "added_at": "2026-07-31 04:01:35",
@@ -1995,18 +1991,22 @@
     {
       "added_at": "2026-07-31 04:01:35",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
+        "name": "Tu Coraz\u00f3n (Your Heart)",
+        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
       },
       "artists": [
         {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
         }
       ],
-      "duration_ms": 162684,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
+      "duration_ms": 180120,
+      "name": "Tu Coraz\u00f3n (Your Heart)",
+      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
     },
     {
       "added_at": "2026-07-31 04:01:35",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2026-07-31 04:01:35",
       "album": {
-        "name": "Won't Forget You",
-        "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 230945,
-      "name": "Won't Forget You (Edit)",
-      "url": "https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ"
-    },
-    {
-      "added_at": "2026-07-31 04:01:35",
-      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/21U3vjlzUXb642LW0Ventl"
       },
@@ -2119,6 +2103,26 @@
       "duration_ms": 219221,
       "name": "Brinca (Acuario)",
       "url": "https://open.spotify.com/track/7rdgssw9cq1TloP5HbopVx"
+    },
+    {
+      "added_at": "2026-07-31 04:01:35",
+      "album": {
+        "name": "Dame M\u00e1s (Gasolina)",
+        "url": "https://open.spotify.com/album/12dqk7lP9FQj2kteO6R0lf"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Juos",
+          "url": "https://open.spotify.com/artist/25b30wypcCBgPGWG28RUcl"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Dame M\u00e1s (Gasolina)",
+      "url": "https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt"
     }
   ],
   "unique_name": "Tulum Party",

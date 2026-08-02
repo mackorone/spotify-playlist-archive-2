@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: MÖRDA
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,875 likes - 54 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,027 likes - 54 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

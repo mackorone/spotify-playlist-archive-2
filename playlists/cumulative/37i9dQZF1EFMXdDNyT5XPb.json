@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/2hayCe55aya7UftVGxHJTQ"
+      },
+      "artists": [
+        {
+          "name": "Dave Lofts",
+          "url": "https://open.spotify.com/artist/7HiQfngxGAV1NmPcywkREb"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "I'm All Yours",
+      "url": "https://open.spotify.com/track/5ZNlp1ii8DKMbHq1GO3nMk"
+    },
+    {
+      "album": {
         "name": "Good Bad Not Evil",
         "url": "https://open.spotify.com/album/7G1IjybnBzcJvYntqY8q7A"
       },

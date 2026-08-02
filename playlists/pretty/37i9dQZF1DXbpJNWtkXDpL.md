@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de la música en México en compañía de iza tkm
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,385 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,389 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 14 | [3some](https://open.spotify.com/track/2yqLYNfSjy633HSNTNAU3s) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN), [angely2k](https://open.spotify.com/artist/4gt3Ws8Q3RY6yabs4U5Egl) | [3some](https://open.spotify.com/album/0q3DuxifpmTxljvh7cUt1K) | 2:42 |
 | 15 | [Millonari](https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb) | [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Millonari](https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio) | 2:36 |
 | 16 | [PONME10](https://open.spotify.com/track/5uKqpK3w1rD5sHMAS6m5dC) | [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PONME10](https://open.spotify.com/album/2bCRH5sbizQ4IBmvBm1vPs) | 2:01 |
-| 17 | [ME VEIA BIEN](https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS) | [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP) | [ME VEIA BIEN](https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4) | 2:28 |
+| 17 | [Victoria Miller](https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [Victoria Miller](https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt) | 3:01 |
 | 18 | [LO QUE QUIERAS DARME](https://open.spotify.com/track/68m6QEijGUpcDEcUnIKn53) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy) | [LO QUE QUIERAS DARME](https://open.spotify.com/album/1F3Oencni5u8m2cv2N8Cx4) | 2:35 |
-| 19 | [Victoria Miller](https://open.spotify.com/track/1A4pMPkvusJScnQ9HsqAv0) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [Victoria Miller](https://open.spotify.com/album/15fTPXkZZVfc7YqPxHBFbt) | 3:01 |
+| 19 | [ME VEIA BIEN](https://open.spotify.com/track/7wGR4HVmHjH6ezMxp7h4SS) | [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb), [Novato El Flow](https://open.spotify.com/artist/0DZQelzQbikGV45xMMPMjP) | [ME VEIA BIEN](https://open.spotify.com/album/0L5kvaZLgtWyZmpRbQ8rY4) | 2:28 |
 | 20 | [Mirando desde afuera](https://open.spotify.com/track/4OMlNCvyT33krYLAtFy1Rx) | [Damaris Bojor](https://open.spotify.com/artist/611RCawF857UVjTN5ttzup), [Agley](https://open.spotify.com/artist/610h9Z4AAchvlW9qbE3hrY) | [Mirando desde afuera](https://open.spotify.com/album/6P6Vgi6tDT8ZbOVwSTsiyN) | 3:23 |
 | 21 | [t escucho al pensar](https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 3:18 |
 | 22 | [Si Yo](https://open.spotify.com/track/64ILSo7vus5HRjMAktFL85) | [Neithan](https://open.spotify.com/artist/7uB3ISWL0AIMgnFbxymctl), [Zenei](https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u) | [Mixtape Pal Carro](https://open.spotify.com/album/79XNzGQaFm6wpkJAgEBqmC) | 1:32 |
-| 23 | [Chiquilla](https://open.spotify.com/track/3lvdDPBEUT4bDjaUY6itKN) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Amor x Dosis \(Deluxe\)](https://open.spotify.com/album/2rHFxiVI5DgyChVksONf3n) | 3:05 |
-| 24 | [se subio alatorre](https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy) | [se subio alatorre](https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt) | 2:13 |
+| 23 | [se subio alatorre](https://open.spotify.com/track/4mXUJK3d4hb1LSXab1vjqm) | [Jose Alatorre](https://open.spotify.com/artist/2elQouERAEbISjxoAO3cPy) | [se subio alatorre](https://open.spotify.com/album/4EGiASz5bZ4SbtYdn7r6Zt) | 2:13 |
+| 24 | [Chiquilla](https://open.spotify.com/track/3lvdDPBEUT4bDjaUY6itKN) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Amor x Dosis \(Deluxe\)](https://open.spotify.com/album/2rHFxiVI5DgyChVksONf3n) | 3:05 |
 | 25 | [DRAMATIKA!](https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Lucca](https://open.spotify.com/artist/3Sw5QsqUV0ADRkBYpLcxAs) | [DRAMATIKA!](https://open.spotify.com/album/5ZqzFxBPoYxPu2W9Bdvpvg) | 1:47 |
 | 26 | [le hablo a la luna de ti](https://open.spotify.com/track/2F2qal7yD2QMzOxVFKAd1e) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [i Music Listen](https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ) | 2:46 |
 | 27 | [PVT0 VACIO](https://open.spotify.com/track/0YbULd63UGmfwLX0SjJMnY) | [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K), [Leo Ramirez](https://open.spotify.com/artist/2VBtNPMjKTi9BH4Mg2MmJi) | [PVT0 VACIO](https://open.spotify.com/album/3fHRGNZdgIImWaAv07A8Br) | 3:51 |

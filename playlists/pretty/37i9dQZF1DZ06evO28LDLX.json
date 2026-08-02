@@ -1,12 +1,12 @@
 {
   "description": "This is Stephen Hough. The essential tracks, all in one playlist.",
-  "num_followers": 357,
+  "num_followers": 360,
   "original_name": "This Is Stephen Hough",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAAA8OmkuK7SnCM1+KuHAtM9z",
+  "snapshot_id": "amvlgAAAAADzLz4lNqtJtSjPTYKLSIvh",
   "tracks": [
     {
       "added_at": null,
@@ -71,22 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remember Me (Arr. Hough for Piano) [From \"Coco\"]",
-        "url": "https://open.spotify.com/album/6IRI0CJjAauUSsN0gGZ9iv"
-      },
-      "artists": [
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "Remember Me (Arr. Hough for Piano) - From \"Coco\"",
-      "url": "https://open.spotify.com/track/0qjBaywnLtQCiZ60AFsC5i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mozart: Piano Concertos Nos. 9 \"Jeunehomme\" & 21 \"Elvira Madigan\"",
         "url": "https://open.spotify.com/album/3ASu0WhnT1JeSXDH7UYhHm"
       },
@@ -115,22 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chopin: Complete Waltzes",
-        "url": "https://open.spotify.com/album/72L5EwPXreOHNAcIgNGs3G"
+        "name": "Remember Me (Arr. Hough for Piano) [From \"Coco\"]",
+        "url": "https://open.spotify.com/album/6IRI0CJjAauUSsN0gGZ9iv"
       },
       "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 108066,
-      "name": "Waltz No. 12 in F Minor, Op. 70 No. 2",
-      "url": "https://open.spotify.com/track/7gZp8dU76LUWfaA0TJ5Yod"
+      "duration_ms": 167666,
+      "name": "Remember Me (Arr. Hough for Piano) - From \"Coco\"",
+      "url": "https://open.spotify.com/track/0qjBaywnLtQCiZ60AFsC5i"
     },
     {
       "added_at": null,
@@ -155,6 +135,26 @@
       "duration_ms": 99733,
       "name": "Archangel's Lullaby",
       "url": "https://open.spotify.com/track/5II1xXrWYwoVtpcSVG0ypk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chopin: Complete Waltzes",
+        "url": "https://open.spotify.com/album/72L5EwPXreOHNAcIgNGs3G"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 108066,
+      "name": "Waltz No. 12 in F Minor, Op. 70 No. 2",
+      "url": "https://open.spotify.com/track/7gZp8dU76LUWfaA0TJ5Yod"
     },
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chopin: Complete Waltzes",
-        "url": "https://open.spotify.com/album/2YeIqBnip7DdRM3EnioPXB"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 52000,
-      "name": "Waltz in A Minor \"Morgan Library & Museum MS\"",
-      "url": "https://open.spotify.com/track/6ePVmtpGtLvUDGgHptSX8m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Schubert: Piano Sonata in A Major, D. 664; in E Minor, D. 769a; in G Major, D. 894",
         "url": "https://open.spotify.com/album/4OWWKtFGwUfc3lAKsf4bdG"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 231773,
       "name": "Piano Sonata No. 13 in A Major, D. 664: II. Andante",
       "url": "https://open.spotify.com/track/5tuH2Zko07tCoJvvcvrWBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chopin: Complete Waltzes",
+        "url": "https://open.spotify.com/album/2YeIqBnip7DdRM3EnioPXB"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 52000,
+      "name": "Waltz in A Minor \"Morgan Library & Museum MS\"",
+      "url": "https://open.spotify.com/track/6ePVmtpGtLvUDGgHptSX8m"
     },
     {
       "added_at": null,
@@ -723,22 +723,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Piano Album",
-        "url": "https://open.spotify.com/album/7feNtVabPanUXWWbq2SmBL"
+        "name": "Hummel: Piano Concertos",
+        "url": "https://open.spotify.com/album/1D3iRke9l3eUb37KY5aBSc"
       },
       "artists": [
         {
-          "name": "Mischa Levitzki",
-          "url": "https://open.spotify.com/artist/42V9f8k71W0oF3pS5yPhzf"
+          "name": "Johann Nepomuk Hummel",
+          "url": "https://open.spotify.com/artist/0WiK9IsQEQEuIQ1iDxvuPg"
+        },
+        {
+          "name": "Bryden Thomson",
+          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 290173,
-      "name": "Levitzki: The Enchanted Nymph",
-      "url": "https://open.spotify.com/track/3MbiuckD1ew5b6YF0VaaIp"
+      "duration_ms": 473000,
+      "name": "Piano Concerto in B Minor, Op. 89: II. Larghetto",
+      "url": "https://open.spotify.com/track/7ry92W66OPqhDHen6dsD9j"
     },
     {
       "added_at": null,
@@ -767,30 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hummel: Piano Concertos",
-        "url": "https://open.spotify.com/album/1D3iRke9l3eUb37KY5aBSc"
+        "name": "The Piano Album",
+        "url": "https://open.spotify.com/album/7feNtVabPanUXWWbq2SmBL"
       },
       "artists": [
         {
-          "name": "Johann Nepomuk Hummel",
-          "url": "https://open.spotify.com/artist/0WiK9IsQEQEuIQ1iDxvuPg"
-        },
-        {
-          "name": "Bryden Thomson",
-          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+          "name": "Mischa Levitzki",
+          "url": "https://open.spotify.com/artist/42V9f8k71W0oF3pS5yPhzf"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 473000,
-      "name": "Piano Concerto in B Minor, Op. 89: II. Larghetto",
-      "url": "https://open.spotify.com/track/7ry92W66OPqhDHen6dsD9j"
+      "duration_ms": 290173,
+      "name": "Levitzki: The Enchanted Nymph",
+      "url": "https://open.spotify.com/track/3MbiuckD1ew5b6YF0VaaIp"
     },
     {
       "added_at": null,
@@ -895,34 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beethoven: Piano Concertos Nos. 1-5",
-        "url": "https://open.spotify.com/album/6jUAmivzjgDifAcMMcSQWN"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Finnish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5Lf1SAS15AisICBsyP1L0Z"
-        },
-        {
-          "name": "Hannu Lintu",
-          "url": "https://open.spotify.com/artist/5Tmg9YbCEQSH2gft7Ftpdo"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 637200,
-      "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo. Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/73DLt511eJniCAPV1DSEQO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
         "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
       },
@@ -967,6 +939,34 @@
       "duration_ms": 120133,
       "name": "6 Klavierst\u00fccke, Op. 118: No. 1, Intermezzo in A Minor",
       "url": "https://open.spotify.com/track/2KzUsvMtyjX759Nh8VlO5X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beethoven: Piano Concertos Nos. 1-5",
+        "url": "https://open.spotify.com/album/6jUAmivzjgDifAcMMcSQWN"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Finnish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5Lf1SAS15AisICBsyP1L0Z"
+        },
+        {
+          "name": "Hannu Lintu",
+          "url": "https://open.spotify.com/artist/5Tmg9YbCEQSH2gft7Ftpdo"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 637200,
+      "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/73DLt511eJniCAPV1DSEQO"
     },
     {
       "added_at": null,
@@ -1028,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 106586,
-      "name": "Lyric Pieces Book 3, Op. 43: No. 3, In My Native Country",
-      "url": "https://open.spotify.com/track/1NHFPidsRN6uhVHrf3fEzK"
+      "duration_ms": 111386,
+      "name": "Lyric Pieces Book 10, Op. 71: No. 7, Remembrances",
+      "url": "https://open.spotify.com/track/7jtIYgcqJL96rqPraEPH1n"
     },
     {
       "added_at": null,
@@ -1063,26 +1063,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children's Cello",
-        "url": "https://open.spotify.com/album/4mQAMbLF1myizjbSMUr01o"
+        "name": "Chopin: Nocturnes (Complete)",
+        "url": "https://open.spotify.com/album/4laomoW9n1HN2R2DRoFVCn"
       },
       "artists": [
         {
-          "name": "Francis Purcell Warren",
-          "url": "https://open.spotify.com/artist/5NqOK1EfGXUxEIilMACcoq"
-        },
-        {
-          "name": "Steven Isserlis",
-          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 102826,
-      "name": "No. 5, A Sunday Evening in Autumn",
-      "url": "https://open.spotify.com/track/5eqFbgTlAMcxbFYfCt62sx"
+      "duration_ms": 347533,
+      "name": "Nocturne No. 3 in B Major, Op. 9 No. 3",
+      "url": "https://open.spotify.com/track/4XJN9TjefebndyPh03Ade4"
     }
   ],
   "unique_name": "This Is Stephen Hough",

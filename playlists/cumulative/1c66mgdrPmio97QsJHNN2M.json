@@ -1399,6 +1399,24 @@
     },
     {
       "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/3fnfS9UWZCMbbySmokBIdP"
+      },
+      "artists": [
+        {
+          "name": "Sw\u00edzzy",
+          "url": "https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188509,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/4B74UoHA19UF4u140v6Aa9"
+    },
+    {
+      "album": {
         "name": "Songtober",
         "url": "https://open.spotify.com/album/6nYYFhgxzfgEVNlnCjc4YK"
       },
@@ -25141,6 +25159,24 @@
     },
     {
       "album": {
+        "name": "Man For A Minute",
+        "url": "https://open.spotify.com/album/7FGTzA1y9IZFJcPqXGmxgt"
+      },
+      "artists": [
+        {
+          "name": "Eugene",
+          "url": "https://open.spotify.com/artist/1XSk6lGRiKMabwZ4IST6mA"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178355,
+      "name": "Man For A Minute",
+      "url": "https://open.spotify.com/track/53ggds18yq6n2FVeK0MzxY"
+    },
+    {
+      "album": {
         "name": "Manantial de la prudencia",
         "url": "https://open.spotify.com/album/3BC1uy9UgVhp0NULaZ8xKh"
       },
@@ -35026,6 +35062,10 @@
         {
           "name": "jules.xoc",
           "url": "https://open.spotify.com/artist/5KO50Ro2QliqrCesFb82EC"
+        },
+        {
+          "name": "Im gonna die alone",
+          "url": "https://open.spotify.com/artist/7xp1rjLTSV2Zy7uWUwzEEy"
         }
       ],
       "date_added": "2026-07-30",
@@ -45302,6 +45342,24 @@
       "duration_ms": 164279,
       "name": "WHO GOT YOUR TIME",
       "url": "https://open.spotify.com/track/36bX8OVsyxY8RyqcH55VFA"
+    },
+    {
+      "album": {
+        "name": "Who Was I When We Were Just Friends",
+        "url": "https://open.spotify.com/album/0zaQ4czgKuaGBEwLjcfxks"
+      },
+      "artists": [
+        {
+          "name": "Aleksi Oksanen",
+          "url": "https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135447,
+      "name": "Who Was I When We Were Just Friends",
+      "url": "https://open.spotify.com/track/4AR81DRiSzZRzvN5PY5uQt"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những giai điệu quê hương quen thuộc đậm đà.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,785 likes - 72 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,787 likes - 72 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

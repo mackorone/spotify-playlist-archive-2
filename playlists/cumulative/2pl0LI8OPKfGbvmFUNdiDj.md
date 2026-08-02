@@ -4,12 +4,13 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-551 songs - 1 day 7 hr 16 min
+552 songs - 1 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#swaggedout](https://open.spotify.com/track/4ZEZhAKusdv0GxV1Fz8pMD) | [zune](https://open.spotify.com/artist/2wgR2adhW6drxUphtvmX1y), [ElWhy](https://open.spotify.com/artist/4ipQYeYS9VZUP9jvgxfxyP) | [\#swaggedout](https://open.spotify.com/album/08OK1qBqhC0ZZk3msSlGZL) | 2:04 | 2025-12-04 | 2026-01-05 |
 | [\(Can I?\) Love myself](https://open.spotify.com/track/6bvXoNZVVMQTsWUTelbS8J) | [Xada](https://open.spotify.com/artist/5diCtzsJj7orehU5EMytKj) | [\(Can I?\) Love myself](https://open.spotify.com/album/2XRRVlWacz4t6AS5SBKn5g) | 3:41 | 2025-11-01 | 2025-12-01 |
+| [\(Only Takes a\) Moment](https://open.spotify.com/track/7tNhfp7TxXc3ZPBCOBqgyV) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [\(Only Takes a\) Moment](https://open.spotify.com/album/08nJd5fnuBNRb6arPl1hNp) | 3:02 | 2026-08-01 |  |
 | [1.5](https://open.spotify.com/track/70K8CBH1RBfFLAGNt1xZB5) | [Court Lee](https://open.spotify.com/artist/4EUdpZKUAlErxveFMeqZVD) | [1.5](https://open.spotify.com/album/26yjewkMIBbSlh59MojuSJ) | 2:56 | 2025-12-24 | 2026-01-15 |
 | [1000 Kilómetros](https://open.spotify.com/track/0fZ3Wcrlzz9OaURp2WJJ0V) | [María Montenegro](https://open.spotify.com/artist/0cnIFVS9I8UzqNlEQxvOin) | [1000 Kilómetros](https://open.spotify.com/album/5wMQCKdpfs29F4NyrTibLx) | 3:04 | 2026-05-27 |  |
 | [1721](https://open.spotify.com/track/2o9VXvH23n3IGgkaogject) | [Recheal Chrismild](https://open.spotify.com/artist/0Y0N5wtZyxYHA67np5VXIO) | [1721](https://open.spotify.com/album/0CoDvYVYINl0w9eJAXBNpl) | 3:44 | 2026-05-05 | 2026-06-14 |

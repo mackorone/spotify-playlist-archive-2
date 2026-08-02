@@ -1,12 +1,12 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
-  "num_followers": 17532,
+  "num_followers": 17554,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA9rsA6d7yL9jnRWqmrOWSPigZlV",
+  "snapshot_id": "AAAAABlMhmjnifpjhqAyAe5/b84r4gUh",
   "tracks": [
     {
       "added_at": "2026-07-24 11:14:20",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-07-24 11:14:20",
       "album": {
-        "name": "CONCR\u00c9TISATION : L'ASCENSION",
-        "url": "https://open.spotify.com/album/62jEvfBe59Lh5LQ6DLcDpG"
-      },
-      "artists": [
-        {
-          "name": "Lamine l\u00f8ssa",
-          "url": "https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6"
-        }
-      ],
-      "duration_ms": 177815,
-      "name": "SAGACIT\u00c9",
-      "url": "https://open.spotify.com/track/7iLMhRjmsufvisk3lW4ctc"
-    },
-    {
-      "added_at": "2026-07-24 11:14:20",
-      "album": {
         "name": "BOUCHEKARAILLE",
         "url": "https://open.spotify.com/album/62XF1oGuAik09QmhiM7xaY"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 186206,
       "name": "BOUCHEKARAILLE",
       "url": "https://open.spotify.com/track/0X4iwiRXOLIBlo1v7bZjEq"
+    },
+    {
+      "added_at": "2026-07-24 11:14:20",
+      "album": {
+        "name": "CONCR\u00c9TISATION : L'ASCENSION",
+        "url": "https://open.spotify.com/album/62jEvfBe59Lh5LQ6DLcDpG"
+      },
+      "artists": [
+        {
+          "name": "Lamine l\u00f8ssa",
+          "url": "https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6"
+        }
+      ],
+      "duration_ms": 177815,
+      "name": "SAGACIT\u00c9",
+      "url": "https://open.spotify.com/track/7iLMhRjmsufvisk3lW4ctc"
     },
     {
       "added_at": "2026-07-24 11:14:20",

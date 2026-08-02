@@ -7271,20 +7271,24 @@
     },
     {
       "album": {
-        "name": "FTCU",
+        "name": "FTCU (feat. Mad Des)",
         "url": "https://open.spotify.com/album/5afVEXlA91OO2PC1rN4h4l"
       },
       "artists": [
         {
           "name": ".EXA",
           "url": "https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i"
+        },
+        {
+          "name": "Mad Des",
+          "url": "https://open.spotify.com/artist/0SMN6fPFotWNfurEYnxX5v"
         }
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195692,
-      "name": "FTCU",
+      "name": "FTCU (feat. Mad Des)",
       "url": "https://open.spotify.com/track/4F26R7vBKzplQ94RTrdJ0w"
     },
     {

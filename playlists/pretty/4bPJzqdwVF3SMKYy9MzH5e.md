@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,413 songs - 5 day 9 hr 22 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,414 songs - 5 day 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2420,6 +2420,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2410 | [French Boys](https://open.spotify.com/track/3hCT8pt9PMNBl1iej7NQBu) | [Alyzée](https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO), [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Yazida](https://open.spotify.com/artist/4XYMiEaq0oqFVyBDPfhUfw) | [French Boys](https://open.spotify.com/album/1YcB3dHmmnNZBvGHzDrRaz) | 3:00 |
 | 2411 | [J\*b](https://open.spotify.com/track/2Ovg9H7EJ5kIhuBBMvXyab) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [Weekend Rockstar](https://open.spotify.com/album/075UnQx3cTGfN9mg82Agwz) | 1:57 |
 | 2412 | [can u](https://open.spotify.com/track/5iCXqur9teq7a996Zjw8CE) | [u.r.trax](https://open.spotify.com/artist/5bGQtNvk4LrSUTZGzBiZq5), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [can u](https://open.spotify.com/album/65kcVULmMMzVhDzofQoXYl) | 3:08 |
-| 2413 | [Mum, im an artist](https://open.spotify.com/track/4Qrm3I8WuIua3J2EK2kOeK) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [What The Feng](https://open.spotify.com/album/73neMdanvqkjdVrR2hzzfQ) | 2:03 |
+| 2413 | [City Kid](https://open.spotify.com/track/6UNstpytJqCu6o1hjLZF7w) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [City Kid](https://open.spotify.com/album/31XRYuhUUoSddvk8Dtpl8v) | 2:19 |
+| 2414 | [Mum, im an artist](https://open.spotify.com/track/4Qrm3I8WuIua3J2EK2kOeK) | [Feng](https://open.spotify.com/artist/278vNvolx8H3sQJ2hgOMnh) | [What The Feng](https://open.spotify.com/album/73neMdanvqkjdVrR2hzzfQ) | 2:03 |
 
-Snapshot ID: `AAAFdQ+/JJF1LBRKgo+CaftKWzZ5Fdkt`
+Snapshot ID: `AAAFd1Rhmrm6jPwOt6hX/ft/a9hQ8qFo`

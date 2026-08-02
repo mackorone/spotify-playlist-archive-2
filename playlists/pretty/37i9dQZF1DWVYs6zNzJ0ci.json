@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Danny Ocean y Ryan Castro.",
-  "num_followers": 1158509,
+  "num_followers": 1158372,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 238986,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "Ll\u00e9vame (Cultura Remix)",
         "url": "https://open.spotify.com/album/4Mh08dkc99DlRwpSu1Rkzy"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 264913,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/30WCJ59jYKihaG8kgYEO9S"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 238986,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "Uma Brasileira",
+        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
+      },
+      "artists": [
+        {
+          "name": "Bahiano",
+          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
+        }
+      ],
+      "duration_ms": 198238,
+      "name": "Uma Brasileira",
+      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "Criminal (feat. Elsa y Elmar)",
         "url": "https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 221042,
       "name": "Criminal (feat. Elsa y Elmar)",
       "url": "https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "Uma Brasileira",
-        "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
-      },
-      "artists": [
-        {
-          "name": "Bahiano",
-          "url": "https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN"
-        }
-      ],
-      "duration_ms": 198238,
-      "name": "Uma Brasileira",
-      "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Baile de Miradas",
-        "url": "https://open.spotify.com/album/7zmGLX2n4p6lch8AJyAJTu"
-      },
-      "artists": [
-        {
-          "name": "Los Afro Brothers",
-          "url": "https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq"
-        }
-      ],
-      "duration_ms": 217717,
-      "name": "Llegaste T\u00fa",
-      "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
         "name": "Como Un Volc\u00e1n",
         "url": "https://open.spotify.com/album/1ThXyFQMc4fIwGRMSCwOBL"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 227265,
       "name": "Como Un Volc\u00e1n",
       "url": "https://open.spotify.com/track/7pN9P2xuvVS9l08w88Abhi"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
+        "name": "Baile de Miradas",
+        "url": "https://open.spotify.com/album/7zmGLX2n4p6lch8AJyAJTu"
+      },
+      "artists": [
+        {
+          "name": "Los Afro Brothers",
+          "url": "https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq"
+        }
+      ],
+      "duration_ms": 217717,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1767,6 +1767,26 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
+        "name": "Canto",
+        "url": "https://open.spotify.com/album/2b1qYGHOdzkrnhTxnTX9W0"
+      },
+      "artists": [
+        {
+          "name": "Necrojocker",
+          "url": "https://open.spotify.com/artist/1kZRe2EGMf2w9616umnci4"
+        },
+        {
+          "name": "Plagio",
+          "url": "https://open.spotify.com/artist/7yftS12f0mRDNuZTLbOJd1"
+        }
+      ],
+      "duration_ms": 129230,
+      "name": "Canto",
+      "url": "https://open.spotify.com/track/3lKHnXk6KqUOzFJaR0jJ7H"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
         "name": "C\u00f3mo Voy a Olvidarte",
         "url": "https://open.spotify.com/album/7xYk2XnU8ZoJsIaA5UBTNP"
       },
@@ -1779,26 +1799,6 @@
       "duration_ms": 175123,
       "name": "C\u00f3mo Voy a Olvidarte",
       "url": "https://open.spotify.com/track/63mOOfk3Z85c3bxTC9hT4m"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp"
-      },
-      "artists": [
-        {
-          "name": "Green Valley",
-          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
-        },
-        {
-          "name": "Sho-Hai",
-          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1819,22 +1819,22 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Canto",
-        "url": "https://open.spotify.com/album/2b1qYGHOdzkrnhTxnTX9W0"
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp"
       },
       "artists": [
         {
-          "name": "Necrojocker",
-          "url": "https://open.spotify.com/artist/1kZRe2EGMf2w9616umnci4"
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
         },
         {
-          "name": "Plagio",
-          "url": "https://open.spotify.com/artist/7yftS12f0mRDNuZTLbOJd1"
+          "name": "Sho-Hai",
+          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
         }
       ],
-      "duration_ms": 129230,
-      "name": "Canto",
-      "url": "https://open.spotify.com/track/3lKHnXk6KqUOzFJaR0jJ7H"
+      "duration_ms": 199293,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk"
     },
     {
       "added_at": "2026-05-15 06:00:25",

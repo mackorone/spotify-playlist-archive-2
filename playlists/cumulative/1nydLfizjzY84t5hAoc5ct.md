@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-336 songs - 20 hr 51 min
+338 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Dopamine](https://open.spotify.com/track/47fNuJYZBe4U1hosmwEulx) | [Fairways](https://open.spotify.com/artist/7eFQEIHwSSJUpdDVUzmpWZ) | [Dopamine](https://open.spotify.com/album/6oBX7w4c4HOVIFTKbZia1m) | 3:23 | 2025-11-16 | 2025-11-24 |
 | [Drag](https://open.spotify.com/track/7tvyqrS2FZa7PZIB0Z9QLZ) | [Wynona Bleach](https://open.spotify.com/artist/3U7XDjbMZWVbis1wAUzjMq) | [Moonsoake](https://open.spotify.com/album/0H7CsLJOw1LM2Y6rPdoDMu) | 3:55 | 2025-12-18 | 2026-06-15 |
 | [Dressed in Daylight](https://open.spotify.com/track/0gScvAu09lkAZ0Qf7XAgeR) | [Ellyn Oliver](https://open.spotify.com/artist/5b5vgWOGZ4uQYYb5eWk9Tl) | [Dressed in Daylight](https://open.spotify.com/album/6k5rDbqms6WJh9r8x7g8xi) | 4:19 | 2025-11-16 | 2026-03-22 |
+| [Drifter](https://open.spotify.com/track/3JICKQlw5205xD5vja4zGP) | [Niamh Maclennan](https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv) | [Drifter](https://open.spotify.com/album/7y3zrURIBo1ErbNPvAIXPv) | 3:20 | 2026-08-01 |  |
 | [dust](https://open.spotify.com/track/0yuBkSHSjMi9CyA05JEGNX) | [low\-key](https://open.spotify.com/artist/3o3u93T1lwwuCWE4ib3yKF) | [cases](https://open.spotify.com/album/4XyxycEfY5tF8VissqvHd9) | 5:49 | 2026-06-09 | 2026-06-20 |
 | [Easy](https://open.spotify.com/track/4hifOPhb7I7Lqk1QxzTViF) | [Barranquismo](https://open.spotify.com/artist/3rcj4PO8vQ8pBdiqXuLvQF) | [Easy](https://open.spotify.com/album/2FlV7b52TOFYQvZQidpA5e) | 2:52 | 2025-11-16 | 2026-02-02 |
 | [Echoes](https://open.spotify.com/track/2GBTapbfetq4VCvZeNbiYi) | [DOVE\-i](https://open.spotify.com/artist/2GlVYgRfmRbGGP4ZwrDwlh), [Ben Botfield](https://open.spotify.com/artist/3sLeazIw2jhX90UbaDSYPy) | [It's Pop Fiction](https://open.spotify.com/album/3pe8tzK1miEjD73bqxDId1) | 3:52 | 2026-06-09 | 2026-06-20 |
@@ -174,7 +175,7 @@
 | [Is This All?](https://open.spotify.com/track/40WHt75PDTsyT9bPsYIw3H) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [First a Whisper, Then a Shout](https://open.spotify.com/album/2cwDdnhRCRHzG8OQmjPKXR) | 3:38 | 2025-11-23 | 2026-02-02 |
 | [Island Duty](https://open.spotify.com/track/3jgeUWpSoqOglOQ4MXZZLL) | [Sean By Mercy](https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ) | [I Cannot Go on Reaching](https://open.spotify.com/album/5amMSI279HeqRk8SiTMFnO) | 5:39 | 2025-12-18 | 2026-02-02 |
 | [Jimmie Rodgers](https://open.spotify.com/track/0F5Q5lS4avgv8oV4vDbF7b) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 2:06 | 2025-12-14 | 2026-02-01 |
-| [Judas](https://open.spotify.com/track/2s94PxF7yqcxrsVaaknPtJ) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [A Field Of Manmade Fires](https://open.spotify.com/album/5QE5jV1NczbKVl32GOx9M5) | 4:05 | 2026-07-26 |  |
+| [Judas](https://open.spotify.com/track/2s94PxF7yqcxrsVaaknPtJ) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [A Field Of Manmade Fires](https://open.spotify.com/album/5QE5jV1NczbKVl32GOx9M5) | 4:05 | 2026-07-26 | 2026-08-02 |
 | [Judas](https://open.spotify.com/track/5BZkuj677SplOOiKKW7uwT) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [Judas](https://open.spotify.com/album/6IBD0Y3s5Ulm3L1Ndp8yY6) | 4:05 | 2025-11-16 | 2025-11-24 |
 | [Junkie](https://open.spotify.com/track/5FoAvYOnBBVYAHOybfy9l5) | [Homegrownalwaysbest](https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7), [Fivo](https://open.spotify.com/artist/7zjzFchjxHqoHq46AiglS2), [Tribal John](https://open.spotify.com/artist/2wOJ5rlkn1qN6EovfmygGe) | [Vol 1 \(Experience, Strength and Broke\)](https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy) | 3:12 | 2026-02-02 | 2026-05-04 |
 | [Kindness Is The Rule \- Acoustic Version](https://open.spotify.com/track/1FcmeRpxhfVbAegzbWbnKs) | [Frallzone](https://open.spotify.com/artist/1WehD5r0hUWYOK6AK7nsHr) | [Kindness Is The Rule \(Acoustic Version\)](https://open.spotify.com/album/03ekYPM0j2P37vTIJ8ntg5) | 4:06 | 2026-06-09 | 2026-06-20 |
@@ -245,6 +246,7 @@
 | [Portals](https://open.spotify.com/track/1rSVfPIynSjWD5ocg7yRwI) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [A Field Of Manmade Fires](https://open.spotify.com/album/5QE5jV1NczbKVl32GOx9M5) | 5:19 | 2026-05-29 |  |
 | [Portals](https://open.spotify.com/track/4AV3czCZP4cT0ybTfn5fVG) | [BRSR](https://open.spotify.com/artist/5xNIOeyc7NSNxIeJF10pxE) | [Portals](https://open.spotify.com/album/02MVKCOqzKb0HoWxAWoSSk) | 5:19 | 2026-02-01 | 2026-04-20 |
 | [Posers](https://open.spotify.com/track/5lDo83ASWT5BkJQtXPUmdh) | [Doss](https://open.spotify.com/artist/3csu8AxiaJammKmr2EPtSe) | [Posers](https://open.spotify.com/album/6WzoIYNawmqYwNFzZQOlTP) | 2:42 | 2026-01-11 | 2026-01-17 |
+| [Princess on the Run](https://open.spotify.com/track/4eAilAqbTxA9St4IwpWYfC) | [KATERINA.](https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c) | [Princess on the Run](https://open.spotify.com/album/5lBZZDm9Z45SI6YdWe1zlm) | 2:20 | 2026-08-01 |  |
 | [Pushing Thirty](https://open.spotify.com/track/4TmpvSzivL7J8rotGeRhTj) | [Cathal Fitz](https://open.spotify.com/artist/2N03xrnhfMK53tCtDnWQed) | [Pushing Thirty](https://open.spotify.com/album/7e78jPbeTTLzKUvbj4YERc) | 4:12 | 2026-06-19 | 2026-07-22 |
 | [Recita](https://open.spotify.com/track/4iVc34n6jfYEP7wHhdK3sm) | [LEUCA](https://open.spotify.com/artist/3McV2dVJBfa6kuLS2M2I1i) | [Recita](https://open.spotify.com/album/3VlWM3WZ7NJyCP6gZUZiKH) | 2:49 | 2026-06-09 | 2026-06-20 |
 | [Red Party Cups](https://open.spotify.com/track/1nSgVxt2arPx4JDDZAEmXC) | [Midnight Housework](https://open.spotify.com/artist/1JugG6Jq67481f10NXby8r) | [Red Party Cups](https://open.spotify.com/album/3mhggQkhJSFPnKTTV8KXgW) | 4:05 | 2026-05-03 | 2026-05-18 |

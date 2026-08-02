@@ -16367,6 +16367,24 @@
     },
     {
       "album": {
+        "name": "keep me going (BIRDBRAIN)",
+        "url": "https://open.spotify.com/album/6OOrYEPMhJEryhQVEFYxFR"
+      },
+      "artists": [
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129750,
+      "name": "keep me going (BIRDBRAIN)",
+      "url": "https://open.spotify.com/track/2julCvWIxzXfX757t5Bnsn"
+    },
+    {
+      "album": {
         "name": "no service",
         "url": "https://open.spotify.com/album/1UKK69dkl1m29OhETYyfcv"
       },
@@ -30372,7 +30390,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 164571,
       "name": "TGIF",
       "url": "https://open.spotify.com/track/56qiAh3R5y85Ng26tkAUD3"

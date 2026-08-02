@@ -4,7 +4,7 @@
 
 > Discover a mix of faith and fun with these EDM, Pop, Hip Hop, Worship, and remixed songs!
 
-534 songs - 1 day 4 hr 59 min
+535 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,8 +109,9 @@
 | [Crown \- Gregatron Disco Remix](https://open.spotify.com/track/1yrx5qPd8f5TtOrrtXRU0z) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [Crown The Remixes](https://open.spotify.com/album/0kMCp8ynEoHnR4FaSFJ82A) | 3:05 | 2023-02-07 | 2023-08-18 |
 | [DANCE LIKE DAVID](https://open.spotify.com/track/08gie9jMsjOykMS1HaXfcS) | [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [Swaizy](https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL) | [DANCE LIKE DAVID](https://open.spotify.com/album/7jY3IjYgo1gIzVbY6bVfhE) | 2:25 | 2025-12-12 | 2026-08-01 |
 | [Dance With Me](https://open.spotify.com/track/4JK3GyeM5KmkakCb8DjQg4) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy) | [Outta Line](https://open.spotify.com/album/7mBvjkKnQZzHZ6yBYvobUZ) | 3:14 | 2021-10-31 | 2022-07-24 |
+| [Dancey Dance](https://open.spotify.com/track/2duKvIyOBCuAg5WS9YvJk9) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [Dancey Dance](https://open.spotify.com/album/13MfyxGq2TlVFIYirgCw95) | 2:55 | 2026-08-01 |  |
 | [Dancing at Dusk](https://open.spotify.com/track/1Lj6LnLMSFZv8ik24ssMpO) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy) | [Clouds Are Clearing: Mixtape 1A](https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ) | 3:37 | 2021-10-31 | 2022-07-28 |
-| [DANCING SHOES](https://open.spotify.com/track/7g5ke136OU63HesVoxDIkM) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [DANCING SHOES](https://open.spotify.com/album/6EQVCLJXuuo1pwYUFV4xWA) | 2:54 | 2025-09-14 |  |
+| [DANCING SHOES](https://open.spotify.com/track/7g5ke136OU63HesVoxDIkM) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [DANCING SHOES](https://open.spotify.com/album/6EQVCLJXuuo1pwYUFV4xWA) | 2:54 | 2025-09-14 | 2026-08-02 |
 | [Daylight](https://open.spotify.com/track/6ky2UiOAQkmA1XSKPs11XH) | [Holly Starr](https://open.spotify.com/artist/69vBlxIY9x67fklDVSdpr7) | [Daylight](https://open.spotify.com/album/5eCUUhkGwTF8ovQ0UN3TGa) | 3:20 | 2021-10-31 | 2022-07-28 |
 | [Deeper](https://open.spotify.com/track/2X8mAkdiXXxFdcDGQ4Og13) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Best Thing \- Summer 2022](https://open.spotify.com/album/0scWMv27dJB9TeLkiA2g7s) | 3:02 | 2023-02-07 |  |
 | [Delilah](https://open.spotify.com/track/2pqZrVeXTBgxky4wDxiUIy) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [No Borders](https://open.spotify.com/album/55LcFQDryvwz6SO7gkbqat) | 2:32 | 2023-02-07 | 2024-07-20 |

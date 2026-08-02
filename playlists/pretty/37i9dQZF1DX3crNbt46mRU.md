@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ariana Grande, Luciano, Jazeek, Selena Gomez, Chapo102  & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,778 likes - 94 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,779 likes - 94 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 36 | [ABC](https://open.spotify.com/track/2o4hGAMyIiRavhCdhZTJMD) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [ABC](https://open.spotify.com/album/3HkzLUN06RT5EzPTFEQPXm) | 2:29 |
 | 37 | [Everlasting](https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Everlasting](https://open.spotify.com/album/5oB1a3IpezAWEtn35xEfok) | 2:37 |
 | 38 | [Yalla Yalla](https://open.spotify.com/track/0evrte0LR0yRfJ8KherpFZ) | [Elly](https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt), [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [Yalla Yalla](https://open.spotify.com/album/2QNKON838ziGNQSSRuia6t) | 2:02 |
-| 39 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
+| 39 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
 | 40 | [911 \(CALL THE LAW\)](https://open.spotify.com/track/0ct5TyLZyVj0cr4HmgwM54) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [911 \(CALL THE LAW\)](https://open.spotify.com/album/3lM2x5DFatzQNmTxsxIKTP) | 2:21 |
 | 41 | [dance til i die](https://open.spotify.com/track/2ZIcZ5RvzV1gnShFxC0UfE) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [dance til i die](https://open.spotify.com/album/72YpF62FQR3pcHjFDfyl4Q) | 2:59 |
 | 42 | [LAMBO GALLARDO](https://open.spotify.com/track/03tyopGJk61vc8bFjyTO5V) | [CANEY030](https://open.spotify.com/artist/0ZqNAlpzFTJI4tyK4UwJE2) | [LAMBO GALLARDO](https://open.spotify.com/album/0jf7ADFXthX2YT9MruldA8) | 3:03 |

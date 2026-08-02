@@ -4749,6 +4749,24 @@
     },
     {
       "album": {
+        "name": "Concert In The Virgin Islands",
+        "url": "https://open.spotify.com/album/4toQQBpDcDpwGG7XWuZhBZ"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223653,
+      "name": "Virgin Jungle",
+      "url": "https://open.spotify.com/track/5qn92ABAo6uHp39teDCmDc"
+    },
+    {
+      "album": {
         "name": "Island Virgin",
         "url": "https://open.spotify.com/album/1xmXZwjKu4XCPysM26SCtM"
       },
@@ -4760,7 +4778,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 258066,
       "name": "Virgin Jungle",
       "url": "https://open.spotify.com/track/0ffNXGH2Yj8b6peX0HiOny"

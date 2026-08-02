@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: GHØSTKID
 
-1,024 songs - 2 day 10 hr 11 min
+1,025 songs - 2 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 | 2024-06-27 | 2025-12-05 |
 | [Dove](https://open.spotify.com/track/7IJF32v3Zf5lgEU0wnVwCg) | [Dharmacide](https://open.spotify.com/artist/6Opwdl6TcMEonIbtztjl0k) | [Dove](https://open.spotify.com/album/3kvl3LBeNaOTquSrmM8Ny4) | 4:29 | 2025-10-09 | 2025-10-17 |
 | [Down With The Wolves](https://open.spotify.com/track/5DtLkQnQfzJYj8QBJKYiqS) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc) | [Down With The Wolves](https://open.spotify.com/album/2JZ6mupwhPXVdXRXRkGx90) | 3:11 | 2024-06-27 | 2025-03-10 |
-| [Drag Me](https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Drag Me](https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj) | 3:06 | 2025-12-04 |  |
+| [Drag Me](https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Drag Me](https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj) | 3:06 | 2025-12-04 | 2026-08-02 |
 | [Drain The Blood](https://open.spotify.com/track/0CGNXPhDBqhBCRunFnrVl0) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Drain The Blood](https://open.spotify.com/album/71O4BgOQrQSSc69zYDBWhg) | 2:50 | 2025-06-19 | 2025-07-11 |
 | [Drama Pyjama](https://open.spotify.com/track/7BynQaeP6px4Xm0xsjAwSk) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Drama Pyjama](https://open.spotify.com/album/6TGsl6KzqNag5LEUPf5D6i) | 2:54 | 2024-12-12 | 2024-12-20 |
 | [Dream](https://open.spotify.com/track/1Roy4KbdJZOTcsI1PLCxn5) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Dream](https://open.spotify.com/album/1aJ77LdHu7K126x8POe3zz) | 3:27 | 2025-11-27 | 2026-01-31 |
@@ -761,6 +761,7 @@
 | [Satanized](https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2) | 3:56 | 2025-03-06 | 2025-05-31 |
 | [Save The Cat](https://open.spotify.com/track/0L0DVRuUZ0lJIyq8oNQtF9) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Save The Cat](https://open.spotify.com/album/3lF11dYBA2aml6FwhXBh5k) | 2:52 | 2025-05-22 | 2025-07-11 |
 | [Save Your Roses](https://open.spotify.com/track/7qWKbKxjWIh6Yq0jcba8s2) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Save Your Roses](https://open.spotify.com/album/4AGmXs8I2TMn5Is4e4eBWe) | 2:47 | 2026-01-22 | 2026-02-27 |
+| [Saw You Stand](https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Saw You Stand](https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT) | 4:49 | 2026-07-31 |  |
 | [Say It Again \(feat\. The Rasmus\)](https://open.spotify.com/track/4Vew5V90WYD82kvcEJLldI) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Say It Again \(feat\. The Rasmus\)](https://open.spotify.com/album/4feSE1PgABzJhSIL7KYEVz) | 4:23 | 2025-08-07 | 2025-09-14 |
 | [Scales Are Falling](https://open.spotify.com/track/2Wb33vEP4HJiPpI5J7s4Ha) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Scales Are Falling](https://open.spotify.com/album/4r9bwqnjDl2oKbQHBWybNv) | 5:52 | 2026-01-09 | 2026-01-31 |
 | [Scar on My Guitar](https://open.spotify.com/track/3WXhf9KacGRycnFS4XmNYx) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Scar on My Guitar](https://open.spotify.com/album/7GefG4OL4QBUtnRHszGejq) | 3:56 | 2025-05-08 | 2025-05-16 |

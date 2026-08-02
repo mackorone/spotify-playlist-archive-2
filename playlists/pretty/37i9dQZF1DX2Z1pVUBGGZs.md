@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 💐 cover: Nieve Ella
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,120 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,100 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 16 | [Locking You Down](https://open.spotify.com/track/3AAjU1IDRUhFXPnYwcsQoG) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Locking You Down](https://open.spotify.com/album/2jriolhwdtcIp3ik7jiJSu) | 2:57 |
 | 17 | [SNOW ON THE TABLE](https://open.spotify.com/track/0KHVv7KPMEnu54Ci5v6e5x) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [SNOW ON THE TABLE](https://open.spotify.com/album/41J33SFHdCe6YfIhVAPBk4) | 2:06 |
 | 18 | [iloveitiloveitiloveit](https://open.spotify.com/track/0vVel80XRhw0LuSQucKMui) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:03 |
-| 19 | [Biting My Tongue](https://open.spotify.com/track/4JIOLJsnwveUV6EkDUy9E8) | [Rafa & Meelo](https://open.spotify.com/artist/7EpyWnf8Oiy3zmrG4tPgKd) | [Biting My Tongue](https://open.spotify.com/album/4Ha0hzKj52i01kzG2WNH16) | 3:09 |
+| 19 | [Biting My Tongue](https://open.spotify.com/track/4JIOLJsnwveUV6EkDUy9E8) | [Rafa and Meelo](https://open.spotify.com/artist/7EpyWnf8Oiy3zmrG4tPgKd) | [Biting My Tongue](https://open.spotify.com/album/4Ha0hzKj52i01kzG2WNH16) | 3:09 |
 | 20 | [Does She Know](https://open.spotify.com/track/5HqmlB253b8HXDJUnueBTd) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong](https://open.spotify.com/album/38b9zu39HSUPDsEzELcvyi) | 3:14 |
 | 21 | [Magazines](https://open.spotify.com/track/0AZxU5r0k0LR606KrvSa4m) | [Moriah Mensah](https://open.spotify.com/artist/4jgCVCIIT2pPaemZBYMOYJ) | [Magazines](https://open.spotify.com/album/1HLtrRtsdRBk9sC9ROZtfO) | 2:35 |
 | 22 | [Slush Puppy](https://open.spotify.com/track/5esPnS3J0c0x94yZuCxukj) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Slush Puppy](https://open.spotify.com/album/6lik4v0FwZyEZ0VPKui5z0) | 2:46 |

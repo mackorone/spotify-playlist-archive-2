@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Con dolor",
+        "url": "https://open.spotify.com/album/5NPLmlTys2atPbydfgLKke"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203732,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/64sCDUnbNVjhWyfYmVrTOD"
+    },
+    {
+      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/488zuAkOMDcIF7WA6AAqDE"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37396,
+  "num_followers": 37398,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAABYuBKlPA8LTB1k0UNsW/on",
+  "snapshot_id": "amvlgAAAAACKjcpxMxAGgoqmrCSDOddr",
   "tracks": [
     {
       "added_at": null,
@@ -347,22 +347,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jiva 2.0 (Bacardi Remix)",
-        "url": "https://open.spotify.com/album/7MzMTVhuD5pA5ysvl1sT3J"
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
       },
       "artists": [
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        },
-        {
-          "name": "Zenn'Bk",
-          "url": "https://open.spotify.com/artist/4zgB4UJdwKp7n5g5vDwfIH"
         }
       ],
-      "duration_ms": 249577,
-      "name": "Jiva 2.0 - Bacardi Remix",
-      "url": "https://open.spotify.com/track/4gEQXAZB7RCCbpNpuD71Tn"
+      "duration_ms": 265866,
+      "name": "Memeza",
+      "url": "https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze"
     },
     {
       "added_at": null,
@@ -383,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
+        "name": "Jiva 2.0 (Bacardi Remix)",
+        "url": "https://open.spotify.com/album/7MzMTVhuD5pA5ysvl1sT3J"
       },
       "artists": [
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        },
+        {
+          "name": "Zenn'Bk",
+          "url": "https://open.spotify.com/artist/4zgB4UJdwKp7n5g5vDwfIH"
         }
       ],
-      "duration_ms": 265866,
-      "name": "Memeza",
-      "url": "https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze"
+      "duration_ms": 249577,
+      "name": "Jiva 2.0 - Bacardi Remix",
+      "url": "https://open.spotify.com/track/4gEQXAZB7RCCbpNpuD71Tn"
     },
     {
       "added_at": null,

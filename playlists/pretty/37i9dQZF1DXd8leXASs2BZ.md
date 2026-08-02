@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Fisong
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,617 likes - 100 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,620 likes - 100 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 34 | [Real Talk!!](https://open.spotify.com/track/2CYhRhjb1VR0m5GCOJ7uLu) | [YouGetOohShiYo](https://open.spotify.com/artist/7yjtnAYHa4O6sVUkMrg5Hm) | [Real Talk!!](https://open.spotify.com/album/0Bbhf9TiqtmlJ2wP0yth4o) | 2:38 |
 | 35 | [yo bitch its doubtclub \(feat\. nowyoumakemeup, surpass, Lie, Libra albert & Sloppybaybsally\) \[exclusive\]](https://open.spotify.com/track/5C4fYdRz2SOdoNKLHV8MoG) | [tna](https://open.spotify.com/artist/4hf0Y8m1sYNnb0xYpQHVFn), [nowyoumakemeup](https://open.spotify.com/artist/6jfLIDaCUgExUmt243cQ3F), [surpass](https://open.spotify.com/artist/4CmBcdM1oxZBCnqwDi7AcC), [Lie](https://open.spotify.com/artist/0SSXO3qm51lAFkRcaSMNIW), [Libra albert](https://open.spotify.com/artist/0RHsSBpJ1vc6NKm8gbzVOz), [Sloppybaybsally](https://open.spotify.com/artist/4YxvWW4XJuL0UswEKP4SrZ) | [yo bitch its DoubtClub 925 \(exclusive\)](https://open.spotify.com/album/13TZKPWupGfVmGxS2jW9ZX) | 4:00 |
 | 36 | [PINK BOY \(feat\. Ohju\)](https://open.spotify.com/track/670uA9FT9AkIzRuBHftDq8) | [16](https://open.spotify.com/artist/77IeznkiGkElBYV1hfo7k4), [Ohju](https://open.spotify.com/artist/2xCzl8XXnAh8qP7xElU4Rw) | [SERIOUSLY & JOKING](https://open.spotify.com/album/6dXdhXLMqQS47HitJsbWBt) | 2:50 |
-| 37 | [Cmon £lex \(feat\. Saren\)](https://open.spotify.com/track/4fpqhpqmxstPh8DeXRzKPJ) | [lymph](https://open.spotify.com/artist/79lQmcuNH3IzsBdl0Q8KX3), [flexmadeit](https://open.spotify.com/artist/3kgPWAPs9qzAjRRNFg3F8D), [Saren](https://open.spotify.com/artist/5tbzr5nor6qJPUEryD7oZK) | [i hate summer](https://open.spotify.com/album/6jE5Q0r6gTWmnx8R2zg44f) | 2:56 |
+| 37 | [Cmon £lex \(feat\. Saren\)](https://open.spotify.com/track/4fpqhpqmxstPh8DeXRzKPJ) | [lymph](https://open.spotify.com/artist/79lQmcuNH3IzsBdl0Q8KX3), [flexmadeit](https://open.spotify.com/artist/7ifyrJ8F1IxHbaEWly0bZI), [Saren](https://open.spotify.com/artist/5tbzr5nor6qJPUEryD7oZK) | [i hate summer](https://open.spotify.com/album/6jE5Q0r6gTWmnx8R2zg44f) | 2:56 |
 | 38 | [ku lata](https://open.spotify.com/track/4NZm0bfefuDI7k3V5cVXfX) | [Neibiss](https://open.spotify.com/artist/0aTXphzBvPlvIirCBLEaTG) | [ku lata](https://open.spotify.com/album/7EV3rL8sjQVxuiHylQi3sP) | 2:14 |
 | 39 | [Where the Money At](https://open.spotify.com/track/1ppA1aNzUtIyvtmmLM9VMt) | [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Where the Money At](https://open.spotify.com/album/4ARl5Z04smzvWJQqCf5wxN) | 2:40 |
 | 40 | [Starting life over \(feat\. HARDY\) \- Remix](https://open.spotify.com/track/7M0KBr2NIeghaEVwUhwADj) | [Albert Connor](https://open.spotify.com/artist/6fTbznllQRT5HmxfZdiRlc), [HARDY](https://open.spotify.com/artist/6UsX7gav2WB26QaKeTa7FZ) | [Starting life over \(feat\. HARDY\) \[Remix\]](https://open.spotify.com/album/3mcox8rsFubIerSnOgY7rw) | 2:35 |

@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Freddie Gibbs
 
-958 songs - 2 day 3 hr 12 min
+959 songs - 2 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [89 Earthquake](https://open.spotify.com/track/60QgT3PndeEDhdteZfqXGv) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [89 Earthquake](https://open.spotify.com/album/5cbiVwhOtdorDA5YVPyclL) | 3:12 | 2023-03-03 | 2023-07-02 |
 | [97](https://open.spotify.com/track/3zLwDjumhvIFFwAAZaDNPL) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 2:57 | 2023-09-22 | 2024-11-23 |
 | [98 Sabres \(feat\. Armani Caesar, Conway The Machine & Benny The Butcher\)](https://open.spotify.com/track/2WHDnlggrjMCYA8GxwjUaA) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [WHO MADE THE SUNSHINE](https://open.spotify.com/album/6NrUdvJpIEyaBg5zZSOoV4) | 4:06 | 2021-09-03 | 2022-06-01 |
+| [A Man Free](https://open.spotify.com/track/0FuXPVjTdLeRZva6JIcYX4) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Paradise Records \(Compilation\)](https://open.spotify.com/album/40Hm1ZgcdadbdymClfKAGg) | 2:09 | 2026-07-31 |  |
 | [Achilles](https://open.spotify.com/track/7oiazaJtYgZiHfZM3xTHXN) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [RichGains](https://open.spotify.com/artist/2jmNddoRXuXqJgvaHASbNK) | [Achilles](https://open.spotify.com/album/5dDRRZEaHoPvpft1PjP7zc) | 2:24 | 2025-01-03 | 2025-01-25 |
 | [Acts 1.5](https://open.spotify.com/track/1eX082TmxuRRtteicQDtgv) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [No ID](https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH) | [From The Private Collection of Saba and No ID](https://open.spotify.com/album/7ha6zD0XRzUxAxxfXDLYfq) | 1:58 | 2025-03-21 | 2025-06-29 |
 | [Adonis](https://open.spotify.com/track/4lkfqrvGrVIlJlxH5ppFui) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [Graymatter](https://open.spotify.com/artist/79sVZ1pbm24IZ9GbbCWlLv) | [What You Don’t Get?!](https://open.spotify.com/album/21nWEdfRl0qTZOpaqy2GuK) | 1:33 | 2023-10-27 | 2023-11-18 |
@@ -226,7 +227,7 @@
 | [Derrick Boleman](https://open.spotify.com/track/3JfFSMEAvNXwYc1ALels24) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Peace "Fly" God](https://open.spotify.com/album/6pDbaWwmHYv6Hr075nfcer) | 3:34 | 2022-07-08 | 2022-10-31 |
 | [Devil's Work 2](https://open.spotify.com/track/17NiQhpGEQZUlTBqRKeKve) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Devil's Work 2](https://open.spotify.com/album/54LfEBAO7J0GYfR9YH3hUr) | 5:01 | 2023-03-10 | 2023-07-08 |
 | [Diamonds](https://open.spotify.com/track/30pf6a2dADiDoB5DFXSceL) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Diamonds](https://open.spotify.com/album/0aEwHJdYAqUvpM3WgEGpN1) | 3:14 | 2025-11-21 | 2026-01-01 |
-| [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 | 2024-12-20 |  |
+| [Die Together](https://open.spotify.com/track/4mtpjNb1aZ5TVBpqCGtqv0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive \(10 Year Anniversary Edition\)](https://open.spotify.com/album/2fSAC0ZiYnwKfzLEvyaMm8) | 3:44 | 2024-12-20 | 2026-08-02 |
 | [Diego Maradona](https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [The Genuine Articulate](https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp) | 2:37 | 2024-09-23 | 2025-06-16 |
 | [Diet Coke](https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Diet Coke](https://open.spotify.com/album/6AmzYhYXSHDndclYdVsKeF) | 2:59 | 2022-02-08 | 2022-10-01 |
 | [DIET\_](https://open.spotify.com/track/1AzqpMy3yLYNITSOUrnL8i) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [UNLOCKED](https://open.spotify.com/album/5LsyqeWryTmxsmda4xkm5a) | 2:23 | 2021-09-03 | 2022-02-17 |

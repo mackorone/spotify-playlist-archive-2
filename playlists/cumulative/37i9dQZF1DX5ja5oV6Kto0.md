@@ -4,7 +4,7 @@
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Anabel Rose
 
-1,144 songs - 2 day 7 hr 0 min
+1,145 songs - 2 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [Forever](https://open.spotify.com/track/5GnuO3v22mQJMrDXx8NEQP) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:16 | 2024-06-07 | 2025-03-15 |
 | [Format](https://open.spotify.com/track/1QPucGEaFM7i3Z9Tm0voim) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Format](https://open.spotify.com/album/3iHPaIY7AqsJar6H165Wa1) | 2:28 | 2026-06-05 | 2026-07-05 |
 | [Formula & Vim/Strangers in Accra](https://open.spotify.com/track/4rZOmXA1vGT1KRg3zVcDKq) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Papa Atey](https://open.spotify.com/artist/0me8eXuhZpWe142kwN8SjB) | [Formula & Vim/Strangers in Accra](https://open.spotify.com/album/0gxmM3YdxrWLiEHRpTLBrp) | 5:12 | 2026-05-01 | 2026-05-29 |
-| [FOTM \(Running\)](https://open.spotify.com/track/2QR0JM3xIQ2CRFsUuagSWs) | [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Taitan](https://open.spotify.com/artist/4g1BJchdm4bno5b4MD9fxf) | [FOTM \(Running\)](https://open.spotify.com/album/7yl1WnKiLCaYuwY4uXkxUJ) | 2:27 | 2026-06-19 |  |
+| [FOTM \(Running\)](https://open.spotify.com/track/2QR0JM3xIQ2CRFsUuagSWs) | [KwesiSoul](https://open.spotify.com/artist/2zaQxkROhBUJAyLyNnUuWr), [Taitan](https://open.spotify.com/artist/4g1BJchdm4bno5b4MD9fxf) | [FOTM \(Running\)](https://open.spotify.com/album/7yl1WnKiLCaYuwY4uXkxUJ) | 2:27 | 2026-06-19 | 2026-08-02 |
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/7quB4D2OH6Q5WwzeEga1q5) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 3:29 | 2021-09-16 | 2022-03-18 |
 | [Foundry](https://open.spotify.com/track/78zh684ScfBN6hLG7J5qj5) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [kalibwani](https://open.spotify.com/artist/6x5ayc2nUnF0bySx8ipDUk) | [Foundry](https://open.spotify.com/album/6oCN5GB1aumgfg8Y03feYe) | 3:55 | 2022-07-25 | 2023-06-17 |
 | [FOUR](https://open.spotify.com/track/6XUDoc4d4VptM17H72yJru) | [July Drama](https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug) | [FOUR](https://open.spotify.com/album/2cFmmxso937CGNMaB8DLct) | 3:37 | 2021-10-28 | 2022-06-17 |
@@ -774,6 +774,7 @@
 | [Paralyzed](https://open.spotify.com/track/732V635ubhdFoit9gXMJt1) | [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Paralyzed](https://open.spotify.com/album/21FZqC9TeNYqgJJFEOMaRU) | 3:05 | 2022-04-21 | 2022-10-08 |
 | [Paris](https://open.spotify.com/track/7dYVHl9iCM6SFaiQ6KpJ8k) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Paris](https://open.spotify.com/album/2Og60Asyn30jSOaR7NLwR1) | 3:20 | 2026-03-20 | 2026-06-06 |
 | [Part2 \(Dinner in Maui\)](https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te) | [Hermez](https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Part2 \(Dinner in Maui\)](https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO) | 3:13 | 2022-09-23 | 2023-06-17 |
+| [party animal$ interlude \(with suono sai\)](https://open.spotify.com/track/2Ug1ARrqDUr3lVvoF4n8Ag) | [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf), [Suono Sai](https://open.spotify.com/artist/14sJMBcF035eGzDwdxEcSX) | [party animal$ interlude \(with suono sai\)](https://open.spotify.com/album/39dvgXUbrqtndPoc4TYwtq) | 2:08 | 2026-07-31 |  |
 | [Party Rider](https://open.spotify.com/track/3IxdNMA8CAdhUqzsKLVa0c) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Party Rider](https://open.spotify.com/album/7N2GQlAimFSXCuKq5lhCE6) | 2:44 | 2022-01-20 | 2023-03-18 |
 | [Passenger 555](https://open.spotify.com/track/1uzIRwVybr2mBvJSnQItnQ) | [Jinku](https://open.spotify.com/artist/3gkk18CqFxsmkZkGyYZKqo), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Passenger 555](https://open.spotify.com/album/5kvhkBw0dqS3hAcpTblmKS) | 3:15 | 2022-05-19 | 2022-11-04 |
 | [Passport](https://open.spotify.com/track/65Dr9kKMScOqdjGGjU01ui) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Passport](https://open.spotify.com/album/7wG3slay5oeAb5hBTW1Itd) | 3:05 | 2024-10-25 | 2025-05-23 |

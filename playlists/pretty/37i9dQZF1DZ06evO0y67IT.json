@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAABXvBhc5rZPk+AMzT0+569L",
+  "snapshot_id": "amvlgAAAAADmfztYM6bO7BXpbVDU+J2i",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like A Cardinal",
+        "url": "https://open.spotify.com/album/0WgjN3Lsf6Hm6HT2cyeeaL"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Like A Cardinal",
+      "url": "https://open.spotify.com/track/4N5dGASD5wvKv1YCNkzjzs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ohio is for Lovers",
         "url": "https://open.spotify.com/album/2bO7PHFh5712J67rb3A1ZR"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 174915,
       "name": "Ohio is for Lovers - Lofi",
       "url": "https://open.spotify.com/track/5uRv1MShrZQBJhUqahx8s8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like A Cardinal",
-        "url": "https://open.spotify.com/album/0WgjN3Lsf6Hm6HT2cyeeaL"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 202200,
-      "name": "Like A Cardinal",
-      "url": "https://open.spotify.com/track/4N5dGASD5wvKv1YCNkzjzs"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+        "name": "Fragile Future",
+        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 163605,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
+      "duration_ms": 226826,
+      "name": "The Business Of Paper Stars",
+      "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragile Future",
-        "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         }
       ],
-      "duration_ms": 226826,
-      "name": "The Business Of Paper Stars",
-      "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
+      "duration_ms": 163605,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
     },
     {
       "added_at": null,

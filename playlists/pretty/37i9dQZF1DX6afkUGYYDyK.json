@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 74223,
+  "num_followers": 74276,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "Thank You Lord",
-        "url": "https://open.spotify.com/album/3PfFTfC8a3ClTgTCOLdD7H"
-      },
-      "artists": [
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 297244,
-      "name": "Thank You Lord",
-      "url": "https://open.spotify.com/track/3f23uLcpKfNa4AMsNqfBpw"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/2zznlGM6OjviHAvriRoSob"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 215384,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "Thank You Lord",
+        "url": "https://open.spotify.com/album/3PfFTfC8a3ClTgTCOLdD7H"
+      },
+      "artists": [
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 297244,
+      "name": "Thank You Lord",
+      "url": "https://open.spotify.com/track/3f23uLcpKfNa4AMsNqfBpw"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
+        "name": "Thank You For It All",
+        "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 264430,
+      "name": "Thank You For It All",
+      "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
         "name": "Faith Of My Father",
         "url": "https://open.spotify.com/album/0I0JE2RocLzI0ymeGGbfvC"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 249186,
       "name": "Give Thanks",
       "url": "https://open.spotify.com/track/4x9fYrQw7l3oDXq7P6oR7d"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
-        "name": "Thank You For It All",
-        "url": "https://open.spotify.com/album/4lbpO1M91NwQnMihAr3nEl"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 264430,
-      "name": "Thank You For It All",
-      "url": "https://open.spotify.com/track/1uA4YKtkUT8wvFobwTtonp"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "Thank The Lord",
-        "url": "https://open.spotify.com/album/5W8f2P0TXfmMGruXVp4WBF"
-      },
-      "artists": [
-        {
-          "name": "Patrick Mayberry",
-          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "Thank The Lord",
-      "url": "https://open.spotify.com/track/48NixLE8O2z9G7VnFh2OVf"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/2l5xqSAVtEUj0U26vjL0SQ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 168298,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/2yoYqPHby8XM6U4VebeoWK"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "Thank The Lord",
+        "url": "https://open.spotify.com/album/5W8f2P0TXfmMGruXVp4WBF"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "Thank The Lord",
+      "url": "https://open.spotify.com/track/48NixLE8O2z9G7VnFh2OVf"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -807,6 +807,22 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
+        "name": "Not The Same",
+        "url": "https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 141049,
+      "name": "Days Like This",
+      "url": "https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/4HDwPDTN5uJVlk5DTkjQkV"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 417177,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/2LB2qBIkW7IwK0u99VEeSN"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
-        "name": "Not The Same",
-        "url": "https://open.spotify.com/album/0VFPdgc6mUfCNXSkvGqs0p"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "duration_ms": 141049,
-      "name": "Days Like This",
-      "url": "https://open.spotify.com/track/1DE1SPuhjnsgKa9Uu5m5P9"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "Thank You Jesus",
-        "url": "https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4"
-      },
-      "artists": [
-        {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
-        }
-      ],
-      "duration_ms": 562626,
-      "name": "Thank You Jesus",
-      "url": "https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "The Bloody Win (Live)",
         "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 392586,
       "name": "Give Thanks - Live",
       "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "Thank You Jesus",
+        "url": "https://open.spotify.com/album/5d24oqk9uXXaC6ePJkv8E4"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        }
+      ],
+      "duration_ms": 562626,
+      "name": "Thank You Jesus",
+      "url": "https://open.spotify.com/track/5Bb87A2y55NxgkPbwkX9Ot"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 710916,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
         "name": "Yes, We Believe (Live)",
         "url": "https://open.spotify.com/album/2ep9ouSatrcBrwtb2XYbl6"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 378434,
       "name": "Stand In Awe - Live",
       "url": "https://open.spotify.com/track/5LVVufavpKNI6AjvTnU8XR"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 710916,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
+        "name": "Thank You (Famine Or Feast)",
+        "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "duration_ms": 203986,
+      "name": "Thank You (Famine Or Feast)",
+      "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
         "name": "Thank You Lord",
         "url": "https://open.spotify.com/album/0BJntH21Xd65RJsLzlsipj"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 186000,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/5xPmU88ZnWOfPVFIlUogNk"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
-        "name": "Thank You (Famine Or Feast)",
-        "url": "https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q"
-      },
-      "artists": [
-        {
-          "name": "Erik Nieder",
-          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
-        }
-      ],
-      "duration_ms": 203986,
-      "name": "Thank You (Famine Or Feast)",
-      "url": "https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -1727,18 +1727,22 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "Thankful (7.6.19)",
-        "url": "https://open.spotify.com/album/18yQ0hBBSbzbX6sDwYt5yX"
+        "name": "Thankful (Live)",
+        "url": "https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8"
       },
       "artists": [
         {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+          "name": "Cross Worship",
+          "url": "https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f"
+        },
+        {
+          "name": "Lilly Powers",
+          "url": "https://open.spotify.com/artist/0dkmEy84PNteOhnxSZyJkt"
         }
       ],
-      "duration_ms": 152973,
-      "name": "Thankful (7.6.19)",
-      "url": "https://open.spotify.com/track/6HBHeStTx6pT5rMuu3O1T1"
+      "duration_ms": 419000,
+      "name": "Thankful - Live",
+      "url": "https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -1759,6 +1763,22 @@
       "duration_ms": 249173,
       "name": "Thank You So Much Jesus",
       "url": "https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "Thankful (7.6.19)",
+        "url": "https://open.spotify.com/album/18yQ0hBBSbzbX6sDwYt5yX"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Thankful (7.6.19)",
+      "url": "https://open.spotify.com/track/6HBHeStTx6pT5rMuu3O1T1"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -1807,22 +1827,6 @@
       "duration_ms": 186709,
       "name": "That Thank You Song!",
       "url": "https://open.spotify.com/track/5YHrFpkDJ0yThCWlx3MbSa"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
-        "name": "Thank You (Radio Version)",
-        "url": "https://open.spotify.com/album/5FaWyVNdvnGV1vmNnnXHYf"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 206358,
-      "name": "Thank You - Radio Version",
-      "url": "https://open.spotify.com/track/2oQdsStjfSg02UIM3sR5ra"
     }
   ],
   "unique_name": "Give Thanks",

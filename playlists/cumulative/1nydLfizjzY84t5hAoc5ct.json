@@ -1807,6 +1807,24 @@
     },
     {
       "album": {
+        "name": "Drifter",
+        "url": "https://open.spotify.com/album/7y3zrURIBo1ErbNPvAIXPv"
+      },
+      "artists": [
+        {
+          "name": "Niamh Maclennan",
+          "url": "https://open.spotify.com/artist/247iknhYrODyfkmJUmdQkv"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200110,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/3JICKQlw5205xD5vja4zGP"
+    },
+    {
+      "album": {
         "name": "cases",
         "url": "https://open.spotify.com/album/4XyxycEfY5tF8VissqvHd9"
       },
@@ -3148,7 +3166,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 245121,
       "name": "Judas",
       "url": "https://open.spotify.com/track/2s94PxF7yqcxrsVaaknPtJ"
@@ -4456,6 +4474,24 @@
       "duration_ms": 162000,
       "name": "Posers",
       "url": "https://open.spotify.com/track/5lDo83ASWT5BkJQtXPUmdh"
+    },
+    {
+      "album": {
+        "name": "Princess on the Run",
+        "url": "https://open.spotify.com/album/5lBZZDm9Z45SI6YdWe1zlm"
+      },
+      "artists": [
+        {
+          "name": "KATERINA.",
+          "url": "https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "Princess on the Run",
+      "url": "https://open.spotify.com/track/4eAilAqbTxA9St4IwpWYfC"
     },
     {
       "album": {

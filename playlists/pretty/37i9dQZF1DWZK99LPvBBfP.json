@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 380864,
+  "num_followers": 381029,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "T.V. Scene (Sensurround Mix)",
+        "url": "https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae"
+      },
+      "artists": [
+        {
+          "name": "Linda Di Franco",
+          "url": "https://open.spotify.com/artist/7DslfczzwUOIbfmCiGmIgW"
+        }
+      ],
+      "duration_ms": 438408,
+      "name": "T.V. Scene - Sensurround Mix",
+      "url": "https://open.spotify.com/track/2boRfspDMS8D2e44lw6VTl"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Watch The Sunrise",
         "url": "https://open.spotify.com/album/1Md7ZeYEBe2lkEnxMxFpeZ"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 372493,
       "name": "Watch The Sunrise - Extended Vocal",
       "url": "https://open.spotify.com/track/0gkPk0ZveKo3407ahJtsgB"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "T.V. Scene (Sensurround Mix)",
-        "url": "https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae"
-      },
-      "artists": [
-        {
-          "name": "Linda Di Franco",
-          "url": "https://open.spotify.com/artist/7DslfczzwUOIbfmCiGmIgW"
-        }
-      ],
-      "duration_ms": 438408,
-      "name": "T.V. Scene - Sensurround Mix",
-      "url": "https://open.spotify.com/track/2boRfspDMS8D2e44lw6VTl"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Upstairs at Eric's",
+        "url": "https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 345626,
+      "name": "Situation - 12\" Remix",
+      "url": "https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Canoa",
         "url": "https://open.spotify.com/album/4hpJ2yJGx1GM6j6qyT8fpt"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 546791,
       "name": "Canoa",
       "url": "https://open.spotify.com/track/7yAqzJAp6RaOtiDL4MgKzx"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "Upstairs at Eric's",
-        "url": "https://open.spotify.com/album/35XWsJcKVHGmDKE8XUd3o3"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 345626,
-      "name": "Situation - 12\" Remix",
-      "url": "https://open.spotify.com/track/6tYhUkkjnsR0wRfHAM7cQD"
     }
   ],
   "unique_name": "Ibiza Classics",

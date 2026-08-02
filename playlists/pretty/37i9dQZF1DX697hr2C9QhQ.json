@@ -1,6 +1,6 @@
 {
   "description": "Rock legends from Ireland. Cover: Sin\u00e9ad O'Connor",
-  "num_followers": 63852,
+  "num_followers": 63902,
   "original_name": "Irish Rock Classics",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
-        "name": "Johnny The Fox",
-        "url": "https://open.spotify.com/album/4mxKyD8U3gtuLha0YdQbpD"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 137866,
-      "name": "Don't Believe A Word",
-      "url": "https://open.spotify.com/track/19Db89BvpKxmuT4S31OkRX"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
         "name": "Fitzcarraldo",
         "url": "https://open.spotify.com/album/0Vjm2unCHuRexuJob6i6cu"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 226960,
       "name": "Revelate",
       "url": "https://open.spotify.com/track/18OnYhBaL7FTC1mYonXPKv"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
+        "name": "Johnny The Fox",
+        "url": "https://open.spotify.com/album/4mxKyD8U3gtuLha0YdQbpD"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 137866,
+      "name": "Don't Believe A Word",
+      "url": "https://open.spotify.com/track/19Db89BvpKxmuT4S31OkRX"
     },
     {
       "added_at": "2022-03-17 10:54:32",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-03-17 10:54:32",
       "album": {
+        "name": "Fitzcarraldo",
+        "url": "https://open.spotify.com/album/0Vjm2unCHuRexuJob6i6cu"
+      },
+      "artists": [
+        {
+          "name": "The Frames",
+          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
+        }
+      ],
+      "duration_ms": 368866,
+      "name": "Fitzcarraldo",
+      "url": "https://open.spotify.com/track/4FAN7gg5LPWtEsX2xie3XV"
+    },
+    {
+      "added_at": "2022-03-17 10:54:32",
+      "album": {
         "name": "Solo In Soho",
         "url": "https://open.spotify.com/album/2rDqLB2SCj6lgiVkdYnA7c"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 232413,
       "name": "Heyday",
       "url": "https://open.spotify.com/track/7FS1UB8yXnlvq7ICWHPUOi"
-    },
-    {
-      "added_at": "2022-03-17 10:54:32",
-      "album": {
-        "name": "Fitzcarraldo",
-        "url": "https://open.spotify.com/album/0Vjm2unCHuRexuJob6i6cu"
-      },
-      "artists": [
-        {
-          "name": "The Frames",
-          "url": "https://open.spotify.com/artist/6lyku6lhbB3tLc3Dghs5CM"
-        }
-      ],
-      "duration_ms": 368866,
-      "name": "Fitzcarraldo",
-      "url": "https://open.spotify.com/track/4FAN7gg5LPWtEsX2xie3XV"
     },
     {
       "added_at": "2022-03-17 10:54:32",

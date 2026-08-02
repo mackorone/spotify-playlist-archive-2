@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 50444,
+  "num_followers": 50457,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAADatIite7VOwnwB3z26g7Bb",
+  "snapshot_id": "amvlgAAAAABS/1o+DowX4UQSNqivaZom",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 228853,
-      "name": "Kill",
-      "url": "https://open.spotify.com/track/6dnHFZrpQDzSAxIsnQaEcJ"
+      "duration_ms": 433160,
+      "name": "23",
+      "url": "https://open.spotify.com/track/12tjs2HBsd4puDnUgZMKki"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 433160,
-      "name": "23",
-      "url": "https://open.spotify.com/track/12tjs2HBsd4puDnUgZMKki"
+      "duration_ms": 228853,
+      "name": "Kill",
+      "url": "https://open.spotify.com/track/6dnHFZrpQDzSAxIsnQaEcJ"
     },
     {
       "added_at": null,

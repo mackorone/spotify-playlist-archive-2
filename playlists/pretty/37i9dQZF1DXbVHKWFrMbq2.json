@@ -1,6 +1,6 @@
 {
   "description": "canciones para chillear con Mar Marzo",
-  "num_followers": 29027,
+  "num_followers": 29028,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        },
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "Me Voy",
         "url": "https://open.spotify.com/album/6coawkjwmsVSZLNWonYWB7"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 177222,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/5Deh5Zvh6IOkIpbqgXc7fX"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "De M\u00ed",
+        "url": "https://open.spotify.com/album/23h6icLPD6r3lXwFIJWqEO"
+      },
+      "artists": [
+        {
+          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
+          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "duration_ms": 180073,
+      "name": "De M\u00ed",
+      "url": "https://open.spotify.com/track/6kaadx17OCu6h4E92Gqpu7"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "Cristal",
         "url": "https://open.spotify.com/album/4LTaRXfhC5z6cUpQLDvNnd"
       },
@@ -1139,26 +1159,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "As\u00ed Es el Calor",
-        "url": "https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo"
-      },
-      "artists": [
-        {
-          "name": "Cachorro Lopez",
-          "url": "https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x"
-        },
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 180017,
-      "name": "As\u00ed Es el Calor",
-      "url": "https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "+ de cerquita",
         "url": "https://open.spotify.com/album/5kV4C5LAC0m9LK5QZyrypr"
       },
@@ -1191,22 +1191,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "De M\u00ed",
-        "url": "https://open.spotify.com/album/23h6icLPD6r3lXwFIJWqEO"
+        "name": "As\u00ed Es el Calor",
+        "url": "https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo"
       },
       "artists": [
         {
-          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
-          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+          "name": "Cachorro Lopez",
+          "url": "https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x"
         },
         {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
         }
       ],
-      "duration_ms": 180073,
-      "name": "De M\u00ed",
-      "url": "https://open.spotify.com/track/6kaadx17OCu6h4E92Gqpu7"
+      "duration_ms": 180017,
+      "name": "As\u00ed Es el Calor",
+      "url": "https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Loquero Viejo",
-        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 211460,
-      "name": "Loquero Viejo",
-      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "No hay nadie como t\u00fa",
         "url": "https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 185138,
       "name": "No hay nadie como t\u00fa",
       "url": "https://open.spotify.com/track/2ylnGkpzyQ7NIqFA4yt0sZ"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "Loquero Viejo",
+        "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 211460,
+      "name": "Loquero Viejo",
+      "url": "https://open.spotify.com/track/7JqGwkeTQzwY0EIZl4J7DT"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
-        "name": "Ramma + Cindy Cats - Spotify Sessions",
-        "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
-      },
-      "artists": [
-        {
-          "name": "Ramma",
-          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
-        },
-        {
-          "name": "Cindy Cats",
-          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
-        }
-      ],
-      "duration_ms": 229729,
-      "name": "cuando pase la tormenta - Spotify Sessions",
-      "url": "https://open.spotify.com/track/1wDzdboT18AyCJpRxXPW70"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
         "name": "Pensando en Ti",
         "url": "https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH"
       },
@@ -1371,6 +1351,26 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "Ramma + Cindy Cats - Spotify Sessions",
+        "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
+      },
+      "artists": [
+        {
+          "name": "Ramma",
+          "url": "https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg"
+        },
+        {
+          "name": "Cindy Cats",
+          "url": "https://open.spotify.com/artist/0tXx2go38kDFspTAcypicv"
+        }
+      ],
+      "duration_ms": 229729,
+      "name": "cuando pase la tormenta - Spotify Sessions",
+      "url": "https://open.spotify.com/track/1wDzdboT18AyCJpRxXPW70"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "Mar de Coral",
         "url": "https://open.spotify.com/album/2yf25R3v9cbYcfRrOML3iF"
       },
@@ -1407,6 +1407,26 @@
       "duration_ms": 139049,
       "name": "MUCHO CON DEMASIAO'",
       "url": "https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
+        "name": "PEL\u00cdCULAS PERDIDAS EN CASA (SESIONES EN VIVO)",
+        "url": "https://open.spotify.com/album/4Y3VS60V0kZiTpWI4bwZXE"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        },
+        {
+          "name": "gatogaso",
+          "url": "https://open.spotify.com/artist/23iyEQEQLFgWEpcDk1cjoK"
+        }
+      ],
+      "duration_ms": 184640,
+      "name": "500 a\u00f1os luz - en vivo",
+      "url": "https://open.spotify.com/track/2tgEgIJSMTNvsXQpRofAAv"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1463,26 +1483,6 @@
       "duration_ms": 155370,
       "name": "Rayo de sol",
       "url": "https://open.spotify.com/track/11aKpufd8rGqYlnvdV1tsy"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "PEL\u00cdCULAS PERDIDAS EN CASA (SESIONES EN VIVO)",
-        "url": "https://open.spotify.com/album/4Y3VS60V0kZiTpWI4bwZXE"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        },
-        {
-          "name": "gatogaso",
-          "url": "https://open.spotify.com/artist/23iyEQEQLFgWEpcDk1cjoK"
-        }
-      ],
-      "duration_ms": 184640,
-      "name": "500 a\u00f1os luz - en vivo",
-      "url": "https://open.spotify.com/track/2tgEgIJSMTNvsXQpRofAAv"
     },
     {
       "added_at": "2026-07-31 03:00:08",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-07-31 03:00:08",
       "album": {
+        "name": "ME SIENTO TAN BIEN - LIMBO SESSION",
+        "url": "https://open.spotify.com/album/1o7fxc0nuxicIlma17FH2K"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Mora",
+          "url": "https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE"
+        }
+      ],
+      "duration_ms": 229499,
+      "name": "ME SIENTO TAN BIEN - LIMBO SESSION",
+      "url": "https://open.spotify.com/track/6MBgZ2TlqyZkoIHpukgapb"
+    },
+    {
+      "added_at": "2026-07-31 03:00:08",
+      "album": {
         "name": "Entr\u00e9gate",
         "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 198243,
       "name": "No te apartes de m\u00ed",
       "url": "https://open.spotify.com/track/3m1Inb0nuLgTW0Hv4LxLQ8"
-    },
-    {
-      "added_at": "2026-07-31 03:00:08",
-      "album": {
-        "name": "al menos esta vez",
-        "url": "https://open.spotify.com/album/04kcMaGoeUfsql1U9IHnI1"
-      },
-      "artists": [
-        {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
-        }
-      ],
-      "duration_ms": 243128,
-      "name": "al menos esta vez",
-      "url": "https://open.spotify.com/track/66gBvl6lnycugddmfIs4dL"
     },
     {
       "added_at": "2026-07-31 03:00:08",

@@ -299,6 +299,24 @@
     },
     {
       "album": {
+        "name": "CUIDAME DE LA ENVIDIA",
+        "url": "https://open.spotify.com/album/1G4RNSA25MlmAEtxIvXXc4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "CUIDAME DE LA ENVIDIA",
+      "url": "https://open.spotify.com/track/3Js63nef8ULBrGnfEC4l1x"
+    },
+    {
+      "album": {
         "name": "Diez Mandamientos",
         "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
       },
@@ -956,7 +974,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 162500,
       "name": "Legado",
       "url": "https://open.spotify.com/track/5jd85MnXpMNa6OxhLJKwQQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Ariana Grande, Luciano, Jazeek, Selena Gomez, Chapo102 & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,699 likes - 93 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,711 likes - 93 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 29 | [ABC](https://open.spotify.com/track/2o4hGAMyIiRavhCdhZTJMD) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [ABC](https://open.spotify.com/album/3HkzLUN06RT5EzPTFEQPXm) | 2:29 |
 | 30 | [Everlasting](https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Everlasting](https://open.spotify.com/album/5oB1a3IpezAWEtn35xEfok) | 2:37 |
 | 31 | [Yalla Yalla](https://open.spotify.com/track/0evrte0LR0yRfJ8KherpFZ) | [Elly](https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt), [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [Yalla Yalla](https://open.spotify.com/album/2QNKON838ziGNQSSRuia6t) | 2:02 |
-| 32 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
+| 32 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
 | 33 | [HAJDE](https://open.spotify.com/track/0WWEkARHV9Es75DMwsRi5S) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [HAJDE](https://open.spotify.com/album/1ho9nWEQkbUKifqFGHpLoP) | 2:17 |
 | 34 | [911 \(CALL THE LAW\)](https://open.spotify.com/track/0ct5TyLZyVj0cr4HmgwM54) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [911 \(CALL THE LAW\)](https://open.spotify.com/album/3lM2x5DFatzQNmTxsxIKTP) | 2:21 |
 | 35 | [dance til i die](https://open.spotify.com/track/2ZIcZ5RvzV1gnShFxC0UfE) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [dance til i die](https://open.spotify.com/album/72YpF62FQR3pcHjFDfyl4Q) | 2:59 |

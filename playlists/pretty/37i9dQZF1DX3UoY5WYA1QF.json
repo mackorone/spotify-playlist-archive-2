@@ -1,6 +1,6 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 194921,
+  "num_followers": 194949,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 167400,
-      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
-      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
+      "duration_ms": 171000,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
+      "duration_ms": 167400,
+      "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
+      "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 162767,
-      "name": "En Un Hilo",
-      "url": "https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Dos Mundos Tradici\u00f3n",
         "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 202756,
       "name": "Prisionero De La Ciudad",
       "url": "https://open.spotify.com/track/65nHDfhLe607gawYa1m1Dx"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 162767,
+      "name": "En Un Hilo",
+      "url": "https://open.spotify.com/track/7vSLmGArchqRVf6qbp2U6L"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "La Mas Completa Coleccion (Disco 2)",
-        "url": "https://open.spotify.com/album/4WcJ3z0XyHH6KMtpz6HthD"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Dos Mares M\u00e1s Que Tu",
-      "url": "https://open.spotify.com/track/7nLfZmxHpA4ITHpB2olVcc"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Dos Mundos Tradici\u00f3n",
         "url": "https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I"
       },
@@ -947,6 +931,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "La Mas Completa Coleccion (Disco 2)",
+        "url": "https://open.spotify.com/album/4WcJ3z0XyHH6KMtpz6HthD"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Dos Mares M\u00e1s Que Tu",
+      "url": "https://open.spotify.com/track/7nLfZmxHpA4ITHpB2olVcc"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Homenaje a Joan Sebastian",
         "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
       },
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
         }
       ],
-      "duration_ms": 182099,
-      "name": "Aunque Me Duela El Alma",
-      "url": "https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX"
+      "duration_ms": 205191,
+      "name": "El Peor De Tus Antojos",
+      "url": "https://open.spotify.com/track/1ZOvUILZcLWdNXYar5MvVy"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Grandes De Joan Sebasti\u00e1n",
+        "url": "https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "Sembrador De Amor",
+      "url": "https://open.spotify.com/track/31u2sFmZgwQPC2fp0HgYAj"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "La Mas Completa Coleccion (Disco 2)",
         "url": "https://open.spotify.com/album/4WcJ3z0XyHH6KMtpz6HthD"
       },
@@ -1007,6 +1023,22 @@
       "duration_ms": 176453,
       "name": "La Mam\u00e1 De Los Pollitos",
       "url": "https://open.spotify.com/track/5LwKNFgJDGF2dMKOkDuPqn"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Homenaje a Joan Sebastian",
+        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos Del Norte",
+          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
+        }
+      ],
+      "duration_ms": 182099,
+      "name": "Aunque Me Duela El Alma",
+      "url": "https://open.spotify.com/track/52FBjQoUnKggtPo5Z54axX"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1031,38 +1063,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Homenaje a Joan Sebastian",
-        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
-      },
-      "artists": [
-        {
-          "name": "Los Herederos Del Norte",
-          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
-        }
-      ],
-      "duration_ms": 205191,
-      "name": "El Peor De Tus Antojos",
-      "url": "https://open.spotify.com/track/1ZOvUILZcLWdNXYar5MvVy"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Grandes De Joan Sebasti\u00e1n",
-        "url": "https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "Sembrador De Amor",
-      "url": "https://open.spotify.com/track/31u2sFmZgwQPC2fp0HgYAj"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Homenaje al Poeta Gracias Joan Sebastian",
         "url": "https://open.spotify.com/album/6z37JarZO3f6O0hLmTZp6f"
       },
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Grandes De Joan Sebasti\u00e1n",
+        "url": "https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "Medios Hermanos",
+      "url": "https://open.spotify.com/track/64ipivlugGKqBdGRFbQmpm"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "",
         "url": "https://open.spotify.com/album/66dJRbBzcvfug5X4M0K4WF"
       },
@@ -1091,6 +1107,22 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/4xznW7HGSngMmCrIeBPgmT"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Homenaje a Joan Sebastian",
+        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos Del Norte",
+          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Contando Penas",
+      "url": "https://open.spotify.com/track/7a37gfqE5ax5abZdPOiwAe"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1115,18 +1147,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Homenaje a Joan Sebastian",
-        "url": "https://open.spotify.com/album/5yz4lRJo5pIFupzoG02Hkr"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P"
       },
       "artists": [
         {
-          "name": "Los Herederos Del Norte",
-          "url": "https://open.spotify.com/artist/59lr7yic3qRWQziLKd7MEc"
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Contando Penas",
-      "url": "https://open.spotify.com/track/7a37gfqE5ax5abZdPOiwAe"
+      "duration_ms": 224946,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1140,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
         }
       ],
-      "duration_ms": 212466,
-      "name": "Medios Hermanos",
-      "url": "https://open.spotify.com/track/64ipivlugGKqBdGRFbQmpm"
+      "duration_ms": 161146,
+      "name": "Mi Propio Final",
+      "url": "https://open.spotify.com/track/2k5ziJ7kZGaHGmWlxZANn9"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1211,18 +1243,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Grandes De Joan Sebasti\u00e1n",
-        "url": "https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb"
+        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
+        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
       },
       "artists": [
         {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 161146,
-      "name": "Mi Propio Final",
-      "url": "https://open.spotify.com/track/2k5ziJ7kZGaHGmWlxZANn9"
+      "duration_ms": 203816,
+      "name": "Amorcito Mio",
+      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1243,18 +1275,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Encerrados Pero Enfiestados (Live Vol. 1)",
-        "url": "https://open.spotify.com/album/6zXEcqqa4uHq4rg62M0Fxj"
+        "name": "Bien Acompa\u00f1ado",
+        "url": "https://open.spotify.com/album/3VwFhK9D8AFgcaVXAcpjh0"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Armando \u00c1vila",
+          "url": "https://open.spotify.com/artist/1fQ04gxgU3X7aKVf8YtzCl"
         }
       ],
-      "duration_ms": 203816,
-      "name": "Amorcito Mio",
-      "url": "https://open.spotify.com/track/70Gg7ZAnrEzhcIB2zOiyVt"
+      "duration_ms": 262680,
+      "name": "Asi Es La Vida",
+      "url": "https://open.spotify.com/track/6kR5VFCLduvKeVlljCeHBx"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1287,46 +1327,6 @@
       "duration_ms": 191800,
       "name": "Recu\u00e9rdame Bonito",
       "url": "https://open.spotify.com/track/0Jp5xokKeQoHRI0xlTKc9A"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/7ARafZyz3I2D7aI2DsTF5P"
-      },
-      "artists": [
-        {
-          "name": "Los Dinnosaurios",
-          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "El Taxista",
-      "url": "https://open.spotify.com/track/6vsxXwgCpGppUKFSDOildp"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Bien Acompa\u00f1ado",
-        "url": "https://open.spotify.com/album/3VwFhK9D8AFgcaVXAcpjh0"
-      },
-      "artists": [
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
-        },
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Armando \u00c1vila",
-          "url": "https://open.spotify.com/artist/1fQ04gxgU3X7aKVf8YtzCl"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "Asi Es La Vida",
-      "url": "https://open.spotify.com/track/6kR5VFCLduvKeVlljCeHBx"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Pepe Aguilar Interpreta a Joan Sebastian",
-        "url": "https://open.spotify.com/album/66Lw4f3SFdNVlF31lvxIkS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 213228,
-      "name": "Mas Alto Que las Aguilas",
-      "url": "https://open.spotify.com/track/1GNuQuLlnE5RGnyI7Ci64s"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Homenaje a un Poeta",
         "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 178066,
       "name": "Me Dueles",
       "url": "https://open.spotify.com/track/2j3goI4D6w6SGqQEJYzO0s"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Pepe Aguilar Interpreta a Joan Sebastian",
+        "url": "https://open.spotify.com/album/66Lw4f3SFdNVlF31lvxIkS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 213228,
+      "name": "Mas Alto Que las Aguilas",
+      "url": "https://open.spotify.com/track/1GNuQuLlnE5RGnyI7Ci64s"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Soy Como Quiero Ser (Deluxe)",
-        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 149702,
-      "name": "Pienso En Ti",
-      "url": "https://open.spotify.com/track/53yWukI5ywNKVkAd6dWFs8"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Homenaje a un Poeta",
         "url": "https://open.spotify.com/album/2eBfqcMCSoV3OGcBvascTO"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 165482,
       "name": "El Viejo Joven",
       "url": "https://open.spotify.com/track/1LSjVTaiRNOLNotHUIYqYU"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Soy Como Quiero Ser (Deluxe)",
+        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 149702,
+      "name": "Pienso En Ti",
+      "url": "https://open.spotify.com/track/53yWukI5ywNKVkAd6dWFs8"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Soy Como Quiero Ser (Deluxe)",
-        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 157618,
-      "name": "El Viejo Joven",
-      "url": "https://open.spotify.com/track/45GTraHMIXhsBwWYNTxN4O"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Homenaje A Joan Sebastian",
         "url": "https://open.spotify.com/album/2x9eHnn6xlu7WCagpuk50i"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 226759,
       "name": "Homenaje A Joan Sebastian",
       "url": "https://open.spotify.com/track/08mTIG1Dh2pwwk4LeDH0UR"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Soy Como Quiero Ser (Deluxe)",
+        "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 157618,
+      "name": "El Viejo Joven",
+      "url": "https://open.spotify.com/track/45GTraHMIXhsBwWYNTxN4O"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Lo Mejor de Joan Sebastian",
-        "url": "https://open.spotify.com/album/46jBoLgiPCu6mesWfEdxW3"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 198360,
-      "name": "Asi Te Quiero",
-      "url": "https://open.spotify.com/track/4w0k7oGaTLMAmBQ3NUU7Ws"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Homenaje A Joan Sebastian",
         "url": "https://open.spotify.com/album/2x9eHnn6xlu7WCagpuk50i"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 165599,
       "name": "Melodia Para Dos",
       "url": "https://open.spotify.com/track/7s10cSCJcdnzGswgpYGyDF"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
+        "name": "Lo Mejor de Joan Sebastian",
+        "url": "https://open.spotify.com/album/46jBoLgiPCu6mesWfEdxW3"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 198360,
+      "name": "Asi Te Quiero",
+      "url": "https://open.spotify.com/track/4w0k7oGaTLMAmBQ3NUU7Ws"
     },
     {
       "added_at": "2024-07-12 06:00:00",

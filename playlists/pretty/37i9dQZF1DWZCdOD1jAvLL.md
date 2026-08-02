@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Stank face activated\. Cover: Slater Manzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,922 likes - 91 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,916 likes - 91 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 7 | [Inconvenient](https://open.spotify.com/track/6NdMuMddcN1WN4ui6gVNGa) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Inconvenient](https://open.spotify.com/album/2ytfet1wqsnrdvehfmDlI2) | 2:59 |
 | 8 | [Ride The Roller](https://open.spotify.com/track/6jJjNmaOr7b3Ej8UHHnv7O) | [Coka Cobra](https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC), [Average Citizens](https://open.spotify.com/artist/5sN9PgGYPrFI5OcEHF7VR9) | [Ride The Roller](https://open.spotify.com/album/1yG3Bmnq5KYxoneIMAaS4j) | 3:08 |
 | 9 | [600 Degrees](https://open.spotify.com/track/7kgGQ0mASiY6dLks30cUY5) | [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [DeLorean Black](https://open.spotify.com/artist/4plo7rEUdfyIE3Vfjw07qH) | [600 Degrees](https://open.spotify.com/album/1iKcGN0r8ME0BChC4VX5Gq) | 3:25 |
-| 10 | [FTCU](https://open.spotify.com/track/4F26R7vBKzplQ94RTrdJ0w) | [.EXA](https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i) | [FTCU](https://open.spotify.com/album/5afVEXlA91OO2PC1rN4h4l) | 3:15 |
+| 10 | [FTCU \(feat\. Mad Des\)](https://open.spotify.com/track/4F26R7vBKzplQ94RTrdJ0w) | [.EXA](https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i), [Mad Des](https://open.spotify.com/artist/0SMN6fPFotWNfurEYnxX5v) | [FTCU \(feat\. Mad Des\)](https://open.spotify.com/album/5afVEXlA91OO2PC1rN4h4l) | 3:15 |
 | 11 | [Party Time \(feat\. Aatig\)](https://open.spotify.com/track/5yYY6UIqKUIgv1gFnlIokW) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aatig](https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao) | [Party Time \(feat\. Aatig\)](https://open.spotify.com/album/49PLdkqAKVdfy608nqQchl) | 3:19 |
 | 12 | [Kick Back](https://open.spotify.com/track/3PLXh3XJRYXmKRsbmONqDd) | [MARTA](https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS), [Eve Lauren](https://open.spotify.com/artist/0VGRIovFmOFenDy7hnwr7g) | [Kick Back](https://open.spotify.com/album/1RbjW60PLyLqNaslqBPMvR) | 3:18 |
 | 13 | [How We Do It](https://open.spotify.com/track/79SpsM6FXfRkA9BglzGlyP) | [Dave Summer](https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5) | [Do My Thing EP](https://open.spotify.com/album/2oBy9gluPVKRvdtMeAr6s6) | 2:35 |

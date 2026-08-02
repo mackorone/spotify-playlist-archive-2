@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Robyn, Zara Larsson och Swedish House Mafia med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,281 likes - 74 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,280 likes - 74 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 4 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
 | 5 | [DNH](https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [DNH](https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN) | 2:27 |
 | 6 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
-| 7 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
+| 7 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
 | 8 | [Bullets & Blades \(feat\. Kehlani\)](https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Outlaw Cherie Lee & Other Western Tales](https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2) | 3:15 |
 | 9 | [Strike a pose](https://open.spotify.com/track/2Bb5cQ8WoqOE9OJ5obb4g9) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Strike a pose](https://open.spotify.com/album/2Z5IHmkZOCnYNRlFkfDUPI) | 2:36 |
 | 10 | [AH HA](https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AH HA](https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe) | 2:55 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 23 | [WannaCry](https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [WannaCry](https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ) | 3:39 |
 | 24 | [Ice Cream](https://open.spotify.com/track/2QjksV9r7w2BZdSKGb87Xv) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB) | [Ice Cream](https://open.spotify.com/album/2vwdFR2wCTmKECTDjdvHoP) | 2:52 |
 | 25 | [Lördag](https://open.spotify.com/track/0ogDQYMnKGS3gBWLJQNlpt) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Lördag](https://open.spotify.com/album/5OqiQNwCmbAEuc7bTsjtqV) | 2:18 |
-| 26 | [Solid Ground](https://open.spotify.com/track/3ev5Lo9VZfJzxYSlzLSPRn) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [Solid Ground](https://open.spotify.com/album/6HoSet2AQqSQ3tTdg8NSk9) | 3:04 |
+| 26 | [Solid Ground](https://open.spotify.com/track/3ev5Lo9VZfJzxYSlzLSPRn) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [Solid Ground](https://open.spotify.com/album/6HoSet2AQqSQ3tTdg8NSk9) | 3:04 |
 | 27 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 |
 | 28 | [mig&mine](https://open.spotify.com/track/1dKqErOPyoQQhATy16zHhV) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [mig&mine](https://open.spotify.com/album/2xQbfjtLAOMNMEIkuZahmk) | 2:10 |
 | 29 | [Nya Tider](https://open.spotify.com/track/6nvQ36W8OPI1vbPsM7NEzo) | [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Yei Gonzalez](https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq) | [Nya Tider](https://open.spotify.com/album/6eDcNwuDfAzEVDYzeY2jNE) | 2:12 |

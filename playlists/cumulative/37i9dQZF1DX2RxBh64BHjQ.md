@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4PooHx6BstbetDtBMrLyV7">Hurricane Wisdom</a>
 
-2,962 songs - 5 day 9 hr 57 min
+2,963 songs - 5 day 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -854,7 +854,7 @@
 | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Favorite Song \(feat\. Future\) \[Toxic Version\]](https://open.spotify.com/album/6PnM3rGkpZJ0Q9JoxnjnuH) | 3:28 | 2023-05-19 | 2023-09-02 |
 | [fear no man](https://open.spotify.com/track/73vvKT9c9LdGNIEcAdaBzW) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [fear no man](https://open.spotify.com/album/4WXsXSaN2hp2AHoVwLG65C) | 1:56 | 2022-12-09 | 2023-03-18 |
 | [Fearless](https://open.spotify.com/track/2aNdo4lf94W7YGaSIKuoKd) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [DJ B Real](https://open.spotify.com/artist/6l4qISfLJ0wqdsL8DUGI1E) | [Fearless](https://open.spotify.com/album/7uzqVr5Kr14beuHAbalp7S) | 3:12 | 2022-10-14 | 2022-12-10 |
-| [features](https://open.spotify.com/track/7GIPYRB6nhApPQwh8nUrXl) | [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [features](https://open.spotify.com/album/1IaG6H6K5wrBN8bZ2JB8VV) | 1:43 | 2026-02-07 |  |
+| [features](https://open.spotify.com/track/7GIPYRB6nhApPQwh8nUrXl) | [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [features](https://open.spotify.com/album/1IaG6H6K5wrBN8bZ2JB8VV) | 1:43 | 2026-02-07 | 2026-08-02 |
 | [Fed Up](https://open.spotify.com/track/2GhrZWAyh1ovRU50h5tf6l) | [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [Fed Up](https://open.spotify.com/album/1Mv3Yja7QDRWYDPL1NYIL5) | 1:25 | 2026-02-07 | 2026-02-14 |
 | [Fee](https://open.spotify.com/track/63ijZK3Q0lXJQNWHbs2Du1) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [Fee](https://open.spotify.com/album/0e2ru3NAva6jXCYfmJEiBb) | 4:28 | 2023-08-04 | 2023-09-23 |
 | [Feeeeeeeeel](https://open.spotify.com/track/5eSSmNIgjgzru9ONPvNNYf) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Feeeeeeeeel](https://open.spotify.com/album/4ETeS3fpSdrTBxSOims39G) | 2:13 | 2025-07-11 | 2025-09-06 |
@@ -1368,6 +1368,7 @@
 | [Keep It Cute](https://open.spotify.com/track/4wEI2bW0thTqJFukEaeXJs) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Keep It Cute](https://open.spotify.com/album/0SUZ6sHqYkNLI7C4Js5LwW) | 2:51 | 2023-05-12 | 2023-06-17 |
 | [Keep it Playa](https://open.spotify.com/track/1JBjfBbl1WdRz01inOooWz) | [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT) | [Keep it Playa](https://open.spotify.com/album/3ZqYTwO4j03qVGpXEzv516) | 2:45 | 2022-11-11 | 2023-01-28 |
 | [Keep It Quiet](https://open.spotify.com/track/0EjBXPjpjSho4PcatWg5iS) | [FTO Sett](https://open.spotify.com/artist/6STK8LKh7Lhr3t75x5iE7d) | [Keep It Quiet](https://open.spotify.com/album/0YmG2t2L8N0lhZ9inbqfE1) | 2:07 | 2024-06-28 | 2024-08-24 |
+| [keep me going \(BIRDBRAIN\)](https://open.spotify.com/track/2julCvWIxzXfX757t5Bnsn) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [keep me going \(BIRDBRAIN\)](https://open.spotify.com/album/6OOrYEPMhJEryhQVEFYxFR) | 2:09 | 2026-08-01 |  |
 | [Keep on Gettin It](https://open.spotify.com/track/06TbA8MtNeWZ7HKZlToTqw) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Keep on Gettin It](https://open.spotify.com/album/4UgxkUOeLoLmAovFdAKSav) | 2:38 | 2023-08-18 | 2023-10-21 |
 | [keep steady](https://open.spotify.com/track/2VOt88FoSGjSOuzLaeqz5k) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [no service](https://open.spotify.com/album/1UKK69dkl1m29OhETYyfcv) | 1:39 | 2025-10-10 | 2026-02-28 |
 | [keep steady](https://open.spotify.com/track/3UsJUXvHb7qz4GiQtEc4a4) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [keep steady](https://open.spotify.com/album/54IUGypqXx17Z0MhhJ7MhL) | 1:39 | 2025-02-28 | 2025-05-31 |

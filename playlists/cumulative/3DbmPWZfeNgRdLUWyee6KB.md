@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,338 songs - 3 day 5 hr 48 min
+1,341 songs - 3 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Boldly Piano Remake](https://open.spotify.com/track/2vrDMBBmTFGxhjGGktCv30) | [eKbeats](https://open.spotify.com/artist/1gpShRgOkgvzSV822BqQ50), [Eastman](https://open.spotify.com/artist/6sVZtMLp71Ky4TFGdz97yZ) | [Boldly Piano Remake](https://open.spotify.com/album/3L6SigtNYKcjDl2dyckOrv) | 2:19 | 2026-07-29 |  |
 | [Boltneck](https://open.spotify.com/track/6igTRenZofbW7sR9zElLja) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Boltneck](https://open.spotify.com/album/2GZSgTWpVYLXapQsOfjgYZ) | 4:20 | 2025-12-16 | 2026-01-15 |
 | [Book Of The Year](https://open.spotify.com/track/3LWoSvKMSDb8u9fCe9AUk2) | [Cardinal Verlengo](https://open.spotify.com/artist/7qTS4fsJD0uBmFW0H7cdh1) | [Book Of The Year](https://open.spotify.com/album/5I0bWkG5rFppcyHwWKjwvu) | 3:01 | 2026-07-22 |  |
+| [BORN OF LOVE](https://open.spotify.com/track/5JEBbEpMBo1ndQdtMD9RhL) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [BORN OF LOVE](https://open.spotify.com/album/4iqBnm4G4xEOz4YSDSOJEQ) | 2:28 | 2026-08-01 |  |
 | [Bossa](https://open.spotify.com/track/4YqjBKMp0QekJsGedjTNUI) | [J.T](https://open.spotify.com/artist/3x5QUokzTmSvhQxAkTGong) | [Take 1](https://open.spotify.com/album/4EnaDPAzy3jeEzx0L8Fgi2) | 2:57 | 2026-01-14 | 2026-02-20 |
 | [Boy Next Door](https://open.spotify.com/track/5EHR4uVoXlshVyS5GpsiaD) | [Puri](https://open.spotify.com/artist/66Fil4hOah2YFjf7HRBRGz) | [Boy Next Door](https://open.spotify.com/album/5dqky6vKPGW81nAaSshzr3) | 2:03 | 2026-06-13 | 2026-07-19 |
 | [BRAINROT](https://open.spotify.com/track/0crSsxSRmxYpJyxiCG1TcE) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [BRAINROT](https://open.spotify.com/album/3GmZ7TzBiquSsOlnAMaEkZ) | 2:57 | 2026-01-07 | 2026-02-03 |
@@ -678,6 +679,7 @@
 | [Madame B.](https://open.spotify.com/track/71fmi6YVjIPGSlEBhLOu93) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Madame B.](https://open.spotify.com/album/6mZWPwDeAzKlKuixUjrVXO) | 2:36 | 2023-09-21 | 2025-11-29 |
 | [Madame Oculus \- Remastered 2023](https://open.spotify.com/track/13RfunYLxstaIPa1XvJWFH) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Mateusz Nawrot](https://open.spotify.com/artist/61HeW3P7VjwuSOY80WO5ym), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 6:39 | 2023-11-16 | 2025-11-29 |
 | [Madeline](https://open.spotify.com/track/6YsMdG5E0jebOiFBDIIN5y) | [Silver Atom](https://open.spotify.com/artist/0JmgYnUa2o1dEDrxRgIl1B) | [Neon Heartbeats](https://open.spotify.com/album/6gsxqACTSgmkSQwERVY8Vd) | 3:20 | 2026-05-25 | 2026-07-03 |
+| [Magia](https://open.spotify.com/track/1BynXbJP0zjf7D9Dddnwiq) | [Henry Key](https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn) | [Magia](https://open.spotify.com/album/0aObso7ECNhubfU458p5wP) | 4:19 | 2026-08-01 |  |
 | [Mahmud Le Fakir \(Alt\. Vers\)](https://open.spotify.com/track/1W6QbynVJXB9oAFofmtpc5) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Ma sister jumps through fire: a jazz drama](https://open.spotify.com/album/5FW6ouGwJts0HD8PfUFti9) | 4:25 | 2023-04-20 | 2025-11-29 |
 | [Mai Chahun](https://open.spotify.com/track/7ehLGnxY9tOngRWuawpuTt) | [Krutika Mishra](https://open.spotify.com/artist/2H9xYvYvGLjuTWkCmWgj9Z) | [Mai Chahun](https://open.spotify.com/album/0kWa6Rylv05RfmhGbWEaSH) | 3:18 | 2026-02-02 | 2026-02-28 |
 | [Main Chahun \(From "Loopd"\)](https://open.spotify.com/track/2eHhLPOUFKTS1fIOeFPkdv) | [Giesel](https://open.spotify.com/artist/5NepTnAdzgR8EdjwN4Em3Y), [ThatOneGuy](https://open.spotify.com/artist/3sWobsz7KLworwEaXdw3iP) | [Main Chahun \(From "Loopd"\)](https://open.spotify.com/album/1KEL2S4BApReKb0pp0Xo9e) | 3:05 | 2026-01-26 | 2026-02-28 |
@@ -766,6 +768,7 @@
 | [Nature Boy](https://open.spotify.com/track/403Ydn6kygiS70b89NOAV6) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Nature Boy](https://open.spotify.com/album/4kK20BFEH9PWhKqjoikhUr) | 2:36 | 2025-08-08 | 2026-01-05 |
 | [Nein Danke](https://open.spotify.com/track/4pSpIFOpHjuFpByS9xdApT) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Nein Danke](https://open.spotify.com/album/667P5W52IbzIIRkYlGiROE) | 2:57 | 2026-01-16 | 2026-02-20 |
 | [Neon Dreaming](https://open.spotify.com/track/5SsOc7C3CtRl77BV5ALe3p) | [Saimöö](https://open.spotify.com/artist/5lmROWXyhhJDAH65lZLDKt), [Bobby John](https://open.spotify.com/artist/6QI1mcZG5nePp3poiPUYJD) | [Neon Dreaming](https://open.spotify.com/album/6ckTA85aCzjpVV6zH45E1B) | 2:22 | 2025-11-24 | 2026-01-05 |
+| [Neon Lights \(Rosie\)](https://open.spotify.com/track/0QFZoyrRiMq2P2kuG66WQQ) | [Remco Tuns](https://open.spotify.com/artist/3p5MUwzf3k2Ri9Q04kWnRF) | [Neon Lights \(Rosie\)](https://open.spotify.com/album/0pKzR1iwTAZxgNc714ACli) | 4:18 | 2026-08-01 |  |
 | [Never Grow Old](https://open.spotify.com/track/3QJfmcr1a0c86MCgLzaHnM) | [The How](https://open.spotify.com/artist/09hG1ZJdYeCJo1nB66BJzW) | [Never Grow Old](https://open.spotify.com/album/67tAHAkXWexrEUoucXOkao) | 3:31 | 2025-12-16 | 2026-01-15 |
 | [Never Is the Scariest Word](https://open.spotify.com/track/26Nwpmx9vEPuuTZrNauzaF) | [DJ Ames](https://open.spotify.com/artist/3G8xVeQjjIQgl0pECOI3ce) | [When The Credits Roll](https://open.spotify.com/album/3JI4IbgtEvRGRo7q5Q54iu) | 3:04 | 2025-12-15 | 2026-01-15 |
 | [Never Meet Again](https://open.spotify.com/track/412lpqcx14nRzxB3orTega) | [VrginVeinz](https://open.spotify.com/artist/64fmTLGcnTv4hohdOUDE1z) | [Never Meet Again](https://open.spotify.com/album/3kRTgFuPKEhcIiwyJBHVoj) | 1:03 | 2026-06-12 | 2026-07-19 |

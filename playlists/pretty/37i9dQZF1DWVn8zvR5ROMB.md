@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Tucker Wetmore, Shaboozey with Kehlani, Cameron Whitcomb and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,921 likes - 69 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,051 likes - 69 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 38 | [Title Track](https://open.spotify.com/track/31W9mk30NYSZcuSkYi5Emd) | [AUSTIN G](https://open.spotify.com/artist/2MKu40myhUVlIgfsrw5Huq) | [Title Track](https://open.spotify.com/album/6fAkkyE6Bbu1oXFK2pcgYx) | 2:40 |
 | 39 | [nowhere](https://open.spotify.com/track/5yMZmLPSKyOlaGwKcDTJ8U) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [nowhere](https://open.spotify.com/album/5AFH8bwinLn70NU1ByVQSU) | 2:52 |
 | 40 | [Going Somewhere](https://open.spotify.com/track/43VcntiEvoGJiavbz6HUgX) | [Charly Reynolds](https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp) | [Going Somewhere](https://open.spotify.com/album/4JQL5Oku0pIVksd2mlgy0G) | 3:03 |
-| 41 | [Smoke 'Em If You Got 'Em](https://open.spotify.com/track/65sb6SoFxe0vvms4Ko8ode) | [Matt Jordan](https://open.spotify.com/artist/42o4AcPbHwxBYJm1MK7OqC), [American Jackals](https://open.spotify.com/artist/7akMS92c61EVJoQKPQ3fCp), [Cash Goetten](https://open.spotify.com/artist/55Bn6px83JZZZy7dA1XAC2) | [Smoke 'Em If You Got 'Em](https://open.spotify.com/album/5RuTShPXRkIesxOBpg7PzX) | 3:30 |
+| 41 | [Smoke 'Em If You Got 'Em](https://open.spotify.com/track/65sb6SoFxe0vvms4Ko8ode) | [Matt Jordan](https://open.spotify.com/artist/42o4AcPbHwxBYJm1MK7OqC), [American Jackals](https://open.spotify.com/artist/7akMS92c61EVJoQKPQ3fCp), [Cash Goetten](https://open.spotify.com/artist/0dR9C52MfLawOyJ0PlNJLL) | [Smoke 'Em If You Got 'Em](https://open.spotify.com/album/5RuTShPXRkIesxOBpg7PzX) | 3:30 |
 | 42 | [I Should Want To](https://open.spotify.com/track/1yMBYzgmdJCmBDYmW51Kg8) | [Avery Roberson](https://open.spotify.com/artist/1NFcvAjVEYtn0ExV1O17oU) | [I Should Want To](https://open.spotify.com/album/641EZJUmmXEZFudXGm6YoW) | 3:51 |
 | 43 | [Rain On Me](https://open.spotify.com/track/109zzm19jWy5QiAVBTIYN0) | [BlackByrd](https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm) | [Rain On Me](https://open.spotify.com/album/6mxXfX5VwC2x6sLXaaOLJE) | 3:28 |
 | 44 | [Lucky To Be Loved](https://open.spotify.com/track/2r0Rn5SeMKNDue14m3nRMQ) | [Baylee Lynn](https://open.spotify.com/artist/2Tkaxet46RKhWpDQqYiaij) | [Lucky To Be Loved](https://open.spotify.com/album/5LCfSWBOIGAi6AiWYQheq6) | 3:00 |

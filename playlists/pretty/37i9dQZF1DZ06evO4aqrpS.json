@@ -1,13 +1,33 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 66241,
+  "num_followers": 66289,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAAAxHyuO/rzi3XovKa+2Af5Y",
+  "snapshot_id": "amvlgAAAAADb55m9Fzcj2r7rtgCbS2wv",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "HABLAR DE TI (...)",
+        "url": "https://open.spotify.com/album/1h1EjaD9JdTcwfKhEbR2Ub"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 218190,
+      "name": "HABLAR DE TI (...)",
+      "url": "https://open.spotify.com/track/73DkNu6tVVBfwH0Av8SUzf"
+    },
     {
       "added_at": null,
       "album": {
@@ -51,6 +71,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 201674,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/0MbiIQrfTj9U3MXzv3AsoK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/7rdezKlUOq26Dypydp5p9y"
       },
@@ -67,22 +103,6 @@
       "duration_ms": 214516,
       "name": "Dividido",
       "url": "https://open.spotify.com/track/4xmZql4J71yDsU0krsZnBT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 201674,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/0MbiIQrfTj9U3MXzv3AsoK"
     },
     {
       "added_at": null,
@@ -123,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/5hBI1he3oDinoZPS2IaRIp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosas de los vivientes",
         "url": "https://open.spotify.com/album/00gE14v4P0wQj8Qicor3yu"
       },
@@ -139,22 +175,6 @@
       "duration_ms": 222946,
       "name": "Para vivir",
       "url": "https://open.spotify.com/track/6SFt1kzei45M8plu3VVdtT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/5hBI1he3oDinoZPS2IaRIp"
     },
     {
       "added_at": null,
@@ -191,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 247959,
+      "name": "Sabr\u00e9 Olvidar",
+      "url": "https://open.spotify.com/track/04rJsvvczPIxiyXVnOAytj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuando Te Muerdes el Labio",
         "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
       },
@@ -207,22 +243,6 @@
       "duration_ms": 173453,
       "name": "Peligrosamente Dark (feat. Silvana Estrada)",
       "url": "https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/3WkIaEpJxuzpMUc3tBD2jA"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 247959,
-      "name": "Sabr\u00e9 Olvidar",
-      "url": "https://open.spotify.com/track/04rJsvvczPIxiyXVnOAytj"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 
 
-329 songs - 13 hr 2 min
+330 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,5 +337,6 @@
 | [Часик](https://open.spotify.com/track/5SOcbgdNmV0sFmmKOIbVuV) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NO TYPE](https://open.spotify.com/album/3EiBUVP8IwrMxA1LGVcNdf) | 1:54 | 2025-08-11 |  |
 | [Четыре](https://open.spotify.com/track/3p0lFaUdi5PwrsjIcQmWFJ) | [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [NO OFFENCE](https://open.spotify.com/album/73A8sTGxNIuj5FZzotuyER) | 2:18 | 2025-08-13 |  |
 | [Экзамен](https://open.spotify.com/track/1ImwPAotlsdIKGDcv0oeJ8) | [Whole Lotta Swag](https://open.spotify.com/artist/6BWpoXnUFVamLwShpnE24C) | [NEW COAST](https://open.spotify.com/album/6Nr4uGiXVByenlaGIlvogL) | 2:24 | 2025-08-09 |  |
+| [Это же рэ.прэса](https://open.spotify.com/track/70r0vRvAAZBzeq8p1WsgWX) | [рэ.прэса](https://open.spotify.com/artist/3enGPbRK3g0OKDzt2ojUtD) | [Братский грев](https://open.spotify.com/album/6HwaRXcbjymjf06LAyg6de) | 3:15 | 2026-08-01 |  |
 
 \*This playlist was first scraped on 2025-03-24. Prior content cannot be recovered.

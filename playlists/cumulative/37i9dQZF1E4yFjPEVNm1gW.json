@@ -1556,7 +1556,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 102625,
       "name": "Faken",
       "url": "https://open.spotify.com/track/3u6c9gV4rOYBj6WvDmY4LY"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 89704,
       "name": "House Party",
       "url": "https://open.spotify.com/track/4yDrmqD5kdSr9dMcw0xnvc"
@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 108946,
       "name": "Leave the state",
       "url": "https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY"
@@ -3397,6 +3397,36 @@
     },
     {
       "album": {
+        "name": "Pink6 Vol. 1",
+        "url": "https://open.spotify.com/album/6YdkhzUmMcCWor28vavQ6y"
+      },
+      "artists": [
+        {
+          "name": "Slump Audios",
+          "url": "https://open.spotify.com/artist/0kV5IPIp3Q8eksQ5R9q3hE"
+        },
+        {
+          "name": "pink6",
+          "url": "https://open.spotify.com/artist/22WZWH3ID3iUnZ9lAZkkVv"
+        },
+        {
+          "name": "DJ BANNED",
+          "url": "https://open.spotify.com/artist/24rC9TDYDGRHBDIVuAiKCd"
+        },
+        {
+          "name": "Chris Finesse Exclusives",
+          "url": "https://open.spotify.com/artist/62lb86Gp3XI8HWkTdiOmjI"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117002,
+      "name": "NODDING OFF",
+      "url": "https://open.spotify.com/track/5cKcbgcUcog96MzgE4guYS"
+    },
+    {
+      "album": {
         "name": "NORTHSTAR88",
         "url": "https://open.spotify.com/album/07dckUO6rUCV3uw24WoHC8"
       },
@@ -3610,7 +3640,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 122298,
       "name": "Outta Time",
       "url": "https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U"
@@ -4138,7 +4168,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-27",
+      "date_removed": null,
       "duration_ms": 141316,
       "name": "Rubbin Of The Pain x New Flesh",
       "url": "https://open.spotify.com/track/3bVaz8yj2aQfXnqqTTkm56"
@@ -4196,7 +4226,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 153669,
       "name": "Run We Chase Em",
       "url": "https://open.spotify.com/track/5A7jetXADVblT5s9KZa6Pn"
@@ -4804,7 +4834,7 @@
       ],
       "date_added": "2026-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 120639,
       "name": "Tap Hour",
       "url": "https://open.spotify.com/track/5fB6BsaBff7NzskLlUDvHY"
@@ -4822,7 +4852,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 145841,
       "name": "Telephones",
       "url": "https://open.spotify.com/track/1AKsJHv1KawhTIKa9ZD2FU"
@@ -5132,7 +5162,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 104783,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/1fTGL1jQWbVgjpDMEvrM8K"

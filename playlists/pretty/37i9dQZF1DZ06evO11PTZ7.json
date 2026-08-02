@@ -1,12 +1,12 @@
 {
   "description": "This is Sick Of It All. The essential tracks, all in one playlist.",
-  "num_followers": 7785,
+  "num_followers": 7923,
   "original_name": "This Is Sick Of It All",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAACZQpGDXg830rW2X/H5bM8u",
+  "snapshot_id": "amvlgAAAAADz+srk/5KQnlUuW2PgOQ8o",
   "tracks": [
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death To Tyrants",
-        "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 123906,
-      "name": "Machete",
-      "url": "https://open.spotify.com/track/5hTFZOModIYTJpyZZvVO7H"
+      "duration_ms": 69840,
+      "name": "Clobberin' Time",
+      "url": "https://open.spotify.com/track/7AIqWpo3KRHEGA2ECSF3FH"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
+        "name": "Death To Tyrants",
+        "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 69840,
-      "name": "Clobberin' Time",
-      "url": "https://open.spotify.com/track/7AIqWpo3KRHEGA2ECSF3FH"
+      "duration_ms": 123906,
+      "name": "Machete",
+      "url": "https://open.spotify.com/track/5hTFZOModIYTJpyZZvVO7H"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Act of Defiance",
-        "url": "https://open.spotify.com/album/7I8FZgFrOsxTKy8lG3fYkV"
+        "name": "Just Look Around",
+        "url": "https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 162945,
-      "name": "DNC",
-      "url": "https://open.spotify.com/track/5UE9WdcsB6fnOJGgm5psjw"
+      "duration_ms": 175760,
+      "name": "We Want the Truth",
+      "url": "https://open.spotify.com/track/1K1xNI1q9eEV6v4m9El29v"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Look Around",
-        "url": "https://open.spotify.com/album/7r3YuSgJLQKLxVmW2mcX74"
+        "name": "Last Act of Defiance",
+        "url": "https://open.spotify.com/album/7I8FZgFrOsxTKy8lG3fYkV"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 175760,
-      "name": "We Want the Truth",
-      "url": "https://open.spotify.com/track/1K1xNI1q9eEV6v4m9El29v"
+      "duration_ms": 162945,
+      "name": "DNC",
+      "url": "https://open.spotify.com/track/5UE9WdcsB6fnOJGgm5psjw"
     },
     {
       "added_at": null,

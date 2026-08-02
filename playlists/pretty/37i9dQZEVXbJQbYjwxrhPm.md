@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,863 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,867 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 6 | [Beni Al \(Ta Ki Seni Görene Kadar\) \- Afro House Remix](https://open.spotify.com/track/4TpofYIjlzhztvF8kWwPXi) | [Ankara Echoes](https://open.spotify.com/artist/18SuKvcITcf0mACwhitMeM), [Kürşad Kahraman](https://open.spotify.com/artist/6KmaeBAxvfEYozb0DQSkGU) | [Beni Al \(Ta Ki Seni Görene Kadar\) \[Afro House Remix\]](https://open.spotify.com/album/6irlksMQrQHCFyPlvh9Yz6) | 4:12 |
 | 7 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
 | 8 | [Кеш, кеш](https://open.spotify.com/track/2vuYIgU0KkIEAPGCPBPdh8) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Кеш, кеш](https://open.spotify.com/album/4CSOatJNTyaSI51brM2xPc) | 2:57 |
-| 9 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/0Vcss0GZ1rbNI7QQPfXeg4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:36 |
+| 9 | [Jamaican \(Bam Bam\)](https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [SOLTO \(FR\)](https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt) | [Jamaican \(Bam Bam\)](https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj) | 2:36 |
 | 10 | [Тарикат](https://open.spotify.com/track/2hSloAMRlwf37vFG8xeLM4) | [Mirela](https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i) | [Тарикат](https://open.spotify.com/album/2OSBqW39ap6BRHDuF3cJwS) | 2:31 |
 | 11 | [Катинара](https://open.spotify.com/track/07semdYzIbyRJ28XhhPA7I) | [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [Катинара](https://open.spotify.com/album/4bEbNkZ4pZq1XBcx1Ho9hy) | 2:52 |
 | 12 | [Наказвам](https://open.spotify.com/track/5hVGgwsMo3Q67k2REgWKKD) | [Tereza](https://open.spotify.com/artist/2MkgDAmkpwckUwbjWuhh6x) | [Наказвам](https://open.spotify.com/album/1V4ZihYedWTY0cUEj6B8jK) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Розовите очила](https://open.spotify.com/track/4rTcYzlAsuNwzbd1NnwK4w) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Розовите очила](https://open.spotify.com/album/6lQmr1mm0mvLMjuLG2ghNL) | 3:11 |
 | 50 | [Вдига му бившата](https://open.spotify.com/track/3iiSZNHW0SScG7pvi0fIUv) | [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Вдига му бившата](https://open.spotify.com/album/2jz1sg31aNS943JsYNaxl6) | 3:13 |
 
-Snapshot ID: `MgAR+AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MgFhIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

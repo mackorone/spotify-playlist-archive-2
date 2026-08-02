@@ -5069,6 +5069,32 @@
     },
     {
       "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/1B1UQ0MQ002OwipIx5Pimi"
+      },
+      "artists": [
+        {
+          "name": "MARSTEREON",
+          "url": "https://open.spotify.com/artist/7jEVO7yGtLTH2UsMcuA8Ap"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        },
+        {
+          "name": "Megan Ashworth",
+          "url": "https://open.spotify.com/artist/5VWrCbjYaF07x1vTwYJr0S"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183820,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/5FOwJI324l26vADidD3j3q"
+    },
+    {
+      "album": {
         "name": "City At Night",
         "url": "https://open.spotify.com/album/7ADamDyHiyJ6FZgG7IyThk"
       },
@@ -20986,7 +21012,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 153684,
       "name": "Never Be Enough",
       "url": "https://open.spotify.com/track/1tKLIXP2RiyecOghTJu5W9"
@@ -28666,7 +28692,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 192480,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/12mLNOavlmWlIiVulOCBMd"

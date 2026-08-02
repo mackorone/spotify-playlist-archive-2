@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: M'DEP, DESSIIIK ",
-  "num_followers": 150403,
+  "num_followers": 150441,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -1027,18 +1027,26 @@
     {
       "added_at": "2026-07-20 18:43:47",
       "album": {
-        "name": "Ruas Frias",
-        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
+        "name": "Spliff",
+        "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
       },
       "artists": [
         {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        },
+        {
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
+        },
+        {
+          "name": "Vertigo",
+          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Ruas Frias",
-      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
+      "duration_ms": 137142,
+      "name": "Spliff",
+      "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
     },
     {
       "added_at": "2026-07-20 18:43:47",
@@ -1075,26 +1083,18 @@
     {
       "added_at": "2026-07-20 18:43:47",
       "album": {
-        "name": "Spliff",
-        "url": "https://open.spotify.com/album/0sssgcz8dkkpIF54LCUf0C"
+        "name": "Ruas Frias",
+        "url": "https://open.spotify.com/album/12UMQAWVys24LITebtbIdY"
       },
       "artists": [
         {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        },
-        {
-          "name": "Vertigo",
-          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Spliff",
-      "url": "https://open.spotify.com/track/3FlS1FD5u18ovrbxcAVkfs"
+      "duration_ms": 213333,
+      "name": "Ruas Frias",
+      "url": "https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM"
     },
     {
       "added_at": "2026-07-20 18:43:47",

@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 166353,
+  "num_followers": 166386,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -71,8 +71,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Son Para El Mundo",
-        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
+        "name": "Ll\u00e9vame En Tus Sue\u00f1os",
+        "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 237800,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
+      "duration_ms": 318133,
+      "name": "No Podr\u00e1n Separarnos",
+      "url": "https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -163,8 +163,8 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Ll\u00e9vame En Tus Sue\u00f1os",
-        "url": "https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA"
+        "name": "Son Para El Mundo",
+        "url": "https://open.spotify.com/album/3ZEyQVpEzDl18okCH0jsj3"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 318133,
-      "name": "No Podr\u00e1n Separarnos",
-      "url": "https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF"
+      "duration_ms": 237800,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/367Cb3sFU9yiHJ9T3vciHk"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -847,18 +847,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "De Primera",
-        "url": "https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc"
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
       "artists": [
         {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 307304,
-      "name": "Se Me Salen las Lagrimas",
-      "url": "https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG"
+      "duration_ms": 315087,
+      "name": "El Amor Es Perd\u00f3n y Algo M\u00e1s",
+      "url": "https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -927,6 +931,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "De Primera",
+        "url": "https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 307304,
+      "name": "Se Me Salen las Lagrimas",
+      "url": "https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Volando Alto",
         "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 312783,
       "name": "Voy a Olvidarte",
       "url": "https://open.spotify.com/track/7713s24G8kJFEtMGQUpQOv"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Historia Musical",
-        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
-      },
-      "artists": [
-        {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
-        },
-        {
-          "name": "David Rendon",
-          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
-        }
-      ],
-      "duration_ms": 279560,
-      "name": "Muero por Verla",
-      "url": "https://open.spotify.com/track/030oP5zYYT57rlsvLQbQFp"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -999,6 +999,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Historia Musical",
+        "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
+      },
+      "artists": [
+        {
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "David Rendon",
+          "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
+        }
+      ],
+      "duration_ms": 279560,
+      "name": "Muero por Verla",
+      "url": "https://open.spotify.com/track/030oP5zYYT57rlsvLQbQFp"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "La Combinaci\u00f3n Vallenata Elite, Vol. 5",
         "url": "https://open.spotify.com/album/79rVP1bPDpu4JtPhBZ0VBY"
       },
@@ -1023,22 +1043,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
+        "name": "Los 100 Vallenatos m\u00e1s Recordados, Dedicados, Vendidos, Sonados. Vol.1",
+        "url": "https://open.spotify.com/album/7ojNoLKEkOJMsOrANgytQI"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "Otto Serge",
+          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
         },
         {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Rafael Ricardo",
+          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
         }
       ],
-      "duration_ms": 315087,
-      "name": "El Amor Es Perd\u00f3n y Algo M\u00e1s",
-      "url": "https://open.spotify.com/track/6vWblQzMbEMXKq6uZMimhO"
+      "duration_ms": 238893,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/1S2WEX1RBJL1ebpEldMG4V"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1055,22 +1075,6 @@
       "duration_ms": 286902,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/1yXt8eVcZIJXJBxinmKoNy"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "La Historia Continua",
-        "url": "https://open.spotify.com/album/0AFaCpQBZxmJZWJNTBKkCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Martin Elias & Juancho De La Espriella",
-          "url": "https://open.spotify.com/artist/1JBafWpOjF0bo1LqFTqE4o"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "10 Razones para Amarte",
-      "url": "https://open.spotify.com/track/7AFxtJCibiLZgrDMFRxkWS"
     },
     {
       "added_at": "2024-03-28 01:45:52",

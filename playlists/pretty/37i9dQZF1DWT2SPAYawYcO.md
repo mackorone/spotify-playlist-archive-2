@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Ninajirachi, Porter Robinson, Ariana Grande, PNAU, Kurtis Wells, Shaboozey, Kehlani, Stan Walker + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,857 likes - 92 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,844 likes - 92 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

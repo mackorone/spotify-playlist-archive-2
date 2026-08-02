@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,447 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,436 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 59 | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/track/2BYgh7jz3huleibaQgAFun) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Vähän rahaa, paljon rakkautta](https://open.spotify.com/album/2CJrdfV8OIxbMBEZExvzWv) | 2:49 |
 | 60 | [Sitkeä sissi](https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Sitkeä sissi](https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT) | 3:01 |
 | 61 | [Ihan kohta ohi](https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr), [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Ihan kohta ohi](https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME) | 3:05 |
-| 62 | [Näytä miten rakkautta tehdään \(feat\. Dilemma & Mesi\)](https://open.spotify.com/track/0oP4VOetjYzizuxP62g6Hk) | [DJ Oku Luukkainen](https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao), [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [Mesi](https://open.spotify.com/artist/68zU74Eh64E8BWVSBYG8JP) | [Näytä miten rakkautta tehdään \(feat\. Dilemma & Mesi\)](https://open.spotify.com/album/0Qoc2U3ajRpD3VWSLEgQHI) | 3:05 |
-| 63 | [Kaikki tahtoo taivaaseen](https://open.spotify.com/track/4JK9igYtNGRuu2Ub4euf03) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Kaikki tahtoo taivaaseen](https://open.spotify.com/album/5CDCkbQ0i3ZLMwEx00ahfk) | 2:34 |
+| 62 | [Kaikki tahtoo taivaaseen](https://open.spotify.com/track/4JK9igYtNGRuu2Ub4euf03) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Kaikki tahtoo taivaaseen](https://open.spotify.com/album/5CDCkbQ0i3ZLMwEx00ahfk) | 2:34 |
+| 63 | [Näytä miten rakkautta tehdään \(feat\. Dilemma & Mesi\)](https://open.spotify.com/track/0oP4VOetjYzizuxP62g6Hk) | [DJ Oku Luukkainen](https://open.spotify.com/artist/0oOzqM7AYuqx34YGcfaSao), [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV), [Mesi](https://open.spotify.com/artist/68zU74Eh64E8BWVSBYG8JP) | [Näytä miten rakkautta tehdään \(feat\. Dilemma & Mesi\)](https://open.spotify.com/album/0Qoc2U3ajRpD3VWSLEgQHI) | 3:05 |
 | 64 | [Tää tunne](https://open.spotify.com/track/2iyIZsT9JobbLBi0O9QD5V) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Tää tunne](https://open.spotify.com/album/6ydY2zebn5LfMlQjNNCyxg) | 2:39 |
 | 65 | [Kun tulee pimee](https://open.spotify.com/track/6OXlDwwI4SGHnbCbpfY6Io) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Kun tulee pimee](https://open.spotify.com/album/11F1C9T1fQ4jxh69ThhDFt) | 2:45 |
 | 66 | [Viaton](https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Viaton](https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1) | 3:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Juliana
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,469 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,350 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 18 | [México Sigue De Pie](https://open.spotify.com/track/2QyKexTBME3MrkkWgL84Sf) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [México Sigue De Pie](https://open.spotify.com/album/1otDX0piwEcz0FtVfKhFcV) | 3:07 |
 | 19 | [AZABACHE](https://open.spotify.com/track/2Gh6Ctajbej0QhracpJ4Al) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [AZABACHE](https://open.spotify.com/album/60WhEnhgPildtHh7fvtLIQ) | 3:02 |
 | 20 | [Taconeando](https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [XXXXX](https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql) | 2:18 |
-| 21 | [PlaYer </3](https://open.spotify.com/track/78qoYnsls2VDlwmnzmNv29) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [PlaYer </3](https://open.spotify.com/album/5vEGJyKYJjoXLP8aEqQvi5) | 2:49 |
+| 21 | [PLAYER </3](https://open.spotify.com/track/78qoYnsls2VDlwmnzmNv29) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [PLAYER </3](https://open.spotify.com/album/5vEGJyKYJjoXLP8aEqQvi5) | 2:49 |
 | 22 | [KEDaaaTé](https://open.spotify.com/track/16nwMm8mdqJLE7MRRaWdcQ) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [KEDaaaTé](https://open.spotify.com/album/08ftLBL789zgnXDAj5bJ6p) | 2:48 |
 | 23 | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/track/1ILSTelC5zM5zF1zMgb9pE) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/album/7j6wj2Hw3jsgGqxbjAoLFe) | 5:24 |
 | 24 | [Así](https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Así](https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ) | 3:14 |

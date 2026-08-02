@@ -20603,6 +20603,24 @@
     },
     {
       "album": {
+        "name": "The Real Boutabag III",
+        "url": "https://open.spotify.com/album/5t89Cgo1rdEV2l9GMl7NiL"
+      },
+      "artists": [
+        {
+          "name": "DB.Boutabag",
+          "url": "https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130429,
+      "name": "Modern Day Dre",
+      "url": "https://open.spotify.com/track/4P578Og7D6OjPzUGtbRGaD"
+    },
+    {
+      "album": {
         "name": "MOESHA CYPHER",
         "url": "https://open.spotify.com/album/0wSPmmHik5c8gewHhBFs9j"
       },

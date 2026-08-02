@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,291 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,315 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 21 | [Nếu \(feat\. Obito\)](https://open.spotify.com/track/102XJmW0OH1WATZMW9avu2) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp) | [Gặp Lại](https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4) | 4:15 |
 | 22 | [Bước Za Đi Xa](https://open.spotify.com/track/3ER1r0HipeSSu7YNImC6vd) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Marlykid](https://open.spotify.com/artist/1iVDAS7uGjPmHGNxhNmJdI), [Lucin3x](https://open.spotify.com/artist/2LhBOKigSJoFuqyoy4GlW2) | [Bước Za Đi Xa](https://open.spotify.com/album/7l24MYtFsidM09pDOlLrSf) | 2:48 |
 | 23 | [Liệm](https://open.spotify.com/track/6gmXMeStkiDoAbNaUeHbqU) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [HVL](https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe) | 3:53 |
-| 24 | [Tuyển Bạn Gái](https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op) | [OgeNus](https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Tuyển Bạn Gái](https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4) | 3:40 |
-| 25 | [Khởi](https://open.spotify.com/track/6n3nyTFBZMpsEPDWdWkWaz) | [TonDee](https://open.spotify.com/artist/3DKzAbny9FPC35RN7ICgKw), [SEAGAD](https://open.spotify.com/artist/5CtvXh7GK6zHo5BCOkrNk0), [Yung Ni99](https://open.spotify.com/artist/0XJGo6xvJ24G9XXuT1A3NA) | [Khởi](https://open.spotify.com/album/6cYVZOmSXFFtnHKg00HhlE) | 3:00 |
+| 24 | [Khởi](https://open.spotify.com/track/6n3nyTFBZMpsEPDWdWkWaz) | [TonDee](https://open.spotify.com/artist/3DKzAbny9FPC35RN7ICgKw), [SEAGAD](https://open.spotify.com/artist/5CtvXh7GK6zHo5BCOkrNk0), [Yung Ni99](https://open.spotify.com/artist/0XJGo6xvJ24G9XXuT1A3NA) | [Khởi](https://open.spotify.com/album/6cYVZOmSXFFtnHKg00HhlE) | 3:00 |
+| 25 | [Tuyển Bạn Gái](https://open.spotify.com/track/1mtmvJjTchdqDCoJbFv1Op) | [OgeNus](https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Tuyển Bạn Gái](https://open.spotify.com/album/0e88PS3OLpgp5ItldoIaB4) | 3:40 |
 | 26 | [Chơi Như Tụi Mỹ](https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx) | [Andree Right Hand](https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh) | [Chơi Như Tụi Mỹ](https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A) | 2:40 |
 | 27 | [Mời Em](https://open.spotify.com/track/27AEQr4wqfHyVpwgFgnGs6) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Mcee Blue](https://open.spotify.com/artist/7iPTxzfZ1OG4gNiWU64nmk) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 3:23 |
 | 28 | [Hững Hờ](https://open.spotify.com/track/6CygbhaDoDGTlRq8LiEwpt) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Gặp Lại](https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4) | 4:26 |

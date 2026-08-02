@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 152361,
+  "num_followers": 152341,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "\ud654\uc774\ud2b8 (White)",
-        "url": "https://open.spotify.com/album/6XC2Ye4NSWrU3jD78gle0g"
-      },
-      "artists": [
-        {
-          "name": "ISEGYE IDOL",
-          "url": "https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "\ud654\uc774\ud2b8 (White)",
-      "url": "https://open.spotify.com/track/7mM9TUk0UaqMegqgc3H4y9"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Jingle Bell Rock",
         "url": "https://open.spotify.com/album/7dSaBwUid0hjWdJ5QzIKyu"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 130613,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/0ijCESscFXtRc0dtDgu1Uv"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "\ud654\uc774\ud2b8 (White)",
+        "url": "https://open.spotify.com/album/6XC2Ye4NSWrU3jD78gle0g"
+      },
+      "artists": [
+        {
+          "name": "ISEGYE IDOL",
+          "url": "https://open.spotify.com/artist/08OoIISROuIG0Hw8pVhYE6"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "\ud654\uc774\ud2b8 (White)",
+      "url": "https://open.spotify.com/track/7mM9TUk0UaqMegqgc3H4y9"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -831,22 +831,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "FIRST SNOW",
-        "url": "https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK"
-      },
-      "artists": [
-        {
-          "name": "XODIAC",
-          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "FIRST SNOW",
-      "url": "https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Merry-Chri",
         "url": "https://open.spotify.com/album/4oqQrLd2zP701hWtcGx0Vr"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 332666,
       "name": "Merry-Chri",
       "url": "https://open.spotify.com/track/3yVUAgXBPozhKKeXphiTY3"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "FIRST SNOW",
+        "url": "https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK"
+      },
+      "artists": [
+        {
+          "name": "XODIAC",
+          "url": "https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "FIRST SNOW",
+      "url": "https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL"
+      },
+      "artists": [
+        {
+          "name": "Baek A Yeon",
+          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "Christmas Dance",
         "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 206439,
       "name": "The Carol 2.0 (ViVi, Choerry, Yves)",
       "url": "https://open.spotify.com/track/5gkbQEgYlXajuf8CcYpojE"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "I Need You",
-        "url": "https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL"
-      },
-      "artists": [
-        {
-          "name": "Baek A Yeon",
-          "url": "https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/68fpO1QFaZAssEl9c6546S"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "gr8",
-        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 158468,
-      "name": "gr8",
-      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Jingle Bell Love",
         "url": "https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 154989,
       "name": "Jingle Bell Love",
       "url": "https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "gr8",
+        "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 158468,
+      "name": "gr8",
+      "url": "https://open.spotify.com/track/0BsQtnv3ch7w64B52ik72W"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Heart of Christmas",
-        "url": "https://open.spotify.com/album/3sxmlVVLg13aeHgF7my55P"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Heart of Christmas",
-      "url": "https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
         "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 170232,
       "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve (prod. Minit)",
       "url": "https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Heart of Christmas",
+        "url": "https://open.spotify.com/album/3sxmlVVLg13aeHgF7my55P"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heart of Christmas",
+      "url": "https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a"
     },
     {
       "added_at": "2026-01-20 05:01:24",

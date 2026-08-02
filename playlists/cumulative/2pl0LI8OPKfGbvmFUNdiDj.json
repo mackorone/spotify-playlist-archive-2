@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "(Only Takes a) Moment",
+        "url": "https://open.spotify.com/album/08nJd5fnuBNRb6arPl1hNp"
+      },
+      "artists": [
+        {
+          "name": "James Sebastian",
+          "url": "https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182210,
+      "name": "(Only Takes a) Moment",
+      "url": "https://open.spotify.com/track/7tNhfp7TxXc3ZPBCOBqgyV"
+    },
+    {
+      "album": {
         "name": "1.5",
         "url": "https://open.spotify.com/album/26yjewkMIBbSlh59MojuSJ"
       },

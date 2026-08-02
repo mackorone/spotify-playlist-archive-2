@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 509853,
+  "num_followers": 509867,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAAAAHM0Jb2x7w3NenL3+VqwD",
+  "snapshot_id": "amvlgAAAAABbDbuH2XH4UZsLc/sB1Tey",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Simone & Piano (Expanded Edition)",
-        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Nobody's Fault but Mine",
-      "url": "https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 253800,
       "name": "Lilac Wine",
       "url": "https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nina Simone & Piano (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Nobody's Fault but Mine",
+      "url": "https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Is Finished (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 320426,
-      "name": "Funkier Than a Mosquito's Tweeter",
-      "url": "https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever Young, Gifted And Black: Songs Of Freedom And Spirit",
         "url": "https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 169840,
       "name": "To Be Young, Gifted and Black - 2005 Remix",
       "url": "https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Is Finished (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 320426,
+      "name": "Funkier Than a Mosquito's Tweeter",
+      "url": "https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV"
     },
     {
       "added_at": null,

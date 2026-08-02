@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Babaero",
+        "url": "https://open.spotify.com/album/5MKGvgS8oOgRiaVCg9GLnX"
+      },
+      "artists": [
+        {
+          "name": "Leanne",
+          "url": "https://open.spotify.com/artist/0V39TQSFg4VAwmwJ6JWdsU"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260053,
+      "name": "Babaero",
+      "url": "https://open.spotify.com/track/55ij7wjoz4xgzvJO2hV7Y8"
+    },
+    {
+      "album": {
         "name": "Babala",
         "url": "https://open.spotify.com/album/5jJntSBEZRgQU8U2STcGfE"
       },

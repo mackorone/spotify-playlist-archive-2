@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. YoSoyMatt en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,400 likes - 90 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,429 likes - 90 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 83 | [\#Ruta Technomami](https://open.spotify.com/track/6IMA7nOI3i2tpf37IRNIjQ) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [\#Ruta Technomami](https://open.spotify.com/album/2CS2FuwMMLVvaQGMyVWsS5) | 2:21 |
 | 84 | [R\-15](https://open.spotify.com/track/7zYNefq2q2xCOFXscMmW3B) | [Daniel Cuevas](https://open.spotify.com/artist/3pCZzxGXHvgoK3OdluWOLc), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61), [Manci](https://open.spotify.com/artist/4AVxNRSuuvQ19srEOaUemE) | [R\-15](https://open.spotify.com/album/4CATim7PRuGUtjURDpRyP5) | 2:54 |
 | 85 | [cuándo](https://open.spotify.com/track/6NVU7iVKXBmo07g4c3nLvh) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [cuándo](https://open.spotify.com/album/6MIUe2REUhOTndOLvPKvCr) | 3:21 |
-| 86 | [Santa María](https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Santa María](https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm) | 4:20 |
-| 87 | [Mi Amor](https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Keep It Dope](https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y), [Priscila](https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX) | [Mi Amor](https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal) | 3:31 |
+| 86 | [Mi Amor](https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Keep It Dope](https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y), [Priscila](https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX) | [Mi Amor](https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal) | 3:31 |
+| 87 | [Santa María](https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Santa María](https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm) | 4:20 |
 | 88 | [Dónde Andarás \- USB GAD Remix](https://open.spotify.com/track/57mBuT1W5NyxYShuapIlny) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Yo Solo Quiero Que Me Quieras Como Yo Te Quiero](https://open.spotify.com/album/4vrVL0ZOhpliCIobNqIfzu) | 3:24 |
 | 89 | [Bésame Mucho](https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv) | [Broz](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln) | [Bésame Mucho](https://open.spotify.com/album/6f5d9SlIVytpz5eIgH6PaJ) | 2:31 |
 | 90 | [Ancara Messi](https://open.spotify.com/track/1aQS0CQAONJqpO2zZi0ZSr) | [Poniboy](https://open.spotify.com/artist/3fs56TuW5WSYNOQi8wjRcd), [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC) | [Ancara Messi](https://open.spotify.com/album/045J1gvKL5Uj3AuKMV89Bf) | 3:13 |

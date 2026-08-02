@@ -149684,6 +149684,10 @@
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
         }
       ],
       "date_added": "2026-07-30",
@@ -154684,6 +154688,28 @@
       "duration_ms": 250506,
       "name": "Pour vivre - et compte bien ne mourir jamais",
       "url": "https://open.spotify.com/track/1eTu5Wt5nmtCSDVKroqg7D"
+    },
+    {
+      "album": {
+        "name": "PPC",
+        "url": "https://open.spotify.com/album/3hsG9b9I3od2hi7SXr0zZP"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        },
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196175,
+      "name": "PPC",
+      "url": "https://open.spotify.com/track/7M9Fk9ftwb9VxiImk28LBL"
     },
     {
       "album": {
@@ -176208,12 +176234,12 @@
       },
       "artists": [
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
           "name": "HILLARI",
           "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         },
         {
           "name": "Taylor Hill",

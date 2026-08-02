@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285630,
+  "num_followers": 285650,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Coat Of Many Colors",
-        "url": "https://open.spotify.com/album/7kaEjySfxfkCxuCTBo9m5u"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 193945,
-      "name": "Coat Of Many Colors",
-      "url": "https://open.spotify.com/track/1d2bVY1wm0ho9tyHSbVlos"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Love. Ain't Love",
         "url": "https://open.spotify.com/album/1R55TgjVR6Bq6onvCiQHQB"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 174413,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/6IIhAAslHaT2mJtqRq3Dpi"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Coat Of Many Colors",
+        "url": "https://open.spotify.com/album/7kaEjySfxfkCxuCTBo9m5u"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 193945,
+      "name": "Coat Of Many Colors",
+      "url": "https://open.spotify.com/track/1d2bVY1wm0ho9tyHSbVlos"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -327,6 +327,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 229516,
+      "name": "She's A Rainbow",
+      "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Wake Me Up (The Bluegrass Rendition)",
         "url": "https://open.spotify.com/album/5nNr9tOefpudgC4QLcwh3g"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 263996,
       "name": "Wake Me Up - The Bluegrass Rendition",
       "url": "https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 229516,
-      "name": "She's A Rainbow",
-      "url": "https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -399,6 +399,22 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
+        "name": "Soak Up The Sun",
+        "url": "https://open.spotify.com/album/5oN1wKobG07fQ47P4DQm0p"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 239744,
+      "name": "Soak Up The Sun",
+      "url": "https://open.spotify.com/track/7CfWAYl1LA7L8XqVRtvSPN"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
         "name": "Red On Blonde",
         "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 228490,
       "name": "Aerials",
       "url": "https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
-        "name": "Soak Up The Sun",
-        "url": "https://open.spotify.com/album/5oN1wKobG07fQ47P4DQm0p"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 239744,
-      "name": "Soak Up The Sun",
-      "url": "https://open.spotify.com/track/7CfWAYl1LA7L8XqVRtvSPN"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Johnny B. Goode",
-        "url": "https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv"
-      },
-      "artists": [
-        {
-          "name": "Seth Mulder & Midnight Run",
-          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/2dEAao1ozL1u3uFKtqS6Hq"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "In Tall Buildings",
         "url": "https://open.spotify.com/album/4PfnntRChUIeOlVkVgzO3D"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Graceland (Live Session)",
-        "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
+        "name": "Johnny B. Goode",
+        "url": "https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv"
       },
       "artists": [
         {
-          "name": "Ramsey Thornton",
-          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
+          "name": "Seth Mulder & Midnight Run",
+          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Graceland (Live Session)",
-      "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
+      "duration_ms": 197250,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2dEAao1ozL1u3uFKtqS6Hq"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Norwegian Wood (This Bird Has Flown)",
-        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
+        "name": "Graceland (Live Session)",
+        "url": "https://open.spotify.com/album/4LdhAmf3FFE23z5GfpyV7A"
       },
       "artists": [
         {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+          "name": "Ramsey Thornton",
+          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
         }
       ],
-      "duration_ms": 167827,
-      "name": "Norwegian Wood (This Bird Has Flown)",
-      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
+      "duration_ms": 186000,
+      "name": "Graceland (Live Session)",
+      "url": "https://open.spotify.com/track/2JHkGl5zdenvGo63yTDgH4"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
+        "name": "Norwegian Wood (This Bird Has Flown)",
+        "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
       },
       "artists": [
         {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
         }
       ],
-      "duration_ms": 185305,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
+      "duration_ms": 167827,
+      "name": "Norwegian Wood (This Bird Has Flown)",
+      "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1547,6 +1531,22 @@
       "duration_ms": 221913,
       "name": "Elderly Woman Behind the Counter in a Small Town - Radio Edit",
       "url": "https://open.spotify.com/track/4O0HBabeKYER9BRKW0URli"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 185305,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "Simply Bluegrass (Live / Vol. 1)",
-        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
-      },
-      "artists": [
-        {
-          "name": "Country's Family Reunion",
-          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 190955,
-      "name": "Drivin' Nails In My Coffin - Live",
-      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Break on Through (To the Other Side)",
         "url": "https://open.spotify.com/album/6hRj4yRNbXucoVjuSQwSFT"
       },
@@ -1623,6 +1603,26 @@
       "duration_ms": 215600,
       "name": "Break on Through (To the Other Side)",
       "url": "https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "Simply Bluegrass (Live / Vol. 1)",
+        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
+      },
+      "artists": [
+        {
+          "name": "Country's Family Reunion",
+          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "Drivin' Nails In My Coffin - Live",
+      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
     },
     {
       "added_at": "2026-07-23 21:17:27",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-07-23 21:17:27",
       "album": {
-        "name": "We Just Disagree",
-        "url": "https://open.spotify.com/album/4ugzG0tOdg2rFmLN8S8fLd"
-      },
-      "artists": [
-        {
-          "name": "Volume Five",
-          "url": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "We Just Disagree",
-      "url": "https://open.spotify.com/track/787fid8wl4wfd4UpIaI2Gz"
-    },
-    {
-      "added_at": "2026-07-23 21:17:27",
-      "album": {
         "name": "Born to Run",
         "url": "https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 222666,
       "name": "Million Reasons",
       "url": "https://open.spotify.com/track/5mxqBbBFgBVaYjnke4IGNw"
+    },
+    {
+      "added_at": "2026-07-23 21:17:27",
+      "album": {
+        "name": "We Just Disagree",
+        "url": "https://open.spotify.com/album/4ugzG0tOdg2rFmLN8S8fLd"
+      },
+      "artists": [
+        {
+          "name": "Volume Five",
+          "url": "https://open.spotify.com/artist/1M5MzZDx6FRFfKQP0X23IX"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "We Just Disagree",
+      "url": "https://open.spotify.com/track/787fid8wl4wfd4UpIaI2Gz"
     },
     {
       "added_at": "2026-07-23 21:17:27",

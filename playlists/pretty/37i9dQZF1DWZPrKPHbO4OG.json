@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38526,
+  "num_followers": 38531,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-06-10 09:54:00",
       "album": {
+        "name": "Angar Bhangar Nay Rr - Single",
+        "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
+      },
+      "artists": [
+        {
+          "name": "Madhur Milind Shinde",
+          "url": "https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J"
+        }
+      ],
+      "duration_ms": 217253,
+      "name": "Angaar Bhangar Nai Rr",
+      "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
+    },
+    {
+      "added_at": "2026-06-10 09:54:00",
+      "album": {
         "name": "Majhi Baay Go",
         "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 268242,
       "name": "Majhi Baay Go",
       "url": "https://open.spotify.com/track/2l4MIKaU0kB4UjjCfuq2X0"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Angar Bhangar Nay Rr - Single",
-        "url": "https://open.spotify.com/album/0tbwtoIOv2PyS1hPr5kwRg"
-      },
-      "artists": [
-        {
-          "name": "Madhur Milind Shinde",
-          "url": "https://open.spotify.com/artist/0H2K4pNnOqpTXf4eVCvk5J"
-        }
-      ],
-      "duration_ms": 217253,
-      "name": "Angaar Bhangar Nai Rr",
-      "url": "https://open.spotify.com/track/4FXuuc4lb1CfTOfcKny9G1"
     },
     {
       "added_at": "2026-06-10 09:54:00",
@@ -403,6 +403,26 @@
     {
       "added_at": "2026-06-10 09:54:00",
       "album": {
+        "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
+        "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "PATYA THE DOC",
+          "url": "https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0"
+        }
+      ],
+      "duration_ms": 154137,
+      "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
+      "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
+    },
+    {
+      "added_at": "2026-06-10 09:54:00",
+      "album": {
         "name": "Jaal Jaal (From \"Chowk\")",
         "url": "https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 289680,
       "name": "Jaal Jaal - From \"Chowk\"",
       "url": "https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
-        "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
-        "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
-      },
-      "artists": [
-        {
-          "name": "Kratex",
-          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
-        },
-        {
-          "name": "PATYA THE DOC",
-          "url": "https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0"
-        }
-      ],
-      "duration_ms": 154137,
-      "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
-      "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
     },
     {
       "added_at": "2026-06-10 09:54:00",

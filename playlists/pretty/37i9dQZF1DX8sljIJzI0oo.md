@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Jasiel Nuñez is bringing the heat this week\. Tap in every Thursday for a fresh Fuego mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,913,950 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913,840 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

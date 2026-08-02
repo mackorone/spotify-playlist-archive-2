@@ -4,7 +4,7 @@
 
 > This is Miel San Marcos\. The essential tracks, all in one playlist.
 
-127 songs - 11 hr 19 min
+128 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Confío En Dios](https://open.spotify.com/track/4M9fZzHnmpvZOb3awA0XAG) | [Elevation Español](https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Algo Nuevo Viene](https://open.spotify.com/album/3QkreCRWwtZLLt2UzC2MHX) | 7:27 | 2026-01-25 |  |
 | [Coritos \(En Vivo\)](https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Coritos \(En Vivo\)](https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k) | 11:27 | 2023-01-26 |  |
 | [Coritos Con Flow](https://open.spotify.com/track/5Pj0EMhepLLhfMxrdMoC58) | [Travy Joe](https://open.spotify.com/artist/0K2Feyu8wJj25eXYZr3rT5), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Coritos Con Flow](https://open.spotify.com/album/5oaSETuSNMaOCrmFZbnvGf) | 4:36 | 2023-05-25 | 2025-06-25 |
-| [CRISTO](https://open.spotify.com/track/7BOtLQbPHdaB5VWkvtxVUm) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [CRISTO](https://open.spotify.com/album/3s9u1DnMLP7GE9EEn7mEdf) | 6:43 | 2026-02-20 |  |
+| [CRISTO](https://open.spotify.com/track/7BOtLQbPHdaB5VWkvtxVUm) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS), [Luis Morales Jr.](https://open.spotify.com/artist/2u08hrNlco1QqvcgRCdnKh) | [CRISTO](https://open.spotify.com/album/3s9u1DnMLP7GE9EEn7mEdf) | 6:43 | 2026-02-20 | 2026-08-02 |
+| [CRISTO \(Inglés/Español\)](https://open.spotify.com/track/3bU3Rv06nnFepEacgUwzYT) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Austin Benjamin](https://open.spotify.com/artist/1mLZGJNyogDspBWiSgAfcR) | [CRISTO \(Inglés/Español\)](https://open.spotify.com/album/3ABQFxUoKmbFzPVL6MHcyK) | 6:46 | 2026-08-02 |  |
 | [Cristo No Está Muerto \(feat\. Juan Carlos Alvarado\)](https://open.spotify.com/track/6bDHJjWEiWux7haSU8r4g5) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 1:27 | 2022-10-14 |  |
 | [Cuando Pienso \(En Vivo\)](https://open.spotify.com/track/0FMCuTrcs0ZmPjez4cIc34) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 2:25 | 2022-09-14 | 2022-10-12 |
 | [Danzo en el Río \(En Vivo\)](https://open.spotify.com/track/0I3cmPOnNwgCOVtO6tfQsG) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Josh Morales](https://open.spotify.com/artist/4BzluhaYmHa9iCkX7pehgS) | [Pentecostés \(En Vivo\)](https://open.spotify.com/album/7zyFQuz3nZmzpfRstmXZO0) | 4:41 | 2022-09-14 |  |

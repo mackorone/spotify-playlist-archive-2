@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,328 likes - 122 songs - 7 hr 2 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,329 likes - 125 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,5 +130,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 120 | [Keep On](https://open.spotify.com/track/2EeGM8HJAcABdRJlUD2zNp) | [Urban Psalm](https://open.spotify.com/artist/5ljCY9HMtCo072z28PCuHK) | [Keep On](https://open.spotify.com/album/6p3z9hLzS3UdK9Hr0F3Dfz) | 4:17 |
 | 121 | [REBORN](https://open.spotify.com/track/14xy96mlVAmznohNLXRO5j) | [DISSONANT](https://open.spotify.com/artist/3XYNgEne3ULFkzHdtXXUpl) | [AFTERDOPAMYNE](https://open.spotify.com/album/6KfgIIVc5kUvBnMmQzjob8) | 2:34 |
 | 122 | [Mungkin Mungkinkan](https://open.spotify.com/track/6fZWyNAtgPxaDz8smQ5OD0) | [Vendaz](https://open.spotify.com/artist/2yBdZ8lKzqEK1LcOlRxAwE), [Varenza Maurelya](https://open.spotify.com/artist/19J31EsEi89taAxSQ1JtZo) | [Mungkin Mungkinkan](https://open.spotify.com/album/1GvxjFP6QUPZOkkvSMiNEJ) | 4:14 |
+| 123 | [Magia](https://open.spotify.com/track/1BynXbJP0zjf7D9Dddnwiq) | [Henry Key](https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn) | [Magia](https://open.spotify.com/album/0aObso7ECNhubfU458p5wP) | 4:19 |
+| 124 | [Neon Lights \(Rosie\)](https://open.spotify.com/track/0QFZoyrRiMq2P2kuG66WQQ) | [Remco Tuns](https://open.spotify.com/artist/3p5MUwzf3k2Ri9Q04kWnRF) | [Neon Lights \(Rosie\)](https://open.spotify.com/album/0pKzR1iwTAZxgNc714ACli) | 4:18 |
+| 125 | [BORN OF LOVE](https://open.spotify.com/track/5JEBbEpMBo1ndQdtMD9RhL) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [BORN OF LOVE](https://open.spotify.com/album/4iqBnm4G4xEOz4YSDSOJEQ) | 2:28 |
 
-Snapshot ID: `AAAWj/dg71LxVpk2Fvl2OZluX/pDBZQS`
+Snapshot ID: `AAAWksILTdqgjIj+n/236fkhg5fmz/+n`

@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Can't Fight the Moonlight",
+        "url": "https://open.spotify.com/album/27pjHXgKai58NngyxDfePg"
+      },
+      "artists": [
+        {
+          "name": "Anuhea",
+          "url": "https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185090,
+      "name": "Can't Fight the Moonlight",
+      "url": "https://open.spotify.com/track/6HrInhRN8pJO8YG7Rua9OS"
+    },
+    {
+      "album": {
         "name": "All Is Bright",
         "url": "https://open.spotify.com/album/6wCIfOISLRd1yPCKL25BLN"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: MARCKRIS OF BUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,086 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,097 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 39 | [Not The Best But Still Good \(From "ด้วงกับเธอ Duang With You"\)](https://open.spotify.com/track/3Gc9V37FTaHx9bFtX4hfmn) | [TEETEE](https://open.spotify.com/artist/2dsc5BVS6AVRv99iXNBMTO), [Por Suppakarn](https://open.spotify.com/artist/0MDoSGuZKbwMhpA5MZv703) | [Not The Best But Still Good \(From "ด้วงกับเธอ Duang With You"\)](https://open.spotify.com/album/63OpYylyNXwzwo5hse1AxZ) | 3:37 |
 | 40 | [TURN ME ON \(feat\. Tobii\)](https://open.spotify.com/track/71Rfu3RiFdbEPcU2PpslhQ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY), [Tobii](https://open.spotify.com/artist/2Q1Qzlhorq7idKOcZwsGeg) | [TURN ME ON \(feat\. Tobii\)](https://open.spotify.com/album/2sVAmfSBfpzVqAXq2CHm6V) | 3:49 |
 | 41 | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/track/01m0HHk6WUdTjYXyOqZ5p3) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [แอบรักได้สมบูรณ์แบบ](https://open.spotify.com/album/031mYAdFkMANelKfQYBG1p) | 3:27 |
-| 42 | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/track/6siqePsBfrF0SoHmWrPUEQ) | [JINWOOK OF BUS](https://open.spotify.com/artist/2Q0ZSkGIWSEhH8ZFMGzWRi), [PHUTATCHAI OF BUS](https://open.spotify.com/artist/2nJcJjyJdSshxl9R20ZV71) | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/album/4YUoymyzePtO2w5Eqqxu9F) | 3:10 |
+| 42 | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/track/6siqePsBfrF0SoHmWrPUEQ) | [JINWOOK OF BUS](https://open.spotify.com/artist/5fN4TLKABIQWkolg9NnUrk), [PHUTATCHAI OF BUS](https://open.spotify.com/artist/2nJcJjyJdSshxl9R20ZV71) | [Take Our Time \(From "ด้วงกับเธอ"\)](https://open.spotify.com/album/4YUoymyzePtO2w5Eqqxu9F) | 3:10 |
 | 43 | [หล่น \(Faded\)](https://open.spotify.com/track/4c17U06F2ngjTOF5z70Yyy) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [หล่น \(Faded\)](https://open.spotify.com/album/1fAuGPKljtvREJTpeGwCfx) | 3:13 |
 | 44 | [New Season \(ฤดูใหม่\)](https://open.spotify.com/track/3VcmuNLcc2sH1ZrFh2njnp) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [New Season \(ฤดูใหม่\)](https://open.spotify.com/album/5IbgR6Y89OrHXNf6sRYBbm) | 3:25 |
 | 45 | [ถ้าเกิด \(If Only\)](https://open.spotify.com/track/2Fy0wd6wmL9QSujVYizVbp) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ถ้าเกิด \(If Only\)](https://open.spotify.com/album/09ohr5Op86uFo9tGRhOxbv) | 4:24 |

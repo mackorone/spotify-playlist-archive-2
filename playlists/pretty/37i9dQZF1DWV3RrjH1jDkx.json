@@ -1,6 +1,6 @@
 {
   "description": "Endelig fredag og ny musikk fra Ariana Grande, Alan Walker, Swedish House Mafia & Lykke Li og mange fler!! \u2665\ufe0f",
-  "num_followers": 203805,
+  "num_followers": 203804,
   "original_name": "New Music Friday Norway",
   "owner": {
     "name": "Spotify",
@@ -34,6 +34,10 @@
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
         }
       ],
       "duration_ms": 170576,
@@ -232,12 +236,12 @@
       },
       "artists": [
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
           "name": "HILLARI",
           "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
         },
         {
           "name": "Taylor Hill",

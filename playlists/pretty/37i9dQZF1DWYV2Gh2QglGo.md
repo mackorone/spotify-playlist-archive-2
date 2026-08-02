@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Lucas Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,190 likes - 190 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,196 likes - 190 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

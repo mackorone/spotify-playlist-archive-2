@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Ariana Grande, Cardi B, CORTIS , no na, eńau, Momo, For Revenge dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,512 likes - 127 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,517 likes - 127 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 83 | [晴々](https://open.spotify.com/track/0rlxx7HySKpl2LwyOfg2zR) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [晴々](https://open.spotify.com/album/2MlZJtGX2q8z2MKqRAQpX5) | 4:49 |
 | 84 | [JJK \(with Yuki Chiba\)](https://open.spotify.com/track/6acCX2vGgm8mBFJ65mGySQ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [JJK \(with Yuki Chiba\)](https://open.spotify.com/album/44ruPTIqJ6EaEFAxOPvXVI) | 2:29 |
 | 85 | [dance til i die](https://open.spotify.com/track/2ZIcZ5RvzV1gnShFxC0UfE) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [dance til i die](https://open.spotify.com/album/72YpF62FQR3pcHjFDfyl4Q) | 2:59 |
-| 86 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
+| 86 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
 | 87 | [I Really Wanna See You...](https://open.spotify.com/track/0E9eY2skX7HKSPDx4oiqKc) | [Adrian Milanio](https://open.spotify.com/artist/0WU77FbXaPSbcMcrOSJQXc) | [I Really Wanna See You...](https://open.spotify.com/album/6PszSPr98LjowUMcc4uXa9) | 2:43 |
 | 88 | [DEUCE](https://open.spotify.com/track/3YHNQcpsqqKGwdl3ATC0Av) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [DEUCE](https://open.spotify.com/album/0mE4zA3uNrnAGDY07IEbOW) | 2:55 |
 | 89 | [talks don't lie](https://open.spotify.com/track/5KF2ZAYkQUfSjiXNyJsAU0) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [talks don't lie](https://open.spotify.com/album/1fnjFp1J2nECRpnmoX1H5y) | 2:41 |

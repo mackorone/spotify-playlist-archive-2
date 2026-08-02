@@ -1529,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "Deep in My Heart (Remastered 2026)",
+        "url": "https://open.spotify.com/album/6FVHTZF3USUv6G8UKYufCl"
+      },
+      "artists": [
+        {
+          "name": "Sigmund Romberg",
+          "url": "https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167627,
+      "name": "It - Remastered 2026",
+      "url": "https://open.spotify.com/track/0m2kExLkgnlO2MLuctGn7p"
+    },
+    {
+      "album": {
         "name": "R&H Goes Pop!",
         "url": "https://open.spotify.com/album/6zf0YjLPz8wY6hE6RrmwkI"
       },

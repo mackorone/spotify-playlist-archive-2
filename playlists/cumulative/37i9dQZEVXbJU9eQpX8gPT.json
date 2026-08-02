@@ -9196,7 +9196,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 167920,
       "name": "CVP",
       "url": "https://open.spotify.com/track/3ZHISEni91oxZLbjDmtsAy"
@@ -10692,7 +10692,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 196706,
       "name": "DIPLOMATICO",
       "url": "https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og"
@@ -11634,7 +11634,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 226000,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/4EyoWcWJpxoldLndzZlinn"
@@ -12949,6 +12949,24 @@
     },
     {
       "album": {
+        "name": "MANZAKINE x FID\u00c8LE",
+        "url": "https://open.spotify.com/album/0hTLU8ZZhkjnXC1hPRawDm"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181206,
+      "name": "Fid\u00e8le",
+      "url": "https://open.spotify.com/track/4RK1dF8aqOGYdI3wEalakP"
+    },
+    {
+      "album": {
         "name": "Film out",
         "url": "https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa"
       },
@@ -13450,6 +13468,32 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "album": {
+        "name": "FOTO",
+        "url": "https://open.spotify.com/album/5JqdbGF5lsAj5DPCvV88me"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "FOTO",
+      "url": "https://open.spotify.com/track/68MyQ74n2P9F20sF0ojgVC"
     },
     {
       "album": {
@@ -14176,7 +14220,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 263363,
       "name": "GENDARMIA",
       "url": "https://open.spotify.com/track/0Ue7OnQYG5r3S8Q3o0HF2L"
@@ -23849,6 +23893,28 @@
     },
     {
       "album": {
+        "name": "MANZAKINE x FID\u00c8LE",
+        "url": "https://open.spotify.com/album/0hTLU8ZZhkjnXC1hPRawDm"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        },
+        {
+          "name": "Hajib",
+          "url": "https://open.spotify.com/artist/4AJJyl9SLTjnRqzCGf0t6W"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177498,
+      "name": "Manzakine",
+      "url": "https://open.spotify.com/track/1ExnYU3XbOW7mEIfaNeKX0"
+    },
+    {
+      "album": {
         "name": "Dans la temp\u00eate",
         "url": "https://open.spotify.com/album/3VeiHhDIRUUeg7EyMwNhaQ"
       },
@@ -32532,7 +32598,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 180000,
       "name": "ROUTINE",
       "url": "https://open.spotify.com/track/2GhQn93HtnDhHnQOkH2rhG"

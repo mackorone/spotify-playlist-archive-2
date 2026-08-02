@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟<br/>cover: Natanya
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,355 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,352 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [One song away from crying](https://open.spotify.com/track/7EzqmGOTlrzy1NxZRjeuVV) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [One song away from crying](https://open.spotify.com/album/5xQgMsnL5a1SmABhKGhtN3) | 3:39 |
-| 2 | [Biting My Tongue](https://open.spotify.com/track/4JIOLJsnwveUV6EkDUy9E8) | [Rafa & Meelo](https://open.spotify.com/artist/7EpyWnf8Oiy3zmrG4tPgKd) | [Biting My Tongue](https://open.spotify.com/album/4Ha0hzKj52i01kzG2WNH16) | 3:09 |
+| 2 | [Biting My Tongue](https://open.spotify.com/track/4JIOLJsnwveUV6EkDUy9E8) | [Rafa and Meelo](https://open.spotify.com/artist/7EpyWnf8Oiy3zmrG4tPgKd) | [Biting My Tongue](https://open.spotify.com/album/4Ha0hzKj52i01kzG2WNH16) | 3:09 |
 | 3 | [PLAY WITH A KISS!](https://open.spotify.com/track/4g3Lp2lNFEipx4kmhyuLBs) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [PLAY WITH A KISS!](https://open.spotify.com/album/3S2mohNLPT8riWEoyP8iBw) | 3:18 |
 | 4 | [CRAVING CONNECTION !!!](https://open.spotify.com/track/45ZbuN78JBbOFGWvI2eHGT) | [Isabel](https://open.spotify.com/artist/0Wt4MChhuEyZbH6MAbdWFN) | [CRAVING CONNECTION !!!](https://open.spotify.com/album/3pNGHDlwF18dCw0WPAckYZ) | 3:14 |
 | 5 | [More Of You](https://open.spotify.com/track/59FNEgSTq2o442TKFHtLMx) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [More Of You](https://open.spotify.com/album/4m9FIQVMM9Ut01gmjBfDrw) | 3:19 |

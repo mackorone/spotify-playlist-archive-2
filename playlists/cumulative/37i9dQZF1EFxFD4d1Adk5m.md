@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-127 songs - 7 hr 0 min
+129 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Confetti \(feat\. Saweetie\)](https://open.spotify.com/track/4oXV7uPMrMNSZfLMYtiqIX) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:05 | 2026-04-06 |  |
 | [Dance Floor Darling](https://open.spotify.com/track/1tojfdDueOdEY0T98Mudx4) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:12 | 2026-04-06 |  |
 | [Dangerous Woman](https://open.spotify.com/track/70FkyNgq5QPM3nt4JzyDnt) | [SuperM](https://open.spotify.com/artist/5BHFSMEjfLVx1JwRWjAOsE) | [Super One \-The 1st Album](https://open.spotify.com/album/10fdwvVIpa0raPkZUTILAt) | 3:09 | 2026-04-06 |  |
+| [Devotion \(Sweetest Emotion\)](https://open.spotify.com/track/6ffejqaHW8eatoka1sntka) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [Devotion \(Sweetest Emotion\)](https://open.spotify.com/album/5lr9NRdfJmcITfu7NCObUC) | 2:37 | 2026-08-01 |  |
 | [Die Like This](https://open.spotify.com/track/4My698q6fFhdAdOyVtWPej) | [Mourners](https://open.spotify.com/artist/2WpziIx9RMAM2jgdqRDrW7) | [Die Like This](https://open.spotify.com/album/58Za6DCjOPFu7XAsfLFi4R) | 3:01 | 2026-04-06 |  |
 | [Disco Cone \(Take It High\) \[ft\. WENZL\]](https://open.spotify.com/track/59IA01UnxFiJhxWXpG24mM) | [ENISA](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6), [WENZL](https://open.spotify.com/artist/20TzJXkB1BHRDiazEqsf8r) | [Disco Cone \(Take It High\) \[ft\. WENZL\]](https://open.spotify.com/album/60S00zDlfsP8UPGjMmTSH2) | 2:11 | 2026-04-06 |  |
 | [Down & Dirty](https://open.spotify.com/track/5pn5T6gRfBqF1Xu9IHOc67) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 2:55 | 2026-04-06 |  |
@@ -98,6 +99,7 @@
 | [Push It Right](https://open.spotify.com/track/4M61DpNzoLws32l7tvAbYL) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Push It Right](https://open.spotify.com/album/6V8dqXA58OeIr8qP3AruHI) | 2:45 | 2026-04-06 |  |
 | [R.E.D\. \- Radio Edit](https://open.spotify.com/track/7fRYGQnJ3j77Wqu9WKDN7q) | [Kongsted](https://open.spotify.com/artist/1PqkzV8bXUf9ZBPC6OJo7o) | [R.E.D.](https://open.spotify.com/album/4la02mt9hFMwbf1VFMtvfN) | 3:22 | 2026-04-06 |  |
 | [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 | 2026-04-06 |  |
+| [Real Friends \- Acoustic](https://open.spotify.com/track/2EBA6hA7AErvcjhhl8Zeym) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Real Friends \(Acoustic\)](https://open.spotify.com/album/0LUPbHaWNaTGlSPcFQ5lb0) | 2:52 | 2026-08-01 |  |
 | [Red Light](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Red Light \- The 3rd Album](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) | 3:31 | 2026-04-06 |  |
 | [Red Wine & Caviar](https://open.spotify.com/track/0W2ExAkYXWHu9CEM0wjxi4) | [Misunderstood](https://open.spotify.com/artist/4WYL3FlpuOq1TPtVu8rA1G), [Londynn B](https://open.spotify.com/artist/6a1696QGUkDJgGuJHwS3zS) | [Red Wine & Caviar](https://open.spotify.com/album/2tuWM6zgD1A7P5NvCQ2cpP) | 2:56 | 2026-05-29 |  |
 | [Salute](https://open.spotify.com/track/1iupzLgX4O0Qosb4yDpYoz) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Salute \(Expanded Edition\)](https://open.spotify.com/album/4cH9WxyfNWlfR257RitWBt) | 3:56 | 2026-04-06 |  |

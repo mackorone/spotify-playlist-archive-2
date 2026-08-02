@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-196 songs - 10 hr 59 min
+197 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Someone New \(feat\. Desi Valentine\)](https://open.spotify.com/track/5A5DQUbdDXtLEia69fJCba) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga), [Desi Valentine](https://open.spotify.com/artist/36dHG14WEpl3sG90gkOyf3) | [Someone New \(feat\. Desi Valentine\)](https://open.spotify.com/album/6PZIMjeRs7HSGMEVx6aE1u) | 3:53 | 2018-12-23 |  |
 | [Space Was Cool](https://open.spotify.com/track/5i1ynkfvNXEcTqRMHtOAKW) | [Markiplier](https://open.spotify.com/artist/65BxFegOKWTiwG3DGCckef), [The Gregory Brothers](https://open.spotify.com/artist/0V8tQXWkKPD5SxsB2moGew) | [Space Was Cool](https://open.spotify.com/album/3PUVtlfDzpIJ3ZkoEMOEfI) | 2:49 | 2022-06-30 |  |
 | [Starlight Brigade](https://open.spotify.com/track/2HVie6QZfnDS2HVQiGZwU6) | [TWRP](https://open.spotify.com/artist/6N3egqZ7OtcYYXyU6PBdNr), [Dan Avidan](https://open.spotify.com/artist/5HEl3J1o3yGK8ac6GeUmMo) | [Together Through Time](https://open.spotify.com/album/1PfcsIpr2dosoGTwMB63nO) | 5:28 | 2021-05-11 |  |
+| [Stayed Gone \(Political Parody\)](https://open.spotify.com/track/6xh1fNlKrxoKkwYkKfVAjt) | [Emory Jones](https://open.spotify.com/artist/0DM6zW05i7zxC3BrPiqidt) | [Stayed Gone \(Political Parody\)](https://open.spotify.com/album/445SzTp0MXwx2IpFdQYYJW) | 2:15 | 2026-08-02 |  |
 | [Still Alive](https://open.spotify.com/track/2JVZSUwPWzfBdgkdy3ZHet) | [Aperture Science Psychoacoustic Laboratories](https://open.spotify.com/artist/7d58WZ8qQHy2Sm5p52V2NP) | [Portal 2: Songs to Test by \(Collectors Edition\)](https://open.spotify.com/album/3avDuVP1Ua1QsCXLoSStHb) | 2:57 | 2024-02-23 |  |
 | [Stuck Inside \(CG5 Remix\)](https://open.spotify.com/track/5cJ3OSFu9duOSVNt0XZDZa) | [Black Gryph0n](https://open.spotify.com/artist/4ET82ZtSfAK4utfjDauImD), [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O), [The Living Tombstone](https://open.spotify.com/artist/0I6yADrmeyvw66g7yjkqIF), [Baasik](https://open.spotify.com/artist/3bSyv1vO8ye6PKyWcJeVbI), [Kevin Foster](https://open.spotify.com/artist/0Usv4CdfAGbF2C6bMIU0NL) | [Stuck Inside \(CG5 Remix\)](https://open.spotify.com/album/3yIUfvQGzXvNfIoeOXNqWP) | 2:52 | 2023-12-10 |  |
 | [Summer Never Ends](https://open.spotify.com/track/26ZC396ABpfS0MIbOetGEV) | [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Summer Never Ends](https://open.spotify.com/album/4kebl72O4DEyL6VJEtsE5k) | 3:51 | 2019-01-17 |  |

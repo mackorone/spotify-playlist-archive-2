@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-619 songs - 1 day 7 hr 8 min
+620 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [bad habit](https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [bad habit](https://open.spotify.com/album/17nQCSv01Ka3wpBxp0tsUe) | 2:51 | 2024-07-18 | 2024-11-13 |
 | [Bad Influence](https://open.spotify.com/track/3rpGgPToTtMU6q8kDLJ4Q8) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Bad Influence](https://open.spotify.com/album/3sKp3BIvmMDE5LmKTWqDQ8) | 3:02 | 2022-04-04 | 2022-05-21 |
 | [Barely Here](https://open.spotify.com/track/31JIr6kHiX8KOJB3M0XeLF) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Barely Here](https://open.spotify.com/album/7wRLUzbIKo1teiHHukMg2U) | 2:44 | 2026-05-09 |  |
+| [Be Someone](https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [Extremely Fragile Human Being](https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw) | 3:10 | 2026-07-24 |  |
 | [Before We Go](https://open.spotify.com/track/3UZ27Jo1YVIg40IjRcVTEY) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Before We Go](https://open.spotify.com/album/6YfCG65Zj6tFvsLGSFNbMh) | 2:34 | 2026-06-05 | 2026-07-25 |
 | [Best Kept Secret](https://open.spotify.com/track/1t7WwAVnHVfF2jgkTbCiSV) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Best Kept Secret](https://open.spotify.com/album/7FlwlWqXND3s375h0W5XTO) | 2:28 | 2022-10-06 | 2023-06-21 |
 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 | 2025-06-20 |  |
@@ -591,7 +592,7 @@
 | [Walk This World With Me](https://open.spotify.com/track/4C4xwikhiK5uZX1oyxsRpZ) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Walk This World With Me](https://open.spotify.com/album/3bOo5s7GANC5FY4nQKWnkm) | 3:48 | 2024-06-14 | 2025-08-02 |
 | [wallflower](https://open.spotify.com/track/1uSCWWZnyo78wKELz8pXlD) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [wallflower](https://open.spotify.com/album/3n1eCljBLZcM6YOBbNevEt) | 3:10 | 2024-06-14 | 2024-11-01 |
 | [waste away](https://open.spotify.com/track/7qfse0LAPI1kMhUHVcG1La) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [waste away](https://open.spotify.com/album/0lWRAuUBmuMSsZT7ntYTis) | 2:46 | 2025-07-17 | 2025-10-10 |
-| [WASTED](https://open.spotify.com/track/75khcRmE8VydTcmT7DIqHm) | [Pushing Veronica](https://open.spotify.com/artist/0Yr3vObyGg2Nssr9gvwV40) | [WASTED](https://open.spotify.com/album/2h54quPcr7rPumZ4dbwB4G) | 2:57 | 2026-07-24 |  |
+| [WASTED](https://open.spotify.com/track/75khcRmE8VydTcmT7DIqHm) | [Pushing Veronica](https://open.spotify.com/artist/0Yr3vObyGg2Nssr9gvwV40) | [WASTED](https://open.spotify.com/album/2h54quPcr7rPumZ4dbwB4G) | 2:57 | 2026-07-24 | 2026-08-02 |
 | [Watch The Fire](https://open.spotify.com/track/2DpaLvk9AOPSSQhlcepetR) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY), [BOYS LIKE GIRLS](https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI) | [Watch The Fire](https://open.spotify.com/album/4q4Gjl6X9nM4VsxiDK0aOJ) | 3:28 | 2024-11-18 | 2026-05-10 |
 | [WAVES](https://open.spotify.com/track/54nU16Aa4XaE7Gxgkm1g2w) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [WAVES](https://open.spotify.com/album/73pDeY3HirNVUh8VjEz4y7) | 3:28 | 2021-12-20 | 2022-06-15 |
 | [We All Got Covid \(Except for Linus\)](https://open.spotify.com/track/4TwuMxIhBZ47gIpHljt23x) | [Nerf Herder](https://open.spotify.com/artist/4TobcndnEGqtbWAHA6ylu1) | [We All Got Covid \(Except for Linus\)](https://open.spotify.com/album/6iB2IzhrrpmBcEwflzSLi9) | 2:20 | 2022-06-14 | 2022-07-29 |

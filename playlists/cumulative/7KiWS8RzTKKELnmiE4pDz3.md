@@ -4,7 +4,7 @@
 
 > 
 
-1,535 songs - 3 day 10 hr 54 min
+1,536 songs - 3 day 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,6 +467,7 @@
 | [Forëally / 4Ly](https://open.spotify.com/track/1aztkqMhtL4XSuGASmEeCo) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/26LsyqIbRQJzO1TPE5icl2) | 3:11 | 2024-03-04 | 2024-04-24 |
 | [Found God in a Tomato](https://open.spotify.com/track/4xBFKgS6VAmpmeoG0WJ9Pl) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [High Visceral, Pt\. 1](https://open.spotify.com/album/2BlcdDBE62JOtVOgC3L3xo) | 8:54 | 2026-06-08 |  |
 | [Foux \(feat\. Ab\-Soul\)](https://open.spotify.com/track/6UqgBwNMKmhjDuN0OcVJA0) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [BLUE LIPS](https://open.spotify.com/album/107WsrBqn5xVPgystkziry) | 4:41 | 2024-03-04 | 2024-11-06 |
+| [Freaky Times](https://open.spotify.com/track/36vKmkJMLUoivd7tk7k9KU) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Time](https://open.spotify.com/album/2p8VeG5r2aadenxHViCibr) | 3:17 | 2026-08-01 |  |
 | [Free BabyEBG Freestyle](https://open.spotify.com/track/1eRTuYXGNve68gqGiRUTG3) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free BabyEBG Freestyle](https://open.spotify.com/album/1TSlkErLHfkPRqK2xh6S51) | 2:00 | 2024-11-06 | 2025-05-21 |
 | [Free Me](https://open.spotify.com/track/5tLXeCSifkKGCieDgEgwxQ) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free Me](https://open.spotify.com/album/6V23UK6DifxHQMxE1NptsN) | 2:35 | 2022-12-30 | 2023-12-14 |
 | [Free Mr\. Banks](https://open.spotify.com/track/0Prv7tKONwFjjoJ2KswCoR) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Free Mr\. Banks](https://open.spotify.com/album/0hSUTpnHqOgP8hy7XKBPyg) | 1:59 | 2025-04-04 | 2026-02-08 |

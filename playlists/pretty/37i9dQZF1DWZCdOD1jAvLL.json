@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Slater Manzo",
-  "num_followers": 270922,
+  "num_followers": 270916,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -179,17 +179,21 @@
     {
       "added_at": "2026-07-31 04:03:36",
       "album": {
-        "name": "FTCU",
+        "name": "FTCU (feat. Mad Des)",
         "url": "https://open.spotify.com/album/5afVEXlA91OO2PC1rN4h4l"
       },
       "artists": [
         {
           "name": ".EXA",
           "url": "https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i"
+        },
+        {
+          "name": "Mad Des",
+          "url": "https://open.spotify.com/artist/0SMN6fPFotWNfurEYnxX5v"
         }
       ],
       "duration_ms": 195692,
-      "name": "FTCU",
+      "name": "FTCU (feat. Mad Des)",
       "url": "https://open.spotify.com/track/4F26R7vBKzplQ94RTrdJ0w"
     },
     {

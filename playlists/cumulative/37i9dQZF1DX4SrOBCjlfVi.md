@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Rod Wave, Cardi B,  Wale and more!
 
-10,639 songs - 20 day 8 hr 34 min
+10,641 songs - 20 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5004,6 +5004,7 @@
 | [Keep It Together \(feat\. That Mexican OT\)](https://open.spotify.com/track/4hUW8ivvRFy4oAfOmNK1Pd) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Breath Of Fresh Air](https://open.spotify.com/album/4NLl6P5UZoN31UsnSikaPJ) | 3:12 | 2024-11-08 | 2024-11-16 |
 | [Keep It Tru \(Long Live Rico Wade\)](https://open.spotify.com/track/1Gvrjwc04uVTGuXjyjiwUS) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Keep It Tru \(Long Live Rico Wade\)](https://open.spotify.com/album/3mEI7r4XqpU2wm29UFx69t) | 3:47 | 2026-06-26 | 2026-07-04 |
 | [Keep Killin](https://open.spotify.com/track/4nReKOGUdT8yzHEFF3wGSR) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [Power Book III: Raising Kanan, Season 4 \(Music From the Starz Original TV Series\)](https://open.spotify.com/album/4N2kyiUcPs6xjcORkIa70p) | 2:16 | 2025-03-07 | 2025-03-15 |
+| [keep me going \(BIRDBRAIN\)](https://open.spotify.com/track/2julCvWIxzXfX757t5Bnsn) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [keep me going \(BIRDBRAIN\)](https://open.spotify.com/album/6OOrYEPMhJEryhQVEFYxFR) | 2:09 | 2026-08-01 |  |
 | [keep my cool](https://open.spotify.com/track/0C7XJaaDmmrf3jJjjvaMES) | [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [keep my cool](https://open.spotify.com/album/5NRxfb3kyVCr6Kl3rtXoqa) | 1:30 | 2022-07-08 | 2022-07-16 |
 | [Keep On](https://open.spotify.com/track/1SvoF002jVuyN7iWD6ien8) | [Lil Rob](https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1) | [Keep On](https://open.spotify.com/album/2tqadfnYBVk1GHdNas03mk) | 3:05 | 2024-07-05 | 2024-07-13 |
 | [Keep on Gettin It](https://open.spotify.com/track/06TbA8MtNeWZ7HKZlToTqw) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Keep on Gettin It](https://open.spotify.com/album/4UgxkUOeLoLmAovFdAKSav) | 2:38 | 2023-08-18 | 2023-08-26 |
@@ -5955,6 +5956,7 @@
 | [Mode](https://open.spotify.com/track/7pnt32B3jxJDeWbhggcDBJ) | [Wizz Havin](https://open.spotify.com/artist/36RF9L1ABN67l6lYDXYYcY) | [Mr\. Too Sticky](https://open.spotify.com/album/5TrHsQhZDlUFGgovN7U88G) | 1:47 | 2022-12-23 | 2023-01-14 |
 | [MODEL TEARS \(BOO HOO\)](https://open.spotify.com/track/1oIVjaZXUc7DvFv7HI9o8u) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [steven shaeffer](https://open.spotify.com/artist/0sPHi4SXo7KmY1PcmlcEp2) | [MODEL TEARS \(BOO HOO\)](https://open.spotify.com/album/6TvINqcezjJzPaG0N0uzgP) | 1:48 | 2024-09-27 | 2024-10-05 |
 | [Models](https://open.spotify.com/track/2JsEgOHKxDPNyybV0roWYn) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Models](https://open.spotify.com/album/4nxEkS0v7QqboJ3to45x0B) | 1:44 | 2023-01-13 | 2023-01-21 |
+| [Modern Day Dre](https://open.spotify.com/track/4P578Og7D6OjPzUGtbRGaD) | [DB.Boutabag](https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr) | [The Real Boutabag III](https://open.spotify.com/album/5t89Cgo1rdEV2l9GMl7NiL) | 2:10 | 2026-07-31 |  |
 | [MODERN JAM \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 | 2023-07-28 | 2023-08-05 |
 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 | 2024-09-06 | 2024-09-14 |
 | [molli](https://open.spotify.com/track/1g7f2YPMMf97XlFHRQeoQC) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [molli](https://open.spotify.com/album/3UWV4LP7JeD4kHDnZ7xscc) | 2:04 | 2023-08-18 | 2023-08-26 |

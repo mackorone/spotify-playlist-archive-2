@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17021,
+  "num_followers": 17027,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "EMDDMV",
+        "url": "https://open.spotify.com/album/6ziWmkk7khSe5U5QstUNtV"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "EMDDMV",
+      "url": "https://open.spotify.com/track/7iR2INATAqjNsevyTqojre"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "B\u00faho",
         "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "EMDDMV",
-        "url": "https://open.spotify.com/album/6ziWmkk7khSe5U5QstUNtV"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "EMDDMV",
-      "url": "https://open.spotify.com/track/7iR2INATAqjNsevyTqojre"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1161,26 +1161,6 @@
       "url": "https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs"
     },
     {
-      "added_at": "2026-06-26 04:59:12",
-      "album": {
-        "name": "Can't Stand It",
-        "url": "https://open.spotify.com/album/6R3JaYcX61TTOFsTyRFaKY"
-      },
-      "artists": [
-        {
-          "name": "Lil Keren",
-          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
-        },
-        {
-          "name": "DanDizzy",
-          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
-        }
-      ],
-      "duration_ms": 130666,
-      "name": "Can't Stand It",
-      "url": "https://open.spotify.com/track/7y1fHpznXIbT3JEe1PpYkp"
-    },
-    {
       "added_at": "2026-06-19 04:59:04",
       "album": {
         "name": "Cuando Canto Grito",
@@ -1199,6 +1179,26 @@
       "duration_ms": 341074,
       "name": "Cuando Canto Grito",
       "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+    },
+    {
+      "added_at": "2026-06-26 04:59:12",
+      "album": {
+        "name": "Can't Stand It",
+        "url": "https://open.spotify.com/album/6R3JaYcX61TTOFsTyRFaKY"
+      },
+      "artists": [
+        {
+          "name": "Lil Keren",
+          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "duration_ms": 130666,
+      "name": "Can't Stand It",
+      "url": "https://open.spotify.com/track/7y1fHpznXIbT3JEe1PpYkp"
     },
     {
       "added_at": "2026-06-19 04:59:04",

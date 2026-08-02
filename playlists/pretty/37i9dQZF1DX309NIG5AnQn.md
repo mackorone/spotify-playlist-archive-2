@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > rock alternativo argentino\. <br/>📷 Buenos Vampiros
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,872 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,876 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 99 | [Frikidadidou](https://open.spotify.com/track/1sZs4kFiJhCxLXNGHSxYdx) | [NIKKÖ](https://open.spotify.com/artist/59pyzOYQlRJx8z1gzrN2ai), [Mariana Enriquez](https://open.spotify.com/artist/01NAGA1oV4Pbp9VW0E0u69) | [Frikidadidou](https://open.spotify.com/album/7hOpzL3rbfcLBLuQUfOsno) | 3:22 |
 | 100 | [SIESTA DE DRAGONES](https://open.spotify.com/track/4i846XTZEZDNidRkBnZ1kG) | [La Llorona y su Jardín de Dragones](https://open.spotify.com/artist/51RCCzIxJogXeAYBAXTHLW) | [GLU GLU](https://open.spotify.com/album/4OF2EudIUUh47W47NcDDRN) | 3:39 |
 
-Snapshot ID: `AAAAAJU8XMiN4H6wNDC+Ur6Oc7L87Gmk`
+Snapshot ID: `AAAAAIfsMEPbUmDo9Fo3jWsJulor1Dne`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 47 likes - 916 songs - 2 day 23 hr 40 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 47 likes - 917 songs - 2 day 23 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -924,5 +924,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 914 | [Sparring Partner](https://open.spotify.com/track/7p5jetoN7m7LeDKA2Mfhvv) | [Paolo Conte](https://open.spotify.com/artist/7bAIYB0KGbYXlGbIjyFAcI) | [Paolo Conte](https://open.spotify.com/album/0LFIPXXxCjybZoE6H0tswB) | 4:11 |
 | 915 | [My Heart, My Life](https://open.spotify.com/track/51kDnf9dngc5G01ncfKc9K) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song \(Real World Gold\)](https://open.spotify.com/album/39R3IELCHOo5HqYJjEIWPo) | 5:31 |
 | 916 | [Haydi Gel Benimle Ol](https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Sen Ağlama](https://open.spotify.com/album/0qTyJMQhBBb5oeoTr8b8Ra) | 4:31 |
+| 917 | [Şımarık](https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Ölürüm Sana](https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay) | 3:55 |
 
-Snapshot ID: `AAAEGXfGPFQa8ruUzacqQGsWMgCekgnq`
+Snapshot ID: `AAAEGojGFRIYLeH68eLGInyDq66laxBK`

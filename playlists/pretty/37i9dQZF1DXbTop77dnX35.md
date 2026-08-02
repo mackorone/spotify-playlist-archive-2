@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Davido, Seyi Vibez, Moliy,  BNXN & Asake and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,990 likes - 56 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,139 likes - 56 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,6 +63,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 53 | [Foreign](https://open.spotify.com/track/058g3whyYpywYdKZ8n8mtP) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh) | [Foreign](https://open.spotify.com/album/5mkhs9I9rGQJ0aCkNZshv9) | 2:34 |
 | 54 | [Whiskey & a Blunt](https://open.spotify.com/track/5mTGjHrAin8zH1TEmSnfHu) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Whiskey & a Blunt](https://open.spotify.com/album/6ejb87TbQintXVwaH86EUB) | 2:01 |
 | 55 | [miles](https://open.spotify.com/track/5AGk3gAmGbkRn2MJSzmpEu) | [Roy Rutto](https://open.spotify.com/artist/0qXdKNxrW6KNMGdDIIgRre), [Lundey](https://open.spotify.com/artist/0RkMo0RCbU9heAf0qMJrwW) | [miles](https://open.spotify.com/album/4KWaA5jgGnTDaIjtyVwxGA) | 2:37 |
-| 56 | [OGBA \- Proton Remix](https://open.spotify.com/track/3fuBzFs3ntux7g6mMLlKOO) | [Jamie Black](https://open.spotify.com/artist/4bwQ3Q006BkMrImg3JPWr9), [Proton](https://open.spotify.com/artist/6mQVLHfR0O5cnNTXm2skQq) | [OGBA: Remix Pack](https://open.spotify.com/album/0M4ZYjGee7qqSsjfvgEEgf) | 3:50 |
+| 56 | [OGBA \- Proton Remix](https://open.spotify.com/track/3fuBzFs3ntux7g6mMLlKOO) | [Jamie Black](https://open.spotify.com/artist/4bwQ3Q006BkMrImg3JPWr9), [Proton](https://open.spotify.com/artist/70d77PvjgJFnp4VdVtJLq4) | [OGBA: Remix Pack](https://open.spotify.com/album/0M4ZYjGee7qqSsjfvgEEgf) | 3:50 |
 
 Snapshot ID: `AAAAAPmL8nCewS+yvhvFdvsiBpIXtCw8`

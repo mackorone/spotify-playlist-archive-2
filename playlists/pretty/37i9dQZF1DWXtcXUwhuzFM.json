@@ -1,6 +1,6 @@
 {
   "description": "Uutta musaa tarjoilevat EMI, Ariana Grande, Slayyyter.. ja moni muu  \ud83c\udfb6",
-  "num_followers": 108013,
+  "num_followers": 108015,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -666,6 +666,10 @@
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
         }
       ],
       "duration_ms": 170576,

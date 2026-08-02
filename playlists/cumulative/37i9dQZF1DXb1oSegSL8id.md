@@ -4,7 +4,7 @@
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-144 songs - 7 hr 41 min
+145 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Mal Acostumado](https://open.spotify.com/track/4o2PBBped448WOwkMAFRHy) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Tô Achando Que É Amor, Ep\. 4](https://open.spotify.com/album/09N2lAZ7IAtNumMMj5EZHg) | 3:18 | 2023-11-17 | 2024-05-12 |
 | [Maldivas](https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2](https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3) | 2:44 | 2023-01-03 |  |
 | [Manda Áudio](https://open.spotify.com/track/0in6Rc29qdyOkhKyYw4A84) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Manda Áudio](https://open.spotify.com/album/13Yr9s9OwQb0FqeBo1tlKa) | 2:42 | 2023-01-03 | 2024-04-19 |
+| [Mande um Sinal / Ele e Ela \- Live](https://open.spotify.com/track/2Jysre3rcptlze7rb19rWo) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Pixote Sunset 2 \(Live\)](https://open.spotify.com/album/52Kq5NyUMyYcez0KkadgLd) | 5:04 | 2026-06-22 |  |
 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/3IbQGxLsZfV8EzA7ILNDwB) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Eu e Você Sempre](https://open.spotify.com/album/3pdKrwCCvPYI1o9liG2OMF) | 3:28 | 2023-11-17 |  |
 | [Me Apaixonei Pela Pessoa Errada](https://open.spotify.com/track/0lskTzcFFTmCCgLKRpGJdQ) | [Exaltasamba](https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw) | [Cartão Postal](https://open.spotify.com/album/2eIiUtlaanaoVXdxY35pFK) | 3:29 | 2023-01-03 | 2024-04-19 |
 | [ME USA \- Ao Vivo](https://open.spotify.com/track/16kELcGATL5IWb5RylAxBI) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY \(Ao Vivo\)](https://open.spotify.com/album/7z4PSl2TK6FVUlTjyVyRRX) | 2:38 | 2023-11-17 |  |
@@ -148,7 +149,7 @@
 | [Vagabundo](https://open.spotify.com/track/05e0rJXgFF3ptT7rK9DO2V) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Expectativa x Realidade](https://open.spotify.com/album/39ZFdo1y2IeExS8zKixGgw) | 2:45 | 2024-07-09 | 2026-01-23 |
 | [Vamo Tomar Uma](https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU) | 2:19 | 2023-01-03 | 2026-06-28 |
 | [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 | 2023-01-03 |  |
-| [Vou Valendo \- Ao Vivo](https://open.spotify.com/track/4OujRBkm3MgW8GzdGkefbW) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Vou Valendo \(Ao Vivo\)](https://open.spotify.com/album/35unU2R1d0GDiBJmYGW5GE) | 2:38 | 2024-07-09 |  |
+| [Vou Valendo \- Ao Vivo](https://open.spotify.com/track/4OujRBkm3MgW8GzdGkefbW) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z) | [Vou Valendo \(Ao Vivo\)](https://open.spotify.com/album/35unU2R1d0GDiBJmYGW5GE) | 2:38 | 2024-07-09 | 2026-08-02 |
 | [Xote Dos Milagres](https://open.spotify.com/track/6IAPvuuTejcMmbAZKPiiq4) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo), [Tato \(Falamansa\)](https://open.spotify.com/artist/2n9cWGNyvpcSF2fPT8EG5x) | [Arraiá 67](https://open.spotify.com/album/0sTO6W8fkGnqVh1NcV1Gr3) | 3:09 | 2023-01-03 | 2024-04-19 |
 | [É Problema](https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [É Problema](https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa) | 3:04 | 2023-01-03 |  |
 | [Último Beijo](https://open.spotify.com/track/2pBEAodCImE4LgbKAG4bfz) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Último Beijo](https://open.spotify.com/album/6AW51ww4T6cgKSxfj9PybR) | 3:01 | 2023-01-03 | 2026-04-12 |

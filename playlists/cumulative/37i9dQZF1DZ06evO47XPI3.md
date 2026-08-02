@@ -4,7 +4,7 @@
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-115 songs - 6 hr 12 min
+116 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Didn't I Blow Your Mind \- Re\-Record](https://open.spotify.com/track/7hl3HTDS0U9PvMeO1jkOSq) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Best Of The Best Vol\. 1](https://open.spotify.com/album/1O9s8jH1RC627KYGCw0vJJ) | 3:43 | 2022-05-25 |  |
 | [Didn't I Blow Your Mind This Time \- Re\-Recorded In Stereo](https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Best Of Delfonics](https://open.spotify.com/album/1kiAzVH4ZE4d1xlYnruP8i) | 3:24 | 2022-05-25 |  |
 | [Don't Leave Me](https://open.spotify.com/track/7xAmIfxcfwn9ZxMvSfCPUQ) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Choice Cuts \- Rare Soul Gems from Philly Groove!](https://open.spotify.com/album/0x7mqwjnBHTxZUX2U8qGIJ) | 2:54 | 2022-06-08 | 2022-06-13 |
+| [Don't Leave Me \- Mono](https://open.spotify.com/track/5cT3urMCKhWjDLuwbOlDCT) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [You'll Get Enough / Don't Leave Me](https://open.spotify.com/album/5MHFNla5ukhyIFeha527Db) | 2:58 | 2026-08-02 |  |
 | [Don't Throw It All Away \- 7" Version](https://open.spotify.com/track/5ke5fPNXizlAX11dGVNv4W) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:47 | 2022-05-25 | 2023-09-26 |
 | [Enemies](https://open.spotify.com/track/1woeGIFerXsEQFsrAIML2v) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 1:58 | 2024-04-15 |  |
 | [Enemies](https://open.spotify.com/track/3UqryDsDSq4x8hWaAh7cLD) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/0ZZ5Hj5Ic5V21qpE84MV2M) | 1:58 | 2022-10-12 | 2024-04-09 |
@@ -99,7 +100,7 @@
 | [Stop and Look \(And You Have Found Love\)](https://open.spotify.com/track/7LIRioQPVvLgLVdP5qU6AW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/0ZZ5Hj5Ic5V21qpE84MV2M) | 2:46 | 2022-05-25 | 2024-04-09 |
 | [Strangers Again](https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Delfonics Today All Platinium](https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U) | 3:39 | 2022-05-25 |  |
 | [Sunday \- Live](https://open.spotify.com/track/2MwXRhpyzJF4arnAI6bgLa) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Ray, Goodman & Brown](https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh) | [The Delfonics vs Ray, Goodman & Brown Live In Concert](https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5) | 2:06 | 2022-10-14 | 2026-05-31 |
-| [Tell Him](https://open.spotify.com/track/5IzBPXm8czCS3AH49gurKo) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Rarities](https://open.spotify.com/album/0MIUv5Km6ohmE66bKakj9G) | 4:48 | 2026-03-10 |  |
+| [Tell Him](https://open.spotify.com/track/5IzBPXm8czCS3AH49gurKo) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Rarities](https://open.spotify.com/album/0MIUv5Km6ohmE66bKakj9G) | 4:48 | 2026-03-10 | 2026-08-02 |
 | [Tell Me This Is a Dream](https://open.spotify.com/track/5iJ3TFsnziFusTvu8hM9pL) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:33 | 2022-05-25 |  |
 | [The Look of Love](https://open.spotify.com/track/24qtnTXiPpfcaK3BFGWBi9) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You](https://open.spotify.com/album/2Xj7OXGWSM6JbjJjYUusLR) | 3:19 | 2022-05-25 |  |
 | [The Phoney](https://open.spotify.com/track/2SQMUwmA8zQ1YPTwwJKr3v) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Records Presents: The Way Things Were](https://open.spotify.com/album/0v9VmBNpHA23zKo3lbTEIJ) | 3:10 | 2022-05-25 | 2022-10-15 |

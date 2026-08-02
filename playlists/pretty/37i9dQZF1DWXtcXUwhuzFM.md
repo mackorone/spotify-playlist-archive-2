@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat EMI, Ariana Grande, Slayyyter.\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,013 likes - 68 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,015 likes - 68 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 36 | [Alias](https://open.spotify.com/track/2xEOUpngb1Ir6tCLrgD2Ag) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Alias](https://open.spotify.com/album/5TDwiciOpr8OsHeZyZirWb) | 4:42 |
 | 37 | [silti tääl](https://open.spotify.com/track/3gJZxGzPKMgsgqVL9OTxtE) | [BABYNEO](https://open.spotify.com/artist/5a9KDuRWfdWFqvk2EodAi7) | [silti tääl](https://open.spotify.com/album/7kRULep3iJdbT2KN0XYAA0) | 2:16 |
 | 38 | [Dream inside a dream...](https://open.spotify.com/track/646gVKNhqtIbOtTjys0Dzd) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Dream inside a dream…](https://open.spotify.com/album/11H0ggNORjbmX0LhZ9iK2d) | 2:36 |
-| 39 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
+| 39 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
 | 40 | [Deep Dive](https://open.spotify.com/track/5I8YZqgeADPkF3rUyAhpuz) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Deep Dive](https://open.spotify.com/album/3Ul4H9dSedDtMdT5YMRYTE) | 3:40 |
 | 41 | [anteeks äiti](https://open.spotify.com/track/4LlvJJfNJrCAekXqkNhnoG) | [proffa](https://open.spotify.com/artist/5GcKruQOZUEPQYBuU5jI16) | [anteeks äiti](https://open.spotify.com/album/3OtkduRFzYwhhTdlT0l3YL) | 2:51 |
 | 42 | [Pidä Kii / Päästä Irti](https://open.spotify.com/track/1ufP7KyC8QV9utogFK2sDl) | [BAMBIE](https://open.spotify.com/artist/3IzsGanzh3kXyLT3EDgR2Y) | [Pidä Kii / Päästä Irti](https://open.spotify.com/album/42vwjp3gg96DWYIspSxlt9) | 2:49 |

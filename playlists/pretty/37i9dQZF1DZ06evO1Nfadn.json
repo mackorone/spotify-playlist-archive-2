@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 40642,
+  "num_followers": 40656,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAADZE1uymEbtwz7b4LW4Q5D5",
+  "snapshot_id": "amvlgAAAAAD+bT1Gddmcl85WdELUFpos",
   "tracks": [
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Llorar Por Ti",
-      "url": "https://open.spotify.com/track/3gSntLCvur21cSaWjTWDqS"
+      "duration_ms": 207320,
+      "name": "Aniversario de un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg"
     },
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que No Me Olvides",
-        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 207320,
-      "name": "Aniversario de un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg"
+      "duration_ms": 185000,
+      "name": "Llorar Por Ti",
+      "url": "https://open.spotify.com/track/3gSntLCvur21cSaWjTWDqS"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Nueva Era de la Quebradita",
-        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 193593,
-      "name": "Un Rayo de Sol",
-      "url": "https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Toro Pinto",
         "url": "https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 211306,
       "name": "El Toro Pinto",
       "url": "https://open.spotify.com/track/1Bintm3VasQng30o97U9D3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Nueva Era de la Quebradita",
+        "url": "https://open.spotify.com/album/4eO0RJcjWhS6mEwObol6Bc"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 193593,
+      "name": "Un Rayo de Sol",
+      "url": "https://open.spotify.com/track/5TNDSVqgDuN5pYl251Tihk"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Veas Lo Que Se Siente",
-        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 170933,
-      "name": "Te Lavaste la Cara, El Mono No",
-      "url": "https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos En Vivo",
         "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 162400,
       "name": "Los Hombres No Deben Llorar - Live Version",
       "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 170933,
+      "name": "Te Lavaste la Cara, El Mono No",
+      "url": "https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Veas Lo Que Se Siente",
-        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 149902,
       "name": "Juan Colorado",
       "url": "https://open.spotify.com/track/2nVMZNKy25WDfy96XNqZKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que No Me Olvides",
-        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 191866,
-      "name": "Para Que No Me Olvides",
-      "url": "https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 164213,
       "name": "El Zancudito",
       "url": "https://open.spotify.com/track/5fPtcVAyO515jP3wgloERw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 191866,
+      "name": "Para Que No Me Olvides",
+      "url": "https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9xitos de Oro",
-        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 186180,
-      "name": "Jacinto P\u00e9rez de la o",
-      "url": "https://open.spotify.com/track/4O7fT85AIDSjae3IGF7uIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 156706,
       "name": "Baila Nena",
       "url": "https://open.spotify.com/track/5Lq53c0cHdYcNxgH5JrE5t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9xitos de Oro",
+        "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 186180,
+      "name": "Jacinto P\u00e9rez de la o",
+      "url": "https://open.spotify.com/track/4O7fT85AIDSjae3IGF7uIt"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mundo Gira",
-        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "Hambriento Como Lobo",
-      "url": "https://open.spotify.com/track/07aDuwUcm8pP66ebJxnDoU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Eterno Enamorado",
         "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 142653,
       "name": "Mujer Paseada",
       "url": "https://open.spotify.com/track/7irQS7Wm2SsGFRkOOqZ0Hv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mundo Gira",
+        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "Hambriento Como Lobo",
+      "url": "https://open.spotify.com/track/07aDuwUcm8pP66ebJxnDoU"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que El Mundo Ruede (Ven Conmigo Cari\u00f1ito)",
+        "url": "https://open.spotify.com/album/1QdUVFZtyXjs6M0gDTWNZj"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        },
+        {
+          "name": "David Olivarez",
+          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
+        }
+      ],
+      "duration_ms": 207368,
+      "name": "Que El Mundo Ruede (Ven Conmigo Cari\u00f1ito)",
+      "url": "https://open.spotify.com/track/0ynPwKFEs5siAwGp28MTf3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/1ikqe2XWpl3nNHzSwXgPFi"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 194666,
       "name": "Brinca Brita",
       "url": "https://open.spotify.com/track/0PLFV9ddyrQ7josGKivRTi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que El Mundo Ruede (Ven Conmigo Cari\u00f1ito)",
-        "url": "https://open.spotify.com/album/1QdUVFZtyXjs6M0gDTWNZj"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        },
-        {
-          "name": "David Olivarez",
-          "url": "https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm"
-        }
-      ],
-      "duration_ms": 207368,
-      "name": "Que El Mundo Ruede (Ven Conmigo Cari\u00f1ito)",
-      "url": "https://open.spotify.com/track/0ynPwKFEs5siAwGp28MTf3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,566 songs - 5 day 15 hr 47 min
+2,569 songs - 5 day 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [All Is Lost](https://open.spotify.com/track/6DLmXJHLcIpfn2fU25DvAw) | [Boundless Echoes](https://open.spotify.com/artist/6MabNjOvXDNYufvCBf8vQA) | [When All Is Lost](https://open.spotify.com/album/0UoFs4vHjDjOTcigIAAJcK) | 2:52 | 2026-04-14 | 2026-05-16 |
 | [All My Fault](https://open.spotify.com/track/0QUWUwCvf7cHIS5FaiuRRG) | [Maddy Little](https://open.spotify.com/artist/0o9LvaeSgJikQWwDnAEAyH) | [All My Fault](https://open.spotify.com/album/0r5SdB7rVTLWVY57npp7jw) | 3:05 | 2026-01-20 | 2026-02-24 |
 | [All My Friends](https://open.spotify.com/track/2SoNF5iu5JnFWqOHR89QOM) | [Like Nastya](https://open.spotify.com/artist/6w06xBVuiLYDcrjuhQqJ0w) | [All My Friends](https://open.spotify.com/album/7fE0UkeAZn48WXhNEBtNeJ) | 2:44 | 2026-03-14 | 2026-04-15 |
+| [All My Life](https://open.spotify.com/track/4B74UoHA19UF4u140v6Aa9) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Better Late Than Never](https://open.spotify.com/album/3fnfS9UWZCMbbySmokBIdP) | 3:08 | 2026-08-01 |  |
 | [All Night](https://open.spotify.com/track/3u1TKr9GAsOM7RiFtGz905) | [Demysrios](https://open.spotify.com/artist/5VoeGnjZZsDa1XLs1kxHvB) | [Songtober](https://open.spotify.com/album/6nYYFhgxzfgEVNlnCjc4YK) | 2:36 | 2025-11-11 | 2025-12-13 |
 | [All of Us](https://open.spotify.com/track/49IUzHwGOrgT0X300VgiHR) | [Luma Saint](https://open.spotify.com/artist/6UPumw4rotQmQXZUHtw3RC) | [All of Us](https://open.spotify.com/album/1MZr6IcT2AFjkNumiVUve0) | 3:11 | 2025-12-24 | 2026-01-25 |
 | [All Or Nothing](https://open.spotify.com/track/5IESTItoyGjMDTxkSx2kyF) | [Div Eadie](https://open.spotify.com/artist/5R4341VMttAGEFTTZgaK4P), [Norman](https://open.spotify.com/artist/0ticcaEIpJiMcbAUlp3ztD) | [All Or Nothing](https://open.spotify.com/album/6IVTPfPNyn5FVqOLTV90HN) | 2:40 | 2026-03-22 | 2026-04-23 |
@@ -1362,6 +1363,7 @@
 | [Makeshift](https://open.spotify.com/track/0Z5PFrCgToAGQlyhGMrOXl) | [Tiebreak](https://open.spotify.com/artist/38pIPIk1VQJhC5sYkIqJB1) | [Makeshift](https://open.spotify.com/album/615fsNmtMYwGZRzcHeGxLi) | 3:27 | 2026-07-23 |  |
 | [Making It Up](https://open.spotify.com/track/4DnJJZ5ApE5GOYOWltRe7w) | [Nolan Hubbard](https://open.spotify.com/artist/3k5IfkZOGSBgfyq8ITDjos) | [Making It Up](https://open.spotify.com/album/7hlokbwA2EwcH9jSIRId5l) | 3:04 | 2026-01-23 | 2026-02-25 |
 | [Mama's Medicine](https://open.spotify.com/track/4QqMnamtVfB0oCzVxWEaTr) | [JESSYAH](https://open.spotify.com/artist/0BJZhtGDsP2H8SrYMGq3Zq) | [Mama's Medicine](https://open.spotify.com/album/0J5Wqawz7wHXgVxbAFjzTX) | 2:51 | 2026-01-06 | 2026-02-07 |
+| [Man For A Minute](https://open.spotify.com/track/53ggds18yq6n2FVeK0MzxY) | [Eugene](https://open.spotify.com/artist/1XSk6lGRiKMabwZ4IST6mA) | [Man For A Minute](https://open.spotify.com/album/7FGTzA1y9IZFJcPqXGmxgt) | 2:58 | 2026-08-01 |  |
 | [Manantial de la prudencia](https://open.spotify.com/track/5zc2tZmxerbtPow3t9EkJs) | [Juan María Solare](https://open.spotify.com/artist/0sr00YxbHKRAruzYrJ6PEg) | [Manantial de la prudencia](https://open.spotify.com/album/3BC1uy9UgVhp0NULaZ8xKh) | 3:08 | 2026-06-16 | 2026-07-18 |
 | [Mandy](https://open.spotify.com/track/2SNfhi0vP2FCOic7iBMEzj) | [Michael P Flyer](https://open.spotify.com/artist/2ktDXodx3ROktroh19zV3f) | [Mandy](https://open.spotify.com/album/4ZdsD33AAju9e5qO033Eea) | 3:24 | 2025-12-18 | 2026-01-19 |
 | [MANIFEST](https://open.spotify.com/track/4vSU8sPnAyBsH9EF9RIfNt) | [Lisa K](https://open.spotify.com/artist/3YP40xHOqfp3dM9yKOgetk) | [MANIFEST](https://open.spotify.com/album/0tu2fBRnHLD7S8RNTXcOtf) | 3:04 | 2025-10-31 | 2025-12-03 |
@@ -1895,7 +1897,7 @@
 | [SENESCENCE](https://open.spotify.com/track/00eZp1ec7JEvUFa8fm7erS) | [Allen Condes](https://open.spotify.com/artist/0oHTxPD5LH7EmDoEK5QzcM) | [THE WORLD IS ALWAYS ENDING SOMETIMES](https://open.spotify.com/album/1MhA2wzFuGI0EZ5HUsLSHM) | 2:35 | 2025-12-23 | 2026-01-24 |
 | [Senescence](https://open.spotify.com/track/64Zz7p1BrUH9hlsHfJK3qi) | [Yenn](https://open.spotify.com/artist/6QRKylVfrExn0cIOQzpAIp), [Breakestine](https://open.spotify.com/artist/2rCvh2rrpCxd8mVD9seDNX) | [Senescence](https://open.spotify.com/album/6QtciNI2kObVgNjlOcqy9Q) | 2:13 | 2026-07-11 |  |
 | [Senorita](https://open.spotify.com/track/1Gsg7ne9PYxOsC2gs1G8Sr) | [MAËL](https://open.spotify.com/artist/52U1Bu6kUpYLM683MZwMZR), [LosA](https://open.spotify.com/artist/5cQIEXuMMSwfpaaaKf5d5v) | [Freshman](https://open.spotify.com/album/5zrFbDsFVXPZ8AbJHIWiBH) | 2:36 | 2026-06-30 | 2026-07-31 |
-| [senseless](https://open.spotify.com/track/5emfgvRMAUQcKK0cZ6xltg) | [jules.xoc](https://open.spotify.com/artist/5KO50Ro2QliqrCesFb82EC) | [lost in the gears](https://open.spotify.com/album/5Up8hiRs4Rf6wmr1XOtTbD) | 1:29 | 2026-07-30 |  |
+| [senseless](https://open.spotify.com/track/5emfgvRMAUQcKK0cZ6xltg) | [jules.xoc](https://open.spotify.com/artist/5KO50Ro2QliqrCesFb82EC), [Im gonna die alone](https://open.spotify.com/artist/7xp1rjLTSV2Zy7uWUwzEEy) | [lost in the gears](https://open.spotify.com/album/5Up8hiRs4Rf6wmr1XOtTbD) | 1:29 | 2026-07-30 |  |
 | [September](https://open.spotify.com/track/2SN3hprK2oa9y7akcRRNFH) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06), [Megan Spencer](https://open.spotify.com/artist/0EZBR3iku1cNJJvBs5tmB5) | [September](https://open.spotify.com/album/5zTi8VzRc7rwRnRPw924wT) | 2:03 | 2026-05-12 | 2026-06-15 |
 | [SERENDIPITOUS](https://open.spotify.com/track/3M3w9GI2kkWRgQ439AjvNq) | [Nono B](https://open.spotify.com/artist/2C7kbPH8SWUZCPN0fuPngu), [D\. Mitchell](https://open.spotify.com/artist/146rZ9yeZ8p1ttCfQbKv08) | [FIVE STAR LEFT OVERS](https://open.spotify.com/album/2DktUkq9Iw1YnPw1p1U00h) | 2:36 | 2026-01-13 | 2026-02-15 |
 | [Set Me Free](https://open.spotify.com/track/4RwruAzSqNb8E7kQx6ndA4) | [NETT](https://open.spotify.com/artist/4EaqIwQs166l4iduLUBpiN), [puremind](https://open.spotify.com/artist/2dFzw3ekT9cjNi1WYmKPfX) | [Set Me Free](https://open.spotify.com/album/1Qnf5SlhCxEJOUEuhn3Emv) | 3:16 | 2026-04-03 | 2026-05-05 |
@@ -2454,6 +2456,7 @@
 | [Who did you touch last night](https://open.spotify.com/track/7CYQLlXOUbFEckIDM2MJDu) | [Desire](https://open.spotify.com/artist/7HWS6Y2IIjMGfxRs0488dF) | [The East Side](https://open.spotify.com/album/412XfLxrtjdTwePdUhUt5w) | 2:14 | 2026-01-11 | 2026-02-12 |
 | [Who Do You Belong to Now? \(Great Southern Land\)](https://open.spotify.com/track/55BuiwR2joiVCdA6XJmDMg) | [Paul Louis Villani](https://open.spotify.com/artist/34d63lSdZvsG2w63yzIFBn) | [Who Do You Belong to Now? \(Great Southern Land\)](https://open.spotify.com/album/7yBjJErjP0w6o82kS2MtTv) | 4:53 | 2026-06-04 | 2026-07-05 |
 | [WHO GOT YOUR TIME](https://open.spotify.com/track/36bX8OVsyxY8RyqcH55VFA) | [Narii](https://open.spotify.com/artist/6LMXNAi9Snl9VgEgNIRTlr) | [VAL4NTINES FEELS](https://open.spotify.com/album/1uiijG3cIvq5x5kW05byDA) | 2:44 | 2026-03-17 | 2026-04-18 |
+| [Who Was I When We Were Just Friends](https://open.spotify.com/track/4AR81DRiSzZRzvN5PY5uQt) | [Aleksi Oksanen](https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2) | [Who Was I When We Were Just Friends](https://open.spotify.com/album/0zaQ4czgKuaGBEwLjcfxks) | 2:15 | 2026-08-01 |  |
 | [Who's Going Down](https://open.spotify.com/track/6NeCtvXCIrfl8iXrQAesaI) | [James Tonic](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z) | [Who's Going Down](https://open.spotify.com/album/7ePDSXqPZzF1vybVFWdqm3) | 3:50 | 2026-07-07 |  |
 | [Whole Lotta Love](https://open.spotify.com/track/5JV6MnKaMlepSkOdi2fbsK) | [SXY](https://open.spotify.com/artist/7EENHjR09hCFj4wDM8NZCK) | [Whole Lotta Love](https://open.spotify.com/album/4FcVuEzrVjtOr1RzRuvH7B) | 3:12 | 2026-02-15 | 2026-03-20 |
 | [Whose Side Are You On](https://open.spotify.com/track/1xuFOs26Uu3kueHx2c1Zj4) | [Andy Tran](https://open.spotify.com/artist/790Img4URfwiERemcN9zbs) | [Room To Breathe](https://open.spotify.com/album/6aVLn3apHrY2vtpW4upWbn) | 4:10 | 2026-02-06 | 2026-03-10 |

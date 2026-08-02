@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 126832,
+  "num_followers": 126854,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAAB1tkXMGK5vJsibBuPAsTQm",
+  "snapshot_id": "amvlgAAAAAAhl2Wee0H8z0z7W9j6gSdJ",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Wish I Was Stephen Malkmus",
+        "url": "https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 231860,
+      "name": "I Wish I Was Stephen Malkmus",
+      "url": "https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sway (triple j Like A Version)",
         "url": "https://open.spotify.com/album/2lszCSwBW2wm0yIwp0ag6z"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 218950,
       "name": "Sway - triple j Like A Version",
       "url": "https://open.spotify.com/track/3SrUc3crJdSzNioTHaDQRf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wish I Was Stephen Malkmus",
-        "url": "https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 231860,
-      "name": "I Wish I Was Stephen Malkmus",
-      "url": "https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC"
     },
     {
       "added_at": null,

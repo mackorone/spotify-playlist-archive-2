@@ -353,6 +353,32 @@
     },
     {
       "album": {
+        "name": "BRUCE WAYNE (feat. Flo Milli, ATL Jacob)",
+        "url": "https://open.spotify.com/album/0zFZrfVxd88xjUMbkSHynL"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "BRUCE WAYNE - feat. Flo Milli, ATL Jacob",
+      "url": "https://open.spotify.com/track/479lHLFFoTDvl4s65jNs5v"
+    },
+    {
+      "album": {
         "name": "WickNation",
         "url": "https://open.spotify.com/album/7p6MfFyoH5mKgAk1uARLEO"
       },
@@ -1012,7 +1038,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 172592,
       "name": "Gripper (feat. T-Pain)",
       "url": "https://open.spotify.com/track/0OBXjsLYqftAOhCMEcAeAs"

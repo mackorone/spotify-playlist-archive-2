@@ -1,12 +1,12 @@
 {
   "description": "This is J\u00e3o. The essential tracks, all in one playlist.",
-  "num_followers": 206786,
+  "num_followers": 206903,
   "original_name": "This Is J\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAAB0J2nbdCj+FQbdLyuXiHKH",
+  "snapshot_id": "amvlgAAAAAD2QNiHI31WbYt0ed77kYp9",
   "tracks": [
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 175086,
-      "name": "Me Lambe",
-      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
+      "duration_ms": 201612,
+      "name": "Alinhamento Milenar",
+      "url": "https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 201612,
-      "name": "Alinhamento Milenar",
-      "url": "https://open.spotify.com/track/1AaBgDyjuG6ckj8PuRoG9m"
+      "duration_ms": 175086,
+      "name": "Me Lambe",
+      "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 195575,
-      "name": "Jabuticabeira",
-      "url": "https://open.spotify.com/track/3HBIHTgDPLk0qKa4qTqeEl"
+      "duration_ms": 220534,
+      "name": "Coincid\u00eancias",
+      "url": "https://open.spotify.com/track/6Nhfb01I0ceS1yVgIDykqm"
     },
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 187080,
-      "name": "Coringa",
-      "url": "https://open.spotify.com/track/5j3p2WnU8ha4K4ybaTZ4Hx"
+      "duration_ms": 195028,
+      "name": "Doce",
+      "url": "https://open.spotify.com/track/0U2PbvCX6MHp72tqiaCPSS"
     },
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 220534,
-      "name": "Coincid\u00eancias",
-      "url": "https://open.spotify.com/track/6Nhfb01I0ceS1yVgIDykqm"
+      "duration_ms": 195575,
+      "name": "Jabuticabeira",
+      "url": "https://open.spotify.com/track/3HBIHTgDPLk0qKa4qTqeEl"
     },
     {
       "added_at": null,
@@ -376,25 +376,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 195028,
-      "name": "Doce",
-      "url": "https://open.spotify.com/track/0U2PbvCX6MHp72tqiaCPSS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 186504,
-      "name": "Acidente",
-      "url": "https://open.spotify.com/track/0soeEPl0HwEmuC0LNQ1dSp"
+      "duration_ms": 187080,
+      "name": "Coringa",
+      "url": "https://open.spotify.com/track/5j3p2WnU8ha4K4ybaTZ4Hx"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
       "duration_ms": 255159,
       "name": "A \u00daltima Noite",
       "url": "https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 186504,
+      "name": "Acidente",
+      "url": "https://open.spotify.com/track/0soeEPl0HwEmuC0LNQ1dSp"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOBOS",
-        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "Imaturo",
-      "url": "https://open.spotify.com/track/0S86atec73KKaexn67JsDy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANTI-HER\u00d3I",
         "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 236921,
       "name": "VSF",
       "url": "https://open.spotify.com/track/6rL40EhmdDeEeqS0FDZ9Ab"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOBOS",
+        "url": "https://open.spotify.com/album/67a6pDoMKQYOKGMnmUQZbq"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 178186,
+      "name": "Imaturo",
+      "url": "https://open.spotify.com/track/0S86atec73KKaexn67JsDy"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ANTI-HER\u00d3I",
+        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 219634,
+      "name": "Enquanto Me Beija",
+      "url": "https://open.spotify.com/track/0EsftWIxQKCoCz5HZtlpkW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mal",
         "url": "https://open.spotify.com/album/66cKlnpPVfGXR0Xgec7lK7"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 166255,
       "name": "Mal",
       "url": "https://open.spotify.com/track/3Q97FKXvvhX7xNE9T3rp0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ANTI-HER\u00d3I",
-        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 219634,
-      "name": "Enquanto Me Beija",
-      "url": "https://open.spotify.com/track/0EsftWIxQKCoCz5HZtlpkW"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ANTI-HER\u00d3I",
+        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 179446,
+      "name": "Triste Pra Sempre",
+      "url": "https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coisas da Gera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0FaC1N7xoN4Bloe1R1U42k"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 180213,
       "name": "Andar Sozinho (feat. J\u00e3o)",
       "url": "https://open.spotify.com/track/1UGYO1Ruzfccbn36qmn2qT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ANTI-HER\u00d3I",
-        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 179446,
-      "name": "Triste Pra Sempre",
-      "url": "https://open.spotify.com/track/3n7ZwCXQUZekntN3f7dzwD"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOBOS (Deluxe)",
-        "url": "https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ressaca",
-      "url": "https://open.spotify.com/track/0Fut8bkxJc6H4Rh951Nxc4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANTI-HER\u00d3I",
         "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 184712,
       "name": "Voc\u00ea Vai Me Destruir",
       "url": "https://open.spotify.com/track/3mPz8WMo0zOWMxezQjyc8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOBOS (Deluxe)",
+        "url": "https://open.spotify.com/album/4nvIgrse8yWtDgx2442N8n"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ressaca",
+      "url": "https://open.spotify.com/track/0Fut8bkxJc6H4Rh951Nxc4"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1328,
+  "num_followers": 1329,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAWj/dg71LxVpk2Fvl2OZluX/pDBZQS",
+  "snapshot_id": "AAAWksILTdqgjIj+n/236fkhg5fmz/+n",
   "tracks": [
     {
       "added_at": "2026-07-02 22:11:30",
@@ -2043,6 +2043,54 @@
       "duration_ms": 254880,
       "name": "Mungkin Mungkinkan",
       "url": "https://open.spotify.com/track/6fZWyNAtgPxaDz8smQ5OD0"
+    },
+    {
+      "added_at": "2026-08-01 08:05:18",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/0aObso7ECNhubfU458p5wP"
+      },
+      "artists": [
+        {
+          "name": "Henry Key",
+          "url": "https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn"
+        }
+      ],
+      "duration_ms": 259393,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/1BynXbJP0zjf7D9Dddnwiq"
+    },
+    {
+      "added_at": "2026-08-01 08:05:19",
+      "album": {
+        "name": "Neon Lights (Rosie)",
+        "url": "https://open.spotify.com/album/0pKzR1iwTAZxgNc714ACli"
+      },
+      "artists": [
+        {
+          "name": "Remco Tuns",
+          "url": "https://open.spotify.com/artist/3p5MUwzf3k2Ri9Q04kWnRF"
+        }
+      ],
+      "duration_ms": 258064,
+      "name": "Neon Lights (Rosie)",
+      "url": "https://open.spotify.com/track/0QFZoyrRiMq2P2kuG66WQQ"
+    },
+    {
+      "added_at": "2026-08-01 08:05:24",
+      "album": {
+        "name": "BORN OF LOVE",
+        "url": "https://open.spotify.com/album/4iqBnm4G4xEOz4YSDSOJEQ"
+      },
+      "artists": [
+        {
+          "name": "Crazy Trottles",
+          "url": "https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz"
+        }
+      ],
+      "duration_ms": 148032,
+      "name": "BORN OF LOVE",
+      "url": "https://open.spotify.com/track/5JEBbEpMBo1ndQdtMD9RhL"
     }
   ],
   "unique_name": "New Indie Music",

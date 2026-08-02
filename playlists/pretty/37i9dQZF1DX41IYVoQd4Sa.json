@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : IDIOT!\tPeled",
-  "num_followers": 34206,
+  "num_followers": 34208,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-07-30 21:00:55",
       "album": {
-        "name": "\u05d4\u05e2\u05d5\u05dc\u05dd \u05d6\u05d4 \u05dc\u05d0 \u05de\u05e1\u05e4\u05d9\u05e7",
-        "url": "https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X"
-      },
-      "artists": [
-        {
-          "name": "ATAR MAYNER",
-          "url": "https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm"
-        },
-        {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
-        }
-      ],
-      "duration_ms": 204255,
-      "name": "\u05e0\u05e9\u05de\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2"
-    },
-    {
-      "added_at": "2026-07-30 21:00:55",
-      "album": {
         "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
         "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 174452,
       "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
       "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
+    },
+    {
+      "added_at": "2026-07-30 21:00:55",
+      "album": {
+        "name": "\u05d4\u05e2\u05d5\u05dc\u05dd \u05d6\u05d4 \u05dc\u05d0 \u05de\u05e1\u05e4\u05d9\u05e7",
+        "url": "https://open.spotify.com/album/3FMNWbBknHDoMFWNhxwP6X"
+      },
+      "artists": [
+        {
+          "name": "ATAR MAYNER",
+          "url": "https://open.spotify.com/artist/1oTaLSazZlqH2azlemNZOm"
+        },
+        {
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+        }
+      ],
+      "duration_ms": 204255,
+      "name": "\u05e0\u05e9\u05de\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/0ayoyWDZj5AxGAqk3kOXe2"
     },
     {
       "added_at": "2026-07-30 21:00:55",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-07-30 21:00:55",
       "album": {
+        "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
+        "url": "https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu"
+      },
+      "artists": [
+        {
+          "name": "Monica Sex",
+          "url": "https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
+      "url": "https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim"
+    },
+    {
+      "added_at": "2026-07-30 21:00:55",
+      "album": {
         "name": "\u05d0\u05d9",
         "url": "https://open.spotify.com/album/6YybfSBM6MRZRNHlTe3tCw"
       },
@@ -751,18 +767,22 @@
     {
       "added_at": "2026-07-30 21:00:55",
       "album": {
-        "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
-        "url": "https://open.spotify.com/album/4pxQv2EYfilzFqDLRpIMMu"
+        "name": "\u05db\u05d0\u05d1 \u05d5\u05d3\u05de\u05e2\u05d5\u05ea 2",
+        "url": "https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA"
       },
       "artists": [
         {
-          "name": "Monica Sex",
-          "url": "https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj"
+          "name": "Peled",
+          "url": "https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS"
+        },
+        {
+          "name": "Shredhead",
+          "url": "https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm"
         }
       ],
-      "duration_ms": 248000,
-      "name": "\u05db\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d2\u05d3\u05d9",
-      "url": "https://open.spotify.com/track/6rr6Cdu2KyP3ZbXz6Vpvim"
+      "duration_ms": 217560,
+      "name": "\u05d1\u05d5\u05e7\u05e8 \u05d8\u05d5\u05d1 \u05d9\u05d0 \u05d1\u05e0\u05d9 \u05d6\u05d5\u05e0\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020"
     },
     {
       "added_at": "2026-07-30 21:00:55",
@@ -787,26 +807,6 @@
     {
       "added_at": "2026-07-30 21:00:55",
       "album": {
-        "name": "\u05db\u05d0\u05d1 \u05d5\u05d3\u05de\u05e2\u05d5\u05ea 2",
-        "url": "https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA"
-      },
-      "artists": [
-        {
-          "name": "Peled",
-          "url": "https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS"
-        },
-        {
-          "name": "Shredhead",
-          "url": "https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "\u05d1\u05d5\u05e7\u05e8 \u05d8\u05d5\u05d1 \u05d9\u05d0 \u05d1\u05e0\u05d9 \u05d6\u05d5\u05e0\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020"
-    },
-    {
-      "added_at": "2026-07-30 21:00:55",
-      "album": {
         "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
         "url": "https://open.spotify.com/album/4F7L0p08JKaIAMJCm3ZCK9"
       },
@@ -819,30 +819,6 @@
       "duration_ms": 197045,
       "name": "3 \u05de\u05e9\u05d0\u05dc\u05d5\u05ea",
       "url": "https://open.spotify.com/track/03lZuldKCduRN6UuiY0tcn"
-    },
-    {
-      "added_at": "2026-07-30 21:00:55",
-      "album": {
-        "name": "\u05d4\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05e9\u05de\u05e2\u05ea\u05d9 \u05d1\u05e1\u05d9\u05e0\u05d9",
-        "url": "https://open.spotify.com/album/0EhCLc5SICZg0EO0gqzSFF"
-      },
-      "artists": [
-        {
-          "name": "Gon Ben Ari",
-          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
-        },
-        {
-          "name": "\u05e1\u05dc\u05d5\u05de\u05d4",
-          "url": "https://open.spotify.com/artist/49mD4wE4bs2QSuYKMyJ0UI"
-        },
-        {
-          "name": "\u05de\u05e7\u05d4\u05dc\u05ea \u05d6\u05d5\u05dc\u05ea",
-          "url": "https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd"
-        }
-      ],
-      "duration_ms": 145660,
-      "name": "\u05d4\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05e9\u05de\u05e2\u05ea\u05d9 \u05d1\u05e1\u05d9\u05e0\u05d9",
-      "url": "https://open.spotify.com/track/09uQo35tRbqLfxokPB55Iw"
     },
     {
       "added_at": "2026-07-30 21:00:55",
@@ -879,6 +855,30 @@
       "duration_ms": 210620,
       "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
       "url": "https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY"
+    },
+    {
+      "added_at": "2026-07-30 21:00:55",
+      "album": {
+        "name": "\u05d4\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05e9\u05de\u05e2\u05ea\u05d9 \u05d1\u05e1\u05d9\u05e0\u05d9",
+        "url": "https://open.spotify.com/album/0EhCLc5SICZg0EO0gqzSFF"
+      },
+      "artists": [
+        {
+          "name": "Gon Ben Ari",
+          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
+        },
+        {
+          "name": "\u05e1\u05dc\u05d5\u05de\u05d4",
+          "url": "https://open.spotify.com/artist/49mD4wE4bs2QSuYKMyJ0UI"
+        },
+        {
+          "name": "\u05de\u05e7\u05d4\u05dc\u05ea \u05d6\u05d5\u05dc\u05ea",
+          "url": "https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd"
+        }
+      ],
+      "duration_ms": 145660,
+      "name": "\u05d4\u05e7\u05d5\u05dc\u05d5\u05ea \u05e9\u05e9\u05de\u05e2\u05ea\u05d9 \u05d1\u05e1\u05d9\u05e0\u05d9",
+      "url": "https://open.spotify.com/track/09uQo35tRbqLfxokPB55Iw"
     },
     {
       "added_at": "2026-07-30 21:00:55",

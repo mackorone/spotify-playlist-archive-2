@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy music ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,196 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,194 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 50 | [Electric](https://open.spotify.com/track/51FFmeDLNlJUkueFkjtzxY) | [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [chameleon](https://open.spotify.com/artist/5H61giTnrSTMQd1Pl0tKNB) | [Electric](https://open.spotify.com/album/2UNpZByJYcRTCNRSeUqst0) | 2:13 |
 | 51 | [Bloom](https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn) | [Bloom](https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd) | 2:32 |
 | 52 | [Iajo](https://open.spotify.com/track/70QunfArMKaFnMKTzv2C9x) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9) | [Beats & Pieces II](https://open.spotify.com/album/0yQHW3TPiuNdfWvkumo4ac) | 4:38 |
-| 53 | [Full Speed](https://open.spotify.com/track/0bKWKkNd2OWm9amqODXmkZ) | [Bella Who](https://open.spotify.com/artist/21RdBMtAUWp975JGBffrFc), [DOM](https://open.spotify.com/artist/0feQYUPVrExLO4v0S51wGP) | [Full Speed](https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq) | 4:11 |
+| 53 | [Young Forever](https://open.spotify.com/track/2GnOlapaZMJ0swQynBCs8Q) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [Flip Flop Joe](https://open.spotify.com/artist/4mEoZalalxfXjM63DMaJmA) | [Young Forever](https://open.spotify.com/album/0QeT4JzH46XY7cTTTD6tkR) | 2:17 |
 | 54 | [Eyes All Over Mine](https://open.spotify.com/track/2IWHXB8dwvZR8cfdOx172B) | [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Joshua Robbie](https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [Eyes All Over Mine](https://open.spotify.com/album/2sin8txJflst7fhouxDKy6) | 2:32 |
 | 55 | [Rest Of My Life](https://open.spotify.com/track/4dq1p7vkO0hSUpcdfspqrK) | [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Rest Of My Life](https://open.spotify.com/album/4LD7R2xePKw9LGjjIe8Urq) | 2:34 |
-| 56 | [Young Forever](https://open.spotify.com/track/2GnOlapaZMJ0swQynBCs8Q) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v), [Flip Flop Joe](https://open.spotify.com/artist/4mEoZalalxfXjM63DMaJmA) | [Young Forever](https://open.spotify.com/album/0QeT4JzH46XY7cTTTD6tkR) | 2:17 |
+| 56 | [Full Speed](https://open.spotify.com/track/0bKWKkNd2OWm9amqODXmkZ) | [Bella Who](https://open.spotify.com/artist/21RdBMtAUWp975JGBffrFc), [DOM](https://open.spotify.com/artist/0feQYUPVrExLO4v0S51wGP) | [Full Speed](https://open.spotify.com/album/2HzsnkOchlecG4I7smXiyq) | 4:11 |
 | 57 | [Fire](https://open.spotify.com/track/2rESC4IbBLXDgY5kUj4qga) | [LO](https://open.spotify.com/artist/6bdx22A1shpd9U6YAd8Vto), [Fia De Luca](https://open.spotify.com/artist/4L9Leu8vWuIkbUWKuJ0Mbq) | [Fire](https://open.spotify.com/album/2i2wQgG2tAUkQ8HbIko185) | 2:54 |
 | 58 | [All We Need Is Us](https://open.spotify.com/track/1cgv6rn6OIaHtKdU0Umrdn) | [just Fede](https://open.spotify.com/artist/7uXJKN6U0eK8uWOdKAUNkP), [Steeg](https://open.spotify.com/artist/7Cop3WdLhGUHerZfcDqeuG), [David Emde](https://open.spotify.com/artist/5RJZfbpmq3aRaRBYP1Q89D) | [All We Need Is Us](https://open.spotify.com/album/7n2WsTkhWSfxWuMTJxyHcv) | 2:28 |
 | 59 | [Used To Love](https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD), [Sunflower](https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w) | [Used To Love](https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb) | 2:13 |

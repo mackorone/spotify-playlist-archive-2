@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: daisy
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,143 likes - 175 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,223 likes - 175 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

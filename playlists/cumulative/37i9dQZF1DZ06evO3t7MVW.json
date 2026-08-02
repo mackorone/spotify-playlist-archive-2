@@ -869,6 +869,28 @@
     },
     {
       "album": {
+        "name": "Restless Soul",
+        "url": "https://open.spotify.com/album/0HpQMkVaWdTuKLhp6WAsOZ"
+      },
+      "artists": [
+        {
+          "name": "Stay High",
+          "url": "https://open.spotify.com/artist/6TZ4G6EThyydgsg2VEXNio"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256878,
+      "name": "Restless Soul",
+      "url": "https://open.spotify.com/track/3ZQTIspaffl1Evf6ibKv0w"
+    },
+    {
+      "album": {
         "name": "Free Flow Sessions",
         "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
       },

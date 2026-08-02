@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Leanna Crawford
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,650,244 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,650,499 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 13 | [Name of Jesus](https://open.spotify.com/track/4SKRyKMqcybdVMHjVP1YIG) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [God Must Really Love Me](https://open.spotify.com/album/2PgYxXmW7geBRncBAgpzNL) | 3:06 |
 | 14 | [Bless His Name](https://open.spotify.com/track/2uJhSRMknp671IqAb0DN3o) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Saturday Night / Sunday Morning](https://open.spotify.com/album/4xL8JXwTuTBWNYNPysYari) | 2:26 |
 | 15 | [His Favorite](https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Favorite](https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI) | 2:52 |
-| 16 | [Solid Ground](https://open.spotify.com/track/4DZ6c0JgnL6HPQ2VTM4JFX) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [116 Summer Twenty\-Six](https://open.spotify.com/album/0R2gP7inqX1P9quWNdgmjg) | 3:04 |
+| 16 | [Solid Ground](https://open.spotify.com/track/4DZ6c0JgnL6HPQ2VTM4JFX) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [116 Summer Twenty\-Six](https://open.spotify.com/album/0R2gP7inqX1P9quWNdgmjg) | 3:04 |
 | 17 | [Final Say](https://open.spotify.com/track/3aWTJQ27xr2EID0kXzXu7g) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Final Say](https://open.spotify.com/album/2RgeQaXAE1ZcEP3XmlAjm3) | 6:41 |
 | 18 | [Watchmen](https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 2:47 |
 | 19 | [Won't Fear](https://open.spotify.com/track/1znEguvbFN39XhK0CdDrN5) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [To God Be The Glory](https://open.spotify.com/album/4Ml2Fi3E2P7ZJX97QkJvkc) | 2:59 |

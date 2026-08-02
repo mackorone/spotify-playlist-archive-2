@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-[Bike Mate](https://open.spotify.com/user/towmater1200) - 4,576 likes - 184 songs - 10 hr 23 min
+[Bike Mate](https://open.spotify.com/user/towmater1200) - 4,577 likes - 185 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,5 +192,6 @@ pretty - [cumulative](/playlists/cumulative/7ejNI3ll8uMiseo6CM1Hky.md) - [plain]
 | 182 | [LIKE YOU\~](https://open.spotify.com/track/1fq71XiI5t98OsbwvPHX2j) | [ANATHEMA\-000](https://open.spotify.com/artist/0ej6k9H4smUlP6fLlxBg7c) | [LIKE YOU\~](https://open.spotify.com/album/4Y6pfBfbWkIjVd9Aez7sRb) | 3:26 |
 | 183 | [Welcome to The Internet](https://open.spotify.com/track/3s44Qv8x974tm0ueLexMWN) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [INSIDE](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 4:35 |
 | 184 | [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 |
+| 185 | [Stayed Gone \(Political Parody\)](https://open.spotify.com/track/6xh1fNlKrxoKkwYkKfVAjt) | [Emory Jones](https://open.spotify.com/artist/0DM6zW05i7zxC3BrPiqidt) | [Stayed Gone \(Political Parody\)](https://open.spotify.com/album/445SzTp0MXwx2IpFdQYYJW) | 2:15 |
 
-Snapshot ID: `AAACEFX5WMQ3muC3kE5CeFv5MvBOFQXE`
+Snapshot ID: `AAACESjtlNS3AxeuYouoJ7xIUySVlkM1`

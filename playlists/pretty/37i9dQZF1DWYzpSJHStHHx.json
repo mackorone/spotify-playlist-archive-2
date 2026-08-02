@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484480,
+  "num_followers": 484477,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "Recycle",
-        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
-      },
-      "artists": [
-        {
-          "name": "loren north",
-          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Recycle",
-      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Right or Wrong",
         "url": "https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 207665,
       "name": "Right or Wrong",
       "url": "https://open.spotify.com/track/3iblchfWSkursOZywc1MyH"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "Recycle",
+        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
+      },
+      "artists": [
+        {
+          "name": "loren north",
+          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Recycle",
+      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
     },
     {
       "added_at": "2026-04-09 14:00:34",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
+      },
+      "artists": [
+        {
+          "name": "Lavalove",
+          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
+        }
+      ],
+      "duration_ms": 187345,
+      "name": "Keep on",
+      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
         "name": "Malibu Sunset b/w Hang On",
         "url": "https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 195766,
       "name": "The Beach",
       "url": "https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
-        "name": "Love Sick",
-        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
-      },
-      "artists": [
-        {
-          "name": "Lavalove",
-          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
-        }
-      ],
-      "duration_ms": 187345,
-      "name": "Keep on",
-      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
     },
     {
       "added_at": "2026-04-09 14:00:34",

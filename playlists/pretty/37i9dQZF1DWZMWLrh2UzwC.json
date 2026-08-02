@@ -1,6 +1,6 @@
 {
   "description": "New music from Ariana Grande, Cardi B, Exists, Faizal Tahir, DOLLA, F.Hero, Eric Chou and more!",
-  "num_followers": 75876,
+  "num_followers": 75882,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
@@ -1410,6 +1410,10 @@
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Jordan Shaw",
+          "url": "https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr"
         }
       ],
       "duration_ms": 170576,

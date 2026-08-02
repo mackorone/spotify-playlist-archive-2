@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: THE DO",
-  "num_followers": 86423,
+  "num_followers": 86415,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "First Times",
-        "url": "https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V"
-      },
-      "artists": [
-        {
-          "name": "GUS",
-          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
-        }
-      ],
-      "duration_ms": 196433,
-      "name": "Vivian",
-      "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "No pega igual (Stuck on replay)",
         "url": "https://open.spotify.com/album/4HHjgq6UMP2fLxXcb2tB8Y"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 185118,
       "name": "No pega igual (Stuck on replay)",
       "url": "https://open.spotify.com/track/1PSVEVXH6vrkntmQX34uzZ"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "First Times",
+        "url": "https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "duration_ms": 196433,
+      "name": "Vivian",
+      "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "I Feel Like Shit And It's All Your Fault",
-        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 177236,
-      "name": "Hate My Mom",
-      "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "NYC",
         "url": "https://open.spotify.com/album/1BZkx0gE9tmfxsv4XTbg93"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 125714,
       "name": "NYC",
       "url": "https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "I Feel Like Shit And It's All Your Fault",
+        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 177236,
+      "name": "Hate My Mom",
+      "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR"
-      },
-      "artists": [
-        {
-          "name": "supercatkei",
-          "url": "https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN"
-        }
-      ],
-      "duration_ms": 176153,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 123375,
       "name": "Camila",
       "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR"
+      },
+      "artists": [
+        {
+          "name": "supercatkei",
+          "url": "https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN"
+        }
+      ],
+      "duration_ms": 176153,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y"
     },
     {
       "added_at": "2026-07-24 13:00:01",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-07-24 13:00:01",
       "album": {
-        "name": "Read Your Mind",
-        "url": "https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt"
-      },
-      "artists": [
-        {
-          "name": "CON THE ARTIST",
-          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
-        }
-      ],
-      "duration_ms": 123506,
-      "name": "Read Your Mind",
-      "url": "https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9"
-    },
-    {
-      "added_at": "2026-07-24 13:00:01",
-      "album": {
         "name": "Rumah",
         "url": "https://open.spotify.com/album/5ewRhRooQ4J93Mz4vzaPkX"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 200093,
       "name": "Rumah",
       "url": "https://open.spotify.com/track/42cTAPfWxsDzPEjc9X0vMc"
+    },
+    {
+      "added_at": "2026-07-24 13:00:01",
+      "album": {
+        "name": "Read Your Mind",
+        "url": "https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "duration_ms": 123506,
+      "name": "Read Your Mind",
+      "url": "https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9"
     },
     {
       "added_at": "2026-07-24 13:00:01",

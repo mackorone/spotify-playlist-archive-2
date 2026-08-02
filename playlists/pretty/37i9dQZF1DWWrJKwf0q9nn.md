@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Dimitri Vegas & Sylver
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,590 likes - 97 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,592 likes - 97 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 6 | [Phoenix](https://open.spotify.com/track/7mRF6HWHu8IHnDQ2LRi5ru) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Phoenix](https://open.spotify.com/album/5XEkldEKEWbL0XPQWU14HS) | 3:07 |
 | 7 | [World Away](https://open.spotify.com/track/3GfBcRN3VaIa52Q6MsavH0) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [World Away](https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx) | 3:07 |
 | 8 | [New Bass New Kick](https://open.spotify.com/track/0pNuOeCk1z0BpRWVWlglIm) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [New Bass New Kick](https://open.spotify.com/album/20S0A1VJ47VjPI6ifA3r8l) | 3:00 |
-| 9 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
+| 9 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
 | 10 | [Allein](https://open.spotify.com/track/4B1qnuNGtFSwuCUg7U7FCI) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V) | [Allein](https://open.spotify.com/album/5UlWq5479iD0AFiygiNMrU) | 2:58 |
 | 11 | [Get Closer](https://open.spotify.com/track/0GtRyEJtBrO7cUHjjx59uZ) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [Enjooy](https://open.spotify.com/artist/2rAJ4PHXhnai7tp4sUgxwB) | [Get Closer](https://open.spotify.com/album/3JT6CzUNClKMuFf5tdBjss) | 3:15 |
 | 12 | [On My Own \(Feat\. Darla Jade\)](https://open.spotify.com/track/6hIrJ88yxwqnvdvnnXHVkC) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [On My Own \(Feat\. Darla Jade\)](https://open.spotify.com/album/5H8LVL9u4hjO3pm9QzJB9m) | 3:40 |

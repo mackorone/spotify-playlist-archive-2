@@ -4,7 +4,7 @@
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-112 songs - 9 hr 57 min
+113 songs - 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Deus Está me Ensinando](https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 4:54 | 2023-07-09 |  |
 | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED) | 4:30 | 2025-01-19 |  |
 | [Deus no Controle](https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:51 | 2023-07-09 |  |
-| [Deus no Controle + Milagre \(Ao Vivo\)](https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Liz Lanne](https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00) | [Deus no Controle + Milagre \(Ao Vivo\)](https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1) | 5:01 | 2025-12-24 |  |
+| [Deus no Controle + Milagre \(Ao Vivo\)](https://open.spotify.com/track/3yv9GgtbrH8aLNosr3Htex) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Liz Lanne](https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00) | [Deus no Controle + Milagre \(Ao Vivo\)](https://open.spotify.com/album/51Tbmmxun5vUGB4VipYhT1) | 5:01 | 2025-12-24 | 2026-08-02 |
 | [Deus no Controle \- Remix](https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Deus no Controle \- Remix](https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn) | 3:35 | 2023-07-29 | 2024-09-06 |
 | [Deus Proverá](https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Proverá](https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm) | 5:35 | 2023-07-09 |  |
 | [Deus Proverá + De Nada Tenho Falta \(Ao Vivo\)](https://open.spotify.com/track/0P32dn0FwLXHbGn9nUxT8H) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Deus Proverá + De Nada Tenho Falta \(Ao Vivo\)](https://open.spotify.com/album/2zyADzeYjaUwdBh7ecCpSP) | 6:03 | 2025-08-13 |  |
@@ -108,6 +108,7 @@
 | [Te Amo, Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/03rp1BMHAODIfnCUyY7ZfH) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Marianna Goes](https://open.spotify.com/artist/1R9EKfsx0KKM7M0M7Cz8gf) | [Te Amo, Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/1iTqTLsqHqoiSnegmU6fUr) | 5:53 | 2025-08-27 | 2025-10-16 |
 | [Terremoto](https://open.spotify.com/track/6TY5sU1MtoQ3ghGdIMkF1N) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:15 | 2023-07-09 |  |
 | [Terremoto + Cadeias Quebrar \(Ao Vivo\)](https://open.spotify.com/track/4OHNYjow2gCBNgNIuKtwHj) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Terremoto + Cadeias Quebrar \(Ao Vivo\)](https://open.spotify.com/album/4jebOXsJYZCzILZYFacDcB) | 4:59 | 2025-10-20 |  |
+| [Tira\-me do Vale](https://open.spotify.com/track/6NOJ789tmIWOzIaFQtYR3Q) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Tira\-me do Vale](https://open.spotify.com/album/6ghWDdLfEQ03TdQp7YQreh) | 4:49 | 2026-08-02 |  |
 | [Tira\-me do Vale](https://open.spotify.com/track/4JeWq3J6kEjJ1O7fATN3G4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Tira\-me do Vale](https://open.spotify.com/album/1bGhzpYu9GHLyAnrMU7g3G) | 4:27 | 2023-07-18 | 2023-07-20 |
 | [Transformada](https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq), [Cassiane](https://open.spotify.com/artist/7x9ixMtTHLf7BZk6uuwISO) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:54 | 2023-07-09 | 2026-06-15 |
 | [Tu Podes Fazer de Novo \(Ao Vivo\)](https://open.spotify.com/track/0CKn82sbrhFWQTgCCNALw2) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Tu Podes Fazer de Novo \(Ao Vivo\)](https://open.spotify.com/album/5AMT8bkT4k7vDR97HmQ0EH) | 5:06 | 2025-03-16 | 2026-02-04 |

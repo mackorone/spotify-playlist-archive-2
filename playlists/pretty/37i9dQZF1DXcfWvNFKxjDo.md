@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: R3HAB
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,089 likes - 84 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,111 likes - 84 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 18 | [Dumb Decisions](https://open.spotify.com/track/2gwwaKey9eBYYh5RRK39Xf) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6) | [Dumb Decisions](https://open.spotify.com/album/2ibZ4AWTPuBgvD4gazX8E1) | 1:58 |
 | 19 | [Keep Rocking](https://open.spotify.com/track/6huS3oz9dODhvuMGEWWsT3) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Keep Rocking EP](https://open.spotify.com/album/3P25fUvbDtoWGKPiUbQLid) | 2:24 |
 | 20 | [We don't talk \(anymore\)](https://open.spotify.com/track/5ERXj189c0hWp8UrWidAJV) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [We don't talk \(anymore\)](https://open.spotify.com/album/1OqODdQYaOgSftAb3DV3qq) | 2:16 |
-| 21 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
+| 21 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
 | 22 | [i'm way too self aware](https://open.spotify.com/track/62cC7C7e8buEM15ReSWjff) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [i'm way too self aware](https://open.spotify.com/album/0pDU9QXpxlhrQMm7hS5T4P) | 2:29 |
 | 23 | [Patigo](https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD) | [Patigo](https://open.spotify.com/album/2tos295ovD9NdTx99fCPCf) | 3:10 |
 | 24 | [Here In My Arms \(Enjoy The Silence\)](https://open.spotify.com/track/1rwOLMfAwW4M6sehYf7Lop) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Here In My Arms \(Enjoy The Silence\)](https://open.spotify.com/album/1tku7mFvWNy5EmRy9WKsLe) | 3:09 |

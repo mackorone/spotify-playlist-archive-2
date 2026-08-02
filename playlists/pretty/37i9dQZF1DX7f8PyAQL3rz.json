@@ -1,6 +1,6 @@
 {
   "description": "amor \u00e9 bom mas ningu\u00e9m quer",
-  "num_followers": 1439343,
+  "num_followers": 1439242,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,30 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
+        "name": "Obra de Arte",
+        "url": "https://open.spotify.com/album/5d5KT32kvHBXdOFJyqO7jQ"
+      },
+      "artists": [
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        }
+      ],
+      "duration_ms": 162015,
+      "name": "Obra de Arte",
+      "url": "https://open.spotify.com/track/7wKpKUJX0djYz9JZSybbvG"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
         "name": "Rugal & Bomfino",
         "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
       },
@@ -347,30 +371,6 @@
       "duration_ms": 204562,
       "name": "Pique B.I.G",
       "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
-        "name": "BOMBOCLATT (REMIX)",
-        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "BOMBOCLATT (REMIX)",
-      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -439,26 +439,26 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
-        "name": "Obra de Arte",
-        "url": "https://open.spotify.com/album/5d5KT32kvHBXdOFJyqO7jQ"
+        "name": "BOMBOCLATT (REMIX)",
+        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
       },
       "artists": [
         {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
         },
         {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
         },
         {
-          "name": "DJ DAVI DOGDOG",
-          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
         }
       ],
-      "duration_ms": 162015,
-      "name": "Obra de Arte",
-      "url": "https://open.spotify.com/track/7wKpKUJX0djYz9JZSybbvG"
+      "duration_ms": 184000,
+      "name": "BOMBOCLATT (REMIX)",
+      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -535,6 +535,30 @@
       "duration_ms": 215433,
       "name": "F\u00f3rmula Perfeita",
       "url": "https://open.spotify.com/track/0bdIp6sr80CK63171GHoeD"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
+        "name": "ALFA",
+        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 200768,
+      "name": "Rimo igual Pac 2",
+      "url": "https://open.spotify.com/track/65alHqaRDK6LiYOMUaDgaV"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -647,6 +671,34 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
+        "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
+        "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
+      },
+      "artists": [
+        {
+          "name": "Jarreau Vandal",
+          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
+        },
+        {
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 199351,
+      "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
+      "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
         "name": "THE BOX MEDLEY FUNK 11",
         "url": "https://open.spotify.com/album/3YDJHfJBZEH0Cxj5eOqx11"
       },
@@ -691,34 +743,6 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
-        "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
-        "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
-      },
-      "artists": [
-        {
-          "name": "Jarreau Vandal",
-          "url": "https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW"
-        },
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Mc Morena",
-          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 199351,
-      "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
-      "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
         "name": "Meu Dinheiro, Minhas Regras (Lado B)",
         "url": "https://open.spotify.com/album/0hRDah9ZhuNq0OQPhV2XkX"
       },
@@ -739,30 +763,6 @@
       "duration_ms": 136444,
       "name": "Bebeto e Rom\u00e1rio House Mix",
       "url": "https://open.spotify.com/track/2ACAmCTopxv5r8midi1z07"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
-        "name": "ALFA",
-        "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "meLLo",
-          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
-        }
-      ],
-      "duration_ms": 200768,
-      "name": "Rimo igual Pac 2",
-      "url": "https://open.spotify.com/track/65alHqaRDK6LiYOMUaDgaV"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -795,42 +795,6 @@
       "duration_ms": 217446,
       "name": "Taca l\u00e1 dentro",
       "url": "https://open.spotify.com/track/21NA0L0QejKf8QneWSGzfD"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
-        "name": "PLATA O PLOMO",
-        "url": "https://open.spotify.com/album/04YE4SzQn55927shW5TDjA"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "MC Fr da Norte",
-          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
-        },
-        {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
-        },
-        {
-          "name": "Ouroempessoa",
-          "url": "https://open.spotify.com/artist/7tdbteHDBsaDH29OAQvMBb"
-        },
-        {
-          "name": "Rucinni",
-          "url": "https://open.spotify.com/artist/7JGJNUGGZl51b98oCJErGj"
-        },
-        {
-          "name": "Fahel",
-          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "CA\u00c7A DO TESOURO",
-      "url": "https://open.spotify.com/track/39ndb5aaoDJh5opNildstN"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -887,6 +851,42 @@
       "duration_ms": 136170,
       "name": "COMO Q OFUSCA O BRILHO?",
       "url": "https://open.spotify.com/track/3rjEHukg1FWFoTVj9PT5pf"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
+        "name": "PLATA O PLOMO",
+        "url": "https://open.spotify.com/album/04YE4SzQn55927shW5TDjA"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "MC Fr da Norte",
+          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
+        },
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Ouroempessoa",
+          "url": "https://open.spotify.com/artist/7tdbteHDBsaDH29OAQvMBb"
+        },
+        {
+          "name": "Rucinni",
+          "url": "https://open.spotify.com/artist/7JGJNUGGZl51b98oCJErGj"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "CA\u00c7A DO TESOURO",
+      "url": "https://open.spotify.com/track/39ndb5aaoDJh5opNildstN"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -963,22 +963,6 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
-        "name": "Que toda dor vire dinheiro",
-        "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
-      },
-      "artists": [
-        {
-          "name": "SNIF",
-          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Que toda dor vire dinheiro",
-      "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 156086,
       "name": "Sem Amor",
       "url": "https://open.spotify.com/track/23rYWQa36hf2vqkMeeB0oA"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
+        "name": "Que toda dor vire dinheiro",
+        "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
+      },
+      "artists": [
+        {
+          "name": "SNIF",
+          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Que toda dor vire dinheiro",
+      "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -1167,6 +1167,34 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
+        "name": "GOSTOSA DE FRANJA / NINFOMANIACA",
+        "url": "https://open.spotify.com/album/7w9Hc2rK7fwVFqohynMYxS"
+      },
+      "artists": [
+        {
+          "name": "Baby T",
+          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "name": "oggvieira",
+          "url": "https://open.spotify.com/artist/3KMLswOYWqvibGsHW2wFfO"
+        },
+        {
+          "name": "137 Records",
+          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
+        }
+      ],
+      "duration_ms": 114285,
+      "name": "GOSTOSA DE FRANJA / NINFOMANIACA",
+      "url": "https://open.spotify.com/track/7e2et6UVNFvkgYYrbzC8py"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
         "name": "Um Pouco Pensativo",
         "url": "https://open.spotify.com/album/0VNFEm0ffYgY1w6jH0ldBQ"
       },
@@ -1211,30 +1239,22 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
-        "name": "GOSTOSA DE FRANJA / NINFOMANIACA",
-        "url": "https://open.spotify.com/album/7w9Hc2rK7fwVFqohynMYxS"
+        "name": "Kyan Ao Vivo no SALA",
+        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
       },
       "artists": [
         {
-          "name": "Baby T",
-          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
         },
         {
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        },
-        {
-          "name": "oggvieira",
-          "url": "https://open.spotify.com/artist/3KMLswOYWqvibGsHW2wFfO"
-        },
-        {
-          "name": "137 Records",
-          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         }
       ],
-      "duration_ms": 114285,
-      "name": "GOSTOSA DE FRANJA / NINFOMANIACA",
-      "url": "https://open.spotify.com/track/7e2et6UVNFvkgYYrbzC8py"
+      "duration_ms": 155500,
+      "name": "Neguin 171 - Ao Vivo no SALA",
+      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -1263,6 +1283,50 @@
       "duration_ms": 160718,
       "name": "BAILA IGUAL VINI",
       "url": "https://open.spotify.com/track/4GNQdhAwDz6Qv1Wa8Lx6zH"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
+        "name": "Deixa Isso pra L\u00e1",
+        "url": "https://open.spotify.com/album/7Er9x0LocywhZtRK16Yyel"
+      },
+      "artists": [
+        {
+          "name": "ATLXTA",
+          "url": "https://open.spotify.com/artist/00S1IX5nK8vgnVvWkqamIL"
+        },
+        {
+          "name": "Aaron Modesto",
+          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
+        },
+        {
+          "name": "A F\u00d3RMULA",
+          "url": "https://open.spotify.com/artist/2JjWIXlfhneMS1fsx4KW3W"
+        },
+        {
+          "name": "M'DEP",
+          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
+        },
+        {
+          "name": "Ka\u00e9ssi",
+          "url": "https://open.spotify.com/artist/0qyprJlPstC6IX7OqgWa7j"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "Ike Avila",
+          "url": "https://open.spotify.com/artist/5lhE76UOmRgymO8trdoYCH"
+        },
+        {
+          "name": "Paco",
+          "url": "https://open.spotify.com/artist/7ajzyHJHhGM2mjirkolY4L"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Deixa Isso pra L\u00e1",
+      "url": "https://open.spotify.com/track/7xKQbQaLhMzrE6nmMrmwGK"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -1311,50 +1375,6 @@
       "duration_ms": 133715,
       "name": "dedin na boca",
       "url": "https://open.spotify.com/track/1H4k1iOh3EGQmIINhl1ZbG"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
-        "name": "Deixa Isso pra L\u00e1",
-        "url": "https://open.spotify.com/album/7Er9x0LocywhZtRK16Yyel"
-      },
-      "artists": [
-        {
-          "name": "ATLXTA",
-          "url": "https://open.spotify.com/artist/00S1IX5nK8vgnVvWkqamIL"
-        },
-        {
-          "name": "Aaron Modesto",
-          "url": "https://open.spotify.com/artist/48yaM25WLHmQZXx5NN3DYH"
-        },
-        {
-          "name": "A F\u00d3RMULA",
-          "url": "https://open.spotify.com/artist/2JjWIXlfhneMS1fsx4KW3W"
-        },
-        {
-          "name": "M'DEP",
-          "url": "https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS"
-        },
-        {
-          "name": "Ka\u00e9ssi",
-          "url": "https://open.spotify.com/artist/0qyprJlPstC6IX7OqgWa7j"
-        },
-        {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "Ike Avila",
-          "url": "https://open.spotify.com/artist/5lhE76UOmRgymO8trdoYCH"
-        },
-        {
-          "name": "Paco",
-          "url": "https://open.spotify.com/artist/7ajzyHJHhGM2mjirkolY4L"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Deixa Isso pra L\u00e1",
-      "url": "https://open.spotify.com/track/7xKQbQaLhMzrE6nmMrmwGK"
     },
     {
       "added_at": "2026-07-31 03:01:32",
@@ -1467,6 +1487,74 @@
     {
       "added_at": "2026-07-31 03:01:32",
       "album": {
+        "name": "Cultura de Rua",
+        "url": "https://open.spotify.com/album/2FjrC4pe2CpkKFDxotpAA4"
+      },
+      "artists": [
+        {
+          "name": "Xaolin Records",
+          "url": "https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm"
+        },
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "CRYSTAYLE",
+          "url": "https://open.spotify.com/artist/59KPAYOS6AbPROvGLTE8E8"
+        },
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "Paola Spena",
+          "url": "https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "Cultura de Rua",
+      "url": "https://open.spotify.com/track/0T9VMb4KNHn3bHcz8hinLU"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
+        "name": "Dentro da Sua",
+        "url": "https://open.spotify.com/album/6A7c82aLDbJiJVRbObW6wp"
+      },
+      "artists": [
+        {
+          "name": "Tar\u00e7a",
+          "url": "https://open.spotify.com/artist/7xXwZ6higu8YI4BWzBhxE9"
+        },
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "Z\u0112EM",
+          "url": "https://open.spotify.com/artist/2ej2zxwfjuUV4okQRuhpDM"
+        },
+        {
+          "name": "Matheus Aloha",
+          "url": "https://open.spotify.com/artist/5BgmkOYey7lEd765RZGdpG"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Dentro da Sua",
+      "url": "https://open.spotify.com/track/5XnBTv0a5JjTG57mhZDVpz"
+    },
+    {
+      "added_at": "2026-07-31 03:01:32",
+      "album": {
         "name": "Vida de Chefe",
         "url": "https://open.spotify.com/album/5Ae8CNqLVI1zHI5B8ZkKpw"
       },
@@ -1539,94 +1627,6 @@
       "duration_ms": 214942,
       "name": "SEM PALA",
       "url": "https://open.spotify.com/track/4Lm84NyoIXijOHdNoTU5Ma"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
-        "name": "Kyan Ao Vivo no SALA",
-        "url": "https://open.spotify.com/album/6yUcI0K6YY37m1Tgs6Nuq6"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        }
-      ],
-      "duration_ms": 155500,
-      "name": "Neguin 171 - Ao Vivo no SALA",
-      "url": "https://open.spotify.com/track/1ViLU4wvRhfB497pHAqZxV"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
-        "name": "Dentro da Sua",
-        "url": "https://open.spotify.com/album/6A7c82aLDbJiJVRbObW6wp"
-      },
-      "artists": [
-        {
-          "name": "Tar\u00e7a",
-          "url": "https://open.spotify.com/artist/7xXwZ6higu8YI4BWzBhxE9"
-        },
-        {
-          "name": "Majis",
-          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
-        },
-        {
-          "name": "Rob",
-          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
-        },
-        {
-          "name": "Z\u0112EM",
-          "url": "https://open.spotify.com/artist/2ej2zxwfjuUV4okQRuhpDM"
-        },
-        {
-          "name": "Matheus Aloha",
-          "url": "https://open.spotify.com/artist/5BgmkOYey7lEd765RZGdpG"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Dentro da Sua",
-      "url": "https://open.spotify.com/track/5XnBTv0a5JjTG57mhZDVpz"
-    },
-    {
-      "added_at": "2026-07-31 03:01:32",
-      "album": {
-        "name": "Cultura de Rua",
-        "url": "https://open.spotify.com/album/2FjrC4pe2CpkKFDxotpAA4"
-      },
-      "artists": [
-        {
-          "name": "Xaolin Records",
-          "url": "https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm"
-        },
-        {
-          "name": "Jovem MK",
-          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
-        },
-        {
-          "name": "Majis",
-          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
-        },
-        {
-          "name": "CRYSTAYLE",
-          "url": "https://open.spotify.com/artist/59KPAYOS6AbPROvGLTE8E8"
-        },
-        {
-          "name": "MC KTRINE",
-          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
-        },
-        {
-          "name": "Paola Spena",
-          "url": "https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "Cultura de Rua",
-      "url": "https://open.spotify.com/track/0T9VMb4KNHn3bHcz8hinLU"
     }
   ],
   "unique_name": "creme",

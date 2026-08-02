@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Suaaaaaaave 📸 Tino El Pingüino
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,645 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,648 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Haint](https://open.spotify.com/track/64CekM4QQrBaXh9V2i5Bvx) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF), [Aquarium](https://open.spotify.com/artist/3nAumcukmBxn8y7Su8RagW), [MZCLBR](https://open.spotify.com/artist/5xxbFcLZDjyuvb8QLPsR4t) | [Kaomojis](https://open.spotify.com/album/7ew2UPAcs1dlkP0xoKGxBy) | 3:54 |
+| 1 | [Haint](https://open.spotify.com/track/64CekM4QQrBaXh9V2i5Bvx) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF), [Aquarium](https://open.spotify.com/artist/6kG4btRmDnNmKYRjKwpffH), [MZCLBR](https://open.spotify.com/artist/5xxbFcLZDjyuvb8QLPsR4t) | [Kaomojis](https://open.spotify.com/album/7ew2UPAcs1dlkP0xoKGxBy) | 3:54 |
 | 2 | [María](https://open.spotify.com/track/6GvLCyoaFhdyGdWycWNDI2) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [María](https://open.spotify.com/album/7DKdveqgK9duXti7Xjdp39) | 2:47 |
 | 3 | [Buenos días Apocalipsis](https://open.spotify.com/track/3fJ6N9xFuQOOVNblgoORUb) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2), [LF Ants](https://open.spotify.com/artist/34d8dSeOuJisT3TNcJazVQ) | [Buenos Dias Apocalipsis](https://open.spotify.com/album/3qiNHyXzTHJsORazDDtybq) | 3:59 |
 | 4 | [Tu Forma De Ser](https://open.spotify.com/track/00R9KAwLYf98AfPSv3Fif7) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Itchy & Buco Sounds](https://open.spotify.com/artist/4KiWwlk4Uf1vcWi3txXLgy) | [Tu Forma De Ser](https://open.spotify.com/album/57suvSRBDH0W4Jp9XjK03S) | 2:41 |

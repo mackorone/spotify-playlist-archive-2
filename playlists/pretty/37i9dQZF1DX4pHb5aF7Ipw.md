@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Gagg E, Bhallwaan, Luv and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,868 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,879 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 29 | [Spirit](https://open.spotify.com/track/0tN1d8Yc0BpSWI3EbhBlyS) | [Akbar Brar](https://open.spotify.com/artist/4VQq85qGslnhmrR1sIVjd1) | [Spirit](https://open.spotify.com/album/2F37zRV0Yl5jGlmMSBtAbp) | 2:19 |
 | 30 | [One Milli](https://open.spotify.com/track/3QVoDEUpaWRpElu5KXMKMl) | [Sahil Jai Singh](https://open.spotify.com/artist/0UrPNQGkViorcKA5hsAy5I), [Nirbhay Punia](https://open.spotify.com/artist/6YYH5LpxCc9BscgukKXweR), [Shaitan](https://open.spotify.com/artist/17vchXZLm7Ci6rNodZA0vz), [Bubit](https://open.spotify.com/artist/1mUd15EPlCebILBpdteeC6) | [One Milli](https://open.spotify.com/album/05ezRF57PlX2Rre8CCs3xE) | 3:07 |
 | 31 | [Twist of Fate](https://open.spotify.com/track/36uu2mUNWhTylJ6ZkNJnBo) | [Merza](https://open.spotify.com/artist/1pbDpKcGxY1oLZXhHGzk4U), [MONEYONYOURMIND](https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Twist of Fate](https://open.spotify.com/album/5hAfEGR7eAdkkJPRU43eVF) | 3:07 |
-| 32 | [Brotherhood](https://open.spotify.com/track/5moB8c8fpD4NqXDNsCx7dd) | [Kang](https://open.spotify.com/artist/3h0HNxNcvkEl3iNT7CE7Tn), [Rass](https://open.spotify.com/artist/2KPdBgEiHuvPhAxUcbpYL5) | [Brotherhood](https://open.spotify.com/album/5WvaR1XrNI8Ql6FU7pDOaT) | 2:41 |
+| 32 | [Brotherhood](https://open.spotify.com/track/5moB8c8fpD4NqXDNsCx7dd) | [Kang](https://open.spotify.com/artist/3h0HNxNcvkEl3iNT7CE7Tn), [Rass](https://open.spotify.com/artist/3rDMzoRvRb5XfbZTk2gHCK) | [Brotherhood](https://open.spotify.com/album/5WvaR1XrNI8Ql6FU7pDOaT) | 2:41 |
 | 33 | [SHONK](https://open.spotify.com/track/5hsjmpR63bn2QKLv0ibsrx) | [Zora Randhawa](https://open.spotify.com/artist/2dItxVGDw0zhzV4jfFV2V3) | [SHONK](https://open.spotify.com/album/7Jqm74Y0lpmopzfZ1vB48G) | 1:56 |
 | 34 | [Can't Face Off](https://open.spotify.com/track/1V6jpY7ORjWeHYEcYiLiZj) | [Kaaj](https://open.spotify.com/artist/2WssPruJGD6K6tmg9lmSGk), [JAY D](https://open.spotify.com/artist/0B764ppiu5Po9V1gB9ckXc) | [Can't Face Off](https://open.spotify.com/album/7GoUqXuhCid9nxECEJj9jd) | 2:30 |
 | 35 | [Pindan De Jwaak](https://open.spotify.com/track/1scqzLHhKSa6vFevz43RNE) | [Charna](https://open.spotify.com/artist/7kklA6RvtMSAagUU2h6jhO), [Laddi Boparai](https://open.spotify.com/artist/35A9SNm34ilrAf7ez0Ztr2), [Saggi Nexuss](https://open.spotify.com/artist/5dMJiBJVkicivaHCgRKadi) | [Pindan De Jwaak](https://open.spotify.com/album/5oA2ycsuVBz4D5PLAaqDVO) | 2:20 |

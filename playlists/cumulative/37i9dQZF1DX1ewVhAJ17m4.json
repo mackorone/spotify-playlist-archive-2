@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Extremely Fragile Human Being",
+        "url": "https://open.spotify.com/album/06wGyYh7RZtH8vvtxugpSw"
+      },
+      "artists": [
+        {
+          "name": "Good Hangs",
+          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190673,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/5JC10odokU2ja6RDJjc3mZ"
+    },
+    {
+      "album": {
         "name": "Before We Go",
         "url": "https://open.spotify.com/album/6YfCG65Zj6tFvsLGSFNbMh"
       },
@@ -11006,7 +11024,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 177573,
       "name": "WASTED",
       "url": "https://open.spotify.com/track/75khcRmE8VydTcmT7DIqHm"

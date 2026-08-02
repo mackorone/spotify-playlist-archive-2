@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Body On (Boys Version)",
+        "url": "https://open.spotify.com/album/0OCtODbqho9EH8hBculKgN"
+      },
+      "artists": [
+        {
+          "name": "dearALICE",
+          "url": "https://open.spotify.com/artist/1pMIULCflTFyzyv5vT1OzU"
+        }
+      ],
+      "date_added": "2026-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196585,
+      "name": "Body On - Boys Version",
+      "url": "https://open.spotify.com/track/0dqMB39X4ef3h1TcuRk9fn"
+    },
+    {
+      "album": {
         "name": "New Chapter #1: The Chance of Love - The 8th Album",
         "url": "https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1"
       },

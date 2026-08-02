@@ -2060,7 +2060,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 177333,
       "name": "Si T\u00fa Supieras",
       "url": "https://open.spotify.com/track/2Fnutk6IvCmnI1cSScLU5W"
@@ -2422,6 +2422,24 @@
       "duration_ms": 271281,
       "name": "Todo Cambi\u00f3 - En vivo",
       "url": "https://open.spotify.com/track/3ypv02X21XqFopTC7Hw3qx"
+    },
+    {
+      "album": {
+        "name": "Todo El A\u00f1o",
+        "url": "https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172166,
+      "name": "Todo El A\u00f1o",
+      "url": "https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq"
     },
     {
       "album": {

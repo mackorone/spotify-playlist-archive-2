@@ -4,7 +4,7 @@
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-78 songs - 8 hr 55 min
+79 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Ovid's Metamorphoses](https://open.spotify.com/track/16EpeiRPTdWLvuKZdpi6mi) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ) | 15:11 | 2026-03-20 | 2026-04-20 |
 | [Ovid's Metamorphoses](https://open.spotify.com/track/2XDK6xpeeESGknHrfXW9Od) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 15:11 | 2023-05-02 | 2024-09-28 |
 | [Ovid's Metamorphoses](https://open.spotify.com/track/2hrtzoIQR5keEPj81kCuV8) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/1xbJWet2V6BB2K06AMXuyR) | 15:11 | 2025-09-12 | 2025-09-13 |
+| [Prayer Song](https://open.spotify.com/track/4dfxyErdt8o8WceKTpXTTQ) | [Terri Lyne Carrington](https://open.spotify.com/artist/02HpkiuAylAwAnQBswaXlP), [Social Science](https://open.spotify.com/artist/5DUkrv5eaZkCU9embIoyr5), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Rashaan Carter](https://open.spotify.com/artist/0aDfV9CStk7AwSQCurBKsQ), [Morgan Guerin](https://open.spotify.com/artist/17j0vWqj5tc8GO1U3izp8d) | [Trip the Night Fantastic](https://open.spotify.com/album/1q5gdBspvO2o1fkcHAAMh0) | 5:37 | 2026-08-02 |  |
 | [Public Disquiet](https://open.spotify.com/track/1G45RYIWOzGeoCbA4wNIts) | [Danshin](https://open.spotify.com/artist/2peNiVtIS127PmCOabTB4Q), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Tails Noir \(Original Game Soundtrack\)](https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy) | 2:11 | 2026-01-29 | 2026-02-28 |
 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 | 2024-06-23 | 2025-03-16 |
 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 | 2024-04-20 | 2024-06-23 |

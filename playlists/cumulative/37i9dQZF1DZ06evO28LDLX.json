@@ -680,9 +680,31 @@
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "date_added": "2026-07-21",
+      "date_added": "2026-08-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 111386,
+      "name": "Lyric Pieces Book 10, Op. 71: No. 7, Remembrances",
+      "url": "https://open.spotify.com/track/7jtIYgcqJL96rqPraEPH1n"
+    },
+    {
+      "album": {
+        "name": "\"A Summer Journey: Bach, Mozart & more\"",
+        "url": "https://open.spotify.com/album/1RSf2iSHBdc2LfdYHlqNS8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-02",
       "duration_ms": 106586,
       "name": "Lyric Pieces Book 3, Op. 43: No. 3, In My Native Country",
       "url": "https://open.spotify.com/track/1NHFPidsRN6uhVHrf3fEzK"
@@ -998,7 +1020,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 102826,
       "name": "No. 5, A Sunday Evening in Autumn",
       "url": "https://open.spotify.com/track/5eqFbgTlAMcxbFYfCt62sx"
@@ -1024,6 +1046,28 @@
       "duration_ms": 244933,
       "name": "Nocturne No. 2 in E-Flat Major, Op. 9 No. 2",
       "url": "https://open.spotify.com/track/5Il7CYHKf7JFTxP8zbfxZk"
+    },
+    {
+      "album": {
+        "name": "Chopin: Nocturnes (Complete)",
+        "url": "https://open.spotify.com/album/4laomoW9n1HN2R2DRoFVCn"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347533,
+      "name": "Nocturne No. 3 in B Major, Op. 9 No. 3",
+      "url": "https://open.spotify.com/track/4XJN9TjefebndyPh03Ade4"
     },
     {
       "album": {

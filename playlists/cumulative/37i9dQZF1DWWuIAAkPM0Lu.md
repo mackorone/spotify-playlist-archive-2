@@ -4,7 +4,7 @@
 
 > Ny fredag og ny musik bl.a\. fra D1MA, Zara Larsson & Robyn 🖤
 
-11,491 songs - 24 day 21 hr 2 min
+11,492 songs - 24 day 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7700,7 +7700,7 @@
 | [Pacifist](https://open.spotify.com/track/4vNHK5aMxfNaYr63Ref98R) | [Nanna Bottos](https://open.spotify.com/artist/0xoGDgIUsZaAwfSnIzA0V2) | [Pacifist](https://open.spotify.com/album/1mNnhgEogBi5yJTGBGv54d) | 3:03 | 2024-08-29 | 2024-09-06 |
 | [Pack U Up](https://open.spotify.com/track/4lr7DO7iqd5okdwPXCbOIt) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Pack U Up](https://open.spotify.com/album/2erMfaqfOFB5jfn0kG2LnC) | 2:18 | 2025-08-21 | 2025-08-29 |
 | [Pad Thai](https://open.spotify.com/track/2V4WavDKcWrlmzFXmlNv7k) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Pad Thai](https://open.spotify.com/album/3ThGd1eoD9xHmzpUxqAqIS) | 3:01 | 2024-05-16 | 2024-05-24 |
-| [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 | 2026-07-30 |  |
+| [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 | 2026-07-30 |  |
 | [Pain](https://open.spotify.com/track/4hiT5SFGbfbgE0IhHFAdJ3) | [WOLTER](https://open.spotify.com/artist/5trYeORFP0N3yVrlY7B4ct) | [Pain](https://open.spotify.com/album/7AvCjkNsW0w1oaj7MblGjj) | 2:25 | 2026-04-30 | 2026-05-08 |
 | [Painkillers](https://open.spotify.com/track/6Ake7ca9JjNyNzDa6C0ZR3) | [Selma Judith](https://open.spotify.com/artist/5LLTM3JbwyRIPXqJMSH0hc) | [Half truths from a broken heart](https://open.spotify.com/album/2nIJGhfS4tHqEl6gFDsjNz) | 4:10 | 2024-09-13 | 2024-09-20 |
 | [Paint It Red](https://open.spotify.com/track/31giOS9KhpK97GcG9eT7PP) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Paint It Red](https://open.spotify.com/album/4Wi5IZG5ZIFs53Hr5tfJYN) | 3:34 | 2026-07-02 | 2026-07-10 |
@@ -7959,6 +7959,7 @@
 | [Potential](https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Potential](https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5) | 4:02 | 2026-04-16 | 2026-04-24 |
 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 | 2024-06-20 | 2024-06-28 |
 | [Pour vivre \- et compte bien ne mourir jamais](https://open.spotify.com/track/1eTu5Wt5nmtCSDVKroqg7D) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Pour vivre \- et compte bien ne mourir jamais](https://open.spotify.com/album/4rm0sdFqYeoHHAMzAqrkTB) | 4:10 | 2024-08-29 | 2024-09-06 |
+| [PPC](https://open.spotify.com/track/7M9Fk9ftwb9VxiImk28LBL) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [PPC](https://open.spotify.com/album/3hsG9b9I3od2hi7SXr0zZP) | 3:16 | 2026-08-01 |  |
 | [PR FERIR](https://open.spotify.com/track/1u0pFpzdGgc6sFuyu0WE3a) | [74blade](https://open.spotify.com/artist/07CoGyrUbcBkSzvs1Kd9i6), [gveor](https://open.spotify.com/artist/1KFXTL5QsqcvKzMypPeyGn) | [METSUKI SUTEMI](https://open.spotify.com/album/4NGYW49aoTEwt0vW2UoWLD) | 1:26 | 2024-05-02 | 2024-05-10 |
 | [Prada \(Gimme That\)](https://open.spotify.com/track/212XT7YbGYpWmQm8lFDhmC) | [Harry T](https://open.spotify.com/artist/59MrYHVIGkhd5wgaWXl7qa), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Prada \(Gimme That\)](https://open.spotify.com/album/12NWqwtXG61JlkhDMGsIf3) | 1:49 | 2025-12-11 | 2025-12-19 |
 | [Pray](https://open.spotify.com/track/5wqUqv9p6EAmtIvmG2nAVV) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Pray](https://open.spotify.com/album/7Ms4cfUbrmV4KaC4UDj3cL) | 2:58 | 2025-01-23 | 2025-01-31 |
@@ -9061,7 +9062,7 @@
 | [Solenergi](https://open.spotify.com/track/3go6Y48TKRhhF7fWf1bWay) | [BayBees](https://open.spotify.com/artist/5mk4Q8y0940oq60OETUzGI) | [Solenergi](https://open.spotify.com/album/5axr43p99Hy9CLVRADy7Bk) | 2:30 | 2025-10-02 | 2025-10-10 |
 | [Solens Skær](https://open.spotify.com/track/3MnouEbKUGwGHgRrgHi7i7) | [Oscar Køhler](https://open.spotify.com/artist/6qTbRdIl3s58jkXrFQ1qjv) | [Solens Skær](https://open.spotify.com/album/353ZcfsIjTXTzwH3mN5cbv) | 2:29 | 2025-07-17 | 2025-07-25 |
 | [Solhilsen](https://open.spotify.com/track/6l4zF7vBBXxfJDdODO4iqh) | [Bisse](https://open.spotify.com/artist/5HcOnnm3gCyYWOWTv4Bh4a) | [Solhilsen](https://open.spotify.com/album/67O6b4bfomHwdaYYy8GCC0) | 4:28 | 2025-11-13 | 2025-11-21 |
-| [Solid Ground](https://open.spotify.com/track/3ev5Lo9VZfJzxYSlzLSPRn) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [Solid Ground](https://open.spotify.com/album/6HoSet2AQqSQ3tTdg8NSk9) | 3:04 | 2026-07-30 |  |
+| [Solid Ground](https://open.spotify.com/track/3ev5Lo9VZfJzxYSlzLSPRn) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Taylor Hill](https://open.spotify.com/artist/5enXh7VYtH8x63M7coq9tJ) | [Solid Ground](https://open.spotify.com/album/6HoSet2AQqSQ3tTdg8NSk9) | 3:04 | 2026-07-30 |  |
 | [Solitude](https://open.spotify.com/track/1WwMBpinWZpaXST7q3otPR) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Solitude](https://open.spotify.com/album/6bAvcQE6BXnUnvFQ0hLn7p) | 3:24 | 2024-10-03 | 2024-10-11 |
 | [solitude nest](https://open.spotify.com/track/6QnNXC3mfF27IRXFFfFM9u) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [solitude nest](https://open.spotify.com/album/2CbBnZHQq2mTvNDqKtU4n5) | 3:09 | 2026-03-05 | 2026-03-13 |
 | [Solklart](https://open.spotify.com/track/6kOBNBgTkmr92T43sxCGPx) | [Anton Cornelius](https://open.spotify.com/artist/6rpx502KcJ8hbeRibTsFh4) | [Solklart](https://open.spotify.com/album/3VnSe1DRrHHjgyVPEuP1YA) | 2:57 | 2025-11-13 | 2025-11-21 |

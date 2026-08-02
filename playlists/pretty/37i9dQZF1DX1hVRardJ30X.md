@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Kapo, Clarent, benny blanco, Selena Gomez and Becky G,  Marca MP & more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,209 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,246 likes - 49 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 3 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 |
 | 4 | [Buenas](https://open.spotify.com/track/4Aqn4dA7P7ZIwNuBoHbNcH) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Buenas](https://open.spotify.com/album/3LqngCYFdrRUJK08whT3hF) | 2:55 |
 | 5 | [AZABACHE](https://open.spotify.com/track/2Gh6Ctajbej0QhracpJ4Al) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [AZABACHE](https://open.spotify.com/album/60WhEnhgPildtHh7fvtLIQ) | 3:02 |
-| 6 | [PlaYer </3](https://open.spotify.com/track/78qoYnsls2VDlwmnzmNv29) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [PlaYer </3](https://open.spotify.com/album/5vEGJyKYJjoXLP8aEqQvi5) | 2:49 |
+| 6 | [PLAYER </3](https://open.spotify.com/track/78qoYnsls2VDlwmnzmNv29) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [PLAYER </3](https://open.spotify.com/album/5vEGJyKYJjoXLP8aEqQvi5) | 2:49 |
 | 7 | [Todo El Año](https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo El Año](https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e) | 2:52 |
 | 8 | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/track/1ILSTelC5zM5zF1zMgb9pE) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [SI ME HICIERA EL DE LA LENGUA \(REMIX\) \(feat\. Luar La L\)](https://open.spotify.com/album/7j6wj2Hw3jsgGqxbjAoLFe) | 5:24 |
 | 9 | [NO TODO ES PARTE DE LA VIDA](https://open.spotify.com/track/1Ov1LTLDGkVSNpHjWuXeqw) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [NO TODO ES PARTE DE LA VIDA](https://open.spotify.com/album/724d6AWwToirfFH00SSUxl) | 4:04 |

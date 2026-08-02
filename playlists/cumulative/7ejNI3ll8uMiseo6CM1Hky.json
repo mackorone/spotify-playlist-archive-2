@@ -3243,6 +3243,24 @@
     },
     {
       "album": {
+        "name": "Stayed Gone (Political Parody)",
+        "url": "https://open.spotify.com/album/445SzTp0MXwx2IpFdQYYJW"
+      },
+      "artists": [
+        {
+          "name": "Emory Jones",
+          "url": "https://open.spotify.com/artist/0DM6zW05i7zxC3BrPiqidt"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135823,
+      "name": "Stayed Gone (Political Parody)",
+      "url": "https://open.spotify.com/track/6xh1fNlKrxoKkwYkKfVAjt"
+    },
+    {
+      "album": {
         "name": "Portal 2: Songs to Test by (Collectors Edition)",
         "url": "https://open.spotify.com/album/3avDuVP1Ua1QsCXLoSStHb"
       },

@@ -959,6 +959,28 @@
     },
     {
       "album": {
+        "name": "$TARFACE",
+        "url": "https://open.spotify.com/album/6sP5Exlpl3wK4nWnvwksQ4"
+      },
+      "artists": [
+        {
+          "name": "$TARFACE",
+          "url": "https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243920,
+      "name": "FREEZING",
+      "url": "https://open.spotify.com/track/6Fg6C4t18lGnDggkDUljlA"
+    },
+    {
+      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -2328,7 +2350,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-02",
       "duration_ms": 224506,
       "name": "Still Got It",
       "url": "https://open.spotify.com/track/51B1RzOwX8ybRMb66Rhsmu"

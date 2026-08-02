@@ -1,6 +1,6 @@
 {
   "description": "Ouve os hits do ver\u00e3o de 2026! \ud83c\udf1e",
-  "num_followers": 132459,
+  "num_followers": 132559,
   "original_name": "Ver\u00e3o 2026 \ud83c\udf79\ud83c\udfd6\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -987,18 +987,22 @@
     {
       "added_at": "2026-06-29 08:17:53",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/2HZk8OFg1Ua8yEQj2sj7Vx"
+        "name": "N'Essa Rua",
+        "url": "https://open.spotify.com/album/1tuRXXqeJYoMSNk2njecsT"
       },
       "artists": [
         {
-          "name": "Bandidos do Cante",
-          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        },
+        {
+          "name": "Tain\u00e1",
+          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
         }
       ],
-      "duration_ms": 179991,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/6djCOY8krAnQw8JFK4fbYa"
+      "duration_ms": 165500,
+      "name": "N'Essa Rua",
+      "url": "https://open.spotify.com/track/5pLswAEkSlHzRG1tReA4Zt"
     },
     {
       "added_at": "2026-06-29 08:17:53",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2026-06-29 08:17:53",
       "album": {
-        "name": "N'Essa Rua",
-        "url": "https://open.spotify.com/album/1tuRXXqeJYoMSNk2njecsT"
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/2HZk8OFg1Ua8yEQj2sj7Vx"
       },
       "artists": [
         {
-          "name": "Branko",
-          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
-        },
-        {
-          "name": "Tain\u00e1",
-          "url": "https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC"
+          "name": "Bandidos do Cante",
+          "url": "https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC"
         }
       ],
-      "duration_ms": 165500,
-      "name": "N'Essa Rua",
-      "url": "https://open.spotify.com/track/5pLswAEkSlHzRG1tReA4Zt"
+      "duration_ms": 179991,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6djCOY8krAnQw8JFK4fbYa"
     },
     {
       "added_at": "2026-06-29 08:17:53",

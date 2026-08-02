@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 206031,
+  "num_followers": 206081,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAAD4VaviOxvTObLLgRS5/Egv",
+  "snapshot_id": "amvlgAAAAABRCVKrQ9Mhqx5NROk5ai2e",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 172280,
-      "name": "Que L\u00e1stima",
-      "url": "https://open.spotify.com/track/2lU7cYhoywOeIor2ksGzOY"
+      "duration_ms": 167066,
+      "name": "Y Qu\u00e9 Mas D\u00e1",
+      "url": "https://open.spotify.com/track/6n5PdrtvGZjlSBkgLEAFrK"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 167066,
-      "name": "Y Qu\u00e9 Mas D\u00e1",
-      "url": "https://open.spotify.com/track/6n5PdrtvGZjlSBkgLEAFrK"
+      "duration_ms": 172280,
+      "name": "Que L\u00e1stima",
+      "url": "https://open.spotify.com/track/2lU7cYhoywOeIor2ksGzOY"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor De Unas Horas",
+        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 149186,
+      "name": "D\u00edmelo Cantando",
+      "url": "https://open.spotify.com/track/4KtPU3QVYgEZMCSsz5lIu8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Historia Contin\u00faa",
         "url": "https://open.spotify.com/album/1y96jqrtZbBZsmuNe1Nfvv"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 167066,
       "name": "Por las Damas Caballero",
       "url": "https://open.spotify.com/track/5O5Ys0jXCp1jFcrqkq54yj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor De Unas Horas",
-        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 149186,
-      "name": "D\u00edmelo Cantando",
-      "url": "https://open.spotify.com/track/4KtPU3QVYgEZMCSsz5lIu8"
     },
     {
       "added_at": null,

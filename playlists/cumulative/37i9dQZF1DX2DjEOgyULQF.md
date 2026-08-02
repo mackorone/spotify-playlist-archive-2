@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-475 songs - 22 hr 26 min
+476 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Azure Rain](https://open.spotify.com/track/6Hl3JSfAoIGYxbV0ZdUuKW) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Azure Rain](https://open.spotify.com/album/2tvMCwJyuwD3YNlPhlZXPG) | 3:36 | 2024-11-04 |  |
 | [Back In My Memory](https://open.spotify.com/track/5fO9TtuINIOhhVmxNB4GiC) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Back In My Memory](https://open.spotify.com/album/7pFIhGolnIrM2I6U3DfUyC) | 2:55 | 2024-06-03 | 2025-09-11 |
 | [Backwood Recline](https://open.spotify.com/track/2PFy9vF3sK1J736Dw55Yt8) | [Pia Singh](https://open.spotify.com/artist/2ZwBCFyYPefWuccMWR34ZE) | [Backwood Recline](https://open.spotify.com/album/2n2onOGsIkuUaD3192y8u4) | 3:49 | 2023-04-28 | 2025-05-22 |
+| [Believe](https://open.spotify.com/track/6vHGmxJ2tKVqLI4n6le6WU) | [Max Blomqvist](https://open.spotify.com/artist/1fqwsCIQGiytw1c1zAbZ6a) | [Soulbound](https://open.spotify.com/album/3R0mMCObv6Ou93GFSv0BHZ) | 2:14 | 2026-07-03 |  |
 | [Benevolent](https://open.spotify.com/track/3Eq3PQV5GeqlmzqmcH1lJa) | [Waking Up Inside](https://open.spotify.com/artist/2nFUQ65Yx9UWldBxOmBKlG) | [Benevolent](https://open.spotify.com/album/41Mu0iwQolq2DhBo2VdAEP) | 2:24 | 2026-04-03 |  |
 | [Berolige](https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Berolige](https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF) | 2:36 | 2024-04-01 | 2026-04-04 |
 | [Bewilderment](https://open.spotify.com/track/7JmTFcW5KDPZZyJyXHIgbE) | [Waves Of Wonder](https://open.spotify.com/artist/57lCW38CVKbL9zWSy7Ewpn) | [Bewilderment](https://open.spotify.com/album/0DrHkO9AXh9JRrpKSSMwTi) | 2:15 | 2026-06-12 |  |
@@ -204,7 +205,7 @@
 | [Handwritten](https://open.spotify.com/track/5E3Ix0osEIpZIf8c9wDUZ7) | [D'Verti](https://open.spotify.com/artist/09rAM5GlzBVG3FODKTlrRu) | [Handwritten](https://open.spotify.com/album/27IHCp4m0XW8XoRJsk4bYl) | 2:10 | 2025-05-21 | 2026-07-31 |
 | [Harmony Embrace](https://open.spotify.com/track/2BvGnRld5Kg2pjnL1JRhYq) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Harmony Embrace](https://open.spotify.com/album/1ISODSwPtvU8UF3OiFRXHY) | 3:39 | 2026-07-03 |  |
 | [Harmony Haven](https://open.spotify.com/track/1QTkKOIRpvU66GAeE1q0MX) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Harmony Haven](https://open.spotify.com/album/4zVgIsyQUUA5amABecQCRv) | 2:51 | 2026-07-03 |  |
-| [Healing gaze](https://open.spotify.com/track/1X8EmDgWvn6AImYPrtDqI9) | [Estra Blue](https://open.spotify.com/artist/2RAV1xltflSfWELSJuAB1S) | [Healing gaze](https://open.spotify.com/album/2hWybEwWNFXc4gauwKkt1h) | 2:40 | 2025-10-15 |  |
+| [Healing gaze](https://open.spotify.com/track/1X8EmDgWvn6AImYPrtDqI9) | [Estra Blue](https://open.spotify.com/artist/2RAV1xltflSfWELSJuAB1S) | [Healing gaze](https://open.spotify.com/album/2hWybEwWNFXc4gauwKkt1h) | 2:40 | 2025-10-15 | 2026-08-02 |
 | [Heart of nature](https://open.spotify.com/track/0PydlHyHt06LIZ21X9jS7l) | [Aponian Flow](https://open.spotify.com/artist/0ECZqa8KVFTuyM92asZRy1) | [Heart of nature](https://open.spotify.com/album/4q1LDuZ78fHCF9Eilb74pw) | 3:01 | 2026-04-03 |  |
 | [Held in the Jungle's Sleep](https://open.spotify.com/track/08DivxvdYawXBq4C63a2VI) | [Aura Veil](https://open.spotify.com/artist/0N1zbTaCXUJXZBmAiILWl6) | [Held in the Jungle's Sleep](https://open.spotify.com/album/5YqsYVMj3qJD8rCTEwhVR1) | 2:44 | 2026-04-03 |  |
 | [Herinneringen \(Sound Bath\)](https://open.spotify.com/track/3S2TvczOa5YQQPqkn7Khtp) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Herinneringen \(Sound Bath\)](https://open.spotify.com/album/4HpA9tcvVWoQdjgLsp88Ru) | 3:02 | 2023-04-28 | 2025-05-22 |

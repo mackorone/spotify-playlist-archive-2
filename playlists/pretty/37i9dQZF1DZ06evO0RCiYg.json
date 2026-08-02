@@ -1,12 +1,12 @@
 {
   "description": "This is Black Eyed Peas. The essential tracks, all in one playlist.",
-  "num_followers": 557568,
+  "num_followers": 557656,
   "original_name": "This Is Black Eyed Peas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAADpBLO5inahO/zN4VliNJv7",
+  "snapshot_id": "amvlgAAAAACIU8/TCuAShwU/ciX2cPmK",
   "tracks": [
     {
       "added_at": null,
@@ -867,22 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "eXplosion",
-        "url": "https://open.spotify.com/album/0mBbmvyacqhLlekwAlLNCz"
+        "name": "Behind The Front",
+        "url": "https://open.spotify.com/album/6bwBeiWNQu2g3yaa3yNpgz"
       },
       "artists": [
         {
           "name": "Black Eyed Peas",
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 240000,
-      "name": "eXplosion",
-      "url": "https://open.spotify.com/track/6cQTuQgY4w1zKEbAjcuzxz"
+      "duration_ms": 215466,
+      "name": "Joints & Jam",
+      "url": "https://open.spotify.com/track/1oPxTBaK2Hjtmwd7ICWHbK"
     },
     {
       "added_at": null,
@@ -903,18 +899,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Behind The Front",
-        "url": "https://open.spotify.com/album/6bwBeiWNQu2g3yaa3yNpgz"
+        "name": "eXplosion",
+        "url": "https://open.spotify.com/album/0mBbmvyacqhLlekwAlLNCz"
       },
       "artists": [
         {
           "name": "Black Eyed Peas",
           "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Joints & Jam",
-      "url": "https://open.spotify.com/track/1oPxTBaK2Hjtmwd7ICWHbK"
+      "duration_ms": 240000,
+      "name": "eXplosion",
+      "url": "https://open.spotify.com/track/6cQTuQgY4w1zKEbAjcuzxz"
     },
     {
       "added_at": null,

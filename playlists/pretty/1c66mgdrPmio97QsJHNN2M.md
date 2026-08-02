@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,803 likes - 243 songs - 12 hr 35 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,809 likes - 246 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,7 +239,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 229 | [Why Don't They Care?](https://open.spotify.com/track/3ELagxXujPMf9EV4zk3UDy) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Why Don't They Care?](https://open.spotify.com/album/1YZl8kT4SpwcMVxuCrJKCM) | 3:04 |
 | 230 | [I Love the NiteTime \- Instrumental](https://open.spotify.com/track/71EtEiC81m2XGqTtbIho9t) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [I Love the NiteTime \(Instrumental\)](https://open.spotify.com/album/3l4SxjWPTqCkfk3do9lvPC) | 2:30 |
 | 231 | [What's Your Name](https://open.spotify.com/track/2BsMM0JK46pnkv6dNHK4Ck) | [Trendsetter](https://open.spotify.com/artist/2r6KOzzHhbWaMwP2EwmUEM), [Magnus Deus](https://open.spotify.com/artist/2ucNjOKWBIEBnzvFgmJAn3), [Katty G](https://open.spotify.com/artist/5AzDXioaAPrx8SzjCyFnIB) | [What's Your Name](https://open.spotify.com/album/2donQPGwDxsAnuciY9F6VI) | 2:46 |
-| 232 | [senseless](https://open.spotify.com/track/5emfgvRMAUQcKK0cZ6xltg) | [jules.xoc](https://open.spotify.com/artist/5KO50Ro2QliqrCesFb82EC) | [lost in the gears](https://open.spotify.com/album/5Up8hiRs4Rf6wmr1XOtTbD) | 1:29 |
+| 232 | [senseless](https://open.spotify.com/track/5emfgvRMAUQcKK0cZ6xltg) | [jules.xoc](https://open.spotify.com/artist/5KO50Ro2QliqrCesFb82EC), [Im gonna die alone](https://open.spotify.com/artist/7xp1rjLTSV2Zy7uWUwzEEy) | [lost in the gears](https://open.spotify.com/album/5Up8hiRs4Rf6wmr1XOtTbD) | 1:29 |
 | 233 | [Mine \(Or Maybe Lies\)](https://open.spotify.com/track/37IussywSceU7bGw4eHUJl) | [Flying Fox Has No Wheels](https://open.spotify.com/artist/0FWaMdWX9FH2aoFYSUN20q) | [Failed Expectations](https://open.spotify.com/album/33kRKiTLrPxV8eDfyCoQFI) | 3:24 |
 | 234 | [Your Perfect Love](https://open.spotify.com/track/0Mkx5k7xZUjBjZqGG4N6PB) | [Joe Darcy & The New Disease](https://open.spotify.com/artist/1Ymv5tIMQh757DdjS2uOnW) | [Your Perfect Love](https://open.spotify.com/album/0bKy2UncYBJQ58HoiRtfBN) | 3:21 |
 | 235 | [More](https://open.spotify.com/track/11hHjwmXQW523fDgj3NKKs) | [Timothy Huddleston](https://open.spotify.com/artist/20fRmJyYjSAwQJnNg8LRdW) | [More](https://open.spotify.com/album/6QDV7HsRHFOA9QJe6Yfu2R) | 2:56 |
@@ -251,5 +251,8 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 241 | [Close to Peace](https://open.spotify.com/track/0UAOmZt5dtWqQznRueQZz8) | [Garbage Garden](https://open.spotify.com/artist/46Vwy9J73rIhOy0pHiW8Ix) | [Close to Peace](https://open.spotify.com/album/2QeQDQR9ndvVjl0AIOexzh) | 3:03 |
 | 242 | [It's Okay to Not be Okay](https://open.spotify.com/track/7ide20WCYqE1FiulbeWHvH) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [It's Okay to Not be Okay](https://open.spotify.com/album/7bwgAJEBs3fomgp88wGuYz) | 3:19 |
 | 243 | [Denverlicious](https://open.spotify.com/track/3An7TvAgJdwbrUxAl71AK4) | [Denver C\. Pruitt](https://open.spotify.com/artist/2s57u6ygyI9cdo4owvaFTU), [The Pruitt Posse](https://open.spotify.com/artist/4nSQBSjoWOsbYzeRzWeCpb) | [Denverlicious](https://open.spotify.com/album/4CoOwfZtImWciruzTt8mMb) | 3:19 |
+| 244 | [All My Life](https://open.spotify.com/track/4B74UoHA19UF4u140v6Aa9) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Better Late Than Never](https://open.spotify.com/album/3fnfS9UWZCMbbySmokBIdP) | 3:08 |
+| 245 | [Man For A Minute](https://open.spotify.com/track/53ggds18yq6n2FVeK0MzxY) | [Eugene](https://open.spotify.com/artist/1XSk6lGRiKMabwZ4IST6mA) | [Man For A Minute](https://open.spotify.com/album/7FGTzA1y9IZFJcPqXGmxgt) | 2:58 |
+| 246 | [Who Was I When We Were Just Friends](https://open.spotify.com/track/4AR81DRiSzZRzvN5PY5uQt) | [Aleksi Oksanen](https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2) | [Who Was I When We Were Just Friends](https://open.spotify.com/album/0zaQ4czgKuaGBEwLjcfxks) | 2:15 |
 
-Snapshot ID: `AAA7C6Vvx3DgY6SACc3fx4T6oDo1gpZD`
+Snapshot ID: `AAA7Dl12kCqLNR8p/O9i2GCKTSkQaHko`

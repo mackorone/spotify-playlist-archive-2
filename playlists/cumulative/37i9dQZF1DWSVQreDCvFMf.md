@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: KZ Tandingan
 
-1,017 songs - 2 day 14 hr 46 min
+1,018 songs - 2 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [AYOS LANG](https://open.spotify.com/track/5ao7bBo7bVdG83EV4qyhAf) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [AYOS LANG](https://open.spotify.com/album/1kDAyu74Or1EPw4rHRojlH) | 2:21 | 2025-10-31 | 2026-01-15 |
 | [Ayos Lang](https://open.spotify.com/track/1k1emHrNUbvDBVihKDBR2f) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Ayos Lang](https://open.spotify.com/album/6PIFh1ebIsEIArIFojLg8W) | 3:13 | 2025-03-28 | 2025-06-21 |
 | [Bababa](https://open.spotify.com/track/19BGZtnvH41wHrlW4h6SiG) | [1621](https://open.spotify.com/artist/02NMfOlZLaiwrDvQsZxXOI) | [Bababa](https://open.spotify.com/album/6Kf1U9GPu7ra3YcwrUbDyz) | 2:10 | 2025-04-22 | 2025-07-13 |
+| [Babaero](https://open.spotify.com/track/55ij7wjoz4xgzvJO2hV7Y8) | [Leanne](https://open.spotify.com/artist/0V39TQSFg4VAwmwJ6JWdsU) | [Babaero](https://open.spotify.com/album/5MKGvgS8oOgRiaVCg9GLnX) | 4:20 | 2026-08-01 |  |
 | [Babala](https://open.spotify.com/track/6RmcvBatUuTkzAt3W2Ehmf) | [Jayda](https://open.spotify.com/artist/3FQsMtWVaHHjCbumwaDKER) | [Babala](https://open.spotify.com/album/5jJntSBEZRgQU8U2STcGfE) | 3:01 | 2025-11-28 | 2026-02-03 |
 | [Babalik](https://open.spotify.com/track/5jCT5oKgrvvQF11ThHJgds) | [Keanna Mag](https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v) | [Babalik](https://open.spotify.com/album/24pfBSNtLlKielvr1FciMU) | 4:37 | 2025-07-12 | 2025-11-08 |
 | [Babalik Sa'yo](https://open.spotify.com/track/3r4CJwnU85C7vehWeytzNf) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q) | [Babalik Sa'yo](https://open.spotify.com/album/3tkcy78luHbbFQPWkImigl) | 2:59 | 2026-02-13 | 2026-03-28 |

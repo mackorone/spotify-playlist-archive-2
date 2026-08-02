@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,067 likes - 88 songs - 5 hr 8 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,070 likes - 89 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,5 +96,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 86 | [Dream](https://open.spotify.com/track/4ecImVEuf5jm9Joc2cqycN) | [Hannah Aboh](https://open.spotify.com/artist/5YKklNWFgD4II8iXeaXGjf) | [Dream](https://open.spotify.com/album/4H8CIjBwxyxZtoeA6hvAJn) | 3:47 |
 | 87 | [Kabuki Dance](https://open.spotify.com/track/1OpiGHa8y1yb4zxvY8bxuq) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [The Wind](https://open.spotify.com/album/3QbUw26LoBGgTZJkFfGOrw) | 4:42 |
 | 88 | [Weird Kid](https://open.spotify.com/track/28P1Zn2MA2Af5L0MIa8fQx) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Weird Kid](https://open.spotify.com/album/3J1FrMBOBnoDjin6Xg0JIi) | 2:25 |
+| 89 | [\(Only Takes a\) Moment](https://open.spotify.com/track/7tNhfp7TxXc3ZPBCOBqgyV) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [\(Only Takes a\) Moment](https://open.spotify.com/album/08nJd5fnuBNRb6arPl1hNp) | 3:02 |
 
-Snapshot ID: `AAAEMOIHU+mImlZSSK4/EXf6YoKiJ2jO`
+Snapshot ID: `AAAEMU77m79il4BLlkbL5KC0d4a/eRRe`

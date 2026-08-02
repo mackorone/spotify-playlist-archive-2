@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-175 songs - 9 hr 39 min
+176 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Impossible Things](https://open.spotify.com/track/2gxwyopbW6ii6tDa15BKdx) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Impossible Things](https://open.spotify.com/album/2fDgMOIPVpUsIJZyw8xaJm) | 3:02 | 2024-07-26 |  |
 | [Indian Love Call](https://open.spotify.com/track/1StLytLkQVRq3q1PtfclE3) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [EMI Country Masters: 50 Originals](https://open.spotify.com/album/7JzqaIlXUcX5ncpe3iIqhU) | 3:09 | 2024-07-26 | 2026-02-14 |
 | [Indian Love Call](https://open.spotify.com/track/2PgGtgk0fBZEm9BDJUXswf) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Slim Whitman Favourites](https://open.spotify.com/album/4zr9Tea1ytkjAd6xYHfsj0) | 3:10 | 2026-02-13 |  |
+| [It \- Remastered 2026](https://open.spotify.com/track/0m2kExLkgnlO2MLuctGn7p) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr) | [Deep in My Heart \(Remastered 2026\)](https://open.spotify.com/album/6FVHTZF3USUv6G8UKYufCl) | 2:47 | 2026-08-01 |  |
 | [It Feels Good](https://open.spotify.com/track/7CaRG77e3nxoMixd5b4zbS) | [Lilli Cooper](https://open.spotify.com/artist/61Im27379GhfbMD5LVDmlp) | [R&H Goes Pop!](https://open.spotify.com/album/6zf0YjLPz8wY6hE6RrmwkI) | 3:18 | 2024-07-26 |  |
 | [It Might As Well Be Spring](https://open.spotify.com/track/6Xdd7X7d7U3NSvsPlmgpC6) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams](https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1) | 6:04 | 2025-06-05 | 2025-06-13 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/2ErJ9mgDw6dh8IOT1Ovd0a) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Moon Beams \[Original Jazz Classics Remasters\]](https://open.spotify.com/album/3QTdjueo8EUx1sMLcPbNZc) | 6:05 | 2024-07-26 | 2025-06-06 |

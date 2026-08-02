@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 168570,
+  "num_followers": 168581,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amqUAAAAAADNGOMIj9jzY2VNin8HQipK",
+  "snapshot_id": "amvlgAAAAADwkHdJ/rp9XrrkoMSH4Nc4",
   "tracks": [
     {
       "added_at": null,
@@ -144,9 +144,9 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 155882,
-      "name": "Qu\u00e9 Caro Estoy Pagando",
-      "url": "https://open.spotify.com/track/1JU9KfQidaLyx80ixZr66t"
+      "duration_ms": 203068,
+      "name": "DEL Negociante",
+      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 203068,
-      "name": "DEL Negociante",
-      "url": "https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH"
+      "duration_ms": 155882,
+      "name": "Qu\u00e9 Caro Estoy Pagando",
+      "url": "https://open.spotify.com/track/1JU9KfQidaLyx80ixZr66t"
     },
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recordando A Una Leyenda",
-        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 187520,
-      "name": "Hablemos",
-      "url": "https://open.spotify.com/track/1aN813FXigdGJIDbLJyk1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Rey De Corazones",
         "url": "https://open.spotify.com/album/3QiF1HQLaYyVkxbSi6v1rE"
       },
@@ -339,6 +319,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Recordando A Una Leyenda",
+        "url": "https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 187520,
+      "name": "Hablemos",
+      "url": "https://open.spotify.com/track/1aN813FXigdGJIDbLJyk1T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recuerden Mi Estilo",
         "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
       },
@@ -351,26 +351,6 @@
       "duration_ms": 163700,
       "name": "Te Voy a Olvidar",
       "url": "https://open.spotify.com/track/3L9b67Rz7l93Wl6rSUwsIY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
-        "url": "https://open.spotify.com/album/2FvlCAa5PTlKkAfH1FIC5C"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Banda Sinaloense La Tuyia de Culiac\u00e1n",
-          "url": "https://open.spotify.com/artist/7whx9sO2nsmw8znriXYrW2"
-        }
-      ],
-      "duration_ms": 282353,
-      "name": "Me Llamas - En Vivo",
-      "url": "https://open.spotify.com/track/3SqC8hNt1YsnlJj1uYPWCw"
     },
     {
       "added_at": null,
@@ -395,6 +375,26 @@
       "duration_ms": 252285,
       "name": "Hay Niveles",
       "url": "https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/2FvlCAa5PTlKkAfH1FIC5C"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Banda Sinaloense La Tuyia de Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/7whx9sO2nsmw8znriXYrW2"
+        }
+      ],
+      "duration_ms": 282353,
+      "name": "Me Llamas - En Vivo",
+      "url": "https://open.spotify.com/track/3SqC8hNt1YsnlJj1uYPWCw"
     },
     {
       "added_at": null,

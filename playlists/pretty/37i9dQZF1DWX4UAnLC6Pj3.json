@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Marca MP \ud83d\udcf8",
-  "num_followers": 1302581,
+  "num_followers": 1302579,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,18 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "T\u00fa Ni En Cuenta",
-        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
+        "name": "Arriba La Moyombiza 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
         }
       ],
-      "duration_ms": 203801,
-      "name": "T\u00fa Ni En Cuenta",
-      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
+      "duration_ms": 151500,
+      "name": "Te Ves Fatal (En Vivo)",
+      "url": "https://open.spotify.com/track/021ypkRC62uOYmvS91JN2V"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -151,18 +147,22 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Arriba La Moyombiza 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2"
+        "name": "T\u00fa Ni En Cuenta",
+        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
       },
       "artists": [
         {
-          "name": "Moy Bobadilla",
-          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Te Ves Fatal (En Vivo)",
-      "url": "https://open.spotify.com/track/021ypkRC62uOYmvS91JN2V"
+      "duration_ms": 203801,
+      "name": "T\u00fa Ni En Cuenta",
+      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "\u00c9cheme Otro Consejo",
-        "url": "https://open.spotify.com/album/3A4Z6TOx34CdaqVVBpk8yk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 241933,
-      "name": "\u00c9cheme Otro Consejo",
-      "url": "https://open.spotify.com/track/1skpZgEgKrl7WZ1UsROesx"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Coronar Hasta Que Amanezca (En Vivo)",
         "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
       },
@@ -243,8 +227,8 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Si Las Miradas Mataran",
-        "url": "https://open.spotify.com/album/2YSx52WRNoGQRyfbdG69IQ"
+        "name": "Mira Beb\u00e9",
+        "url": "https://open.spotify.com/album/34l3eBsb2NFoVUdBqmF2Hd"
       },
       "artists": [
         {
@@ -252,9 +236,25 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Si Las Miradas Mataran",
-      "url": "https://open.spotify.com/track/45VBtZ50ERPzMohDRPjoDm"
+      "duration_ms": 161797,
+      "name": "Mira Beb\u00e9",
+      "url": "https://open.spotify.com/track/76Xise1iS4Y0MroKPyaEi2"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "\u00c9cheme Otro Consejo",
+        "url": "https://open.spotify.com/album/3A4Z6TOx34CdaqVVBpk8yk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 241933,
+      "name": "\u00c9cheme Otro Consejo",
+      "url": "https://open.spotify.com/track/1skpZgEgKrl7WZ1UsROesx"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -295,26 +295,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "No Me Pidas Un Tiempo",
-        "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 194782,
-      "name": "No Me Pidas Un Tiempo",
-      "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Dos Hojas Sin Rumbo",
         "url": "https://open.spotify.com/album/4cvzxtNWvlXocEsmWujeqt"
       },
@@ -335,8 +315,8 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Mira Beb\u00e9",
-        "url": "https://open.spotify.com/album/34l3eBsb2NFoVUdBqmF2Hd"
+        "name": "Si Las Miradas Mataran",
+        "url": "https://open.spotify.com/album/2YSx52WRNoGQRyfbdG69IQ"
       },
       "artists": [
         {
@@ -344,9 +324,29 @@
           "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 161797,
-      "name": "Mira Beb\u00e9",
-      "url": "https://open.spotify.com/track/76Xise1iS4Y0MroKPyaEi2"
+      "duration_ms": 169500,
+      "name": "Si Las Miradas Mataran",
+      "url": "https://open.spotify.com/track/45VBtZ50ERPzMohDRPjoDm"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "No Me Pidas Un Tiempo",
+        "url": "https://open.spotify.com/album/5CARWChEinGKjMDSIxV4ol"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 194782,
+      "name": "No Me Pidas Un Tiempo",
+      "url": "https://open.spotify.com/track/7vV6vTQGEhdfYIF9ZfFnR7"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Rancheras Bonitas",
-        "url": "https://open.spotify.com/album/0599pjWZ13cqNGkv3dqqiy"
-      },
-      "artists": [
-        {
-          "name": "La Explosiva Banda de Maza",
-          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
-        }
-      ],
-      "duration_ms": 212865,
-      "name": "Dos Hojas Sin Rumbo, Un Rinconcito en el Cielo",
-      "url": "https://open.spotify.com/track/4CjU0R47evoWzIhuXq1aw5"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "La Vida Es As\u00ed",
         "url": "https://open.spotify.com/album/6lqyfU9G5QpallxLMEEFl6"
       },
@@ -419,18 +403,18 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Piratita",
-        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
+        "name": "Rancheras Bonitas",
+        "url": "https://open.spotify.com/album/0599pjWZ13cqNGkv3dqqiy"
       },
       "artists": [
         {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+          "name": "La Explosiva Banda de Maza",
+          "url": "https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR"
         }
       ],
-      "duration_ms": 115826,
-      "name": "Piratita",
-      "url": "https://open.spotify.com/track/6bxwhfXrbMk73UWxmPmmoU"
+      "duration_ms": 212865,
+      "name": "Dos Hojas Sin Rumbo, Un Rinconcito en el Cielo",
+      "url": "https://open.spotify.com/track/4CjU0R47evoWzIhuXq1aw5"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -447,6 +431,22 @@
       "duration_ms": 114181,
       "name": "Del Cielo Nada Cae",
       "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Piratita",
+        "url": "https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 115826,
+      "name": "Piratita",
+      "url": "https://open.spotify.com/track/6bxwhfXrbMk73UWxmPmmoU"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
+        "name": "Machin Love (En Vivo Desde La Arena Jalisco)",
+        "url": "https://open.spotify.com/album/0C9j9wOlaoX0aubYwnRNiY"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        }
+      ],
+      "duration_ms": 145562,
+      "name": "All\u00e1 Usted - En Vivo Desde la Arena Jalisco",
+      "url": "https://open.spotify.com/track/45z1vE8tR0Jl1CmKkG0Osz"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
         "name": "Por Salud Mental",
         "url": "https://open.spotify.com/album/5daCtEvl4hwiozKbCQxc9h"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Me Las Dijo El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
-        }
-      ],
-      "duration_ms": 175872,
-      "name": "Se Cancela",
-      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Vete, Vete",
         "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 218426,
       "name": "Vete, Vete",
       "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Me Las Dijo El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 175872,
+      "name": "Se Cancela",
+      "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -627,22 +643,6 @@
       "duration_ms": 198548,
       "name": "No Se Diga M\u00e1s",
       "url": "https://open.spotify.com/track/6bYFtMOVwHuOF4Ob9atXS9"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
-        "name": "Machin Love (En Vivo Desde La Arena Jalisco)",
-        "url": "https://open.spotify.com/album/0C9j9wOlaoX0aubYwnRNiY"
-      },
-      "artists": [
-        {
-          "name": "La Inolvidable Banda Agua De La Llave",
-          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
-        }
-      ],
-      "duration_ms": 145562,
-      "name": "All\u00e1 Usted - En Vivo Desde la Arena Jalisco",
-      "url": "https://open.spotify.com/track/45z1vE8tR0Jl1CmKkG0Osz"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "No Me Vuelvo Enamorar",
-        "url": "https://open.spotify.com/album/7wv0ffO2H9J6ojJqmqOrhu"
-      },
-      "artists": [
-        {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
-        }
-      ],
-      "duration_ms": 156590,
-      "name": "No Me Vuelvo Enamorar",
-      "url": "https://open.spotify.com/track/6j2II0KPzTzM9IRxMfb9e0"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 182586,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "No Me Vuelvo Enamorar",
+        "url": "https://open.spotify.com/album/7wv0ffO2H9J6ojJqmqOrhu"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "duration_ms": 156590,
+      "name": "No Me Vuelvo Enamorar",
+      "url": "https://open.spotify.com/track/6j2II0KPzTzM9IRxMfb9e0"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
+        "name": "\u00bfC\u00f3mo Se Te Ocurre?",
+        "url": "https://open.spotify.com/album/2DesGVtJPsyBhk2fhk8Ich"
+      },
+      "artists": [
+        {
+          "name": "El Juanma",
+          "url": "https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 219922,
+      "name": "\u00bfC\u00f3mo Se Te Ocurre?",
+      "url": "https://open.spotify.com/track/0DFEiu7V6q0Z4mYAOtkN8v"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
         "name": "El Recuerdo Que Dej\u00f3",
         "url": "https://open.spotify.com/album/4Up6tMrKw9p929MnHKVSdT"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 162911,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
-        "name": "\u00bfC\u00f3mo Se Te Ocurre?",
-        "url": "https://open.spotify.com/album/2DesGVtJPsyBhk2fhk8Ich"
-      },
-      "artists": [
-        {
-          "name": "El Juanma",
-          "url": "https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 219922,
-      "name": "\u00bfC\u00f3mo Se Te Ocurre?",
-      "url": "https://open.spotify.com/track/0DFEiu7V6q0Z4mYAOtkN8v"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
+        "name": "Desde La Mochila Con La Banda Session 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/7oKlBewCFw1v1OxcStGAT5"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Cuando El Sol Salga Al Rev\u00e9s - En Vivo",
+      "url": "https://open.spotify.com/track/7Cw8DJs4OKvWk6DDQI19S6"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
         "name": "Mi Gallo",
         "url": "https://open.spotify.com/album/6EqlKXCCjePHSPgCnZnF1z"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Desde La Mochila Con La Banda Session 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/7oKlBewCFw1v1OxcStGAT5"
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/6WdQA7zU2fXvzcGgxcnDjf"
       },
       "artists": [
         {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j"
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Cuando El Sol Salga Al Rev\u00e9s - En Vivo",
-      "url": "https://open.spotify.com/track/7Cw8DJs4OKvWk6DDQI19S6"
+      "duration_ms": 131645,
+      "name": "Hermos\u00edsimo Lucero",
+      "url": "https://open.spotify.com/track/2bl9PTz5CmEtmxAxbHiv1E"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1311,18 +1327,18 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/6WdQA7zU2fXvzcGgxcnDjf"
+        "name": "Cari\u00f1ito (Live)",
+        "url": "https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw"
       },
       "artists": [
         {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+          "name": "Banda Tierra Mojada",
+          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
         }
       ],
-      "duration_ms": 131645,
-      "name": "Hermos\u00edsimo Lucero",
-      "url": "https://open.spotify.com/track/2bl9PTz5CmEtmxAxbHiv1E"
+      "duration_ms": 230933,
+      "name": "Cari\u00f1ito - Live",
+      "url": "https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1359,18 +1375,18 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Cari\u00f1ito (Live)",
-        "url": "https://open.spotify.com/album/46b7zuMfKU4LyLxfGK7pxw"
+        "name": "Qui\u00e9n te entiende",
+        "url": "https://open.spotify.com/album/1JkjGZwM13QmiR4HceYBzQ"
       },
       "artists": [
         {
-          "name": "Banda Tierra Mojada",
-          "url": "https://open.spotify.com/artist/7qiTcZri2NHe9Et3zAPAci"
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
         }
       ],
-      "duration_ms": 230933,
-      "name": "Cari\u00f1ito - Live",
-      "url": "https://open.spotify.com/track/0zKCcroG4DN8Qq1R082En7"
+      "duration_ms": 196986,
+      "name": "Qui\u00e9n te entiende",
+      "url": "https://open.spotify.com/track/6ZYufYYNZ18mWo1ogJQaYx"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1387,22 +1403,6 @@
       "duration_ms": 244500,
       "name": "Como Me Haces Falta",
       "url": "https://open.spotify.com/track/26C8D69lTYNcxI3SY0sTLI"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
-        "name": "Qui\u00e9n te entiende",
-        "url": "https://open.spotify.com/album/1JkjGZwM13QmiR4HceYBzQ"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Qui\u00e9n te entiende",
-      "url": "https://open.spotify.com/track/6ZYufYYNZ18mWo1ogJQaYx"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Se Me Sali\u00f3 Una Lagrimita",
-        "url": "https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 165329,
-      "name": "Se Me Sali\u00f3 Una Lagrimita",
-      "url": "https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Coleccionando Heridas",
         "url": "https://open.spotify.com/album/3cRD1iHJDCV1InslSYOz3P"
       },
@@ -1487,6 +1471,38 @@
       "duration_ms": 201340,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/1Moi1EHc7X9cceNOk1TDZS"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Se Me Sali\u00f3 Una Lagrimita",
+        "url": "https://open.spotify.com/album/5ZBEtjaAG5UfuvaY6WJkDr"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 165329,
+      "name": "Se Me Sali\u00f3 Una Lagrimita",
+      "url": "https://open.spotify.com/track/0M0xpwVWyjzcQNPnERkskG"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "No He Avanzado Nada",
+        "url": "https://open.spotify.com/album/2TaJFiCbaNeiacoOlARY6T"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "duration_ms": 160605,
+      "name": "No He Avanzado Nada",
+      "url": "https://open.spotify.com/track/5JEEsiLIp24mi3MubrY6D4"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "No He Avanzado Nada",
-        "url": "https://open.spotify.com/album/2TaJFiCbaNeiacoOlARY6T"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
-        }
-      ],
-      "duration_ms": 160605,
-      "name": "No He Avanzado Nada",
-      "url": "https://open.spotify.com/track/5JEEsiLIp24mi3MubrY6D4"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Si No Me Querias",
         "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
       },
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "La Historia Es Otra",
-        "url": "https://open.spotify.com/album/5dmPi8B2msoHPo36SSwBRp"
+        "name": "Alergico Al Amor",
+        "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
       },
       "artists": [
         {
-          "name": "COSME TADEO",
-          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
         }
       ],
-      "duration_ms": 145920,
-      "name": "La Historia Es Otra",
-      "url": "https://open.spotify.com/track/0mgPNIIiyOYfiPPlk1aN9F"
+      "duration_ms": 190767,
+      "name": "Alergico Al Amor",
+      "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Alergico Al Amor",
-        "url": "https://open.spotify.com/album/0rlEwhpcGnjahpxICbC5Oj"
+        "name": "La Historia Es Otra",
+        "url": "https://open.spotify.com/album/5dmPi8B2msoHPo36SSwBRp"
       },
       "artists": [
         {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+          "name": "COSME TADEO",
+          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
         }
       ],
-      "duration_ms": 190767,
-      "name": "Alergico Al Amor",
-      "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
+      "duration_ms": 145920,
+      "name": "La Historia Es Otra",
+      "url": "https://open.spotify.com/track/0mgPNIIiyOYfiPPlk1aN9F"
     },
     {
       "added_at": "2026-07-31 08:27:18",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Ariana Grande, Tinashe, Robyn, Swedish House Mafia, Tove Lo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,894 likes - 82 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,927 likes - 82 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 42 | [911 \(CALL THE LAW\)](https://open.spotify.com/track/0ct5TyLZyVj0cr4HmgwM54) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [911 \(CALL THE LAW\)](https://open.spotify.com/album/3lM2x5DFatzQNmTxsxIKTP) | 2:21 |
 | 43 | [Lo Lente](https://open.spotify.com/track/7zXvS0UkPE36x1r3ZC17Y8) | [El Bellaco](https://open.spotify.com/artist/07FHNVEcv83tJCqSToBCID), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Lo Lente](https://open.spotify.com/album/2OghFaZjMrpmwYta1zsAUq) | 2:05 |
 | 44 | [RoTATe wiTh aMeRiCa FOsTeR, sKiLLiBeNg aNd bEAM](https://open.spotify.com/track/1MpcTgOwN7Z3fL9ygUzrHU) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [America Foster](https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [RoTATe wiTh aMeRiCa FOsTeR, sKiLLiBeNg aNd bEAM](https://open.spotify.com/album/2TfJgjWkcfUsB3VVfxy3cw) | 2:52 |
-| 45 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
+| 45 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
 | 46 | [Gut Genug \(with Skepta & Blumengarten\)](https://open.spotify.com/track/71zVyAO3nkykYTFBfiw1DM) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Gut Genug \(with Skepta & Blumengarten\)](https://open.spotify.com/album/1vSHSyVaa9xVii1YNq5Tq6) | 2:53 |
 | 47 | [Higher \(feat\. Rita Ora\)](https://open.spotify.com/track/68ROeDTnieAmMrQrMJlnsY) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Higher \(feat\. Rita Ora\)](https://open.spotify.com/album/1KLlMRa36B3s4E4s11wcDh) | 2:30 |
 | 48 | [You're Welcome](https://open.spotify.com/track/4fSrSoduNMrWtChG6lIZwz) | [Dwayne Johnson](https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Moana \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0b01TYFykietFsprIoKlxT) | 2:47 |

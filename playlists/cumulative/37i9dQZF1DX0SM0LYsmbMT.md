@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,552 songs - 7 day 4 hr 43 min
+4,553 songs - 7 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2721,6 +2721,7 @@
 | [Nightshift](https://open.spotify.com/track/5EqzrIDrJXMBPAehmmRSW6) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Nightshift](https://open.spotify.com/album/50egNe7aM7DINh23kyoa2w) | 2:05 | 2022-11-17 | 2023-07-28 |
 | [Nightshift](https://open.spotify.com/track/1HozZPFkQc3xi2SMBe07pP) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Nightshift](https://open.spotify.com/album/5Bl9EqhUZ5HYvl3XuMMzik) | 2:05 | 2022-07-21 | 2022-11-20 |
 | [Nightsight](https://open.spotify.com/track/7IYT1kEMsc4UTMW7jansE4) | [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc), [Wishes and Dreams](https://open.spotify.com/artist/3z3HY7B1UqsrP5un2WXe2h) | [Nightsight](https://open.spotify.com/album/0IKD6zVRp8zpJoVPtODYv0) | 1:40 | 2025-02-06 | 2025-03-08 |
+| [Nightwalk](https://open.spotify.com/track/3vHDfrh0JSscioPnGvRavd) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Nightwalk](https://open.spotify.com/album/1i2XRp6UQR6tGCMHMNSuGW) | 2:01 | 2026-07-24 |  |
 | [nightwalker](https://open.spotify.com/track/78eRRJcbSM643Ymm1X2KGD) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [daydreams](https://open.spotify.com/album/5zIJZ4sjVANxrK28e2UTJD) | 2:19 | 2022-12-15 | 2023-05-12 |
 | [Nightwatch](https://open.spotify.com/track/3HGg3I2vq3TEAzazfOYmV5) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Brenk Sinatra](https://open.spotify.com/artist/2ZoufZYy2FcQQSBZbkO6Bb) | [Nightwatch](https://open.spotify.com/album/1TaUpiGTYAKe8CZZOd5GZd) | 2:50 | 2020-05-25 | 2020-08-04 |
 | [Nika’s Theme](https://open.spotify.com/track/70mavZVvl0md1xQT1xB0cO) | [Peace Attack](https://open.spotify.com/artist/7HE5Ri9gkbRRQtRpmySeB5) | [Nika’s Theme](https://open.spotify.com/album/4jJbDX69zf3D9glKQUoSYC) | 1:58 | 2023-07-13 | 2023-07-28 |
@@ -4113,7 +4114,7 @@
 | [Train Tales](https://open.spotify.com/track/0QOwzo2WjLX7l30KMM9W9T) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Train Tales](https://open.spotify.com/album/3vB1aery0YEAhmASiTiAHY) | 1:37 | 2022-11-17 | 2022-11-25 |
 | [Train Tales](https://open.spotify.com/track/5PVWIBum4skGcuHkI8bWKB) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke) | [Train Tales](https://open.spotify.com/album/65VJznRcsus1IxGEyFNzft) | 1:37 | 2022-11-24 | 2022-12-16 |
 | [Train, Cold, Snow](https://open.spotify.com/track/1t4KoXjUlk2mUkwwOE8UFb) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Train, Cold, Snow](https://open.spotify.com/album/4Xq5jIZAmWjrumoTZSC11K) | 3:40 | 2021-03-14 | 2021-05-28 |
-| [Tranquility](https://open.spotify.com/track/5FXqkJaJmPdIzvJoiLc5M1) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Tranquility](https://open.spotify.com/album/1Z5lUqYNF8aCUrev9aJ3Oh) | 1:55 | 2026-07-24 |  |
+| [Tranquility](https://open.spotify.com/track/5FXqkJaJmPdIzvJoiLc5M1) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Tranquility](https://open.spotify.com/album/1Z5lUqYNF8aCUrev9aJ3Oh) | 1:55 | 2026-07-24 | 2026-08-02 |
 | [transient](https://open.spotify.com/track/5cvWy7iwLelwbElCPkBJh0) | [quietpoet](https://open.spotify.com/artist/2q5pvwsLdqcBwUZGcqrZkF) | [transience](https://open.spotify.com/album/5Ve7JYqq0UEBqhs6svh2um) | 1:54 | 2019-06-08 | 2019-11-22 |
 | [Transit\(ions\)](https://open.spotify.com/track/6BAN3aAd99anwTOAv7VmKh) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Transit\(ions\)](https://open.spotify.com/album/5iieWP46GtJp4CdEPuuX7R) | 2:12 | 2019-05-26\* | 2019-08-24 |
 | [Travel Companion](https://open.spotify.com/track/5mD7RCq2eMwxD64143pE3G) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Travel Companion](https://open.spotify.com/album/3laaZNgbE7tzpTXeyM0gQZ) | 1:57 | 2023-03-09 | 2023-10-20 |

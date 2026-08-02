@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Cerramos Julio con las novedades de la semana, nos vemos en Agosto con mas música\. Siddhartha en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,742 likes - 59 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,142 likes - 59 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 16 | [Lo Lente](https://open.spotify.com/track/7zXvS0UkPE36x1r3ZC17Y8) | [El Bellaco](https://open.spotify.com/artist/07FHNVEcv83tJCqSToBCID), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Lo Lente](https://open.spotify.com/album/2OghFaZjMrpmwYta1zsAUq) | 2:05 |
 | 17 | [KEDaaaTé](https://open.spotify.com/track/16nwMm8mdqJLE7MRRaWdcQ) | [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [KEDaaaTé](https://open.spotify.com/album/08ftLBL789zgnXDAj5bJ6p) | 2:48 |
 | 18 | [SEX](https://open.spotify.com/track/5kiWvJgAZGQkJBjC74892V) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm) | [SEX](https://open.spotify.com/album/2RxWA0aUnPk9DUiQssjlwD) | 3:36 |
-| 19 | [PlaYer </3](https://open.spotify.com/track/78qoYnsls2VDlwmnzmNv29) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [PlaYer </3](https://open.spotify.com/album/5vEGJyKYJjoXLP8aEqQvi5) | 2:49 |
+| 19 | [PLAYER </3](https://open.spotify.com/track/78qoYnsls2VDlwmnzmNv29) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [PLAYER </3](https://open.spotify.com/album/5vEGJyKYJjoXLP8aEqQvi5) | 2:49 |
 | 20 | [Así](https://open.spotify.com/track/5EJiR3xJitCvsVoCf0oDKC) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [Así](https://open.spotify.com/album/7HAGBrolfsdX5RVRNl5SdQ) | 3:14 |
 | 21 | [Buenas](https://open.spotify.com/track/4Aqn4dA7P7ZIwNuBoHbNcH) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Buenas](https://open.spotify.com/album/3LqngCYFdrRUJK08whT3hF) | 2:55 |
 | 22 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |

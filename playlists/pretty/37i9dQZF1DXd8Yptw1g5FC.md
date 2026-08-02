@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Doğu Swag, Kamuran Akkor ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,037 likes - 126 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,052 likes - 126 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 46 | [How Much Does It Take To Shift It All](https://open.spotify.com/track/0TgQDtN4IGHpUdAl97rXww) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [How Much Does It Take To Shift It All](https://open.spotify.com/album/4Mttw5x47ye4BjX9zrVdKv) | 2:33 |
 | 47 | [Bulutlarda](https://open.spotify.com/track/31jCAZrNLYOZXf6FytxmVv) | [Ogiboyz](https://open.spotify.com/artist/6PZVRSkk0MYKjww6d5Kmq4) | [Bulutlarda](https://open.spotify.com/album/2xIaEkykLpGBdPxuhMFUD9) | 2:25 |
 | 48 | [Müsadenizle Gençler \- Söyletme Beni](https://open.spotify.com/track/7Cbzl2rkbY1g8L1RcgPjdA) | [Yeliz](https://open.spotify.com/artist/3Oebtq87rysNEKW2bKMHoH) | [Müsadenizle Gençler \- Söyletme Beni](https://open.spotify.com/album/6EVr3GlmYFEJqGja3xdv71) | 3:12 |
-| 49 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
+| 49 | [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 |
 | 50 | [Moon](https://open.spotify.com/track/3t6W2jswrO0PjoBoCSVTbh) | [Soner Karaca](https://open.spotify.com/artist/1sBt5pbb0tW8VjLpmKXyLj) | [Moon](https://open.spotify.com/album/1xCBX0hSJOEprRJ0koSZ3q) | 4:06 |
 | 51 | [Belkide](https://open.spotify.com/track/0M5YtImXbHMDndiPGx6hRo) | [Eren Karayılan](https://open.spotify.com/artist/7bGkbxs0s0V3idSkzvEtKl), [Soykan](https://open.spotify.com/artist/24QqQUgcpOewncXBq7CPfU) | [Belkide](https://open.spotify.com/album/3QMpvfAV0V0cd6piRyfsbq) | 2:18 |
 | 52 | [istemedim](https://open.spotify.com/track/7cTUXJPvSGPrKciMiZGGkP) | [Serhat Erdem](https://open.spotify.com/artist/7daBPS2ipNHL5PbgsoNChW), [Pusat Yıldız](https://open.spotify.com/artist/2SSpfw7nQkm7k1EhIRp3Yv) | [istemedim](https://open.spotify.com/album/5tLtiVOHLotcLIgCpFDg7c) | 2:36 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 116 | [Sana Deliyim](https://open.spotify.com/track/3rrC22WA4HkzLiOTWQKcIQ) | [Barış Sevgen](https://open.spotify.com/artist/4Oj0bWnoA92OiOPtWiipD8) | [Sana Deliyim](https://open.spotify.com/album/3RCnLnoR14xvykOHl1TcDv) | 3:27 |
 | 117 | [Söndüm](https://open.spotify.com/track/57Ds1M5F3holJXmjMZmq1j) | [Comacan](https://open.spotify.com/artist/6MhszIlPyk0zYFtp7lrX5p) | [Söndüm](https://open.spotify.com/album/00pmD1c9bgM3QSiZR0LyoI) | 3:44 |
 | 118 | [Rooz O Shab](https://open.spotify.com/track/6HObf9TPe4vJQvRmRrfy0l) | [DJ Phellix](https://open.spotify.com/artist/3SpYdayszFL9XOR5Ur09zV), [DR ZAVIN](https://open.spotify.com/artist/0e0aoMtk3zIsAkuGrsdJAM), [EyeNaz](https://open.spotify.com/artist/6x8EHJBKT3SXbif450A1HS) | [Rooz O Shab](https://open.spotify.com/album/5cIih3B1UIK9CGyRqHVi30) | 5:50 |
-| 119 | [Kapı Orda](https://open.spotify.com/track/14zDSTfJshlI0aSX06Ehn0) | [Eren Can](https://open.spotify.com/artist/2cKfEC85SZW85ieXq60TvE) | [Kapı Orda](https://open.spotify.com/album/7LaoSMYknDYlMPcjoYqq5c) | 3:17 |
+| 119 | [Kapı Orda](https://open.spotify.com/track/14zDSTfJshlI0aSX06Ehn0) | [Erencan](https://open.spotify.com/artist/2jIBadm6tmGbPKZxTy9ywp) | [Kapı Orda](https://open.spotify.com/album/7LaoSMYknDYlMPcjoYqq5c) | 3:17 |
 | 120 | [Kartallar](https://open.spotify.com/track/5SOYli2QXVzdlyXZCY7MPn) | [Onur Şanlı](https://open.spotify.com/artist/0zdirxd23Xo6dOdNedfem0) | [Kartallar](https://open.spotify.com/album/0TKT93vVs6R6fvbUftQEwW) | 3:14 |
 | 121 | [Gel Deme](https://open.spotify.com/track/0ev3wlxy2YNJtJ73v9SLme) | [Emre Can](https://open.spotify.com/artist/6L9YFRcDEGDFTn0idUkd24) | [Gel Deme](https://open.spotify.com/album/1ZpEUk5ThlBNtLk9ZkVIk6) | 2:32 |
 | 122 | [Mevzu](https://open.spotify.com/track/5faML4aYxFbCldf68x11Rp) | [Çiğdem Şatıroğlu](https://open.spotify.com/artist/42N3vRJGFkjfxRB08CHZF3) | [Mevzu](https://open.spotify.com/album/6baMdXbvrqKeObwQC1DAF1) | 2:33 |
