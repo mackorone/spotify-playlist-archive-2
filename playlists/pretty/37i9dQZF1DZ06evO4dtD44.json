@@ -1,12 +1,12 @@
 {
   "description": "This is Jo\u00e3o Gilberto. The essential tracks, all in one playlist.",
-  "num_followers": 63672,
+  "num_followers": 63679,
   "original_name": "This Is Jo\u00e3o Gilberto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amvlgAAAAAC34SJm4a6G4ECj2TqxGv4R",
+  "snapshot_id": "am03AAAAAAAtbcLI/BqHPariMQQf0kxY",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Summer Samba",
+        "url": "https://open.spotify.com/album/04DUrFW9BaCSFn8w7gKbAc"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 129720,
+      "name": "Bim Bom - Live At Carnegie Hall/1964",
+      "url": "https://open.spotify.com/track/1HB3wCRjnQQI1e860vFfs9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Getz/Gilberto",
         "url": "https://open.spotify.com/album/73ZRKdD3Ds43IjHrhKgucY"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 225733,
       "name": "S\u00f3 Dan\u00e7o Samba",
       "url": "https://open.spotify.com/track/0LS3cTpTm5zPTmBcyIDfOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Summer Samba",
-        "url": "https://open.spotify.com/album/04DUrFW9BaCSFn8w7gKbAc"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        },
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 129720,
-      "name": "Bim Bom - Live At Carnegie Hall/1964",
-      "url": "https://open.spotify.com/track/1HB3wCRjnQQI1e860vFfs9"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 628535,
+  "num_followers": 628427,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -967,22 +967,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
-        "url": "https://open.spotify.com/album/71S5pWfykU58c88ZvIhKnw"
+        "name": "Nunca Sabr\u00e1s",
+        "url": "https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX"
       },
       "artists": [
         {
           "name": "Mi Sobrino Memo",
           "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
-        },
-        {
-          "name": "Fernanda Res\u00e9ndiz",
-          "url": "https://open.spotify.com/artist/7aGG3lQllsEIVIHhxyVAid"
         }
       ],
-      "duration_ms": 177637,
-      "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
-      "url": "https://open.spotify.com/track/3SqFG9ovXBMqIaCLONzWpT"
+      "duration_ms": 216017,
+      "name": "Nunca Sabr\u00e1s",
+      "url": "https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Nunca Sabr\u00e1s",
-        "url": "https://open.spotify.com/album/6ova79lcaiV9HgZN3qVrMX"
+        "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
+        "url": "https://open.spotify.com/album/71S5pWfykU58c88ZvIhKnw"
       },
       "artists": [
         {
           "name": "Mi Sobrino Memo",
           "url": "https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH"
+        },
+        {
+          "name": "Fernanda Res\u00e9ndiz",
+          "url": "https://open.spotify.com/artist/7aGG3lQllsEIVIHhxyVAid"
         }
       ],
-      "duration_ms": 216017,
-      "name": "Nunca Sabr\u00e1s",
-      "url": "https://open.spotify.com/track/4PgbgWa4umBGYbJfy10U8e"
+      "duration_ms": 177637,
+      "name": "Quiz\u00e1 Alg\u00fan D\u00eda",
+      "url": "https://open.spotify.com/track/3SqFG9ovXBMqIaCLONzWpT"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Si Nos Volvemos A Encontrar",
-        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
-      },
-      "artists": [
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 204507,
-      "name": "Si Nos Volvemos A Encontrar",
-      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
         "name": "Mi Amigo Chapul\u00edn",
         "url": "https://open.spotify.com/album/6k8Qp0O4XZhnIyw8pPE2TX"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 216000,
       "name": "Mi Amigo Chapul\u00edn",
       "url": "https://open.spotify.com/track/7bS79av4K7hPcAemnQabIl"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
+        "name": "Si Nos Volvemos A Encontrar",
+        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 204507,
+      "name": "Si Nos Volvemos A Encontrar",
+      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
     },
     {
       "added_at": "2024-07-11 01:38:58",

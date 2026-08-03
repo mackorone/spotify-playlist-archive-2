@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,645 songs - 10 day 9 hr 16 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,646 songs - 10 day 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4653,5 +4653,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4643 | [FROM THE SHADOWS](https://open.spotify.com/track/7tEGeo1rG64sgU7FZ2ivQ7) | [MX the American](https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU) | [FROM THE SHADOWS](https://open.spotify.com/album/3qvRFg9iJJMYuiqkBZYE2M) | 4:48 |
 | 4644 | [Unfaithfull](https://open.spotify.com/track/5IU31DNoQlGE1RURLKkKyZ) | [Aerocks](https://open.spotify.com/artist/6P2AR5uerZRgGhRX8pfGZf) | [Unfaithfull](https://open.spotify.com/album/1WtVj4kyR95YObew02ye1m) | 4:25 |
 | 4645 | [Chal Baarish Mein](https://open.spotify.com/track/0VlNoYkB28z04hg4k6GnKE) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Chal Baarish Mein](https://open.spotify.com/album/7cVIrp5FZGnC6ufek5Sykb) | 2:56 |
+| 4646 | [Cut Me Down to Size](https://open.spotify.com/track/5ZRkevvQxGto6eP71Teft8) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [Cut Me Down to Size](https://open.spotify.com/album/0oTtC46dVij7iYYAIaF6C7) | 3:44 |
 
-Snapshot ID: `AAAJdejX8PABNUp/kHluFx7gdhAptPrH`
+Snapshot ID: `AAAJdnCVgVOBcWg3IZdMr0pEtLsZ81aU`

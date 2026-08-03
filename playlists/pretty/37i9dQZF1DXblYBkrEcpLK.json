@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the great female artists from anime culture. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Cover: Daoko",
-  "num_followers": 198864,
+  "num_followers": 198865,
   "original_name": "Women of Anime",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-07-28 17:00:12",
       "album": {
-        "name": "\u831c",
-        "url": "https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 225153,
-      "name": "\u831c",
-      "url": "https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2"
-    },
-    {
-      "added_at": "2026-07-28 17:00:12",
-      "album": {
         "name": "\u6b8b\u9177\u306a\u591c\u306b\u8f1d\u3051 - Shine in the Cruel Night",
         "url": "https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw"
       },
@@ -671,6 +655,22 @@
     {
       "added_at": "2026-07-28 17:00:12",
       "album": {
+        "name": "\u831c",
+        "url": "https://open.spotify.com/album/3vTDr5tbMieEQZhxKTGMvL"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "duration_ms": 225153,
+      "name": "\u831c",
+      "url": "https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2"
+    },
+    {
+      "added_at": "2026-07-28 17:00:12",
+      "album": {
         "name": "The Story of Us",
         "url": "https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV"
       },
@@ -683,30 +683,6 @@
       "duration_ms": 267133,
       "name": "The Story of Us",
       "url": "https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq"
-    },
-    {
-      "added_at": "2026-07-28 17:00:12",
-      "album": {
-        "name": "\u8d85\u304b\u3050\u3084\u59eb\uff01",
-        "url": "https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR"
-      },
-      "artists": [
-        {
-          "name": "\u304b\u3050\u3084(cv.\u590f\u5409\u3086\u3046\u3053)",
-          "url": "https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres"
-        },
-        {
-          "name": "\u6708\u898b\u30e4\u30c1\u30e8(cv.\u65e9\u898b\u6c99\u7e54)",
-          "url": "https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD"
-        },
-        {
-          "name": "TAKU INOUE",
-          "url": "https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0"
-        }
-      ],
-      "duration_ms": 301617,
-      "name": "ray - \u8d85\u304b\u3050\u3084\u59eb\uff01 Version",
-      "url": "https://open.spotify.com/track/3V5bJpqNCHHi56pGZHNy1f"
     },
     {
       "added_at": "2026-07-28 17:00:12",
@@ -739,6 +715,30 @@
       "duration_ms": 227766,
       "name": "\u5927\u5927\u5927\u5927\u5927\u597d\u304d\u306a\u541b\u3078\u2661",
       "url": "https://open.spotify.com/track/0Yg7qzomy9oFixfKgXSUk9"
+    },
+    {
+      "added_at": "2026-07-28 17:00:12",
+      "album": {
+        "name": "\u8d85\u304b\u3050\u3084\u59eb\uff01",
+        "url": "https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u3050\u3084(cv.\u590f\u5409\u3086\u3046\u3053)",
+          "url": "https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres"
+        },
+        {
+          "name": "\u6708\u898b\u30e4\u30c1\u30e8(cv.\u65e9\u898b\u6c99\u7e54)",
+          "url": "https://open.spotify.com/artist/1QKkhBYoDQdMEaJNp2YuVD"
+        },
+        {
+          "name": "TAKU INOUE",
+          "url": "https://open.spotify.com/artist/1XR2SfRwBXboS4s1rOSYA0"
+        }
+      ],
+      "duration_ms": 301617,
+      "name": "ray - \u8d85\u304b\u3050\u3084\u59eb\uff01 Version",
+      "url": "https://open.spotify.com/track/3V5bJpqNCHHi56pGZHNy1f"
     },
     {
       "added_at": "2026-07-28 17:00:12",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-07-28 17:00:12",
       "album": {
-        "name": "Kawaii Kaiwai",
-        "url": "https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm"
+        "name": "\u65b0\u6642\u4ee3 (\u30a6\u30bf from ONE PIECE FILM RED)",
+        "url": "https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb"
       },
       "artists": [
         {
-          "name": "PiKi",
-          "url": "https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T"
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
         }
       ],
-      "duration_ms": 153230,
-      "name": "Kawaii Kaiwai",
-      "url": "https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl"
+      "duration_ms": 228214,
+      "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
+      "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"
     }
   ],
   "unique_name": "Women of Anime",

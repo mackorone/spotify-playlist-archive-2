@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 95177,
+  "num_followers": 95179,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amvlgAAAAADiItgZEip4Oxt80/MjClKF",
+  "snapshot_id": "am03AAAAAAD5Iea/vcm3J/zM9NqXRULj",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boven",
-        "url": "https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 284706,
-      "name": "Zaterdag",
-      "url": "https://open.spotify.com/track/141mW0BgAlJLZugUvKQuyM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aan",
         "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 219546,
       "name": "Zoutelande",
       "url": "https://open.spotify.com/track/6aAJY5FYW0TMLsUe2T7x4p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boven",
+        "url": "https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 284706,
+      "name": "Zaterdag",
+      "url": "https://open.spotify.com/track/141mW0BgAlJLZugUvKQuyM"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alles Is Liefde",
-        "url": "https://open.spotify.com/album/00t8725Mi7kTI3vspkGvfQ"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 209755,
-      "name": "Alles Is Liefde",
-      "url": "https://open.spotify.com/track/0cKngKox9JinYgGOSNIT3A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aan",
         "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 250506,
       "name": "Over De Dam",
       "url": "https://open.spotify.com/track/5a6UWbPBj1cAipfZzwDXRj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alles Is Liefde",
+        "url": "https://open.spotify.com/album/00t8725Mi7kTI3vspkGvfQ"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 209755,
+      "name": "Alles Is Liefde",
+      "url": "https://open.spotify.com/track/0cKngKox9JinYgGOSNIT3A"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watermakers",
-        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
+        "name": "In Het Midden Van Alles",
+        "url": "https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 225266,
-      "name": "Ze Is Er Niet",
-      "url": "https://open.spotify.com/track/6V6Q7mwxQ5j1MryBuoJ8FJ"
+      "duration_ms": 278813,
+      "name": "Open Je Ogen",
+      "url": "https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Het Midden Van Alles",
-        "url": "https://open.spotify.com/album/0x77neZ9jpTsX2RAhdCNB6"
+        "name": "Watermakers",
+        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
         }
       ],
-      "duration_ms": 278813,
-      "name": "Open Je Ogen",
-      "url": "https://open.spotify.com/track/0TT4Qc6UEJAa9JNq4g714R"
+      "duration_ms": 225266,
+      "name": "Ze Is Er Niet",
+      "url": "https://open.spotify.com/track/6V6Q7mwxQ5j1MryBuoJ8FJ"
     },
     {
       "added_at": null,

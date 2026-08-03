@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,279 songs - 3 day 6 hr 56 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,280 songs - 3 day 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1287,5 +1287,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1277 | [Drunk lullaby](https://open.spotify.com/track/3Au7vtaP1SxHi2OfGSCGnW) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [Nowhere EP](https://open.spotify.com/album/0qIP58YoRrNXLq25L4DRau) | 3:07 |
 | 1278 | [Speed Dealer](https://open.spotify.com/track/4FuIagU6Rfw9cIQO4cUA9V) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Speed Dealer](https://open.spotify.com/album/5BL6SsxWXFOlmHunSjvEky) | 5:10 |
 | 1279 | [So Long](https://open.spotify.com/track/3xun1vv9RHLZzUOBuWY8UZ) | [Cameron Avery](https://open.spotify.com/artist/17qKi2b7CPrc03OEvQz9Tr) | [Speed Dealer](https://open.spotify.com/album/5BL6SsxWXFOlmHunSjvEky) | 4:40 |
+| 1280 | [Enough Is Enough](https://open.spotify.com/track/4BKlAqMNx0YMFTuU39aKb3) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:46 |
 
-Snapshot ID: `AAAKA+JzhylD+43e/eyEA+iytivYWKOT`
+Snapshot ID: `AAAKBG31345WOy2fospO+wpDA5QScR7i`

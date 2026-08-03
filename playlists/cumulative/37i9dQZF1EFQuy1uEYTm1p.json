@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "main attraction",
+        "url": "https://open.spotify.com/album/7cvqprEzHZ0LJL8Y4EzFCr"
+      },
+      "artists": [
+        {
+          "name": "Maeesha b",
+          "url": "https://open.spotify.com/artist/32kGDmP5SLA0BdfVQNhkq7"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138979,
+      "name": "main attraction",
+      "url": "https://open.spotify.com/track/0e3O4Cz6PvCTrDAp6JBiZO"
+    },
+    {
+      "album": {
         "name": "Rocket Power",
         "url": "https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf"
       },

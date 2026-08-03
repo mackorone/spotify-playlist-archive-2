@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 
 > The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,700 likes - 150 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,714 likes - 150 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwjaKZ52hOt.md) - [plain]
 | 4 | [Five Little Ducks](https://open.spotify.com/track/43CWnT7ZK1NyQhc8NbJQuU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Five Little Ducks](https://open.spotify.com/album/6quGBbRBXpIiMYY0Eilrnh) | 2:29 |
 | 5 | [Comin Round The Mountain](https://open.spotify.com/track/5QHIN7pxBpg0U83IacY0Nv) | [Martin and Rose Music](https://open.spotify.com/artist/61VbOFPL7RIKt0Q1KOykSU) | [Comin Round The Mountain](https://open.spotify.com/album/6e8Mw61xVpsQsxDcxNByC8) | 2:32 |
 | 6 | [John Jacob Jingleheimer Schmidt \- His Name Is My Name Too](https://open.spotify.com/track/6jClJoGhCavKB0ao6zMRGu) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [John Jacob Jingleheimer Schmidt \(His Name Is My Name Too\)](https://open.spotify.com/album/3sH9TeAkwquzvkCddGddLM) | 1:54 |
-| 7 | [Five Little Monkeys](https://open.spotify.com/track/72Lo8CwVosyInkViXWPVrh) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Hogi Sing\-Along](https://open.spotify.com/album/39pJlWsJz0W3KsO62gLyMg) | 2:04 |
+| 7 | [Five Little Monkeys](https://open.spotify.com/track/72Lo8CwVosyInkViXWPVrh) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ), [Hogi](https://open.spotify.com/artist/4toy7dYDw94YRovmat294n) | [Pinkfong & Hogi Sing\-Along](https://open.spotify.com/album/39pJlWsJz0W3KsO62gLyMg) | 2:04 |
 | 8 | [Six Little Ducks](https://open.spotify.com/track/7jgMcaafsL3YvZyymuuJSy) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Six Little Ducks](https://open.spotify.com/album/1JBMMyIQyBfemZCWRmPDx1) | 1:58 |
 | 9 | [Shoo Fly, Don't Bother Me](https://open.spotify.com/track/6fTNBTJGcIjGiq8tU7PxiE) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Shoo Fly, Don't Bother Me](https://open.spotify.com/album/7ylz9WYmjdaRaDUFSW5oTl) | 1:23 |
 | 10 | [If You're Happy And You Know It Clap Your Hands](https://open.spotify.com/track/1RZmi7MaS1rR9gMtg6UpFj) | [Nursery Rhymes and Kids Songs](https://open.spotify.com/artist/5q0OF8Ql4tW3OWFXftiUAO) | [Old Macdonald Had A Farm & more Playtime Songs](https://open.spotify.com/album/08hGwlAcjuErXnfyeBJudC) | 2:53 |

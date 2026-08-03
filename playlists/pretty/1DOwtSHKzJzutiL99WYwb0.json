@@ -1,13 +1,77 @@
 {
-  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: STAYC",
-  "num_followers": 757,
+  "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: JENNIE",
+  "num_followers": 756,
   "original_name": "K-Pop Bias : KPOP ESSENTIAL",
   "owner": {
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAIQDA4eqvU4z0EAFMZdkvYjsr/XDyO",
+  "snapshot_id": "AAAISKYlwG4nABN7XlztOyl7b9vawt60",
   "tracks": [
+    {
+      "added_at": "2026-08-03 01:17:41",
+      "album": {
+        "name": "Less than a Lover",
+        "url": "https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Less than a Lover",
+      "url": "https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD"
+    },
+    {
+      "added_at": "2026-08-03 01:17:29",
+      "album": {
+        "name": "KARD 1st Album 'Where To Now? (Part.2) : NOWHERE'",
+        "url": "https://open.spotify.com/album/5gfNUlvzZB0T5Qj4v5cNiz"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/64VnWqnEIz130BnVlqYHgV"
+    },
+    {
+      "added_at": "2026-08-03 01:18:06",
+      "album": {
+        "name": "<itsnotover>",
+        "url": "https://open.spotify.com/album/5QN6OFQqJ2tM7d5Sh3wceq"
+      },
+      "artists": [
+        {
+          "name": "idntt",
+          "url": "https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Kids Return",
+      "url": "https://open.spotify.com/track/6iJFM7bEdD06xKggWoPKXq"
+    },
+    {
+      "added_at": "2026-08-03 01:18:37",
+      "album": {
+        "name": "99 Degrees",
+        "url": "https://open.spotify.com/album/4Is832uPcdyCDQ2dupadBg"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "duration_ms": 251000,
+      "name": "99 Degrees",
+      "url": "https://open.spotify.com/track/0Adkq5CkilX52wKp7GzRct"
+    },
     {
       "added_at": "2026-06-29 08:45:52",
       "album": {
@@ -1567,70 +1631,6 @@
       "duration_ms": 135000,
       "name": "Bora",
       "url": "https://open.spotify.com/track/6iForfwVkmj9Wekx04lG4v"
-    },
-    {
-      "added_at": "2025-07-22 07:06:41",
-      "album": {
-        "name": "CHAMELEON",
-        "url": "https://open.spotify.com/album/61lFO56ewu4yjeGKc8UnA5"
-      },
-      "artists": [
-        {
-          "name": "YOON SAN-HA",
-          "url": "https://open.spotify.com/artist/6zLERXpqnnXhEnhva48jKW"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "EXTRA VIRGIN",
-      "url": "https://open.spotify.com/track/6jl087OUMBa74HMWRNcCtK"
-    },
-    {
-      "added_at": "2025-07-22 07:06:52",
-      "album": {
-        "name": "Go Back To The Future",
-        "url": "https://open.spotify.com/album/2sOb21DLBATC7czm21LQoM"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "BTTF",
-      "url": "https://open.spotify.com/track/4gkiXKGyp4PnHnOO70q8bK"
-    },
-    {
-      "added_at": "2025-07-22 07:07:02",
-      "album": {
-        "name": "IGNITION",
-        "url": "https://open.spotify.com/album/5jKxRZK8aNZpTKqBF3Qr4q"
-      },
-      "artists": [
-        {
-          "name": "NOWZ",
-          "url": "https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "EVERGLOW",
-      "url": "https://open.spotify.com/track/0UkBTSuLxtdZa4gy2kvMIa"
-    },
-    {
-      "added_at": "2025-07-22 07:07:53",
-      "album": {
-        "name": "One Last Day",
-        "url": "https://open.spotify.com/album/2YApgTwrbo0nig3GyQvPbF"
-      },
-      "artists": [
-        {
-          "name": "Jung Yong Hwa",
-          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Night Runner (Shooting Star)",
-      "url": "https://open.spotify.com/track/1b3r8lsK8BJSsOUoIpRTLG"
     }
   ],
   "unique_name": "K-Pop Bias : KPOP ESSENTIAL",

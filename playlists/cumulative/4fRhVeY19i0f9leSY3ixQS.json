@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Amerta Naraka",
+        "url": "https://open.spotify.com/album/4ra3kWjxuQAqHnGAQAzJ7J"
+      },
+      "artists": [
+        {
+          "name": "Atomic Dancing Society",
+          "url": "https://open.spotify.com/artist/39Zdqlf2meV6IjjAWOiWYv"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172771,
+      "name": "Amerta Naraka",
+      "url": "https://open.spotify.com/track/0PzwwxZS2GsRXNhX1HwdvV"
+    },
+    {
+      "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/2rggkuITU9ORPXdSpe5dGB"
       },
@@ -3240,6 +3258,24 @@
       "duration_ms": 239036,
       "name": "BLACK JESUS",
       "url": "https://open.spotify.com/track/6asKYlvUv5vCASA76O7qrI"
+    },
+    {
+      "album": {
+        "name": "Creation and Crisis",
+        "url": "https://open.spotify.com/album/6hIk4tz3pAtDOcb0F1StoX"
+      },
+      "artists": [
+        {
+          "name": "Saved by Skarlet",
+          "url": "https://open.spotify.com/artist/695H7ZBBO6pKUjuHEuyqsP"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233851,
+      "name": "Black Knight",
+      "url": "https://open.spotify.com/track/7GyRC1pPJtAPtXKNtm1xIF"
     },
     {
       "album": {
@@ -17611,6 +17647,24 @@
     },
     {
       "album": {
+        "name": "Lie of The Pharisees",
+        "url": "https://open.spotify.com/album/2uMW4GKPuMkWaKEfTrsezJ"
+      },
+      "artists": [
+        {
+          "name": "Saved by Skarlet",
+          "url": "https://open.spotify.com/artist/695H7ZBBO6pKUjuHEuyqsP"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267990,
+      "name": "Lie of The Pharisees",
+      "url": "https://open.spotify.com/track/56ftHMAoBVgtJqFZfbpVsG"
+    },
+    {
+      "album": {
         "name": "Extendead Play",
         "url": "https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB"
       },
@@ -19630,6 +19684,24 @@
       "duration_ms": 305250,
       "name": "Merula",
       "url": "https://open.spotify.com/track/6Zk3cIezRFEyI8699OUGpN"
+    },
+    {
+      "album": {
+        "name": "Method",
+        "url": "https://open.spotify.com/album/6jJk0RbeTLkISDIGlL0ATo"
+      },
+      "artists": [
+        {
+          "name": "ShadowTribe",
+          "url": "https://open.spotify.com/artist/7CEalWbyS2IE4HGyOF2dvw"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Method",
+      "url": "https://open.spotify.com/track/4HYaA98uqTpB3kkOfJAV27"
     },
     {
       "album": {
@@ -24763,6 +24835,24 @@
     },
     {
       "album": {
+        "name": "Red Ruta",
+        "url": "https://open.spotify.com/album/0bplffgARSW0e2hxmrO16P"
+      },
+      "artists": [
+        {
+          "name": "Azmora",
+          "url": "https://open.spotify.com/artist/06i8TDgphThToFQPy7aPAO"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237319,
+      "name": "Red Ruta",
+      "url": "https://open.spotify.com/track/34pZaGYBjX7O94Cun7pHkT"
+    },
+    {
+      "album": {
         "name": "Hard to Get Out",
         "url": "https://open.spotify.com/album/4liZsHktfJ0jxtADs418hs"
       },
@@ -29216,6 +29306,24 @@
       "duration_ms": 156579,
       "name": "Strong, Proud and Ignorant",
       "url": "https://open.spotify.com/track/3DpJLLh4fVgLCARmZrsAdd"
+    },
+    {
+      "album": {
+        "name": "STRUCTURE",
+        "url": "https://open.spotify.com/album/6qCBNYhiY355NGq3yXUIcl"
+      },
+      "artists": [
+        {
+          "name": "Snow64",
+          "url": "https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237736,
+      "name": "STRUCTURE",
+      "url": "https://open.spotify.com/track/0y53w0b7C8TlCu7RvFCrPe"
     },
     {
       "album": {
@@ -34544,7 +34652,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 240000,
       "name": "We Are The Lies",
       "url": "https://open.spotify.com/track/3G2y193uvEhYzfTRuhYNby"

@@ -5819,6 +5819,24 @@
     },
     {
       "album": {
+        "name": "Amigos Reales",
+        "url": "https://open.spotify.com/album/6apKUDd0yjNm0l55cluybL"
+      },
+      "artists": [
+        {
+          "name": "Alison Rios",
+          "url": "https://open.spotify.com/artist/5636FjEzpovBP9SrT0zNsc"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Amigos Reales",
+      "url": "https://open.spotify.com/track/4MM5YmLN0Knf385DUC2pfH"
+    },
+    {
+      "album": {
         "name": "Pure Good Vibes",
         "url": "https://open.spotify.com/album/05NCI0PJ7eFL92JdAAeR3n"
       },

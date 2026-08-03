@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amvlgAAAAADF6242Aknoz4RwM4sHwgo3",
+  "snapshot_id": "am03AAAAAABxyeN7CbM4EmITf5rG1S+V",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wait For Dark",
-        "url": "https://open.spotify.com/album/2madKsttGJIXf3yTMIS5oE"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 258850,
-      "name": "Wait For Dark",
-      "url": "https://open.spotify.com/track/5LCYfYYsJN96vzy9a8SqIY"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,26 @@
       "duration_ms": 189579,
       "name": "Still There",
       "url": "https://open.spotify.com/track/7Dux06ZgwiPe0LHb4WAkGP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wait For Dark (The Toxic Avenger Remix)",
+        "url": "https://open.spotify.com/album/1YvBftCNy214fE35UO0Avr"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        },
+        {
+          "name": "The Toxic Avenger",
+          "url": "https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s"
+        }
+      ],
+      "duration_ms": 241417,
+      "name": "Wait For Dark - The Toxic Avenger Remix",
+      "url": "https://open.spotify.com/track/1st4sL0Z4ShdKkXnqR1PLp"
     },
     {
       "added_at": null,
@@ -75,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Know",
-        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 233965,
-      "name": "Know",
-      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
       },
@@ -103,6 +91,22 @@
       "duration_ms": 215986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/6nH7HTesM0q7KFtFISslhC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Know",
+        "url": "https://open.spotify.com/album/56XcNdwP2WxffdAqcadDtr"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 233965,
+      "name": "Know",
+      "url": "https://open.spotify.com/track/5Gc6MRG6vn9KqptMzqc2tQ"
     },
     {
       "added_at": null,
@@ -139,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/66JcnvXctFOhPeNeYH6gTh"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 201534,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/3LZJ9sQuqQxYXK7xr7a26z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
       },
@@ -167,6 +155,22 @@
       "duration_ms": 181771,
       "name": "Amanita",
       "url": "https://open.spotify.com/track/22MOx6iBZP7vE2jXx8l8tF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stick to Silence",
+        "url": "https://open.spotify.com/album/7wSeCh7X6Ff29Tr5Loxhy8"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 226456,
+      "name": "Stick to Silence",
+      "url": "https://open.spotify.com/track/2p8TppNxlaaQM6Qo0IdcfS"
     },
     {
       "added_at": null,
@@ -203,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stick to Silence",
-        "url": "https://open.spotify.com/album/7wSeCh7X6Ff29Tr5Loxhy8"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 226456,
-      "name": "Stick to Silence",
-      "url": "https://open.spotify.com/track/2p8TppNxlaaQM6Qo0IdcfS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're in both dreams (and you're scared)",
         "url": "https://open.spotify.com/album/4m6EgW4rgG86qHqBEKr3Qc"
       },
@@ -231,6 +219,22 @@
       "duration_ms": 244767,
       "name": "Houses of American Style",
       "url": "https://open.spotify.com/track/6eDw8rZ9bJWCkoaFtLDh6P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boy",
+        "url": "https://open.spotify.com/album/66JcnvXctFOhPeNeYH6gTh"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 201534,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/3LZJ9sQuqQxYXK7xr7a26z"
     },
     {
       "added_at": null,
@@ -356,9 +360,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 252169,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/2vf8GGzKCRtvjyz0MVL5S1"
+      "duration_ms": 241920,
+      "name": "Mike + Susan",
+      "url": "https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ"
     }
   ],
   "unique_name": "This Is P\u00c6RISH",

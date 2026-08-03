@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, Mia Morris, Jinx & The Royals and more",
+  "description": "With Jinx & The Royals, Die Mannequin, Mia Morris and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 183721,
       "name": "Air",
       "url": "https://open.spotify.com/track/4k99jKmn6BNhTlrMc6Mkto"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 180639,
       "name": "Any Way You Want",
       "url": "https://open.spotify.com/track/4uVlLxmZBlkv5D21NrOEDb"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 209600,
       "name": "Bad Medicine",
       "url": "https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 168767,
       "name": "Behind",
       "url": "https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 206969,
       "name": "Blow My Fuse",
       "url": "https://open.spotify.com/track/3TjmBYShmG72pv1nwSU6B3"
@@ -1900,7 +1900,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 257533,
       "name": "Candide",
       "url": "https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 191140,
       "name": "Catapult",
       "url": "https://open.spotify.com/track/6akUUK3X6K49283AbwHJK4"
@@ -2242,7 +2242,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 275306,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/08bgaYICwxNPb8gRyp08iX"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 220150,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/16d0yg7oUxPbVwipccQ2L2"
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 197320,
       "name": "Don't You Wanna Feel",
       "url": "https://open.spotify.com/track/2MxvlboakUTeqVPamhUNcM"
@@ -3402,7 +3402,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 278528,
       "name": "Feast On Scraps",
       "url": "https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ"
@@ -3420,7 +3420,7 @@
       ],
       "date_added": "2026-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 193488,
       "name": "Feels Like",
       "url": "https://open.spotify.com/track/4s1EgFCKaPK4Ml5lsOCsxn"
@@ -3950,7 +3950,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 229506,
       "name": "Get You Off",
       "url": "https://open.spotify.com/track/0ZgaHE56xKJQhV2wroTuH5"
@@ -3990,6 +3990,24 @@
       "duration_ms": 145454,
       "name": "Gimme",
       "url": "https://open.spotify.com/track/2sKjgZiOUGoiflC6eo1UPg"
+    },
+    {
+      "album": {
+        "name": "Peace Anthems",
+        "url": "https://open.spotify.com/album/4Q6nmOQbrrmJUud3CsqEkK"
+      },
+      "artists": [
+        {
+          "name": "Liquid Blue",
+          "url": "https://open.spotify.com/artist/1Cel715NcJntccF625rooX"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252596,
+      "name": "Gimme Shelter",
+      "url": "https://open.spotify.com/track/2QmtAJhBjuIKUfl4SlAb5Y"
     },
     {
       "album": {
@@ -4184,7 +4202,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 130245,
       "name": "Gravity Falls",
       "url": "https://open.spotify.com/track/2JtKoVYwMlmNsrhHZXyzCi"
@@ -4472,7 +4490,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 223812,
       "name": "HEY!",
       "url": "https://open.spotify.com/track/5FLkdgrcmn9w9wC2E91icQ"
@@ -4638,7 +4656,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 164573,
       "name": "Hot Kiss",
       "url": "https://open.spotify.com/track/0VjSRHpGUhITXbtyC3GW3H"
@@ -5702,7 +5720,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 189453,
       "name": "Kiss Your Mama!",
       "url": "https://open.spotify.com/track/7DSwyrYR8nHyVIZNsfs6ei"
@@ -5738,7 +5756,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -6052,6 +6070,24 @@
       "duration_ms": 127596,
       "name": "Lights Go Low",
       "url": "https://open.spotify.com/track/4CUrqwPPuDRFnzy0gOYzxL"
+    },
+    {
+      "album": {
+        "name": "Incantation / Like A Prayer",
+        "url": "https://open.spotify.com/album/2vWhmxl1kzVFlC2H25RdUo"
+      },
+      "artists": [
+        {
+          "name": "THE HOWLING",
+          "url": "https://open.spotify.com/artist/0HL1swN2NXX8BmvIDsO3iJ"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207874,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/4XTVuhlXNoQ49xE6mz4Z9Q"
     },
     {
       "album": {
@@ -6906,7 +6942,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 238013,
       "name": "Mr Colson",
       "url": "https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p"
@@ -7868,7 +7904,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 180204,
       "name": "Only When She\u2019s Gone",
       "url": "https://open.spotify.com/track/0ONgDTF3scHkuLiB5Ohmtv"
@@ -8340,7 +8376,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 191440,
       "name": "Psycho Bitch",
       "url": "https://open.spotify.com/track/14j5UBobMdPf068lJ5Xnv5"
@@ -9036,7 +9072,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 126253,
       "name": "She's Fun",
       "url": "https://open.spotify.com/track/5i6Kj2owWYDoZusRS57iQ6"
@@ -9144,7 +9180,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 159914,
       "name": "Shrivel/Shrink",
       "url": "https://open.spotify.com/track/0bErIJW6hWVkOW8BIHMCNK"
@@ -9490,7 +9526,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 198778,
       "name": "Step Outside",
       "url": "https://open.spotify.com/track/3EbZm1kpZC2b0mwPMbGWL3"
@@ -9526,7 +9562,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 175435,
       "name": "Stfu",
       "url": "https://open.spotify.com/track/2pfrfu9M4ynsEWA0bUAoc2"
@@ -9544,7 +9580,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 141333,
       "name": "Sticky Honey",
       "url": "https://open.spotify.com/track/5NXsSgIvDLPmazTKCkcPys"
@@ -9710,7 +9746,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 162226,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG"
@@ -9966,7 +10002,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 223654,
       "name": "The Black Hole In The Sky",
       "url": "https://open.spotify.com/track/1k6zaXUEyCFyNjqVVjrEWQ"
@@ -10586,7 +10622,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 234640,
       "name": "Upside Down Cross",
       "url": "https://open.spotify.com/track/0lM3X9CdTPbL5B7wnFsBs8"
@@ -11058,6 +11094,24 @@
       "duration_ms": 174999,
       "name": "When the Heart Says Goodbye",
       "url": "https://open.spotify.com/track/15lNP5Q4MhSHIwSGTZ7u5k"
+    },
+    {
+      "album": {
+        "name": "Elephant in the Room",
+        "url": "https://open.spotify.com/album/2GFGOlBCvqm96nFNcRqjLm"
+      },
+      "artists": [
+        {
+          "name": "The Soap Girls",
+          "url": "https://open.spotify.com/artist/1OLHfdAPzzmWwnOVSX67km"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264333,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/5CeAbdD5YzaXkUDQG7J7oq"
     },
     {
       "album": {

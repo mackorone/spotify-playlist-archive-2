@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Ariana Grande, Luciano, Jazeek, Selena Gomez, Chapo102  & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,779 likes - 94 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,774 likes - 94 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

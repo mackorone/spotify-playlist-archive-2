@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 111822,
+  "num_followers": 111821,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amvlgAAAAABHqstHR5sUFWSFWgc5RbW3",
+  "snapshot_id": "am03AAAAAACXMijJL0NYW74xMtaS+xjE",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 305026,
-      "name": "Memories of Green",
-      "url": "https://open.spotify.com/track/0rHCW5eZ35QmQNVYyozAnZ"
+      "duration_ms": 180933,
+      "name": "Tears in Rain",
+      "url": "https://open.spotify.com/track/2LxEIWrZkzfc55c3rk05DH"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 180933,
-      "name": "Tears in Rain",
-      "url": "https://open.spotify.com/track/2LxEIWrZkzfc55c3rk05DH"
+      "duration_ms": 305026,
+      "name": "Memories of Green",
+      "url": "https://open.spotify.com/track/0rHCW5eZ35QmQNVYyozAnZ"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 312826,
-      "name": "Through the Night Mist",
-      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 340426,
       "name": "Memories of Blue",
       "url": "https://open.spotify.com/track/4VhnhcqEEy3n5LYHOqI5Rh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 312826,
+      "name": "Through the Night Mist",
+      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Early Years",
-      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Antarctica (Remastered)",
         "url": "https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 352386,
       "name": "Antarctica Echoes - Remastered",
       "url": "https://open.spotify.com/track/0tahkaeFQhdXwUrJCECJ89"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Early Years",
+      "url": "https://open.spotify.com/track/3oJDSAalrpL8oSZyOBhFPX"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alexander (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
+        "name": "The City",
+        "url": "https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 277320,
-      "name": "Eternal Alexander (From \"Alexander\" Soundtrack)",
-      "url": "https://open.spotify.com/track/6DDH5VNbeYP5Z7IpQJSv1H"
+      "duration_ms": 297666,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The City",
-        "url": "https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r"
+        "name": "Alexander (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4znQpOW0WhreuYyRJSLyw0"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 297666,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07"
+      "duration_ms": 277320,
+      "name": "Eternal Alexander (From \"Alexander\" Soundtrack)",
+      "url": "https://open.spotify.com/track/6DDH5VNbeYP5Z7IpQJSv1H"
     },
     {
       "added_at": null,
@@ -823,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Orama",
-        "url": "https://open.spotify.com/album/51s6WeUBQ2vFBkVVyykCGt"
+        "name": "The City",
+        "url": "https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r"
       },
       "artists": [
-        {
-          "name": "Vassilis Saleas",
-          "url": "https://open.spotify.com/artist/66OwTEGfeqS7497NnR99cj"
-        },
         {
           "name": "Vangelis",
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 223186,
-      "name": "L'enfant",
-      "url": "https://open.spotify.com/track/3vL5oFXB5ZDhYbzwmp3mnc"
+      "duration_ms": 256266,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/2hJ1ZvyDUomcJZPB9deUq9"
     }
   ],
   "unique_name": "This Is Vangelis",

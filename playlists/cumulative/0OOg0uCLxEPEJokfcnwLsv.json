@@ -7135,6 +7135,24 @@
     },
     {
       "album": {
+        "name": "Riot Town",
+        "url": "https://open.spotify.com/album/4eTh4YoamKGMXtqA2Dmc5x"
+      },
+      "artists": [
+        {
+          "name": "NALGO BAY",
+          "url": "https://open.spotify.com/artist/1I1kjYsnaIoDvGID1UvloM"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214504,
+      "name": "Riot Town",
+      "url": "https://open.spotify.com/track/0xax0lS6CEJnsXINvawN84"
+    },
+    {
+      "album": {
         "name": "Phantom Heart",
         "url": "https://open.spotify.com/album/4DarEB0vxOHFVTDUnKWXi8"
       },

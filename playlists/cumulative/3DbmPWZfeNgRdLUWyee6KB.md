@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,341 songs - 3 day 5 hr 59 min
+1,345 songs - 3 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,6 +664,7 @@
 | [Lovekomotive](https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Lovekomotive](https://open.spotify.com/album/7oi4Z60udYyTT4UnREzG9L) | 3:33 | 2025-12-15 | 2026-01-15 |
 | [Loverboy](https://open.spotify.com/track/0tWLQ2YmQ3MoCaZkckzXkY) | [The Falls](https://open.spotify.com/artist/64VoUwM0Ui5gXHMrzOPOgA) | [Loverboy](https://open.spotify.com/album/5mmkHXR5YMkbdNbJ6EXRQF) | 2:53 | 2026-07-11 |  |
 | [Loyalty \- Official Instrumental](https://open.spotify.com/track/4uSEpNSqv2GxEChNDydMxD) | [Young Bleed](https://open.spotify.com/artist/5GQgxUq4MOuXXV99WrRuev), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Loyalty \(Official Instrumental\)](https://open.spotify.com/album/0M5TSATqPAncC0iVtvSsi6) | 2:54 | 2025-09-11 | 2025-11-29 |
+| [Luce dietro uno sbaglio](https://open.spotify.com/track/190q5mlywVt3iNlcRE1zVh) | [Diego Marangiolo](https://open.spotify.com/artist/54wSnyEqvXdVX8wvfsZccA) | [Luce dietro uno sbaglio](https://open.spotify.com/album/0fGXuQkb7Y2WfmF7dU1Atk) | 4:28 | 2026-08-02 |  |
 | [Lucky](https://open.spotify.com/track/2lMn6SCGmnDfZNs9KaaO6a) | [Adrian Wang](https://open.spotify.com/artist/3ppXRwJyEfcCNHLVplAIty) | [Wrote You in My Heart](https://open.spotify.com/album/0KZL4Ft4BeL8A5ynO5ql3d) | 3:14 | 2026-05-21 | 2026-07-03 |
 | [Lueg mi a \- Dänk was wotsch](https://open.spotify.com/track/5k03obY555MhUQAQwxq7OF) | [Manou](https://open.spotify.com/artist/7l1lEpbeMCACME9YwfFBz6) | [Lueg mi a \- Dänk was wotsch](https://open.spotify.com/album/5dvntdIVcCo5gjG7ocPYfK) | 3:24 | 2026-01-30 | 2026-02-28 |
 | [Lugar Nenhum](https://open.spotify.com/track/6t18UJjBI9Ee7QELywUMjH) | [LONES](https://open.spotify.com/artist/4yh7vFViUknQaxgIe23tw0), [Lia Monteiro](https://open.spotify.com/artist/3Z66F0k3qGbKKCclCpQQ1o) | [Lugar Nenhum](https://open.spotify.com/album/0RTIBHXrkj1yDutHJZXwDk) | 3:41 | 2026-07-15 |  |
@@ -950,6 +951,7 @@
 | [Sabor a Café](https://open.spotify.com/track/0EVejdb25HjSn1MEi9N8sw) | [Samuel Calderón](https://open.spotify.com/artist/6VFOsXn6LfGB6MMdQzvs4l) | [Problema Favorito](https://open.spotify.com/album/0NJKShNiu4WU6Iqxl9R6Ww) | 3:24 | 2025-12-15 | 2026-01-15 |
 | [Sai mondo l'ho capito](https://open.spotify.com/track/7IUdrwykrrNMjk68kaRzZm) | [kreio](https://open.spotify.com/artist/3kRclwJ3uJqLsAYwLLjcZK) | [Sai mondo l'ho capito](https://open.spotify.com/album/5V4C0WT4qhZfFAJnI1AOzK) | 3:17 | 2026-03-09 | 2026-04-12 |
 | [Salga el sol](https://open.spotify.com/track/7kUMy7807NMwPbkU3oecpG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:25 | 2026-05-26 | 2026-07-03 |
+| [Salida](https://open.spotify.com/track/34Aj31aeIkukCiYlbQjsMe) | [Jay Hofman](https://open.spotify.com/artist/4WWuKUayc9e9IQm8cAV72x) | [Salida](https://open.spotify.com/album/09qRipyIm17H5QKkqjACuF) | 2:57 | 2026-08-02 |  |
 | [Save Your Day](https://open.spotify.com/track/2buLhNAOppaFzOUkH0DME9) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Save Your Day](https://open.spotify.com/album/6AW6v9JXXFuBA16V11Zn7m) | 2:58 | 2025-10-10 | 2025-11-29 |
 | [Saving a Song](https://open.spotify.com/track/1sCFMRorslEb20pXtIOYYz) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Saving a Song](https://open.spotify.com/album/1gGtfyU4EPhlsle2aEhFrO) | 3:18 | 2026-03-02 | 2026-05-14 |
 | [Saw Satan](https://open.spotify.com/track/6msiwsi2zbFjUCufVX6TWS) | [213NINJA](https://open.spotify.com/artist/1cyR5va0xoqUL8D8dqxMzH) | [Saw Satan](https://open.spotify.com/album/3eXzadT7PlgQUOCa71w3PH) | 1:43 | 2026-07-06 |  |
@@ -1287,12 +1289,14 @@
 | [Where Gods Lie](https://open.spotify.com/track/2TVpP80tpLVOVeq1YKOlVV) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Our Place Behind the Stars](https://open.spotify.com/album/6LNqoOjahbMiv5j00m9Maw) | 4:19 | 2025-12-21 | 2026-01-15 |
 | [Where it began](https://open.spotify.com/track/7FxotCXuLecKLYZvlk6BLS) | [Patrick van Bergen](https://open.spotify.com/artist/0iIsumYuMvo8U1dfOVuGXY) | [Where it began](https://open.spotify.com/album/4fPcg0BfUr7BZv0od5wgi2) | 3:45 | 2026-03-02 | 2026-03-25 |
 | [Where the wild things trust me](https://open.spotify.com/track/0njBCKUqVve7clCpwpjvug) | [Opus Hewson](https://open.spotify.com/artist/0G6R9TtCJ4ROqLdkr9uc3q) | [Between Light and Noise](https://open.spotify.com/album/5TzXzs6fdtV2lRjh2dwy8Q) | 4:31 | 2026-04-20 | 2026-06-05 |
+| [Where Were You Girl](https://open.spotify.com/track/6SgqCwZCcDckUEH89kR0GL) | [Mikey Sovereign](https://open.spotify.com/artist/6s6EknLmFnL0AxRtnaexIJ) | [Where Were You Girl](https://open.spotify.com/album/0DdwNKGUvrEh7wqNZ2KzKT) | 4:09 | 2026-08-02 |  |
 | [WHERE'S MY HEAD](https://open.spotify.com/track/1Z6tkAoBUKel5pywbdJHOR) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs) | [WHERE'S MY HEAD](https://open.spotify.com/album/6Lm4bi8UvsymJhezlHnV0x) | 1:57 | 2025-12-23 | 2026-01-27 |
 | [Whips & Champagne](https://open.spotify.com/track/1WNCyzJJNiMmRAlC18LzHW) | [St Oshun](https://open.spotify.com/artist/301eU70OY8nQVDDha8Xxdz) | [Whips & Champagne](https://open.spotify.com/album/4Ylf1UfVu6bIXdXa5uEqDv) | 3:37 | 2026-02-04 | 2026-03-07 |
 | [White Lion Phone Call](https://open.spotify.com/track/5dR2BQ8mpRFfxYJ0Rr1Sf5) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Pastoral](https://open.spotify.com/album/0cXRHomVqT4f46Qd6RU1l3) | 2:42 | 2026-02-23 | 2026-04-12 |
 | [Who Knows](https://open.spotify.com/track/7gBAeTkW4h4bInsEpxl6ei) | [Blurry Girl](https://open.spotify.com/artist/3p2ZVRrTcNT0UB5BwItngj) | [Who Knows](https://open.spotify.com/album/25tMxOvOdorwd9OgWhSrkS) | 3:07 | 2026-03-16 | 2026-04-12 |
 | [Who Knows \- Remix](https://open.spotify.com/track/4YLuehHCimOg0RD2U825Dp) | [Xandre Augs](https://open.spotify.com/artist/77W5blk8wl1WwplejOVMbn) | [a u g y](https://open.spotify.com/album/0jl0huXGuyDmGWyW72h2kX) | 2:09 | 2026-03-04 | 2026-03-25 |
 | [Who Told You, You Could Have Eyes Like That?](https://open.spotify.com/track/5X7cmejiyC0x8hPss6oGZk) | [Something About Bears](https://open.spotify.com/artist/0U9HclSerBG3C6TaX6aHY8) | [Who Told You, You Could Have Eyes Like That?](https://open.spotify.com/album/19YQgY5PY7Jwr1TWPfoCZu) | 3:16 | 2026-05-07 | 2026-06-05 |
+| [Who Was I When We Were Just Friends](https://open.spotify.com/track/4AR81DRiSzZRzvN5PY5uQt) | [Aleksi Oksanen](https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2) | [Who Was I When We Were Just Friends](https://open.spotify.com/album/0zaQ4czgKuaGBEwLjcfxks) | 2:15 | 2026-08-02 |  |
 | [Why Don't You?](https://open.spotify.com/track/3ZwziPw6tfa2uqVO3kb00x) | [Donnie Dynamite](https://open.spotify.com/artist/2jF2ZJPCeAL4UTrWa1Z78f), [FiVe \(The Infinite\)](https://open.spotify.com/artist/2iI7c8fENFVoSANPTWVTup) | [Why Don't You?](https://open.spotify.com/album/0PhTPtXquw0iXDsTzL4aCD) | 2:31 | 2026-05-06 | 2026-06-05 |
 | [Why Not Always](https://open.spotify.com/track/66YSKnVyoRLdp9jtA1zWDr) | [READIN](https://open.spotify.com/artist/48BOl8Qi8bzm7QvJkr4Yb0) | [Why Not Always](https://open.spotify.com/album/0B6wRmevQh6IdHHAlQaGCQ) | 2:33 | 2026-05-19 | 2026-07-03 |
 | [Wicked Man](https://open.spotify.com/track/0GcXpH7SJHPoz2ig2AIGub) | [Mikey Sovereign](https://open.spotify.com/artist/6s6EknLmFnL0AxRtnaexIJ) | [Wicked Man](https://open.spotify.com/album/5dhRHe66pkX1UmayK6GZUb) | 4:52 | 2026-07-05 |  |

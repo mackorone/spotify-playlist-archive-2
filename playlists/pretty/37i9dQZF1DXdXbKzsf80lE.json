@@ -879,6 +879,22 @@
     {
       "added_at": "2026-04-30 22:01:08",
       "album": {
+        "name": "Batom de Ouro",
+        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 138893,
+      "name": "Batom De Ouro",
+      "url": "https://open.spotify.com/track/4XoQPLxuXl5M4oBEsF73bt"
+    },
+    {
+      "added_at": "2026-04-30 22:01:08",
+      "album": {
         "name": "Nem V\u00e1",
         "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 159639,
       "name": "Nem V\u00e1",
       "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
-    },
-    {
-      "added_at": "2026-04-30 22:01:08",
-      "album": {
-        "name": "Batom de Ouro",
-        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 138893,
-      "name": "Batom De Ouro",
-      "url": "https://open.spotify.com/track/4XoQPLxuXl5M4oBEsF73bt"
     },
     {
       "added_at": "2026-04-30 22:01:08",

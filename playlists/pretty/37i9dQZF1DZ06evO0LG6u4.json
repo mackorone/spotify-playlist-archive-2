@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c9liane Radigue. The essential tracks, all in one playlist.",
-  "num_followers": 418,
+  "num_followers": 417,
   "original_name": "This Is \u00c9liane Radigue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amvlgAAAAAByIhwFwkavihwD/6JoSsjW",
+  "snapshot_id": "am03AAAAAABS46NjJ1DRa1s4fMtNbrAv",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 119608,
-      "name": "Famille musicale",
-      "url": "https://open.spotify.com/track/7dDVVGqsYL3rgZvD9IRZ75"
+      "duration_ms": 101362,
+      "name": "Le synth\u00e9tiseur",
+      "url": "https://open.spotify.com/track/0EzWzEVxEGekSR3E3T5cTh"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 85626,
-      "name": "Labyrinthe sonore",
-      "url": "https://open.spotify.com/track/6dvMR0jYWpUezTSrHV7zoI"
+      "duration_ms": 80745,
+      "name": "Commande musicale",
+      "url": "https://open.spotify.com/track/2eQYadzPjRQ44OjjY6wvtW"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

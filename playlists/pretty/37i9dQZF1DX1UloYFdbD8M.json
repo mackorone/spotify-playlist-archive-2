@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Gowry Lekshmi",
-  "num_followers": 41140,
+  "num_followers": 41278,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEhFQ63LS0FZ0MiC7JVHfgoSb9nO",
+  "snapshot_id": "AAAAAKCS1lrqfKKTJZO3EfiZssP0/EHl",
   "tracks": [
     {
       "added_at": "2026-06-24 11:39:34",
@@ -231,6 +231,26 @@
       "duration_ms": 225762,
       "name": "Noolamala",
       "url": "https://open.spotify.com/track/4Z0cF2rUYt94lgbM20OaQ8"
+    },
+    {
+      "added_at": "2026-08-02 10:59:36",
+      "album": {
+        "name": "Aval",
+        "url": "https://open.spotify.com/album/2JHyOiRiuTYUQ87SLCpOFB"
+      },
+      "artists": [
+        {
+          "name": "Umesh G",
+          "url": "https://open.spotify.com/artist/379Mew0cLCOclqBvK5PkYy"
+        },
+        {
+          "name": "Najim Arshad",
+          "url": "https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1"
+        }
+      ],
+      "duration_ms": 200568,
+      "name": "Aval",
+      "url": "https://open.spotify.com/track/132VN4mf6epX5fw9YvXVYz"
     },
     {
       "added_at": "2026-07-02 11:44:43",
@@ -655,34 +675,6 @@
       "duration_ms": 214910,
       "name": "Meenangadi",
       "url": "https://open.spotify.com/track/00yANyBR41gfG4r92pBu8I"
-    },
-    {
-      "added_at": "2026-07-28 10:12:28",
-      "album": {
-        "name": "Manithan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1DJsqgmok3ag4GxDWkcIlb"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Pradeep Kumar",
-          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
-        },
-        {
-          "name": "Priya Hemesh",
-          "url": "https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/34alE9zN7dTT9s6s1j8bJC"
-        }
-      ],
-      "duration_ms": 266639,
-      "name": "Aval",
-      "url": "https://open.spotify.com/track/4LK8863ScRhhT6hitFfBI5"
     },
     {
       "added_at": "2026-06-29 09:32:40",

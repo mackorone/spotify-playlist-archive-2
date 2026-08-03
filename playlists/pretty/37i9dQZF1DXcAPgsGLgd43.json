@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 120190,
+  "num_followers": 120223,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-07-31 04:01:17",
       "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
+    },
+    {
+      "added_at": "2026-07-31 04:01:17",
+      "album": {
         "name": "Coroa",
         "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 136088,
       "name": "Coroa",
       "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
-    },
-    {
-      "added_at": "2026-07-31 04:01:17",
-      "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
     },
     {
       "added_at": "2026-07-31 04:01:17",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-07-31 04:01:17",
       "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
-    },
-    {
-      "added_at": "2026-07-31 04:01:17",
-      "album": {
         "name": "Cuando Te Veo",
         "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 223731,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
+    },
+    {
+      "added_at": "2026-07-31 04:01:17",
+      "album": {
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
     },
     {
       "added_at": "2026-07-31 04:01:17",
@@ -1715,6 +1715,26 @@
     {
       "added_at": "2026-07-31 04:01:17",
       "album": {
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "duration_ms": 170953,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
+    },
+    {
+      "added_at": "2026-07-31 04:01:17",
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 152903,
       "name": "Vida",
       "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"
-    },
-    {
-      "added_at": "2026-07-31 04:01:17",
-      "album": {
-        "name": "Lo Que Soy",
-        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        }
-      ],
-      "duration_ms": 170953,
-      "name": "Lo Que Soy",
-      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
     },
     {
       "added_at": "2026-07-31 04:01:17",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2026-07-31 04:01:17",
       "album": {
-        "name": "Dame Fuego",
-        "url": "https://open.spotify.com/album/06Se6RnOeXlndE7O0oRnZZ"
-      },
-      "artists": [
-        {
-          "name": "Les Castizos",
-          "url": "https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M"
-        },
-        {
-          "name": "MVRIN",
-          "url": "https://open.spotify.com/artist/6Wue4fFXUszJFB4lpFv5fo"
-        }
-      ],
-      "duration_ms": 228292,
-      "name": "Dame Fuego",
-      "url": "https://open.spotify.com/track/2P66ewO09MUgyWUJbHbrRZ"
-    },
-    {
-      "added_at": "2026-07-31 04:01:17",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 116361,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF"
+    },
+    {
+      "added_at": "2026-07-31 04:01:17",
+      "album": {
+        "name": "Dame Fuego",
+        "url": "https://open.spotify.com/album/06Se6RnOeXlndE7O0oRnZZ"
+      },
+      "artists": [
+        {
+          "name": "Les Castizos",
+          "url": "https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M"
+        },
+        {
+          "name": "MVRIN",
+          "url": "https://open.spotify.com/artist/6Wue4fFXUszJFB4lpFv5fo"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "Dame Fuego",
+      "url": "https://open.spotify.com/track/2P66ewO09MUgyWUJbHbrRZ"
     },
     {
       "added_at": "2026-07-31 04:01:17",
@@ -1919,46 +1919,6 @@
     {
       "added_at": "2026-07-31 04:01:17",
       "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/2T1xKPKliesGyCfVAAmMwC"
-      },
-      "artists": [
-        {
-          "name": "Lucca Saettone",
-          "url": "https://open.spotify.com/artist/15o6RNNTFlXc1ALh7HzTTp"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/47gl1rsMBTt8dAtGX5tekW"
-    },
-    {
-      "added_at": "2026-07-31 04:01:17",
-      "album": {
-        "name": "Batonga",
-        "url": "https://open.spotify.com/album/0iXDBvcWsZaRPYHsFrlAfC"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        },
-        {
-          "name": "Al\u00e9 Kum\u00e1",
-          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Batonga",
-      "url": "https://open.spotify.com/track/6KhYXzR7FRt3UoVjC54fzh"
-    },
-    {
-      "added_at": "2026-07-31 04:01:17",
-      "album": {
         "name": "Besito",
         "url": "https://open.spotify.com/album/4Dw4ysGv4Rp3YuJeclkIRU"
       },
@@ -1979,6 +1939,22 @@
     {
       "added_at": "2026-07-31 04:01:17",
       "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/2T1xKPKliesGyCfVAAmMwC"
+      },
+      "artists": [
+        {
+          "name": "Lucca Saettone",
+          "url": "https://open.spotify.com/artist/15o6RNNTFlXc1ALh7HzTTp"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/47gl1rsMBTt8dAtGX5tekW"
+    },
+    {
+      "added_at": "2026-07-31 04:01:17",
+      "album": {
         "name": "Que Calor, Que Calor",
         "url": "https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU"
       },
@@ -1991,6 +1967,34 @@
       "duration_ms": 199354,
       "name": "Que Calor, Que Calor",
       "url": "https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU"
+    },
+    {
+      "added_at": "2026-07-31 04:01:17",
+      "album": {
+        "name": "La Buena Vida (feat. Tayson Kryss)",
+        "url": "https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        },
+        {
+          "name": "LiL CaKe",
+          "url": "https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z"
+        },
+        {
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "duration_ms": 137963,
+      "name": "La Buena Vida (feat. Tayson Kryss)",
+      "url": "https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy"
     }
   ],
   "unique_name": "Latin House",

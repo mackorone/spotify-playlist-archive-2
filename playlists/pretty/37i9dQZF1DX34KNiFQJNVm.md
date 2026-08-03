@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem  Lauana Prado, KAROL G, Greta Van Fleet, Michelle Andrade, Jão, Péricles com Ferrugem e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,319,067 likes - 82 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,314,757 likes - 82 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

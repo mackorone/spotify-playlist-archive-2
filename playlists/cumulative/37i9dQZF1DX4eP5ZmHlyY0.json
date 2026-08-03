@@ -3794,7 +3794,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 184069,
       "name": "DESPERADO",
       "url": "https://open.spotify.com/track/6fnOrvdbFGYNNTVwNoseKd"
@@ -5898,7 +5898,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 185000,
       "name": "Glow",
       "url": "https://open.spotify.com/track/3deXCudhe0I89o48G2vAbZ"
@@ -10577,6 +10577,24 @@
     },
     {
       "album": {
+        "name": "Nice to Meet Ya",
+        "url": "https://open.spotify.com/album/4fWoWnHmYFjMQVt7dZ9DmW"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204395,
+      "name": "Nice to Meet Ya",
+      "url": "https://open.spotify.com/track/7y0C2c0wVLUivXy6kUM0nQ"
+    },
+    {
+      "album": {
         "name": "Nice to see you again (Korean Ver.)",
         "url": "https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf"
       },
@@ -11408,6 +11426,24 @@
       "duration_ms": 176256,
       "name": "Party Goes On",
       "url": "https://open.spotify.com/track/7DtIdfMyHkleorjPK3mSni"
+    },
+    {
+      "album": {
+        "name": "\u5409BOARD(Gilboard)",
+        "url": "https://open.spotify.com/album/0XmnjoF5TguvSvPrTrO83v"
+      },
+      "artists": [
+        {
+          "name": "Picheolin",
+          "url": "https://open.spotify.com/artist/3V2EC4dPYLgtbi0TtrB1RA"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Party Rock Rock (prod. Hitchhiker)",
+      "url": "https://open.spotify.com/track/5wsPiyVi6oIHY0RAz8Ay0G"
     },
     {
       "album": {
@@ -13806,6 +13842,24 @@
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
+    },
+    {
+      "album": {
+        "name": "SODA SODA",
+        "url": "https://open.spotify.com/album/46CiVULXNIUuEfTtfHLQ3T"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "SODA SODA",
+      "url": "https://open.spotify.com/track/57gjiXuk5Z992BWHrvncEa"
     },
     {
       "album": {
@@ -18166,7 +18220,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 205700,
       "name": "\u30b3\u30b3\u30cb\u30a4\u30eb",
       "url": "https://open.spotify.com/track/6UPSzADDU3wztV9Jf3gCZr"

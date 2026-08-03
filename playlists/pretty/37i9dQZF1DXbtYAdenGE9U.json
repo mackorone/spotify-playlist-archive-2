@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 809022,
+  "num_followers": 809293,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Greece 2000",
-        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
-      },
-      "artists": [
-        {
-          "name": "Three Drives On A Vinyl",
-          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
-        },
-        {
-          "name": "Three Drives",
-          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Greece 2000 - Edit",
-      "url": "https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Happiness Happening",
         "url": "https://open.spotify.com/album/0Cv2ksoLYcjvHKP0CZ89s0"
       },
@@ -551,18 +531,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Diving Faces",
-        "url": "https://open.spotify.com/album/5Axm2YhkSXmlxqiZcBSpyZ"
+        "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/0Kldrxo1zjpUc07YQGea9n"
       },
       "artists": [
         {
-          "name": "Liquid Child",
-          "url": "https://open.spotify.com/artist/0cljqRBWiEmXSI4vXvMFl7"
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
         }
       ],
-      "duration_ms": 220173,
-      "name": "Diving Faces - Radio Cut",
-      "url": "https://open.spotify.com/track/1TUUq8BSzn0zMc8OqXa7oU"
+      "duration_ms": 219000,
+      "name": "Greece 2000 - Edit",
+      "url": "https://open.spotify.com/track/3JxBHvOkVvgZTtQ9shl4fI"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -583,6 +567,22 @@
       "duration_ms": 233160,
       "name": "Out Of The Blue",
       "url": "https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Diving Faces",
+        "url": "https://open.spotify.com/album/5Axm2YhkSXmlxqiZcBSpyZ"
+      },
+      "artists": [
+        {
+          "name": "Liquid Child",
+          "url": "https://open.spotify.com/artist/0cljqRBWiEmXSI4vXvMFl7"
+        }
+      ],
+      "duration_ms": 220173,
+      "name": "Diving Faces - Radio Cut",
+      "url": "https://open.spotify.com/track/1TUUq8BSzn0zMc8OqXa7oU"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "1998",
-        "url": "https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq"
-      },
-      "artists": [
-        {
-          "name": "Binary Finary",
-          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
-        }
-      ],
-      "duration_ms": 233906,
-      "name": "1998",
-      "url": "https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 194946,
       "name": "Escape - Radio Edit",
       "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "1998",
+        "url": "https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq"
+      },
+      "artists": [
+        {
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        }
+      ],
+      "duration_ms": 233906,
+      "name": "1998",
+      "url": "https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Ferry Corsten Collected",
-        "url": "https://open.spotify.com/album/6ztYonrTxDSPQSD5mfbKkN"
-      },
-      "artists": [
-        {
-          "name": "Ferry Corsten",
-          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Punk",
-      "url": "https://open.spotify.com/track/74BSVo5XxxlOOWKstr8doF"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "The Whiteroom",
         "url": "https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 233848,
       "name": "The Whiteroom",
       "url": "https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Ferry Corsten Collected",
+        "url": "https://open.spotify.com/album/6ztYonrTxDSPQSD5mfbKkN"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Punk",
+      "url": "https://open.spotify.com/track/74BSVo5XxxlOOWKstr8doF"
     }
   ],
   "unique_name": "Trance Classics",

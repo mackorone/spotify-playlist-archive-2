@@ -787,6 +787,22 @@
     {
       "added_at": "2026-03-20 16:45:24",
       "album": {
+        "name": "Live And Inspired",
+        "url": "https://open.spotify.com/album/4KvZhLes9MpE8IUZKhxiRF"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 226800,
+      "name": "Come Together",
+      "url": "https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN"
+    },
+    {
+      "added_at": "2026-03-20 16:45:24",
+      "album": {
         "name": "How It's Done",
         "url": "https://open.spotify.com/album/64ubOftES7s24r5sMpraAb"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 174374,
       "name": "How It's Done",
       "url": "https://open.spotify.com/track/5IXGxvewBsrfHtfym01YfL"
-    },
-    {
-      "added_at": "2026-03-20 16:45:24",
-      "album": {
-        "name": "Live And Inspired",
-        "url": "https://open.spotify.com/album/4KvZhLes9MpE8IUZKhxiRF"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 226800,
-      "name": "Come Together",
-      "url": "https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN"
     },
     {
       "added_at": "2026-03-20 16:45:24",

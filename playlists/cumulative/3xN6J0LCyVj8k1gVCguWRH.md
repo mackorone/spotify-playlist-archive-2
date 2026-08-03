@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,371 songs - 14 day 20 hr 27 min
+6,372 songs - 14 day 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [America, Happy Birthday!](https://open.spotify.com/track/2T2LaE3SOAdDF9g45HN7dW) | [Lindsay Selbach](https://open.spotify.com/artist/1Gkxm0z6ZUoOqlqJFMoLtl) | [America, Happy Birthday!](https://open.spotify.com/album/4uz6RSbsFDNb0Trc6pB2BQ) | 1:44 | 2026-06-13 | 2026-06-27 |
 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-08 | 2026-07-30 |
 | [American Spirit](https://open.spotify.com/track/4pAywR7O1HPrTJtRLrtCvW) | [Pink Jagg](https://open.spotify.com/artist/1SgsyJqfG9hmmb7Wnjo3EF) | [American Spirit](https://open.spotify.com/album/6OHdsZucQRbGHN5s0xqPjC) | 3:37 | 2025-06-21 | 2025-07-04 |
+| [Amigos Reales](https://open.spotify.com/track/4MM5YmLN0Knf385DUC2pfH) | [Alison Rios](https://open.spotify.com/artist/5636FjEzpovBP9SrT0zNsc) | [Amigos Reales](https://open.spotify.com/album/6apKUDd0yjNm0l55cluybL) | 2:47 | 2026-08-02 |  |
 | [Amin Bird](https://open.spotify.com/track/6NErAb531bcv9ZXmRoZEf3) | [Ada Morghe](https://open.spotify.com/artist/5QAJWFAxwZ3qpTz94t9FPo) | [Pure Good Vibes](https://open.spotify.com/album/05NCI0PJ7eFL92JdAAeR3n) | 3:34 | 2025-06-17 | 2025-07-08 |
 | [Amin Bird \- Mousse T\. Remix](https://open.spotify.com/track/6FDgdrhTfu8HPbRxDf2mDg) | [Ada Morghe](https://open.spotify.com/artist/5QAJWFAxwZ3qpTz94t9FPo), [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6) | [Amin Bird \(Mousse T\. Remix\)](https://open.spotify.com/album/3sYxanZue7laRD6N4Q7flJ) | 3:16 | 2025-07-23 | 2025-09-03 |
 | [Aminata](https://open.spotify.com/track/0HlchSc0ChOE5Q9xQrzN8y) | [Alaman](https://open.spotify.com/artist/3VAZM9cBog8d3f1eDqdGeS) | [Aminata](https://open.spotify.com/album/2zEZY63AApjuzpyxY6iKVp) | 2:35 | 2024-12-19 | 2024-12-31 |

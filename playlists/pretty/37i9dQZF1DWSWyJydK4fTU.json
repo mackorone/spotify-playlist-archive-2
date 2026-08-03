@@ -1,6 +1,6 @@
 {
   "description": "darf man so ?? (in den tag starten, kurz leben leben, bisschen pause machen) ",
-  "num_followers": 621916,
+  "num_followers": 621710,
   "original_name": "morning glow",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-07-30 22:01:02",
       "album": {
-        "name": "Aren't You Curious?",
-        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
-      },
-      "artists": [
-        {
-          "name": "Emyrson Flora",
-          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
-        }
-      ],
-      "duration_ms": 184294,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
-    },
-    {
-      "added_at": "2026-07-30 22:01:02",
-      "album": {
         "name": "Alles nur f\u00fcr mich",
         "url": "https://open.spotify.com/album/2xCFRwMBIvnjICFbvf36bP"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 141188,
       "name": "Alles nur f\u00fcr mich",
       "url": "https://open.spotify.com/track/4mLVDfjzOEIlOoEW6uFALJ"
+    },
+    {
+      "added_at": "2026-07-30 22:01:02",
+      "album": {
+        "name": "Aren't You Curious?",
+        "url": "https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA"
+      },
+      "artists": [
+        {
+          "name": "Emyrson Flora",
+          "url": "https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW"
+        }
+      ],
+      "duration_ms": 184294,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o"
     },
     {
       "added_at": "2026-07-30 22:01:02",

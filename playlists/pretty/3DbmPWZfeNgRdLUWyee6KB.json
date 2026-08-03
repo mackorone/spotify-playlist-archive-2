@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAWksILTdqgjIj+n/236fkhg5fmz/+n",
+  "snapshot_id": "AAAWluchjBOWHfYGcRBO3LV3M/KdP/vD",
   "tracks": [
     {
       "added_at": "2026-07-02 22:11:30",
@@ -2091,6 +2091,70 @@
       "duration_ms": 148032,
       "name": "BORN OF LOVE",
       "url": "https://open.spotify.com/track/5JEBbEpMBo1ndQdtMD9RhL"
+    },
+    {
+      "added_at": "2026-08-02 08:00:28",
+      "album": {
+        "name": "Salida",
+        "url": "https://open.spotify.com/album/09qRipyIm17H5QKkqjACuF"
+      },
+      "artists": [
+        {
+          "name": "Jay Hofman",
+          "url": "https://open.spotify.com/artist/4WWuKUayc9e9IQm8cAV72x"
+        }
+      ],
+      "duration_ms": 177736,
+      "name": "Salida",
+      "url": "https://open.spotify.com/track/34Aj31aeIkukCiYlbQjsMe"
+    },
+    {
+      "added_at": "2026-08-02 08:00:32",
+      "album": {
+        "name": "Who Was I When We Were Just Friends",
+        "url": "https://open.spotify.com/album/0zaQ4czgKuaGBEwLjcfxks"
+      },
+      "artists": [
+        {
+          "name": "Aleksi Oksanen",
+          "url": "https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2"
+        }
+      ],
+      "duration_ms": 135447,
+      "name": "Who Was I When We Were Just Friends",
+      "url": "https://open.spotify.com/track/4AR81DRiSzZRzvN5PY5uQt"
+    },
+    {
+      "added_at": "2026-08-02 08:00:34",
+      "album": {
+        "name": "Luce dietro uno sbaglio",
+        "url": "https://open.spotify.com/album/0fGXuQkb7Y2WfmF7dU1Atk"
+      },
+      "artists": [
+        {
+          "name": "Diego Marangiolo",
+          "url": "https://open.spotify.com/artist/54wSnyEqvXdVX8wvfsZccA"
+        }
+      ],
+      "duration_ms": 268144,
+      "name": "Luce dietro uno sbaglio",
+      "url": "https://open.spotify.com/track/190q5mlywVt3iNlcRE1zVh"
+    },
+    {
+      "added_at": "2026-08-02 08:00:37",
+      "album": {
+        "name": "Where Were You Girl",
+        "url": "https://open.spotify.com/album/0DdwNKGUvrEh7wqNZ2KzKT"
+      },
+      "artists": [
+        {
+          "name": "Mikey Sovereign",
+          "url": "https://open.spotify.com/artist/6s6EknLmFnL0AxRtnaexIJ"
+        }
+      ],
+      "duration_ms": 249685,
+      "name": "Where Were You Girl",
+      "url": "https://open.spotify.com/track/6SgqCwZCcDckUEH89kR0GL"
     }
   ],
   "unique_name": "New Indie Music",

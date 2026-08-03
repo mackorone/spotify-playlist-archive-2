@@ -1,12 +1,12 @@
 {
   "description": "This is Santa Fe Klan. The essential tracks, all in one playlist.",
-  "num_followers": 569510,
+  "num_followers": 569473,
   "original_name": "This Is Santa Fe Klan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amvlgAAAAACFZOVCTqj1gW2VZGm8Vg7r",
+  "snapshot_id": "am03AAAAAADmHEgCEB8CDwr6H/k47SM7",
   "tracks": [
     {
       "added_at": null,
@@ -995,22 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 200754,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Pies a Cabeza",
         "url": "https://open.spotify.com/album/4eXjEM5eGaxmoRBOYti17F"
       },
@@ -1027,22 +1011,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "GU3RR4",
-        "url": "https://open.spotify.com/album/1n3vxK8VjeQzGgC6hjDW1r"
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0"
       },
       "artists": [
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Zimple",
-          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
         }
       ],
-      "duration_ms": 345600,
-      "name": "GU3RR4",
-      "url": "https://open.spotify.com/track/0WsKujvQEuGm6UibuvAZvL"
+      "duration_ms": 200754,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat"
     },
     {
       "added_at": null,
@@ -1071,6 +1051,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GU3RR4",
+        "url": "https://open.spotify.com/album/1n3vxK8VjeQzGgC6hjDW1r"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "duration_ms": 345600,
+      "name": "GU3RR4",
+      "url": "https://open.spotify.com/track/0WsKujvQEuGm6UibuvAZvL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AMOR DE SUBIDA",
         "url": "https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF"
       },
@@ -1091,26 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIVIR PA' QUEDARSE",
-        "url": "https://open.spotify.com/album/5pVXuqex89FgjmWbRD6l1B"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 180512,
-      "name": "ESC\u00c1PATE",
-      "url": "https://open.spotify.com/track/3mZ4DzjjzyH4hAsR6dVFKE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi"
       },
@@ -1127,6 +1107,26 @@
       "duration_ms": 213773,
       "name": "Camina Sola",
       "url": "https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIVIR PA' QUEDARSE",
+        "url": "https://open.spotify.com/album/5pVXuqex89FgjmWbRD6l1B"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 180512,
+      "name": "ESC\u00c1PATE",
+      "url": "https://open.spotify.com/track/3mZ4DzjjzyH4hAsR6dVFKE"
     },
     {
       "added_at": null,

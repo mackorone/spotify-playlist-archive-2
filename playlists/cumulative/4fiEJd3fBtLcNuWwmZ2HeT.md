@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-537 songs - 1 day 7 hr 16 min
+538 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -459,6 +459,7 @@
 | [人間](https://open.spotify.com/track/6FFOg8oCS4QnEf4eai0KcA) | [703goushitsu](https://open.spotify.com/artist/2kgwlK1KWV3bgzT7FsJGoR) | [人間](https://open.spotify.com/album/2aRPZcMvi6VkwlWkHQ3sGR) | 2:42 | 2024-09-07 |  |
 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 | 2024-02-06 |  |
 | [全部夢だった！](https://open.spotify.com/track/7wxif1TWcN6X2Bw32aS8wD) | [黒うさぎ](https://open.spotify.com/artist/1yktWH0UsU3lcsE71vI6as) | [全部夢だった！](https://open.spotify.com/album/0oalNGCxUYa0lKB7zPVPWI) | 2:13 | 2024-11-10 |  |
+| [分かっちゃいないね \- feat.花隈千冬](https://open.spotify.com/track/5yEVYY3MipQkWLVb1cqR02) | [monet](https://open.spotify.com/artist/1q9lQ4dwpQUDsYLtYNuZnf), [花隈千冬](https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38) | [分かっちゃいないね \(feat.花隈千冬\)](https://open.spotify.com/album/3XW0DF3nM1NpuQ9zYnBOfg) | 3:56 | 2026-08-02 |  |
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2024-05-03 |  |
 | [協奏曲 〜耽美なる血統〜](https://open.spotify.com/track/2ynnDxWzNtn6VsfZnqq6OJ) | [JVM Roses Blood Symphony](https://open.spotify.com/artist/5ch4R7MYTiqAcfb4Ig6cSt) | [協奏曲 〜耽美なる血統〜](https://open.spotify.com/album/4dGtND8i4qXqtV1DkNnZYW) | 6:56 | 2026-03-13 |  |
 | [厭世という名の病](https://open.spotify.com/track/4wX19Nf6Mc2ACCOnfD01bQ) | [蟲の知らせ](https://open.spotify.com/artist/28dGfhcMY5UMKJCRLLonvf), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [厭世という名の病](https://open.spotify.com/album/1ZU3Lcg2jRN1UcoqfbBPbk) | 3:50 | 2024-10-03 |  |

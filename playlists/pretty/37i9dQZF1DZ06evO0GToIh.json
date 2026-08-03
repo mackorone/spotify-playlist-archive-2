@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 372444,
+  "num_followers": 372598,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amvlgAAAAAA72sdKSB8jDFVyFZQb9R5x",
+  "snapshot_id": "am03AAAAAADcqPWaaMxd0Qkcen1OBoGU",
   "tracks": [
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Regreso",
+        "url": "https://open.spotify.com/album/4bq7eLWq5fazAwtsVnrQDM"
+      },
+      "artists": [
+        {
+          "name": "Victor Garcia",
+          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 240561,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/59GRTQJEI4zSyiCVmHRR6k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Caballo",
         "url": "https://open.spotify.com/album/5QBM7AxynUoEX92nJho9hH"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 236562,
       "name": "Tu Cari\u00f1ito",
       "url": "https://open.spotify.com/track/60Q6p6nH92omdBlYILHpYm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Regreso",
-        "url": "https://open.spotify.com/album/4bq7eLWq5fazAwtsVnrQDM"
-      },
-      "artists": [
-        {
-          "name": "Victor Garcia",
-          "url": "https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 240561,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/59GRTQJEI4zSyiCVmHRR6k"
     },
     {
       "added_at": null,

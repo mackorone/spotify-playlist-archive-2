@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-165 songs - 8 hr 29 min
+166 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [El Reggaetón](https://open.spotify.com/track/7ooWSUhPtPPJfBhhLdYjIn) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:36 | 2025-11-07 |  |
 | [El vino de tu boca](https://open.spotify.com/track/3ytU2WojnV7zmKA9yb3gMu) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 2:48 | 2026-01-24 |  |
 | [EMPLEADO](https://open.spotify.com/track/0VB76TEvea9xPrOGSDQIgk) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 3:45 | 2025-11-07 |  |
+| [En 5](https://open.spotify.com/track/5wyghWpA8bRNnx6SgsQGDb) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [En 5](https://open.spotify.com/album/3DBfCQMtc7N8KGcLi3SdwL) | 3:07 | 2026-08-02 |  |
 | [en la disco pensándote](https://open.spotify.com/track/6MB8jQR4PZqmiHMH4brGUS) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [XiOLLY](https://open.spotify.com/album/2zQDQd7w0BEv1slqKnp6ka) | 2:30 | 2025-11-07 |  |
 | [Enchule](https://open.spotify.com/track/6NQQJRKTJeCuSnvNZ4J7xA) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Enchule](https://open.spotify.com/album/4yEObSjSnJ1FhFGopfbxnd) | 2:29 | 2025-11-07 |  |
 | [Ese Hombre Es Malo](https://open.spotify.com/track/61yr9YbDKfyZn7zh1ZgUOW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:37 | 2025-11-07 |  |

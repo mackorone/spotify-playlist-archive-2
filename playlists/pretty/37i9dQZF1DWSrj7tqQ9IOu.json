@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Steve Lacy",
-  "num_followers": 402024,
+  "num_followers": 401936,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Juillet 2026",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,26 @@
     {
       "added_at": "2026-07-31 22:00:23",
       "album": {
+        "name": "Gimme Dat Ting",
+        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 243755,
+      "name": "Gimme Dat Ting (with NO11)",
+      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
+    },
+    {
+      "added_at": "2026-07-31 22:00:23",
+      "album": {
         "name": "COCA BODY",
         "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 153055,
       "name": "COCA BODY",
       "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
-    },
-    {
-      "added_at": "2026-07-31 22:00:23",
-      "album": {
-        "name": "Gimme Dat Ting",
-        "url": "https://open.spotify.com/album/3Ps3UIOBR65ycJclGQF6Nc"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
-        }
-      ],
-      "duration_ms": 243755,
-      "name": "Gimme Dat Ting (with NO11)",
-      "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
     },
     {
       "added_at": "2026-07-31 22:00:23",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-07-31 22:00:23",
       "album": {
-        "name": "Moonlight / Clean Run",
-        "url": "https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1"
-      },
-      "artists": [
-        {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
-        }
-      ],
-      "duration_ms": 200477,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ"
-    },
-    {
-      "added_at": "2026-07-31 22:00:23",
-      "album": {
         "name": "For A Good Time...",
         "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 222840,
       "name": "Coming Home (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
+    },
+    {
+      "added_at": "2026-07-31 22:00:23",
+      "album": {
+        "name": "Moonlight / Clean Run",
+        "url": "https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "duration_ms": 200477,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ"
     },
     {
       "added_at": "2026-07-31 22:00:23",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-07-31 22:00:23",
       "album": {
+        "name": "Demain t'es ou",
+        "url": "https://open.spotify.com/album/4aa0kCrDlc7jTaz4tEwUHk"
+      },
+      "artists": [
+        {
+          "name": "Romsii",
+          "url": "https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw"
+        }
+      ],
+      "duration_ms": 156562,
+      "name": "Demain t'es ou",
+      "url": "https://open.spotify.com/track/75p2mLWMHyRYLDh2IpX3Cq"
+    },
+    {
+      "added_at": "2026-07-31 22:00:23",
+      "album": {
         "name": "MON TEMPS",
         "url": "https://open.spotify.com/album/6Y0SWxk0IP0qkBMkn5cvcY"
       },
@@ -571,22 +587,6 @@
     {
       "added_at": "2026-07-31 22:00:23",
       "album": {
-        "name": "Demain t'es ou",
-        "url": "https://open.spotify.com/album/4aa0kCrDlc7jTaz4tEwUHk"
-      },
-      "artists": [
-        {
-          "name": "Romsii",
-          "url": "https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw"
-        }
-      ],
-      "duration_ms": 156562,
-      "name": "Demain t'es ou",
-      "url": "https://open.spotify.com/track/75p2mLWMHyRYLDh2IpX3Cq"
-    },
-    {
-      "added_at": "2026-07-31 22:00:23",
-      "album": {
         "name": "DREAMS ON THE PASSENGER SEAT",
         "url": "https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK"
       },
@@ -599,6 +599,26 @@
       "duration_ms": 223738,
       "name": "PROMISE",
       "url": "https://open.spotify.com/track/2cvBh4B2DloHVFwMnqYypW"
+    },
+    {
+      "added_at": "2026-07-31 22:00:23",
+      "album": {
+        "name": "LA VAR",
+        "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
+      },
+      "artists": [
+        {
+          "name": "Supremnova",
+          "url": "https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR"
+        },
+        {
+          "name": "Jemma's Palace",
+          "url": "https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ"
+        }
+      ],
+      "duration_ms": 102352,
+      "name": "LA VAR",
+      "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
     },
     {
       "added_at": "2026-07-31 22:00:23",
@@ -659,22 +679,22 @@
     {
       "added_at": "2026-07-31 22:00:23",
       "album": {
-        "name": "LA VAR",
-        "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
+        "name": "BADDIES <3 MOLIY",
+        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
       },
       "artists": [
         {
-          "name": "Supremnova",
-          "url": "https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR"
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
         },
         {
-          "name": "Jemma's Palace",
-          "url": "https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ"
+          "name": "Br3nya",
+          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
         }
       ],
-      "duration_ms": 102352,
-      "name": "LA VAR",
-      "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
+      "duration_ms": 176756,
+      "name": "BUKSHOT",
+      "url": "https://open.spotify.com/track/2abRIuX33VwSkWsM8sLnIW"
     },
     {
       "added_at": "2026-07-31 22:00:23",
@@ -699,26 +719,6 @@
       "duration_ms": 229073,
       "name": "endless blooming",
       "url": "https://open.spotify.com/track/1rSMBhv5oAKhHxprdZf21G"
-    },
-    {
-      "added_at": "2026-07-31 22:00:23",
-      "album": {
-        "name": "BADDIES <3 MOLIY",
-        "url": "https://open.spotify.com/album/0WIupJhXxVtHKJBDll1d0l"
-      },
-      "artists": [
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "Br3nya",
-          "url": "https://open.spotify.com/artist/2meqc0ogaVLYfKIkUImoGW"
-        }
-      ],
-      "duration_ms": 176756,
-      "name": "BUKSHOT",
-      "url": "https://open.spotify.com/track/2abRIuX33VwSkWsM8sLnIW"
     },
     {
       "added_at": "2026-07-31 22:00:23",

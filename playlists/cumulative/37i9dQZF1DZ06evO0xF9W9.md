@@ -4,7 +4,7 @@
 
 > This is Engel Montaz\. The essential tracks, all in one playlist.
 
-130 songs - 6 hr 48 min
+131 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [CHARTiANDO](https://open.spotify.com/track/6nl1So5HXqWRuNwBrjafow) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Diamond la Mafia](https://open.spotify.com/artist/5rlinmh5Y0p4zfMY5qngpX) | [CHARTiANDO](https://open.spotify.com/album/0vriCqEMGkaIbDamRDi7MG) | 2:52 | 2025-06-12 |  |
 | [Comerte](https://open.spotify.com/track/1eYu0ieqnTYgCeLohCMHcp) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 3:03 | 2024-07-12 | 2025-05-24 |
 | [Comerte](https://open.spotify.com/track/4DYluIPJsLvat5eijJP082) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 3:03 | 2025-06-10 | 2025-09-05 |
-| [Comerte](https://open.spotify.com/track/7xkWVbwY8h8956yAxBdPyM) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire \(Deluxe\)](https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy) | 3:03 | 2026-03-23 |  |
+| [Comerte](https://open.spotify.com/track/7xkWVbwY8h8956yAxBdPyM) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire \(Deluxe\)](https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy) | 3:03 | 2026-03-23 | 2026-08-03 |
 | [Contigo](https://open.spotify.com/track/0whPfP5Sh4eBJFAV1HcRUB) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire \(Deluxe\)](https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy) | 3:02 | 2026-03-07 |  |
 | [Culiacan](https://open.spotify.com/track/20iFe0nIF1BefqYeTFtXYN) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz) | 2:51 | 2025-03-30 | 2025-06-30 |
 | [Culiacan](https://open.spotify.com/track/3R3kQSwosKvVNqQwa2C9Nq) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 2:51 | 2025-06-30 |  |
@@ -88,6 +88,7 @@
 | [Pegate](https://open.spotify.com/track/3wmfO0mDUmLCxMuUoR5Ldu) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/14Hne9pWpQnWu7SxVcapIT) | 2:45 | 2025-03-26 | 2025-04-02 |
 | [Pegate](https://open.spotify.com/track/3yQblGGfsGEL9kym9k4H3R) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pegate](https://open.spotify.com/album/08lijnYemuN1EnmBGV5VKw) | 2:45 | 2024-06-19 | 2024-08-07 |
 | [Pegate](https://open.spotify.com/track/4lIGs3YtSyB99WuOh4OLIq) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire](https://open.spotify.com/album/4NeGSe9mxAesx5r9dVzcec) | 2:45 | 2025-10-14 | 2026-07-11 |
+| [Pegate](https://open.spotify.com/track/5KB6iSVcgMfEMp05Z0iwn8) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Desire \(Deluxe\)](https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy) | 2:45 | 2026-08-03 |  |
 | [Pilita](https://open.spotify.com/track/3W1X4YpgycUPuYfQ1wwU18) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pilita](https://open.spotify.com/album/6izvyhwMROBRGRZewggfra) | 2:58 | 2025-06-03 | 2025-12-15 |
 | [Pilita](https://open.spotify.com/track/5piUgE2U1yqAADrkUb6oFM) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X) | [Pilita](https://open.spotify.com/album/6W0MM8aD5jKmefxReDfxIk) | 2:58 | 2024-06-19 | 2024-08-07 |
 | [Pilita \- Remix](https://open.spotify.com/track/5EIjKDRZ6IZkNtaBvMOi9P) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Paola Houghton](https://open.spotify.com/artist/0flWB3vtKFc8AQ3AzOtVZb), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz) | [Pilita \(Remix\)](https://open.spotify.com/album/4AxaZrNKROnjlgwtBUWKaD) | 3:06 | 2025-04-09 | 2025-06-03 |

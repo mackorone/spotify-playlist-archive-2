@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Charles Wesley Godwin
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,800 likes - 191 songs - 11 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,842 likes - 191 songs - 11 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

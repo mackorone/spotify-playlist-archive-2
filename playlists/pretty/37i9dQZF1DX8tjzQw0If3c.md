@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Meet the future\. Cover: quiet morning
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,463 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,461 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [talks don't lie](https://open.spotify.com/track/5KF2ZAYkQUfSjiXNyJsAU0) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [talks don't lie](https://open.spotify.com/album/1fnjFp1J2nECRpnmoX1H5y) | 2:41 |
-| 2 | [Setiap Nafasku Kernamu 2026](https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Setiap Nafasku Kernamu 2026](https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2) | 3:24 |
+| 2 | [Setiap Nafasku Kernamu](https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Setiap Nafasku Kernamu](https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2) | 3:23 |
 | 3 | [Bury It](https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Bury It](https://open.spotify.com/album/33W0mcGpZis0alt3swinMu) | 3:08 |
 | 4 | [Lonely](https://open.spotify.com/track/1UtnhHb2yKO7Avayvztx6Y) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [Lonely](https://open.spotify.com/album/0cVZS7Zibq3J2pQCShvcQR) | 2:56 |
 | 5 | [Flowers in June](https://open.spotify.com/track/5KcPziZTjRQUiEHFv4zAwW) | [Celine Wanyi](https://open.spotify.com/artist/6TDH7ncjLQmNKM1SdbggnZ) | [Flowers in June](https://open.spotify.com/album/73dWhP9sRHPHmZj0AZIWM9) | 3:18 |

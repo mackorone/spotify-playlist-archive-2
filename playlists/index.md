@@ -8263,7 +8263,7 @@
 - [Workout Latino](/playlists/pretty/37i9dQZF1DWYK2yx0OW9Kj.md)
 - [Workout Twerkout](/playlists/pretty/37i9dQZF1DX0HRj9P7NxeE.md)
 - [Workout Viral](/playlists/pretty/37i9dQZF1DWYFxWneFvmP1.md)
-- [Works by Mert Çodur](/playlists/pretty/7l9UKjnGuGw5ZR7Lw66uIe.md)
+- [Works by Mert Çodur ✍🏻](/playlists/pretty/7l9UKjnGuGw5ZR7Lw66uIe.md)
 - [World Folk](/playlists/pretty/0ByLkBLDx1AS5yXJuBTyCd.md)
 - [World Sleep Day](/playlists/pretty/37i9dQZF1DXc9CLqcbJJD9.md)
 - [World's Best Dad](/playlists/pretty/37i9dQZF1DX3XHbM3c2ftZ.md)

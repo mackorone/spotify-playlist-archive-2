@@ -7777,6 +7777,28 @@
     },
     {
       "album": {
+        "name": "FOR U",
+        "url": "https://open.spotify.com/album/5PWVvugHvqa3nJV91rcgCw"
+      },
+      "artists": [
+        {
+          "name": "Heliograph",
+          "url": "https://open.spotify.com/artist/1FEutGSizDVYrOB6C8TQXu"
+        },
+        {
+          "name": "Am\u00e8",
+          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "FOR U",
+      "url": "https://open.spotify.com/track/3Q9uzWtxlgjmvxN3jnvC30"
+    },
+    {
+      "album": {
         "name": "For You (Assiove)",
         "url": "https://open.spotify.com/album/1HKmis3cCV0zCvfwfIRatZ"
       },
@@ -22276,7 +22298,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 213855,
       "name": "The Thrill is Gone",
       "url": "https://open.spotify.com/track/5lXX0NaAtr6VPnTxyj6aPB"

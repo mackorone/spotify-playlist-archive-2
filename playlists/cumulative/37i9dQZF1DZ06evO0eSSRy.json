@@ -664,7 +664,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 241920,
       "name": "Mike + Susan",
       "url": "https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ"
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 252169,
       "name": "Violet",
       "url": "https://open.spotify.com/track/2vf8GGzKCRtvjyz0MVL5S1"
@@ -1312,10 +1312,32 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 258850,
       "name": "Wait For Dark",
       "url": "https://open.spotify.com/track/5LCYfYYsJN96vzy9a8SqIY"
+    },
+    {
+      "album": {
+        "name": "Wait For Dark (The Toxic Avenger Remix)",
+        "url": "https://open.spotify.com/album/1YvBftCNy214fE35UO0Avr"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        },
+        {
+          "name": "The Toxic Avenger",
+          "url": "https://open.spotify.com/artist/5zExRf0VQCl3GO4Jrj8r0s"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241417,
+      "name": "Wait For Dark - The Toxic Avenger Remix",
+      "url": "https://open.spotify.com/track/1st4sL0Z4ShdKkXnqR1PLp"
     },
     {
       "album": {

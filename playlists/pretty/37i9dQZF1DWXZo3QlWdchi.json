@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 348707,
+  "num_followers": 348749,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-10-03 16:58:21",
       "album": {
-        "name": "With Or Without You (Songs Of Surrender)",
-        "url": "https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 194812,
-      "name": "With Or Without You - Songs Of Surrender",
-      "url": "https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx"
-    },
-    {
-      "added_at": "2025-10-03 16:58:21",
-      "album": {
         "name": "Moska Apresenta Zoombido: Dado Villa-Lobos",
         "url": "https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 227541,
       "name": "O Teatro dos Vampiros",
       "url": "https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU"
+    },
+    {
+      "added_at": "2025-10-03 16:58:21",
+      "album": {
+        "name": "With Or Without You (Songs Of Surrender)",
+        "url": "https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 194812,
+      "name": "With Or Without You - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx"
     },
     {
       "added_at": "2025-10-03 16:58:21",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-10-03 16:58:21",
       "album": {
-        "name": "Seventeen Days (International Version)",
-        "url": "https://open.spotify.com/album/5vGmRi8jMNCvmysQgBBhpx"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 232013,
-      "name": "Here Without You - Acoustic Version",
-      "url": "https://open.spotify.com/track/6oyUroY42HiaD9Q9VBw4BP"
-    },
-    {
-      "added_at": "2025-10-03 16:58:21",
-      "album": {
         "name": "Music For The Motion Picture Into The Wild",
         "url": "https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 236306,
       "name": "Society",
       "url": "https://open.spotify.com/track/7AYoXqCtME90flUOpBJM7i"
+    },
+    {
+      "added_at": "2025-10-03 16:58:21",
+      "album": {
+        "name": "Seventeen Days (International Version)",
+        "url": "https://open.spotify.com/album/5vGmRi8jMNCvmysQgBBhpx"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 232013,
+      "name": "Here Without You - Acoustic Version",
+      "url": "https://open.spotify.com/track/6oyUroY42HiaD9Q9VBw4BP"
     },
     {
       "added_at": "2025-10-03 16:58:21",

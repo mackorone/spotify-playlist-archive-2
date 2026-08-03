@@ -6,7 +6,7 @@
     "name": "raincandy",
     "url": "https://open.spotify.com/user/megaalexpro3000"
   },
-  "snapshot_id": "AAAKUwOswmB1BMkBcrEvD3C1LbdQcSRp",
+  "snapshot_id": "AAAKVHiFqUotxrr0nf3hbxa4ZIDu1vt8",
   "tracks": [
     {
       "added_at": "2021-08-04 04:53:44",
@@ -8715,6 +8715,26 @@
       "duration_ms": 167800,
       "name": "Shinitagari (feat. HATSUNE MIKU)",
       "url": "https://open.spotify.com/track/6x7eohae2lVhyuWrT73Q0P"
+    },
+    {
+      "added_at": "2026-08-02 06:14:16",
+      "album": {
+        "name": "\u5206\u304b\u3063\u3061\u3083\u3044\u306a\u3044\u306d (feat.\u82b1\u9688\u5343\u51ac)",
+        "url": "https://open.spotify.com/album/3XW0DF3nM1NpuQ9zYnBOfg"
+      },
+      "artists": [
+        {
+          "name": "monet",
+          "url": "https://open.spotify.com/artist/1q9lQ4dwpQUDsYLtYNuZnf"
+        },
+        {
+          "name": "\u82b1\u9688\u5343\u51ac",
+          "url": "https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "\u5206\u304b\u3063\u3061\u3083\u3044\u306a\u3044\u306d - feat.\u82b1\u9688\u5343\u51ac",
+      "url": "https://open.spotify.com/track/5yEVYY3MipQkWLVb1cqR02"
     }
   ],
   "unique_name": "KristaLenz",

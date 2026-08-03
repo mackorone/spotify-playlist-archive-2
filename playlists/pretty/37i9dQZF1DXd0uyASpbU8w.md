@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from New music from JAZZWRLD, Ariana Grande, Davido, MÖRDA,  Lusanda, MOLIY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,546 likes - 99 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,604 likes - 99 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

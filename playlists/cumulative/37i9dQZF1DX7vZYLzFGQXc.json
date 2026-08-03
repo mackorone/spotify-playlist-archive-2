@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: \uc5f0\uc815(YeonJeong)) (Meet the emerging talents of Korea!) ",
+  "description": "\ud53c\uc5b4\ub098\uace0 \uc788\ub294 \ud55c\uad6d\uc758 \uc7ac\ub2a5\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694! (Cover: Alice Syndrome) (Meet the emerging talents of Korea!) ",
   "name": "Fresh Finds Korea",
   "tracks": [
     {
@@ -6318,6 +6318,24 @@
       "duration_ms": 200500,
       "name": "Deep Blue Dive",
       "url": "https://open.spotify.com/track/3L7KQebMPA3JFIdqy8QxEc"
+    },
+    {
+      "album": {
+        "name": "Deep Dive",
+        "url": "https://open.spotify.com/album/6OHUIjVYP12r5212ioJtRI"
+      },
+      "artists": [
+        {
+          "name": "Alice Syndrome",
+          "url": "https://open.spotify.com/artist/7fNeWBcx24ttY7l6TxFDJx"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/2BWqnsiMhGNpNa9NGLv9VC"
     },
     {
       "album": {
@@ -15634,7 +15652,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 114687,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2RGX6bawrjRBzJUQ3sf0SG"
@@ -22362,7 +22380,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 105390,
       "name": "Rollingloud",
       "url": "https://open.spotify.com/track/31yTDaGkc5yV3LnxLCVkm9"
@@ -22456,6 +22474,24 @@
       "duration_ms": 177937,
       "name": "rotten on the inside",
       "url": "https://open.spotify.com/track/6gxaJhYFNYhzQWJH01JqR3"
+    },
+    {
+      "album": {
+        "name": "Comikai",
+        "url": "https://open.spotify.com/album/1OiWbUDFPpye5aHlbCZj4B"
+      },
+      "artists": [
+        {
+          "name": "Tokai",
+          "url": "https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201871,
+      "name": "round",
+      "url": "https://open.spotify.com/track/1NaDBli5yq02ienC980KcK"
     },
     {
       "album": {

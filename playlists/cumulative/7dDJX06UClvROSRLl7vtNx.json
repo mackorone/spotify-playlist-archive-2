@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 171842,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/0XKRBp3R8w2kAuQJYSa8Vf"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 151034,
       "name": "Be Somebody",
       "url": "https://open.spotify.com/track/2tW9Ktaxm5RpesLlEK0jIP"
@@ -2490,6 +2490,24 @@
       "duration_ms": 128406,
       "name": "Better Give It Back",
       "url": "https://open.spotify.com/track/5rHxyjFcafXhl4ELUPAhtr"
+    },
+    {
+      "album": {
+        "name": "Better Late Than Never",
+        "url": "https://open.spotify.com/album/21jYJVgPxvFTWXpnyTZ316"
+      },
+      "artists": [
+        {
+          "name": "Benedict Ammann",
+          "url": "https://open.spotify.com/artist/60kjG4d8jemoykwV2UU3fw"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Better Late Than Never",
+      "url": "https://open.spotify.com/track/6cCYrxYVbhUlb6Izw9YN9P"
     },
     {
       "album": {
@@ -4234,7 +4252,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 151076,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/6Wx2Mj7N0JSaUPsdA4POA5"
@@ -5458,7 +5476,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-17",
+      "date_removed": null,
       "duration_ms": 139000,
       "name": "Dancing In My Mind",
       "url": "https://open.spotify.com/track/3eCGc11ZdggTwvnNwkBH0t"
@@ -10544,6 +10562,46 @@
       "duration_ms": 109913,
       "name": "hand in hand",
       "url": "https://open.spotify.com/track/1pSkJDSvonsHZjfd6kW9yX"
+    },
+    {
+      "album": {
+        "name": "Happiness Is So Sad",
+        "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232835,
+      "name": "Happiness Is So Sad",
+      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
+    },
+    {
+      "album": {
+        "name": "hate that i made you love me",
+        "url": "https://open.spotify.com/album/7EmSbNRhBtX9vvB7ANwrCY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santoro",
+          "url": "https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114206,
+      "name": "hate that i made you love me",
+      "url": "https://open.spotify.com/track/3TZKWyW7fJzQ5o9JOX4C62"
     },
     {
       "album": {
@@ -19612,7 +19670,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 131370,
       "name": "Never Tell You",
       "url": "https://open.spotify.com/track/6rv3rD9z6ZUtT3Y3ErUJ8w"
@@ -20042,6 +20100,28 @@
       "duration_ms": 130093,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/6tekbBbL0YC854BVqGC61a"
+    },
+    {
+      "album": {
+        "name": "No Plans",
+        "url": "https://open.spotify.com/album/3ktbBZ0Oa9cKBYeb72Niam"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/6RwJwtGVyIGSs1oSAPnxYV"
+        },
+        {
+          "name": "Eirik N\u00e6ss",
+          "url": "https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149745,
+      "name": "No Plans",
+      "url": "https://open.spotify.com/track/00aAtvHV2rXTXxym5T4ZcK"
     },
     {
       "album": {
@@ -21306,6 +21386,24 @@
       "duration_ms": 195491,
       "name": "Out of View",
       "url": "https://open.spotify.com/track/5WEkJmg9cseZ3sRUR0yrMW"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/7H4GDGJcJgB7M04CuemReR"
+      },
+      "artists": [
+        {
+          "name": "Loum\u00e9",
+          "url": "https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/1JRK4RmPh0tf3CYZA277kl"
     },
     {
       "album": {
@@ -27107,6 +27205,24 @@
     },
     {
       "album": {
+        "name": "Takeaway",
+        "url": "https://open.spotify.com/album/4Du6UkyWI59xc7cYoO9k7g"
+      },
+      "artists": [
+        {
+          "name": "Goldaine",
+          "url": "https://open.spotify.com/artist/1QftYA5x2E5cUTutfjtcfg"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169168,
+      "name": "Takeaway",
+      "url": "https://open.spotify.com/track/6PLkodpqG38f8oWIfmjQAj"
+    },
+    {
+      "album": {
         "name": "Taking My Time",
         "url": "https://open.spotify.com/album/3KPjCRmT9v95pTPff2Po0v"
       },
@@ -31020,10 +31136,32 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 144666,
       "name": "Wild World",
       "url": "https://open.spotify.com/track/1d3F9C4d1H7j8qd26pCJ9k"
+    },
+    {
+      "album": {
+        "name": "WILDFLOWER",
+        "url": "https://open.spotify.com/album/38rGzGEIHbwg4nIJL9kkhK"
+      },
+      "artists": [
+        {
+          "name": "Nexeri",
+          "url": "https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU"
+        },
+        {
+          "name": "Anna-Sophia Henry",
+          "url": "https://open.spotify.com/artist/7eMgHO3ZOlcpWKM3OFnnS8"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173009,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/7GaZx2LRKgiMTcc1DpVwav"
     },
     {
       "album": {
@@ -31596,7 +31734,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 161454,
       "name": "You're On My Mind",
       "url": "https://open.spotify.com/track/0NuRQ8T08FBaoWm0fYIHbN"
@@ -31896,7 +32034,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 240018,
       "name": "Your Love's Not Wasted",
       "url": "https://open.spotify.com/track/1at0ZV2iOErop550JQLyZR"

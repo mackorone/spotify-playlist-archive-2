@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 340960,
+  "num_followers": 341033,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
+        "name": "PROYECTANDO",
+        "url": "https://open.spotify.com/album/3ojnQILwWc6ohZQVxtETHI"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "replica.",
+      "url": "https://open.spotify.com/track/5Bae75jc8KHMTatYOqnoTR"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
         "name": "Inseparables",
         "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 171724,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
-        "name": "PROYECTANDO",
-        "url": "https://open.spotify.com/album/3ojnQILwWc6ohZQVxtETHI"
-      },
-      "artists": [
-        {
-          "name": "Julio Caesar",
-          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "replica.",
-      "url": "https://open.spotify.com/track/5Bae75jc8KHMTatYOqnoTR"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
+        "name": "Te Vas A Recordar",
+        "url": "https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo"
+      },
+      "artists": [
+        {
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+        }
+      ],
+      "duration_ms": 154992,
+      "name": "Te Vas A Recordar",
+      "url": "https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
         "name": "ETERNIDAD",
         "url": "https://open.spotify.com/album/6uTbojuC06kCClkCESJQWQ"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 175374,
       "name": "ETERNIDAD",
       "url": "https://open.spotify.com/track/4mM6PM85CSGiRNj7y8fOFD"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
-        "name": "Te Vas A Recordar",
-        "url": "https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo"
-      },
-      "artists": [
-        {
-          "name": "Erick B",
-          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
-        }
-      ],
-      "duration_ms": 154992,
-      "name": "Te Vas A Recordar",
-      "url": "https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Proximo Paso",
-        "url": "https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc"
-      },
-      "artists": [
-        {
-          "name": "LDNE",
-          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
-        }
-      ],
-      "duration_ms": 163126,
-      "name": "Amor De Cuentos",
-      "url": "https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Fases del Amor",
         "url": "https://open.spotify.com/album/3J1EDYS7W0KkhrLPrBMNy5"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 216149,
       "name": "Amor Con Detalle",
       "url": "https://open.spotify.com/track/3oJ0PDZQhIyrPWTqiESrjC"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "Proximo Paso",
+        "url": "https://open.spotify.com/album/6MwNDzZOVY9vcbhyqfJKuc"
+      },
+      "artists": [
+        {
+          "name": "LDNE",
+          "url": "https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ"
+        }
+      ],
+      "duration_ms": 163126,
+      "name": "Amor De Cuentos",
+      "url": "https://open.spotify.com/track/3bV4QB5JZAueeyo9W2EEWr"
     },
     {
       "added_at": "2026-07-01 22:36:45",

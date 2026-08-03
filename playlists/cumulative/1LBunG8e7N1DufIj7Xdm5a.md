@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,579 songs - 10 day 5 hr 54 min
+4,580 songs - 10 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -828,6 +828,7 @@
 | [Cuore in Replay](https://open.spotify.com/track/19boOZhkAskfnzEYtq6LuD) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 2:12 | 2025-09-12 |  |
 | [Cuore mio](https://open.spotify.com/track/7nIKzzvlWEmQCnuswp4CBK) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Canzoni d'amore in italiano](https://open.spotify.com/album/5HmX06Lu08Qs5pFbYVpY59) | 2:06 | 2025-06-09 |  |
 | [Cuore Musica virale italiana amore gioco divertimento gioia bello bella musica rap disco virale viral trap rap pop](https://open.spotify.com/track/1MGcAE3aBEFpj9WAh5QNfv) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Musica virale italiana amore gioco divertimento gioia bello bella musica rap disco virale viral trap rap pop](https://open.spotify.com/album/3Ldlz4AkeXLMfzHDs9kD8D) | 2:52 | 2025-09-17 |  |
+| [Cut Me Down to Size](https://open.spotify.com/track/5ZRkevvQxGto6eP71Teft8) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [Cut Me Down to Size](https://open.spotify.com/album/0oTtC46dVij7iYYAIaF6C7) | 3:44 | 2026-08-02 |  |
 | [Cyberstorm Riders](https://open.spotify.com/track/5raAIeFxXGc7jcemgXTnr2) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Virtual rock](https://open.spotify.com/album/48aggZCMxbdvSMGvL55GyX) | 3:11 | 2025-09-12 |  |
 | [Czerwiec](https://open.spotify.com/track/371Bud7vCUKSWfKnOo3c25) | [E.SENS](https://open.spotify.com/artist/1BUQj1EELFrrdvYU0anLdQ) | [Czerwiec](https://open.spotify.com/album/6d01sG2vbnyE04774uzKY1) | 6:02 | 2025-12-23 |  |
 | [C´ero](https://open.spotify.com/track/2RFTA5u20GcOFPZyn9QHGD) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [Simona Coretti](https://open.spotify.com/artist/55xuVhgRVbnRWQvlr1WqTk) | [C´ero](https://open.spotify.com/album/2MjMwLrjVZ7yG4kRaZr9fQ) | 4:45 | 2025-06-11 |  |

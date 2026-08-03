@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 161110,
       "name": "Darbe",
       "url": "https://open.spotify.com/track/6utYISWOzCaV96ey2uXUF3"
@@ -5152,6 +5152,32 @@
       "duration_ms": 169480,
       "name": "G\u00f6\u00e7ebe",
       "url": "https://open.spotify.com/track/0wvcfZY5c8B2j0rsqMzWdy"
+    },
+    {
+      "album": {
+        "name": "G\u00fcld\u00fc\u011f\u00fcm Foto\u011fraflar",
+        "url": "https://open.spotify.com/album/14Km2i0vf9qFXjyJMMLXxY"
+      },
+      "artists": [
+        {
+          "name": "Do\u011fu Swag",
+          "url": "https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy"
+        },
+        {
+          "name": "Kamuran Akkor",
+          "url": "https://open.spotify.com/artist/1hWI1MD4Pe3cgDsgk4eLfR"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145736,
+      "name": "G\u00fcld\u00fc\u011f\u00fcm Foto\u011fraflar",
+      "url": "https://open.spotify.com/track/5SHEz1XsYhrx5EFEMVBkEh"
     },
     {
       "album": {

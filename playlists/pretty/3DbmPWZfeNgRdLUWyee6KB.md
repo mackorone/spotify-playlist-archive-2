@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,329 likes - 125 songs - 7 hr 13 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,329 likes - 129 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,5 +133,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 123 | [Magia](https://open.spotify.com/track/1BynXbJP0zjf7D9Dddnwiq) | [Henry Key](https://open.spotify.com/artist/0fFowNydSeaku95nJbHodn) | [Magia](https://open.spotify.com/album/0aObso7ECNhubfU458p5wP) | 4:19 |
 | 124 | [Neon Lights \(Rosie\)](https://open.spotify.com/track/0QFZoyrRiMq2P2kuG66WQQ) | [Remco Tuns](https://open.spotify.com/artist/3p5MUwzf3k2Ri9Q04kWnRF) | [Neon Lights \(Rosie\)](https://open.spotify.com/album/0pKzR1iwTAZxgNc714ACli) | 4:18 |
 | 125 | [BORN OF LOVE](https://open.spotify.com/track/5JEBbEpMBo1ndQdtMD9RhL) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [BORN OF LOVE](https://open.spotify.com/album/4iqBnm4G4xEOz4YSDSOJEQ) | 2:28 |
+| 126 | [Salida](https://open.spotify.com/track/34Aj31aeIkukCiYlbQjsMe) | [Jay Hofman](https://open.spotify.com/artist/4WWuKUayc9e9IQm8cAV72x) | [Salida](https://open.spotify.com/album/09qRipyIm17H5QKkqjACuF) | 2:57 |
+| 127 | [Who Was I When We Were Just Friends](https://open.spotify.com/track/4AR81DRiSzZRzvN5PY5uQt) | [Aleksi Oksanen](https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2) | [Who Was I When We Were Just Friends](https://open.spotify.com/album/0zaQ4czgKuaGBEwLjcfxks) | 2:15 |
+| 128 | [Luce dietro uno sbaglio](https://open.spotify.com/track/190q5mlywVt3iNlcRE1zVh) | [Diego Marangiolo](https://open.spotify.com/artist/54wSnyEqvXdVX8wvfsZccA) | [Luce dietro uno sbaglio](https://open.spotify.com/album/0fGXuQkb7Y2WfmF7dU1Atk) | 4:28 |
+| 129 | [Where Were You Girl](https://open.spotify.com/track/6SgqCwZCcDckUEH89kR0GL) | [Mikey Sovereign](https://open.spotify.com/artist/6s6EknLmFnL0AxRtnaexIJ) | [Where Were You Girl](https://open.spotify.com/album/0DdwNKGUvrEh7wqNZ2KzKT) | 4:09 |
 
-Snapshot ID: `AAAWksILTdqgjIj+n/236fkhg5fmz/+n`
+Snapshot ID: `AAAWluchjBOWHfYGcRBO3LV3M/KdP/vD`

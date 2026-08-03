@@ -15958,7 +15958,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 386382,
       "name": "WHATEVER (TO YOUR GLORY)",
       "url": "https://open.spotify.com/track/5GNInxl3MHbeC7Of0jTIqO"
@@ -16724,6 +16724,28 @@
       "duration_ms": 216962,
       "name": "Yeshua (Worship Rendition)",
       "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"
+    },
+    {
+      "album": {
+        "name": "YESU",
+        "url": "https://open.spotify.com/album/6AmGXpLt7W7ygyt1Ojk8el"
+      },
+      "artists": [
+        {
+          "name": "Vblaiz",
+          "url": "https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca"
+        },
+        {
+          "name": "Spillz Ochai",
+          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
+        }
+      ],
+      "date_added": "2026-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "YESU",
+      "url": "https://open.spotify.com/track/54wWAAGkIHZG03JkcSd2cS"
     },
     {
       "album": {

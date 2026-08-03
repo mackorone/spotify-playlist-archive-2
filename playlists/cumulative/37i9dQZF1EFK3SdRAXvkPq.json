@@ -1007,6 +1007,28 @@
     },
     {
       "album": {
+        "name": "En 5",
+        "url": "https://open.spotify.com/album/3DBfCQMtc7N8KGcLi3SdwL"
+      },
+      "artists": [
+        {
+          "name": "Chanell",
+          "url": "https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA"
+        },
+        {
+          "name": "Rios",
+          "url": "https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "En 5",
+      "url": "https://open.spotify.com/track/5wyghWpA8bRNnx6SgsQGDb"
+    },
+    {
+      "album": {
         "name": "XiOLLY",
         "url": "https://open.spotify.com/album/2zQDQd7w0BEv1slqKnp6ka"
       },

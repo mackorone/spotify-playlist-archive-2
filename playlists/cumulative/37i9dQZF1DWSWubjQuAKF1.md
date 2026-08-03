@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: pszona, Nita
 
-930 songs - 1 day 21 hr 20 min
+931 songs - 1 day 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [jeśli pozwolisz](https://open.spotify.com/track/6qz5YC7w9zHvbo8idA2eZu) | [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl), [20tune](https://open.spotify.com/artist/6n5vxeBa60Rm5Bv2QNUtEZ) | [jeśli pozwolisz](https://open.spotify.com/album/52NTrPLQ6CjIXbJ8c2zhmE) | 2:12 | 2026-07-16 |  |
 | [Joyride](https://open.spotify.com/track/4s27xtyDNC6C3SCBKn8He3) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Joyride](https://open.spotify.com/album/2mqDhcLG9qQ1rlHx8LKAlj) | 4:44 | 2025-05-08 | 2025-05-23 |
 | [jutro będzie furtką](https://open.spotify.com/track/7CKoaVBHrzovd5lRLnpHAi) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [jutro będzie furtką](https://open.spotify.com/album/10EBsg405gpFD2LpUnv6ES) | 3:08 | 2024-06-28 | 2024-07-05 |
-| [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/track/6fAjclJ49KZBzgOwhkpTqH) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [stas](https://open.spotify.com/artist/72Vq7ugNRnMWOnFZkvj3zd) | [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/album/26ko8YSiHDYAyoanRXJ1Gl) | 4:37 | 2026-07-16 |  |
+| [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/track/6fAjclJ49KZBzgOwhkpTqH) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al), [stas](https://open.spotify.com/artist/72Vq7ugNRnMWOnFZkvj3zd) | [jutro spoczniemy na dnie odległego morza](https://open.spotify.com/album/26ko8YSiHDYAyoanRXJ1Gl) | 4:37 | 2026-07-16 | 2026-08-03 |
 | [Już nie szkoda](https://open.spotify.com/track/3FwSAioifZmEAWoIDNvAe4) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Już nie szkoda](https://open.spotify.com/album/4rfPIIZxl5G2O5UcuxZlvh) | 2:48 | 2024-06-28 | 2024-11-29 |
 | [Kalifornia](https://open.spotify.com/track/2s33rfHUFAxiTh9AzSUloU) | [Kalina Kortas](https://open.spotify.com/artist/5Xp6aLgSP9G5w1FV8p0VJ7) | [Kalifornia](https://open.spotify.com/album/7kD8PQnZQ5WetSlvANmeQk) | 4:33 | 2025-04-24 | 2025-08-20 |
 | [Kamień z serca](https://open.spotify.com/track/7zbQXoTGpZWpTekjTxfv7L) | [Filip Grodowski](https://open.spotify.com/artist/3YZ6csVW5tYKTAK5UuWU6f) | [Kamień z serca](https://open.spotify.com/album/748zCQqQwaa18ZqOExNGon) | 3:52 | 2024-06-28 | 2024-08-02 |
@@ -610,6 +610,7 @@
 | [Plot Twist](https://open.spotify.com/track/5LYMiqTgWew8ycVe0J6nCE) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Plot Twist](https://open.spotify.com/album/4j88MgnY8SnxwQYncvsSOX) | 3:42 | 2025-05-01 | 2025-08-27 |
 | [Po blady świt](https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Po blady świt](https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc) | 2:36 | 2025-08-07 | 2025-11-12 |
 | [Po co tyle mówić](https://open.spotify.com/track/1sWLhSjvxrwbIBpOpOap80) | [Klaudia Sadownik](https://open.spotify.com/artist/55WKQ59yDpmZOoFOSTTnGc) | [Po co tyle mówić](https://open.spotify.com/album/2g8IESnzovXJeB6y5q3ytZ) | 2:37 | 2026-02-05 | 2026-04-18 |
+| [Po nocach](https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Po nocach](https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC) | 3:31 | 2026-07-30 |  |
 | [pod kinem ars](https://open.spotify.com/track/34OjdDC2suHiBcou6MvCJ2) | [adaś.](https://open.spotify.com/artist/63Zfzws3zct6H4L21p9WBT) | [pod kinem ars/kraków](https://open.spotify.com/album/4fFszLQ6PT9KjKAX22VKmP) | 2:39 | 2025-05-08 | 2025-08-27 |
 | [Pojutrze](https://open.spotify.com/track/3lHIx9LQzdH9ujcP5ijKEm) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Kosma Król](https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [Pojutrze](https://open.spotify.com/album/2wg5VZWYA848fPyVuhLAI0) | 3:03 | 2025-10-14 | 2026-02-28 |
 | [Pokaż Twarz \(tą naprawdę\)](https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Wachlarz Wad EP](https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe) | 2:04 | 2024-08-22 | 2025-01-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: A Girl Named Sue
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,031 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,021 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,15 +53,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 43 | [verres fumés](https://open.spotify.com/track/0CIxZ3jui54TMlM0AaAltU) | [mirani coelho](https://open.spotify.com/artist/25W2wGoMZL13LGDKG0AwFE) | [les nuits sont blanches](https://open.spotify.com/album/0k61qpSgf8oIqE0ieRstLi) | 3:22 |
 | 44 | [Todas mis amigas](https://open.spotify.com/track/0JoOGk5R9Sa9ISqQJamDeq) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Todas mis amigas](https://open.spotify.com/album/0j4qMqHkx8fQ2dCYtx2v2s) | 3:48 |
 | 45 | [Tarot](https://open.spotify.com/track/1PNaCwrKIBqjaK5FR2NnUJ) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ), [Rose Perron](https://open.spotify.com/artist/6arQDOSIlfPHcQntq07PwB) | [Soleil mâché \(Deluxe\)](https://open.spotify.com/album/7IGfOCio5mpupVMo6isDVp) | 4:08 |
-| 46 | [Demain ça ira](https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Demain ça ira](https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU) | 2:43 |
-| 47 | [Cimetière](https://open.spotify.com/track/4ATBchsxcAjYF9fd8cNfIr) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 3:33 |
-| 48 | [Oiseaux de Paradis](https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [Oiseaux de Paradis](https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt) | 2:04 |
-| 49 | [rappelle\-moi comme je t'aime](https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [rappelle\-moi comme je t'aime](https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia) | 2:27 |
+| 46 | [Cimetière](https://open.spotify.com/track/4ATBchsxcAjYF9fd8cNfIr) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 3:33 |
+| 47 | [Oiseaux de Paradis](https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [Oiseaux de Paradis](https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt) | 2:04 |
+| 48 | [rappelle\-moi comme je t'aime](https://open.spotify.com/track/7t2FQ6axbPAIlvF0hL1fHo) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [rappelle\-moi comme je t'aime](https://open.spotify.com/album/1uOEvYoyBaPZiyoiGQloia) | 2:27 |
+| 49 | [Demain ça ira](https://open.spotify.com/track/4W0jV4o6RnyfAuvME4vrdE) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Demain ça ira](https://open.spotify.com/album/4NlzyfHNqjy6oAFz0cMXdU) | 2:43 |
 | 50 | [Dis\-moi dis\-moi dis\-moi](https://open.spotify.com/track/6CUxtpfcHNJ3s06zxKeppu) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 5:09 |
 | 51 | [Courtside](https://open.spotify.com/track/6QhGBKtGXBhXd1EhEL5anv) | [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Courtside](https://open.spotify.com/album/1LQGcMlDlu7pPTvK7DEKeq) | 3:02 |
 | 52 | [Les serpents dans l'eau](https://open.spotify.com/track/6ZGX8nLM6kani2v2wCerdu) | [cécile](https://open.spotify.com/artist/6HIwsEBS1Dj8hGwGEkOTuH) | [Les serpents dans l'eau](https://open.spotify.com/album/7AcpknvU4FKKeMBgu8nxge) | 3:37 |
-| 53 | [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:34 |
-| 54 | [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 |
+| 53 | [Demain](https://open.spotify.com/track/3jQaZdtiJSqgqNFWr0sTQi) | [Zach Boileau](https://open.spotify.com/artist/1mqeUauj1VuSpUlKNQITEO) | [Demain](https://open.spotify.com/album/5yrVMu7WgtlwdDf4vnLxF1) | 3:49 |
+| 54 | [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:34 |
 | 55 | [I don't know](https://open.spotify.com/track/6XWdaebxDMgRG7j1xcOOYK) | [Bye Parula](https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm) | [I don't know](https://open.spotify.com/album/3Ybf5umAW3SsLNg96iHEqu) | 3:01 |
 | 56 | [Tout c’qui faut](https://open.spotify.com/track/1A21CNvI9q1GPO0qrcWcff) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Westfalia](https://open.spotify.com/album/443lfcpqPXNytv4Om5VQwl) | 1:57 |
 | 57 | [Fleuron \(feat\. Helena Deland\)](https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT) | [N NAO](https://open.spotify.com/artist/2bTWc0z5acK6nczbQAoiFs), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Fleuron \(feat\. Helena Deland\)](https://open.spotify.com/album/6Qp4q7H4L6xOiR6rfpGxn0) | 3:15 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 64 | [Différent](https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Différent](https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk) | 3:59 |
 | 65 | [L'enfant](https://open.spotify.com/track/1IBiHeP00McsgUdaxV2zNa) | [Tomás Jensen](https://open.spotify.com/artist/6589fvi46EUYl0jInr8haq), [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [L'enfant](https://open.spotify.com/album/60PrtXtx5eA7QcW5IuQzAY) | 2:23 |
 | 66 | [Je t'oublie quand même pas](https://open.spotify.com/track/671zz3HwewTjJkZefzJSV0) | [maudit vincent](https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ) | [Je t'oublie quand même pas](https://open.spotify.com/album/0woE4E5OxLtqJpsDINKYTh) | 3:30 |
-| 67 | [Superstar](https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Superstar](https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu) | 5:37 |
-| 68 | [Not on the Run](https://open.spotify.com/track/3sKzGE1NqzMV96BqacsEm6) | [True Quiet](https://open.spotify.com/artist/6uDLahVZZGW8tboTCW88fO) | [Not on the Run](https://open.spotify.com/album/3drm7P3ddFJldy10G0hhAp) | 3:51 |
+| 67 | [Not on the Run](https://open.spotify.com/track/3sKzGE1NqzMV96BqacsEm6) | [True Quiet](https://open.spotify.com/artist/6uDLahVZZGW8tboTCW88fO) | [Not on the Run](https://open.spotify.com/album/3drm7P3ddFJldy10G0hhAp) | 3:51 |
+| 68 | [Superstar](https://open.spotify.com/track/2Ku0H3lqNDnm6G4kls95TD) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Superstar](https://open.spotify.com/album/3jGaPbBCDtJ7ebpf3dRvnu) | 5:37 |
 | 69 | [Timid](https://open.spotify.com/track/7KIk6TtenbaYf0OUJQqIui) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Timid](https://open.spotify.com/album/5CGOzYGviWoPJ6NYpScd8S) | 2:44 |
-| 70 | [Psychanalyse](https://open.spotify.com/track/14pKbv6P2phFoRd1Lz0vw0) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [L'Empreinte](https://open.spotify.com/album/2hkItHjREBQK4IsEJpH55R) | 3:02 |
-| 71 | [Que ta lumière](https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:52 |
+| 70 | [Que ta lumière](https://open.spotify.com/track/7HnHrPmhNbpj7Dim9MhoiD) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Que ta lumière](https://open.spotify.com/album/6s980Fk6p3ZTq8obc8QWVO) | 3:52 |
+| 71 | [Psychanalyse](https://open.spotify.com/track/14pKbv6P2phFoRd1Lz0vw0) | [Olivier Dion](https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em) | [L'Empreinte](https://open.spotify.com/album/2hkItHjREBQK4IsEJpH55R) | 3:02 |
 | 72 | [Rebound](https://open.spotify.com/track/2NU1A3X5QujCGbAPdknQds) | [BLAMM](https://open.spotify.com/artist/1TbAGh6JkVh5HvZT6rYNx5) | [Rebound](https://open.spotify.com/album/7EsBLqMpkg846Of7Dz34j9) | 3:56 |
-| 73 | [Ya sé ya sé](https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Ya sé ya sé](https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe) | 3:43 |
+| 73 | [Roi de verre](https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Verger](https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe) | 3:33 |
 | 74 | [Tour à tour](https://open.spotify.com/track/4j4tyrrwdc0YLwhxxVDv6D) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Tour à tour](https://open.spotify.com/album/1orARXhhwh1AGCnjJU42MU) | 4:04 |
-| 75 | [Roi de verre](https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Verger](https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe) | 3:33 |
+| 75 | [Ya sé ya sé](https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Ya sé ya sé](https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe) | 3:43 |
 
 Snapshot ID: `AAAAADbCW2bn1p/FwA7HH4fMpwi7TSDS`

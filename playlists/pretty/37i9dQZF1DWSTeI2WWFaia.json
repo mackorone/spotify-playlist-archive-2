@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs",
-  "num_followers": 1559928,
+  "num_followers": 1559046,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-07-31 04:07:15",
       "album": {
+        "name": "Paradise Records (Compilation)",
+        "url": "https://open.spotify.com/album/40Hm1ZgcdadbdymClfKAGg"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 129032,
+      "name": "A Man Free",
+      "url": "https://open.spotify.com/track/0FuXPVjTdLeRZva6JIcYX4"
+    },
+    {
+      "added_at": "2026-07-31 04:07:15",
+      "album": {
         "name": "Everything Is Up",
         "url": "https://open.spotify.com/album/6qgSeHaLTT3wKwIj38kr2H"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 198842,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/36u1dV1zt17N8Cv7Ptct4u"
-    },
-    {
-      "added_at": "2026-07-31 04:07:15",
-      "album": {
-        "name": "Paradise Records (Compilation)",
-        "url": "https://open.spotify.com/album/40Hm1ZgcdadbdymClfKAGg"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 129032,
-      "name": "A Man Free",
-      "url": "https://open.spotify.com/track/0FuXPVjTdLeRZva6JIcYX4"
     },
     {
       "added_at": "2026-07-31 04:07:15",

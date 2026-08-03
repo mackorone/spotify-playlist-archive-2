@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Karla Blum
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,354 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,353 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 8 | [erst recht](https://open.spotify.com/track/0ZKIhZ5jljuJLbRCK5H9Ky) | [Maiva](https://open.spotify.com/artist/5DluYS6gq7pRws9o6EgVd5) | [erst recht](https://open.spotify.com/album/2y0yqDdEMm3TcX4CGODbTC) | 2:43 |
 | 9 | [hausverbot](https://open.spotify.com/track/35d7jd7wWS3GstJwVNZy3b) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [wofür es sich zu leben lohnt](https://open.spotify.com/album/4S7PyRhfDKCJZR5cwfun5E) | 2:16 |
 | 10 | [liebesbriefe](https://open.spotify.com/track/69MCaMdyBZdEbQ8Cmm4KR8) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [liebesbriefe](https://open.spotify.com/album/7cVKmiIAgdECyVNcLp6DNI) | 2:36 |
-| 11 | [HAUS AM SEE](https://open.spotify.com/track/6sRK4yi2tLstoer3aBj6OH) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [LOVE & DRAMA EP](https://open.spotify.com/album/5gt210h6ghl9bNDdiOfqxt) | 2:50 |
-| 12 | [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:43 |
+| 11 | [jAGUAR](https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [jAGUAR](https://open.spotify.com/album/0l9CUduPknG2IUpQuSozq7) | 3:43 |
+| 12 | [HAUS AM SEE](https://open.spotify.com/track/6sRK4yi2tLstoer3aBj6OH) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [LOVE & DRAMA EP](https://open.spotify.com/album/5gt210h6ghl9bNDdiOfqxt) | 2:50 |
 | 13 | [Knutschen auf der Parkbank](https://open.spotify.com/track/4ykIk22caYVdMwa0u4hvHw) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A), [HugoBass303](https://open.spotify.com/artist/6XNqxmXgwyt8DMm3V5qJEe), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi), [boundxry](https://open.spotify.com/artist/1ptaodI1Jp1koSslcbGHEf) | [Knutschen auf der Parkbank](https://open.spotify.com/album/0b0XGbnBxlOMaiXco0PIYQ) | 2:40 |
 | 14 | [Ahogar](https://open.spotify.com/track/5LLiqyPHWYbomYMN0zAKkw) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Ahogar](https://open.spotify.com/album/31XDTWFSluMZBsk2qytq7q) | 3:13 |
 | 15 | [Drei Geile Chayas](https://open.spotify.com/track/49XNR7WKDuq8JeFyxw5AIz) | [Drei Geile Chayas](https://open.spotify.com/artist/17wFC9W0Gg4SQu02LbdDq9), [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH), [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [Drei Geile Chayas](https://open.spotify.com/album/3SYh47eVgHy9YAxzscFGxI) | 2:13 |

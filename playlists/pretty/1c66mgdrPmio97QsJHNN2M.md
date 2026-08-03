@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,809 likes - 246 songs - 12 hr 43 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,809 likes - 253 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -254,5 +254,12 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 244 | [All My Life](https://open.spotify.com/track/4B74UoHA19UF4u140v6Aa9) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Better Late Than Never](https://open.spotify.com/album/3fnfS9UWZCMbbySmokBIdP) | 3:08 |
 | 245 | [Man For A Minute](https://open.spotify.com/track/53ggds18yq6n2FVeK0MzxY) | [Eugene](https://open.spotify.com/artist/1XSk6lGRiKMabwZ4IST6mA) | [Man For A Minute](https://open.spotify.com/album/7FGTzA1y9IZFJcPqXGmxgt) | 2:58 |
 | 246 | [Who Was I When We Were Just Friends](https://open.spotify.com/track/4AR81DRiSzZRzvN5PY5uQt) | [Aleksi Oksanen](https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2) | [Who Was I When We Were Just Friends](https://open.spotify.com/album/0zaQ4czgKuaGBEwLjcfxks) | 2:15 |
+| 247 | [Struck By You](https://open.spotify.com/track/0t9gMLis4GwChM8QDXFqRw) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK) | [Struck By You](https://open.spotify.com/album/6DFALfHV8X96qJUYro9brF) | 3:29 |
+| 248 | [secrets](https://open.spotify.com/track/6nb5CtyFy9vMWxMQ5lauA9) | [Charlie Beeler](https://open.spotify.com/artist/1FGzYU5KAWovdK7aLC5GNe) | [secrets](https://open.spotify.com/album/2JAljWlLGUCul1ynlFQKbO) | 3:00 |
+| 249 | [i was seeing you in my dream](https://open.spotify.com/track/7hUDtA4RnoLMhOMCATVoqB) | [emptyseason](https://open.spotify.com/artist/0jxfTQcsU4LiedfwSrFjrC) | [i was seeing you in my dream](https://open.spotify.com/album/7MwU6f6cRbHw2YYkhgE9i5) | 2:43 |
+| 250 | [Harley](https://open.spotify.com/track/1ruY0WaHQwGyr6FKjuWPDp) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Harley](https://open.spotify.com/album/6vOvfyNhpj5RGzB0k6wTut) | 2:15 |
+| 251 | [Can't find it](https://open.spotify.com/track/1ous0BqqItWJWDIJ4ThNqE) | [Ab Emson](https://open.spotify.com/artist/0VEpBBlRYdwLuBXbg6d2Re) | [Can't find it](https://open.spotify.com/album/3DdNL7aEAiVq1tq49H0iyc) | 3:00 |
+| 252 | [La Spiaggia ti Chiama](https://open.spotify.com/track/0eoE5dXsESWvDBZCD5g9mG) | [Deep Cafe Mirage](https://open.spotify.com/artist/7i6hHhDG2RZ72inJn4YNL3) | [La Spiaggia ti Chiama](https://open.spotify.com/album/5Hi6jmocxKwsCSbm5ADLsc) | 3:23 |
+| 253 | [Just the two of us](https://open.spotify.com/track/0Wz3uozIlLJzTDK29eY8rY) | [OMER AHMET](https://open.spotify.com/artist/3JVxVTJNYcvna9BAZh0n1w) | [Just the two of us](https://open.spotify.com/album/3TwtB955dmn6wGK4M7siPC) | 2:28 |
 
-Snapshot ID: `AAA7Dl12kCqLNR8p/O9i2GCKTSkQaHko`
+Snapshot ID: `AAA7FfRSyluNrYlNMn+qwBuvXXIqIBAK`

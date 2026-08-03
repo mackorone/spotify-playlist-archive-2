@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108830,
+  "num_followers": 108820,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amvlgAAAAAAS0QspKwzQd4trAAUYVvSV",
+  "snapshot_id": "am03AAAAAADzs4QqEejmHEFMIrBzj2Mt",
   "tracks": [
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Zonder Zorgen",
+        "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "De Wereld Is Van Ons Allemaal",
+      "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorry (Holland Zingt Hazes)",
         "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 220879,
       "name": "Sorry - Holland Zingt Hazes",
       "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zonder Zorgen",
-        "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "De Wereld Is Van Ons Allemaal",
-      "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
     },
     {
       "added_at": null,

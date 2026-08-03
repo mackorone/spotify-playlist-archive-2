@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 21,764 likes - 77 songs - 3 hr 33 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 21,762 likes - 77 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 5 | [Time Out](https://open.spotify.com/track/0S16Yx7s6ZndmNoebSXCnR) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [O.Y.N](https://open.spotify.com/album/2eFIQSVl3w0S64ufrkoS5y) | 2:37 |
 | 6 | [AND WON'T \(feat\. Summer Walker\)](https://open.spotify.com/track/1Q3if1XE53MW5Vr0FrzAkB) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [AND WON'T \(feat\. Summer Walker\)](https://open.spotify.com/album/2Rs5yfDLeGPiEstxpKsB5s) | 3:14 |
 | 7 | [LOVE AGAIN](https://open.spotify.com/track/2KFJ2oHxCvEEysGniYF4MK) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [LOVE AGAIN](https://open.spotify.com/album/6ot9MVm7jHd0GbvmZ9JkZ7) | 3:36 |
-| 8 | [Run It Back](https://open.spotify.com/track/52VGJRZyGPmgvDfGVWWllk) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Run It Back](https://open.spotify.com/album/3WjWc81c69QEUPMojf5Tpy) | 2:17 |
+| 8 | [RUN IT BACK](https://open.spotify.com/track/52VGJRZyGPmgvDfGVWWllk) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [RUN IT BACK](https://open.spotify.com/album/3WjWc81c69QEUPMojf5Tpy) | 2:17 |
 | 9 | [First Round Draft Pick \(feat\. TrapLordSlime\)](https://open.spotify.com/track/426nOEXevpu1BTn3jupxzk) | [HoodRich Pablo Juan](https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer), [TrapLordSlime](https://open.spotify.com/artist/4PAzLj6CCmN3ERG5Xdi0gO) | [First Round Draft Pick \(feat\. TrapLordSlime\)](https://open.spotify.com/album/0emLuDW594Jzjy4Qqt6TSL) | 2:12 |
 | 10 | [yeah bop 2](https://open.spotify.com/track/5Ca5QKoqtSYT1GzLvExfxE) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i) | [yeah bop 2](https://open.spotify.com/album/7CtSfT0Yh3NBGZkYJpq3Pm) | 2:31 |
 | 11 | [Ruin](https://open.spotify.com/track/13b9uA4xt7VRbBRGM8cT9q) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Ruin](https://open.spotify.com/album/2XjN9yRFbKUZOmcudyoTpg) | 3:19 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 55 | [dhu\-tuku](https://open.spotify.com/track/6EEPiErMqsKtcXc9rFzgHY) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl) | [Kiannacore 4](https://open.spotify.com/album/2wbW3i4q0SWGd1rCDV2nHn) | 2:21 |
 | 56 | [Jumpin' Out a Window](https://open.spotify.com/track/5s5yhDeZvpdhEbK5E6xmbh) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Most Hated 2](https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW) | 2:18 |
 | 57 | [FIJI](https://open.spotify.com/track/3o3oF6mXg9Ko21ylS5DBzB) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [FIJI](https://open.spotify.com/album/2SknDGjIYMDmm3imTXp8RD) | 3:34 |
-| 58 | [S/O Alysa Liu](https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [S/O Alysa Liu](https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH) | 2:17 |
+| 58 | [S/O ALYSA LIU](https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [S/O ALYSA LIU](https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH) | 2:17 |
 | 59 | [UP IN HEA](https://open.spotify.com/track/0zwZAVXsEvfVKVTC6LrJzy) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [UP IN HEA](https://open.spotify.com/album/6TcbhclP0iL4I4kgAAdGk0) | 2:24 |
 | 60 | [Geek Time](https://open.spotify.com/track/3wmiP90sLXkiT6eRrOIOZS) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5) | [Out On Bond Again](https://open.spotify.com/album/1o5ENTNPcko1wx4h1kZTlP) | 2:05 |
 | 61 | [WAY I LIVE](https://open.spotify.com/track/4h542Q3dGPmPaH31eIyWoG) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Aha Gazelle](https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14) | [WAY I LIVE](https://open.spotify.com/album/6lg8w6SfMH9jLZZduEbqKj) | 2:20 |

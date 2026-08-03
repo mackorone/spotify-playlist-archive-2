@@ -4,7 +4,7 @@
 
 > Home is where the main stage is.\. wherever the Tomorrowland main stage is 😉
 
-974 songs - 2 day 2 hr 13 min
+975 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,6 +649,7 @@
 | [Out Of Time](https://open.spotify.com/track/2hnTh4H4Ro9yA9ftxok2ZL) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Ryos](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Out Of Time](https://open.spotify.com/album/2y6W3dB0w3iJBum5ZRLUPf) | 2:52 | 2025-02-21 | 2025-08-02 |
 | [Over Now](https://open.spotify.com/track/606Z051kpzw0rrcBCYCTtR) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Opposite the Other](https://open.spotify.com/artist/3YPzVOVeAXdzhmnffu1WjZ) | [Over Now](https://open.spotify.com/album/7udk1qiys7QiEPKN9lY8a4) | 2:55 | 2023-09-22 | 2024-02-17 |
 | [Oxygen](https://open.spotify.com/track/00sy6AoG8pNFxbdAWHhsrn) | [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Oxygen](https://open.spotify.com/album/6c9IwkWbbNrZ77MLsGbMM9) | 2:52 | 2025-08-15 | 2025-10-26 |
+| [Pain](https://open.spotify.com/track/2OPst1Pir86MpT6Rt9Zjbw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Pain](https://open.spotify.com/album/4gZkyEz1txL6aWUd1IMR05) | 2:50 | 2026-07-31 |  |
 | [Pantheon](https://open.spotify.com/track/6VHjUmQyWCh1WeFv69FzXS) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Dimibo](https://open.spotify.com/artist/4s10B1BltDZ1heQIhTFs59), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Pantheon](https://open.spotify.com/album/7IMI9BHpXTntSUNOew74MK) | 5:01 | 2021-10-01 | 2022-06-18 |
 | [Paper Planes](https://open.spotify.com/track/4mrAArfFEIqpH6myouJb03) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Paper Planes](https://open.spotify.com/album/5qdXy87BeaWnK0vXiX5VI4) | 3:06 | 2021-07-30 | 2022-04-16 |
 | [Papi](https://open.spotify.com/track/5nsGwIGBNcwYVAPNdZCYQV) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Papi](https://open.spotify.com/album/0MJZ4UzanaEtPdYBTeuA20) | 2:18 | 2024-08-02 | 2025-02-11 |
@@ -981,6 +982,6 @@
 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2022-03-18 | 2022-10-15 |
 | [Young Summer](https://open.spotify.com/track/1OfHes9WQdGQSIgNwrqIAw) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Young Summer](https://open.spotify.com/album/6yXyTpttvpLCCLq7zZQASo) | 2:36 | 2021-06-02 | 2022-05-22 |
 | [Your Love](https://open.spotify.com/track/6eL5tSbdFKOJk259M9btFe) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Your Love](https://open.spotify.com/album/1eAisZxU97LtahouIQsB48) | 2:33 | 2023-12-15 | 2024-03-16 |
-| [⁠⁠Butterflies](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Butterflies](https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S) | 3:47 | 2025-09-26 |  |
+| [⁠⁠Butterflies](https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Butterflies](https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S) | 3:47 | 2025-09-26 | 2026-08-03 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

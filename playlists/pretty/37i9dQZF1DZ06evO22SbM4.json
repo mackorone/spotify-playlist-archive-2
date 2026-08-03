@@ -1,12 +1,12 @@
 {
   "description": "This is Bailey Zimmerman. The essential tracks, all in one playlist.",
-  "num_followers": 48727,
+  "num_followers": 48760,
   "original_name": "This Is Bailey Zimmerman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amvlgAAAAACLNLso9GMRnnfkKzFh3nWI",
+  "snapshot_id": "am03AAAAAADSAPeeiBdIGpaF6NybJjYl",
   "tracks": [
     {
       "added_at": null,
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 207540,
-      "name": "Rock and A Hard Place",
-      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
+      "duration_ms": 232058,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
     },
     {
       "added_at": null,
@@ -67,8 +67,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Climb",
-        "url": "https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W"
+        "name": "Never Comin' Home",
+        "url": "https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8"
       },
       "artists": [
         {
@@ -76,9 +76,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 230680,
-      "name": "The Climb",
-      "url": "https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6"
+      "duration_ms": 194270,
+      "name": "Never Comin' Home",
+      "url": "https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI"
     },
     {
       "added_at": null,
@@ -108,15 +108,15 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 232058,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/0rCFRyEy4WXjRXNpO80Dzs"
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Never Comin' Home",
-        "url": "https://open.spotify.com/album/4GhGSIS6nha0XoeSQHRyq8"
+        "name": "The Climb",
+        "url": "https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
         }
       ],
-      "duration_ms": 194270,
-      "name": "Never Comin' Home",
-      "url": "https://open.spotify.com/track/4hEA25qUMn3camHI87UhiI"
+      "duration_ms": 230680,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6"
     },
     {
       "added_at": null,

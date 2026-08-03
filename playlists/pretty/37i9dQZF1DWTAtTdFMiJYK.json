@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: Mary Ann Alexander",
-  "num_followers": 196503,
+  "num_followers": 196592,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2026-07-31 05:15:47",
       "album": {
+        "name": "Sukoon",
+        "url": "https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1"
+      },
+      "artists": [
+        {
+          "name": "gini",
+          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
+        }
+      ],
+      "duration_ms": 186393,
+      "name": "Sukoon",
+      "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"
+    },
+    {
+      "added_at": "2026-07-31 05:15:47",
+      "album": {
         "name": "Woh",
         "url": "https://open.spotify.com/album/1reZwldnOqKL9BWwwrSH2x"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 194521,
       "name": "Woh",
       "url": "https://open.spotify.com/track/1bw0tYUf70kQaVeiPd2U7c"
-    },
-    {
-      "added_at": "2026-07-31 05:15:47",
-      "album": {
-        "name": "Sukoon",
-        "url": "https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1"
-      },
-      "artists": [
-        {
-          "name": "gini",
-          "url": "https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0"
-        }
-      ],
-      "duration_ms": 186393,
-      "name": "Sukoon",
-      "url": "https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK"
     },
     {
       "added_at": "2026-07-31 05:15:47",
@@ -1407,26 +1407,6 @@
     {
       "added_at": "2026-07-31 05:15:47",
       "album": {
-        "name": "Mere Qareeb",
-        "url": "https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K"
-      },
-      "artists": [
-        {
-          "name": "Neyhal",
-          "url": "https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31"
-        },
-        {
-          "name": "Ramil Ganjoo",
-          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
-        }
-      ],
-      "duration_ms": 224284,
-      "name": "Mere Qareeb",
-      "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
-    },
-    {
-      "added_at": "2026-07-31 05:15:47",
-      "album": {
         "name": "Kya Kahein",
         "url": "https://open.spotify.com/album/1uMj48Dc1VRH70MzQWqZIk"
       },
@@ -1451,6 +1431,26 @@
     {
       "added_at": "2026-07-31 05:15:47",
       "album": {
+        "name": "Mere Qareeb",
+        "url": "https://open.spotify.com/album/4VlXNpbh13tTYWJpEwIS5K"
+      },
+      "artists": [
+        {
+          "name": "Neyhal",
+          "url": "https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31"
+        },
+        {
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
+        }
+      ],
+      "duration_ms": 224284,
+      "name": "Mere Qareeb",
+      "url": "https://open.spotify.com/track/2vvZ7VKWJTzyyaL3TxG4bC"
+    },
+    {
+      "added_at": "2026-07-31 05:15:47",
+      "album": {
         "name": "Mulaqaat",
         "url": "https://open.spotify.com/album/119PjDCBDmx0VcThsZ3hLe"
       },
@@ -1467,18 +1467,22 @@
     {
       "added_at": "2026-07-31 05:15:47",
       "album": {
-        "name": "Ishq X Ranjha",
-        "url": "https://open.spotify.com/album/5grIwYxEoXUb1tVBbfsTA6"
+        "name": "Kehndi Hai",
+        "url": "https://open.spotify.com/album/6LwC2nt0yfSGOjE5UPghLN"
       },
       "artists": [
         {
-          "name": "Khotu Kharkhada",
-          "url": "https://open.spotify.com/artist/06fmZLGLQlgnlzyGqniuqZ"
+          "name": "Zanai Bhosle",
+          "url": "https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX"
+        },
+        {
+          "name": "Siddhant Bhosle",
+          "url": "https://open.spotify.com/artist/72FQZIJkOLdKV0YKqS024h"
         }
       ],
-      "duration_ms": 151836,
-      "name": "Ishq X Ranjha",
-      "url": "https://open.spotify.com/track/563j7XuZdH49Xqr5pNK3xo"
+      "duration_ms": 149927,
+      "name": "Kehndi Hai",
+      "url": "https://open.spotify.com/track/2UqVw7C652TCZrc1ZA8CbE"
     }
   ],
   "unique_name": "RADAR India",

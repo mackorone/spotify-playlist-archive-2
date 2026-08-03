@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Abraham Mateo con María Becerra, KAROL G, Ariana Grande, Juan Magán, Beny Jr y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,587 likes - 59 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,399 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

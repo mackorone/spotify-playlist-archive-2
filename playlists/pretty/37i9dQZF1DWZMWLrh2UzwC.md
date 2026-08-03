@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ariana Grande, Cardi B, Exists, Faizal Tahir, DOLLA, F.Hero, Eric Chou and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,882 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,626 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 10 | [honk!](https://open.spotify.com/track/462r5jEYbiNo6sqwCcRqhU) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [honk!](https://open.spotify.com/album/5PHqwsXzGYEwCia6TeT8Oc) | 2:15 |
 | 11 | [rindu](https://open.spotify.com/track/3i3PREbSksaiU84hAN6S5H) | [Iman Troye](https://open.spotify.com/artist/1Jvj122gN1QiaYUrNhn3Fq) | [rindu](https://open.spotify.com/album/7kjA72esPH1tpSHS1caIVK) | 2:37 |
 | 12 | [Girlfriend Material](https://open.spotify.com/track/3QoDXqpPaeA7gHJu3woVbn) | [Elizabeth Tan](https://open.spotify.com/artist/17bFKNQu8Ov9bwgUzMygRH), [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [Girlfriend Material](https://open.spotify.com/album/0sddb1aRfN3a8iubZP7lNk) | 2:43 |
-| 13 | [Setiap Nafasku Kernamu 2026](https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Setiap Nafasku Kernamu 2026](https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2) | 3:24 |
+| 13 | [Setiap Nafasku Kernamu](https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Setiap Nafasku Kernamu](https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2) | 3:23 |
 | 14 | [talks don't lie](https://open.spotify.com/track/5KF2ZAYkQUfSjiXNyJsAU0) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [talks don't lie](https://open.spotify.com/album/1fnjFp1J2nECRpnmoX1H5y) | 2:41 |
 | 15 | [Ordinary Love](https://open.spotify.com/track/02bN0E0c3yZscn7WZ104rD) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Ordinary Love](https://open.spotify.com/album/4ydxXE12hd1YFCD7FL5BcQ) | 2:44 |
 | 16 | [DAMANSARA](https://open.spotify.com/track/7xvxTMZSQsYzk99Nx6Mhp1) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG), [Shazriq Azeman](https://open.spotify.com/artist/0svVGSYVfklcJHBD5fdtdc) | [DAMANSARA](https://open.spotify.com/album/2FTvSjKKujg1QjLzmUdXkD) | 2:15 |

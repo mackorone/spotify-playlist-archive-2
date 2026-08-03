@@ -1,6 +1,6 @@
 {
   "description": "in your lush & lazy era \ud83e\udeb7 cozy beats, comfy self-care vibes",
-  "num_followers": 1104281,
+  "num_followers": 1104107,
   "original_name": "slow living",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
+        "name": "Golden Curl",
+        "url": "https://open.spotify.com/album/3HcZpVdYbVD7zXQPz6wQFH"
+      },
+      "artists": [
+        {
+          "name": "rden.96",
+          "url": "https://open.spotify.com/artist/7s88vlh8bM08TBlu8GgAlR"
+        }
+      ],
+      "duration_ms": 132855,
+      "name": "Golden Curl",
+      "url": "https://open.spotify.com/track/1H19PkLI4rQiTkh3eGU6Ei"
+    },
+    {
+      "added_at": "2026-07-23 07:55:10",
+      "album": {
         "name": "whisper me home",
         "url": "https://open.spotify.com/album/6uUj9ck0xb3D3IBn8ojlM7"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 103000,
       "name": "whisper me home",
       "url": "https://open.spotify.com/track/5Xf0awOgjwqBTyRd2PHtUw"
-    },
-    {
-      "added_at": "2026-07-23 07:55:10",
-      "album": {
-        "name": "Golden Curl",
-        "url": "https://open.spotify.com/album/3HcZpVdYbVD7zXQPz6wQFH"
-      },
-      "artists": [
-        {
-          "name": "rden.96",
-          "url": "https://open.spotify.com/artist/7s88vlh8bM08TBlu8GgAlR"
-        }
-      ],
-      "duration_ms": 132855,
-      "name": "Golden Curl",
-      "url": "https://open.spotify.com/track/1H19PkLI4rQiTkh3eGU6Ei"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
-        "name": "Driftwood",
-        "url": "https://open.spotify.com/album/2NHKDzAbt6fl01Wvj7KE67"
-      },
-      "artists": [
-        {
-          "name": "nat boyce",
-          "url": "https://open.spotify.com/artist/3YGcEAKWOuLol94NCdOspi"
-        }
-      ],
-      "duration_ms": 125806,
-      "name": "Driftwood",
-      "url": "https://open.spotify.com/track/731zwJtUsukNZwsucOSI1c"
-    },
-    {
-      "added_at": "2026-07-23 07:55:10",
-      "album": {
         "name": "spiritual",
         "url": "https://open.spotify.com/album/3q0ga6IZRoa0721y3Ryihl"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 106666,
       "name": "spiritual",
       "url": "https://open.spotify.com/track/210Aq7zUtz5hPKcrugMs7M"
+    },
+    {
+      "added_at": "2026-07-23 07:55:10",
+      "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/2NHKDzAbt6fl01Wvj7KE67"
+      },
+      "artists": [
+        {
+          "name": "nat boyce",
+          "url": "https://open.spotify.com/artist/3YGcEAKWOuLol94NCdOspi"
+        }
+      ],
+      "duration_ms": 125806,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/731zwJtUsukNZwsucOSI1c"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
-        "name": "amber flow",
-        "url": "https://open.spotify.com/album/0HJrM0DBWb9eHTrzOrKVIr"
-      },
-      "artists": [
-        {
-          "name": "quiet arcade",
-          "url": "https://open.spotify.com/artist/5rriJFWWklMuztCTeJLauH"
-        }
-      ],
-      "duration_ms": 167603,
-      "name": "amber flow",
-      "url": "https://open.spotify.com/track/0C5sdAiJAV1HwTaqJGgqrU"
-    },
-    {
-      "added_at": "2026-07-23 07:55:10",
-      "album": {
         "name": "sunny day dreaming",
         "url": "https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 174621,
       "name": "sunny day dreaming",
       "url": "https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV"
+    },
+    {
+      "added_at": "2026-07-23 07:55:10",
+      "album": {
+        "name": "amber flow",
+        "url": "https://open.spotify.com/album/0HJrM0DBWb9eHTrzOrKVIr"
+      },
+      "artists": [
+        {
+          "name": "quiet arcade",
+          "url": "https://open.spotify.com/artist/5rriJFWWklMuztCTeJLauH"
+        }
+      ],
+      "duration_ms": 167603,
+      "name": "amber flow",
+      "url": "https://open.spotify.com/track/0C5sdAiJAV1HwTaqJGgqrU"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
-        "name": "Banana Muffin",
-        "url": "https://open.spotify.com/album/5udXLXdM2wXM2BDraw9JhI"
-      },
-      "artists": [
-        {
-          "name": "Cmd q",
-          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "Banana Muffin",
-      "url": "https://open.spotify.com/track/0dnRn5FNiU0HiMrrNamNbK"
-    },
-    {
-      "added_at": "2026-07-23 07:55:10",
-      "album": {
         "name": "Cruising",
         "url": "https://open.spotify.com/album/4eF0VhXpYiCB0V6L1nIrCu"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 129087,
       "name": "Cruising",
       "url": "https://open.spotify.com/track/6k5ujvu6iu5hdgDZXBtkZG"
+    },
+    {
+      "added_at": "2026-07-23 07:55:10",
+      "album": {
+        "name": "Banana Muffin",
+        "url": "https://open.spotify.com/album/5udXLXdM2wXM2BDraw9JhI"
+      },
+      "artists": [
+        {
+          "name": "Cmd q",
+          "url": "https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "Banana Muffin",
+      "url": "https://open.spotify.com/track/0dnRn5FNiU0HiMrrNamNbK"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
-        "name": "Loft Room",
-        "url": "https://open.spotify.com/album/1MueD7LqO77Oh55GwLXbAE"
-      },
-      "artists": [
-        {
-          "name": "Rainbows & Clouds",
-          "url": "https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg"
-        }
-      ],
-      "duration_ms": 157634,
-      "name": "Loft Room",
-      "url": "https://open.spotify.com/track/6uDcf4yMECdvrTVUc06Gfn"
-    },
-    {
-      "added_at": "2026-07-23 07:55:10",
-      "album": {
         "name": "beneath",
         "url": "https://open.spotify.com/album/6wv2ocQnKCuPRd4PLpuNKy"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 151480,
       "name": "beneath",
       "url": "https://open.spotify.com/track/42pIoyICzBcN4iS6vtVpOr"
+    },
+    {
+      "added_at": "2026-07-23 07:55:10",
+      "album": {
+        "name": "Loft Room",
+        "url": "https://open.spotify.com/album/1MueD7LqO77Oh55GwLXbAE"
+      },
+      "artists": [
+        {
+          "name": "Rainbows & Clouds",
+          "url": "https://open.spotify.com/artist/4MItiv8qg42Ph7bWuCsOTg"
+        }
+      ],
+      "duration_ms": 157634,
+      "name": "Loft Room",
+      "url": "https://open.spotify.com/track/6uDcf4yMECdvrTVUc06Gfn"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
-        "name": "Lantern",
-        "url": "https://open.spotify.com/album/6j4CLaGm3ZOLWbVCH3brYk"
-      },
-      "artists": [
-        {
-          "name": "L O K P I K",
-          "url": "https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh"
-        }
-      ],
-      "duration_ms": 132727,
-      "name": "Lantern",
-      "url": "https://open.spotify.com/track/4Z8qKxreBa5yODZCOQ7sZG"
-    },
-    {
-      "added_at": "2026-07-23 07:55:10",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/0HOozkiI4OpT9KmD7q3GG8"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 102447,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/3RjAv5yesDSOOZHricohtS"
+    },
+    {
+      "added_at": "2026-07-23 07:55:10",
+      "album": {
+        "name": "Lantern",
+        "url": "https://open.spotify.com/album/6j4CLaGm3ZOLWbVCH3brYk"
+      },
+      "artists": [
+        {
+          "name": "L O K P I K",
+          "url": "https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh"
+        }
+      ],
+      "duration_ms": 132727,
+      "name": "Lantern",
+      "url": "https://open.spotify.com/track/4Z8qKxreBa5yODZCOQ7sZG"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
-        "name": "Happy Celebration",
-        "url": "https://open.spotify.com/album/1DZs2hEpDz1d5V2NE0E1Fh"
-      },
-      "artists": [
-        {
-          "name": "State Artefact",
-          "url": "https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q"
-        }
-      ],
-      "duration_ms": 190864,
-      "name": "Happy Celebration",
-      "url": "https://open.spotify.com/track/6y9hG0g2mmgy5zqsknP0eA"
-    },
-    {
-      "added_at": "2026-07-23 07:55:10",
-      "album": {
         "name": "bookworn",
         "url": "https://open.spotify.com/album/3jSoRUUVr4fHrpaFVRB3V9"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
-        "name": "Meanwhile",
-        "url": "https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf"
+        "name": "Happy Celebration",
+        "url": "https://open.spotify.com/album/1DZs2hEpDz1d5V2NE0E1Fh"
       },
       "artists": [
         {
-          "name": "Attic Dizzt",
-          "url": "https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI"
+          "name": "State Artefact",
+          "url": "https://open.spotify.com/artist/12i5wgLXkiZiGkM3esIk8Q"
         }
       ],
-      "duration_ms": 142717,
-      "name": "Meanwhile",
-      "url": "https://open.spotify.com/track/1cfqOZQ4RDSf13bU3YiiHn"
+      "duration_ms": 190864,
+      "name": "Happy Celebration",
+      "url": "https://open.spotify.com/track/6y9hG0g2mmgy5zqsknP0eA"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -971,6 +955,22 @@
       "duration_ms": 136000,
       "name": "Cloudy Haze",
       "url": "https://open.spotify.com/track/6tcHiMVFJ2mSL8S0xFZafh"
+    },
+    {
+      "added_at": "2026-07-23 07:55:10",
+      "album": {
+        "name": "Meanwhile",
+        "url": "https://open.spotify.com/album/1OF3SaghyQI3W5krG4b0Mf"
+      },
+      "artists": [
+        {
+          "name": "Attic Dizzt",
+          "url": "https://open.spotify.com/artist/2c2Y1CsnRekoz34yDfyaQI"
+        }
+      ],
+      "duration_ms": 142717,
+      "name": "Meanwhile",
+      "url": "https://open.spotify.com/track/1cfqOZQ4RDSf13bU3YiiHn"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
-        "name": "Through the Rain",
-        "url": "https://open.spotify.com/album/4GSVk0FGRG1XJNBN7zg6LP"
-      },
-      "artists": [
-        {
-          "name": "Oilix",
-          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Through the Rain",
-      "url": "https://open.spotify.com/track/4yV4OoJcLydUdBoJZ03vAw"
-    },
-    {
-      "added_at": "2026-07-23 07:55:10",
-      "album": {
         "name": "Street Window",
         "url": "https://open.spotify.com/album/0zxr1wsSAjkmvie0QHATuo"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 126000,
       "name": "Street Window",
       "url": "https://open.spotify.com/track/5OnOCfUbfMAgilTGZUPabd"
+    },
+    {
+      "added_at": "2026-07-23 07:55:10",
+      "album": {
+        "name": "Through the Rain",
+        "url": "https://open.spotify.com/album/4GSVk0FGRG1XJNBN7zg6LP"
+      },
+      "artists": [
+        {
+          "name": "Oilix",
+          "url": "https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Through the Rain",
+      "url": "https://open.spotify.com/track/4yV4OoJcLydUdBoJZ03vAw"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
-        "name": "Tatami Haze",
-        "url": "https://open.spotify.com/album/0pYnAXfltl17tTyWkgw1dT"
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/1NxYLj6RTZnHkQKV5fWyqP"
       },
       "artists": [
         {
-          "name": "Cloudroom",
-          "url": "https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z"
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
         }
       ],
-      "duration_ms": 124153,
-      "name": "Tatami Haze",
-      "url": "https://open.spotify.com/track/6RfGndOkpLnGlV0JNEqAPE"
+      "duration_ms": 178285,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/0xrkPuae5lIueefzWzo54Q"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -1243,6 +1243,22 @@
       "duration_ms": 166875,
       "name": "Abigail",
       "url": "https://open.spotify.com/track/7qWeJvxs5Ir8aYqRrDUllE"
+    },
+    {
+      "added_at": "2026-07-23 07:55:10",
+      "album": {
+        "name": "Tatami Haze",
+        "url": "https://open.spotify.com/album/0pYnAXfltl17tTyWkgw1dT"
+      },
+      "artists": [
+        {
+          "name": "Cloudroom",
+          "url": "https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z"
+        }
+      ],
+      "duration_ms": 124153,
+      "name": "Tatami Haze",
+      "url": "https://open.spotify.com/track/6RfGndOkpLnGlV0JNEqAPE"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
-        "name": "growing still",
-        "url": "https://open.spotify.com/album/02d2LqrUcKC1H2KxCE9Vjx"
-      },
-      "artists": [
-        {
-          "name": "lilibu",
-          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
-        }
-      ],
-      "duration_ms": 166578,
-      "name": "growing still",
-      "url": "https://open.spotify.com/track/3RSxBajUUnUfHPZbriPzWT"
-    },
-    {
-      "added_at": "2026-07-23 07:55:10",
-      "album": {
         "name": "passion",
         "url": "https://open.spotify.com/album/5q6jCRB7axn9V3JbHKfdbW"
       },
@@ -1327,34 +1327,18 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/1NxYLj6RTZnHkQKV5fWyqP"
+        "name": "growing still",
+        "url": "https://open.spotify.com/album/02d2LqrUcKC1H2KxCE9Vjx"
       },
       "artists": [
         {
-          "name": "amies",
-          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
         }
       ],
-      "duration_ms": 178285,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/0xrkPuae5lIueefzWzo54Q"
-    },
-    {
-      "added_at": "2026-07-23 07:55:10",
-      "album": {
-        "name": "may sound trite",
-        "url": "https://open.spotify.com/album/5DtCPHFvrZROaU2KDGh62u"
-      },
-      "artists": [
-        {
-          "name": "Mist Ant",
-          "url": "https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "may sound trite",
-      "url": "https://open.spotify.com/track/4wsbqaw2jgPhBqz8k4qwMN"
+      "duration_ms": 166578,
+      "name": "growing still",
+      "url": "https://open.spotify.com/track/3RSxBajUUnUfHPZbriPzWT"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -1379,22 +1363,18 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/6DcUs1tRcpZY9LpOEabQgY"
+        "name": "may sound trite",
+        "url": "https://open.spotify.com/album/5DtCPHFvrZROaU2KDGh62u"
       },
       "artists": [
         {
-          "name": "cxlt.",
-          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
-        },
-        {
-          "name": "Ptr.",
-          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+          "name": "Mist Ant",
+          "url": "https://open.spotify.com/artist/1pX5motd4PjXsK6A7mk3uC"
         }
       ],
-      "duration_ms": 134400,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/5jf4jUDfHruFyFj25TTWTD"
+      "duration_ms": 141600,
+      "name": "may sound trite",
+      "url": "https://open.spotify.com/track/4wsbqaw2jgPhBqz8k4qwMN"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -1411,6 +1391,26 @@
       "duration_ms": 168000,
       "name": "home again",
       "url": "https://open.spotify.com/track/2GOTt1wvwYknehTzhzLC7K"
+    },
+    {
+      "added_at": "2026-07-23 07:55:10",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/6DcUs1tRcpZY9LpOEabQgY"
+      },
+      "artists": [
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/5jf4jUDfHruFyFj25TTWTD"
     },
     {
       "added_at": "2026-07-23 07:55:10",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2026-07-23 07:55:10",
       "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/0GbIQxI93XKfjLjIlPXwnY"
+      },
+      "artists": [
+        {
+          "name": "Filae",
+          "url": "https://open.spotify.com/artist/1fetaNfyFJu3bNYz05XTyd"
+        }
+      ],
+      "duration_ms": 79820,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/3dvmaIJTD7TA8WTabeXweY"
+    },
+    {
+      "added_at": "2026-07-23 07:55:10",
+      "album": {
         "name": "Forgotten",
         "url": "https://open.spotify.com/album/7wnhqe7r2D6sg82zGfZgpb"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 89600,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/6kOTW7PCRfhd2I4hpq6BVT"
-    },
-    {
-      "added_at": "2026-07-23 07:55:10",
-      "album": {
-        "name": "Lavender",
-        "url": "https://open.spotify.com/album/0GbIQxI93XKfjLjIlPXwnY"
-      },
-      "artists": [
-        {
-          "name": "Filae",
-          "url": "https://open.spotify.com/artist/1fetaNfyFJu3bNYz05XTyd"
-        }
-      ],
-      "duration_ms": 79820,
-      "name": "Lavender",
-      "url": "https://open.spotify.com/track/3dvmaIJTD7TA8WTabeXweY"
     },
     {
       "added_at": "2026-07-23 07:55:10",

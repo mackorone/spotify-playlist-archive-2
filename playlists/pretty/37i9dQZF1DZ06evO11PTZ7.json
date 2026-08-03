@@ -1,12 +1,12 @@
 {
   "description": "This is Sick Of It All. The essential tracks, all in one playlist.",
-  "num_followers": 7923,
+  "num_followers": 8034,
   "original_name": "This Is Sick Of It All",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amvlgAAAAADz+srk/5KQnlUuW2PgOQ8o",
+  "snapshot_id": "am03AAAAAACr9LQNY66DxasUB2NY3um0",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scratch the Surface",
-        "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 223706,
-      "name": "Consume",
-      "url": "https://open.spotify.com/track/7HeUlljvm2qSTWX9lGn3aF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/5bdXigJqWl2VDffgjWdcXU"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 146693,
       "name": "Just Look Around",
       "url": "https://open.spotify.com/track/6rabHuX6nMyq9eC6VpEVyi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scratch the Surface",
+        "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 223706,
+      "name": "Consume",
+      "url": "https://open.spotify.com/track/7HeUlljvm2qSTWX9lGn3aF"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scratch the Surface",
-        "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 80466,
-      "name": "Goatless",
-      "url": "https://open.spotify.com/track/1vO83H2MAKuKaisSk8P9UP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Built to Last",
         "url": "https://open.spotify.com/album/6plWnkOqYLKAcildPicG7k"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 175413,
       "name": "Burn 'Em Down",
       "url": "https://open.spotify.com/track/5rxvKN55LZEH44wrLOICSr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scratch the Surface",
+        "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 80466,
+      "name": "Goatless",
+      "url": "https://open.spotify.com/track/1vO83H2MAKuKaisSk8P9UP"
     },
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scratch the Surface",
-        "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 111826,
-      "name": "Desperate Fool",
-      "url": "https://open.spotify.com/track/0RNDe3pOrVKvOMfsaAipjP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Built to Last",
         "url": "https://open.spotify.com/album/6plWnkOqYLKAcildPicG7k"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 97413,
       "name": "Busted",
       "url": "https://open.spotify.com/track/2eqBvPN3stocNp4IPcKOMd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scratch the Surface",
+        "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 111826,
+      "name": "Desperate Fool",
+      "url": "https://open.spotify.com/track/0RNDe3pOrVKvOMfsaAipjP"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Based On A True Story",
-        "url": "https://open.spotify.com/album/0j5btQuKiIItbfTJ7ZECy3"
-      },
-      "artists": [
-        {
-          "name": "Sick Of It All",
-          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Death Or Jail",
-      "url": "https://open.spotify.com/track/1UKnxebB3vbl2amZs3Y4vv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Death To Tyrants",
         "url": "https://open.spotify.com/album/1pOJv3HAZ2cBQX0R2rz5Mg"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 123906,
       "name": "Machete",
       "url": "https://open.spotify.com/track/5hTFZOModIYTJpyZZvVO7H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Based On A True Story",
+        "url": "https://open.spotify.com/album/0j5btQuKiIItbfTJ7ZECy3"
+      },
+      "artists": [
+        {
+          "name": "Sick Of It All",
+          "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Death Or Jail",
+      "url": "https://open.spotify.com/track/1UKnxebB3vbl2amZs3Y4vv"
     },
     {
       "added_at": null,

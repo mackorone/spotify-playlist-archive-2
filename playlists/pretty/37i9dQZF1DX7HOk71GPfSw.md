@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > this hyperpop playlist features algorave queen DJ\_Dave
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,280 likes - 110 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,517 likes - 110 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

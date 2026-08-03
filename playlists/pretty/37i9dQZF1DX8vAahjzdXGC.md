@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Ariana Grande, Cardi B, CORTIS , no na, eńau, Momo, For Revenge dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,517 likes - 127 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,956 likes - 127 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,7 +110,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 100 | [Puppet Show](https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W) | [Mollie Elizabeth](https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z) | [Puppet Show](https://open.spotify.com/album/4lhxNdyBmMtNhHexVzzl2w) | 3:02 |
 | 101 | [Someday](https://open.spotify.com/track/2YLfKobtt9zkdox9E1JqVE) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Someday](https://open.spotify.com/album/0CIDdMVYigHQVYDXVYb9JR) | 3:41 |
 | 102 | [Expensive Taste](https://open.spotify.com/track/2Q3mfoPvqOZ4TtoXr4Uyv0) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Expensive Taste](https://open.spotify.com/album/2y8hAA2WoV7ox67kYWDmul) | 3:19 |
-| 103 | [Setiap Nafasku Kernamu 2026](https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Setiap Nafasku Kernamu 2026](https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2) | 3:24 |
+| 103 | [Setiap Nafasku Kernamu](https://open.spotify.com/track/6OU4scYidog55Gc3ddBXwP) | [Intan Maya](https://open.spotify.com/artist/4nzjfVkKR5fM96tka8N3pa) | [Setiap Nafasku Kernamu](https://open.spotify.com/album/2xJAV61h1fPMhO1n93LAx2) | 3:23 |
 | 104 | [Gembira Cinta](https://open.spotify.com/track/7GJrEvXQd1dqIX9OAn8Ni9) | [Jemput Dengar](https://open.spotify.com/artist/1dAmua7bg0eK6tanMzAvwh), [The Impatient Sisters](https://open.spotify.com/artist/1MrMu9X3lJAQHm0AXOoVgG) | [Gembira Cinta](https://open.spotify.com/album/62vnv7SrxlIGA8CwvkQfs0) | 3:32 |
 | 105 | [Manusia Pertama](https://open.spotify.com/track/6YMV8CB1h3myG0Wi8iwvEL) | [Fiza Thomas](https://open.spotify.com/artist/6vRDobHB49LMjVXre0mN7e) | [Rayakan Dia](https://open.spotify.com/album/4H43hSAJEoOUvBdbVXjS7v) | 2:49 |
 | 106 | [Narsisistik](https://open.spotify.com/track/01AF8Qi0LppSEKkm1ZwZ4j) | [Yusry](https://open.spotify.com/artist/2iyy2sHwFQPTEFotohO3PL) | [Eternal](https://open.spotify.com/album/1qJGQb2drmyPtVmunYYxYR) | 3:37 |

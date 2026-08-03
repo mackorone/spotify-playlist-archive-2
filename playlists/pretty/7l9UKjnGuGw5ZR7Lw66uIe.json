@@ -1,12 +1,12 @@
 {
   "description": "neler ya\u015fam\u0131\u015f\u0131m ben ya...",
   "num_followers": 411,
-  "original_name": "Works by Mert \u00c7odur ",
+  "original_name": "Works by Mert \u00c7odur \u270d\ud83c\udffb",
   "owner": {
     "name": "\u00c7odur",
     "url": "https://open.spotify.com/user/mertcodur"
   },
-  "snapshot_id": "AAAA1Mcoj/4n4jCq8PdiBww9eHKibDxH",
+  "snapshot_id": "AAAA3eQTUVlGS86YiSQD66coUcEFHxzl",
   "tracks": [
     {
       "added_at": "2025-05-23 08:41:07",
@@ -25,24 +25,20 @@
       "url": "https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw"
     },
     {
-      "added_at": "2026-04-16 23:36:53",
+      "added_at": "2022-07-27 11:18:26",
       "album": {
-        "name": "Y\u0131k\u0131lana Kadar (with \u0130rem Derici)",
-        "url": "https://open.spotify.com/album/4eo1mwSnNEoNhwOzY8odR1"
+        "name": "Harbi G\u00fczel",
+        "url": "https://open.spotify.com/album/65p0xMngIABEvDUFF3gYHW"
       },
       "artists": [
         {
-          "name": "\u00c7odur",
-          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
-        },
-        {
-          "name": "\u0130rem Derici",
-          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
+          "name": "Murat Boz",
+          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
         }
       ],
-      "duration_ms": 180600,
-      "name": "Y\u0131k\u0131lana Kadar - with \u0130rem Derici",
-      "url": "https://open.spotify.com/track/7i06FmelUto7k4Y3j4Vc7f"
+      "duration_ms": 175821,
+      "name": "Harbi G\u00fczel",
+      "url": "https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN"
     },
     {
       "added_at": "2025-02-27 22:53:55",
@@ -59,6 +55,22 @@
       "duration_ms": 170744,
       "name": "Yas Tutarak",
       "url": "https://open.spotify.com/track/5knvXOMEn9wadb4GNaTFiF"
+    },
+    {
+      "added_at": "2025-11-06 21:22:56",
+      "album": {
+        "name": "Anlatas\u0131m Var",
+        "url": "https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        }
+      ],
+      "duration_ms": 187678,
+      "name": "Mutlu Bir Son",
+      "url": "https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq"
     },
     {
       "added_at": "2026-04-09 23:34:33",
@@ -81,6 +93,46 @@
       "url": "https://open.spotify.com/track/3J3F7tuKTkmv4NEhXk6lke"
     },
     {
+      "added_at": "2026-04-16 23:36:53",
+      "album": {
+        "name": "Y\u0131k\u0131lana Kadar (with \u0130rem Derici)",
+        "url": "https://open.spotify.com/album/4eo1mwSnNEoNhwOzY8odR1"
+      },
+      "artists": [
+        {
+          "name": "\u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        },
+        {
+          "name": "\u0130rem Derici",
+          "url": "https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "Y\u0131k\u0131lana Kadar - with \u0130rem Derici",
+      "url": "https://open.spotify.com/track/7i06FmelUto7k4Y3j4Vc7f"
+    },
+    {
+      "added_at": "2026-05-15 23:36:12",
+      "album": {
+        "name": "G\u00f6zlerin Laz\u0131m",
+        "url": "https://open.spotify.com/album/0Ll45DLQRvuqeJtMmag0a9"
+      },
+      "artists": [
+        {
+          "name": "\u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        },
+        {
+          "name": "Mavi Gri",
+          "url": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "G\u00f6zlerin Laz\u0131m",
+      "url": "https://open.spotify.com/track/61WXoK5Lu4xI9fjXkWlL70"
+    },
+    {
       "added_at": "2026-07-16 21:13:49",
       "album": {
         "name": "Kavi",
@@ -95,22 +147,6 @@
       "duration_ms": 224824,
       "name": "Nank\u00f6rd\u00fck",
       "url": "https://open.spotify.com/track/1J2FKNY2ZXUqirIr1LG2OD"
-    },
-    {
-      "added_at": "2025-11-06 21:22:56",
-      "album": {
-        "name": "Anlatas\u0131m Var",
-        "url": "https://open.spotify.com/album/2qMIz3YNB30GPbj6hTurWQ"
-      },
-      "artists": [
-        {
-          "name": "Simge",
-          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
-        }
-      ],
-      "duration_ms": 187678,
-      "name": "Mutlu Bir Son",
-      "url": "https://open.spotify.com/track/1KTXMmoHI17NnUWhhtj5qq"
     },
     {
       "added_at": "2026-06-05 10:25:30",
@@ -143,42 +179,6 @@
       "duration_ms": 195845,
       "name": "Amadeyim Emrine",
       "url": "https://open.spotify.com/track/2QfoZEbanUUXZZWQJQmSkn"
-    },
-    {
-      "added_at": "2026-05-15 23:36:12",
-      "album": {
-        "name": "G\u00f6zlerin Laz\u0131m",
-        "url": "https://open.spotify.com/album/0Ll45DLQRvuqeJtMmag0a9"
-      },
-      "artists": [
-        {
-          "name": "\u00c7odur",
-          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
-        },
-        {
-          "name": "Mavi Gri",
-          "url": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "G\u00f6zlerin Laz\u0131m",
-      "url": "https://open.spotify.com/track/61WXoK5Lu4xI9fjXkWlL70"
-    },
-    {
-      "added_at": "2022-07-27 11:18:26",
-      "album": {
-        "name": "Harbi G\u00fczel",
-        "url": "https://open.spotify.com/album/65p0xMngIABEvDUFF3gYHW"
-      },
-      "artists": [
-        {
-          "name": "Murat Boz",
-          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
-        }
-      ],
-      "duration_ms": 175821,
-      "name": "Harbi G\u00fczel",
-      "url": "https://open.spotify.com/track/34NtMvhl3m4w4MnrBQPXsN"
     },
     {
       "added_at": "2026-06-05 10:25:37",
@@ -261,6 +261,22 @@
       "url": "https://open.spotify.com/track/3lIVcbwGFHXCxhm3fjAqss"
     },
     {
+      "added_at": "2023-06-24 08:47:54",
+      "album": {
+        "name": "Derin Mevzular",
+        "url": "https://open.spotify.com/album/0WvQu884CNsdFUNJt067MX"
+      },
+      "artists": [
+        {
+          "name": "Murat Boz",
+          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
+        }
+      ],
+      "duration_ms": 171392,
+      "name": "Derin Mevzular",
+      "url": "https://open.spotify.com/track/65jBnp5troNslpir74QATL"
+    },
+    {
       "added_at": "2025-09-26 00:16:50",
       "album": {
         "name": "Her Zerrene",
@@ -307,22 +323,6 @@
       "duration_ms": 159586,
       "name": "Al\u0131\u015ft\u0131m Zehrine",
       "url": "https://open.spotify.com/track/0QH13vxepuaLmJvBFRwDDD"
-    },
-    {
-      "added_at": "2023-06-24 08:47:54",
-      "album": {
-        "name": "Derin Mevzular",
-        "url": "https://open.spotify.com/album/0WvQu884CNsdFUNJt067MX"
-      },
-      "artists": [
-        {
-          "name": "Murat Boz",
-          "url": "https://open.spotify.com/artist/53oeVgECSa18dkHBQ9X6Eh"
-        }
-      ],
-      "duration_ms": 171392,
-      "name": "Derin Mevzular",
-      "url": "https://open.spotify.com/track/65jBnp5troNslpir74QATL"
     },
     {
       "added_at": "2025-12-04 21:14:02",
@@ -709,6 +709,6 @@
       "url": "https://open.spotify.com/track/5bqI4hBdL3OOW0wMtjA9Fn"
     }
   ],
-  "unique_name": "Works by Mert \u00c7odur ",
+  "unique_name": "Works by Mert \u00c7odur \u270d\ud83c\udffb",
   "url": "https://open.spotify.com/playlist/7l9UKjnGuGw5ZR7Lw66uIe"
 }

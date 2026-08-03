@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Gowry Lekshmi
 
-533 songs - 1 day 8 hr 47 min
+534 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Athirilla Mohangal](https://open.spotify.com/track/0wpuRk4VLhHL6KFF4rUJdV) | [Suroor Musthafa](https://open.spotify.com/artist/0LhTV2pJFN3cu1FCwabznV) | [Athirilla Mohangal](https://open.spotify.com/album/1WtSLZruzQtSEh5FEMT84g) | 2:34 | 2026-07-10 |  |
 | [Athiru Kaakkum](https://open.spotify.com/track/6kwkD4YCRU4pH1NeY1vqt6) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Athiru Kaakkum](https://open.spotify.com/album/4UCDnO9iM4ANbFUG4OV9LW) | 3:42 | 2022-12-22 | 2024-08-13 |
 | [Aval](https://open.spotify.com/track/0P1xetnWQcLgzdhRZsykkj) | [R Sivas](https://open.spotify.com/artist/5NH8lE0Vn5RNUrlEncZp7m), [Mehal Elsa](https://open.spotify.com/artist/351yzCkqbbnkPgGuFjvVKP), [Lison P Sunny](https://open.spotify.com/artist/22iAuZm6u3O8LVEDGkPKkq), [Abhinand Sinu](https://open.spotify.com/artist/5epb22NuWS5jdp6WwUT7iz), [Alpha Laps](https://open.spotify.com/artist/6ezdtGKvFcS1U9VKcWExk9) | [Aval](https://open.spotify.com/album/4SzPqFeFGwiPi0R14vqbrp) | 2:57 | 2025-06-16 | 2025-10-14 |
-| [Aval](https://open.spotify.com/track/4LK8863ScRhhT6hitFfBI5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva), [Vivek](https://open.spotify.com/artist/34alE9zN7dTT9s6s1j8bJC) | [Manithan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DJsqgmok3ag4GxDWkcIlb) | 4:26 | 2026-07-28 |  |
+| [Aval](https://open.spotify.com/track/4LK8863ScRhhT6hitFfBI5) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Priya Hemesh](https://open.spotify.com/artist/1FI8Am7UxI2XLUtFs2jPva), [Vivek](https://open.spotify.com/artist/34alE9zN7dTT9s6s1j8bJC) | [Manithan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DJsqgmok3ag4GxDWkcIlb) | 4:26 | 2026-07-28 | 2026-08-03 |
+| [Aval](https://open.spotify.com/track/132VN4mf6epX5fw9YvXVYz) | [Umesh G](https://open.spotify.com/artist/379Mew0cLCOclqBvK5PkYy), [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1) | [Aval](https://open.spotify.com/album/2JHyOiRiuTYUQ87SLCpOFB) | 3:20 | 2026-08-02 |  |
 | [Avasta](https://open.spotify.com/track/4hq1ICLUo1oNSx6H7MiLju) | [24 Karen Gold](https://open.spotify.com/artist/6pQ76dLHU9QoeWA05IFjSJ) | [Avasta](https://open.spotify.com/album/41z4rf8Lv78MKCKsS5b8Ny) | 4:57 | 2026-02-09 | 2026-03-14 |
 | [Ayyo](https://open.spotify.com/track/57vjoKtMsHcDeNfpbd0LKm) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Ayyo](https://open.spotify.com/album/3XH8aTi5asnST47Fx2DvGB) | 2:53 | 2024-05-20 | 2024-10-09 |
 | [Azhakai](https://open.spotify.com/track/6DrQdf5OkVNKcNASmGgu4k) | [Vivek Nellayi](https://open.spotify.com/artist/0swsZiNO4qnzfFPnCVsvzt) | [Azhakai](https://open.spotify.com/album/4LGaVPV9rlQMNC1IKsrHyN) | 9:08 | 2026-06-11 |  |

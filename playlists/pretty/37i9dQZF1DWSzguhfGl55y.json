@@ -1,6 +1,6 @@
 {
   "description": "In Gedenken an XATAR \ud83e\udd0d",
-  "num_followers": 665862,
+  "num_followers": 665746,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,6 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "Nr. 415 (Premium Edition)",
-        "url": "https://open.spotify.com/album/52eyXvdfq5Lazvjg5tLaNh"
-      },
-      "artists": [
-        {
-          "name": "XATAR",
-          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
-        }
-      ],
-      "duration_ms": 151560,
-      "name": "Interpol.com",
-      "url": "https://open.spotify.com/track/3ueXKzLXjLUXJDp0HBYWTx"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
         "name": "Beat of Life, Vol. 1",
         "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
       },
@@ -587,6 +571,42 @@
       "duration_ms": 209626,
       "name": "Kimnotyze",
       "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
+        "name": "Nr. 415 (Premium Edition)",
+        "url": "https://open.spotify.com/album/52eyXvdfq5Lazvjg5tLaNh"
+      },
+      "artists": [
+        {
+          "name": "XATAR",
+          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
+        }
+      ],
+      "duration_ms": 151560,
+      "name": "Interpol.com",
+      "url": "https://open.spotify.com/track/3ueXKzLXjLUXJDp0HBYWTx"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
+        "name": "CLA$$IC",
+        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "CLA$$IC",
+      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -615,26 +635,6 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "CLA$$IC",
-        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "CLA$$IC",
-      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
         "name": "MT3",
         "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 231800,
       "name": "Traumreise",
       "url": "https://open.spotify.com/track/1tVhmi6ltumhZtd1pM8Tya"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
-        "name": "Baba aller Babas",
-        "url": "https://open.spotify.com/album/31gn729ax0kRu9KcUr8Lg3"
-      },
-      "artists": [
-        {
-          "name": "XATAR",
-          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "Iz da",
-      "url": "https://open.spotify.com/track/2k0cvQmGvHOuNmKo2rMYIj"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -687,22 +671,18 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+        "name": "Baba aller Babas",
+        "url": "https://open.spotify.com/album/31gn729ax0kRu9KcUr8Lg3"
       },
       "artists": [
         {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        },
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+          "name": "XATAR",
+          "url": "https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8"
         }
       ],
-      "duration_ms": 274640,
-      "name": "F\u00fcchse",
-      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
+      "duration_ms": 213973,
+      "name": "Iz da",
+      "url": "https://open.spotify.com/track/2k0cvQmGvHOuNmKo2rMYIj"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -723,6 +703,26 @@
       "duration_ms": 242360,
       "name": "Nie ein Rapper",
       "url": "https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        },
+        {
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+        }
+      ],
+      "duration_ms": 274640,
+      "name": "F\u00fcchse",
+      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 203920,
-      "name": "Hammerhart",
-      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
         "name": "BLYAT",
         "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 212506,
       "name": "Nur noch Gucci",
       "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 203920,
+      "name": "Hammerhart",
+      "url": "https://open.spotify.com/track/0LxKGciKtDGXZ7B7t6NqWZ"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "Blast Action Heroes",
-        "url": "https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Gustav Gans",
-      "url": "https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
         "name": "Samy Deluxe",
         "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 225173,
       "name": "...Hab' geh\u00f6rt...",
       "url": "https://open.spotify.com/track/4hAGWRdmxSyi1NEfhgSO61"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
+        "name": "Blast Action Heroes",
+        "url": "https://open.spotify.com/album/5RtQ7sMm3wIK8HK1h0FTwo"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Gustav Gans",
+      "url": "https://open.spotify.com/track/34zCp2LJUlYimBJQVpfpuX"
     },
     {
       "added_at": "2025-12-19 20:12:08",

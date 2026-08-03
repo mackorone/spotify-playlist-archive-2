@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 
 > Close Mic, Muted Strings, Loud Hammers
 
-[Spotify](https://open.spotify.com/user/spotify) - 273 likes - 69 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 306 likes - 69 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

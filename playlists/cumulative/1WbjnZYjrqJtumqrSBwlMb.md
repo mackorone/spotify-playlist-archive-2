@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,346 songs - 3 day 10 hr 54 min
+1,347 songs - 3 day 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [End Of Summer](https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:12 | 2025-10-18 |  |
 | [Endors Toi](https://open.spotify.com/track/0YuePEX4KyfLIPMdNLPwgQ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:06 | 2021-02-07 |  |
 | [Endors Toi \- Live](https://open.spotify.com/track/5cKbrCR7TGuvyRFLcjcwaS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Live Versions](https://open.spotify.com/album/44RrnCW7pMIEiiAR3LIAVL) | 5:57 | 2023-01-09 |  |
+| [Enough Is Enough](https://open.spotify.com/track/4BKlAqMNx0YMFTuU39aKb3) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:46 | 2026-08-02 |  |
 | [Entergalactic Theme](https://open.spotify.com/track/7xENAAODeE2hKzdWFI6YaB) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Entergalactic](https://open.spotify.com/album/4aW4iDepQUl5ZCHd1Gli68) | 1:30 | 2022-09-30 |  |
 | [Enything](https://open.spotify.com/track/6SRKENjMvaK28HSVPCLO4E) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 4:41 | 2025-04-22 |  |
 | [Ethereal Connection](https://open.spotify.com/track/7J4EeyDpz2z8LuDFTuxskK) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 7:42 | 2025-10-18 |  |

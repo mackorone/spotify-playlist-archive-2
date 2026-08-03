@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 406917,
+  "num_followers": 406819,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
-        "name": "Incontournable Gold",
-        "url": "https://open.spotify.com/album/0RPMT9OFkLNQMUjCxhlTlR"
-      },
-      "artists": [
-        {
-          "name": "Gold",
-          "url": "https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5"
-        }
-      ],
-      "duration_ms": 235173,
-      "name": "Capitaine abandonn\u00e9",
-      "url": "https://open.spotify.com/track/38LHrcQIVbJJtS8H3xfCKn"
-    },
-    {
-      "added_at": "2026-05-19 09:20:45",
-      "album": {
         "name": "Les d\u00e9mons de minuit",
         "url": "https://open.spotify.com/album/6hOGy2ogj9tbIIpfQ5aQOO"
       },
@@ -223,18 +207,18 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
-        "name": "Abracadabra",
-        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
+        "name": "Incontournable Gold",
+        "url": "https://open.spotify.com/album/0RPMT9OFkLNQMUjCxhlTlR"
       },
       "artists": [
         {
-          "name": "Jean Schultheis",
-          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
+          "name": "Gold",
+          "url": "https://open.spotify.com/artist/0jByDd0pRNXrov9xxc5Hb5"
         }
       ],
-      "duration_ms": 286533,
-      "name": "Confidence pour confidence - Version originale 1981",
-      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
+      "duration_ms": 235173,
+      "name": "Capitaine abandonn\u00e9",
+      "url": "https://open.spotify.com/track/38LHrcQIVbJJtS8H3xfCKn"
     },
     {
       "added_at": "2026-05-19 09:20:45",
@@ -251,6 +235,22 @@
       "duration_ms": 238546,
       "name": "Cendrillon - Remasteris\u00e9 en 2015",
       "url": "https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my"
+    },
+    {
+      "added_at": "2026-05-19 09:20:45",
+      "album": {
+        "name": "Abracadabra",
+        "url": "https://open.spotify.com/album/6E16zlklECgO6wpYT9mkzD"
+      },
+      "artists": [
+        {
+          "name": "Jean Schultheis",
+          "url": "https://open.spotify.com/artist/6niV8gUVEBJhjjfb7LmD7W"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "Confidence pour confidence - Version originale 1981",
+      "url": "https://open.spotify.com/track/6qfjUmIxPluNISxBgJfvM3"
     },
     {
       "added_at": "2026-05-19 09:20:45",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
-        "name": "Mistral gagnant",
-        "url": "https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb"
-      },
-      "artists": [
-        {
-          "name": "Renaud",
-          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
-        }
-      ],
-      "duration_ms": 255026,
-      "name": "Miss Maggie",
-      "url": "https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7"
-    },
-    {
-      "added_at": "2026-05-19 09:20:45",
-      "album": {
         "name": "Encore un dernier baiser",
         "url": "https://open.spotify.com/album/1fNkoxAk0qg1tWuqDkKDDN"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 206666,
       "name": "Je dois m'en aller",
       "url": "https://open.spotify.com/track/7fxvGz4A606ADmsAGT5r4Q"
+    },
+    {
+      "added_at": "2026-05-19 09:20:45",
+      "album": {
+        "name": "Mistral gagnant",
+        "url": "https://open.spotify.com/album/3RNhp7YkJXZe3KJ3xlTHWb"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "duration_ms": 255026,
+      "name": "Miss Maggie",
+      "url": "https://open.spotify.com/track/3mrD89s4Ua9IS3Aw5kxMU7"
     },
     {
       "added_at": "2026-05-19 09:20:45",

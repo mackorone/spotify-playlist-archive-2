@@ -4841,6 +4841,24 @@
     },
     {
       "album": {
+        "name": "I Can't Fix You",
+        "url": "https://open.spotify.com/album/1PkoQCw47F8qzloQoprfEC"
+      },
+      "artists": [
+        {
+          "name": "lost in transit",
+          "url": "https://open.spotify.com/artist/6eWqCg3Oqp1xir8Ap0vq8y"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174933,
+      "name": "I Can't Fix You",
+      "url": "https://open.spotify.com/track/7mGsPsTVvPzPW242YUGr1s"
+    },
+    {
+      "album": {
         "name": "I DON'T WANT TO HOLD YOUR HAND",
         "url": "https://open.spotify.com/album/0lVlutlRZzSF8c1dQBK017"
       },
@@ -5412,6 +5430,24 @@
       "duration_ms": 215362,
       "name": "Just Me and This Trans Am",
       "url": "https://open.spotify.com/track/17CDsz0QLtgXzdpdOZVBCT"
+    },
+    {
+      "album": {
+        "name": "Kalamas",
+        "url": "https://open.spotify.com/album/0KC4ARwnP7p9odNqWyuvlK"
+      },
+      "artists": [
+        {
+          "name": "Callider",
+          "url": "https://open.spotify.com/artist/6f0DQd5eFmaMlG93D0IWrE"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276207,
+      "name": "Kalamas",
+      "url": "https://open.spotify.com/track/0G74mEK1JrsmXCElWi2Juv"
     },
     {
       "album": {
@@ -7128,6 +7164,24 @@
       "duration_ms": 196304,
       "name": "Nerves of Steel",
       "url": "https://open.spotify.com/track/21heBobd16ggH4cfDKll9A"
+    },
+    {
+      "album": {
+        "name": "Livin' On The Blues Way",
+        "url": "https://open.spotify.com/album/3yi0j1CyLPJcmNHMIfdoAE"
+      },
+      "artists": [
+        {
+          "name": "Angga Waskita",
+          "url": "https://open.spotify.com/artist/5oxjfK0gMogJFalhRyq3z3"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164729,
+      "name": "Never Stop",
+      "url": "https://open.spotify.com/track/2ya93c3UE2S0bkH5hHZGvG"
     },
     {
       "album": {
@@ -10783,6 +10837,24 @@
     },
     {
       "album": {
+        "name": "End Game",
+        "url": "https://open.spotify.com/album/6I5vOYOMKs2ia10GV07zcm"
+      },
+      "artists": [
+        {
+          "name": "Tarsik",
+          "url": "https://open.spotify.com/artist/2530s2wwvLVcrdDZHMR0vE"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196266,
+      "name": "They Say the Sky Is Just a Wall",
+      "url": "https://open.spotify.com/track/0ovI74HduC4HW1ucCuKpRb"
+    },
+    {
+      "album": {
         "name": "Three Good Motown Puns",
         "url": "https://open.spotify.com/album/0rHNfIKgzKZPMRlg57Qfj5"
       },
@@ -11140,7 +11212,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 202826,
       "name": "Unbreakable Love",
       "url": "https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z"

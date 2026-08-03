@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 연정\(YeonJeong\)\) \(Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Alice Syndrome\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,379 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,370 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Dream, Beautiful Desire](https://open.spotify.com/track/0DgsUd1tcKiNLtgc1NG9yq) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [GO](https://open.spotify.com/album/4f00AHq5o2yWvAtum48ZFU) | 3:51 |
-| 2 | [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/track/4sX1QVHVcYr8dlnLqOLpvZ) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/album/1vR7iuEnukcCPHE4ZEqK0y) | 3:33 |
-| 3 | [Sundown](https://open.spotify.com/track/2rGXsODiEgkbfoqcgFn50U) | [nib.archive](https://open.spotify.com/artist/2EQbMHjBpX8rpHLYeZ0AES) | [If, in the End, We](https://open.spotify.com/album/5dgjeyNd3Vqw1QU9gaAiyo) | 2:52 |
-| 4 | [bluescreen](https://open.spotify.com/track/3ZXW65JwQ2hwQab4dOSP9b) | [JI SUYEON](https://open.spotify.com/artist/70iA690AZviTkQKgfjlSK6) | [bluescreen](https://open.spotify.com/album/6syQENwrbxw2L266pROpdn) | 3:25 |
-| 5 | [Flo Flo \(feat\. Dopein\)](https://open.spotify.com/track/63puD8m1sZCxlmcxiqhAII) | [LODiVE](https://open.spotify.com/artist/4u60k8zXBWzInzqVLekWyJ), [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Flo Flo](https://open.spotify.com/album/7rJYhTMF4sVpYKEO48zapy) | 3:19 |
-| 6 | [Rollingloud](https://open.spotify.com/track/31yTDaGkc5yV3LnxLCVkm9) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9) | [Rollingloud](https://open.spotify.com/album/2NL3b1hb8pVdfcYSPPkuCy) | 1:45 |
-| 7 | [Like That](https://open.spotify.com/track/2RGX6bawrjRBzJUQ3sf0SG) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Like That](https://open.spotify.com/album/4dr2byTs5CnGERWn6VFxxe) | 1:54 |
+| 1 | [Deep Dive](https://open.spotify.com/track/2BWqnsiMhGNpNa9NGLv9VC) | [Alice Syndrome](https://open.spotify.com/artist/7fNeWBcx24ttY7l6TxFDJx) | [Deep Dive](https://open.spotify.com/album/6OHUIjVYP12r5212ioJtRI) | 2:21 |
+| 2 | [round](https://open.spotify.com/track/1NaDBli5yq02ienC980KcK) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [Comikai](https://open.spotify.com/album/1OiWbUDFPpye5aHlbCZj4B) | 3:21 |
+| 3 | [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/track/4sX1QVHVcYr8dlnLqOLpvZ) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [1+1 = 0 \(feat\. Jay Som\)](https://open.spotify.com/album/1vR7iuEnukcCPHE4ZEqK0y) | 3:33 |
+| 4 | [My Dream, Beautiful Desire](https://open.spotify.com/track/0DgsUd1tcKiNLtgc1NG9yq) | [YeonJeong](https://open.spotify.com/artist/4iWOfFVYkBIVyFHVeZiew4) | [GO](https://open.spotify.com/album/4f00AHq5o2yWvAtum48ZFU) | 3:51 |
+| 5 | [Sundown](https://open.spotify.com/track/2rGXsODiEgkbfoqcgFn50U) | [nib.archive](https://open.spotify.com/artist/2EQbMHjBpX8rpHLYeZ0AES) | [If, in the End, We](https://open.spotify.com/album/5dgjeyNd3Vqw1QU9gaAiyo) | 2:52 |
+| 6 | [bluescreen](https://open.spotify.com/track/3ZXW65JwQ2hwQab4dOSP9b) | [JI SUYEON](https://open.spotify.com/artist/70iA690AZviTkQKgfjlSK6) | [bluescreen](https://open.spotify.com/album/6syQENwrbxw2L266pROpdn) | 3:25 |
+| 7 | [Flo Flo \(feat\. Dopein\)](https://open.spotify.com/track/63puD8m1sZCxlmcxiqhAII) | [LODiVE](https://open.spotify.com/artist/4u60k8zXBWzInzqVLekWyJ), [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Flo Flo](https://open.spotify.com/album/7rJYhTMF4sVpYKEO48zapy) | 3:19 |
 | 8 | [When it stops raining \- tape mastered](https://open.spotify.com/track/3Gah3az5SeCNRV1IxIbJEj) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [When it stops raining \(tape mastered\)](https://open.spotify.com/album/7AeBRZmuqoSOiKM9tFjFtO) | 2:53 |
 | 9 | [Down to the sea](https://open.spotify.com/track/58Xwb48IoXtvmGTGP8L34N) | [Minjeong](https://open.spotify.com/artist/0WAJv6luRzoOrN9DUEL8Ru) | [Down to the sea](https://open.spotify.com/album/2aL6YVx9fjCUpsLwiWuYyv) | 3:25 |
 | 10 | [REI](https://open.spotify.com/track/7uHUDRvcYrPDYzIm8aupV1) | [Scorch](https://open.spotify.com/artist/4IKC1kFfDN1JZ7puoO0iNY) | [REI](https://open.spotify.com/album/17xsihxcNcsGZC1JDhLqvK) | 1:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [Lines For Today](https://open.spotify.com/track/51JY7adOGiJuEYuydofe12) | [Wavemeans](https://open.spotify.com/artist/6CYyF2lNhSUwZHUtlYoJ3r) | [Lines For Today](https://open.spotify.com/album/6ft7pqkX2AsA17DSCb75XB) | 2:45 |
 | 50 | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn) | [Ryeojin](https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX) | 2:36 |
 
-Snapshot ID: `AAAAAN7hff83/Fywy8jNxVsT9hylaMH1`
+Snapshot ID: `AAAAAISzCHt/l+AoPoPdIF/pUuNJhsa9`

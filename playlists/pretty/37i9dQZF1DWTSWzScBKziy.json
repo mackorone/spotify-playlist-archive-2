@@ -187,22 +187,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Living Water",
-        "url": "https://open.spotify.com/album/0oBPRWV1lYq0Z4vnpQt6se"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 213924,
-      "name": "Living Water",
-      "url": "https://open.spotify.com/track/53eAz1xAe54QMFBr1zjein"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "Only Ever",
         "url": "https://open.spotify.com/album/7ymTAiw7S9b0HZAXaZzoar"
       },
@@ -219,18 +203,18 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "In On It",
-        "url": "https://open.spotify.com/album/008WB3ZFnNPh4mL4b4uoZO"
+        "name": "Living Water",
+        "url": "https://open.spotify.com/album/0oBPRWV1lYq0Z4vnpQt6se"
       },
       "artists": [
         {
-          "name": "Gabby Barrett",
-          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
         }
       ],
-      "duration_ms": 225698,
-      "name": "In On It",
-      "url": "https://open.spotify.com/track/3vpoghBdsykC0mK8yKizZj"
+      "duration_ms": 213924,
+      "name": "Living Water",
+      "url": "https://open.spotify.com/track/53eAz1xAe54QMFBr1zjein"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -251,6 +235,22 @@
       "duration_ms": 478285,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/2IS9bxq9BqYmK5GdTA8yzB"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "In On It",
+        "url": "https://open.spotify.com/album/008WB3ZFnNPh4mL4b4uoZO"
+      },
+      "artists": [
+        {
+          "name": "Gabby Barrett",
+          "url": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+        }
+      ],
+      "duration_ms": 225698,
+      "name": "In On It",
+      "url": "https://open.spotify.com/track/3vpoghBdsykC0mK8yKizZj"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Breathe On It (From Austin)",
-        "url": "https://open.spotify.com/album/4YsvGZa7ngt3MESImncyrk"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 290981,
-      "name": "Breathe On It - From Austin",
-      "url": "https://open.spotify.com/track/5SZ4sp87ADIPrXorEZvHLx"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "HOLY PLACE",
         "url": "https://open.spotify.com/album/2opgoS8ibTjPJCU55jgkt4"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 257892,
       "name": "HOLY PLACE",
       "url": "https://open.spotify.com/track/5jkD22xzTiwTLp90CBpTmr"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "Something To Believe In",
+        "url": "https://open.spotify.com/album/0YVYzRqRJdBAPSBqjNU4zF"
+      },
+      "artists": [
+        {
+          "name": "Tate Butts",
+          "url": "https://open.spotify.com/artist/32BHM1azoYgb5hwKBDiOm3"
+        }
+      ],
+      "duration_ms": 200038,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/35I3OkokQgiDZPh9VPKlfl"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -435,18 +435,18 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Something To Believe In",
-        "url": "https://open.spotify.com/album/0YVYzRqRJdBAPSBqjNU4zF"
+        "name": "Breathe On It (From Austin)",
+        "url": "https://open.spotify.com/album/4YsvGZa7ngt3MESImncyrk"
       },
       "artists": [
         {
-          "name": "Tate Butts",
-          "url": "https://open.spotify.com/artist/32BHM1azoYgb5hwKBDiOm3"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 200038,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/35I3OkokQgiDZPh9VPKlfl"
+      "duration_ms": 290981,
+      "name": "Breathe On It - From Austin",
+      "url": "https://open.spotify.com/track/5SZ4sp87ADIPrXorEZvHLx"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "I Will Go (Live)",
-        "url": "https://open.spotify.com/album/5poFBH0sgVLaxNAcCmxti6"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 249003,
-      "name": "I Will Go - Live",
-      "url": "https://open.spotify.com/track/1qRyX2jvOmpdCopna4KVNl"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/06IdvGUPXOmECL3Co8Jkb6"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 242974,
       "name": "Life",
       "url": "https://open.spotify.com/track/1gjzjaXaPTaFaqoERTr0fX"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "I Will Go (Live)",
+        "url": "https://open.spotify.com/album/5poFBH0sgVLaxNAcCmxti6"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 249003,
+      "name": "I Will Go - Live",
+      "url": "https://open.spotify.com/track/1qRyX2jvOmpdCopna4KVNl"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -743,22 +743,22 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "NEED YOU (feat. Lecrae)",
-        "url": "https://open.spotify.com/album/0Tbu8F2IMjm6QRtns8ONqp"
+        "name": "Worthy Of It All (Worthy)",
+        "url": "https://open.spotify.com/album/2LTIMGeqlFibHPJhpwOti7"
       },
       "artists": [
         {
-          "name": "Ryan Trey",
-          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         },
         {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 151968,
-      "name": "NEED YOU (feat. Lecrae)",
-      "url": "https://open.spotify.com/track/0rsHiyVj4Jo919pZ4nYaYy"
+      "duration_ms": 257868,
+      "name": "Worthy Of It All (Worthy)",
+      "url": "https://open.spotify.com/track/6aKCJLh5lrsIXjA5ndk6xJ"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
+        "name": "NEED YOU (feat. Lecrae)",
+        "url": "https://open.spotify.com/album/0Tbu8F2IMjm6QRtns8ONqp"
+      },
+      "artists": [
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        },
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 151968,
+      "name": "NEED YOU (feat. Lecrae)",
+      "url": "https://open.spotify.com/track/0rsHiyVj4Jo919pZ4nYaYy"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
         "name": "A Symphony",
         "url": "https://open.spotify.com/album/2J1Sk33L04H9phn91PmFlD"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 208410,
       "name": "A Symphony",
       "url": "https://open.spotify.com/track/5dF8FX6wwyCrJSdxmuNdLG"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
-        "name": "Worthy Of It All (Worthy)",
-        "url": "https://open.spotify.com/album/2LTIMGeqlFibHPJhpwOti7"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 257868,
-      "name": "Worthy Of It All (Worthy)",
-      "url": "https://open.spotify.com/track/6aKCJLh5lrsIXjA5ndk6xJ"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/6QVYThtAZSWJuGRIBY8mhB"
-      },
-      "artists": [
-        {
-          "name": "Joe Mettle",
-          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
-        }
-      ],
-      "duration_ms": 586140,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "Not For Nothing",
         "url": "https://open.spotify.com/album/3t4jeHoOlorl3UD51Q1wsk"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 205811,
       "name": "Follow Me Down",
       "url": "https://open.spotify.com/track/6CpymmOsn2sphJ8PIsGgxE"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/6QVYThtAZSWJuGRIBY8mhB"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        }
+      ],
+      "duration_ms": 586140,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Open the Eyes (Praise You)",
-        "url": "https://open.spotify.com/album/6LHC1RZhsWxQWDB2fpFocU"
+        "name": "Run River Run",
+        "url": "https://open.spotify.com/album/2xmxFnb0Bn10PjAo9YrVXW"
       },
       "artists": [
         {
-          "name": "Madison Watkins",
-          "url": "https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT"
+          "name": "Church Friends",
+          "url": "https://open.spotify.com/artist/0aaJUbV0CN8059WCbuxzOb"
         }
       ],
-      "duration_ms": 184521,
-      "name": "Open the Eyes (Praise You)",
-      "url": "https://open.spotify.com/track/4auVflbcFJqmPaPMoFtz3A"
+      "duration_ms": 191932,
+      "name": "Run River Run",
+      "url": "https://open.spotify.com/track/3mYtm7LJ5rydiMulJLb39K"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1199,34 +1199,18 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Run River Run",
-        "url": "https://open.spotify.com/album/2xmxFnb0Bn10PjAo9YrVXW"
+        "name": "Open the Eyes (Praise You)",
+        "url": "https://open.spotify.com/album/6LHC1RZhsWxQWDB2fpFocU"
       },
       "artists": [
         {
-          "name": "Church Friends",
-          "url": "https://open.spotify.com/artist/0aaJUbV0CN8059WCbuxzOb"
+          "name": "Madison Watkins",
+          "url": "https://open.spotify.com/artist/4BCf8cjf2cyqkwksisjnNT"
         }
       ],
-      "duration_ms": 191932,
-      "name": "Run River Run",
-      "url": "https://open.spotify.com/track/3mYtm7LJ5rydiMulJLb39K"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
-        "name": "THE WORLD IS WATCHING",
-        "url": "https://open.spotify.com/album/1kRFMO0oo6kkxjRf5h5IW9"
-      },
-      "artists": [
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        }
-      ],
-      "duration_ms": 117611,
-      "name": "2:22",
-      "url": "https://open.spotify.com/track/393ncncV4p6He9Rcadoxvk"
+      "duration_ms": 184521,
+      "name": "Open the Eyes (Praise You)",
+      "url": "https://open.spotify.com/track/4auVflbcFJqmPaPMoFtz3A"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1243,6 +1227,22 @@
       "duration_ms": 201933,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/1VbuyGK1bBv4ioZKcidXHH"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "THE WORLD IS WATCHING",
+        "url": "https://open.spotify.com/album/1kRFMO0oo6kkxjRf5h5IW9"
+      },
+      "artists": [
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 117611,
+      "name": "2:22",
+      "url": "https://open.spotify.com/track/393ncncV4p6He9Rcadoxvk"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Bout My Father's Business",
-        "url": "https://open.spotify.com/album/2ZyDDopCa0SslHJCwT1TxL"
-      },
-      "artists": [
-        {
-          "name": "C\u00e8Jae",
-          "url": "https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3"
-        }
-      ],
-      "duration_ms": 157963,
-      "name": "Bout My Father's Business",
-      "url": "https://open.spotify.com/track/3qYliDvUmeAw2o1UUXOpWn"
-    },
-    {
-      "added_at": "2026-07-17 07:18:27",
-      "album": {
         "name": "Never Returns Void",
         "url": "https://open.spotify.com/album/0ny0pOt7hZmOVcqDlFB0Ib"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2026-07-17 07:18:27",
       "album": {
-        "name": "Your Kingdom Come",
-        "url": "https://open.spotify.com/album/7dI7ivXWwXgCP0NvDbov8b"
+        "name": "Bout My Father's Business",
+        "url": "https://open.spotify.com/album/2ZyDDopCa0SslHJCwT1TxL"
       },
       "artists": [
         {
-          "name": "Chevas Phillips",
-          "url": "https://open.spotify.com/artist/67Zx5vdEbthTEIbDvoYskv"
+          "name": "C\u00e8Jae",
+          "url": "https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3"
         }
       ],
-      "duration_ms": 239200,
-      "name": "Your Kingdom Come",
-      "url": "https://open.spotify.com/track/3SQMtWbtOscPFN3p3b8o4G"
+      "duration_ms": 157963,
+      "name": "Bout My Father's Business",
+      "url": "https://open.spotify.com/track/3qYliDvUmeAw2o1UUXOpWn"
     },
     {
       "added_at": "2026-07-17 07:18:27",
@@ -1363,6 +1347,22 @@
       "duration_ms": 168000,
       "name": "The Love of God",
       "url": "https://open.spotify.com/track/4wGtkg4JTISnP2aOTge6Id"
+    },
+    {
+      "added_at": "2026-07-17 07:18:27",
+      "album": {
+        "name": "Your Kingdom Come",
+        "url": "https://open.spotify.com/album/7dI7ivXWwXgCP0NvDbov8b"
+      },
+      "artists": [
+        {
+          "name": "Chevas Phillips",
+          "url": "https://open.spotify.com/artist/67Zx5vdEbthTEIbDvoYskv"
+        }
+      ],
+      "duration_ms": 239200,
+      "name": "Your Kingdom Come",
+      "url": "https://open.spotify.com/track/3SQMtWbtOscPFN3p3b8o4G"
     }
   ],
   "unique_name": "Faith Rising",

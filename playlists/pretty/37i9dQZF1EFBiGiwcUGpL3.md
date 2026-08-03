@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1kss636YZWThqotgyApqMj">Keith Urban</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 750 likes - 103 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 752 likes - 103 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 58 | [Better Than I Am](https://open.spotify.com/track/4WRJRM32R7GGlsVxlv30pm) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 4:31 |
 | 59 | [Whenever I Run](https://open.spotify.com/track/7C3dQdZD2NrSsTvDxRluRA) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 3:39 |
 | 60 | [It's A Love Thing](https://open.spotify.com/track/2Ck1FT8bFBwjE1rFuYYCzk) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Keith Urban](https://open.spotify.com/album/57KrglwgwXrz3PH13T6FLS) | 3:41 |
-| 61 | [Standing Right In Front Of You](https://open.spotify.com/track/00vCVKJkVQIQ3EoQmAy5Ty) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Defying Gravity](https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy) | 4:01 |
-| 62 | [Shut Out The Lights](https://open.spotify.com/track/3P3MBCqeKrfNYChwNgTfmQ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 4:18 |
-| 63 | [We Go Back \(ft\. Michael McDonald\)](https://open.spotify.com/track/3fgXSl6jqncaLZVO8WNPX5) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [flow state](https://open.spotify.com/album/2ap2eUHSoEZhUAj1ybgask) | 3:30 |
+| 61 | [We Go Back \(ft\. Michael McDonald\)](https://open.spotify.com/track/3fgXSl6jqncaLZVO8WNPX5) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [flow state](https://open.spotify.com/album/2ap2eUHSoEZhUAj1ybgask) | 3:30 |
+| 62 | [Standing Right In Front Of You](https://open.spotify.com/track/00vCVKJkVQIQ3EoQmAy5Ty) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Defying Gravity](https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy) | 4:01 |
+| 63 | [Shut Out The Lights](https://open.spotify.com/track/3P3MBCqeKrfNYChwNgTfmQ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 4:18 |
 | 64 | [My Heart Is Open](https://open.spotify.com/track/6gnuR9bvW9g2YKV3BhAisr) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Defying Gravity](https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy) | 5:29 |
 | 65 | [Lucky Charm](https://open.spotify.com/track/60MFvf06siBV6IHNvCBBmm) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fuse \(Deluxe Edition\)](https://open.spotify.com/album/6LJH0InZpmgymwZ3hpsUYD) | 3:06 |
 | 66 | [Thank You](https://open.spotify.com/track/1w9LuGRGfZlE8AGDbSNOfT) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Defying Gravity](https://open.spotify.com/album/59iMA7L7Vab6md5dlm83fy) | 5:14 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBiGiwcUGpL3.md) - [plain]
 | 102 | [Wasted Time With Folsom Prison Blues \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/0g0Gbad2qQmYfFHwFlKSdp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH AND A\(LIVE\)](https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL) | 8:10 |
 | 103 | ["BLUE SKY"](https://open.spotify.com/track/4PVOPJEQvEHkfl8eBgYX0B) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 0:12 |
 
-Snapshot ID: `AcYcqAAAAACsh8bVrhwrut3ib9DHDJdT`
+Snapshot ID: `AcYiSAAAAAAmwVxujCrhdNx5PpCW48d2`

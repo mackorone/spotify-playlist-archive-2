@@ -4,7 +4,7 @@
 
 > life too short love the one you got
 
-1,547 songs - 3 day 16 hr 10 min
+1,548 songs - 3 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -718,6 +718,7 @@
 | [Juno](https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:43 | 2024-08-22 |  |
 | [Just Because](https://open.spotify.com/track/59Gi9lWAetmSuN6phhGy2e) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17](https://open.spotify.com/album/7kER2cVpZWvqXlds3fJzmU) | 2:12 | 2025-10-27 |  |
 | [just give me 'til april](https://open.spotify.com/track/69s759gkmF6B1sKDviemrm) | [compliments](https://open.spotify.com/artist/3RvwgNM0AZSjT8KsxK8JbD) | [just give me 'til april](https://open.spotify.com/album/5GY2bKZOBXT3WqMlZ3dzpD) | 3:36 | 2026-01-06 |  |
+| [Just In Time](https://open.spotify.com/track/1MDgaeWzE176RBsaLqWiw4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [NINA SIMONE INTEGRAL 1957\- 1962](https://open.spotify.com/album/1wVseZxXPYZfi2u2h07Yqr) | 6:36 | 2026-08-02 |  |
 | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Just Keep Watching \(From F1® The Movie\)](https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY) | 2:22 | 2025-05-30 |  |
 | [Kaleidoscope](https://open.spotify.com/track/4ROYC4vHfPZ28mqz0eLrzL) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:42 | 2024-08-03 | 2026-01-04 |
 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 | 2026-04-08 |  |

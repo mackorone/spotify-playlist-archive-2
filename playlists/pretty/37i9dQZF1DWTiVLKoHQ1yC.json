@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 260522,
+  "num_followers": 260587,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,46 @@
     {
       "added_at": "2026-07-23 23:00:43",
       "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/7wIlJaB1s21YFwKkMBlDY0"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
+        }
+      ],
+      "duration_ms": 226976,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/4xqKh9ZcFLssHKQWtnj6jl"
+    },
+    {
+      "added_at": "2026-07-23 23:00:43",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/1ejxqX9sf8WXahJzVrjD2s"
+      },
+      "artists": [
+        {
+          "name": "Planningtorock",
+          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
+        },
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 234461,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7DNlr75yw0OcYLgYXvmGY1"
+    },
+    {
+      "added_at": "2026-07-23 23:00:43",
+      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
       },
@@ -395,46 +435,6 @@
       "duration_ms": 271007,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA"
-    },
-    {
-      "added_at": "2026-07-23 23:00:43",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/1ejxqX9sf8WXahJzVrjD2s"
-      },
-      "artists": [
-        {
-          "name": "Planningtorock",
-          "url": "https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG"
-        },
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 234461,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/7DNlr75yw0OcYLgYXvmGY1"
-    },
-    {
-      "added_at": "2026-07-23 23:00:43",
-      "album": {
-        "name": "Follow",
-        "url": "https://open.spotify.com/album/7wIlJaB1s21YFwKkMBlDY0"
-      },
-      "artists": [
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 226976,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/4xqKh9ZcFLssHKQWtnj6jl"
     },
     {
       "added_at": "2026-07-23 23:00:43",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-07-23 23:00:43",
       "album": {
-        "name": "Bigger Than All Of Us",
-        "url": "https://open.spotify.com/album/0EovqHtUM3sLB0IqlS3Xkm"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Richard Bedford",
-          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Start A Fire",
-      "url": "https://open.spotify.com/track/1gZKuzj9GsuFl0IshqPPom"
-    },
-    {
-      "added_at": "2026-07-23 23:00:43",
-      "album": {
         "name": "Chasing Ghosts",
         "url": "https://open.spotify.com/album/6SjsSADxNyzHxGbh0qQfq4"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 369798,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p"
+    },
+    {
+      "added_at": "2026-07-23 23:00:43",
+      "album": {
+        "name": "Bigger Than All Of Us",
+        "url": "https://open.spotify.com/album/0EovqHtUM3sLB0IqlS3Xkm"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Start A Fire",
+      "url": "https://open.spotify.com/track/1gZKuzj9GsuFl0IshqPPom"
     },
     {
       "added_at": "2026-07-23 23:00:43",
@@ -1131,30 +1131,6 @@
     {
       "added_at": "2026-07-23 23:00:43",
       "album": {
-        "name": "Just Can't Stop",
-        "url": "https://open.spotify.com/album/4g6vXqmOf7qusOBDp5nWWJ"
-      },
-      "artists": [
-        {
-          "name": "Hessian",
-          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
-        },
-        {
-          "name": "Farves",
-          "url": "https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB"
-        },
-        {
-          "name": "flyckt",
-          "url": "https://open.spotify.com/artist/7gqK3L4rJ38jXJTuaymRs9"
-        }
-      ],
-      "duration_ms": 220708,
-      "name": "Just Can't Stop",
-      "url": "https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv"
-    },
-    {
-      "added_at": "2026-07-23 23:00:43",
-      "album": {
         "name": "Protected",
         "url": "https://open.spotify.com/album/4MOIA5rcy0XfN7kRWmSukG"
       },
@@ -1195,6 +1171,30 @@
       "duration_ms": 210967,
       "name": "Wander",
       "url": "https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr"
+    },
+    {
+      "added_at": "2026-07-23 23:00:43",
+      "album": {
+        "name": "Just Can't Stop",
+        "url": "https://open.spotify.com/album/4g6vXqmOf7qusOBDp5nWWJ"
+      },
+      "artists": [
+        {
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
+        },
+        {
+          "name": "Farves",
+          "url": "https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB"
+        },
+        {
+          "name": "flyckt",
+          "url": "https://open.spotify.com/artist/7gqK3L4rJ38jXJTuaymRs9"
+        }
+      ],
+      "duration_ms": 220708,
+      "name": "Just Can't Stop",
+      "url": "https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv"
     }
   ],
   "unique_name": "Melodic & Euphoric",

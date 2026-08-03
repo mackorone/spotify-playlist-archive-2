@@ -16183,6 +16183,24 @@
     },
     {
       "album": {
+        "name": "Simplifier",
+        "url": "https://open.spotify.com/album/3cAJ1xUKVl88xCCHpsQwqt"
+      },
+      "artists": [
+        {
+          "name": "Baptiste Trotignon",
+          "url": "https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228226,
+      "name": "Simplifier",
+      "url": "https://open.spotify.com/track/08VHbH4A2hBnSDKiLW2UFW"
+    },
+    {
+      "album": {
         "name": "Pasieros",
         "url": "https://open.spotify.com/album/1fIKEGcN78crVvuSWjquHA"
       },

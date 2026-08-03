@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 22147,
+  "num_followers": 22163,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "amvlgAAAAAB9tfYzlUgXvYi4jqjZTK8I",
+  "snapshot_id": "am03AAAAAAA8wSI8FXo7J1sraJGPCTqN",
   "tracks": [
     {
       "added_at": null,
@@ -222,15 +222,11 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 191032,
-      "name": "all fours (feat. DESTIN CONRAD)",
-      "url": "https://open.spotify.com/track/4swgjjK6EDlUjjtRZrDaFI"
+      "duration_ms": 249218,
+      "name": "touch myself",
+      "url": "https://open.spotify.com/track/3tyDv1Qwsr7MSZB45ywgj7"
     },
     {
       "added_at": null,
@@ -294,11 +290,15 @@
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 249218,
-      "name": "touch myself",
-      "url": "https://open.spotify.com/track/3tyDv1Qwsr7MSZB45ywgj7"
+      "duration_ms": 191032,
+      "name": "all fours (feat. DESTIN CONRAD)",
+      "url": "https://open.spotify.com/track/4swgjjK6EDlUjjtRZrDaFI"
     },
     {
       "added_at": null,

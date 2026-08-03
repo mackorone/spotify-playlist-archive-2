@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Alpocalypse",
+        "url": "https://open.spotify.com/album/7xioktcLt004PnB9nqwBWz"
+      },
+      "artists": [
+        {
+          "name": "\"Weird Al\" Yankovic",
+          "url": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293078,
+      "name": "Craigslist",
+      "url": "https://open.spotify.com/track/1drv4FMcCNrhBCL6S0vxjz"
+    },
+    {
+      "album": {
         "name": "Devil in the Shortwave",
         "url": "https://open.spotify.com/album/5cus7c5cZOGWXAtcPdueih"
       },

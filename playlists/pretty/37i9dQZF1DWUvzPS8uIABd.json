@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132436,
+  "num_followers": 132369,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
+        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "duration_ms": 172092,
+      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
         "name": "Poikayst\u00e4v\u00e4",
         "url": "https://open.spotify.com/album/7xGPf3ct9ufbq9Y49yaHnF"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 139868,
       "name": "Poikayst\u00e4v\u00e4",
       "url": "https://open.spotify.com/track/2cqjDWpkxpMQVHVPJENnhi"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
-      },
-      "artists": [
-        {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
-        }
-      ],
-      "duration_ms": 172092,
-      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
+        "name": "Vanhoja muistellaan",
+        "url": "https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza"
+      },
+      "artists": [
+        {
+          "name": "KAUKUA",
+          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
+        }
+      ],
+      "duration_ms": 168391,
+      "name": "Vanhoja muistellaan",
+      "url": "https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
         "name": "Sata syyt",
         "url": "https://open.spotify.com/album/183AuvnOZ1x5FdRUuSGzEQ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 174000,
       "name": "Sata syyt",
       "url": "https://open.spotify.com/track/5utmpdm2S5HNpdvz1Fve8L"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "Vanhoja muistellaan",
-        "url": "https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza"
-      },
-      "artists": [
-        {
-          "name": "KAUKUA",
-          "url": "https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ"
-        }
-      ],
-      "duration_ms": 168391,
-      "name": "Vanhoja muistellaan",
-      "url": "https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1107,30 +1107,6 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Kaikki tahtoo taivaaseen",
-        "url": "https://open.spotify.com/album/5CDCkbQ0i3ZLMwEx00ahfk"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        },
-        {
-          "name": "Elastinen",
-          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
-        },
-        {
-          "name": "william",
-          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
-        }
-      ],
-      "duration_ms": 154247,
-      "name": "Kaikki tahtoo taivaaseen",
-      "url": "https://open.spotify.com/track/4JK9igYtNGRuu2Ub4euf03"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
         "name": "N\u00e4yt\u00e4 miten rakkautta tehd\u00e4\u00e4n (feat. Dilemma & Mesi)",
         "url": "https://open.spotify.com/album/0Qoc2U3ajRpD3VWSLEgQHI"
       },
@@ -1155,18 +1131,26 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "T\u00e4\u00e4 tunne",
-        "url": "https://open.spotify.com/album/6ydY2zebn5LfMlQjNNCyxg"
+        "name": "Kaikki tahtoo taivaaseen",
+        "url": "https://open.spotify.com/album/5CDCkbQ0i3ZLMwEx00ahfk"
       },
       "artists": [
         {
-          "name": "Cledos",
-          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        },
+        {
+          "name": "Elastinen",
+          "url": "https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI"
+        },
+        {
+          "name": "william",
+          "url": "https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs"
         }
       ],
-      "duration_ms": 159000,
-      "name": "T\u00e4\u00e4 tunne",
-      "url": "https://open.spotify.com/track/2iyIZsT9JobbLBi0O9QD5V"
+      "duration_ms": 154247,
+      "name": "Kaikki tahtoo taivaaseen",
+      "url": "https://open.spotify.com/track/4JK9igYtNGRuu2Ub4euf03"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Viaton",
-        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
+        "name": "T\u00e4\u00e4 tunne",
+        "url": "https://open.spotify.com/album/6ydY2zebn5LfMlQjNNCyxg"
       },
       "artists": [
         {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Viaton",
-      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
+      "duration_ms": 159000,
+      "name": "T\u00e4\u00e4 tunne",
+      "url": "https://open.spotify.com/track/2iyIZsT9JobbLBi0O9QD5V"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1219,22 +1203,18 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Satumaa",
-        "url": "https://open.spotify.com/album/2Ehbjt1d6Ux7lHqyO5Nz6l"
+        "name": "Viaton",
+        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
       },
       "artists": [
         {
-          "name": "Samuell",
-          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
-        },
-        {
-          "name": "Silja Kielo",
-          "url": "https://open.spotify.com/artist/1fgoCRGHwSiDX4GVMp5z7i"
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Satumaa",
-      "url": "https://open.spotify.com/track/2eckvn1XLK4zjP7PPce2DP"
+      "duration_ms": 200000,
+      "name": "Viaton",
+      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1259,18 +1239,42 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Mun vuoro luovuttaa",
-        "url": "https://open.spotify.com/album/6V6cqP9X5yHqX4r2xea1Wc"
+        "name": "Satumaa",
+        "url": "https://open.spotify.com/album/2Ehbjt1d6Ux7lHqyO5Nz6l"
       },
       "artists": [
         {
-          "name": "Nelli Matula",
-          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+          "name": "Samuell",
+          "url": "https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV"
+        },
+        {
+          "name": "Silja Kielo",
+          "url": "https://open.spotify.com/artist/1fgoCRGHwSiDX4GVMp5z7i"
         }
       ],
-      "duration_ms": 160714,
-      "name": "Mun vuoro luovuttaa",
-      "url": "https://open.spotify.com/track/7rQi8Vc7X68hNyvrNkt1Po"
+      "duration_ms": 176000,
+      "name": "Satumaa",
+      "url": "https://open.spotify.com/track/2eckvn1XLK4zjP7PPce2DP"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "Vitun Inee",
+        "url": "https://open.spotify.com/album/703oNklnvTfpVoDjGeGCkn"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        }
+      ],
+      "duration_ms": 178047,
+      "name": "Vitun Inee",
+      "url": "https://open.spotify.com/track/2HZ3F2RGJQKApP1DPdeMpp"
     }
   ],
   "unique_name": "#vainsuomihitit",

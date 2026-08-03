@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-29",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Anh Mu\u1ed1n Nh\u00ecn Th\u1ea5y Em",
       "url": "https://open.spotify.com/track/5VGOYjxkEaf19LoRPIolD2"
@@ -8964,7 +8964,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 216500,
       "name": "ex's hate me, Pt.2",
       "url": "https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX"
@@ -12490,7 +12490,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 239315,
       "name": "IDNAT (IM \u0110\u1ee2I NG\u01af\u1edcI ANH TH\u01af\u01a0NG) (feat. Wren Evans, IVAN, CAPTAIN BOY & Th\u1ec3 Thi\u00ean)",
       "url": "https://open.spotify.com/track/5KGa9rEkL3qUNFuIhNo90e"
@@ -17096,7 +17096,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 288545,
       "name": "M\u1ed8NG DUY\u00caN (feat. Quang H\u00f9ng MasterD, Song Lu\u00e2n, JSOL, S\u01a1n.K & Emil Vergo)",
       "url": "https://open.spotify.com/track/7DKTqxctuNjAUsU2a8jVv2"
@@ -19826,7 +19826,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 317972,
       "name": "N\u1ebfu Nh\u01b0 Ta Ch\u1eb3ng C\u00f2n (feat. A$AP \u01af\u1edbt Mi)",
       "url": "https://open.spotify.com/track/05kwQNmIvly0VZy3AkfMzs"
@@ -19964,7 +19964,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 305852,
       "name": "N\u1ee2 EM C\u1ea2 B\u1ea6U TR\u1edcI",
       "url": "https://open.spotify.com/track/1GvilcxzSotX6bFHuwCJiz"
@@ -23769,6 +23769,36 @@
     },
     {
       "album": {
+        "name": "SSD",
+        "url": "https://open.spotify.com/album/1R7qDfGXNgvVRgpLJVnJkn"
+      },
+      "artists": [
+        {
+          "name": "W/N",
+          "url": "https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD"
+        },
+        {
+          "name": "267",
+          "url": "https://open.spotify.com/artist/1jLM6ulW6ldwRWX9smNYmt"
+        },
+        {
+          "name": "PAR SG",
+          "url": "https://open.spotify.com/artist/5yE1xvNIbuEB2kkopCuCVY"
+        },
+        {
+          "name": "Nguyenn",
+          "url": "https://open.spotify.com/artist/0FflNqUFk4ODtAZuVuqgou"
+        }
+      ],
+      "date_added": "2026-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "SSD",
+      "url": "https://open.spotify.com/track/2JZH5Rwp2WCAWzm3hXYzQf"
+    },
+    {
+      "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
       },
@@ -27010,7 +27040,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/0pSTK0qekDyWdGvbDuuCfC"
@@ -27662,7 +27692,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 269473,
       "name": "T\u1eebng L\u00e0 C\u1ee7a Nhau",
       "url": "https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt"
@@ -27964,7 +27994,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"
@@ -29422,7 +29452,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-03",
       "duration_ms": 205750,
       "name": "XOAY V\u00d2NG (feat. HURRYKNG, CONGB, JSOL & V\u01af\u01a0NG B\u00ccNH)",
       "url": "https://open.spotify.com/track/2WLwTRDgtO4vwjZReiOdNB"

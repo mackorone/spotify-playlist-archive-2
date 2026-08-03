@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > life too short love the one you got
 
-[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,114 songs - 2 day 15 hr 12 min
+[julia](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,115 songs - 2 day 15 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1122,5 +1122,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1112 | [Inside Out](https://open.spotify.com/track/7HKW2F9UqwMVPdByorotm1) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [They Want My Soul](https://open.spotify.com/album/7oBe4s2OCYUBLixJw3lpFT) | 5:03 |
 | 1113 | [Black Balloons](https://open.spotify.com/track/0Yp6CHC41D5fQg5g8EOpsh) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/0YMNHZKlcuPWPe6hcArKzk) | 3:07 |
 | 1114 | [Three Months](https://open.spotify.com/track/6Xc2oXYio3m8uoB5IACBa3) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/0YMNHZKlcuPWPe6hcArKzk) | 4:30 |
+| 1115 | [Just In Time](https://open.spotify.com/track/1MDgaeWzE176RBsaLqWiw4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [NINA SIMONE INTEGRAL 1957\- 1962](https://open.spotify.com/album/1wVseZxXPYZfi2u2h07Yqr) | 6:36 |
 
-Snapshot ID: `AAALUfNh9RumY0sp6IP32xwcRwd55H17`
+Snapshot ID: `AAALUiAY5EXC3xxLtF4s1PpJX0KgoGCh`

@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Branford Marsalis & Dianne Reeves
 
-1,022 songs - 3 day 0 hr 49 min
+1,023 songs - 3 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -773,6 +773,7 @@
 | [Siesta \(feat\. Emeli Sandé\)](https://open.spotify.com/track/200mXRutkz0x5MSQWyipxS) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 5:48 | 2022-11-10 | 2023-02-10 |
 | [Silver Lining](https://open.spotify.com/track/0cgjvHVCoiafozhMk3Z7Sg) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Silver Lining](https://open.spotify.com/album/3TqBGTBmONLgkO3OxDipkg) | 3:17 | 2025-04-17 | 2025-06-20 |
 | [Simple Tune](https://open.spotify.com/track/1Yo9Ii9a09QMOaiZtOuoSS) | [Yaron Herman](https://open.spotify.com/artist/0YbhcCKyhHD3llGKNtE9UJ) | [Simple Tune](https://open.spotify.com/album/6kVyjDqtKdvTxPkKB2lixx) | 6:07 | 2026-06-04 |  |
+| [Simplifier](https://open.spotify.com/track/08VHbH4A2hBnSDKiLW2UFW) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Simplifier](https://open.spotify.com/album/3cAJ1xUKVl88xCCHpsQwqt) | 3:48 | 2026-07-31 |  |
 | [Sin Tu Cariño](https://open.spotify.com/track/1qiTCtOzIeNByF4qBk8rKT) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Boca Livre](https://open.spotify.com/artist/360FjbxByY4XLqXrZ6cWGF) | [Pasieros](https://open.spotify.com/album/1fIKEGcN78crVvuSWjquHA) | 3:59 | 2022-05-19 | 2022-08-19 |
 | [Sing as One](https://open.spotify.com/track/5GIfm1C24I2fHYpVxM7yAG) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Maya Fadeeva](https://open.spotify.com/artist/3gIcFcSyNnXAmdsl5YrtYb) | [Sing as One](https://open.spotify.com/album/1gQvCVTBmZLXebIXBsueDU) | 3:31 | 2022-05-26 | 2022-10-14 |
 | [Skylark](https://open.spotify.com/track/7pM1ZCbo5MamKTCVhTKLY0) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Skylark](https://open.spotify.com/album/3eqgxkZCEJ8dlBTMqGhgiF) | 4:34 | 2023-02-16 | 2023-03-31 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Marca MP \ud83d\udcf8",
-  "num_followers": 1302579,
+  "num_followers": 1300798,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
+        "name": "Machin Love (En Vivo Desde La Arena Jalisco)",
+        "url": "https://open.spotify.com/album/0C9j9wOlaoX0aubYwnRNiY"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        }
+      ],
+      "duration_ms": 145562,
+      "name": "All\u00e1 Usted - En Vivo Desde la Arena Jalisco",
+      "url": "https://open.spotify.com/track/45z1vE8tR0Jl1CmKkG0Osz"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
         "name": "Aunque me duela",
         "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
       },
@@ -539,22 +555,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Machin Love (En Vivo Desde La Arena Jalisco)",
-        "url": "https://open.spotify.com/album/0C9j9wOlaoX0aubYwnRNiY"
-      },
-      "artists": [
-        {
-          "name": "La Inolvidable Banda Agua De La Llave",
-          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
-        }
-      ],
-      "duration_ms": 145562,
-      "name": "All\u00e1 Usted - En Vivo Desde la Arena Jalisco",
-      "url": "https://open.spotify.com/track/45z1vE8tR0Jl1CmKkG0Osz"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Por Salud Mental",
         "url": "https://open.spotify.com/album/5daCtEvl4hwiozKbCQxc9h"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Vete, Vete",
-        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Vete, Vete",
-      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Me Las Dijo El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4b5ybbaw11AIMgYWq2JOvf"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 175872,
       "name": "Se Cancela",
       "url": "https://open.spotify.com/track/60Rg94sunanVgdeJB9rkPC"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Vete, Vete",
+        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Vete, Vete",
+      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "No Tiene Precio",
-        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 183640,
-      "name": "Si Se Trata De Ti",
-      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 182586,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "No Tiene Precio",
+        "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 183640,
+      "name": "Si Se Trata De Ti",
+      "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1039,18 +1039,22 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Las Reglas Del Juego",
-        "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
+        "name": "\u00bfC\u00f3mo Se Te Ocurre?",
+        "url": "https://open.spotify.com/album/2DesGVtJPsyBhk2fhk8Ich"
       },
       "artists": [
         {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+          "name": "El Juanma",
+          "url": "https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
         }
       ],
-      "duration_ms": 171886,
-      "name": "Quisiera Rozar Tu Piel",
-      "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
+      "duration_ms": 219922,
+      "name": "\u00bfC\u00f3mo Se Te Ocurre?",
+      "url": "https://open.spotify.com/track/0DFEiu7V6q0Z4mYAOtkN8v"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1071,22 +1075,18 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "\u00bfC\u00f3mo Se Te Ocurre?",
-        "url": "https://open.spotify.com/album/2DesGVtJPsyBhk2fhk8Ich"
+        "name": "Las Reglas Del Juego",
+        "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
       },
       "artists": [
         {
-          "name": "El Juanma",
-          "url": "https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 219922,
-      "name": "\u00bfC\u00f3mo Se Te Ocurre?",
-      "url": "https://open.spotify.com/track/0DFEiu7V6q0Z4mYAOtkN8v"
+      "duration_ms": 171886,
+      "name": "Quisiera Rozar Tu Piel",
+      "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Se Nos Acab\u00f3 El Amor",
-        "url": "https://open.spotify.com/album/6Z4vKKQ3ih2etNrEBi0sSI"
-      },
-      "artists": [
-        {
-          "name": "Banda Playa Grande",
-          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "Se Nos Acab\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/2bXo6a27ObT9EgjrE5g7Vc"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Desde La Mochila Con La Banda Session 2 (En Vivo)",
         "url": "https://open.spotify.com/album/7oKlBewCFw1v1OxcStGAT5"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 187200,
       "name": "Cuando El Sol Salga Al Rev\u00e9s - En Vivo",
       "url": "https://open.spotify.com/track/7Cw8DJs4OKvWk6DDQI19S6"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Se Nos Acab\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/6Z4vKKQ3ih2etNrEBi0sSI"
+      },
+      "artists": [
+        {
+          "name": "Banda Playa Grande",
+          "url": "https://open.spotify.com/artist/22Mt7QupEbM69UrYe7wRl0"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "Se Nos Acab\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/2bXo6a27ObT9EgjrE5g7Vc"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Finales Tristes",
-        "url": "https://open.spotify.com/album/4gtOViOc36ck2hOAtC8nc0"
-      },
-      "artists": [
-        {
-          "name": "Los Primos MX",
-          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
-        }
-      ],
-      "duration_ms": 188971,
-      "name": "Finales Tristes",
-      "url": "https://open.spotify.com/track/7M0lqNg2xxcq1FWCWwRqJQ"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Hermos\u00edsimo Lucero",
         "url": "https://open.spotify.com/album/6WdQA7zU2fXvzcGgxcnDjf"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 131645,
       "name": "Hermos\u00edsimo Lucero",
       "url": "https://open.spotify.com/track/2bl9PTz5CmEtmxAxbHiv1E"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Finales Tristes",
+        "url": "https://open.spotify.com/album/4gtOViOc36ck2hOAtC8nc0"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "duration_ms": 188971,
+      "name": "Finales Tristes",
+      "url": "https://open.spotify.com/track/7M0lqNg2xxcq1FWCWwRqJQ"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "Ya no Vivo por Vivir",
-        "url": "https://open.spotify.com/album/4RZikNFqQ77YwN4ATZ7mBq"
-      },
-      "artists": [
-        {
-          "name": "Brazeros Musical De Durango",
-          "url": "https://open.spotify.com/artist/2xroXLusGdM2xFGs0CbFyC"
-        }
-      ],
-      "duration_ms": 213075,
-      "name": "Ya no Vivo por Vivir",
-      "url": "https://open.spotify.com/track/4a8MhQVIJ7oby8q3p2oEHJ"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "B\u00e1ilame",
         "url": "https://open.spotify.com/album/3ytGy2IgkK0jrTWXESoDGn"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 196986,
       "name": "Qui\u00e9n te entiende",
       "url": "https://open.spotify.com/track/6ZYufYYNZ18mWo1ogJQaYx"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "Ya no Vivo por Vivir",
+        "url": "https://open.spotify.com/album/4RZikNFqQ77YwN4ATZ7mBq"
+      },
+      "artists": [
+        {
+          "name": "Brazeros Musical De Durango",
+          "url": "https://open.spotify.com/artist/2xroXLusGdM2xFGs0CbFyC"
+        }
+      ],
+      "duration_ms": 213075,
+      "name": "Ya no Vivo por Vivir",
+      "url": "https://open.spotify.com/track/4a8MhQVIJ7oby8q3p2oEHJ"
     },
     {
       "added_at": "2026-07-31 08:27:18",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-07-31 08:27:18",
       "album": {
-        "name": "T\u00fa Ya Las Conoces, Vol. 1",
-        "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 141688,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
-    },
-    {
-      "added_at": "2026-07-31 08:27:18",
-      "album": {
         "name": "Coleccionando Heridas",
         "url": "https://open.spotify.com/album/3cRD1iHJDCV1InslSYOz3P"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 201340,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/1Moi1EHc7X9cceNOk1TDZS"
+    },
+    {
+      "added_at": "2026-07-31 08:27:18",
+      "album": {
+        "name": "T\u00fa Ya Las Conoces, Vol. 1",
+        "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 141688,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
     },
     {
       "added_at": "2026-07-31 08:27:18",

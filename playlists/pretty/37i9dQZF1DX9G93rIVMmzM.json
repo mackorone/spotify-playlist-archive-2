@@ -1,6 +1,6 @@
 {
   "description": "heavy vibes for cuffing season.\n",
-  "num_followers": 407753,
+  "num_followers": 407855,
   "original_name": "ALLURE",
   "owner": {
     "name": "Spotify",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-02-13 21:18:20",
       "album": {
+        "name": "Your face",
+        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
+      },
+      "artists": [
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 227439,
+      "name": "Your face",
+      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
+    },
+    {
+      "added_at": "2026-02-13 21:18:20",
+      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/1azQBA4tlIPpqXcABHVYkl"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 257532,
       "name": "Without a Whisper",
       "url": "https://open.spotify.com/track/6Bs8snxnfC0ZmiEkei4ehn"
-    },
-    {
-      "added_at": "2026-02-13 21:18:20",
-      "album": {
-        "name": "Your face",
-        "url": "https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj"
-      },
-      "artists": [
-        {
-          "name": "Wisp",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        }
-      ],
-      "duration_ms": 227439,
-      "name": "Your face",
-      "url": "https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb"
     }
   ],
   "unique_name": "ALLURE",

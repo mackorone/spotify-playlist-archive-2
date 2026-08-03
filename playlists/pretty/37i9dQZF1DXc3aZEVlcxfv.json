@@ -1,6 +1,6 @@
 {
   "description": "If you're blessed!",
-  "num_followers": 21757,
+  "num_followers": 21760,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -625,26 +625,6 @@
       "url": "https://open.spotify.com/track/65jA8kJUA3BHyH1h1QGkwk"
     },
     {
-      "added_at": "2026-01-30 00:01:25",
-      "album": {
-        "name": "God, In all Seasons",
-        "url": "https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc"
-      },
-      "artists": [
-        {
-          "name": "Yadah",
-          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 237913,
-      "name": "Boku",
-      "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
-    },
-    {
       "added_at": "2025-12-12 00:01:22",
       "album": {
         "name": "Good God",
@@ -663,6 +643,26 @@
       "duration_ms": 889180,
       "name": "Good God",
       "url": "https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq"
+    },
+    {
+      "added_at": "2026-01-30 00:01:25",
+      "album": {
+        "name": "God, In all Seasons",
+        "url": "https://open.spotify.com/album/755o89dLMkJLE3OR4T8GOc"
+      },
+      "artists": [
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 237913,
+      "name": "Boku",
+      "url": "https://open.spotify.com/track/3EX183tnITp6RMePnXFAfl"
     },
     {
       "added_at": "2026-05-22 00:01:37",
@@ -957,6 +957,22 @@
       "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
     },
     {
+      "added_at": "2026-07-24 00:01:56",
+      "album": {
+        "name": "What A Life",
+        "url": "https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 174750,
+      "name": "What A Life",
+      "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
+    },
+    {
       "added_at": "2026-05-15 00:01:23",
       "album": {
         "name": "Oh My Soul",
@@ -979,22 +995,6 @@
       "duration_ms": 172714,
       "name": "Oh My Soul",
       "url": "https://open.spotify.com/track/5v8dMFDfK1i9ssKKfWJNCD"
-    },
-    {
-      "added_at": "2026-07-24 00:01:56",
-      "album": {
-        "name": "What A Life",
-        "url": "https://open.spotify.com/album/7JUSGZ2sWVqW5PvFpmt28Q"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 174750,
-      "name": "What A Life",
-      "url": "https://open.spotify.com/track/4Qd1bY9uaOSL4e1IdLwYow"
     },
     {
       "added_at": "2025-02-28 00:01:33",
@@ -1085,26 +1085,6 @@
       "url": "https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN"
     },
     {
-      "added_at": "2026-05-01 00:02:08",
-      "album": {
-        "name": "My Daddy Loves Me",
-        "url": "https://open.spotify.com/album/3TIJApif55y5aPz885WiaL"
-      },
-      "artists": [
-        {
-          "name": "Olamiji Rasheed",
-          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
-        },
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 336585,
-      "name": "My Daddy Loves Me",
-      "url": "https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf"
-    },
-    {
       "added_at": "2026-02-20 00:01:25",
       "album": {
         "name": "You Are There",
@@ -1123,6 +1103,26 @@
       "duration_ms": 381970,
       "name": "You Are There",
       "url": "https://open.spotify.com/track/3EAHBjhFMwuIdAS5FodQTF"
+    },
+    {
+      "added_at": "2026-05-01 00:02:08",
+      "album": {
+        "name": "My Daddy Loves Me",
+        "url": "https://open.spotify.com/album/3TIJApif55y5aPz885WiaL"
+      },
+      "artists": [
+        {
+          "name": "Olamiji Rasheed",
+          "url": "https://open.spotify.com/artist/797ilaBFnTzTvavwB225LX"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 336585,
+      "name": "My Daddy Loves Me",
+      "url": "https://open.spotify.com/track/0h5LOYHokBrfBKHDd1S0Bf"
     },
     {
       "added_at": "2026-07-17 00:01:08",
@@ -1289,22 +1289,6 @@
       "url": "https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd"
     },
     {
-      "added_at": "2026-07-10 00:01:15",
-      "album": {
-        "name": "I'M BLESSED",
-        "url": "https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u"
-      },
-      "artists": [
-        {
-          "name": "Kevin Adams & Voices of Praise",
-          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
-        }
-      ],
-      "duration_ms": 176841,
-      "name": "I'M BLESSED",
-      "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
-    },
-    {
       "added_at": "2026-06-26 00:01:41",
       "album": {
         "name": "DO",
@@ -1323,6 +1307,22 @@
       "duration_ms": 145531,
       "name": "DO",
       "url": "https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL"
+    },
+    {
+      "added_at": "2026-07-10 00:01:15",
+      "album": {
+        "name": "I'M BLESSED",
+        "url": "https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u"
+      },
+      "artists": [
+        {
+          "name": "Kevin Adams & Voices of Praise",
+          "url": "https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV"
+        }
+      ],
+      "duration_ms": 176841,
+      "name": "I'M BLESSED",
+      "url": "https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f"
     },
     {
       "added_at": "2026-07-10 00:01:15",
@@ -1381,54 +1381,6 @@
       "url": "https://open.spotify.com/track/2X1KhBy93qsWLWmuYjDyTF"
     },
     {
-      "added_at": "2026-05-15 00:01:23",
-      "album": {
-        "name": "OFFDAYS",
-        "url": "https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK"
-      },
-      "artists": [
-        {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        }
-      ],
-      "duration_ms": 175968,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6"
-    },
-    {
-      "added_at": "2026-05-01 00:02:08",
-      "album": {
-        "name": "Hallelujah (My song forever)",
-        "url": "https://open.spotify.com/album/6UgiLt6pBAO7zYE6ZobtAQ"
-      },
-      "artists": [
-        {
-          "name": "Hallel Community Choir",
-          "url": "https://open.spotify.com/artist/6txrzyX5bSbN3ccS7PDvWH"
-        },
-        {
-          "name": "Manus Akpanke",
-          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
-        },
-        {
-          "name": "CJ Nonso",
-          "url": "https://open.spotify.com/artist/5xZ3TZKzgqhGpJ65skKK8F"
-        },
-        {
-          "name": "Oluwapelumi",
-          "url": "https://open.spotify.com/artist/7zoB4wcPhhtJx1UVzNvKAE"
-        },
-        {
-          "name": "Joshua Ekpenyong",
-          "url": "https://open.spotify.com/artist/7a8htg4PeSTDKXdY3wZwy5"
-        }
-      ],
-      "duration_ms": 500661,
-      "name": "Hallelujah (My song forever)",
-      "url": "https://open.spotify.com/track/2AUFfb517wmHQoDxxGg3TU"
-    },
-    {
       "added_at": "2026-07-10 00:01:15",
       "album": {
         "name": "L.I.E (Life Is Easy)",
@@ -1473,20 +1425,20 @@
       "url": "https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y"
     },
     {
-      "added_at": "2026-04-24 00:01:08",
+      "added_at": "2026-05-15 00:01:23",
       "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+        "name": "OFFDAYS",
+        "url": "https://open.spotify.com/album/1fYKYR8dGIsNDlXCYuQeiK"
       },
       "artists": [
         {
-          "name": "Folabi Nuel",
-          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
         }
       ],
-      "duration_ms": 147452,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+      "duration_ms": 175968,
+      "name": "Satisfy",
+      "url": "https://open.spotify.com/track/4oGELH93nS6vhNpi6YAZT6"
     },
     {
       "added_at": "2026-07-24 00:01:56",
@@ -1507,6 +1459,54 @@
       "duration_ms": 149126,
       "name": "YESU",
       "url": "https://open.spotify.com/track/54wWAAGkIHZG03JkcSd2cS"
+    },
+    {
+      "added_at": "2026-04-24 00:01:08",
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/6puwQ7UxKF00TT75wByboX"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        }
+      ],
+      "duration_ms": 147452,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/0SO8tJC5e504QtFiZ84sqC"
+    },
+    {
+      "added_at": "2026-05-01 00:02:08",
+      "album": {
+        "name": "Hallelujah (My song forever)",
+        "url": "https://open.spotify.com/album/6UgiLt6pBAO7zYE6ZobtAQ"
+      },
+      "artists": [
+        {
+          "name": "Hallel Community Choir",
+          "url": "https://open.spotify.com/artist/6txrzyX5bSbN3ccS7PDvWH"
+        },
+        {
+          "name": "Manus Akpanke",
+          "url": "https://open.spotify.com/artist/3z8JjgzStBjRJWeX0MzYCL"
+        },
+        {
+          "name": "CJ Nonso",
+          "url": "https://open.spotify.com/artist/5xZ3TZKzgqhGpJ65skKK8F"
+        },
+        {
+          "name": "Oluwapelumi",
+          "url": "https://open.spotify.com/artist/7zoB4wcPhhtJx1UVzNvKAE"
+        },
+        {
+          "name": "Joshua Ekpenyong",
+          "url": "https://open.spotify.com/artist/7a8htg4PeSTDKXdY3wZwy5"
+        }
+      ],
+      "duration_ms": 500661,
+      "name": "Hallelujah (My song forever)",
+      "url": "https://open.spotify.com/track/2AUFfb517wmHQoDxxGg3TU"
     },
     {
       "added_at": "2026-06-26 00:01:41",

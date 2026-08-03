@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK\n",
-  "num_followers": 123315,
+  "num_followers": 123345,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,30 @@
     {
       "added_at": "2026-07-30 17:00:28",
       "album": {
+        "name": "Ch\u1ea5m H\u1ebft",
+        "url": "https://open.spotify.com/album/6wqFfap6TzhtFy9krk8OQj"
+      },
+      "artists": [
+        {
+          "name": "Dangrangto",
+          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
+        },
+        {
+          "name": "ZEXZEX",
+          "url": "https://open.spotify.com/artist/4hNP1VYe1hO5ppmWDlGhsx"
+        },
+        {
+          "name": "DONAL",
+          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
+        }
+      ],
+      "duration_ms": 186823,
+      "name": "Ch\u1ea5m H\u1ebft",
+      "url": "https://open.spotify.com/track/75weJdjMaaF016Df8BNl0f"
+    },
+    {
+      "added_at": "2026-07-30 17:00:28",
+      "album": {
         "name": "2GOILAYS",
         "url": "https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS"
       },
@@ -683,30 +707,6 @@
       "duration_ms": 260252,
       "name": "2GOILAYS",
       "url": "https://open.spotify.com/track/4TQ0Jgrhe4V9MMqjKViub5"
-    },
-    {
-      "added_at": "2026-07-30 17:00:28",
-      "album": {
-        "name": "Ch\u1ea5m H\u1ebft",
-        "url": "https://open.spotify.com/album/6wqFfap6TzhtFy9krk8OQj"
-      },
-      "artists": [
-        {
-          "name": "Dangrangto",
-          "url": "https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI"
-        },
-        {
-          "name": "ZEXZEX",
-          "url": "https://open.spotify.com/artist/4hNP1VYe1hO5ppmWDlGhsx"
-        },
-        {
-          "name": "DONAL",
-          "url": "https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ"
-        }
-      ],
-      "duration_ms": 186823,
-      "name": "Ch\u1ea5m H\u1ebft",
-      "url": "https://open.spotify.com/track/75weJdjMaaF016Df8BNl0f"
     },
     {
       "added_at": "2026-07-30 17:00:28",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-07-30 17:00:28",
       "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
+      },
+      "artists": [
+        {
+          "name": "Khoi Vu",
+          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
+        }
+      ],
+      "duration_ms": 138973,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
+    },
+    {
+      "added_at": "2026-07-30 17:00:28",
+      "album": {
         "name": "HOP ON DA SHOW",
         "url": "https://open.spotify.com/album/3YLqrwhIaMVzzvpuPG1dmb"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 175876,
       "name": "HOP ON DA SHOW",
       "url": "https://open.spotify.com/track/0SLzsfxED15vyUccX4bCqo"
-    },
-    {
-      "added_at": "2026-07-30 17:00:28",
-      "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/5mIp41bAjfCpYSCompU7cE"
-      },
-      "artists": [
-        {
-          "name": "Khoi Vu",
-          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
-        }
-      ],
-      "duration_ms": 138973,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/32K6zBYFUUxKrdsoZd7k3v"
     },
     {
       "added_at": "2026-07-30 17:00:28",

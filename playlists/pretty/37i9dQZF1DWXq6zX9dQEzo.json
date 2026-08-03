@@ -1,6 +1,6 @@
 {
   "description": "Let the weights go up and the blessings come down!  Get your beast mode on!",
-  "num_followers": 338869,
+  "num_followers": 338942,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,54 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
+        "name": "I'm Back",
+        "url": "https://open.spotify.com/album/1pcXepIcFLO2ElPN3SotTG"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 178009,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/1Ppkg67h1UAy6M5wQjYyP4"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "$tars Don't Save",
+        "url": "https://open.spotify.com/album/1b044H9qAbCYS9egkxRkTz"
+      },
+      "artists": [
+        {
+          "name": "Skema Boy",
+          "url": "https://open.spotify.com/artist/1KTljUXZGt7HkAFFEnDBn1"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "False Prophets",
+      "url": "https://open.spotify.com/track/3TjCJIP8kUCGp5c9z9yZFn"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "Dance Like David",
+        "url": "https://open.spotify.com/album/0SE7b5oxuWuVu99tQYMi0Z"
+      },
+      "artists": [
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        }
+      ],
+      "duration_ms": 130403,
+      "name": "Dance Like David",
+      "url": "https://open.spotify.com/track/7C57mf9RevN9zFLwh9GhLa"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
         "name": "LEFT HAND",
         "url": "https://open.spotify.com/album/69hDMlOq1ihXMKWKx3nnwL"
       },
@@ -443,54 +491,6 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "I'm Back",
-        "url": "https://open.spotify.com/album/1pcXepIcFLO2ElPN3SotTG"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 178009,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/1Ppkg67h1UAy6M5wQjYyP4"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
-        "name": "Dance Like David",
-        "url": "https://open.spotify.com/album/0SE7b5oxuWuVu99tQYMi0Z"
-      },
-      "artists": [
-        {
-          "name": "Y Shadey",
-          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
-        }
-      ],
-      "duration_ms": 130403,
-      "name": "Dance Like David",
-      "url": "https://open.spotify.com/track/7C57mf9RevN9zFLwh9GhLa"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
-        "name": "$tars Don't Save",
-        "url": "https://open.spotify.com/album/1b044H9qAbCYS9egkxRkTz"
-      },
-      "artists": [
-        {
-          "name": "Skema Boy",
-          "url": "https://open.spotify.com/artist/1KTljUXZGt7HkAFFEnDBn1"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "False Prophets",
-      "url": "https://open.spotify.com/track/3TjCJIP8kUCGp5c9z9yZFn"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/6oK5JjSPrkBYfCN5J8TLh9"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 188160,
       "name": "Switch",
       "url": "https://open.spotify.com/track/5KCw2qJmUgquvJ9ggomSLX"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/7fNCHDP71qYBsadDKhm5ZH"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 153357,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/0jUSsdSkOWUTuMdl6ljciS"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -535,22 +551,6 @@
       "duration_ms": 212374,
       "name": "LOCATION!",
       "url": "https://open.spotify.com/track/4FlzPhYUfmdrYVQY5cPIuX"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/7fNCHDP71qYBsadDKhm5ZH"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 153357,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/0jUSsdSkOWUTuMdl6ljciS"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "Havin'",
-        "url": "https://open.spotify.com/album/0VaOrpBKz0ObZaI74wuV2n"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        }
-      ],
-      "duration_ms": 169531,
-      "name": "Havin'",
-      "url": "https://open.spotify.com/track/1PwIBzaWVTzourrHRw6FTm"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
         "name": "On The Move",
         "url": "https://open.spotify.com/album/3Z560AcJBJdBmI7WZ75kz1"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "All Alive",
-        "url": "https://open.spotify.com/album/4Hw2VMY42It2xuZxaHR2nW"
+        "name": "Havin'",
+        "url": "https://open.spotify.com/album/0VaOrpBKz0ObZaI74wuV2n"
       },
       "artists": [
         {
-          "name": "Kai Uriah",
-          "url": "https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM"
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
         }
       ],
-      "duration_ms": 154600,
-      "name": "All Alive",
-      "url": "https://open.spotify.com/track/2sl7u3ienTSoXRAivsMl4H"
+      "duration_ms": 169531,
+      "name": "Havin'",
+      "url": "https://open.spotify.com/track/1PwIBzaWVTzourrHRw6FTm"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
+        "name": "All Alive",
+        "url": "https://open.spotify.com/album/4Hw2VMY42It2xuZxaHR2nW"
+      },
+      "artists": [
+        {
+          "name": "Kai Uriah",
+          "url": "https://open.spotify.com/artist/6IdKInshEI8ywJ99v6gVKM"
+        }
+      ],
+      "duration_ms": 154600,
+      "name": "All Alive",
+      "url": "https://open.spotify.com/track/2sl7u3ienTSoXRAivsMl4H"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
         "name": "On FIRE for the Lord",
         "url": "https://open.spotify.com/album/46xGlb8zGgcn8W96ZOSnTd"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 156013,
       "name": "On FIRE for the Lord",
       "url": "https://open.spotify.com/track/02uznkbyyPuDcK1yMjcgZV"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
-        "name": "Never Scared",
-        "url": "https://open.spotify.com/album/4hTuJr93JUjuX0hGvRBnLk"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 131925,
-      "name": "Never Scared",
-      "url": "https://open.spotify.com/track/0VeXWs5RjJf6WvOU9BEK0m"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -1119,6 +1103,22 @@
       "duration_ms": 144496,
       "name": "PASS THE BLESSINGS",
       "url": "https://open.spotify.com/track/4po7k2hurPAWWDqtNUSdii"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "Never Scared",
+        "url": "https://open.spotify.com/album/4hTuJr93JUjuX0hGvRBnLk"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 131925,
+      "name": "Never Scared",
+      "url": "https://open.spotify.com/track/0VeXWs5RjJf6WvOU9BEK0m"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "MAN ABOVE",
-        "url": "https://open.spotify.com/album/2cJP4CkasNZFijvuoTLIAo"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 188986,
-      "name": "MAN ABOVE",
-      "url": "https://open.spotify.com/track/6j3WTzuSCJIIsgw8giRSmv"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
         "name": "WHO BIGGER",
         "url": "https://open.spotify.com/album/2MtJgdYiYtezJYn2IE60NJ"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 144300,
       "name": "WHO BIGGER",
       "url": "https://open.spotify.com/track/7vOanjJViklqgEMFmCWoWU"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "MAN ABOVE",
+        "url": "https://open.spotify.com/album/2cJP4CkasNZFijvuoTLIAo"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "MAN ABOVE",
+      "url": "https://open.spotify.com/track/6j3WTzuSCJIIsgw8giRSmv"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "2 Different",
-        "url": "https://open.spotify.com/album/69VQCDmPBxe0LiZOG2hGuE"
-      },
-      "artists": [
-        {
-          "name": "Kijan Boone",
-          "url": "https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V"
-        }
-      ],
-      "duration_ms": 137373,
-      "name": "2 Different",
-      "url": "https://open.spotify.com/track/400E4VtxGIS50h6x6phoL1"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
         "name": "IT MUST BE GOD",
         "url": "https://open.spotify.com/album/0pvczMkTlBcCCppVeF5EVw"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 137142,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/22qdtq7W3LxW6Lhvp7neCd"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "2 Different",
+        "url": "https://open.spotify.com/album/69VQCDmPBxe0LiZOG2hGuE"
+      },
+      "artists": [
+        {
+          "name": "Kijan Boone",
+          "url": "https://open.spotify.com/artist/3dAXZ2iCLGeHz5IMhAi12V"
+        }
+      ],
+      "duration_ms": 137373,
+      "name": "2 Different",
+      "url": "https://open.spotify.com/track/400E4VtxGIS50h6x6phoL1"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "DANGER TO HELL",
-        "url": "https://open.spotify.com/album/6xP2WSZyInj3r2yw3VLNyz"
-      },
-      "artists": [
-        {
-          "name": "Brenno",
-          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "DANGER TO HELL",
-      "url": "https://open.spotify.com/track/48yJLZb2FAhOg6CtxVcvL1"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
         "name": "What's Understood 3",
         "url": "https://open.spotify.com/album/5NVhdfx9e7rHeyeg0QN8O0"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 141278,
       "name": "Ain't He",
       "url": "https://open.spotify.com/track/3k45OK9UShP7BricKQhXa6"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "DANGER TO HELL",
+        "url": "https://open.spotify.com/album/6xP2WSZyInj3r2yw3VLNyz"
+      },
+      "artists": [
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "DANGER TO HELL",
+      "url": "https://open.spotify.com/track/48yJLZb2FAhOg6CtxVcvL1"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "CHRIST OR CASH",
-        "url": "https://open.spotify.com/album/4pLjaVPSJw6gIKAYWlWnWD"
-      },
-      "artists": [
-        {
-          "name": "Parris Chariz",
-          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
-        }
-      ],
-      "duration_ms": 140665,
-      "name": "CHRIST OR CASH",
-      "url": "https://open.spotify.com/track/6h4coXubVJYIYFTBTwCuIE"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
         "name": "STILL GOIN",
         "url": "https://open.spotify.com/album/5ah6bfI4yfMugLJOcUNEsS"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 114585,
       "name": "STILL GOIN",
       "url": "https://open.spotify.com/track/3h1aNKATk3OfEWQdvB9X4i"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "CHRIST OR CASH",
+        "url": "https://open.spotify.com/album/4pLjaVPSJw6gIKAYWlWnWD"
+      },
+      "artists": [
+        {
+          "name": "Parris Chariz",
+          "url": "https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM"
+        }
+      ],
+      "duration_ms": 140665,
+      "name": "CHRIST OR CASH",
+      "url": "https://open.spotify.com/track/6h4coXubVJYIYFTBTwCuIE"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "FLEX",
-        "url": "https://open.spotify.com/album/1nWD5Zuc08MZzClKXN1CTX"
-      },
-      "artists": [
-        {
-          "name": "Shepherd",
-          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
-        },
-        {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
-        }
-      ],
-      "duration_ms": 135858,
-      "name": "FLEX",
-      "url": "https://open.spotify.com/track/2bTY46Jc9FbovLFECJw0WM"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
         "name": "De Lo Mio",
         "url": "https://open.spotify.com/album/4IhZwaFfS1aVAktK45vM9U"
       },
@@ -1775,6 +1755,26 @@
       "duration_ms": 175133,
       "name": "De Lo Mio",
       "url": "https://open.spotify.com/track/6FmP8ytOuZrqC7FBKJi24A"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "FLEX",
+        "url": "https://open.spotify.com/album/1nWD5Zuc08MZzClKXN1CTX"
+      },
+      "artists": [
+        {
+          "name": "Shepherd",
+          "url": "https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU"
+        },
+        {
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+        }
+      ],
+      "duration_ms": 135858,
+      "name": "FLEX",
+      "url": "https://open.spotify.com/track/2bTY46Jc9FbovLFECJw0WM"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "BETTER OFF DEAD",
-        "url": "https://open.spotify.com/album/4Gf9ThUN6OQ7qHcaFltDzL"
+        "name": "RUN IT!",
+        "url": "https://open.spotify.com/album/1Ym3lnaWWzzErwS4COZAOB"
       },
       "artists": [
         {
-          "name": "Gavin the HotRod",
-          "url": "https://open.spotify.com/artist/4PRtvcfM2vKDdLFAyGUMP7"
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
         }
       ],
-      "duration_ms": 162173,
-      "name": "BETTER OFF DEAD",
-      "url": "https://open.spotify.com/track/3GgMooO88BQca11ciZy1tU"
+      "duration_ms": 127721,
+      "name": "RUN IT!",
+      "url": "https://open.spotify.com/track/3QQ3OhsdcR5JhZdYOh9zPw"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -1955,18 +1955,18 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "RUN IT!",
-        "url": "https://open.spotify.com/album/1Ym3lnaWWzzErwS4COZAOB"
+        "name": "BETTER OFF DEAD",
+        "url": "https://open.spotify.com/album/4Gf9ThUN6OQ7qHcaFltDzL"
       },
       "artists": [
         {
-          "name": "Don Ready",
-          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+          "name": "Gavin the HotRod",
+          "url": "https://open.spotify.com/artist/4PRtvcfM2vKDdLFAyGUMP7"
         }
       ],
-      "duration_ms": 127721,
-      "name": "RUN IT!",
-      "url": "https://open.spotify.com/track/3QQ3OhsdcR5JhZdYOh9zPw"
+      "duration_ms": 162173,
+      "name": "BETTER OFF DEAD",
+      "url": "https://open.spotify.com/track/3GgMooO88BQca11ciZy1tU"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -2039,22 +2039,26 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/7ICkXBfWHS2mq5w1lzCOAi"
+        "name": "Theme Music",
+        "url": "https://open.spotify.com/album/6jwwI7bV4yExKYibSkU7Cr"
       },
       "artists": [
         {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
         },
         {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        },
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
         }
       ],
-      "duration_ms": 135840,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/1NVz0LF4aZArLFNqeZuo7E"
+      "duration_ms": 187272,
+      "name": "Theme Music",
+      "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -2091,26 +2095,22 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "Theme Music",
-        "url": "https://open.spotify.com/album/6jwwI7bV4yExKYibSkU7Cr"
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/7ICkXBfWHS2mq5w1lzCOAi"
       },
       "artists": [
         {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
         },
         {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        },
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
         }
       ],
-      "duration_ms": 187272,
-      "name": "Theme Music",
-      "url": "https://open.spotify.com/track/51ItXztk5BlHYMP7As4nmp"
+      "duration_ms": 135840,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/1NVz0LF4aZArLFNqeZuo7E"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -2127,22 +2127,6 @@
       "duration_ms": 120754,
       "name": "CLAP YA HANDS",
       "url": "https://open.spotify.com/track/1FOYEgZDWFaQ3wTYu7kyy2"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
-        "name": "NS2",
-        "url": "https://open.spotify.com/album/3aYVYgY7CO0kDmK0ecZ423"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 133068,
-      "name": "RED FERRARIs",
-      "url": "https://open.spotify.com/track/5geayB4WKwHJ6Erzj8kHpP"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -2179,22 +2163,38 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "Gasoline",
-        "url": "https://open.spotify.com/album/77K4ooWFuanFo5DG5sdSBn"
+        "name": "ALL THE WAY",
+        "url": "https://open.spotify.com/album/3djWWMlandNdJBuaXmbzaO"
       },
       "artists": [
         {
-          "name": "George.Rose",
-          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
+          "name": "Tommy Zuko",
+          "url": "https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT"
         },
         {
-          "name": "RUA YOUNG",
-          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
+          "name": "DJ Mal-Ski",
+          "url": "https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS"
         }
       ],
-      "duration_ms": 130800,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/5SJh1lE1q3wGH8r0GwMKOQ"
+      "duration_ms": 160000,
+      "name": "ALL THE WAY",
+      "url": "https://open.spotify.com/track/1ytyset1pHGYGH1xA0zfw5"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "NS2",
+        "url": "https://open.spotify.com/album/3aYVYgY7CO0kDmK0ecZ423"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 133068,
+      "name": "RED FERRARIs",
+      "url": "https://open.spotify.com/track/5geayB4WKwHJ6Erzj8kHpP"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -2223,42 +2223,22 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "ALL THE WAY",
-        "url": "https://open.spotify.com/album/3djWWMlandNdJBuaXmbzaO"
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/77K4ooWFuanFo5DG5sdSBn"
       },
       "artists": [
         {
-          "name": "Tommy Zuko",
-          "url": "https://open.spotify.com/artist/6GEZnFo9mFSItpAWzswBpT"
+          "name": "George.Rose",
+          "url": "https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr"
         },
         {
-          "name": "DJ Mal-Ski",
-          "url": "https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS"
+          "name": "RUA YOUNG",
+          "url": "https://open.spotify.com/artist/6i1jJEMjPbIki7mpvE0QQ1"
         }
       ],
-      "duration_ms": 160000,
-      "name": "ALL THE WAY",
-      "url": "https://open.spotify.com/track/1ytyset1pHGYGH1xA0zfw5"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
-        "name": "Who Tryna Party?",
-        "url": "https://open.spotify.com/album/4n0w5fCRv9jCyFJYwjK8T5"
-      },
-      "artists": [
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        },
-        {
-          "name": "De La Cruz",
-          "url": "https://open.spotify.com/artist/6U4TcvAHuizFqLcWXiMkRD"
-        }
-      ],
-      "duration_ms": 104718,
-      "name": "Who Tryna Party?",
-      "url": "https://open.spotify.com/track/4Q7lMBQaCsY4goOT6lsM7u"
+      "duration_ms": 130800,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/5SJh1lE1q3wGH8r0GwMKOQ"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -2279,6 +2259,26 @@
       "duration_ms": 146905,
       "name": "Thank GOD You Ain't GOD",
       "url": "https://open.spotify.com/track/4CPKBK4WQBw33GE9VygtNI"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "Who Tryna Party?",
+        "url": "https://open.spotify.com/album/4n0w5fCRv9jCyFJYwjK8T5"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "De La Cruz",
+          "url": "https://open.spotify.com/artist/6U4TcvAHuizFqLcWXiMkRD"
+        }
+      ],
+      "duration_ms": 104718,
+      "name": "Who Tryna Party?",
+      "url": "https://open.spotify.com/track/4Q7lMBQaCsY4goOT6lsM7u"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "Prodigal!",
-        "url": "https://open.spotify.com/album/4adW6JJDRPlF8q2Nze0gmG"
-      },
-      "artists": [
-        {
-          "name": "Aklesso",
-          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
-        }
-      ],
-      "duration_ms": 149170,
-      "name": "Prodigal!",
-      "url": "https://open.spotify.com/track/3InuSnOxwOHX5XQxcpEbcR"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
         "name": "For What Its Worth",
         "url": "https://open.spotify.com/album/6mr0BGnwHXNPV2mcqSmW79"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 151176,
       "name": "Pick Me",
       "url": "https://open.spotify.com/track/1ePbMmR7JB9kR6rM2FZx6B"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "Prodigal!",
+        "url": "https://open.spotify.com/album/4adW6JJDRPlF8q2Nze0gmG"
+      },
+      "artists": [
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        }
+      ],
+      "duration_ms": 149170,
+      "name": "Prodigal!",
+      "url": "https://open.spotify.com/track/3InuSnOxwOHX5XQxcpEbcR"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -2551,8 +2551,8 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "Flip That!",
-        "url": "https://open.spotify.com/album/4dwhkQAeYRU1HTWu2QB2gZ"
+        "name": "All I Know",
+        "url": "https://open.spotify.com/album/14eykHDaFeBFXoDL2jGGOF"
       },
       "artists": [
         {
@@ -2562,11 +2562,19 @@
         {
           "name": "TuKool Tiff",
           "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
+        },
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        },
+        {
+          "name": "Jackie Hill Perry",
+          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
         }
       ],
-      "duration_ms": 141473,
-      "name": "Flip That!",
-      "url": "https://open.spotify.com/track/4GKAdykjf6HcnfF6zo6lQo"
+      "duration_ms": 254208,
+      "name": "All I Know",
+      "url": "https://open.spotify.com/track/4Co9e2c6Bv1nLkKZQKIIqX"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -2623,6 +2631,42 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
+        "name": "From a Boy To a Man, Vol. 5",
+        "url": "https://open.spotify.com/album/1kCbGeGQT89KXNxaVecfuz"
+      },
+      "artists": [
+        {
+          "name": "Issac Mansfield",
+          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
+        }
+      ],
+      "duration_ms": 167646,
+      "name": "HANDS ON",
+      "url": "https://open.spotify.com/track/2qX0JaY02CFB1av2QAzCoC"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "Flip That!",
+        "url": "https://open.spotify.com/album/4dwhkQAeYRU1HTWu2QB2gZ"
+      },
+      "artists": [
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "TuKool Tiff",
+          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "Flip That!",
+      "url": "https://open.spotify.com/track/4GKAdykjf6HcnfF6zo6lQo"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
         "name": "LAST LEG",
         "url": "https://open.spotify.com/album/5E5Xm5cJ91TwE9YVW4HkzP"
       },
@@ -2639,34 +2683,6 @@
       "duration_ms": 187673,
       "name": "LAST LEG",
       "url": "https://open.spotify.com/track/7zV4w7Vwdkl7LnEcOyfrjg"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
-        "name": "All I Know",
-        "url": "https://open.spotify.com/album/14eykHDaFeBFXoDL2jGGOF"
-      },
-      "artists": [
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        },
-        {
-          "name": "TuKool Tiff",
-          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
-        },
-        {
-          "name": "LANELL GRANT",
-          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
-        },
-        {
-          "name": "Jackie Hill Perry",
-          "url": "https://open.spotify.com/artist/0Lf9qKpKwy6fJtfM7UWLV0"
-        }
-      ],
-      "duration_ms": 254208,
-      "name": "All I Know",
-      "url": "https://open.spotify.com/track/4Co9e2c6Bv1nLkKZQKIIqX"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -2691,22 +2707,6 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "From a Boy To a Man, Vol. 5",
-        "url": "https://open.spotify.com/album/1kCbGeGQT89KXNxaVecfuz"
-      },
-      "artists": [
-        {
-          "name": "Issac Mansfield",
-          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
-        }
-      ],
-      "duration_ms": 167646,
-      "name": "HANDS ON",
-      "url": "https://open.spotify.com/track/2qX0JaY02CFB1av2QAzCoC"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
         "name": "As of Late",
         "url": "https://open.spotify.com/album/3ePJVqMrBvZDIG7ZBuHuUB"
       },
@@ -2719,6 +2719,38 @@
       "duration_ms": 179263,
       "name": "Live 03'",
       "url": "https://open.spotify.com/track/34sg7k1Kcm4TWbndEL3FpY"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "Get In",
+        "url": "https://open.spotify.com/album/7g2EfxzeKNK9HbXeAo5EfP"
+      },
+      "artists": [
+        {
+          "name": "Taylor Wells",
+          "url": "https://open.spotify.com/artist/5N8yHPMJtGvA5dxeIEqu6O"
+        }
+      ],
+      "duration_ms": 164075,
+      "name": "Get In",
+      "url": "https://open.spotify.com/track/29OX4F7pkQLkfXinkvXW03"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/2yDadPnd1N9aWpkLPfPpxl"
+      },
+      "artists": [
+        {
+          "name": "Issac Mansfield",
+          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
+        }
+      ],
+      "duration_ms": 138161,
+      "name": "Day and Night",
+      "url": "https://open.spotify.com/track/1MOvYFtuoIn7AnEs4rQoCC"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -2747,22 +2779,6 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "Get In",
-        "url": "https://open.spotify.com/album/7g2EfxzeKNK9HbXeAo5EfP"
-      },
-      "artists": [
-        {
-          "name": "Taylor Wells",
-          "url": "https://open.spotify.com/artist/5N8yHPMJtGvA5dxeIEqu6O"
-        }
-      ],
-      "duration_ms": 164075,
-      "name": "Get In",
-      "url": "https://open.spotify.com/track/29OX4F7pkQLkfXinkvXW03"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
         "name": "CROSSES UP (Remix)",
         "url": "https://open.spotify.com/album/2T3xmPWQ3XAQbYtScBHoWm"
       },
@@ -2779,22 +2795,6 @@
       "duration_ms": 144827,
       "name": "CROSSES UP - Remix",
       "url": "https://open.spotify.com/track/4gIaaHyRRpvXXyjeTZ9N67"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
-        "name": "Day and Night",
-        "url": "https://open.spotify.com/album/2yDadPnd1N9aWpkLPfPpxl"
-      },
-      "artists": [
-        {
-          "name": "Issac Mansfield",
-          "url": "https://open.spotify.com/artist/1QgXbOPk6XpELZrJOzz33w"
-        }
-      ],
-      "duration_ms": 138161,
-      "name": "Day and Night",
-      "url": "https://open.spotify.com/track/1MOvYFtuoIn7AnEs4rQoCC"
     },
     {
       "added_at": "2026-07-03 04:02:04",
@@ -2819,22 +2819,6 @@
     {
       "added_at": "2026-07-03 04:02:04",
       "album": {
-        "name": "STILL 30 FOR 30",
-        "url": "https://open.spotify.com/album/1MGBcYBqeB26bvY5GPnmma"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 134250,
-      "name": "STILL 30 FOR 30",
-      "url": "https://open.spotify.com/track/2BdoZ2JJPGKmBaECewlQ6q"
-    },
-    {
-      "added_at": "2026-07-03 04:02:04",
-      "album": {
         "name": "DOM",
         "url": "https://open.spotify.com/album/4VVWzBdCD20sdkoaA8V21J"
       },
@@ -2847,6 +2831,26 @@
       "duration_ms": 127522,
       "name": "DOM",
       "url": "https://open.spotify.com/track/3whka1SkX931zDruLXOTh1"
+    },
+    {
+      "added_at": "2026-07-03 04:02:04",
+      "album": {
+        "name": "GLOOM",
+        "url": "https://open.spotify.com/album/6ndj4oycOLQBMjozvlPbpi"
+      },
+      "artists": [
+        {
+          "name": "Quasarpro",
+          "url": "https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww"
+        },
+        {
+          "name": "DKG KIE",
+          "url": "https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA"
+        }
+      ],
+      "duration_ms": 118260,
+      "name": "GLOOM",
+      "url": "https://open.spotify.com/track/6jKDPBLRv0O9tJtJQHQlAN"
     }
   ],
   "unique_name": "Beast Mode Christian",

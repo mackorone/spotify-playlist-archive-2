@@ -4,7 +4,7 @@
 
 > R&B, Hip\-Hop, Pop, Afrobeats and everything in between!  Cover: Destin Conrad
 
-1,292 songs - 2 day 18 hr 56 min
+1,293 songs - 2 day 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Caught Up](https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Caught Up](https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML) | 3:50 | 2024-05-24 | 2024-11-16 |
 | [Champagne Dial](https://open.spotify.com/track/41uS4HFocWN6cO2VpKy8Ht) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Champagne Dial](https://open.spotify.com/album/6M7mC7u3Z1WqHKify2UDIb) | 3:26 | 2023-04-07 | 2023-05-06 |
 | [Champagne Shit \(feat\. Latto & Quavo\) \- Remix](https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Champagne Shit \(feat\. Latto & Quavo\) \[Remix\]](https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM) | 2:57 | 2023-10-06 | 2023-10-21 |
-| [Changes](https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Changes](https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu) | 3:18 | 2026-05-08 |  |
+| [Changes](https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Changes](https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu) | 3:18 | 2026-05-08 | 2026-08-03 |
 | [Charge It \(with Masego, Jozzy & Bayka\)](https://open.spotify.com/track/2yg0AEBcHGfMIPVaA5W7o8) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Charge It \(with Masego, Jozzy & Bayka\)](https://open.spotify.com/album/2UsEip5hKV0iVICEfTXPVB) | 2:47 | 2023-04-14 | 2023-09-30 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-28 | 2023-10-21 |
 | [Chase](https://open.spotify.com/track/0mtXvs8NcZnGVpkwcurRLY) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Chase](https://open.spotify.com/album/0L8QrTXtyGlrGYDsW2Vzpy) | 2:26 | 2024-08-23 | 2025-05-10 |
@@ -833,6 +833,7 @@
 | [Outside \(Oouu Wahh\) \[feat\. Chikoruss\]](https://open.spotify.com/track/2fstmgxqa6LGyFuJZPolSc) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [Outside \(Oouu Wahh\) \[feat\. Chikoruss\]](https://open.spotify.com/album/5qnCccGhOVeaUIdZk34yTX) | 1:54 | 2024-02-16 | 2024-03-16 |
 | [Outside All Night \(feat\. A$AP Rocky & N3WYRKLA\)](https://open.spotify.com/track/1dbar1XukTbn7FQzQTqDQK) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:22 | 2023-10-27 |  |
 | [Oversteppin’ \(feat\. That Mexican OT\)](https://open.spotify.com/track/3GjWJb3PArubMXvc8kPHL6) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Oversteppin’ \(feat\. That Mexican OT\)](https://open.spotify.com/album/6NOOW5jXazGu4NEGBkWLAN) | 2:48 | 2023-11-17 | 2024-02-10 |
+| [Overthink \(feat\. Elmiene\)](https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Overthink \(feat\. Elmiene\)](https://open.spotify.com/album/6eAsTdKN52xg1GVY7cS6zJ) | 3:27 | 2026-07-31 |  |
 | [Oxford Circus](https://open.spotify.com/track/41pmDwHHK9rvdvp6sezqaf) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr) | [Oxford Circus](https://open.spotify.com/album/5qmqQfXZ4qTu6HqZ9PMyLC) | 2:32 | 2022-10-07 | 2022-12-17 |
 | [P.B.S.](https://open.spotify.com/track/0BEdIL6VdG2h8MRGLBoY5d) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [LOVE ON DIGITAL](https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K) | 2:24 | 2025-04-25 | 2025-11-15 |
 | [PALO $ANTO \(with Stormzy\)](https://open.spotify.com/track/0cvOfzykDoUaBKhWFSuB31) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [$TILL PAID](https://open.spotify.com/album/2HrOxwGUV3bk56mynG4NpK) | 2:49 | 2026-03-27 |  |

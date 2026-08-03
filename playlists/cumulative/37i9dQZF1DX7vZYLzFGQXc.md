@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Korea](https://open.spotify.com/playlist/37i9dQZF1DX7vZYLzFGQXc)
 
-> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 연정\(YeonJeong\)\) \(Meet the emerging talents of Korea!\)
+> 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Alice Syndrome\) \(Meet the emerging talents of Korea!\)
 
-1,705 songs - 3 day 23 hr 26 min
+1,707 songs - 3 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Dearest](https://open.spotify.com/track/0MOaALdPP8mBe1l9GAgt4R) | [C.eV](https://open.spotify.com/artist/71gEkg8g3gl7xXBBAswD9l) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 25](https://open.spotify.com/album/3iDDJ0aPzVQd2VB1z7l4HJ) | 3:46 | 2023-09-20 | 2024-03-22 |
 | [DECK](https://open.spotify.com/track/2uzUHuFNfQN0g6gRQaTxaQ) | [heroincity](https://open.spotify.com/artist/4Sl2QYei5nqAb8bDcccyEP) | [DECK](https://open.spotify.com/album/6oh04X9sDuNnOllePJ033x) | 2:14 | 2022-09-29 | 2022-12-01 |
 | [Deep Blue Dive](https://open.spotify.com/track/3L7KQebMPA3JFIdqy8QxEc) | [SØHJ](https://open.spotify.com/artist/0eOFe05GKhx3NzYZdFkGuS) | [Ø:Between](https://open.spotify.com/album/7k60zVtBxyM4xKyCulDJrW) | 3:20 | 2026-06-24 |  |
+| [Deep Dive](https://open.spotify.com/track/2BWqnsiMhGNpNa9NGLv9VC) | [Alice Syndrome](https://open.spotify.com/artist/7fNeWBcx24ttY7l6TxFDJx) | [Deep Dive](https://open.spotify.com/album/6OHUIjVYP12r5212ioJtRI) | 2:21 | 2026-08-02 |  |
 | [Deep in the sea](https://open.spotify.com/track/1HTMounjT4wxgUEA2reDZg) | [Shin Yujin](https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6) | [청](https://open.spotify.com/album/3rFg1ovRVL346umBv5g4t1) | 4:30 | 2023-10-30 | 2024-04-04 |
 | [Default](https://open.spotify.com/track/7a9JYapvSZ6jYu2TaG7BRU) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:52 | 2024-03-21 | 2024-08-02 |
 | [DELUSION](https://open.spotify.com/track/1fSXNII3Ur5HGz4zvLU8ph) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [DELUSION](https://open.spotify.com/album/4mifQdIzSkbqI8A2DDQCKm) | 2:58 | 2023-03-02 | 2023-05-02 |
@@ -823,7 +824,7 @@
 | [Like a Star](https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like a Star](https://open.spotify.com/album/3OAhXlOsjPDLvOMNwJQa9F) | 3:28 | 2024-04-17 | 2025-01-21 |
 | [Like Gravity](https://open.spotify.com/track/1VcNWIsPplZ79PMQgPU18g) | [Cheero](https://open.spotify.com/artist/4yzlHEgD5QKy6GoUdzvf55) | [Like Gravity](https://open.spotify.com/album/3Zt5Yd3Vm3uFxMBtlSWctQ) | 3:19 | 2022-03-23 | 2022-05-03 |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-30 |
-| [Like That](https://open.spotify.com/track/2RGX6bawrjRBzJUQ3sf0SG) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Like That](https://open.spotify.com/album/4dr2byTs5CnGERWn6VFxxe) | 1:54 | 2026-07-08 |  |
+| [Like That](https://open.spotify.com/track/2RGX6bawrjRBzJUQ3sf0SG) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Like That](https://open.spotify.com/album/4dr2byTs5CnGERWn6VFxxe) | 1:54 | 2026-07-08 | 2026-08-03 |
 | [Like The Rain \(Feat\. Sonny Zero\)](https://open.spotify.com/track/4QoHporaPivC4kscOa11tP) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [Like The Rain](https://open.spotify.com/album/3QXgjWpRqqYqUwcoavRcEB) | 3:24 | 2024-08-02 | 2024-10-05 |
 | [Like We Turn the Pages](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Like We Turn the Pages](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2022-01-27 | 2022-03-03 |
 | [Like You](https://open.spotify.com/track/45jEOvG3aufhNH0sNqrALd) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Like You](https://open.spotify.com/album/6pmhnoMFLa3e6wf0BtfV2N) | 4:46 | 2025-09-01 | 2026-03-04 |
@@ -1177,12 +1178,13 @@
 | [Rock, Scissors, Paper!](https://open.spotify.com/track/1cDIe8UxfzgKRE30JpnlcS) | [KACHISAN](https://open.spotify.com/artist/20pVcZq4VeWqe3CxlWx2nH) | [Rock, Scissors, Paper!](https://open.spotify.com/album/7mHmUOPnTN9grCWRBwU3Ew) | 3:27 | 2023-09-20 | 2024-03-22 |
 | [ROCKSTAR](https://open.spotify.com/track/1QOqclwvp0tyeFHuVlj3sX) | [illionoah](https://open.spotify.com/artist/1NJ9WfhssXUGAHjHtoUzIm) | [Maginot Line](https://open.spotify.com/album/5yqsc4Kz0CNJBJL15KiMF5) | 3:18 | 2022-02-17 | 2022-03-18 |
 | [Role Model](https://open.spotify.com/track/7r5FykTCroMJuGUh1E4NhE) | [James An](https://open.spotify.com/artist/4BACFCf6Y0aEdjtk9gutvC) | [Role Model](https://open.spotify.com/album/58pcnkh4Pe92GBMT5KPu0A) | 3:17 | 2022-05-11 | 2022-06-19 |
-| [Rollingloud](https://open.spotify.com/track/31yTDaGkc5yV3LnxLCVkm9) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9) | [Rollingloud](https://open.spotify.com/album/2NL3b1hb8pVdfcYSPPkuCy) | 1:45 | 2026-07-08 |  |
+| [Rollingloud](https://open.spotify.com/track/31yTDaGkc5yV3LnxLCVkm9) | [Lov3rboi](https://open.spotify.com/artist/3g30Ok78m7rECa0VuoN9e9) | [Rollingloud](https://open.spotify.com/album/2NL3b1hb8pVdfcYSPPkuCy) | 1:45 | 2026-07-08 | 2026-08-03 |
 | [Rollin’](https://open.spotify.com/track/7oZCs99NKldoJhQySsa0uC) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr) | [Rollin'](https://open.spotify.com/album/08GcgA5id3dzd0T6PwjiBt) | 2:46 | 2022-06-09 | 2022-07-05 |
 | [Romanticism](https://open.spotify.com/track/6BuBas6u8SShF6OVeFdWlg) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Narcissus](https://open.spotify.com/album/58nrjxdxUZJOVvLU1uyc6b) | 3:32 | 2023-05-01 | 2023-06-02 |
 | [Rose](https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [Rose](https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6) | 3:08 | 2023-06-01 | 2023-09-21 |
 | [rose](https://open.spotify.com/track/3m7FV7LDinrStxrowAjaoD) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [rose](https://open.spotify.com/album/3WuQnXDwZLuvQq51IgqPYD) | 3:13 | 2023-07-27 | 2024-03-06 |
 | [rotten on the inside](https://open.spotify.com/track/6gxaJhYFNYhzQWJH01JqR3) | [REBENN](https://open.spotify.com/artist/5U7QLjqqB4U8JCrGzpFqDR) | [rotten on the inside](https://open.spotify.com/album/2J4YACcLLKIiKOpFHhv4VU) | 2:57 | 2023-06-01 | 2023-09-21 |
+| [round](https://open.spotify.com/track/1NaDBli5yq02ienC980KcK) | [Tokai](https://open.spotify.com/artist/128eF3gisQ5rnkA9gJyLGT) | [Comikai](https://open.spotify.com/album/1OiWbUDFPpye5aHlbCZj4B) | 3:21 | 2026-08-02 |  |
 | [Round and Round](https://open.spotify.com/track/3kqDEazu8oYj0gd4PzXVLs) | [Ye Rim](https://open.spotify.com/artist/7vnLC3Y2Sj8i9IMnbBVTVM) | [Round and Round](https://open.spotify.com/album/4RLvCWEeymt4IWyMn1HlKy) | 3:25 | 2022-05-11 | 2022-06-19 |
 | [RUN](https://open.spotify.com/track/68yHhyHwpcWaUi6D2dU86V) | [Hyun shin young](https://open.spotify.com/artist/1tobxqK2YLetz3IKglcisR) | [RUN](https://open.spotify.com/album/4ZpedekoDGP91YuVg2Oz5q) | 4:18 | 2023-05-01 | 2023-07-27 |
 | [Run away \(feat\. Jayci yucca\)](https://open.spotify.com/track/6dRjxPFbbmZnneSb83GWkI) | [1DAY](https://open.spotify.com/artist/62bupmhlc6QqEDiYkXfQ9l), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM) | [HOTEL](https://open.spotify.com/album/5imCkLlUoh4TX15NNQuUdf) | 3:28 | 2022-05-11 | 2022-06-19 |

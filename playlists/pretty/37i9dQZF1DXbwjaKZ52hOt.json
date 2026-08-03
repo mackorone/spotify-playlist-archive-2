@@ -1,6 +1,6 @@
 {
   "description": "The whole family will love this playlist of nursery rhymes, featuring classic tunes and reimagined favorites.",
-  "num_followers": 55700,
+  "num_followers": 55714,
   "original_name": "Nursery Rhymes",
   "owner": {
     "name": "Spotify",
@@ -118,6 +118,10 @@
         {
           "name": "Pinkfong",
           "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        },
+        {
+          "name": "Hogi",
+          "url": "https://open.spotify.com/artist/4toy7dYDw94YRovmat294n"
         }
       ],
       "duration_ms": 124543,

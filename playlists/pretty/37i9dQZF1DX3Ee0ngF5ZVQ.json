@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 401154,
+  "num_followers": 400912,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-07-23 21:45:26",
       "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 241523,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il"
+    },
+    {
+      "added_at": "2026-07-23 21:45:26",
+      "album": {
         "name": "Settle for a Beer (with Triston Marez)",
         "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 174327,
       "name": "Settle for a Beer (with Triston Marez)",
       "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
-    },
-    {
-      "added_at": "2026-07-23 21:45:26",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 241523,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il"
     },
     {
       "added_at": "2026-07-23 21:45:26",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-07-23 21:45:26",
       "album": {
+        "name": "What Else Can She Do",
+        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 234360,
+      "name": "jackson",
+      "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
+    },
+    {
+      "added_at": "2026-07-23 21:45:26",
+      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/4pGOuhDwIrhIRAFffciZHf"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 206266,
       "name": "Two Hands",
       "url": "https://open.spotify.com/track/7vVC6koJ1ZxiegJItW77pA"
-    },
-    {
-      "added_at": "2026-07-23 21:45:26",
-      "album": {
-        "name": "What Else Can She Do",
-        "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 234360,
-      "name": "jackson",
-      "url": "https://open.spotify.com/track/6zL3OSQ7hK93ZRHFaBHnQ4"
     },
     {
       "added_at": "2026-07-23 21:45:26",

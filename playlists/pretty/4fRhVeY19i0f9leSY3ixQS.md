@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,622 likes - 308 songs - 17 hr 13 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,631 likes - 314 songs - 17 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 95 | [GUESS WE'LL NEVER KNOW](https://open.spotify.com/track/09ADydFH8rpzN5fN8PkPg4) | [Batbūrger](https://open.spotify.com/artist/4bLsBDIVdoujyA6QtjxyBI), [D\-Tales](https://open.spotify.com/artist/44WcTHYUkPWXIwF3WKC90P) | [EASY STREET](https://open.spotify.com/album/2syubFeVIF43vPW4Z8qvEn) | 2:30 |
 | 96 | [Basic](https://open.spotify.com/track/7Hkf08j1vDBHYijn3wGDiq) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 3:20 |
 | 97 | [Weird is the new normal](https://open.spotify.com/track/3Td2roi1rrVwwHDpbfQKGS) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [PUNKT](https://open.spotify.com/album/1V4XzrUe8LagIAvmSupuoV) | 1:47 |
-| 98 | [We Are The Lies](https://open.spotify.com/track/3G2y193uvEhYzfTRuhYNby) | [Door Marked Summer](https://open.spotify.com/artist/3ryXL59wPHXYFRrwujR6hh) | [We Are The Lies](https://open.spotify.com/album/20sfd9dloXfPCJqpZ644ok) | 4:00 |
+| 98 | [We Are The Lies](https://open.spotify.com/track/31lrdww8ODR7cTHJnrcO6H) | [Door Marked Summer](https://open.spotify.com/artist/3ryXL59wPHXYFRrwujR6hh) | [Psychic Surfing](https://open.spotify.com/album/0CgCUmORGOjJddPC1LMu1F) | 4:02 |
 | 99 | [Heather's Got Her Shit Together](https://open.spotify.com/track/0y0kFemiR91A3wCHYS0TdO) | [Batbūrger](https://open.spotify.com/artist/4bLsBDIVdoujyA6QtjxyBI) | [Studio Mono demos](https://open.spotify.com/album/2BaGSSSCPoOAYNlw51EOOf) | 3:26 |
 | 100 | [Choke](https://open.spotify.com/track/4KfJUAzVHZjMdnqppSxpT1) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Frantic!](https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV) | 1:14 |
 | 101 | [BUMBLEBEE IN HEAT](https://open.spotify.com/track/34m634JlnDgH5GuqShk37l) | [Batbūrger](https://open.spotify.com/artist/4bLsBDIVdoujyA6QtjxyBI) | [EASY STREET](https://open.spotify.com/album/2syubFeVIF43vPW4Z8qvEn) | 2:11 |
@@ -311,10 +311,16 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 301 | [Cruise to Rome](https://open.spotify.com/track/18jV0lp7UxCXIQCpgN8Clp) | [Undergrau](https://open.spotify.com/artist/4f6lyAIS3Zdpp7DvDNGBr3) | [Cruise to Rome](https://open.spotify.com/album/3cUb0iysPOTO14FZeqwUJ6) | 3:39 |
 | 302 | [Cromática](https://open.spotify.com/track/2hxQR8FvEFPFLgYo5JGl6r) | [Benja y Punto](https://open.spotify.com/artist/6DWjOIvsDnv1T1Jz6DpWcP) | [Cromática](https://open.spotify.com/album/33HHMjGQ2keDXvzAn8NsZH) | 3:30 |
 | 303 | [Circumstances](https://open.spotify.com/track/5UYhHfd1LbFN1nspZB5eyX) | [Grandma's Chandelier](https://open.spotify.com/artist/6dtP5fyPl76HScmIsqell7) | [Circumstances](https://open.spotify.com/album/4K7aZj2hfShTAjiSoylJnU) | 4:28 |
-| 304 | [Scratch Radio](https://open.spotify.com/track/3Eh1KBLDT2bVvsITyqgWon) | [CherryBoyz](https://open.spotify.com/artist/1Rp1rAvqJjnyye9Fqk4f8o) | [CherryBoyz\(EP2\)](https://open.spotify.com/album/0XYwySh2pQq4vTFoo6lITD) | 3:07 |
-| 305 | [I Met a Boy](https://open.spotify.com/track/7z1GhI8x0n9ML4c9cX40Ft) | [The Felines](https://open.spotify.com/artist/1sY4Vkkl3smLzY7iNaajmB) | [I Just Can't Be Sure / I Met a Boy](https://open.spotify.com/album/3TvBPlYQ13Ln41ON9sSGPz) | 3:29 |
-| 306 | [Cannonball](https://open.spotify.com/track/3T58BJnFyvohsJ812qL2lw) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Cannonball](https://open.spotify.com/album/3OzJ90jsvp5OQ4cBAk7rPP) | 3:03 |
-| 307 | [what's good \(the anthem\)](https://open.spotify.com/track/4D8CeiP6uzffTlHONnXovz) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [what's good \(the anthem\)](https://open.spotify.com/album/6ALX5UAJlWb4wRrxqtbEud) | 2:43 |
-| 308 | [Can't Get You Off My Mind](https://open.spotify.com/track/2wpWXzOBsM0uiEe0OxVh29) | [Maria Krauss](https://open.spotify.com/artist/2voazIy50xtxd794uJu5Fl) | [Can't Get You Off My Mind](https://open.spotify.com/album/0zWb4QXBOFnMquMk5pOspG) | 2:32 |
+| 304 | [Black Knight](https://open.spotify.com/track/7GyRC1pPJtAPtXKNtm1xIF) | [Saved by Skarlet](https://open.spotify.com/artist/695H7ZBBO6pKUjuHEuyqsP) | [Creation and Crisis](https://open.spotify.com/album/6hIk4tz3pAtDOcb0F1StoX) | 3:53 |
+| 305 | [Scratch Radio](https://open.spotify.com/track/3Eh1KBLDT2bVvsITyqgWon) | [CherryBoyz](https://open.spotify.com/artist/1Rp1rAvqJjnyye9Fqk4f8o) | [CherryBoyz\(EP2\)](https://open.spotify.com/album/0XYwySh2pQq4vTFoo6lITD) | 3:07 |
+| 306 | [I Met a Boy](https://open.spotify.com/track/7z1GhI8x0n9ML4c9cX40Ft) | [The Felines](https://open.spotify.com/artist/1sY4Vkkl3smLzY7iNaajmB) | [I Just Can't Be Sure / I Met a Boy](https://open.spotify.com/album/3TvBPlYQ13Ln41ON9sSGPz) | 3:29 |
+| 307 | [Cannonball](https://open.spotify.com/track/3T58BJnFyvohsJ812qL2lw) | [Trophy Boy Poems](https://open.spotify.com/artist/1EyJ3RSMmZO6ZK2HxzSvTj) | [Cannonball](https://open.spotify.com/album/3OzJ90jsvp5OQ4cBAk7rPP) | 3:03 |
+| 308 | [what's good \(the anthem\)](https://open.spotify.com/track/4D8CeiP6uzffTlHONnXovz) | [Darro](https://open.spotify.com/artist/3X2AuZv4fn9OPLwy464PgG) | [what's good \(the anthem\)](https://open.spotify.com/album/6ALX5UAJlWb4wRrxqtbEud) | 2:43 |
+| 309 | [Lie of The Pharisees](https://open.spotify.com/track/56ftHMAoBVgtJqFZfbpVsG) | [Saved by Skarlet](https://open.spotify.com/artist/695H7ZBBO6pKUjuHEuyqsP) | [Lie of The Pharisees](https://open.spotify.com/album/2uMW4GKPuMkWaKEfTrsezJ) | 4:27 |
+| 310 | [Can't Get You Off My Mind](https://open.spotify.com/track/2wpWXzOBsM0uiEe0OxVh29) | [Maria Krauss](https://open.spotify.com/artist/2voazIy50xtxd794uJu5Fl) | [Can't Get You Off My Mind](https://open.spotify.com/album/0zWb4QXBOFnMquMk5pOspG) | 2:32 |
+| 311 | [Amerta Naraka](https://open.spotify.com/track/0PzwwxZS2GsRXNhX1HwdvV) | [Atomic Dancing Society](https://open.spotify.com/artist/39Zdqlf2meV6IjjAWOiWYv) | [Amerta Naraka](https://open.spotify.com/album/4ra3kWjxuQAqHnGAQAzJ7J) | 2:52 |
+| 312 | [Red Ruta](https://open.spotify.com/track/34pZaGYBjX7O94Cun7pHkT) | [Azmora](https://open.spotify.com/artist/06i8TDgphThToFQPy7aPAO) | [Red Ruta](https://open.spotify.com/album/0bplffgARSW0e2hxmrO16P) | 3:57 |
+| 313 | [STRUCTURE](https://open.spotify.com/track/0y53w0b7C8TlCu7RvFCrPe) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [STRUCTURE](https://open.spotify.com/album/6qCBNYhiY355NGq3yXUIcl) | 3:57 |
+| 314 | [Method](https://open.spotify.com/track/4HYaA98uqTpB3kkOfJAV27) | [ShadowTribe](https://open.spotify.com/artist/7CEalWbyS2IE4HGyOF2dvw) | [Method](https://open.spotify.com/album/6jJk0RbeTLkISDIGlL0ATo) | 3:00 |
 
-Snapshot ID: `AAASgINXmxz1QFpujILbssxGs1p2ONOY`
+Snapshot ID: `AAASiIBKykUBcPiENOPaTxQ2nTh6ch6u`

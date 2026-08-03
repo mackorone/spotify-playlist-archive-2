@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-840 songs - 3 day 0 hr 55 min
+841 songs - 3 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -783,7 +783,7 @@
 | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For? \(The Single\)](https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT) | 3:14 | 2023-09-15 | 2024-03-16 |
 | [What I Need](https://open.spotify.com/track/0LTdWXf4krvXCHdEbJIHRl) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [What I Need](https://open.spotify.com/album/3AtNtoPcgW71xzuzgSwk1q) | 2:51 | 2026-02-27 | 2026-05-22 |
 | [What Kind of Love \- Flow Mix](https://open.spotify.com/track/3Jwg37On8OhLaWEyUArEpM) | [Boye Ray](https://open.spotify.com/artist/08Bv8fWux8twM4sfzSzSf9) | [What Kind of Love \(Flow Mix\)](https://open.spotify.com/album/6XoNkMXFjnVmnygBujYar1) | 3:22 | 2024-01-26 | 2024-03-17 |
-| [WHATEVER \(TO YOUR GLORY\)](https://open.spotify.com/track/5GNInxl3MHbeC7Of0jTIqO) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [WHATEVER \(TO YOUR GLORY\)](https://open.spotify.com/album/5ngawYJwVt7bRpJwU8m0jX) | 6:26 | 2025-08-01 |  |
+| [WHATEVER \(TO YOUR GLORY\)](https://open.spotify.com/track/5GNInxl3MHbeC7Of0jTIqO) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [WHATEVER \(TO YOUR GLORY\)](https://open.spotify.com/album/5ngawYJwVt7bRpJwU8m0jX) | 6:26 | 2025-08-01 | 2026-08-03 |
 | [When I Have You](https://open.spotify.com/track/6CU8ll61ugtCodNhrBAyoW) | [Minister Rachel K](https://open.spotify.com/artist/3e5JDlZMh9AHtEv5zee0bl) | [When I Have You](https://open.spotify.com/album/70bzK3vtHYnZTPHhn58cZa) | 4:34 | 2026-07-17 |  |
 | [When I Rise](https://open.spotify.com/track/6Vcb3GG1I9Chhwcc4OFEVS) | [Nkay](https://open.spotify.com/artist/1PQcG2ep2nohJCMyRFyWlv), [Still Shadey](https://open.spotify.com/artist/7r4NtPJ0mYRidQYQtxq8sV) | [Find Me](https://open.spotify.com/album/2i6vGDEC1cSBDqNOanDu5b) | 2:54 | 2023-10-20 | 2023-11-03 |
 | [When You Are There \- Piano Ballad](https://open.spotify.com/track/2YhDgRSPNjwttKOLLcwkoQ) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i) | [When You Are There \(Piano Ballad\)](https://open.spotify.com/album/5CiQkbQmr7rtnjgK1p808b) | 5:09 | 2024-10-11 | 2025-06-20 |
@@ -821,6 +821,7 @@
 | [Yes Sir](https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Yes Sir](https://open.spotify.com/album/7IgNfEsxY4OxlNmPrJHoB4) | 4:48 | 2024-08-30 | 2025-06-27 |
 | [Yes, I Know](https://open.spotify.com/track/3v7RvFFJkYMQU1m7VF9Qp0) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Yes, I Know](https://open.spotify.com/album/3IebSqR46WJAtVMSwJZPOn) | 3:43 | 2025-05-23 | 2025-08-09 |
 | [Yeshua \(Worship Rendition\)](https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Yeshua \(Worship Rendition\)](https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO) | 3:36 | 2024-04-05 | 2025-10-31 |
+| [YESU](https://open.spotify.com/track/54wWAAGkIHZG03JkcSd2cS) | [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [YESU](https://open.spotify.com/album/6AmGXpLt7W7ygyt1Ojk8el) | 2:29 | 2026-07-24 |  |
 | [Yesu Wanga](https://open.spotify.com/track/6SYKC5FbXfQqs4wQWviaXX) | [Temwah](https://open.spotify.com/artist/0TQGAK7Cdfm3ni9DhW8Cdb), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Yesu Wanga](https://open.spotify.com/album/48iVuWqb6VoJ6UfOQhGpxW) | 4:30 | 2024-07-12 | 2025-05-30 |
 | [Yewo](https://open.spotify.com/track/24q2NrlyFV3htvw0EqqJvE) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Yewo](https://open.spotify.com/album/4BlGgfSDbniELn7AvOd0zM) | 2:34 | 2024-06-07 | 2024-07-31 |
 | [YHWH \(Yahweh\)](https://open.spotify.com/track/5Qak7TNrNrytzk2cRmRv89) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [YHWH \(Yahweh\)](https://open.spotify.com/album/1zyNau9ajBHupq144myNG7) | 2:28 | 2024-09-06 | 2025-05-09 |
