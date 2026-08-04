@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 石川紅奈
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,422 likes - 154 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,431 likes - 154 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,18 +72,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 62 | [Gotta Decent Shoes?](https://open.spotify.com/track/5QKHJtbjIt9kKGmVmVvTDq) | [Okazaki Brothers](https://open.spotify.com/artist/01qkwx0gz2UsuCR9iTTi1d) | [Blood But Blues](https://open.spotify.com/album/5aUhK30kDj2pXn31qT634w) | 7:13 |
 | 63 | [つつみ込むように・・・feat.木村イオリ](https://open.spotify.com/track/7IP0GZG0CNmqunn2fNduey) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh), [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO) | [つつみ込むように・・・feat.木村イオリ](https://open.spotify.com/album/246NTHn3VjUlum8XUYKdj2) | 5:10 |
 | 64 | [青に染まる橋](https://open.spotify.com/track/1GIBSgeHXVffa70A6H6x6v) | [藤井 空](https://open.spotify.com/artist/2AMGwrpqbwLg1tZjDgnvQt) | [SOLA no SOLO](https://open.spotify.com/album/5wJnz1agDgSQUdhO9knOwU) | 4:01 |
-| 65 | [IDEA](https://open.spotify.com/track/5MZ9qKKkXY4yekcGDyCuyh) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Into My System](https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt) | 5:37 |
-| 66 | [To S.](https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Dolce Vita](https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg) | 4:26 |
-| 67 | [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 |
+| 65 | [Stargazer](https://open.spotify.com/track/4bTuXikreX9vQTcs69vgyS) | [草田一駿](https://open.spotify.com/artist/2aQPh8oulkkCiOeqRwSlCh) | [Trionfi](https://open.spotify.com/album/4oyzrmSkOa7yHrLV0mqyaJ) | 7:26 |
+| 66 | [IDEA](https://open.spotify.com/track/5MZ9qKKkXY4yekcGDyCuyh) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Into My System](https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt) | 5:37 |
+| 67 | [To S.](https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Dolce Vita](https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg) | 4:26 |
 | 68 | [Workaholic](https://open.spotify.com/track/3sQtlzHErgTBuF3PB8SXrQ) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [Workaholic](https://open.spotify.com/album/3XRgo5gZLMgvgv8EA024XG) | 4:26 |
-| 69 | [Beautiful Smile \- "Pianoman" Album Full ver.](https://open.spotify.com/track/16tAecK1qfWKagmzFIYG30) | [YoYo the "Pianoman"](https://open.spotify.com/artist/13JV96EGwDoC6yn9h2HIl7) | [A Gift for You](https://open.spotify.com/album/5Nlj7ixqkpgloUZZWFdOKM) | 6:02 |
-| 70 | [偶然の一致](https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [偶然の一致](https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ) | 4:11 |
-| 71 | [My Centennial](https://open.spotify.com/track/2LQR8bD21o911PXJytHtEI) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV), [The Danish Radio Big Band](https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE), [Danish National Symphony Orchestra](https://open.spotify.com/artist/6kClxEibflIbA231B95OYX) | [Live Life This Day: Celebrating Thad Jones](https://open.spotify.com/album/2OTVkPDLzM5EnPhrIchjKR) | 10:16 |
+| 69 | [My Centennial](https://open.spotify.com/track/2LQR8bD21o911PXJytHtEI) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV), [The Danish Radio Big Band](https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE), [Danish National Symphony Orchestra](https://open.spotify.com/artist/6kClxEibflIbA231B95OYX) | [Live Life This Day: Celebrating Thad Jones](https://open.spotify.com/album/2OTVkPDLzM5EnPhrIchjKR) | 10:16 |
+| 70 | [Beautiful Smile \- "Pianoman" Album Full ver.](https://open.spotify.com/track/16tAecK1qfWKagmzFIYG30) | [YoYo the "Pianoman"](https://open.spotify.com/artist/13JV96EGwDoC6yn9h2HIl7) | [A Gift for You](https://open.spotify.com/album/5Nlj7ixqkpgloUZZWFdOKM) | 6:02 |
+| 71 | [偶然の一致](https://open.spotify.com/track/4t9kLLMLdjWfEtXbM3K6r1) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo), [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [偶然の一致](https://open.spotify.com/album/77LZP3ZbG1hbKmSUzzdgkJ) | 4:11 |
 | 72 | [Rhizome Changes](https://open.spotify.com/track/5ed2reDZh99JGolP1p8AXc) | [壷阪健登](https://open.spotify.com/artist/2fTo5V5D3gAogcZuVKIpdQ) | [Lines](https://open.spotify.com/album/2p4PWeYlcUFGCRKZfge8Fe) | 5:13 |
 | 73 | [Patterns](https://open.spotify.com/track/2sf29HgWtkohQBZRpb7HZx) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Patterns](https://open.spotify.com/album/2teUQYp1JnDutjyOjSk5MZ) | 4:40 |
 | 74 | [二人静 \-JAZZ\-](https://open.spotify.com/track/27oq5Tj8Leb6pExeE4aXTn) | [Akina Nakamori](https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J) | [二人静 \-JAZZ\-](https://open.spotify.com/album/4fHTDqDC9nkGh9QWGtjzTy) | 4:10 |
-| 75 | [ゆらゆら](https://open.spotify.com/track/1OocGOgbwij2A8tLxPVqeS) | [魚返明未](https://open.spotify.com/artist/1fxVeIoQpbBUEVZycjl8AP), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [魚返明未＆井上銘Ⅱ](https://open.spotify.com/album/0tDwlpIHHgMgOz5pLkJ6zB) | 6:16 |
-| 76 | [Pathos](https://open.spotify.com/track/55kHKJPafkM9HynXY0oozI) | [川嶋哲郎](https://open.spotify.com/artist/7HYO9BWP2sgKxAF1VbCwCM), [CHAKA STRING QUARTET](https://open.spotify.com/artist/6bZSpfaWtn36aiqdRyakh2) | [A Walk in Life](https://open.spotify.com/album/66a5UKnW2qZdFmItUgReg3) | 8:05 |
+| 75 | [Pathos](https://open.spotify.com/track/55kHKJPafkM9HynXY0oozI) | [川嶋哲郎](https://open.spotify.com/artist/7HYO9BWP2sgKxAF1VbCwCM), [CHAKA STRING QUARTET](https://open.spotify.com/artist/6bZSpfaWtn36aiqdRyakh2) | [A Walk in Life](https://open.spotify.com/album/66a5UKnW2qZdFmItUgReg3) | 8:05 |
+| 76 | [ゆらゆら](https://open.spotify.com/track/1OocGOgbwij2A8tLxPVqeS) | [魚返明未](https://open.spotify.com/artist/1fxVeIoQpbBUEVZycjl8AP), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [魚返明未＆井上銘Ⅱ](https://open.spotify.com/album/0tDwlpIHHgMgOz5pLkJ6zB) | 6:16 |
 | 77 | [Raccoon](https://open.spotify.com/track/20ZpdLjSxQ7yAupAFQpMM7) | [Fried Banana Shop](https://open.spotify.com/artist/1FsQB9WixbPjX7AB3g8tNF) | [Raccoon](https://open.spotify.com/album/6AU9T8gFA74uVIsGhwIC6Q) | 3:33 |
 | 78 | [M.R.I\_ミライ](https://open.spotify.com/track/7tv7wmgimqlvdCXKXvX5xW) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [M.R.I\_ミライ](https://open.spotify.com/album/2JZ9Z50szpF4NUNTHo2KLt) | 4:54 |
 | 79 | [Half Moon](https://open.spotify.com/track/2M0XvBBSxE26LTFfGIJQdU) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3) | [Quiet Clown](https://open.spotify.com/album/0bqi6Hw8qCq4s5TFt9n7Wn) | 4:07 |
@@ -163,4 +163,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 153 | [Big Saaac\. \- Cleanup 10th Anniversary](https://open.spotify.com/track/3TmdJHfnGjZ56G1lMJn3nP) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Big Saaac\. \(Cleanup 10th Anniversary\)](https://open.spotify.com/album/3SJo9hEkE2q3l42jjd1Hwg) | 7:58 |
 | 154 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
 
-Snapshot ID: `AAAAAEKd857BTRZLi5ZWupplaeqSr2P+`
+Snapshot ID: `AAAAABvxUP0tcSD/wb79PgYDoBvU8Sit`

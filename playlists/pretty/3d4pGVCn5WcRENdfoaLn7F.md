@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 807 likes - 93 songs - 5 hr 26 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 816 likes - 95 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,5 +101,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 91 | [The Shadow](https://open.spotify.com/track/1mcneLdPg8ossSX5Mu8Epz) | [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [Pain in the Yeahs](https://open.spotify.com/artist/2h3u3wJ0xRr93FoibwB3hd) | [The Shadow](https://open.spotify.com/album/5PiWNYUNyiCqNZ7WVJxaXQ) | 3:16 |
 | 92 | [In Between](https://open.spotify.com/track/731yOFHgSDzlZ1OgcpnpCL) | [Crimson Brooks](https://open.spotify.com/artist/1bTbdLAGPbzW8TFvX7PzlL) | [In Between](https://open.spotify.com/album/0BealWuN7y2KG3ephHKcun) | 2:27 |
 | 93 | [Moksha](https://open.spotify.com/track/0ZQppVVEX0a8TXpTy8v4nF) | [Pale State](https://open.spotify.com/artist/3BYfiLgf69sDHqTzSH93SA) | [Moksha](https://open.spotify.com/album/65GzXvSc7y2fAu2rf2oFc3) | 4:00 |
+| 94 | [Reason To Exist \- Suburban Sessions](https://open.spotify.com/track/28oMohx3ZGC9mJZ1oN7b5D) | [According To Jack](https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs) | [Reason To Exist \(Suburban Sessions\)](https://open.spotify.com/album/5X4CMD7OWlu4mZIwadQEoQ) | 2:50 |
+| 95 | [Loser](https://open.spotify.com/track/5ksHTPVHRiLAXsXnJPZbAF) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 3:13 |
 
-Snapshot ID: `AAAD1qnAGdS67nE3kOCSfvCB88vWboAf`
+Snapshot ID: `AAAD2FshC2ns4rLwz0gJMP5dpznP2zRW`

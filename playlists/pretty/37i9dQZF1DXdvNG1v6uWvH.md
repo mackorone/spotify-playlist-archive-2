@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist frá Ariana Grande og mörgum fleirum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,691 likes - 71 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,690 likes - 71 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 70 | [loud](https://open.spotify.com/track/5RLkatJJ8F0myHX9fvRcFu) | [grasior](https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly) | [loud](https://open.spotify.com/album/3aqouCosWOy7EOluV8BRxY) | 2:07 |
 | 71 | [минутное увлечение](https://open.spotify.com/track/7aOjSwOc5UH2rr5J8MHUpp) | [HØWL](https://open.spotify.com/artist/3K9gJoPHRzTItBu63NEpnd) | [минутное увлечение](https://open.spotify.com/album/1OW5Hwt0UXIkh7IDcTZCqN) | 2:50 |
 
-Snapshot ID: `AAAAAFgnW3dmkl/s2gZtTl4+/2fvB189`
+Snapshot ID: `AAAAAE7xqr0QULhxLKbc3su6MBP0BoXE`

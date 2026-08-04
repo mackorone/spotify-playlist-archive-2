@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 244716,
+  "num_followers": 244686,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHf7ORi0hfFrXkGguXI7DqwJjkB3",
+  "snapshot_id": "AAAAAE17moYDxg4T5JSW6qcj/aXjaEOp",
   "tracks": [
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Jes\u00fas en el Centro (En Vivo)",
-        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
-      },
-      "artists": [
-        {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
-        }
-      ],
-      "duration_ms": 510586,
-      "name": "Tu presencia es el Cielo",
-      "url": "https://open.spotify.com/track/2iBDNtyifH3CtG7Y5VDeAz"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "People - En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/3UoN9QrWC7Kbvs0QMuNAXa"
       },
@@ -1311,18 +1295,50 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+        "name": "Jes\u00fas en el Centro (En Vivo)",
+        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 510586,
+      "name": "Tu presencia es el Cielo",
+      "url": "https://open.spotify.com/track/2iBDNtyifH3CtG7Y5VDeAz"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Obra de Tu Amor",
+        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Lead",
+          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
+        },
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Pedro Pablo Quintero",
+          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 424534,
-      "name": "Hay Poder",
-      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
+      "duration_ms": 605453,
+      "name": "Obra de Tu Amor",
+      "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1399,34 +1415,18 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Obra de Tu Amor",
-        "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Lead",
-          "url": "https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd"
-        },
-        {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
-        },
-        {
-          "name": "Pedro Pablo Quintero",
-          "url": "https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
         }
       ],
-      "duration_ms": 605453,
-      "name": "Obra de Tu Amor",
-      "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
+      "duration_ms": 424534,
+      "name": "Hay Poder",
+      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1571,22 +1571,18 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Bethel Music en Espa\u00f1ol (Live)",
-        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
+        "name": "Rojo 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/3tk3y6FPUIGhNmaV0m4st6"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Bethany Wohrle",
-          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
         }
       ],
-      "duration_ms": 291986,
-      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas - Live",
-      "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
+      "duration_ms": 475026,
+      "name": "Hasta Que Ya No Respire M\u00e1s",
+      "url": "https://open.spotify.com/track/5sWDrLTpvTDZpg8xb0XlWk"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1615,6 +1611,26 @@
       "duration_ms": 715466,
       "name": "Quiero Conocer a Jes\u00fas (Yeshua) / Nuestro Dios",
       "url": "https://open.spotify.com/track/293og3yEKwAjriGh8ps8W9"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Bethel Music en Espa\u00f1ol (Live)",
+        "url": "https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Bethany Wohrle",
+          "url": "https://open.spotify.com/artist/26opZlzcsx1NhaN5QELG4e"
+        }
+      ],
+      "duration_ms": 291986,
+      "name": "Mi Esperanza Est\u00e1 en Jes\u00fas - Live",
+      "url": "https://open.spotify.com/track/38e9daXegEIuNlP7lMII4Z"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1667,26 +1683,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "M\u00fasica en el Desierto",
-        "url": "https://open.spotify.com/album/7LNruLOqxbdoXT2gucKbKN"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 271419,
-      "name": "Eterna luz",
-      "url": "https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Tu Reino Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO"
       },
@@ -1711,6 +1707,26 @@
       "duration_ms": 623320,
       "name": "Aleluya",
       "url": "https://open.spotify.com/track/0NckqVt6yKJ783QiWWCDTb"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "M\u00fasica en el Desierto",
+        "url": "https://open.spotify.com/album/7LNruLOqxbdoXT2gucKbKN"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 271419,
+      "name": "Eterna luz",
+      "url": "https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1807,22 +1823,6 @@
       "duration_ms": 293440,
       "name": "Jes\u00fas (feat. Marcos Witt)",
       "url": "https://open.spotify.com/track/5u1wkV8C7Q0Vw8hK969grA"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "El Poder De Tu Amor",
-        "url": "https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 269640,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"
     }
   ],
   "unique_name": "Jes\u00fas Vive",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 
 > Melodik Türkçe şarkılarla yaz boyu sahildesin 🏖️
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,209 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,994 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wzU43lch6G.md) - [plain]
 | 49 | [Seversin](https://open.spotify.com/track/29hf1lugMH7g6X8IrfCMAq) | [Müjver](https://open.spotify.com/artist/1ULbsZ7MDzQU9k0wGzPXp9) | [Cümlemize](https://open.spotify.com/album/615tYYbx6XrhyR3eeIQeTk) | 4:26 |
 | 50 | [Dalga](https://open.spotify.com/track/6uGpoWUxH4heqObDAMr4gU) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 2:56 |
 
-Snapshot ID: `AAAAAEJC+IkpdrvQc7gqvtnEnm0xLdke`
+Snapshot ID: `AAAAANWpAO/68truZSohUc00n8urVZ+Y`

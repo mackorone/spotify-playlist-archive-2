@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-208 songs - 11 hr 35 min
+209 songs - 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Sex with a Ghost](https://open.spotify.com/track/1Y2583xYzwiEXDetAB7H1Q) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Sock\-Footed](https://open.spotify.com/album/3LRcVZVluaa0kIqcDjEuv7) | 4:00 | 2022-05-06 |  |
 | [Shia LaBeouf Live](https://open.spotify.com/track/3VMzQ4rh7FtfSuyjHIcuZR) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Shia LaBeouf Live](https://open.spotify.com/album/1iFafzOE0nGXb8eBvup1re) | 2:35 | 2024-10-14 |  |
 | [Short Skirt / Long Jacket](https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Comfort Eagle](https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj) | 3:24 | 2025-04-22 |  |
+| [Slingshot](https://open.spotify.com/track/1TOYsMwlftOZ5GZL6sF8lF) | [HENGE](https://open.spotify.com/artist/5R09pajxQjiwdUH6Fw4yM5) | [Journey to Voltus B](https://open.spotify.com/album/4EyOqCekFh9eo81mgeXMgH) | 3:32 | 2026-08-03 |  |
 | [Social Climb](https://open.spotify.com/track/3xUsaaH6oCG1w8kD1oGhGW) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [1981 Extended Play](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG) | 2:56 | 2024-12-12 |  |
 | [Sovietoblaster](https://open.spotify.com/track/2t8d5f6cR7QY8XrdRy1lsB) | [Rotfront](https://open.spotify.com/artist/4aY5KQo2g0QxZJA5djS0Jz) | [Emigrantski Raggamuffin](https://open.spotify.com/album/1Zw5RQlTFL520baBQt5FDT) | 3:09 | 2022-05-06 |  |
 | [Spider](https://open.spotify.com/track/0TIkZpO9NBw8WYYRTDnHv5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Apollo 18](https://open.spotify.com/album/5HswYyErxPHfQtHhNlzhnR) | 0:50 | 2022-05-06 | 2023-12-14 |

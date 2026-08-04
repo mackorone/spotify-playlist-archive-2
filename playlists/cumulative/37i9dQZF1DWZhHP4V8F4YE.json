@@ -9618,7 +9618,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 159335,
       "name": "Laho II",
       "url": "https://open.spotify.com/track/4DREBgUie15tAPq9KQqe2c"
@@ -11344,7 +11344,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 272033,
       "name": "Mopepe",
       "url": "https://open.spotify.com/track/41JAaLs2uJB2JZoabE5jnO"
@@ -12124,7 +12124,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 429032,
       "name": "NGEKE (feat. Scotts Maphuma)",
       "url": "https://open.spotify.com/track/6Rr4HJll7Yckt0sGDokse9"
@@ -15517,6 +15517,24 @@
     },
     {
       "album": {
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/1f0zvTxIYJMZ1L87qfGEsZ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106909,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/3AcgT1ZcF0e9YknCUD269u"
+    },
+    {
+      "album": {
         "name": "Slime You Out",
         "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
       },
@@ -16156,6 +16174,44 @@
       "duration_ms": 314341,
       "name": "Stimela",
       "url": "https://open.spotify.com/track/0AY3sNqV7qAdAZ8j6TRVBd"
+    },
+    {
+      "album": {
+        "name": "Stop and Go",
+        "url": "https://open.spotify.com/album/1yqXTLJHPjta5WOfiPyWXo"
+      },
+      "artists": [
+        {
+          "name": "Mid9t",
+          "url": "https://open.spotify.com/artist/2U2toft3GCToSozH4TfVV5"
+        },
+        {
+          "name": "Benzoo",
+          "url": "https://open.spotify.com/artist/5AsDbDc0ZeFSOBhwuaXvWy"
+        },
+        {
+          "name": "Epic-Music",
+          "url": "https://open.spotify.com/artist/5zTGXfJiUsdrBMVLYALG4N"
+        },
+        {
+          "name": "Gwitsi",
+          "url": "https://open.spotify.com/artist/4AQOUixw3yjo7GJrrMAzWM"
+        },
+        {
+          "name": "Officixl RSA",
+          "url": "https://open.spotify.com/artist/1BC2o2RW9sGr2NB8jXlYQv"
+        },
+        {
+          "name": "De papzo",
+          "url": "https://open.spotify.com/artist/6kZX1oyqTKsxP1kM7Sy3zt"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389778,
+      "name": "Stop and Go",
+      "url": "https://open.spotify.com/track/7uNK3EFJF1DWoUnu3PQkeT"
     },
     {
       "album": {
@@ -17436,6 +17492,28 @@
       "duration_ms": 140160,
       "name": "Toxic Love Story",
       "url": "https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ"
+    },
+    {
+      "album": {
+        "name": "treat u right",
+        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177565,
+      "name": "treat u right",
+      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
     },
     {
       "album": {

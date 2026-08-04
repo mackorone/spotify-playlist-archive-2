@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 
 > 지금 국내에서 떠오르고 있는 팝 음악을 만나보세요! \(커버: benny blanco, Selena Gomez, Becky G\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,536 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,528 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuUd3Ffrcx8.md) - [plain]
 | 49 | [Aftertaste](https://open.spotify.com/track/4ZJZ7W5T3Q3O8ICw95K0vS) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Aftertaste](https://open.spotify.com/album/5reeDNcaX4JxcMz4fJtqvX) | 3:16 |
 | 50 | [Under Construction](https://open.spotify.com/track/4Y3253lAyzFqLhcUgYEY62) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Under Construction](https://open.spotify.com/album/7tPygg8Jr9igPfGsY8gnzD) | 3:42 |
 
-Snapshot ID: `AAAAAMTPUPKBJ4B7lU056LWFfSF1mlyi`
+Snapshot ID: `AAAAAKqdIJB+GRalRd7VO0okK6nnSWhS`

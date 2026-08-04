@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : Lycinaïs Jean
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,015 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,979 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 49 | [On pick, Pt\. 2](https://open.spotify.com/track/0ilE7klIsZ1dXWkRDU9NB2) | [Lagess](https://open.spotify.com/artist/5brOruoItuGUMISGRDOzNq), [Jemg](https://open.spotify.com/artist/6vhwFD4TaAZgZo60cqoP1L), [Yanishi](https://open.spotify.com/artist/2XngitiMW1vEd1VL0CQg2x) | [On pick, Pt\. 2](https://open.spotify.com/album/7jQc2jnI5jDCvRhWjl539x) | 2:29 |
 | 50 | [SI GEN BABA](https://open.spotify.com/track/1swwHLGCulb5CtfEOIe44B) | [Maïzy](https://open.spotify.com/artist/0ttGfjATAQzBjyDCvM9lyI), [ZOE LUCY](https://open.spotify.com/artist/0fi0UZMwNy8fGhjvcnnuD2), [BLVCKA](https://open.spotify.com/artist/6WtlMHXL8Kas0hv923VfW0) | [SI GEN BABA](https://open.spotify.com/album/0qWLqeY2uUctwQtPc6dV7E) | 2:44 |
 
-Snapshot ID: `AAAAAOmuWeGKlPV75BjkxyWXLY09z2fO`
+Snapshot ID: `AAAAAJD9gsUTIrryIF6XaD9eCRMOtnsE`

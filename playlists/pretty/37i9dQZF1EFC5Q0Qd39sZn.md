@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,699 likes - 589 songs - 1 day 16 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,698 likes - 589 songs - 1 day 16 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -277,8 +277,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 267 | [Through the Storm \(with Elton John\)](https://open.spotify.com/track/2xTzFWaVvNzmz1JXbhOt64) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Through the Storm](https://open.spotify.com/album/0K8kAGeIofQOUkWiMOYr8P) | 4:21 |
 | 268 | [Into the Night of Blue](https://open.spotify.com/track/6P1iCXKKoBefpyJQAhynKB) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [Hidden Gems](https://open.spotify.com/album/1aOCleRKNqzbn1Qr9crZXF) | 4:13 |
 | 269 | [Big Big Love](https://open.spotify.com/track/5qn8AKjdjvSTWxsQ1Irk8l) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Big Big Love](https://open.spotify.com/album/1KXFA21w4IxGGVJltnH119) | 3:46 |
-| 270 | [You Won't Have Me](https://open.spotify.com/track/4rEfopWAHBTR2zB4QmGMy0) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [An Attempt at Romantic](https://open.spotify.com/album/4jiNh3jO32yjdfiReQR1Uw) | 3:23 |
-| 271 | [I See You In A Different Light](https://open.spotify.com/track/3ZJSit2Z7fKbtHnNA1Fnqv) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo), [Joel Hailey](https://open.spotify.com/artist/6AnUMBsjIzJ5PPXEqE3d0v) | [This Moment Is Mine](https://open.spotify.com/album/3tkdUlOR0x8lYElhaQUUbb) | 4:22 |
+| 270 | [I See You In A Different Light](https://open.spotify.com/track/3ZJSit2Z7fKbtHnNA1Fnqv) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo), [Joel Hailey](https://open.spotify.com/artist/6AnUMBsjIzJ5PPXEqE3d0v) | [This Moment Is Mine](https://open.spotify.com/album/3tkdUlOR0x8lYElhaQUUbb) | 4:22 |
+| 271 | [You Won't Have Me](https://open.spotify.com/track/4rEfopWAHBTR2zB4QmGMy0) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [An Attempt at Romantic](https://open.spotify.com/album/4jiNh3jO32yjdfiReQR1Uw) | 3:23 |
 | 272 | [I Bring You To My Senses](https://open.spotify.com/track/0hNwpx4xQSsA4F7By1ZvlQ) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [We Are Love \(Deluxe\)](https://open.spotify.com/album/5CzzuE9XUREa6PyHGgucmC) | 4:04 |
 | 273 | [Your Baby Never Looked Good In Blue \- 7" Version](https://open.spotify.com/track/5fQzLMW97XnJhzvjpCT905) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [What You Don't Know \(Expanded Edition\)](https://open.spotify.com/album/4i9i6CnfbXVOY7rb33K35I) | 3:53 |
 | 274 | [You Go First](https://open.spotify.com/track/0qVoSr1jArDkdB78QgKKTH) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:31 |
@@ -598,4 +598,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 588 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 589 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcYiNAAAAABkdTV5v0AlycCZHsNX8/Gu`
+Snapshot ID: `AcYn1AAAAACtPUlJc4mAZydrMDg8hFGo`

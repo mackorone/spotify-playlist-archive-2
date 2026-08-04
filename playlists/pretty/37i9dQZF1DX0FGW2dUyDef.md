@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: manifest, Motive, Pango
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,650,822 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,648,055 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,17 +18,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 8 | [Eller Üzer](https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA) | [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Eller Üzer](https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4) | 3:18 |
 | 9 | [Bana Ne Bu Sevdalardan](https://open.spotify.com/track/5j7ypeN8HkyGKRNjRagPrR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bana Ne Bu Sevdalardan](https://open.spotify.com/album/57y0kEd09cinYeE9JPHCwJ) | 2:17 |
 | 10 | [Hileli](https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Hileli](https://open.spotify.com/album/1Dim5nq14eGHzcfGhLqUWU) | 3:22 |
-| 11 | [Çok Güzel Gülüyorsun](https://open.spotify.com/track/7rsrUU3OGXQwTHWWMZwlw8) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [KAYIP PERSONA](https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp) | 4:00 |
-| 12 | [TAMPONTAMPONA](https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [TAMPONTAMPONA](https://open.spotify.com/album/5flqeedURwamU6B8An5lAb) | 3:16 |
-| 13 | [KIYAMAM](https://open.spotify.com/track/4jAMQSOz2hxsNVn0mzqEnz) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [KIYAMAM](https://open.spotify.com/album/3iSj2THN7VZXEHHpywBiGN) | 2:26 |
-| 14 | [Kalpsiz Bir Serseri \- Live](https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Kalpsiz Bir Serseri \(Live\)](https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB) | 3:44 |
-| 15 | [Kayıp Kalp](https://open.spotify.com/track/3H4aYDeSswC31fSOWJtWdg) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KAYIP PERSONA](https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp) | 2:33 |
-| 16 | [Başımda Belalar](https://open.spotify.com/track/78wzqnO4Ixrb4o1CAd4YZN) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [Başımda Belalar](https://open.spotify.com/album/4CZ5W7sAGi6indqbl6iVc5) | 2:50 |
-| 17 | [Akşamüstü](https://open.spotify.com/track/2DuqHDhcgQJ4Rz8noWFsgR) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Akşamüstü](https://open.spotify.com/album/1d5ajC5UEApJAtlA8zKZ2h) | 2:52 |
-| 18 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 |
-| 19 | [YIN YANG](https://open.spotify.com/track/3e0XM5ARlFVbWLfdR7zZvp) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [YIN YANG](https://open.spotify.com/album/5zTpynQLSJo8yiG5U8rJXn) | 3:00 |
-| 20 | [UYUYAMADIN DİMİ?](https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [PARDON MUTLULUKLAR](https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP) | 2:38 |
-| 21 | [İhtimal](https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [Serotonin](https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8) | 2:26 |
+| 11 | [Başımda Belalar](https://open.spotify.com/track/78wzqnO4Ixrb4o1CAd4YZN) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [Başımda Belalar](https://open.spotify.com/album/4CZ5W7sAGi6indqbl6iVc5) | 2:50 |
+| 12 | [Çok Güzel Gülüyorsun](https://open.spotify.com/track/7rsrUU3OGXQwTHWWMZwlw8) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [KAYIP PERSONA](https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp) | 4:00 |
+| 13 | [TAMPONTAMPONA](https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [TAMPONTAMPONA](https://open.spotify.com/album/5flqeedURwamU6B8An5lAb) | 3:16 |
+| 14 | [KIYAMAM](https://open.spotify.com/track/4jAMQSOz2hxsNVn0mzqEnz) | [Sibel Can](https://open.spotify.com/artist/2IiSMrjpXiteqhISWXkdUG), [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [KIYAMAM](https://open.spotify.com/album/3iSj2THN7VZXEHHpywBiGN) | 2:26 |
+| 15 | [Kalpsiz Bir Serseri \- Live](https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Kalpsiz Bir Serseri \(Live\)](https://open.spotify.com/album/3R7BUFaIAw3RPuf6eybWHB) | 3:44 |
+| 16 | [Kayıp Kalp](https://open.spotify.com/track/3H4aYDeSswC31fSOWJtWdg) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KAYIP PERSONA](https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp) | 2:33 |
+| 17 | [İhtimal](https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [Serotonin](https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8) | 2:26 |
+| 18 | [Akşamüstü](https://open.spotify.com/track/2DuqHDhcgQJ4Rz8noWFsgR) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Akşamüstü](https://open.spotify.com/album/1d5ajC5UEApJAtlA8zKZ2h) | 2:52 |
+| 19 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 |
+| 20 | [YIN YANG](https://open.spotify.com/track/3e0XM5ARlFVbWLfdR7zZvp) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [YIN YANG](https://open.spotify.com/album/5zTpynQLSJo8yiG5U8rJXn) | 3:00 |
+| 21 | [UYUYAMADIN DİMİ?](https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [PARDON MUTLULUKLAR](https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP) | 2:38 |
 | 22 | [Diva](https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Diva](https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu) | 2:07 |
 | 23 | [pVg](https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [pVg](https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6) | 4:03 |
 | 24 | [Gidişat](https://open.spotify.com/track/150HZ4cTAOygzxwIezXxp6) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Gidişat](https://open.spotify.com/album/67EvM60fproAJUULEJFEbR) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FGW2dUyDef.md) - [plain]
 | 49 | [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 |
 | 50 | [Üzülmedim Ki](https://open.spotify.com/track/3wWFO3qZzgMGLEF1G33ClH) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Üzülmedim Ki](https://open.spotify.com/album/74zx4om0d3Yzeaq1KgmbIF) | 2:34 |
 
-Snapshot ID: `AAAAAKMxgFnFWwy6p5sSR9uD2vzOobtZ`
+Snapshot ID: `AAAAAKsrCCyDZG1VPA64n9Wu2HqXf0vz`

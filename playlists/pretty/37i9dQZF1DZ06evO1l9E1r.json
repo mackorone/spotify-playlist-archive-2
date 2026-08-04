@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 3407,
+  "num_followers": 3408,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAABimFN2WEpmuCiERc1Yb4l/",
+  "snapshot_id": "am6IgAAAAACbiW8p6iQdD6wB9Tz8xvG0",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 159266,
-      "name": "Defeated Clown",
-      "url": "https://open.spotify.com/track/2S2ASICVK0L1LtjaysKsel"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Erindi",
         "url": "https://open.spotify.com/album/5loTsXG2CmW9EYxAVfCNIA"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 169026,
       "name": "Erindi",
       "url": "https://open.spotify.com/track/4hn2efCvUbsiAvB0aaVnnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 159266,
+      "name": "Defeated Clown",
+      "url": "https://open.spotify.com/track/2S2ASICVK0L1LtjaysKsel"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
       "duration_ms": 230719,
       "name": "Opaque",
       "url": "https://open.spotify.com/track/7rRPPNIKGnHzJ57IlJ1Oip"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Call Me Joker",
-      "url": "https://open.spotify.com/track/257SoE95qEweGItCB9Q5rE"
     },
     {
       "added_at": null,
@@ -291,6 +275,22 @@
       "duration_ms": 199114,
       "name": "The Last Men",
       "url": "https://open.spotify.com/track/4uPeLt3BnHdxF9Wd9wjPZT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 288800,
+      "name": "Call Me Joker",
+      "url": "https://open.spotify.com/track/257SoE95qEweGItCB9Q5rE"
     },
     {
       "added_at": null,
@@ -507,58 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/5wZeVIBFtMbFeD2gScCuxF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 283991,
-      "name": "Evacuation",
-      "url": "https://open.spotify.com/track/5peOOgPogTScqCtUtm0MF5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 88493,
-      "name": "A Bad Comedian",
-      "url": "https://open.spotify.com/track/5x7zV8WBDXfNCkUYOffc8d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -583,6 +531,58 @@
       "duration_ms": 83315,
       "name": "The Universal End",
       "url": "https://open.spotify.com/track/66DXzaaWWCZGyq64Jp17Gs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 283991,
+      "name": "Evacuation",
+      "url": "https://open.spotify.com/track/5peOOgPogTScqCtUtm0MF5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/5wZeVIBFtMbFeD2gScCuxF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 88493,
+      "name": "A Bad Comedian",
+      "url": "https://open.spotify.com/track/5x7zV8WBDXfNCkUYOffc8d"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 184180,
-      "name": "Melody of Not Knowing",
-      "url": "https://open.spotify.com/track/7DBduWe8f8VWxrIPsfYeGC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 227836,
       "name": "A Move to Neptune",
       "url": "https://open.spotify.com/track/5N7UCJzJosLG7cO2LpHvcR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 184180,
+      "name": "Melody of Not Knowing",
+      "url": "https://open.spotify.com/track/7DBduWe8f8VWxrIPsfYeGC"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "Over There",
-      "url": "https://open.spotify.com/track/0pGs9W5XnvyF1AdxRpxD90"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 155374,
       "name": "Prelude",
       "url": "https://open.spotify.com/track/3Vs52Ijr0tBtaavIuYWidh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 192559,
+      "name": "Over There",
+      "url": "https://open.spotify.com/track/0pGs9W5XnvyF1AdxRpxD90"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 140909,
-      "name": "Make Space",
-      "url": "https://open.spotify.com/track/4ARFffayKBFybDNtCYYXDG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bride! (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 140909,
+      "name": "Make Space",
+      "url": "https://open.spotify.com/track/4ARFffayKBFybDNtCYYXDG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
       },
@@ -859,46 +859,6 @@
       "duration_ms": 87333,
       "name": "Bare Bones",
       "url": "https://open.spotify.com/track/2SeE2w8x2f0KpQNsQpIOpg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 121760,
-      "name": "Ravine",
-      "url": "https://open.spotify.com/track/6AqDWGmP2cZrP0HlF9OWw0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trapped (Original Television Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Rutger Hoedemaekers",
-          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
-        }
-      ],
-      "duration_ms": 124541,
-      "name": "A Political Murder",
-      "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
     },
     {
       "added_at": null,
@@ -923,6 +883,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trapped (Original Television Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "Rutger Hoedemaekers",
+          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
+        }
+      ],
+      "duration_ms": 124541,
+      "name": "A Political Murder",
+      "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Women Talking (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
       },
@@ -939,18 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 136144,
-      "name": "Steps Out Loud",
-      "url": "https://open.spotify.com/track/4ZW8iAiYRnjI2GBwwKkVw4"
+      "duration_ms": 121760,
+      "name": "Ravine",
+      "url": "https://open.spotify.com/track/6AqDWGmP2cZrP0HlF9OWw0"
     },
     {
       "added_at": null,
@@ -987,6 +971,22 @@
       "duration_ms": 174269,
       "name": "A New Doom",
       "url": "https://open.spotify.com/track/45FZRpLPmRuMqNtC7Qrwah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 136144,
+      "name": "Steps Out Loud",
+      "url": "https://open.spotify.com/track/4ZW8iAiYRnjI2GBwwKkVw4"
     },
     {
       "added_at": null,

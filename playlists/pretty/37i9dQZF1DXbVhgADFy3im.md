@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVhgADFy3im.md) - [plain]
 
 > Every track you're listening/should be listening to ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,417 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330,856 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbVhgADFy3im.md) - [plain]
 | 74 | [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 |
 | 75 | [Ilahi](https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:48 |
 
-Snapshot ID: `AAAAAI12d/SzEoWaIN0A3Tns2CVGeTSI`
+Snapshot ID: `AAAAABmuB5hJMpT2XXKGAqpAIG+jQVsa`

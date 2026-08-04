@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,800 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,769 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 49 | [La barna leve](https://open.spotify.com/track/2DQQe15WZLelM2exoYLC1n) | [ROSA FAENSKAP](https://open.spotify.com/artist/0VwAXdA6SAH89PAF4ZSFTX) | [Ingenting Forblir](https://open.spotify.com/album/1898t6IRJVcR5mxx3mfDuJ) | 4:37 |
 | 50 | [Chromophoria](https://open.spotify.com/track/6US4JteSqL2pR5te7QZ152) | [Xylitol](https://open.spotify.com/artist/4m6lKZU5qS7ZIPFhYx5bEx), [Sculpture](https://open.spotify.com/artist/3kOR6n2cPPPILMsWmKqpHk) | [Blumenfantasie](https://open.spotify.com/album/10nHSPjnaJXh4SB89xVAjU) | 4:30 |
 
-Snapshot ID: `AAAAAASpX29wYXu5dh3we51BR3Diy1Js`
+Snapshot ID: `AAAAALuyYeX7BuEBerXhtgVsGeq6487H`

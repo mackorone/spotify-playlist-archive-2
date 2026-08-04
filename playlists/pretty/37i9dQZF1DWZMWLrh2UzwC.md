@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Ariana Grande, Cardi B, Exists, Faizal Tahir, DOLLA, F.Hero, Eric Chou and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,626 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,293 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 113 | [if i’m with you](https://open.spotify.com/track/0r8x5ercAQKwRE4U85EZbE) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [if i’m with you](https://open.spotify.com/album/3AzI8LdP4LZ9wHRMqV3V2B) | 3:44 |
 | 114 | [love me not \(feat\. Wonstein\)](https://open.spotify.com/track/5wwLEmOTkShwvkzu621069) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [love me not \(feat\. Wonstein\)](https://open.spotify.com/album/7KpCgT23aD7sF3B1gKJfos) | 2:30 |
 | 115 | [Shut The Door](https://open.spotify.com/track/0EbfMfuMAPyFtv07DrRauE) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [YOUNGEST](https://open.spotify.com/album/6CEAKGPPKCVDnpSZ0VEhi1) | 2:51 |
-| 116 | [SPEEED \(feat\. JUSTHIS, Justin Park\)](https://open.spotify.com/track/0oGriEaQ1Bvo31FsIVmEMf) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [JUSTHIS](https://open.spotify.com/artist/6FYDXXEMicr6w55KTboFOH), [Justin Park](https://open.spotify.com/artist/4egd57eyEccqfOkHxoQqAj) | [SPEEED](https://open.spotify.com/album/4pBSk3ZDDmsKkYvBNJGAO3) | 3:44 |
+| 116 | [SPEEED \(feat\. JUSTHIS, Justin Park\)](https://open.spotify.com/track/0oGriEaQ1Bvo31FsIVmEMf) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [저스디스 \(JUSTHIS\)](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Justin Park](https://open.spotify.com/artist/4egd57eyEccqfOkHxoQqAj) | [SPEEED](https://open.spotify.com/album/4pBSk3ZDDmsKkYvBNJGAO3) | 3:44 |
 | 117 | [Flower \(Feat\. HAGA\)](https://open.spotify.com/track/57z0hwBdkJjQyTKBEzS0VE) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [HAGA](https://open.spotify.com/artist/2jVBqQhjFlqUSHIN3dcdZx) | [Hopeful Romantic](https://open.spotify.com/album/2TUXoQcdff7FuRXRzFEW7w) | 3:24 |
 | 118 | [On the Weekend](https://open.spotify.com/track/7vSnswbt8JRufDevmFgm0n) | [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8) | [SOUL BABY](https://open.spotify.com/album/5sXJul476tGRt2eHMstVDr) | 2:31 |
 | 119 | [Shit Love](https://open.spotify.com/track/0gDl9Clr6bkgLum6Dhdh88) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Shit Love](https://open.spotify.com/album/5hNGTc0NjOJBjwyyPTBoQQ) | 2:53 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 124 | [Say Yea \(feat\. Amira Eldine\)](https://open.spotify.com/track/5AQDvtN8uwUIpEKS2znReK) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [Say Yea \(feat\. Amira Eldine\)](https://open.spotify.com/album/3c0uU6xEkAC44eIgSRbJFG) | 2:39 |
 | 125 | [Hyperfocus](https://open.spotify.com/track/4BN0yGTaksc1iny2QvjHEK) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Nathalie Blue](https://open.spotify.com/artist/2VRgy5skIildisco3sF7Nt) | [Hyperfocus](https://open.spotify.com/album/5DaIWNy94FSVfCq2zCEASF) | 3:15 |
 
-Snapshot ID: `AAAAANsx+9nZfd2voiiVFgCZul3GcILl`
+Snapshot ID: `AAAAAGI0lprKGLKcevkWE5h2uMBGhNRN`

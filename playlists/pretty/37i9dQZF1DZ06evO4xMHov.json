@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63481,
+  "num_followers": 63454,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAB3+JcL+xQP5SCBNdjkoAyL",
+  "snapshot_id": "am6IgAAAAAAdoWIPvaQ6bG9qxM61J6Gt",
   "tracks": [
     {
       "added_at": null,
@@ -839,22 +839,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alvo Mais Que a Neve",
-        "url": "https://open.spotify.com/album/2rjke7YMI8dwuldfIgrvAz"
+        "name": "Nossas M\u00e3os Te Exaltar\u00e3o",
+        "url": "https://open.spotify.com/album/6TZo4gIsBIWXWthYoxxDFq"
       },
       "artists": [
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 349600,
-      "name": "Alvo Mais Que a Neve",
-      "url": "https://open.spotify.com/track/0715W8VVrXKZ0AEGvh0NV0"
+      "duration_ms": 489268,
+      "name": "Nossas M\u00e3os Te Exaltar\u00e3o",
+      "url": "https://open.spotify.com/track/2MrEBUg4rn1oyv8Q2OGpKl"
     },
     {
       "added_at": null,
@@ -875,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nossas M\u00e3os Te Exaltar\u00e3o",
-        "url": "https://open.spotify.com/album/6TZo4gIsBIWXWthYoxxDFq"
+        "name": "Alvo Mais Que a Neve",
+        "url": "https://open.spotify.com/album/2rjke7YMI8dwuldfIgrvAz"
       },
       "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 489268,
-      "name": "Nossas M\u00e3os Te Exaltar\u00e3o",
-      "url": "https://open.spotify.com/track/2MrEBUg4rn1oyv8Q2OGpKl"
+      "duration_ms": 349600,
+      "name": "Alvo Mais Que a Neve",
+      "url": "https://open.spotify.com/track/0715W8VVrXKZ0AEGvh0NV0"
     },
     {
       "added_at": null,
@@ -923,6 +923,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Preto no Branco 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 267170,
+      "name": "O Le\u00e3o E A Igreja (feat. N\u00edvea Soares) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1WGYEaDlxW9BTSFVCi664Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sangue de Jesus",
         "url": "https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 508432,
       "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
       "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Preto no Branco 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 267170,
-      "name": "O Le\u00e3o E A Igreja (feat. N\u00edvea Soares) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1WGYEaDlxW9BTSFVCi664Z"
     },
     {
       "added_at": null,

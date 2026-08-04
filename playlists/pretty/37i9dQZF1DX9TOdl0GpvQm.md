@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 
 > deep dark ambient and half\-remembered hypnagogic soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,255 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,281 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 | 99 | [Voyager](https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [In Free Fall](https://open.spotify.com/album/6SG8tzZmlQBCQQSNzMmqQ2) | 4:04 |
 | 100 | [Sleep](https://open.spotify.com/track/2V5fHNhW9C1D5eSKx8zeSb) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv), [Social State](https://open.spotify.com/artist/4GBHW2hqb9GQEPNGKhFZo3) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:56 |
 
-Snapshot ID: `AAAAALSiQif5/KwrAZXjGbHUC1e95aTQ`
+Snapshot ID: `AAAAAKXB1P7zKQBgz7iag9h2QOdppibA`

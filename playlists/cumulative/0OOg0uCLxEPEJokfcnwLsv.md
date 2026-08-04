@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-600 songs - 1 day 13 hr 9 min
+604 songs - 1 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Bayou Icarus](https://open.spotify.com/track/7n6osuGmyUz8bRvMZEP82i) | [Neal Hooks & The Pocomoke Sound](https://open.spotify.com/artist/0KqasN66wKrXDSUmKgcIKZ) | [The Lure](https://open.spotify.com/album/50j6aryQYSXoJuzcTq6pku) | 3:28 | 2026-06-03 |  |
 | [Be Able to Love](https://open.spotify.com/track/2WMcEWz3MGj2IkpaFxOi3W) | [EVGHENI TULGENCO](https://open.spotify.com/artist/65mGQebSGhzcpia0NZ4X3w) | [Be Able to Love](https://open.spotify.com/album/7aeQRtbSegbwni28Yb8QRo) | 3:06 | 2026-02-10 | 2026-03-04 |
 | [Been So Long](https://open.spotify.com/track/181JBo6fgmCPougtkMU4xO) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Been So Long](https://open.spotify.com/album/4KdRx4zeATizHzXA5T45TK) | 4:01 | 2025-12-20 | 2026-01-21 |
+| [Behind](https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9) | [Em Armstrong](https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh) | [Behind](https://open.spotify.com/album/7sqy34kAW0gLFJwdLSMMnA) | 2:48 | 2026-08-03 |  |
 | [Bella](https://open.spotify.com/track/1ASPU1mX9IhqhiwcCN3WHb) | [Andacia](https://open.spotify.com/artist/6V8nJSc2EDQYdwfKzNA9pd) | [Bella](https://open.spotify.com/album/66UowctBk5iPa9KdvyxeZO) | 3:21 | 2026-01-12 | 2026-02-23 |
 | [Below](https://open.spotify.com/track/7EN56vFE3dTbkuzaIBkplR) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Below](https://open.spotify.com/album/3PazqcjJO7Kyz3BUJMXxuL) | 3:06 | 2026-05-14 | 2026-06-13 |
 | [Better Than I](https://open.spotify.com/track/2UQHkffxecaIu9irBNoqPD) | [MILK Band](https://open.spotify.com/artist/6ycvZDVu8yYCsbit6IaiX9) | [Better Than I](https://open.spotify.com/album/75MGG0n4U8VMzlEZ1RqZc3) | 3:48 | 2026-03-14 | 2026-04-20 |
@@ -280,6 +281,7 @@
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2025-12-04 | 2025-12-28 |
 | [Let's Make It Rock Tonight](https://open.spotify.com/track/18maw03KeLnbdf43RdvzUo) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [Let's Make It Rock Tonight](https://open.spotify.com/album/0ofGHU4AlfThKM5VpLci8L) | 3:55 | 2025-10-28 | 2025-11-22 |
 | [Letzter Kuss](https://open.spotify.com/track/24Y239nFAW5fky8A9BVH1r) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Letzter Kuss](https://open.spotify.com/album/1jevubVvUvW6JRZqiJgzMJ) | 4:01 | 2026-02-09 | 2026-03-04 |
+| [Life in Exile](https://open.spotify.com/track/4uHOiPCPBMxe1ymp8EcxRT) | [Magacadabra](https://open.spotify.com/artist/2jSMVZ9eXDVIHDtk3ulfxs) | [Life in Exile](https://open.spotify.com/album/7w2eadvylY77gF21YMjv7P) | 3:14 | 2026-08-03 |  |
 | [Lifeless](https://open.spotify.com/track/39zRV9wo9QfVPAGOJhW5aI) | [No Friends Left](https://open.spotify.com/artist/4SDEigdJCKwEnByUzQhgNj) | [I Wanna Be 16 Again!](https://open.spotify.com/album/62Y6hCa2mpdMYszePDaolr) | 3:00 | 2026-04-03 | 2026-05-26 |
 | [Lifeline](https://open.spotify.com/track/7EzGUbGfNwbOdtTzX4MgO5) | [Hope Darling](https://open.spotify.com/artist/1SyIewURAwfxwMLlHhUgvE) | [Ensō](https://open.spotify.com/album/4OOsu5uRBfA00ZJTSyK6Zx) | 3:32 | 2026-04-24 | 2026-06-13 |
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-10 | 2026-01-21 |
@@ -377,6 +379,7 @@
 | [Pocket Friend](https://open.spotify.com/track/1o3vJA4CscYdUMNALRorHX) | [The Wild Life](https://open.spotify.com/artist/6v89r44ZBn2egA98VSHrTD) | [Pocket Friend](https://open.spotify.com/album/4eJU1HUt931tQ3dlte1ENP) | 3:21 | 2026-06-11 |  |
 | [Pool Song \(Swimming in the 70's\)](https://open.spotify.com/track/44o7PXa6JAO9W8oTUHd4EP) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [Gazing\- Guitar Remix/Pool Song](https://open.spotify.com/album/5OdH9EuKxuDm5YPug0jFRy) | 1:35 | 2026-05-28 |  |
 | [Pop Punk Was Dead](https://open.spotify.com/track/18cYjNMNy2KDjiCTvl2XY8) | [Bad Halloween](https://open.spotify.com/artist/2twrObmRnmEG5sF2njB0tr) | [Pop Punk Was Dead](https://open.spotify.com/album/1RsRlGI6VRobAOMVhdZEV3) | 3:32 | 2025-09-17 | 2026-04-20 |
+| [Popcorn and Candyfloss](https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Popcorn and Candyfloss](https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD) | 4:58 | 2026-08-03 |  |
 | [Postal Secret](https://open.spotify.com/track/4Pi6nD8JQiqvHVFZXULyjs) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 4:34 | 2026-07-20 |  |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-12-20 | 2026-01-21 |
 | [Pretty Fishes](https://open.spotify.com/track/1tSeBBNx6bG2y7t8FLHI4y) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [Sugarfoot](https://open.spotify.com/album/02niz58UNJFpGGgOB3HOrO) | 3:30 | 2026-01-03 | 2026-01-21 |
@@ -546,6 +549,7 @@
 | [Torn Apart And Wasted](https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ) | [Leave Behind](https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW) | [Torn Apart And Wasted](https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF) | 3:54 | 2025-12-30 | 2026-01-21 |
 | [Torre Pendente](https://open.spotify.com/track/3kfznZr0BRYko86AjlFrPj) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ) | [Man Made Machine](https://open.spotify.com/album/52IsEG2HxMOefw8ES1hyyG) | 5:07 | 2026-07-01 |  |
 | [Tragic Lullaby](https://open.spotify.com/track/0ygYT9IiBh07owS9z0owCX) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 6:20 | 2025-12-30 | 2026-05-17 |
+| [Trashed](https://open.spotify.com/track/2RgEsoX97YilRR1BA8V4mp) | [Mare E Sheehan](https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW) | [Trashed](https://open.spotify.com/album/4FDuK1FdjshRFxpHPYmZ7I) | 3:12 | 2026-08-03 |  |
 | [tried](https://open.spotify.com/track/4tpbidJIGZLC0aAEC6odzb) | [Shunk](https://open.spotify.com/artist/359TdwOBcq9EK1vT8IuQ5J) | [tried](https://open.spotify.com/album/462ANaG1kidEM2E9L9JbzK) | 4:17 | 2025-11-11 | 2025-12-12 |
 | [Twisting the Knife](https://open.spotify.com/track/3bbYJ9kP7fJkux2JZzSmvN) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Twisting the Knife](https://open.spotify.com/album/1G3EqM6MNhagdMwIbNZ7NU) | 2:40 | 2026-05-26 |  |
 | [Two Souls](https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Two Souls](https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa) | 4:00 | 2026-07-01 |  |

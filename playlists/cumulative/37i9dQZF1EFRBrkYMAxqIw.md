@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-206 songs - 10 hr 48 min
+208 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 | 2024-10-13 |  |
 | [Energy](https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Energy](https://open.spotify.com/album/1GdqL2xW6eVsnBhTRQmTVc) | 4:01 | 2024-10-24 |  |
 | [Escape](https://open.spotify.com/track/5UA23VfYZt4RZkF6g3nZAp) | [Dante Klein](https://open.spotify.com/artist/1b4DN8Vj0dnj5cceMFsRYN), [Raven & Kreyn](https://open.spotify.com/artist/6STjC3QJTieuM5WHHtkGuh) | [Escape](https://open.spotify.com/album/3cfs0TtaFisZ9d1mytwQvB) | 2:55 | 2025-02-01 |  |
+| [Everlasting](https://open.spotify.com/track/3fQpNZSQAR1Kf0X5IbSVoX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Everlasting](https://open.spotify.com/album/2VDsKC01rmUccAq2qcxFy2) | 2:37 | 2026-08-03 |  |
 | [Famous for a Day](https://open.spotify.com/track/0zPUSpMCNSn1ItUPANkCCs) | [LA Vision](https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Famous for a Day](https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M) | 2:51 | 2022-09-03 | 2025-04-12 |
 | [Feels Like Home](https://open.spotify.com/track/0Y1HzOAyIj8O6N3lnKmi2l) | [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Feels Like Home](https://open.spotify.com/album/31QEjfkSaLZPHpchsT997H) | 4:07 | 2022-05-25 |  |
 | [Fever](https://open.spotify.com/track/3QlC75jqpGZSpIi2xM0mfl) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Fever](https://open.spotify.com/album/2HEnmzQD2rjlbGzFnMhbxO) | 2:09 | 2023-12-13 |  |
@@ -66,7 +67,8 @@
 | [Funeral](https://open.spotify.com/track/2wjWIPP2y28H9wzoCHpUkF) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Funeral](https://open.spotify.com/album/0GiNJtmbdFTZElphnAnqiD) | 3:26 | 2022-09-03 | 2025-04-03 |
 | [Funeral](https://open.spotify.com/track/5OnpQJvF3btoiNmupKRTR0) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Conversations with Strangers](https://open.spotify.com/album/4B4gETALDH1ZhmqxSxYaNR) | 3:26 | 2025-04-02 |  |
 | [Get It Right](https://open.spotify.com/track/3Thw5feG3I2MP5TrToBcPU) | [HANNIE](https://open.spotify.com/artist/7vp58vF08Hg9TbDrYH2nAh) | [Get It Right](https://open.spotify.com/album/54oz9xG2H5FgYci2I8RQnK) | 2:54 | 2022-12-12 |  |
-| [Ghost town...](https://open.spotify.com/track/38oXrd1MqNYOTdhIpgDYJ1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ghost town...](https://open.spotify.com/album/2Fwcr34Ta0UdWAHtakPLdD) | 2:44 | 2026-05-09 |  |
+| [Ghost town...](https://open.spotify.com/track/38oXrd1MqNYOTdhIpgDYJ1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ghost town...](https://open.spotify.com/album/2Fwcr34Ta0UdWAHtakPLdD) | 2:44 | 2026-05-09 | 2026-08-04 |
+| [Ghost town...](https://open.spotify.com/track/6yPOtWOsflPZWc4z6Agnxx) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Dream inside a dream…](https://open.spotify.com/album/11H0ggNORjbmX0LhZ9iK2d) | 2:44 | 2026-08-03 |  |
 | [Give and Take](https://open.spotify.com/track/0ZmaOPRpl5f0zCseXw6Ppo) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/0TjJKCbJtyC0ufBoiCicgK) | 2:45 | 2024-11-11 | 2025-01-10 |
 | [Give and Take](https://open.spotify.com/track/4o1XGDEeTSjCHDwk2WOVqY) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Give And Take](https://open.spotify.com/album/1uOPjG1f6x1vEh8SQHQ8XS) | 2:45 | 2024-08-03 | 2024-11-11 |
 | [Give and Take](https://open.spotify.com/track/5d1DjzjzzCioNUDU8CJaey) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [Die Happy](https://open.spotify.com/album/1A80UhpC8KIRVJWhLSkcdI) | 2:45 | 2024-11-10 |  |

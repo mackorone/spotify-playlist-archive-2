@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: Young K\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,270 likes - 145 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,266 likes - 145 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 144 | [The Symphony of Fxxkboys \(minlee Remix\)](https://open.spotify.com/track/7etsBgkoZX9jywsQqXOj6Z) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL), [minlee](https://open.spotify.com/artist/72Gqg5WgtKqaOXWYNEYsJ4) | [The Symphony of Fxxkboys \(minlee Remix\)](https://open.spotify.com/album/6XDcZiFKUmUcddGG03OoFb) | 2:25 |
 | 145 | [It's Love](https://open.spotify.com/track/29VWlRv74frXsJBuDnOlVA) | [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [It's Love](https://open.spotify.com/album/2n5qpezMgZGg1LSMtIFbht) | 2:25 |
 
-Snapshot ID: `AAAAAKTKBBRkChJ3O8gMQpwhXDZpDEM4`
+Snapshot ID: `AAAAAKAvUJSkjupr+oRURWyjZ7VLcKqm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 902,539 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 902,873 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCACvgOVs5K.md) - [plain]
 | 99 | [Te Quiero](https://open.spotify.com/track/7xON9mfx7NSK9EAkcAsz0G) | [VITO \(UK\)](https://open.spotify.com/artist/4ipu1Wi05H8ZdEkvULDaKI), [Timeless oracle](https://open.spotify.com/artist/04WRRkb2yqJrFCeNm7WRmt) | [Loca EP](https://open.spotify.com/album/3wnwbQ8IeSBNcQe3cRvdoi) | 2:42 |
 | 100 | [Danca](https://open.spotify.com/track/1bSEok2LJmdLzaIYAj14bk) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Danca](https://open.spotify.com/album/4q7vgxW9x6ySjuYTb9IeGh) | 2:49 |
 
-Snapshot ID: `AAAAAAkDb8K61LUoEtocb+oB4tBdgLVc`
+Snapshot ID: `AAAAAPJjESQcVGyblnfXIKmcs1bAjQxn`

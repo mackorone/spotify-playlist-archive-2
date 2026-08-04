@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,601 likes - 150 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,517 likes - 150 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,16 +124,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 114 | [Not Healthy Anymore](https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx) | [Cale Tyson](https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy) | [Narcissist \- EP](https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT) | 4:01 |
 | 115 | [Wisteria](https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Wisteria](https://open.spotify.com/album/0RQdsJ1ZZv3iUSpW7tDOWU) | 2:49 |
 | 116 | [100 Proof](https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [100 Proof](https://open.spotify.com/album/3bzFV8jpkLzzCB5mmz1sDi) | 3:58 |
-| 117 | [All Now](https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [All Now](https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM) | 4:30 |
-| 118 | [On the Outside](https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [On the Outside](https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt) | 3:09 |
+| 117 | [On the Outside](https://open.spotify.com/track/0fUo33Ryw7ValBsv9YhIGS) | [Ethan Gruska](https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE) | [On the Outside](https://open.spotify.com/album/2qnDuMSAFO9PADlED1CnLt) | 3:09 |
+| 118 | [All Now](https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [All Now](https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM) | 4:30 |
 | 119 | [Third Way](https://open.spotify.com/track/3IMUCgc92c7ciudifIGkLf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Begin Again \- EP](https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN) | 4:47 |
 | 120 | [We Cannot Resist \- Edit](https://open.spotify.com/track/6gk9Cnmk1TwKwVJWAJPLPa) | [LUMP](https://open.spotify.com/artist/4gQsGkfdB4uVrNBqo4MhmI), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM), [Mike Lindsay](https://open.spotify.com/artist/7JY39clELNh1MLQBJs6MAk) | [We Cannot Resist](https://open.spotify.com/album/1wvs3xZ4xOsFXG6jZJCttW) | 3:13 |
 | 121 | [Magic](https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Wilderness Within You](https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2) | 3:50 |
 | 122 | [Better Now](https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance \(Deluxe Version\)](https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr) | 2:53 |
 | 123 | [On A Beach](https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y) | [Hayden](https://open.spotify.com/artist/2EJpeCmBlwSNpb1GcTj1xp), [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [On A Beach](https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6) | 4:05 |
 | 124 | [It Is What It Is](https://open.spotify.com/track/04f6EedgUAAg2e1nSVOhyp) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Green to Gold](https://open.spotify.com/album/72XWeRa3UZSkxLkGs2kTHo) | 3:57 |
-| 125 | [Bummer Year](https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI) | [Good Looks](https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG) | [Bummer Year](https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG) | 4:31 |
-| 126 | [Any Dreams?](https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Where I Should End](https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v) | 5:18 |
+| 125 | [Any Dreams?](https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Where I Should End](https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v) | 5:18 |
+| 126 | [Bummer Year](https://open.spotify.com/track/46ySEWpdslulwyR8wwiqaI) | [Good Looks](https://open.spotify.com/artist/0ba3O2a1JNxb3oXbF74KcG) | [Bummer Year](https://open.spotify.com/album/6u5FIJFHHZmjLwHhpHvskG) | 4:31 |
 | 127 | [Growin' Down](https://open.spotify.com/track/364HspDHZe7P1vNHDiO4ic) | [Illiterate Light](https://open.spotify.com/artist/1vEqG4Bxz3YIMuDkIcvg6J) | [Growin' Down](https://open.spotify.com/album/5skKCz7lFau3mYIBFDdkw9) | 4:16 |
 | 128 | [Turn Away](https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Turn Away](https://open.spotify.com/album/6hUv29yu3O1seHBw0T9vhk) | 3:44 |
 | 129 | [Big Star \- Alt](https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Big Star \(Alt\)](https://open.spotify.com/album/6auwNlcYoq8giw1sZkOYHW) | 4:04 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Worldender](https://open.spotify.com/track/6VDvcEeDNYuUwUjgVg72QO) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Worldender](https://open.spotify.com/album/1Hs5Q0WA0rAHoFA8a6j77D) | 4:13 |
 | 150 | [Forever Had to End](https://open.spotify.com/track/1y8vdU1RBpQCIXp1tphNgb) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Forever Had to End](https://open.spotify.com/album/5ytUlTMjhqqyptHuseHrxW) | 3:42 |
 
-Snapshot ID: `AAAAAFIPsHvdPVJmvzXFDG44jAGjfIQ+`
+Snapshot ID: `AAAAAD8ZGRM3Zktn1ybQENYjag3NHTQi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,663 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,516 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 99 | [Romance Proibido \- Ao Vivo](https://open.spotify.com/track/2UxeBJPanPvF3Q2xH6zkbC) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Evoluiu, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/4RuiLiqSdL0dClN0JRtDVk) | 2:42 |
 | 100 | [Mande um Sinal / Ele e Ela \- Live](https://open.spotify.com/track/2Jysre3rcptlze7rb19rWo) | [Pixote](https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB) | [Pixote Sunset 2 \(Live\)](https://open.spotify.com/album/52Kq5NyUMyYcez0KkadgLd) | 5:04 |
 
-Snapshot ID: `AAAAAPRWkhuJEZND+zr/it9Jxc7oqdWw`
+Snapshot ID: `AAAAAGl2ydmWQiV0QLnP1WyCl79Xl7Nr`

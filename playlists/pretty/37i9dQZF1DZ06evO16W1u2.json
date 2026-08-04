@@ -1,12 +1,12 @@
 {
   "description": "This is Rio. The essential tracks, all in one playlist.",
-  "num_followers": 2938,
+  "num_followers": 2937,
   "original_name": "This Is Rio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAC5fVMXQKI8P+xtTMFAgWRk",
+  "snapshot_id": "am6IgAAAAACfDE6YinHFrE+rad6Z4LJP",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock And Qu\u00e9",
-        "url": "https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Pierdo la Raz\u00f3n",
-      "url": "https://open.spotify.com/track/46jGMyvOhutyYjxGCmdDD1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Vamos a Parar (Remasterizado)",
         "url": "https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 249480,
       "name": "Mi Partido Lo Har\u00e1 (Los Pol\u00edticos)",
       "url": "https://open.spotify.com/track/3zdQwqFZsh6QMONfCjxAoC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock And Qu\u00e9",
+        "url": "https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Pierdo la Raz\u00f3n",
+      "url": "https://open.spotify.com/track/46jGMyvOhutyYjxGCmdDD1"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cr\u00eda",
-        "url": "https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 169320,
-      "name": "Ag\u00fcita Pa'l Calor",
-      "url": "https://open.spotify.com/track/7L8P2Ml0FFKLdW9mSv6Bx8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donde Vamos a Parar (Remasterizado)",
         "url": "https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 212880,
       "name": "Profesora de Ingl\u00e9s",
       "url": "https://open.spotify.com/track/2p9DFRU8fiaevI5XMExkh7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 169320,
+      "name": "Ag\u00fcita Pa'l Calor",
+      "url": "https://open.spotify.com/track/7L8P2Ml0FFKLdW9mSv6Bx8"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Cr\u00eda",
-        "url": "https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "Dec\u00edas",
-      "url": "https://open.spotify.com/track/4nWnodUXqw2QlXYpijAUGI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock And Qu\u00e9",
         "url": "https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 291173,
       "name": "M\u00f3nica",
       "url": "https://open.spotify.com/track/48YO39ZxZzwHxFxj4GJYIH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "Dec\u00edas",
+      "url": "https://open.spotify.com/track/4nWnodUXqw2QlXYpijAUGI"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bella Luna",
-        "url": "https://open.spotify.com/album/2NWuCT5hftLuTKQYIvPKSQ"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 226984,
-      "name": "Bella Luna",
-      "url": "https://open.spotify.com/track/3EdCGCQWsGPm81CFcNeKhK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu y Yo",
         "url": "https://open.spotify.com/album/5hglsSmv0KUkQ51n14g7dO"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 184732,
       "name": "Tu y Yo",
       "url": "https://open.spotify.com/track/1p2oJoXRiijbnW3V0VvNLX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bella Luna",
+        "url": "https://open.spotify.com/album/2NWuCT5hftLuTKQYIvPKSQ"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 226984,
+      "name": "Bella Luna",
+      "url": "https://open.spotify.com/track/3EdCGCQWsGPm81CFcNeKhK"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 154555,
-      "name": "No Puedes Olvidarme",
-      "url": "https://open.spotify.com/track/4YjgkkJfnxL8CbrNJr1ZNG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Cr\u00eda",
         "url": "https://open.spotify.com/album/7cQwoIQfhimjKgRFSow19F"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 154555,
+      "name": "No Puedes Olvidarme",
+      "url": "https://open.spotify.com/track/4YjgkkJfnxL8CbrNJr1ZNG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 247560,
       "name": "Para Amarte",
       "url": "https://open.spotify.com/track/2AU3KqGwiwL7CCsfRFJqj7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 214168,
+      "name": "Esa Luz Se Va",
+      "url": "https://open.spotify.com/track/3DKiGHEJRwa1wyxOH2prnf"
     },
     {
       "added_at": null,
@@ -703,22 +719,6 @@
       "duration_ms": 181105,
       "name": "Estoy Cantando",
       "url": "https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 214168,
-      "name": "Esa Luz Se Va",
-      "url": "https://open.spotify.com/track/3DKiGHEJRwa1wyxOH2prnf"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: BOWKYLION
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,304 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,371 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 99 | [Loop \(ฉันจึงวนกลับมา\)](https://open.spotify.com/track/0Fye2qtgBqOzHxb4cPSjWb) | [ASIA7](https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz) | [Loop \(ฉันจึงวนกลับมา\) \- Single](https://open.spotify.com/album/05DGgZgqUX2HbssDax9YoL) | 3:50 |
 | 100 | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/track/0e4DnxHb7xjCqEPYv91v6t) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/album/4ul97lR8PnxEgpJnzVEMVC) | 4:10 |
 
-Snapshot ID: `AAAAANSLn37vF/TO+gm+0ybXEMWVuys3`
+Snapshot ID: `AAAAAGei/TsGlX6/hrN605LslCCFyF9Z`

@@ -1,12 +1,12 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 365971,
+  "num_followers": 365881,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO8HqoTDgcE01UpOkHxMV2uWAi9M",
+  "snapshot_id": "AAAAAJarnj0R2ZB3Sbko6f9xjTiiq80k",
   "tracks": [
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
+        "name": "Where Did Our Love Go: 40th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3W2FhBKieLAcrS4e9SHtr6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 151440,
+      "name": "Where Did Our Love Go - Stereo Version",
+      "url": "https://open.spotify.com/track/6yz8hKpO3s2byra8Et3w9x"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
         "name": "The Fabulous Miracles",
         "url": "https://open.spotify.com/album/5UKZIGXuxNMnGGFhkllgoz"
       },
@@ -1027,6 +1043,22 @@
       "duration_ms": 177706,
       "name": "You've Really Got A Hold On Me",
       "url": "https://open.spotify.com/track/107Vckb6BgV7NI36jxWQJM"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "Chapel of Love",
+        "url": "https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin"
+      },
+      "artists": [
+        {
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
+        }
+      ],
+      "duration_ms": 122344,
+      "name": "Iko Iko",
+      "url": "https://open.spotify.com/track/2xZPpUIcajScKX99PH0fD9"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1047,22 +1079,6 @@
       "duration_ms": 198600,
       "name": "Can't Help Falling In Love - with The Royal Philharmonic Orchestra",
       "url": "https://open.spotify.com/track/6sE53f6saWW6AwB5V8Z47U"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
-        "name": "Chapel of Love",
-        "url": "https://open.spotify.com/album/6gBGcBd26IFUPpBjsf6Gin"
-      },
-      "artists": [
-        {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
-        }
-      ],
-      "duration_ms": 122344,
-      "name": "Iko Iko",
-      "url": "https://open.spotify.com/track/2xZPpUIcajScKX99PH0fD9"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1095,22 +1111,6 @@
       "duration_ms": 191160,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
-        "name": "Where Did Our Love Go: 40th Anniversary Edition",
-        "url": "https://open.spotify.com/album/3W2FhBKieLAcrS4e9SHtr6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 151440,
-      "name": "Where Did Our Love Go - Stereo Version",
-      "url": "https://open.spotify.com/track/6yz8hKpO3s2byra8Et3w9x"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "The Ultimate Collection: Martha Reeves & The Vandellas",
-        "url": "https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Dancing In The Street - Single Version",
-      "url": "https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/56uffc8tCkLwRQ8HuhAfeL"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 173866,
       "name": "You're All I Need To Get By",
       "url": "https://open.spotify.com/track/5eZ6igEpm6n3h2ygKP3Vq4"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "The Ultimate Collection: Martha Reeves & The Vandellas",
+        "url": "https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Dancing In The Street - Single Version",
+      "url": "https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l"
     },
     {
       "added_at": "2024-06-03 14:49:59",

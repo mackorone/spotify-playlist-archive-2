@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,885 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,873 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Xgp6iJAFjW.md) - [plain]
 | 99 | [El Burrito de Belen](https://open.spotify.com/track/2qAmDGh1zscmI2VHWngoFq) | [Chino Espinoza y Los Duenos del Son](https://open.spotify.com/artist/7jSIb1Ypq4ZYLYBmh39xOP) | [Ponle Salsa a Tu Navidad](https://open.spotify.com/album/4RDkbrYWX7pb7BH3lhMIC1) | 5:00 |
 | 100 | [Tan Pronto Llegan los Reyes](https://open.spotify.com/track/1DK8HS1wnJjMI4wLykcxfZ) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Tarjeta de Navidad III](https://open.spotify.com/album/3dRrWUIYklvUAByzs1mMvo) | 4:46 |
 
-Snapshot ID: `AAAAAGoTCSdRMEvqrFo6Uzd2AyzDnxdG`
+Snapshot ID: `AAAAAI1IubA3Phn9z3Pq5cuzM9wSrN3m`

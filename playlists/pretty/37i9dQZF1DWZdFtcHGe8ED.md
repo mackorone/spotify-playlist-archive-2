@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,851 likes - 200 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,575 likes - 200 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,21 +192,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 182 | [Brace for Impact](https://open.spotify.com/track/6nqhwI9sRHsGAtMYUkGo0j) | [Flotsam & Jetsam](https://open.spotify.com/artist/1ApBh0VSoxRjjT3kFQZrpz) | [Brace for Impact](https://open.spotify.com/album/60F8SQR15qRIpJV24q0gX1) | 4:33 |
 | 183 | [Recycled Hate](https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Recycled Hate](https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7) | 3:25 |
 | 184 | [Killer Of Killers](https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v) | [Zig Zags](https://open.spotify.com/artist/5Na7fSSXoKezg6Q1ebPqs3) | [Killer Of Killers](https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk) | 3:48 |
-| 185 | [Metal Forces \- Remastered 2011](https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [The Force \(Remastered 2011\)](https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ) | 6:36 |
-| 186 | [Leave Nothing Behind](https://open.spotify.com/track/26iWpcFzOyxgQWqlozKdsa) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Leave Nothing Behind](https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl) | 4:11 |
+| 185 | [Leave Nothing Behind](https://open.spotify.com/track/26iWpcFzOyxgQWqlozKdsa) | [Dust Bolt](https://open.spotify.com/artist/4YTVF2l3v9pGQz1QbUfg2q) | [Leave Nothing Behind](https://open.spotify.com/album/1yrl6UZGXbdWp5QR9lQanl) | 4:11 |
+| 186 | [Metal Forces \- Remastered 2011](https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [The Force \(Remastered 2011\)](https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ) | 6:36 |
 | 187 | [Prove Them Wrong](https://open.spotify.com/track/3W557pYlVALCtGHlCJEgIa) | [Jenner](https://open.spotify.com/artist/1kWUEqAWJpVOFU654bkxzU) | [Prove Them Wrong](https://open.spotify.com/album/7rqwoZ4g2cBEAnAyEYUbE7) | 4:57 |
 | 188 | [Casket](https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Casket](https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS) | 1:53 |
 | 189 | [Egyptron](https://open.spotify.com/track/46pYNjo4mtvlVg9E8WMZTj) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN), [The Egyptian Lover](https://open.spotify.com/artist/4iiBwQutE2Bh3bJ5N7jXnP) | [BATS](https://open.spotify.com/album/2AChbUajQYVEq5lntoghx3) | 5:00 |
 | 190 | [A Bitter Pill](https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb) | [Razor](https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B) | [A Bitter Pill](https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr) | 2:47 |
 | 191 | [Reap What You Sow](https://open.spotify.com/track/0PbOpIcpyKYKfL3Iuz4g9S) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Reap What You Sow](https://open.spotify.com/album/1PuGGc7XpxBaAlizciA24e) | 3:58 |
-| 192 | [Glock 'n' Roll](https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Genesis XIX](https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ) | 5:02 |
-| 193 | [Thermonuclear Devastation of the Planet Earth \- 2025 Re\-Recording](https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Origins Of Aggression](https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc) | 1:54 |
+| 192 | [Thermonuclear Devastation of the Planet Earth \- 2025 Re\-Recording](https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Origins Of Aggression](https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc) | 1:54 |
+| 193 | [Glock 'n' Roll](https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Genesis XIX](https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ) | 5:02 |
 | 194 | [Snob \(feat\. Jasta\)](https://open.spotify.com/track/6MFyOWhWGUGL5PHb1KVCb9) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59), [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP) | [Snob \(feat\. Jasta\)](https://open.spotify.com/album/7r0lZzGYhG3al65li0dnhQ) | 4:33 |
 | 195 | [Our Lady of Speed](https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Deep Cuts & Shallow Graves](https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS) | 3:50 |
 | 196 | [I DON'T CARE](https://open.spotify.com/track/7HrJJfe4Aey9LaTUCE9mU8) | [Rebellix](https://open.spotify.com/artist/14vv7UPCgmn92Dw72ZJi5O) | [I DON'T CARE](https://open.spotify.com/album/6hqGICaMW5DYamLbFJKV6B) | 3:13 |
 | 197 | [In Thrash We Trust](https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2) | [Artillery](https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720) | [In Thrash We Trust](https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU) | 4:09 |
-| 198 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 |
-| 199 | [Friendly Fire](https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Friendly Fire](https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R) | 3:36 |
+| 198 | [Friendly Fire](https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Friendly Fire](https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R) | 3:36 |
+| 199 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 |
 | 200 | [Bleed Them Dry](https://open.spotify.com/track/4sf35u9nKrEGQL7lqORuQJ) | [Morbid Saint](https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p) | [Swallowed by Hell](https://open.spotify.com/album/0pK6hmgfrQiEeRDHKkDQG2) | 5:23 |
 
-Snapshot ID: `AAAAAKnZ4/jEJsN7H7GSi7QyDbE1oZeR`
+Snapshot ID: `AAAAAKNstMOY26HoSdad+CJ87RWZfNYs`

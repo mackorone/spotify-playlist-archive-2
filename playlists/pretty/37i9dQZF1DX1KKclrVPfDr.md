@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,569 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,567 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 49 | [Kothwa Upar Baba \(Wedding Song\)](https://open.spotify.com/track/11w8nTWqAWIZ33GvWyYklB) | [Khushi Kakkar](https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu) | [Kothwa Upar Baba \(Wedding Song\)](https://open.spotify.com/album/7is37iX44ubPEy8hqwmEfq) | 2:20 |
 | 50 | [Sone Ke Supuliya](https://open.spotify.com/track/22UpBY3kHUUkAFMMA3Olxu) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Sone Ke Supuliya](https://open.spotify.com/album/5hE79CfvhWGGWbKd5KImz1) | 4:36 |
 
-Snapshot ID: `AAAAAK8zUVxOeCpz6P3442Wy8bSayobT`
+Snapshot ID: `AAAAABghHQMPbfpTFMYUDiPSmwguJPce`

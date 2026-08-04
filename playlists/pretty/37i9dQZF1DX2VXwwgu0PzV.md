@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Rotimi Keys & Greatman Takit
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,024 likes - 130 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,025 likes - 130 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wake Up](https://open.spotify.com/track/77L7d8qInzLPDJxCziLq6O) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Mario Cypha](https://open.spotify.com/artist/0hOXO3OUYYuB7TRggi9g6b) | [Wake Up](https://open.spotify.com/album/06cgDg8yVa9joyL408a2fb) | 2:40 |
 | 2 | [Nobody Be Like You](https://open.spotify.com/track/6OdsMqq3y4wwaVp5KdroaC) | [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Nobody Be Like You](https://open.spotify.com/album/47ZoXmzm0kWFEOp42o6HZF) | 3:00 |
-| 3 | [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:41 |
+| 3 | [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:30 |
 | 4 | [Good Day](https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Good Day](https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc) | 2:53 |
 | 5 | [Nobody](https://open.spotify.com/track/21DQSV4ggmET2fI4dxFLxa) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [Yield](https://open.spotify.com/album/6aCjywAMr9mCKITGSKWHHl) | 2:18 |
 | 6 | [Victory II](https://open.spotify.com/track/0wHtW8xL9e8ZcmYHZF2Z56) | [Trulyf](https://open.spotify.com/artist/5ZUa3dmEgvwGwb8h8bA3hl), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Victory II](https://open.spotify.com/album/1jNXrlwsFkS9n1nr4JU65u) | 2:45 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 88 | [Burning](https://open.spotify.com/track/55dTzICXCCrSEwKLyoeaYr) | [Itohan](https://open.spotify.com/artist/20fyD4LblbtXAouj5h8IT1) | [Burning](https://open.spotify.com/album/5obXaepp0EfarEVrSmVSDi) | 2:27 |
 | 89 | [All Things Bright and Beautiful](https://open.spotify.com/track/7trlpSHGS60HRs88w7Z3cA) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR) | [All Things Bright and Beautiful](https://open.spotify.com/album/4y9p1zP9cmpIGcjHsEg3zD) | 2:34 |
 | 90 | [BLESSINGS](https://open.spotify.com/track/2sXq9JSLiOkZzmrDWHrEez) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [BLESSINGS](https://open.spotify.com/album/1KWV3j2ZHfAONB0MAyEoCK) | 2:34 |
-| 91 | [Grace \- Remix](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Remix\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 |
+| 91 | [Grace \- Collab Version](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Collab Version\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 |
 | 92 | [Power Of My Own](https://open.spotify.com/track/5Xa0EL9BMheLI9r5ivZ4yA) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Power Of My Own](https://open.spotify.com/album/4IoNSQp9DhL7KbpR823WPW) | 2:49 |
 | 93 | [Miracle](https://open.spotify.com/track/2dUKow1aD5tsKWc6GzsTqO) | [Kingsley Amiah](https://open.spotify.com/artist/13BrcJ888g2SIrywaVEfCi) | [Miracle](https://open.spotify.com/album/09MDCYAg75qzebKZ3QwR3L) | 2:47 |
 | 94 | [EZI CHINEKE \(DRILL\)](https://open.spotify.com/track/4LNulzWo7heM1Kznwfrm0t) | [Trenches Man](https://open.spotify.com/artist/4RqMgE1wtKcbcV7n6t5zPa), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [EZI CHINEKE \(DRILL\)](https://open.spotify.com/album/5VLznNKBObYkZUtvfjFe6j) | 3:12 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 129 | [Amen Amen, Blessing and Glory](https://open.spotify.com/track/5n4gFyh6P2guexy5QsWm8y) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Beulah Land Music](https://open.spotify.com/artist/3EcGsz8ULgfWoJl8D60bBh) | [Amen Amen, Blessing and Glory](https://open.spotify.com/album/4mZQkyocbZKfwjLAhTo1zK) | 2:34 |
 | 130 | [Pain Killer](https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm) | [Saelem](https://open.spotify.com/artist/78bIYHmB39w825leFgF6Wb) | [Pain Killer](https://open.spotify.com/album/0IsBgS4ulHe5hchLBo5Xvc) | 2:52 |
 
-Snapshot ID: `AAAAABxLYdl889ShOs0ZHayEhu2geEDC`
+Snapshot ID: `AAAAAGvS2Zid1KIhNa3TRKY3V2YKNA5z`

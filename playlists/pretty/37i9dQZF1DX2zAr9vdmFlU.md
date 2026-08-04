@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,271 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,143 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 99 | [Sin Rumbo](https://open.spotify.com/track/4lPt2Wyz2u92f6BC8gb93O) | [Otros Aires](https://open.spotify.com/artist/4V8yy6XGCvl6cy2UihbH2h) | [Otros Aires](https://open.spotify.com/album/5NyB7MRoZ81kGJz7uRpHmd) | 3:53 |
 | 100 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 |
 
-Snapshot ID: `AAAAAEa/e5V9Hr28pSE5Vb45Yr/ZKCvb`
+Snapshot ID: `AAAAALrEZszeogqrzEdD5tQ9e1qdyFTK`

@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 99 | [Czuję, więc jestem?](https://open.spotify.com/track/0MAuyJNMARuj6WtOXeI96x) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Czuję, więc jestem?](https://open.spotify.com/album/0watoDNiZdQSkbNesj21rq) | 3:10 |
 | 100 | [Lonely](https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Conditions](https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ) | 2:11 |
 
-Snapshot ID: `AAAAAANDdkD9alIWVWlQEZLg/oSgOk3u`
+Snapshot ID: `AAAAAFxL6dMXY4xQ/xvGg8vJgPdr4rxM`

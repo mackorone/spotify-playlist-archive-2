@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 137237,
       "name": "Bonde da Rock",
       "url": "https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5"
@@ -740,6 +740,36 @@
       "duration_ms": 126857,
       "name": "Deli",
       "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+    },
+    {
+      "album": {
+        "name": "DID IT AGAIN (feat. Fred again..) [cu.rve Remix]",
+        "url": "https://open.spotify.com/album/6NNJKbawvOg7MABiq0ZwRL"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        },
+        {
+          "name": "Elzzz",
+          "url": "https://open.spotify.com/artist/0fGy9jPiPxcaoXHpQnjPy7"
+        },
+        {
+          "name": "cu.rve",
+          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "DID IT AGAIN (feat. Fred again..) - cu.rve Remix",
+      "url": "https://open.spotify.com/track/580gr4q6E3ih5xXVF2GgGZ"
     },
     {
       "album": {

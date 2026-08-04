@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 
 > A trilha perfeita pra embalar seu sono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777,551 likes - 158 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,139 likes - 158 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 | 157 | [Soft Corals](https://open.spotify.com/track/7DqRtx3iWhTVEfPL4feQNs) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Soft Corals](https://open.spotify.com/album/5PStymsZrftcSxP5rO2hgF) | 3:12 |
 | 158 | [Placid Meadow](https://open.spotify.com/track/1lASWxoxCu2S2HC7IsKgxJ) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Placid Meadow](https://open.spotify.com/album/2NttgSl71sdervU4tsb5sq) | 2:45 |
 
-Snapshot ID: `AAAAALbUs2DhaSWa2pjPu+LY1brA70+9`
+Snapshot ID: `AAAAAC574DxGwuRzXcaYSPi4j1fis5Bl`

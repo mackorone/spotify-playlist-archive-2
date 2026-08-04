@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G2MXp8YYmm.md) - [plain]
 
 > Pop'un sevilen isimleri\. Kapak: Ozan Doğulu, Yaşar
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,092 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,041 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G2MXp8YYmm.md) - [plain]
 | 99 | [Kıyamam](https://open.spotify.com/track/1wTuFiLKGP0QGosash4sAk) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Kıyamam](https://open.spotify.com/album/4e0FTxpX8a5cfcOFOhhAjO) | 2:42 |
 | 100 | [İhanet](https://open.spotify.com/track/3dR9YEPi2Or5atvqfS4jcA) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [İhanet](https://open.spotify.com/album/3hbhhLrt7tloTR1awunqBh) | 2:54 |
 
-Snapshot ID: `AAAAAHutof9UceQbqv+3irU2Fcr9t/av`
+Snapshot ID: `AAAAAJMlzS0rVnpuWoxbZsWygJLzMaqD`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5v6MaLqxxiqzxlVKg0gUBg">Julia Church</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-123 songs - 7 hr 29 min
+124 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [I Don't Think I Love You Anymore](https://open.spotify.com/track/1os3LM7fXjKRJowVkWZnwu) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [I Don't Think I Love You Anymore](https://open.spotify.com/album/05AOf7DlzBSXcuNlJUXI0A) | 2:52 | 2026-02-20 |  |
 | [If I Stayed](https://open.spotify.com/track/5XIYXLS7Arc0OBSpRtD5tp) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y), [Modera](https://open.spotify.com/artist/5srbzu0tyZ1Wb1HgDOqVFj) | [Second Sight](https://open.spotify.com/album/5I6PqYr0qD0CJjXa9IGqE7) | 4:14 | 2026-02-20 |  |
 | [Imagine](https://open.spotify.com/track/5eFxAvs1EBR5PrWGWs3hkG) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [We Could Be Love](https://open.spotify.com/album/7MXx2NOHN8IsVPY9x57QXU) | 3:38 | 2025-10-27 |  |
-| [In Every Life \- SILK Version](https://open.spotify.com/track/27chjrIiiL07l6NxyMJMsg) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [In Every Life \(SILK Version\)](https://open.spotify.com/album/2fNiVtBrfi1G7Zc09Y2T4g) | 3:12 | 2026-07-14 |  |
+| [In Every Life](https://open.spotify.com/track/7bxtK5wS0jWP7GouQmfQIl) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [In Every Life](https://open.spotify.com/album/0xEjOYGalNW8eguoP9E6Bo) | 3:24 | 2026-08-03 |  |
+| [In Every Life \- SILK Version](https://open.spotify.com/track/27chjrIiiL07l6NxyMJMsg) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [In Every Life \(SILK Version\)](https://open.spotify.com/album/2fNiVtBrfi1G7Zc09Y2T4g) | 3:12 | 2026-07-14 | 2026-08-04 |
 | [In The Wild](https://open.spotify.com/track/6qdawS2KDh5yAeojdhjYMi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [In The Wild](https://open.spotify.com/album/3RWogqgYqXE2o8KNUQvBuc) | 2:29 | 2026-04-15 |  |
 | [Japan](https://open.spotify.com/track/0TR0PalM9XZbbCp05H6NxH) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Japan](https://open.spotify.com/album/6pW4GJpv9gnYTnqsrnMeKg) | 3:59 | 2025-10-27 |  |
 | [Let Me Down \(Easy\)](https://open.spotify.com/track/0DsiVQyMcUSejXJ2lRSVAd) | [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [To Have, Not Just to Hold](https://open.spotify.com/album/6hbjxnwPHX21iQmpzqUnma) | 4:04 | 2025-10-27 |  |

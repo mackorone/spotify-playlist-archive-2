@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,899,049 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,897,994 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [alone](https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Robertson](https://open.spotify.com/artist/0RCvK1v4c4eoyieCb41Ums) | [alone](https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL) | 4:25 |
 | 100 | [Hours](https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Hours](https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN) | 4:08 |
 
-Snapshot ID: `AAAAAIHksodytw/StLV+SvcyhyFbwg78`
+Snapshot ID: `AAAAADJmzqaKi8ikWwXOeKHGrdylatKg`

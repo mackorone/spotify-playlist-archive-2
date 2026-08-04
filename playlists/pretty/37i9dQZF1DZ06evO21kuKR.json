@@ -1,12 +1,12 @@
 {
   "description": "This is Moneybagg Yo. The essential tracks, all in one playlist.",
-  "num_followers": 98881,
+  "num_followers": 98852,
   "original_name": "This Is Moneybagg Yo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAACI5so+nB4Be58+KrWTCHxb",
+  "snapshot_id": "am6IgAAAAABiiG8a12mLYoI2f3cOPuwN",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "All Dere (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PTPOM 2.0",
         "url": "https://open.spotify.com/album/6Cb1ZozVRmOw4HlD4UY92u"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 162168,
       "name": "PTPOM 2.0",
       "url": "https://open.spotify.com/track/5sRNp1lJG6LBS1mQgDZOAb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "All Dere (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/0KLbL3svWeZyhE02nSW8QG"
     },
     {
       "added_at": null,
@@ -639,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blockchain",
-        "url": "https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 195153,
-      "name": "LLC (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SPEAK NOW OR...",
         "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 133136,
       "name": "OUTTA TOWN (feat. BossMan Dlow)",
       "url": "https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blockchain",
+        "url": "https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 195153,
+      "name": "LLC (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev"
     },
     {
       "added_at": null,

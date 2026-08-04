@@ -1,12 +1,12 @@
 {
   "description": "This is Wale. The essential tracks, all in one playlist.",
-  "num_followers": 40844,
+  "num_followers": 40825,
   "original_name": "This Is Wale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAACNAejq6G+AmPapTIC+3FUg",
+  "snapshot_id": "am6IgAAAAAA57ByIa4/HOe3MN/95VVKh",
   "tracks": [
     {
       "added_at": null,
@@ -443,26 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 209182,
-      "name": "FEELINGS ON SILENT (feat. Wale)",
-      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ambition",
         "url": "https://open.spotify.com/album/0jCVC8ndYYOooEY2YTO1l6"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 232661,
       "name": "The Body (feat. Jeremih)",
       "url": "https://open.spotify.com/track/1cOi4OoRlpOznxiRa8FfHf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 209182,
+      "name": "FEELINGS ON SILENT (feat. Wale)",
+      "url": "https://open.spotify.com/track/0XQFACvy0OCADmCIgHNtXJ"
     },
     {
       "added_at": null,
@@ -623,34 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
-        "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 247293,
-      "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
-      "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Furious 7: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm"
       },
@@ -679,6 +651,34 @@
       "duration_ms": 211908,
       "name": "Ride Out",
       "url": "https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
+        "url": "https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 247293,
+      "name": "Bag of Money (feat. Rick Ross, Meek Mill & T-Pain)",
+      "url": "https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh"
     },
     {
       "added_at": null,

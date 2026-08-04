@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: MARCKRIS OF BUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,138 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,148 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 12 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
 | 13 | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE) | 4:53 |
 | 14 | [ลองกอด \(smoke\)](https://open.spotify.com/track/3IRuTNP7lA7H9yad6ArQ8h) | [DICEBLUE](https://open.spotify.com/artist/1LeTvtKl5eAkBIzSzXY8Jv), [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [ลองกอด \(smoke\)](https://open.spotify.com/album/4j5mY7lTZYH99bY7EB1gac) | 4:06 |
-| 15 | [จำใจ \(Gone Away\)](https://open.spotify.com/track/38Arv4CQ4Gil0Z1VUAl3qb) | [Gawin Caskey](https://open.spotify.com/artist/6KLzn6hqkx6hk8o9X2fTpN) | [จำใจ \(Gone Away\)](https://open.spotify.com/album/6tISxzG9OMJnK2EBACyBj5) | 4:07 |
+| 15 | [จำใจ \(Gone Away\)](https://open.spotify.com/track/38Arv4CQ4Gil0Z1VUAl3qb) | [GAWIN](https://open.spotify.com/artist/53lxBwoaw3sREQ72dQ4ExJ) | [จำใจ \(Gone Away\)](https://open.spotify.com/album/6tISxzG9OMJnK2EBACyBj5) | 4:07 |
 | 16 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 |
 | 17 | [143](https://open.spotify.com/track/5tkyPx7aCQ9f7N0Y0qmz2v) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [143](https://open.spotify.com/album/6J636qRw7XgBSXvlCk0q6D) | 2:15 |
 | 18 | [ปักเมนแฟน \(I STAN YOU\) \- From GELBOYS 2 ตกอยู่ในสถานะติ่งแฟน](https://open.spotify.com/track/2fSEAfvpGg4drnweGfCMQu) | [PP KRIT](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T), [NEX OF BUS](https://open.spotify.com/artist/3anNEqSsXtlYGvEbNI8AU8), [Onglee PROXIE](https://open.spotify.com/artist/0rO2jAMF4BotxgJi9yi4rX), [GELBOYS](https://open.spotify.com/artist/5YvJNC1t2jBXATQmhwyj5w) | [ปักเมนแฟน \(I STAN YOU\) \[From GELBOYS 2 ตกอยู่ในสถานะติ่งแฟน\]](https://open.spotify.com/album/3U36l9cCWzHB6LFR3oNmLY) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
 | 50 | [ปักใจ \(Still\) \- Ost\. ภพเธอ Love Upon a Time Series](https://open.spotify.com/track/3xgbJWnKccTeGlLFjFeE1Z) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [ปักใจ \(Still\) \[Ost\. ภพเธอ Love Upon a Time Series\]](https://open.spotify.com/album/4GyqFPxBc3cwlm8Y2c0eXs) | 3:31 |
 
-Snapshot ID: `AAAAAPP+SBBg3zA4Kc1nkaGtgTYR0B3L`
+Snapshot ID: `AAAAAHFY2XYlIv/2frVLA7RVc+HkFEUQ`

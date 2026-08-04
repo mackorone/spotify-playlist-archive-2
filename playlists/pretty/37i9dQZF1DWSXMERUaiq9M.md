@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > 🚀 when ur love language is bpm 🚀  Cover: southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,488 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,008 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 99 | [Coming Home](https://open.spotify.com/track/3T4LnWo07y2jlJoe4kedly) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Coming Home](https://open.spotify.com/album/2CcgpiaIAMwGLXUAP7Geax) | 2:48 |
 | 100 | [Phonky Tribu](https://open.spotify.com/track/7aIb17DMLcOhLJIc9vF6Aa) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [The Midnight Club GT](https://open.spotify.com/album/6a2QtF55Q67Tr69arnzPQW) | 4:46 |
 
-Snapshot ID: `AAAAAB7sdQZvG23LvdVDSmPWlym5tQNW`
+Snapshot ID: `AAAAAIw0ZObHTtMliS7yrRwmzDIsB66U`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: El Plan De La Mariposa
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,607 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,596 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 99 | [Hermoza From Heaven](https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Ninja Mental \- Unplugged MTV](https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c) | 4:37 |
 | 100 | [Love Song \- Acústico](https://open.spotify.com/track/4tDpOMKNX8oX2iQkwSnRHH) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 4:05 |
 
-Snapshot ID: `AAAAAM48CIB4ebvcY8l9Zs+Gl6yqCYjM`
+Snapshot ID: `AAAAAIPuseJXK2XW9Zndw68X834YvAZJ`

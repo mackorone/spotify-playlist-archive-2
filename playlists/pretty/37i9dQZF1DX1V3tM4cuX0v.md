@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 
 > 50 найгарячіших пісень в Україні\. Обкладинка: Анна Трінчер
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,350 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,365 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V3tM4cuX0v.md) - [plain]
 | 49 | [Олєг](https://open.spotify.com/track/40y6wpbyTXB2DGzaBrLC7f) | [Шугар](https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI) | [Олєг](https://open.spotify.com/album/6lOzQGmj0BlD3fz5YDY3o2) | 2:57 |
 | 50 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
 
-Snapshot ID: `AAAAAKcp2lG1ERvowF3f6E2VE3BiyOyI`
+Snapshot ID: `AAAAAGwC9Vonyrmb/2LG7shGStL8msHl`

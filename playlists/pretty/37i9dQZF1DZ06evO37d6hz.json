@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAABioQ2BdMJeKSt7yGYW2mJL",
+  "snapshot_id": "am6IgAAAAADMGbUHQd/Wc/R7XHQOQQWt",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miniatures 2 Edited By Morgan Fisher",
-        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
+        "name": "Common Ground, Vol. 1",
+        "url": "https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 81040,
-      "name": "Soundtrack For Sandin",
-      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
+      "duration_ms": 214883,
+      "name": "At Sea",
+      "url": "https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM"
     },
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miniatures 2 Edited By Morgan Fisher",
+        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 81040,
+      "name": "Soundtrack For Sandin",
+      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 171874,
       "name": "Taking It Further",
       "url": "https://open.spotify.com/track/6Ph3sAJMW1MXr0X6tAltVp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Common Ground, Vol. 1",
-        "url": "https://open.spotify.com/album/7m1hNJg5fKlw5WHn1sI7oM"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "At Sea",
-      "url": "https://open.spotify.com/track/7BuMYswqgm6BT5kEPY0EFM"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,139 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,170 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XscWX9t6h.md) - [plain]
 | 99 | [Binboğa](https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39) | [Yalnayak](https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu) | [Binboğa](https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9) | 4:02 |
 | 100 | [Touch Me Not](https://open.spotify.com/track/1hY1xVHfG9wHrkF26mIYoT) | [Dengue Fever](https://open.spotify.com/artist/3wFHDAXLsjvclEtifEV7F5) | [Ting Mong](https://open.spotify.com/album/2km8A0QjXH4vXxYek57n7E) | 4:22 |
 
-Snapshot ID: `AAAAAG8pYkJut0FFMutC/b8AA5QCO6yf`
+Snapshot ID: `AAAAAPYnwdTRxQ+S2/QI7qo84F2Zr0/Q`

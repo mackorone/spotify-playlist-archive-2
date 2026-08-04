@@ -2,7 +2,7 @@
 
 ### [It's a Hit!](https://open.spotify.com/playlist/37i9dQZF1DWT1y71ZcMPe5)
 
-> The hottest songs you need to listen to right now\. Cover: JENNIE
+> The hottest songs you need to listen to right now\. Cover: Ariana Grande
 
 1,233 songs - 2 day 17 hr 2 min
 

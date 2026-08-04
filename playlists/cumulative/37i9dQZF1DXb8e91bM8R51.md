@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-418 songs - 23 hr 42 min
+419 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,7 @@
 | [Good Thing \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2Ss2x0xjGRsOXZiYslCKQE) | [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [War & Wonders](https://open.spotify.com/album/6yXIl5A3rqnIEW6kMX3NwN) | 3:39 | 2022-01-14 | 2022-07-29 |
 | [Good To U](https://open.spotify.com/track/5MD5P4u0egcug4bW6ihDVY) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [T3 of Slum Village](https://open.spotify.com/artist/1oSgBOaSWpCj6oo7lFnwaE), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq) | [Good To U](https://open.spotify.com/album/2LbfKWC16Qd56tDR0JQ3YO) | 3:09 | 2022-01-14 | 2022-03-05 |
 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-11-04 | 2025-01-18 |
-| [Gravity Glidin](https://open.spotify.com/track/6jOZZsNqqrPN1B4QZ8n9si) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Gravity Glidin](https://open.spotify.com/album/6d9ugzpUFY3DP5FGsPHPsJ) | 2:20 | 2022-01-14 |  |
+| [Gravity Glidin](https://open.spotify.com/track/6jOZZsNqqrPN1B4QZ8n9si) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Gravity Glidin](https://open.spotify.com/album/6d9ugzpUFY3DP5FGsPHPsJ) | 2:20 | 2022-01-14 | 2026-08-04 |
 | [Greatness](https://open.spotify.com/track/62Xth0Qh5PZrz1Xc6eEUxM) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [M.I.N.D.](https://open.spotify.com/album/2IH0olPWa0TGTYCt1o1YPs) | 3:43 | 2022-02-25 | 2022-07-29 |
 | [Green Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/track/0VPir804AaU2Iw1ardsDLS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Green Juice \(feat\. Pharrell Williams\)](https://open.spotify.com/album/0VZNwfArwS5haypFDKiXZO) | 2:54 | 2022-01-14 |  |
 | [Grinding All My Life](https://open.spotify.com/track/3R9j8urSPiBbapNbyuSYkE) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0) | [Victory Lap](https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef) | 2:55 | 2022-01-14 |  |
@@ -203,6 +203,7 @@
 | [I'm the Man \(with O.T\. Genasis\)](https://open.spotify.com/track/2gvBPA9OjjoXbxHeYA0MeF) | [Deux Twins](https://open.spotify.com/artist/7t39GP2opSKuK107Dp0Iae), [O.T\. Genasis](https://open.spotify.com/artist/1Zatb2YN4erBOoSivOXc0o) | [I'm the Man \(with O.T\. Genasis\)](https://open.spotify.com/album/2mLjObRQAapXuH9MaouvyV) | 1:45 | 2022-04-22 | 2022-07-28 |
 | [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 | 2025-09-19 |  |
 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 | 2022-10-28 |  |
+| [In My Lifetime](https://open.spotify.com/track/4BgGvnwGSkFVLO2od8FNUX) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [In My Lifetime](https://open.spotify.com/album/7Am0PvxtFWNhK3s1L2iz6C) | 4:27 | 2026-08-03 |  |
 | [In my lifetime \(feat\. Action Bronson\)](https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vinyl Days](https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru) | 1:48 | 2022-06-17 |  |
 | [Insomniak \(feat\. Rick Ross\)](https://open.spotify.com/track/0qdSK9Nr5OAvWzPA5OHxw7) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:59 | 2022-01-14 | 2024-09-13 |
 | [Is This Love \('09\) \(feat\. 50 Cent\)](https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Curtain Call 2](https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n) | 3:32 | 2022-08-05 |  |

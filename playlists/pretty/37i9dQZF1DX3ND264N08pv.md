@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,078 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,080 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 49 | [Tides of Tyranny \(Official Masters of Hardcore 2026 Anthem\)](https://open.spotify.com/track/4FEKWUDChRiAbJZpgVrV7z) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Tides of Tyranny \(Official Masters of Hardcore 2026 Anthem\)](https://open.spotify.com/album/4oFYkPDrLs77KONze5TbhJ) | 3:54 |
 | 50 | [Feel So Good](https://open.spotify.com/track/238OMpNPBgQXgFu4aPGU38) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Feel So Good](https://open.spotify.com/album/4vkpqyeZEOy5cD2rFOuKgy) | 2:51 |
 
-Snapshot ID: `AAAAALJvsjxPDPCaDX/ScMdBwP2CY9LD`
+Snapshot ID: `AAAAAKS05a3BI6QPMK8TmR9IFcGja1aR`

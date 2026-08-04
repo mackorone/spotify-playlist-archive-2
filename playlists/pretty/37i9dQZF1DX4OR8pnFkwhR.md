@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: jo0ji
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,717 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,694 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [友達がいました](https://open.spotify.com/track/6mnkyC0iA2j5E0d1xBNo06) | [Trooper Salute](https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL) | [友達がいました](https://open.spotify.com/album/7MxIjhS7vO37Tf8NAfxBWq) | 8:06 |
 | 60 | [My Rhapsody](https://open.spotify.com/track/33qPdOgz1EmgmAMJeDbfIw) | [佐久間龍星](https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm) | [My Rhapsody](https://open.spotify.com/album/0pSdQr09yMSnExMSEvjlj3) | 4:32 |
 
-Snapshot ID: `AAAAAENqPJQ5OYE5HjgwIxDEnHtLV+p/`
+Snapshot ID: `AAAAAI24l4LcgHDTIOq7n8OX3ckOJq87`

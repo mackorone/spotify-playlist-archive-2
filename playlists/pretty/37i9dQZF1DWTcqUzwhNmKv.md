@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Electric Callboy are on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,654,464 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,654,031 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 80 | [Spirit Helper](https://open.spotify.com/track/5Xm1vq2jyQqaMBhBOSbOIE) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD), [Kevin Kicking Woman](https://open.spotify.com/artist/4mTbBB7BOYcOG8zHVv4MDh) | [Spirit Helper](https://open.spotify.com/album/61hsIanUYEyfr5Vt59ETWo) | 4:52 |
 | 81 | [PEN I S MALL](https://open.spotify.com/track/2ZzD7MEqfjMuUlqYwUGZjx) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [PEN I S MALL](https://open.spotify.com/album/52HIKPlRueQJLVO1XoMBHn) | 4:58 |
 
-Snapshot ID: `AAAAACOgwB8259UZ9Pa3YzatE7dTo7VQ`
+Snapshot ID: `AAAAAL6Yvh+HD23FYi58/x1Sd8iSWQ9n`

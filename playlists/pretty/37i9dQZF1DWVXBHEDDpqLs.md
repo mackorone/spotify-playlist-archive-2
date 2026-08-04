@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 
 > the best underground club tracks ⚔️ starring deBasement ⚔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,949 likes - 120 songs - 8 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,980 likes - 120 songs - 8 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXBHEDDpqLs.md) - [plain]
 | 119 | [flight fm](https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [flight fm](https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv) | 4:07 |
 | 120 | [CUNTY](https://open.spotify.com/track/6AKm7mdC27HWaHomhoKGS9) | [JIALING](https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24) | [WUPS!](https://open.spotify.com/album/2TLPuNYPn0sNJV4MWfs6By) | 4:35 |
 
-Snapshot ID: `AAAAADdCfrf74VmcDEhCh4wmhQl1CTNP`
+Snapshot ID: `AAAAAP3sAWxEKmENS/DyyabtLvcFUZeQ`

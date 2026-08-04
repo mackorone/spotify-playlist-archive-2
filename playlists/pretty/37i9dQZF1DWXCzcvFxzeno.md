@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈  Cover: Nico Moreno, Novah
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,542 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,894 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 99 | [DRONE \- LESSSS EDIT](https://open.spotify.com/track/0Ns77ZocJgmY9dSHGesXij) | [LESSSS](https://open.spotify.com/artist/5Os2nUALInDs7MyexVNwrm), [Train Fantôme](https://open.spotify.com/artist/2mjW4mSSSH70mD4tH0Ijsg) | [DRONE \(LESSSS EDIT\)](https://open.spotify.com/album/4v5GFSdaDlbNItNJgO3qrE) | 2:52 |
 | 100 | [Mystical Energy](https://open.spotify.com/track/6jQJKutPT5MicGc9jvgFhu) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Mystical Energy EP](https://open.spotify.com/album/6urgbmkPO0TUtsAdS1ityi) | 5:20 |
 
-Snapshot ID: `AAAAADnS6hdSZTbWyNKv54lT4VkiW/SG`
+Snapshot ID: `AAAAADqrvDWDf3bVS/IV/YKBBtMKXeCS`

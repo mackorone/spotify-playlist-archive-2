@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,898 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,915 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 2 | [Let's Do It Again](https://open.spotify.com/track/2hU6oM0KUN1gzBf8PY0MOD) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [J Boog](https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI) | 3:12 |
 | 3 | [I'm Home](https://open.spotify.com/track/2kal5lUoHn94IkiM9o2o0R) | [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [I'm Home](https://open.spotify.com/album/25aJdrKIY94YhvRNLg4W1i) | 3:16 |
 | 4 | [Loving You](https://open.spotify.com/track/0J0jwbx66rrZg6wmSeGz7k) | [Iharaira Starr](https://open.spotify.com/artist/6H05c7C6xi12j1U2yaxHrk) | [Loving You](https://open.spotify.com/album/4nHZsOVbHpQ3wkCVMK55UT) | 3:10 |
-| 5 | [Knocking At Your Door](https://open.spotify.com/track/3bD9UWCXR7WBLk6KbGvmUH) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Knocking At Your Door](https://open.spotify.com/album/3s9uPBBoB09U3x9MwCsngD) | 2:34 |
+| 5 | [We Made It](https://open.spotify.com/track/5iDzr4X2lIHAWduvlXrbg4) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Right Here Right Now](https://open.spotify.com/album/75IcHGzduBYDOgSKwXx2SH) | 2:45 |
 | 6 | [My Kinda Vibe](https://open.spotify.com/track/4RP1LzLQePZyyOCu7kEFPD) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Where It All Began](https://open.spotify.com/album/32NMl9njphnKqGJJPhNrSG) | 4:08 |
 | 7 | [Cool Down](https://open.spotify.com/track/6uJaTP7EbaHXJ5PM09s0uV) | [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [This Is The Life](https://open.spotify.com/album/3m89meycBx0T7hYBhj2kkq) | 3:31 |
 | 8 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 74 | [They Don't Know](https://open.spotify.com/track/1KoUNUIASLygPUAboZ6rdv) | [Aaradhna](https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Treble & Reverb \(Deluxe Edition\)](https://open.spotify.com/album/77tgpOa06Z8hMeI8hDp3sw) | 3:59 |
 | 75 | [Cutie Fasho](https://open.spotify.com/track/3PWJRzDnppOr70LF5zHbVt) | [Johnny Suite](https://open.spotify.com/artist/5CQBtjSVBWjq0y1jJrWGG9) | [Cutie Fasho](https://open.spotify.com/album/1lISBLsSGYa55AKoN5kzjk) | 3:43 |
 
-Snapshot ID: `AAAAACGD4D+16gUVG6ZbY0KHQxSFsoQT`
+Snapshot ID: `AAAAAJyn4FmC8w1wXN47sw5QZpmm0/PR`

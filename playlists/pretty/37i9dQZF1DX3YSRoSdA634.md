@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > for when you're leaning into that bad day feeling
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,929,633 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,927,624 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 149 | [The Love You Left Behind](https://open.spotify.com/track/60wa5J6SkXtBXHySQ3PoNB) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [The Love You Left Behind](https://open.spotify.com/album/0UFUk1X0rVy6ZeySz0RrH6) | 3:14 |
 | 150 | [War To Love](https://open.spotify.com/track/2WY1WmPZN1Kxh216rdMwu0) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [War To Love](https://open.spotify.com/album/1B98ap9KlAntA62R4c1rJM) | 3:46 |
 
-Snapshot ID: `AAAAADGUjunytNt5TU0A6vYINvr3T0Dn`
+Snapshot ID: `AAAAAIyit6oZM3fnfNqk4Tcv5YfVJwIA`

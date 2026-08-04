@@ -506,10 +506,32 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 231888,
       "name": "Break These Walls",
       "url": "https://open.spotify.com/track/7gDFRvhxYbvlCiEtncnCmQ"
+    },
+    {
+      "album": {
+        "name": "Harmony City",
+        "url": "https://open.spotify.com/album/1ewpID3ekASORuzC28Lh3K"
+      },
+      "artists": [
+        {
+          "name": "Imua Garza",
+          "url": "https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7"
+        },
+        {
+          "name": "Kamu Sing",
+          "url": "https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240831,
+      "name": "Break These Walls",
+      "url": "https://open.spotify.com/track/36Z2l0DlYqChUzYMjNqt9s"
     },
     {
       "album": {
@@ -2122,7 +2144,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/6Xgq7MvZiet0hVi3KaDSgJ"

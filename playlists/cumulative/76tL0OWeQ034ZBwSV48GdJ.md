@@ -4,7 +4,7 @@
 
 > 
 
-253 songs - 23 hr 41 min
+254 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Breathing \- Extended Mix](https://open.spotify.com/track/4C0yA4MvOxCxqyQ5dxnbIT) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/6PkMBdWyPN8jeNtyHcB3N2) | 6:20 | 2020-11-09 |  |
 | [Breathing Out](https://open.spotify.com/track/5EMJUddK1FOsvZhsgWdI2k) | [Noimage](https://open.spotify.com/artist/3PLRt5Xpd1omMVXERFPurQ) | [Daddy Slayer Ep](https://open.spotify.com/album/0V0wOwmxFmWfu48jenEL7y) | 3:40 | 2025-05-19 |  |
 | [Can't Stop](https://open.spotify.com/track/1JR3cLdPWwOuLOKeOEdigw) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Can't Stop](https://open.spotify.com/album/2EIZWvKBNPhezHx8Jovb3q) | 3:25 | 2024-06-17 |  |
+| [Can't Stop Loving You](https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Can't Stop Loving You](https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX) | 3:25 | 2026-08-03 |  |
 | [Cape of Good Hope](https://open.spotify.com/track/6cwZ0ist0vg5DtxMd9Vje1) | [Dirty Doering](https://open.spotify.com/artist/4N6XVXvfjBPNFCdS56TCea) | [Cape of Good Hope](https://open.spotify.com/album/00U4I0yauHFhhwrvQJBWn9) | 6:52 | 2021-10-24 |  |
 | [Cazenove](https://open.spotify.com/track/3NNEScXTDw9VyBsFDwVqTD) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 4:22 | 2021-02-14 |  |
 | [Cellophane \- Magit Cacoon Remix](https://open.spotify.com/track/4OvaIU00LALGuvPdFp47fL) | [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SANDHAUS](https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta), [Magit Cacoon](https://open.spotify.com/artist/3Qx8IB0qHtVhm4ub0pFcdF) | [Headlights Remixes](https://open.spotify.com/album/1mZEDESwhde8B8B1AlqDT9) | 6:16 | 2022-02-21 |  |

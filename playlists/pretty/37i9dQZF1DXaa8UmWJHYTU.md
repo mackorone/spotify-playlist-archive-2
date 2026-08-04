@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa8UmWJHYTU.md) - [plain]
 
 > Crackling and popping sounds of fireplaces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,647 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,671 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa8UmWJHYTU.md) - [plain]
 | 74 | [Peaceful Country Fire](https://open.spotify.com/track/4y2R8OtHaRDyBLiIZ1bnin) | [Bristle Sweeps](https://open.spotify.com/artist/3jt28JqrYGXknWSnuU4Xzk) | [Peaceful Country Fire](https://open.spotify.com/album/4ra4Lh5XiGz0DxW7h395Uz) | 2:24 |
 | 75 | [Wildfire](https://open.spotify.com/track/32CgLBFA2Bvl3O71k0aLpy) | [Bonfire Sleep Sound](https://open.spotify.com/artist/4qyBarAA064tSHmWNfEZ5y) | [Wildfire](https://open.spotify.com/album/3UlkPNErf6tKRgV63NIG0d) | 2:41 |
 
-Snapshot ID: `AAAAAJlyGtkLOSEWgww4WhUbBNJeRBbM`
+Snapshot ID: `AAAAAMlojMs2BXlSik7pNrPV0jS+YX/0`

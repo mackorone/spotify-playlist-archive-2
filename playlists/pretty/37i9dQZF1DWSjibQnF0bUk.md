@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,048 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,143 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 59 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
 | 60 | [HOW FAR \- Remix](https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4) | [HOW FAR \(Remix\)](https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC) | 3:20 |
 
-Snapshot ID: `AAAAAGLep3hfBTBjkF7S4ZgBfy9Jdupr`
+Snapshot ID: `AAAAAJ7g1xXczue8yYYAEuYXHg4kB0V+`

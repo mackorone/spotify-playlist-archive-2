@@ -1,12 +1,12 @@
 {
   "description": "The world's biggest dance & electronic hits. Cover: Ninajirachi and Porter Robinson",
-  "num_followers": 5524766,
+  "num_followers": 5511249,
   "original_name": "mint",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGD8SnAVjqCGCZlMGUKrxuOji1mO",
+  "snapshot_id": "AAAAAOhEQKS1Sv172S/1Pys9EwtBm3+J",
   "tracks": [
     {
       "added_at": "2026-07-31 21:54:21",
@@ -66,6 +66,10 @@
         {
           "name": "Fred again..",
           "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/35ABlY3T6NbUaD7trf8BGd"
         }
       ],
       "duration_ms": 175813,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Releases from Ariana Grande, Cameron Whitcomb, Shaboozey, Slayyyter, Cardi B, KAROL G, and  more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,417 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,829 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 95 | [DOG AT THE DOOR](https://open.spotify.com/track/07X9aaC7Aw2UTDP6ZgarFa) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [DOG AT THE DOOR](https://open.spotify.com/album/3dw6fz9K0v8k17PEPtarSk) | 2:47 |
 | 96 | [Some Changes](https://open.spotify.com/track/3sEMOA29w7XYzjw97FDVCH) | [NIA NADURATA](https://open.spotify.com/artist/1wHXT94PbJfiLgMuRrgqWr) | [Some Changes](https://open.spotify.com/album/6fGbvatEbgVx1SqSJgRcOs) | 2:57 |
 | 97 | [Greenlight](https://open.spotify.com/track/6bnlnbrb2gY8H5IaTJmcaS) | [Slater Manzo](https://open.spotify.com/artist/4o1zIIgHPK4GcdNNbIXNPQ), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [Greenlight](https://open.spotify.com/album/4Lse2On8mDUPTJZAPVsTOH) | 2:50 |
-| 98 | [HIGH FASHION BITCH](https://open.spotify.com/track/1o9fx0zLEvx2E8P0lSGj6O) | [DJ Sanj](https://open.spotify.com/artist/1kfqHPfj8yygKGMD3NrDE5), [Ya$meen](https://open.spotify.com/artist/1PzRW81jmfnZaLfnUqDJ6K) | [HIGH FASHION BITCH](https://open.spotify.com/album/7s9O6NVhaTjuXhHrqaeh1g) | 3:02 |
-| 99 | [Belles choses](https://open.spotify.com/track/7GmH8W71OUqdE2mMPhVDpI) | [De Lafe](https://open.spotify.com/artist/221QAcwcTRrYBFnlCHQ9G1) | [L'imprévisible](https://open.spotify.com/album/1XQgdAAQ9Glh4WpAm5BEpE) | 2:38 |
-| 100 | [East Coast](https://open.spotify.com/track/6ySFsPVeFww769nr3aQy5E) | [Bella Galasso](https://open.spotify.com/artist/0xOHwnESa9ODHYNWMLgZCI) | [East Coast](https://open.spotify.com/album/4BjompXYH7JfAAli0EGGGC) | 2:37 |
+| 98 | [Belles choses](https://open.spotify.com/track/7GmH8W71OUqdE2mMPhVDpI) | [De Lafe](https://open.spotify.com/artist/221QAcwcTRrYBFnlCHQ9G1) | [L'imprévisible](https://open.spotify.com/album/1XQgdAAQ9Glh4WpAm5BEpE) | 2:38 |
+| 99 | [East Coast](https://open.spotify.com/track/6ySFsPVeFww769nr3aQy5E) | [Bella Galasso](https://open.spotify.com/artist/0xOHwnESa9ODHYNWMLgZCI) | [East Coast](https://open.spotify.com/album/4BjompXYH7JfAAli0EGGGC) | 2:37 |
 
-Snapshot ID: `AAAAAF5poIgiZoFmywvQnZrchUuQj664`
+Snapshot ID: `AAAAAMg1SiPs111pWVDAeXQ00BzTNJ6p`

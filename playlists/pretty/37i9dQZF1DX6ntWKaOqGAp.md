@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Penthouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,320 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,113 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [What’s waiting for us \- feat.XAI](https://open.spotify.com/track/1ahlKqvo5ca6qRD3FKVbRA) | [YOURNESS](https://open.spotify.com/artist/1u1NJZJgYCF6BVsjSYf2BM), [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N) | [TWIN](https://open.spotify.com/album/2aUgLtsq49l2AkRtZ8Geob) | 4:00 |
 | 100 | [次](https://open.spotify.com/track/681NR7zRtTE5UAMLk598aj) | [The Beatmotors](https://open.spotify.com/artist/1sYNWSA1ujWFv5w36lXCFd) | [次](https://open.spotify.com/album/30MM1ecJcKmnWgCVZvl2Aj) | 4:00 |
 
-Snapshot ID: `AAAAAIApff8l7ubTKOv/ZV/uLOuxM/iK`
+Snapshot ID: `AAAAAOy5DJ6O+XJIusMSgcT3rQJ0/GMI`

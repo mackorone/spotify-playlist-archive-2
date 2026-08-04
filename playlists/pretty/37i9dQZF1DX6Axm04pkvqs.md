@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,757 likes - 80 songs - 12 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,820 likes - 80 songs - 12 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 79 | [Benediction](https://open.spotify.com/track/2aS9WnLarRPsTSyzpzlGNU) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:29 |
 | 80 | [Exchange \(The Journey\)](https://open.spotify.com/track/5FaH0x6zWnRkcZiSYUrWq6) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Exchange \(The Journey\)](https://open.spotify.com/album/4KdmlH7Nwi4axtcgeKeV1z) | 15:57 |
 
-Snapshot ID: `AAAAAIpkyhzHkGsAow/eYOYyxEX0P74q`
+Snapshot ID: `AAAAAHnB4mfB4ro16KepOQ89Ha00qvgC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,277 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,278 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 49 | [Say That You Love Me](https://open.spotify.com/track/42EOWpTWFoAn56fBRJxN0T) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [Gentle Bad](https://open.spotify.com/album/1JIhbbT2XAp39t33rHMs3y) | 3:36 |
 | 50 | [UPTOWNINTRO](https://open.spotify.com/track/6sg0BSU861E6o7QP3N3B8o) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 2:37 |
 
-Snapshot ID: `AAAAAJi2nrIKAQ8VUfe8cf+5Ps2naLBt`
+Snapshot ID: `AAAAAP+bDD1/PkmCcnXxsh43wQkH9t2Q`

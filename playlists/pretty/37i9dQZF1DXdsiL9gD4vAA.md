@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,000 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,026 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 74 | [Teri Aankhon Men Kahaan](https://open.spotify.com/track/5K2z6EX8B2bOKL0OkfxILB) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a) | [Teri Aankhon Men Kahaan](https://open.spotify.com/album/2z1EEOKwsoMKHsnWngDcFA) | 5:01 |
 | 75 | [Isse Pehle](https://open.spotify.com/track/4KCtJWeuJTh4n7geCGG4nO) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Ahmad Faraz](https://open.spotify.com/artist/2LJEfT1Ljm07p3iAU2Gclr) | [Fauji 2](https://open.spotify.com/album/6cxpqLhzdx09wp7qRfLp8B) | 4:16 |
 
-Snapshot ID: `AAAAAI5bqyVOZNJM0y/3DF6iNgZbjjed`
+Snapshot ID: `AAAAAB97F6bDLc7IVl049lwdXKZffsFj`

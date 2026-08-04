@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 88445,
+  "num_followers": 88434,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAACHP4BC61esRcI5XQ/7HKi1",
+  "snapshot_id": "am6IgAAAAACZlhQd9rykXHfDc5aythcF",
   "tracks": [
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Figure 8 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan"
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 139973,
-      "name": "Because",
-      "url": "https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH"
+      "duration_ms": 33800,
+      "name": "Ostrich And Chirping",
+      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
+        "name": "Figure 8 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5EUL6RGTIuVJCaCWGOedan"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 33800,
-      "name": "Ostrich And Chirping",
-      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
+      "duration_ms": 139973,
+      "name": "Because",
+      "url": "https://open.spotify.com/track/0W78mVK0xVPpOD7oh4medH"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "From a Basement on the Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 278013,
-      "name": "Last Call",
-      "url": "https://open.spotify.com/track/0f0zWocUiTXlNcV6s0Ulfp"
+      "duration_ms": 285733,
+      "name": "Pretty (Ugly Before)",
+      "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From a Basement on the Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 285733,
-      "name": "Pretty (Ugly Before)",
-      "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
+      "duration_ms": 278013,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/0f0zWocUiTXlNcV6s0Ulfp"
     },
     {
       "added_at": null,

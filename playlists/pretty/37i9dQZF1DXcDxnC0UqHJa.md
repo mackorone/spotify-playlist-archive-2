@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: The Brudi Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,738 likes - 115 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,542 likes - 115 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [These Days](https://open.spotify.com/track/6FYoE2PUzG3ydfp63ByTCa) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Cover to Cover](https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB) | 3:03 |
 | 115 | [Both Sides Now \(feat\. Natalie Prass\)](https://open.spotify.com/track/1rBmszepBsy1Wgq8ijQ8ak) | [Alva Leigh](https://open.spotify.com/artist/0Gfyhc754mTJyx0XAxXnD5), [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [In Nashville](https://open.spotify.com/album/1yQ0wwJJHexIeAK2fOqt4r) | 4:42 |
 
-Snapshot ID: `AAAAAFeLdxAXHMUqVMS2x16whc3/0h3e`
+Snapshot ID: `AAAAAOP9WXXgV5tN210PtyP0z6ttiDzg`

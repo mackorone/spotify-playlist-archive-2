@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,351,884 likes - 200 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,351,288 likes - 200 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AMssoUKCz7.md) - [plain]
 | 199 | [Stop Us Now](https://open.spotify.com/track/7lIQp87wKTaJNCn6BMOw9j) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [DT James](https://open.spotify.com/artist/4a5dX5Y0Q6ib3nR6zzpHwX) | [Stop Us Now](https://open.spotify.com/album/45eCC67dVHSsRuK3WKCXhO) | 2:13 |
 | 200 | [Never Be Alone](https://open.spotify.com/track/0Kn1X518zDKy02CQoVP5c3) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Mindblow](https://open.spotify.com/artist/721X4xLFS5AiHb6GeuuKvF), [Zaga](https://open.spotify.com/artist/5UX6ZbI8ssCFSTNaaQD1JK) | [Never Be Alone](https://open.spotify.com/album/6txkQhn6sQct44Uc3LPZdy) | 3:02 |
 
-Snapshot ID: `AAAAACAeo4Edp/cd6NyFIWJROffrSrFl`
+Snapshot ID: `AAAAAME0ndNY9GkYXKSDA5fIOl9thJVl`

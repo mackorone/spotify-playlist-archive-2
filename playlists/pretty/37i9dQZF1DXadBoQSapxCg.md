@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,765 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,704 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 59 | [A Noite Toda](https://open.spotify.com/track/6rHhSqNwSOs7H9efSlRVad) | [NoyaNoBeat](https://open.spotify.com/artist/1ZglvfavmB4dk9EqUgcUXU) | [A Noite Toda](https://open.spotify.com/album/317va0OlQTikMVJeEBLLPn) | 2:38 |
 | 60 | [Me Libertar](https://open.spotify.com/track/23KTvudznf4hiOalPcvm8U) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm) | [Me Libertar](https://open.spotify.com/album/4S9bYoXNeHLFpY1DSu5oxr) | 3:25 |
 
-Snapshot ID: `AAAAAPlbdN7V7WYRp8NbUOhRoZC8VAe5`
+Snapshot ID: `AAAAABs8eVDWod0FqUWSxNakZyA//v98`

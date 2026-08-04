@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: After
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,665,571 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,665,078 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 99 | [Occasionally](https://open.spotify.com/track/6hMeUPbEIxwM9iYnnqOGjc) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [This Is How You See Me Now](https://open.spotify.com/album/1XAXzsU82lf7y7hPuFaIJ6) | 3:52 |
 | 100 | [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 |
 
-Snapshot ID: `AAAAAE4EsUy4ZwPzHLrXdtUBfPwjouPz`
+Snapshot ID: `AAAAABgkV345xpZcQA/LACg53WMSSgX7`

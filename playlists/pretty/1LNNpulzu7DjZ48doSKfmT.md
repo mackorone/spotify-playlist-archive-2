@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 472 likes - 307 songs - 15 hr 51 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 472 likes - 323 songs - 16 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -315,5 +315,21 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 305 | [Out of Love](https://open.spotify.com/track/1lOmZOmTOMEHCDMeLjWonq) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd) | [Out of Love](https://open.spotify.com/album/0SPQ2rU3A1caU3TZEGakAq) | 4:04 |
 | 306 | [La Radio](https://open.spotify.com/track/5xM3Os39N9KSh2Q7AJ4AeI) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [La Radio](https://open.spotify.com/album/66uc9Jdwz34riwvTQrI0RG) | 2:38 |
 | 307 | [La calle de la alegría](https://open.spotify.com/track/37LUExe8QBouKJhLAyeuTt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [La calle de la alegría](https://open.spotify.com/album/4WaspnySUvKQXHtGrnjIom) | 3:39 |
+| 308 | [Function](https://open.spotify.com/track/5WCK1mn9X69AFVSbSxroiA) | [blakkyoshi](https://open.spotify.com/artist/3ASGroIOHDqgiM00ajsrHn) | [\#Seventeen](https://open.spotify.com/album/43BBMKpJ228hPam7mJAfYb) | 2:17 |
+| 309 | [O N A R O L L](https://open.spotify.com/track/3rxCjaBB9MXtpL5ld4y22O) | [IIILESTDON](https://open.spotify.com/artist/7dQ2Nr2ZTJb8h56PGLbAaj), [Th3 Ap3X](https://open.spotify.com/artist/3Ev93XXSMmhttRZbLhRHln) | [O N A R O L L](https://open.spotify.com/album/04jv4JoGbg2pQ36n9kXErw) | 2:57 |
+| 310 | [Até Hoje Estou Esperando O PIX !](https://open.spotify.com/track/2FPEZyhAXGid2wz4hCQsgw) | [wiLL Rock](https://open.spotify.com/artist/2S5CjbZ9rnWw4qqj8CDA9b) | [Pindorama](https://open.spotify.com/album/6vsv76JvrLRiRPed7Cq400) | 3:48 |
+| 311 | [BEEN THERE](https://open.spotify.com/track/44RPZas7Ud6rmEMdtjofzD) | [Mark Universe](https://open.spotify.com/artist/0cDGJk2PK3FGqrcVlkURUD), [RICO KNIGHT](https://open.spotify.com/artist/0fF2dueDRyqDipo7D2cNaw), [Adam Searan](https://open.spotify.com/artist/1E5P1v5uKhtWvmv6XuCuaj) | [BEEN THERE](https://open.spotify.com/album/3xsiU0ztimL8kAsyP9Mddb) | 3:31 |
+| 312 | [8BENZ](https://open.spotify.com/track/2v7JNwQ22rpWINrkzrx07g) | [0BENZ](https://open.spotify.com/artist/6RTYWGF1nFNLr0rc4pMnrP), [Oshi8x](https://open.spotify.com/artist/5GEuL8RoIgbkvEtVAq5NKt) | [8BENZ](https://open.spotify.com/album/0onKaXhK7M8tNVnZIxAXak) | 1:30 |
+| 313 | [O que se pensa](https://open.spotify.com/track/0L7pL3barGZ0gsi6C6w5KZ) | [DaLopes](https://open.spotify.com/artist/3rGPyLwphoo4HW1uwVtSYA) | [EPPOT](https://open.spotify.com/album/2ZhXgz7FL3yt5Am2GmD8qO) | 2:18 |
+| 314 | [Goodbye Rearview](https://open.spotify.com/track/1XTsh3kvn28Okx1PM8egiQ) | [Troy Page](https://open.spotify.com/artist/43sl6HtfaTIfUYNi7GDSSh) | [Goodbye Rearview](https://open.spotify.com/album/4p2A73HVJ33fPuhAaIb9MA) | 2:26 |
+| 315 | [KIUZZY](https://open.spotify.com/track/3VV8hT51pJQN3xt4nv7AWN) | [Kid Fran](https://open.spotify.com/artist/2XsWgOsfSNewdeDuU9ufN9) | [ONiRYA: viaje sin retorno](https://open.spotify.com/album/6vHt86PACJ49cRbehwU2Iv) | 2:19 |
+| 316 | [Baby](https://open.spotify.com/track/1fAQrQgcQA7muBn8L80Vpg) | [GRAY](https://open.spotify.com/artist/50OV1tcz4LfzgLJbY4WLvt), [Wrigley](https://open.spotify.com/artist/28GFABpKrciCumwMFo04BV) | [Baby](https://open.spotify.com/album/6BXEWI6BXIqTZHvxVvC1Ge) | 3:18 |
+| 317 | [MAESTRO](https://open.spotify.com/track/5nZkhxNpDAA1KbI4Nqnjl0) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [MAESTRO](https://open.spotify.com/album/4oF3OUSrLYCQsKXeStMuPL) | 4:36 |
+| 318 | [Bad Guy](https://open.spotify.com/track/0imvH23leTUYy2bbSwPUPz) | [Dirty Noiz](https://open.spotify.com/artist/6MaxF1kLYOMgoBMuTjfBUu) | [Bad Guy](https://open.spotify.com/album/3jS2TuYSNGrKbV7FdhGPUj) | 3:03 |
+| 319 | [a waiting king.](https://open.spotify.com/track/3WRl8T33outCnCXp6gLXSu) | [Jr\. Rhodes](https://open.spotify.com/artist/2cGyEQQULlQKyCQQsUrdop) | [a waiting king.](https://open.spotify.com/album/0n00j01wSnS05p5yM2174I) | 4:09 |
+| 320 | [Loophole](https://open.spotify.com/track/55MQNMrirlAqMne0FmNiNd) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Loophole](https://open.spotify.com/album/5aMFB6z220sBgH2nlnXboe) | 4:34 |
+| 321 | [Hold My Hand](https://open.spotify.com/track/12VSW6g7JGpkO6CR6AFrVl) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [Hold My Hand](https://open.spotify.com/album/2JFtbXlykWQ0fU0JmnNlFH) | 3:36 |
+| 322 | [New life \- Radio Edit](https://open.spotify.com/track/4rjl4eK7VWx4UgfyZvGi9F) | [Apollo Brage](https://open.spotify.com/artist/7kyzXHi8VvhYTdIUOVBF3P), [Josoham](https://open.spotify.com/artist/1GS3MS1DtL4H3X6VO8VjrR) | [New life](https://open.spotify.com/album/5hUgDUCq2Q44rdQevAo7Ij) | 2:19 |
+| 323 | [HOLD ON](https://open.spotify.com/track/3DGVTLFReO8QqDXWALIUSP) | [AMVERZE](https://open.spotify.com/artist/4yzvh5QMdA3GOxBlnRhAc5) | [HOLD ON](https://open.spotify.com/album/5IcrA2qfALrJmga7QWz4PO) | 2:59 |
 
-Snapshot ID: `AAAeTM2ikwVfGjGwinTDTF0Qk1KOwuFg`
+Snapshot ID: `AAAeXKxA86ePkQGkneNPeLTeFGGoiGSa`

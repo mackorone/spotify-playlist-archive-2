@@ -157,6 +157,32 @@
     },
     {
       "album": {
+        "name": "Achei que era Doce",
+        "url": "https://open.spotify.com/album/7H5BPDj13U6ZyohcUtFQyX"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175135,
+      "name": "Achei que era Doce",
+      "url": "https://open.spotify.com/track/2NoqX00Ko6Fa9H0xqgyRb9"
+    },
+    {
+      "album": {
         "name": "Acorda",
         "url": "https://open.spotify.com/album/56QkCpx8lJ7HWzO630fpNH"
       },
@@ -1062,7 +1088,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 174000,
       "name": "Algu\u00e9m tem que ser onda",
       "url": "https://open.spotify.com/track/3oPDEIoCmkJreLDUautj2t"

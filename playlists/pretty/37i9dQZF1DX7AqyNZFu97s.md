@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Rio Tashan
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,540 likes - 56 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,542 likes - 56 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 55 | [Docs](https://open.spotify.com/track/4OCu8rrX8gbKnAfvS20ovs) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [Docs](https://open.spotify.com/album/4z79Uh8UfNC9ljmd7OpbY6) | 3:28 |
 | 56 | [Earthworm](https://open.spotify.com/track/4wSMuydBSmSJ7RU60E7DlL) | [Laizer](https://open.spotify.com/artist/1xuLVQC0qd8GzPcnJ4gs22) | [Earthworm](https://open.spotify.com/album/543k82dYTEPXCyzse0Gg7v) | 2:56 |
 
-Snapshot ID: `AAAAAPlUKmt3QegqfScLS6dA/xtiXZxq`
+Snapshot ID: `AAAAAIfacIau2F4OSahLwlaELCdml+oJ`

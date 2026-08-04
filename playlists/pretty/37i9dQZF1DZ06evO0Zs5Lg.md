@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 
 > This is Prof\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,691 likes - 43 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,705 likes - 43 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 7 | [Judy](https://open.spotify.com/track/0KijC5ByPD43qXLkxEmf7o) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 2:56 |
 | 8 | [Bar Breaker](https://open.spotify.com/track/4pynucrEEPPD3ZRQtnvjSz) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Liability](https://open.spotify.com/album/5s5svsB4vo4STUkneqJGlr) | 2:44 |
 | 9 | [Cutthroat](https://open.spotify.com/track/6jWg9ZeIlDOuwr62vpKfut) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Cutthroat](https://open.spotify.com/album/3RswC4TBK1oa5mEh9nHtKS) | 3:07 |
-| 10 | [A Crawl Through a Low Tide](https://open.spotify.com/track/4ySj2WIkfOAJbKr8eSMVay) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 2:33 |
+| 10 | [Kin \(I’m Outside\) \[with Pete & Bas and JonRay\]](https://open.spotify.com/track/00mcD1i8K8jBD4CSyk8w38) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Pete & Bas](https://open.spotify.com/artist/4if49KlQEdVNk97CQYSFvt), [JonRay](https://open.spotify.com/artist/04xIuIcdIX6cp289fwiWaW) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:14 |
 | 11 | [Horse](https://open.spotify.com/track/3N6ikRnRr3XYlzBv9iRgEN) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:02 |
 | 12 | [Dead Man Shuffle](https://open.spotify.com/track/0QlyrKrDwglwGmHih4Dj6F) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Powderhorn Suites](https://open.spotify.com/album/6tXIQnsK1yWm4Y1NQv9vWC) | 2:35 |
 | 13 | [Light Work](https://open.spotify.com/track/2LRLHZKFo7N7diPirNcVjh) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:30 |
-| 14 | [Kin \(I’m Outside\) \[with Pete & Bas and JonRay\]](https://open.spotify.com/track/00mcD1i8K8jBD4CSyk8w38) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Pete & Bas](https://open.spotify.com/artist/4if49KlQEdVNk97CQYSFvt), [JonRay](https://open.spotify.com/artist/04xIuIcdIX6cp289fwiWaW) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 3:14 |
+| 14 | [A Crawl Through a Low Tide](https://open.spotify.com/track/4ySj2WIkfOAJbKr8eSMVay) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Good Time Boy](https://open.spotify.com/album/3PwkbqGqxMLKUwvXU0uk3o) | 2:33 |
 | 15 | [Devils Gate \(with Kevin Gates\)](https://open.spotify.com/track/334BlFXoVUhroNjxfzATJp) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Horse](https://open.spotify.com/album/5S5Yc3c77mjVpb87Ko8PAm) | 3:35 |
 | 16 | [Tarzan](https://open.spotify.com/track/4fWx8fSytpzfouffji4Y7O) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Tarzan](https://open.spotify.com/album/5NZAgySJPEh8rpAacRJ8AR) | 3:25 |
 | 17 | [Andre The Giant](https://open.spotify.com/track/6tiDGVC8HRYf6cdVVRCjox) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:08 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Zs5Lg.md) - [plain]
 | 42 | [Pookie Baby](https://open.spotify.com/track/1GLZpvlLj1nMrn2Ld2ehhK) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Pookie Baby](https://open.spotify.com/album/4PsACI8jpFTGFgpbTUat5A) | 3:31 |
 | 43 | [Dodo Birds](https://open.spotify.com/track/4ZitKfCGxhOcqrfQU6STgq) | [Prof](https://open.spotify.com/artist/1LyTmnoxLipUwTEHWSRziG) | [Dodo Birds](https://open.spotify.com/album/6nM5ZjZp85PxVjbyszoOft) | 2:13 |
 
-Snapshot ID: `am03AAAAAACO3C3PYh937fZcO5plwUgQ`
+Snapshot ID: `am6IgAAAAAAHUByjdJADs9KaHcs2WxsB`

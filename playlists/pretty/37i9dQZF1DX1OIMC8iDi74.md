@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap ❤️‍🔥 with Lizdek
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,660 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 875,923 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 99 | [Work](https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [JAHMED](https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ) | [imellem](https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw) | 2:33 |
 | 100 | [Born Again](https://open.spotify.com/track/6C7kzABG41VrZQd5do4ehA) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Born Again](https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7) | 2:38 |
 
-Snapshot ID: `AAAAAL1WaF4+3n7VgyQeO0xPhBijdKe9`
+Snapshot ID: `AAAAAFHUlOd103VTuJHMan2l3817RCKB`

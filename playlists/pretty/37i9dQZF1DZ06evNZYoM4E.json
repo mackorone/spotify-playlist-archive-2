@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108820,
+  "num_followers": 108801,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAADzs4QqEejmHEFMIrBzj2Mt",
+  "snapshot_id": "am6IgAAAAADT04n1dPve1Bpa7YZcDKcj",
   "tracks": [
     {
       "added_at": null,
@@ -311,6 +311,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "'t Rode Licht",
+      "url": "https://open.spotify.com/track/0VSTRdAYubh3VsMF3HS41i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Samen Met Dr\u00e9",
         "url": "https://open.spotify.com/album/5iwfn6LrS7wwhuMLn16io3"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 241493,
       "name": "Blijf Bij Mij",
       "url": "https://open.spotify.com/track/4AQnXdOq7ChjMhibKrKne1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Samen",
-        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "'t Rode Licht",
-      "url": "https://open.spotify.com/track/0VSTRdAYubh3VsMF3HS41i"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mijn Gevoel",
-        "url": "https://open.spotify.com/album/7egOHHWD0QAecudU4JjPTe"
+        "name": "Dit Is Wat Ik Wil",
+        "url": "https://open.spotify.com/album/0bePor1BxmiRNOaGxSJiKN"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 215133,
-      "name": "Laat De Zon Maar Schijnen",
-      "url": "https://open.spotify.com/track/1rgBtqS3nUpVCfg3Xc7ybg"
+      "duration_ms": 188466,
+      "name": "Op De Hoek Van De Straat",
+      "url": "https://open.spotify.com/track/2GHTuJQYBRkpUQkQ58060c"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dit Is Wat Ik Wil",
-        "url": "https://open.spotify.com/album/0bePor1BxmiRNOaGxSJiKN"
+        "name": "Mijn Gevoel",
+        "url": "https://open.spotify.com/album/7egOHHWD0QAecudU4JjPTe"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 188466,
-      "name": "Op De Hoek Van De Straat",
-      "url": "https://open.spotify.com/track/2GHTuJQYBRkpUQkQ58060c"
+      "duration_ms": 215133,
+      "name": "Laat De Zon Maar Schijnen",
+      "url": "https://open.spotify.com/track/1rgBtqS3nUpVCfg3Xc7ybg"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voor Jou",
-        "url": "https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 203933,
-      "name": "Ik Weet 'T Zeker",
-      "url": "https://open.spotify.com/track/3HMqLTb4D0l3D7vgMPofZX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/7nNeE8tvYt6Ut7PrxYVwAD"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 220093,
       "name": "Volare",
       "url": "https://open.spotify.com/track/4QEPyEkLKDiqlhiLaeCUFI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voor Jou",
+        "url": "https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "Ik Weet 'T Zeker",
+      "url": "https://open.spotify.com/track/3HMqLTb4D0l3D7vgMPofZX"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zonder Zorgen",
-        "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "De Wereld Is Van Ons Allemaal",
-      "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorry (Holland Zingt Hazes)",
         "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 220879,
       "name": "Sorry - Holland Zingt Hazes",
       "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zonder Zorgen",
+        "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "De Wereld Is Van Ons Allemaal",
+      "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
     },
     {
       "added_at": null,

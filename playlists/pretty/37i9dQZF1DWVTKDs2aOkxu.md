@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,939,203 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,938,680 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [Colour On The Wall \- Rework](https://open.spotify.com/track/6pm5SKd5MlWEMBjH2J368a) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn), [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Colour On The Wall \(Rework\)](https://open.spotify.com/album/04hRtgE3fiKYl6LDhycO7J) | 3:15 |
 | 80 | [Try Try Try](https://open.spotify.com/track/37S6RNloIxDDNRkydQflwU) | [Dan Croll](https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21) | [Try Try Try](https://open.spotify.com/album/7twihH4moGgU0lmsVQFHG7) | 3:54 |
 
-Snapshot ID: `AAAAABkPwqyPMTXnpXH/FV+mFBB5976G`
+Snapshot ID: `AAAAAI3+pxflE6SqaReqmlKqmNe+mrje`

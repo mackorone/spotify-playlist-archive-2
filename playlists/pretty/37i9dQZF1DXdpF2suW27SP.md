@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Joint One entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,923 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,748 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Miss Independent](https://open.spotify.com/track/2jc2xZlXwjeAKoDkZB5Ykx) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [tá calor e a culpa é tua](https://open.spotify.com/album/5JcqUFDfmOYQqfvHn1Y6ZN) | 2:38 |
 | 70 | [Tudo o Que Eu Peço](https://open.spotify.com/track/7khhRsH9FfE8v9YyVEos5j) | [Young Double](https://open.spotify.com/artist/7uxVtHLLKggSUN4MNqqBfY), [YANKEMA](https://open.spotify.com/artist/1KpBnKdAUaXpGoHvvSXUaJ), [Slim Boy](https://open.spotify.com/artist/3taajR4dFA7XMW1OU9P7DU) | [Tudo o Que Eu Peço](https://open.spotify.com/album/4xWhdoAMXHu0j8whz77O2y) | 3:37 |
 
-Snapshot ID: `AAAAAOb5aRHLorDh8OL+enyN3aTk+aCd`
+Snapshot ID: `AAAAAJR8vUA5Yt6//1kBCJ6w6PKGh3TM`

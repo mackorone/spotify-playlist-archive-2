@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > Remi Wolf, we missed you 🤝 <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,027 likes - 116 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,184,858 likes - 116 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 115 | [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the apple tree under the sea](https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm) | 5:33 |
 | 116 | [Year of the Dragon](https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM), [Worldpeace DMT](https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV) | [Year of the Dragon](https://open.spotify.com/album/0jW3wSM0l8sOZNlBUYaul3) | 3:29 |
 
-Snapshot ID: `AAAAAEW0MD0MXGm3hiyuRLKElaUetakf`
+Snapshot ID: `AAAAAE8HNfB2V59NZ5JJdSWeHIVuEkqv`

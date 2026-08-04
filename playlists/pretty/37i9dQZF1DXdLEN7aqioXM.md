@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101,952 likes - 150 songs - 10 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101,950 likes - 150 songs - 10 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [Shout \- The Forgotten Remix](https://open.spotify.com/track/5aa8TV2mnOYHhHl0t9ymMu) | [Scandroid](https://open.spotify.com/artist/27qG899eLldfpYtPr3S3NJ), [The Forgotten](https://open.spotify.com/artist/7lXEr5KUTTaln112daJv5t) | [Shout \(The Forgotten Remix\)](https://open.spotify.com/album/5Uo5qoMvjUBeLQflHk2u7w) | 3:41 |
 | 150 | [Hyperlandia \- Vocal Mix](https://open.spotify.com/track/4Vd53EHIw4lEfe7rqHSctN) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Hyperlandia](https://open.spotify.com/album/3DUcJ8bqyo4cZNt97VkmKi) | 5:49 |
 
-Snapshot ID: `AAAAAJXdcoG/dtohqwK/YMkcDC/D80ai`
+Snapshot ID: `AAAAAEukzzvlWTKR3oUc1x66wP+G2KRV`

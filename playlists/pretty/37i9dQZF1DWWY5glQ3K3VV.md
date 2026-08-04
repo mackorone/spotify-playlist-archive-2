@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > SPINGERE
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,114 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,126 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 99 | [A.D.H.D\. \(con Datkid, Melons\)](https://open.spotify.com/track/0Zw0ZJkTplOO3weqcZHxjF) | [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Datkid](https://open.spotify.com/artist/0mrS7wImQSucxAJWj22pe2), [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe) | [OGNI MUSICA](https://open.spotify.com/album/0AoCmT68sVhw2VQlHWR7yQ) | 1:55 |
 | 100 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 |
 
-Snapshot ID: `AAAAACnHOjiLi36lKpbto/+iRdiAuUDQ`
+Snapshot ID: `AAAAAF58mUoEA2WLbUML6K2ozgdCfwBM`

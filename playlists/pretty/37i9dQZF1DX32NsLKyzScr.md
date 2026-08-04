@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,592,464 likes - 125 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,591,398 likes - 125 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 124 | [Pull Me Closer](https://open.spotify.com/track/1XSh0fpZoJi70sudcWIpEa) | [DJ Pauly D](https://open.spotify.com/artist/4kGCUSJJlEKTuol4jSYGPb) | [Pull Me Closer](https://open.spotify.com/album/05ZGMoxJwod7dDF2yRY6WK) | 2:51 |
 | 125 | [ALL OVER AGAIN](https://open.spotify.com/track/12pdzk71yPp6sxzWXOchIC) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx), [LUMI](https://open.spotify.com/artist/2GhZq7k05EWdvb4cS2RQG5) | [ALL OVER AGAIN](https://open.spotify.com/album/6IOcXv652Y2jDpFT8LLA6S) | 3:01 |
 
-Snapshot ID: `AAAAACSZfx0tqDfafx8m0Jsl0ycp1Bct`
+Snapshot ID: `AAAAAEICGMOMzXmo2xirqkRX7cnIhbNm`

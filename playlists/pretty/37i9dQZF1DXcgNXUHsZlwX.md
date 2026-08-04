@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,625 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,544 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Rénos](https://open.spotify.com/track/4aCcNZIdgxiv3Wcykgb9gU) | [Kèthe Magané](https://open.spotify.com/artist/2xRd9oXpHOXzrED7JnyEZL) | [Rénos](https://open.spotify.com/album/2KtAOHXR5FajC5tDu0iH7t) | 2:58 |
 | 100 | [Solitudes](https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Solitudes](https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi) | 4:08 |
 
-Snapshot ID: `AAAAAKV6LBruGyoOotdHJ61jMGYvOvn4`
+Snapshot ID: `AAAAAA+OoIrivKJ19cC1wOeXGoGl+AJv`

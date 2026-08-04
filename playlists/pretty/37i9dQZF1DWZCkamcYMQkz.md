@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,129 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,291 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Summertime](https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Andreas Svendsen](https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH) | [Impressions of Evans](https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6) | 4:28 |
 | 100 | [Morning Song](https://open.spotify.com/track/7HL4OAOuAdjgnfvaLy7iYJ) | [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj) | [Score](https://open.spotify.com/album/331gr9fv5S0JTKxVkMFQ16) | 4:09 |
 
-Snapshot ID: `AAAAAC0w/M7OYrcMR/HoWYwt/HY9Mx4e`
+Snapshot ID: `AAAAABg2qbh3/A5/A5v/wyNbilAdEXnF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 
 > Swinging jazz for relaxing and unwinding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,693 likes - 123 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,729 likes - 123 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdk2DZvqpqJY.md) - [plain]
 | 122 | [Lighten Up Dreams](https://open.spotify.com/track/6g63N2FQjWnQWFK7hSXK6e) | [Diminished Fusion](https://open.spotify.com/artist/13Anjo6ZdAzx6h71JaMYso) | [Lighten Up Dreams](https://open.spotify.com/album/2tgjTC0KIed5hz9Qrhrmp4) | 3:56 |
 | 123 | [From My Perspective](https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [From My Perspective](https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz) | 4:02 |
 
-Snapshot ID: `AAAAANVVe5Q7uUy0eWzLUhzd+D0GuxYK`
+Snapshot ID: `AAAAAMFEdKPB6VvfZIwPCYOURqqN4uZc`

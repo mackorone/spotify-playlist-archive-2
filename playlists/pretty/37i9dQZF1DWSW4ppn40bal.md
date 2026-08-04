@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 
 > Fall fast asleep with deep noise
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,117 likes - 300 songs - 15 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,194 likes - 300 songs - 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSW4ppn40bal.md) - [plain]
 | 299 | [Deep 2 noise](https://open.spotify.com/track/0kPCMmJOjrCowvWrtENbqJ) | [Yin Shui](https://open.spotify.com/artist/1lZlfq2dH04NjJl8vZgoYc) | [Calm 2 noise](https://open.spotify.com/album/1G1Tbg0yq2iVsl53HLsyi1) | 2:02 |
 | 300 | [Deep Pink](https://open.spotify.com/track/0p9nU671Pjdiu7OoQczetz) | [Arcticos](https://open.spotify.com/artist/3cMJyeklWJOqZ46VjZYFJT) | [Blissful Pink Noise](https://open.spotify.com/album/2z96Vow6A7rOeP8uKkonDI) | 3:06 |
 
-Snapshot ID: `AAAAAGUWEbrzYct1ONrrbtoVcIfo6eXF`
+Snapshot ID: `AAAAAETEN1tcVbX0nbRV7b6DCuVhJTaP`

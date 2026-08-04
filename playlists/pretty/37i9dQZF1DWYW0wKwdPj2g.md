@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,131 likes - 100 songs - 15 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,192 likes - 100 songs - 15 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 99 | [Subscribed \- Live](https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Subscribed \(Live\)](https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE) | 3:18 |
 | 100 | [LOVE LETTER \- Live](https://open.spotify.com/track/1DWwUpjkxLjBKiioxibJ84) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm) | [LOVE LETTER \(Live\)](https://open.spotify.com/album/2XzxlGhn4CESGnHGbPkpUm) | 13:23 |
 
-Snapshot ID: `AAAAAGCoshwCeeAF9KlJmGxZxxazicFX`
+Snapshot ID: `AAAAAOaNrWeMXXODpoHNq4OPYbW1xhW8`

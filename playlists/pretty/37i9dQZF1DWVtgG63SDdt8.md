@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Hopeful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,831 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,814 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 47 | [All Be For You](https://open.spotify.com/track/5akHP4AhZwhLMef51j37So) | [North Palm Worship](https://open.spotify.com/artist/1oSrA2oH5V1Qo4jNPD0BMF), [Grace Johnston](https://open.spotify.com/artist/3b5gfYfJgqs8ZgWnnraOTa) | [All Be For You](https://open.spotify.com/album/1YYnksPzyus9eGoiGoFeBb) | 4:10 |
 | 48 | [He Is](https://open.spotify.com/track/1Aa16EDsmbJp6e0UwUwYpf) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Daniel Johnson](https://open.spotify.com/artist/3QC3Sl9g1tArEtqPnctjCN), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [Dreams, Revelations & Moments](https://open.spotify.com/album/7Jb3f5zIDacGvL1o7Bj02o) | 4:09 |
 | 49 | [Fragrance](https://open.spotify.com/track/5q8UQFzDg0u5OVo5ozzFHJ) | [Angela Moss Poole](https://open.spotify.com/artist/703jiLLQUIFP7fmC1UZtox) | [Fragrance](https://open.spotify.com/album/3PBGesiTpix7dw3tPF9qvJ) | 4:42 |
-| 50 | [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:41 |
+| 50 | [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:30 |
 | 51 | [Spirit Rhythm](https://open.spotify.com/track/3Ck6O9HPvCgKlHsoWOglP1) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [Spirit Rhythm](https://open.spotify.com/album/2ny7aU7AQ5gRIX2s4cqwHa) | 2:58 |
 | 52 | [Nobody](https://open.spotify.com/track/21DQSV4ggmET2fI4dxFLxa) | [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [Yield](https://open.spotify.com/album/6aCjywAMr9mCKITGSKWHHl) | 2:18 |
 | 53 | [ONLY YOU](https://open.spotify.com/track/3aVxcadC6MWc4zU3HFCPFP) | [Ayokunle](https://open.spotify.com/artist/3YIAAueeWTrjMcuQjGewkG), [DRAWN](https://open.spotify.com/artist/2ZN1lfbr0LOH5vHxOqzhDg), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [ONLY YOU](https://open.spotify.com/album/1cvpqfbJwgBxIr9u8rsSaA) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Give Me Joy](https://open.spotify.com/track/65g5hAMnsr9Zug4vGWrPgS) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Give Me Joy](https://open.spotify.com/album/6sTnl17phWJeWoEMOm3wQ7) | 4:43 |
 | 100 | [Road Less Traveled](https://open.spotify.com/track/4B9rtS3inS4qsmbEB8ysGl) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Road Less Traveled](https://open.spotify.com/album/3N003bQiYF4NymTauky8B3) | 3:03 |
 
-Snapshot ID: `AAAAAPWOWXYnwxs6wU6cqEN8EWFdGCJt`
+Snapshot ID: `AAAAAPa/FFDQGFBl9s9S7O8AKLkoZlCX`

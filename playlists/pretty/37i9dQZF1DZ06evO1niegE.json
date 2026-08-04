@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAADFKH3IFSpT5XcpABJAKz69",
+  "snapshot_id": "am6IgAAAAAABtONtmB2p52WLumHqvEai",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAMN!",
-        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 117606,
-      "name": "DAMN!",
-      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cielo en la Tierra",
         "url": "https://open.spotify.com/album/3CvUhTtF9TjUDjPGkeCfb6"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 230000,
       "name": "Cielo en la Tierra",
       "url": "https://open.spotify.com/track/38aJ2Or9JcdyWEYpgtm4BL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAMN!",
+        "url": "https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 117606,
+      "name": "DAMN!",
+      "url": "https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo"
     },
     {
       "added_at": null,

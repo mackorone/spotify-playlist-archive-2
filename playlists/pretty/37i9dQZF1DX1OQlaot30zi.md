@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Young Snapp, e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,931 likes - 108 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,933 likes - 108 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 107 | [CONTO FINO A 4](https://open.spotify.com/track/7oVBdUwzeMmsTxUYjND1GX) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb) | [CONTO FINO A 4](https://open.spotify.com/album/1ZdECgnvHUbgJcHVdnTTcp) | 2:30 |
 | 108 | [LAGUCCI](https://open.spotify.com/track/51SbsQBfnba04dco4z8QPR) | [Dagood YL](https://open.spotify.com/artist/4zHxCzvTEP15QarBTgB9hw) | [LAGUCCI](https://open.spotify.com/album/0D5Bo8WAD32YcHkEl6zMeL) | 3:01 |
 
-Snapshot ID: `AAAAADGDQBS4ByUqyQSPgONiSg5OVWs8`
+Snapshot ID: `AAAAABUx8EWBFnlGYmhDIHAD4U2FfY7y`

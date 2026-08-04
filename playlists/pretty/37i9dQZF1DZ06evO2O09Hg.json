@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1661297,
+  "num_followers": 1661277,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAADMHiwk76uhMr3VJz5ey841",
+  "snapshot_id": "am6IgAAAAADy5A7CDtmcaSsDcQF+MGTc",
   "tracks": [
     {
       "added_at": null,
@@ -907,22 +907,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Fun",
-        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/2thP70nudcFpvmRl3AsYRa"
       },
       "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 162400,
-      "name": "Mannequin Challenge (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa"
+      "duration_ms": 172218,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/6j5BK1cFX9TjJd5EXHGgAn"
     }
   ],
   "unique_name": "This Is Juice WRLD",

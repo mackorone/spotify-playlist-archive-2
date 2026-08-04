@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 featuring Miluhska
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,223 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,254 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 99 | [Que Calor, Que Calor](https://open.spotify.com/track/7x3EL6oSsGBoNjBRvwCAvU) | [MESTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Que Calor, Que Calor](https://open.spotify.com/album/30PS8JTib0xrnYojz7SDXU) | 3:19 |
 | 100 | [La Buena Vida \(feat\. Tayson Kryss\)](https://open.spotify.com/track/0VpQieuQ6vS00yknO16eGy) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [La Buena Vida \(feat\. Tayson Kryss\)](https://open.spotify.com/album/2HIc2AaPKvkU6APeLBwN0T) | 2:17 |
 
-Snapshot ID: `AAAAACog7RVYX4zu9ky6sHzzFpkGQDny`
+Snapshot ID: `AAAAAGPe2+GrSsefPdi9AngDpfCSIrqM`

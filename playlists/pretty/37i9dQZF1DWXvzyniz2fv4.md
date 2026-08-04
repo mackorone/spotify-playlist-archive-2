@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,292 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,277 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 59 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
 | 60 | [Proposital \(Citação Aquele Abraço\)](https://open.spotify.com/track/3BEPihzXOmtSMWep6N2AgP) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [Ato 3: TODAMANHÃ](https://open.spotify.com/album/6n1FhDXwV2kjcCfsOmw6uw) | 2:48 |
 
-Snapshot ID: `AAAAAI9Ga1f4GmwCTTq6goSCD7UIN4SU`
+Snapshot ID: `AAAAAFgJxJ1wFKCL6EsyJRRRTMMeJWKY`

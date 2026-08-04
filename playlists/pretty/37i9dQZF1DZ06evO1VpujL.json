@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 30720,
+  "num_followers": 30728,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAACDL9PSFseU2PF/ta4gZzLf",
+  "snapshot_id": "am6IgAAAAACyiKvoQFy1i1Cw5572RkLJ",
   "tracks": [
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 184866,
-      "name": "Cause Ah Riot",
-      "url": "https://open.spotify.com/track/31dOPJ62Idpq6eJA7KOKnO"
+      "duration_ms": 243120,
+      "name": "State of Emergency",
+      "url": "https://open.spotify.com/track/0z0IXlH0JZSIbLTq7oU06f"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 243120,
-      "name": "State of Emergency",
-      "url": "https://open.spotify.com/track/0z0IXlH0JZSIbLTq7oU06f"
+      "duration_ms": 184866,
+      "name": "Cause Ah Riot",
+      "url": "https://open.spotify.com/track/31dOPJ62Idpq6eJA7KOKnO"
     },
     {
       "added_at": null,

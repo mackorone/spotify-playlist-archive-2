@@ -73,6 +73,6 @@
 | [Vegas \- A COLORS SHOW](https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Vegas \- A COLORS SHOW](https://open.spotify.com/album/1UipsejbT67IizPimBSxN3) | 3:01 | 2024-12-14 |  |
 | [Warped Tour](https://open.spotify.com/track/7BBMWa0psr0uKZVyl4j3wp) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 2:55 | 2024-12-14 | 2026-08-03 |
 | [Why Can't Love Be The Reason \(feat\. Garzon\)](https://open.spotify.com/track/7iGCPgtU0Q7rX73u9rFdX9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Garzon](https://open.spotify.com/artist/0Yf4uJcivvNFZD2casW6lf) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 3:09 | 2025-08-05 |  |
-| [Winning Streak](https://open.spotify.com/track/3qpGsZHqMN56A2mNgOioQC) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 3:18 | 2024-12-14 |  |
+| [Winning Streak](https://open.spotify.com/track/3qpGsZHqMN56A2mNgOioQC) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 3:18 | 2024-12-14 | 2026-08-04 |
 
 \*This playlist was first scraped on 2024-12-14. Prior content cannot be recovered.

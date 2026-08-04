@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Davido, Seyi Vibez, Moliy,  BNXN & Asake and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,260 likes - 56 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,361 likes - 56 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 55 | [miles](https://open.spotify.com/track/5AGk3gAmGbkRn2MJSzmpEu) | [Roy Rutto](https://open.spotify.com/artist/0qXdKNxrW6KNMGdDIIgRre), [Lundey](https://open.spotify.com/artist/0RkMo0RCbU9heAf0qMJrwW) | [miles](https://open.spotify.com/album/4KWaA5jgGnTDaIjtyVwxGA) | 2:37 |
 | 56 | [OGBA \- Proton Remix](https://open.spotify.com/track/3fuBzFs3ntux7g6mMLlKOO) | [Jamie Black](https://open.spotify.com/artist/4bwQ3Q006BkMrImg3JPWr9), [Proton](https://open.spotify.com/artist/70d77PvjgJFnp4VdVtJLq4) | [OGBA: Remix Pack](https://open.spotify.com/album/0M4ZYjGee7qqSsjfvgEEgf) | 3:50 |
 
-Snapshot ID: `AAAAAPmL8nCewS+yvhvFdvsiBpIXtCw8`
+Snapshot ID: `AAAAADz6VzlqEceIIgd0wqcjAgsDtyuq`

@@ -1,12 +1,12 @@
 {
   "description": "This is Stephen Hough. The essential tracks, all in one playlist.",
-  "num_followers": 361,
+  "num_followers": 362,
   "original_name": "This Is Stephen Hough",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAAuYT5uByM3pHy8VwoioEsO",
+  "snapshot_id": "am6IgAAAAABFFXjnn4cAe2MWYoE2hLaC",
   "tracks": [
     {
       "added_at": null,
@@ -471,26 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"A Classical Sunday: Bach, Mozart & more \"",
-        "url": "https://open.spotify.com/album/5XPiwSLTERy1r27UtuV07S"
-      },
-      "artists": [
-        {
-          "name": "Franz Schubert",
-          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 69346,
-      "name": "Piano Sonata in E Minor, D. 769a",
-      "url": "https://open.spotify.com/track/1n5wCoGlmhrtuHfmazR2f6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stephen Hough's Piano Postcards",
         "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 259333,
       "name": "Th\u00e8me vari\u00e9 in A Major, Op. 89",
       "url": "https://open.spotify.com/track/1YysVcXZ4mVOSJ5g7eaBzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"A Classical Sunday: Bach, Mozart & more \"",
+        "url": "https://open.spotify.com/album/5XPiwSLTERy1r27UtuV07S"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 69346,
+      "name": "Piano Sonata in E Minor, D. 769a",
+      "url": "https://open.spotify.com/track/1n5wCoGlmhrtuHfmazR2f6"
     },
     {
       "added_at": null,
@@ -551,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stephen Hough's Piano Postcards",
+        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile Chaminade",
+          "url": "https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Toccata, Op. 39",
+      "url": "https://open.spotify.com/track/0AWxOGnFkZ4dpAXVVPYKYY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Schumann: Davidsb\u00fcndlert\u00e4nze, Op. 6 & Fantasie, Op. 17",
         "url": "https://open.spotify.com/album/4BYqUEEXraeCs8Y4OqrzBm"
       },
@@ -571,22 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stephen Hough's Piano Postcards",
-        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
+        "name": "\"A Beautiful Arietta\" - Romantic Works",
+        "url": "https://open.spotify.com/album/7dn2PkLP6SSQSHLuPBQGIb"
       },
       "artists": [
         {
-          "name": "C\u00e9cile Chaminade",
-          "url": "https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk"
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Toccata, Op. 39",
-      "url": "https://open.spotify.com/track/0AWxOGnFkZ4dpAXVVPYKYY"
+      "duration_ms": 69146,
+      "name": "Lyric Pieces Book 1, Op. 12: No. 1, Arietta",
+      "url": "https://open.spotify.com/track/3ntirrflLfepcy3SIZzcSB"
     },
     {
       "added_at": null,
@@ -615,22 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"A Beautiful Arietta\" - Romantic Works",
-        "url": "https://open.spotify.com/album/7dn2PkLP6SSQSHLuPBQGIb"
+        "name": "Stephen Hough's Piano Postcards",
+        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
       },
       "artists": [
         {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+          "name": "Edward MacDowell",
+          "url": "https://open.spotify.com/artist/3Pw22ANvFqf1RBh5VgHiJ2"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 69146,
-      "name": "Lyric Pieces Book 1, Op. 12: No. 1, Arietta",
-      "url": "https://open.spotify.com/track/3ntirrflLfepcy3SIZzcSB"
+      "duration_ms": 121666,
+      "name": "Woodland Sketches, Op. 51: I. To a Wild Rose",
+      "url": "https://open.spotify.com/track/6EQN52UujnXjBAE7tnrcnC"
     },
     {
       "added_at": null,
@@ -651,26 +671,6 @@
       "duration_ms": 257066,
       "name": "Paderewski: Miscellanea, Op. 16: No. 4, Nocturne in B-Flat Major",
       "url": "https://open.spotify.com/track/4QP6MmA7nrBItjVk4RxlUn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stephen Hough's Piano Postcards",
-        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
-      },
-      "artists": [
-        {
-          "name": "Edward MacDowell",
-          "url": "https://open.spotify.com/artist/3Pw22ANvFqf1RBh5VgHiJ2"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 121666,
-      "name": "Woodland Sketches, Op. 51: I. To a Wild Rose",
-      "url": "https://open.spotify.com/track/6EQN52UujnXjBAE7tnrcnC"
     },
     {
       "added_at": null,
@@ -723,6 +723,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stephen Hough's Piano Postcards",
+        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile Chaminade",
+          "url": "https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Les sylvains, Op. 60",
+      "url": "https://open.spotify.com/track/6VvV2k23i7KkyR4ZAvA5GU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hummel: Piano Concertos",
         "url": "https://open.spotify.com/album/1D3iRke9l3eUb37KY5aBSc"
       },
@@ -747,30 +767,6 @@
       "duration_ms": 473000,
       "name": "Piano Concerto in B Minor, Op. 89: II. Larghetto",
       "url": "https://open.spotify.com/track/7ry92W66OPqhDHen6dsD9j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stephen Hough's Piano Postcards",
-        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
-      },
-      "artists": [
-        {
-          "name": "Robert B. Sherman",
-          "url": "https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ"
-        },
-        {
-          "name": "Richard M. Sherman",
-          "url": "https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Mary Poppins Suite (Arr. Hough for Piano): I. Chim chim cher-ee",
-      "url": "https://open.spotify.com/track/69hPo53oMQZ1UbaiKwO2bY"
     },
     {
       "added_at": null,
@@ -815,6 +811,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stephen Hough's Piano Postcards",
+        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
+      },
+      "artists": [
+        {
+          "name": "Robert B. Sherman",
+          "url": "https://open.spotify.com/artist/7n0XJOct9yv45fCWY3t0UJ"
+        },
+        {
+          "name": "Richard M. Sherman",
+          "url": "https://open.spotify.com/artist/13Namx9iwUl1a57CcELGTb"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Mary Poppins Suite (Arr. Hough for Piano): I. Chim chim cher-ee",
+      "url": "https://open.spotify.com/track/69hPo53oMQZ1UbaiKwO2bY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Piano Album 1: Music by Paderewski, Godowsky, Dohn\u00e1nyi...",
         "url": "https://open.spotify.com/album/7EpprRSNyrDC5Mgh4CRk6a"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 129386,
       "name": "Quilter: 3 Songs, Op. 3: No. 2, Now Sleeps the Crimson Petal (Arr. Hough for Piano)",
       "url": "https://open.spotify.com/track/1CvZunMt1k73dAtRltTo2S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stephen Hough's Piano Postcards",
-        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile Chaminade",
-          "url": "https://open.spotify.com/artist/6yb2PUxafSVe2441W50jbk"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Les sylvains, Op. 60",
-      "url": "https://open.spotify.com/track/6VvV2k23i7KkyR4ZAvA5GU"
     },
     {
       "added_at": null,
@@ -903,22 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stephen Hough's Dream Album: Piano Bonbons",
-        "url": "https://open.spotify.com/album/6pYHXV0JjfTZbBz7xWUPdm"
+        "name": "\"Landscapes\": A Classical Soundtrack",
+        "url": "https://open.spotify.com/album/04NrCNfsyfCzeo7VdjwUx1"
       },
       "artists": [
         {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 137106,
-      "name": "Blow the Wind Southerly (Arr. Hough)",
-      "url": "https://open.spotify.com/track/1nHQwSvpaSoLMRaer8w2Fh"
+      "duration_ms": 58105,
+      "name": "La plus que lente, CD 128 - Excerpt",
+      "url": "https://open.spotify.com/track/4tuokacAyNDa3vpVJNKYMt"
     },
     {
       "added_at": null,
@@ -1015,70 +1015,62 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"'Landscapes\": A Classical Soundtrack",
-        "url": "https://open.spotify.com/album/04NrCNfsyfCzeo7VdjwUx1"
+        "name": "\"A Collection of Classical Fragments\": Vol. I",
+        "url": "https://open.spotify.com/album/4XzGSsQQOydvHEJH7Wr2mF"
       },
       "artists": [
         {
-          "name": "Claude Debussy",
-          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 58105,
-      "name": "La plus que lente, CD 128 - Excerpt",
-      "url": "https://open.spotify.com/track/4tuokacAyNDa3vpVJNKYMt"
+      "duration_ms": 137576,
+      "name": "Kreisleriana, Op. 16: Sehr innig und nicht zu rasch - Excerpt",
+      "url": "https://open.spotify.com/track/1eaEHhIYb99fmXe9oI4Rxz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
-        "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
+        "name": "Stephen Hough's Dream Album: Piano Bonbons",
+        "url": "https://open.spotify.com/album/6pYHXV0JjfTZbBz7xWUPdm"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        },
-        {
-          "name": "Bryden Thomson",
-          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
-        },
-        {
-          "name": "Hall\u00e9",
-          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
         }
       ],
-      "duration_ms": 56933,
-      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: III. Allegro vivace assai, Pt. 4",
-      "url": "https://open.spotify.com/track/25t6b99XBBXivgSHHpr2il"
+      "duration_ms": 137106,
+      "name": "Blow the Wind Southerly (Arr. Hough)",
+      "url": "https://open.spotify.com/track/1nHQwSvpaSoLMRaer8w2Fh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "\"A Summer Journey: Bach, Mozart & more\"",
-        "url": "https://open.spotify.com/album/1RSf2iSHBdc2LfdYHlqNS8"
+        "name": "Chopin: Nocturnes (Complete)",
+        "url": "https://open.spotify.com/album/4laomoW9n1HN2R2DRoFVCn"
       },
       "artists": [
         {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 111386,
-      "name": "Lyric Pieces Book 10, Op. 71: No. 7, Remembrances",
-      "url": "https://open.spotify.com/track/7jtIYgcqJL96rqPraEPH1n"
+      "duration_ms": 347533,
+      "name": "Nocturne No. 3 in B Major, Op. 9 No. 3",
+      "url": "https://open.spotify.com/track/4XJN9TjefebndyPh03Ade4"
     }
   ],
   "unique_name": "This Is Stephen Hough",

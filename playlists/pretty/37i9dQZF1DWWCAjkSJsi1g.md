@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 
 > The biggest old school anthems from your favourite nightclub spots!
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,115 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,987 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCAjkSJsi1g.md) - [plain]
 | 99 | [Girlfriend](https://open.spotify.com/track/5TxdQaqp2Xn9IBTlfq26l7) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7gfXFkA259SkaFeJxSFtKE) | 4:13 |
 | 100 | [Dip It Low](https://open.spotify.com/track/3CldFq28sCroIcmc42pRmZ) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Girls' Night Out](https://open.spotify.com/album/25akGACCyuW80OnWrv8kjJ) | 3:16 |
 
-Snapshot ID: `AAAAAAThk08H5LH8Y4VDERMgP+alirJc`
+Snapshot ID: `AAAAAP6PV+yntMr2EI2OK7hUR6z3eIfw`

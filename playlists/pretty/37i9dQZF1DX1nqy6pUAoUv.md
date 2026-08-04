@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,509 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,486 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 13 | [Bird of the Blizzard](https://open.spotify.com/track/0O6m0MtKrl8KZpavDZX6lQ) | [Spell Songs](https://open.spotify.com/artist/5GL5xJTQ7CG216T9L2C0gz), [Julie Fowlis](https://open.spotify.com/artist/3IqWMVFksTbtL2EaFi5o8k) | [Spell Songs II: Let the Light In](https://open.spotify.com/album/0kMRuEo2NrqpeWeQKEZuKN) | 4:33 |
 | 14 | [Simple Song](https://open.spotify.com/track/70HWRkitkAKfos500LBk0T) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [The Boy Who Cried Wolf](https://open.spotify.com/album/2sGDQ4EeMBzUf7r21JyrNV) | 3:48 |
 | 15 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 |
-| 16 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 |
+| 16 | [I Am California \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose \(Vinyl\)](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 |
 | 17 | [Colour Me](https://open.spotify.com/track/6MfsJgg1gTRxLbmh0ZZYi4) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [GREY](https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI) | 3:31 |
 | 18 | [Real Heart](https://open.spotify.com/track/6jjpqcjHaH42fu2lY4E0Wl) | [Mason Jennings](https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo) | [Real Heart](https://open.spotify.com/album/3MnrQYNpy5o9H4bGhkkpdU) | 3:48 |
 | 19 | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [Manchester Air](https://open.spotify.com/track/3DR0HjNmqlQ2mDmI8AuP2l) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Manchester Air](https://open.spotify.com/album/6J5XzblZhX17EZKFYnie89) | 4:07 |
 | 100 | [Worried Mind](https://open.spotify.com/track/4baCiANTGHL13fLcIhOEez) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Listen](https://open.spotify.com/album/2OhThiJGELO8T0K22TN4lV) | 2:43 |
 
-Snapshot ID: `AAAAAC9V6nr0Q91EEdKRG7TIMaud+m6a`
+Snapshot ID: `AAAAALsWaH7C8A2JIzT4V4rDBQ3T/iy+`

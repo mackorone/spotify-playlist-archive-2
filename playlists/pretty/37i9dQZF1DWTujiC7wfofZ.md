@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > 100% indie floorfillers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,752 likes - 150 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,709 likes - 150 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 149 | [Pressure to Party](https://open.spotify.com/track/13LsKYpr3ZNMTRu0Lo8Z7R) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/4hW2wvP51Myt7UIVTgSp4f) | 3:02 |
 | 150 | [hotline](https://open.spotify.com/track/6FJWesEzZe425dNdigUbSa) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [1](https://open.spotify.com/album/76OFhgPO6W6WMwm6KlKX0Y) | 2:17 |
 
-Snapshot ID: `AAAAAPjqvMbYjVeBvmQi8lPpLMBcE9IO`
+Snapshot ID: `AAAAAGDRDaJ2h5lXdoC0vuQQPF0rtDid`

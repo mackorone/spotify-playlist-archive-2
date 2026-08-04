@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,700 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,676 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 99 | [Toy Heart](https://open.spotify.com/track/0y9CKIUQGBPdeTU3Mjo389) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Toy Heart](https://open.spotify.com/album/0af3f7ejJ7Y3nsLhVnvc9I) | 3:17 |
 | 100 | [Biotope](https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Biotope](https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd) | 2:48 |
 
-Snapshot ID: `AAAAAEcgDyzDrmn3nSlvlBW9HZan/n56`
+Snapshot ID: `AAAAAEMfmBppPAt8g/dCkpgZfUlP5LFc`

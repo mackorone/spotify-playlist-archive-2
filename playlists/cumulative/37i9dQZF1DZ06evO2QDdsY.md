@@ -4,7 +4,7 @@
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 37 min
+102 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Fade Into You](https://open.spotify.com/track/0zMkPeOXFjcDJymkJl5qZD) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:45 | 2023-06-01 |  |
 | [Fade Into You](https://open.spotify.com/track/2SF4jGzFzrTdOm7ivfIDqY) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fade Into You](https://open.spotify.com/album/0rBigYSvUtkuE4C8qvVg0L) | 4:45 | 2022-09-16 | 2025-03-10 |
 | [Fallin'](https://open.spotify.com/track/2bmKof7OGfJGfPE3jNNsZu) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Fallin'](https://open.spotify.com/album/6HvXWUQl5qiLKo58HWhR1U) | 3:18 | 2022-09-16 | 2026-03-24 |
+| [Fallin'](https://open.spotify.com/track/6MDmdCyYOIxgwRrohXy1CI) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:18 | 2026-08-04 |  |
 | [For What It's Worth](https://open.spotify.com/track/5FqXVTKfmWtoV9XFnhGtsj) | [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For What It's Worth](https://open.spotify.com/album/5o25ZkbK19PYTefKUhCkv8) | 2:33 | 2026-01-24 |  |
 | [Friendship \[Feat\. Carla Thomas, Stax Music Academy\]](https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [Friendship \[Feat\. Carla Thomas and Stax Music Academy\]](https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3) | 3:39 | 2024-07-03 |  |
 | [Godspeed](https://open.spotify.com/track/6r2gdsL25eruBV8cBefbtY) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 2:49 | 2022-09-16 | 2025-04-20 |
@@ -72,7 +73,7 @@
 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 | 2022-09-16 |  |
 | [Smokestack](https://open.spotify.com/track/6sM6OaLJRpJszcQKac5DL2) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Smokestack](https://open.spotify.com/album/7cDSxdftTEfukBZGe8rgst) | 4:43 | 2026-08-01 |  |
 | [Somebody To Love](https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:32 | 2022-09-16 |  |
-| [Stardust Scattering](https://open.spotify.com/track/0yKkIOvCiTmiPVUTZ3EbQ7) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:29 | 2022-09-16 |  |
+| [Stardust Scattering](https://open.spotify.com/track/0yKkIOvCiTmiPVUTZ3EbQ7) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:29 | 2022-09-16 | 2026-08-04 |
 | [Stay](https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:01 | 2022-09-16 | 2026-07-19 |
 | [Stay Meditation](https://open.spotify.com/track/2dm0jizi5StxHnOWuhub85) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 0:54 | 2022-10-12 | 2025-01-20 |
 | [Strange Things Happening Every Day](https://open.spotify.com/track/6GRmyRHooT9FHrDcwHrozr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Richard: I Am Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6xR73ACoQV35rILeYhBM3w) | 2:52 | 2023-06-20 | 2023-08-11 |

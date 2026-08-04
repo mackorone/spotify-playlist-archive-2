@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Reynaldos de la Sierra en cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,964 likes - 125 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,555 likes - 125 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [Casi Algo](https://open.spotify.com/track/2InFGvJZvQjiGZixFFvvj1) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casi Algo](https://open.spotify.com/album/1Tk99mHlULtaxKGSjkrgEA) | 3:33 |
 | 125 | [SOY GRACIAS A DIOS](https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [SOY GRACIAS A DIOS](https://open.spotify.com/album/7nCy9Z4VJYjvyObsEwPDL4) | 2:43 |
 
-Snapshot ID: `AAAAAApIEIo5+Ev7tNR8TBzWF1jvhWg3`
+Snapshot ID: `AAAAAIm0ExNumnvkVoYbRdFHohRQ4rs0`

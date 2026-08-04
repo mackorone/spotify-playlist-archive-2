@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dancefloor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,557 likes - 75 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,775 likes - 75 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Baciami](https://open.spotify.com/track/0trp5xcRDZwQiL7zatx8gs) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Produkkt](https://open.spotify.com/artist/10AGP2d21KeHinRjJNaf4b), [Giorgi](https://open.spotify.com/artist/2NPewIaZgMicN9HeOZjuoN) | [Baciami](https://open.spotify.com/album/1Yfw5ZfDELSGZHbTvjWofP) | 2:56 |
 | 75 | [Napoletana \- Dance Rituals](https://open.spotify.com/track/6bEQ6Sr51Ij3p3NwlV8UwC) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow) | [Napoletana \(Dance Rituals\)](https://open.spotify.com/album/00lUUPzAWmS99tE7tX5WQY) | 3:44 |
 
-Snapshot ID: `AAAAAKxSDIfNxfKyH2FF6CAvIchHsxdq`
+Snapshot ID: `AAAAAKRBsSLLDkww7TkPI1D/o2mAI8ZU`

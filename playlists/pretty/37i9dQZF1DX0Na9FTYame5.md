@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Na9FTYame5.md) - [plain]
 
 > Deutschrap für die emotions\. Cover: Mucco
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,750 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,509 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Na9FTYame5.md) - [plain]
 | 99 | [Keine Helden](https://open.spotify.com/track/3hvT7LmndHeQ8dIPFXe4HU) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG) | [Keine Helden](https://open.spotify.com/album/11AkC0fCpMYZ6Ef4NK0wHK) | 3:05 |
 | 100 | [Fremder Mann](https://open.spotify.com/track/5Mduvr7sXDbkXh5rBDLBZg) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Fremder Mann](https://open.spotify.com/album/4yURqlXD0uHzw8bvTgemOO) | 2:43 |
 
-Snapshot ID: `AAAAAJPigCazOYjfFYdm56fnA4pPh6LX`
+Snapshot ID: `AAAAAM935o7yyyXHUS9ViDSSt0dhD2by`

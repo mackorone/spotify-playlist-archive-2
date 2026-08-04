@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,432 likes - 75 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 915,399 likes - 75 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 74 | [Bem a Tempo \- Yemanjo Remix](https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD) | [Mose](https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90), [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Bem a Tempo \(Yemanjo Remix\)](https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2) | 5:37 |
 | 75 | [Mindgames](https://open.spotify.com/track/29nPx72E4v4mGiTgv5PzxZ) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS), [Clemente](https://open.spotify.com/artist/6Fd984bTk8JnpVROSaUbhn), [Groove Shack](https://open.spotify.com/artist/5WfPCSJtIqsG7VSGkthVJb), [Pieces Of Life](https://open.spotify.com/artist/0iZFcLvPZQPPZH3Z5sTHfY) | [Mindgames](https://open.spotify.com/album/7eP5vqZaSSnB2VtiqfM2Vf) | 6:29 |
 
-Snapshot ID: `AAAAAKcQIOMui6N5+LQbpvp7D/uL1LMU`
+Snapshot ID: `AAAAALFtb+/sLVmd0nGsOmyeqiuqW6lf`

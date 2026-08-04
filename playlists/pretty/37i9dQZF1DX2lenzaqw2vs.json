@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Ruzzi",
-  "num_followers": 136217,
+  "num_followers": 135263,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADaeUKL6vM3kDxQeGE2eRN9Ny2Zk",
+  "snapshot_id": "AAAAAFus/bVFZfSe2QE1PKYll/OxLCSI",
   "tracks": [
     {
       "added_at": "2026-05-19 00:14:35",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2026-05-19 00:14:35",
       "album": {
-        "name": "Uno de nosotros (feat. Javiera Mena)",
-        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
-      },
-      "artists": [
-        {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
-        },
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 249518,
-      "name": "Unx de nosotrxs (feat. Javiera Mena)",
-      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
-    },
-    {
-      "added_at": "2026-05-19 00:14:35",
-      "album": {
         "name": "Canciones de Amor",
         "url": "https://open.spotify.com/album/1xyRm4Ti9USkm9sVTwVfXU"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 194043,
       "name": "Canciones de Amor",
       "url": "https://open.spotify.com/track/1RjmeNxL0KNM0KTH8aySAO"
+    },
+    {
+      "added_at": "2026-05-19 00:14:35",
+      "album": {
+        "name": "Uno de nosotros (feat. Javiera Mena)",
+        "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        },
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 249518,
+      "name": "Unx de nosotrxs (feat. Javiera Mena)",
+      "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
     },
     {
       "added_at": "2026-05-19 00:14:35",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist qui sent le sapin pis la joie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,164 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,149 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 66 | [Aujourd'hui, il est né](https://open.spotify.com/track/030iFCDPVdwZbpVCxlXMJi) | [Gab Paquet](https://open.spotify.com/artist/6RQFfAmeNqrEaTaFWitpOp) | [Aujourd'hui, il est né](https://open.spotify.com/album/4BwOqtlX1aBORu1uY59jDs) | 3:55 |
 | 67 | [Noël à Saint\-Marc](https://open.spotify.com/track/3NPAUjCPDuQva9q2kTO3NM) | [Papi Jay](https://open.spotify.com/artist/3SpjGd9DMEmcncWWja6UlI) | [Noël à Saint\-Marc](https://open.spotify.com/album/5ZUUZCcGaWlXLedDErOOte) | 3:42 |
 | 68 | [Noël ne veut rien dire sans toi](https://open.spotify.com/track/6B9P8QWO4rSIxDUiuQigQI) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [Noël ne veut rien dire sans toi](https://open.spotify.com/album/1tAovDmk856d4TWrsMjENx) | 3:23 |
-| 69 | [Noël nouvelet](https://open.spotify.com/track/1m2WeRzmCIGW5gAOdGAElF) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:15 |
-| 70 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
-| 71 | [Noël en famille](https://open.spotify.com/track/3txCVfqHwx0ZhcG4ej5xdm) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Noël en famille](https://open.spotify.com/album/1ErcaPRj2K89GSZNkPymj8) | 3:33 |
-| 72 | [Nuit de décembre](https://open.spotify.com/track/38XrA6htadkifCubZHAgQ9) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246), [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Nuit de décembre](https://open.spotify.com/album/2vgC6VqFmg9BfXW03vDzL5) | 3:25 |
+| 69 | [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 |
+| 70 | [Noël en famille](https://open.spotify.com/track/3txCVfqHwx0ZhcG4ej5xdm) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Luis Clavis](https://open.spotify.com/artist/1X1UnBTgjMjX16zmlavczO) | [Noël en famille](https://open.spotify.com/album/1ErcaPRj2K89GSZNkPymj8) | 3:33 |
+| 71 | [Nuit de décembre](https://open.spotify.com/track/38XrA6htadkifCubZHAgQ9) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246), [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Nuit de décembre](https://open.spotify.com/album/2vgC6VqFmg9BfXW03vDzL5) | 3:25 |
+| 72 | [Noël nouvelet](https://open.spotify.com/track/1m2WeRzmCIGW5gAOdGAElF) | [Belle Grand Fille](https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2) | [Noël nouvelet](https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk) | 3:15 |
 | 73 | [Noël](https://open.spotify.com/track/75kUnhIeG0dGcwanOcX9Dl) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC) | [Noël](https://open.spotify.com/album/0YGHpzUXxhxm6bSvSuWlWw) | 2:56 |
 | 74 | [C'est l'hiver \- Live](https://open.spotify.com/track/75FP9LzNnCPxa8PnCgK46A) | [Suzie Villeneuve](https://open.spotify.com/artist/1LwihJaOQLGpPb9ue7euvj) | [Joyeux Noël \(Live\)](https://open.spotify.com/album/19kLfZz5niWnL35nzP6dXz) | 2:25 |
 | 75 | [Noël](https://open.spotify.com/track/5kME8UidheMP9OAQsqRvQG) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7) | [Les tubes de Noël, vol.4](https://open.spotify.com/album/3ipxucNMIaascnIUkANLe8) | 4:18 |
@@ -96,10 +96,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 86 | [C'est l'hiver](https://open.spotify.com/track/3qYBK9Xs5EId22LsobGeNX) | [Marc Hervieux](https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5) | [Nostalgia Noël](https://open.spotify.com/album/1H654Ne8tMzOKOAmNPUxLn) | 2:32 |
 | 87 | [À soir c'est Noël](https://open.spotify.com/track/30Zg9WuiTalyM3wmwiqs1J) | [Marc Picard](https://open.spotify.com/artist/2cCnSvJofd7JKMNgKVeXou) | [À soir c'est Noël](https://open.spotify.com/album/14PccyfM5layefTF0yAB1z) | 2:23 |
 | 88 | [Quand j’ai embrassé le Père Noël](https://open.spotify.com/track/4VxlGbuKwoaa3VNMTycdcl) | [Fallenium](https://open.spotify.com/artist/5MoKpr0a1MfK5wQI6XVXxd) | [Quand j’ai embrassé le Père Noël](https://open.spotify.com/album/26N8IUfBTT5StJsvgMCcqE) | 3:44 |
-| 89 | [Noël C'est L'amour](https://open.spotify.com/track/4vfW9FJV4RBEYpfyyTy0JW) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 6:37 |
+| 89 | [Voilà le Père Noël Boogie](https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi) | [Voilà le Père Noël Boogie](https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S) | 3:11 |
 | 90 | [Chanson du rigodon](https://open.spotify.com/track/3rmSypow6s4obdwBJMwOkR) | [Guylaine Tremblay](https://open.spotify.com/artist/0xoUoGFFPr2ll9d6kXA0sq) | [L'étrange Noël d'Amandine et de Gédéon](https://open.spotify.com/album/4Dlto9hf8TyXoiX3ASO2Rv) | 2:14 |
-| 91 | [Voilà le Père Noël Boogie](https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi) | [Voilà le Père Noël Boogie](https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S) | 3:11 |
-| 92 | [Vive le vent \- Vivre](https://open.spotify.com/track/3WddYIgeql0JJEAjH32QXE) | [Tocadéo](https://open.spotify.com/artist/6Eobl6c1IhZ8TAmobjE5OJ) | [Meilleurs Vœux \(Vivre\)](https://open.spotify.com/album/5eLOr5aTRuerpn2sCX7UsI) | 3:29 |
+| 91 | [Vive le vent \- Vivre](https://open.spotify.com/track/3WddYIgeql0JJEAjH32QXE) | [Tocadéo](https://open.spotify.com/artist/6Eobl6c1IhZ8TAmobjE5OJ) | [Meilleurs Vœux \(Vivre\)](https://open.spotify.com/album/5eLOr5aTRuerpn2sCX7UsI) | 3:29 |
+| 92 | [Noël C'est L'amour](https://open.spotify.com/track/4vfW9FJV4RBEYpfyyTy0JW) | [Boum Ding Band](https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG) | [Noël, C'est L'amour](https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V) | 6:37 |
 | 93 | [Joyeux Noël](https://open.spotify.com/track/2tfT9JHn0MmI1hYwwk4hiv) | [Camille Cormier\-Morasse](https://open.spotify.com/artist/2wvsvqHPEfAHHxzPkyLcHB) | [Star Académie \- Noël 2025](https://open.spotify.com/album/6oV8cbv2ixtDOQH175PeWC) | 3:26 |
 | 94 | [Noël mille feux](https://open.spotify.com/track/3mrKQpSSvyg9uvr3LRWs9k) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Noël mille feux](https://open.spotify.com/album/1CDPIsDorKUmv1vavzAFAT) | 2:42 |
 | 95 | [As\-tu vu le père Noël?](https://open.spotify.com/track/2jOKMjecDbuD3TE80yjtL4) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [As\-tu vu le père Noël?](https://open.spotify.com/album/6IxBQyMO6SzCQJdBYR99kv) | 1:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [Minuit, toi et moi](https://open.spotify.com/track/7p3q2kaPrvlnv0wUOoYKYo) | [Marjolaine Morasse](https://open.spotify.com/artist/5DjFqqAgxFV47vjrnGaiLW), [Éditions Clip](https://open.spotify.com/artist/04PJWXiGnkPMwafwxPHhoV) | [Minuit, toi et moi](https://open.spotify.com/album/1iGDlBh8MquExEmD69XJZA) | 3:02 |
 | 100 | [La radio me chante Noël](https://open.spotify.com/track/22huwaaCC4duxZSUXugPpJ) | [Jack Lavoie Band](https://open.spotify.com/artist/2ocfdVJ57aYAsQbyMGBIiy), [Anick Gagnon](https://open.spotify.com/artist/0x55oXaXp1JHhcc6eqRvxi), [Hervey Hovington](https://open.spotify.com/artist/7kLlafg2wLz0JInE1QkJyD), [Manon Bédard](https://open.spotify.com/artist/5JoYRYncSVvlVFogfeN2TP), [S.V\. Ray](https://open.spotify.com/artist/4ky3llEPQC8KbYZ8xTtfZo) | [La radio me chante Noël](https://open.spotify.com/album/2uCD6HjiTx60g2j9pGgURi) | 2:50 |
 
-Snapshot ID: `AAAAABDe6h8d6OznXP0Z5BmUndth+clv`
+Snapshot ID: `AAAAAA/v465TVGF1iRzbxksqe1aEY048`

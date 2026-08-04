@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Cabron
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,478 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,480 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 49 | [Corina](https://open.spotify.com/track/2XQKtN6XwzVBYqJdtjn4zD) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Corina](https://open.spotify.com/album/5MX0exAUTVQQ7gbctilaUi) | 3:41 |
 | 50 | [Hustler](https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Hustler](https://open.spotify.com/album/5ftH8hbrnUCFhJydF6kLCr) | 2:41 |
 
-Snapshot ID: `AAAAACZLjkMslPJSeBGUvVN9RLn6+YYs`
+Snapshot ID: `AAAAAEyfyJmlgpkyCqqbVyj6OCQ7AVUT`

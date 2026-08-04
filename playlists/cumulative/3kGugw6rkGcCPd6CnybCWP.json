@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "A Million Miles Away",
+        "url": "https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G"
+      },
+      "artists": [
+        {
+          "name": "Whisky Sugar",
+          "url": "https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432810,
+      "name": "A Million Miles Away",
+      "url": "https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf"
+    },
+    {
+      "album": {
         "name": "Not All Eyes Are Green",
         "url": "https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ"
       },
@@ -666,6 +684,24 @@
       "duration_ms": 175058,
       "name": "Balance Beam",
       "url": "https://open.spotify.com/track/2is6Cz1SwoK5fGHUWhP8w3"
+    },
+    {
+      "album": {
+        "name": "BALLET BILLY",
+        "url": "https://open.spotify.com/album/1HUnj0XuLs6AQ6TxKrNr37"
+      },
+      "artists": [
+        {
+          "name": "Cut Manners",
+          "url": "https://open.spotify.com/artist/1OXL2MCFMKck1RMwKvcvNT"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106923,
+      "name": "BALLET BILLY",
+      "url": "https://open.spotify.com/track/6s75SQOvQynztfiYTc5mrC"
     },
     {
       "album": {
@@ -2763,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "NOISY NOISY NOISY",
+        "url": "https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm"
+      },
+      "artists": [
+        {
+          "name": "Impulse Bangs",
+          "url": "https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172712,
+      "name": "Forgot Yourself",
+      "url": "https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo"
+    },
+    {
+      "album": {
         "name": "Freakuency",
         "url": "https://open.spotify.com/album/5fTRffrRAXmip1mUb0r2Aw"
       },
@@ -2908,6 +2962,24 @@
       "duration_ms": 223373,
       "name": "Glue",
       "url": "https://open.spotify.com/track/4kzpEro293CHBZG3Ilx8kH"
+    },
+    {
+      "album": {
+        "name": "Go and Fu.. Yourself",
+        "url": "https://open.spotify.com/album/2f9km0bgK0U2SgL1bMIqZg"
+      },
+      "artists": [
+        {
+          "name": "ThorE.E.K",
+          "url": "https://open.spotify.com/artist/3X9i2Xfpf4CQjCeV6QMEps"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178410,
+      "name": "Go and Fu.. Yourself",
+      "url": "https://open.spotify.com/track/4nBBFkTumPQgEFyqd3gnA1"
     },
     {
       "album": {

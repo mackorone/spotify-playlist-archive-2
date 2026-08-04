@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,457 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,463 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 74 | [Celestial Space Reiki Harmony](https://open.spotify.com/track/7tmGvgpBA2khyoS3i3ekpY) | [Zoey Quinn](https://open.spotify.com/artist/3X6bhrMbkmIbJ6CFhWgJBo) | [Celestial Space Harmony](https://open.spotify.com/album/0zqWOg6YKuSkfKeL81oKW3) | 4:38 |
 | 75 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Forest Bathing](https://open.spotify.com/artist/6aJCmoJbcNSxH68H4hlVpY) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
 
-Snapshot ID: `AAAAADGL213tGV5mh9IYSleHu3fa+7ED`
+Snapshot ID: `AAAAAEVYH5DgtnIWp4C4rK9zlV/Zs5xd`

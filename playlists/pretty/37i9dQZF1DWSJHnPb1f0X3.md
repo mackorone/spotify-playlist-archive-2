@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,100,049 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,098,575 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [work](https://open.spotify.com/track/3ISiRKaCo6JzoKRjNJlvQA) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [work](https://open.spotify.com/album/0PrpxrMj10YkptkVb1wHza) | 2:25 |
 | 100 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 |
 
-Snapshot ID: `AAAAALNz/5jbNBRzxvWgsz3yg5CgnHMR`
+Snapshot ID: `AAAAAGpfkozpsZwe7qvccAqzhSNkS5oJ`

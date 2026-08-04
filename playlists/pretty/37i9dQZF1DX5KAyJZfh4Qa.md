@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Koyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,062 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,090 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 91 | [Yesterday](https://open.spotify.com/track/3Qmp3Q050aV20drU1kbYx9) | [Tiny Voices](https://open.spotify.com/artist/09slOICvQXnXEGDUSjmEaD), [Chris Freeman](https://open.spotify.com/artist/5EPSzvtQgmhsD7jPs26ass) | [Backseat Therapist](https://open.spotify.com/album/6OdRUVTlGm3qVwBBJe5mdJ) | 2:53 |
 | 92 | [Wind\-Up Toy](https://open.spotify.com/track/4Dc80Dqs8DZFHnL67hwypo) | [Hey, Ily](https://open.spotify.com/artist/73XtH9MpvvvcUxQxYEAX15) | [Hey, I Loathe You!](https://open.spotify.com/album/1vzhHMqzTPZVX7We3rrua1) | 3:32 |
 | 93 | [Botch Job](https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Botch Job](https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3) | 2:46 |
-| 94 | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/track/3IN7iNZ2dZvxK60BvbTSN7) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/album/2UukzlfOmjhvwOvBs8z4c9) | 3:04 |
-| 95 | [Seoul](https://open.spotify.com/track/242MWOVEHopesZNGpUXih2) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0) | [Seoul](https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM) | 3:17 |
+| 94 | [Seoul](https://open.spotify.com/track/242MWOVEHopesZNGpUXih2) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0) | [Seoul](https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM) | 3:17 |
+| 95 | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/track/3IN7iNZ2dZvxK60BvbTSN7) | [Good Hangs](https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W) | [DO IT FOR DALE \(hope my love will quit\)](https://open.spotify.com/album/2UukzlfOmjhvwOvBs8z4c9) | 3:04 |
 | 96 | [Wednesday, Forever???](https://open.spotify.com/track/1tQ6SShGUGtdj6dVh1jAiW) | [Fox Teeth](https://open.spotify.com/artist/76VMGsrr08CYw4BD3Vl4He) | [Wednesday, Forever???](https://open.spotify.com/album/0F1sRZIASVPx7RCXJHdZGS) | 3:15 |
 | 97 | [Sixth Sense](https://open.spotify.com/track/67dfhhZTDrlHKw94sdvqYX) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Sixth Sense](https://open.spotify.com/album/7jCl50f6dYTLWDwLqI9tvF) | 3:08 |
 | 98 | [7AM](https://open.spotify.com/track/3X2dZ76DtGta0pukBGzUxd) | [CURB](https://open.spotify.com/artist/16be15Aitv731NGEMWwt9V) | [Hope You're Doing Well, Michaela](https://open.spotify.com/album/79xK4wzVxVFRDZi5ohUZQO) | 3:06 |
 | 99 | [kissinginacarcrash](https://open.spotify.com/track/3mI9Zb7Yw2iTNDcn0izhCq) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [kissinginacarcrash](https://open.spotify.com/album/4d1pLNwffNxsNQhiwNbTvt) | 3:09 |
 | 100 | [Never Meant To](https://open.spotify.com/track/5NtfFrcimmMi0VNn2Nt1tO) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [Never Meant To](https://open.spotify.com/album/6G43jE12MNPUbmdzbSlBOo) | 3:04 |
 
-Snapshot ID: `AAAAALqV2rlqVX0bSOIkqqNXzwe5gBpJ`
+Snapshot ID: `AAAAAIp/Ch9ALykMcODRX8TZBUNx7Lpz`

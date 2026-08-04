@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Let go and let God.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,906 likes - 150 songs - 9 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,839 likes - 150 songs - 9 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 149 | [Easily](https://open.spotify.com/track/3LVrJBgiKuB7g8g65rg7ny) | [ELEANOR](https://open.spotify.com/artist/3UVUrKoUvZqGbIOUj9Lcvi) | [Easily](https://open.spotify.com/album/58mtJv5vFcgS0NAoPAzAsj) | 3:47 |
 | 150 | [i'm tired](https://open.spotify.com/track/0BpSLwVqkMD5sKTF1reyRY) | [Stephen Willo](https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa) | [i'm tired](https://open.spotify.com/album/3oT9ojqt6lmYsnzvTe88ya) | 2:30 |
 
-Snapshot ID: `AAAAAF4xoxMPo5TxmJrKaJb/GhyVckxd`
+Snapshot ID: `AAAAADlsA2shbTXmcrGWekYunZ/uka9x`

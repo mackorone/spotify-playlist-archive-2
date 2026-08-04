@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > أحلى أغاني المسلسلات المصرية 📺✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,174 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,183 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 99 | [Darbt M3lm \- From Darbt M3lm Series](https://open.spotify.com/track/3eT7b4I0Wv4AhaOv3lao5g) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Darbt M3lm \(From Darbt M3lm Series\)](https://open.spotify.com/album/0kQ1e7xbVQKcr2cbCq5RQq) | 3:40 |
 | 100 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 |
 
-Snapshot ID: `AAAAALyw2QSEs41PNtVDufZrBIkC/VSf`
+Snapshot ID: `AAAAAAJO0pxL+cKoBes83iMR5YDo+Ei/`

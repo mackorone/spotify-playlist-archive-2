@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres.\. Cover: Jason Crabb
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,555 likes - 75 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,557 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSWzScBKziy.md) - [plain]
 | 74 | [The Love of God](https://open.spotify.com/track/4wGtkg4JTISnP2aOTge6Id) | [Bellsburg Sessions](https://open.spotify.com/artist/008bteZ1A25Vw1jhUNbibn), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Jimmy Abegg](https://open.spotify.com/artist/11goR4DjvYo7e6cco6bII1) | [The Love of God](https://open.spotify.com/album/7aFKBsVHwgTbT280YDGrw1) | 2:48 |
 | 75 | [Your Kingdom Come](https://open.spotify.com/track/3SQMtWbtOscPFN3p3b8o4G) | [Chevas Phillips](https://open.spotify.com/artist/67Zx5vdEbthTEIbDvoYskv) | [Your Kingdom Come](https://open.spotify.com/album/7dI7ivXWwXgCP0NvDbov8b) | 3:59 |
 
-Snapshot ID: `AAAAADrchcn4fbHsdCBZ1L/ibtSP06jj`
+Snapshot ID: `AAAAALZwnS3E5kaxfi5pwHeRN0vZqW5H`

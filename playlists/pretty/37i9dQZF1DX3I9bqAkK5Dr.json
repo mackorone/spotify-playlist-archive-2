@@ -1,28 +1,36 @@
 {
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Akash Ravuru",
-  "num_followers": 45042,
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Damini Bhatla",
+  "num_followers": 45044,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOow2sHdo2GeRgA0By4K0iHlR8QT",
+  "snapshot_id": "AAAAAB6IQik58osILq0PhNltowYyKsS0",
   "tracks": [
     {
-      "added_at": "2026-07-24 05:28:52",
+      "added_at": "2026-07-31 05:55:02",
       "album": {
-        "name": "Prashna",
-        "url": "https://open.spotify.com/album/3VC4bpJZnkU5Lz6QO9FlDN"
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/4eDvSUMzqKZ60SfSF6Biky"
       },
       "artists": [
         {
-          "name": "Akash Ravuru",
-          "url": "https://open.spotify.com/artist/4zUfIdjKDNUaA4gehoRnu8"
+          "name": "Damini Bhatla",
+          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
+        },
+        {
+          "name": "Rishi Roy",
+          "url": "https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH"
+        },
+        {
+          "name": "30KEY!",
+          "url": "https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y"
         }
       ],
-      "duration_ms": 233921,
-      "name": "Prashna",
-      "url": "https://open.spotify.com/track/3U2HEZDjXZQ98WHFzmSyOg"
+      "duration_ms": 189500,
+      "name": "Seethakaalam - Side A",
+      "url": "https://open.spotify.com/track/3GnnFSpzQUcigkAjnyBtef"
     },
     {
       "added_at": "2026-06-19 05:43:05",
@@ -373,6 +381,22 @@
       "url": "https://open.spotify.com/track/1VYwiZpCXmsUvgkAhKn66o"
     },
     {
+      "added_at": "2026-07-24 05:28:52",
+      "album": {
+        "name": "Prashna",
+        "url": "https://open.spotify.com/album/3VC4bpJZnkU5Lz6QO9FlDN"
+      },
+      "artists": [
+        {
+          "name": "Akash Ravuru",
+          "url": "https://open.spotify.com/artist/4zUfIdjKDNUaA4gehoRnu8"
+        }
+      ],
+      "duration_ms": 233921,
+      "name": "Prashna",
+      "url": "https://open.spotify.com/track/3U2HEZDjXZQ98WHFzmSyOg"
+    },
+    {
       "added_at": "2026-06-10 06:10:52",
       "album": {
         "name": "Neelo Unna Shakti",
@@ -555,30 +579,6 @@
       "duration_ms": 216521,
       "name": "Neeve Neeve",
       "url": "https://open.spotify.com/track/2ZphKloOHELMlyj38FnwhN"
-    },
-    {
-      "added_at": "2026-07-31 05:55:02",
-      "album": {
-        "name": "GOLD",
-        "url": "https://open.spotify.com/album/4eDvSUMzqKZ60SfSF6Biky"
-      },
-      "artists": [
-        {
-          "name": "Damini Bhatla",
-          "url": "https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB"
-        },
-        {
-          "name": "Rishi Roy",
-          "url": "https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH"
-        },
-        {
-          "name": "30KEY!",
-          "url": "https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y"
-        }
-      ],
-      "duration_ms": 189500,
-      "name": "Seethakaalam - Side A",
-      "url": "https://open.spotify.com/track/3GnnFSpzQUcigkAjnyBtef"
     },
     {
       "added_at": "2026-07-17 05:26:21",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/7i6jmXMoOIkAMhCP7cIrGr"
     },
     {
-      "added_at": "2026-07-01 06:10:30",
-      "album": {
-        "name": "Myna",
-        "url": "https://open.spotify.com/album/3dKxvhx8faDA1hkBJbyI5M"
-      },
-      "artists": [
-        {
-          "name": "yogesh raj kumar",
-          "url": "https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW"
-        }
-      ],
-      "duration_ms": 176549,
-      "name": "Myna",
-      "url": "https://open.spotify.com/track/6d9eGt2BZIvoeDfjsZ7rFE"
-    },
-    {
       "added_at": "2026-02-20 09:03:20",
       "album": {
         "name": "Naalo Manasu",
@@ -1043,6 +1027,22 @@
       "duration_ms": 246728,
       "name": "Naalo Manasu",
       "url": "https://open.spotify.com/track/3VoZO7ceMwffilEDWQ3tIe"
+    },
+    {
+      "added_at": "2026-07-01 06:10:30",
+      "album": {
+        "name": "Myna",
+        "url": "https://open.spotify.com/album/3dKxvhx8faDA1hkBJbyI5M"
+      },
+      "artists": [
+        {
+          "name": "yogesh raj kumar",
+          "url": "https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW"
+        }
+      ],
+      "duration_ms": 176549,
+      "name": "Myna",
+      "url": "https://open.spotify.com/track/6d9eGt2BZIvoeDfjsZ7rFE"
     },
     {
       "added_at": "2026-04-27 06:05:24",
@@ -1721,6 +1721,22 @@
       "url": "https://open.spotify.com/track/3xlfOfGSZBxmBfu5oe34RG"
     },
     {
+      "added_at": "2026-02-20 09:03:20",
+      "album": {
+        "name": "Nalo",
+        "url": "https://open.spotify.com/album/3FRkVdClzNnYcYllwG2v6Q"
+      },
+      "artists": [
+        {
+          "name": "Arviz",
+          "url": "https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf"
+        }
+      ],
+      "duration_ms": 143073,
+      "name": "Nalo",
+      "url": "https://open.spotify.com/track/67vWJfoqPjkRqA2tEMqRo8"
+    },
+    {
       "added_at": "2026-04-15 06:57:01",
       "album": {
         "name": "Edho Varamila",
@@ -1739,22 +1755,6 @@
       "duration_ms": 243571,
       "name": "Edho Varamila",
       "url": "https://open.spotify.com/track/3aBodknhLkUpac581YamqC"
-    },
-    {
-      "added_at": "2026-02-20 09:03:20",
-      "album": {
-        "name": "Nalo",
-        "url": "https://open.spotify.com/album/3FRkVdClzNnYcYllwG2v6Q"
-      },
-      "artists": [
-        {
-          "name": "Arviz",
-          "url": "https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf"
-        }
-      ],
-      "duration_ms": 143073,
-      "name": "Nalo",
-      "url": "https://open.spotify.com/track/67vWJfoqPjkRqA2tEMqRo8"
     },
     {
       "added_at": "2026-04-24 09:54:03",
@@ -1837,6 +1837,34 @@
       "url": "https://open.spotify.com/track/5rVDqvlWZhyzBVmhohLGje"
     },
     {
+      "added_at": "2026-07-31 15:31:11",
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2VK1jGPKAQrLuBtzkpzmMN"
+      },
+      "artists": [
+        {
+          "name": "Jagdish Chintala",
+          "url": "https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Lakshmi Meghana",
+          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
+        },
+        {
+          "name": "Srirag Vadlakonda",
+          "url": "https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb"
+        }
+      ],
+      "duration_ms": 177029,
+      "name": "Kala",
+      "url": "https://open.spotify.com/track/5dA1pojrIyVHRrbsOtfdlQ"
+    },
+    {
       "added_at": "2026-02-14 00:30:30",
       "album": {
         "name": "Nuvvu Vuntava?",
@@ -1867,34 +1895,6 @@
       "duration_ms": 177239,
       "name": "Chandinive",
       "url": "https://open.spotify.com/track/4Fh0sJQp4T5fAVXWqsNI3D"
-    },
-    {
-      "added_at": "2026-07-31 15:31:11",
-      "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/2VK1jGPKAQrLuBtzkpzmMN"
-      },
-      "artists": [
-        {
-          "name": "Jagdish Chintala",
-          "url": "https://open.spotify.com/artist/1Ll6Pj8fy7R3e6ghT2lzVC"
-        },
-        {
-          "name": "Krishna Tejasvi",
-          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
-        },
-        {
-          "name": "Lakshmi Meghana",
-          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
-        },
-        {
-          "name": "Srirag Vadlakonda",
-          "url": "https://open.spotify.com/artist/6OCxOIWN5WGB9iZSnYqwRb"
-        }
-      ],
-      "duration_ms": 177029,
-      "name": "Kala",
-      "url": "https://open.spotify.com/track/5dA1pojrIyVHRrbsOtfdlQ"
     },
     {
       "added_at": "2026-02-20 09:03:20",

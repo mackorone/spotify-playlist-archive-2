@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5TxeYcalut.md) - [plain]
 
 > Uma seleção especial do jazz nacional\. Foto: Azymuth
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,458 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,386 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5TxeYcalut.md) - [plain]
 | 99 | [Rasif](https://open.spotify.com/track/4uXZVm7PEM4oTcTkM1s5ER) | [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Rasif](https://open.spotify.com/album/7Fi6mInnl2Kvr4TzX7bfuO) | 6:07 |
 | 100 | [Mouro Blues, Pt\. 1](https://open.spotify.com/track/2EMMVofSjmccvsQaS4tAvN) | [Rodrigo Lessa](https://open.spotify.com/artist/579p9tBYxs1p79tqV8nqTG), [Antonio Guerra](https://open.spotify.com/artist/55PwAEc5O944ktNzyEOBe1), [Eduardo Neves](https://open.spotify.com/artist/0QgByaGH4X2h1JVkipfFS0), [Guto Wirtti](https://open.spotify.com/artist/6TQaGuln1g8Lh3LcnffUgj), [Xande Figueiredo](https://open.spotify.com/artist/3x5w6ze8QuChMvC8NHh7bM) | [Palavra Alada 1](https://open.spotify.com/album/2Hd9Sm9rRBp3u4XqzFTDqZ) | 2:23 |
 
-Snapshot ID: `AAAAADdXdGnAv1fbPnVcqYCQyh3zYYFi`
+Snapshot ID: `AAAAAOQ4T/8hN5BX051jolTzmzMlTW6X`

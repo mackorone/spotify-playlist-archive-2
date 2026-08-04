@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Marca MP 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,798 likes - 97 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,298,608 likes - 97 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 96 | [Si Te Vuelves a Enamorar](https://open.spotify.com/track/0nqvp9S34yE0We5sHOoHNv) | [Decibel Norteño](https://open.spotify.com/artist/2CADP4a67sWx3GN3lJ9Wgu) | [Si Te Vuelves a Enamorar](https://open.spotify.com/album/1Fz1KX39tfYhKAp4oT8S7B) | 4:23 |
 | 97 | [Fuiste Mi Todo](https://open.spotify.com/track/0XWpz6zCBQkfCHvjIcCw91) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH), [Israel Cienfuegos](https://open.spotify.com/artist/0ouNgALf13UnBD4jkZo30Y) | [Fuiste Mi Todo](https://open.spotify.com/album/0aoqX2HEnngrs5bOpaVjiP) | 2:26 |
 
-Snapshot ID: `AAAAAAk/UH6B5asQMGWbkvHi/ygx7DHp`
+Snapshot ID: `AAAAAP9jxtMkbL/gwYEjXsFNiO+zIcxU`

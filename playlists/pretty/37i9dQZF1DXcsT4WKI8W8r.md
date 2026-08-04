@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 
 > A playlist to get you through your whole workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,430 likes - 145 songs - 8 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,494 likes - 145 songs - 8 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 | 144 | [Polaroid](https://open.spotify.com/track/1wsLHgXJ4SKIfd5ePSX1hD) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Polaroid](https://open.spotify.com/album/10bTwLR8vJxwE2SeHZxkrS) | 3:13 |
 | 145 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
 
-Snapshot ID: `AAAAAMgmbzQwPnU12MB4T1xoVVrfQEQz`
+Snapshot ID: `AAAAAMszHFRfoZaEzLcbyN246K32icb4`

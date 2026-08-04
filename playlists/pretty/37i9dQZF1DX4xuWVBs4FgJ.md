@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > The perfect soundtrack to those long nights over dinner
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,032,384 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,032,156 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 99 | [Too Easy](https://open.spotify.com/track/2rd71ftUIsxIw2C4g9V3ea) | [tig3r lewis](https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN) | [Too Easy](https://open.spotify.com/album/07JL2wkVnd1xDXI9ZRygQx) | 4:14 |
 | 100 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 |
 
-Snapshot ID: `AAAAALnYOn8mFSVGj8DKoPsotjIVk5Tf`
+Snapshot ID: `AAAAAPu3dqH726DGdK5wk5rpcIiKq1vx`

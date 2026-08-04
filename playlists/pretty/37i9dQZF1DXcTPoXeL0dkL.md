@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 
 > ¡Los grandes nombres del Vallenato viven aquí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,823 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,782 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTPoXeL0dkL.md) - [plain]
 | 59 | [Dime Pajarito](https://open.spotify.com/track/1b6JXzkLGjYtQY9JKi46VC) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Sólo Clásicos: Rafael Orozco](https://open.spotify.com/album/5pGuwOF6KPOskJb9x2sTTV) | 4:55 |
 | 60 | [Muchacha Encantadora](https://open.spotify.com/track/5Tt3giholy0v1UAJ1DJwpt) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Mejor Que Antes](https://open.spotify.com/album/3ZVXcUUrYFAfAtG1brH6oF) | 4:17 |
 
-Snapshot ID: `AAAAABdQUSC3FU2adKKx90gbTPhQOoWC`
+Snapshot ID: `AAAAAJua86y5UkMi1bE2bj8BwDDQ3p4p`

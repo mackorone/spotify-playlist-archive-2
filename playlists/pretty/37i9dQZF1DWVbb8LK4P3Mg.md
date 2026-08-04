@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: DAY6\(데이식스\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,314 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,285 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [White Christmas](https://open.spotify.com/track/7fBkbMzxZ4XQvCrLRVuR6O) | [LeeBoram \(seeya\)](https://open.spotify.com/artist/1ZMb9j2ssGDvUY2ZcwWijW), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Baekyebin](https://open.spotify.com/artist/12Uoy7i814uNVhoCaz6pQW) | [White Christmas](https://open.spotify.com/album/2zxcBkQRkiHohhsc3yLJCR) | 3:47 |
 | 100 | [Christmas Love](https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Christmas Love](https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3) | 3:12 |
 
-Snapshot ID: `AAAAAJ/JHnVA8G3XkX1aXWHLPvdZDdQb`
+Snapshot ID: `AAAAAGQOB0PMdtkMVNzBdE3eNYW0pk6b`

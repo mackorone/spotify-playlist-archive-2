@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJdnCVgVOBcWg3IZdMr0pEtLsZ81aU",
+  "snapshot_id": "AAAJeK7ZQu4+5+UERcwgPGD9ptUPP6k/",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -75827,6 +75827,38 @@
       "duration_ms": 224598,
       "name": "Cut Me Down to Size",
       "url": "https://open.spotify.com/track/5ZRkevvQxGto6eP71Teft8"
+    },
+    {
+      "added_at": "2026-08-03 05:31:34",
+      "album": {
+        "name": "Velvet Sky",
+        "url": "https://open.spotify.com/album/68IJnapBanCWmdMcGIVESn"
+      },
+      "artists": [
+        {
+          "name": "Becker",
+          "url": "https://open.spotify.com/artist/1JBAK5V2WNlY6lFqztPcbh"
+        }
+      ],
+      "duration_ms": 213692,
+      "name": "Velvet Sky",
+      "url": "https://open.spotify.com/track/0xIgta9Q5wBNZAr4adiyo6"
+    },
+    {
+      "added_at": "2026-08-03 05:56:43",
+      "album": {
+        "name": "\u7d04\u675f\u306e\u5730",
+        "url": "https://open.spotify.com/album/5f7HkfplGdBOXjlCQlJDos"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30cb\u30f3\u30b0\u30b9\u30c9\u30e9\u30b4\u30f3",
+          "url": "https://open.spotify.com/artist/0nbrD5mGsTeWQFyXKBSx3r"
+        }
+      ],
+      "duration_ms": 355916,
+      "name": "Decay for silence",
+      "url": "https://open.spotify.com/track/0fCmyg0l2VDo57tCzzjCiH"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sweet sounds and welcoming vibes—come on in and stay for a while
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,656 likes - 99 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,639 likes - 99 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 98 | [Road to Avalon](https://open.spotify.com/track/0iQMKwNdYXGWRW9bS7yoKf) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK) | [Click Click Domino](https://open.spotify.com/album/4jZkftndOfxPCNaUyeUQfq) | 4:36 |
 | 99 | [One Little Feeling](https://open.spotify.com/track/14G8DeuH1VjEA9FKaWvPDg) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [True Meaning](https://open.spotify.com/album/1hAH4XIkzAgTyVqVP3EDsK) | 3:33 |
 
-Snapshot ID: `AAAAAC7zHeYOXulR8mP95ZTrMQrIUEbH`
+Snapshot ID: `AAAAANPTGYVs+JZIhQxRmNZdSi/XJ64Y`

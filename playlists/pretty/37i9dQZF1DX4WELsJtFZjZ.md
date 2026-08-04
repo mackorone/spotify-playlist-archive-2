@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s\. Cover: Luther Vandross
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,722,920 likes - 150 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,723,173 likes - 150 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [Stop](https://open.spotify.com/track/2IWYi4NJyJvhpJVjVs2pm8) | [Sam Brown](https://open.spotify.com/artist/3gvT4Mc7kn54IUy08Y0Tr5), [Pete Brown](https://open.spotify.com/artist/67OKa82otrQqKDsfTDfSYA) | [Stop!](https://open.spotify.com/album/1Co1PfkD3RSirfxw6h2KfJ) | 4:55 |
 | 150 | [Little Jeannie](https://open.spotify.com/track/19Kf8FxBJ5a1Bb8uKCrIIe) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 5:13 |
 
-Snapshot ID: `AAAAAPnk16bkQQUE8bLMcuIIDAeuDNNh`
+Snapshot ID: `AAAAAEX0/qtnqVBp5AlJFZ6ZTRPNYIjo`

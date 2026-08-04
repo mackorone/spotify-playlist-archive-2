@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">wobble</a> 💥  featuring SLUGZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,989 likes - 200 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,587 likes - 200 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MINDBREAKER](https://open.spotify.com/track/1Eie6FiTFVdY6Pho1kbThI) | [SLUGZ](https://open.spotify.com/artist/0yJq6jTRvp3btZyePfvuX9), [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6) | [MINDBREAKER](https://open.spotify.com/album/0jOhPMgewjabzhYDcGDrD4) | 3:08 |
 | 2 | [Frostbite](https://open.spotify.com/track/66Eui7XZNesyQqYp4ilRci) | [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC), [Capochino](https://open.spotify.com/artist/70qOCKE1NFO6q1a1pC0KRE) | [Frostbite](https://open.spotify.com/album/2RvSm6uftORfVfSG5m7s8V) | 2:48 |
 | 3 | [Club XL](https://open.spotify.com/track/7rSzIocuSBn819F5o7BRJ3) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [LEVEL UP](https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb) | [Club XL](https://open.spotify.com/album/0EXxFwQwohLNoOjOpqdmYd) | 2:33 |
-| 4 | [LOUDER](https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [JONCASS](https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025), [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt) | [140 MAFIA](https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP) | 3:15 |
+| 4 | [LOUDER](https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt), [JONCASS](https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025) | [140 MAFIA](https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP) | 3:15 |
 | 5 | [Back To Life](https://open.spotify.com/track/2oMPAV0j89RmT9cju0CvNi) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Back To Life](https://open.spotify.com/album/4MU4IBa0NRZvMF5JTgYE5c) | 2:57 |
 | 6 | [Computah](https://open.spotify.com/track/3DP12C9X3cWK1TGDQ2L8GO) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Computah](https://open.spotify.com/album/7M3gNOkxKn5ra9Kwxc9Cx1) | 2:53 |
 | 7 | [Forever & Always](https://open.spotify.com/track/0nLGprBGH6Znj5CzRHdBpX) | [Effin](https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH) | [Forever & Always](https://open.spotify.com/album/4GwGVnX3g43iKuyjxd1s8o) | 3:32 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 199 | [Sleep Paralysis](https://open.spotify.com/track/2GnJ6rHzf2AMzQhCyN1AJX) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g) | [Sleep Paralysis](https://open.spotify.com/album/638Pj6hF9c5tz5HQKwj3ci) | 1:56 |
 | 200 | [ALL GOOD](https://open.spotify.com/track/1aNGUKAjlhR0IZprDvCmE2) | [BLOSSM](https://open.spotify.com/artist/3Mf2YIEhgMC2LXFVvxMtq1) | [ALL GOOD](https://open.spotify.com/album/0r6EiGmJgVVhOo3Ez6jeLw) | 3:15 |
 
-Snapshot ID: `AAAAAMFQyQWWuKi050cW0f2kShIszgFF`
+Snapshot ID: `AAAAABLr8fct6/MGlJDYnmE4WFSG7zwy`

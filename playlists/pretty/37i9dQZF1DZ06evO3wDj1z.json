@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 123499,
+  "num_followers": 123517,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAADGSBAH2v4PxFVFjJpXRBH0",
+  "snapshot_id": "am6IgAAAAADPXv1B9Omp4N19+aQJDKkQ",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "El Maestro",
-      "url": "https://open.spotify.com/track/6eZ4prY9gxv8AAYVasW5FR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Cielo",
         "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 164226,
       "name": "El Ayudante",
       "url": "https://open.spotify.com/track/0dI9WuHlpDdUGFXUFO8ww7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "El Maestro",
+      "url": "https://open.spotify.com/track/6eZ4prY9gxv8AAYVasW5FR"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "Cosas del Amor",
+      "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una P\u00e1gina M\u00e1s",
         "url": "https://open.spotify.com/album/0nRrvlwgmNribpWPPb1Rdb"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 127496,
       "name": "Estrella Ca\u00edda",
       "url": "https://open.spotify.com/track/0bztHEZfIFe23wKxAbHTuT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Cosas del Amor",
-      "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
     },
     {
       "added_at": null,

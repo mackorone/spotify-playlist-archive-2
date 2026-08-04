@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 695 likes - 172 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 695 likes - 173 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 143 | [Chocolate \(Tom Middleton Remix\)](https://open.spotify.com/track/3M3I4n6ttwS6UnnIkYqMYw) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [A Guevara](https://open.spotify.com/artist/1jPP6QhDYcXW9BQKM4qBbr), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT) | [Chocolate](https://open.spotify.com/album/7AHDFIYjqbv1R7xc3BLKWE) | 7:40 |
 | 144 | [Tears Will Dry](https://open.spotify.com/track/3IBCq3u9WlzoRoeBWVyfvo) | [Christophe Willem](https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD) | [Love Shot Me Down](https://open.spotify.com/album/3pCVtlLvg9OYVOUvr4Gfuv) | 3:09 |
 | 145 | [Automatic](https://open.spotify.com/track/71f96Tzf5I7uUokpF9qLG9) | [Sarah Whatmore](https://open.spotify.com/artist/6PJ4B6JfIQb05waZMBC8kQ) | [Automatic](https://open.spotify.com/album/4WQ0xzkKQi7Qrvl36XQlXk) | 3:12 |
-| 146 | [Spin Me Round](https://open.spotify.com/track/0C5NWIzDFpeDKBjVvpjIAc) | [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Spin Me Round \(Remixes\) \- EP](https://open.spotify.com/album/2OmBbxJdmkiYV0dBmRZu0q) | 3:05 |
-| 147 | [The Heat](https://open.spotify.com/track/1ZRcGc6x4HMkjCbXgXIduO) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [From The Archives](https://open.spotify.com/album/2AQwQAsBmi96TuYOO7j81g) | 3:09 |
+| 146 | [The Heat](https://open.spotify.com/track/1ZRcGc6x4HMkjCbXgXIduO) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [From The Archives](https://open.spotify.com/album/2AQwQAsBmi96TuYOO7j81g) | 3:09 |
+| 147 | [Spin Me Round](https://open.spotify.com/track/0C5NWIzDFpeDKBjVvpjIAc) | [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Spin Me Round \(Remixes\) \- EP](https://open.spotify.com/album/2OmBbxJdmkiYV0dBmRZu0q) | 3:05 |
 | 148 | [Chemical](https://open.spotify.com/track/19KFdeU14iEhw3XpldfEND) | [Matt Cardle](https://open.spotify.com/artist/3906URNmNa1VCXEeiJ3DSH) | [Run For Your Life](https://open.spotify.com/album/7EVFSwvyF8rGcb7oxCqChH) | 3:15 |
 | 149 | [Switch Me On](https://open.spotify.com/track/6nCa6qQomarOsxYbyuyIsl) | [Lovestoned](https://open.spotify.com/artist/0swDGRfKrPnLae05pY43UT) | [Rising Love](https://open.spotify.com/album/2neQHNP33XoCor6RRT664v) | 3:25 |
 | 150 | [Sophisticated Lady](https://open.spotify.com/track/1VOIXNuJp6zYcOaM282xev) | [Mel B](https://open.spotify.com/artist/2vJU4d2jRQb4zJJIQRkyDB) | [Word Up](https://open.spotify.com/album/24RkqLgyBPdNgpPYCfkFtt) | 2:43 |
@@ -173,12 +173,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 163 | [This Is Who I Am](https://open.spotify.com/track/61PIBw1SyHVuhhVqPMK5S6) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go](https://open.spotify.com/album/2GHrQuz0yU6lrpZNMvMZHh) | 3:54 |
 | 164 | [Sometimes](https://open.spotify.com/track/7gIzrXwDeh8WlsThxPRQ2F) | [Jay Bird](https://open.spotify.com/artist/2TrjvaUmQgHOhqzOiIPPLD) | [FMI, Vol\. 1](https://open.spotify.com/album/426KOY0VXOqkbOFEyjpclx) | 3:58 |
 | 165 | [Don't Let Me Down](https://open.spotify.com/track/17my6iBMd8qwYN2AZkTM5B) | [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB), [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [B Sides](https://open.spotify.com/album/6t4FKATeqkOSX5p6CKz7gX) | 4:17 |
-| 166 | [Ready or Not](https://open.spotify.com/track/1W9kMx5nVlaEkwthVPRsHU) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On \(Bonus Tracks\)](https://open.spotify.com/album/6CikpwBZ9d6duiV4Tu3yMs) | 3:49 |
-| 167 | [If You're Not the One](https://open.spotify.com/track/7cUGCNaBv1VyT5PBcscbQI) | [ELLE](https://open.spotify.com/artist/5Vd00Fe9ZNC4S7ataOQg32) | [If You're Not the One](https://open.spotify.com/album/4N2XwCs5NLHmBwtm6wPQq4) | 3:40 |
-| 168 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
-| 169 | [Nothing to Lose](https://open.spotify.com/track/5M5JzAbGN9Q6dRVJM6Mq9a) | [Russell Small](https://open.spotify.com/artist/0vL4qy0qYMzmuhPAs9Tf16), [DNO P](https://open.spotify.com/artist/1nuEitOh4LULWX8yZS216o), [Katherine Ellis](https://open.spotify.com/artist/0lfJrTVCYNYwajS1I6G96p) | [Earworm](https://open.spotify.com/album/4GAyxaCk4NAHBy394qMsfN) | 4:46 |
-| 170 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
-| 171 | [Rettungsschwimmer](https://open.spotify.com/track/20n7znKJtjth2aRVoTD3OS) | [Kinderfete](https://open.spotify.com/artist/3T6CmDs4rszGZqlL7PClxC) | [Kinderfetenhits \(Die Kinder Fetenhits\)](https://open.spotify.com/album/2DZgdqZL5j6x3JpTbV07E5) | 2:45 |
-| 172 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
+| 166 | [XMAS](https://open.spotify.com/track/4vEvgcU9aSuI7yQyAXHDsl) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas \(Fully Wrapped\)](https://open.spotify.com/album/1ujy9xmGf7fnbPLIZnBLO5) | 3:15 |
+| 167 | [Ready or Not](https://open.spotify.com/track/1W9kMx5nVlaEkwthVPRsHU) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On \(Bonus Tracks\)](https://open.spotify.com/album/6CikpwBZ9d6duiV4Tu3yMs) | 3:49 |
+| 168 | [If You're Not the One](https://open.spotify.com/track/7cUGCNaBv1VyT5PBcscbQI) | [ELLE](https://open.spotify.com/artist/5Vd00Fe9ZNC4S7ataOQg32) | [If You're Not the One](https://open.spotify.com/album/4N2XwCs5NLHmBwtm6wPQq4) | 3:40 |
+| 169 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
+| 170 | [Nothing to Lose](https://open.spotify.com/track/5M5JzAbGN9Q6dRVJM6Mq9a) | [Russell Small](https://open.spotify.com/artist/0vL4qy0qYMzmuhPAs9Tf16), [DNO P](https://open.spotify.com/artist/1nuEitOh4LULWX8yZS216o), [Katherine Ellis](https://open.spotify.com/artist/0lfJrTVCYNYwajS1I6G96p) | [Earworm](https://open.spotify.com/album/4GAyxaCk4NAHBy394qMsfN) | 4:46 |
+| 171 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
+| 172 | [Rettungsschwimmer](https://open.spotify.com/track/20n7znKJtjth2aRVoTD3OS) | [Kinderfete](https://open.spotify.com/artist/3T6CmDs4rszGZqlL7PClxC) | [Kinderfetenhits \(Die Kinder Fetenhits\)](https://open.spotify.com/album/2DZgdqZL5j6x3JpTbV07E5) | 2:45 |
+| 173 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `AcYiNAAAAACh0bBwheXC+aNhYGEjQesg`
+Snapshot ID: `AcYn1AAAAADkJLIAVx87mlmlTV9sN0Fl`

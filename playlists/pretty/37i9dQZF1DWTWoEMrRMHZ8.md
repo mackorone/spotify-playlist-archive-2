@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 
 > As belas novidades da MPB\. Foto: Lô Borges
 
-[Spotify](https://open.spotify.com/user/spotify) - 354,488 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,916 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 28 | [O Nome Certo do Amor](https://open.spotify.com/track/0Ekg7Mx59RqGUDWw3V31uT) | [Oswaldo Montenegro](https://open.spotify.com/artist/1nv813b9IAJBc2354wQodV), [Gê Lara](https://open.spotify.com/artist/2C9ngXw6itJHYuEiZpbsQj) | [O Nome Certo do Amor](https://open.spotify.com/album/0r6wUyLut4tuyYxdsoAVwO) | 2:46 |
 | 29 | [Tanto Você](https://open.spotify.com/track/5XHNV8D0GvRpLAhHJkyO3c) | [Pedro Emílio](https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N) | [Vende\-se Lembrança](https://open.spotify.com/album/6LoRbQcRtIG8vyUEDm3Y9L) | 3:19 |
 | 30 | [Flor de Maracujá](https://open.spotify.com/track/08bxoA6X4I7fdxWN0IW6DY) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi), [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Flor de Maracujá](https://open.spotify.com/album/6y6BalfQYIoT8Mx6Qc5bnr) | 3:24 |
-| 31 | [Perfeição](https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Perfeição](https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf) | 4:10 |
+| 31 | [Perfeição](https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp) | [joaobosco](https://open.spotify.com/artist/1MLGedT2E8c5gXmBtdP3Q0), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Perfeição](https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf) | 4:10 |
 | 32 | [romance](https://open.spotify.com/track/1Ith7xkDDOT4DLAEUp0rp7) | [renanrenan](https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh), [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [romance](https://open.spotify.com/album/6DcmRRoMxg002zcCVihaTa) | 3:40 |
 | 33 | [Atitude](https://open.spotify.com/track/7Ai5LRVMMervzHZpbLeFTb) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Esgotada](https://open.spotify.com/album/63C8OnR5KLcXiEuNN6cwhl) | 3:58 |
 | 34 | [QUEM DE NÓS DOIS \(solo version\)](https://open.spotify.com/track/2aZ4R7KQqJ3yNH2DoXQl7i) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [LA MIA STORIA TRA LE DITA / All Versions](https://open.spotify.com/album/2cApRKB5zRtyepecFYb0QN) | 5:15 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWoEMrRMHZ8.md) - [plain]
 | 84 | [Perdi Meu Rumo Na Sua Boca](https://open.spotify.com/track/2IlPnizayYXeu0OrxEr9fw) | [Rafa Castro](https://open.spotify.com/artist/7uGnyRc35uFXOcyUtOkgX0) | [Em Silêncio o Afeto Cresce](https://open.spotify.com/album/2846p6Xqfr0BeDwEyQhWqs) | 3:18 |
 | 85 | [Tua](https://open.spotify.com/track/7mQd6u3LBfpiRme11Pa4Yr) | [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt), [Mari Jasca](https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp) | [Tua](https://open.spotify.com/album/3zutfiNwGhY1TtHsChMzIT) | 2:45 |
 
-Snapshot ID: `AAAAALqv75OOchQP6hq1AZsxNeBh4QxX`
+Snapshot ID: `AAAAAKc3NDiuLj5n5SVD+JQBcuvdDTKN`

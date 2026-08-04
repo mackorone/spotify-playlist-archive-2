@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,698 likes - 150 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,710 likes - 150 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 149 | [Just Dance \(feat\. Dave Koz\)](https://open.spotify.com/track/5S6EHC45If9NSN5jIHVzP1) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Double Vision](https://open.spotify.com/album/6KmbBezsEykMwmMmxgqRuY) | 4:23 |
 | 150 | [Close Your Eyes](https://open.spotify.com/track/4d12NDxv7ol5lMJemDsWXJ) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' the Faith](https://open.spotify.com/album/0JBQoZCxqbAAjIBMq0Qz1T) | 5:05 |
 
-Snapshot ID: `AAAAABhkJZzYX4TtjPMMHZ8ICZ308G/h`
+Snapshot ID: `AAAAAP00YiY2zDvecvoefL2ReBApOEwg`

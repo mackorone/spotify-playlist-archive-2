@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,455 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,424 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 99 | [Only You](https://open.spotify.com/track/2W4Nb6RIJrpE8PEpX9POZD) | [KeyAra](https://open.spotify.com/artist/5ip5n1ajctLiO63CCJfEv6), [KOLO](https://open.spotify.com/artist/2CICr3LR6jHHl0V6DmAtWE), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Only You](https://open.spotify.com/album/7CJwyU2x5ZD5EvAkDPe8K7) | 3:17 |
 | 100 | [Stupid Love](https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [BlecksFlex](https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal) | [Stupid Love](https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0) | 2:44 |
 
-Snapshot ID: `AAAAAG1oiXJvtbHJDkflU7BAJ0H+r5j0`
+Snapshot ID: `AAAAABYepQW+pA8EQeqDX+WkPgeXkNSC`

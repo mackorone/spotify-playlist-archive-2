@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Ariana Grande, TRIANGLE DES BERMUDES et Tiakola au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,478 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,262 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 74 | [Future Heat feat\. Keagan Raphael](https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Keagan Raphael](https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo) | [MOMENT](https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS) | 3:40 |
 | 75 | [Pose](https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2) | [Blush](https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F) | [Pose](https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY) | 3:22 |
 
-Snapshot ID: `AAAAAA0tAbvic13TWtuJ2HapdhVaEKUg`
+Snapshot ID: `AAAAAPrsdrYXveTXY7usMYFNZTOa1OwB`

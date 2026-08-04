@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "Buon Vento",
+        "url": "https://open.spotify.com/album/06ge45XUS63W0ENu9QjjQN"
+      },
+      "artists": [
+        {
+          "name": "Jovanotti",
+          "url": "https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi"
+        },
+        {
+          "name": "Alfa",
+          "url": "https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175101,
+      "name": "Buon Vento",
+      "url": "https://open.spotify.com/track/5vdmfjy5CVrV0xYEcO2f4Q"
+    },
+    {
+      "album": {
         "name": "CADERE VOLARE",
         "url": "https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD"
       },

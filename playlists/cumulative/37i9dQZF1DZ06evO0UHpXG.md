@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-140 songs - 8 hr 38 min
+141 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,8 @@
 | [We Are Motörhead](https://open.spotify.com/track/2G7ZL3xi1L9Jop31vXfqJu) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn) | 2:21 | 2023-12-13 |  |
 | [When The Sky Comes Looking For You](https://open.spotify.com/track/7eQC1gaRWWK1bZI4i6ddne) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 2:58 | 2023-07-23 | 2025-03-15 |
 | [Whiplash](https://open.spotify.com/track/37DZmu83mrbb1qQIKumak7) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 3:49 | 2022-12-31 | 2026-04-27 |
-| [Whiplash](https://open.spotify.com/track/0KPSGGqPDZfrMoyL8YOYgj) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/3WySQJqKii60CvvAYv8f0G) | 3:49 | 2026-04-27 |  |
+| [Whiplash](https://open.spotify.com/track/0KPSGGqPDZfrMoyL8YOYgj) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/3WySQJqKii60CvvAYv8f0G) | 3:49 | 2026-04-27 | 2026-08-04 |
+| [Whiplash](https://open.spotify.com/track/7rBSxKyrMzVKgzg8Ki0FJC) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death \(20th Anniversary Edition\)](https://open.spotify.com/album/1pU3yOqCRZbSyNFlCj5reN) | 3:49 | 2026-08-04 |  |
 | [Whorehouse Blues](https://open.spotify.com/track/29ppgTZrKMFw6bAZmGU4AW) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 3:52 | 2023-12-13 |  |
 | [Whorehouse Blues](https://open.spotify.com/track/6DzNf5yqXpAAtie15t3MVx) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/7jGmwdQeJQ7kZ8LN7uN4lD) | 3:52 | 2022-12-30 | 2023-12-14 |
 | [Witch Doctor \- The Manticore Tapes \- Instrumental](https://open.spotify.com/track/4lDjaG3PP09lei2qI5uuyP) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Manticore Tapes](https://open.spotify.com/album/4lA6sBkX6kxj6aoHBqd6eY) | 2:37 | 2025-07-05 | 2025-08-03 |

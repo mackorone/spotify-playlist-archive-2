@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,382 likes - 100 songs - 11 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,467 likes - 100 songs - 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 99 | [Ngihambise Kahle](https://open.spotify.com/track/6NZDB7MU7bNB37VUGWiLTg) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Ngihambise Kahle](https://open.spotify.com/album/1coVHsiPPaoa6FPWZIPEcL) | 5:06 |
 | 100 | [Ngobekezela](https://open.spotify.com/track/1m5eJZMKi6g6Qx5wQT0fHO) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 7:41 |
 
-Snapshot ID: `AAAAAMQnzzmF55gnSz7a4Hc9HcwrfWCs`
+Snapshot ID: `AAAAAAkp2X1QgrIOBNH41L2TA3C67yZn`

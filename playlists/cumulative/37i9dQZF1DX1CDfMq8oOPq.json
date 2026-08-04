@@ -1701,6 +1701,44 @@
     },
     {
       "album": {
+        "name": "Cultura de Rua",
+        "url": "https://open.spotify.com/album/2FjrC4pe2CpkKFDxotpAA4"
+      },
+      "artists": [
+        {
+          "name": "Xaolin Records",
+          "url": "https://open.spotify.com/artist/3zvHDYmK5iKPtylVWnWxsm"
+        },
+        {
+          "name": "Jovem MK",
+          "url": "https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR"
+        },
+        {
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "CRYSTAYLE",
+          "url": "https://open.spotify.com/artist/59KPAYOS6AbPROvGLTE8E8"
+        },
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "Paola Spena",
+          "url": "https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209093,
+      "name": "Cultura de Rua",
+      "url": "https://open.spotify.com/track/0T9VMb4KNHn3bHcz8hinLU"
+    },
+    {
+      "album": {
         "name": "CUSSY",
         "url": "https://open.spotify.com/album/5KHCRhhOSUUNGsdBfJTfZo"
       },
@@ -1786,6 +1824,54 @@
       "duration_ms": 144000,
       "name": "De F\u00e9",
       "url": "https://open.spotify.com/track/73LpUA3H3L6kZuUzWE4j72"
+    },
+    {
+      "album": {
+        "name": "Teimosia",
+        "url": "https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw"
+      },
+      "artists": [
+        {
+          "name": "Mya Akoma",
+          "url": "https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171796,
+      "name": "Dedo na ferida",
+      "url": "https://open.spotify.com/track/5iKY4gOVZwpnRG9v4dj3g3"
+    },
+    {
+      "album": {
+        "name": "Dedo no Gatilho",
+        "url": "https://open.spotify.com/album/1n9OIA7ekfipAY4l8oR5lG"
+      },
+      "artists": [
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "LB \u00danico",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163764,
+      "name": "Dedo no Gatilho",
+      "url": "https://open.spotify.com/track/3wZMF4qdGh3wQoPi4dFuGa"
     },
     {
       "album": {
@@ -2682,7 +2768,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 159199,
       "name": "Faina",
       "url": "https://open.spotify.com/track/50G0SGgI8Q9bGmwLH3ImvM"
@@ -6822,7 +6908,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 123128,
       "name": "QUENTE",
       "url": "https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR"
@@ -7612,7 +7698,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 233357,
       "name": "Set Btrem - As Minas do Rio",
       "url": "https://open.spotify.com/track/1FLx838ihRkUoYGncP31fz"

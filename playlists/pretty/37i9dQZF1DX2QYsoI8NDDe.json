@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Nora Gonzalez",
-  "num_followers": 578389,
+  "num_followers": 576865,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAfr9XZS8F0UJvD4THKdu0CRuV/V",
+  "snapshot_id": "AAAAAL1eIBplMOwsVtwyAZ2oJL6+xdzR",
   "tracks": [
     {
       "added_at": "2026-07-24 06:00:40",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-07-24 06:00:40",
       "album": {
-        "name": "Ya Pa' Que",
-        "url": "https://open.spotify.com/album/7kgKRDFg2WO765Y79C9Yim"
-      },
-      "artists": [
-        {
-          "name": "Gabby Tamez",
-          "url": "https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2"
-        }
-      ],
-      "duration_ms": 157317,
-      "name": "Ya Pa' Que",
-      "url": "https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs"
-    },
-    {
-      "added_at": "2026-07-24 06:00:40",
-      "album": {
         "name": "Tanto Lo Queria",
         "url": "https://open.spotify.com/album/76Pb1sdHP2YZxS3fx9CvE1"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 244965,
       "name": "Tanto Lo Queria",
       "url": "https://open.spotify.com/track/0h0G81yuaXj3Sa51NpcRys"
+    },
+    {
+      "added_at": "2026-07-24 06:00:40",
+      "album": {
+        "name": "Ya Pa' Que",
+        "url": "https://open.spotify.com/album/7kgKRDFg2WO765Y79C9Yim"
+      },
+      "artists": [
+        {
+          "name": "Gabby Tamez",
+          "url": "https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2"
+        }
+      ],
+      "duration_ms": 157317,
+      "name": "Ya Pa' Que",
+      "url": "https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs"
     },
     {
       "added_at": "2026-07-24 06:00:40",

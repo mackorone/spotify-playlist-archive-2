@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,473 likes - 150 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,499 likes - 150 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 101 | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0) | 5:04 |
 | 102 | [Journey to the Lemon Moon](https://open.spotify.com/track/0fwylEIJLVpQH4WwI0E3Oy) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Frutaria Electr​ó​nica](https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23) | 3:30 |
 | 103 | [Too Far](https://open.spotify.com/track/4bXwtTkkedf9RHndi65kcC) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Too Far](https://open.spotify.com/album/4cGbgxMQWj4KD99pLSVfdF) | 4:26 |
-| 104 | [Muzak For Mesozoic Showreel](https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig), [Arthur Mine](https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie) | [Nostalgia Por Mesozóica](https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0) | 2:49 |
-| 105 | [Tech](https://open.spotify.com/track/2enH7L13QJWB6usbJadzSw) | [Lemon Cal](https://open.spotify.com/artist/3QpZbi4X5YgnUe9uFVbJL9) | [Dreamy Riot](https://open.spotify.com/album/28pUdUv0W8ChNUkh8gWtUd) | 5:50 |
+| 104 | [Tech](https://open.spotify.com/track/2enH7L13QJWB6usbJadzSw) | [Lemon Cal](https://open.spotify.com/artist/3QpZbi4X5YgnUe9uFVbJL9) | [Dreamy Riot](https://open.spotify.com/album/28pUdUv0W8ChNUkh8gWtUd) | 5:50 |
+| 105 | [Muzak For Mesozoic Showreel](https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig), [Arthur Mine](https://open.spotify.com/artist/6dtoiMrxTN33pqX8SWewie) | [Nostalgia Por Mesozóica](https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0) | 2:49 |
 | 106 | [Never a Dull Moment](https://open.spotify.com/track/2E1CDNz0rRgpQaSIWXCEKh) | [ToiToiToi](https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De) | [Vaganten](https://open.spotify.com/album/3H5kcr1ZThSuLmDIe8cbax) | 2:41 |
 | 107 | [Empty Space](https://open.spotify.com/track/6YjlOZqj0Cy2JiyA8hy0jQ) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Empty Space](https://open.spotify.com/album/3Nw5LQwrewAs5dIzDkf89I) | 4:17 |
 | 108 | [Sister Species](https://open.spotify.com/track/0xi81plszmA40tDw7cefN1) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 5:04 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 149 | [Tropic Air](https://open.spotify.com/track/3myrvhxZL6nf2UPOYt9TiQ) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Tropic Air](https://open.spotify.com/album/3uxmV2Ce5KiIcZXgDlBuOh) | 3:44 |
 | 150 | [Rockledge 3A](https://open.spotify.com/track/0q7N2mxBIDrv1ol2y1Sa2F) | [Datach'i](https://open.spotify.com/artist/6ZULITXmOFWJwJKilsFRm7) | [Bones](https://open.spotify.com/album/3NMs1HLjZjbVM1my5DPuak) | 4:36 |
 
-Snapshot ID: `AAAAAMNGccTznXtpoV4HjfsDZFFPPPki`
+Snapshot ID: `AAAAABUZ2AX4Bo2j7OCko5paxSGKOKxh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,309 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,158 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 49 | [Cumbia del Olvido](https://open.spotify.com/track/5pU9azu0VQIUk2nTUVxwxY) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/3qayyVd2DD1T9uXwOZoHsP) | 3:36 |
 | 50 | [Corazon de Rubi](https://open.spotify.com/track/4ZNIMDo5YS5blN6MsN0tL9) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Balance](https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx) | 4:14 |
 
-Snapshot ID: `AAAAAOBY571Dl/fmrilP5hMqBmLHSHaa`
+Snapshot ID: `AAAAAME02sLlQSyEJLOAk0gKv7U43QvT`

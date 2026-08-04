@@ -1,12 +1,12 @@
 {
   "description": "This is Metro Boomin. The essential tracks, all in one playlist.",
-  "num_followers": 412100,
+  "num_followers": 412075,
   "original_name": "This Is Metro Boomin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAABbZ7PzeYZpBTftgfXxi1y8",
+  "snapshot_id": "am6IgAAAAABF7gdltaBY+wfrrg8RSIhn",
   "tracks": [
     {
       "added_at": null,
@@ -1063,22 +1063,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "WE STILL DON'T TRUST YOU",
-        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         },
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Streets Made Me A King",
-      "url": "https://open.spotify.com/track/4Orf7Hvci6SZrPIoUjGuFY"
+      "duration_ms": 202666,
+      "name": "Mad Stalkers",
+      "url": "https://open.spotify.com/track/6HR1z11h0ROUlWP4Kx8Z7G"
     },
     {
       "added_at": null,
@@ -1103,26 +1107,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
+        "name": "WE STILL DON'T TRUST YOU",
+        "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         },
         {
           "name": "Metro Boomin",
           "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Mad Stalkers",
-      "url": "https://open.spotify.com/track/6HR1z11h0ROUlWP4Kx8Z7G"
+      "duration_ms": 184733,
+      "name": "Streets Made Me A King",
+      "url": "https://open.spotify.com/track/4Orf7Hvci6SZrPIoUjGuFY"
     },
     {
       "added_at": null,

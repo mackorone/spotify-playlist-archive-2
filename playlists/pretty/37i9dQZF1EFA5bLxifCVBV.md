@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175 likes - 158 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 174 likes - 158 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 48 | [Roses Red, Violets Blue \- Remastered Version](https://open.spotify.com/track/2Vjw8cQQYuNFiiEUP5qush) | [Gay Purr\-ee \- Judy Garland](https://open.spotify.com/artist/3GszhfhNYHgpvh1kYQv884) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 2:02 |
 | 49 | [If I Didn't Have You](https://open.spotify.com/track/28NVslOL7fIHYonQha1g8O) | [Fred Rich & His Orchestra](https://open.spotify.com/artist/7dkKSKCoLExyMEw9ay5RSN) | [Dance Bands Hits of the 30's & 40's](https://open.spotify.com/album/6vQgDVUUEkNc6Ug58iuYMV) | 3:29 |
 | 50 | [Free and Equal Blues](https://open.spotify.com/track/6lhdFMZRCRwPGvwYe4bXcP) | [Josh White](https://open.spotify.com/artist/0nZxdWJcomHivMW1UwCKQb) | [The Story Of John Henry..\. A Musical Narrative](https://open.spotify.com/album/66z5jhUnq0p2Nh1ChBoYdu) | 3:51 |
-| 51 | [The Farmer's Daughter](https://open.spotify.com/track/05toqbP0hhm6F7IaD4x2Mb) | [Joe Newman Quartet](https://open.spotify.com/artist/7e29pysxsk9TJh3Ak0kEAs), [Shirley Scott](https://open.spotify.com/artist/1TnGxyraO6Uyfyt2PuVFvI) | [Soft Swingin' Jazz](https://open.spotify.com/album/5y7Fo0kiEgygwf9etVCvVR) | 3:01 |
-| 52 | [Mewette \- Remastered Version](https://open.spotify.com/track/3y3zhrwmKd9T5oIOu4DGJR) | [Gay Purr\-ee \- Robert Goulet](https://open.spotify.com/artist/3VvHG57lT5KbYI8ZIMGTh9) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 1:09 |
+| 51 | [Mewette \- Remastered Version](https://open.spotify.com/track/3y3zhrwmKd9T5oIOu4DGJR) | [Gay Purr\-ee \- Robert Goulet](https://open.spotify.com/artist/3VvHG57lT5KbYI8ZIMGTh9) | [Gay Purr\-ee O.S.T.](https://open.spotify.com/album/3t19c4lLYobOu1BMwgUBsz) | 1:09 |
+| 52 | [The Farmer's Daughter](https://open.spotify.com/track/05toqbP0hhm6F7IaD4x2Mb) | [Joe Newman Quartet](https://open.spotify.com/artist/7e29pysxsk9TJh3Ak0kEAs), [Shirley Scott](https://open.spotify.com/artist/1TnGxyraO6Uyfyt2PuVFvI) | [Soft Swingin' Jazz](https://open.spotify.com/album/5y7Fo0kiEgygwf9etVCvVR) | 3:01 |
 | 53 | [Birds Enchantment](https://open.spotify.com/track/2K6LqhtH2Gm0F4KA9UsCet) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 2:59 |
 | 54 | [Green Eyes](https://open.spotify.com/track/4SMdUAvsupJMenl9tgkr4P) | [Tommy Dorsey](https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG), [Jimmy Dorsey](https://open.spotify.com/artist/3xPpQCRiTBxgmL4PD8J5ek) | [The Dorsey Brothers: Just the Hits, Vol\. 1](https://open.spotify.com/album/3xdUf6lJTwfd54wdQfNItc) | 3:20 |
 | 55 | [Aprile a Paris](https://open.spotify.com/track/6O51AsHiwhCtlDICQmgJtg) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q), [Piero Umiliani Orchestra](https://open.spotify.com/artist/2DLRB2aWi2k6WXZT3ZemFY) | [Parole e Musica \(Remastered\)](https://open.spotify.com/album/1ffmxhGfRhJCqJct1EHFzd) | 0:38 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA5bLxifCVBV.md) - [plain]
 | 157 | [Telephone Switchboard Scene](https://open.spotify.com/track/625wAMfDIHLLiqapY7xINt) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:24 |
 | 158 | [Inner\-Office Scene](https://open.spotify.com/track/1Gfn9iSf9bsNqUlAUbfeOT) | [Original Broadway Cast Of 'Flahooley](https://open.spotify.com/artist/3mqe3Rd5yH1IYCOvMh6oKZ) | [Flahooley \(Original Broadway Cast Recording\)](https://open.spotify.com/album/2aTYLuL1rhMHX6TBd0DXwH) | 0:26 |
 
-Snapshot ID: `AcYiNAAAAAAdLEuYjX3GRmr2e64Wlj2K`
+Snapshot ID: `AcYn1AAAAAA2LTF57uPb0qR0dnusINGv`

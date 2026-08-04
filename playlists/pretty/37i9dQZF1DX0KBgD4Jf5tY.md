@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:36GKpvoEgJCwtYR7tmSBGL">Angelo Kras</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,788 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,789 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Veleno](https://open.spotify.com/track/7vtem6XK15JdfDGLSriXmb) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe), [Iceboy Violet](https://open.spotify.com/artist/2MWAoLoDTgex9peOU2Uc4C) | [Veleno](https://open.spotify.com/album/75v1yQJRCE5AQLJH7Ttoma) | 4:26 |
 | 50 | [grata](https://open.spotify.com/track/0Ly8bOOATjWLjtWsyIMKG4) | [Gioac](https://open.spotify.com/artist/4vA9K7BZzkqFAh9hQfXwiD) | [grata](https://open.spotify.com/album/2HvoC8D44YBLZrzPgZoObw) | 3:48 |
 
-Snapshot ID: `AAAAAF6uHP64c5Fmg/Y1UZSlfKuMt8Vh`
+Snapshot ID: `AAAAAJoP3Upec6BSxPsw0zFI2LU6UVot`

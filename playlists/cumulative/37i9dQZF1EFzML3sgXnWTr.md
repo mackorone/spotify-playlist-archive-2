@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-139 songs - 7 hr 5 min
+140 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Avion](https://open.spotify.com/track/2RjEVSy0X1X9LMOeke924W) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Avion](https://open.spotify.com/album/6Ft2AKbiVmJiRYGIzS1I9y) | 3:13 | 2025-10-05 |  |
 | [BATTITO](https://open.spotify.com/track/6bfy5e5jWNcNSFAJzsMPED) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i) | [BATTITO](https://open.spotify.com/album/2XMeGxa3WRs1qIjrSOAJDw) | 3:14 | 2025-02-14 |  |
 | [BELLU GUAGLIONE](https://open.spotify.com/track/5rtsLnalGnYd4iNYmm8qmI) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [BELLU GUAGLIONE](https://open.spotify.com/album/0YN7JhcGmsUfQGHL8SNDEb) | 2:54 | 2026-07-13 |  |
+| [Buon Vento](https://open.spotify.com/track/5vdmfjy5CVrV0xYEcO2f4Q) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Buon Vento](https://open.spotify.com/album/06ge45XUS63W0ENu9QjjQN) | 2:55 | 2026-08-03 |  |
 | [cadere volare](https://open.spotify.com/track/77kA6Y1DBIjD1x77WLhxgg) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [CADERE VOLARE](https://open.spotify.com/album/5IQdzZjqyRJ9oVIRX6LXPD) | 3:14 | 2022-09-16 |  |
 | [CENTOMILA](https://open.spotify.com/track/4EFxaNq7V6LzMZv6dNdL2r) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [SOUVENIR \(Extended Edition\)](https://open.spotify.com/album/7JajfTaMnKAwz3BcM67Zx9) | 3:07 | 2024-10-05 |  |
 | [Cero](https://open.spotify.com/track/0T3HDSk6LqhMND9mgHoBdb) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Almas paralelas](https://open.spotify.com/album/3SYt2GZIfI8DGz8VlipVqb) | 3:21 | 2023-12-13 |  |

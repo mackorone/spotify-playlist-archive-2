@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 98736,
+  "num_followers": 98571,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAADDGQgoKGu1PMhFeMqV9qYf",
+  "snapshot_id": "am6IgAAAAAC2INTnbAFcwLWygxdF9nk+",
   "tracks": [
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 474546,
+      "name": "Poderoso Dios",
+      "url": "https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eterno",
         "url": "https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 265381,
       "name": "Sublime Gracia",
       "url": "https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 474546,
-      "name": "Poderoso Dios",
-      "url": "https://open.spotify.com/track/4eMnZja2FGmWuagYRLrQBw"
     },
     {
       "added_at": null,

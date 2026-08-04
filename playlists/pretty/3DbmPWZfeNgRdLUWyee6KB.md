@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,329 likes - 129 songs - 7 hr 27 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,331 likes - 135 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,5 +137,11 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 127 | [Who Was I When We Were Just Friends](https://open.spotify.com/track/4AR81DRiSzZRzvN5PY5uQt) | [Aleksi Oksanen](https://open.spotify.com/artist/57ykQsgvmUWPQbIMpiyiH2) | [Who Was I When We Were Just Friends](https://open.spotify.com/album/0zaQ4czgKuaGBEwLjcfxks) | 2:15 |
 | 128 | [Luce dietro uno sbaglio](https://open.spotify.com/track/190q5mlywVt3iNlcRE1zVh) | [Diego Marangiolo](https://open.spotify.com/artist/54wSnyEqvXdVX8wvfsZccA) | [Luce dietro uno sbaglio](https://open.spotify.com/album/0fGXuQkb7Y2WfmF7dU1Atk) | 4:28 |
 | 129 | [Where Were You Girl](https://open.spotify.com/track/6SgqCwZCcDckUEH89kR0GL) | [Mikey Sovereign](https://open.spotify.com/artist/6s6EknLmFnL0AxRtnaexIJ) | [Where Were You Girl](https://open.spotify.com/album/0DdwNKGUvrEh7wqNZ2KzKT) | 4:09 |
+| 130 | [Applaus](https://open.spotify.com/track/03zb3fHshMFTtFqNmxMfVW) | [Jesse](https://open.spotify.com/artist/5nsgTvyEmAyvWJjmxprVt6) | [Applaus](https://open.spotify.com/album/69c1pbEbXnsALDaoYmnnZO) | 3:18 |
+| 131 | [Memoria](https://open.spotify.com/track/2c2i7CAX1clFszy5CB3hUv) | [Camilo Antileo](https://open.spotify.com/artist/2bqC3OIxsI51TSJBlBq4fR) | [Memoria](https://open.spotify.com/album/1dgZVGv567yabbR9xCL4NF) | 3:04 |
+| 132 | [Passagem](https://open.spotify.com/track/0n56biI1rHRnpgdcl9QvVl) | [Manu Beltrão](https://open.spotify.com/artist/1mNlAKhN6yiWfoQjMXQLeB) | [Passagem](https://open.spotify.com/album/7iP9xLF6g1cHe32N9Kne5G) | 2:41 |
+| 133 | [À Britta](https://open.spotify.com/track/3fQydqrhKYKAxTnTfLD8M8) | [Virgil Segal](https://open.spotify.com/artist/6PDaVx1wgiv0IQeYtmq3Yy) | [Noir et blanc](https://open.spotify.com/album/4S88do91neHjL30FaUXFPA) | 3:28 |
+| 134 | [No Control](https://open.spotify.com/track/5AFFQlCim80cS5FvgNFFMC) | [Kon](https://open.spotify.com/artist/0Bgp4Jbe1OEqrn24HVKj9b) | [No Control](https://open.spotify.com/album/2p8DnORgLAvnKcY2xfBQjq) | 2:38 |
+| 135 | [Explore \(Me\)](https://open.spotify.com/track/0QlgCZaQDT2St7r0iA21Ks) | [ItsRosieQuartz](https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF) | [Explore \(Me\)](https://open.spotify.com/album/76JOPtgekvZZM2Ym7YPy5A) | 3:22 |
 
-Snapshot ID: `AAAWluchjBOWHfYGcRBO3LV3M/KdP/vD`
+Snapshot ID: `AAAWnN7U2uoyxSQxioIxXAN6pwey4T+a`

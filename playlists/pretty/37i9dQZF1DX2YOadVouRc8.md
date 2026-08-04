@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,925 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,940 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 79 | [Ouu wee \(brown\)](https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Ouu wee \(brown\)](https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl) | 2:46 |
 | 80 | [Yori yori](https://open.spotify.com/track/3J7tMLaRYC6J8b2lBKEalx) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Yori yori](https://open.spotify.com/album/50wmIHgKLfTkZowFcxlKaF) | 2:43 |
 
-Snapshot ID: `AAAAAMRrqWw4BnerNGVMaGkeqakfOsxQ`
+Snapshot ID: `AAAAAHK+QAQar8pWS4yowdVvQA+5vXnQ`

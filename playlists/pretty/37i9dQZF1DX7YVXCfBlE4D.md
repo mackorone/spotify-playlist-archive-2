@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,983 likes - 170 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,952 likes - 170 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YVXCfBlE4D.md) - [plain]
 | 169 | [Concha Nacar\-Limosna](https://open.spotify.com/track/36ISJPgCfoZp2MKheJhPx9) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Agustín Lara y sus Grandes Intérpretes](https://open.spotify.com/album/3S3nywfRBfej0nFuzmNEik) | 2:59 |
 | 170 | [En un Beso la Vida](https://open.spotify.com/track/2PX70JKFb0643xkuUBjwtn) | [Orlando Contreras](https://open.spotify.com/artist/5VbbcFlDOJ7qV2MZ4bged3) | [Boleros](https://open.spotify.com/album/5T7W2TcTbPou8U6nQ6VZoO) | 2:24 |
 
-Snapshot ID: `AAAAAGx91pnHWy+pmLCAR+0TxgeXA4K0`
+Snapshot ID: `AAAAAO53BMsSTrKzPeT2xUEPnLudm6Ww`

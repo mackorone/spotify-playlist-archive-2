@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1198,
+  "num_followers": 1206,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGthZvoWsPN4w03sMM6+JvOLMFsyAh",
+  "snapshot_id": "AAAGuiVLWqvNNibfM5sxu9ycpnpjCB+7",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -2339,6 +2339,70 @@
       "duration_ms": 214504,
       "name": "Riot Town",
       "url": "https://open.spotify.com/track/0xax0lS6CEJnsXINvawN84"
+    },
+    {
+      "added_at": "2026-08-03 19:54:42",
+      "album": {
+        "name": "Trashed",
+        "url": "https://open.spotify.com/album/4FDuK1FdjshRFxpHPYmZ7I"
+      },
+      "artists": [
+        {
+          "name": "Mare E Sheehan",
+          "url": "https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "Trashed",
+      "url": "https://open.spotify.com/track/2RgEsoX97YilRR1BA8V4mp"
+    },
+    {
+      "added_at": "2026-08-03 19:58:00",
+      "album": {
+        "name": "Popcorn and Candyfloss",
+        "url": "https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "duration_ms": 298369,
+      "name": "Popcorn and Candyfloss",
+      "url": "https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89"
+    },
+    {
+      "added_at": "2026-08-03 20:36:33",
+      "album": {
+        "name": "Life in Exile",
+        "url": "https://open.spotify.com/album/7w2eadvylY77gF21YMjv7P"
+      },
+      "artists": [
+        {
+          "name": "Magacadabra",
+          "url": "https://open.spotify.com/artist/2jSMVZ9eXDVIHDtk3ulfxs"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Life in Exile",
+      "url": "https://open.spotify.com/track/4uHOiPCPBMxe1ymp8EcxRT"
+    },
+    {
+      "added_at": "2026-08-03 20:42:12",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/7sqy34kAW0gLFJwdLSMMnA"
+      },
+      "artists": [
+        {
+          "name": "Em Armstrong",
+          "url": "https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh"
+        }
+      ],
+      "duration_ms": 168767,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9"
     }
   ],
   "unique_name": "Unsigned Rock",

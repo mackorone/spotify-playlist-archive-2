@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Pumping tracks for pumping iron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,838,413 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,836,092 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 79 | [Wicked Game](https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Wicked Game](https://open.spotify.com/album/6h4GwAgi9ePUFoEvN7LBrx) | 2:55 |
 | 80 | [Weekend](https://open.spotify.com/track/49hQMAGfaJkoMJVBnvmiZG) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Weekend](https://open.spotify.com/album/6ue29u7MnmM7oVtnHDXzAq) | 2:33 |
 
-Snapshot ID: `AAAAAKgTxIXvSaZ5rHA4NMbNhSclMvbY`
+Snapshot ID: `AAAAAE91Wp/Whb6+tTbKZ7lYsn46I18Q`

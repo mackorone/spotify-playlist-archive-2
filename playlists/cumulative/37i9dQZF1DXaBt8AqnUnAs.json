@@ -5274,7 +5274,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 248393,
       "name": "Ela \u00c9 o Crime",
       "url": "https://open.spotify.com/track/3NC6O672Osalu0r1YcsqLh"
@@ -6857,6 +6857,32 @@
     },
     {
       "album": {
+        "name": "Flow Xxx",
+        "url": "https://open.spotify.com/album/14J4gGFCulZK5ueKIHMToj"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        },
+        {
+          "name": "Teo Guedx",
+          "url": "https://open.spotify.com/artist/5kKjWmIo4xMLjoMUcogE7M"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Flow Xxx",
+      "url": "https://open.spotify.com/track/0cYqPSmRAurSDZWFR59tNe"
+    },
+    {
+      "album": {
         "name": "FL\u00d3RIDA",
         "url": "https://open.spotify.com/album/5aNw9CVtCWy8lUeg6UQOwh"
       },
@@ -7162,6 +7188,32 @@
       "duration_ms": 122406,
       "name": "Gasolina e fogo",
       "url": "https://open.spotify.com/track/6WYVNNhokLzQEXeG0m3WMk"
+    },
+    {
+      "album": {
+        "name": "gatos pretos & cachorros",
+        "url": "https://open.spotify.com/album/35ujBHuW26tunCqNwJy563"
+      },
+      "artists": [
+        {
+          "name": "CAE",
+          "url": "https://open.spotify.com/artist/2d8dvLwxR3APvLe0gcLaK0"
+        },
+        {
+          "name": "DJ CARLOZS",
+          "url": "https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU"
+        },
+        {
+          "name": "DJ LUKINHAS",
+          "url": "https://open.spotify.com/artist/1ftCFF307OmsAVDAHHpn07"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "gatos pretos & cachorros",
+      "url": "https://open.spotify.com/track/2FaBsvZY4Qo7MJgiMbryaM"
     },
     {
       "album": {
@@ -8378,7 +8430,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 256000,
       "name": "La\u00e7os ao Amanhecer",
       "url": "https://open.spotify.com/track/3m3nf8CQpKLfrsd4o8Xbr4"
@@ -8430,6 +8482,28 @@
       "duration_ms": 189677,
       "name": "Len\u00e7ol",
       "url": "https://open.spotify.com/track/1kExsrotab58XS3pTd1Ym7"
+    },
+    {
+      "album": {
+        "name": "Leonina",
+        "url": "https://open.spotify.com/album/7pgru7VsKADVH17hG0R3vK"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/72YwnRQOnQKDuPBLvaU8Uo"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "Leonina",
+      "url": "https://open.spotify.com/track/2PaDAz4GmfRpXHTsOD9xgn"
     },
     {
       "album": {
@@ -12368,7 +12442,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 160000,
       "name": "Olha Como Fala",
       "url": "https://open.spotify.com/track/2sLfysUGlrkALWpb1bfmhW"
@@ -16177,6 +16251,32 @@
     },
     {
       "album": {
+        "name": "Si Si Si",
+        "url": "https://open.spotify.com/album/6Fi544OpFLjW3FcVmTlW7G"
+      },
+      "artists": [
+        {
+          "name": "Lamar",
+          "url": "https://open.spotify.com/artist/7nhonYMPyCNw05h1NBAuLx"
+        },
+        {
+          "name": "Grilo",
+          "url": "https://open.spotify.com/artist/6vUiYjsf0eVCd4ucpSRHG0"
+        },
+        {
+          "name": "Empire Street",
+          "url": "https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109606,
+      "name": "Si Si Si",
+      "url": "https://open.spotify.com/track/4ah7QUG0OwcqskrPrhHHBF"
+    },
+    {
+      "album": {
         "name": "Sincero",
         "url": "https://open.spotify.com/album/3KHOtsIXIIAYOdEPox0MEg"
       },
@@ -18620,7 +18720,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 210857,
       "name": "Voltar pra Casa",
       "url": "https://open.spotify.com/track/0oEgPFuiD0NXqiyCH6DDEY"

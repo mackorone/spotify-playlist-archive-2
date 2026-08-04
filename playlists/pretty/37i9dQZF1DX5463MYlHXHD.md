@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,060 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,308 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 99 | [Se Me Va la Voz](https://open.spotify.com/track/4i7j1PdXPJeftm9gj8J1DL) | [La Fase Buk](https://open.spotify.com/artist/5b0t98sO8PmHcr3eAXcSMg) | [Conecta 2](https://open.spotify.com/album/6jyhrM5X4yw1xfAh4lCr8s) | 3:16 |
 | 100 | [Sentate en el pelado](https://open.spotify.com/track/4fqDmV6uRZtNgYg5h4FnGP) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:18 |
 
-Snapshot ID: `AAAAAFvMypXepeVDzPVRhUiTp5u6hARH`
+Snapshot ID: `AAAAALyMloz8UJagJrzQU10vkTUMCVmV`

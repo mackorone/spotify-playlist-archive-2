@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : IDIOT!	Peled
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,211 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,215 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 49 | [חסר אונים](https://open.spotify.com/track/4EitUmWkTVNl38N5PRsrwv) | [Tomer Yeshayahu](https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q) | [בשיחות עם עצמי](https://open.spotify.com/album/36v2a5HR2mTKBhgGIbiH75) | 3:26 |
 | 50 | [הקולות ששמעתי בסיני](https://open.spotify.com/track/09uQo35tRbqLfxokPB55Iw) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [סלומה](https://open.spotify.com/artist/49mD4wE4bs2QSuYKMyJ0UI), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd) | [הקולות ששמעתי בסיני](https://open.spotify.com/album/0EhCLc5SICZg0EO0gqzSFF) | 2:25 |
 
-Snapshot ID: `AAAAAN44RLWTmWhSlLGPUl5wdczYrlmF`
+Snapshot ID: `AAAAALE16xVzMm1LWAWwj6dNdf+HYKRR`

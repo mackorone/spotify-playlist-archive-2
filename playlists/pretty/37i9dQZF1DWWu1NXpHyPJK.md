@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 
 > Allerbeste songs van de 90's! Cover: No Doubt
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,681 likes - 100 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,700 likes - 100 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWu1NXpHyPJK.md) - [plain]
 | 99 | [Would I Lie To You?](https://open.spotify.com/track/1A3iXoekVzV95cq89XiiuX) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Would I Lie To You](https://open.spotify.com/album/0LnItV3dnYTejvxvJsW20n) | 3:24 |
 | 100 | [Say What You Want](https://open.spotify.com/track/4MIB4aXVS0M0KNVcbQlyOP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [White On Blonde](https://open.spotify.com/album/6jYkl1sYBLOnqcNCeoEMAw) | 3:53 |
 
-Snapshot ID: `AAAAAFbbpM+AKIk0A5/bEQFQExHCzMCb`
+Snapshot ID: `AAAAALafMuNPsizU1Gvk/iN8FByIme8K`

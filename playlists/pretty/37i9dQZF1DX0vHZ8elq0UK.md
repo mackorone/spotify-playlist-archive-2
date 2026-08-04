@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140,196 likes - 146 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,140,406 likes - 146 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 | 132 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 |
 | 133 | [Stitches](https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m) | 3:26 |
 | 134 | [I Love It](https://open.spotify.com/track/27ilMN1oiW9849fReEYgOj) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Icona Pop](https://open.spotify.com/album/5ntm6HNABamnxHMI3T3OUb) | 2:36 |
-| 135 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 |
-| 136 | [More Than You Know](https://open.spotify.com/track/4q8PHoRsPUB52LFylX8Ulz) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/5wtHzowB37Fre3iXWQW5v5) | 3:23 |
+| 135 | [More Than You Know](https://open.spotify.com/track/4q8PHoRsPUB52LFylX8Ulz) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/5wtHzowB37Fre3iXWQW5v5) | 3:23 |
+| 136 | [10 Things I Hate About You](https://open.spotify.com/track/6Jkm5kUldvIqxzI1Pa7nXH) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [10 Things I Hate About You](https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6) | 2:37 |
 | 137 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [hey daisy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 |
 | 138 | [Live While We're Young](https://open.spotify.com/track/6aGjEZ7kq3YXgD0EDt80O5) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:20 |
 | 139 | [Can't Remember to Forget You \(feat\. Rihanna\)](https://open.spotify.com/track/2Sh4sAOfnSHEVKFyysxzat) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Shakira\. \(Expanded Edition\)](https://open.spotify.com/album/4nXeW6UwZGBnv6zops27k4) | 3:26 |
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 | 145 | [Love Myself](https://open.spotify.com/track/4Y6IdA3e4wwLrbKHDjufaC) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/4oeF4AKGQajeLuVVCpHh8c) | 3:38 |
 | 146 | [Forever](https://open.spotify.com/track/7e8zLk0zyjNmHQV4givkI6) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Forever](https://open.spotify.com/album/7xwnM3LwdOp2SURODBmL1o) | 4:38 |
 
-Snapshot ID: `AAAAALNSdpSDQyxwrFkiKb/jGCYtkgmZ`
+Snapshot ID: `AAAAADVZYnsuNBJaW26r8mRv9dZ/dhox`

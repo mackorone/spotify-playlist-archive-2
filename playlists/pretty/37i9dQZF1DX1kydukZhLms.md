@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,563,104 likes - 100 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,563,098 likes - 100 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 99 | [I Remember You](https://open.spotify.com/track/2kyDqWZoa2VVyrgtlx3yQT) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Rhino Hi\-Five: Skid Row](https://open.spotify.com/album/26QZZyjOmrSVcFCuUK2CoA) | 5:14 |
 | 100 | [Changes](https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4 \(2009 Remastered Version\)](https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh) | 4:42 |
 
-Snapshot ID: `AAAAAPmlIr1fBlG7nz/5oE2QPehssCQJ`
+Snapshot ID: `AAAAAIcZF1p3LYqDyRWiRoUH0dIwZBkm`

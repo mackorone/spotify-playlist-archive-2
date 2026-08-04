@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Falla](https://open.spotify.com/track/43YgCJIcbcSOYSqh7G9dx6) | [Silje Bakke](https://open.spotify.com/artist/787cDRDrz78jTSHhCAeF8c) | [Falla](https://open.spotify.com/album/17uI2EwTaK9s29cyoJoFOX) | 2:44 |
 | 70 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
 
-Snapshot ID: `AAAAAGN3H73h0lA3HJOxfjhd8DyIN6KR`
+Snapshot ID: `AAAAAFIqjF1BQaMPE+ZZZ452Zp4Inu2h`

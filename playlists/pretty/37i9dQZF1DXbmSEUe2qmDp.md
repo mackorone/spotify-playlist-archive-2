@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,692 likes - 85 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,253 likes - 85 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 84 | [Não Vai Seco](https://open.spotify.com/track/4nm0sdoLEaASMA4rjpR66a) | [Pedro Henrique e João Victor](https://open.spotify.com/artist/1Q2sPWZlgf0X5CQYDIHdef) | [Não Vai Seco](https://open.spotify.com/album/5l8VXNYRrFfLz1hY0lg8xh) | 2:20 |
 | 85 | [Spoiler](https://open.spotify.com/track/1pc4UkHBQMsHkDL62kNMZg) | [Augusto Dávila](https://open.spotify.com/artist/6CdeVbV2irRNWkOSAA8BrF) | [Não é por acaso](https://open.spotify.com/album/5sIVd7DRDwkUax423EhiHT) | 2:52 |
 
-Snapshot ID: `AAAAAKKBjm+bGjIRuazGZT0Z14IL4VKj`
+Snapshot ID: `AAAAAO3jOxeptBcgkfSXDL/XAKRfHfQ9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfI4CvtktqF.md) - [plain]
 
 > ฟังและดูเอ็มวีเพลงไทยฮิตที่นี่เลย ดูเอ็มวีได้สำหรับผู้ใช้งานแบบพรีเมี่ยม\. ศิลปิน: JUNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,002 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,010 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfI4CvtktqF.md) - [plain]
 | 49 | [Goodbye](https://open.spotify.com/track/01rXepgii5VjwHUaajNMmm) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [PUN](https://open.spotify.com/album/2sehVZg3Q9QqyLNg06ULYG) | 4:04 |
 | 50 | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/track/0e4DnxHb7xjCqEPYv91v6t) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/album/4ul97lR8PnxEgpJnzVEMVC) | 4:10 |
 
-Snapshot ID: `AAAAANQ6gzUelhbGtfcfl6aakOIf6u5i`
+Snapshot ID: `AAAAAKQZXupWJcSua5F/aY9qea6ekkUG`

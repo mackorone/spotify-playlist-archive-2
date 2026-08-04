@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,685 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,228 likes - 40 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [I See Why](https://open.spotify.com/track/3lsOd2UXiKRZalwRVqvQsD) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I See Why](https://open.spotify.com/album/4HzdDbgWaDHLkLbhOuBb82) | 3:03 |
 | 40 | [Good Girl](https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Good Girl](https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx) | 3:01 |
 
-Snapshot ID: `AAAAAO5kLjXd5k5w8EqkEvls8bQ5HAqf`
+Snapshot ID: `AAAAAEKGt82cuKcCss5U6nIGsQQs3dmR`

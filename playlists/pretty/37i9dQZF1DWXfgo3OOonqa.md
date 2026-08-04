@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,143 likes - 100 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,040 likes - 100 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Matadoren](https://open.spotify.com/track/7rorbMNPjLsuK2kNA8gVw3) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Matadoren](https://open.spotify.com/album/0gpZBMK8pkrJwk6mhAItG2) | 2:01 |
-| 2 | [Här Med Mig](https://open.spotify.com/track/5O8E7wk3hfOTIfjG1fbFgT) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc) | [Här Med Mig](https://open.spotify.com/album/3TzkrSAvXX1HHvVRGN6515) | 1:57 |
-| 3 | [Strike a pose](https://open.spotify.com/track/2Bb5cQ8WoqOE9OJ5obb4g9) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Strike a pose](https://open.spotify.com/album/2Z5IHmkZOCnYNRlFkfDUPI) | 2:36 |
-| 4 | [MAMA OUT THE HOOD](https://open.spotify.com/track/5TG48SZEdkxwsahKQTMHLT) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [MAMA OUT THE HOOD](https://open.spotify.com/album/3GI1KXsvFydJrW33RjVxSu) | 2:20 |
-| 5 | [Tiffany](https://open.spotify.com/track/5fVQ8voOHcoxSR5FQNA7o4) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Tiffany](https://open.spotify.com/album/2SJ703LKy02dvskKDeb2fr) | 2:24 |
-| 6 | [Nya Tider](https://open.spotify.com/track/6nvQ36W8OPI1vbPsM7NEzo) | [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Yei Gonzalez](https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq) | [Nya Tider](https://open.spotify.com/album/6eDcNwuDfAzEVDYzeY2jNE) | 2:12 |
+| 2 | [Strike a pose](https://open.spotify.com/track/2Bb5cQ8WoqOE9OJ5obb4g9) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Strike a pose](https://open.spotify.com/album/2Z5IHmkZOCnYNRlFkfDUPI) | 2:36 |
+| 3 | [Tiffany](https://open.spotify.com/track/5fVQ8voOHcoxSR5FQNA7o4) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Tiffany](https://open.spotify.com/album/2SJ703LKy02dvskKDeb2fr) | 2:24 |
+| 4 | [Nya Tider](https://open.spotify.com/track/6nvQ36W8OPI1vbPsM7NEzo) | [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Yei Gonzalez](https://open.spotify.com/artist/54tAGj0D5DRj7wKZdgALnq) | [Nya Tider](https://open.spotify.com/album/6eDcNwuDfAzEVDYzeY2jNE) | 2:12 |
+| 5 | [Här Med Mig](https://open.spotify.com/track/5O8E7wk3hfOTIfjG1fbFgT) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc) | [Här Med Mig](https://open.spotify.com/album/3TzkrSAvXX1HHvVRGN6515) | 1:57 |
+| 6 | [MAMA OUT THE HOOD](https://open.spotify.com/track/5TG48SZEdkxwsahKQTMHLT) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [MAMA OUT THE HOOD](https://open.spotify.com/album/3GI1KXsvFydJrW33RjVxSu) | 2:20 |
 | 7 | [Blänker](https://open.spotify.com/track/5MCuFprUbIF7Q9LU5Dup9j) | [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV) | [Blänker](https://open.spotify.com/album/2pIkUe8zZyP2lWzjEM5HdR) | 1:41 |
-| 8 | [Lördag](https://open.spotify.com/track/0ogDQYMnKGS3gBWLJQNlpt) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Lördag](https://open.spotify.com/album/5OqiQNwCmbAEuc7bTsjtqV) | 2:18 |
-| 9 | [MILLZ](https://open.spotify.com/track/4r0jKLk8aEU24dTEsKH7lJ) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [Prahlinho](https://open.spotify.com/artist/3syT2eIxl0OSfoYygKqz9A) | [MILLZ](https://open.spotify.com/album/6KpuCYpARpqFonXVVICw5O) | 2:12 |
-| 10 | [SURRENDER](https://open.spotify.com/track/43rGm1K6p4NWaGwc7aMQBA) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [HÄMND OCH KÄRLEK](https://open.spotify.com/album/7wJ6TagwnmyRHQtnxWXv4E) | 2:43 |
-| 11 | [System](https://open.spotify.com/track/2SjdGLlnVHX4bmKm7DMVZW) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [System](https://open.spotify.com/album/3fPIscyaRDXtHCeDtuDVBp) | 2:18 |
+| 8 | [System](https://open.spotify.com/track/2SjdGLlnVHX4bmKm7DMVZW) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [System](https://open.spotify.com/album/3fPIscyaRDXtHCeDtuDVBp) | 2:18 |
+| 9 | [Lördag](https://open.spotify.com/track/0ogDQYMnKGS3gBWLJQNlpt) | [Montana](https://open.spotify.com/artist/4klH9sjw1BjPGzibWyZaIj) | [Lördag](https://open.spotify.com/album/5OqiQNwCmbAEuc7bTsjtqV) | 2:18 |
+| 10 | [MILLZ](https://open.spotify.com/track/4r0jKLk8aEU24dTEsKH7lJ) | [Euroo](https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH), [Prahlinho](https://open.spotify.com/artist/3syT2eIxl0OSfoYygKqz9A) | [MILLZ](https://open.spotify.com/album/6KpuCYpARpqFonXVVICw5O) | 2:12 |
+| 11 | [SURRENDER](https://open.spotify.com/track/43rGm1K6p4NWaGwc7aMQBA) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB) | [HÄMND OCH KÄRLEK](https://open.spotify.com/album/7wJ6TagwnmyRHQtnxWXv4E) | 2:43 |
 | 12 | [pompeii](https://open.spotify.com/track/5Zoojk4bL1IuEtIXMAPcQz) | [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [pompeii](https://open.spotify.com/album/7EA5RpqKTYnM3LL1Hg4Khp) | 2:42 |
 | 13 | [SER DIG](https://open.spotify.com/track/6nZNnOkTbsjeZoZCIpp3Yt) | [Brookz](https://open.spotify.com/artist/1cjddO4yaU13OzgomZYDA7) | [SER DIG](https://open.spotify.com/album/71RrpijH8fG3isKO9ac601) | 2:33 |
 | 14 | [DIMMAN](https://open.spotify.com/track/6zimjp4dfG2jZbw2mg6DBp) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [DIMMAN](https://open.spotify.com/album/19L3RzsmJoq1XrsmVBo0Zl) | 2:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [The Wire](https://open.spotify.com/track/3UWgetrlbddIwrWVmXhRov) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [The Wire](https://open.spotify.com/album/3ZxYa0OcfFwlgal3tCRlHY) | 2:10 |
 | 100 | [Marbella](https://open.spotify.com/track/3AbDGbg5CSyThIomPyiZjy) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Marbella](https://open.spotify.com/album/57uTp4n0QVCB0xdxlpoJ2n) | 2:31 |
 
-Snapshot ID: `AAAAAE3TmIsrKFe/CsRjrLmzhVzxCTwT`
+Snapshot ID: `AAAAABNjUsoGyvo8XvLATd7VHT2IyXQ6`

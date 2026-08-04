@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > The new school \- Alternative R&B\. Cover: Q
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,313,830 likes - 150 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,313,255 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 149 | [Closer Than Close](https://open.spotify.com/track/1aPqhSBA6xYd3NOJLouQE5) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Closer Than Close](https://open.spotify.com/album/6iCdb8zonKMIHFmvZ54HFZ) | 2:40 |
 | 150 | [THE LAST TIME](https://open.spotify.com/track/4zkH2YuWOZlXgzOH17TvKs) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [THE LAST TIME](https://open.spotify.com/album/0GyFu1r5ctSDKHwvkF6Coy) | 3:14 |
 
-Snapshot ID: `AAAAAKDxW/Eq5WMfNU+9of88sveW6yDh`
+Snapshot ID: `AAAAACmBrgNv+i/lufC8/QeXTQldaLGw`

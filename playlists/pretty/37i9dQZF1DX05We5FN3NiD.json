@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADxn+TpRI0Ymf/d+UOUNBH0lzlED",
+  "snapshot_id": "AAAAALxE8u998ZLRz1TMezsaOfmKye/F",
   "tracks": [
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Song 32",
         "url": "https://open.spotify.com/album/7eVx4XXwY3KrIPGRrW66UI"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 145720,
       "name": "U (Man Like)",
       "url": "https://open.spotify.com/track/2a8HLMRc6E0AM4xXiQ4wh6"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Titanic Rising",
-        "url": "https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 280186,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI"
     },
     {
       "added_at": "2022-09-16 04:53:36",

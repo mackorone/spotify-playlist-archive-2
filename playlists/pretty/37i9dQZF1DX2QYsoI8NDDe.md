@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Nora Gonzalez
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,389 likes - 107 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,865 likes - 107 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 82 | [No Llega El Olvido](https://open.spotify.com/track/5PhzbEDlg2AdZYjJeywgZU) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Échenle Sal a la Herida](https://open.spotify.com/album/2cisjg5dxHmq2DccUoyY1E) | 3:37 |
 | 83 | [El Hielo Está Quemando](https://open.spotify.com/track/4Rl2jgJ9QCf0gWCnMUU9uj) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Hielo Está Quemando](https://open.spotify.com/album/6sIF5BI4afDsFPidOpz7mQ) | 3:09 |
 | 84 | [Nos Acostumbramos](https://open.spotify.com/track/0GnSyaviaDBEtitiaH9TST) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Nos Acostumbramos](https://open.spotify.com/album/6gZi86AB67FMhdD26202rJ) | 2:59 |
-| 85 | [Ya Pa' Que](https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs) | [Gabby Tamez](https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2) | [Ya Pa' Que](https://open.spotify.com/album/7kgKRDFg2WO765Y79C9Yim) | 2:37 |
-| 86 | [Tanto Lo Queria](https://open.spotify.com/track/0h0G81yuaXj3Sa51NpcRys) | [Laura Denisse y Los Brillantes](https://open.spotify.com/artist/2l3rQuhAwI4rxZryE8Zze5) | [Tanto Lo Queria](https://open.spotify.com/album/76Pb1sdHP2YZxS3fx9CvE1) | 4:04 |
+| 85 | [Tanto Lo Queria](https://open.spotify.com/track/0h0G81yuaXj3Sa51NpcRys) | [Laura Denisse y Los Brillantes](https://open.spotify.com/artist/2l3rQuhAwI4rxZryE8Zze5) | [Tanto Lo Queria](https://open.spotify.com/album/76Pb1sdHP2YZxS3fx9CvE1) | 4:04 |
+| 86 | [Ya Pa' Que](https://open.spotify.com/track/2BUYkNVbqE6xxytCUGafvs) | [Gabby Tamez](https://open.spotify.com/artist/39KnNfMTLCdoeojLVvzSa2) | [Ya Pa' Que](https://open.spotify.com/album/7kgKRDFg2WO765Y79C9Yim) | 2:37 |
 | 87 | [Mamá](https://open.spotify.com/track/15CdulcFCtGJxQQInb8pEg) | [Zemmoa](https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Mamá](https://open.spotify.com/album/4Q90bq3WQA6cVK03PZTy3A) | 3:49 |
 | 88 | [24/7](https://open.spotify.com/track/3Tsf8uT2BbrUcU3xD0IpLy) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [24/7](https://open.spotify.com/album/2z5quznnIIbXoNhNelaFWP) | 2:58 |
 | 89 | [Sufriendo a Solas](https://open.spotify.com/track/0iXi968cTVRo7QP7S6VegQ) | [Kaylanie Barrera](https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN) | [Sufriendo a Solas \(Versión Mariachi\)](https://open.spotify.com/album/3m2moauAcI7193V5YzVdIO) | 4:54 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 106 | [Llámame](https://open.spotify.com/track/3epYKxNu8M9NWbQw4xGSBQ) | [Ximena Castillo](https://open.spotify.com/artist/2nwTpQh0MCA68YOmNw5TJC) | [Llámame](https://open.spotify.com/album/2iiS8LdnVfyNSs2yrtdC4X) | 3:12 |
 | 107 | [El Conejo De La Luna](https://open.spotify.com/track/0mOoIPkofPXdxAC4ZIjt34) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Mariachi Romanza de Rodrigo Rodriguez](https://open.spotify.com/artist/7CDk4Vxdjm4mXXqgXbscyL) | [Run Gūey](https://open.spotify.com/album/1uPT6nqizAziQXfE3asZqt) | 3:38 |
 
-Snapshot ID: `AAAAAAfr9XZS8F0UJvD4THKdu0CRuV/V`
+Snapshot ID: `AAAAAL1eIBplMOwsVtwyAZ2oJL6+xdzR`

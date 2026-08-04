@@ -667,6 +667,24 @@
     },
     {
       "album": {
+        "name": "Can't Stop Loving You",
+        "url": "https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205106,
+      "name": "Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa"
+    },
+    {
+      "album": {
         "name": "Cape of Good Hope",
         "url": "https://open.spotify.com/album/00U4I0yauHFhhwrvQJBWn9"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:  Anna Makula
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,993 likes - 80 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,031 likes - 80 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Living Waters](https://open.spotify.com/track/6IFworJItnOJgbcI9vGnwV) | [Toprock Gospel](https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Living Waters](https://open.spotify.com/album/1oIpFIzGcakV6rnvVTWDjP) | 3:34 |
 | 80 | [Say So](https://open.spotify.com/track/7wD9rUT1Bxlt73DoZBlKb6) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh), [B\-Praiz](https://open.spotify.com/artist/2wIs0RWFJWFUCfwOm2mrPf) | [Say So](https://open.spotify.com/album/1UxcBoXWPzLXgsXvVdAkYu) | 6:54 |
 
-Snapshot ID: `AAAAABtz/ZUtbuXAhOFCEzNAdgg+cCuj`
+Snapshot ID: `AAAAAOEXRPg+VZAGJxd4AoYPGJifdLpM`

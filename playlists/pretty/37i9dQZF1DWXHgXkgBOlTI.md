@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: 下中洋介
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,159 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,162 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 49 | [哀しい予感 / リリウム](https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP) | 4:05 |
 | 50 | [ASAYAKE](https://open.spotify.com/track/4PIeBIHVlS9rPoJBTbUPpy) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [MIRACLE NIGHT LIVE \(SOUND VERSION\)](https://open.spotify.com/album/1k8Aoiiz773XMXLF7S5RTl) | 4:56 |
 
-Snapshot ID: `AAAAADI8/ktnqsvG48TkjoVE32qldRw6`
+Snapshot ID: `AAAAAIDrAEltNssucv0rbdHgo+WiQdQu`

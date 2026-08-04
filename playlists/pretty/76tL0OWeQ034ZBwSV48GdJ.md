@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 
 > 
 
-[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 241 songs - 22 hr 37 min
+[Bram Bloemen](https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq) - 0 likes - 242 songs - 22 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,5 +249,6 @@ pretty - [cumulative](/playlists/cumulative/76tL0OWeQ034ZBwSV48GdJ.md) - [plain]
 | 239 | [Hurricane \- Extended Mix](https://open.spotify.com/track/1sWT14jzdy9AoLg8jjWj1o) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Kingstarlight](https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx) | [Hurricane](https://open.spotify.com/album/5gPQStZ112bHjLB4Gx4JFj) | 4:49 |
 | 240 | [Satisfied](https://open.spotify.com/track/2BirbjcIsHDyoNTfzAfkyG) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied](https://open.spotify.com/album/6CImRMVY60VHBVCGysxFff) | 5:17 |
 | 241 | [Vergeben](https://open.spotify.com/track/1pxn9vFQkHsVutQKoEcAzd) | [Lukas Meunier](https://open.spotify.com/artist/6jRcL44JCK2krB9AmdXmRH) | [Vergeben](https://open.spotify.com/album/0OnnJO0iBVLbqfaYHtyY2s) | 5:23 |
+| 242 | [Can't Stop Loving You](https://open.spotify.com/track/7D9nLNkpBM3X43NTTK6ODa) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Can't Stop Loving You](https://open.spotify.com/album/0B6h2urIr10tKp0Vzh02UX) | 3:25 |
 
-Snapshot ID: `AAABQNvBSBpUolnIg1Yu0qNv6cPrdItZ`
+Snapshot ID: `AAABQSQcZT9h7mgVVJotoTKSfK6M6W4p`

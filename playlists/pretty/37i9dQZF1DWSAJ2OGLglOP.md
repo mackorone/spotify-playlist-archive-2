@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲をセレクト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,858 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,732 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 99 | [高ぶるブルー](https://open.spotify.com/track/6h4Z4yVMkOwudz8V7KAfDe) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [高ぶるブルー](https://open.spotify.com/album/1wt2mvFgIHQheMkv83YAwm) | 2:42 |
 | 100 | [運命の君](https://open.spotify.com/track/7yXDBF1sD0ouJniM3gnEZS) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [運命の君](https://open.spotify.com/album/0EU29QyzTMEl8brlDIIMzC) | 3:35 |
 
-Snapshot ID: `AAAAAJqGaRv0Y52jaMlePDA2ofRc1jTJ`
+Snapshot ID: `AAAAAKQ5qVw7Xw8wuRRRJBb/pl72FVj9`

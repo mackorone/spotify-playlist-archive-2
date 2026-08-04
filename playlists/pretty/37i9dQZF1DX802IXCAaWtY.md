@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,525,774 likes - 70 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,525,896 likes - 70 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 69 | [Das Boot](https://open.spotify.com/track/0yMIs70Fr4pd8f4KV6jmHC) | [U96](https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd) | [Das Boot](https://open.spotify.com/album/5geE4R8hMSYwkmJiUAAgCW) | 5:14 |
 | 70 | [U Drive Me Crazy](https://open.spotify.com/track/4i7ezXO3G9DwE7LRmuYdfP) | [Waldo's People](https://open.spotify.com/artist/4Ud558Fulcd3W93W1R00MF) | [Waldo's People](https://open.spotify.com/album/0R8Di4j9T2FsPJWi98dUY1) | 3:17 |
 
-Snapshot ID: `AAAAALfTFaqunVPJ0wFO5sAme6JctFrt`
+Snapshot ID: `AAAAADAQA7N8jcwLjXXUz/0l+zhXCf8z`

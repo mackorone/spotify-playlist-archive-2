@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 > This is MC Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,360 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,355 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 34 | [Casal Mandrake](https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628) | [Casal Mandrake](https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI) | 2:19 |
 | 35 | [Como Acredito No Amor](https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T) | [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJBHBHDJ](https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0) | [Como Acredito No Amor](https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt) | 1:43 |
 | 36 | [Catucadão](https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f) | [Shevchenko e Elloco](https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [MC Marley](https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI), [Biel XCamoso](https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab) | [Catucadão](https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt) | 2:18 |
-| 37 | [De 38 Carregado](https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95) | [Dj Ray Lais](https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [De 38 Carregado](https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse) | 2:35 |
-| 38 | [E Nós Tem um Charme Que É da Hora \- Ao Vivo](https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Pagode do Presença \| Made In Funk \(Ao Vivo\)](https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8) | 2:34 |
+| 37 | [E Nós Tem um Charme Que É da Hora \- Ao Vivo](https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq) | [Grupo Presença](https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Pagode do Presença \| Made In Funk \(Ao Vivo\)](https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8) | 2:34 |
+| 38 | [De 38 Carregado](https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95) | [Dj Ray Lais](https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [De 38 Carregado](https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse) | 2:35 |
 | 39 | [Eu Não Sou Difícil](https://open.spotify.com/track/688RlI3w1TOy4Ib1oZNOw8) | [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [LeoZera](https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Eu Não Sou Difícil](https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f) | 2:11 |
 | 40 | [Como Acredito No Amor](https://open.spotify.com/track/5Dwd5WQQSWPn693k5VaaSw) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Como Acredito No Amor](https://open.spotify.com/album/5GXtW3MsnGS5Fu4KD3Sase) | 2:49 |
 | 41 | [Vou Raspar Seu Bigodin / Tacar Fogo](https://open.spotify.com/track/7AvdfMZU32zM9Yi8ykXM6i) | [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [DJ S2K](https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX) | [Vou Raspar Seu Bigodin / Tacar Fogo](https://open.spotify.com/album/1ebEq4DVbEkoTd2W6QtO80) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 49 | [Pretinha do Peitin e do Bundão](https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb) | [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Pretinha do Peitin e do Bundão](https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl) | 2:48 |
 | 50 | [Mundo da Fama](https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Iuri Rio Branco](https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC) | [Escolhas e Reflexos](https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5) | 3:33 |
 
-Snapshot ID: `am03AAAAAAA0k/ammXtWQgwcsAZPHz06`
+Snapshot ID: `am6IgAAAAAC2QHgca2gv7uqjVSFoDKpf`

@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "album": {
         "name": "Aladam",
         "url": "https://open.spotify.com/album/1Z3urgmnh6CcrQVJU6xLtQ"
       },
@@ -416,6 +434,24 @@
       "duration_ms": 169014,
       "name": "Alo, mama",
       "url": "https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5"
+    },
+    {
+      "album": {
+        "name": "Alo, Scuze!",
+        "url": "https://open.spotify.com/album/4reJm9Y1lomVx3fmHS1iCy"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Alo, Scuze!",
+      "url": "https://open.spotify.com/track/3SJ4jIR6QGX8QSth1NDwuw"
     },
     {
       "album": {
@@ -943,6 +979,24 @@
     },
     {
       "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261922,
+      "name": "august",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "album": {
         "name": "Mixed Feelings",
         "url": "https://open.spotify.com/album/6P21kzrMNOGSULxDw47nXD"
       },
@@ -1318,7 +1372,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 166880,
       "name": "Bara Bada Bastu",
       "url": "https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv"
@@ -1968,6 +2022,24 @@
       "duration_ms": 149387,
       "name": "Ceai langa tine",
       "url": "https://open.spotify.com/track/4SWkUkMoq4sScbU9AOSFIT"
+    },
+    {
+      "album": {
+        "name": "CEARTA (RADIO SESSION)",
+        "url": "https://open.spotify.com/album/0httRRlXY9IUWAyP7mVd6G"
+      },
+      "artists": [
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "CEARTA - RADIO SESSION",
+      "url": "https://open.spotify.com/track/1R8FVJFRIsSPY60xOrSMol"
     },
     {
       "album": {
@@ -5742,7 +5814,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 222597,
       "name": "Lacrimi Si Suspine",
       "url": "https://open.spotify.com/track/0IuKQgb1AAePLVqDK2P2IN"
@@ -6708,7 +6780,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 243896,
       "name": "MORNING DEW (DONK)",
       "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
@@ -10702,10 +10774,32 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 233406,
       "name": "WE PRAY",
       "url": "https://open.spotify.com/track/7xrEnNo99wrmIs8ZK3RZMK"
+    },
+    {
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/2XzhhpxZDKrb8IvvEeE1pa"
+      },
+      "artists": [
+        {
+          "name": "The Motans",
+          "url": "https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye"
+        },
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214875,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/1rTJyMvqXGedPGNPCTweHj"
     },
     {
       "album": {
@@ -11210,7 +11304,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 146526,
       "name": "\u021ai-am furat femeia",
       "url": "https://open.spotify.com/track/0SExv1gZf1xahar5i0rV8x"

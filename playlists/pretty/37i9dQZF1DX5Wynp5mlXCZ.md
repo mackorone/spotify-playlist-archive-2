@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: CHERNETSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,238 likes - 69 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,235 likes - 69 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Wynp5mlXCZ.md) - [plain]
 | 68 | [Сльози](https://open.spotify.com/track/3eHtHXdvwkCzptoyGWoAN0) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Сльози](https://open.spotify.com/album/0NFd9fnA9iU96YfRhxpBgl) | 3:46 |
 | 69 | [Додай гучності \(12 points\)](https://open.spotify.com/track/2kxpwWkYSWBtXAhG5g9FzL) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Додай гучності \(12 points\)](https://open.spotify.com/album/00tfr6JAjpFr5PJRYn6NVN) | 2:52 |
 
-Snapshot ID: `AAAAAKf+AUAmJ/taoCJTPi4Cg4x4jCge`
+Snapshot ID: `AAAAAG0FR6fRdUcRm1IpMUaNdZAoXerh`

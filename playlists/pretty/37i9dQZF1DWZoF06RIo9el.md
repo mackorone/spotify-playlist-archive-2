@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de julio 2026\. Cover: KAROL G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552,383 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548,724 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [a girl like me](https://open.spotify.com/track/2jQPWxdLBW0wCPN4BGOkKV) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [a girl like me](https://open.spotify.com/album/5hIMOHnkylMdHUvKUCu5CP) | 2:49 |
 | 50 | [Bonito Día](https://open.spotify.com/track/2cxtPsAt7agoAXIIfNhnFm) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Bonito Día](https://open.spotify.com/album/17yWIu6isjc1cYuJtkicm4) | 2:23 |
 
-Snapshot ID: `AAAAACu6Eh68DqITbEv8ZVSS4zIoURXk`
+Snapshot ID: `AAAAAEt4lHUg+GbVmwVoLj6vcDwWRhz0`

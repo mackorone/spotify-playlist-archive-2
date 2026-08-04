@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AZ1DZ6fSQ8.md) - [plain]
 
 > Delightful frights for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 73 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAFd8DM7tlom3X4ZcogUhUqGjo6vT`
+Snapshot ID: `AAAAALyXmKvn2qFpv4rS5syRqvAa99eT`

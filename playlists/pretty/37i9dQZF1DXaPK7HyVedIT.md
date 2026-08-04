@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,378 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,179,670 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [Better Life \- Santti Remix](https://open.spotify.com/track/4Y3jwNrkZkqO37TETJxj4S) | [Elekfantz](https://open.spotify.com/artist/2qPvJviDwokwrQtNzR1Udv), [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [Better Life \(Santti Remix\)](https://open.spotify.com/album/5aCMxo9pr07ipspQi2Bkfj) | 3:28 |
 | 80 | [Oldskool Flavor](https://open.spotify.com/track/1RaDR9M8gan0KxZOSl2i8Y) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Greggio](https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3) | [Oldskool Flavor](https://open.spotify.com/album/0djGGJfuvFT7ytIj9acRYD) | 3:32 |
 
-Snapshot ID: `AAAAAJ+6OGa5DJnTke6y408eg7sWXfex`
+Snapshot ID: `AAAAAJVe0eVQkH+9R2Tadlya6tFFME9U`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > The Best Indie Tracks of the Moment w/ Dominique Way
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,819 likes - 102 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,645 likes - 102 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 101 | [Talk of the town \(feat\. Sophia Bel\)](https://open.spotify.com/track/7cnJEGjMIKOSxcpFnENxZJ) | [Emma Beko](https://open.spotify.com/artist/4j7NgnYyG3MjsU7OfJnrzG), [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [Cicada](https://open.spotify.com/album/2gWBjcvwjEUALOhl1PKYwQ) | 2:37 |
 | 102 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 |
 
-Snapshot ID: `AAAAADPX8c99xuKy1xsEkCr8BFiGdwm0`
+Snapshot ID: `AAAAAI93WmEo7KBEiqKamDp9+usd+NI9`

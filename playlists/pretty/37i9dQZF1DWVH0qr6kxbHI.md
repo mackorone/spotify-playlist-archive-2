@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,546 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,572 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 74 | [Sin Tí No Puedo Vivir](https://open.spotify.com/track/5T36LSYng6duYxOi1U6WCI) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB), [Estrella Morente](https://open.spotify.com/artist/5gKJbL392PiokTPUoL7N6D) | [Sin Tí No Puedo Vivir](https://open.spotify.com/album/2Tx1eChHyxj0zC8ALRPFzl) | 3:53 |
 | 75 | [A Mi Manera](https://open.spotify.com/track/4gKxEptjLjBU32F7po9wdN) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Canciones Que Me Gustan](https://open.spotify.com/album/31pLRCgAvn48nOyHaAUI8V) | 4:21 |
 
-Snapshot ID: `AAAAALr+aZ7kJKMYiCV9KDvW2nBzk0HD`
+Snapshot ID: `AAAAAAIHGr+tZZSqij0slBdVe9R6Ua2M`

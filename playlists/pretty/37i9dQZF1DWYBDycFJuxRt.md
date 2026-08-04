@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: King Gnu \*👉 <a href="https://spice.eplus.jp/articles/347889">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,767 likes - 94 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,416 likes - 94 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 93 | [Shipp Petaaan \- feat\. マーガレット・カメリア・ヤジマ](https://open.spotify.com/track/7d3SNPAHLa9jOn3LKZ5b4j) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2), [マーガレット・カメリア・ヤジマ](https://open.spotify.com/artist/3jytdREFEIjeI9yn6FKPIz) | [Tottemo Release 80.8 \(12\)](https://open.spotify.com/album/4wv6CzfO6YhEO7soGFiCYE) | 2:17 |
 | 94 | [熱帯放浪漫](https://open.spotify.com/track/43pfFHHii7i0HrPesuWSB1) | [oh!! 真珠s](https://open.spotify.com/artist/5HlgR77xBlgqU9UKXA7XiI) | [熱帯放浪漫](https://open.spotify.com/album/2Xm4HfSOjNRbSneJFJiJdo) | 3:30 |
 
-Snapshot ID: `AAAAAGyvDfJ1wREHXtPfNfVwW0qUuhv9`
+Snapshot ID: `AAAAAK/SUhktWsazx1QjCp8jNz6VI8wg`

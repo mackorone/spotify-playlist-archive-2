@@ -4,7 +4,7 @@
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-6,465 songs - 9 day 9 hr 48 min
+6,466 songs - 9 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [Bliss](https://open.spotify.com/track/1B3dx13jduy0w7aZGn3Czo) | [Cäsp.](https://open.spotify.com/artist/5f5oeaotVaDXZfADPsA1Me) | [Sentimental Beach](https://open.spotify.com/album/3KMMhsWozYssGXwacHdwCe) | 1:57 | 2024-11-13 | 2024-12-30 |
 | [bliss](https://open.spotify.com/track/3JWa3ewoXSHG7F0sGE6iVA) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [bliss](https://open.spotify.com/album/3U97eNLNHPoDwwOvNvdzsE) | 2:12 | 2024-01-23 | 2024-02-22 |
 | [Bliss](https://open.spotify.com/track/0iTmIzJIKouMkXSUqDioxq) | [Ses Flow](https://open.spotify.com/artist/2UVlM1V27WqRSd3jHGSHKs) | [Bliss](https://open.spotify.com/album/2KxLlFCTSzPnZt5VJiSUoA) | 1:45 | 2025-10-22 | 2025-12-13 |
+| [Bliss Trip](https://open.spotify.com/track/00X2u8aHjJvuBDGVFg8WMx) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Bliss Trip](https://open.spotify.com/album/0Uwb0RVJiyEVUaq3DKw460) | 1:57 | 2026-08-03 |  |
 | [Blissful](https://open.spotify.com/track/0Ac2Psol7919K0r8ubfNSO) | [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Blissful](https://open.spotify.com/album/1zqDVRAGikFeDuOCs7pV26) | 2:20 | 2023-12-07 | 2024-01-03 |
 | [Blissful](https://open.spotify.com/track/0siOFnoxPtMP5nXnNlPivm) | [kBeats](https://open.spotify.com/artist/5w3SUOG1J2oz1vsUQyvIyt), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Darks1de](https://open.spotify.com/artist/632ORWVenj8I850S8d8x0J) | [Blissful](https://open.spotify.com/album/1h69oDIDqkw9Zy1GqAtM1D) | 2:06 | 2025-10-06 | 2025-12-13 |
 | [Blissful Reverie](https://open.spotify.com/track/13mko1RELoiQg2yyBrKA82) | [Milocero](https://open.spotify.com/artist/4POi8SHwjlia1azrQKR6Pf) | [Blissful Reverie](https://open.spotify.com/album/5y08fnlWTvgUm7Bry3KTor) | 1:40 | 2024-04-25 | 2024-06-01 |
@@ -5008,7 +5009,7 @@
 | [slumber party](https://open.spotify.com/track/2gDeypkb1knQGfZ3eZlqjP) | [ornaut](https://open.spotify.com/artist/0RNomvzbv3GepTSlgM26sv), [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2) | [overslept](https://open.spotify.com/album/2Wx8kbYcno8Ouo9eUwy6hw) | 1:53 | 2026-06-23 |  |
 | [Slurpee](https://open.spotify.com/track/1VTSFEIDJ1agB8OhHRGfX5) | [My Friend Thor](https://open.spotify.com/artist/1RHjtO4fJmfhCBuAdMj49G), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Jason Fabus](https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5) | [Slurpee](https://open.spotify.com/album/0omiM1HfLPRJc1VL6QccFg) | 2:31 | 2026-01-23 | 2026-03-05 |
 | [Small Talk](https://open.spotify.com/track/11Hr2302DmcZ7tml0EarhJ) | [Hayden Moeller](https://open.spotify.com/artist/1IDEDODa9BnH4ZIzecl6lH) | [Small Talk](https://open.spotify.com/album/6T6ZVPlSmhPW2Cc022rTOs) | 2:06 | 2024-05-24 | 2024-06-29 |
-| [small talk](https://open.spotify.com/track/0p9POC3mup1aV24oT9SZ2i) | [iamkosmos](https://open.spotify.com/artist/6Fwz7z7P6QfQA6mNW5Nze5) | [small talk](https://open.spotify.com/album/38V0icDd30eD125XNUBCHP) | 1:38 | 2026-06-09 |  |
+| [small talk](https://open.spotify.com/track/0p9POC3mup1aV24oT9SZ2i) | [iamkosmos](https://open.spotify.com/artist/6Fwz7z7P6QfQA6mNW5Nze5) | [small talk](https://open.spotify.com/album/38V0icDd30eD125XNUBCHP) | 1:38 | 2026-06-09 | 2026-08-04 |
 | [Small Talks](https://open.spotify.com/track/4mH6CRTih0tD9jkRzJmSZa) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [dr\. niar](https://open.spotify.com/artist/2L4otMycTiZnRAHL52RXYU) | [Small Talks](https://open.spotify.com/album/47Z17RH0wzBDG2H4IqtANB) | 2:11 | 2026-07-21 |  |
 | [Small Time Crooks](https://open.spotify.com/track/0lEnaIlMbRsZSQrFApNAEh) | [William Shine](https://open.spotify.com/artist/31qJcWRmZuRNILCRbn9idq), [Emulov](https://open.spotify.com/artist/1wxWR2oDl5Q3LCJmMbKf91) | [Small Time Crooks](https://open.spotify.com/album/2WFR61yfvvTSXRlTZylxc9) | 1:55 | 2025-11-27 | 2026-01-23 |
 | [Smash Bros Melee on the CRT TV](https://open.spotify.com/track/1YUbNQsrcf0ZNHCJxQPjjs) | [Poetics Also](https://open.spotify.com/artist/4HoXFcOjEe5qgXRfTHeC94) | [Smash Bros Melee on the CRT TV](https://open.spotify.com/album/5k3XWRw8HTWF89YrTXIvRa) | 1:49 | 2024-05-10 | 2024-06-08 |

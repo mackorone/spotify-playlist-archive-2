@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,236 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,211 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 86 | [Christmas Without You](https://open.spotify.com/track/1H6AKiklPGPjd7MTxiOJD8) | [Xscape](https://open.spotify.com/artist/5z2cHsOmmmWcAPNG1oEhw0) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 4:07 |
 | 87 | [Alone for Christmas \(feat\. Kiana Ledé\) \- from Still Home For The Holidays \(An R&B Christmas Album\)](https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 2:55 |
 | 88 | [Kisses On Christmas](https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Eazy Christmas](https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT) | 2:59 |
-| 89 | [In Love at Christmas](https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 3:57 |
-| 90 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
+| 89 | [The Christmas Song \(feat\. Chaka Khan\)](https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Home For The Holidays](https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040) | 3:34 |
+| 90 | [In Love at Christmas](https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Jermaine Dupri Presents Twelve Soulful Nights Of Christmas](https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm) | 3:57 |
 | 91 | [This Holiday](https://open.spotify.com/track/3IFrqRG94j0CCZwGJgVQlx) | [WanMor](https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h) | [This Holiday](https://open.spotify.com/album/0PqbB0pvi22Y4I1P2ecr6z) | 2:56 |
 | 92 | [Silver Bells](https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 2:56 |
 | 93 | [I Want To Come Home For Christmas \- SaLaAM ReMi Remix](https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Save The World Remix Suite](https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9) | 4:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 99 | [Christmas Kisses](https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Christmas Kisses](https://open.spotify.com/album/3nowY3FIVGxnVxZqVqN3ki) | 3:31 |
 | 100 | [My Only Christmas Wish](https://open.spotify.com/track/1wHzxntsy0HjTLGvTuFi5a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Christmas 3 Pack](https://open.spotify.com/album/3rcdvBsHJlAUrEMWzRpOS2) | 3:33 |
 
-Snapshot ID: `AAAAAP42OqITOLFpGALmGmUmvfALecji`
+Snapshot ID: `AAAAAJQ9N7NbF6ndp7RDCWENzYvoM03w`

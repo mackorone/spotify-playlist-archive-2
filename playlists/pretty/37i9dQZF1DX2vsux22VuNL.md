@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Niina, N.I.N.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,946 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,839 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 84 | [Cairo](https://open.spotify.com/track/6wpqAxnc59HZ4WbdPzLjam) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Cairo](https://open.spotify.com/album/38JxNquNHXzRAERGj6Ibti) | 3:25 |
 | 85 | [Fora da Lei](https://open.spotify.com/track/2N2iV005DwQZEYfQxFM3Bp) | [Zarastruta](https://open.spotify.com/artist/02RPe8lsQquxA4NtZJ2chM), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU), [Patricio Sid](https://open.spotify.com/artist/3Xgbq3eQsS0IwYnoRE9tjU) | [Passaporte](https://open.spotify.com/album/2aD2pLtQadwRaEJ4v6zwRL) | 3:21 |
 
-Snapshot ID: `AAAAAGOiR4J5e2vv/vR20/Mku68lFABn`
+Snapshot ID: `AAAAAJZeZUepBkd1pfrMg985p7nWv1RV`

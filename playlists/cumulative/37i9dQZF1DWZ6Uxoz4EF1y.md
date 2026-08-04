@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-186 songs - 17 hr 8 min
+187 songs - 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Has Sido Tú](https://open.spotify.com/track/2wP9egvhmu7gRDekP36iEn) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Has Sido Tú](https://open.spotify.com/album/3IXyx01jJZz7iB49yI0bq2) | 3:42 | 2023-04-09 | 2023-04-20 |
 | [Hasta el Final](https://open.spotify.com/track/3ey3xjwqJ39M1foKnz4pbN) | [Estación Cero](https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI) | [Nunca para de Llover](https://open.spotify.com/album/6lkqhYy0U9U53vpPhjvpKk) | 3:42 | 2023-04-09 |  |
 | [Hasta Que Ya No Respire Más](https://open.spotify.com/track/1tDXPLJQKcLYfhnTpseB2U) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Rojo 24.7](https://open.spotify.com/album/0QZLXtvwIdSulLNEAXWuYR) | 7:54 | 2023-04-09 | 2024-04-19 |
+| [Hasta Que Ya No Respire Más](https://open.spotify.com/track/5sWDrLTpvTDZpg8xb0XlWk) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Rojo 10 Años](https://open.spotify.com/album/3tk3y6FPUIGhNmaV0m4st6) | 7:55 | 2026-04-04 |  |
 | [Hay Libertad](https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn) | [El Cielo Está Aquí](https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik) | 4:26 | 2023-04-09 |  |
 | [Hay Poder](https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 7:04 | 2020-09-18 |  |
 | [Hermoso Nombre](https://open.spotify.com/track/3DXTRxmvmN2fGeYEe0XWAq) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Hay Más](https://open.spotify.com/album/07otkOLijIzzY81sUgskWz) | 3:59 | 2023-04-09 | 2023-06-08 |
@@ -144,7 +145,7 @@
 | [Perfume a Tus Pies](https://open.spotify.com/track/2g5O5gEmjfgTDdupx7VMcp) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Glorioso Rey](https://open.spotify.com/album/5NJAoZR1QUNbZSxUHinoAa) | 5:10 | 2024-03-20 |  |
 | [Poema de salvación](https://open.spotify.com/track/2hrTXb6LVeQW0F18e9neuZ) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Eres Mi Pasión](https://open.spotify.com/album/0xPzP6ceN9y2CwTWlljy8F) | 3:12 | 2023-04-09 | 2024-04-19 |
 | [Poema de salvación](https://open.spotify.com/track/58MfbVYQQATU1ifuqjQsEj) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Eres Mi Pasión](https://open.spotify.com/album/3dTLWiG20Njj51aeTo3qqz) | 3:12 | 2024-07-01 |  |
-| [Por Amor](https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:29 | 2023-04-09 |  |
+| [Por Amor](https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [El Poder De Tu Amor](https://open.spotify.com/album/48OdG91I1ZNnYmq8XSxBJW) | 4:29 | 2023-04-09 | 2026-08-04 |
 | [Por Las Llagas](https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh) | [Vino Nuevo](https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX) | [Ven Y Llena Esta Casa](https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN) | 5:00 | 2023-04-09 | 2024-04-19 |
 | [Por Su Gracia](https://open.spotify.com/track/3lTfA15qXGXNKadA1XVXMs) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [People En Español](https://open.spotify.com/album/3TJCEB18pWSsmbsHTIIEzi) | 6:00 | 2023-04-09 | 2024-04-19 |
 | [Por Su Gracia](https://open.spotify.com/track/6fZJwVu9LcQwnZfG3sy12T) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [Hillsong en Español](https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq) | [People \- En Español](https://open.spotify.com/album/3UoN9QrWC7Kbvs0QMuNAXa) | 6:00 | 2024-03-20 |  |

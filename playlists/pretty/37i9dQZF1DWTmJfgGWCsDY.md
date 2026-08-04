@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Yammi
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,028 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,036 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 58 | [Makombolelo singeli version](https://open.spotify.com/track/7mA3HuBQGoPo2CQNg3MRqs) | [Mazegele Boy](https://open.spotify.com/artist/3w8cMeLYZiZ0k2N7wqhGZJ) | [Makombolelo singeli version](https://open.spotify.com/album/09SURbkZtHwTdhzZ2akoQb) | 2:13 |
 | 59 | [Kama Ujui Utajua](https://open.spotify.com/track/6iKP8zbTqb5YqL3dp38qXY) | [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Kama Ujui Utajua](https://open.spotify.com/album/6T0zppzQN9AM5zfAIYlkZs) | 3:59 |
 | 60 | [Nalimwaga](https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nalimwaga](https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97) | 3:44 |
-| 61 | [Kuokota](https://open.spotify.com/track/66VHnhffxhc26mAnqeu6sF) | [Fama](https://open.spotify.com/artist/31gxuhZWlaTdq7awtYBkeE), [Marlaw](https://open.spotify.com/artist/2Mubfa0R9X7HoCHatHctGL), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Kuokota](https://open.spotify.com/album/3qCkBRoCpgU297HVuKyiPT) | 4:02 |
-| 62 | [Matunzo](https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Matunzo](https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj) | 3:03 |
+| 61 | [Matunzo](https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Matunzo](https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj) | 3:03 |
+| 62 | [Kuokota](https://open.spotify.com/track/66VHnhffxhc26mAnqeu6sF) | [Fama](https://open.spotify.com/artist/31gxuhZWlaTdq7awtYBkeE), [Marlaw](https://open.spotify.com/artist/2Mubfa0R9X7HoCHatHctGL), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Kuokota](https://open.spotify.com/album/3qCkBRoCpgU297HVuKyiPT) | 4:02 |
 | 63 | [Dua](https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Dua](https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7) | 4:42 |
 | 64 | [Hatujui](https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Maturity EP](https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq) | 4:30 |
 | 65 | [Sina](https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu) | 4:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 74 | [Jiangalie](https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Jiangalie](https://open.spotify.com/album/13ANj5VXI99symiSXYggqI) | 3:49 |
 | 75 | [Natafuta Hela](https://open.spotify.com/track/3kKrn6c9edbzPVXnReWadK) | [DJ Jukk](https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl), [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [K Pizo](https://open.spotify.com/artist/2B5oYAod3fGCDamm4YdUWV) | [Natafuta Hela](https://open.spotify.com/album/1R7nqRuAyCeoox1AAo7zAp) | 3:44 |
 
-Snapshot ID: `AAAAAKpqOmPcNi2qq+mjyTm0I1RQ44cl`
+Snapshot ID: `AAAAADl5O4AHaz9cTs/6xa1POxGcgwh0`

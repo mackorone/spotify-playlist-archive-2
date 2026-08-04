@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Doğu Swag, Kamuran Akkor ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,354 likes - 126 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,500 likes - 126 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 89 | [Kıyamıyorum Sana](https://open.spotify.com/track/4r8TIU0WpVeoLl9L8HTRJT) | [Taha Şen](https://open.spotify.com/artist/0pl64rs5Q0csZKcCxZe9TW) | [Kıyamıyorum Sana](https://open.spotify.com/album/4EPfabktTwuT3K9zQrpe8p) | 2:53 |
 | 90 | [SÖZ](https://open.spotify.com/track/1oDQrRa8VmH1PQvKnNow6p) | [Parla](https://open.spotify.com/artist/0ELB2APjrcxE6zO75MWpBN), [Mili B](https://open.spotify.com/artist/7y2FO59lrnN6jNoiHoEhE9) | [SÖZ](https://open.spotify.com/album/0e2HKawgbncrebXeiSl3PL) | 2:31 |
 | 91 | [Kanımca](https://open.spotify.com/track/2IvWisDN7LO5HvUKEvbC9f) | [Erim](https://open.spotify.com/artist/7DA7MdmyR1jccoo4UE6FGl) | [Kanımca](https://open.spotify.com/album/0wLtFYmStqgMoTndg6Ie7Z) | 3:08 |
-| 92 | [Can't Get Enough](https://open.spotify.com/track/7CMyMrbHH8OvjQdLAe15LN) | [Dino Romeo](https://open.spotify.com/artist/0EwkW1WvC9vRyTz5ThNhIg), [Kriton](https://open.spotify.com/artist/63s6F6LjyJ9H92KebRxBRx), [Cem Egemen](https://open.spotify.com/artist/3VDGWb8lb16GUZe4ntCwZK) | [Can't Get Enough](https://open.spotify.com/album/20wPFeCMIebuyQX09ClUR0) | 3:44 |
+| 92 | [Can't Get Enough](https://open.spotify.com/track/7CMyMrbHH8OvjQdLAe15LN) | [Dino Romeo](https://open.spotify.com/artist/0EwkW1WvC9vRyTz5ThNhIg), [Cem Egemen](https://open.spotify.com/artist/3VDGWb8lb16GUZe4ntCwZK), [Kriton](https://open.spotify.com/artist/59cm7exI7jAnINYbdLefTo) | [Can't Get Enough](https://open.spotify.com/album/20wPFeCMIebuyQX09ClUR0) | 3:44 |
 | 93 | [Sen Yabancı Değilsin](https://open.spotify.com/track/3Orx8HMssmQ906SnubHL3l) | [Berhan Arısoy](https://open.spotify.com/artist/36hOHKW14cqeQRjqlSgzIf) | [Sen Yabancı Değilsin](https://open.spotify.com/album/7zyET4HGDF4pHcjJB0kg78) | 3:10 |
 | 94 | [O Sonuncuyu İçmeyecektim](https://open.spotify.com/track/5PrzhNKGcCqD3H7ofWN5vC) | [Ryok](https://open.spotify.com/artist/1plVhvCGmGCgkmEErHydvq) | [O Sonuncuyu İçmeyecektim](https://open.spotify.com/album/7iFnIk4It8Q9eHlRvdzTdH) | 3:40 |
 | 95 | [FANIM OLURSAN KARIŞMAM](https://open.spotify.com/track/7LqdCVCFsI9suilFARh6Rm) | [Batuhan Aslan](https://open.spotify.com/artist/7GNybckWT0ergV4kxGaeUC) | [FANIM OLURSAN KARIŞMAM](https://open.spotify.com/album/4uRUI3fTanqDITJbPDfmND) | 2:06 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 125 | [bak bana son bir kez daha](https://open.spotify.com/track/0dTa3DYrlA4FJiaa7qkvE6) | [rüyama girip hatırlatan kız](https://open.spotify.com/artist/2IVt4nkNcFAYHSBL6u9Hha) | [bak bana son bir kez daha](https://open.spotify.com/album/5evBbA7S4gc2jStDBeIUzJ) | 3:12 |
 | 126 | [Fısılda](https://open.spotify.com/track/1GotZQa8WVe9JVahn7On82) | [Alpaka](https://open.spotify.com/artist/1WCcyCEOygUZfeldhlI3rW) | [Fısılda](https://open.spotify.com/album/3B7i4RSKNhPfHvAoiq7bRr) | 3:18 |
 
-Snapshot ID: `AAAAAFDdR/o3Tl32lcSaHTcjpLdBclr8`
+Snapshot ID: `AAAAAGtZBLjptRSoAUCP6u+vq6g1yY1h`

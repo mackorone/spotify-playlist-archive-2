@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: Charli xcx
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,667 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,670 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 79 | [7th Floor](https://open.spotify.com/track/09zVY3bc1dyrNSQrZcJ9UB) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Happiness Is Going To Get You](https://open.spotify.com/album/2MhRCfdhN8os29CovIIsqV) | 2:39 |
 | 80 | [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 |
 
-Snapshot ID: `AAAAAMqGaMlTCMCGnimhgSEOadJAt+x0`
+Snapshot ID: `AAAAAO+P4/A+PylqGaNZo+ewHJRKaA7x`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,672 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,577 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 74 | [girlhood](https://open.spotify.com/track/38PXyRblkgEYvJRAwX6XGD) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [girlhood](https://open.spotify.com/album/3bfl3J5n57QdWtbaelu5RH) | 3:51 |
 | 75 | [one trick pony](https://open.spotify.com/track/2haBYqYbGzA8FpE84bawai) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [one trick pony](https://open.spotify.com/album/5jTcc8efQu81o3XvM29YvN) | 2:40 |
 
-Snapshot ID: `AAAAADEf+pNljEBpQ7iFq3xV3omPrNDl`
+Snapshot ID: `AAAAALNoq+D+tv+p8QxyKF3zlOWWa5hE`

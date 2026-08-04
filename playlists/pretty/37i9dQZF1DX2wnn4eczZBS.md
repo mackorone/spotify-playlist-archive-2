@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 
 > Indiepop in het Nederlands\. Cover: Igor
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,466 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,467 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnn4eczZBS.md) - [plain]
 | 49 | [Sneeuw In De Zomer](https://open.spotify.com/track/5ObHPGV73g4lWN8PdnqFqC) | [Alice Olsthoorn](https://open.spotify.com/artist/1KyUq6iWtqdflrTHwOrnOA) | [Sneeuw In De Zomer](https://open.spotify.com/album/4zC1d11lBfFH4GWwDD1U32) | 2:44 |
 | 50 | [Water](https://open.spotify.com/track/0Q7FWCLgqatwSWma0K3afr) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX), [Denise Breevaart](https://open.spotify.com/artist/7a7QUAAZArOW20p34t9nhS) | [Ook De Miezer](https://open.spotify.com/album/40xY7z7fbX1drEWKz5y5CQ) | 4:00 |
 
-Snapshot ID: `AAAAACq6Xa8I64dCVARe8YVYaH0TjV1W`
+Snapshot ID: `AAAAAB2hninA9d1ilRbhKzOLdImPWQry`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Astral Weeks
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,930 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,933 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [Won't Wait](https://open.spotify.com/track/7JHw2wKuRbJYuCSNHfmXFa) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Won't Wait](https://open.spotify.com/album/0Sq6v0yTUEzRpeD1xPbHPB) | 2:35 |
 | 50 | [SUPERVILLAIN](https://open.spotify.com/track/1zMJ040MrRczDREAdsJQYI) | [Kape Yeel](https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH) | [SUPERVILLAIN](https://open.spotify.com/album/2c1py1rEGjkPhOPglkmhuk) | 2:54 |
 
-Snapshot ID: `AAAAAILshg9xlce5kw3B9kbnBRc476jm`
+Snapshot ID: `AAAAAIK04FiNqzhEpyOtsqQWBfxdOm6H`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag og ny musik bl.a\. fra D1MA, Zara Larsson & Robyn 🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,993 likes - 78 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,970 likes - 78 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 77 | [loud](https://open.spotify.com/track/5RLkatJJ8F0myHX9fvRcFu) | [grasior](https://open.spotify.com/artist/7oaXjpcBZDUaomAVAKgUly) | [loud](https://open.spotify.com/album/3aqouCosWOy7EOluV8BRxY) | 2:07 |
 | 78 | [Seeking Something](https://open.spotify.com/track/7CWx9XtDhCb46XJIPdAd3H) | [Malin Andersson](https://open.spotify.com/artist/5jsCO40QvQDijky97Z8AK5) | [Seeking Something](https://open.spotify.com/album/3xwicl48JWX6ViXa2patx8) | 4:09 |
 
-Snapshot ID: `AAAAAKhizjRMfF0r33sdM0KqqRsjaF0M`
+Snapshot ID: `AAAAANCsawg9azbgz4kxs56fq0WtmxYV`

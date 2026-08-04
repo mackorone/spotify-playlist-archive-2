@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,925 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,930 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 65 | [City](https://open.spotify.com/track/5n8mDfxIjIu7Hdka3vk2Kb) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [City](https://open.spotify.com/album/2MFa5EfzAbigqFo4GlHvqr) | 3:18 |
 | 66 | [Feel A Way](https://open.spotify.com/track/1dbmyZIJPifnlKNWjnS3Ke) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [Feel A Way](https://open.spotify.com/album/5Et4BGkwJu1peujLFzOtM4) | 2:34 |
 | 67 | [Lagoon](https://open.spotify.com/track/6AukzxLBWmUJ6F5anYkQDu) | [MANIK MC](https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb), [R\-Kay](https://open.spotify.com/artist/4M5sR9GhVebERklwVPeEp2) | [Lagoon](https://open.spotify.com/album/0syGgHpT59AFLYZD1qVnBY) | 4:48 |
-| 68 | [Comfort Zone](https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [The South's Got Something To Say](https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I) | 3:11 |
-| 69 | [Soapbox Soliloquy](https://open.spotify.com/track/6VsIzGuLAHVTRPspRCpMYu) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Further Out Than The Edge](https://open.spotify.com/album/0TXtct98UTyC054dJbCUJ2) | 3:38 |
+| 68 | [Soapbox Soliloquy](https://open.spotify.com/track/6VsIzGuLAHVTRPspRCpMYu) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Further Out Than The Edge](https://open.spotify.com/album/0TXtct98UTyC054dJbCUJ2) | 3:38 |
+| 69 | [Comfort Zone](https://open.spotify.com/track/2N6oB5yih6TDfM4rknncYl) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [The South's Got Something To Say](https://open.spotify.com/album/1An5auoLzBQA5LoiSbqi8I) | 3:11 |
 | 70 | [West End](https://open.spotify.com/track/3kQ9d2gkLtNT0xkGbefSgH) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx), [Turt](https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0) | [West End](https://open.spotify.com/album/4Loru0xZI5PfOd3ntrImBa) | 2:34 |
 | 71 | [Coffee](https://open.spotify.com/track/4l9kdmAOpO7Y0wCc4PnhzI) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3), [Ralph Taylor](https://open.spotify.com/artist/7lyYVCbqJocjkyoYwWYgwK) | [Coffee](https://open.spotify.com/album/0nK9CHDXm14WIlRssT2ifO) | 2:31 |
 | 72 | [Will Smith](https://open.spotify.com/track/4oQHOvfACi3uh67gujOGAa) | [BEASTIE](https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1) | [Will Smith](https://open.spotify.com/album/6GUTrIRyW7aLEMmmHQEKFV) | 2:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 99 | [Breaking Free](https://open.spotify.com/track/0cZ4BShI8IHnRD6XUIt3WA) | [Sopë](https://open.spotify.com/artist/5diPI995kqlDFSFirYLZHB) | [Breaking Free](https://open.spotify.com/album/3MboLhQvNWH4KRQwcqKsGa) | 2:52 |
 | 100 | [Extinction](https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r) | [Sofia Grant](https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI) | [Extinction](https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04) | 4:51 |
 
-Snapshot ID: `AAAAAOwZ3BpsC5G8AZroQ9fU7UliOGo1`
+Snapshot ID: `AAAAAMrz9tL5FwGCa6zOfXEdSsHvK9GY`

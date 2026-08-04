@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: TOMOO
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,029 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,918 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [ぜんぶ可愛いのせい](https://open.spotify.com/track/1dhdWekzCKLtMBOIavpLQZ) | [櫻井優衣](https://open.spotify.com/artist/2aTe9pvRpGDAnqBO1PCDXi) | [ぜんぶ可愛いのせい](https://open.spotify.com/album/73uS2yvzIbEMt94JQsSJao) | 3:37 |
 | 100 | [宇宙船ハート号](https://open.spotify.com/track/5mysqbzC0rd2v0ntHjBnY0) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [宇宙船ハート号](https://open.spotify.com/album/2sKDkD5geCtKjHDbrKdcMJ) | 3:38 |
 
-Snapshot ID: `AAAAAN0ijPPEuinSQQy8mkQRn5MacqG1`
+Snapshot ID: `AAAAAFLEcmxa7mc3h5dIoIt/D9jMiMIf`

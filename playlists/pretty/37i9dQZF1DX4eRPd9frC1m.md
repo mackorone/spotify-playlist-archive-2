@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,572,310 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,571,699 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 74 | [Save Me](https://open.spotify.com/track/4MgH7JjZQAPgIBf0lrdbie) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC) | [Save Me](https://open.spotify.com/album/0CynI5NfrzuzNT7JHnXddI) | 3:16 |
 | 75 | [DANGER](https://open.spotify.com/track/6xpvvq1U38Z6Pu8ykqLLul) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [FOREVER, VOLPETRON](https://open.spotify.com/album/2PaYlbAG0s9esngLwx7nFN) | 2:43 |
 
-Snapshot ID: `AAAAAH/toMmcLZ1vJa20UMVvND3t5ZPM`
+Snapshot ID: `AAAAAKeWFMZHjTnLv57dppMp7nK1toFF`

@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "AH HA",
+        "url": "https://open.spotify.com/album/09DQe4Epg024ukkrAI5DGe"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175866,
+      "name": "AH HA",
+      "url": "https://open.spotify.com/track/6fQeVMxEg2FSKfsQm5ArVR"
+    },
+    {
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 171510,
       "name": "Bill Collector",
       "url": "https://open.spotify.com/track/1hgJMdjMg5eyPqWlkVePxx"
@@ -2022,10 +2040,32 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 160938,
       "name": "Cartier AMG",
       "url": "https://open.spotify.com/track/7cLdpDzMuTJtZuEscZd8t7"
+    },
+    {
+      "album": {
+        "name": "CHAMPAIN & VACAY",
+        "url": "https://open.spotify.com/album/14otbl3uzw1CGMcBlu2Ykt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184789,
+      "name": "CHAMPAIN & VACAY",
+      "url": "https://open.spotify.com/track/1097cG16gzkhlPgkUt6KA0"
     },
     {
       "album": {
@@ -2258,7 +2298,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 165404,
       "name": "Clueless (with Pop Smoke & Fivio Foreign)",
       "url": "https://open.spotify.com/track/4CPcZHzSvIBM8AKhdHUwnL"
@@ -2360,7 +2400,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 180048,
       "name": "Corrupted",
       "url": "https://open.spotify.com/track/4gPP2pnJsOb4fW198ngy8n"
@@ -2560,7 +2600,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
@@ -2782,7 +2822,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 176386,
       "name": "Digits",
       "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
@@ -3175,6 +3215,24 @@
     },
     {
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
@@ -3492,7 +3550,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 206654,
       "name": "Faneto",
       "url": "https://open.spotify.com/track/6fL8iaSdwmSTQiUv9K6L4h"
@@ -4278,7 +4336,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-06",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Gangstas",
       "url": "https://open.spotify.com/track/1hg3RlqFZXJb5YgRoK9qmF"
@@ -4406,6 +4464,24 @@
       "duration_ms": 128887,
       "name": "Get Low",
       "url": "https://open.spotify.com/track/1giM5WoZV4CZ2yhSdRqDCa"
+    },
+    {
+      "album": {
+        "name": "Rise Against My Broken Odds",
+        "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Ghetto Love Story",
+      "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
     },
     {
       "album": {
@@ -4779,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "Heart Of The City (Ain't No Love)",
+      "url": "https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA"
+    },
+    {
+      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -5068,7 +5162,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 194561,
       "name": "Hot N*gga",
       "url": "https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m"
@@ -5576,7 +5670,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 127546,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/792HwhrdO3ErRKL5yRe4Ge"
@@ -7368,7 +7462,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 155386,
       "name": "MPR",
       "url": "https://open.spotify.com/track/26eibHIN0oV4AGuFCbTTm0"
@@ -9156,7 +9250,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 227423,
       "name": "PLAYA",
       "url": "https://open.spotify.com/track/67g2ytmlYoQwlVtaiA1fzO"
@@ -9520,7 +9614,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 199826,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/0aPsDo50fno6jpCU3lKmX5"
@@ -9658,6 +9752,28 @@
       "duration_ms": 139706,
       "name": "r - Cali",
       "url": "https://open.spotify.com/track/2oMOqX9k4k16odibNkYyrD"
+    },
+    {
+      "album": {
+        "name": "RA TA DIA",
+        "url": "https://open.spotify.com/album/2dfLbi32OpXLuFLf4f9BSp"
+      },
+      "artists": [
+        {
+          "name": "Judah Weston",
+          "url": "https://open.spotify.com/artist/3E7pt4BEY5iDLYFRd6kMXX"
+        },
+        {
+          "name": "IsoKeys",
+          "url": "https://open.spotify.com/artist/5iofffGNVFDotaaoqyEZNm"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106032,
+      "name": "RA TA DIA",
+      "url": "https://open.spotify.com/track/44xxa923JrXY1C4Y9401DA"
     },
     {
       "album": {
@@ -10224,6 +10340,32 @@
       "duration_ms": 171938,
       "name": "Run It Up (feat. Sleepy Hallow & A Boogie Wit Da Hoodie)",
       "url": "https://open.spotify.com/track/3tr0NiL6ghHGmmgcyzVU5P"
+    },
+    {
+      "album": {
+        "name": "The Blueprint 3",
+        "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267520,
+      "name": "Run This Town",
+      "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
     },
     {
       "album": {
@@ -10992,7 +11134,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 158466,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/5kkaSMcf4BFlhRRICCKZb6"
@@ -11128,7 +11270,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 346093,
       "name": "STAY HERE 4 LIFE (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli"
@@ -12387,6 +12529,24 @@
     },
     {
       "album": {
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199440,
+      "name": "U Don't Know",
+      "url": "https://open.spotify.com/track/4O7oKy8YADaBrbehcPl0kE"
+    },
+    {
+      "album": {
         "name": "CONGO",
         "url": "https://open.spotify.com/album/5UZv9Hpp6vTFgQuSVyJhaZ"
       },
@@ -13216,7 +13376,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 201398,
       "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
       "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"

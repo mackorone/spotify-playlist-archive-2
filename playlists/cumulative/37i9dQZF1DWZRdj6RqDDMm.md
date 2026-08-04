@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-687 songs - 1 day 14 hr 4 min
+687 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -517,7 +517,7 @@
 | [Rest](https://open.spotify.com/track/3j4Q4hJHROOxf6vdlB6EAh) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Rest](https://open.spotify.com/album/16s4oOALDJDgy6Ak6huhE0) | 2:51 | 2024-09-06 | 2024-11-01 |
 | [Restore Me](https://open.spotify.com/track/6GuzExjH9JKKzz1eFbmW7c) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Blesside](https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32) | [Restore Me](https://open.spotify.com/album/6UyT9L9X1jcYmZWkQp0bX9) | 2:18 | 2025-10-31 | 2026-01-15 |
 | [Ride for Me](https://open.spotify.com/track/5FxJJHBkKZfb2OSaYjyDCz) | [Quiz Tha Great](https://open.spotify.com/artist/7nFhhSgJh6V2fvLGByut8v), [Uchenna](https://open.spotify.com/artist/6Ly48tkmucK1GwvTdjXAjC) | [Ride for Me](https://open.spotify.com/album/202JYr2eF6E1XZV4ADWPeR) | 2:32 | 2024-08-09 | 2024-09-27 |
-| [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:41 | 2026-07-31 |  |
+| [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:30 | 2026-07-31 |  |
 | [Ridiculous](https://open.spotify.com/track/3J967S1DPNnUrUaS4bzcfh) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Ridiculous](https://open.spotify.com/album/4LKUzyYybXiJiEgFFny1LU) | 2:27 | 2024-08-30 | 2024-10-25 |
 | [Right On Time](https://open.spotify.com/track/1uF7QsPxujjCj8u65dgrl9) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Since No\. 11](https://open.spotify.com/album/6z12CVRJweLfcMg25JZxXP) | 2:47 | 2024-03-15 | 2025-01-10 |
 | [River](https://open.spotify.com/track/1b13htqq2fwS2BGVDeRs2K) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Sceptre](https://open.spotify.com/album/3KCdZeILNBf1ahZJU76cQX) | 5:16 | 2025-06-20 |  |

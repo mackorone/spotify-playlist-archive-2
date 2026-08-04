@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Really lovely songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,160 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,161 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 99 | [Manifest](https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Manifest](https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb) | 2:26 |
 | 100 | [Ignorant Boy, Beautiful Girl \(Namanama\)](https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig) | [Loney dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Citadel Band](https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH) | 3:58 |
 
-Snapshot ID: `AAAAAJ05+SSK0n8WdHyl4xEBp223vjxy`
+Snapshot ID: `AAAAACyvJExnjjCBWik4gOEEV5bOMsAp`

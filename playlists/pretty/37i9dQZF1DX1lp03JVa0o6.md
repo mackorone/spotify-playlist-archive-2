@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Cassian, AR/CO
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,782 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,561 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 84 | [Rollin](https://open.spotify.com/track/0byV24r3mAPFKqU4ZCvpQL) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Rollin](https://open.spotify.com/album/7AHHVt5bV0J8C3gkdDB3Se) | 2:05 |
 | 85 | [I Did You Wrong](https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi) | 2:52 |
 
-Snapshot ID: `AAAAAEla47ESnP3FekaJH1/JH4CE3FAU`
+Snapshot ID: `AAAAABGScybOfX7ULBze0ZFv4O/gTBMy`

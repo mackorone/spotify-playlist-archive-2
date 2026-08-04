@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music bangers for your gaming session! PEDRO SAMPAIO & El Bogueto on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,138 likes - 150 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,782 likes - 150 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 | 149 | [More](https://open.spotify.com/track/0AAl3LtvIhEilWXZmYHeh5) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [La Fórmula](https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ) | 4:00 |
 | 150 | [0 Sentimientos \(Remix\) \[feat\. Noriel, Darkiel, Lyan, Messiah & Baby Rasta\]](https://open.spotify.com/track/4COGASZEbAxmH6k5gYMo6G) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa), [Lyan](https://open.spotify.com/artist/2GzKA5uPf3Nef6JjkUNk4H), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [0 Sentimientos \(Remix\) \[feat\. Noriel, Darkiel, Lyan, Messiah & Baby Rasta\]](https://open.spotify.com/album/4dd7tLtioKjtq7v9byyPV6) | 5:35 |
 
-Snapshot ID: `AAAAAHCJg7m1qkWwWn24MI66iYbsIb3i`
+Snapshot ID: `AAAAAJXm0OcOtlTkRy1BpNfklcTPGsTP`

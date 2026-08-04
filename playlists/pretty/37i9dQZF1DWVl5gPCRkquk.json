@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 1957079,
+  "num_followers": 1956377,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC98dHohxcywa5h38SWbgAdhyNrG",
+  "snapshot_id": "AAAAACEECEhuPs17iuEe3TBTMf92gOxy",
   "tracks": [
     {
       "added_at": "2026-07-24 04:02:14",
@@ -1621,6 +1621,22 @@
       "url": "https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy"
     },
     {
+      "added_at": "2026-08-03 22:34:11",
+      "album": {
+        "name": "All I Ever Wanted Was You",
+        "url": "https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc"
+      },
+      "artists": [
+        {
+          "name": "The Sways",
+          "url": "https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "All I Ever Wanted Was You",
+      "url": "https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp"
+    },
+    {
       "added_at": "2026-07-24 04:02:14",
       "album": {
         "name": "Heigh Ho",
@@ -1651,26 +1667,6 @@
       "duration_ms": 210706,
       "name": "The Voyager",
       "url": "https://open.spotify.com/track/2jOBv78VYIGrvvmmSTTdkl"
-    },
-    {
-      "added_at": "2026-07-24 04:02:14",
-      "album": {
-        "name": "Raise The Roof (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 250246,
-      "name": "Going Where the Lonely Go",
-      "url": "https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw"
     }
   ],
   "unique_name": "Chill Folk",

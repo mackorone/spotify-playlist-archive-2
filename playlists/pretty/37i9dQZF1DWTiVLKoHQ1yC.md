@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,587 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,635 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 59 | [Wander](https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr) | [MXV](https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG), [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Wander](https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM) | 3:30 |
 | 60 | [Just Can't Stop](https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv) | [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Farves](https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB), [flyckt](https://open.spotify.com/artist/7gqK3L4rJ38jXJTuaymRs9) | [Just Can't Stop](https://open.spotify.com/album/4g6vXqmOf7qusOBDp5nWWJ) | 3:40 |
 
-Snapshot ID: `AAAAAF/Rchk4k7FyAYmgHjCvdThnIgJZ`
+Snapshot ID: `AAAAAMx30/RkaImRs/bWFslLhq5Ev1SM`

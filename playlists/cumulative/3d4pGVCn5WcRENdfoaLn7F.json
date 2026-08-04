@@ -3591,6 +3591,24 @@
     },
     {
       "album": {
+        "name": "The Rock Made To Roll",
+        "url": "https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18"
+      },
+      "artists": [
+        {
+          "name": "Tin Zelkova",
+          "url": "https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193438,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5ksHTPVHRiLAXsXnJPZbAF"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE"
       },
@@ -4998,6 +5016,24 @@
       "duration_ms": 187020,
       "name": "Realise",
       "url": "https://open.spotify.com/track/0Db0iPyGKZv4w4fBaIfs4g"
+    },
+    {
+      "album": {
+        "name": "Reason To Exist (Suburban Sessions)",
+        "url": "https://open.spotify.com/album/5X4CMD7OWlu4mZIwadQEoQ"
+      },
+      "artists": [
+        {
+          "name": "According To Jack",
+          "url": "https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170346,
+      "name": "Reason To Exist - Suburban Sessions",
+      "url": "https://open.spotify.com/track/28oMohx3ZGC9mJZ1oN7b5D"
     },
     {
       "album": {

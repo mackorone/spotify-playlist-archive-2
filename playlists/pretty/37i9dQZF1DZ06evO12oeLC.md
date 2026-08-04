@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,936 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,934 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 49 | [Laisse aller \(feat\. Yseult\)](https://open.spotify.com/track/1Knp7R9jX9ZyVmcHWitTD8) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Drapeau blanc](https://open.spotify.com/album/52QCCbwG9jpWUlFw13s3wW) | 3:04 |
 | 50 | [Bye Bye Bye](https://open.spotify.com/track/72nmpQNmVWqUQqMJEV6qGo) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Yseult](https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs) | 3:22 |
 
-Snapshot ID: `am03AAAAAAD9cCpcuk1zg0q/DjgYrBbn`
+Snapshot ID: `am6IgAAAAABNjHihAbYDni3B2nB5czDq`

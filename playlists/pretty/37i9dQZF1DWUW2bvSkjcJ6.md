@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Ariana Grande, Luciano, Jazeek, Selena Gomez, Chapo102 & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,443 likes - 93 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,143 likes - 93 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 92 | [A Man Free](https://open.spotify.com/track/0FuXPVjTdLeRZva6JIcYX4) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Paradise Records \(Compilation\)](https://open.spotify.com/album/40Hm1ZgcdadbdymClfKAGg) | 2:09 |
 | 93 | [Smoked Out \(with Wiz Khalifa\)](https://open.spotify.com/track/5n1pzQFORCa8Nlt2rFNXe0) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Smoked Out \(with Wiz Khalifa\)](https://open.spotify.com/album/5wh2y6FRD7GEx3nsjzZt0W) | 2:47 |
 
-Snapshot ID: `AAAAAMDq8eB4v9ISoAxPmJWWLJys5Dap`
+Snapshot ID: `AAAAAKD2U4JOtzJRjNJN1gGY5Kwbzqf3`

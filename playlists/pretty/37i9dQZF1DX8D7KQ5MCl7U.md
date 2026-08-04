@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,729 likes - 150 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,731 likes - 150 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 116 | [Mitti da Pehlwan](https://open.spotify.com/track/0pk5DWubSTHJHAOAObtVlX) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:33 |
 | 117 | [Yaadein](https://open.spotify.com/track/4P0rG429MWmORxTJnwamlG) | [Karavan](https://open.spotify.com/artist/0Lhup66w8pghI27mmMDeUk), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 4:01 |
 | 118 | [Mundiya \(feat\. Quratulain Balouch\)](https://open.spotify.com/track/2hREXzC8fpy2Fu0gYlxy8c) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q) | [Mundiya \(feat\. Quratulain Balouch\)](https://open.spotify.com/album/7EsJ1gzSjvgrhejwvGSe1X) | 4:58 |
-| 119 | [Na Raindee Hai](https://open.spotify.com/track/0pftCayPrMmj0fr9nJy8Ke) | [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 5:27 |
-| 120 | [Nazaar Eyle](https://open.spotify.com/track/2rY4UpSyWpAfonLu0dvSYS) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 4:36 |
+| 119 | [Nazaar Eyle](https://open.spotify.com/track/2rY4UpSyWpAfonLu0dvSYS) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 4:36 |
+| 120 | [Na Raindee Hai](https://open.spotify.com/track/0pftCayPrMmj0fr9nJy8Ke) | [Arieb Azhar](https://open.spotify.com/artist/0IuKvmIDo3KrY937MVh08P), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 5:27 |
 | 121 | [Moomal Rano](https://open.spotify.com/track/6HbWfTKEq2dYVNV41EgBG3) | [Fakir Juman Shah](https://open.spotify.com/artist/0KiBPO4xSkckq5ZKL4QH9q), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 6:39 |
 | 122 | [Descent to the Ocean Floor](https://open.spotify.com/track/24pKhfuDivcvk8ZEDAsPA0) | [Usman Riaz](https://open.spotify.com/artist/52ua72K0vOhSHquqITmoNU) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 4:10 |
 | 123 | [Gulon Main Rang](https://open.spotify.com/track/7J4UCQmUq4T5vzMmvE2NAq) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Gulon Main Rang](https://open.spotify.com/album/0Rbfm35fV1a5uCjVK7pgjs) | 6:19 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 149 | [Baazi](https://open.spotify.com/track/1jjwcee83tvrgLRcNUQNuD) | [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Sahir Ali Bagga](https://open.spotify.com/artist/5HhOwOzDwca0Xd34K0GgHU) | [Coke Studio Season 10: Episode 3](https://open.spotify.com/album/61z99blDk5uZf5Im8xT4Lx) | 7:14 |
 | 150 | [Jaag Rahi](https://open.spotify.com/track/36pThMLl9NPkjd4V7kg6T9) | [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl), [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd) | [Jaag Rahi \(feat\. Ali Noor\)](https://open.spotify.com/album/6oPjmqELcDmWUkXTR5mgax) | 6:01 |
 
-Snapshot ID: `AAAAAFbswJm+qYiaSoS+9ddOAGjh8ghu`
+Snapshot ID: `AAAAANHQdHgvpfVUO19dUgUFUCyrDDb9`

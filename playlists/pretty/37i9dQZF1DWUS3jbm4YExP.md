@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,359 likes - 150 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,422 likes - 150 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 149 | [Nen Lambo](https://open.spotify.com/track/6zWn8wLNdQnn80WJWV6TaO) | [Bill Loko](https://open.spotify.com/artist/0r6b4CqtfIXtTkKR9aqQQA) | [Pop Makossa \(Analog Africa No\. 23\)](https://open.spotify.com/album/5oxWoRY1NLhmCwBEKA3ZJa) | 6:23 |
 | 150 | [Entardecer](https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd) | [Back To Bahia](https://open.spotify.com/album/7EtY3NqhDQ4XAqZg5l06Zd) | 5:26 |
 
-Snapshot ID: `AAAAAIcur2yy6wKwBZhx6eJtxzjDakFx`
+Snapshot ID: `AAAAAI2hJDgY70MtLh+WxWCMrKyJLDqE`

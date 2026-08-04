@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 232132,
+  "num_followers": 231825,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAACrZk9yNeTHzm5zd9Zvx6uw",
+  "snapshot_id": "am6IgAAAAADe9uoWmu9x0BjPA3yXNdZS",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Skrt",
+        "url": "https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 224864,
+      "name": "Skrt",
+      "url": "https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/6Gg25EZRbQd4IHiJz2KSY0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF"
       },
@@ -447,38 +479,6 @@
       "duration_ms": 175802,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Testimony",
-      "url": "https://open.spotify.com/track/6Gg25EZRbQd4IHiJz2KSY0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Skrt",
-        "url": "https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 224864,
-      "name": "Skrt",
-      "url": "https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq"
     },
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
+        "name": "Bill Israel",
+        "url": "https://open.spotify.com/album/051k93izd0reEjp85OgEo6"
       },
       "artists": [
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 264531,
-      "name": "Codeine Dreaming (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
+      "duration_ms": 177000,
+      "name": "Pimpin Ain't Eazy",
+      "url": "https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO"
     },
     {
       "added_at": null,
@@ -831,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bill Israel",
-        "url": "https://open.spotify.com/album/051k93izd0reEjp85OgEo6"
+        "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
       },
       "artists": [
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 177000,
-      "name": "Pimpin Ain't Eazy",
-      "url": "https://open.spotify.com/track/67Sr4xrGip66CqSOD7fGfO"
+      "duration_ms": 264531,
+      "name": "Codeine Dreaming (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best new music from independent artists and labels\. Featuring Saint Clair\. Curated with love by human Spotify editors.
 
-9,936 songs - 22 day 8 hr 37 min
+9,937 songs - 22 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1357,6 +1357,7 @@
 | [Bus Station Poetry](https://open.spotify.com/track/7kmJjI3BY9SNdLrLXU7gJ3) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4), [Chirag Todi](https://open.spotify.com/artist/44kXrtuLNc6FpMB8YNbMdE) | [Bus Station Poetry](https://open.spotify.com/album/0kzVwsCD3Zpap2rCPT4WNk) | 3:40 | 2024-07-24 | 2024-08-29 |
 | [bus stop](https://open.spotify.com/track/4JjJoKsFOtR9rvaYMzVXW8) | [The Empty Threats](https://open.spotify.com/artist/3yFZgbeIbg9UmgkOojGuGt) | [bus stop](https://open.spotify.com/album/30fvYRLzPWREqBkIhdKLit) | 3:23 | 2025-08-06 | 2025-09-25 |
 | [Bush](https://open.spotify.com/track/4QEhaZQmYvwh3eZV3BAvKN) | [Straats](https://open.spotify.com/artist/0higlnOzPAny6nOraITrsP) | [Bush](https://open.spotify.com/album/6x7wYTMcciUQiz08Y52Ybv) | 1:53 | 2023-06-14 | 2023-06-29 |
+| [Bushwick Ratbag](https://open.spotify.com/track/6koOXlPAL58lp78AwiwO4W) | [Um Jennifer?](https://open.spotify.com/artist/1QCrHYVLwmt70890lDtEl3) | [Bushwick Ratbag](https://open.spotify.com/album/2s6jgCwWTpstYTFpFemQr9) | 2:54 | 2026-08-03 |  |
 | [BUSS AT YOU](https://open.spotify.com/track/6p6lp6JZYcwQOqJEqupd8M) | [Saint Lamaar](https://open.spotify.com/artist/16AXQHqAloZDByAlQ99xNN) | [BUSS AT YOU](https://open.spotify.com/album/4MeUzTQYY3TVnRx668dIPz) | 2:14 | 2025-02-19 | 2025-03-14 |
 | [BUSS UR HEAD](https://open.spotify.com/track/1w8lmX9rLX5GTcoqkVoNtr) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De) | [BUSS UR HEAD](https://open.spotify.com/album/34TQgVSVmTfzWO6JI8RtqK) | 2:41 | 2024-04-24 | 2024-05-16 |
 | [Busy](https://open.spotify.com/track/4wmkT0Amgglm4IPiUBZYi5) | [Kayykilo](https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG) | [Busy](https://open.spotify.com/album/6DVYVbOgVnCyndbmhx4bH4) | 2:56 | 2023-02-22 | 2023-03-02 |
@@ -5213,7 +5214,7 @@
 | [Loud with you \(Angel\)](https://open.spotify.com/track/3Oqs4bnfa0GTCikDHBzell) | [tibia](https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t) | [Loud with you \(Angel\)](https://open.spotify.com/album/5lRV0HzbDTApICK2SZOr2W) | 3:16 | 2025-01-29 | 2025-02-13 |
 | [Louie](https://open.spotify.com/track/0SHtp0ibJltyEYXKTHshkF) | [Willy P](https://open.spotify.com/artist/18jVuRF2PcWQX3BWLUoIIP) | [Louie](https://open.spotify.com/album/1VVUELCCKIed2JqF6HlEan) | 4:02 | 2022-05-25 | 2022-06-09 |
 | [Louisiana](https://open.spotify.com/track/6KXdlYA1REDyMeWUlLcVOt) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Louisiana](https://open.spotify.com/album/6bDQtQ9nztaLR5xFw2JiSm) | 2:47 | 2023-09-06 | 2023-09-14 |
-| [Louisville Slugger](https://open.spotify.com/track/4XDRg4U995wklQ88APk45Q) | [The Ritornello Form](https://open.spotify.com/artist/08oILBdHqyDxQgLG81f29X) | [Majority Rule](https://open.spotify.com/album/2jfVpSaKBL1aa1jqKHkzst) | 3:24 | 2026-07-09 |  |
+| [Louisville Slugger](https://open.spotify.com/track/4XDRg4U995wklQ88APk45Q) | [The Ritornello Form](https://open.spotify.com/artist/08oILBdHqyDxQgLG81f29X) | [Majority Rule](https://open.spotify.com/album/2jfVpSaKBL1aa1jqKHkzst) | 3:24 | 2026-07-09 | 2026-08-04 |
 | [Lounging](https://open.spotify.com/track/1YTEtjzUTEJbzhXgJ72T78) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Lounging](https://open.spotify.com/album/5oTw1JRmvVryp1MSB72rKs) | 3:07 | 2022-04-27 | 2022-05-05 |
 | [Love](https://open.spotify.com/track/2YnP9tqLlB8y0mPAEXiQUG) | [JB Hain](https://open.spotify.com/artist/7iJUjgKf5EfgLRlczakDtA) | [Love](https://open.spotify.com/album/4miSDruTfNi7mhXhJtzkZW) | 2:38 | 2023-08-16 | 2023-08-24 |
 | [Love](https://open.spotify.com/track/1nZE8JlX06YgVqbpBZytwh) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Love](https://open.spotify.com/album/0JcO8e5GOVKwVlkyw25wa3) | 3:40 | 2024-11-20 | 2025-01-16 |

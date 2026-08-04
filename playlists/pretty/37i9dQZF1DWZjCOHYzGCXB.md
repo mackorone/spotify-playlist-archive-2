@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 
 > 🌸🌸🌸🌸🌸🌸🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,623 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,613 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 79 | [Trinkets](https://open.spotify.com/track/2tXATCm2ukxtkaWvKAhE91) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Smoochies](https://open.spotify.com/album/3sH8UDUC6HQ73z8xisIDj5) | 1:56 |
 | 80 | [Just Be Bodies](https://open.spotify.com/track/2UJwwd91ySOCLizw2ZQ73x) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms / Just Be Bodies](https://open.spotify.com/album/6Zwn8EkR7UgUOa4W9dM6Rw) | 3:27 |
 
-Snapshot ID: `AAAAAKhj/bVtUJZXssZH95zrgzOZ68h9`
+Snapshot ID: `AAAAAENHrvaee4nrCjlY1S+LylKP683Y`

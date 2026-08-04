@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Soprano
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,159,665 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,324 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 59 | [PIRANHA](https://open.spotify.com/track/6f4a5xe5WMCbyi5HR4dn67) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n) | [PIRANHA](https://open.spotify.com/album/4ERQv00l8hkCBcXr39LBw9) | 2:11 |
 | 60 | [Ma vie est savage](https://open.spotify.com/track/5mLPJN1Q9nPUyY2j8ROBGU) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua), [Linema](https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl) | [Ma vie est savage](https://open.spotify.com/album/2oYh8xhIUK2vVtDB16ZuPh) | 2:50 |
 
-Snapshot ID: `AAAAAOx0lpPT26Cv5VKHN95tcCCpCdCv`
+Snapshot ID: `AAAAAD2vL7DZ8sTeLTlMNheYHVmzJZYt`

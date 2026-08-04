@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: Ludovic
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,140 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,812 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 74 | [Tá Foda](https://open.spotify.com/track/4NmGGeaEyyfv69VxfXjdRH) | [Samuel Amaro](https://open.spotify.com/artist/3uMaKOdv7ETFrGMVceaz3z), [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Qumma](https://open.spotify.com/artist/4FzMoW9tx9zfyW91EbHrkv) | [Tá Foda](https://open.spotify.com/album/2j3ATjDBr3H0LgUiOyhUkN) | 2:51 |
 | 75 | [Aguça](https://open.spotify.com/track/4QoRAKN5XUGSN2zEekKrnK) | [André Loyola](https://open.spotify.com/artist/5F591AtA6bo4HzuzRni12V) | [Aguça](https://open.spotify.com/album/726y6Ihnu5X0axz8yxPgCB) | 2:52 |
 
-Snapshot ID: `AAAAABqL2dujwaIFa2D7sRTpnktzvIFg`
+Snapshot ID: `AAAAADwmxbyntoZ6wLfs30Iadvy4tENU`

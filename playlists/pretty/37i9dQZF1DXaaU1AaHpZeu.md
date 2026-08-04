@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con maye en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,824 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,183 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Ya Es Tarde](https://open.spotify.com/track/1hiQZF86XYLPWgjJUa4HTm) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Ya Es Tarde](https://open.spotify.com/album/7K9DzPDn4GwkFT7itXPFcF) | 3:45 |
 | 50 | [Da Me](https://open.spotify.com/track/25wuRe51bNX1zQXWKxWm9Y) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Da Me](https://open.spotify.com/album/6bY3R8Ne0tYamDMo16D27k) | 1:56 |
 
-Snapshot ID: `AAAAAJxH+l+8xgIg2PLmErpPUgnkrwFC`
+Snapshot ID: `AAAAAGXaRuN1n5zH0z1c9/0rzcPe+NAB`

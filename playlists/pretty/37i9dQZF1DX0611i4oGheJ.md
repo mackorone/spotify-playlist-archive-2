@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,161 likes - 125 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,220 likes - 125 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 124 | [Another Lover](https://open.spotify.com/track/2UqOQ7Qvsutio7H29qn9Je) | [mary rose](https://open.spotify.com/artist/2xm9vvaxfhOaVQtDZP1z5d) | [Another Lover](https://open.spotify.com/album/3LIcHKcJvRF61TWPkvFABh) | 4:13 |
 | 125 | [Reliance](https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM) | [Amy Jay](https://open.spotify.com/artist/7ztk56WZhRA5oIiMaNYuh3) | [Reliance](https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS) | 3:39 |
 
-Snapshot ID: `AAAAAAuaXgBSP1QJA47gNiwPB9eI9LMo`
+Snapshot ID: `AAAAAHxw7U2TTAWWSr5wLFUlDKRcS9jN`

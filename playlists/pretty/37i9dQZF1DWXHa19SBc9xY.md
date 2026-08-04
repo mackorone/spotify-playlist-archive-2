@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,526 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,535 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHa19SBc9xY.md) - [plain]
 | 84 | [Love Love](https://open.spotify.com/track/0mlV6Ox95JtjLjFI5wz4Si) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Gilsons](https://open.spotify.com/album/1FNbRPG8Oy5zi5WLRZP0YZ) | 3:25 |
 | 85 | [Sozinho \- Ao Vivo](https://open.spotify.com/track/7j6o7nPDkvQMtNQWyChADe) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Bloco do Silva \#2 \(Ao Vivo\)](https://open.spotify.com/album/1I9x0dmslyXBNhj3pfDj4h) | 3:55 |
 
-Snapshot ID: `AAAAAKVIx1Eew45XdDxzA4lZktoFrsfH`
+Snapshot ID: `AAAAAJNrbLYw+5ZSzP1rxJYEoG2CGAKs`

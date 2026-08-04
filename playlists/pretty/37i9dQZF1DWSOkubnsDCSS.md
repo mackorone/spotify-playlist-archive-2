@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 
 > Flow so good, it deserved a reload\.  Cover: Yizzy, Jme
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,516 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,786 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 58 | [Golden Hour](https://open.spotify.com/track/65rruQRW7ZsSnc9S0LT6vB) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO) | [Golden Hour](https://open.spotify.com/album/0gEJqJ8kG0Bws3JgR38Ibu) | 2:10 |
 | 59 | [Back2Back](https://open.spotify.com/track/1JEpTpdCF5CuM9qhH7JAkr) | [Lil Shakz](https://open.spotify.com/artist/6NTFw23TXLxIhJaBokrhIG), [YaroAlways](https://open.spotify.com/artist/7wykSIfmDzQ6QiRkzXwLl5), [Silencer](https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE), [The Heavytrackerz](https://open.spotify.com/artist/6aTCNF8JTH5TFs9rheknQB) | [Back2Back](https://open.spotify.com/album/5QyFo2mJ58MW1OVyM0Xp7D) | 2:54 |
 | 60 | [Tears](https://open.spotify.com/track/46H0hdgPqCJEZwssr12nKv) | [M1KE7](https://open.spotify.com/artist/6uEAtBFJb2QlCoCBMuNhnA) | [Tears](https://open.spotify.com/album/2EYiyFWdzIGQEdXrYNtydb) | 2:19 |
-| 61 | [Bring N Kill](https://open.spotify.com/track/0um0oJHWDBqSLlRF2DCa0D) | [Jus Rival](https://open.spotify.com/artist/1wY9yYakCnVKNEaMSCTe6k) | [Bring N Kill](https://open.spotify.com/album/0Ng3EqYDKU74SZfz5O1yT2) | 2:48 |
+| 61 | [Streets Of Rage](https://open.spotify.com/track/4o1fiAhnayXFvxwHNmxlcB) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN), [Kyeza](https://open.spotify.com/artist/1WviCphVQaAq8iYfr52967) | [Streets Of Rage](https://open.spotify.com/album/7JSFtsnMVxEfk4gToZYM1t) | 4:11 |
 | 62 | [Durag](https://open.spotify.com/track/0TTGXrpU995KJFylOMnxR4) | [Manga Saint Hilare](https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra), [Lewi B.](https://open.spotify.com/artist/4DedTBbPVMtOiIxPIdqA5Z) | [OUTERNATIONAL](https://open.spotify.com/album/0GY77VtVlLiQcExnQ4rEoD) | 2:18 |
-| 63 | [Streets Of Rage](https://open.spotify.com/track/4o1fiAhnayXFvxwHNmxlcB) | [Drone](https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN), [Kyeza](https://open.spotify.com/artist/1WviCphVQaAq8iYfr52967) | [Streets Of Rage](https://open.spotify.com/album/7JSFtsnMVxEfk4gToZYM1t) | 4:11 |
-| 64 | [Something Brand New](https://open.spotify.com/track/5M7VKkdDthDs1j9FTum292) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Something Brand New](https://open.spotify.com/album/5KqsKEisnzTiHKhI5AijVY) | 2:03 |
+| 63 | [Something Brand New](https://open.spotify.com/track/5M7VKkdDthDs1j9FTum292) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Something Brand New](https://open.spotify.com/album/5KqsKEisnzTiHKhI5AijVY) | 2:03 |
+| 64 | [Bring N Kill](https://open.spotify.com/track/0um0oJHWDBqSLlRF2DCa0D) | [Jus Rival](https://open.spotify.com/artist/1wY9yYakCnVKNEaMSCTe6k) | [Bring N Kill](https://open.spotify.com/album/0Ng3EqYDKU74SZfz5O1yT2) | 2:48 |
 | 65 | [NO SENSE](https://open.spotify.com/track/6KarkNK3MGxD5xd8NXCIXN) | [Snowy](https://open.spotify.com/artist/3opizXFB4I7D4926tpYMUP), [Frost](https://open.spotify.com/artist/4sBgFjTJnHREKsqj14m8LF) | [NO SENSE](https://open.spotify.com/album/4ZQ9aXylRGbQoxe0vTbBIQ) | 3:15 |
 | 66 | [Big Shaq](https://open.spotify.com/track/1OTu1PvaDvHjTLdcGHMzvb) | [Shxdow](https://open.spotify.com/artist/53Fh7I0tinM6Ak1rH8lHY8), [+44](https://open.spotify.com/artist/24XhmjozLPqyHFtatU3uqo), [Kruz Leone](https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC) | [Blas4Me](https://open.spotify.com/album/5eiODld2WhZdYBvyT1iB6d) | 2:53 |
 | 67 | [Run Tings](https://open.spotify.com/track/318AWQRiTge3MzdejcatY1) | [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Logan From The OtherSide](https://open.spotify.com/album/79rN0G0CjbKjcKUBAIWhqL) | 3:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 | 69 | [spirit, pt\. 1](https://open.spotify.com/track/0AONpN0TCxQyLKJeruAV2d) | [Kwoli Black](https://open.spotify.com/artist/4munQWPVKYZ9uQHepLM1qn) | [spirit, pt\. 1](https://open.spotify.com/album/1Hj2yjReH6s8vRCzsNQgNi) | 1:49 |
 | 70 | [Head Case](https://open.spotify.com/track/5be9oOg00OhcUhenKs6cbw) | [Avaword](https://open.spotify.com/artist/1eEyNOCSfEZ3HmDjaUaLrc), [Frost](https://open.spotify.com/artist/4sBgFjTJnHREKsqj14m8LF) | [Avaworld](https://open.spotify.com/album/34H4YyvhU5OTyu5rt0CKok) | 2:49 |
 
-Snapshot ID: `AAAAADtRBJO0hJILyrXu7Ma9nfFjTx9B`
+Snapshot ID: `AAAAAGPEHNzom0Uo3D39tdvgs9pq23bu`

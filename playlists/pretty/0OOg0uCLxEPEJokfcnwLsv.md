@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,198 likes - 144 songs - 8 hr 54 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,206 likes - 148 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,5 +152,9 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 142 | [Sail Close To The Wind](https://open.spotify.com/track/3O9iTUaTjCJYQeCXK0DYj0) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Breaking Crests](https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN) | 4:06 |
 | 143 | [Weird Kid](https://open.spotify.com/track/28P1Zn2MA2Af5L0MIa8fQx) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Weird Kid](https://open.spotify.com/album/3J1FrMBOBnoDjin6Xg0JIi) | 2:25 |
 | 144 | [Riot Town](https://open.spotify.com/track/0xax0lS6CEJnsXINvawN84) | [NALGO BAY](https://open.spotify.com/artist/1I1kjYsnaIoDvGID1UvloM) | [Riot Town](https://open.spotify.com/album/4eTh4YoamKGMXtqA2Dmc5x) | 3:34 |
+| 145 | [Trashed](https://open.spotify.com/track/2RgEsoX97YilRR1BA8V4mp) | [Mare E Sheehan](https://open.spotify.com/artist/7AoXGlS8YP1Kf2HtjAJmAW) | [Trashed](https://open.spotify.com/album/4FDuK1FdjshRFxpHPYmZ7I) | 3:12 |
+| 146 | [Popcorn and Candyfloss](https://open.spotify.com/track/0MJhDoHPuvOs3hDD2Ilr89) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Popcorn and Candyfloss](https://open.spotify.com/album/6WHzuoWP8SOb0v3FFBqWjD) | 4:58 |
+| 147 | [Life in Exile](https://open.spotify.com/track/4uHOiPCPBMxe1ymp8EcxRT) | [Magacadabra](https://open.spotify.com/artist/2jSMVZ9eXDVIHDtk3ulfxs) | [Life in Exile](https://open.spotify.com/album/7w2eadvylY77gF21YMjv7P) | 3:14 |
+| 148 | [Behind](https://open.spotify.com/track/3isMrvMyIT5xnmJMOxssx9) | [Em Armstrong](https://open.spotify.com/artist/59QA9gTkN6AelC13trJ1Oh) | [Behind](https://open.spotify.com/album/7sqy34kAW0gLFJwdLSMMnA) | 2:48 |
 
-Snapshot ID: `AAAGthZvoWsPN4w03sMM6+JvOLMFsyAh`
+Snapshot ID: `AAAGuiVLWqvNNibfM5sxu9ycpnpjCB+7`

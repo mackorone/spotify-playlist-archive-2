@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > Pinky up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,045 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,436 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 74 | [BANANA SHAKE \(SPED UP\)](https://open.spotify.com/track/6qXGfKR1JHtH18PbT15k6F) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [BANANA SHAKE \(SPED UP\)](https://open.spotify.com/album/1vRxza3P5wbnqfieA27DAn) | 4:39 |
 | 75 | [Want U Back](https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sticks & Stones](https://open.spotify.com/album/16liSbjaxbH0oamsQlqJ4Z) | 3:34 |
 
-Snapshot ID: `AAAAAJ4ivLsZvfNrV8TIJHUC568osgGm`
+Snapshot ID: `AAAAABtm9m5/LUHP8Jkfw9WQLDfnrIJC`

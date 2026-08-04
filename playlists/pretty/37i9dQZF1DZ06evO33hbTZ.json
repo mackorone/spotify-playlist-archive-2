@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAACloHuNj7APr0W/z8iriNUG",
+  "snapshot_id": "am6IgAAAAACDAq5LMWZOBr0JFNLbdQoc",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2509230,
-      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Great is Your Faithfulness",
         "url": "https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl"
       },
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Back",
-        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
+        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
       },
       "artists": [
         {
@@ -712,9 +696,25 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 203860,
-      "name": "My Back",
-      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
+      "duration_ms": 2509230,
+      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 824408,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
+        "name": "My Back",
+        "url": "https://open.spotify.com/album/1GgRlW2o7EDLwYYgfdSsgH"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 824408,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
+      "duration_ms": 203860,
+      "name": "My Back",
+      "url": "https://open.spotify.com/track/0u2ggZsmOkA7CflvenfJBN"
     },
     {
       "added_at": null,

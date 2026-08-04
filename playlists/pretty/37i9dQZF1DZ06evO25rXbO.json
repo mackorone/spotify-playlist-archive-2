@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1248803,
+  "num_followers": 1248071,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAA4gWIC+Ew0dRMvqyGmkUBV",
+  "snapshot_id": "am6IgAAAAAACKgVoftVh2giRopk+iZQF",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mountain",
-        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 189021,
-      "name": "The God of Lying (feat. IDLES)",
-      "url": "https://open.spotify.com/track/5nrbuDZe5Hod1nUsND6QUA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 270520,
       "name": "Stylo (feat. Mos Def and Bobby Womack)",
       "url": "https://open.spotify.com/track/6LUfuyLgvgqrykiTE6sJHY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 189021,
+      "name": "The God of Lying (feat. IDLES)",
+      "url": "https://open.spotify.com/track/5nrbuDZe5Hod1nUsND6QUA"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mountain",
-        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Mark E. Smith",
-          "url": "https://open.spotify.com/artist/2OkI92pmbuPtH6b1GDtrvJ"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Delirium (feat. Mark E. Smith)",
-      "url": "https://open.spotify.com/track/4uIXvy8PbYLEhs0PZgaP8p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 227213,
       "name": "Plastic Beach (feat. Mick Jones and Paul Simonon)",
       "url": "https://open.spotify.com/track/2nZ33CKRbgpJQJJQKHuGXb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Mark E. Smith",
+          "url": "https://open.spotify.com/artist/2OkI92pmbuPtH6b1GDtrvJ"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Delirium (feat. Mark E. Smith)",
+      "url": "https://open.spotify.com/track/4uIXvy8PbYLEhs0PZgaP8p"
     },
     {
       "added_at": null,
@@ -683,6 +683,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Gruff Rhys",
+          "url": "https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6"
+        },
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 174866,
+      "name": "Superfast Jellyfish (feat. Gruff Rhys and De La Soul)",
+      "url": "https://open.spotify.com/track/1UJNbgfTzG1gZZTWFJdMf1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
       },
@@ -719,30 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Gruff Rhys",
-          "url": "https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6"
-        },
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 174866,
-      "name": "Superfast Jellyfish (feat. Gruff Rhys and De La Soul)",
-      "url": "https://open.spotify.com/track/1UJNbgfTzG1gZZTWFJdMf1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 197053,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/3THFKx88trZuOFlssVLJ5G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Song Machine, Season One: Strange Timez (Deluxe)",
         "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 180973,
       "name": "The Valley of The Pagans (feat. Beck)",
       "url": "https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 197053,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/3THFKx88trZuOFlssVLJ5G"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 333053,
-      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
-      "url": "https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 245988,
       "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
       "url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 333053,
+      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
+      "url": "https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        }
-      ],
-      "duration_ms": 192880,
-      "name": "Pac-Man (feat. ScHoolboy Q)",
-      "url": "https://open.spotify.com/track/4hURm1oP1rE1KZ4zd7mRay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doncamatic (feat. Daley) [The Joker Remix]",
         "url": "https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 202066,
       "name": "Doncamatic (feat. Daley)",
       "url": "https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "Pac-Man (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/4hURm1oP1rE1KZ4zd7mRay"
     },
     {
       "added_at": null,
@@ -1003,26 +1003,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/5jJGGsAztgUEXUHHZ2zrah"
       },
       "artists": [
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        },
-        {
-          "name": "SOFT PLAY",
-          "url": "https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL"
         }
       ],
-      "duration_ms": 221386,
-      "name": "Momentary Bliss (feat. slowthai and Slaves)",
-      "url": "https://open.spotify.com/track/5h5FY6vmtDpgXF91BUexO0"
+      "duration_ms": 206093,
+      "name": "Revolving Doors",
+      "url": "https://open.spotify.com/track/4IekHBYUwUNLILgA9R22OD"
     }
   ],
   "unique_name": "This Is Gorillaz",

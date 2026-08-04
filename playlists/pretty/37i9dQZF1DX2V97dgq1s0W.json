@@ -1,12 +1,12 @@
 {
   "description": "The voices shaping R&B. Cover: Odeal",
-  "num_followers": 250085,
+  "num_followers": 250095,
   "original_name": "Riffs & Runs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAInweHN0RrokIwmN850J2vLQkX/+",
+  "snapshot_id": "AAAAAKQVWwlrQns1X18AH7dreolYoLb9",
   "tracks": [
     {
       "added_at": "2026-07-30 23:00:25",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6"
     },
     {
+      "added_at": "2026-08-03 11:05:00",
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 181091,
+      "name": "good girl",
+      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
+    },
+    {
       "added_at": "2026-07-30 23:00:25",
       "album": {
         "name": "DREAMS ON THE PASSENGER SEAT",
@@ -43,22 +59,6 @@
       "duration_ms": 148645,
       "name": "LUV MYSELF",
       "url": "https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa"
-    },
-    {
-      "added_at": "2026-07-30 23:00:25",
-      "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 182257,
-      "name": "risk it all",
-      "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
     },
     {
       "added_at": "2026-07-30 23:00:25",
@@ -219,6 +219,22 @@
       "duration_ms": 240000,
       "name": "Aura (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI"
+    },
+    {
+      "added_at": "2026-07-30 23:00:25",
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 182257,
+      "name": "risk it all",
+      "url": "https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN"
     },
     {
       "added_at": "2026-07-30 23:00:25",
@@ -1031,26 +1047,6 @@
       "duration_ms": 270833,
       "name": "To B Honest",
       "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
-    },
-    {
-      "added_at": "2026-07-30 23:00:25",
-      "album": {
-        "name": "Back and Forth (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 214757,
-      "name": "Back and Forth (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4"
     },
     {
       "added_at": "2026-07-30 23:00:25",

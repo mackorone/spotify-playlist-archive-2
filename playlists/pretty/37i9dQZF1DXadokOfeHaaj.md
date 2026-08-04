@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 
 > The best new electronic indie music\. Cover: Bonobo
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,716 likes - 70 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,726 likes - 70 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadokOfeHaaj.md) - [plain]
 | 69 | [Pink Bape Lighter](https://open.spotify.com/track/4N9U71O0mWNEDRKVVrQwBi) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Sd\-3](https://open.spotify.com/album/1zKvlBFE8d9zNjcBjzitcS) | 2:40 |
 | 70 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
 
-Snapshot ID: `AAAAAKQkOWsNh8D1Ae5MVpegIBcTtyxo`
+Snapshot ID: `AAAAAAlQ3wXLS67InlO9gIEGyYDkRXA0`

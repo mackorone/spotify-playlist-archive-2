@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,122 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,127 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [touch](https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [Bad Honey](https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu) | [touch](https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh) | 3:42 |
 | 70 | [Everything’s Beautiful](https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Everything’s Beautiful](https://open.spotify.com/album/0rjW3BdMJdjfKhDVKLkJjt) | 2:50 |
 
-Snapshot ID: `AAAAAKjcJ4YrDTii0cML0O0jLgTCzF43`
+Snapshot ID: `AAAAAHZYZIBaQ0lbLumsIjTw/GH5jkfo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,794 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,201 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 99 | [Too Marvelous for Words](https://open.spotify.com/track/1jMdlcwUqQK8uMd5d899sW) | [Delicatessen](https://open.spotify.com/artist/402BCt05RMtfellwy880r9) | [Too Marvelous for Words](https://open.spotify.com/album/7bQe68Qt1vZxSNkD16zsus) | 3:44 |
 | 100 | [Neve e Saudade](https://open.spotify.com/track/6YMwBMaBfrTK2WUVn8VayJ) | [Café Estocolmo](https://open.spotify.com/artist/2N7hxUQfGg3pdToFhkqddd) | [Neve e Saudade](https://open.spotify.com/album/6JwRvxDtgkw2TRoaysaAhQ) | 2:38 |
 
-Snapshot ID: `AAAAAIFIovlwXts1NQ4nOmVe+OKbwD8K`
+Snapshot ID: `AAAAABF7NS5vKyi3hI1LAAWkUBKfpfGf`

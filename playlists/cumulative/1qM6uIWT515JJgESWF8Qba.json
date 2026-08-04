@@ -5289,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "X88B88",
+        "url": "https://open.spotify.com/album/2N8NZAtzbYwrMt3Fm2EtEo"
+      },
+      "artists": [
+        {
+          "name": "Katelynn King",
+          "url": "https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176098,
+      "name": "X88B88",
+      "url": "https://open.spotify.com/track/3Z0Q4Bvun8AtZnezG0ipZF"
+    },
+    {
+      "album": {
         "name": "LET IT BURN",
         "url": "https://open.spotify.com/album/7qPN6FUAx44U3Ti7F6Rpxr"
       },

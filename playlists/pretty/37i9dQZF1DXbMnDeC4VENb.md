@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,013 likes - 304 songs - 17 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,051 likes - 304 songs - 17 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -313,4 +313,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 303 | [Nunca Quise Escribirte una Balada](https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Nunca Quise Escribirte una Balada](https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf) | 2:33 |
 | 304 | [Prohibida](https://open.spotify.com/track/1ax1dPQHLGFZfIu1JdWdsm) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Prohibida](https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD) | 3:26 |
 
-Snapshot ID: `AAAAAH5+zmRmT+XxzU9db/juxQHVEKuo`
+Snapshot ID: `AAAAAKH7iga1DrpYTguIRPGMg3lUDNdd`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > La BO officielle de l'été 2026 🌞 Photo : Jennifer Lopez x David Guetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,073 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,566 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 49 | [Sé Miimii](https://open.spotify.com/track/46BNhNbHZi98svu6pFwYVq) | [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd), [DJ SKYCEE](https://open.spotify.com/artist/2LhAINHQMEMY2qL0AyNHmv) | [Sé Miimii](https://open.spotify.com/album/6POEgRFXk9dDYxWvQW8To4) | 2:01 |
 | 50 | [What You Want](https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [What You Want](https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj) | 3:08 |
 
-Snapshot ID: `AAAAAPKsu8Mn2nkTpJgoXv4++ZRKHRaP`
+Snapshot ID: `AAAAABlM/HBHSxn4V5ZOKKhym3+Ebkit`

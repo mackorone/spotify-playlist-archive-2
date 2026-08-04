@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Ninajirachi, Porter Robinson, Ariana Grande, PNAU, Kurtis Wells, Shaboozey, Kehlani, Stan Walker + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,610 likes - 92 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,284 likes - 92 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 91 | [Future Heat feat\. Keagan Raphael](https://open.spotify.com/track/1FLOo634zcxH7GM3yG1DpT) | [Nenashi](https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX), [Keagan Raphael](https://open.spotify.com/artist/707OmZTNJHXFBvUXnc4XUo) | [MOMENT](https://open.spotify.com/album/2jligRxWSH9u3Sh5foJWTS) | 3:40 |
 | 92 | [5 Years](https://open.spotify.com/track/7kRr1uPDGC8EYoLXgCK0fy) | [My Chérie](https://open.spotify.com/artist/13kuX8DGF56Wy43D0Dj0ic) | [5 Years](https://open.spotify.com/album/62EtS9tibEBvp6pUfltJ5m) | 3:33 |
 
-Snapshot ID: `AAAAAGAvD6JK0P50Ly/bztoGqdShsWd9`
+Snapshot ID: `AAAAAIpkIbh0sKvZbKWCRiEXycAVwHtG`

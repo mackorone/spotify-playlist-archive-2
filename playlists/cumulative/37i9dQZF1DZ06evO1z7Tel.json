@@ -1298,10 +1298,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 207673,
       "name": "Gabino Barrera",
       "url": "https://open.spotify.com/track/3FJjpxv95LLjQPIVrPhntF"
+    },
+    {
+      "album": {
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/3KD7KTrctrplIFSaFijoP5"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207673,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/45iTAJw4gzieCKecO7mpQq"
     },
     {
       "album": {

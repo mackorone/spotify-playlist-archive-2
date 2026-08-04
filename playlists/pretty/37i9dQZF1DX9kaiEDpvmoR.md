@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 
 > Aktuell musik med etablerade och intressanta artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,857 likes - 89 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,841 likes - 89 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 88 | [Hon steg på finlandsbåten](https://open.spotify.com/track/1L5gRcjdOBZVrvf9eMr74t) | [Anastasía](https://open.spotify.com/artist/6mbTUwFJv0MEIhxbkG47JM), [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Hon steg på finlandsbåten](https://open.spotify.com/album/2NWC30QTZOUGAbbuBhChfI) | 3:17 |
 | 89 | [Bara trummor kvar](https://open.spotify.com/track/65R6XBsGQwS86rwzgybHH4) | [Eva Dahlgren](https://open.spotify.com/artist/7IK2JpZglDYTrso4ILEKE0) | [Bara trummor kvar](https://open.spotify.com/album/6gs9deX2HzLigPK9WDIzSd) | 3:38 |
 
-Snapshot ID: `AAAAABzgthUwlik9JKqoRzIFg1JyM9h8`
+Snapshot ID: `AAAAAI0yzZDUdxyEUW4bzHIOaze9Wj3+`

@@ -4,7 +4,7 @@
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Sibel Can, Eypio
 
-757 songs - 1 day 15 hr 7 min
+758 songs - 1 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Cehennem](https://open.spotify.com/track/2YWKPckFWxBEklu418lS1w) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Cehennem](https://open.spotify.com/album/5SuFfOuEJQaRvqSoyfPWKO) | 2:14 | 2025-08-07 | 2025-08-29 |
 | [Cehennemin Dibi](https://open.spotify.com/track/408CB6C3xSUJJJpMopjJ1y) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Cehennemin Dibi](https://open.spotify.com/album/5d0khevKWVD2hMghDEKpaR) | 2:50 | 2024-07-02 | 2024-11-29 |
 | [Cennet](https://open.spotify.com/track/0ay0rJ0zPpu5yGLCxqz5oE) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Cennet](https://open.spotify.com/album/0nGdlxWVdcHbjaf4CvKAXm) | 2:20 | 2024-07-02 | 2024-11-29 |
+| [CRUSH!](https://open.spotify.com/track/4uFIhAOi62bRG1OhmQfDB9) | [CRUSH](https://open.spotify.com/artist/2JEo6ivzJS4vQbHZycSsS6) | [CRUSH!](https://open.spotify.com/album/3Ayegr0sD9IvpNiGFsVzR0) | 2:28 | 2026-08-03 |  |
 | [Cümlenin Sonu](https://open.spotify.com/track/6EmI2OLfK6Q1rFOMLtt75T) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT), [Mavzer Tabancas](https://open.spotify.com/artist/7vyG44Uv5jGIwwm2Ha0nE0) | [Cümlenin Sonu](https://open.spotify.com/album/5WXqwMNjpZPqgz0NTH5JX9) | 2:24 | 2024-12-12 | 2025-01-31 |
 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 | 2026-04-02 |  |
 | [Daha Nasıl Anlatayım](https://open.spotify.com/track/75laORP3PNVoba0tr3yRzZ) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Daha Nasıl Anlatayım](https://open.spotify.com/album/5fKRMiULD8GRQvG8TbsMmq) | 3:29 | 2026-03-05 | 2026-03-20 |
@@ -734,7 +735,7 @@
 | [Çaylak](https://open.spotify.com/track/33f1md8kBlcEESGYVva0Aa) | [Melis Kar](https://open.spotify.com/artist/4hdeFgoe7zQEJWXVIAm2yj) | [Çaylak](https://open.spotify.com/album/5f7dlUu5Bw0iFINisUeVmj) | 2:01 | 2026-06-18 | 2026-07-03 |
 | [Çek Git](https://open.spotify.com/track/4ap4o3GpdfsLeWYJzuU3GH) | [Bilal Sonses](https://open.spotify.com/artist/6iBdV6h17D1kOnK9lFyWo3) | [Çek Git](https://open.spotify.com/album/2fQRoyOxPDbv2eVTtuiCVO) | 2:09 | 2025-05-29 | 2025-06-13 |
 | [Çek Tetiği](https://open.spotify.com/track/021NnHd8KIjzaNQi1fQMGK) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm) | [Bachi\-Bouzouk](https://open.spotify.com/album/7MgIYClJAmFL0MG3oHINOE) | 3:00 | 2025-08-14 | 2025-10-31 |
-| [Çingenem](https://open.spotify.com/track/6BeEKJEEaZlR2pyjrLDs4r) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Çingenem](https://open.spotify.com/album/2YXBQL6y1Pck5dh0Hxzx9U) | 2:52 | 2026-06-25 |  |
+| [Çingenem](https://open.spotify.com/track/6BeEKJEEaZlR2pyjrLDs4r) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Çingenem](https://open.spotify.com/album/2YXBQL6y1Pck5dh0Hxzx9U) | 2:52 | 2026-06-25 | 2026-08-04 |
 | [Çivi Çiviyi Söker](https://open.spotify.com/track/1Cu92R1TUup3ywhWQgGTku) | [Koray Avcı](https://open.spotify.com/artist/3sV7ijrP5xMHgWRlOnPTCi) | [Çivi Çiviyi Söker](https://open.spotify.com/album/7kKXJelwItqQPDZ1pRCvow) | 2:56 | 2025-10-23 | 2025-11-07 |
 | [Çukur](https://open.spotify.com/track/4kgGyOa4xEpUl2sJIYDWXY) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Çukur](https://open.spotify.com/album/6OupKBvHaKBYZQ9URTUxZR) | 3:24 | 2026-01-29 | 2026-02-13 |
 | [Çözemezler](https://open.spotify.com/track/3Lj4lMbv853oGTgdmuRgGi) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Çözemezler](https://open.spotify.com/album/2sSMJMZkfm2pQLjGF02qk4) | 2:51 | 2026-03-12 | 2026-03-27 |

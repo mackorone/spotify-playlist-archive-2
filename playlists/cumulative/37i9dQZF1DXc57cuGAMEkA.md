@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Ariana Grande, Tinashe, Robyn, Swedish House Mafia, Tove Lo and more!
 
-14,602 songs - 33 day 23 hr 16 min
+14,603 songs - 33 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 | 2024-01-18 | 2024-01-26 |
 | [Alstroemeria](https://open.spotify.com/track/6b4vKVAIEiIUYBBPj60nCw) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [Alstroemeria](https://open.spotify.com/album/5J7HLMtGK0SVYCNiHdE6dN) | 3:23 | 2023-07-28 | 2023-08-04 |
 | [Alter Ego \(with JT\)](https://open.spotify.com/track/2xaaJcmvMOmpDbTwlWnjFh) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Alter Ego \(with JT\)](https://open.spotify.com/album/3CvGbx2f7ZMoUZLz8ZjOQd) | 3:24 | 2024-03-28 | 2024-04-05 |
+| [Alvafro](https://open.spotify.com/track/5PE1xJ7cIpJbVqqrKtQxJJ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 3:58 | 2026-08-03 |  |
 | [Always](https://open.spotify.com/track/31HK5kxZbGVVX6EhtU5FWK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Always](https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG) | 3:01 | 2024-04-12 | 2024-04-19 |
 | [Always](https://open.spotify.com/track/6XS4odIhLD8BmPWXPmSLkQ) | [CIRRA](https://open.spotify.com/artist/2mxHoKmz7WN2FQuPzPJWjg) | [Always](https://open.spotify.com/album/1wtt6p3CMmvRIdH0VtaMCF) | 3:20 | 2026-02-26 | 2026-03-06 |
 | [Always](https://open.spotify.com/track/1wTCkIx6HbNdTxSQNgweCc) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [Season of Memories \(Special Album\)](https://open.spotify.com/album/3RKQHq3qRjvC1haI9WxOKM) | 3:01 | 2025-01-16 | 2025-01-24 |
@@ -10682,10 +10683,10 @@
 | [Soul buddy \(feat\. yoxen\)](https://open.spotify.com/track/3AMRDUsLVzxwaMhde4pOkB) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu), [yoxen](https://open.spotify.com/artist/3ok3oJzBOnFxncWphlJp5T) | [Soul buddy \(feat\. yoxen\)](https://open.spotify.com/album/4oIWFMINAjLMIxJr8eGDeD) | 3:00 | 2023-03-24 | 2023-03-31 |
 | [Soul Capturer \- Single Version](https://open.spotify.com/track/2cr3V8opJ5RYiWnlJE3Al3) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Soul Capturer](https://open.spotify.com/album/61JXj0lxPZ6bQw8mRQgkHD) | 5:44 | 2023-07-27 | 2023-08-04 |
 | [Soul Funkafied feat\. Yoshiaki Muto](https://open.spotify.com/track/2rFbfBplp0vd2hIFQWVrjY) | [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [34/45](https://open.spotify.com/album/06lupQqsX3gZuaiECZAMge) | 4:03 | 2026-01-01 | 2026-01-15 |
+| [soul reply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soul reply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 | 2026-07-30 |  |
 | [Soul Wandering](https://open.spotify.com/track/02woI8r5xhxMt0ndiwytbJ) | [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH) | [Soul Wandering](https://open.spotify.com/album/53bH4NaXpyhRfqjIocmOxZ) | 3:19 | 2024-02-22 | 2024-03-01 |
 | [Soulmate](https://open.spotify.com/track/6g56vvpNt52RX65lcautxd) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [The Way It Was Before](https://open.spotify.com/album/59aMQPmxNeRdtWv7Tqk5WY) | 3:11 | 2023-02-02 | 2023-02-10 |
 | [Soulmates](https://open.spotify.com/track/7tGekWqgVeR84jTUTF3Fs1) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Soulmates](https://open.spotify.com/album/5Jqq2XRC5YvgcOkJ7hJFZF) | 3:37 | 2026-06-05 | 2026-06-12 |
-| [soulreply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soulreply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 | 2026-07-30 |  |
 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 | 2025-06-26 | 2025-07-04 |
 | [SOULSOUP](https://open.spotify.com/track/1JrxwbZ9u0VNwemdcJwZNi) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/2nilNZLuzCuFSkhXC2h10C) | 5:14 | 2023-12-14 | 2023-12-22 |
 | [sound like \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1Ql7KFG7eJPORSppQT8rC2) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [sound like \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/302dHrMIvBQVB4VFcS77Fq) | 2:59 | 2025-06-12 | 2025-06-20 |

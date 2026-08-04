@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 203129,
+  "num_followers": 203064,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAAqMz60x/tcgoURL4dphRoc",
+  "snapshot_id": "am6IgAAAAAD9yw/+0WyBTSJczcdAQwZl",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Laurita Garza",
-        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "La Fuga Del Rojo",
-      "url": "https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Es Demasiado Tarde",
         "url": "https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx"
       },
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra Era",
-        "url": "https://open.spotify.com/album/4EzWUl91tOLsFNgKrs8oe0"
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/6CVR7Bsz5h7IkzyNAqpLsg"
       },
       "artists": [
         {
@@ -736,9 +720,25 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 168304,
-      "name": "La Mejor de Mis Tragedias",
-      "url": "https://open.spotify.com/track/2VBLnpqcMppdvYeuDYXBth"
+      "duration_ms": 152293,
+      "name": "La Fuga Del Rojo",
+      "url": "https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos De Pegue",
+        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Lucio Pe\u00f1a",
+      "url": "https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos De Pegue",
-        "url": "https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q"
+        "name": "Otra Era",
+        "url": "https://open.spotify.com/album/4EzWUl91tOLsFNgKrs8oe0"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 193706,
-      "name": "Lucio Pe\u00f1a",
-      "url": "https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj"
+      "duration_ms": 168304,
+      "name": "La Mejor de Mis Tragedias",
+      "url": "https://open.spotify.com/track/2VBLnpqcMppdvYeuDYXBth"
     },
     {
       "added_at": null,

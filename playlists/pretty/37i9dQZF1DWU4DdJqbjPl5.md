@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > Intersection of R&B and afrobeats\. Cover:  Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,987 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,004 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 69 | [What They Want?](https://open.spotify.com/track/3SOgkXsCWNQYSoaZuMztK3) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [For All The Right Reasons Vol\. 1](https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN) | 3:00 |
 | 70 | [Taking Me Places](https://open.spotify.com/track/33ut674yyb3quH7Ubf6Q7J) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8), [Mbryo](https://open.spotify.com/artist/3x9zvETvpbvSM8xL0pxyDy), [Christer](https://open.spotify.com/artist/2vemjAzrRomX77RflYLqbU), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras) | [Painfully Happy \(Deluxe\)](https://open.spotify.com/album/0qRB249PHQdJmsCgP7S1yh) | 3:09 |
 
-Snapshot ID: `AAAAALop0XzhsaGVvAI6vPg/L2q0JQqV`
+Snapshot ID: `AAAAALN4CP9CMawHi9GsHNu0A0Z8kxNi`

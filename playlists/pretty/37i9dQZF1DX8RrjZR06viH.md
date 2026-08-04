@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🌱🌸🌾🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,651 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,638 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 84 | [Lykke til pappa](https://open.spotify.com/track/2i8HqCbclrZUaN1PexNjy9) | [Musti](https://open.spotify.com/artist/5bgVMXG2OsJuKvkD9VMpZ6), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Lykke til pappa](https://open.spotify.com/album/1C7ut96iQoRm9adHiyukPU) | 2:39 |
 | 85 | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Unge til vi dør \(versjon for sene sommerkvelder\)](https://open.spotify.com/album/5STy4nlkQA5ENGxsUqXkX8) | 2:15 |
 
-Snapshot ID: `AAAAAOc4FbdqT4o4ksDCoW14kmg5BVNu`
+Snapshot ID: `AAAAAERLAqw7XItieHLukWt1fwORAPqR`

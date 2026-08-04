@@ -7490,7 +7490,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 244000,
       "name": "FLAITEERA",
       "url": "https://open.spotify.com/track/2mh6vP7zo6mDXXKLnpHLPt"
@@ -12818,7 +12818,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 189719,
       "name": "Myke Towers: Bzrp Music Sessions, Vol. 42/66",
       "url": "https://open.spotify.com/track/6ixCgwWOAN6C07ozzRm9pj"
@@ -16073,6 +16073,24 @@
     },
     {
       "album": {
+        "name": "Quiero m\u00e1s",
+        "url": "https://open.spotify.com/album/6X4uBmtXQoR3wYLCpr76Sw"
+      },
+      "artists": [
+        {
+          "name": "La Pantera",
+          "url": "https://open.spotify.com/artist/0IEzMvarfVycBJAXjjEZOL"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151048,
+      "name": "Quiero m\u00e1s",
+      "url": "https://open.spotify.com/track/0P95y11fiaArEEDcT995WF"
+    },
+    {
+      "album": {
         "name": "EXTRADITABLESSD",
         "url": "https://open.spotify.com/album/4isxkWAvMq0RXIRCmT228V"
       },
@@ -17684,6 +17702,40 @@
       "duration_ms": 240000,
       "name": "Si La Calle Llama - Remix",
       "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+    },
+    {
+      "album": {
+        "name": "SI ME HICIERA EL DE LA LENGUA (REMIX) (feat. Luar La L)",
+        "url": "https://open.spotify.com/album/7j6wj2Hw3jsgGqxbjAoLFe"
+      },
+      "artists": [
+        {
+          "name": "FANTA ROSARIO",
+          "url": "https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "SI ME HICIERA EL DE LA LENGUA (REMIX) (feat. Luar La L)",
+      "url": "https://open.spotify.com/track/1ILSTelC5zM5zF1zMgb9pE"
     },
     {
       "album": {

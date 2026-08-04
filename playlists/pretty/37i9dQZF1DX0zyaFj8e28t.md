@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 
 > Les plus grands tubes français des années 80\. Photo : France Gall
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,819 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,672 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zyaFj8e28t.md) - [plain]
 | 49 | [Le temps est assassin \- Remasterisé en 2008](https://open.spotify.com/track/4lMDfQ7hIwwcbRgsY870LU) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Véronique Sanson \(Edition Deluxe\)](https://open.spotify.com/album/5xOuC8UkYnYXiqeHN21bqS) | 5:13 |
 | 50 | [Eve lève\-toi](https://open.spotify.com/track/3MPmRgJHfD7CADCibQfNgG) | [Julie Pietri](https://open.spotify.com/artist/4siBlVknVhh8jtVy9jHsDG) | [Eve lève\-toi](https://open.spotify.com/album/5P5GtHwVOmZEVqqapr0F1w) | 4:32 |
 
-Snapshot ID: `AAAAADIDjA6WztGDkrkq2YT5gU3+Kq/7`
+Snapshot ID: `AAAAAGyRJ50YSt78KbiZwFSr0h0v0Dhk`

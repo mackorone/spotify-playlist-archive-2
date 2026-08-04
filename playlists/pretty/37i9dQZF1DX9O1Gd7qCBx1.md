@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,208 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,144 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 87 | [Como te extraño](https://open.spotify.com/track/3I38Zs63YNsYX6NyTpoGQs) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [XEW La Voz de America Latina](https://open.spotify.com/album/3AKsaYerOVLD95EDIHQwpJ) | 3:03 |
 | 88 | [Cartas \(Primera carta: La Calavera\)](https://open.spotify.com/track/5wEmK84AIP35bb3TNWTLqu) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Cartas \(Primera carta: La Calavera\)](https://open.spotify.com/album/0CGDKXhlm6ACcfn1qgadc2) | 3:39 |
 | 89 | [Calaveras \(with Lila Downs\)](https://open.spotify.com/track/3YpDNLFNIBJjoUFJHyGC65) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Marcha De La Vida \(Deluxe Edition\)](https://open.spotify.com/album/4Ee1DMFFqEe8JO68XqNgz7) | 4:29 |
-| 90 | [Si Te Mueres Mañana](https://open.spotify.com/track/5eTGZFp34UWVN5IRTXTWor) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Quema Quema Quema](https://open.spotify.com/album/4xwCcFkvSWgvJVE52xbpJh) | 3:52 |
-| 91 | [La Catrina](https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 3:27 |
-| 92 | [El Fantasma Enamorado](https://open.spotify.com/track/2D7yfNs7wWzAD33FMCOIPN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon Appetit](https://open.spotify.com/album/4CIMlywsdaGgVEiObGZM9o) | 4:23 |
-| 93 | [La Danza de la Muerte \- Día de Muertos](https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n) | [La Danza de la Muerte \(Día de Muertos\)](https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ) | 3:14 |
-| 94 | [Piensa en Mí](https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Día de Muertos](https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh) | 3:12 |
-| 95 | [El Funeral](https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Caracoles](https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv) | 2:25 |
-| 96 | [Espectro \- En Vivo Desde Cuba](https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Athanai](https://open.spotify.com/artist/7MIemSpbjGiDPJP0SSyF68), [Dayron Ortiz](https://open.spotify.com/artist/2bwwrFM6oWJ4sdKHFaYhKI) | [Espectro \(En Vivo Desde Cuba\)](https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh) | 4:28 |
-| 97 | [Vamos a Morir](https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5I9EFpVPS5zmlzzqvWcCaC) | 3:55 |
-| 98 | [Calaveritas](https://open.spotify.com/track/3kvZCUYzkTDGsxeH0bc1nE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Calaveritas](https://open.spotify.com/album/0rX8OoxkHuZDff1UmIhMco) | 4:20 |
+| 90 | [Piensa en Mí](https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Día de Muertos](https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh) | 3:12 |
+| 91 | [Si Te Mueres Mañana](https://open.spotify.com/track/5eTGZFp34UWVN5IRTXTWor) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Quema Quema Quema](https://open.spotify.com/album/4xwCcFkvSWgvJVE52xbpJh) | 3:52 |
+| 92 | [La Catrina](https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 3:27 |
+| 93 | [El Fantasma Enamorado](https://open.spotify.com/track/2D7yfNs7wWzAD33FMCOIPN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Bon Appetit](https://open.spotify.com/album/4CIMlywsdaGgVEiObGZM9o) | 4:23 |
+| 94 | [La Danza de la Muerte \- Día de Muertos](https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n) | [La Danza de la Muerte \(Día de Muertos\)](https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ) | 3:14 |
+| 95 | [Espectro \- En Vivo Desde Cuba](https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y) | [Rosalía León](https://open.spotify.com/artist/3CmpJ8AXGUzYIRPmFUbjyx), [Athanai](https://open.spotify.com/artist/7MIemSpbjGiDPJP0SSyF68), [Dayron Ortiz](https://open.spotify.com/artist/2bwwrFM6oWJ4sdKHFaYhKI) | [Espectro \(En Vivo Desde Cuba\)](https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh) | 4:28 |
+| 96 | [El Funeral](https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Caracoles](https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv) | 2:25 |
+| 97 | [Calaveritas](https://open.spotify.com/track/3kvZCUYzkTDGsxeH0bc1nE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Calaveritas](https://open.spotify.com/album/0rX8OoxkHuZDff1UmIhMco) | 4:20 |
+| 98 | [Vamos a Morir](https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5I9EFpVPS5zmlzzqvWcCaC) | 3:55 |
 | 99 | [Ruego](https://open.spotify.com/track/1UBSaHHpwcWFJ20avaUC1g) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Ruego](https://open.spotify.com/album/4gmmqKd8zu7O02ZmCk0g3o) | 3:40 |
 | 100 | [Viento](https://open.spotify.com/track/3FtjzxyG9fs1bKuT1E5DZn) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Chao](https://open.spotify.com/album/50NOVmSzpApZluUtVSv1Tz) | 5:09 |
 
-Snapshot ID: `AAAAAF7x5+WrgqP4tRyoOSVzk6ihzWbg`
+Snapshot ID: `AAAAANlE4GWmq2CwrUDgfNU5Iiw2uPl9`

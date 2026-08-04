@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,310 likes - 110 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,317 likes - 110 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 109 | [AGABA](https://open.spotify.com/track/2CljurYlwVbQ2qMtrY2Pys) | [Blessing Lopez](https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd) | [AGABA](https://open.spotify.com/album/4VfMu1gbyTQEBuqLgOLKLT) | 2:43 |
 | 110 | [Wonderful Wonder](https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Love Song](https://open.spotify.com/artist/6yKVfS7jLHoqmI8AWvVivy) | [God of Love](https://open.spotify.com/album/2T2gLRnY1ylgkEWaEVuL1H) | 5:37 |
 
-Snapshot ID: `AAAAAMErtq7xRP994lVM4HAt0vQpjUrX`
+Snapshot ID: `AAAAAC99kWBzK7i8woNqsRMzEnBXiPV7`

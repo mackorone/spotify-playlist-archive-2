@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 
 > This is Sofie Birch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213 likes - 40 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 213 likes - 40 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 | 23 | [Stars on the ground](https://open.spotify.com/track/1HOlpttdxR7fmgEeJrcDt8) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 5:15 |
 | 24 | [Calibrating Sense](https://open.spotify.com/track/4VT2PYRCp9xD7KBVHm1fIr) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 4:02 |
 | 25 | [My River](https://open.spotify.com/track/34L1BjT10mI1dKvOJw4qd4) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:48 |
-| 26 | [Begin Sync End](https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 4:34 |
+| 26 | [Myg](https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 10:18 |
 | 27 | [Comes with sunrise](https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:19 |
 | 28 | [Sugi](https://open.spotify.com/track/1abxSo1leLk7qdlZaKg2mN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 3:52 |
 | 29 | [Sudany](https://open.spotify.com/track/326g4y565ibUjF0L7iOdcN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:20 |
-| 30 | [Myg](https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 10:18 |
-| 31 | [Collecting eyes](https://open.spotify.com/track/4Fslm3L6X9RsyO6SvBEi1h) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 8:41 |
+| 30 | [Begin Sync End](https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 4:34 |
+| 31 | [Love object](https://open.spotify.com/track/4zkUkLBt2YV8eIZkvLyWxo) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:20 |
 | 32 | [Connotes Beauty](https://open.spotify.com/track/5b89aevKt1ynGCX26kToQ6) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Calibrating Senses](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 3:50 |
 | 33 | [Me of Ocean](https://open.spotify.com/track/6BTjfobE7U53Wd6IMEw4bT) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:41 |
 | 34 | [Jeg Kan Så Godt Li Blomster](https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM) | [Phine & Ormen](https://open.spotify.com/artist/4PWhdZlouA7l04j7YpUKuO), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Goddag](https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6) | 2:40 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 | 39 | [Endowment](https://open.spotify.com/track/2YMtUI0kiCkurTqSCFbEtv) | [OTOOTO](https://open.spotify.com/artist/4bTgYIf70ESA9P1HYj7chQ), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [2nd Quake](https://open.spotify.com/album/0e7lXXUdpt9aBP6neNLolB) | 4:58 |
 | 40 | [Outro](https://open.spotify.com/track/1xMb2ja1p267QATU3oXg8Y) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:50 |
 
-Snapshot ID: `am03AAAAAAB1tN5CFqg+H7Okvm5p8vPB`
+Snapshot ID: `am6IgAAAAAByRheqCPUuRFy8Bmt/y1t3`

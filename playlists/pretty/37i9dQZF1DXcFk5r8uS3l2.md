@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Keb' Mo'
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069,457 likes - 99 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,199 likes - 99 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 98 | [Everything's Fine](https://open.spotify.com/track/4zAonFIPy28okpnSUMzceT) | [Hollie Rogers](https://open.spotify.com/artist/5LusIUYPwa4yt3q02O1xqp), [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [Beth Nielsen Chapman](https://open.spotify.com/artist/2dPJ5zRtJQHk7JsLMy5Dtu) | [Everything's Fine](https://open.spotify.com/album/1h64ZVnu3Zds9ZKRJcOE8k) | 3:54 |
 | 99 | [Run Out of Love \- with Lisa Loeb](https://open.spotify.com/track/34JpLfR2gIJtsq93RnbRCu) | [Pete Muller](https://open.spotify.com/artist/55BUDwcDLKgwBPOKTrr4sc), [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Run Out of Love \(with Lisa Loeb\)](https://open.spotify.com/album/6QKfjajavauKgHu9faeZNJ) | 4:37 |
 
-Snapshot ID: `AAAAACFMRpsMfmex9Ssjf3qVDJBj5B/s`
+Snapshot ID: `AAAAAJEucwaxqnB9ElR+DUDuAdUR81oI`

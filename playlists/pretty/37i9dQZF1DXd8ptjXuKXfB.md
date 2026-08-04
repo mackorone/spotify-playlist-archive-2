@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,748 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,754 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 79 | [Nesztek!](https://open.spotify.com/track/1dAke6f5iFbycgLmX4Uv9o) | [Irie Maffia](https://open.spotify.com/artist/1Wd1nIQmdmG3BV27KjoMZ6), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [Nesztek!](https://open.spotify.com/album/0m26JdOSr7CXT37JQp3wkF) | 2:07 |
 | 80 | [ICE SPICE](https://open.spotify.com/track/1TWN7SgqSXiaHuH8LoIXZN) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [ICE SPICE](https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy) | 2:01 |
 
-Snapshot ID: `AAAAAEEfryyFoJOxwnKqxpM0B5ptq+5A`
+Snapshot ID: `AAAAALm3wzXGM18AEB7xBfCYYkIIa6U/`

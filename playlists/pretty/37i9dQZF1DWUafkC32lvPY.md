@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,750 likes - 80 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,762 likes - 80 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 66 | [Lunes Azul](https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Eric Chacón](https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR) | [Hora Azul](https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo) | 2:45 |
 | 67 | [LA FALDA \- LoFi](https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u) | [AstroLofi](https://open.spotify.com/artist/2Piv8Ufq8XhpHwedI6FRMm), [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA FALDA \(LoFi\)](https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ) | 2:51 |
 | 68 | [Diamond Sparkle](https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x) | [L.Rey](https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM) | [Beautiful Lights](https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR) | 2:28 |
-| 69 | [Anoche](https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy) | [Stc Beats VB](https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P) | [Dia de Muertos](https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V) | 1:48 |
-| 70 | [Playa del Amor](https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Playa del Amor](https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7) | 2:09 |
+| 69 | [Playa del Amor](https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Playa del Amor](https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7) | 2:09 |
+| 70 | [Anoche](https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy) | [Stc Beats VB](https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P) | [Dia de Muertos](https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V) | 1:48 |
 | 71 | [lucky monkey](https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [lucky monkey](https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I) | 2:13 |
 | 72 | [Todo Tranqui](https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Todo Tranqui](https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP) | 1:40 |
 | 73 | [Good things take time](https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Good things take time](https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL) | 1:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 79 | [No Sé Que Hacer](https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh) | [AvenREC](https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB) | [Harissa](https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo) | 3:03 |
 | 80 | [Ipanema Sunset](https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK) | [Praia Sur](https://open.spotify.com/artist/1rAf2WavxUwfhaeBHUreyf), [LaidSisters](https://open.spotify.com/artist/5Cn511T4oZ0eQO3IddTPRj), [Müx](https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo) | [Ipanema Sunset](https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7) | 2:02 |
 
-Snapshot ID: `AAAAAHHEDRVF84OoFNpDDswDzIVRyQi1`
+Snapshot ID: `AAAAAPo3WvDSoy8ZVstzUJ14plisSX7/`

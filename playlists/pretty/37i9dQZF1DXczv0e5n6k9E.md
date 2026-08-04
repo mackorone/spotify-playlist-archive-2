@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Ivan Greko
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,425 likes - 59 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,422 likes - 59 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 58 | [CON CALMA](https://open.spotify.com/track/3vXDf3EBZ0gmz6rkMkM3po) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou) | [TIGER LUV](https://open.spotify.com/album/6srP9HJXcKA4lwfa8viVPJ) | 3:33 |
 | 59 | [PES TI THELEIS KSA](https://open.spotify.com/track/6dXB0KFc9qcf1J7FriTcI1) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [PES TI THELEIS KSA](https://open.spotify.com/album/3YcVwOv07X532NtzJJleaH) | 1:54 |
 
-Snapshot ID: `AAAAANKbVWuRC+RQqoyjH1d+pe9bERET`
+Snapshot ID: `AAAAAD0EQI+GUAoTwcbRmaDvtVEY/Ynx`

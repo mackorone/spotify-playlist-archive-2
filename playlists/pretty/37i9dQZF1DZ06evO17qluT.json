@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 109884,
+  "num_followers": 109959,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAABQQAsf+16trJBA2WKxdhYO",
+  "snapshot_id": "am6IgAAAAAC8FZpF9jTE/3IOtnA1u7vZ",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "L\u00f3gos",
+        "url": "https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "CrimeNow",
+          "url": "https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g"
+        }
+      ],
+      "duration_ms": 230831,
+      "name": "Regras da Loja",
+      "url": "https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nume - Ep\u00edlogo",
         "url": "https://open.spotify.com/album/4xFE545VDYSeK8mHiTpdC5"
       },
@@ -579,30 +603,6 @@
       "duration_ms": 258782,
       "name": "KGL's",
       "url": "https://open.spotify.com/track/5MNGPjPiQbs0IQWLmpLb13"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L\u00f3gos",
-        "url": "https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR"
-      },
-      "artists": [
-        {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "CrimeNow",
-          "url": "https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g"
-        }
-      ],
-      "duration_ms": 230831,
-      "name": "Regras da Loja",
-      "url": "https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn"
     },
     {
       "added_at": null,

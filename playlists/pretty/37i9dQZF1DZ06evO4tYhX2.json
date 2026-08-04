@@ -1,12 +1,12 @@
 {
   "description": "This is Miel San Marcos. The essential tracks, all in one playlist.",
-  "num_followers": 61226,
+  "num_followers": 61120,
   "original_name": "This Is Miel San Marcos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAADNEc3PkLc2AfWXsgfohTwb",
+  "snapshot_id": "am6IgAAAAAAXmwjGRpEJ8YyXyas/csb2",
   "tracks": [
     {
       "added_at": null,
@@ -967,30 +967,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coritos (En Vivo)",
-        "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
+        "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
+        "url": "https://open.spotify.com/album/5fmeSELeEd0jAndRiYNGWS"
       },
       "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Daniel Calveti",
-          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
-        },
         {
           "name": "Marcos Witt",
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         },
         {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
         }
       ],
-      "duration_ms": 687091,
-      "name": "Coritos (En Vivo)",
-      "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
+      "duration_ms": 271266,
+      "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
+      "url": "https://open.spotify.com/track/197MVjLeXOx40bfsRy9mMw"
     },
     {
       "added_at": null,
@@ -1031,26 +1027,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
-        "url": "https://open.spotify.com/album/5fmeSELeEd0jAndRiYNGWS"
+        "name": "Coritos (En Vivo)",
+        "url": "https://open.spotify.com/album/4uQI1yz6vAfBTncWNqd48k"
       },
       "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
         {
           "name": "Miel San Marcos",
           "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
         },
         {
-          "name": "Waleska Morales",
-          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
         }
       ],
-      "duration_ms": 271266,
-      "name": "Temprano Yo Te Buscar\u00e9 / Yo Te Busco",
-      "url": "https://open.spotify.com/track/197MVjLeXOx40bfsRy9mMw"
+      "duration_ms": 687091,
+      "name": "Coritos (En Vivo)",
+      "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
     },
     {
       "added_at": null,

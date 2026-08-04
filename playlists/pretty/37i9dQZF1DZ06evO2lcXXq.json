@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 369089,
+  "num_followers": 369041,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAB2ksas6HegMobtX2NEhvLh",
+  "snapshot_id": "am6IgAAAAACvIlwK5pyivWl7dS7O0hny",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back To God",
+        "url": "https://open.spotify.com/album/3bv8C2TkfaU1hhqu7E1OUl"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 243013,
+      "name": "Back To God",
+      "url": "https://open.spotify.com/track/17na7DhhBLsajSS7Vb38Fe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Lead Me",
         "url": "https://open.spotify.com/album/26XQGLcx9C4eJYP4rezkXY"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 254184,
       "name": "You Lead Me",
       "url": "https://open.spotify.com/track/2aDNgEU3yj4vUnh5ZWq4tD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back To God",
-        "url": "https://open.spotify.com/album/3bv8C2TkfaU1hhqu7E1OUl"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 243013,
-      "name": "Back To God",
-      "url": "https://open.spotify.com/track/17na7DhhBLsajSS7Vb38Fe"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 299453,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beyond Us",
         "url": "https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 229733,
       "name": "Time",
       "url": "https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 299453,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
     },
     {
       "added_at": null,

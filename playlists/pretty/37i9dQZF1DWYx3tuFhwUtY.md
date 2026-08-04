@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,977 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,902 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 74 | [Nenu](https://open.spotify.com/track/3gZeUWq9SsPO090ti2As1A) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Nenu](https://open.spotify.com/album/2QOL5sA8SUCrzLVuTZbYgK) | 4:13 |
 | 75 | [Perdón\-amé](https://open.spotify.com/track/2Unv2jkpb7YtD928RGABBq) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Perdón\-amé](https://open.spotify.com/album/5NOp0mO4WPqsVG6uCEunSn) | 2:53 |
 
-Snapshot ID: `AAAAAPgsxG/0C3jerTdtjA1aZCKSI8SM`
+Snapshot ID: `AAAAADOCnKRvOYz2T4Ib4L8VxQuCdMiw`

@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-459 songs - 1 day 2 hr 39 min
+463 songs - 1 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A different face](https://open.spotify.com/track/2Rg295NxrG2fN2HQcvAfib) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 4:12 | 2026-02-28 | 2026-04-16 |
 | [A Little More](https://open.spotify.com/track/39mJ62IPCsaG7X7GvH707H) | [Ella Kenz](https://open.spotify.com/artist/5k0qIptpKEMpMlGx2wbE8e) | [A Little More](https://open.spotify.com/album/3aVIlpVQ7ZCyRqcI5JrCq5) | 3:16 | 2026-02-19 | 2026-04-16 |
 | [A Lot](https://open.spotify.com/track/0ZyU0bHh1UsZz9MUzSth8g) | [Loni Lila](https://open.spotify.com/artist/4mVVCZXncoiQapqEdPFFAy), [Konsum](https://open.spotify.com/artist/6Dw2VAyo0stjSYKTVDzLVD), [YÜÜP](https://open.spotify.com/artist/5Sl0lYEFxFwXKIfJa1Iglj) | [A Lot](https://open.spotify.com/album/5LLIXRhHSDFLhS72dP4Hbp) | 3:24 | 2026-06-06 |  |
+| [A Million Miles Away](https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [A Million Miles Away](https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G) | 7:12 | 2026-08-03 |  |
 | [a place](https://open.spotify.com/track/0B10EkMCSLvpyLffiuRPMt) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Not All Eyes Are Green](https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ) | 1:47 | 2026-02-25 | 2026-04-16 |
 | [A Punch to the Face](https://open.spotify.com/track/1GskPjnCByUjvZSBW9YTlj) | [MOON EATER](https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB) | [A Punch to the Face](https://open.spotify.com/album/1qgC0hvX8UQHX2HxE4Fqw2) | 2:37 | 2026-07-22 |  |
 | [A Street](https://open.spotify.com/track/3z9yp7Rf4hHccBKJ15QXuF) | [Forget Me Not](https://open.spotify.com/artist/6LO7ktGmsVjiuIyJ7PinHk) | [A Street](https://open.spotify.com/album/4sIoa5yZuLQJufrMtCCLZe) | 2:45 | 2026-04-18 | 2026-07-01 |
@@ -44,6 +45,7 @@
 | [Bad Perfume](https://open.spotify.com/track/50IJUVhqz7WhOLMV4ZDl4d) | [KC Johns](https://open.spotify.com/artist/3QoFTL03dyRNkukUWVVwfK) | [Bad Perfume](https://open.spotify.com/album/6Kzv2P8X9OOHtZqgjV6iGf) | 2:52 | 2026-04-20 | 2026-07-01 |
 | [Badly Scripted Film](https://open.spotify.com/track/4Si8TfDhpe7nYnDbG0WMP2) | [Grae Taylor](https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf) | [Badly Scripted Film](https://open.spotify.com/album/4dZqhfjWiAI1Q19Q19ZZx7) | 3:23 | 2026-03-04 | 2026-04-16 |
 | [Balance Beam](https://open.spotify.com/track/2is6Cz1SwoK5fGHUWhP8w3) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Balance Beam](https://open.spotify.com/album/0sZdU9ijHsmLCCAvruEESL) | 2:55 | 2026-03-09 | 2026-04-16 |
+| [BALLET BILLY](https://open.spotify.com/track/6s75SQOvQynztfiYTc5mrC) | [Cut Manners](https://open.spotify.com/artist/1OXL2MCFMKck1RMwKvcvNT) | [BALLET BILLY](https://open.spotify.com/album/1HUnj0XuLs6AQ6TxKrNr37) | 1:46 | 2026-08-03 |  |
 | [Bandages and Promises](https://open.spotify.com/track/0zQDOqHLjwK2Hueyih0jkJ) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [Bandages and Promises](https://open.spotify.com/album/1N9bcji8icEHSbhyVEfPG8) | 3:25 | 2026-02-08 | 2026-03-29 |
 | [Battlefield](https://open.spotify.com/track/1K3uidXakgwiD3FgRlxZPl) | [Jakob Welding](https://open.spotify.com/artist/0qRmzN4h7LMZHoRwsLPbXe) | [a cosmic ballet](https://open.spotify.com/album/6Lsj3aJbzRacjop57eei5L) | 3:48 | 2026-07-04 |  |
 | [Be the Star That You Are](https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Be the Star That You Are](https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0) | 3:09 | 2026-04-18 | 2026-07-01 |
@@ -159,6 +161,7 @@
 | [Forever Blue](https://open.spotify.com/track/0HCpOV0BPeDiwzWMRdPc2F) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Forever Blue](https://open.spotify.com/album/1jPuINX9YzECKkhVibkw0V) | 4:16 | 2025-11-14 | 2026-01-17 |
 | [Forget](https://open.spotify.com/track/3ccTskdIayct3ul6ImpFhF) | [twomoonsaway](https://open.spotify.com/artist/0ryWmY27elchOQgNPEskvI) | [Forget](https://open.spotify.com/album/68e7pBLOsqIvD05rIkYCgp) | 3:28 | 2026-05-10 | 2026-07-24 |
 | [Forget The Serotonin High, I Much Prefer The Void Anyways](https://open.spotify.com/track/0ilKqjDIpc7fmrsYImDKBa) | [Echo Alexander](https://open.spotify.com/artist/0ghlorYK2vI8FZjkkeUEA1) | [Nightmares That Have Become Reality](https://open.spotify.com/album/4Qi0uQiaMPfPZ1hOfjpO14) | 4:41 | 2026-05-10 | 2026-07-24 |
+| [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 | 2026-08-03 |  |
 | [Freakuency](https://open.spotify.com/track/6L5zC9NF2GgTXtlV9lyQaN) | [eyrin](https://open.spotify.com/artist/4pj5GKqMmzVNKsJHEgmiQb) | [Freakuency](https://open.spotify.com/album/5fTRffrRAXmip1mUb0r2Aw) | 4:25 | 2026-04-22 | 2026-07-02 |
 | [Friday Night](https://open.spotify.com/track/1iLAJCSGufM6kFwQmEsAsy) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Friday Night](https://open.spotify.com/album/4xy9aR4N9jINMWqrGDoxty) | 3:55 | 2025-11-03 | 2025-12-02 |
 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-08 | 2026-07-01 |
@@ -167,6 +170,7 @@
 | [ghosts](https://open.spotify.com/track/27ynxg5Ze6q2zWFl1fJPfh) | [Lorelai Paige](https://open.spotify.com/artist/3HVWZoxdlflhNpe04Np1tD), [Darcy Saint](https://open.spotify.com/artist/5mUgRZ7Xvd0tgIL7miDJl6) | [ghosts](https://open.spotify.com/album/4tW9xXJfd8clfBULDOWUvR) | 3:57 | 2025-10-24 | 2025-12-02 |
 | [Give In](https://open.spotify.com/track/3rBgOuFBRFI2QbzEO7eyd9) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [Give In](https://open.spotify.com/album/4QVrhSGiHr8ThE1OT171Lq) | 3:32 | 2026-01-20 | 2026-03-10 |
 | [Glue](https://open.spotify.com/track/4kzpEro293CHBZG3Ilx8kH) | [VIBE](https://open.spotify.com/artist/3JYPwdF2X6M7rv0AL9xGTo) | [Glue](https://open.spotify.com/album/1SkgywYaggjQu4KO23HqG1) | 3:43 | 2026-01-06 | 2026-02-20 |
+| [Go and Fu.\. Yourself](https://open.spotify.com/track/4nBBFkTumPQgEFyqd3gnA1) | [ThorE.E.K](https://open.spotify.com/artist/3X9i2Xfpf4CQjCeV6QMEps) | [Go and Fu.\. Yourself](https://open.spotify.com/album/2f9km0bgK0U2SgL1bMIqZg) | 2:58 | 2026-08-03 |  |
 | [Godstruck](https://open.spotify.com/track/0bJb4chMjV7U5Uufqh0VdD) | [kneeshake](https://open.spotify.com/artist/7Doc8VYJPdWcMthl4c2C9l) | [Godstruck](https://open.spotify.com/album/3Jv9c1emzRLP7eH7PrA1on) | 2:49 | 2026-05-22 | 2026-07-24 |
 | [Gone by dawn](https://open.spotify.com/track/4ZBcvQ1zEk1SogN6mGEDA2) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 3:40 | 2025-12-28 | 2026-03-29 |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2026-02-03 | 2026-03-20 |

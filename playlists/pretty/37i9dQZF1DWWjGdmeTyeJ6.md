@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Saint Clair\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,086 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,218,956 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 79 | [All Yours](https://open.spotify.com/track/1VbuyGK1bBv4ioZKcidXHH) | [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [All Yours](https://open.spotify.com/album/3dXXhI7NQBfvTWAQwfIIBZ) | 3:21 |
 | 80 | [rewrite](https://open.spotify.com/track/555f2FXKrip1OyXSMKURlS) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [darling, darling](https://open.spotify.com/album/0ImFz7IdveBPqcsKL2I02W) | 3:26 |
 | 81 | [don't you miss me](https://open.spotify.com/track/1UhndprkoAtowco7SuCsnw) | [Aki Oke](https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv) | [lifewillneverbethesameagain.](https://open.spotify.com/album/5lDza3KcVGpDBDFFzCS5yR) | 3:23 |
-| 82 | [Louisville Slugger](https://open.spotify.com/track/4XDRg4U995wklQ88APk45Q) | [The Ritornello Form](https://open.spotify.com/artist/08oILBdHqyDxQgLG81f29X) | [Majority Rule](https://open.spotify.com/album/2jfVpSaKBL1aa1jqKHkzst) | 3:24 |
+| 82 | [Bushwick Ratbag](https://open.spotify.com/track/6koOXlPAL58lp78AwiwO4W) | [Um Jennifer?](https://open.spotify.com/artist/1QCrHYVLwmt70890lDtEl3) | [Bushwick Ratbag](https://open.spotify.com/album/2s6jgCwWTpstYTFpFemQr9) | 2:54 |
 | 83 | [Still Learning](https://open.spotify.com/track/24B8hFiK8oH1Bb33DrS2Fm) | [Queen of Jeans](https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL) | [Still Learning](https://open.spotify.com/album/48nAu7t2n8T3YXJLvgj6l0) | 3:32 |
 | 84 | [penso en voce](https://open.spotify.com/track/6MRzvONHsxqcDMlFImvPow) | [Sparklmami](https://open.spotify.com/artist/50NGgQQCV0QLrOefzyuNh0) | [in this body](https://open.spotify.com/album/6haYphkZdT3j3DvhWcAemW) | 2:36 |
 | 85 | [Nueva Canción](https://open.spotify.com/track/7EZzmKbCbfCiEqA6R9Scy9) | [Nina del Río](https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd) | [Canciones del Río](https://open.spotify.com/album/2dJbcky0oG63lOXAxgeOsB) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [heartstrings](https://open.spotify.com/track/32MZsV1czt4Pg2t0VYIzIt) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [heartstrings](https://open.spotify.com/album/2ikXbc4dKGDrUBfbRd0eCw) | 2:28 |
 | 100 | [garden](https://open.spotify.com/track/11sRSIkYZckr2QnPPNqss5) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [garden](https://open.spotify.com/album/2uZQ9xiJnKy1TCTaOdBfGK) | 3:54 |
 
-Snapshot ID: `AAAAACiWlCBD5WTnhNF6ockFQ1Mgb6Z5`
+Snapshot ID: `AAAAAFSZuIAECy7vcrQ/UQe80qjJVa4u`

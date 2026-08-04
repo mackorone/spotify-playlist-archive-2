@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Denis Ramniceanu, Babasha",
+  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: MADATORRICELLI",
   "name": "Hot Hits Rom\u00e2nia",
   "tracks": [
     {
@@ -1435,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Ceai langa tine",
+        "url": "https://open.spotify.com/album/3mXZJCP3IYgC22xLx1OC0D"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149387,
+      "name": "Ceai langa tine",
+      "url": "https://open.spotify.com/track/4SWkUkMoq4sScbU9AOSFIT"
+    },
+    {
+      "album": {
         "name": "Ceas",
         "url": "https://open.spotify.com/album/3LwcKNu5TCotj5TQkRAe1S"
       },
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 141539,
       "name": "E Mult, E Greu!",
       "url": "https://open.spotify.com/track/6OfGAcaOGhkgXWWrSsRpzj"
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -2708,6 +2726,28 @@
       "duration_ms": 163200,
       "name": "Focu'",
       "url": "https://open.spotify.com/track/7sZRAEPaQHH8A9tbxrHWme"
+    },
+    {
+      "album": {
+        "name": "FREAKED OUT",
+        "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "FREAKED OUT",
+      "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
     },
     {
       "album": {
@@ -3264,7 +3304,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
@@ -4223,6 +4263,28 @@
     },
     {
       "album": {
+        "name": "MI AMOR",
+        "url": "https://open.spotify.com/album/4oZost3ZopR7LQa9NEKMUQ"
+      },
+      "artists": [
+        {
+          "name": "EFRA",
+          "url": "https://open.spotify.com/artist/0XgqZLH6hcDOTlOt6v4v3w"
+        },
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160122,
+      "name": "MI AMOR",
+      "url": "https://open.spotify.com/track/2fpArW4gdskbBMyeNSmhJ4"
+    },
+    {
+      "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/7xzSwrv9RmS3qFlNh9CvlE"
       },
@@ -4366,6 +4428,32 @@
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Imael Angel",
+          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142200,
+      "name": "Movin' To The Sun",
+      "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
     },
     {
       "album": {
@@ -4646,7 +4734,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -4870,6 +4958,24 @@
       "duration_ms": 157333,
       "name": "Pe un pat",
       "url": "https://open.spotify.com/track/5kR18jBm2HQaavnVSVg3a8"
+    },
+    {
+      "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/6HWIDxWLkXE2MzQB8iXN9T"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/060LysflCUxQKLKGLe9zJW"
     },
     {
       "album": {
@@ -6918,7 +7024,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 160731,
       "name": "Walla Eh",
       "url": "https://open.spotify.com/track/30Qx8p1Fr1qIZCY7Rp83sG"

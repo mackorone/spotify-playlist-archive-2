@@ -14755,6 +14755,28 @@
     },
     {
       "album": {
+        "name": "DoubleD",
+        "url": "https://open.spotify.com/album/1afquv9tgkdCXaZDCS3r4Z"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141757,
+      "name": "ELA ESCONDE A PLACA",
+      "url": "https://open.spotify.com/track/7CLSW3Ergixxojwt72L6PF"
+    },
+    {
+      "album": {
         "name": "Escola de Trap II",
         "url": "https://open.spotify.com/album/3lKN73ZhtJHwhtp4qufryz"
       },
@@ -16594,6 +16616,24 @@
       "duration_ms": 158828,
       "name": "Eu Nem Te Conto",
       "url": "https://open.spotify.com/track/3eJmouGVRqLXy7WIXIc6PX"
+    },
+    {
+      "album": {
+        "name": "DoubleD",
+        "url": "https://open.spotify.com/album/1afquv9tgkdCXaZDCS3r4Z"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140312,
+      "name": "EU N\u00c3O GRAVO MAIS S\u00d3BRIO",
+      "url": "https://open.spotify.com/track/3ssxA5INC2uLq7jn4R7NqD"
     },
     {
       "album": {
@@ -39668,7 +39708,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 186240,
       "name": "Quer de 100 - Remix",
       "url": "https://open.spotify.com/track/2sItvnQ5w3J47wskPkyt8v"

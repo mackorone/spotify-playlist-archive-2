@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Oscar Lindsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,108 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,116 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 74 | [i wait, i sink](https://open.spotify.com/track/0mvaPr8EQmx46H6han0xwN) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [i wait, i sink](https://open.spotify.com/album/7caD1nvFAGlDkltnoJHh1o) | 2:46 |
 | 75 | [HOLD ME \(SLOWLY\)](https://open.spotify.com/track/2PLrLPJX9UOXTAWMsJqR9m) | [KatzPascale](https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H) | [HOLD ME \(SLOWLY\)](https://open.spotify.com/album/7m1REx16trI5MSc9uNLrja) | 4:11 |
 
-Snapshot ID: `AAAAAKdH55Q5bj7VbuvUuIbtOkYoj0m0`
+Snapshot ID: `AAAAAP7Y4OF439CskFqaMczkMx6oL2v6`

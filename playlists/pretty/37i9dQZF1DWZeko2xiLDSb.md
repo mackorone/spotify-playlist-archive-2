@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack long, dark days with warm favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,917 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,913 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 99 | [Seasons Change](https://open.spotify.com/track/3XlKF7jaEQhVc3FcmN6ao1) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Semblance](https://open.spotify.com/album/1CIUceDTCKIYWgSQuj383i) | 2:29 |
 | 100 | [Heavy Snow](https://open.spotify.com/track/4KkTT6zm7CIYIPUIceNtgM) | [Julie Doiron](https://open.spotify.com/artist/1sjeOeIPG7quxVgmNspYyT) | [I Can Wonder What You Did With Your Day](https://open.spotify.com/album/6L9fsxsnt4HjSMjBY7NHzn) | 3:00 |
 
-Snapshot ID: `AAAAAHPCHo4ZbgnrRGJcnSuwFytFnVDa`
+Snapshot ID: `AAAAAI22xMhwFteEx6ROHXn88Eq7+4oh`

@@ -1,12 +1,12 @@
 {
   "description": "\u0e1e\u0e1a\u0e04\u0e19\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01\u0e2b\u0e25\u0e32\u0e22\u0e2d\u0e31\u0e15\u0e23\u0e32\u0e17\u0e35\u0e48\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e19\u0e35\u0e49",
-  "num_followers": 125460,
+  "num_followers": 125459,
   "original_name": "\u0e04\u0e25\u0e31\u0e48\u0e07\u0e23\u0e31\u0e01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ6o95TJlt+0JVZgqCj2qT1EEezb",
+  "snapshot_id": "AAAAAJgj2LcFecCXErcNK+myncadOj0K",
   "tracks": [
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
+        "name": "Yours Ever",
+        "url": "https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv"
+      },
+      "artists": [
+        {
+          "name": "Cocktail",
+          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
+        },
+        {
+          "name": "Q Flure",
+          "url": "https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs"
+        }
+      ],
+      "duration_ms": 259380,
+      "name": "Yours Ever",
+      "url": "https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
         "name": "\u0e08\u0e33\u0e40\u0e25\u0e22\u0e23\u0e31\u0e01 (Defendant Of Love)",
         "url": "https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 192615,
       "name": "\u0e16\u0e49\u0e32\u0e40\u0e18\u0e2d\u0e2d\u0e22\u0e32\u0e01\u0e44\u0e1b\u0e17\u0e30\u0e40\u0e25\u0e09\u0e31\u0e19\u0e1e\u0e23\u0e49\u0e2d\u0e21...(Talay)",
       "url": "https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
-        "name": "Yours Ever",
-        "url": "https://open.spotify.com/album/69xqagB72Nu4VYBI14fBRv"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        },
-        {
-          "name": "Q Flure",
-          "url": "https://open.spotify.com/artist/2F8QVTDDHb8n0cwR9ftxFs"
-        }
-      ],
-      "duration_ms": 259380,
-      "name": "Yours Ever",
-      "url": "https://open.spotify.com/track/6BN3iFjclJ4teGlmB3fFvo"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 (From \u201c\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d\u201d)",
-        "url": "https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p"
-      },
-      "artists": [
-        {
-          "name": "BILLKIN",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        }
-      ],
-      "duration_ms": 238651,
-      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - (From \u201c\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d\u201d)",
-      "url": "https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "Extraordinary",
         "url": "https://open.spotify.com/album/1nm0OJwsjXkjixIFpk8FZG"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 241983,
       "name": "Extraordinary",
       "url": "https://open.spotify.com/track/19CoWVqDyUbiqxoyMf4HkJ"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 (From \u201c\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d\u201d)",
+        "url": "https://open.spotify.com/album/4nNKCt3VWdqn3nv5nW396p"
+      },
+      "artists": [
+        {
+          "name": "BILLKIN",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        }
+      ],
+      "duration_ms": 238651,
+      "name": "\u0e42\u0e04\u0e15\u0e23\u0e1e\u0e34\u0e40\u0e28\u0e29 - (From \u201c\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d\u201d)",
+      "url": "https://open.spotify.com/track/6MVbuOWvXHbPHtVwScK6M1"
     },
     {
       "added_at": "2026-04-29 14:03:34",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2026-04-29 14:03:34",
       "album": {
-        "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) [From \"\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2\"]",
-        "url": "https://open.spotify.com/album/5Crvl5H8eEBKItvGi9W0Yi"
-      },
-      "artists": [
-        {
-          "name": "BILLKIN",
-          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
-        },
-        {
-          "name": "PP KRIT",
-          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \"\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2\"",
-      "url": "https://open.spotify.com/track/24mB1soS8zLHLG1GK9Hvjd"
-    },
-    {
-      "added_at": "2026-04-29 14:03:34",
-      "album": {
         "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
         "url": "https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 175151,
       "name": "\u0e14\u0e39\u0e14\u0e1d\u0e38\u0e48\u0e19 (home.)",
       "url": "https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs"
+    },
+    {
+      "added_at": "2026-04-29 14:03:34",
+      "album": {
+        "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) [From \"\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2\"]",
+        "url": "https://open.spotify.com/album/5Crvl5H8eEBKItvGi9W0Yi"
+      },
+      "artists": [
+        {
+          "name": "BILLKIN",
+          "url": "https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj"
+        },
+        {
+          "name": "PP KRIT",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "\u0e23\u0e39\u0e49\u0e07\u0e35\u0e49\u0e40\u0e1b\u0e47\u0e19\u0e41\u0e1f\u0e19\u0e01\u0e31\u0e19\u0e15\u0e31\u0e49\u0e07\u0e19\u0e32\u0e19\u0e41\u0e25\u0e49\u0e27 (Safe Zone) - From \"\u0e41\u0e1b\u0e25\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22\u0e43\u0e08\u0e40\u0e18\u0e2d Part 2\"",
+      "url": "https://open.spotify.com/track/24mB1soS8zLHLG1GK9Hvjd"
     },
     {
       "added_at": "2026-04-29 14:03:34",

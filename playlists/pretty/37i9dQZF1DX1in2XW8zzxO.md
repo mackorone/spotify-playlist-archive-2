@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,861 likes - 50 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,908 likes - 50 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 49 | [Groove](https://open.spotify.com/track/2vfo9BBe8AZVKoQonYsWxk) | [Ordio O2](https://open.spotify.com/artist/5VO8WGUErBn2uI7zVcgWok), [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j), [Ross](https://open.spotify.com/artist/3qR0ivGnEprE5Y8oxCly4Y), [Kukzer wadi piano\_012](https://open.spotify.com/artist/3gRYJiGDHEWuZCjKlOZsLh) | [Groove](https://open.spotify.com/album/7y5nc1YxXWkEWAoPJAuKlU) | 5:51 |
 | 50 | [Pure Bliss](https://open.spotify.com/track/405R1UpWRgHMjjvtk5CFNe) | [Luzyo Keys](https://open.spotify.com/artist/4xejznKspg2TLQn2KOXbNk), [2woBunnies](https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML), [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l) | [Pure Bliss](https://open.spotify.com/album/5N7cCHmYQ3KrPIvrQ7HlHn) | 7:30 |
 
-Snapshot ID: `AAAAAI0+k966RgtebmMUwKHsIBJDXCcm`
+Snapshot ID: `AAAAAFTqywHd4TZENff+LYEsdpIk8/zI`

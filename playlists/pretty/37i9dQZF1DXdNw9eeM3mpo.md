@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Calzones en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,726 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,322 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Con este fuego](https://open.spotify.com/track/5Z2zDXfObJAd0vucnS30dR) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Con este fuego](https://open.spotify.com/album/5oCetYb611zC4UyfzpdZ5g) | 3:09 |
 | 100 | [¡Hey Tú!](https://open.spotify.com/track/06JUg2MqByeWM31ac7dLba) | [Aleks Syntek](https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [¡Hey Tú!](https://open.spotify.com/album/63wvcrQ5Kq5SeDEyOZ8imM) | 3:12 |
 
-Snapshot ID: `AAAAAGakuE6w155Zeiecocvl1mIzfZvN`
+Snapshot ID: `AAAAAJZR+YcLrPwxJwW1s+lKtJh9Jw5Y`

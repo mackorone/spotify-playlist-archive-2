@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: sunwoojunga\(선우정아\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,643 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,454 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [Invitation](https://open.spotify.com/track/5SGoHeqHhU62drrUO1QoyA) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Invitation](https://open.spotify.com/album/0tv9DkivdKrquO2wE2khr2) | 3:30 |
 | 100 | [SUZUME](https://open.spotify.com/track/6qoAZFEGqZcr9oIKYV43we) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [SUZUME](https://open.spotify.com/album/0jIf0pFZslLCWgTfJbuvUx) | 3:53 |
 
-Snapshot ID: `AAAAAFRl1n8wSPanfkyLgHC1Hd3Q73Fn`
+Snapshot ID: `AAAAAFaDvYFXFBgrzXx6lNUbtPxwg4Ec`

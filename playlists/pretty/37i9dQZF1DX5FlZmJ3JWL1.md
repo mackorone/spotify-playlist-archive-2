@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,558 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,476 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Breakin' Dishes](https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS) | 2:13 |
 | 50 | [I Like](https://open.spotify.com/track/2EqvkJYnk3pCqlsaN89THt) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [I Like](https://open.spotify.com/album/5qhFCBMK2qx3Vboaxwuh4W) | 3:15 |
 
-Snapshot ID: `AAAAAG83uhfcB9CluMvTRR1aAl72E29a`
+Snapshot ID: `AAAAAMxibmqf5g2uC74/3MJ8MXfPARq8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 
 > Cumbias de antaño para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,108 likes - 125 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,199 likes - 125 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 108 | [Rumba Frenesi](https://open.spotify.com/track/5LB9MFeblJWnzkqcDU0HA2) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia](https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw) | 5:11 |
 | 109 | [La Brujita](https://open.spotify.com/track/6n8M4N16lQMUFeCHNtZIzJ) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [15 Anos De Exitos](https://open.spotify.com/album/5y8nVWoUWR774YYWRSdYEh) | 3:48 |
 | 110 | [No Te Voy A Perdonar](https://open.spotify.com/track/4LDJhbXkL9ckWAOBlBQJKG) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [No Te Voy A Perdonar, Volumen 4](https://open.spotify.com/album/24V99ibPcTjI906jV1io1D) | 3:52 |
-| 111 | [Tabaco y Ron](https://open.spotify.com/track/5kyyzquBdNuJis2kVC4GmT) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us) | 4:02 |
-| 112 | [Guaracha Sabrosona](https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/2RmmHqe6EdibrcZfvRQkYk) | 3:39 |
+| 111 | [Guaracha Sabrosona](https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/2RmmHqe6EdibrcZfvRQkYk) | 3:39 |
+| 112 | [Tabaco y Ron](https://open.spotify.com/track/5kyyzquBdNuJis2kVC4GmT) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Muy Tropical y Bailable](https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us) | 4:02 |
 | 113 | [El Verde De Tus Ojos](https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Serie 20 Exitos Los Yes Yes](https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t) | 5:13 |
 | 114 | [En Mi Escritorio \(La Carta\)](https://open.spotify.com/track/2C6li2i3dNYUJdkwFznNw3) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/5RBuvCYvuCfjews8uBowfU) | 4:47 |
 | 115 | [Embrujo De Cumbia](https://open.spotify.com/track/3JmVaRxi2VpopAdImfnZLt) | [Organazacion Bohio](https://open.spotify.com/artist/24jdSgtTMjoG2zUwv5qbYf) | [Sonido La Conga “Forever”](https://open.spotify.com/album/2BfYk0J2ezISWoivSLr7PK) | 3:16 |
@@ -129,9 +129,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 119 | [Vida No Te Vayas](https://open.spotify.com/track/5Kai2HEyMEN12TyndhDyZn) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Corazoncito Pum Pum](https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP) | 3:48 |
 | 120 | [Carola](https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF) | [Rossy](https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS) | [El Disco de Oro para Equipos de Sonido, Vol\. 2](https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v) | 2:54 |
 | 121 | [Agua de vida](https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg) | [Perla Colombiana](https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14) | [La Perla Colombiana 20 Exitos \(Vol 1\)](https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu) | 3:38 |
-| 122 | [Capullo y Sorullo](https://open.spotify.com/track/30y7TEQ9H7OiJC7i3sFJxu) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Cumbias de Oro: 16 Grandes Éxitos](https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY) | 4:09 |
-| 123 | [Cumbia Del Caribe](https://open.spotify.com/track/2QwG8nmiwvSwWdVqqpEH7m) | [Orquesta De Edmundo Arias](https://open.spotify.com/artist/3kbbhoHPSGIvPe77gD2Rxk) | [Musica Tropical De Colombia 2](https://open.spotify.com/album/6yB0UUjVedFpxgQ7dGHn73) | 3:16 |
+| 122 | [Cumbia Del Caribe](https://open.spotify.com/track/2QwG8nmiwvSwWdVqqpEH7m) | [Orquesta De Edmundo Arias](https://open.spotify.com/artist/3kbbhoHPSGIvPe77gD2Rxk) | [Musica Tropical De Colombia 2](https://open.spotify.com/album/6yB0UUjVedFpxgQ7dGHn73) | 3:16 |
+| 123 | [Capullo y Sorullo](https://open.spotify.com/track/30y7TEQ9H7OiJC7i3sFJxu) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Cumbias de Oro: 16 Grandes Éxitos](https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY) | 4:09 |
 | 124 | [Amor de Internet](https://open.spotify.com/track/5LxGgIGHOjbzvPm5CclD1h) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Amor de Internet](https://open.spotify.com/album/0x63AO9cXTLCjhRzdT1BuW) | 3:50 |
 | 125 | [La Cumbita](https://open.spotify.com/track/4De1d3fqH4Pnb6K20sRVBa) | [Tambó Tambó](https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu) | [Grandes Exitos](https://open.spotify.com/album/2wmLRAy98OUv8l5OXFSE2L) | 3:14 |
 
-Snapshot ID: `AAAAAHGyOKQFt+D5VaGnB1Ab+LxinIZj`
+Snapshot ID: `AAAAAL1ndg1nLsodET0AO5GTlU6JA8sK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,635 likes - 300 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,628 likes - 300 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 299 | [Tree and Traveller](https://open.spotify.com/track/3BpomYyWO3vmpre6yAqi9a) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Tree and Traveller](https://open.spotify.com/album/12WlSNJDYyL51vwPRHYZMw) | 2:43 |
 | 300 | [Algo Lento](https://open.spotify.com/track/7eDXi2Pu6Kx9Qxam7Rtn6V) | [Antonio Conti](https://open.spotify.com/artist/4mZH6SnEHgot7EVmARUBqk) | [Algo Lento](https://open.spotify.com/album/1zq6QFxR7OhZbgKLWUDtMs) | 2:17 |
 
-Snapshot ID: `AAAAAHBmhLLlQU0SsDSkOJvI3AqXkM8i`
+Snapshot ID: `AAAAACAg6wXU5eXFSkPmYTO9E9arkjx9`

@@ -4,7 +4,7 @@
 
 > This is Michael Giacchino\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 45 min
+61 songs - 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,10 +36,11 @@
 | [Married Life](https://open.spotify.com/track/7iocNjLrxPHLl8njgRlv5U) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 4:10 | 2026-07-08 |  |
 | [Mission: Impossible Theme](https://open.spotify.com/track/1FL7eUG80aeUeyMO2N4btN) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Mission: Impossible III \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1FuLQGtfibFyfzSDDiEUhK) | 0:51 | 2026-07-08 |  |
 | [Moving On](https://open.spotify.com/track/0DNhUQCTDdAtuvxZXQ6krk) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Lost: The Final Season \(Original Television Soundtrack\)](https://open.spotify.com/album/4FseEgQujXndeaemvnuF7y) | 7:54 | 2026-07-08 |  |
-| [Nomanisone Island/National Movers](https://open.spotify.com/track/2R3R3dayan27EEINL55jNd) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 4:20 | 2026-07-08 |  |
+| [Nomanisone Island/National Movers](https://open.spotify.com/track/2R3R3dayan27EEINL55jNd) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Inside Out \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1sNK9vLvzIo626GznCEsBN) | 4:20 | 2026-07-08 | 2026-08-04 |
 | [Off to Work](https://open.spotify.com/track/5LhcHHGIIfW7dEqqSI5PLP) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Incredibles \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Gqln6CvkfVOlDq1ne1usV) | 1:59 | 2026-07-08 |  |
 | [Peter Parker Picked a Perilously Precarious Profession \- from "Spider\-Man: No Way Home" Soundtrack](https://open.spotify.com/track/6hmyPabB1GtXrdM5ZM9gNJ) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: No Way Home \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vfxAPvnlWNr5lY9WojHQL) | 1:31 | 2026-08-03 |  |
 | [Pregnancy Testing 1, 2, 3](https://open.spotify.com/track/0Og2yLid9BMCcNy7P9Q2gj) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [The Fantastic Four: First Steps \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0yuJY1TWdXHnG74u5yAPLB) | 1:58 | 2026-07-08 |  |
+| [Quick as a Flashback \- from "Spider\-Man: Brand New Day" Soundtrack](https://open.spotify.com/track/2FDBvZ3iMT8SMIfQIuBxVW) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Spider\-Man: Brand New Day \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3MnzMfSe5sSUh4Ha5EiXM6) | 3:17 | 2026-08-04 |  |
 | [Ratatouille Main Theme](https://open.spotify.com/track/0AGAl2fZLAoGxGd5dO77Cp) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:09 | 2026-07-08 |  |
 | [Rebellions Are Built on Hope](https://open.spotify.com/track/2y0ujQbyIKpfmGnex4VJZU) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Rogue One: A Star Wars Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT) | 2:56 | 2026-07-08 | 2026-07-31 |
 | [Special Order](https://open.spotify.com/track/2zfr8xbDTw3pquWSt6dswt) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 1:58 | 2026-07-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,942 likes - 150 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,039 likes - 150 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [DOM](https://open.spotify.com/track/3whka1SkX931zDruLXOTh1) | [Swaizy](https://open.spotify.com/artist/2dMkqn8YOKg6IwN85zo7gL) | [DOM](https://open.spotify.com/album/4VVWzBdCD20sdkoaA8V21J) | 2:07 |
 | 150 | [GLOOM](https://open.spotify.com/track/6jKDPBLRv0O9tJtJQHQlAN) | [Quasarpro](https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [GLOOM](https://open.spotify.com/album/6ndj4oycOLQBMjozvlPbpi) | 1:58 |
 
-Snapshot ID: `AAAAAN9mbLDLSrqbqsAc/PcMQwWu69HR`
+Snapshot ID: `AAAAAM1AQR/4LhzDDpOiECntqiir290d`

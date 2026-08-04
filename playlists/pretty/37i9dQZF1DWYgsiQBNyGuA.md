@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day\. Cover: Leon Bridges
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,009,278 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,008,896 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 99 | [Silver Lining](https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz) | 3:20 |
 | 100 | [Saviour](https://open.spotify.com/track/7rUDWciGzEJ5kQw3yH8Klr) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Saviour](https://open.spotify.com/album/3zWKWAIzDcJGKLugpnExtf) | 3:00 |
 
-Snapshot ID: `AAAAADQbqjS7a9Yh4fdRk8SIJuGcBhZx`
+Snapshot ID: `AAAAALF8XHvHo+Apl5zjzE5Uwrgn4Cx8`

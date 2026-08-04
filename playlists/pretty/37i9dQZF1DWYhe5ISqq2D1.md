@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: 星野源 Gen Hoshino
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,696 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,649 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 99 | [bubble days](https://open.spotify.com/track/6p8BKrC23uEKe3jPUC5Mzc) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [bubble days](https://open.spotify.com/album/4DNQwljwK8Y2shHwubMYqQ) | 4:04 |
 | 100 | [cappuccino](https://open.spotify.com/track/0fOrNEpaPcnJ9unDn4xZTf) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [cappuccino](https://open.spotify.com/album/2BvQS0zGZ4CRCVTbIsIi9A) | 2:31 |
 
-Snapshot ID: `AAAAAINRDoLeJZDu67mrSAWW7WEHZ8ep`
+Snapshot ID: `AAAAAK7mzKtTzaRVZA+vLTTxZSD+legX`

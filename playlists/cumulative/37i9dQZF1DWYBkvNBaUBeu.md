@@ -4,7 +4,7 @@
 
 > Future hits in the Philippines! Cover: Robyn, Zara Larsson
 
-896 songs - 1 day 23 hr 28 min
+897 songs - 1 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Aftertaste](https://open.spotify.com/track/4ZJZ7W5T3Q3O8ICw95K0vS) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E), [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Aftertaste](https://open.spotify.com/album/5reeDNcaX4JxcMz4fJtqvX) | 3:16 | 2026-06-18 |  |
 | [Aftertaste \- Inspired by the Original Motion Picture K\-POPS!](https://open.spotify.com/track/3b8Ft7BzZj4yPnBU4IDhHX) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Aftertaste \(Inspired by the Original Motion Picture K\-POPS!\)](https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd) | 3:03 | 2026-05-11 | 2026-06-19 |
 | [AGAIN](https://open.spotify.com/track/5Pae3aqRSRBjDPpVWurbST) | [dopameen](https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T), [Swimming Teddys](https://open.spotify.com/artist/6kTqvXVMr7SCmBiqkJUeeY) | [AGAIN](https://open.spotify.com/album/0Gvp4TjOo9fxMwLbYWKJpi) | 3:32 | 2026-05-11 | 2026-06-19 |
+| [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 | 2026-08-03 |  |
 | [Ain't Letting You Down](https://open.spotify.com/track/1vQolNYci1yfPZccu6mqIB) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Ain't Letting You Down](https://open.spotify.com/album/6Gihz6RXvLYLFxHPMJC7nf) | 4:21 | 2025-10-27 | 2025-11-24 |
 | [Air](https://open.spotify.com/track/6HSns0qPQQfgekCrBF0Dkf) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [AIR](https://open.spotify.com/album/6sJnzoRI9pXUo0gZxIviUS) | 3:14 | 2025-03-17 | 2025-05-13 |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-08-14 | 2024-10-23 |
@@ -575,7 +576,7 @@
 | [Panic Attack](https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [The Great Impersonator](https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB) | 3:36 | 2024-10-29 | 2024-12-17 |
 | [Paramour](https://open.spotify.com/track/02vqGrTdPJXUZe9CoKFq5I) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Paramour](https://open.spotify.com/album/3v1Vkj1eP4xIZWkt0L3VBT) | 2:31 | 2026-03-23 | 2026-05-18 |
 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-06-08 | 2026-07-25 |
-| [Passenger Princess](https://open.spotify.com/track/1vcx8MdVXorEACHnUX3OVA) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Passenger Princess](https://open.spotify.com/album/2bgJ2SOZm6I3mcIsqonINb) | 3:18 | 2026-06-01 |  |
+| [Passenger Princess](https://open.spotify.com/track/1vcx8MdVXorEACHnUX3OVA) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Passenger Princess](https://open.spotify.com/album/2bgJ2SOZm6I3mcIsqonINb) | 3:18 | 2026-06-01 | 2026-08-04 |
 | [Past Won't Leave My Bed](https://open.spotify.com/track/0DTSnA1bcVI5niJzoyBPyZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Past Won't Leave My Bed](https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN) | 2:46 | 2025-11-10 | 2026-02-12 |
 | [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 | 2025-07-30 | 2025-09-20 |
 | [Perfect Crime](https://open.spotify.com/track/4yJSTICwkb1yEHaTJwMtPJ) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Perfect Crime](https://open.spotify.com/album/5JhzWK5USSOibCz5xbwuKx) | 3:16 | 2025-04-14 | 2025-05-20 |

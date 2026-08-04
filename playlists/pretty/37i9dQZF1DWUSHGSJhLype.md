@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Som de Faculdade, Mari Fernandez
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,792 likes - 58 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,820 likes - 58 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 54 | [Baile no Rio](https://open.spotify.com/track/1BInZuNY6XMXr89Pn3cJYL) | [J\. Eskine](https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Alef Donk](https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I) | [Baile no Rio](https://open.spotify.com/album/2vQ5OHlDaVPObQyAcv4MtF) | 2:58 |
 | 55 | [Rumo ao Hexa](https://open.spotify.com/track/2H8XkgvzyclrurIImuXsBY) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [DJ Cost](https://open.spotify.com/artist/7Gojo8tyzLgT5p5WdTisIL), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161) | [Rumo ao Hexa](https://open.spotify.com/album/7pHCV59kvSGpjcTl9926rd) | 1:52 |
 | 56 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF) | 2:38 |
-| 57 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Tubarões \(Ao Vivo\)](https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB) | 2:42 |
+| 57 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Diego](https://open.spotify.com/artist/7LhZFr6gyaW6KzVCMr40M8), [Victor Hugo](https://open.spotify.com/artist/2l49kVAvFQsuOM2SGsq0Pz) | [Tubarões \(Ao Vivo\)](https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB) | 2:42 |
 | 58 | [Tarde Demais / Mágica / Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6ES4FEVuh4Fpj67wrFF8VC) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/3BWsyPjsCct9aqTtuu09dS) | 4:26 |
 
-Snapshot ID: `AAAAANVzlRLnACdFizU5yrBYM/Vj18z5`
+Snapshot ID: `AAAAAFO/TmI+m5w+OGWLBe67P3q+T/+l`

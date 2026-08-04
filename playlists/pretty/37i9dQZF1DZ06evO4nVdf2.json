@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 66348,
+  "num_followers": 66321,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAAkyg2ZkD28Jtxyl+/stbYf",
+  "snapshot_id": "am6IgAAAAADR9YMlPNy44fuCduajk1gd",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lucky (feat. Ximena Sari\u00f1ana)",
+        "url": "https://open.spotify.com/album/71rd7bVayawEfo4pf58Kyt"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 189013,
+      "name": "Lucky (feat. Ximena Sari\u00f1ana)",
+      "url": "https://open.spotify.com/track/4hVnZf324hXy6TyVx2oncO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 319026,
       "name": "TQM",
       "url": "https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lucky (feat. Ximena Sari\u00f1ana)",
-        "url": "https://open.spotify.com/album/71rd7bVayawEfo4pf58Kyt"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 189013,
-      "name": "Lucky (feat. Ximena Sari\u00f1ana)",
-      "url": "https://open.spotify.com/track/4hVnZf324hXy6TyVx2oncO"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No todo lo puedes dar",
-        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 275160,
-      "name": "Sin Ti No Puede Estar Tan Mal",
-      "url": "https://open.spotify.com/track/6GIQckKtzHYA8MHoRWRkcy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Fue (Con Ximena Sari\u00f1ana y Elsa y Elmar)",
         "url": "https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K"
       },
@@ -495,28 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ECOS",
-        "url": "https://open.spotify.com/album/0LwdDCvjlEtHMmVrWxGNg5"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Contracorriente",
-      "url": "https://open.spotify.com/track/231t7nLhK2tRrTVcsXk5O4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amarte Duele (Versiones de Ximena)",
-        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
+        "name": "No todo lo puedes dar",
+        "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
       },
       "artists": [
         {
@@ -524,9 +488,9 @@
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 193407,
-      "name": "Ma\u00f1ana No Es Hoy - Versi\u00f3n de Ximena",
-      "url": "https://open.spotify.com/track/5LPYvfHyqgFB5ZPNayhtUB"
+      "duration_ms": 275160,
+      "name": "Sin Ti No Puede Estar Tan Mal",
+      "url": "https://open.spotify.com/track/6GIQckKtzHYA8MHoRWRkcy"
     },
     {
       "added_at": null,
@@ -547,6 +511,42 @@
       "duration_ms": 237346,
       "name": "Corazonada",
       "url": "https://open.spotify.com/track/1pKR8tOrJXI4IYBLFCGfs7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amarte Duele (Versiones de Ximena)",
+        "url": "https://open.spotify.com/album/06fM2eKOCsrKGxrUWYYSu0"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 193407,
+      "name": "Ma\u00f1ana No Es Hoy - Versi\u00f3n de Ximena",
+      "url": "https://open.spotify.com/track/5LPYvfHyqgFB5ZPNayhtUB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ECOS",
+        "url": "https://open.spotify.com/album/0LwdDCvjlEtHMmVrWxGNg5"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/231t7nLhK2tRrTVcsXk5O4"
     },
     {
       "added_at": null,

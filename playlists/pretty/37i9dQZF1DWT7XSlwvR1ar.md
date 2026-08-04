@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > Stay relaxed with these easy, laid\-back songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,116,904 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,116,447 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 149 | [Honey](https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB) | [Farmer](https://open.spotify.com/artist/2ICzoFVUSRPtRIus49gmo8), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [The Color That Suits You](https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa) | 4:53 |
 | 150 | [Face The River](https://open.spotify.com/track/4ESI02gRSgi4HlZMH0JDyF) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/0ZMHcAWJPzZuNhk8R3UOi9) | 3:36 |
 
-Snapshot ID: `AAAAAMXA6jJaMoC5K3DVaWtzd3/lqga3`
+Snapshot ID: `AAAAAMZCgIFyXKamQARJA6RzwJRu3Z0Z`

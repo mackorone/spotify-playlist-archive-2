@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: EF Moon
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,913 likes - 70 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,009 likes - 70 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 69 | [OMO TI O COMMON II](https://open.spotify.com/track/6c7htMDbZDeB2jA8IlgpmK) | [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [OMO TI O COMMON II](https://open.spotify.com/album/5l3cUHPycvUZmqeYAkjefL) | 2:51 |
 | 70 | [CHASE](https://open.spotify.com/track/7zA485o80rElK5sOGJXHKv) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [CHASE](https://open.spotify.com/album/1cg0O9A1WBH5AtojamA5r0) | 2:19 |
 
-Snapshot ID: `AAAAAH5zaqSIEQP+X8nnPv51I+3OGGe4`
+Snapshot ID: `AAAAALDD2DDWQpxR2UzXnIUH5//dvTDF`

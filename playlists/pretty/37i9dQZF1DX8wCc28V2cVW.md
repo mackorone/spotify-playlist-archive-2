@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,402 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,418 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 74 | [Trisection](https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 2:37 |
 | 75 | [EPISODE IGNIS \- The Main Theme](https://open.spotify.com/track/449Oasrv2je2rsDaTp7dkS) | [光田康典](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [FINAL FANTASY XV Original Soundtrack Volume 2【1/2】](https://open.spotify.com/album/1gg0RWUiWUCWnaxAi9W237) | 2:34 |
 
-Snapshot ID: `AAAAAEtnvUGibx2QgfYmLzagU/Q+RAVx`
+Snapshot ID: `AAAAABxdRo26F9KenQ10zhmvBAryo3Xy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,218 likes - 200 songs - 11 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,213 likes - 200 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 72 | [Jesus You Come \- Acoustic](https://open.spotify.com/track/0cBXP4xPo4E1YmAbXYPNxp) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Jesus You Come \(Acoustic\)](https://open.spotify.com/album/5mGAL4sMvLRUEVjGMQ4ImI) | 4:38 |
 | 73 | [Behold Messiah](https://open.spotify.com/track/40vLncM2rTQI22HOf7F6n5) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Behold Messiah](https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b) | 5:16 |
 | 74 | [Snow Globe](https://open.spotify.com/track/1sTeVgEZQlEGx6ipR9sw2M) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Snow Globe](https://open.spotify.com/album/2srA0CCelnTz8DtZBOKJqj) | 3:21 |
-| 75 | [Sounding Joy](https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sounding Joy](https://open.spotify.com/album/1ZMsgcmv2PawjMSJti5okX) | 3:50 |
-| 76 | [Your Majesty](https://open.spotify.com/track/5OBE1D4jtm1TJUZmViqOQQ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa), [HFP Music](https://open.spotify.com/artist/71dt6PR3b37mOndsKQ8TPG) | [Hear Feel Play Christmas](https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx) | 3:19 |
+| 75 | [Your Majesty](https://open.spotify.com/track/5OBE1D4jtm1TJUZmViqOQQ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Daphne Richardson](https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa), [HFP Music](https://open.spotify.com/artist/71dt6PR3b37mOndsKQ8TPG) | [Hear Feel Play Christmas](https://open.spotify.com/album/0OcVHq3qJXVWuyZ99mzVOx) | 3:19 |
+| 76 | [Sounding Joy](https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sounding Joy](https://open.spotify.com/album/1ZMsgcmv2PawjMSJti5okX) | 3:50 |
 | 77 | [Unto Us](https://open.spotify.com/track/74s6HoDu3xKX8zzk56DYBK) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Unto Us](https://open.spotify.com/album/663RXaFX5ngMLhSFDsjFaR) | 4:03 |
 | 78 | [This Christmas](https://open.spotify.com/track/21HybBY92stwLkDGNMvB6N) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Nashe](https://open.spotify.com/artist/7J2qQLdf6V7JJM4GcVyZmz) | [This Christmas](https://open.spotify.com/album/1PehjA0qDUsDeLJY7yIZ8v) | 2:55 |
 | 79 | [Joy To The World \- Spotify Singles Holiday](https://open.spotify.com/track/7eY3FLrGc3cdEj3xbMOfHl) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Joy To The World \- Spotify Singles Holiday](https://open.spotify.com/album/7gHKfU5w1qlLNoOp9DNnyv) | 3:57 |
@@ -181,8 +181,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 171 | [Little Drummer Boy](https://open.spotify.com/track/24aU7xjRrQPYiH0GwkUvFa) | [Jordan Hart](https://open.spotify.com/artist/2NuHJNDBd9Vq4k09qrXibo), [Emily Schultz](https://open.spotify.com/artist/1QxBK9B8Dzq72wd4f5Nlba) | [Little Drummer Boy](https://open.spotify.com/album/78azCxU0zgCpkQKSpVX35m) | 3:05 |
 | 172 | [O' What a Gift](https://open.spotify.com/track/34c8IY8BIua7yazJJkXJhD) | [Essence Natay](https://open.spotify.com/artist/6CBOrBHVUHNz4sMFic0Tux) | [O' What a Gift](https://open.spotify.com/album/5qljKJVL1KZm83TXqEgjnk) | 3:28 |
 | 173 | [Beautiful Christmas](https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinite Christmas](https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h) | 4:25 |
-| 174 | [The Greatest Gift](https://open.spotify.com/track/3ZWgYAhbhihQA4cTrbCSCi) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV) | [The Greatest Gift](https://open.spotify.com/album/7E7hx7Jxv0UA3YItvtdGuI) | 2:40 |
-| 175 | [What a Wonderful Savior](https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo) | [Joe Pace](https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 4:58 |
+| 174 | [What a Wonderful Savior](https://open.spotify.com/track/0cbgZxW0vbOVJx1sMgQXVo) | [Joe Pace](https://open.spotify.com/artist/2om6820fe3HJsgcWcC5Zn0), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Holiday Love Sounds of Christmas](https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs) | 4:58 |
+| 175 | [The Greatest Gift](https://open.spotify.com/track/3ZWgYAhbhihQA4cTrbCSCi) | [Justin Radford](https://open.spotify.com/artist/2yBPNNYq6kcnU1DZTlzinV) | [The Greatest Gift](https://open.spotify.com/album/7E7hx7Jxv0UA3YItvtdGuI) | 2:40 |
 | 176 | [Let It Snow](https://open.spotify.com/track/4YbufhkptTA9aVMkAVwjLh) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [A Christmas To Remember](https://open.spotify.com/album/61ByJ1TZ3lz4NNrlvBIkkU) | 2:23 |
 | 177 | [MARY DID YOU KNOW](https://open.spotify.com/track/45I3HDHgs2lXnuhA5pBO2p) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [MARY DID YOU KNOW](https://open.spotify.com/album/6068cDzDC3VHlcbsEcfbZM) | 4:03 |
 | 178 | [O Holy Night](https://open.spotify.com/track/7MIdnR2ZXfucsjkAMQlSwj) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [O Holy Night](https://open.spotify.com/album/3cmsfC00zdOPjc1d3CqjXK) | 4:08 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 199 | [Sleigh Ride](https://open.spotify.com/track/4ON9452btc5C7bg8m00xmY) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Sleigh Ride](https://open.spotify.com/album/3qrB6Jf61LOCLyusjSmGa4) | 2:43 |
 | 200 | [Home This Christmas](https://open.spotify.com/track/4xhpkthtZ505fhk39Amx0K) | [Manor Collective](https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown) | [Home This Christmas](https://open.spotify.com/album/3DPjsXVOAFrgnuujEnJyJc) | 3:09 |
 
-Snapshot ID: `AAAAANK8DZg6RxABCNIThvQ/zyrUkBSk`
+Snapshot ID: `AAAAAFdpoXulAAT4ZdD8A/1+03eALMaT`

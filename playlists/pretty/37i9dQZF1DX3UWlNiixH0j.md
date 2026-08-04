@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Bone Us
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,729 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,727 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 99 | [BLUE HOLE](https://open.spotify.com/track/1JMuDcwO41T80XJ9cACVta) | [Pixie Monster](https://open.spotify.com/artist/71UmgYLJuZA1xo0FG2ZhY0) | [taikutsu wo ande](https://open.spotify.com/album/3EDP4W2hYIuTRt9VVNEHJo) | 5:53 |
 | 100 | [To Ashes](https://open.spotify.com/track/3kR7wJCaXnz9eznCp6i5am) | [Sopht](https://open.spotify.com/artist/1Vgj63kGM00jJ1nxV5ptqY) | [To Ashes](https://open.spotify.com/album/1OGD7FeIfq4m9X3irM4Rrw) | 3:38 |
 
-Snapshot ID: `AAAAAPMG2pwDQ7j68TruEGKirqTF9J9x`
+Snapshot ID: `AAAAAEfKy/5CdikeIp6Wnb4oziwidvXI`

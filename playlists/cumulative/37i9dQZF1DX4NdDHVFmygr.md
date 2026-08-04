@@ -2,7 +2,7 @@
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment\. Cover: Manal, Stormy
+> Les hits marocains du moment\. Cover: Draganov, Hajib
 
 536 songs - 1 day 4 hr 28 min
 

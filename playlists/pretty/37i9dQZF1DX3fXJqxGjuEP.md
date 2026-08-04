@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > Give your day a warm and fruity vibe with Latin music! 🌞🌴🍍🍉
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,189 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,246 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 99 | [BocaRosa](https://open.spotify.com/track/0vGYO4f8xV0fqEaS5MPR35) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Atlas](https://open.spotify.com/album/7f3LiSTyf6uvUqKh1ltlcG) | 3:42 |
 | 100 | [Hoy Como Siempre](https://open.spotify.com/track/5pQXW3nrM4KEDTK4iD3Iu9) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Hoy Como Siempre](https://open.spotify.com/album/2wDRsuHc2loxSQykUIbt3v) | 4:09 |
 
-Snapshot ID: `AAAAAJAMt3HsxQd1YJStsRzSKFN0k3me`
+Snapshot ID: `AAAAAAqN7dUDVgwUZPuHXgxnFnV3l2Pi`

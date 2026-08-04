@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks\. Cover: Jasmine Sandlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,556,086 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,556,528 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 49 | [Eyes on Me](https://open.spotify.com/track/041jCU9PMkrksVubpD0p1A) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Eyes on Me](https://open.spotify.com/album/2kjlMkUMIX8WvRSEH5ZNzW) | 2:34 |
 | 50 | [Enigma](https://open.spotify.com/track/6EXYmo6wuxDey1qBV4WbJW) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Enigma](https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf) | 3:01 |
 
-Snapshot ID: `AAAAAKm45nuXDSy62I93YY8fsRUHeT26`
+Snapshot ID: `AAAAAB251Hw5U9GHejrxDAXATXcKyonU`

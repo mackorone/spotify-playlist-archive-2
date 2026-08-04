@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Chris Steyn, Barto, Bernice West, Francois van Coke, Wentzel en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,069 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,078 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 59 | [Nie So Diep Nie](https://open.spotify.com/track/43C9DJ72nZW2ATcoxzYxIB) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Dis Nie So Diep Nie](https://open.spotify.com/album/2uKcmBvNzVaspPoSet0I4M) | 3:15 |
 | 60 | [Wil Jy Bly \- SENSASIE Remix](https://open.spotify.com/track/4uvIDGoQh4q8rhtDiNSxdG) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [Wil Jy Bly \(SENSASIE Remix\)](https://open.spotify.com/album/6jmoZVhOls3BiLGeDAzere) | 3:18 |
 
-Snapshot ID: `AAAAAMP1rPlxSno/dxQs7P5owokknZkQ`
+Snapshot ID: `AAAAANitW9pc8WuEVmE5hdltHhDtqf1f`

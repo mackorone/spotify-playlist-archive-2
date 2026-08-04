@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > E lei traballa dentro all'auto e l'auto è tutta scassata
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,504 likes - 109 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,271 likes - 109 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 108 | [LAVAPIATTI](https://open.spotify.com/track/4LZj2aMIhDMd9rQOoAztCD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [NON SONO GESÙ](https://open.spotify.com/album/7vBfg8AHLReQkqXuItmxFP) | 2:03 |
 | 109 | [2 GIORNI DI FILA \(feat\. Sfera Ebbasta, ANNA\)](https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:31 |
 
-Snapshot ID: `AAAAAHRLOTkGBX7b9C4q8Fn5554VrH2u`
+Snapshot ID: `AAAAAOS4DR291jpSBlt2T186aktncROz`

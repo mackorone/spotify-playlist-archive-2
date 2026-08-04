@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana, featuring maahi, Outstation, TUSHAR JOSHI and other exciting artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,972 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,980 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 74 | [Ek Haath Mein Teen Kangan](https://open.spotify.com/track/1K9bB7nZUVwd5EOrwJjHSK) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Hemlock](https://open.spotify.com/album/2UxLQoW9GriBFkV4wQCzZG) | 3:54 |
 | 75 | [Mere Maahiya](https://open.spotify.com/track/1cjvSUS3FtUtpjf4Zejcbm) | [Abhiruchi Singh](https://open.spotify.com/artist/5sXiybe3UfmLCx6RJygKg4), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Mere Maahiya](https://open.spotify.com/album/61M2R0qEQDN5Ji7fmvN2kf) | 3:54 |
 
-Snapshot ID: `AAAAAP12dihmhmy6m2VvVxrG0KVWArfZ`
+Snapshot ID: `AAAAAIxtzH/gXJSx9T6SNU/g2KYaHYGn`

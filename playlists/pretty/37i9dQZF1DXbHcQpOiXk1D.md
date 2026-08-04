@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: Yazmin Lacey
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,661 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,663 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 74 | [Never Gonna Be A Boxer](https://open.spotify.com/track/38d90hGqh10VeQXDmlbYcE) | [Knats](https://open.spotify.com/artist/0l2OFUKz7eXLlPfO1LrGt7) | [Never Gonna Be A Boxer](https://open.spotify.com/album/7rtY9Btpo8FbCMtKhCocNs) | 6:12 |
 | 75 | [Pinch](https://open.spotify.com/track/2oBc2lx30NnvvNmRsm8J2f) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v), [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [Pinch](https://open.spotify.com/album/4dcQ7NEJlOUFp5mkYnP8QD) | 4:37 |
 
-Snapshot ID: `AAAAAAjtSuocqYWxphy1WQ21j4I+aTQk`
+Snapshot ID: `AAAAAM+6PXj+mIJblgt7I3ZZ8lA6gpPM`

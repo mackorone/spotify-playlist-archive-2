@@ -1,13 +1,105 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer,  Eartheater, the sound that chalk makes, Effie, evilgiane, &amp; more.",
-  "num_followers": 50256,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer,  the sound that chalk makes, Jam City, Sofii, &amp; more.",
+  "num_followers": 50243,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAevuLHzGczUTHDiLDE8BZH39reSpj1",
+  "snapshot_id": "AAAez13DLnfINO5VOcc/sSdjJMZCy/HD",
   "tracks": [
+    {
+      "added_at": "2026-08-03 18:31:58",
+      "album": {
+        "name": "RoTATe wiTh aMeRiCa FOsTeR, sKiLLiBeNg aNd bEAM",
+        "url": "https://open.spotify.com/album/57mVKANu6rKwSCeKC40SSc"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "America Foster",
+          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "duration_ms": 172727,
+      "name": "RoTATe wiTh aMeRiCa FOsTeR, sKiLLiBeNg aNd bEAM",
+      "url": "https://open.spotify.com/track/23AGyyhElbi76BoI8J1DEM"
+    },
+    {
+      "added_at": "2026-08-03 18:29:52",
+      "album": {
+        "name": "FU : ILY",
+        "url": "https://open.spotify.com/album/0s5WRpopYusuMFTmedJMIN"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "duration_ms": 149126,
+      "name": "FU : ILY",
+      "url": "https://open.spotify.com/track/6bJYxgGcvR9tqpGQLApNO0"
+    },
+    {
+      "added_at": "2026-08-03 18:30:34",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/01W4y44wtQqtXXM1vqk7E9"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Aidan",
+          "url": "https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW"
+        },
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        },
+        {
+          "name": "Ox Eye",
+          "url": "https://open.spotify.com/artist/3PRRqlvLDhTcHnp4mQkqA3"
+        }
+      ],
+      "duration_ms": 210542,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/0745bZpt5Oo7SLkbDvcO3X"
+    },
+    {
+      "added_at": "2026-08-03 18:30:06",
+      "album": {
+        "name": "iwtfy",
+        "url": "https://open.spotify.com/album/1rpLkRaC2Q39NNJmDd8H4K"
+      },
+      "artists": [
+        {
+          "name": "sofii",
+          "url": "https://open.spotify.com/artist/64dpkfHFURICfsoMjI4yOS"
+        }
+      ],
+      "duration_ms": 235788,
+      "name": "iwtfy",
+      "url": "https://open.spotify.com/track/6ZNjkGZhZo4AbGEIDulVrH"
+    },
     {
       "added_at": "2026-07-20 19:07:38",
       "album": {
@@ -881,30 +973,6 @@
       "url": "https://open.spotify.com/track/4V59v9LLBdAepqAKMtpGsQ"
     },
     {
-      "added_at": "2026-02-27 17:58:44",
-      "album": {
-        "name": "Where's My People",
-        "url": "https://open.spotify.com/album/2Om6QigvsPDH9iJdJKf7U2"
-      },
-      "artists": [
-        {
-          "name": "Anton Khabbaz",
-          "url": "https://open.spotify.com/artist/6a9TboOy56IJPOQXnwv3Zu"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        },
-        {
-          "name": "mor\u2022a\u2022mor",
-          "url": "https://open.spotify.com/artist/6wUeDwFETrFhhC1GaKMC42"
-        }
-      ],
-      "duration_ms": 171840,
-      "name": "Where's My People",
-      "url": "https://open.spotify.com/track/708FxDbsd0oYVzvslmMDl3"
-    },
-    {
       "added_at": "2026-02-19 20:37:06",
       "album": {
         "name": "Red Eye",
@@ -1137,26 +1205,6 @@
       "url": "https://open.spotify.com/track/4VQO8F8rlxTRLHCB3f0hWz"
     },
     {
-      "added_at": "2026-01-07 21:33:44",
-      "album": {
-        "name": "Island Paradise: The Remixes",
-        "url": "https://open.spotify.com/album/0zYrGUY2XdT2rOcVaz3pk1"
-      },
-      "artists": [
-        {
-          "name": "MGNA Crrrta",
-          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
-        },
-        {
-          "name": "idk____wbu",
-          "url": "https://open.spotify.com/artist/1Vs5fqsdOpnpUVHNGp6BI9"
-        }
-      ],
-      "duration_ms": 91312,
-      "name": "Ferrari (idk____wbu Remix)",
-      "url": "https://open.spotify.com/track/3bUdTLWIklAmkVCGeWtYxe"
-    },
-    {
       "added_at": "2026-01-07 21:28:09",
       "album": {
         "name": "GHOST WORLD",
@@ -1319,22 +1367,6 @@
       "duration_ms": 125082,
       "name": "Catch Me (feat. Naaz) - Dj Jedag Jedug Remix",
       "url": "https://open.spotify.com/track/2VnuwAuvVHxrRP778xWUG3"
-    },
-    {
-      "added_at": "2025-10-29 21:23:35",
-      "album": {
-        "name": "Fashion For The Mourning",
-        "url": "https://open.spotify.com/album/3I1mbyWW01ZmdUXrpUpyuW"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 217110,
-      "name": "Video Mind",
-      "url": "https://open.spotify.com/track/6i4HXAiCheoAewgY5pxC6c"
     },
     {
       "added_at": "2025-10-29 21:21:46",
@@ -1519,22 +1551,6 @@
       "duration_ms": 201972,
       "name": "Joker",
       "url": "https://open.spotify.com/track/6FmaQ1FesE0j6Au0Kh9LOb"
-    },
-    {
-      "added_at": "2025-07-24 21:44:26",
-      "album": {
-        "name": "\u00c6RO",
-        "url": "https://open.spotify.com/album/61vLkSuJkjpk692UHjAgMW"
-      },
-      "artists": [
-        {
-          "name": "yaego",
-          "url": "https://open.spotify.com/artist/3F5cNbKjtYHvv43yu5BhKp"
-        }
-      ],
-      "duration_ms": 181656,
-      "name": "musica electronica",
-      "url": "https://open.spotify.com/track/259kNeFoQp9TyTZdDBBznX"
     },
     {
       "added_at": "2025-07-24 21:44:32",

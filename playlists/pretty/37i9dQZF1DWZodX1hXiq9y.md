@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,750 likes - 150 songs - 15 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,777 likes - 150 songs - 15 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 109 | [Zec](https://open.spotify.com/track/2x5GOzTPdtiBlD2sukLxlp) | [Steve Coleman](https://open.spotify.com/artist/0vEcYt4JfhftX0oarZQLHZ) | [Rhythm In Mind \(The Carnegie Project\)](https://open.spotify.com/album/3glkJxDFG1vBLG64VJAYuH) | 9:09 |
 | 110 | [Vertigo \- Remastered 2000](https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Vertigo](https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a) | 8:17 |
 | 111 | [Joshua](https://open.spotify.com/track/1F8VmUxEtg73rrugqyMUqU) | [Ernie Watts](https://open.spotify.com/artist/2savq7Id5eDV0DVsoug0wH) | [Analog Man](https://open.spotify.com/album/1CO7OMJS4alGJG1gKOnKlP) | 10:05 |
-| 112 | [Elysium](https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Contemporary Jazz](https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ) | 16:02 |
-| 113 | [Slidin' Through](https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU) | [Arthur Blythe](https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33) | [Lenox Avenue Breakdown](https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7) | 9:38 |
+| 112 | [Slidin' Through](https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU) | [Arthur Blythe](https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33) | [Lenox Avenue Breakdown](https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7) | 9:38 |
+| 113 | [Elysium](https://open.spotify.com/track/0ypNrOIuiIpusrTVLdtRPc) | [Branford Marsalis Quartet](https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9) | [Contemporary Jazz](https://open.spotify.com/album/3NiRWYhEKaA3Keiqw8A9SJ) | 16:02 |
 | 114 | [New Days](https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim) | [Benny Reid](https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe) | [Escaping Shadows](https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW) | 5:29 |
 | 115 | [Haghia Sophia](https://open.spotify.com/track/3koWLVebFC6KtgEQ5ZMOgd) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Quartets](https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk) | 7:24 |
 | 116 | [Pannonica](https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Joyous Encounter](https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu) | 8:05 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 149 | [Yardbird Suite \- Remastered Version](https://open.spotify.com/track/3Q0nmzI0my2GaaYjdKHfQS) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Stitt Plays Bird](https://open.spotify.com/album/48Dk3O9drlrpiVaTti1EN9) | 4:49 |
 | 150 | [Countdown](https://open.spotify.com/track/35LAll8dgzkn42G8OPVbKR) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Giant Steps \(Deluxe Edition\)](https://open.spotify.com/album/3kxiL93hCFCIXkXJBLcYDi) | 2:25 |
 
-Snapshot ID: `AAAAAM69I/yXuetIUibUj9UKmgvFQSja`
+Snapshot ID: `AAAAADMFLacvsrZZJSRzRKBIKKr/PxkS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,509 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,511 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 11 | [Las Flores Elegantes](https://open.spotify.com/track/58Bo57oyqbICuwjSe0e5sr) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Loli Cosmica](https://open.spotify.com/artist/4yDQsYGzevEpvJ9wfCCgkf), [Douglas Felis](https://open.spotify.com/artist/0L2AMYgFNKnkVBoVKsd8TB) | [Las Flores Elegantes](https://open.spotify.com/album/4DJJKY23XpfLPgCsqWuviz) | 3:50 |
 | 12 | [Chilenitas \(Orozco / Barrientos\) \[Remix\]](https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ) | [Vol\. 1](https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8) | 6:19 |
 | 13 | [Zorzal](https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l) | 3:09 |
-| 14 | [Antídoto](https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Huestes](https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a) | 3:43 |
+| 14 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [CARNAVALITO DEL DUENDE](https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ) | 2:52 |
 | 15 | [La Maza](https://open.spotify.com/track/5XE0rKDxAW6SeTs833fla2) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Legado](https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU) | 4:50 |
-| 16 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [CARNAVALITO DEL DUENDE](https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ) | 2:52 |
+| 16 | [Antídoto](https://open.spotify.com/track/2nbXinv9k0boywWmtOk3AW) | [Weste](https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q) | [Huestes](https://open.spotify.com/album/2EjEF5v5FuPVut3JdZBK2a) | 3:43 |
 | 17 | [Rio Contento](https://open.spotify.com/track/5KozTQBwKoXKOggYKeyety) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Circular Tejido](https://open.spotify.com/album/66eGF9069noRjSDKOfUJuN) | 4:55 |
 | 18 | [Fuego](https://open.spotify.com/track/5swaFRVnv2sinjvZKQraiJ) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Fuego](https://open.spotify.com/album/28RtDha49nLiVOwF2uKGgH) | 2:59 |
 | 19 | [Te Quería \- Chancha Vía Circuito Remix](https://open.spotify.com/track/4GN265cGlXdMk8dJIsYtMe) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Te Quería \(Chancha Vía Circuito Remix\)](https://open.spotify.com/album/3d37Om0o9bnqgsng08wJML) | 4:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 79 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp) | 3:48 |
 | 80 | [Añoranza en las Yungas](https://open.spotify.com/track/6Pv2cSqZXcJVaO8yYa5Co4) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw) | [Jallalla](https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c) | 5:38 |
 
-Snapshot ID: `AAAAAEFdibpqTRH/9ZLEcIW49cNAOj9u`
+Snapshot ID: `AAAAAG4LvQDQzddXUeoQ7g91EeNDADCq`

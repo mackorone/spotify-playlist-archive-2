@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 965830,
+  "num_followers": 965771,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHJ+v1KdD9J9qqQbeyzOlVfdeIy1",
+  "snapshot_id": "AAAAAIQvN/Mg99wqU4wwNvpVAQuQX73Z",
   "tracks": [
     {
       "added_at": "2026-03-17 11:56:41",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/1jqSjDD9xDV8QYWyRW0U6q"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 170216,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5kOBEsqVNwi4udPRbagNIV"
+    },
+    {
+      "added_at": "2026-03-17 11:56:41",
+      "album": {
         "name": "IDGAF (Remixes II)",
         "url": "https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq"
       },
@@ -1987,22 +2003,6 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj"
-      },
-      "artists": [
-        {
-          "name": "LAUV",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 202684,
-      "name": "I Like Me Better - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS"
-    },
-    {
-      "added_at": "2026-03-17 11:56:41",
-      "album": {
         "name": "Acoustic Caf\u00e9",
         "url": "https://open.spotify.com/album/73oIIoRDqSC8vpe0z1dFTU"
       },
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2026-03-17 11:56:41",
       "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/1jqSjDD9xDV8QYWyRW0U6q"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "LAUV",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 170216,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/5kOBEsqVNwi4udPRbagNIV"
+      "duration_ms": 202684,
+      "name": "I Like Me Better - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS"
     },
     {
       "added_at": "2026-03-17 11:56:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 
 > Piano music for fall vibes and autumnal moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,447 likes - 166 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,449 likes - 166 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXyq4CJGeZ5.md) - [plain]
 | 165 | [Spheroidal](https://open.spotify.com/track/1ihUUaEazz6DAxb9ZX7Thh) | [Kalen Elmsley](https://open.spotify.com/artist/1F1dcgEK9enKnHceBwHFom) | [Spheroidal](https://open.spotify.com/album/3xguLvsBqytD437os4ZMcY) | 3:04 |
 | 166 | [I Was Here](https://open.spotify.com/track/47CrKzr1UF48IUkefXrsJv) | [Mikael Sapin](https://open.spotify.com/artist/1WhZafhbkuYM3mJTIMEbAo) | [I Was Here](https://open.spotify.com/album/5xODkBzdjQmoXTAuA4b7l3) | 2:26 |
 
-Snapshot ID: `AAAAABXdNAqoaK+wzuGwf70LvnuLxlfC`
+Snapshot ID: `AAAAAHafJef8gR8PhypAxJjWqFahO0yY`

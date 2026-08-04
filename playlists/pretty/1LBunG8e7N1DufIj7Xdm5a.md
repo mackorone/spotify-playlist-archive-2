@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,646 songs - 10 day 9 hr 20 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,648 songs - 10 day 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4654,5 +4654,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4644 | [Unfaithfull](https://open.spotify.com/track/5IU31DNoQlGE1RURLKkKyZ) | [Aerocks](https://open.spotify.com/artist/6P2AR5uerZRgGhRX8pfGZf) | [Unfaithfull](https://open.spotify.com/album/1WtVj4kyR95YObew02ye1m) | 4:25 |
 | 4645 | [Chal Baarish Mein](https://open.spotify.com/track/0VlNoYkB28z04hg4k6GnKE) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Chal Baarish Mein](https://open.spotify.com/album/7cVIrp5FZGnC6ufek5Sykb) | 2:56 |
 | 4646 | [Cut Me Down to Size](https://open.spotify.com/track/5ZRkevvQxGto6eP71Teft8) | [Evil Creek](https://open.spotify.com/artist/2I4085hTPFNAyGRFvgo1LM) | [Cut Me Down to Size](https://open.spotify.com/album/0oTtC46dVij7iYYAIaF6C7) | 3:44 |
+| 4647 | [Velvet Sky](https://open.spotify.com/track/0xIgta9Q5wBNZAr4adiyo6) | [Becker](https://open.spotify.com/artist/1JBAK5V2WNlY6lFqztPcbh) | [Velvet Sky](https://open.spotify.com/album/68IJnapBanCWmdMcGIVESn) | 3:33 |
+| 4648 | [Decay for silence](https://open.spotify.com/track/0fCmyg0l2VDo57tCzzjCiH) | [アニングスドラゴン](https://open.spotify.com/artist/0nbrD5mGsTeWQFyXKBSx3r) | [約束の地](https://open.spotify.com/album/5f7HkfplGdBOXjlCQlJDos) | 5:55 |
 
-Snapshot ID: `AAAJdnCVgVOBcWg3IZdMr0pEtLsZ81aU`
+Snapshot ID: `AAAJeK7ZQu4+5+UERcwgPGD9ptUPP6k/`

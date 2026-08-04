@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,313 likes - 75 songs - 16 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,357 likes - 75 songs - 16 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 74 | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/track/1gxt3cazhB9VbauY2iEfoe) | [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [Flipsyd](https://open.spotify.com/artist/0FLg7KXUSAjWEgpuU09Itb) | [Buddham Sharanam Gachhami \(Buddha Chants, Pt\. 4\)](https://open.spotify.com/album/7uLLOVFMzasRXNupYHQGtX) | 4:46 |
 | 75 | [Ram Naam Chanting](https://open.spotify.com/track/0Ardq6W5vPAttUuQR2WGt2) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Ram Naam Chanting](https://open.spotify.com/album/2a3szoALUteejLabQS39M1) | 18:01 |
 
-Snapshot ID: `AAAAACi+P3Eaui/dGpb5eWgB3c3cthKX`
+Snapshot ID: `AAAAAE8/INJqaEBnx7ZS7Ji9jdJVooCc`

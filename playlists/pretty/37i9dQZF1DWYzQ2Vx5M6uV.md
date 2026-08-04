@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Ysa C
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,692 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,597 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 99 | [Dolares](https://open.spotify.com/track/2ZHTHZJQrH4FqDjQJlXFkp) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [Dolares](https://open.spotify.com/album/2MNVThxLPyHU95jhceEfmE) | 2:36 |
 | 100 | [a ti te matan las ganas](https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [a ti te matan las ganas](https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq) | 2:29 |
 
-Snapshot ID: `AAAAAIft1W+KJOOooo2L4pq9nXvPdGta`
+Snapshot ID: `AAAAADfB7du1EgY0aX2SDJg5bAaZbLx5`

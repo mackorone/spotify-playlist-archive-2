@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > 5 sombrs of summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,089,237 likes - 103 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,089,019 likes - 103 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 | 102 | [PRICE TAG](https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PRICE TAG](https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui) | 3:10 |
 | 103 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
 
-Snapshot ID: `AAAAABZqo3CJe25YKzafokUGLLMd/VfW`
+Snapshot ID: `AAAAAJ7ZbVlCHqT2YNPKu+x+c5y6M/XS`

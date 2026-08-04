@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Les nouveautés rap franco sans frontières\. Photo: Genezio
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,863 likes - 91 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,876 likes - 91 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 | 90 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
 | 91 | [Maracanã](https://open.spotify.com/track/2cG3gLsTpuZgFNY7u5KFSW) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4) | [Maracanã](https://open.spotify.com/album/2NxksJ1HvTdFXQ9CnP535o) | 2:37 |
 
-Snapshot ID: `AAAAAO25AEtx3DP/FinzzSm41mUPAidE`
+Snapshot ID: `AAAAAHFoB0Dihu0nra1bWxkT3pMvr3b0`

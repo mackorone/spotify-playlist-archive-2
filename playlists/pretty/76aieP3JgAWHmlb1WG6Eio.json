@@ -6,7 +6,7 @@
     "name": "Bram Bloemen",
     "url": "https://open.spotify.com/user/21mzyyu2wqo4fyajrorwxm2dq"
   },
-  "snapshot_id": "AAAAljw9E3hQ3vMv4CXwz1amQNt9kJSu",
+  "snapshot_id": "AAAAl5YUMjB7mo5/dfIw7FpAzmdaMj/W",
   "tracks": [
     {
       "added_at": "2020-04-07 17:34:00",
@@ -3267,6 +3267,30 @@
       "duration_ms": 136520,
       "name": "Oppenheimer",
       "url": "https://open.spotify.com/track/6oJFUjqz8yKCBDunPRMQBX"
+    },
+    {
+      "added_at": "2026-08-03 15:17:05",
+      "album": {
+        "name": "Sh\u014dgun (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA"
+      },
+      "artists": [
+        {
+          "name": "Atticus Ross",
+          "url": "https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM"
+        },
+        {
+          "name": "Leopold Ross",
+          "url": "https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS"
+        },
+        {
+          "name": "Nick Chuba",
+          "url": "https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G"
+        }
+      ],
+      "duration_ms": 159853,
+      "name": "A Dream Within a Dream",
+      "url": "https://open.spotify.com/track/3bU0OB2KvbxjIWR6EsUx4G"
     }
   ],
   "unique_name": "soundtracks",

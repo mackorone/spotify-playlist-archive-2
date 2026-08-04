@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 267346,
+  "num_followers": 267254,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAACo4guWTgc/RNGAXOIJOVye",
+  "snapshot_id": "am6IgAAAAAByFwzruigRzzUEFr6C2PPs",
   "tracks": [
     {
       "added_at": null,
@@ -259,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backseat Driver",
-        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
       "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 228066,
-      "name": "Backseat Driver",
-      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
+      "duration_ms": 176800,
+      "name": "The one (Pero no como yo)",
+      "url": "https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj"
     },
     {
       "added_at": null,
@@ -307,22 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+        "name": "Backseat Driver",
+        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
       },
       "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 176800,
-      "name": "The one (Pero no como yo)",
-      "url": "https://open.spotify.com/track/03J82tGipvxwFZ14smkuVj"
+      "duration_ms": 228066,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
     },
     {
       "added_at": null,

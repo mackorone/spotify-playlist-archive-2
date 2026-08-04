@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Henrique & Juliano e os artistas mais ouvidos no Brasil em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,323 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,334 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 17 | [Talvez você precise de mim](https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:06 |
 | 18 | [Vou pela Madrugada](https://open.spotify.com/track/3p58wJmZqIc9RjsdeZ5Jfq) | [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [MC Willian](https://open.spotify.com/artist/5eJi7nckPalxu8R7AAyfuO), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [DJ Guh Mix](https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD) | [A Nata de Tudo \- A Ovelha Negra](https://open.spotify.com/album/3S91wF3EWG7OvRjsK9F2lx) | 4:41 |
 | 19 | [Fashion](https://open.spotify.com/track/3bpNcH1SCEMn6zuynZGY5e) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [ProdSmile](https://open.spotify.com/artist/468Ift2ngwSQzitOIDjgQO) | [Mixtape Chiró](https://open.spotify.com/album/2hqitsZt4GZdgn7lFxw08S) | 3:33 |
-| 20 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Tubarões \(Ao Vivo\)](https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB) | 2:42 |
+| 20 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Diego](https://open.spotify.com/artist/7LhZFr6gyaW6KzVCMr40M8), [Victor Hugo](https://open.spotify.com/artist/2l49kVAvFQsuOM2SGsq0Pz) | [Tubarões \(Ao Vivo\)](https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB) | 2:42 |
 | 21 | [Deixa Eu \- Ao Vivo](https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Acústico \(Ao Vivo\)](https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX) | 2:38 |
 | 22 | [OLHO MARROM \- Ao Vivo em Lisboa](https://open.spotify.com/track/1I6TdHxz61Kf9EFje0dQvg) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [OLHO MARROM \- Ao Vivo em Lisboa](https://open.spotify.com/album/4fa3lwn2vSLUTz3HNqcJzM) | 2:25 |
 | 23 | [Saudade Burra \- Ao Vivo](https://open.spotify.com/track/3M4HJl7D77l86gL1QXGJHG) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Transcende \(Ao Vivo\)](https://open.spotify.com/album/7LgfD3r1bBvKvt3GFRlU6l) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 49 | [Terapia](https://open.spotify.com/track/5ROyrHNiEx9DeZ5SONjVbM) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa) | [Terapia](https://open.spotify.com/album/2ggZO9M8nzvY5si8MyyZUy) | 3:32 |
 | 50 | [Whiskey Com Água de Choro](https://open.spotify.com/track/3EX5wGiv3N2iAwvpgk4d9E) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Fragmentos](https://open.spotify.com/album/1DWhHgH2ra49Hr6Lml6WJb) | 2:45 |
 
-Snapshot ID: `AAAAAJrCDfZ24xaBzDTF/glYDIadFTlx`
+Snapshot ID: `AAAAABOTJHnwrcPS1L1QyXBBHvUvRR98`

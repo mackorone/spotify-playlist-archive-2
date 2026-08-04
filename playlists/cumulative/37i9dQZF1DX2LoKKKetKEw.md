@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Rotimikeys & Greatman Takit
 
-734 songs - 1 day 13 hr 17 min
+734 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,7 +277,7 @@
 | [Goodness II](https://open.spotify.com/track/3QrphTdjLWrZUbmAcXWPmt) | [Godfrey Gad](https://open.spotify.com/artist/4Q1PLV0sUS4xUzFwpFUvFh), [Pst\. Oche Ogebe](https://open.spotify.com/artist/5SQMtRHIHAZyzx8isNKbSk), [Sound Of Salem](https://open.spotify.com/artist/4wXOaCc4CN80m9xcjkmL6I) | [Goodness II](https://open.spotify.com/album/75IRGVinydJM8DHRo7uuZE) | 2:36 | 2025-08-08 | 2026-01-18 |
 | [Goodness of God](https://open.spotify.com/track/3A434QaqSNSGjeM3ZlKx5d) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Goodness of God](https://open.spotify.com/album/4G6n5BYtsWWzo4v7W6EgEa) | 4:15 | 2026-07-11 |  |
 | [Grace](https://open.spotify.com/track/7p0TjC05qqgAF78OoOT6yZ) | [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Grace](https://open.spotify.com/album/0rsqIBW7oxmpE9bkPfLE2i) | 2:50 | 2026-02-14 | 2026-04-11 |
-| [Grace \- Remix](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Remix\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 | 2026-07-11 |  |
+| [Grace \- Collab Version](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Collab Version\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 | 2026-07-11 |  |
 | [GRATITUDE](https://open.spotify.com/track/0G5AlX7XTSegxAGOkVIwwu) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [OCTAGON](https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf) | 4:35 | 2025-04-18 | 2025-05-12 |
 | [GREAT AND MIGHTY](https://open.spotify.com/track/5UHI8GBPVcjN84itGHxVQF) | [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG), [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj) | [GREAT AND MIGHTY](https://open.spotify.com/album/00H1U0v6a4YIIsa51RqMMm) | 2:55 | 2025-05-31 | 2025-08-09 |
 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 | 2023-10-24 | 2024-01-27 |
@@ -565,7 +565,7 @@
 | [Rendez\-vous](https://open.spotify.com/track/4I1wEjJgLWr6MuDouJBDaA) | [Kofi Dartey](https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr), [Nk Divine](https://open.spotify.com/artist/5uUyNQRdjYew8L4OfHPcqD), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [RENDEZ\-VOUS](https://open.spotify.com/album/09CbB8oXl3muvWJiPt3ERY) | 2:24 | 2025-01-31 | 2025-05-12 |
 | [Rest](https://open.spotify.com/track/62rvlAVBzy4AiMBWTSpgOL) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [Young & Chosen](https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7) | 2:45 | 2024-08-30 | 2024-09-14 |
 | [Revival](https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o) | [SESS](https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip) | [Revival](https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ) | 2:35 | 2022-07-30 | 2023-06-08 |
-| [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:41 | 2026-07-31 |  |
+| [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:30 | 2026-07-31 |  |
 | [Right Here \- Remix](https://open.spotify.com/track/3WE6NG4DHL1RbbPoKvId64) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Right Here \(It Must Be\)](https://open.spotify.com/album/32uMtefl8RRamBjA2b00yM) | 3:09 | 2023-08-25 | 2024-06-22 |
 | [Right Now](https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Right Now](https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x) | 2:14 | 2022-07-30 | 2023-06-07 |
 | [Right On Time](https://open.spotify.com/track/1uF7QsPxujjCj8u65dgrl9) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Since No\. 11](https://open.spotify.com/album/6z12CVRJweLfcMg25JZxXP) | 2:47 | 2024-06-21 | 2024-07-27 |

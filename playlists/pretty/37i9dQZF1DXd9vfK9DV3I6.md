@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,161 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,199 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Samra](https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4) | [Mostafa Akmal](https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3) | [Samra](https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl) | 4:43 |
 | 100 | [White Desert](https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl) | [Pysh](https://open.spotify.com/artist/1z0LVJw4i8ou21KjpjxZfz), [Stephane Salerno](https://open.spotify.com/artist/3WMWUUim3gL4CkDLkTDwsE) | [White Desert](https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3) | 6:40 |
 
-Snapshot ID: `AAAAAP+GQq0T7Umc5Yy0zQHCNxPn+Cik`
+Snapshot ID: `AAAAAPvX9GpuY5lvP2dHlan0PrkR5pSq`

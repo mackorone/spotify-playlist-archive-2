@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 59 | [Pierwszy raz](https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Znajdź mnie w tym](https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R) | 2:49 |
 | 60 | [Wołam](https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Wołam](https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41) | 2:46 |
 
-Snapshot ID: `AAAAAP9GVzYV2QtvBkHF6XqYsaXKxAsu`
+Snapshot ID: `AAAAAOExLPsraRUpUTw95YFu2pCuIwEL`

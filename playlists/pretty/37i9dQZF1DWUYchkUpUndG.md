@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Diana Hamilton
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,621 likes - 100 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,642 likes - 100 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 20 | [GOODNESS](https://open.spotify.com/track/21nmScXFwsbQg6f8OzkEIl) | [Gerald Bishung](https://open.spotify.com/artist/7yAihRRmPVVKmZ6xvFCV7I) | [GOODNESS](https://open.spotify.com/album/3qofYKANKGynAhmO7sM2Dp) | 2:39 |
 | 21 | [This or That](https://open.spotify.com/track/1xL3KilboICpYElKJYMnI3) | [John Cohen](https://open.spotify.com/artist/2FtfAArq8K0ErCdNtzwK4T), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP) | [This or That](https://open.spotify.com/album/54NuMTO0uKhgaDIJW5akIq) | 3:21 |
 | 22 | [Grace \- French Version](https://open.spotify.com/track/0FoRpUkgd1KzCB0nIkzI2d) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [DAIJA](https://open.spotify.com/artist/6bTNyBMJG1BqAffPPLpOND) | [Grace \(French Version\)](https://open.spotify.com/album/1U0Zf5qUhJ4xMCMUBnHyky) | 2:47 |
-| 23 | [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:41 |
+| 23 | [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:30 |
 | 24 | [Self](https://open.spotify.com/track/4eqDfX5jMdki9ZHWK1GiVk) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Dells TMX](https://open.spotify.com/artist/5w4pU01c66v4DQc8mqGK0r) | [Self](https://open.spotify.com/album/4aFskmoIwJi2rmMOIkFgaK) | 2:52 |
 | 25 | [Number 1](https://open.spotify.com/track/6H9ykVIRifCHXS7iCMTtqi) | [Hannah Aboh](https://open.spotify.com/artist/5YKklNWFgD4II8iXeaXGjf) | [Number 1](https://open.spotify.com/album/4Mj9EDSZCUtIvZtixs37QQ) | 3:13 |
 | 26 | [Mwamba](https://open.spotify.com/track/2yO4rEOMX8jsXujam1zxbq) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Mwamba](https://open.spotify.com/album/5BYy0ZtXKvaO47zLG9XFNS) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [Help My Unbelief](https://open.spotify.com/track/1ZrtxZxLZoAO413iOVQH7D) | [Sebastine Jonathan](https://open.spotify.com/artist/1FtbQI1UvfpaLWMGopUcy0), [Kespan](https://open.spotify.com/artist/0wE2xo1Ov6AgTzHOmYux0w) | [Help My Unbelief](https://open.spotify.com/album/1dXlkpd8FeFK8jKdCmPdqE) | 4:05 |
 | 100 | [Amama Amasi Amasi \(The All Knowing God\)](https://open.spotify.com/track/7FHZIbfUdti3OuGD09r2Jd) | [Believe Joseph](https://open.spotify.com/artist/4qMuIl03HzGaIehHQxEYeu) | [Amama Amasi Amasi \(The All Knowing God\)](https://open.spotify.com/album/00rrR17BhTiCITgyO6ojv9) | 8:34 |
 
-Snapshot ID: `AAAAAI/XoVnesbwwbKIftm0GgIKp6Dne`
+Snapshot ID: `AAAAALQ4aKL0m8r1cTbtZyEwmleHFBBC`

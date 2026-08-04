@@ -2,9 +2,9 @@
 
 ### [Terra Incognita](https://open.spotify.com/playlist/37i9dQZF1DX1lnB9anGfHa)
 
-> ⚸⚸⚸ a journey into the unknown, dark, and experimental ⚸⚸⚸ featuring Chelsea Wolfe
+> ⚸⚸⚸ a journey into the unknown, dark, and experimental ⚸⚸⚸ featuring Marina Herlop
 
-328 songs - 22 hr 19 min
+329 songs - 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,7 +273,7 @@
 | [Theta](https://open.spotify.com/track/3O6I4hF2cfElw9sHZf3U6V) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Play at Night](https://open.spotify.com/album/4qgbJb7sWnKv67QHPKXrwk) | 2:31 | 2025-01-09 | 2025-02-07 |
 | [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 | 2024-04-29 |  |
 | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ) | 4:02 | 2022-09-03 | 2024-04-23 |
-| [Thou Art Mortal \- Julia Holter Rework](https://open.spotify.com/track/6wt6su6c5kE2igsgHPs4Sj) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [OPVS NOVUM: A Requiem Reworked](https://open.spotify.com/album/0BDOnuEIPCcya95B82Z3RY) | 4:26 | 2026-07-02 |  |
+| [Thou Art Mortal \- Julia Holter Rework](https://open.spotify.com/track/6wt6su6c5kE2igsgHPs4Sj) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [OPVS NOVUM: A Requiem Reworked](https://open.spotify.com/album/0BDOnuEIPCcya95B82Z3RY) | 4:26 | 2026-07-02 | 2026-08-04 |
 | [Time Killing Killing Time](https://open.spotify.com/track/0mFBlq5k7fqIU46kn6tLL4) | [Zam Ram](https://open.spotify.com/artist/0j9YZpB0I5WDVIHEmAtQjV) | [Time Killing Killing Time](https://open.spotify.com/album/3Q7pAE46S5rBHvyBGmXIlX) | 4:22 | 2022-09-14 | 2023-04-01 |
 | [Tintoretto, It's for You](https://open.spotify.com/track/4hNlGoJ9rgKaMSBermXqwZ) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Tintoretto, It's for You](https://open.spotify.com/album/3pGqMfIDbb7rtdf4qiqDLE) | 3:05 | 2022-02-18 | 2022-07-29 |
 | [Tintoretto, It's for You](https://open.spotify.com/track/73miaQGwScM2m8qf7yg3EP) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [LABYRINTHITIS](https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU) | 3:05 | 2022-02-18 | 2024-02-03 |
@@ -300,6 +300,7 @@
 | [V](https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI) | [Of The Muses](https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch) | [V](https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm) | 8:46 | 2023-10-10 | 2024-01-22 |
 | [Vajranala](https://open.spotify.com/track/0262OfotysNpIAs6R1meEI) | [Senyawa](https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ) | [Vajranala](https://open.spotify.com/album/7iIu8O2ueBqIuhWDKQorYO) | 8:42 | 2024-02-29 | 2026-07-24 |
 | [Vali](https://open.spotify.com/track/03ssucIHmJL9BPu9FzttRu) | [Tyondai Braxton](https://open.spotify.com/artist/3LxogQGFWIVPpDWNOVlSzK) | [Vali](https://open.spotify.com/album/0JuuX7rvm0UjiZObK6Kjt0) | 4:41 | 2026-07-24 |  |
+| [Vas volant](https://open.spotify.com/track/16jPhaLGw0jOLwaRBiSnCX) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR), [Adri GOOR](https://open.spotify.com/artist/3xztk9tXGPxGYwhnnb93sw) | [Vas volant](https://open.spotify.com/album/70bDMXsMSLwzPYIV5EqTCQ) | 3:38 | 2026-08-03 |  |
 | [Venus](https://open.spotify.com/track/1U7J6OLQ04AGWgGtj4U9ph) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Venus](https://open.spotify.com/album/1qyW4qDLsCmI8Vj8BY4bu3) | 3:42 | 2024-02-02 | 2024-11-22 |
 | [Viconian Cycles](https://open.spotify.com/track/7iFWNZWamXLZBtQjCV07AO) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Sin Maldita](https://open.spotify.com/artist/1HkwulQDUEiddSaIqlWTFJ) | [Accela](https://open.spotify.com/album/36RmzcuTO4QTi7FaKW4QtX) | 3:19 | 2023-10-25 | 2026-07-15 |
 | [Vizio](https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Lytos](https://open.spotify.com/artist/4D6SZOeCXxbUpnJyxQfufX) | [VIZIO](https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ) | 3:53 | 2022-09-02 | 2022-11-26 |

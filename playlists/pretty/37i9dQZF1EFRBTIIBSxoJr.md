@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 910 likes - 141 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 909 likes - 141 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 99 | [Ghosted \- Zac Samuel Remix](https://open.spotify.com/track/1DCSbC1KGolxOh2jBKhBUC) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Ghosted \(Remixes\)](https://open.spotify.com/album/2s0Zp40uEuirxptvvuKtLQ) | 3:27 |
 | 100 | [Four Letters](https://open.spotify.com/track/7EYVIDHuV5wQtKypKLeSrI) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Hell Yeah](https://open.spotify.com/album/3cuU62OolExReMJHsckJt1) | 3:18 |
 | 101 | [We Are Kings](https://open.spotify.com/track/1C79JSJn6W7ZbxpaFysxkh) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Lawson](https://open.spotify.com/album/4RyKJKIyqpKSLYR6CsA3pm) | 3:57 |
-| 102 | [Take What I Can Get](https://open.spotify.com/track/0MdKAkg6jdQgWD5UG6B19R) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:34 |
-| 103 | [Complete Me](https://open.spotify.com/track/7IkYCTXuAvQZXDFtspmR3V) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:41 |
+| 102 | [Complete Me](https://open.spotify.com/track/7IkYCTXuAvQZXDFtspmR3V) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:41 |
+| 103 | [Take What I Can Get](https://open.spotify.com/track/0MdKAkg6jdQgWD5UG6B19R) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:34 |
 | 104 | [The Way I'm Wired](https://open.spotify.com/track/1EU1P8r2tF089QQjM5dUIA) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Moment](https://open.spotify.com/album/7hGrRy1XAodpcliQlWJycG) | 3:39 |
 | 105 | [Unrequited](https://open.spotify.com/track/1catoeuz8jaOL6tALZ6ior) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 3:07 |
 | 106 | [Only a Woman](https://open.spotify.com/track/3Q4Lm3uuQco5pWXefzfEJ6) | [Irish Women In Harmony](https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D), [Aimée](https://open.spotify.com/artist/6kiGJNxa3SvcQWfCrqL1sb), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA), [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI), [Felispeaks](https://open.spotify.com/artist/0xww0TrRTlmakv8leCK4xu), [Eleanor McEvoy](https://open.spotify.com/artist/50SDcJ4wO9jS355IoJc7O9) | [Only a Woman](https://open.spotify.com/album/57qyFqBYCHmpqwqn9fztnI) | 3:37 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 140 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha Lee](https://open.spotify.com/artist/3dT9AnyUKXdrXCzGsJjx7H) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 141 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AcYiSAAAAABYkasm5r9amO//tgi9l1J7`
+Snapshot ID: `AcYn6AAAAACzuLfVYfsE204/dWuhaXIn`

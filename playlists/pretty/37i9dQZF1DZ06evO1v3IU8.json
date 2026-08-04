@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1365919,
+  "num_followers": 1362370,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAABbRhn8xAWr2jt5DshBMsmj",
+  "snapshot_id": "am6IgAAAAAB7J9ckLhz5yHFSaHiQjcNd",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Me Gusta Tu Vieja",
-      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Mayor Anhelo",
         "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 162520,
       "name": "El Ausente",
       "url": "https://open.spotify.com/track/7vRdymNF6rv9oIIZJcgrAL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Me Gusta Tu Vieja",
+      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
     },
     {
       "added_at": null,

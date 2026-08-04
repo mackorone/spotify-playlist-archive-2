@@ -4,7 +4,7 @@
 
 > 
 
-192 songs - 12 hr 57 min
+193 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [403.1 You're Beautiful](https://open.spotify.com/track/68DFUD7Io2jQPX94AI1rdE) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Mr\. Robot, Vol\. 7 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3VNKL0j5vjiLkJBSY7dhgo) | 3:14 | 2021-04-22 |  |
 | [403.2 I'm Crazy Too](https://open.spotify.com/track/1tnLWEyRgqesgzy0xsh14U) | [Mac Quayle](https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8) | [Mr\. Robot, Vol\. 7 \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3VNKL0j5vjiLkJBSY7dhgo) | 3:22 | 2021-04-22 |  |
 | [A Conspiracy Unmasked](https://open.spotify.com/track/0AraGDvgK8k69WNngdjxmo) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Lord of the Rings: The Fellowship of the Ring \- the Complete Recordings](https://open.spotify.com/album/55RTkgUCP7t80hiTUhATMH) | 6:09 | 2021-09-27 |  |
+| [A Dream Within a Dream](https://open.spotify.com/track/3bU0OB2KvbxjIWR6EsUx4G) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 2:39 | 2026-08-03 |  |
 | [A Forgotten Mystery](https://open.spotify.com/track/08MNvEuNuRK4U2SujNfDQl) | [chuck e\. myers 'sea'](https://open.spotify.com/artist/3LgsL4KAyz5zPUMnDoZjCa), [Hogwarts Legacy](https://open.spotify.com/artist/3he1hJlJoHsQOzaDlNptC2) | [Hogwarts Legacy \(Study Themes from the Original Video Game Soundtrack\)](https://open.spotify.com/album/6RXj34onpdKyOKxLymuOMh) | 3:24 | 2024-02-05 |  |
 | [A Lowly Shoe Salesman](https://open.spotify.com/track/7nYZlOq4JtGeF9fs8Zs66j) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 3:34 | 2024-12-20 |  |
 | [A Time of Quiet Between the Storms](https://open.spotify.com/track/7lG5m4JN0exualOkghSNXq) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Dune: Part Two \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1PeYjDmxcRNvxLd5mGHuCC) | 4:21 | 2024-06-25 |  |

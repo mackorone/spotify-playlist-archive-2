@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 774152,
+  "num_followers": 772276,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAACsoi25nzQeOCwvGZgVL6JP",
+  "snapshot_id": "am6IgAAAAAA7p370wW1cwKz4RZ8hxf0X",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Mi Buena Suerte",
+      "url": "https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Garra De...",
         "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 227960,
       "name": "Golpes En El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/50cYfOvLztlxfHMX1klklK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Mi Buena Suerte",
-      "url": "https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uniendo Fronteras",
-        "url": "https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Mi Fantas\u00eda",
-      "url": "https://open.spotify.com/track/7AXTS96xScRsYLzEQMaTNK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contrabando Y Traicion",
         "url": "https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 206293,
       "name": "Contrabando Y Traici\u00f3n",
       "url": "https://open.spotify.com/track/4gRi0itWso2UodoRMP5asJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uniendo Fronteras",
+        "url": "https://open.spotify.com/album/4dxX1ds6pw2Rqf2NIFPT4C"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Mi Fantas\u00eda",
+      "url": "https://open.spotify.com/track/7AXTS96xScRsYLzEQMaTNK"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Reuni\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 176760,
-      "name": "\u00bfEn D\u00f3nde Estabas?",
-      "url": "https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+        "name": "La Reuni\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll"
       },
       "artists": [
         {
@@ -720,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 163680,
-      "name": "Apenas Te Fuistes Ayer",
-      "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
+      "duration_ms": 176760,
+      "name": "\u00bfEn D\u00f3nde Estabas?",
+      "url": "https://open.spotify.com/track/4yZQMrO8OJ8oj9HZqUZ3QN"
     },
     {
       "added_at": null,
@@ -743,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Apenas Te Fuistes Ayer",
+      "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Carrera Contra La Muerte",
         "url": "https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Realidades",
-        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 197133,
-      "name": "La Bala",
-      "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contrabando Y Traicion",
         "url": "https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 221026,
       "name": "La Mesera",
       "url": "https://open.spotify.com/track/3nbpeJzRTTL6D87fcXBcZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Realidades",
+        "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 197133,
+      "name": "La Bala",
+      "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Incansables",
-        "url": "https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Cuando Se Llega A Viejo",
-      "url": "https://open.spotify.com/track/5Gzbh6jt9wJci4mhaAC7zi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jefe De Jefes",
         "url": "https://open.spotify.com/album/5C507x88aYeTv00Ydv0maH"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 186986,
       "name": "El Rengo Del Gallo Giro",
       "url": "https://open.spotify.com/track/1OyprjzxOmzRQ7YbsCOgPJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Incansables",
+        "url": "https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Cuando Se Llega A Viejo",
+      "url": "https://open.spotify.com/track/5Gzbh6jt9wJci4mhaAC7zi"
     },
     {
       "added_at": null,

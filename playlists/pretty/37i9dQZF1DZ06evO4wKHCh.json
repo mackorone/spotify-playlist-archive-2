@@ -1,12 +1,12 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 13103,
+  "num_followers": 13110,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAABBu2uw//Kl903XERhNhc5F",
+  "snapshot_id": "am6IgAAAAAAZ8K/+Q3b6/FWzBeK9a+HC",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night at the Opera",
-        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 208559,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/3mqC2nzHECZP4GLmdKOw2p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scatterbrain",
         "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 134545,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/0HoXKvtfGFB2CCQvOfNjcd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Night at the Opera",
+        "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 208559,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/3mqC2nzHECZP4GLmdKOw2p"
     },
     {
       "added_at": null,

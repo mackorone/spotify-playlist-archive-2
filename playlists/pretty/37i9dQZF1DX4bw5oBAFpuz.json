@@ -1,12 +1,12 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 87749,
+  "num_followers": 87726,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMt6AD+PC4mO0VnEfzHvGI8hqMK3",
+  "snapshot_id": "AAAAAL7zZj3SQEBskzlBzdwnjk3X594q",
   "tracks": [
     {
       "added_at": "2026-07-17 14:00:08",
@@ -3503,22 +3503,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "This Is For The Ones",
-        "url": "https://open.spotify.com/album/49vhTXDSj6b0zXzJiFEkPg"
-      },
-      "artists": [
-        {
-          "name": "Pineapple Kid",
-          "url": "https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG"
-        }
-      ],
-      "duration_ms": 197188,
-      "name": "This Is For The Ones",
-      "url": "https://open.spotify.com/track/2ROYTksKBDPlBzI5JEKKF7"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "so i let you (15th of june - evening)",
         "url": "https://open.spotify.com/album/6H7NrgGon7JOhxetGKAf4h"
       },
@@ -3535,22 +3519,6 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Till The River Runs Dry",
-        "url": "https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ"
-      },
-      "artists": [
-        {
-          "name": "Bunch Of Grapes",
-          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Till The River Runs Dry",
-      "url": "https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
         "name": "Songs to Soothe",
         "url": "https://open.spotify.com/album/0MRyCWBOc0EyOiLmPYRg7K"
       },
@@ -3563,6 +3531,38 @@
       "duration_ms": 198800,
       "name": "Going Back Home",
       "url": "https://open.spotify.com/track/2CujSydnhdFygZpsjyytZU"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "This Is For The Ones",
+        "url": "https://open.spotify.com/album/49vhTXDSj6b0zXzJiFEkPg"
+      },
+      "artists": [
+        {
+          "name": "Pineapple Kid",
+          "url": "https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG"
+        }
+      ],
+      "duration_ms": 197188,
+      "name": "This Is For The Ones",
+      "url": "https://open.spotify.com/track/2ROYTksKBDPlBzI5JEKKF7"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
+        "name": "Till The River Runs Dry",
+        "url": "https://open.spotify.com/album/429yX7wyM4aDx5PDsEiLYZ"
+      },
+      "artists": [
+        {
+          "name": "Bunch Of Grapes",
+          "url": "https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Till The River Runs Dry",
+      "url": "https://open.spotify.com/track/1LRm0dAdk7IEuQDXDs9pIG"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -3939,18 +3939,22 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "Tell Me That You Love Me",
-        "url": "https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm"
+        "name": "How Am I Gonna Love Myself",
+        "url": "https://open.spotify.com/album/5x9kqNOUiD5qinQu58cRDB"
       },
       "artists": [
         {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        },
+        {
+          "name": "Marcel Veenendaal",
+          "url": "https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD"
         }
       ],
-      "duration_ms": 194658,
-      "name": "Tell Me That You Love Me",
-      "url": "https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX"
+      "duration_ms": 197751,
+      "name": "How Am I Gonna Love Myself",
+      "url": "https://open.spotify.com/track/2XQZn07ixmAvy4VwCYZ0R0"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -3971,22 +3975,18 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
-        "name": "How Am I Gonna Love Myself",
-        "url": "https://open.spotify.com/album/5x9kqNOUiD5qinQu58cRDB"
+        "name": "Tell Me That You Love Me",
+        "url": "https://open.spotify.com/album/4oWsCEo45zfCdw8piPQUYm"
       },
       "artists": [
         {
-          "name": "The Indien",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
-        },
-        {
-          "name": "Marcel Veenendaal",
-          "url": "https://open.spotify.com/artist/0hfRYFpwyGSFZtOPfEqUHD"
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
         }
       ],
-      "duration_ms": 197751,
-      "name": "How Am I Gonna Love Myself",
-      "url": "https://open.spotify.com/track/2XQZn07ixmAvy4VwCYZ0R0"
+      "duration_ms": 194658,
+      "name": "Tell Me That You Love Me",
+      "url": "https://open.spotify.com/track/2wHA4yJKT8TJhGz20QxUqX"
     },
     {
       "added_at": "2026-07-17 14:00:08",
@@ -4023,6 +4023,22 @@
     {
       "added_at": "2026-07-17 14:00:08",
       "album": {
+        "name": "Be Yours",
+        "url": "https://open.spotify.com/album/5niw3k5NSVyeBxDcdA3umi"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Be Yours",
+      "url": "https://open.spotify.com/track/46lJyMkWR3BXZ6XLdZzhZ5"
+    },
+    {
+      "added_at": "2026-07-17 14:00:08",
+      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv"
       },
@@ -4051,22 +4067,6 @@
       "duration_ms": 196089,
       "name": "Drown Us Out",
       "url": "https://open.spotify.com/track/7Jfz5QUZE8T6ZRrNfAO04V"
-    },
-    {
-      "added_at": "2026-07-17 14:00:08",
-      "album": {
-        "name": "Be Yours",
-        "url": "https://open.spotify.com/album/5niw3k5NSVyeBxDcdA3umi"
-      },
-      "artists": [
-        {
-          "name": "The Indien",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Be Yours",
-      "url": "https://open.spotify.com/track/46lJyMkWR3BXZ6XLdZzhZ5"
     },
     {
       "added_at": "2026-07-17 14:00:08",

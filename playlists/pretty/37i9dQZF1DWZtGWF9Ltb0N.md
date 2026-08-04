@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes ♣️
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,712 likes - 150 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,774 likes - 150 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Section](https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Section](https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT) | 2:54 |
-| 2 | [LOUDER](https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [JONCASS](https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025), [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt) | [140 MAFIA](https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP) | 3:15 |
+| 2 | [LOUDER](https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt), [JONCASS](https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025) | [140 MAFIA](https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP) | 3:15 |
 | 3 | [Bad](https://open.spotify.com/track/2PUXhQdRmJOr84WmeCOGwu) | [Saturna](https://open.spotify.com/artist/6Y3GYermT3jkAuq3A5vLXn), [Chmura](https://open.spotify.com/artist/3lklyEZwBA2agqoBBiofOm), [Ashez](https://open.spotify.com/artist/4EmkjZuqatnvAygxt3a3tC) | [Bad](https://open.spotify.com/album/060TKqpp1hH5HySoUrLmYy) | 3:31 |
 | 4 | [l!sten](https://open.spotify.com/track/7wIxOG0GnM21WueiICVACR) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [l!sten](https://open.spotify.com/album/3VDdMX2Cr34oAkZp7sgg7P) | 3:05 |
 | 5 | [mail](https://open.spotify.com/track/0nqUMg3fRJCwCn21rSFlbb) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM), [sfam](https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI) | [TYNAN TIME](https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5) | 2:31 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 | 149 | [Orchid](https://open.spotify.com/track/02NXaNtoScXGndO3Zj1MNA) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Orchid](https://open.spotify.com/album/1H7kMYpmTl0M3bzpVlY941) | 4:00 |
 | 150 | [Headspun](https://open.spotify.com/track/108nFTPajD29FjcHmE7JX8) | [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Headspun](https://open.spotify.com/album/6hPJ5c6BI0KHvTXxvpDxSa) | 2:23 |
 
-Snapshot ID: `AAAAAL+TV9kICg9V3wXj4CQoNWOaiuAB`
+Snapshot ID: `AAAAADAu2P1GZwR7iTM8DhxAS0PB5+Cv`

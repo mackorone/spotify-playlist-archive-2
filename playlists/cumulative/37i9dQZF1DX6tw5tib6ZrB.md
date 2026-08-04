@@ -2,9 +2,9 @@
 
 ### [JumpOff](https://open.spotify.com/playlist/37i9dQZF1DX6tw5tib6ZrB)
 
-> Monster Hiphop anthems to unlock your day\. Tracks from Future, Tyler The Creator, GloRilla and more
+> Monster Hiphop anthems to unlock your day\. Tracks from Lil Uzi Vert, Future, Tyler The Creator and more
 
-621 songs - 1 day 7 hr 37 min
+622 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,6 +320,7 @@
 | [LOCATION 58](https://open.spotify.com/track/1bAmibDN20SFZWrAaHmDPJ) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [LOCATION 58](https://open.spotify.com/album/4j09XYUk4AEyG5DJrGok9h) | 3:07 | 2022-08-19 | 2022-10-31 |
 | [Location 58](https://open.spotify.com/track/24Tr8EkduWD1T6lA2ubiRO) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU), [AJAY](https://open.spotify.com/artist/0aSARVYhhKFQov5I8xfCY0), [Mr right](https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG) | [Location 58](https://open.spotify.com/album/3tYkRgiqgc6Tld3aRIvNsi) | 3:07 | 2022-08-19 | 2022-12-10 |
 | [LOCKED IN FREESTYLE](https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN FREESTYLE](https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN) | 1:40 | 2026-05-29 | 2026-06-20 |
+| [London \- Bonus](https://open.spotify.com/track/3fq2iQjL6aun4zJ4R1cJjK) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Maverick “Almost Forever” EP](https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo) | 3:11 | 2026-08-03 |  |
 | [LONDON \- GIGGS MIX](https://open.spotify.com/track/6YeajyqiBd21kZ3JIwcYFZ) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:43 | 2023-09-29 | 2023-12-09 |
 | [Lonely Road \(feat\. Terrace Martin\)](https://open.spotify.com/track/4xfVHk7P6QBbWLndEbDf7f) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Lonely Road \(feat\. Terrace Martin\)](https://open.spotify.com/album/1b8IZJMYSWiKHYtthFOp4Y) | 3:20 | 2024-12-06 | 2025-02-27 |
 | [Looking For The Hoes \(Ain’t My Fault\)](https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 2:10 | 2023-10-06 | 2024-02-17 |
@@ -527,7 +528,7 @@
 | [SUPPOSED TO BE LOVED \(feat\. Lil Baby, Future & Lil Uzi Vert\)](https://open.spotify.com/track/2buC0ru4cVutdUhxIjH9Bj) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [SUPPOSED TO BE LOVED](https://open.spotify.com/album/1WTsQGAIC9JKFwP5iSgGU3) | 3:26 | 2023-08-11 | 2023-08-26 |
 | [Supreme Sanders](https://open.spotify.com/track/53agV5ZAIHGyvYBgTeChx9) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Supreme Sanders](https://open.spotify.com/album/68yomWj1t6KVcny2L3I6la) | 2:22 | 2025-12-19 | 2026-02-28 |
 | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/track/6nCWE96dbCCeWig5TZu4jv) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor’s Guilt \(feat\. G Herbo\)](https://open.spotify.com/album/5LmyrJlTv5zRJm2CiyxHSS) | 3:03 | 2025-05-30 | 2025-11-08 |
-| [SWAGGA](https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [SWAGGA](https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F) | 3:10 | 2026-05-29 |  |
+| [SWAGGA](https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [SWAGGA](https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F) | 3:10 | 2026-05-29 | 2026-08-04 |
 | [Swear to God \(feat\. Future\)](https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Swear to God \(feat\. Future\)](https://open.spotify.com/album/5j8aNVtgdhzP7azN05Z9h5) | 3:00 | 2024-05-10 | 2024-07-19 |
 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 | 2024-09-06 | 2025-01-25 |
 | [Take A Step Back](https://open.spotify.com/track/2gQYziDV5cSTRSqr6akzi5) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [You Will Regret \(Reloaded\)](https://open.spotify.com/album/2pTyjuQ1d1d79Chhknoa2h) | 3:30 | 2022-06-16 | 2022-08-13 |

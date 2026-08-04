@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Sabaton
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,864 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,761 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 99 | [Awakening](https://open.spotify.com/track/5qV7D1UiRkWPu2HOu7312N) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Awakening](https://open.spotify.com/album/5tqk94Qd1pMekjPE1BAGas) | 3:36 |
 | 100 | [A Lesser King](https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP) | [Words Of Farewell](https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO) | [Stories to Forget](https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY) | 4:41 |
 
-Snapshot ID: `AAAAAAHEWiE48x55fWdL7aP6/wNCmvQu`
+Snapshot ID: `AAAAAOb+UNY4gTv9M7hSLtlUVEq39ycc`

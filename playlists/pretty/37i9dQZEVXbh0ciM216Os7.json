@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIXwi1wUEgYKt/X2FBbGN3LW5mfN",
+  "snapshot_id": "AAAAACKLJv0NlA6qGUJfwrnL/GUTYS96",
   "tracks": [
     {
       "added_at": "2026-07-31 04:00:00",
@@ -35,22 +35,6 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
-        "name": "petal",
-        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 184248,
-      "name": "petal",
-      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
-    },
-    {
-      "added_at": "2026-07-31 04:00:00",
-      "album": {
         "name": "Saw You Stand",
         "url": "https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT"
       },
@@ -67,6 +51,22 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
+        "name": "petal",
+        "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 184248,
+      "name": "petal",
+      "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
+    },
+    {
+      "added_at": "2026-07-31 04:00:00",
+      "album": {
         "name": "Nimrods Original Soundtrack",
         "url": "https://open.spotify.com/album/4Fz1Rz0WlGAbBSht1UPmNw"
       },
@@ -79,46 +79,6 @@
       "duration_ms": 72528,
       "name": "Auld Lang Syne - Live",
       "url": "https://open.spotify.com/track/6WjCaePjJPkGrG4b7jIsqv"
-    },
-    {
-      "added_at": "2026-07-31 04:00:00",
-      "album": {
-        "name": "YOU CAN ALWAYS COME BACK HOME",
-        "url": "https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q"
-      },
-      "artists": [
-        {
-          "name": "Jon Keith",
-          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 231901,
-      "name": "YOU CAN ALWAYS COME BACK HOME",
-      "url": "https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj"
-    },
-    {
-      "added_at": "2026-07-31 04:00:00",
-      "album": {
-        "name": "nonchalant",
-        "url": "https://open.spotify.com/album/0hXAGEJkJouIX5czc4D7ld"
-      },
-      "artists": [
-        {
-          "name": "Cletus Strap",
-          "url": "https://open.spotify.com/artist/00vh4ZUVEvrbagTVh7gf15"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 221539,
-      "name": "nonchalant - feat. Earl Sweatshirt",
-      "url": "https://open.spotify.com/track/3ol1gWbJlV1lqLEGpJvMKL"
     },
     {
       "added_at": "2026-07-31 04:00:00",
@@ -143,22 +103,22 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
-        "name": "LVRS PARADISE (SIDE B)",
-        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+        "name": "nonchalant",
+        "url": "https://open.spotify.com/album/0hXAGEJkJouIX5czc4D7ld"
       },
       "artists": [
         {
-          "name": "Isaiah Falls",
-          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+          "name": "Cletus Strap",
+          "url": "https://open.spotify.com/artist/00vh4ZUVEvrbagTVh7gf15"
         },
         {
-          "name": "Big Boi",
-          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 50370,
-      "name": "BIG BOI SPEAKS",
-      "url": "https://open.spotify.com/track/1wxhZQPoURr9xpOKZ67nlo"
+      "duration_ms": 221539,
+      "name": "nonchalant - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/3ol1gWbJlV1lqLEGpJvMKL"
     },
     {
       "added_at": "2026-07-31 04:00:00",
@@ -183,6 +143,62 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
+        "name": "YOU CAN ALWAYS COME BACK HOME",
+        "url": "https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q"
+      },
+      "artists": [
+        {
+          "name": "Jon Keith",
+          "url": "https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 231901,
+      "name": "YOU CAN ALWAYS COME BACK HOME",
+      "url": "https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj"
+    },
+    {
+      "added_at": "2026-07-31 04:00:00",
+      "album": {
+        "name": "Still Crying",
+        "url": "https://open.spotify.com/album/6g2qQ9NGGQd0jMq242JXFU"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 249654,
+      "name": "Still Crying",
+      "url": "https://open.spotify.com/track/4HUcERrYOgYrSNo37IPpZp"
+    },
+    {
+      "added_at": "2026-07-31 04:00:00",
+      "album": {
+        "name": "LVRS PARADISE (SIDE B)",
+        "url": "https://open.spotify.com/album/4tsNS7slI0p9aFiP3ph76G"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "duration_ms": 50370,
+      "name": "BIG BOI SPEAKS",
+      "url": "https://open.spotify.com/track/1wxhZQPoURr9xpOKZ67nlo"
+    },
+    {
+      "added_at": "2026-07-31 04:00:00",
+      "album": {
         "name": "The Clock Don\u2019t Go Back",
         "url": "https://open.spotify.com/album/03Rtmq1Acm34vWhG6eOYd6"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 255045,
       "name": "You Gonna Learn Today (feat. Myles & Kamai, Georgia Anne Muldrow)",
       "url": "https://open.spotify.com/track/4baP0NvNpC6KHvo1Xa6nQ1"
-    },
-    {
-      "added_at": "2026-07-31 04:00:00",
-      "album": {
-        "name": "Still Crying",
-        "url": "https://open.spotify.com/album/6g2qQ9NGGQd0jMq242JXFU"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 249654,
-      "name": "Still Crying",
-      "url": "https://open.spotify.com/track/4HUcERrYOgYrSNo37IPpZp"
     },
     {
       "added_at": "2026-07-31 04:00:00",
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 180369,
-      "name": "Poured",
-      "url": "https://open.spotify.com/track/3zPMFEgOwgYsdyFzRgw4Ly"
+      "duration_ms": 174545,
+      "name": "Maverick Intro",
+      "url": "https://open.spotify.com/track/6l4zJfhv8Sg0mzaN6JBbvq"
     },
     {
       "added_at": "2026-07-31 04:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
+        "name": "Gjallarhorn",
+        "url": "https://open.spotify.com/album/6PWN9YmGj9cMgtlsLMgqNL"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 314200,
+      "name": "Gjallarhorn",
+      "url": "https://open.spotify.com/track/1rouZuMqJonxGcQcM1ZFRT"
+    },
+    {
+      "added_at": "2026-07-31 04:00:00",
+      "album": {
         "name": "Blue Shadows (feat. Karen O)",
         "url": "https://open.spotify.com/album/3bTntUIL9J3VLtgALQkzh7"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
-        "name": "Gjallarhorn",
-        "url": "https://open.spotify.com/album/6PWN9YmGj9cMgtlsLMgqNL"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 314200,
-      "name": "Gjallarhorn",
-      "url": "https://open.spotify.com/track/1rouZuMqJonxGcQcM1ZFRT"
-    },
-    {
-      "added_at": "2026-07-31 04:00:00",
-      "album": {
         "name": "HUN",
         "url": "https://open.spotify.com/album/0TAKRK7NnhAd1erQmQ3vdZ"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 222847,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI"
-    },
-    {
-      "added_at": "2026-07-31 04:00:00",
-      "album": {
         "name": "Foreign Tongues",
         "url": "https://open.spotify.com/album/6jfU2DEetUUo8nmxrzwkhc"
       },
@@ -511,26 +495,6 @@
       "duration_ms": 274061,
       "name": "Mr Charm",
       "url": "https://open.spotify.com/track/7FNkY47xx3oKTjr5tk5m8k"
-    },
-    {
-      "added_at": "2026-07-31 04:00:00",
-      "album": {
-        "name": "Summer Jazz: Thelonious Monk",
-        "url": "https://open.spotify.com/album/7jdckKq9eMjAnXawjY8JwR"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        },
-        {
-          "name": "Milt Jackson",
-          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "I Should Care - Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6sYnAVOEFBajsC1kawg9yd"
     },
     {
       "added_at": "2026-07-31 04:00:00",
@@ -579,6 +543,42 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
+        "name": "Summer Jazz: Thelonious Monk",
+        "url": "https://open.spotify.com/album/7jdckKq9eMjAnXawjY8JwR"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        },
+        {
+          "name": "Milt Jackson",
+          "url": "https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "I Should Care - Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6sYnAVOEFBajsC1kawg9yd"
+    },
+    {
+      "added_at": "2026-07-31 04:00:00",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/4S11HIOfB1kuSmH7L5JEJC"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 222847,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/64V8r31StUY8JoFXdnphZI"
+    },
+    {
+      "added_at": "2026-07-31 04:00:00",
+      "album": {
         "name": "On Melancholy Hill",
         "url": "https://open.spotify.com/album/5Ju9F3H4rR3yRlSwUc2uO9"
       },
@@ -619,6 +619,26 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
+        "name": "Fantastic Voyages (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1xPbUITaqSNC6N18gHUwpA"
+      },
+      "artists": [
+        {
+          "name": "Yo Gabba Gabba",
+          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/5XTsHbRzj5fqu0Ol7xqXAR"
+    },
+    {
+      "added_at": "2026-07-31 04:00:00",
+      "album": {
         "name": "Satisfy (James Poole Remix)",
         "url": "https://open.spotify.com/album/0S5z3uSXJW1v8cNUJSW4OA"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 191303,
       "name": "Satisfy - James Poole Remix",
       "url": "https://open.spotify.com/track/2HddjdBF8NcXFCfWmfvWZo"
-    },
-    {
-      "added_at": "2026-07-31 04:00:00",
-      "album": {
-        "name": "Fantastic Voyages (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1xPbUITaqSNC6N18gHUwpA"
-      },
-      "artists": [
-        {
-          "name": "Yo Gabba Gabba",
-          "url": "https://open.spotify.com/artist/5FzSQmddi3XVt5zuvfGStF"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "Birds",
-      "url": "https://open.spotify.com/track/5XTsHbRzj5fqu0Ol7xqXAR"
     },
     {
       "added_at": "2026-07-31 04:00:00",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-07-31 04:00:00",
       "album": {
+        "name": "Beard",
+        "url": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "duration_ms": 269028,
+      "name": "Any Time (feat. James Fauntleroy)",
+      "url": "https://open.spotify.com/track/6GmUxZzoAdxuZBcVWq2Gpk"
+    },
+    {
+      "added_at": "2026-07-31 04:00:00",
+      "album": {
         "name": "To Awaken the Sleeper",
         "url": "https://open.spotify.com/album/1a6qPidaL2S1IebBisKB67"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 468140,
       "name": "breathe/burn: an elegy",
       "url": "https://open.spotify.com/track/2cQ81LaDILZ1pnBJzpABKc"
-    },
-    {
-      "added_at": "2026-07-31 04:00:00",
-      "album": {
-        "name": "Beard",
-        "url": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 269028,
-      "name": "Any Time (feat. James Fauntleroy)",
-      "url": "https://open.spotify.com/track/6GmUxZzoAdxuZBcVWq2Gpk"
     },
     {
       "added_at": "2026-07-31 04:00:00",

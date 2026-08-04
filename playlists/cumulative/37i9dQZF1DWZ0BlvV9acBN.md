@@ -4,7 +4,7 @@
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Colo de Deus
 
-192 songs - 14 hr 45 min
+193 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,10 +49,11 @@
 | [Chega](https://open.spotify.com/track/34Ibxcbi3VvdgkJT6fDIA6) | [A Trilha](https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk) | [Chega](https://open.spotify.com/album/4L3ZfTeBbooQhaYvG36rmQ) | 3:05 | 2022-09-02 | 2022-11-26 |
 | [Coração de Pedra](https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Adriano Daga](https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:42 | 2022-09-02 | 2024-03-02 |
 | [Coração de Pedra](https://open.spotify.com/track/74RE99ZIixd6P7tzg0yY06) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Coração de Pedra](https://open.spotify.com/album/11lguPTBBroA3Vk3WCbXbo) | 3:45 | 2023-08-18 | 2023-09-26 |
-| [Cordeiro e Leão](https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Cordeiro e Leão](https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI) | 3:56 | 2023-04-15 |  |
+| [Cordeiro e Leão](https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Cordeiro e Leão](https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI) | 3:56 | 2023-04-15 | 2026-08-04 |
 | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/track/5KyiPrg9MOVz8fd6MGvKa2) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Daniel \(feat\. Fernandinho\)](https://open.spotify.com/album/1SL5nfE14eLFlOd6wL79qT) | 4:12 | 2022-09-02 |  |
 | [Davi \- Ao Vivo](https://open.spotify.com/track/7syDyjPtf7zwoX1D425KSW) | [Oficina G3](https://open.spotify.com/artist/0gO5Vbklho8yrBrUdHhuLH) | [Davi \(Ao Vivo\)](https://open.spotify.com/album/1Jh6IaWVzcyClOrrFpBYpg) | 3:16 | 2025-09-12 |  |
 | [De Malas Prontas](https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD) | [Rodolfo Abrantes](https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN) | [De Malas Prontas](https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng) | 6:34 | 2022-09-02 | 2024-09-28 |
+| [DE VOLTA AO COMEÇO](https://open.spotify.com/track/4CccBC1gN6BpGp7qYwj2En) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [DE VOLTA AO COMEÇO](https://open.spotify.com/album/6oMi9R1NXc7gWxRN7K0bHX) | 4:50 | 2026-08-03 |  |
 | [Derrama Fogo \- Ao Vivo](https://open.spotify.com/track/7gZmrRAb9RfP8SBnUaWqU0) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Atitud Ao Vivo, Vol\. 2](https://open.spotify.com/album/2mWAAKPLWjHeuo3n8N5UHp) | 5:37 | 2024-03-08 | 2024-06-22 |
 | [Descanso](https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Descanso](https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH) | 6:43 | 2022-09-02 | 2025-03-15 |
 | [Deserto 2.0](https://open.spotify.com/track/0rqsRcTKq25Y8nWlq8oeTI) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT) | [Deserto 2.0](https://open.spotify.com/album/3VGIpZyU0zCngGb8RkwIyR) | 3:38 | 2023-07-21 | 2023-10-07 |

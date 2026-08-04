@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Aka Mind. The essential tracks, all in one playlist.",
-  "num_followers": 4949,
+  "num_followers": 4950,
   "original_name": "This Is Ali Aka Mind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAAWu8WFYOUS/ZpG+BC87wBW",
+  "snapshot_id": "am6IgAAAAACTnF8y4+PaRgkYIwJ4EwXi",
   "tracks": [
     {
       "added_at": null,
@@ -159,26 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para\u00edso Fiscal",
-        "url": "https://open.spotify.com/album/5slBLS7tgewaXLg8y9AWt8"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
-        }
-      ],
-      "duration_ms": 180530,
-      "name": "Para\u00edso Fiscal",
-      "url": "https://open.spotify.com/track/5S5c4qZw9xQIYsoRgEdlPY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rap de la Monta\u00f1a 2",
         "url": "https://open.spotify.com/album/1oAbbxPXdnJObWqTYTpjE3"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 164347,
       "name": "El Pulm\u00f3n del Mundo (feat. Ali AKA Mind)",
       "url": "https://open.spotify.com/track/5zzvSMiO8oRL0n1ksLPxeJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para\u00edso Fiscal",
+        "url": "https://open.spotify.com/album/5slBLS7tgewaXLg8y9AWt8"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        }
+      ],
+      "duration_ms": 180530,
+      "name": "Para\u00edso Fiscal",
+      "url": "https://open.spotify.com/track/5S5c4qZw9xQIYsoRgEdlPY"
     },
     {
       "added_at": null,
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honesty",
-        "url": "https://open.spotify.com/album/1T8KlnyoPrbDgv01kVSFHB"
+        "name": "La Ansiedad y Yo",
+        "url": "https://open.spotify.com/album/1wLi7L3eS7OnfktZoyIj4n"
       },
       "artists": [
         {
@@ -454,7 +454,7 @@
       ],
       "duration_ms": 194341,
       "name": "La Ansiedad y Yo",
-      "url": "https://open.spotify.com/track/6RxBmdpKc3lVGGJm8ajMRg"
+      "url": "https://open.spotify.com/track/7uBNpRc8gdsbeLs8Y8ztwI"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 217511,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cypher Lado B",
         "url": "https://open.spotify.com/album/6EWQflQucPkygMGtzzeVce"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 305015,
       "name": "Cypher Lado B",
       "url": "https://open.spotify.com/track/7cuwYmPLL3nHTYaLEKqfOD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        }
+      ],
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
     },
     {
       "added_at": null,
@@ -1131,26 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honesty",
-        "url": "https://open.spotify.com/album/1T8KlnyoPrbDgv01kVSFHB"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        },
-        {
-          "name": "Dj J.L.P",
-          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
-        }
-      ],
-      "duration_ms": 147301,
-      "name": "Oww Nena",
-      "url": "https://open.spotify.com/track/5xZ6DgZdmLAXEC83tWYTj4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/1hR0olM285k9Ri0qj76ue7"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 314482,
       "name": "Cypher (feat. Mecal, Benzina, La Reyna & Elephanto)",
       "url": "https://open.spotify.com/track/3Delq0wrQ6oLoquNU08AoX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oww Nena",
+        "url": "https://open.spotify.com/album/0G0EqnM1wIHAKCoEG7i9Lq"
+      },
+      "artists": [
+        {
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
+        },
+        {
+          "name": "Dj J.L.P",
+          "url": "https://open.spotify.com/artist/43Qj6bVsqyHRirGYVeP4Ij"
+        }
+      ],
+      "duration_ms": 147301,
+      "name": "Oww Nena",
+      "url": "https://open.spotify.com/track/1AnvK8DUi7ngXsyzntf4jB"
     },
     {
       "added_at": null,

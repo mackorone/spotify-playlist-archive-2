@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: PLUTO
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,217 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,026 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 49 | [Fairy](https://open.spotify.com/track/735Ji1GzLR9nvteGdbqy8U) | [Myaap](https://open.spotify.com/artist/2QgCj5pd8aIys9jvr3A1GZ) | [Fairy](https://open.spotify.com/album/1RmNOVzmUpRHczpGYiUd10) | 2:22 |
 | 50 | [Figueroa](https://open.spotify.com/track/18jgn5QOjqsEx9TiqH4e1E) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:23 |
 
-Snapshot ID: `AAAAAPTHD7RNLQJOD0e1kEvTiLF8XZHz`
+Snapshot ID: `AAAAABYuDQHmqTkcunfHK52Kb/ZQxmOK`

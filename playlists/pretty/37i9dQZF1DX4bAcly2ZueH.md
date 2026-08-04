@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,174 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,152 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,14 +41,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 31 | [Season](https://open.spotify.com/track/4Za0WkeiO3GrhQnwjY62Y7) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Silently Beats](https://open.spotify.com/album/2o0qFpD6ftIxy5LcQFfWpX) | 2:24 |
 | 32 | [surf minimalism](https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [dear surfers](https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU) | 2:09 |
 | 33 | [Yura Yura](https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82) | [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Yura Yura](https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd) | 2:18 |
-| 34 | [The Next vacation](https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e) | [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [wave wave wave](https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP) | 4:54 |
-| 35 | [Goodbye Blurry Days](https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [So Long So Blue](https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ) | 3:45 |
+| 34 | [Goodbye Blurry Days](https://open.spotify.com/track/7GGo7J2kWtuBqJ8AyuRCop) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [So Long So Blue](https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ) | 3:45 |
+| 35 | [The Next vacation](https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e) | [sphontik](https://open.spotify.com/artist/27r4JWLsSQYgsQvnAdk0Zq) | [wave wave wave](https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP) | 4:54 |
 | 36 | [Sushi In Tokyo](https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP) | [DVNA](https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1) | [Sushi In Tokyo](https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx) | 3:31 |
 | 37 | [山月](https://open.spotify.com/track/7dO2wvBbkZtX2mKVbP2DcX) | [織田祐亮](https://open.spotify.com/artist/2oSlBHEUTRW3jqfbI6l5cD) | [山月](https://open.spotify.com/album/6Z0UjFVXkFckcns2oHcOJT) | 3:13 |
 | 38 | [Day Trip](https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Day Trip](https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W) | 2:17 |
 | 39 | [qutie](https://open.spotify.com/track/2SUinm0Lf111cYHC3mn4xI) | [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2), [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [qutie](https://open.spotify.com/album/4YXb4ATKlSjbZT0lO9Z7T1) | 2:29 |
-| 40 | [Mercy](https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Mercy](https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl) | 3:48 |
-| 41 | [おはなしのはじまり](https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [UP AND DOWN Original Soundtrack](https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6) | 3:09 |
+| 40 | [おはなしのはじまり](https://open.spotify.com/track/5xLpCD2QT3rOsmNpwcwjaI) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [UP AND DOWN Original Soundtrack](https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6) | 3:09 |
+| 41 | [Mercy](https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ) | [Sonn](https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Mercy](https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl) | 3:48 |
 | 42 | [Reminisce](https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2) | [法斎Beats](https://open.spotify.com/artist/48gniwDxLdyYvSK1faa6ia) | [Reminisce](https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso) | 2:52 |
 | 43 | [When We Were Small](https://open.spotify.com/track/3aYsApItrWLtRbk7YA42m8) | [Naomi Eno](https://open.spotify.com/artist/3ggj8CCCXXL0C9n6CLzifo), [mahiro iska](https://open.spotify.com/artist/68hHRIEDCPLajRFRa9J3fo) | [When We Were Small](https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm) | 2:13 |
 | 44 | [KUMORI](https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [KUMORI](https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu) | 2:43 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 70 | [Meditation Loop](https://open.spotify.com/track/3O3x1XjurQCpCH6ATdF6AR) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [Wind Loop Case](https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh) | [Meditation Loop](https://open.spotify.com/album/7u0RdGp0lZfmZGmU4bx1pc) | 4:16 |
 | 71 | [Boardwalk](https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Jetty \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD) | 1:09 |
 | 72 | [Chamomile](https://open.spotify.com/track/6LvQFF9REVEO1aYfG07e0z) | [KOTARO SAITO](https://open.spotify.com/artist/6VWKUdCo8AEhrI1WH8YWdX) | [Chamomile](https://open.spotify.com/album/6xsSwoYLUzO1g2eVATDlbQ) | 3:16 |
-| 73 | [Husigina Ki](https://open.spotify.com/track/15KQSocfr0YVYoXwKJzOrH) | [Yassy](https://open.spotify.com/artist/0KTpJYwmBiu2Zbm6W4wiZH) | [Husigina Ki](https://open.spotify.com/album/2mdGuotPBacHnY8QqPTCbl) | 2:40 |
-| 74 | [Blue Notes](https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Max Ribner](https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY) | [Blue Notes](https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf) | 3:18 |
+| 73 | [Blue Notes](https://open.spotify.com/track/6tzQ5fqJVqEnw36qwdliJs) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Max Ribner](https://open.spotify.com/artist/3JI64aAbPeMcRPJOYHR1fY) | [Blue Notes](https://open.spotify.com/album/7v1n7XIcKDaYLFOTZwyNVf) | 3:18 |
+| 74 | [Husigina Ki](https://open.spotify.com/track/15KQSocfr0YVYoXwKJzOrH) | [Yassy](https://open.spotify.com/artist/0KTpJYwmBiu2Zbm6W4wiZH) | [Husigina Ki](https://open.spotify.com/album/2mdGuotPBacHnY8QqPTCbl) | 2:40 |
 | 75 | [Ghost Town \- Side\-B](https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS) | [Nozomi Nobody](https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL) | [Dawn \(Side\-B\)](https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV) | 3:16 |
 | 76 | [Night Owl Dream](https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Owl Dream](https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV) | 2:36 |
 | 77 | [Blue](https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Nightfall](https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP) | 2:49 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bAcly2ZueH.md) - [plain]
 | 97 | [Beacon of Hope](https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [Beacon of Hope](https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo) | 3:40 |
 | 98 | [The Sea](https://open.spotify.com/track/4kPPj8k1gBxVeC5KxzZvta) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Sea](https://open.spotify.com/album/1UsGJY24SYBJDXRDJe73VP) | 2:45 |
 | 99 | [Lie](https://open.spotify.com/track/2lL1mdmCo6LsO2JAKoFRw4) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Over Skies](https://open.spotify.com/album/1HKnGGSYzVlRN9qt08UdaP) | 4:07 |
-| 100 | [Fade](https://open.spotify.com/track/523JhlyXKv5nUyRUFbYSlS) | [JIDA](https://open.spotify.com/artist/0Yr4WTbWPoSarkxhU1eS5b), [Rachel Lim](https://open.spotify.com/artist/4LY4Kd3wNEZxMwZygueoqc) | [FADE AWAY](https://open.spotify.com/album/4dXqGDJUhy6JUqulb1aAP1) | 3:33 |
+| 100 | [哀しい予感 / リリウム](https://open.spotify.com/track/0Ov5RZIZfDD8A2d9nOWUgQ) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [アイル](https://open.spotify.com/album/3iPvyiDqZv85VVHWqCSfjQ) | 4:05 |
 
-Snapshot ID: `AAAAAH9+i2lPTHq9ueSArnx7/Nepsq7I`
+Snapshot ID: `AAAAAPrvUJ8tMH3mZYAHnJ5rrS3CkGfd`

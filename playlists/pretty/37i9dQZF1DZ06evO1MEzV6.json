@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 126901,
+  "num_followers": 126937,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAAd/7BNCScN/zb+MXGH6P+M",
+  "snapshot_id": "am6IgAAAAAAISvpHNVoOOsjgOj0L4YAM",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 158195,
-      "name": "Everest",
-      "url": "https://open.spotify.com/track/13GNwY7azIE7J0VJUaz18S"
+      "duration_ms": 194994,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF"
     },
     {
       "added_at": null,
@@ -519,6 +519,22 @@
       "duration_ms": 184600,
       "name": "One Time",
       "url": "https://open.spotify.com/track/0lFB606QmOZ6Lbd6ODhJ0P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158195,
+      "name": "Everest",
+      "url": "https://open.spotify.com/track/13GNwY7azIE7J0VJUaz18S"
     },
     {
       "added_at": null,
@@ -548,9 +564,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 194994,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF"
+      "duration_ms": 194173,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
     },
     {
       "added_at": null,
@@ -616,9 +632,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
+      "duration_ms": 189932,
+      "name": "Dye It Red",
+      "url": "https://open.spotify.com/track/02EKM4d0J6AftgttumTzzB"
     },
     {
       "added_at": null,
@@ -680,9 +696,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 189932,
-      "name": "Dye It Red",
-      "url": "https://open.spotify.com/track/02EKM4d0J6AftgttumTzzB"
+      "duration_ms": 90928,
+      "name": "Back To Mars",
+      "url": "https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv"
     },
     {
       "added_at": null,
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 90928,
-      "name": "Back To Mars",
-      "url": "https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv"
+      "duration_ms": 260024,
+      "name": "How Was Your Day?",
+      "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
     },
     {
       "added_at": null,
@@ -812,25 +828,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 260024,
-      "name": "How Was Your Day?",
-      "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Susie May",
-        "url": "https://open.spotify.com/album/6xzmdcRuP4SoAJB4gdhjop"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Susie May",
-      "url": "https://open.spotify.com/track/3JGhWkxALa6OLMjBv6yz79"
+      "duration_ms": 200280,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0QSPFCvGJlu0xR51gXG70M"
     }
   ],
   "unique_name": "This Is beabadoobee",

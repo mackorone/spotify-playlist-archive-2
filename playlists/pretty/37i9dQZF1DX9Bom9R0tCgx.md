@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 
 > All the stuff that will blow your speakers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,697 likes - 100 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,696 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Bom9R0tCgx.md) - [plain]
 | 99 | [Better Than U Thought](https://open.spotify.com/track/067FrGDLXv4oDOGrcCDCA6) | [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Better Than U Thought](https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG) | 3:09 |
 | 100 | [No Time](https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [No Time](https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI) | 2:36 |
 
-Snapshot ID: `AAAAAMkhISc5eL9msZC2VIFdEGp/Nnqi`
+Snapshot ID: `AAAAACgpvYBXVDEqhjOQPfXjKwZg3Iq0`

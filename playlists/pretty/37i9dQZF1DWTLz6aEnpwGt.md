@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 
 > Bach's most popular piano pieces, performed by the greatest pianists of the last century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,547 likes - 43 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,565 likes - 43 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLz6aEnpwGt.md) - [plain]
 | 42 | [Prelude & Fugue in C Minor \(Well\-Tempered Clavier, Book I, No\. 2\), BWV 847: I\. Prelude](https://open.spotify.com/track/3tRT6unYEvgBTbAdAWPSVp) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Johann Sebastian Bach](https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR) | 1:24 |
 | 43 | [Organ Sonata No\. 4, BWV 528: II\. Andante \[Adagio\] \(Transcr\. by August Stradal\)](https://open.spotify.com/track/5Pl2CXDkaP6WEnJ0bpKGOm) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Johann Sebastian Bach](https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR) | 5:26 |
 
-Snapshot ID: `AAAAAGsRatCLVViO2avkSEweNw/RMXU9`
+Snapshot ID: `AAAAAFwVaM3fZXvAAjnhpZ++7ceS3Vaf`

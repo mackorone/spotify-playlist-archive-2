@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: KYTES
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,015 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,005 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [time starts fading](https://open.spotify.com/track/04eXmbzjkJc3DXo8Ra6DnO) | [Philip Brooks](https://open.spotify.com/artist/6Bo5UEoUopq42HZX3apU1w) | [time starts fading](https://open.spotify.com/album/56DghgEPcBPpezSli7RS3S) | 2:53 |
 | 90 | [guetta](https://open.spotify.com/track/2956w9isZZO8JneuMhcpeS) | [Some Sprouts](https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp) | [guetta](https://open.spotify.com/album/6xFJgd7vfJQ7tgarkSHRE9) | 2:54 |
 
-Snapshot ID: `AAAAABttpTtzLSYKagXcBWncQ6gyN4AZ`
+Snapshot ID: `AAAAAP6eud8NlluAo0u2U71SctdzQ9zz`

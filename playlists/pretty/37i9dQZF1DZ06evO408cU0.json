@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 65042,
+  "num_followers": 64937,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAABwds4KXVMmh+za4NgXj8pN",
+  "snapshot_id": "am6IgAAAAADsY7G2AKsQmpu2H5LvEi+c",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "C\u00f3mo No Adorarla",
-      "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Historia De Mis Manos",
         "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 140453,
       "name": "El Que Se Enamora Pierde",
       "url": "https://open.spotify.com/track/24Yw6Hoi0sPaJKb16uQZGI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "C\u00f3mo No Adorarla",
+      "url": "https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3"
     },
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Segunda Opci\u00f3n",
-      "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Vas Amor (En Vivo)",
         "url": "https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 137555,
       "name": "Te Vas Amor (En Vivo)",
       "url": "https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Segunda Opci\u00f3n",
+      "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 163253,
-      "name": "Ella Es Mi Mujer",
-      "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Tiene Precio",
         "url": "https://open.spotify.com/album/5YvHY9xcYR1kjEm2Fpxu0B"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 183640,
       "name": "Si Se Trata De Ti",
       "url": "https://open.spotify.com/track/7Mdf5g453UuOPEwjlwc2X6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 163253,
+      "name": "Ella Es Mi Mujer",
+      "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
     },
     {
       "added_at": null,
@@ -835,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/2w7wcxm7qdWAGcwHIyR0WE"
+        "name": "Los Consentidos De Don Chuy",
+        "url": "https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W"
       },
       "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 154040,
-      "name": "Porque As\u00ed Ten\u00eda Que Ser",
-      "url": "https://open.spotify.com/track/5opgaluT0rfHMV2j1o5msW"
+      "duration_ms": 224801,
+      "name": "Los Consentidos De Don Chuy",
+      "url": "https://open.spotify.com/track/1ZaE8MEwoQkOS84hxTYX1m"
     },
     {
       "added_at": null,
@@ -883,28 +887,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Consentidos De Don Chuy",
-        "url": "https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W"
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/2w7wcxm7qdWAGcwHIyR0WE"
       },
       "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        },
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 224801,
-      "name": "Los Consentidos De Don Chuy",
-      "url": "https://open.spotify.com/track/1ZaE8MEwoQkOS84hxTYX1m"
+      "duration_ms": 154040,
+      "name": "Porque As\u00ed Ten\u00eda Que Ser",
+      "url": "https://open.spotify.com/track/5opgaluT0rfHMV2j1o5msW"
     },
     {
       "added_at": null,
       "album": {
-        "name": "10 Sones 10 Caballos (En Vivo)",
-        "url": "https://open.spotify.com/album/74I6cW9rqyeezf9O6wx21u"
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 175746,
-      "name": "El Toro Viejo - En Vivo",
-      "url": "https://open.spotify.com/track/6QioT6DTnKoThg07hs36xQ"
+      "duration_ms": 187720,
+      "name": "Mis Dos Vicios",
+      "url": "https://open.spotify.com/track/6HbeUTNk0RyDBgU4a1KwV6"
     }
   ],
   "unique_name": "This Is Banda Carnaval",

@@ -1,12 +1,12 @@
 {
   "description": "This is Arvo P\u00e4rt. The essential tracks, all in one playlist.",
-  "num_followers": 10931,
+  "num_followers": 10936,
   "original_name": "This Is Arvo P\u00e4rt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAADsRhq/00XJUnuMEJcPzliK",
+  "snapshot_id": "am6IgAAAAADfaxQ2UqZ48d34uX30VQPh",
   "tracks": [
     {
       "added_at": null,
@@ -483,30 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e4rt: And I Heard a Voice\u2026",
-        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+        "name": "Summa",
+        "url": "https://open.spotify.com/album/2BsayudJ3kdDFhsxUsT0Hh"
       },
       "artists": [
         {
+          "name": "Cello Octet Amsterdam",
+          "url": "https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS"
+        },
+        {
           "name": "Arvo P\u00e4rt",
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        },
-        {
-          "name": "Ene Salum\u00e4e",
-          "url": "https://open.spotify.com/artist/1kA5RkIt8z3OIRNkhTDQcJ"
         }
       ],
-      "duration_ms": 285493,
-      "name": "F\u00fcr Jan van Eyck",
-      "url": "https://open.spotify.com/track/43iHQ7h54AachjoHhJIBEO"
+      "duration_ms": 126090,
+      "name": "O-Antiphonen - O Schl\u00fcssel Davids",
+      "url": "https://open.spotify.com/track/1FDHW15yZPD8gQmLMima6g"
     },
     {
       "added_at": null,
@@ -559,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Summa",
-        "url": "https://open.spotify.com/album/2BsayudJ3kdDFhsxUsT0Hh"
-      },
-      "artists": [
-        {
-          "name": "Cello Octet Amsterdam",
-          "url": "https://open.spotify.com/artist/114TP69VjPUQpzdkNXEMrS"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 126090,
-      "name": "O-Antiphonen - O Schl\u00fcssel Davids",
-      "url": "https://open.spotify.com/track/1FDHW15yZPD8gQmLMima6g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "P\u00e4rt: And I Heard a Voice\u2026",
         "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
@@ -594,11 +566,15 @@
         {
           "name": "Jaan-Eik Tulve",
           "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        },
+        {
+          "name": "Ene Salum\u00e4e",
+          "url": "https://open.spotify.com/artist/1kA5RkIt8z3OIRNkhTDQcJ"
         }
       ],
-      "duration_ms": 239206,
-      "name": "Kleine Litanei",
-      "url": "https://open.spotify.com/track/2jOWbcKkslo88SVKQOMTYz"
+      "duration_ms": 285493,
+      "name": "F\u00fcr Jan van Eyck",
+      "url": "https://open.spotify.com/track/43iHQ7h54AachjoHhJIBEO"
     },
     {
       "added_at": null,
@@ -619,98 +595,6 @@
       "duration_ms": 148946,
       "name": "P\u00e4rt: F\u00fcr Alina",
       "url": "https://open.spotify.com/track/3DVCFBDqtnOpotsLC4lpuP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 304053,
-      "name": "Pari intervallo (Transc. Osokins for Piano)",
-      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
-        "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Hymn to a Great City for 2 Pianos",
-      "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "P\u00e4rt: And I Heard a Voice\u2026",
-        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 650000,
-      "name": "O Holy Father Nicholas",
-      "url": "https://open.spotify.com/track/0wD9XLtbl3dsOSDm9gPz8q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
-        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Estonian Philharmonic Chamber Choir",
-          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
-        },
-        {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
-        }
-      ],
-      "duration_ms": 141826,
-      "name": "Kanon Pokajanen: Kondakion",
-      "url": "https://open.spotify.com/track/528MASpGWZfylyQ5Y1Befd"
     },
     {
       "added_at": null,
@@ -755,6 +639,98 @@
       "duration_ms": 348080,
       "name": "Symphony No. 3: II. Pi\u00f9 mosso \u2013",
       "url": "https://open.spotify.com/track/3IWRSAKlUNxApJPX57CPTB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 239206,
+      "name": "Kleine Litanei",
+      "url": "https://open.spotify.com/track/2jOWbcKkslo88SVKQOMTYz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Hymn to a Great City for 2 Pianos",
+        "url": "https://open.spotify.com/album/4z7rij9qyC2uex6Yyl8Ydg"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Hymn to a Great City for 2 Pianos",
+      "url": "https://open.spotify.com/track/1IakFeQta7sykSFeiXJevB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 304053,
+      "name": "Pari intervallo (Transc. Osokins for Piano)",
+      "url": "https://open.spotify.com/track/37hHmSK0EOIgQlFStOSzej"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: Kanon Pokajanen",
+        "url": "https://open.spotify.com/album/3oeMnGEOlcZ0CQVfZAvZxy"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Estonian Philharmonic Chamber Choir",
+          "url": "https://open.spotify.com/artist/4xz6NoBwhQYH0TLJU8bn5a"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Kanon Pokajanen: Kondakion",
+      "url": "https://open.spotify.com/track/528MASpGWZfylyQ5Y1Befd"
     },
     {
       "added_at": null,
@@ -855,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: The Symphonies",
-        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+        "name": "P\u00e4rt: And I Heard a Voice\u2026",
+        "url": "https://open.spotify.com/album/339sCdFl3YBtB63YJV3yfJ"
       },
       "artists": [
         {
@@ -864,17 +840,17 @@
           "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
         },
         {
-          "name": "NFM Wroc\u0142aw Philharmonic",
-          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
         },
         {
-          "name": "T\u00f5nu Kaljuste",
-          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
         }
       ],
-      "duration_ms": 488706,
-      "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
-      "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
+      "duration_ms": 650000,
+      "name": "O Holy Father Nicholas",
+      "url": "https://open.spotify.com/track/0wD9XLtbl3dsOSDm9gPz8q"
     },
     {
       "added_at": null,
@@ -903,6 +879,30 @@
       "duration_ms": 566293,
       "name": "Cantique des degr\u00e9s",
       "url": "https://open.spotify.com/track/1NXUKupy1SizGnr4wR9pTd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: The Symphonies",
+        "url": "https://open.spotify.com/album/1NwbomenimZbPUZpgIdIkF"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "T\u00f5nu Kaljuste",
+          "url": "https://open.spotify.com/artist/4MECrpIPG1u3XtHd2YXbrT"
+        }
+      ],
+      "duration_ms": 488706,
+      "name": "Symphony No. 4 \"Los Angeles\": III. Insistentemente \u2013 Con intimo sentimento \u2013 Deciso",
+      "url": "https://open.spotify.com/track/0BYRoMmBnczcHdhOwHqyAq"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Arvo",
-        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
-      },
-      "artists": [
-        {
-          "name": "Georgijs Osokins",
-          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
-        },
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        }
-      ],
-      "duration_ms": 194480,
-      "name": "2 Sonatinas for Piano, Op. 1 No. 1: II. Larghetto",
-      "url": "https://open.spotify.com/track/22PAROCzns7nT8CIOnW4JA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arvo P\u00e4rt: Tractus",
         "url": "https://open.spotify.com/album/165jhGJYICcxKlxIHa1zOF"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 177626,
       "name": "Veni creator",
       "url": "https://open.spotify.com/track/1IbO6gnssVeQ6wKTpGCw7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Arvo",
+        "url": "https://open.spotify.com/album/3HSD0Eu5R636MJLr45g8A6"
+      },
+      "artists": [
+        {
+          "name": "Georgijs Osokins",
+          "url": "https://open.spotify.com/artist/5Cnd5TI2AHjLWqHabxkeuO"
+        },
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        }
+      ],
+      "duration_ms": 194480,
+      "name": "2 Sonatinas for Piano, Op. 1 No. 1: II. Larghetto",
+      "url": "https://open.spotify.com/track/22PAROCzns7nT8CIOnW4JA"
     },
     {
       "added_at": null,
@@ -1043,30 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arvo P\u00e4rt: The Deer's Cry",
-        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
-      },
-      "artists": [
-        {
-          "name": "Arvo P\u00e4rt",
-          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
-        },
-        {
-          "name": "Vox Clamantis",
-          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
-        },
-        {
-          "name": "Jaan-Eik Tulve",
-          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
-        }
-      ],
-      "duration_ms": 490920,
-      "name": "And One of the Pharisees...",
-      "url": "https://open.spotify.com/track/5UmWNrOHKKvsuwl6DhdSIM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gidon Kremer plays P\u00e4rt/Weinberg",
         "url": "https://open.spotify.com/album/76PhfX8jkHTQgZto3ywBDh"
       },
@@ -1099,6 +1075,30 @@
       "duration_ms": 576360,
       "name": "Tabula rasa: I. Ludus. Con moto - Live",
       "url": "https://open.spotify.com/track/62a9yYZe25B02RPN8ymjQt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arvo P\u00e4rt: The Deer's Cry",
+        "url": "https://open.spotify.com/album/7qSNxkOYYu5FyBwf64batm"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Vox Clamantis",
+          "url": "https://open.spotify.com/artist/2o4fP24SuANxgJSKLStc8p"
+        },
+        {
+          "name": "Jaan-Eik Tulve",
+          "url": "https://open.spotify.com/artist/30LOKkeDcYJcBwsiiNYq7k"
+        }
+      ],
+      "duration_ms": 490920,
+      "name": "And One of the Pharisees...",
+      "url": "https://open.spotify.com/track/5UmWNrOHKKvsuwl6DhdSIM"
     },
     {
       "added_at": null,

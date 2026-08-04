@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 
 > Instrumental selections from the South Indian school of music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,139 likes - 75 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,142 likes - 75 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 51 | [Rāga: Kharaharapriya / Ālāpana](https://open.spotify.com/track/1ibvLixDYokvMwAAex6ZA6) | [Ranganayaki Rajagopalan](https://open.spotify.com/artist/5kUDJrh7qHEz1aZQk2QWUi) | [South India: Ranganayaki Rajagopalan—Continuity in the Karaikudi Vina Style](https://open.spotify.com/album/1TNRXFTFwiYduNDHEVKOGv) | 7:48 |
 | 52 | [Raagam Keeravani \- Aalapanai](https://open.spotify.com/track/7Br9HxJ06JfKzWQlD3HXJs) | [Akkarai Subhalakshmi](https://open.spotify.com/artist/2SQohb4X5sNjoNZKlXzYnn) | [Keeravani \- Ragam, Thaanam, Pallavai](https://open.spotify.com/album/3iwiBgNFdHZCaPrXDTBLPN) | 19:29 |
 | 53 | [Senthamizh](https://open.spotify.com/track/28T2AZC7zmWY9k4KreLNBr) | [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Bharatiyaar Songs \- Veena](https://open.spotify.com/album/17TcgHNFqFiVOt2SpwMsNO) | 2:47 |
-| 54 | [Ramabhirama Darbar Misrachappu](https://open.spotify.com/track/0dhXKFpfhZMFeEPgdbIGGn) | [Kunnakudi Vaidyanathan](https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr) | [South Indian Classical Music](https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1) | 7:39 |
-| 55 | [Vinayaka: Raag Hamsadhwani \- Aadi](https://open.spotify.com/track/5twmdIDcChJG4rmq6Xf1G8) | [Veena Kuppayyar](https://open.spotify.com/artist/02L5MffVcbQM4PDGdUGc5V), [Vikku Vinayakram](https://open.spotify.com/artist/5xA5y17B4ipntbaVqifsoR), [V\. Selvaganesh](https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf), [V\. Umashankar](https://open.spotify.com/artist/3AZWYIosqMyjjHjBqTbgcO) | [Together](https://open.spotify.com/album/6EMgr5l82BhwaMhcuwkquD) | 4:55 |
+| 54 | [Vinayaka: Raag Hamsadhwani \- Aadi](https://open.spotify.com/track/5twmdIDcChJG4rmq6Xf1G8) | [Veena Kuppayyar](https://open.spotify.com/artist/02L5MffVcbQM4PDGdUGc5V), [Vikku Vinayakram](https://open.spotify.com/artist/5xA5y17B4ipntbaVqifsoR), [V\. Selvaganesh](https://open.spotify.com/artist/5fHFkjKfYRCErfRi2T3Nzf), [V\. Umashankar](https://open.spotify.com/artist/3AZWYIosqMyjjHjBqTbgcO) | [Together](https://open.spotify.com/album/6EMgr5l82BhwaMhcuwkquD) | 4:55 |
+| 55 | [Ramabhirama Darbar Misrachappu](https://open.spotify.com/track/0dhXKFpfhZMFeEPgdbIGGn) | [Kunnakudi Vaidyanathan](https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr) | [South Indian Classical Music](https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1) | 7:39 |
 | 56 | [Nagumomu \- Abheri](https://open.spotify.com/track/6bq64ZSkwzDDtuVvGEebNP) | [Tyagaraja](https://open.spotify.com/artist/4bL34J5iZitrBLMZ9LZJTu), [K\. S\. G\. Somanathan](https://open.spotify.com/artist/0oJfpDHkMLKr82gj28370X) | [Mangala Naadaswaram \- For Marriages And Auspicious Functions](https://open.spotify.com/album/57Kgxjj6RZsfgSzgsBlTmc) | 13:38 |
 | 57 | [Thevaram Mangayarkarasi Bowli Adi](https://open.spotify.com/track/1r9t9EOQNsHPaJ9VuJVqYk) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Kalaimamani Prabhavathi Ganesan](https://open.spotify.com/artist/1hSMbbkHXW3qSfn5pkyL0T) | [Mahathi Melodies](https://open.spotify.com/album/65QSYZFbuZk8FtoG6mlb9B) | 5:18 |
 | 58 | [Gnana Vinayakane Gambheera Natai Adi Papanasam Sivan Saxopho](https://open.spotify.com/track/2t01bxdtsCcuuSzWnB9UA1) | [Kadri Gopalnath](https://open.spotify.com/artist/79iXBDwJoeVZZSe1AV7ta7) | [South Indian Classical Music](https://open.spotify.com/album/0JqUGc58GMCVc8St4UP8u1) | 9:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1VHgGvdVgaZ.md) - [plain]
 | 74 | [Vatapiganapatim \- Hamsadhwani \- Adi](https://open.spotify.com/track/1LlblRoa8Tq4WEuG5O2nVG) | [Raghunath Manet](https://open.spotify.com/artist/7LG3n8KkTBzh65kGB1XHEq), [Umayalpuram K\. Sivaraman](https://open.spotify.com/artist/6DeWClYw2sFmW2UMltys8Q), [Subba Lakshmi](https://open.spotify.com/artist/1IP82ozdzN3GO1RIWWAHFG) | [Yal Isai](https://open.spotify.com/album/3ESl4FTRUz4g5aBltmp768) | 11:19 |
 | 75 | [Sree Mahaganapathim \- Atana \- Adi](https://open.spotify.com/track/5VfJfkpigSFdU6t9pHiWhm) | [Kunnakudi Vaidyanathan](https://open.spotify.com/artist/62FaUNuh9WuO4932LEQWyr), [Valayapatti A\. R\. Subramaniam](https://open.spotify.com/artist/74Wx6RR7idiXa5emx0LUIa), [Kannan](https://open.spotify.com/artist/5qGDWLq39656h7QldZuTc1) | [Kunnakudi Vaidyanathan, Vol\. 1](https://open.spotify.com/album/4lLLyjxSXfHsZAoWN5y2rd) | 8:10 |
 
-Snapshot ID: `AAAAAPbEz30QCmP1paLq9LAVuzMwQCeW`
+Snapshot ID: `AAAAAKikTGMPtB2iRuCZKcTb683e22W0`

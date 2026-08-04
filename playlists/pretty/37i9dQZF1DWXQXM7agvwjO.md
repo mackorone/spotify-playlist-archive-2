@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Sunny Day Service \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,828 likes - 98 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,812 likes - 98 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 73 | [南から](https://open.spotify.com/track/0nr1kiGxE5LVOdwPdI5hTw) | [Tenniscoats](https://open.spotify.com/artist/1srUxd7Sj9tebPN1O8wEi8), [Tape](https://open.spotify.com/artist/3uSlMGXphiafjKQwbj4QwW) | [南から](https://open.spotify.com/album/7yIyD0qRkh1NdSwN8nb05w) | 4:22 |
 | 74 | [Satellite](https://open.spotify.com/track/0zUL8i2OSOvGrcRPCWQjY5) | [GoodNight Daisy 黛西晚安区](https://open.spotify.com/artist/1XYiIpPqXiggcYiePT4BRg) | [爱源 \- Primitive Love](https://open.spotify.com/album/4PDjjzDMnVQ8stYGROUZ7d) | 5:01 |
 | 75 | [Good Waves Island](https://open.spotify.com/track/7qzY06e8kjU1EFakPvBP5E) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT), [阿弗娄](https://open.spotify.com/artist/45AmuWhASTkl17qmyearER) | [Good Waves Island](https://open.spotify.com/album/1qI6WrLnmtOHKCggLtslnC) | 3:36 |
-| 76 | [Ganun Pa Rin](https://open.spotify.com/track/4KY8kJGQqVA9VzPzvNKTrH) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Ganun Pa Rin](https://open.spotify.com/album/78LyI9YGLRQmLbjxvrEriu) | 4:42 |
+| 76 | [Ganun Pa Rin](https://open.spotify.com/track/4KY8kJGQqVA9VzPzvNKTrH) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Ganun Pa Rin](https://open.spotify.com/album/78LyI9YGLRQmLbjxvrEriu) | 4:40 |
 | 77 | [Elf](https://open.spotify.com/track/6ysmflcXWQ6pfqq8gWTRAB) | [milkiwav](https://open.spotify.com/artist/4Po3fe9ao2ScnGDkhKxCgY) | [Qualia](https://open.spotify.com/album/7HIfWs3ruwOVlcFwAaJFE2) | 4:46 |
 | 78 | [เผื่อวันหนึ่งเราต้องจากลา \(Goodbye, Love\)](https://open.spotify.com/track/6Wr6pgy0PYCtWSIJpIh4II) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [เผื่อวันหนึ่งเราต้องจากลา \(Goodbye, Love\)](https://open.spotify.com/album/174hNKznr77dJwMjmYI6U1) | 5:06 |
 | 79 | [The Hardest Thing](https://open.spotify.com/track/1esXEYlMNJfaeO03HggvI6) | [Charlie Lim](https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ), [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [The Hardest Thing](https://open.spotify.com/album/2PLZ9hI8mDeub9AFbltuo2) | 3:56 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 97 | [gud ppl](https://open.spotify.com/track/7z9TVbK9PCvOCQxSox2CuL) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [gud ppl](https://open.spotify.com/album/3K4da946zuDcBYNJGFUgbS) | 2:32 |
 | 98 | [slowly](https://open.spotify.com/track/0PJ5G0o5g6rvsgEgJ0QQe5) | [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [slowly](https://open.spotify.com/album/5pEsXaw4mCw5IgQLsjTkNg) | 3:50 |
 
-Snapshot ID: `AAAAAEwhaj+BhPrvNxG6zEv3idyO/eR7`
+Snapshot ID: `AAAAADpYO7wB1GbyTOjwthhX0anhGYqZ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,195 likes - 234 songs - 14 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,196 likes - 234 songs - 14 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,8 +179,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 169 | [Got To Give](https://open.spotify.com/track/0pbo6zLqhafAy4r1T4F4jD) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 4:37 |
 | 170 | [Ghost In My Head](https://open.spotify.com/track/6W1EBxpZcZpaqPoMubgHIC) | [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [Ghost In My Head EP](https://open.spotify.com/album/2WFIJV7ySO8kurCIVYcUHt) | 3:33 |
 | 171 | [Frenzy](https://open.spotify.com/track/5JngFjxkVIvlGSsHgUME7B) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:00 |
-| 172 | [On My Way](https://open.spotify.com/track/5yYcUqdQoaYa3udHBsUMDA) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Haywood](https://open.spotify.com/artist/2qlW5MFeHssyUCbitfNmJx) | [On My Way](https://open.spotify.com/album/7s8wjo42XcZ3rLN78QuJEt) | 3:16 |
-| 173 | [L.E.S\. Girl](https://open.spotify.com/track/2vJG9o6yqmjdZRNgMH8xb3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 2:50 |
+| 172 | [L.E.S\. Girl](https://open.spotify.com/track/2vJG9o6yqmjdZRNgMH8xb3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 2:50 |
+| 173 | [On My Way](https://open.spotify.com/track/5yYcUqdQoaYa3udHBsUMDA) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Haywood](https://open.spotify.com/artist/2qlW5MFeHssyUCbitfNmJx) | [On My Way](https://open.spotify.com/album/7s8wjo42XcZ3rLN78QuJEt) | 3:16 |
 | 174 | [Human](https://open.spotify.com/track/4KuzHWqGzXmDk4lMrtawWa) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:20 |
 | 175 | [You Without Me](https://open.spotify.com/track/1976jJn3uLmKNUa9cIWm5q) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:39 |
 | 176 | [About Last Night](https://open.spotify.com/track/6zCvA2MctP74yeHgvlDkFn) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Saturday Night, Sunday Morning](https://open.spotify.com/album/7KrrgdgGjU4TqTCEdBilA0) | 3:28 |
@@ -243,4 +243,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 233 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 | 234 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `AcYiSAAAAADmKfY0g8gUHQHcFb7P2dRY`
+Snapshot ID: `AcYnrAAAAAA1DHjV9FF4Ds11RRtZtzHP`

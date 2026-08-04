@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,454 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,423 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 99 | [Feel It All](https://open.spotify.com/track/26SdeD5OY1YzFsDQCNnCIp) | [Kita Menari](https://open.spotify.com/artist/1noOoapXyyCG1nYTH436qw) | [Feel It All](https://open.spotify.com/album/7p4YxLifRcs95dxZo8aVXd) | 4:07 |
 | 100 | [Moonshine \- Chronometric Edit](https://open.spotify.com/track/3y3m0x6cIF0tGC1DTuAlNA) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Moonshine](https://open.spotify.com/album/4BNKxY0s8jTrRoMQwYsGlY) | 3:12 |
 
-Snapshot ID: `AAAAAAYZ5cQ5/VpVEh7XhvO3gUuUxRq/`
+Snapshot ID: `AAAAAAzcJsSC5PYAUKdV7WBFFUwg06/Q`

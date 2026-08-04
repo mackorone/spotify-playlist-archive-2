@@ -2,9 +2,9 @@
 
 ### [Taewitdak Radio](https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW)
 
-> With Yeat, Ken Carson, Cuo Zay and more
+> With Yeat, Cuo Zay, Autumn! and more
 
-292 songs - 11 hr 25 min
+294 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,8 +143,9 @@
 | [king of the pumpkin patch](https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Shadow](https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf) | [thinking of you, wherever you are](https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB) | 3:09 | 2025-12-10 |  |
 | [kombucha](https://open.spotify.com/track/4JrovQ9zoSKkGGSojCJycx) | [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V) | [kombucha](https://open.spotify.com/album/387rs95u8Re0cTBJNpNajz) | 2:08 | 2025-12-08 | 2025-12-22 |
 | [Ky’reemoo Irving](https://open.spotify.com/track/3DCMa648m8EHDPZwjxrWva) | [Reemo](https://open.spotify.com/artist/1ytfDr5Kx6uRKsHTD31OzE) | [Kyriemo Irving](https://open.spotify.com/album/399iVBAT5cROxGpbcFGxmK) | 2:18 | 2026-02-28 | 2026-03-26 |
-| [Lamelo Ball](https://open.spotify.com/track/0qB6b20fJJ2XJsiUVDM5LQ) | [Blockwork](https://open.spotify.com/artist/16Ne2S96l791xLUXKov8hE) | [Lamelo Ball](https://open.spotify.com/album/5FUkJjy917v1bJmSd2lO78) | 2:50 | 2026-07-28 |  |
+| [Lamelo Ball](https://open.spotify.com/track/0qB6b20fJJ2XJsiUVDM5LQ) | [Blockwork](https://open.spotify.com/artist/16Ne2S96l791xLUXKov8hE) | [Lamelo Ball](https://open.spotify.com/album/5FUkJjy917v1bJmSd2lO78) | 2:50 | 2026-07-28 | 2026-08-04 |
 | [Leave the state](https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY) | [Shadstackzz](https://open.spotify.com/artist/4Iiocuqzvz9MHDLHcQw2Iu) | [BALL HOGGIN](https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN) | 1:48 | 2025-12-21 |  |
+| [Level](https://open.spotify.com/track/4C9vjLjLbMdoMEtcCSoJ6K) | [Fijibeats](https://open.spotify.com/artist/0vDfhME734ZwBJS5Rer3yv), [Aimlokk](https://open.spotify.com/artist/7gREA0lxYOXVBT1QGCy6ZS), [Wittyyb](https://open.spotify.com/artist/0BZSKK4L5hauP3AKK23D6c) | [Practical Basketball \(Original Soundtrack\)](https://open.spotify.com/album/5UBETmTHsqERFsbAz8zrpJ) | 2:16 | 2026-08-04 |  |
 | [Life Sentences](https://open.spotify.com/track/02xKoruItxM6WIMasMuhrC) | [ronehl](https://open.spotify.com/artist/6IAzgtmHLQwtzjWe9W8WNY) | [Ronehl Season, VOL 1](https://open.spotify.com/album/3vCW4QqTYC0RdqYpyJC065) | 2:11 | 2026-07-22 |  |
 | [Live Ya Life!](https://open.spotify.com/track/01jaNqZRf5rBKPF5CfKQVV) | [xtsy\*](https://open.spotify.com/artist/5spNfNcEgssXmB1893yRLN), [pink6](https://open.spotify.com/artist/22WZWH3ID3iUnZ9lAZkkVv) | [Live Ya Life!](https://open.spotify.com/album/6YPUz3kvUSCiVgxre25MdR) | 2:30 | 2026-03-02 | 2026-04-11 |
 | [LO NE LY](https://open.spotify.com/track/4WLxfQq7p0iyvaoOQLTYyO) | [Khalil?](https://open.spotify.com/artist/0TzMK687XQf4EwLFYvpDLz) | [LO NE LY](https://open.spotify.com/album/5hkZLRDPs9Npdp70zZH5wS) | 2:23 | 2025-11-29 |  |
@@ -193,13 +194,13 @@
 | [Outcast Loyalty](https://open.spotify.com/track/2umGgxNHbu7lpwfv743kNl) | [The Outcastkid](https://open.spotify.com/artist/4BUKPBM2FnGlDqnNKE9FYt) | [Outcast Loyalty](https://open.spotify.com/album/3wBmmo5J0hujCTHn5YMMu9) | 2:00 | 2026-06-06 | 2026-06-27 |
 | [OUTRO](https://open.spotify.com/track/0VIkfu39eJ3BBmmHvt6bQ5) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD), [F1LTHY](https://open.spotify.com/artist/6NmvwMFvNRQmWdW5N1nxsC) | [WAKE UP LUCKI](https://open.spotify.com/album/0BA1h18jGi9tQ4iUAacLMG) | 3:22 | 2025-12-31 | 2026-04-12 |
 | [Outta Time](https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3) | [From The Heart](https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz) | 2:02 | 2025-12-09 | 2026-08-02 |
-| [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 | 2025-12-22 | 2026-08-01 |
+| [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 | 2025-12-22 |  |
 | [Pause](https://open.spotify.com/track/5l34Ale9qMFJZ0Pgclgejq) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Danny G Beats](https://open.spotify.com/artist/2GKXcaJjE7H2z9WdY7sG0x), [jakesand](https://open.spotify.com/artist/3H9itUD9PSCzrLJfe3tllo) | [Pause](https://open.spotify.com/album/23YuMwACsvWrPlBf3mPOXi) | 2:02 | 2026-03-28 | 2026-03-29 |
 | [PDL](https://open.spotify.com/track/3k2xRF5wGlAZnRsSPOOAXn) | [Pasto Flocco](https://open.spotify.com/artist/4dQKBmnccqxpFiAk5qmvy7) | [GLE Presents: BLUEBILLZ EP](https://open.spotify.com/album/2yLq95mpSfaL9959tkbyL8) | 2:07 | 2025-11-29 | 2025-12-01 |
 | [petrol](https://open.spotify.com/track/3JBtFRUOBOSTUTMNu9s3MM) | [1oneam](https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv) | [Sin +](https://open.spotify.com/album/0SGShXyFMMIf64gSEI4Whz) | 1:52 | 2025-12-09 | 2026-01-23 |
 | [POETRY](https://open.spotify.com/track/7ynWM21CmrgpzyllPO4Rw3) | [Lord Simmy](https://open.spotify.com/artist/1x56BjunhKrTqDZSXvOgFt) | [POETRY](https://open.spotify.com/album/15vdbHHoAC9ouX5LzCr5Tz) | 2:12 | 2025-11-29 | 2026-02-15 |
 | [Pole Janky](https://open.spotify.com/track/3b01MpEZcTCBOLj0XTsryu) | [Wank Stiller](https://open.spotify.com/artist/46Zk36M5Lzblzcq24MeM31) | [Therapeutic](https://open.spotify.com/album/72kRgrX5AaI1Ix4oVztqRd) | 1:58 | 2026-06-25 | 2026-06-26 |
-| [Porsches In The Rain](https://open.spotify.com/track/0WMgVB4OEm5JEj08lBtBgf) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [Almighty Jay](https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU) | [YBN: The Mixtape](https://open.spotify.com/album/6l4itLa2SkBAVBASZ2WKFv) | 3:00 | 2026-06-11 |  |
+| [Porsches In The Rain](https://open.spotify.com/track/0WMgVB4OEm5JEj08lBtBgf) | [YBN Nahmir](https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal), [Almighty Jay](https://open.spotify.com/artist/2HWXxzgBIr0RMSZmvMZeJU) | [YBN: The Mixtape](https://open.spotify.com/album/6l4itLa2SkBAVBASZ2WKFv) | 3:00 | 2026-06-11 | 2026-08-04 |
 | [Price I Pay](https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4) | [C Choppa](https://open.spotify.com/artist/1MRuYaXPATMYujESraf5cN) | [Price I Pay](https://open.spotify.com/album/0FujItN4Qr3bhxwWTl0voS) | 2:41 | 2025-12-05 |  |
 | [Pub Sub](https://open.spotify.com/track/0vtfVaApMNkfJr5yhEmnX4) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Scarecrow](https://open.spotify.com/album/6VrC29ahnGNino6ddscM8h) | 3:14 | 2025-11-29 |  |
 | [pull off](https://open.spotify.com/track/4pOLfBnRTOI9bqsL3PNVle) | [junesforever](https://open.spotify.com/artist/5lwt02zQQ3wqkUyXCeJB4f) | [pull off](https://open.spotify.com/album/4ufciFofFM0Kw7r9WP1a59) | 2:31 | 2026-01-15 | 2026-03-28 |
@@ -215,7 +216,7 @@
 | [Repent](https://open.spotify.com/track/3aoqI500xmOZ4JmYkvSbRo) | [okxyvro!](https://open.spotify.com/artist/5TsEhWdJyal3IvCsy98s6m) | [STARSTRUCK](https://open.spotify.com/album/4qkgoGNJTqhpSLdbxUr8tV) | 1:39 | 2026-07-28 |  |
 | [Ride For Me](https://open.spotify.com/track/7rEwfqQMPIXlDWktGbDI3R) | [Rayy Dubb](https://open.spotify.com/artist/5JkD3p2fJbGwVagjQSfD7h) | [Industry](https://open.spotify.com/album/2D9cqvphij7wSJXIT8SqR4) | 1:58 | 2026-02-26 | 2026-03-21 |
 | [RIP Goonew](https://open.spotify.com/track/3ZnvoxSBGWYFGvjaSDRdPq) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [BeezyB](https://open.spotify.com/artist/0beKhPdlNQhonFGiOOJHqi) | [Slimebeezy 3](https://open.spotify.com/album/0g8gja4ZdfXMVK2fWSCbWc) | 2:20 | 2026-01-22 | 2026-03-18 |
-| [RiRi](https://open.spotify.com/track/6lAIPoKSesDrWRBiDt6soO) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ) | [RiRi](https://open.spotify.com/album/2EOFfe8pxXUXgPfcFyLLWy) | 2:28 | 2026-07-31 |  |
+| [RiRi](https://open.spotify.com/track/6lAIPoKSesDrWRBiDt6soO) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ) | [RiRi](https://open.spotify.com/album/2EOFfe8pxXUXgPfcFyLLWy) | 2:28 | 2026-07-31 | 2026-08-04 |
 | [ROZAY](https://open.spotify.com/track/6QNDtYEUe7VCx2PuyUS9aS) | [Kuhsigh](https://open.spotify.com/artist/32BCk4QYDIXJSqgrEvfwNq) | [ROZAY](https://open.spotify.com/album/1K79ej2VVyNJKYrQDbQthM) | 2:05 | 2025-11-29 | 2025-12-09 |
 | [Rubbin Of The Pain x New Flash](https://open.spotify.com/track/2uYPKtXblH7QOB6AbDs55f) | [Srino n Fonda](https://open.spotify.com/artist/2PIEUOwnDW10QyRrbfFxBC) | [Rubbin Of The Pain x New Flash](https://open.spotify.com/album/4zVueNkn5xVZhXKkEK3vI5) | 2:21 | 2026-03-18 | 2026-04-03 |
 | [Rubbin Of The Pain x New Flesh](https://open.spotify.com/track/3G7Ojhw4jSM4W0HqqUwDbz) | [Hysteria](https://open.spotify.com/artist/1s8L2v0OBabPogBPIKv6IY), [Srino n Fonda](https://open.spotify.com/artist/2PIEUOwnDW10QyRrbfFxBC) | [Rubbin Of The Pain x New Flesh](https://open.spotify.com/album/6pMUqsCxey6imx0CwE7NTE) | 2:21 | 2026-04-16 | 2026-04-17 |
@@ -291,6 +292,7 @@
 | [Wiseman Freestlye](https://open.spotify.com/track/0sMqm4VQAnPkcs1wSSXpKU) | [$t3PPA](https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU) | [Wiseman Freestlye](https://open.spotify.com/album/0phJFb8bWbZv9Z88hKEFkZ) | 2:08 | 2026-05-06 | 2026-06-15 |
 | [Wish Wash](https://open.spotify.com/track/4iJi7gi85QzVBolEpCChyf) | [Barretta](https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl) | [Wish Wash](https://open.spotify.com/album/3xg47ag1tVBQ6RZz9ZdOfw) | 1:52 | 2025-11-29 | 2025-11-30 |
 | [Wok Doc](https://open.spotify.com/track/7yxn9ThhBulmNVnKVWXlAl) | [Whit3B0y](https://open.spotify.com/artist/3tLZrcybns73sE3D3mB6Zv) | [Wok Doc](https://open.spotify.com/album/6zHfeUfDGybyqwLmPLCAwT) | 1:45 | 2026-07-04 | 2026-07-22 |
+| [Won't Change](https://open.spotify.com/track/0xdMI51U6FoTqKRPYLH96w) | [Phobu](https://open.spotify.com/artist/1O9Vke6Wm4oBG9lXUIk5ha) | [Wealthi](https://open.spotify.com/album/6VPdDIZ8XvSfPaQh4bwfH9) | 2:20 | 2026-08-04 |  |
 | [Ww3](https://open.spotify.com/track/3su7hKSR6ClzYUchQVQoIe) | [Luhtrav](https://open.spotify.com/artist/6wlH6rlupETgfLyzNULdZp), [Luhb](https://open.spotify.com/artist/05AJ8ipkIzaRzyjISjh0LF) | [Been long](https://open.spotify.com/album/62UGxkFgVv7awFGp4125XM) | 2:59 | 2026-05-03 | 2026-07-08 |
 | [XTC](https://open.spotify.com/track/7HVYOhVD0wOlA09qoKFxSI) | [PUNISHA](https://open.spotify.com/artist/3A5EcOZe9K1toLk6v4541Q) | [XTC](https://open.spotify.com/album/5sdEGZfppT2PxH9tSyRYEY) | 2:07 | 2026-02-04 | 2026-02-24 |
 | [Ya Ya](https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:18 | 2025-11-29 | 2026-04-04 |

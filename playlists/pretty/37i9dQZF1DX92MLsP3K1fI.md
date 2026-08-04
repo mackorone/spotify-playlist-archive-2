@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más fresh! Banda MS en portada ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,672 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,691 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 69 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 |
 | 70 | [Te Amé +](https://open.spotify.com/track/6afTXhyxiBpokGmbeCtWCO) | [María Bolio](https://open.spotify.com/artist/5YpEQND4xgBEwvj98Bq6NR) | [A MÍ TAMBIÉN ME PASÓ](https://open.spotify.com/album/23HsDOXlfBhWRCiVkrqwC3) | 2:35 |
 
-Snapshot ID: `AAAAAFGFbdVfFfvFTcsAiR9GnkKZqSpk`
+Snapshot ID: `AAAAAEcP0g0eXhU84LxpZJyquO/hycZg`

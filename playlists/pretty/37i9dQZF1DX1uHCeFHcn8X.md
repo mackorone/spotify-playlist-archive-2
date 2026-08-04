@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,611,414 likes - 250 songs - 15 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,611,540 likes - 250 songs - 15 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [Irony](https://open.spotify.com/track/0UEszsTJ5SezkEQPeAM9S9) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Irony](https://open.spotify.com/album/5KfnL4B6k6Uw6c5gTLATtZ) | 3:28 |
 | 250 | [Written in the Scars](https://open.spotify.com/track/4jyVtsexyS1kY6X3X3gmAw) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Freedom Child](https://open.spotify.com/album/3W9NClLDhTHyRmy8ZLfoJf) | 3:47 |
 
-Snapshot ID: `AAAAAMOMr3oOYELs0HRCxOw/bCDXUiD1`
+Snapshot ID: `AAAAAFPw8HZYSmAqCi9JHH0dRm2jpdsB`

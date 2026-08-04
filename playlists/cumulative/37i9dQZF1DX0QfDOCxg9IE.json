@@ -179,6 +179,32 @@
     },
     {
       "album": {
+        "name": "123",
+        "url": "https://open.spotify.com/album/1tYBcgettNOMqx658UdDyV"
+      },
+      "artists": [
+        {
+          "name": "JACK",
+          "url": "https://open.spotify.com/artist/1lnEx1FwS23OzDhfsUnLAf"
+        },
+        {
+          "name": "DAIMA",
+          "url": "https://open.spotify.com/artist/7r4upKMzJSsSZUrSBSBrwN"
+        },
+        {
+          "name": "DPC",
+          "url": "https://open.spotify.com/artist/2xfRh1ugELbF7WtA6MkSu1"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "123",
+      "url": "https://open.spotify.com/track/2kvgUHSXAmdz1K3x8D7Kkc"
+    },
+    {
+      "album": {
         "name": "22 (Remix)",
         "url": "https://open.spotify.com/album/2iQfuA5dmh6bwo79pQ2ee7"
       },
@@ -2997,6 +3023,32 @@
     },
     {
       "album": {
+        "name": "Love, Rack.",
+        "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144124,
+      "name": "CASINO",
+      "url": "https://open.spotify.com/track/0z0upHJWpIG4ZPkMpd9iYo"
+    },
+    {
+      "album": {
         "name": "LOVE CATCHER",
         "url": "https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F"
       },
@@ -5650,7 +5702,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 195319,
       "name": "GAME OVER",
       "url": "https://open.spotify.com/track/0xnBqZdLMIk0fgo9z44vwe"
@@ -7769,6 +7821,24 @@
     },
     {
       "album": {
+        "name": "Pou xoreveis kathe kalokairi?",
+        "url": "https://open.spotify.com/album/4eWkUEVPT2hmYB9zq0xXMm"
+      },
+      "artists": [
+        {
+          "name": "Yama",
+          "url": "https://open.spotify.com/artist/5PmSkZlPqZxUzN0pdSnL5J"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171827,
+      "name": "Kalokairi mou",
+      "url": "https://open.spotify.com/track/2vJR9YLKR2HBKulcjAhfvO"
+    },
+    {
+      "album": {
         "name": "...Kai O Eros Theos Einai",
         "url": "https://open.spotify.com/album/1PGtkSq9k685Yy4wCHFaf5"
       },
@@ -7970,6 +8040,32 @@
       "duration_ms": 231130,
       "name": "Keno",
       "url": "https://open.spotify.com/track/5bIY2tipWqaLOBanuPL4sF"
+    },
+    {
+      "album": {
+        "name": "Keri Anameno (Original Tv Series \"Sasmos\" Soundtrack)",
+        "url": "https://open.spotify.com/album/0tOyoAMSbSpjgYaaB1VziU"
+      },
+      "artists": [
+        {
+          "name": "Vasilis Skoulas",
+          "url": "https://open.spotify.com/artist/34eAojLdFdpko4FWeNxwSM"
+        },
+        {
+          "name": "Nicos Terzis",
+          "url": "https://open.spotify.com/artist/2eHBk2XpfdzxdHytj6oK9j"
+        },
+        {
+          "name": "Yiannis Kotsiras",
+          "url": "https://open.spotify.com/artist/6waWR57xXsgtWztHX1v8TB"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233433,
+      "name": "Keri Anameno - Original Tv Series \"Sasmos\" Soundtrack",
+      "url": "https://open.spotify.com/track/6yam1g0AJJFfTqCHj6awPn"
     },
     {
       "album": {
@@ -9460,7 +9556,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 179573,
       "name": "Me Xodepses",
       "url": "https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ"
@@ -9880,7 +9976,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 146820,
       "name": "MOLIS GNORISTIKAME",
       "url": "https://open.spotify.com/track/4SGfLxbpqOCh1xLCLDzK5g"
@@ -10014,6 +10110,32 @@
       "duration_ms": 173778,
       "name": "MONOTONIA",
       "url": "https://open.spotify.com/track/19ADuEN97q85XJ5Ngsjm3m"
+    },
+    {
+      "album": {
+        "name": "10 (PART 2)",
+        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154705,
+      "name": "MORE PUTA",
+      "url": "https://open.spotify.com/track/63mi2Pc1CeDGjNWUn7Rn1h"
     },
     {
       "album": {
@@ -14910,7 +15032,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 183000,
       "name": "TETTEH",
       "url": "https://open.spotify.com/track/0yOqiWYx9xb1DY4cRrzPX9"
@@ -15929,6 +16051,24 @@
     },
     {
       "album": {
+        "name": "Treli",
+        "url": "https://open.spotify.com/album/0OasXd6AxSD6XAD3eqWQQZ"
+      },
+      "artists": [
+        {
+          "name": "Kiko",
+          "url": "https://open.spotify.com/artist/4HsGxGuDLdt7cpXbOAhysV"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "Treli",
+      "url": "https://open.spotify.com/track/2V9GBPXZnjKnjMxOtDy4TW"
+    },
+    {
+      "album": {
         "name": "To Paraxeno Me Mena",
         "url": "https://open.spotify.com/album/5WTfJJrkGpfNC84T9ioBvf"
       },
@@ -16786,7 +16926,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -17230,7 +17370,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 282000,
       "name": "Zilevi I Nihta",
       "url": "https://open.spotify.com/track/3OhNprbIO3WYRqD3rO94fO"

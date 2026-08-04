@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 273026,
       "name": "Revelate",
       "url": "https://open.spotify.com/track/75WNwViYcYcgfCLD3rWtZu"
@@ -702,6 +702,32 @@
       "duration_ms": 155320,
       "name": "Say It To Me Now",
       "url": "https://open.spotify.com/track/1DqVnXqaTYRgifxIMzIKBY"
+    },
+    {
+      "album": {
+        "name": "The Swell Season",
+        "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218960,
+      "name": "Sleeping",
+      "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
     },
     {
       "album": {

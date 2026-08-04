@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Rod Wave, Cardi B,  Wale and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,725 likes - 53 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,805 likes - 53 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 52 | [HATE U NIGGAZ](https://open.spotify.com/track/0YHYh2YA8k96eJKmsAUAIf) | [RetcH](https://open.spotify.com/artist/4Jx84VBxI1tR2KGPNRFH9l) | [HATE U NIGGAZ](https://open.spotify.com/album/51KZJ8OeVdaS1xOEgGqgSh) | 4:05 |
 | 53 | [Script](https://open.spotify.com/track/7teVt9Ck28s26i0Ao8ZR9b) | [2Sdxrt3all](https://open.spotify.com/artist/1P8P73y8wFhXBybKRBzhbv) | [Letters To Myself](https://open.spotify.com/album/0Os8VWOUTegL6klaeDx4Zz) | 2:17 |
 
-Snapshot ID: `AAAAABQhwtP89+NSHgs/MOdxYqiOBWHs`
+Snapshot ID: `AAAAANmdV0c1/eGleMmvmVJNBzKE0xsF`

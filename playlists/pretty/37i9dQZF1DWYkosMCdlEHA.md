@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkosMCdlEHA.md) - [plain]
 | 74 | [Amor Fora Da Lei \- Acústico / Ao Vivo](https://open.spotify.com/track/35ivG7tuA3VNjIR8AFT9jJ) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:50 |
 | 75 | [Vá Viver \- Acústico / Ao Vivo](https://open.spotify.com/track/6TuiSfDGYyVZ7C5fxKOszw) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Acústico Na Casa Do Lago \(Acústico / Ao Vivo\)](https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60) | 3:25 |
 
-Snapshot ID: `AAAAAGBwqdQDCnPp6DzVBKArtJ2YK+vj`
+Snapshot ID: `AAAAAJOAKoXsEzcB8CKMkQC2JFFsxy6f`

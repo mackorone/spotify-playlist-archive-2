@@ -262287,6 +262287,28 @@
     },
     {
       "album": {
+        "name": "soul reply",
+        "url": "https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Riva Starr",
+          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179311,
+      "name": "soul reply",
+      "url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8"
+    },
+    {
+      "album": {
         "name": "Soul Shaking",
         "url": "https://open.spotify.com/album/5qiDg7H2bS9uSyef7wzgp3"
       },
@@ -262338,28 +262360,6 @@
       "duration_ms": 217882,
       "name": "Soulmates",
       "url": "https://open.spotify.com/track/7tGekWqgVeR84jTUTF3Fs1"
-    },
-    {
-      "album": {
-        "name": "soulreply",
-        "url": "https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        }
-      ],
-      "date_added": "2026-07-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 179311,
-      "name": "soulreply",
-      "url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8"
     },
     {
       "album": {

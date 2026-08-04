@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,847 likes - 120 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,569 likes - 120 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [Conception](https://open.spotify.com/track/24zHMJlukUkCZDYMHtdsmH) | [Sunstone Peaks](https://open.spotify.com/artist/4vJrDzGliiXij2qOHiMdqk) | [Conception](https://open.spotify.com/album/6JY6AYRDVvnIPkTzYpvLQf) | 2:58 |
 | 120 | [Sundarah](https://open.spotify.com/track/2xYZfuqHLq1xjMYolDfXgU) | [Science Of Dreams](https://open.spotify.com/artist/1KKkMFJaPv6zDbGVIPsM8c) | [Sundarah](https://open.spotify.com/album/51PLQqegU4a8RvIF8vQ2yW) | 2:34 |
 
-Snapshot ID: `AAAAAFE6YZCSjeEofBl8frkic7pCKEKk`
+Snapshot ID: `AAAAANXm0RgMIgb2ezOaJxcxqE4QEhWc`

@@ -4,7 +4,7 @@
 
 > 🇲🇦 أحسن أغاني البوب المغربي
 
-223 songs - 11 hr 54 min
+224 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Lmouje](https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Lmouje](https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV) | 3:22 | 2024-05-18 | 2026-04-01 |
 | [Loca](https://open.spotify.com/track/2QVScxNp2qLnKflRftE2Kx) | [Lakamura](https://open.spotify.com/artist/1ocBu5jVKJJ6xW0Sw0r87b) | [Loca](https://open.spotify.com/album/531r0snKCGKu4Eb6yNMsNS) | 2:28 | 2026-06-11 |  |
 | [Love](https://open.spotify.com/track/3Jet2WFgU8NlW7J4xZHa7s) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Love](https://open.spotify.com/album/4djU41ryFZF6OzAgFuuEI4) | 2:57 | 2025-04-16 | 2025-06-03 |
-| [Ma Blan Ma Walo](https://open.spotify.com/track/5VGbv8xVAGFIDdZWGNl4eW) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ma Blan Ma Walo](https://open.spotify.com/album/2H9DJkpHyzoJkQQfHcNJPd) | 2:41 | 2025-01-09 |  |
+| [Ma Blan Ma Walo](https://open.spotify.com/track/5VGbv8xVAGFIDdZWGNl4eW) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ma Blan Ma Walo](https://open.spotify.com/album/2H9DJkpHyzoJkQQfHcNJPd) | 2:41 | 2025-01-09 | 2026-08-04 |
 | [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 | 2023-08-08 | 2025-01-10 |
 | [Ma Houwa Jari](https://open.spotify.com/track/5Veho0QUWxN6rKnTK4DuxQ) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Ma Houwa Jari](https://open.spotify.com/album/6hY9L40UJ5E7hfY4f0nUlA) | 2:14 | 2023-07-07 | 2023-08-03 |
 | [Ma Tebki Ya Ain](https://open.spotify.com/track/6Fv6mqIai6eGsGAvJ4M2s6) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK), [Myne](https://open.spotify.com/artist/4cqqwyFXQGG2bWTwfVchMv) | [Ma Tebki Ya Ain](https://open.spotify.com/album/2v0YFXim7Ucs85m5lokaHE) | 3:32 | 2024-04-08 | 2024-10-31 |
@@ -222,6 +222,7 @@
 | [Youm Machi Aadi](https://open.spotify.com/track/4PNqyp3pp5c3A8jM8YgsSN) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Youm Machi Aadi](https://open.spotify.com/album/0ezJFnN5nAIrVpz9oyBkqP) | 2:58 | 2023-08-22 | 2023-08-25 |
 | [Zendaya](https://open.spotify.com/track/7oZZcZOMSG743m8awHqWGS) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Zendaya](https://open.spotify.com/album/33hMxOxJZVA8XuvN07tuq9) | 3:04 | 2025-06-03 | 2026-01-29 |
 | [Zidini](https://open.spotify.com/track/1b7xtXSt71WhXrL9khIlCK) | [Dunia Batma](https://open.spotify.com/artist/3GCRdccrBJ7DKUQvNMHQmU) | [Zidini](https://open.spotify.com/album/6ezbHGVbpC41VtjbLJn4Vs) | 3:20 | 2023-07-07 | 2024-07-10 |
+| [Zin KayQatar](https://open.spotify.com/track/52km20Zds9W9jWvBAD2fuu) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Zin KayQatar](https://open.spotify.com/album/7saUMM1oTNSd6mnfwU23FU) | 3:26 | 2026-08-03 |  |
 | [Zina Zina](https://open.spotify.com/track/0vm4E4FMXOn72D0RYNTAaM) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [Zina Zina](https://open.spotify.com/album/0M2SI231gHU8QtA31csehN) | 3:07 | 2025-06-18 |  |
 | [Ziyech](https://open.spotify.com/track/5DXSYFR5cMESPBM9W2c18r) | [Aminux](https://open.spotify.com/artist/4BgFW9XAMsJMkMZQJ6lGD9) | [AURA](https://open.spotify.com/album/0BA2ApY3nX3QIpzcCE2aYb) | 3:27 | 2025-11-21 |  |
 | [ZOMBIE](https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P) | [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [ZOMBIE](https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa) | 2:58 | 2026-05-23 |  |

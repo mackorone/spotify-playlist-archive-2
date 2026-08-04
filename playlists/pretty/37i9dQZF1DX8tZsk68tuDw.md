@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n">dance hits</a>, with Jimi Jules
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,822,465 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,820,475 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 2 | [Can't Slow Down](https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Can't Slow Down](https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1) | 2:57 |
 | 3 | [Hey Everybody](https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Hey Everybody](https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT) | 2:36 |
 | 4 | [Impressions \(feat\. Stevie Appleton\)](https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Impressions \(feat\. Stevie Appleton\)](https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw) | 2:56 |
-| 5 | [soulreply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soulreply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 |
+| 5 | [soul reply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soul reply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 |
 | 6 | [$MONEY](https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [$MONEY](https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys) | 2:34 |
 | 7 | [Booty Roll](https://open.spotify.com/track/3fVnYcsWzLWc1iwplYUwOg) | [SEBS](https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv) | [Booty Roll](https://open.spotify.com/album/52aBf5hDkajXwXkaIsnLJD) | 2:45 |
 | 8 | [ENERGY](https://open.spotify.com/track/0uctQM22xBeaklsxCtOcrk) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [ENERGY](https://open.spotify.com/album/3NcLjhT0XNhY6NmMgjFL8P) | 3:35 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 34 | [Barthelona](https://open.spotify.com/track/0SYOYm0e54czc1wHToxLBh) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Barthelona](https://open.spotify.com/album/0RQfxB3rNoZ8zFJhBUPoLM) | 2:40 |
 | 35 | [Dream or Fantasy](https://open.spotify.com/track/6FBIbzR5uSJdoVtMzfGuD5) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm), [Ellia Jaya](https://open.spotify.com/artist/1TFsdiO28p3pTXN1iwvAAO) | [Energy Crew Pt\. 2](https://open.spotify.com/album/6IjmCOnZfPF1fsyxV2hDkQ) | 3:14 |
 | 36 | [A Little Bit](https://open.spotify.com/track/4hQBMULTIvpG8yzAhvSffX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [A Little Bit](https://open.spotify.com/album/1tm5R0eFNxS6SjyJ5yg4fo) | 3:59 |
-| 37 | [LOUDER](https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [JONCASS](https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025), [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt) | [140 MAFIA](https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP) | 3:15 |
+| 37 | [LOUDER](https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt), [JONCASS](https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025) | [140 MAFIA](https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP) | 3:15 |
 | 38 | [CRASH OUT](https://open.spotify.com/track/659fLEncISLHImCs2IkqO2) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [CRASH OUT](https://open.spotify.com/album/3gCAoM9q5woXXbFcFEyLV1) | 2:55 |
 | 39 | [Check One, Check Two](https://open.spotify.com/track/1rUv2sOHvgzBERMXW40YgD) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Check One, Check Two](https://open.spotify.com/album/2WxsN8ePby4cmpSPMAH6He) | 2:36 |
 | 40 | [Can't Say Nah \(feat\. Benni Ola\)](https://open.spotify.com/track/1wQYUksfWhqFKcoQzjHGHO) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [Can't Say Nah \(feat\. Benni Ola\)](https://open.spotify.com/album/0AuEj2bM9gDOf4tNzBpOjW) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [Engaiolada \(feat\. Deekapz, Mc Morena & Yuri Redicopa\)](https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm) | [Engaiolada \(feat\. Deekapz, Mc Morena & Yuri Redicopa\)](https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN) | 3:19 |
 | 75 | [Testo Skin Part 1](https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Harmony](https://open.spotify.com/album/51EmZvgBe2KU6858cvotYi) | 2:49 |
 
-Snapshot ID: `AAAAADPZrO3dISTkLgmZDktmQK4mDAE5`
+Snapshot ID: `AAAAAJtDyBGtDTQDlkD98nvob9X+NdPS`

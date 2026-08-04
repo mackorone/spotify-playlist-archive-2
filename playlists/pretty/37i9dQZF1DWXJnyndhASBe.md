@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Pezet
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,017 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,965 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 12 | [WAZZZAAA](https://open.spotify.com/track/54XlEj78BUBOC6LqwTXQ32) | [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1), [Amar](https://open.spotify.com/artist/5xm2Kq2tx2ARcQXXboxbgy), [CrackHouse](https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr) | [SCADI HOUSE VOL\. 1](https://open.spotify.com/album/02u1NG3Lmb5jrwOkVwCmev) | 3:15 |
 | 13 | [WARTO KŁAMAĆ](https://open.spotify.com/track/1RGVsQuc33hkiE7BqLoGjt) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [WARTO KŁAMAĆ](https://open.spotify.com/album/3hFAYv5PEAQzxEzphGkfjb) | 3:07 |
 | 14 | [RED BULL 64 BARS](https://open.spotify.com/track/7mJjmRVtuECyQyqhkBR9MM) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [Favst](https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta) | [RED BULL 64 BARS](https://open.spotify.com/album/6u2Z9QYUM5VLbyIJTM3EU1) | 3:17 |
-| 15 | [STRAIGHT OUTTA CRACKHOUSE](https://open.spotify.com/track/5HaL8rp6TjGBFrUazj5NjV) | [CrackHouse](https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr), [Bandura](https://open.spotify.com/artist/5baC8UIJpELH6bYjbeABJ3), [Divix](https://open.spotify.com/artist/4epWIBkEMw64xoaz1rXAs3), [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [Amar](https://open.spotify.com/artist/5xm2Kq2tx2ARcQXXboxbgy), [Isiah Hilt](https://open.spotify.com/artist/59mzD80K2ol7gQkwRfNRVH) | [STRAIGHT OUTTA CRACKHOUSE](https://open.spotify.com/album/0CnRdkRsL51kz0ehoB0tBV) | 2:28 |
+| 15 | [STRAIGHT OUTTA CRACKHOUSE](https://open.spotify.com/track/5HaL8rp6TjGBFrUazj5NjV) | [CrackHouse](https://open.spotify.com/artist/0VUlwZP3CE5Nfjz1fYJxVr), [Divix](https://open.spotify.com/artist/4epWIBkEMw64xoaz1rXAs3), [Macias](https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho), [Amar](https://open.spotify.com/artist/5xm2Kq2tx2ARcQXXboxbgy), [Bandura](https://open.spotify.com/artist/5baC8UIJpELH6bYjbeABJ3), [Isiah Hilt](https://open.spotify.com/artist/59mzD80K2ol7gQkwRfNRVH) | [STRAIGHT OUTTA CRACKHOUSE](https://open.spotify.com/album/0CnRdkRsL51kz0ehoB0tBV) | 2:28 |
 | 16 | [NIC NIE MIJA](https://open.spotify.com/track/5QG98InY2TALW4heEeze5H) | [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [lohleq](https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF) | [NIC NIE MIJA / za tten rap](https://open.spotify.com/album/2XTLtzCOSOqarqCKK40NM9) | 3:40 |
 | 17 | [PAY ME](https://open.spotify.com/track/5xWlIg1Ymp9mGxvwayG5Lv) | [javier](https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY), [gogetmxney](https://open.spotify.com/artist/2vezpzmo1fwbcolcyQed5c) | [PAY ME](https://open.spotify.com/album/3CTJIBCT63K8JLV1Nthqx9) | 2:18 |
 | 18 | [Ty masz](https://open.spotify.com/track/4fQAVxaVQhkK8nyNZoPpeY) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Ty masz](https://open.spotify.com/album/1Js6zQtqdvpmoDEpvfuxiN) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [WALDEK KIEPSKI](https://open.spotify.com/track/1AWHemRVAmzAqaQfQcyqfM) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [WALDEK KIEPSKI](https://open.spotify.com/album/0cu0hYUipOmG1h8TCZ0IDE) | 2:46 |
 | 50 | [fantazje](https://open.spotify.com/track/6j4nfXExK8qIqDJPu5Bs8U) | [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [Ü UP? mixtape](https://open.spotify.com/album/3XzTGKGd8LFO4sjdvNb1I9) | 2:58 |
 
-Snapshot ID: `AAAAAK2c/mr7r1cb5PbC/UYxmkRWRaTg`
+Snapshot ID: `AAAAAN9IzJOC3swE+jsDorK89tA5WtBm`

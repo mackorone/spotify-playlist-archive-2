@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Tyler Ballgame
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,532 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,543 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 99 | [golden boy](https://open.spotify.com/track/03dP8ZaoX9ftHDDGJqDmeP) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [golden boy](https://open.spotify.com/album/2Y8kR25oTu2nlNQWoOzbsW) | 3:14 |
 | 100 | [Wild One](https://open.spotify.com/track/1ez4a2Zt26EJWcIoKaXO67) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Wild One](https://open.spotify.com/album/6uQPitAnucKcatIRufA7om) | 2:22 |
 
-Snapshot ID: `AAAAAM7+liqBt3JA5QsARb7uUjjo+Fim`
+Snapshot ID: `AAAAAEUBZ7ZnVqrt63ivEMwj70z+PI0F`

@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 190460,
+  "num_followers": 190399,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAAgZ9CPSx00iGfN1ib+lZji",
+  "snapshot_id": "am6IgAAAAACE1xrtnowdtOkcAeIi07N2",
   "tracks": [
     {
       "added_at": null,
@@ -347,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raw Velvet (Live '66)",
-        "url": "https://open.spotify.com/album/3lLyZCP5HXuu8O0UKMm1TU"
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
       "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 231549,
-      "name": "Call On Me - Live",
-      "url": "https://open.spotify.com/track/2sUUxw9YpOxVqsoehLkwqd"
+      "duration_ms": 569758,
+      "name": "Ball and Chain",
+      "url": "https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw"
     },
     {
       "added_at": null,
@@ -379,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+        "name": "Raw Velvet (Live '66)",
+        "url": "https://open.spotify.com/album/3lLyZCP5HXuu8O0UKMm1TU"
       },
       "artists": [
-        {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
         {
           "name": "Janis Joplin",
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 569758,
-      "name": "Ball and Chain",
-      "url": "https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw"
+      "duration_ms": 231549,
+      "name": "Call On Me - Live",
+      "url": "https://open.spotify.com/track/2sUUxw9YpOxVqsoehLkwqd"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Television Broadcast Sessions 1968 -1970",
-        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 196507,
-      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
-      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Janis Joplin's Greatest Hits",
         "url": "https://open.spotify.com/album/4qHWXbp5TbUWqH35c6m8kN"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 479600,
       "name": "Ball and Chain - Live at McMahon Stadium, Calgary, Canada - July 1970",
       "url": "https://open.spotify.com/track/50jPBJZNdoepXCb2j1Rzmp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Television Broadcast Sessions 1968 -1970",
+        "url": "https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 196507,
+      "name": "To Love Someboy (Live The Dick Cavett TV Show 8th July 1969]",
+      "url": "https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Takes To The Sky (Live 1968)",
+        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 77618,
+      "name": "Tuning & Talk, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Janis Joplin Live At Winterland '68",
         "url": "https://open.spotify.com/album/4V0cCuHywHvFeYTptF1GmT"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 192466,
       "name": "Flower In the Sun - Live at the Winterland Ballroom, San Francisco, CA - April 1968",
       "url": "https://open.spotify.com/track/5BrrkvuqvPz3kvdHNRsTCi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takes To The Sky (Live 1968)",
-        "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 77618,
-      "name": "Tuning & Talk, Pt.2 - Live",
-      "url": "https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Janis Joplin",
-        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 398066,
-      "name": "Tell Mama - Live at McMahon Stadium, Calgary, Canada - July 1970",
-      "url": "https://open.spotify.com/track/5qTQVs778QLVH4OdSzDSp5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takes To The Sky (Live 1968)",
         "url": "https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3"
       },
@@ -807,8 +791,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joplin In Concert",
-        "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
+        "name": "The Essential Janis Joplin",
+        "url": "https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 398066,
+      "name": "Tell Mama - Live at McMahon Stadium, Calgary, Canada - July 1970",
+      "url": "https://open.spotify.com/track/5qTQVs778QLVH4OdSzDSp5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 345800,
-      "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
-      "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
+      "duration_ms": 306093,
+      "name": "Women Is Losers - Live at the Avalon Ballroom, San Francisco, CA - December 1966",
+      "url": "https://open.spotify.com/track/7tk5U3oLW8pTpspY6JEAAE"
     },
     {
       "added_at": null,
@@ -847,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+        "name": "Joplin In Concert",
+        "url": "https://open.spotify.com/album/2wb0OEOLPIiEtsqq2tgCk5"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 306093,
-      "name": "Women Is Losers - Live at the Avalon Ballroom, San Francisco, CA - December 1966",
-      "url": "https://open.spotify.com/track/7tk5U3oLW8pTpspY6JEAAE"
+      "duration_ms": 345800,
+      "name": "All Is Loneliness - Live at The Fillmore West, San Francisco, CA - April 1970",
+      "url": "https://open.spotify.com/track/7AQD7uDsoBbVE9gk0Rb2pu"
     },
     {
       "added_at": null,

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "+ Swag",
+        "url": "https://open.spotify.com/album/5IQmCzhhAqtJRRkdgH2HAD"
+      },
+      "artists": [
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "+ Swag",
+      "url": "https://open.spotify.com/track/7f3vml3PGJoz0AWEth6KVK"
+    },
+    {
+      "album": {
         "name": ".38",
         "url": "https://open.spotify.com/album/0mJJ8TX7LK2MCa8TIHapaO"
       },
@@ -2712,6 +2730,28 @@
       "duration_ms": 160000,
       "name": "De Lala - Spotify Singles",
       "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
+    },
+    {
+      "album": {
+        "name": "Linguagem De Rua",
+        "url": "https://open.spotify.com/album/1pdDqLCha7jsiouRVoNPNH"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "ProdbyFp",
+          "url": "https://open.spotify.com/artist/3ZvLD1r68ljiKAmPP399fK"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128966,
+      "name": "DE ONDE ELE VEM?",
+      "url": "https://open.spotify.com/track/3uyEHWoyEXDadTBqN90wMn"
     },
     {
       "album": {
@@ -7306,7 +7346,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 96536,
       "name": "MODA 2",
       "url": "https://open.spotify.com/track/66zJjDbdSX8EGyDLtKcCZw"
@@ -7324,7 +7364,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 114162,
       "name": "MONCLER",
       "url": "https://open.spotify.com/track/4QM34h26nHRBQO9VifXflJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Babe America Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,251 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,202 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 74 | [Architect](https://open.spotify.com/track/2P8aktHcNf8AD9LwLFUj3g) | [Ryann Barnes](https://open.spotify.com/artist/3xM38xksKcX7bW550rLY9Q) | [Architect](https://open.spotify.com/album/07MeVjl4A0hlnZmmzffnk5) | 2:43 |
 | 75 | [BUTTERF\-LIES](https://open.spotify.com/track/1noA2W44E4YqekIJwudFO2) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [BUTTERF\-LIES](https://open.spotify.com/album/4bpXUnxUEyqVyQHGPVIgGI) | 2:08 |
 
-Snapshot ID: `AAAAAHSoTVlv7g0Zs1Ib0wxBsKTK8M+2`
+Snapshot ID: `AAAAAIFhq+VmNGWK7XOiFUigEhxawTBG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos de la Música Mexicana\. Portada: La Inolvidable Banda Agua De La Llave
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,334 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,342 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 99 | [DE SOBREMANERA \- EN VIVO](https://open.spotify.com/track/2DkA9NlXSTXJehAQdRJU1a) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [“V1V0” EN VIVO](https://open.spotify.com/album/2f7QrCkWsLVqxVFuCZEHcz) | 3:38 |
 | 100 | [El Último Billete \- En Vivo](https://open.spotify.com/track/3WDeCUV7HT4ZdW3wRab8Dv) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [El piloto y su estilo](https://open.spotify.com/artist/0NxSoJPiEHe3f1lDo277Cc) | [En Vivo Desde el Hangar](https://open.spotify.com/album/1C9TBlicNWqtn9FnIVeabt) | 1:50 |
 
-Snapshot ID: `AAAAAPYYt23movtIhDIQdDB7qCcMZJqt`
+Snapshot ID: `AAAAACA2NczTIx/s9D58U/GjMsIA5/jF`

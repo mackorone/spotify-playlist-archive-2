@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 
 > The \#1 Destination for the best melodies in the world\. Cover: Victoria Monet
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,683 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,140 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4a0nQYnltiQ.md) - [plain]
 | 69 | [FALL THROUGH](https://open.spotify.com/track/3l04IKVbK3rgDLOkaigL7R) | [Rya](https://open.spotify.com/artist/5o0oa7D3vG5hisRVA4M3Vp) | [FALL THROUGH](https://open.spotify.com/album/6Iaph0ERIiTHqq9YLRpMkc) | 3:30 |
 | 70 | [Brick By Brick](https://open.spotify.com/track/3LN7i6dp0VlW9rD5H5uDOJ) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Brick By Brick](https://open.spotify.com/album/4GAfWtz9zZoJhu4jAzNPx5) | 2:39 |
 
-Snapshot ID: `AAAAAIARw5mUVqecj0nlrX+7h9H0F737`
+Snapshot ID: `AAAAAI5V9Z8lmwmA2V9C2QHNc++fvqqk`

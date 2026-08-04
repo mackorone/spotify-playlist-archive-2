@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 
 > This is João Gilberto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,679 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,677 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 35 | [Deve Ser Amor \(It Must Be Love\)](https://open.spotify.com/track/69QK0UBbAX20uVhjXMX5t4) | [Herbie Mann](https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Do the Bossa Nova](https://open.spotify.com/album/5ixHJ7BYhydHcI6QyOkipX) | 4:18 |
 | 36 | [Izaura](https://open.spotify.com/track/4im3cvYs2A3dIjBDlXJU3C) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:28 |
 | 37 | [O Barquinho](https://open.spotify.com/track/7AsVESJqlCHKQADfHpfNf9) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Vocé e Eu](https://open.spotify.com/album/3sgATVyngnXD04rREbRHQR) | 2:30 |
-| 38 | [Meditation](https://open.spotify.com/track/5Hgljjx1vP5nwpoXlV5yvj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: A Summer Night](https://open.spotify.com/album/0kuIRsKvYj2GUTufyn5LUc) | 4:03 |
-| 39 | [Cordeiro De Nana](https://open.spotify.com/track/5kt5alVboZoGHzyYbqEE3Z) | [Mateus E\. Dadinho](https://open.spotify.com/artist/0igVZtU2s9UKcYA3lH7Or5), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Brasil](https://open.spotify.com/album/0pdWsGdNle9mGuE8KsEyWQ) | 1:16 |
+| 38 | [Cordeiro De Nana](https://open.spotify.com/track/5kt5alVboZoGHzyYbqEE3Z) | [Mateus E\. Dadinho](https://open.spotify.com/artist/0igVZtU2s9UKcYA3lH7Or5), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Brasil](https://open.spotify.com/album/0pdWsGdNle9mGuE8KsEyWQ) | 1:16 |
+| 39 | [Meditation](https://open.spotify.com/track/5Hgljjx1vP5nwpoXlV5yvj) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto: A Summer Night](https://open.spotify.com/album/0kuIRsKvYj2GUTufyn5LUc) | 4:03 |
 | 40 | [It Might As Well Be Spring \- Live At Carnegie Hall](https://open.spotify.com/track/0Tc4zN8q4CD71XJ7Wbjotz) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Jazz 'Round Midnight: Bossa Nova](https://open.spotify.com/album/0kDL9koNtkkIUSUhyM61GY) | 4:24 |
 | 41 | [Saudade Fêz Um Samba](https://open.spotify.com/track/269N6ZDAVJeDuiEDQfswpR) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de saudade de João Gilberto](https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu) | 1:47 |
 | 42 | [É preciso Perdoar](https://open.spotify.com/track/2O6G533UXYJmbkrhzmt7OC) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto](https://open.spotify.com/album/5rFhRJLR6CDPSxwSPTONA4) | 5:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dtD44.md) - [plain]
 | 49 | [Brigas, Nunca Mais \- Ultimate Mix](https://open.spotify.com/track/0V8PQaUAS4Q8Rud4663dqZ) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de Saudade](https://open.spotify.com/album/2Huvsv5hVOHeua1vWfIpg7) | 2:06 |
 | 50 | [Hó\-Bá\-Lá\-Lá](https://open.spotify.com/track/2Ls8gLpf0ulxFTisaVczmK) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Chega de saudade de João Gilberto](https://open.spotify.com/album/5ty7LtYCBMnOnW3IV1ikDu) | 2:17 |
 
-Snapshot ID: `am03AAAAAAAtbcLI/BqHPariMQQf0kxY`
+Snapshot ID: `am6IgAAAAABR4UdlvxaJMqCcjG9ikMgQ`

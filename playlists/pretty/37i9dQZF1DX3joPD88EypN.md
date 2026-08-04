@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,687 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,724 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 78 | [1905](https://open.spotify.com/track/1iFEtO5D8YHIEJj8xkWiX2) | [Aki Rissanen](https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX) | [1905](https://open.spotify.com/album/4TDH0V9wovLfjn88nNW7En) | 2:47 |
 | 79 | [På havets bunn](https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ), [Erland Dahlen](https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn) | [På havets bunn](https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK) | 3:32 |
 | 80 | [Långsamt](https://open.spotify.com/track/4o0d3Ljhgg6v1t6D3M1DtY) | [Max Agnas](https://open.spotify.com/artist/3NptYnPBFtCemjoPPqkGwA) | [Komposition VII](https://open.spotify.com/album/5TkbzkhD1kl7ehDrNz6aPM) | 7:53 |
-| 81 | [Origin Story](https://open.spotify.com/track/7GUUMi4uAhyBLr0btnmyaY) | [Kaisa's Machine](https://open.spotify.com/artist/0stN0RJaUEq8knBvMdNjtl), [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [Origin Story](https://open.spotify.com/album/7v2HxxReiFQJZuwrf2ty3K) | 5:48 |
-| 82 | [Green Model](https://open.spotify.com/track/6FXibr7oXEtXElSFP8LHES) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Gravity](https://open.spotify.com/album/1ZIyFQ6sS5bnZoY60HqkP4) | 4:22 |
+| 81 | [Green Model](https://open.spotify.com/track/6FXibr7oXEtXElSFP8LHES) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Gravity](https://open.spotify.com/album/1ZIyFQ6sS5bnZoY60HqkP4) | 4:22 |
+| 82 | [Origin Story](https://open.spotify.com/track/7GUUMi4uAhyBLr0btnmyaY) | [Kaisa's Machine](https://open.spotify.com/artist/0stN0RJaUEq8knBvMdNjtl), [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz) | [Origin Story](https://open.spotify.com/album/7v2HxxReiFQJZuwrf2ty3K) | 5:48 |
 | 83 | [Iki Keklik](https://open.spotify.com/track/3CzVMvOgYokrIjPBGlbhDU) | [Aki Rissanen](https://open.spotify.com/artist/1nlJUHlmuvSRMGPMsulgGX) | [Imaginary Mountains](https://open.spotify.com/album/7ake1pGrIMuvCr3kLpaqa7) | 3:08 |
 | 84 | [Asthma Breath](https://open.spotify.com/track/7ly2MdOGM8n2MseNNuRiTJ) | [Jesper Thorn](https://open.spotify.com/artist/4DB375t3aSO9yDzf1O8IpD) | [Asthma Breath](https://open.spotify.com/album/2Mxy2VXEQFY30cMmYjJeNE) | 3:16 |
 | 85 | [The Pondering](https://open.spotify.com/track/0nEAdpfRFfr8DxPEr5cdMR) | [Eyolf Dale](https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS), [Audun Kleive](https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq), [Per Zanussi](https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi) | [Being](https://open.spotify.com/album/0JafDcSmZyR4HvLpfcJIUC) | 6:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 99 | [En midsommardröm](https://open.spotify.com/track/1gRiWSw04dIPRQM2H4m3Ch) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Anders Fjeldsted](https://open.spotify.com/artist/3cMGXEInQZ35t6Qb3M1s8N), [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Askanäs Kammarkvartett](https://open.spotify.com/artist/7DUIwGmSZbOvlg7qakClCC) | [En midsommardröm](https://open.spotify.com/album/7wI7kUlMH7ndq1RS9HTBI9) | 4:49 |
 | 100 | [Jumnien](https://open.spotify.com/track/3H3b6mtd8ayK5G7Czfb33l) | [Göteborg Jazz Orchestra](https://open.spotify.com/artist/3xhVB4zwVDsadQMgZuXIK0), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [A Letter to Eje Thelin](https://open.spotify.com/album/1DJvPssDhXT8Yt01dEW4pL) | 3:41 |
 
-Snapshot ID: `AAAAALZAZ2hR3Ps2acmz953BFEauQHlU`
+Snapshot ID: `AAAAAGvB0xi8if83BIgRvZzYu3xZhgkJ`

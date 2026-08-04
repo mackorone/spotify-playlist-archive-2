@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Rolf Sanchez
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,536 likes - 77 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,512 likes - 77 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 76 | [Bewaren](https://open.spotify.com/track/2FgCaGJ6rES2dyK5HajLmw) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Eindelijk Eerlijk](https://open.spotify.com/album/5LgZAUOTk6N6fWaOqSNYxp) | 2:40 |
 | 77 | [Als Ik Dan Denk Aan Jou](https://open.spotify.com/track/6tmBufwIoXjjshHTHSYsQ7) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Als Ik Dan Denk Aan Jou](https://open.spotify.com/album/0iZaSvuDr3iWVJIyzdO5pp) | 3:24 |
 
-Snapshot ID: `AAAAAOkIZwdJIezpToK6sd/RO7psfyOE`
+Snapshot ID: `AAAAALiSz1wc3zIrTDyH0ihQ3jFWUEXs`

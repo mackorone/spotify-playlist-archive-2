@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,330 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,322 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 11 | [Wanted You \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1Faq8G2y56A8fRv7HsLq25) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 3:48 |
 | 12 | [Young Wheezy \(with Gunna\)](https://open.spotify.com/track/0bMyxvtbPa7HFemLjzw0xX) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:31 |
 | 13 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/5cx2X3RlGDk6g4DkPq4NYw) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:05 |
-| 14 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 |
-| 15 | [Chosen Ones](https://open.spotify.com/track/49jnvocDtzb8PETrMdv5u8) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Manu](https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28) | [Can't Stop Now](https://open.spotify.com/album/030a4ObLC1PdluepsqarAM) | 3:09 |
+| 14 | [Chosen Ones](https://open.spotify.com/track/49jnvocDtzb8PETrMdv5u8) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Manu](https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28) | [Can't Stop Now](https://open.spotify.com/album/030a4ObLC1PdluepsqarAM) | 3:09 |
+| 15 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 |
 | 16 | [Don't Need Friends \(feat\. Lil Baby\)](https://open.spotify.com/track/4x3mum2YGHtIBrgUKiNt4F) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 3:04 |
 | 17 | [MUTT](https://open.spotify.com/track/2hk1qsUurNhymuTIQKoCws) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [MUTT](https://open.spotify.com/album/0KfsQmnXet0Ne5V8c7Nnrm) | 1:59 |
 | 18 | [Hit](https://open.spotify.com/track/0gHcxtyWQT0HrlGxaxP1KT) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 49 | [Make It Right Back](https://open.spotify.com/track/6AyXdUH0gnVrJFQb7L7rkI) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Emergency Tsunami](https://open.spotify.com/album/1tihFpzHHM9mDSoFbhMoZL) | 2:36 |
 | 50 | [NOTHING 4 FREE \(feat\. NAV\)](https://open.spotify.com/track/1HWTHOiN3mzsebJBrtAPbQ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:45 |
 
-Snapshot ID: `am03AAAAAABVjpg0jDr9K15okLzhaWI4`
+Snapshot ID: `am6IgAAAAABDHJFbVfwc0sTKvXHYpB1X`

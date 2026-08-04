@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,225,789 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,223,581 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 95 | [Pressure Drop](https://open.spotify.com/track/7cfILJJHW9ZSkbM2ywLhiN) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Reggae Greats \- Toots & The Maytals](https://open.spotify.com/album/3XeZ3oRelxBvhhHzfzlRMj) | 2:54 |
 | 96 | [Pass The Dutchie](https://open.spotify.com/track/7iWk45E2wIpFc3YUWm3VVn) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/5IdwXEZnCs41jsRzYg6IVM) | 3:24 |
 | 97 | [No Love Allowed \(feat\. LMK\)](https://open.spotify.com/track/17VuKYmgB5hVsEDDY5TxfJ) | [Taggy Matcher](https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF), [LMK](https://open.spotify.com/artist/6no7KNnx2aInmnGc9mFciJ) | [Singasong](https://open.spotify.com/album/676PzGO6FiWPcYpmd3e0Un) | 4:01 |
-| 98 | [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 |
-| 99 | [Murderer](https://open.spotify.com/track/0j3k5lalAmEHaXJeytoMB6) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Original Ragga Muffin, Pt\. 1](https://open.spotify.com/album/2jLNKZ0HQJ4OJOprvVkDvV) | 3:53 |
+| 98 | [Good Thing Going](https://open.spotify.com/track/4MM4UlT0j7MePs9bMoi34N) | [Sugar Minott](https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn) | [Good Thing Going](https://open.spotify.com/album/0ebppSJmLI1w6eaq1SnkSR) | 3:17 |
+| 99 | [Chase The Devil](https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n) | [Max Romeo](https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv), [The Upsetters](https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b) | [War Ina Babylon](https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV) | 3:27 |
 | 100 | [Police & Thieves](https://open.spotify.com/track/3cnvTMZRhkbzea0KC4Y4We) | [Junior Murvin](https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34) | [Police And Thieves](https://open.spotify.com/album/6iLaRkExmcC6BvxqCk2BTt) | 4:04 |
 
-Snapshot ID: `AAAAAEjbxo5D6Ouz5WW91LuwMv0xw4ag`
+Snapshot ID: `AAAAADtnDxhpw+eusM5rFaX5Nif69Cs2`

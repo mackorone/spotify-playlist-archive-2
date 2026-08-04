@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Kanine
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,281 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,285 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Inside The Rider \- TC & Original Sin 2000's Remix](https://open.spotify.com/track/3zo3Yt938sWofI3EmD5NnR) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Original Sin](https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV) | [Inside The Rider \(TC & Original Sin 2000's Remix\)](https://open.spotify.com/album/4WTMosR7xfte2OfeZh5f4Y) | 3:51 |
 | 55 | [Come With It](https://open.spotify.com/track/5molMz6TA3virLoLO8Hzn2) | [Selecta J\-Man](https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP) | [Come With It](https://open.spotify.com/album/0xwUWz3tDMxaWHvQXIphvy) | 3:20 |
 
-Snapshot ID: `AAAAAFUKYsEQddhbaAEH11lJ0vjlw2ji`
+Snapshot ID: `AAAAANHjO1cUAVsPBGtANjV1aNXln5tt`

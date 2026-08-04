@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Bury Tomorrow
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,239 likes - 200 songs - 12 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 945,780 likes - 200 songs - 12 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 199 | [mallxcore](https://open.spotify.com/track/6irxouPiUi5FBwuEZhl0Mc) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [mallxcore](https://open.spotify.com/album/47Cg9vAwpG9vRg2wvWBpPu) | 3:09 |
 | 200 | [Thorn In My Side](https://open.spotify.com/track/7jDhrmsTOZ6TeT9LcC14OF) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [Thorn In My Side](https://open.spotify.com/album/1c8liuYJUzptwOiOubrKRh) | 3:45 |
 
-Snapshot ID: `AAAAAJ2ey8tYAdr0AcdzcDkrm4fMRhna`
+Snapshot ID: `AAAAAInOThpSlYMzl3bpLJWHNV99Cv12`

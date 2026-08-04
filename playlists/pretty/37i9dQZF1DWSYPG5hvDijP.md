@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > Naya Hip\-Hop Hindi! Cover: Wicked Sunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,823 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,832 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Udta Teer](https://open.spotify.com/track/5cS97WF3rABzd60m48QKiJ) | [Wicked Sunny](https://open.spotify.com/artist/3jOWtMZBEsXsCFp4SuzlQa), [Cyril Gabriel](https://open.spotify.com/artist/2netGerqSenOlPiDpObZum) | [Udta Teer](https://open.spotify.com/album/3qAWj5Of2pDJy7iTfsL8dF) | 2:53 |
 | 2 | [FACHADI](https://open.spotify.com/track/4Ixg5F2QXudeV0axwIuQgj) | [YUNG DSA](https://open.spotify.com/artist/5e8gOu2fk8b1txcXWlX1Pl) | [FACHADI](https://open.spotify.com/album/0EgDWdzul08tOPXIalY060) | 3:21 |
-| 3 | [Eyeballs](https://open.spotify.com/track/7esoowLNk6MjBKDqcVYeQt) | [BiggSmoke](https://open.spotify.com/artist/4BQvEfi8gKybhZod5ukL2i), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Legacy Chapter 1, Vol\. 2](https://open.spotify.com/album/0DquwXHD2YHMYVXiZIKQA6) | 2:44 |
+| 3 | [Eyeballs](https://open.spotify.com/track/7esoowLNk6MjBKDqcVYeQt) | [BiggSmoke](https://open.spotify.com/artist/51sRHz0LEBW9PiW4HUH0k4), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Legacy Chapter 1, Vol\. 2](https://open.spotify.com/album/0DquwXHD2YHMYVXiZIKQA6) | 2:44 |
 | 4 | [Big K](https://open.spotify.com/track/4m6FTkXBpE5nsgdKBr7Oei) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [Big K](https://open.spotify.com/album/2BsTIof41i4s9jLFzTLnru) | 4:56 |
 | 5 | [R U MAD](https://open.spotify.com/track/43b0hKXufzHgmEkmJZ7ZF9) | [MC INSANE](https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq) | [R U MAD](https://open.spotify.com/album/63syZlkyQ5qMB8XdO4z8MY) | 3:10 |
 | 6 | [TAX](https://open.spotify.com/track/6aaeNPz3nlLVbJBg75aVls) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [aywy](https://open.spotify.com/artist/6r38VaW3wElzmIlJ69Cz2L) | [TAX](https://open.spotify.com/album/6GVbLAebCu28akVbn0pa9A) | 2:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 | 74 | [Karamjali](https://open.spotify.com/track/4iwLEbZl1D3WMiFFcesQnk) | [Rap ID](https://open.spotify.com/artist/48mehZF6vUnj7r0CONLiU8), [Kod.E](https://open.spotify.com/artist/10vsL1yYQ2pq0Yi6D3PpwT) | [Legacy Chapter 1, Vol\. 3](https://open.spotify.com/album/192058Y5p7hlyGRYuqhDwJ) | 2:21 |
 | 75 | [3 Khaat](https://open.spotify.com/track/5AqWP2XSoIR6x65tRGvg2G) | [Duryodhan Rana](https://open.spotify.com/artist/0nwH3VdpmJakhuISQ0i9jX), [Prodbysoundscape](https://open.spotify.com/artist/43ttS6rFRzusm2okv9LDqX) | [3 Khaat](https://open.spotify.com/album/0T3MmqzkGQhE75fkpmjhE8) | 2:39 |
 
-Snapshot ID: `AAAAAKg9pTU14dJOU2qhkSMyxwrg1Tue`
+Snapshot ID: `AAAAAPHnTwiHZODsXOBjJTq9oKYhvZgb`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Periphery
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,831 likes - 150 songs - 12 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,707 likes - 150 songs - 12 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 125 | [Silence In a Room of Lies](https://open.spotify.com/track/7zNDwzq2oLj35hN3LqIYud) | [O.N.I](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [Jared Dines](https://open.spotify.com/artist/6VkNuqb1g6daxT3W3brUYZ) | [Silence In a Room of Lies](https://open.spotify.com/album/6m6dLM7QETJrvypCfGlH98) | 3:14 |
 | 126 | [Of Death](https://open.spotify.com/track/6C6vM7g7l4pytVTAT4sIzz) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [Of Death](https://open.spotify.com/album/5NzgRiNRMxIK0fQkE9z5tA) | 5:35 |
 | 127 | [Advent](https://open.spotify.com/track/2px9mi7GbVZZ6RusPID9a3) | [Gus G.](https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O) | [Advent](https://open.spotify.com/album/2fZv7TL9N67yLmb8lJbj5c) | 4:03 |
-| 128 | [ARE YOU AFRAID?](https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [ARE YOU AFRAID?](https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og) | 3:22 |
-| 129 | [The Faustian Spirit](https://open.spotify.com/track/7IoL8W4eJK5NWatfWv4Ei5) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Prodigy](https://open.spotify.com/album/6FWDWarcehRMqCmuyw6vtq) | 4:13 |
+| 128 | [The Faustian Spirit](https://open.spotify.com/track/7IoL8W4eJK5NWatfWv4Ei5) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Prodigy](https://open.spotify.com/album/6FWDWarcehRMqCmuyw6vtq) | 4:13 |
+| 129 | [ARE YOU AFRAID?](https://open.spotify.com/track/0fwXQnRGqcE8aCravPClDo) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [ARE YOU AFRAID?](https://open.spotify.com/album/6ywUMVRiOUJRSiTuBen5og) | 3:22 |
 | 130 | [Be My Guest](https://open.spotify.com/track/7LH01CRu66ymwEol1s71yr) | [Stoned Statues](https://open.spotify.com/artist/4T3zk8OMwpondwavcnTZeQ) | [Guardian](https://open.spotify.com/album/7HhZ4OMQ4ZSGifamWSeJ9k) | 3:47 |
 | 131 | [A gyönyörű álmok ezután jönnek](https://open.spotify.com/track/6RxNy0WXVOya0HvyYyFBZ5) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [A gyönyörű álmok ezután jönnek](https://open.spotify.com/album/52eVUmr6MWQ9cN4amcZnJh) | 3:13 |
 | 132 | [How To Swim Down](https://open.spotify.com/track/3ck8dO1Mmm9Q8nd0yZlJLZ) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [How To Swim Down](https://open.spotify.com/album/2NAGNdsP9P04YDX312nDbE) | 4:05 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 149 | [Borderline Syndrome](https://open.spotify.com/track/5iaJDLrxZ80mIvH4oveRZb) | [Monosphere](https://open.spotify.com/artist/0JDTWjgSmPVG76tIIvwPoW) | [Sentience](https://open.spotify.com/album/6iRzTS4biCbb2VukIwB9nT) | 6:48 |
 | 150 | [Piros kocsi, fekete éj](https://open.spotify.com/track/5n4TEThz5HOTIohhi2PBr5) | [Thy Catafalque](https://open.spotify.com/artist/4sgTqbA7htxYkRRJBPZIom) | [Piros kocsi, fekete éj](https://open.spotify.com/album/0jLHOyvimhtp1UQEGfTF9z) | 4:12 |
 
-Snapshot ID: `AAAAAMm++MBjxRNTy8JJFICPk2cqLqf2`
+Snapshot ID: `AAAAAL1ZhI12fFrkGMelwaovNR+Fow61`

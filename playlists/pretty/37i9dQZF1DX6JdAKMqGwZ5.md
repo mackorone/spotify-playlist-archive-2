@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Roy Borland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,724 likes - 120 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,626 likes - 120 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [FLORES EN EL ASFALTO](https://open.spotify.com/track/1Gcfv2I9I2zl5rTyqzgd9q) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC), [Abraham Boba](https://open.spotify.com/artist/6O0NjGbFbvtz6QqBD8nhZk) | [FLORES EN EL ASFALTO](https://open.spotify.com/album/5yQP9vQrbP7GBncWX7aoIa) | 3:03 |
 | 120 | [Rugío de Sentir](https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs) | [Paco Pecado](https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp) | [Rugío de Sentir](https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm) | 3:23 |
 
-Snapshot ID: `AAAAAGB20NiyKaxOXbqgMDKAIN63CEoO`
+Snapshot ID: `AAAAAJ9SzlGMHQGnRICN6DVruza8CaFY`

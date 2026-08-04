@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,620 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,638 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 80 | [El rap es nuestra arma](https://open.spotify.com/track/61lOmoS69aWS1N3wGReWm1) | [Biogénesis Clan](https://open.spotify.com/artist/0gFUKFYqDTDUfefV9zAeZ1), [ZK](https://open.spotify.com/artist/7zk9PFA7xFH3qObQVLUBiq), [Crítico](https://open.spotify.com/artist/33hBO9tBak1pzBfBCnzNcr), [DJ King C](https://open.spotify.com/artist/2fOofIhsrEg9Q6jUBTCMtL) | [El rap es nuestra arma](https://open.spotify.com/album/0Ec1q2ql5Xi4SdtWO7YKh4) | 3:49 |
 | 81 | [Será posible?](https://open.spotify.com/track/5wqqW9bUNknibziCuIaelA) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [IceOD](https://open.spotify.com/artist/3DfOyzOkibnHvb21bHqa2B) | [Será posible?](https://open.spotify.com/album/2w2Zl5jULCwcpHgUuhR8WB) | 2:38 |
 | 82 | [Ríe Cuando Puedas](https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Striptease](https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi) | 3:41 |
-| 83 | [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 |
-| 84 | [Chico Problemático](https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Poesía Difusa](https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG) | 5:16 |
+| 83 | [Chico Problemático](https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Poesía Difusa](https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG) | 5:16 |
+| 84 | [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 |
 | 85 | [Relojito](https://open.spotify.com/track/6FMbb1G5p7H0n6lDxsZYKt) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Relojito](https://open.spotify.com/album/34FyjWq7YB1bIGkBKCjRwu) | 2:24 |
 | 86 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
 | 87 | [Jamming Sin Fronteras](https://open.spotify.com/track/5Ot6yfkeBUKllxb0ghQQij) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Rapsusklei](https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [César López](https://open.spotify.com/artist/5Ycbygh3IB5aqbNRcMYPkV), [Solo Soul](https://open.spotify.com/artist/0bmSH3V2XM6zNVDfmTwwJI) | [Jamming Sin Fronteras](https://open.spotify.com/album/1Bt7lT0WFNHlvd1yGC8zlJ) | 4:10 |
-| 88 | [Cuando Vayas Conmigo](https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 4:19 |
-| 89 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 |
+| 88 | [La Caza de Nariño](https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [La Caza de Nariño](https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW) | 3:41 |
+| 89 | [Cuando Vayas Conmigo](https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 4:19 |
 | 90 | [Mi Propio Cielo](https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ars Magna / Miradas](https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa) | 4:44 |
 | 91 | [Libertad](https://open.spotify.com/track/57yJ604s8wEXyjkqPsZdKC) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux) | [Kase.O Jazz Magnetism](https://open.spotify.com/album/0Xtm1ILSm1hdlgQEOJjMx4) | 3:30 |
 | 92 | [Legendarios](https://open.spotify.com/track/5flzNTZypqHAQtcMn1ARBl) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/0zz6EViiEPDUKt6IZRUDCc) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 99 | [Merced](https://open.spotify.com/track/5XpnNLZd75PpnF7dbNAzOq) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 2:53 |
 | 100 | [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 |
 
-Snapshot ID: `AAAAAO98IhhEKHqDTly4P3CAn5cl8IH+`
+Snapshot ID: `AAAAAOgfwSC7K7TlHPUclvCDlYGTnbhC`

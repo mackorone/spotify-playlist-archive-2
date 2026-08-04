@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: F3miii
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,695 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,733 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 99 | [wasted time](https://open.spotify.com/track/6G2LHkJYG4P7HpdMTydvRS) | [proderics](https://open.spotify.com/artist/3VsmiWWtAHSrkgF2forgVI), [melodybloom](https://open.spotify.com/artist/09SHUPzM4RIiUSkQ8stabk) | [wasted time](https://open.spotify.com/album/47SJHB4GCosjpXegm8clQJ) | 2:13 |
 | 100 | [Good Enough](https://open.spotify.com/track/1eFRNhkIbgraWITQdGs6Vl) | [Softdrink Millionaire](https://open.spotify.com/artist/34FSutSmj6A0cNPFdtGqD3) | [Good Enough](https://open.spotify.com/album/78KrEPkj2YtKwUIf28mbSk) | 4:38 |
 
-Snapshot ID: `AAAAAORIaFf6WKJs+apaMwvIiJwhrosD`
+Snapshot ID: `AAAAABa8W4TJt8hIwznp8Sz7sMyWCHD/`

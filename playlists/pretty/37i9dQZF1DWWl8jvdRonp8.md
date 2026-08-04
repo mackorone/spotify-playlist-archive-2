@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,572 likes - 125 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,610 likes - 125 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 124 | [La Pareja Ideal](https://open.spotify.com/track/2eJRI9i2EoNxYSkc2jvFfH) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Sin Él](https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK) | 3:31 |
 | 125 | [Presiento que voy a llorar](https://open.spotify.com/track/0fIvZVrFW3K9k1042sAZWw) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y carisias](https://open.spotify.com/album/0UKsPxUwVah0LYXoAKQXNV) | 3:20 |
 
-Snapshot ID: `AAAAACbtVWVEXsvoI/Hj1zJSky950xzY`
+Snapshot ID: `AAAAAIMbaqcd6Ubv0eDOEpXOOCxTg/qI`

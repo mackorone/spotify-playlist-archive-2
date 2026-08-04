@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Loreen
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,216 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,209 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [You are the only one](https://open.spotify.com/track/7cVXtwDpck4Kne4Ce8Ge6q) | [Sergey Lazarev](https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK) | [You are the only one](https://open.spotify.com/album/5QN3qCVLPiedrjb6EOO9LO) | 3:06 |
 | 75 | [She Got Me](https://open.spotify.com/track/6TNK1SFt77MvTFoiTloiFQ) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [She Got Me](https://open.spotify.com/album/49NV91ZkaohMBJdoBA16ek) | 3:00 |
 
-Snapshot ID: `AAAAABENsJqKHVxfYp8P5nmwJpz1zNJ/`
+Snapshot ID: `AAAAABv06Vqu46GRzh+7IG67U3ueGKVl`

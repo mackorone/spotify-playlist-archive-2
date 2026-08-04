@@ -4,7 +4,7 @@
 
 > The voices shaping R&B\. Cover: Odeal
 
-662 songs - 1 day 11 hr 12 min
+663 songs - 1 day 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Automatic](https://open.spotify.com/track/1rQeZ0Tpmm78r2zfjunoiV) | [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [Automatic](https://open.spotify.com/album/4WbNR7vcKMrVIfKCu1u9ao) | 3:23 | 2025-04-25 | 2025-10-10 |
 | [Avant l'hiver](https://open.spotify.com/track/3hR5jexZmKeAFwtNfzlTzt) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [HÉRITAGE](https://open.spotify.com/album/0Tbzb4NTozmXoJ0nJLFpxj) | 4:29 | 2024-05-31 | 2024-10-04 |
 | [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 | 2023-10-27 | 2024-01-26 |
-| [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 | 2026-04-09 |  |
+| [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/track/6t263UZVjI9nnHfr7eeLW4) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Back and Forth \(feat\. Missy Elliott\)](https://open.spotify.com/album/3yb1H4Mf6annZTGWpmAoCW) | 3:34 | 2026-04-09 | 2026-08-04 |
 | [BACK IN MY ARMS](https://open.spotify.com/track/7wRTxFb9tIWH9SCyrEQdZI) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [BACK IN MY ARMS](https://open.spotify.com/album/7aeSVs5NhejLtWfuLgZkJd) | 3:43 | 2026-04-24 |  |
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-06-19 | 2026-03-20 |
 | [back then](https://open.spotify.com/track/6aVK1NArUNstG713aBQYql) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [back then](https://open.spotify.com/album/0Kd9rvhwMT6DKGeeN44jYo) | 3:53 | 2026-07-02 |  |
@@ -229,6 +229,7 @@
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-09-22 | 2024-05-11 |
 | [Golden Child \(Jealous\)](https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:27 | 2023-09-22 | 2024-04-19 |
 | [Good Day](https://open.spotify.com/track/6Go0mbl0KkPgQ5lCU4rT06) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Good Day](https://open.spotify.com/album/1dmyYsIIRVePvCLhFb7Dd1) | 4:35 | 2025-05-01 | 2025-09-06 |
+| [good girl](https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:01 | 2026-08-03 |  |
 | [Good Girls Finish Last](https://open.spotify.com/track/3j8hlB1QSlKvWgDAym77x4) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Good Girls Finish Last](https://open.spotify.com/album/7q4DF1pfa9zlm77xg9uJg1) | 3:02 | 2024-09-05 | 2025-03-21 |
 | [Good Intentions](https://open.spotify.com/track/6QtcGEyLF3SPMoR8i5bsKI) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Good Intentions](https://open.spotify.com/album/7KZbPMVX1MIgaamombQinf) | 3:14 | 2026-03-20 | 2026-07-17 |
 | [Good Things Will Come After the Pressure](https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Chapter 1](https://open.spotify.com/album/5vhfMWKuCtnJJ3DW5FESGe) | 4:06 | 2026-01-09 | 2026-06-05 |

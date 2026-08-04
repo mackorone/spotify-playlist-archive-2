@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Innellea
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,923 likes - 90 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,905 likes - 90 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Busy Signal](https://open.spotify.com/track/2FrLAAiqFsW7qDHXbORblC) | [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [Busy Signal](https://open.spotify.com/album/7tjJwJTSbHG3OFNo3uDqdV) | 5:42 |
 | 90 | [Odoriko](https://open.spotify.com/track/4T9PF3UU7ozEWycT3k3dNl) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Odoriko](https://open.spotify.com/album/0A8d3xRGEekL4poJr9KdIG) | 4:49 |
 
-Snapshot ID: `AAAAAIoP+q1+2mew6bRm44ClXIXCGYfz`
+Snapshot ID: `AAAAAE+EqVMuTrv8pgylqJP896vtJEzy`

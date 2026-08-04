@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Abraham Mateo con María Becerra, KAROL G, Ariana Grande, Juan Magán, Beny Jr y el resto de novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,399 likes - 59 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,213 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 58 | [Los Sueños](https://open.spotify.com/track/3shtcrg0kJFKwtT7e7dVeC) | [Jere](https://open.spotify.com/artist/4Be2CAYpZqlTjDjygJMgu0), [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw) | [Los Sueños](https://open.spotify.com/album/4qbwgo9iSGKA0zewY2ljrK) | 3:47 |
 | 59 | [EL MUNDO ARDER](https://open.spotify.com/track/1ESUvUMBsiOVYqBIvhFuwl) | [BAJANDO AL MERCAO'](https://open.spotify.com/artist/6pnJFEopQYVFQaesKOY5lG) | [EL MUNDO ARDER](https://open.spotify.com/album/6CZwKXTJ26KdM1t0gzp564) | 3:07 |
 
-Snapshot ID: `AAAAALcQKJ/TaK3+e40aJZK+sOLlIXDG`
+Snapshot ID: `AAAAAEzeUdR59WG4/9iAC7NQvCXjiWxL`

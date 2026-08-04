@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,164 likes - 100 songs - 11 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,175 likes - 100 songs - 11 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 99 | [YESU](https://open.spotify.com/track/54wWAAGkIHZG03JkcSd2cS) | [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [YESU](https://open.spotify.com/album/6AmGXpLt7W7ygyt1Ojk8el) | 2:29 |
 | 100 | [Worship Medley \- Live](https://open.spotify.com/track/0jv6Z8rTxlqzMxLzDqGt3O) | [Segun Aniye](https://open.spotify.com/artist/4xa0DdlvnBHWKWTRPl6LXE), [Beejay Sax](https://open.spotify.com/artist/1obFKBs1DhXm6SUIELP5vu) | [Worship Medley \(Live\)](https://open.spotify.com/album/1iPebLb4pEPSLMM03Dx3bp) | 9:23 |
 
-Snapshot ID: `AAAAAJmcIqmbD86O6wIm+m1G4Fzp7KNO`
+Snapshot ID: `AAAAAGyl7Wa8ITRtafpbY3fu3YCMcnKg`

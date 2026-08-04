@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,150 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,151 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 74 | [Feather Heartache](https://open.spotify.com/track/5EhbB2JE14rfPZmrBOMF3H) | [羽風薫\(CV.細貝圭\)](https://open.spotify.com/artist/1NGLXc2R8LmIwSxahZatzy) | [あんさんぶるスターズ！ アルバムシリーズ UNDEAD](https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR) | 4:23 |
 | 75 | [Silent Oath](https://open.spotify.com/track/1Cirj2OMs3qMvmOAQhLZHo) | [Knights/月永レオ\(CV.浅沼晋太郎\)、瀬名泉\(CV.伊藤マサミ\)、朔間凛月\(CV.山下大輝\)、鳴上嵐\(CV.北村諒\)、朱桜司\(CV.土田玲央\)](https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 5:13 |
 
-Snapshot ID: `AAAAANnnYOfJxD26mQoju+p0fqV/3PUL`
+Snapshot ID: `AAAAAGaQc8D5PA6HSWi8gUNZf1bSq1gZ`

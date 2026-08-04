@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1bxlagjEmb.md) - [plain]
 
 > folk songs for the weight of it all, featuring music from Gregory Alan Isakov
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,010 likes - 117 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,044 likes - 117 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,7 +114,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1bxlagjEmb.md) - [plain]
 | 104 | [Every Time the Sun Comes Up](https://open.spotify.com/track/61qxP4Vs5DVX0Ic4GnBklu) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 4:22 |
 | 105 | [Real Love](https://open.spotify.com/track/6lU6rPNgmEhilIurtFmkFm) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/5eSbNHaPAkwpAuo9k0o2YU) | 4:17 |
 | 106 | [Please, Please, Please, Let Me Get What I Want \- 2011 Remaster](https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Hatful of Hollow](https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv) | 1:52 |
-| 107 | [I Am California](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 |
+| 107 | [I Am California \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [No Rain, No Rose \(Vinyl\)](https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE) | 5:13 |
 | 108 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
 | 109 | [Bodies](https://open.spotify.com/track/6zMSeU6FeAOeMDdDfLPA9g) | [Salt Water Baby](https://open.spotify.com/artist/2MKCNIDwizYWkhSGwKotAj) | [Bodies](https://open.spotify.com/album/6l5KXz1Jb4x8noYHfriPq3) | 3:04 |
 | 110 | [Fugazi](https://open.spotify.com/track/6iLpuiKY29qbQbRVJ4jb8O) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Fugazi](https://open.spotify.com/album/2HGQJZb8cMX6GlLCdNuciB) | 4:26 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1bxlagjEmb.md) - [plain]
 | 116 | [First Time](https://open.spotify.com/track/3ll3YZirSK5Sb3fJApuiCw) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [First Time](https://open.spotify.com/album/1hnGG0Wg9CmgGZeOpU7tCA) | 3:49 |
 | 117 | [White Lie](https://open.spotify.com/track/0omH6Dbw21O4Hw46cTbMBF) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra \(Deluxe\)](https://open.spotify.com/album/5fY8mYgYGkyaJ9XvVOzVQA) | 3:15 |
 
-Snapshot ID: `AAAAAFuWgeGaGCBUGnVfeW8jN0o81Y/r`
+Snapshot ID: `AAAAALEdXEuGqQ/zep7P1CRM0mSUaQGl`

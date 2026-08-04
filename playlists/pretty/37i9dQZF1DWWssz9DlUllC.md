@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWssz9DlUllC.md) - [plain]
 
 > Where afrobeats meets amapiano.<br/>Cover:  Davido & NO11
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,688 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,754 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWssz9DlUllC.md) - [plain]
 | 79 | [PA¥ M€](https://open.spotify.com/track/45DKrbHmJ3gNoTVKQroKDw) | [Kobilou](https://open.spotify.com/artist/2DL38TZNK8x8hxvnxNkQB5), [Aibrid](https://open.spotify.com/artist/6eGNSDjuuUepYdy32k1zXS) | [PA¥ M€](https://open.spotify.com/album/13umdDCSUK4Lls4kNdVosA) | 2:16 |
 | 80 | [Electric Energy](https://open.spotify.com/track/0F9ZICuk35THKXQD8uoJpp) | [Samini](https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Mix Master Garzy](https://open.spotify.com/artist/4daEluk44yipMYsuYqZBXX) | [ORIGIN8A](https://open.spotify.com/album/0aaTaQX3Nu9Z5fdH7uZX5x) | 2:58 |
 
-Snapshot ID: `AAAAAFmx1CxU0S7BTypXChTZOOMsCAv2`
+Snapshot ID: `AAAAAMPgysDahY7TgcS4rbZPVRf33Pkt`

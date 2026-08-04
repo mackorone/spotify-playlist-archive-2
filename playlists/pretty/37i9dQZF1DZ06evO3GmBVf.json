@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 217466,
+  "num_followers": 217485,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAByAvRuD1fCY/79BS2F9DiZ",
+  "snapshot_id": "am6IgAAAAAC5bGx03TZxJ3VFfPHTHJTQ",
   "tracks": [
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy Por El Oro",
-        "url": "https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 310750,
-      "name": "Voy Por El Oro",
-      "url": "https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shit Masiva",
         "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 235068,
       "name": "Ac\u00e1 Entre Nos",
       "url": "https://open.spotify.com/track/4O6R59QSJoQlROItXrZcCe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voy Por El Oro",
+        "url": "https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 310750,
+      "name": "Voy Por El Oro",
+      "url": "https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 
 > per spingere come veri gym bro e gym sis
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,223 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,052 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 99 | [Danielle \(smile on my face\)](https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop) | 3:21 |
 | 100 | [Giovane fuoriclasse](https://open.spotify.com/track/60muwbD6E61lEYQSnEYlLc) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [20](https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw) | 3:41 |
 
-Snapshot ID: `AAAAACjOe3HRN3188UHRqLPX0g5+tSlb`
+Snapshot ID: `AAAAAHcFIb/dZ8jsuBUqHpg+rpp9vAyb`

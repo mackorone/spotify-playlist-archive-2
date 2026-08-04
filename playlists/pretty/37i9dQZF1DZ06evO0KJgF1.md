@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 
 > This is Siouxsie and the Banshees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,352 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,365 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 | 42 | [Shadowtime](https://open.spotify.com/track/1tf394pxbmBkyJ37AUVWXi) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Superstition \(Expanded Edition\)](https://open.spotify.com/album/0MNKE093cSDfCrABTCCXwP) | 4:28 |
 | 43 | [Carcass](https://open.spotify.com/track/2OwRRgr6rGkO0qYPwkUaoN) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 3:49 |
 | 44 | [This Wheel's On Fire](https://open.spotify.com/track/1JRDjdUYViUZPGDue1CENL) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 5:42 |
-| 45 | [Trust In Me](https://open.spotify.com/track/3I3A3OSbPD04tzkc62iYqq) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 4:06 |
-| 46 | [Swimming Horses](https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 4:04 |
+| 45 | [Swimming Horses](https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Hyaena \(Remastered And Expanded\)](https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr) | 4:04 |
+| 46 | [Trust In Me](https://open.spotify.com/track/3I3A3OSbPD04tzkc62iYqq) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 4:06 |
 | 47 | [Metal Postcard \(Mittageisen\)](https://open.spotify.com/track/58JjV3gddrK1BLNsz5Qzez) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 4:14 |
 | 48 | [Dizzy](https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 3:10 |
 | 49 | [Placebo Effect](https://open.spotify.com/track/3KRbrv6dHumhyyYTu97OqG) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Join Hands](https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj) | 4:37 |
 | 50 | [Fireworks \- 12" Version](https://open.spotify.com/track/7MyA3s6o5MnoneWELTjW9J) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [A Kiss In The Dreamhouse](https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1) | 4:30 |
 
-Snapshot ID: `am03AAAAAABzbRP9rv8CjWMZm0jXORiD`
+Snapshot ID: `am6IgAAAAABENuDKRXPk3gFb2rg+pdMp`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 
 > For those who like a little bit of coffee with their Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,681 likes - 150 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,719 likes - 150 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXKWi9FunemC.md) - [plain]
 | 149 | [Talking To A Dove](https://open.spotify.com/track/2VBWGfh1WorNT0yHkbG2Va) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Talking To A Dove](https://open.spotify.com/album/22XaF4IHvqBCIlWic1GNEb) | 3:19 |
 | 150 | [God I'm Just Grateful](https://open.spotify.com/track/7qWUi8VnNzFJJHRQvrVYan) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Hailey Daleah](https://open.spotify.com/artist/5UuuKbuxva1Q4UsZfs4f00), [Morgan Williams](https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie), [Jalisa Faye](https://open.spotify.com/artist/1onJcPvKJwXPUEfJkRpUd6) | [Moments 01](https://open.spotify.com/album/5xoRa7UebZt5fUz5IpCGWR) | 1:39 |
 
-Snapshot ID: `AAAAAP0yRT1ygt/Jj9XTHRDiiQaQKqSA`
+Snapshot ID: `AAAAAB0U8nceF93v2bCjshZY13hvMUwQ`

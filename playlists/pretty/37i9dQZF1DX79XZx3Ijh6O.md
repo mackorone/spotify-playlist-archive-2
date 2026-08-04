@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:0RD9SzfRYxzcvoxBcYJcNc">SEXTUR</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,177 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,213 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 49 | [Мустанг](https://open.spotify.com/track/3jtAknEW7Z4xzpacfRIZbN) | [HLIBOROB](https://open.spotify.com/artist/00HxF49G1Lkku0sJoxQW5k) | [Мустанг](https://open.spotify.com/album/4ALfGX7fLQfuFwxHci7m3n) | 4:11 |
 | 50 | [відчуття, що це щось прекрасне](https://open.spotify.com/track/14GDLuggfxzXzFUVEKc2ub) | [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd) | [відчуття, що це щось прекрасне](https://open.spotify.com/album/2TMOC1BjJWDuulib8MW6DI) | 3:15 |
 
-Snapshot ID: `AAAAAMjnmOQfcNurjTZGhitjy+siECj8`
+Snapshot ID: `AAAAAEA9xO1ETIuwO0ZZbgP6p9yWukW+`

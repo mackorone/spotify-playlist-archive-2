@@ -4,7 +4,7 @@
 
 > The home for alternative electronic music\. Cover: Laurence Guy
 
-1,553 songs - 4 day 8 hr 45 min
+1,554 songs - 4 day 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,7 +542,7 @@
 | [gimmi it](https://open.spotify.com/track/4TfFYHETOnTpdojoy7Up3H) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [gimmi it](https://open.spotify.com/album/36HIgN887ZohDhP2WKUowb) | 2:47 | 2024-05-10 | 2024-10-04 |
 | [Girl](https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU), [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Girl](https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa) | 3:24 | 2025-03-07 | 2025-08-29 |
 | [Girls](https://open.spotify.com/track/5XWwqKNVlQO07sdngDh8iL) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Girls](https://open.spotify.com/album/1ZVBWask9JSAT7nbkCvCRK) | 3:25 | 2024-06-21 | 2024-11-15 |
-| [Girls first](https://open.spotify.com/track/4m6NR1LOz8wo6OmAHcgCwc) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Girls first](https://open.spotify.com/album/0G3hx74DdbIhleZNgkuML6) | 4:18 | 2026-04-30 |  |
+| [Girls first](https://open.spotify.com/track/4m6NR1LOz8wo6OmAHcgCwc) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Girls first](https://open.spotify.com/album/0G3hx74DdbIhleZNgkuML6) | 4:18 | 2026-04-30 | 2026-08-04 |
 | [Give It 2 Me \- Edit](https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Give It 2 Me](https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33) | 3:48 | 2022-11-18 | 2023-03-31 |
 | [Give it to Me](https://open.spotify.com/track/6H2pxSiSTzSheYZydk7VZw) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Big Saldo's Chunker 002](https://open.spotify.com/album/6RquqCIzJ6Ay9A4HzoHRMX) | 7:09 | 2022-04-22 | 2022-09-23 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-06-16 | 2022-09-02 |
@@ -848,6 +848,7 @@
 | [M1, M3](https://open.spotify.com/track/2dy2LigdnxZ5SLFLQZbKQk) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/23zTuaBkMs6VX8O9gQPuRK) | 6:30 | 2023-04-27 | 2023-08-25 |
 | [M1, M3](https://open.spotify.com/track/6oVTKZr8DyW4PvV3MiMAhN) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [M1, M3 / GETOUTOFMYHEAD](https://open.spotify.com/album/6CD21gDg0zB2h1vLj54BDz) | 6:30 | 2023-02-24 | 2023-04-30 |
 | [Maayam \(feat\. Pritt\)](https://open.spotify.com/track/0WSc3Ort72j76IZM53upRt) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Pritt](https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn), [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ) | [Maayam \(feat\. Pritt\)](https://open.spotify.com/album/2rKixIJFlbcB0UjS8UHX9Z) | 2:58 | 2026-05-21 |  |
+| [Mabe](https://open.spotify.com/track/6cEX8cGCDhORY2dGLpd1jx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [9 months & 50 hours](https://open.spotify.com/album/4HZ3fF1dwSZLwztlLwoDYA) | 4:54 | 2026-08-03 |  |
 | [Made 4 U](https://open.spotify.com/track/2gqoaVqj3suM9DAkeBgUKD) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Made 4 U](https://open.spotify.com/album/058gfK0rY6EBqx6xdXxBMp) | 3:39 | 2022-11-11 | 2023-03-31 |
 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 | 2023-03-17 | 2023-09-22 |
 | [Magic Moment](https://open.spotify.com/track/6bcShXaH3ur6aM6mDxv95o) | [Francesca Lombardo](https://open.spotify.com/artist/53k6hml77TQV6Eub3zdbju), [VIKTORIIA](https://open.spotify.com/artist/0qXSZNPQ4kmgIamSn1ndHy) | [Magic Moment](https://open.spotify.com/album/4EPidCv1ztlKwUWct8A3CQ) | 9:21 | 2022-07-14 | 2022-10-14 |
@@ -1248,8 +1249,8 @@
 | [Sorry \(Digital Underground\)](https://open.spotify.com/track/4DXCVd7CIfnCtCtQZspNBy) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Sorry \(Digital Underground\)](https://open.spotify.com/album/2s2V25Ws1cPpZOhTiiYWk3) | 2:46 | 2024-08-08 | 2025-01-24 |
 | [Sort It Out](https://open.spotify.com/track/7GPLRckCBUZSq0nPkw539N) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Sort It Out](https://open.spotify.com/album/0frOHCo8ZfNdzs59oztxzK) | 4:31 | 2025-08-28 | 2025-12-12 |
 | [SOS](https://open.spotify.com/track/4LjotOn8sSIARFPSwSif6T) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [SOS](https://open.spotify.com/album/4CvOG7uGorzGxS4mzAuGvj) | 3:49 | 2024-11-15 | 2025-05-16 |
+| [soul reply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soul reply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 | 2026-07-30 |  |
 | [Soulo](https://open.spotify.com/track/27glZwjryJw1w2Zh2RlfnU) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Soulo](https://open.spotify.com/album/4YbzriYiLfLhyWm9xgAF77) | 5:54 | 2021-11-24\* | 2022-02-12 |
-| [soulreply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soulreply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 | 2026-07-30 |  |
 | [SPACE](https://open.spotify.com/track/23xGmh17xCrsZDHi9Ea2xW) | [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF) | [SPACE](https://open.spotify.com/album/3s1X1WGDClisuZJBSuuKJY) | 3:25 | 2023-03-31 | 2023-09-15 |
 | [SPACE INVADER](https://open.spotify.com/track/3fPW4EhpRR6BwLRPDThNeg) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [SPACE INVADER](https://open.spotify.com/album/3eS4QBdis6TOHCqsoiYedL) | 4:34 | 2025-08-14 | 2025-11-28 |
 | [Spectral Hearts](https://open.spotify.com/track/141jzqNtkMgKLquRplzlxy) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr) | [Opal](https://open.spotify.com/album/1FRXPDrg9E6ScQKLrZ4S3y) | 4:14 | 2022-04-29 | 2022-09-02 |

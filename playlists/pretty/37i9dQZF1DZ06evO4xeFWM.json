@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 221061,
+  "num_followers": 221026,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAAQR82cV5RrQ+fE6VctexZg",
+  "snapshot_id": "am6IgAAAAAA0dBAJbhPZlHyx2cln1DSF",
   "tracks": [
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+        "name": "Distorted Light Beam",
+        "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 251658,
-      "name": "Million Pieces",
-      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
+      "duration_ms": 177221,
+      "name": "Distorted Light Beam",
+      "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Distorted Light Beam",
-        "url": "https://open.spotify.com/album/5FnEu6Hpo6dZ8qIp3BX5Bz"
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 177221,
-      "name": "Distorted Light Beam",
-      "url": "https://open.spotify.com/track/7bREivF1RTm0vOYB2wi7nE"
+      "duration_ms": 251658,
+      "name": "Million Pieces",
+      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
     },
     {
       "added_at": null,
@@ -815,22 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Grief (Don Diablo Remix)",
-        "url": "https://open.spotify.com/album/3TPamu1C98GWxTNRNU5L1Q"
+        "name": "Liar Liar (Feat. Bastille)",
+        "url": "https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
         },
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Good Grief - Don Diablo Remix",
-      "url": "https://open.spotify.com/track/5dSFlPDHjAuYU1apyrRgqV"
+      "duration_ms": 174632,
+      "name": "Liar Liar (Feat. Bastille)",
+      "url": "https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH"
     },
     {
       "added_at": null,
@@ -851,22 +851,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liar Liar (Feat. Bastille)",
-        "url": "https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP"
+        "name": "Good Grief (Don Diablo Remix)",
+        "url": "https://open.spotify.com/album/3TPamu1C98GWxTNRNU5L1Q"
       },
       "artists": [
         {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        },
-        {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 174632,
-      "name": "Liar Liar (Feat. Bastille)",
-      "url": "https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH"
+      "duration_ms": 239000,
+      "name": "Good Grief - Don Diablo Remix",
+      "url": "https://open.spotify.com/track/5dSFlPDHjAuYU1apyrRgqV"
     },
     {
       "added_at": null,

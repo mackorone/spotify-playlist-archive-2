@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 88420,
+  "num_followers": 88337,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAACrOzDC3N7uOILGS6TSxZAW",
+  "snapshot_id": "am6IgAAAAADDLVx/pbyj1kKBsJyOZG17",
   "tracks": [
     {
       "added_at": null,
@@ -223,18 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+        "name": "La M\u00e1s Chula",
+        "url": "https://open.spotify.com/album/3jxbrNw81a2OxYsxQImQZq"
       },
       "artists": [
+        {
+          "name": "Los Ejemplares del Rancho",
+          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
+        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 168213,
-      "name": "Ella Sali\u00f3 a Bailar",
-      "url": "https://open.spotify.com/track/4v0onUOF5JnWFEqQ3qlCSV"
+      "duration_ms": 159994,
+      "name": "La M\u00e1s Chula",
+      "url": "https://open.spotify.com/track/12tWgQj804EGTGoivIWQxi"
     },
     {
       "added_at": null,
@@ -263,22 +267,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La M\u00e1s Chula",
-        "url": "https://open.spotify.com/album/3jxbrNw81a2OxYsxQImQZq"
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
       },
       "artists": [
-        {
-          "name": "Los Ejemplares del Rancho",
-          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 159994,
-      "name": "La M\u00e1s Chula",
-      "url": "https://open.spotify.com/track/12tWgQj804EGTGoivIWQxi"
+      "duration_ms": 168213,
+      "name": "Ella Sali\u00f3 a Bailar",
+      "url": "https://open.spotify.com/track/4v0onUOF5JnWFEqQ3qlCSV"
     },
     {
       "added_at": null,
@@ -295,42 +295,6 @@
       "duration_ms": 180384,
       "name": "Soy Mencho",
       "url": "https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 163477,
-      "name": "Conmigo Ya No Cuentas",
-      "url": "https://open.spotify.com/track/6iT1nqzgw1zYL8Ke7Kt7O6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 250368,
-      "name": "Otro Perdedor",
-      "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
     },
     {
       "added_at": null,
@@ -355,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 165480,
-      "name": "Gente del General",
-      "url": "https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q"
+      "duration_ms": 250368,
+      "name": "Otro Perdedor",
+      "url": "https://open.spotify.com/track/5CXAHV4mt5tuIP7oI4ldeH"
     },
     {
       "added_at": null,
@@ -380,9 +348,25 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 208537,
-      "name": "Aqui Sigo de Pie",
-      "url": "https://open.spotify.com/track/0ycp5Dtf0seaaZPt92siks"
+      "duration_ms": 163477,
+      "name": "Conmigo Ya No Cuentas",
+      "url": "https://open.spotify.com/track/6iT1nqzgw1zYL8Ke7Kt7O6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 165480,
+      "name": "Gente del General",
+      "url": "https://open.spotify.com/track/0di4Hh3AqJqbY9lFDgcB5Q"
     },
     {
       "added_at": null,
@@ -427,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 208537,
+      "name": "Aqui Sigo de Pie",
+      "url": "https://open.spotify.com/track/0ycp5Dtf0seaaZPt92siks"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+        "name": "La Vida Que Nos Toco",
+        "url": "https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 179008,
-      "name": "Canto Pa' Desahogarme",
-      "url": "https://open.spotify.com/track/6ySxbcCY8ifqY7i7fYA7af"
+      "duration_ms": 174615,
+      "name": "Si Tu Jalas Yo Jalo",
+      "url": "https://open.spotify.com/track/2bO9xZpD5nOiel1GvGr1xG"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida Que Nos Toco",
-        "url": "https://open.spotify.com/album/3hV0oQWIZ3ClLswRyHPXhp"
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 174615,
-      "name": "Si Tu Jalas Yo Jalo",
-      "url": "https://open.spotify.com/track/2bO9xZpD5nOiel1GvGr1xG"
+      "duration_ms": 179008,
+      "name": "Canto Pa' Desahogarme",
+      "url": "https://open.spotify.com/track/6ySxbcCY8ifqY7i7fYA7af"
     },
     {
       "added_at": null,
@@ -635,26 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Titular",
-        "url": "https://open.spotify.com/album/25FBGuSUJGy0HBKQrGUmvC"
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Ronaldinho Ga\u00facho",
-          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
-        },
-        {
-          "name": "Tu Musica",
-          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Titular",
-      "url": "https://open.spotify.com/track/6coDVmtstHCQJLknlcCuUF"
+      "duration_ms": 179050,
+      "name": "Sabe Lo Que Trae",
+      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
     },
     {
       "added_at": null,
@@ -679,18 +671,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+        "name": "Titular",
+        "url": "https://open.spotify.com/album/25FBGuSUJGy0HBKQrGUmvC"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ronaldinho Ga\u00facho",
+          "url": "https://open.spotify.com/artist/5AJWGh9NGtTwzTCVq7zFbe"
+        },
+        {
+          "name": "Tu Musica",
+          "url": "https://open.spotify.com/artist/32d1598Me1o3dH5vJriexa"
         }
       ],
-      "duration_ms": 179050,
-      "name": "Sabe Lo Que Trae",
-      "url": "https://open.spotify.com/track/7z3FyYTEEof8nK8adxlI2Z"
+      "duration_ms": 163200,
+      "name": "Titular",
+      "url": "https://open.spotify.com/track/6coDVmtstHCQJLknlcCuUF"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eso Es La Riqueza",
-        "url": "https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Eso Es La Riqueza",
-      "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 198582,
       "name": "C\u00f3mo Los Vaqueros",
       "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eso Es La Riqueza",
+        "url": "https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Eso Es La Riqueza",
+      "url": "https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2"
     },
     {
       "added_at": null,
@@ -827,26 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estrenando Amante",
-        "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 168546,
-      "name": "Estrenando Amante",
-      "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi 45 (En Vivo)",
         "url": "https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 156840,
       "name": "Mi 45 - En Vivo",
       "url": "https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estrenando Amante",
+        "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 168546,
+      "name": "Estrenando Amante",
+      "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
     },
     {
       "added_at": null,

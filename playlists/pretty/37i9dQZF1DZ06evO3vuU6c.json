@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1437859,
+  "num_followers": 1436180,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAADpmrbrB7EKPNCfxlaeuF6I",
+  "snapshot_id": "am6IgAAAAACUbR5gsYJVheZZpPoayXs2",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Elastic Heart",
-      "url": "https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 210906,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Elastic Heart",
+      "url": "https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz"
     },
     {
       "added_at": null,
@@ -403,22 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 252440,
-      "name": "Bird Set Free",
-      "url": "https://open.spotify.com/track/44p0C72gL2FbjWbzkUFfTf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That's Life (feat. Mac Miller & Sia)",
         "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 202390,
       "name": "That's Life (feat. Mac Miller & Sia)",
       "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 252440,
+      "name": "Bird Set Free",
+      "url": "https://open.spotify.com/track/44p0C72gL2FbjWbzkUFfTf"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel By The Wings",
-        "url": "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 319200,
-      "name": "Angel By The Wings",
-      "url": "https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drinking From The Sun",
         "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 226413,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel By The Wings",
+        "url": "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 319200,
+      "name": "Angel By The Wings",
+      "url": "https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb"
     },
     {
       "added_at": null,
@@ -815,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scorcha",
         "url": "https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 212668,
       "name": "Dynamite (feat. Sia)",
       "url": "https://open.spotify.com/track/0LcLOyu9n5qRTeax5IdewO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn"
     },
     {
       "added_at": null,

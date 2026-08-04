@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, VICTORS, The Wild Wind and more
+> With Rhineland, The Wild Wind, VICTORS and more
 
 1,441 songs - 3 day 20 hr 23 min
 
@@ -568,7 +568,7 @@
 | [Holy Woman](https://open.spotify.com/track/6zhuVM8xbo2Uin5Cwpb85p) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Wash](https://open.spotify.com/album/3X4oLQ5APFlwryQnOeNtYJ) | 3:40 | 2022-03-22 | 2022-03-23 |
 | [Home](https://open.spotify.com/track/3UyrU0pqcd2bOSe4nSOiAG) | [brodyn](https://open.spotify.com/artist/5Atytc4w4HE9vlkPs4tBXj) | [Home](https://open.spotify.com/album/3Ft6PiCb5djpCjIvERVTER) | 3:38 | 2022-04-13 | 2022-04-14 |
 | [Home](https://open.spotify.com/track/4Wus36Hgdht8kbW9WCJ0qN) | [NEWCOAST](https://open.spotify.com/artist/1EuCCNdLHenJnX4UUTMcWL) | [Home](https://open.spotify.com/album/7rnalb6fQ4rq3NzGNZSZKw) | 4:04 | 2022-03-17 | 2022-06-17 |
-| [Home](https://open.spotify.com/track/2jW4NPHX8uilq8HtZY7xbR) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Home](https://open.spotify.com/album/1pkSvMMS7vSTpYNcVhNE4d) | 3:00 | 2026-05-10 |  |
+| [Home](https://open.spotify.com/track/2jW4NPHX8uilq8HtZY7xbR) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Home](https://open.spotify.com/album/1pkSvMMS7vSTpYNcVhNE4d) | 3:00 | 2026-05-10 | 2026-08-04 |
 | [homebody](https://open.spotify.com/track/4By9kkp1R1TSmAMckSM3KO) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better \(extended\)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 3:11 | 2022-05-08 | 2022-10-27 |
 | [Homeless Heart](https://open.spotify.com/track/4xXkba043LheYD5YHCXdfg) | [Beyond](https://open.spotify.com/artist/0THRuGcaRImFTel5bIL9lp), [Simon Lionel](https://open.spotify.com/artist/3A6LcKrO57BDKMOGJnUA2f) | [Homeless Heart](https://open.spotify.com/album/6XjQYUXkb3J7sqIlrpmxoe) | 3:20 | 2022-03-31 | 2022-04-04 |
 | [Homesick](https://open.spotify.com/track/4Xdn0SxqP1bWqzmDKjvyTD) | [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl) | [A Place I Knew Before](https://open.spotify.com/album/3kYWkZB8Y1QusFpcybeoRp) | 3:09 | 2022-03-13 | 2022-03-14 |
@@ -804,9 +804,9 @@
 | [Lying to Myself](https://open.spotify.com/track/58ajhiH7UPRfC9upB92gXD) | [Portair](https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG) | [Lying to Myself](https://open.spotify.com/album/7jbJ8OyK6Md18XCfDZWVxI) | 3:32 | 2022-08-28 | 2024-04-13 |
 | [Mad Love](https://open.spotify.com/track/6e15rPNKIJTSnPn74buRwS) | [Honest Men](https://open.spotify.com/artist/7ed5eSusVIBEIvmkASgzKj) | [I'm Okay](https://open.spotify.com/album/4vpZiKNXO0eTWDWwJai3Iw) | 3:03 | 2022-01-30 | 2022-02-02 |
 | [Madrid](https://open.spotify.com/track/1bid3LBFgc4hk9scHcZhkx) | [NEWCOAST](https://open.spotify.com/artist/1EuCCNdLHenJnX4UUTMcWL) | [In Valentino Red](https://open.spotify.com/album/76dFqhO7Os2Dgj4i2F79bh) | 4:01 | 2022-03-12 | 2022-10-16 |
-| [Magic](https://open.spotify.com/track/5Z4DxvV4ifNFpJIyvuZBcx) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [Twist of Fate](https://open.spotify.com/album/2cl2zVVSzvV2QMEFpe3wYY) | 3:53 | 2022-03-19 |  |
+| [Magic](https://open.spotify.com/track/5Z4DxvV4ifNFpJIyvuZBcx) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [Twist of Fate](https://open.spotify.com/album/2cl2zVVSzvV2QMEFpe3wYY) | 3:53 | 2022-03-19 | 2026-08-04 |
 | [Magic](https://open.spotify.com/track/0M9WEvUFFoTCPB0LNRlsE9) | [Parnell](https://open.spotify.com/artist/7M1pXopjPQZJD0oa6irklY) | [You Don't Have To Be OK](https://open.spotify.com/album/7fnhtYTdR9srJKDjMdebvc) | 4:48 | 2022-05-04 | 2022-05-07 |
-| [Magic](https://open.spotify.com/track/6Pij7wPMJHDgpaq4ooqoit) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Magic](https://open.spotify.com/album/3JmpTaHDCYGNldsYzom4wo) | 3:57 | 2022-04-01 | 2026-08-03 |
+| [Magic](https://open.spotify.com/track/6Pij7wPMJHDgpaq4ooqoit) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Magic](https://open.spotify.com/album/3JmpTaHDCYGNldsYzom4wo) | 3:57 | 2022-04-01 |  |
 | [Magic \(Acoustic\)](https://open.spotify.com/track/2zoX7Mohwha9OgOt97FPWS) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [Magic \(Acoustic\)](https://open.spotify.com/album/28SupxRurClatUBD8thTXM) | 3:33 | 2022-07-17 | 2022-07-18 |
 | [Magnificent](https://open.spotify.com/track/4djeNHa2hRfxB5Z4HD5Stu) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Magnificent](https://open.spotify.com/album/2tt0LJqnklCQ5cAaclOeJi) | 4:28 | 2022-03-14 | 2022-03-15 |
 | [Make Believe](https://open.spotify.com/track/5qE1naYtLuNkoS5G35GfAQ) | [Secret Nation](https://open.spotify.com/artist/0gX4Kuwic0S5GfOp1oBZYC) | [The Rise](https://open.spotify.com/album/351P18JUoXriGEAXaPNHZY) | 3:22 | 2022-06-25 | 2025-09-05 |
@@ -1260,7 +1260,7 @@
 | [The Wire](https://open.spotify.com/track/2fvgn1xCyf0VQ5o33ZCoc6) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Wire](https://open.spotify.com/album/0HpxT1VFSvCSNXrk3976Qc) | 3:00 | 2022-06-24 | 2022-07-08 |
 | [The Wire](https://open.spotify.com/track/3EV4WRjD3LXu5BAQv479P9) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Fallen Paradise](https://open.spotify.com/album/0Pq2CJXepTD3Tbl9jXhlhu) | 3:00 | 2022-10-07 | 2023-06-12 |
 | [There's Still A Light In The House](https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [MAYBE](https://open.spotify.com/album/2H1daV65dzHfSoYda0wqjB) | 3:23 | 2022-03-27 | 2022-06-22 |
-| [Things I Can't Explain](https://open.spotify.com/track/278dQxBy7NH5eA0WaNw6Gq) | [Dekleyn](https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI) | [Things I Can't Explain](https://open.spotify.com/album/7wgZmvDWGSc66ldpWFXX6g) | 3:49 | 2025-08-23 | 2026-08-01 |
+| [Things I Can't Explain](https://open.spotify.com/track/278dQxBy7NH5eA0WaNw6Gq) | [Dekleyn](https://open.spotify.com/artist/1Vsd976pE4fZP74l3LP3PI) | [Things I Can't Explain](https://open.spotify.com/album/7wgZmvDWGSc66ldpWFXX6g) | 3:49 | 2025-08-23 |  |
 | [Thirty Eight](https://open.spotify.com/track/1noZLHWZB15QEDBCHq8CdE) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [Thirty Eight](https://open.spotify.com/album/6zxftKiTydsE5rK2AoXncr) | 3:45 | 2021-12-03 | 2023-08-02 |
 | [Thirty Eight](https://open.spotify.com/track/5SFUNL7bQsi8g4RePMFnx1) | [The Ivy](https://open.spotify.com/artist/6rwEDzogsmiJGMjUsGn8vn) | [We Move Faster at Night](https://open.spotify.com/album/0XeJPbkckWaqtZiqSIrVfu) | 3:45 | 2023-08-02 | 2024-11-12 |
 | [This Could Be](https://open.spotify.com/track/1B3q53I9zJk6NROKVE3EBz) | [Joel Ansett](https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl) | [A Place I Knew Before](https://open.spotify.com/album/3kYWkZB8Y1QusFpcybeoRp) | 3:50 | 2022-03-17 | 2022-08-22 |

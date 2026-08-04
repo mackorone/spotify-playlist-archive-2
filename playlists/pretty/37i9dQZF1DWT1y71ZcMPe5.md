@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 ### [It's a Hit!](https://open.spotify.com/playlist/37i9dQZF1DWT1y71ZcMPe5)
 
-> The hottest songs you need to listen to right now\. Cover: JENNIE
+> The hottest songs you need to listen to right now\. Cover: Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,239,760 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,224,605 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Angel\(s\)](https://open.spotify.com/track/6SwLUJjEIhQfDBPJNexA2y) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [Angel\(s\)](https://open.spotify.com/album/71W6HyKdt6FDhVYChmamZ4) | 3:03 |
 | 50 | [Amoeba](https://open.spotify.com/track/1z3yelL9joxerhXDqG96vy) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Amoeba](https://open.spotify.com/album/7c17U6VtyH0xRoWqfDcKrn) | 3:16 |
 
-Snapshot ID: `AAAAACBAWd7g+p310RKxA3DdEVIke1ks`
+Snapshot ID: `AAAAABTA4uPXtUOm9pTN21rIEj0BU4vP`

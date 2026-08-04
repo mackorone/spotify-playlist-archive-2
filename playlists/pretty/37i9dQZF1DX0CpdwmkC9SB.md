@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,227 likes - 200 songs - 13 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,210 likes - 200 songs - 13 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 | 199 | [H.O.O.D \- 2025 Mix](https://open.spotify.com/track/55gs9waCCYDNuK4Z4nQsJW) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU) | [H.O.O.D 2025](https://open.spotify.com/album/4cAdb9NdYEV6XEke45Nliu) | 2:52 |
 | 200 | [Forever Dolphin Love \- Erol Alkan Rework](https://open.spotify.com/track/0oNJa6alhhG6rZPROQ3ZTZ) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA), [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5) | [Forever Dolphin Love](https://open.spotify.com/album/6AuUAuYLT4HCWE47SCH1GB) | 9:38 |
 
-Snapshot ID: `AAAAAFEN8MebujIvpe7ksdVG9JwOwtXy`
+Snapshot ID: `AAAAAFUi0BrUPGtNaWv5UP/igmbBmU6j`

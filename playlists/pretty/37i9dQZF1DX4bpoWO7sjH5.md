@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Marcos Witt
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,767 likes - 150 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,754 likes - 150 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 54 | [Feliz Navidad](https://open.spotify.com/track/2hh3NHe6Z3JyC11wwkHTBG) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY) | [Feliz Navidad](https://open.spotify.com/album/7dkXbTzCNrbLeLwEBDjBrC) | 3:05 |
 | 55 | [Llegó Navidad](https://open.spotify.com/track/3AknclWyWPLqIyUEyLPmKi) | [Daniel Vengo](https://open.spotify.com/artist/3nZfp3ZXgYSYspFsZI6VAW), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Navidad de la Casa](https://open.spotify.com/album/4bB4B7b3B7qQoHeAc8kBtH) | 3:23 |
 | 56 | [Vístete](https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Pa'que Mi Pueblo Cante](https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR) | 3:29 |
-| 57 | [Venid Adoremos](https://open.spotify.com/track/0Ukh2IsNxpbrUqCeklCZ7c) | [Marco López](https://open.spotify.com/artist/61BYqEd2g505e6OWOUaxqy), [Inés de Jesús](https://open.spotify.com/artist/2L7yO3ascUDsMPN82diVNe) | [Venid Adoremos](https://open.spotify.com/album/5OHS5ASY3hQIURNlaUEBpw) | 3:31 |
-| 58 | [El Rey Ha Nacido](https://open.spotify.com/track/2OpGaF6ZHiudzojxz9Oix7) | [Omar Cruz](https://open.spotify.com/artist/0uq04cmda7dbPWFjRjfZ7g) | [El Rey Ha Nacido](https://open.spotify.com/album/2wKfVkvvBUJi695K3yCFaz) | 4:25 |
+| 57 | [El Rey Ha Nacido](https://open.spotify.com/track/2OpGaF6ZHiudzojxz9Oix7) | [Omar Cruz](https://open.spotify.com/artist/0uq04cmda7dbPWFjRjfZ7g) | [El Rey Ha Nacido](https://open.spotify.com/album/2wKfVkvvBUJi695K3yCFaz) | 4:25 |
+| 58 | [Venid Adoremos](https://open.spotify.com/track/0Ukh2IsNxpbrUqCeklCZ7c) | [Marco López](https://open.spotify.com/artist/61BYqEd2g505e6OWOUaxqy), [Inés de Jesús](https://open.spotify.com/artist/2L7yO3ascUDsMPN82diVNe) | [Venid Adoremos](https://open.spotify.com/album/5OHS5ASY3hQIURNlaUEBpw) | 3:31 |
 | 59 | [Cumpleaños](https://open.spotify.com/track/52HoxkjHTmMLDbItFbQt7e) | [Papel Maché](https://open.spotify.com/artist/4HHusE5bmlEPr8TodXqV1Q) | [Folky Navidad](https://open.spotify.com/album/5vFb6MeUukVCeRcRyp6fi3) | 3:36 |
 | 60 | [Plena Que Adora a Dios](https://open.spotify.com/track/4rBxK37YIwtn2vonTCDL93) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5) | [Plena Que Se Pega](https://open.spotify.com/album/7H8NRCZHATz2fUK7KxD9Um) | 3:28 |
 | 61 | [El Niño Dios Travieso](https://open.spotify.com/track/5LMedZBFLYwakTuAAjxnQb) | [Ana Bolivar](https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV) | [El Niño Dios Travieso](https://open.spotify.com/album/4GSz92Wp5SXuVtMYCeJeWo) | 3:00 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 91 | [Feliz Navidad](https://open.spotify.com/track/7DdzZR7HApfnnkosAe2vVG) | [Jaydan](https://open.spotify.com/artist/7h9VV4VCZdFXVh3FsUxus5) | [Feliz Navidad](https://open.spotify.com/album/6VCsFBSPBKUHkU5Lvoknh8) | 2:49 |
 | 92 | [Hoy Ha Nacido el Salvador](https://open.spotify.com/track/6Q8C5Am5jOxwbQuTzXmljH) | [Ivan Diaz](https://open.spotify.com/artist/27PzO3XYBbps95WvMrcWmu) | [Hoy Ha Nacido el Salvador](https://open.spotify.com/album/4Xld2ExYNvHD3Pbft8SUrm) | 5:29 |
 | 93 | [El Mejor Regalo](https://open.spotify.com/track/7CRs2dXZVzkhkEplhq2kPl) | [Ovidio Aguilar](https://open.spotify.com/artist/0j86p3ID78X0k5MHzO08FS), [Luis Manuel Aguilar "luisma"](https://open.spotify.com/artist/62PiLpCvkhQU94IonwnjF1), [Harold Santana](https://open.spotify.com/artist/7m7NBjbuuPvDaJmLJflnJq), [Isaac David Aguilar Torres](https://open.spotify.com/artist/7y6EwN7ppiMmYruLkgMrli) | [El Mejor Regalo](https://open.spotify.com/album/0KYqd7MG02VxLKWc8bnnl7) | 5:07 |
-| 94 | [Camino a Belén](https://open.spotify.com/track/7vucj0QX5L16VP98S20afD) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Camino a Belén](https://open.spotify.com/album/4SbygYpD25r52NhjYjXKax) | 3:18 |
-| 95 | [Fiestas De Navidad](https://open.spotify.com/track/5pkYpPTEoOacNgbJ04t9SA) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Fiestas De Navidad](https://open.spotify.com/album/5Seo1QTqE1LLX1Qt10wnRH) | 3:00 |
+| 94 | [Fiestas De Navidad](https://open.spotify.com/track/5pkYpPTEoOacNgbJ04t9SA) | [La Reforma](https://open.spotify.com/artist/509gHoIVkSYOOWxcpKyfRf) | [Fiestas De Navidad](https://open.spotify.com/album/5Seo1QTqE1LLX1Qt10wnRH) | 3:00 |
+| 95 | [Camino a Belén](https://open.spotify.com/track/7vucj0QX5L16VP98S20afD) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG) | [Camino a Belén](https://open.spotify.com/album/4SbygYpD25r52NhjYjXKax) | 3:18 |
 | 96 | [Es Navidad](https://open.spotify.com/track/4K3xYEAR8XT6qV9havS1Gp) | [Haury](https://open.spotify.com/artist/5lIeOHq9lhg4ZxIiPM3GTa) | [Es Navidad](https://open.spotify.com/album/4yoax4asfppHr8mcgqHZU0) | 2:16 |
 | 97 | [El Mejor Regalo](https://open.spotify.com/track/6IWHYmraai7TGalDP6eS2l) | [Pescao Vivo](https://open.spotify.com/artist/5GlkVOsZJwtYsvY55B8ExI) | [El Mejor Regalo](https://open.spotify.com/album/5BK7NX2RGS1GgZODTMGZdy) | 3:04 |
 | 98 | [Noche de Paz](https://open.spotify.com/track/1EbW5NTsbAwkfy1rUaP2yG) | [Celeste & Wilber](https://open.spotify.com/artist/0z8qKQvfadsbeqHhMKIavF) | [Noche de Paz](https://open.spotify.com/album/6lIjL1XdZmY6rKjX2l8Tv0) | 4:37 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 113 | [Cantamos Gloria](https://open.spotify.com/track/4Jy3kEtTF3MuGzOXsuXyrg) | [Paulina Rojas](https://open.spotify.com/artist/54gfW1m0rJBh56fKihR53z), [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Cantamos Gloria](https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q) | 3:47 |
 | 114 | [Santa la Noche](https://open.spotify.com/track/3tPeT6159RSlaaONcMRyFC) | [NewSpring Worship](https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM), [Charlee Buitrago](https://open.spotify.com/artist/76g8gyIWxuCkaeiqynU9L8), [Jezlynne Cintrón](https://open.spotify.com/artist/581HlbVAl8wMyW9tUdE4J1) | [En Las Alturas](https://open.spotify.com/album/4AVhNkPtZJ6GUfbdTHCfTq) | 7:16 |
 | 115 | [Que Se Llene Tu Casa](https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 4:08 |
-| 116 | [Pasen La Navidad Conmigo](https://open.spotify.com/track/75rJXFGVTWRpgUi7ywIUUE) | [Michael Lizárraga](https://open.spotify.com/artist/5s5xh9ahS3Af7soatyfb6b) | [The Ultimate Christmas Collection](https://open.spotify.com/album/5qy8lefE0Ki8Q2Mz5odZ0A) | 3:49 |
-| 117 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 |
+| 116 | [El Nombre De Jesús \(feat\. Christine D'clario\)](https://open.spotify.com/track/1cMTzjQOTt3wVAbFgTGPYN) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/13cS6xvlMND2HFSphWWINT) | 4:30 |
+| 117 | [Pasen La Navidad Conmigo](https://open.spotify.com/track/75rJXFGVTWRpgUi7ywIUUE) | [Michael Lizárraga](https://open.spotify.com/artist/5s5xh9ahS3Af7soatyfb6b) | [The Ultimate Christmas Collection](https://open.spotify.com/album/5qy8lefE0Ki8Q2Mz5odZ0A) | 3:49 |
 | 118 | [Sin Ti](https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Sin Ti](https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH) | 4:24 |
 | 119 | [Precioso Jesús](https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI) | 6:20 |
 | 120 | [Esta Navidad Eres Tu](https://open.spotify.com/track/66oIEkcrotrW34E99FRiVK) | [Giada Valenti](https://open.spotify.com/artist/5KTmkF9d1mTUKPofH484Wt) | [Esta Navidad Eres Tu](https://open.spotify.com/album/03FEVIsNTjZtDlgxkL83BE) | 4:36 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 149 | [Esta Navidad](https://open.spotify.com/track/2hiGFRS2dwXGIsHwkXn1Hy) | [Alejandra Miguez](https://open.spotify.com/artist/2bbaAx3d1D2AuP89ebeAY6) | [Esta Navidad](https://open.spotify.com/album/5W9SM2KjCgepbewRGFPGMt) | 3:01 |
 | 150 | [Mi Salvador](https://open.spotify.com/track/6GPo8DZlQ53INHImfdIHGJ) | [Familia Emanuel Worship](https://open.spotify.com/artist/5R4Pszoyd6Ku6K85QP18Ak) | [Mi Salvador](https://open.spotify.com/album/15fXyLAMiUG3B9pnZ20Xfa) | 4:07 |
 
-Snapshot ID: `AAAAAKW1nh1NQLqufBI9o6INPszmtL6g`
+Snapshot ID: `AAAAAL0y8aqRJVbqHNROLkbBowMn2hXs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 > Meet the popular webtoon OSTs now! \(Cover: Tomb Raider King \(도굴왕\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,816 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,799 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 99 | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [Only you \(The Moon during the Day X GB9\)](https://open.spotify.com/album/3uNHehmSwCjlZDJ0jcZwyw) | 4:46 |
 | 100 | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/track/3j1JnErBuRpWQpgtSmuMK7) | [VIINI](https://open.spotify.com/artist/1BqI1HGTzHx6abI5iBVz2F) | [LETTER \(True Beauty X VIINI\)](https://open.spotify.com/album/1Fyrd1kuklVC57UQ041L1o) | 3:42 |
 
-Snapshot ID: `AAAAAPXxhXsr6SW4qWVjf9xdAAcRsOSa`
+Snapshot ID: `AAAAABrys8PqQU8QQ22zxUOY7vNdvtXe`

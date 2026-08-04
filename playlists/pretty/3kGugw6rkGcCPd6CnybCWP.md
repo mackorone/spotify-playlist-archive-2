@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 72 songs - 4 hr 19 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,165 likes - 76 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,9 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 70 | [Isnt It Beautiful](https://open.spotify.com/track/4YZMVe3BVBcZSwxJ2AMDen) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Isnt It Beautiful](https://open.spotify.com/album/3dnxEjKCOViLHS9qm9omx0) | 3:37 |
 | 71 | [You Know](https://open.spotify.com/track/2ewL6nDW9xHY6FcngNL3NC) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [You Know](https://open.spotify.com/album/53LzGxN4ZxyrfQtOkB8xDa) | 2:43 |
 | 72 | [She's Like The Sea](https://open.spotify.com/track/0B0HKK954dM1diGqHqmdKa) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [Nervous Systems](https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml) | 4:03 |
+| 73 | [Go and Fu.\. Yourself](https://open.spotify.com/track/4nBBFkTumPQgEFyqd3gnA1) | [ThorE.E.K](https://open.spotify.com/artist/3X9i2Xfpf4CQjCeV6QMEps) | [Go and Fu.\. Yourself](https://open.spotify.com/album/2f9km0bgK0U2SgL1bMIqZg) | 2:58 |
+| 74 | [BALLET BILLY](https://open.spotify.com/track/6s75SQOvQynztfiYTc5mrC) | [Cut Manners](https://open.spotify.com/artist/1OXL2MCFMKck1RMwKvcvNT) | [BALLET BILLY](https://open.spotify.com/album/1HUnj0XuLs6AQ6TxKrNr37) | 1:46 |
+| 75 | [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 |
+| 76 | [A Million Miles Away](https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [A Million Miles Away](https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G) | 7:12 |
 
-Snapshot ID: `AAAPtIYuA+qynt8kotB2+kLR/4WcGdnF`
+Snapshot ID: `AAAPuC88dETtQpG3/Lyik4HaHo1df7K4`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: Kenaniah
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,070 likes - 44 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,428 likes - 44 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Amoeba](https://open.spotify.com/track/1z3yelL9joxerhXDqG96vy) | [Chezka](https://open.spotify.com/artist/09aWOipSJalkgLg7vOOUlY) | [Amoeba](https://open.spotify.com/album/7c17U6VtyH0xRoWqfDcKrn) | 3:16 |
 | 2 | [Ai Shite Ruyo](https://open.spotify.com/track/7lN50K8eny7KTRXKvd95Wt) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Ai Shite Ruyo](https://open.spotify.com/album/0s74hT3Ar02cQZA7VHhxnn) | 3:08 |
 | 3 | [maryclaire](https://open.spotify.com/track/2kxOkocyK75spxRWoSaufB) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [maryclaire](https://open.spotify.com/album/1meZYCtadHPVjd8GYH6mTr) | 6:05 |
-| 4 | [Ganun Pa Rin](https://open.spotify.com/track/4KY8kJGQqVA9VzPzvNKTrH) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Ganun Pa Rin](https://open.spotify.com/album/78LyI9YGLRQmLbjxvrEriu) | 4:42 |
+| 4 | [Ganun Pa Rin](https://open.spotify.com/track/4KY8kJGQqVA9VzPzvNKTrH) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Ganun Pa Rin](https://open.spotify.com/album/78LyI9YGLRQmLbjxvrEriu) | 4:40 |
 | 5 | [Kung May Problema Ka](https://open.spotify.com/track/4MutWazZvqokE6WM6QoOvj) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Kung May Problema Ka](https://open.spotify.com/album/4Z53qocPuKq5tnMghl15pA) | 2:57 |
 | 6 | [june](https://open.spotify.com/track/4Xapw9FuPoxd4SWobsfgMA) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [GOOD GOOD JUJU](https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf) | 3:44 |
 | 7 | [Pag\-ibig Fun](https://open.spotify.com/track/6YEqmic5LtdlOcaCqR9lA2) | [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [IT STARTS WITH A WINK](https://open.spotify.com/album/4YR7xycIlOYT3Nn738VvSN) | 3:08 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 | 36 | [ITABI MO](https://open.spotify.com/track/5BOE9wj3l7tzU7iCZVIJZL) | [Elhé](https://open.spotify.com/artist/2cISyyoc7B4kws6seWRzao) | [ITABI MO](https://open.spotify.com/album/3XcTVWWePCLeDukbNHFOi0) | 2:31 |
 | 37 | [Aswang sa Maynila](https://open.spotify.com/track/424bBEqg4ggyNtEy1GtvPA) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr), [Novocrane](https://open.spotify.com/artist/3G4EbmaEUiibM9xzQ0XmgZ) | [Aswang sa Maynila](https://open.spotify.com/album/3cy4nnkHXOvsOxS9803bst) | 2:42 |
 | 38 | [ORASAN](https://open.spotify.com/track/0R37bhrdCE5pRb3SfLLT3Q) | [HEY JUNE!](https://open.spotify.com/artist/4Bxk4PebmsWgvjMrtQqBvq) | [Curiosity Killed the Cat](https://open.spotify.com/album/5duuHmLrcRq26ePcf7XBFd) | 4:00 |
-| 39 | [Huli Na Ba Ang Lahat?](https://open.spotify.com/track/1KPwDC5T93NQsrqR5QXiKw) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Huli Na Ba Ang Lahat?](https://open.spotify.com/album/30HSXwqaY5H8BWofJok9PL) | 4:50 |
+| 39 | [Huli Na Ba Ang Lahat?](https://open.spotify.com/track/1KPwDC5T93NQsrqR5QXiKw) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Huli Na Ba Ang Lahat?](https://open.spotify.com/album/30HSXwqaY5H8BWofJok9PL) | 4:48 |
 | 40 | [i know u by heart](https://open.spotify.com/track/6jF4LqY2Ow84SyBBVpZCoY) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [i know u by heart](https://open.spotify.com/album/4S9WhrFR0EHAICu879RR5e) | 3:00 |
 | 41 | [POUGIE](https://open.spotify.com/track/1CssWC5CRsBy4M8FqCEOxm) | [Mark Beats](https://open.spotify.com/artist/5wWx9uftlyPdzXtkKkurVM), [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu), [GA Chillerong Ghetto](https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al), [CHOLOW](https://open.spotify.com/artist/5ViHWjuSxWnCCT9Ck4Qrux) | [POUGIE](https://open.spotify.com/album/5memt33CElB8G5zmtTg3UE) | 3:24 |
 | 42 | [ano na?](https://open.spotify.com/track/4gkzPjkYp7ktLcAflF5aPa) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [ano na?](https://open.spotify.com/album/4pdjDYCoUzkUxx6OOx9U4s) | 3:26 |
 | 43 | [Tatlong Hiling](https://open.spotify.com/track/1q0l294XTsmggN3RqXAzwc) | [VVINK](https://open.spotify.com/artist/4RYaFaZPwHFQpNUr6mW6OW) | [Tatlong Hiling](https://open.spotify.com/album/1w4BO15BOKWYPZdGtVTADV) | 3:26 |
 | 44 | [MAN IN THE MERROR](https://open.spotify.com/track/1cvCRZIRrLWS4kFhcTnGRt) | [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29) | [BACKSHOTS](https://open.spotify.com/album/07C49ixINtIqUa1VZpVGxT) | 2:52 |
 
-Snapshot ID: `AAAAAMEGN1PEpngpnmUQBvDkd5UqBVmy`
+Snapshot ID: `AAAAAFweMntTKLuPQ4ihff/xG86tbjeB`

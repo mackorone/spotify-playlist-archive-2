@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 
 > Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,531 likes - 150 songs - 11 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,521 likes - 150 songs - 11 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1VaLD1v09s.md) - [plain]
 | 149 | [Good News \- Live](https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Good News \(Live\)](https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li) | 4:26 |
 | 150 | [Rose Again \(3 Days\)](https://open.spotify.com/track/2zv4PW9Rs1NdcZ4cEkmUmF) | [Lj the Messenger](https://open.spotify.com/artist/1wxZ1Mv6pAQbaqh30Nq6hB), [De'Aris](https://open.spotify.com/artist/4TyB7OBEDgGW7tIG6jgYAz) | [Rose Again \(3 Days\)](https://open.spotify.com/album/5chaSPc8W53pnDFt6t0HKp) | 2:42 |
 
-Snapshot ID: `AAAAAMsyedygWhNKn7k2WrAUK2EIMmMy`
+Snapshot ID: `AAAAAJF5jt+sHQRkYWWYIPwy4j1L5iYx`

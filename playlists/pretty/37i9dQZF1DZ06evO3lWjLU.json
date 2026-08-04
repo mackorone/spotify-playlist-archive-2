@@ -1,12 +1,12 @@
 {
   "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
-  "num_followers": 335780,
+  "num_followers": 335844,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAACK5tsKeoI/BHSYWUXFdk9w",
+  "snapshot_id": "am6IgAAAAABHf3yPEzv/DlG0bHr0coQ/",
   "tracks": [
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "No Eres Tu Soy Yo (feat. Danny Ocean)",
+      "url": "https://open.spotify.com/track/32MgTutHhEgjn25vyD2PRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -815,22 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP"
+        "name": "YELIANA-Cap.3-ZHA",
+        "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         },
         {
           "name": "Danny Ocean",
           "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 187000,
-      "name": "No Eres Tu Soy Yo (feat. Danny Ocean)",
-      "url": "https://open.spotify.com/track/32MgTutHhEgjn25vyD2PRZ"
+      "duration_ms": 140906,
+      "name": "YELIANA - Cap. 3 - ZHA",
+      "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
     },
     {
       "added_at": null,
@@ -867,26 +887,6 @@
       "duration_ms": 149787,
       "name": "T\u00fa no me conoces",
       "url": "https://open.spotify.com/track/0JzUsZUR6ZySpPNrWRvcL3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YELIANA-Cap.3-ZHA",
-        "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 140906,
-      "name": "YELIANA - Cap. 3 - ZHA",
-      "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
     },
     {
       "added_at": null,

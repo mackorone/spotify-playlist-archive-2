@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,608 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,643 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 99 | [As She Bends Towards the Sun](https://open.spotify.com/track/4cOjEjKJjIefvdz66ejMOc) | [Teoay](https://open.spotify.com/artist/34Zt4C6Z2S3i6VLuc1ErV1) | [As She Bends Towards the Sun](https://open.spotify.com/album/0QAn5hfWiRk6VqAAmp8sF7) | 4:47 |
 | 100 | [endless, somewhere](https://open.spotify.com/track/3AtSW2JF4TQXjCJNxb5hpu) | [Nitewalk](https://open.spotify.com/artist/0IEo7LtbFGCx6M71t1VerI) | [endless, somewhere](https://open.spotify.com/album/5p6OGDLBZksOVhgqUCFuLK) | 3:36 |
 
-Snapshot ID: `AAAAAD7KvY8kTmNT/PKSZF376dsNO6Fu`
+Snapshot ID: `AAAAACGeosP+YVhbFkQ67oHEqblMhyQb`

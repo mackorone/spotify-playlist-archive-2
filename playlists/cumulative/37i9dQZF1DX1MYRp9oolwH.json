@@ -6759,6 +6759,32 @@
     },
     {
       "album": {
+        "name": "Nee Venake (From \"Red Bag\")",
+        "url": "https://open.spotify.com/album/42tR97CrfYMpgfOacfIyMk"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Sekhar Mopoori",
+          "url": "https://open.spotify.com/artist/31ViwbvcnWz5oLbNggrh2D"
+        },
+        {
+          "name": "Tirupathi Jaavana",
+          "url": "https://open.spotify.com/artist/6kRspxY3CqfVt2tiKbd8HP"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239999,
+      "name": "Nee Venake (From \"Red Bag\")",
+      "url": "https://open.spotify.com/track/6qPChRVAvbYmgaCyHGga5O"
+    },
+    {
+      "album": {
         "name": "Waltair Veerayya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6KKqrNC6yWb405hpsrcxMa"
       },
@@ -7318,6 +7344,36 @@
       "duration_ms": 221813,
       "name": "Nishi Paanupu (From \"Madrasi Gang\") (Telugu)",
       "url": "https://open.spotify.com/track/5B5AxHO5W3zELOw3HAOxvX"
+    },
+    {
+      "album": {
+        "name": "Niram - Telugu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4bRHrymP34zj09SPW0UkG6"
+      },
+      "artists": [
+        {
+          "name": "D. Imman",
+          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
+        },
+        {
+          "name": "Vanamali",
+          "url": "https://open.spotify.com/artist/26RVabQo2q3G6wqyO0LnvV"
+        },
+        {
+          "name": "J.V. Sudhanshu",
+          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241413,
+      "name": "Noothana - From \"Niram - Telugu\"",
+      "url": "https://open.spotify.com/track/2eDxTuSCTI6PEYzBwjRftP"
     },
     {
       "album": {
@@ -8106,7 +8162,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 218000,
       "name": "Oohale (From \"Raja The Raja\")",
       "url": "https://open.spotify.com/track/1kJGHq1WlSaoS0kY1wASlk"
@@ -8940,6 +8996,28 @@
       "duration_ms": 230122,
       "name": "Prema Premisthunna (From \"Oh Sukumari\")",
       "url": "https://open.spotify.com/track/0L4lDS5xKNRZO7e2iavSOw"
+    },
+    {
+      "album": {
+        "name": "Theeram",
+        "url": "https://open.spotify.com/album/5WQJzIMgPXWoW5lcpu1MuB"
+      },
+      "artists": [
+        {
+          "name": "Dhanunjay Seepana",
+          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
+        },
+        {
+          "name": "Sadhvik Sans",
+          "url": "https://open.spotify.com/artist/41PsgyVuERExqCaH80c25P"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164840,
+      "name": "Prema Tholiprema",
+      "url": "https://open.spotify.com/track/5umFFxLUuphAvweGeDjewg"
     },
     {
       "album": {
@@ -10462,7 +10540,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 208148,
       "name": "Tujhpe Fida (From \"Raja The Raja\")",
       "url": "https://open.spotify.com/track/617NE1TzQtmY4BBrYidAoR"

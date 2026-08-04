@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 
 > A hand\-picked selection for an extraordinary palette\. Cover: The Durutti Column
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,569 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,568 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2471UyOhDZ.md) - [plain]
 | 99 | [Blight](https://open.spotify.com/track/49MLQo97bae1S4OaDQ01in) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Blight](https://open.spotify.com/album/3Arvlvf9vzWbE66l5Q7n4j) | 3:01 |
 | 100 | [Fighting For You](https://open.spotify.com/track/3uPHcgBPAK3wfTQHWvyUJM) | [Arab Strap](https://open.spotify.com/artist/6g8Jqb5JMfv92eB2r0awTN) | [Fighting For You](https://open.spotify.com/album/6aUmqJropontQSpa4Elg9M) | 3:06 |
 
-Snapshot ID: `AAAAALlR8d2QswKFW3JkgXmap4ailHgl`
+Snapshot ID: `AAAAAGsILlTDQkgPsbrD586Q8bJiFGbN`

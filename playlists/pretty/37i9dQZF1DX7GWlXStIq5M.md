@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Mateus Carrilho, DUPÊ
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,082 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,655 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 69 | [Bem Bem](https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Bem Bem](https://open.spotify.com/album/7Ey2ShRyp0ycPL1sAS8l3l) | 2:16 |
 | 70 | [MINA](https://open.spotify.com/track/6bms1AEgjJDu6TQaSTAEcR) | [Tuly](https://open.spotify.com/artist/51FBlpp5BhrDRz1ldnxeSk), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [MINA](https://open.spotify.com/album/7cxjGHFf1LdQyGE4JqzW1g) | 2:44 |
 
-Snapshot ID: `AAAAAFM4o1+7ZpnZpzNA5TDp4i7+LD2a`
+Snapshot ID: `AAAAABELR+OS/TagBHez/58XK+8VQ9c5`

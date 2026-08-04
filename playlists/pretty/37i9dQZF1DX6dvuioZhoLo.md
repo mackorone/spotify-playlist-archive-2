@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover:  Presley Haile
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,407 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,384 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [All Fifty States](https://open.spotify.com/track/3UqKsB0FyJWHOo9rQpFCQA) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX), [Theo Lawrence](https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2) | [All Fifty States](https://open.spotify.com/album/4W2oK0yvYz7pOLwFkdZzpW) | 3:30 |
 | 100 | [Yellow Room](https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0) | [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT) | [Swimming Alone](https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk) | 3:19 |
 
-Snapshot ID: `AAAAAMLCJEaZc8jNaTyXr6BGsCyowDOQ`
+Snapshot ID: `AAAAAD4m2dywMed9U8kH7ISQIr+e9Eb4`

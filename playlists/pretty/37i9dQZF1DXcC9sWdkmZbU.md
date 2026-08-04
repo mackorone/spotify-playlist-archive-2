@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Christian & Gospel songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,877 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,843 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 99 | [Won't Let Go \(feat\. Cole Novak\)](https://open.spotify.com/track/468Cpwss1N8UhVqAJBx11O) | [Gateway Kids Worship](https://open.spotify.com/artist/5spb8btR2z1lSREzcyg56E), [Cole Novak](https://open.spotify.com/artist/5hiGXWccuE62i5B7ipA9VT) | [Heartbeat](https://open.spotify.com/album/4PAcQ4sdsoDIoVnraVfERi) | 3:29 |
 | 100 | [Noah’s Tool Song](https://open.spotify.com/track/0UXCBwlHuzPW8yFkbAwM3L) | [Good News Guys](https://open.spotify.com/artist/038QYILIEprTICwzqqU0jY) | [Noah’s Tool Song](https://open.spotify.com/album/39HXFHfSzHoXECnBS3kk8Z) | 4:07 |
 
-Snapshot ID: `AAAAAEwVDhGVNkMbR2hlU8WJm+tiz9yg`
+Snapshot ID: `AAAAAFrM7CYpukCX62tCyFOYDWf+VVyy`

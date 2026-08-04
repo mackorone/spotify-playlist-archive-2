@@ -4,7 +4,7 @@
 
 > Journey through the sounds of South African Jazz\. Cover: Johnny Clegg
 
-373 songs - 1 day 12 hr 50 min
+374 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,10 +73,11 @@
 | [Dikeledi](https://open.spotify.com/track/4hPDkY9w0JtxyDyt1hEPx9) | [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Indaba Is](https://open.spotify.com/album/3qcN5kODsixA5VcaY37X7T) | 8:58 | 2022-04-28 | 2023-02-10 |
 | [Do You See Me](https://open.spotify.com/track/32AFJYj9OHurRtIvTGTUWf) | [Crunchy Sweater](https://open.spotify.com/artist/2D3HVUBLvAhDjdTwXQhNQY) | [Do You See Me](https://open.spotify.com/album/5BQTFpu3plgVCrwyLFbia5) | 2:57 | 2025-06-13 | 2025-06-20 |
 | [Don't Let the Sun](https://open.spotify.com/track/0fb9MoSIHGzP08oGhMFNcf) | [Serati](https://open.spotify.com/artist/4dr5XcplKHAa1a6dWDgIfd), [251Afrika](https://open.spotify.com/artist/1MwB6AlEVfUupGMN7mC1ch) | [Don't Let the Sun](https://open.spotify.com/album/3NgiI6w96tqLEFOs9Ew2JY) | 4:31 | 2022-04-28 | 2023-03-18 |
+| [Doodle Do \- Diminished Light](https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Doodle Do \- Diminished Light](https://open.spotify.com/album/0Q9DsJOyrb0BoH9KnViXie) | 4:04 | 2026-08-03 |  |
 | [Dr\. Philip Tabane](https://open.spotify.com/track/2JD8gIF0Oclp6odnHWoZNw) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [TRUE STORY](https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX) | 3:19 | 2025-06-24 | 2025-08-30 |
 | [Dream Another](https://open.spotify.com/track/7vrUr4ik4xw8ukdGdQ1v9Q) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [In These Times](https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0) | 3:12 | 2023-11-01 | 2023-11-17 |
 | [Dune Dance](https://open.spotify.com/track/7LH07jmvw2G2f4tqkiwW1M) | [On Our Own Clock](https://open.spotify.com/artist/1OQvPdcUC8eNPYRUpq3PZM), [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ), [Danalogue](https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu), [Siya Makuzeni](https://open.spotify.com/artist/7JcSeSjhuxBOkhVULQhAjw), [Tebogo Austebza Sedumedi](https://open.spotify.com/artist/1Zvagd4zRf9DR19Afl3PF7), [Theon Cross](https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56), [Zoe Molelekwa](https://open.spotify.com/artist/3DJcHMfN5hF9f2RpHkXcHJ) | [On Our Own Clock](https://open.spotify.com/album/5HEoN384lweVQjmEsummJM) | 6:08 | 2023-11-01 | 2023-11-17 |
-| [Ebhedini](https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63) | [Ncesh Nonxishi](https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP), [Mthunzikazi Mbungwana](https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo) | [Apho Kungenje](https://open.spotify.com/album/7BgstqFLclam34XUZfiX33) | 6:53 | 2025-08-29 |  |
+| [Ebhedini](https://open.spotify.com/track/0Xl1YzuTlDP7ILQfb46T63) | [Ncesh Nonxishi](https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP), [Mthunzikazi Mbungwana](https://open.spotify.com/artist/4th427muHryTpC6m6UEmJo) | [Apho Kungenje](https://open.spotify.com/album/7BgstqFLclam34XUZfiX33) | 6:53 | 2025-08-29 | 2026-08-04 |
 | [Ebhofolo \(This Madness\)](https://open.spotify.com/track/407SR3S1hycigUhVXaSKSL) | [Zim Ngqawana](https://open.spotify.com/artist/4qdVIjJlcWfH8Y1l9Rbcpc) | [Rough Guide To South African Jazz](https://open.spotify.com/album/2PgHLN1bsXYHj9G9ykLmnG) | 4:08 | 2023-11-01 | 2023-11-17 |
 | [Elusive Freedom](https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3) | [Billy Monama](https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m), [MoAfrika Wa Mokgathi](https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs) | [The Y\-Factor Project](https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s) | 4:18 | 2025-08-29 |  |
 | [Emancipated from Fears](https://open.spotify.com/track/1KhiySqBZwwkrxl8K4jNVE) | [Ofentse Moses Sebula](https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E) | [H.O.P.E \(Holding On to Positive Expectations\)](https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF) | 8:30 | 2025-06-13 | 2025-06-20 |

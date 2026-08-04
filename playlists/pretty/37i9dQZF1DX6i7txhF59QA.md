@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 김산하\)<br/>Let's party with cheerful Korean trot medley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,883 likes - 133 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,886 likes - 133 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 132 | [In full bloom \(Prod\. Shin Ji Hoo\)](https://open.spotify.com/track/5qx9HlOWS0rpr78joROqEI) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:11 |
 | 133 | [My Heart Will Go On](https://open.spotify.com/track/2KYY4jeQxWZjgXBGWDGuLw) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART12](https://open.spotify.com/album/7vdNO3BqQGSSFXkA9ryB9H) | 3:04 |
 
-Snapshot ID: `AAAAABNdEQVddCdmZzdTGMhBkiJGFHRk`
+Snapshot ID: `AAAAAB73icAtYmPmPGST4FAJR6u36yf8`

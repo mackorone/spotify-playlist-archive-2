@@ -822,7 +822,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 236295,
       "name": "Cordeiro e Le\u00e3o",
       "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
@@ -884,6 +884,24 @@
       "duration_ms": 394353,
       "name": "De Malas Prontas",
       "url": "https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD"
+    },
+    {
+      "album": {
+        "name": "DE VOLTA AO COME\u00c7O",
+        "url": "https://open.spotify.com/album/6oMi9R1NXc7gWxRN7K0bHX"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290795,
+      "name": "DE VOLTA AO COME\u00c7O",
+      "url": "https://open.spotify.com/track/4CccBC1gN6BpGp7qYwj2En"
     },
     {
       "album": {

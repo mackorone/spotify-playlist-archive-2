@@ -1,12 +1,12 @@
 {
   "description": "Where R&B lives. Cover: Odeal",
-  "num_followers": 6057397,
+  "num_followers": 6048762,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN3VR08qp7+ET2eUU5VsbID1Tjxx",
+  "snapshot_id": "AAAAACNmU//Zh5sWVpbvmMNxMuXg9t31",
   "tracks": [
     {
       "added_at": "2026-07-31 04:02:42",
@@ -309,26 +309,6 @@
       "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
     },
     {
-      "added_at": "2026-07-24 04:02:35",
-      "album": {
-        "name": "Beard",
-        "url": "https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
-        }
-      ],
-      "duration_ms": 222579,
-      "name": "Always Be Mine (feat. Jordan Ward)",
-      "url": "https://open.spotify.com/track/1lOZSJPpreVaSCmP5M4ZjW"
-    },
-    {
       "added_at": "2026-05-29 04:02:15",
       "album": {
         "name": "Waiting Room (feat. Jordan Ward)",
@@ -349,7 +329,7 @@
       "url": "https://open.spotify.com/track/3gS6Nh0LNlKsMblEzVNt3l"
     },
     {
-      "added_at": "2026-07-31 04:02:42",
+      "added_at": "2026-08-03 04:27:07",
       "album": {
         "name": "For A Good Time...",
         "url": "https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa"
@@ -360,9 +340,29 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 155171,
-      "name": "Love n Hate",
-      "url": "https://open.spotify.com/track/4JWsx1jeYFRBdcWj76VyRG"
+      "duration_ms": 191956,
+      "name": "Trying Things",
+      "url": "https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh"
+    },
+    {
+      "added_at": "2026-06-05 03:09:01",
+      "album": {
+        "name": "Callin (feat. Blu june)",
+        "url": "https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Blu June",
+          "url": "https://open.spotify.com/artist/33ccitBWLlxrI5sJN4ccuw"
+        }
+      ],
+      "duration_ms": 154581,
+      "name": "Callin (feat. Blu june)",
+      "url": "https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF"
     },
     {
       "added_at": "2026-07-24 04:02:35",
@@ -591,26 +591,6 @@
       "duration_ms": 186112,
       "name": "Shoulda Never (feat. USHER)",
       "url": "https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK"
-    },
-    {
-      "added_at": "2026-06-05 03:09:01",
-      "album": {
-        "name": "Callin (feat. Blu june)",
-        "url": "https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Blu June",
-          "url": "https://open.spotify.com/artist/33ccitBWLlxrI5sJN4ccuw"
-        }
-      ],
-      "duration_ms": 154581,
-      "name": "Callin (feat. Blu june)",
-      "url": "https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF"
     },
     {
       "added_at": "2026-05-29 04:02:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: fedesttar
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,240 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,229 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [Tú Y Yo](https://open.spotify.com/track/1gdTePGTxJ7C27UxqIYzrm) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [Tú Y Yo](https://open.spotify.com/album/1AY4Zx80mZRaqLT0rOwuTo) | 4:02 |
 | 60 | [TNT](https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU) | 2:05 |
 
-Snapshot ID: `AAAAAKsm1fDpbA5JGCgWR8G7NAOEXSw1`
+Snapshot ID: `AAAAAAOx1SJ6sIVaLwWbPPsgONnj1mpQ`

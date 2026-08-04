@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\.  THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,768 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,769 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [あたためますか？](https://open.spotify.com/track/6XnhvnxghOAQx36G7SUA0i) | [佐竹美奈子 \(CV.大関英里\)](https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 01](https://open.spotify.com/album/0qkGod4E6EYVBEfsOVijcx) | 4:16 |
 | 75 | [RED ZONE](https://open.spotify.com/track/1I4S0n6yBbZuqUH0b8IT57) | [桜守歌織 \(CV.香里有佐\)](https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii), [豊川風花 \(CV.末柄里恵\)](https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz), [北上麗花 \(CV.平山笑美\)](https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE), [馬場このみ \(CV.髙橋ミナミ\)](https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F) | [THE IDOLM@STER MILLION THE@TER GENERATION 09 4Luxury](https://open.spotify.com/album/4hIm4rGzPU1YbQ88jmwirA) | 4:11 |
 
-Snapshot ID: `AAAAAIPtIJd5aOqbEo6OxhFj8akyh4qp`
+Snapshot ID: `AAAAALZVF92OKqphOvwIhTXOE9MknARi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,413 likes - 60 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,431 likes - 60 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 59 | [Perdóname la Vida](https://open.spotify.com/track/2Z4mhXRWi1ef8eqW8i4hjH) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Eternamente](https://open.spotify.com/album/4yKNXDW1ZOpkFIapNpfyHR) | 4:52 |
 | 60 | [Me Dejaste Sin Nada](https://open.spotify.com/track/2DKDPVThEQQt4xjQO3qxgw) | [Patricia Teherán](https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF) | [Adiós A La Diosa](https://open.spotify.com/album/5ErmSBv1MCqT8Ch0O7V0Tc) | 4:37 |
 
-Snapshot ID: `AAAAADI/qMCMmEN2azlnL+7MDEl773Np`
+Snapshot ID: `AAAAAPoMB1ba3zI0gbOZ0yGicdQjagrW`

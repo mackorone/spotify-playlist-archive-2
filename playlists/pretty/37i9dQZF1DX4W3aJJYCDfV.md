@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Ariana Grande, Odeal, Swedish House Mafia and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,986 likes - 104 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,034,511 likes - 104 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 50 | [Crazy To Yourself](https://open.spotify.com/track/7FrvRHtpJM9ApODPbLx5F8) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Sunburn Mixtape](https://open.spotify.com/album/4sXvPhfap6905lHTMJB4gw) | 3:23 |
 | 51 | [Ijoya](https://open.spotify.com/track/0H4vIiZP7hr4SneIFVJTNc) | [Arthi](https://open.spotify.com/artist/700RxrCFFg46ZosW39M6x4), [Dismantle](https://open.spotify.com/artist/6sjpYOCYKYiurpvJk0oNEp), [£MONZO](https://open.spotify.com/artist/3cqU5Vi6bp8KZxwbJyZ6lv) | [Ijoya](https://open.spotify.com/album/29khdSaqDrbAQIslKf2yyZ) | 3:56 |
 | 52 | [Date Night](https://open.spotify.com/track/3kddxpf7WLApBv8pRTCn49) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Date Night](https://open.spotify.com/album/4rSBYJKVfytsfeXw2PYjNv) | 3:47 |
-| 53 | [soulreply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soulreply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 |
+| 53 | [soul reply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soul reply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 |
 | 54 | [Saw You Stand](https://open.spotify.com/track/5bfBYLi32nYvrKbtPi78ek) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Saw You Stand](https://open.spotify.com/album/0nJNVpLzyGyYcS7Qz0qkQT) | 4:49 |
 | 55 | [Scottish Midgey](https://open.spotify.com/track/4KWxInaWDqKgsn6sK02XUT) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Scottish Midgey](https://open.spotify.com/album/5xl0SEbCwPmtLGGOFFwCmr) | 7:22 |
 | 56 | [Position](https://open.spotify.com/track/2iqynthHdAqcjZ80LnRiic) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [Elona](https://open.spotify.com/artist/15vpJmgAajYOswP4aaLWYh) | [Position](https://open.spotify.com/album/6jEH95PzgLCDgW4R9Q8993) | 2:41 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 103 | [Buss One](https://open.spotify.com/track/35KkOvwhqhdnKfYXQq52aw) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [Yung Saber](https://open.spotify.com/artist/2e3qEeLCBtEqsbsgYDtrO0), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [Buss One](https://open.spotify.com/album/5TzHGJ1IeGFe2vb7mPS0QI) | 3:43 |
 | 104 | [Odessa](https://open.spotify.com/track/5xhALmvO5mJNBUnqjGcVg2) | [FEET](https://open.spotify.com/artist/7HeBQpJ3UmyybgEvqfdRAE) | [Odessa](https://open.spotify.com/album/3WL5cc1KLgTfMIkTf5XhGE) | 2:55 |
 
-Snapshot ID: `AAAAAAV3NbohIfQbqrSX+4fRgdeHGF/t`
+Snapshot ID: `AAAAANLZ6cE5ag4xOh2PxnUjSSxqggwE`

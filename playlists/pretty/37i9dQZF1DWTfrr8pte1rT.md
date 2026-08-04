@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a drop\. Cover: Madeon \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,707 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,644 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 124 | [Buried Beneath You](https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [Buried Beneath You](https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU) | 3:31 |
 | 125 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
 
-Snapshot ID: `AAAAAIhkxQLx0asgwuodfD6UkeHuDWvH`
+Snapshot ID: `AAAAAFATaCPjl+64PtCLchNfuYBasFk8`

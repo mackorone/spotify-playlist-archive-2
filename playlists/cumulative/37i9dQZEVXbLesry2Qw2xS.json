@@ -14475,6 +14475,28 @@
     },
     {
       "album": {
+        "name": "Emotikon",
+        "url": "https://open.spotify.com/album/7qChEi3KJiiYuYZq79Wq01"
+      },
+      "artists": [
+        {
+          "name": "Arg Part",
+          "url": "https://open.spotify.com/artist/7ptB41iMNEx7qqZE80aTLw"
+        },
+        {
+          "name": "s\u00e4m",
+          "url": "https://open.spotify.com/artist/6kvEy25jX5e1RtdFn1Eo3X"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "Emotikon",
+      "url": "https://open.spotify.com/track/3Y9TzAZ201AfunnPJlFWit"
+    },
+    {
+      "album": {
         "name": "The Party Never Ends 2.0",
         "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
       },
@@ -16316,7 +16338,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -27750,7 +27772,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 179486,
       "name": "K\u00e4sipagasis",
       "url": "https://open.spotify.com/track/4X2oUX2NP6cTNXr2nZplQx"
@@ -50978,7 +51000,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 220479,
       "name": "Suvepalavik",
       "url": "https://open.spotify.com/track/1fySIg6QY2qyDgvChQv6la"
@@ -60074,7 +60096,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -60092,7 +60114,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

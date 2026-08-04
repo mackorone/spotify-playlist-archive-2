@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring Will Linley
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,313 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,258 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 49 | [Piece of Your Love](https://open.spotify.com/track/51vU8qy0LN1SD8wf1U6WLp) | [GRESLEY](https://open.spotify.com/artist/3jH7tPNd2gFLXAekbpUCOf) | [Songs I Wrote Since She Left](https://open.spotify.com/album/3aNf0dE1084J6qV0NvLbQP) | 3:25 |
 | 50 | [Lighter](https://open.spotify.com/track/5f9JpyT70rksel4mcQg0a7) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Lighter](https://open.spotify.com/album/7noeJvJA9P86ZUThp2bTRh) | 4:52 |
 
-Snapshot ID: `AAAAANIyEoQA3Ybyw6MTlzjrAyidlWYD`
+Snapshot ID: `AAAAAMnHqRm6swDUtCeiV8V4eGhsHqAi`

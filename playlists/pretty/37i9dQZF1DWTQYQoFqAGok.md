@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 
 > Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,700 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,697 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQYQoFqAGok.md) - [plain]
 | 49 | [Café con Leche](https://open.spotify.com/track/45BndJTmTwLysmgTBSAGJq) | [Rosino Serrano](https://open.spotify.com/artist/1sTsepStQrm8ZVVL3z6VFJ), [Orquesta Moderna](https://open.spotify.com/artist/7hsk7R2qwQOJAdmpUH63ob), [Emiliano Suárez](https://open.spotify.com/artist/1CPoOuYF5kXsOOaEySPkir) | [Orquesta Moderna](https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i) | 5:43 |
 | 50 | [Fíeme una Coca, No?](https://open.spotify.com/track/1ItJeVpac8LmFL9LyqMFJo) | [Tlapalería Don Chuy](https://open.spotify.com/artist/08rAsgwzRKEhBcuqPQ5Tvj) | [Tlapalería Don Chuy](https://open.spotify.com/album/2qvfbkaQswimttw8r8NiXx) | 7:01 |
 
-Snapshot ID: `AAAAAL9SjKdYTv25E7MJmVEsgDwYyI1h`
+Snapshot ID: `AAAAAN+fjFP6YxuT4ggLJW7hoFJR7aHU`

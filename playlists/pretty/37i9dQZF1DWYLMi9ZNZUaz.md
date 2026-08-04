@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,345 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,367 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 49 | [Kẻ Cắp Gặp Bà Già \(feat\. Binz\)](https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 3:51 |
 | 50 | [Anh Luôn Như Vậy](https://open.spotify.com/track/3CyGK8BeJ5iCunpzvHyINs) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9) | [Anh Luôn Như Vậy](https://open.spotify.com/album/7ev0TaSrDUDTgSeEVmYi2F) | 3:32 |
 
-Snapshot ID: `AAAAAIFQrkkkQOSI9JRhfLEas9fINmYS`
+Snapshot ID: `AAAAAJixqDJGPfOs5qUdjv3JChXt8RbJ`

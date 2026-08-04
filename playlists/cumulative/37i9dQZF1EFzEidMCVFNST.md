@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/39SNiObet41EA7ooyHRZRo">Vinicius Poeta</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-624 songs - 1 day 5 hr 41 min
+625 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,7 +363,8 @@
 | [O Orgulho Te Fez de Refém \- Ao Vivo](https://open.spotify.com/track/4r58DxuumWZoSz9VNJNdxH) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Day Off \(Ao Vivo em Aracaju\)](https://open.spotify.com/album/6ivOIYe02m1mnaJhBcLith) | 2:54 | 2024-01-29 | 2025-06-28 |
 | [O Plano](https://open.spotify.com/track/5Qb39DhjfN6hreBiJo9ikX) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE), [Jeninho](https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os) | [O Plano](https://open.spotify.com/album/1lWK0asDIo4ZrBMTKEiOJF) | 2:52 | 2024-01-29 |  |
 | [Olha A Mãozinha](https://open.spotify.com/track/65gdrHuWvxdp6gis8RAZhA) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Check](https://open.spotify.com/album/4VtFp9aoqQYTqxlsN0A8Qg) | 2:22 | 2024-01-29 | 2025-06-28 |
-| [Olha Como Eu To Sofrendo](https://open.spotify.com/track/0pfYQm6OtKriyRDZfAMNB7) | [Cacio & Marcos](https://open.spotify.com/artist/2lVljEZxMEnMY5llvgXnUC) | [Tour Cê Ta Doido](https://open.spotify.com/album/5w8WuthAAtuDY43j1b1cje) | 2:36 | 2024-01-29 |  |
+| [Olha Como Eu To Sofrendo](https://open.spotify.com/track/0pfYQm6OtKriyRDZfAMNB7) | [Cacio & Marcos](https://open.spotify.com/artist/2lVljEZxMEnMY5llvgXnUC) | [Tour Cê Ta Doido](https://open.spotify.com/album/5w8WuthAAtuDY43j1b1cje) | 2:36 | 2024-01-29 | 2026-08-04 |
+| [Olha Como Eu Tô Sofrendo](https://open.spotify.com/track/3H9DAgUkjhTu6SO5ctCAVw) | [Cacio & Marcos](https://open.spotify.com/artist/2lVljEZxMEnMY5llvgXnUC) | [Cê Tá Doido](https://open.spotify.com/album/2uBYbq3c9QUZZPS1ZH3jpn) | 2:36 | 2026-08-03 |  |
 | [Olha Ela](https://open.spotify.com/track/06r3DWpTBQNVdRwJoPLh0g) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl) | [Live Paredão do Gás](https://open.spotify.com/album/3mQ8JrKyaqsGMP2wSbAdlr) | 2:31 | 2024-01-29 | 2024-07-19 |
 | [Olha Ela](https://open.spotify.com/track/3FFRYPjogot2WEQUoUDnrY) | [Anderson & Vei da Pisadinha](https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl) | [Live Paredão do Gás](https://open.spotify.com/album/5qRRGUc7TWyAoNK4Il0Up7) | 2:31 | 2024-07-18 | 2025-06-28 |
 | [Olha Ela](https://open.spotify.com/track/4kvggEm9J6kg8JUyBx0IoW) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Proibido é Mais Gostoso](https://open.spotify.com/album/6BKKDy0zFPolHBfWWoFr6a) | 2:31 | 2025-06-27 |  |

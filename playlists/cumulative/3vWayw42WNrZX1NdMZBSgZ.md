@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist to enjoy Shakira, Alejandro Sanz, TINI, Camilo, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Mon Laferte
 
-1,010 songs - 2 day 5 hr 48 min
+1,011 songs - 2 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -851,6 +851,7 @@
 | [SUAVEMENTE](https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [SUAVEMENTE](https://open.spotify.com/album/2y4sJWV7huA9vPYUCesZwT) | 2:22 | 2024-12-20 |  |
 | [Suegra](https://open.spotify.com/track/3DGvNJcyicD4gHoVEvH86P) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fórmula, Vol\. 3](https://open.spotify.com/album/3kGn13mW34Ookfj6yiY8BF) | 3:44 | 2023-02-24 | 2023-06-02 |
 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 | 2022-02-02 | 2023-05-26 |
+| [SUPERESTRELLA](https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:03 | 2026-08-03 |  |
 | [Superextraño](https://open.spotify.com/track/3PqIjhaeM3EHhKcRsILaxB) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Superextraño](https://open.spotify.com/album/2kBcpKY13cIwUQDMrvrFrR) | 3:41 | 2025-02-28 | 2025-11-22 |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-13 | 2023-05-26 |
 | [supersexi](https://open.spotify.com/track/5MPHZfPu9hsXDPEqGjUgec) | [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [supersexi](https://open.spotify.com/album/7Cgt2NuDUMwCWcSuKONwHI) | 3:06 | 2025-10-31 |  |

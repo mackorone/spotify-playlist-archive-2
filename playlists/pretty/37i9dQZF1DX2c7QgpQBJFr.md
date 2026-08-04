@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: Sethu
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,632 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,630 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 99 | [Strega Comanda](https://open.spotify.com/track/40F8nRyZUKKg2R80BtQ6cV) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Strega Comanda](https://open.spotify.com/album/20yiJvjwK9Qm02fmtyuxKx) | 2:37 |
 | 100 | [VAFFA\*AMORE](https://open.spotify.com/track/64OZcsJXegk5359S2nCe9D) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [VAFFA\*AMORE](https://open.spotify.com/album/46jdR3PctmC8zIu06hpvt8) | 2:54 |
 
-Snapshot ID: `AAAAAPZotZljDyK5fdT/hK1EkNRAjxe7`
+Snapshot ID: `AAAAALZuM7++U2bIPB26cd97OBPjosz3`

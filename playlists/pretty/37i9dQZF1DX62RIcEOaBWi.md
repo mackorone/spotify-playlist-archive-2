@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62RIcEOaBWi.md) - [plain]
 
 > Música alegre para que el trabajo se te pase volando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,041 likes - 150 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,720 likes - 150 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62RIcEOaBWi.md) - [plain]
 | 149 | [Juramento eterno de sal](https://open.spotify.com/track/23E53f3C9SJ9MqBh1f6hEw) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Juramento eterno de sal](https://open.spotify.com/album/181dabcN6rArn5DwOYr3eP) | 3:25 |
 | 150 | [Respect \- 2003 Remaster](https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Atlantic 60th: Soul, Sweat And Strut](https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD) | 2:22 |
 
-Snapshot ID: `AAAAAGD/ss63XT09Rw5eNvLsrgCQyndt`
+Snapshot ID: `AAAAACWw06pTqWVT9s+Rx6/EUCL1xPhp`

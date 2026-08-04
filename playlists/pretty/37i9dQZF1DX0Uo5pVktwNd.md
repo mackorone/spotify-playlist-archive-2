@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 
 > Throwback to the golden age of Indian pop\. Cover \- Alisha Chinai
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,833 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,908 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uo5pVktwNd.md) - [plain]
 | 49 | [Aana Meri Gully](https://open.spotify.com/track/78VFEHYy9TqY3DDqiISKAM) | [Euphoria](https://open.spotify.com/artist/5puYkZFJ4JkrJGEYnMSNVd) | [Euphoria Gully](https://open.spotify.com/album/4rffxA0reylzJCU4fAZkIy) | 4:42 |
 | 50 | [Kabhi To Nazar Milao](https://open.spotify.com/track/0kQW9OTOkyP8mtiIhBkBOd) | [Adnan Sami](https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Kabhi To Nazar Milao..\. Jhankar Beats](https://open.spotify.com/album/2RQJJu1TwbUf0NzrTHVhdc) | 7:07 |
 
-Snapshot ID: `AAAAAP9mcwlplgTBZeaC85ZRP3Ef9cB6`
+Snapshot ID: `AAAAAB0qRwIZ4BrCfSUTQud29fWMCBbj`

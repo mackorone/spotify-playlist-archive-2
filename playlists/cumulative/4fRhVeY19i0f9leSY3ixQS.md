@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-2,023 songs - 4 day 17 hr 10 min
+2,026 songs - 4 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [cliché](https://open.spotify.com/track/5hCfaSnir1rVDynSIzVwiN) | [Demure](https://open.spotify.com/artist/6qyd5mXmcWDSJqFVY7UJmF) | [All That’s Left](https://open.spotify.com/album/753qKy92CL7i0LX1xTQSbU) | 2:32 | 2026-02-05 | 2026-02-27 |
 | [Clockmaster's Grief](https://open.spotify.com/track/5Wtjtxxjm9U9CC5s3hDAaI) | [Astral Nocturna](https://open.spotify.com/artist/7dXXmCstnWta6NTeYrZPpB) | [Clockmaster's Grief](https://open.spotify.com/album/33rVeEfelM9iw2pk0v6WDZ) | 3:54 | 2025-12-26 | 2026-01-15 |
 | [Close My Eyes](https://open.spotify.com/track/0V9X536h968KmcmHRObqVt) | [Twentysixscarydays](https://open.spotify.com/artist/79SjYJNUoP2c2Nnvw4Z4YT) | [Close My Eyes](https://open.spotify.com/album/1HYQzX8zOgvdqacpqBCV4a) | 3:04 | 2026-05-05 | 2026-05-30 |
+| [Closed Eyes](https://open.spotify.com/track/3lKTSjfhKL00IKGbgMEry7) | [Viridian](https://open.spotify.com/artist/2CHlThnXRU8qzwiSMPoZsb) | [Closed Eyes](https://open.spotify.com/album/2CAl9ARJN6DtXovGV4O3ZR) | 2:33 | 2026-08-03 |  |
 | [Closing Time](https://open.spotify.com/track/10Xp40QivaShNSsnnhm9eC) | [Old Sparky](https://open.spotify.com/artist/7bZmxm2fsWsb8vkDKXK44O) | [Closing Time](https://open.spotify.com/album/1lFArKD7f0LQyqVovtIofr) | 1:47 | 2026-03-20 | 2026-04-21 |
 | [Closure](https://open.spotify.com/track/1cDJ2erpOeVxSaTMGZNNKm) | [Labasheeda](https://open.spotify.com/artist/1iZGSI3Zh4Hp9U7WlOtHEh) | [Blueprints](https://open.spotify.com/album/2xPueJoMK50RMmE5NYiLuG) | 4:33 | 2026-05-11 | 2026-05-30 |
 | [Clown](https://open.spotify.com/track/77rGav8CBbntBb4xJ8OmEU) | [Carl Schonbeck](https://open.spotify.com/artist/64G455sXZCInt8gPhAe7mF), [Snug'n'Mo](https://open.spotify.com/artist/3SRaiNgeQvMAjEuM5EH6bo) | [Clown](https://open.spotify.com/album/6A9clqWhKG2ce8AVXj1f6N) | 4:19 | 2026-04-17 | 2026-05-08 |
@@ -870,6 +871,7 @@
 | [Information Overload](https://open.spotify.com/track/3QQ4GcKUatA4PQsKkr17aY) | [Dubinski](https://open.spotify.com/artist/28QbbtfH9j2mOoswDXnDKk) | [Information Overload](https://open.spotify.com/album/6G9l5Vtnwn4ZL8aGzytSE7) | 3:25 | 2026-06-30 | 2026-08-01 |
 | [Inherit](https://open.spotify.com/track/5iZG3WeokJZRVN8TerrB9o) | [Sawtega](https://open.spotify.com/artist/2mg21MnmX8XLnHJYQV8hbU) | [Inherit](https://open.spotify.com/album/6HK0iU1KaC5HJlAfbc1CE8) | 3:20 | 2026-04-07 | 2026-05-07 |
 | [InMyPocket](https://open.spotify.com/track/53MV9GVk3mwPEER5k9a6uS) | [kiftoh](https://open.spotify.com/artist/4vU0G9EFI6KcI3wlswQZux) | [InMyPocket](https://open.spotify.com/album/5UD14tyo9S72nM4t1hJl0F) | 2:38 | 2026-04-05 | 2026-04-24 |
+| [Innocence](https://open.spotify.com/track/2ZiOisOpJhtjPPaqe1E3jh) | [The Absent](https://open.spotify.com/artist/4ARdlYS2SJ02nwnjzrtWHu) | [Innocence](https://open.spotify.com/album/5ew0ZLrYs8FV8RxdXO1ubq) | 3:38 | 2026-08-03 |  |
 | [Insane](https://open.spotify.com/track/0qvuPbmtrcNTOZMF19pVJk) | [Alex Vecchietti](https://open.spotify.com/artist/3fI1wOMASMQNUz2iFhg3WM) | [Insane](https://open.spotify.com/album/2Ms9hDgUk2IzrvuUPmlfpa) | 4:32 | 2025-11-07 | 2025-12-10 |
 | [INSANE](https://open.spotify.com/track/5zIvaDDVmix3RrE79Ifw6b) | [Mercedes & Marxx](https://open.spotify.com/artist/11Biva5YYueJ1lSg2UzoS8) | [INSANE](https://open.spotify.com/album/6t6r2yWgSCNsZQh3dtIUoJ) | 1:23 | 2026-03-03 | 2026-04-04 |
 | [Insomniac](https://open.spotify.com/track/3kVgfLWdCTwG3YO4qlBQLj) | [El Chavito](https://open.spotify.com/artist/7LYglsbl5OU5h5aEKAEuBc) | [Insomniac](https://open.spotify.com/album/0vLowwIynpNDDvRYtZ90Jn) | 2:57 | 2026-03-13 | 2026-04-14 |
@@ -1213,6 +1215,7 @@
 | [Nowhere Man](https://open.spotify.com/track/0117Rkgi04BTIF85Bvcwwz) | [Gramercy](https://open.spotify.com/artist/2MWPvXtgq5s0u21YbGhQAx) | [Nowhere Man](https://open.spotify.com/album/57DfkIrFp0fcH9wJGTgjUS) | 2:45 | 2026-03-16 | 2026-04-17 |
 | [Nurse Depression](https://open.spotify.com/track/5xnFYRez4P0r3xvnnleejq) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Nurse Depression](https://open.spotify.com/album/6kYfN2e5eh0SHLB6mRAaF5) | 2:05 | 2026-02-03 | 2026-03-07 |
 | [O pai do Grunge](https://open.spotify.com/track/26K7JzETd3WzfhHCBrOs7S) | [Signista](https://open.spotify.com/artist/0z9toQm8sBemSqbhMU2xJk) | [O pai do Grunge](https://open.spotify.com/album/3SLdc6fLquanROOrBrnAjP) | 3:17 | 2026-07-17 |  |
+| [Obey](https://open.spotify.com/track/59DmyKALtFVsIBnUbsHv1h) | [TORNADO LOBSTER KILLER](https://open.spotify.com/artist/0ez4BRHXwetKDIMwIeRGzl) | [Lobsteria](https://open.spotify.com/album/6uQJjggp9JBejmVwEQGa9Q) | 2:04 | 2026-08-03 |  |
 | [Oblivion](https://open.spotify.com/track/5bdW7nt9fpg497enkGAdTP) | [Aleh Adler](https://open.spotify.com/artist/72DDskr88TncEyULAdgSkK) | [Oblivion](https://open.spotify.com/album/5Sd9ktwzF0CwrWV0SF9CyL) | 3:34 | 2026-04-16 | 2026-05-08 |
 | [Oblivion](https://open.spotify.com/track/0PM5XynIMuGuKK7quAutGc) | [Black Reuss](https://open.spotify.com/artist/1XOqNj1Cvo0DtJUv7TGa6R) | [Oblivion](https://open.spotify.com/album/2OOHex3XINAsQiaepiNDfo) | 5:35 | 2026-01-30 | 2026-02-27 |
 | [Oblivion](https://open.spotify.com/track/6o5S6TmTAt0PmxSLHhUPfy) | [Monashee](https://open.spotify.com/artist/3aRQ4wIrd9wOGqAY9dJMkI) | [Oblivion](https://open.spotify.com/album/6JxEAIvajQ93CAMEdmnR9E) | 3:41 | 2026-01-23 | 2026-02-24 |
@@ -1886,7 +1889,7 @@
 | [Wanderlust](https://open.spotify.com/track/5NHyCuTxgo9P49EL7cy5kg) | [Hagemann](https://open.spotify.com/artist/5snFYmXyP3zLFZ833UHtfV) | [Wanderlust](https://open.spotify.com/album/5TMzEVsFnmc7ijSq1fs7rT) | 3:36 | 2026-05-23 | 2026-07-04 |
 | [Wanna Dance](https://open.spotify.com/track/6xy2XdwENrqJPnEEnKOfe5) | [Joshua Pearlstein](https://open.spotify.com/artist/1RH04nlMw0TTpC3tRTbwwZ) | [Wanna Dance](https://open.spotify.com/album/1V1MIqz8Q5pkKQu8Etmc7k) | 2:46 | 2026-03-27 | 2026-04-17 |
 | [Wannabe](https://open.spotify.com/track/20vogtcnBIog3nFWy8Rvqx) | [Dumbwiser](https://open.spotify.com/artist/3QflMg2Mt2RaMwInZ9kP9H) | [Wannabe](https://open.spotify.com/album/6yEGaipDfNKCtiPASSNh0v) | 3:13 | 2026-05-14 | 2026-06-15 |
-| [Want You](https://open.spotify.com/track/1Mkkyvn6g22XNog4kRELjd) | [Halfway Down](https://open.spotify.com/artist/79gQNePXa0U8Gj5aL3WNZm) | [Want You](https://open.spotify.com/album/65Wz6w5kar5fPjZeWlZ1xQ) | 3:11 | 2026-07-03 |  |
+| [Want You](https://open.spotify.com/track/1Mkkyvn6g22XNog4kRELjd) | [Halfway Down](https://open.spotify.com/artist/79gQNePXa0U8Gj5aL3WNZm) | [Want You](https://open.spotify.com/album/65Wz6w5kar5fPjZeWlZ1xQ) | 3:11 | 2026-07-03 | 2026-08-04 |
 | [War \(In our city\)](https://open.spotify.com/track/7f9V3CsJkjxvwPZmD5Mg9m) | [Sikmetra](https://open.spotify.com/artist/1Jlw34Un9ZfXIdakewsDvI) | [War / Modern Slavery](https://open.spotify.com/album/3ArgHxxt8iJZvLpAyGQrQf) | 2:55 | 2026-04-04 | 2026-05-06 |
 | [War On Truth](https://open.spotify.com/track/0L1hZ5zYQY0bSkQBShHXe1) | [What Did You Expect?](https://open.spotify.com/artist/1zOBosfEV4TPD89YHBKpFd) | [War On Truth](https://open.spotify.com/album/3OYyhARMm1NUSgRAsqNMtG) | 2:38 | 2026-04-09 | 2026-05-11 |
 | [Was ich will](https://open.spotify.com/track/6uEjOiR5SiWa3N7Xnp9v3c) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Was ich will](https://open.spotify.com/album/6XxCrxKnv5ARpH2vbazFEi) | 4:26 | 2026-03-30 | 2026-04-21 |
@@ -1933,7 +1936,7 @@
 | [What’s on My Mind](https://open.spotify.com/track/7L0r7hg23SipA1O5pmFAcN) | [giftig](https://open.spotify.com/artist/0L4i0vV9NCYUdU8abvqQOz) | [What’s on My Mind](https://open.spotify.com/album/5bUdC21AxHNmpv47d9ZiZc) | 3:04 | 2026-06-15 | 2026-07-04 |
 | [WHEN HORNS COLLIDE](https://open.spotify.com/track/2RJGiNCsB6ge2gpvWjXZG9) | [Scalise Family Sheep Farm LLC](https://open.spotify.com/artist/3zmrjlVE43VuCVaCsrc6LB) | [Pasture of the Fallen](https://open.spotify.com/album/5AEmyPIlyqMZpCMBZCS6mH) | 4:19 | 2026-07-07 | 2026-08-01 |
 | [When The Roots Don't Hold \- 2026 Remaster](https://open.spotify.com/track/0WutAvKPCuTDZ8us6mstGA) | [Dead Poet Warrior Zone](https://open.spotify.com/artist/4SkvaDIyFyeGYsMUcwte2T) | [When The Roots Don't Hold \(2026 Remaster\)](https://open.spotify.com/album/2SbHvfSxTxkOY3yzOGCH8g) | 3:36 | 2026-05-04 | 2026-05-30 |
-| [When You Looked At Me](https://open.spotify.com/track/2y5M4ha0FUpF0WHz1hBImt) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [When You Looked At Me](https://open.spotify.com/album/7zW7Ve2wfE2w2pZ22PHIJE) | 2:33 | 2026-07-03 |  |
+| [When You Looked At Me](https://open.spotify.com/track/2y5M4ha0FUpF0WHz1hBImt) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [When You Looked At Me](https://open.spotify.com/album/7zW7Ve2wfE2w2pZ22PHIJE) | 2:33 | 2026-07-03 | 2026-08-04 |
 | [When's Enough, Enough?](https://open.spotify.com/track/003TdiLvCbl3rAqpnsnFDS) | [THE IMMUNE](https://open.spotify.com/artist/4l4TN4yWTI8QWNklsOCSyr) | [When's Enough, Enough?](https://open.spotify.com/album/7IVo02PAQUZ04NQ5KAcku5) | 3:12 | 2026-02-24 | 2026-03-28 |
 | [Where did all the fruit go?](https://open.spotify.com/track/6wPalzR6QknEM62HysAMm2) | [The Foot & Leg Clinic](https://open.spotify.com/artist/7tmHIkTO6vut5ePMhWFYKZ) | [Where did all the fruit go?](https://open.spotify.com/album/1K3q3kcCgM1F511tNF5PVO) | 2:00 | 2026-02-21 | 2026-03-24 |
 | [where did everyone go](https://open.spotify.com/track/1OYqmMTlM2AhGuZPNQR5CI) | [EVEREND](https://open.spotify.com/artist/159Iki4KcWPMKavS3ST07a) | [where did everyone go](https://open.spotify.com/album/0D0BphVJVWMfkJRqU1tMCn) | 3:17 | 2026-01-17 | 2026-02-05 |

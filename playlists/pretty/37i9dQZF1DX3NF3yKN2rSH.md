@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,039 likes - 100 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,034 likes - 100 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [O the Blood](https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3) | [New Jersey Mass Choir](https://open.spotify.com/artist/4zId8t69FVytHfVhxFRXEH) | [Hold Up The Light](https://open.spotify.com/album/2dVkAZ7KTYEevQNW9HGZ78) | 4:46 |
 | 100 | [Jesus I Love You](https://open.spotify.com/track/09AmIgDsJsjWSKJHebJrZg) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [Declarations](https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT) | 6:13 |
 
-Snapshot ID: `AAAAALjR7pOidLepw2L5wFAWOJBLFZyB`
+Snapshot ID: `AAAAAHC/VXxo3acGZbjSsmXJYNY47/4X`

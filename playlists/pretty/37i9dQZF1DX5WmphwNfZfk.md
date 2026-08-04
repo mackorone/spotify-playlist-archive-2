@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 artists who are the future of Canadian music, according to our editors\. Cover: GUS
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,599 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,596 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 48 | [So Scandalous](https://open.spotify.com/track/0Stuc5s9TH32u5IqQyNokc) | [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [So Scandalous](https://open.spotify.com/album/7zx3zzLxKuz7YfuZOmFUzB) | 2:16 |
 | 49 | [Shadows of My Trauma](https://open.spotify.com/track/671m9jOM4sxoNoz5K0Odr6) | [Puma June](https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I) | [Shadows of My Trauma](https://open.spotify.com/album/4FLG5tZ5ZwKE9C05ude5GP) | 3:16 |
 
-Snapshot ID: `AAAAAMFTvqQo7oLyFlyOWi3twE8gZc0t`
+Snapshot ID: `AAAAAKSMl4sWTgJ5FT7fzCSK+xyVPl7E`

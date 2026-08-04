@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66514,
+  "num_followers": 66389,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAAAt+j9u1iIj6zPbkzj8CTF",
+  "snapshot_id": "am6IgAAAAABvo4lAaHZ1C7af+GBMODbM",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4jebOXsJYZCzILZYFacDcB"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        }
+      ],
+      "duration_ms": 299840,
+      "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4OHNYjow2gCBNgNIuKtwHj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus Vai Fazer + Os Sonhos de Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/4qNV12HEr1pzTOquS20ekL"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 266826,
       "name": "Quanto Amor (feat. Eyshila)",
       "url": "https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4jebOXsJYZCzILZYFacDcB"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Soraya Moraes",
-          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
-        }
-      ],
-      "duration_ms": 299840,
-      "name": "Terremoto + Cadeias Quebrar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4OHNYjow2gCBNgNIuKtwHj"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "Deus Est\u00e1 me Ensinando",
+      "url": "https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
         "url": "https://open.spotify.com/album/67EjXd0XjKBMzlXMm5mpbf"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 496640,
       "name": "Fiel a Mim + Esp\u00edrito Santo (Ao Vivo)",
       "url": "https://open.spotify.com/track/74ob8ox5vP0bHKaIyoBTpI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "Deus Est\u00e1 me Ensinando",
-      "url": "https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": " CGM - Central Gospel Music",
+          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+        }
+      ],
+      "duration_ms": 291646,
+      "name": "Deus no Controle",
+      "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "At\u00e9 Tocar o C\u00e9u + Profetiza (Ao Vivo)",
         "url": "https://open.spotify.com/album/1RXUxLgHNop0heYVMfBZcB"
       },
@@ -795,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+        "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GMCW2o8zYxHIv5Dms2nu0"
       },
       "artists": [
         {
@@ -804,13 +824,33 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         },
         {
-          "name": " CGM - Central Gospel Music",
-          "url": "https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq"
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         }
       ],
-      "duration_ms": 291646,
-      "name": "Deus no Controle",
-      "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
+      "duration_ms": 308053,
+      "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0B6CvjP0zkqEMe03vzEx91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K"
     },
     {
       "added_at": null,
@@ -851,46 +891,6 @@
       "duration_ms": 319166,
       "name": "Grande \u00e9 o Nosso Deus",
       "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GMCW2o8zYxHIv5Dms2nu0"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        }
-      ],
-      "duration_ms": 308053,
-      "name": "Eu Quero Ser Santo + Pela Santidade de Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0B6CvjP0zkqEMe03vzEx91"
     },
     {
       "added_at": null,
@@ -967,6 +967,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tira-me do Vale",
+        "url": "https://open.spotify.com/album/6ghWDdLfEQ03TdQp7YQreh"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 289500,
+      "name": "Tira-me do Vale",
+      "url": "https://open.spotify.com/track/6NOJ789tmIWOzIaFQtYR3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9 Assim Que Eu Quero Te Adorar (Ao Vivo)",
         "url": "https://open.spotify.com/album/61wOcR7NX5iu1OfYb6V5Rf"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 228440,
       "name": "Mais Grato a Ti",
       "url": "https://open.spotify.com/track/108wrxfPjUGLQG4UQgAAzF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tira-me do Vale",
-        "url": "https://open.spotify.com/album/6ghWDdLfEQ03TdQp7YQreh"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        },
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "Tira-me do Vale",
-      "url": "https://open.spotify.com/track/6NOJ789tmIWOzIaFQtYR3Q"
     }
   ],
   "unique_name": "This Is Eyshila",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 628,427 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 628,315 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 79 | [AMOR O PAZ](https://open.spotify.com/track/5MmZSE6JhMbup6hx3Dy1lg) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [AMOR O PAZ](https://open.spotify.com/album/4IBFRVzPbX1s20RUSf0kD5) | 4:10 |
 | 80 | [Pensamientos](https://open.spotify.com/track/1gV85meLWo6kDR78DhVl9p) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Edoardo Leds](https://open.spotify.com/artist/5z2v7F21UQXrFvKjrvXOqf), [Champ Jr.](https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr) | [Pensamientos](https://open.spotify.com/album/40DH5E7Qxv3Z2hDcvyf1kw) | 3:15 |
 
-Snapshot ID: `AAAAAPbnB9ZH5KLzFUTXWgI9J7GUaSm3`
+Snapshot ID: `AAAAAERX/YcOjz4GoZrPfQkkfxsEx0LR`

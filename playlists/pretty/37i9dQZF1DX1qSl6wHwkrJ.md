@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,262 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,260 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 79 | [A Weary Silent Night](https://open.spotify.com/track/4dTtPAvbgYLd0iPYgofx27) | [Earl King](https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn) | [Earl's Pearls \- The Very Best Of Earl King 1955 \- 1960](https://open.spotify.com/album/63mfRSZUpP5vQMidpOwUee) | 2:37 |
 | 80 | [Christmas](https://open.spotify.com/track/5xgkFbIJZflD1itjY5L6ih) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/29COGu7xsGkib4D6fB4qIK) | 3:12 |
 
-Snapshot ID: `AAAAACkgzq3KHq8nALZg2+G39SR61Ab0`
+Snapshot ID: `AAAAAMau+nZzUGF/mH1J9+lkjXOLaFWS`

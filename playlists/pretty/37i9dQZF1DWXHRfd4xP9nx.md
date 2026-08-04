@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 
 > Uma chuva calma e tranquila para te fazer companhia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,192 likes - 275 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,249 likes - 275 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHRfd4xP9nx.md) - [plain]
 | 274 | [It's been raining all day](https://open.spotify.com/track/2RqGaMKk9ZNCaRi3cRNlQm) | [REGN](https://open.spotify.com/artist/2gyk8wYChmm41Fvq6TYBjM) | [It's been raining all day](https://open.spotify.com/album/4Z0vgQWxrtzmPGOhP7hLVf) | 3:32 |
 | 275 | [Sunday](https://open.spotify.com/track/4eiy9EuD5I1fj0q1icyX4s) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:33 |
 
-Snapshot ID: `AAAAAHrmUHR3RF8MO4ovYGNuWhbBy4mQ`
+Snapshot ID: `AAAAADZoaAiQOto0dZ8hkAXiRz+mMcKU`

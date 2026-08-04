@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Robe y Leiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,195 likes - 120 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,070 likes - 120 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 119 | [Chiquilla](https://open.spotify.com/track/6kNYjCKdEqYEdHAbxV5v5K) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [30 años de musica en TVE\. 1980\-2010](https://open.spotify.com/album/54slzi9MghEZQcDfG4OaU6) | 3:07 |
 | 120 | [A Contracorriente](https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:02 |
 
-Snapshot ID: `AAAAANA8CrbvXfJAE4YjZjacjqS7beNi`
+Snapshot ID: `AAAAAPWwnPvB41gTwt3ZO8OmWhxyg1Qv`

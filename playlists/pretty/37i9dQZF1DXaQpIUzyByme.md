@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,253 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,273 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaQpIUzyByme.md) - [plain]
 | 69 | [Domino](https://open.spotify.com/track/3XeuDg8LpGQ6LCZBok55QC) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Clouseau30](https://open.spotify.com/album/5jy4Ndvb4aJcbt9Cy8LDFJ) | 4:08 |
 | 70 | [V.V.T.](https://open.spotify.com/track/32PR7yBDk99gKE1ihEcKQB) | [IOS](https://open.spotify.com/artist/1xzcQymo5Ejd1PU8XYD0iv) | [Hemel & Aarde](https://open.spotify.com/album/0Jgb5SBxUJOPRRL0H6SNMz) | 4:54 |
 
-Snapshot ID: `AAAAAImXkyM5v3NhUt1A0KP85iebRxQV`
+Snapshot ID: `AAAAAHRUEcOYvMCdaONVWRm6N/Bns9lF`

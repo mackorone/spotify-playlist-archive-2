@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Mala Gestión, Nuevos Vicios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,253 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,260 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Normalmente Mejor](https://open.spotify.com/track/1yFCC7FMCmJ6EOvoy5OKU6) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst), [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Normalmente Mejor](https://open.spotify.com/album/7EWDV3Lh6XBe3lFKmMgFNh) | 4:02 |
-| 2 | [Dragon Khan](https://open.spotify.com/track/4szXUEoUxDlpLPTMVZp2mR) | [rumbos](https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ) | [Dragon Khan](https://open.spotify.com/album/7Aeu1CBfW5m55wMVqgz0po) | 3:23 |
-| 3 | [Más o menos bien](https://open.spotify.com/track/0xyCtRkZmP0ktcRqjV8fip) | [Hotel Nebraska](https://open.spotify.com/artist/417xUJN8m2gRJYI2Wu2ZnC) | [Más o menos bien](https://open.spotify.com/album/5vNVdu7wRFeDSh7B61fgLt) | 3:01 |
+| 1 | [Dragon Khan](https://open.spotify.com/track/4szXUEoUxDlpLPTMVZp2mR) | [rumbos](https://open.spotify.com/artist/7qNftOu0DUIDh1Gd6Gy8LQ) | [Dragon Khan](https://open.spotify.com/album/7Aeu1CBfW5m55wMVqgz0po) | 3:23 |
+| 2 | [Más o menos bien](https://open.spotify.com/track/0xyCtRkZmP0ktcRqjV8fip) | [Hotel Nebraska](https://open.spotify.com/artist/417xUJN8m2gRJYI2Wu2ZnC) | [Más o menos bien](https://open.spotify.com/album/5vNVdu7wRFeDSh7B61fgLt) | 3:01 |
+| 3 | [Normalmente Mejor](https://open.spotify.com/track/1yFCC7FMCmJ6EOvoy5OKU6) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst), [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Normalmente Mejor](https://open.spotify.com/album/7EWDV3Lh6XBe3lFKmMgFNh) | 4:02 |
 | 4 | [El deseo del genio](https://open.spotify.com/track/1itqgtr55ZgoBCiOf15qD0) | [Sr\. Chinarro](https://open.spotify.com/artist/3bEHj6WUeCJey0vLrffSQp) | [El deseo del genio](https://open.spotify.com/album/1KwjEbA8CcRU2avSsm9aiP) | 4:11 |
 | 5 | [Walking](https://open.spotify.com/track/3t7Mv4p7c4S7gXFxFJa7lp) | [Amygdala](https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM) | [Walking](https://open.spotify.com/album/7iXDXvjMc3IXvQhMnLVU0N) | 3:38 |
 | 6 | [CORAZÓN DE CRISTAL](https://open.spotify.com/track/6bni4ze53nktnr3WeX0ZGm) | [Nadie Patín](https://open.spotify.com/artist/1EVcueF5J7XTuYH0nTGJsB) | [CORAZÓN DE CRISTAL](https://open.spotify.com/album/3NNInztmgfKigyF2IH3IKW) | 3:17 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 103 | [Fuerza de Gravedad](https://open.spotify.com/track/1rdea9MHR3D6q83pAoDnny) | [Valiente Bosque](https://open.spotify.com/artist/7nCfWqlSX48iksOiwmWjoo) | [Fuerza de Gravedad](https://open.spotify.com/album/4A4tNK3ESwEDsTx6yOAo0T) | 3:27 |
 | 104 | [Últimas palabras](https://open.spotify.com/track/6oVszSYEj3TmVyh8hJmFeL) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Últimas palabras](https://open.spotify.com/album/1NmZFVA8q0rysF8YtLmkOV) | 3:06 |
 
-Snapshot ID: `AAAAAAHMKj2u3vfqUJZVs/hwvtJsrGnG`
+Snapshot ID: `AAAAABVvBO8ncRf6ahSDtiasjSwKQU19`

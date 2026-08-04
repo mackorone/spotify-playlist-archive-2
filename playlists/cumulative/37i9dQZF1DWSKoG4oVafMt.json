@@ -116,7 +116,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 186750,
       "name": "6 Shades",
       "url": "https://open.spotify.com/track/4NKCUjBnvjf59K5AqAhP3H"
@@ -1888,6 +1888,32 @@
       "duration_ms": 196257,
       "name": "Begum",
       "url": "https://open.spotify.com/track/2vP9U2aKVN7MiqJAcFBCX4"
+    },
+    {
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/15lQCBUQm0PeQdFnRDVDZn"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        },
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "Behja",
+      "url": "https://open.spotify.com/track/22zhpQYauT1cOoO4IUYhGW"
     },
     {
       "album": {

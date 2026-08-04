@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: YU'S
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,837 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,836 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 99 | [ジ・アース](https://open.spotify.com/track/6zDQ6cRTse7o0exkdYXsnc) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [INNER SYNC](https://open.spotify.com/album/5eTI6gucXOgrnMjbBMgUm2) | 4:19 |
 | 100 | [密か](https://open.spotify.com/track/45WJKtsxdNQNQatWlTmIRo) | [月と徒花](https://open.spotify.com/artist/6Dc0ZVkKdA7QGiFEEfAuCE) | [密か](https://open.spotify.com/album/3xGH0bkhPPFO1oD4mXnD5H) | 3:39 |
 
-Snapshot ID: `AAAAABRml8IqV4lsX8Y3skM1HyNJQnM8`
+Snapshot ID: `AAAAANsZngK7XMI3+YiNsdE/HZABZT/h`

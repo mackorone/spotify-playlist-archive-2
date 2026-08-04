@@ -1,12 +1,12 @@
 {
   "description": "Guerreras e independientes. Foto: Fin del Mundo.",
-  "num_followers": 136143,
+  "num_followers": 136052,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALnX6eT3lJ3FOT6D8dxa1oLthAir",
+  "snapshot_id": "AAAAADI6iFt+C/L9A2QYA8sl/QPmszEM",
   "tracks": [
     {
       "added_at": "2025-07-17 22:42:38",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-07-17 22:42:38",
       "album": {
+        "name": "Volver a Llorar",
+        "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "Volver a Llorar",
+      "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
+    },
+    {
+      "added_at": "2025-07-17 22:42:38",
+      "album": {
         "name": "Tu Vereda",
         "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 147198,
       "name": "Tu Vereda",
       "url": "https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3"
-    },
-    {
-      "added_at": "2025-07-17 22:42:38",
-      "album": {
-        "name": "Volver a Llorar",
-        "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "Volver a Llorar",
-      "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
     },
     {
       "added_at": "2025-07-17 22:42:38",

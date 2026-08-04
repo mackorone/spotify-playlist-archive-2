@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 
 > La playlist del jazz italiano, passato e presente\. Cover: Carolina Bubbico
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,918 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,925 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 89 | [Certi angoli segreti](https://open.spotify.com/track/0TgOi4joOrp0spXM754Z8X) | [Enrico Rava](https://open.spotify.com/artist/0NLlZlYs28ClkYXasvqmjy), [Stefano Bollani](https://open.spotify.com/artist/6LO13YjxG7x8waq1RGOYI7), [Mark Turner](https://open.spotify.com/artist/36kfddkWcVc6XrzNN9BsTP), [Larry Grenadier](https://open.spotify.com/artist/4HGsz6HI7mw7t14Fb2irLV), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [New York Days](https://open.spotify.com/album/5qIvcmHXW5Av8XQGCAmeIK) | 10:53 |
 | 90 | [Tuareg](https://open.spotify.com/track/78x2PdL40tU1NMLpv933CU) | [Rita Marcotulli](https://open.spotify.com/artist/1KaiGnVyxEODkywQQBoSZJ), [Luciano Biondini](https://open.spotify.com/artist/0AHji8QRcQS9bGeIFHA3D0) | [La Strada Invisibile](https://open.spotify.com/album/5JEW0isqD0vYpZ0CqGxmhD) | 4:48 |
 | 91 | [Cratere](https://open.spotify.com/track/3v04PkwVyrgZrnSTbwfDaq) | [Amalafede](https://open.spotify.com/artist/20vFRu6alusJsfebNWUeP0) | [Cratere](https://open.spotify.com/album/1ZohHIxPBGgFYNqWhRK4UD) | 3:43 |
-| 92 | [Vitamin C](https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Vitamin C](https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX) | 3:29 |
-| 93 | [Rosa](https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah) | [Sade Mangiaracina](https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb) | [Le mie donne](https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY) | 3:56 |
-| 94 | [Norma: Casta diva \- Arr\. for Jazz Orchestra](https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x) | [Orchestra Jazz del Mediterraneo](https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Paolo Silvestri](https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO) | [Norma \(Arr\. for Jazz Orchestra\)](https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl) | 9:44 |
+| 92 | [Rosa](https://open.spotify.com/track/3wO2S9SjQkG64qJv81S0ah) | [Sade Mangiaracina](https://open.spotify.com/artist/4SE5avfQnwqWxmiGZI1WMb) | [Le mie donne](https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY) | 3:56 |
+| 93 | [Norma: Casta diva \- Arr\. for Jazz Orchestra](https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x) | [Orchestra Jazz del Mediterraneo](https://open.spotify.com/artist/0Tb0g0i1vQhmpkEJK2jaRp), [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Paolo Silvestri](https://open.spotify.com/artist/5lvL2BwPlgsY3QWfpikMJO) | [Norma \(Arr\. for Jazz Orchestra\)](https://open.spotify.com/album/6E5n7bwbyvjDeGj4IexGGl) | 9:44 |
+| 94 | [Vitamin C](https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe) | [Calibro 35](https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi) | [Vitamin C](https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX) | 3:29 |
 | 95 | [Contigo Mi Vida](https://open.spotify.com/track/77yfpdIrZ9MtKfaUpf6O3G) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Contigo Mi Vida](https://open.spotify.com/album/41Rp1C4bwyciU2xyhs0ja1) | 4:09 |
 | 96 | [Samo](https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H) | [Emanuele Triglia](https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp), [Davide Savarese](https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf), [QWALE](https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh), [Francesco Fratini](https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB), [Vincenzo Lato](https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV) | [Moon Kin](https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm) | 2:36 |
 | 97 | [Here We Gong](https://open.spotify.com/track/5u0jFEGcdSiJgBFvZf0Waj) | [Al Doum & The Faryds](https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5) | [Freaky People](https://open.spotify.com/album/5GidaDXTEqFHHfhH5aTo44) | 5:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30D074EWuy7.md) - [plain]
 | 99 | [Luna di mezzogiorno](https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4) | [Bebo Ferra](https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB) | [Jazz vs Corona Vol\. 1](https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb) | 3:29 |
 | 100 | [How Far Can You Fly? \(Ladder\) \- Original Version](https://open.spotify.com/track/6uOV6VHeXTwW51Uc1xyd2t) | [Luca Flores](https://open.spotify.com/artist/6GtLKGM3P2wpimBDArVY0O) | [For Those I Never Knew](https://open.spotify.com/album/7z9FTyVUHqXqcpfClUrnM2) | 4:29 |
 
-Snapshot ID: `AAAAAHw6ePGlOpL6sh9X/mYNxFovd9Bp`
+Snapshot ID: `AAAAAO0GAtngXg7df7tyMdQXrH/q3j6T`

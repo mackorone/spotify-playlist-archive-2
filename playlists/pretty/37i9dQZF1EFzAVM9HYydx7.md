@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,102 likes - 315 songs - 18 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,103 likes - 315 songs - 18 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 130 | [Born 2 Be Great](https://open.spotify.com/track/3AmqJsyZDFA8EHC461R7bY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 2:50 |
 | 131 | [Shimmy](https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:14 |
 | 132 | [Ok Ok pt 2](https://open.spotify.com/track/5ad5uryyzVWs95bK3myGkw) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:24 |
-| 133 | [Cut the Check \(feat\. Chief Keef\)](https://open.spotify.com/track/6U1ueRYXTjFHuJ9Ld2LBIW) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 2:50 |
-| 134 | [Blame On Me](https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 4:01 |
+| 133 | [Blame On Me](https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 4:01 |
+| 134 | [Cut the Check \(feat\. Chief Keef\)](https://open.spotify.com/track/6U1ueRYXTjFHuJ9Ld2LBIW) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [GO:OD AM](https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN) | 2:50 |
 | 135 | [PARANOID](https://open.spotify.com/track/1To4zdRrEQsWw7KVzwuyY4) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE \(DELUXE\)](https://open.spotify.com/album/5Vmz3pIxG7Dsx7fzHgtyJB) | 3:01 |
 | 136 | [Draft Day](https://open.spotify.com/track/3W3FVHEDetkiRkkGKDmdir) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:26 |
 | 137 | [Psychopath Killer](https://open.spotify.com/track/41waH7ObCldjMZ90i6HY3A) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [SHADYXV](https://open.spotify.com/album/6wdSf72duVewXTqhYU3Z87) | 5:19 |
@@ -218,8 +218,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 208 | [SKYAMI \(feat\. Mango Foo\)](https://open.spotify.com/track/1bEwAeGJvobpPDTkw1mnb3) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Mango Foo](https://open.spotify.com/artist/7FRSHbAPSN9RLPSsh2a2rV) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 3:33 |
 | 209 | [Tony Story, Pt\. 2](https://open.spotify.com/track/39brMNdORpB9YpDFIFepJi) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 4:23 |
 | 210 | [CROWN](https://open.spotify.com/track/4STskVkFJFtNbjuZmDe26C) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [CROWN](https://open.spotify.com/album/0mRiqLvYIjafS4sKy4kAKW) | 2:35 |
-| 211 | [Lullaby](https://open.spotify.com/track/5iqUNtdOkCgszqAxoMFfvR) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 4:31 |
-| 212 | [Autumn Drive](https://open.spotify.com/track/65phQRcjtYszjbDfYfjoWB) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:08 |
+| 211 | [Autumn Drive](https://open.spotify.com/track/65phQRcjtYszjbDfYfjoWB) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:08 |
+| 212 | [Lullaby](https://open.spotify.com/track/5iqUNtdOkCgszqAxoMFfvR) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 4:31 |
 | 213 | [I'm Gone](https://open.spotify.com/track/2tfmel8uAeKKZSHCSMP1P2) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Careless World: Rise Of The Last King](https://open.spotify.com/album/68XdlVpTEpBtM2FBxROLva) | 4:54 |
 | 214 | [On This Way \(feat\. The Game & Iyla\)](https://open.spotify.com/track/20AUSGH3hwXA5FAujtcq8w) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [iyla](https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op) | [Evolution](https://open.spotify.com/album/3erY5XSpTKh0GfNf5FJuT2) | 4:39 |
 | 215 | [I Need More](https://open.spotify.com/track/36fwOQjsEFesQvfEybK2Ei) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [508\-507\-2209](https://open.spotify.com/album/5FNiUh6rfgogAensmq4c81) | 4:52 |
@@ -294,8 +294,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 284 | [Our Way \(Outro\)](https://open.spotify.com/track/1e7v53dxDmMZ7IseXOEG4j) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r) | [welcome to: OUR HOUSE \(Deluxe\)](https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa) | 5:39 |
 | 285 | [Too Soon?](https://open.spotify.com/track/7rkIQfm5giweK9Xjwbtg7n) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 3:04 |
 | 286 | [WTF](https://open.spotify.com/track/7HLjZNXC0BhteqncIigRX1) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [No Weapons](https://open.spotify.com/album/6qCsH9hHN8PPVLvlswoaNt) | 2:30 |
-| 287 | [Somebody to Miss You](https://open.spotify.com/track/4iYIvu41J5amGqwy61ERaG) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [All I Wanna Do \(EP\)](https://open.spotify.com/album/7qKgvQvJP7P1uKbSl19Fft) | 3:04 |
-| 288 | [Professional](https://open.spotify.com/track/7F9gf1K7xZAhNal2Djl9Wi) | [Down With Webster](https://open.spotify.com/artist/6eMqM0bpqakYd4EA857uD9) | [Time To Win, Vol\. II](https://open.spotify.com/album/7bZA089W4OGmw6ySJXY6fp) | 2:37 |
+| 287 | [Professional](https://open.spotify.com/track/7F9gf1K7xZAhNal2Djl9Wi) | [Down With Webster](https://open.spotify.com/artist/6eMqM0bpqakYd4EA857uD9) | [Time To Win, Vol\. II](https://open.spotify.com/album/7bZA089W4OGmw6ySJXY6fp) | 2:37 |
+| 288 | [Somebody to Miss You](https://open.spotify.com/track/4iYIvu41J5amGqwy61ERaG) | [Travis Mills](https://open.spotify.com/artist/5fzbfP3jLDaJZe7TdFDXRY) | [All I Wanna Do \(EP\)](https://open.spotify.com/album/7qKgvQvJP7P1uKbSl19Fft) | 3:04 |
 | 289 | [It's Better This Way](https://open.spotify.com/track/1bNOdjMdGUH59zsWl93IEu) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Don't Let Them See You Cry](https://open.spotify.com/album/3jJg20HwumSwJH0GcG5VbC) | 2:37 |
 | 290 | [On A Wave](https://open.spotify.com/track/0GuhX81IqyufFB3VdVzUbj) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Off The Books EP \(2016\)](https://open.spotify.com/album/5seVG1s2oc5piRtsixp4g0) | 3:02 |
 | 291 | [Please \(with Lola Brooke\)](https://open.spotify.com/track/2i5Vn140b0apLArzWX8m0X) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Her Name Is Love](https://open.spotify.com/album/0KNJKCYUKi9hK5ztsLmbAp) | 3:13 |
@@ -324,4 +324,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 314 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 315 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcYiNAAAAACBMw2M0MgfxkAVUx+o8ZTz`
+Snapshot ID: `AcYn1AAAAADDrJtvjaoYVrSXGRwyzquV`

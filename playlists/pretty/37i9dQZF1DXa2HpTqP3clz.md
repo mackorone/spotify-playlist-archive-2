@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites\. Cover: Molly Tuttle
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,393 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,394 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 74 | [Dovetail Cabin](https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Dovetail Cabin](https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u) | 2:52 |
 | 75 | [Kentucky Highway](https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul) | [Williamson Branch](https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN) | [Kentucky Highway](https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET) | 3:39 |
 
-Snapshot ID: `AAAAAPI1+RsxtO+bYn3g+hHI35gHX1wJ`
+Snapshot ID: `AAAAAOVXjeDOMhfvFRUwP2yEucrbOFQx`

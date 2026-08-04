@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Anabel Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,859 likes - 80 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,937 likes - 80 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [AZUMA!](https://open.spotify.com/track/364eJvx7pljEHsDQuEOudz) | [Nana Owusu](https://open.spotify.com/artist/2AZLdjtb1CsfDh7n59PdZo), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [AZUMA!](https://open.spotify.com/album/2Gaon2OnKHasvus5BD77ji) | 2:45 |
 | 80 | [SAME TIME](https://open.spotify.com/track/4eiXWCDaKqPSatZwFU0HGb) | [Chie](https://open.spotify.com/artist/51aVuIZ1VIS3LTKkxXJzUm) | [SAME TIME](https://open.spotify.com/album/1Cgfvc3oOpSa0UBlYyWqjl) | 1:56 |
 
-Snapshot ID: `AAAAAPWA9bc7d6TBcFhtE7Cid6mMQecJ`
+Snapshot ID: `AAAAAL/cRICgBSXR+8rLa0T/GHC7Yu/K`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Stella Lefty
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,363,530 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,359,653 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Boston](https://open.spotify.com/track/7fvuJP8GXsloNyoQ0iLUzv) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/0YyIp1K8x6Mu0uFPcirwMf) | 2:45 |
 | 2 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
-| 3 | [Lucky Again \(Rebecca & Fiona Remix\)](https://open.spotify.com/track/3rAzkMG0n8S9LE77djR004) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Lucky Again \(Rebecca & Fiona Remix\)](https://open.spotify.com/album/2ahQrzRf6r4aOUdcAe7KxG) | 3:43 |
+| 3 | [Lucky Again \- \(Rebecca & Fiona Remix\)](https://open.spotify.com/track/3rAzkMG0n8S9LE77djR004) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in), [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Lucky Again \(Rebecca & Fiona Remix\)](https://open.spotify.com/album/2ahQrzRf6r4aOUdcAe7KxG) | 3:43 |
 | 4 | [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 |
 | 5 | [Say My Name \- Remix](https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32) | [Morgan Seatree](https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh), [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Say My Name \(Remix\)](https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk) | 2:48 |
 | 6 | [Desire](https://open.spotify.com/track/4sMR8fuTzbUyzB0asxifV0) | [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km), [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Desire](https://open.spotify.com/album/2yamyyBAOGWiGKI1O9X0wf) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [Don't Go Yet \- Major Lazer Remix](https://open.spotify.com/track/5Ay8r4qxJ1OYLS91tWysRf) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Don't Go Yet \(Major Lazer Remix\)](https://open.spotify.com/album/3jTLjbylYAkf4nbCPuz2Qo) | 2:51 |
 | 75 | [Before You Leave Me \- TELYKAST Remix](https://open.spotify.com/track/1GM0BBPG6CWenFpXx6FPc2) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Before You Leave Me \(TELYKAST Remix\)](https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J) | 2:47 |
 
-Snapshot ID: `AAAAAPbu3n3ySzPkFbuiqDUqoWaCEJo+`
+Snapshot ID: `AAAAACKJ2AoVNkOnPpQTcD9Ia8n9eAdp`

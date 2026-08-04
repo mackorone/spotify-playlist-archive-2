@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,089 likes - 250 songs - 15 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,129 likes - 250 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 249 | [voiles](https://open.spotify.com/track/2IEITXZudr701Y1KL2NqxF) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo), [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [voiles](https://open.spotify.com/album/6KFW23WCeuR4fGz4cXuVLF) | 3:20 |
 | 250 | [Solitude I](https://open.spotify.com/track/3KcxIhIMJD7jrsrpczNbfU) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Solitude I](https://open.spotify.com/album/05wfC9H8BLS6pFtI8X0S3G) | 3:49 |
 
-Snapshot ID: `AAAAAIDaY65JLcmwmoldeK7V3dC5rru8`
+Snapshot ID: `AAAAANyYdC+oJdclpFB7rg+TqEG2Tkc+`

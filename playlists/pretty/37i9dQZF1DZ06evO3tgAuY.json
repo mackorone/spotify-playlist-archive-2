@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2445,
+  "num_followers": 2444,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAA2KsqRsA8P4Dwx6+88iP/4",
+  "snapshot_id": "am6IgAAAAAC7Y6KLuX1JhVgIbXXHwfIj",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bien Jalisco",
+        "url": "https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        }
+      ],
+      "duration_ms": 144589,
+      "name": "Bien Jalisco",
+      "url": "https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Corona",
         "url": "https://open.spotify.com/album/0TIk2KKgH0w7qVXzlkolnN"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 140820,
       "name": "GPI - Remix",
       "url": "https://open.spotify.com/track/6BdDkDR0J0VSEZr7hGX1nv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bien Jalisco",
-        "url": "https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "2DEEP",
-          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
-        }
-      ],
-      "duration_ms": 144589,
-      "name": "Bien Jalisco",
-      "url": "https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Levemente Live Sessions",
-        "url": "https://open.spotify.com/album/5elO2gfBu2K6H7bmPDNCFh"
-      },
-      "artists": [
-        {
-          "name": "Los Pistones De Uriel Valdez",
-          "url": "https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "El Pariente - En Vivo",
-      "url": "https://open.spotify.com/track/72wD8rCDNm27xMyeaMLrd5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Frente",
         "url": "https://open.spotify.com/album/5iYBEe3zoDgspiZ8RmcSyE"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 118336,
       "name": "Humildemente",
       "url": "https://open.spotify.com/track/3RGPLPdzCWjHwdbRraKcCx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Levemente Live Sessions",
+        "url": "https://open.spotify.com/album/5elO2gfBu2K6H7bmPDNCFh"
+      },
+      "artists": [
+        {
+          "name": "Los Pistones De Uriel Valdez",
+          "url": "https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 177194,
+      "name": "El Pariente - En Vivo",
+      "url": "https://open.spotify.com/track/72wD8rCDNm27xMyeaMLrd5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover:  Fabrizio
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,284 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,303 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Good Luck](https://open.spotify.com/track/3kYXNH6QFe8bdNKL5XftO2) | [Alice Kristiansen](https://open.spotify.com/artist/4GhlwQ4mxyuwgeOiuWePZl) | [Nothing is Forever](https://open.spotify.com/album/37A8FUlvO6vib4JoAi60zb) | 4:04 |
 | 100 | [Commune](https://open.spotify.com/track/3NNL6y4g69QzTOJvyy9Oub) | [Caylan Hays](https://open.spotify.com/artist/2jCGUSXTvCi26FKOg6c2Wr) | [Commune](https://open.spotify.com/album/00TK0K8oNzWUyNNf0eSLNE) | 3:35 |
 
-Snapshot ID: `AAAAAKdGYCURedC8toMU4bjwGb+rpzTE`
+Snapshot ID: `AAAAAK9Hh6FOkQC/788Ipu6ONHhmyNgO`

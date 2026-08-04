@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-297 songs - 18 hr 38 min
+298 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [Wild In The CIty](https://open.spotify.com/track/6UJ7Tx50w0VwQc8GFM1Ghw) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Feel The Heat](https://open.spotify.com/album/1XYLHUy8YpqocGfm14fzyJ) | 4:49 | 2025-10-13 |  |
 | [Wolfman](https://open.spotify.com/track/335KIfI6iRzLsdHTi1PSMc) | [Matt Malone & The Holy Spirits](https://open.spotify.com/artist/24uJIeIX3E40nyx51WZO9M) | [Wolfman](https://open.spotify.com/album/1CpD6xutceVgnNhxK2aW5E) | 3:20 | 2025-11-02 | 2025-12-28 |
 | [Worst Enemy](https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Worst Enemy](https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb) | 4:05 | 2026-01-31 | 2026-06-14 |
+| [X88B88](https://open.spotify.com/track/3Z0Q4Bvun8AtZnezG0ipZF) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [X88B88](https://open.spotify.com/album/2N8NZAtzbYwrMt3Fm2EtEo) | 2:56 | 2026-08-03 |  |
 | [XOX](https://open.spotify.com/track/6NPFMNDnzPigdslFwfXoGm) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [LET IT BURN](https://open.spotify.com/album/7qPN6FUAx44U3Ti7F6Rpxr) | 2:06 | 2025-12-15 | 2026-01-21 |
 | [Yo soy un privilegio](https://open.spotify.com/track/3BRcsbhVShH0Hv9OoaMJZV) | [NaDesh](https://open.spotify.com/artist/4Wg1j1wuePfTj1kN2GMXiJ) | [Yo soy un privilegio](https://open.spotify.com/album/6mA13Q0gqKBeCUi5k6G9Yu) | 2:45 | 2026-03-14 |  |
 | [You Make Me Feel](https://open.spotify.com/track/6GowrMYjvh0Ercfkg8QQfC) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [You Make Me Feel](https://open.spotify.com/album/2b3uNUKmyiWJCaxQtXSmhq) | 3:11 | 2026-04-06 | 2026-05-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,468,598 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,468,069 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [You and I](https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm) | [MANTIS](https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa) | [GeGe E.P.](https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX) | 3:32 |
 | 80 | [Night Step](https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Night Step](https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki) | 2:30 |
 
-Snapshot ID: `AAAAAFnMBdQ05ukfAsw4E9Sn9DV2IHWE`
+Snapshot ID: `AAAAABwR3LVKshFOo3/EzhvCFnoKDbxc`

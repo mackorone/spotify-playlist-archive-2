@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357 likes - 182 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 360 likes - 182 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 13 | [Dirty](https://open.spotify.com/track/3pShTDa5E1bPBkrc1mxxGY) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Death Of An Optimist](https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji) | 3:28 |
 | 14 | [Dashboard](https://open.spotify.com/track/6rlU0kRQNjMZ7t5I92yCIi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:50 |
 | 15 | [American Cars](https://open.spotify.com/track/3WRgRy12YW4I9mjodKXWwy) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:32 |
-| 16 | [I Would've](https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:30 |
-| 17 | [Halloween](https://open.spotify.com/track/5aeQMQDWe64gVnVYSOqW6A) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:55 |
-| 18 | [Staying Still](https://open.spotify.com/track/35po0dhj4pRkbVDeooNVBW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 4:28 |
+| 16 | [Staying Still](https://open.spotify.com/track/35po0dhj4pRkbVDeooNVBW) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide: The Last Of The Bugs](https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18) | 4:28 |
+| 17 | [I Would've](https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:30 |
+| 18 | [Halloween](https://open.spotify.com/track/5aeQMQDWe64gVnVYSOqW6A) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:55 |
 | 19 | [Blue Banisters](https://open.spotify.com/track/4U9ACZETPOqGuJkWtjkjLF) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:53 |
 | 20 | [Downfall](https://open.spotify.com/track/5tGnphp8D9Doa2ZULhJSMx) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:15 |
 | 21 | [Son of a Bitch](https://open.spotify.com/track/1hnHgiBiMZlZp7EVxD0eCX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:35 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 39 | [Give Me The Reason](https://open.spotify.com/track/2Jda264qU8l4iquWEGRlJl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/55LHLzeYPPUn2YLtXtxPix) | 3:54 |
 | 40 | [About You](https://open.spotify.com/track/4M7nlEPdtK18kDy8q8Zwa7) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:40 |
 | 41 | [When I'm Not Around](https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [When I'm Not Around](https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz) | 3:21 |
-| 42 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 |
-| 43 | [Funeral](https://open.spotify.com/track/22xDzh3lOucccBrm1BB8xf) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 4:03 |
+| 42 | [Funeral](https://open.spotify.com/track/22xDzh3lOucccBrm1BB8xf) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 4:03 |
+| 43 | [Let Me In](https://open.spotify.com/track/3hQY2EgmFiibDXOk3hMxfc) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Let Me In](https://open.spotify.com/album/2S3n3sIXBXVdU1zEeY3MRq) | 3:48 |
 | 44 | [Surrounded](https://open.spotify.com/track/4EWMKfiqViuDfFFronSE2w) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:08 |
 | 45 | [bon iver](https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:16 |
 | 46 | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/track/26FuBmI70i0mXaKTST6Bz4) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/17FxTkMIOb6nzuewcCmTJc) | 2:43 |
@@ -89,11 +89,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 79 | [Endless](https://open.spotify.com/track/3klRimZjMu1YVi10hEXcyP) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:46 |
 | 80 | [SET YOURSELF ON FIRE](https://open.spotify.com/track/51seeZMWB9XvLl1jl8p6EP) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/6SW7IIrlj6LoWxDPinGeQp) | 2:51 |
 | 81 | [Leigh](https://open.spotify.com/track/7vqomJv75Sp17yEm3puTlv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:22 |
-| 82 | [Don’t Wanna Love U](https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Don’t Wanna Love U](https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU) | 3:29 |
-| 83 | [Often, Lately](https://open.spotify.com/track/6wpPY2tlgKSMXvuiXRU7Fk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:19 |
+| 82 | [Often, Lately](https://open.spotify.com/track/6wpPY2tlgKSMXvuiXRU7Fk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:19 |
+| 83 | [Don’t Wanna Love U](https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Don’t Wanna Love U](https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU) | 3:29 |
 | 84 | [Slow Decay](https://open.spotify.com/track/5dQ6k002CdfiBXVtjA93ra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Slow Decay](https://open.spotify.com/album/3WcOJPn6pzdftLyzrmpOCK) | 3:19 |
-| 85 | [Sycamore](https://open.spotify.com/track/1lyknQYQTIwrz3J5F1BXkC) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:45 |
-| 86 | [When I'm Gone](https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:26 |
+| 85 | [When I'm Gone](https://open.spotify.com/track/4u5XzrHO0w17YdLRBCEKrR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:26 |
+| 86 | [Sycamore](https://open.spotify.com/track/1lyknQYQTIwrz3J5F1BXkC) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:45 |
 | 87 | [wallflower](https://open.spotify.com/track/4xBk6wacj9UR6uaXIWZnHr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:20 |
 | 88 | [Wasted](https://open.spotify.com/track/6QZNdH4HVdKMc6zxwyo6zF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:43 |
 | 89 | [Biting My Tongue](https://open.spotify.com/track/3yUuElWQqnDLhxfb3gy1Fm) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/4RYoxrJMKyyIMAdDxO1Io3) | 3:33 |
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 121 | [I'll Lock Up](https://open.spotify.com/track/0mEY70sk2taYPkzjhHNkUb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:11 |
 | 122 | [Everybody's Different](https://open.spotify.com/track/2EMniKj6ybqN7ASJ2h5WU4) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 4:00 |
 | 123 | [Some People](https://open.spotify.com/track/6tx9Hz84YvpMVp6SWAl7Iv) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Changes All The Time \(Deluxe\)](https://open.spotify.com/album/441Y4TBgKQWHBJYlQBomI1) | 2:40 |
-| 124 | [French Girls](https://open.spotify.com/track/1HFVDMxkXsYSF7MV2i9j4n) | [Swimming With Bears](https://open.spotify.com/artist/7fvjtxGJoVNFZf1rGddHSD) | [French Girls](https://open.spotify.com/album/3zRBTq4T2qOPfuqTC6kHv5) | 3:41 |
-| 125 | [When I Was](https://open.spotify.com/track/40qpt6DLPe4vXsRC2zKK3y) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:55 |
+| 124 | [When I Was](https://open.spotify.com/track/40qpt6DLPe4vXsRC2zKK3y) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:55 |
+| 125 | [French Girls](https://open.spotify.com/track/1HFVDMxkXsYSF7MV2i9j4n) | [Swimming With Bears](https://open.spotify.com/artist/7fvjtxGJoVNFZf1rGddHSD) | [French Girls](https://open.spotify.com/album/3zRBTq4T2qOPfuqTC6kHv5) | 3:41 |
 | 126 | [Devastation \(with PAMÉ\)](https://open.spotify.com/track/6oxH7cP0JbbICm8DdVYta9) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [Devastation \(with PAMÉ\)](https://open.spotify.com/album/1yFtcNjSezziWM0lXQAT5h) | 3:22 |
 | 127 | [Parallel Lines \(feat\. Aron Wright\)](https://open.spotify.com/track/1XZwJeg5jryK2LWFyPDWlE) | [Future Reference](https://open.spotify.com/artist/7sgujsUpd4gQyKWDGLcauv), [Aron Wright](https://open.spotify.com/artist/4MKVLp1MAwYFqaXhe1g8dA) | [Parallel Lines \(feat\. Aron Wright\)](https://open.spotify.com/album/60BgZECcvdJ4oINnmPYqTG) | 3:51 |
 | 128 | [Seasons](https://open.spotify.com/track/0jzuoUYtIxSMJLUktZXV9o) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Garrett Nash](https://open.spotify.com/artist/0rdndvV0SFiSHPRHHUNmR0) | [one](https://open.spotify.com/album/1tZ2W5PW2lyAf1K7sTM6iW) | 3:24 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 181 | [Own The Night](https://open.spotify.com/track/0BorUElU7vFO51qKnAx8kM) | [Proper Gentlemen](https://open.spotify.com/artist/5eTE3zXt71ehPvKzn0GuJh), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Own The Night](https://open.spotify.com/album/5Ph15urX6DYg3XRrw3Zw3X) | 3:34 |
 | 182 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 
-Snapshot ID: `AcYiUgAAAAC7qB5Fhl3tCmo2dBU8c1bk`
+Snapshot ID: `AcYntgAAAACFY0BVI4dAx174NNW4hN1d`

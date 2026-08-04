@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 1540,
+  "num_followers": 1541,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAABD9wsnwg//zWKt5HahTgvU",
+  "snapshot_id": "am6IgAAAAAA8fY5TRmSBb3ZsUbd89/X+",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EQUINOX",
-        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "'99",
-      "url": "https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Are We Going?",
         "url": "https://open.spotify.com/album/6DEa2LNhNCldLC4bl9bE9I"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 226786,
       "name": "Where Are We Going?",
       "url": "https://open.spotify.com/track/6G1S9eAYKMget4tJowHYsi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "'99",
+      "url": "https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7"
     },
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EQUINOX",
-        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "Mount Shasta",
-      "url": "https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "London Class",
         "url": "https://open.spotify.com/album/6Vvxsmhtg0FKtUEsrkfleL"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 175227,
       "name": "Standout",
       "url": "https://open.spotify.com/track/7z8mamHXaezlYVODfFOypw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EQUINOX",
+        "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "Mount Shasta",
+      "url": "https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t"
     },
     {
       "added_at": null,

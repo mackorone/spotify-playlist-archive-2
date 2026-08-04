@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-411 songs - 1 day 0 hr 43 min
+413 songs - 1 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Lithium](https://open.spotify.com/track/4f6eNSvw58g7nm47pXtbMH) | [Lady Owl](https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO) | [Acid Viking](https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz) | 3:32 | 2026-01-01 | 2026-01-21 |
 | [Little Demon](https://open.spotify.com/track/7hWX0bDF5OPxt3BVygG4oL) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Little Demon](https://open.spotify.com/album/6WUXUmnb4DMvyDKyfRg3W7) | 3:47 | 2026-07-18 |  |
 | [long road](https://open.spotify.com/track/3tSsxs9mEIvqrugyxV0nX6) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [long road](https://open.spotify.com/album/3WknjuRtqocdw78ww4haRP) | 3:35 | 2026-04-04 |  |
+| [Loser](https://open.spotify.com/track/5ksHTPVHRiLAXsXnJPZbAF) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 3:13 | 2026-08-03 |  |
 | [Lost](https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp) | [Pushing Pluto](https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ), [Otonomi](https://open.spotify.com/artist/1m6cQu7gwgCJ9trZ5cgoNV) | [Lost](https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE) | 3:37 | 2025-11-20 | 2025-12-12 |
 | [Lost My Head](https://open.spotify.com/track/2O6VL9AlSxIasx5yzSBlT0) | [leetham](https://open.spotify.com/artist/6A0yNfaiITVOUgOZbRdK5u) | [A Night in Hollywood](https://open.spotify.com/album/5EnZ4hduf758YArA21k8PM) | 2:51 | 2026-01-19 | 2026-02-25 |
 | [Lost On Queen Street](https://open.spotify.com/track/6qD5nfAKKmTjs5IoUaHJS3) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [Lost On Queen Street](https://open.spotify.com/album/7Gp9P7nstTV0xulsGSk7LH) | 3:32 | 2026-04-21 | 2026-05-26 |
@@ -282,6 +283,7 @@
 | [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 | 2026-04-06 |  |
 | [Rarin 2 Go](https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Rarin 2 Go](https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr) | 4:16 | 2026-03-31 |  |
 | [Realise](https://open.spotify.com/track/0Db0iPyGKZv4w4fBaIfs4g) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Realise](https://open.spotify.com/album/5NUO2ci09fmOZhe7dRfVxs) | 3:07 | 2026-07-06 |  |
+| [Reason To Exist \- Suburban Sessions](https://open.spotify.com/track/28oMohx3ZGC9mJZ1oN7b5D) | [According To Jack](https://open.spotify.com/artist/1JVc2ZCDndA1nBgc0nLNSs) | [Reason To Exist \(Suburban Sessions\)](https://open.spotify.com/album/5X4CMD7OWlu4mZIwadQEoQ) | 2:50 | 2026-08-03 |  |
 | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/track/7c3n6e35HWPu8jFZsGP2ZD) | [Los No Muertos](https://open.spotify.com/artist/10DyxVqQ1e1PaEsmZujjSE) | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/album/6g7hoVgjQPhWLuXDiQlK1T) | 4:52 | 2026-06-09 |  |
 | [Reflection](https://open.spotify.com/track/1xHsQvCBHhiwOipWezwwGH) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Reflection](https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6) | 2:40 | 2025-11-13 | 2026-05-17 |
 | [Rescue Me](https://open.spotify.com/track/3wHq81AsSq1QvLsdIhsyM8) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Rescue Me](https://open.spotify.com/album/5Omt4VUwZXFkN5xte9EqLF) | 3:50 | 2026-01-29 | 2026-02-19 |

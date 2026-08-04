@@ -1,12 +1,12 @@
 {
   "description": "Nederpop en Volkspop meezingers. Cover: Samuel Welten (<a href=\"spotify:artist:37i9dQZF1DXaxwXKCsImRe\">RADAR BNLX</a>-artiest)",
-  "num_followers": 169403,
+  "num_followers": 169484,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIkoYtqEnTmSnm/UmaEKqRIvQdRd",
+  "snapshot_id": "AAAAAAOtepvRrYvUwrX9UyVKra/zHLh5",
   "tracks": [
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
+        "name": "Sugardaddy",
+        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "duration_ms": 131796,
+      "name": "Sugardaddy",
+      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
+    },
+    {
+      "added_at": "2026-06-17 07:46:41",
+      "album": {
         "name": "Alleen Met Jou",
         "url": "https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 193694,
       "name": "Alleen Met Jou",
       "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
-    },
-    {
-      "added_at": "2026-06-17 07:46:41",
-      "album": {
-        "name": "Sugardaddy",
-        "url": "https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf"
-      },
-      "artists": [
-        {
-          "name": "Roxy Dekker",
-          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
-        }
-      ],
-      "duration_ms": 131796,
-      "name": "Sugardaddy",
-      "url": "https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4"
     },
     {
       "added_at": "2026-06-17 07:46:41",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2026-06-17 07:46:41",
       "album": {
-        "name": "Hoe Zou Het Zijn Geweest",
-        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
+        "name": "5 In De Klok",
+        "url": "https://open.spotify.com/album/47NpIEYt4lRv08dVLdCYj7"
       },
       "artists": [
         {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
         }
       ],
-      "duration_ms": 181130,
-      "name": "Hoe Zou Het Zijn Geweest",
-      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
+      "duration_ms": 187611,
+      "name": "5 In De Klok",
+      "url": "https://open.spotify.com/track/7fOoETcG8UZb1dxzZpntQG"
     }
   ],
   "unique_name": "Hollandse Meezingers",

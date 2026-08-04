@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > ROCK NEVER DIES \| it's alive with ivri
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,196,420 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,191,072 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 79 | [Always You](https://open.spotify.com/track/5rGpgp8WxhRJrD4Pi5iL5B) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Always You](https://open.spotify.com/album/073ftzbTm7eaPcSe6uNeQs) | 3:43 |
 | 80 | [Think Bad](https://open.spotify.com/track/6vjZBqmpV7qJa0qppQ7Z7v) | [C.O.F.F.I.N](https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3) | [Think Bad](https://open.spotify.com/album/06vzJJeAR0wks3eblV5eyG) | 2:08 |
 
-Snapshot ID: `AAAAAHpxtWzvm7Nu2/rI1tAGk6Dpdroh`
+Snapshot ID: `AAAAAL1mHybkLDZRkN0x9qRy+KSXirtF`

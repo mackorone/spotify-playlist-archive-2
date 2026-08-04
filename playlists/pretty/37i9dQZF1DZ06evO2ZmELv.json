@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAAVa5eq/FBehsY96DJgn4Ej",
+  "snapshot_id": "am6IgAAAAAAbjJC3tH7DMxn0td7u8wre",
   "tracks": [
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Quieres",
-        "url": "https://open.spotify.com/album/0e1fGfeuU2Qj2fKyjvmcu1"
+        "name": "Nunca Voy A Olvidarte",
+        "url": "https://open.spotify.com/album/29MifvAXK7oL3zBiKfpdMV"
       },
       "artists": [
         {
@@ -464,15 +464,15 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 258827,
-      "name": "Si Quieres",
-      "url": "https://open.spotify.com/track/1RhHzJxQQcmg3ON1GzqlPQ"
+      "duration_ms": 185208,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/1ZhEWbMrnxuA5tY2UfIvD0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Yo Queria Ser Grande",
-        "url": "https://open.spotify.com/album/0vIHdFT8doQBkOcdRe4UHf"
+        "name": "No Vale la Pena",
+        "url": "https://open.spotify.com/album/0agPGyxGa9wjgX0WshJTIm"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 197236,
-      "name": "Cuando Yo Queria Ser Grande",
-      "url": "https://open.spotify.com/track/6PdQMapTt0pk9lE5EQctff"
+      "duration_ms": 167775,
+      "name": "No Vale la Pena",
+      "url": "https://open.spotify.com/track/42EeFwlmhyUbowZjQr4yx2"
     },
     {
       "added_at": null,
@@ -519,54 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Vale la Pena",
-        "url": "https://open.spotify.com/album/0agPGyxGa9wjgX0WshJTIm"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 167775,
-      "name": "No Vale la Pena",
-      "url": "https://open.spotify.com/track/42EeFwlmhyUbowZjQr4yx2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nunca Voy A Olvidarte",
-        "url": "https://open.spotify.com/album/29MifvAXK7oL3zBiKfpdMV"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 185208,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/1ZhEWbMrnxuA5tY2UfIvD0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 200704,
-      "name": "Extra\u00f1a Manera - En Vivo",
-      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo (En Vivo)",
         "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
       },
@@ -595,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones de Oro (En Vivo)",
-        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+        "name": "Si Quieres",
+        "url": "https://open.spotify.com/album/0e1fGfeuU2Qj2fKyjvmcu1"
       },
       "artists": [
         {
@@ -604,9 +556,41 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 232202,
-      "name": "Tu Lo Decidiste - Versi\u00f3n Banda En Vivo",
-      "url": "https://open.spotify.com/track/0wOxSHaY9lwjcIQ9ql8efP"
+      "duration_ms": 258827,
+      "name": "Si Quieres",
+      "url": "https://open.spotify.com/track/1RhHzJxQQcmg3ON1GzqlPQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Yo Queria Ser Grande",
+        "url": "https://open.spotify.com/album/0vIHdFT8doQBkOcdRe4UHf"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 197236,
+      "name": "Cuando Yo Queria Ser Grande",
+      "url": "https://open.spotify.com/track/6PdQMapTt0pk9lE5EQctff"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 200704,
+      "name": "Extra\u00f1a Manera - En Vivo",
+      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
     },
     {
       "added_at": null,
@@ -627,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mas Alla del Sol",
-        "url": "https://open.spotify.com/album/3THdqyXhZA40YyCaWzbqhn"
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
       },
       "artists": [
         {
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 202315,
-      "name": "Mas Alla del Sol",
-      "url": "https://open.spotify.com/track/40iIeuFv70pS0qvC0kgIye"
+      "duration_ms": 189827,
+      "name": "El Desquite - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/1MJNZUII5gFa69fJhmAcyC"
     },
     {
       "added_at": null,
@@ -655,6 +639,42 @@
       "duration_ms": 205155,
       "name": "Me Convences",
       "url": "https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mas Alla del Sol",
+        "url": "https://open.spotify.com/album/3THdqyXhZA40YyCaWzbqhn"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 202315,
+      "name": "Mas Alla del Sol",
+      "url": "https://open.spotify.com/track/40iIeuFv70pS0qvC0kgIye"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
+      },
+      "artists": [
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        },
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 235144,
+      "name": "Golpes En El Corazon (En Vivo)",
+      "url": "https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX"
     },
     {
       "added_at": null,
@@ -687,26 +707,6 @@
       "duration_ms": 175125,
       "name": "Con Rumbo Al Sur - En Vivo",
       "url": "https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo (En Vivo)",
-        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
-      },
-      "artists": [
-        {
-          "name": "Jose Manuel",
-          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
-        },
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 235144,
-      "name": "Golpes En El Corazon (En Vivo)",
-      "url": "https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX"
     },
     {
       "added_at": null,
@@ -775,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 153701,
+      "name": "Tengo Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/5ZKuMhwEnR3KZnsi8sacfE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Causa Perdida",
         "url": "https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 194047,
       "name": "Causa Perdida",
       "url": "https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 196816,
-      "name": "Le\u00f1a De Pirul - En Vivo",
-      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
     },
     {
       "added_at": null,
@@ -832,25 +832,9 @@
           "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 153701,
-      "name": "Tengo Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/5ZKuMhwEnR3KZnsi8sacfE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 161621,
-      "name": "Coraz\u00f3n De Oropel - En Vivo",
-      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
+      "duration_ms": 196816,
+      "name": "Le\u00f1a De Pirul - En Vivo",
+      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
     },
     {
       "added_at": null,
@@ -867,6 +851,22 @@
       "duration_ms": 181796,
       "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
       "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 161621,
+      "name": "Coraz\u00f3n De Oropel - En Vivo",
+      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
     }
   ],
   "unique_name": "This Is Cheli Madrid",

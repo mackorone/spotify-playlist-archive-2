@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,501 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,509 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 99 | [El Método de la Cera Perdida](https://open.spotify.com/track/1ycnC56AuYAJqVg56kpkHK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [El Método de la Cera Perdida](https://open.spotify.com/album/4FpVhTvjPQz8B6D5ElTqMC) | 4:23 |
 | 100 | [La voz del sinchi](https://open.spotify.com/track/6XMoJLbM0Q0TpxdSnPQnOe) | [Bareto](https://open.spotify.com/artist/5piEbDj9Q4qiZvNO8Gktv7) | [Impredecible](https://open.spotify.com/album/6eBd1fH0K3WOwOx5T4NC38) | 4:07 |
 
-Snapshot ID: `AAAAAIWlH3iY2U3f6bblIb7uNetuZ9Hx`
+Snapshot ID: `AAAAALkWqvokT8fME4STqV2LZydK4Dra`

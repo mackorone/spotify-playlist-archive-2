@@ -1,12 +1,12 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 34918,
+  "num_followers": 34925,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHw6ePGlOpL6sh9X/mYNxFovd9Bp",
+  "snapshot_id": "AAAAAO0GAtngXg7df7tyMdQXrH/q3j6T",
   "tracks": [
     {
       "added_at": "2026-07-30 22:02:53",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-07-30 22:02:53",
       "album": {
-        "name": "Vitamin C",
-        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
-      },
-      "artists": [
-        {
-          "name": "Calibro 35",
-          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
-        }
-      ],
-      "duration_ms": 209285,
-      "name": "Vitamin C",
-      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
-    },
-    {
-      "added_at": "2026-07-30 22:02:53",
-      "album": {
         "name": "Le mie donne",
         "url": "https://open.spotify.com/album/0nNoUuTnjhy6nsbrFHtAYY"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 584075,
       "name": "Norma: Casta diva - Arr. for Jazz Orchestra",
       "url": "https://open.spotify.com/track/6F2ZVnF2AXI3sG6bxq1o5x"
+    },
+    {
+      "added_at": "2026-07-30 22:02:53",
+      "album": {
+        "name": "Vitamin C",
+        "url": "https://open.spotify.com/album/7FkqxBByPespMKHZ0crqcX"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "duration_ms": 209285,
+      "name": "Vitamin C",
+      "url": "https://open.spotify.com/track/7GYF79EYtDd8a574r1k2fe"
     },
     {
       "added_at": "2026-07-30 22:02:53",

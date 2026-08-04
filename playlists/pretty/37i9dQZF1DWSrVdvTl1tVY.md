@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Alex Culross, Ejeca
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,281 likes - 116 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,939 likes - 116 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 115 | [Journey](https://open.spotify.com/track/7KRVqlUR7iejxjIu11GI19) | [Delilah](https://open.spotify.com/artist/0vUOZYWihxoF2IQ2VOckKh) | [Journey EP](https://open.spotify.com/album/7svQALRGkDNMzDF7TRbWcs) | 3:01 |
 | 116 | [Don't Stop](https://open.spotify.com/track/5q9k7vafwOFIB6ErqcjCJe) | [Dafs](https://open.spotify.com/artist/4o1Bvr2CXpQRuw7JnTaO4N) | [Don't Stop](https://open.spotify.com/album/3Ml1RHy8ZnnCUOcG1kP2bA) | 3:16 |
 
-Snapshot ID: `AAAAADe9xruihjwG89N07dt4aXm1FVJA`
+Snapshot ID: `AAAAAF2XPZrP4KIr8AcZTGRdj5Q2xpi0`

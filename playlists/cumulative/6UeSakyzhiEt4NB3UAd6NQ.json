@@ -230,7 +230,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 223800,
       "name": "2018",
       "url": "https://open.spotify.com/track/4WTAhRxyBj8jqGlaaYyWBp"
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 199080,
       "name": "Bottom Of Your Boots",
       "url": "https://open.spotify.com/track/0hv6276QhpMDnVJIMxEWPH"
@@ -2106,7 +2106,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 163400,
       "name": "Build a Bitch",
       "url": "https://open.spotify.com/track/59PK68hbhNDJ974UVE46UK"
@@ -2953,6 +2953,24 @@
     },
     {
       "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175763,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
+    },
+    {
+      "album": {
         "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
         "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
       },
@@ -3294,6 +3312,24 @@
       "duration_ms": 267441,
       "name": "Dead (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/3gnBcl5KRYTzIQyCOQug6F"
+    },
+    {
+      "album": {
+        "name": "Dead Fresh",
+        "url": "https://open.spotify.com/album/6DuuzOm5bLRIg4CVBQx136"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157020,
+      "name": "Dead Fresh",
+      "url": "https://open.spotify.com/track/5ZAMlvo6ZUjVRZOGu2bJib"
     },
     {
       "album": {
@@ -4156,7 +4192,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 152360,
       "name": "Empty Words",
       "url": "https://open.spotify.com/track/42Zw3Z5xOv7bTV6C6PVwRg"
@@ -4376,7 +4412,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 144840,
       "name": "Eye To Eye",
       "url": "https://open.spotify.com/track/5DZC0qdqkeUC3H5yoyRW43"
@@ -4861,6 +4897,28 @@
     },
     {
       "album": {
+        "name": "FREAKED OUT",
+        "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "FREAKED OUT",
+      "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
+    },
+    {
+      "album": {
         "name": "Freakin\u2019 Out",
         "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
       },
@@ -4942,7 +5000,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 157640,
       "name": "Fukk A Interview",
       "url": "https://open.spotify.com/track/7EOgQuWYzWIgCfe5zEe1dl"
@@ -5416,6 +5474,24 @@
       "duration_ms": 199209,
       "name": "Good News",
       "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248164,
+      "name": "Good Reason",
+      "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ"
     },
     {
       "album": {
@@ -6552,7 +6628,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 190933,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/12c5b7YmtMPxWnAgSql0sb"
@@ -6694,7 +6770,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 191400,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/3BdOeDuJqnj0sV8rTimNC4"
@@ -6784,7 +6860,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
@@ -6886,6 +6962,28 @@
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/1jTe5liUdnRjbie1luBi6J"
+    },
+    {
+      "album": {
+        "name": "is it cool? (feat. SZA)",
+        "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174230,
+      "name": "is it cool? (feat. SZA)",
+      "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
     },
     {
       "album": {
@@ -7200,7 +7298,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 135120,
       "name": "Kick",
       "url": "https://open.spotify.com/track/1ToQjz5blAdvdLiS09rUKf"
@@ -7298,7 +7396,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 161075,
       "name": "Kingdom of Fear",
       "url": "https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W"
@@ -8525,6 +8623,24 @@
     },
     {
       "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120340,
+      "name": "Minibar",
+      "url": "https://open.spotify.com/track/4bDlONk2X1TMBHKaf8tjCn"
+    },
+    {
+      "album": {
         "name": "misery.",
         "url": "https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2"
       },
@@ -8608,7 +8724,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 134413,
       "name": "Money Over Everything",
       "url": "https://open.spotify.com/track/6svevQditWxJzW2WUfqe2p"
@@ -9092,10 +9208,28 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 168253,
       "name": "No Misery",
       "url": "https://open.spotify.com/track/68V6KjU8OVGYfebIAwsUza"
+    },
+    {
+      "album": {
+        "name": "No Need For Leavin'",
+        "url": "https://open.spotify.com/album/7KSzJ0oaZ5DoN6Xvbd9hD6"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "No Need For Leavin'",
+      "url": "https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd"
     },
     {
       "album": {
@@ -9254,7 +9388,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-26",
+      "date_removed": null,
       "duration_ms": 181649,
       "name": "NORMAL",
       "url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5"
@@ -9348,7 +9482,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 171680,
       "name": "Off the Hinge",
       "url": "https://open.spotify.com/track/2Ji4R7BcsRSSYxQRtHYAp1"
@@ -9490,7 +9624,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 119986,
       "name": "One Two",
       "url": "https://open.spotify.com/track/7Aj7gSqpF1HdkftImtgil8"
@@ -10344,7 +10478,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 159933,
       "name": "Radio",
       "url": "https://open.spotify.com/track/4WtMTAplAbnTaFuSxVphOj"
@@ -11462,7 +11596,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 162466,
       "name": "Snow in Skyami",
       "url": "https://open.spotify.com/track/2nGzxt4Ww10tUoyDdkNqWq"
@@ -11788,6 +11922,24 @@
       "duration_ms": 201506,
       "name": "South and Pine",
       "url": "https://open.spotify.com/track/4nJb9mDNcIy7bWYUJlZoYV"
+    },
+    {
+      "album": {
+        "name": "South Of Sanity",
+        "url": "https://open.spotify.com/album/6NVclGrBOx2UG9z8pDIJGd"
+      },
+      "artists": [
+        {
+          "name": "Zach Top",
+          "url": "https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220726,
+      "name": "South Of Sanity",
+      "url": "https://open.spotify.com/track/0pwAGmv0r5LeEWaIIAK384"
     },
     {
       "album": {
@@ -12518,7 +12670,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 110773,
       "name": "Tank Top Pluto",
       "url": "https://open.spotify.com/track/0wLCuuprBD0HYiMZCHcdB6"
@@ -12736,6 +12888,24 @@
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "album": {
+        "name": "the feeling",
+        "url": "https://open.spotify.com/album/0ox0bcTYieBO03Uaueye9u"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275936,
+      "name": "the feeling",
+      "url": "https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S"
     },
     {
       "album": {
@@ -13328,7 +13498,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 106013,
       "name": "Trench Coat",
       "url": "https://open.spotify.com/track/6Fwqe3PgU9goxUk8LN1bJ9"
@@ -13770,7 +13940,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 174013,
       "name": "Weight Up",
       "url": "https://open.spotify.com/track/2MJZJ6aXqsgDra1pQt9WLT"

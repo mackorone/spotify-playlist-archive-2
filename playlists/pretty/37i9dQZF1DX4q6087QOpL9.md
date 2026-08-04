@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 
 > That real soulful house sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,756 likes - 150 songs - 13 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,777 likes - 150 songs - 13 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,9 +154,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4q6087QOpL9.md) - [plain]
 | 144 | [Back Together Again \- Jazz\-N\-Groove 12" Dub](https://open.spotify.com/track/5t19Avl6FbooyoNMnSMhpG) | [Sarah Jane Morris](https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o), [Mario Biondi](https://open.spotify.com/artist/1dRsXw2TtfCXfqMLRiP088), [Jazz N Groove](https://open.spotify.com/artist/5qNWZfVzh34W6PCtrLZwWa) | [Back Together Again \(Vinyl Mixes\)](https://open.spotify.com/album/5Y0by61mrO6JFVvm31PG5Z) | 3:43 |
 | 145 | [Daylight](https://open.spotify.com/track/2KNpdjtaAbWSoWRnkNeD3i) | [Toribio](https://open.spotify.com/artist/1pvkxX6Q1JG8rnyBZ3t2MQ), [Sharin](https://open.spotify.com/artist/5jhSsx7bl4cEWrlQswLQJQ) | [Daylight](https://open.spotify.com/album/5Q639q8OY3ZTBQnK5Jqkuc) | 4:17 |
 | 146 | [AWA \- Atjazz Love Soul Mix Edit](https://open.spotify.com/track/3czgfERZJodqLcbk11lGVo) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK), [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH) | [AWA \(Atjazz Remixes\)](https://open.spotify.com/album/1zm4B9mSGH4yLyymTZtYin) | 3:40 |
-| 147 | [Do U Love Me \- Jon Cutler's Distant Music Mix](https://open.spotify.com/track/0cTZNXtsWY0WroZxhscNjW) | [Risk Assessment](https://open.spotify.com/artist/3DixnNTRc88jkibgnOTa4z), [Vanessa Freeman](https://open.spotify.com/artist/5C4gaWnEwsHzn34UhjVV8c), [Jon Cutler](https://open.spotify.com/artist/6vmRl3VuXiU126ssJufx2Z) | [Do U Love Me \(Jon Cutler Remixes\)](https://open.spotify.com/album/69Yxxk5aslCZ6jrI4fFFyZ) | 6:51 |
-| 148 | [Baby Don't Make Me Wait \- Radio Edit](https://open.spotify.com/track/4uPc7tAuWgbFldYtaxQf8p) | [MissFly](https://open.spotify.com/artist/5SnPXxLsSi66X7KHu4Mqvm), [David Bailey](https://open.spotify.com/artist/6Cxf6Ba2E4Qa5rFHgJIGm2) | [Baby Don't Make Me Wait](https://open.spotify.com/album/1OHUILbjjdsl8fgSuil63r) | 4:04 |
+| 147 | [Baby Don't Make Me Wait \- Radio Edit](https://open.spotify.com/track/4uPc7tAuWgbFldYtaxQf8p) | [MissFly](https://open.spotify.com/artist/5SnPXxLsSi66X7KHu4Mqvm), [David Bailey](https://open.spotify.com/artist/6Cxf6Ba2E4Qa5rFHgJIGm2) | [Baby Don't Make Me Wait](https://open.spotify.com/album/1OHUILbjjdsl8fgSuil63r) | 4:04 |
+| 148 | [Do U Love Me \- Jon Cutler's Distant Music Mix](https://open.spotify.com/track/0cTZNXtsWY0WroZxhscNjW) | [Risk Assessment](https://open.spotify.com/artist/3DixnNTRc88jkibgnOTa4z), [Vanessa Freeman](https://open.spotify.com/artist/5C4gaWnEwsHzn34UhjVV8c), [Jon Cutler](https://open.spotify.com/artist/6vmRl3VuXiU126ssJufx2Z) | [Do U Love Me \(Jon Cutler Remixes\)](https://open.spotify.com/album/69Yxxk5aslCZ6jrI4fFFyZ) | 6:51 |
 | 149 | [Living My Life \- Jimpster Remix](https://open.spotify.com/track/01wFW0qEYbQJ8ve6LjED9V) | [Franck Roger](https://open.spotify.com/artist/3MufUuGHNXVyi1kuL4mCdL), [Arnold Jarvis](https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Living My Life](https://open.spotify.com/album/7tGwilV8WtsqwIOz4MNIV2) | 5:24 |
 | 150 | [What Do You Want \- Andre Torquato Remix](https://open.spotify.com/track/727elvEAvvabT3LWNxfmXc) | [Bruce Leroys](https://open.spotify.com/artist/46j0ccuaEWbkqNNsbEHCJT), [Lee Wilson](https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr), [Andre Torquato](https://open.spotify.com/artist/0Ta6nk5LoHNBshXpIeyS53) | [What Do You Want](https://open.spotify.com/album/5P3IfJjK0kzIsFIR87NfW3) | 5:23 |
 
-Snapshot ID: `AAAAABqWgNN+k7b1UtKgAM2wT4vah9ER`
+Snapshot ID: `AAAAAFRNB2ot59CK4nCT2NTKrR07zf3H`

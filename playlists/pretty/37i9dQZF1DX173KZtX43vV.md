@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: MOLIY
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,336 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,343 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 49 | [man up](https://open.spotify.com/track/6oTDRraYxQpYK8ZCMBIapW) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [man up](https://open.spotify.com/album/0b5qj17fBxBKqbhc1WX5vE) | 2:59 |
 | 50 | [ROCKSTAR RIDER](https://open.spotify.com/track/5oLTmlAYDjBtJgjkkJGxGn) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [ROCKSTAR RIDER](https://open.spotify.com/album/50hInZyNdoNvVSrp1V9viP) | 2:44 |
 
-Snapshot ID: `AAAAAM2qU7fLvEiWtLk/Nom0CXGhsWSV`
+Snapshot ID: `AAAAAKNOt9d9YNrB3GWsQV22AmnRmofq`

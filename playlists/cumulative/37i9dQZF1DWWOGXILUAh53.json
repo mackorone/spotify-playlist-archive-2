@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/7qcyVIFELYfWPB1vlDnnri"
+      },
+      "artists": [
+        {
+          "name": "CIEL.",
+          "url": "https://open.spotify.com/artist/7k3cId1oZqUxRM5QgjMKJU"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153016,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/1XE7pQ0L1CdZk5q33YZjjS"
+    },
+    {
+      "album": {
         "name": "ALL MY LOVE (PNAU x Coldplay)",
         "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
       },
@@ -5047,6 +5065,24 @@
     },
     {
       "album": {
+        "name": "brand new chanel$",
+        "url": "https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238505,
+      "name": "brand new chanel$",
+      "url": "https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2"
+    },
+    {
+      "album": {
         "name": "Bread",
         "url": "https://open.spotify.com/album/6eJJ1rjVZ3o6HoMBCMxkZV"
       },
@@ -5436,6 +5472,28 @@
       "duration_ms": 155135,
       "name": "Bullet",
       "url": "https://open.spotify.com/track/6ASkRRVqWOZxREtftzcd0t"
+    },
+    {
+      "album": {
+        "name": "Bulletproof (This Time Baby) [feat. La Roux]",
+        "url": "https://open.spotify.com/album/6BlDeDwHOmkE6PerQJE1yV"
+      },
+      "artists": [
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        },
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158207,
+      "name": "Bulletproof (This Time Baby) [feat. La Roux]",
+      "url": "https://open.spotify.com/track/5jXj96xdtF03bTwkSYj2rT"
     },
     {
       "album": {
@@ -13031,6 +13089,24 @@
     },
     {
       "album": {
+        "name": "FIANCHI",
+        "url": "https://open.spotify.com/album/1LNpW6xFwBPn8gnMlsr9hx"
+      },
+      "artists": [
+        {
+          "name": "AMARA ctk100",
+          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146739,
+      "name": "FIANCHI",
+      "url": "https://open.spotify.com/track/4Mrmo8tcADYG7lNU00lOWk"
+    },
+    {
+      "album": {
         "name": "Finally",
         "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
       },
@@ -13802,7 +13878,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 258204,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/08loBhbezM9ypYP2nbJQQd"
@@ -14746,7 +14822,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 195913,
       "name": "Girl's Girl - Girls Trip",
       "url": "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY"
@@ -20404,7 +20480,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 136770,
       "name": "In My Head (Baby I'm Sorry)",
       "url": "https://open.spotify.com/track/0Sp97LfUi3M6hpnYzfBl12"
@@ -22266,7 +22342,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 187000,
       "name": "LEMONADE (feat. Becky G)",
       "url": "https://open.spotify.com/track/4X0AxVnhlkSd4ggu78Tir1"
@@ -24134,7 +24210,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 210909,
       "name": "Love Tonight",
       "url": "https://open.spotify.com/track/68jlqOAOllV9eGCkl1g2Rf"
@@ -26562,7 +26638,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 175091,
       "name": "More! More! More!",
       "url": "https://open.spotify.com/track/7Bk9xGSArXDiMe5Jj2zSMo"
@@ -28140,6 +28216,24 @@
       "duration_ms": 163364,
       "name": "No Plans",
       "url": "https://open.spotify.com/track/7utHPuTZiXGbWq0yCksPm0"
+    },
+    {
+      "album": {
+        "name": "EUPHORIA",
+        "url": "https://open.spotify.com/album/05tucdy5dW4xZkegDKSCdr"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136353,
+      "name": "NO PRESSURE",
+      "url": "https://open.spotify.com/track/0ZULu6dZl09I6ooCsKyOMg"
     },
     {
       "album": {
@@ -32330,7 +32424,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 216054,
       "name": "red bikini",
       "url": "https://open.spotify.com/track/6HRfpEsRjpbi0vuS2od9t9"
@@ -33126,6 +33220,28 @@
       "duration_ms": 181840,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/31D55MpvBHFSaeef0EeUDM"
+    },
+    {
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/5po8JSgrfUUMcc6r9lLawl"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168552,
+      "name": "River",
+      "url": "https://open.spotify.com/track/7A9QFSxkFvs2rznGBwhM6M"
     },
     {
       "album": {
@@ -34143,6 +34259,28 @@
     },
     {
       "album": {
+        "name": "SAWA",
+        "url": "https://open.spotify.com/album/4TFoKPoRUyp7GXwMqfqpA5"
+      },
+      "artists": [
+        {
+          "name": "AYA",
+          "url": "https://open.spotify.com/artist/0HWD0Gp5nnU5zcDAc03f9q"
+        },
+        {
+          "name": "bees & honey",
+          "url": "https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220527,
+      "name": "SAWA",
+      "url": "https://open.spotify.com/track/3GREOJIVX7HqTplYUcyFZ1"
+    },
+    {
+      "album": {
         "name": "Say Less",
         "url": "https://open.spotify.com/album/41UV2qZ2XzW1j35A4XuA2j"
       },
@@ -34228,6 +34366,28 @@
       "duration_ms": 175150,
       "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
       "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
+    },
+    {
+      "album": {
+        "name": "Say Yea (feat. Amira Eldine)",
+        "url": "https://open.spotify.com/album/3c0uU6xEkAC44eIgSRbJFG"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Amira Eldine",
+          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159390,
+      "name": "Say Yea (feat. Amira Eldine)",
+      "url": "https://open.spotify.com/track/5AQDvtN8uwUIpEKS2znReK"
     },
     {
       "album": {
@@ -39480,7 +39640,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 198750,
       "name": "that's my beach!",
       "url": "https://open.spotify.com/track/1MtlL1N2wTI08qiMjcwEu7"

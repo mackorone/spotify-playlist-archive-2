@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,585 likes - 122 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,655 likes - 122 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 121 | [Sacrifice](https://open.spotify.com/track/1w5hmKj5aKzeYwJDmXWvos) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Sacrifice](https://open.spotify.com/album/6H4OFwDXGIayENuOoNNnZX) | 3:04 |
 | 122 | [Watching North](https://open.spotify.com/track/3Dd5gOKG0iRpbKc7ZMp7rO) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Watching North](https://open.spotify.com/album/5JjqTy2EicAtQbktvJrKXd) | 2:16 |
 
-Snapshot ID: `AAAAAG2qg0plHxJPcJQRiS3Y+dCxQOnS`
+Snapshot ID: `AAAAACSRFzWE4yXUsFSflyHGipAGprxK`

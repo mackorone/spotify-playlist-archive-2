@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 
 > Cuando el jangueo está mejor que la fiesta\. Hanging out jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,560 likes - 115 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268,159 likes - 115 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TNDxNzIjRm.md) - [plain]
 | 114 | [White Wine](https://open.spotify.com/track/4AETvh6O4bT8qZyo1LhGjb) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [White Wine](https://open.spotify.com/album/6gK9COmLa1YE0TygSYH3DP) | 3:12 |
 | 115 | [Me Gustas](https://open.spotify.com/track/52KDBENtaXF2tlJdqXCLQd) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas](https://open.spotify.com/album/6OvMtRnVQ8DmGU9AeBMmuu) | 2:57 |
 
-Snapshot ID: `AAAAAFDsHHeySsy/SDyFT6Ka1354Hts6`
+Snapshot ID: `AAAAAChUxhTvIRtEdKUMjW+aUbYARS5o`

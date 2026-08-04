@@ -9193,6 +9193,24 @@
     },
     {
       "album": {
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/2Sf3u0pwck1BFHuaP4crw3"
+      },
+      "artists": [
+        {
+          "name": "vic hagen",
+          "url": "https://open.spotify.com/artist/7iPpuV8sPw5MU1iJvLx8CU"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244281,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/0RVvZ8l6MFAEDLpVasrzYa"
+    },
+    {
+      "album": {
         "name": "TUFF Cookie All-Stars, Vol. 1",
         "url": "https://open.spotify.com/album/1zDyXU2vigviLqfeb0r80y"
       },

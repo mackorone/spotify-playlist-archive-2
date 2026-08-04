@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Creadores que necesitas tener en el RADAR. En la portada: <a href=\"spotify:show:24fUXERZ38CtyNbJtCnpa8\">Finanzas que Valen </a>",
+  "description": "Creadores que necesitas tener en el RADAR. En la portada: <a href=\"spotify:show:629ovTrIOVUyoyv4L2dyqR\">Los Tripl3ts </a>",
   "name": "RADAR Creadores M\u00e9xico",
   "tracks": [
+    {
+      "album": {
+        "name": "Desmenucemos la Data",
+        "url": "https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV"
+      },
+      "artists": [
+        {
+          "name": "Desmenucemos la Data",
+          "url": "https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4741781,
+      "name": " 26 - \u00bfPOR QU\u00c9 TODOS HABLAN DE LA AFA Y DEL ICE?",
+      "url": "https://open.spotify.com/episode/0mpFlIGQfzzw25yZ459gEa"
+    },
     {
       "album": {
         "name": "Ideas de Altura Podcast",
@@ -34,7 +52,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 5486441,
       "name": " Secretos adolescentes (mi mam\u00e1 casi se desmaya) | Las Desencantadas Podcast Ep. 10",
       "url": "https://open.spotify.com/episode/7LsxFrD4txS7jR0NWNNPCG"
@@ -196,7 +214,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 4505002,
       "name": "21 - COMIENZA EL MUNDIAL, VISAS Y CNTE generan caos y despeluque",
       "url": "https://open.spotify.com/episode/25LBLKMlxXHZKfVN6oNBwM"
@@ -214,7 +232,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 4489152,
       "name": "22 - PRESIDENTA CON A VS SALINAS PLIEGO | Samuel Garc\u00eda enjuiciado y m\u00e1s",
       "url": "https://open.spotify.com/episode/2ZfwbkWBtxyHCo27owWVXO"
@@ -232,7 +250,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 4918357,
       "name": "23 - PATO MERL\u00cdN EN LA MA\u00d1ANERA, alcaldesa de Tenancingo pir\u00f3 y m\u00e1s cuacha",
       "url": "https://open.spotify.com/episode/4RVsLNa7vL4jlYIW3CkCTp"
@@ -293,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Desmenucemos la Data",
+        "url": "https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV"
+      },
+      "artists": [
+        {
+          "name": "Desmenucemos la Data",
+          "url": "https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3161728,
+      "name": "27 - ESPA\u00d1A CAMPEONA, ARGENTINA EN L\u00c1GRIMAS y m\u00e1s brete mundialero",
+      "url": "https://open.spotify.com/episode/18sRe51RuqUXxf1tLbcXEh"
+    },
+    {
+      "album": {
         "name": "Chisme Corporativo",
         "url": "https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf"
       },
@@ -308,6 +344,24 @@
       "duration_ms": 5696888,
       "name": "27. Starbucks: \u00bfser\u00e1 la estrategia correcta regresar a sus or\u00edgenes?",
       "url": "https://open.spotify.com/episode/3SVsIvZS962Pmv55TxCDHY"
+    },
+    {
+      "album": {
+        "name": "Desmenucemos la Data",
+        "url": "https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV"
+      },
+      "artists": [
+        {
+          "name": "Desmenucemos la Data",
+          "url": "https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2452501,
+      "name": "28 - DESMENUCEMOS LA DATA DEL MAYO ZAMBADA ",
+      "url": "https://open.spotify.com/episode/6Qpym0RwJsk4hdQpk0ucaJ"
     },
     {
       "album": {
@@ -430,7 +484,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 3904340,
       "name": "autoestima (no tenemos de eso) | Las DESENCANTADAS Podcast ep. 16",
       "url": "https://open.spotify.com/episode/2Lg2lZZ6N0GUVc4jl8o1q1"
@@ -806,9 +860,27 @@
           "url": "https://open.spotify.com/show/24fUXERZ38CtyNbJtCnpa8"
         }
       ],
-      "date_added": "2026-07-01",
+      "date_added": "2026-08-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 2331864,
+      "name": "C\u00f3mo emprender sin quedar en quiebra: de qu\u00e9 viven las emprendedoras antes de ser redituables",
+      "url": "https://open.spotify.com/episode/4TsrMXazXkEpVmxszO0Oy2"
+    },
+    {
+      "album": {
+        "name": "Finanzas que Valen",
+        "url": "https://open.spotify.com/album/24fUXERZ38CtyNbJtCnpa8"
+      },
+      "artists": [
+        {
+          "name": "Finanzas que Valen",
+          "url": "https://open.spotify.com/show/24fUXERZ38CtyNbJtCnpa8"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2026-08-04",
       "duration_ms": 2128432,
       "name": "C\u00f3mo voy a comprar una casa (realisticamente)? Una guia por el historial crediticio desde cero",
       "url": "https://open.spotify.com/episode/00BEo3IkXiuE6eL20zWusM"
@@ -830,6 +902,42 @@
       "duration_ms": 3414752,
       "name": "ENAMOR\u00c1NDOME DESDE MIS TRAUMAS",
       "url": "https://open.spotify.com/episode/0qxX9Sc2YY2Rur91ckKauh"
+    },
+    {
+      "album": {
+        "name": "Los Tripl3ts",
+        "url": "https://open.spotify.com/album/629ovTrIOVUyoyv4L2dyqR"
+      },
+      "artists": [
+        {
+          "name": "Los Tripl3ts",
+          "url": "https://open.spotify.com/show/629ovTrIOVUyoyv4L2dyqR"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4702178,
+      "name": "Ep. 17 - \u00bfQu\u00e9 paso verdaderamente? - ft. TURBULENCE QUEEN | LOS TRIPL3TS",
+      "url": "https://open.spotify.com/episode/4gCnFjhl6LVHCS2iZ6ncMB"
+    },
+    {
+      "album": {
+        "name": "Los Tripl3ts",
+        "url": "https://open.spotify.com/album/629ovTrIOVUyoyv4L2dyqR"
+      },
+      "artists": [
+        {
+          "name": "Los Tripl3ts",
+          "url": "https://open.spotify.com/show/629ovTrIOVUyoyv4L2dyqR"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3130675,
+      "name": "Ep. 18 - HETEROS CURIOSOS | LOS TRIPL3TS",
+      "url": "https://open.spotify.com/episode/6b2Q15nDH5OkSWhNglTuFN"
     },
     {
       "album": {
@@ -866,6 +974,24 @@
       "duration_ms": 3927317,
       "name": "EP.22 I LA CAGAMOS, Y QU\u00c9??",
       "url": "https://open.spotify.com/episode/4Du29567ytlwzidHGSaVbU"
+    },
+    {
+      "album": {
+        "name": "Los Tripl3ts",
+        "url": "https://open.spotify.com/album/629ovTrIOVUyoyv4L2dyqR"
+      },
+      "artists": [
+        {
+          "name": "Los Tripl3ts",
+          "url": "https://open.spotify.com/show/629ovTrIOVUyoyv4L2dyqR"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3317781,
+      "name": "Ep.26 - JOCHIS FIESTERAS \ud83e\udea9 | LOS TRIPL3TS",
+      "url": "https://open.spotify.com/episode/7arroojgc0U2fLTxvbo8XX"
     },
     {
       "album": {
@@ -1366,7 +1492,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 2233828,
       "name": "La historia que nos contaron sobre las mujeres y el dinero: de Carrie Bradshaw a Judy Faulkner",
       "url": "https://open.spotify.com/episode/0wGOiolNOH2jysWCdZJofu"
@@ -1424,6 +1550,24 @@
       "duration_ms": 4292841,
       "name": "LA VERDAD SOBRE MI ADOPCI\u00d3N \ud83d\ude2d Ep.20 [INFANCIA] \ud83e\uddf8 - El Grupito de Atr\u00e1s \ud83d\udde3\ufe0f",
       "url": "https://open.spotify.com/episode/6BURut3PA4EeXxP4sWvWWe"
+    },
+    {
+      "album": {
+        "name": "Finanzas que Valen",
+        "url": "https://open.spotify.com/album/24fUXERZ38CtyNbJtCnpa8"
+      },
+      "artists": [
+        {
+          "name": "Finanzas que Valen",
+          "url": "https://open.spotify.com/show/24fUXERZ38CtyNbJtCnpa8"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1978036,
+      "name": "La vibra de la recesi\u00f3n: por qu\u00e9 los j\u00f3venes nos sentimos mal con nuestro dinero (y qu\u00e9 podemos hacer al respecto)",
+      "url": "https://open.spotify.com/episode/5hwpBY4gz4y9jWEfg4J8Wk"
     },
     {
       "album": {
@@ -1780,7 +1924,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 1416996,
       "name": "Por qu\u00e9 ganar m\u00e1s no soluciona tus problemas financieros",
       "url": "https://open.spotify.com/episode/5G64ULx8kLdjgRhD05a7Je"
@@ -1978,7 +2122,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 4382804,
       "name": "Suegras dementes | Las DESENCANTADAS podcast Ep. 11",
       "url": "https://open.spotify.com/episode/3b9KTx2ktIRCuY4mY6oBJw"
@@ -2216,6 +2360,24 @@
       "duration_ms": 3508674,
       "name": "Y si nunca encuentro el amor",
       "url": "https://open.spotify.com/episode/4n6ru8jPT97x4tPKKQpnVh"
+    },
+    {
+      "album": {
+        "name": "Finanzas que Valen",
+        "url": "https://open.spotify.com/album/24fUXERZ38CtyNbJtCnpa8"
+      },
+      "artists": [
+        {
+          "name": "Finanzas que Valen",
+          "url": "https://open.spotify.com/show/24fUXERZ38CtyNbJtCnpa8"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2488365,
+      "name": "\u00bfLe confiar\u00edas tu dinero a un economista?: El Error de Diciembre, el SPEI y 30 a\u00f1os de historia financiera en M\u00e9xico",
+      "url": "https://open.spotify.com/episode/5Z1V3pWKvOkRKyubJm0eoj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x"

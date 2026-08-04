@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 48426,
+  "num_followers": 48430,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAABKhUQPKIOtJHlJtq5p7FFv",
+  "snapshot_id": "am6IgAAAAAB/scWgsbArwGGfWKRrZZjg",
   "tracks": [
     {
       "added_at": null,
@@ -183,18 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apollo",
-        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
+        "name": "Secret Life",
+        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
       "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 166560,
-      "name": "Signals - Remastered 2005",
-      "url": "https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ"
+      "duration_ms": 99872,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/1leXj0r8M0dMFNWbRxq2Xe"
     },
     {
       "added_at": null,
@@ -255,22 +259,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secret Life",
-        "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
+        "name": "Apollo",
+        "url": "https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E"
       },
       "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 99872,
-      "name": "Follow",
-      "url": "https://open.spotify.com/track/1leXj0r8M0dMFNWbRxq2Xe"
+      "duration_ms": 166560,
+      "name": "Signals - Remastered 2005",
+      "url": "https://open.spotify.com/track/5Q5MFVjUWVNgb7XBerPdbQ"
     },
     {
       "added_at": null,

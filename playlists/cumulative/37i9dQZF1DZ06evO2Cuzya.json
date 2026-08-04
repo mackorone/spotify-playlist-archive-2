@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 207300,
       "name": "Afflictions",
       "url": "https://open.spotify.com/track/6nKLYURHHtzzPx6Z3CjZTr"
@@ -1212,6 +1212,24 @@
       "duration_ms": 171280,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
+    },
+    {
+      "album": {
+        "name": "Daughter from Hell",
+        "url": "https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251642,
+      "name": "Mews",
+      "url": "https://open.spotify.com/track/53a2Gvqo4z5QBumJ4JXa53"
     },
     {
       "album": {

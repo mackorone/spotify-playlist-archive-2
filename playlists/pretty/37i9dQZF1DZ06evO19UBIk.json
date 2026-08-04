@@ -1,12 +1,12 @@
 {
   "description": "This is The Doors. The essential tracks, all in one playlist.",
-  "num_followers": 694707,
+  "num_followers": 694331,
   "original_name": "This Is The Doors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAADNrh+Vig5yWmLRtuclOV6r",
+  "snapshot_id": "am6IgAAAAACbFpoYZL8QafPboMbPGOE2",
   "tracks": [
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bangarang EP",
-        "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 301986,
-      "name": "Breakn' a Sweat",
-      "url": "https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting for the Sun",
         "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
       },
@@ -515,6 +495,26 @@
       "duration_ms": 190200,
       "name": "Hyacinth House",
       "url": "https://open.spotify.com/track/4nKmlUaUiUN4rpMGYnUPAu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bangarang EP",
+        "url": "https://open.spotify.com/album/5XJ2NeBxZP3HFM8VoBQEUe"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 301986,
+      "name": "Breakn' a Sweat",
+      "url": "https://open.spotify.com/track/1ShWHEgisDGPl9G3g85ANu"
     },
     {
       "added_at": null,

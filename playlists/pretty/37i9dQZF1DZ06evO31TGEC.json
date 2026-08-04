@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 55819,
+  "num_followers": 55816,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAABH6Pv4nOD7N1elDZ/2UsbP",
+  "snapshot_id": "am6IgAAAAACaTTuAl8kuom15lRvOGEtH",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel Perdido",
-        "url": "https://open.spotify.com/album/1CeEMvyWBAL4SObCiwOHke"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 149636,
-      "name": "Angel Perdido",
-      "url": "https://open.spotify.com/track/0mdpls0Ist6KgYDSJj63TC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ten\u00eda Due\u00f1o",
         "url": "https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 183941,
       "name": "Ten\u00eda Due\u00f1o",
       "url": "https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Angel Perdido",
+        "url": "https://open.spotify.com/album/1CeEMvyWBAL4SObCiwOHke"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 149636,
+      "name": "Angel Perdido",
+      "url": "https://open.spotify.com/track/0mdpls0Ist6KgYDSJj63TC"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cristaleros Michoacanos",
-        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 139075,
-      "name": "Andamos Borrachos",
-      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30 Aniversario Duetos",
         "url": "https://open.spotify.com/album/5BhAjPF7nbVtq2pvz7nbVm"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cristaleros Michoacanos",
+        "url": "https://open.spotify.com/album/3FdFzTuG5WoeX4w88HR0jB"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 139075,
+      "name": "Andamos Borrachos",
+      "url": "https://open.spotify.com/track/6SVBB2CsB4TA91bezlFtBr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Va A Gustar",
         "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 186746,
       "name": "Contigo Me Gusta",
       "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/7AorFcJZgjpAdfLbKF95YF"
     },
     {
       "added_at": null,
@@ -730,11 +730,15 @@
         {
           "name": "El Chapo De Sinaloa",
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        },
+        {
+          "name": "Frank Velasquez",
+          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
         }
       ],
-      "duration_ms": 205213,
-      "name": "Mayor de Edad (Banda)",
-      "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
+      "duration_ms": 191796,
+      "name": "Le Dire Que Me Gusta",
+      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
     },
     {
       "added_at": null,
@@ -794,15 +798,11 @@
         {
           "name": "El Chapo De Sinaloa",
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        },
-        {
-          "name": "Frank Velasquez",
-          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
         }
       ],
-      "duration_ms": 191796,
-      "name": "Le Dire Que Me Gusta",
-      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
+      "duration_ms": 205213,
+      "name": "Mayor de Edad (Banda)",
+      "url": "https://open.spotify.com/track/0JT2nwHWh5m6W5NRMnnqR6"
     },
     {
       "added_at": null,

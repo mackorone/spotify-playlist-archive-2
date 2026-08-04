@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,076 likes - 125 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,090 likes - 125 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [Mafwe \(with Kwando's Mafwe\)](https://open.spotify.com/track/2GpcdHzc7FZC5wtA7BWe4C) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [ROADS Vol.3](https://open.spotify.com/album/7u5S5R3qPNwdjJpWNCuUkF) | 2:43 |
 | 125 | [Astralis](https://open.spotify.com/track/1jaA1jV5jzNnmhxqmo2VrO) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Astralis](https://open.spotify.com/album/22EWXSvxyPvbGHqh7Qfi93) | 3:42 |
 
-Snapshot ID: `AAAAAIJoOzDqcUPsI09Tnj0tn0gugVwZ`
+Snapshot ID: `AAAAAB8xfk0RS3pHSjsef5MixCNmsEtY`

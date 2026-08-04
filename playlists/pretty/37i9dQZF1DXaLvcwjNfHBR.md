@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,353 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,404 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 79 | [Change Of Heart](https://open.spotify.com/track/1Nv9SIJR749xhMm08m44bU) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Change Of Heart](https://open.spotify.com/album/3fkYR6baLhX5QZAhGT977b) | 3:49 |
 | 80 | [NEW WORLD](https://open.spotify.com/track/2z4h97jzhrbUuDmGuVGTpn) | [South Summit](https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1) | [RUN IT BACK](https://open.spotify.com/album/0PSuvb9N4opuNDBsMOKcRN) | 3:43 |
 
-Snapshot ID: `AAAAAOatf07T803lAQ7sgFt1x7CsVA9b`
+Snapshot ID: `AAAAAPpVAJi8aPLiG7lCxXLw2Ck9PtMx`

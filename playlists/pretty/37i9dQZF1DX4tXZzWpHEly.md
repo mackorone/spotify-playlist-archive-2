@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,913 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,918 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 79 | [Porch Party](https://open.spotify.com/track/44Ae2IWeBeIEttzi2qSbWi) | [Jayne Denham](https://open.spotify.com/artist/3zAIqhrh0KA5mFoehs7HqZ), [Jasmine Rae](https://open.spotify.com/artist/1k5Ro7O3YAzrVIZZYWrkjm), [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Porch Party](https://open.spotify.com/album/4dN96MKeLKFisTM0ZAHE4c) | 3:21 |
 | 80 | [Party Down Under](https://open.spotify.com/track/4iGD8yuJdjFSmq59g8Jbry) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Party Down Under](https://open.spotify.com/album/261v3tccJPEZIIbjoQ1gDQ) | 3:17 |
 
-Snapshot ID: `AAAAAJG8oghyGxAimiyIMVYOVvTmcIcl`
+Snapshot ID: `AAAAAI5mAOs4QSt7G95qSS/xklhIHupU`

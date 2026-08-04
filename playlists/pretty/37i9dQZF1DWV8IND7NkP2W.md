@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,011 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,961 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [Plastic Love](https://open.spotify.com/track/08KwAEzYm3gVyyB27OKvO9) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76) | [CONCIERTO](https://open.spotify.com/album/7LucFEUjgiiH2MwkrJBELj) | 4:28 |
 | 100 | [Dawn Breaks](https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Dawn Breaks](https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw) | 1:58 |
 
-Snapshot ID: `AAAAAAv8K+IdUDpvAtSTohPDAg3nq/6b`
+Snapshot ID: `AAAAACuruGjBeUlqZ5+UKEBoDPXrc83J`

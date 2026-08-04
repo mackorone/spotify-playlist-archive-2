@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,459 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,452 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 99 | [Il primo amore](https://open.spotify.com/track/6pLAe3r4ZZaNuCEyGslPCW) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Il primo amore](https://open.spotify.com/album/6RrLNb1yCXrTQ5d7oGNqIo) | 3:21 |
 | 100 | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5) | 3:07 |
 
-Snapshot ID: `AAAAADl6ZqdRejzrYMwHGtWjMuWjrpwi`
+Snapshot ID: `AAAAAMplCTxqDG28F3LEgaSLiyFe0GtL`

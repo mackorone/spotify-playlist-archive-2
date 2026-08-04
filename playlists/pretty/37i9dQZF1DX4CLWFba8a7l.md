@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 
 > In this house we celebrate Australian music\. Cover: Pretty Girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,331 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,284 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CLWFba8a7l.md) - [plain]
 | 99 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 |
 | 100 | [closer](https://open.spotify.com/track/6Xw3YSJg4qNhscVBqMo9aD) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [closer](https://open.spotify.com/album/1ElrGX99sSg7iXR5QRujpi) | 3:04 |
 
-Snapshot ID: `AAAAAA1kzft/y9KTgwUk73jEGa42+Nyu`
+Snapshot ID: `AAAAAHAUDXeh9cgCMPKSRLoe27t+9ljx`

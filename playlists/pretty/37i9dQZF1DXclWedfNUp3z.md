@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,514 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,524 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 99 | [Moonlit Whispers](https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD) | [Volodja Brodsky](https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd) | [Whispering Ln](https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951) | 5:20 |
 | 100 | [A Cat](https://open.spotify.com/track/2hZxWOOsHVGPrN3OsqAvJV) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [A Cat b/w Aran in Repose](https://open.spotify.com/album/5L4hjpNZ0IAMWCylo3YqS5) | 5:37 |
 
-Snapshot ID: `AAAAAF36wSo4R8avE/q470q/glxw7cPG`
+Snapshot ID: `AAAAANyDxRZkiYw+WrXh5mk+kefW4m3L`

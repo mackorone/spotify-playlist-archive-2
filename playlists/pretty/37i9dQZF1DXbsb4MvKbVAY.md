@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,691 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,686 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 99 | [I Wasn't Young, I Needed the Money](https://open.spotify.com/track/21CwcCRnNYHrSUNXvMwS9Y) | [Sin Cos Tan](https://open.spotify.com/artist/3maaZRO6VRwTf6oUik93ZJ) | [I Wasn't Young, I Needed the Money](https://open.spotify.com/album/5pS46ohbb8JBGY0FhqIkmi) | 3:27 |
 | 100 | [Voitonpäivä](https://open.spotify.com/track/3gnmP08f5NywnLks1Myb1A) | [Purplape](https://open.spotify.com/artist/1f0beje3cU2AASjPmpGE7V) | [Voitonpäivä](https://open.spotify.com/album/5fT88RUsc4oSMtBSsecAaE) | 2:26 |
 
-Snapshot ID: `AAAAAPIvBMNxLy5t/RWUktV69WR2RRHD`
+Snapshot ID: `AAAAACRJQ6o6Gstrch9DouyNRRDJeBd4`

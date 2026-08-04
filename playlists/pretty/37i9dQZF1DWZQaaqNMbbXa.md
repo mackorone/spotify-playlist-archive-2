@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 
 > Hit the dance floor with your favorite bops! Cover: Bebe Rexha
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,587 likes - 134 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,653 likes - 134 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQaaqNMbbXa.md) - [plain]
 | 133 | [Stereo Love \- Radio Edit](https://open.spotify.com/track/5RfBhOGNbbXT5LiIvbHLhN) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/1QHNJlvoTeb4Obnwecx4oF) | 3:04 |
 | 134 | [Break Free](https://open.spotify.com/track/1X2Zd5wKGbY1oKzb8dzJRy) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [My Everything](https://open.spotify.com/album/2ZnzBwKw4e2SHpGvOTWnj4) | 3:34 |
 
-Snapshot ID: `AAAAADinnObI1yM9aRvbDj0UMgFdUBpK`
+Snapshot ID: `AAAAALwlKJBdv82mS4Fvh+ysAOlv0q0S`

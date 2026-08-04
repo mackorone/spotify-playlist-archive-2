@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Radikal
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,573 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,577 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EWkqxS1pO0.md) - [plain]
 | 74 | [Sevgilim Beni Affet](https://open.spotify.com/track/3E3ausTrcU9zkSxYYD3dim) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Sevgilim Beni Affet](https://open.spotify.com/album/2HVcIH8PqjlmKZSQWTYsPO) | 3:46 |
 | 75 | [Dolunay](https://open.spotify.com/track/0nVehOjbqRPByxOzO9keQk) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Dolunay](https://open.spotify.com/album/670sNl07ubMq2HqgvjvX2h) | 2:17 |
 
-Snapshot ID: `AAAAAJNBd5wAtpfJOJ+7xHINoxgSp0+O`
+Snapshot ID: `AAAAAIAb0MQDcEM2qwPmLZxuBbptb+1r`

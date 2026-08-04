@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: Asake
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,035 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,815 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 49 | [NEW TINGZ](https://open.spotify.com/track/4Pl2d8rQHO8hnFZR3RO244) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [THE IMPACT \(Deluxe\): PGLA Edition](https://open.spotify.com/album/3EUplPSI0pgkirQtANGobF) | 2:39 |
 | 50 | [Isn't It Beautiful](https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Isn't It Beautiful](https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK) | 2:36 |
 
-Snapshot ID: `AAAAADQZu8/rlbE8fZW/Ott6aVwKThv/`
+Snapshot ID: `AAAAACUDNNbrjzZ+FTIls11jL8xjHinU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring fidoisblue ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,283 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,288 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 74 | [Me Sobran las Ganas \(Cuando Te Vas\)](https://open.spotify.com/track/18SrWIyth3DmyLgDiZfR6a) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M), [Lizi Lay](https://open.spotify.com/artist/1ePXokISu6GVKdSaw5XWic) | [Me Sobran las Ganas \(Cuando Te Vas\)](https://open.spotify.com/album/2YvrMCoIpDsOW6Cz7UD5qj) | 3:02 |
 | 75 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
 
-Snapshot ID: `AAAAAKiJZhgQ40LSAKw7WMipPq0j2x6s`
+Snapshot ID: `AAAAAOfkBPi6V4HqSooLtd6LZ9aOkny+`

@@ -5889,6 +5889,24 @@
     },
     {
       "album": {
+        "name": "Closed Eyes",
+        "url": "https://open.spotify.com/album/2CAl9ARJN6DtXovGV4O3ZR"
+      },
+      "artists": [
+        {
+          "name": "Viridian",
+          "url": "https://open.spotify.com/artist/2CHlThnXRU8qzwiSMPoZsb"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153988,
+      "name": "Closed Eyes",
+      "url": "https://open.spotify.com/track/3lKTSjfhKL00IKGbgMEry7"
+    },
+    {
+      "album": {
         "name": "Closing Time",
         "url": "https://open.spotify.com/album/1lFArKD7f0LQyqVovtIofr"
       },
@@ -15781,6 +15799,24 @@
     },
     {
       "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/5ew0ZLrYs8FV8RxdXO1ubq"
+      },
+      "artists": [
+        {
+          "name": "The Absent",
+          "url": "https://open.spotify.com/artist/4ARdlYS2SJ02nwnjzrtWHu"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218430,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/2ZiOisOpJhtjPPaqe1E3jh"
+    },
+    {
+      "album": {
         "name": "Insane",
         "url": "https://open.spotify.com/album/2Ms9hDgUk2IzrvuUPmlfpa"
       },
@@ -22052,6 +22088,24 @@
       "duration_ms": 197303,
       "name": "O pai do Grunge",
       "url": "https://open.spotify.com/track/26K7JzETd3WzfhHCBrOs7S"
+    },
+    {
+      "album": {
+        "name": "Lobsteria",
+        "url": "https://open.spotify.com/album/6uQJjggp9JBejmVwEQGa9Q"
+      },
+      "artists": [
+        {
+          "name": "TORNADO LOBSTER KILLER",
+          "url": "https://open.spotify.com/artist/0ez4BRHXwetKDIMwIeRGzl"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124664,
+      "name": "Obey",
+      "url": "https://open.spotify.com/track/59DmyKALtFVsIBnUbsHv1h"
     },
     {
       "album": {
@@ -34360,7 +34414,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 191333,
       "name": "Want You",
       "url": "https://open.spotify.com/track/1Mkkyvn6g22XNog4kRELjd"
@@ -35214,7 +35268,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 153860,
       "name": "When You Looked At Me",
       "url": "https://open.spotify.com/track/2y5M4ha0FUpF0WHz1hBImt"

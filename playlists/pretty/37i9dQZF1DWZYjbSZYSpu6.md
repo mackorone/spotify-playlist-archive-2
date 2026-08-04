@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Moon Sujin, Wonstein\(문수진, 원슈타인\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,533 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,229 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/track/1a26vkT9m6IVfZAbW1hq4Y) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Lucky Me \(feat\. Wonstein\)](https://open.spotify.com/album/4saGlb83ieD2u1cpyTWKTV) | 2:34 |
 | 50 | [You & Me](https://open.spotify.com/track/7j2HXqNaP7V5oOayUpU1rV) | [DOK2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [You & Me](https://open.spotify.com/album/6EI3flCxdtzr5oMIxdHWJe) | 2:48 |
 
-Snapshot ID: `AAAAAB75SPq260JSaQedKJXpJhN1SPSS`
+Snapshot ID: `AAAAALS/oHG3v4YcHAW2bKRb6tWQXBVr`

@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1329,
+  "num_followers": 1331,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAWluchjBOWHfYGcRBO3LV3M/KdP/vD",
+  "snapshot_id": "AAAWnN7U2uoyxSQxioIxXAN6pwey4T+a",
   "tracks": [
     {
       "added_at": "2026-07-02 22:11:30",
@@ -2155,6 +2155,102 @@
       "duration_ms": 249685,
       "name": "Where Were You Girl",
       "url": "https://open.spotify.com/track/6SgqCwZCcDckUEH89kR0GL"
+    },
+    {
+      "added_at": "2026-08-03 09:11:55",
+      "album": {
+        "name": "Applaus",
+        "url": "https://open.spotify.com/album/69c1pbEbXnsALDaoYmnnZO"
+      },
+      "artists": [
+        {
+          "name": "Jesse",
+          "url": "https://open.spotify.com/artist/5nsgTvyEmAyvWJjmxprVt6"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "Applaus",
+      "url": "https://open.spotify.com/track/03zb3fHshMFTtFqNmxMfVW"
+    },
+    {
+      "added_at": "2026-08-03 09:12:05",
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/1dgZVGv567yabbR9xCL4NF"
+      },
+      "artists": [
+        {
+          "name": "Camilo Antileo",
+          "url": "https://open.spotify.com/artist/2bqC3OIxsI51TSJBlBq4fR"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "Memoria",
+      "url": "https://open.spotify.com/track/2c2i7CAX1clFszy5CB3hUv"
+    },
+    {
+      "added_at": "2026-08-03 09:12:14",
+      "album": {
+        "name": "Passagem",
+        "url": "https://open.spotify.com/album/7iP9xLF6g1cHe32N9Kne5G"
+      },
+      "artists": [
+        {
+          "name": "Manu Beltr\u00e3o",
+          "url": "https://open.spotify.com/artist/1mNlAKhN6yiWfoQjMXQLeB"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Passagem",
+      "url": "https://open.spotify.com/track/0n56biI1rHRnpgdcl9QvVl"
+    },
+    {
+      "added_at": "2026-08-03 09:12:20",
+      "album": {
+        "name": "Noir et blanc",
+        "url": "https://open.spotify.com/album/4S88do91neHjL30FaUXFPA"
+      },
+      "artists": [
+        {
+          "name": "Virgil Segal",
+          "url": "https://open.spotify.com/artist/6PDaVx1wgiv0IQeYtmq3Yy"
+        }
+      ],
+      "duration_ms": 208695,
+      "name": "\u00c0 Britta",
+      "url": "https://open.spotify.com/track/3fQydqrhKYKAxTnTfLD8M8"
+    },
+    {
+      "added_at": "2026-08-03 09:12:23",
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/2p8DnORgLAvnKcY2xfBQjq"
+      },
+      "artists": [
+        {
+          "name": "Kon",
+          "url": "https://open.spotify.com/artist/0Bgp4Jbe1OEqrn24HVKj9b"
+        }
+      ],
+      "duration_ms": 158110,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/5AFFQlCim80cS5FvgNFFMC"
+    },
+    {
+      "added_at": "2026-08-03 09:12:35",
+      "album": {
+        "name": "Explore (Me)",
+        "url": "https://open.spotify.com/album/76JOPtgekvZZM2Ym7YPy5A"
+      },
+      "artists": [
+        {
+          "name": "ItsRosieQuartz",
+          "url": "https://open.spotify.com/artist/6PtNGny2c7sJblEprhD8PF"
+        }
+      ],
+      "duration_ms": 202564,
+      "name": "Explore (Me)",
+      "url": "https://open.spotify.com/track/0QlgCZaQDT2St7r0iA21Ks"
     }
   ],
   "unique_name": "New Indie Music",

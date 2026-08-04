@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 740874,
+  "num_followers": 740826,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAADSHdDwJsa0ca+30ViKFq3D",
+  "snapshot_id": "am6IgAAAAAAY/UWpiQbivPop1jn4rzCm",
   "tracks": [
     {
       "added_at": null,
@@ -527,18 +527,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAG HARBOR",
-        "url": "https://open.spotify.com/album/0WEIzP144txcADcIcumIiy"
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 220573,
-      "name": "SAG HARBOR",
-      "url": "https://open.spotify.com/track/6NVRUjLqjAsPpaSUgVawTQ"
+      "duration_ms": 255653,
+      "name": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
+      "url": "https://open.spotify.com/track/4bEcoz1OcfMgUbp2ft8ieQ"
     },
     {
       "added_at": null,
@@ -563,26 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+        "name": "SAG HARBOR",
+        "url": "https://open.spotify.com/album/0WEIzP144txcADcIcumIiy"
       },
       "artists": [
         {
           "name": "Tyler, The Creator",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 255653,
-      "name": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)",
-      "url": "https://open.spotify.com/track/4bEcoz1OcfMgUbp2ft8ieQ"
+      "duration_ms": 220573,
+      "name": "SAG HARBOR",
+      "url": "https://open.spotify.com/track/6NVRUjLqjAsPpaSUgVawTQ"
     },
     {
       "added_at": null,

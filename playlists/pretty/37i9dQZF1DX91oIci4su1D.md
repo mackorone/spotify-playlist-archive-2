@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,751 likes - 125 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,638 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91oIci4su1D.md) - [plain]
 | 124 | [Don't Give Up](https://open.spotify.com/track/6X6VfWNIwggxsqcDlHsC5M) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Don't Give Up](https://open.spotify.com/album/6k04ReQfN1QF9MGZ6XmGEG) | 3:14 |
 | 125 | [Dark Matter](https://open.spotify.com/track/1qIG0COjeSE8XwjN8GmJvX) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [Dark Matter](https://open.spotify.com/album/6M2tMvUL7JagQOKAk3UIJJ) | 3:50 |
 
-Snapshot ID: `AAAAADqeDJ9owUThCDHkJfZo4obrSJUh`
+Snapshot ID: `AAAAAIDpYC+O1qWH1to/QMsTeiPUp2Ib`

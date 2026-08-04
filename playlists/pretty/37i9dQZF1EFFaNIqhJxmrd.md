@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 30 | [APK](https://open.spotify.com/track/0GyDIFvLpmszVijNCSapvH) | [Södra Station](https://open.spotify.com/artist/018YUkd5Ngrv9NtywGnPpr) | [Bastugatan \- EP](https://open.spotify.com/album/7Jpi1asVbLxjqTJesvf2QJ) | 3:17 |
 | 31 | [Betong](https://open.spotify.com/track/1UzeebN7LFsdZnZ6nXrTDR) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Din](https://open.spotify.com/album/4D3Qea7cE19xKZKdXC3QIV) | 2:46 |
 | 32 | [I Left My Heart](https://open.spotify.com/track/0ldEQfRPvKax4SIcF6br7g) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Unsent Letters](https://open.spotify.com/album/5SSlfIyW1noqLGrqiwTGR4) | 3:40 |
-| 33 | [Hate This Kind of Love](https://open.spotify.com/track/4Ewxw5EgXclMxYnIPUJcXH) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Atlas](https://open.spotify.com/album/0eaxKGQqzlhnyB1jAX2vOS) | 3:46 |
-| 34 | [alice](https://open.spotify.com/track/3t9shUk4JcLdtbULSpvfVH) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [alice](https://open.spotify.com/album/3kQSmpNa25t6N1gQfoTPSW) | 2:51 |
+| 33 | [alice](https://open.spotify.com/track/3t9shUk4JcLdtbULSpvfVH) | [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [alice](https://open.spotify.com/album/3kQSmpNa25t6N1gQfoTPSW) | 2:51 |
+| 34 | [Hate This Kind of Love](https://open.spotify.com/track/4Ewxw5EgXclMxYnIPUJcXH) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Atlas](https://open.spotify.com/album/0eaxKGQqzlhnyB1jAX2vOS) | 3:46 |
 | 35 | [Efterlyst](https://open.spotify.com/track/1yZi2RWtrDm96A26aPslyY) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Efterlyst](https://open.spotify.com/album/2txxacCQhJATjFK4Un6iTu) | 3:16 |
 | 36 | [Turn of the Tide](https://open.spotify.com/track/571rp5YwvdDOs2940lYqLg) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:17 |
 | 37 | [Don't Hurt Yourself \- Deepend Remix](https://open.spotify.com/track/0HtHu2T3dJuGtDXqHtXlvU) | [Tomi Saario](https://open.spotify.com/artist/1p1Q1tRavrbMGCgJdf9G0H), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Don't Hurt Yourself \(Deepend Remix\)](https://open.spotify.com/album/6eEFqfwgJMkqzaGP8kQTdn) | 2:58 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 117 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 | 118 | [kärlek \(is not enough\)](https://open.spotify.com/track/1Oy70R2c04QKHyssE4ZBHj) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [kärlek \(is not enough\)](https://open.spotify.com/album/3BIYIXIDa88Wu6uLhiKzql) | 2:53 |
 
-Snapshot ID: `AcYiNAAAAABahX7/VMVmoSKfVlJ1FCxI`
+Snapshot ID: `AcYn1AAAAAAemR3Gv5fPsK6XO8G5HK3O`

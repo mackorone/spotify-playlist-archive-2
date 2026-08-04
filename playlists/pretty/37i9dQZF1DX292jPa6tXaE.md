@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: TheJaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,715 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,716 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [LAST CALL](https://open.spotify.com/track/4v3eZavGaCck28oGzbojqE) | [Sehj](https://open.spotify.com/artist/3z8Q3pZmqf2VqhaaKrotUo) | [LAST CALL](https://open.spotify.com/album/5z0L2CezOQMSG5ICN7xEub) | 3:47 |
 | 50 | [Demise](https://open.spotify.com/track/57IL2qi3j5NG1FbeqDp7ys) | [Our Rumors](https://open.spotify.com/artist/7f4gHS2S6Riqqxbo0wv10j) | [Demise](https://open.spotify.com/album/3BJDCCNhOTayuOd8Ofcxnt) | 2:35 |
 
-Snapshot ID: `AAAAAKRjOp0D5x0WLIx62DtgmMBmFZPy`
+Snapshot ID: `AAAAAD7q9Vyo5xmhIM4XgziidcRtU6Ek`

@@ -4,7 +4,7 @@
 
 > Pacific reggae, roots rockers\. Relax, you're on island time\. Cover: Te Wehi
 
-278 songs - 17 hr 4 min
+279 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Kia Arohatia Tātou](https://open.spotify.com/track/2EanS87tnUJsQtVUvKWUt9) | [Kora](https://open.spotify.com/artist/5lc3ISF4CNThZEtJ2N4ZH6) | [Kia Arohatia Tātou](https://open.spotify.com/album/0kI9JYX7CWBVUxnRpSvAsK) | 3:30 | 2024-03-21 | 2025-09-10 |
 | [Killing It Off](https://open.spotify.com/track/3y00AWgTQV4VOR130fHnpi) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Killing It Off](https://open.spotify.com/album/1ctFVQRVfSdmXqni7wGgzr) | 2:49 | 2023-11-28 | 2025-09-10 |
 | [Kiss the Sky](https://open.spotify.com/track/0lzJGFS25DUEXxiAMyl3Xm) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Return to the Roots](https://open.spotify.com/album/5aPo5ap8k9H0v3MNSgcI02) | 5:16 | 2025-06-05 | 2026-07-10 |
-| [Knocking At Your Door](https://open.spotify.com/track/3bD9UWCXR7WBLk6KbGvmUH) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Knocking At Your Door](https://open.spotify.com/album/3s9uPBBoB09U3x9MwCsngD) | 2:34 | 2026-05-11 |  |
+| [Knocking At Your Door](https://open.spotify.com/track/3bD9UWCXR7WBLk6KbGvmUH) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Knocking At Your Door](https://open.spotify.com/album/3s9uPBBoB09U3x9MwCsngD) | 2:34 | 2026-05-11 | 2026-08-04 |
 | [Ko tāua](https://open.spotify.com/track/3eVGdEe5r9voTSCBnU9iYJ) | [Origin Roots Aotearoa O.R.A](https://open.spotify.com/artist/4WykzeICsk5yiLrLUXjikI) | [He Reo ORA](https://open.spotify.com/album/6iIahwgrxneTrOxyPFYegM) | 3:33 | 2024-03-21 | 2025-09-10 |
 | [Ko tāua](https://open.spotify.com/track/6VhUHRtjl9MWAmbty4dCax) | [Origin Roots Aotearoa O.R.A](https://open.spotify.com/artist/4WykzeICsk5yiLrLUXjikI) | [He Reo ORA](https://open.spotify.com/album/0VwVSuolA8uJfRah4mCi2e) | 3:33 | 2023-11-28 | 2024-04-19 |
 | [Lady Love](https://open.spotify.com/track/5ots0AQqS1l0CZS2M1jVK0) | [Bina Butta](https://open.spotify.com/artist/7iByFcncYwzUOf7dPPF9JK), [Kennyon Brown](https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5) | [Lady Love](https://open.spotify.com/album/099n7gC2449ZTlnovvX0BI) | 4:34 | 2024-03-21 | 2025-09-10 |
@@ -277,6 +277,7 @@
 | [Wavy](https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD) | [Muroki](https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT) | [Wavy](https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk) | 3:45 | 2023-11-28 |  |
 | [We All Need Love \(With Kolohe Kai\)](https://open.spotify.com/track/6TpYtmAdK8RX9iNEz0PHoI) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Kolohe Kai](https://open.spotify.com/artist/3Je8tRazTtqZxGkbeJDGL8) | [We All Need Love \(With Kolohe Kai\)](https://open.spotify.com/album/2FsnX2n9MPgDc62o7c2kXF) | 3:09 | 2025-05-15 | 2025-09-10 |
 | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn) | [Te Matatini](https://open.spotify.com/artist/0VmdsKXBJCrRyszIw40tv7), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA) | 3:35 | 2025-01-23 | 2026-06-18 |
+| [We Made It](https://open.spotify.com/track/5iDzr4X2lIHAWduvlXrbg4) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Right Here Right Now](https://open.spotify.com/album/75IcHGzduBYDOgSKwXx2SH) | 2:45 | 2026-08-03 |  |
 | [Westside](https://open.spotify.com/track/7ac6Lm7dEChRczMxJNCzHO) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W) | [Westside](https://open.spotify.com/album/1FWAnFQFfN8m7CH898yCMe) | 3:42 | 2025-07-24 | 2025-09-10 |
 | [What's Up](https://open.spotify.com/track/0hb5i5zsp4hPA0WMXu3Kf7) | [KUKI](https://open.spotify.com/artist/0Ys93xAGNkGBgPuPxYpv49), [Canaan Ene](https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA) | [What's Up](https://open.spotify.com/album/4CS7k60oGImQ1J6tuUFQeg) | 4:38 | 2025-09-09 |  |
 | [Why Oh Why](https://open.spotify.com/track/0JMazmj2Tzqr7cgcwlYjVf) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 4:50 | 2023-11-28 | 2024-04-19 |

@@ -4141,6 +4141,24 @@
     },
     {
       "album": {
+        "name": "Kylie Christmas (Fully Wrapped)",
+        "url": "https://open.spotify.com/album/1ujy9xmGf7fnbPLIZnBLO5"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195956,
+      "name": "XMAS",
+      "url": "https://open.spotify.com/track/4vEvgcU9aSuI7yQyAXHDsl"
+    },
+    {
+      "album": {
         "name": "Body Language",
         "url": "https://open.spotify.com/album/49Wlbfa4PgIdDpiQUqcl4d"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,616,889 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,616,594 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 99 | [God In You](https://open.spotify.com/track/5MMEBxm1mliJlMZnydNYMA) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Hero Baldwin](https://open.spotify.com/artist/3F5e8tUWnf1MKKwW89rSg6) | [God In You](https://open.spotify.com/album/4s8AliMdTeyAh5HgXqgsJw) | 5:37 |
 | 100 | [It’s All On You](https://open.spotify.com/track/4sIhQEpt5PiU4o1am2aRcg) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [It's All On You](https://open.spotify.com/album/3A15exUZPtqAqRLbwFOBPe) | 3:43 |
 
-Snapshot ID: `AAAAALCKUDuLkAjIDJwvLTzB96whf0q/`
+Snapshot ID: `AAAAAHJjyfvdYouEEEt2zlrlnoc6K0od`

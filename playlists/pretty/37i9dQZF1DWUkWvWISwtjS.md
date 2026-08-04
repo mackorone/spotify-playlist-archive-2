@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,116 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,346 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 99 | [Sofrendo Ao Quadrado \- Ao Vivo Em Goiânia / 2019](https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL) | [Pedro Paulo & Alex](https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN) | [Das Repúblicas Para O Brasil \(Ao Vivo Em Goiânia / 2019\)](https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB) | 2:32 |
 | 100 | [Contrário](https://open.spotify.com/track/76NzI3TmJCAvw28nB3EGk2) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Ep do Esticado](https://open.spotify.com/album/2W5RTUgb6y3IrpJsf7l6JG) | 2:56 |
 
-Snapshot ID: `AAAAAIkX0SR1S8JxTfu7xgTeOSQBCEY9`
+Snapshot ID: `AAAAANK9+JqDbEoX12nmGT2UM6CPUuGC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 
 > La playlist à la cool pour accompagner votre dîner !
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,046 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,998 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX915ogFalrko.md) - [plain]
 | 99 | [choking on my words](https://open.spotify.com/track/6F6TCDUf7yQ8cnOJa5H3WC) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ), [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [choking on my words](https://open.spotify.com/album/5gFH7Vd8UUchDbCNOvkA9M) | 4:06 |
 | 100 | [No Juego](https://open.spotify.com/track/4PKlFsTOV2SOCskSUS86Je) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [No Juego](https://open.spotify.com/album/3UycolNGNA7DMQZBvOITR2) | 3:10 |
 
-Snapshot ID: `AAAAAAeqDjfqef+hP0Z3IgFr51F8lxWr`
+Snapshot ID: `AAAAAMyN0Z3xDZE3cA0070mdCqLj6hiv`

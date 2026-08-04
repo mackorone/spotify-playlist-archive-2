@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,450 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,453 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 49 | [Here Now \(Intro\)](https://open.spotify.com/track/0HChF6Z7HkPDBWQHLISGxN) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 0:47 |
 | 50 | [How Do You Love Me](https://open.spotify.com/track/1ExAxTVymjFH7nMAFFoGG5) | [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Hours Spent Loving You](https://open.spotify.com/album/5gBmvBzVGoP96jbF4OfnKh) | 2:46 |
 
-Snapshot ID: `AAAAAEz4iSx/ODmOeQFZ88aNjAvLr5+P`
+Snapshot ID: `AAAAAJyvxUn0heVYYDsrQctTSDsBoqH0`

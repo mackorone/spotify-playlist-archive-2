@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 
 > This is Ramones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,485 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,363 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 49 | [I Don't Wanna Go Down to the Basement \- 2016 Remaster](https://open.spotify.com/track/1us4ws1sSw7HkGzytAtNk3) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(2017 Remaster\)](https://open.spotify.com/album/3ToX9inehiXTv17hpaOyie) | 2:40 |
 | 50 | [7\-11 \- 2002 Remaster](https://open.spotify.com/track/63yGvNrSXh1xUAuCOY2yxp) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Pleasant Dreams \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4Z0YHXghWhViyBCpEulR2Z) | 3:33 |
 
-Snapshot ID: `am03AAAAAAAxZQYEX6y7GkacrEfK5db2`
+Snapshot ID: `am6IgAAAAABop4xwuExmYA/a2ZUNoazQ`

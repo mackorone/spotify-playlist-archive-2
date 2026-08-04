@@ -4,7 +4,7 @@
 
 > 2026 yazının şarkıları\. Kapak: Hadise
 
-207 songs - 9 hr 56 min
+208 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-05 | 2024-07-12 |
 | [CISTAK](https://open.spotify.com/track/7ygoPHce1dHCMUWgtR6MTx) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [CISTAK](https://open.spotify.com/album/1S2nF6GDYCKJd6EVvjzkhb) | 2:16 | 2024-07-03 | 2025-05-23 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2023-09-04 | 2024-06-06 |
+| [CRUSH!](https://open.spotify.com/track/4uFIhAOi62bRG1OhmQfDB9) | [CRUSH](https://open.spotify.com/artist/2JEo6ivzJS4vQbHZycSsS6) | [CRUSH!](https://open.spotify.com/album/3Ayegr0sD9IvpNiGFsVzR0) | 2:28 | 2026-08-03 |  |
 | [Cuma](https://open.spotify.com/track/4v1eCQCl3d5w8a6Czv4qTv) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [HAFTASONU](https://open.spotify.com/album/2xTlPPoVRncrhgRLSc8moa) | 2:10 | 2023-09-04 | 2024-07-04 |
 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 | 2026-06-08 |  |
 | [Dale Don Dale](https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Dale Don Dale](https://open.spotify.com/album/4vrNgKR0CTcHMHrb8io0nV) | 1:58 | 2024-06-05 | 2025-06-13 |
@@ -195,7 +196,7 @@
 | [Yara Bandı](https://open.spotify.com/track/0kqS5pI2INgjUXkj63Ddhn) | [Kendimden Hallice](https://open.spotify.com/artist/7sAmHLY4Fs2rweYwdcQtft) | [Yara Bandı](https://open.spotify.com/album/4XIc5Sdp4KLMfiSn2Kx52p) | 3:06 | 2025-06-12 | 2026-07-24 |
 | [Yasemin](https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Serdar Ortaç](https://open.spotify.com/artist/7BJjzi0JHyDHAsmVe21dGa) | [Yasemin](https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ) | 3:06 | 2025-06-24 | 2026-06-26 |
 | [Yatakta Kardiyo](https://open.spotify.com/track/676VUuntnKLSYPeQCadLAU) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm), [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Yatakta Kardiyo](https://open.spotify.com/album/6cvnpW0P8x9KKjYA0dSdsF) | 3:27 | 2025-07-24 | 2025-09-06 |
-| [Yaygara](https://open.spotify.com/track/1jHa5fInmLIhj8PxkseLvI) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:51 | 2025-07-02 |  |
+| [Yaygara](https://open.spotify.com/track/1jHa5fInmLIhj8PxkseLvI) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 3:51 | 2025-07-02 | 2026-08-04 |
 | [Yaz \- Club](https://open.spotify.com/track/09RgdOpifTSA0BZ2fdax2o) | [Işın Karaca](https://open.spotify.com/artist/0iKWCp8QXDXAD3wzFrExYr), [Can Yapıcıoğlu](https://open.spotify.com/artist/0lGC7oDzClBGoXITLiDvYr) | [25.Yıl Özel Hit VS Hit The Remix's Vol II](https://open.spotify.com/album/4NWzAIjwQkXLlcHYsqqcxD) | 1:52 | 2026-06-25 | 2026-07-24 |
 | [Yaz Gülü](https://open.spotify.com/track/2MvC6PUwqLJbM3qluKK5EF) | [İrem Derici](https://open.spotify.com/artist/5h2jTdwf4p0dM34aBykPzZ) | [Yaz Gülü](https://open.spotify.com/album/24sxbVuDc5u8oMfGHIlmkH) | 3:07 | 2023-09-04 | 2024-07-04 |
 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 | 2025-06-16 |  |

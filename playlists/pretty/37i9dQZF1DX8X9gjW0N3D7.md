@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: A Girl Named Sue
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,021 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,019 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 74 | [Tour à tour](https://open.spotify.com/track/4j4tyrrwdc0YLwhxxVDv6D) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Tour à tour](https://open.spotify.com/album/1orARXhhwh1AGCnjJU42MU) | 4:04 |
 | 75 | [Ya sé ya sé](https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068) | [Gabriella Olivo](https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO) | [Ya sé ya sé](https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe) | 3:43 |
 
-Snapshot ID: `AAAAADbCW2bn1p/FwA7HH4fMpwi7TSDS`
+Snapshot ID: `AAAAAFSltk/DOnoSeWaeGLrDPsDwcRtL`

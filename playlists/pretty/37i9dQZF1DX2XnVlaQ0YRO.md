@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,981 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,975 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 24 | [I'll Be Home For Christmas](https://open.spotify.com/track/4hqviDebP0XpwxYVEz60mo) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [I'll Be Home For Christmas](https://open.spotify.com/album/03lrkjhqiwLRfAYVolwAKJ) | 1:27 |
 | 25 | [Jinbells](https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [A Lofi Xmas](https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy) | 1:49 |
 | 26 | [Snowman](https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix) | [Lofi Lucy](https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO) | [Snowman](https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB) | 2:19 |
-| 27 | [Winter Vibin'](https://open.spotify.com/track/3iYC7w2rOQav3BQlibwJqp) | [Little Squares](https://open.spotify.com/artist/4OnLBUEcEzKVUJP3hsP3Tk) | [A Christmas Present For You](https://open.spotify.com/album/43APl6GrPHaOG3zxXHhJ41) | 2:11 |
-| 28 | [Hey Hey Santa](https://open.spotify.com/track/7a9vbwIxNkzrPHakG64ubo) | [Sakura](https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV) | [Hey Hey Santa](https://open.spotify.com/album/7rQ7n3vwoWF0KUZvKtVeJq) | 2:30 |
+| 27 | [Hey Hey Santa](https://open.spotify.com/track/7a9vbwIxNkzrPHakG64ubo) | [Sakura](https://open.spotify.com/artist/4PnHJeTyuGwO0C6BYVx0hV) | [Hey Hey Santa](https://open.spotify.com/album/7rQ7n3vwoWF0KUZvKtVeJq) | 2:30 |
+| 28 | [Winter Vibin'](https://open.spotify.com/track/3iYC7w2rOQav3BQlibwJqp) | [Little Squares](https://open.spotify.com/artist/4OnLBUEcEzKVUJP3hsP3Tk) | [A Christmas Present For You](https://open.spotify.com/album/43APl6GrPHaOG3zxXHhJ41) | 2:11 |
 | 29 | [This Christmas](https://open.spotify.com/track/6rJShaAAmTUaJ3lLZHQTpv) | [Manamera](https://open.spotify.com/artist/7ar7lfJxKo3iW5YNXzrLJz) | [This Christmas](https://open.spotify.com/album/2Lcs7tNaM7reSGgfU9pi0g) | 3:34 |
 | 30 | [candles and xmas](https://open.spotify.com/track/3uK6ktiYn9pLdoV5FQDnsw) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [candles and xmas](https://open.spotify.com/album/3SuobeLAn8dQST6bg1eg0J) | 2:20 |
 | 31 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2e2k2BOVoEqvMRVj7B6tFE) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/0rkxBtWwoutWGPDItsVnia) | 2:05 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 75 | [frozen waterfall](https://open.spotify.com/track/33eNqml56hGzHG8K1aMZVs) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [frozen waterfall](https://open.spotify.com/album/4U8owRn60ZhIHRp8BrE047) | 2:08 |
 | 76 | [Joy to the World](https://open.spotify.com/track/0Spcvt226L8x9kasv3nV2P) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [We Wish You a Merry Christmas](https://open.spotify.com/album/4JZcGUYRVwgTXmG5iUVyVU) | 2:21 |
 | 77 | [Christmas Spirit](https://open.spotify.com/track/3CWzCf39VToje9o25vkgHa) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Christmas Spirit](https://open.spotify.com/album/3cdeD771YYv0uguNzMCVxz) | 2:35 |
-| 78 | [Santas Bag](https://open.spotify.com/track/4uSlst3cOZovr9zSMUpj3O) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [Felt Galaxy](https://open.spotify.com/artist/5HnchaG3UJ2pZ5j5DnN1ot), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Santas Bag](https://open.spotify.com/album/5yxXrr5bYhGj2mQw7mmwdu) | 2:03 |
-| 79 | [Portal De Belen](https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Portal De Belen](https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh) | 2:41 |
-| 80 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 |
+| 78 | [Portal De Belen](https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Portal De Belen](https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh) | 2:41 |
+| 79 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 |
+| 80 | [Santas Bag](https://open.spotify.com/track/4uSlst3cOZovr9zSMUpj3O) | [Youthology](https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM), [Felt Galaxy](https://open.spotify.com/artist/5HnchaG3UJ2pZ5j5DnN1ot), [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Santas Bag](https://open.spotify.com/album/5yxXrr5bYhGj2mQw7mmwdu) | 2:03 |
 | 81 | [Feliz Navidad](https://open.spotify.com/track/3AKZXmdLhHTdCj6SoHfqB1) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [Feliz Navidad](https://open.spotify.com/album/2Ph3ugY0LJ4sxNxGdRj6Wv) | 2:45 |
 | 82 | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/3QKWVH0KQvoPB5SqUolK8b) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/album/6dDIDkSG88Z5Cw0rQk8QIm) | 2:23 |
 | 83 | [Driving Home For Christmas](https://open.spotify.com/track/2P1YLhhyZ4GJaQn7kKDPk1) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [Driving Home For Christmas](https://open.spotify.com/album/4gILcAQcb1HG8UNBizfq10) | 3:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 99 | [All I Wish for Christmas](https://open.spotify.com/track/3TmxaVbyvTP8EOq8mQGp2H) | [Tony Thriller](https://open.spotify.com/artist/77eYPd2PnhvGKJHFFMmbR7) | [Lofi Christmas Dream](https://open.spotify.com/album/3OnJJlpCQHvees2JzvmnoS) | 2:02 |
 | 100 | [should go christmas shopping](https://open.spotify.com/track/5Nk2T3FhYxcRLPzJoKKVzj) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP) | [Winter \- EP](https://open.spotify.com/album/3cZL9q3RB7wpIXwes9a9FL) | 1:30 |
 
-Snapshot ID: `AAAAAAYMf45mEtE8KTNlYuqmS2Tcovso`
+Snapshot ID: `AAAAAC7zDpn15Mi2jHo7LbfZcOShk9LX`

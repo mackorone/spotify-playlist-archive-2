@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > love is in the air...breathe in
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,287 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,314 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 79 | [LAMBA](https://open.spotify.com/track/2OK5qFsZr83APSlRbmMwrt) | [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd), [KOKO SZN](https://open.spotify.com/artist/53XjvW1apJc8O4L28yrnTz), [LOGDRM](https://open.spotify.com/artist/1rdVk0Sj2xpk5dp1hT0FAw) | [LAMBA](https://open.spotify.com/album/2qiF3RoUGIs2prPwz7rM8x) | 2:11 |
 | 80 | [Greatest Lover](https://open.spotify.com/track/38S8k9EHmKUXUI6R2KZzDV) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [ITEM VII](https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD) | 2:10 |
 
-Snapshot ID: `AAAAAFvK1LYTDAPSnV+JlHcsZss3Nc+z`
+Snapshot ID: `AAAAAJkcAs5n+qKXm5I34l7ipDgkSOtX`

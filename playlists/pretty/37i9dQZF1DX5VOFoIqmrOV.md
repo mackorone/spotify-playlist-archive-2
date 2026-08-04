@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : 35 Chinna katha kadu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,753 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,806 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 99 | [Chinuku Taake..](https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u) | [Amritavarshini KC](https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ) | [Pelli Choopulu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/28IIZL1NzZXe8XiUnAEkdN) | 4:51 |
 | 100 | [Jala Jala Jalapaatham Nuvvu](https://open.spotify.com/track/3NF3c438tAguEcWvU4b5iA) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Uppena](https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM) | 4:12 |
 
-Snapshot ID: `AAAAADhGNbbjYnfANQuEPnJrngQBL+jC`
+Snapshot ID: `AAAAAG73i2ewh+OPBSf+WN60wVWl1T06`

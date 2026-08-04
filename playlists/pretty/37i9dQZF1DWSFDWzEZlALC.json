@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JAS, Luca Noel",
-  "num_followers": 460759,
+  "num_followers": 460592,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALQyQ8TGa3j0fXToWGkCscSxEF0N",
+  "snapshot_id": "AAAAAOOUJeJbHhVMogZOWBeqki7iEUm/",
   "tracks": [
     {
       "added_at": "2026-07-31 06:39:28",
@@ -31,18 +31,18 @@
     {
       "added_at": "2026-07-31 06:39:28",
       "album": {
-        "name": "1 gegen 10",
-        "url": "https://open.spotify.com/album/1lVwuA3MMM4xXhJorPzSlM"
+        "name": "nach hause laufen",
+        "url": "https://open.spotify.com/album/6ExKxgzsDNXYcjbjKnW3yW"
       },
       "artists": [
         {
-          "name": "mathi",
-          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
+          "name": "Pablu",
+          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
         }
       ],
-      "duration_ms": 138200,
-      "name": "1 gegen 10",
-      "url": "https://open.spotify.com/track/2P7mN7eIOHs83LQbn13QNA"
+      "duration_ms": 128203,
+      "name": "nach hause laufen",
+      "url": "https://open.spotify.com/track/0gvaybSaQczeMcsdfVkLgK"
     },
     {
       "added_at": "2026-07-31 06:39:28",
@@ -63,18 +63,18 @@
     {
       "added_at": "2026-07-31 06:39:28",
       "album": {
-        "name": "Afterhour Kaltenbrunnen",
-        "url": "https://open.spotify.com/album/5uaStfNdA72RsRm11wz49n"
+        "name": "1 gegen 10",
+        "url": "https://open.spotify.com/album/1lVwuA3MMM4xXhJorPzSlM"
       },
       "artists": [
         {
-          "name": "Cordoba78",
-          "url": "https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt"
+          "name": "mathi",
+          "url": "https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4"
         }
       ],
-      "duration_ms": 184521,
-      "name": "alles nicht so einfach",
-      "url": "https://open.spotify.com/track/5pIf37RslcsDV2E0OzVbiY"
+      "duration_ms": 138200,
+      "name": "1 gegen 10",
+      "url": "https://open.spotify.com/track/2P7mN7eIOHs83LQbn13QNA"
     },
     {
       "added_at": "2026-07-31 06:39:28",
@@ -111,18 +111,34 @@
     {
       "added_at": "2026-07-31 06:39:28",
       "album": {
-        "name": "nach hause laufen",
-        "url": "https://open.spotify.com/album/6ExKxgzsDNXYcjbjKnW3yW"
+        "name": "Mein Babe",
+        "url": "https://open.spotify.com/album/2aIkMJNj8CWocvsxh9Pvlb"
       },
       "artists": [
         {
-          "name": "Pablu",
-          "url": "https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3"
+          "name": "Baumgart",
+          "url": "https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO"
         }
       ],
-      "duration_ms": 128203,
-      "name": "nach hause laufen",
-      "url": "https://open.spotify.com/track/0gvaybSaQczeMcsdfVkLgK"
+      "duration_ms": 124000,
+      "name": "Mein Babe",
+      "url": "https://open.spotify.com/track/6bv7sIDsYTAiieEVYR21d9"
+    },
+    {
+      "added_at": "2026-07-31 06:39:28",
+      "album": {
+        "name": "Afterhour Kaltenbrunnen",
+        "url": "https://open.spotify.com/album/5uaStfNdA72RsRm11wz49n"
+      },
+      "artists": [
+        {
+          "name": "Cordoba78",
+          "url": "https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt"
+        }
+      ],
+      "duration_ms": 184521,
+      "name": "alles nicht so einfach",
+      "url": "https://open.spotify.com/track/5pIf37RslcsDV2E0OzVbiY"
     },
     {
       "added_at": "2026-07-31 06:39:28",
@@ -159,22 +175,6 @@
       "duration_ms": 208078,
       "name": "Du",
       "url": "https://open.spotify.com/track/0aT7NR7uu8Hwv2vak9pcGz"
-    },
-    {
-      "added_at": "2026-07-31 06:39:28",
-      "album": {
-        "name": "Mein Babe",
-        "url": "https://open.spotify.com/album/2aIkMJNj8CWocvsxh9Pvlb"
-      },
-      "artists": [
-        {
-          "name": "Baumgart",
-          "url": "https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Mein Babe",
-      "url": "https://open.spotify.com/track/6bv7sIDsYTAiieEVYR21d9"
     },
     {
       "added_at": "2026-07-31 06:39:28",

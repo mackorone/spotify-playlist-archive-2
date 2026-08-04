@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 81643,
+  "num_followers": 81646,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAC6bk3IDeRQz5nzWiI3h7U/",
+  "snapshot_id": "am6IgAAAAADPE0Dmn8OTswO6pVEG7fAT",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 283546,
+      "name": "Three Babies",
+      "url": "https://open.spotify.com/track/0OYiCy0NLnRg8oQ8ppH9Jm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clear",
         "url": "https://open.spotify.com/album/43znyD1XdGyB02qwhUpfEV"
       },
@@ -399,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
       },
       "artists": [
         {
@@ -408,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 283546,
-      "name": "Three Babies",
-      "url": "https://open.spotify.com/track/0OYiCy0NLnRg8oQ8ppH9Jm"
+      "duration_ms": 190960,
+      "name": "In This Heart",
+      "url": "https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5"
     },
     {
       "added_at": null,
@@ -435,22 +451,6 @@
       "duration_ms": 257893,
       "name": "Tears From The Moon",
       "url": "https://open.spotify.com/track/4nBzwUdPBNuKiFfLTeG2sV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "In This Heart",
-      "url": "https://open.spotify.com/track/4o92jEL52ww0OAPYgWWwW5"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 181186,
-      "name": "No Man's Woman",
-      "url": "https://open.spotify.com/track/0xsfUIVCZLR12cNsjvDqeB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Universal Mother",
         "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 385466,
       "name": "Thank You for Hearing Me",
       "url": "https://open.spotify.com/track/1rMZzXfD89RtfwhuRRNnqx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 181186,
+      "name": "No Man's Woman",
+      "url": "https://open.spotify.com/track/0xsfUIVCZLR12cNsjvDqeB"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Universal Mother",
+        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 311533,
+      "name": "Fire on Babylon",
+      "url": "https://open.spotify.com/track/3epM2ku3Ltw2v1gaZ5KWUO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/4T9R0uORv15JXYVI0sLG4c"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 252000,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/4zr5Huevk5ji2MCRnxp7vu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Universal Mother",
-        "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 311533,
-      "name": "Fire on Babylon",
-      "url": "https://open.spotify.com/track/3epM2ku3Ltw2v1gaZ5KWUO"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wild Mountain Thyme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Ump0HCFMKZw7249P3JMFm"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 216892,
+      "name": "I\u2019ll Be Singing",
+      "url": "https://open.spotify.com/track/3bBOiHYE2XI7lO1Eoa31zT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enemy of the Enemy (Remastered)",
         "url": "https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Mountain Thyme (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5Ump0HCFMKZw7249P3JMFm"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 216892,
-      "name": "I\u2019ll Be Singing",
-      "url": "https://open.spotify.com/track/3bBOiHYE2XI7lO1Eoa31zT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
         "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
       },
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 181280,
-      "name": "Take Me to Church",
-      "url": "https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE"
+      "duration_ms": 206880,
+      "name": "8 Good Reasons",
+      "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 206880,
-      "name": "8 Good Reasons",
-      "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
+      "duration_ms": 181280,
+      "name": "Take Me to Church",
+      "url": "https://open.spotify.com/track/6JTxcKyKE5LUOv918ll0NE"
     },
     {
       "added_at": null,
@@ -867,22 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodbye Jumbo",
-        "url": "https://open.spotify.com/album/0NHOAAAuzEglpm88igZi1a"
+        "name": "Le premier cri",
+        "url": "https://open.spotify.com/album/7w6VcRLFzLLmlLUQrol4OF"
       },
       "artists": [
         {
-          "name": "World Party",
-          "url": "https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE"
+          "name": "Armand Amar",
+          "url": "https://open.spotify.com/artist/2fJb06JRcuBWypwj46TQZj"
         },
         {
           "name": "Sin\u00e9ad O'Connor",
           "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 279600,
-      "name": "Sweet Soul Dream",
-      "url": "https://open.spotify.com/track/1IQYwIAj7XMrL5ilfyprkd"
+      "duration_ms": 209480,
+      "name": "A New Born Child",
+      "url": "https://open.spotify.com/track/4gH669pWOPQMVlTnUV0PnA"
     }
   ],
   "unique_name": "This Is Sin\u00e9ad O'Connor",

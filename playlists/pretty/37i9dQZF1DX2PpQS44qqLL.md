@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Recordamos la voz y personalidad de Dulce 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,227 likes - 200 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,290 likes - 200 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 199 | [Somos Novios](https://open.spotify.com/track/05CfvXFk8iDBJpxYHi8Kpq) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Armando Manzanero](https://open.spotify.com/album/0n7JfwQrT508Hsg3sSDeTM) | 2:34 |
 | 200 | [Toco madera](https://open.spotify.com/track/5nzKbabG1TH9MVizqQ2wTV) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Maravilloso Raphael](https://open.spotify.com/album/2oPRXNiOqeqRCig5ecRCmi) | 3:39 |
 
-Snapshot ID: `AAAAAA1rte1gG+EAp8UMw0LLOYyLiny7`
+Snapshot ID: `AAAAAAqKkbWxp7YBIBEego+c5qIZjBA1`

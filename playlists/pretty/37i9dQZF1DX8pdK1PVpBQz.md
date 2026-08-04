@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: kuudere
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,159 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,160 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Chain Reaction](https://open.spotify.com/track/3yxOYpzHnm1EqJxqyewsVb) | [LUBBY](https://open.spotify.com/artist/2nBIy2jbFxJLOWOSdIVYqa) | [Chain Reaction](https://open.spotify.com/album/1RZrWRqOEBpdEpedrFvy8x) | 3:24 |
 | 100 | [Anodyne](https://open.spotify.com/track/5JdLdXEzqQaHupskdS7a6Z) | [Dead Finks](https://open.spotify.com/artist/00tkcgJcr35Rwj3XBmQAgQ) | [New Plastik Abyss](https://open.spotify.com/album/1P0ItuKDoa4kT9hpOZFwjF) | 3:55 |
 
-Snapshot ID: `AAAAAFoiQyt8xnpi9uWNzJHzu9tMu2MJ`
+Snapshot ID: `AAAAAMF2H+ZztjKjXIeJDcl2tUMotiqr`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. Cover: Pretty Girl",
+  "description": "A new world of alternative electronic music. Cover: Nia Archives",
   "name": "Portal",
   "tracks": [
     {
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 179076,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/01PhbKK2jcCO8YCjTgIXhT"
@@ -1746,7 +1746,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 187411,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/13DIg33b655IuPHHdnlimm"
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 229107,
       "name": "Back to Basics (feat. Skepta) (Floating Points Remix)",
       "url": "https://open.spotify.com/track/7JvuiP16UTKCnieS9E2Bg3"
@@ -2106,6 +2106,24 @@
       "duration_ms": 291369,
       "name": "Banda",
       "url": "https://open.spotify.com/track/11HEUyg7HDzPh08ewhdt4B"
+    },
+    {
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3uerP3QgajVmFLeFe1k4OF"
+      },
+      "artists": [
+        {
+          "name": "moktar",
+          "url": "https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/1jTYIQTzD0eDoaZ6jdrXFf"
     },
     {
       "album": {
@@ -5706,7 +5724,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 390000,
       "name": "Doin' It All 4 U - Lovetempo Remix",
       "url": "https://open.spotify.com/track/5nA7GhofX2ljMqDe1eCjth"
@@ -5804,7 +5822,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 395490,
       "name": "Don't Fuck Around",
       "url": "https://open.spotify.com/track/4VNJy8KTVWNbhyY9ILhwar"
@@ -5870,7 +5888,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-24",
+      "date_removed": null,
       "duration_ms": 341500,
       "name": "Don't You Want My Love",
       "url": "https://open.spotify.com/track/6WeFRRqIox3cCwDRAQuLZ5"
@@ -7512,7 +7530,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 499100,
       "name": "First Intention (Right Here, Right Now)",
       "url": "https://open.spotify.com/track/2cnRRxgxmTYIUwK06kNTJk"
@@ -9765,6 +9783,24 @@
     },
     {
       "album": {
+        "name": "Human Voice",
+        "url": "https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396363,
+      "name": "Human Voice",
+      "url": "https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9"
+    },
+    {
+      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/1pkrlrW9kOkUOU2vjwYUac"
       },
@@ -10750,6 +10786,24 @@
       "duration_ms": 378461,
       "name": "Joint 2",
       "url": "https://open.spotify.com/track/6ReMJ5usS97047qn4aohMz"
+    },
+    {
+      "album": {
+        "name": "Jomox",
+        "url": "https://open.spotify.com/album/0AiFx5KOe51ZbpG05xNk82"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "Jomox",
+      "url": "https://open.spotify.com/track/6Iwafu6i0DMmlozUQ8Sh5v"
     },
     {
       "album": {
@@ -12476,6 +12530,24 @@
       "duration_ms": 151436,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
+    },
+    {
+      "album": {
+        "name": "Ordinary Badman",
+        "url": "https://open.spotify.com/album/0G9GXFwO58VA6N5zuShJ90"
+      },
+      "artists": [
+        {
+          "name": "Hugh B",
+          "url": "https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn"
+        }
+      ],
+      "date_added": "2026-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222557,
+      "name": "Make U Want It",
+      "url": "https://open.spotify.com/track/44RSuo0MAKDUUpiOrLJbWz"
     },
     {
       "album": {
@@ -17986,7 +18058,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 437809,
       "name": "Spiralen",
       "url": "https://open.spotify.com/track/03ra0kWWPT8fW3sy6onMfc"
@@ -18895,6 +18967,24 @@
     },
     {
       "album": {
+        "name": "XXXXX",
+        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138118,
+      "name": "Taconeando",
+      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
+    },
+    {
+      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/7eyBGIi1aKKeSpEaDJGlWf"
       },
@@ -18992,7 +19082,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 232984,
       "name": "Talk To Me",
       "url": "https://open.spotify.com/track/6PpeV9uHMHbY2pYPvMwCDv"
@@ -19512,7 +19602,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 423244,
       "name": "The Heads That Know (feat. Comma Dee)",
       "url": "https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi"
@@ -22040,7 +22130,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 376960,
       "name": "You and Us",
       "url": "https://open.spotify.com/track/0b2XsgdCJ8Q4DFlz4GEOZk"

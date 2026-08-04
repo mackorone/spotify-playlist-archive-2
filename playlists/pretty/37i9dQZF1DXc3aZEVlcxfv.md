@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 
 > If you're blessed!
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,760 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,767 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 66 | [Miracle Walking \- Radio Edit](https://open.spotify.com/track/1XSUg7qjjIGayEV4Rbyvvd) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Miracle Walking \(Radio Edit\)](https://open.spotify.com/album/0nLp271aFrYDf0EM9997ih) | 3:37 |
 | 67 | [DO](https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [DO](https://open.spotify.com/album/1Cj0Fz89D0N9cNcQoaGrMV) | 2:25 |
 | 68 | [I'M BLESSED](https://open.spotify.com/track/4YEafuhU1hLqlyGxP4fF5f) | [Kevin Adams & Voices of Praise](https://open.spotify.com/artist/1gjLvPTniUzZAzokFsuMDV) | [I'M BLESSED](https://open.spotify.com/album/1PNHuxikN3sQWr1LbTOp4u) | 2:56 |
-| 69 | [Grace \- Remix](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Remix\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 |
+| 69 | [Grace \- Collab Version](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Collab Version\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 |
 | 70 | [Overflow](https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Serviteur Pierre](https://open.spotify.com/artist/1JjFSYv0PaKKlK1ImatxLh) | [Overflow](https://open.spotify.com/album/2n1yJgNXwvsE5SY3Q1gm9l) | 2:10 |
 | 71 | [Jesus](https://open.spotify.com/track/2X1KhBy93qsWLWmuYjDyTF) | [Veekeyz](https://open.spotify.com/artist/57xgBBHoYZN5vMioJSSOcw) | [Jesus](https://open.spotify.com/album/3XB80hfj7QMeWFCzlEqDQp) | 4:38 |
 | 72 | [L.I.E \(Life Is Easy\)](https://open.spotify.com/track/2Y0d5FqwqsTLhZeM7XQguW) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Glitzbeatz](https://open.spotify.com/artist/6STIHlNG2q6dwVWkccjvVK), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY) | [L.I.E \(Life Is Easy\)](https://open.spotify.com/album/0alUYDdwWaDhGh5aaTGHEM) | 2:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3aZEVlcxfv.md) - [plain]
 | 79 | [Wait On You](https://open.spotify.com/track/7yErAxvmSIVzWb0BFH0U4n) | [Godwin King](https://open.spotify.com/artist/3zNPsJVNyCnqjWvTPFghkC), [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Wait On You](https://open.spotify.com/album/43XE5518l2BLCQmqwSA15A) | 3:57 |
 | 80 | [Lovin On Me](https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Lovin On Me](https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt) | 4:08 |
 
-Snapshot ID: `AAAAAPxfgHcoaZu+DGTn8CJ+seViwkF0`
+Snapshot ID: `AAAAAJkdBBdFIaNTALGcJ0VFM+f2KTKj`

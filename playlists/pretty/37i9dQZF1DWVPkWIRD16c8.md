@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Let Jesus take the wheel...and the aux cord!
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,168 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,394 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 99 | [Learning To Let Go](https://open.spotify.com/track/3B8JMdJvuyPLokXb0eN8Wm) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [Real Me](https://open.spotify.com/album/78GU0GtHUsMuU140MvN1wu) | 2:52 |
 | 100 | [Still Small Voice](https://open.spotify.com/track/0N0bFgkkvD6sIX8PfJ1Ywi) | [Life.Church Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Still Small Voice](https://open.spotify.com/album/499GkCyuTPX1U2BXhSDBon) | 3:25 |
 
-Snapshot ID: `AAAAAAbc0xBSosxSdyDQi5SM77a3XrwR`
+Snapshot ID: `AAAAAO1N6RNZQ3HJjbDC1JH1gXmw8z5n`

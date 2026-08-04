@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a> 🚀🚀 featuring Tape B
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,493 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 995,364 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Underneath Your Skin](https://open.spotify.com/track/1b5M5fSUn4P30H8aqD8oM2) | [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Underneath Your Skin](https://open.spotify.com/album/7e520ZOyJ5LpNG8Bn4qmYZ) | 4:00 |
 | 2 | [A Little Bit](https://open.spotify.com/track/4hQBMULTIvpG8yzAhvSffX) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [A Little Bit](https://open.spotify.com/album/1tm5R0eFNxS6SjyJ5yg4fo) | 3:59 |
-| 3 | [LOUDER](https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [JONCASS](https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025), [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt) | [140 MAFIA](https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP) | 3:15 |
+| 3 | [LOUDER](https://open.spotify.com/track/3brvssSESxEX10VwiPWpB3) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS), [SVDKO](https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt), [JONCASS](https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025) | [140 MAFIA](https://open.spotify.com/album/0o5zPC1A495GY9Oewq3JZP) | 3:15 |
 | 4 | [Back To Life](https://open.spotify.com/track/2oMPAV0j89RmT9cju0CvNi) | [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Back To Life](https://open.spotify.com/album/4MU4IBa0NRZvMF5JTgYE5c) | 2:57 |
 | 5 | [CRASH OUT](https://open.spotify.com/track/659fLEncISLHImCs2IkqO2) | [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [CRASH OUT](https://open.spotify.com/album/3gCAoM9q5woXXbFcFEyLV1) | 2:55 |
 | 6 | [Smoke A Blunt](https://open.spotify.com/track/5GxEzGQRFTLfviMBRDGNXC) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [Stylust](https://open.spotify.com/artist/2Y1LgWOVPz5m1qCuzkWEQu) | [Smoke A Blunt](https://open.spotify.com/album/5uqAel5S3BRtOuev1qjSX3) | 2:24 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 89 | [COME AS YOU ARE](https://open.spotify.com/track/2Vtu6kE8wlqWpZKQsg9cLW) | [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [THE DARK SiDE OF THE TRASH](https://open.spotify.com/album/2DDv1U1A1ipoeySQl6bRYI) | 1:44 |
 | 90 | [Section](https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Section](https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT) | 2:54 |
 
-Snapshot ID: `AAAAAGAUviMCXl6FOoUr0K7EG4CRnsm0`
+Snapshot ID: `AAAAAMCvix6O50jBGBBZK9pGElw+YpAR`

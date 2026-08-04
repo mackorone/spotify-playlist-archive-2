@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 
 > aquí pura vibra chida ✨ Jasiel Nuñez y Peso Pluma en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,843 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,865 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 | 99 | [Blancanieves](https://open.spotify.com/track/1CDo1ZxKO7LxGIZNYZ4nFL) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Blancanieves](https://open.spotify.com/album/2zGdZxzpRLp4erY3nyaI3P) | 2:31 |
 | 100 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 |
 
-Snapshot ID: `AAAAANhkOoh6ZbkZY7SzZrMAud82Brz5`
+Snapshot ID: `AAAAACa6si9DRutjqRxdApa4ganSDne5`

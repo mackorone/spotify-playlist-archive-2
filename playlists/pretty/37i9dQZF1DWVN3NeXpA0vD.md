@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 
 > D vitaminin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,279 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,272 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 | 99 | [SICKO](https://open.spotify.com/track/2vDxrqUKTkgSxn7x3JYms9) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [SICKO](https://open.spotify.com/album/3kolpERtzYSxUzWpyxE7uE) | 2:37 |
 | 100 | [Just Friends](https://open.spotify.com/track/1NzRZ7AosK7ZDumMsZYofo) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Just Friends](https://open.spotify.com/album/0J9VlRE4GIO7EDkYkIl8YL) | 2:48 |
 
-Snapshot ID: `AAAAAFXmSf4sSKfeg9vM8cA0zVrwu00q`
+Snapshot ID: `AAAAAG1R/nuuZpvJgCTCYKKfmfRwKS6L`

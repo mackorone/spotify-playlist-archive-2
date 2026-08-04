@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hngle
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,163 likes - 33 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,164 likes - 33 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 32 | [Chẳng Cần Một Ai Đó \(feat\. Alexis Cao\)](https://open.spotify.com/track/5fu5dgXFoZIDik0tEnUT2Y) | [Nhuộm Collective](https://open.spotify.com/artist/7Hlxa6l1BeLsdV1h2poz5L), [Alexis Cao](https://open.spotify.com/artist/3UE1YNzwGIdXvL8AnJXWRx) | [Chẳng Cần Một Ai Đó \(feat\. Alexis Cao\)](https://open.spotify.com/album/5ZcFrWJ0tuh8V7rpOQmvfe) | 3:33 |
 | 33 | [Tìm Em \(feat\. Bảo Anh\)](https://open.spotify.com/track/6ELX356o21U28T73ZxruUj) | [Hngle](https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ), [Bảo Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Tìm Em \(feat\. Bảo Anh\)](https://open.spotify.com/album/4qCaDixeJX4LXWMZs6rVyl) | 4:34 |
 
-Snapshot ID: `AAAAALgZ9vDsHzawHK0G6RI9i3tF5LoR`
+Snapshot ID: `AAAAAOk0SWrqyujZ7mRVBCP94ew5Q4av`

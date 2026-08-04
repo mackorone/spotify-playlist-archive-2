@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,659 likes - 100 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,798 likes - 100 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 99 | [Arms Around Sleep](https://open.spotify.com/track/1ZdOVQclzc6XDJAJQKxu1u) | [A Lily](https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS) | [Wake:Sleep](https://open.spotify.com/album/0Cd1W132OG9F3UJw8g0Oha) | 9:51 |
 | 100 | [Moonlight Saptah](https://open.spotify.com/track/6gu8EBy9qA8dF6HBN3Gq9T) | [Craig Kohland & Shaman's Dream](https://open.spotify.com/artist/1TGMZFLE54UJlOJCPxYggZ) | [Bindu](https://open.spotify.com/album/2MolLpSGO6Bh3DPOcH56Ap) | 9:41 |
 
-Snapshot ID: `AAAAAN3Btr/QYO8PaPgwKs/bV9CveyiY`
+Snapshot ID: `AAAAAEVGchB4kfF/CBDIlbi9GgahZMeT`

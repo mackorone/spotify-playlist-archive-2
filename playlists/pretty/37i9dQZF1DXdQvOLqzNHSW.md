@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,182 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,062 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 99 | [Amber](https://open.spotify.com/track/3LG0fOHDELxUJadCiGpyCF) | [Golden Daze](https://open.spotify.com/artist/4T3jyyAF02vNapy2bdzMjn) | [Simpatico](https://open.spotify.com/album/2lK6kmV26bYb9CcTFvrmLz) | 3:17 |
 | 100 | [Back Then](https://open.spotify.com/track/2twsYPcDYxW85W9nVMrWAt) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 2:49 |
 
-Snapshot ID: `AAAAAHlrU5Uagxl2+Xn0aEaFLB3D4SyZ`
+Snapshot ID: `AAAAAFk2uZIrDpGfUuq9LHx1GqMHsRw2`

@@ -408,7 +408,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 258281,
       "name": "2AM",
       "url": "https://open.spotify.com/track/3DLtPObflLQBodZN8qGODT"
@@ -1104,7 +1104,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 199000,
       "name": "Ai Ngo\u00e0i Anh",
       "url": "https://open.spotify.com/track/6GM4ZOBDcDroldUxI8GZ2B"
@@ -8964,7 +8964,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 216500,
       "name": "ex's hate me, Pt.2",
       "url": "https://open.spotify.com/track/5tdz7T4hTxA1ipJMBe24uX"
@@ -17014,6 +17014,28 @@
     {
       "album": {
         "name": "HVL",
+        "url": "https://open.spotify.com/album/10mQeeht0bd9aZ5xaWB0Uy"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "Tage",
+          "url": "https://open.spotify.com/artist/6kFhNMq6O8P5QKdqlGMUVW"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192485,
+      "name": "M\u1eaft M\u00f4i Tay Ch\u00e2n (feat. Tage)",
+      "url": "https://open.spotify.com/track/33YTOmyqaQEZrQPLGVi6M8"
+    },
+    {
+      "album": {
+        "name": "HVL",
         "url": "https://open.spotify.com/album/36e3pjcLAYabHjXlaSmWOe"
       },
       "artists": [
@@ -19746,7 +19768,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-02",
+      "date_removed": null,
       "duration_ms": 263752,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/5ouxRyInSdRBQubu3KTd97"
@@ -19826,7 +19848,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 317972,
       "name": "N\u1ebfu Nh\u01b0 Ta Ch\u1eb3ng C\u00f2n (feat. A$AP \u01af\u1edbt Mi)",
       "url": "https://open.spotify.com/track/05kwQNmIvly0VZy3AkfMzs"
@@ -27040,7 +27062,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/0pSTK0qekDyWdGvbDuuCfC"
@@ -27692,7 +27714,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 269473,
       "name": "T\u1eebng L\u00e0 C\u1ee7a Nhau",
       "url": "https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt"
@@ -27994,7 +28016,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 225862,
       "name": "vaicaunoicokhiennguoithaydoi",
       "url": "https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK"

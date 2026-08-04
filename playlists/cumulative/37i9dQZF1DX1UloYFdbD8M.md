@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Gowry Lekshmi
 
-534 songs - 1 day 8 hr 51 min
+535 songs - 1 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Kannil Nokki Ninna](https://open.spotify.com/track/0cag2stuXquTuj0kb1YY6m) | [George Baby](https://open.spotify.com/artist/5vwepjcjFSDvgOu3PzTIWN) | [Ormapookkal](https://open.spotify.com/album/0SmpgYHNrVYpDCudHf9q9Y) | 3:37 | 2026-06-11 |  |
 | [Kannodu \- Live](https://open.spotify.com/track/5daE0LYn2yQquJ9BUTma2f) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS), [Mridula Warrier](https://open.spotify.com/artist/6XtMSGKU7YkkK8Y9ENfHeh) | [Kannodu \(Live\)](https://open.spotify.com/album/1C1whckbFcGGOUqzySzALK) | 3:37 | 2025-04-04 | 2026-06-17 |
 | [Kannondu](https://open.spotify.com/track/34ZLhArQEPt66YcZTl0ozj) | [Meera E](https://open.spotify.com/artist/20zEJrH8OrzpCaNyolbiAf), [Sadique Pandallur](https://open.spotify.com/artist/0xmb6mgODCpq8raCqRR3qo) | [Kannondu](https://open.spotify.com/album/2wS8JGLAiZGZ9EywGix72g) | 2:48 | 2026-04-15 |  |
+| [Kannoram Kaadhalaay \(From "Manohari"\)](https://open.spotify.com/track/0HWMdwIKMwGVjliNAF1igH) | [Serin Francis](https://open.spotify.com/artist/5i4TkxU3gyv0At96ncroh3), [CM SaDiQ](https://open.spotify.com/artist/3RhOvgCZlLptkSlG4owZlb), [Santhi Krishnan](https://open.spotify.com/artist/2jI28hCt7XoTiztA8ojQ40) | [Kannoram Kaadhalaay \(From "Manohari"\)](https://open.spotify.com/album/6RQEE5l67KGl8eDS8eLLsT) | 3:12 | 2026-08-03 |  |
 | [Karikhaalam](https://open.spotify.com/track/7CrV2L9mDStNBJ1TDyk6vw) | [KJ](https://open.spotify.com/artist/5h5qkAXIEfc217hndPRaVY), [Sreehari Ashok](https://open.spotify.com/artist/50jSIp8hsiRJvrovTzLvB0) | [Karikhaalam](https://open.spotify.com/album/1SYszU7HQYmhWrsXH50rc5) | 3:19 | 2026-06-11 |  |
 | [Karmi](https://open.spotify.com/track/5KBX5XW0QHcLbeEgxF9APg) | [Shanka Tribe](https://open.spotify.com/artist/1m3UtqSI99YxZy9ysamF7T), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH) | [Umoja](https://open.spotify.com/album/7in4aRp2Sjz8x2hpbVHGYt) | 4:54 | 2025-10-18 | 2025-12-14 |
 | [Karthi Kalyani](https://open.spotify.com/track/6dvZ9YupWV18hSwdDo8jza) | [Joel Johns](https://open.spotify.com/artist/0BiabvD708qvkGYVADsHA3), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC) | [Karthi Kalyani](https://open.spotify.com/album/5fvzCfvjT7yKgP3yEiNweZ) | 4:41 | 2023-07-18 | 2023-07-28 |

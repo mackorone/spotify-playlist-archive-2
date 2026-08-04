@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: TRIANGLE DES BERMUDES
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,961 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,481 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Forgiveness](https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:38 |
 | 50 | [MISS DES MISS](https://open.spotify.com/track/76z3Qyexa0tKqqDnSbqmQw) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [BACK 2 BACK](https://open.spotify.com/album/7Bc60xCdm3tna3M8n6s1sK) | 2:12 |
 
-Snapshot ID: `AAAAANC/Uh89v7XV0GpYWQS6SBOdgdIm`
+Snapshot ID: `AAAAAN8yBUY+pm7C0bXA0U/OEG9DTGVL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: Rotimikeys & Greatman Takit
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,024 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,110 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 12 | [DO](https://open.spotify.com/track/5OGDqENIodOU5mYJGVSWMi) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [DO \(PACK\)](https://open.spotify.com/album/4v7p2xzNJ5pxEFsygikaE4) | 2:25 |
 | 13 | [Victory II](https://open.spotify.com/track/0wHtW8xL9e8ZcmYHZF2Z56) | [Trulyf](https://open.spotify.com/artist/5ZUa3dmEgvwGwb8h8bA3hl), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Victory II](https://open.spotify.com/album/1jNXrlwsFkS9n1nr4JU65u) | 2:45 |
 | 14 | [TAKE ME](https://open.spotify.com/track/2hDkIZjbuwor5pYA9zpS4n) | [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [OBED](https://open.spotify.com/artist/6dlnnsHCMKCV3v1aMOFvuE) | [TAKE ME](https://open.spotify.com/album/4fm8Y72ze4kvFLEDg3snGp) | 2:42 |
-| 15 | [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:41 |
+| 15 | [Ride Or Die](https://open.spotify.com/track/7fYdnpKhl1woweqIoJL0lY) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa) | [Ride Or Die](https://open.spotify.com/album/2jw5tAGry55mmxcTTR7jTo) | 2:30 |
 | 16 | [Ifeoma](https://open.spotify.com/track/3vSUYERQ3tudbBmsQQrBzT) | [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Paul CleverLee](https://open.spotify.com/artist/2OmRPEQ0DmK6myhfVFKLuY) | [Ifeoma](https://open.spotify.com/album/0AbMi8S3IA7tKKCNIHllNK) | 3:31 |
 | 17 | [Breakthrough](https://open.spotify.com/track/2IKGA1CxxaDvYkdowBCvbN) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Breakthrough](https://open.spotify.com/album/5Uubczhxq1GTQqGbz6SivQ) | 3:00 |
 | 18 | [Good Father](https://open.spotify.com/track/0elKcwAtaliEC5nOCRppDt) | [Ta ni](https://open.spotify.com/artist/6xd6Zz4DcTTbiObY7Pozpr), [Light Fred](https://open.spotify.com/artist/4sUoajVY7od9hVhw0yBcOT), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Good Father](https://open.spotify.com/album/67pulutK1Eu0ayKY1yNFnr) | 2:48 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 26 | [Jericho \(Sempe\)](https://open.spotify.com/track/5BC3vCM7hkbTY7lfpsmOUv) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Niyispeak](https://open.spotify.com/artist/1t2cYkpzE36VcFiGpFB0zJ) | [Jericho \(Sempe\)](https://open.spotify.com/album/1bkndTyolFsy6Sv44DtgFb) | 2:28 |
 | 27 | [Holy Pressure](https://open.spotify.com/track/5y7Ok74m78xZLLkdgulUzb) | [Emino](https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy), [Joebee](https://open.spotify.com/artist/2G7eSWBy0QnGT1Ot6HUbP1), [Emino Music](https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a) | [Holy Pressure](https://open.spotify.com/album/7IH7G3dtJBYnVh8H6F9z1n) | 2:30 |
 | 28 | [Ifeoma \(Something good\)](https://open.spotify.com/track/5iJUaoGv7yVy6aEpjdkZMj) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Joy In Only You](https://open.spotify.com/album/6oluHt9qY8kBYROCs7cTux) | 2:40 |
-| 29 | [Grace \- Remix](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Remix\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 |
+| 29 | [Grace \- Collab Version](https://open.spotify.com/track/7iJLNphVZoKg1AAm3RagLa) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Grace \(Collab Version\)](https://open.spotify.com/album/26hi7AyFWMykRnAc3iIIxC) | 3:13 |
 | 30 | [In The Middle](https://open.spotify.com/track/3cod5M5O36GlZoJzDua7gP) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [IMRHAN](https://open.spotify.com/artist/1q4putin60VdRXfDSTl5f3) | [In The Middle](https://open.spotify.com/album/3TjBWzuEepDzrxRKOtPHTY) | 2:47 |
 | 31 | [Overflow](https://open.spotify.com/track/3tlvLZKwCJ5OHGqnWzroLt) | [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [Serviteur Pierre](https://open.spotify.com/artist/1JjFSYv0PaKKlK1ImatxLh) | [Overflow](https://open.spotify.com/album/2n1yJgNXwvsE5SY3Q1gm9l) | 2:10 |
 | 32 | [Miracles Like Lies](https://open.spotify.com/track/1xHczeiVLFFYxrdAQLVteY) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Miracles Like Lies](https://open.spotify.com/album/53r1RXoTN1VStVSsoNWoBo) | 4:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoKKKetKEw.md) - [plain]
 | 69 | [Defender](https://open.spotify.com/track/2MxTRGUSHOOyUhPLjXAANm) | [Oliver Lingk](https://open.spotify.com/artist/3sJLO3PPCeDyrSGX8P29kJ), [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA) | [Defender](https://open.spotify.com/album/3ZHw0tjbVJQMgYYD7xphV0) | 2:16 |
 | 70 | [Ifeoma](https://open.spotify.com/track/2A8SuOIgP42ZeJbw3lyUj1) | [Kris Grant](https://open.spotify.com/artist/3ohMd9D8nMYIxHbV9eS0AQ), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Ifeoma](https://open.spotify.com/album/0BCRtgbPtUqOhxYn5ATK4s) | 2:24 |
 
-Snapshot ID: `AAAAABAO/zpllas67ey3Ag2XYgoiBwGe`
+Snapshot ID: `AAAAALvpA0Xv4LlZOASmQDpgllF43zUK`

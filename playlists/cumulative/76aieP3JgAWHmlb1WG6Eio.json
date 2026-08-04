@@ -117,6 +117,32 @@
     },
     {
       "album": {
+        "name": "Sh\u014dgun (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA"
+      },
+      "artists": [
+        {
+          "name": "Atticus Ross",
+          "url": "https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM"
+        },
+        {
+          "name": "Leopold Ross",
+          "url": "https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS"
+        },
+        {
+          "name": "Nick Chuba",
+          "url": "https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159853,
+      "name": "A Dream Within a Dream",
+      "url": "https://open.spotify.com/track/3bU0OB2KvbxjIWR6EsUx4G"
+    },
+    {
+      "album": {
         "name": "Hogwarts Legacy (Study Themes from the Original Video Game Soundtrack)",
         "url": "https://open.spotify.com/album/6RXj34onpdKyOKxLymuOMh"
       },

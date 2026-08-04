@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 
 > Relájate con tus canciones favoritas en versión acústica / Descontrai com versões acústicas das tuas músicas preferidas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,830 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 965,771 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,11 +126,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 116 | [Now and Later \- Acoustic Version](https://open.spotify.com/track/3KhgqRMwfWSI9J41k7pbvD) | [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [Now and Later \(Acoustic Version\)](https://open.spotify.com/album/0yee0fIFICVjaUjdyROrY6) | 3:19 |
 | 117 | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0) | [Aaron Krause](https://open.spotify.com/artist/52MFUXZatn0KsT2bdPQI2a), [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Every Breath You Take \(feat\. Liza Anne\)](https://open.spotify.com/album/0AQ6evdrI5Nkmp5lDYYCCh) | 3:43 |
 | 118 | [Wake Me Up \- Acoustic](https://open.spotify.com/track/3Jc0ABqhf9yMLn8bbAdmKX) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Lift Your Spirit](https://open.spotify.com/album/1ImxhQBpfEQeM7bNh61Aqg) | 3:45 |
-| 119 | [IDGAF \- Acoustic](https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [IDGAF \(Remixes II\)](https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq) | 3:37 |
-| 120 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
-| 121 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:22 |
+| 119 | [Time After Time](https://open.spotify.com/track/5kOBEsqVNwi4udPRbagNIV) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/1jqSjDD9xDV8QYWyRW0U6q) | 2:50 |
+| 120 | [IDGAF \- Acoustic](https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [IDGAF \(Remixes II\)](https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq) | 3:37 |
+| 121 | [Sweet Child O' Mine](https://open.spotify.com/track/16i6f7yJWs1j67fxBjfc7z) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Sweet Child o’ Mine](https://open.spotify.com/album/4qD0tpu2Omt2OcYDxfyjd7) | 5:02 |
 | 122 | [I'm Yours \- \(From the Casa Nova Sessions\)](https://open.spotify.com/track/1QlWYpD8hrhmS0kDDWwgb8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Acoustic Café](https://open.spotify.com/album/73oIIoRDqSC8vpe0z1dFTU) | 4:40 |
-| 123 | [Time After Time](https://open.spotify.com/track/5kOBEsqVNwi4udPRbagNIV) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Time After Time](https://open.spotify.com/album/1jqSjDD9xDV8QYWyRW0U6q) | 2:50 |
+| 123 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:22 |
 | 124 | [No One \- Acoustic](https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Playlist Vol\. 1](https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5) | 4:19 |
 | 125 | [Let Her Go \- Acoustic](https://open.spotify.com/track/4tzAf07GCR6DlycQkUKlgN) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All the Little Lights \(Deluxe Version\)](https://open.spotify.com/album/0yWveEIgWbV3oPq4ZA6BAj) | 4:26 |
 | 126 | [Rather Be](https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1) | 4:07 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9zR7tdziuQ.md) - [plain]
 | 149 | [I Can't Make You Love Me](https://open.spotify.com/track/0hL7pMYm3WQhoywLYFdF3t) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [I Can't Make You Love Me/Immigrant Song](https://open.spotify.com/album/7EyotZp8SIypYNsBKA1yLk) | 4:51 |
 | 150 | [I Feel It Coming \- Acoustic Live Lounge](https://open.spotify.com/track/2JeQGU3gmi7HEG6tCFNgzI) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Acoustic Favourites](https://open.spotify.com/album/1wpciFEPWX1fdgmIHO19Ez) | 2:06 |
 
-Snapshot ID: `AAAAAHJ+v1KdD9J9qqQbeyzOlVfdeIy1`
+Snapshot ID: `AAAAAIQvN/Mg99wqU4wwNvpVAQuQX73Z`

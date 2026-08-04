@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 💚 Cover: Federica Abbate
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,910 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,907 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 99 | [Furtuna](https://open.spotify.com/track/08uUKdiwUqYnFvOMJisIBw) | [DDUMA](https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG) | [Furtuna](https://open.spotify.com/album/6NPTf6aDLdNBoPgexlERTE) | 4:38 |
 | 100 | [pattina](https://open.spotify.com/track/3pfJmGQbc8pq9qiXGtieln) | [VEROSIMILE](https://open.spotify.com/artist/6K9KfaUxJIKk6qZh9a1fVG) | [pattina](https://open.spotify.com/album/60LA9BQa16yvsEWKEoP3tk) | 2:32 |
 
-Snapshot ID: `AAAAACrohYK8HqPvHntGDMTVdZp2cIHS`
+Snapshot ID: `AAAAAACCgTl92UMT/d+uRoWBlCHkl639`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, LOVE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,952 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,934 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 91 | [Holding On to You \- Single Version](https://open.spotify.com/track/25wGFtILSRZ5SktMdrnd9g) | [Dan Stirling](https://open.spotify.com/artist/3OPPmZllbexjdjxy5WqXCp), [Dâmares Gomes](https://open.spotify.com/artist/5vH1WRgVmc2mwF0iXgOibC) | [Holding On To You](https://open.spotify.com/album/687m8cBc9UYAT9iH6Jv6Xw) | 3:42 |
 | 92 | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Good Love \(feat\. Kim Burrell\)](https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7) | 4:08 |
 | 93 | [Without The Risk](https://open.spotify.com/track/4NGDxlAyoPtW46HaHjMI5W) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Without The Risk](https://open.spotify.com/album/1AGraDGjg0M10B8HVJqAtS) | 3:43 |
-| 94 | [Breathe Life](https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Matthew Grant](https://open.spotify.com/artist/1TtBULEnLbpIrXCrpcO4Di) | [Breathe Life](https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy) | 3:06 |
-| 95 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Beasley](https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |
+| 94 | [I do](https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa) | [Caitie Beasley](https://open.spotify.com/artist/6N4bMAZfwfIeL0qUuahHyF) | [I do](https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E) | 3:10 |
+| 95 | [Breathe Life](https://open.spotify.com/track/6jYStiz3SkwOHSfBApVxTA) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Matthew Grant](https://open.spotify.com/artist/1TtBULEnLbpIrXCrpcO4Di) | [Breathe Life](https://open.spotify.com/album/5zy0vbCV0XwCKHUizHAesy) | 3:06 |
 | 96 | [Loving Me Like Jesus](https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99) | [Franchesca](https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM), [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL) | [Loving Me Like Jesus](https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz) | 3:12 |
 | 97 | [Sunday Coffee](https://open.spotify.com/track/3okfIj8e23ahdmkx1u1Aym) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Sunday Coffee](https://open.spotify.com/album/7JiQDq1Ze76saXNgnk0Edk) | 1:31 |
 | 98 | [Giving In](https://open.spotify.com/track/5U3UVEFEdunLJFpbTliCGj) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Giving In](https://open.spotify.com/album/7I1KWEWQ4G2FA84rHEuslm) | 3:27 |
 | 99 | [If It Wasn't You](https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW) | [Airr](https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz) | [If It Wasn't You](https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N) | 3:06 |
 | 100 | [Ride or Die](https://open.spotify.com/track/1MDYOI1rPyR0BfrS7E8eMv) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Ride or Die](https://open.spotify.com/album/2jcpIxfkydmBZ0tdF8F7St) | 2:52 |
 
-Snapshot ID: `AAAAAHapDrsJR7nbzROIqktd2NmLRkwS`
+Snapshot ID: `AAAAAMS1x0Cx99betSS8AmqE5LYsStln`

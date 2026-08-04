@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Motor Ballet, MIK's Reaction, Armin F. and more",
+  "description": "With Motor Ballet, Facula, MIK's Reaction and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 169000,
       "name": "(Don`t Wait For) The Next Call - Feat Sixxkiller",
       "url": "https://open.spotify.com/track/6rORsjerzCWPwCawd8T76m"
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Alles was atmet",
+        "url": "https://open.spotify.com/album/5OtTBj7Cb8ZwxXPNFTBWyz"
+      },
+      "artists": [
+        {
+          "name": "Andrea Luchow",
+          "url": "https://open.spotify.com/artist/5O7QmBuAYVDQz3CDJw6BWA"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275155,
+      "name": "Alles was atmet",
+      "url": "https://open.spotify.com/track/1MykT5b0IeEMvh42jPn1Le"
+    },
+    {
+      "album": {
         "name": "Alnilam",
         "url": "https://open.spotify.com/album/6XbMSW33kZZY2gHGKw6URj"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 99747,
       "name": "Astray",
       "url": "https://open.spotify.com/track/1VCPQ9DCMZRGigOFtJ8AbR"
@@ -1106,7 +1124,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 254374,
       "name": "Black Heart",
       "url": "https://open.spotify.com/track/2nq1Ih4df9PNbjwQObcFNk"
@@ -2418,6 +2436,24 @@
       "duration_ms": 226568,
       "name": "Dance On My Grave",
       "url": "https://open.spotify.com/track/04kcDf6whIoJebDQ6vZh8R"
+    },
+    {
+      "album": {
+        "name": "At the End of the Sea",
+        "url": "https://open.spotify.com/album/7z00FuZO5yHWL5VSjvcq1S"
+      },
+      "artists": [
+        {
+          "name": "The Beauty of Gemina",
+          "url": "https://open.spotify.com/artist/3ooh46u3DrqxPbxtMH4oqU"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239880,
+      "name": "Dark Rain",
+      "url": "https://open.spotify.com/track/5rvu38f50rNJBy2KziIspi"
     },
     {
       "album": {
@@ -4228,6 +4264,28 @@
     {
       "album": {
         "name": "Oi Fones Ton Kataramenon Poiiton",
+        "url": "https://open.spotify.com/album/36E1hP21iyK5ipshvmhD2a"
+      },
+      "artists": [
+        {
+          "name": "George Tiakas",
+          "url": "https://open.spotify.com/artist/0j96FjMakDR9qNgIbF32l6"
+        },
+        {
+          "name": "mora",
+          "url": "https://open.spotify.com/artist/2OQx24qiJpOoCIffu69ww8"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323278,
+      "name": "Fantasmata",
+      "url": "https://open.spotify.com/track/7khISxFcHJyyZ21kCSQ3U7"
+    },
+    {
+      "album": {
+        "name": "Oi Fones Ton Kataramenon Poiiton",
         "url": "https://open.spotify.com/album/729XlJR3tOefPJzC192P0x"
       },
       "artists": [
@@ -4328,7 +4386,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 192214,
       "name": "Farlig",
       "url": "https://open.spotify.com/track/7iJWmbm3MOQrJt2GTqbG0r"
@@ -4548,7 +4606,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 330737,
       "name": "Flieg Vogel flieg",
       "url": "https://open.spotify.com/track/4D1e1mUnr2huaOxcEZv08G"
@@ -6236,7 +6294,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -6514,7 +6572,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -7066,7 +7124,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 122666,
       "name": "Lies Behind The Afterlife - 2026 remastered version",
       "url": "https://open.spotify.com/track/3fneVquIhlM7TjjxckJ4jS"
@@ -7666,7 +7724,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 188625,
       "name": "Man on a Horse",
       "url": "https://open.spotify.com/track/5UHGAvVqmjfACrwDSKIPax"
@@ -9020,7 +9078,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 219752,
       "name": "Not Immortal",
       "url": "https://open.spotify.com/track/5fK9crvnMpEOU7aLe4X8wW"
@@ -9468,7 +9526,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-03",
+      "date_removed": null,
       "duration_ms": 249272,
       "name": "Only What You Love",
       "url": "https://open.spotify.com/track/7joAUdC9IjE7kkpA14WV9Q"
@@ -10507,6 +10565,24 @@
     },
     {
       "album": {
+        "name": "Right Behind You",
+        "url": "https://open.spotify.com/album/01sTz6yWSs5645SUrPDv3V"
+      },
+      "artists": [
+        {
+          "name": "Neonderthal",
+          "url": "https://open.spotify.com/artist/1opvMzNniTPIIBx8PEU3Ai"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167183,
+      "name": "Right Behind You",
+      "url": "https://open.spotify.com/track/1qeQVnBI54Sea0HL0vbURR"
+    },
+    {
+      "album": {
         "name": "Rinse & Repeat",
         "url": "https://open.spotify.com/album/1IsPumWVMRLz4vPpxBQqU7"
       },
@@ -11394,7 +11470,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-27",
+      "date_removed": null,
       "duration_ms": 251281,
       "name": "Sn\u00f8r i Helvete",
       "url": "https://open.spotify.com/track/38ehb2DHLwwVAPr0rD0IjR"
@@ -11520,7 +11596,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 344139,
       "name": "Solitude/M\u00e4rk Hur V\u00e5r Skugga",
       "url": "https://open.spotify.com/track/5YRorSONmdeDIvCbcvwmhJ"
@@ -11754,7 +11830,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-31",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Spiral of the One",
       "url": "https://open.spotify.com/track/6GNiOmyqRA2RUNpcbIS5RF"
@@ -13002,7 +13078,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 230148,
       "name": "The Long Forgotten",
       "url": "https://open.spotify.com/track/7vduSm8fvWLvaIVKAdGv84"
@@ -13378,7 +13454,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 135004,
       "name": "The Wax Hand",
       "url": "https://open.spotify.com/track/2PUdWgszXxQCYJrQXIGXO2"
@@ -14156,7 +14232,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 253374,
       "name": "Turn Me on (Flag and the Wind)",
       "url": "https://open.spotify.com/track/48hndcOjqVYg3c8pUiwPZ9"
@@ -14455,6 +14531,24 @@
     },
     {
       "album": {
+        "name": "Leniency",
+        "url": "https://open.spotify.com/album/43KHV8nYHGWwzfGRNPeU6a"
+      },
+      "artists": [
+        {
+          "name": "Facula",
+          "url": "https://open.spotify.com/artist/0giFkTzG5RrbItS5BzNYQf"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219879,
+      "name": "Venality",
+      "url": "https://open.spotify.com/track/7rmI1eBZxCFkpJ6w7oAUn9"
+    },
+    {
+      "album": {
         "name": "Venceremos",
         "url": "https://open.spotify.com/album/4QcGYsGrtp30XjPbX9UCI9"
       },
@@ -14466,7 +14560,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 325000,
       "name": "Venceremos",
       "url": "https://open.spotify.com/track/2VV6JYiKbYFF9LtD6fJgHj"
@@ -15534,7 +15628,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 129210,
       "name": "You Wanted War",
       "url": "https://open.spotify.com/track/77IBEDDiQn7theCjCciL4v"
@@ -15588,7 +15682,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 231936,
       "name": "Your Heart in My Soul",
       "url": "https://open.spotify.com/track/1rwQ3Ej9SsGD5FTlmnMqw8"
@@ -15682,6 +15776,24 @@
       "duration_ms": 84437,
       "name": "Z'jeli Dzieda",
       "url": "https://open.spotify.com/track/3x2f8JGRFnHOeUhLR3pJLg"
+    },
+    {
+      "album": {
+        "name": "Samierin\u0101\u0161an\u0101s meh\u0101nisms",
+        "url": "https://open.spotify.com/album/4zeTx0UVhpy5sI7C4ux9Y8"
+      },
+      "artists": [
+        {
+          "name": "Kr\u0101sa",
+          "url": "https://open.spotify.com/artist/2iYUghoIPDi52fL3CVI0l2"
+        }
+      ],
+      "date_added": "2026-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333000,
+      "name": "Zelts",
+      "url": "https://open.spotify.com/track/5hUZLAo0wGQmshciviNTJ4"
     },
     {
       "album": {

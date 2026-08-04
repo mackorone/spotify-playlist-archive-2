@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Wyatt Flores
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,552 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,088 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Stranger Things](https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Little Miss Twain](https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa) | 3:18 |
 | 100 | [Paradise](https://open.spotify.com/track/3mVd5gTmze4bWj0uvf6Jta) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Paradise](https://open.spotify.com/album/21vTpbjUDOu3vbAUBVHLtp) | 3:46 |
 
-Snapshot ID: `AAAAAOl3ZjVk1asaMbkzOLwMpaZAMuqM`
+Snapshot ID: `AAAAAEcIhG/3Twby6O54KWfZsakxbDxg`

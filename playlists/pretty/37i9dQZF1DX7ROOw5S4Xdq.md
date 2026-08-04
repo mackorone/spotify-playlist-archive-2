@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,894 likes - 48 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,416 likes - 48 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 47 | [Preparem o Caminho](https://open.spotify.com/track/4qjuwx4exGGzYSNGpLTrH2) | [Sarah Lanza](https://open.spotify.com/artist/6MdZMOTIGQlJUOjfT02Q2J) | [Preparem o Caminho](https://open.spotify.com/album/4xc1E3kAL5NVRpqb5JwyDF) | 6:08 |
 | 48 | [Adeus \- Acústico](https://open.spotify.com/track/2BPotMeeXclPu1i3ED3hVf) | [Priscila Olly](https://open.spotify.com/artist/5hK2DFyP32D2bS9oQzbwzy) | [Adeus \(Acústico\)](https://open.spotify.com/album/2LOyjuXvgbIZRnJR1nUcXO) | 3:26 |
 
-Snapshot ID: `AAAAAFf2MVO1E69LbZ3AtFQ+0se3KmKl`
+Snapshot ID: `AAAAAPw8qOCR3ovV09lMloQlW8gqSweN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > Chechi de Marcos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,665 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,662 likes - 99 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 98 | [Tita Merello y Alejandra Pradon](https://open.spotify.com/track/4JVBiZjMOZkEm5g8G3D2uE) | [La Prima](https://open.spotify.com/artist/0FG7hPVoLgNv0DqiNJhAec), [Juli L](https://open.spotify.com/artist/1tM9ySwkQIiVjdolnTqQoW) | [Memoria Emotiva](https://open.spotify.com/album/4GVtLUAD6BxkLNd6VN3wuu) | 3:50 |
 | 99 | [Elevados](https://open.spotify.com/track/396JLGShBHYMC67DDC8Vy3) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Emblema](https://open.spotify.com/album/2MXupQ2U7M4KdPyxGx7INp) | 3:18 |
 
-Snapshot ID: `AAAAAJOoIcLmRv1R82gsg3op6dsYK7cE`
+Snapshot ID: `AAAAAJ2C/EoH5DHB3QYC8tsNF3dc6hFm`

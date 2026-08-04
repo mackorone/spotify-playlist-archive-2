@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Donnie & Robert van Hemert, Jiggy Djé, Lenny Monsou en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,301 likes - 102 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,200 likes - 102 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 80 | [Slip](https://open.spotify.com/track/1X0K8nDSoCHMt9qZOOA4pU) | [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Slip](https://open.spotify.com/album/2BIhdL6klX2WyZIebY9ukR) | 2:24 |
 | 81 | [Date Night](https://open.spotify.com/track/3kddxpf7WLApBv8pRTCn49) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Date Night](https://open.spotify.com/album/4rSBYJKVfytsfeXw2PYjNv) | 3:47 |
 | 82 | [Lover](https://open.spotify.com/track/5AYKOUgAEMJQlhvRmtIm6v) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Lover](https://open.spotify.com/album/4J1AGhfTIQlKWkHkOaqGqd) | 2:44 |
-| 83 | [soulreply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soulreply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 |
+| 83 | [soul reply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soul reply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 |
 | 84 | [Body Action](https://open.spotify.com/track/2ehc5VYZ2ktmEQO90cYjnG) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ) | [Body Action](https://open.spotify.com/album/0fTpOaTU65zAIs6UCE1xig) | 5:31 |
 | 85 | [Expensive Taste](https://open.spotify.com/track/2Q3mfoPvqOZ4TtoXr4Uyv0) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Expensive Taste](https://open.spotify.com/album/2y8hAA2WoV7ox67kYWDmul) | 3:19 |
 | 86 | [Limoncello](https://open.spotify.com/track/1FXHepYADKCyXFG895scGJ) | [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [Limoncello](https://open.spotify.com/album/6enTUxf3Pi8A9Ie90NZlWN) | 2:34 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 101 | [Pushin' On \- Radio Edit](https://open.spotify.com/track/6Ew3KMWtyrCD8glkQLf4M5) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Pushin' On](https://open.spotify.com/album/1weHSnCa3BVh3BK8A8akyy) | 3:23 |
 | 102 | [Milkshake](https://open.spotify.com/track/3YSBk5D7ntF8EiYrOiAT9i) | [Nadia Rose](https://open.spotify.com/artist/0Nc09HuPN9ELmbTCLyNKnO) | [Milkshake](https://open.spotify.com/album/4sX9KUh9gqbzmbgAVZ9koM) | 2:32 |
 
-Snapshot ID: `AAAAAORAG1zPnckdukZe/Y71iwdhJ79m`
+Snapshot ID: `AAAAAA/gIU1QdxHrWO1kL/80dp3TZn3V`

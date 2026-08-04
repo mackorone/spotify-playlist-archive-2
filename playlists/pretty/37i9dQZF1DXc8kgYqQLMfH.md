@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,107 likes - 130 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,103,864 likes - 130 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 129 | [Staring Out The Window](https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9) | [LoWorld](https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl) | [Staring Out The Window](https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR) | 2:18 |
 | 130 | [Flight](https://open.spotify.com/track/0QRnRAGO39PZNTb2CcxuZu) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Flight](https://open.spotify.com/album/7lVNYwi1kJXcdpAabXkvfw) | 1:50 |
 
-Snapshot ID: `AAAAALgWZAWC4gTMRALYunoxfHqpgozW`
+Snapshot ID: `AAAAAAsAbmAmB4YPS86pUqYMzaKj8oCR`

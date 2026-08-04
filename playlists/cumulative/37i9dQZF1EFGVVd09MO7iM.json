@@ -5331,6 +5331,24 @@
     },
     {
       "album": {
+        "name": "Addicted 2 Nostalgia",
+        "url": "https://open.spotify.com/album/7Abk5qy38W00hac6Uv2wNF"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/0BhufnDzkioznIzyaVgp7G"
+    },
+    {
+      "album": {
         "name": "Addicted To Nostalgia",
         "url": "https://open.spotify.com/album/14TFuH1XAcLG7DAU0wFWiA"
       },
@@ -5342,7 +5360,7 @@
       ],
       "date_added": "2026-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 120000,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/15PJRwSIxYCtG72eS0lP0i"
@@ -5500,7 +5518,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 198800,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq"

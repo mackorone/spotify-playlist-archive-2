@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: pszona, Nita
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,328 likes - 65 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,334 likes - 65 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 64 | [Do Ciebie](https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq) | [Natalia Marczuk](https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62) | [Do Ciebie](https://open.spotify.com/album/1iJDQdbsD2ihLg0bSLwsSG) | 3:42 |
 | 65 | [Po nocach](https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy) | [Natalia Zastępa](https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno) | [Po nocach](https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC) | 3:31 |
 
-Snapshot ID: `AAAAAFS/in01IgLyBNt6tH8ucN1BPcRP`
+Snapshot ID: `AAAAAGF9/Ck5N1GZWzU89ncvHgxPVopP`

@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 298537,
+  "num_followers": 298491,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAC3iRPS7dL5AD+vVdlHBKsP",
+  "snapshot_id": "am6IgAAAAAB9xMkKIMpKd8091FwhlWFk",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 474853,
-      "name": "It's Enough",
-      "url": "https://open.spotify.com/track/0vQ5L7OZlAqyTupWIIi1IG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backatown",
         "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 221360,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 474853,
+      "name": "It's Enough",
+      "url": "https://open.spotify.com/track/0vQ5L7OZlAqyTupWIIi1IG"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 242440,
-      "name": "5 More Days 'Til Summer",
-      "url": "https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 242440,
+      "name": "5 More Days 'Til Summer",
+      "url": "https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wandering Spirit",
         "url": "https://open.spotify.com/album/3TAd5skYEcJ9dosbhEsVgA"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 290826,
-      "name": "Black Velveteen",
-      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 238226,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 290826,
+      "name": "Black Velveteen",
+      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
     },
     {
       "added_at": null,

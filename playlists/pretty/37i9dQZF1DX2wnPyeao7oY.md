@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > New music by the heaviest independent artists and labels every Wednesday\. Cover: Grace of Arc
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,634 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,681 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 49 | [4x4](https://open.spotify.com/track/68VuJEeonhR5y7ty35jer3) | [Gideon](https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ) | [4x4](https://open.spotify.com/album/52eTAJ9h9w6Wp15kpD9qlS) | 3:08 |
 | 50 | [Dark Sun](https://open.spotify.com/track/20ByEljDWbG6mqa8NVKyhq) | [Gold Souls](https://open.spotify.com/artist/2yLXQ77ODdnVuolVeW4n2k) | [Anodes](https://open.spotify.com/album/3oIcN2JDoVUHQSgF9t1vZi) | 4:09 |
 
-Snapshot ID: `AAAAAO/PyUOA2/S50ENRgXQxdDgrtxHM`
+Snapshot ID: `AAAAAO1yZSYBIjWGhkA7rOgkZMHh+I0H`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Endah N Rhesa
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,176 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,177 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKj73Pzxb5r.md) - [plain]
 | 99 | [Somebody to Love](https://open.spotify.com/track/7cGivVuKgxzPEncphBHK4F) | [Inis](https://open.spotify.com/artist/3ZEWZc8OXQTxWyiCQrnqi3) | [Somebody to Love](https://open.spotify.com/album/4Q6vt0pyZkJ0YR3Cx1y9fA) | 3:17 |
 | 100 | [Hiduplah Yang Lama](https://open.spotify.com/track/7JVGsO49BhuRjDcGwk3KqQ) | [Sambadha](https://open.spotify.com/artist/7xKSiJ3Qq4uul4QDeq5cu9) | [Ruang Ruang Sandar](https://open.spotify.com/album/3bbAuyK0lNf5VnoeLPdWg6) | 3:20 |
 
-Snapshot ID: `AAAAACaxqZkDVWOq33bef9yCSTuVVyXO`
+Snapshot ID: `AAAAAJy2e55PkHD3NKdhuJynt1T/lg76`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 
 > Embrace the spirit of the season your favorite Americana artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,123 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,126 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 30 | [Baby, It’s Cold Outside](https://open.spotify.com/track/6CGdeRGSoKtrzFo5XSypid) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:13 |
 | 31 | [Christmas Is All Around](https://open.spotify.com/track/2EIymobQ6HOrO4gcOtQpiV) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [we did a Christmas thing](https://open.spotify.com/album/2vS1HIL3bYR8HPtM5KGU5K) | 2:39 |
 | 32 | [More Than Christmas](https://open.spotify.com/track/2AUHUlz3WsgArd1uZ4bHEj) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [More Than Christmas](https://open.spotify.com/album/4EUqxpsyCxWbhimLELMNJ6) | 3:33 |
-| 33 | [The First Noel \- 2004 Remaster](https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 2:41 |
-| 34 | [I Heard The Bells on Christmas Day](https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [I Heard The Bells on Christmas Day](https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe) | 3:09 |
-| 35 | [Christmas Time's A\-Comin' \- Live](https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b) | [Jerry Garcia Acoustic Band](https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1) | [Christmas Time's A\-Comin'](https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v) | 3:02 |
+| 33 | [I Heard The Bells on Christmas Day](https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [I Heard The Bells on Christmas Day](https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe) | 3:09 |
+| 34 | [Christmas Time's A\-Comin' \- Live](https://open.spotify.com/track/73HWCVxHIAnbjkuFDrJ67b) | [Jerry Garcia Acoustic Band](https://open.spotify.com/artist/1bpAKUPEfzaaoeYsptuIy1) | [Christmas Time's A\-Comin'](https://open.spotify.com/album/0xPg9PcMvCBTzLFuVhAi5v) | 3:02 |
+| 35 | [The First Noel \- 2004 Remaster](https://open.spotify.com/track/0HoBChp8kED3vN81I5wA5l) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Light of the Stable \(Expanded & Remastered\)](https://open.spotify.com/album/3FGUuuml7BwQVDrhb20Elz) | 2:41 |
 | 36 | [I'll Be Home for Christmas](https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [To: Kate \- A Benefit for Kate's Sake](https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX) | 3:45 |
 | 37 | [Santa Man](https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Santa Man / Hot Christmas](https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN) | 2:06 |
 | 38 | [Send Me Out Like Autumn](https://open.spotify.com/track/6YpliRFdvQHBUj70VzuY7J) | [King Margo](https://open.spotify.com/artist/4nU1TOkubLd1C3dMnPLkiR) | [Send Me Out Like Autumn](https://open.spotify.com/album/3ZLT3bHm4ksZ5AIFOEK5jJ) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YYCzZFMl6T.md) - [plain]
 | 49 | [The Heartache Can Wait \- Brandi Carlile](https://open.spotify.com/track/60XIwRbygMJzZAD09LuaeG) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Juvenile Diabetes Research Foundation: More Hope For The Holidays](https://open.spotify.com/album/1u0LAzvQ3znPUvdkg3s8ey) | 3:35 |
 | 50 | [Let It Snow](https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Let It Snow](https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh) | 2:16 |
 
-Snapshot ID: `AAAAACDTdvQHJt0x4YQyWuK5n0WtcWEu`
+Snapshot ID: `AAAAALYyHJ//Yl74A/PXVVxi0kIkBce0`

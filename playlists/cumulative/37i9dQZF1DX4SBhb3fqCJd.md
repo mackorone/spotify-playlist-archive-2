@@ -4,7 +4,7 @@
 
 > Where R&B lives\. Cover: Odeal
 
-861 songs - 1 day 23 hr 58 min
+862 songs - 2 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Alone](https://open.spotify.com/track/0UqV4f9Uyp1EwM5jxXex36) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:01 | 2023-04-28 | 2023-06-24 |
 | [Alright](https://open.spotify.com/track/3OgdnA3LYpJ6vxrfk6X3p4) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:53 | 2023-09-22 | 2024-11-09 |
 | [altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 | 2021-12-17 | 2022-03-26 |
-| [Always Be Mine \(feat\. Jordan Ward\)](https://open.spotify.com/track/1lOZSJPpreVaSCmP5M4ZjW) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Beard](https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB) | 3:42 | 2026-07-24 |  |
+| [Always Be Mine \(feat\. Jordan Ward\)](https://open.spotify.com/track/1lOZSJPpreVaSCmP5M4ZjW) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Beard](https://open.spotify.com/album/3e3940yQZe1i2GIDPNRGVB) | 3:42 | 2026-07-24 | 2026-08-04 |
 | [Always Time](https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Always Time](https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX) | 3:25 | 2024-11-22 | 2024-12-21 |
 | [AM I OKAY?!](https://open.spotify.com/track/7acblFUsVC2haLFRkHqlQZ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [AM I OKAY?!](https://open.spotify.com/album/4Tku8dpR2O31BsilYVBw91) | 3:37 | 2026-04-24 |  |
 | [Amazing \(feat\. DJ Khaled\)](https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Amazing \(feat\. DJ Khaled\)](https://open.spotify.com/album/31TqUAM6UmJdKnmkJUTmJi) | 2:40 | 2021-12-17 | 2022-01-15 |
@@ -441,7 +441,7 @@
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-04-26 | 2024-07-13 |
 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-01-24 | 2025-05-17 |
 | [LOVE ME OR LOVE ME NOT](https://open.spotify.com/track/6mSLCix3O4P8KhXNNQYVAg) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [Drugs n' Lullabies](https://open.spotify.com/album/5RCX37apVif9l79WKxKRl8) | 2:34 | 2024-08-23 | 2024-10-12 |
-| [Love n Hate](https://open.spotify.com/track/4JWsx1jeYFRBdcWj76VyRG) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 2:35 | 2026-07-31 |  |
+| [Love n Hate](https://open.spotify.com/track/4JWsx1jeYFRBdcWj76VyRG) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 2:35 | 2026-07-31 | 2026-08-04 |
 | [Love's Train](https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Love's Train](https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR) | 5:07 | 2022-03-11 | 2022-04-29 |
 | [Lullaby](https://open.spotify.com/track/0RJVZpscIbTcsV5yt6960t) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto) | [Lullaby](https://open.spotify.com/album/5HoyMzfhOVitBuQbMDnq8a) | 3:37 | 2025-07-18 | 2025-10-11 |
 | [Lullaby](https://open.spotify.com/track/1mOwVgwbD4HWrATknEbCMP) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto) | [Me My Songs & I](https://open.spotify.com/album/2GziuyAce7KXng6HquCtJu) | 3:37 | 2025-10-10 | 2026-04-11 |
@@ -788,6 +788,7 @@
 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 | 2023-12-01 | 2024-04-13 |
 | [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-14 | 2023-07-08 |
 | [Try Peace...](https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Try Peace...](https://open.spotify.com/album/3qThDnd30yCBWBmpu4nE8Y) | 3:40 | 2022-03-11 | 2022-05-28 |
+| [Trying Things](https://open.spotify.com/track/5kR2eJal3foVQ48L1Dp4hh) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:11 | 2026-08-03 |  |
 | [Tryna Be](https://open.spotify.com/track/0h1ednFFd4xK5SCO8mXNOe) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 2:50 | 2022-07-09 | 2022-10-22 |
 | [TWENTIES](https://open.spotify.com/track/3HYUSkSJ0iQfocqdJmJqKw) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 2:51 | 2025-07-18 | 2025-09-06 |
 | [TWENTIES](https://open.spotify.com/track/1NaSrCqTnZdlusQ82SJhGN) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TWENTIES](https://open.spotify.com/album/4XHjpeTNiyUCp2bq9bCEeW) | 2:51 | 2025-02-07 | 2025-07-19 |

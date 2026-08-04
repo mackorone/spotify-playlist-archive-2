@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 
 > Celebrating 10 years of <a href="https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg">independent artist discovery</a>\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,737 likes - 150 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,759 likes - 150 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRvrGIEgliU.md) - [plain]
 | 149 | [EXCITED!](https://open.spotify.com/track/3qE98sHohjBGmohgKOSK01) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [COLORWAY](https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy) | 1:37 |
 | 150 | [Some Day I Will](https://open.spotify.com/track/1gXzaTjAxXs0wbGPm7MTQu) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [hawi](https://open.spotify.com/artist/26IMKo1iEaPH2g8UlfW1DG) | [Some Day I Will](https://open.spotify.com/album/7kDOOZMDmpwsaDIFG9PGEC) | 3:25 |
 
-Snapshot ID: `AAAAAO2YSlY6kpcFl7mR+lGRkxP5Dl7B`
+Snapshot ID: `AAAAAI1m5t6TWDz1uX2H9/5NGd22hgWb`

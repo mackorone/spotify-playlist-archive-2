@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,253 likes - 75 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,278 likes - 75 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Tonight](https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Bastize](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [Tonight](https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh) | 2:29 |
 | 75 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 |
 
-Snapshot ID: `AAAAAGje/HPlHqU6RVwoWbq+8HzTGPyd`
+Snapshot ID: `AAAAAHdf2Tmj7EqYgMVJOFGoCcQjRpzQ`

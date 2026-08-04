@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Lenin
 
-[Spotify](https://open.spotify.com/user/spotify) - 634,708 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,980 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Chinuku Taake..](https://open.spotify.com/track/0IYJm8XIVIx7n9m3YE1D1R) | [Amritavarshini KC](https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ), [Shreshta](https://open.spotify.com/artist/15XYmkNNamD0zqH0vtdfOq) | [Pelli Choopulu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5AiCp1JTO5VUcZWfIn9MEs) | 4:51 |
 | 50 | [Manga Manga \(From "Srinivasa Mangapuram"\)](https://open.spotify.com/track/32igh3Hc2LXrFU2BxOTRuC) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Manga Manga \(From "Srinivasa Mangapuram"\)](https://open.spotify.com/album/6qlNqqctixLvmk07Rnr3qU) | 3:05 |
 
-Snapshot ID: `AAAAAAOUY8pB41EkC1VRUSK1LcEcCGuR`
+Snapshot ID: `AAAAAFblx5Lgr9BcaojWGV+2YbSo7Gra`

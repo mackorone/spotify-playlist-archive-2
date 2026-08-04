@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuVYbdq3h1k.md) - [plain]
 
 > Sí, ¡ya estamos viejos! Julieta Venegas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,568,639 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,568,010 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuVYbdq3h1k.md) - [plain]
 | 99 | [No Me Digas Que No \( Boy Like You \)](https://open.spotify.com/track/51R40lGpjmBctPsOnu0mBe) | [Nikki Clan](https://open.spotify.com/artist/5U1A3TNJisLnVodHzWjCmL) | [Nikki Clan \(Re\-Edicion\)](https://open.spotify.com/album/48A2P7kQGLe0B1aIOujWCP) | 2:56 |
 | 100 | [Torero](https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 3:37 |
 
-Snapshot ID: `AAAAAKd1CiVlr8jsAIoR+sO8Z6cXSh7Y`
+Snapshot ID: `AAAAAD4TV3LzSqoOSnfIo+fLiZSCiM8Q`

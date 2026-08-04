@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 
 > Le patrimoine de la chanson française\. Photo : Édith Piaf
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,919 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,825 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 55 | [Poupée de cire, poupée de son](https://open.spotify.com/track/1OJcI2EzUidsTVl532wkWN) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [France Gall CD Story](https://open.spotify.com/album/31UwyKsz2yvAEUf98XD5Xb) | 2:33 |
 | 56 | [Hier encore](https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 2:20 |
 | 57 | [Aline](https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Best Of](https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf) | 2:50 |
-| 58 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 |
-| 59 | [La maladie d'amour](https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK) | 3:30 |
+| 58 | [La maladie d'amour](https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La Maladie D'Amour](https://open.spotify.com/album/2VS8g9qRPdXFC3hQSIwmqK) | 3:30 |
+| 59 | [Vesoul](https://open.spotify.com/track/7LBCohUSd7WFEggfybmuzC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [Infiniment](https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf) | 3:06 |
 | 60 | [La poupée qui fait non](https://open.spotify.com/track/3OqYJWnF2v4B88YHEPuOmD) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/4V5xtW0tFqjJUlAWHHv1Rg) | 3:13 |
 | 61 | [La bohème](https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 4:05 |
 | 62 | [Santiano](https://open.spotify.com/track/4fYqKBJQDep6s2f74pkUXZ) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB) | 2:14 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTypZHlgEy1G.md) - [plain]
 | 84 | [Chez Laurette](https://open.spotify.com/track/4vLqJ8khGI4VpdINhXrxi9) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Les 50 plus belles chansons](https://open.spotify.com/album/1RjaSfFBL6CkpHO7XW9A7D) | 3:30 |
 | 85 | [Que C'est Triste Venise](https://open.spotify.com/track/7H5Jw7GQh0ij0UMGwLkdKR) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT) | [Platinum Charles Aznavour](https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv) | 2:36 |
 
-Snapshot ID: `AAAAAHgpB6CBdvPrvWVau7vZBAaEt5MD`
+Snapshot ID: `AAAAAGXmleQJGL+KqSJegC253IwWuSCo`

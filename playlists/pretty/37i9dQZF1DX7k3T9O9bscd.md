@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Boards Of Canada on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,980 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,992 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 99 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
 | 100 | [Alquimista](https://open.spotify.com/track/188iyS5xe99axE3wX2pPAD) | [COSMO](https://open.spotify.com/artist/0niuvQnEaBaBVc7nSfyaaT), [Jesse Harris](https://open.spotify.com/artist/1SE144wEx5NYxXBKH5mOqy), [CARM](https://open.spotify.com/artist/3596asOGwi58IfCICpBbQZ), [Will Graefe](https://open.spotify.com/artist/0rivjTqOUngqWm9w5tf5YH), [Jeremy Gustin](https://open.spotify.com/artist/0x3OlNZcrhjvU1nmANdMe5), [Mike Boschen](https://open.spotify.com/artist/0JT6KxolPEsNwijARLjb01), [Benjamin Lazar Davis](https://open.spotify.com/artist/120AN9sqwd6UTkZbnjDPKE) | [Alquimista](https://open.spotify.com/album/1UBCy7CCPsiZQ63hHETUNo) | 3:09 |
 
-Snapshot ID: `AAAAAEiLp5F7tS/p+I5IPcIObSyZXr2H`
+Snapshot ID: `AAAAAIeaTnMeO16cdr8jzSHm7+p+MzRw`

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: JAS, Luca Noel
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,759 likes - 74 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,592 likes - 74 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tick Tack](https://open.spotify.com/track/5bcp0jqfueM7MrOzJr7wRh) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [Tick Tack](https://open.spotify.com/album/6mZrCJQILMpTjWJnLE1JsG) | 2:22 |
-| 2 | [1 gegen 10](https://open.spotify.com/track/2P7mN7eIOHs83LQbn13QNA) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [1 gegen 10](https://open.spotify.com/album/1lVwuA3MMM4xXhJorPzSlM) | 2:18 |
+| 2 | [nach hause laufen](https://open.spotify.com/track/0gvaybSaQczeMcsdfVkLgK) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [nach hause laufen](https://open.spotify.com/album/6ExKxgzsDNXYcjbjKnW3yW) | 2:08 |
 | 3 | [Du schaust gut aus!](https://open.spotify.com/track/2YAITIEtfKNNRJFXc4m1pV) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Rocknrollst★r](https://open.spotify.com/album/02AT7gDqIz5HyWgmdG365K) | 2:14 |
-| 4 | [alles nicht so einfach](https://open.spotify.com/track/5pIf37RslcsDV2E0OzVbiY) | [Cordoba78](https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt) | [Afterhour Kaltenbrunnen](https://open.spotify.com/album/5uaStfNdA72RsRm11wz49n) | 3:04 |
+| 4 | [1 gegen 10](https://open.spotify.com/track/2P7mN7eIOHs83LQbn13QNA) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [1 gegen 10](https://open.spotify.com/album/1lVwuA3MMM4xXhJorPzSlM) | 2:18 |
 | 5 | [immernoch](https://open.spotify.com/track/2L4r4b64I3PVKOB1eVKUjF) | [JUDI&COCHO](https://open.spotify.com/artist/2s9CCCjmPTAEnN9faihtya) | [immernoch](https://open.spotify.com/album/02UrXK2KjWMVsOZEnSKpFb) | 3:20 |
 | 6 | [Pretty Boys](https://open.spotify.com/track/1z9rJxTL0tQX3XyCY9xNDf) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Pretty Boys](https://open.spotify.com/album/4Srash43o3uZAC0y9q4kwe) | 2:20 |
-| 7 | [nach hause laufen](https://open.spotify.com/track/0gvaybSaQczeMcsdfVkLgK) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [nach hause laufen](https://open.spotify.com/album/6ExKxgzsDNXYcjbjKnW3yW) | 2:08 |
-| 8 | [Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Kaputte Diamanten](https://open.spotify.com/album/7hpe6nTNGDMGvCwdTwQsNB) | 3:11 |
-| 9 | [Du](https://open.spotify.com/track/0aT7NR7uu8Hwv2vak9pcGz) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Du](https://open.spotify.com/album/2gemn4tYNAs2ZDi9svuAwp) | 3:28 |
-| 10 | [Mein Babe](https://open.spotify.com/track/6bv7sIDsYTAiieEVYR21d9) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Mein Babe](https://open.spotify.com/album/2aIkMJNj8CWocvsxh9Pvlb) | 2:04 |
+| 7 | [Mein Babe](https://open.spotify.com/track/6bv7sIDsYTAiieEVYR21d9) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Mein Babe](https://open.spotify.com/album/2aIkMJNj8CWocvsxh9Pvlb) | 2:04 |
+| 8 | [alles nicht so einfach](https://open.spotify.com/track/5pIf37RslcsDV2E0OzVbiY) | [Cordoba78](https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt) | [Afterhour Kaltenbrunnen](https://open.spotify.com/album/5uaStfNdA72RsRm11wz49n) | 3:04 |
+| 9 | [Kaputte Diamanten](https://open.spotify.com/track/39jw6XWUO7N7MGy0uQgzpx) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Kaputte Diamanten](https://open.spotify.com/album/7hpe6nTNGDMGvCwdTwQsNB) | 3:11 |
+| 10 | [Du](https://open.spotify.com/track/0aT7NR7uu8Hwv2vak9pcGz) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Du](https://open.spotify.com/album/2gemn4tYNAs2ZDi9svuAwp) | 3:28 |
 | 11 | [Rote Funken](https://open.spotify.com/track/0PkmwgqyKLlVm3bhGl4gMX) | [TRÄNEN](https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD) | [Rote Funken](https://open.spotify.com/album/43FUHNpf9JiI5Fzig6hGZT) | 2:52 |
 | 12 | [sterne](https://open.spotify.com/track/1QDU1uv3AXds91OLk3ElxT) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [sterne](https://open.spotify.com/album/32Tob9NZPAvExxg66FY53y) | 3:27 |
 | 13 | [Kairina](https://open.spotify.com/track/7ICB0Il5dcZuVjF6dvUClR) | [Luftlinie270](https://open.spotify.com/artist/6SWVilo40Nph8i52kUuAtI), [PAULINKO](https://open.spotify.com/artist/6q19W6LjTlGIOtq4n0Hc54) | [Kairina](https://open.spotify.com/album/0ESVVipy80k7wagBLxx5M0) | 2:51 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 73 | [Schwerelos](https://open.spotify.com/track/2RM8WPg6KhG3SIxtzpYyr3) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [Paula Engels](https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b) | [Schwerelos](https://open.spotify.com/album/4B2cqjCgqcDdripE2e574R) | 2:06 |
 | 74 | [ich will nicht dass du mich wieder loslässt](https://open.spotify.com/track/6WpDeRASFi6GZ558glUoKz) | [Yukno](https://open.spotify.com/artist/01JZtu3hMY7lmY36RCqzIl) | [ich will nicht dass du mich wieder loslässt](https://open.spotify.com/album/3jHziwYnTyIhRvbgTQ1DY2) | 3:27 |
 
-Snapshot ID: `AAAAALQyQ8TGa3j0fXToWGkCscSxEF0N`
+Snapshot ID: `AAAAAOOUJeJbHhVMogZOWBeqki7iEUm/`

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 6255,
+  "num_followers": 6256,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAABRcdzwnTZRlBiWZvMThKc6",
+  "snapshot_id": "am6IgAAAAABNzitXK2mFBN1cQJX/DKNg",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Carta A Mi Familia",
-      "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loco Malandro",
         "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 206133,
       "name": "Vivo En Los Angeles",
       "url": "https://open.spotify.com/track/3llJtYFMgm41fqcuaQi32S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 172554,
+      "name": "El Sobrino",
+      "url": "https://open.spotify.com/track/3I6BLpbHPGMp4bHr39Kezz"
     },
     {
       "added_at": null,
@@ -647,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 172554,
-      "name": "El Sobrino",
-      "url": "https://open.spotify.com/track/3I6BLpbHPGMp4bHr39Kezz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestro Estilo",
         "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 216448,
       "name": "Mundo Desgraciado",
       "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Carta A Mi Familia",
+      "url": "https://open.spotify.com/track/0Gz93UNrTFYWpGDziBHGMJ"
     },
     {
       "added_at": null,
@@ -763,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+        "name": "Classroom Love",
+        "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
       },
       "artists": [
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Los DL Mar",
-          "url": "https://open.spotify.com/artist/6mXXpIAnRDVzhPDludHYRf"
         }
       ],
-      "duration_ms": 191994,
-      "name": "Andaba En Pausa",
-      "url": "https://open.spotify.com/track/5fMmWArt0QdYewK6HKE4Tq"
+      "duration_ms": 256641,
+      "name": "Classroom Love",
+      "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
     },
     {
       "added_at": null,
@@ -799,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Classroom Love",
-        "url": "https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o"
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
       },
       "artists": [
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Los DL Mar",
+          "url": "https://open.spotify.com/artist/6mXXpIAnRDVzhPDludHYRf"
         }
       ],
-      "duration_ms": 256641,
-      "name": "Classroom Love",
-      "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
+      "duration_ms": 191994,
+      "name": "Andaba En Pausa",
+      "url": "https://open.spotify.com/track/5fMmWArt0QdYewK6HKE4Tq"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 182640,
+      "name": "Recordando La Sierra",
+      "url": "https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde La 48",
         "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 132555,
       "name": "Recordando Al Chavalon",
       "url": "https://open.spotify.com/track/6hUXWt86hN6CktnTHanG06"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Recordando La Sierra",
-      "url": "https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV"
     }
   ],
   "unique_name": "This Is Los Hijos De Garcia",

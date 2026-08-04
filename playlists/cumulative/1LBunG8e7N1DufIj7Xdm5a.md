@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,580 songs - 10 day 5 hr 58 min
+4,582 songs - 10 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -957,6 +957,7 @@
 | [Deadly Addiction \#Music \#NewMusic \#Viral](https://open.spotify.com/track/1YMf8qAuhK3EJqor4xc9bS) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 2:47 | 2025-09-15 |  |
 | [Deadly Paradise](https://open.spotify.com/track/1vcrlldIQ36dZoZcXOnAf4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:18 | 2025-09-16 |  |
 | [Death To The Fleshless](https://open.spotify.com/track/6aD20EMBpgClg8icXxzBiD) | [Glitch Kill](https://open.spotify.com/artist/50oWkslmqWWcUrVxKOfL4m) | [Death To The Fleshless](https://open.spotify.com/album/3QwkBQWWndUuBo6GoctMVA) | 4:37 | 2026-07-16 |  |
+| [Decay for silence](https://open.spotify.com/track/0fCmyg0l2VDo57tCzzjCiH) | [アニングスドラゴン](https://open.spotify.com/artist/0nbrD5mGsTeWQFyXKBSx3r) | [約束の地](https://open.spotify.com/album/5f7HkfplGdBOXjlCQlJDos) | 5:55 | 2026-08-03 |  |
 | [Decay of Era](https://open.spotify.com/track/6rFwkf3W1kJoo0yFbLu6E4) | [PostPunker](https://open.spotify.com/artist/0ZhbCxd91s0SK56JnAH6K8) | [Decay of Era](https://open.spotify.com/album/2F6bMFjnlnB5DHZSvmyDP0) | 3:27 | 2026-02-13 |  |
 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 | 2025-12-30 |  |
 | [Decisions](https://open.spotify.com/track/0gyylCldcBhBbnnRlrXF2Q) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5) | [Decisions](https://open.spotify.com/album/4evCvOxwrSos0EN5OgXVeM) | 2:10 | 2025-05-16 |  |
@@ -4240,6 +4241,7 @@
 | [Velvet Moonlight](https://open.spotify.com/track/2K0ExmgZ0sjmSi9XdZaKCq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Jazz ambient](https://open.spotify.com/album/0uzygXe2RNOCvNNRvpjETp) | 3:40 | 2025-08-20 |  |
 | [Velvet Moonlight \(another\)](https://open.spotify.com/track/3Pxg1w8bCSnqwIJMSGDBDO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop swing style](https://open.spotify.com/album/7JA7rjWIXI24vmR6WfEMUE) | 1:54 | 2025-09-17 |  |
 | [Velvet Moonlight \(another\)](https://open.spotify.com/track/0VyWISETamwBrFH1uDm0Eb) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Jazz ambient](https://open.spotify.com/album/0uzygXe2RNOCvNNRvpjETp) | 4:02 | 2025-08-20 |  |
+| [Velvet Sky](https://open.spotify.com/track/0xIgta9Q5wBNZAr4adiyo6) | [Becker](https://open.spotify.com/artist/1JBAK5V2WNlY6lFqztPcbh) | [Velvet Sky](https://open.spotify.com/album/68IJnapBanCWmdMcGIVESn) | 3:33 | 2026-08-03 |  |
 | [Ven a mi corazón](https://open.spotify.com/track/3kVB0157EQjSWdnbvSGouv) | [RELUCIENTE](https://open.spotify.com/artist/6CHwkn2hl7YJibB5B52P99) | [Estrella Fugaz](https://open.spotify.com/album/2Jx48hNhS9m0sGUuitBTTl) | 4:50 | 2025-06-17 |  |
 | [Vendetta Notturna](https://open.spotify.com/track/5CpvKSStVwQZyhFI2VPWda) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 3:05 | 2025-09-18 |  |
 | [Vendetta Notturna \(another\)](https://open.spotify.com/track/3daxcbP5YPZls9aXI6nWcS) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 2:37 | 2025-09-18 |  |

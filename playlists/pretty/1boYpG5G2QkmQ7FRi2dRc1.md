@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 275,510 likes - 30 songs - 1 hr 43 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 274,827 likes - 30 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 8 | [Little More \(Body Action\)](https://open.spotify.com/track/7MMBk3p5G0SyPiNiUDgjPD) | [Sean Doron](https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX) | [Little More \(Body Action\)](https://open.spotify.com/album/3KB4mdLmrMq4vhNFqbcacm) | 3:19 |
 | 9 | [Happiness Is So Sad](https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happiness Is So Sad](https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW) | 3:52 |
 | 10 | [Patigo](https://open.spotify.com/track/6RONUICnXH5jCcHEwX8Lu7) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD) | [Patigo](https://open.spotify.com/album/2tos295ovD9NdTx99fCPCf) | 3:10 |
-| 11 | [soulreply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soulreply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 |
+| 11 | [soul reply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soul reply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 |
 | 12 | [Careful](https://open.spotify.com/track/1kk2PNrO9mfMuwEGnAOipt) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Careful](https://open.spotify.com/album/524f63QHVObJQoDoYjqGPF) | 2:40 |
 | 13 | [Bring The Beat Back](https://open.spotify.com/track/1xTrhGzjQXcWZOT4Xq4tZC) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP), [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8) | [Bring The Beat Back](https://open.spotify.com/album/3lgwAztqNRf5uupPe88kOR) | 4:35 |
 | 14 | [Listen To Me](https://open.spotify.com/track/1nPlHQEL4IeM1mDGjseodk) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Listen To Me](https://open.spotify.com/album/29Rs2iU1Zd71LKHIwlupC8) | 1:47 |

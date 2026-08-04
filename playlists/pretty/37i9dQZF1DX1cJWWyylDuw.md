@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A mix of the best modern Deathcore tracks\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,532 likes - 150 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,608 likes - 150 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 149 | [SILENT DECISIONS](https://open.spotify.com/track/1gNudcyZVoiGN06iK1wd6C) | [Avalanche Effect](https://open.spotify.com/artist/1lhzMZn54qAGcj8hdoMCCb), [We Are Perspectives](https://open.spotify.com/artist/7LiYrCrbd16SPtQUDnLNms), [Screamistry](https://open.spotify.com/artist/7CfvatjUCoi2RBmE6sv3n3) | [SILENT DECISIONS](https://open.spotify.com/album/6y284pHhGTzxyHzufmv2x9) | 2:18 |
 | 150 | [MEXICO OSCURO](https://open.spotify.com/track/6PJOwbGPV7vurWVGVy6Y6O) | [DEATHMASK](https://open.spotify.com/artist/5f9fzMhIdCspKGg0uKjYt0), [Blegh! Label](https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl), [Immortal Disfigurement](https://open.spotify.com/artist/7qkUuynmt0X6RkPgvF5ttK) | [MEXICO OSCURO](https://open.spotify.com/album/5SWY7xnlu4Z7F23MlOQ8uJ) | 4:26 |
 
-Snapshot ID: `AAAAAPbgqJgsZxlXZQrE2DRiSSTGTjeD`
+Snapshot ID: `AAAAAFuU8fMmVs0PHvyswu5KQvOiYhWl`

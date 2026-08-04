@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: ERAY067, Mansur
 
-1,096 songs - 2 day 0 hr 50 min
+1,097 songs - 2 day 0 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,7 @@
 | [Hiç](https://open.spotify.com/track/4yxCEgY8VW9q7PJMsbdTdi) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Hiç](https://open.spotify.com/album/3TVx5jDMVzHyclZU3zN2Kq) | 2:36 | 2026-04-16 | 2026-05-01 |
 | [HMDL](https://open.spotify.com/track/4gB1ND5arP2TEb7ZYAUrdL) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS) | [HMDL](https://open.spotify.com/album/6Hc0LHGmWgFHtLLPkALdom) | 3:47 | 2025-03-13 | 2025-07-18 |
 | [hola hola](https://open.spotify.com/track/4va2AJCPRNFuCSm8RaPmVL) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [hola hola](https://open.spotify.com/album/2YGeHMEaSs4cHZdds4HZot) | 2:19 | 2026-06-11 | 2026-07-31 |
-| [hondacıLaR](https://open.spotify.com/track/4R7yrDbKL1tFKH8FBUyPmH) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [hondacıLaR](https://open.spotify.com/album/4ItYxXh3CsTQWruARGGEWd) | 2:04 | 2026-06-11 |  |
+| [hondacıLaR](https://open.spotify.com/track/4R7yrDbKL1tFKH8FBUyPmH) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [hondacıLaR](https://open.spotify.com/album/4ItYxXh3CsTQWruARGGEWd) | 2:04 | 2026-06-11 | 2026-08-04 |
 | [HOT](https://open.spotify.com/track/3msoxnh72Ol4my1yyatG5Z) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [HOT](https://open.spotify.com/album/5BnHNGAUUFQhAi0I4ij0uH) | 2:34 | 2025-07-10 | 2025-08-23 |
 | [Hot Baklava](https://open.spotify.com/track/022rI0RuFfCXbccNYdQF1l) | [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Hot Baklava](https://open.spotify.com/album/0rrBvjk4AUIo737hTUSM7k) | 2:20 | 2023-07-27 | 2023-08-19 |
 | [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 | 2023-11-09 | 2025-05-11 |
@@ -901,6 +901,7 @@
 | [Sorma](https://open.spotify.com/track/4MuGAGUqSlLeSiqorleqlm) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Sorma](https://open.spotify.com/album/4ZVwAlhKd1BInBEZgl5nbx) | 2:09 | 2025-03-20 | 2025-08-16 |
 | [Sorma](https://open.spotify.com/track/3931TjhYLiINn49kKUvT1F) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [Sorma](https://open.spotify.com/album/6LHurLeqLGdzRoxSiD3ZNT) | 1:56 | 2026-04-09 |  |
 | [spacetusu](https://open.spotify.com/track/04G66YxLhD9xLQJRzHHHpn) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [taycan](https://open.spotify.com/album/7emP6O2oqpLPEOhKaBceCJ) | 5:18 | 2024-11-28 | 2025-01-17 |
+| [SSS](https://open.spotify.com/track/5TfWjnUm5l3TKx6bPuwKsY) | [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [SSS](https://open.spotify.com/album/3PQiGlw2ReUeFkyzmT6ZGU) | 2:00 | 2026-08-03 |  |
 | [Star Benim](https://open.spotify.com/track/2wZE3g4VjxqtqaXzoBzKAn) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ) | [Star Benim](https://open.spotify.com/album/0z8SjhsltylI1KiBj5cl3V) | 2:50 | 2026-07-16 | 2026-07-31 |
 | [starlight](https://open.spotify.com/track/5XjpVXZ7YGNsuDPf3skmPA) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [starlight](https://open.spotify.com/album/36yjGxmEKn8vcGRcz7atA7) | 4:03 | 2024-12-12 | 2024-12-27 |
 | [STOP SMOKING](https://open.spotify.com/track/1LZdDJ0ZPxbIKP1NcvWhm5) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [STOP SMOKING](https://open.spotify.com/album/1zfzwXyOTY9LYvhkZMUxWf) | 1:37 | 2026-01-29 | 2026-05-01 |

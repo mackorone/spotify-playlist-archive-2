@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,426 likes - 150 songs - 13 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,410 likes - 150 songs - 13 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 149 | [Zeal \(feat\. Henry Seeley\)](https://open.spotify.com/track/3DL0ENqjvC8ThxivuL3AUW) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Henry Seeley](https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS) | [All The Earth](https://open.spotify.com/album/6AmRmySvr449vMyF5Eq7ty) | 4:02 |
 | 150 | [Still](https://open.spotify.com/track/6sVrA1nimqutReZF9V4n6R) | [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP) | [Still](https://open.spotify.com/album/1nFQuXVKFf4FqmJcuyG7eS) | 4:16 |
 
-Snapshot ID: `AAAAAJYZBdEX2NkiMbJuNyAZ/tl/vB4B`
+Snapshot ID: `AAAAAH0teEbubjfWOu5RUOpDbZtq2cs0`

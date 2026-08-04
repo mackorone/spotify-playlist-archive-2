@@ -3585,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "Touch And Go",
+        "url": "https://open.spotify.com/album/2IFYdN72zKgb0OojX64MTy"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241333,
+      "name": "All My Days On Thru",
+      "url": "https://open.spotify.com/track/3qmy0u5oRqoahckUhUXZ1N"
+    },
+    {
+      "album": {
         "name": "Big Ole Album Vol. 1",
         "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
       },
@@ -27734,7 +27752,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 211199,
       "name": "Humans are wild animals (2026 Summer)",
       "url": "https://open.spotify.com/track/6VclQWHVCZmcbDAhXEPq1q"
@@ -49104,7 +49122,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 227493,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/6Uo5bFsVJ7BFjzaG2ut6zZ"
@@ -55470,6 +55488,28 @@
       "duration_ms": 236933,
       "name": "Soily - One Hand Clapping Sessions",
       "url": "https://open.spotify.com/track/4ahgYKeOdXFQvnMBL2kLDZ"
+    },
+    {
+      "album": {
+        "name": "Heart (1st)",
+        "url": "https://open.spotify.com/album/1aPGbqbJ5ts9FRLo0XR6v9"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        },
+        {
+          "name": "SunoAI",
+          "url": "https://open.spotify.com/artist/20LgVzi8mg8qf9JKyDbauU"
+        }
+      ],
+      "date_added": "2026-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190037,
+      "name": "SOLEA (2026 Summer)",
+      "url": "https://open.spotify.com/track/0cc3SUvevt9TN9lkpOeRy7"
     },
     {
       "album": {

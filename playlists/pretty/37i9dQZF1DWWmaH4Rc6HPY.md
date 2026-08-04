@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Azul de Viena en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,156 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,161 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 74 | [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 |
 | 75 | [Corazón hinchado](https://open.spotify.com/track/51hwVUxXajijH8QarFV6Q7) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Corazón hinchado](https://open.spotify.com/album/2wZHlVJw1HAXlPZtnOMHl5) | 2:59 |
 
-Snapshot ID: `AAAAACmlsFofpPPkBwECmN+PMEdWZpjD`
+Snapshot ID: `AAAAAKzelRQzmKPhyDrDHh4NVh7MhT0q`

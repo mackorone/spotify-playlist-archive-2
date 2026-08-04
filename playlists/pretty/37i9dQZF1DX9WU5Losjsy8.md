@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 
 > Mit dieser Playlist hört die Party nie auf!
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,433 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,416 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9WU5Losjsy8.md) - [plain]
 | 79 | [Popopo](https://open.spotify.com/track/7KAIjJz1sLTkdeXNXoLeZz) | [Breitner](https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6) | [Popopo](https://open.spotify.com/album/28H96Y0KpEI6CQ8kqNV1aI) | 2:24 |
 | 80 | [Mozart \(Ciao Niveau\)](https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Mozart \(Ciao Niveau\)](https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB) | 2:52 |
 
-Snapshot ID: `AAAAADLlG8x56R7zCEqtjrXgL50/TNks`
+Snapshot ID: `AAAAAHBNMkpRY5HvgSbxgOU9ozMIkWg7`

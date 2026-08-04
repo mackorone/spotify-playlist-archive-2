@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-552 songs - 1 day 7 hr 19 min
+553 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Unlove](https://open.spotify.com/track/5JxRYj0zmD6AfCciOXHTCN) | [Miwa](https://open.spotify.com/artist/6Y1cYyAqPwrzXNogyOKzDd), [Go To](https://open.spotify.com/artist/73EOGQFxjF1dcHwZYL3Y76) | [Unlove](https://open.spotify.com/album/1WYDpofR1agI395mA14xCE) | 5:30 | 2025-11-06 | 2025-12-01 |
 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2026-01-17 | 2026-02-21 |
 | [Unseen](https://open.spotify.com/track/4PNJKxfbMdy8ecH9IfHlm9) | [Dascar](https://open.spotify.com/artist/1iZBGqKBPdZhVYt8O7DkHv) | [Unseen](https://open.spotify.com/album/2p6xnyiunmNlFoqXuJpUyl) | 3:23 | 2025-11-30 | 2026-01-05 |
+| [untitled](https://open.spotify.com/track/0RVvZ8l6MFAEDLpVasrzYa) | [vic hagen](https://open.spotify.com/artist/7iPpuV8sPw5MU1iJvLx8CU) | [untitled](https://open.spotify.com/album/2Sf3u0pwck1BFHuaP4crw3) | 4:04 | 2026-08-03 |  |
 | [Up on the Map \(Bonus\)](https://open.spotify.com/track/1ipZmDA8TRSdWE1X1I2rU1) | [TUFF Cookie Productions](https://open.spotify.com/artist/3hG8Zkj1Vwzrg2LqiPfELU), [Blakestyle](https://open.spotify.com/artist/0YxbMKrZgTOUWYeOdBgdoy) | [TUFF Cookie All\-Stars, Vol\. 1](https://open.spotify.com/album/1zDyXU2vigviLqfeb0r80y) | 2:39 | 2025-11-11 | 2025-12-01 |
 | [Vacío](https://open.spotify.com/track/25iohMwQe32vaFBdLdIPmx) | [Ay!Pod](https://open.spotify.com/artist/7iooJ1Ud7b6jKPnoaDu0mz) | [Vacío](https://open.spotify.com/album/6DmBFlKWiUukKLkYobKww9) | 3:29 | 2026-03-25 | 2026-05-26 |
 | [Vals de Muertos](https://open.spotify.com/track/0fbYJDN2AphsRkF9rosfjW) | [Brujo Nativo](https://open.spotify.com/artist/0fAQrIC5Rz7nvbUyDV9wCX) | [Vals de Muertos](https://open.spotify.com/album/0XlaajVRABYgWwkTVlLCTd) | 3:45 | 2025-11-03 | 2025-12-01 |

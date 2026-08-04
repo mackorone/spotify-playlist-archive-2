@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > Drift to sleep with the calm sound of crashing waves on the beach.
 
-[Spotify](https://open.spotify.com/user/spotify) - 481,006 likes - 165 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,829 likes - 165 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 | 164 | [Salty Sea Breezes](https://open.spotify.com/track/1fJnFst1A5P5b9LD7zzHTc) | [Ocean Sounds FX](https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK) | [Oceania](https://open.spotify.com/album/6BC1BnvuC4fknH2P7GBvwZ) | 2:09 |
 | 165 | [Coastal Solitude](https://open.spotify.com/track/3Sx9ldQ0aLFU0EzFpA4eUc) | [Celestial Elements](https://open.spotify.com/artist/4B3XxiV12KMgcJgh0uo9I4) | [Coastal Solitude](https://open.spotify.com/album/6ut0HdWzUcYhISevfihcvU) | 2:46 |
 
-Snapshot ID: `AAAAAIt9F1xjPpTqQT6S9eBvpFlTVfnR`
+Snapshot ID: `AAAAAFXr8aR5rwic1CgpAg+xklpFjedu`

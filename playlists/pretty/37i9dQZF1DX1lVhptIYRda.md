@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Shaboozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,653,092 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,646,536 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Hands Up](https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hands Up](https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au) | 3:14 |
 | 50 | [Would U Still Love Me](https://open.spotify.com/track/0ROj34ecLFplK2yOemsL3l) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Would U Still Love Me](https://open.spotify.com/album/72nrcGexUsf11MjeYltQYV) | 2:36 |
 
-Snapshot ID: `AAAAAEDSaJp2Jw2l/13nEcNYDsU1nGL0`
+Snapshot ID: `AAAAAIZrVFt2hWVX9H0LhZCBHIPk1lkP`

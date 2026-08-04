@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,543 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,058 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 99 | [Stop Bilang Iya](https://open.spotify.com/track/6Klr3EiAe7M0djc2eEx5fZ) | [DIKTA.](https://open.spotify.com/artist/5wRhCuhUmcR8EIpyud29nE) | [Unapologetic](https://open.spotify.com/album/6L4krj81zS3DzFJIBGbm3G) | 3:46 |
 | 100 | [Jadi Udara](https://open.spotify.com/track/6yJhH3vYp2W5zuJjAtixsq) | [Dee Lestari](https://open.spotify.com/artist/1mCcTwpEABnSVB4D8rXfRN) | [\(Jangan\) Jatuh Cinta](https://open.spotify.com/album/1l1ET8aN8W78ajd5RJ9lpc) | 3:21 |
 
-Snapshot ID: `AAAAABKmU7HYu9FP5ZXvbRtAPnpZ5P/5`
+Snapshot ID: `AAAAAEvkQfeT1paHL8Lv7cVdq5SJH7CF`

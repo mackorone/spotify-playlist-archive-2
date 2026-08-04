@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,091,427 likes - 300 songs - 17 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,090,916 likes - 300 songs - 17 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,13 +261,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 251 | [If You're Not the One](https://open.spotify.com/track/1GR048FTHqQeSuiP1qszT3) | [Kyle Juliano](https://open.spotify.com/artist/7aD2Ni3fUu66gklUFlvJi5) | [If You're Not the One](https://open.spotify.com/album/7sYhnPHNLTUaZ77lhXnbGd) | 3:55 |
 | 252 | [No One \- Acoustic](https://open.spotify.com/track/2VFf8YhTnmhWF108o9UEr7) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Playlist Vol\. 1](https://open.spotify.com/album/5CyqXyKJeRU4PGTahuE4i5) | 4:19 |
 | 253 | [My My My! \- Acoustic](https://open.spotify.com/track/4SQG8VU2qmbvgb53ptyjz9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [My My My! \(Acoustic\)](https://open.spotify.com/album/2lXAwRwgMTwcXS3NNekp6Q) | 3:43 |
-| 254 | [Mercy \- Acoustic Guitar](https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy \(Acoustic Guitar\)](https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT) | 3:41 |
-| 255 | [Heaven \- MTV Unplugged Version](https://open.spotify.com/track/38juUluQHYJdEnYuHazKXE) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/17ixV4uTZRqattFeU4h8th) | 4:30 |
-| 256 | [Rather Be](https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1) | 4:07 |
+| 254 | [Rather Be](https://open.spotify.com/track/0osBWMCpbGSGj5FVDzCTvy) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Another Bundle of Tantrums](https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1) | 4:07 |
+| 255 | [Mercy \- Acoustic Guitar](https://open.spotify.com/track/6myZDVrjLSbcezdqD0lbFr) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Mercy \(Acoustic Guitar\)](https://open.spotify.com/album/0QNjg5KFD0lugWxtDwEjIT) | 3:41 |
+| 256 | [Heaven \- MTV Unplugged Version](https://open.spotify.com/track/38juUluQHYJdEnYuHazKXE) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/17ixV4uTZRqattFeU4h8th) | 4:30 |
 | 257 | [Night Changes \- Live Acoustic Session](https://open.spotify.com/track/7faQiBLuTTOUUs8rNoA5ml) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Night Changes](https://open.spotify.com/album/7xRZJIwYJqOtv8CxNpy5A2) | 3:40 |
 | 258 | [One Call Away \- Acoustic](https://open.spotify.com/track/4qE36yuwYbHnsPzlwhrO3M) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [One Call Away \(Acoustic\)](https://open.spotify.com/album/1KMGNGGzMCjT5p9l87bY3A) | 3:09 |
-| 259 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |
-| 260 | [Let Her Go \- Acoustic](https://open.spotify.com/track/7CzVAhQeZfTLqNnzdAiqrH) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF) | 4:26 |
+| 259 | [Let Her Go \- Acoustic](https://open.spotify.com/track/7CzVAhQeZfTLqNnzdAiqrH) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF) | 4:26 |
+| 260 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |
 | 261 | [FRIENDS \- Acoustic](https://open.spotify.com/track/7cWAu4fGyUN2XAET9fuvxR) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [FRIENDS \(Acoustic\)](https://open.spotify.com/album/233AbsgzaS416igerB12cS) | 3:29 |
 | 262 | [Issues \- Acoustic](https://open.spotify.com/track/7M8d1oa1Rfvik0RRHT12wt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/7KjPQYz7xPvZ7mwfATL1E1) | 2:55 |
 | 263 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/3wm0791j8FPkG7RUYljgr8) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B) | 3:30 |
@@ -295,8 +295,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 285 | [Lonely Together \- Acoustic](https://open.spotify.com/track/3bejwgKeed56qo9OkKBaus) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Lonely Together \(Acoustic\)](https://open.spotify.com/album/0HYuE13yf1uI1i2voieXMA) | 3:02 |
 | 286 | [Demons \- Live London Sessions / 2013](https://open.spotify.com/track/4Y2ZHikCR0EApcIR3cdCdj) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons \(Live London Sessions\)](https://open.spotify.com/album/1L8DJDaKjKVfsXb26o9wRQ) | 3:07 |
 | 287 | [Stitches \- MTV Unplugged](https://open.spotify.com/track/5F7EYAefao5GQB2vUA49pP) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [MTV Unplugged](https://open.spotify.com/album/1UFwhAB6yeOVvR7UnB3wJf) | 4:23 |
-| 288 | [Younger \- Acoustic Version](https://open.spotify.com/track/4uSCwM7Ny6jvGLX12pDq5X) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Younger \(Spotify Exclusive\)](https://open.spotify.com/album/5vDC8ASHSs0jRt6uli8Nv9) | 4:12 |
-| 289 | [Middle Of The Night \- Acoustic](https://open.spotify.com/track/38AtCcTI3u5e1oW5eN7L69) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Middle Of The Night \(Acoustic\)](https://open.spotify.com/album/3wYxOBj0rzieyCcP507OhR) | 2:29 |
+| 288 | [Middle Of The Night \- Acoustic](https://open.spotify.com/track/38AtCcTI3u5e1oW5eN7L69) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Middle Of The Night \(Acoustic\)](https://open.spotify.com/album/3wYxOBj0rzieyCcP507OhR) | 2:29 |
+| 289 | [Younger \- Acoustic Version](https://open.spotify.com/track/4uSCwM7Ny6jvGLX12pDq5X) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Younger \(Spotify Exclusive\)](https://open.spotify.com/album/5vDC8ASHSs0jRt6uli8Nv9) | 4:12 |
 | 290 | [Let It Be](https://open.spotify.com/track/3KJ93VZJvSvIdlMa4eyKdX) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Let It Be](https://open.spotify.com/album/2TcbCzhl0ksRRjOZ1yVqFs) | 2:28 |
 | 291 | [Solo Dance \- Acoustic Mix](https://open.spotify.com/track/5PUqb7aCQHByJ0waXwdxkw) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance \(From Morning Till Midnight\)](https://open.spotify.com/album/4V1rw5qBzsBQriGLwql8vU) | 3:12 |
 | 292 | [Shout Out to My Ex \- Acoustic](https://open.spotify.com/track/2X4UxcPyj9hvgwmfi7c6VT) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days: The Platinum Edition](https://open.spotify.com/album/5DL2Z5x7UJsWH1HhE9j8nd) | 4:05 |
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [This Is What It Takes](https://open.spotify.com/track/4xIZj7JRC3FnGPAjmkhNeW) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/5wKylB0Zwnxz046O7po25D) | 3:50 |
 | 300 | [Be As You Are \- Acoustic](https://open.spotify.com/track/4t03qcATBoSFWGDDCo29v3) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa) | [Be As You Are \(Acoustic\)](https://open.spotify.com/album/09aTBn50hvsrcAzSuPq0oq) | 3:54 |
 
-Snapshot ID: `AAAAAIOUts2Bmye5QRWrxP5RZASlaKQM`
+Snapshot ID: `AAAAAAugkXihwkXNPbhFKimozwU6Yzj7`

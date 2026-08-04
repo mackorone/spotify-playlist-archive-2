@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 55394,
+  "num_followers": 55402,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAAAjNWYiRkL1QRtdkLANfUL",
+  "snapshot_id": "am6IgAAAAADuSlGxE3WjoiuO7qUURBRw",
   "tracks": [
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 232360,
-      "name": "Take Me with You",
-      "url": "https://open.spotify.com/track/537nH5KmoBpj5sOGVzxVEa"
+      "duration_ms": 200807,
+      "name": "Leave It All Behind",
+      "url": "https://open.spotify.com/track/2iPZW9H37FBM39iVcmDsnz"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 200807,
-      "name": "Leave It All Behind",
-      "url": "https://open.spotify.com/track/2iPZW9H37FBM39iVcmDsnz"
+      "duration_ms": 232360,
+      "name": "Take Me with You",
+      "url": "https://open.spotify.com/track/537nH5KmoBpj5sOGVzxVEa"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sailor, Sail On",
-        "url": "https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 248136,
-      "name": "Sailor, Sail On",
-      "url": "https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u653e\u751f\u4f1a",
         "url": "https://open.spotify.com/album/37asoWjHlM134Da94j5kAc"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 183000,
       "name": "\u30c9\u30e9\uff11\u72ec\u8d70",
       "url": "https://open.spotify.com/track/7Ij982d8c03oFU29uDoGy6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sailor, Sail On",
+        "url": "https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 248136,
+      "name": "Sailor, Sail On",
+      "url": "https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC"
     },
     {
       "added_at": null,

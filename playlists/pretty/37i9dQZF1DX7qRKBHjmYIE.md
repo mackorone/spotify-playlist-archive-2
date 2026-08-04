@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Niko Rubio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,302 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,009 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 99 | [Si Es Verdad](https://open.spotify.com/track/64FLKmzgsDYXIj0S37de7W) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Si Es Verdad](https://open.spotify.com/album/4PmJkc7tLBzrQt2dBfdWHr) | 2:51 |
 | 100 | [Yo Me Consiento](https://open.spotify.com/track/2kji9DnnKcwwQb1RPyq2NA) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yo Me Consiento](https://open.spotify.com/album/1vkWSOJCklozznNvK9hvkw) | 2:32 |
 
-Snapshot ID: `AAAAAKQgWNdmHngD9WIaRL7GoOqGm24E`
+Snapshot ID: `AAAAAATeyNJXYGJAZe+wMHy19jNJW0/b`

@@ -5520,7 +5520,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 141891,
       "name": "Solar",
       "url": "https://open.spotify.com/track/3g7MPrFgtKspgboTWgB6rM"
@@ -5680,6 +5680,28 @@
       "duration_ms": 176326,
       "name": "Suite 45",
       "url": "https://open.spotify.com/track/1cJWeIZR2dFwCMibjx7zWc"
+    },
+    {
+      "album": {
+        "name": "Teimosia",
+        "url": "https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw"
+      },
+      "artists": [
+        {
+          "name": "Mya Akoma",
+          "url": "https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166863,
+      "name": "S\u00f3",
+      "url": "https://open.spotify.com/track/46czY9226dZK0vH56kvJN3"
     },
     {
       "album": {

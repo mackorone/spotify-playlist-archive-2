@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 70 | [bandnamegenerator](https://open.spotify.com/track/7mKaQdRtbklBIShjw7ZVLl) | [Coalmine Canary](https://open.spotify.com/artist/3ttyYm2zkgPCUuhqaoWiYQ) | [On Today's Weather Forecast: EVERYTHING ALL AT ONCE](https://open.spotify.com/album/5UFCUYjHl1GLqnNiRNEGfc) | 3:57 |
 | 71 | [Fashion Week](https://open.spotify.com/track/3ozXv8t1akzYPkgvkqtpCk) | [The Awkward](https://open.spotify.com/artist/2NNlnlNi1c4gEqp3BFQ2Ci) | [Fashion Week](https://open.spotify.com/album/2kSJHERGTck6gWQYaAKFBF) | 3:19 |
 | 72 | [fornow](https://open.spotify.com/track/480gKBqtmTwVhwexz1how7) | [tenderblom](https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl) | [ep1](https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0) | 2:24 |
-| 73 | [Memories](https://open.spotify.com/track/3SD4rpJ0PeaIPzJUi0SRSE) | [Faradays](https://open.spotify.com/artist/7pY3f9cvVm9WNZNGJuohjD) | [Memories](https://open.spotify.com/album/7db55fGyJSN2PBidi9pPM1) | 3:39 |
-| 74 | [Heart on the line](https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E) | [LAHAYE](https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH) | [Heart on the line](https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W) | 3:35 |
+| 73 | [Heart on the line](https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E) | [LAHAYE](https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH) | [Heart on the line](https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W) | 3:35 |
+| 74 | [Memories](https://open.spotify.com/track/3SD4rpJ0PeaIPzJUi0SRSE) | [Faradays](https://open.spotify.com/artist/7pY3f9cvVm9WNZNGJuohjD) | [Memories](https://open.spotify.com/album/7db55fGyJSN2PBidi9pPM1) | 3:39 |
 | 75 | [Waiting](https://open.spotify.com/track/73OObOaztvXbVA4kgYukXK) | [Amelie Spinks](https://open.spotify.com/artist/2msCn66H8nedyo0JqNg9aH) | [Warm Light](https://open.spotify.com/album/6muYDkSY3YNgBlq7UX4ovU) | 3:09 |
 | 76 | [ME HART IS OP](https://open.spotify.com/track/2HsAFzJtwbG74Up1Empt0W) | [kruzer](https://open.spotify.com/artist/7t1cc3OFyt4UbJnQNaTAcY) | [WEET NIET WAT JE ZIET IN MIJ](https://open.spotify.com/album/6QCoW49AfDKtQsk3A3SjJJ) | 2:49 |
 | 77 | [April](https://open.spotify.com/track/4bejcoOHGSHN9TuvHOQ9vk) | [RubinCarter](https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn) | [Still In The Race](https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj) | 2:43 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTSvDxgY1oa.md) - [plain]
 | 88 | [chaos oasis](https://open.spotify.com/track/6nebKidwaw9loPQXtXrg49) | [xico](https://open.spotify.com/artist/7ni53ZghzEfukMwg7GawgE) | [paths of sand](https://open.spotify.com/album/2DeJRuaRJcXgbhOF14wbiJ) | 5:03 |
 | 89 | [Money up](https://open.spotify.com/track/12iXEbqQGLTKekzPkh2oCt) | [Homey](https://open.spotify.com/artist/0rUZZcbB1j3FJFvBvQ86UG), [DORTA](https://open.spotify.com/artist/5kvKtUiKqDtdvIRVj0iWlO), [jejokaki](https://open.spotify.com/artist/2hNebmSFON3Jl4XiGo84bE) | [Southside II](https://open.spotify.com/album/4Szav219BDBKGamqyD3hxf) | 2:13 |
 
-Snapshot ID: `AAAAAPUGcNMKpNhDVc0WCeBJYWflPyMP`
+Snapshot ID: `AAAAAJP/h4cwS/xtG2+yTYCwmBbKwUzy`

@@ -1,12 +1,12 @@
 {
   "description": "Ag\u00e1rrense fuerte.",
-  "num_followers": 158342,
+  "num_followers": 158359,
   "original_name": "Lentos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGpdzXF8PQaZi5vv9h3oAG4dSIw+",
+  "snapshot_id": "AAAAACBLtbHFhdaHt/x4sy9bCIs8p4DK",
   "tracks": [
     {
       "added_at": "2024-06-14 18:07:20",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "21' Sampler",
-        "url": "https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "...But Seriously",
         "url": "https://open.spotify.com/album/041chign4EX8Qmq9hlsSe9"
       },
@@ -783,22 +767,6 @@
     {
       "added_at": "2024-06-14 18:07:20",
       "album": {
-        "name": "GRRR! (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Angie",
-      "url": "https://open.spotify.com/track/1qZyPLjhDZCxOnGySMdfHu"
-    },
-    {
-      "added_at": "2024-06-14 18:07:20",
-      "album": {
         "name": "20 Mejores Melodias Encadenadas Vol.5",
         "url": "https://open.spotify.com/album/26czPJ2HW2iFWXEEOUcpqA"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 229746,
       "name": "You're The Inspiration",
       "url": "https://open.spotify.com/track/2Z7bUp8cJKTM9eoj7hvWXG"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "21' Sampler",
+        "url": "https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN"
+    },
+    {
+      "added_at": "2024-06-14 18:07:20",
+      "album": {
+        "name": "GRRR! (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "Angie",
+      "url": "https://open.spotify.com/track/1qZyPLjhDZCxOnGySMdfHu"
     },
     {
       "added_at": "2024-06-14 18:07:20",

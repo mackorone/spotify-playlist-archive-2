@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,452,233 likes - 200 songs - 14 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,451,709 likes - 200 songs - 14 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 199 | [NGF](https://open.spotify.com/track/2K3c88SbqrkGosh9fmT1gU) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [NGF](https://open.spotify.com/album/61TRAd9Tg1iyyPmYnAnyoS) | 6:44 |
 | 200 | [The Hard Way](https://open.spotify.com/track/2LxFLV3dgQe6Uda8hsxa85) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [The Hard Way](https://open.spotify.com/album/5m2Q3oK9YWukiHXI378NDy) | 3:04 |
 
-Snapshot ID: `AAAAALTcRp0ep7crWvA53P/SSkOJP8yr`
+Snapshot ID: `AAAAAP+RASFOjEI1+weA0/dU5Bfp3bic`

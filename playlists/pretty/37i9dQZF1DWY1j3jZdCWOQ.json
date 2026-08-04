@@ -1,12 +1,12 @@
 {
   "description": "Spain minus the S =",
-  "num_followers": 589177,
+  "num_followers": 589227,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI4XXLJE293n5L/avPd13DqB0jIH",
+  "snapshot_id": "AAAAAKq8G9gFZl0mjiVPrqTu1EdVCzxV",
   "tracks": [
     {
       "added_at": "2026-04-07 21:11:18",
@@ -2363,6 +2363,26 @@
     {
       "added_at": "2026-04-07 21:11:18",
       "album": {
+        "name": "Docket (feat. Bully)",
+        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        },
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "Docket (feat. Bully)",
+      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
+    },
+    {
+      "added_at": "2026-04-07 21:11:18",
+      "album": {
         "name": "Good Girls (Don\u2019t Get Used)",
         "url": "https://open.spotify.com/album/0fhPAKZGUPYLnK5gyoZB2G"
       },
@@ -2407,26 +2427,6 @@
       "duration_ms": 264676,
       "name": "Twin Size Mattress",
       "url": "https://open.spotify.com/track/0Kd1R41kTx9Uzk30yv5PP7"
-    },
-    {
-      "added_at": "2026-04-07 21:11:18",
-      "album": {
-        "name": "Docket (feat. Bully)",
-        "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        },
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Docket (feat. Bully)",
-      "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
     },
     {
       "added_at": "2026-04-07 21:11:18",

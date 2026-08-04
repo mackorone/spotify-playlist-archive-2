@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: Andrea Bejar
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,293 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,650 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Baldosas Amarillas](https://open.spotify.com/track/7qEd0ZZUxcD0BhaAPrHZib) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Baldosas Amarillas](https://open.spotify.com/album/0VtrFuR6cadEBhZQ1zOQdz) | 3:12 |
 | 50 | [Desconectado](https://open.spotify.com/track/42WCujGerdQ4TuVfFjZFou) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Desconectado](https://open.spotify.com/album/4rDEoVpf2mTtkPOwbmAATn) | 3:27 |
 
-Snapshot ID: `AAAAACKAvr2J8mRlTGkRloU3v3tl5oLm`
+Snapshot ID: `AAAAAIl9UFF5A0ppgKcgW26xXNswMwQI`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 
 > focus modus is aan en leren maar
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,353 likes - 176 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,346 likes - 176 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,8 +146,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 136 | [Sleepless City](https://open.spotify.com/track/6BZVXqng1IJ5PRNUjKFlIC) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Something Good](https://open.spotify.com/album/7uHDUPls4X3mraMagaEw99) | 2:37 |
 | 137 | [My Future](https://open.spotify.com/track/1DVuojxZO0ow17J5Ihj53z) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Outsider](https://open.spotify.com/album/5JEUPADWOtiacVATAXBMHk) | 3:25 |
 | 138 | [Are You Still Sad?](https://open.spotify.com/track/1KRdjt2jijCnRj7HjvuPmd) | [LÖNA](https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9) | [Are You Still Sad?](https://open.spotify.com/album/5CbSQeKzlBtgSQN8NUOshS) | 3:57 |
-| 139 | [drowning](https://open.spotify.com/track/6St9dgtUT0cFVeAPgZkn1g) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [drowning](https://open.spotify.com/album/3lzeglkUrTD04azoIRfvkz) | 2:34 |
-| 140 | [Waiting For You](https://open.spotify.com/track/4JlmHpay5SIOpc0HttOz2V) | [Monday](https://open.spotify.com/artist/2QdvFxDbJCy6w1TBx4nKGY) | [Waiting For You](https://open.spotify.com/album/6CBLXRfN2rYZxUdQ41XCoF) | 3:02 |
+| 139 | [Waiting For You](https://open.spotify.com/track/4JlmHpay5SIOpc0HttOz2V) | [Monday](https://open.spotify.com/artist/2QdvFxDbJCy6w1TBx4nKGY) | [Waiting For You](https://open.spotify.com/album/6CBLXRfN2rYZxUdQ41XCoF) | 3:02 |
+| 140 | [drowning](https://open.spotify.com/track/6St9dgtUT0cFVeAPgZkn1g) | [Mia Nicolai](https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ) | [drowning](https://open.spotify.com/album/3lzeglkUrTD04azoIRfvkz) | 2:34 |
 | 141 | [Someone Like You](https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:45 |
 | 142 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
 | 143 | [Lost Without You](https://open.spotify.com/track/3cWI6Hj9LQ0MfMuhw9uSMc) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Freya Ridings](https://open.spotify.com/album/3dcenoRctm8OAnqoCrQrLd) | 3:45 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeS4XzRgJG0.md) - [plain]
 | 175 | [Teach Me How To Dance With You](https://open.spotify.com/track/5Yp0jLnqMh0DZcy9Bfqiho) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [100x Winter 2015](https://open.spotify.com/album/6mFh8ub8d2MExl6pgK9OD0) | 3:24 |
 | 176 | [Use Somebody](https://open.spotify.com/track/4PwNy6Qj8bdkyRXuwNXeEO) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [538 Hitzone 52](https://open.spotify.com/album/77uxqg6rzVeb3gnAtue7ss) | 3:25 |
 
-Snapshot ID: `AAAAACgwrFE0EdMyGMZPT6lJa3GRmllx`
+Snapshot ID: `AAAAAJhMK6orc3kROmiLQFq+qYcNR85B`

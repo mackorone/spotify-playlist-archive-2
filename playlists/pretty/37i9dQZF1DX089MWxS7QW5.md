@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: siso & ALICE U\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,923 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,925 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ain't Good](https://open.spotify.com/track/7FVPqMlNjyhp6J91NlDtvI) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry), [ALICE U](https://open.spotify.com/artist/3DwCWZ5Zgo2ePZZM5cC8lT) | [Ain't Good](https://open.spotify.com/album/1COvneAJhKJgdD4lof33Ka) | 3:04 |
 | 2 | [love me not \(feat\. Wonstein\)](https://open.spotify.com/track/5wwLEmOTkShwvkzu621069) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [love me not \(feat\. Wonstein\)](https://open.spotify.com/album/7KpCgT23aD7sF3B1gKJfos) | 2:30 |
-| 3 | [SPEEED \(feat\. JUSTHIS, Justin Park\)](https://open.spotify.com/track/0oGriEaQ1Bvo31FsIVmEMf) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [JUSTHIS](https://open.spotify.com/artist/6FYDXXEMicr6w55KTboFOH), [Justin Park](https://open.spotify.com/artist/4egd57eyEccqfOkHxoQqAj) | [SPEEED](https://open.spotify.com/album/4pBSk3ZDDmsKkYvBNJGAO3) | 3:44 |
+| 3 | [SPEEED \(feat\. JUSTHIS, Justin Park\)](https://open.spotify.com/track/0oGriEaQ1Bvo31FsIVmEMf) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [저스디스 \(JUSTHIS\)](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3), [Justin Park](https://open.spotify.com/artist/4egd57eyEccqfOkHxoQqAj) | [SPEEED](https://open.spotify.com/album/4pBSk3ZDDmsKkYvBNJGAO3) | 3:44 |
 | 4 | [Summer Returns](https://open.spotify.com/track/6MTRVCpq2oYiMohCEDhulb) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Summer Returns](https://open.spotify.com/album/0feiOeedoEXYfQg80qACla) | 2:43 |
 | 5 | [Thursday \(Feat\. Leellamarz, Crush\)](https://open.spotify.com/track/5JesN4KTmkq87xWJKUZdka) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [HBK](https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr) | 2:59 |
 | 6 | [POSE \(with\. Chloe Kim\)](https://open.spotify.com/track/6sTslEqIBZq9G3pzYeuMpF) | [G\. Nine](https://open.spotify.com/artist/6KyAMbfO1f5yIQjh9WWYDa), [Chloe Kim](https://open.spotify.com/artist/6Yzgf7VD94ioqqVX8ZcTm1) | [POSE](https://open.spotify.com/album/29pBCwnwfAtxq4vcsOYPTk) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [Stuck in My Head](https://open.spotify.com/track/0oQWm8tjM9RT194in5CMe4) | [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [In My Head](https://open.spotify.com/album/30ZqZCE8cENooyfKImZUCi) | 2:33 |
 | 50 | [arrrt.](https://open.spotify.com/track/6cwELvkSjzUsZsg2RECEaC) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [arrrt.](https://open.spotify.com/album/63sekW5NE6xlNLj2q3ZB95) | 2:14 |
 
-Snapshot ID: `AAAAAA2sP7XxVQuZIyXpcWpO6MtqLr7X`
+Snapshot ID: `AAAAADML9JLBg4/m8+/kdKaQo209y1Xb`

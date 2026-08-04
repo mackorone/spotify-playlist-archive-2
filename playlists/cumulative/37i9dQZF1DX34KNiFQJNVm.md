@@ -2,9 +2,9 @@
 
 ### [Novidades da Semana](https://open.spotify.com/playlist/37i9dQZF1DX34KNiFQJNVm)
 
-> Os lançamentos dessa semana incluem  Lauana Prado, KAROL G, Greta Van Fleet, Michelle Andrade, Jão, Péricles com Ferrugem e muito mais!
+> Os lançamentos dessa semana incluem  Lauana Prado, KAROL G, Greta Van Fleet, Michele Andrade, Jão, Péricles com Ferrugem e muito mais!
 
-19,255 songs - 40 day 21 hr 27 min
+19,256 songs - 40 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5434,6 +5434,7 @@
 | [Ela diz](https://open.spotify.com/track/2o7p1pK5AIQ3uYlpCyeFp1) | [MC Leozinho ZS](https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Ela diz](https://open.spotify.com/album/1w3PXAn9xkEhHMd4Xm80gO) | 3:20 | 2023-08-18 | 2023-08-26 |
 | [Ela Encanta \- REWIND](https://open.spotify.com/track/0HZkeeYZUztwqFqscxtNMR) | [Marina Peralta](https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O) | [Ela Encanta \(REWIND\)](https://open.spotify.com/album/1HhFjzH7nEsvCBlB1Tqft2) | 3:36 | 2023-03-24 | 2023-04-01 |
 | [Ela Escolheu o Mau](https://open.spotify.com/track/6zPAg7IO2jtwFI7oXV3ocD) | [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m), [Dj Wesley Gonzaga](https://open.spotify.com/artist/0PLUhcaPtfTkL6ckBw0btt) | [Ela Escolheu o Mau](https://open.spotify.com/album/3M3BKzvpOBCFQV9uZf5hWl) | 1:51 | 2022-09-02 | 2022-09-10 |
+| [ELA ESCONDE A PLACA](https://open.spotify.com/track/7CLSW3Ergixxojwt72L6PF) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [DoubleD](https://open.spotify.com/album/1afquv9tgkdCXaZDCS3r4Z) | 2:21 | 2026-08-03 |  |
 | [Ela Faz a Selfie Faz Carão](https://open.spotify.com/track/7coJZGlnXDr1jKLT3OwTsG) | [Dj Olliver](https://open.spotify.com/artist/6akRUh5g0XiVQaZj6U23fd), [DJ Patrick Muniz](https://open.spotify.com/artist/2MUXvv3lFulPYMUCtNrEBu), [Pet & Bobii](https://open.spotify.com/artist/2lJQn1DHF1ipwxytJBMljq) | [Ela Faz a Selfie Faz Carão](https://open.spotify.com/album/28xQCJOopYYDLrDTBxFr5Y) | 3:00 | 2022-02-05 | 2022-02-12 |
 | [Ela Faz Macete](https://open.spotify.com/track/3vB43OqtDPvVg7a1vs9Rkl) | [Thiaguinho MT](https://open.spotify.com/artist/0yApzRdrUqTGqX9MULdnmV), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Ela Faz Macete](https://open.spotify.com/album/19Q9md6vtj59TGOKRAOJt6) | 2:32 | 2023-12-08 | 2024-01-05 |
 | [Ela Gosta de Rave](https://open.spotify.com/track/5LblYMGEfIGObdIFUhvIUw) | [Jotavê](https://open.spotify.com/artist/7vuLSxTFztprQ8dW0sX47p) | [Ela Gosta de Rave](https://open.spotify.com/album/5fUFxsQtsGdFPFRTQM8nqu) | 2:40 | 2022-06-10 | 2022-06-18 |

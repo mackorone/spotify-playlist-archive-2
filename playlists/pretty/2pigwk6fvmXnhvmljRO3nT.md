@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,570 songs - 21 day 19 hr 19 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,571 songs - 21 day 19 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8578,5 +8578,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8568 | [Linger \- Remastered 2026](https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 4:34 |
 | 8569 | [Dreams \- Remastered 2026](https://open.spotify.com/track/458JkK5eJhh4C4s6nTuz7g) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 4:33 |
 | 8570 | [Riptide](https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT) | 3:24 |
+| 8571 | [Invitation of Windblume](https://open.spotify.com/track/5dDZCZJ8q7WGQUdAImxcUW) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Shimmering Voyage \(Original Game Soundtrack\)](https://open.spotify.com/album/3Zw9PiPgAvNtNUnusZAcva) | 1:27 |
 
-Snapshot ID: `AAAMko9DGg4/+OT7Qj71AM8tVFThL72t`
+Snapshot ID: `AAAMk80r0g/GUyTlMAxIwE9Kbz7pL+mZ`

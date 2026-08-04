@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,184 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,807 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 75 | [Vai Embrazando](https://open.spotify.com/track/1zhfU6YXa2pXUAQdG1NvBZ) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [MC Vigary](https://open.spotify.com/artist/7kT7skfOOZaxMm52OqW2Oe) | [Vai Embrazando](https://open.spotify.com/album/5wFghtLrCdOUXWBQgRwqB0) | 2:46 |
 | 76 | [Surtada \- Remix Brega Funk](https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r) | [Dadá Boladão](https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX), [Tati Zaqui](https://open.spotify.com/artist/0e68cnJyUTJu1nEuxxMSLm), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ) | [Surtada \(Remix Brega Funk\)](https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj) | 2:32 |
 | 77 | [Se Prepara 2](https://open.spotify.com/track/0CgMeXQiNYJxPVQ2EMJxdL) | [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [Se Prepara 2](https://open.spotify.com/album/6FJ7h7C0PA5UYiBW6ZZelN) | 2:27 |
-| 78 | [Cara Bacana](https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU) | 3:52 |
-| 79 | [Sentou e Gostou](https://open.spotify.com/track/6V43u5SCjkfMpxMAXRPifr) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/6AOEqzfVwc33EyNLLzZRaY) | 2:43 |
+| 78 | [Sentou e Gostou](https://open.spotify.com/track/6V43u5SCjkfMpxMAXRPifr) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC M10](https://open.spotify.com/artist/2kMDiFDvjMOoLfcZbLgA6s), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Sentou e Gostou](https://open.spotify.com/album/6AOEqzfVwc33EyNLLzZRaY) | 2:43 |
+| 79 | [Cara Bacana](https://open.spotify.com/track/4BjPsq3MXBNo4Qxg40igEr) | [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6) | [Cara Bacana](https://open.spotify.com/album/6FlnkV8m1dKziisyqFtXMU) | 3:52 |
 | 80 | [Abusadamente](https://open.spotify.com/track/7vgNGxchhqDQWjKjLPTPro) | [MC Gustta](https://open.spotify.com/artist/1Rpp9XZ2UUDmW81JvQP1at), [MC DG](https://open.spotify.com/artist/7LFu0rTIuaK4oxkm80nZez) | [Abusadamente](https://open.spotify.com/album/0KbY8slBvLSmMxeiSHxKEp) | 3:35 |
 | 81 | [Bumbum Granada](https://open.spotify.com/track/4SCH5CuivFcShLpTg8lYOf) | [Mc's Zaac & Jerry Smith](https://open.spotify.com/artist/6WblGc5J26o230eRVSNGV3) | [Bumbum Granada](https://open.spotify.com/album/7LyIvTr7y2eEuG1VIizs16) | 3:07 |
 | 82 | [Kikadinha](https://open.spotify.com/track/5TUYLsiIi3tuvR2fCJjZUy) | [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Kikadinha](https://open.spotify.com/album/2AVx2BladAr16bQMbP0Qbm) | 2:26 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 92 | [Bota pra Tremer \- Remix](https://open.spotify.com/track/7mxJfqH9F3GmgS0YbaKzUA) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [REMIXES!](https://open.spotify.com/album/48tCnhhdxuroW88LjTrIhH) | 1:48 |
 | 93 | [Devagarinho \- Remix](https://open.spotify.com/track/2XWIK4pG9LNstHUAZqZCV9) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [Dennis Dj Apresenta: Funk Now](https://open.spotify.com/album/0do59jY4QowP4C8MkRlvz5) | 2:15 |
 
-Snapshot ID: `AAAAAEBelpDxqFQJ5VbHh4tT+U2y8EY1`
+Snapshot ID: `AAAAABgF+BFng6nq1skOhd7CFeE0PqlE`

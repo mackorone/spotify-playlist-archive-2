@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. RØZ en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,817 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,790 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKpHIbfDI1i.md) - [plain]
 | 74 | [Frostix](https://open.spotify.com/track/7jT6oOwJvLJ1zQZm76sh4F) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [W\. Corona](https://open.spotify.com/artist/2wqy0ojBEcx7OvHezdGDXQ) | [Frostix](https://open.spotify.com/album/39X4kjbqYNcd95pnYdF9xA) | 2:46 |
 | 75 | [Lunático](https://open.spotify.com/track/39ygkwmco9bC9czuEmOAC0) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Lunático](https://open.spotify.com/album/02BPiYExX59wG1pR0ZPGHP) | 2:58 |
 
-Snapshot ID: `AAAAAJQI2XjbMSsWWP763znIcw/jXiyZ`
+Snapshot ID: `AAAAABkivXj1w/3nId9nzOBhbFqo/mS3`

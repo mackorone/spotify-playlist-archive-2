@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,264 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,272 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Será Que É Amor / Castelo de um Quarto Só / Amor Sem Fim \- Ao Vivo](https://open.spotify.com/track/5uzquJOqYCBwr3hUX1Mn99) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Andressa Hayalla In Floripa, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1urM3PJZ7MN9qgnnlk0LOh) | 4:56 |
 | 50 | [Querendo Resolver](https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY) | [Millena Voz](https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP) | [Querendo Resolver](https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK) | 3:20 |
 
-Snapshot ID: `AAAAAMnRPFkrx3x1Uqi/ab49PLDCFyPY`
+Snapshot ID: `AAAAANAHloUpG4k7fYnzxvsSo+TIECFz`

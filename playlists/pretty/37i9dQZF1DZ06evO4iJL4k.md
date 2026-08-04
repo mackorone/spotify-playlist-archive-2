@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,190 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,170 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 28 | [Rap da Lealdade](https://open.spotify.com/track/4S9FqbHyKVul04EpbA2Jin) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Prod.MTS](https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN) | [Rap da Lealdade](https://open.spotify.com/album/1bOPoayIll75eZMxLV6lmp) | 3:01 |
 | 29 | [Reús](https://open.spotify.com/track/1WI2U2pn68FMbbMjZ0iZt8) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 4:03 |
 | 30 | [Não Desista Agora](https://open.spotify.com/track/0n9b7WrRRZkTy8CfXjbZb4) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 3:15 |
-| 31 | [Me Sinto Abençoado](https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Me Sinto Abençoado](https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD) | 3:34 |
-| 32 | [Vida Eterna](https://open.spotify.com/track/54uhguG9xPmCBB4NCbXaWw) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:22 |
+| 31 | [Vida Eterna](https://open.spotify.com/track/54uhguG9xPmCBB4NCbXaWw) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:22 |
+| 32 | [Me Sinto Abençoado](https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Me Sinto Abençoado](https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD) | 3:34 |
 | 33 | [Faça Você Mesmo](https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:47 |
 | 34 | [Poesia Acústica \#12 Pra Sempre](https://open.spotify.com/track/3aqqy9M11P6t0843xBzulv) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Luiz Lins](https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Poesia Acústica](https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z) | 7:52 |
 | 35 | [A Meu Favor](https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 49 | [Não Sou Daqui](https://open.spotify.com/track/44ewce1oaRA9AfHPRenLCe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:48 |
 | 50 | [Distante](https://open.spotify.com/track/4jx7VJCUzZpc7bVLCfaxKY) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Estrela do Rap](https://open.spotify.com/album/3hjCjfbhGRsTE3SBpLnXOX) | 2:52 |
 
-Snapshot ID: `am03AAAAAACa/G5reijegyGl56Jiacg5`
+Snapshot ID: `am6IgAAAAACTEc1UNZafJojEuNAxrwDs`

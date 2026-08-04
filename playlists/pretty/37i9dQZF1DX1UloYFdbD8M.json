@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Gowry Lekshmi",
-  "num_followers": 41278,
+  "num_followers": 41394,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKCS1lrqfKKTJZO3EfiZssP0/EHl",
+  "snapshot_id": "AAAAACVnGgYNTVsp8zGtNBHu5jNDPg4z",
   "tracks": [
     {
       "added_at": "2026-06-24 11:39:34",
@@ -271,6 +271,30 @@
       "duration_ms": 227586,
       "name": "Aayiram",
       "url": "https://open.spotify.com/track/0jcRhGAfDQqmjaYXlJm2ao"
+    },
+    {
+      "added_at": "2026-08-03 12:39:32",
+      "album": {
+        "name": "Kannoram Kaadhalaay (From \"Manohari\")",
+        "url": "https://open.spotify.com/album/6RQEE5l67KGl8eDS8eLLsT"
+      },
+      "artists": [
+        {
+          "name": "Serin Francis",
+          "url": "https://open.spotify.com/artist/5i4TkxU3gyv0At96ncroh3"
+        },
+        {
+          "name": "CM SaDiQ",
+          "url": "https://open.spotify.com/artist/3RhOvgCZlLptkSlG4owZlb"
+        },
+        {
+          "name": "Santhi Krishnan",
+          "url": "https://open.spotify.com/artist/2jI28hCt7XoTiztA8ojQ40"
+        }
+      ],
+      "duration_ms": 192775,
+      "name": "Kannoram Kaadhalaay (From \"Manohari\")",
+      "url": "https://open.spotify.com/track/0HWMdwIKMwGVjliNAF1igH"
     },
     {
       "added_at": "2026-07-10 14:56:20",

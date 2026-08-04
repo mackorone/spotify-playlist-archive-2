@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [Mi odio para el bien común](https://open.spotify.com/track/55CwDJQl6bbI9CJMPPzRMy) | [Técnicas y Procedimientos](https://open.spotify.com/artist/7zSpEAeV9StUa2heFItReM) | [Mi odio para el bien común](https://open.spotify.com/album/6g1jlKOWbGL1MfhnyCvCnu) | 2:27 |
 | 50 | [MEJOR QUE YO \(Acto I: Leviatán\)](https://open.spotify.com/track/0hnR8D0MFxHe74ZT3hWgky) | [st\. PAVLO](https://open.spotify.com/artist/2OPWBFqZpn9A45V0r0nj1K) | [MEJOR QUE YO \(Acto I: Leviatán\)](https://open.spotify.com/album/0HXxgj4mR748H6qZBQwBjB) | 2:21 |
 
-Snapshot ID: `AAAAAK+gQjZ3W0TZSfGrMgUDjXEmo7jv`
+Snapshot ID: `AAAAAFzr2VIGDnY3FNcmgJOdsEwISaqb`

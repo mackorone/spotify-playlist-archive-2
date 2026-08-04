@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,809 likes - 253 songs - 13 hr 3 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,818 likes - 256 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,5 +261,8 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 251 | [Can't find it](https://open.spotify.com/track/1ous0BqqItWJWDIJ4ThNqE) | [Ab Emson](https://open.spotify.com/artist/0VEpBBlRYdwLuBXbg6d2Re) | [Can't find it](https://open.spotify.com/album/3DdNL7aEAiVq1tq49H0iyc) | 3:00 |
 | 252 | [La Spiaggia ti Chiama](https://open.spotify.com/track/0eoE5dXsESWvDBZCD5g9mG) | [Deep Cafe Mirage](https://open.spotify.com/artist/7i6hHhDG2RZ72inJn4YNL3) | [La Spiaggia ti Chiama](https://open.spotify.com/album/5Hi6jmocxKwsCSbm5ADLsc) | 3:23 |
 | 253 | [Just the two of us](https://open.spotify.com/track/0Wz3uozIlLJzTDK29eY8rY) | [OMER AHMET](https://open.spotify.com/artist/3JVxVTJNYcvna9BAZh0n1w) | [Just the two of us](https://open.spotify.com/album/3TwtB955dmn6wGK4M7siPC) | 2:28 |
+| 254 | [Narcissistic Predator](https://open.spotify.com/track/6YtHSua92VyLR8x7KH8MHs) | [Shivonne](https://open.spotify.com/artist/448afeGewpl71VuMgxwXUJ) | [Narcissistic Predator](https://open.spotify.com/album/5e861OyJCqTqtvPwmy6KP8) | 3:12 |
+| 255 | [Monsters in the Dark](https://open.spotify.com/track/5rlXYbn5MtYMSna4YUMmPS) | [Apt 402](https://open.spotify.com/artist/1g2ffr30jwqhE1tepdL5jJ) | [Home Sessions](https://open.spotify.com/album/01PZWxEka4HkGwKhlrzBYG) | 2:54 |
+| 256 | [fillingemptyhours](https://open.spotify.com/track/159hTXznIogDpQ6RNfhnMT) | [FYONA](https://open.spotify.com/artist/4DVQgGkceK5qLMWB9ICJkR) | [fillingemptyhours](https://open.spotify.com/album/5N7XSMUczA1HdqFLm49E38) | 3:21 |
 
-Snapshot ID: `AAA7FfRSyluNrYlNMn+qwBuvXXIqIBAK`
+Snapshot ID: `AAA7GGmmtfdQKa+ArYNRaiq1X7fhrGni`

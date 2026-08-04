@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16309,
+  "num_followers": 16308,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAAd0aKMWNiYiX/yCtpzErDw",
+  "snapshot_id": "am6IgAAAAAA3tbPgLL+wxeCM2ffC06H8",
   "tracks": [
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DADE",
-        "url": "https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 104415,
-      "name": "DADE",
-      "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIGHTS OUT",
         "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DADE",
+        "url": "https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 104415,
+      "name": "DADE",
+      "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "blame the chat",
         "url": "https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY"
       },
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a woman is a god (BIA Remix)",
-        "url": "https://open.spotify.com/album/6H3o2TGF69uezBCpFzcooK"
-      },
-      "artists": [
-        {
-          "name": "Tommy Genesis",
-          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 178662,
-      "name": "a woman is a god (BIA Remix)",
-      "url": "https://open.spotify.com/track/2hHaYh7P2cbuvuNBZK6brg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIANCA (Deluxe)",
         "url": "https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 205999,
       "name": "CARPET",
       "url": "https://open.spotify.com/track/6cG2pBAPbDgxdYPIr9Mfai"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a woman is a god (BIA Remix)",
+        "url": "https://open.spotify.com/album/6H3o2TGF69uezBCpFzcooK"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 178662,
+      "name": "a woman is a god (BIA Remix)",
+      "url": "https://open.spotify.com/track/2hHaYh7P2cbuvuNBZK6brg"
     },
     {
       "added_at": null,

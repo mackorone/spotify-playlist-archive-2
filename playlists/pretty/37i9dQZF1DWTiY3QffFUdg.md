@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,754 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,808 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 | 99 | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/track/0F0yYh9U7guh1TWuViZY25) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [The Ketchup Song \(Aserejé\)](https://open.spotify.com/album/26bNeSIqRIR07yvPW1K2h7) | 2:25 |
 | 100 | [Push It \- Ueberrest Remix](https://open.spotify.com/track/6XZQXS0D9wwI24I3hQZFrw) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [Push It \(Ueberrest Remix\)](https://open.spotify.com/album/5uLOMJab207RjQBtayElnE) | 3:34 |
 
-Snapshot ID: `AAAAACfhyfqcjhlkILrTN0D3KVIgxF5n`
+Snapshot ID: `AAAAAK8eQ93eKxlsA7oUcUzPns1m0tyG`

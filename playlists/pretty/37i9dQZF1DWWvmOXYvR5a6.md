@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: TRADE L\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,877 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,866 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 99 | [Kiss Me](https://open.spotify.com/track/3kjolpJ50jPf9Huqc3Y7jh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Is Anybody Out There?](https://open.spotify.com/album/7zYpUyqdyfgQlYu9GjMoWT) | 4:38 |
 | 100 | [withoutyou](https://open.spotify.com/track/6aMr19dWts8J6jrWCczm8m) | [Neckwav](https://open.spotify.com/artist/5bXNU0MAF2HSqyFPhYtscH), [Chaz](https://open.spotify.com/artist/4S2MHQJbgQAsUtSLQyrgKt) | [withoutyou](https://open.spotify.com/album/6htc9BgisyhWQK6c6dn5zb) | 3:37 |
 
-Snapshot ID: `AAAAAHWeHT+3J/2kqKIuZDexiASPSnaf`
+Snapshot ID: `AAAAAF4kjK3OKQu2jH7QWWQV4ORZFi0h`

@@ -4148,7 +4148,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 307677,
       "name": "Baa Nee Baa",
       "url": "https://open.spotify.com/track/1WrqTIT4SQcPO4yoI6vAiy"
@@ -9742,7 +9742,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 212709,
       "name": "Devru Sari illa (From \"Lo Naveena\")",
       "url": "https://open.spotify.com/track/6fjCV0L2oJpwjjpDC7H1qh"
@@ -14384,7 +14384,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 211412,
       "name": "Gokulada Radhe (From \"Picture\")",
       "url": "https://open.spotify.com/track/3eHIpKUzmvyUqI3U1RcPpZ"
@@ -21272,7 +21272,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 176250,
       "name": "Kadak Maal (From \"Mango Pachcha\")",
       "url": "https://open.spotify.com/track/3NSGztwAW5NLu0QLvkfw1T"
@@ -22640,6 +22640,32 @@
       "duration_ms": 159587,
       "name": "Kannanchale (From \"Asurana Kaiyalli Parijatha'')",
       "url": "https://open.spotify.com/track/5oSjNKLI32F7BGuI5J3dFg"
+    },
+    {
+      "album": {
+        "name": "Gajanana Cricketers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4gJTBxal5w9p1PKa8HablC"
+      },
+      "artists": [
+        {
+          "name": "Srajan Kumar Tonse",
+          "url": "https://open.spotify.com/artist/43Jv9Ph6w4tHafcoZJffZp"
+        },
+        {
+          "name": "Keerthan Bhandary",
+          "url": "https://open.spotify.com/artist/11tWC8HjuxlQblbCWuVATn"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "Kannike",
+      "url": "https://open.spotify.com/track/3JzXZ4t6wkXEMB3kF8wTs4"
     },
     {
       "album": {
@@ -28349,6 +28375,36 @@
     },
     {
       "album": {
+        "name": "Milky Beauty (From \"Ayogya 2\")",
+        "url": "https://open.spotify.com/album/2m6gAHURe13Pdf114cmuRl"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3DsGNNhEpv3RwfFPkcEEfY"
+        },
+        {
+          "name": "Indu Nagaraj",
+          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
+        },
+        {
+          "name": "Nishan Rai",
+          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208391,
+      "name": "Milky Beauty (From \"Ayogya 2\")",
+      "url": "https://open.spotify.com/track/4q2vxcSwEEA6fTmEtCwdII"
+    },
+    {
+      "album": {
         "name": "Mina Mina (From \"Beega\")",
         "url": "https://open.spotify.com/album/3VfoQ7yMwYGOo8odSy9vKq"
       },
@@ -32567,6 +32623,32 @@
     },
     {
       "album": {
+        "name": "Nee Nanna Jeeva (From \"Flirt\")",
+        "url": "https://open.spotify.com/album/40Y1CScYW1MWHZREz0lBpj"
+      },
+      "artists": [
+        {
+          "name": "Kiccha Sudeepa",
+          "url": "https://open.spotify.com/artist/18Ht8pd7dTLr2RLLYMJ0LA"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Chandan Kumar",
+          "url": "https://open.spotify.com/artist/0ZaJOY009Dz4J53QEaDVHE"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250991,
+      "name": "Nee Nanna Jeeva (From \"Flirt\")",
+      "url": "https://open.spotify.com/track/6gdqtFaM5gpTnil9uTkpkF"
+    },
+    {
+      "album": {
         "name": "Andhra King Taluka (Kannada)",
         "url": "https://open.spotify.com/album/4VuSRvms06huJPHGFjJb1K"
       },
@@ -32924,7 +33006,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 258368,
       "name": "Neene Beku Amma (From \"Mother Promise\")",
       "url": "https://open.spotify.com/track/1IGQ2UNBaWGY1mCN1Ur9TZ"
@@ -45110,6 +45192,32 @@
       "duration_ms": 105833,
       "name": "Tampaada Tangaali (From \"Gana\")",
       "url": "https://open.spotify.com/track/12ZrgJHWBTmTrgZbX78kN2"
+    },
+    {
+      "album": {
+        "name": "Tandani Tanano (From \"Shabari\")",
+        "url": "https://open.spotify.com/album/0uJc7UfqyyRnsxDg5FMzrT"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Sharma",
+          "url": "https://open.spotify.com/artist/7v7cmwDouWh4Bi9g0L05fz"
+        },
+        {
+          "name": "B.R. Hemanth Kumar",
+          "url": "https://open.spotify.com/artist/1zQ3bsOrUBBOYRfrj7BOAg"
+        },
+        {
+          "name": "Orata Shri",
+          "url": "https://open.spotify.com/artist/374unfuBzQbmK5vlq33mu3"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273600,
+      "name": "Tandani Tanano (From \"Shabari\")",
+      "url": "https://open.spotify.com/track/6gisQUEvKEafz2G06y0G6P"
     },
     {
       "album": {

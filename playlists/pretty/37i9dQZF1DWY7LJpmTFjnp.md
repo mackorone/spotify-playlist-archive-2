@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano,  Kinky en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 965,677 likes - 99 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 964,132 likes - 99 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 98 | [Juguete](https://open.spotify.com/track/1AP0YC81s5Gxk3wUIoQE5Q) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Juguete](https://open.spotify.com/album/1SEsHTEsKqNHVogHOV96xT) | 3:36 |
 | 99 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/2IvTvoNZP4zYhIBWRfzADg) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [Lena Campos](https://open.spotify.com/artist/2QNBnN8MHw8akBXLWKeSLz), [Moy Yos](https://open.spotify.com/artist/5ES4YRN7RwjZzCI3ASxrl6) | [La Gata Bajo la Lluvia](https://open.spotify.com/album/24pjyz91cui77AWSqBxSaX) | 3:12 |
 
-Snapshot ID: `AAAAAJqccfDnsWRt6Pg0koRGOWxjc2Q9`
+Snapshot ID: `AAAAAJXWx3kqFU8AP3nEJUAE8Hontam1`

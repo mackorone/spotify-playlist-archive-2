@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 227208,
+  "num_followers": 227144,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF7x5+WrgqP4tRyoOSVzk6ihzWbg",
+  "snapshot_id": "AAAAANlE4GWmq2CwrUDgfNU5Iiw2uPl9",
   "tracks": [
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
+        "name": "D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh"
+      },
+      "artists": [
+        {
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
+        }
+      ],
+      "duration_ms": 192765,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
         "name": "Quema Quema Quema",
         "url": "https://open.spotify.com/album/4xwCcFkvSWgvJVE52xbpJh"
       },
@@ -1551,38 +1567,6 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 192765,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
-        "name": "Caracoles",
-        "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
-      },
-      "artists": [
-        {
-          "name": "Kanaku y El Tigre",
-          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
-        }
-      ],
-      "duration_ms": 145484,
-      "name": "El Funeral",
-      "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
-    },
-    {
-      "added_at": "2026-06-24 20:03:44",
-      "album": {
         "name": "Espectro (En Vivo Desde Cuba)",
         "url": "https://open.spotify.com/album/5gACjsTLSACfENz4Ansroh"
       },
@@ -1607,22 +1591,18 @@
     {
       "added_at": "2026-06-24 20:03:44",
       "album": {
-        "name": "Pel\u00edcula Muda (Primera Parte)",
-        "url": "https://open.spotify.com/album/5I9EFpVPS5zmlzzqvWcCaC"
+        "name": "Caracoles",
+        "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
       },
       "artists": [
         {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        },
-        {
-          "name": "Catalina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Vamos a Morir",
-      "url": "https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB"
+      "duration_ms": 145484,
+      "name": "El Funeral",
+      "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
     },
     {
       "added_at": "2026-06-24 20:03:44",
@@ -1643,6 +1623,26 @@
       "duration_ms": 260974,
       "name": "Calaveritas",
       "url": "https://open.spotify.com/track/3kvZCUYzkTDGsxeH0bc1nE"
+    },
+    {
+      "added_at": "2026-06-24 20:03:44",
+      "album": {
+        "name": "Pel\u00edcula Muda (Primera Parte)",
+        "url": "https://open.spotify.com/album/5I9EFpVPS5zmlzzqvWcCaC"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        },
+        {
+          "name": "Catalina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Vamos a Morir",
+      "url": "https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB"
     },
     {
       "added_at": "2026-06-24 20:03:44",

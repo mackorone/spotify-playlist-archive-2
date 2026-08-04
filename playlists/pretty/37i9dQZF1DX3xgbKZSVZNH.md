@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 
 > All your favourite hairbrush anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,136 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,144 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 | 49 | [You're Still The One](https://open.spotify.com/track/3I4nZ14GRL7eXwFDjCEEVr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/3sbhN8QlcMeCZAX80IKoW8) | 3:32 |
 | 50 | [All By Myself](https://open.spotify.com/track/2FSaEOwQId0LYu5o49dbrG) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Eric Carmen](https://open.spotify.com/album/0351W7FeCQal5XzaR161tW) | 7:15 |
 
-Snapshot ID: `AAAAAC/r9qzHt9E5Om8oeWLLJpjK1W7W`
+Snapshot ID: `AAAAAFVxkyVvQZKdGlJI2XJ7Jtn5VC0Y`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,172 likes - 109 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,133 likes - 109 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 108 | [För nära solen](https://open.spotify.com/track/6J71OcLTKjZIIH9AlYu0LW) | [Genom Natten](https://open.spotify.com/artist/5UkGksYXrb5tn3IEjgVFb9) | [För nära solen](https://open.spotify.com/album/2p4nOd5AP57bPjXXennG1E) | 3:36 |
 | 109 | [Rodeo](https://open.spotify.com/track/4raslbaoG46LuL6wsB35qA) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2), [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Grindarna Till Ithaka](https://open.spotify.com/album/3mho6giNN5KjgBDsbyJanY) | 3:35 |
 
-Snapshot ID: `AAAAAJ7dhut+xvnzWei1wiaUpPJNzIh+`
+Snapshot ID: `AAAAALO1nz88m/D9cU3CQb2khVbCZFtA`

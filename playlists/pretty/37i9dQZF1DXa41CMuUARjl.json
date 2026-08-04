@@ -1,12 +1,12 @@
 {
   "description": "This week's best new <a href=\"spotify:genre:edm_dance\">dance and electronic releases</a> from Swedish House Mafia, Ninajirachi + Porter Robinson, Arca, Julian Fijma, & more!",
-  "num_followers": 574138,
+  "num_followers": 574037,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGe5kFSNEGnnUpuMbVmBSWRXZmfm",
+  "snapshot_id": "AAAAAItZVxxMr+NaD8B2n+DbbPXd7GSS",
   "tracks": [
     {
       "added_at": "2026-07-31 04:13:53",
@@ -62,6 +62,10 @@
         {
           "name": "Fred again..",
           "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/35ABlY3T6NbUaD7trf8BGd"
         }
       ],
       "duration_ms": 175813,
@@ -303,7 +307,7 @@
     {
       "added_at": "2026-07-31 04:13:53",
       "album": {
-        "name": "soulreply",
+        "name": "soul reply",
         "url": "https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H"
       },
       "artists": [
@@ -317,7 +321,7 @@
         }
       ],
       "duration_ms": 179311,
-      "name": "soulreply",
+      "name": "soul reply",
       "url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8"
     },
     {
@@ -1668,12 +1672,12 @@
           "url": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
         },
         {
-          "name": "JONCASS",
-          "url": "https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025"
-        },
-        {
           "name": "SVDKO",
           "url": "https://open.spotify.com/artist/0bhDbXEM9xuKfuQWXmUHHt"
+        },
+        {
+          "name": "JONCASS",
+          "url": "https://open.spotify.com/artist/3JH8SMhKgkplKreWHSY025"
         }
       ],
       "duration_ms": 195428,
@@ -2449,6 +2453,30 @@
       "url": "https://open.spotify.com/track/6mhGRoFehY2OeSNjqtYy9s"
     },
     {
+      "added_at": "2026-07-31 04:13:53",
+      "album": {
+        "name": "Don't Listen",
+        "url": "https://open.spotify.com/album/6lEbi8GK0uL1HlpREH5TFx"
+      },
+      "artists": [
+        {
+          "name": "Gio Lucca",
+          "url": "https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74"
+        },
+        {
+          "name": "Justin Rabin",
+          "url": "https://open.spotify.com/artist/6BxPifFRPEvAX1gyMxnCmv"
+        },
+        {
+          "name": "Arcade 82",
+          "url": "https://open.spotify.com/artist/5dpb5SgaAMD1KNUWlnE0mM"
+        }
+      ],
+      "duration_ms": 172675,
+      "name": "Don't Listen",
+      "url": "https://open.spotify.com/track/0bENXgIWAJkXYrMoubXPLO"
+    },
+    {
       "added_at": "2026-07-31 15:44:31",
       "album": {
         "name": "Respect",
@@ -2479,30 +2507,6 @@
       "duration_ms": 166153,
       "name": "Don't Push Me",
       "url": "https://open.spotify.com/track/6jywGdBJyzZN2a0IuiLdkH"
-    },
-    {
-      "added_at": "2026-07-31 04:13:53",
-      "album": {
-        "name": "Don't Listen",
-        "url": "https://open.spotify.com/album/6lEbi8GK0uL1HlpREH5TFx"
-      },
-      "artists": [
-        {
-          "name": "Gio Lucca",
-          "url": "https://open.spotify.com/artist/6bzkE76ArC0nIuNKH04T74"
-        },
-        {
-          "name": "Justin Rabin",
-          "url": "https://open.spotify.com/artist/6BxPifFRPEvAX1gyMxnCmv"
-        },
-        {
-          "name": "Arcade 82",
-          "url": "https://open.spotify.com/artist/5dpb5SgaAMD1KNUWlnE0mM"
-        }
-      ],
-      "duration_ms": 172675,
-      "name": "Don't Listen",
-      "url": "https://open.spotify.com/track/0bENXgIWAJkXYrMoubXPLO"
     },
     {
       "added_at": "2026-07-31 04:13:53",

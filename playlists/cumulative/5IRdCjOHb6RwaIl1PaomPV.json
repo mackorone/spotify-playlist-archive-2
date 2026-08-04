@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer,  Eartheater, the sound that chalk makes, Effie, evilgiane, &amp; more.",
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer,  the sound that chalk makes, Jam City, Sofii, &amp; more.",
   "name": "Mad Decent Weekly",
   "tracks": [
     {
@@ -6238,7 +6238,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 91312,
       "name": "Ferrari (idk____wbu Remix)",
       "url": "https://open.spotify.com/track/3bUdTLWIklAmkVCGeWtYxe"
@@ -6694,6 +6694,24 @@
       "duration_ms": 170200,
       "name": "Fruit Punch",
       "url": "https://open.spotify.com/track/7CyhZ5LltpFjORD0o8FErx"
+    },
+    {
+      "album": {
+        "name": "FU : ILY",
+        "url": "https://open.spotify.com/album/0s5WRpopYusuMFTmedJMIN"
+      },
+      "artists": [
+        {
+          "name": "the sound chalk makes",
+          "url": "https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "FU : ILY",
+      "url": "https://open.spotify.com/track/6bJYxgGcvR9tqpGQLApNO0"
     },
     {
       "album": {
@@ -9012,6 +9030,24 @@
       "duration_ms": 191309,
       "name": "IWBYH",
       "url": "https://open.spotify.com/track/18j4LHP2roK3m3IO46xayi"
+    },
+    {
+      "album": {
+        "name": "iwtfy",
+        "url": "https://open.spotify.com/album/1rpLkRaC2Q39NNJmDd8H4K"
+      },
+      "artists": [
+        {
+          "name": "sofii",
+          "url": "https://open.spotify.com/artist/64dpkfHFURICfsoMjI4yOS"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235788,
+      "name": "iwtfy",
+      "url": "https://open.spotify.com/track/6ZNjkGZhZo4AbGEIDulVrH"
     },
     {
       "album": {
@@ -11370,7 +11406,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 181656,
       "name": "musica electronica",
       "url": "https://open.spotify.com/track/259kNeFoQp9TyTZdDBBznX"
@@ -11440,6 +11476,36 @@
       "duration_ms": 116165,
       "name": "my side",
       "url": "https://open.spotify.com/track/3oIGdH77ll3NJsAcnMMFk5"
+    },
+    {
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/01W4y44wtQqtXXM1vqk7E9"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "Aidan",
+          "url": "https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW"
+        },
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        },
+        {
+          "name": "Ox Eye",
+          "url": "https://open.spotify.com/artist/3PRRqlvLDhTcHnp4mQkqA3"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210542,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/0745bZpt5Oo7SLkbDvcO3X"
     },
     {
       "album": {
@@ -14570,6 +14636,40 @@
       "duration_ms": 116934,
       "name": "rollitup",
       "url": "https://open.spotify.com/track/6Qq8STSZ0UHeEuu3PWR6EQ"
+    },
+    {
+      "album": {
+        "name": "RoTATe wiTh aMeRiCa FOsTeR, sKiLLiBeNg aNd bEAM",
+        "url": "https://open.spotify.com/album/57mVKANu6rKwSCeKC40SSc"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "America Foster",
+          "url": "https://open.spotify.com/artist/44QtoF1ZoHiJQxkc3YHpwO"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172727,
+      "name": "RoTATe wiTh aMeRiCa FOsTeR, sKiLLiBeNg aNd bEAM",
+      "url": "https://open.spotify.com/track/23AGyyhElbi76BoI8J1DEM"
     },
     {
       "album": {
@@ -17920,7 +18020,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 217110,
       "name": "Video Mind",
       "url": "https://open.spotify.com/track/6i4HXAiCheoAewgY5pxC6c"
@@ -18550,7 +18650,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 171840,
       "name": "Where's My People",
       "url": "https://open.spotify.com/track/708FxDbsd0oYVzvslmMDl3"

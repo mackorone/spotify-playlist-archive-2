@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 869,170 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 869,293 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 69 | [Te rencontrer encore](https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09) | [ESTL](https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg) | [Te rencontrer encore](https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ) | 2:50 |
 | 70 | [JOYSTICK \(feat\. Jäde & kofi bae\)](https://open.spotify.com/track/2NBiYXAvqvs0lKfyfOLHZR) | [nelick](https://open.spotify.com/artist/2W2NUrosOnwAI1hZIVbwit), [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB), [kofi bae](https://open.spotify.com/artist/2KtWPZPNc23lNCAJzntRhn) | [GOOFY & SEXY](https://open.spotify.com/album/5zfQWcTzyVU2dmCQ3vmGXK) | 3:17 |
 
-Snapshot ID: `AAAAAE+MyPzWdQpCibf5xdJ/WP1OPkSB`
+Snapshot ID: `AAAAAP+p4aSIMyJTuo2cIF8KOXTukYXy`

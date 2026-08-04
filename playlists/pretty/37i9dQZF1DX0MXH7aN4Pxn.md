@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 726,886 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 726,375 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 99 | [They Don't Know \- Radio Edit](https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [They Don't Know \(Radio Edit\)](https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV) | 2:41 |
 | 100 | [Satisfaction Skank](https://open.spotify.com/track/1euu4whq0Na9HiccGK1Dlz) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Satisfaction Skank](https://open.spotify.com/album/5Q7F1yP5Wx4RbVYXqOE6DW) | 3:19 |
 
-Snapshot ID: `AAAAAHdKNmcdNXozoHq/kkGncfw5EQ8k`
+Snapshot ID: `AAAAAGhaMOtJ96/w6tEQtNfCKp5OIStm`

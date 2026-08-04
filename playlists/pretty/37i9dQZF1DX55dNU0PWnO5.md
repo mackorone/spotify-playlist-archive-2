@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops\. Cover: Flying Lotus
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,632 likes - 200 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,563 likes - 200 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 94 | [Turkish Delight](https://open.spotify.com/track/2REjRtNDCn61o7cafbTCaA) | [Carsten Rubeling](https://open.spotify.com/artist/3QmUu8ApUCQAaGrc0Riv6Y) | [Turkish Delight](https://open.spotify.com/album/0Ywe3TYOzHLCKpkhQkkNYm) | 4:00 |
 | 95 | [Law of Attraction \(Mike Casey Remix\)](https://open.spotify.com/track/4dpIrddDRRJxBNURbrOQmi) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Law of Attraction \(Mike Casey Remix\)](https://open.spotify.com/album/6TebduQT3MJa99eaoNVnHE) | 2:18 |
 | 96 | [Uncanny Dissonance](https://open.spotify.com/track/4uED9D8F86W76xUnb4sc97) | [Babasmas](https://open.spotify.com/artist/0vngS6bj2tYZMff6ASijx2), [Caturday](https://open.spotify.com/artist/5nSejJ3iioGr9ylTKwAWsV) | [Uncanny Dissonance](https://open.spotify.com/album/1m6ysgP4udTAXhWjr3VODg) | 3:49 |
-| 97 | [Light Years](https://open.spotify.com/track/0un4iPkl5VKOBDB7toAfDL) | [Oliver Crosby](https://open.spotify.com/artist/3JlivF1eIeK1qIg6BdFdNO), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Light Years](https://open.spotify.com/album/3lW2VJlcx0k7yujtAY10Ij) | 3:18 |
+| 97 | [Light Years](https://open.spotify.com/track/0un4iPkl5VKOBDB7toAfDL) | [Oliver Crosby](https://open.spotify.com/artist/6jt9oVaz0CL3J2Ndw44qj3), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Light Years](https://open.spotify.com/album/3lW2VJlcx0k7yujtAY10Ij) | 3:18 |
 | 98 | [Angels](https://open.spotify.com/track/6G0LYF5D6aXzWkrvwHEW9k) | [wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [David Ecker](https://open.spotify.com/artist/1xtxzWGAoSUQWlgEmEx1qx) | [Angels](https://open.spotify.com/album/2c44svxGGe3GfBT9icMZot) | 2:08 |
 | 99 | [The Universe](https://open.spotify.com/track/7wixddhTzD45rqSQU6qjN0) | [Joel Holmes](https://open.spotify.com/artist/3ix3uHPWkVMdu4oKABHQ4j), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo), [DNA](https://open.spotify.com/artist/5gozUmtTMvu0lBH00XZ8fT) | [The Universe](https://open.spotify.com/album/32nPQigQIFZJCeDbUjVydx) | 7:07 |
 | 100 | [Star People](https://open.spotify.com/track/05e1iH6Hcz8LZUFl0U3kBr) | [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h), [Octavio N\. Santos](https://open.spotify.com/artist/1zLKXXVKUAPbO55p6tLJZP) | [Star People](https://open.spotify.com/album/7vdh7pMJQXFWj0EGxyghJK) | 3:02 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 199 | [New Dawn](https://open.spotify.com/track/4JQmAu7F8tXYA7U83HXsSk) | [Dave Okumu](https://open.spotify.com/artist/3a34v9rZzoFZ7K19NszX9F) | [New Dawn](https://open.spotify.com/album/7fTIinxT4coU1OCQUHNC7w) | 3:34 |
 | 200 | [If U Strike Me Down](https://open.spotify.com/track/2zvvOFRIBql3NfIO9hWNyk) | [Dosh](https://open.spotify.com/artist/1DLrhgKEsP9M64oMmboEPz) | [Tomorrow 1972](https://open.spotify.com/album/5iVtMJKymmpDmi0CerLAKG) | 6:11 |
 
-Snapshot ID: `AAAAAFnLipaDEKwJAPEwXzpIzufyX8uD`
+Snapshot ID: `AAAAAOSziuXqbh5Tx6G0OsHsFZtfzUrR`

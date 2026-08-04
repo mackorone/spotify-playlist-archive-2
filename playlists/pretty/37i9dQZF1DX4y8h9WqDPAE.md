@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > R&B, Hip\-Hop, Pop, Afrobeats and everything in between!  Cover: Destin Conrad
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,522 likes - 150 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,533 likes - 150 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 149 | [Lullaby \- mega remix](https://open.spotify.com/track/3UKsi5Qkp4L8quumXsKnie) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju), [Paradise](https://open.spotify.com/artist/0jPDWsUr0XvGs5JcZChtto), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Lullaby \(mega remix\)](https://open.spotify.com/album/4gHIGeVKDxDHB3c5T3dC5M) | 3:53 |
 | 150 | [Pretty Promises, \(feat\. Mariah The Scientist\)](https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Sincerely: P.S.](https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux) | 3:09 |
 
-Snapshot ID: `AAAAALkamoDscJINTCp2mS1JixC8wwKW`
+Snapshot ID: `AAAAAHky+wM0kyFxH0WEFUjqJPbPcpMG`

@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,576 songs - 5 day 16 hr 15 min
+2,579 songs - 5 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -737,6 +737,7 @@
 | [Fetter of Your Love](https://open.spotify.com/track/0CjwhqMpFVv30bhoKk5VEh) | [Connected Path](https://open.spotify.com/artist/1O7V9rFk7s415L4D3G9qwi) | [Fetter of Your Love](https://open.spotify.com/album/4AX5r34cEPCyWNGFSM3e94) | 3:19 | 2026-01-01 | 2026-02-03 |
 | [Fighting Hard](https://open.spotify.com/track/2kQVEXi0ElGXb3t0kgfeks) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd), [JC Lowko](https://open.spotify.com/artist/2t1ivpXFQ0uODF12SLUHIi), [Fabio Rubato](https://open.spotify.com/artist/67aPZuRn0HMlgLwcsokP50) | [Once in a Blue Moon](https://open.spotify.com/album/7u1fHSpSzM1emTpd2xgZ7E) | 3:30 | 2026-04-06 | 2026-05-08 |
 | [Fill My Heart](https://open.spotify.com/track/3Jdk6l7TF3vhcWmNIak7OA) | [Art Papan](https://open.spotify.com/artist/67kOSVe8apCM790dfK7nMO) | [Fill My Heart](https://open.spotify.com/album/1IwUlJ7cnTfce1iVNgCPaQ) | 3:37 | 2026-06-26 | 2026-07-28 |
+| [fillingemptyhours](https://open.spotify.com/track/159hTXznIogDpQ6RNfhnMT) | [FYONA](https://open.spotify.com/artist/4DVQgGkceK5qLMWB9ICJkR) | [fillingemptyhours](https://open.spotify.com/album/5N7XSMUczA1HdqFLm49E38) | 3:21 | 2026-08-03 |  |
 | [Finally](https://open.spotify.com/track/0oGHsXkx6u5A5jvzBWxKUH) | [Vianne](https://open.spotify.com/artist/4O4GUpAH2uLdp7oSO6bJBI) | [Finally](https://open.spotify.com/album/2IkuOXLVLNCXbfKxmyYk6Q) | 3:30 | 2026-05-01 | 2026-06-02 |
 | [Finance Boy](https://open.spotify.com/track/7M0PuUaFyfwa8ghFhruTYo) | [Dina D](https://open.spotify.com/artist/1zTLkYtuX94wYdAVbDhQIE) | [Almost 30](https://open.spotify.com/album/0AzRiZVD2H5jmQNawa46lT) | 2:38 | 2026-04-20 | 2026-05-22 |
 | [Find It, Keep It, Try It](https://open.spotify.com/track/5APUOAgYkN62V4fgYn4Ncn) | [JUBER](https://open.spotify.com/artist/2Ldv7X6rb1DX2wmCkCmgDe) | [Dreams from a Future Morning](https://open.spotify.com/album/1hMTmOufP5NLVk85YueuVR) | 4:30 | 2025-12-30 | 2026-02-03 |
@@ -1434,6 +1435,7 @@
 | [Missing You](https://open.spotify.com/track/68HFPgvK8PV2n3SEF2O2Nn) | [JOLAND](https://open.spotify.com/artist/4P31qgsqNpBw31JzfhMOnF) | [Missing You](https://open.spotify.com/album/6uNN9c1OFejLRFBbScrU8u) | 2:17 | 2025-11-21 | 2025-12-23 |
 | [Monster](https://open.spotify.com/track/5qaDhl2WI8PZ4E8uRavh4o) | [Sam Edwards](https://open.spotify.com/artist/3SWbBPEKFKWXhms9t1S6VZ) | [Monster](https://open.spotify.com/album/0vW0OgHfbaXl2tJTSE7S65) | 2:51 | 2025-10-24 | 2025-11-26 |
 | [Monsters](https://open.spotify.com/track/2gk5jND6WrtdLEfaYonmYx) | [Frida and The Mann](https://open.spotify.com/artist/5rhfONpeaUub9YJlqnCpgN) | [Monsters](https://open.spotify.com/album/39pG2bKnMefz5m1PUSuF9G) | 3:19 | 2026-02-02 | 2026-03-06 |
+| [Monsters in the Dark](https://open.spotify.com/track/5rlXYbn5MtYMSna4YUMmPS) | [Apt 402](https://open.spotify.com/artist/1g2ffr30jwqhE1tepdL5jJ) | [Home Sessions](https://open.spotify.com/album/01PZWxEka4HkGwKhlrzBYG) | 2:54 | 2026-08-03 |  |
 | [Mood Rings](https://open.spotify.com/track/3z4KzErVuVDetkPBmO8ZP9) | [Ai.AL3X](https://open.spotify.com/artist/5kxrePCrknpiwBgwfIg30Y) | [Mood Rings](https://open.spotify.com/album/3Tds0cYYe5BmF9dqbwzm4Q) | 2:29 | 2026-02-07 | 2026-03-11 |
 | [MOON](https://open.spotify.com/track/6riL7V2IU8rPsdhspPAEnh) | [P.S\. Finn](https://open.spotify.com/artist/5LIEw3fAtnKcBcscLjvORK) | [MOON](https://open.spotify.com/album/7wfKikHveJgIMX6mwpgLMN) | 1:25 | 2026-01-07 | 2026-02-09 |
 | [Moonlight](https://open.spotify.com/track/1HLy3wtTWrjx5trkEy6keo) | [Aizysse Baga](https://open.spotify.com/artist/6nyAbfRQhY29S0KZUybQEb), [Kiara](https://open.spotify.com/artist/3Rp63Kdj6pjMx1FhcsI7JY) | [Moonlight](https://open.spotify.com/album/6y4YhMT73u7TZYtJdtb255) | 3:06 | 2026-06-09 | 2026-07-10 |
@@ -1493,6 +1495,7 @@
 | [Nada Song](https://open.spotify.com/track/3iNPQvXKu6lRrm6mVmzSrs) | [Tim McInnes](https://open.spotify.com/artist/0J71GWwjERGNLrEBjOOiQX) | [Shadowlife](https://open.spotify.com/album/3twwMVhAciOQjdWVSRAIfP) | 2:02 | 2026-06-29 | 2026-07-31 |
 | [Naloy You are my love](https://open.spotify.com/track/4aeFE6kqBXQRrYgyGZw8PM) | [HL WORLD MUSIC](https://open.spotify.com/artist/6SilR2FEqlPqmWAFUsE8F8) | [Naloy You are my love](https://open.spotify.com/album/3EDeopyFvv5kgyWWCgeewP) | 3:54 | 2025-10-21 | 2025-11-23 |
 | [Narcissist](https://open.spotify.com/track/2WSB4vv0aBSwdvSUwRerfM) | [Lily Brooke](https://open.spotify.com/artist/33g49DPz7iFS5aYzGvSnM8) | [Narcissist](https://open.spotify.com/album/04MoACpnyeuRSBfy9sSmOh) | 2:57 | 2026-06-29 | 2026-07-31 |
+| [Narcissistic Predator](https://open.spotify.com/track/6YtHSua92VyLR8x7KH8MHs) | [Shivonne](https://open.spotify.com/artist/448afeGewpl71VuMgxwXUJ) | [Narcissistic Predator](https://open.spotify.com/album/5e861OyJCqTqtvPwmy6KP8) | 3:12 | 2026-08-03 |  |
 | [Nasa](https://open.spotify.com/track/0a57SunRUWrnqNBcGZAaFW) | [Gabe Tarlton](https://open.spotify.com/artist/7s3T21uzMf3Z1Ft38znq44) | [Nasa](https://open.spotify.com/album/1TFoHSB7mDhLaDCFKEa1d3) | 2:28 | 2025-11-07 | 2025-12-08 |
 | [Nashville Heart And Soul](https://open.spotify.com/track/66nkA6qJhcbbAax7Kbsjju) | [Georgia Jay](https://open.spotify.com/artist/40BH0NxesBC7h5FMOcygVK), [Les Thompson](https://open.spotify.com/artist/6amo9f2LyhPzIk1Zs35Dx4) | [Nashville Heart And Soul](https://open.spotify.com/album/1v8mGRwPuiEpfJtBbPOa1O) | 2:54 | 2026-06-29 | 2026-07-31 |
 | [Nasty Way](https://open.spotify.com/track/4VUfZsfHSbwnvJu5cGdzho) | [Band 4rm TV](https://open.spotify.com/artist/0Oeo5v01xl6TVxjill4TgU) | [Nasty Way](https://open.spotify.com/album/2jte0tM7oJNWr8IRQB7Zyt) | 2:08 | 2026-06-18 | 2026-07-20 |

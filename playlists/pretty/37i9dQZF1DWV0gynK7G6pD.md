@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Anthony Hopkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,360 likes - 89 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,017 likes - 89 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 88 | [Sonata, Op\. 5 No\. 1 in G Major, Craw 41: I\. Allegro Moderato Cantabile](https://open.spotify.com/track/1GrLQzlt8P88RpVMgu1HNL) | [Jan Ladislav Dussek](https://open.spotify.com/artist/74aFTkuaXPnbwV6M9O2zER), [Miriam Altmann](https://open.spotify.com/artist/3p0TcSUryFfrrJo796i2ww), [Julia Huber](https://open.spotify.com/artist/7C1VpuK5LXMz6ZfHMInAly) | [Dussek: Violin Sonatas, Vol\. 5](https://open.spotify.com/album/122Jy6d5XP5s1Gm1LpyAOb) | 8:13 |
 | 89 | [Ressacas e Marés](https://open.spotify.com/track/1jp75Shbdp1OPpRsNgfAur) | [DIMI](https://open.spotify.com/artist/0VolTV10GaqxMoYM11XtFn), [Microcosmos](https://open.spotify.com/artist/5F26MmFjvti6x6k3eqYpLD) | [Dimi: Ressacas e Marés](https://open.spotify.com/album/5ZzYhCLPwc3irtM4yUA4JG) | 3:12 |
 
-Snapshot ID: `AAAAAJC/XRUIi8txsjbVNRpO2WbhgDQ+`
+Snapshot ID: `AAAAALS6jlXBuHQ5SV2cI3jwQDMnGWX1`

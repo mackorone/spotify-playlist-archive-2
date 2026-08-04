@@ -4,7 +4,7 @@
 
 > 
 
-8,785 songs - 22 day 8 hr 29 min
+8,786 songs - 22 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3334,6 +3334,7 @@
 | [Invisible Love](https://open.spotify.com/track/6WmTeMmcuyph6PZXueIqWQ) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [보이지 않는 사랑](https://open.spotify.com/album/2Cd9rDcWDBW04lqnHrbRhr) | 4:10 | 2025-01-15 |  |
 | [Invitation](https://open.spotify.com/track/61O7Yh3Sj9N8Euk1HZVb05) | [Uhm Jung Hwa](https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0) | [Invitation](https://open.spotify.com/album/3i3Qx4WpgOuMN2BC9g9VnB) | 3:53 | 2025-01-15 |  |
 | [Invitation of Windblume](https://open.spotify.com/track/47OZbG6MMFM56Fad7bqzyp) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Footprints of the Traveler \(Original Game Soundtrack\)](https://open.spotify.com/album/6GEWGyHgEn7lGPXXiYJAmF) | 3:21 | 2025-07-28 |  |
+| [Invitation of Windblume](https://open.spotify.com/track/5dDZCZJ8q7WGQUdAImxcUW) | [Yu\-Peng Chen](https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- The Shimmering Voyage \(Original Game Soundtrack\)](https://open.spotify.com/album/3Zw9PiPgAvNtNUnusZAcva) | 1:27 | 2026-08-03 |  |
 | [Invitation to daily life](https://open.spotify.com/track/0wCS2Jzemq6Kh6tIlG5Q1P) | [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [N.E.X.T Shin Hae Chul Reboot Yourself](https://open.spotify.com/album/2OOxpszLnHqUEOivIR9Eps) | 5:19 | 2025-01-15 |  |
 | [Invited](https://open.spotify.com/track/6pFVxZ67ktMSxDx8Z3EPNN) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [You Can’t Kill Me](https://open.spotify.com/album/6KQa2rAuOS2rX18xyA9eru) | 2:41 | 2024-12-05 |  |
 | [Invocation](https://open.spotify.com/track/1zS4PMsHfkSXPkzrEkCkC6) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [One Day It'll All Make Sense](https://open.spotify.com/album/6nXto9rlPmmhdoUmGMKbtE) | 2:14 | 2024-12-14 |  |

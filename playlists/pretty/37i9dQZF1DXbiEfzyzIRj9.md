@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック  Cover: salute \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,596 likes - 99 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,452 likes - 99 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [soulreply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soulreply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 |
+| 1 | [soul reply](https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D) | [soul reply](https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H) | 2:59 |
 | 2 | [Human Voice](https://open.spotify.com/track/5Lh2zmWu8BecY2l9Upggm9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Human Voice](https://open.spotify.com/album/4t8mDhBKm2HGNXXDNJVujs) | 6:36 |
 | 3 | [Ignition](https://open.spotify.com/track/3VlcGg96kenDiRyMRhkThB) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3) | [Ignition](https://open.spotify.com/album/3KgGoDF4XEudeiFFT6oEQa) | 5:19 |
 | 4 | [Hold On](https://open.spotify.com/track/2uqHX0OFOlUsMkqnhpBe6d) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [Maybe in the next world..\. 002](https://open.spotify.com/album/7fclZVmB8NxbNBzFTuNKUT) | 3:45 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 98 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |
 | 99 | [Long Goodbye](https://open.spotify.com/track/0Xl9DRIQFa3PinMxQu4b7t) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Long Goodbye](https://open.spotify.com/album/2nMTpO7M30ejb2XkIWotGX) | 3:34 |
 
-Snapshot ID: `AAAAAH7xOuigKIumAt7e3zVZ/LhcSEsR`
+Snapshot ID: `AAAAAIILSdhYdVYYsyC+QROiRitsuXpL`

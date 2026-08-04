@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,597 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,561 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [Whisper](https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Whisper](https://open.spotify.com/album/0jbAkBNqdBNOVBI7HVSwMu) | 2:34 |
 | 100 | [Losing It](https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/3ubKnqq2qqCAgr8iW17zxl) | 4:08 |
 
-Snapshot ID: `AAAAAPKdni0vGpc7H+40fftQSbPC01IF`
+Snapshot ID: `AAAAANBRwMJ/+bs908ZQi1qfHnZecMfi`

@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 63473,
+  "num_followers": 63499,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMNGccTznXtpoV4HjfsDZFFPPPki",
+  "snapshot_id": "AAAAABUZ2AX4Bo2j7OCko5paxSGKOKxh",
   "tracks": [
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Dreamy Riot",
+        "url": "https://open.spotify.com/album/28pUdUv0W8ChNUkh8gWtUd"
+      },
+      "artists": [
+        {
+          "name": "Lemon Cal",
+          "url": "https://open.spotify.com/artist/3QpZbi4X5YgnUe9uFVbJL9"
+        }
+      ],
+      "duration_ms": 350666,
+      "name": "Tech",
+      "url": "https://open.spotify.com/track/2enH7L13QJWB6usbJadzSw"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Nostalgia Por Mesoz\u00f3ica",
         "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 169214,
       "name": "Muzak For Mesozoic Showreel",
       "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Dreamy Riot",
-        "url": "https://open.spotify.com/album/28pUdUv0W8ChNUkh8gWtUd"
-      },
-      "artists": [
-        {
-          "name": "Lemon Cal",
-          "url": "https://open.spotify.com/artist/3QpZbi4X5YgnUe9uFVbJL9"
-        }
-      ],
-      "duration_ms": 350666,
-      "name": "Tech",
-      "url": "https://open.spotify.com/track/2enH7L13QJWB6usbJadzSw"
     },
     {
       "added_at": "2025-11-07 05:00:56",

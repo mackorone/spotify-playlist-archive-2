@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Guerreras e independientes\. Foto: Fin del Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,143 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,052 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 63 | [Blue Planet](https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Blue Planet](https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S) | 2:33 |
 | 64 | [Sueño Raro](https://open.spotify.com/track/6EWybNX5bRPGsdWUDqOHbo) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Sueño Raro](https://open.spotify.com/album/1nHuKJvctkgkY63mVDeqJT) | 3:37 |
 | 65 | [ME FUI DE LA FIESTA](https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [ME FUI DE LA FIESTA](https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN) | 2:38 |
-| 66 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 |
-| 67 | [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 |
+| 66 | [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 |
+| 67 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 |
 | 68 | [llorando en la luna](https://open.spotify.com/track/35uMVgoVbnzg4Dn3PfUNLO) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [llorando en la luna](https://open.spotify.com/album/4HMsUrIj0suIB94rokDgcj) | 2:57 |
 | 69 | [Otro Plan](https://open.spotify.com/track/3KfM0s42VjMA0REk1bWfJc) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Otro Plan](https://open.spotify.com/album/5sPy8rb96FxPrJ2GA1zfjW) | 3:02 |
 | 70 | [Gris \- En Vivo](https://open.spotify.com/track/1DW06C5KlWPeQTrwDOdmfk) | [Linda Habitante](https://open.spotify.com/artist/1ScqCsRxUAJtM53bdy0BBE) | [El Gris También Es un Color \(En Vivo\)](https://open.spotify.com/album/5SOjXHY4Rxuv0xG9zknnUR) | 3:05 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 79 | [Novio Intelectual](https://open.spotify.com/track/3FY0MSjwKGbviDgvwMmix1) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Novio Intelectual](https://open.spotify.com/album/7MhKDU7f5tAR6DjtUoLNNg) | 3:14 |
 | 80 | [JE NE SAIS QUOI](https://open.spotify.com/track/4tUn9uj21MoT5FppBWvE74) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [JE NE SAIS QUOI](https://open.spotify.com/album/3iNCBXsKMQ4SBKXu3Exb0s) | 2:59 |
 
-Snapshot ID: `AAAAALnX6eT3lJ3FOT6D8dxa1oLthAir`
+Snapshot ID: `AAAAADI6iFt+C/L9A2QYA8sl/QPmszEM`

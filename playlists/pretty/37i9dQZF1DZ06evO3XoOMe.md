@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XoOMe.md) - [plain]
 
 > This is Chxrry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663 likes - 21 songs - 1 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 667 likes - 21 songs - 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XoOMe.md) - [plain]
 | 6 | [Just Like Me](https://open.spotify.com/track/5Nm0tkdhfLDVBuIGttN6sh) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Just Like Me](https://open.spotify.com/album/7207lFqWVUYzbmkqjhkNzd) | 2:49 |
 | 7 | [Do it Again](https://open.spotify.com/track/5xRbBn3nl20OjhZK7IQYky) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 1:49 |
 | 8 | [More](https://open.spotify.com/track/1T39YsnUTKbqlyKwu5aycZ) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:16 |
-| 9 | [Bible](https://open.spotify.com/track/72muCO9onwLshiUj0ni7jq) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:53 |
+| 9 | [Boring](https://open.spotify.com/track/0inNzeehKp63mKOqEMSHL3) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:17 |
 | 10 | [Worlds Away](https://open.spotify.com/track/2PUsRFtW68RSwpNr4XjjKa) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Worlds Away](https://open.spotify.com/album/3PvGhm40m4E00G6hQiY4Q9) | 2:54 |
 | 11 | [The Falls](https://open.spotify.com/track/1RM9s6AbvAwESHrOZxU3Vq) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:50 |
 | 12 | [Do It](https://open.spotify.com/track/3cOnrXCKg3zjOYVwmaMtsB) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:05 |
-| 13 | [Boring](https://open.spotify.com/track/0inNzeehKp63mKOqEMSHL3) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:17 |
+| 13 | [Bible](https://open.spotify.com/track/72muCO9onwLshiUj0ni7jq) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:53 |
 | 14 | [The Other Side](https://open.spotify.com/track/59VW8y8ag9vwNNGrztCsMd) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:49 |
 | 15 | [Ride 4 Me](https://open.spotify.com/track/7k8b7rSMp7MMfaLcKt4XVs) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:29 |
 | 16 | [Call Security](https://open.spotify.com/track/4guaicBZF35p1P5IQHheAV) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 3:22 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XoOMe.md) - [plain]
 | 20 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 |
 | 21 | [Granted](https://open.spotify.com/track/0Q0qwesBrt7M0vGnJkLzaw) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 2:42 |
 
-Snapshot ID: `am03AAAAAABMQjDDpard8uemxBMWdBU4`
+Snapshot ID: `am6IgAAAAAA1ZucEXTngrigiNlaoGg94`

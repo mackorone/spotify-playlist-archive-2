@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,792 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,800 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 79 | [U GO](https://open.spotify.com/track/3fxwGx5gP8xR2YdMR9ePqd) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR) | [U GO](https://open.spotify.com/album/3K9b2zvugYV840uhMNLd3W) | 3:50 |
 | 80 | [Prayer \- Edit](https://open.spotify.com/track/4Gd5Cxw7V4JCM9Uj6VpiwL) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Prayer \(Edit\)](https://open.spotify.com/album/4fW8eARlhtdJkC2b3IeolF) | 3:46 |
 
-Snapshot ID: `AAAAAOo/4oeRy7/DnpyG9pOns6q7nP0R`
+Snapshot ID: `AAAAAJ2PcZiT91omeDa+sAII/5RhvXfe`

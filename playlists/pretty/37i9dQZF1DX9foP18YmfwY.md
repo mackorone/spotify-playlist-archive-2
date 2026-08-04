@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Comunidade Católica Shalom
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,050 likes - 70 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,528 likes - 70 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 69 | [Coração de Mãe](https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:57 |
 | 70 | [Ser Mais do Que Ter \- Ao Vivo](https://open.spotify.com/track/1ErMDwBrxnTTCePbbWaP35) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1), [Fátima Souza](https://open.spotify.com/artist/5TU9L0iVP8fFMA9QbN0F7m) | [Ser Mais do Que Ter \(Ao Vivo\)](https://open.spotify.com/album/7EDXi5EpI5wOWRmcsrYXOY) | 7:26 |
 
-Snapshot ID: `AAAAAHr0zlAgA4SUzYvc4yGbOQ892Wxw`
+Snapshot ID: `AAAAAIM3JRi5fCL5ZHZ6nQ0CGIKmgLW/`

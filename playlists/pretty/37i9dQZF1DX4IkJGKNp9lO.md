@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svenska punkklassiker och hardcore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,815 likes - 140 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,818 likes - 140 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 139 | [Konflikthantering 101](https://open.spotify.com/track/7hEbGhVukXSnkgd8xt5xFs) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Konflikthantering 101](https://open.spotify.com/album/7bBKMz9YfJhYIHyxxEdJa4) | 2:45 |
 | 140 | [Patriarkatet](https://open.spotify.com/track/5qhAF20De3Qh3EOUORPPYE) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [En För Alla Ingen För Nån](https://open.spotify.com/album/1XBQpz8taiwH4zGAalBDQf) | 3:10 |
 
-Snapshot ID: `AAAAAKW6TpyopLEM+eWW44+tWfby7WZC`
+Snapshot ID: `AAAAAHT/zVTZitw9DLBYId4qvl28VYzv`

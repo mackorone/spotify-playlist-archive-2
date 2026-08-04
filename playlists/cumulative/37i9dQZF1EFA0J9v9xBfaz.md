@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-200 songs - 11 hr 34 min
+201 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [La Tóxica \(feat\. Jay Wheeler & Tempo\) \- Remix](https://open.spotify.com/track/4gChz67rTHfVzKCZAHsifM) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn) | [La Tóxica \(feat\. Jay Wheeler & Tempo\) \[Remix\]](https://open.spotify.com/album/1km4pyoUYWxuu1WQJzpxXc) | 4:54 | 2026-07-13 |  |
 | [La Vida](https://open.spotify.com/track/7uOCu5eahcVWVAuObNzwZC) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [The Sensation](https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU) | 3:40 | 2024-06-11 |  |
 | [LATTE \(feat\. Maria Becerra\)](https://open.spotify.com/track/7irTyPzSyqSbeUXbYsTR5j) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [The Academy: Segunda Misión](https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu) | 4:20 | 2024-06-11 |  |
+| [Llueve](https://open.spotify.com/track/3NoIajMHFKu4djsapgVywe) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 4:10 | 2026-08-03 |  |
 | [Lo Malo](https://open.spotify.com/track/4kIuPsijmLzK11RTCseKh7) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:08 | 2024-06-11 |  |
 | [Lo Que Dios Quiera](https://open.spotify.com/track/58EEYVahoZAK7crGM6qAwA) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:14 | 2024-06-11 |  |
 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 | 2024-06-11 |  |

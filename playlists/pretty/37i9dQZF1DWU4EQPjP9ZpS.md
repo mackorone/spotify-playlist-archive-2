@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,517 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,542 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Playback](https://open.spotify.com/track/2uAB95gzNi0AWQEyLER6gS) | [</body>](https://open.spotify.com/artist/0CY2m8Yk4gWG8khmIgijN6) | [Information Superhighway](https://open.spotify.com/album/5GPnde7XQQybkkIak1xma4) | 1:47 |
 | 100 | [新しい時代, Yes!](https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [新しい時代, Yes!](https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP) | 4:37 |
 
-Snapshot ID: `AAAAAKlYF095izcEhMAZD4ousrFQsjff`
+Snapshot ID: `AAAAAEFpTGdYhMZeFwvCjz29CTmNbsWR`

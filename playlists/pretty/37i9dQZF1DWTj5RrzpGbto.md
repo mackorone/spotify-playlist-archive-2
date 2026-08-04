@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj5RrzpGbto.md) - [plain]
 
 > รวมทุกอินเนอร์เพลงสากลที่นี่เลย\. ศิลปิน: JENNIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,198 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,214 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTj5RrzpGbto.md) - [plain]
 | 49 | [Know You Naked](https://open.spotify.com/track/4XBkny5RwYFxETjyMU8dwE) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Know You Naked](https://open.spotify.com/album/0RHlF72mPRiLux1omiKIxe) | 3:25 |
 | 50 | [The Suburbs](https://open.spotify.com/track/1RtBcv6qFWBiKfVWfP7gHX) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [The Suburbs](https://open.spotify.com/album/5DNXxlpEJF20jnQsFFTfmg) | 3:08 |
 
-Snapshot ID: `AAAAAGUtWIr+buzRgHViwKWNadI2pa0t`
+Snapshot ID: `AAAAAMjEsmn+Sl0e/zfIFhn4jrnuiv9Q`

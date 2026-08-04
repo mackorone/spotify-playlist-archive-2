@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,558 likes - 150 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,682 likes - 150 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 149 | [Drop the Bomb](https://open.spotify.com/track/5AtkrDV7N5UUvNQmOX4cbY) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Unholy Cross](https://open.spotify.com/album/6AUkEp205WM1xxKXzAtz33) | 3:56 |
 | 150 | [Drowning](https://open.spotify.com/track/1knxUcq12YCES1O1Q6ImCY) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Moment You Find Your Flame](https://open.spotify.com/album/6a0E3gyDDH42IzGWATL83v) | 2:45 |
 
-Snapshot ID: `AAAAAFy9T4HUk675BBqqWzegca8J+0xN`
+Snapshot ID: `AAAAAOvCuARnFHyUoZ4rgZ/+uxyDSTQL`

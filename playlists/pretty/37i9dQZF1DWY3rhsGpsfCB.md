@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 
 > Smooth soul\-inspired tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,324 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,323 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3rhsGpsfCB.md) - [plain]
 | 79 | [cease & desist](https://open.spotify.com/track/4Del9gOGUGuxbkVaHRkTjv) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [Feels Like Home](https://open.spotify.com/album/374CWbM43yweqsdvTEn2oS) | 3:07 |
 | 80 | [Isn't It Beautiful](https://open.spotify.com/track/02OZQgVAKaV0HE52l1eF0Y) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [Isn't It Beautiful](https://open.spotify.com/album/3PEaMD2ViMdFgjiSeLjcBK) | 2:36 |
 
-Snapshot ID: `AAAAAINJjGEHfk+KZ9UrHOuQbv+lMMNm`
+Snapshot ID: `AAAAAFT0sHthr4e1BPzGHBOHq0RPutgX`

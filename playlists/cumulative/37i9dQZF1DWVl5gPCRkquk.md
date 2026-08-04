@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-411 songs - 1 day 1 hr 33 min
+412 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Mermaid in Lisbon](https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Teresa Salgueiro](https://open.spotify.com/artist/49W26EcOwY0UdytNfa3zGH), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF) | [A Mermaid in Lisbon](https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd) | 3:28 | 2021-10-29 | 2024-06-18 |
 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 | 2021-10-29 | 2024-08-19 |
 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 | 2023-09-29 |  |
+| [All I Ever Wanted Was You](https://open.spotify.com/track/5jR3MHEjrgpwceIOxTovsp) | [The Sways](https://open.spotify.com/artist/0RgOfcMyPmviqRc3KgDmw3) | [All I Ever Wanted Was You](https://open.spotify.com/album/4idedLqwBIukyzoAGYqZWc) | 3:13 | 2026-08-03 |  |
 | [all of me was you](https://open.spotify.com/track/3jd0nELFcCS31ly7VmeJ71) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [all of me was you](https://open.spotify.com/album/6OTHWLZPXFbQnx8xNurMK5) | 3:04 | 2026-03-06 |  |
 | [All The Way Back](https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi) | 3:01 | 2023-10-06 | 2024-09-29 |
 | [All the Ways \(feat\. Ray LaMontagne\)](https://open.spotify.com/track/5X7YV3w0f8wvbK58fupk0P) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [All the Ways](https://open.spotify.com/album/5KnKkghYRhhK3wfuNiLC6c) | 3:38 | 2024-03-06 |  |
@@ -153,7 +154,7 @@
 | [Give Me Time](https://open.spotify.com/track/4HERQ0HbqpL604wsLWDAPJ) | [Cereus Bright](https://open.spotify.com/artist/3zt4I5TLIb0Z9RigaiHe5G) | [Give Me Time](https://open.spotify.com/album/4lpCZTEciW91x5EOPHIjtN) | 5:39 | 2021-10-29 | 2022-07-28 |
 | [God's A Different Sword](https://open.spotify.com/track/0Yfjj5pPl87buJkfMawmW0) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [God's A Different Sword](https://open.spotify.com/album/5UOWbEUwHarGCuQ91Rd3U2) | 3:19 | 2025-05-02 | 2025-05-07 |
 | [Going Going Gone \- Edit](https://open.spotify.com/track/60IxJQA2o7CJ5GFO7DTd9T) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Going Going Gone \(Edit\)](https://open.spotify.com/album/5HDDr1fWzsEaZzbv0gNs9j) | 2:47 | 2021-10-29 | 2024-01-04 |
-| [Going Where the Lonely Go](https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:10 | 2021-11-19 |  |
+| [Going Where the Lonely Go](https://open.spotify.com/track/1obqA76qNSGEnN4kTafsQw) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof \(Deluxe Edition\)](https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN) | 4:10 | 2021-11-19 | 2026-08-04 |
 | [Going Where The Lonely Go](https://open.spotify.com/track/4MTpZs4wIJ4SpqMkh0CMuJ) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raise The Roof](https://open.spotify.com/album/5CQ3SOj1ZgudhbsTLcTTI2) | 4:10 | 2022-04-15 | 2022-11-13 |
 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 | 2024-01-03 | 2024-09-29 |
 | [Golden State](https://open.spotify.com/track/45xzjdv3RJdGtSBbDyKg0t) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Golden State](https://open.spotify.com/album/4rUeKNbWM0XQwbkojQSMFI) | 4:24 | 2023-07-28 | 2024-09-29 |

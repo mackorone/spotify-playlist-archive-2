@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,583 likes - 65 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,440 likes - 65 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 64 | [Good Enough](https://open.spotify.com/track/1QdbOe3o38SdDOxgMSfRGd) | [Dodgy](https://open.spotify.com/artist/1dekSPU23UC5hw5b8Uxk9W) | [Ace A's + Killer B's](https://open.spotify.com/album/1mkXcNQ9jiQmyHDugV7vGf) | 3:59 |
 | 65 | [Sit Down](https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/47lo706CUDxRCsQNSADyd6) | 4:04 |
 
-Snapshot ID: `AAAAAK3++5rFpkmpbuzkurczoCB4NxGo`
+Snapshot ID: `AAAAAO7GsOVfm7EeyQaUnZlLWyHltt9s`

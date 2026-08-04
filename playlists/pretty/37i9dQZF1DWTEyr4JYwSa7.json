@@ -1,12 +1,12 @@
 {
   "description": "La playlist qui sent le sapin pis la joie!",
-  "num_followers": 63164,
+  "num_followers": 63149,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABDe6h8d6OznXP0Z5BmUndth+clv",
+  "snapshot_id": "AAAAAA/v465TVGF1iRzbxksqe1aEY048",
   "tracks": [
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "No\u00ebl nouvelet",
-        "url": "https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk"
-      },
-      "artists": [
-        {
-          "name": "Belle Grand Fille",
-          "url": "https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2"
-        }
-      ],
-      "duration_ms": 195169,
-      "name": "No\u00ebl nouvelet",
-      "url": "https://open.spotify.com/track/1m2WeRzmCIGW5gAOdGAElF"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "\u00c0 la fin d\u00e9cembre",
         "url": "https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 205933,
       "name": "Nuit de d\u00e9cembre",
       "url": "https://open.spotify.com/track/38XrA6htadkifCubZHAgQ9"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "No\u00ebl nouvelet",
+        "url": "https://open.spotify.com/album/5Ol8RKxDYKvzSbFRzUIyQk"
+      },
+      "artists": [
+        {
+          "name": "Belle Grand Fille",
+          "url": "https://open.spotify.com/artist/3xMp2n97jzSF7mQFzqKoL2"
+        }
+      ],
+      "duration_ms": 195169,
+      "name": "No\u00ebl nouvelet",
+      "url": "https://open.spotify.com/track/1m2WeRzmCIGW5gAOdGAElF"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "No\u00ebl, C'est L'amour",
-        "url": "https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V"
+        "name": "Voil\u00e0 le P\u00e8re No\u00ebl Boogie",
+        "url": "https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S"
       },
       "artists": [
         {
-          "name": "Boum Ding Band",
-          "url": "https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG"
+          "name": "Gregory Charles",
+          "url": "https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi"
         }
       ],
-      "duration_ms": 397400,
-      "name": "No\u00ebl C'est L'amour",
-      "url": "https://open.spotify.com/track/4vfW9FJV4RBEYpfyyTy0JW"
+      "duration_ms": 191906,
+      "name": "Voil\u00e0 le P\u00e8re No\u00ebl Boogie",
+      "url": "https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Voil\u00e0 le P\u00e8re No\u00ebl Boogie",
-        "url": "https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S"
-      },
-      "artists": [
-        {
-          "name": "Gregory Charles",
-          "url": "https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Voil\u00e0 le P\u00e8re No\u00ebl Boogie",
-      "url": "https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "Meilleurs V\u0153ux (Vivre)",
         "url": "https://open.spotify.com/album/5eLOr5aTRuerpn2sCX7UsI"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 209812,
       "name": "Vive le vent - Vivre",
       "url": "https://open.spotify.com/track/3WddYIgeql0JJEAjH32QXE"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "No\u00ebl, C'est L'amour",
+        "url": "https://open.spotify.com/album/3daWVuTqbiXedViUfOnN1V"
+      },
+      "artists": [
+        {
+          "name": "Boum Ding Band",
+          "url": "https://open.spotify.com/artist/50ERNshVS98iuEFQfxGggG"
+        }
+      ],
+      "duration_ms": 397400,
+      "name": "No\u00ebl C'est L'amour",
+      "url": "https://open.spotify.com/track/4vfW9FJV4RBEYpfyyTy0JW"
     },
     {
       "added_at": "2025-12-12 05:01:29",

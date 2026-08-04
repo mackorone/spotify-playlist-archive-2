@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy music ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,185 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,159 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 59 | [Used To Love](https://open.spotify.com/track/6MLmmZchetJCwxsefFtSnl) | [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD), [Sunflower](https://open.spotify.com/artist/7o5NxGi8B81v8YfSO6LK5w) | [Used To Love](https://open.spotify.com/album/0FDjTnAxUsE0qfcrEAoArb) | 2:13 |
 | 60 | [Vanilla](https://open.spotify.com/track/5i3fyz5jSbt0YEMR9qrLbo) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Vanilla](https://open.spotify.com/album/3qt6VmrM2TqtaU5dhSi847) | 2:50 |
 
-Snapshot ID: `AAAAAE5VG38Hm7Q6ZOuIidB6eWPdkEFw`
+Snapshot ID: `AAAAAL0xGE7/VYATG4xOoy7ME/QzbBrF`

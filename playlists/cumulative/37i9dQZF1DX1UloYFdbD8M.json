@@ -4709,6 +4709,32 @@
     },
     {
       "album": {
+        "name": "Kannoram Kaadhalaay (From \"Manohari\")",
+        "url": "https://open.spotify.com/album/6RQEE5l67KGl8eDS8eLLsT"
+      },
+      "artists": [
+        {
+          "name": "Serin Francis",
+          "url": "https://open.spotify.com/artist/5i4TkxU3gyv0At96ncroh3"
+        },
+        {
+          "name": "CM SaDiQ",
+          "url": "https://open.spotify.com/artist/3RhOvgCZlLptkSlG4owZlb"
+        },
+        {
+          "name": "Santhi Krishnan",
+          "url": "https://open.spotify.com/artist/2jI28hCt7XoTiztA8ojQ40"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192775,
+      "name": "Kannoram Kaadhalaay (From \"Manohari\")",
+      "url": "https://open.spotify.com/track/0HWMdwIKMwGVjliNAF1igH"
+    },
+    {
+      "album": {
         "name": "Karikhaalam",
         "url": "https://open.spotify.com/album/1SYszU7HQYmhWrsXH50rc5"
       },

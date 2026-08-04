@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New Music from Kollywood.\nCover : Vishwanath & Sons",
+  "description": "New Music from Kollywood.\nCover : DC",
   "name": "Latest Tamil",
   "tracks": [
     {
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 247279,
       "name": "Aarathi Kannukkulla",
       "url": "https://open.spotify.com/track/76CuSYlXZPQqiB6C0CyChE"
@@ -3080,6 +3080,32 @@
       "duration_ms": 155094,
       "name": "Aho Vikramaarka(Title Track)(From \"Aho Vikramaarka\")(Tamil)",
       "url": "https://open.spotify.com/track/4iQNdZI5reB6YzBl8Ag0tj"
+    },
+    {
+      "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        },
+        {
+          "name": "Ram Kumar",
+          "url": "https://open.spotify.com/artist/6DwDDDZTDknowwWgbOZY6N"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162750,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/38mVCLnD3fyvFIJM7THeYz"
     },
     {
       "album": {
@@ -5898,7 +5924,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 189000,
       "name": "Attakathi",
       "url": "https://open.spotify.com/track/3aWmQGvr3b4XD6spnO7J1p"
@@ -7850,6 +7876,24 @@
       "duration_ms": 101828,
       "name": "Bloody Valentine (From \"DC\")",
       "url": "https://open.spotify.com/track/2UtxQtTo90v8HpEQwyS6Ss"
+    },
+    {
+      "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101828,
+      "name": "Bloody Valentine - Instrumental",
+      "url": "https://open.spotify.com/track/1iq5WScWkug39WEweHfdXp"
     },
     {
       "album": {
@@ -44661,6 +44705,24 @@
     },
     {
       "album": {
+        "name": "DC (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dZmnyIxUUyJZvqVPTEDcJ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2026-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131250,
+      "name": "Raga of Revenge",
+      "url": "https://open.spotify.com/track/6bbJpVAKx6JPAKaMFmaxvC"
+    },
+    {
+      "album": {
         "name": "Raga of Revenge (From \"DC\")",
         "url": "https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8"
       },
@@ -44672,7 +44734,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 131250,
       "name": "Raga of Revenge (From \"DC\")",
       "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
@@ -60388,7 +60450,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 381000,
       "name": "Vel Sevvel (From \"Arulvaan\")",
       "url": "https://open.spotify.com/track/41DkxqdbvU1ISFOfkbSeCf"

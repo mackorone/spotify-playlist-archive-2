@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,361 likes - 100 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,363 likes - 100 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 49 | [cholula, puebla](https://open.spotify.com/track/2uEOoG0dkRThbmHPz7pOXF) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8), [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h) | [cholula, puebla](https://open.spotify.com/album/2IVjHtScmP9CXP0kYiWpSp) | 2:04 |
 | 50 | [2 de suadero con todo](https://open.spotify.com/track/4P3TFxyAgji4gBWAGzAR56) | [Melody the Basset](https://open.spotify.com/artist/2UmnfJU8FScnShtNuuhU1k), [Multiverso Rec](https://open.spotify.com/artist/4vfh7YNp9RCsbvotgivvGd) | [2 de suadero con todo](https://open.spotify.com/album/0PCCDz04565lReyRpRgGUI) | 4:38 |
 | 51 | [Flores](https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [Flores](https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh) | 2:01 |
-| 52 | [Lofi En La Mamalona](https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lofi En La Mamalona](https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL) | 1:56 |
+| 52 | [Atacama](https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Atacama](https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz) | 2:08 |
 | 53 | [Dale Dale](https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL) | [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl), [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Dale Dale](https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x) | 2:28 |
 | 54 | [ajijic, jalisco](https://open.spotify.com/track/2BzQRZ1KKQC9Zpe6LAU6ED) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8), [Chill&Go](https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h), [Sunsplash](https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr) | [ajijic, jalisco](https://open.spotify.com/album/08DPwkK3JbqHp4lLfW0zuV) | 3:22 |
-| 55 | [Atacama](https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2) | [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8) | [Atacama](https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz) | 2:08 |
+| 55 | [Lofi En La Mamalona](https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Lofi En La Mamalona](https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL) | 1:56 |
 | 56 | [Good things take time](https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Good things take time](https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL) | 1:39 |
 | 57 | [Lucid Dreams](https://open.spotify.com/track/3fP7iOAgPVmciLJxubGlZV) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj) | [Lucid Dreams](https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR) | 2:00 |
 | 58 | [Take Me Home](https://open.spotify.com/track/1h4aLXGfmLVxXUT0IZeTmk) | [Goland](https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA), [Lo\-Fi Luke](https://open.spotify.com/artist/02CSsXlCyOTZgxKnmxweqc), [Marc Brave](https://open.spotify.com/artist/5HCI0gwwKsD6eFnyWnycgK) | [Take Me Home](https://open.spotify.com/album/07bZkVxKUmei2L3lRXKKls) | 2:30 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 79 | [Agua](https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ) | [Ajvsco](https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ), [El More](https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg) | [Agua](https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq) | 3:17 |
 | 80 | [Trompo de Pastor](https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt) | [Omar Juárez](https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2) | [Trompo de Pastor](https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk) | 2:30 |
 | 81 | [Songbird Serenity](https://open.spotify.com/track/1RDwAD9cyldvgcHn1TvnyK) | [Alpharene](https://open.spotify.com/artist/33PxA57FPX8pGz5WcfWE8a), [Romega](https://open.spotify.com/artist/3BRpgHuU3OnFezYg2C8rva), [Chill Yume](https://open.spotify.com/artist/4ZBlnStaBtNzGrqKcIIl7b) | [Songbird Serenity](https://open.spotify.com/album/5YfE8lRIAt0X8A7qrkTeYB) | 1:54 |
-| 82 | [alone alone](https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO) | [Thragg](https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H) | [alone alone](https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO) | 1:30 |
-| 83 | [Arrebol](https://open.spotify.com/track/3scYlvDZaZRotdhhB3xzGy) | [Gagdropers](https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf) | [22](https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw) | 2:12 |
-| 84 | [Extraños \(Strangers\)](https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:51 |
+| 82 | [Extraños \(Strangers\)](https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:51 |
+| 83 | [alone alone](https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO) | [Thragg](https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H) | [alone alone](https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO) | 1:30 |
+| 84 | [Arrebol](https://open.spotify.com/track/3scYlvDZaZRotdhhB3xzGy) | [Gagdropers](https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf) | [22](https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw) | 2:12 |
 | 85 | [Taco Envenenado](https://open.spotify.com/track/5xFvLixW7T1OZXlppo6WP4) | [Aguachill](https://open.spotify.com/artist/5alIX0NX1FY6GhwhcS8ByB), [Ozymandias' Dream](https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd) | [Taco Envenenado](https://open.spotify.com/album/01i1uBVnhTtDgKY4Id0IAW) | 1:58 |
 | 86 | [Maranta](https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [The Plant Whisperer](https://open.spotify.com/album/1raEGgO92sAlrU3tP9A7te) | 2:17 |
 | 87 | [woozy](https://open.spotify.com/track/0Cb6pz4XaDphvSDpJXHNWI) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [woozy](https://open.spotify.com/album/76lS2gqtVbaRUMedAAzKN1) | 1:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 99 | [Canción en Forma de Elefante](https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Canciones Para Ver Las Nubes Pasar](https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ) | 2:44 |
 | 100 | [only in memories](https://open.spotify.com/track/3uUoxbVM6uEj1RnftUKZZp) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [amlo](https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4) | [only in memories](https://open.spotify.com/album/11nJ7IKgzmvujw4i6nfhPr) | 2:31 |
 
-Snapshot ID: `AAAAANDJS3EJdKdl08FMk8HAx+J1NYqz`
+Snapshot ID: `AAAAAIWAu93kBn4X32L040TQY2GR3HjK`

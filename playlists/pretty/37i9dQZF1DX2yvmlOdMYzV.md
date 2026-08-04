@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,354 likes - 200 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,304 likes - 200 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 199 | [Hearts By The Hand](https://open.spotify.com/track/5knx7YoJYF6hH7x4j6zezu) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L) | [Hearts By The Hand](https://open.spotify.com/album/0qhrIh7L8xMlKNVe6bfYSh) | 5:05 |
 | 200 | [Another Day Another Moon](https://open.spotify.com/track/4SKY9UeWcdV3stPDXjNxUO) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Another Day Another Moon](https://open.spotify.com/album/3poftEIIhJAPGjgEqbBq6F) | 3:42 |
 
-Snapshot ID: `AAAAAIpWklMd29UiCCXwv7fiNxaxgaxR`
+Snapshot ID: `AAAAAKfiByZnuXhSEJP9PrnW3ZGiSWei`

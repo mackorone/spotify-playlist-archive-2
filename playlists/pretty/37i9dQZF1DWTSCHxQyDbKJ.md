@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Necessities from LGBTQIA+ artists\. Cover: Jodie Harsh
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,034 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,029 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 73 | [I Would Die 4 U](https://open.spotify.com/track/1R9ah1wItTvehP2whKXpQk) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL), [Wendy & Lisa](https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz) | [I Would Die 4 U](https://open.spotify.com/album/5kDgEnfQkOrcYjl5v2VxbO) | 3:21 |
 | 74 | [69](https://open.spotify.com/track/7HThqZsl1l1YshgeZaoBRD) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [69](https://open.spotify.com/album/65AGTpy6jBYVi8KH4oVugq) | 3:29 |
 | 75 | [The Hit](https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [The Hit](https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu) | 3:30 |
-| 76 | [Guts](https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Guts](https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi) | 2:06 |
-| 77 | [The Worst](https://open.spotify.com/track/7uRuhSjbA0McvqXUAOQWYn) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Light It Up](https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn) | 2:58 |
+| 76 | [The Worst](https://open.spotify.com/track/7uRuhSjbA0McvqXUAOQWYn) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Light It Up](https://open.spotify.com/album/3vJdmKWko9TEePbLIJLQjn) | 2:58 |
+| 77 | [Guts](https://open.spotify.com/track/5cEgck20T0z74Ta9CZnGP3) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [Guts](https://open.spotify.com/album/5EbGb97EmI0PrYWH7rNFhi) | 2:06 |
 | 78 | [Carnal](https://open.spotify.com/track/2wnnMeISG1gM0vXhsSQGeR) | [FLAVIA](https://open.spotify.com/artist/4KvJPTW5GGjm49mMuzftPA), [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Carnal](https://open.spotify.com/album/4wUzF46CYbhDC1IqSYgdUz) | 3:34 |
 | 79 | [Everything Is Beautiful](https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Everything Is Beautiful](https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL) | 3:18 |
 | 80 | [Confession](https://open.spotify.com/track/5dHinMVf9FlNrn7rTj3O5n) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 4:32 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 92 | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/4JNOcgdDYesDZXCJgErW8N) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Exhilarate \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/5hjzYMk2CESQYfZo4a7fGL) | 4:23 |
 | 93 | [Hearts Ain’t Gonna Lie 2024](https://open.spotify.com/track/3nvPRRE12tv4AL180tALJj) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Hearts Ain’t Gonna Lie 2024](https://open.spotify.com/album/64c5ZxsjekifKiHGAhKhVW) | 3:15 |
 | 94 | [Going To My Head](https://open.spotify.com/track/5VT6K1GoBmMLkySKljNcZx) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Cabin Fever](https://open.spotify.com/album/724Umpj2VEH5ZAACzQMEAc) | 4:04 |
-| 95 | [Let Me In](https://open.spotify.com/track/2UTcMOGxRez2fwpGIoPVhp) | [OneDa](https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr) | [Formula OneDa](https://open.spotify.com/album/40v1KTsfP8RwBS1dpfZqTy) | 3:39 |
-| 96 | [Cowboys!](https://open.spotify.com/track/3fa6yQ4cPzbGZ1iGdsLGps) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Cowboys!](https://open.spotify.com/album/4E0ESe1xWk3PxnIjKWuyBS) | 2:54 |
-| 97 | [grit](https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [grit](https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr) | 2:13 |
+| 95 | [grit](https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [grit](https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr) | 2:13 |
+| 96 | [Let Me In](https://open.spotify.com/track/2UTcMOGxRez2fwpGIoPVhp) | [OneDa](https://open.spotify.com/artist/1DwRZpAKiTkUXcprfnxEFr) | [Formula OneDa](https://open.spotify.com/album/40v1KTsfP8RwBS1dpfZqTy) | 3:39 |
+| 97 | [Cowboys!](https://open.spotify.com/track/3fa6yQ4cPzbGZ1iGdsLGps) | [Chubby Cat](https://open.spotify.com/artist/7BkztvqJQObg4NfzHxugrZ) | [Cowboys!](https://open.spotify.com/album/4E0ESe1xWk3PxnIjKWuyBS) | 2:54 |
 | 98 | [Isn't he pretty](https://open.spotify.com/track/2P3CDEQ033ZBdFFhRyB3Jj) | [Aidan Jones](https://open.spotify.com/artist/2A68p8T4eDrXJyKZ2LyhfK) | [Isn't he pretty](https://open.spotify.com/album/4qOvuUumGNpB3CYasKlXPF) | 2:55 |
 | 99 | [DONT MAKE THIS WEIRD](https://open.spotify.com/track/1ehrv4HqEm5kqAGDcwSCzS) | [DONT MAKE THIS WEIRD](https://open.spotify.com/artist/66tkgyJ2o4lzRX8G2zlN1p) | [DONT MAKE THIS WEIRD](https://open.spotify.com/album/4H0jM5yZsfEpdd9RBqUBbs) | 2:50 |
 | 100 | [go!](https://open.spotify.com/track/7CkimUHw3vqjfJmxXcq2ka) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [go!](https://open.spotify.com/album/1Jg6CxHmAxmkf4CE8b8x17) | 3:31 |
 
-Snapshot ID: `AAAAABOnpbsIJFwOE/ERvRU+f3qKLcKb`
+Snapshot ID: `AAAAAIFcFqcgl+jSyoEb8YzDA8vZn1iu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,011,149 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,010,817 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [flux de vibrations](https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [flux de vibrations](https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9) | 2:56 |
 | 100 | [Healing](https://open.spotify.com/track/7cSUVpfdsK8usnXfoAmA1s) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Healing](https://open.spotify.com/album/3DXtWneHovYGlzXMXsiB0c) | 2:50 |
 
-Snapshot ID: `AAAAALcJVGVe8Vy/EIF67tBk48bQDcjX`
+Snapshot ID: `AAAAANBdm8Wm7Ft2SP5QDAjwM/j7JrpY`

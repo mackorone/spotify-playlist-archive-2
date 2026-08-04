@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,071,305 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,211 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Attract](https://open.spotify.com/track/4ykK6tNnlu2fAAWPCxzvFc) | [Ajna](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Attract](https://open.spotify.com/album/30L1oRMIswC3hErbOQ5JO9) | 5:07 |
 | 60 | [No Rules](https://open.spotify.com/track/55CHDLmvvmU1WPKuHDYsFf) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [No Rules EP](https://open.spotify.com/album/1S28FFZL59GgcUChSBfZBl) | 3:50 |
 
-Snapshot ID: `AAAAADhCkW0Z2fw3vOOPXqNdqtNu+uO1`
+Snapshot ID: `AAAAAHFWqrzBYTKLZGn2VnlP+lc5h/YV`

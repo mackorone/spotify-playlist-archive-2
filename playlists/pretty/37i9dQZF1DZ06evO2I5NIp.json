@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 6004,
+  "num_followers": 6003,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAAB08SRPWUM0+8RPE51CEigH",
+  "snapshot_id": "am6IgAAAAAByDMmO1QQUlCtUoBXSbO5u",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talking To Strangers",
-        "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 286333,
-      "name": "Don't Whisper",
-      "url": "https://open.spotify.com/track/7hIVwwihuWy6w92lIEdpxK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "America's Child",
         "url": "https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 285690,
       "name": "Great Rain",
       "url": "https://open.spotify.com/track/7KLVypiP5CbKgZbJGI68cz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talking To Strangers",
+        "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 286333,
+      "name": "Don't Whisper",
+      "url": "https://open.spotify.com/track/7hIVwwihuWy6w92lIEdpxK"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Long As I Can See The Light",
-      "url": "https://open.spotify.com/track/0ByhXJOrIGf6MfTwhrJRXF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "America's Child",
         "url": "https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 258415,
       "name": "Ain't Got Time For Hate",
       "url": "https://open.spotify.com/track/5NOFYqHrl9tCm0fZUXnj38"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Long As I Can See The Light",
+      "url": "https://open.spotify.com/track/0ByhXJOrIGf6MfTwhrJRXF"
     },
     {
       "added_at": null,
@@ -183,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 232346,
-      "name": "I Feel A Sin Coming On",
-      "url": "https://open.spotify.com/track/59eJW81XC2N4efIK8rZUqt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "America's Child",
         "url": "https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5"
       },
@@ -231,6 +215,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 232346,
+      "name": "I Feel A Sin Coming On",
+      "url": "https://open.spotify.com/track/59eJW81XC2N4efIK8rZUqt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Talking To Strangers",
         "url": "https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow"
       },
@@ -243,6 +243,22 @@
       "duration_ms": 234906,
       "name": "When A Woman's Had Enough",
       "url": "https://open.spotify.com/track/0NM6L05PewFO039wYaFjq9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "America's Child",
+        "url": "https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 292124,
+      "name": "In The Blood Of The Blues",
+      "url": "https://open.spotify.com/track/0ARa5rNP5aMiOUb6f5fe8L"
     },
     {
       "added_at": null,
@@ -263,22 +279,6 @@
       "duration_ms": 172261,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/2Kh8M6YbyuaP9iOMsYc58i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "America's Child",
-        "url": "https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 292124,
-      "name": "In The Blood Of The Blues",
-      "url": "https://open.spotify.com/track/0ARa5rNP5aMiOUb6f5fe8L"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outskirts of Love",
+        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Outskirts Of Love",
+      "url": "https://open.spotify.com/track/4i7CJNvFHCiA9uN1OVMFMw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Basie Swings The Blues",
         "url": "https://open.spotify.com/album/2LgSp4MlNeohQq2WmmqI0V"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 298984,
       "name": "I'm A Woman",
       "url": "https://open.spotify.com/track/7mK9ELM2oGKDTFdFXbijHo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outskirts of Love",
-        "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Outskirts Of Love",
-      "url": "https://open.spotify.com/track/4i7CJNvFHCiA9uN1OVMFMw"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Funky Blues",
+        "url": "https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 303640,
+      "name": "Steamy Windows",
+      "url": "https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outskirts of Love",
         "url": "https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf"
       },
@@ -779,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funky Blues",
-        "url": "https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI"
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
       },
       "artists": [
         {
@@ -788,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 303640,
-      "name": "Steamy Windows",
-      "url": "https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE"
+      "duration_ms": 224325,
+      "name": "Is There Anybody Up There?",
+      "url": "https://open.spotify.com/track/2lnTvZxC4kILRg4fKNR0bR"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 197468,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 224325,
-      "name": "Is There Anybody Up There?",
-      "url": "https://open.spotify.com/track/2lnTvZxC4kILRg4fKNR0bR"
     },
     {
       "added_at": null,

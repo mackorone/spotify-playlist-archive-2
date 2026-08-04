@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcCmWfoUaw2.md) - [plain]
 
 > Energetic tracks from the 2000s to boost your running session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,323,378 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,323,755 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcCmWfoUaw2.md) - [plain]
 | 49 | [Can't Get You out of My Head](https://open.spotify.com/track/7MoKXLQeI0Bh2QodCjDO4K) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever \(Deluxe Edition\)](https://open.spotify.com/album/2QDWFfsBr3EngvBwPtxoIY) | 3:50 |
 | 50 | [Hotel Room Service](https://open.spotify.com/track/32yIEFS62uS5ryhr2Xlooj) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Hotel Room Service](https://open.spotify.com/album/6t7u6RvLoWLfWPLRUUXD1d) | 3:58 |
 
-Snapshot ID: `AAAAAAYJEBUJ41OgIFJegAsIGvaL1a5Q`
+Snapshot ID: `AAAAABGWV/n0SDxUwhPANajJzZUlRhMk`

@@ -4,7 +4,7 @@
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-127 songs - 8 hr 8 min
+128 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Boy Meets Girl](https://open.spotify.com/track/1AEKR4Qb9RhiFndpZfcwzB) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 3:20 | 2024-01-29 |  |
 | [Breakdown](https://open.spotify.com/track/01cbb52SrkVOB8VuFaPoGP) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation](https://open.spotify.com/album/1tqFk7TTYICk0Mhk9XUX9L) | 4:13 | 2024-01-29 |  |
 | [Calm Seas \- short version \(with nature\)](https://open.spotify.com/track/2sI2vLSlP8nkIbIcGjDslH) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 4:47 | 2026-02-01 | 2026-07-22 |
+| [Calm Seas \- with nature](https://open.spotify.com/track/5om8aMZ07hua18SXWjeN1e) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Calm Seas](https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr) | 8:52 | 2026-08-04 |  |
 | [Campfire](https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0) | [Wendy Wang](https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Doogie Kamealoha, M.D\. \(Original Soundtrack\)](https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p) | 2:28 | 2024-01-31 |  |
 | [Cause We've Ended As Lovers](https://open.spotify.com/track/2NZqLPuDSh61xMOiXpWs0x) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Mick Fleetwood](https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu), [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Blues Experience](https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0) | 5:47 | 2025-02-05 | 2025-02-17 |
 | [Celtic Tune](https://open.spotify.com/track/7oR07ngXeGVfsQihGsaHd6) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nashville Sessions](https://open.spotify.com/album/0BOfytlIqA5WlJNcNN5J5o) | 2:22 | 2024-01-29 | 2024-12-02 |
@@ -35,7 +36,7 @@
 | [Good Company](https://open.spotify.com/track/0VhkfHlEUPXP7comqd943t) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:21 | 2024-01-29 |  |
 | [Grateful](https://open.spotify.com/track/65G1IOmG8zB627cyYUOyHJ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Justin Kawika Young](https://open.spotify.com/artist/12V3c5AeHKmadjjklZACbR) | [Grateful](https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc) | 3:40 | 2024-01-29 |  |
 | [Hallelujah](https://open.spotify.com/track/5K4mmfc7f1ZxFYkLimQK3C) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 4:24 | 2024-01-29 |  |
-| [Happy Day](https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj) | [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Time For Three](https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF) | 3:59 | 2024-01-29 |  |
+| [Happy Day](https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj) | [Time For Three](https://open.spotify.com/artist/5GK2hLwkSIVQSaQMTAmLbk), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Time For Three](https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF) | 3:59 | 2024-01-29 | 2026-08-04 |
 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs of Joy & Peace](https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10) | 4:45 | 2025-03-30 | 2025-04-03 |
 | [Have You Ever Seen The Rain?](https://open.spotify.com/track/2KGcEUHgC2NcXH5i7lu6CO) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Kawika Kahiapo](https://open.spotify.com/artist/6aPkORVtaipgr2ryrcNQRp) | [Have You Ever Seen The Rain?](https://open.spotify.com/album/0XFemF1cFczOzimPAjPksh) | 4:38 | 2024-12-27 | 2026-01-15 |
 | [Hawaii Rain](https://open.spotify.com/track/0YDWWwtms7jztv2tLBJi5p) | [Jim Brickman](https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Brickman Across America: Heart and Soul of American Music](https://open.spotify.com/album/02SZD1s8U4VJ2aCPXBXzr8) | 4:06 | 2024-04-19 | 2025-10-30 |

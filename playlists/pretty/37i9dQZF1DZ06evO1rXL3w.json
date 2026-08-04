@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "am03AAAAAABGHgxdyPgTvG9coqMFumKE",
+  "snapshot_id": "am6IgAAAAACdffE++eYpQrA1n0CCJMhb",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 83301,
-      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
+      "duration_ms": 206185,
+      "name": "Meet Dr. Monro - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 206185,
-      "name": "Meet Dr. Monro - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j"
+      "duration_ms": 83301,
+      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
     }
   ],
   "unique_name": "This Is Kris Bowers",

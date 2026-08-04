@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIvXTgZUFR4BP5YZhUJeqYOYq1PX",
+  "snapshot_id": "AAAAAEx2utBWBRK3NbL0WpQDIyUUICpQ",
   "tracks": [
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1475,18 +1475,22 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Cose stupide",
-        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
+        "name": "Piano e Forte",
+        "url": "https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2"
       },
       "artists": [
         {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Gheb",
+          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
         }
       ],
-      "duration_ms": 186500,
-      "name": "Cose stupide",
-      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
+      "duration_ms": 158400,
+      "name": "Piano e Forte",
+      "url": "https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1507,22 +1511,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Piano e Forte",
-        "url": "https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2"
+        "name": "Cose stupide",
+        "url": "https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq"
       },
       "artists": [
         {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Gheb",
-          "url": "https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Piano e Forte",
-      "url": "https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ"
+      "duration_ms": 186500,
+      "name": "Cose stupide",
+      "url": "https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "Foglio rosa",
-        "url": "https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7"
+        "name": "QUARTA DIMENSIONE",
+        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
       },
       "artists": [
         {
-          "name": "Tenth Sky",
-          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
+          "name": "Carla Hero",
+          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
         }
       ],
-      "duration_ms": 139540,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp"
+      "duration_ms": 121000,
+      "name": "CAMBIARE VITA",
+      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
     },
     {
       "added_at": "2026-07-30 22:02:52",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2026-07-30 22:02:52",
       "album": {
-        "name": "QUARTA DIMENSIONE",
-        "url": "https://open.spotify.com/album/3SIcscGSZtXx88OlAVborN"
+        "name": "Foglio rosa",
+        "url": "https://open.spotify.com/album/1W7ymm9tQ3ujae0Ho2Gnm7"
       },
       "artists": [
         {
-          "name": "Carla Hero",
-          "url": "https://open.spotify.com/artist/75zVVFZrepdsKuXaKDvJWu"
+          "name": "Tenth Sky",
+          "url": "https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1"
         }
       ],
-      "duration_ms": 121000,
-      "name": "CAMBIARE VITA",
-      "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
+      "duration_ms": 139540,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/67hibObZ6hQ5YGa7ymyqhp"
     },
     {
       "added_at": "2026-07-30 22:02:52",

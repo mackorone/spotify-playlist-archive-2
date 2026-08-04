@@ -1353,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Rojo 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/3tk3y6FPUIGhNmaV0m4st6"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "date_added": "2026-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475026,
+      "name": "Hasta Que Ya No Respire M\u00e1s",
+      "url": "https://open.spotify.com/track/5sWDrLTpvTDZpg8xb0XlWk"
+    },
+    {
+      "album": {
         "name": "El Cielo Est\u00e1 Aqu\u00ed",
         "url": "https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik"
       },
@@ -2696,7 +2714,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-08-04",
       "duration_ms": 269640,
       "name": "Por Amor",
       "url": "https://open.spotify.com/track/7j2pRAjkERWLyg4ULzxWTR"

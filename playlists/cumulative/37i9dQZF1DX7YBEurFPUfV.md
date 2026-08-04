@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Sanfara
 
-183 songs - 10 hr 29 min
+184 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [GELBI T3AB \(feat\. Samara\)](https://open.spotify.com/track/5O0rw93ajyfd3gIDvH4AFL) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [GELBI T3AB \(feat\. Samara\)](https://open.spotify.com/album/7kACB4BQT5tZZ3wcFdOyaY) | 4:03 | 2025-01-04 | 2026-01-15 |
 | [Ghaba](https://open.spotify.com/track/5fJzqNudt8ZdoFGi1LsQbT) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Ghaba](https://open.spotify.com/album/3cjuodS53dH13S46iQavuk) | 3:05 | 2024-04-18 | 2025-02-22 |
 | [Ghazali](https://open.spotify.com/track/1IWlR9Ld9K2teqAiJGpCzn) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ghazali](https://open.spotify.com/album/6hbOaD0XIJeDJ6QRHrnrDC) | 4:07 | 2025-01-23 | 2026-01-15 |
-| [Ghiba](https://open.spotify.com/track/4WA8ymp4hYwOJtMV4mJUCd) | [Gati](https://open.spotify.com/artist/4ekWTbo9R4FEndFfYwQT6c) | [Ghiba](https://open.spotify.com/album/7EZ5etOyXIX2goENkCzNW3) | 3:38 | 2025-02-27 |  |
+| [Ghiba](https://open.spotify.com/track/4WA8ymp4hYwOJtMV4mJUCd) | [Gati](https://open.spotify.com/artist/4ekWTbo9R4FEndFfYwQT6c) | [Ghiba](https://open.spotify.com/album/7EZ5etOyXIX2goENkCzNW3) | 3:38 | 2025-02-27 | 2026-08-04 |
 | [Ghiri Ena](https://open.spotify.com/track/7bIc7LBLYiTIV9MhpHSJif) | [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Ghiri Ena](https://open.spotify.com/album/3vUP0vneujlPSieDnbGZsZ) | 3:18 | 2024-02-24 | 2025-01-08 |
 | [Haka Tao?](https://open.spotify.com/track/3LT1WIwYXYRm5n7Qv2Xetg) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz), [4lfa](https://open.spotify.com/artist/0aJZiLm1NBWMcCKp6mkHMY) | [Haka Tao?](https://open.spotify.com/album/5Vo3jtsikRXZwG8Hh7g47V) | 3:37 | 2024-07-26 | 2024-11-01 |
 | [Hameda Hereb هارب](https://open.spotify.com/track/3LE2O2BQi6astoGXBKXe1V) | [Hameda Hereb](https://open.spotify.com/artist/1xnqi3G6wGYmgPXOA0fu1i) | [Hameda Hereb هارب](https://open.spotify.com/album/2HAqYpg8n9ovBZ2JehbxdZ) | 3:17 | 2024-02-24 | 2025-10-22 |
@@ -143,6 +143,7 @@
 | [Ntir B3id](https://open.spotify.com/track/5LxeJ3R89aHSDzRBIwfUtE) | [DefAtiJam](https://open.spotify.com/artist/404Fvjzc9WqsFnsYmIznPn) | [Ntir B3id](https://open.spotify.com/album/2YnfqCqmIYoIpfkYQRez3g) | 3:10 | 2025-12-18 | 2026-01-15 |
 | [OKHTOOBOOT](https://open.spotify.com/track/1bcrgO5rwQXotNG8jopDNJ) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 2:53 | 2026-01-15 |  |
 | [OLA MAMACITA](https://open.spotify.com/track/177S2XhyAhcxsk3hakffJN) | [XIIVI](https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N), [$MXTI](https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO) | [OLA MAMACITA](https://open.spotify.com/album/5HaMYk2wii197932giANzQ) | 2:17 | 2026-07-16 |  |
+| [OLA MAMACITA](https://open.spotify.com/track/5ha4Kh8bZZVDZbF1GfbAte) | [XIIVI](https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N), [$MXTI](https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO) | [SOUND SHIFTA \(Vol\. 1\)](https://open.spotify.com/album/3OkS3vrMBiEHRYsclvuO1B) | 2:17 | 2026-08-03 |  |
 | [OMMA](https://open.spotify.com/track/6xWO3A8vPPOfEqqWeGWeaM) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [ZÉRO UN](https://open.spotify.com/album/0mj9I5TGwP77NT2rFhemlB) | 3:02 | 2026-02-13 |  |
 | [Oumouri](https://open.spotify.com/track/27KxDtFcRXU1fcnRk7nnPz) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Oumouri](https://open.spotify.com/album/1EqoJhmcKMFw1VeB1Ols5k) | 3:37 | 2024-04-25 | 2024-05-25 |
 | [Psy](https://open.spotify.com/track/5w6jlBMMvZEi50lmC451u5) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Psy](https://open.spotify.com/album/2SaMbc7y7haixHL94kpWqX) | 2:46 | 2024-06-14 | 2024-07-05 |

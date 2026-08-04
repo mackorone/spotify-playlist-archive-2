@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > youngs soundss 🥞 USSEL på forsiden
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,207 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,206 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 69 | [Bitter](https://open.spotify.com/track/7jbGdPdS1cZmnGmJgIxsUK) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV), [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Bitter](https://open.spotify.com/album/5J6zC2NlbGa1tzjxwBCNPs) | 2:42 |
 | 70 | [sad song](https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [sad song](https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I) | 3:03 |
 
-Snapshot ID: `AAAAAAHs68VY4aQnny4w9JcPr/yWBbHt`
+Snapshot ID: `AAAAAK+DCokiVTpUTAxJRW/D0lptYxbI`

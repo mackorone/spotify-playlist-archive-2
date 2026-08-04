@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,914 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,917 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Qua cơn mê](https://open.spotify.com/track/1NVYZCxEwpfniJ8Pi3zuZH) | [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Phận tơ tằm](https://open.spotify.com/album/6DZ89SwYU7lInZi4gjIJig) | 4:11 |
 | 50 | [Đôi ngả chia ly](https://open.spotify.com/track/6QvOnwQ1wkSV7ZAyQnaqH2) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn), [Duy Quang](https://open.spotify.com/artist/0mK6ypkGLYJ1P4J1fP4Jcf) | [Đôi ngả chia ly](https://open.spotify.com/album/0gVz8sikwaHvh9LPN3EZMf) | 5:03 |
 
-Snapshot ID: `AAAAAHQb11VKQZt5LnpqMLyMSKt4nkg0`
+Snapshot ID: `AAAAAEzGVJXGs6LZPer+aXNA1IQZcZZ2`

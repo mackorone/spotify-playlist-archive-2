@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109555,
+  "num_followers": 109548,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAiEEIToBFCT+nYW12SG2K+WSWff",
+  "snapshot_id": "AAAAAJu4L4acwWxdFrgzYs9IUDgOmcOY",
   "tracks": [
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Late Night Trips",
+        "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 97436,
+      "name": "Late Night Trips",
+      "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/0IjfPMw2YNl9XBdcmcj74M"
       },
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Late Night Trips",
-        "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
+        "name": "Love Don't Change",
+        "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
       },
       "artists": [
         {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+          "name": "K5ive",
+          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
         }
       ],
-      "duration_ms": 97436,
-      "name": "Late Night Trips",
-      "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
+      "duration_ms": 214883,
+      "name": "Love Don't Change",
+      "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1503,22 +1519,6 @@
       "duration_ms": 182937,
       "name": "2:30AM",
       "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Love Don't Change",
-        "url": "https://open.spotify.com/album/6orzD3w7CUbkxnKYRa0Pg5"
-      },
-      "artists": [
-        {
-          "name": "K5ive",
-          "url": "https://open.spotify.com/artist/7rakWZcGfwWmCVJ6wEyUNM"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Love Don't Change",
-      "url": "https://open.spotify.com/track/0Zx3dXKiG5oBZj5mx12nus"
     },
     {
       "added_at": "2025-10-10 12:01:08",

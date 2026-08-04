@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: GHØSTKID
 
-1,025 songs - 2 day 10 hr 16 min
+1,026 songs - 2 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Hell's Paradise](https://open.spotify.com/track/2sL3dL8mASzaIJIkdWZZBd) | [blacktoothed](https://open.spotify.com/artist/0guYG99gfJe7LYCF4WR3c6), [Bite](https://open.spotify.com/artist/67BCUCn0nfMCbH7OnLX9AY), [Felix Fröhlich](https://open.spotify.com/artist/44usPxOdkEbtPorbLivJea) | [Hell's Paradise](https://open.spotify.com/album/0kNFBLh2X1nDX2bDbyDLMq) | 3:01 | 2024-06-27 | 2024-07-05 |
 | [Hello Heaven, Hello](https://open.spotify.com/track/2jUcuBOT2eoBnoMBTM4L1i) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hello Heaven, Hello](https://open.spotify.com/album/5YLk7hXivQWJezkRnWEfbH) | 9:06 | 2025-03-20 | 2026-06-04 |
 | [Help](https://open.spotify.com/track/7iCs2MBtk1NrADU6G3MjZB) | [Maelføy](https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp) | [Help](https://open.spotify.com/album/6Ae3eq0cJR9kR2nJUZw5pt) | 3:49 | 2025-01-10 | 2025-01-17 |
+| [Here She Comes](https://open.spotify.com/track/32MotHClwKZeElUM66SHsW) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Here She Comes](https://open.spotify.com/album/2PsO4ubRoqCjG4URWW6ul1) | 4:10 | 2026-08-03 |  |
 | [Here to Stay](https://open.spotify.com/track/0hUDVGg1GL70jyyE5T9kkD) | [Lansdowne](https://open.spotify.com/artist/5urnoBZifR5YXG5YdCOj34) | [Here to Stay](https://open.spotify.com/album/3quNTDVJ9YU0hLkqnCwfAc) | 3:28 | 2024-09-26 | 2024-10-04 |
 | [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 | 2025-01-10 | 2025-04-18 |
 | [Heroes Are Calling](https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes Are Calling](https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e) | 2:59 | 2024-06-27 | 2025-12-05 |
@@ -503,7 +504,7 @@
 | [Karmageddon](https://open.spotify.com/track/2ucKr6wYbk1TZ8pZXE01Me) | [Alexodus](https://open.spotify.com/artist/59ToZ5aOmsYGbFEVuOzpM8) | [Karmageddon](https://open.spotify.com/album/4gvSouBfSAxN4wWqsCJAWK) | 3:18 | 2025-08-07 | 2025-08-15 |
 | [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 | 2026-03-05 |  |
 | [Key Entity Extraction IX \- Shiloh The Selfish](https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Father of Make Believe \(New Entities Edition\)](https://open.spotify.com/album/7vHWOemZcXHOgBud2vsOEc) | 3:56 | 2025-10-02 | 2025-10-16 |
-| [Kid In A Candy Store](https://open.spotify.com/track/4PVg0EjwywuSYHm8MqCG5y) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Kid In A Candy Store](https://open.spotify.com/album/1rIgwnBWlFTwfMfsMMzHVq) | 4:08 | 2026-06-25 |  |
+| [Kid In A Candy Store](https://open.spotify.com/track/4PVg0EjwywuSYHm8MqCG5y) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Kid In A Candy Store](https://open.spotify.com/album/1rIgwnBWlFTwfMfsMMzHVq) | 4:08 | 2026-06-25 | 2026-08-04 |
 | [Kill Me Fast](https://open.spotify.com/track/7C7riddHoIPSCW8rhwFSYc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Kill Me Fast](https://open.spotify.com/album/4E6FXPPGQhdtBEHRyky87y) | 3:17 | 2025-07-24 | 2026-04-03 |
 | [KILLING ME](https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [KILLING ME](https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9) | 3:43 | 2024-10-03 | 2025-05-23 |
 | [Killing Need](https://open.spotify.com/track/4QtwnzmARYygmKiHYWFnYa) | [SKIRT.](https://open.spotify.com/artist/1ncSEf033cpKhDR6NI0lke) | [Killing Need](https://open.spotify.com/album/01me36obUEMES65zcISeLN) | 1:32 | 2026-07-02 | 2026-07-10 |

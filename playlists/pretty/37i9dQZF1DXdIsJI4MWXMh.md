@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena! Foto: La Descendencia Chilena
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,912 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,924 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 99 | [Anillo Grabado](https://open.spotify.com/track/6infY4q8h4b7FZcfKkFZtX) | [Furia Ranchera](https://open.spotify.com/artist/6pSGncstKllo6JhEGZ4Nvz) | [Anillo Grabado](https://open.spotify.com/album/76gwh4l3sby0LZsji6NSpC) | 4:12 |
 | 100 | [La Sustancia](https://open.spotify.com/track/1z36T7YUnNnuEjhaTFkTRk) | [Los Súper Sicarios](https://open.spotify.com/artist/0aGvFAZ4mcb0ol4Acc0kk4) | [La Sustancia](https://open.spotify.com/album/6WzUzJJ94oV4CppZb9rdd1) | 3:26 |
 
-Snapshot ID: `AAAAAGJ33a2kzWCkhQg2Jm7zylo+neuD`
+Snapshot ID: `AAAAAMeZKx7NjPnawQ1Ct/8mIIq7mXhL`

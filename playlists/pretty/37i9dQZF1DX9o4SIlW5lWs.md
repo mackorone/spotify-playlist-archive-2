@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,177 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,186 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 99 | [Pienso en Ti](https://open.spotify.com/track/6FJWdltW5dOa4pAHBDW9pi) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Amor, Familia y Respeto](https://open.spotify.com/album/434Iw6Hpknzb3altfTyF71) | 2:54 |
 | 100 | [Maldito Amor](https://open.spotify.com/track/5NlBak3CleM03JgyFHcHET) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Maldito Amor](https://open.spotify.com/album/4GCmuw2jffd56b9EHXGkSn) | 3:13 |
 
-Snapshot ID: `AAAAADSxgHXefLxqOVIljjXMcjbiJpdy`
+Snapshot ID: `AAAAAJ7Pbb+kjNlFUNJWQO6gmtPI6AiC`
